@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "1999-12-24"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE DICIEMBRE DE 2000.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -63,25 +63,43 @@ III. Legislatura A la Legislatura del Estado de México.
 
 IV. Gobernador Al Gobernador del Estado de México.
 
-V. Dependencias A los órganos administrativos del sector central de la administración pública, sea estatal o municipal.
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-VI. Secretaría A la Secretaría de Finanzas y Planeación.
+V. Ayuntamiento A los Ayuntamientos del Estado de México.
 
-VII. Entidades A los organismos públicos descentralizados, empresas de
+VI. Dependencias A los órganos administrativos del sector central de la administración pública, sea estatal o municipal.
+
+VII. Secretaría A la Secretaría de Finanzas y Planeación.
+
+VIII. Entidades A los organismos públicos descentralizados, empresas de
 
 Públicas participación estatal o municipal y fideicomisos públicos.
 
-VIII. Tesorería A la tesorería municipal.
+IX. Tesorería A la tesorería municipal.
 
-IX. Código Al Código Financiero del Estado de México y Municipios.
+X. Código Al Código Financiero del Estado de México y Municipios.
 
-X. Ley de Ingresos A la Ley de Ingresos del Estado de México, y a la Ley de Ingresos de
+XI. Ley de Ingresos A la Ley de Ingresos del Estado de México, y a la Ley de Ingresos de los Municipios del Estado de México.
 
-los Municipios del Estado de México.
-
-XI. Periódico Oficial A la "Gaceta del Gobierno" del Estado, y a la Gaceta Municipal en el
+XII. Periódico Oficial A la "Gaceta del Gobierno" del Estado, y a la Gaceta Municipal en el
 
 caso de los municipios.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XIII. Para efectos de vivienda localizada en zonas urbanas o rurales:
+
+A). Social Progresiva. Aquélla cuyo valor al término de la construcción o adquisición no exceda de 40,000 Unidades de Inversión.
+
+B). Interés Social. La que tenga un valor al término de la construcción o adquisición que no exceda de la cantidad de 71,500 Unidades de Inversión.
+
+C). Popular. La que tenga un valor al término de la construcción o adquisición que no exceda de 104,500 Unidades de Inversión.
+
+D). Media. La que tenga un valor al término de la construcción o adquisición que no exceda de la cantidad de 296,000 Unidades de Inversión.
+
+E). Residencial. La que tenga el (sic) término de la construcción o adquisición un valor que exceda de la cantidad de 296,000 Unidades de Inversión.
+
+F). Residencial alto y campestre. Aquélla cuyo valor al término de la construcción o adquisición exceda de la cantidad de 492,000 Unidades de Inversión (UDIS).
 
 Cuando en este ordenamiento se señale al Estado y municipios o sus dependencias y entidades públicas, se entenderá que cada una actúa de acuerdo con su competencia.
 
@@ -95,7 +113,7 @@ Las leyes, reglamentos y demás disposiciones financieras de observancia general
 
 ###### Artículo 6.
 
-Los plazos fijados en días, meses o años se computarán en días naturales, salvo disposición en contrario.
+(DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
 ## TITULO SEGUNDO. DE LOS PRINCIPIOS DE CARACTER FISCAL
 
@@ -115,7 +133,9 @@ Las contribuciones establecidas en este Código se clasifican en:
 
 I. Impuestos. Son los establecidos en este Código que deben pagar las personas físicas y morales, que se encuentren en la situación jurídica o de hecho prevista por el mismo, y que sean distintas a las señaladas en las fracciones II y III de este artículo.
 
-II. Derechos. Son las contraprestaciones establecidas en este Código, que deben pagar las personas físicas y morales, por recibir servicios que presten el Estado o los municipios en sus funciones de derecho público.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+II. Derechos. Son las contribuciones establecidas en este Código, que deben pagar las personas físicas y morales, por el uso o aprovechamiento de los bienes del dominio público de la Entidad, así como por recibir servicios que presten el Estado, sus organismos y municipios en funciones de derecho público.
 
 III. Aportaciones de Mejoras. Son las establecidas en este Código, a cargo de las personas físicas y morales, que con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas o de acciones de beneficio social.
 
@@ -123,9 +143,11 @@ III. Aportaciones de Mejoras. Son las establecidas en este Código, a cargo de l
 
 Son productos, las contraprestaciones por los servicios que presten el Estado y los municipios en sus actividades de derecho privado, así como por el uso, aprovechamiento y enajenación de sus bienes de dominio privado, que estén previstos en la Ley de Ingresos.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 11.
 
-Son aprovechamientos, los ingresos que perciban el Estado y los municipios por sus funciones de derecho público y por el uso o explotación de bienes del dominio público, distintos de las contribuciones, de los ingresos derivados de la coordinación hacendaria, de los ingresos provenientes de financiamientos, y de los que obtengan los organismos públicos descentralizados, que estén previstos en la Ley de Ingresos.
+Son aprovechamientos los ingresos que percibe el Estado y los municipios por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de la coordinación hacendaria y de los que obtengan los organismos auxiliares del Estado.
 
 ###### Artículo 12.
 
@@ -139,23 +161,31 @@ Son ingresos derivados de la coordinación hacendaria, los que perciban el Estad
 
 Son ingresos provenientes de financiamientos, los derivados de la contratación de créditos, en términos de lo establecido en este Código y demás disposiciones legales.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 15.
 
-Son créditos fiscales, las contribuciones, aprovechamientos, accesorios, y los que se deriven de responsabilidades administrativas resarcitorias, así como aquéllos a los que este Código y otras leyes les den ese carácter.
+Son créditos fiscales los que tengan derecho a percibir el Estado, los municipios o sus organismos que deriven de contribuciones, aprovechamientos, accesorios, y de responsabilidades administrativas, así como aquellos a los que las leyes les den ese carácter.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 16.
 
-Son autoridades fiscales, el Gobernador, los ayuntamientos, los presidentes y síndicos municipales, así como los servidores públicos de las dependencias o unidades administrativas, y de los organismos públicos descentralizados, que en términos de las disposiciones legales y reglamentarias tengan atribuciones de esta naturaleza.
+Son autoridades fiscales, el Gobernador, los ayuntamientos, los presidentes, síndicos y tesoreros municipales, así como los servidores públicos de las dependencias o unidades administrativas, y de los organismos públicos descentralizados, que en términos de las disposiciones legales y reglamentarias tengan atribuciones de esta naturaleza.
 
 ###### Artículo 17.
 
 El Estado, los municipios y los organismos públicos descentralizados podrán celebrar convenios para la administración y recaudación de contribuciones y aprovechamientos; y en este caso se considerarán autoridades fiscales, quienes asuman la función en los términos de los convenios que suscriban.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 18.
 
-Las disposiciones fiscales que establezcan cargas a los particulares y las que señalen excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa de las contribuciones y aprovechamientos.
+Las disposiciones fiscales que establezcan cargas a las personas o instituciones, las que señalen excepciones a las mismas, así como las que fijen las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a las personas o instituciones las normas que se refieren al sujeto, objeto, base, tasa o tarifa de las contribuciones.
 
-Las demás disposiciones fiscales se deberán aplicar mediante cualquier método de interpretación jurídica. A falta de norma expresa, se aplicarán los principios generales del derecho.
+> <small>(F. DE E., G.G. 12 DE MARZO DE 2001)</small>
+
+Las demás disposiciones fiscales se deberán aplicar mediante cualquier método de interpretación jurídica. A falta de norma fiscal expresa, se aplicarán las disposiciones del derecho común vigente en el Estado, siempre y cuando su aplicación no sea contraria a la naturaleza jurídica del derecho fiscal.
 
 ###### Artículo 19.
 
@@ -169,13 +199,35 @@ Las formas oficiales deberán publicarse en el Periódico Oficial.
 
 Las oficinas recaudadoras recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se presenten, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Unicamente podrán rechazar la presentación cuando no contengan el nombre, denominación o razón social del contribuyente, su domicilio fiscal, o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 20 Bis.
+
+Cuando los contribuyentes obligados a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en este Código, las autoridades fiscales exigirán su presentación ante las oficinas rentísticas, procediendo a realizar los actos siguientes:
+
+I. Requerir al contribuyente una cantidad igual a la contribución que éste debió determinar en la declaración omitida.
+
+II. Requerir al contribuyente una cantidad igual a la contribución determinada en la última declaración presentada
+
+III. En el supuesto que se haya omitido la presentación de dos o más declaraciones, éstas se estimarán de entre la de menor cuantía que haya presentado en las seis últimas declaraciones.
+
+Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en las fracciones anteriores, queda liberado del pago de las sanciones a que se haga acreedor, debiendo cubrir únicamente los recargos que se generen.
+
+La cantidad a pagar no libera a los obligados a presentar la declaración o declaraciones omitidas, ni limita las facultades de comprobación de las autoridades fiscales.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 21.
 
-Las declaraciones que presenten los contribuyentes, podrán ser modificadas por el propio contribuyente hasta en dos ocasiones mediante declaraciones complementarias para corregir los datos asentados en la declaración original siempre y cuando no se haya iniciado el procedimiento de comprobación, en caso de que se haya iniciado éste, sólo podrá presentarse, previa autorización de la autoridad fiscalizadora.
+Las declaraciones que presenten los contribuyentes, podrán ser modificadas por el propio contribuyente hasta en tres ocasiones mediante declaraciones complementarias, para corregir los datos asentados en la declaración original, siempre y cuando no se haya iniciado el procedimiento de comprobación, en caso de que se haya iniciado éste, sólo podrá presentarse previa autorización de la autoridad fiscalizadora.
+
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 Si como consecuencia de la presentación de la declaración complementaria, se determina que el pago efectuado fue menor al que correspondía, se cobrarán recargos sobre la diferencia por pago extemporáneo, contados a partir de la fecha en que debió hacerse el mismo.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las disposiciones de este Código y no tengan impuestos a cargo, presentarán la declaración correspondiente en ceros y estarán obligados a presentar las respectivas declaraciones hasta que exista cantidad a pagar, o bien se presente aviso de baja o suspensión.
 
 ###### Artículo 22.
 
@@ -189,9 +241,11 @@ III. El que señalen ante la autoridad fiscal.
 
 En ningún caso se podrá señalar domicilio fuera del territorio del municipio para cumplir obligaciones municipales, y del territorio del Estado cuando se trate de obligaciones de carácter estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 23.
 
-Están exentos del pago de impuestos, derechos y aportaciones de mejoras, el Estado, las entidades federativas en caso de reciprocidad y los municipios, cuando su actividad corresponda a funciones de derecho público. Así como las personas físicas y morales que señale este Código o en casos particulares la Ley de Ingresos.
+Están exentos del pago de impuestos, derechos y aportaciones de mejoras, el Estado, los municipios, los organismos descentralizados estatales y municipales y las entidades federativas en caso de reciprocidad, cuando su actividad corresponda a funciones de derecho público. Así como las personas físicas y morales que señale este Código o en casos particulares de la Ley de Ingresos.
 
 Para efectos de la declaración de la exención a que se refiere la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la calidad de bien del dominio público, deberá acreditarse fehacientemente. La exención se solicitará por escrito a la autoridad fiscal, debiéndose acompañar u ofrecer las pruebas que demuestren su procedencia.
 
@@ -217,21 +271,21 @@ El cumplimiento o exigibilidad de la obligación fiscal, no legitimará hechos o
 
 La determinación de los créditos fiscales corresponde a los contribuyentes. En caso de que la autoridad fiscal deba realizar esta acción, los contribuyentes proporcionarán la información necesaria dentro de los quince días siguientes a la fecha de su causación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 26.
 
 Los créditos fiscales se pagarán en efectivo, especie vía dación en pago, cheque de caja o certificado. El pago con cheques personales, las transferencias de fondos a través de medios bancarios o tarjetas de crédito, únicamente se aceptarán cuando así lo apruebe la autoridad fiscal.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+La dación en pago estará condicionada a la aceptación por parte de la autoridad fiscal. La resolución que se emita al efecto no constituirá instancia ni procederá recurso alguno en su contra.
 
-El pago con cheque se recibirá salvo buen cobro. Se aceptarán también cheques distintos de la cuenta personal del contribuyente sin certificar para el pago de créditos fiscales, cuando sean expedidos por el mismo, siempre y cuando el contribuyente se identifique previamente a satisfacción de la autoridad fiscal recaudadora.
+Sólo se considerarán para dación en pago los bienes inmuebles que se puedan destinar a un servicio público, conforme al valor que asigne un perito en avalúos bancarios. En caso de obras de arte y cultura, así como de bienes muebles de fácil realización, se aceptarán siempre y cuando se puedan incorporar al patrimonio del Estado y Municipios, y su valuación se determine por perito designado por autoridad fiscal.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+El pago con cheque se recibirá salvo buen cobro. Se aceptarán también cheques sin certificar distintos de la cuenta personal del contribuyente para el pago de créditos fiscales, siempre y cuando el contribuyente, se identifique previamente a satisfacción de la autoridad fiscal recaudadora.
 
-El cheque recibido por la autoridad fiscal deberá ser presentado al librado dentro de los quince días siguientes al de su fecha y en caso de que no sea pagado por causas imputables al contribuyente, dará lugar además del cobro del monto del cheque, una indemnización que será hasta del 20% del valor de éste y los accesorios legales que sean procedentes por el falso pago.
+El cheque recibido por la autoridad fiscal deberá ser presentado al librado dentro de los quince días siguientes al de su fecha y en caso de que no sea pagado por causas imputables al contribuyente, dará lugar además del cobro del monto del cheque, a una indemnización que será del 20% del valor de éste y los accesorios legales que sean procedentes por el falso pago.
 
-Quien pague créditos fiscales recibirá de la oficina recaudadora el recibo oficial o la forma prellenada, en los que conste la impresión original de la máquina registradora, y cuando se carezca de ella, deberá constar el sello de la oficina recaudadora y el nombre y firma del cajero o del servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito autorizadas, el comprobante para el contribuyente deberá contener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente.
+Quien pague créditos fiscales recibirá de la oficina recaudadora el recibo oficial o la forma prellenada, en los que conste la impresión original de la máquina registradora, y cuando se carezca de ella, deberá constar el sello de la oficina recaudadora y el nombre y firma del cajero o del servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito autorizadas, el comprobante para el contribuyente deberá contener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente y el desglose del concepto de pago.
 
 ###### Artículo 27.
 
@@ -249,6 +303,26 @@ El pago de derechos deberá hacerse, previamente a la prestación de los servici
 
 Tratándose de los créditos fiscales determinados por las autoridades en el ejercicio de sus facultades de comprobación, determinación o sancionadoras, deberán pagarse junto con sus accesorios, dentro de los diecisiete días hábiles siguientes a aquél en que surta efectos su notificación, o garantizarse cuando se interponga algún medio de impugnación o se solicite plazo para el pago en parcialidades.
 
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+El Fisco Estatal y Municipal tendrán preferencia para recibir el pago de créditos provenientes de ingresos que debió percibir, con excepciones de los siguientes casos:
+
+A). De los saldos garantizados con embargo o hipoteca que hayan sido inscritos en el Registro Publico de la Propiedad con anterioridad a la fecha de notificación del crédito fiscal originario, o del reconocimiento expreso del contribuyente mediante declaración en la que haya reconocido el adeudo.
+
+B). Del monto determinado en sentencia firme de pensiones alimenticias.
+
+C). De los adeudos por el pago de sueldos, salarios o indemnizaciones a los trabajadores, devengados en el último año, siempre y cuando exista laudo condenatorio firme.
+
+D). De los créditos fiscales federales notificados con anterioridad a los estatales o municipales.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+La vigencia de los adeudos antes citados se deberán acreditar mediante certificado de gravamen expedido por el Registro Público de la Propiedad, dentro de los tres meses anteriores a la fecha de la solicitud de declaratoria y con la constancia del monto total de lo adeudado; con la sentencia interlocutoria en donde se ordene la ejecución de la sentencia definitiva de alimentos; o bien, por el auto en que se ordene dar trámite al incidente que señalan los artículos 979 al 981 de la Ley Federal del Trabajo, según corresponda a cada caso.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Cuando en el procedimiento administrativo de ejecución concurran contra un mismo deudor el fisco federal con el fisco estatal o municipal fungiendo como autoridades federales de conformidad con los convenios de coordinación fiscal, la Secretaría de Hacienda y Crédito Público tramitará el procedimiento administrativo de ejecución y del producto obtenido, una vez cubiertos los gastos de ejecución, deberá cubrir los accesorios y contribuciones que correspondan al fisco estatal o municipal, en estricto cumplimiento del artículo 148 del Código Fiscal de la Federación.
+
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 30.
@@ -257,21 +331,27 @@ La falta de pago de un crédito fiscal en la fecha o dentro del plazo fijado por
 
 Los recargos se causarán hasta por cinco años por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-Cuando el contribuyente pague en forma espontánea las contribuciones omitidas, dichos recargos no excederán del 100% del monto de las contribuciones, tampoco podrán exceder del 200% del monto de las contribuciones, cuando la omisión del pago sea determinada por la autoridad fiscal en el ejercicio de sus facultades.
+Cuando el contribuyente pague en forma espontánea las contribuciones omitidas, dichos recargos no excederán del 50% del monto de las contribuciones. Cuando se hayan ejercido las facultades de revisión o comprobación fiscal que se establecen en este Código, los recargos no podrán exceder del 100% del monto de las contribuciones omitidas.
 
 > <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 No se actualizarán ni causarán recargos las responsabilidades administrativas resarcitorias, así como las multas impuestas por autoridades no fiscales.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 31.
 
-El Gobernador o el ayuntamiento, mediante resoluciones de carácter general que publiquen en el Periódico Oficial, podrán:
+El Gobernador o el ayuntamiento, mediante resoluciones de carácter general que publiquen en el Periódico Oficial, podrán condonar, subsidiar o eximir total o parcialmente, el pago de contribuciones, aprovechamientos y sus accesorios, cuando:
 
-I. Condonar, subsidiar o eximir total o parcialmente, el pago de contribuciones, aprovechamientos y sus accesorios, cuando por causas de fuerza mayor se afecte la situación económica de la población de algún municipio o región del Estado.
+I. Por causas de fuerza mayor se afecte la situación económica de la población de algún municipio o región del Estado.
 
-II. Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en este Código, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la tasa o la tarifa de las contribuciones y aprovechamientos, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
+II. Se realicen campañas para la regularización fiscal de los contribuyentes.
+
+En este último caso, la facultad de ambas autoridades para otorgar dichos beneficios, se limita exclusivamente al pago de accesorios.
+
+Asimismo podrán dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en este Código, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la tasa o la tarifa de las contribuciones y aprovechamientos, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
 
 Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones o aprovechamientos a que se refieren, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplir los beneficiarios.
 
@@ -451,27 +531,51 @@ XVII. Los notarios públicos, respecto de los impuestos Predial y Sobre Traslaci
 
 XVIII. Los propietarios de negociaciones que permitan en su local la instalación de cualquier tipo de máquinas o aparatos de recreación y azar accionadas con monedas, fichas o cualquier otro mecanismo respecto del impuesto que se cause por este concepto.
 
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XIX. Los depositarios de embargos por los bienes que les fueron dejados en custodia.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XX. Los propietarios de inmuebles que permitan en los mismos la instalación y explotación de cualquier tipo de estacionamiento público.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XXI. Los propietarios de inmuebles que permitan en los mismos la instalación y explotación de diversiones, juegos mecánicos, espectáculos públicos, tianguis comerciales y otros similares.
+
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 42.
 
-La autoridad fiscal está obligada a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con este Código. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes.
+Cuando de oficio o a petición del contribuyente se solicite por escrito, la devolución de cantidades pagadas indebidamente y las que procedan de conformidad con este Código, la autoridad fiscal deberá reintegrarlas mediante cheque nominativo
+
+La devolución deberá llevarse a cabo siempre que no haya créditos fiscales exigibles, en cuyo caso cualquier excedente se aplicará en cuenta. Los retenedores podrán solicitar la devolución, siempre que ésta se haga directamente a los contribuyentes.
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de un acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente.
 
-Cuando se solicite la devolución, éste deberá efectuarse dentro del plazo de treinta días siguientes a la fecha en que se presente la solicitud, con los datos, informes y documentos en que se sustente el derecho, ante la autoridad fiscal. Cuando falte algún dato, informe o documento, la autoridad en un plazo de cinco días hábiles requerirá al promovente para que lo presente o subsane la omisión, lo que éste deberá hacer en un plazo de diez días hábiles, y de no hacerlo la solicitud se tendrá por no presentada. Cuando exista requerimiento, el plazo de treinta días se contará a partir de que se subsane la omisión.
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de treinta días hábiles siguientes a la fecha en que se presente la solicitud, con los datos, informes y documentos en que se sustente el derecho, ante la autoridad fiscal. Cuando falte algún dato, informe o documento, la autoridad en un plazo de cinco días hábiles requerirá al promovente para que lo presente o subsane la omisión, lo que éste deberá hacer en un plazo de diez días hábiles, y de no hacerlo la solicitud se tendrá por no presentada. Cuando exista requerimiento, el plazo de treinta días se contará a partir de que se subsane la omisión.
 
-Si la devolución no se hubiera efectuado en el plazo de treinta días, la autoridad fiscal pagará intereses que se calcularán a partir del día siguiente al del vencimiento, conforme a una tasa que será igual a la prevista para los recargos por pago extemporáneo.
+Si la devolución no se hubiera efectuado en el plazo de treinta días hábiles, la autoridad fiscal pagará intereses que se calcularán a partir del día siguiente al del vencimiento, conforme a una tasa que será igual a la prevista para los recargos por pago extemporáneo.
 
 El pago de intereses deberá incluirse en la liquidación correspondiente, sin necesidad de que exista petición expresa por parte del contribuyente.
 
 El contribuyente que habiendo efectuado el pago de una contribución, interponga oportunamente los medios de defensa y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a recibir intereses sobre las cantidades que se hayan pagado indebidamente, a partir de que se efectuó el pago. En estos casos, el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra la misma contribución que se pague, ya sea a su cargo o que deba enterar en su carácter de retenedor.
 
-En ningún caso los intereses excederán de los que se causen en cinco años. La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
+En ningún caso los intereses excederán del 100% del monto de las contribuciones. La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
+
+Se podrán compensar los créditos y deudas entre el Estado y los municipios por una parte; y la Federación, otras Entidades Federativas, y Organismos por la otra.
+
+Las autoridades fiscales podrán compensar de oficio o a petición de los contribuyentes las cantidades que tengan a su favor por cualquier concepto, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a tercero y que hayan quedado firmes por cualquier causa. No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlos.
+
+En el caso de que la compensación la realice la autoridad de oficio, deberá notificarlo al contribuyente de manera personal.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 43.
 
-El crédito fiscal se extingue por prescripción en el término de cinco años contados a partir de la fecha en que el pago pudo ser legalmente exigible.
+El crédito fiscal se extingue por prescripción en el término de cinco años contados a partir de la fecha en que el pago pudo ser legalmente exigible; salvo que exista la obligación a cargo del contribuyente de presentar declaraciones, manifestaciones o avisos, en que comenzará a partir del día siguiente a aquel en que las presente, o cuando se trate de créditos fiscales que deban pagarse periódicamente se computará en forma independiente por cada periodo.
 
 La prescripción de créditos fiscales podrá declararse, de oficio o a petición de los particulares, por la autoridad fiscal.
 
@@ -545,7 +649,17 @@ IX. Conservar en su domicilio fiscal la documentación comprobatoria del cumplim
 
 X. Facilitar a las autoridades catastrales y fiscales el ejercicio de sus facultades de comprobación, y los trabajos para la instalación de instrumentos de medición.
 
-XI. Las demás que establezca este Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XI. Los contribuyentes que requieran de microfilmar o grabar en discos ópticos o de cualquier otro medio magnético, podrán hacerlo siempre que den aviso y obtengan la autorización correspondiente de la autoridad fiscal.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XII. Presentar el aviso de suspensión o baja de actividades para los impuestos previstos en este Código, cuando ya no sean sujetos en los mismos en un plazo que no excederá de diez días a partir de la fecha en que se de el acto.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XIII. Las demás que establezca este Código.
 
 ### CAPITULO CUARTO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
@@ -554,6 +668,32 @@ XI. Las demás que establezca este Código.
 Las autoridades fiscales, para determinar la existencia de créditos fiscales, dar las bases de su liquidación o cerciorarse del cumplimiento a las disposiciones de este Código, estarán facultadas para:
 
 I. Ordenar y practicar visitas domiciliaras a los contribuyentes, responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y documentos relacionados con sus obligaciones fiscales y, en su caso, podrán asegurarlos, previo inventario que al efecto se formule, dejando en calidad de depositario al visitado.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de seis meses contados a partir de que se le notifique al contribuyente el inicio de facultades de comprobación.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+El plazo a que se refiere el párrafo anterior, podrá ampliarse por periodos iguales hasta por dos ocasiones siempre que el oficio mediante el cual se notifique la prórroga correspondiente haya sido expedido, en la primera ocasión por la autoridad fiscal que ordenó la visita o revisión y, en la segunda, por el superior jerárquico de la autoridad fiscal que ordenó la citada visita o revisión, salvo cuando el contribuyente durante el desarrollo de la visita domiciliaria o de la revisión de la contabilidad, cambie de domicilio fiscal, supuesto en el que serán las autoridades fiscales que correspondan al nuevo domicilio las que expedirán, en su caso, los oficios de prórroga correspondientes.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones, o en su caso el de conclusión de la revisión, dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+El plazo antes referido se suspenderá cuando:
+
+A). Una vez iniciado el ejercicio de facultades de comprobación, el contribuyente desocupe su domicilio fiscal sin aviso, o no se le encuentre en el domicilio que haya señalado, hasta que se le localice.
+
+B). Interponga recurso administrativo de inconformidad o cualquier otro medio de defensa contra los actos y resoluciones que deriven del ejercicio de facultades de comprobación, hasta que se dicte resolución definitiva de los mismos.
+
+C). Se suspenda temporalmente el trabajo por huelga y hasta que se declare legalmente concluida ésta.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+De no concluirse la visita o revisión en el plazo señalado, ésta se entenderá concluida, quedando sin efectos la orden y las actuaciones que de ella se derivaron.
 
 II. Realizar la verificación física, clasificación o valuación de bienes relacionados con las obligaciones fiscales establecidas por este Código.
 
@@ -578,6 +718,10 @@ IX. Verificar la lectura del aparato medidor del servicio de agua.
 X. Determinar presuntivamente las contribuciones omitidas, en términos de este Código.
 
 XI. Brindar a los contribuyentes orientación, asistencia y asesoría gratuitas para el cumplimiento de sus obligaciones fiscales.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XII. Imponer multas a los contribuyentes, solidarios responsables o terceros con ellos relacionados, por infracciones a las disposiciones de este Código.
 
 ###### Artículo 49.
 
@@ -605,9 +749,11 @@ Cuando con motivo del ejercicio de sus facultades de comprobación la autoridad 
 
 Cuando en el ejercicio de sus facultades de comprobación la autoridad fiscal conozca de hechos presuntamente delictivos, comunicará éstos a la autoridad competente para que, en su caso, proceda a la formulación de la querella sin perjuicio de que la propia autoridad fiscal pueda continuar ejerciendo sus facultades de comprobación, con base en las cuales podrán aportarse elementos de prueba adicionales.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 53.
 
-Las facultades de las autoridades para determinar créditos fiscales derivados de contribuciones y aprovechamientos omitidos y sus accesorios, imponer sanciones por infracciones a las disposiciones de este Código, y hacerlas efectivas, se extinguirán en el plazo de cinco años contados a partir del día siguiente a aquél en que:
+Las facultades de las autoridades para determinar créditos fiscales derivados de contribuciones y aprovechamientos omitidos y sus accesorios, imponer sanciones por infracciones a las disposiciones de este Código, se extinguirán en el plazo de cinco años contados a partir del día siguiente a aquél en que:
 
 I. Se presentó la última declaración, cuando se tenga obligación de hacerlo.
 
@@ -631,6 +777,18 @@ Las autoridades fiscales están obligadas a contestar las consultas sobre situac
 
 Las resoluciones administrativas dictadas en materia de contribuciones que otorguen una autorización o que, siendo favorables a particulares determinen un régimen fiscal solamente surtirán sus efectos en el ejercicio fiscal en el que se otorguen, con excepción de lo dispuesto en el artículo 32 de este Código.
 
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o dejarlas sin efecto en beneficio del contribuyente; siempre y cuando no hubieren interpuesto medios de defensa, y hubieren transcurrido los plazos para presentarlos, salvo que en este último caso no se haya entrado al fondo del asunto por haberse desechado o declarado como no interpuesto y no haya prescrito el crédito fiscal.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+No se podrá resolver favorablemente una solicitud de revisión administrativa por violaciones de forma o de procedimiento.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la autoridad al respecto no podrán ser impugnadas por los contribuyentes.
+
 ###### Artículo 55.
 
 Los servidores públicos que intervengan en trámites relativos a la aplicación de este Código, están obligados a guardar la confidencialidad de los datos que proporcionen los particulares, excepto en los casos que de manera expresa se disponga lo contrario o cuando lo requiera la autoridad competente para la defensa de los intereses de la hacienda pública; o bien, las autoridades judiciales o administrativas.
@@ -641,11 +799,15 @@ Los servidores públicos que intervengan en trámites relativos a la aplicación
 
 #### SECCION PRIMERA. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 56.
 
-Están obligados al pago de este impuesto las personas físicas o morales que realicen pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, prestado dentro del territorio del Estado, independientemente de la denominación que se les otorgue.
+Están obligados al pago de este impuesto, las personas físicas o morales que realicen pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, independientemente de la denominación que se les otorgue.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+También están obligados a retener y enterar este impuesto en términos del presente Código, las personas físicas o morales que contraten la prestación de servicios con empresas cuyo domicilio esté ubicado fuera del territorio de esta entidad, para que le proporcionen los trabajadores, siempre que el servicio personal se preste en el territorio del Estado. En este caso deberán entregar a la persona física o moral que le proporcione los trabajadores, la constancia de retención correspondiente.
 
 Para efectos de este impuesto se consideran remuneraciones, las siguientes:
 
@@ -671,6 +833,22 @@ X. Comisiones.
 
 XI. Pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones.
 
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XII. Servicios de comedor y comida proporcionado a los trabajadores.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XIII. Vales de despensa.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XIV. Servicio de transporte
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XV. Primas de seguros para gastos médicos o de vida.
+
 ###### Artículo 57.
 
 El impuesto se determinará aplicando la tasa del 2% sobre el monto total de los pagos efectuados por concepto de remuneraciones al trabajo personal subordinado.
@@ -683,13 +861,15 @@ Este impuesto se causará en el momento en que se realicen las erogaciones por r
 
 No se pagará este impuesto, por las erogaciones que se realicen por concepto de las siguientes remuneraciones prestadas de manera general:
 
-I. Servicio de comedor y comida proporcionada a los trabajadores.
+I. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
-II. Vales de despensa.
+II. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
-III. Becas educacionales y deportivas.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-IV. Servicio de transporte.
+III. Becas educacionales y deportivas para los trabajadores.
+
+IV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
 V. Indemnizaciones por riesgos o enfermedades profesionales.
 
@@ -699,7 +879,7 @@ VII. Pagos a trabajadores domésticos.
 
 VIII. Pagos a discapacitados.
 
-IX. Primas de seguros por gastos médicos o de vida.
+IX. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
 X. Contraprestaciones pagadas por:
 
@@ -717,13 +897,15 @@ E). Los sindicatos, cámaras empresariales y las instituciones que los agrupen.
 
 F). Las microindustrias inscritas en el Padrón Nacional de la Microindustria, hasta por 6 trabajadores, que perciban el salario mínimo general vigente del área geográfica que corresponda.
 
-G). Las personas físicas que se dediquen a las actividades agrícolas, ganaderas, silvícolas o acuícolas, con ingresos anuales menores de veinte veces el salario mínimo general correspondiente al área geográfica, elevado al año.
+G). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
-H). Las personas morales que se dediquen a las actividades referidas en el inciso que antecede, con ingresos anuales que no excedan de veinte salarios mínimos generales del área geográfica que corresponda elevados al año, por cada socio, sin que sus ingresos totales excedan de doscientos salarios mínimos generales correspondientes al área geográfica, elevados al año.
+H). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+I). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
-I). Las personas físicas y morales que tengan a su servicio hasta tres trabajadores que perciban el salario mínimo general vigente del área geográfica que corresponda.
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XI. Pagos a administradores, comisarios o miembros de los consejos de administración de sociedades o asociaciones de carácter civil o mercantil que no provengan de una relación laboral.
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS AUTOMOTORES
 
@@ -733,61 +915,57 @@ Están obligadas al pago de este impuesto, las personas físicas y morales propi
 
 El impuesto se pagará anualmente mediante declaración, dentro de los tres primeros meses de cada año.
 
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 60 Bis.
+
+Se encuentran obligados al pago de este impuesto, las personas que reciban en comisión, consignación o transmitan para su enajenación vehículos automotores de más de diez años modelo de fabricación o ejercicio automotriz, anteriores al año fiscal de que se trate.
+
 ###### Artículo 61.
 
 Este impuesto se determinará como sigue:
 
 I. En el caso de vehículos de uso particular, la determinación será atendiendo al cilindraje del motor, conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
 CONCEPTO Números de Salarios Mínimos
 
-CILINDRAJE MODELOS Generales Vigentes del Area
+CILINDRAJE Generales Vigentes del Area
 
 Geográfica "C"
 
-Hasta de 4 1986 a 1990 3.62
+Hasta 4 4.0
 
-1981 a 1985 3.22
+De 6 9.0
 
-1980 y anteriores 2.82
+De 8 o más 13.0
 
-De 6 1986 a 1990 8.06
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-1981 a 1985 7.25
+II. En el caso de automóviles de uso particular importados al país, diferentes a los de fabricación nacional, que no son equiparables a los vehículos fabricados en México, conforme a las disposiciones de la Ley Federal del Impuesto sobre Tenencia o Uso de Vehículos, se pagará una cuota de 29 días de salario mínimo general vigente del área geográfica "C".
 
-1980 y anteriores 6.45
-
-De 8 o más 1986 a 1990 10.08
-
-1981 a 1985 9.27
-
-1980 y anteriores 8.46
-
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
-II. En el caso de automóviles de uso particular importados al país, diferentes a los de fabricación nacional, que no son equiparables a los vehículos fabricados en México, conforme a las disposiciones de la Ley Federal del Impuesto sobre Tenencia o Uso de Vehículos, se pagará una cuota de 27.40 días de salario mínimo general vigente del área geográfica "C".
-
-> <small>(F. DE E., G.G. 15 DE MARZO DE 2000)</small>
+(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)(F. DE E., G.G. 15 DE MARZO DE 2000)
 
 Los vehículos destinados a la prestación de servicios de protección civil, emergencias y rescate, pagarán en términos de la tarifa de la fracción I.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-III. En el caso de motocicletas, se pagará una cuota de 1.93 días de salario mínimo general vigente del área geográfica "C".
+III. En el caso de motocicletas, se pagará una cuota de 3 días de salario mínimo general vigente del área geográfica "C".
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-IV. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de 7.74 días de salario mínimo general del área geográfica "C".
+IV. En el caso de vehículos destinados al transporte público de pasajeros, se pegará una cuota de 13 días de salario mínimo general vigente del área geográfica "C".
+
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 Tratándose de vehículos de servicio público de transporte de pasajeros que pasen a ser de servicio particular, no pagarán el impuesto previsto en esta sección en el año que esta circunstancia ocurra, siempre y cuando se encuentren al corriente en el pago de esta contribución.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-V. En el caso de vehículos destinados al transporte de carga, se pagará una cuota de 1.93 días de salario mínimo general vigente del área geográfica "C", por cada tonelada o fracción de capacidad de carga. Si se acredita con la tarjeta de circulación respectiva, que el vehículo se utiliza en actividades agropecuarias, no pagarán este impuesto.
+V. En el caso de vehículos destinados al transporte de carga, se pagará una cuota de 2.5 días de salario mínimo general vigente del área geográfica que corresponda, por cada tonelada o fracción de capacidad de carga. Si se acredita con la tarjeta de circulación respectiva, que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
 
 #### SECCION TERCERA. DEL IMPUESTO SOBRE LA ADQUISICION DE VEHICULOS AUTOMOTORES USADOS
 
@@ -801,11 +979,11 @@ Se considera que la adquisición se realizó en el Estado cuando el adquirente d
 
 Se entiende por adquisición de vehículos automotores usados, la que derive de todo acto por el que se transmita la propiedad, incluyendo la donación y la sucesión. En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 63.
 
-El impuesto se determinará aplicando el 0.9% al valor que resulte mayor entre el valor de la operación que fijen los contratantes o el de mercado.
+Este impuesto se determinará aplicando el 1.0% al valor que resulte mayor entre el valor de la operación que fijen los contratantes o el de mercado.
 
 ###### Artículo 64.
 
@@ -817,11 +995,15 @@ El impuesto debe pagarse dentro de los sesenta días hábiles siguientes a la fe
 
 Están obligadas al pago de este impuesto las personas físicas y morales que en el territorio del Estado:
 
-I. Organicen o exploten loterías, rifas, sorteos, concursos y juegos permitidos con cruce de apuestas, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+I. Organicen o exploten loterías, rifas, sorteos, concursos y juegos permitidos con cruce o captación de apuestas, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos.
 
 II. Distribuyan o vendan los billetes, boletos, contraseñas o instrumentos que permitan participar en los eventos o actividades a que se refiere esta sección.
 
-III. Reciban o registren apuestas, no obstante que el organizador del evento se encuentre fuera del territorio del Estado y de que el evento de cuyo resultado dependa la obtención del premio, se celebre también fuera del territorio estatal.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+III. Reciban, registren, crucen o capten apuestas, no obstante que el organizador del evento se encuentre fuera del territorio del Estado y de que el evento de cuyo resultado dependa la obtención del premio, se celebre también fuera del territorio estatal.
 
 IV. Obtengan los premios derivados o relacionados con las actividades a que se refiere la fracción anterior, incluyendo como premios las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades, salvo los obtenidos de sorteos de bonos del ahorro nacional y de planes de ahorro administrados por el Patronato del Ahorro Nacional.
 
@@ -849,21 +1031,23 @@ V. Las escuelas con autorización oficial de estudios, en términos de la legisl
 
 VI. (DEROGADA, G.G. 24 DE DICIEMBRE DE 1999)
 
-VII. Quienes destinen el producto de las actividades exclusivamente a la beneficencia pública o privada, previa autorización de la Secretaría.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+VII. La enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Estatal cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 67.
 
-El impuesto se determinará aplicando la tasa del 12% al valor nominal de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías, rifas y sorteos. Cuando sean distribuidos gratuitamente o no se exprese su valor, el impuesto se calculará sobre el valor total de los premios.
+El impuesto se determinará aplicando la tasa del 6% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías, rifas y sorteos. Cuando sean distribuidos gratuitamente o no se exprese su valor, el impuesto se calculará sobre el valor total de los premios.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+En el caso de organización, realización o explotación de juegos permitidos con cruce y/o captación de apuestas, el impuesto se determinará aplicando la tasa del 3% sobre el monto total de los ingresos obtenidos, sin deducción alguna por quien organice, realice o explote el juego permitido o por quien reciba, registre, cruce o capte las apuestas.
 
-En el caso de organización, realización o explotación de juegos permitidos con cruce de apuestas, el impuesto se determinará sobre el monto total del corretaje que le corresponda a quien organice, realice o explote el juego permitido o a falta de aquél, el monto en dinero que perciba el organizador o quien realice o explote con motivo de tales actos, restándole en ambos casos el monto de los premios pagados.
+En el caso de concursos, el impuesto se determinará aplicando la tasa del 6% sobre el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento.
 
-En el caso de concursos, sobre el monto total de las inscripciones que permitan participar en el evento.
+Quienes obtengan premios derivados de las loterías, rifas, sorteos o concursos a que se refiere esta sección, pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por el organizador, o por quien organice, realice o explote los eventos, debiendo proporcionar la constancia de retención.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
-Quienes obtengan premios pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido por el organizador, o por quien organice, realice o explote los eventos, debiendo proporcionar la constancia de retención.
+Quienes obtengan premios derivados de juegos permitidos con cruce o captación de apuestas, pagarán el impuesto que resulte de aplicar la tasa del 3% al valor del premio, mismo que será retenido y enterado por quien organice, realice o explote los eventos, o por quien reciba, registre, cruce o capte las apuestas, debiendo proporcionar la constancia de retención correspondiente.
 
 ###### Artículo 68.
 
@@ -939,25 +1123,41 @@ servidores públicos del Poder Ejecutivo:
 
 1. De Educación:
 
-a). Programas de estudio. 1.05
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-b). Boletas de calificaciones. 1.05
+a). Programas de estudio. 1.13
 
-c). Certificados de estudio. 1.05
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-d). Títulos profesionales. 3.15
+b). Boletas de calificaciones. 1.13
 
-2. Del Registro Civil. 1.05
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+c). Certificados de estudio. 1.13
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+d). Títulos profesionales. 3.40
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Del Registro Civil. 1.13
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 3. De otros servidores públicos
 
-del Poder Ejecutivo 1.05
+del Poder Ejecutivo 1.13
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Por cada legalización de firmas
 
 de servidores públicos del Poder
 
-Judicial: 1.05
+Judicial: 1.13
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 II. Apostillamiento de documentos
 
@@ -965,7 +1165,7 @@ públicos para presentarse en países
 
 firmantes de la Convención de La
 
-Haya. 3.15
+Haya. 3.40
 
 III. Evaluación de las condiciones
 
@@ -975,39 +1175,57 @@ empresas en los que se manejen
 
 explosivos:
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 A). Carro vitrina para juguetería
 
-pirotécnica. 5.86
+pirotécnica. 6.32
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Bodega para artificios
 
-pirotécnicos. 23.44
+pirotécnicos. 25.31
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 C). Taller de artificios
 
-pirotécnicos. 35.16
+pirotécnicos. 37.97
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 D). Fábrica de elementos
 
-pirotécnicos. 58.60
+pirotécnicos. 63.29
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 E) Campos de tiro y clubes de
 
-caza. 68.37
+caza. 73.84
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 F). Instalaciones en que se realiza
 
 la compra-venta de sustancias
 
-químicas. 42.00
+químicas. 45.36
 
-G). Obras de ingeniería civil. 42.00
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+G). Obras de ingeniería civil. 45.36
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 H). Explotación minera o de bancos
 
-de cantera. 42.00
+de cantera. 45.36
 
-I). Industrias químicas. 42.00
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+I). Industrias químicas. 45.36
 
 > <small>(F. DE E., G.G. 15 DE MARZO DE 2000)</small>
 
@@ -1015,15 +1233,19 @@ IV. Por autorización de folios, volúmenes
 
 de protocolo y libros notariales:
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 A). Folios de protocolo ordinario,
 
-por volumen. 3.15
+por volumen. 3.40
 
 B). Folios de protocolo especial. exento
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 C). Libros de cotejos y
 
-ratificaciones. 5.25
+ratificaciones. 5.67
 
 SUBSECCION SEGUNDA
 
@@ -1047,45 +1269,77 @@ Geográfica que corresponda.
 
 A). Conductor de ómnibus.
 
-1. Por cuatro años de vigencia. 21.58
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Por tres años de vigencia. 16.18
+1. Por cuatro años de vigencia. 23.31
 
-3. Por dos años de vigencia. 12.14
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-4. Por un año de vigencia. 9.09
+2. Por tres años de vigencia. 17.47
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+3. Por dos años de vigencia. 13.11
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+4. Por un año de vigencia. 9.82
 
 B). Chofer.
 
-1. Por cuatro años de vigencia. 16.05
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Por tres años de vigencia. 12.03
+1. Por cuatro años de vigencia. 17.33
 
-3. Por dos años de vigencia. 9.03
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-4. Por un año de vigencia. 6.77
+2. Por tres años de vigencia. 12.99
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+3. Por dos años de vigencia. 9.75
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+4. Por un año de vigencia. 7.31
 
 C). Automovilista.
 
-1. Por cuatro años de vigencia. 12.30
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Por tres años de vigencia. 9.22
+1. Por cuatro años de vigencia. 13.28
 
-3. Por dos años de vigencia. 6.92
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-4. Por un año de vigencia. 5.19
+2. Por tres años de vigencia. 9.96
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+3. Por dos años de vigencia. 7.47
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+4. Por un año de vigencia. 5.61
 
 D). Motociclista.
 
-1. Por cuatro años de vigencia. 12.30
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Por tres años de vigencia. 9.22
+1. Por cuatro años de vigencia. 13.28
 
-3. Por dos años de vigencia. 6.92
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-4. Por un año de vigencia. 5.19
+2. Por tres años de vigencia. 9.96
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+3. Por dos años de vigencia. 7.47
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+4. Por un año de vigencia. 5.61
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 II. Duplicado de licencias, con la
 
@@ -1093,7 +1347,7 @@ vigencia del documento expedido
 
 originalmente y con la leyenda de
 
-"Duplicado" 3.50
+"Duplicado" 3.78
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -1101,33 +1355,37 @@ III. Por la expedición de permiso temporal para manejar:
 
 A). Por dos años:
 
-1. Alta. 6.92
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+1. Alta. 7.47
 
 B) Por un año:
 
-> <small>(F. DE E., G.G. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-1. Alta. 5.19
+1. Alta. 5.61
 
-2. Resello. 5.19
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Resello. 5.61
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 IV. Por la expedición de permiso temporal para aprendizaje de manejo de automóvil particular hasta por seis meses:
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-A). Altas. 12.30
+A). Altas. 13.28
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). Resello. 12.30
+B). Resello. 13.28
 
 El pago de los anteriores conceptos incluye exámenes médico, psicométrico y vial.
 
 Para conductores de vehículos de servicio público de pasajeros, incluye también la expedición de la tarjeta de identificación personal.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 V. Por la expedición de permisos para
 
@@ -1135,7 +1393,7 @@ circular fuera de ruta y fuera de la
 
 demarcación autorizada con vigencia
 
-de uno a quince días 5.44
+de uno a quince días 5.88
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -1159,99 +1417,153 @@ remolque y trailer:
 
 A). Por la expedición inicial de placas, tarjeta de circulación y calcomanía:
 
-1. Para vehículos de servicio particular. 6.98
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Para vehículos de servicio público. 14.83
+1. Para vehículos de servicio particular. 7.54
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Para vehículos de servicio público. 16.02
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 3. Para vehículos destinados a carga
 
-mercantil. 12.64
+mercantil. 13.65
 
 4. Para remolques:
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 Con capacidad de carga de hasta
 
-1,000 Kg. 12.64
+1,000 Kg. 13.65
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Con capacidad de carga de 1,001 a
 
-5,000 Kg. 15.08
+5,000 Kg. 16.29
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Con capacidad de carga de 5,001 a
 
-10,000 Kg. 18.04
+10,000 Kg. 19.48
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Con capacidad de carga de 10,001 Kg.,
 
-en adelante 26.08
+en adelante 28.17
 
 B). Por refrendo anual:
 
-1. Para vehículos de servicio particular. 3.21
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Para vehículos de servicio público. 10.71
+1. Para vehículos de servicio particular. 3.47
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Para vehículos de servicio público. 11.57
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 3. Para vehículos destinados a carga
 
-mercantil. 9.08
+mercantil. 9.81
 
 4. Para remolques:
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 Con capacidad de carga de hasta
 
-1,000 Kg. 12.64
+1,000 Kg. 13.65
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Con capacidad de carga de 1,001 a
 
-5,000 Kg. 15.08
+5,000 Kg. 16.29
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Con capacidad de carga de 5,001 a
 
-10,000 Kg. 18.04
+10,000 Kg. 19.48
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Con capacidad de carga de 10,001 Kg.,
 
-en adelante 26.08
+en adelante 28.17
 
 C). (DEROGADO, G.G. 24 DE DICIEMBRE DE 1999)
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 D). Por el duplicado de la tarjeta de
 
-circulación. 2.18
+circulación. 2.35
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 E). Por cambio de propietario o reposición
 
-de calcomanía. 2.18
+de calcomanía. 2.35
 
 F). Por la expedición del permiso para circular sin placas, sin tarjeta de circulación y sin calcomanía hasta por treinta días:
 
-1. Para vehículos de servicio particular. 2.18
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Para vehículos de servicio público. 4.37
+1. Para vehículos de servicio particular. 2.35
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Para vehículos de servicio público. 4.72
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 3. Para vehículos destinados a carga
 
-mercantil. 4.37
+mercantil. 4.72
 
-4. Para remolques. 4.37
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+4. Para remolques. 4.72
 
 G). Por la expedición del permiso para transportar carga en vehículo particular:
 
-1. Por ciento ochenta días. 10.71
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+1. Por ciento ochenta días. 11.57
 
 H). Por el trámite de baja de vehículo:
 
-1. Vehículo particular. 4.37
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Vehículo de servicio público. 4.37
+1. Vehículo particular. 4.72
 
-3. Vehículo de carga mercantil. 6.55
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Vehículo de servicio público. 4.72
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+3. Vehículo de carga mercantil. 7.07
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 4. Vehículo particular emplacado en
 
 otra entidad federativa. 0.00
 
-5. Remolque. 6.24
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+5. Remolque. 6.74
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 6. Remolque emplacado en otra
 
@@ -1261,35 +1573,53 @@ II. Para motocicletas y motonetas:
 
 A). Por la expedición inicial de placa, tarjeta de circulación, así como por el refrendo anual:
 
-1. Cilindrada hasta 350 c.c. 5.23
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. De 351 c.c. en adelante. 6.26
+1. Cilindrada hasta 350 c.c. 5.65
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. De 351 c.c. en adelante. 6.76
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Por la expedición de permisos para
 
 circular sin placas y sin tarjeta de
 
-circulación hasta por treinta días. 2.10
+circulación hasta por treinta días. 2.27
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 C). Por reposición de tarjeta de
 
-circulación. 2.18
+circulación. 2.35
 
 D). Por reposición de placa.
 
-1. Cilindrada hasta 350 c.c. 4.37
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. De 351 c.c. en adelante. 4.97
+1. Cilindrada hasta 350 c.c. 4.72
 
-E). Por cambio de propietario. 2.23
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. De 351 c.c. en adelante. 5.37
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+E). Por cambio de propietario. 2.41
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 F). Por trámite de baja de vehículos
 
 emplacados en otra entidad federativa. 0.00
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 G). Por la expedición de permiso para
 
-transportar carga, por cada treinta días. 0.90
+transportar carga, por cada treinta días. 0.97
 
 III. Por la expedición inicial de placas
 
@@ -1297,11 +1627,15 @@ demostradoras y tarjetas de circulación,
 
 así como refrendo:
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 A). Expedición inicial de placas y tarjetas
 
-de circulación. 17.44
+de circulación. 18.84
 
-B). Refrendo. 13.50
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+B). Refrendo. 14.58
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -1319,23 +1653,31 @@ Generales Vigentes del Area
 
 Geográfica que corresponda.
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 I. Por la práctica anual de revista
 
 a vehículos de servicio público,
 
 así como a vehículos particulares
 
-de carga. 5.53
+de carga. 5.97
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 II. Por la reposición del tarjetón
 
-de revista anual. 2.40
+de revista anual. 2.59
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 III. Por los servicios de certificación
 
 de documentos registrados en los
 
-archivos de la dependencia. 0.90
+archivos de la dependencia. 0.97
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 IV. Por los servicios de certificación
 
@@ -1343,7 +1685,7 @@ de extravío, mutilación o deterioro de
 
 documentos que amparen la circulación
 
-del vehículo. 0.64
+del vehículo. 0.69
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -1363,7 +1705,7 @@ Generales Vigentes del Area
 
 Geográfica que corresponda
 
-> <small>(F. DE E., G.G. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 I. Por el estudio y evaluación de
 
@@ -1373,13 +1715,17 @@ cada elemento de seguridad con que
 
 cuente la empresa prestadora del
 
-servicio. 13.80
+servicio. 14.90
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 II. Por cada evaluación posterior que
 
 realice la autoridad competente en los
 
-términos del permiso respectivo. 13.80
+términos del permiso respectivo. 14.90
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 III. Por la supervisión del cumplimiento
 
@@ -1393,7 +1739,9 @@ actividades con gran afluencia de
 
 personas, tránsito de vehículos o manejo
 
-de efectivo y valores. 21.00
+de efectivo y valores. 22.68
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 IV. Por la instalación a los sistemas
 
@@ -1403,7 +1751,7 @@ comunicación de la Dirección General
 
 de Seguridad Pública y Tránsito, para
 
-la atención de llamadas de auxilio. 21.00
+la atención de llamadas de auxilio. 22.68
 
 SUBSECCION TERCERA
 
@@ -1413,7 +1761,7 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE PROTECCION C
 
 #### SECCION DECIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE SALUD
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 76.
 
@@ -1427,6 +1775,8 @@ Generales Vigentes del Area
 
 Geográfica que corresponda.
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 I. Por la evaluación o dictamen anual
 
 de la capacidad técnica y práctica de las
@@ -1439,7 +1789,9 @@ morales cuyas finalidades sean institucionalmente
 
 de protección civil, conforme a las disposiciones
 
-jurídicas relativas. 54.60
+jurídicas relativas. 58.97
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 II. Por la revisión y evaluación anual de las
 
@@ -1455,7 +1807,7 @@ manera permanente, temporal o eventual, dentro
 
 de las labores inherentes de protección civil por
 
-parte de grupos voluntarios. 54.60
+parte de grupos voluntarios. 58.97
 
 III. Por la evaluación, recepción y control de la
 
@@ -1465,13 +1817,19 @@ seguridad en bienes muebles e inmuebles, para
 
 el desarrollo de las siguientes actividades:
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 A). Almacenaje, compra-venta o distribución de
 
-gases, por establecimiento. Trimestral. 22.05
+gases, por establecimiento. Trimestral. 23.81
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Almacenaje, compra-venta o distribución de
 
-gasolina, por establecimiento. Mensual. 13.65
+gasolina, por establecimiento. Mensual. 14.74
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 C). Almacenaje, compra-venta o distribución de
 
@@ -1479,19 +1837,25 @@ cualquier tipo de sustancias flamables, explosivas
 
 o tóxicas en general distintas a las anteriores, por
 
-establecimiento. Mensual. 22.05
+establecimiento. Mensual. 23.81
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 D). Industriales de alto riesgo, que queden sujetas
 
 a evaluación, conforme a las normas jurídicas
 
-aplicables en materia de protección civil. Bimestral. 22.05
+aplicables en materia de protección civil. Bimestral. 23.81
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 E). Prestación de servicios que queden sujetos a
 
 evaluación, conforme a las normas jurídicas
 
-aplicables en materia de protección civil. Anual. 22.05
+aplicables en materia de protección civil. Anual. 23.81
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 F). Concentración masiva de población en lugares
 
@@ -1499,7 +1863,9 @@ o centros sujetos a evaluación conforme a las
 
 normas jurídicas aplicables en materia de protección
 
-civil. Bimestral. 13.65
+civil. Bimestral. 14.74
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 G). Actos, funciones, espectáculos y diversiones
 
@@ -1509,7 +1875,9 @@ recreativo y otros similares que den lugar a la
 
 concentración masiva de población, por cada ocasión
 
-que se realicen. 22.05
+que se realicen. 23.81
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 H). Prestación de servicios de transporte de
 
@@ -1519,9 +1887,9 @@ sea de alto riesgo, sujetos a evaluación conforme a
 
 las normas jurídicas aplicables en materia de
 
-protección civil, por vehículo. Anual. 15.75
+protección civil, por vehículo. Anual. 17.01
 
-> <small>(F. DE E., G.G. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 IV. Por la prestación de los servicios de asesoría
 
@@ -1529,7 +1897,9 @@ técnica a personas físicas o morales que así lo
 
 soliciten, para la elaboración de sus programas
 
-internos de protección civil. 13.65
+internos de protección civil. 14.74
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 V. Por la emisión de resultados de la evaluación
 
@@ -1537,19 +1907,23 @@ del análisis de vulnerabilidad por riesgos para su
 
 incorporación al Atlas respectivo, por
 
-establecimiento. 101.85
+establecimiento. 110.00
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 VI. Por la prestación de servicios informativos
 
 sobre las georeferencias derivadas del Programa
 
-Estatal de Protección Civil. 29.40
+Estatal de Protección Civil. 31.75
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 VII. Por la prestación de los servicios que involucre
 
 el Programa de Capacitación en materia de
 
-protección civil, por hora de capacitación. 8.40
+protección civil, por hora de capacitación. 9.07
 
 SUBSECCION CUARTA
 
@@ -1561,13 +1935,13 @@ Por inscripción de documentos o actos relativos a bienes inmuebles se pagarán 
 
 I. Por inscripciones relativas a la propiedad o posesión originaria de bienes inmuebles:
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 A). Apeo y deslinde, 22.28 días de salario mínimo general vigente del área geográfica que corresponda.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). Capitulaciones matrimoniales sobre inmuebles, 8.22 días de salario mínimo general vigente del área geográfica que corresponda.
+B). Capitulaciones matrimoniales sobre inmuebles, 8.88 días de salario mínimo general vigente del área geográfica que corresponda.
 
 C). Compra-venta. Se equipararán a la compra-venta los siguientes actos o contratos:
 
@@ -1631,9 +2005,9 @@ H). Actos, contratos, convenios o autorizaciones por los que se fraccione, lotif
 
 I). Otros actos inscribibles o anotables.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-Por las inscripciones o anotaciones a que se refieren los incisos E), F), G) y H), se pagarán por concepto de derechos 12.35 días de salario mínimo general vigente según área geográfica que corresponda.
+Por las inscripciones o anotaciones a que se refieren los incisos E), F), G) y H), se pagarán por concepto de derechos 13.34 días de salario mínimo general vigente según área geográfica que corresponda.
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -1641,7 +2015,7 @@ Por las inscripciones o anotaciones previstas en los incisos E) y H) referidas a
 
 Por las inscripciones o anotaciones de los actos a que se refieren los incisos C), D) e I), se pagarán derechos, conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -1659,7 +2033,7 @@ valor determinado o éste sea hasta de
 
 área geográfica que corresponda, elevado
 
-al año. 22.28
+al año. 24.06
 
 2. Cuando el valor de los actos a inscribir
 
@@ -1667,7 +2041,7 @@ sea de más de 10 y hasta 12.5 días de salario
 
 mínimo general del área geográfica que
 
-corresponda, elevado al año. 66.85
+corresponda, elevado al año. 72.70
 
 3. Cuando el valor de los actos a inscribir sea
 
@@ -1675,7 +2049,7 @@ de más de 12.5 y hasta 15 días de salario
 
 mínimo general vigente del área geográfica que
 
-corresponda, elevado al año. 111.43
+corresponda, elevado al año. 120.34
 
 4. Cuando el valor de los actos a inscribir sea
 
@@ -1683,7 +2057,7 @@ de más de 15 y hasta 17.5 días de salario
 
 mínimo general vigente del área geográfica que
 
-corresponda, elevado al año. 155.99
+corresponda, elevado al año. 168.47
 
 5. Cuando el valor de los actos a inscribir sea
 
@@ -1691,7 +2065,7 @@ de más de 17.5 y hasta 20 días de salario
 
 mínimo general vigente del área geográfica que
 
-corresponda, elevado al año. 200.57
+corresponda, elevado al año. 216.62
 
 6. Cuando el valor de los actos a inscribir sea
 
@@ -1699,15 +2073,15 @@ de más de 20 días de salario mínimo
 
 general vigente del área geográfica que corresponda,
 
-elevado al año. 223.28
+elevado al año. 241.14
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 Por las inscripciones a que se refiere el inciso C) se tomará como valor el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo, para la ubicación del rango correspondiente de la tarifa anterior. Tratándose de las adquisiciones que hagan los arrendatarios financieros, al ejercer la opción de compra, se tomará como valor el que se haya concertado en el contrato de arrendamiento financiero respectivo. Cuando el objeto del acto jurídico sean dos o más inmuebles se deberá expresar, en el documento respectivo, el valor de cada uno de ellos a fin de ubicarlos en el rango correspondiente en forma individual.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción 8.81 días de salario mínimo general vigente del área geográfica que corresponda.
+La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción, 9.51 días de salario mínimo general vigente del área geográfica que corresponda.
 
 II. Por inscripciones o autorizaciones relativas a las limitaciones o gravámenes de la propiedad y posesión original del inmueble:
 
@@ -1755,7 +2129,7 @@ S). Otros actos inscribibles o anotables.
 
 Por las inscripciones o anotaciones de los actos a que se refiere esta fracción se pagarán por concepto de derechos, conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -1773,7 +2147,7 @@ veces el salario mínimo general vigente del área
 
 geográfica que corresponda, elevado
 
-al año. 22.28
+al año. 24.06
 
 2. Cuando el valor de los actos a inscribir
 
@@ -1781,7 +2155,7 @@ sea de más de 10 y hasta 12.5 días de salario
 
 mínimo general vigente del área geográfica que
 
-corresponda, elevado al año. 66.85
+corresponda, elevado al año. 72.19
 
 3. Cuando el valor de los actos a inscribir
 
@@ -1789,7 +2163,7 @@ sea de más de 12.5 y hasta 15 días de salario
 
 mínimo general vigente del área geográfica que
 
-corresponda, elevado al año. 111.43
+corresponda, elevado al año. 120.34
 
 4. Cuando el valor de los actos a inscribir
 
@@ -1797,7 +2171,7 @@ sea de más de 15 y hasta 17.5 días de salario
 
 mínimo general vigente del área geográfica que
 
-corresponda, elevado al año. 155.99
+corresponda, elevado al año. 168.46
 
 5. Cuando el valor de los actos a inscribir
 
@@ -1805,7 +2179,7 @@ sea de más de 17.5 y hasta 20 días de salario
 
 mínimo general vigente del área geográfica que
 
-corresponda, elevado al año. 200.57
+corresponda, elevado al año. 216.61
 
 6. Cuando el valor de los actos a inscribir
 
@@ -1813,11 +2187,11 @@ sea de más de 20 días de salario mínimo
 
 general vigente del área geográfica que
 
-corresponda, elevado al año. 223.28
+corresponda, elevado al año. 241.14
 
 Por la inscripción de las hipotecas en las que intervenga el Fondo Instituido en Relación a la Agricultura (FIRA), el pago de los derechos se hará conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -1835,7 +2209,7 @@ mínimo general vigente del área
 
 geográfica que corresponda, elevado
 
-al año. 7.31
+al año. 7.89
 
 B). Cuando el valor de la operación
 
@@ -1845,25 +2219,25 @@ mínimo general vigente del área
 
 geográfica que corresponda, elevado
 
-al año. 18.49
+al año. 19.96
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 Por la inscripción de hipotecas para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán 2.10 días de salario mínimo general vigente del área geográfica que corresponda.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-Para cada cancelación de inscripción o anotación relativa a los actos anteriores, se pagarán 18.49 días de salario mínimo general vigente del área geográfica que corresponda. A excepción de las cancelaciones respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a 1.05 días de salario mínimo general vigente del área geográfica que corresponda, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en Relación con la Agricultura.
+Para cada cancelación de inscripción o anotación relativa a los actos anteriores, se pagarán 19.96 días de salario mínimo general vigente del área geográfica que corresponda. A excepción de las cancelaciones respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a 1.05 días de salario mínimo general vigente del área geográfica que corresponda, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en Relación con la Agricultura.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-Tratándose de división de hipoteca, deberá pagarse una cantidad equivalente a 22.28 días de salario mínimo general vigente del área geográfica que corresponda.
+Tratándose de división de hipoteca, deberá pagarse una cantidad equivalente a 24.06 días de salario mínimo general vigente del área geográfica que corresponda.
 
 Cuando en un solo documento se contengan dos o más contratos a inscribir, el monto de cada uno de ellos se ubicará en el rango correspondiente en forma individual, para efectos de la aplicación de la tarifa de esta fracción.
 
-(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999) (F. DE E., G.G. 15 DE MARZO DE 2000)
+(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
-Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresivo o popular, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos correspondientes, o bien, con recursos proporcionados por éstos cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de los recursos y además que su valor al término de la construcción o adquisición no exceda al equivalente de 71,500 Unidades de Inversión (UDI's) en el caso de viviendas de interés social; de 40,000 Unidades de Inversión (UDI's) tratándose de viviendas social progresiva, y de 104,500 Unidades de Inversión (UDI's) para la vivienda popular. Si el valor de la vivienda rebasa las cantidades mencionadas, podrá aplicarse la tarifa de 2.10 días de salario mínimo general vigente del área geográfica que corresponda, si se acredita que las entidades u organismos que intervengan han determinado aplicar dicho valor a ese tipo de viviendas.
+Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresivo o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos correspondientes, o bien con recursos proporcionados por éstos cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XIII del artículo 3 de este Código para cada tipo de vivienda. Si el valor de la vivienda rebasa las cantidades mencionadas, podrá aplicarse la tarifa de 2.26 días de salario mínimo general vigente del área geográfica que corresponda, si se acredita que las entidades u organismos que intervengan han determinado aplicar dicho valor a ese tipo de viviendas.
 
 En el supuesto que no exista coincidencia entre los valores determinados anteriormente para los tipos de vivienda social progresiva, interés social y popular, con los valores ajustados por el factor que determina mensualmente el Banco de México para las diversas categorías de vivienda, la Secretaría de Desarrollo Urbano y Obras Públicas, procederá a actualizarlos tomando como parámetro los valores ajustados con el factor que emita el Banco de México y publicarán mensualmente en la "Gaceta de Gobierno" los valores que regirán para el tipo de vivienda que se vea afectada.
 
@@ -1893,9 +2267,9 @@ H). Depósito de testamento ológrafo.
 
 I). Otros actos inscribibles o anotables.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-Por inscripciones a que se refiere esta fracción se pagarán 8.22 días de salario mínimo general vigente del área geográfica que corresponda.
+Por inscripciones a que se refiere esta fracción se pagarán 8.87 días de salario mínimo general vigente del área geográfica que corresponda.
 
 #### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
@@ -1937,15 +2311,15 @@ G). Resoluciones o convenios judiciales.
 
 H). Usufructo.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-III. Por cancelación de cualquiera de los actos contenidos en este artículo, se pagarán 22.28 días de salario mínimo general vigente del área geográfica que corresponda.
+III. Por cancelación de cualquiera de los actos contenidos en este artículo, se pagarán 24.06 días de salario mínimo general vigente del área geográfica que corresponde.
 
 IV. Por otros actos inscribibles o anotables.
 
 Por las inscripciones a que se refieren las fracciones I, II y IV de este artículo, se pagarán derechos conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -1963,7 +2337,7 @@ hasta de 10 veces el salario mínimo
 
 general vigente del área geográfica
 
-que corresponda, elevado al año. 22.28
+que corresponda, elevado al año. 24.06
 
 2. Cuando el valor de los actos a
 
@@ -1973,7 +2347,7 @@ inscribir sea de más de 10 y hasta
 
 vigente del área geográfica que
 
-corresponda, elevado al año. 66.85
+corresponda, elevado al año. 72.19
 
 3. Cuando el valor de los actos a
 
@@ -1983,7 +2357,7 @@ inscribir sea de más de 12.5 y hasta
 
 del área geográfica que corresponda,
 
-elevado al año. 111.43
+elevado al año. 120.34
 
 4. Cuando el valor de los actos a
 
@@ -1993,7 +2367,7 @@ inscribir sea de más de 15 y hasta
 
 del área geográfica que corresponda,
 
-elevado al año. 155.99
+elevado al año. 168.46
 
 5. Cuando el valor de los actos a
 
@@ -2003,7 +2377,7 @@ inscribir sea de más de 17.5 y hasta
 
 del área geográfica que corresponda,
 
-elevado al año. 200.57
+elevado al año. 216.61
 
 6. Cuando el valor de los actos a
 
@@ -2013,7 +2387,7 @@ salario mínimo general vigente del área
 
 geográfica que corresponda, elevado
 
-al año. 223.28
+al año. 241.14
 
 #### SECCION PRIMERA. DEL IMPUESTO PREDIAL
 
@@ -2035,23 +2409,23 @@ V. Actas de asambleas de socios o de juntas de administradores.
 
 VI. Modificaciones al pacto social constitutivo, siempre que no se refieran a un aumento de capital social.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-VII. Otorgamiento o sustitución de poderes generales, nombramientos y revocación de los mismos conferidos a gerentes, administradores y cualesquiera otros mandatarios, se pagarán 9.08 días de salario mínimo general vigente del área geográfica que corresponda.
+VII. Otorgamiento o sustitución de poderes generales, nombramientos y revocación de los mismos conferidos a gerentes, administradores y cualesquiera otros mandatarios, se pagarán 9.80 días de salario mínimo general vigente del área geográfica que corresponda.
 
 VIII. Emisiones de acciones, cédulas, obligaciones o certificados de participación, tomándose como valor el importe de la emisión para la ubicación en el rango de la tarifa correspondiente.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-IX. Fianzas de corredores, se pagarán 12.35 días de salario mínimo general vigente del área geográfica que corresponda.
+IX. Fianzas de corredores, se pagarán 13.33 días de salario mínimo general vigente del área geográfica que corresponda.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-X. Depósito de la firma en facsímil de los administradores, se pagarán 22.28 días de salario mínimo general vigente del área geográfica que corresponda.
+X. Depósito de la firma en facsímil de los administradores, se pagarán 24.06 días de salario mínimo general vigente del área geográfica que corresponda.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-XI. Depósito de copia autorizada por balance, se pagarán 22.28 días de salario mínimo general vigente del área geográfica que corresponda.
+XI. Depósito de copia autorizada por balance, se pagarán 24.06 días de salario mínimo general vigente del área geográfica que corresponda.
 
 XII. Fusión de sociedades, tomando como valor el capital social suscrito de la sociedad o sociedades que dejen de existir, para efectos de la ubicación en el rango de la tarifa correspondiente.
 
@@ -2063,7 +2437,7 @@ XV. Otros actos inscribibles o anotables.
 
 Por las inscripciones a que se refieren las fracciones I, II, III, IV, V, VI, VIII, XII, XIII, XIV y XV de este artículo, se pagarán los derechos correspondientes, conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -2081,7 +2455,7 @@ hasta de 10 veces el salario mínimo
 
 general vigente del área geográfica que
 
-corresponda, elevado al año. 22.28
+corresponda, elevado al año. 24.06
 
 2. Cuando el valor de los actos a
 
@@ -2091,7 +2465,7 @@ inscribir sea de más de 10 y hasta
 
 vigente del área geográfica que
 
-corresponda, elevado al año. 66.85
+corresponda, elevado al año. 72.19
 
 3. Cuando el valor de los actos a
 
@@ -2101,7 +2475,7 @@ inscribir sea de más de 12.5 y hasta
 
 vigente del área geográfica que
 
-corresponda, elevado al año. 111.43
+corresponda, elevado al año. 120.34
 
 4. Cuando el valor de los actos a
 
@@ -2111,7 +2485,7 @@ inscribir sea de más de 15 y hasta
 
 vigente del área geográfica que
 
-corresponda, elevado al año. 155.99
+corresponda, elevado al año. 168.46
 
 5. Cuando el valor de los actos a
 
@@ -2121,7 +2495,7 @@ inscribir sea de más de 17.5 y hasta
 
 vigente del área geográfica que
 
-corresponda, elevado al año. 200.57
+corresponda, elevado al año. 216.61
 
 6. Cuando el valor de los actos a
 
@@ -2131,7 +2505,7 @@ salario mínimo general vigente del área
 
 geográfica que corresponda, elevado
 
-al año. 223.28
+al año. 241.14
 
 No pagarán los derechos señalados en este artículo las microindustrias que estén registradas en el Padrón Nacional de la Microindustria.
 
@@ -2141,6 +2515,8 @@ No pagarán los derechos señalados en este artículo las microindustrias que es
 
 Por inscripciones de títulos de propiedad sujetos a registro en los términos del Registro Público de la Propiedad, se pagarán derechos, conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 TARIFA
 
 CONCEPTO Número de Salarios Mínimos
@@ -2159,7 +2535,7 @@ mínimo general vigente del área
 
 geográfica que corresponda,
 
-elevado al año. 22.28
+elevado al año. 24.06
 
 2. Cuando del valor de los actos a
 
@@ -2169,7 +2545,7 @@ inscribir sea de más de 10 y hasta
 
 vigente del área geográfica que
 
-corresponda, elevado al año. 66.85
+corresponda, elevado al año. 72.19
 
 3. Cuando el valor de los actos a
 
@@ -2179,7 +2555,7 @@ inscribir sea de más de 12.5 y hasta
 
 vigente del área geográfica que
 
-corresponda, elevado al año. 111.43
+corresponda, elevado al año. 120.34
 
 4. Cuando el valor de los actos a
 
@@ -2189,7 +2565,7 @@ inscribir sea de más de 15 y hasta
 
 vigente del área geográfica que
 
-corresponda, elevado al año. 155.99
+corresponda, elevado al año. 168.46
 
 5. Cuando el valor de los actos a
 
@@ -2199,7 +2575,7 @@ inscribir sea de más de 17.5 y hasta
 
 vigente del área geográfica que
 
-corresponda, elevado al año. 200.57
+corresponda, elevado al año. 216.61
 
 6. Cuando el valor de los actos a
 
@@ -2209,7 +2585,7 @@ mínimo general vigente del área
 
 geográfica que corresponda, elevado
 
-al año. 223.28
+al año. 241.14
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE TRASLACION DE DOMINIO Y OTRAS OPERACIONES SOBRE BIENES INMUEBLES
 
@@ -2217,9 +2593,9 @@ al año. 223.28
 
 Por inscripciones de actos o contratos mercantiles, se pagarán los siguientes derechos:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-I. Corresponsalía, 12.35 días de salario mínimo general vigente del área geográfica que corresponda.
+I. Corresponsalía, 13.36 días de salario mínimo general vigente del área geográfica que corresponda.
 
 II. Compra-venta con reserva de dominio.
 
@@ -2227,13 +2603,13 @@ III. Créditos refaccionarios, de habilitación o avío y en cuenta corriente.
 
 IV. Embargos.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-V. Cancelaciones de los actos o contratos señalados en las fracciones I, II y IV, 22.28 días de salario mínimo general vigente del área geográfica que corresponda.
+V. Cancelaciones de los actos o contratos señalados en las fracciones I, II y IV, 24.06 días de salario mínimo general vigente del área geográfica que corresponda.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-VI. Registros o matrículas que acrediten la calidad de personas físicas comerciantes, 8.81 días de salario mínimo general vigente del área geográfica que corresponda.
+VI. Registros o matrículas que acrediten la calidad de personas físicas comerciantes, 9.51 días de salario mínimo general vigente del área geográfica que corresponda.
 
 VII. Arrendamiento financiero.
 
@@ -2241,7 +2617,7 @@ VIII. Otros actos inscribibles o anotables.
 
 Por las inscripciones a que se refieren las fracciones II, III, IV, VII y VIII de este artículo, se pagarán los derechos correspondientes, conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -2261,7 +2637,7 @@ mínimo general vigente del área
 
 geográfica que corresponda,
 
-elevado al año. 22.28
+elevado al año. 24.06
 
 2. Cuando el valor de los actos a
 
@@ -2271,7 +2647,7 @@ inscribir sea de más de 10 y hasta
 
 vigente del área geográfica que
 
-corresponda, elevado al año. 66.85
+corresponda, elevado al año. 72.19
 
 3. Cuando el valor de los actos a
 
@@ -2281,7 +2657,7 @@ inscribir sea de más de 12.5 y hasta
 
 área geográfica que corresponda, elevado
 
-al año. 111.43
+al año. 120.34
 
 4. Cuando el valor de los actos a
 
@@ -2289,7 +2665,7 @@ inscribir sea de más de 15 y hasta 17.5
 
 días de salario mínimo general vigente del área
 
-geográfica que corresponda, elevado al año. 155.99
+geográfica que corresponda, elevado al año. 168.46
 
 5. Cuando el valor de los actos a
 
@@ -2297,7 +2673,7 @@ inscribir sea de más de 17.5 y hasta 20
 
 días de salario mínimo general vigente del área
 
-geográfica que corresponda, elevado al año. 200.57
+geográfica que corresponda, elevado al año. 216.61
 
 6. Cuando el valor de los actos a
 
@@ -2305,11 +2681,11 @@ inscribir sea de más de 20 días de salario
 
 mínimo general vigente del área geográfica que
 
-corresponda, elevado al año. 223.28
+corresponda, elevado al año. 241.14.
 
 Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervenga el Fondo Instituido en Relación a la Agricultura el pago de los derechos se hará conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -2325,7 +2701,7 @@ hasta de 24 días de salario mínimo
 
 general vigente del área geográfica que
 
-corresponda, elevado al año. 7.31
+corresponda, elevado al año. 7.89
 
 B). Cuando el valor de la operación
 
@@ -2333,13 +2709,15 @@ exceda de 24 días de salario
 
 mínimo general vigente del área geográfica
 
-que corresponda, elevado al año. 18.49
+que corresponda, elevado al año. 19.96
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 82.
 
 Por las inscripciones o anotaciones de resoluciones judiciales que contengan actos mercantiles, se pagarán derechos:
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -2349,13 +2727,13 @@ Generales Vigentes del Area
 
 Geográfica que corresponda.
 
-I. Providencias precautorias. 22.28
+I. Providencias precautorias. 24.06
 
-II. Suspensión de pagos. 22.28
+II. Suspensión de pagos. 24.10
 
-III. Quiebras. 22.28
+III. Quiebras. 24.10
 
-IV. Otras resoluciones. 22.28
+IV. Otras resoluciones. 24.10
 
 #### SECCION TERCERA. DEL IMPUESTO SOBRE FRACCIONAMIENTOS
 
@@ -2375,25 +2753,25 @@ Geográfica que corresponda.
 
 I. Expedición de certificados:
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-A). De no inscripción. 10.50
+A). De no inscripción. 11.34
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). De no propiedad. 0.85
+B). De no propiedad. 0.91
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-II. Expedición de certificados de inscripción. 10.50
+II. Expedición de certificados de inscripción. 11.34
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 III. Expedición de certificados de libertad o
 
-existencia de gravámenes. 12.20
+existencia de gravámenes. 13.18
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Tratándose de la expedición de
 
@@ -2403,7 +2781,7 @@ de gravámenes relacionados con la
 
 adquisición de viviendas de interés social,
 
-social progresiva o popular. 2.10
+social progresiva o popular. 2.27
 
 Los derechos a que se refieren las
 
@@ -2425,41 +2803,51 @@ la tierra, quedarán exentos del pago de derechos
 
 señalados en las fracciones I y III.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 Tratándose de terrenos en donde se construyan
 
 viviendas de interés social, social progresiva o
 
-popular. 5.25
+popular. 5.67
 
 IV. Expedición de copias certificadas.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-A). Por la primera hoja. 0.85
+A). Por la primera hoja. 0.92
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). Por cada hoja siguiente. 0.43
+B). Por cada hoja siguiente. 0.46
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+C). Por la expedición de copias
+
+certificadas de testimonios de
+
+viviendas de interés social, social
+
+progresivo o popular. 0.10
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 V. Por expedición de informes sobre la
 
-existencia o inexistencia de testamentos. 8.81
+existencia o inexistencia de testamentos. 9.51
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-VI. Por compulsa de documentos. 0.85
+VI. Por compulsa de documentos. 0.92
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 VII. Expedición de copias literales de
 
-asientos registrales. 10.50
+asientos registrales. 11.34
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 VIII. Por la expedición del certificado de
 
@@ -2467,11 +2855,23 @@ una secuencia registral de un inmueble o
 
 asiento registral, por cada asiento que se
 
-certifique. 8.88
+certifique. 9.59
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+IX. Por la búsqueda y expedición,
+
+sin certificación, de informes
+
+contenidos en los libros del
+
+Registro Público de la Propiedad
+
+de antecedentes registrales. 5.00
 
 Cuando las certificaciones a que aluden las fracciones II y III de este artículo no se expidan, porque la solicitud contenga errores u omisiones y los derechos hayan sido cubiertos previamente, una vez subsanados los errores u omisiones, se extenderá la certificación solicitada, haciendo válido el pago efectuado.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
 #### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
 
@@ -2479,41 +2879,47 @@ Cuando las certificaciones a que aluden las fracciones II y III de este artícul
 
 ###### Artículo 84.
 
-Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal por no cubrir los derechos dentro del plazo que se señale en el documento respectivo o a petición del interesado, se pagará por concepto de derechos 6.67 días de salario mínimo general vigente del área geográfica que corresponda.
+Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos 7.20 días de salario mínimo general vigente del área geográfica que corresponda.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
 ###### Artículo 85.
 
-Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos 1.71 días de salario mínimo general vigente del área geográfica que corresponda.
+Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos 1.85 días, de salario mínimo general vigente del área geográfica que corresponda.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 86.
 
-Por la expedición de formas aprobadas, se pagarán por concepto de derechos 0.85 días de salario mínimo general vigente del área geográfica que corresponda.
+Por la expedición de formas aprobadas, se pagarán por concepto de derechos 0.92 días de salario mínimo general vigente del área geográfica que corresponda.
 
 ###### Artículo 87.
 
 Cuando un mismo título o documento origine dos o más inscripciones, los derechos se pagarán por cada una de ellas.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagará un derecho de 5.82 días de salario mínimo general vigente del área geográfica que corresponda por cada una de ellas.
+Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagará un derecho de 6.29 días de salario mínimo general vigente del área geográfica que corresponda por cada una de ellas.
 
 Tratándose de instituciones y organizaciones de crédito y seguros, las inscripciones que deban hacerse pagarán los mismos derechos.
 
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 87 Bis.
+
+Por la inscripción de documentos que contengan actos o hechos jurídicos, otorgados ante fedatarios públicos de otras entidades federativas distintas a la del Estado de México, se pagará una tasa adicional del 10% en los derechos que se causen en esta subsección, con excepción del artículo 77 de este Código.
+
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE Y DRENAJE
+#### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES
 
 ###### Artículo 88.
 
 Por los servicios prestados por el Archivo General de Notarías, se pagarán derechos conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -2527,7 +2933,7 @@ I. Expedición de testimonios y copias
 
 certificadas de las actas y escrituras,
 
-incluida la autorización, por cada hoja. 0.85
+incluida la autorización, por cada hoja. 0.92
 
 II. Expedición de copias certificadas
 
@@ -2535,23 +2941,23 @@ de los documentos o planos que obren
 
 en el apéndice, por cada foja, incluida la
 
-autorización. 1.71
+autorización. 1.85
 
 III. Por expedición de copia simple del
 
-protocolo y apéndice por cada hoja. 0.85
+protocolo y apéndice por cada hoja. 0.92
 
 IV. Informe sobre existencia o inexistencia
 
-de testamento. 8.52
+de testamento. 9.20
 
-V. Búsqueda de antecedentes notariales. 0.85
+V. Búsqueda de antecedentes notariales. 0.92
 
 VI. Autorización definitiva de las escrituras
 
 o actas notariales de valor determinado que
 
-no contengan cuota especial en este Código. 16.34
+no contengan cuota especial en este Código. 17.65
 
 VII. Cuando se trate de actas o escrituras de
 
@@ -2559,19 +2965,37 @@ valor indeterminado, los derechos por
 
 autorización definitiva serán por una cantidad
 
-equivalente a. 17.46
+equivalente a. 18.86
 
 VIII. Por la cancelación de la disposición del
 
-patrimonio familiar. 8.22
+patrimonio familiar. 8.88
+
+IX. por revocación, extinción
+
+y sustitución de poderes que
+
+se asienten en nota
+
+complementaria dentro del
+
+acto jurídico que corresponda. 9.08
+
+X. Por la expedición de copias
+
+certificadas o simples del
+
+apéndice del Libro de Cotejos
+
+y Ratificaciones, por cada hoja. 0.85
 
 Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los actos o contratos principales, y en una mitad por los accesorios o complementarios.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
 ###### Artículo 89.
 
-El pago de los derechos establecidos en esta subsección, podrá efectuarse directamente y bajo su responsabilidad por los notarios públicos ante las oficinas recaudadoras, mediante la presentación de los formatos autorizados para este efecto por la Secretaría. Al presentarse para su inscripción el testimonio relativo, se agregará al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará el pago efectuado, conforme a sus atribuciones legales.
+Los notarios públicos deberán estimar el monto de los derechos a su cargo y efectuar el pago correspondiente de los derechos establecidos en esta subsección, directamente y bajo su responsabilidad ante las oficinas recaudadoras, mediante la presentación de los formatos autorizados para ese efecto por la Secretaría. Al presentar para su inscripción el testimonio respectivo, agregará al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
 SUBSECCION QUINTA
 
@@ -2583,6 +3007,8 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO CI
 
 Por los servicios prestados por la Dirección General del Registro Civil, se pagarán los siguientes derechos:
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 TARIFA
 
 CONCEPTO Número de Salarios Mínimos
@@ -2593,35 +3019,69 @@ Geográfica que corresponda
 
 I. Expedición de copias simples del
 
-registro civil, de la documentación
+registro civil, de los apéndices de los
+
+actos y de la documentación por hoja
 
 concentrada en la Dirección General
 
-del Registro Civil y oficinas regionales. 0.273
+del Registro Civil y oficinas
+
+regionales. 0.40
 
 II. Expedición de copias certificadas
 
-del registro civil, de la documentación
+del registro civil, de los apéndices de los
 
-concentrada en la Dirección General del
+actos y de la documentación por hoja
 
-Registro Civil y oficinas regionales. 0.409
+concentrada en la Dirección General
 
-III. Expedición de copias microfilmadas a
+del Registro Civil y oficinas
 
-papel, por imagen. 0.136
+regionales. 0.61
 
-IV. Búsqueda en los libros del registro civil
+III. Expedición de copias digitalizadas
 
-que se encuentren concentrados en la
+por imagen de libros concentrados
 
-Dirección General del Registro Civil, para
+en la Dirección General del Registro Civil
 
-la expedición de copias certificadas cuando
+y oficinas regionales. 0.61
 
-no se señale fecha, por cada año o fracción. 0.096
+IV Búsqueda en los libros del registro
 
-V. Anotaciones marginales 0.840
+civil que se encuentren concentrados
+
+en la Dirección General del Registro
+
+Civil y oficinas regionales, para la expedición
+
+de copias certificadas cuando no se señale
+
+fecha, por cada año o fracción. 0.14
+
+V. Anotaciones marginales 1.26
+
+VI. Por copia certificada de
+
+constancia de inexistencia
+
+por hoja. 0.61
+
+VII. Expedición de formas aprobadas
+
+para copia simple. 0.03
+
+VIII. Expedición de formas aprobadas
+
+para juegos de formatos. 0.06
+
+IX. Por el servicio de encuadernación
+
+de libros de actas de las diversas
+
+actas del Registro Civil por tomo. 1.84
 
 ###### Artículo 91.
 
@@ -2637,11 +3097,11 @@ Generales Vigentes del Area
 
 Geográfica que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 I. Expedición de certificados, por cada
 
-foja: 0.729
+foja: 0.79
 
 Tratándose de viviendas de interés
 
@@ -2651,29 +3111,31 @@ no se pagarán los derechos previstos
 
 en esta fracción.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-II. Certificaciones, por cada foja: 0.729
+II. Certificaciones, por cada foja: 0.79
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-III. Expedición de formas aprobadas: 0.729
+III. Expedición de formas aprobadas: 0.79
 
 IV. Práctica de auditoría realizada a
 
 solicitud de particulares:
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-A). Hora auditor: 0.636
+A). Hora auditor: 0.69
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). Hora supervisor: 1.071
+B). Hora supervisor: 1.16
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 V. Por el almacenaje de bienes muebles secuestrados y liberados en la vía del procedimiento administrativo de ejecución y no retirados oportunamente, se pagarán derechos de acuerdo con la siguiente:
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -2685,11 +3147,11 @@ Geográfica que corresponda.
 
 A). Cuando los bienes ocupen hasta
 
-1 m2 de superficie, por día. 0.143
+1 m2 de superficie, por día. 0.15
 
 B). Por cada metro o fracción excedente,
 
-por día. 0.029
+por día. 0.03
 
 ###### Artículo 92.
 
@@ -2707,121 +3169,167 @@ Generales Vigentes del Area
 
 Geográfica que corresponda.
 
-I. Por inscripción al listado de planteles
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-no incorporados:
+I. Por el registro al padrón estatal, a los
 
-A). Preescolar 21.29
+particulares que prestan servicios
 
-B). Elemental terminal por carrera 28.38
+educativos, no incorporados:
 
-II. Por alta en el servicio para impartir
+A). Preescolar 22.99
 
-educación a institución particular de
+B). Capacitación para el Trabajo. 30.65
 
-tipo:
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-A). Elemental primaria. 70.97
+II. Por la autorización a instituciones particulares para impartir estudios, por servicio, modalidad y turno de educación:
 
-B). Media secundaria. 85.15
+A). Primaria 76.65
 
-III. Por reconocimiento de validez
+B). Secundaria 91.96
+
+C). Normal 141.94
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+III. Por el reconocimiento de validez
 
 oficial de estudios, por plan de estudios
 
-y/o carrera, a escuelas particulares:
+y/o carrera y turno, a escuelas particulares:
 
-A). Preescolar. 70.97
+A). Preescolar. 76.65
 
-B). Media superior. 113.55
+B). Media superior. 122.63
 
-C). Superior. 141.94
+C). Educación Superior. 153.30
 
-IV. Vigencia anual de derechos, alta
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-o reconocimiento de validez oficial
+IV. Por vigencia anual de derechos por plan de estudios, carrera y turno a escuela particulares:
 
-de estudios, a escuelas particulares,
+A). Autorización:
 
-por institución educativa y/o carrera:
+1. Primaria 70.97
 
-A). Inscripción 14.20
+2. Secundaria 85.15
 
-B). Incorporación 70.97
+3. Normal 141.194
 
-C). Reconocimiento de validez oficial 113.55
+B). Reconocimiento:
+
+1. Preescolar 70.97
+
+2. Media Superior 113.55
+
+3. Superior 141.94
+
+C). Registro:
+
+1. Preescolar 21.29
+
+2. Capacitación para el Trabajo 28.38
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 V. Por servicio de asesoría a
 
-instituciones educativas particulares
+instituciones educativas
 
-de tipo elemental, media y superior
+particulares de tipo básico,
 
-por cada alumno de nuevo ingreso
+medio superior y superior por
 
-matriculado en el plantel, por una sola
+cada alumno en el plantel,
 
-vez y por su permanencia en el mismo
+independientemente del grado
 
-independientemente del grado o ciclo
+o ciclo que curse: 1.13
 
-que curse. 1.050
+A). Por cambio de plan de estudio o carrera:
 
-VI. Expedición de certificados de
+1. Educación Media Superior 53.13
 
-estudios de tipo medio superior y
+2. Educación Superior 53.13
 
-superior realizados en escuelas
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+VI. Por expedición de certificados
+
+de estudios realizados en escuelas
 
 estatales oficiales o particulares
 
-incorporadas. 1.419
+incorporadas 1.53
 
-VII. Expedición de duplicados de
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-certificados de estudios realizados
+VII. Por expedición de duplicados
+
+de certificados de estudios realizados
 
 en escuelas estatales oficiales o
 
-particulares incorporadas. 1.419
+particulares incorporadas 1.42
 
-VIII. Revalidación de estudios de tipo
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-elemental, media y superior:
+VIII. Por dictamen de revalidación de estudios de tipo:
 
-A). Por área o materia 0.709
+A). Básica 0.71
 
-B). Por grado o semestre 14.19
+B). Media Superior 4.30
 
-IX. Expedición de cédula de pasante
+C). Superior 12.87
 
-para el ejercicio profesional. 1.419
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-X. Expedición de duplicado de cédula
+IX. Por expedición de cédula de
 
-de pasante para el ejercicio profesional. 7.09
+pasante para el ejercicio
 
-XI. Inscripción de título profesional o
+profesional 15.33
 
-grado académico. 7.09
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-XII. Inscripción al listado de colegios
+X. Por la expedición de duplicado
 
-profesionales. 42.58
+de cédula de pasante para el
 
-XIII. Enmienda a la inscripción del
+ejercicio profesional 7.66
 
-listado de colegios de profesionales. 14.20
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-XIV. Inscripción de asociado a un
+XI. Por inscripción de título
 
-colegio de profesionales que no figure
+profesional o grado académico 7.66
 
-en el listado original. 4.26
+(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
-XV. Expedición de hojas de servicio,
+XII. Por registro de colegios de
 
-por cada hoja. 0.353
+profesionistas 108.79
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XIII. Por enmienda al registro de
+
+los colegios de profesionistas 15.34
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XIV. Por inscripción de asociado
+
+a un colegio de profesionales que
+
+no figure en el listado original 4.60
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XV. Por expedición de hojas de
+
+servicio, por cada hoja 0.38
 
 #### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
 
@@ -2837,7 +3345,7 @@ Tratándose de viviendas de interés social, social progresiva y popular, los de
 
 II. Por la conexión de la toma para el suministro de agua en bloque a municipios o sus descentralizadas, proporcionada por autoridades estatales o sus descentralizadas, se pagará de acuerdo a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -2849,9 +3357,9 @@ Geográfica que corresponda.
 
 GRUPO m3/día.
 
-A 45.21
+A 49.73
 
-B 42.51
+B 46.76
 
 Para efectos de la aplicación de esta tarifa se considera como conexión de la toma, el inicio del suministro de agua potable a un municipio o su descentralizada.
 
@@ -2865,25 +3373,31 @@ El Estado conjuntamente con los municipios o sus descentralizadas, analizarán e
 
 Cuando los derechos a que se refiere esta fracción sean pagados previamente por quienes lleven a cabo los nuevos desarrollos a los ayuntamientos o sus descentralizadas, éstos deberán pagar los derechos al Estado o a su organismo descentralizado rector de los servicios prestados, en un plazo no mayor de quince días después de haber recibido el pago.
 
-No pagarán estos derechos los fraccionamientos o unidades habitacionales de tipo social progresivo.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-III. Por el suministro de agua en bloque en metros cúbicos proporcionados por los organismos descentralizados del Estado, se pagarán los precios públicos que emita, fije o autorice en su caso, la Secretaría de Desarrollo Urbano y Obras Públicas, previa opinión que emita la Secretaría.
+No pagarán estos derechos los fraccionamientos, unidades habitacionales o conjuntos urbanos de tipo social progresivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+III. Por el suministro de agua en bloque en metros cúbicos proporcionados por los organismos descentralizados del Estado, se pagarán los precios públicos que emita, fije o autorice en su caso, la Comisión del Agua del Estado de México, previa opinión que emita la Secretaría y la Secretaría de desarrollo Urbano y Obras Públicas.
 
 Para lo anterior deberá atenderse invariablemente a las características y circunstancias del servicio, así como a sus costos y a los convenios que en su caso se celebren con los usuarios; las liquidaciones formuladas conforme a la aplicación de dichos precios tienen el carácter de créditos fiscales y se pagarán mensualmente durante los primeros veinte días del mes siguiente al que fue notificado.
 
-Los precios públicos a que se refiere esta fracción, deberán publicarse por la dependencia, en el periódico oficial, treinta días naturales antes del inicio de su vigencia, donde se especifique y se explicite las causales y sus montos.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+Los precios públicos a que se refiere esta fracción, deberán publicarse por la dependencia descentralizada, en el periódico oficial, treinta días naturales antes del inicio de la vigencia, donde se especifique y se explicite las causales y sus montos.
 
-IV. Expedición de licencia estatal de uso de suelo con vigencia anual, 7.10 días de salario mínimo general del área geográfica que corresponda.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+IV. Expedición de licencia estatal de uso de suelo con vigencia anual, 10.0 días de salario mínimo general vigente del área geográfica que corresponda.
 
-En el caso de que para la expedición de licencia de uso de suelo se requiera realizar estudios técnicos, se pagará una cuota equivalente a 42.58 veces el salario mínimo general vigente según área geográfica que corresponda. Cuando se trate solamente de inspección de campo, se pagará una cuota adicional equivalente a 21.29 veces el salario mínimo general vigente del área geográfica que corresponda.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+En el caso de que para la expedición de licencia de uso del suelo se requiera realizar estudios técnicos, se pagará una cuota equivalente a 50.0 veces el salario mínimo general vigente según área geográfica que corresponda. Cuando se trate solamente de inspección de campo, se pagará una cuota adicional equivalente a 25.0 veces el salario mínimo general vigente del área geográfica que corresponda.
 
-Tratándose de usos de suelo que generen un impacto significativo en su área de influencia, se pagará una cuota equivalente a 42.92 días de salario mínimo general vigente del área geográfica que corresponda.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Tratándose de usos del suelo que generen un impacto significativo en su área de influencia, se pagará una cuota equivalente a 50.0 días de salario mínimo vigente del área geográfica que corresponda.
 
 Tratándose de viviendas de interés social, popular y social progresiva, no se pagarán los derechos previstos en el párrafo primero de esta fracción.
 
@@ -2891,7 +3405,7 @@ V. Cuando la licencia de uso del suelo, se expida por un período mayor al deter
 
 VI. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -2901,43 +3415,45 @@ Generales Vigentes del Area Geográfica
 
 que corresponda.
 
-A). Por el primer duplicado de
+A). Por el duplicado de la
 
-hoja simple. 0.709
+primera hoja simple. 0.77
 
-B). Por los duplicados
+B). Por el duplicado de las
 
-subsecuentes de hojas simples. 0.071
+subsecuentes hojas simples. 0.08
 
-C). Por duplicado de planos. 2.129
+C). Por duplicado de cada plano. 2.30
 
 D). Por duplicado de planos con
 
 material proporcionado por el
 
-usuario 1.510
+usuario 1.63
 
 La expedición certificada de estos documentos, pagará un tanto adicional de la tarifa anterior correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-VII. Por la inscripción en el registro de peritos responsables de obras, se pagarán derechos equivalentes a 14.19 días de salario mínimo general del área geográfica que corresponda.
+VII. Por la inscripción en el registro de peritos responsables de obras, se pagarán derechos equivalentes a 15.33 días de salario mínimo general vigente del área geográfica que corresponda.
 
 Por el refrendo anual de la inscripción en el Registro de Peritos se pagará el 50% de la tarifa establecida.
 
-VIII. Por la conexión y descarga de aguas residuales y su tratamiento, así como por la conexión y suministro de agua residual tratada para uso no doméstico, se pagarán los precios públicos que emita, fije o autorice en su caso, la Secretaría de Desarrollo Urbano y Obras Públicas, previa opinión que emita la Secretaría.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+VIII. Por la conexión y descarga de aguas residuales y su tratamiento, así como por la conexión y suministro de agua residual tratada para uso no doméstico, se pagarán los precios públicos que emita, fije o autorice en su caso, la Comisión del Agua del Estado de México, previa opinión que emita la Secretaría de Desarrollo Urbano y Obras Públicas.
 
-IX. Por la autorización de cambios de uso del suelo, de densidad o intensidad de su aprovechamiento, así como por cambios de altura de edificaciones, se pagará una cuota equivalente a 42.92 días de salario mínimo general del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+IX. Por la autorización de cambios de uso del suelo, de densidad o intensidad de su aprovechamiento, así como por cambios de altura de edificaciones, se pagará una cuota equivalente a 50.0 días de salario mínimo general vigente del área geográfica que corresponda.
 
-X. Por los dictámenes de factibilidad de uso del suelo y de densidad o intensidad de su aprovechamiento, así como de cambios de altura de edificaciones, se pagará una cuota equivalente a 5.25 días de salario mínimo general vigente del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+X. Por los dictámenes de factibilidad de uso del suelo y de densidad e intensidad de su aprovechamiento, y de la altura de edificaciones, que no formen parte de los procedimientos a que se refieren los artículos 33 y 70 fracción I de la Ley de Asentamientos Humanos del Estado de México, se pagará una cuota equivalente a 10.0 días de salario mínimo general vigente del área geográfica que corresponda.
 
-XI. Por las cédulas informativas de zonificación, se pagará una cuota equivalente a 2.63 días de salario mínimo general del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XI. Por las cédulas informativas de zonificación, se pagará una cuota equivalente a 2.84 días de salario mínimo general vigente del área geográfica que corresponda.
 
 (ADICIONADA, G.G. 24 DE DICIEMBRE DE 1999) (F. DE E., G.G. 15 DE MARZO DE 2000)
 
@@ -2946,6 +3462,8 @@ XII. Por servicios de vigilancia, inspección y control necesarios para su ejecu
 ###### Artículo 95.
 
 Por los servicios prestados por la Secretaría de Administración, se pagarán los siguientes derechos:
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -2961,7 +3479,7 @@ la documentación concentrada en
 
 el Archivo General del Poder
 
-Ejecutivo, por hoja. 0.283
+Ejecutivo, por hoja. 0.30
 
 II. Expedición de copias certificadas
 
@@ -2969,27 +3487,21 @@ de la documentación concentrada en
 
 el Archivo General del Poder Ejecutivo,
 
-por hoja. 0.426
+por hoja. 0.46
 
 III. Expedición de copias microfilmadas
 
-a papel, por imagen. 0.140
+a papel, por imagen. 0.15
 
-IV. Expedición de duplicado de planos
-
-concentrados en el Archivo General
-
-del Poder Ejecutivo por cada m2 o
-
-fracción. 1.575
+IV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
 V. Suscripción al Sistema Automatizado
 
-del Directorio de Servidores Públicos. 4.725
+del Directorio de Servidores Públicos. 5.10
 
 VI. Edición impresa de los tomos I y
 
-II del Directorio de Servidores Públicos. 1.575
+II del Directorio de Servidores Públicos. 1.70
 
 ###### Artículo 96.
 
@@ -3025,19 +3537,29 @@ sobre el importe total de cada una
 
 de las estimaciones de trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Los estudios técnicos que con motivo de la
+
+auditoría técnica sean necesarios
+
+practicar, a efecto de soportar y
+
+sustentar dicha auditoría, correrán
+
+a cargo del solicitante.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 II. Por la expedición de copias
 
 certificadas, por cada página, se
 
-pagarán derechos a razón de: 0.294
+pagarán derechos a razón de: 0.31
 
-No se pagarán los derechos previstos en esta fracción, por la expedición de:
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-A). Las copias certificadas que se expidan para la sustanciación de los juicios de amparo.
-
-B). Las copias certificadas solicitadas por autoridades judiciales y administrativas.
+No se pagarán los derechos previstos en esta fracción por la expedición de copias certificadas solicitadas por autoridades judiciales y administrativas.
 
 ###### Artículo 97.
 
@@ -3067,25 +3589,33 @@ A). Servicio de autotransporte de
 
 pasajeros en vías públicas estatales:
 
-1. Autobuses de 1a. clase y expreso. 343.65
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Autobuses de 2a. clase y minibuses. 286.38
+1. Autobuses de 1a. clase y expreso. 371.14
 
-3. Vagonetas. 286.38
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-4. Camioneta mixta de carga y pasaje. 229.10
+2. Autobuses de 2a. clase y minibuses. 304.29
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+3. Vagonetas. 304.29
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+4. Camioneta mixta de carga y pasaje. 247.42
 
 B). Servicio público de transporte
 
 colectivo de pasajeros en ruta fija:
 
-1. En vehículos con capacidad
+1. (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
-hasta 5 pasajeros. 229.10
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 2. En vehículos con capacidad
 
-de 6 a 25 pasajeros. 286.38
+de 6 a 25 pasajeros. 309.29
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3093,9 +3623,13 @@ II. Otorgamiento de concesiones para
 
 transporte de materiales para construcción:
 
-A). Hasta 3000 Kgs. 171.82
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). De más de 3000 Kgs. 229.10
+A). Hasta 3000 Kgs. 184.98
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+B). De más de 3000 Kgs. 247.42
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3105,9 +3639,13 @@ transporte de carga en general
 
 establecidos en sitios:
 
-A). Hasta 3000 Kgs. 171.82
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). De más de 3000 Kgs. 229.10
+A). Hasta 3000 Kgs. 172.90
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+B). De más de 3000 Kgs. 247.42
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3117,11 +3655,17 @@ transporte en servicios especializados
 
 de carga:
 
-A). Capacidad hasta de 3000 Kgs. 171.82
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). Capacidad de más de 3000 Kgs. 229.10
+A). Capacidad hasta de 3000 Kgs. 172.90
 
-C). Grúas de arrastre. 687.31
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+B). Capacidad de más de 3000 Kgs. 247.42
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+C). Grúas de arrastre. 742.29
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3131,9 +3675,13 @@ transporte en servicio especializado de
 
 pasajeros en planteles educativos y empresas:
 
-A). Autobuses y minibuses. 171.82
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). Vagonetas. 137.45
+A). Autobuses y minibuses. 172.90
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+B). Vagonetas. 148.44
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3145,25 +3693,33 @@ pasajeros:
 
 A). Vehículos para servicio especial de turismo:
 
-1. Autobuses y minibuses. 343.65
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Vagonetas. 229.10
+1. Autobuses y minibuses. 371.14
 
-3. Automóviles. 229.10
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Vagonetas. 247.42
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+3. Automóviles. 247.42
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Vehículos para otros servicios
 
 que requieran el otorgamiento de
 
-concesiones. 286.38
+concesiones. 309.29
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 VII. Otorgamiento de concesiones
 
 para transporte en vehículos que se
 
-alquilen. 286.38
+alquilen. 309.29
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3171,13 +3727,17 @@ VIII. Otorgamiento de concesiones para
 
 automóviles de alquiler (taxis y radiotaxis):
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 A). Que presten servicio en áreas
 
-urbanas. 309.29
+urbanas. 286.38
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Que presten servicio en áreas
 
-rurales. 309.29
+rurales. 286.38
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3191,23 +3751,35 @@ ampliación del territorio de operación, que
 
 se refieren a:
 
-A). Autobuses de 1a. clase 274.92
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). Autobuses de 2a. clase y minibuses. 229.10
+A). Autobuses de 1a. clase 296.91
 
-C). Vagonetas. 229.10
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+B). Autobuses de 2a. clase y minibuses. 247.42
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+C). Vagonetas. 243.42
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 D). Camioneta mixta de carga y
 
-pasaje. 183.28
+pasaje. 197.94
 
 E). Vehículos para el transporte de
 
 materiales para construcción:
 
-1. Hasta 3000 Kgs. 85.91
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. De más de 3000 Kgs. 114.54
+1. Hasta 3000 Kgs. 92.78
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. De más de 3000 Kgs. 123.70
 
 F). Vehículos para el transporte de
 
@@ -3215,19 +3787,29 @@ carga en general, establecidos en
 
 sitios:
 
-1. Hasta 3000 Kgs. 85.91
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. De más de 3000 Kgs. 114.54
+1. Hasta 3000 Kgs. 92.78
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. De más de 3000 Kgs. 123.70
 
 G). Vehículos para el transporte en
 
 servicios especializados de carga:
 
-1. Capacidad hasta de 3000 Kgs. 85.91
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Capacidad de más de 3000 Kgs. 114.54
+1. Capacidad hasta de 3000 Kgs. 92.78
 
-3. Grúas de arrastre. 687.31
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Capacidad de más de 3000 Kgs. 123.70
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+3. Grúas de arrastre. 742.29
 
 H). Vehículos para el transporte en
 
@@ -3235,9 +3817,13 @@ servicio especializado de pasajeros en
 
 planteles educativos y empresas:
 
-1. Autobuses y minibuses. 137.45
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Vagonetas. 109.96
+1. Autobuses y minibuses. 148.44
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Vagonetas. 118.75
 
 I). Vehículos para el transporte en
 
@@ -3247,71 +3833,87 @@ servicio especializado de pasajeros:
 
 de turismo:
 
-a). Autobuses y minibuses. 274.92
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-b). Vagonetas. 183.28
+a). Autobuses y minibuses. 296.91
 
-c). Automóviles. 183.28
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+b). Vagonetas. 197.94
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+c). Automóviles. 197.94
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 2. Vehículos para otros servicios
 
 que requieren el otorgamiento de
 
-concesiones. 229.10
+concesiones. 247.42
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 J). Vehículos que se alquilen para el
 
-transporte. 229.10
+transporte. 54.54
 
 K). Automóviles de alquiler
 
 (taxis y radiotaxis):
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 1. Que presten servicio en áreas
 
-urbanas. 229.10
+urbanas. 247.42
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 2. Que presten servicio en áreas
 
-rurales. 229.10
+rurales. 247.42
 
 L). Vehículos de servicio de transporte
 
 colectivo de pasajeros en ruta fija:
 
-1. En vehículos con capacidad hasta
+1. (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
-de 5 pasajeros. 183.28
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 2. En vehículos con capacidad de 6 a
 
-11 pasajeros. 229.10
+11 pasajeros. 247.42
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 3. En vehículos con capacidad de 12 a
 
-25 pasajeros. 121.58
+25 pasajeros. 131.30
 
 X. Prórroga de concesiones en materia de:
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-A). Autobuses de 1a. clase y expreso. 171.82
+A). Autobuses de 1a. clase y expreso. 185.56
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Autobuses de 2a. clase y
 
-minibuses. 143.19
+minibuses. 154.64
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-C). Vagonetas. 143.19
+C). Vagonetas. 154.64
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 D). Camioneta mixta de carga y
 
-pasaje. 114.54
+pasaje. 123.70
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3319,9 +3921,13 @@ E). Vehículos para el transporte de
 
 materiales para construcción:
 
-1. Hasta 3000 Kgs. 85.91
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. De más de 3000 Kgs. 114.54
+1. Hasta 3000 Kgs. 92.78
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. De más de 3000 Kgs. 123.70
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3329,9 +3935,13 @@ F). Vehículos para el transporte de
 
 carga en general, establecido en sitio:
 
-1. Hasta 3000 Kgs. 85.91
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. De más de 3000 Kgs. 114.54
+1. Hasta 3000 Kgs. 92.78
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. De más de 3000 Kgs. 123.70
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3339,11 +3949,17 @@ G). Vehículos para transporte en
 
 servicios especializados de carga:
 
-1. Capacidad de hasta 3000 Kgs. 85.91
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Capacidad de más de 3000 Kgs. 114.54
+1. Capacidad de hasta 3000 Kgs. 92.78
 
-3. Grúas de arrastre. 343.65
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Capacidad de más de 3000 Kgs. 123.70
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+3. Grúas de arrastre. 371.14
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3353,9 +3969,13 @@ servicio especializado de pasajeros
 
 en planteles educativos y empresas:
 
-1. Autobuses. 85.91
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-2. Minibuses y vagonetas. 68.72
+1. Autobuses. 92.78
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+2. Minibuses y vagonetas. 74.21
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3369,23 +3989,31 @@ pasajeros:
 
 turismo:
 
-a). Autobuses y minibuses. 171.82
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-b). Vagonetas. 114.54
+a). Autobuses y minibuses. 185.56
 
-c). Automóviles. 114.54
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+b). Vagonetas. 123.70
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+c). Automóviles. 123.70
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 2. Vehículos para otros servicios
 
 que requieren el otorgamiento de
 
-concesiones. 143.19
+concesiones. 154.64
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 J). Vehículos que se alquilen para el
 
-transporte. 143.19
+transporte. 154.64
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3393,13 +4021,17 @@ K). Automóviles de alquiler
 
 (taxis y radiotaxis):
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 1. Que presten servicio en áreas
 
-urbanas. 143.19
+urbanas. 154.64
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 2. Que presten servicio en áreas
 
-rurales. 143.19
+rurales. 154.64
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3407,13 +4039,13 @@ L). Vehículos de servicio de transporte
 
 colectivo de pasajeros en ruta fija:
 
-1. En vehículos con capacidad de
+1. (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
-5 pasajeros. 114.54
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 2. En vehículos con capacidad de 6 a
 
-25 pasajeros. 143.19
+25 pasajeros. 154.64
 
 Las tarifas establecidas en esta fracción,
 
@@ -3441,17 +4073,23 @@ conexos:
 
 A). Cambio de vehículos:
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 1. Cuando el vehículo que se sustituya
 
 sea de la misma capacidad de pasajeros,
 
-de carga, o menor. 5.727
+de carga, o menor. 6.18
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 2. Cuando el vehículo que se
 
 sustituya, sea de mayor capacidad,
 
-de pasajeros o carga. 11.455
+de pasajeros o carga. 12.37
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Otorgamiento o renovación de
 
@@ -3461,43 +4099,85 @@ vehículos accidentados o a disposición
 
 de diferentes autoridades por cada
 
-corralón. 458.20
+corralón. 527.71
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 C). Cambio de modalidad de servicio
 
-que se preste. 171.82
+que se preste. 185.56
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 D). Cambio de área de operación de
 
-vehículos de alquiler (taxis). 229.10
+vehículos de alquiler 41.10
 
-E). Por la expedición inicial o
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-reposición de la tarjeta de
+E). Por la expedición de la tarjeta
 
-identificación personal para
+de identificación personal para
 
 conductores de vehículos de
 
-servicio público de pasajeros. 1.433
+servicio público de pasajeros. 2.00
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-XII. Por ampliación de ruta o territorio
+F). Por la reposición de la tarjeta
 
-de operación del servicio público de
+de identificación personal para
 
-autotransporte de pasajeros y colectivos
+conductores de servicio público
 
-en ruta fija, por cada vehículo. 229.10
+de pasajeros. 1.50
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-XIII. Por establecimiento de extensión
+XII. Por la autorización o ampliación de ruta o territorio de:
 
-de sitio de automóviles de alquiler o de
+A). Autorización de ruta o territorio
 
-carga en general por unidad. 22.90
+de operación del servicio público
+
+de autotransporte de pasajeros y
+
+colectivos en ruta fija, por cada
+
+vehículo. 30.58
+
+B). Ampliación de ruta o territorio
+
+del servicio público de
+
+autotransporte de pasajeros y
+
+colectivos en ruta fija, por casa
+
+vehículo. 21.81
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XIII. Por la autorización o extensión
+
+de sitios:
+
+A). Autorización de sitio de
+
+automóvil de alquiler o de
+
+carga en general, por cada
+
+vehículo. 30.58
+
+B). Extensión de sitio de
+
+automóvil de alquiler o de
+
+carga en general, por cada
+
+vehículo. 21.81
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3513,11 +4193,15 @@ ampliación de ruta y territorio de
 
 operación, referidos a:
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 A). Concesiones para servicio de
 
 transporte de pasajeros y colectivos
 
-en ruta fija, por unidad vehicular. 22.90
+en ruta fija, por unidad vehicular. 24.73
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Concesiones para automóvil de
 
@@ -3527,19 +4211,15 @@ carga, grúas, carga en general y
 
 materiales para construcción, por
 
-unidad vehicular. 57.27
+unidad vehicular. 61.85
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 C). Ampliación de ruta o de territorio
 
-de operación. 57.27
+de operación. 61.85
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
-XV. Por el derecho de concursar en el
-
-otorgamiento de concesiones, por
-
-unidad. 5.727
+XV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3549,17 +4229,23 @@ de transporte público en las siguientes
 
 modalidades, por unidad por mes:
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 A). Transporte zonal en vehículos de
 
-propulsión no mecánica (bicitaxis). 0.525
+propulsión no mecánica (bicitaxis). 0.56
 
-B). Transporte de carga en general. 11.455
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+B). Transporte de carga en general. 12.37
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 C). Otras modalidades de transporte
 
-público de pasajeros. 11.455
+público de pasajeros. 12.37
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 XVII. Por la expedición de copias
 
@@ -3567,7 +4253,7 @@ certificadas de documentos que obran
 
 en los archivos de la dependencia, por
 
-foja. 2.291
+foja. 2.47
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -3587,11 +4273,15 @@ personas físicas o personas morales,
 
 unidades o empresas económicas:
 
-A). Autorización. 149.49
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). Refrendo anual. 2.992
+A). Autorización. 161.44
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+B). Refrendo anual. 3.23
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 XIX. Expedición de autorización para el
 
@@ -3607,7 +4297,115 @@ público de autotransporte colectivo
 
 de pasajeros en rutas fijas dentro
 
-del territorio del Estado. 6.405
+del territorio del Estado. 6.91
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 97 Bis.
+
+Por los servicios prestados por la Junta de Caminos se pagarán los siguientes derechos:
+
+TARIFA
+
+CONCEPTO Número de Salarios Mínimos
+
+Generales Vigentes del
+
+Área Geográfica que
+
+corresponda.
+
+I. Canalizaciones superficiales por cada metro:
+
+A). De 0 a 999 metros 0.22
+
+B). A partir de 1000 metros 0.15
+
+II. Canalizaciones subterráneas por cada metro:
+
+A). De 0 a 999 metros 0.23
+
+B). A partir de 1000 metros 0.15
+
+III. Instalación de postería por cada metro:
+
+A). De 0 a 999 metros 0.08
+
+B). A partir de 1000 metros 0.06
+
+IV. Cruzamientos por cada metro:
+
+A). Aéreo 0.76
+
+B). Subterráneo 1.68
+
+V. Instalaciones marginales aéreas por cada metro:
+
+A). De 0 a 999 metros 0.17
+
+B). A partir de 1000 metros 0.11
+
+VI. Señalamiento con vigencia anual de los convenios:
+
+A). Turístico tipo oficial por pieza 36.02
+
+B). Informativo tipo oficial
+
+por pieza 41.82
+
+C). Publicitario por metro cuadrado
+
+al mes 0.50
+
+VII. Registros para canalizaciones en cruces, avenidas o calles, por registro:
+
+A). Para transición aéreo-subterráneo
+
+en baja tensión. 29.69
+
+B). Para Instalaciones de
+
+telecomunicaciones. 29.69
+
+C). Para líneas de drenaje, agua
+
+potable, hidrocarburos o similares. 29.69
+
+VIII. Ruptura de banquetas por
+
+metro cúbico. 1.63
+
+IX. Ruptura o corte de carpeta y estructura de pavimento inferior, por metro cúbico.
+
+A). Manual 1.95
+
+B). Con maquinaria 0.89
+
+X. Protección a instalaciones subterráneas con pintura o cinta plástica por metro lineal 0.25
+
+XI. Ruptura de guarnición por
+
+metro cúbico 0.89
+
+XII. Accesos por metro cuadrado 6.00
+
+XIII. Revisión técnica de memorias y/o planos
+
+A). Instalaciones marginales por
+
+metro lineal 0.23
+
+B). Cruzamientos aéreos o
+
+subterráneos por cruce 13.60
+
+C). Instalaciones marginales de
+
+telecomunicaciones por metro
+
+lineal 0.08
+
+D). Anuncios por memoria 76.45
 
 ###### Artículo 98.
 
@@ -3617,17 +4415,23 @@ Por los servicios prestados por la Secretaría de Ecología que a continuación 
 
 TARIFA
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 CONCEPTO Número de Salarios Mínimos
 
 Generales Vigentes del Área
 
-Geográfica que corresponda.
+Geográfica "A".
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 I. Por la búsqueda y reposición del
 
 certificado de verificación vehicular
 
-de emisión de contaminantes. 1.302
+de emisión de contaminantes. 1.40
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 II. Por la expedición anual del
 
@@ -3637,7 +4441,7 @@ que no quedan sujetos al programa
 
 "Hoy No Circula", conforme a las
 
-normas técnicas emitidas al efecto. 8.505
+normas técnicas emitidas al efecto. 9.23
 
 III. Por el suministro y control, a
 
@@ -3649,23 +4453,49 @@ emisiones contaminantes, de la
 
 siguiente documentación:
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 A). Por cada certificado-holograma
 
-tipo "cero cero". 0.567
+tipo "cero cero".
+
+1. Vehículos cuyo servicio sea de
+
+uso intensivo 6.00
+
+2. Vehículos de servicio particular 12.00
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Por cada certificado-holograma
 
-tipo "cero". 0.567
+tipo "cero". 0.61
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 C). Por cada certificado-holograma
 
-tipo "uno". 0.514
+tipo "uno". 0.55
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 D). Por cada certificado-holograma
 
-tipo "dos". 0.514
+tipo "dos". 0.55
 
-E). Por cada constancia de rechazo. 0.231
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+E). Por cada constancia de rechazo. 0.24
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+IV. por la expedición y grabación
+
+de la memoria "CHIP", para el
+
+Programa Integral de Reducción
+
+de Emisiones Contaminantes 4.00
 
 El Gobernador emitirá semestralmente, por los servicios de verificación vehicular que presten los centros especializados autorizados Verificentros relacionados con el Programa de Verificación Vehicular Obligatoria sobre Emisión de Contaminantes de Vehículos Automotores, las tarifas aplicables a estos servicios, que deberán pagarse dependiendo del tipo de certificado de que se trate, considerando el uso intensivo o particular del vehículo, dentro de los términos y plazos que se señalen al respecto, en el marco de dicho programa para la entidad, y que se publicarán en el Periódico Oficial, así como en el Diario Oficial de la Federación.
 
@@ -3673,7 +4503,7 @@ El Gobernador emitirá semestralmente, por los servicios de verificación vehicu
 
 Por la evaluación del impacto ambiental, que efectúe la autoridad competente, en los términos de los ordenamientos jurídicos aplicables, se pagarán los siguientes derechos:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -3689,11 +4519,11 @@ I. Por la evaluación de la
 
 manifestación de impacto
 
-ambiental. 126.53 130.22
+ambiental. 136.63 140.63
 
 II. Evaluación de los estudios
 
-de riesgo ambiental. 189.79 195.33
+de riesgo ambiental. 204.97 210.95
 
 III. Por la expedición de
 
@@ -3703,15 +4533,47 @@ la prestación de servicios
 
 profesionales en materia de
 
-impacto y riesgo ambiental. 50.61 52.09
+impacto y riesgo ambiental. 54.65 56.25
 
 No pagarán los derechos previstos en este artículo los fraccionadores de desarrollos habitacionales donde se prevé la construcción de vivienda social progresiva, de interés social y popular, así como las microindustrias que estén registradas en el Padrón Nacional de la Microindustria.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 99 Bis.
+
+Por los servicios de ordenamiento ecológico que preste la Secretaría en términos de la normatividad aplicable, se pagarán los siguientes derechos:
+
+TARIFA
+
+CONCEPTO Número de Salarios Mínimos
+
+Generales Vigentes
+
+del Área Geográfica que
+
+corresponda.
+
+I. Por la elaboración y actualización
+
+de estudios de ordenamiento
+
+ecológico territorial por cada
+
+hectárea de estudio 885.0
+
+II. Por el suministro en disco
+
+compacto de información del
+
+ordenamiento ecológico del
+
+territorio del Estado de México 30.0
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 100.
 
-Por la evaluación permanente a centros de verificación vehicular, se pagará una cuota anual conforme a la siguiente:
+Por la evaluación permanente a verificentros autorizados, se pagará una cuota anual conforme a la siguiente:
 
 TARIFA
 
@@ -3721,45 +4583,25 @@ Generales Vigentes del Area
 
 Geográfica que corresponda.
 
-I. Centro de verificación. 126.53
+I. Por línea de verificación en uso. 73.7
 
-II. Centro de verificación
+II. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
-especializado. 158.15
+III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
-> <small>(F. DE E., G.G. 15 DE MARZO DE 2000)</small>
-
-III. Macrocentros. 189.79
-
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 101.
 
-Por los análisis técnicos y económicos para la procedencia operativa de centros de verificación vehicular, centros especializados de verificación vehicular y macrocentros de verificación vehicular, se pagarán derechos, cada treinta y seis meses conforme a la siguiente:
-
-TARIFA
-
-CONCEPTO Número de Salarios Mínimos
-
-Generales Vigentes del Area
-
-Geográfica que corresponda.
-
-I. Centros de verificación. 126.53
-
-II. Centros de verificación
-
-especializada. 253.05
-
-> <small>(F. DE E., G.G. 25 DE MARZO DE 1999)</small>
-
-III. Macrocentros. 379.58
+Por los análisis técnicos y económicos para la procedencia operativa de verificentros autorizados, se pagarán 147.40 días de salario mínimo general vigente del área geográfica que corresponda, por cada doce meses.
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 102.
 
 Por la determinación de emisiones, descargas o caracterización de residuos a los establecimientos industriales, comerciales y de servicios realizados por la Secretaría de Ecología, se cobrarán los siguientes derechos:
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -3773,13 +4615,13 @@ I. Por determinación de emisiones
 
 a la atmósfera en procesos de
 
-combustión. 63.26
+combustión. 68.32
 
 II. Por la determinación de emisiones
 
 a la atmósfera, provenientes de otro
 
-tipo de proceso. 88.57
+tipo de proceso. 95.65
 
 III. Por la caracterización de residuos
 
@@ -3787,7 +4629,13 @@ no domésticos de acuerdo con las
 
 normas oficiales o disposiciones
 
-jurídicas aplicables. 126.53
+jurídicas aplicables. 136.65
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 102 Bis.
+
+Por la valuación que se realice para la descarga de aguas residuales, emisiones a la atmósfera y contaminación del suelo se pagará 8 salarios mínimos generales vigentes en el área que (sic) geográfica que corresponda.
 
 ###### Artículo 103.
 
@@ -3803,21 +4651,21 @@ Generales Vigentes del Area
 
 Geográfica que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 I. Expedición de certificados de
 
-no antecedentes penales. 0.693
+no antecedentes penales. 0.74
 
 No se pagarán estos derechos por la expedición de certificados a los elementos activos de la policía judicial, seguridad pública estatal, municipal y los del ámbito federal, con motivo de la renovación de la licencia colectiva para la portación y uso de armas de fuego.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-II. Certificación de copias de
+II. Certificación de copias de documentos
 
-averiguaciones previas por
+que obran en los archivos de la dependencia,
 
-cada página. 0.115
+por cada página. 0.12
 
 No se pagan los derechos previstos en esta fracción, por la expedición de:
 
@@ -3829,9 +4677,13 @@ B). Las copias certificadas solicitadas por autoridades judiciales y administrat
 
 C). Cuando las copias certificadas se expidan para la sustanciación de procedimientos penales y familiares.
 
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+D). Las copias certificadas que se expidan de actas de levantamiento de denuncias de robo de vehículos.
+
 ###### Artículo 104.
 
-Por la expedición de guía sanitaria se pagará 0.708 días de salario mínimo general vigente del área geográfica que corresponda.
+Por la expedición de guía sanitaria se pagará 0.76 días de salario mínimo general vigente del área geográfica que corresponda.
 
 #### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
@@ -3847,9 +4699,9 @@ No pagarán estos derechos los propietarios de las empresas registradas en el Pa
 
 Por certificados o copias certificadas expedidas por el Tribunal de lo Contencioso Administrativo se pagarán los siguientes derechos:
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-Por certificados o copias certificadas, por cada página, 0.294 días de salario mínimo general vigente del área geográfica que corresponda.
+Por certificados o copias certificadas, por cada página, 0.31 días de salario mínimo general vigente del área geográfica que corresponda.
 
 No se pagarán estos derechos, cuando se expidan:
 
@@ -3883,7 +4735,13 @@ II. Tratándose de inmuebles ubicados fuera de las áreas de interés catastral,
 
 III. Tratándose de inmuebles ubicados fuera de las áreas de interés catastral, cuya obligación de pago se genere por primera vez, la superficie de terreno y de construcción si la hubiera.
 
-IV. Tratándose de inmuebles ubicados dentro y fuera de las áreas de interés catastral, en donde se realicen actividades agropecuarias y forestales cuya obligación de pago se genere por primera vez, la superficie de terreno y de construcción si la hubiera.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+IV. Tratándose de inmuebles ubicados dentro y fuera de las áreas de interés catastral, en donde se realicen actividades agropecuarias, forestales o acuícolas, cuya obligación de pago se genere por primera vez, la superficie de terreno y de construcción si la hubiere.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+V. Tratándose de inmuebles ubicados dentro de las áreas de interés catastral, con superficie de terreno superior a 2,500 metros cuadrados en donde se realicen actividades agropecuarias, forestales o acuícolas, el monto pagado en el ejercicio anterior y el valor catastral, proporcionalmente.
 
 ###### Artículo 109.
 
@@ -3891,7 +4749,7 @@ El impuesto se determinará conforme a lo siguiente:
 
 I. En el caso de inmuebles ubicados dentro de las áreas de interés catastral, el importe a pagar será la cantidad que resulte de aplicar el valor catastral la siguiente:
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -3919,11 +4777,33 @@ GRUPO 2: Acolman, Almoloya del Río, Amecameca, Apaxco, Atenco, Atizapán, Atlac
 
 GRUPO 3: Acambay, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Amanalco, Amatepec, Atlautla, Axapusco, Chapa de Mota, Coatepec Harinas, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Joquicingo, Malinalco, Morelos, Nopaltepec, Ocuilan, Otzoloapan, Otzolotepec, Polotitlán, San Felipe del Progreso, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Texcaltitlán, Timilpan, Tlatlaya, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Zacazonapan, Zacualpan y Zumpahuacán.
 
-IV. Para los inmuebles a que se refiere la fracción IV del artículo anterior, el monto anual del impuesto a pagar será el 10% del resultado de aplicar la tarifa de la fracción III de este artículo. En ningún caso el pago podrá ser inferior a tres días de salario mínimo general vigente en el área geográfica de la ubicación del inmueble ni superior a una cantidad equivalente a siete días de salario mínimo tratándose del grupo 1 de municipios; de cinco días de salario mínimo si corresponde al grupo 2 y de tres días de salario mínimo para el grupo 3, contenidos en la tarifa de la fracción III de este artículo.
+(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+IV. Para los inmuebles a que se refiere la fracción IV del artículo anterior, el monto anual del impuesto a pagar será el 10% del resultado de aplicar la tarifa de la fracción III de este artículo. En ningún caso el pago podrá ser inferior a tres días de salario mínimo general vigente en el área geográfica de la ubicación del inmueble, ni superior a una cantidad equivalente a nueve días de salario mínimo tratándose del grupo 1 de municipios; de siete días de salario mínimo si corresponde al grupo 2 y de cinco días de salario mínimo para el grupo 3 contenidos en la tarifa de la fracción III de este artículo.
 
-El ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad y viudas sin ingresos fijos, el otorgamiento de bonificaciones en el pago de este impuesto, que será de un 50%, previa acreditación fehaciente de los supuestos respectivos.
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+V. Para los inmuebles enunciados en la fracción V del artículo anterior, el monto anual del impuesto se determinará conforme a lo siguiente:
+
+> <small>(F. DE E., G.G. 12 DE MARZO DE 2001)</small>
+
+A). En el caso de predios sin construcción, el impuesto a pagar será el resultado de multiplicar el importe pagado en el ejercicio anterior por el factor que al efecto establezca la Ley de Ingresos.
+
+> <small>(F. DE E., G.G. 12 DE MARZO DE 2001)</small>
+
+B). En el caso de inmuebles en los que existan construcciones, el impuesto a pagar se determinará como sigue:
+
+1. El impuesto por terreno se calculará multiplicando la parte proporcional del importe pagado en el ejercicio anterior, por el factor que al efecto establezca la Ley de Ingresos.
+
+2. El impuesto por la construcción se determinará conforme a lo dispuesto en la fracción I de este artículo, considerando el valor catastral de la construcción o construcciones existentes.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+En caso de que en el inmueble existan construcciones destinadas exclusivamente para apoyar el desarrollo de las actividades agropecuarias, forestales o acuícolas, el impuesto correspondiente se determinará multiplicando la parte proporcional del importe cubierto en el ejercicio anterior por el factor que al efecto establezca la Ley de Ingresos.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+El ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad, viudas sin ingresos fijos y aquellas personas físicas cuya percepción diaria no rebase dos salarios mínimos generales del área geográfica que corresponda, el otorgamiento de bonificaciones en el pago de este impuesto, que será hasta del 50%, previa acreditación fehaciente de los supuestos respectivos. En tal caso quedarán sin efecto los beneficios por concepto de pago anual anticipado otorgados en la Ley de Ingresos. Este beneficio se aplicará únicamente a un inmueble propiedad del contribuyente, siempre y cuando esté destinado a casa habitación.
 
 Los términos y condiciones en cuanto al otorgamiento de los apoyos indicados se determinarán en el correspondiente acuerdo de cabildo.
 
@@ -3951,9 +4831,13 @@ En todo caso, el importe anual del impuesto a pagar, no podrá ser inferior a tr
 
 En el caso de terminación de construcciones, reconstrucciones, ampliaciones, vencimiento de la licencia de construcción o su prórroga, deberá manifestarse ante la autoridad, una vez que estas sean ocupadas aun sin estar terminadas, en cuyo caso el impuesto resultante se pagará a partir del bimestre siguiente a la fecha en que ocurra el hecho o circunstancia.
 
-Cuando se constituya el régimen de copropiedad, se calculará la nueva base y se pagará el impuesto a partir del bimestre siguiente a la fecha de autorización preventiva de la escritura pública correspondiente, a la terminación de las construcciones o a la ocupación de las mismas, sin estar terminadas.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-Si la copropiedad se constituye sin estar terminadas las construcciones, el impuesto se continuará pagando sobre la base de terreno.
+Cuando se constituya el régimen de copropiedad o condominio, se calculará la nueva base y se pagará el impuesto a partir del bimestre siguiente a la fecha de autorización preventiva de la escritura pública correspondiente, a la terminación de las construcciones o a la ocupación de las mismas, sin estar terminadas.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Si la copropiedad o el régimen de condominio se constituye sin estar terminadas las construcciones, el impuesto se continuará pagando sobre la base de terreno.
 
 Respecto de los créditos fiscales derivados del Impuesto Predial que no hayan sido pagados en los plazos previstos en este artículo, no procederá su actualización en los términos que dispone este Código.
 
@@ -4017,27 +4901,29 @@ XV. La readquisición de la propiedad de bienes inmuebles a consecuencia de la r
 
 Este impuesto se determinará conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 TARIFA
 
 RANGOS DE VALOR BASE CUOTA FIJA FACTOR APLICABLE A
 
 (en pesos) (en pesos) CADA RANGO
 
-Límite Inferior Límite Superior
+De 1 A 126,000 1.00 0.01201
 
-De 1 A 85,000 1.00 0.01598
+De 126,021 A 225,250 1,515.00 0.01198
 
-De 85,001 A 170,000 1,360.00 0.01919
+> <small>(F. DE E., G.G. 12 DE MARZO DE 2001)</small>
 
-De 170,001 A 340,000 2,992.00 0.02079
+De 225,251 A 329,225 2,705.00 0.01827
 
-De 340,001 A 595,000 6,528.00 0.02293
+De 329,226 A 530,300 4,620.00 0.01921
 
-De 595,001 A 935,000 12,376.00 0.02519
+De 530,301 A 932,500 8,485.00 0.02063
 
-De 935,001 A 1'360,000 20,944.00 0.02751
+De 932,501 A 1'550,000 16,785.00 0.02301
 
-De 1'360,001 A Más 32,640.00 0.02800
+De 1,550,001 O Más 31,000.00 0.02529
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -4047,9 +4933,15 @@ El monto del impuesto a pagar, será el resultado de sumar a la cuota fija que c
 
 Tratándose de regularización de la tenencia de la tierra se considerará el valor catastral del terreno y de las construcciones adheridas a él, en caso de que existan.
 
-Tratándose de vivienda social progresiva, de interés social y popular se aplicarán las tasas del 0%, 0% y 0.8% al valor del inmueble consignado en el avalúo tipo utilizado para el otorgamiento del crédito, respectivamente.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Tratándose de vivienda social progresiva, de interés social y popular nueva o usada, se aplicarán las tasas del 0%, 0% y 0.8% al valor del inmueble consignado en el avalúo tipo utilizado para el otorgamiento del crédito, respectivamente.
 
 El avalúo tipo servirá para todos los efectos fiscales de las viviendas con iguales características que integren un conjunto habitacional.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Para la acreditación del impuesto previsto en este artículo, referido a viviendas de interés social, social progresivo o popular, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos correspondientes, o bien, con recursos proporcionados por estos, cuando la transmisión se haga entre particulares, debiendo acreditar fehacientemente la naturaleza de la vivienda y el origen de los recursos.
 
 Se entenderá por viviendas tipo social progresiva, de interés social y popular, las que tengan las características siguientes:
 
@@ -4102,6 +4994,10 @@ VII. En los casos no previstos en las fracciones anteriores, cuando los actos de
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 A la declaración a que se refiere este artículo deberá acompañarse copia certificada, expedida por notario público o la autoridad judicial o administrativa, en la que conste el acto o contrato traslativo de dominio, así como el certificado de no adeudo del Impuesto Predial con el que acredite que se encuentra al corriente en el pago de este impuesto y de cualquier otro gravamen que se genere por la propiedad o posesión.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Las personas físicas o morales cuya actividad sea la enajenación de bienes inmuebles o la intermediación de operaciones inmobiliarias, estarán obligadas a dar aviso a la tesorería municipal correspondiente, dentro de los 17 días siguientes, a aquél en que tuvieron conocimiento del hecho o hayan intervenido en el mismo, mediante el cual se genere la adquisición.
 
 ###### Artículo 117.
 
@@ -4169,25 +5065,39 @@ alto y Campestre. Por cada vivienda
 
 prevista 121.70 101.40
 
-Industrial y Por cada 1,000 m2 de
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-comercial. superficie vendible 179.85 105.73
+Industrial, Por cada 1,000 m2 de
 
-Cuando en las autorizaciones de los fraccionamientos se incluyan lotes para usos comerciales o de oficinas, se pagará adicionalmente por cada 100 m2 de superficie vendible para estos usos del suelo, una cuota equivalente a 25.03 días de salario mínimo general del área geográfica que corresponda. Se exceptúan de esta obligación los fraccionamientos o conjuntos urbanos de tipo comercial.
+comercio y superficie vendible 179.85 105.73
+
+servicios
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Cuando en las autorizaciones de los fraccionamientos o conjuntos urbanos se incluyan lotes para usos comerciales o de servicios, se pagará adicionalmente por cada 100 m2 de superficie vendible para estos usos del suelo, una cuota equivalente a 25.03 días de salario mínimo general del área geográfica que corresponda. Se exceptúan de esta obligación los de tipo comercial.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Tratándose de fraccionamientos, conjuntos urbanos o subdivisiones de predios de tipo residencial, que incluyan superficies con espacios destinados para actividades recreativas o deportivas, se pagará adicionalmente una cuota equivalente a 8.30 días de salario mínimo general del área geográfica que corresponda, por cada 1000 m2 de la superficie dedicada a las actividades mencionadas.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+En el caso de autorizaciones de fraccionamientos mixtos, se pagará por vivienda conforme a la tarifa anterior, atendiendo a los tipos de fraccionamiento base que lo conforman.
 
 Para la aplicación de la tarifa a que se refiere este artículo, para los diferentes tipos de vivienda, se atenderá a las siguientes definiciones:
 
-A). Social progresiva.- Aquella cuyo valor al término de la construcción no exceda de la suma que resulte de multiplicar hasta por diez el salario mínimo general del área geográfica "A" elevado al año.
+A). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
-B). Interés social.- Aquella cuyo valor al término de la construcción no exceda de la suma que resulte de multiplicar por quince el salario mínimo general del área geográfica "A" elevado al año.
+B). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
-C). Popular.- Aquella cuyo valor al término de la construcción no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general del área geográfica "A" elevado al año.
+C). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
-D). Media.- Aquella cuyo valor al término de la construcción no exceda de la suma que resulte de multiplicar por cincuenta el salario mínimo general del área geográfica "A" elevado al año.
+D). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
-E). Residencial.- Aquellas cuyo valor al término de la construcción no exceda de la suma que resulte de multiplicar por cien el salario mínimo general del área geográfica "A" elevado al año.
+E). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
-F). Residencial alto y campestre.- Aquella cuyo valor al término de la construcción exceda de la suma que resulte de multiplicar por cien el salario mínimo general del área geográfica "A" elevado al año.
+F). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
 Para los efectos de esta sección, los municipios se clasifican en:
 
@@ -4215,21 +5125,51 @@ Generales del Area Geográfica
 
 que corresponda.
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 I. Anuncios adosados,
 
-pintados y murales por
+pintados, murales, volados,
+
+marquesinas, por
 
 m2 o fracción,
 
 bimestralmente. 0.5
 
-II. Estructurales, por m2
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-o fracción. 1.0
+II. Estructurales, mobiliario
 
-III. Luminosos por m2,
+urbano, autosoportados
 
-o fracción. 2.0
+por m2 o fracción. 1.0
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+III. Luminosos, de neón,
+
+eléctrónicos, computarizados
+
+y los que pudieran ser
+
+explotados de forma mixta,
+
+por m2, o fracción. 2.0
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+IV. Objetos inflables, por
+
+día o fracción. 2.0
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+V. Anuncios colgantes, lonas
+
+o mantas por m2 por día,
+
+con carácter comercial. 0.10
 
 No se pagará este impuesto, por los anuncios que tenga como única finalidad la identificación del establecimiento comercial, industrial o de servicios, cuando los establecimientos tengan fines educativos o culturales o, cuando de manera accesoria se preste el servicio de alumbrado público o nomenclatura.
 
@@ -4253,21 +5193,27 @@ II. Espectáculo público.- Toda función, evento o acto de esparcimiento, sea t
 
 Los Ayuntamientos por acuerdo de Cabildo podrán destinar un porcentaje de los ingresos que se obtengan de la celebración de espectáculos públicos, al Sistema Municipal para el Desarrollo Integral de la Familia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 123.
 
-Este impuesto se calculará y determinará aplicando al total de los ingresos percibidos durante el período de explotación autorizado, la tasa del 10% cuando se trate de juegos; del 10% en el caso de espectáculos públicos explotados por personas físicas o morales, que no cuenten con establecimiento debidamente constituido; del 5% en el caso de espectáculos públicos explotados por personas físicas o morales que cuenten con establecimiento debidamente constituido; con excepción de los culturales, teatrales y circenses que será del 3%.
+Este impuesto se calculará y determinará aplicando al total de los ingresos percibidos, durante el período de explotación autorizado, la siguiente tarifa:
+
+I. Tratándose de juegos mecánicos, destreza, azar o simuladores explotados por personas físicas o morales que no cuenten con establecimiento debidamente constituido la tasa del 10%.
+
+Cuando se trate de juegos mecánicos, destreza, azar o simuladores explotados por personas físicas o morales que cuenten con establecimiento debidamente constituido la tasa del 5%.
+
+II. Tratándose de espectáculos públicos explotados por personas físicas o morales que no cuenten con establecimiento debidamente constituido la tasa del 10%.
+
+Cuando se trate de espectáculos públicos explotados por personas físicas o morales que cuenten con establecimiento debidamente constituido la tasa del 5%.
+
+III. Tratándose de espectáculos públicos culturales, teatrales y circenses la tasa del 3%.
 
 Los boletos que se utilicen para el acceso a un espectáculo público, deberán ser foliados y los autorizará la tesorería para su venta, cuando se utilicen sistemas mecánicos para la venta o control de los boletos, el contribuyente deberá permitir a los interventores la inspección de las máquinas.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
 Los boletos de cortesía no excederán del 5% del boletaje vendido.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
-Las máquinas de juegos accionados con monedas, fichas o cualquier otro mecanismo, pagarán mensualmente 2.0 días de salario mínimo general vigente del área geográfica que corresponda por cada una.
+Las máquinas de entretenimiento de audio, vídeo, vídeo juegos, eléctricas y electrónicas, mesas de aire, futbolitos, y los juegos de computadora que se activen con monedas, fichas, tarjetas magnéticas o cualquier otro dispositivo que impliquen interacción de uno o varios usuarios con dichas máquinas o aparatos, pagarán mensualmente 2.0 días de salario mínimo general vigente del área geográfica que corresponda por cada una.
 
 ###### Artículo 124.
 
@@ -4293,9 +5239,11 @@ Este impuesto se pagará mediante declaración que se presentará a la tesorerí
 
 ###### Artículo 128.
 
-Este impuesto no se causa por los servicios de hospedaje proporcionados por casas de huéspedes, excepto las que incluyan en sus servicios la opción de consumir vinos, licores o cerveza.
+(DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
 ### CAPITULO SEGUNDO. DE LOS DERECHOS
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
 
@@ -4303,13 +5251,19 @@ Este impuesto no se causa por los servicios de hospedaje proporcionados por casa
 
 Están obligadas al pago de los derechos previstos en esta sección, las personas físicas o morales que reciban cualesquiera de los siguientes servicios:
 
-I. Suministro de agua potable.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+I. Suministro de agua potable y drenaje.
 
 II. Suministro de agua en bloque proporcionada por autoridades municipales o sus descentralizadas a fraccionamientos o unidades habitacionales, comerciales o industriales.
 
-III. Autorización de derivaciones de la toma de agua.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-IV. Conexión a los sistemas de agua y de drenaje.
+III. Servicio de descarga de agua residual al drenaje, del agua obtenida de fuente propia o distinta a la red municipal.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+IV. Autorización de derivaciones.
 
 V. Establecimiento de los sistemas de agua potable y de alcantarillado en fraccionamientos o unidades habitacionales, comerciales o industriales.
 
@@ -4321,7 +5275,17 @@ VIII. Reparación de aparatos medidores de consumo de agua.
 
 IX. Instalación de aparatos medidores de agua.
 
-El ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad y viudas sin ingresos fijos, el otorgamiento de bonificaciones en el pago de los derechos a que se refiere esta sección, en un porcentaje no mayor al 50%; en tal caso quedarán sin efecto los beneficios otorgados en el artículo 8 de la Ley de Ingresos. Los términos y condiciones en cuanto al otorgamiento de los apoyos indicados se determinarán en el correspondiente acuerdo.
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+X. Dictamen de factibilidad de servicios de asentamientos urbanos nuevos.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XI. Reconexión o reestablecimiento a los sistemas de agua potable.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+El ayuntamiento, mediante acuerdo de cabildo, determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad, viudas sin ingresos fijos y aquellas personas físicas cuya percepción diaria no rebase dos salarios mínimos generales del área geográfica que corresponda, el otorgamiento de bonificaciones en el pago de los derechos por el suministro de agua potable y drenaje para uso doméstico, en un porcentaje hasta del 50%; y se aplicará sólo respecto del inmueble en que habite el beneficiario. En tal caso quedarán sin efecto los beneficios por concepto de pago anual anticipado otorgados en la Ley de Ingresos. Los términos y condiciones en cuanto al otorgamiento de los apoyos indicados se determinarán en el correspondiente acuerdo.
 
 El consejo directivo del organismo público descentralizado de carácter municipal para la prestación de los servicios previstos en esta Sección, podrá acordar la realización de programas de apoyo a la regularización en el cumplimiento de obligaciones fiscales, mediante el otorgamiento de carácter general de subsidios de recargos y condonación de multas, previo acuerdo de cabildo, que será publicado en el periódico oficial.
 
@@ -4363,11 +5327,25 @@ De 165.01 hasta 480 0.187 0.174
 
 De 480.01 en adelante 0.209 0.197
 
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+En caso de que el medidor se encuentre descompuesto, el usuario pagará los derechos de suministro de agua potable de conformidad al promedio de consumo de los tres últimos bimestres inmediatos anteriores en que estuvo funcionando el aparato.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Se considerará como consumo de tipo mixto, aquellos casos en donde en un mismo inmueble con una sola toma de agua con y sin servicio medido, a la vez se abastezcan o suministren departamentos, despachos, oficinas y locales comerciales.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+El pago del consumo por servicio medido, se hará por cada uno de los usuarios conforme al uso del servicio y la tarifa aplicable, promediando el consumo total entre el número de usuarios beneficiados.
+
 Para consumo de agua en edificios de departamentos y vecindades que tengan para su servicio una sola toma de agua y medidor, la lectura del consumo bimestral se promediará en cada caso entre el número de departamentos o viviendas registradas para cuantificar el consumo de cada una, aplicando el precio por metro cúbico de acuerdo a la tarifa vigente.
 
 La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un consumo de 25 m3.
 
-B). Si no existe aparato medidor o se encuentra en desuso, se pagarán bimestralmente los derechos, dentro del segundo mes del bimestre que corresponda, de conformidad con la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+B). Si no existe aparato medidor o se encuentra en desuso, se pagarán bimestralmente los derechos, dentro del segundo mes del bimestre que corresponda, de acuerdo con la siguiente:
 
 TARIFA
 
@@ -4394,6 +5372,10 @@ Cuando la toma sea de
 19 mm hasta 26 mm 58.695 55.200
 
 Para consumo de agua en edificios de departamentos, vecindades y en cualquier tipo de conjunto habitacional que tenga para su servicio una sola toma de agua sin medidor o que teniéndolo éste se encuentre en desuso y que cuenten con instalaciones hidráulicas para el servicio de agua potable para cada casa habitación, departamento o viviendas existentes, se pagará por cada una de ellas la tarifa bimestral correspondiente, sin que en ningún caso el importe a pagar sea inferior a la cuota mínima que corresponda.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+En los edificios con consumo mixto, con una sola toma de agua sin medidor, el pago del consumo será por cuota fija de conformidad al uso del servicio y la tarifa aplicable.
 
 II. Para uso no doméstico:
 
@@ -4430,6 +5412,10 @@ De 165.01 hasta 480 0.386 0.359
 De 480.01 en adelante 0.435 0.412
 
 La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un consumo de 25 m3.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+En caso de que el medidor se encuentre descompuesto, el usuario pagará los derechos de suministro de agua potable de conformidad al promedio de consumos de los tres últimos bimestres inmediatos anteriores en que estuvo funcionando el aparato.
 
 B). Si no existe aparato medidor, o se encuentra en desuso, se pagarán mensualmente los derechos dentro de los quince primeros días del mes que corresponda, de acuerdo con la siguiente:
 
@@ -4473,7 +5459,9 @@ A). Para uso doméstico: 2 días de salario mínimo general del área geográfic
 
 B). Para uso no doméstico: 4 días de salario mínimo general del área geográfica que corresponda.
 
-No se pagarán los derechos previstos en esta fracción, durante el primer año natural, a partir de la instalación del aparato medidor, por una sola vez.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+No se pagarán los derechos previstos en esta fracción, durante el primer año natural, a partir de la instalación del aparato medidor, por una sola vez, salvo los casos en que dicho aparato haya sido deteriorado por causas imputables al usuario, en los que éste deberá cubrir el 50% del costo de la reparación del aparato.
 
 En los casos en que el pago de los derechos a que se refiere este artículo, se realice en base a consumos cuantificados a través de aparato medidor, el usuario del servicio está obligado a reportar mediante los formatos oficiales, a la autoridad municipal u organismo descentralizado que corresponda, los consumos bimestrales de agua y efectuar su pago dentro de los primeros diecisiete días del mes siguiente al del bimestre que se esté reportando.
 
@@ -4495,15 +5483,21 @@ A) 0.0987
 
 B) 0.0947
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 132.
 
-Los propietarios o poseedores de predios con o sin construcción que tengan acceso a la red general de agua potable y no estén conectados a la misma, pagarán bimestralmente una cuota de 1.614 número de salarios mínimos diarios del área geográfica que corresponda. Tratándose de fraccionamientos o conjuntos urbanos esta obligación iniciará al momento de ser recibidos por los ayuntamientos. No se pagarán estos derechos por los terrenos de uso agropecuario.
+Los propietarios o poseedores de predios con o sin construcción que tengan acceso a la red general de agua potable y no estén conectados a la misma, pagarán bimestralmente una cuota de 1.6 número de salarios mínimos diarios del área geográfica que corresponda. Tratándose de fraccionamientos o conjuntos urbanos esta obligación iniciará al momento de la comercialización de los terrenos o viviendas. No se pagarán estos derechos por los terrenos de uso agropecuarios.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 133.
 
-Para la determinación de los derechos por el suministro de agua potable, la autoridad municipal instalará los medidores correspondientes, a costa de los usuarios. La autoridad municipal o el organismo descentralizado, deberá notificar al usuario el importe del consumo bimestral, a falta de notificación, el usuario deberá solicitar la liquidación correspondiente. Respecto de las tomas que no cuenten con aparato medidor, el contribuyente deberá solicitar su instalación, verificar su funcionamiento y reportar anomalías
+La autoridad municipal tendrá la facultad de instalar los medidores correspondientes, a costa de los usuarios. La autoridad municipal o el organismo descentralizado, deberá notificar al usuario el importe del consumo bimestral, a falta de notificación, el usuario deberá solicitar la liquidación correspondiente. Respecto de las tomas que no cuenten con aparato medidor, el contribuyente deberá solicitar su instalación, verificar su funcionamiento y reportar anomalías.
 
-Por lo que se refiere al aparato medidor, se pagará por concepto de derechos doce días de salario mínimo general del área geográfica que corresponda, teniendo el usuario la opción de adquirir el aparato medidor de agua en el establecimiento que elija, siempre que el medidor reúna las especificaciones técnicas que apruebe el ayuntamiento o el organismo operador de agua, las cuales deberán ser del conocimiento público.
+En caso de que la autoridad municipal determine la instalación del aparato medidor, deberá notificar previamente al contribuyente cuando menos con quince días hábiles de anticipación.
+
+Por lo que se refiere al aparato medidor, se pagará por concepto de derechos doce días de salario mínimo general del área geográfica que corresponda, teniendo el usuario la opción de adquirir el aparato medidor de agua en el establecimiento que elija, siempre que el medidor reúna las especificaciones técnicas que apruebe el ayuntamiento o el organismo operador de agua, las cuales deberán ser del conocimiento público. En este último caso el organismo prestador quedará eximido de realizar reparación alguna al medidor, salvo que el usuario lo solicite a su costa.
 
 ###### Artículo 134.
 
@@ -4515,9 +5509,11 @@ II. Para que los giros y establecimientos que independientemente forman parte de
 
 Los propietarios o poseedores de los predios, giros o establecimientos que se surtan de agua por medio de las derivaciones que autorice el ayuntamiento o el organismo descentralizado, deberán pagar el 50% de la cuota bimestral correspondiente al diámetro de la derivación, si la toma no tiene medidor; si hay medidor, pagarán de acuerdo con la tarifa de consumo del artículo 130 de este Código. Por la derivación se deberá efectuar un pago único de 7.297 número de salarios mínimos diarios del área geográfica que corresponda, independientemente del consumo. Los propietarios o poseedores de los predios que den su conformidad para establecer la derivación, además de pagar su propio consumo, están obligados solidariamente a pagar la cuota correspondiente a las derivaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 135.
 
-Por la prestación de los servicios de conexión de agua y drenaje, consistentes en las instalaciones y realización física de las obras para la toma y descarga de agua potable y residual en su caso, respectivamente, se pagarán derechos conforme a lo siguiente:
+Por la prestación de los servicios de conexión de agua y drenaje, consistentes en las instalaciones y realización física de las obras para la toma y descarga de agua potable y residual en su caso, se pagarán derechos conforme a lo siguiente:
 
 I. Por la conexión de agua a los sistemas generales:
 
@@ -4629,9 +5625,29 @@ En el caso de unidades multifamiliares, los derechos de conexión se aplicarán 
 
 Tratándose de obras que se realicen con mano de obra de la comunidad, así como con materiales de la región, la autoridad fiscal municipal podrá convenir con los propietarios o poseedores de los predios el pago de los derechos, previa cuantificación de los trabajos ejecutados así como del material aportado.
 
-Tratándose de viviendas de interés social y popular, los derechos a que se refiere este artículo, se reducirán un 50%.
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-No pagarán los derechos previstos en este artículo las viviendas de tipo social progresiva.
+En el caso de constructores, fraccionadores o desarrolladores, éstos pagarán los derechos que correspondan a partir del momento de la autorización del fraccionamiento.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Tratándose de la reconexión o reestablecimiento del servicio de agua potable cuando haya sido suspendido a petición del usuario o restringido al uso mínimo indispensable por falta de pago, el costo de los materiales y mano de obra utilizados, será por cuenta del interesado, previo presupuesto que formule el Ayuntamiento o el organismo descentralizado.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Tratándose de viviendas de interés social y popular, los derechos de conexión a que se refiere este artículo, se reducirán un 50%.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+No pagarán los derechos de conexión previstos en este artículo las viviendas de tipo social progresiva.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Los usuarios que se abastezcan de agua de fuente propia o distinta a la red municipal, y hagan uso del drenaje, están obligados al pago de derechos por descarga de agua residual.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+El monto de los derechos a que se refiere este artículo se pagará de acuerdo con la tarifa prevista en el artículo 136 fracción II. Cuando no exista planta de tratamiento el usuario pagará el 50% de la tarifa establecida en este párrafo.
 
 ###### Artículo 136.
 
@@ -4709,9 +5725,11 @@ En los casos en que no se paguen derechos, precios públicos o cuotas por el sum
 
 Por lo que hace a los caudales de aguas residuales, originados o derivados de predios destinados a actividades industriales, se estará a lo dispuesto por las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 137.
 
-Por el establecimiento del sistema de agua y alcantarillado del fraccionamiento, conjunto urbano, subdivisión o lotificación para edificaciones en condominio para desarrollos habitacionales, comerciales e industriales, se pagarán derechos conforme a la siguiente:
+Por la expedición del dictamen de factibilidad de servicios, así como por el establecimiento del sistema de agua potable y alcantarillado del fraccionamiento, conjunto urbano, subdivisión o lotificación para edificaciones en condominio para desarrollos habitacionales, comerciales e industriales, se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -4807,6 +5825,10 @@ Otros tipos de desarrollos
 
 o unidades. 0.278 0.2631
 
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Por la expedición del dictamen de factibilidad de servicios a nuevos fraccionamientos y conjuntos habitacionales, comerciales o industriales, se pagarán 10 días de salarios mínimos generales del área geográfica que corresponda por toma.
+
 En cuanto al tipo de desarrollo, se estará a las definiciones establecidas en las leyes de la materia.
 
 No pagarán los derechos previstos en este artículo las viviendas de tipo social progresiva, y en el caso de las unidades solo pagarán los desarrollos que no sean sujetos de división del suelo.
@@ -4869,11 +5891,15 @@ Generales del Area Geográfica
 
 que corresponda.
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 I. Asentamiento de actas de
 
-nacimiento de hijos menores
+nacimiento de recién nacidos,
 
-de un año. Exento
+hasta niños de un año. Exento
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 II. Asentamiento de actas de
 
@@ -4881,15 +5907,21 @@ los registros extemporáneos
 
 de nacimiento de hijos mayores
 
-de un año, por cada año omiso. 0.11
+de un año, por cada año omiso. 0.17
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 III. Asentamiento de actas de
 
-reconocimiento de hijos. 0.44
+reconocimiento de hijos. 0.66
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 IV. Asentamiento de actas de
 
-adopción. 0.44
+adopción. 0.66
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 V. Solicitud, formulación de
 
@@ -4897,15 +5929,19 @@ capitulaciones, celebración y
 
 asentamientos de actas
 
-matrimoniales. 2.474
+matrimoniales. 3.711
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 VI. Asentamiento de actas
 
-de divorcio. 2.474
+de divorcio. 3.711
 
 VII. Asentamiento de actas
 
 de defunción. Exento
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 VIII. Inscripción de tutela o
 
@@ -4917,17 +5953,25 @@ muerte o pérdida de la
 
 capacidad legal para
 
-administrar bienes. 0.806
+administrar bienes. 1.209
 
-IX. Transcripción de actas. 0.482
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-X. Anotaciones marginales 0.482
+IX. Transcripción de actas. 0.723
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+X. Anotaciones marginales 1.26
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 XI. Por copia certificada de
 
 cualquier acta o constancia
 
-de inexistencia de registro. 0.325
+de inexistencia de registro. 0.614
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 XII. Búsqueda en los libros
 
@@ -4939,15 +5983,19 @@ certificadas, cuando no
 
 se señale fecha, por cada
 
-año o fracción. 0.073
+año o fracción. 0.144
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 XIII. Los actos celebrados
 
 fuera de las oficinas del
 
-Registro Civil, pagarán una
+Registro Civil, o en días y horas
 
-cuota adicional de: 3.30
+inhábiles, pagarán una
+
+cuota adicional de: 4.95
 
 XIV. Tramitación de divorcio
 
@@ -4959,17 +6007,21 @@ XV. Cambio de régimen
 
 patrimonial en el matrimonio. 20.92
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 XVI. Inserción de actos del
 
 estado civil celebrados por
 
-mexicanos en el extranjero. 3.30
+mexicanos en el extranjero. 6.60
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 XVII. Por copia certificada de
 
 los apéndices de los actos,
 
-por hoja. 0.325
+por hoja. 0.614
 
 En los casos de desastres como heladas, inundaciones, epidemias, sismos o de campaña de regularización como matrimonios colectivos o solicitudes de oficio de las autoridades, los ayuntamientos respectivos a través de sus autoridades fiscales enunciadas en este Código, podrán subsidiar hasta el 100% de los derechos que causen los actos de registro civil.
 
@@ -5225,9 +6277,9 @@ VI. Por la autorización para la instalación, tendido o permanencia anual de ca
 
 VII. Por servicios de vigilancia, inspección y control necesarios para su ejecución, se cobrará un 2% a las compañías contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generados por las dependencias y entidades; la tesorería y las entidades en su caso, al realizar el pago de las estimaciones retendrán el importe respectivo.
 
-> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-Se exceptúan de la aplicación del pago de los derechos establecidos en esta fracción las obras realizadas con recursos del Ramo 33.
+Se exceptúan de la aplicación del pago de los derechos establecidos en esta fracción, las obras realizadas con cargo total o parcial a los recursos del Fondo para la Infraestructura Social Municipal, derivado del ramo 33.
 
 ###### Artículo 145.
 
@@ -5425,9 +6477,13 @@ por día. 0.03
 
 #### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA APLICACION DE LA VALUACION
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 150.
 
 Por el sacrificio, evisceración, desolle y corte de animales destinados al consumo humano, en rastros propiedad del municipio, se pagarán derechos conforme a la siguiente:
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
@@ -5439,19 +6495,19 @@ que corresponda.
 
 I. Ganado porcino,
 
-por ejemplar. 0.076
+por ejemplar. 0.1026
 
 II. Ganado bovino,
 
-por ejemplar. 0.164
+por ejemplar. 0.2214
 
 III. Ganado lanar o
 
-cabrío, por ejemplar. 0.033
+cabrío, por ejemplar. 0.0445
 
-IV. Aves, cada una. 0.0022
+IV. Aves, cada una. 0.0029
 
-V. Conejos, cada uno. 0.0044
+V. Conejos, cada uno. 0.0059
 
 Cuando las características de los servicios así lo ameriten, los ayuntamientos mediante acuerdo de cabildo podrán fijar precios públicos, los cuales deberán publicarse en el Periódico Oficial.
 
@@ -5493,6 +6549,8 @@ El pago de este derecho se efectuará mensualmente en la tesorería, presentando
 
 #### SECCION PRIMERA. DEL SISTEMA DE PLANEACION DEMOCRATICA
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 152.
 
 Por la guarda de animales depositados en los corrales de concejo propiedad municipal, independientemente de los gastos que origine su manutención, se pagarán derechos conforme a la siguiente:
@@ -5521,15 +6579,19 @@ Por el registro anual de instrumentos para la identificación de señales de san
 
 #### SECCION SEGUNDA. DEL PLAN DE DESARROLLO
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 154.
 
 Por el uso de vías, plazas públicas o áreas de uso común para realizar actividades comerciales o de servicios, se pagarán derechos conforme a la siguiente cuota diaria:
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 TARIFA
 
 CONCEPTO Número de Salarios Mínimos
 
-Generales Vigentes del Area
+generales del Area
 
 Geográfica que corresponda.
 
@@ -5539,7 +6601,7 @@ o comerciantes ambulantes
 
 con puestos fijos o
 
-semifijos de hasta 3.75 m2 0.022
+semifijos de hasta 3.75 m2 0.050
 
 II. Puestos fijos, semifijos
 
@@ -5547,7 +6609,17 @@ o comerciantes ambulantes
 
 con puestos de más de 3.75 m2
 
-por cada m2 0.022
+por cada m2 0.035
+
+III. Máquinas accionadas por
+
+monedas, fichas o cualquier
+
+otro mecanismo, expendedoras
+
+de refrescos, golosinas y
+
+juguetes. 0.050
 
 El pago de este derecho deberá realizarse ante la tesorería correspondiente o bien a la persona autorizada para ello, siendo responsabilidad del tesorero entregar cada mes el recibo oficial respectivo, a cambio de los comprobantes provisionales de pago.
 
@@ -5559,11 +6631,11 @@ Por los servicios de panteones propiedad municipal se pagarán los derechos conf
 
 TARIFA
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 CONCEPTO Número de Salarios Mínimos
 
-Generales Vigentes del Area Geográfica
+Generales del Area Geográfica
 
 que corresponda.
 
@@ -5575,23 +6647,31 @@ A). Adultos. 1.00
 
 B). Niños. 0.50
 
-II. Por refrendo de 7 años:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+II. Por refrendo anual, posterior
+
+a los 7 años de obligación de
+
+conservación sanitaria de restos:
 
 A). Adultos. 1.00
 
 B). Niños. 0.50
 
-III. Por mantenimiento se
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-pagarán anualmente los
+III. Mantenimiento anual por
 
-siguientes derechos por
+metro cuadrado 0.50
 
-cripta. 0.23
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-IV. Construcción de criptas,
+IV. Autorización para la
 
-enladrillado y barandales. 1.51
+construcción de cripta, gaveta,
+
+encortinado y barandales. 1.51
 
 V. Por dictámenes,
 
@@ -5603,19 +6683,25 @@ inherentes al traslado de
 
 cadáveres o restos áridos. 1.00
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 VI. Por la búsqueda de
 
 información en los registros,
 
 así como de la ubicación de
 
-lotes. 0.34
+lotes. 0.68
 
 VII. Exhumación:
 
-A). Adultos. 1.00
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-B). Niños. 0.50
+A). Adultos. 3.17
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+B). Niños. 1.58
 
 > <small>(ADICIONADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -5633,6 +6719,74 @@ cremados 1.00
 
 El ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad y viudas sin ingresos fijos, que acrediten fehacientemente encontrarse en estos supuestos, y comprueben un bajo nivel de ingresos económicos, el otorgamiento de bonificaciones del 50%, en el pago de los derechos a que se refiere esta fracción.
 
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+X. Expedición de constancia
+
+certificada sobre registros en
+
+libros. 1.62
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XI. Autorización para la
+
+construcción y/o colocación
+
+por metro cuadrado.
+
+A). Lápida 0.50
+
+B). Jardinera 0.50
+
+C). Monumento 1.50
+
+D). Capilla 2.00
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XII. Construcción de cripta o
+
+encortinado por metro cuadrado. 7.0
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XIII. Expedición de certificados de
+
+derechos de temporalidad. 0.61
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XIV. Reposición de certificados
+
+de derechos de temporalidad. 1.56
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XV. Maniobra de monumento y
+
+jardinera 3.00
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XVI. Nombramiento o Cambio
+
+de sucesores 3.05
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XVII. Retiro de escombro 1.83
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XVIII. Temporalidad por inhumación
+
+en fosa
+
+A). Adulto 7.00
+
+B). Niño 5.00
+
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 156.
@@ -5642,6 +6796,8 @@ Por la evaluación de la prestación del servicio de panteones concesionados, el
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación de las inhumaciones efectuadas el mes anterior.
 
 #### SECCION PRIMERA. DE LA CONFORMACION Y PRESENTACION DEL PRESUPUESTO DE EGRESOS
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 157.
 
@@ -5667,11 +6823,13 @@ Por la expedición o refrendo anual de licencias para vender bebidas alcohólica
 
 TARIFA
 
-Número de salarios mínimos
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-generales diarios del área
+Número de Salarios Mínimos
 
-geográfica que corresponda
+generales del Area
+
+Geográfica que corresponda.
 
 TIPO DE ESTABLECIMIENTO CONCEPTO
 
@@ -5729,7 +6887,7 @@ cerrada. 500.00 450.00
 
 II. DE SERVICIOS
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 A). Fondas, taquerías,
 
@@ -5741,11 +6899,9 @@ con venta de bebidas
 
 alcohólicas hasta
 
-de 12º G.L. para
+de 12º G.L. 37.00 19.00
 
-consumo en el lugar. 37.00 19.00
-
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 B). Fondas, taquerías,
 
@@ -5755,29 +6911,31 @@ económicas, ostionerías,
 
 pizzerías, con venta de
 
-bebidas alcohólicas al copeo. 93.00 47.00
+bebidas alcohólicas al copeo. 200 150
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 C). Restaurantes-bar,
 
 bares, con venta de bebidas
 
-alcohólicas al copeo. 372.00 326.00
+alcohólicas al copeo. 200 150
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 D). Cantinas y centros botaneros
 
 con venta de bebidas alcohólicas
 
-al copeo. 250.00 200.00
+al copeo. 200 150
 
-> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-E). Centros Cerveceros y
+E). Centros Cerveceros 100.00 80.00
 
-pulquerías 100.00 80.00
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+F). Pulquerías 20.00 20.00
 
 III. DE DIVERSION Y ESPECTACULOS PUBLICOS
 
@@ -5825,9 +6983,9 @@ abierta o al copeo para
 
 consumo en el lugar. 140.00 93.00
 
-E). Discotecas, salones
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-de baile con venta de
+E). Salones de baile, con venta de
 
 bebidas alcohólicas al copeo. 500.00 450.00
 
@@ -5859,13 +7017,29 @@ bebidas alcohólicas al
 
 copeo por evento. 23.00
 
-H). Cabarets, centros
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+H). Discotecas, cabarets, centros
 
 nocturnos con venta de
 
 bebidas alcohólicas al
 
-copeo. 600.00 500.00
+copeo. 900.00 800.00
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+I). Puestos provisionales ubicados
+
+en forma periódica, en centros y
+
+campos deportivos con venta de
+
+bebidas alcohólicas de hasta
+
+12° G.L. para consumo en el
+
+lugar. 24.00 20.00
 
 Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquel que por sus características le sea más semejante.
 
@@ -5884,6 +7058,8 @@ El refrendo deberá pagarse dentro de los primeros tres meses de cada año.
 Para los efectos referidos en el párrafo que antecede se atenderá a la clasificación de municipios establecida en el artículo 109 de este Código.
 
 #### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 160.
 
@@ -5918,6 +7094,8 @@ VIII. Primer
 comandante. 9.64
 
 #### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 161.
 
@@ -5995,39 +7173,95 @@ Por los servicios prestados por las autoridades de catastro, se pagarán derecho
 
 TARIFA
 
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 CONCEPTO Número de Salarios Mínimos
 
-Generales Diarios del Area Geográfica
+generales del Area Geográfica
 
-que Corresponda
+que corresponda.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 I. Certificación de Clave
 
-Catastral: 0.69
+Catastral: 1.35
 
-II. Certificación de Plano
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-Manzanero: 0.69
+II. Certificación de Clave y valor
 
-III. Por el apeo y deslinde catastral, se pagarán derechos conforme a la siguiente:
+catastral. 2.00
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+III. Certificación de Plano
+
+Manzanero. 2.00
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+IV. Constancia de identificación
+
+catastral. 2.00
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+V. Por el apeo y deslinde catastral, se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
-RANGO DE SUPERFICIE FACTOR
+Rango Superficie de Cuota fija Factor aplicable
 
-Hasta 1,000 m2 0.2438
+terreno por M2. a cada rango.
 
-1.001 a 5,000 m2 0.1397
+Límite Límite
 
-5,001 a 20,000 m2 0.0698
+inferior superior
 
-20,001 a 100,000 m2 0.0340
+1 1 500 169.00 0.5420
 
-100,001 a 500,000 m2 0.0170
+2 501 2,500 440.00 0.2026
 
-500,001 en adelante 0.0049
+3 2,501 5,000 845.30 0.0911
 
-Al resultado de aplicar esta tarifa deberá incrementarse un monto equivalente a 3.07 días de salario mínimo general del área geográfica que corresponda, por concepto de materiales e insumos.
+4 5,001 20,000 1,073.00 0.1237
+
+5 20,001 100,000 2,928.00 0.0111
+
+6 100,001 En adelante 3,817.00 0.0084
+
+El importe de los derechos a pagar, será el resultado de sumar a la cuota fija que corresponda de la tarifa, el resultado de multiplicar el factor aplicable a cada rango por la diferencia que exista entre la superficie de terreno del inmueble de que se trate y la superficie indicada en el límite inferior del rango relativo.
+
+Una vez iniciados los trabajos de apeo y deslinde catastral, en caso de que éstos se suspendan por causas no imputables a la autoridad catastral, se deberá cubrir el pago de los derechos correspondientes, conforme a la tarifa de esta fracción.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+VI. Por la verificación de linderos a petición de parte, se pagarán derechos conforme a la siguiente:
+
+TARIFA
+
+Rango Superficie de Cuota fija Factor aplicable
+
+terreno por M2. a cada rango
+
+Límite Límite
+
+inferior superior
+
+1 1 500 142.00 0.3000
+
+2 501 2,500 292.00 0.1125
+
+3 2,501 5,000 517.00 0.0500
+
+4 5,001 20,000 642.00 0.0687
+
+5 20,001 100,000 1,673.00 0.0062
+
+6 100,001 En adelante 2,170.00 0.0046
+
+El importe de los derechos a pagar, será el resultado de sumar a la cuota fija que corresponda de la tarifa, el resultado de multiplicar el factor aplicable a cada rango por la diferencia que exista entre la superficie de terreno del inmueble de que se trate y la superficie indicada en el límite inferior del rango relativo.
 
 ## TITULO QUINTO. DEL CATASTRO
 
@@ -6055,29 +7289,43 @@ I. El Instituto de Información e Investigación Geográfica, Estadística y Cat
 
 II. Los ayuntamientos o quien legalmente los sustituya.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 170.
 
-Además de las facultades que este Código y otros ordenamientos le confieran en materia catastral, el Instituto tendrá las facultades y obligaciones siguientes:
+Además de las facultades que este Código y otros ordenamientos le confieren en materia de información e investigación catastral, el Instituto tendrá las facultades y obligaciones siguientes:
 
-I. Establecer los procedimientos técnicos y administrativos en materia catastral y verificar su cumplimiento, en los términos de este Código.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+I. Establecer los procedimientos técnicos y administrativos en materia catastral y verificar su cumplimiento, en los términos de este Código y de la Ley de Información e Investigación Geográfica, Estadística y Catastral.
 
 II. Autorizar los formatos para las manifestaciones catastrales.
 
 III. Integrar, conservar y mantener actualizado el inventario analítico de los inmuebles.
 
-IV. Proponer previa validación de los ayuntamientos, el Proyecto Estatal de Tablas de Valor y, anualmente las modificaciones correspondientes, que serán sometidas a la consideración de la Legislatura.
+IV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
-V. Practicar avalúos, apeos y deslindes catastrales, rectificación y aclaración de linderos y verificar, en su caso, los avalúos practicados por terceros para fines catastrales.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-VI. Integrar la información técnica geográfica del Estado, de los municipios, de los centros de población y las localidades.
+V. Practicar avalúos, apeos y deslindes catastrales, y verificar, en su caso, los avalúos practicados por terceros para fines catastrales.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+VI. Integrar la información e investigación técnica geográfica del Estado, de los municipios, de los centros de población y las localidades.
 
 VII. Proporcionar asesoría y capacitación en materia catastral, a los servidores públicos, cuando se lo soliciten.
 
-VIII. Supervisar conforme a lo establecido en el Reglamento del Catastro, que la actividad catastral a cargo de los ayuntamientos se realice en los términos de este Código y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+VIII. Diagnosticar que la actividad catastral a cargo de los ayuntamientos se realice en los términos de este Código y demás disposiciones jurídicas aplicables.
 
 IX. Asumir cuando se considere procedente las funciones catastrales de los ayuntamientos, mediante convenio.
 
 X. Elaborar y someter a la aprobación del Gobernador, el Reglamento de Catastro, previa consulta a los ayuntamientos, en la que podrán presentar propuestas en la materia.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XI. Emitir opinión técnica a solicitud de los municipios respecto del proyecto de Tablas de Valores Unitarios de Suelo y Construcción.
 
 ###### Artículo 171.
 
@@ -6091,11 +7339,15 @@ III. Recibir las manifestaciones catastrales de los propietarios o poseedores de
 
 IV. Realizar las acciones que determine el Instituto para la consolidación, conservación y buen funcionamiento del catastro.
 
-V. Proporcionar al Instituto dentro de los plazos que señala este Título y el Reglamento del Catastro, las propuestas, reportes, informes y documentos, para integrar, conservar y mantener actualizada la información catastral del Estado.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+V. Proporcionar al Instituto dentro de los plazos que señala este Título y otros ordenamientos aplicables, las propuestas, reportes, informes y documentos, para integrar, conservar y mantener actualizada la información catastral del Estado.
 
 VI. Elaborar y mantener actualizada la cartografía catastral municipal.
 
-VII. Practicar apeos y deslindes catastrales, a petición de parte.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+VII. Practicar apeos, deslindes catastrales y verificación de linderos, a petición de parte.
 
 VIII. Proporcionar la información que soliciten por escrito otras dependencias oficiales.
 
@@ -6113,9 +7365,19 @@ XIII. Cumplir con la normatividad y los procedimientos técnicos y administrativ
 
 XIV. Proponer y realizar estudios tendientes a lograr la actualización del catastro municipal y, en su caso, aplicarlo en lo conducente sin contravenir lo dispuesto en la Ley de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
 
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XV. Proponer a la Legislatura Local el proyecto de Tablas de Valores Unitarios de Suelo y Construcción.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+XVI. Solicitar al Instituto opinión técnica sobre el proyecto de Tablas de Valores Unitarios de Suelo y Construcción que proponga a la Legislatura del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 172.
 
-Cuando las autoridades catastrales, a petición de parte interesada o de oficio, practiquen trabajos de apeo y deslinde y, rectificación y aclaración de linderos; los deberán ejecutar a través de personal autorizado, previa identificación y presentación de la orden para realizarlos, en presencia del propietario o poseedor del inmueble o e su representante legal, con la asistencia de los propietarios o poseedores de los inmuebles colindantes o sus representantes legales, quienes deberán ser notificados por lo menos con tres días hábiles de anticipación para que, en su caso, hagan las manifestaciones o ejerzan las acciones que a su derecho convenga.
+Cuando las autoridades catastrales, a petición de parte interesada o de oficio, practiquen trabajos de apeo y deslinde; los deberán ejecutar a través de personal autorizado, previa identificación y presentación de la orden para realizarlos, en presencia del propietario o poseedor del inmueble o de su representante legal, con la asistencia de los propietarios o poseedores de los inmuebles colindantes o sus representantes legales, quienes deberán ser notificados por lo menos con tres días hábiles de anticipación para que, en su caso, hagan las manifestaciones o ejerzan las acciones que a su derecho convengan.
 
 El resultado de los trabajos catastrales antes mencionados y las observaciones de los interesados, se harán constar en acta circunstanciada que será firmada por todos los que hubiesen intervenido, a quienes se les entregará copia.
 
@@ -6123,9 +7385,11 @@ El resultado de los trabajos catastrales antes mencionados y las observaciones d
 
 Las autoridades catastrales expedirán, a costa del interesado, previa solicitud por escrito en la que acredite su interés jurídico o legítimo, las constancias o certificaciones en materia catastral de su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 174.
 
-El Instituto emitirá la normatividad para la elaboración de la representación gráfica, para la localización e identificación de la tipología de los inmuebles. Los municipios que realicen esta función, enviarán al Instituto una copia de la información para que éste integre y actualice la información catastral del Estado.
+El Instituto emitirá la normatividad para la elaboración de la representación gráfica, para la localización e identificación de la tipología de los inmuebles. Los municipios que realicen esta función, la notificarán al Instituto y le enviarán copia de la información para que éste integre y actualice la información catastral del Estado.
 
 El Instituto conservará bajo su guarda y custodia los archivos de la información catastral del Estado, los que estarán a disposición de los interesados para su consulta.
 
@@ -6141,11 +7405,11 @@ Asimismo, cuando se adquiera, fusione, subdivida, lotifique, relotifique, fracci
 
 En los casos en que el valor catastral haya sido modificado por la publicación de las Tablas de Valor, será obligación de los propietarios o poseedores de inmuebles, declarar su valor dentro de los primeros noventa días del año, ante la autoridad catastral municipal, mediante manifestación que presenten en los formatos autorizados por el Instituto.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 12 DE MARZO DE 2001)
 
 ###### Artículo 177.
 
-Las autoridades catastrales podrán constatar la veracidad de los datos manifestados, mediante la realización de los estudios técnicos catastrales que sean necesarios, dentro de los noventa días siguientes a la manifestación. Cuando no fuese presentada la manifestación y hayan sido detectadas modificaciones en el inmueble, las autoridades competentes podrán, en el ejercicio de sus atribuciones, realizar las acciones descritas.
+Las autoridades catastrales podrán constatar la veracidad de los datos manifestados, mediante la realización de los estudios técnicos catastrales que sean necesarios, dentro de los ciento ochenta días siguientes a la manifestación, cuando no fuese presentada la manifestación y hayan sido detectadas modificaciones en el inmueble, las autoridades competentes podrán, en el ejercicio de sus atribuciones, realizar las acciones descritas.
 
 ###### Artículo 178.
 
@@ -6221,9 +7485,11 @@ II. El registro gráfico deberá contener:
 
 9. Clave catastral.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 181.
 
-El trámite de inscripción o actualización de inmuebles ante la autoridad catastral, lo podrá realizar.
+El trámite de inscripción o actualización de inmuebles ante la autoridad catastral municipal, lo podrá realizar:
 
 I. El propietario, poseedor o representante legal acreditado.
 
@@ -6237,11 +7503,17 @@ Para el registro o actualización de un inmueble, deberá acompañarse el docume
 
 I. Testimonio notarial.
 
-II. Contrato privado de compra-venta.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-III. Sentencia de la autoridad judicial.
+II. Contrato privado de compra-venta, cesión o donación.
 
-IV. Recibo de pago del impuesto sobre traslación de dominio y de su manifestación.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+III. Sentencia de la autoridad judicial que haya causado ejecutoria.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+IV. Manifestación de traslación de dominio autorizada por la autoridad respectiva y el recibo de pago correspondiente.
 
 V. Acta de entrega, cuando se trate de inmuebles de interés social.
 
@@ -6249,9 +7521,11 @@ VI. Cédula de contratación que emita la dependencia oficial autorizada para la
 
 VII. Título, certificado o cesión de derechos agrarios o comunales.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 183.
 
-La inscripción catastral de un inmueble prevalecerá, independientemente de quien ostente la propiedad o posesión.
+La inscripción catastral del inmueble, no genera derecho alguno y prevalecerá independientemente de quien ostente la propiedad o posesión.
 
 ###### Artículo 184.
 
@@ -6263,9 +7537,11 @@ Cuando no se registre un inmueble, no se manifieste su valor o las modificacione
 
 El Sistema de Valuación Catastral tiene como base las características predominantes en una circunscripción territorial y tomará como referencia los valores de mercado del suelo y de la construcción.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 186.
 
-Para efectos de este Título, el área de interés catastral es aquella delimitación territorial, con o sin traza urbana, definida por las autoridades catastrales dentro del territorio del municipio.
+Para efectos de este Título, el área de interés catastral es aquella delimitación territorial, con o sin traza urbana, contenida y definida en las tablas de valor aprobadas por la legislatura estatal.
 
 ###### Artículo 187.
 
@@ -6537,15 +7813,19 @@ En la Tabla de Valores Unitarios de Construcción, se identifican: el uso, la cl
 
 La modificación de las Tablas de Valor se llevará a cabo por las autoridades catastrales, en los términos siguientes:
 
-I. La autoridad catastral municipal y, en su caso, el Instituto, con base en la normatividad que emita éste, elaborarán las propuestas para la modificación, actualización o creación de áreas homogéneas, bandas de valor y valores unitarios de suelo. Las propuestas realizadas por los ayuntamientos serán enviadas al Instituto.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-II. Las propuestas a que se refiere la fracción anterior, que cumplan con lo dispuesto en este Título y que hayan sido elaboradas de acuerdo con los instructivos y formatos autorizados, serán incorporadas por el Instituto al Proyecto de Tabla de Valores Unitarios de Suelo.
+I. La autoridad catastral municipal en coordinación con el Instituto, de acuerdo a la normatividad emitida por éste, elaborará las propuestas para la modificación, actualización o creación de áreas homogéneas, bandas de valor y valores unitarios de suelo y de construcción, de la totalidad de las áreas de interés catastral registradas en el Municipio. El Instituto para mantener la homogeneidad y la congruencia técnica de la información, recibirá de la autoridad catastral municipal sus propuestas para su revisión técnica hasta el día treinta de abril de cada año. En los años de renovación de los ayuntamientos, las autoridades municipales que inician su gestión contarán con un plazo de treinta días a partir del inicio de su ejercicio constitucional para conocer, ratificar o rectificar las propuestas previamente formuladas por las autoridades municipales que concluyen su gestión y revisadas técnicamente por el Instituto.
 
-III. El Proyecto de Tabla de Valores Unitarios de Suelo actualizado en términos de las fracciones I y II del presente artículo y la Tabla de Valores Unitarios de Construcción actualizada por el Instituto, se enviarán a los ayuntamientos para su correspondiente validación.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-IV. Los ayuntamientos del término de sesenta días naturales a partir de la fecha de recepción del Proyecto de Tablas de Valor actualizado, deberán revisarlo y validarlo en términos del artículo siguiente, y remitirlo al Instituto. Si concluido este término, no lo remitieran, se dará por aceptado y validado.
+II. Las propuestas a que se refiere la fracción anterior, serán revisadas técnicamente por el Instituto en el término de 60 días naturales, a efecto de que cumplan con lo dispuesto en este Título y que hayan sido elaboradas de acuerdo con los instructivos y formatos autorizados, enviándose a los ayuntamientos para la integración del proyecto municipal de tablas de valor.
 
-V. Validado por los ayuntamientos el Proyecto de Tablas de Valor, el Instituto integrará un proyecto estatal, que someterá a la aprobación de su Consejo Directivo a más tardar el último día hábil del mes de julio; y enviará el proyecto al Gobernador, quien someterá la iniciativa correspondiente a la Legislatura a más tardar el día quince de septiembre, para que ésta lo apruebe dentro de los primeros quince días del mes de octubre; iniciando su vigencia a partir del mes de enero del siguiente año.
+III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
+
+IV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
+
+V. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -6561,7 +7841,9 @@ II. Cuando de la revisión resulten notables diferencias, realizarán una predel
 
 III. La predelimitación anterior, será sometida a las investigaciones de mercado inmobiliario, consistentes en determinar las variaciones de valor de un número representativo de operaciones comerciales efectuadas y por realizarse en el área homogénea, para conocer y proponer los nuevos valores unitarios del suelo.
 
-IV. Cuando no haya operaciones de tráfico inmobiliario o sean escasas en esa área homogénea, se emplearán criterios de analogía y de contigüedad con las restantes áreas homogéneas del municipio.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+IV. Cuando no haya operaciones inmobiliarias o sean escasas en esa área homogénea, se emplearán criterios de analogía y de contigüedad con las restantes áreas homogéneas del municipio, o bien podrán presentar como sustento el expediente técnico de las obras públicas de beneficio social realizadas en un área homogénea específica durante el ejercicio fiscal anterior, conforme a la normatividad que al efecto emita el Instituto.
 
 V. Con base en los estudios anteriores se determinará la consistencia, subdivisión o fusión del área homogénea y la existencia de una, varias o ninguna banda de valor.
 
@@ -6571,7 +7853,7 @@ VII. El ayuntamiento en sesión de cabildo validará el proyecto de Tablas de Va
 
 ###### Artículo 197.
 
-Los propietarios o poseedores de inmuebles para efectos de la aplicación de la valuación catastral, se sujetarán a lo dispuesto por este ordenamiento, a las normas y procedimientos técnicos y administrativos establecidos por el Instituto; los criterios de clasificación y las Tablas de Valor de Suelo y de Construcción aprobadas por la Legislatura y publicadas en el Periódico Oficial.
+Los propietarios o poseedores de inmuebles para efectos de la aplicación catastral, se sujetarán a lo dispuesto por este ordenamiento, a las normas y procedimientos técnicos y administrativos establecidos por el Instituto; los criterios de clasificación y las Tablas de Valor de Suelo y Construcción aprobadas por la Legislatura y publicadas en el Periódico Oficial, la información que generen las dependencias y organismos auxiliares de la administración pública municipal de carácter interno, y que formen parte de sus registros administrativos, será responsabilidad de cada uno de ellos y la pondrán a disposición del Instituto, para la integración del acervo general del Estado.
 
 ###### Artículo 198.
 
@@ -6587,25 +7869,85 @@ Vt = Valor del Terreno
 
 Vc= Valor de la Construcción
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 199.
 
-El valor del terreno de un inmueble se obtiene de multiplicar la superficie, por el valor unitario de suelo, contenido en la Tabla de Valores Unitarios de Suelo y por los Factores de Area y Topografía, de acuerdo con la fórmula siguiente:
+El valor del terreno de un inmueble se obtiene de multiplicar la superficie de terreno en metros cuadrados, por el valor unitario de suelo contenido en la Tabla de Valores Unitarios de Suelo y al resultado obtenido, por los factores de mérito o demérito, respecto del frente, del fondo, de irregularidad, de área, de topografía y de posición dentro de la manzana, conforme a las definiciones y determinaciones siguientes:
 
-> <small>(F. DE E., G.G. 25 DE MARZO DE 1999)</small>
+El factor por frente, demerita a inmuebles cuyo frente sea menor a 6.01 m. y el resultado se localizará en la siguiente tabla:
 
-Valor de terreno igual a la superficie del terreno por el valor unitario del suelo correspondiente al área homogénea o banda de valor donde se ubica el inmueble por el factor del área y por el factor de topografía.
+Frente en m. Factor
 
-El factor de área se aplica a inmuebles cuya superficie sea mayor al área base y se determina de la siguiente manera:
+Hasta de 3.00 0.50
 
-> <small>(F. DE E., G.G. 25 DE MARZO DE 1999)</small>
+3.01 a 4.00 0.58
 
-Factor de área igual al área total del inmueble entre el área base, existente en el área homogénea en donde se ubica el inmueble.
+4.01 a 5.00 0.75
+
+5.01 a 6.00 0.92
+
+6.01 En adelante 1.00
+
+El factor de fondo, demerita a inmuebles cuyo fondo sea mayor al fondo base y se determina dividiendo la longitud del fondo del inmueble entre el fondo base, existente en el área homogénea en donde se ubica el inmueble.
 
 El resultado se localizará en la siguiente tabla:
 
-RELACION FACTOR
+Relación Factor
 
-AREA/AREA BASE
+Fondo / Fondo base
+
+0.00 a 1.00 1.00
+
+1.01 a 2.00 0.90
+
+2.01 a 3.00 0.77
+
+3.01 a 4.00. 0.72
+
+4.01 a 5.00 0.69
+
+5.01 a 6.00 0.67
+
+6.01 En adelante 0.60
+
+El factor de irregularidad, demerita a inmuebles que por su forma presentan distintas posibilidades de aprovechamiento, lo que hace necesario conocer la superficie denominada área inscrita que representa el área aprovechable del inmueble.
+
+El factor se determina dividiendo la superficie del área inscrita entre el área total del inmueble.
+
+El resultado se localizará en la siguiente tabla:
+
+Relación
+
+Area inscrita /Area Total Factor
+
+0.01 a 0.10 0.50
+
+0.11 a 0.20 0.53
+
+0.21 a 0.30 0.62
+
+0.31 a 0.40 0.73
+
+0.41 a 0.50 0.82
+
+0.51 a 0.60 0.88
+
+0.61 a 0.70 0.93
+
+0.71 a 0.80 0.96
+
+0.81 a 0.90 0.99
+
+0.91 a 1.00 1.00
+
+El factor de área, demerita a inmuebles cuya superficie sea mayor al área base existente en el área homogénea donde se ubica el inmueble y se determina dividiendo el área total del predio entre el área base.
+
+El resultado se localizará en la siguiente tabla:
+
+Relación
+
+Área total/Área base Factor
 
 0.00 A 1.25 1.00
 
@@ -6629,19 +7971,17 @@ AREA/AREA BASE
 
 5.51 A 6.00 0.65
 
-6.01 Ó MAS 0.60
+6.01 En adelante 0.60
 
-El factor de topografía se aplica a inmuebles que presenten pendientes ó desnivel, respecto al nivel de banqueta.
+El factor de topografía, demerita a inmuebles que presenten pendiente ó desnivel, respecto al nivel de banqueta.
 
-> <small>(F. DE E., G.G. 25 DE MARZO DE 1999)</small>
-
-El factor de topografía igual a la altura dada por la diferencia del nivel de banqueta con respecto al punto más alejado entre la medida perpendicular del frente hasta el fondo del mismo.
+Factor de topografía se determina a partir de la relación dada por la altura obtenida del punto más hundido o elevado del predio, con respecto al nivel de la banqueta, entre la longitud del fondo de dicho predio.
 
 El resultado se localizará en la siguiente tabla:
 
-RELACION FACTOR
+RELACIÓN
 
-ALTURA/FONDO
+ALTURA/ FONDO FACTOR
 
 0.00 1.00
 
@@ -6665,21 +8005,43 @@ ALTURA/FONDO
 
 0.91 A 1.00 0.53
 
-1.01 Ó MAS 0.50
+1.01 En adelante 0.50
+
+El factor de posición, es el índice que califica la ubicación del predio dentro de la manzana, estableciendo una diferenciación atendiendo al uso de suelo de los inmuebles habitacionales y comerciales.
+
+Los factores aplicables se localizan en la siguiente tabla:
+
+Concepto Habitacional Comercial
+
+Intermedio 1.00 1.00
+
+Esquina 1.10 1.20
+
+Cabecera 1.10 1.20
+
+Manzanero 1.10 1.20
+
+Frentes no contiguos 1.10 1.10
+
+Interior 0.50 0.50
+
+La aplicación del factor de posición interior, implica determinar la unidad para los factores de frente, de fondo y de irregularidad.
+
+Para inmuebles sujetos a régimen condominal e industriales, se determinará la unidad para todos los factores a que se refiere este artículo.
+
+En todos los casos el producto de estos factores no podrá ser inferior a 0.40.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 200.
 
-El valor de la construcción de un inmueble, se obtiene de multiplicar la superficie construida, por el valor unitario de construcción contenido en la Tabla de Valores Unitarios de Construcción, y por el factor referente al número de años de la construcción, mediante la siguiente fórmula:
+El valor de la construcción de un inmueble, se obtiene de multiplicar la superficie construida, por el valor unitario de construcción contenido en la Tabla de Valores Unitarios de Construcción y por los factores respecto al número de años, al grado de conservación y al número de niveles, conforme a las definiciones y determinaciones siguientes:
 
-Valor total de la construcción igual a la superficie de la construcción por el valor unitario de la construcción por el factor del número de años de la construcción.
+El factor de número de años de la construcción, es el índice de demérito que determina el grado de deterioro por el paso del tiempo y considera el periodo transcurrido desde la construcción inicial hasta la fecha en que se lleve a cabo el cálculo del valor catastral.
 
-El factor del número de años de la construcción, es el índice que determina el grado de deterioro por el paso del tiempo y considera el período transcurrido desde la construcción inicial hasta el presente.
+Se determinará este factor, identificándose el rango de antigüedad de la construcción del inmueble, de acuerdo a la tabla siguiente:
 
-Se determinará este factor, identificándose el rango de antigüedad de la construcción existente en el inmueble, relacionándolo con los años transcurridos desde su construcción, a la fecha en que se lleve a cabo el cálculo del valor catastral, de acuerdo a la tabla siguiente:
-
-RANGO DE FACTOR
-
-ANTIGÜEDAD
+RANGO DE ANTIGÜEDAD FACTOR
 
 1 A 5 0.98
 
@@ -6689,7 +8051,7 @@ ANTIGÜEDAD
 
 16 A 20 0.92
 
-21 A 25 0.89
+21 A 25 0.89.
 
 26 A 30 0.86
 
@@ -6703,11 +8065,55 @@ ANTIGÜEDAD
 
 51 A 55 0.65
 
-56 EN ADELANTE 0.60
+56 En adelante 0.60
+
+El factor por grado de conservación, es aquel que considera el nivel de deterioro por el mantenimiento que se le ha proporcionado a la edificación.
+
+El resultado se localizará en la siguiente tabla:
+
+Grado de conservación Factor
+
+Normal 1.00
+
+Malo 0.80
+
+Ruinoso 0.08
+
+Cuando a alguna edificación se le aplique el factor por el grado de conservación ruinoso, no se aplicarán los factores correspondientes a la edad y número de niveles.
+
+El factor de número de niveles, es aquel que considera la cantidad de pisos edificados en un inmueble.
+
+El resultado se localizará en la siguiente tabla:
+
+Número de Niveles Factor
+
+1 y 2 1.00
+
+3 1.02
+
+4 1.04
+
+5 1.06
+
+6 1.08
+
+7 1.10
+
+8 1.12
+
+9 1.14
+
+10 1.16
+
+11 a 15 1.22
+
+16 En adelante 1.28
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 201.
 
-Para los inmuebles que estén sujetos al régimen de propiedad condominal, la valuación deberá hacerse de cada uno de los departamentos, despachos, viviendas o cualquier otro tipo de locales, considerando la parte proporcional indivisa de los bienes comunes.
+A los inmuebles que estén sujetos al régimen de propiedad condominal, para su valuación no se aplicarán los factores de mérito y demérito en el terrero, es decir se aplicará el factor 1.0, además de la parte proporcional indivisa de los bienes comunes.
 
 ## TITULO SEXTO. DE LAS APORTACIONES DE MEJORAS
 
@@ -6873,7 +8279,7 @@ Si la obra no se realiza, los aportadores que hubieran pagado, podrán solicitar
 
 ###### Artículo 214.
 
-Aprobado el proyecto, se dará a conocer a los beneficiarios las determinaciones a que se refiere el artículo 206 de este Código, mismas que se publicarán por una sola vez en el periódico oficial.
+Aprobado el proyecto, se darán a conocer a los beneficiarios las determinaciones a que se refiere el artículo 206 de este Código, mismas que se publicarán por una sola vez en el Periódico Oficial, en un plazo que no deberá exceder de 30 días naturales siguientes a la aprobación definitiva del proyecto.
 
 ###### Artículo 215.
 
@@ -6897,6 +8303,8 @@ Las aportaciones notificadas a cargo de los beneficiarios, tendrán el carácter
 
 ### CAPITULO CUARTO. DE LA FORMA DE PAGO
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ## TITULO SEPTIMO. DE LA COORDINACION HACENDARIA
 
 ### CAPITULO PRIMERO. DEL SISTEMA DE COORDINACION HACENDARIA
@@ -6913,7 +8321,9 @@ III. Distribuir entre los municipios los ingresos derivados de la Coordinación 
 
 IV. Establecer las bases de colaboración administrativa.
 
-V. Normar el funcionamiento de los organismos en materia de Coordinación Hacendaria.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+V. Establecer las normas de organización y funcionamiento del Instituto Hacendario del Estado de México.
 
 ###### Artículo 218.
 
@@ -7129,101 +8539,225 @@ La Legislatura deberá celebrar convenios con el objeto de coordinar acciones pa
 
 Las responsabilidades administrativas, civiles y penales en que incurran las autoridades estatales o municipales exclusivamente con motivo de la desviación de los recursos recibidos de los fondos señalados en este capítulo, para fines distintos a los previstos por la Ley de Coordinación Fiscal, serán sancionados en los términos de la legislación federal y estatal aplicable.
 
-### CAPITULO CUARTO. DE LOS ORGANIZAMOS DE COORDINACION HACENDARIA
+> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO CUARTO. DEL INSTITUTO HACENDARIO
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 245.
 
-El Gobernador, por sí o por conducto de la Secretaría, el órgano técnico de fiscalización del Poder Legislativo y los ayuntamientos participarán en el desarrollo, vigilancia y mejoramiento del Sistema de Coordinación Hacendaria del Estado, por medio de:
+El Instituto Hacendario del Estado de México es un organismo público descentralizado por servicio, con personalidad jurídica y patrimonio propios.
 
-I. La Reunión Estatal de Servidores Públicos Hacendarios.
-
-II. El Consejo de Coordinación Hacendaria.
-
-III. El Instituto de Capacitación Hacendaria.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 246.
 
-La Reunión Estatal de Servidores Públicos Hacendarios es la instancia de coordinación de los ayuntamientos entre sí y con el Gobierno del Estado para la definición de la política hacendaria municipal.
+El Instituto tiene por objeto operar, desarrollar y actualizar el Sistema de Coordinación Hacendaria del Gobierno del Estado con sus Municipios con pleno respeto a la soberanía estatal y a la autonomía municipal.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 247.
 
-La Reunión se llevará a cabo dentro de los dos últimos meses de cada año y se integrará por los presidentes municipales, a convocatoria expedida por el Gobernador. Funcionará bajo la Presidencia del Titular del Ejecutivo o de quien éste designe y desarrollará sus trabajos conforme a las bases señaladas en la propia convocatoria.
+La dirección y administración del Instituto estará a cargo de:
+
+I . El Consejo Directivo, y
+
+II. El Vocal Ejecutivo.
+
+El Instituto contará con el personal especializado que se requiera para desarrollar sus funciones de trabajo y ejercerá el presupuesto que anualmente le apruebe el Consejo.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 248.
 
-En la Reunión se conocerá, por lo menos, de los siguientes asuntos:
+El Consejo Directivo será el órgano máximo del Instituto y estará integrado por:
 
-I. Presentación del proyecto unificado de Ley de Ingresos de los Municipios, que considerará las propuestas que formulen los ayuntamientos.
+I. El Presidente, que será el Secretario de Finanzas y Planeación.
 
-II. Presentación del proyecto de reformas, adiciones o derogaciones de disposiciones sobre ingresos de los municipios establecidos en este Código, sugeridas por los propios ayuntamientos o por el Gobernador.
+II. El Secretario, que será el Vocal Ejecutivo del Instituto o quién designe el Consejo a propuesta de su Presidente.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+III. El Comisario, será quién designe la Secretaría de la Contraloría.
 
-III. Elección de los municipios representados por sus tesoreros, que serán integrantes del Consejo de Coordinación Hacendaría, excepto cuando se trate del último año del período constitucional.
+IV. Los vocales, que serán seis diputados de la legislatura, el Contador General de Glosa y los presidentes municipales del Estado.
 
-IV. Las demás que se incluyan en la convocatoria respectiva.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 249.
 
-La Reunión Estatal de Servidores Públicos Hacendarios emitirá sus acuerdos propositivos y de adhesión a los Proyectos de la Ley de Ingresos de los Municipios y de modificaciones a las disposiciones de carácter municipal.
+Los integrantes del Consejo tendrán voz y voto, excepto los diputados, el Contador General de Glosa, el Secretario y el Comisario quienes sólo tendrán voz. Por cada uno de los integrantes del Consejo se nombrará un suplente, los suplentes de los presidentes municipales serán sus respectivos tesoreros.
+
+De igual forma los integrantes del Consejo Directivo podrán establecer la forma y medios de representación de carácter regional y temático.
+
+Los representantes de los regionalizados tienen la obligación de informar inmediatamente a sus representados las decisiones y acuerdos tomados.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 250.
 
-El Consejo de Coordinación Hacendaria es un órgano de consulta y análisis técnico para:
+El Consejo se reunirá cuando menos una vez cada dos meses a convocatoria de su Presidente o por cuando menos el 30% de los integrantes del Consejo que así lo soliciten. Corresponde al Presidente integrar la agenda de los asuntos a tratar.
 
-I. Proponer las medidas que estime convenientes para mejorar o actualizar en su caso, el Sistema de Coordinación Hacendaria en el Estado de México.
+Las sesiones del Consejo serán válidas cuando se constituyan con la mayoría de sus integrantes y la asistencia de su Presidente.
 
-II. Analizar y emitir un dictamen sobre la distribución y liquidación de los pagos provisionales y de diferencia, con cargo a los fondos federales.
+Cuando no se reúna la mayoría a que se refiere el párrafo anterior, el Presidente realizará una segunda convocatoria y la sesión del Consejo se llevará a cabo de acuerdo a los lineamientos del Reglamento Interior.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+Dentro de los dos últimos meses de cada año se llevará acabo(sic) una reunión estatal de los servidores públicos hacendarios, en donde asistirán los presidentes municipales a convocatoria expedida por el Gobernador. Funcionará bajo la presidencia del titular del ejecutivo o de quien éste designe y desarrollará sus trabajos conforme a las bases señaladas en la propia convocatoria.
 
-III. Efectuar en forma permanente estudios de legislación fiscal, así como estudiar y aprobar en su caso, los reglamentos de funcionamiento del Instituto de Capacitación Hacendaría.
-
-IV. Emitir criterios interpretativos para facilitar la aplicación de las disposiciones fiscales de carácter municipal.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 251.
 
-El Consejo de Coordinación Hacendaría se integrará por: la Secretaría, la Secretaría de la Contraloría, la Contaduría General de Glosa del Poder Legislativo y por los municipios de la entidad representados por catorce tesoreros elegidos anualmente por los presidentes municipales, en el número que para cada grupo se indica:
+Las decisiones del Consejo se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
 
-A. ZONA ORIENTE: Chalco, Cocotitlán, Amecameca, Ozumba, Atlautla, Ayapango, Ecatzingo, Temamatla, Tenango del Aire, Juchitepec, Tepetlixpa, Tlalmanalco, Ixtapaluca, Texcoco, Chiconcuac, Tepetlaoxtoc, Atenco, Chicoloapan, Chiautla, Chimahuacán, La Paz, Nezahualcóyotl, Papalotla y Valle de Chalco Solidaridad, se elegirán dos representantes.
+El Consejo no podrá tomar decisiones que invadan la competencia de los municipios.
 
-B. ZONA NORESTE: Ecatepec de Morelos, Coacalco de Berriozabal, Otumba, Axapusco, San Martín de las Pirámides, Tecámac, Temascalapa, Teotihuacan, Tezoyuca, Acolman, Nopaltepec, Zumpango, Apaxco, Hueypoxtla, Nextlalpan, Jaltenco y Tequixquiac, se elegirán dos representantes.
+Los municipios podrán celebrar convenios con el Estado o el Instituto con el fin de coadyuvar en el ejercicio de sus funciones.
 
-C. ZONA VALLE DE MEXICO: Naucalpan de Juárez, Huixquilucan, Cuautitlán, Melchor Ocampo, Teoloyucan, Coyotepec, Tultepec, Huehuetoca, Atizapán de Zaragoza, Cuautitlán Izcalli, Nicolás Romero, Jilotzingo, Isidro Fabela, Tepotzotlán, Villa del Carbón, Tlalnepantla de Baz y Tultitlán, se elegirán dos representantes.
-
-D. ZONA SUR: Valle de Bravo, Amanalco, Donato Guerra, Santo Tomás, Ixtapan del Oro, Otzoloapan, Zacazonapan, Villa de Allende, Tejupilco, Amatepec, Temascaltepec, San Simón de Guerrero, Tlatlaya, Sultepec, Almoloya de Alquisiras, Texcaltitlán y Zacualpan, se elegirán dos representantes.
-
-E. ZONA NORTE: Ixtlahuaca, Morelos, Acambay, Atlacomulco, Jiquipilco, Jocotitlán, El Oro, San Felipe del Progreso, Temascalcingo, Jilotepec, Aculco, Chapa de Mota, Polotitlán, Soyaniquilpan de Juárez y Timilpan, se elegirán dos representantes.
-
-F. ZONA VALLE DE TOLUCA CENTRO: Toluca, Temoaya, Almoloya de Juárez, Metepec, Villa Victoria, Zinacantepec, Lerma, Xonacatlán, Otzolotepec, Ocoyoacac, San Mateo Atento, Xalatlaco, Calimaya, Mexicaltzingo, Capulhuac y Atizapán, se elegirán dos representantes.
-
-G. ZONA VALLE TOLUCA SUR: Tenancingo, Zumpahuacán, Coatepec Harinas, Ixtapan de la Sal, Tonatico, Malinalco, Ocuilan, Villa Guerrero, Tenango del Valle, Joquicingo, Texcalyacac, Rayón, San Antonio la Isla, Almoloya del Río, Tianguistenco y Chapultepec, se elegirán dos representantes.
-
-Adicionalmente, el Consejo de Coordinación Hacendaria podrá integrar temporalmente comisiones auxiliares de trabajo para la investigación y solución de problemas concretos, para lo cual podrá convocar a organismos, colegios de profesionales, agrupaciones empresariales y a grupos de contribuyentes a integrarse a dichas comisiones.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 252.
 
-El Consejo de Coordinación Hacendaria será presidido por el Secretario de Finanzas y Planeación o por quien éste designe. Sus sesiones serán convocadas por el Presidente, o por cuando menos siete de los tesoreros que la integren y se desarrollarán de conformidad con el reglamento que éste mismo apruebe.
+El Consejo designará, a propuesta de su Presidente, al Vocal Ejecutivo del Instituto, quién deberá cumplir con los requisitos siguientes:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos.
+
+II. Contar con título profesional y estudios de posgrado en alguna de las siguientes ciencias: jurídicas, económicas, contables o administrativas, debidamente registrado.
+
+III. Tener una experiencia mínima de cinco años en el ejercicio profesional.
+
+IV. Ser de reconocida capacidad, probidad y no haber sido declarado culpable mediante sentencia ejecutoriada por delito doloso, ni haber sido destituido o inhabilitado para ejercer la función pública.
+
+V. No haber sido dirigente de partido político alguno, ni representante popular durante los cinco años anteriores.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 253.
 
-El Instituto de Capacitación Hacendaria tiene encomendadas las siguientes funciones:
+El Consejo Directivo tiene facultades para:
 
-I. Sugerir medidas encaminadas a mejorar la colaboración administrativa en materia tributaria entre el Estado y los municipios o entre éstos.
+I. Proponer las medidas que estime convenientes para mejorar y actualizar el Sistema de Coordinación Hacendaria en el Estado de México.
 
-II. Actuar como consultor técnico de las tesorerías.
+II. Emitir recomendaciones en política hacendaria municipal, a petición de los municipios.
 
-III. Promover el desarrollo técnico de las tesorerías.
+III. Opinar, a solicitud de los municipios, de la Legislatura del Estado, o del Ejecutivo local sobre las cuotas y tarifas.
 
-IV. Capacitar a servidores públicos fiscales.
+IV. Recomendar las metas de recaudación por rubro de contribución a cada municipio, a petición de éstos.
+
+V. Someter a la consideración del Ejecutivo del Estado un proyecto unificado de Ley de Ingresos de los Municipios, que considerará las propuestas que formulen los ayuntamientos.
+
+VI. Presentar al Gobierno del Estado un proyecto unificado de reformas, adiciones o derogaciones de disposiciones sobre ingresos de los municipios establecidos en el Código Financiero, sugeridas por los propios ayuntamientos.
+
+VII. Promover los convenios entre los municipios y el Estado para que éste se haga cargo de algunas de las funciones y servicios relacionados con la administración de contribuciones que establezca el propio Estado a la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan como base el cambio de valor de los mismos.
+
+VIII. Recomendar las regiones en que se agrupen los municipios del Estado.
+
+IX. Emitir los criterios necesarios para que los ayuntamientos generen información homogénea en materia hacendaria.
+
+X. Establecer las políticas, normas y criterios de organización y administración del Instituto.
+
+XI. Revisar, aprobar y evaluar el programa anual del Instituto.
+
+XII. Revisar, aprobar y evaluar el presupuesto anual del Instituto, así como los estados financieros.
+
+XIII. Revisar, aprobar y evaluar la estructura orgánica y el reglamento interno del Instituto.
+
+XIV. Vigilar y conservar e incrementar el patrimonio del Instituto.
+
+XV. Remover al Vocal Ejecutivo del Instituto, y
+
+XVI. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 254.
 
-El Instituto de Capacitación Hacendaria tendrá un director, que será nombrado por su Consejo Directivo, y contará para el desempeño de sus trabajos con el personal especializado que requiera.
+Serán funciones del Vocal Ejecutivo:
 
-El Consejo de Coordinación Hacendaria, fungirá como Consejo Directivo del instituto, que tendrá las facultades que señale el reglamento respectivo.
+I. Realizar estudios y análisis de la política hacendaria de los municipios.
+
+II. Proponer al Gobierno del Estado criterios de interpretación de las disposiciones jurídico hacendarias estatales.
+
+III. Establecer los mecanismos necesarios para el intercambio de información, tanto en el ámbito nacional como internacional, en materia académica, de investigación e intercambio de experiencias y practicas hacendarias.
+
+IV. Proponer la agrupación de municipios por regiones para atender y resolver problemas específicos, así como para desarrollar eficientemente las funciones del instituto.
+
+V. Sugerir medidas encaminadas a mejorar la colaboración y coordinación administrativa en materia tributaria entre el Estado y los municipios o entre éstos.
+
+VI. Impulsar la colaboración administrativa entre los municipios para la modernización de sus sistemas fiscales.
+
+VII. Promover, y en su caso, asesorar la coordinación y asociación intermunicipal para el desarrollo de sus funciones hacendarias.
+
+VIII. Promover la celebración de convenios de colaboración administrativa en materia hacendaria entre el Gobierno del Estado y los ayuntamientos, sobre las materias a que se refiere el artículo 218 de este Código.
+
+IX. Coadyuvar a petición de los municipios en el estudio y análisis de las cuotas y tarifas propuestas por éstos.
+
+X. Proponer los lineamientos técnicos en materia de sistemas de recaudación, a petición de los municipios.
+
+XI. Coadyuvar y proponer a petición de los municipios los lineamientos técnicos en materia de sistemas de fiscalización.
+
+XII. Proponer el diseño y homologación de la información hacendaria y sistemas de tecnología, a petición de los municipios.
+
+XIII. Llevar un sistema de estadística hacendaria.
+
+XIV. Solicitar a los municipios la información hacendaria que considere necesaria para cumplir con las funciones encomendadas.
+
+XV. Diseñar modelos para la integración de la información hacendaria del Estado y de sus municipios.
+
+XVI. Cooperar con el Gobierno del Estado en la integración de la información hacendaria del Estado y sus municipios.
+
+XVII. Intercambiar con las autoridades estatales y municipales la información relacionada con el control de las participaciones federales y estatales.
+
+XVIII. Promover y asesorar la creación de oficinas catastrales relacionadas con los sistemas municipales de información geográfica, estadística y catastral, así como sus características, números y perfiles de los recursos materiales, financieros y humanos, necesarios para su operación, en coordinación con el Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
+
+XIX. Asesorar y promover el establecimiento de un solo padrón inmobiliario con claves catastrales referidas a posiciones geográficas, en coordinación con el Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
+
+XX. Divulgar entre las autoridades municipales las normas jurídicas y técnicas a que está sujeto el proceso catastral.
+
+XXI. Organizar y desarrollar programas y actividades de capacitación y asistencia técnica para servidores públicos hacendarios.
+
+XXII. Celebrar convenios en materia de capacitación, con instituciones educativas y con los sectores público, privado y social.
+
+XXIII. Efectuar de manera continua una difusión técnica adecuada para el correcto servicio de las haciendas públicas municipales.
+
+XXIV. Asesorar a los municipios y a las tesorerías cuando lo soliciten.
+
+XXV. Analizar la actividad y condiciones económicas generales del país y en la entidad, para la formulación de programas y alternativas financieras aplicables en los municipios de la entidad.
+
+XXVI. Realizar estudios permanentes de la legislación hacendaria.
+
+XXVII. Realizar los estudios específicos y trabajos que le encomienden los gobiernos estatal o municipales.
+
+XXVIII. Brindar apoyo a los ayuntamientos que lo soliciten para la elaboración de los presupuestos, programas, planes y demás instrumentos hacendarios de los municipios.
+
+XXIX. Apoyar a los ayuntamientos que lo soliciten para implantar el sistema de información administrativa y financiera.
+
+XXX. Analizar y opinar sobre la distribución de las participaciones y aportaciones del Gobierno Federal.
+
+XXXI. Ejecutar las comisiones, funciones y disposiciones que el Consejo determine.
+
+XXXII. Representar legalmente al Instituto con todas las facultades generales y especiales.
+
+XXXIII. Elaborar el programa anual de trabajo del Instituto.
+
+XXXIV. Elaborar el proyecto de presupuesto del Instituto.
+
+XXXV. Presentar al Consejo los estados financieros y la cuenta anual de ingresos y egresos del instituto.
+
+XXXVI. Informar anualmente al Consejo las actividades del Instituto.
+
+XXXVII. Nombrar y remover al personal del Instituto.
+
+XXXVIII. Administrar el patrimonio del Instituto.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 254 Bis.
+
+Para el conocimiento, seguimiento y resolución de asuntos que se desprendan del funcionamiento del Sistema de Coordinación Hacendaria, el Instituto contará con las Coordinaciones de Normas, Procedimientos y Evaluación; Capacitación; Estudios Hacendarios; y de Operación Regional.
+
+Para la atención y resolución de problemas específicos, el Consejo Directivo o el Vocal Ejecutivo con autorización de aquél, podrán formar comisiones regionales o especializadas, las cuales estarán integradas por el Vocal Ejecutivo, quién las presidirá, y los tesoreros de los municipios involucrados.
+
+En estas comisiones se podrá invitar a participar a instituciones académicas, de investigación y agrupaciones del sector social y privado relacionadas con la materia hacendaria.
 
 ###### Artículo 255.
 
@@ -7285,7 +8819,9 @@ A). Directa, la que contrate el Gobierno del Estado.
 
 B). Indirecta, la que contraten sus organismos públicos descentralizados, las empresas de participación mayoritaria y fideicomisos.
 
-C). Contingente, la que contraiga el Gobierno del Estado como aval o deudor solidario de las entidades públicas señaladas en el inciso que antecede.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+C). Contingente, la que contraiga el Gobierno del Estado como aval o deudor solidario de las entidades públicas señaladas en el inciso que antecede, así como de los municipios.
 
 II. La deuda pública de los municipios:
 
@@ -7353,6 +8889,10 @@ II. Reestructurar los créditos adquiridos como deudor directo o responsable sol
 
 III. Autorizar en garantía de las obligaciones que contraigan, la afectación de sus participaciones derivadas de la Coordinación Fiscal.
 
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+IV. En los casos señalados en las fracciones I y II cuyos plazos de amortización excedan el periodo constitucional para el que fue electo el ayuntamiento, éste deberá contar con el acuerdo de las dos terceras partes de los miembros del ayuntamiento, y justificar plenamente la necesidad que se tiene para excederse del periodo constitucional.
+
 ###### Artículo 265.
 
 La emisión de bonos, valores y otros títulos de deuda serán pagaderos en moneda nacional y dentro del territorio de la República; y tanto en el acta de emisión como en los títulos, deberán citarse los datos de su inscripción en el registro de deuda pública. Asimismo, deberá constar la prohibición de su venta a extranjeros, sean estos gobiernos, entidades gubernamentales, sociedades, particulares u organismos internacionales; sin estos datos los títulos carecerán de validez.
@@ -7383,17 +8923,19 @@ IV. No se afecten en garantía los ingresos provenientes de las participaciones 
 
 El Estado otorgará su aval, cuando se cumplan los siguientes requisitos:
 
-I. Que el importe a contratar se encuentre dentro de los montos de endeudamiento neto autorizados por la Legislatura.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+I. Que el importe a contratar se encuentre dentro de los montos de endeudamiento neto anual autorizados por la Legislatura en la Ley de Ingresos del Estado.
 
 II. Que el plazo de amortización no exceda el período constitucional para el que fue electo el ayuntamiento, salvo por autorización de la Legislatura.
 
-III. Que el monto acumulado de los avales otorgados por el Estado, no exceda del límite autorizado por la Legislatura, en la Ley de Ingresos del Estado;
+III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
 IV. Que el solicitante acredite que cuenta con elementos económicos suficientes para hacer frente a la obligación contraída.
 
 V. Que las entidades públicas estén al corriente en la información que deben proporcionar al Registro de Deuda Pública, en los casos no previstos se requerirá la autorización de la Legislatura.
 
-En el caso de los municipios, que el plazo de amortización no exceda el período constitucional para el que fue electo el ayuntamiento, salvo por autorización de la Legislatura.
+> <small>(DEROGADA ULTIMO PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 270.
 
@@ -7475,7 +9017,9 @@ En caso de no haberse comprobado el pago dentro de las siguientes setenta y dos 
 
 Cuando el Estado incurra en mora, los acreditantes podrán presentar su solicitud de pago ante la Secretaría, la que procederá al cumplimiento de la obligación en un plazo no mayor a sesenta y dos horas hábiles, según su orden de prelación.
 
-En caso de no haber comprobado el pago, el acreditante podrá solicitar la ejecución de la garantía otorgada a la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+En caso de no haber comprobado el pago, el acreditante podrá solicitar la ejecución de la garantía otorgada a la Secretaría de Hacienda y Crédito Público o al mecanismo que se haya implementado para garantizar las obligaciones contraídas.
 
 ###### Artículo 283.
 
@@ -7483,43 +9027,75 @@ Las operaciones de endeudamiento y su inscripción en el Registro de Deuda Públ
 
 ###### Artículo 284.
 
-Las disposiciones de este Título regulan la planeación y programación del desarrollo del Estado y de los municipios, así como la elaboración, control y evaluación de sus presupuestos de egresos.
+Las disposiciones de este título tienen por objeto normar el proceso de la planeación del desarrollo del Estado y de los municipios, así como de la programación para la formulación, ejecución, control y evaluación de sus presupuestos de egresos.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ## TITULO NOVENO. DE LA PLANEACION Y DEL PRESUPUESTO DE EGRESOS
 
 ### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 285.
 
-La conducción del desarrollo del Estado, la planeación y su ejercicio democrático es atribución del Gobernador, quien aprobará el Plan de Desarrollo y sus programas. Estas atribuciones se ejercerán en los municipios por el Presidente Municipal, salvo el Plan de Desarrollo que será aprobado por el ayuntamiento.
+El desarrollo del Estado se sujetará al proceso de planeación ajustándose al Plan Nacional de Desarrollo, integrándose al Plan de Desarrollo del Estado a los programas sectoriales e instituciones de mediano plazo que cubran el período constitucional de gobierno y que incluso dejen bases firmes para el desarrollo a largo plazo, propio de otros períodos constitucionales.
+
+El Plan de Desarrollo del Estado estará a cargo de las dependencias que integran el Poder Ejecutivo así como de sus organismos.
+
+La población del Estado de México podrá contribuir al Plan de Desarrollo del Estado mediante propuestas que se formulen en foros o que hagan llegar por escrito a la Secretaría de Finanzas y Planeación.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 286.
 
-La planeación constituye un medio permanente para la utilización eficiente de los recursos públicos y la promoción del desarrollo integral de la Entidad; y su ejercicio tendrá por objeto:
+Para efectos de este título, se entiende por planeación el proceso mediante el cual se definen los programas y acciones para impulsar el desarrollo integral y sustentable del Estado, fortalecer su soberanía y su régimen democrático, fomentar el crecimiento económico, el empleo y una justa distribución del ingreso y la riqueza, para lograr el pleno ejercicio de la libertad y dignidad de los individuos.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 287.
+
+La conducción del desarrollo del Estado, la planeación y su ejercicio democrático es atribución del Gobernador, quien aprobará el Plan de Desarrollo y sus programas. Estas atribuciones se ejercerán en los municipios por el Presidente Municipal, salvo el Plan de Desarrollo que será aprobado por el ayuntamiento.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 288.
+
+La planeación constituye un medio permanente para la utilización eficiente de los recursos públicos y la promoción del desarrollo integral de la entidad; y su ejercicio tendrá por objeto:
 
 I. Orientar racional y progresivamente el desarrollo económico y social.
 
 II. Lograr la participación activa de la sociedad en las acciones del gobierno.
 
-III. Promover el equilibrio económico entre las diferentes regiones de la Entidad y entre los núcleos de población urbanos y rurales.
+III. Promover el equilibrio económico entre las diferentes regiones de la entidad y entre los núcleos de población urbanos y rurales.
 
-IV. Hacer congruentes los objetivos de la planeación nacional, estatal y municipal.
+IV. Hacer congruentes los objetivo de la planeación nacional, estatal y municipal.
 
-###### Artículo 287.
-
-El desarrollo del Estado de sujetará al proceso de planeación con base en el que se integrará el Plan de Desarrollo del Estado, y los planes de desarrollo de los municipios así como sus programas de gobierno.
-
-###### Artículo 288.
-
-Los programas son el instrumento para la ejecución del Plan de Desarrollo y tendrán como objetivo mejorar las condiciones económicas y sociales de la población, serán anuales, salvo que por las prioridades del desarrollo se requiera de un plazo distinto.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 289.
 
-El presupuesto de egresos comprenderá las erogaciones por concepto de gasto corriente, transferencias, gasto de inversión en obras y acciones, inversión financiera y deuda pública; y se entenderá por:
+Las dependencias y entidades públicas formarán parte del Sistema de información para la Planeación, Programación, Presupuestación y Evaluación y deberán mantener actualizada la información estadística que corresponda a su ámbito de competencia.
 
-I. Gasto corriente: las erogaciones destinadas al pago de servicios personales, así como la adquisición de bienes y servicios.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-II. Transferencias: entrega de recursos, a través de ayudas, subsidios e inversión patrimonial al sector auxiliar, con el objeto de sufragar gasto corriente de consumo o de operación y apoyos diversos que se otorgan a los sectores social y privado, para el desempeño de actividades no lucrativas.
+### CAPITULO SEGUNDO. DE LA PLANEACION DEL DESARROLLO
+
+###### Artículo 290.
+
+La responsabilidad del proceso de desarrollo y el Sistema de Planeación Democrática corresponde al titular del Poder Ejecutivo del Estado, a través de la Secretaría.
+
+Con la coordinación de la Secretaría, las dependencias y entidades públicas del Poder Ejecutivo, son responsables de la planeación, programación y presupuestación, así como de la ejecución, seguimiento y evaluación de sus actividades sujetándose a los objetivos y políticas del Plan Nacional de Desarrollo y del Plan de Desarrollo del Estado de conformidad con los lineamientos del Sistema de Planeación Democrática.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 290 Bis.
+
+El presupuesto de egresos comprenderá las erogaciones por concepto de gasto corriente, transferencias, gasto de inversión en obras y acciones, inversión financiera, deuda pública y subsidios, y se entenderá por:
+
+I. Gasto corriente: las erogaciones destinadas al pago de servicios personales, así como a la adquisición de bienes y servicios.
+
+II. Transferencias: entrega de recursos a través de ayudas y apoyos económicos e inversión patrimonial al sector auxiliar, con el objeto de sufragar gasto corriente de consumo o de operación.
 
 III. Gasto de inversión en obras y acciones: incluye las asignaciones destinadas a cubrir el pago de las obras públicas, la adquisición de bienes muebles e inmuebles y la ejecución de proyectos productivos de carácter social.
 
@@ -7527,33 +9103,55 @@ IV. Inversión financiera: importe de las erogaciones que se realizan para la ad
 
 V. Deuda pública: total de préstamos concertados a plazos, para sufragar el gasto público.
 
-### CAPITULO SEGUNDO. DE LA PLANEACION DEL DESARROLLO
+VI. Subsidios: previsiones presupuestales que se proporcionarán como apoyos económicos a los sectores social y privado para la ejecución de programas prioritarios y generales, de carácter temporal que determine la Secretaría.
 
-###### Artículo 290.
-
-La Secretaría será la responsable de integrar y someter a consideración del Gobernador el proyecto del Presupuesto de Egresos del Estado, en el caso de los municipios lo integrarán la tesorería y lo someterá a consideración del ayuntamiento.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 291.
+
+Los programas son el instrumento jurídico administrativo para la ejecución del Plan de Desarrollo, y tendrán por objetivo mejorar las condiciones económicas y sociales de la población y podrán ser aplicados a corto o mediano plazos, salvo que por las prioridades del desarrollo se requiera de un plazo distinto.
+
+Los programas de corto plazo serán aplicados en forma anual, y los de mediano y largo plazo durante dos o más años respectivamente.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 291 Bis.
+
+La Secretaría es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo y de la administración financiera y tributaria de la hacienda pública del Estado; en el caso de los municipios, estas tareas corresponden a la tesorería y a los órganos de planeación que en este ámbito operan.
+
+La Secretaría será la responsable de integrar y someter a consideración del Gobernador el proyecto del Presupuesto de Egresos del Estado, en el caso de los municipios lo integrará la tesorería y lo someterá a consideración del ayuntamiento.
 
 La evaluación del presupuesto de egresos, basará sus resultados en la relación que exista entre su ejercicio y el cumplimiento de las metas y objetivos de los programas.
 
 ###### Artículo 292.
 
-La planeación del desarrollo se basará en un sistema democrático, que propicie la participación y coordine los esfuerzos de la administración pública y de los distintos sectores de la población.
+El Sistema de Planeación Democrática es el conjunto articulado de procesos y funciones de carácter social, político, económico y técnico, así como de mecanismos de concertación y coordinación entre las tres esferas de gobierno y los sectores de la sociedad, mediante los cuales deben efectuarse acciones de planeación de común acuerdo, para promover el desarrollo integral del Estado.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 293.
 
+El Sistema de Planeación Democrática tendrá por objeto, transformar racional y progresivamente los cursos de acción del desarrollo económico y social, asegurando la participación activa de la sociedad en las acciones de gobierno, poniendo énfasis en la atención de las necesidades básicas para el mejoramiento de su calidad de vida, y en la conformación adecuada de las relaciones entre las diferentes regiones entre sí.
+
 El sistema estará integrado por las dependencias y entidades públicas, apoyadas en la participación democrática de la población y su operación se llevará a cabo a través de la estructura de la administración pública estatal y municipal.
+
+Asimismo, el sistema de planeación estará integrado por los planes, programas, presupuestos, lineamientos metodológicos y demás documentos de planeación que autorice el Gobierno del Estado y los Ayuntamientos de la entidad; por las dependencias, instituciones y entidades públicas responsables de las funciones de planeación, programación y presupuestación.
 
 ###### Artículo 294.
 
-El Plan de Desarrollo del Estado se elaborará, aprobará y publicará dentro de un plazo de seis meses, contados a partir del inicio del período constitucional de gobierno. Su vigencia se circunscribe a dicho período; y sus previsiones y proyecciones deberán considerar objetivos y estrategias de largo plazo, que deben ser revisados y, en caso, considerados en la elaboración del Plan Estatal de Desarrollo del siguiente período constitucional de gobierno.
+El Plan de Desarrollo del Estado se elaborará, aprobará y publicará dentro de un plazo de seis meses, contados a partir del inicio del período constitucional del gobierno y en su elaboración deberá considerarse la opinión de los diversos sectores de la sociedad. Su vigencia se circunscribe a dicho periodo o hasta la publicación del plan de desarrollo del siguiente período constitucional de gobierno; y sus previsiones y proyecciones deberán considerar objetivos y estrategias de largo plazo, que deben ser revisados y, en su caso, considerados en la elaboración del Plan de Desarrollo del siguiente período constitucional del gobierno.
+
+El Plan de Desarrollo del Estado deberá ser congruente con los objetivos del Plan Nacional de Desarrollo.
 
 ###### Artículo 295.
 
 En el plan de desarrollo se establecerán los lineamientos de política global, sectorial y regional del desarrollo, sujetando los demás instrumentos de la planeación a sus objetivos, estrategias y prioridades. Sus previsiones se referirán al conjunto de la actividad económica y social.
 
 Para efectos de la integración del plan de desarrollo se podrán elaborar programas sectoriales, regionales, institucionales y especiales.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+El Plan de desarrollo del Estado podrá ser modificado cuando por causas extraordinarias así se requiera, o bien, cuando con motivo del inicio de un período constitucional federal, se apruebe el Plan Nacional de Desarrollo, o en su caso como consecuencia de modificaciones posteriores a este último, con el objeto de hacer congruentes sus objetivos y metas.
 
 ###### Artículo 296.
 
@@ -7563,45 +9161,87 @@ Antes de la aprobación del plan, el Gobernador lo remitirá a la Legislatura pa
 
 El presidente municipal elaborará y someterá a la aprobación de ayuntamiento, el plan de desarrollo del municipio.
 
-El plan se elaborará, aprobará y publicará dentro de un plazo de cuatro meses, contados a partir del inicio del período constitucional de gobierno, su vigencia se circunscribe a dicho período; y sus previsiones y proyecciones deberán considerar objetivos y estrategias de largo plazo, que deben ser revisados y, en su caso, considerados en la elaboración del Plan de Desarrollo Municipal del siguiente período constitucional de gobierno.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+El plan se elaborará, aprobará y publicará dentro de un plazo de cuatro meses, contados a partir del inicio del período constitucional de gobierno, su vigencia se circunscribe a dicho periodo o hasta la publicación del plan de desarrollo del siguiente período constitucional de gobierno; y sus previsiones y proyecciones deberán considerar objetivos y estrategias de largo plazo, que deben ser revisados y, en su caso, considerados en la elaboración del Plan de Desarrollo Municipal del siguiente período constitucional de gobierno.
 
 El Plan de Desarrollo Municipal, deberá ser congruente con los objetivos y metas del Plan Estatal de Desarrollo.
 
-Aprobado el Plan de Desarrollo, se publicará en el Periódico Oficial y su cumplimiento será obligatorio para las dependencias y entidades públicas, lo mismo que los programas que de él se deriven, una vez aprobados.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+Aprobado el Plan de Desarrollo, se publicará en el Periódico Oficial y su cumplimiento será obligatorio para las dependencias y entidades públicas, lo mismo que los programas que de él se deriven, una vez aprobados. Sus adecuaciones se sujetarán al mismo procedimiento establecido para su aprobación y es obligatorio para el Estado y para los municipios darles la más amplia difusión.
 
 Sus adecuaciones se sujetarán al mismo procedimiento establecido para su aprobación.
 
 Es obligatorio para el Estado y para los municipios dar la más amplia difusión a su plan de desarrollo.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 298.
 
-Conforme a las atribuciones y obligaciones que se deriven de este Título, las dependencias y entidades públicas evaluarán periódicamente los resultados de la ejecución de sus planes y programas.
+Las dependencias y entidades públicas, conforme a sus atribuciones y obligaciones contempladas en este título, evaluarán periódicamente los resultados de la ejecución de sus planes y programas.
 
 El resultado de las evaluaciones y, en su caso, de las adecuaciones y correcciones, serán sometidas a la consideración del Gobernador y del ayuntamiento en el caso de los municipios.
+
+La Secretaría establecerá los mecanismos y sistemas para el adecuado control, seguimiento y evaluación de la ejecución de los planes, programas y presupuestos, de acuerdo con lo establecido en el presente Título y demás disposiciones aplicables.
+
+Compete a esta Secretaría realizar la evaluación sistemática del Plan de Desarrollo, de los Programas Sectoriales e Institucionales de Mediano Plazo y a las dependencias y entidades públicas lo referente a sus Programas Operativos Anuales, derivados del ejercicio presupuestal y del Sistema de Planeación Democrática y proveer lo necesario para la corrección de las desviaciones detectadas. Lo anterior sin demérito de las atribuciones y responsabilidades de la Secretaría de la Contraloría en la esfera de su competencia.
+
+La evaluación, en el ámbito estatal, se enmarcará en cuatro niveles:
+
+I. Evaluación estratégica, que identifica los logros alcanzados respecto a los objetivos del Plan de Desarrollo, que permitirá al Titular del Ejecutivo y a los Titulares de las Secretarías, la toma de decisiones para el desarrollo de los programas bajo su responsabilidad.
+
+II. Evaluación programática y presupuestal, que dará cuenta del alcance de los objetivos, acciones y logros programados, así como de la racionalidad y transparencia en el uso de recursos públicos, que permitirá a la Secretaría la toma de decisiones para modificar o corregir el desarrollo de los programas y la asignación de los recursos.
+
+III. Evaluación de la gestión pública, que señalará los alcances administrativos sobre el desempeño de las funciones y procesos clave con los que opera cada dependencia, que será analizada y calificada por la Secretaría de la Contraloría.
+
+IV. Evaluación de los servicios, que medirá la calidad con la que se están otorgando éstos, de acuerdo con estándares previamente definidos o en relación a las características y necesidades de la entidad, que será analizada y calificada por la Secretaría de Administración.
+
+La evaluación, en el ámbito municipal, será la que determine el ayuntamiento, misma que deberá ser congruente con los mecanismos establecidos en el Sistema de Planeación Democrática.
+
+Conforme a las atribuciones y obligaciones que se derivan del presente Título, los titulares de las dependencias del Poder Ejecutivo son responsables de entregar a la Secretaría la información solicitada por ésta, relativa al proceso de control, seguimiento y evaluación del Plan de Desarrollo del Estado de México, de los programas que de él se derivan y el ejercicio del presupuesto.
 
 ###### Artículo 299.
 
 En el informe que anualmente se rinda sobre el estado que guarda la administración pública, se hará mención expresa del cumplimiento del Plan de Desarrollo y del avance de los programas.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 300.
 
-Como parte de la cuenta pública, se informará a la Legislatura de las acciones y resultados de la ejecución del Plan, y del avance de los programas.
+Como parte de la cuenta pública, se informará a la Legislatura de las acciones y resultados de la ejecución del Plan de Desarrollo del Estado, y del avance de los programas.
 
 ###### Artículo 301.
 
 En el ejercicio de sus atribuciones, el Gobernador podrá convenir con el Gobierno Federal y con los ayuntamientos, acciones para promover el desarrollo de manera coordinada. Los convenios que se suscriban, serán congruentes con los objetivos del desarrollo nacional, estatal y municipal.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 302.
 
-En el plan de desarrollo y en los programas se hará referencia a los mecanismos de coordinación entre las diferentes instancias de gobierno y a las acciones que podrán concertarse como resultado de la participación democrática de la sociedad.
+En el Plan de Desarrollo y en los programas se hará referencia a los mecanismos de coordinación entre las diferentes instancias de gobierno y a las acciones que podrán concertarse como resultado de la participación democrática de la sociedad, considerando especialmente al Comité de Planeación para el Desarrollo del Estado de México, como el órgano fundamental para la coordinación y concertación de las acciones de planeación, programación y evaluación del desarrollo de la entidad.
+
+Las bases de coordinación de los convenios con los ayuntamientos de la entidad, atenderán, además, a la planeación estatal y a la programación sectorial, regional y especial, asimismo tomarán en cuenta la participación de las organizaciones sociales e individuos involucrados.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 302 Bis.
+
+El Comité de Planeación para el Desarrollo Municipal deberá reflejar la complejidad del tejido social y la pluralidad de la sociedad del municipio. De manera indicativa podrá incluir miembros que representen las fuerzas económicas principales; a los grupos profesionales, educativos, académicos y culturales; a funcionarios de otros niveles de gobierno con asiento en el municipio; y personalidades sociales, políticas y culturales y a todos individuos (sic) que puedan aportar al desarrollo local.
+
+El Ejecutivo Estatal y los municipales en sus respectivos ámbitos de competencia, promoverán y convendrán en su caso, diversos mecanismos de inversión pública conjunta, asegurando de manera permanente la participación social en la planeación del desarrollo.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 303.
 
-Los convenios de planeación para el desarrollo que suscriba el Estado con los municipios, tendrán por objeto fortalecer la capacidad económica, administrativa y financiera de éstos.
+Los convenios de coordinación en materia de planeación para el desarrollo que suscriba el Estado con los municipios, tendrán por objeto fortalecer la capacidad económica, administrativa y financiera de éstos.
 
 ###### Artículo 304.
 
 Las dependencias y entidades públicas elaborarán programas anuales congruentes entre sí, que regirán la actividad de la administración pública y se considerarán para la conformación del presupuesto de egresos, salvo en el caso de programas especiales cuyo plazo de ejecución podrá ser distinto.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO TERCERO. DE LOS PROGRAMAS
 
@@ -7609,15 +9249,29 @@ Las dependencias y entidades públicas elaborarán programas anuales congruentes
 
 Los programas sectoriales, regionales, institucionales y especiales, deberán ser congruentes con los objetivos, estrategias y prioridades establecidos en el plan de desarrollo; se sujetarán a la política de regionalización establecida; y definirá las responsabilidades de su ejecución, además de incluir la política económico-social y los aspectos administrativos que impongan las condiciones del desarrollo.
 
+En el caso de los planes, programas y proyectos de desarrollo regional que lleven cabo (sic) la Federación o el Estado, se deberá asegurar la participación de los municipios en su formulación y ejecución.
+
+Los programas regionales, procurarán la integración y el establecimiento de relaciones más equitativas entre las diferentes regiones del Estado y estarán orientados hacia el aprovechamiento integral de los recursos naturales y del trabajo del hombre en su ámbito territorial y hacia una mayor vinculación de las economías rural y urbana.
+
+Para dicho efecto se entenderá como región la porción del territorio estatal que integre varios municipios contiguos y que se identifican por alguna razón geográfica, socio-económica o político-administrativa. La regionalización del Estado se incorporará al cuerpo del Plan de Desarrollo.
+
+Los Programas Regionales, se distinguirán por su enfoque territorial y convergerán en ellos, las propuestas de los diversos programas sectoriales, institucionales, especiales, urbanos y ambientales del Estado.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 306.
 
-Para la ejecución de los programas, se instrumentarán sistemas operativos de fiscalización, control y evaluación, a efecto de que la asignación de los recursos sea congruente con la política global del desarrollo.
+Para la ejecución de los programas, se instrumentarán sistemas operativos de control, fiscalización y evaluación, a efecto de que la asignación de los recursos sea congruente con la política del desarrollo estatal.
+
+La metodología y procedimientos de control, seguimiento y evaluación del plan de desarrollo y de los programas que de él se deriven, serán establecidos por la Secretaría.
 
 Las dependencias y entidades públicas estatales podrán proporcionar a los ayuntamientos asesoría en materia de planeación, programación, evaluación y control.
 
 ###### Artículo 307.
 
-El Presupuesto de Egresos del Estado, es el documento jurídico contable y de política económica, aprobado por la Legislatura, a iniciativa del Gobernador, en el que se consigna de acuerdo con su naturaleza y cuantía el gasto público que ejercerán las dependencias y entidades públicas, en cumplimiento de sus funciones, durante un ejercicio fiscal; en el caso de los municipios, será el aprobado por el ayuntamiento.
+El Presupuesto de Egresos del Estado, es el documento jurídico contable y de política económica, aprobado por la Legislatura, a iniciativa del Gobernador, en el que se consigna de acuerdo con su naturaleza y cuantía el gasto público que ejercerán las dependencias y entidades públicas, en cumplimiento de sus funciones y programas derivados del plan de desarrollo, durante un ejercicio fiscal; en el caso de los municipios, será el aprobado por el ayuntamiento.
+
+El monto a ejercer considerado en el presupuesto de egresos, no podrá exceder el importe que señale la Ley de Ingresos correspondiente.
 
 ###### Artículo 308.
 
@@ -7641,9 +9295,11 @@ VIII. Deuda Pública.
 
 IX. Erogaciones Extraordinarias.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 309.
 
-Los capítulos se dividirán en conceptos y partidas y gasto, que representarán las autorizaciones específicas del presupuesto, mediante catálogos que determine la Secretaría, y la tesorería en el caso de los municipios, procurando que exista congruencia y homogeneidad entre ambos niveles de gobierno.
+Los capítulos se dividirán en subcapítulos y naturaleza de gasto, que representarán las autorizaciones específicas del presupuesto, mediante catálogos que determine la Secretaría, y la Tesorería en el caso de los municipios, procurando que exista congruencia y homogeneidad entre ambos niveles de gobierno.
 
 ###### Artículo 310.
 
@@ -7653,13 +9309,17 @@ Las dependencias, entidades públicas y unidades administrativas formularán su 
 
 La Secretaría, y la tesorería formularán los anteproyectos de presupuesto de las dependencias, entidades públicas y unidades administrativas, cuando no les sean presentados en el plazo que fijen.
 
+REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)
+
 ###### Artículo 312.
 
-La Secretaría, y la tesorería podrán efectuar las modificaciones que consideren necesarias a los anteproyectos de presupuesto en cuanto a importes asignados, informando a las dependencias y entidades públicas para que efectúen los ajustes correspondientes.
+La Secretaría y la Tesorería, podrán efectuar las modificaciones que consideren necesarias a los anteproyectos de presupuesto, en cuanto a importes asignados y a la congruencia de la orientación del gasto con el desarrollo, informando a las dependencias y entidades públicas para que efectúen los ajustes correspondientes.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 313.
 
-Antes del quince de junio, la Secretaría, y la tesorería darán a conocer a las dependencias, entidades públicas y unidades administrativas, el instructivo para la formulación del presupuesto, para que a más tardar el treinta y uno de julio, envíen sus observaciones.
+Antes del quince de junio, la Secretaría, y la Tesorería darán a conocer a las dependencias, entidades públicas, unidades administrativas y órganos autónomos, el instructivo para la formulación del presupuesto, para que a más tardar el treinta y uno de julio, envíen sus observaciones.
 
 ###### Artículo 314.
 
@@ -7719,9 +9379,11 @@ Las partidas de gasto comprendidas en el presupuesto de egresos sólo serán afe
 
 Las garantías que deban constituirse para asegurar los actos y contratos que celebren las dependencias, entidades públicas y unidades administrativas, se otorgarán a favor de la Secretaría o de la tesorería en el caso de los municipios.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 324.
 
-Cualquier modificación al presupuesto autorizado, que implique traspasos entre capítulos y partidas de gasto, deberá someterse a la consideración de la Secretaría, y en el caso de los municipios, a la tesorería, para su autorización, de resultar procedente.
+Cualquier modificación al presupuesto autorizado, que implique traspasos entre capítulos y partidas de gasto, deberá someterse a la consideración de la Secretaría, y en el caso de los municipios, a la Tesorería, para su autorización, de resultar procedente, cumpliendo con la normatividad que emitan dichas dependencias normativas.
 
 No se podrán realizar traspasos de gasto de inversión en obras y acciones a gasto corriente.
 
@@ -7729,13 +9391,23 @@ No se podrán realizar traspasos de gasto de inversión en obras y acciones a ga
 
 Cuando la aplicación de leyes o decretos posteriores a la aprobación del Presupuesto de Egresos implique la erogación de fondos públicos no previstos, la Legislatura, a iniciativa del Gobernador, en su caso, autorizará su modificación.
 
-Cuando por razones no previstas, se cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Gobernador queda facultado para aplicarlos a los programas, e informará a la Legislatura al rendir la cuenta pública; en el caso de los municipios será por acuerdo del ayuntamiento. Si los ingresos ordinarios del Estado rebasa el 2%, deberá solicitarse autorización expresa a la Legislatura y aplicarse como ésta lo determine, de preferencia a la amortización de deuda pública.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-No se deberán considerar en este porcentaje los ingresos ordinarios derivados de convenios o transferencias de la Federación al Estado o a los municipios, cuando tengan un destino específico.
+Cuando por razones no previstas, se cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Gobernador queda facultado para aplicarlos a los programas, e informará a la Legislatura al rendir la cuenta pública; en el caso de los municipios será por acuerdo del ayuntamiento. Si los ingresos ordinarios del Estado rebasan el 2%, para la aplicación del excedente deberá solicitarse autorización expresa a la Legislatura y hacerlo como ésta lo determine, de preferencia a la amortización de deuda pública.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+No se deberán considerar en este porcentaje los ingresos ordinarios derivados de convenios o transferencias de la Federación al Estado o a los municipios, cuando tengan un destino específico, ni los ingresos propios obtenidos por los Organismos Auxiliares, quienes los aplicarán para el cumplimiento de sus objetivos establecidos en términos de la Ley o Decreto de su creación, mediante autorización del Ejecutivo, previo acuerdo de sus órganos de Gobierno.
 
 ###### Artículo 326.
 
 Los titulares de las dependencias, entidades públicas y unidades administrativas, en el ejercicio de su presupuesto, serán responsables de que se ejecuten con oportunidad, eficiencia y eficacia los proyectos previstos en sus respectivos programas y enviarán a la Secretaría, de acuerdo a la periodicidad que se establezca, los informes del avance programático-presupuestal, para la revisión, seguimiento y evaluación del cumplimiento de los objetivos y metas establecidas (sic) en los programas aprobados en relación con el presupuesto autorizado; en los municipios, se enviará a la tesorería.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 326 Bis.
+
+La Secretaría y la Tesorería, en el ámbito de sus respectivas competencias, elaborarán la normatividad necesaria para la adecuada operación presupuestal y el correcto ejercicio del gasto público, así como su registro contable.
 
 ### CAPITULO CUARTO. DEL PRESUPUESTO DE EGRESOS
 
@@ -7753,9 +9425,11 @@ Las disposiciones de este Título tienen por objeto regular los servicios de tes
 
 Los servicios de tesorería son aquéllos relacionados con la recaudación, concentración, administración y custodia de fondos y valores, así como la realización de pagos con cargo al presupuesto de egresos.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 329.
 
-La Secretaría, la tesorería o su equivalente tratándose de entidades públicas, serán las responsables de prestar los servicios de tesorería, y para esto, establecerán los sistemas y procedimientos necesarios mediante reglas de carácter general, y se podrán auxiliar de las instituciones que integran el sistema bancario.
+La Secretaría, la Tesorería o su equivalente tratándose de entidades públicas, serán las responsables de prestar los servicios de tesorería, pudiéndose auxiliar de las instituciones que integran el sistema bancario, y para esto, establecerán los sistemas y procedimientos necesarios mediante reglas de carácter general, elaborando el calendario anual de pagos de la tesorería a efecto de que las dependencias y entidades públicas elaboren sus propios calendarios del ejercicio presupuestal.
 
 ###### Artículo 330.
 
@@ -7795,9 +9469,11 @@ Las órdenes de pago que no hayan sido liquidadas al treinta y uno de diciembre 
 
 De ser aplicable en los municipios, se observará este procedimiento.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 337.
 
-Las dependencias, entidades públicas y unidades administrativas que manejen fondos y que por cualquier motivo al término del ejercicio fiscal conserven recursos financieros presupuestales, los reintegrarán a la Caja General, y en el caso de los rendimientos los enterarán dentro de los cinco primeros días del mes siguiente al en que se generaron.
+Las dependencias y unidades administrativas que manejen fondos y que por cualquier motivo al término del ejercicio fiscal conserven recursos financieros presupuestales, los reintegrarán a la Caja General. Las entidades públicas y, organismos que se hallen en esta misma situación o que obtengan rendimientos, previa autorización de la Secretaría, podrán conservarlos incorporándolos como ingresos propios en el siguiente período fiscal.
 
 ###### Artículo 338.
 
@@ -7809,7 +9485,7 @@ El pago de cantidades retenidas en favor de terceros, se liquidarán a petición
 
 ###### Artículo 339.
 
-Las disposiciones de este Título tienen por objeto regular la contabilidad gubernamental y la cuenta pública del Estado, y la de los municipios.
+Las disposiciones de este título tienen por objeto regular el Sistema Integral de Información Financiera del que forma parte la contabilidad gubernamental y la cuenta pública del Estado, y la de los municipios.
 
 ###### Artículo 340.
 
@@ -7825,17 +9501,21 @@ Se entenderá por cuenta pública el informe que rinda anualmente el Gobernador 
 
 ###### Artículo 342.
 
-El registro contable y presupuestal de las operaciones financieras, se realizará conforme al sistema y política de registro que de común acuerdo establezcan la Secretaría, las tesorerías y el órgano técnico de fiscalización de la Legislatura.
+El registro contable y presupuestal de las operaciones financieras, se realizarán conforme al Sistema Integral de Información Financiera y a las políticas de registro que de común acuerdo establezcan la Secretaría, las tesorerías y el órgano técnico de fiscalización de la Legislatura.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 343.
 
-El sistema de contabilidad debe diseñarse sobre base acumulativa total y operarse en forma que facilite la fiscalización de los activos, pasivos, ingresos, egresos y, en general, que facilite medir la eficacia y eficiencia del gasto público, y contener las medidas de control interno que permitan verificar el registro de la totalidad de las operaciones financieras.
+El sistema de contabilidad debe diseñarse sobre base acumulativa total y operarse en forma que facilite la fiscalización de los activos, pasivos, ingresos, egresos y, en general, que posibilite medir la eficacia y eficiencia del gasto público, y contener las medidas de control interno que permitan verificar el registro de la totalidad de las operaciones financieras.
 
 El sistema de contabilidad sobre base acumulativa total se sustentará en los principios de contabilidad gubernamental.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 344.
 
-Las dependencias, entidades públicas y unidades administrativas registrarán contable y presupuestalmente las operaciones financieras que realicen, con base en el sistema y política de registro establecidas, en un plazo no mayor de cinco días.
+Las dependencias, entidades públicas y unidades administrativas registrarán contable y presupuestalmente las operaciones financieras que realicen, con base en el Sistema Integral de Información Financiera y las políticas de registro establecidas, en un plazo no mayor de cinco días.
 
 Todo registro contable y presupuestal deberá estar soportado con los documentos comprobatorios originales, los que deberán permanecer bajo el resguardo y conservación de las dependencias, entidades públicas y unidades administrativas que ejercieron el gasto, a disposición del órgano técnico de fiscalización de la Legislatura y de los órganos de control interno, por un término de cinco años contados a partir del ejercicio presupuestal siguiente al que corresponda.
 
@@ -7960,6 +9640,26 @@ Se considera que el cumplimiento no es espontáneo en los siguientes casos:
 I. Cuando la omisión sea descubierta por las autoridades fiscales.
 
 II. La omisión haya sido corregida por el contribuyente, después que las autoridades fiscales hubiesen notificado una orden de vista domiciliaria o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes al cumplimiento de la obligación fiscal de que se trate.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 360 Bis.
+
+El aumento y disminución de multas será conforme a:
+
+I. Las multas se aumentarán:
+
+A). En un 15% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido.
+
+B). En un 50% del monto de las contribuciones omitidas o del beneficio indebido, cuando se usen documentos falsos; se utilicen documentos a nombre de un tercero sin su autorización para deducir su importe; se lleven dos sistemas de contabilidad o más con distinto contenido; o cuando mediante engaños o artimañas se viole la ley.
+
+C). En una cantidad igual al 50% del importe de las contribuciones no enteradas, si la infracción es continua o continuada.
+
+Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas, sólo se aplicará la que corrresponda a la infracción cuya multa sea mayor.
+
+II. Se disminuirán:
+
+En un 20% el monto de las contribuciones omitidas o del beneficio indebido siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los quince días siguientes a la notificación de la resolución en la que se impuso el importe de la misma.
 
 ### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -8116,3 +9816,15 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno"
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor el día primero de enero del año 2000.
+
+G.G. 29 DE DICIEMBRE DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 2001.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El personal y patrimonio al servicio del Instituto de capacitación Hacendaria, pasarán a formar parte del Instituto Hacendario del Estado de México, que se crea en términos de este Código.
+
+Los asuntos que se encuentren pendientes de resolver por parte del Instituto de Capacitación Hacendaria, serán asumidos por el Instituto Hacendario del Estado. Asimismo, se respetarán los derechos laborales de los trabajadores.
+
+En un término no mayor a noventa días se deberá expedir el Reglamento Interior del Instituto.
