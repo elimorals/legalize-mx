@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1936-07-30"
+last_updated: "1939-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1939.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
 
@@ -7283,6 +7283,8 @@ Las líneas y grados de parentesco se arreglarán por las disposiciones contenid
 
 ### CAPITULO VII. De la sucesión de la Beneficencia Pública
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 1939)</small>
+
 ###### Artículo 1465.
 
 Si a la muerte de los padres quedaren sólo hijos, la herencia se dividirá entre todos por partes iguales.
@@ -7413,7 +7415,9 @@ IV. Si concurre con ascendientes del autor de la herencia, tendrá derecho a la 
 
 V. Si concurre con hermanos o medios-hermanos, tendrá derecho a una tercera parte de los bienes que forman la sucesión.
 
-VI. Si el autor de la herencia no deja descendientes, ascendientes, cónyuge, hermanos ni medios- hermanos, la mitad de la herencia pertenece a la concubina y la otra mitad a la Beneficencia Pública del Estado de Michoacán.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 1939)</small>
+
+VI. Si el autor de la herencia no deja descendientes, ascendientes, cónyuge, hermanos ni medios hermanos, la mitad de la herencia pertenece a la concubina y la otra mitad al Fisco del Estado.
 
 En los casos a que se refieren las fracciones II, III y IV debe observarse lo dispuesto en los artículos 1483 y 1484, si la concubina tiene bienes.
 
@@ -7423,11 +7427,13 @@ Si al morir el autor de la herencia tenía varias concubinas en las condiciones 
 
 ###### Artículo 1493.
 
-A falta de todos los herederos llamados en los Capítulos anteriores, sucederá la Beneficencia Pública del Estado de Michoacán de Ocampo.
+A falta de todos los herederos llamados en los capítulos anteriores, sucederá el Fisco del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 1939)</small>
 
 ###### Artículo 1494.
 
-Cuando sea heredera a la Beneficencia Pública y entre lo que le corresponda existan bienes que no pueda adquirir conforme al artículo 27 de la Constitución de la República se venderán los bienes en subasta pública, antes de hacerse la adjudicación, aplicándose a la Beneficencia el precio que se obtuviere.
+Cuando sea heredero el Fisco del Estado, los bienes designados se venderán en los términos que señalan las disposiciones relativas del Código Fiscal o sus concordantes.
 
 ## TITULO PRIMERO. Fuentes de las obligaciones
 
@@ -13905,6 +13911,8 @@ VI. La responsabilidad civil en la parte que comprende el pago de los gastos de 
 
 ### CAPITULO IV. Del registro de las informaciones de dominio
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO 1 DEL DECRETO NUMERO 37, PUBLICADO EN EL P.O. DE 11 DE MAYO DE 1939, HASTA EN TANTO SE IMPRIMA UNA ORGANIZACION ADECUADA AL REGISTRO PUBLICO DE LA PROPIEDAD RAIZ EN EL ESTADO, SE SUSPENDE LA APLICACION DE LA PARTE FINAL DEL PRESENTE PARRAFO.</small>
+
 ###### Artículo 2821.
 
 Pagados los créditos antes mencionados, se pagarán:
@@ -14278,3 +14286,17 @@ R. Ordorica Villamar.
 El Secretario General de Gobierno,
 
 Lic. Francisco Ochoa.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 11 DE MAYO DE 1939.
+
+DECRETO NUMERO 36, POR EL QUE SE REFORMAN LOS ARTICULOS 1492, 1493 Y 1494 DEL CODIGO CIVIL PARA EL ESTADO DE MICHOACAN.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
+
+P.O. 11 DE MAYO DE 1939.
+
+DECRETO NUMERO 37, POR EL QUE SE SUSPENDE LA APLICACION DE LA PARTE FINAL DEL PRIMER PARRAFO DEL ARTICULO 2849 DEL CODIGO CIVIL PARA EL ESTADO DE MICHOACAN.
+
+Articulo Unico.- Esta Ley empezara a regir desde la fecha de su publicación en el Periódico Oficial.
