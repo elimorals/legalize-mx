@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-legislativo-8184"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-07-05"
-last_updated: "2001-12-25"
+last_updated: "2002-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 5 de julio de 1986.
 
@@ -397,9 +397,15 @@ El Congreso del Estado, a través de la Comisión de Hacienda y Crédito Públic
 
 ### CAPITULO I. DE LAS SESIONES
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2002)</small>
+
 ###### ARTICULO 49.
 
-Durante los períodos ordinarios el Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los negocios de su competencia, debiendo al efecto hacerlo cuando menos una vez por semana; lo acontecido en éstas será consignado en el libro de actas correspondiente y en el órgano oficial de difusión de la Legislatura.
+Durante los períodos ordinarios el Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los negocios de su competencia, debiendo al efecto hacerlo cuando menos una vez por semana; lo acontecido en éstas será consignado en el libro de actas correspondiente y en el Diario de los Debates, que será el órgano oficial impreso de difusión de la Legislatura.
+
+Habrá un ejemplar del Diario de los Debates por cada sesión que celebre el Pleno o, en los recesos, la Diputación Permanente. Cada ejemplar del Diario de los Debates contendrá el lugar y fecha en el cual se verifique la sesión, el sumario, el nombre de quien la preside, la transcripción del acta de la sesión anterior, la inserción de todos los documentos con que se de cuenta, los trámites y acuerdos que se dicten en los diferentes procedimientos parlamentarios y la versión a texto íntegro de las discusiones en el orden en el cual se desarrollen.
+
+La preparación y edición del Diario de los Debates será responsabilidad de la Oficialía Mayor, bajo la supervisión de la Mesa Directiva del Congreso o de la Diputación Permanente.
 
 ###### ARTICULO 50.
 
@@ -463,6 +469,10 @@ Serán sesiones del Colegio Electoral aquéllas en las que, previa declaración 
 
 Para que tengan validez las sesiones del Congreso, será necesario que concurran, cuando menos, la mitad más uno del número total de Diputados que integren la Legislatura.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2002)</small>
+
+En las sesiones del Congreso las Iniciativas y dictámenes podrán presentarse y darse a conocer por escrito o por medios magnéticos o electrónicos.
+
 ### CAPITULO II. DE LAS INICIATIVAS
 
 ###### ARTICULO 59.
@@ -525,9 +535,13 @@ Dictamen es la opinión que emiten las Comisiones referente a una Iniciativa, o 
 
 Las Comisiones a las que se turnen las Iniciativas, rendirán su Dictamen en los términos establecidos en el Reglamento.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2002)</small>
+
 ###### ARTICULO 68.
 
-Presentados los Dictámenes se les dará lectura y concluída la misma, el Congreso acordará si se procede a la discusión y aprobación o se produce una segunda lectura en la siguiente sesión.
+Presentados los Dictámenes se les dará lectura y concluida la misma, el Congreso acordará si se procede a la discusión y aprobación o se produce una segunda lectura en la siguiente sesión.
+
+A propuesta del Presidente de la Mesa Directiva podrá dispensarse la lectura de los dictámenes, siempre que los mismos hayan sido previamente distribuidos entre la totalidad de los integrantes del Pleno.
 
 ###### ARTICULO 69.
 
@@ -652,3 +666,17 @@ Las cuentas públicas relativos al ejercicio fiscal de 2002 y posteriores serán
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2002
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones del orden jurídico local que contravengan lo dispuesto en el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+La elaboración, emisión y distribución del Diario de los Debates correspondiente al presente año de ejercicio de la legislatura deberá concluirse para el mes de enero de 2003. La Oficialia Mayor constituirá la oficina responsable del mismo con base en el Presupuesto de Egresos autorizado al Poder Legislativo para el presente año.
