@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transito-del-estado-de-chihuahua-19595"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-31"
-last_updated: "2003-03-08"
+last_updated: "2004-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 31 de enero de 2001.
 
@@ -747,9 +747,11 @@ Si un vehículo sufriera alguna falla mecánica que obligue a quedarse estaciona
 
 Los conductores que por causa ajena a su voluntad detengan sus vehículos en la superficie de rodamiento de una carretera local, o alguna vía de circulación continua, procurarán ocupar el mínimo de superficie y dejarán una distancia de visibilidad suficiente en ambos sentidos.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
 ###### Artículo 70.
 
-Los oficiales de tránsito podrán ordenar que sean retirados al corralón de guardia, aquellos vehículos que estén siendo reparados en las vías públicas.
+Los Oficiales de Tránsito podrán ordenar que sean retirados al corralón de guardia, aquellos vehículos que estén siendo reparados en las vías públicas, excepto en los casos cuya urgencia sea evidente.
 
 ###### Artículo 71.
 
@@ -1014,3 +1016,7 @@ P.O. 30 DE NOVIEMBRE DE 2002.
 P.O. 8 DE MARZO DE 2003.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
