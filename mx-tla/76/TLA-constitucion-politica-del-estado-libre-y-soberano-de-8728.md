@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1961-01-04"
+last_updated: "1961-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1961.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -759,13 +759,27 @@ Del Ministerio Público.
 
 Se establece en el Estado la Institución del Ministerio Público, a cuyo cargo está velar por la exacta observancia de las Leyes de interés General. A este fin deberá ejercitar las acciones que correspondan contra los violadores de dichas Leyes, hacer efectivos los derechos concedidos al Estado e intervenir en los juicios que afecten a las personas a quienes la Ley otorgue especial protección.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1961)</small>
+
 ###### Art. 68.
 
-Desempeñarán la expresada Institución, un Procurador General de Justicia y Agentes del Ministerio Público. El Ejecutivo nombrará al Procurador y éste a los Agentes.
+Desempeñará la expresada Institución el Procurador General de Justicia, un Subprocurador y los Agentes del Ministerio Público y Subalternos necesarios de acuerdo con la división del Estado para la Administración de Justicia.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1961)</small>
 
 ###### Art. 69.
 
-Para ser Procurador ser requieren las mismas condiciones que para ser Magistrado. Para ser Agente, ser ciudadano mexicano en ejercicio de sus derechos y abogado con título oficial o poseer conocimientos en la ciencia del Derecho.
+Para ser Procurador General de Justicia en el Estado se requiere:
+
+I. Ser mexicano por nacimiento.
+
+II. Estar en pleno goce de sus derechos Civiles y Políticos.
+
+III. Tener cumplidos cuando menos 30 años de edad el día del nombramiento.
+
+IV. Ser abogado con Título Oficial, registrado en la Secretaría General de Gobierno del Estado y contar cuando menos con cinco años de práctica forence (sic).
+
+El Subprocurador, los Agentes del Ministerio Público y Subalternos deberán reunir los requisitos que para el desempeño del cargo le señale la Ley Orgánica de la Institución.
 
 ###### Art. 70.
 
@@ -939,9 +953,11 @@ Nadie puede ejercer a la vez en el Estado dos o más cargos de elección popular
 
 Todo cargo o empleo público es incompatible con cualquiera otro de la Federación o del Estado cuando por ambos se perciba sueldo, excepto el caso en que se trate de los Ramos de Educación Pública o Beneficencia.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1961)</small>
+
 ###### Art. 99.
 
-Ninguna licencia con goce de sueldo a funcionarios o empleados públicos podrá exceder de dos meses, ni de seis en cualquiera otro caso.
+Ninguna licencia con goce de sueldo íntegro a Funcionarios y Empleados Públicos, podrá exceder de dos meses, ni de seis en cualquier otro caso, cuando no exista causa justificada plenamente a juicio y bajo la responsabilidad de quien la concede.
 
 ###### Art. 100.
 
@@ -1106,3 +1122,7 @@ El presente Decreto surtirá sus efectos a partir de esta fecha.
 P.O. 4 DE ENERO DE 1961.
 
 El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1961.
+
+El presente Decreto surtirá sus efectos a partir de esta fecha.
