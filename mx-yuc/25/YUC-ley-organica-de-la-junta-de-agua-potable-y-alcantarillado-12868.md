@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-junta-de-agua-potable-y-alcantarillado-12868
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-01-08"
-last_updated: "1983-09-30"
+last_updated: "1983-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE OCTUBRE DE 1983.
 
 Ley publicada en el Diario Oficial el Viernes 8 de Enero de 1982.
 
@@ -115,11 +115,15 @@ I.- Coordinar las relaciones de la Junta con los Ayuntamientos de los Municipios
 
 II.- Las demás que le confiera la presente Ley y cualquier otra disposición legal relativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE OCTUBRE DE 1983)</small>
+
 ###### ARTICULO 7.
 
-Son funciones del Asesor Técnico y Supervisor:
+Son funciones del Asesor Técnico:
 
-I.- Vigilar los aspectos técnicos de la Junta.
+> <small>(REFORMADA, D.O. 29 DE OCTUBRE DE 1983)</small>
+
+I.- Asesorar en los aspectos técnicos a la Junta.
 
 II.- Las demás que le confiera la presente Ley y cualquier otra disposición legal relativa.
 
@@ -217,7 +221,9 @@ Los propietarios o poseedores de predios, negocios o establecimientos, deberán 
 
 Para los efectos de la presente Ley se consideran como usuarios a los propietarios o poseedores de predios, negocios o establecimienos (sic) a los que se les proporcionen los servicios de agua potable y alcantarillado o tengan obligación de hacer uso de los mismos.
 
-Los propietarios o poseedores de predios en los que se hayen (sic) negocios o establecimientos que reciban tales servicios, serán solidariamente responsables con los propietarios o poseedores de dichos negocios o establecimientos, del pago de cualquier adeudo por concepto de derechos o sanciones o por cualquier concepto que establezca la presente Ley.
+> <small>(REFORMADO, D.O. 29 DE OCTUBRE DE 1983)</small>
+
+Los propietarios o poseedores de predios en los que hubieren negocios o establecimientos que reciban tales servicios, serán solidariamente responsables con los propietarios o poseedores de dichos negocios o establecimientos del pago de cualquier adeudo por los servicios que la J.A.P.A.Y. presta, así como por las sanciones o cualquier otro concepto que establezca la presente Ley.
 
 > <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
 
@@ -229,9 +235,11 @@ Los propietarios o poseedores de predios, negocios o establecimientos que solici
 
 La verificación del consumo de agua en los predios, negocios o establecimientos que la reciban, se hará por medio de aparatos medidores que son propiedad de la Junta, siendo obligatoria su instalación; a este efecto, los cargos por el desalojo de las aguas negras serán considerados dentro del propio consumo de agua para su cobro. En caso de que no se haya instalado el medidor respectivo de agua potable, se causará bimestralmente y por adelantado la tarifa que la Junta determina, de acuerdo con los estudios que al efecto se realicen.
 
+> <small>(REFORMADO, D.O. 29 DE OCTUBRE DE 1983)</small>
+
 ###### ARTICULO 22.
 
-La prestación de los servicios de agua potable y alcantarillado, causarán derechos que deberán cubrirse bimestralmente conforme a las tarifas aprobadas por el H. Congreso del Estado.
+La prestación de los servicios de Agua Potable y Alcantarillado, deberán pagarse bimestralmente a la J.A.P.A.Y. conforme a las tarifas aprobadas por el Honorable Congreso del Estado
 
 ###### ARTICULO 23.
 
@@ -245,13 +253,17 @@ Los derechos de conexión y las tarifas por la prestación de los servicios de a
 
 Los servicios de agua potable y alcantarillado no podrán ser objeto de exenciones de ninguna clase, tanto en los que se preste a usuarios particulares como de los gobiernos y dependencias federales, estatales o municipales y entidades paraestatales, instituciones educativas y culturales o de asistencia pública o privada.
 
+> <small>(REFORMADO, D.O. 29 DE OCTUBRE DE 1983)</small>
+
 ###### ARTICULO 26.
 
-El pago de derechos por los servicios en donde exista medidor, deberá efectuarse en el plazo expresado en el recibo correspondiente, en las oficinas de la Junta o en las instituciones autorizadas al efecto.
+El pago de los servicios en donde exista medidor deberá efectuarse en el plazo expresado en el recibo correspondiente, en las oficinas de la Junta o en las Instituciones autorizadas al respecto.
+
+> <small>(REFORMADO, D.O. 29 DE OCTUBRE DE 1983)</small>
 
 ###### ARTICULO 27.
 
-Cuando no se pueda verificar el consumo de agua potable por desperfectos en el medidor de los que no sea responsable el usuario, los derechos por el servicio se cobrarán promediando el importe de los causados en los bimestres anteriores. Si por la reciente instalación del medidor sólo se ha causado derechos por un bimestre, éstos servirán de base para el cobro por el tiempo en el que el medidor permanezca en reparación.
+Cuando no se pueda verificar el consumo de Agua Potable por desperfectos en el medidor de lo que no sea responsable el usuario, el servicio se cobrará promediando el importe de los causados en los bimestres anteriores. Si por la reciente instalación del medidor sólo se ha determinado el consumo de un bimestre, éste servirá de base para el cobro por el tiempo en el que el medidor permanezca en reparación.
 
 ###### ARTICULO 28.
 
@@ -300,6 +312,10 @@ I.- A los que impidan al personal autorizado de la Junta la lectura o el examen 
 II.- A los funcionarios o empleados públicos que concedan licencias para construir sin que se les presente comprobante oficial de la Junta de haber quedado instalada la toma de agua y descarga de alcantarillado del predio sobre el que se vaya a construir, y
 
 III.- A los que cometan cualquier otra infracción a las disposiciones de esta Ley, no especificadas en las fracciones que anteceden.
+
+> <small>(ADICIONADA, D.O. 29 DE OCTUBRE DE 1983)</small>
+
+IV.- A quienes conecten bombas directamente a las líneas de conducción, distribución o tomas individuales para succionar el agua; sin menoscabo de fincarles las responsabilidades que correspondan por los daños que se ocasionen a las instalaciones o equipos de medición de la J.A.P.AY.
 
 > <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
 
@@ -357,13 +373,17 @@ III.- Se harán constar las observaciones que deseen hacer los interesados, así
 
 IV.- La orden de trabajo la firmarán los peritos del laboratorio y los interesados que concurran a la revisión, y si estos últimos no quisieren o no supieren firmar, se hará constar así.
 
+> <small>(REFORMADO, D.O. 29 DE OCTUBRE DE 1983)</small>
+
 ###### ARTICULO 46.
 
-Los créditos derivados por los derechos fijados en las tarifas por el consumo de agua potable, uso de alcantarillado, gastos hechos por cuenta de los usuarios, de sanciones pecuniarias, derechos de cooperación, recargos, honorarios y por cualquier otra obligación a cargo de los mismos, son equivalentes a créditos fiscales conforme al Código Fiscal del Estado de Yucatán y responderá de ellos el valor de los inmuebles servidos por el sistema.
+Los créditos derivados por el consumo de agua potable, uso de alcantarillado, gastos hechos por cuenta de los usuarios, de sanciones pecuniarias, derechos, cooperaciones, recargos, honorarios y por cualquier otra obligación a cargo de los mismos, son equivalentes a créditos fiscales conforme al código fiscal del Estado de Yucatán y responderá de ellos el valor de los inmuebles servidos por el sistema.
+
+> <small>(REFORMADO, D.O. 29 DE OCTUBRE DE 1983)</small>
 
 ###### ARTICULO 47.
 
-La falta de pago oportuno de los créditos a que se refiere el artículo anterior, así como la falta de pago oportuno de los servicios que presta la Junta, causarán recargo a razón del 4 por ciento bimestral acumultativo, que no podrá exceder del 100 por ciento del crédito principal, independientemente de los gastos de cobranza.
+La falta de pago oportuno de los créditos a que se refiere el Artículo anterior, así como la falta de pago oportuno de los servicios que presta la Junta, causarán recargo a razón del 5.25% mensual acumulativo, que no podrá exceder de cien por ciento del crédito principal, independientemente de los gastos de cobranza.
 
 ###### ARTICULO 48.
 
@@ -398,3 +418,7 @@ D.O. 30 DE SEPTIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" del Gobierno del Estado.
+
+D.O. 29 DE OCTUBRE DE 1983.
+
+UNICO.- Este Decreto, entrará en vigor el día siguiente al de su publicación, en el "Diario Oficial" del Gobierno del Estado.
