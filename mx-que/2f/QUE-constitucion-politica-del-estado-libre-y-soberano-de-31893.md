@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1985-12-19"
+last_updated: "1985-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 1985.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 1985.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -811,11 +811,11 @@ El Congreso, cuando lo crea oportuno establecerá los juicios por Jurados, en lo
 
 Del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
 
 ###### Art. 104.
 
-El Tribunal Superior de Jnsticia (Sic) se compondrá de tres Magistrados Propietarios y tres suplentes o Supernumerarios, que serán elegidos directamente por la Legislatura del Estado, dentro de los ocho días siguientes a su instalación. Funcionará en Sala Colegiada con los Magistrados Propietarios o con los Supernumerarios en su caso.
+El Tribunal Superior de Justicia se compondrá por lo menos de cinco Magistrados Propietarios y cinco Supernumerarios, que serán elegidos directamente por la Legislatura del Estado, dentro de los ocho días siguientes a su instalación. Funcionará en Pleno o en Salas con los Magistrados Propietarios, o con los Supernumerarios, en su caso.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
 
@@ -2022,3 +2022,17 @@ P.O. 19 DE DICIEMBRE DE 1985
 Artículo Primero.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, "La Sombra de Arteaga" y en los cartelones que señala el Artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos de lo previsto en el Artículo 163 de la Ley Suprema invocada.
 
 Artículo Segundo.- Aprobadas, en su caso, las Reformas Propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación en el Periódico Oficial del Estado, de la declaratoria que al respecto emita el Congreso del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1985
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", y en los cartelones que señala el Artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos previstos en el Artículo 163 de la Ley Suprema invocada.
+
+###### ARTICULO SEGUNDO.
+
+Aprobada, en su caso la reforma propuesta al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la publicación de la Declaratoria que al respecto emita el Congreso.
+
+###### ARTICULO TERCERO.
+
+Para los efectos de esta Ley, la Legislatura nombrará, en un término no mayor de quince días, a los dos magistrados Propietarios y a los dos Supernumerarios con los cuales se integrará el Tribunal Superior de Justicia, en la inteligencia de que durarán en su cargo hasta el 30 de septiembre de 1988, según lo previsto por el Artículo 105 de la Constitución Política del Estado.
