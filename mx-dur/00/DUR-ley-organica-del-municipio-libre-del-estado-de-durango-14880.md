@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-14880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-30"
-last_updated: "2003-02-13"
+last_updated: "2003-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de mayo de 1999.
 
@@ -73,9 +73,11 @@ LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
 La presente Ley regula el ejercicio de las atribuciones y deberes que corresponden a los municipios del Estado y establece las bases para la integración, organización y funcionamiento de los ayuntamientos y de la administración pública municipal, con sujeción a los mandatos establecidos por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 2º.
 
-El municipio, constituido por un conjunto de habitantes establecidos en un territorio, administrado por un ayuntamiento para satisfacer sus intereses comunes, es una entidad de derecho público investido de personalidad jurídica, con libertad interior, patrimonio propio y autonomía para su administración.
+El municipio, constituido por un conjunto de habitantes establecidos en un territorio, gobernado por un ayuntamiento para satisfacer sus intereses comunes, es una entidad de derecho público investido de personalidad jurídica, con libertad interior, patrimonio propio y autonomía para su administración.
 
 ### CAPÍTULO II. DE LA DIVISIÓN TERRITORIAL
 
@@ -173,7 +175,9 @@ II. Respetar y obedecer a las autoridades legalmente constituidas y cumplir las 
 
 III. Actuar con espíritu de solidaridad, auxiliando a las autoridades cuando sean legítimamente requeridos para ello, y contribuir a las obras de participación ciudadana;
 
-IV. Participar ante el ayuntamiento, en la elaboración del Bando de Policía y Buen Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general en el municipio, por sí o a través de las organizaciones sociales reconocidas por la ley. A este respecto, el ayuntamiento deberá resolver en un plazo no mayor de 90 días;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2003)</small>
+
+IV. Participar ante el ayuntamiento, en la elaboración del Bando de Policía y Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general en el municipio, por sí o a través de las organizaciones sociales reconocidas por la ley. A este respecto, el ayuntamiento deberá resolver en un plazo no mayor de 90 días;
 
 V. Inscribirse en los padrones expresamente determinados por las leyes federales, estatales o municipales, y proporcionar verazmente la información que se les solicite para el mismo fin;
 
@@ -193,15 +197,19 @@ XII. Participar con el ayuntamiento en la realización de acciones y en la ejecu
 
 XIII. Aportar las cuotas que le corresponda conforme a las disposiciones legales aplicables por los costos de la obra pública para uso común; y
 
-XIV. Las que determinen esta Ley, el Bando de Policía y Buen Gobierno, los reglamentos y las demás disposiciones que dicte el ayuntamiento.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2003)</small>
+
+XIV. Las que determinen esta Ley, el Bando de Policía y Gobierno, los reglamentos y las demás disposiciones que dicte el ayuntamiento.
 
 ## TÍTULO SEGUNDO. DEL GOBIERNO MUNICIPAL
 
 ### CAPÍTULO I. DE LA INTEGRACIÓN DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 15.
 
-El Municipio será administrado por un ayuntamiento electo popular y directamente, que se renovará totalmente cada tres años, en los términos que dispone el Código Estatal Electoral y no tendrá ningún superior jerárquico; los municipios son autónomos entre sí y no habrá ninguna autoridad intermedia entre éstos y los Poderes del Estado.
+El Municipio será gobernado por un ayuntamiento electo popular y directamente, que se renovará totalmente cada tres años, en los términos que dispone el Código Estatal Electoral y no tendrá ningún superior jerárquico; los municipios son autónomos entre sí y no habrá ninguna autoridad intermedia entre éstos y los Poderes del Estado.
 
 ###### Artículo 16.
 
@@ -281,7 +289,9 @@ V. Ratificar los nombramientos y remociones del secretario del ayuntamiento, del
 
 VI. Solicitar a los Gobiernos Federal o Estatal, según sea el caso, la expropiación de bienes por causa de utilidad pública;
 
-VII. Autorizar al Presidente Municipal para que pueda ausentarse del municipio cuando su ausencia exceda de diez y hasta por quince días;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2003)</small>
+
+VII. Autorizar al Presidente Municipal para que pueda ausentarse del municipio cuando requiera de más de diez y hasta por quince días;
 
 VIII. Revisar los actos ejecutados por sus miembros en ejercicio de sus funciones;
 
@@ -309,7 +319,9 @@ VI. Establecer en las disposiciones reglamentarias correspondientes el monto de 
 
 VII. Proponer ante el Congreso del Estado, iniciativas en materia de administración pública municipal;
 
-VIII. Formular y aprobar el Bando de Policía y Buen Gobierno con arreglo a las bases normativas que establezca la Legislatura del Estado o prorrogar el anterior, lo cual deberá realizarse durante el primer trimestre de su gestión, así como solicitar su publicación en el periódico oficial del gobierno del estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2003)</small>
+
+VIII. Formular y aprobar el Bando de Policía y Gobierno con arreglo a las bases normativas que establezca la Legislatura del Estado o prorrogar el anterior, lo cual deberá realizarse durante el primer trimestre de su gestión, así como solicitar su publicación en el periódico oficial del gobierno del estado.
 
 Tanto el Bando como la reglamentación que apruebe el ayuntamiento, podrá ser reformada, adicionada, derogada o abrogada en todo tiempo; y
 
@@ -357,17 +369,35 @@ IV. Aprobar la denominación de las calles, plazas, jardines o paseos públicos 
 
 V. Nombrar a la Junta de Acción Cívica y Cultural;
 
-VI. Formular, aprobar y administrar la zonificación y el Plan de Desarrollo Urbano Municipal, en los términos de las leyes federales y estatales relativas;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2003)</small>
+
+VI. Formular, aprobar y administrar la zonificación y Planes de Desarrollo Urbano Municipal y Regional, en concordancia con los planes generales de la materia, en los términos de las leyes federales y estatales relativas;
 
 VII. Participar en la creación y administración de las reservas territoriales del municipio;
 
-VIII. Controlar y vigilar, en coordinación con las autoridades competentes, la utilización del suelo de su territorio; intervenir en la regularización de la tenencia de la tierra y participar en la creación y administración de zonas de reservas ecológicas.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2003)</small>
+
+VIII. Autorizar, controlar y vigilar, en coordinación con las autoridades competentes, la utilización del suelo de su territorio; intervenir en la regularización de la tenencia de la tierra y participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
 IX. Celebrar convenios para la seguridad social de sus trabajadores, con las Instituciones que presten este servicio; y
 
 X. Acordar la organización de un Instituto del servicio civil de carrera, que tenga como finalidad capacitar al personal administrativo, en forma permanente, para ello, deberá promover la investigación constante y todo tipo de cursos y seminarios que hagan del empleado municipal, un servidor útil a la ciudadanía
 
-Y las demás que le confiere la Constitución General de la República, la particular del Estado y las demás leyes.
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2003)</small>
+
+XI. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial, en los términos de las leyes federales y estatales relativas.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2003)</small>
+
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero, del artículo 27 de la Constitución Federal, expedirá los reglamentos y disposiciones administrativas que fueren necesarios.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2003)</small>
+
+Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas, formen una continuidad demográfica, la federación, las entidades federativas y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada, el desarrollo de los mencionados centros, con apego a la ley de la materia.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
+Y las demás que le confiere la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las demás leyes.
 
 ###### Artículo 28.
 
@@ -637,9 +667,11 @@ El ayuntamiento podrá conceder licencia con goce de sueldo a sus integrantes y 
 
 ### CAPÍTULO I. DE LAS DEPENDENCIAS ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 61.
 
-Para el ejercicio de sus atribuciones, el ayuntamiento se auxiliará de las dependencias y entidades de la administración pública municipal que estarán bajo las órdenes del Presidente Municipal.
+Para el ejercicio de sus atribuciones, el ayuntamiento se auxiliará de las dependencias y entidades de la administración pública municipal que estarán bajo las órdenes del Presidente Municipal, sujetando su actuación a los principios de igualdad, publicidad, audiencia y legalidad.
 
 ###### Artículo 62.
 
@@ -721,7 +753,9 @@ XVI. Refrendar con su firma las iniciativas de ley o decreto, documentos, corres
 
 XVII. Proponer el nombramiento o remoción de los servidores públicos subalternos de la secretaría del ayuntamiento; y
 
-XVIII. Las demás que le señale esta Ley, el Bando de Policía y Buen Gobierno, los reglamentos de la administración municipal y las demás disposiciones legales relativas.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2003)</small>
+
+XVIII. Las demás que le señale esta Ley, el Bando de Policía y Gobierno, los reglamentos de la administración municipal y las demás disposiciones legales relativas.
 
 ### CAPÍTULO III. DEL TESORERO MUNICIPAL O SU EQUIVALENTE
 
@@ -747,7 +781,9 @@ IV. Dar cumplimiento a los convenios de coordinación fiscal que celebre el ayun
 
 V. Ejercer el presupuesto de egresos, llevar la contabilidad general, el control del ejercicio presupuestal y efectuar los pagos de acuerdo a los programas y presupuestos aprobados;
 
-VI. Ejecutar los programas que le corresponden, en el contexto del Plan Municipal de Desarrollo y del Bando de Policía y Buen Gobierno; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2003)</small>
+
+VI. Ejecutar los programas que le corresponden, en el contexto del Plan Municipal de Desarrollo y del Bando de Policía y Gobierno; y
 
 VII. Las demás que le señale esta ley, los reglamentos municipales y los ordenamientos legales relativos.
 
@@ -851,9 +887,11 @@ n) Auxiliar a la comisión de hacienda o su equivalente en el cumplimiento de su
 
 ### CAPÍTULO VI. DE LAS AUTORIDADES AUXILIARES DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 83.
 
-Las autoridades auxiliares del ayuntamiento son las juntas municipales, las jefaturas de cuartel y de manzana; su comprensión territorial se determinará en el Bando de Policía y Buen Gobierno.
+Las autoridades auxiliares del ayuntamiento son las juntas municipales, las jefaturas de cuartel y de manzana; su comprensión territorial se determinará en el Bando de Policía y Gobierno.
 
 ###### Artículo 84.
 
@@ -987,9 +1025,11 @@ Para dirimir las controversias que se susciten entre la administración municipa
 
 El titular del Juzgado deberá reunir los requisitos establecidos en el artículo 99 de la Constitución Política del Estado. Su nombramiento será propuesto por el Presidente Municipal, debiendo ser ratificado por el ayuntamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 101.
 
-El Juzgado Administrativo Municipal, conocerá de las conductas que presuntamente constituyan faltas o infracciones a las disposiciones normativas municipales e impondrá las sanciones correspondientes mediante un procedimiento breve y simplificado que califique la infracción, mismo que deberá estar considerado en el Bando de Policía y Buen Gobierno.
+El Juzgado Administrativo Municipal, conocerá de las conductas que presuntamente constituyan faltas o infracciones a las disposiciones normativas municipales e impondrá las sanciones correspondientes mediante un procedimiento breve y simplificado que califique la infracción, mismo que deberá estar considerado en el Bando de Policía y Gobierno.
 
 Será función del Juzgado Administrativo, conocer y resolver los recursos que interpongan los particulares respecto de las determinaciones de las autoridades municipales.
 
@@ -997,7 +1037,9 @@ Será función del Juzgado Administrativo, conocer y resolver los recursos que i
 
 Al Juez Administrativo Municipal, corresponderá:
 
-I. Conocer de las infracciones al (sic) Bando de Policía y Buen Gobierno y demás ordenamientos jurídicos municipales respectivos;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2003)</small>
+
+I. Conocer de las infracciones al Bando de Policía y Gobierno y demás ordenamientos jurídicos municipales respectivos;
 
 II. Resolver sobre la responsabilidad de los presuntos infractores;
 
@@ -1015,13 +1057,19 @@ VIII. Conducir administrativamente las labores del juzgado, para lo cual el pers
 
 IX. Las demás atribuciones que le confiere la legislación municipal.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 103.
 
-La estructura, competencia, funcionamiento y procedimiento del Juzgado Administrativo, así como lo relativo a los recursos, deberán establecerse de manera simplificada en el Bando de Policía y Buen Gobierno, respetando las garantías individuales establecidas en la Constitución federal y en la particular del Estado.
+La estructura, competencia, funcionamiento y procedimiento del Juzgado Administrativo, así como lo relativo a los recursos, deberán establecerse de manera simplificada en el Bando de Policía y Gobierno, respetando las garantías individuales establecidas en la Constitución federal y en la particular del Estado.
 
 ###### Artículo 104.
 
 El Juez Administrativo Municipal, dentro del ámbito de su competencia, cuidará estrictamente que se respete la dignidad y los derechos humanos de los infractores; por lo tanto, impedirá todo maltrato físico, psicológico o moral, cualquier tipo de incomunicación, exacción o coacción en agravio de las personas presentadas o que comparezcan ante él; en caso contrario, incurrirá en responsabilidad.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2003)</small>
+
+El Juez Administrativo Municipal sujetará su actuación a los principios de igualdad, publicidad, audiencia y legalidad.
 
 ###### Artículo 105.
 
@@ -1091,17 +1139,21 @@ En caso de que la resolución judicial sea absolutoria, concluirá la suspensió
 
 Los consejos municipales tendrán las mismas atribuciones que para los ayuntamientos se establecen en la presente Ley.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 114.
 
-El Congreso del Estado resolverá la forma en que deban ejercerse las funciones que corresponden al ayuntamiento por el consejo municipal.
+El Congreso del Estado conformará el Consejo Municipal de modo tal que su funcionamiento, competencia y facultades sean equiparables a un ayuntamiento.
 
 ###### Artículo 115.
 
 Los miembros de un consejo municipal deberán cumplir con los requisitos que establecen la Constitución Política del Estado y la legislación electoral vigente, para ser candidatos a cargos municipales de elección popular directa.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 116.
 
-Cuando el Congreso del Estado declare en los términos de la presente Ley la desaparición de un ayuntamiento, designará de entre los vecinos del municipio que cumplan con los requisitos, un consejo municipal de igual número de miembros que el ayuntamiento desaparecido.
+Cuando el Congreso del Estado declare en los términos de la presente Ley la desaparición de un ayuntamiento, o cuando se desintegre por la falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes, ni que se celebren nuevas elecciones, designará de entre los vecinos del municipio que cumplan con los requisitos, un consejo municipal de igual número de miembros que el ayuntamiento desaparecido.
 
 ###### Artículo 117.
 
@@ -1121,11 +1173,15 @@ La designación de los consejos municipales o de algunos de sus miembros, podrá
 
 ## TÍTULO SEXTO. DISPOSICIONES JURÍDICAS DEL AYUNTAMIENTO
 
-### CAPÍTULO I. DEL BANDO DE POLICÍA Y BUEN GOBIERNO
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2003)</small>
+
+### CAPÍTULO I. DEL BANDO DE POLICÍA Y GOBIERNO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2003)</small>
 
 ###### Artículo 121.
 
-Las normas que dicte el ayuntamiento y que sean consignadas en el Bando de Policía y Buen Gobierno, deberán referirse cuando menos a los siguientes ramos:
+Las normas que dicte el ayuntamiento y que sean consignadas en el Bando de Policía y Gobierno, deberán referirse cuando menos a los siguientes ramos:
 
 I.- En el ramo de Gobernación y Seguridad Pública:
 
@@ -1325,9 +1381,25 @@ III. Los derechos y obligaciones creados legítimamente en su favor; y
 
 IV. Los demás bienes, derechos o aprovechamientos que señalen las leyes y otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 132.
 
-La hacienda pública municipal, se constituirá por los ingresos que señala la Ley de Hacienda de los Municipios del Estado y las respectivas leyes anuales de ingresos, y de acuerdo a los montos que apruebe el Congreso del Estado. Además, se integrará con aquellos ingresos que determinen las disposiciones legales federales y estatales y los convenios respectivos.
+La Hacienda Pública Municipal, se forma de impuestos, derechos, productos, aprovechamientos, participaciones fondos de aportaciones, financiamientos, los rendimientos de los bienes que le pertenezcan, y en general, por las contribuciones y otros ingresos que la Legislatura del Estado establezca a su favor. En consecuencia los recursos que integran la Hacienda Pública Municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quienes ellos autoricen conforme a la Ley. En todo caso:
+
+a).- Percibirán las contribuciones que determinen las leyes de la materia, sobre la propiedad inmobiliaria, de su fraccionamiento división, consolidación, traslación y mejora, así como las que tenga por base el cambio de valor de los inmuebles.
+
+Los Ayuntamientos podrán celebrar convenios con el Estado para que este se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+
+Las participaciones federales, que serán cubiertas por la federación a los municipios por conducto del gobierno del Estado, con apego a las bases, montos y plazos que anualmente se determinen en la Legislación correspondiente.
+
+La dependencia que tenga a su cargo el manejo de los fondos públicos estatales, está obligada a publicar en los periódicos de mayor circulación en la localidad, los informes mensuales detallados de las participaciones que en ese lapso correspondan a cada municipio de la entidad;
+
+b).- Los ingresos derivados de la prestación de servicios públicos a cargo del ayuntamiento, así como los productos y aprovechamientos que le correspondan.
+
+La Legislatura del Estado, tendrá facultades para establecer las contribuciones a las que se refiere el presente artículo, así como los ingresos derivados de la prestación de servicios públicos a cargo del ayuntamiento, además los productos y aprovechamientos que le correspondan. Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, a favor de persona o institución alguna.
+
+Sólo los bienes del dominio público de la Federación, el Estado y de los municipios, estarán exentos de las contribuciones a que se refieren los incisos a) y c) del presente artículo, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título para fines administrativos o propósitos distintos a los de su objeto público.
 
 ###### Artículo 133.
 
@@ -1336,6 +1408,10 @@ Las leyes de ingresos municipales, tendrán vigencia anual y regirán el ejercic
 ###### Artículo 134.
 
 Los ayuntamientos deberán presentar anualmente al Congreso del Estado y a mas tardar el último día de octubre, para su examen y aprobación, sus proyectos de presupuesto anual de ingresos del año siguiente.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2003)</small>
+
+Los ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras, y las tablas y valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
 ###### Artículo 135.
 
@@ -1347,9 +1423,11 @@ La vigilancia de la hacienda pública de los municipios compete al Presidente Mu
 
 ### CAPÍTULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 137.
 
-Los presupuestos de egresos municipales serán los que aprueben los ayuntamientos respectivos, para sufragar, desde el 1o. de enero hasta el 31 de diciembre del ejercicio fiscal correspondiente, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias directas que conforman la administración pública municipal.
+Los presupuestos de egresos municipales serán los que aprueben los ayuntamientos respectivos, para sufragar, desde el 1o. de enero hasta el 31 de diciembre del ejercicio fiscal correspondiente, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias directas que conforman la administración pública municipal, con base en los ingresos determinados en su ley.
 
 ###### Artículo 138.
 
@@ -1425,9 +1503,13 @@ Los bienes del dominio público municipal son inalienables e imprescriptibles y 
 
 Las concesiones sobre esta clase de bienes, se otorgarán, extinguirán y revocarán en la forma y términos que determine esta Ley.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2003)</small>
+
 ###### Artículo 151.
 
-Cuando un bien inmueble propiedad del municipio, vaya a incorporarse. al dominio público, por estar comprendido dentro de las disposiciones de esta Ley, el ayuntamiento por conducto de su Presidente Municipal, deberá emitir la declaratoria de incorporación correspondiente, la que se publicará por una sola vez en la gaceta municipal o en el periódico oficial del gobierno del estado, y se inscribirá en el registro público de la propiedad que corresponda para que surta efectos contra terceros. La incorporación surtirá efectos a partir de la publicación de la declaratoria. Igual declaratoria de incorporación deberá emitirse, cuando un bien, de hecho, esté destinado al uso común, a un servicio público o a alguna de las actividades que equiparen a éstos.
+Son propiedad del Municipio los bienes inmuebles ubicados dentro de su jurisdicción territorial y que no pertenezcan a la Federación, al Estado o a los particulares; y los bienes muebles que adquiera o que por cualquier otro concepto pasen a ser parte de su patrimonio. Su enajenación se sujetará a lo dispuesto por la fracción XXVII del artículo 55 de la Constitución Política del Estado de Durango.
+
+Cuando un bien inmueble propiedad del municipio, vaya a incorporarse al dominio público, por estar comprendido dentro de las disposiciones de esta Ley, el ayuntamiento por conducto de su Presidente Municipal, deberá emitir la declaratoria de incorporación correspondiente, la que se publicará por una sola vez en la gaceta municipal o en el periódico oficial del gobierno del estado, y se inscribirá en el registro público de la propiedad que corresponda para que surta efectos contra terceros. La incorporación surtirá efectos a partir de la publicación de la declaratoria. Igual declaratoria de incorporación deberá emitirse, cuando un bien, de hecho, esté destinado al uso común, a un servicio público o a alguna de las actividades que equiparen a éstos.
 
 ###### Artículo 152.
 
@@ -1564,6 +1646,10 @@ Cumplidas las condiciones a que se refiere el artículo anterior, el ayuntamient
 Los ayuntamientos organizarán y reglamentarán la administración, funcionamiento y conservación de sus servicios públicos, considerándose como tales los señalados en el artículo 109 de la Constitución Política Local.
 
 Podrán ser prestados con el concurso del Estado en asociación y coordinación con otros municipios.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2003)</small>
+
+Los municipios del Estado, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que le correspondan. En este caso y tratándose de la asociación de municipios locales, con los de otras entidades federativas, se requerirá que la Legislatura emita la aprobación correspondiente.
 
 ###### Artículo 168.
 
@@ -1970,3 +2056,7 @@ EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
 P.O. 13 DE FEBRERO DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2003.
+
+ÚNICO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
