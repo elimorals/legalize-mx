@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-10-1996-del-pleno-del-consejo-de-la-6304
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-05-16"
-last_updated: "1996-05-16"
+last_updated: "1997-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63048&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-05-09"
 
 ACUERDO GENERAL NUMERO 10/1996, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACION, DENOMINACION, JURISDICCION TERRITORIAL, COMPETENCIA Y FECHA DE INICIACION DE FUNCIONAMIENTO DEL NUEVO JUZGADO DE DISTRITO EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN LA CIUDAD DE XALAPA; A LAS REGLAS DE TURNO DE DICHO JUZGADO Y EL EXISTENTE EN LA MENCIONADA CIUDAD; AL SISTEMA DE DISTRIBUCION DE ASUNTOS ENTRE AMBOS JUZGADOS Y A LA NUEVA DENOMINACION DE LOS DEMAS JUZGADOS DE DISTRITO EN EL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 1997.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 16 de mayo de 1996.
 
@@ -89,7 +89,9 @@ NOVENO.- Se modifica el citado Acuerdo 1/1993, en el número 3 de su apartado X.
 
 "2.- ...
 
-3.- Juzgado Octavo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL NUMERO 11/1997, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE ABRIL DE 1997)</small>
+
+3.- Juzgados Octavo y Noveno de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos.
 
 DECIMO.- Se modifican los apartados X, XI, XII y XIII del punto TERCERO, del propio Acuerdo 1/1993, para quedar en los términos siguientes:
 
@@ -101,7 +103,9 @@ XI.- Los Juzgados Tercero, Cuarto y Quinto de Distrito en el Estado de Veracruz,
 
 XII.- Los Juzgados Sexto y Séptimo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Tuxpan, ejercerán jurisdicción...;
 
-XIII.- El Juzgado Octavo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerá jurisdicción...;.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL NUMERO 11/1997, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE ABRIL DE 1997)</small>
+
+XIII.- Los Juzgados Octavo y Noveno de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerán jurisdicción...;.
 
 UNDECIMO.- En el Acuerdo XIX/94 del Pleno de la Suprema Corte de Justicia de la Nación, de seis de septiembre de mil novecientos noventa y cuatro, se determinó la nueva sede de los órganos jurisdiccionales con residencia en Veracruz, Veracruz; se fijó la fecha de inicio de funciones del actual Juzgado Cuarto de Distrito en el Estado; y, se establecieron las reglas de distribución de asuntos entre los juzgados de distrito con residencia en Boca del Río. Por tanto, se modifica el mencionado Acuerdo solamente en cuanto a las denominaciones de los juzgados de distrito a que el mismo alude, conforme a los términos precisados en el presente Acuerdo.
 
@@ -128,3 +132,15 @@ CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cues
 QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
 
 EL LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 10/1996, relativo a la creación, denominación, jurisdicción territorial, competencia y fecha de iniciación de funcionamiento del nuevo juzgado de Distrito en el estado de Veracruz, con residencia en la ciudad de Xalapa; a las reglas de turno de dicho juzgado y el existente en la mencionada ciudad; al sistema de distribución de asuntos entre ambos juzgados y a la nueva denominación de los demás juzgados de Distrito en el estado de Veracruz, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de nueve de mayo de mil novecientos noventa y seis, por unanimidad de votos de los señores Consejeros: Presidente ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Hilda Cecilia Martínez González, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a trece de mayo de mil novecientos noventa y seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE ABRIL DE 1997.
+
+PRIMERO.- Este Acuerdo entrará en vigor el veintiuno de abril de mil novecientos noventa y siete.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, así como el Acuerdo General número 10/1996 del Pleno del Consejo de la Judicatura Federal, de nueve de mayo de mil novecientos noventa y seis, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
