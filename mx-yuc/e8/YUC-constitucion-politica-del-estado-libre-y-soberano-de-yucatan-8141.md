@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1988-09-09"
+last_updated: "1988-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE SEPTIEMBRE DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE SEPTIEMBRE DE 1988.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -395,9 +395,9 @@ V.- dar, interpretar y derogar Leyes y Decretos;
 
 VI.- Examinar, y en su caso aprobar, la cuenta pública del Ejercicio. Aprobar la Ley de Ingresos y el Presupuesto de Egresos que debe presentarle el Ejecutivo en los términos que establece la fracción XIV del Artículo 55 de esta Constitución e imponer las contribuciones necesarias para cubrirlo, a más tardar el treinta de diciembre de cada año;
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADA, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
-VII.- Señalar las contribuciones y otros ingresos que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades de los municipios; determinar anualmente las bases, montos y plazos con que sean cubiertas las participaciones federales a los municipios;
+VII.- Señalar las contribuciones y otros ingresos que deban formar la hacienda municipal, procurando sean suficientes a cubrir las necesidades de los municipios, determinar anualmente, las bases, montos y plazos con que serán cubiertas las participaciones federales a los municipios; y revisar y aprobar en su caso las cuentas públicas municipales;
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
@@ -565,21 +565,29 @@ XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuere
 
 XLIV.- Suspender o revocar, según el caso y, por acuerdo de las dos terceras partes de sus integrantes, el mandato conferido al Presidente Municipal y/o a otro u otros regidores o miembros de los Ayuntamientos en lo particular ajustándose a cualesquiera de las causas previstas en la Ley de la materia, procediendo de inmediato a la designación del o de los substitutos correspondientes; se establece como requisito previo e indispensable para el ejercicio de las atribuciones señaladas en esta fracción y en la Fraccin (sic) XL procedente, que él o los regidores afectados, ante la Comisión Permanente de Legislación, puntos constitucionales y Gobernación del propio Congreso, tengan oportunidad suficiente para rendir las pruebas y ofrecer los alegatos que a sus intereses convengan, cuando las circunstancias así lo permitan a juicio de la mencionada comisión permanente;
 
-> <small>(ADICIONADA, D.O. 2 DE FEBRERO 1984)</small>
+(REFORMADO PRIMER PARRAFO, D.O. 15 DE SEPTIEMBRE DE 1988) (F. DE E., D.O., 22 DE SEPTIEMBRE DE 1988)
 
-XLV.- Designar en los casos de suspensión o de declaración de desaparición de un Ayuntamiento en su totalidad, a tres personas que necesariamente deberán ser ciudadanos y vecinos de esta Entidad Federativa, para integrar un Consejo Municipal, éste, se hará cargo del desempeño de las funciones del Ayuntamiento en cuestión, en una cualesquiera de las siguientes formas:
+XLV.- Designar en los casos de suspensión o de declaración de desaparición de un Ayuntamiento en su totalidad, a tres personas que necesariamente deberán ser ciudadanos y vecinos del Municipio de que se trate, para integrar un Concejo Municipal, que se hará cargo del desempeño de las funciones del Ayuntamiento en cuestión, en una cualesquiera de las siguientes formas:
 
-a).- Provisional, si su designación se lleva a cabo dentro del lapso de los primeros dieciocho meses de ejercicio legal del Ayuntamiento al que substituya, mientras se hacen nuevas elecciones y toman posesión de sus cargos los electos y,
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+
+a).- Provisional si su designación se lleva a cabo dentro del lapso de los primeros seis meses del ejercicio legal del Ayuntamiento al que substituya, mientras se hacen nuevas elecciones y toman posesión de sus cargos los electos y,
+
+> <small>(ADICIONADO, D.O. 2 DE FEBRERO 1984)</small>
 
 b).- Definitiva si su nombramiento se realiza con posterioridad al mencionado lapso. En ambos casos y mientas durante en su encargo, los concejos municipales estarán investidos de personalidad jurídica, para todos los efectos legales consiguientes y serán la autoridad que regirá en los Municipios que se designen, con el mismo caácter (sic) legal que los Ayuntamientos respectivos y (sic),
 
 > <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1988)</small>
 
-XLVI.- Formular el proyecto de Presupuesto de Egresos del Poder Legislativo, atendiendo las posibilidades del ingreso y gasto Público del Estado, y remitirlo al titular del Poder Ejecutivo a más tardar el treinta de octubre de cada año, a fin de que éste considere su incorporación al proyecto de Presupuesto de Egresos del Estado; y
+XLVI.- Formular el proyecto de Presupuesto de Egresos del Poder Legislativo, atendiendo las posibilidades del ingreso y gasto Público del Estado, y remitirlo al titular del Poder Ejecutivo a más tardar el treinta de octubre de cada año, a fin de que éste considere su incorporación al proyecto de Presupuesto de Egresos del Estado; y (sic)
 
-> <small>(ADICIONADA, D.O. 26 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADA, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
-XLVII.- Las demás que le confiera esta Constitución.
+XLVII.- Determinar los servicios públicos que tendrán a su cargo los municipios según las condiciones territoriales y socioeconómicas de los mismos, así como su capacidad administrativa y financiera;
+
+> <small>(ADICIONADA, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
+
+XLVIII.- Las demás que le confiera esta Constitución.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1077,9 +1085,7 @@ La imposición de las penas es propia y exclusiva de la autoridad judicial. La p
 
 De los Municipios del Estado.
 
-> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1978)</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 74.
 
@@ -1121,135 +1127,155 @@ VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendie
 
 ###### Artículo 76.
 
-El Estado de Yucatán adopta para su régimen interior la forma de Gobierno Republicano, democrático, representativo y popular y tendrán como base de su división territorial y de su organización política y administrativa los municipios, regidos por ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermedia; los Ayuntamientos se compondrán de concejales o regidores que serán electos en su totalidad por votación popular directa, cada tres años, en la forma que la Ley establece. Por cada regidor propietario se elegirá un suplente uno de los regidores será electo con el carácter de Presidente. En las elecciones municipales participarán las mujeres con igualdad de condiciones que los varones, con el derecho de votar y ser votadas.
+El Estado de Yucatán adopta para su régimen interior la forma de gobierno republicano, democrático, representativo y popular y tendrá como base de su división territorial y de su organización política y administrativa los municipios, administrados por ayuntamientos de elección popular directa sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermedia, conforme a las bases siguientes:
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+I.- Los ayuntamientos entrarán en funciones el primer día del mes de enero siguiente a las elecciones y durarán en su encargo tres años;
 
-Para ser regidor se requiere:
+II.- Se adopta el principio de representación proporcional como complemento del sistema de mayoría relativa para la elección de los integrantes de los ayuntamientos. Las leyes respectivas determinarán el porcentaje de la votación que deberán obtener los partidos políticos, así como las fórmulas electorales y procedimientos conforme a los que serán asignadas las regidurías de representación proporcional;
 
-I.- Ser ciudadano mexicano;
+III.- Las leyes correspondientes determinarán el número de regidores de mayoría relativa y de representación proporcional de acuerdo con la cifra de habitantes del Municipio.
 
-II.- Haber residido en el Municipio como vecino del mismo cinco años inmediatamente anteriores al día de la elección;
+Por cada propietario se elegirá un suplente. Los regidores de mayoría relativa y los de representación proporcional, tendrán los mismos derechos y obligaciones;
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+IV.- Uno de los regidores será electo con el carácter de Presidente Municipal y ejercerá las funciones del Ejecutivo Municipal. Los demás regidores desempeñarán las funciones que la ley les señale;
 
-III.- Tener dieciocho años cumplidos el día de la elección, con excepción del regidor Presidente, que deberá tener veinticinco años;
+V.- Los presidentes municipales, regidores y síndicos de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramientos o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
-IV.- Estar en pleno goce de sus derechos civiles y políticos, y
+VI.- Los ayuntamientos para la realización de sus fines asignarán los ramos de su administración a comisiones integradas por uno o más regidores y contarán con un sector paramunicipal constituido en los términos que establezcan las leyes respectivas; y
 
-V.- Saber leer y escribir.
+VII.- La Ley establecerá los procedimientos para suplir las faltas temporales y definitivas de los regidores. Dicho cargo sólo es renunciable por las causas establecidas en la Ley Orgánica de los Municipios del Estado.
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
-
-El cargo de regidor es incompatible con cualquier otro de la Federación o del Estado. Las falta (sic) de los regidores propietarios serán cubiertas por sus suplentes y, a falta de éstos, por los suplentes que al efecto designe el Presidente del Ayuntamiento y, las del Presidente y Secretario lo serán por designación a mayoría de votos del cuerpo edilicio.
-
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
-
-Los Presidentes Municipales y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio. En ausencia del electo sólo podrán ejercer las funciones de Presidente, el concejal o regidor que haya cumplido veinticinco años de edad el día de la elección.
-
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
-
-Se adopta el sistema de mayoría relativa y de representación proporcional para la elección de los Ayuntamientos, con apego a las normas siguientes y a lo que en particular disponga la Ley.
-
-A) Los Ayuntamientos se integrarán de la siguiente manera:
-
-Por un Presidente Municipal y el número de Regidores que de acuerdo a la cifra total de habitantes del municipio correspondiente, disponga la Ley Electoral del Estado.
-
-Además de los componentes ya mencionados, los Ayuntamientos se integrarán con regidores de representación proporcional, que se asignarán en la forma y términos previstos por la Ley Electoral respectiva.
-
-B) Para acreditar regidores propietarios de representación proporcional y sus suplentes, los partidos registrados deberán obtener un mínimo del 15% de la votación total en el Municipio;
-
-C) Los partidos políticos podrán acreditar el número de regidores propietarios de representación proporcional, que determine la Ley de Organizaciones Políticas y Procesos Electorales del Estado de Yucatán;
-
-D) Los regidores de mayoría relativa y los de representación proporcional tendrán los mismos derechos y obligaciones.
+> <small>(ADICIONADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 77.
 
-(DEROGADO, D.O. 2 DE FEBRERO 1984)
+Para ser Regidor se requiere:
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+A) Ser ciudadano mexicano por nacimiento en el ejercicio de sus derechos civiles y políticos;
+
+B) Haber residido en el Municipio como vecino del mismo cinco años inmediatamente anteriores al día de la elección. De ser nativo del propio Municipio este plazo deberá reducirse a tres años;
+
+C) Tener dieciocho años cumplidos el día de la elección, con excepción del Regidor Presidente que deberá tener veintiún años;
+
+D) Saber leer y escribir;
+
+E) No ser ministro de algún culto religioso;
+
+F) No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia, ni Diputado al Congreso del Estado durante el año calendario correspondiente a la elección, a menos que se separe de sus funciones noventa días antes de la misma;
+
+G) No estar en servicio activo en el Ejército Nacional, ni tener el mando de la corporación policíaca o gendarmería que corresponda al Municipio en que pretenda su elección, cuando menos durante los noventa días anteriores a ella; y
+
+H) No haber sido sentenciado por la comisión de delitos intencionales.
+
+El cargo de Regidor es incompatible con cualquier otro cargo, comisión o empleo público de la Federación o del Estado;
+
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 78.
 
-Las cuestiones que surjan entre los municipios respecto de sus límites territoriales, la formación de nuevos municipios, la modificación de los ya existentes y la supresión de los que ya no reúnan los requisitos legales para su existencia, serán resueltas en los términos que establece el artículo 30 de esta Ley,
+En los diversos centros de población del Municipio, se designarán, de acuerdo con la Ley correspondiente las autoridades auxiliares municipales que representen al Ayuntamiento.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 79.
 
-Son atribuciones de los Ayuntamientos:
+Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes respectivas basadas en lo dispuesto en el artículo 123 de la Constitución Federal y sus disposiciones reglamentarias.
 
-I.- acordar sobre todos los asuntos que conciernan exclusivamente al municipio;
-
-(ADICIONADA, D.O. 2 DE FEBRERO 1984) (F. DE E., D-O. 2 DE MARZO DE 1984)
-
-II.- formular, aprobar, y administrar la zonificación y planes de Desarrollo Urbano Municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y, participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad con lo que establece el párrafo tercero del artículo 27 Constitucional, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
-
-III.- formar sus presupuestos de ingresos, sin otra limitación que la de hacerlos compatibles con el sistema tributario del Estado, elevándolos al Congreso para que éste los apruebe y decrete;
-
-IV.- tomar dinero prestado para las necesidades públicas o para una obra de utilidad general, siempre que se obtenga en cada caso la previa aprobación del Congreso;
-
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1961)</small>
-
-V.- nombrar y remover a todos los empleados de su dependencia y cubrir los emolumentos de los jueces de Paz del Municipio;
-
-VI.- hacer uso del derecho de iniciar Leyes;
-
-> <small>(REFORMADA, D.O. 31 DE MARZO DE 1988)</small>
-
-VII.- Organizar un sistema de Planeación Integral del Desarrollo Municipal, con la participación democrática de los grupos sociales; y
-
-> <small>(REFORMADA, D.O. 31 DE MARZO DE 1988)</small>
-
-VIII.- las demás que les confieren las Leyes.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 80.
 
-Los municipios administrarán libremente su Hacienda, la cual se formará de las contribuciones que señale el Congreso y que en todo caso serán las suficientes para atender a sus necesidades.
+Todo servidor público de los ayuntamientos cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de las faltas, violaciones u omisiones en que incurra en ejercicio de los mismos, en los términos del Título Noveno de esta Constitución.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 81.
 
-Quedan investidos los Ayuntamientos de personalidad jurídica para todos los efectos legales.
+La Ley de la materia establecerá los requisitos para la creación y fusión de municipios, modificación de su territorio, cambios de cabeceras municipales, los que serán resueltos por la Legislatura del Estado, en los términos del Artículo 30 de esta Constitución la que emitirá su resolución al respecto. El reconocimiento de nuevos centros de población y declaración de desaparición de localidades del Municipio, serán facultades del Ayuntamiento.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 82.
 
-Los Ayuntamientos no podrán hacer exención de contribuciones a ningún ciudadano o empresa, bajo ningún pretexto.
+Las facultades y competencias del Municipio Libre, que se establezcan en las leyes respectivas y los reglamentos municipales, se sujetarán a las bases normativas siguientes:
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+I.- Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio, conforme a la Ley;
+
+II.- Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que le pertenezcan, así como de los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones y todos los demás ingresos fiscales que la Legislatura establezca en su favor, y en todo caso:
+
+a) Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
+
+Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de estas contribuciones.
+
+b) Las participaciones federales, que anualmente se determinen.
+
+c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+III.- Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Solo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de dichas contribuciones
+
+IV.- Para el cobro de sus percepciones fiscales los ayuntamientos tendrán la facultad económico-coactiva aplicando el procedimiento administrativo de ejecución en los términos que establezca el Código Fiscal del Estado;
+
+V.- Los presupuestos de egreso (sic)serán aprobados por los ayuntamientos con base en sus ingresos disponibles;
+
+VI.- Para la aprobación de la Ley de Ingresos de los ayuntamientos, éstos enviarán sus proyectos a la Legislatura local.
+
+> <small>(F. DE E., D.O., 22 DE SEPTIEMBRE DE 1988)</small>
+
+Para la revisión de las cuentas públicas de los ayuntamientos éstos presentarán esas cuentas anualmente a la Legislatura, acompañadas del Presupuesto de Egreso aprobado, con la documentación que acredite las erogaciones y en su caso, con el avance de las metas propuestas en el Plan Municipal y en los Programas Operativos Anuales;
+
+VII.- Contraer obligaciones económicas para las necesidades públicas en obras de utilidad general que puedan ser satisfechas dentro de su período constitucional; si los vencimientos de las mismas son posteriores a su gestión, deberán recabar previamente la autorización del Congreso del Estado;
+
+VIII.- Organizar un sistema de planeación integral de desarrollo municipal, con la participación democrática de los grupos sociales.
+
+Una vez aprobado por el Ayuntamiento el Plan Municipal y los programas que de él se deriven serán obligatorios para toda la administración municipal en el ámbito de sus respectivas competencias;
+
+IX.- Acordar sobre todos los asuntos que conciernan exclusivamente al Municipio;
+
+X.- Nombrar y remover a todos los empleados de su dependencia y cubrir los emolumentos de los Jueces de Paz del Municipio;
+
+XI.- Hacer uso del derecho de iniciar leyes;
+
+XII.- Ejercer las funciones que les encomienda, en materia de cultos, el párrafo once del artículo 130 de la Constitución Federal; y
+
+XIII.- Las demás que le confiera esta Constitución.
+
+(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988) (F. DE E., D.O., 22 DE SEPTIEMBRE DE 1988)
 
 ###### Artículo 83.
 
-Cuando los acuerdos de los Ayuntamientos sean contrarios a la Constitución Federal o a la del Estado o a cualquiera otra Ley o lesionen los intereses municipales, podrán ser suspendidos por el Gobernador y corresponderá al Congreso resolver definitivamente sobre su aprobación o revocación.
+Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 84.
 
-El Presidente del Ayuntamiento electo en la forma que establece el artículo 76 de esta Constitución, ejercerá las funciones de Ejecutivo Municipal.
+Cuando dos o más centros urbanos situados en territorios de distintos municipios formen o tiendan a formar una continuidad demográfica el Estado y los municipios respectivos, en el ámbito de sus competencias planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 85.
 
-Son atribuciones de los Presidentes de los Ayuntamientos:
+Los municipios, con el concurso del Estado, cuando así fuere necesario y lo determinen las leyes, organizarán y tomarán a su cargo la administración, funcionamiento, conservación, explotación de sus servicios públicos considerándose enunciativa y no limitativamente como tales, las siguientes:
 
-I.- hacer cumplir, en su esfera, las Leyes vigentes del Estado, así como los acuerdos de los Ayuntamientos que tengan fuerza obligatoria, ejecutándolos y haciéndolos ejecutar;
+I.- Agua potable y alcantarillado;
 
-II.- ejercer las funciones activas de la Administración Municipal, expidiendo al efecto las órdenes correspondientes para la mejor ejecución de los acuerdos de los Ayuntamientos, cuando éste no los hubiere dictado;
+II.- Alumbrado público;
 
-III.- nombrar y remover a los empleados de su despacho, conforme a lo que establezcan las Leyes; y
+III.- Limpia y recolección de basura;
 
-IV.- disponer de la Policía Municipal, salvo lo dispuesto en las fracciones IV y V del artículo 55 de esta Constitución;
+IV.- Mercados y centrales de abasto;
 
-> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+V.- Panteones;
 
-V.- Remitir, en su caso, los Planes Municipales de Desarrollo y los Programas anuales al Congreso del Estado para su conocimiento.
+VI.- Rastro;
+
+VII.- Calles, parques y jardines;
+
+VIII.- Seguridad pública y tránsito;
+
+IX.- Nomenclatura.
+
+Los municipios de un mismo Estado, previo acuerdo entre sus ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
 
 (REFORMADA SU DENOMINACION, D.O. 31 DE MARZO DE 1988) (F. DE E., D.O. 5 DE ABRIL DE 1988)
 
@@ -1755,7 +1781,7 @@ D.O. 5 DE ABRIL DE 1978.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
-D.O. 26 DE JUNIO DE 1978.
+D.O. 26 DE JUNIO DE 1978
 
 UNICO.- Este Decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
@@ -1822,3 +1848,7 @@ D.O. 9 DE SEPTIEMBRE DE 1988.
 PRIMERO.- Los Diputados que se elijan a la LII Legislatura del Congreso del Estado, durarán en funciones del primero de enero de 1991 hasta el cuatro de enero de 1994.
 
 SEGUNDO.- Este decreto entrará en vigor el primero de enero de 1989.
+
+D.O. 15 DE SEPTIEMBRE DE 1988.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
