@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1998-08-08"
+last_updated: "1999-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1999.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -188,6 +188,10 @@ En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona ti
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 Los habitantes del Estado tienen todas las garantías y libertades consagradas en esta Constitución, sin distinción alguna de su origen, raza, color, sexo, idioma, religión, opinión política, condición o actividad social.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1999)</small>
+
+El Estado otorgará a los ciudadanos la seguridad indispensable para salvaguardar su vida e integridad personal, la ley establecerá la forma y términos en que deba brindarse.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -601,7 +605,7 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 ###### ARTICULO 29.
 
@@ -621,7 +625,7 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -2860,6 +2864,10 @@ UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su 
 P.O. 8 DE AGOSTO DE 1998.
 
 UNICO.- Las reformas, adiciones y derogación a que se contrae este Decreto entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
