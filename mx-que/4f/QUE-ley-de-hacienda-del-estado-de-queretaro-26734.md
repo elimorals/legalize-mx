@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2004-12-09"
+last_updated: "2005-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -713,7 +713,7 @@ Base
 
 Los derechos previstos en este Capítulo se causarán atendiendo a la categoría y tipo de la licencia, aplicando al efecto la cantidad de VSMGZ que corresponda, por expedición o refrendo de la misma, en los términos previstos en el siguiente artículo.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 53.
 
@@ -743,7 +743,7 @@ b).- Bodega o almacén de cerveza, vinos y licores.
 
 Las tasas están dadas en VSMGZ.
 
-(VEASE ARCHIVO ANEXA)
+(VEASE TABLA ANEXA)
 
 La expedición de licencia nueva correspondiente a los tipos I, II y III causará derechos por un monto equivalente a tres veces la cantidad que corresponda pagar por concepto de refrendo anual de conformidad con la tasa señalada en la tabla que antecede.
 
@@ -1863,7 +1863,45 @@ I. Por la expedición de copias:
 
 II. Por la expedición de copias heliográficas y/o bond de planos simples con información de cabeceras municipales se cobrará a razón de lo indicado en la tabla siguiente:
 
-(VEASE TABLA ANEXA)
+Municipio VSMGZ
+
+Amealco 3
+
+Pinal de Amoles 3
+
+Arroyo Seco 3
+
+Cadereyta 5
+
+Colón 3
+
+Corregidora 10
+
+Ezequiel Montes 5
+
+Huimilpan 3
+
+Jalpan 7
+
+Landa de Matamoros 3
+
+El Marqués 5
+
+Pedro Escobedo 3
+
+Peñamiller 3
+
+Querétaro 10
+
+San Joaquín 3
+
+San Juan del Río 7
+
+Tequisquiapan 7
+
+Tolimán 3
+
+Del Estado 10
 
 En material especial utilizado en los servicios mencionados en el presente artículo, se cobrará de acuerdo a la cotización en el mercado, más el 25%.
 
@@ -2635,11 +2673,19 @@ XXVI. Para el ejercicio fiscal del año 2005, los contribuyentes que realicen el
 
 MES DE PAGO DESCUENTO
 
-Enero 10%
+Enero 1 0%
 
 Febrero 8%
 
 Marzo 5%
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
+XXVII.- Para el Ejercicio de 2006 tratándose de los pagos de los derechos contemplados en el artículo 129 fracción I de la presente ley, se pagará conjuntamente con el derecho antes mencionado una contribución equivalente al .25 Salario Mínimo Vigente en el Estado.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos de bomberos que a continuación se mencionan: Bomberos Querétaro Precisión y Protección, S.C.; Bomberos Prevención y Control de Emergen días de Pedro Escobedo, A.C.; Bomberos de San Juan del Río Prevención y ayuda, A.C.; y a los que comprueben estar legalmente constituidos en el Estado; de acuerdo a las necesidades que acrediten ante un Comité conformado por los Secretarios de Seguridad Ciudadana, Planeación y Fianzas, Titular de la Unidad Estatal de Protección Civil del Estado y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrar un representante.
+
+El recurso no podrá utilizarse para gasto corriente de las corporaciones de bomberos.
 
 T R A N S I T O R I O S
 
@@ -2906,3 +2952,7 @@ Artículo Cuarto.- La recaudación por el impuesto que se establece en los artí
 Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
 Artículo Sexto.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 11 DE MARZO DE 2005.
+
+ÚNICO.- La presente Ley entrará en vigor el día 1 de enero del 2006.
