@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "1997-08-02"
+last_updated: "2000-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2000.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -352,6 +352,10 @@ Igualmente, el ofendido podrá apelar de los autos que decreten el sobreseimient
 ###### ARTICULO 36.
 
 Sin perjuicio de la designación de representante que haga el ofendido y su apersonamiento legal como coadyuvante, el Ministerio Público le proporcionará en todo momento, la asesoría jurídica que requiera en relación con el delito de que haya sido víctima.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+Así mismo, cuando se trate de las víctimas del delito especial contemplado por el artículo 50 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar, el Ministerio Público los canalizará para que reciban atención terapéutica especializada.
 
 ###### ARTICULO 37.
 
@@ -1381,7 +1385,7 @@ En casos urgentes, la protesta la rendirán al producir o ratificar su dictamen.
 
 El Ministerio Público o Juez que practique las diligencias fijará a los peritos el plazo en que deban cumplir su cometido. Si transcurrido el mismo no rinden su dictamen, o si legalmente citados y aceptado el cargo no concurren a desempeñarlo, se hará uso de los medios de apremio.
 
-Si ha pesar de haber sido apremiado el perito no cumple con las obligaciones señaladas en el párrafo anterior, se procederá por el delito que resulte.
+Si ha (sic) pesar de haber sido apremiado el perito no cumple con las obligaciones señaladas en el párrafo anterior, se procederá por el delito que resulte.
 
 > <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
 
@@ -3054,3 +3058,15 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los veinticuatro días del mes de julio de 1997.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 25 DE MARZO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de este Decreto, se seguirán substanciando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
