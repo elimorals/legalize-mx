@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1994-03-16"
+last_updated: "1994-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -189,9 +189,17 @@ II.- La Sección Municipal de Pich;
 
 III.- La Sección Municipal de Tixmucuy;
 
-IV.- Cayo Arcas;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 1994)</small>
 
-V.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la Cabecera y Secciones Municipales en la forma siguiente:
+IV.- La Sección Municipal de Alfredo V. Bonfil;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 1994)</small>
+
+V.- Cayo Arcas;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 1994)</small>
+
+VI.- Las poblaciones, ejidos, rancherías, y heredades que constituyen la circunscripción jurisdiccional de la cabecera y Secciones Municipales en la forma siguiente:
 
 A la ciudad de Campeche, Cabecera del Municipio corresponden:
 
@@ -201,7 +209,9 @@ b) Los Ejidos de Bethania, Cayal, Chemblás, Hobomó, Kobén, Mucuychakán, Nilc
 
 c) Las Haciendas de Chivic, Ebulá, Jesús María, Multunchac, Olá, San Lorenzo, Xcampeu, Yalsí y Yaxá.
 
-d) Los ranchos de Aguada, Buenavista, Canisté, El Carmelo, Cuatro Hermanos, Chencollí, El Chi, Chulbac, Cumpich, Las Delicias, Escalera, Fénix, Las Flores, Holtabla, Imí, Kalá, Miramar, Moa, Orotova, Oxá, Paraíso, Playa Alegre, El Potrero, El Prado, Río Verde, San Bartolo, San Fernando, San Francisco, San Isidro, San José, San José (sic), San Miguel, San Nicolás, San Pedro, San Pedro (sic), San Pedro Corralché, San Rafael, San Sebastián, Santa Cristina, Santa María, Santa María (sic), Santa Rita, Santa Rosalía, Tacubaya, Tachic, Tec, Topcemó, Umul, Victoria, Xanabchakán, Xbechel, Xtún, Scuch, Yaxcab y Yucumbalán.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
+
+d) Los ranchos de Aguada, Buenavista, Canisté, El Carmelo, Cuatro Hermanos, Chencollí, El Chi, Chulbac, Cumpich, Las Delicias, Escalera, Fénix, Las Flores, Holtabla, Imí, Kalá, Miramar, Moa, Orotova, Paraíso, Playa Alegre, El Potrero, El Prado, Río Verde, San Bartolo, San Fernando, San Francisco, San Isidro, San José, San José (sic), San Miguel, San Nicolás, San Pedro, San Pedro (sic), San Pedro Corralché, San Rafael, San Sebastián, Santa Cristina, Santa María, Santa María (sic), Santa Rita, Santa Rosalía, Tacubaya, Tachic, Tec, Topcemó, Umul, Victoria, Xanabchakán, Xbechel, Xtun, Scuch, Yaxcab y Yucumbalán.
 
 A la Sección Municipal de Pich, corresponden:
 
@@ -209,7 +219,9 @@ a) El pueblo de Pich, Cabecera de la Sección.
 
 b) Los pueblos de Bolonchencahuich y San Juan Cantemó.
 
-c) Los Ejidos de Alfredo V. Bonfil, Kicab y el N.C.P. Melchor Ocampo.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
+
+c) Los ejidos de Kicab y N.C.P. Melchor Ocampo.
 
 d) Los Ranchos de Cantemó, Lubná, Solbul, Sumil, Yacachí, Chenllano y Xchún.
 
@@ -219,11 +231,25 @@ a) El Pueblo de Tixmucuy, Cabecera de la Sección.
 
 b) El pueblo de Pocyaxum.
 
-c) Los Ejidos Adolfo Ruiz Cortines, Bobolá, Nohakal, Pueblo Nuevo de Cayal, Uayamón y López Mateos.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
+
+c) Los ejidos Adolfo Ruiz Cortinez, Bobolá, Nohakal, Uayamón y López Mateos.
 
 d) Las Haciendas de Chehechuc, Dzuyukak, Hontún, San Antonio Xkix, Uayamón y Yaxcabacal.
 
-e) Los Ranchos de Chanyaxché, Chapín, Santo Domingo Xkix, Kilómetro 40, Pital, Xulubché, Dzicilá, Cholul, Santa Gertrudis, San José, Nohyaxché, Santa Rita y la Zona Arqueológica de Etzná.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
+
+e) Los ranchos de Chanyaxché, Chapín, Santo Domingo, Xkix, Kilómetro 40, Pital, Xulubché, Dzicilá, Cholul, Santa Gertrudis, San José y Santa Rita.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 1994)</small>
+
+A la Sección Municipal de Alfredo V. Bonfil, corresponde:
+
+a) El ejido de Alfredo V. Bonfil, Cabecera de la Sección.
+
+b) Los ejidos de Pueblo Nuevo de Cayán, Crucero Oxá y Uzahzil-Edzná Nohyaxché.
+
+c) La zona arqueológica de Edzná.
 
 ###### ARTICULO 15.
 
@@ -231,7 +257,9 @@ El Municipio del Carmen, comprende:
 
 I.- La Ciudad del Carmen, Cabecera del Municipio;
 
-II.- (DEROGADA, P.O. 16 DE NOVIEMBRE DE 1990)
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 1994)</small>
+
+II.- La Sección Municipal de Atasta;
 
 III.- La Sección Municipal de Candelaria;
 
@@ -241,9 +269,13 @@ V.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunsc
 
 A la Ciudad del Carmen, Cabecera del Municipio corresponden:
 
-a) Los pueblos de Atasta, Isla Aguada y Mamantel.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
 
-b) Los Ejidos de El Carmen, Puerto Rico, Atasta, San Antonio Cárdenas, Nuevo Progreso, Col. Emiliano Zapata (Amp. de San Antonio Cárdenas), Isla Aguada.
+a) Los pueblos de Isla Aguada y Mamantel.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 1994)</small>
+
+b) Los ejidos de El Carmen e Isla Aguada.
 
 Zona del Río Las Piñas:
 
@@ -251,11 +283,17 @@ El Zapote, Arriba y Adelante, La Esperanza.
 
 c) Las haciendas de Arcila, Buenavista, Desengaño y Polvoxal y Anexas.
 
-d) Los ranchos de Xicalango, Rancho Nuevo, San Antonio Xicalango, Santa Elena, El Pon, San José del Carmen, Ñaco, Julián Alvarez, San Miguel, Alvaro Peralta, La Estrella, El Arroyo, San Bonifacio, El Porvenir, La Montaña, El Toro, Santa Anita, La Libertad, Santa Elena, Gustavo Fernández, Santa Serafina, Santa María, La Veleta, San Fernando, Loma de Román, El Recuerdo, Lote No. 3, San Pedro.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
 
-Zona del Río San Pedro:
+d) Los ranchos de Rancho Nuevo, San José del Carmen, Ñaco, Julián Alvarez, Alvaro Peralta, La Estrella, El Arroyo, San Bonifacio, La Montaña, El Toro, Santa Anita, La Libertad, Gustavo Fernández, Santa María, San Fernando, Loma de Román, El Recuerdo, Lote No. 3 y San Pedro.
 
-La Cruz, El Tábano, San Francisco, Las Porfías, San Román, San Miguelito, Buenos Aires, El Porvenir, Vista del Carmen, Buena Vista II, Paraíso, Pastal, Baraja, Juncal, Quemado, Aguacatal, El Limonal.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 1994)</small>
+
+Zona del río San Pedro:
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
+
+La Cruz, El Tábano, Las Porfías, San Román, San Miguelito, Buenos Aires, El Porvenir, Vista del Carmen, Buena Vista II, Paraíso, Pastal, Baraja, Juncal y Quemado.
 
 Zona de la Laguna de Términos:
 
@@ -273,7 +311,15 @@ Zona del Río de las Piñas:
 
 Naranjal, El Diamante, Cibalitos, La Lucha, Herradura, Santa Valentina, San Francisco, El Copo, El Eslabón, La Lucha, El Tintal II, Popistal, La Paila, San José Victoria, Zapote Mamey, El Salvaje, El Gerente, La Naranja, Nueva Esperanza, San Antonio, El Retiro, Rancho Caribe, San Ángel, Villa Rosa, Vista Alegre, Campamento Villa Rosa Primera Sección, La Mica, Anexo Ramonal, El Cubano, San Leonardo, Villa Rosa, Las Mariposas, Juncal, Brasilia, Pajaral, Soledad, Los Ángeles, Anexo Junes, La Gloria, La Copa, Anexo Soledad, San Hipólito, El Líbano, Jicotea.
 
-> <small>(DEROGADO OCTAVO PARRAFO, P.O. 16 DE NOVIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 1994)</small>
+
+A la Sección Municipal de Atasta, corresponden:
+
+a) El pueblo de Atasta, Cabecera de Sección.
+
+b) Los ejidos de Puerto Rico, Atasta, San Antonio Cárdenas, Nuevo Progreso, Colonia Emiliano Zapata (Ampliación de San Antonio Cárdenas).
+
+c) Los ranchos de Nuevo Campechito, La Envidia, Rivera de San Francisco, Paraíso, San Fernando, La Veleta I, La Veleta II, El Carmen I, El Carmen II, San Antonio Pom, San Antonio Punta de Piedra, El Porvenir I, El Porvenir II, El Porvenir III, El Porvenir IV, La Herradura, Las Carmelitas, San Miguel I, San Miguel II, Rancho Alegre, Santa Elena, El Pom, Abelardo Carrillo Zavala, Santa Rita, Las Piedras, Nuevo Xicalango, Las Palomas I, Las Palomas II, Santa Isabel, Pinzón, Zacatal I, Zacatal II, Playaso, Santa Serafina.
 
 A la Sección Municipal de Candelaria, corresponden:
 
@@ -2002,3 +2048,7 @@ Unico.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 16 DE MARZO DE 1994.
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+P.O. 23 DE MAYO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
