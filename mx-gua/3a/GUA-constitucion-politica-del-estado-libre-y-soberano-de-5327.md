@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1978-11-30"
+last_updated: "1979-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1979.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1191,7 +1191,9 @@ En la capital del Estado y en los municipios cuya población sea de 200,000 o m�
 
 I.- Al partido político cuya planilla hubiere obtenido mayor número de votos tendrá derecho a que se le acrediten a quienes encabecen la lista como Presidente Municipal y Síndicos del Ayuntamiento, respectivamente;
 
-II.- Las regidurías que integran el Cabildo, se dividirán entre la votación total emitida para todas las planillas presentadas por los partidos políticos contendientes, a fin de obtener un cociente electoral.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 1979)</small>
+
+II.- Los votos válidos obtenidos por todos los Partidos Políticos contendientes en cada Municipio, se dividirán entre las Regidurías que integren el Cabildo, a fin de obtener un cociente electoral.
 
 La Ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los Regidores de representación proporcional.
 
@@ -1808,6 +1810,12 @@ P.O. 8 DE JUNIO DE 1978.
 Este decreto entrará en vigor a los 3 días de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE NOVIEMBRE DE 1978.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1979.
 
 ###### ARTICULO UNICO.
 
