@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2002-12-06"
+last_updated: "2002-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2002.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -413,7 +413,7 @@ Si el producto o servicio se encuentra en el comercio, los comerciantes o presta
 
 Los productores, fabricantes, importadores y sus distribuidores serán responsables de recuperar de inmediato los productos.
 
-Quienes resulten responsables del incumplimiento de la norma tendrán la obligación de reponer los productos o servicios cuya venta o prestación se prohíba, por otros que cumplan las especificaciones correspondientes o, en su caso, reintegrar o bonificar su valor, así como cubrir los gastos para el tratamiento, reciclaje o disposición final.
+Quienes resulten responsables del incumplimiento de la norma tendrán la obligación de reponer los productos o servicios cuya venta o prestación se prohiba, por otros que cumplan las especificaciones correspondientes o, en su caso, reintegrar o bonificar su valor, así como cubrir los gastos para el tratamiento, reciclaje o disposición final.
 
 ## TITULO SEPTIMO. De los terceros autorizados
 
@@ -481,6 +481,26 @@ En caso de contar con los datos relativos a la ubicación de la persona a que se
 
 Para dar curso a la acción popular, basta el señalamiento de los hechos que constituyan la causa de la denuncia. Si las autoridades no dan trámite a las denuncias en un plazo de treinta días naturales se configura en favor del denunciante una resolución negativa ficta.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 1.
+
+43.- Las dependencias y organismos auxiliares estatales y municipales integrarán las tecnologías de información, en la prestación de los servicios gubernamentales a su cargo, observando las disposiciones que se señalen en el reglamento de este título.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 1.
+
+44.- En la prestación de los servicios gubernamentales por vía electrónica, se tomarán las medidas necesarias para garantizar la seguridad y confidencialidad de la información, en su caso.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 1.
+
+45.- Para aquellos servicios gubernamentales que se otorguen por vía electrónica, en los que exista necesidad de identificar electrónicamente tanto al usuario como a la dependencia u organismo prestador del servicio, se establecerá un sistema de certificación del medio de identificación electrónica, que permita comprobar fehacientemente su utilización.
+
+La Secretaría de Administración tendrá a su cargo el sistema de certificación de los medios de identificación que se utilicen.
+
 ### CAPITULO SEGUNDO. De las autoridades
 
 ### CAPITULO TERCERO. De la Secretaría de Salud
@@ -491,17 +511,19 @@ Para dar curso a la acción popular, basta el señalamiento de los hechos que co
 
 ### CAPITULO SEXTO. Del Sistema de Información y del Registro Estatales de Salud
 
+## TITULO DECIMO PRIMERO. De los servicios gubernamentales por vía electrónica
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ## TITULO PRIMERO. Disposiciones generales
 
 ## TITULO SEGUNDO. De los Institutos Especializados en Materia de Salud del Estado de México
 
 ## TITULO TERCERO. De la salubridad general
 
-## TITULO CUARTO. De la salubridad local
-
 # LIBRO SEGUNDO. De la salud
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De la salubridad local
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -675,7 +697,7 @@ XVIII. Coadyuvar con la Secretaría de Salud en la actualización de las estadí
 
 XIX. Realizar las demás actividades que les correspondan para el cumplimiento de su objeto conforme al presente ordenamiento y otras disposiciones aplicables.
 
-## TITULO SEGUNDO. De la educación
+## TITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 2.
 
@@ -741,7 +763,7 @@ XVI. Programas contra el alcoholismo y tabaquismo;
 
 XVII. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
 
-## TITULO TERCERO. Del ejercicio profesional
+## TITULO SEGUNDO. De la educación
 
 ### CAPITULO TERCERO. De la vigilancia
 
@@ -1325,7 +1347,7 @@ Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar l
 
 41.- Los ingresos que el Estado y los municipios recauden por concepto de otorgamiento de concesiones, permisos, licencias y en general cualquier autorización en materia de áreas naturales protegidas, conforme a las disposiciones fiscales aplicables, se destinarán a la realización de acciones de conservación de la biodiversidad, dentro de las áreas en las que se generen dichos ingresos.
 
-## TITULO CUARTO. Del Consejo Mexiquense de Ciencia y Tecnología
+## TITULO TERCERO. Del ejercicio profesional
 
 ### CAPITULO QUINTO. De la participación social en la educación
 
@@ -1377,7 +1399,7 @@ La Secretaría gestionará ante las autoridades fiscales correspondientes la pé
 
 # LIBRO TERCERO. De la educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud, instalaciones educativas y mérito civil
 
-## TITULO QUINTO. Del Instituto Mexiquense de Cultura
+## TITULO CUARTO. Del Consejo Mexiquense de Ciencia y Tecnología
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -1427,7 +1449,7 @@ La Secretaría de Educación, Cultura y Bienestar Social verificará que los par
 
 Las atribuciones en las materias de ejercicio profesional y mérito civil corresponden a la Secretaría de Educación, Cultura y Bienestar Social, y las relativas a investigación científica y tecnológica al Consejo Mexiquense de Ciencia y Tecnología.
 
-## TITULO SEXTO. Del Instituto Mexiquense de Cultura Física y Deporte
+## TITULO QUINTO. Del Instituto Mexiquense de Cultura
 
 ### CAPITULO TERCERO. De las asociaciones de profesionistas
 
@@ -1617,7 +1639,7 @@ La autorización o el reconocimiento se otorgarán cuando se satisfagan los requ
 
 En los demás casos podrán obtener el reconocimiento de validez oficial de estudios.
 
-## TITULO SEPTIMO. Del Instituto Mexiquense de la Juventud
+## TITULO SEXTO. Del Instituto Mexiquense de Cultura Física y Deporte
 
 ### CAPITULO TERCERO. Del Consejo Consultivo para el desarrollo sustentable del Estado de México
 
@@ -1773,7 +1795,7 @@ El Registro Estatal de Educación será público, no tendrá efectos constitutiv
 
 45.- Las autoridades judiciales deberán comunicar oportunamente a la Secretaría de Educación, Cultura y Bienestar Social las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional cuando éstas hubiesen causado ejecutoria, con el objeto de que, en su caso, se cancele el registro correspondiente.
 
-## TITULO OCTAVO. Del Comité de Instalaciones Educativas
+## TITULO SEPTIMO. Del Instituto Mexiquense de la Juventud
 
 ###### Artículo 3.
 
@@ -1811,7 +1833,9 @@ XIII. Las demás que se establezcan en otros ordenamientos.
 
 47.- La dirección y administración del Consejo está a cargo de una junta directiva y un director general.
 
-La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con trece vocales, que son los representantes de las secretarías de Finanzas y Planeación, de Salud, del Trabajo y de la Previsión Social, de Desarrollo Urbano y Obras Públicas, de Desarrollo Agropecuario, de Desarrollo Económico, de Ecología, de Administración y de Comunicaciones y Transportes, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A.C., y a invitación del presidente de la junta, dos científicos destacados en la materia.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con catorce vocales, que son los representantes de las secretarías de: Finanzas y Planeación, de Salud, del Trabajo y de la Previsión Social, de Desarrollo Urbano y Obras Públicas, de Desarrollo Agropecuario, de Desarrollo Económico, de Ecología, de Administración, de Comunicaciones y de Transporte, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C., y a invitación del presidente de la junta, dos científicos destacados en la materia.
 
 El director general será nombrado por el Gobernador del Estado, a propuesta del presidente de la junta.
 
@@ -1835,7 +1859,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos 
 
 Los ingresos del Consejo, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por la junta directiva.
 
-## TITULO NOVENO. Del mérito civil
+## TITULO OCTAVO. Del Comité de Instalaciones Educativas
 
 ###### Artículo 3.
 
@@ -1901,7 +1925,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos 
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-## TITULO DECIMO. De las infracciones y sanciones
+## TITULO NOVENO. Del mérito civil
 
 ###### Artículo 3.
 
@@ -1953,7 +1977,7 @@ V. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y dem
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO DECIMO. De las infracciones y sanciones
 
 ###### Artículo 3.
 
@@ -2023,7 +2047,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos 
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-## TITULO SEGUNDO. De la política ambiental y sus instrumentos
+## TITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 3.
 
@@ -2075,7 +2099,7 @@ V. Los bienes o recursos que reciba por cualquier título legal.
 
 Los ingresos del Comité, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por la junta directiva.
 
-## TITULO TERCERO. De la conservación ecológica
+## TITULO SEGUNDO. De la política ambiental y sus instrumentos
 
 ### CAPITULO TERCERO. De los programas de ordenamiento ecológico
 
@@ -2169,7 +2193,7 @@ VI. Realizar o favorecer de cualquier forma actividades políticas de tipo parti
 
 VII. Incumplir cualesquiera de los preceptos de este Libro, así como, las demás disposiciones expedidas con fundamento en él.
 
-## TITULO CUARTO. De la protección al ambiente
+## TITULO TERCERO. De la conservación ecológica
 
 ###### Artículo 3.
 
@@ -2207,7 +2231,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 # LIBRO CUARTO. De la conservación ecológica y protección al ambiente para el desarrollo sustentable
 
-## TITULO QUINTO. De los prestadores de servicios ambientales
+## TITULO CUARTO. De la protección al ambiente
 
 ### CAPITULO PRIMERO. De las áreas naturales protegidas
 
@@ -2301,7 +2325,7 @@ V. Las regulaciones de las descargas de aguas residuales de carácter municipal,
 
 8.- La Secretaría de Ecología promoverá ante los ayuntamientos de la entidad la creación de consejos municipales de protección al ambiente, a fin de que les sirvan como órganos de apoyo para el mejor desempeño de sus funciones. Así mismo se fomentará la constitución de comités comunitarios o vecinales con objeto de alentar la participación social en el cuidado, conservación y restauración del ambiente en sus localidades.
 
-## TITULO SEXTO. De los proveedores de equipos y servicios de verificación
+## TITULO QUINTO. De los prestadores de servicios ambientales
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -2335,7 +2359,7 @@ La prevención y control de la contaminación generada por la prestación de los
 
 El registro será público, no tendrá efectos constitutivos ni surtirá efectos contra terceros.
 
-## TITULO SEPTIMO. De los verificadores y laboratorios ambientales
+## TITULO SEXTO. De los proveedores de equipos y servicios de verificación
 
 ###### Artículo 4.
 
@@ -2665,7 +2689,7 @@ II. Las obras o actividades de que se trate estén expresamente previstas en un 
 
 III. Se trate de instalaciones ubicadas en parques industriales previamente autorizados.
 
-## TITULO OCTAVO. De la vigilancia
+## TITULO SEPTIMO. De los verificadores y laboratorios ambientales
 
 ###### Artículo 4.
 
@@ -2775,7 +2799,7 @@ La Secretaría de Ecología o la autoridad municipal podrán promover ante la au
 
 21.- Quienes suscriban los informes previos, manifestaciones de impacto ambiental y estudios de riesgo serán responsables ante la Secretaría de Ecología. Asimismo, declararán bajo protesta de decir verdad que en ellos se incorporaron las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
 
-## TITULO NOVENO. De la Participación Social
+## TITULO OCTAVO. De la vigilancia
 
 ###### Artículo 4.
 
@@ -3159,7 +3183,7 @@ IV. Promover el establecimiento de reconocimientos a quienes hayan realizado los
 
 23.- Quienes realicen auditorias ambientales podrán practicar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generen, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger al ambiente.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO NOVENO. De la Participación Social
 
 ### CAPITULO SEGUNDO. Personas Físicas y Morales con fines ambientalistas
 
@@ -3231,7 +3255,7 @@ En los parques estatales sólo podrá permitirse la realización de actividades 
 
 # LIBRO QUINTO. Del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población
 
-## TITULO SEGUNDO. De las conurbaciones y zonas metropolitanas
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -3497,7 +3521,7 @@ III. La integración, organización y funcionamiento del órgano respectivo de c
 
 IV. Las demás acciones que convengan el Estado y los municipios correspondientes.
 
-## TITULO TERCERO. Del sistema estatal de planes de desarrollo urbano y de las regulaciones a la propiedad en los centros de población
+## TITULO SEGUNDO. De las conurbaciones y zonas metropolitanas
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -3629,7 +3653,7 @@ II. De consolidación, aplicables a centros de población que sólo requieren de
 
 III. De control, que buscan disminuir o desalentar el ritmo de crecimiento de centros de población en los que la concentración provoca problemas crecientemente agudos de congestión e ineficiencia económica y social, o bien, cuando tales centros de población muestran síntomas de saturación por carecer de suelo apto para su expansión y tener, entre otras, limitaciones en las disponibilidades de agua e infraestructura vial, lo que obliga a restringir su desarrollo preferentemente al interior de la estructura urbana existente, rehabilitando y reconstruyendo sus áreas deterioradas, insalubres o deficientemente aprovechadas.
 
-## TITULO CUARTO. De las autorizaciones y licencia estatal y municipales
+## TITULO TERCERO. Del sistema estatal de planes de desarrollo urbano y de las regulaciones a la propiedad en los centros de población
 
 ### CAPITULO SEGUNDO. De los conjuntos urbanos
 
@@ -4031,7 +4055,7 @@ XI. Los diferentes tipos de señales deben ser fijados en muros o lugares no aba
 
 XII. Las vías públicas contarán con placas en las que se consigne el nombre y la orientación de la misma, así como con guías en las banquetas para identificar el límite de la guarnición.
 
-## TITULO QUINTO. Del Registro Estatal de Desarrollo Urbano
+## TITULO CUARTO. De las autorizaciones y licencia estatal y municipales
 
 ### CAPITULO SEXTO. De la licencia de construcción
 
@@ -4159,7 +4183,7 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 67.- Tratándose de construcciones mayores de sesenta metros cuadrados o con claros mayores de cuatro metros, la solicitud de la licencia de construcción y sus planos respectivos llevarán la firma del perito responsable de la obra, acompañándose asimismo la constancia de su inscripción en el Registro Estatal de Desarrollo Urbano.
 
-## TITULO SEXTO. De las medidas de seguridad y sanciones
+## TITULO QUINTO. Del Registro Estatal de Desarrollo Urbano
 
 ### CAPITULO SEPTIMO. De la autorización para la explotación de bancos de materiales para la construcción
 
@@ -4251,7 +4275,7 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 # LIBRO SEXTO. De la protección civil
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO SEXTO. De las medidas de seguridad y sanciones
 
 ### CAPITULO SEGUNDO. De las infracciones y sanciones
 
@@ -4273,7 +4297,7 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 4.- Son autoridades en materia de protección civil, la Secretaría General de Gobierno y los ayuntamientos con las atribuciones que les otorga este Libro.
 
-## TITULO SEGUNDO. De los sistemas de protección civil
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -4549,7 +4573,7 @@ IV. Las personas que se dediquen a prestar servicios de consultoría o capacitac
 
 Las dependencias y organismos de la administración pública estatal y municipal, así como los grupos voluntarios, deberán proporcionar a la Secretaría General de Gobierno los informes que les requiera.
 
-## TITULO TERCERO. Del Instituto de Protección Civil del Estado de México
+## TITULO SEGUNDO. De los sistemas de protección civil
 
 ###### Artículo 6.
 
@@ -4565,7 +4589,7 @@ El Registro será público, no tendrá efectos constitutivos, ni surtirá efecto
 
 32.- En caso de riesgo inminente, sin perjuicio de la emisión de la declaratoria de emergencia, la Secretaría General de Gobierno y los municipios dictarán de inmediato las medidas de seguridad conducentes, a fin de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad.
 
-## TITULO CUARTO. De los simulacros y señalizaciones
+## TITULO TERCERO. Del Instituto de Protección Civil del Estado de México
 
 ###### Artículo 6.
 
@@ -4583,7 +4607,7 @@ V. El aseguramiento y destrucción de objetos, productos o sustancias;
 
 VI. El aislamiento de áreas afectadas.
 
-## TITULO QUINTO. De las autorizaciones, registros y dictámenes
+## TITULO CUARTO. De los simulacros y señalizaciones
 
 ###### Artículo 6.
 
@@ -4625,11 +4649,13 @@ c) No permita el acceso al personal designado para realizar verificaciones en in
 
 III. Con cinco mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien de manera dolosa o culposa ponga en riesgo a las personas o a la población en general.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+## TITULO QUINTO. De las autorizaciones, registros y dictámenes
+
 ## TITULO SEXTO. De las declaratorias de emergencia y desastre
 
 ## TITULO SEPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
-
-## TITULO OCTAVO. De la vigilancia
 
 ### CAPITULO SEGUNDO. De las medidas de seguridad
 
@@ -4637,27 +4663,35 @@ III. Con cinco mil días de salario mínimo general vigente del área geográfic
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-# LIBRO SEPTIMO. De la infraestructura vial y transporte
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+# LIBRO SEPTIMO. De las Comunicaciones y Transportes
+
+## TITULO OCTAVO. De la vigilancia
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 7.
 
-1.- Este Libro tiene por objeto regular la infraestructura vial de competencia del Estado y de los municipios, así como el transporte que se realiza en la misma.
+1.- Este libro tiene por objeto regular las comunicaciones de jurisdicción local y el transporte.
+
+Las comunicaciones de jurisdicción local comprenden la infraestructura vial primaria y los sistemas de transporte masivo o de alta capacidad, incluyendo las estaciones de transferencia modal.
 
 ###### Artículo 7.
 
 2.- Las disposiciones de este Libro tienen como finalidad:
 
-I. Que se cuente con la infraestructura vial necesaria y segura para la integración del Estado y los municipios al desarrollo estatal y nacional;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+I. Que se cuente con las comunicaciones necesarias y seguras para la integración del Estado y los municipios al desarrollo estatal y nacional.
 
 II. Que se cuente con transporte seguro, eficiente y de calidad.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 7.
 
-3.- Se considera de utilidad pública e interés general, la construcción, conservación, operación, explotación, rehabilitación y mantenimiento de la infraestructura vial, así como la prestación del servicio público de transporte.
+3.- Se considera de utilidad pública e interés general, la construcción, conservación, operación, explotación, rehabilitación y mantenimiento de las comunicaciones de jurisdicción local, así como la prestación del servicio público de transporte.
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -4667,9 +4701,13 @@ II. Que se cuente con transporte seguro, eficiente y de calidad.
 
 I. El Gobernador del Estado;
 
-II. La Secretaría de Comunicaciones y Transportes, a quien corresponden las atribuciones relativas a la infraestructura vial primaria y del transporte, salvo el transporte de uso particular y comercial;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-III. La Secretaría General de Gobierno, que tendrá a su cargo la aplicación de las disposiciones de este Libro, relativas al transporte de uso particular y comercial;
+II. La Secretaría de Comunicaciones a quien corresponden las atribuciones relativas a las comunicaciones de jurisdicción local;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+III. La Secretaría de Transporte, a quien corresponden las atribuciones relativas al transporte público, de uso particular y comercial;
 
 IV. La Junta de Caminos del Estado de México, que tendrá a su cargo las atribuciones que le confiere este Libro en materia de infraestructura vial primaria libre de peaje;
 
@@ -4677,7 +4715,7 @@ V. El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Est
 
 VI. Los municipios, que tendrán a su cargo las facultades relativas a la infraestructura vial local.
 
-## TITULO SEGUNDO. De la infraestructura vial
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
 
@@ -4693,35 +4731,45 @@ La infraestructura vial primaria estará a cargo del Estado y la infraestructura
 
 La infraestructura vial podrá ser libre de peaje, y de cuota.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO TERCERO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
 ###### Artículo 7.
 
-6.- La Secretaría de Comunicaciones y Transportes emitirá el dictamen de incorporación e impacto vial, tratándose de las autorizaciones de impacto regional a que se refiere el Libro Quinto de este Código.
+6.- La Secretaría de Comunicaciones emitirá el dictamen de incorporación e impacto vial, tratándose de las autorizaciones de impacto regional a que se refiere el Libro Quinto de este Código.
 
 La reglamentación determinará los casos en que no será exigible este dictamen.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 7.
 
-7.- El Estado podrá operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial de su competencia directamente o a través de particulares mediante el otorgamiento de concesiones y contratos.
+7.- El Estado podrá operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial de su competencia y a la infraestructura de los sistema de transporte masivo, incluyendo las estaciones de transferencia modal, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos.
 
 ###### Artículo 7.
 
 8.- Las concesiones a que se refiere este Título se otorgarán mediante concurso público a sociedades mercantiles constituidas conforme a las leyes mexicanas, en los términos que se establezcan en el presente Libro y los reglamentos respectivos, de conformidad con el procedimiento siguiente:
 
-I. La Secretaría de Comunicaciones y Transportes, de oficio o a petición de parte interesada, previo estudio, podrá expedir convocatoria pública para que, en el plazo que se establezca en la reglamentación de este Libro, se presenten propuestas en sobre cerrado, que será abierto en día prefijado y en presencia de los participantes;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+I. La Secretaría de Comunicaciones, de oficio o a petición de parte interesada, previo estudio, podrá expedir convocatoria pública para que, en el plazo que se establezca en la reglamentación de este Libro, se presenten propuestas en sobre cerrado, que será abierto en día prefijado y en presencia de los participantes;
 
 II. La convocatoria se publicará simultáneamente en la Gaceta del Gobierno, en un periódico de amplia circulación nacional y en otro de amplia circulación estatal, así como en los medios electrónicos de difusión;
 
-III. Las bases del concurso incluirán como mínimo las características técnicas de la construcción de la infraestructura vial, el anteproyecto técnico, plazo de la concesión, aforos vehiculares estimados, condiciones financieras básicas, características de la operación y las tarifas iniciales.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-Los criterios para su otorgamiento se sustentarán principalmente en los precios de construcción, tipo y monto del financiamiento, plazo de recuperación y tarifas para el usuario, el proyecto ejecutivo, en su caso, así como las contraprestaciones ofrecidas por el otorgamiento de la concesión;
+III. Las bases del concurso incluirán como mínimo las características técnicas de la construcción de la infraestructura vial o del sistema de transporte masivo, el anteproyecto técnico, plazo de la concesión, aforos estimados, condiciones financieras básicas, características de la operación y tarifas iniciales.
 
-IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad legal, técnica, administrativa y financiera, y cumplan con los demás requisitos que establezcan las bases que expida la Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad legal, técnica, administrativa y financiera, y cumplan con los demás requisitos que establezcan las bases que expida la Secretaría de Comunicaciones;
 
 V. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien y homologuen, se informará a todos los interesados de aquellas que se desechen y las causas principales que motivaren tal determinación;
 
-VI. La Secretaría de Comunicaciones y Transportes, con base en el análisis comparativo de las propuestas admitidas, emitirá su fallo, el cual será dado a conocer a todos los participantes. La propuesta ganadora estará a disposición de los interesados durante diez días hábiles a partir de que se haya dado a conocer el fallo correspondiente, para que manifiesten lo que a su derecho convenga;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+VI. La Secretaría de Comunicaciones, con base en el análisis comparativo de las propuestas admitidas, emitirá su fallo, el cual será dado a conocer a todos los participantes. La propuesta ganadora estará a disposición de los interesados durante diez días hábiles a partir de que se haya dado a conocer el fallo correspondiente, para que manifiesten lo que a su derecho convenga;
 
 VII. No se otorgará la concesión cuando ninguna de las propuestas presentadas cumpla con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
 
@@ -4729,7 +4777,9 @@ VII. No se otorgará la concesión cuando ninguna de las propuestas presentadas 
 
 9.- Las concesiones se otorgarán hasta por un plazo de treinta años y podrán ser prorrogadas hasta por un plazo equivalente al establecido originalmente, atendiendo al cumplimiento de las obligaciones inherentes a la concesión respectiva.
 
-La Secretaría de Comunicaciones y Transportes contestará en definitiva la solicitud de prórroga, dentro de un plazo de sesenta días hábiles contado a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento, y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+La Secretaría de Comunicaciones contestará en definitiva la solicitud de prórroga, dentro de un plazo de sesenta días hábiles contados a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento, y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
 
 ###### Artículo 7.
 
@@ -4737,15 +4787,21 @@ La Secretaría de Comunicaciones y Transportes contestará en definitiva la soli
 
 No requerirán permiso ni autorización alguna los trabajos de urgencia y mantenimiento que sean necesarios para la conservación y buen funcionamiento de la infraestructura vial, o aquellos trabajos comprendidos en los títulos de concesiones otorgados o derivados de los mismos.
 
-Para efectos de este artículo, se entiende por derecho de vía la franja de terreno de anchura variable, determinada en las normas técnicas que emita la Secretaría de Comunicaciones y Transportes, que se requiere para la construcción, conservación, rehabilitación, ampliación, protección y, en general, para el uso adecuado de la infraestructura vial.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+Para efectos de este artículo, se entiende por derecho de vía la franja de terreno de anchura variable, determinada en las normas técnicas que emita la Secretaría de Comunicaciones que se requiere para la construcción, conservación, rehabilitación, ampliación, protección y, en general, para el uso adecuado de la infraestructura vial.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 7.
 
-11.- Son obligaciones de los concesionarios y permisionarios de la infraestructura vial:
+11.- Son obligaciones de los concesionarios y permisionarios de la infraestructura vial y de los sistemas de transporte masivo:
 
 I. En todos los casos:
 
-a) Diseñar, proyectar, explotar y operar la infraestructura vial o realizar la construcción, conservación, rehabilitación y adaptación correspondiente en términos de la concesión o permiso otorgado;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+a) Diseñar, proyectar, explotar y operar la infraestructura vial y los sistemas de transporte masivo, o realizar la construcción, conservación, rehabilitación y adaptación correspondiente en términos de la concesión o permiso otorgado.
 
 b) Acatar las normas técnicas estatales correspondientes;
 
@@ -4753,7 +4809,9 @@ c) Presentar aviso a la autoridad competente en caso de enfrentar dificultades q
 
 d) Coadyuvar en la vigilancia y preservación del derecho de vía y dar aviso a la autoridad sobre cualquier anomalía, invasión o daño que le afecte;
 
-e) Vigilar que el personal a su cargo cumpla con las disposiciones legales en materia de infraestructura vial y las contenidas o derivadas del título de concesión o permiso;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+e) Vigilar que el personal a su cargo cumpla con las disposiciones legales en materia de infraestructura vial y de sistemas de transporte masivo, y las contenidas o derivadas del título de concesión o permiso.
 
 f) Proporcionar en todo tiempo a la autoridad competente los datos, informes y documentos que le sean solicitados relacionados con el objeto de la concesión o permiso, y otorgar las facilidades necesarias a dicha autoridad para la realización de visitas de verificación, inspección y calificación;
 
@@ -4765,7 +4823,9 @@ i) Las demás que se señalen en este Libro.
 
 II. Además de lo anterior, los concesionarios deberán:
 
-a) Atender las instrucciones y recomendaciones que en su caso realice la autoridad competente respecto de las cuotas de peaje y la operación de la infraestructura concesionada;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+a) Atender las instrucciones y recomendaciones que en su caso realice la autoridad competente respecto de las tarifas y la operación de la infraestructura y de los sistemas de transporte masivo concesionados.
 
 b) Presentar aviso por la terminación de la obra, con el objeto de que la autoridad competente constate que su construcción se ajusta al proyecto y especificaciones aprobadas y que cuenta con los señalamientos establecidos en la norma técnica correspondiente;
 
@@ -4779,17 +4839,21 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 13.- Las autoridades competentes, tomando en cuenta las circunstancias de cada caso, podrán proyectar y construir los libramientos necesarios, con objeto de distribuir adecuadamente el paso del transporte por las poblaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 7.
 
-14.- La autoridad competente podrá exigir a los propietarios de los predios colindantes a la infraestructura vial que, por razones de seguridad, los cerquen respecto del derecho de vía.
+14.- La autoridad competente podrá exigir a los propietarios de los predios colindantes a la infraestructura vial y a los sistemas de transporte masivo que, por razones de seguridad, los cerquen respecto del derecho de vía.
 
 Los accesos que se construyan dentro del derecho de vía se considerarán auxiliares a la infraestructura vial.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 7.
 
-15.- En los terrenos adyacentes a la infraestructura vial, hasta en una distancia de cien metros del límite del derecho de vía, no podrán establecerse trabajos de explotación de minas, canteras o cualquier tipo de obras que requieran el empleo de explosivos o gases nocivos.
+15.- En los terrenos adyacentes a la infraestructura vial y a los sistemas de transporte masivo, hasta en una distancia de cien metros del límite del derecho de vía, no podrán establecerse trabajos de explotación de minas, canteras o cualquier tipo de obras que requieran el empleo de explosivos o gases nocivos.
 
 ###### Artículo 7.
 
@@ -4805,7 +4869,7 @@ III. Cubrir los daños que ocasionen a la infraestructura vial.
 
 17.- Los municipios tendrán las atribuciones a que se refiere este Título y el Título Cuarto, respecto de la infraestructura de su competencia.
 
-## TITULO TERCERO. Del transporte
+## TITULO SEGUNDO. De la infraestructura vial
 
 ### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
 
@@ -4877,7 +4941,9 @@ VI. Promover y fomentar la participación de la iniciativa privada en la constru
 
 VII. Autorizar los ajustes y supervisar la correcta aplicación de las cuotas de peaje;
 
-VIII. Presentar a la consideración de la Secretaría de Comunicaciones y Transportes, conforme a las disposiciones aplicables, proyectos sustentados de otorgamiento o ampliación de concesiones para la construcción, administración, operación, rehabilitación, mantenimiento y conservación de la infraestructura vial;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+VIII. Presentar a la consideración de la Secretaría de Comunicaciones, conforme a las disposiciones aplicables, proyectos sustentados de otorgamiento o ampliación de concesiones para la construcción, administración, operación, rehabilitación, mantenimiento y conservación de la infraestructura vial;
 
 IX. Contratar financiamiento, empréstitos y créditos con cargo a su patrimonio para el cumplimiento de su objeto;
 
@@ -4917,7 +4983,9 @@ I. De pasajeros, que puede ser:
 
 a) Colectivo, que es el que se ofrece al público en general, de manera colectiva, uniforme y permanente;
 
-b) De alta capacidad o masivo, que es aquel que se presta en vías específicas, con rodamiento técnico especializado y/o con equipo vehicular capaz de transportar a más de cien personas a la vez;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+b) De alta capacidad o masivo, que es aquel que se presta en vías específicas o confinadas y/o con equipo vehicular capaz se transportar a más de cien personas a la vez;
 
 c) Individual, que es el que se presta a uno o más pasajeros en vehículos denominados taxis;
 
@@ -4939,11 +5007,15 @@ V. De uso comercial, que es el destinado al servicio particular de carga de un e
 
 En la normatividad reglamentaria respectiva podrán establecerse otras modalidades que esta clase de servicios requieran.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 7.
 
-25.- La Secretaría de Comunicaciones y Transportes, en lo que se refiere al transporte de pasajeros, de carga y mixto, y la Secretaría General de Gobierno, al de uso particular y al de uso comercial, expedirán las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
+25.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos que transiten por la infraestructura vial.
 
-En tanto se expiden las placas y documentos a que se refiere el párrafo anterior, la autoridad que corresponda podrá otorgar permisos provisionales.
+Corresponde a la Secretaría de Transporte matricular los vehículos destinados al transporte de pasajeros, de carga y mixto, así como al de uso particular y uso comercial, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
+
+Tratándose de transporte de uso particular y comercial, en tanto se expiden las placas y documentos a que se refiere el párrafo anterior, la Secretaría de Transporte podrá otorgar permisos provisionales.
 
 ###### Artículo 7.
 
@@ -4973,7 +5045,9 @@ d) Otorgar un servicio eficiente y un trato amable a los usuarios.
 
 I. Contar con el equipo de seguridad y accesorios necesarios de acuerdo al tipo de vehículo que se trate;
 
-II. Tramitar ante la Secretaría General de Gobierno los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+II. Tramitar ante la Secretaría de Transporte los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo;
 
 III. Responder por los daños y perjuicios causados a terceros y a la infraestructura vial por el uso del vehículo;
 
@@ -4993,15 +5067,19 @@ b) Utilizar vehículos que reúnan las condiciones de peso, dimensión, capacida
 
 En caso de concurrencia de dos o más personas físicas o morales para obtener concesiones, el otorgamiento se hará a quienes garanticen un mejor servicio en razón de las condiciones de seguridad, higiene y comodidad de los vehículos, mejor equipo e instalaciones, así como de la eficiencia y buen trato del personal con los usuarios.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 7.
 
-29.- Las disposiciones reglamentarias aplicables y la Secretaría de Comunicaciones y Transportes, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el artículo anterior.
+29.- Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el artículo anterior.
 
 ###### Artículo 7.
 
 30.- Las concesiones y permisos en materia de transporte público no otorgan exclusividad a los concesionarios en la prestación del servicio. La autoridad podrá negar las concesiones cuando puedan originar acaparamiento o acumulación, o contravenir las disposiciones en materia de competencia económica.
 
-La Secretaría de Comunicaciones y Transportes establecerá, mediante disposiciones administrativas de carácter general, las previsiones necesarias para evitar el acaparamiento o acumulación de las concesiones.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+Las Secretarías de Comunicaciones y Transporte, en el ámbito de su respectiva competencia, establecerán mediante disposiciones administrativas de carácter general, las previsiones necesarias para evitar el acaparamiento o acumulación de las concesiones.
 
 ###### Artículo 7.
 
@@ -5013,7 +5091,9 @@ Ninguna autorización que se otorgue tendrá una vigencia mayor a la de las conc
 
 32.- Tratándose de concesiones para el servicio público de transporte de alta capacidad o masivo, la vigencia y su prórroga se determinarán considerando el monto de la inversión, el tiempo para su recuperación y la obligación del concesionario para renovar, conservar y mantener en buen estado de funcionamiento las vías, instalaciones, equipo y flota vehicular con que se preste el servicio, apegándose a la normatividad de protección al ambiente.
 
-### CAPITULO SEGUNDO. Del Registro Estatal de Transporte e Infraestructura Vial
+### CAPITULO SEGUNDO. De los registros estatales de comunicaciones y de transporte
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 7.
 
@@ -5023,7 +5103,9 @@ I. Los servicios de transporte de pasajeros especializado y el de carga;
 
 II. Los servicios auxiliares de arrastre, arrastre y salvamento, y depósito de vehículos;
 
-III. Los servicios conexos, que son las terminales de pasajeros, bases, bahías de ascenso y descenso, cobertizos y estaciones de transferencia modal;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+III. Los servicios conexos, que son las terminales de pasajeros, bases, bahías de ascenso y descenso, y cobertizos;
 
 IV. La instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos.
 
@@ -5035,7 +5117,9 @@ IV. La instalación y explotación de anuncios publicitarios en los diversos tip
 
 35.- Los concesionarios y permisionarios serán solidariamente responsables con sus conductores de los daños que causen con motivo de la prestación del servicio.
 
-Las disposiciones reglamentarias aplicables y la Secretaría de Comunicaciones y Transportes establecerán las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, establecerán las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -5043,11 +5127,13 @@ Las disposiciones reglamentarias aplicables y la Secretaría de Comunicaciones y
 
 36.- Los concesionarios o permisionarios de los servicios de transporte podrán prestarlos con vehículos de su propiedad o en su posesión, en los términos que señalen las disposiciones reglamentarias.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 7.
 
-37.- Las autoridades de transporte podrán autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos, siempre en atención a la satisfactoria prestación del servicio y a las necesidades públicas.
+37.- Las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, podrán autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos, siempre en atención a la satisfactoria prestación del servicio y a las necesidades públicas.
 
-## TITULO CUARTO. Disposiciones comunes en materia de infraestructura vial y transporte
+## TITULO TERCERO. Del transporte
 
 ###### Artículo 7.
 
@@ -5055,13 +5141,19 @@ Las disposiciones reglamentarias aplicables y la Secretaría de Comunicaciones y
 
 I. Prestar el servicio en los términos del presente Libro, de su reglamento y de la concesión o permiso;
 
-II. Prestar el servicio obligatoriamente cuando lo requiera la Secretaría de Comunicaciones y Transportes en casos de riesgo o desastre, con arreglo a las disposiciones del Libro Sexto de este Código;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+II. Prestar el servicio obligatoriamente cuando lo requieran las secretarías de Comunicaciones o de Transporte, en casos de riesgo o desastre, con arreglo a las disposiciones del Libro Sexto de este Código;
 
 III. Vigilar que sus conductores y personal relacionado con el servicio cumpla con las disposiciones legales en materia de infraestructura vial y transporte;
 
-IV. Proporcionar en todo tiempo a la Secretaría de Comunicaciones y Transportes los datos, informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-V. Proporcionar capacitación continua y permanente al personal a su cargo, conforme a los programas autorizados por la Secretaría de Comunicaciones y Transportes;
+IV. Proporcionar en todo tiempo a la Secretaría de Comunicaciones o a la de Transporte los datos, informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+V. Proporcionar capacitación continua y permanente al personal a su cargo, conforme a los programas autorizados por las secretarías de Comunicaciones o de Transporte;
 
 VI. Resarcir a los usuarios y a los terceros, de los daños que se les causen con motivo de la concesión o permiso;
 
@@ -5075,23 +5167,31 @@ Para estos efectos, los concesionarios y permisionarios que cuenten con los elem
 
 X. Mantener los vehículos y servicios auxiliares o conexos en condiciones de seguridad, comodidad e higiene para el servicio;
 
-XI. Obtener las inscripciones en el Registro Estatal de Transporte e Infraestructura Vial, conforme a lo dispuesto en este Libro y su reglamentación;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-XII. Solicitar autorización previa de la Secretaría de Comunicaciones y Transportes para sustituir el vehículo o vehículos con que se presta el servicio;
+XI. Obtener las inscripciones en el Registro Estatal de Transporte o en el de Comunicaciones, conforme a los (sic) dispuesto en este Libro y su reglamentación;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+XII. Solicitar autorización previa de la Secretaría de Transporte para sustituir el vehículo o vehículos con que se presta el servicio;
 
 XIII. Cumplir con la cromática y demás elementos de identificación de los vehículos, en términos de las disposiciones reglamentarias y administrativas;
 
 XIV. Abstenerse de realizar actos que impliquen competencia desleal respecto de otros concesionarios o permisionarios;
 
-XV. Obtener autorización previa de la Secretaría de Comunicaciones y Transportes para la cesión de derechos derivados de la concesión o permiso, así como para la constitución de hipoteca o demás garantías sobre los derechos de la concesión o permiso y los bienes destinados a la prestación del servicio;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+XV. Obtener autorización previa de la secretarías de Comunicaciones o de Transporte para la cesión de derechos derivados de la concesión o permiso, así como para la constitución de hipoteca o demás garantías sobre los derechos de la concesión o permiso y los bienes destinados a la prestación del servicio;
 
 XVI. Cooperar con el Estado para el mantenimiento de los caminos, calzadas, avenidas y calles por donde transiten;
 
 XVII. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
 
-Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por la Secretaría de Comunicaciones y Transportes; en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
+Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por las secretarías de Comunicaciones o de Transporte; en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia.
+
+## TITULO CUARTO. Disposiciones comunes en materia de infraestructura vial y transporte
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -5113,11 +5213,13 @@ III. En general, pretenda que la prestación del servicio se haga contraviniendo
 
 La hipoteca podrá constituirse por un lapso que en ningún caso comprenderá la última quinta parte del tiempo en que deba finalizar la concesión.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO SEGUNDO. De los vehículos
 
 ###### Artículo 7.
 
-41.- En la escritura de hipoteca se insertará la autorización de la Secretaría de Comunicaciones y Transportes para hipotecar, el término de la concesión y la prohibición de que por ningún motivo pueden adquirir la concesión las personas que no reúnan los requisitos que se establezcan para ser concesionario.
+41.- En la escritura de hipoteca se insertará la autorización de las secretarías de Comunicaciones o de Transporte para hipotecar, el término de la concesión y la prohibición de que por ningún motivo pueden adquirir la concesión las personas que no reúnan los requisitos que se establezcan para ser concesionario.
 
 ###### Artículo 7.
 
@@ -5203,35 +5305,53 @@ XIV. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 El titular de una concesión o permiso que hubiere sido revocado estará imposibilitado para obtener otro nuevo dentro de un plazo de cinco años, contado a partir de que hubiere quedado firme la resolución respectiva.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 7.
 
-47.- El Registro Estatal de Transporte e Infraestructura Vial tiene como objeto integrar la información relacionada con la infraestructura vial y el transporte.
+47.- El Registro Estatal de Comunicaciones tiene por objeto integrar la información relacionada con la infraestructura vial y los sistemas de transporte masivo, y el Registro Estatal de Transporte tiene por objeto integrar la información relacionada con el transporte.
 
-El Registro contendrá la siguiente información:
+Los registros estatales de comunicaciones y de transporte, contendrán la información siguiente:
 
-I. Concesiones y permisos estatales;
+I. El Registro de Comunicaciones contendrá:
 
-II. Placas de matriculación, calcomanías y tarjetas de circulación;
+a) Concesiones y permisos estatales;
 
-III. Constitución de garantías;
+b) Constitución de garantías;
 
-IV. Estatutos y representación de concesionarios y permisionarios;
+c) Estatutos y representación de concesionarios y permisionarios;
 
-V. Padrón de operadores;
+d) Las demás que señale el reglamento correspondiente.
 
-VI. Licencias para conducir;
+II. El Registro Estatal de Transporte contendrá:
 
-VII. La (sic) demás que se señale en el reglamento correspondiente.
+a) Concesiones y permisos estatales;
 
-Las Secretarías de Comunicaciones y Transportes y General de Gobierno inscribirán la información en forma simultánea al otorgamiento de las concesiones, permisos o licencias de su competencia.
+b) Matrículas;
 
-El Registro será público, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
+c) Constitución de garantías;
+
+d) Estatutos y representación de concesionarios y permisionarios;
+
+e) Padrón de operadores;
+
+f) Licencias para conducir;
+
+g) Las demás que señale el reglamento correspondiente.
+
+El Registro Estatal de Comunicaciones será público y tendrá efectos declarativos.
+
+El Registro Estatal de Transporte será público, tendrá efectos declarativos y surtirá efectos contra terceros.
 
 ###### Artículo 7.
 
 48.- Las autoridades podrán imponer como medida de seguridad, la retención del vehículo cuando se violen flagrantemente las disposiciones de este Libro y las disposiciones que de él emanen, o bien, cuando los vehículos no se encuentren en condiciones para la prestación del servicio público de transporte o pongan en peligro la seguridad de los usuarios del servicio o de terceros. Asimismo, la autoridad podrá ordenar la clausura de depósitos de vehículos, terminales de pasajeros o paradores o bien, el retiro de anuncios publicitarios, cuando se ponga en riesgo la seguridad de los usuarios o de terceros.
 
 La retención del vehículo podrá determinarse hasta que las faltas que dieron origen a la retención sean corregidas.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+El presente artículo no será aplicable tratándose de los sistemas de transporte masivo.
 
 ###### Artículo 7.
 
@@ -5241,9 +5361,11 @@ La retención del vehículo podrá determinarse hasta que las faltas que dieron 
 
 50.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus demás accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 7.
 
-51.- Las infracciones a las disposiciones de este Libro y las que de él emanen en materia de infraestructura vial, serán sancionadas con:
+51.- Las infracciones a las disposiciones de este Libro y las que de él emanen, en materia de comunicaciones de jurisdicción local, serán sancionadas con:
 
 I. Amonestación;
 
@@ -5252,6 +5374,14 @@ II. Multa hasta de un siete por ciento del monto total de la inversión de la ob
 III. Demolición de la obra o retiro de las instalaciones a costa del infractor, en caso de que se ponga en riesgo la seguridad de los usuarios o se interrumpa la prestación del servicio;
 
 IV. Suspensión temporal o definitiva, parcial o total, de la obra o instalaciones.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+V. Revocación de la concesión, permiso o autorización;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+VI. Retiro de anuncios publicitarios.
 
 ###### Artículo 7.
 
@@ -5293,7 +5423,9 @@ VII. Multa de doscientas cincuenta a trescientas veces el salario mínimo genera
 
 a) Conduzca la unidad bajo los influjos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica. Esta sanción se aplicará sin perjuicio de la retención del vehículo y la responsabilidad en que se pudiera incurrir, siendo igualmente solidario el concesionario o permisionario por los actos del personal a su servicio;
 
-b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la Secretaría de Comunicaciones y Transportes en términos del reglamento correspondiente;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la Secretaría de Transporte en términos del Reglamento correspondiente;
 
 c) No acreditar haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso.
 
@@ -5337,7 +5469,7 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
 
 ### CAPITULO TERCERO. De las organizaciones de productores
 
@@ -5345,7 +5477,7 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 # LIBRO OCTAVO. Del tránsito y estacionamientos de servicio al público
 
-## TITULO SEGUNDO. Del tránsito
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO SEGUNDO. De la comercialización
 
@@ -5365,7 +5497,7 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 Corresponde a la Secretaría General de Gobierno ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
 
-## TITULO TERCERO. De los estacionamientos de servicio al público
+## TITULO SEGUNDO. Del tránsito
 
 ### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
 
@@ -5381,15 +5513,17 @@ I. Las reglas de circulación que deberán observar los conductores, peatones y,
 
 II. Las limitaciones y restricciones que se establezcan para el tránsito de vehículos en la infraestructura vial, con objeto de mejorar la vialidad, preservar el ambiente y salvaguardar la seguridad de personas y el orden público.
 
-###### Artículo 8.
-
-6.- La Secretaría General de Gobierno expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos que transiten por la infraestructura vial.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 8.
 
-7.- En las vías públicas tienen preferencia de paso las ambulancias, las patrullas de policía, los vehículos del cuerpo de bomberos cuando circulen con la sirena y con la torreta encendida, así como los convoyes militares, el ferrocarril y cualquier tipo de transporte de alta capacidad o masivo. Los peatones y conductores tienen la obligación de cederles el paso.
+6.- En las vías públicas tienen preferencia de paso las ambulancias, las patrullas de policía, los vehículos del cuerpo de bomberos cuando circulen con la sirena y con la torreta encendida, así como los convoyes militares, el ferrocarril y cualquier tipo de transporte de alta capacidad o masivo. Los peatones y conductores tienen la obligación de cederles el paso.
 
-Los conductores no deberán seguir a los vehículos de emergencia, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de dichos vehículos.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 8.
+
+7.- Los conductores no deberán seguir a los vehículos de emergencia, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de dichos vehículos.
 
 ###### Artículo 8.
 
@@ -5535,7 +5669,7 @@ III. Detener la marcha de cualquier vehículo cuando el conductor esté cometien
 
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
-## TITULO CUARTO. De las infracciones y sanciones
+## TITULO TERCERO. De los estacionamientos de servicio al público
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -5577,11 +5711,11 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito, si los hubiere, se procederá a la entrega de los vehículos.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De las infracciones y sanciones
 
 # LIBRO NOVENO. Del fomento y desarrollo agropecuario, acuícola y forestal
 
-## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias, acuícolas y forestales
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -5611,7 +5745,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 Se entiende por productor rural la persona física que directa o indirectamente se dedique a la producción de especies vegetales o animales, o quienes agreguen valor a su producción mediante procesos de transformación y comercialización.
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario, Acuícola y Forestal
+## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias, acuícolas y forestales
 
 ### CAPITULO CUARTO. Del turismo
 
@@ -5672,6 +5806,8 @@ VI. La formación y capacitación de árbitros, así como la constitución de un
 VII. La integración de cadenas productivas, y mecanismos que permitan la obtención de financiamientos con tasas preferenciales, en materia de comercialización.
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 9.
 
@@ -5835,7 +5971,7 @@ VI. Los mecanismos de responsabilidad de los productores respecto a la utilizaci
 
 VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones necesarias.
 
-## TITULO CUARTO. De las infracciones y sanciones
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario, Acuícola y Forestal
 
 ###### Artículo 9.
 
@@ -5843,7 +5979,7 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 Las dependencias y organismos de la administración pública estatal y municipal, así como las empresas del sector agropecuario que cuenten con el certificado de empresa mexiquense deberán proporcionar a la Secretaría de Desarrollo Agropecuario los informes que les requiera.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De las infracciones y sanciones
 
 ### CAPÍTULO PRIMERO. Disposiciones generales
 
@@ -5869,7 +6005,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 # LIBRO DECIMO. Del fomento económico
 
-## TITULO SEGUNDO. Del fomento empresarial
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO TERCERO. De la educación regular y especial
 
@@ -5937,7 +6073,7 @@ VII. Que actúen de manera coordinada con el Consejo Consultivo Económico Estat
 
 Para la creación de los consejos consultivos regionales se estará a la regionalización establecida por el Plan de Desarrollo del Estado de México.
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
+## TITULO SEGUNDO. Del fomento empresarial
 
 ### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
@@ -6145,7 +6281,7 @@ VII. La información estadística de la zona vinculada al turismo.
 
 Para efectos de este artículo, se entiende por zona de interés turístico aquella parte del territorio del Estado que cuenta con equipamiento, instalaciones, infraestructura, atractivos y que recibe turistas, así como la que presenta características idóneas para realizar actividades turísticas.
 
-## TITULO CUARTO. Del otorgamiento de apoyos
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
 
 ###### Artículo 10.
 
@@ -6175,7 +6311,7 @@ I. Lo solicite el interesado;
 
 II. Por fallecimiento, en caso de persona física, o fusión, liquidación o extinción, tratándose de persona moral.
 
-## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
+## TITULO CUARTO. Del otorgamiento de apoyos
 
 ###### Artículo 10.
 
@@ -6213,7 +6349,7 @@ IV. Participación en los programas de identificación y promoción, nacionales 
 
 V. Promover y facilitar la adquisición de terrenos, en aquellas zonas en las que se pretenda desarrollar las actividades económicas.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
 
 ###### Artículo 10.
 
@@ -6229,7 +6365,7 @@ IV. Exportación.
 
 # LIBRO DECIMO PRIMERO. De la protección e integración al desarrollo de las personas con capacidades diferentes
 
-## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
+## TITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 11.
 
@@ -6247,7 +6383,7 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 ###### Artículo 11.
 
-4.- Las secretarías General de Gobierno, de Salud, del Trabajo y de la Previsión Social, de Educación, Cultura y Bienestar Social, de Desarrollo Urbano y Obras Públicas y de Comunicaciones y Transportes, el Instituto de Salud del Estado de México, así como las autoridades de tránsito y desarrollo urbano municipales, en el ámbito de su respectiva competencia, tendrán atribuciones para lograr la integración a la sociedad de las personas con capacidades diferentes, de conformidad con lo establecido en este Libro.
+4.- Las secretarías General de Gobierno, de Salud, del Trabajo y de la Previsión Social, de Educación, Cultura y Bienestar Social, de Desarrollo Urbano y Obras Públicas, de Comunicaciones, y de Transporte, el Instituto de Salud del Estado de México, así como las autoridades de tránsito y desarrollo urbano municipales, en el ámbito de su respectiva competencia, tendrán atribuciones para lograr la integración a la sociedad de las personas con capacidades diferentes, de conformidad con lo establecido en este Libro.
 
 ###### Artículo 11.
 
@@ -6313,7 +6449,7 @@ III. Promover la integración educativa, laboral, recreativa, cultural y deporti
 
 Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivos consejos municipales.
 
-## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
+## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
 
 ###### Artículo 11.
 
@@ -6535,7 +6671,7 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 39.- El Sistema para el Desarrollo Integral de la Familia del Estado de México coordinará un programa estatal para informar, capacitar y adiestrar a las familias y a los terceros, para aumentar su capacidad de estimular y atender el desarrollo de las personas con capacidades diferentes, así como propiciar un entorno familiar adecuado a sus necesidades de rehabilitación con las instituciones del sector salud.
 
-## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
+## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
 
 ###### Artículo 11.
 
@@ -6545,11 +6681,13 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 41.- Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría para las personas con capacidades diferentes respecto al uso de los servicios que requieran, así como de las prestaciones a su alcance y las condiciones de acceso a las mismas.
 
-## TITULO QUINTO. De las sanciones
+## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
 
 ###### Artículo 11.
 
 42.- Gobierno del Estado, a través de las Secretarías de Salud y de Educación, Cultura y Bienestar Social, del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México y de la Universidad Autónoma del Estado de México, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos responsables de la atención de personas con capacidades diferentes, de conformidad con los objetivos y prioridades del Sistema Estatal de Salud y los programas educativos.
+
+## TITULO QUINTO. De las sanciones
 
 ###### Artículo 11.
 
@@ -6665,9 +6803,11 @@ Los titulares de los fraccionamientos que a la entrada en vigor del presente Có
 
 Los fraccionamientos autorizados que se encuentren en proceso a la entrada en vigor del presente Código, se regularán por las disposiciones de éste aplicables a los conjuntos urbanos.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO DECIMO PRIMERO.
 
-La Secretaría de Comunicaciones y Transportes, atendiendo a las necesidades públicas, emitirá las disposiciones pertinentes para reordenar y regularizar el transporte en sus diversas modalidades, incluyendo la autorización de prórroga de concesiones, así como expedir los actos administrativos que para tal efecto se requieran.
+La Secretaría de Transporte, atendiendo a las necesidades públicas, emitirá las disposiciones pertinentes para reordenar y regularizar el transporte en sus diversas modalidades, incluyendo la autorización de prórroga de concesiones, así como expedir los actos administrativos que para tal efecto se requieran.
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
@@ -6698,3 +6838,13 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- La Secretaría de Finanzas y Planeación, de Administración y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para la instrumentación y ejecución de los programas de becas para la atención de personas con capacidades diferentes, en especial para niños mexiquenses con alguna limitación física, sensorial o intelectual.
+
+P.O. 11 DE DICIEMBRE DE 2002.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente a su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado expedirá el reglamento de los servicios gubernamentales por vía electrónica, dentro del plazo de 90 días siguientes a la publicación de este decreto.
+
+CUARTO.- Se derogan las disposiciones legales de igual o menor rango que se opongan al presente decreto.
