@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2001-09-07"
+last_updated: "2003-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ENERO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -637,9 +637,11 @@ Las Comisiones del Congreso serán Permanentes, Especiales y de Protocolo y Cort
 
 Las Comisiones Permanentes tendrán la competencia que se deriva de su denominación y las especiales las de los asuntos que motivaron su integración.
 
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2003)</small>
+
 ###### Artículo 39.
 
-Serán Permanentes las Comisiones siguientes:
+Serán permanentes las Comisiones siguientes:
 
 I. Administración y Presupuesto;
 
@@ -649,7 +651,7 @@ III. Comunicaciones;
 
 IV. Derechos Humanos y Atención a Grupos Vulnerables;
 
-V. Desarrollo Agropecuario, Forestal y Pesquero;
+V. Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación;
 
 VI. Desarrollo Económico;
 
@@ -677,15 +679,19 @@ XVII. Juventud y Deporte;
 
 XVIII. Límites Territoriales Intermunicipales;
 
-XIX. Organización Política y Procesos Electorales;
+XIX. Medio Ambiente, Recursos Naturales y Aguas;
 
-XX. Protección Civil;
+XX. Organización Política y Procesos Electorales;
 
-XXI. Salud y Asistencia;
+XXI. Protección Civil;
 
-XXII. Seguridad Pública y Procuración de Justicia; y
+XXII. Salud y Asistencia;
 
-XXIII. Vigilancia.
+XXIII. Seguridad Pública y Procuración de Justicia;
+
+XXIV. Trabajo y Previsión Social; y
+
+XXV. Vigilancia.
 
 > <small>(REFORMADO, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
 
@@ -887,7 +893,7 @@ III. Auxiliar a la Mesa Directiva en las reuniones que celebre, cuando no funcio
 
 IV. Dirigir, ejecutar y supervisar los trabajos y el cumplimiento de las atribuciones y el correcto funcionamiento de las Secretarías de Servicios Legislativos, de Fiscalización y de Servicios Administrativos y Financieros;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2000)</small>
 
 V. Recibir la Declaración de Situación Patrimonial de los Servidores Públicos Estatales y Municipales, de conformidad con la Ley de la Materia y demás disposiciones aplicables;
 
@@ -1020,3 +1026,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE ENERO DE 2003.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
