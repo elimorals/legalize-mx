@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1996-07-04"
+last_updated: "1996-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 1996.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -325,7 +325,7 @@ La resolución, sobre el recurso de inconformidad será definitiva tratándose d
 
 Para los efectos de esta Ley se consideran:
 
-1.- Predios, los definidos y clasificados por la Ley de Catastro.
+I.- Predios, los definidos y clasificados por la Ley de Catastro.
 
 La porción o porciones de terreno incluyendo en su caso, sus construcciones, que pertenezcan a un mismo propietario o a varios en copropiedad, a falta de éstos, a uno o más poseedores por cualquier título y cuyos linderos con propiedades ajenas formen un perímetro sin solución de continuidad.
 
@@ -2639,6 +2639,8 @@ III.- Diversiones y espectáculos públicos y juegos permitidos.
 
 7.- Juegos permitidos de 1 a 10 salarios mínimos.
 
+> <small>N. DE E. POR DECRETO No. 134 PUBLICADO EN EL P.O. EL 1 DE AGOSTO DE 1996, SE RESTABLECE EL COBRO DE LOS DERECHOS DE EXPEDICIÓN DE LICENCIAS O REFRENDOS POR CONCEPTO DE ANUNCIOS CONTENIDOS EN ESTA FRACCIÓN.</small>
+
 IV.- Anuncios:
 
 1.- Vehículos para propaganda comercial o de cualquier otra índole con aparatos de sonido, de 1 a 5 salarios mínimos.
@@ -3057,7 +3059,7 @@ CUARTO.- En tanto siga vigente la Declaratoria de Coordinación en Materia Feder
 
 4.- Sobre empadronamiento, a que se refiere el Capítulo XIII del Título Tercero de esta Ley.
 
-5.- Por expedición de licencias y refrendos que se refiere el Capítulo XIV del Título Tercero de esta Ley.
+5.- (DEROGADO, P.O. 1 DE AGOSTO DE 1996)
 
 6.- Por apertura de negocios en horas extraordinarias, a que se refiere el Capítulo XV del Título Tercero de esta Ley.
 
@@ -3194,3 +3196,7 @@ U N I C O.- Este Decreto entrará en vigor a partir del día siguiente al de su 
 P.O. 4 DE JULIO DE 1996.
 
 U N I C O.- El presente Decreto surtirá sus efectos legales a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 1996.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación, en el Periódico Oficial del Estado.
