@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2003-10-17"
+last_updated: "2003-10-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 2003.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -139,7 +139,9 @@ II.- SEGUNDO CIRCUITO:
 
 1.- Diez tribunales colegiados especializados: dos en materia penal, uno en materia administrativa, cuatro en materia civil y uno en materia de trabajo, con residencia en Toluca y dos tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez.
 
-2.- Tres tribunales unitarios: dos con sede en Toluca y uno con residencia en Ciudad Nezahualcóyotl.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 72/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2003)</small>
+
+2.- Cinco tribunales unitarios: cuatro con sede en Toluca y uno con residencia en Ciudad Nezahualcóyotl.
 
 > <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 69/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE OCTUBRE DE 2003)</small>
 
@@ -1170,5 +1172,11 @@ D.O.F. 17 DE OCTUBRE DE 2003.
 ACUERDO 69/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO II, NUMERO 3.
 
 PRIMERO.- Este acuerdo entrará en vigor el diecinueve de octubre de dos mil tres.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 24 DE OCTUBRE DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el veintiséis de octubre de dos mil tres.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
