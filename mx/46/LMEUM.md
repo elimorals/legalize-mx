@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1992-06-22"
+last_updated: "1992-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "LMEUM"
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 1992.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 26 DE JUNIO DE 1992.]</small>
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de julio de 1931.
 
@@ -872,6 +874,8 @@ CUÑOS:
 
 Anverso: Al centro el Escudo Nocional en relieve escultórico, con la leyenda "ESTADOS UNIDOS MEXICANOS", formando el semicírculo superior.
 
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
+
 Reverso: En la parte central de la moneda, el número cinco "5" como motivo principal y valor facial, a su derecha el símbolo de centavos "c", en el campo superior al centro el año de acuñación y a la derecha el símbolo de la Casa Moneda de México "M", a la izquierda paralelo a un pentágono inscrito, una estilización de los rayos solares del Anillo de los Quincunces de la Piedra del Sol.
 
 CANTO: Será liso para las composiciones de los incisos A) y B); y estriado para la composición del inciso C).
@@ -907,6 +911,8 @@ En esta composición el peso será de 0.75 g (setenta y cinco centigramos), y la
 CUÑOS;
 
 Anverso: Al centro el Escudo Nacional en relieve escultórico, con la leyenda "ESTADOS UNIDOS MEXICANOS", formando el semicírculo superior.
+
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
 
 Reverso: En la parte central de la moneda el número diez "10" como motivo principal y valor facial, a su derecha el símbolo de centavos "c", en el campo superior al centro el año de acuñación, en el campo inferior al centro el símbolo de la Casa de Moneda "M" a la derecha paralelo a un hexágono inscrito, una estilización del Anillo del Sacrificio de la Piedra del Sol.
 
@@ -1004,6 +1010,8 @@ CUÑOS:
 
 Anverso: Al centro el Escudo Nacional en relieve escultórico, con la leyenda "ESTADOS UNIDOS MEXICANOS", formando el semicírculo superior.
 
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
+
 Reverso: En la parte central de la moneda el número veinte "20", como motivo principal y valor facial, a su derecha el símbolo de centavos "c", en el campo superior al centro el año de acuñación, en el campo inferior al centro el símbolo de la Casa de Moneda de México "M", a la izquierda paralelo a un marco dodecagonal una estilización del Acatl Decimotercer día de la Piedra del Sol.
 
 CANTO: Liso.
@@ -1051,6 +1059,8 @@ En esta composición el peso será de 4.27 g (cuatro gramos, veintisiete centés
 CUÑOS:
 
 Anverso: Al centro el Escudo Nacional en relieve escultórico, con la leyenda "ESTADOS UNIDOS MEXICANOS", formando el semicírculo superior.
+
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
 
 Reverso: En la parte central de la moneda, el número cincuenta "50" como motivo principal y valor facial, a su derecha el símbolo de centavos "c", en el campo superior al centro el año de acuñación, en el campo inferior al centro el símbolo de la Casa de Moneda de México "M" y paralelo al marco en semicírculo, en la parte inferior una estilización del Anillo de la Aceptación de la Piedra del Sol.
 
@@ -1138,6 +1148,8 @@ CUÑOS:
 
 Anverso: El Escudo Nacional con la leyenda "ESTADOS UNIDOS MEXICANOS", formando el semicírculo superior.
 
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
+
 Reverso: En la parte central a la izquierda el símbolo "$" y a la derecha el valor facial uno "1", en el campo superior al centro el año de acuñación, en el campo derecho al centro el símbolo de la Casa de Moneda de México "M". Como motivo principal una estilización del anillo del Resplandor Solar de la Piedra del Sol.
 
 CANTO: Liso.
@@ -1215,6 +1227,8 @@ F) 5.15 g (cinco gramos, quince centésimos), y la tolerancia en peso por pieza 
 CUÑOS:
 
 Anverso: El Escudo Nacional con la leyenda "ESTADOS UNIDOS MEXICANOS", formando el semicírculo superior.
+
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
 
 Reverso: En la parte central a la izquierda aparece "$", al lado derecho el valor facial dos "2", en el campo superior el año de acuñación, en el campo derecho al centro, el símbolo de la casa de Moneda de México "M". Como motivo principal una estilización del Anillo de los Días de la Piedra del Sol.
 
@@ -1294,6 +1308,8 @@ CUÑOS:
 
 ANVERSO: El Escudo Nacional con la leyenda "ESTADOS UNIDOS MEXICANOS", formando el semicírculo superior.
 
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
+
 Reverso: En la parte central a la izquierda aparece el símbolo "$" y al centro el número cinco "5" como valor facial, en el campo superior izquierdo el año de acuñación, en el campo derecho al centro el símbolo de la Casa de Moneda de México "M". Como motivo principal aparece una estilización del Anillo de las Serpientes de la Piedra del Sol.
 
 CANTO: Liso.
@@ -1324,7 +1340,9 @@ Tolerancia en Ley: 0.005 (cinco milésimas) en más o en menos.
 
 Tolerancia en Peso por pieza: 0.090g (noventa miligramos) en más o en menos.
 
-Tolerancia en Peso por conjunto de mil piezas: 1.75 g (un gramo, setenta y cinco centésimos) en más o (sic)
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
+
+Tolerancia en Peso por conjunto de mil piezas: 1.75 g (un gramo, setenta y cinco centésimos) en más o en menos.
 
 2. Anillo perimétrico de la moneda.
 
@@ -1368,6 +1386,8 @@ CUÑOS:
 
 Anverso: El Escudo Nacional con la leyenda "ESTADOS UNIDOS MEXICANOS", formando el semicírculo superior.
 
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
+
 Reverso: en la parte central está el círculo de la Piedra del Sol que representa a Tonatiuh con la máscara de fuego. En el anillo perimétrico, en la parte superior, al centro el símbolo "$10", a la izquierda el año de acuñación y a la derecha el símbolo de la Casa de Moneda de México "M", en la parte inferior la leyenda "DIEZ PESOS". El marco liso con gráfila escalonada.
 
 CANTO: Estriado.
@@ -1378,11 +1398,11 @@ PRIMERO.- El presente Decreto entrará en vigor el 1º de enero de 1993, con exc
 
 SEGUNDO.- Se deroga el Decreto por el que se reforma el inciso b) del artículo 2-º de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de las monedas de cien, doscientos, quinientos, mil, dos mil, cinco mil y diez mil pesos, publicado en el Diario Oficial de la Federación el 23 de julio de 1990.
 
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
+
 TERCERO.- Las piezas de uno, cinco, diez, veinte, cincuenta, cien, quinientos y mil pesos anteriores a las previstas en el Decreto referido en el artículo anterior, así como las conmemorativas a que se refiere el inciso c) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, que no hayan sido desmonetizadas, continuarán con el poder liberatorio que les señala el artículo 5-º de la citada Ley, hasta que sean retiradas de la circulación por el Banco de México.
 
-El Banco de México, deberá publicar en el Diario Oficial de la Federación un aviso en el que se indique que las piezas referidas en el párrafo anterior ya han sido retiradas de la circulación, sin perjuicio de lo cual, en los términos de su Ley Orgánica, efectuará el canje de dichas monedas durante un plazo de dos años contado a partir de la fecha de publicación del aviso respectivo. (sic) Unidos Mexicanos y se señalan las características de las monedas de cien, doscientos, quinientos, mil, dos mil, cinco mil y diez mil pesos, publicado en el Diario Oficial de la Federación el 23 de julio de 1990.
-
-TERCERO.- (sic) Las piezas de uno, cinco, diez, veinte, cincuenta, cien, quinientos y mil pesos anteriores a las previstas en el Decreto referido en el artículo anterior, así como las conmemorativas a que se refiere el inciso c) del artículo 2-º de la Ley Monetaria de los Estados Unidos Mexicanos, que no hayan sido desmonetizadas, continuarán con el poder liberatorio que les señala el artículo 5-º de la citada Ley, hasta que sean retiradas de la circulación por el Banco de México.
+> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
 
 El Banco de México, deberá publicar en el Diario Oficial de la Federación un aviso en el que se indique que las piezas referidas en el párrafo anterior ya han sido retiradas de la circulación, sin perjuicio de lo cual, en los términos de su Ley Orgánica, efectuará el canje de dichas monedas durante un plazo de dos años contado a partir de la fecha de publicación del aviso respectivo.
 
