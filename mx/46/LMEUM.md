@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1981-12-28"
+last_updated: "1983-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1983.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -54,9 +54,9 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, S. A., con las denominaciones que fijen sus estatutos;
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1983)</small>
 
-b). Las monedas metálicas de cien, cincuenta, veinte, diez, cinco y un pesos, y de cincuenta, veinte y diez centavos con los diámetros, composición metálica, pesos, cuños y demás características que señalen los decretos relativos.
+b). Las monedas metálicas de doscientos, cien, cincuenta, veinte, diez, cinco, dos y un pesos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos.
 
 c). Las monedas conmemorativas de acontecimientos de importancia nacional, en plata, con los valores de cada pieza y el total de la emisión, diámetros, leyes, pesos, cuños y demás características que señalen los decretos relativos.
 
@@ -78,7 +78,11 @@ D.O.F. 27 DE ABRIL DE 1935.
 
 ###### ARTICULO 3o.
 
-Se retiran de la circulación las monedas de plata de cinco pesos, ley de 0.900, y de un peso y cincuenta centavos, ley de 0.500, creadas por decreto de 11 de septiembre de 1947, con las características que señaló el decreto de esa misma fecha, el cual se deroga.
+Los pagos en efectivo de obligaciones cuyo importe sea o comprenda fracciones de la unidad monetaria, se efectuarán ajustando su monto a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior.
+
+Las operaciones cuya realización no implique entrega de efectivo se efectuarán incluyendo, en su caso, fracciones de un peso.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1938)</small>
 
 ###### ARTICULO 4o.
 
@@ -274,15 +278,13 @@ El Banco de México determinará diariamente la cotización de estas monedas, co
 
 El Banco de México, directamente o a través de sus corresponsales, estará obligado a recibir ilimitadamente estas monedas, a su valor de cotización, entregando a cambio de ellas billetes y monedas metálicas de los mencionados en el artículo 2o. de esta ley.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 3°.
 
-Los pagos en efectivo de obligaciones cuyo importe sea o comprenda fracciones de la unidad monetaria distintas de los décimos de ésta, se efectuarán ajustando su monto al décimo más próximo. Tratándose de cantidades terminadas en cinco centavos, el ajuste se hará al décimo inmediato inferior.
+Todas las obligaciones contraídas hasta la fecha de esta ley en moneda nacional de cualquier especie, se solventarán entregando monedas de los cuños que esta ley conserva, dentro de los límites respectivos de su poder liberatorio.
 
-Las operaciones cuya realización no implique entrega de efectivo, se efectuarán incluyendo, en su caso, fracciones de diez centavos.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1938)</small>
+No obstante lo prevenido en el párrafo anterior, deberán entregar monedas de oro quienes las hayan recibido en cobros por cuenta de tercero, o en depósito confidencial, o en virtud de cualquier otro contrato que no trasmita el dominio. Los bancos e instituciones bancarias deberán pagar en monedas de oro el 30% de los depósitos que el público hubiere constituído en ellos en esa especie, a la vista o a plazo no mayor de treinta días vista.
 
 ###### ARTICULO 4°.
 
@@ -408,9 +410,9 @@ Se declaran libres la exportación y la importación de oro acuñado o en pasta,
 
 ###### ARTICULO 3°.
 
-Todas las obligaciones contraídas hasta la fecha de esta ley en moneda nacional de cualquier especie, se solventarán entregando monedas de los cuños que esta ley conserva, dentro de los límites respectivos de su poder liberatorio.
+Queda prohibida, en lo absoluto, la exportación de las antiguas monedas de plata que esta ley retira de la circulación, así como la del metal que contienen ya sea fundido o afinado.
 
-No obstante lo prevenido en el párrafo anterior, deberán entregar monedas de oro quienes las hayan recibido en cobros por cuenta de tercero, o en depósito confidencial, o en virtud de cualquier otro contrato que no trasmita el dominio. Los bancos e instituciones bancarias deberán pagar en monedas de oro el 30% de los depósitos que el público hubiere constituído en ellos en esa especie, a la vista o a plazo no mayor de treinta días vista.
+Al efecto, los exportadores estarán obligados a comprobar ante las Aduanas respectivas, el origen de la plata que intenten exportar.
 
 ###### ARTICULO 4°.
 
@@ -516,9 +518,7 @@ Todas las antiguas monedas que dentro del plazo de treinta días citado reciban 
 
 ###### ARTICULO 3°.
 
-Queda prohibida, en lo absoluto, la exportación de las antiguas monedas de plata que esta ley retira de la circulación, así como la del metal que contienen ya sea fundido o afinado.
-
-Al efecto, los exportadores estarán obligados a comprobar ante las Aduanas respectivas, el origen de la plata que intenten exportar.
+Quedan derogadas las disposiciones que se opongan al presente decreto.
 
 ###### ARTICULO 4°.
 
@@ -598,25 +598,25 @@ Desde la fecha en que entre en vigor el presente Decreto dejarán de acuñarse l
 
 Se derogan las disposiciones que se opongan a lo establecido por el presente Decreto.
 
-###### ARTICULO 3°.
-
-Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 15 DE SEPTIEMBRE DE 1955.
-
 ###### ARTICULO 2°.
 
 Se autoriza hasta el treinta y uno de marzo de mil novecientos cuarenta y tres, la circulación provisional de las monedas a que se refiere el artículo anterior. El Banco de México quedará obligado a cambiar las monedas a que alude el artículo anterior por monedas de otras denominaciones, durante el plazo indicado. Después de esa fecha tales monedas quedarán privadas de todo poder liberatorio legal.
 
 ###### ARTICULO 3°.
 
-Quedan derogadas las disposiciones que se opongan al presente decreto.
+Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 15 DE SEPTIEMBRE DE 1955.
 
 ###### ARTICULO 1o.
 
 Se abrogan: a).- El decreto de 28 de diciembre de 1942, publicado en el "Diario Oficial" de la Federación de 31 de diciembre del mismo año, en el que se establecieron las características de las monedas de latón de cinco centavos; b) el decreto de 3 de agosto de 1943, publicado en el mencionado "Diario Oficial" de 10 de agosto del mismo año, en el que se establecieron las características de las monedas de latón de veinte centavos; c) el decreto de 29 de diciembre de 1949, publicado en el citado diario del día 30 de diciembre del mismo año, en el que se establecieron las características de las monedas de plata de un peso, cincuenta y veinticinco centavos, de las de cuproníquel de diez y cinco centavos y de las de latón de dos y un centavo; y d) el decreto de 27 de octubre de 1950 publicado en el referido "Diario Oficial" de 24 de noviembre de 1950 que estableció las características de las monedas de plata de cinco pesos. Se derogan las demás disposiciones que se opongan al presente decreto.
 
 Consiguientemente, desde la fecha en que entre en vigor el presente decreto, dejarán de acuñarse las monedas a que se refieren los decretos que se abrogan en el presente artículo transitorio.
+
+###### ARTICULO 3o.
+
+Se retiran de la circulación las monedas de plata de cinco pesos, ley de 0.900, y de un peso y cincuenta centavos, ley de 0.500, creadas por decreto de 11 de septiembre de 1947, con las características que señaló el decreto de esa misma fecha, el cual se deroga.
 
 ###### ARTICULO UNICO.
 
@@ -691,3 +691,21 @@ D.O.F. 28 DE DICIEMBRE DE 1981.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1o. de enero de 1984.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las antiguas monedas de diez, veinte y cincuenta centavos, continuarán en circulación con el poder liberatorio que señala el artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos, hasta que sean retiradas por el Banco de México. Este, directamente, o a través de sus corresponsales canjeará, sin limitación alguna, dichas monedas por otras de las que se encuentren en circulación, pudiendo seguirse acuñando las piezas de veinte y de cincuenta centavos hasta el 31 de diciembre de 1984, con las características que se señalan en el Decreto de 21 de diciembre de 1981, en la medida y por el tiempo necesario a la debida satisfacción de los requerimientos del público.
+
+###### ARTICULO CUARTO.
+
+Durante el año de 1984, los pagos relativos a bienes y servicios, cuando en cada operación el monto sea menor de un peso, se efectuarán cubriendo exactamente la fracción de dicha unidad que corresponda a su precio.
