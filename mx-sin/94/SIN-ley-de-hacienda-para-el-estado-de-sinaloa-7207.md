@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1990-02-07"
+last_updated: "1990-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1990.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -49,7 +49,9 @@ ART. 3.- Las normas de derecho tributario que establezcan cargas a los particula
 
 ART. 4.- Fuera del caso del Artículo anterior, tendrán carácter supletorio las normas del derecho administrativo y el derecho común, pero su aplicación se hará teniendo en cuenta los principios y modalidades del derecho fiscal.
 
-ART. 5.- En el orden administrativo, corresponde al Gobernador del Estado, directamente o por conducto de la Secretaría de Finanzas y sus dependencias, la interpretación y la aplicación de la Legislación Fiscal.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 5.- En el orden administrativo, corresponde al Gobernador del Estado, directamente o por conducto de la Secretaría de Hacienda Pública y Tesorería y sus dependencias, la interpretación y aplicación de la Legislación Fiscal.
 
 ART. 6.- La ignorancia de las leyes, reglamentos y demás disposiciones fiscales de observancia general, debidamente promulgadas y publicadas no excusa de su cumplimiento. Sin embargo, en todos los casos en los que el cumplimiento de las obligaciones fiscales pueda atribuirse al alejamiento de las vías de comunicación, a incultura de los habitantes de una región, a insuficiencia económica y a otras causas excluyentes de mala fé, el Ejecutivo del Estado podrá conceder en forma general o en forma especial, términos adicionales para el cumplimiento de las obligaciones fiscales y podrá eximir a los infractores de las sanciones correspondientes o reducir éstas.
 
@@ -85,7 +87,9 @@ ART. 17.- Las participaciones en ingresos federales se percibirán con arreglo a
 
 ART. 18.- Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a los convenios que celebre el Ejecutivo conforme a lo dispuesto por el Artículo 43, fracción XXIII, de la Constitución Política del Estado. Los demás ingresos extraordinarios se regirán por las leyes que los establezcan.
 
-ART. 19.- Todos los ingresos públicos del Estado se concentrarán a la Secretaría de Finanzas para cubrir los gastos públicos que autorice para cada ejercicio fiscal la correspondiente Ley de Ingresos y Presupuesto de Egresos. La Secretaría de Finanzas hará la provisión de fondos necesarios a las oficinas pagadoras. Sólo por disposición legal podrán afectarse determinados ingresos públicos a fines especiales, pero en todo caso, se harán los asientos correspondientes en la contabilidad de la Hacienda Pública.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 19.- Todos los ingresos públicos del Estado se concentrarán a la Secretaría de Hacienda Pública y Tesorería para cubrir los gastos públicos que autorice para cada ejercicio fiscal la correspondiente Ley de Ingresos y Presupuesto de Egresos. La Secretaría de Hacienda Pública y Tesorería hará la provisión de fondos necesarios a las oficinas pagadoras. Sólo por disposición legal podrán afectarse determinados ingresos públicos a fines especiales, pero en todo caso, se harán los asientos correspondientes en la contabilidad de la Hacienda Pública.
 
 ### CAPITULO III. De las Autoridades Fiscales
 
@@ -97,25 +101,33 @@ ART. 21.- Son Autoridades Fiscales, además del Gobernador del Estado:
 
 I.- El Secretario de Hacienda Pública y Tesorería;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
 
-II.- El Sub-Secretario de Hacienda Pública y Tesorería;
+II.- El Subsecretario de Inspección Fiscal;
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
 
 III.- El Sub-Secretario de Ingresos;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
 
-IV.- El Director de Fiscalización;
+IV.- El Director de Auditoría Fiscal;
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
 
 V.- El Director de Administración y Control Fiscal; y,
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
 
-VI.- Las demás autoridades a que esta Ley y demás ordenamientos legales confieren atribuciones en materia hacendaria.
+VI.- El Director de Ingresos Especiales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 1990)</small>
+
+VII.- El Director de Inspección y Reglamentos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 1990)</small>
+
+VIII.- Las demás autoridades a que esta Ley y demás ordenamientos legales confieren atribuciones en materia hacendaria.
 
 ART. 22.- Son órganos auxiliares de las Autoridades Fiscales, todas las autoridades administrativas, judiciales y municipales del Estado, las que deberán prestar la colaboración que aquellas les soliciten, de acuerdo con la Legislación Fiscal.
 
@@ -169,7 +181,9 @@ IX.- El visitado o la persona con la que se entienda la diligencia, los testigos
 
 X.- Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión;
 
-XI.- El visitado, o quien lo represente, podrá inconformarse con los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los veinte días siguientes a la conclusión de las mismas, ante la Secretaría de Finanzas, en el que expresará las razones de su inconformidad, y ofrecerá las pruebas documentales pertinentes que deberá acompañar a su escrito o rendir a más tardar dentro de los cuarenta y cinco días siguientes. En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+XI.- El visitado, o quien lo represente podrá inconformarse con los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los veinte días siguientes a la conclusión de las mismas, ante la Secretaría de Hacienda Pública y Tesorería, en el que expresará las razones de su inconformidad, y ofrecerá las pruebas documentales pertinentes que deberá acompañar a su escrito o rendir a más tardar dentro de los cuarenta y cinco días siguientes. En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas;
 
 XII.- Ordenar la inspección de predios, establecimientos y otros lugares, cualquiera que sea su naturaleza, así como la inspección de vehículos, libros, documentos, mercancías u otros objetos, de cualquiera clase que sean, cuando lo estimen necesario para el conocimiento de hechos o circunstancias que sirvan de base para la aplicación de la Legislación Fiscal.
 
@@ -195,7 +209,9 @@ c).- Cuando la contabilidad del negocio del causante adolezca de alguno de los s
 
 5.- Que omita el registro de facturas de compras, cuyo monto exceda del 3% del importe total de las efectuadas en el ejercicio.
 
-d).- Si con base en la contabilidad, documentación del causante, e informes de terceros, no se puedan reconstruir las operaciones normales correspondientes, la Secretaría de Finanzas podrá determinar estimativamente el ingresos gravable, tomando en cuenta lo sigiente:(sic)
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+d).- Si con base en la contabilidad, documentación del causante, e informes de terceros, no se puedan reconstruir las operaciones normales correspondientes, la Secretaría de Hacienda Pública y Tesorería, podrá determinar estimativamente el ingreso gravable, tomando en cuenta lo siguiente:
 
 Importe de compras efectuadas, inventarios de mercancías, de maquinaria y equipo; monto de la renta del local en que estén establecidos los negocios; número de trabajadores que tengan a su servicio y sueldos de que disfruten; pagos de cuotas al Instituto Mexicano del Seguro Social; impuestos pagados a la Federación Estado o Municipio; cantidades que hayan cubierto por concepto de Energía Eléctrica y Teléfono; retiros en efectivo y en especie efectuados por el propietario del negocio para la atención de sus necesidades personales y de su familia, y en general, todos los elementos de juicio que puedan utilizarse en la determinación de ingresos gravables percibidos por estos causantes.
 
@@ -211,19 +227,19 @@ XVII.- Imponer sanciones en el orden administrativo, conforme a la Ley, por infr
 
 XVIII.- Aplicar el procedimiento fiscal de ejecución, con arreglo a esta Ley.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 25.- La Secretaría de Hacienda Pública y Tesorería, la Sub-Secretaría de Hacienda Pública y Tesorería y la Sub-Secretaría de Ingresos tienen la facultad y el deber de vigilar el exacto cumplimiento de las Leyes y demás disposiciones fiscales. Por lo tanto, investigarán por los medios legales, si los créditos fiscales han sido debidamente determinados y pagados; si los contribuyentes han presentado las declaraciones a que están obligados y si los datos que contienen corresponden a la realidad y, en general, si se ha dado oportuno cumplimiento a las obligaciones que imponga la Legislación Fiscal.
+ART. 25.- La Secretaría de Hacienda Pública y Tesorería, la Sub´Secretaría de Inspección Fiscal y la Sub-Secretaría de Ingresos, tienen la facultad y el deber de vigilar el exacto cumplimiento de las leyes y demás disposiciones fiscales. Por lo tanto, investigarán por los medios legales, si los créditos fiscales han sido debidamente determinados y pagados; si los contribuyentes han presentado las declaraciones a que están obligados y si los datos que contienen corresponden a la realidad y, en general, si se ha dado oportuno cumplimiento a las obligaciones que imponga la Legislación Fiscal.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 26.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Hacienda Pública y Tesorería y el Sub-Secretario de Ingreso son autoridades competentes para ordenar la práctica de visitas a que se refiere la fracción III del Artículo 24 de esta Ley.
+ART. 26.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Inspección Fiscal y el Sub´Secretario de Ingresos, son las autoridades competentes para ordenar la práctica de visitas a que se refiere la Fracción III del Artículo 24 de esta Ley.
 
 ART. 27.- Los funcionarios y empleados fiscales están obligados, bajo su inmediata responsabilidad personal, a guardar el secreto de la situación económica de los contribuyentes que haya llegado a su conocimiento en actos de servicio; les está prohibido explotar o aprovechar en cualquier forma, los secretos profesionales de negocios que en actos del servicio hayan llegado a su conocimiento, así como al suministrar datos fiscales relativos al empadronamiento y valor catastral de predios rústicos y urbanos, de negocios comerciales, industriales, agrícolas y de profesiones y oficios, salvo por orden de autoridad Judicial competente o a solicitud por escrito de Autoridad Federal o de los dueños, poseedores, arrendatarios o encargados de estos bienes y negocios.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 28.- La determinación, revisión y recaudación de los impuestos y demás ingresos propios del Estado y los permisos, autorizaciones o registros que sean de la competencia de la Secretaría de Hacienda Pública y Tesorería, se harán por las Autoridades hacendarias, a través de la Sub-Secretaría de Hacienda Pública y Tesorería y de la Sub-Secretaría de Ingresos.
+ART. 28.- La determinación, revisión y recaudación de los impuestos y demás ingresos propios del Estado y los permisos, autorizaciones o registros que sean de la competencia de la Secretaría de Hacienda Pública y Tesorería, se harán por las autoridades hacendarias a través de la Sub´Secretaría de Inspección Fiscal y de la Sub´Secretaría de Ingresos.
 
 ART. 29.- La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en las leyes fiscales.
 
@@ -255,7 +271,9 @@ ART. 37.- Si un tercero por voluntad propia se obliga al pago de una prestación
 
 ART. 38.- Están exentos del pago de impuestos: La Federación, Las Entidades Federativas, el Estado de Sinaloa y sus Municipios y las Instituciones de Beneficiencia (sic) Privada, previa declaratoria del Ejecutivo del Estado, tratándose de estas últimas.
 
-ART. 39.- El pago de los créditos fiscales se harán dentro del plazo legal y contra recibo oficial de pago. Dicho pago se hará en las Oficinas Recaudadoras y en las Instituciones de crédito que al efecto señale la Secretaría de Finanzas. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 39.- El pago de los créditos fiscales se hará dentro del plazo legal y contra recibo oficial de pago. Dicho pago se hará en las Oficinas Recaudadoras y en las Instituciones de crédito que al efecto señale la Secretaría de Hacienda Pública y Tesorería. Los giros postales, telegráficos y bancarios y los cheques certificados se admitirán como efectivo.
 
 Los marbetes sólo se admitirán como medio de comprobar el pago de los créditos fiscales cuando las leyes así lo establezcan.
 
@@ -275,11 +293,15 @@ No se causarán recargos cuando el causante, al hacer un pago extemporáneo comp
 
 ART. 41.- Los recargos fiscales se aplicarán independientemente de las multas que establezca la Ley. Los recargos no tienen el carácter de sanción sino se (sic) indemnización al erario por la falta de pago oportuno de los adeudos respectivos. La tasa de los recargos fiscales podrá ser mayor hasta un 50% que la que se fije conforme al párrafo final del Artículo 42 de esta Ley.
 
-ART. 42.- La secretaría de Finanzas, podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo dentro del cual deben pagarse las parcialidades, no excederá de un año.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 42.- La Secretaría de Hacienda Pública y Tesorería, podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo dentro del cual deben pagarse las parcialidades, no excederá de un año.
 
 En los casos a que se refiere este precepto deberá garantizarse el interés fiscal salvo que, conforme a esta Ley, proceda su dispensa.
 
-La Secretaría de Finanzas podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+La Secretaría de Hacienda Pública y Tesorería podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
 Durante los plazos concedidos se causarán los recargos conforme la tasa que fije anualmente la Ley de Ingresos y Presupuesto de Egresos del Estado, tomando en cuenta el tipo de interés que rija en el mercado.
 
@@ -293,7 +315,9 @@ III.- Cuando en su caso deje de cubrirse alguna de las parcialidades.
 
 ART. 44.- Habrá derecho a reclamar la devolución de las cantidades indebidamente pagadas o pagadas en cantidad mayor de la debida.
 
-La solicitud de devolución se presentará por escrito, ante la Secretaría de Finanzas, debidamente motiva y fundada, acompañada de; documentos probatorios de los hechos aducidos y de los que acrediten el ingreso del pago indebido. La Secretaría de Finanzas formulará un dictamen sobre la procedencia o improcedencia de la devolución.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+La solicitud de devolución se presentará por escrito, ante la Secretaría de Hacienda Pública y Tesorería, debidamente motivida (sic) y fundada, acompañada de los documentos probatorios de los hechos aducidos y de los que acrediten el ingreso del pago indebido. La Secretaría de Hacienda Pública y Tesorería formulará un dictamen sobre la procedencia o improcedencia de la devolución.
 
 Cuando se acuerde la devolución por la cantidad que proceda, deberá efectuarse en un plazo que no excederá de tres meses. En caso contrario se pagarán intereses a razón del 18% anual.
 
@@ -315,7 +339,9 @@ ART. 48.- Cuando coexistan adeudos del Estado a favor de un particular y crédit
 
 ART. 49.- En materia de impuestos que deban determinarse mediante la presentación de una declaración por el contribuyente, la facultad fiscal para exigir su presentación o para suplir la declaración, prescribe en 5 años, contados a partir de la fecha en que la declaración debió ser presentada.
 
-ART. 50.- Las facultades de la Secretaría de Finanzas para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de 5 años, no sujeto a interrupción ni suspensión. Dicho término empezará a correr a partir:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 50.- Las facultades de la Secretaría de Hacienda Pública y Tesorería para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de cinco años, no sujeto a interrupción ni suspensión. Dicho término empezará a correr a partir:
 
 I.- Del día siguiente al en que hubiere vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones o avisos;
 
@@ -323,13 +349,17 @@ II.- Del día siguiente al en que se produjo el hecho generador del crédito fis
 
 III.- Del día siguiente al en que se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuere de carácter continuo el término correrá a partir del día siguiente al en que hubiere cesado.
 
-ART. 51.- Las facultades de la Secretaría de Finanzas para investigar hechos constitutivos de delito en materia fiscal, no se extinguirán en los términos del artículo anterior.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 51.- Las facultades de la Secretaría de Hacienda Pública y Tesorería para investigar hechos constitutivos de delito en materia fiscal, no se extinguirán en los términos del artículo anterior.
 
 ART. 52.- Las obligaciones ante el fisco estatal y los créditos a favor de éste por impuestos, derechos, productos, aprovechamientos o contribuciones especiales, se extinguen por caducidad en el término de 5 años. En el mismo plazo se extingue, también por prescripción, la obligación del fisco de devolver las cantidades pagadas indebidamente.
 
 ART. 53.- La prescripción del crédito principal extingue simultáneamente los recargos y los gastos de ejecución.
 
-ART. 54.- La prescripción se inicia a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos y será reconocida o declaradas por la Secretaría de Finanzas, a petición de cualquier interesado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 54.- La prescripción se inicia a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos o será reconocida o declarada por la Secretaría de Hacienda Pública y Tesorería, a petición de cualquier interesado.
 
 ART. 55.- La prescripción se interrumpe con cada gestión de cobro del acreedor, notificada al deudor o por el reconocimiento de éste expreso o tácito, respecto de la existencia de la obligación de que se trate. De los requisitos señalados en éste Artículo deberá existir constancia por escrito.
 
@@ -351,7 +381,9 @@ ART. 59.- Se concede acción popular para denunciar las infracciones que se come
 
 ART. 60.- Las denuncias deberán presentarse por escrito en el que se precisarán los hechos y circunstancias de la infracción denunciada, acompañándose con los documentos o pruebas que el denunciante tenga en su poder o conozca.
 
-ART. 61.- La Secretaría de Finanzas practicará las investigaciones necesarias tendientes a la comprobación de las infracciones denunciadas.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 61.- La Secretaría de Hacienda Pública y Tesorería practicará las investigaciones necesarias tendientes a la comprobación de las infracciones denunciadas.
 
 ART. 62.- En todo caso en que se compruebe la comisión de una infracción, la autoridad competente formulará la liquidación de los créditos fiscales que resulten omitidos, aplicará las sanciones correspondientes y exigirá el pago de los créditos fiscales respectivos y se (sic) sus accesorios legales correspondientes.
 
@@ -373,7 +405,9 @@ b).- En defecto del indicado en el inciso anterior, el lugar en el que se encuen
 
 c).- A falta de los anteriores el lugar en el que se hubiere realizado el hecho generador de la obligación fiscal;
 
-III.- Si se trata de sucursales o agencias, de negociaciones extranjeras, el lugar donde se establezcan; pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz y, de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Secretaría de Finanzas, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+III.- Si se trata de sucursales o agencias, de negociaciones extranjeras, el lugar donde se establezcan; pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz y, de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Secretaría de Hacienda Pública y Tesorería; y
 
 IV.- Tratándose de personas físicas o morales, residentes en el extranjero, que realicen actividades gravadas en el Estado a través de representantes, se considerará como su domicilio el del representante.
 
@@ -977,15 +1011,21 @@ Fuera del Plazo señalado en el párrafo anterior, no podrán hacerse las compen
 
 IV.- Los causantes por iniciativa propia no podrán hacer las rectificaciones a que se refieren las fracciones anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del impuesto haya sido descubierta de antemano por alguna autoridad, funcionario o empleado, cuando la haya precedido denuncia, cuando con anterioridad se haya iniciado una auditoría al responsable o presunto responsable, o haya sido requerido de pago de alguna prestación fiscal derivada de este impuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 93.- Los causantes presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Hacienda Pública y Tesorería y efectuarán el pago del Impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros veinte días del mes siguiente de aquel en que se hubieren obtenido los ingresos gravados. La declaración mensual deberá presentarse aún en el caso de que no se perciban ingresos gravados, expresándose el motivo de ello.
+
 > <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
 
-ART. 93.- Los causantes presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Finanzas del Estado y efectuarán el pago del Impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros veinte días del mes siguiente de aquel en que se hubieren obtenido los ingresos gravados. La declaración mensual deberá presentarse aún en el caso de que no se perciban ingresos gravados, expresandose el motivo de ello.
+Tratándose de ingresos obtenidos en forma accidental por los que deba pagarse este impuesto, el causante lo cubrirá mediante declaración que presentará en la Oficina Recaudadora de su jurisdicción dentro de los diez días hábiles siguientes.
 
-Tratándose de ingresos obtenidos en forma accidental por los que deba pagarse este Impuesto, el causante lo cubrirá mediante declaración que presentará en la Oficina Recaudadora de su jurisdicción dentro de los diez días hábiles siguientes.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE FEBRERO DE 1980)</small>
 
 ART. 94.- Los causantes del impuesto tienen las siguientes obligaciones:
 
-I.- Inscribirse en el registro de causantes del Estado y dar aviso de los cambios que se produzcan en los datos que el registro debe contener dentro de los 10 días siguientes a la fecha en que se asuma el carácter de causante o se produzca el cambio, utilizando las formas autorizadas por la Secretaría de Finanzas del Estado;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+I.- Inscribirse en el Registro de Causantes del Estado y dar aviso de los cambios que se produzcan en los datos que el registro debe contener, dentro de los diez días siguientes a la fecha en que se asuma el carácter de causante o se produzca el cambio, utilizando las formas autorizadas por la Secretaría de Hacienda Pública y Tesorería;
 
 II.- Llevar los siguientes libros de contabilidad, que deberán ser autorizados por la Recaudación o Colecturía de Rentas de su juridicción (sic):
 
@@ -1003,7 +1043,9 @@ IV.- Conservar los libros de contabilidad y la documentación comprobatoria de l
 
 ART. 95.- En caso de falta de presentación de las declaraciones mensuales de ingresos, dentro del plazo establecido en el Artículo 93 de esta Ley, transcurridos 15 días a contar del 21 de cada mes, la Oficina Recaudadora requerirá al causante moroso para que presente en un plazo de 3 días la declaración o declaraciones omitidas.
 
-Cuando el causante que haya sido requerido para presentar la declaración o declaraciones omitidas, no cumpla con esta prevención en el término que señala este Artículo, la Oficina Recaudadora procederá a formular una liquidación provisional del impuesto correspondiente, tomando como base el ingreso más alto declarado durante los tres últimos pagos y si en el término de 15 días no presenta su declaración, la liquidación provisional se considerará como formulada por el causante, para efectos de seguir el procedimiento de ejecución, sin perjuicio de la facultad de revisión de la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+Cuando el causante que haya sido requerido para presentar la declaración o declaraciones omitidas, no cumpla con esta prevención en el término que señala este artículo, la Oficina Recaudadora procederá a formular una liquidación provisional del impuesto correspondiente, tomando como base el ingreso más alto declarado durante los tres últimos pagos y si en el término de 15 días no presenta su declaración, la liquidación provisional se considerará como formulada por el causante, para efectos de seguir el procedimiento de ejecución, sin perjuicio de la facultad de revisión de la Secretaría de Hacienda Pública y Tesorería.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1149,7 +1191,9 @@ I.- Presentar ante la Oficina Recaudadora de su jurisdicción los documentos pú
 
 II.- Presentar ante la Oficina Recaudadora de su jurisdicción dentro del plazo establecido por esta Ley, las declaraciones derivadas de los ingresos gravables percibidos;
 
-III.- Dar aviso a la Oficina Recaudadora de Rentas correspondiente a su domicilio, haciendo uso de las formas aprobadas por la Secretaría de Finanzas del Estado, dentro de los 10 días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+III.- Dar aviso a la Oficina Recaudadora de Rentas correspondiente a su domicilio, haciendo uso de las formas aprobadas por la Secretaría de Hacienda Pública y Tesorería, dentro de los diez días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
 
 a).- De iniciación de operaciones;
 
@@ -1191,11 +1235,17 @@ ART. 114.- Para el cobro del impuesto se tomará como base, provisionalmente, el
 
 Cuando la elaboración corresponda a parte de un año y del siguiente, el impuesto total se dividirá entre los meses que correspondan al período de elaboración, y el cociente será la culta mensual que deba pagarse, haciéndose el primer entero en el mes en que se dé principio aquélla, y el último en el mes en que termine.
 
-Si los productos obtienen permisos adicionales, la Secretaría de Finanzas formulará la liquidación en los términos ya expresados, según el caso.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 115.- El pago del impuesto se hará directamente en la Secretaría de Finanzas del Estado, por meses adelantados, dentro de los primeros quince días de cada mes.
+Si los productores obtienen permisos adicionales, la Secretaría de Hacienda Pública y Tesorería formulará la liquidación en los términos ya expresados, según el caso.
 
-ART. 116.- Dentro de los 10 días siguientes a la terminación de la elaboración, los causantes presentarán el aviso de clausura, manifestando la cantidad total de litros de alcohol que hubieren sido elaborados durante el período de producción. Si la Secretaría de Finanzas estima correcta la declaración, formulará la liquidación definitiva del impuesto, conforme a las siguientes reglas:
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 115.- El pago del impuesto se hará directamente en la Secretaría de Hacienda Pública y Tesorería, por meses adelantados dentro de los primeros quince días de cada mes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 116.- Dentro de los diez días siguientes a la terminación de la elaboración, los causantes presentarán el aviso de clausura, manifestando la cantidad total de litros de alcohol que hubieren sido elaborados durante el período de producción. Si la Secretaría de Hacienda Pública y Tesorería estima correcta la declaración, formulará la liquidación definitiva del impuesto, conforme a las siguientes reglas:
 
 I.- En primer término, en vista del monto total de litros de alcohol elaborados, hará la determinación de los impuestos causados;
 
@@ -1205,9 +1255,13 @@ III.- Si hecha ésta deducción, resulta saldo a cargo del causante, su importe 
 
 ART. 117.- Los causantes de este impuesto independientemente de la obligación del pago del mismo, deberán:
 
-I.- Presentar ante la Secretaría de Finanzas del Estado, en la forma y términos que fija esta Ley, las declaraciones necesarias para la determinación del impuesto;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
 
-II.- Dar aviso a la secretaría de Finanzas del Estado, haciendo uso de las formas oficiales aprobadas, dentro de los 10 días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
+I.- Presentar ante la Secretaría de Hacienda Pública y Tesorería, en la forma y términos que fija esta Ley, las declaraciones necesarias para la determinación del impuesto; y
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+II.- Dar aviso a la Secretaría de Hacienda Pública y Tesorería, haciendo uso de las formas oficiales aprobadas, dentro de los diez días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
 
 a).- De iniciación de operaciones;
 
@@ -1225,7 +1279,9 @@ b).- De cambio o baja;
 
 6.- Clausura definitiva o cesación de actividades.
 
-ART. 118.- Si los causantes de este impuesto omiten presentar sus declaraciones dentro de los plazos que fije esta Ley, la Secretaría de Finanzas del Estado hará la liquidación sobre la base de declaraciones suplidas, con los datos que posea y con los que le suministren las Oficinas Federales de Hacienda y con los que obtenga por otros medios.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 118.- Si los causantes de este impuesto omiten presentar sus declaraciones dentro de los plazos que fije esta Ley, la Secretaría de Hacienda Pública y Tesorería hará la liquidación sobre la base de declaraciones suplidas, con los datos que posea y con los que le suministren las Oficinas Federales de Hacienda y con los que obtenga por otros medios.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
 
@@ -1239,9 +1295,13 @@ ART. 120.- El impuesto se causará sobre el monto total de la producción de cad
 
 ART. 121.- Para el cobro del impuesto se tomará como base, provisionalmente, el total de la producción obtenida durante el período de zafra inmediata anterior y se dividirá entre el número de meses correspondientes a ese período para obtener el promedio de producción mensual. Sobre esta base se calculará el impuesto respectivo, debiendo hacerse el primer pago adelantado en el mes en que dé principio la elaboración.
 
-ART. 122.- El impuesto deberá pagarse directamente en la Secretaría de Finanzas del Estado, por meses adelantados, dentro de los primeros quince días de cada mes.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 123.- Dentro de los 10 días siguientes a la terminación de la zafra, los causantes presentarán el aviso de clausura, anexando una declaración por triplicado en que se especifique la cantidad total de kilogramos de azúcar y mascabado elaborados por ese período. Si la Secretaría de Finanzas estima correcta la declaración, formulará la liquidación definitiva del impuesto, conforme a las reglas siguientes:
+ART. 122.- El impuesto deberá pagarse directamente en la Secretaría de Hacienda Pública y Tesorería, por meses adelantados, dentro de los primeros quince días de cada mes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 123.- Dentro de los diez días siguientes a la terminación de la zafra, los causantes presentarán el aviso de clausura, anexando una declaración por triplicado en que se especifique la cantidid (sic) total de kilogramos de azúcar y mascabado elaborados por ese período. Si la Secretaría de Hacienda Pública y Tesorería estima correcta la declaración, formulará la liquidación definitiva del impuesto, conforme a las reglas siguientes:
 
 I.- En primer término, en vista del monto total de kilogramos de azúcar y mascabado elaborados, hará la determinación de los impuestos causados;
 
@@ -1249,13 +1309,19 @@ II.- Del monto de estos impuestos, hará la deducción de las cantidades pagadas
 
 III.- Si hecha esta deducción, resulta saldo a cargo del causante su importe deberá cubrirse dentro de los quince días siguientes a la fecha de terminación de la zafra.
 
-ART. 124.- Si la Secretaría de Finanzas del Estado no estima correcta la declaración a que se refiere el Artículo anterior, practicará las investigaciones procedentes y con el resultado formulará la liquidación definitiva del impuesto con arreglo al Artículo anterior.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 124.- Si la Secretaría de Hacienda Pública y Tesorería no estima correcta la declaración a que se refiere el Artículo anterior, practicará las investigaciones procedentes y con el resultado formulará la liquidación definitiva del impuesto con arreglo al Artículo anterior.
 
 ART. 125.- Los causantes de este impuesto, independientemente de la obligación del pago del mismo, deberán:
 
-I.- Presentar ante la Secretaría de finanzas del Estado, en la forma y términos que fija esta Ley, las declaraciones necesarias para la determinación del impuesto;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
 
-II.- Dar aviso a la Secretaría de Finanzas del Estado, haciendo uso de las formas oficiales aprobadas, dentro de los 10 días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
+I.- Presentar ante la Secretaría de Hacienda Pública y Tesorería, en la forma y términos que fija esta Ley, las declaraciones necesarias para la determinación del impuesto; y,
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+II.- Dar aviso a la Secretaría de Hacienda Pública y Tesorería del Estado, haciendo uso de las formas oficiales aprobadas, dentro de los diez días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
 
 a).- De iniciación de operaciones;
 
@@ -1289,7 +1355,9 @@ Para los efectos del pago del impuesto los kilogramos deberán calcularse en su 
 
 ART. 129.- Son sujetos de este impuesto los productores de mieles incristalizables en el Estado, siendo responsables solidarios en su pago los adquirentes de los productos gravados.
 
-ART. 130.- El impuesto deberá pagarse por los productores, directamente en la Secretaría de Finanzas del Estado, dentro de los primeros quince días del mes siguiente de aquél en que las mieles incristalizables salgan por cualquier título o motivo del Ingenio Azucarero en que se produzcan, previa presentación de las declaraciones y demás documentación aprobadas por la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 130.- El impuesto deberá pagarse por los productores, directamente en la Secretaría de Hacienda Pública y Tesorería, dentro de los primeros quince días del mes siguiente de aquél en que las mieles incristalizables salgan por cualquier título o motivo del Ingenio Azucarero en que se produzcan, previa presentación de las declaraciones y demás documentación aprobadas por la Secretaría de Hacienda Pública y Tesorería.
 
 ART. 131.- No causan el impuesto, las mieles incristalizables:
 
@@ -1631,7 +1699,9 @@ DE SEGUNDA p/TON.
 
 81.- Otras frutas 23.68
 
-ART. 135.- El impuesto se pagará en la Oficina Recaudadora a cuya jurisdicción corresponda el lugar de procedencia de los productos agrícolas que lo generen, o en las Oficinas que la Secretaría de Finanzas del Estado designe para el efecto.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 135.- El impuesto se pagará en la Oficina Recaudadora a cuya jurisdicción corresponda el lugar de procedencia de los productos agrícolas que lo generen, o en las Oficinas que la Secretaría de Hacienda Pública y Tesorería designe para tal efecto.
 
 ART. 136.- El impuesto deberá pagarse al salir los productos de la finca de origen o al efectuarse la primera venta. En caso de que los productos agrícolas se destinen para uso dentro de la propia finca o sean almacenados dentro de ésta, el impuesto deberá cubrirse en un plazo máximo de 30 días después de haberse efectuado la cosecha.
 
@@ -1641,7 +1711,9 @@ I.- Los productores agrícolas, deberán en todo caso, recabar, y conservar por 
 
 II.- Los compradores de productos agrícolas, así como los intermediarios o mediadores entre éstos y los productores:
 
-a).- Deberán registrarse en las Oficinas Recaudadoras de su jurisdicción o en las que para el efecto señale la Secretaría de Finanzas del Estado, debiendo efectuar dicho registro a más tardar el décimo día posterior a la fecha de la iniciación de sus operaciones;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+a).- Deberán registrarse en las Oficinas Recaudadoras de su jurisdicción o en las que para el efecto señale la Secretaría de Hacienda Pública y Tesorería, debiendo efectuar dicho registro a más tardar el décimo día posterior a la fecha de la iniciación de sus operaciones;
 
 b).- Presentar dentro de los primeros quince días de cada mes, una declaración de los productos comprados durante el mes inmediato anterior;
 
@@ -1649,7 +1721,9 @@ c).- Acompañarán a la declaración a que se refiere el párrafo anterior, los 
 
 d).- Dar de baja su registro ante las Oficinas Recaudadoras, dentro de los diez días siguientes a la fecha de terminación de sus operaciones.
 
-ART. 138.- Los compradores de productos agrícolas, los intermediarios o mediadores, previa autorización de la Secretaría de Finanzas del Estado, podrán realizar en una exhibición el pago del impuesto correspondiente al producto obtenido de varios productores. Cuando se siga este procedimiento, los compradores, los intermediarios o mediadores estarán obligados a proporcionar a cada uno de los productores constancia escrita del pago del impuesto; en dicha constancia deberá indicarse el número y la fecha del recibo de pago, así como el mes a que corresponda la declaración en que se certifica por la Oficina Recaudadora la presentación del mencionado recibo.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 138.- Los compradores de productos agrícolas, los intermediarios o mediadores, previa autorización de la Secretaría de Hacienda Pública y Tesorería, podrán realizar en una exhibición el pago del impuesto correspondiente al producto obtenido de varios productores. Cuando se siga este procedimiento, los compradores, los intermediarios o mediadores estarán obligados a proporcionar a cada uno de los productores constancia escrita del pago del impuesto; en dicha constancia deberá indicarse el número y la fecha del recibo de pago, así como el mes a que corresponda la declaración en que certifica por la Oficina Recaudadora la presentación del recibo mencionado.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
 
@@ -1775,9 +1849,9 @@ En el caso de que el servicio se preste a través de una agrupación profesional
 
 ART. 168.- Son sujetos del impuesto las personas físicas que obtengan los ingresos gravados a que se refiere el artículo anterior, por la prestación de sus servicios en el territorio del Estado de Sinaloa.
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 1980)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-Para los efectos de este Impuesto, sólo se considerará que ejercen sus actividades habitualmente en el Territorio del Estado, los causantes que tengan establecido en él una oficina, estudio, establecimiento o domicilio fijo, registrado como tal para fines fiscales y cuya ubicación puede ser comprobada por la Secretaría de Finanzas del Estado. Dichos causantes deben acreditar ante la Oficina receptora que corresponda al lugar en que perciban ingresos gravables, que prestan sus servicios a empresas o instituciones de carácter permanente, o bajo contrato celebrado con ellos por períodos mayores de 30 días o a un mes de calendario y dentro de los cuales ejerzan su actividad por lo menos una vez por semana o cinco veces en el mes.
+Para los efectos de este impuesto, sólo se considerará que ejercen sus actividades habitualmente en el Territorio del Estado, los causantes que tengan establecido en él una oficina, estudio, establecimiento o domicilio fijo, registrado como tal para fines fiscales y cuya ubicación puede ser comprobada por la Secretaría de Hacienda Pública y Tesorería. Dichos causantes deben acreditar ante la Oficina receptora que corresponda al lugar en que perciban los ingresos gravables, que prestan sus servicios a empresas o instituciones de carácter permanente, o bajo un contrato celebrado con ello, por períodos mayores de treinta días o a un mes de calendario y dentro de los cuales ejerzan su actividad por lo menos una vez por semana o cinco veces en el mes.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1791,7 +1865,9 @@ ART. 170.- Las personas a que se refiere este Capítulo, deberán llevar un libr
 
 I.- Las inversiones amortizables o depreciables deben registrarse con los siguientes datos: Descripción que identifique los bienes; año de adquisición; costo original y, en su caso, depreciaciones o amortizaciones acumuladas y saldos por redimir de los referidos bienes;
 
-II.- Asimismo, estos causantes podrán llevar en un solo libro el registro de ingresos y egresos y el de las inversiones amortizables o depreciables, el cual será autorizado por la Secretaría de Finanzas. Este libro o libros en su caso, podrán ser los mismos que haya autorizado la Secretaría de Hacienda y Crédito Público, y no tendrán que revalidarse periódicamente y en ellos se podrán registrar las operaciones relativas a varios años, hasta concluirlos. Los causantes que lo deseen, podrán llevar su contabilidad mediante el uso de los libros que estimen convenientes, en cuyo caso deberán estar autorizados por lo menos el Diario y el Mayor, por la Secretaría de Finanzas, pudiendo ser los mismos que autorice la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+II.- Asimismo, estos causantes podrán llevar en un solo libro el registro de ingresos y egresos y el de las inversiones amortizables o depreciables, el cual será autorizado por la Secretaría de Hacienda Pública y Tesorería. Este libro o libros en su caso, podrán ser los mismos que haya autorizado la Secretaría de Hacienda y Crédito Público, y no tendrán que revalidarse periódicamente y en ellos se podrán registrar las operaciones relativas a varios años, hasta concluirlos. Los causantes que lo deseen, podrán llevar su contabilidad mediante el uso de los libros que estime convenientes, en cuyo caso deberán estar autorizados por lo menos el Diario y el Mayor, por la Secretaría de Hacienda Pública y Tesorería, pudiendo ser los mismos que autorice la Secretaría de Hacienda y Crédito Público.
 
 El libro o libros en su caso, a que se refiere el párrafo anterior deberán presentarse para su autorización, dentro de los diez días siguientes a la fecha de iniciación de operaciones.
 
@@ -1809,15 +1885,21 @@ Los causantes que solo perciban ingresos como miembros de agrupaciones profesion
 
 ART. 171.- Los causantes que no deseen presentar comprobación relativa a las deducciones a que se refiere el Artículo 169 de esta Ley, en substitución de las mismas, podrán optar por deducir de sus ingresos brutos mensuales, el 20% de deducción global no sujeto a comprobación.
 
-Los causantes que ejerzan la opción a que se refiere el párrafo anterior, cumplirán con el pago mensual del impuesto siguiendo de manera uniforme con este procedimiento, hasta en tanto no den aviso a la Secretaría de Finanzas que dejarán de ejercer dicha opción.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+Los causantes que ejerzan la opción a que se refiere el párrafo anterior, cumplirán con el pago mensual del impuesto siguiendo de manera uniforme con este procedimiento, hasta en tanto no den aviso a la Secretaría de Hacienda Pública y Tesorería que dejarán de ejercer dicho (sic) opción.
 
 > <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
 
 Quienes obtengan en forma esporádica, eventual o accidentalmente ingresos de los señalados en el Artículo 167 de este Capítulo, tendrán derecho a deducir únicamente el 20% de los ingresos brutos que perciban, no pudiendo hacer las deducciones a que se refiere el Artículo 169 de esta Ley.
 
-ART. 172.- La Secretaría de Finanzas podrán (sic) estimar los ingresos brutos de los sujetos a que se refiere este Capítulo en los siguientes caos (sic):
+> <small>(REFORMAD PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-I.- Cuando se opongan u obstaculicen la iniciación o desarrollo de una visita domiciliaria ordenada por la Secretaría de Finanzas o la Subsecretaría de Ingresos, se nieguen a recibir la orden respectiva, o cuando hasta el momento de su iniciación o de la recepción de la solicitud de documentos, datos o informes relacionados con su revisión, no hayan presentado sus declaraciones;
+ART. 172.- La Secretaría de Hacienda Pública y Tesorería podrá estimar los ingresos brutos de los sujetos a que se refiere este capítulo en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+I.- Cuando se opongan u obstaculicen la iniciación o desarrollo de una visita dimiciliaria (sic) ordenada por la Secretaría de Hacienda Pública y Tesorería o la Sub´Secretaría de Ingresos, se nieguen a recibir la orden respectiva, o cuando hasta el momento de su iniciación o de la recepción de la solicitud de documentos, datos o informes relacionados con su revisión, no hayan presentado sus declaraciones;
 
 II.- No llevar el libro y registro a que están obligados;
 
@@ -1825,11 +1907,15 @@ III.- Cuando las informaciones que obtengan pongan de manifiesto la percepción 
 
 Para practicar las estimaciones a que se refiere este Artículo, se tendrán en cuenta indistintamente las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupe, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse, así como los gastos de carácter privado en que haya incurrido el causante y constituyan un índice para los efectos de este Artículo.
 
-Con base en los datos a que se refiere el párrafo anterior, la Secretaría de Finanzas podrá estimar un ingreso de hasta 3 tantos del monto del gasto comprobado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+Con base en los datos a que se refiere el párrafo anterior, la Secretaría de Hacienda Pública y Tesorería podrá estimar un ingreso de hasta tres tantos del monto del gasto comprobado.
 
 A los ingresos estimados se aplicará un coeficiente del 90% a fin de determinar el ingreso neto, base del impuesto a que se refiere este Capítulo.
 
-ART. 173.- Para determinar la base del impuesto sobre profesiones y Oficios, se sumarán los ingresos percibidos en un mes, por los conceptos mencionados en este Capítulo, previa deducción de los conceptos señalados en los Artículos 169 o 171 y cuando proceda, los estimados por la Secretaría de Finanzas, en los términos del Artículo anterior.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 173.- Para determinar la base del impuesto sobre Profesiones y Oficios, se sumarán los ingresos percibidos en un mes, por los conceptos mencionados en este capítulo, previa deducción de los conceptos señalados en los Artículos 169 o 171 y cuando proceda, los estimados por la Secretaría de Hacienda Pública y Tesorería, en los términos del Artículo anterior.
 
 El Impuesto sobre Profesiones y Oficios, se calculará aplicando a la base mensual determinada, a que se refiere el párrafo anterior, la siguiente:
 
@@ -1867,7 +1953,9 @@ De $ 9,000.01 a $ 10,000.0 220.00 3.25
 
 De $ 10,000.01 en adelante 255.00 3.50
 
-Los causantes de este impuesto deberán presentar ante la Secretaría de Finanzas, directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio, dentro de los primeros diez días del mes siguiente de aquél a que corresponda el pago, una declaración, en las formas autorizadas por la propia Secretaría.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+Los causantes de este impuesto deberán presentar ante la Secretaría de Hacienda Pública y Tesorería, directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio, dentro de los primeros diez días del mes siguiente de aquél a que corresponda el pago, una declaración, en las formas autorizadas por la propia Secretaría.
 
 Los causantes pagarán el Impuesto dentro de los primeros diez días del mes siguiente de aquél a que corresponda el pago, en la Oficina Recaudadora de su jurisdicción.
 
@@ -1883,7 +1971,9 @@ ART. 173 Bis- Quienes hagan pagos a causantes eventuales de este impuesto, o a c
 
 ART. 173 Bis 1.- Los causantes que habitualmente obtengan los ingresos gravados a que se refiere este Capítulo, podrán cubrir el impuesto a base de cuota fija, en las condiciones y con las formalidades siguientes:
 
-I.- Los causantes que opten por el pago del impuesto a cuota fija, lo solicitarán por escrito a la Sub-Secretaría de Ingresos de la Secretaría de Finanzas del Estado, ya sea directamente o por conducto de la oficina recaudadora correspondiente a su domicilio, manifestando, bajo su estricta responsabilidad y bajo protesta de decir verdad, el ingreso mensual bruto que hubieren obtenido en cada uno de los meses del año inmediato anterior.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+I.- Los causantes que opten por el pago del impuesto a cuota fija, lo solicitarán por escrito a la Sub-Secretaría de Ingresos de la Secretaría de Hacienda Pública y Tesorería, ya sea directamente o por conducto de la oficina recaudadora correspondiente a su domicilio, manifestando, bajo su estricta responsabilidad y bajo protesta de decir verdad, el ingreso mensual bruto que hubieren obtenido en cada uno de los meses del año inmediato anterior.
 
 Los causantes que inicien operaciones dentro del mismo año en que hagan su solicitud, solo podrán presentar ésta después de los 30 días siguientes a la fecha de iniciación de sus operaciones, manifestando el ingreso mensual bruto que hubieren obtenido en el mes o meses inmediatos anteriores;
 
@@ -1911,7 +2001,9 @@ ART. 175.- El impuesto se causará a razón de 5 al millar anual sobre el valor 
 
 ART. 176.- El pago del impuesto se hará en la Oficina Recaudadora del domicilio del contribuyente, por bimestres adelantados, dentro de los primeros quince días del mes en que principie el bimestre, a partir del 1ro. de enero de cada año.
 
-Cuando las plantas de beneficio o establecimientos metalúrgicos se clausuren por cesación de las actividades mineras de que dependan, y siempre que la clausura sea definitiva a moción de parte y previa justificación de los hechos ante la Secretaría de Finanzas del Estado, dejará de causarse el impuesto con las salvedades que establece el Artículo siguiente.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+Cuando las plantas de beneficios o establecimientos metalúrgicos se clausuren por cesación de las actividades mineras de que dependan, y siempre que la clausura sea definitiva a moción de parte y previa justificación de los hechos ante la Secretaría de Hacienda Pública y Tesorería, dejará de causarse el impuesto con las salvedades que establece el Artículo siguiente.
 
 ART. 177.- La clausura de una planta de beneficio o establecimiento metalúrgico no tendrá los efectos que señala el Artículo anterior;
 
@@ -1955,19 +2047,31 @@ ART. 183.- Son sujetos del impuesto las personas físicas o morales que habitual
 
 ART. 184.- El impuesto se causa a razón de $ 0.30 por litro o fracción de litro de alcohol.
 
-ART. 185.- Los causantes de este impuesto presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Finanzas del Estado, y efectuarán el pago del impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros diez días del mes siguiente de aquél a que corresponda el pago. La obligación de presentar declaraciones subsiste aún cuando no se haya adquirido el producto. to. (sic)
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 185.- Los causantes de este impuesto presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Hacienda Pública y Tesorería, y efectuarán el pago del Impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros diez días del mes siguiente de aquél a que corresponda el pago.
+
+La obligación de presentar declaraciones subsisten aún cuando no se hayan (sic) adquirido el producto.
 
 ART. 186.- Los sujetos de este impuesto están obligados:
 
-I.- A presentar, haciendo uso de las formas oficiales aprobadas por la Secretaría de Finanzas del Estado, los avisos de iniciación de operaciones, de cambio de actividad, de cambio de nombre o razón social, de traspaso, o de clausura temporal o definitiva del negocio, dentro de los 10 días siguientes a la fecha en que se realicen estos hechos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+I.- A presentar, haciendo uso de las formas oficiales aprobadas por la Secretaría de Hacienda Pública y Tesorería, los avisos de iniciación de operaciones, de cambio de actividad, de cambio de nombre o razón social, de traspaso, o de clausura temporal o definitiva del negocio, dentro de los 10 días siguientes a la fecha en que se realicen estos hechos.
 
 Cuando una misma persona sea propietaria o poseedora de varios giros y/o negocios similares obligados a empadrarse (sic), deberá registrar por separado cada uno de dichos giros y/o negocios similares;
 
-II.- A llevar, además de los libros de contabilidad que exige la Ley del Impuesto sobre la Renta, un libro especial de registro de adquisición y movimiento de alcohol, el cual deberá ser gratuito y previamente autorizado por la Secretaría de Finanzas del Estado, dentro de los 10 días siguientes a la fecha de iniciación de operaciones.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
 
-Este libro especial deberá mantenerse al corriente en sus anotaciones, permitiéndose una tolerancia hasta de diez días de atraso. En él deberán asentarse las operaciones de adquisición y de enajenación, determinándose diariamente la existencia de alcohol. Este libro deberá estar siempre en los locales que ocupen las negociaciones o despachos de los sujetos del impuesto, que se hubieran señalado al iniciarse las operaciones o manifestado posteriormente, en caso de cambio o traslado. Para que dicho libro pueda salir del local, será necesario que la Secretaría de Finanzas lo autorice previamente y en forma expresa.
+II.- A llevar, además de los libros de contabilidad que exige la Ley del Impuesto sobre la Renta, un libro especial de registro de adquisición y moviento (sic) de alcohol, el cual deberá ser gratuito y previamente autorizado por la Secretaría de Hacienda Pública y Tesorería, dentro de los diez días siguientes a la fecha de iniciación de operaciones.
 
-El libro especial de registro de adquisición y movimiento de alcohol, las facturas por adquisición de alcohol y las notas de venta, deberán conservarse un tiempo mínimo de cinco años en poder de los sujetos de este impuesto y a disposición de la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+Este libro especial deberá mantenerse al corriente en sus anotaciones, permitiéndose una tolerancia de diez días de atraso. En él deberán asentarse las operaciones de adquisición y de enajenación, determinándose diariamente la existencia de alcohol. Este libro deberá estar siempre en los locales que ocupen las negociaciones o despachos de los sujetos del impuesto, que se hubieran señalado al iniciarse las operaciones o manifestado posteriormente, en caso de cambio o traslado. Para que dicho libro pueda salir del local, será necesario que la Secretaría de Hacienda Pública y Tesorería lo autorice previamente y en forma expresa.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+El libro especial de registro de adquisición y movimiento de alcohol, las facturas por adquisición de alcohol y las notas de venta, deberán conservarse un tiempo mínimo de cinco años en poder de los sujetos de este Impuesto y a disposición de la Secretaría de Hacienda Pública y Tesorería.
 
 ART. 187.- Serán aplicables en lo previsto en este Capítulo las disposiciones contenidas en la Legislación Fiscal Federal vigente sobre alcohol, en lo que se opongan a la presente Ley.
 
@@ -1989,13 +2093,17 @@ ART. 191.- El impuesto que establece este Capítulo se causa en el momento en qu
 
 ART. 192.- Este impuesto se causará a razón de $ 1.75 por litro o fracción de litro de alcohol.
 
-ART. 193.- Los causantes de este impuesto presentarán declaración mensual de acuerdo con las formas oficiales aprobadas por la Secretaría de Finanzas del Estado, y efectuarán el pago del impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros 10 días del mes siguiente de aquél a que corresponda el pago. La declaración mensual deberá presentarse aún en el caso de que no se efectúen operaciones gravadas, expresándose el motivo de ello.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 193.- Los causantes de este Impuesto presentarán declaración mensual de acuerdo con las formas oficiales aprobadas por la Secretaría de Hacienda Pública y Tesorería, y efectuarán el pago del impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros diez días del mes siguiente de aquél a que corresponda el pago. La declaración mensual deberá presentarse aún en el caso de que no se efectúen operaciones gravadas, expresándose el motivo de ello.
 
 ART. 194.- Los sujetos de este impuesto están obligados:
 
 I.- A solicitar la Licencia del Ejecutivo del Estado;
 
-II.- A presentar, haciendo uso de las formas oficiales aprobadas por la Secretaría de Finanzas del Estado, los avisos de iniciación de operaciones, de cambio de actividad, de cambio de nombre o razón social, de traspaso, o de clausura temporal o definitiva del negocio, dentro de los 10 días siguientes a la fecha en que se realicen estos hechos.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+II.- A presentar, haciendo uso de las formas oficiales aprobadas por la Secretaría de Hacienda Pública y Tesorería, los avisos de iniciación de operaciones, de cambios de actividad, de cambio de nombre o razón social, de traspaso, o de clausura temporal o definitiva del negocio, dentro de los diez días siguientes a la fecha en que se realicen estos hechos.
 
 Cuando una misma persona sea propietaria o poseedora de varios giros y/o negocios similares obligados a empadronarse, deberá registrar por separado cada uno de dichos giros y/o negocios similares.
 
@@ -2083,13 +2191,17 @@ II.- La cerveza;
 
 III.- El aguamiel
 
-ART. 203.- Los causantes de este impuesto presentarán declaración de acuerdo con las formas oficiales aprobadas por la Secretaría de Finanzas del Estado, y efectuarán el pago del impuesto en la Oficina Recaudadora de su jurisdicción, de acuerdo con las siguientes normas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 203.- Los causantes de este impuesto presentarán declaración de acuerdo con las formas oficiales aprobadas por la Secretaría de Hacienda Pública y Tesorería, y efectuarán el pago del impuesto en la Oficina Recaudadora de su jurisdicción, de acuerdo con las siguientes normas:
 
 I.- Los causantes que realicen la producción de bebidas alcohólicas presentarán una declaración mensual y harán el pago del impuesto dentro de los primeros 10 días del mes siguiente de aquél a que corresponda el pago;
 
 II.- Los causantes que realicen la adquisición de bebidas alcohólicas efectuarán el pago del impuesto, a más tardar el día siguiente hábil a la recepción de bebidas alcohólicas, presentando factura o cualquier otro documento que compruebe la cantidad y clase de producto adquirido.
 
-ART. 204.- A los causantes de este impuesto se les entregará, sin costo alguno, por conducto de la Oficina Recaudadora correspondiente a su domicilio o directamente por la Secretaría de Finanzas del Estado, los marbetes oficiales de control de las bebidas alcohólicas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 204.- A los causantes de este impuesto se les entregará, sin costo alguno, por conducto de la Oficina Recaudadora correspondiente a su domicilio o directamente por la Secretaría de Hacienda Pública y Tesorería, los marbetes oficiales de control de las bebidas alcohólicas.
 
 Los marbetes a que se refiere el párrafo anterior, dentro de las 48 horas siguientes a su entrega, deben adherirse sobre los tapones o cierres de manera que aparezcan visibles y se destruyan al destaparse los envases. Se adherirá sólo un marbete o precinto a cada envase.
 
@@ -2097,7 +2209,9 @@ La Secretaría de Finanzas del Estado podrá indicar en forma gráfica y objetiv
 
 Para los efectos de este Capítulo, se considerará que el impuesto no se enteró cuando el envase carezca del marbete oficial de control, o el que tenga adherido no corresponda a la capacidad del recipiente o a la categoría legal de la bebida, de acuerdo con la clasificación contenida en el Artículo 201. En estos casos se aplicará una multa de $100.00 por botella sin perjuicio de que sea cubierto el impuesto correspondiente.
 
-ART. 205.- Para la mejor administración y control del impuesto, la Secretaría de Finanzas del Estado podrá celebrar convenios en los cuales se estipulen las modalidades relativas a la garantía del impuesto, a la entrega, control y adehesión (sic) de los marbetes.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 205.- Para la mejor administración y control del impuesto, la Secretaría de Hacienda Pública y Tesorería podrá celebrar convenios en los cuales se estipulen las modalidades relativas a la garantía del impuesto, a la entrega, control y adhesión de los marbetes.
 
 ART. 206.- Tienen obligación de empadronarse y solicitar la licencia del Ejecuti (sic) del Estado, las personas siguientes:
 
@@ -2111,13 +2225,19 @@ IV.- Los comisionistas y mediadores, transportistas y cualquier persona física 
 
 ART. 207.- Cuando una misma persona sea propietaria o poseedora de varios giros y/o negocios similares obligados a empadronarse, deberá registrar por separado cada uno de dichos giros y/o negocios similares.
 
-ART. 208.- Las personas obligadas a solicitar la licencia deberán manifestar a la Secretaría de Finanzas del Estado los cambios de nombre, de razón social, de traspaso, de traslado o de clausura temporal o definitiva del negocio, dentro de los 10 días siguientes a la fecha en que se realicen estos hechos.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 208.- Las personas obligadas a solicitar la Licencia deberán manifestar a la Secretaría de Hacienda Pública y Tesorería los cambios de nombre, de razón social, de traspaso, de traslado o de clausura temporal o definitiva del negocio, dentro de los diez días siguientes a la fecha en que se realicen estos hechos.
 
 ART. 209.- En los casos de clausura o de cambio de giro, se acompañará a la manifestación respectiva la licencia de funcionarios o copia fotostática de la misma.
 
-ART. 210.- Las mainifestaciones (sic) y los avisos, se formularán haciendo uso de los (sic) formas aprobadas por la Secretaría de Finanzas del Estado, debiendo asentar en ellas, de manera verídica y exacta todos los datos que en dichas formas se exijan. En todo caso, anexarán los documentos requeridos en las formas.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 211.- Los causantes de este impuesto, además de las que les señalen las leyes, reglamentos y circulares, tendrán la obligación de llevar, mediante asientos que se practiquen al producirse y/o al recibirse los productos, el libro de existencias, producción y ventas de bebidas alcohólicas y el libro de adquisición de bebidas alcohólicas rescpectivamente (sic), que deberán ser autorizados previamente por la Secretaría de Finanzas del Estado, debiendo obtenerse gratuitamente la utorización (sic) dentro de los 10 días siguientes a la fecha de iniciación de operaciones.
+ART. 210.- Las manifestaciones y los avisos, se formularán haciendo uso de las formas aprobadas por la Secretaría de Hacienda Pública y Tesorería, debiendo asentar en ellas, la manera verídica y exacta todos los datos que en dichas formas se exijan. En todo caso se anexarán los documentos requeridos en las formas.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 211.- Los causantes de este impuesto, además de las que les señalen las leyes, reglamentos y circulares, tendrán la obligación de llevar, mediante asientos que se practiquen al producirse y/o al recibirse los productos, el libro de existencias, producción y ventas de bebidas alcohólicas y el libro de adquisición de bebidas alcohólicas respectivamente, que deberán ser autorizados previamente por la Secretaría de Hacienda Pública y Tesorería, debiendo obtenerse gratuitamente la autorización dentro de los diez días siguientes a la fecha de iniciación de operaciones.
 
 ART. 212.- En el Estado de Sinaloa, queda prohibida la venta de bebidas alcohólicas, en envases con capacidad superior a cinco litros.
 
@@ -2125,7 +2245,9 @@ ART. 213.- Al que intervenga, directa o indirectamente en la cesión a personas 
 
 ART. 214.- Unicamente en los expendios autorizados por el Gobierno del Estado para vender bebidas alcohólicas al copeo, se podrán tener éstas en botellas o en envases abiertos que deberán ser los mismos de origen y en los cuales deberán conservarse adheridos los extremos de los marbetes oficiales de control. En caso contrario se considera que el impuesto sobre bebidas citadas no ha sido enterado, sin que en contra de esta presunción se admita prueba en contrario.
 
-ART. 215.- Los causantes no podrán establecer expendios de bebidas alchólicas (sic) en el mismo local o dependencia de sus fábricas, almacenes o bodegas. En caso contrario, la Secretaría de Finanzas del Estado ordenará la clausura definitiva del expendio de acuerdo con esta Ley.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 215.- Los causantes no podrán establecer expendios de bebidas alcohólicas en el mismo local o dependencia de sus fábricas, almacenes o bodegas. En caso contrario, la Secretaría de Hacienda Pública y Tesorería ordenará la clausura definitiva del expendio de acuerdo con esta Ley.
 
 ART. 216.- Las autoridades fiscales quedan facultadas para ordenar la inspección de libros, documentos y existencias de los sujetos del impuesto a que se refiere este Capítulo así como la inspección de locales, bienes muebles e inmuebles, en que exista o se presuma que existan bebidas alcohólicas, debiéndose cumplir las formalidades previstas en esta Ley.
 
@@ -2171,7 +2293,9 @@ La venta al menudeo, en los términos de este Ordenamiento, es la que se hace po
 
 ART. 224.- Unicamente en los expendios autorizados por el Gobierno del Estado para vender bebidas alcohólicas al copeo, se podrán tener éstas botellas o envases abiertos que deberán ser los mismos de origen y en los cuales deberán conservarse adheridos los marbetes oficiales de control. En caso contrario se considera que el impuesto sobre las bebidas citadas no ha sido enterado, sin que en contra de esta presunción se admita prueba en contrario.
 
-ART. 225.- Los causantes de este impuesto no podrán establecer expendios de bebidas alcohólicas en el mismo local o dependencia de sus fábricas, almacenes o bodegas. En caso contrario, la Secretaría de Finanzas del Estado ordenará la clausura definitiva del expendio de acuerdo con esta Ley.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 225.- Los causantes de este impuesto no podrán establecer expendios de bebidas alcohólicas en el mismo local o dependencia de sus fábricas, almacenes o bodegas. En caso contrario, la Secretaría de Hacienda Pública y Tesorería ordenará la clausura definitiva del expendio de acuerdo con esta Ley.
 
 ART. 226.- Los causantes de este impuesto, además de las que señalen las Leyes y Reglamentos, tendrán las siguientes obligaciones:
 
@@ -2181,7 +2305,9 @@ II.- Presentar aviso de apertura en la Oficina Recaudadora de su jurisdicción, 
 
 III.- Efectuar los pagos del impuesto dentro de los términos que señala esta Ley;
 
-IV.- Garantizar el interés fiscal a satisfacción de la Secretaría de Finanzas del Estado en la forma y términos que establece esta Ley;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+IV.- Garantizar el Interés Fiscal a satisfacción de la Secretaría de Hacienda Pública y Tesorería en la forma y términos que establece esta Ley;
 
 V.- Permitir las visitas de inspección de las autoridades fiscales y a proporcionar los informes y datos que les soliciten;
 
@@ -2225,9 +2351,13 @@ alcohólicas. 6,000.00 4,000.00 3,000.00 2,000.00
 
 ART. 228.- Las cuotas consignadas en el Artículo anterior se causan independientemente de los impuestos a que se refieren los tres capítulos precedentes de esta Ley, en los casos en que un mismo causante realice actividades gravadas por las disposiciones tanto de este capítulo como de los tres capítulos citados.
 
-ART. 229.- Los causantes eventuales, pagarán una cuota de $250.00 a $ 1,000.00 diarios, a juicio de la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 230.- La Secretaría de Finanzas del Estado, por conducto de la Sub-Secretaría de Ingresos, fijará la cuota mensual a que se refiere el Artículo 227 anterior, de acuerdo con el Reglamento que para el efecto expida el Ejecutivo del Estado. Las cuotas asignadas surtirán sus efectos a partir de la fecha de iniciación de operaciones o a partir de la fecha en que sean modificadas por la propia Secretaría de Finanzas del Estado.
+ART. 229.- Los causantes eventuales, pagarán una cuota de $ 250.00 a $ 1,000.00 diarios, a juicio de la Secretaría de Hacienda Pública y Tesorería.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 230.- La Secretaría de Hacienda Pública y Tesorería, por conducto de la Sub´Secretaría de Ingresos, fijará la cuota mensual a que se refiere el Artículo 227 anterior, de acuerdo con el Reglamento que para el efecto expida el Ejecutivo del Estado. Las cuotas asignadas surtirán sus efectos a partir de la fecha de iniciación de operaciones o a partir de la fecha en que sean modificados por la propia Secretaría de Hacienda Pública y Tesorería.
 
 ART. 231.- El causante de este impuesto pagará la cuota mensual que se le haya asignado de conformidad con este Capítulo, por meses adelantados, dentro de los primeros diez días del mes a que corresponda, en las Oficinas Recaudadoras de su jurisdicción.
 
@@ -2295,7 +2425,9 @@ II.- A suministrar los informes y datos que les soliciten las autoridades fiscal
 
 III.- A pagar oportunamente el impuesto;
 
-IV.- A dar aviso a la Oficina Recaudadora correspondiente, haciendo uso de las formas oficiales aprobadas por la Secretaría de Finanzas del Estado, dentro de los 10 días hábiles siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+IV.- A dar aviso a la Oficina Recaudadora correspondiente, haciendo uso de las formas oficiales aprobadas por la Secretaría de Hacienda Pública y Tesorería, dentro de los diez días hábiles siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
 
 a).- De iniciación de operaciones;
 
@@ -2711,11 +2843,15 @@ V.- La búsqueda de actas del Registro Civil, siempre que se proporcionen datos 
 
 ART. 299.- La recaudación de los derechos a que se refiere este Capítulo se hará por conducto de las Oficinas del Registro Civil contra la entrega de los recibos oficiales que les proporciones (sic) la Oficina Recaudadora de su jurisdicción, y los fondos recaudados se concentrarán cada quince días en la correspondiente Oficina Recaudadora.
 
-ART. 300.- Las formas oficiales numeradas valoradas utilizables para copias certificadas de Actas del Registro Civil serán proporcionadas a las Oficinas del Registro Civil por la Secretaría de Finanzas del Estado, la que tendrá a su cargo el resguardo, manejo y control de las mismas.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 300.- Las formas oficiales numeradas valoradas utilizables para copias certificadas de Actas del Registro Civil serán proporcionadas a las Oficinas del Registro Civil por la Secretaría de Hacienda Pública y Tesorería, la que tendrá a su cargo el resguardo, manejo y control de las mismas.
 
 ### CAPITULO IV. Publicaciones en el Periódico Oficial
 
-ART. 301.- Causan derechos fiscales las publicaciones de interés particular que se hagan en el Periódico Oficial del Gobierno del Estado, las suscripciones, la venta de números sueltos y los edictos de remate de la Secretaría de Finanzas, de la Sub-Secretaría de Ingresos y de las Oficinas Recaudadoras. Estos últimos se agregarán a los gastos del procedimiento de ejecución cuando las Oficinas Recaudadoras ejerzan la acción económica-coactiva.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 301.- Causan derechos fiscales las publicaciones de interés particular que se hagan en el Periódico Oficial del Gobierno del Estado, las suscripciones, la venta de números sueltos y los edictos de remate de la Secretaría de Hacienda Pública y Tesorería, de la Sub´Secretaría de Inspección Fiscal de la Sub'Secretaría de Ingresos y de las Oficinas Recaudadoras. Estos últimos se agregarán a los gastos del procedimiento de ejecución cuando las Oficinas Recaudadoras ejerzan la acción económica-coactiva.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
@@ -2813,7 +2949,9 @@ ART. 304.- Los derechos fiscales por los servicios de líneas telefónicas del E
 
 ART. 305.- Las Oficinas de las líneas telefónicas recaudarán estos ingresos y expedirán los recibos oficiales correspondientes, debiendo concentrar mensualmente los fondos en la respectivas Oficinas Recaudadoras, dentro de los primeros cinco días del mes siguiente.
 
-La Secretaría de Finanzas señalará la documentación que debe acompañarse a las concentraciones de fondos, comprobatoria de los ingresos correspondientes.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+La Secretaría de Hacienda Pública y Tesorería señalará la documentación que debe acompañarse a las concentraciones de fondos, comprobatoria de los ingresos correspondientes.
 
 ### CAPITULO VI. Legalización de Títulos Profesionales
 
@@ -3705,7 +3843,9 @@ II.- Expedición y revalidación de Licencia Sanitaria;
 
 III.- Expedición y reexpedición de permiso o autorización sanitaria de construcción.
 
-ART. 328.- Para la expedición o revalidación de las tarifas de salud y de las licias (sic) sanitarias, así como para la expedición y reexpedición de permiso o autorización sanitaria de construcción, será requisito previo que los derechos correspondientes hayan sido cubiertos en las Oficinas Recaudadoras que para el efecto tenga establecidas la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 328.- Para la expedición o revalidación de las tarjetas de salud y de las licencias sanitarias, así como para la expedición y reexpedición de permiso o autorización sanitaria de construcción, será requisito previo que los derechos correspondientes hayan sido cubiertos en las Oficinas Recaudadoras que para el efecto tenga establecidas la Secretaría de Hacienda Pública y Tesorería.
 
 ART. 329.- La expedición de una tarjeta de salud o la revalidación semestral de la misma, causará, en cada ocasión, derechos por $ 100.00.
 
@@ -3721,7 +3861,9 @@ a).- 3 al millar sobre el valor de las construcciones que se determinará aplica
 
 2.- $ 1,500.00 por metro cuadrado de construcción de primera;
 
-b).- Los fraccionamientos pagarán de $ 0.20 a $ 0.30 por metro cuadrado de superficie lotificada. La cuota aplicable entre la mínima y la máxima correspondiente será fijada por la Secretaría de Finanzas por conducto de la Sub-Secretaría de Ingresos.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+b).- Los fraccionamientos pagarán de $ 0.20 a $ 0.30 por metro cuadrado de superficie lotificada. La cuota aplicable entre la mínima y la máxima correspondiente será fijada por la Secretaría de Hacienda Pública y Tesorería por conducto de la Sub'Secretaría de Ingresos;
 
 II.- Tratándose de los siguientes giros, de acuerdo con su importancia y categoría:
 
@@ -3763,7 +3905,9 @@ De segunda 2,000.00
 
 De tercera 1,000.00
 
-La cuota será fijada por la Secretaría de Finanzas del Estado por conducto de la Sub-Secretaría de Ingresos.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+La cuota será fijada por la Secretaría de Hacienda Pública y Tesorería por conducto de la Sub'Secretaría de Ingresos.
 
 III.- En los casos de los giros o negociaciones que a continuación se indican, los derechos sanitarios respectivos se causarán conforme a las siguientes cuotas:
 
@@ -4255,7 +4399,9 @@ ART. 332.- La licencia sanitaria así como el permiso o autorización sanitaria 
 
 ART. 333.- Las licencias sanitarias o los permisos o autorizaciones sanitarias de construcción se causarán por cada una de las dependencias de los negocios, por los (sic) tanto, si una empresa tiene varios establecimientos aún dentro de la misma plaza, deberá pagar sus derechos sanitarios por cada uno de ellos, de acuerdo con las cuotas correspondientes.
 
-ART. 334.- En imcumplimiento (sic) de estas disposiciones causará sanciones que serán calificadas y cobradas por la Secretaría de Finanzas del Estado, a través de la Sub-Secretaría de Ingresos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 334.- En incumplimiento de estas disposiciones causará sanciones que serán calificadas y cobradas por la Secretaría de Hacienda Pública y Tesorería, a través de la Sub Secretaría de Ingresos.
 
 Mientras se expide el Código Sanitario del Estado de Sinaloa, la inspección, vigilancia, servicio, normas y procedimientos sanitarios, se aplicarán de conformidad con las disposiciones establecidas en el Código Sanitario de los Estados Unidos Mexicanos y sus Reglamentos.
 
@@ -4409,11 +4555,15 @@ La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, a
 
 ### CAPITULO UNICO
 
-ART. 335.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 335.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Hacienda Pública y Tesorería.
 
 ART. 336.- La Oficina Recaudadora expedirá el recibo oficial de pago correspondiente y rendirá su cuenta al Departamento de control del Ejercicio del Presupuesto, justificando y comprobando las operaciones con los documentos y órdenes concernientes a fin de que quede precisado el origen, motivo legal y monto de cada producto.
 
-ART. 337.- Los productos que se obtengan de operaciones hechas con bienes producidos o con servicios prestados por establecimientos que dependen del Gobierno del Estado y que sean pagados en los propios establecimientos, se concentrarán a la Secretaría de Finanzas del Estado con la documentación a que se refiere el artículo anterior, para que ésta a su vez, rinda la cuenta correspondiente al Departamento de Control del Ejercicio del Presupuesto.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 337.- Los productos que se obtengan de operaciones hechas con bienes producidos o con servicios prestados por establecimientos que dependan del Gobierno del Estado y que sean pagados en los propios establecimientos, se concentrarán a la Secretaría de Hacienda Pública y Tesorería con la documentación a que se refiere el artículo anterior, para que ésta a su vez, rinda la cuenta correspondiente al Departamento de Control del Ejercicio del Presupuesto.
 
 ART. 338.- Ingresarán también como productos los obtenidos de la venta de formas impresas y ediciones oficiales hechas por el Gobierno del Estado, procediéndose respecto a ellos como corresponda, de acuerdo con lo dispuesto en los artículos anteriores.
 
@@ -4451,11 +4601,15 @@ ART. 353.- En caso de que después de radicado el juicio intestamentario se pres
 
 ART. 354.- Hecha la declaración de herederos en favor de la Beneficencia Pública el Juez del conocimiento lo comunicará por oficio a la Oficina Recaudadora respectiva, para que ésta de cuenta a la Secretaría de Finanzas del Estado, sin perjuicio de que se continúe el procedimiento hasta la aprobación de la cuenta de división y participación de los bienes.
 
-ART. 355.- La Secretaría de Finanzas del Estado queda facultada para acordar que se vendan en subasta pública o fuera de almoneda, los bienes que por este concepto se adjudiquen a la Beneficencia Pública del Estado o bien acordar que se destinen a alguno de los fines de la Beneficencia.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 355.- La Secretaría de Hacienda Pública y Tesorería queda facultada para acordar que se vendan en subasta pública o fuera de almoneda, los bienes que por este concepto se adjudiquen a la beneficencia pública del Estado o bien acordar que se destinen a alguno de los fines de la Beneficencia.
 
 ART. 356.- Mientras tanto que los diversos servicios de la Beneficencia sean sostenidas con cargo al Presupuesto de Egresos del Estado, ingresarán al Erario Estatal los productos que se obtengan de la venta o explotación de los bienes de las herencias vacantes, pudiendo también destinarse esos bienes, a juicio del Ejecutivo, a los servicios públicos del Estado.
 
-ART. 357.- Los denunciantes de herencias vacantes siempre que hayan satisfecho los requisitos que establezca la Secretaría de Finanzas del Estado, tendrán derecho a una participación del 25% que se fijará tomando como base la tercera parte del valor catastral de los bienes inmuebles o del valor comercial de los bienes muebles.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 357.- Los denunciantes de herencias vacantes siempre que hayan satisfecho los requisitos que establezca la Secretaría de Hacienda Pública y Tesorería, tendrán derecho a una participación del veinticinco por ciento que se fijará tomando como base la tercera parte del valor catastral de los bienes inmuebles o del valor comercial de los bienes muebles.
 
 ART. 358.- No tendrán derecho a participación como denunciantes los empleados públicos del Estado, Federales o Municipales que, en el ejercicio de sus funciones oficiales tengan conocimiento de la existencia de esta clase de herencias.
 
@@ -4501,9 +4655,13 @@ II.- Presentarán en la propia Oficina Recaudadora, una declaración de los ingr
 
 III.- Darán cumplimiento a las demás obligaciones que establezca esta Ley;
 
-IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Finanzas del Estado, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
 
-V.- Cuando un causante no presente oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Finanzas del Estado para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del impuesto omitido por conducto de la respectiva Oficina Recaudadora.
+IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Hacienda Pública y Tesorería, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del Impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora; y,
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+V.- Cuando un causante no presenta oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Hacienda Pública y Tesorería para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del Impuesto omitido por conducto de la respectiva Oficina Recaudadora.
 
 ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
 
@@ -4549,7 +4707,9 @@ I.- Camarón $ 375.00 Tonelada
 
 II.- Otras Especies 100.00 "
 
-ART. 250.- El pago de este impuesto se hará por períodos mensuales tomando como base la fecha en que el producto hubiere salido de la Planta Congeladora y deberá enterarse dentro de los primeros 20 días del mes siguiente, en la Oficna (sic) Recaudadora correspondiente a la jurisdicción de la empresa congeladora, utilizando las formas que para el efecto autorice la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 250.- El pago de este Impuesto se hará por períodos mensuales tomando como base la fecha en que el producto hubiere salido de la Planta Congeladora y deberá enterarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora correspondiente a la jurisdicción de la empresa congeladora, utilizando las formas que para tal efecto autorice la Secretaría de Hacienda Pública y Tesorería.
 
 ART. 251.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe la empresa congeladora, de aquellos productos por los cuales haya cubierto el impuesto a que se refiere este Capítulo.
 
@@ -4655,7 +4815,9 @@ ART. 254.- Son sujetos del impuesto las personas físicas o jurídicas que reali
 
 ART. 255.- El impuesto se causará con una cuota de $ 31.00 por tonelada de harina producida.
 
-ART. 256.- El pago del impuesto será por períodos mensuales tomando como base el mes en que la harina sea elaborada y deberá enterarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora en cuya jurisdicción tenga su domicilio el causante, presentando una declaración en las formas que para el efecto autorice la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 256.- El pago del Impuesto será por períodos mensuales tomando como base el mes en que la harina sea elaborada y deberá entregarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora en cuya jurisdicción tenga su domicilio el causante, presentando una declaración en las formas que para el efecto autorice la Secretaría de Hacienda Pública y Tesorería.
 
 Cuando un mismo causante opere más de una planta industrial harinera, las declaraciones y pagos correspondientes a cada período mensual se presentarán separadamente por cada una de las plantas.
 
@@ -4673,7 +4835,9 @@ V.- Proporcionar a las autoridades fiscales todos los datos, libros, documentos 
 
 VI.- Recibir las visitas de inspección e investigación así como proporcionar a los Inspectores y Auditores los datos, libros, documentos e informes que les soliciten.
 
-Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Hacienda Pública y Tesorería.
 
 ART. 258.- No se causará el impuesto Estatal sobre Ingresos Mercantiles por la operación de venta de harina que efectúe la planta industrial harinera, por la cual haya cubierto el impuesto a que se refiere este Capítulo. Esta exención no incluye los sub-productos que pudieren obtenerse del proceso industrial para obtener harina.
 
@@ -4733,7 +4897,9 @@ II.- El 75% restante se distribuirá entre los municipios productores de la cañ
 
 ART. 377.- Cuando un impuesto del Estado sea condonado totalmente y en forma general respecto de los habitantes de una zona que haya sufrido alguna calamidad pública, la condonación comprenderá el respectivo gravámen adicional municipal y si la condonación es parcial, el gravamen adicional municipal se causará únicamente sobre la porción no condonada. En ningún otro caso la condonación de un impuesto del Estado implicará la del gravamen adicional municipal.
 
-ART. 378.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras de Rentas del Estado y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 378.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras de Rentas del Estado y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Hacienda Pública y Tesorería.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -4799,9 +4965,9 @@ III.- Previo el procedimiento legal, aplicará y ejecutará las sanciones proced
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 391.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Ingresos, los jefes de las oficinas Recaudadoras y demás autoridades fiscales, impondrán las sanciones administrativas por infracción a las disposiciones fiscales.
+ART. 391.- El Secretario de Hacienda Pública y Tesorería, el Sub'Secretario de Inspección Fiscal, el Sub'Secretario de Ingresos, los Jefes de las Oficinas Recaudadoras y demás autoridades fiscales, impondrán las sanciones administrativas por infracción a las disposiciones fiscales.
 
 ART. 392.- La aplicación de las sanciones administrativas que procedan, se harán sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso, y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
@@ -5149,15 +5315,15 @@ ART. 401.- Las autoridades fiscales del Estado, seguirán el procedimiento fisca
 
 ART. 402.- La aplicación del procedimiento fiscal de ejecución compete:
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
 
-I.- Al Secretario de Hacienda Pública y Tesorería, al Sub-Secretario de Hacienda Pública y Tesorería y al Sub-Secretario de Ingresos, por los créditos fiscales que deban ser pagados directamente en la Secretaría de Hacienda Pública y Tesorería o por avocación de competencia en los casos en que estos funcionarios lo estimen conveniente;
+I.- Al Secretario de Hacienda Pública y Tesorería, al Sub'Secretario de Inspección Fiscal y al Sub'Secretario de Ingresos, por los créditos fiscales que deban ser pagados directamente en la Secretaría de Hacienda Pública y Tesorería o por avocación de competencia en los casos en que estos funcionarios lo estimen conveniente; y
 
 II.- A los jefes de Oficinas Recaudadoras, dentro de sus respectivas jurisdicciones fiscales o por requerimiento que una oficina haga a otra.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 403.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Ingresos y los Recaudadores de Rentas, en ejercicio de la facultad económica-coactiva comisionarán a los ejecutores notificadores de su adscripción o a los empleados subalternos cuando las necesidades del servicio lo requieran.
+ART. 403.- El Secretario de Hacienda Pública y Tesorería, el Sub'Secretario de Inspección Fiscal, el Sub´Secretario de Ingresos y los Recaudadores de Rentas, en ejercicio de la facultad económica-coactiva comisionarán a los ejecutores notificadores de su adscripción o a los empleados subalternos cuando las necesidades del servicio lo requieran.
 
 ART. 404.- Los escritos y las promociones de los causantes no suspenderán el procedimiento económico-coactivo, sino en los casos en que el promovente asegure el interés fiscal en cualquiera de las formas establecidas por esta Ley.
 
@@ -5173,7 +5339,9 @@ Los ejecutores notificadores recibirán a título de honorarios el 16 por ciento
 
 ART. 406.- Las obligaciones y los créditos fiscales a que esta Ley se refiere podrán garantizarse en cualquiera de las formas siguientes:
 
-I.- Depósito de dinero en la institución de crédito que señala la Secretaría de Finanzas o ante la propia Secretaría;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+I.- Depósito de dinero en la institución de crédito que señala la Secretaría de Hacienda Pública y Tesorería o ante la propia Secretaría;
 
 II.- Pago bajo protesta;
 
@@ -5187,9 +5355,13 @@ VI.- Obligación solidaria asumida por terceros que comprueben su indoneidad (si
 
 ART. 407.- La garantía del interés fiscal deberá comprender la de los posibles recargos y gastos de ejecución.
 
-ART. 408.- La Secretaría de Finanzas dictará los requisitos que deban reunir las garantías, vigilará que sean suficientes tanto en el momento de su aceptación, como con posterioridad y, si no lo fueran, exigirá su ampliación.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 409.- La Secretaría de Finanzas podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorios la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+ART. 408.- La Secretaría de Hacienda Pública y Tesorería dictará los requisitos que deban reunir las garantías, vigilará que sean suficientes tanto en el momento de su aceptación, como con posterioridad y, si no lo fueran, exigirá su ampliación.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 409.- La Secretaría de Hacienda Pública y Tesorería podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorios la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
 ### CAPITULO III. Del Requerimiento de Pago
 
@@ -5305,9 +5477,13 @@ Durante la tramitación del incidente de exclusión no se suspenderá el procedi
 
 ART. 423.- Practicado el embargo se correrán los siguientes trámites:
 
-I.- Por correo se enviará inmediatamente el expediente completo a la Secretaría de Finanzas del Estado para su revisión;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
 
-II.- La Secretaría de Finanzas del Estado hará la revisión del expediente pudiendo aprobarlo, modificarlo y ordenar la reposición de la diligencia en los casos de irregularidades que no puedan subsanarse administrativamente;
+I.- Por correo se enviará inmediatamente el expediente completo a la Secretaría de Hacienda Pública y Tesorería para su revisión;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+II.- La Secretaría de Hacienda Pública y Tesorería hará la revisión del expediente pudiendo aprobarlo, modificarlo y ordenar la reposición de la diligencia en los casos de irregularidades que no puedan subsanarse administrativamente;
 
 III.- Hecha la revisión, se comunicará el resultado a la oficina ejecutora devolviéndole el expediente;
 
@@ -5327,9 +5503,13 @@ IV.- El día y la hora señalados para el remate y el lugar en que los bienes es
 
 Los términos para la almoneda serán de diez días para los bienes muebles y de veinte para los inmuebles.
 
-ART. 425.- La Oficina Ejecutora fijará en los lugares públicos, los tantos del edicto de remate que estime convenientes y enviará cuatro ejemplares a la Secretaría de Finanzas del Estado para su publicación por una sola vez en el Periódico Oficial del Estado, y dispondrá la publicación en otro periódico editado en el lugar más próximo al en que se verificará el remate, también por una sola vez.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 426.- Por excepción a lo dispuesto en los artículos anteriores, si los bienes embargados fueren explosivos, inflamables, alterables, corruptibles o peligrosos por cualquier motivo se venderán al día siguiente del embargo, lo que se hará constar en el acta misma del embargo. En tales casos no será necesario enviar el expediente respectivo a la Secretaría de Finanzas ni la publicación de edictos.
+ART. 425.- La Oficina Ejecutora fijará en los lugares públicos, los tantos del edicto que estime convenientes y enviará cuatro ejemplares a la Secretaría de Hacienda Pública y Tesorería para su publicación por una sola vez en el Periódico Oficial del Estado, y dispondrá la publicación en otro periódico editado en el lugar más próximo al en que se verificará el remate, también por una sola vez.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 426.- Por excepción a lo dispuesto en los artículos anteriores, si los bienes embargados fueren explosivos, inflamables, alterables, corruptibles o peligrosos por cualquier motivo se venderán al día siguiente del embargo, lo que se hará constar en el acta misma del embargo. En tales casos no será necesario enviar el expediente respectivo a la Secretaría de Hacienda Pública y Tesorería ni la publicación de edictos.
 
 ART. 427.- Los remates se verificarán en el local de la Oficina Ejecutora con asistencia de dos testigos extraños.
 
@@ -5337,7 +5517,9 @@ ART. 428.- Ningún postor será admitido sin papel de abono a menos que sea de n
 
 ART. 429.- Será postura legal para la almoneda:
 
-I.- Si se trata de bienes raíces, las dos terceras partes del valor catastral. Si el valor catastral es notoriamente bajo y el adeudo fiscal excede en cuantía a la postura legal. La Secretaría de Finanzas, al revisar el expediente, podrá ordenar un avalúo pericial exclusivamente para que sirva de base a la determinación de la postura legal;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+I.- Si se trata de bienes raíces, las dos terceras partes del valor catastral. Si el valor catastral es notoriamente bajo y el adeudo fiscal excede en cuantía a la postura legal, la Secretaría de Hacienda Pública y Tesorería, al revisar el expediente, podrá ordenar un avalúo pericial exclusivamente para que sirva de base a la determinación de la postura legal;
 
 II.- Si se trata de otros bienes, el cincuenta por ciento de su valor, determinado como sigue:
 
@@ -5361,7 +5543,9 @@ II.- Si hubiere varias posturas, en las condiciones mencionadas en la fracción 
 
 III.- Si dos o más de las posturas mayores son iguales, se declarará fincado el remate en favor de la persona que resulte favorecida por la suerte dentro del procedimiento siguiente: Se inscribirán en papeles iguales los nombres de quienes hayan ofrecido las posturas mayores iguales, doblándose y mezclándose aquellos para evitar su identificación y el nombre que aparezca en el primer papel que saque el jefe de la Oficina será favorecido en el remate;
 
-IV.- En los casos en que el Estado de Sinaloa o sus Municipios gocen de capacidad para adquirir los bienes sujetos a remate, de conformidad con las leyes relativas, podrán concurrir al remate por conducto de delegado designado en el oficio por el Secretario de Finanzas del Estado o el Tesorero Municipal respectivo, según el caso.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+IV.- En los casos en que el Estado de Sinaloa o sus Municipios gocen de capacidad para adquirir los bienes sujetos a remate, de conformidad con las leyes relativas, podrán concurrir al remate por conducto de Delegado designado en oficio por el Secretario de Hacienda Pública y Tesorería o el Tesorero Municipal respectivo, según el caso;
 
 V.- Si en la venta de los bienes se obtiene mayor cantidad de la que importe el crédito fiscal, principal y accesorios, el remanente quedará a disposición del deudor;
 
@@ -5449,7 +5633,9 @@ IV.- Para la resolución de los recursos, las autoridades fiscales podrán pedir
 
 V.- Rendidas las pruebas y recibidos, en su caso, los informes, se dictará resolución dentro de un plazo que no excederá de treinta días.
 
-ART. 447. En materia fiscal procederán ante la Procuraduría Fiscal de la Secretaría de Finanzas, los siguientes recursos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 447. En materia fiscal procederán ante la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería, los siguientes recursos:
 
 I.- La revocación;
 
@@ -5507,7 +5693,9 @@ El peso del algodón en pluma producido será el que resulte mayor entre el dete
 
 Para efectos fiscales no se admitirá que el rendimiento en el algodón en pluma sea inferior al 34% del peso total del algodón en hueso o rama recibido para su despepite, ni cualquier otra deducción.
 
-ART. 262.- El impuesto se determinará por períodos que abarquen del día primero al día quince y del día dieciséis al día último de cada mes, debiendo enterarse en la Oficina Recaudadora correspondiente a la jurisdicción donde se encuentre ubicada la planta o plantas industriales del causante, dentro de los cinco días hábiles siguientes a la terminación de cada período y mediante las formas de declaración que para el efecto autorice la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 262.- El impuesto se determinará por períodos que abarquen del día primero al día quince y del día dieciséis al día último de cada mes, debiendo enterarse en la Oficina Recaudadora correspondiente a la jurisdicción donde se encuentre ubicada la planta o plantas industriales del causante, dentro de los cinco días hábiles siguientes a la terminación de cada período y mediante las formas de declaración que para el efecto autorice la Secretaría de Hacienda Pública y Tesorería.
 
 Cuando un mismo causante opere más de una planta industrial, las declaraciones y pago correspondiente a cada período se hará en forma separada por cada una de las plantas.
 
@@ -5525,7 +5713,9 @@ V.- A proporcionar a las autoridades fiscales todos los datos, libros y document
 
 VI.- A recibir las visitas de inspección e investigación, así como a proporcionar a los inspectores y auditores, los datos informes y documentos que les soliciten.
 
-Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice para el efecto la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice para el efecto la Secretaría de Hacienda Pública y Tesorería.
 
 ART. 264.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la primera venta de semilla industrial, borra y demás subproductos que se obtengan al industrializar el algodón en rama, siempre y cuando se haya cubierto el impuesto contenido en cada Capítulo.
 
@@ -5543,9 +5733,13 @@ ART. 266.- Son causantes del impuesto las personas físicas o jurídicas que rea
 
 ART. 267.- En (sic) impuesto se causará con una cuota de $ 67.00 por tonelada de arroz palay que entre a proceso de elaboración.
 
-El peso de arroz palay que servirá de base para el pago de este impuesto será el tonelaje que se reciba en la planta y de acuerdo con las tolerancias y deducciones que autoricen los convenios celebrados entre la Secretaría de Finanzas del Estado y los industriales arroceros.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
-ART. 268.- El impuesto se determinará por períodos quincenales que abarquen del 1o. al 15 y del 16 al día último de cada mes, debiendo enterarse en la Oficina Recaudadora correspondiente a la jurisdicción donde se encuentre ubicada la planta o plantas industriales del causante, dentro de los cinco días hábiles siguientes al de vencimiento de cada uno de dichos períodos, utilizando las formas de declaración que para el efecto autorice la Secretaría de Finanzas del Estado.
+El peso de arroz palay que servirá de base para el pago de este Impuesto será el tonelaje que se reciba en la planta y de acuerdo con las tolerancias y deducciones que autoricen los convenios celebrados entre la Secretaría de Hacienda Pública y Tesorería y los industriales arroceros.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 268.- El Impuesto se determinará por períodos quincenales que abarquen del primero al quince y del dieciséis al día último de cada mes, debiendo enterarse en la Oficina Recaudadora correspondiente a la jurisdicción donde se encuentre ubicada la planta o plantas industriales del causante, dentro de los quince días hábiles siguientes al de vencimiento de cada uno de dichos períodos, utilizandos (sic) las formas de declaración que para tal efecto autorice la Secretaría de Hacienda Pública y Tesorería.
 
 Para estos pagos quincenales se tomará como base de conversión un 68% de rendimientos del palay, en arroces blancos, haciéndose el ajuste por la conversión real de la temporada en la última declaración de este impuesto.
 
@@ -5563,9 +5757,13 @@ IV.- Llevar registro de entradas, salidas y existencias de arroz palay, así com
 
 V.- Proporcionar a las Autoridades Fiscales todos los datos, libros, y documentos que les soliciten;
 
-VI.- Recibir las visitas de inspección e investigación, así como proporcionar a los inspectores y auditores los datos e informes que les soliciten.
+(REFORMADO, P.O. 24 DE AGOSTO DE 1990
 
-Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Finanzas del Estado.
+VI.- Recibir las visitas de inspección e investigación, así como proporcionar a los inspectores y auditores los datos e informes que les soliciten;
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Hacienda Pública y Tesorería.
 
 ART. 270.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe el molino arrocero, de aquellos productos por los cuales ya hubiera pagado el impuesto contenido en ese Capítulo.
 
@@ -5635,11 +5833,17 @@ ART. 280.- El pago del impuesto deberá efectuarse en la Oficina Recaudadora a q
 
 ART. 281.- Los causantes de este impuesto, independientemente del pago del mismo en los términos del Artículo anterior, tendrán las siguientes obligaciones:
 
-I.- Registrarse ante la Secretaría de Finanzas del Estado o por conducto de la Oficina Recaudadora de su domicilio, dentro de los 30 días siguientes a la fecha de iniciación de su actividad. Este registro también podrá efectuarse por conducto de la Asociación Ganadera correspondiente a la jurisdicción del contribuyente, utilizando las formas que para el efecto autorice la Secretaría de Finanzas del Estado;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
 
-II.- Presentar ante la Unión Ganadera Regional de Sinaloa una declaración anual por el período del 1o. de enero al 31 de diciembre de cada año, dentro de los meses de enero y febrero del año inmediato siguiente al período que corresponda. Dicha declaración se utilizará para fines estadísticos, la cual será archivada debidamente por la Unión, para que ésta esté en posibilidad de proporcionar cualquier información referente a los ganaderos que solicite la Secretaría de Finanzas del Estado. Esta declaración podrá presentarse por conducto de la Asociación Ganadera Local correspondiente a la jurisdicción del causante, utilizando las formas que para el efecto autorice la Secretaría de Finanzas del Estado.
+I.- Registrarse ante la Secretaría de Hacienda Pública y Tesorería o por conducto de la Oficina Recaudadora de su domicilio, dentro de los treinta días siguientes a la fecha de iniciación de su actividad. Este registro también podrá efectuarse por conducto de la Asociación Ganadera correspondiente a la jurisdicción del contribuyente, utilizando las formas que para el efecto autorice la Secretaría de Hacienda Pública y Tesorería; y,
 
-ART. 282.- La Secretaría de Finanzas del Estado podrá disponer, si lo estima conveniente, que los registros y declaraciones a que se refiere este Capítulo cuya presentación hubiesen omitido los causantes, se suplan de oficio con los datos que la autoridad fiscal pueda allegarse, sin perjuicio de aplicación de las sanciones que correspondan a los omisos por infracción a las Leyes Fiscales.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+
+II.- Presentar ante la Unión Ganadera Regional de Sinaloa una declaración anual por el período del primero de enero al treinta y uno de diciembre de cada año, dentro de los meses de enero y febrero del año inmediato siguiente al período que corresponda. Dicha declaración se utilizará para fines estadísticos la cual será archivada debidamente por la Unión, para que ésta esté en posibilidad de proporcionar cualquier información referente a los ganaderos que solicite la Secretaría de Hacienda Pública y Tesorería. Esta declaración podrá presentarse por conducto de la Asociación Ganadera Local correspondiente a la jurisdicción del causante, utilizando las formas que para el efecto autorice la Secretaría de Hacienda Pública y Tesorería.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 282.- La Secretaría de Hacienda Pública y Tesorería podrá disponer, si lo estima conveniente, que los registros y declaraciones a que se refiere este Capítulo cuya presentación hubiesen omitido los causantes, se suplan de oficio con los datos que la Autoridad Fiscal pueda allegarse, sin perjuicio de aplicación de las sanciones que correspondan a los omisos por infracción a las Leyes Fiscales.
 
 ART. 283.- Las Autoridades Municipales no deberán permitir el sacrificio de ganado ni expedir guías para el traslado del mismo sin tener la comprobación previa del pago del impuesto a que se refiere este Capítulo.
 
@@ -6078,3 +6282,9 @@ P.O. 07 DE FEBRERO DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE AGOSTO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
