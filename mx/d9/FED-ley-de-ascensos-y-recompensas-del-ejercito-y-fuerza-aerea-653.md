@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-y-fuerza-aerea-653"
 country: "mx"
 rank: "ley"
 publication_date: "1956-01-07"
-last_updated: "1985-11-11"
+last_updated: "2003-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=653&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1955-12-31"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE NOVIEMBRE DE 1985.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA NACIONALES PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 30 DE OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 7 de enero de 1956.
 
@@ -766,3 +768,25 @@ UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en e
 D.O.F. 11 DE NOVIEMBRE DE 1985.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin carácter retroactivo, iniciando el pago de las nuevas primas correspondientes a partir de enero de 1986 y quedando derogadas las disposiciones que se le opongan.
+
+D.O.F. 30 DE OCTUBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La Presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Nacionales del 31 de diciembre de 1955, así como todas las demás disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Federal expedirá el Reglamento de la presente Ley en un plazo no mayor de seis meses contados a partir de la fecha de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Las Condecoraciones otorgadas conforme a las leyes, decretos y disposiciones anteriores, podrán seguirse usando con arreglo a las mismas.
+
+México, D.F., a 25 de septiembre de 2003.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
