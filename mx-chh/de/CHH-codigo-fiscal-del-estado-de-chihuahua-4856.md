@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1976-12-29"
+last_updated: "1977-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1977.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1323,61 +1323,59 @@ IV.- A registrarse en la Recaudación de Rentas de su jurisdicción, dentro del 
 
 170.- Las Oficinas Públicas de la Federación, del Estado y de los Municipios, así como los organismos descentralizados, las empresas de participación o propiedad del Gobierno Federal, del Gobierno Estatal, o similares, que hagan pagos a sujetos de este impuesto, cumplirán con las mismas obligaciones señaladas en los artículos anteriores.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1971)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1977)</small>
 
 171.- El impuesto se causará conforme a la siguiente
 
 TARIFA:
 
-Límite Inferior Limite Superior Cuota Fija Porcentajes para
+Porcentaje para
 
-M $ N M $ N M $ N aplicarse sobre el
+aplicarse sobre
 
-excedente del
+el excedente del
 
-límite inferior
+Límite Inferior Límite Superior Cuota Fija límite inferior.
 
-De 0.01 a 2,500.00 0.00 exento
+M$N M$N M$N
 
-" 2,500.01 a 3,000.00 27.00 más 1.9
+De 0.01 a 3,500.00 0.00 más exento
 
-" 3,000.01 a 4,000.00 36.50 " 2.3
+De 3,500.01 a 4,000.00 30.00 más 2.4
 
-" 4,000.01 a 5,000.00 59.50 " 2.7
+De 4,000.01 a 5,000.00 42.00 más 3.2
 
-" 5,000.01 a 6,000.00 86.50 " 3.1
+De 5,000.01 a 6,000.00 74.00 más 4.3
 
-" 6,000.01 a 7,000.00 117.50 " 3.4
+De 6,000.01 a 7,000.00 117.00 más 3.4
 
-" 7,000.01 a 8,000.00 151.50 " 3.6
+De 7,000.01 a 8,000.00 151.00 más 3.6
 
-" 8,000.01 a 9,000.00 187.50 " 3.9
+De 8,000.01 a 9,000.00 187.00 más 3.9
 
-" 9,000.01 a 10,000.00 226.50 " 4.2
+De 9,000.01 a 10,000.00 226.00 más 4.2
 
-" 10,000.01 a 12,000.00 268.50 " 4.6
+De 10,000.01 a 12,000.00 268.00 más 4.6
 
-" 12,000.01 a 15,000.00 360.50 " 5.5
+De 12,000.01 a 15,000.00 360.00 más 5.5
 
-" 15,000.01 a 18,000.00 525.50 " 6.5
+De 15,000.01 a 18,000.00 525.00 más 6.5
 
-" 18,000.01 a 21,000.00 720.50 " 7.5
+De 18,000.01 a 21,000.00 720.00 más 7.5
 
-" 21,000.01 a 25,000.00 945.50 " 8.2
+De 21,000.01 a 25,000.00 945.00 más 8.2
 
-" 25,000.01 a 30,000.00 1,273.50 " 8.5
+De 25,000.01 a 30,000.00 1,273.00 más 8.5
 
-" 30,000.01 en adelante 1,698.50 " 8.7
+De 30,000.00 en adelante 1,698.00 más 8.7
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 1976)</small>
-
-Cuando los causantes de este impuesto perciban hasta $500.00 mensuales en adición al salario mínimo general de la zona económica respectiva o a la base mínima gravada, cualquiera que sea mayor, por concepto de sobresueldos, horas extras, comisiones, premios, gratificaciones o por cualquier otro concepto gravable, el importe del impuesto a pagar se calculará aplicando al ingreso que exceda al salario mínimo general o a la base mínima gravada, el factor .002 y el resultado obtenido se multiplicará por el importe que resulte de aplicar la tarifa contenida en este artículo al ingreso total percibido durante el mes.
+Cuando los causantes de este impuesto perciban hasta $500.00 mensuales en adición al salario mínimo general de la zona económica respectiva o a la base mínima gravada, cualquiera que sea mayor, por concepto gravable, el importe del impuesto a pagar se calculará aplicando al ingreso que exceda al salario mínimo general o a la base mínima gravada, el factor .002 y el resultado obtenido se multiplicará por el importe que resulte de aplicar la tarifa contenida en este Artículo al ingreso total percibido durante el mes.
 
 DE LAS EXENCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1977)</small>
 
-172.- Están exentos del pago del Impuesto:
+172.- Están exentos de pago del Impuesto:
 
 I.- Indemnizaciones por riesgos o enfermedades profesionales que se concedan de acuerdo con la Ley Federal del Trabajo, la Ley del Seguro Social y su Reglamento, o con los contratos de trabajo respectivos.
 
@@ -1393,9 +1391,9 @@ V.- Indemnizaciones para gastos funerarios.
 
 VI.- Las gratificaciones de fin de año, acordadas en forma general, a favor de los empleados públicos, así como las que perciban, también a fin de año, otros trabajadores, que no sean superiores a un mes de sueldo y que éste no exceda del salario mínimo general de la zona económica respectiva con $500.00.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1976)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1977)</small>
 
-VII.- Las cantidades recibidas por concepto de salario mínimo general, prima dominical, vacacional y de antigüedad sobre la base de dicho salario, las participaciones en las utilidades, las indemnizaciones por cese o separación, los retiros o rentas vitalicias que tengan su origen en la prestación de servicios personales, las jubilaciones y pensiones en casos de invalidez, cesantía, vejez y muerte, siempre que las prestaciones mencionadas no excedan de las señaladas como mínimo por la Legislación Laboral.
+VII.- Las cantidades recibidas por concepto de salario mínimo general, prima dominical, vacacional y de antigüedad sobre la base de dicho salario, las participaciones en las utilidades, las indemnizaciones por cese o separación, los retiros o rentas vitalicias que tengan su origen en la prestación de servicios personales, las jubilaciones y pensiones en caso de invalidez, cesantía, vejez y muerte.
 
 VIII.- Los haberes que obtengan los miembros del Ejército Nacional.
 
@@ -1723,7 +1721,7 @@ VIII.- Naturaleza y valor de la operación;
 
 IX.- Fecha del otorgamiento y autorización de la escritura;
 
-X.- Nombre y numero del Notario o autoridad ante quien se celebre el contrato u operación.
+X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u operación.
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
@@ -2519,7 +2517,7 @@ c).- Recibir las visitas de inspección que ordene la Tesorería General del Est
 
 d).- Dar aviso a la Recaudación de Rentas de su jurisdicción, cuando estime que sus ingresos anuales serán mayores de $500,000.00(QUINIENTOS MIL PESOS 00/100), a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20% a aquéllos por los que se fijó la cuota.
 
-V.- Los convenios tendrán la duración que les corresponda, dentro de cada año fiscal comprendido dentro del 1o. de enero al 31 de diciembre, sin que la vigencia de los mismos pueda exceder de un año. Al termino de su vigencia, que no será nunca posterior al 31 de diciembre del año en que se firmen, quedarán sin efectos.
+V.- Los convenios tendrán la duración que les corresponda, dentro de cada año fiscal comprendido dentro del 1o. de enero al 31 de diciembre, sin que la vigencia de los mismos pueda exceder de un año. Al término de su vigencia, que no será nunca posterior al 31 de diciembre del año en que se firmen, quedarán sin efectos.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -4415,7 +4413,7 @@ Salvo el caso de que el beneficiario sea persona física no empresario, los acue
 
 496.- Si en cualquier momento se comprobare que los beneficiarios de las franquicias establecidas por este Capítulo, han dejado de cumplir con alguno de los requisitos que el mismo previene como condición para el otorgamiento y subsistencia de aquellas, la Tesorería General del Estado hará efectivos todos los impuestos y derechos omitidos, imponiéndose además al causante una sanción que en ningún caso será inferior a otro tanto de la tributación cuya exención se concedió.
 
-497.- Se prohibe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
+497.- Se prohíbe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
 
 ## TRANSITORIOS.
 
@@ -4534,3 +4532,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado d
 P.O. 29 DE DICIEMBRE DE 1976.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua, el día 1o. de enero de 1977.
+
+P.O. 4 DE JUNIO DE 1977.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
