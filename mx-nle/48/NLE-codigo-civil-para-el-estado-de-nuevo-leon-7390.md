@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1975-12-17"
+last_updated: "1979-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1979.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -147,6 +147,8 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 25.
 
 Son personas morales:
@@ -168,6 +170,8 @@ VI.- Las asociaciones distintas de las enumeradas que se propongan fines políti
 Las personas morales pueden ejercitar todos los derechos que sean necesarios para realizar el objeto de su institución.
 
 ### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
 
 ###### Art. 27.
 
@@ -229,39 +233,53 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ### CAPITULO VII. DE LAS ACTAS DE MATRIMONIO
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 35.
 
-En el Estado estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en la misma Entidad Federativa; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+En el Estado estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en la misma entidad federativa; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+
+Las actas deberán levantarse precisamente por cuadruplicado y a máquina en las formas foliadas, autorizadas y expedidas por la Dirección del Registro Civil y se distribuirán de la siguiente manera: el original para formar el cuaderno correspondiente a la oficialía; la primera copia para el cuaderno correspondiente al Archivo General del Estado; la segunda copia para el interesado; y la tercera para la Dirección de Estadística.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
 
 ###### Art. 36.
 
-Los oficiales del Registro Civil llevarán por duplicado siete libros que se denominan "REGISTRO CIVIL" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio, y el quinto, actas de divorcio; el sexto, actas de fallecimiento, y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+Los oficiales del Registro Civil formarán por duplicado siete cuadernos que se denominan "REGISTRO CIVIL" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio, y el quinto, actas de divorcio; el sexto, actas de fallecimiento, y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
 Toda acta deberá asentarse en los dos ejemplares del Registro.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 37.
 
-Las actas del Registro Civil solo se pueden asentar en los libros de que habla el artículo anterior.
+Las actas del Registro Civil solo se pueden asentar en los cuadernos de que habla el artículo anterior.
 
 La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Oficial del Registro Civil.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 38.
 
-Si se perdiere o destruyere alguno de los libros del Registro, se sacará inmediatamente copia del otro ejemplar, ya sea que la pérdida ocurra en las Oficinas del Registro Civil o en las de la autoridad administrativa a quien se hubieren remitido los duplicados.
+Si se perdiere o destruyere alguno de los cuadernos del Registro, se sacará inmediatamente copia del otro cuaderno, ya sea que la pérdida ocurra en las Oficinas del Registro Civil o en las de la autoridad administrativa a quien se hubiere remitido los duplicados. Un ejemplar entregado por la autoridad al particular al momento del registro, será igualmente válido para restituir la pérdida.
 
-Los Agentes del Ministerio Público, cuidarán de que se cumpla esta disposición, y, a ese efecto, el Oficial del Registro o el encargado del Archivo General del Gobierno del Estado, les darán aviso de la pérdida.
+Los Agentes del Ministerio Público, cuidarán de que se cumpla esta disposición, y, a ese efecto, el Oficial del Registro o el Encargado del Archivo General del Gobierno del Estado, les darán aviso de la pérdida.
 
 ###### Art. 39.
 
 El estado civil de las personas solo se comprueba por las constancias relativas del Registro.- Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 40.
 
-Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles, o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno solo de los registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles, o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno solo de los registros se ha inutilizado y existen los otros ejemplares, de éstos deberá tomarse la prueba sin admitirla de otra clase.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
 
 ###### Art. 41.
 
-Todos los libros del Registro Civil serán visados en su primera y última hoja por el Presidente Municipal respectivo, y autorizados por el mismo con su rúbrica en todas las demás. Se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Secretaría de Gobierno del Estado.
+Todos los cuadernos del Registro Civil de que habla el Art. 36 serán visados en su primera y última hoja por el Director del Registro Civil. Se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la misma Dirección del Registro Civil.
 
 ###### Art. 42.
 
@@ -291,9 +309,11 @@ Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro a l
 
 Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los oficiales registradores estarán obligados a darlo.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 49.
 
-Los actos y actas del estado civil relativos al Oficial del Registro, a su consorte y a los ascendientes o descendientes de cualesquiera de ellos, no podrán autorizarse por el mismo Oficial; pero se asentarán en los propios libros y se autorizarán por el Presiente Municipal del lugar.
+Los actos y actas del estado civil relativos al Oficial del Registro, a su consorte y a los ascendientes o descendientes de cualesquiera de ellos, no podrán autorizarse por el mismo Oficial; pero se asentarán en los propios cuadernos y se autorizarán por el Director del Registro Civil en lo que corresponde a los municipios de Apodaca, Garza García, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y García, y en los demás, por el Presidente Municipal del lugar.
 
 ###### Art. 50.
 
@@ -301,35 +321,45 @@ Las actas del Registro Civil extendidas conforme a las disposiciones que precede
 
 Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fé hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 51.
 
-Para establecer el estado civil, adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registren en la Oficina respectiva del Territorio de la República.
+Para establecer el estado civil, adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registren en la Oficina respectiva del Territorio de la República. Estos registros se ajustarán a las formas de que habla el Art. 35.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
 
 ###### Art. 52.
 
-Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los jueces de primera instancia, por turno que llevará la autoridad municipal.
+Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales conforme a las disposiciones reglamentarias que expida el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
 
 ###### Art. 53.
 
-El Ministerio Público cuidará de que los libros del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquiera época. Durante los seis primeros meses de cada año, el Procurador de Justicia del Estado revisará los libros del año anterior remitidos a la Secretaría de Gobierno del Estado, para el efecto de hacer la consignación correspondiente de los Oficiales Registradores que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido esos empleados.
+El Ministerio Público cuidará de que los cuadernos del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquiera época. Durante los seis primeros meses de cada año, el Procurador de Justicia del Estado revisará los cuadernos del año anterior remitidos a la Dirección del Registro Civil, para el efecto de hacer la consignación correspondiente de los Oficiales Registradores que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido esos funcionarios.
 
 ###### Art. 54.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en la casa donde aquél hubiere nacido.
+Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en la casa donde aquel hubiere nacido. Esta presentación no tendrá lugar cuando exista el certificado a que se refiere el artículo siguiente, cuyo documento será suficiente para el registro.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
 
 ###### Art. 55.
 
-Tienen obligación de declarar el nacimiento: el padre, dentro de los quince días de ocurrido aquél, y, en su defecto, la madre dentro de los cuarenta días.
+Tienen obligación de declarar el nacimiento: el padre, dentro de los 15 días de ocurrido aquel, y, en su defecto, la madre dentro de los 40 días.
 
-Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes mediante la entrega del certificado de nacimiento, de acuerdo con las formas expedidas por la Dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si este ocurrió fuera de la casa paterna.
 
 Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 56.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cinco a cincuenta pesos, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
+Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de doscientos cincuenta a quinientos pesos, que impondrá la Dirección del Registro Civil.
 
-En la misma pena incurrirán las personas que no cumplan con la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+En pena equivalente al triple de la señalada en este artículo, incurrirán las personas que no cumplan con la obligación de dar el aviso o certificado prevenido en el párrafo segundo del artículo anterior.
 
 ### CAPITULO VIII. DE LAS ACTAS DE DIVORCIO
 
@@ -337,11 +367,15 @@ En la misma pena incurrirán las personas que no cumplan con la obligación de d
 
 En las poblaciones en que no haya Oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva que los interesados llevarán al Oficial del Registro que corresponda, para que asiente el acta.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 58.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+El acta de nacimiento se extenderá con asistencia de dos testigos que puedan ser designados por las partes interesadas. Contendrá el día, la hora y el lugar de nacimiento, el número de certificado de nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto, según el certificado de nacimiento.
 
-Si el niño se presenta como hijo de padres desconocidos, el Oficial del Registro le pondrá nombre y apellido, haciéndose constar estas circunstancias en el acta.
+Se tomará al margen del acta la impresión digital del presentado en el caso de no presentarse el mencionado certificado.
+
+Si el niño se presenta como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y apellido, haciéndose constar estas circunstancias en el acta.
 
 ###### Art. 59.
 
@@ -415,9 +449,11 @@ Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en 
 
 Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 76.
 
-En el acta de nacimiento de gemelos, el Oficial del Registro Civil hará constar las particularidades que los distingan y quien nació primero, según las noticias que le comunique el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
+En el caso de nacimiento de gemelos o más, se levantará acta para cada individuo y se harán constar las particularidades que los distingan y quien nació primero, según las noticias que le comunique el médico cirujano, la matrona o las personas que hayan asistido al parto.
 
 ### CAPITULO IX. DE LAS ACTAS DE DEFUNCION
 
@@ -525,9 +561,9 @@ En los casos de emancipación por efecto del matrimonio no se formará acta sepa
 
 ###### Art. 97.
 
-Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
+Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, en la forma que para tal efecto autorice la Dirección del Registro Civil, en la que se exprese:
 
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta,
+I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
 
 II.- Que no tienen impedimento legal para casarse, y
 
@@ -577,11 +613,13 @@ En el lugar, día y hora designados para la celebración del matrimonio deberán
 
 Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad, unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 103.
 
 Se levantará luego el acta de matrimonio en la cual se hará constar:
 
-I.- Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
+I.- los nombres, apellidos, edad, ocupación, domicilio, escolaridad, nacionalidad y lugar de nacimiento de los contrayentes;
 
 II.- Si son mayores o menores de edad;
 
@@ -599,7 +637,7 @@ VIII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testi
 
 IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
 
-El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
+El acta será firmada solamente por el Oficial del Registro Civil, los contrayentes, cuatro testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
 
 Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
@@ -651,9 +689,11 @@ También podrá exigir declaración bajo protesta a los testigos que los interes
 
 La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Oficial del Registro Civil para que levante el acta correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 115.
 
-El acta de divorcio expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró su matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio.
+El acta de divorcio expresará el nombre, apellido, edad, nacionalidad, escolaridad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró el matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio.
 
 ###### Art. 116.
 
@@ -669,11 +709,13 @@ Ninguna inhumación se hará sin autorización escrita dada por el Oficial del R
 
 En el acta de fallecimiento se asentarán los datos que el Oficial del Registro Civil adquiera, o la declaración que se le haga, y será firmada por dos testigos prefiriéndose para el caso los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquel en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos mas inmediatos.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+
 ###### Art. 119.
 
-El acta del fallecimiento contendrá:
+El acta de fallecimiento contendrá:
 
-I.- El nombre, apellido, edad, ocupación y domicilio que tuvo el difunto;
+I.- El nombre, apellido, edad, sexo, ocupación y domicilio que tuvo el difunto;
 
 II.- El estado civil de éste, y si era casado o viudo, el nombre y apellido de su cónyuge;
 
@@ -681,9 +723,11 @@ III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si
 
 IV.- Los nombres de los padres del difunto si se supieren;
 
-V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver,
+V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver;
 
-VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
+VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta;
+
+VII.- Si el fallecimiento fue certificado o no por un médico.
 
 ###### Art. 120.
 
@@ -3855,7 +3899,7 @@ I.- $175,000.00 (Ciento setenta y cinco mil pesos 00/100 M.N.), para los Municip
 
 II.- $140.000.00 (Ciento cuarenta mil pesos 00/100 M.N.), para los Municipios de San Nicolás de los Garza, Guadalupe y Garza García N.L.
 
-III- $ 80.000.00 (Ochenta mil pesos 00/100 M.N.), para los Municipios de Linares, Cadereyta Jiménez, Montemorelos, Sabinas Hidalgo, Villa de Santiago, Villa de Juárez, Santa Catarina, General Escobedo, Apodaca, Allende, General Terán y Ciudad Anáhuac, N.L.
+III.- $ 80.000.00 (Ochenta mil pesos 00/100 M.N.), para los Municipios de Linares, Cadereyta Jiménez, Montemorelos, Sabinas Hidalgo, Villa de Santiago, Villa de Juárez, Santa Catarina, General Escobedo, Apodaca, Allende, General Terán y Ciudad Anáhuac, N.L.
 
 IV.- $60.000.00 (Sesenta mil pesos 00/100 M.N.), para los demás Municipios del Estado, incluyéndose la Congregación Colombia.
 
@@ -14758,3 +14802,17 @@ UNICO:- Este Decreto entrará en vigor el día siguiente al de su publicación e
 P.O. 17 DE DICIEMBRE DE 1975.
 
 UNICO:- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE ENERO DE 1979.
+
+###### Art. 1º.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### Art. 2º.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+###### Art. 3º.
+
+A la brevedad posible y previo aviso en el Periódico Oficial y en otro de mayor circulación en el Estado, se iniciará el nuevo sistema de formas y cuadernos y simultáneamente, se procederá a la cancelación y concentración en la Dirección del Registro Civil, de los libros y demás documentos actualmente en uso.
