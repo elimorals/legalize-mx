@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-practica-de-avaluos-fiscales-para-el-12594"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-10-20"
-last_updated: "2002-12-27"
+last_updated: "2004-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA PRACTICA DE AVALUOS FISCALES PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -63,11 +63,13 @@ Valuador Fiscal es la persona autorizada para dictaminar como Perito Legal en la
 
 La intervención de Valuador Fiscal en la practica de todo tipo de avalúos es indispensable para la validez de los dictámenes valuatorios de bienes inmuebles cuando la cuantificación sirva de base para la determinación de valores que se utilicen para fijar o calcular los impuestos que, conforme a las leyes, deban pagarse al Municipio.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 5.
 
-El Valuador Fiscal, en su calidad de Auxiliar de la Administración Pública esta sujeto a las disposiciones que sobre la materia establezca la Ley de Hacienda Municipal del Estado de Baja California y las que dicten las Autoridades Municipales.
+El valuador fiscal, en su calidad de auxiliar de la Administración Pública está sujeto a las disposiciones que sobre la materia establezca la Ley de Hacienda Municipal del Estado de Baja California.
+
+Además, este deberá elaborar al menos una vez por año, un peritaje gratuito a favor del Ayuntamiento, respecto de los Monumentos, Esculturas, Estatuas y Placas Conmemorativas, de acuerdo a lo establecido por el Reglamento de la Ley e (sic) Catastro Inmobiliario del estado de Baja California para el Municipio de Tijuana.
 
 ### CAPITULO SEGUNDO. AUTORIDADES
 
@@ -79,7 +81,7 @@ Son Autoridades en la materia de Avalúos Fiscales a que contrae este Reglamento
 
 I.- EL PRESIDENTE MUNICIPAL
 
-II.- EL TESORERO MUNICPAL (SIC)
+II.- EL TESORERO MUNICPAL (SIC) Y
 
 III.- EL RECAUDADOR DE RENTAS MUNICIPAL.
 
@@ -340,3 +342,7 @@ P.O. 27 DE DICIEMBRE DE 2002.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y publíquese en un periódico local de mayor circulación para conocimiento de la población.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
+
+P.O. 24 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) estado y deberán publicarse en un Periódico de mayor circulación en la localidad para el conocimiento de la ciudadanía. SEGUNDO.- Se derogan las disposiciones que se opongan a las presentes reformas.
