@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-ciencia-y-tecnologia-del-distrito-15945"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2000-03-28"
+last_updated: "2003-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15945&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2000-03-14"
 
 LEY DEL INSTITUTO DE CIENCIA Y TECNOLOGIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ABRIL DE 2003.
 
-Ley publicada en la Gaceta Oficial del Distrito Federal el martes 28 de marzo de 2000.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
 (Al margen superior izquierdo un escudo que dice: Ciudad de México.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
@@ -88,11 +88,17 @@ XV.- Promover las publicaciones científicas, la difusión de las investigacione
 
 XVI.- Proporcionar asesoría en materia de intercambio académico, de investigadores, programas de becas, sistemas de información y documentación, y servicios de apoyo a la investigación;
 
-XVII.- Para cumplir con la función de fomento, deberá proponer el esquema de estímulos aplicables a quienes realicen actividades científicas y tecnológicas, de acuerdo a un régimen de prioridades que también deberá establecer, así como de la calificación de los solicitantes tomando en consideración los elementos de juicio previamente determinados;
+> <small>(ADICIONADA, G.O. 15 DE ABRIL DE 2003)</small>
 
-XVIII.- Proponer formas de reconocimiento para las personas e instituciones que se distingan en Ciencia y Tecnología;
+XVII.- Promover y fomentar la actividad científica de las personas físicas y morales, que presenten inventos notoriamente susceptibles de aplicación industrial, o de mejoras técnicas;
 
-XIX.- Las demás que le atribuyan los ordenamientos legales.
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2003)</small>
+
+XVIII.- Para cumplir la función de fomento, deberá proponer el esquema de estímulos aplicables a quienes realicen actividades científicas, tecnológicas, o de inventiva de acuerdo con un régimen de prioridades que también deberá establecer, así como de la calificación de los solicitantes, tomando en consideración los elementos de juicio previamente determinados;
+
+XIX.- Proponer formas de reconocimiento para las personas e instituciones que se distingan en Ciencia y Tecnología;
+
+XX.- Las demás que le atribuyan los ordenamientos legales.
 
 ### Capítulo II. De la Junta de Gobierno
 
@@ -239,3 +245,11 @@ TERCERO. Los convenios celebrados por las dependencias y entidades de la Adminis
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 30 de diciembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA.- DIP. RENE BALDOMERO RODRIGUEZ RUIZ, PRESIDENTE.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de mazo de dos mil. LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 15 DE ABRIL DE 2003.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
