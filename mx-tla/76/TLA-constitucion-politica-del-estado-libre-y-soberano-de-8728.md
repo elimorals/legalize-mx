@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1949-04-06"
+last_updated: "1951-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1951.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -847,9 +847,11 @@ Para la Recaudación, guarda y distribución de los caudales públicos habrá un
 
 El Tesorero General y los Recaudadores distribuirán los fondos públicos conforme al Presupuesto de Egresos, y serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho Presupuesto o autorizados por una Ley posterior.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1951)</small>
+
 ###### Art. 83.
 
-Para la glosa de las cuentas que deban llevarse en todas las oficinas en que se manejen fondos públicos, habrá una Contaduría General dependiente del Congreso y a cargo del Oficial Mayor.
+Para la glosa de las cuentas que deban llevarse en todas las Oficinas en que se manejen fondos públicos, habrá una Contaduría General dependiente del Congreso del Estado.
 
 ###### Art. 84.
 
@@ -1050,3 +1052,7 @@ El Congreso del Estado designará Magistrados en el año de 1949 para que funcio
 P.O. 6 DE ABRIL DE 1949.
 
 El presente Decreto surtirá sus efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 1951.
+
+El presente Decreto surtirá sus efectos al día siguiente al de su publicación en el Periódico Oficial del Estado.
