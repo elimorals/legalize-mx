@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "1993-12-03"
+last_updated: "1993-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -589,19 +589,15 @@ Por los servicios de supervisión de películas o de material videograbado en cu
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-A.- Supervisión de películas para su exhibición comercial en cinematógrafo o televisión a difundirse con fines comerciales, incluidas la venta o renta
+A.- Supervisión de películas para su exhibición comercial en cinematógrafo o televisión a difundirse con fines comerciales, incluidas la venta o renta:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+I.- De 35 milímetros o mas por rollo de 300 metros o fracción............ $ 2,000.00
 
-I.- De 35 milímetros o mas por rollo de 300 metros o fracción $ 2,000.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-II.- De 16 milímetros, 8 milímetros, Super 8 milímetros, por rollo de 100 metros o fracción $1,000.00
+II.- De 16 milímetros, 8 milímetros, Super 8 milímetros, por rollo de 100 metros o fracción........... 1,000.00
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-III.- Videograma o material grabado, por cada media hora o fracción $126,000.00
+III.- Videograma o material grabado, por cada media hora o fracción............... 126,000.00
 
 IV.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
@@ -611,25 +607,17 @@ B.- (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
 C.- Supervisión de comerciales para televisión en cualquiera de sus formas: filmado en 35 milímetros, 16 milímetros, videogramas, 8 milímetros y super 8 milímetros:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+I.- Hasta de 30 segundos............ $ 2,000.00
 
-I.- Hasta de 30 segundos $2,000.00
+II.- De más de 30 y hasta 60 segundos............. 2,000.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+III.- De más de 60 y hasta 180 segundos............. 6,000.00
 
-II.- De más de 30 y hasta 60 segundos $2,000.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-III.- De más de 60 y hasta 180 segundos $6,000.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-IV.- De más de 180 segundos $8,000.00
+IV.- De más de 180 segundos………... 8,000.00
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-D.- Supervisión del guión o libreto de televisión, para cada 30 minutos o fracción $26,500.00
+D.- Supervisión del guión o libreto de televisión, para cada 30 minutos o fracción....... $ 26,500.00
 
 ###### ARTICULO 19-D.
 
@@ -6443,11 +6431,11 @@ c) De tipo elemental............ 20.00
 
 Las escuelas de Instituciones de Asistencia Privada y las que impartan exclusivamente enseñanza especial a inválidos (minusválidos) no causarán el derecho a que se refiere esta fracción.
 
-> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XVI.- Permiso provisional de práctica de locución............ $ 230.00
 
-> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XVII.- Exámenes de aptitud de locutores:
 
@@ -6457,7 +6445,7 @@ b).- Examen General Extraordinario........... 250.00
 
 c).- Examen Oral Extraordinario por materia........... 75.00
 
-> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XVIII.- Exámenes de aptitud de cronistas o comentaristas:
 
@@ -6467,7 +6455,7 @@ b).- Examen General Extraordinario........... 500.00
 
 c).- Examen Oral Extraordinario por materia........... 150.00
 
-> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XIX.- Expedición de certificados de aptitud:
 
@@ -6479,7 +6467,7 @@ a).- De locutor.............. $ 4,300.00
 
 b).- De cronista o comentarista.............. 8,800.00
 
-> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XX.- Expedición de duplicado de certificados de aptitud:
 
@@ -6495,15 +6483,15 @@ b).- De cronista o comentarista............. 8,800.00
 
 XXI.- Consultas o constancias de archivo............... $ 12,000.00
 
-> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XXII.- Cambio de carrera......... $ 200.00
 
-> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XXIII.- Dictamen psicopedagógico para cambio de carrera.......... $ 300.00
 
-> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XXIV.- Inscripción:
 
@@ -6511,11 +6499,11 @@ a).- En curso de verano.......... $ 400.00
 
 b).- En curso de regularización………. 400.00
 
-> <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 c).- Cursos de capacitación para el trabajo industrial………… N$ 71.00
 
-> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
 XXV.- Materias libres para alumnos inscritos........... $ 100.00
 
@@ -7005,11 +6993,11 @@ Los derechos que se establecen en esta fracción, se pagarán por cada tipo de m
 
 Por la publicidad de bebidas alcohólicas, tabaco, substancias tóxicas, plaguicidas y de alimentos de bajo valor nutritivo se pagará el derecho a que se refiere este artículo conforme al doble de las cuotas señaladas en las fracciones I, II, III, IV, V y VI.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 195-G.
 
-Por la expedición de permisos sanitarios para la importación de alimentos, bebidas, medicamentos, productos de perfumería, belleza y aseo personal, así como tabacos, se pagará el derecho de permiso sanitario conforme a la cuota que resulte de aplicar la tasa del 1% sobre el valor de los bienes a importar.
+Por la expedición de permisos sanitarios para la importación de alimentos, bebidas, medicamentos, productos de perfumería, belleza y aseo personal, así como tabacos, se pagará el derecho de permiso sanitario conforme a la cuota de N$ 250.00.
 
 ###### ARTICULO 195-H.
 
@@ -10160,3 +10148,7 @@ XIII.- El pago del derecho de caza deportiva a que se refiere el artículo 238 d
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
+
+D.O.F. 29 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
