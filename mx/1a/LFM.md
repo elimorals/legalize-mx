@@ -4,7 +4,7 @@ identifier: "LFM"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-01-08"
-last_updated: "1986-01-08"
+last_updated: "1986-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=286&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,9 +24,9 @@ LEY FEDERAL DEL MAR
 
 TEXTO ORIGINAL.
 
-Ley publicada en el Diario Oficial de la Federación el miércoles 8 de enero de 1986. Republicada en el Diario Oficial de la Federación el miércoles 2 de abril de 1986.
+Ley publicada en el Diario Oficial de la Federación el miércoles 8 de enero de 1986. (REPUBLICADA, D.O.F. 2 DE ABRIL DE 1986).
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello en (sic) el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
 MIGUEL DE LA MADRID H., Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
@@ -146,7 +146,7 @@ La aplicación de la presente Ley se llevará a cabo en estricta observancia de 
 
 ###### ARTICULO 19.
 
-La exploración, explotación, beneficio, aprovechamiento, refinación, transportación, almacenamiento, distribución y venta de los hidrocarburos y minerales submarinos, en las zonas marinas mexicanas, se rige por las Leyes Reglamentarias del Artículo 27 Constitucional en el Ramo del Petróleo y en Materia Minera y sus respectivos Reglamentos, así como por las disposiciones aplicables de la presente Ley.
+La exploración, explotación, beneficio, aprovechamiento, refinación, transportación, almacenamiento, distribución y venta de los hidrocarburos y minerales submarinos en las zonas marinas mexicanas, se rige por las Leyes Reglamentarias del Artículo 27 Constitucional en el Ramo del Petróleo y en Materia Minera y sus respectivos Reglamentos, así como por las disposiciones aplicables de la presente Ley.
 
 ###### ARTICULO 20.
 
@@ -172,9 +172,19 @@ IV.- Se respetarán todas las leyes y reglamentos pertinentes a la protección y
 
 V.- No constituirán fundamento jurídico para ninguna reivindicación sobre parte alguna del medio marino o sus recursos.
 
+I.- Se realizarán exclusivamente con fines pacíficos, (sic)
+
+II.- Se realizarán con métodos y medios científicos adecuados, compatibles con la presente Ley y demás leyes aplicables y con el derecho internacional, (sic)
+
+III.- No interferirán injustificadamente con otros usos legítimos del mar compatibles con esta Ley y con el derecho internacional, (sic)
+
+IV.- Se respetarán todas las leyes y reglamentos pertinentes a la protección y preservación del medio marino, (sic)
+
+V.- No constituirán fundamento jurídico para ninguna reivindicación sobre parte alguna del medio marino o sus recursos, (sic)
+
 VI.- Cuando conforme a la presente Ley sean permitidos para su realización por extranjeros se asegurará el mayor grado posible de participación nacional, y
 
-VII.- En el caso de la fracción anterior, la nación se asegurará que se le proporcionen los resultados de la investigación y, si así lo solicita, la asistencia necesaria para su interpretación y evaluación.
+VII.- En el caso de la fracción anterior, la Nación se asegurará que se le proporcionen los resultados de la investigación y, si así lo solicita, la asistencia necesaria para su interpretación y evaluación.
 
 ## TITULO SEGUNDO. De las Zonas Marinas Mexicanas
 
@@ -248,7 +258,7 @@ III.- Las de los puertos;
 
 IV.- Las internas de los arrecifes; y
 
-V.- Las de las desembocaduras o deltas de los ríos, lagunas y estuarios comunicados permanente o intermitentemente con el mar.
+V.- Las de las desembocaduras o deltas de los ríos, lagunas y estuarios comunicados permanentes (sic) o intermitentemente con el mar.
 
 ###### ARTICULO 37.
 
@@ -260,7 +270,7 @@ Para los efectos del límite interior de las Aguas Marinas Interiores, la línea
 
 ###### ARTICULO 39.
 
-El límite exterior de las Aguas Marinas Interiores coincide idénticamente con las líneas de base a partir de las cuales se mide el mar Territorial, tal como aparezca en las cartas a gran escala reconocidas oficialmente por los Estados Unidos Mexicanos.
+El límite exterior de las Aguas Marinas Interiores coincide idénticamente con las líneas de base a partir de las cuales se mide el Mar Territorial, tal como aparezca en las cartas a gran escala reconocidas oficialmente por los Estados Unidos Mexicanos.
 
 ###### ARTICULO 40.
 
@@ -286,7 +296,7 @@ La Zona Contigua de México se extiende a 24 millas marinas (44,448 metros), con
 
 ###### ARTICULO 44.
 
-El límite inferior de la Zona Contigua coincide idénticamente con el límite exterior del Mar Territorial, determinado este último de conformidad con el Artículo 27 de la presente Ley y con las disposiciones pertinentes de su Reglamento y que aparezcan en las cartas reconocidas oficialmente por los Estados Unidos Mexicanos.
+El límite (sic) de la Zona Contigua coincide idénticamente con el límite exterior del Mar Territorial, determinado este último de conformidad con el Artículo 27 de la presente Ley y con las disposiciones pertinentes de su Reglamento y que aparezcan en las cartas reconocidas oficialmente por los Estados Unidos Mexicanos.
 
 ###### ARTICULO 45.
 
@@ -316,7 +326,7 @@ El Poder Ejecutivo Federal se asegurará de que, en el ejercicio de los derechos
 
 ###### ARTICULO 48.
 
-El Poder Ejecutivo Federal respetará el goce de los Estados extranjeros, en la Zona Económica Exclusiva, de las libertades de navegación, de sobrevuelo y de tender cables y tuberías submarinos, así como de los otros usos del mar internacionalmente legítimos relacionados con dichas libertades, tales como los vinculados a la operación de embarcaciones, aeronaves, y cables y tuberías submarinos, y que sean compatibles con el derecho internacional.
+El Poder Ejecutivo Federal respetará el goce de los Estados extranjeros, en la Zona Económica Exclusiva, de las libertades de navegación, de sobrevuelo y de tender cables y tuberías submarinos (sic), así como de los otros usos del mar internacionalmente legítimos relacionados con dichas libertades, tales como los vinculados a la operación de embarcaciones, aeronaves, y cables y tuberías submarinos (sic), y que sean compatibles con el derecho internacional.
 
 ###### ARTICULO 49.
 
@@ -332,7 +342,7 @@ Las islas gozan de zona económica exclusiva pero no así las rocas no aptas par
 
 ###### ARTICULO 52.
 
-El límite interior de la Zona Económica Exclusiva coincide idénticamente con el límite exterior del Mar Territorial, determinado de conformidad con el Artículo 26 de esta Ley, y con las disposiciones pertinentes de su Reglamento, y que aparezca en las cartas reconocidas oficialmente por los Estados Unidos Mexicanos.
+El límite interior de la Zona Económica Exclusiva coincide idénticamente con el límite exterior del Mar Terrritorial (sic), determinado de conformidad con el Artículo 26 de esta Ley, y con las disposiciones pertinentes de su Reglamento, y que aparezca en las cartas reconocidas oficialmente por los Estados Unidos Mexicanos.
 
 ###### ARTICULO 53.
 
@@ -388,7 +398,7 @@ El límite interior de la Plataforma Continental y de las Plataformas Insulares 
 
 ###### ARTICULO 65.
 
-En los lugares donde el borde exterior del margen continental de la Plataforma Continental y de las Plataformas Insulares no llegue a 200 millas marinas contadas desde las líneas de base a partir de las cuales se mide el Mar Territorial, el límite exterior de las citadas Plataformas coincidirá idénticamente con el límite exterior del suelo de la Zona Económica Exclusiva, determinado conforme a lo previsto en los Artículo 53 y 54 de esta Ley, y que aparezca en las cartas oficialmente reconocidas por los Estados Unidos Mexicanos.
+En los lugares donde el borde exterior del margen continental de la Plataforma Continental y de las Plataformas Insulares no llegue a 200 millas marinas contadas desde las líneas de base a partir de las cuales se mide el Mar Territorial, el límite exterior de las citadas Plataformas coincidirá idénticamente con el límite exterior del suelo de la Zona Económica Exclusiva, determinado conforme a lo previsto en los Artículos 53 y 54 de esta Ley, y que aparezca en las cartas oficialmente reconocidas por los Estados Unidos Mexicanos.
 
 ## TRANSITORIOS
 
@@ -408,7 +418,7 @@ La presente Ley deroga todas las disposiciones legales en vigor que se le oponga
 
 Las infracciones a lo dispuesto en la presente Ley serán sancionadas por las autoridades nacionales competentes de conformidad con los ordenamientos nacionales aplicables a sus distintas materias.
 
-México, D. F., a 18 de diciembre de 1985.- Sen. Socorro Díaz Palacios, Presidenta.- Dip. Fernando Ortiz Arana, Presidente.- Sen. Guillermo Mercado Romero, Secretario.- Dip. Reyes Rodolfo Flores Z., Secretario.- Rúbricas.
+México, D. F., a 18 de diciembre de 1985.- Sen. Socorro Díaz Palacios, Presidenta.- Dip. Fernando Ortiz Arana, Presidente.- Sen. Guillermo Mercado Romero, Secretario.- Dip. Reyes Rodolfo Flores Z., Secretario.- Rúbricas"
 
 > <small>(F. DE E. D.O.F. 2 DE ABRIL DE 1986)</small>
 
