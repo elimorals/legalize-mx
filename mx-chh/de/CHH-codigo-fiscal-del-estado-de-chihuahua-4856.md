@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1984-01-28"
+last_updated: "1986-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1986.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -2857,21 +2857,25 @@ XVII.- Publicaciones en el periódico Oficial del Estado;
 
 XVIII.- Expedición de permisos para traslado y exhumación de cadáveres;
 
-XIX.- Dotación de placas para vehículos;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1986)</small>
+
+XIX.- Por servicios de control vehicular;
 
 XX.- Expedición de licencias para guiar vehículos;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+XXI.- (DEROGADA, P.O. 29 DE ENERO DE 1986)(F. DE E., P.O. 19 DE MARZO DE 1986)
 
-XXI.- Por la expedición de resello para licencias de manejar;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1986)</small>
 
-XXII.- Examen médico que se practique a personas que soliciten licencia o resello para guiar vehículos;
+XXII.- Examen médico que se practique a personas que soliciten licencias para guiar vehículos;
 
 XXIII.- Examen médico que se practique por infracciones a la Ley de Tránsito;
 
 XXIV.- Expedición de certificados para suplir tarjetas de circulación de vehículos;
 
-XXV.- Revisión mecánica de vehículos y otros servicios prestados por la Dirección General de Tránsito y sus Dependencias;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1986)</small>
+
+XXV.- Revisión mecánica de vehículos de servicio público local y otros servicios prestados por la Dirección General de Tránsito y sus dependencias;
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
 
@@ -3655,7 +3659,7 @@ Cuando la autoridad ejecutora encuentre que los documentos presentados por el te
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y la supervenientes.
+I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
 
 II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Tesorería General del Estado, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, el del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectuó la notificación.
 
@@ -4316,3 +4320,7 @@ P.O. 28 DE ENERO DE 1984.
 PRIMERO.- La reforma al artículo 316 del Código Fiscal entrará en vigor en todo el Estado a partir del 1o. de febrero de 1984.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Estado para que, salvo lo dispuesto en el artículo que antecede, entre en vigor el presente Decreto al día siguiente de su publicación.
+
+P.O. 29 DE ENERO DE 1986.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
