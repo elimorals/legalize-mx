@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-19194"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2000-12-27"
+last_updated: "2002-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de diciembre de 2000.
 
@@ -391,9 +391,17 @@ Para efectos de esta Ley, los Cuerpos de Seguridad Pública son los siguientes:
 
 I.- Cuerpo de Seguridad Pública Estatal, cuyos miembros tendrán la denominación genérica de “Policía Estatal Preventiva” y asumirán la especialización de la rama a la que se encuentren asignados, pudiendo ser:
 
-a) Policía Estatal Preventiva; y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2002)</small>
 
-b) Policía de Seguridad Vial.
+a) Policía Estatal Preventiva;
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2002)</small>
+
+b) Policía de Seguridad Vial; y
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2002)</small>
+
+c) Policía Bombero.
 
 El ámbito de acción de ambas corporaciones será el correspondiente al territorio de la Entidad.
 
@@ -651,9 +659,15 @@ III.- La manera de confirmar y otorgar el visto bueno de mandos medios y superio
 
 ### CAPÍTULO ÚNICO. DE LAS CORRECCIONES DISCIPLINARIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 59.
 
-Las correcciones disciplinarias para los miembros del Cuerpo de Seguridad Pública a que se refiere esta Ley, solo podrán ser aplicadas por las autoridades estatales, previa determinación del Consejo de Honor y Justicia. Para el caso de los Policías Municipales, se sujetarán a lo previsto en el reglamento que para tal efecto se expida, debiéndose hacer la anotación correspondiente en sus expedientes. Las correcciones disciplinarias serán las siguientes:
+Las correcciones disciplinarias para los miembros del Cuerpo de Seguridad Pública a que se refiere esta Ley, solo podrán ser aplicadas por las autoridades estatales, previa determinación de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, cuando se trate de faltas relacionadas con su carácter de Servidores Públicos; y del Consejo de Honor y Justicia, cuando las infracciones se deriven de los aspectos técnicos y operativos en sus funciones como prestadores de los Servicios de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2002)</small>
+
+Para el caso de los Policías Municipales, se sujetarán a lo previsto en el Reglamento que para tal efecto se expida, debiéndose hacer la anotación correspondiente en sus expedientes. Las correcciones disciplinarias relacionadas con el ámbito técnico operativo serán las siguientes:
 
 I.- Amonestación;
 
@@ -819,9 +833,11 @@ Los responsables de cualquiera de los actos a que se refiere este artículo ser�
 
 El Consejo de Honor y Justicia es el órgano facultado para conocer del procedimiento para imponer sanciones u otorgar los estímulos y reconocimientos establecidos en esta Ley, que se otorguen desde el grado de policía hasta el de inspector.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 70.
 
-El Consejo de Honor y Justicia, estará integrado por un Presidente, que será el Director General de Seguridad Pública; por un Vicepresidente, que será el Director de la Policía Estatal Preventiva; por un Secretario, que será el Director de Seguridad Vial, y por cuatro Vocales, que serán el Director de la Academia Estatal de las Fuerzas de Seguridad Pública, el Director de Central de Mando y dos Delegados de Seguridad Vial que designe la correspondiente Dirección. Además, estará integrado por tres elementos que designe directamente el Subsecretario de Seguridad Pública y Protección Civil, pertenecientes a cualquiera de las direcciones o áreas del ramo, los cuales deberán contar con una jerarquía de nivel medio y gocen de reconocida probidad. Por cada uno de estos casos se designará un suplente.
+El Consejo de Honor y Justicia, estará integrado por un Presidente, que será el Director General de Seguridad Pública; por un Vicepresidente, que será el Director de la Policía Estatal Preventiva; por un Secretario, que será el Director de Seguridad Vial, y por cinco Vocales, que serán: el Director de la Academia Estatal de las Fuerzas de Seguridad Pública, el Director del Heroico Cuerpo de Bomberos, el Director de Central de Mando y dos Delegados de Seguridad Vial que designe la correspondiente Dirección. Además, estará integrado por tres elementos que designe directamente el Subsecretario de Seguridad Pública y Protección Civil, pertenecientes a cualquiera de las direcciones o áreas del ramo, los cuales deberán contar con una jerarquía de nivel medio y gocen de reconocida probidad. Por cada uno de estos casos se designará un suplente.
 
 ###### ARTÍCULO 71.
 
@@ -1166,3 +1182,15 @@ Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los siete días del mes de diciembre de dos mil.- Diputado Presidente.- RAYMUNDO HERRERA MENTADO.- Rúbrica.- Diputado Vicepresidente HUGO ÁLVAREZ VERA.- Rúbrica.- Diputada Secretaria.- TERESA ARRIAGA MORA.- Rúbrica.- Diputado Secretario.- GERARDO ARTURO RIVERA GARCÍA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los ocho días del mes de diciembre del año dos mil.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan la presente Decreto.
