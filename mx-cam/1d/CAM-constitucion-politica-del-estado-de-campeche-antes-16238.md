@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1999-09-28"
+last_updated: "2000-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE -ANTES CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2000 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -467,7 +469,7 @@ II.- Tener 21 años cumplidos, el día de la elección;
 
 III.- Además de los requisitos anteriores, según el caso se necesitarán los siguientes:
 
-a).- Ser originario del municipio en donde esté ubicado el distrito en que se haga la elección, con residencia en el propio municipio de seis meses inmediatamente anteriores a la fecha en que aquella se verifique;
+a).- Ser originario del municipio en donde esté ubicado el distrito en que se haga la elección, con residencia en el propio municipio de seis meses inmediatamente anteriores a la fecha en que aquélla se verifique;
 
 b).- Ser nativo del Estado, con residencia de un año en el municipio en donde esté ubicado el distrito respectivo, inmediatamente anterior a la fecha de la elección;
 
@@ -605,17 +607,17 @@ III.- A los Ayuntamientos en asuntos del Ramo Municipal;
 
 IV.- Al Tribunal Superior de Justicia, en materia de su competencia.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 47.
 
-Las iniciativas presentadas por el Gobernador del Estado, o firmadas por tres o más diputados, pasarán desde luego a la Comisión del Ramo. Las presentadas en cualquiera otra forma, se sujetarán a los trámites establecidos en la Ley Orgánica y el Reglamento Interior del Congreso.
+Todas las iniciativas o propuestas presentadas o sometidas a la consideración del Congreso del Estado se sujetarán a los trámites establecidos en la Ley Orgánica del Poder Legislativo y reglamentos que de ella emanen.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 48.
 
-Para que un proyecto o iniciativa tenga el carácter de Ley o Decreto, necesita la aprobación de la mayoría de los diputados presentes, en votación nominal, la sanción del Ejecutivo y la publicación.
+Para que un proyecto o iniciativa obtenga el carácter de ley, decreto o acuerdo, será necesario que satisfaga todos y cada uno de los requisitos y trámites previstos en esta Constitución y en la Ley Orgánica del Poder Legislativo del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -695,17 +697,17 @@ V.- Acordar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos 
 
 VI.- Crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuír sus emolumentos;
 
-> <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
-VII.- Nombrar, remover, conceder licencia y aceptar la renuncia de los integrantes del personal al servicio del Poder Legislativo del Estado. Esta facultad la ejercerá en los casos que estime conveniente a través de la Gran Comisión, salvo cuando se trate del Oficial Mayor y del Contador Mayor de Hacienda, cuyos nombramientos, remoción, licencia o aceptación de renuncia serán resueltos por el Congreso directamente;
+VII.- Nombrar, remover, conceder licencia y aceptar la renuncia de los integrantes del personal al servicio del Poder Legislativo del Estado, en los términos previstos en su Ley Orgánica y en los reglamentos que de la misma emanen;
 
 > <small>(REFORMADA, P.O., 5 DE ENERO DE 1974)</small>
 
 VIII.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales del Estado;
 
-> <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
-IX.- Expedir la Ley Orgánica y el Reglamento Interior que regulen su estructura y funcionamiento internos, los que no podrán ser vetados ni necesitarán promulgación del Ejecutivo del Estado para tener vigencia.
+IX.- Expedir su Ley Orgánica y los reglamentos que sean necesarios para regular su estructura y funcionamiento, incluyendo a la entidad de fiscalización superior del Estado, la cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la propia ley. La Ley Orgánica del Poder Legislativo y reglamentos que de ella emanen no podrán ser vetados ni necesitarán promulgación del Ejecutivo del Estado para tener vigencia.
 
 X.- Recibir la protesta del Gobernador, Magistrados y Diputados;
 
@@ -733,17 +735,19 @@ XVII.- Expedir el Bando Solemne para dar a conocer en toda la Entidad la declara
 
 XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustituír al Gobernador del Estado con el carácter de substituto o de interino, de acuerdo con los Artículos 64, 65 y 67 de esta Constitución;
 
-XIX.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 1996)
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2000)</small>
+
+XIX.- Expedir la ley que regule la estructura y funcionamiento del organismo estatal de protección de los derechos humanos, el cual tendrá autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios;
 
 XX.- Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1997)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
-XXI.- Aprobar las cuentas de recaudación e inversión de las rentas públicas del Estado que, cuando máximo anualmente y en la forma que prevenga la correspondiente ley secundaria, le sean remitidas por conducto del Ejecutivo del Estado, ya glosadas;
+XXI.- Revisar y aprobar, en su caso, la Cuenta Pública del Estado que, anualmente y en la forma que prevenga la correspondiente ley secundaria, le sea remitida, por conducto del Ejecutivo del Estado, ya consolidada;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
-XXII.- Revisar y aprobar las cuentas de los ingresos y egresos de cada Municipio, que anualmente le serán remitidas por conducto del Ejecutivo del Estado, ya glosadas;
+XXII.- Revisar y aprobar, en su caso, la Cuenta Pública de cada uno de los Municipios del Estado, que anualmente y en la forma que prevenga la correspondiente ley secundaria, le sean remitidas por sus Ayuntamientos;
 
 > <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -757,9 +761,11 @@ XXVI.- Comunicarse con el Ejecutivo del Estado por medio de comisiones de su sen
 
 XXVII.- Expedir la convocatoria para elecciones extraordinarias, con el objeto de cubrir las vacantes de sus respectivos miembros;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2000 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-XXVIII.- Autorizar al Ejecutivo para enajenar o gravar los bienes del Estado, o para que celebre contratos o convenios con los demás Estados o con la Federación sobre asuntos relacionados con la Administración Pública del Estado, y aprobar en su caso tales contratos o convenios;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
+
+XXVIII.- Autorizar al Gobernador para enajenar o gravar los bienes del Estado o para que celebre contratos o convenios con los demás Estados o con la Federación sobre asuntos relacionados con la Administración Pública del Estado, siempre y cuando en tales contratos o convenios no se comprometa la soberanía del Estado;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -777,9 +783,9 @@ XXXI.- Expedir la Ley Orgánica Municipal y las bases de policía y buen gobiern
 
 XXXII.- Autorizar la enajenación o gravamen de los bienes de los Municipios;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
-XXXIII.- Nombrar, a propuesta del Gobernador, una Junta Municipal compuesta de tres personas, cuando debiendo renovarse un Ayuntamiento no se hubiese celebrado su elección en la fecha correspondiente, o habiendo sido elegido no se presentare oportunamente al ejercicio de sus funciones. Dicha Junta se encargará provisionalmente de las funciones del Ayuntamiento hasta en tanto se celebren elecciones extraordinarias que deberán efectuarse en un plazo no mayor de sesenta días. Las mismas facultades se entenderán conferidas al Congreso cuando las elecciones Municipales se declaren nulas o por cualquier causa desaparecieren los Poderes del Ayuntamiento, siempre que tales situaciones se presentaren dentro del primer año de su correspondiente ejercicio, pues de suceder durante los dos últimos años del período de Gobierno Municipal, el Congreso siempre a propuesta del Gobernador, nombrará un Comité Municipal, integrado por tres personas el que asumirá la administración municipal hasta la conclusión del período de Gobierno respectivo. Por cada integrante del Comité habrá un suplente;
+XXXIII.- Nombrar un Concejo Municipal cuando debiendo renovarse un Ayuntamiento o Junta Municipal no se hubiese celebrado la elección respectiva en la fecha correspondiente o, habiéndose celebrado, los electos, propietarios y suplentes, no se presentaren oportunamente al ejercicio de sus funciones, o cuando la elección se declare nula o por cualquiera causa se declare la desaparición del Ayuntamiento o Junta Municipal. Dicho Concejo se integrará en la forma que prevenga la respectiva ley orgánica y se encargará provisionalmente del gobierno del Municipio o Sección Municipal hasta en tanto se celebren las elecciones extraordinarias, mismas que deberán efectuarse en un plazo no mayor de sesenta días. En el caso de que la desaparición del Ayuntamiento o Junta Municipal ocurriese después de transcurrido el primer año del período para el cual se le eligió, el Concejo Municipal asumirá el gobierno hasta la conclusión de dicho período;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -793,11 +799,11 @@ XXXV.- Las demás que le asignen esta Constitución y la General de la Repúblic
 
 ### CAPITULO XIV. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 55.
 
-Durante los períodos de receso del Congreso, su Gran Comisión funcionará como Diputación Permanente.
+Durante los períodos de receso del Congreso, su Gran Comisión o Comisión de Gobierno y Administración fungirá como Diputación Permanente.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 1994)</small>
 
@@ -805,13 +811,13 @@ Durante los períodos de receso del Congreso, su Gran Comisión funcionará como
 
 Diez días antes de concluir el segundo período de receso, de cada uno de los años de ejercicio de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, al Gobernador del Estado y a los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas, en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el tercer párrafo del artículo 38 de esta Constitución.
 
-Cuando la celebración de la sesión prevista en el párrafo anterior coincida en fecha con la sesión previa que establece la Ley Orgánica del Congreso, esta última antecederá a la primera.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 22 DE JUNIO DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 57.
 
-Serán suplentes a la Diputación Permanente los demás diputados, y podrán ser llamados, si es necesario, de acuerdo con lo que al respecto disponga el Reglamento Interior del Congreso.
+Los miembros de la Diputación Permanente serán suplidos en la forma que determine la Ley Orgánica del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1119,7 +1125,7 @@ La función de consejero jurídico del Gobernador estará a cargo de la dependen
 
 ### CAPITULO XVII. De las Responsabilidades de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
 
 ### CAPITULO XVIII. De los Municipios del Estado
 
@@ -1265,15 +1271,15 @@ Las personas que hayan ocupado el cargo de magistrado del Tribunal Superior de J
 
 Los Jueces de Primera Instancia, deberán cubrir los siguientes requisitos:
 
-REFORMADA, P.O. 29 DE MAYO DE 1965)
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-REFORMADA, P.O. 29 DE MAYO DE 1965)
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 II.- Poseer título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello, y
 
-REFORMADA, P.O. 29 DE MAYO DE 1965)
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 III.- Gozar de buena reputación.
 
@@ -1353,7 +1359,7 @@ X.- Crear nuevas salas, y ampliar o suprimir las ya existentes, en términos de 
 
 ###### ARTICULO 89.
 
-Para los efectos de las responsabilidades a que alude este capítulo, se reputa como servidores públicos a los miembros de los Poderes Legislativo y Judicial del Estado, a los miembros de las dependencias y entidades de la Administración Pública del Estado, a los integrantes de los Ayuntamientos y Juntas Municipales, a los Comisarios Municipales, a los miembros del Instituto Electoral del Estado, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquiera naturaleza, bien sea de elección o de nombramiento, en los gobiernos estatal y municipales, o en entidades paraestatales o paramunicipales. Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este capítulo, se reputa como servidores públicos a los miembros de los Poderes Legislativo y Judicial del Estado, a los miembros de las dependencias y entidades de la Administración Pública del Estado, a los integrantes de los Ayuntamientos y Juntas Municipales, a los Comisarios Municipales, a los miembros del Instituto Electoral del Estado, a los miembros de la Comisión de Derechos Humanos del Estado y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquiera naturaleza, bien sea de elección o de nombramiento, en los gobiernos estatal y municipales, o en entidades paraestatales o paramunicipales. Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1361,11 +1367,11 @@ Para los efectos de las responsabilidades a que alude este capítulo, se reputa 
 
 El Gobernador del Estado durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la patria, violaciones a la Constitución Federal y del Estado y a las leyes que de ambas emanen, ataque a la libertad electoral, delitos graves del orden común, y manejo indebido de fondos y recursos federales, o estatales.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 91.
 
-Para proceder penalmente contra los Diputados, los Magistrados del Tribunal Superior, Jueces de Primera Instancia, Electorales y Menores, Secretarios de las Dependencias de la Administración Pública del Estado, Procurador General de Justicia, Consejero Presidente y Consejeros Electorales del Consejo General del Instituto Electoral del Estado, Presidentes, Regidores y Síndicos de Ayuntamientos y Juntas Municipales, y Comisarios Municipales, por la comisión de delitos durante el tiempo de su encargo, se requerirá que el Congreso del Estado, por mayoría absoluta de sus miembros presentes en sesión, declare si ha o no lugar a proceder contra el inculpado. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio. En caso afirmativo quedará el inculpado separado de su cargo y sujeto a la acción de los tribunales comunes.
+Para proceder penalmente contra los Diputados, los Magistrados del Tribunal Superior, Jueces de Primera Instancia, Electorales y Menores, Secretarios de las Dependencias de la Administración Pública del Estado, Procurador General de Justicia, Auditor Superior del Estado, Consejero Presidente y Consejeros Electorales del Consejo General del Instituto Electoral del Estado, Presidente de la Comisión de Derechos Humanos del Estado, Presidentes, Regidores y Síndicos de Ayuntamientos y Juntas Municipales, y Comisarios Municipales, por la comisión de delitos durante el tiempo de su encargo, se requerirá que el Congreso del Estado, por mayoría absoluta de sus miembros presentes en sesión, declare si ha o no lugar a proceder contra el inculpado. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio. En caso afirmativo quedará el inculpado separado de su cargo y sujeto a la acción de los tribunales comunes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
@@ -1537,11 +1543,11 @@ II.- Gravar directa o indirectamente la entrada o salida de los mismos o el paso
 
 III.- Imponer contribuciones que no estén especificadas en las leyes fiscales del Municipio.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 106.
 
-Los Municipios no podrán comprar; vender, hipotecar o gravar de cualquier manera los bienes que les pertenezcan, ni contratar empréstitos, sin la autorización expresa del Congreso del Estado.
+Los Municipios no podrán enajenar o gravar de cualquier manera los bienes que les pertenezcan , ni contratar empréstitos, sin la autorización expresa del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -2100,3 +2106,9 @@ Primero.- El presente decreto entrará en vigor el día de su publicación en el
 Segundo.- El nombramiento del magistrado suplente de la Sala Administrativa del Poder Judicial del Estado se hará conforme a las reglas y procedimientos establecidos en el artículo 215 del Código Electoral del Estado, para que, una vez nombrado, se integre a dicho órgano judicial y entre en ejercicio de sus funciones ante la ausencia de uno de los magistrados de la citada Sala, erigida ésta en Sala Electoral.
 
 Tercero.- Se derogan todas las disposiciones legales, reglamentarias o administrativas en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE JUNIO DE 2000
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Entretanto la Entidad de Fiscalización Superior del Estado, a que se contrae la fracción IX del artículo 54 de la Constitución Local, no se encuentre debidamente integrada e instalada en sus funciones, la Contaduría Mayor de Hacienda continuará operando conforme a las disposiciones de la Ley Orgánica del Congreso del Estado y del Reglamento para el Gobierno Interior del propio Congreso.
