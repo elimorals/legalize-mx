@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2002-08-23"
+last_updated: "2002-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -731,9 +731,13 @@ XIX.- El abigeato previsto en la fracción III del artículo 189 Del Código Pen
 
 XX.- La evasión de personas aseguradas, en los supuestos de las fracciones III, V y VI del artículo 293 del Código Penal para el Estado de Querétaro.
 
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2002)</small>
+
+XXI.- Corrupción y explotación de menores o incapaces previsto en el artículo 236 segundo párrafo y pornografía de menores o incapaces previsto en el artículo 239 Bis;
+
 > <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2002)</small>
 
-XXII.-(sic) Delitos contra la seguridad y el orden en el desarrollo urbano, en los casos previstos por el artículo 246-F y párrafo primero del artículo 246-G
+XXII.- Delitos contra la seguridad y el orden en el desarrollo urbano, en los casos pervistos (sic) por el artículo 246-F y párrafo primero del artículo 246-G;
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1999)</small>
 
@@ -1687,7 +1691,7 @@ ARTICULO 300 I.-(Información para la vigilancia del beneficiado).- Una vez decr
 
 ARTICULO 300 J.- (Sobre la caución).- En los casos de suspensión del procedimiento penal a prueba, es aplicable en lo conducente lo establecido en el capítulo relativo a la libertad provisional bajo caución, respecto al otorgamiento de ésta, obligaciones de quien otorga la garantía, y casos en que se hará efectiva.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO CUARTO. SUSPENSION Y EXTINCION DEL PROCEDIMIENTO
 
@@ -1781,7 +1785,7 @@ Al notificar al imputado la sentencia de primera instancia, se le hará saber el
 
 La omisión de este requisito surte el efecto de duplicar el plazo legal para interponer el recurso, y al secretario o actuario que haya incurrido en ello, se le aplicará una corrección disciplinaria, por parte del Magistrado Ponente que conozca de la apelación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 20 DE MARZO DE 1997)</small>
 
 ### CAPITULO IV. DENEGADA APELACION
 
@@ -2119,7 +2123,7 @@ ARTICULO 380 (Causas).- Habrá lugar a la nulidad y en su caso, la reposición d
 
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
 
-I.- Por no haberse hecho saber al procesado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento, y el nombre de las personas que le imputen la comisión del delito:
+I.- Por no haberse hecho saber al procesado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento, y el nombre de las personas que le imputen la comisión del delito;
 
 II.- Por no habérsele permitido nombrar defensor o no nombrársele el de oficio, en los términos que señala la ley; por no habérsele facilitado la manera de hacer saber al defensor su nombramiento, y por habérsele impedido comunicarse con él, o que dicho defensor lo asistiere en alguna de las diligencias del proceso;
 
@@ -2271,7 +2275,7 @@ La presente Ley iniciará su vigencia al día siguiente de su publicación en el
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
 
-P.O. 23 DE AGOSTO DE 2002.
+P.O. 23 DE AGOSTO DE 2002
 
 LEY QUE ADICIONA LA FRACCION XXII AL ARTICULO 121 DEL CODIGO
 
@@ -2282,3 +2286,13 @@ La presente Ley iniciará su vigencia al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
+
+P.O. 25 DE OCTUBRE DE 2002
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente ley.
