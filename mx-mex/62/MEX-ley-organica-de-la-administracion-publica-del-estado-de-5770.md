@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2002-08-02"
+last_updated: "2002-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2002.
 
-Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
+Ley Publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
 El Ciudadano LICENCIADO ALFREDO DEL MAZO GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
@@ -37,7 +37,9 @@ LA H. XLVIII LEGISLATURA DEL ESTADO DE MEXICO,
 
 DECRETA:
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
+LEY ORGANICA DE LA ADMINISTRACION
+
+PUBLICA DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. De la Administración Pública
 
@@ -151,7 +153,7 @@ II. Secretaría de Finanzas y Planeación;
 
 III. Secretaría de Salud;
 
-(REFORMADA, P.O. 2 DE AGOSTO DE 2002) (F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2002)</small>
 
 IV. Secretaría del Trabajo y de la Previsión Social;
 
@@ -163,47 +165,51 @@ V. Secretaría de Educación, Cultura y Bienestar Social;
 
 VI. Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-VII. Secretaría de Desarrollo Urbano y Obras Públicas;
+VII.- Secretaría de Desarrollo Urbano y Vivienda;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)(F. DE E., P.O. 31 DE ENERO DE 2003)
 
-VIII. Secretaría de Desarrollo Agropecuario;
+VIII.- Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-IX. Secretaría de Desarrollo Económico;
+IX.- Secretaría de Desarrollo Agropecuario;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-X. Secretaría de Desarrollo Metropolitano;
+X.- Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-XI. Secretaría de Administración;
+XI.- Secretaría de Desarrollo Metropolitano;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-XII. Secretaría de la Contraloría;
+XII.- Secretaría de Administración;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-XIII. Secretaría de Comunicaciones.
+XIII.- Secretaría de la Contraloría;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-XIV. Secretaría de Transporte
+XIV.- Secretaría de Comunicaciones;
 
-> <small>(ADICIONADA P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-XV. Secretaría de Ecología
+XV.- Secretaría de Transporte;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XVI.- Secretaría de Ecología.
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-Las Secretarías a que se refieren las fracciones II a XV de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+Las secretarías a que se refieren las fracciones II a XVI de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -609,63 +615,67 @@ XXIII. Coordinar, organizar y fomentar la enseñanza y la práctica de los depor
 
 XXIV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 31.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas, es el Organo encargado del ordenamiento de los asentamientos humanos y de la regulación del desarrollo urbano y de la vivienda y de ejecutar las obras públicas a su cargo.
+La Secretaría de Desarrollo Urbano y Vivienda es la dependencia encargada del ordenamiento territorial de los asentamientos humanos y de regular el desarrollo urbano de los centros de población y la vivienda.
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
-I. Formular y conducir las Políticas Estatales de Asentamientos Humanos, Urbanismo y Vivienda.
+I.- Formular y conducir las políticas estatales de asentamientos humanos, urbanismo y vivienda.
 
-II. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de Desarrollo Urbano y Vivienda.
+II.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de ordenamiento territorial de los asentamientos humanos, del desarrollo urbano y vivienda;
 
-III. Formular, revisar y ejecutar el Plan Estatal de Desarrollo Urbano, los planes especiales y de los Centros de Población Estratégicos y proponer su modificación, así como promover la implantación de los Planes Municipales de Desarrollo Urbano y de Centros de Población Municipales.
+III.- Formular, ejecutar y evaluar el Plan Estatal de Desarrollo Urbano, los planes regionales de desarrollo urbano y los planes parciales que de ellos se deriven;
 
-IV. Promover y vigilar el Desarrollo Urbano de las diversas Comunidades y Centros de Población del Estado.
+IV.- Promover la implantación de planes municipales de desarrollo urbano;
 
-V. Promover, apoyar y ejecutar los Programas de Regularización de la Tenencia de la Tierra.
+V.- Vigilar que los planes municipales de desarrollo urbano, los planes de centros de población y sus planes parciales sean congruentes con el plan Estatal de Desarrollo Urbano y con los planes regionales;
 
-VI. Establecer y vigilar el cumplimiento de los Programas de Adquisición de Reservas Territoriales del Estado, con la participación que corresponda a otras Autoridades.
+VI.- Promover y vigilar el desarrollo urbano de las comunidades y de los centros de población del Estado;
 
-VII. Formular, en términos de Ley, los proyectos de declaratorias sobre provisiones, reservas, destinos y usos del suelo.
+VII.- Vigilar el cumplimiento de las normas técnicas en materia de desarrollo urbano, vivienda y construcciones;
 
-VIII. Dictar y vigilar el cumplimiento de las normas técnicas sobre usos y destinos del suelo para obras públicas.
+VIII.- Proponer al Ejecutivo del Estado la celebración de convenios en materia de desarrollo urbano y vivienda y participar en su ejecución;
 
-IX. Proponer al Ejecutivo del Estado y participar en la celebración de Convenios con el Gobierno Federal, con los Municipios de la Entidad y con los particulares, en materia de obras públicas, acciones e inversiones sobre Desarrollo Urbano y Vivienda.
+IX.- Promover la construcción de obras de urbanización, infraestructura y equipamiento urbano;
 
-X. Participar en la promoción y realización de los Programas de Vivienda y coordinar su gestión y ejecución.
+X.- Participar en la promoción y realización de programas de suelo y vivienda preferentemente para la población de menores recursos económicos y coordinar su gestión y ejecución;
 
-> <small>(REFORMADA P.O. 27 DE DICIEMBRE DE 1994)</small>
+XI.- Establecer los lineamientos para la regulación de la tenencia de la tierra en el Estado;
 
-XI. Coordinar, formular u operar programas estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado y de las demás relacionadas con el desarrollo y equipamiento urbanos, que no estén asignadas a otra dependencia; así como fijar, revisar o autorizar en su caso, los precios públicos por los servicios correspondientes que prevengan las leyes, escuchando a la Secretaría de Finanzas y Planeación.
+XII.- Promover, apoyar y ejecutar programas de regularización de la tenencia de la tierra, con la participación que corresponda a los municipios;
 
-XII. Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo.
+XIII.- Otorgar autorizaciones para subdivisiones, fusiones y relotificaciones de predios y conjuntos urbanos, en los términos previstos por la legislación aplicable y su reglamentación;
 
-XIII. Apoyar la creación y consolidación de los Organismos Municipales de agua potable y alcantarillado.
+XIV.- Establecer y vigilar el cumplimiento de los programas de adquisición de reservas territoriales del Estado, con la participación que corresponda a otras autoridades;
 
-XIV. Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición que le sean asignadas de inmuebles que sea propiedad del Gobierno del Estado.
+XV.- Formular, en términos de ley, los proyectos de declaratorias sobre provisiones, reservas, destinos y usos del suelo;
 
-XV. Construir, mantener y operar, en su caso, directamente o por adjudicación a particulares, las obras públicas que correspondan al desarrollo y equipamiento urbanos y que no sean competencia de otra Secretaría.
+XVI.- Promover estudios para el mejoramiento del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano, y la vivienda en la Entidad e impulsar proyectos para su financiamiento;
 
-XVI. Expedir en coordinación con las Dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre.
+XVII.- Determinar la apertura o modificación de vías públicas;
 
-XVII. Impulsar y promover los trabajos de introducción de energía eléctrica en áreas urbanas y rurales.
+XVIII- Participar en las comisiones de carácter regional y metropolitano en la que se traten asuntos sobre asentamientos humanos, desarrollo urbano y vivienda.
 
-XVIII. Las demás que le señalen las leyes y reglamentos vigentes.
+XIX.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 32.
 
-La Secretaría de Comunicaciones es la dependencia encargada del desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local.
+La Secretaría de Comunicaciones es la dependencia encargada del desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y ejecutar los programas de infraestructura vial primaria;
 
-II. Formular y ejecutar los planes y programas de comunicaciones de jurisdicción local;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+II.- Formular y ejecutar los planes y programas de comunicaciones de jurisdicción local, en los que se incluyen los relativos a sistemas de transporte masivo o de alta capacidad;
 
 III. Emitir el dictamen de incorporación e impacto vial tratándose de las autorizaciones de impacto regional;
 
@@ -673,7 +683,9 @@ IV. Expedir normas técnicas a que debe sujetarse el establecimiento y operació
 
 V. Vigilar el cumplimiento de las disposiciones legales en materia de infraestructura vial primaria y de comunicaciones de jurisdicción local, con la intervención que corresponda a otras autoridades;
 
-VI. Operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial primaria de su competencia directamente o a través de particulares mediante el otorgamiento de concesiones y contratos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+VI.- Operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial primaria y a las comunicaciones de jurisdicción local de su competencia, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos;
 
 VII. Ejecutar acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras a que se refiere la fracción anterior, sin perjuicio de la intervención que en tales materias corresponda a otras dependencias;
 
@@ -681,7 +693,9 @@ VIII. Otorgar, modificar, revocar o dar por terminadas las concesiones, permisos
 
 IX. Administrar las vías de cuota a cargo del Estado de México;
 
-X. Establecer disposiciones de carácter general para el uso de la infraestructura vial primaria;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+X.- Establecer disposiciones de carácter general para el uso de la infraestructura vial primaria y de las comunicaciones de jurisdicción local;
 
 XI. Realizar por sí o a través de particulares la construcción, ampliación, mantenimiento, administración y operación de paradores para facilitar el uso de la infraestructura vial primaria por los servicios de carga;
 
@@ -693,17 +707,33 @@ XIII. Realizar las tareas relativas a la ingeniería vial y señalamiento de la 
 
 XIV. Planear, supervisar, controlar y evaluar las funciones de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México;
 
-XV. Expedir las bases a que deben sujetarse los concursos públicos para el otorgamiento de concesiones en materia de infraestructura vial primaria, adjudicarlas, vigilar su ejecución y cumplimiento;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XV.- Expedir las bases a que deben sujetarse los concursos públicos para el otorgamiento de concesiones en materia de infraestructura vial primaria y de comunicaciones de jurisdicción local, adjudicarlas, vigilar su ejecución y cumplimiento;
 
 > <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
 
 XVI. Participar con el gobierno federal en la construcción, conservación y administración de aeródromos civiles en territorio estatal;
 
-XVII. Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de telecomunicaciones;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-XVIII. Inscribir y anotar la información en materia de infraestructura vial en el Registro Público Estatal de Transporte e Infraestructura Vial;
+XVII.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de infraestructura vial y de comunicaciones de jurisdicción local;
 
-XIX. Las demás que señalen otras leyes y reglamentos.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XVIII.- Normar, organizar, integrar, operar y actualizar el Registro Estatal de Comunicaciones,
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XIX.- Participar con los gobiernos federal y de otras entidades federativas, en su caso en la construcción, operación, explotación y mantenimiento de los sistemas de transporte masivo o de alta capacidad, así como gestionar las concesiones, autorizaciones o permisos que sean necesarios para la utilización de los derechos de vía federales, conforme a la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XX.- Elaborar estudios, diseñar, proyectar, construir, operar, administrar, explotar, conservar, rehabilitar y dar mantenimiento a estaciones de transferencia modal para los sistemas de transporte masivo o de alta capacidad, directamente o a través de particulares, mediante el otorgamiento de concesiones o contratos;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XXI.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
 > <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
 
@@ -765,7 +795,9 @@ A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y ejecutar programas y acciones para el desarrollo del transporte y sus servicios conexos;
 
-II. Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, de alta capacidad o masivo, individual y mixto y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento. El proceso de otorgamiento será inscrito en el Registro Público Estatal de Transporte e Infraestructura Vial y publicado en la Gaceta del Gobierno, mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+II.- Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual y mixto y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el periódico oficial "Gaceta del Gobierno" mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
 
 III. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros especializado y el de carga; de servicios auxiliares de arrastre, de arrastre y salvamento, y depósito de vehículos; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
 
@@ -791,7 +823,9 @@ X. Autorizar las bases, paraderos y terminales del servicio público de transpor
 
 XI. Realizar las tareas relativas a ingeniería del transporte, coordinándose con otras autoridades cuando así fuere procedente;
 
-XII. Inscribir y anotar en el Registro Público Estatal de Transporte e Infraestructura Vial, los actos relativos al transporte público;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XII.- Normar, organizar, integrar, operar y actualizar el Registro Estatal de Transporte;
 
 XIII. Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte;
 
@@ -799,7 +833,17 @@ XIV. Emitir las disposiciones administrativas necesarias para la desconcentraci�
 
 XV. Aplicar las medidas de seguridad en términos de la legislación vigente;
 
-XVI. Las demás que señalen otras leyes y reglamentos.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XVI.- Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte de pasajeros, de carga y mixto, así como al de uso particular y uso comercial, que no sean competencia de otras autoridades;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XVII.- Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XVIII.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
@@ -851,47 +895,85 @@ XVIII. Coordinar las actividades operativas de las Coordinaciones Regionales de 
 
 XIX. Las demás que señalen las leyes, reglamentos y disposiciones relativas en el Estado.
 
+(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)(F. DE E., P.O. 31 DE ENERO DE 2003)
+
 ###### Artículo 35.
 
-La Secretaría de Desarrollo Económico es el órgano facultado de regular, promover y fomentar el desarrollo industrial y comercial del Estado.
+La Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo es la dependencia encargada de ejecutar las obras públicas a su cargo y de promover el desarrollo de la infraestructura hidráulica y eléctrica en la Entidad.
+
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+I.- Formular y conducir la política estatal en materia de obras públicas e infraestructura para el desarrollo;
+
+II.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública;
+
+III.- Integrar el Programa General de Obras Públicas del Gobierno del Estado, con la Participación de las dependencias y organismos del Poder Ejecutivo, en congruencia con el Plan Estatal de Desarrollo y la políticas, objetivos y prioridades que establezca el Gobernador del Estado, y vigilar su ejecución;
+
+IV.- Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición de inmuebles propiedad del Gobierno del Estado que le sean asignadas;
+
+V.- Construir, mantener o modificar, en su caso, la obra pública que corresponda al desarrollo y equipamiento urbano y que no competa a otras autoridades;
+
+VI.- Expedir en coordinación con las dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre;
+
+VII.- Establecer lineamientos para la realización de estudios y proyectos de construcción de obras públicas;
+
+VIII.- Vigilar que la ejecución de la obra pública adjudicada y los servicios relacionados con ésta, se sujeten a las condiciones contratadas;
+
+IX.- Proponer al Ejecutivo del Estado la celebración de convenios en materia de obra pública e infraestructura para el desarrollo y participar en su ejecución;
+
+X.- Apoyar la creación y consolidación de los organismos descentralizados municipales encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje y tratamiento de aguas residuales;
+
+XI.- Impulsar y promover trabajos de introducción de energía eléctrica en áreas urbanas y rurales;
+
+XII.- Promover el financiamiento y la construcción, instalación, conservación, mantenimiento o mejoramiento de la infraestructura hidráulica estatal;
+
+XIII.- Coordinar, formular u operar programas estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado y de las demás relacionadas con el desarrollo y equipamiento urbano, que no estén asignadas a otras autoridades;
+
+XIV.- Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo;
+
+XV.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 36.
 
-A la Secretaría de Desarrollo Económico corresponde el despacho de los siguientes asuntos:
+La Secretaría de Desarrollo Económico es la dependencia encargada de regular, promover y fomentar el desarrollo industrial y comercial del Estado.
 
-I. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades industriales, mineras, artesanales, turísticas y comerciales.
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
-II. Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción económica para el desarrollo de la Entidad.
+I.- Proponer al Gobernador las políticas y programas relativos al fomento de las actividades industriales, mineras, artesanales, turísticas y comerciales;
 
-III. Fomentar la creación de fuentes de empleo impulsando el establecimiento de mediana y pequeña industria en el Estado, así como la creación de parques industriales y centros comerciales.
+II.- Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción económica para el desarrollo de la Entidad;
 
-IV. Organizar, promover y coordinar las actividades necesarias para lograr un mejor aprovechamiento de los recursos turísticos del Estado.
+III.- Fomentar la creación de fuentes de empleo impulsando el establecimiento de mediana y pequeña industria en el Estado, así como la creación de parques industriales y centros comerciales;
 
-V. Explotar directamente, otorgar y revocar concesiones para la explotación de los recursos turísticos del Estado, así como, para la creación de centros, establecimientos y la prestación de servicios turísticos en el Estado.
+IV.- Organizar, promover y coordinar las actividades necesarias para lograr un mejor aprovechamiento de los recursos turísticos del Estado;
 
-VI. Controlar y supervisar, de acuerdo a las leyes y reglamentos de la materia, la prestación a los servicios turísticos que se realicen en el Estado.
+V.- Explotar directamente, otorgar y revocar concesiones para la explotación de los recursos turísticos del Estado, así como, para la creación de centros, establecimientos y la prestación de servicios turísticos en el Estado;
 
-VII. Participar en la planeación y programación de las obras e inversiones tendientes a promover la racional explotación de los recursos minerales del Estado.
+VI.- Controlar y supervisar, de acuerdo a las leyes y reglamentos de la materia, la prestación de los servicios turísticos que se realicen en el Estado;
 
-VIII. Servir de órgano de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo.
+VII.- Participar en la planeación y programación de las obras e inversiones tendientes a promover la racional explotación de los recursos minerales del Estado;
 
-IX. Asesorar técnicamente a los Ayuntamientos, a los sectores sociales y privado que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos.
+VIII.- Servir de órganos de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
 
-X. Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industria rural.
+IX.- Asesorar técnicamente a los Ayuntamientos, a los sectores sociales y privados que los soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos;
 
-XI. Apoyar los programas de investigación tecnológica industrial y fomentar su divulgación.
+X.- Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industria rural;
 
-XII. Promover la realización de ferias, exposiciones y congresos industriales y comerciales.
+XI.- Apoyar los programas de investigación tecnológica industrial y fomentar su divulgación;
 
-XIII. Participar en la creación y administración de parques, corredores y ciudades industriales en el Estado.
+XII.- Promover la realización de ferias, exposiciones y congresos industriales y comerciales;
 
-XIV. Formular y promover el establecimiento de medidas para el fomento y protección del comercio de primera mano en el Estado.
+XIII.- Participar en la creación y administración de parques, corredores y ciudades industriales en el Estado;
 
-XV. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, turística y comercial contengan los convenios firmados entre él mismo y la administración pública federal.
+XIV.- Formular y promover el establecimiento de medidas para el fomento y protección del comercio de primera mano en el Estado;
 
-XVI. Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos ventajosos para los artesanos.
+XV.- Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, turística y comercial contengan los convenios firmados entre él mismo y la administración pública federal;
 
-XVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XVI.- Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos ventajosos para los artesanos;
+
+XVII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -1274,6 +1356,32 @@ QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 SEXTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de la Secretaría de Comunicaciones y Transportes en materia de transporte, se entenderá que las mismas se encuentran reservadas a la Secretaría de Transporte del Estado de México.
 
 SEPTIMO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de la Secretaría de Comunicaciones y Transportes en materia de comunicaciones, se entenderá que las mismas se encuentran reservadas a la Secretaría de Comunicaciones del Estado de México.
+
+P.O. 10 DE DICIEMBRE DE 2002
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Las reformas y adiciones a los artículos 32, 33 y 36 señaladas en este decreto, entrarán en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+Las reformas y adiciones a los artículos 19, 31 y 35 indicadas en este decreto, entrarán en vigor el primero de enero del año dos mil tres.
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 2003)</small>
+
+TERCERO.- Las Secretarías de Finanzas y Planeación, de Administración y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento de la Secretaría de Desarrollo Urbano y Vivienda y de la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo.
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 2003)</small>
+
+CUARTO.- El Gobernador Constitucional de Estado deberá expedir los reglamentos interiores de la Secretaría de Desarrollo Urbano y Vivienda y de la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo.
+
+QUINTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de la Secretaría de Desarrollo Urbano y Obras Públicas en materia de ordenamiento territorial de los asentamientos humanos, de desarrollo urbano de los centros de población y vivienda, se entenderá que las mismas se encuentran reservadas a la Secretaría de Desarrollo Urbano y Vivienda del Estado de México.
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 2003)</small>
+
+SEXTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de la Secretaría de Desarrollo Urbano y Obras Públicas en materia de obra pública, se entenderá que las mismas se encuentran reservadas a la Secretaría de Agua, Obra Publica e Infraestructura para el Desarrollo del Estado de México.
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 2003)</small>
+
+SEPTIMO.- Los asuntos y procedimientos que se hayan iniciado antes del primero de enero del año dos mil tres en la Secretaría de Desarrollo Urbano y Obras Públicas, se tramitarán y resolverán, según corresponda, por la Secretaría de Desarrollo Urbano y Vivienda o por la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
