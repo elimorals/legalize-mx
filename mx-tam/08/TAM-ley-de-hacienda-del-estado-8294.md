@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1983-01-01"
+last_updated: "1983-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -255,7 +255,7 @@ Las manifestaciones de alta y los avisos de baja deberán hacerse en las formas 
 
 Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos respectivos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
+Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomarán en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
@@ -3102,5 +3102,9 @@ P.O. 11 DE SEPTIEMBRE DE 1982
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE ENERO DE 1983
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1983
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
