@@ -4,7 +4,7 @@ identifier: "LSM"
 country: "mx"
 rank: "ley"
 publication_date: "1940-09-11"
-last_updated: "1942-08-31"
+last_updated: "1942-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2573&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSM"
 
 LEY DEL SERVICIO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE NOVIEMBRE DE 1942.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1940.
 
@@ -38,9 +38,15 @@ DECRETO:
 
 LEY DEL SERVICIO MILITAR
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 1942)</small>
+
 ###### ARTICULO 1o.
 
-De acuerdo con lo dispuesto en el artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, se declara obligatorio y de orden público el servicio de las armas para todos los mexicanos por nacimiento o naturalización, quienes lo prestarán en el Ejército o en la Armada como soldados, clases u oficiales, de acuerdo con sus capacidades y aptitudes.
+De acuerdo con lo dispuesto en el artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, se declara obligatorio y de orden público el servicio de las armas para todos los mexicanos por nacimiento o naturalización, quienes lo prestarán en el Ejército o en la Armada, como soldados, clases u oficiales, de acuerdo con sus capacidades y aptitudes.
+
+En caso de guerra internacional, el Servicio Militar también será obligatorio para los extranjeros, nacionales de los países cobeligerantes de México, que residan en la República.
+
+A los extranjeros que deban prestar servicios militares en México, se les aplicarán, como si fueran mexicanos, todas las disposiciones de esta Ley y de sus Reglamentos; exceptuando lo estipulado o lo que pueda estipularse al respecto, en acuerdos o convenios internacionales.
 
 ###### ARTICULO 2o.
 
@@ -399,3 +405,7 @@ D.O.F. 31 DE AGOSTO DE 1942.
 DECRETO QUE PONE EN VIGOR, EN SU TOTALIDAD, LA LEY DEL SERVICIO MILITAR DEL DIECINUEVE DE AGOSTO DE MIL NOVECIENTOS CUARENTA.
 
 UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el "Diario Oficial". quedando derogadas todas las disposiciones en vigor que a él se opongan.
+
+D.O.F. 25 DE NOVIEMBRE DE 1942.
+
+TRANSITORIO.- Este Decreto surtirá efectos a partir de su publicación en el Diario Oficial.
