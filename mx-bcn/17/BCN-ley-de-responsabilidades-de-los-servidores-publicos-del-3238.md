@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-3238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-31"
-last_updated: "1995-09-13"
+last_updated: "1997-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1997.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de enero de 1984.
 
@@ -625,7 +625,7 @@ IV.- En la Administración Pública Paraestatal: Directores Generales, Gerentes 
 
 V.- En la Procuraduría General de Justicia del Estado: Todos los funcionarios, desde el nivel mencionado en la Fracción II hasta el Procurador General de Justicia del Estado, incluyendo Agentes del Ministerio Público y Policías Judiciales.
 
-VI.- En el Poder Judicial del Estado: Magistrados del Tribunal Superior de Justicia del Estado, Jueces, Secretarios Judiciales y Actuarios de cualquier categoría o designación.
+VI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, P.O. 23 DE MAYO DE 1997)
 
 VII.- En los Tribunales Administrativos y del Trabajo: Los miembros de dichos Tribunales.
 
@@ -758,3 +758,17 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- La presente Ley entrará en vigor, al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEXTO.- Se deroga la fracción I del artículo 72 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, así como todas las disposiciones vigentes que se opongan y contravengan el contenido de la presente Ley.
+
+P.O. 23 DE MAYO DE 1997.
+
+LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga la fracción VI del artículo 72 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, así como todas las disposiciones vigentes que se opongan y contravengan el contenido del presente decreto.
