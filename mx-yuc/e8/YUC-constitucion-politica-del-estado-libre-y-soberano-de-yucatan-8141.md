@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1971-01-25"
+last_updated: "1973-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ENERO DE 1971.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE ENERO DE 1973.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -319,11 +319,11 @@ El Congreso no puede abrir sus sesiones ni ejercer su cargo sin la concurrencia 
 
 El Congreso tendrá cada año dos períodos de sesiones ordinarias prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso. El primero comenzará el día primero de enero y terminará el treinta y uno de marzo; y el segundo comenzará el día primero de julio y concluirá el treinta de septiembre.
 
-> <small>(REFORMADO, D.O.19 DE ENERO DE 1971)</small>
+> <small>(REFORMADO, D.O.18 DE ENERO DE 1973)</small>
 
 ###### Artículo 28.
 
-El Congreso celebrará el último domingo de enero de cada uno de los cinco primeros años del periodo del Ejecutivo y el segundo domingo de enero del sexto año del mismo una sesión solemne en la cual el Gobernador del Estado deberá comparecer a rendir un informe acerca de la situación que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso contestará a dicho informe en términos generales.
+El Congreso celebrará el último domingo de enero de cada uno de los cinco primeros años del periodo del Ejecutivo y el segundo domingo de diciembre del sexto año del mismo, una sesión solemne, en la cual el Gobernador del Estado deberá comparecer a rendir un informe acerca de la situación que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso contestará dicho informe en términos generales.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1444,6 +1444,10 @@ D.O. 19 DE ENERO DE 1971.
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 D.O. 25 DE ENERO DE 1971.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 18 DE ENERO DE 1973.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
