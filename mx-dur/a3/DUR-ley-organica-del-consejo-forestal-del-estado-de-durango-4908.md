@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-consejo-forestal-del-estado-de-durango-4908"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-03-25"
-last_updated: "1990-03-25"
+last_updated: "2004-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ORGANICA DEL CONSEJO FORESTAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 25 de marzo de 1990.
 
@@ -300,3 +302,35 @@ Por tanto mando se imprima, publique, circule y comuniquese a quienes correspond
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los veintinueve días del mes de Diciembre de mil novecientos ochenta y nueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE RAMIREZ GAMERO.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. SALVADOR MENDIVIL HERNANDEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JUNIO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Forestal publicada en el Periódico Oficial del Estado de fecha 3 de junio de 1937.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica del Consejo Forestal del Estado de Durango, publicada en el Periódico Oficial del Estado de fecha 25 de marzo de 1990.
+
+###### ARTÍCULO CUARTO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto los ayuntamientos emitan los reglamentos y bandos para regular las materias que según la Ley General de Desarrollo Forestal Sustentable son de su competencia, corresponderá al Estado aplicar esta Ley en el ámbito local, coordinándose para ello con las autoridades municipales.
+
+###### ARTÍCULO SEXTO.
+
+Dentro del lapso de nueve meses, el Ejecutivo Estatal, solicitará al Ejecutivo Federal la celebración de los convenios de coordinación con la finalidad de asumir operativamente las atribuciones a que se refiere la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+El reglamento de esta Ley deberá expedirse en un término que no exceda a los nueve meses contados a partir de la entrada en vigor de esta Ley.
