@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-3391"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-26"
-last_updated: "1999-06-18"
+last_updated: "2000-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 26 de octubre de 1991.
 
@@ -405,6 +405,10 @@ XXXI.- Proveer a las Dependencias del Ejecutivo Estatal del personal necesario p
 
 XXXII.- Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre el Gobierno Estatal y sus servidores públicos;
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2000)</small>
+
+XXXII-Bis.- Capacitar a los servidores públicos de las dependencias del Ejecutivo Estatal, bajo las normas que para el caso se establezcan y a partir de las necesidades de cada dependencia;
+
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
 
 XXXIII.- Expedir y tramitar los nombramientos, remociones, licencias y jubilaciones de los servidores públicos del Poder Ejecutivo Estatal, excepción hecha de los titulares de las Dependencias a que se refiere el Artículo 15 de esta Ley;
@@ -449,9 +453,7 @@ IV.- Vigilar el cumplimiento de las normas de control y apoyar a los órganos de
 
 V-A.- Establecer la normatividad en materia de estructura y procedimientos y de sistemas administrativos;
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-V-B.- Capacitar a los servidores públicos de las Dependencias del Ejecutivo Estatal, bajo las normas que para el caso se establezcan y a partir de las necesidades de cada Dependencia;
+V-B.- (DEROGADA, P.O. 7 DE JUNIO DE 2000)
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
 
@@ -964,3 +966,9 @@ P.O. 18 DE JUNIO DE 1999
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 7 DE JUNIO DE 2000.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
