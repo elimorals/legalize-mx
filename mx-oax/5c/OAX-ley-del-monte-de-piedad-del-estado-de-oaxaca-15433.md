@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-monte-de-piedad-del-estado-de-oaxaca-15433"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-10"
-last_updated: "1998-10-10"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 10 de octubre de 1998.
 
@@ -51,7 +51,9 @@ Para los efectos de la presente Ley a este organismo en lo sucesivo se le denomi
 
 El domicilio legal del Monte de Piedad, es la Ciudad de Oaxaca de Juárez, Oaxaca.
 
-En los términos de la fracción V del artículo 8o de la presente Ley, podrá determinarse el establecimiento de agencias del Monte de Piedad en los lugares que la autoridad competente así lo considere. Para ello, deberá presentarse el expediente técnico que soporte la apertura de dicha agencia y se estará, desde luego, a las disposiciones que en el respectivo ámbito de su competencia emitan las Secretarías de Finanzas y de Administración, así como la Contraloría General.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+En los términos de la fracción V del artículo 8º. de la presente Ley, podrá determinarse el establecimiento de agencias del Monte de Piedad en los lugares que la autoridad competente así lo considere. Para ello, deberá presentarse el expediente técnico que soporte la apertura de dicha agencia y se estará, desde luego, a las disposiciones que en el respectivo ámbito de su competencia emitan las Secretarías de Finanzas, de Administración, y de la Contraloría.
 
 Por cuanto a los actos y sus efectos de las agencias, éstas estarán domiciliadas en el lugar en el que los realicen.
 
@@ -125,7 +127,9 @@ III.- Seis vocales que serán:
 
 A).- Un Representante de la Secretaría de Finanzas, designado por su titular;
 
-B).- Un Representante de la Secretaría de Desarrollo Industrial y Comercial, designado por su titular;
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+B).- Un Representante de la Secretaría de Economía, designado por su titular;
 
 C).- Un Representante de la Secretaría de Administración, designado por su titular;
 
@@ -135,7 +139,9 @@ E).- Un representante de la Secretaría de Protección Ciudadana, designado por 
 
 F).- Un Representante del Sistema para el Desarrollo Integral de la Familia en el Estado de Oaxaca, designado por su titular; y
 
-IV.- Un Comisario que será el delegado contralor adscrito al Monte de Piedad o un representante de la Contraloría General.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
+IV.- Un Comisario que será el delegado contralor adscrito al Monte de Piedad o un representante de la Secretaría de la Contraloría.
 
 Por cada integrante propietario existirá un suplente, quien será designado por el Titular del Poder Ejecutivo del Estado. El cargo de suplente es indelegable, por lo que en las sesiones del Consejo de Administración no podrán acreditarse representantes de éste.
 
@@ -213,9 +219,11 @@ IX.- Establecer los métodos que permitan el óptimo aprovechamiento de los bien
 
 X.- Establecer los sistemas de control interno necesarios para alcanzar las metas y objetivos propuestos;
 
-XI.- Establecer los mécanismos de evaluación que señalen el desempeño del Monte de Piedad y presentarlos al Consejo de Administración por lo menos dos veces al año;
+XI.- Establecer los mecanismos de evaluación que señalen el desempeño del Monte de Piedad y presentarlos al Consejo de Administración por lo menos dos veces al año;
 
-XII.- Proporcionar la información y dar acceso a la documentación que le soliciten las Secretarías de Finanzas y de Administración, así como la Contraloría General o el Auditor Externo designado por ésta, para el cumplimiento de sus funciones y la que el Congreso del Estado le solicite; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+XII.- Proporcionar la información y dar acceso a la documentación que le soliciten las Secretarías de Finanzas, de Administración y de la Contraloría o el Auditor Externo designado por ésta, para el cumplimiento de sus funciones y la que el Congreso del Estado le solicite; y
 
 XIII.- Las demás que le autorice esta Ley, su Reglamento, el Consejo de Administración y disposiciones legales aplicables.
 
@@ -285,13 +293,17 @@ El personal de confianza queda sujeto a las cláusulas del contrato respectivo y
 
 ### CAPITULO VI. DEL CONTROL Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 22.
 
-Para efectos de coordinación, supervisión y evaluación de los planes y programas, el Monte de Piedad, estará sujeto a las disposiciones que las Secretarías de Finanzas, Administración y la Contraloría General, tiene como atribuciones de acuerdo a lo dispuesto por los artículos 45, 46, 47 y 48 de la Ley de Entidades Paraestatales del Estado de Oaxaca.
+Para efectos de coordinación, supervisión y evaluación de los planes y programas, el Monte de Piedad, estará sujeto a las disposiciones que las Secretarías de Finanzas, de Administración y de la Contraloría, tiene como atribuciones de acuerdo a lo dispuesto por los artículos 45, 46, 47 y 48 de la Ley de Entidades Paraestatales del Estado de Oaxaca.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 23.
 
-La Contraloría General tendrá respecto al Monte de Piedad, las siguientes atribuciones:
+La Secretaría de la Contraloría tendrá respecto al Monte de Piedad, las siguientes atribuciones:
 
 I.- Vigilar que las acciones que realicen los responsables del ejercicio presupuestal se ajusten a los lineamientos y políticas emitidas por la Secretaría de Finanzas;
 
@@ -352,3 +364,9 @@ EL SECRETARIO DE GOBIERNO,
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
