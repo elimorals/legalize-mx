@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "1991-12-28"
+last_updated: "1992-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -57,7 +57,9 @@ El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien ten
 
 La Administración Pública Centralizada se integra por la Gubernatura del Estado, las Secretarías, la Procuraduría General de Justicia y la Oficialía Mayor.
 
-La Administración Pública Paraestatal comprende a los organismos descentralizados, las empresas de participación estatal, los organismos de fomento y los fideicomisos.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1992)</small>
+
+El Titular del Poder Ejecutivo está facultado para expedir las disposiciones administrativas que sean necesarias para coordinar institucionalmente las actividades que realicen dichos organismos, de conformidad con las áreas específicas de la administración pública, asignando dicha coordinación a las Secretarías de Gobierno correspondientes.
 
 ###### ARTICULO 4o.
 
@@ -125,7 +127,7 @@ Las dependencias y entidades están obligadas a proporcionarse la información y
 
 DE LA COMPETENCIA DE LAS DEPENDENCIAS CENTRALIZADAS.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 19o.
 
@@ -137,15 +139,13 @@ Secretaría de Finanzas.
 
 Secretaría de la Contraloría.
 
-Secretaría de Desarrollo Urbano.
-
-Secretaría de Desarrollo Económico.
+Secretaría de Desarrollo Urbano y Rural.
 
 Secretaría de Salud y Bienestar Social.
 
 Secretaría de Educación, Cultura y Deporte.
 
-Secretaría de Planeación.
+Secretaría de Planeación y Promoción Económica.
 
 Procuraduría General de Justicia.
 
@@ -283,65 +283,41 @@ XIII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le 
 
 XIV.- Los demás que le atribuyan las leyes y reglamentos vigentes siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 23o.
 
-A la Secretaría de Desarrollo Urbano corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano y Rural corresponde el despacho de los siguientes asuntos:
 
-I.- Formular, proponer y aplicar los programas estatales de desarrollo urbano y vivienda.
+I.- Formular, proponer y aplicar los programas estatales de desarrollo urbano y rural, y los relativos a infraestructura y fomento de vivienda, agropecuario, forestal y pesquero;
 
-II.- Formular, proponer y aplicar los programas de conservación y mejoramiento ecológico del Estado.
+II.- Formular, proponer y aplicar los programas de conservación y mejoramiento ecológico del Estado;
 
-III.- Formula, proponer y aplicar los programas de abastecimiento, utilización y tratamiento de aguas en el Estado.
+III.- Formular, proponer y aplicar los programas de abastecimiento, utilización y tratamiento de aguas en el Estado;
 
-IV.- Coordinar la ejecución de los programas de cada una de las actividades sustantivas señaladas en las anteriores fracciones, con los que en el mismo sentido realizan los Municipios.
+IV.- Coordinar la ejecución de los programas de cada una de las actividades sustantivas señaladas en las anteriores fracciones, con los que, en el mismo sentido, realizan, los municipios;
 
-V.- Ejecutar la obra pública que corresponde al Gobierno del Estado.
+V.- Ejecutar la obra pública que corresponde al Gobierno del Estado;
 
-VI.- Mantener y conservar en condiciones óptimas de servicio, los inmuebles propiedad del Gobierno del Estado y el mobiliario y equipo que les pertenezcan.
+VI.- Mantener y conservar en condiciones óptimas de servicio, los inmuebles propiedad del Gobierno del Estado y el equipo que les pertenezca;
 
-VII.- Otorgar, con acuerdo expreso del titular del Poder Ejecutivo y con base en la Legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades a que se refiere la fracción I de este artículo.
+VII.- Organizar exposiciones y ferias de carácter agrícola y ganadero;
 
-VIII.- Despachar los asuntos que en el área de su competencia le encomiende el Titular del Poder Ejecutivo.
+VIII.- Asesorar técnicamente a las dependencias del Ejecutivo, a los organismos públicos descentralizados, a los sectores sociales y productivos, en materia de las funciones sustantivas encomendadas a esta Secretaría;
 
-IX.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le correspondan.
+IX.- Promover y apoyar los programas de investigación tecnológica en las actividades agropecuarias, forestales y pesqueras, y fomentar su divulgación;
 
-X.- Los demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no lo señale como exclusivos de otra dependencia.
+X.- Promocionar y fomentar la ocupación de los parque industriales existentes;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+XI.- Otorgar, con acuerdo expreso del Titular del Poder Ejecutivo y con base en la legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades agropecuarias;
 
-ARTICULO 23 BIS.- A la Secretaría de Desarrollo Económico corresponde el despacho de los siguientes asuntos:
+XII.- Despachar los asuntos que en el área de su competencia le encomiende el Titular del Poder Ejecutivo;
 
-I.- Proponer, programar, coordinar, controlar y evaluar, en base a las leyes de la materia, la ejecución de las políticas y programas del Estado relativas a infraestructura y fomento agropecuario, forestal, pesquero, industrial, comercial, turístico y de las demás actividades inherentes al desarrollo, que no correspondan expresamente a otra unidad.
+XIII.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan; y
 
-II.- Promover y gestionar, en coordinación con las autoridades competentes, el financiamiento para impulsar el desarrollo económico de la Entidad.
+XIV.- Las demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no lo señale como exclusivos de otra dependencia.
 
-III.- Participar coordinadamente con los otros dos órdenes de Gobierno y con los sectores social y privado, en la integración de los programas estatal y regional y sectoriales de desarrollo; los programas operativos anuales y aquellos de carácter especial que determine el Gobernador del Estado.
-
-IV.- Coordinar la ejecución de los programas de cada una de las actividades sustantivas señaladas en las anteriores fracciones, con las que en el mismo sentido realicen los Municipios.
-
-V.- Organizar congresos, convenciones, exposiciones y ferias de carácter agrícola, ganadero, comercial, industrial, artesanal o actividades que se consideren reelevantes para el desarrollo estatal.
-
-VI.- Participar en el levantamiento de los censos e inventario de los recursos estatales.
-
-VII.- Asesorar técnicamente a las dependencias del Ejecutivo, a los organismos públicos, a los sectores sociales y productivos, en materia de las funciones sustantivas encomendadas a esa Secretaría.
-
-VIII.- Promover y apoyar los programas de investigación tecnológica en las actividades agropecuarias, forestales, pesquera e industriales y fomentar su divulgación.
-
-IX.- Participar en la consolidación de los parques industriales existentes y apoyar el corredor agroindustrial.
-
-X.- Coparticipar en la elaboración de los programas de apoyo, promoción y desarrollo turístico, en coordinación con las Secretaría de Planeación, Desarrollo Urbano y el Organismo Descentralizado de Promoción y Regulación Turística.
-
-XI.- Otorgar, con el acuerdo expreso del Titular del Poder Ejecutivo y con base en la Legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades a que se refiere la fracción I de este Artículo.
-
-XII.- Promover la elaboración de proyectos que permitan el aprovechamiento de los recursos potenciales e impulsar las actividades económicas en el aparato productivo del Estado.
-
-XIII.- Despachar los asuntos en el (sic) área de su competencia le encomiende el Titular del Poder Ejecutivo.
-
-XIV.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que les correspondan.
-
-XV.- Los demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no lo señale como exclusivos de otra dependencia.
+ARTICULO 23 BIS.- (DEROGADO, P.O. 4 DE ABRIL DE 1992)
 
 ###### ARTICULO 24o.
 
@@ -399,39 +375,55 @@ VII.- Elaborar el proyecto del programa Presupuesto anual.
 
 VIII.- Las demás que le atribuyan las leyes, reglamentos y convenios vigentes, siempre que esta Ley no los señale como exclusivas de otras dependencias.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EN P.O. 15 DE FEBRERO DE 1986, SE ADICIONO POR PRIMERA VEZ ESTA NUMERACION Y QUE LOS CONTENIDOS DE AMBOS ARTICULOS SON DIFERENTES.</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1992)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+ARTICULO 24 BIS (SIC).- A la Secretaría de Planeación y Promoción Económica corresponde el despacho de los siguientes asuntos:
 
-ARTICULO 24 BIS (SIC).- A la Secretaría de Planeación corresponde el despacho de los siguientes asuntos.
+I.- Coordinar, ejecutar, dar seguimiento y evaluar al Sistema Estatal de Planeación Democrática;
 
-I.- Coordinar la integración y funcionamiento del Sistema Estatal de Planeación Democrática.
+II.- Coordinar el Comité de Planeación para el Desarrollo del Estado;
 
-II.- Coordinar el Comité de Planeación para el desarrollo del Estado.
+III.- Promover y gestionar con los Ayuntamientos del Estado, el funcionamiento de los comités municipales de planeación, así como de los programas de las actividades en materia de las funciones sustantivas encomendadas a la Secretaría;
 
-III.- Instrumentar el Programa Nacional de Solidaridad en el Estado.
+IV.- Promover la participación organizada y democrática de los diversos grupos sociales y privados, en la planeación del desarrollo;
 
-IV.- Promover la participación organizada y democrática de los diversos grupos sociales en la planeación del desarrollo.
+V.- Coordinar la elaboración y actualización del Plan Estatal de Desarrollo, contribuir en la elaboración de los planes municipales, los programas sectoriales y especiales, e impulsar su ejecución;
 
-V.- Coordinar y orientar el proceso anual de programación-presupuestación.
+VI.- Coordinar y orientar el proceso anual de programación-presupuestación, e integrar y evaluar los programas operativos anuales de inversión, gasto y financiamiento;
 
-VI.- Coordinar la elaboración y la actualización del Plan Estatal de Desarrollo, los planes municipales, los programas sectoriales y especiales e impulsar su ejecución y evaluar su cumplimiento.
+VII.- Gestionar, instrumentar, controlar y evaluar periódicamente el Programa Nacional de Solidaridad y los demás programas derivados del Convenio Unico de Desarrollo del Estado;
 
-VII.- Integrar los programas operativos anuales de inversión, gastos y financiamiento y darles seguimiento.
+VIII.- Impulsar la integración y funcionamiento del Sistema Estatal de Información;
 
-VIII.- Gestionar la autorización del presupuesto del Convenio Unico de Desarrollo y promover su ejecución.
+IX.- Evaluar el Plan Estatal de Desarrollo y el impacto de las inversiones en el desarrollo económico y social del Estado;
 
-IX.- Evaluar la operación del Convenio Unico de Desarrollo entre la federación y el Estado.
+X.- Participar en el levantamiento de los censos económicos y el inventario de los recursos estatales;
 
-X.- Impulsar el Sistema Estatal de Información.
+XI.- Proponer, programar, coordinar, controlar y evaluar la ejecución de las políticas y programas del Estado, relativas al fomento industrial, comercial y de servicio, y demás actividades inherentes al desarrollo, que no correspondan expresamente a otra unidad;
 
-XI.- Evaluar el impacto de las inversiones en el desarrollo económico del Estado.
+XII.- Promover y gestionar, en coordinación con las autoridades competentes, el financiamiento para impulsar el desarrollo económico y social de la Entidad;
 
-XII.- Despachar los asuntos que en área de su competencia le encomiende el Titular del Poder Ejecutivo.
+XIII.- Participar en la elaboración de los programas de apoyo, promoción y desarrollo turístico, en coordinación con los organismos y dependencias relacionadas con esta actividad;
 
-XIII.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan.
+XIV.- Asesorar técnicamente a las dependencias del Ejecutivo, a los organismos públicos descentralizados y a los sectores sociales y productivos en materia de las funciones sustantivas encomendadas a esta Secretaría;
 
-XIV.- Los demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no lo señale como exclusivos de otra dependencia.
+XV.- Participar coordinadamente con las dependencias del gobierno federal, con las instituciones de educación superior y con los sectores, social y privado, en la promoción, asistencia técnica y capacitación, de los pequeños y medianos empresarios, así como divulgar los programas y actividades que para beneficio de ellos se realicen;
+
+XVI.- Fomentar y apoyar la exportación de productos;
+
+XVII.- Promover y apoyar los programas de investigación tecnológica en las actividades industriales y comerciales, y fomentar su divulgación;
+
+XVIII.- Participar en congresos, convenciones, exposiciones y ferias de carácter industrial, comercial y de servicios que se consideren relevantes para el desarrollo estatal;
+
+XIX.- Promover la elaboración de proyectos que permitan el aprovechamiento y la comercialización de los recursos naturales con los que cuenta el Estado;
+
+XX.- Otorgar, con el acuerdo expreso del Titular del Poder Ejecutivo y con base en la legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades a que se refiere la fracción XI de este artículo;
+
+XXI.- Despachar los asuntos que en el área de su competencia le encomiende el Titular del Poder Ejecutivo;
+
+XXII.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan; y
+
+XXIII.- Las demás que le atribuyan las leyes y reglamentos vigente, siempre que esta Ley no las señale como exclusivos de otra dependencia.
 
 ###### ARTICULO 25o.
 
@@ -570,3 +562,7 @@ SEGUNDO.- El presente Decreto entrará en vigor a partir de su publicación en e
 P.O. 28 DE DICIEMBRE DE 1991.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EL ESTADO DE COLIMA".
+
+P.O. 4 DE ABRIL DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
