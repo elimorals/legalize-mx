@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-de-los-servidores-publicos-del-6838"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-01"
-last_updated: "2002-05-15"
+last_updated: "2002-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 1 de Febrero de 1984.
 
@@ -585,6 +585,10 @@ Las resoluciones y acuerdos que se dicten, constarán por escrito y se asentará
 
 Contra las resoluciones que se pronuncien que impongan las sanciones a que se refiere este Título, procederá recurso de reconsideración, que se promoverán ante el Titular del Poder que la hubiere impuesto, dentro de los quince días siguientes a la fecha en que surta efectos la notificación recurrida.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
+El servidor público afectado por las resoluciones administrativas definitivas que se dicten conforme a esta ley, podrá optar entre interponer el recurso de revocación o juicio ante el Tribunal de Justicia Administrativa del Estado de Nayarit. Las resoluciones que dicte el Tribunal podrán ser impugnadas ante éste por la Secretaría de la Contraloría o por el titular de la dependencia a la que se encuentre adscrito el servidor público.
+
 ###### ARTICULO 77.
 
 La tramitación del recurso se sujetará a las normas siguientes:
@@ -627,7 +631,7 @@ Si el servidor público presunto responsable confesare su responsabilidad, se pr
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2002)</small>
 
-### CAPITULO UNICO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS
+### CAPITULO UNICO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
@@ -860,3 +864,31 @@ Segundo. Se derogan, además de las disposiciones que expresamente se señalan e
 Tercero.- Todas las declaraciones patrimoniales que aún se encuentren bajo la custodia de la Secretaria de la Contraloría y que correspondan a los servidores públicos de los Poderes Legislativo ó Judicial y de los demás entes públicos, deberán ser remitidas a las autoridades que corresponda, conforme el artículo 84 de esta ley para todos los efectos que en ella se consignan dentro del plazo de treinta días contados a partir de la entrada en vigor del presente decreto.
 
 Cuarto.- Los servidores públicos de los ayuntamientos y de los demás entes públicos que no hubiesen presentado declaración patrimonial por no haber estado obligados a ello, para efectos de dar cumplimiento a la fracción I del artículo 85 a que se refiere este decreto, tan luego que entre en vigor, dispondrán de un plazo de treinta días para presentar su declaración inicial de bienes.
+
+P.O. 17 DE AGOSTO DE 2002.
+
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+
+Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+
+Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+
+Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
+
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el (sic) artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+
+Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
+
+Igualmente, en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta resolución, adecuarán sus reglamentos y demás ordenamientos a fin de que sean acordes a lo establecido por el mismo.
+
+Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del estado, dispondrán los recursos humanos y financieros para que a partir de la publicación de este decreto, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
+
+En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
