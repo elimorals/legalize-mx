@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1968-03-08"
+last_updated: "1968-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1968.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -1462,6 +1462,10 @@ Al que emplando (sic) explosivos o materias incendiarias, o por cualquier otro m
 
 Si en el vehículo de que se trate no se hallare persona alguna, se aplicará prisión de 5 a 20 años.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1968)</small>
+
+Asimismo se impondrá prisión de cinco a veinte años, sin perjuicio de la pena que corresponda por otros delitos que cometa, al que hiciere cambiar de destino una aeronave valiéndose de amenazas, violencia, intimidación, o por cualquier otro medio ilícito, o la hiciere desviar de su ruta.
+
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 171.
@@ -1589,8 +1593,6 @@ Al que ultraje el escudo de la República o el pabellón nacional, ya sea de pal
 ###### ARTICULO 192.
 
 Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicará de tres días a un año de prisión y multa de veinticinco a mil pesos.
-
-> <small>N. DE E. EN EL DECRETO DE REFORMAS DEL 8 DE MARZO DE 1968 POR OMISION SE MENCIONA EL TITULO SEPTIMO, SIENDO EN REALIDAD EL OCTAVO, DEBIDO A LA REUBICACION QUE SUFRIO EL 20 DE ENERO DE 1967</small>
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -3623,6 +3625,12 @@ El presente Decreto entrará en vigor quince días después de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a las presentes reformas y adiciones.
+
+D.O.F. 24 DE DICIEMBRE DE 1968.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
