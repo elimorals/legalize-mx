@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-organizacion-interna-del-instituto-mexicano-12531
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-11"
-last_updated: "2001-12-17"
+last_updated: "2003-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12531&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1998-11-04"
 
 REGLAMENTO DE ORGANIZACION INTERNA DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2003.
 
-Reglamento Publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 11 de noviembre de 1998.
+Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 11 de noviembre de 1998.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -65,17 +65,25 @@ c) Las coordinaciones generales, y
 
 d) Las coordinaciones.
 
-VII. Órganos Regionales:
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-a) Los Consejos Consultivos Regionales, y
+VII. Órganos Colegiados:
 
-b) Las direcciones regionales;
+a). Los Consejos Consultivos Regionales.
 
-VIII. Órganos Delegacionales:
+b). Los Consejos Consultivos Delegacionales.
 
-a) Los Consejos Consultivos Delegacionales, y
+c). Las Juntas de Gobierno de las Unidades Médicas de Alta Especialidad.
 
-b) Las delegaciones;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+VIII. Órganos de Operación Administrativa Desconcentrada:
+
+a). Las Direcciones Regionales.
+
+b). Las Delegaciones.
+
+c). Las Unidades Médicas de Alta Especialidad.
 
 IX. Órganos Operativos:
 
@@ -87,15 +95,21 @@ c) Las Oficinas para Cobros del Instituto Mexicano del Seguro Social, y
 
 d) Otras unidades administrativas.
 
-El Instituto contará con una Unidad de Contraloría Interna, que se regirá conforme al artículo 82 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+El Instituto contará con un Órgano Interno de Control, que se regirá conforme al artículo 82 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 2.
 
-Las disposiciones contenidas en este Reglamento son de carácter general y la observancia de las mismas estará a cargo de los órganos superiores, de la Secretaría General, de los órganos normativos, regionales, delegacionales y operativos del Instituto, independientemente de las atribuciones que les confieran la Ley y sus reglamentos.
+Las disposiciones contenidas en este Reglamento son de carácter general y la observancia de las mismas estará a cargo de los órganos superiores, de la Secretaría General, de los órganos normativos, colegiados, de operación administrativa desconcentrada y operativos del Instituto, independientemente de las atribuciones que les confieran la Ley y sus reglamentos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 3.
 
-El Consejo Técnico, atendiendo a la necesidad en el cumplimiento de los fines del Instituto, en uso de las atribuciones que le concede la Ley tendrá la facultad de crear órganos normativos, regionales, delegacionales y operativos, así como otras unidades administrativas, sujetándose a los montos autorizados en el correspondiente Presupuesto.
+El Consejo Técnico, atendiendo a la necesidad en el cumplimiento de los fines del Instituto, en uso de las atribuciones que le concede la Ley, tendrá la facultad de aprobar la creación, modificación o supresión de órganos normativos, colegiados, de operación administrativa desconcentrada y operativos, así como otras unidades administrativas, determinando, en su caso, su ámbito territorial, sujetándose a los montos autorizados en el correspondiente presupuesto.
 
 El Director General podrá proponer al Consejo Técnico la creación de estos órganos, de conformidad con los lineamientos señalados en el párrafo anterior; y autorizar la creación de unidades administrativas jerárquicamente inferiores a aquellas creadas por el Consejo Técnico, ciñéndose a los lineamientos marcados en el párrafo precedente.
 
@@ -103,11 +117,15 @@ El Director General podrá proponer al Consejo Técnico la creación de estos ó
 
 Los órganos del Instituto quedan obligados a coordinarse entre sí dentro de los ámbitos de su competencia, cuando los asuntos a su cargo requieran documentación, criterios de operación o cualquier otra información necesaria para efecto de coadyuvar al logro de los fines institucionales.
 
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 5.
 
-Los órganos superiores y normativos dictarán disposiciones, lineamientos y criterios que serán de observancia general y obligatoria para los órganos regionales, delegacionales y operativos, y regularán la recopilación, evaluación y sistematización de la información generada por estos últimos.
+Los órganos superiores y normativos dictarán, de conformidad con el ámbito de su competencia, según lo establecido en el presente Reglamento, disposiciones, lineamientos y criterios que serán de observancia general y obligatoria para los órganos colegiados, de operación administrativa desconcentrada y operativos, regularán la recopilación, evaluación y sistematización de la información generada por estos últimos, y aprobarán los manuales de operación, de procedimientos e instructivos normativos.
 
-Los órganos superiores y normativos, en aquellos asuntos que por su importancia y trascendencia puedan afectar el interés general del Instituto, se encuentran facultados para ejercer directamente las atribuciones conferidas por la Ley y este Reglamento a los órganos regionales, delegacionales y operativos, excepción hecha de las Coordinaciones, las que lo harán por conducto de su superior jerárquico.
+Los órganos superiores y normativos, en aquellos asuntos que por su importancia y trascendencia puedan afectar los intereses del Instituto, se encuentran facultados para ejercer directamente, las atribuciones conferidas por la Ley y este Reglamento a los órganos colegiados, de operación administrativa desconcentrada y operativos, en el ámbito de sus respectivas competencias.
+
+La Secretaría General, los órganos normativos, de operación administrativa desconcentrada y operativos, estarán facultados para certificar documentos y expedir las constancias correspondientes que se requieran en las materias de su competencia. Asimismo, los órganos normativos, en el ámbito de su competencia, determinarán los perfiles de puestos que deben reunir los jefes de servicios delegacionales y, en su caso, subdelegados, así como del personal de confianza de sus unidades administrativas. Asimismo, tendrán la facultad de proponer al Director General los anteproyectos de iniciativas o reformas de leyes, reglamentos, decretos, y acuerdos en las materias de su competencia, para su análisis y validación por parte de la Dirección Jurídica, mismos que el primero pondrá a consideración del H. Consejo Técnico, cuando proceda, para su aprobación.
 
 ## TÍTULO SEGUNDO. DE LOS ÓRGANOS SUPERIORES DEL INSTITUTO
 
@@ -317,7 +335,9 @@ Son atribuciones del Consejo Técnico, las siguientes:
 
 I. Decidir sobre las inversiones de las reservas y demás recursos del Instituto, con sujeción a lo previsto en la Ley y sus reglamentos, excepto los provenientes del seguro de retiro, cesantía en edad avanzada y vejez;
 
-II. Vigilar y promover el equilibrio financiero de todos los ramos de aseguramiento comprendidos en la Ley;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+II. Vigilar y promover el equilibrio financiero de los seguros comprendidos en la Ley;
 
 III. Resolver sobre las operaciones del Instituto, exceptuando aquellas que por su importancia ameriten acuerdo expreso de la Asamblea General, de conformidad con lo que al respecto determine la Ley y este Reglamento;
 
@@ -325,13 +345,19 @@ IV. Establecer y suprimir Direcciones, Direcciones Normativas, Unidades, Direcci
 
 V. Convocar a Asamblea General ordinaria o extraordinaria;
 
-VI. Discutir y, en su caso, aprobar el presupuesto de ingresos y egresos, así como el programa de actividades que elabore la Dirección General;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-VII. Expedir el Reglamento de Reversión de Cuotas para los seguros que expresamente establece la Ley, así como los demás que fueran necesarios para la exacta observancia de la misma;
+VI. Discutir y aprobar el proyecto de presupuesto de ingresos y egresos del Instituto que someta a su consideración el Director General, autorizar sus adecuaciones, así como aprobar el programa de actividades que elabore la Dirección General;
+
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+VII. Emitir las disposiciones de carácter general sobre reversión de cuotas para los seguros que expresamente establece la Ley, así como las demás que fuesen necesarias para la exacta observancia de la misma;
 
 VIII. Conceder, rechazar y modificar las pensiones que conforme a la Ley le corresponde otorgar al Instituto, pudiendo delegar estas facultades en sus dependencias competentes;
 
-IX. Nombrar y remover al Secretario General, a los Directores, Coordinadores Generales, Directores Regionales, Coordinadores, Prosecretario del Consejo Técnico, Titulares de Unidad, así como a los Delegados, en los términos del artículo 268, fracción VII de la Ley;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+IX. Nombrar y remover al Secretario General, a los directores, titulares de unidad, coordinadores generales y titulares de órganos de operación administrativa desconcentrada, en términos de lo dispuesto por el artículo 264, fracción IX de la Ley;
 
 X. Aprobar las bases para la celebración de convenios de incorporación voluntaria al régimen obligatorio;
 
@@ -345,13 +371,15 @@ XIV. Autorizar, en la forma y términos que establezca este Reglamento lo relati
 
 XV. Conocer y resolver de oficio o a petición de los Directores Regionales, aquellos asuntos competencia de los Consejos Consultivos Regionales que por su importancia, trascendencia o características especiales así lo ameriten;
 
-XVI. Establecer bases especiales de aseguramiento y de cotización para los trabajadores de la marina mercante;
+XVI. (DEROGADA, D.O.F. 19 DE JUNIO DE 2003)
 
 XVII. Expedir las bases para extender, hasta los veinticinco años de edad, los derechos a las prestaciones en especie del seguro de enfermedades y maternidad que se otorgarán, dentro del territorio nacional, a los hijos de trabajadores mexicanos asegurados que laboren en el extranjero y que se encuentren estudiando fuera del país en planteles educativos equiparables a los del Sistema Educativo Nacional;
 
-XVIII. Decidir sobre la aplicación de los recursos que tenga el fondo de beneficio colectivo para los trabajadores de la industria de la construcción, escuchando a los representantes de los trabajadores y patrones;
+XVIII. (DEROGADA, D.O.F. 19 DE JUNIO DE 2003)
 
-XIX. Ampliar, restringir, o bien suspender las facultades de los Consejos Consultivos a que se refieren los artículos 92 y 121 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XIX. Ampliar, restringir, o suspender las facultades de los consejos consultivos;
 
 XX. Ampliar, en casos excepcionales, la representación de los sectores de los Consejos Consultivos Delegacionales;
 
@@ -359,15 +387,31 @@ XXI. Autorizar al Director General del Instituto, en su carácter de vocal en la
 
 XXII. Crear e integrar los Comités y Comisiones de Estudio para el mejor desempeño de las funciones encomendadas al Consejo Técnico, los que deberán informar al pleno de dicho cuerpo colegiado de las actividades realizadas por las mismas;
 
-XXIII. Aprobar los reglamentos, el Manual de Organización del Instituto, el de las Direcciones Regionales, el de Delegaciones, y, en su caso, los documentos normativos necesarios para el correcto funcionamiento del Instituto, y
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-XXIV. Las demás que le señalen la Ley, sus reglamentos y la Asamblea General.
+XXIII. Aprobar los proyectos de reglamentos, que le presente el Director General, para los trámites de aprobación ante la Comisión Federal de Mejora Regulatoria y la Consejería Jurídica del Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXIV. Aprobar el Manual de Organización del Instituto, el de los Órganos de Operación Administrativa Desconcentrada y Operativos y, en su caso, los documentos normativos necesarios para el correcto funcionamiento del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXV. Aprobar las cuotas de recuperación de costos por el uso de sus instalaciones deportivas, sociales, culturales, recreativas y vacacionales, en los términos del artículo 210 A de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXVI. Aprobar las reglas de carácter general sobre las facultades concurrentes del delegado y subdelegaciones, y
+
+XXVII. Las demás que le señalen la Ley, sus reglamentos y la Asamblea General.
 
 #### SECCIÓN SEGUNDA. DEL PRESIDENTE DEL CONSEJO TÉCNICO
 
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 32.
 
-Las sesiones del Consejo Técnico serán presididas por el Director General del Instituto, si estuviere ausente fungirá como Presidente, el Secretario General del Instituto, procediendo a desempeñar el cargo de Secretario del Consejo, el Prosecretario de dicho cuerpo colegiado.
+Las sesiones del Consejo Técnico serán presididas por el Director General del Instituto, si estuviere ausente fungirá como presidente el Secretario General del Instituto, procediendo a desempeñar el cargo de Secretario del Consejo, el servidor público del Instituto que designe el propio Consejo Técnico.
 
 ###### ARTÍCULO 33.
 
@@ -387,9 +431,9 @@ VI. Presidir los Comités y Comisiones de los que forme parte;
 
 VII. Autorizar la celebración de sesiones extraordinarias cuando lo estime conveniente;
 
-VIII. Proponer al Consejo Técnico la designación o destitución de los funcionarios mencionados en la fracción IX del artículo 264 de la Ley;
+VIII. (DEROGADA, D.O.F. 19 DE JUNIO DE 2003)
 
-IX. Nombrar y remover a los demás funcionarios y trabajadores del Instituto;
+IX. (DEROGADA, D.O.F. 19 DE JUNIO DE 2003)
 
 X. Realizar toda clase de actos jurídicos necesarios para cumplir con los fines del Instituto;
 
@@ -427,9 +471,11 @@ VII. Las demás que señalen la Ley, sus reglamentos, la Asamblea General y el C
 
 #### SECCIÓN CUARTA. DEL SECRETARIO DEL CONSEJO TÉCNICO
 
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 35.
 
-El Secretario General del Instituto fungirá como Secretario del Consejo Técnico. En caso de ausencia de éste, tendrá tal carácter el Prosecretario del Consejo Técnico.
+El Secretario General del Instituto fungirá como Secretario del Consejo Técnico. En caso de ausencia de éste, tendrá tal carácter el servidor público del Instituto que designe el propio Consejo Técnico.
 
 ###### ARTÍCULO 36.
 
@@ -439,13 +485,17 @@ I. Asistir con voz, pero sin voto, a las sesiones ordinarias y extraordinarias;
 
 II. Formular la orden del día y citar a las sesiones a los miembros del Consejo Técnico;
 
-III. Hacer del conocimiento de los órganos normativos, regionales, delegacionales y operativos, los acuerdos del Consejo Técnico, difundir, dar seguimiento y vigilar su cumplimiento, así como clasificar, archivar y sistematizar los mismos;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+III. Hacer del conocimiento de los órganos normativos, de operación administrativa desconcentrada y operativos, los acuerdos del Consejo Técnico, difundir, dar seguimiento y vigilar su cumplimiento, así como clasificar, archivar y sistematizar los mismos;
 
 IV. Tramitar los asuntos relativos al recurso de inconformidad, cuando se determine por una autoridad que el Consejo Técnico sea el que resuelva, en los casos de veto del Presidente del Consejo y en los que determine la Ley y sus reglamentos;
 
 V. Tramitar hasta dejar en estado de resolución por parte del Consejo Técnico, los casos en que ejercite el derecho de veto el Director Regional;
 
-VI. Tramitar ante el Consejo Técnico las solicitudes sobre: prórroga de servicios médicos, aparatos de prótesis, expedición de incapacidades retroactivas, ayudas para matrimonio, asignaciones familiares, celebración de convenios sobre cuotas obrero patronales y accesorios legales y cancelación de créditos que rebasen la competencia de los órganos regionales, así como el reingreso a la continuación voluntaria en el régimen obligatorio, prestaciones médicas y económicas, en ambos casos por equidad;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+VI. Tramitar ante el Consejo Técnico las solicitudes sobre: prórroga de servicios médicos, aparatos de prótesis, expedición de incapacidades retroactivas, ayudas para matrimonio, asignaciones familiares, celebración de convenios sobre cuotas obrero patronales y accesorios legales y cancelación de créditos que rebasen la competencia de los consejos consultivos regionales, y el otorgamiento de prestaciones médicas y económicas, en ambos casos por equidad;
 
 VII. Tramitar las propuestas de designaciones de los representantes de los Consejos;
 
@@ -507,9 +557,11 @@ VIII. Informes de los Comités y Comisiones del Consejo Técnico, y
 
 IX. Asuntos Generales.
 
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 43.
 
-Durante el desarrollo de las sesiones, sólo deberán estar presentes los miembros del Consejo Técnico, el Secretario y Prosecretario del Consejo, así como personal de apoyo de este último y, en algunos casos, los funcionarios institucionales que requiera el propio cuerpo colegiado; asimismo, podrá asistir con voz pero sin voto, el Presidente de la Comisión de Vigilancia.
+Durante el desarrollo de las sesiones, sólo deberán estar presentes los miembros del Consejo Técnico, el Secretario del Consejo, así como personal de apoyo de este último y, en algunos casos, los servidores públicos del Instituto que requiera el propio cuerpo colegiado.
 
 ###### ARTÍCULO 44.
 
@@ -575,7 +627,9 @@ VIII. Vigilar que las reservas de los diferentes ramos de seguro no sean utiliza
 
 IX. Proponer soluciones para los problemas de financiamiento que se presenten respecto a los ramos de aseguramiento y sugerir, en su caso, modificaciones a los planes estructurales de seguro, para el fortalecimiento de cada uno de los mismos;
 
-X. Solicitar, por conducto de la Dirección General, a los órganos normativos, regionales, delegacionales, operativos y Consejos del Instituto, los datos e información que estime necesarios;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+X. Solicitar, por conducto de la Dirección General, a los órganos normativos, de operación administrativa desconcentrada, operativos y colegiados del Instituto, los datos e información que estime necesarios;
 
 XI. Realizar visitas a cualquier unidad de servicio del Instituto y llevar a cabo todas aquellas acciones que considere convenientes para conocer su operación y desarrollo dentro del marco legal de su competencia;
 
@@ -635,9 +689,11 @@ Cuando en dos sesiones ordinarias consecutivas no se haya podido integrar el qu�
 
 La Presidencia de la Comisión será rotativa entre los sectores que la conforman y durará un año. La designación del Presidente se hará en la sesión inmediata posterior a la Asamblea General Ordinaria del Instituto de principio de año.
 
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 64.
 
-Cada vez que la Comisión designe Presidente, su designación y su firma se darán a conocer al Consejo Técnico, al Director General, a los órganos normativos, regionales, delegacionales y operativos del Instituto, a los Sectores que de acuerdo con la Ley propusieron los miembros de la Comisión y a las empresas e instituciones relacionadas con la operación del Instituto.
+Cada vez que la Comisión designe Presidente, su designación y su firma se darán a conocer al Consejo Técnico, al Director General, a los órganos normativos, colegiados, de operación administrativa desconcentrada y operativos del Instituto, a los sectores que de acuerdo con la Ley propusieron los miembros de la Comisión y a las empresas e instituciones relacionadas con la operación del Instituto.
 
 ###### ARTÍCULO 65.
 
@@ -741,25 +797,43 @@ II. Representar legalmente al Instituto como persona moral con todas las faculta
 
 Los estímulos que se otorguen serán aquellos previstos por la Secretaría de Hacienda y Crédito Público y se aplicarán, previa autorización de dicha Secretaría a la normatividad que al efecto emita la misma;
 
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje, de conformidad con lo dispuesto en la Ley Federal de las Entidades Paraestatales y demás disposiciones jurídicas aplicables;
+
 III. Vetar los acuerdos del Consejo Técnico cuando impliquen inobservancia a la Ley, a sus reglamentos o no se ajusten a las políticas institucionales;
 
 IV. Presentar a la consideración de la Asamblea, los documentos a que se refieren las fracciones I y II del artículo 11 de este Reglamento;
 
 V. Presentar anualmente al Consejo Técnico el informe de actividades, así como el programa de labores; el presupuesto de ingresos y egresos para el siguiente período; el balance contable; el estado de ingresos y gastos, así como el informe financiero y actuarial, y proponer la elaboración de estudios sobre la revisión del factor de prima del seguro de riesgos de trabajo, de conformidad con lo que establece el artículo 76 de la Ley;
 
-VI. Aprobar los Manuales de Organización de las Direcciones Normativas, Coordinaciones Generales y de los Órganos Delegacionales y Operativos, de acuerdo con la organización aprobada por el Consejo Técnico en los términos del artículo 31, fracción IV, de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-VII. Las demás que le confieran la Ley, sus reglamentos y los acuerdos del Consejo Técnico.
+VI. Aprobar los Manuales de Organización de los Órganos Normativos, de acuerdo con la organización aprobada por el Consejo Técnico;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+VII. Delegar en el Secretario General, los directores, titulares de unidad, coordinadores generales y titulares de órganos de operación administrativa desconcentrada, la facultad de nombrar y remover a los trabajadores de confianza en el ámbito de su competencia. El acuerdo delegatorio se publicará en el Diario Oficial de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+VIII. Designar al encargado del despacho de los órganos normativos y de operación administrativa desconcentrada, en el caso de las vacantes de los titulares de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+IX. Designar a los servidores públicos, que deban representar al Instituto ante organismos internacionales, foros, eventos y reuniones nacionales e internacionales, en donde se discutan asuntos en materia de su competencia;
+
+X. Las demás que le confieran la Ley, sus reglamentos y los acuerdos del Consejo Técnico.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS ÓRGANOS DE APOYO DE LA DIRECCIÓN GENERAL
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 72.
 
-La Dirección General contará con las áreas de apoyo denominadas Unidad de Vinculación Institucional y de Inversiones Financieras, las que tendrán las facultades a que se refiere el presente Reglamento en los artículos 73 y 73 bis.
+La Dirección General contará con el área de apoyo denominada Unidad de Vinculación Institucional, la que tendrá las facultades a que se refiere el presente Reglamento en el artículo 73.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
@@ -781,37 +855,39 @@ VI. Dar seguimiento a los acuerdos y disposiciones de la Dirección General, y
 
 VII. Las demás que le señale el Director General.
 
-> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+ARTÍCULO 73 bis. (DEROGADO, D.O.F. 19 DE JUNIO DE 2003)
 
-Artículo 73 bis. La Unidad de Inversiones Financieras tendrá las facultades siguientes:
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+ARTÍCULO 73 A. De conformidad con lo establecido en el artículo 286 C de la Ley, la Dirección de Inversiones Financieras es la unidad administrativa especializada en la inversión de los recursos del Instituto.
 
-I. Realizar las operaciones de inversión de las reservas y de los excedentes de efectivo, de acuerdo a las políticas y directrices que dicte el Consejo Técnico;
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+ARTÍCULO 73 B. La Dirección de Inversiones Financieras tendrá las facultades siguientes:
 
-II. Proponer a la Comisión de Inversiones Financieras del Instituto las alternativas de inversión de los recursos financieros del Instituto;
+I. Elaborar y actualizar, en el marco de la normatividad vigente, las políticas, estrategias y directrices para la inversión y administración de riesgos de inversión de los recursos financieros institucionales, para que una vez dictaminadas y aprobadas por el órgano competente que determine el Consejo Técnico, éste las presente al propio Consejo Técnico para su evaluación y, en su caso, autorización;
 
-> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+II. Realizar de acuerdo a las políticas, estrategias y directrices autorizadas, las operaciones de inversión de los recursos financieros institucionales, en los términos señalados en la Ley, así como para la administración de riesgos de inversión de los mismos;
 
-III. Realizar las operaciones de inversión de las reservas y excedentes financieros del Instituto, aplicando en cada caso lo dispuesto en la Ley y las disposiciones que al respecto dicte el Consejo Técnico; informar sobre la valuación de los productos de la inversión de las reservas, mediante los métodos financieros previstos por el Consejo Técnico;
+III. Registrar, documentar, controlar y liquidar las operaciones de inversión de los recursos financieros institucionales;
 
-> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+IV. Proponer a la Dirección General, para su autorización por parte del Consejo Técnico, la infraestructura profesional y operativa que permita un proceso de inversión de los recursos financieros institucionales, flexible, transparente y eficiente, para operar de manera competitiva en el mercado financiero;
 
-IV. Aplicar las estrategias para cubrir el riesgo de inversión;
+V. Formalizar, previo análisis y autorización del órgano competente que determine el Consejo Técnico, los contratos con los intermediarios financieros, para realizar las operaciones de inversión de los recursos financieros institucionales;
 
-> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+VI. Suscribir convenios de colaboración e intercambio de información y tecnologías con instituciones públicas y privadas, nacionales, extranjeras e internacionales, en las materias de su competencia;
 
-V. Establecer y operar los sistemas de información para las operaciones de inversión de las reservas y de los excedentes de efectivo y sobre los factores de riesgo de inversión;
+VII. Elaborar y presentar, de manera mensual, los informes que se deben rendir al Consejo Técnico y a la Comisión de Vigilancia; y de manera trimestral a la Secretaría de Hacienda y Crédito Público, al Banco de México y al Congreso de la Unión, relativos a las operaciones de inversión realizadas, los rendimientos obtenidos y de la composición y situación financiera de las inversiones del Instituto, previo dictamen favorable de la Comisión de Inversiones Financieras del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+VIII. Mantener actualizada la información relativa a los recursos financieros en inversión que se deba rendir al público en general, en los términos de la legislación aplicable, a través de los distintos medios de comunicación;
 
-VI. Elaborar un informe mensual pormenorizado de las operaciones y rendimientos obtenidos en la inversión de los excedentes de efectivo, y uno semestral, por las correspondientes a las reservas financieras del Instituto, y
+IX. Coordinar el desarrollo y elaboración de los distintos estudios que identifiquen las mejores prácticas internacionales en materia de administración de la inversión de los recursos de seguridad social, que incidan en el mejoramiento de los procesos de inversión, de medición y control de riesgos financieros de inversión, y de confirmación, liquidación y registro de los recursos institucionales;
 
-> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+X. Elaborar los demás reportes que solicite el Consejo Técnico, la Comisión de Vigilancia, la Dirección General, así como cualquier otro órgano que determine el Consejo Técnico, sobre los resultados alcanzados en el proceso de inversión, de medición y control de riesgos y de liquidación, documentación y registro de los recursos institucionales;
 
-VII. Las demás que le señalen los reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+XI. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo, órganos normativos, de operación administrativa desconcentrada y operativos, y
+
+XII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende el Director General.
 
 > <small>(DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
@@ -829,59 +905,43 @@ I. Planear, dirigir y coordinar las acciones necesarias para atender los asuntos
 
 II. Atender los asuntos internacionales a su cargo y los que sobre este particular le encomiende la Dirección General;
 
-III. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo, así como con los órganos normativos, regionales, delegacionales y operativos;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+III. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo, así como con los órganos normativos, colegiados, de operación administrativa desconcentrada y operativos;
 
 IV. Tramitar, hasta dejar en estado de resolución por parte del Consejo Técnico, los casos en que ejercite el derecho de veto el Presidente del Consejo Consultivo Regional;
 
 V. Tramitar los asuntos relativos al recurso de inconformidad, cuando se determine por una autoridad que el Consejo Técnico sea el que lo resuelva, en los casos de veto del Presidente del Consejo Consultivo Regional o Delegacional y en los demás supuestos previstos en la Ley y sus reglamentos;
 
-VI. Tramitar ante el Consejo Técnico las solicitudes sobre: prórroga de servicios médicos, aparatos de prótesis, expedición de incapacidades retroactivas, ayudas para gastos de matrimonio, asignaciones familiares, celebración de convenios sobre cuotas obrero patronales y accesorios legales y cancelación de créditos que rebasen la competencia de los órganos regionales, así como el ingreso a la continuación voluntaria del régimen obligatorio y el otorgamiento de prestaciones médicas y económicas, en ambos casos por equidad;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-VII. Tramitar las propuestas de designaciones de los representantes de los Consejos Consultivos Regionales o Delegacionales y presentarlas a consideración del Consejo Técnico;
+VI. Tramitar ante el Consejo Técnico las solicitudes sobre prórroga de servicios médicos, aparatos de prótesis, expedición de incapacidades retroactivas, ayudas para gastos de matrimonio, asignaciones familiares, celebración de convenios sobre cuotas obrero patronales y cancelación de adeudos, en los términos y condiciones establecidos en la Ley, que rebasen la competencia de los consejos consultivos regionales, y el otorgamiento de prestaciones médicas y económicas, en ambos casos por equidad;
 
-VIII. Recopilar y evaluar el resumen analítico de las actas remitidas por los Consejos Consultivos Regionales o Delegacionales;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+VII. Tramitar las propuestas de designaciones de los representantes de los órganos colegiados y presentarlas a consideración del Consejo Técnico;
+
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+VIII. Recopilar y evaluar el resumen analítico de las actas remitidas por los órganos colegiados;
 
 IX. Certificar los documentos que requieran los órganos normativos;
 
-X. Hacer del conocimiento de los órganos normativos, regionales, delegacionales y operativos los acuerdos del Consejo Técnico, difundir y vigilar su cumplimiento, así como clasificar y archivar cronológicamente los mismos;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+X. Hacer del conocimiento de los órganos normativos, colegiados, de operación administrativa desconcentrada y operativos, los acuerdos del Consejo Técnico, difundir y vigilar su cumplimiento, así como clasificar y archivar cronológicamente los mismos;
 
 XI. Levantar y certificar las actas de las Asambleas Generales de las sesiones del Consejo Técnico y demás eventos que por su función le correspondan;
 
 XII. Conservar, hasta por un año, las cintas magnetofónicas de las sesiones ordinarias de la Asamblea General, del Consejo Técnico y demás reuniones de su competencia, que consten en acta debidamente firmada y glosada en libros;
 
-XIII. Coordinar las actividades de la Prosecretaría del Consejo Técnico, que dependerá directamente de la Secretaría General, la que tendrá las atribuciones que le señale el manual respectivo, y
+XIII. (DEROGADA, D.O.F. 19 DE JUNIO DE 2003)
 
 XIV. Las demás que le confieran la Ley, sus reglamentos y acuerdos del Consejo Técnico y le encomiende la Dirección General.
 
 ###### ARTÍCULO 75.
 
-Son atribuciones de la Prosecretaría del Consejo Técnico:
-
-I. Apoyar a la Asamblea General, al Consejo Técnico, a la Comisión de Vigilancia y a la Secretaría General, en el desarrollo de sus funciones y la celebración de las sesiones;
-
-II. Proponer al Secretario General los lineamientos para comunicación de los acuerdos de los Órganos Superiores y la promoción de su cumplimiento;
-
-III. Hacer del conocimiento de las dependencias del Instituto y los organismos que proceda, los acuerdos derivados de las sesiones, de la Asamblea General y del Consejo Técnico, cuando así lo instruya el Secretario General;
-
-IV. Dar seguimiento a los acuerdos del Consejo Técnico;
-
-V. Revisar los informes derivados de las solicitudes de suspensión del procedimiento administrativo de ejecución presentadas por los interesados ante el Consejo Técnico e informar de ellos a la Secretaría General;
-
-VI. Obtener la información mensual de los acuerdos del Consejo Técnico para su control y conocimiento;
-
-VII. Vigilar la integración y funcionamiento de los Consejos Consultivos Regionales y Delegacionales;
-
-VIII. Apoyar a la Secretaría General en la vigilancia y promoción del cumplimiento de las decisiones de los Órganos Superiores;
-
-IX. Coordinar las acciones necesarias para el cumplimiento de compromisos institucionales;
-
-X. Vigilar el cumplimiento de compromisos del Instituto adquiridos por la Dirección General o por el Gobierno Federal;
-
-XI. Promover entre las áreas del Instituto, el cumplimiento de compromisos institucionales, en forma sistemática y con amplia cobertura;
-
-XII. Atender las solicitudes de prórroga de servicios médicos, aparatos de prótesis, pensión, pago de incapacidades, ayudas para matrimonio, reintegro de gastos, asignaciones familiares, designaciones de representantes de los Consejos Consultivos Regionales y Delegacionales, celebración de convenios, cancelación de créditos o condonación de adeudos por atención médica recibida sin derecho atendiendo a su monto, reingreso a la continuación voluntaria del régimen obligatorio y suspensiones del procedimiento administrativo de ejecución, y
-
-XIII. Representar al Secretario General cuando éste así lo determine.
+(DEROGADO, D.O.F. 19 DE JUNIO DE 2003)
 
 ## TÍTULO CUARTO. DE LOS ÓRGANOS NORMATIVOS DEL INSTITUTO
 
@@ -891,17 +951,23 @@ XIII. Representar al Secretario General cuando éste así lo determine.
 
 La Dirección de Prestaciones Médicas tendrá las facultades siguientes:
 
-I. Planear, dirigir y normar las acciones relacionadas con la prestación de los servicios médicos, atención de los riesgos de trabajo, educación e investigación médica así como evaluar resultados;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+I. Planear, dirigir y normar las acciones relacionadas con la prestación de los servicios médicos, de rehabilitación y de salud pública, atención de los riesgos de trabajo, educación e investigación en salud, así como evaluar sus resultados;
 
 II. Normar la participación institucional en la atención de problemas de salud de la población en general, en coordinación con las dependencias y entidades de la Administración Pública Federal relacionadas con el Sistema Nacional de Salud;
 
-III. Atender los asuntos que le competen, en coordinación con las unidades administrativas a su cargo y los órganos normativos, regionales, delegacionales y operativos;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+III. Atender los asuntos que le competen, en coordinación con las unidades administrativas a su cargo y los órganos normativos, colegiados, de operación administrativa desconcentrada y operativos;
 
 IV. Emitir la normatividad institucional relativa a vigilancia epidemiológica, medicina preventiva, fomento a la salud, salud reproductiva, salud materno infantil, educación médica, investigación médica, salud y seguridad en el trabajo y la prestación de los servicios médicos y de rehabilitación en sus tres niveles de atención;
 
 V. Participar con las demás unidades administrativas y entidades del Sistema Nacional de Salud, en la vigilancia epidemiológica de la población;
 
-VI. Aprobar, previa coordinación con los órganos normativos, regionales y delegacionales, la normatividad y los lineamientos generales y específicos a que se deberá sujetar la construcción, ampliación, remodelación y equipamiento de unidades médicas;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+VI. Aprobar, previa coordinación con los órganos normativos y de operación administrativa desconcentrada competentes, la normatividad y los lineamientos generales y específicos a que se deberá sujetar la construcción, ampliación, remodelación y equipamiento de unidades médicas;
 
 VII. Emitir la normatividad necesaria para la correcta integración y adecuado funcionamiento de la Comisión Institucional de Cuadros Básicos de Insumos para la Salud, así como la de los Comités correspondientes;
 
@@ -917,283 +983,597 @@ XII. Establecer coordinación con las áreas normativas correspondientes, para d
 
 XIII. Establecer, operar y explotar el sistema de información médica, de acuerdo con los lineamientos del Instituto y los del Sistema Nacional de Salud, y
 
-XIV. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XIV. Coordinar, supervisar y evaluar la operación de las Unidades Médicas de Alta Especialidad;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XV. Planear, dirigir y evaluar en coordinación con los órganos normativos competentes, la capacitación y el fomento de la cultura de la calidad relacionada con la prestación de los servicios médicos;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XVI. Emitir lineamientos, en coordinación con los órganos normativos competentes, para mejorar y rediseñar los procesos y sistemas operacionales relativos a la prestación de servicios médicos, así como apoyar la implantación de proyectos de calidad en los servicios de salud;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XVII. Validar en campo los nuevos modelos de organización de servicios de salud, en coordinación con los órganos normativos y de operación administrativa desconcentrada, así como generalizar y normar aquellas acciones de calidad que se compruebe mejoran los procesos correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XVIII. Orientar, capacitar y coadyuvar con los órganos normativos y de operación administrativa desconcentrada competentes, en el desarrollo de propuestas de funciones, normas de operación, nuevos esquemas de funcionamiento y criterios de clasificación de unidades de servicio que garanticen la calidad de los servicios de salud;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XIX. Administrar los proyectos de cambio, orientados a la mejora de la gestión clínica y a la satisfacción del usuario de las prestaciones médicas;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XX. Diseñar y operar, en coordinación con los órganos normativos, de operación administrativa desconcentrada y unidades operativas competentes, un sistema de seguimiento y evaluación de los procesos de atención a la salud;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXI. Normar y promover con la participación de los órganos normativos, de operación administrativa desconcentrada y unidades operativas competentes, las acciones que impulsen la calidad y el mejoramiento de los procesos de atención a la salud, y
+
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende el Director General.
 
 ### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE PRESTACIONES ECONÓMICAS Y SOCIALES
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 77.
 
 La Dirección de Prestaciones Económicas y Sociales tendrá las facultades siguientes:
 
-I. Planear, dirigir y controlar las acciones relacionadas con el otorgamiento de prestaciones económicas y sociales a la población derechohabiente y evaluar sus resultados;
+I. Planear, dirigir y normar las acciones relacionadas con el otorgamiento de las prestaciones en dinero, servicio de guarderías, prestaciones sociales institucionales y otros servicios y prestaciones a su cargo, comprendiendo los ingresos de dichas prestaciones y servicios, y en su caso, evaluar sus resultados;
 
-II. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo y, en su caso, con los órganos normativos, regionales, delegacionales y operativos;
+II. Emitir lineamientos para la administración de los ingresos y recursos que se generen en las unidades operativas de prestaciones sociales institucionales y en las de otros servicios y prestaciones a su cargo;
 
-III. Emitir la normatividad y lineamientos correspondientes al pago de subsidios, ayudas asistenciales, asignaciones familiares, pensiones, ayudas de gastos de funeral y matrimonio, así como los préstamos a cuenta de pensiones y evaluar su aplicación;
+III. Emitir la normatividad, lineamientos, criterios y demás disposiciones para el pago de subsidios, ayudas asistenciales, asignaciones familiares, pensiones, ayudas de gasto de funeral y matrimonio, préstamos a cuenta de pensiones, así como para otorgar el servicio de guarderías y las prestaciones sociales institucionales y otros servicios y prestaciones a su cargo, comprendiendo sus ingresos y, en su caso, evaluar sus resultados;
 
-IV. Vigilar, evaluar y emitir normas relativas a:
+IV. Dictar disposiciones, lineamientos y criterios de observancia general y obligatoria para las instancias y unidades operativas de prestaciones económicas, guarderías, prestaciones sociales institucionales, así como de otras prestaciones a su cargo, y regular la recopilación, evaluación y sistematización de la información que al respecto se genere;
 
-a) La prestación de servicios de guarderías para hijos de aseguradas, su atención educativo asistencial, y la expansión de estos servicios;
+V. Establecer acciones de coordinación y concertación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal o con el sector social y privado que hagan posible el acceso a preferencias, prerrogativas y servicios que contribuyan al bienestar de los derechohabientes de acuerdo con lo que establece la Ley y sus reglamentos en materia de su competencia;
 
-b) El bienestar social, el deporte, y la cultura física de la población;
+VI. Establecer coordinación con los órganos normativos, colegiados, de operación administrativa desconcentrada y operativos para la adecuada aplicación de la normatividad emitida para la operación de las prestaciones en dinero, servicio de guarderías, prestaciones sociales institucionales, y otros servicios y prestaciones a su cargo;
 
-c) La atención a jubilados y pensionados, y
+VII. Establecer coordinación con los órganos normativos, colegiados, de operación administrativa desconcentrada y operativos para la construcción, ampliación, remodelación y equipamiento de las unidades operativas de guarderías, prestaciones sociales institucionales, y otros servicios y prestaciones a su cargo;
 
-d) Los servicios que prestan las tiendas del Instituto Mexicano del Seguro Social-Sindicato Nacional de Trabajadores del Seguro Social, los centros vacacionales, centros de seguridad social, unidades deportivas, teatros y velatorios.
+VIII. Proponer programas orientados a la difusión de las prestaciones y servicios que se encuentran en el ámbito de su competencia;
 
-V. Participar en los programas de bienestar social con otras unidades administrativas del sector público y organismos nacionales e internacionales;
+IX. En coordinación con los órganos normativos competentes, promover e impulsar acciones encaminadas a la mejora continua de los procesos inherentes en las materias de su competencia y a la capacitación del personal para contribuir a su mejor desempeño y ofrecer servicios con eficiencia y calidad, y
 
-VI. Establecer la coordinación con las direcciones respectivas y las direcciones regionales, para la construcción, ampliación, remodelación y equipamiento de unidades operativas, y
+X. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende el Director General.
 
-VII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE AFILIACIÓN Y COBRANZA
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE INCORPORACIÓN Y RECAUDACIÓN DEL SEGURO SOCIAL
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 78.
 
-La Dirección de Afiliación y Cobranza tendrá las facultades siguientes:
+La Dirección de Incorporación y Recaudación del Seguro Social, tendrá las facultades siguientes:
 
-I. Planear, dirigir, controlar y realizar las acciones para el registro de patrones y demás sujetos obligados al régimen del Seguro Social, la afiliación de trabajadores y demás sujetos de aseguramiento, así como evaluar sus resultados;
+I. Establecer políticas, normas y programas en materia de su competencia;
 
-II. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo y, en su caso, con los órganos normativos, regionales, delegacionales y operativos;
+II. Solicitar a las unidades administrativas competentes del Instituto, la información necesaria para el diseño y la evaluación de la política fiscal del Instituto;
 
-III. Vigilar, evaluar y emitir normas relativas a:
+III. Elaborar los proyectos de reglas generales y otras disposiciones en materia de afiliación, clasificación de empresas, información sobre la vigencia de derechos, recaudación y fiscalización del Instituto y someterlos a la aprobación del Consejo Técnico, de conformidad con las normas aplicables;
 
-a) El registro de patrones y demás sujetos obligados;
+IV. Participar con la Dirección Jurídica en el establecimiento de criterios para una adecuada interpretación y aplicación de las disposiciones fiscales competencia del Instituto;
 
-b) La afiliación de trabajadores y demás sujetos de aseguramiento;
+V. Suscribir convenios con los gobiernos Federal, del Distrito Federal, Estatales y Municipales, a efecto de obtener datos e informes en materia de estadística, censal y fiscal competencia del Instituto;
 
-c) El registro de los beneficiarios legales de los asegurados;
+VI. Suscribir convenios, en el ámbito de su competencia, con otras autoridades fiscales nacionales o extranjeras, para el intercambio de información estadística y de conocimientos técnicos;
 
-d) La certificación de la vigencia de derechos para el otorgamiento de las prestaciones en dinero y en especie;
+VII. Coordinar acciones con el sector social y privado, para el intercambio de información relacionada con el cumplimiento de sus atribuciones y, en su caso, suscribir convenios;
 
-e) La emisión de liquidaciones por cuotas obrero patronales, y cuando así proceda, capitales constitutivos, actualización, recargos y multas, así como la notificación y cobro de los mismos;
+VIII. Proponer y coordinar programas de difusión relativos a las obligaciones de los patrones o sujetos obligados y derechos de los trabajadores previstos en la Ley y sus reglamentos;
 
-f) La planeación, programación y realización de visitas domiciliarias, la autocorrección voluntaria e inducida de patrones y el dictamen para efectos del Seguro Social de contador público autorizado;
+IX. Intervenir en los comités y comisiones que expresamente determine el Director General, así como presidir aquellos que sean necesarios para el debido ejercicio de sus facultades, de conformidad con las disposiciones jurídicas aplicables;
 
-g) El establecimiento de metas relativas a la regularización de patrones y trabajadores y a la determinación y recaudación de contribuciones y sus accesorios;
+X. Presentar, de conformidad con la normatividad aplicable, a la consideración del Director General, los programas de estímulos al desempeño de los titulares de las jefaturas de servicios delegacionales y de las subdelegaciones, respecto de las actividades que realicen en materia de afiliación, clasificación de empresas, recaudación y fiscalización;
 
-h) La celebración de convenios para el pago de cuotas, capitales constitutivos, actualización y recargos, así como presentar al Consejo Técnico las propuestas de convenios de aquellas solicitudes que rebasen la competencia de los Consejos Consultivos Regionales.
+XI. Autorizar la implementación de acciones de mejora continua de los procesos competencia de las jefaturas de servicios delegacionales y subdelegaciones en materia de afiliación, clasificación de empresas, recaudación y fiscalización;
 
-Asimismo, podrá ordenar la suspensión de los procedimientos de cobro por trámite de convenio o aclaración de adeudos;
+XII. Ordenar la suspensión del procedimiento administrativo de ejecución, en los casos de trámites de solicitudes de pago diferido o en parcialidades, previo cumplimiento de los requisitos establecidos en el reglamento respectivo, así como en el caso de aclaración administrativa;
 
-i) Los trámites administrativos relativos a la calificación, aceptación, control, efectividad y cancelación de pólizas de fianza otorgadas en garantía de créditos fiscales en favor del Instituto;
+XIII. Ordenar la práctica de visita domiciliaria, así como la revisión sin que medie ésta, con el personal que al efecto designe y requerir la exhibición de libros y documentos a fin de comprobar el cumplimiento de las obligaciones que establece la Ley y demás disposiciones aplicables;
 
-j) La incorporación voluntaria al régimen obligatorio de los sujetos que precisa la Ley;
+XIV. Presentar para aprobación del Consejo Técnico, las normas y bases para cancelar los créditos derivados de contribuciones y aprovechamientos, cuyo cobro tenga encomendado, por incosteabilidad en su cobro, por incobrabilidad o insolvencia del deudor o de los responsables solidarios;
 
-k) La imposición y el cobro de las multas impuestas por infracciones a la Ley y sus reglamentos, así como su administración tendiente a modernizar los esquemas de incentivos de productividad en la recaudación;
+XV. Consolidar los informes que las unidades administrativas de esta Dirección, rindan en cumplimiento a las observaciones, recomendaciones y solicitudes de información, derivados de los actos de fiscalización practicados por órganos revisores;
 
-l) La incorporación al régimen voluntario del Seguro Social, mediante el seguro de salud para la familia;
+XVI. Presentar a la consideración de la Dirección Jurídica, los asuntos en los que se estime deba formularse querella, por considerarse que se cometió un delito en contra de los regímenes del Seguro Social, acompañando la cuantificación del perjuicio sufrido por el Instituto;
 
-m) La cancelación por incobrabilidad de créditos fiscales a favor del Instituto, así como presentar los casos que se deban someter a consideración del Consejo Técnico, cuando por su importancia, trascendencia o cuantía así lo ameriten;
+XVII. Imponer, en su caso, las sanciones a que se refiere la Ley y su Reglamento en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización;
 
-n) La continuación voluntaria en los seguros conjuntos de invalidez y vida y de retiro, cesantía en edad avanzada y vejez;
+XVIII. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo, órganos normativos, de operación administrativa desconcentrada y operativos, y
 
-o) La contratación de seguros adicionales;
+XIX. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende el Director General.
 
-p) La certificación de la vigencia y conservación de derechos para el otorgamiento de las prestaciones médicas en los casos de baja o huelga, y
+La Dirección de Incorporación y Recaudación del Seguro Social, será auxiliada en el cumplimiento de sus atribuciones por las Unidades de Planeación y Estrategias de Recaudación; de Incorporación al Seguro Social y la de Fiscalización y Cobranza.
 
-q) La formalización del inicio de operaciones de servicios institucionales en municipios en los cuales aún no opera la obligatoriedad del Seguro Social, mediante la integración de los estudios correspondientes para su aprobación por parte del Consejo Técnico.
+Las facultades conferidas por este Reglamento a las Unidades adscritas a la Dirección de Incorporación y Recaudación del Seguro Social podrán ser ejercidas por el Titular de la Dirección.
 
-Independientemente de lo anterior, podrá llevar a cabo directamente o a través de sus Coordinaciones, las funciones y atribuciones a que se refieren los incisos anteriores, para lo cual podrán interactuar con las Delegaciones o Subdelegaciones correspondientes, para su ejercicio en los términos que establecen la Ley y sus reglamentos;
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-IV. Por conducto de la Coordinación de Auditoría a Patrones, podrá ejercer las siguientes atribuciones:
+ARTÍCULO 78 A. La Unidad de Planeación y Estrategias de Recaudación tendrá las facultades siguientes:
 
-a) Ordenar y practicar visitas domiciliarias con el personal que al efecto designe y requerir la exhibición de libros y documentos a fin de comprobar el cumplimiento de las obligaciones que establece la Ley y demás disposiciones aplicables;
+I. Diseñar políticas y programas relacionados con las funciones de su competencia y someterlos, previamente a su instrumentación, a la aprobación del Director de Incorporación y Recaudación del Seguro Social;
 
-b) Determinar la existencia, contenido y alcance de las obligaciones incumplidas por los patrones, aplicando en su caso, los datos con los que cuente o con apoyo en los hechos que conozca con motivo del ejercicio de las facultades de comprobación, o bien a través de los expedientes o documentos proporcionados por otras autoridades fiscales;
+II. Proponer, para la aprobación del Director de Incorporación y Recaudación del Seguro Social, los lineamientos de la política de afiliación, clasificación de empresas, recaudación y fiscalización del Instituto, en lo referente a las cuotas obrero patronales y aprovechamientos, en coordinación con las unidades competentes del Instituto, así como de otras dependencias y entidades de la Administración Pública Federal;
 
-c) Suscribir convenios con los Gobiernos Federal, Estatales y Municipales, a efecto de obtener datos e informes en materia de estadística, censal y fiscal, que le permitan lograr un mejor desarrollo de su función fiscalizadora;
+III. Analizar la actividad y condiciones económicas generales del país y realizar estudios que sirvan al Instituto como marco de referencia para formular su política de afiliación, clasificación de empresas, recaudación y fiscalización del Instituto, así como prever su impacto en las finanzas del Instituto;
 
-d) Imponer las sanciones a que se refiere el Reglamento para el Pago de Cuotas del Seguro Social;
+IV. Analizar y evaluar las repercusiones económicas y financieras de la política de afiliación, clasificación de empresas, recaudación y fiscalización del Instituto, así como diseñar y administrar un sistema de estadística al respecto, en coordinación con las unidades administrativas competentes del Instituto, y proponer las medidas correspondientes;
 
-e) Proponer, difundir y ejecutar los programas especiales de regularización de patrones, para su aplicación en el ámbito central y en las áreas de Auditoría a Patrones de las Delegaciones y Subdelegaciones del Instituto;
+V. Participar, en el ámbito de su competencia, con las unidades administrativas competentes del Instituto, en la formulación de los anteproyectos de Presupuestos de Ingresos y de Egresos del Instituto para cada ejercicio presupuestal, así como en la elaboración del estado de ingresos y gastos que anualmente el Director General presente a la consideración del Consejo Técnico;
 
-f) Proponer y ejecutar permanentemente programas de difusión relativos a las obligaciones de los patrones y derechos de los trabajadores previstos en la Ley y sus reglamentos;
+VI. Participar con la Dirección de Planeación y Finanzas en la elaboración del proyecto de presupuesto de cuotas, contribuciones y aportaciones del Gobierno Federal, relativas al financiamiento de los regímenes del Seguro Social;
 
-g) Planear, dirigir y evaluar la capacitación técnica del personal de las Delegaciones y Subdelegaciones de las áreas de Auditoría a Patrones;
+VII. Evaluar el cumplimiento de las metas relativas a la recaudación de cuotas obrero patronales, sus accesorios y demás créditos a que se refiere el artículo 287 de la Ley;
 
-h) Autorizar avisos para dictaminar y revisar los dictámenes formulados por contadores públicos, para efectos del Seguro Social y emitir las resoluciones respectivas;
+VIII. Elaborar estudios actuariales, financieros y de infraestructura de servicios, en materia competencia de la Dirección de Incorporación y Recaudación del Seguro Social; así como colaborar con las demás unidades administrativas del Instituto en la elaboración de los estudios que incidan en las materias facultad de la Dirección de Incorporación y Recaudación del Seguro Social;
 
-i) Autorizar y controlar las solicitudes para el registro de contadores públicos autorizados;
+IX. Evaluar el efecto recaudatorio de las reformas que se propongan a la Ley, sus reglamentos y demás disposiciones;
 
-j) Aprobar los nombramientos, sustitución, rotación y, en general, movimientos relativos a jefes Delegacionales y Subdelegacionales, así como de personal operativo de las áreas de Auditoría a Patrones, y
+X. Establecer la forma y términos en que las Jefaturas de Servicios Delegacionales y Subdelegaciones, deberán reportar los resultados de la operación en materia de afiliación, clasificación de empresas, recaudación y fiscalización, en el ámbito de su circunscripción territorial;
 
-k) Proponer y autorizar los perfiles de puestos que deben reunir los Jefes Delegacionales y Subdelegacionales, así como el personal operativo de las áreas de Auditoría a Patrones.
+XI. Coordinar con las unidades administrativas competentes de la Dirección, el diseño de los formatos que deben usar los patrones y demás sujetos obligados para el cumplimiento de sus obligaciones;
 
-V. Determinar la metodología para el otorgamiento de estímulos de productividad a Subdelegados, así como evaluar los perfiles para el nombramiento de Subdelegados y Jefes de Afiliación y Cobranza, oyendo la opinión del Director Regional que corresponda, además de:
+XII. Elaborar conjuntamente con el área competente de la Dirección de Incorporación y Recaudación del Seguro Social, los estudios o análisis de los procesos, para evaluar, determinar, desarrollar e implementar, acciones de mejora continua de los servicios competencia de las Jefaturas de Servicios Delegacionales y Subdelegaciones, respecto de las actividades que realicen en materia de afiliación, clasificación de empresas, recaudación y fiscalización;
 
-a) Coordinar acciones con órganos normativos, regionales, delegacionales y operativos, así como con dependencias y entidades extrainstitucionales, para atender cualquier aspecto relacionado con las subdelegaciones;
+XIII. Solicitar a las Jefaturas de Servicios Delegacionales y Subdelegaciones, así como a las Oficinas para Cobros, la información necesaria para la evaluación y el diseño de los programas de la misma, a fin de contar con elementos para apoyar la toma de decisiones y participar en el desarrollo de sistemas estadísticos;
 
-b) Consolidar informes de avances a las observaciones determinadas por la Contraloría Interna, y
+XIV. Consolidar los informes que las unidades administrativas dependientes de la Unidad rindan en el cumplimiento de las observaciones, recomendaciones y solicitudes de información, derivados de los actos de fiscalización practicados por órganos revisores;
 
-c) Evaluar los estudios y gestionar, en su caso, la reclasificación o autorización de creación de nuevas subdelegaciones.
+XV. Diseñar los sistemas de registro de la recaudación de ingresos y de control del trámite de cobro de los créditos fiscales a favor del Instituto, y
 
-Estas atribuciones serán ejercidas directamente por el Director de Afiliación y Cobranza o por el coordinador en quien delegue tal función.
+XVI. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende el Director de Incorporación y Recaudación del Seguro Social.
 
-VI. Colaborar en la realización de los estudios actuariales, financieros y de infraestructura de servicios, relativos a la incorporación voluntaria al régimen obligatorio, así como a la incorporación al régimen voluntario mediante el seguro de salud para la familia y la contratación de seguros adicionales;
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-VII. Colaborar en la realización de los estudios financieros y de infraestructura de servicios, en lo relativo a la formalización de la obligatoriedad del Seguro Social en todo el territorio nacional;
+ARTÍCULO 78 B. La Unidad de Incorporación al Seguro Social tendrá las facultades siguientes:
 
-VIII. Determinar, emitir y notificar las liquidaciones de cuotas para el seguro de retiro, cesantía en edad avanzada y vejez, conjuntamente con las aportaciones y descuentos del Fondo Nacional de la Vivienda;
+I. Establecer las políticas, normas, criterios y programas que deben seguir las unidades administrativas competentes, en las materias siguientes:
 
-IX. Elaborar, conjuntamente con las áreas correspondientes, la normatividad relativa a la reversión de cuotas para los seguros establecida en la Ley;
+a) Registro y control de patrones y demás sujetos obligados.
 
-X. Controlar la aplicación de los números de seguridad social, o la Clave Única de Registro de Población, que se asignen a los asegurados de los diversos organismos de seguridad social del país, para efectos de la apertura y control de las cuentas individuales del seguro de retiro, cesantía en edad avanzada y vejez;
+b) Inscripción y control de trabajadores y demás sujetos de aseguramiento.
 
-XI. Participar en la elaboración de los convenios relativos a la incorporación voluntaria al régimen obligatorio; del seguro de salud para la familia, así como a la regularización de la afiliación de los sujetos de aseguramiento de dicho régimen, en los términos que establece la Ley y sus reglamentos;
+c) Registro y control de los beneficiarios legales de los asegurados.
 
-XII. Coordinar, con las dependencias correspondientes, la integración y actualización de la Base de Datos para la emisión conjunta de cédulas de determinación de las cuotas y aportaciones del Sistema de Ahorro para el Retiro.
+d) Incorporación voluntaria al régimen obligatorio de los sujetos que precisa la Ley.
 
-Asimismo, coordinar con las dependencias correspondientes y entidades participantes en el Sistema de Ahorro para el Retiro, la entrega de la información derivada de la recepción y conciliación de pagos, concentración de recursos e individualización de cuentas de dicho Sistema;
+e) Incorporación al régimen voluntario del seguro social, mediante el Seguro de Salud para la Familia.
 
-XIII. Participar, con las dependencias competentes, en la definición de los requisitos que deberán satisfacer las entidades receptoras de cuotas y aportaciones del Sistema de Ahorro para el Retiro, así como en la autorización de dichas entidades receptoras;
+f) Continuación voluntaria en los seguros conjuntos de Invalidez y Vida, y de Retiro, Cesantía en Edad Avanzada y Vejez.
 
-XIV. Participar, con las dependencias competentes, en la elaboración de la normatividad relativa a los sistemas de información que las entidades receptoras deberán utilizar en relación a la recepción de pagos de las cuotas y aportaciones del Sistema de Ahorro para el Retiro, así como llevar a cabo la autorización, evaluación y vigilancia de dichos sistemas;
+g) Contratación de seguros adicionales.
 
-XV. Participar en la elaboración de los convenios relativos al establecimiento de modalidades especiales para la afiliación y pago de cuotas de grupos cuyas características especiales así lo ameriten;
+h) Clasificación de empresas y la determinación de la prima para la cobertura del seguro de riesgos de trabajo, así como sobre la imposición de las sanciones en términos de las disposiciones aplicables.
 
-XVI. Emitir opinión en aquellos asuntos, que por su importancia y trascendencia lo requieran, referidos a la imposición de sanciones en términos del Reglamento para la Imposición de Multas por Infracción a las Disposiciones de la Ley y sus reglamentos, y
+i) Emisión de propuestas de cédulas de determinación.
 
-XVII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+j) Certificación sobre la vigencia de derechos para el otorgamiento de las prestaciones en especie y en dinero.
+
+k) Aplicación de los números de seguridad social.
+
+II. Coordinar la integración y actualización del registro de patrones, inscripción de trabajadores y registro de beneficiarios, así como de los demás registros necesarios para el cumplimiento de las funciones de la Dirección de Incorporación y Recaudación del Seguro Social;
+
+III. Colaborar en la realización de los estudios actuariales, financieros y de infraestructura de servicios, relativos a la incorporación voluntaria al régimen obligatorio, así como a la incorporación al régimen voluntario mediante el Seguro de Salud para la Familia y la contratación de seguros adicionales;
+
+IV. Participar, en el ámbito de su competencia, en el proceso de asignación de la Clave Única de Registro de Población;
+
+V. Coordinar, con las dependencias y entidades competentes, la integración y actualización de la base de datos para la emisión conjunta de cédulas de determinación de las cuotas obrero patronales y aportaciones del Sistema de Ahorro para el Retiro, así como dictámenes y resoluciones de rectificación de clase, fracción y prima para la cobertura del seguro de riesgos de trabajo;
+
+VI. Proporcionar a las autoridades y dependencias señaladas en las disposiciones legales aplicables, la información y datos de los patrones y trabajadores registrados en las bases de datos del Instituto;
+
+VII. Establecer los criterios y lineamientos para la elaboración de los convenios relativos a la incorporación voluntaria al régimen obligatorio y del Seguro de Salud para la Familia, en los términos que establece la Ley y sus reglamentos;
+
+VIII. Proponer a la Unidad de Planeación y Estrategias de Recaudación los formatos oficiales relacionados con los asuntos de su competencia;
+
+IX. Participar en la elaboración de los convenios o esquemas relativos al establecimiento de modalidades especiales para la inscripción y pago de cuotas de grupos cuyas características especiales así lo ameriten;
+
+X. Participar en la formulación, en la materia de su competencia, de los convenios y acuerdos de coordinación con autoridades fiscales y evaluar sus resultados;
+
+XI. Coordinar, con las dependencias correspondientes y entidades participantes en el Sistema de Ahorro para el Retiro, la entrega de la información derivada de la recepción y conciliación de pagos, concentración de recursos e individualización de cuentas de dicho Sistema;
+
+XII. Participar con las dependencias competentes en la definición de los requisitos que deberán satisfacer las entidades receptoras de cuotas y aportaciones del Sistema de Ahorro para el Retiro;
+
+XIII. Coadyuvar con las dependencias competentes, en la elaboración de la normatividad relativa a los sistemas de información que las entidades receptoras deberán utilizar en relación a la recepción de pagos de las cuotas y aportaciones del Sistema de Ahorro para el Retiro;
+
+XIV. Aplicar las penas convencionales a las entidades receptoras por observaciones detectadas por la Comisión Nacional de los Sistemas de Ahorro para el Retiro, en el ámbito de su competencia;
+
+XV. Cuantificar, conforme a las disposiciones aplicables, los importes de las comisiones a cobrar por los servicios que preste el Instituto a las Administradoras de Fondos para el Retiro y al Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+
+XVI. Actualizar, conforme a las disposiciones aplicables, la comisión por los servicios que el Instituto preste al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, por la emisión y notificación de las propuestas de determinación por las aportaciones y descuentos del Fondo Nacional de la Vivienda, así como por el servicio de recaudación que proporcionan las entidades receptoras;
+
+XVII. Prestar a los patrones o sujetos obligados y a los trabajadores los servicios de asistencia en el cumplimiento de sus obligaciones fiscales y coordinar las acciones que correspondan con el sector social y privado, para el intercambio de información relacionada con el cumplimiento de sus atribuciones;
+
+XVIII. Someter a la consideración del Director de Incorporación y Recaudación del Seguro Social, los asuntos respecto de los cuales se presuma la comisión de delitos en contra de los regímenes del Seguro Social, en la materia de su competencia;
+
+XIX. Consolidar los informes que las unidades administrativas dependientes de la Unidad, rindan en el cumplimiento de las observaciones, recomendaciones y solicitudes de información, derivados de los actos de fiscalización practicados por órganos revisores;
+
+XX. Proponer a la Dirección de Incorporación y Recaudación del Seguro Social, la difusión y ejecución de programas especiales de regularización de patrones, para su aplicación en el ámbito central y por las Subdelegaciones;
+
+XXI. Proponer y apoyar en las campañas de difusión en materia fiscal, la edición y distribución de cualquier medio impreso y electrónico en la propia materia, y
+
+XXII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende el Director de Incorporación y Recaudación del Seguro Social.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 78 C. La Unidad de Fiscalización y Cobranza tendrá las facultades siguientes:
+
+I. Establecer las políticas, normas, criterios y programas que deben seguir las unidades administrativas competentes, en las materias siguientes:
+
+a) Registro y control de los créditos fiscales a favor del Instituto.
+
+b) Notificación de las liquidaciones de cuotas, capitales constitutivos, sus accesorios legales, multas, gastos por inscripciones improcedentes, así como gastos por atención de personas no derechohabientes. Asimismo, la notificación conjunta de las cédulas de liquidación de cuotas del Seguro de Retiro, Cesantía en Edad Avanzada y Vejez, y de Aportaciones y Descuentos del Fondo Nacional de la Vivienda.
+
+c) Aplicación del procedimiento administrativo de ejecución de conformidad a las disposiciones aplicables.
+
+d) Trámite de las solicitudes de autorización para el pago diferido o en parcialidades de créditos fiscales, en términos de la Ley.
+
+e) Trámites administrativos relativos a la calificación, aceptación, control, efectividad y cancelación de pólizas de fianza, otorgadas en garantía de créditos fiscales a favor del Instituto, así como la integración del expediente, la notificación del requerimiento a la afianzadora y el trámite de la solicitud de remate de valores.
+
+f) Devolución de cantidades enteradas sin justificación legal.
+
+g) Condonación de multas impuestas por incumplimiento del pago de créditos fiscales y sus accesorios legales, en términos de la Ley y demás disposiciones aplicables.
+
+h) Trámite para la cancelación por incobrabilidad e incosteabilidad de créditos fiscales a favor del Instituto.
+
+i) Declaratoria de prescripción de créditos fiscales, en los términos de la Ley y demás disposiciones aplicables.
+
+j) Planeación, programación y realización de visitas domiciliarias, la corrección patronal, el dictamen sobre el cumplimiento de las obligaciones patronales ante el Instituto por contador público autorizado y la revisión, sin que medie visita domiciliaria, en términos de la Ley y demás disposiciones aplicables.
+
+k) Celebración de convenios de pago de las cuotas a cargo de patrones de la industria de la construcción, conforme a lo previsto en el artículo 15 B de la Ley.
+
+l) Práctica de investigaciones relativas a la determinación de sustitución patronal y responsabilidad solidaria.
+
+m) Emisión de cédulas de liquidación por cuotas obrero patronales, capitales constitutivos, actualización, recargos, multas y gastos por inscripciones improcedentes o por servicios a personas no derechohabientes.
+
+n) Trámite de las propuestas de dación en pago de bienes, fuera de la aplicación del procedimiento administrativo de ejecución, en los términos que apruebe el Consejo Técnico del Instituto.
+
+II. Participar con la Unidad de Planeación y Estrategias de Recaudación, en el diseño de los sistemas de registro de la recaudación de ingresos y de control del trámite de cobro de los créditos fiscales a favor del Instituto;
+
+III. Proponer al Director de Incorporación y Recaudación del Seguro Social, las normas y bases para cancelar los créditos derivados de contribuciones y aprovechamientos, cuyo cobro tenga encomendado, por incosteabilidad en su cobro, por incobrabilidad o insolvencia del deudor o de los responsables solidarios;
+
+IV. Ordenar la suspensión del procedimiento administrativo de ejecución, en los casos de trámites de solicitudes de pago diferido o en parcialidades, así como en el caso de aclaración administrativa;
+
+V. Diseñar los formatos oficiales relacionados con los asuntos de su competencia;
+
+VI. Solicitar el pago de cuotas con cargo a las participaciones por ingresos federales, que corresponden al Distrito Federal, los Estados y Municipios, cuando se haya celebrado con éstos, convenio para la Incorporación Voluntaria al Régimen Obligatorio del Seguro Social de los trabajadores de las dependencias y entidades al servicio de las administraciones públicas del Distrito Federal, estatales o municipales;
+
+VII. Elaborar con el área competente de la Dirección Jurídica, las normas y políticas para determinar asuntos respecto de los cuales se presuma la comisión de delitos en contra de los regímenes del Seguro Social, en la materia de su competencia;
+
+VIII. Someter a la consideración del Director de Incorporación y Recaudación del Seguro Social los asuntos respecto de los cuales se presuma la comisión de delitos en contra de los regímenes del Seguro Social, en la materia de su competencia;
+
+IX. Designar los peritos contables que se requieran para la formulación de los dictámenes técnicos;
+
+X. Coordinar y mantener actualizado el registro de contadores públicos autorizados a dictaminar para efectos del Seguro Social; autorizar el registro de dichos contadores; requerir la documentación e información necesaria para comprobar que cumplan con los requisitos exigidos para dictaminar, así como imponer a dichos contadores públicos, en su caso, las sanciones administrativas establecidas en el Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización;
+
+XI. Participar en la formulación, en materia de su competencia, de los convenios y acuerdos de coordinación con las autoridades fiscales y evaluar sus resultados;
+
+XII. Consolidar los informes que las unidades administrativas dependientes de la Unidad, rindan en el cumplimiento de las observaciones, recomendaciones y solicitudes de información, derivados de los actos de fiscalización practicados por órganos revisores, y
+
+XIII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende el Director de Incorporación y Recaudación del Seguro Social.
 
 ### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE PLANEACIÓN Y FINANZAS
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 79.
 
 La Dirección de Planeación y Finanzas tendrá las facultades siguientes:
 
-REFORMADA, D.O.F. 13 DE OCTUBRE DE 1999)
+I. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo y, en su caso, con los órganos normativos colegiados, de operación administrativa desconcentrada y operativos;
 
-I. Planear, dirigir y controlar la administración del marco financiero del Instituto, así como la concentración y dispersión de fondos y pagos;
+II. Elaborar y proponer a la Dirección General los planes estratégicos del Instituto para la administración de los seguros;
 
-II. Elaborar el presupuesto de ingresos y egresos para cada ejercicio presupuestal, el balance contable, el estado de ingresos y gastos que se presenten al Consejo Técnico anualmente por el Director General, así como el balance actuarial trianual;
+III. Evaluar el funcionamiento de los seguros administrados por el Instituto, realizar estudios financieros relativos a la prestación de los servicios y coordinar la ejecución de acciones que de éstos se deriven;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+IV. Realizar estudios y análisis de los seguros del Seguro Social, para conocer la suficiencia de las primas, los recursos de cada uno de los mismos y la medición de los riesgos que enfrentan;
 
-III. Presupuestar los sueldos, prestaciones y los conceptos relativos a servicios generales;
+V. Elaborar y aplicar métodos de valuación actuarial adecuados a los regímenes financieros que se adopten en los esquemas de seguridad social, y evaluar diferentes opciones de desarrollo del Instituto a través de técnicas y modelos matemáticos;
 
-IV. (DEROGADA, D.O.F. 13 DE OCTUBRE DE 1999)
+VI. Llevar a cabo la planeación y la evaluación financiera del Instituto;
 
-V. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo, y en su caso, con los órganos normativos, regionales, delegacionales y operativos;
+VII. Elaborar anualmente, en forma previa al inicio del ejercicio fiscal, el Programa de Administración y Constitución de Reservas, con base en el proyecto de presupuesto para el siguiente ejercicio y en los estudios financieros y actuariales que se presenten cada año a la Asamblea General, así como confirmarlo o adecuarlo una vez que se conozca el presupuesto de gastos definitivo del Instituto;
 
-VI. Evaluar, vigilar y emitir normas respecto del trámite de erogaciones, control de egresos y control de bienes inventariables;
+VIII. Proponer al Director General las proyecciones financieras que contengan los montos para respaldar con activos financieros las Reservas Operativas del Seguro o Cobertura que requiere el financiamiento, con la Reserva de Operación para Contingencias y Financiamiento;
 
-VII. Desarrollar, mantener, mejorar y operar el sistema de información ejecutiva, así como analizar y difundir la información estadística del Instituto;
+IX. Proponer al Director General el uso de las Reservas Financieras y Actuariales de cada seguro, así como la utilización del Fondo para el Cumplimiento de Obligaciones Laborales de Carácter Legal y Contractual;
 
-VIII. Vigilar, evaluar y aplicar normas respecto de los sistemas contables y de control del patrimonio inmobiliario del Instituto;
+X. Proponer al Director General para autorización del Consejo Técnico el catálogo de cuentas, el manual de contabilización y del ejercicio del gasto, y las reglas de carácter general para la distribución de costos;
 
-IX. Normar, regular, controlar y evaluar los usos y destinos de los inmuebles y reservas técnicas inmobiliarias, así como su administración;
+XI. Normar la operación relativa a la concentración y dispersión de los recursos financieros y esquemas de pago de los compromisos institucionales; a nivel nacional, con excepción de las funciones específicamente asignadas a la Unidad de Inversiones Financieras;
 
-X. Realizar estudios financieros relativos a la prestación de servicios y coordinar la ejecución de acciones que de éstos se deriven;
+XII. Celebrar, a nivel nacional, convenios relativos a la contratación de los servicios bancarios y, en su caso, autorizar a las unidades administrativas del Instituto a que celebren dichos convenios de manera específica;
 
-XI. Normar y controlar las acciones de adquisición de inmuebles que el Instituto requiera para la prestación de sus servicios y de los que se incorporen al patrimonio inmobiliario por otros conceptos, así como la venta de inmuebles propiedad del Instituto, que por no requerirse para uso institucional, forman parte del programa de ventas;
+XIII. Celebrar y, en su caso, autorizar convenios con instituciones de crédito a efecto de poner en operación procedimientos de descuento de documentos y financiamiento a proveedores del Instituto;
 
-XII. Normar y controlar las acciones de contratación en arrendamiento de los inmuebles que el Instituto requiere para la prestación de sus servicios, así como la comercialización de espacios para servicios complementarios en las unidades de servicio institucional;
+XIV. Proponer anualmente al Director General los montos máximos para la contratación de líneas de crédito para cartas de crédito, coberturas cambiarias y compromisos análogos que se soliciten a la Secretaría de Hacienda y Crédito Público;
 
-XIII. Proponer el modelo de planeación del Instituto a mediano y largo plazos;
+XV. Difundir, verificar y evaluar la política inmobiliaria del Instituto, de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables y los acuerdos del Consejo Técnico, excepto en aquellos aspectos que de acuerdo a este Reglamento estén encomendados a otras unidades administrativas del propio Instituto;
 
-XIV. Integrar los programas de mediano y largo plazos del Instituto, a partir de los lineamientos que para la prestación de los servicios definan sus órganos superiores y someterlos a la aprobación de la Dirección General y evaluar sus resultados;
+XVI. Normar la administración de riesgos institucionales, así como evaluar, vigilar y emitir normas respecto de la protección de activos del Instituto mediante la contratación de pólizas de seguros y fianzas, con excepción de aquellos que de conformidad con este Reglamento sea competencia de otras unidades administrativas del Instituto;
 
-XV. Realizar estudios y análisis de los diversos ramos del Seguro Social, para conocer la suficiencia de las primas y de los recursos de cada uno de los mismos;
+XVII. Elaborar los estados financieros, el informe financiero y actuarial y la información respectiva para su integración en la Cuenta de la Hacienda Pública Federal, que se presenten a entidades internas y externas del Instituto;
 
-XVI. Normar, regular y controlar la administración de riesgos institucionales, así como evaluar, vigilar y emitir normas respecto de la protección de activos del Instituto mediante la contratación de pólizas de seguros y fianzas;
+XVIII. Desarrollar, mantener y operar el sistema de información directiva, así como difundir la información estadística del Instituto;
 
-XVII. Elaborar y aplicar métodos de valuación actuarial adecuados a los regímenes financieros que se adopten en los esquemas de seguridad social, y evaluar diferentes opciones de desarrollo del Instituto a través de técnicas y modelos matemáticos, y
+XIX. Elaborar el anteproyecto de presupuesto de ingresos y egresos; ambos por seguro y capítulo, para someterlos a la consideración del Director General para su posterior aprobación por parte del Consejo Técnico;
 
-XVIII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+XX. Elaborar la evaluación trimestral del ejercicio presupuestal y las propuestas de modificación al presupuesto que se presenten a las diversas entidades;
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+XXI. Asignar y comunicar el presupuesto anual a todas las unidades responsables del gasto, conforme a los lineamientos que la Dirección haya expedido para este fin, con base al nivel de gasto autorizado por el Consejo Técnico, así como otorgar los oficios de inversión para su conformación y ejercicio;
 
-### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE ADMINISTRACIÓN, ORGANIZACIÓN Y CALIDAD
+XXII. Formular y levantar los pliegos preventivos de responsabilidades a que se refieren el Capítulo V de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y el Título Quinto, Capítulo IV de su Reglamento, a los servidores públicos adscritos al Instituto que incurran en alguna irregularidad con motivo de sus funciones y que causen un daño o perjuicio al patrimonio del mismo, tratándose de los órganos normativos del Instituto, y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+XXIII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende el Director General.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE JUNIIO DE 2003)</small>
+
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y CALIDAD
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 80.
 
-La Dirección de Administración, Organización y Calidad tendrá las facultades siguientes:
+La Dirección de Administración y Calidad tendrá las facultades siguientes:
 
-I. Planear, dirigir y controlar las acciones referidas a los recursos humanos y materiales del Instituto, los procesos de abastecimiento, obras, conservación y servicios generales, así como vigilar la estricta observancia de la normatividad aplicable en cada caso y evaluar sus resultados;
+I. Planear, programar, dirigir, controlar y, en su caso, llevar a cabo los procesos de administración, adquisición o suministro de los recursos materiales, servicios generales, conservación y los demás servicios de carácter administrativo que sean necesarios para la adecuada operación del Instituto, en los términos que acuerde el Consejo Técnico;
 
-II. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo y con los órganos normativos, regionales, delegacionales y operativos;
+II. Emitir, en los términos de las disposiciones legales aplicables, los lineamientos, bases y normas específicas para la contratación de adquisiciones, arrendamientos y servicios, así como de obra pública y servicios relacionados con la misma;
 
-III. Vigilar, evaluar y emitir normas relativas a:
+III. Atender los asuntos que le competen en coordinación con los órganos colegiados, normativos, de operación administrativa desconcentrada y operativos;
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+IV. Difundir y, en su caso, evaluar el cumplimiento de la normatividad relativa a:
 
-a) La administración de sueldos y prestaciones;
+a) La adquisición de bienes de consumo e inversión y la contratación de servicios del Instituto.
 
-b) La planeación y dotación de fuerza de trabajo;
+b) La conservación de equipos, inmuebles e instalaciones.
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+c) La administración, suministro, prestación y racionalización de los servicios generales.
 
-c) El otorgamiento de becas al personal, así como la capacitación promocional en los términos que se establecen en el Contrato Colectivo de Trabajo y en los reglamentos respectivos;
+d) La contratación de obra pública y los servicios relacionados con la misma.
 
-d) El trámite administrativo de finiquitos;
+V. Contratar o elaborar, en su caso, proyectos de construcción y equipamiento;
 
-e) El abastecimiento de bienes de consumo e inversión del Instituto;
+VI. Aplicar la normatividad y coordinar las acciones inherentes a la higiene, aprovechamiento y clasificación de desechos;
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+VII. Emitir la normatividad para la administración de los inmuebles institucionales, en materia de conservación, mantenimiento y prestación de servicios generales;
 
-f) El mantenimiento y operación de equipos, inmuebles e instalaciones, y
+VIII. Ejecutar los programas de reordenamiento y optimización de espacios institucionales que corresponden a los inmuebles de nivel central, en los términos aprobados por el Consejo Técnico;
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+IX. Administrar los inmuebles en el nivel central, así como someter a la aprobación del Órgano Normativo competente, los permisos de uso de espacios disponibles en inmuebles institucionales y, en su caso, suscribir los mismos;
 
-g) La administración, suministro, prestación y racionalización de los servicios generales.
+X. Emitir la normatividad y coadyuvar en la implantación de proyectos de cambio en los procesos y el establecimiento de prácticas administrativas que contribuyan a mejorar la calidad de los servicios institucionales, con excepción de aquellas unidades administrativas que de acuerdo con el presente Reglamento, tengan atribuida esta facultad;
 
-IV. Llevar las relaciones contractuales laborales del Instituto, incluyendo la de rescisión de la relación laboral de los trabajadores adscritos a los órganos normativos, así como resolver respecto de las solicitudes de reconsideración de la rescisión de la relación laboral que les sean presentadas por el Sindicato Nacional de Trabajadores del Seguro Social, por los órganos normativos, por los órganos regionales y por los delegados, oyendo previamente la opinión de los directores regionales;
+XI. Administrar, en su caso, los recursos financieros asignados a los proyectos de cambio, orientados a la satisfacción del usuario;
 
-V. Normar, coordinar, evaluar y supervisar:
+XII. Emitir los lineamientos, en coordinación con los órganos normativos competentes, para el diseño, elaboración y registro de la normatividad institucional, manuales y demás documentos administrativos, y
 
-a) La elaboración de proyectos de construcción y equipamiento;
+XIII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende el Director General.
 
-b) Los procesos de obras, y
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-c) La conservación de bienes inmuebles.
+### CAPÍTULO QUINTO A. A DE LA DIRECCIÓN DE DESARROLLO DE PERSONAL Y ORGANIZACIÓN
 
-VI. Aplicar la normatividad y coordinar las acciones inherentes a la higiene, aprovechamiento y clasificación de desechos, y
+> <small>(ADICIONADO. D.O.F. 19 DE JUNIO DE 2003)</small>
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+ARTÍCULO 80 A. La Dirección de Desarrollo de Personal y Organización tendrá las facultades siguientes:
 
-VII. Normar, conducir y sancionar la actualización de instrumentos legales en materia de organización institucional, en coordinación con las dependencias normativas y la Dirección Jurídica, y someter a la consideración de la Dirección General las propuestas resultantes;
+I. Planear, programar, normar y controlar el gasto en materia de servicios personales, así como determinar, en coordinación con los órganos normativos, las políticas, directrices y criterios en materia de recursos humanos;
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+II. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo y con los órganos normativos, de operación administrativa desconcentrada y operativos;
 
-VIII. Orientar, capacitar y coadyuvar con los órganos normativos y unidades administrativas del Instituto, en el desarrollo de propuestas de estructuras orgánicas, funciones, normas de operación, nuevos esquemas de funcionamiento y criterios de clasificación de delegaciones y unidades de servicio que garanticen la calidad de los servicios;
+III. Elaborar el anteproyecto de presupuesto de servicios personales, así como de las obligaciones establecidas por Ley y Contrato Colectivo de Trabajo, para someterlos a la consideración del Director General para su posterior aprobación por parte del Consejo Técnico;
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+IV. Difundir y, en su caso, evaluar el cumplimiento de la normatividad relativa a:
 
-IX. Emitir lineamientos normativos para el mejoramiento y rediseño de los procesos y sistemas relativos a administración de recursos humanos, abastecimiento, construcción, conservación, equipamiento, servicios generales y prestación de servicios médicos, así como identificar, en coordinación con las dependencias involucradas, áreas de oportunidad para la utilización óptima de los recursos y apoyar la implantación de proyectos de cambio en los procesos, con el objeto de validar resultados en el cumplimiento de estándares de calidad en los servicios;
+a) La administración y desarrollo de personal.
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+b) La planeación y dotación de fuerza de trabajo.
 
-X. Validar en campo los nuevos modelos de organización, en coordinación con los órganos normativos y unidades operativas, así como generalizar y normar aquellas acciones de calidad que se compruebe mejoran los procesos correspondientes;
+c) El otorgamiento de becas en el ámbito nacional e internacional al personal.
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+d) La capacitación promocional en los términos que se establecen en el Contrato Colectivo de Trabajo y en los reglamentos respectivos.
 
-XI. Planear, dirigir, evaluar y normar la capacitación y el fomento de la cultura de la calidad en el ámbito institucional y, asignar el presupuesto correspondiente;
+e) El trámite administrativo de finiquitos, de las jubilaciones y pensiones en los términos del Contrato Colectivo de Trabajo y el reglamento respectivo.
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+f) Las atribuciones de los representantes institucionales en las instancias mixtas pactadas con el Sindicato Nacional de Trabajadores del Seguro Social.
 
-XII. Administrar los recursos financieros asignados a los proyectos de cambio, orientados a la satisfacción del usuario;
+g) Sueldos, prestaciones, estímulos, compensaciones y demás beneficios, tanto económicos como en especie, que se otorgan al personal; así como la de viáticos y pasajes.
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+V. Operar los movimientos relacionados con el nombramiento, remoción y cambios de adscripción de los trabajadores del Instituto clasificados como de confianza;
 
-XIII. Diseñar y operar, en coordinación con las Direcciones Normativas, Regionales, Delegaciones y Unidades Operativas, un sistema de seguimiento y evaluación de los procesos, con base en indicadores de dirección, desempeño y eficiencia;
+VI. Representar al Instituto en las negociaciones contractuales, así como administrar el Contrato Colectivo de Trabajo en los términos de la Ley Federal del Trabajo;
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+VII. Administrar el Sistema de Profesionalización y Desarrollo, así como proponer sus modificaciones;
 
-XIV. Consolidar con la participación de las Direcciones Normativas y Regionales, las acciones institucionales que impulsen de manera unificada la cultura de la calidad y garanticen el mejoramiento interno de las interrelaciones de los procesos, asegurando su inclusión en la normatividad y organización institucionales;
+VIII. Planear, programar, normar, dirigir y, en su caso, evaluar la capacitación en el ámbito institucional, en coordinación con los órganos normativos, de operación administrativa desconcentrada;
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+IX. Realizar el análisis de la estructura orgánica, ocupacional y salarial del Instituto y emitir el dictamen administrativo correspondiente, así como presentar a la consideración de la Dirección General las modificaciones a la estructura orgánica básica, para su autorización, en su caso, del Consejo Técnico, de conformidad con las disposiciones jurídicas aplicables para el otorgamiento de tales autorizaciones;
 
-XV. Asegurar la continuidad del cambio a través de la mejora de procesos, en coordinación con las dependencias normativas, regionales, delegacionales y unidades operativas, con base en el sistema de evaluación y el análisis de encuestas de opinión de los usuarios, y
+X. Orientar, capacitar y coadyuvar con las unidades administrativas del Instituto en el desarrollo de propuestas de estructuras orgánicas y nuevos esquemas de funcionamiento;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+XI. Proponer al Director General el anteproyecto de Estatuto Orgánico y sus reformas correspondientes, para su análisis y validación por parte de la Dirección Jurídica, y
 
-XVI. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+XII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como las que le encomiende el Director General.
 
 ### CAPÍTULO SEXTO. DE LA DIRECCIÓN JURÍDICA
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+###### ARTÍCULO 81.
+
+La Dirección Jurídica tendrá las facultades siguientes:
+
+I. Dictar y encauzar el criterio jurídico del Instituto;
+
+II. Dictar normas relacionadas con el registro y control de los contratos, convenios y demás instrumentos jurídicos en los que se establezcan obligaciones de pago del Instituto frente a terceros;
+
+III. Coordinar la formulación y someter a la consideración del Director General, para su presentación al Consejo Técnico del Instituto, de los proyectos de leyes, reglamentos, decretos y acuerdos correspondientes, así como analizar y validar el Estatuto Orgánico del Instituto;
+
+IV. Coordinar y llevar a cabo, por instrucciones del Consejo Técnico, las acciones encaminadas a presentar los proyectos de leyes, reglamentos, decretos y acuerdos ante la Consejería Jurídica del Ejecutivo Federal y cualquier otra instancia que señalen las disposiciones legales y reglamentarias;
+
+V. Asesorar jurídicamente a los órganos superiores y unidades administrativas del Instituto; fungir como órgano de consulta y realizar los estudios e investigaciones jurídicas que requiera el desarrollo de las atribuciones del Instituto, con independencia de las funciones que en materia de consulta, asesoría e investigación ejerzan dichas unidades;
+
+VI. Desahogar las consultas que le sean formuladas por las entidades públicas, patrones o trabajadores, sobre situaciones reales y concretas respecto de la Ley y sus reglamentos;
+
+VII. Representar al Instituto, en su carácter de apoderado general, en la celebración de los contratos, convenios y demás instrumentos jurídicos que obliguen al Instituto frente a terceros, salvo que existan poderes expresos otorgados para servidores públicos dentro de la esfera de su competencia;
+
+VIII. Planear las estrategias a seguir en los juicios del orden civil, penal, laboral, fiscal, contencioso administrativo o de cualquier otra naturaleza que puedan afectar los intereses del Instituto, respecto de aquellos asuntos en que sea ejercida la facultad de atracción;
+
+IX. Otorgar y revocar concesiones y permisos de uso sobre los bienes del Instituto, legalmente considerados como del dominio público de la Federación, en los términos de las disposiciones legales, reglamentarias y administrativas aplicables;
+
+X. Representar al Instituto, al Consejo Técnico y al Director General, ante toda clase de autoridades, organismos y personas, con las facultades generales y especiales que requieran cláusula especial conforme a la ley;
+
+XI. Promover la celebración de reuniones para actualizar, unificar criterios y revisar métodos de trabajo en las áreas de servicios jurídicos delegacionales, en coordinación con las Direcciones Regionales;
+
+XII. Autorizar la publicación en el Diario Oficial de la Federación, de todo aquel documento, acto o disposición que de acuerdo con la Ley o por instrucción del Consejo Técnico se tenga que difundir a través de ese medio;
+
+XIII. Intervenir en los comités y comisiones que expresamente determine el Director General, así como presidir aquellos que se integren para la prevención y atención de diversos litigios y asuntos en materia jurídica;
+
+XIV. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo, órganos normativos, de operación administrativa desconcentrada y operativos, y
+
+XV. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende la Dirección General.
+
+La Dirección Jurídica, será auxiliada en el cumplimiento de sus atribuciones por las Coordinaciones de Legislación y Consulta; de Asuntos Contenciosos, así como la de Investigación y Asuntos de Defraudación.
+
+Las facultades conferidas por este Reglamento a las coordinaciones integrantes de la Dirección Jurídica, podrán ser ejercidas por el Director Jurídico en todo momento.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 81 A. La Coordinación de Legislación y Consulta tendrá las facultades siguientes:
+
+I. Formular proyectos de leyes, reglamentos, decretos y acuerdos relacionados con la competencia del Instituto;
+
+II. Proponer los criterios de interpretación, para efectos administrativos, de la Ley y sus reglamentos;
+
+III. Apoyar y asesorar jurídicamente a los órganos superiores y unidades administrativas del Instituto, en el ejercicio de sus atribuciones;
+
+IV. Tramitar la publicación en el Diario Oficial de la Federación, de todo aquel documento, acto o disposición que de acuerdo con la Ley o por instrucción del Consejo Técnico se tenga que difundir a través de ese medio;
+
+V. Emitir opiniones y dictámenes de carácter jurídico sobre la aplicación de las disposiciones legales, reglamentarias y administrativas que regulan las actividades y funcionamiento del Instituto;
+
+VI. Dictaminar jurídicamente los convenios y contratos que suscriba el Director General del Instituto y los órganos normativos del mismo;
+
+VII. Registrar y controlar los contratos, convenios y demás instrumentos jurídicos en los que se establezcan obligaciones de pago del Instituto frente a terceros;
+
+VIII. Llevar a cabo los actos necesarios para legalizar la adquisición, destino o enajenación de los bienes inmuebles del Instituto, así como intervenir en los asuntos de los que se deriven derechos y obligaciones a cargo del mismo, de conformidad con las disposiciones jurídicas aplicables;
+
+IX. Verificar los actos y operaciones que requieran la formalización ante fedatario público e inscripción de los mismos ante los Registros Públicos de la Propiedad Federal, de la Propiedad y del Comercio de cada Entidad y del Distrito Federal; así como autorizar el pago de los honorarios correspondientes a los notarios públicos;
+
+X. Revisar los convenios de incorporación o continuación voluntaria en el régimen obligatorio y demás inherentes a que se refiere la Ley;
+
+XI. Rendir opinión sobre la procedencia de responsabilidad civil y el pago de indemnización, en el procedimiento para el trámite y resolución de las quejas administrativas;
+
+XII. Emitir las opiniones jurídicas en materia de programación, presupuestación y gasto público del Instituto;
+
+XIII. Elaborar los estudios técnico jurídicos de los contratos colectivos para evaluar las prestaciones contractuales, comparándolas con las de la Ley;
+
+XIV. Intervenir en los comités y comisiones que expresamente determine el Director Jurídico, y
+
+XV. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende el Director Jurídico.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 81 B. La Coordinación de Asuntos Contenciosos tendrá las facultades siguientes:
+
+I. Representar al Instituto, Consejo Técnico y Director General, ante toda clase de autoridades, organismos y personas, con la suma de facultades generales y especiales requeridas por la Ley, cuando éstas sean partes en litigios que afecten el interés institucional;
+
+II. Intervenir, en términos de la Ley de Amparo, en la substanciación de los juicios de amparo en los que alguna unidad administrativa del Instituto sea parte y se afecte el interés institucional;
+
+III. Ejercitar ante los tribunales de la República, los derechos, acciones, excepciones y defensas en favor del Instituto e interponer los recursos que procedan, respecto de aquellos asuntos materia de su competencia;
+
+IV. Representar el interés del Instituto, en los asuntos materia de su competencia, en controversias administrativas o jurisdiccionales ante cualquier autoridad judicial o administrativa federal, del Distrito Federal, estatal o municipal;
+
+V. Allanarse y transigir en cualquier clase de juicio o asunto, así como abstenerse de interponer los recursos y formular promociones, cuando así convenga a los intereses del Instituto, respecto de aquellos asuntos materia de su competencia;
+
+VI. Someter a consideración del Director Jurídico, los planteamientos referidos a la forma en que se interpondrán las denuncias de contradicciones de tesis ante los tribunales respectivos;
+
+VII. Instruir por sí o por conducto de los jefes de división, a los abogados que sean delegados o se encuentren señalados como autorizados para intervenir en los juicios en los que el Instituto sea parte;
+
+VIII. Requerir a las unidades administrativas del Instituto información, documentación y toda clase de elementos de carácter probatorio, para la atención de los asuntos contenciosos institucionales;
+
+IX. Desahogar los asuntos de su competencia, en los que se ejerza la facultad de atracción o en los que señalen el Manual o lineamiento respectivo;
+
+X. Intervenir en los comités y comisiones que expresamente determine el Director Jurídico, y
+
+XI. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende el Director General o Director Jurídico.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 81 C. La Coordinación de Investigación y Asuntos de Defraudación tendrá las facultades siguientes:
+
+I. Investigar, en el ámbito administrativo, las denuncias que le sean enviadas por las áreas institucionales o extrainstitucionales y que puedan derivar en la comisión de actos delictuosos;
+
+II. Requerir información, documentación y toda clase de elementos probatorios a cualquier órgano administrativo del Instituto, para la atención de los asuntos de su competencia;
+
+III. Requerir en representación del Instituto, a los patrones y demás sujetos obligados, responsables solidarios o terceros con ellos relacionados, sin que medie visita domiciliaria, o a contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos del Seguro Social, para que exhiban en las oficinas del propio Instituto, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran;
+
+IV. Participar en la formulación de las políticas y los programas de investigación correspondientes en la materia de su competencia;
+
+V. Asesorar, en la materia de su competencia, a otras unidades administrativas del Instituto;
+
+VI. Llevar a cabo la investigación administrativa de las denuncias que le sean presentadas o remitidas por las áreas institucionales o extrainstitucionales y que puedan derivar en la comisión de actos delictuosos a que se refiere el Título Sexto de la Ley del Seguro Social, y, en su caso, presentar la querella respectiva;
+
+VII. Representar al Instituto e instrumentar ante las autoridades administrativas o jurisdiccionales, federales, del Distrito Federal, estatales o municipales, las acciones legales necesarias, denuncias o querellas por los delitos que contiene el Título Sexto de la Ley del Seguro Social;
+
+VIII. Someter por conducto del Director Jurídico a la aprobación del Consejo Técnico la posibilidad de celebrar convenios de cualquier tipo en los que se satisfaga el interés institucional y que pudieran dar lugar al otorgamiento del perdón legal;
+
+IX. Otorgar el perdón legal a que se refiere el Código Penal Federal, previa aprobación del Consejo Técnico;
+
+X. Coordinarse con las unidades administrativas del Instituto competentes, en la práctica de los actos de fiscalización que sean necesarios con motivo del ejercicio de las facultades de investigación, respecto de asuntos relacionados con la comisión de cualquiera de los delitos a que se refiere el Título Sexto de la Ley;
+
+XI. Establecer coordinación con autoridades fiscales de nivel federal o local para el cumplimiento de sus fines;
+
+XII. Fungir como enlace entre el Instituto y las diversas dependencias y entidades de la Administración Pública Federal o del Poder Judicial Federal en los asuntos de su competencia;
+
+XIII. Formular las denuncias o querellas a que se refiere el artículo 19 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y
+
+XIV. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende el Director General o Director Jurídico.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 81 D. La Dirección de Innovación y Desarrollo Tecnológico tendrá las facultades siguientes:
+
+I. Elaborar e instrumentar la estrategia institucional en materia de tecnologías de la información y comunicación, innovación y desarrollo tecnológico de acuerdo con los lineamientos establecidos por la autoridad competente;
+
+II. Establecer y conducir la aplicación de las políticas, normas y programas en materia de tecnologías de la información y comunicación, incluyendo el diseño, desarrollo, distribución, implantación, mantenimiento y, en su caso, operación de sistemas automatizados; firma electrónica; generación de constancias de ejecución de transacciones electrónicas; autoridad certificadora, unidades registradoras, repositorios de transacciones; telecomunicaciones, intercomunicación, centros de atención telefónica; administración del conocimiento, capacitación en informática, bienes y servicios con integración parcial y total de sistemas de cómputo y comunicaciones, seguridad e integridad de los datos e información; centros de prestación de servicios de procesamiento electrónico de datos;
+
+III. Administrar y operar las bases de datos y conocimientos; generación de constancias de ejecución de transacciones electrónicas y sistemas de administración de transacciones y firma electrónica; sistemas de identificación personal que se generen a partir de los procesos inherentes al Instituto;
+
+IV. Otorgar el soporte técnico especializado, así como la atención y solución oportuna de los aspectos operativos relacionados con la infraestructura de tecnologías de la información del Instituto, realizando la investigación y desarrollo de nuevas herramientas encaminadas al mejor desempeño;
+
+V. Analizar el desempeño de los sistemas de tecnologías de la información, con objeto de determinar y medir niveles de productividad en relación con las actividades encomendadas y, en su caso, realizar las actividades de rediseño necesarias para su optimización;
+
+VI. Integrar de acuerdo con las necesidades institucionales, los requerimientos de gasto en materia de tecnologías de la información, innovación y desarrollo tecnológico, adecuarlo y someterlo a la consideración de la Dirección de Planeación y Finanzas para los efectos conducentes;
+
+VII. Realizar los estudios necesarios y emitir el dictamen técnico correspondiente, a fin de llevar a cabo la contratación de servicios externos en materia de tecnologías de la información, innovación y desarrollo tecnológico, así como para la adquisición, arrendamiento y mantenimiento de los equipos de cómputo, programas y paquetería de software, servicios de desarrollo de aplicaciones y rediseño de procesos que se pretendan celebrar;
+
+VIII. Administrar y operar las redes y sistemas Institucionales de comunicación de datos, texto, video y voz, así como todos aquellos elementos que intervienen directamente en su operación y funcionamiento;
+
+IX. Integrar el programa anual y requisiciones extraordinarias de bienes de inversión, servicios y recursos en materia de tecnologías de la información y programas de innovación y desarrollo tecnológico, necesarios para el adecuado funcionamiento de las áreas institucionales a nivel nacional;
+
+X. Determinar las necesidades de capacitación en materia de tecnologías de la información y desarrollo tecnológico, elaborando y administrando los programas necesarios para la actualización y capacitación al personal del Instituto;
+
+XI. Realizar estudios de impacto económico funcional de los programas y proyectos de innovación y desarrollo tecnológico del Instituto, a fin de determinar la viabilidad y compatibilidad tecnológica de los nuevos productos o servicios propuestos para su posible desarrollo e incorporación al Instituto;
+
+XII. Suscribir los contratos y convenios relativos a su ámbito de competencia, así como los de colaboración, intercambio de información o conocimiento, infraestructura y tecnologías, con los sectores público, privado y social;
+
+XIII. Coordinar las acciones para el cumplimiento de los compromisos del Instituto y de los programas especiales de carácter nacional, en materia de tecnologías de la información, innovación y desarrollo tecnológico del Instituto, y
+
+XIV. Las demás que le señalen la Ley, sus reglamentos, acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN DE INNOVACIÓN Y DESARROLLO TECNOLÓGICO
 
@@ -1255,97 +1635,35 @@ XXVI. Coordinar las acciones para el cumplimiento de los compromisos del Institu
 
 XXVII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
 
-###### ARTÍCULO 81.
-
-La Dirección Jurídica tendrá las facultades siguientes:
-
-I. Dictar y encauzar el criterio jurídico del Instituto;
-
-II. Planear, dirigir y controlar las estrategias a seguir en los juicios del orden civil, penal, laboral, contencioso administrativo o de cualquier otra naturaleza que puedan afectar el interés patrimonial del Instituto y evaluar sus resultados;
-
-III. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo y con los órganos normativos, regionales, delegacionales y operativos;
-
-IV. Verificar, evaluar y dictar normas relacionadas con:
-
-a) El trámite y resolución de los recursos de inconformidad;
-
-b) La elaboración de los proyectos de acuerdo mediante los cuales el Consejo Técnico autorice la realización de operaciones inmobiliarias, formalizarlas, así como regularizar el patrimonio inmobiliario del Instituto;
-
-c) El dictamen legal para la procedencia de préstamos hipotecarios y a mediano plazo;
-
-d) La elaboración, revisión y formalización de contratos y convenios en el que el Instituto sea parte, así como la revisión de bases de licitaciones públicas y de procedimientos de invitación restringida a cuando menos tres proveedores o contratistas;
-
-e) Las funciones que se realizan para la clasificación de empresas y la determinación de la prima para la cobertura del seguro de riesgos de trabajo, y
-
-f) La formulación de reclamaciones a las afianzadoras y juicios especiales en esta materia en relación a la efectividad de las garantías legales y convencionales pactadas en contratos de cualquier naturaleza;
-
-V. Rendir opinión sobre la procedencia de responsabilidad civil y el pago de indemnización, en el procedimiento para el trámite y resolución de las quejas administrativas;
-
-VI. Desahogar las consultas que le sean formuladas por los órganos del Instituto, las unidades administrativas y entidades públicas, patrones o trabajadores;
-
-VII. Elaborar los anteproyectos de iniciativas de reformas a la Ley, proyectos de decretos y reglamentos, así como participar en la elaboración de proyectos de reglamentos internos, e instructivos;
-
-VIII. Recopilar y difundir la información legislativa, jurisprudencial y administrativa referida a los aspectos jurídicos del Instituto;
-
-IX. Establecer los criterios de carácter estrictamente jurídico, para realizar las investigaciones administrativo-laborales, sin perjuicio de las atribuciones que respecto a dichas investigaciones correspondan a la Dirección Administrativa;
-
-X. Definir las estrategias normativas para la elaboración y ejecución de los programas de los servicios jurídicos;
-
-XI. Emitir la normatividad para la elaboración, desarrollo y modificación de los programas de supervisión de los servicios jurídicos y de clasificación y determinación de la prima del seguro de riesgos de trabajo;
-
-XII. Autorizar la publicación de las disposiciones de carácter legal expedidas por el Instituto en el Diario Oficial de la Federación y en periódicos de mayor circulación, con la participación de la Coordinación General de Comunicación Social;
-
-XIII. Intervenir en los comités y comisiones que expresamente determine el Director General, así como presidir aquellos que se integren para la prevención y atención de diversos litigios y asuntos en materia jurídica;
-
-XIV. Promover la celebración de reuniones para actualizar, unificar criterios y revisar métodos de trabajo en las áreas de servicios jurídicos delegacionales, en coordinación con las Direcciones Regionales;
-
-XV. Representar al Instituto, al Director General y al Consejo Técnico, ante toda clase de autoridades, organismos y personas, con las facultades generales y especiales que requieran cláusula especial conforme a la ley;
-
-XVI. Representar al Instituto, en su carácter de apoderado general, en la celebración de todos los contratos, convenios y demás instrumentos jurídicos que obliguen al Instituto frente a terceros;
-
-XVII. Apoyar jurídicamente a las direcciones regionales y delegaciones, así como, en su caso, intervenir en cualquier clase de litigio ante las autoridades competentes que sean de especial importancia para los intereses del Instituto;
-
-XVIII. Ejercer la facultad de atracción para la atención de aquellos asuntos o juicios que por su importancia y trascendencia así lo requieran;
-
-XIX. Substanciar el procedimiento a que se refiere el Capítulo IV del Reglamento para la Imposición de Multas por Infracción a las Disposiciones de la Ley del Seguro Social y sus Reglamentos, cuando el Director General del Instituto asuma la facultad sancionadora referida en dicho Reglamento;
-
-XX. La emisión de resoluciones sobre la existencia de sustitución patronal;
-
-XXI. La emisión de dictámenes sobre la responsabilidad solidaria de los socios cuando el patrón sea una sociedad;
-
-XXII. La elaboración de estudios técnico jurídicos de los contratos colectivos para evaluar las prestaciones contractuales, comparándolas con las de la Ley, y
-
-XXIII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
-
-### CAPÍTULO ÚNICO. DE LA UNIDAD DE CONTRALORÍA INTERNA
-
-> <small>(F. DE E., D.O.F. 13 DE NOVIEMBRE DE 1998)</small>
-
 ## TÍTULO QUINTO
 
-### CAPÍTULO PRIMERO. DE LAS COORDINACIONES GENERALES
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+### CAPÍTULO ÚNICO. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 82.
 
-Al frente de la Unidad de Contraloría Interna habrá un Contralor Interno designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de responsabilidades; auditoría; control, evaluación y auditoría especial; auditoría médica, y quejas a nivel central y, en su caso, regional, delegacional y unidades hospitalarias, designados en los mismos términos.
+Al frente del Órgano Interno de Control, habrá un titular designado en los términos del artículo 37 fracción XII, de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades; auditoría interna; quejas; auditoría de control y evaluación y auditoría de servicios médicos, designados en los mismos términos.
 
-Dichos servidores públicos ejercerán las atribuciones previstas en la Ley Orgánica de la Administración Pública Federal, Ley Federal de Responsabilidades de los Servidores Públicos y demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 26, fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+El titular del Órgano Interno de Control tendrá las facultades establecidas en el artículo 47, fracción III del Reglamento Interior de la Secretaría de la Función Pública. Los titulares de las áreas señaladas en el párrafo precedente ejercerán las facultades previstas en el citado artículo 47 fracción IV incisos a), b) y c) respectivamente.
 
-> <small>(F. DE E., D.O.F. 13 DE NOVIEMBRE DE 1998)</small>
+Dichos titulares ejercerán en el ámbito de sus respectivas competencias, las facultades señaladas por la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos o, en su caso, la Ley Federal de Responsabilidades de los Servidores Públicos, así como los demás ordenamientos legales y administrativos aplicables.
 
-Las facultades en materia de auditoría conferida por el inciso b), fracción IV del artículo 26 antes invocado, se ejercerán por los titulares de las áreas de auditoría; control, evaluación y auditoría especial, y de auditoría médica, de acuerdo a la planeación y organización que determine el titular de la unidad de contraloría interna.
+De igual forma, el titular del Órgano Interno de Control se auxiliará del Coordinador de Vinculación Operativa, quien ejercerá las funciones que para tal efecto le asigne dicho Titular y del cual dependerá jerárquica y funcionalmente.
 
-> <small>(F. DE E., D.O.F. 13 DE NOVIEMBRE DE 1998)</small>
+Así mismo, el titular del Órgano Interno de Control se auxiliará para el ejercicio de sus facultades, del titular del área de auditoría, quejas y responsabilidades en las Delegaciones del Instituto, quienes serán designados por la Secretaría de la Función Pública, en los términos previstos en el artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, y dependerán jerárquica y funcionalmente del Titular del Órgano Interno de Control.
 
-El Instituto proporcionará al Contralor Interno y a los titulares de las pareas mencionadas en este artículo, los recursos humanos y materiales necesarios para la atención de los asuntos de su competencia, de acuerdo con el presupuesto autorizado. Asimismo, los servidores públicos del Instituto están obligados a proporcionarles el auxilio que requieran para el desempeño de sus facultades.
+Los titulares de dichas áreas en las Delegaciones, ejercerán las facultades establecidas en el artículo 47, fracción IV incisos a), b) y c) del Reglamento Interior de la Secretaría de la Función Pública, sin perjuicio de que el Titular del Órgano Interno de Control y los titulares de las áreas de responsabilidades; auditoría interna; quejas; auditoría de control y evaluación y auditoría de servicios médicos, conozcan de forma conjunta, separada o indistintamente de los asuntos cuando así lo determinen.
+
+Las ausencias y las vacancias del titular del Órgano Interno de Control, así como las de los titulares de las áreas de responsabilidades; auditoría interna; quejas; auditoría de control y evaluación y auditoría de servicios médicos y del titular de las áreas de auditoría, quejas y responsabilidades en las Delegaciones del Instituto, serán suplidas conforme a lo previsto por el artículo 54 del Reglamento Interior de la Secretaría de la Función Pública.
+
+El Instituto proporcionará al titular del Órgano Interno de Control y a los titulares de las áreas mencionadas en este artículo, los recursos humanos y materiales necesarios para la atención de los asuntos de su competencia, de acuerdo con el presupuesto autorizado por el Consejo Técnico. Asimismo, los servidores públicos del Instituto están obligados a proporcionarles el auxilio que requieran para el desempeño de sus facultades, en los términos de la legislación aplicable.
 
 ## TÍTULO SEXTO
 
-### CAPÍTULO SEGUNDO. DE LAS COORDINACIONES
-
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
+### CAPÍTULO PRIMERO. DE LAS COORDINACIONES GENERALES
 
 #### SECCIÓN PRIMERA. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
@@ -1355,7 +1673,9 @@ La Coordinación General de Comunicación Social tendrá las facultades siguient
 
 I. Planear, dirigir y controlar las acciones referidas a la información y difusión de los asuntos del Instituto en los ámbitos interno y externo;
 
-II. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo, así como con los órganos normativos, regionales, delegacionales y operativos, y
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+II. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo, así como con los órganos normativos, colegiados, de operación administrativa desconcentrada y operativos, y
 
 III. Las demás que le asignen los reglamentos, instructivos, acuerdos del Consejo Técnico y la Dirección General.
 
@@ -1367,43 +1687,77 @@ III. Las demás que le asignen los reglamentos, instructivos, acuerdos del Conse
 
 #### SECCIÓN SEGUNDA. DE LA COORDINACIÓN GENERAL DE ATENCIÓN Y ORIENTACIÓN AL DERECHOHABIENTE
 
-(REUBICADO, D.O.F. 17 DE DICIEMBRE DE 2001)
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 85.
 
 La Coordinación General de Atención y Orientación al Derechohabiente tendrá las facultades siguientes:
 
-I. Planear y controlar las acciones referidas a la orientación sobre la seguridad social y autocuidado de la salud, así como evaluar sus resultados;
+I. Planear y dirigir las acciones relacionadas con atención a las quejas administrativas por servicios médicos, estudios de usuarios, impactos de programas, orientación a los usuarios, estudios sobre transparencia y riesgos de corrupción, así como evaluar resultados;
 
-II. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo, así como con los órganos normativos, regionales, delegacionales y operativos;
+II. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo y, en su caso, con los órganos normativos, de operación administrativa desconcentrada y operativos;
 
-III. Proporcionar la información recabada a través de los medios de evaluación, a las diferentes unidades administrativas del Instituto, sobre la opinión de los usuarios de los servicios institucionales recibidos, particularmente la relativa a la calidad de éstos;
+III. Aplicar en el ámbito de su competencia, el instructivo a que se refiere el artículo 296 de la Ley;
 
-IV. Orientar a los asegurados y sus beneficiarios sobre las prestaciones de los servicios del Instituto establecidos en la Ley y el derecho a los mismos y resolver los planteamientos presentados sobre este particular por la ciudadanía y organismos públicos;
+IV. Gestionar las quejas que la población usuaria de los servicios presenta ante la Comisión Nacional de Derechos Humanos, Comisión Nacional de Arbitraje Médico y otras similares de naturaleza extrajudicial, así como realizar el seguimiento hasta su resolución;
 
-V. Aplicar en el ámbito de su competencia, el instructivo a que se refiere el artículo 296 de la Ley, y
+V. Analizar la problemática captada por el sistema de atención a quejas y por otros instrumentos de contacto con usuarios, respecto a asuntos relevantes que pongan en riesgo la operación o dañen la imagen institucional, para coadyuvar a la toma de decisiones;
 
-VI. Las demás que le confieran los reglamentos, instructivos, acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+VI. Coadyuvar con los órganos normativos, así como asesorar y supervisar a las delegaciones y órganos operativos en la adopción de metodologías, técnicas y diseño de modelos de investigación para generar información respecto a los usuarios y para el análisis y evaluación del impacto de programas y acciones de mejora;
+
+VII. Generar información sobre las percepciones, necesidades, demandas y características de los usuarios, para la toma de decisiones directivas relacionadas con la definición e implantación de programas, proyectos y acciones de mejora en las unidades operativas;
+
+VIII. Generar información para la evaluación del impacto de las políticas, programas y acciones de mejora en grupos de usuarios específicos;
+
+IX. Proporcionar la información generada sobre las percepciones, necesidades, demandas y características de los usuarios y sobre los impactos de programas y acciones a las diferentes áreas del Instituto;
+
+X. Establecer los lineamientos, mecanismos y procedimientos para orientar a los usuarios para que tengan acceso eficiente y actualizado respecto a sus derechos y obligaciones en términos de la Ley, los reglamentos y manuales del Instituto, así como los procedimientos y requerimientos para el uso de los servicios, presentación de solicitudes e información sobre su situación personal;
+
+XI. Orientar a los asegurados y sus beneficiarios sobre las prestaciones de los servicios del Instituto establecidos en la Ley y el derecho a los mismos, así como resolver los planteamientos presentados por la ciudadanía y organismos públicos;
+
+XII. Realizar el enlace entre los usuarios y las unidades administrativas del Instituto, para recibir y analizar inquietudes, demandas, solicitudes, respecto de la institución o para transmitir las situaciones relevantes que se relacionen con la prestación de los servicios que se les otorgan y elaborar anteproyectos de acciones de mejora;
+
+XIII. Asesorar de acuerdo a los programas establecidos por las instancias fiscalizadoras federales o a petición de las unidades administrativas del Instituto en la identificación y diagnóstico de las áreas y procesos susceptibles de problemas de transparencia y riesgos de corrupción, así como para la definición de acciones de prevención y corrección y evaluación de sus resultados;
+
+XIV. Coadyuvar con los órganos normativos y de operación administrativa desconcentrada para la implantación, seguimiento y evaluación en el Instituto de los resultados específicos comprometidos por el Ejecutivo Federal para el Instituto, así como informar de los avances;
+
+XV. Capacitar, asesorar y actualizar al personal de los órganos normativos, de operación administrativa desconcentrada y operativos en los temas de su competencia;
+
+XVI. Supervisar y evaluar el desempeño de los órganos de operación administrativa desconcentrada y operativos con relación a sus ámbitos de competencia, y
+
+XVII. Las demás que le señalen la Ley, sus reglamentos, acuerdos del Consejo Técnico y las que le encomiende el Director General.
 
 > <small>(DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
 #### SECCIÓN TERCERA. DE LA COORDINACIÓN GENERAL DE ATENCIÓN Y ORIENTACIÓN AL DERECHOHABIENTE
 
-### CAPÍTULO PRIMERO. DE LOS CONSEJOS CONSULTIVOS REGIONALES
+### CAPÍTULO SEGUNDO. DE LAS COORDINACIONES
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 86.
 
-La Secretaría General, las Direcciones, las Unidades, la Contraloría Interna y las Coordinaciones Generales, para el eficaz desempeño de las atribuciones que les confieren la Ley, reglamentos y acuerdos del Consejo Técnico, así como las que les encomiende el Director General del Instituto, se integrarán con las Coordinaciones y unidades administrativas que sean autorizadas para el cumplimiento de sus funciones. Éstas tendrán a su cargo el desempeño de las atribuciones que les señalen los manuales de organización y operación.
+La Secretaría General, las Direcciones y el Órgano Interno de Control para el eficaz desempeño de las atribuciones que les confiere la Ley, este Reglamento y demás disposiciones reglamentarias y administrativas, así como los acuerdos del Consejo Técnico, y las que le encomiende el Director General del Instituto, se integrarán con las unidades, coordinaciones, divisiones y demás áreas administrativas que sean autorizadas para tal efecto, por el Consejo Técnico o el Director General, en el ámbito de sus respectivas competencias, sujetándose a las disposiciones jurídicas aplicables. Éstas tendrán a su cargo el desempeño de las funciones que les señalen los manuales de organización y operación.
 
-## TÍTULO SÉPTIMO. DE LOS ÓRGANOS REGIONALES
+Asimismo, las unidades y las coordinaciones generales, para los efectos señalados en el párrafo anterior, se integrarán con las coordinaciones, divisiones y demás áreas administrativas que sean autorizadas por el Consejo Técnico o el Director General, en el ámbito de sus respectivas competencias. Éstas tendrán a su cargo el desempeño de las funciones que les señalen los manuales de organización y operación.
 
-### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES REGIONALES
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES
+## TÍTULO SÉPTIMO. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+### CAPÍTULO PRIMERO. DE LOS ÓRGANOS COLEGIADOS
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE JUNIO DE 2003)</small>
+
+#### SECCIÓN PRIMERA. DE LOS CONSEJOS CONSULTIVOS REGIONALES
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 87.
 
-Los Consejos Consultivos Regionales, a que se refiere el artículo 270 de la Ley, son órganos dependientes del Consejo Técnico y tendrán las atribuciones que les confiere la Ley y sus reglamentos, así como los acuerdos emitidos por los órganos superiores del Instituto.
+Los Consejos Consultivos Regionales dependen del Consejo Técnico, son órganos de gobierno de las direcciones regionales y tendrán las atribuciones que les confiere la Ley, este Reglamento, demás ordenamientos aplicables, así como los acuerdos emitidos por los órganos superiores del Instituto.
 
 ###### ARTÍCULO 88.
 
@@ -1445,7 +1799,9 @@ El representante gubernamental durará en su cargo hasta en tanto conserve la ca
 
 Los cargos de consejero así como el de Presidente del Consejo Consultivo Regional, serán honoríficos.
 
-#### SECCIÓN SEGUNDA. DEL PRESIDENTE
+(REUBICADA [N. DE E. ANTES SECCION PRIMERA], D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES
 
 ###### ARTÍCULO 93.
 
@@ -1461,13 +1817,15 @@ IV. Opinar en todo aquello en que el Director Regional o cualesquiera de los ór
 
 V. Aprobar su calendario anual de sesiones;
 
-VI. Autorizar la celebración de convenios de reconocimiento de adeudo y facilidades de pago, relativos a cuotas obrero patronales, capitales constitutivos, actualización y recargos moratorios; aprobar el cambio de garantía de dichos convenios, la cancelación de créditos fiscales a favor del Instituto y a cargo de patrones no localizados o insolventes, así como condonar recargos. Estas atribuciones, se ejercerán con sujeción a las normas autorizadas al efecto por el Consejo Técnico y sin perjuicio de las facultades otorgadas por éste último a otros órganos o servidores públicos del Instituto;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+VI. Autorizar el cambio de garantía en tratándose de pagos en parcialidades o diferidos, la cancelación de adeudos fiscales a favor del Instituto y a cargo de patrones no localizados o insolventes. Estas atribuciones, se ejercerán con sujeción a las normas autorizadas al efecto por el Consejo Técnico y sin perjuicio de las facultades otorgadas por este último a otros órganos o servidores públicos del Instituto;
 
 VII. Cancelar créditos de personas no localizadas o insolventes por concepto de servicios médicos y farmacéuticos, otorgados por el Instituto sin ser derechohabientes, con sujeción a las normas autorizadas por el Consejo Técnico;
 
 VIII. Vigilar el funcionamiento de los servicios del Instituto en la circunscripción de la región y sugerir las medidas conducentes al mejor funcionamiento de los servicios médicos, técnicos, administrativos y sociales;
 
-IX. Supervisar las adquisiciones de competencia regional y vigilar que se ajusten a los requisitos establecidos por la Ley de Adquisiciones y Obras Públicas y demás leyes y reglamentos aplicables, informando de estas gestiones al Consejo Técnico;
+IX. (DEROGADA, D.O.F. 19 DE JUNIO DE 2003)
 
 X. Conocer y resolver en los términos que marca el reglamento respectivo, las quejas materia de su competencia, y
 
@@ -1477,7 +1835,9 @@ XI. Integrar las comisiones o comités que se requieran para el oportuno despach
 
 XII. Las demás que le señalen la Ley, sus reglamentos y las disposiciones de los órganos superiores del Instituto.
 
-#### SECCIÓN TERCERA. DE LOS CONSEJEROS
+(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN TERCERA. DEL PRESIDENTE
 
 ###### ARTÍCULO 94.
 
@@ -1509,7 +1869,9 @@ XII. Elevar a la consideración del Consejo Técnico, por conducto de la Secreta
 
 XIII. Las demás que le señalen la Ley y sus reglamentos, la Asamblea General, el Consejo Técnico y la Dirección General.
 
-#### SECCIÓN CUARTA. DEL SECRETARIO
+(REUBICADA [N. DE E. ANTES SECCION TERCERA], D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN CUARTA. DE LOS CONSEJEROS
 
 ###### ARTÍCULO 95.
 
@@ -1531,7 +1893,9 @@ VII. Las demás que señalen la Ley y sus reglamentos, la Asamblea General, el C
 
 El Consejo Técnico podrá ampliar, restringir o bien suspender, las facultades referidas en este ordenamiento para los Consejos Consultivos, cuando lo considere necesario para garantizar la buena marcha del Instituto.
 
-#### SECCIÓN QUINTA. DE LAS SESIONES
+(REUBICADA [N. DE E. ANTES SECCION CUARTA], D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN QUINTA. DEL SECRETARIO
 
 ###### ARTÍCULO 96.
 
@@ -1563,7 +1927,9 @@ XI. Suplir al Presidente del Consejo Consultivo Regional en las sesiones en las 
 
 XII. Las demás que le señalen la Ley, sus reglamentos, la Asamblea General, el Consejo Técnico, el Director General, el Consejo Consultivo Regional y el Presidente de éste.
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES
+(REUBICADA [N. DE E. ANTES SECCION QUINTA], D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN SEXTA. DE LAS SESIONES
 
 ###### ARTÍCULO 97.
 
@@ -1653,37 +2019,21 @@ En caso de duda sobre la aplicación de este Reglamento o de aspectos no previst
 
 ###### ARTÍCULO 113.
 
-Las Direcciones Regionales son dependencias de representación del Instituto en las regiones que señale el Consejo Técnico y fungirán como órganos responsables de la dirección, coordinación y control de las delegaciones que las integran, así como de vigilar que acaten los lineamientos normativos establecidos, evaluar sus resultados y resolver los asuntos que las mismas les planteen.
+(DEROGADO. D.O.F. 19 DE JUNIO DE 2003)
 
 ###### ARTÍCULO 114.
 
-Las Direcciones Regionales tendrán las siguientes facultades:
+(DEROGADO. D.O.F. 19 DE JUNIO DE 2003)
 
-I. Ejercer autoridad directa sobre las delegaciones de su ámbito de responsabilidad para dirigir, coordinar y supervisar el funcionamiento de las mismas y brindarles el apoyo necesario a fin de que puedan alcanzar sus metas;
+(REUBICADA, D.O.F. 19 DE JUNIO DE 2003)
 
-II. Formular de acuerdo con las delegaciones que integran la región y conforme a los lineamientos establecidos, los programas operativos anuales de las mismas y de las unidades que las conforman, así como supervisar sus avances y cumplimiento;
+#### SECCIÓN SÉPTIMA. DE LOS CONSEJOS CONSULTIVOS DELEGACIONALES
 
-III. Aprobar y asignar el presupuesto a las delegaciones que integran la región, de acuerdo a los objetivos y metas presentadas por éstas, así como vigilar el estricto ejercicio del mismo conforme a la normatividad establecida;
-
-IV. Vigilar y evaluar el cumplimiento de las normas y procesos operativos de cada Delegación integrante de la región, de acuerdo a los métodos y sistemas establecidos por los órganos normativos, en las materias competencia de la Delegación;
-
-V. Someter al acuerdo del Director Administrativo, las solicitudes de reconsideración de las rescisiones de la relación laboral que se hayan resuelto en las delegaciones que integran su circunscripción territorial, a las cuales deberán acompañar su opinión;
-
-VI. Certificar los documentos que deriven de su propia actividad y de la del Consejo Consultivo Regional;
-
-VII. Integrar y analizar la información estadística que se genere en las delegaciones y en las unidades operativas ubicadas en su circunscripción territorial;
-
-VIII. Informar semestralmente a la Secretaría General sobre los resultados del análisis y de la evaluación realizados a la operación y funcionamiento de las delegaciones que integran la región;
-
-IX. Dictar al Delegado que corresponda, las medidas correctivas necesarias para resolver los problemas identificados en la evaluación de la prestación de los servicios del Instituto, y
-
-X. Las demás que le señalen la Ley, sus reglamentos, este Reglamento y el Consejo Técnico, así como las que le encomienden, el Director General, las Direcciones y el Consejo Consultivo Regional.
-
-#### SECCIÓN SEGUNDA. DEL PRESIDENTE
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 115.
 
-Los Consejos Consultivos a que se refiere el artículo 273 de la Ley, son órganos desconcentrados de administración en las Delegaciones, dependientes del Consejo Técnico, con las atribuciones contenidas en la Ley y sus reglamentos, así como en los acuerdos emitidos por los órganos superiores del Instituto.
+Los Consejos Consultivos Delegacionales dependen del Consejo Técnico, son órganos de gobierno de las delegaciones y tendrán las atribuciones que les confiere la Ley, este Reglamento, demás ordenamientos aplicables, así como los acuerdos emitidos por los órganos superiores del Instituto.
 
 ###### ARTÍCULO 116.
 
@@ -1729,7 +2079,9 @@ Los integrantes del Consejo Consultivo Delegacional permanecerán en su cargo se
 
 Los consejeros percibirán los honorarios que establezca el Consejo Técnico, a propuesta del Director General. El cargo de Presidente del Consejo Consultivo Delegacional será honorífico.
 
-#### SECCIÓN TERCERA. DE LOS CONSEJEROS
+(REUBICADA, D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN OCTAVA. DE LAS ATRIBUCIONES
 
 ###### ARTÍCULO 122.
 
@@ -1753,7 +2105,9 @@ VII. Integrar las comisiones o comités que se requieran para el oportuno despac
 
 VIII. Instruir y, en su caso, resolver el recurso de inconformidad en los términos del reglamento respectivo;
 
-IX. Autorizar la celebración de convenios de reconocimiento de adeudo y facilidades de pago, relativos a cuotas obrero patronales, capitales constitutivos, actualización y recargos moratorios; aprobar el cambio de garantía de dichos convenios, la cancelación de créditos fiscales a favor del Instituto y a cargo de patrones no localizados o insolventes, así como condonar recargos moratorios. Estas atribuciones se ejercerán con sujeción a las normas autorizadas al efecto por el Consejo Técnico y sin perjuicio de las facultades otorgadas por el mismo a otros órganos o servidores públicos del Instituto;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+IX. Autorizar el cambio de garantía en tratándose de pagos en parcialidades o diferidos, la cancelación de adeudos fiscales a favor del Instituto y a cargo de patrones no localizados o insolventes. Estas atribuciones, se ejercerán con sujeción a las normas autorizadas al efecto por el Consejo Técnico y sin perjuicio de las facultades otorgadas por este último a otros órganos o servidores públicos del Instituto;
 
 X. Cancelar créditos a cargo de personas no localizadas o insolventes, por concepto de servicios médicos y farmacéuticos otorgados por el Instituto sin ser derechohabientes, con sujeción a las normas autorizadas por el Consejo Técnico;
 
@@ -1761,13 +2115,17 @@ XI. Autorizar, en casos excepcionales y previo estudio socioeconómico, la inscr
 
 XII. Vigilar que las adquisiciones en la plaza correspondiente, se ajusten a los requisitos establecidos por las leyes y los reglamentos aplicables y por las autoridades competentes del Instituto;
 
-XIII. Autorizar y vigilar la oportuna promoción de juicios ante el Tribunal Fiscal de la Federación, para solicitar la declaración de nulidad de resoluciones administrativas favorables a un particular;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XIII. Autorizar y vigilar la oportuna promoción de juicios ante el Tribunal Federal de Justicia Fiscal y Administrativa, para solicitar la declaración de nulidad de resoluciones administrativas favorables a un particular;
 
 XIV. Conocer y resolver en los términos que marca el reglamento correspondiente, las quejas materia de su competencia;
 
 XV. Resolver el recurso de revocación a que se refiere el Reglamento del Recurso de Inconformidad;
 
-XVI. Vigilar el funcionamiento de los servicios del Instituto en la circunscripción de la Delegación y sugerir las medidas conducentes al mejor funcionamiento de los servicios médicos, de prestaciones económicas y sociales, de afiliación y cobranza y administrativos a cargo de la misma;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XVI. Vigilar el funcionamiento de los servicios del Instituto en la circunscripción de la Delegación y sugerir las medidas conducentes al mejor funcionamiento de los servicios médicos, de prestaciones económicas y sociales, de incorporación al seguro social y recaudación y administrativos a cargo de la misma;
 
 XVII. Autorizar, en casos especiales, el reingreso al régimen obligatorio del Seguro Social, a través de la continuación voluntaria prevista en los artículos 218 a 220 de la Ley;
 
@@ -1781,13 +2139,17 @@ XXI. Las demás que les señalen la Ley, sus reglamentos, la Asamblea General y 
 
 El Consejo Técnico podrá ampliar, restringir o modificar en cualquier forma o bien suspender las facultades a que se refiere este artículo, cuando lo considere necesario para garantizar la buena marcha institucional.
 
-#### SECCIÓN CUARTA. DEL SECRETARIO
+(REUBICADA, D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN NOVENA. DEL PRESIDENTE
 
 ###### ARTÍCULO 123.
 
 Son atribuciones del Presidente del Consejo Consultivo Delegacional, las siguientes:
 
-I. Presidir las sesiones ordinarias y extraordinarias;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+I. Convocar y presidir las sesiones ordinarias y extraordinarias;
 
 II. Autorizar la orden del día de las sesiones y someter a la consideración del Consejo Consultivo Delegacional los asuntos a tratar;
 
@@ -1815,7 +2177,9 @@ XIII. Dictar medidas para que los diversos órganos y unidades administrativas d
 
 XIV. Las demás que le señalen la Ley, sus reglamentos, la Asamblea General y el Consejo Técnico.
 
-#### SECCIÓN QUINTA. DE LAS SESIONES
+(REUBICADA, D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN DÉCIMA. DE LOS CONSEJEROS
 
 ###### ARTÍCULO 124.
 
@@ -1837,7 +2201,9 @@ VII. Notificar oportunamente al Presidente del Consejo Consultivo Delegacional c
 
 VIII. Los demás que señalen la Ley, sus reglamentos, la Asamblea General y el Consejo Técnico.
 
-#### SECCIÓN PRIMERA. DE LAS SUBDELEGACIONES
+(REUBICADA, D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN DÉCIMA PRIMERA. DEL SECRETARIO
 
 ###### ARTÍCULO 125.
 
@@ -1877,7 +2243,9 @@ XIII. Suplir al Presidente del Consejo Consultivo Delegacional durante sus ausen
 
 XIV. Las demás que le señalen la Ley, sus reglamentos, la Asamblea General, el Consejo Técnico, el Consejo Consultivo Delegacional y el Presidente de éste.
 
-#### SECCIÓN SEGUNDA. DE LAS OFICINAS PARA COBROS
+(REUBICADA, D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN DÉCIMA SEGUNDA. DE LAS SESIONES
 
 ###### ARTÍCULO 127.
 
@@ -1963,13 +2331,93 @@ El Secretario entregará copia del acta aprobada a cada uno de los sectores que 
 
 En caso de duda sobre la aplicación de este Reglamento o de aspectos no previstos en el mismo, se deberá formular consulta al Consejo Técnico por conducto de la Secretaría General del Instituto, para que dicho Cuerpo Colegiado determine el criterio a seguir.
 
-#### SECCIÓN TERCERA. DE LA CIRCUNSCRIPCIÓN TERRITORIAL
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-### CAPÍTULO PRIMERO. DE LOS CONSEJOS CONSULTIVOS DELEGACIONALES
+#### SECCIÓN DÉCIMA TERCERA. DE LAS JUNTAS DE GOBIERNO DE LAS UNIDADES MEDICAS DE ALTA ESPECIALIDAD
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 142 A. Las Juntas de Gobierno de las Unidades Médicas de Alta Especialidad, dependen del Consejo Técnico, son órganos de gobierno de las mismas y tendrán las atribuciones que les confiere este Reglamento y demás ordenamientos aplicables, así como los acuerdos emitidos por los órganos superiores del Instituto.
+
+La Junta de Gobierno de cada Unidad Médica de Alta Especialidad, se integrará por un representante designado por el Director de Prestaciones Médicas, quien la presidirá, y el director de la Unidad Médica de Alta Especialidad que fungirán como representantes gubernamentales, dos representantes del sector obrero y dos del sector patronal.
+
+La Junta de Gobierno de cada Unidad Médica de Alta Especialidad designará al servidor público de la misma que fungirá como Secretario.
+
+La Junta de Gobierno podrá invitar a sus sesiones a representantes de instituciones de investigación y docencia o de atención médica, así como a representantes de grupos interesados de los sectores público, social y privado, los que asistirán con voz pero sin voto, estrictamente respecto del asunto para el que fueron convocados. A dichas sesiones asistirá como invitado permanente un representante de investigación en salud o de educación en salud.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 142 B. Las Juntas de Gobierno de las Unidades Médicas de Alta Especialidad tendrán las atribuciones siguientes:
+
+I. Presentar para la validación de la Dirección de Prestaciones Médicas, el programa operativo anual de la Unidad Médica de Alta Especialidad, para que esta última los someta a la consideración de la Dirección de Planeación y Finanzas, para su consolidación en el anteproyecto de presupuesto de ingresos y egresos del Instituto, que deberá aprobar el Consejo Técnico;
+
+II. Vigilar que el presupuesto autorizado se ejerza de acuerdo con los objetivos y metas trazados para la operación de los servicios institucionales a su cargo, conforme a los indicadores y procesos generales establecidos;
+
+III. Proponer al Consejo Técnico, previa validación de las Direcciones de Prestaciones Médicas y de Planeación y Finanzas, los lineamientos para la aplicación de recursos que genere la propia Unidad Médica de Alta Especialidad;
+
+IV. Aprobar los informes que rinda el Director de la Unidad Médica de Alta Especialidad y evaluar los logros operativos y el proceso de gestión administrativa de la misma;
+
+V. Aprobar la instalación de grupos de trabajo para apoyar las funciones de la Junta, y
+
+VI. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende el Director General.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 142 C. Las Juntas de Gobierno celebrarán sesiones ordinarias por lo menos tres veces al año, así como las extraordinarias que convoque su presidente.
+
+Las Juntas sesionarán válidamente con la asistencia de por lo menos, la mitad más uno de sus miembros. Los acuerdos se tomarán por mayoría de los miembros presentes y el presidente tendrá voto de calidad, en caso de empate.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 142 D. En lo conducente a esta Sección le será aplicable lo establecido en las Secciones Séptima, Novena, Décima, Décima Primera y Décima Segunda de este Capítulo.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS DE OPERACIÓN ADMINISTRATIVA DESCONCENTRADA
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+#### SECCIÓN PRIMERA. DE LAS DIRECCIONES REGIONALES
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 142 E. Los órganos de operación administrativa desconcentrada a que se refiere este Capítulo estarán jerárquicamente subordinados al Director General, tendrán autonomía de gestión en los aspectos técnicos, administrativos y presupuestarios y se sujetarán a las disposiciones que expida el Consejo Técnico y los demás órganos superiores del Instituto, así como a las disposiciones jurídicas aplicables en materia presupuestaria.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 142 F. Las Direcciones Regionales son unidades administrativas de representación del Instituto en las regiones que señale el Consejo Técnico y fungirán como órganos responsables de la coordinación y apoyo de las delegaciones que las integran, así como de vigilar que acaten las disposiciones legales, reglamentarias y administrativas, así como los lineamientos normativos relacionados con su función, evaluar sus resultados y resolver los asuntos que las mismas les planteen.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 142 G. Las Direcciones Regionales tendrán las facultades siguientes:
+
+I. Apoyar, coordinar y supervisar el funcionamiento de las delegaciones de su ámbito de competencia, a fin de que las mismas puedan alcanzar sus metas;
+
+II. Formular de acuerdo con las delegaciones que integran la región, conforme a los lineamientos establecidos, los programas regionales respectivos, así como evaluar sus avances y cumplimiento;
+
+III. Vigilar, conforme a la normatividad establecida, el correcto ejercicio del presupuesto asignado a las delegaciones que integran la región, de acuerdo a los objetivos y metas presentadas por éstas;
+
+IV. Vigilar y evaluar el cumplimiento de las normas y procesos operativos de cada Delegación integrante de la región, de acuerdo a los métodos y sistemas establecidos por los órganos normativos, en las materias competencia de la Delegación;
+
+V. Someter al acuerdo de la Dirección de Desarrollo de Personal y Organización, las solicitudes de reconsideración de las rescisiones de la relación laboral que se hayan resuelto en las delegaciones que integran su circunscripción territorial, a las cuales deberán acompañar su opinión;
+
+VI. Integrar y analizar la información estadística que se genere en las delegaciones y en las unidades operativas ubicadas en su circunscripción territorial;
+
+VII. Informar semestralmente a la Secretaría General sobre los resultados del análisis y de la evaluación realizados a la operación y funcionamiento de las delegaciones que integran la región;
+
+VIII. Asesorar y apoyar al Delegado que corresponda, para que se tomen las medidas correctivas necesarias, a fin de resolver los problemas identificados en la evaluación de la prestación de los servicios del Instituto, y
+
+IX. Las demás que le señalen la Ley, sus reglamentos, este Reglamento, los acuerdos del Consejo Técnico, así como las que le encomienden, el Director General, las Direcciones y el Consejo Consultivo Regional.
+
+(REUBICADA, D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN SEGUNDA. DE LAS DELEGACIONES
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 143.
 
-Las delegaciones del Instituto serán las directamente responsables de la operación de los servicios institucionales, establecerán la coordinación necesaria entre sus diferentes áreas y proporcionarán a las unidades que las conforman los presupuestos y recursos necesarios para que éstas puedan cumplir de manera eficiente con las metas fijadas en los programas de trabajo.
+Las delegaciones del Instituto serán las directamente responsables de la operación de los servicios institucionales, excepto los encomendados a la Unidades Médicas de Alta Especialidad, establecerán la coordinación necesaria entre sus diferentes áreas y proporcionarán a las unidades que las conforman los presupuestos y recursos necesarios para que éstas puedan cumplir de manera eficiente con las metas fijadas en los programas de trabajo.
 
 ###### ARTÍCULO 144.
 
@@ -2001,17 +2449,15 @@ Las delegaciones informarán a las Direcciones Regionales de aquellos asuntos qu
 
 ###### ARTÍCULO 149.
 
-La designación del Delegado se hará en los términos de los artículos 264, fracción IX y 268, fracción VII de la Ley, quien deberá reunir los requisitos siguientes:
-
-I. Ser mexicano por nacimiento, de reconocida honorabilidad, y
-
-II. Tener capacidad técnica en materia de seguridad social.
+(DEROGADO, D.O.F. 19 DE JUNIO DE 2003)
 
 ###### ARTÍCULO 150.
 
 Son atribuciones del Delegado dentro de su circunscripción territorial, las siguientes:
 
-I. Representar al Instituto, como organismo fiscal autónomo, ante todas las autoridades con la suma de facultades generales y especiales que requiera la Ley, así como representar legalmente al Instituto como persona moral con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje y las especiales que requieran cláusula especial conforme al Código Civil para el Distrito Federal, en Materia Común y para toda la República en Materia Federal en los términos del poder notarial conferido, pudiendo sustituir total o parcialmente éste en favor del titular de la Jefatura de Servicios Jurídicos y abogados respectivos;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+I. Representar al Instituto, como organismo fiscal autónomo, ante todas las autoridades con la suma de facultades generales y especiales que requiera la Ley, así como representar legalmente al Instituto como persona moral con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje y las especiales que requieran cláusula especial conforme al Código Civil Federal, en los términos del poder notarial conferido, pudiendo sustituir total o parcialmente éste en favor del titular de la Jefatura de Servicios Jurídicos y abogados respectivos;
 
 II. Ejercer el presupuesto autorizado de acuerdo a los objetivos y metas trazados para la operación de los servicios institucionales y conforme a los indicadores y procesos generales establecidos;
 
@@ -2039,795 +2485,1069 @@ XIII. Conceder o negar, previo estudio y opinión de la dependencia de Prestacio
 
 XIV. Informar de manera inmediata al Director Regional, respecto de aquellos asuntos que por su importancia y trascendencia exista la posibilidad de afectación a los intereses del Instituto y que, en su caso, deban analizarse en las sesiones del Consejo Consultivo Regional, sin perjuicio de las medidas provisionales que adopte al respecto;
 
-XV. Imponer las sanciones a que se refiere el Reglamento para la Imposición de Multas por Infracción a las Disposiciones de la Ley del Seguro Social y sus Reglamentos;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XV. Imponer las multas y demás sanciones a que se refieren la Ley y el Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, con excepción de las sanciones administrativas a los contadores públicos autorizados;
 
 XVI. Aplicar las medidas correctivas que dicte el Director Regional respecto de las irregularidades identificadas en la evaluación de la prestación de los servicios del Instituto;
 
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
 XVII. Llevar a cabo los actos relacionados a:
 
-a) El registro de patrones y demás sujetos obligados;
+a) El registro de patrones y demás sujetos obligados.
 
-b) La afiliación de trabajadores y demás sujetos de aseguramiento;
+b) La clasificación de empresas y determinación de la prima en el seguro de riesgos de trabajo.
 
-c) El registro de los beneficiarios legales de los asegurados;
+c) La afiliación de trabajadores y demás sujetos de aseguramiento.
 
-d) La certificación de la vigencia de derechos para el otorgamiento de las prestaciones en dinero y en especie;
+d) El registro de los beneficiarios legales de los asegurados.
 
-e) La emisión de liquidaciones por cuotas obrero patronales, cuando así proceda, así como capitales constitutivos, actualización, recargos y multas, la notificación y cobro de los mismos;
+e) La certificación sobre la vigencia de derechos para el otorgamiento de las prestaciones en especie y en dinero.
 
-f) La planeación, programación y realización de visitas domiciliarias, específicas y auditorías, la autocorrección voluntaria e inducida de patrones y el dictamen para efectos del Seguro Social de contador público autorizado;
+f) La determinación, emisión, notificación y cobro de liquidaciones por cuotas obrero patronales, capitales constitutivos, actualización, recargos y multas, así como por los gastos realizados por el Instituto por inscripciones improcedentes y los que tenga derecho a exigir de las personas no derechohabientes.
 
-g) El establecimiento de metas relativas a la regularización de patrones y trabajadores y a la determinación y recaudación de contribuciones y sus accesorios;
+g) La autorización, en el ámbito de su competencia, de las solicitudes de prórroga para el pago diferido o en parcialidades de créditos fiscales a favor del Instituto, en términos de la Ley, sus reglamentos y demás disposiciones aplicables, así como presentar al Consejo Técnico las solicitudes relativas a los casos previstos en el artículo 40 E de la Ley.
 
-h) La celebración de convenios para el pago de cuotas, capitales constitutivos, actualización y recargos, así como presentar al Consejo Técnico las propuestas de convenios de aquellas solicitudes que rebasen la competencia de los Consejos Consultivos Regionales.
+h) Los trámites administrativos relativos a la calificación, aceptación, control, efectividad y cancelación de pólizas de fianza, otorgadas en garantía de créditos fiscales a favor del Instituto.
 
-Asimismo, podrá ordenar la suspensión de los procedimientos de cobro, por trámite de convenio o aclaración de adeudos;
+i) La incorporación voluntaria al régimen obligatorio de los sujetos que precisa la Ley.
 
-i) Los trámites administrativos relativos a la calificación, aceptación, control, efectividad y cancelación de pólizas de fianza, otorgadas en garantía de créditos fiscales en favor del Instituto;
+j) El cobro de las multas impuestas por infracciones a la Ley y sus reglamentos.
 
-j) La incorporación voluntaria al régimen obligatorio de los sujetos que precisa la Ley;
+k) La incorporación al régimen voluntario del Seguro Social, mediante el seguro de salud para la familia.
 
-k) El cobro de las multas impuestas por infracciones a la Ley y sus reglamentos, así como su administración, tendiente a modernizar los esquemas de incentivos de productividad en la recaudación;
+l) La inscripción en la continuación voluntaria en los seguros conjuntos de invalidez y vida y de retiro, cesantía en edad avanzada y vejez.
 
-l) La incorporación al régimen voluntario del Seguro Social, mediante el seguro de salud para la familia;
+m) La contratación de seguros adicionales.
 
-m) La cancelación por incobrabilidad, de créditos fiscales a favor del Instituto, así como presentar los casos que se deban someter a consideración del Consejo Técnico, cuando por su importancia, trascendencia o cuantía así lo ameriten;
+n) La cancelación por incobrabilidad o por incosteabilidad de los créditos fiscales a favor del Instituto, en los términos que apruebe el Consejo Técnico del Instituto.
 
-n) La continuación voluntaria en los seguros conjuntos de invalidez y vida y de retiro, cesantía en edad avanzada y vejez, y
+o) El dictamen formulado por contador público sobre el cumplimiento de las disposiciones contenidas en la Ley y sus reglamentos.
 
-o) La contratación de seguros adicionales.
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-XVIII. Las demás que le señalen la Ley, sus reglamentos, este Reglamento, los acuerdos del Consejo Técnico y los manuales de organización.
+XVIII. Conceder, rechazar y modificar las pensiones que, conforme a la Ley, le corresponde otorgar al Instituto;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XIX. Recaudar y cobrar las cuotas de los seguros de riesgos de trabajo, enfermedades y maternidad, invalidez y vida, guarderías y prestaciones sociales, salud para la familia y adicionales, los capitales constitutivos, así como sus accesorios legales y, percibir los demás recursos del Instituto. De igual forma, recaudar y cobrar las cuotas y sus accesorios legales del seguro de retiro, cesantía en edad avanzada y vejez;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XX. Ratificar o rectificar la clase, fracción y la prima de riesgo de las empresas para efectos de la cobertura de las cuotas del seguro de riesgos de trabajo;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXI. Ordenar y practicar las investigaciones correspondientes en los casos de sustitución patronal y de responsabilidad solidaria previstas en la Ley y en el Código Fiscal de la Federación, y emitir los dictámenes respectivos;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXII. Establecer coordinación con las dependencias y entidades de la Administración Pública Federal, del Distrito Federal, Estatales y Municipales para el cumplimiento de sus objetivos;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXIII. Llevar a cabo los procedimientos de contratación que tengan por objeto la adquisición, arrendamiento y prestación de servicios, así como de obra pública y servicios relacionados con la misma, en los términos de la legislación, disposiciones reglamentarias y administrativas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXIV. Planear, programar, organizar, controlar y administrar los recursos humanos, materiales y presupuestarios asignados para el desarrollo de sus funciones;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXV. Analizar en forma permanente los indicadores de variación del número de patrones y demás sujetos obligados de la circunscripción territorial de las Subdelegaciones dependientes, así como evaluar las extensiones territoriales, vías de comunicación, medios de transporte y demás circunstancias que estime pertinentes, a efecto de proponer, en su caso, a las unidades administrativas competentes, la reclasificación, fusión, supresión o creación de nuevas Subdelegaciones;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXVI. Resolver las solicitudes de declaratoria de prescripción de la obligación patronal de enterar las cuotas obrero patronales y los capitales constitutivos, cuando lo soliciten los patrones y demás sujetos obligados, en los términos del Código Fiscal de la Federación y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXVII. Resolver, en el ámbito de su competencia, conforme a la Ley y demás disposiciones aplicables, las solicitudes presentadas por los patrones y demás sujetos obligados, relativas a dejar sin efectos las multas impuestas por incumplimiento del pago de los conceptos fiscales señalados en la Ley;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXVIII. Resolver conforme a la Ley y demás disposiciones aplicables, las solicitudes presentadas por los patrones y demás sujetos obligados, relativas a la rectificación de clase, fracción y prima para la cobertura del seguro de riesgos de trabajo;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXIX. Supervisar que las unidades administrativas adscritas cumplan con la aplicación de las disposiciones de la Ley y sus reglamentos, las demás disposiciones legales aplicables, así como de los criterios emitidos por el Consejo Técnico del Instituto y la normatividad emitida en el área de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXX. Supervisar observaciones, recomendaciones y solicitudes de información, derivados de los actos de fiscalización practicados por órganos revisores, estableciendo mecanismos de control, seguimiento y análisis; aplicar las medidas preventivas y correctivas para evitar la reincidencia;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXXI. Resolver, conforme a la Ley y demás disposiciones aplicables, las solicitudes de condonación de multas;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXXII. Otorgar los permisos de uso de espacios disponibles en inmuebles institucionales de conformidad con los lineamientos emitidos por el Consejo Técnico y, en su caso, suscribirlos;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXXIII. Enajenar, en los términos de las disposiciones aplicables, los bienes aceptados como dación en pago con motivo de la aplicación del procedimiento administrativo de ejecución;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXXIV. Formular y levantar los pliegos preventivos de responsabilidades a que se refieren el Capítulo V de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y el Título Quinto, Capítulo IV de su Reglamento, a los servidores públicos adscritos dentro de su circunscripción territorial que incurran en alguna irregularidad con motivo de sus funciones, y que causen un daño o perjuicio al patrimonio del Instituto, y
+
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+XXXV. Las demás que le señalen la Ley y sus reglamentos, los acuerdos del Consejo Técnico y demás disposiciones.
 
 ###### ARTÍCULO 151.
 
 Los delegados en su ámbito de competencia y circunscripción territorial, para la prestación de los servicios institucionales de manera operativa, ejercerán a través de sus unidades administrativas internas, las atribuciones conferidas en este Reglamento a las direcciones, y coordinaciones generales, salvo aquellas cuyo ejercicio expresamente limiten o se reserven éstas.
 
-### CAPÍTULO SEGUNDO. DE LAS DELEGACIONES
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+#### SECCIÓN TERCERA. DE LAS UNIDADES MÉDICAS DE ALTA ESPECIALIDAD
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 151 A. Las Unidades Médicas de Alta Especialidad ejercerán a nivel nacional las facultades siguientes:
+
+I. Proporcionar consulta externa, atención hospitalaria médico quirúrgica, farmacéutica, auxiliares de diagnóstico y tratamiento, y servicios de admisión continua de alta especialidad, a los derechohabientes que les sean remitidos por otras unidades médicas del Instituto, así como a los no derechohabientes que estén amparados en virtud de los diferentes convenios que contempla la Ley, sin afectar la atención de los derechohabientes y hasta el límite de su capacidad instalada;
+
+II. Prestar servicios de salud en aspectos preventivos, médico quirúrgicos y de rehabilitación de alta complejidad en sus áreas de especialización a la población señalada en la fracción anterior;
+
+III. Promover acciones para la protección de la salud, en lo relativo a los padecimientos propios de sus especialidades;
+
+IV. Realizar estudios e investigaciones clínicos, epidemiológicos, experimentales, de desarrollo tecnológico y en ciencias básicas, en las áreas biomédicas y sociomédicas en el campo de sus especialidades, para la comprensión, prevención, diagnóstico y tratamiento de las enfermedades y rehabilitación de los derechohabientes, así como para promover medidas de salud;
+
+V. Coadyuvar en planes y programas de estudio de formación y educación continua con instituciones educativas y de salud públicas y privadas, nacionales o extranjeras de acuerdo a la normatividad vigente, conforme a los convenios que haya celebrado el Instituto;
+
+VI. Coadyuvar a la vigilancia epidemiológica de las enfermedades infecciosas y crónico degenerativas, así como otros problemas en salud que enfrente el Instituto;
+
+VII. Contribuir al desarrollo de la tecnología para el diagnóstico y tratamiento de enfermedades infecciosas, crónico degenerativas y otros problemas en salud que enfrente el Instituto;
+
+VIII. Fungir como órgano de asesoría del Director de Prestaciones Médicas y de los centros especializados de investigación, enseñanza o atención médica del Instituto, así como de otras instituciones de cualquier naturaleza que estén facultados a requerirlos ya sea por disposiciones legales o en virtud de convenios;
+
+IX. Someter a la aprobación del Director de Prestaciones Médicas sus proyectos de Programas Operativos Anuales;
+
+X. Administrar los ingresos y recursos derivados de los servicios que en ellas se ofrecen, en los términos que emita el Consejo Técnico;
+
+XI. Formular y levantar los pliegos preventivos de responsabilidades a que se refieren el Capítulo V de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y el Título Quinto, Capítulo IV de su Reglamento, a los servidores públicos adscritos a la Unidad Médica de Alta Especialidad que incurran en alguna irregularidad con motivo de sus funciones, y que causen un daño o perjuicio al patrimonio del Instituto, y
+
+XII. Las demás que señalen la Ley, sus reglamentos y acuerdos del Consejo Técnico, así como aquellas que le encomiende el Director General.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 151 B. Son atribuciones del Director de la Unidad Médica de Alta Especialidad, las siguientes:
+
+I. Representar legalmente al Instituto en los asuntos de su competencia, ante todas las autoridades con la suma de facultades generales y especiales que requiera la Ley y que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje, así como las especiales que requieran cláusula especial conforme al Código Civil Federal en los términos del poder notarial conferido;
+
+II. Ejercer el presupuesto autorizado de acuerdo a los objetivos y metas trazados para la operación de los servicios institucionales a su cargo y conforme a los indicadores y procesos generales establecidos;
+
+III. Ejercer actos de dominio a nombre del Instituto, previo acuerdo del Consejo Técnico y en los términos del poder notarial conferido;
+
+IV. Otorgar los permisos de uso de espacios disponibles en las áreas de las Unidades Médicas de Alta Especialidad, conforme a los lineamientos expedidos por el Consejo Técnico y, en su caso, suscribirlos;
+
+V. Presidir los Comités que se integren para toma de decisiones en los asuntos operacionales;
+
+VI. Proponer al Consejo Técnico, por conducto de la Dirección de Prestaciones Médicas, previa opinión de la Junta de Gobierno de la Unidad Médica de Alta Especialidad, las adecuaciones administrativas;
+
+VII. Presentar a la Dirección de Desarrollo de Personal y Organización, la solicitud de reconsideración de la rescisión de la relación laboral de los trabajadores adscritos a su unidad;
+
+VIII. Celebrar convenios en los juicios laborales, en los términos de la normatividad respectiva;
+
+IX. Aceptar las renuncias de los trabajadores y autorizar los finiquitos que correspondan conforme a las estipulaciones contenidas en los contratos individuales de trabajo y en el Contrato Colectivo de Trabajo;
+
+X. Informar de manera inmediata a la Dirección de Prestaciones Médicas, respecto de aquellos asuntos que por su importancia y trascendencia exista la posibilidad de afectación a los intereses del Instituto, sin perjuicio de las medidas provisionales que adopte al respecto;
+
+XI. Aplicar las medidas correctivas que dicte la Dirección de Prestaciones Médicas respecto de las irregularidades identificadas en la evaluación de la prestación de los servicios de su competencia;
+
+XII. Llevar a cabo los actos relacionados con:
+
+a). La información, bases de datos y sistemas institucionales actualizados para que los mismos estén disponibles para la Unidad Médica de Alta Especialidad, a efecto de que le sirva como instrumento en la toma de decisiones de su competencia; en particular aquellos que como la certificación de la vigencia de derechos sirvan de base para el otorgamiento de las prestaciones en dinero y en especie a los derechohabientes del Instituto.
+
+b). La aceptación del pago, por adeudos que se generen con motivo de las atenciones médicas a personas que carezcan del derecho a recibirla, y en caso de no pago, la remisión oportuna a las oficinas facultadas por el Instituto para su cobro.
+
+XIII. Planear, ejecutar y evaluar planes y programas de estudio de formación y educación continua;
+
+XIV. Elaborar, de acuerdo con la normatividad establecida, los manuales de organización interna, procedimientos y demás disposiciones administrativas indispensables para su funcionamiento;
+
+XV. Elaborar y presentar al Director de Prestaciones Médicas, los informes que de acuerdo a su marco de atribuciones deba presentar, así como los que le sean requeridos;
+
+XVI. Llevar a cabo los procedimientos de contratación que tengan por objeto la adquisición, arrendamiento y prestación de servicios, así como de obra pública y servicios relacionados con la misma, en los términos de la legislación, disposiciones reglamentarias y administrativas aplicables;
+
+XVII. En general planear, programar, organizar, controlar y administrar los recursos humanos, materiales y presupuestarios asignados para el desarrollo de sus funciones, en los términos de la Ley, sus reglamentos y demás disposiciones aplicables, y
+
+XVIII. Las demás que le señalen la Ley, sus reglamentos, este Reglamento, los acuerdos del Consejo Técnico y las que les encomiende el Director General.
+
+(REUBICADO, D.O.F. 19 DE JUNIO DE 2003)
+
+### CAPÍTULO TERCERO. DE LOS ÓRGANOS OPERATIVOS
+
+(REUBICADA, D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN PRIMERA. DE LAS SUBDELEGACIONES
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 152.
 
-Las subdelegaciones son unidades de servicio integrantes de las delegaciones del Instituto.
+Las subdelegaciones son órganos operativos de las delegaciones del Instituto.
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 153.
 
-Son atribuciones de las subdelegaciones, dentro de su circunscripción territorial, las de afiliación, cobranza, fiscalización, revisión de dictámenes formulados por contador público, la imposición de sanciones a que se refiere el Reglamento para la Imposición de Multas por Infracción a las Disposiciones de la Ley del Seguro Social y sus Reglamentos, así como las que se determinen en la Ley, sus reglamentos y las demás que les confieran los órganos superiores del Instituto.
+Son atribuciones de las subdelegaciones, dentro de su circunscripción territorial:
+
+I. Ejecutar los acuerdos y resoluciones emitidos por el Consejo Técnico, la Dirección General, la Dirección de Incorporación y Recaudación del Seguro Social, el Consejo Consultivo Delegacional y la Delegación;
+
+II. Recibir los escritos de inconformidad y turnarlos a la Delegación con los antecedentes y documentos del caso, para su resolución por el Consejo Consultivo Delegacional;
+
+III. Registrar a los patrones y demás sujetos obligados, clasificar a los patrones de acuerdo a su actividad y determinar la prima del seguro de riesgos de trabajo, así como inscribir a los trabajadores y demás sujetos de aseguramiento y precisar su base de cotización;
+
+IV. Certificar la vigencia de derechos para el otorgamiento de las prestaciones en especie y en dinero;
+
+V. Autorizar la asignación del registro patronal único cuando el patrón que lo solicite cumpla con los requisitos establecidos por el Consejo Técnico;
+
+VI. Ratificar o rectificar la clase, fracción y la prima de riesgo de las empresas para efectos de la cobertura de las cuotas del seguro de riesgos de trabajo;
+
+VII. Dar asistencia a los patrones y demás sujetos obligados, a los trabajadores y demás sujetos de aseguramiento, con respecto a los trámites relativos a su registro, clasificación y determinación de la prima del seguro de riesgos de trabajo e inscripción, así como en relación a sus derechos y obligaciones previstos en la Ley y sus reglamentos;
+
+VIII. Recaudar las cuotas de los seguros de riesgos de trabajo, enfermedades y maternidad, invalidez y vida, guarderías y prestaciones sociales, salud para la familia y adicionales, los capitales constitutivos, y sus accesorios legales; imponer y recaudar las multas, los gastos erogados por servicios prestados a personas no derechohabientes, los gastos erogados por inscripciones improcedentes, así como percibir los demás recursos del Instituto. De igual forma, recaudar y cobrar las cuotas y sus accesorios legales del seguro de retiro, cesantía en edad avanzada y vejez;
+
+IX. Determinar, emitir, notificar y cobrar cédulas de liquidación por concepto de cuotas obrero patronales, capitales constitutivos, actualización, recargos y multas así como de gastos por servicios prestados a personas no derechohabientes o por inscripciones improcedentes;
+
+X. Determinar, emitir y notificar dictámenes, resoluciones de rectificación de clase, fracción y prima del seguro de riesgos de trabajo;
+
+XI. Recibir las solicitudes presentadas por los patrones y demás sujetos obligados, relativas a la autorización de prórroga para el pago diferido o en parcialidades de los créditos fiscales a favor del Instituto y, resolver las que sean de su competencia en los términos que disponga el Consejo Técnico;
+
+XII. Ordenar y llevar a cabo, con el personal que en cada caso designe, las visitas domiciliarias que considere necesarias, y requerir la exhibición de libros y documentos, a fin de comprobar el cumplimiento de las obligaciones que se derivan de la Ley y sus reglamentos;
+
+XIII. Llevar a cabo, conforme a la normatividad aplicable, los programas de corrección patronal y de regularización de pago de cuotas, aprobados por la Dirección de Incorporación y Recaudación del Seguro Social y el Consejo Técnico;
+
+XIV. Integrar y someter a la consideración de la Dirección de Incorporación y Recaudación del Seguro Social, los expedientes de los asuntos en que se presuma la comisión de delitos en contra de los regímenes del seguro social;
+
+XV. Resolver las aclaraciones administrativas presentadas por patrones y demás sujetos obligados, en relación con los créditos emitidos por concepto de cuotas obrero patronales, capitales constitutivos, actualización, recargos y multas;
+
+XVI. Resolver conforme a la Ley y demás disposiciones aplicables, las solicitudes presentadas por los patrones y demás sujetos obligados, relativas a dejar sin efectos las multas impuestas por incumplimiento del pago de los conceptos fiscales señalados en la Ley;
+
+XVII. Tramitar y resolver las solicitudes de suspensión del procedimiento administrativo de ejecución, cuando se interpongan los recursos previstos en el Código Fiscal de la Federación relativos a dicho procedimiento;
+
+XVIII. Aplicar las políticas, criterios, normas y programas establecidos por las unidades administrativas competentes, de conformidad con lo previsto en los artículos 78 B, fracción I, y 78 C, fracción I, de este Reglamento;
+
+XIX. Dar de baja del régimen obligatorio a los patrones, sujetos obligados y asegurados, verificada por el Instituto la desaparición o inexistencia del supuesto de hecho que dio origen a su aseguramiento, aun cuando el patrón o sujetos obligados hubiesen omitido presentar el aviso de baja respectivo;
+
+XX. Determinar la existencia, contenido y alcance de las obligaciones incumplidas por los patrones y demás sujetos obligados en los términos de la Ley, aplicando en su caso, los datos con los que cuente o con apoyo en los hechos que conozca con motivo del ejercicio de las facultades de comprobación, de la revisión del dictamen de contador público autorizado, o bien, a través de los expedientes o documentos proporcionados por otras autoridades fiscales;
+
+XXI. Ordenar y practicar las investigaciones correspondientes en los casos de sustitución patronal y de responsabilidad solidaria previstos en la Ley y en el Código Fiscal de la Federación y emitir los dictámenes respectivos;
+
+XXII. Revisar los dictámenes formulados por contadores públicos sobre el cumplimiento de las disposiciones contenidas en la Ley y sus reglamentos;
+
+XXIII. Rectificar los errores aritméticos, omisiones u otros que aparezcan en las solicitudes, avisos o cédulas de determinación presentados por los patrones, para lo cual podrá requerirles la presentación de la documentación que proceda; requerir a los patrones, responsables solidarios o terceros con ellos relacionados, sin que medie visita domiciliaria, para que exhiban, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran;
+
+XXIV. Contratar, conforme a lo autorizado por las unidades administrativas competentes y en apego a las disposiciones aplicables, al personal que participe en el desarrollo de las labores relativas a notificación, aplicación del procedimiento administrativo de ejecución, programas de fiscalización y de corrección patronal;
+
+XXV. Cancelar por incobrabilidad o por incosteabilidad los créditos fiscales a favor del Instituto, en los términos que apruebe el Consejo Técnico del Instituto;
+
+XXVI. Autorizar la renovación extemporánea del aseguramiento en la incorporación voluntaria al régimen obligatorio y el seguro de salud para la familia, dentro de los plazos que establece el Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, y
+
+XXVII. Las demás que señalan la Ley, sus reglamentos, este Reglamento y demás disposiciones.
 
 ###### ARTÍCULO 154.
 
-La designación del Subdelegado se hará por parte de la Dirección de Afiliación y Cobranza, escuchando la opinión de la Dirección Regional correspondiente.
+(DEROGADO, D.O.F. 19 DE JUNIO DE 2003)
 
 ###### ARTÍCULO 155.
 
 El Consejo Técnico a propuesta del Director General determinará el criterio y bases de clasificación de las subdelegaciones.
 
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 156.
 
-Los subdelegados estarán subordinados jerárquicamente para el cumplimiento de sus funciones a la dependencia delegacional a quien correspondan las atribuciones de afiliación y cobranza y normativamente a las Direcciones de Afiliación y Cobranza y Prestaciones Económicas y Sociales en lo que respecta a la atención a pensionados.
+Los subdelegados estarán subordinados jerárquicamente para el cumplimiento de sus funciones a la Delegación, y normativamente a la Dirección de Incorporación y Recaudación del Seguro Social.
 
 ###### ARTÍCULO 157.
 
 Los subdelegados se coordinarán entre sí dentro de los ámbitos de su competencia, cuando los asuntos a su cargo requieran documentación, criterios de operación o cualquier otra información necesaria para efecto de coadyuvar al logro de los fines del Instituto.
 
+(REUBICADA, D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN SEGUNDA. DE LAS OFICINAS PARA COBROS
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 158.
 
-Las oficinas para cobros del Instituto Mexicano del Seguro Social son órganos integrantes de la subdelegación y las mismas tendrán las atribuciones que se determinan en la Ley, sus reglamentos y las demás que les confieran los órganos superiores del Instituto.
+Las oficinas para cobros son órganos integrantes de las subdelegaciones del Instituto y, dentro de su circunscripción territorial, tendrán las atribuciones siguientes:
+
+I. Hacer efectivos los créditos fiscales por concepto de cuotas, capitales constitutivos, actualización, multas, gastos realizados por el instituto por inscripciones improcedentes y los que tenga derecho a exigir de las personas no derechohabientes, así como los accesorios legales correspondientes;
+
+II. Aplicar el procedimiento administrativo de ejecución en los términos del Código Fiscal de la Federación;
+
+III. Tramitar y resolver los recursos previstos en el Código Fiscal de la Federación relativos al procedimiento administrativo de ejecución que lleven a cabo;
+
+IV. Tramitar las solicitudes presentadas por los patrones y demás sujetos obligados, relativas a la autorización de prórroga para el pago diferido o en parcialidades de los créditos fiscales a favor del Instituto, integrar y presentar al Titular de la Subdelegación los expedientes de los casos que le compete resolver, e integrar los expedientes de las solicitudes que se deban turnar para su atención a las unidades administrativas competentes para resolverlas, conforme a lo establecido en la Ley y demás disposiciones aplicables;
+
+V. Calificar las garantías de los créditos fiscales a favor del Instituto ofrecidas por los patrones y demás sujetos obligados, verificando que en cada caso se cumplan los requisitos para su constitución y que su monto cubra el interés fiscal, conforme a lo que señalen las disposiciones legales aplicables;
+
+VI. Requerir a las compañías afianzadoras el pago de fianzas otorgadas en favor del Instituto para garantizar las obligaciones fiscales a cargo de terceros e instaurar el procedimiento administrativo de ejecución conforme a lo previsto en el Código Fiscal de la Federación, cuando así se requiera para hacer efectivo el cobro del importe garantizado;
+
+VII. Integrar los expedientes de las solicitudes presentadas por los patrones y demás sujetos obligados, relativas a dejar sin efectos las multas impuestas por incumplimiento del pago de los conceptos fiscales señalados en la Ley, así como las solicitudes de condonación de dichas multas, y turnarlos a la unidad administrativa competente para resolver sobre dichas peticiones, conforme a la Ley y demás disposiciones aplicables, y
+
+VIII. Las demás que señalan la Ley, sus reglamentos, este Reglamento y demás disposiciones legales.
+
+(REUBICADA, D.O.F. 19 DE JUNIO DE 2003)
+
+#### SECCIÓN TERCERA. DE LA CIRCUNSCRIPCIÓN TERRITORIAL
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 159.
 
-Las Delegaciones, Subdelegaciones y oficinas para cobros del Instituto Mexicano del Seguro Social ejercerán las facultades que les confiere la Ley y sus reglamentos, este Reglamento y los acuerdos del Consejo Técnico, dentro de la circunscripción territorial siguiente:
+Las Delegaciones, Subdelegaciones y Oficinas para Cobros del Instituto ejercerán las facultades que les confiere la Ley y sus reglamentos, este Reglamento y los Acuerdos del Consejo Técnico, dentro de la circunscripción territorial siguiente:
 
-- DELEGACIÓN: Aguascalientes
+Delegación: Aguascalientes.
 
-JURISDICCIÓN: Estado de Aguascalientes.
+Jurisdicción: Estado de Aguascalientes.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Aguascalientes Norte.
+Subdelegación y Oficina para Cobros: Aguascalientes Norte.
 
-JURISDICCIÓN: Tomando como punto de partida el lado poniente del Estado de Aguascalientes en el vértice norte del límite del Municipio de Calvillo y San José de Gracia, con el límite de Zacatecas, continuando hacia el norte por el límite de los Estados de Aguascalientes y Zacatecas y los Municipios de Rincón de Romos y Cosío, continuando por el lado oriente de los límites del Estado de Aguascalientes y Zacatecas con los Municipios de Tepezala y Asientos, continuando hacia el sur con los límites de los Estados de Aguascalientes y Jalisco, y, los Municipios de Asientos y Aguascalientes, hacia el vértice que forma el lado norte de la carretera 70 a Ojuelos y el límite del Estado de Aguascalientes con el Estado de Jalisco, continuando por el lado norte de la carretera 70 hacia el poniente, hasta el vértice formado con la acera norte de la calzada Revolución de la ciudad de Aguascalientes capital del Estado, continuando por la acera del mismo lado hacia el poniente por las calles de Alameda, Juan de Montoro, Plaza de la Patria, Nieto, Boulevard Adolfo López Mateos y Boulevard Adolfo Ruiz Cortines, continuando por el lado norte de la carretera 70 Aguascalientes-Guadalajara, hasta el límite sur del Municipio de Jesús María, continuando por dicho límite hacia el poniente, hasta el límite del Municipio de Calvillo continuando hacia el norte por el límite de los municipios de Calvillo y Jesús María, hasta el vértice que forman los límites de los Municipios de Calvillo, Jesús María y San José de Gracia, continuando hacia el noroeste por el límite de los Municipios de Calvillo y San José de Gracia, hasta llegar al vértice del lado norte del límite del Municipio de Calvillo y San José de Gracia con el límite del Estado de Zacatecas que es el punto de partida y donde se cierra el área perimetral, mismo que incluye la circunscripción territorial de los Municipios de Jesús María, El Llano, Pabellón de Arteaga, San Francisco de los Romo, San José de Gracia, Rincón de Romos, Cosío, Tepezala y Asientos del Estado de Aguascalientes, así como el norte del Municipio de Aguascalientes del propio Estado.
+Jurisdicción: Tomando como punto de partida el lado poniente del Estado de Aguascalientes en el vértice norte del límite del Municipio de Calvillo y San José de Gracia, con el límite de Zacatecas, continuando hacia el norte por el límite de los Estados de Aguascalientes y Zacatecas y los Municipios de Rincón de Romos y Cosío, continuando por el lado oriente de los límites del Estado de Aguascalientes y Zacatecas con los Municipios de Tepezala y Asientos, continuando hacia el sur con los límites de los Estados de Aguascalientes y Jalisco, y, los Municipios de Asientos y Aguascalientes, hacia el vértice que forma el lado norte de la carretera 70 a Ojuelos y el límite del Estado de Aguascalientes con el Estado de Jalisco, continuando por el lado norte de la carretera 70 hacia el poniente, hasta el vértice formado con la acera norte de la Calzada Revolución de la ciudad de Aguascalientes capital del Estado, continuando por la acera del mismo lado hacia el poniente por las calles de Alameda, Juan de Montoro, Plaza de la Patria, Nieto, Boulevard Adolfo López Mateos y Boulevard Adolfo Ruiz Cortines, continuando por el lado norte de la carretera 70 Aguascalientes-Guadalajara, hasta el límite sur del Municipio de Jesús María, continuando por dicho límite hacia el poniente, hasta el límite del Municipio de Calvillo continuando hacia el norte por el límite de los Municipios de Calvillo y Jesús María, hasta el vértice que forman los límites de los Municipios de Calvillo, Jesús María y San José de Gracia, continuando hacia el noroeste por el límite de los Municipios de Calvillo y San José de Gracia, hasta llegar al vértice del lado norte del límite del Municipio de Calvillo y San José de Gracia con el límite del Estado de Zacatecas que es el punto de partida y donde se cierra el área perimetral, mismo que incluye la circunscripción territorial de los Municipios de Jesús María, El llano, Pabellón de Arteaga, San Francisco de los Romo, San José de Gracia, Rincón de Romos, Cosío, Tepezala y Asientos del Estado de Aguascalientes, así como el norte del Municipio de Aguascalientes del propio Estado.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Aguascalientes Sur.
+Subdelegación y Oficina para Cobros: Aguascalientes Sur.
 
-JURISDICCIÓN: Tomando como punto de partida el lado poniente del Estado de Aguascalientes, en el vértice sur del límite del Municipio de Calvillo y San José de Gracia con el límite del Estado de Zacatecas; continuando hacia el sur por el límite del Estado de Aguascalientes con el Estado de Jalisco y continuando hacia el oriente por el límite de los Estados de Aguascalientes y Jalisco, hasta el vértice que forman el lado sur de la carretera a Ojuelos y el límite del Estado de Jalisco, Zacatecas y Aguascalientes, continuando hacia el poniente por el lado sur de la carretera 70, hasta el vértice de la acera sur de la calzada Revolución de la ciudad de Aguascalientes capital del Estado, continuando por la misma acera sur de la calle Alameda, Juan de Montoro, Plaza de la Patria, Nieto, Boulevard Adolfo López Mateos y Boulevard Adolfo Ruiz Cortines continuando por el lado sur de la carretera 70 Aguascalientes-Guadalajara hasta el límite sur del Municipio Jesús María, continuando por el mismo camino, hasta el límite del Municipio de Calvillo y continuando hacia el norte por el mismo límite hasta el vértice que forman el límite de los Municipios de Jesús María, Calvillo y San José de Gracia, continuando hacia el noroeste por el límite de los Municipios de Calvillo y San José de Gracia hasta llegar al vértice sur del límite del Municipio de Calvillo y San José de Gracia del Estado de Aguascalientes con el límite del Estado de Zacatecas que es el punto de partida y donde se cierra el área perimetral, misma que incluye la circunscripción territorial del Municipio de Calvillo del Estado de Aguascalientes y el sur del Municipio de Aguascalientes del propio Estado.
+Jurisdicción: Tomando como punto de partida el lado poniente del Estado de Aguascalientes, en el vértice sur del límite del Municipio de Calvillo y San José de Gracia con el límite del Estado de Zacatecas; continuando hacia el sur por el límite del Estado de Aguascalientes con el Estado de Jalisco y continuando hacia el oriente por el límite de los Estados de Aguascalientes y Jalisco, hasta el vértice que forman el lado sur de la carretera a Ojuelos y el límite del Estado de Jalisco, Zacatecas y Aguascalientes, continuando hacia el poniente por el lado sur de la carretera 70, hasta el vértice de la acera sur de la Calzada Revolución de la ciudad de Aguascalientes capital del Estado, continuando por la misma acera sur de las calles Alameda, Juan de Montoro, Plaza de la Patria, Nieto, Boulevard Adolfo López Mateos y Boulevard Adolfo Ruiz Cortines, continuando por el lado sur de la carretera 70 Aguascalientes-Guadalajara hasta el límite sur del Municipio Jesús María, continuando por el mismo camino, hasta el límite del Municipio de Calvillo y continuando hacia el norte por el mismo límite hasta el vértice que forman el límite de los Municipios de Jesús María, Calvillo y San José de Gracia, continuando hacia el noroeste por el límite de los Municipios de Calvillo y San José de Gracia hasta llegar al vértice sur del límite del Municipio de Calvillo y San José de Gracia del Estado de Aguascalientes con el límite del Estado de Zacatecas que es el punto de partida y donde se cierra el área perimetral, misma que incluye la circunscripción territorial del Municipio de Calvillo del Estado de Aguascalientes y el sur del Municipio de Aguascalientes del propio Estado.
 
--DELEGACIÓN: Baja California.
+Delegación: Baja California.
 
-JURISDICCIÓN: El Estado de Baja California y el Municipio de San Luis Río Colorado del Estado de Sonora.
+Jurisdicción: El Estado de Baja California y el Municipio de San Luis Río Colorado del Estado de Sonora.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ensenada.
+Subdelegación y Oficina para Cobros: Ensenada.
 
-JURISDICCIÓN: Ensenada.
+Jurisdicción: El Municipio de Ensenada.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Mexicali.
+Subdelegación y Oficina para Cobros: Mexicali.
 
-JURISDICCIÓN: Mexicali.
+Jurisdicción: El Municipio de Mexicali.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: San Luis Río Colorado.
+Subdelegación y Oficina para Cobros: San Luis Río Colorado.
 
-JURISDICCIÓN: San Luis Río Colorado del Estado de Sonora.
+Jurisdicción: El Municipio de San Luis Río Colorado del Estado de Sonora.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tijuana.
+Subdelegación y Oficina para Cobros: Tecate.
 
-JURISDICCIÓN: Tijuana y Playas de Rosarito.
+Jurisdicción: El Municipio de Tecate.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tecate.
+Subdelegación y Oficina para Cobros: Tijuana.
 
-JURISDICCIÓN: Tecate.
+Jurisdicción: Los Municipios de Playas de Rosarito y Tijuana.
 
-- DELEGACIÓN: Baja California Sur.
+Delegación: Baja California Sur.
 
-JURISDICCIÓN: Estado de Baja California Sur y la Isla de Cedros del Estado de Baja California.
+Jurisdicción: El Estado de Baja California Sur y la Isla de Cedros del Estado de Baja California.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: La Paz.
+Subdelegación y Oficina para Cobros: Cabo San Lucas.
 
-JURISDICCIÓN: Municipios de La Paz, Comondú, Loreto y Mulegué del Estado de Baja California Sur y la Isla de Cedros del Estado de Baja California.
+Jurisdicción: El Municipio de Los Cabos del Estado de Baja California Sur.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Cabo San Lucas.
+Subdelegación y Oficina para Cobros: La Paz.
 
-JURISDICCIÓN: Municipio de los Cabos del Estado de Baja California Sur.
+Jurisdicción: Los Municipios de Comondú, La Paz, Loreto y Mulegé del Estado de Baja California Sur y la Isla de Cedros del Estado de Baja California.
 
-- DELEGACIÓN: Campeche.
+Delegación: Campeche.
 
-JURISDICCIÓN: Estado de Campeche.
+Jurisdicción: Estado de Campeche.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ciudad de Campeche.
+Subdelegación y Oficina para Cobros: Ciudad de Campeche.
 
-JURISDICCIÓN: Los Municipios de Campeche, Calkiní, Champotón, Hecelchakán, Hopelchén, Palizada, Tenabo y Escárcega.
+Jurisdicción: Los Municipios de Calakmul, Calkiní, Campeche, Candelaria, Champotón, Escárcega, Hecelchacán, Hopelchén y Tenabo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ciudad del Carmen.
+Subdelegación y Oficina para Cobros: Ciudad del Carmen.
 
-JURISDICCIÓN: El Municipio del Carmen.
+Jurisdicción: El Municipio del Carmen y Palizada.
 
-- DELEGACIÓN: Coahuila.
+Delegación: Coahuila.
 
-JURISDICCIÓN: Estado de Coahuila, excepto los Municipios de Candela e Hidalgo.
+Jurisdicción: Estado de Coahuila, excepto los Municipios de Candela e Hidalgo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Saltillo.
+Subdelegación y Oficina para Cobros: Ciudad Acuña.
 
-JURISDICCIÓN: Los Municipios de Arteaga, General Cepeda, Parras de la Fuente, Ramos Arizpe y Saltillo.
+Jurisdicción: Los Municipios de Acuña y Jiménez.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Monclova.
+Subdelegación y Oficina para Cobros: Monclova.
 
-JURISDICCIÓN: Los Municipios de Abasolo, Castaños, Cuatrociénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo Sacramento y San Buenaventura.
+Jurisdicción: Los Municipios de Abasolo, Castaños, Cuatrociénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento y San Buenaventura.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Piedras Negras.
+Subdelegación y Oficina para Cobros: Piedras Negras.
 
-JURISDICCIÓN: Los Municipios de Allende, Guerrero, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza.
+Jurisdicción: Los Municipios de Allende, Guerrero, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Sabinas Hidalgo.
+Subdelegación y Oficina para Cobros: Sabinas
 
-JURISDICCIÓN: Los Municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas.
+Jurisdicción: Los Municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Torreón.
+Subdelegación y Oficina para Cobros: Saltillo.
 
-JURISDICCIÓN: Los Municipios de Francisco I. Madero, Matamoros, San Pedro, Sierra Mojada, Torreón y Viesca.
+Jurisdicción: Los Municipios de Arteaga, General Cepeda, Parras de la Fuente, Ramos Arizpe y Saltillo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ciudad Acuña.
+Subdelegación y Oficina para Cobros: Torreón.
 
-JURISDICCIÓN: Los Municipios de Acuña y Jiménez.
+Jurisdicción: Los Municipios de Francisco I. Madero, Matamoros, San Pedro, Sierra Mojada, Torreón y Viesca.
 
-¨ DELEGACIÓN: Colima.
+Delegación: Colima.
 
-JURISDICCIÓN: El Estado de Colima y los Municipios de Aquila, Chinicuila y Coahuayana del Estado de Michoacán.
+Jurisdicción: El Estado de Colima y los Municipios de Aquila, Chinicuila y Coahuayana del Estado de Michoacán.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Colima.
+Subdelegación y Oficina para Cobros: Colima.
 
-JURISDICCIÓN: Los Municipios de Colima, Comala, Coquimatlán, Cuauhtémoc, Villa de Alvarez del Estado de Colima y Chinicuila del Estado de Michoacán.
+Jurisdicción: Los Municipios de Colima, Comala, Coquimatlán, Cuauhtémoc, Villa de Álvarez del Estado de Colima y Chinicuila del Estado de Michoacán.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Manzanillo.
+Subdelegación y Oficina para Cobros: Manzanillo.
 
-JURISDICCIÓN: Los Municipios de Manzanillo y Minatitlán.
+Jurisdicción: Los Municipios de Manzanillo y Minatitlán.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tecomán.
+Subdelegación y Oficina para Cobros: Tecomán.
 
-JURISDICCIÓN: Los Municipios de Armería, Ixtlahuacán, Tecomán del Estado de Colima, Aquila y Coahuayana del Estado de Michoacán.
+Jurisdicción: Los Municipios de Armería, Ixtlahuacán, Tecomán del Estado de Colima y Aquila y Coahuayana del Estado de Michoacán.
 
-- DELEGACIÓN: Chiapas.
+Delegación: Chiapas.
 
-JURISDICCIÓN: Estado de Chiapas.
+Jurisdicción: Estado de Chiapas.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tapachula.
+Subdelegación y Oficina para Cobros: Tapachula.
 
-JURISDICCIÓN: Los Municipios de Acapetahua, Acacoyagua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Villa Comaltitlán y Unión Juárez.
+Jurisdicción: Los Municipios de Acacoyagua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez, Chicomuselo, La Grandeza, Siltepec y Villa Comaltitlán.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tuxtla Gutiérrez
+Subdelegación y Oficina para Cobros: Tuxtla Gutiérrez.
 
-JURISDICCIÓN: Los Municipios de Villa Corzo, Berriozábal, Bochil, Catazajá, Cintalapa, Comitán de Domínguez, Chiapa de Corzo, Chiapilla, Chicoasén, El Bosque, Huitiupan, Ixhuatán, Ixtacomitán, Ixtapa, Jiquipilas, Jitotol, Juárez, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Ocosingo, Ocozocoautla de Espinosa, Ostuacán, Usumacinta, Palenque, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, Simojovel, Socoltenango, Solosuchiapa, Soyaló, Tapilula, Tecpatán, Teopisca, Tuxtla Gutiérrez, Venustiano Carranza, Acala, y Villaflores.
+Jurisdicción: Los Municipios de Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Ángel Albino Corzo, Bella Vista, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, La Concordia, La Independencia, La Libertad, La Trinitaria, Larráinzar, Las Margaritas, Las Rosas, Maravilla Tenejapa, Marques de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago el Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
 
-- DELEGACIÓN: Chihuahua.
+Delegación: Chihuahua.
 
-JURISDICCIÓN: Estado de Chihuahua.
+Jurisdicción: Estado de Chihuahua.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Chihuahua.
+Subdelegación y Oficina para Cobros: Cuauhtémoc.
 
-JURISDICCIÓN: Los Municipios de Aldama, Aquiles Serdán, Chihuahua, General Trias y Ojinaga.
+Jurisdicción: Los Municipios de Bachíniva, Bocoyna, Carichi, Cuauhtémoc, Cusihuiriachi, Chínipas, Dr. Belisario Domínguez, Gómez Farías, Gran Morelos, Guazapares, Guerrero, Ignacio Zaragoza, Madera, Maguarichi, Matachi, Moris, Namiquipa, Nonoava, Ocampo, Riva Palacio, San Francisco de Borja, Temósachi, Urique y Uruáchi.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Cuauhtémoc.
+Subdelegación y Oficina para Cobros: Chihuahua.
 
-JURISDICCIÓN: Los Municipios de Bachiniva, Bocoyna, Carichi, Cuauhtémoc, Cusihuiriáchi, Gómez Farías, Gran Morelos, Guerrero, Ignacio Zaragoza, Madera, Matachi, Namiquipa, Riva Palacio, Temósachi y Urique.
+Jurisdicción: Los Municipios de Aldama, Aquiles Serdán, Coyame del Sotol, Chihuahua, Manuel Benavides, Ojinaga, Santa Isabel y Satevó.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Delicias.
+Subdelegación y Oficina para Cobros: Delicias.
 
-JURISDICCIÓN: Los Municipios de Camargo, Delicias, Julimes, La Cruz, Meoqui, Rosales, San Francisco de Conchos y Saucillo.
+Jurisdicción: Los Municipios de Camargo, Delicias, Julimes, La Cruz, Meoqui, Rosales, San Francisco de Conchos y Saucillo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Hidalgo del Parral.
+Subdelegación y Oficina para Cobros: Hidalgo del Parral.
 
-JURISDICCIÓN: Los Municipios de Allende, Guachochi, Hidalgo del Parral, Jiménez, López, Matamoros, San Francisco del Oro y Santa Bárbara.
+Jurisdicción: Los Municipios de Allende, Balleza, Batopilas, Coronado, El Tule, Guachochi, Guadalupe y Calvo, Hidalgo del Parral, Huejotitán, Jiménez, López, Matamoros, Morelos, Rosario, San Francisco del Oro, Santa Bárbara y Valle de Zaragoza.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Nuevo Casas Grandes.
+Subdelegación y Oficina para Cobros: Juárez 1.
 
-JURISDICCIÓN: Los Municipios de Ascensión, Buenaventura, Casas Grandes, Galeana, Janos y Nuevo Casas Grandes.
+Jurisdicción: Comprenderá los Municipios de Ahumada, Guadalupe, Praxedis G. Guerrero y el siguiente perímetro del Municipio de Juárez, todos del Estado de Chihuahua: se tomará como punto de partida el vértice formado por el límite del Río Bravo y avenida Universidad, continuando por la acera suroeste de la avenida Universidad, hasta llegar al Boulevard Fronterizo, dando vuelta a la derecha por la acera norte, continuando hasta llegar a la avenida Adolfo López Mateos, dando vuelta a la izquierda por la acera suroeste, continuando hacia el sur hasta llegar al cruce de las vías del ferrocarril y avenida Adolfo López Mateos, dando vuelta a la izquierda por la acera suroeste hasta llegar a la calle Amatitlán, dando vuelta a la izquierda por la acera sur hasta llegar a la avenida Reforma, dando vuelta a la derecha por la acera sur de la avenida Teófilo Borunda hasta la avenida Tecnológico, dando vuelta a la izquierda de la acera noreste, continuando hasta llegar a la avenida Ejército Nacional, dando vuelta a la derecha por la acera sureste continuando hasta llegar a la avenida de la Industria, dando vuelta a la izquierda de la acera noreste hasta llegar al Boulevard Manuel Gómez Morín, dando vuelta a la derecha por la acera sureste, hasta llegar al Camino al Solar, dando vuelta a la izquierda por la acera noreste hasta llegar al límite del Río Bravo a la altura de la calle Pedro de la Huerta, dando vuelta a la derecha por la acera suroeste, continuando por el límite del Río Bravo y hasta el límite con el Municipio Guadalupe, continuando sobre este límite hasta llegar al límite del Municipio de Ahumada, siguiendo con el límite con el Municipio de Ascensión hasta el límite internacional, continuando, sobre ese mismo límite hasta el Río Bravo, continuando sobre el mismo límite del Río Bravo hasta el punto de partida.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Juárez 1.
+Subdelegación y Oficina para Cobros: Juárez 2.
 
-JURISDICCIÓN: Comprenderá a los Municipios de Ahumada, Guadalupe, Praxedis G. Guerrero y el siguiente perímetro del Municipio de Juárez, todos del Estado de Chihuahua: se tomará como punto de partida el vértice formado por el límite del Río Bravo, y avenida Universidad, continuando por la acera suroeste de la avenida Universidad, hasta llegar al Boulevard Fronterizo, dando vuelta a la derecha por la acera norte, continuando hasta llegar a la avenida Adolfo López Mateos, dando vuelta a la izquierda por la acera suroeste, continuando hacia el sur hasta llegar al cruce de las vías del ferrocarril y avenida Adolfo López Mateos, dando vuelta a la izquierda por la acera suroeste hasta llegar a la calle Amatitlán, dando vuelta a la izquierda por la acera sur hasta llegar a la avenida Reforma, dando vuelta a la derecha por la acera sur de la avenida Teófilo Borunda hasta la avenida tecnológico, dando vuelta a la izquierda de la acera noreste, continuando hasta llegar a la venida Ejército Nacional, dando vuelta a la derecha por la acera sureste continuando hasta llegar a la avenida de la Industria, dando vuelta a la izquierda de la acera noreste hasta llegar al Boulevard Manuel Gómez Morín, dando vuelta a la derecha por la acera sureste, hasta llegar al Camino al Solar, dando vuelta a la izquierda por la acera noreste hasta llegar al límite del Río Bravo a la altura de la calle Pedro de la Huerta, dando vuelta a la derecha por la acera suroeste, continuando por el límite del Río Bravo y hasta el límite con el Municipio Guadalupe, continuando sobre este límite hasta llegar al límite del Municipio de Ahumada, siguiendo con el límite con el Municipio de Ascensión hasta el límite internacional, continuando, sobre ese mismo límite hasta el Río Bravo, continuando sobre el mismo límite del Río Bravo hasta el punto de partida.
+Jurisdicción: Comprenderá el siguiente perímetro del Municipio de Juárez, se tomará como punto de partida el vértice del Río Bravo y avenida Universidad, continuando por la acera sureste de la avenida Universidad hasta llegar al Boulevard Fronterizo, dando vuelta a la derecha por la acera sur, continuando hasta llegar a la avenida Adolfo López Mateos, dando vuelta a la izquierda por la acera sureste, continuando hacia el sur, hasta llegar al cruce de las vías del ferrocarril y avenida Adolfo López Mateos, dando vuelta a la izquierda por la acera sureste hasta llegar a la calle de Amatitlán, dando vuelta a la izquierda por la acera norte hasta llegar a la avenida Reforma, dando vuelta a la derecha por la acera norte sobre la avenida Teófilo Borunda hasta la avenida Tecnológico, dando vuelta a la izquierda por la acera noroeste hasta llegar a la avenida Ejército Nacional, dando vuelta a la derecha por la acera noreste continuando hasta llegar a la avenida de la Industria, dando vuelta a la izquierda por la acera noroeste hasta llegar al Boulevard Manuel Gómez Morín, dando vuelta a la derecha por la acera noreste hasta llegar al Camino al Solar, dando vuelta a la izquierda por la acera noroeste, continuando hasta llegar al límite del Río Bravo a la altura de la calle Pedro de la Huerta, dando vuelta a la izquierda sobre el límite del Río Bravo hasta llegar al punto de partida.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Juárez 2.
+Subdelegación y Oficina para Cobros: Nuevo Casas Grandes.
 
-JURISDICCIÓN: Comprenderá el siguiente perímetro del Municipio de Juárez, se tomará como punto de partida el vértice del Río Bravo y avenida Universidad, continuando por la acera sureste de la avenida Universidad hasta llegar al Boulevard Fronterizo, dando vuelta a la derecha por la acera sur, continuando hasta llegar a la avenida Adolfo López Mateos, dando vuelta a la izquierda por la acera sureste, continuando hacia el sur, hasta llegar al cruce de las vías del ferrocarril y avenida Adolfo López Mateos, dando vuelta a la izquierda por la acera sureste hasta llegar a la calle de Amatitlán, dando vuelta a la izquierda por la acera norte hasta llegar a la avenida Reforma, dando vuelta a la derecha por la acera norte sobre la avenida Teófilo Borunda hasta la avenida Tecnológico, dando vuelta a la izquierda por la acera noroeste hasta llegar a la avenida Ejército Nacional, dando vuelta a la derecha por la acera noreste continuando hasta llegar a la avenida de la Industria, dando vuelta a la izquierda por la acera noroeste hasta llegar al Boulevard Manuel Gómez Morín, dando vuelta a la derecha por la acera noreste hasta llegar al Camino al Solar, dando vuelta a la izquierda por la acera noroeste, continuando hasta llegar al límite del Río Bravo a la altura de la calle Pedro de la Huerta, dando vuelta a la izquierda sobre el límite del Río Bravo hasta llegar al punto de partida.
+Jurisdicción: Los Municipios de Ascensión, Buenaventura, Casas Grandes, Galeana, Janos y Nuevo Casas Grandes.
 
-- DELEGACIÓN: Durango.
+Delegación: Durango.
 
-JURISDICCIÓN: Estado de Durango.
+Jurisdicción: Estado de Durango.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Durango.
+Subdelegación y Oficina para Cobros: Durango.
 
-JURISDICCIÓN: Los Municipios de Canatlán, Durango, Guadalupe Victoria, Guanaceví, Nombre de Dios, Nuevo Ideal, Mezquital, Ocampo, Pánuco de Coronado, Poanas, Pueblo Nuevo, Rodeo, San Dimas, San Juan del Río, Santiago Papasquiaro, Tepehuanes, Topia y Vicente Guerrero.
+Jurisdicción: Los Municipios de Canatlán, Canelas, Coneto de Comonfort, Durango, Guadalupe Victoria, Guanaceví, Mezquital, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Poanas, Pueblo Nuevo, Rodeo, San Dimas, San Juan del Río, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Topia y Vicente Guerrero.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Gómez Palacio.
+Subdelegación y Oficina para Cobros: Gómez Palacio.
 
-JURISDICCIÓN: Los Municipios de Cuencamé, Gómez Palacio, Lerdo, Mapimí, Nazas, El Oro, y Tlahualilo.
+Jurisdicción: Los Municipios de Cuencamé, El Oro, General Simón Bolívar, Gómez Palacio, Hidalgo, Indé, Lerdo, Mapimí, Nazas, Peñón Blanco, San Bernardo, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo, Santa Clara y Tlahualilo.
 
-- DELEGACIÓN: Guanajuato.
+Delegación: Guanajuato.
 
-JURISDICCIÓN: Estado de Guanajuato.
+Jurisdicción: Estado de Guanajuato.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: León.
+Subdelegación y Oficina para Cobros: Celaya.
 
-JURISDICCIÓN: Los Municipios de Manuel Doblado, León, Ocampo, Purísima del Rincón, Romita, San Felipe, San Francisco del Rincón y Silao.
+Jurisdicción: Los Municipios de Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jerécuaro, Salvatierra, Santiago Maravatío, Tarandacuao, Tarimoro y Villagrán.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Celaya.
+Subdelegación y Oficina para Cobros: Guanajuato.
 
-JURISDICCIÓN: Los Municipios de Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jerécuaro, Salvatierra, Santiago Maravatío, Tarandacuao, Tarimoro y Villagrán.
+Jurisdicción: Los Municipios de Allende, Atarjea, Doctor Mora, Dolores Hidalgo, Guanajuato, San Diego de La Unión, San José Iturbide, San Luis de La Paz, Santa Catarina, Tierra Blanca, Victoria y Xichú.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Guanajuato.
+Subdelegación y Oficina para Cobros: Irapuato.
 
-JURISDICCIÓN: Los Municipios de Allende, Atarjea, Doctor Mora, Dolores Hidalgo, Guanajuato, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Santa Catarina, Tierra Blanca, Victoria y Xichu.
+Jurisdicción: Los Municipios de Abasolo, Cuerámaro, Huanímaro, Irapuato, Pénjamo y Pueblo Nuevo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Irapuato.
+Subdelegación y Oficina para Cobros: León.
 
-JURISDICCIÓN: Los Municipios de Abasolo, Cuerámaro, Huanímaro, Irapuato, Pénjamo y Pueblo Nuevo.
+Jurisdicción: Los Municipios de León, Manuel Doblado, Ocampo, Purísima del Rincón, Romita, San Felipe, San Francisco del Rincón y Silao.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Salamanca.
+Subdelegación y Oficina para Cobros: Salamanca.
 
-JURISDICCIÓN: Los Municipios de Jaral del Progreso, Moroleón, Salamanca, Santa Cruz de Juventino Rosas, Uriangato, Valle de Santiago y Yuriria.
+Jurisdicción: Los Municipios de Jaral del Progreso, Moroleón, Salamanca, Santa Cruz de Juventino Rosas, Uriangato, Valle de Santiago y Yuriria.
 
-- DELEGACIÓN: Guerrero.
+Delegación: Guerrero.
 
-JURISDICCIÓN: Estado de Guerrero.
+Jurisdicción: Estado de Guerrero.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Chilpancingo.
+Subdelegación y Oficina para Cobros: Acapulco.
 
-JURISDICCIÓN: Los Municipios de Chilapa de Alvarez, Chilpancingo de los Bravo, Eduardo Neri, Huamuxtitlán, Juan R. Escudero, Leonardo Bravo, Malinaltepec, Tixtla de Guerrero, Tlapa de Comonfort y Zitlala.
+Jurisdicción: Los Municipios de Acapulco de Juárez, Ajuchitlán del Progreso, Atoyac de Álvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Copala, Copalillo, Copanatoyac, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, Ometepec, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Acapulco.
+Subdelegación y Oficina para Cobros: Chilpancingo.
 
-JURISDICCIÓN: Los Municipios de Acapulco de Juárez, Atoyac de Alvarez, Azoyú, Benito Juárez, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Ometepec, San Marcos y Tecpan de Galeana.
+Jurisdicción: Los Municipios de Acatepec, Ahuacuotzingo, Alcozauca de Guerrero, Atlamajalcingo del Monte, Atlixtac, Cualac, Chilapa de Álvarez, Chilpancingo de los Bravo, Eduardo Neri, Huamuxtitlán, Juan R. Escudero, Leonardo Bravo, Malinaltepec, Mártir de Cuilapan, Metlatónoc, Mochitlán, Olinalá, Quechultenango, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Iguala.
+Subdelegación y Oficina para Cobros: Iguala.
 
-JURISDICCIÓN: Los Municipios de Apaxtla, Arcelia, Buenavista de Cuéllar, Cocula, Coyuca de Catalán, Cutzamala de Pinzón, General Heliodoro Castillo, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Pungarabato, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tlapehuala y Zirándaro.
+Jurisdicción: Los Municipios de Alpoyeca, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, General Heliodoro Castillo, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Zihuatanejo
+Subdelegación y Oficina para Cobros: Zihuatanejo.
 
-JURISDICCIÓN: Los Municipios de José Azueta, La Unión y Petatlán.
+Jurisdicción: Los Municipios de Coahuayutla de José María Izazaga, José Azueta, La Unión de Isidoro Montes de Oca y Petatlán.
 
-- DELEGACIÓN: Hidalgo.
+Delegación: Hidalgo.
 
-JURISDICCIÓN: Estado de Hidalgo.
+Jurisdicción: Estado de Hidalgo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Pachuca.
+Subdelegación y Oficina para Cobros: Ciudad Sahagún.
 
-JURISDICCIÓN: Los Municipios de Actopan, Alfajayucan, El Arenal, Atotonilco el Grande, Cardonal, Epazoyucan, Francisco I. Madero, Huasca de Ocampo, Huejutla de Reyes, Huichapan, Ixmiquilpan, San Agustín Mezquititlán, Metztitlán, Mineral de la Reforma, Mineral del Chico, Mineral del Monte, Molango de Escamilla, Nopala de Villagrán, Omitlán de Juárez, Pachuca de Soto, San Agustín Tlaxiaca, San Salvador, Tasquillo, Tecazautla, Tianguistengo, Tizayuca, Tolcayuca, Villa de Tezontepec, Zacualtipan de Ángeles Zapotlán de Juárez y Zimapán.
+Jurisdicción: Los Municipios de Almoloya, Apan, Emiliano Zapata, Tepeapulco, Tlanalapa y Zempoala.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Cd. Sahagún.
+Subdelegación y Oficina para Cobros: Pachuca.
 
-JURISDICCIÓN: Los Municipios de Almoloya, Apan, Emiliano Zapata, Tlanalapa y Zempoala.
+Jurisdicción: Los Municipios de Actopan, Alfajayucan, Atlapexco, Atotonilco el Grande, Calnali, Cardonal, Chapulhuacán, El Arenal, Eloxochitlán, Epazoyucan, Francisco I. Madero, Huasca de Ocampo, Huautla, Huazalingo, Huehuetla, Huejutla de Reyes, Huichapan, Ixmiquilpan, Jacala de Ledesma, Jaltocan, Juárez Hidalgo, La Misión, Lolotla, Metztitlán, Mineral de La Reforma, Mineral del Chico, Mineral del Monte, Molango de Escamilla, Nicolás Flores, Nopala de Villagrán, Omitlán de Juárez, Pacula, Pachuca de Soto, Pisaflores, San Agustín Metzquititlán, San Agustín Tlaxiaca, San Felipe Orizatlán, San Salvador, Santiago de Anaya, Tasquillo, Tecozautla, Tepehuacán de Guerrero, Tianguistengo, Tizayuca, Tlahuiltepa, Tlanchinol, Tolcayuca, Villa de Tezontepec, Xochiatipan, Xochicoatlán, Yahualica, Zacualtipán de Ángeles, Zapotlán de Juárez y Zimapán.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tula de Allende.
+Subdelegación y Oficina para Cobros: Tula de Allende.
 
-JURISDICCIÓN: Los Municipios de Ajacuba, Atitalaquia, Atotonilco de Tula, Chapantongo, Chilcuautla, Mixquiahuala de Juárez, Progreso de Obregón, Tepeji del Río de Ocampo, Tepetitlán, Tetepango, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan y Tula de Allende.
+Jurisdicción: Los Municipios de Ajacuba, Atitalaquia, Atotonilco de Tula, Chapantongo, Chilcuautla, Mixquiahuala de Juárez, Progreso de Obregón, Tepeji del Río de Ocampo, Tepetitlán, Tetepango, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan y Tula de Allende.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tulancingo
+Subdelegación y Oficina para Cobros: Tulancingo.
 
-JURISDICCIÓN: Los Municipios de Acatlán, Acaxochitlán, Agua Blanca de Iturbide, Cuautepec de Hinojosa, Metepec, Santiago Tulantepec de Lugo Guerrero, Singuilucan, y Tulancingo de Bravo.
+Jurisdicción: Los Municipios de Acatlán, Acaxochitlán, Agua Blanca de Iturbide, Cuautepec de Hinojosa, Metepec, San Bartolo Tutotepec, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Tenango de Doria y Tulancingo de Bravo.
 
-- DELEGACIÓN: Jalisco.
+Delegación: Jalisco.
 
-JURISDICCIÓN: Estado de Jalisco.
+Jurisdicción: Estado de Jalisco.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Juárez.
+Subdelegación y Oficina para Cobros: Ciudad Guzmán.
 
-JURISDICCIÓN: Los Municipios de Tala, Ahualulco de Mercado, Ameca, Antonio Escobedo, Atenguillo, Etzatlán, Guachinango, Mascota, Mixtlán, San Marcos, San Sebastián del Oeste, Teuchitlán, Talpa de Allende, Tlajomulco de Zúñiga, Jocotepec, Tuxcueca, Tizapán el Alto, La Manzanilla de la Paz, Concepción de Buenos Aires, Amatitán, Arenal, Hostotipaquillo, Magdalena, Tequila, Cocula, San Martín Hidalgo, Villa Corona, Atemajac de Brizuela, Chiquilistlán, Zacoalco de Torres, Acatlán de Juárez, Atengo, Tecolotlán, Tenamaxtlán, así como el perímetro del Municipio de Guadalajara, comprendido entre los siguientes límites: Iniciando en el vértice formado por la acera poniente de la Calzada Independencia y la acera sur de la calle Morelos, continuando hacia el poniente hasta su terminación en el entronque con la Glorieta Minerva, continuando en la misma dirección hacia el sur por el límite municipal hacia el vértice que forman los límites municipales de Guadalajara, Zapopan y Tlaquepaque, continuando hacia el oriente por el límite norte del Municipio de Tlaquepaque hasta la Calzada Gobernador Curiel (conocida también como Calzada Higuerillas), continuando con dirección norte de la acera poniente de esta Calzada hasta su terminación en el paso a desnivel, entronque con la acera poniente de la calzada Independencia, continuando en la misma dirección hasta cerrar el perímetro en el vértice que forma con la acera sur de la calle Morelos.
+Jurisdicción: Los Municipios de Amacueca, Atoyac, Autlán de Navarro, Ayutla, Casimiro Castillo, Cuautitlán de García Barragán, Cuautla, Ejutla, El Grullo, El Limón, Gómez Farías, Jilotlán de los Dolores, Juchitlán, Mazamitla, Pihuamo, Quitupan, San Gabriel, Santa María del Oro, Sayula, Tamazula de Gordiano, Tapalpa, Tecalitlán, Techaluta de Montenegro, Teocuitatlán de Corona, Tolimán, Tonaya, Tonila, Tuxcacuesco, Tuxpan, Unión de Tula, Valle de Juárez, Villa Purificación, Zapotiltic, Zapotitlán de Vadillo, Zapotlán el Grande y La Huerta, con excepción de la franja costera de este Municipio que controla la Subdelegación de Puerto Vallarta y que consiste en 5 km. hacia el norte, iniciando en la carretera federal Melaque-Puerto Vallarta y que corre en forma paralela a la misma.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Hidalgo.
+Subdelegación y Oficina para Cobros: Hidalgo.
 
-JURISDICCIÓN: Los Municipios de Zapopan, Ixtlahuacán del Río, Cuquio, San Cristóbal de la Barranca, Colotlán Totatiche, Chintaltitán, Huejucar, Huejuquilla el Alto, San Martín de Bolaños, Santa María de los Ángeles, Villa Guerrero, Mezquitic, Bolaños, así como el perímetro del Municipio de Guadalajara comprendido entre los límites conformados a partir del vértice que forman la acera poniente de la Calzada Independencia y acera norte de la calle Morelos, continuando hacia el poniente hasta su terminación en el entronque con la Glorieta Minerva, continuando en la misma dirección por la acera norte de la avenida Vallarta hasta el límite con el Municipio de Zapopan, continuando con dirección hacia el norte y posteriormente hacia el oriente, por el límite municipal hasta el vértice que forman los Municipios de Zapopan, Guadalajara e Ixtlahuacán del Río, continuando hacia el oriente por el límite sur del Municipio de Ixtlahuacán del Río hasta la Calzada Independencia, continuando hacia el sur por la acera poniente hasta el vértice que forma con la acera norte de la calle Morelos.
+Jurisdicción: Los Municipios de Bolaños, Colotlán, Cuquío, Chimaltitán, Huejúcar, Huejuquilla el Alto, Ixtlahuacán del Río, Mezquitic, San Cristóbal de la Barranca, San Martín de Bolaños, Santa María de los Ángeles, Totatiche, Villa Guerrero y Zapopan, así como el perímetro del Municipio de Guadalajara comprendido entre los límites conformados a partir del vértice que forman la acera poniente de la Calzada Independencia y acera norte de la calle Morelos, continuando hacia el poniente hasta su terminación en el entronque con la Glorieta Minerva, continuando en la misma dirección por la acera norte de la avenida Vallarta hasta el límite con el Municipio de Zapopan, continuando con dirección hacia el norte y posteriormente hacia el oriente, por el límite municipal hasta el vértice que forman los Municipios de Zapopan, Guadalajara e Ixtlahuacán del Río, continuando hacia el oriente por el límite sur del Municipio de Ixtlahuacán del Río hasta la Calzada Independencia, continuando hacia el sur por la acera poniente hasta el vértice que forma con la acera norte de la calle Morelos.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Libertad Reforma.
+Subdelegación y Oficina para Cobros: Juárez.
 
-JURISDICCIÓN: Los Municipios de Tlaquepaque, Tonalá, El Salto, Juanacatlán, Chapala, Ixtlahuacán de los Membrillos, así como el perímetro del Municipio de Guadalajara comprendido entre los límites que conforman, el vértice formado por el límite norte del Municipio de Tlaquepaque y la Calzada Gobernador Curiel (conocida también como Calzada Higuerillas), continuando hacia el norte por la acera oriente de esta calzada, hasta su entronque en el paso a desnivel con la Calzada Independencia, continuando en la misma dirección por la acera oriente de esta última hasta el límite con el Municipio de Ixtlahuacán del Río y extendiéndose hacia el oriente hasta los límites de los Municipios de Tlaquepaque, Tonalá e Ixtlahuacán del Río.
+Jurisdicción: Los Municipios de Acatlán de Juárez, Ahualulco de Mercado, Amatitán, Ameca, Arenal, Atemajac de Brizuela, Atengo, Atenguillo, Cocula, Concepción de Buenos Aires, Chiquilistlán, Etzatlán, Guachinango, Hostotipaquillo, Jocotepec, La Manzanilla de la Paz, Magdalena, Mascota, Mixtlán, San Juanito de Escobedo, San Marcos, San Martín Hidalgo, San Sebastián del Oeste, Tala, Talpa de Allende, Tecolotlán, Tenamaxtlán, Tequila, Teuchitlán, Tizapán el Alto, Tlajomulco de Zúñiga, Tuxcueca, Villa Corona, Zacoalco de Torres, así como el perímetro del Municipio de Guadalajara, comprendido entre los siguientes límites: Iniciando en el vértice formado por la acera poniente de la Calzada Independencia y la acera sur de la calle Morelos, continuando hacia el poniente hasta su terminación en el entronque con la Glorieta Minerva, continuando en la misma dirección hacia el sur por el límite municipal hacia el vértice que forman los límites municipales de Guadalajara, Zapopan y Tlaquepaque, continuando hacia el oriente por el límite norte del Municipio de Tlaquepaque hasta la Calzada Gobernador Curiel (conocida también como Calzada Higuerillas), continuando con dirección norte de la acera poniente de esta Calzada hasta su terminación en el paso a desnivel, entronque con la acera poniente de la Calzada Independencia, continuando en la misma dirección hasta cerrar el perímetro en el vértice que forma con la acera sur de la calle Morelos.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ciudad Guzmán.
+Subdelegación y Oficina para Cobros: Libertad Reforma.
 
-JURISDICCIÓN: Los Municipios de Ciudad Guzmán, Pihuamo, Sayula, Tecalitlán, Tonila, Tuxpan, Teocuitatlán de Corona, Amacueca, Atoyac, Tapalpa, Techaluta de Montenegro, Ciudad Venustiano Carranza, Jilotlán de los Dolores, Tolimán, Tuxcacuesco, Zapotitlán de Vadillo, Zapotiltic, Manuel M. Diéguez, Gómez Farías, Tamazula de Gordiano, Valle de Juárez, Quitupan, Mazamitla, Ayutla, Autlán de Navarro, Casimiro Castillo, Cuautla, Cuautitlán, Ejutla, El Grullo, El Limón, Tonaya, Juchitlán, Unión de Tula, Villa Purificación y La Huerta, con excepción de la franja costera de este Municipio que controla la Subdelegación de Puerto Vallarta y que consiste en 5 Km. hacia el norte, iniciando en la carretera Federal Melaque-Puerto Vallarta y que corre en forma paralela a la misma.
+Jurisdicción: Los Municipios de Chapala, El Salto, Ixtlahuacán de los Membrillos, Juanacatlán, Tlaquepaque, Tonalá, así como el perímetro del Municipio de Guadalajara comprendido entre los límites que conforman, el vértice formado por el límite norte del Municipio de Tlaquepaque y la Calzada Gobernador Curiel (conocida también como Calzada Higuerillas), continuando hacia el norte por la acera oriente de esta Calzada, hasta su entronque en el paso a desnivel con la Calzada Independencia, continuando en la misma dirección por la acera oriente de esta última hasta el límite con el Municipio de Ixtlahuacán del Río y extendiéndose hacia el oriente hasta los límites de los Municipios de Tlaquepaque, Tonalá e Ixtlahuacán del Río.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Puerto Vallarta.
+Subdelegación y Oficina para Cobros: Ocotlán.
 
-JURISDICCIÓN: Los Municipios de Puerto Vallarta, Cabo Corrientes, Tomatlán, Cihuatlán y La Huerta, (Parte de este Municipio dentro de la franja costera comprendida 5 Km. al norte de una línea imaginaria que corre paralela con la Carretera Federal Melaque-Puerto Vallarta).
+Jurisdicción: Los Municipios de Atotonilco el Alto, Ayotlán, Degollado, Jamay, La Barca, Ocotlán, Poncitlán, Tototlán y Zapotlán del Rey.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ocotlán.
+Subdelegación y Oficina para Cobros: Puerto Vallarta.
 
-JURISDICCIÓN: Los Municipios de Atotonilco el Alto, Ayotlán, Degollado, Jamay, La Barca, Ocotlán, Poncitlán, Tototlán y Zapotlán del Rey.
+Jurisdicción: Los Municipios de Cabo Corrientes, Cihuatlán, Puerto Vallarta, Tomatlán y La Huerta, (parte de este Municipio dentro de la franja costera comprendida 5 km. al norte de una línea imaginaria que corre paralela por la carretera federal Melaque-Puerto Vallarta).
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tepatitlán de Morelos.
+Subdelegación y Oficina para Cobros: Tepatitlán de Morelos.
 
-JURISDICCIÓN: Los Municipios de Acatic, Arandas, Encarnación de Díaz, Jalostotitlán, Jesús María, Lagos de Moreno, Mexticacán, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, San Julián, San Miguel el Alto, Teocaltiche, Tepatitlán de Morelos, Unión de San Antonio, Valle de Guadalupe, Villa Hidalgo, Cañadas de Obregón, Yahualica de González Gallo y Zapotlanejo.
+Jurisdicción: Los Municipios de Acatíc, Arandas, Cañadas de Obregón, Encarnación de Díaz, Jalostotitlán, Jesús María, Lagos de Moreno, Mexticacán, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, San Julián, San Miguel el Alto, Teocaltiche, Tepatitlán de Morelos, Unión de San Antonio, Valle de Guadalupe, Villa Hidalgo, Yahualica de González Gallo y Zapotlanejo.
 
-- DELEGACIÓN: Estado de México Oriente.
+Delegación: Estado de México Oriente.
 
-JURISDICCIÓN: Comprende los Municipios de:
+Jurisdicción: Comprende los Municipios de:
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ecatepec.
+Subdelegación y Oficina para Cobros: Ecatepec.
 
-JURISDICCIÓN: Los Municipios de Acolman, Apaxco, Axapusco, Coacalco, Ecatepec, Hueipoxtla, Jaltenco, Nextlalpan, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa, Teotihuacán, Tequixquiac y Zumpango.
+Jurisdicción: Los Municipios de Acolman, Apaxco, Axapusco, Coacalco de Berriozábal, Ecatepec de Morelos, Hueypoxtla, Jaltenco, Nextlalpan, Nopaltepec, Otumba, San Martín de Las Pirámides, Tecámac, Temascalapa, Teotihuacan, Tequixquiac y Zumpango.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Los Reyes-La Paz.
+Subdelegación y Oficina para Cobros: Los Reyes-La Paz.
 
-JURISDICCIÓN: Los Municipios de Amecameca, Atenco, Atlautla, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Ozumba, Papalotla, Temamatla, Tenango del Aire, Tepetlaoxtoc, Tepetlixpa, Texcoco,Tezoyuca, Tlalmanalco, Valle de Chalco.
+Jurisdicción: Los Municipios de Amecameca, Atenco, Atlautla, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Ozumba, Papalotla, Temamatla, Tenango del Aire, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco-Solidaridad.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tlalnepantla de Baz.
+Subdelegación y Oficina para Cobros: Tlalnepantla de Baz.
 
-JURISDICCIÓN: Los Municipios de Atizapán de Zaragoza, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Huehuetoca, Jilotepec, Melchor Ocampo, Nicolás Romero, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tlalnepantla, Tultepec, Tultitlán y Villa del Carbón.
+Jurisdicción: Los Municipios de Atizapán de Zaragoza, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Huehuetoca, Jilotepec, Melchor Ocampo, Nicolás Romero, Soyaniquilpan de Juárez, Teoloyucán, Tepotzotlán, Tlalnepantla de Baz, Tultepec, Tultitlán y Villa del Carbón.
 
-- DELEGACIÓN: Estado de México Poniente.
+Delegación: Estado de México Poniente.
 
-JURISDICCIÓN: Comprende los Municipios de las Subdelegaciones siguientes:
+Jurisdicción: Comprende los Municipios de:
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Naucalpan.
+Subdelegación y Oficina para Cobros: Naucalpan.
 
-JURISDICCIÓN: Los Municipios de Huixquilucan, Isidro Fabela, Jilotzingo y Naucalpan.
+Jurisdicción: Los Municipios de Huixquilucan, Isidro Fabela, Jilotzingo y Naucalpan de Juárez.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Toluca.
+Subdelegación y Oficina para Cobros: Toluca.
 
-JURISDICCIÓN: Los Municipios de Acambay, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec, Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtlahuaca, Jalatlaco, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Malinalco, Metepec, Mexicaltcingo, Morelos, Ocoyoacac, Ocuilán, Otzolotepec, Polotitlán, Rayón, San Antonio la Isla, San Felipe del Progreso, San Mateo Atenco, San Simón de Guerrero, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Timilpan, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xonacatlán, Zacualpan, Zinacantepec y Zumpahuacán del Estado de México.
+Jurisdicción: Los Municipios de Acambay, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Polotitlán, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Timilpan, Tlatlaya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
 
-- DELEGACIÓN: Michoacán.
+Delegación: Michoacán.
 
-JURISDICCIÓN: Estado de Michoacán, excepto los Municipios de Aquila, Chinicuila, y Coahuayana.
+Jurisdicción: Estado de Michoacán, excepto los Municipios de Aquila, Chinicuila y Coahuayana.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Lázaro Cárdenas.
+Subdelegación y Oficina para Cobros: Lázaro Cárdenas.
 
-JURISDICCIÓN: El Municipio de Lázaro Cárdenas.
+Jurisdicción: El Municipio de Lázaro Cárdenas.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Morelia.
+Subdelegación y Oficina para Cobros: Morelia.
 
-JURISDICCIÓN: Los Municipios de Acuitzio, Alvaro Obregón, Angamacutiro, Ario, Carácuaro, Coeneo, Copándaro, Cuitzeo, Charo, Chucándiro, Churumuco, Erongáricuaro, Huandacareo, Huaniqueo, Huiramba, Indaparapeo, Jiménez, José Sixto Verduzco, Lagunillas, La Huacana, Madero, Morelia, Morelos, Nocupétaro, Panindícuaro, Pátzcuaro, Puruándiro, Queréndaro, Quiroga, Salvador Escalante, Santa Ana Maya, Tacámbaro, Tarímbaro, Turicato, Tzintzuntzan, Tzitzio, Zacapu y Zinapécuaro.
+Jurisdicción: Los Municipios de Acuitzio, Álvaro Obregón, Angamacutiro, Ario, Carácuaro, Coeneo, Copándaro, Cuitzeo, Charo, Chucándiro, Churumuco, Erongarícuaro, Huandacareo, Huaniqueo, Huiramba, Indaparapeo, Jiménez, José Sixto Verduzco, La Huacana, Lagunillas, Madero, Morelia, Morelos, Nocupétaro, Panindícuaro, Pátzcuaro, Puruándiro, Queréndaro, Quiroga, Salvador Escalante, Santa Ana Maya, Tacámbaro, Tarímbaro, Turicato, Tzintzuntzán, Tzitzio, Zacapu y Zinapécuaro.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Uruapan.
+Subdelegación y Oficina para Cobros: Uruapan.
 
-JURISDICCIÓN: Los Municipios de Aguililla, Apatzingán, Arteaga, Buenavista, Coalcomán de Vázquez Pallares, Charapan, Cherán, Gabriel Zamora, Múgica, Nahuatzen, Nuevo Parangaricutiro, Nuevo Urecho, Parácuaro, Paracho, Tancítaro, Taretan, Tepalcatepec, Tingambato, Tumbiscatio, Uruapan y Ziracuaretiro.
+Jurisdicción: Los Municipios de Aguililla, Apatzingán, Arteaga, Buenavista, Coalcomán de Vázquez Pallares, Charapan, Cherán, Gabriel Zamora, Múgica, Nahuatzen, Nuevo Parangaricutiro, Nuevo Urecho, Parácuaro, Paracho, Tancítaro, Taretan, Tepalcatepec, Tingambato, Tumbiscatío, Uruapan y Ziracuaretiro.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Zamora.
+Subdelegación y Oficina para Cobros: Zamora.
 
-JURISDICCIÓN: Los Municipios de Briseñas, Cojumatlán de Regules, Cotija, Chavinda, Chilchota, Churintzio, Ecuandureo, Ixtlán, Jacona, Jiquilpan, La Piedad, Los Reyes, Marcos Castellanos, Numarán, Pajacuarán, Penjamillo, Peribán, Purépero, Sahuayo, Tangamandapio, Tangancícuaro, Tanhuato, Tinguindín, Tlazazalca, Tocumbo, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zamora y Zináparo.
+Jurisdicción: Los Municipios de Briseñas, Cojumatlán de Régules, Cotija, Chavinda, Chilchota, Churintzio, Ecuandureo, Ixtlán, Jacona, Jiquilpan, La Piedad, Los Reyes, Marcos Castellanos, Numarán, Pajacuarán, Penjamillo, Peribán, Purépero, Sahuayo, Tangamandapio, Tangancícuaro, Tanhuato, Tingüindín, Tlazazalca, Tocumbo, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zamora y Zináparo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Zitácuaro.
+Subdelegación y Oficina para Cobros: Zitácuaro.
 
-JURISDICCIÓN: Los Municipios de Angangueo, Aporo, Contepec, Hidalgo, Huetamo, Irimbo, Juárez, Jungapeo, Maravatío, Ocampo, San Lucas, Senguio, Susupuato, Tiquicheo de Nicolás Romero, Tlalpujahua, Tuxpan, Tuzantla, y Zitácuaro.
+Jurisdicción: Los Municipios de Angangueo, Aporo, Contepec, Epitacio Huerta, Hidalgo, Huetamo, Irimbo, Juárez, Jungapeo, Maravatío, Ocampo, San Lucas, Senguio, Susupuato, Tiquicheo de Nicolás Romero, Tlalpujahua, Tuxpan, Tuzantla y Zitácuaro.
 
-- DELEGACIÓN: Morelos.
+Delegación: Morelos.
 
-JURISDICCIÓN: Estado de Morelos.
+Jurisdicción: Estado de Morelos.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Cuautla.
+Subdelegación y Oficina para Cobros: Cuautla.
 
-JURISDICCIÓN: Los Municipios de Atlatlahucan, Axochiapan, Ayala, Cuautla, Jantetelco, Jonacatepec, Ocuituco, Temoac, Tepalcingo, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan, Yautepec, Yecapixtla y Zacualpan de Amilpas.
+Jurisdicción: Los Municipios de Atlatlahucan, Axochiapan, Ayala, Cuautla, Jantetelco, Jonacatepec, Ocuituco, Temoac, Tepalcingo, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan, Yautepec, Yecapixtla y Zacualpan de Amilpas.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Cuernavaca.
+Subdelegación y Oficina para Cobros: Cuernavaca.
 
-JURISDICCIÓN: Los Municipios de Cuernavaca, Emiliano Zapata, Huitzilac, Jiutepec, Temixco, Tepoztlán y Xochitepec.
+Jurisdicción: Los Municipios de Cuernavaca, Emiliano Zapata, Huitzilac, Jiutepec, Temixco, Tepoztlán y Xochitepec.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Zacatepec.
+Subdelegación y Oficina para Cobros: Zacatepec.
 
-JURISDICCIÓN: Los Municipios de Amacuzac, Coatlán del Río, Jojutla, Mazatepec, Miacatlán, Puente de Ixtla, Tetecala, Tlaltizapán, Tlaquiltenango y Zacatepec de Hidalgo.
+Jurisdicción: Los Municipios de Amacuzac, Coatlán del Río, Jojutla, Mazatepec, Miacatlán, Puente de Ixtla, Tetecala, Tlaltizapán, Tlaquiltenango y Zacatepec de Hidalgo.
 
-- DELEGACIÓN: Nayarit.
+Delegación: Nayarit.
 
-JURISDICCIÓN: Estado de Nayarit.
+Jurisdicción: Estado de Nayarit.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tepic.
+Subdelegación y Oficina para Cobros: Tepic.
 
-JURISDICCIÓN: Los Municipios de Acaponeta, Ahuacatlán, Compostela, Ixtlán del Río, Jala, Xalisco, El Nayar, Rosamorada, Ruiz, San Blas, San Pedro Lagunillas, Santa María del Oro, Santiago Ixcuintla, Tecuala, Tepic, Tuxpan y Bahía de Banderas.
+Jurisdicción: Los Municipios de Acaponeta, Ahuacatlán, Amatlán de Cañas, Bahía de Banderas, Compostela, El Nayar, Huajicori, Ixtlán del Río, Jala, La Yesca, Rosamorada, Ruiz, San Blas, San Pedro Lagunillas, Santa María del Oro, Santiago Ixcuintla, Tecuala, Tepic, Tuxpan y Xalisco.
 
-- DELEGACIÓN: Nuevo León.
+Delegación: Nuevo León.
 
-JURISDICCIÓN: Estado de Nuevo León y el Municipio de Candela, del Estado de Coahuila.
+Jurisdicción: Estado de Nuevo León y el Municipio de Candela, del Estado de Coahuila.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Apodaca.
+Subdelegación y Oficina para Cobros: Apodaca.
 
-JURISDICCIÓN: Su circunscripción territorial comprenderá los Municipios de Parás, Agualeguas, General Treviño, Melchor Ocampo, Cerralvo, Doctor González, Higueras, Pesquería, Marín y Apodaca, pertenecientes al Estado de Nuevo León, así como el perímetro de los Municipios de Guadalupe y San Nicolás de los Garza Estado de Nuevo León, comprendidos entre los siguientes límites: tomando como punto de partida el cruce de los límites de los Municipios de Apodaca, San Nicolás de los Garza y la avenida Adolfo López Mateos, hacia el suroeste por la acera oriente de esta misma avenida, hasta avenida ciudad de Los Ángeles, hacia el oriente por la avenida ciudad de Los Ángeles acera norte hasta la avenida Churubusco, hacia el sur por la avenida Churubusco acera oriente hasta la avenida Adolfo Ruiz Cortines, hacia el oriente por avenida Adolfo Ruiz Cortines acera norte hasta la avenida Constituyentes de Nuevo León, hacia el sur por avenida Constituyentes de Nuevo León acera oriente, hasta el cauce del río Santa Catarina, hacia el oriente por el cauce del río Santa Catarina hasta el límite del Municipio de Guadalupe con el Municipio de Pesquería, continuando hacia el norte por el límite del Municipio de Guadalupe y Pesquería, hasta el vértice formado por el límite de los Municipios de Apodaca, Pesquería y Guadalupe; continuando hacia el poniente por el límite de los Municipios de Apodaca y Guadalupe, hasta llegar al punto de partida donde se cierra este perímetro.
+Jurisdicción: Los Municipios de Agualeguas, Apodaca, Cerralvo, Doctor González, General Treviño, Higueras, Marín, Melchor Ocampo, Parás y Pesquería, así como el perímetro de los Municipios de Guadalupe y San Nicolás de los Garza, comprendidos entre los siguientes límites: tomando como punto de partida el cruce de los límites de los Municipios de Apodaca, San Nicolás de los Garza y la avenida Adolfo López Mateos, hacia el suroeste por la acera oriente de esta misma avenida, hasta avenida Ciudad de los Ángeles, hacia el oriente por la avenida Ciudad de los Ángeles acera norte hasta la avenida Churubusco, hacia el sur por la avenida Churubusco acera oriente hasta la avenida Adolfo Ruiz Cortines, hacia el oriente por avenida Adolfo Ruiz Cortines acera norte hasta la avenida Constituyentes de Nuevo León, hacia el sur por avenida Constituyentes de Nuevo León acera oriente, hasta el cauce del río Santa Catarina, hacia el oriente por el cauce del río Santa Catarina hasta el límite del Municipio de Guadalupe con el Municipio de Pesquería, continuando hacia el norte por el límite del Municipio de Guadalupe y Pesquería, hasta el vértice formado por el límite de los Municipios de Apodaca, Pesquería y Guadalupe; continuando hacia el poniente por el límite de los Municipios de Apodaca y Guadalupe, hasta llegar al punto de partida donde se cierra este perímetro.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Montemorelos.
+Subdelegación y Oficina para Cobros: Montemorelos.
 
-JURISDICCIÓN: Los Municipios de Allende, Aramberri, Doctor Arroyo, Galeana, General Terán, General Zaragoza, Hualahuises, Iturbide, Linares, Mier y Noriega, Montemorelos y Rayones.
+Jurisdicción: Los Municipios de Allende, Aramberri, Doctor Arroyo, Galeana, General Terán, General Zaragoza, Hualahuises, Iturbide, Linares, Mier y Noriega, Montemorelos y Rayones.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 1 Noroeste.
+Subdelegación y Oficina para Cobros: 1 Noroeste.
 
-JURISDICCIÓN: Comprenderá el siguiente perímetro del Municipio de Monterrey, Estado de Nuevo León: tomando como punto de partida el vértice formado por el límite Municipal de General Escobedo, San Nicolás de los Garza y Monterrey, continuando por el límite Municipal de San Nicolás de los Garza y Monterrey hasta el cruce de las avenidas Fidel Velázquez y Prolongación Cuauhtémoc, hacia el poniente por la avenida Fidel Velázquez acera norte hasta la calle J. Mújica; hacia el sur por la calle J. Mújica acera poniente hasta la calle Cárdenas, hacia el oriente por la calle Cárdenas acera sur en línea recta hasta el límite municipal de San Nicolás de los Garza y Monterrey, continuando hacia el oriente del límite municipal San Nicolás de los Garza y Monterrey, hasta la avenida Vicente Guerrero, se continúa hacia el sur por la avenida Vicente Guerrero, acera poniente hasta avenida Colón; hacia el poniente por avenida Colón acera norte, hasta avenida José María Pino Suárez, acera poniente, hasta Arteaga; hacia el poniente por Arteaga, acera norte hasta General Pablo González Garza; hacia el poniente por General Pablo González Garza, acera norte, su continuación que es Boulevard Díaz Ordaz, hasta el límite del Municipio de Monterrey con el de San Pedro Garza García, siguiendo por esa línea divisoria municipal hacia el poniente; continuando por el límite de los Municipios Monterrey y Santa Catalina hasta el cruce con el límite del Municipio de García; hacia el norte por el límite municipal García Monterrey hasta el cruce con el límite General Escobedo Monterrey; hacia el oriente por este límite hasta llegar al cruce con el límite municipal San Nicolás de los Garza y Monterrey, donde se cierra el área perimetral.
+Jurisdicción: Comprenderá el siguiente perímetro del Municipio de Monterrey, Estado de Nuevo León: tomando como punto de partida el vértice formado por el límite Municipal de General Escobedo, San Nicolás de los Garza y Monterrey, continuando por el límite Municipal de San Nicolás de los Garza y Monterrey hasta el cruce de las avenidas Fidel Velásquez y Prolongación Cuauhtémoc, hacia el poniente por la avenida Fidel Velásquez acera norte hasta la calle J. Mújica; hacia el sur por la calle J. Mújica acera poniente hasta la calle Cárdenas, hacia el oriente por la calle Cárdenas acera sur en línea recta hasta el límite Municipal de San Nicolás de los Garza y Monterrey, continuando hacia el oriente del límite Municipal San Nicolás de los Garza y Monterrey, hasta la avenida Vicente Guerrero, se continúa hacia el sur por la avenida Vicente Guerrero, acera poniente hasta avenida Colón; hacia el poniente por avenida Colón acera norte, hasta avenida José María Pino Suárez, acera poniente, hasta Arteaga; hacia el poniente por Arteaga, acera norte hasta General Pablo González Garza; hacia el poniente por General Pablo González Garza, acera norte, su continuación que es Boulevard Díaz Ordaz, hasta el límite del Municipio de Monterrey con el de San Pedro Garza García, siguiendo por esa línea divisoria municipal hacia el poniente; continuando por el límite de los Municipios Monterrey y Santa Catarina hasta el cruce con el límite del Municipio de García; hacia el norte por el límite Municipal García Monterrey hasta el cruce con el límite General Escobedo Monterrey; hacia el oriente por este límite hasta llegar al cruce con el límite Municipal San Nicolás de los Garza y Monterrey, donde se cierra el área perimetral.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 2 Noreste.
+Subdelegación y Oficina para Cobros: 2 Noreste.
 
-JURISDICCIÓN: Comprende los Municipios de Candela, Estado de Coahuila y de General Escobedo, Carmen, Salinas Victoria, Ciénega de Flores, General Zua Zua, Sabinas Hidalgo, Hidalgo, Anáhuac, Lampazos de Naranjos, Villaldama, Vallecillo, Bustamante, Mina y Abasolo, Estado de Nuevo León, así como el siguiente perímetro dentro de los Municipios de Monterrey y San Nicolás de los Garza, Estado de Nuevo León, comprendidos entre los siguientes límites: tomando como punto de partida el vértice formado por los Municipios de General Escobedo, Monterrey y San Nicolás de los Garza, hacia el sur por límite municipal de San Nicolás de los Garza y Monterrey, hasta el cruce de las avenidas Fidel Velázquez y Manuel L. Barragán, continuando hacia el poniente por la avenida Fidel Velázquez acera sur hasta la calle Aarón Sáenz, continuando hacia el sur por Aarón Sáenz acera oriente hasta la calle Lázaro Cárdenas, continuando hacia el oriente por la calle Lázaro Cárdenas acera norte en línea imaginaria hasta el límite municipal de San Nicolás de los Garza, continuando por este límite hasta la avenida Vicente Guerrero, continuando por avenida Vicente Guerrero acera oriente hacia el sur hasta avenida Colón, hacia el poniente por avenida Colón acera sur hasta avenida Benito Juárez acera oriente, hasta Carlos Salazar, hacia el oriente por la calle Carlos Salazar acera norte, hasta Félix Uresti Gómez hacia el norte por Félix Uresti Gómez acera poniente, hasta avenida Colón, hacia el oriente por avenida Colón acera norte, hasta la vía del ferrocarril a Fundidora Monterrey, hacia el sur por la vía del ferrocarril lado poniente, hasta avenida Francisco I. Madero, hacia el oriente por avenida Francisco I. Madero acera norte, hasta avenida Colón, hacia el oriente por avenida Miguel Alemán acera norte, hasta avenida Constituyentes de Nuevo León, hacia el norte por avenida Constituyentes de Nuevo León acera poniente, hasta avenida Adolfo Ruiz Cortines, continuando por la acera sur de esta avenida hasta la avenida Churubusco acera poniente, hasta avenida Ciudad de Los Ángeles, hacia el poniente por avenida Ciudad de Los Ángeles acera sur, hasta avenida Adolfo López Mateos, hacia el noreste por avenida Adolfo López Mateos acera norte, hasta el límite del Municipio de San Nicolás de los Garza con el Municipio de Apodaca, hacia el norte por límite del Municipio de San Nicolás de los Garza con el Municipio de Apodaca hasta el límite con el Municipio de General Escobedo, continuando hacia el poniente por este límite hasta el punto de partida, donde se cierra este perímetro.
+Jurisdicción: Comprende los Municipios de Candela del Estado de Coahuila y de Abasolo, Anáhuac, Bustamante, Carmen, Ciénega de Flores, General Escobedo, General Zuazua, Hidalgo, Lampazos de Naranjo, Mina, Sabinas Hidalgo, Salinas Victoria, Vallecillo, Villaldama, del Estado de Nuevo León, así como el siguiente perímetro dentro de los Municipios de Monterrey y San Nicolás de los Garza, comprendidos entre los siguientes límites: tomando como punto de partida el vértice formado por los Municipios de General Escobedo, Monterrey y San Nicolás de los Garza, hacia el sur por el límite municipal de San Nicolás de los Garza y Monterrey, hasta el cruce de las avenidas Fidel Velásquez y Manuel L. Barragán, continuando hacia el poniente por la avenida Fidel Velásquez acera sur hasta la calle Aarón Sáenz, continuando hacia el sur por Aarón Sáenz acera oriente hasta la calle Lázaro Cárdenas, continuando hacia el oriente por la calle Lázaro Cárdenas acera norte en línea imaginaria hasta el límite municipal de San Nicolás de los Garza, continuando por este límite hasta la avenida Vicente Guerrero, continuando por avenida Vicente Guerrero acera oriente hacia el sur hasta avenida Colón, hacia el poniente por avenida Colón acera sur hasta avenida Benito Juárez acera oriente, hasta Carlos Salazar, hacia el oriente por la calle Carlos Salazar acera norte, hasta Félix Uresti Gómez hacia el norte por Félix Uresti Gómez acera poniente, hasta avenida Colón, hacia el oriente por avenida Colón acera norte, hasta la avenida José Ángel Conchello antes vía del ferrocarril a Fundidora Monterrey, hacia el sur por la avenida José Ángel Conchello antes vía del ferrocarril lado poniente, hasta avenida Francisco I. Madero, hacia el oriente por avenida Francisco I. Madero acera norte, hasta avenida Colón, hacia el oriente por avenida Miguel Alemán acera norte, hasta avenida Constituyentes de Nuevo León, hacia el norte por avenida Constituyentes de Nuevo León, acera poniente, hasta avenida Adolfo Ruiz Cortines, continuando por la acera sur de esta avenida hasta la avenida Churubusco acera poniente, hasta avenida Ciudad de los Ángeles, hacia el poniente por avenida Ciudad de los Ángeles acera sur, hasta avenida Adolfo López Mateos, hacia el noreste por avenida Adolfo López Mateos acera norte, hasta el límite del Municipio de San Nicolás de los Garza con el Municipio de Apodaca, hacia el norte por el límite del Municipio de San Nicolás de los Garza con el Municipio de Apodaca hasta el límite con el Municipio de General Escobedo, continuando hacia el poniente por este límite hasta el punto de partida, donde se cierra este perímetro.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 3 Suroeste.
+Subdelegación y Oficina para Cobros: 3 Suroeste.
 
-JURISDICCIÓN: Comprende los Municipios de San Pedro Garza García, Santa Catarina, Santiago, García y el siguiente perímetro dentro del Municipio de Monterrey, Estado de Nuevo León: tomando como punto de partida el vértice formado por la línea municipal de San Pedro Garza García y Monterrey y el Boulevard Díaz Ordaz; continuando hacia el oriente por la acera sur del Boulevard Díaz Ordaz hasta General Pablo González Garza; hacia el oriente por Pablo González Garza, acera sur hasta la calle de Arteaga; hacia el oriente por Arteaga, acera sur hasta avenida José Ma. Pino Suárez; hacia el norte por José Ma. Pino Suárez acera oriente hasta avenida Colón; hacia el oriente por avenida Colón acera sur hasta avenida Juárez; hacia el sur por avenida Juárez acera poniente hasta avenida Padre Mier; por avenida Padre Mier acera sur, hacia el oriente hasta la calle Emilio Carranza; por la calle Emilio Carranza hacia el sur acera poniente, hasta avenida de la Constitución; hasta el oriente por avenida Constitución acera sur, hasta el Puente Zaragoza; hacia el sur por el Puente Zaragoza, continuando por la acera poniente de la calle San Luis Potosí hasta el límite del Municipio de Monterrey con el de San Pedro Garza García; continuando hacia el poniente por la línea divisoria de los Municipios de Monterrey y San Pedro Garza García hasta el vértice formado por el límite y el Boulevard Díaz Ordaz; donde se cierra el área perímetro.
+Jurisdicción: Comprende los Municipios de García, San Pedro Garza García, Santa Catarina, Santiago y el siguiente perímetro dentro del Municipio de Monterrey, Estado de Nuevo León: tomando como punto de partida el vértice formado por la línea municipal de San Pedro Garza García y Monterrey y el Boulevard Díaz Ordaz; continuando hacia el oriente por la acera sur del Boulevard Díaz Ordaz hasta General Pablo González Garza; hacia el oriente por Pablo González Garza, acera sur hasta la calle de Arteaga; hacia el oriente por Arteaga, acera sur hasta avenida José Ma. Pino Suárez; hacia el norte por José Ma. Pino Suárez acera oriente hasta avenida Colón; hacia el oriente por avenida Colón acera sur hasta avenida Juárez; hacia el sur por avenida Juárez acera poniente hasta avenida Padre Mier; por avenida Padre Mier acera sur, hacia el oriente hasta la calle Emilio Carranza; por la calle Emilio Carranza hacia el sur acera poniente, hasta avenida de la Constitución; hasta el oriente por avenida Constitución acera sur, hasta el puente Zaragoza; hacia el sur por el puente Zaragoza, continuando por la acera poniente de la calle San Luis Potosí hasta el límite del Municipio de Monterrey con el de San Pedro Garza García; continuando hacia el poniente por la línea divisoria de los Municipios de Monterrey y San Pedro Garza García hasta el vértice formado por el límite y el Boulevard Díaz Ordaz; donde se cierra el perímetro.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 4 Sureste.
+Subdelegación y Oficina para Cobros: 4 Sureste.
 
-JURISDICCIÓN: Comprenderá los Municipios de China, General Bravo, Doctor Coss, Los Aldamas, Los Herreras, Los Ramones, Juárez y Cadereyta Jiménez, Estado de Nuevo León y el siguiente perímetro dentro de los Municipios de Monterrey y Guadalupe, Estado de Nuevo León: tomando como punto de partida el vértice formado por el límite de los Municipios de San Pedro Garza García y Monterrey, continuando hacia el norte por línea recta imaginaria hasta la calle San Luis Potosí acera oriente hasta avenida Doctor Ignacio Morones Prieto, cruzando el puente Zaragoza hacia el norte hasta avenida Constitución, hacia el poniente por avenida Constitución acera norte hasta la calle Emilio Carranza, por la calle Emilio Carranza acera oriente hacia el norte hasta avenida Padre Mier, por avenida Padre Mier acera norte hacia el poniente hasta avenida Benito Juárez, hacia el norte por avenida Benito Juárez acera oriente hasta Carlos Salazar, hacia el oriente por Carlos Salazar acera sur hasta Félix Uresti Gómez, hacia el norte por Félix Uresti Gómez acera oriente hasta avenida Colón, hacia el oriente por avenida Colón acera sur hasta la vía del ferrocarril a Fundidora Monterrey, hacia el sur por la vía del ferrocarril a Fundidora Monterrey lado poniente hasta avenida Francisco I. Madero, hacia el oriente por avenida Francisco I. Madero acera sur hasta avenida Colón, hacia el oriente por avenida Miguel Alemán acera sur hasta avenida Constituyentes de Nuevo León, hacia el sur por avenida Constituyentes de Nuevo León acera poniente hasta el cauce del río Santa Catarina, por el cauce del Río Santa Catarina lado sur hasta el límite del Municipio de Guadalupe con el Municipio de Pesquería, continuando hacia el sur por límite del Municipio de Guadalupe y el Municipio de Pesquería hasta el límite con el Municipio de Juárez, continuando hacia el sureste por el límite de los Municipios de Juárez y Guadalupe, Monterrey y Juárez, Monterrey y Santiago, Monterrey Santa Catarina, Monterrey y San Pedro Garza García, continuando por este mismo límite hasta el punto de partida donde se cierra este perímetro.
+Jurisdicción: Comprende los Municipios de Cadereyta Jiménez, China, Doctor Coss, General Bravo, Juárez, Los Aldamas, Los Herreras, Los Ramones y el siguiente perímetro dentro de los Municipios de Monterrey y Guadalupe, Estado de Nuevo León: tomando como punto de partida el vértice formado por el límite de los Municipios de San Pedro Garza García y Monterrey, continuando hacia el norte por línea recta imaginaria hasta la calle San Luis Potosí acera oriente hasta avenida Doctor Ignacio Morones Prieto, cruzando el puente Zaragoza hacia el norte hasta avenida Constitución, hacia el poniente por avenida Constitución acera norte hasta la calle Emilio Carranza, por la calle Emilio Carranza acera oriente hacia el norte hasta avenida Padre Mier, por avenida Padre Mier acera norte hacia el poniente hasta avenida Benito Juárez, hacia el norte por avenida Benito Juárez acera oriente hasta Carlos Salazar, hacia el oriente por Carlos Salazar acera sur hasta Félix Uresti Gómez, hacia el norte por Félix Uresti Gómez acera oriente hasta avenida Colón, hacia el oriente por avenida Colón acera sur hasta la avenida José Ángel Conchello antes vía del ferrocarril a Fundidora Monterrey, hacia el sur por la avenida José Ángel Conchello antes vía del ferrocarril a Fundidora Monterrey lado poniente hasta avenida Francisco I. Madero, hacia el oriente por avenida Francisco I. Madero acera sur hasta avenida Colón, hacia el oriente por avenida Miguel Alemán acera sur hasta avenida Constituyentes de Nuevo León, hacia el sur por avenida Constituyentes de Nuevo León acera poniente hasta el cauce del río Santa Catarina, por el cauce del río Santa Catarina lado sur hasta el límite del Municipio de Guadalupe con el Municipio de Pesquería, continuando hacia el sur por el límite del Municipio de Guadalupe y el Municipio de Pesquería hasta el límite con el Municipio de Juárez, continuando hacia el sureste por el límite de los Municipios de Juárez y Guadalupe, Monterrey y Juárez, Monterrey y Santiago, Monterrey y Santa Catarina, Monterrey y San Pedro Garza García, continuando por este mismo límite hasta el punto de partida donde se cierra este perímetro.
 
-- DELEGACIÓN: Oaxaca.
+Delegación: Oaxaca.
 
-JURISDICCIÓN: El Estado de Oaxaca, excepto los Municipios de Acatlán de Pérez Figueroa, Cosolapa y Nuevo Soyaltepec.
+Jurisdicción: Estado de Oaxaca excepto los Municipios de Acatlán de Pérez Figueroa, Cosoloapa y San Miguel Soyaltepec.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Oaxaca.
+Subdelegación y Oficina para Cobros: Oaxaca.
 
-JURISDICCIÓN: Los Municipios de Acatlán de Pérez Figueroa, Ánimas Trujano, Cuilapam de Guerrero, Ejutla de Crespo, Guadalupe Etla, Huayapam de León, Ixtlán de Juárez, Ciénega de Zimatlán, Magdalena Apasco, Magdalena Ocotlán, Miahuatlán de Profirio Díaz, Nazareno Etla, Oaxaca de Juárez, Ocotlán de Morelos, Reyes Etla, San Agustín de las Juntas, San Agustín Etla, San Agustín Yatareni, San Andrés Huayapan, San Andrés Zautla, San Antonino Castillo Velasco, San Antonio de la Cal, San Baltazar Chichicapam, San Bartolo Coyotepec, San Cristóbal Amoltepec, San Dionicio Ocotlán, San Francisco Lachigoló, San Francisco Telixtlahuaca, San Jacinto Amilpas, San Jerónimo Silacayoapilla, San Juan Atepec, San Juan Bautista Cuicatlán, San Juan Bautista Guelache, San Juan Chilateca, San Juan del Estado, San Juan del Río, San Juan Evangelista Analco, San Juan Teposcolula, San Lorenzo Albarradas, San Lorenzo Cacaotepec, San Miguel Ejutla, San Miguel Tilquiapam, San Pablo Etla, San Pablo Huitzo, San Pablo Huixtepec, San Pablo Villa de Mitla, San Pedro Apóstol, Villa Etla, San Sebastián Tutla, Santa Ana Zegache, Santa Catarina Ixtepjeji, Santa Catarina Michoacán, Santa Catarina Minas, Santa Catarina Quiané, Santa Cruz Amilpas, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Heroica Ciudad de Tlaxiaco, Santa María Atzompa, Santa María Coyotepec, Santa María del Rosario, Santa María del Tule, Santa María Tecomavaca, Santiago Huajolotitlán, Santiago Matatlán, Santo Domingo Tomaltepec, Santos Reyes Papaló, Santo Tomás Mazaltepec, Soledad Etla, Taniche, Teotitlán de Flores Magón, Teotitlán del Valle, Tezoatlán de Segura y Luna, Tlacolula de Matamoros, Tlalixtac de Cabrera, Trinidad Zaachila, Villa de Tamazulapam del Progreso, Yogana, Villa de Zaachila, Zapotitlán Palmas y Zimatlán de Alvarez.
+Jurisdicción: Los Municipios de Abejones, Ánimas Trujano, Asunción Cacalotepec, Asunción Cuyotepeji, Asunción Nochixtlán, Asunción Ocotlán, Ayoquezco de Aldama, Calihualá, Capulalpam de Méndez, Ciénega de Zimatlán, Coatecas Altas, Coicoyán de las Flores, Concepción Buenavista, Concepción Pápalo, Constancia del Rosario, Cosoltepec, Cuilapam de Guerrero, Cuyamecalco Villa de Zaragoza, Chalcatongo de Hidalgo, Chiquihuitlán de Benito Juárez, Eloxochitlán de Flores Magón, Fresnillo de Trujano, Guadalupe de Ramírez, Guadalupe Etla, Guelatao de Juárez, Heroica Ciudad de Ejutla de Crespo, Heroica Ciudad de Huajuapam de León, Heroica Ciudad de Tlaxiaco, Huautepec, Huautla de Jiménez, Ixpantepec Nieves, Ixtlán de Juárez, La Compañía, La Pe, La Reforma, La Trinidad Vista Hermosa, Magdalena Apasco, Magdalena Jaltepec, Magdalena Mixtepec, Magdalena Ocotlán, Magdalena Peñasco, Magdalena Teitipac, Magdalena Yodocono de Porfirio Díaz, Magdalena Zahuatlán, Mariscala de Juárez, Mazatlán Villa de Flores, Mesones Hidalgo, Miahuatlán de Porfirio Díaz, Mixistlán de la Reforma, Monjas, Natividad, Nazareno Etla, Nuevo Zoquiapam, Oaxaca de Juárez, Ocotlán de Morelos, Putla Villa de Guerrero, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín Atenango, San Agustín de las Juntas, San Agustín Etla, San Agustín Tlacotepec, San Agustín Yatareni, San Andrés Cabecera Nueva, San Andrés Dinicuiti, San Andrés Huayapam, San Andrés Ixtlahuaca, San Andrés Lagunas, San Andrés Nuxiño, San Andrés Paxtlán, San Andrés Sinaxtla, San Andrés Solaga, San Andrés Teotilálpam, San Andrés Tepetlapa, San Andrés Yaá, San Andrés Zabache, San Andrés Zautla, San Antonino Castillo Velasco, San Antonino el Alto, San Antonino Monte Verde, San Antonio Acutla, San Antonio de la Cal, San Antonio Huitepec, San Antonio Nanahuatipam, San Antonio Sinicahua, San Baltazar Chichicapam, San Baltazar Yatzachi el Bajo, San Bartolo Coyotepec, San Bartolo Soyaltepec, San Bartolomé Ayautla, San Bartolomé Quialana, San Bartolomé Yucuañe, San Bartolomé Zoogocho, San Bernardo Mixtepec, San Cristóbal Amatlán, San Cristóbal Amoltepec, San Cristóbal Lachirioag, San Cristóbal
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Salina Cruz.
+Suchixtlahuaca, San Dionisio Ocotepec, San Dionisio Ocotlán, San Esteban Atatlahuca, San Felipe Tejalapam, San Francisco Cahuacúa, San Francisco Cajonos, San Francisco Chapulapa, San Francisco Chindúa, San Francisco Huehuetlán, San Francisco Jaltepetongo, San Francisco Lachigoló, San Francisco Logueche, San Francisco Nuxaño, San Francisco Ozolotepec, San Francisco Sola, San Francisco Telixtlahuaca, San Francisco Teopan, San Francisco Tlapancingo, San Ildefonso Amatlán, San Ildefonso Sola, San Ildefonso Villa Alta, San Jacinto Amilpas, San Jacinto Tlacotepec, San Jerónimo Coatlán, San Jerónimo Silacayoapilla, San Jerónimo Sosola, San Jerónimo Taviche, San Jerónimo Tecóatl, San Jerónimo Tlacochahuaya, San Jorge Nuchita, San José Ayuquila, San José del Peñasco, San José del Progreso, San José Lachigüirí, San José Tenango, San Juan Achiutla, San Juan Atepec, San Juan Bautista Atatlahuca, San Juan Bautista Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista Suchitepec, San Juan Bautista Tlacoatzintepec, San Juan Bautista Tlachichilco, San Juan Cieneguilla, San Juan Coatzospam, San Juan Comaltepec, San Juan Cotzocón, San Juan Chicomezúchil, San Juan Chilateca, San Juan de los Cués, San Juan del Estado, San Juan del Río, San Juan Diuxi, San Juan Evangelista Analco, San Juan Guelavía, San Juan Ihualtepec, San Juan Juquila Vijanos, San Juan Lachigalla, San Juan Lalana, San Juan Mazatlán, San Juan Mixtepec-Distrito-08, San Juan Mixtepec-Distrito-26, San Juan Ñumí, San Juan Ozolotepec, San Juan Petlapa, San Juan Quiotepec, San Juan Sayultepec, San Juan Tabaá, San Juan Tamazola, San Juan Teita, San Juan Teitipac, San Juan Tepeuxila, San Juan Teposcolula, San Juan Yaeé, San Juan Yatzona, San Juan Yucuita, San Lorenzo Albarradas, San Lorenzo Cacaotepec, San Lorenzo Cuaunecuiltitla, San Lorenzo Texmelucan, San Lorenzo Victoria, San Lucas Camotlán, San Lucas Quiaviní, San Lucas Zoquiapam, San Luis Amatlán, San Marcial Ozolotepec, San Marcos Arteaga, San Martín de los Cansecos, San Martín Huamelulpam, San Martín Itunyoso, San Martín Lachilá, San Martín Peras, San Martín Tilcajete, San Martín Toxpalan, San Martín Zacatepec, San Mateo Cajonos, San Mateo Etlatongo, San Mateo Nejapam, San Mateo Peñasco, San Mateo Río Hondo, San Mateo Sindihui, San Mateo Tlapiltepec, San Mateo Yoloxochitlán, San Melchor Betaza, San Miguel Achiutla, San Miguel Ahuehuetitlán, San Miguel Aloápam, San Miguel Amatitlán, San Miguel Amatlán, San Miguel Coatlán, San Miguel Chicahua, San Miguel del Río, San Miguel Ejutla, San Miguel el Grande, San Miguel Huautla, San Miguel Mixtepec, San Miguel Peras, San Miguel Piedras, San Miguel Quetzaltepec, San Miguel Santa Flor, San Miguel Suchixtepec, San Miguel Tecomatlán, San Miguel Tequixtepec, San Miguel Tilquiapam, San Miguel Tlacotepec, San Miguel Tulancingo, San Miguel Yotao, San Nicolás,
 
-JURISDICCIÓN: Los Municipios de Asunción Ixtaltepec, Ciudad Ixtepec, Chahuites, El Barrio de la Soledad, El Espinal, Juchitán de Zaragoza, Magdalena Tequisistlán, Matías Romero, Salina Cruz, San Blas Atempa, San Juan Guichicovi, San Pedro Tapanatepec, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Xadani, Santiago Niltepec, Santo Domingo Ingenio, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec y Unión Hidalgo.
+San Nicolás Hidalgo, San Pablo Coatlán, San Pablo Cuatro Venados, San Pablo Etla, San Pablo Huitzo, San Pablo Huixtepec, San Pablo Macuiltianguis, San Pablo Tijaltepec, San Pablo Villa de Mitla, San Pablo Yaganiza, San Pedro Amuzgos, San Pedro Apóstol, San Pedro Cajonos, San Pedro Coxcaltepec Cántaros, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Juchatengo, San Pedro Mártir, San Pedro Mártir Yucuxaco, San Pedro Mixtepec-Distr–22, San Pedro Molinos, San Pedro Nopala, San Pedro Ocopetatillo, San Pedro Ocotepec, San Pedro Quiatoni, San Pedro Sochiapam, San Pedro Taviche, San Pedro Teozacoalco, San Pedro Teutila, San Pedro Tidaá, San Pedro Topiltepec, San Pedro Totolapa, San Pedro y San Pablo Ayutla, San Pedro y San Pablo Teposcolula, San Pedro y San Pablo Tequixtepec, San Pedro Yaneri, San Pedro Yólox, San Pedro Yucunama, San Raymundo Jalpan, San Sebastián Abasolo, San Sebastián Coatlán, San Sebastián Nicananduta, San Sebastián Río Hondo, San Sebastián Tecomaxtlahuaca, San Sebastián Teitipac, San Sebastián Tutla, San Simón Almolongas, San Simón Zahuatlán, San Vicente Coatlán, San Vicente Lachixío, San Vicente Nuñú, Santa Ana, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Ana del Valle, Santa Ana Tlapacoyan, Santa Ana Yareni, Santa Ana Zegache, Santa Catarina Cuixtla, Santa Catarina Ixtepeji, Santa Catarina Lachatao, Santa Catarina Minas, Santa Catarina Quiané, Santa Catarina Tayata, Santa Catarina Ticuá, Santa Catarina Yosonotú, Santa Catarina Zapoquila, Santa Cruz Acatepec, Santa Cruz Amilpas, Santa Cruz de Bravo, Santa Cruz Itundujia, Santa Cruz Mixtepec, Santa Cruz Nundaco, Santa Cruz Papalutla, Santa Cruz Tacache de Mina, Santa Cruz Tacahua, Santa Cruz Tayata, Santa Cruz Xitla, Santa Cruz Xoxocotlán, Santa Cruz Zenzontepec, Santa Gertrudis, Santa Inés de Zaragoza, Santa Inés del Monte, Santa Inés Yatzeche, Santa Lucía del Camino, Santa Lucía Miahuatlán, Santa Lucía Monteverde, Santa Lucía Ocotlán, Santa Magdalena Jicotlán, Santa María Alotepec, Santa María Apazco, Santa María Atzompa, Santa María Camotlán, Santa María Coyotepec, Santa María Chachoapam, Santa María Chilchotla, Santa María del Rosario, Santa María del Tule, Santa María Guelacé, Santa María Ipalapa, Santa María Ixcatlán, Santa María Jaltianguis, Santa María la Asunción, Santa María Lachixío, Santa María Nativitas, Santa María Nduayaco, Santa María Ozolotepec, Santa María Pápalo, Santa María Peñoles, Santa María Sola, Santa María Tataltepec, Santa María Tecomavaca, Santa María Temaxcalapa, Santa María Teopoxco, Santa María Tepantlali, Santa María Texcatitlán, Santa María Tlahuitoltepec, Santa María Tlalixtac, Santa María Yalina, Santa María Yavesía, Santa María Yolotepec, Santa María Yosoyúa, Santa María Yucuhiti, Santa María Zacatepec, Santa María Zaniza, Santa María Zoquitlán, Santiago Amoltepec, Santiago Apoala, Santiago Apóstol, Santiago Atitlán, Santiago Ayuquililla, Santiago Cacaloxtepec, Santiago Camotlán, Santiago Comaltepec, Santiago Chazumba, Santiago Choapam, Santiago del Río, Santiago Huajolotitlán, Santiago Huauclilla, Santiago Ihuitlán Plumas, Santiago Ixcuintepec, Santiago Jocotepec, Santiago Juxtlahuaca, Santiago Lalopa, Santiago Laxopa, Santiago Matatlán, Santiago Miltepec, Santiago Minas, Santiago Nacaltepec, Santiago Nejapilla, Santiago Nundiche, Santiago Nuyoó, Santiago Suchilquitongo, Santiago Tamazola, Santiago Tenango, Santiago Tepetlapa, Santiago Texcalcingo, Santiago Textitlán, Santiago Tilantongo, Santiago Tillo, Santiago Tlazoyaltepec, Santiago Xanica, Santiago Xiacuí, Santiago Yaveo, Santiago Yolomécatl, Santiago Yosondúa, Santiago Yucuyachi, Santiago Zacatepec, Santiago Zoochila, Santo Domingo Albarradas, Santo Domingo Ixcatlán, Santo Domingo Nuxaá, Santo Domingo Ozolotepec, Santo Domingo Roayaga, Santo Domingo Teojomulco, Santo Domingo Tepuxtepec, Santo Domingo Tlatayapam, Santo Domingo Tomaltepec, Santo Domingo Tonalá, Santo Domingo Tomaltepec, Santo Domingo Xagacía, Santo Domingo Yanhuitlán, Santo Domingo Yodohino, Santo Tomás Jalieza, Santo Tomás Mazaltepec, Santo Tomás Ocotepec, Santo Tomás Tamazulapam, Santos Reyes Pápalo, Santos Reyes Tepejillo, Santos Reyes Yucuná, Silacayoapam, Sitio de Xitlapehua, Soledad Etla, Tamazulapam del Espíritu Santo, Tanetze de Zaragoza, Taniche, Teococuilco de Marcos Pérez, Teotitlán de Flores Magón, Teotitlán del Valle, Teotongo, Tepelmeme Villa de Morelos, Tezoatlán de Segura y Luna, Tlacolula de Matamoros, Tlacotepec Plumas, Tlalixtac de Cabrera, Totontepec Villa de Morelos, Trinidad Zaachila, Valerio Trujano, Villa de Chilapa de Díaz, Villa de Etla, Villa de Tamazulapam del Progreso, Villa de Zaachila, Villa Díaz Ordaz, Villa Hidalgo, Villa Sola de Vega, Villa Talea de Castro, Villa Tejupam de la Unión, Yaxe, Yogana, Yutanduchi de Guerrero, Zapotitlán del Río, Zapotitlán Lagunas, Zapotitlán Palmas y Zimatlán de Álvarez.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: San Juan Bautista Tuxtepec.
+Subdelegación y Oficina para Cobros: Salina Cruz.
 
-JURISDICCIÓN: Los Municipios de Loma Bonita, San Juan Bautista Tuxtepec y San Lucas Ojitlán.
+Jurisdicción: Los Municipios de Asunción Ixtaltepec, Asunción Tlacolulita, Ciudad Ixtepec, Chahuites, El Barrio de la Soledad, El Espinal, Guevea de Humboldt, Juchitán de Zaragoza, Magdalena Tequisistlán, Magdalena Tlacotepec, Matías Romero, Nejapa de Madero, Reforma de Pineda, Salina Cruz, San Bartolo Yautepec, San Blas Atempa, San Carlos Yautepec, San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Juan Guichicovi, San Juan Juquila Mixes, San Juan Lajarcia, San Mateo del Mar, San Miguel Chimalapa, San Miguel Tenango, San Pedro Comitancillo, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Mártir Quiechapa, San Pedro Tapanatepec, Santa Ana Tavela, Santa Catalina Quieri, Santa Catarina Quioquitani, Santa María Chimalapa, Santa María Ecatepec, Santa María Guienagati, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Quiegolani, Santa María Totolapilla, Santa María Xadani, Santiago Astata, Santiago Lachigüirí, Santiago Laollaga, Santiago Niltepec, Santo Domingo Chihuitán, Santo Domingo Ingenio, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec y Unión Hidalgo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Santa María Huatulco.
+Subdelegación y Oficina para Cobros: San Juan Bautista Tuxtepec.
 
-JURISDICCIÓN: Los Municipios de San Pedro Mixtepec, San Pedro Tututepec, Santiago Pinotepa Nacional, Santa María Colotepec, San Andrés Huaxpaltepec, San Pedro Pochutla, Santiago Jamiltepec y Santa María Huatulco.
+Jurisdicción: Los Municipios de Ayotzintepec, Loma Bonita, San Felipe Jalapa de Díaz, San Felipe Usila, San José Chiltepec, San José Independencia, San Juan Bautista Tuxtepec, San Juan Bautista Valle Nacional, San Lucas Ojitlán, San Pedro Ixcatlán y Santa María Jacatepec.
 
-- DELEGACIÓN: Puebla.
+Subdelegación y Oficina para Cobros: Santa María Huatulco.
 
-JURISDICCIÓN: Estado de Puebla.
+Jurisdicción: Los Municipios de Candelaria Loxicha, Mártires de Tacubaya, Pinotepa de Don Luis, Pluma Hidalgo, San Agustín Chayuco, San Agustín Loxicha, San Andrés Huaxpaltepec, San Antonio Tepetlapa, San Baltazar Loxicha, San Bartolomé Loxicha, San Gabriel Mixtepec, San José Estancia Grande, San Juan Bautista Lo de Soto, San Juan Cacahuatepec, San Juan Colorado, San Juan Lachao, San Juan Quiahije, San Lorenzo, San Mateo Piñas, San Miguel del Puerto, San Miguel Panixtlahuaca, San Miguel Tlacamama, San Pedro Atoyac, San Pedro el Alto, San Pedro Jicayán, San Pedro Mixtepec-Distrito-26, San Pedro Pochutla, San Sebastián Ixcapa, Santa Catarina Juquila, Santa Catarina Loxicha, Santa Catarina Mechoacán, Santa María Colotepec, Santa María Cortijo, Santa María Huatulco, Santa María Huazolotitlán, Santa María Temaxcaltepec, Santa María Tonameca, Santiago Ixtayutla, Santiago Jamiltepec, Santiago Llano Grande, Santiago Pinotepa Nacional, Santiago Tapextla, Santiago Tetepec, Santiago Yaitepec, Santo Domingo Armenta, Santo Domingo de Morelos, Santos Reyes Nopala, Tataltepec de Valdés y Villa de Tututepec de Melchor Ocampo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Puebla Norte.
+Delegación: Puebla.
 
-JURISDICCIÓN: Comprende la parte del Municipio de Puebla delimitada por el siguiente perímetro: Inicia al poniente en el vértice formado por el límite con el Municipio de Cuautlancingo y la acera norte de la calle Prolongación, Reforma o carretera Federal Puebla-México; prosigue al sur por las aceras norte de las calles Prolongación Reforma, Reforma, Maximino Avila Camacho y su prolongación en línea recta imaginaria hasta cortar con los límites con el Municipio de Amozoc; continúa al oriente por los límites de los Municipios de Amozoc y Tepatlaxco de Hidalgo; continuando al norte con los límites del Estado de Tlaxcala y al poniente con los límites del Municipio de Cuautlancingo hasta llegar a la carretera federal Puebla-México o Prolongación Reforma y los Municipios de Cuautlancingo, San Miguel Xoxtla, Amozoc, Aquixtla, Chignahuapan, Tetela de Ocampo, Zacatlán, Ahuazotepec, Huauchinango, Juan Galindo y Xicotepec.
+Jurisdicción: Estado de Puebla.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Puebla Sur.
+Subdelegación y Oficina para Cobros: Izúcar de Matamoros.
 
-JURISDICCIÓN: Comprende la parte del Municipio de Puebla, formada por el perímetro que inicia al poniente en el vértice formado por los límites con el Municipio de Cuautlancingo y la acera sur de la calle Prolongación Reforma o carretera federal Puebla-México; continuando al norte por las aceras sur de las calles Prolongación Reforma, Reforma y Maximino Avila Camacho y en línea recta imaginaria hasta llegar al límite con el Municipio de Amozoc; continúa al oriente por los límites de los Municipios de Amozoc, Cuautinchán y Tzicatlacoyan al sur con los límites de los Municipios Huehuetlán El Grande, San Diego la Mesa Tochimiltzingo y al poniente con los límites de los Municipios de Atlixco, Ocoyucan, San Andrés Cholula y Cuautlancingo hasta la carretera Federal Puebla-México y los Municipios de San Felipe Teotlalcingo, San Martín Texmelucan, San Matías Tlalancaleca, San Salvador el Verde, Tlahuapan, Coronango, San Andrés Cholula, San Gregorio Atzompa, San Pedro Cholula, Calpan, Chiautzingo, Domingo Arenas, Huejotzingo y Tlaltenango.
+Jurisdicción: Los Municipios de Acatlán, Acteopan, Ahuatlán, Ahuehuetitla, Albino Zertuche, Atlixco, Atzala, Atzitzihuacán, Axutla, Coatzingo, Cohetzala, Cohuecán, Cuayuca de Andrade, Chiautla, Chietla, Chigmecatitlán, Chila, Chila de la Sal, Chinantla, Epatlán, Guadalupe, Huaquechula, Huehuetlán el Chico, Huehuetlán el Grande, Ixcamilpa de Guerrero, Izúcar de Matamoros, Jolalpan, Petlalcingo, Piaxtla, San Diego la Mesa Tochimiltzingo, San Jerónimo Xayacatlán, San Martín Totoltepec, San Miguel Ixitlán, San Pablo Anicano, San Pedro Yeloixtlahuaca, Santa Catarina Tlaltempan, Tecomatlán, Tehuitzingo, Teopantlán, Teotlalco, Tepemaxalco, Tepeojuma, Tepexco, Tianguismanalco, Tilapa, Tlapanalá, Tochimilco, Totoltepec de Guerrero, Tulcingo, Xayacatlán de Bravo, Xicotlán, Xochiltepec y Zacapala.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tehuacán.
+Subdelegación y Oficina para Cobros: Puebla Norte.
 
-JURISDICCIÓN: Comprende los Municipios de Altepexi, Caltepec, Cañada Morelos, Juan N. Méndez, San Gabriel Chilac, Tehuacán, Tepanco de López, Zapotitlán, General Felipe Ángeles, Palmar de Bravo, Quecholac, San Salvador Huixcolotla, Tecamachalco, Tlacotepec de Benito Juárez, Tochtepec, Yehualtepec, Ajalpan, Coxcatlán, Zinacatepec, Zoquitlán, Acajete, Acatzingo, Coyotepec, Cuapiaxtla de Madero, Ixcaquixtla, Los Reyes de Juárez, Molcaxac, San Salvador el Seco, Tecali de Herrera, Tepatlaxco de Hidalgo, Tepeaca, Tepexi de Rodríguez, Aljojuca, Chalchicomula de Sesma y Esperanza.
+Jurisdicción: Comprende la parte del Municipio de Puebla delimitada por el siguiente perímetro: inicia al poniente en el vértice formado por el límite con el Municipio de Cuautlancingo y la acera norte de la calle Prolongación Reforma o carretera federal Puebla-México; siguiendo al sur por las aceras norte de las calles Prolongación Reforma, Reforma, Maximino Ávila Camacho y su prolongación en línea recta imaginaria hasta cortar con los límites con el Municipio de Amozoc; continúa al oriente por los límites de los Municipios de Amozoc y Tepatlaxco de Hidalgo; continuando al norte con los límites del Estado de Tlaxcala y al poniente con los límites del Municipio de Cuautlancingo hasta llegar a la carretera federal Puebla-México o Prolongación Reforma y los Municipios de Ahuacatlán, Ahuazotepec, Amixtlán, Amozoc, Aquixtla, Cuautempan, Cuautlancingo, Chiconcuautla, Chignahuapan, Francisco Z. Mena, Hermenegildo Galeana, Honey, Huauchinango, Ixtacamaxtitlán, Jalpan, Jopala, Juan Galindo, Mixtla, Naupan, Pahuatlán, Pantepec, San Felipe Tepatlán, San Juan Atzompa, San Miguel Xoxtla, Tepango de Rodríguez, Tepetzintla, Tetela de Ocampo, Tlacuilotepec, Tlaola, Tlapacoya, Tlaxco, Venustiano Carranza, Xicotepec, Zacatlán y Zihuateutla.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Izúcar de Matamoros.
+Subdelegación y Oficina para Cobros: Puebla Sur.
 
-JURISDICCIÓN: Comprende los Municipios de Epatlán, Izúcar de Matamoros, Tepeojuma, Xochiltepec, Huehuetlán el Grande, Atlixco, Acteopan, Atzala, Chiautla, Chietla, Huehuetlán el Chico, Tilapa, Acatlán, y Tehuitzingo.
+Jurisdicción: Comprende la parte del Municipio de Puebla, formada por el perímetro que inicia al poniente en el vértice formado por los límites con el Municipio de Cuautlancingo y la acera sur de la calle Prolongación Reforma o carretera federal Puebla-México; continuando al norte por las aceras sur de las calles Prolongación Reforma, Reforma y Maximino Ávila Camacho y en línea recta imaginaria hasta llegar al límite con el Municipio de Amozoc; continúa al oriente por los límites de los Municipios de Amozoc, Cuautinchán y Tzicatlacoyan al sur con los límites de los Municipios Huehuetlán el Grande, San Diego la Mesa Tochimiltzingo y al poniente con los límites de los Municipios de Atlixco, Ocoyucán, San Andrés Cholula y Cuautlancingo hasta la carretera federal Puebla-México y los Municipios de Calpan, Coronango, Chiautzingo, Domingo Arenas, Huejotzingo, Juan C. Bonilla, Nealtican, Ocoyucan, San Andrés Cholula, San Felipe Teotlalcingo, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Martín Texmelucan, San Matías Tlalancaleca, San Nicolás de los Ranchos, San Pedro Cholula, San Salvador el Verde, Santa Isabel Cholula, Tlahuapan y Tlaltenango.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Teziutlán.
+Subdelegación y Oficina para Cobros: Tehuacán.
 
-JURISDICCIÓN: Comprende los Municipios de Chignautla, Guadalupe Victoria, Hueytamalco Tepeyahualco, Teziutlán, Xiutetelco, Atempan, Cuetzalan del Progreso, Teteles de Ávila Castillo, Tlatlauquitepec, Zacapoaxtla, Zaragoza, Cuyoaco, Nopalucan, Libres, Oriental, Rafael Lara Grajales y San José Chiapa.
+Jurisdicción: Los Municipios de Acajete, Acatzingo, Ajalpan, Aljojuca, Altepexi, Atexcal, Atoyatempan, Atzitzintla, Caltepec, Cañada Morelos, Coxcatlán, Coyomeapan, Coyotepec, Cuapiaxtla de Madero, Cuautinchán, Chalchicomula de Sesma, Chapulco, Eloxochitlán, Esperanza, General Felipe Ángeles, Huatlatlauca, Huitziltepec, Ixcaquixtla, Juan N. Méndez, Los Reyes de Juárez, Mazapiltepec de Juárez, Molcaxac, Nicolás Bravo, Palmar de Bravo, Quecholac, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, San Juan Atenco, San Nicolás Buenos Aires, San Salvador el Seco, San Salvador Huixcolotla, San Sebastián Tlacotepec, Santa Inés Ahuatempan, Santiago Miahuatlán, Santo Tomás Hueyotlipan, Soltepec, Tecali de Herrera, Tecamachalco, Tehuacán, Tepanco de López, Tepatlaxco de Hidalgo, Tepeaca, Tepexi de Rodríguez, Tepeyahualco de Cuauhtémoc, Tlacotepec de Benito Juárez, Tlachichuca, Tlanepantla, Tochtepec, Tzicatlacoyan, Vicente Guerrero, Xochitlán Todos Santos, Yehualtepec, Zapotitlán, Zinacatepec y Zoquitlán.
 
-- DELEGACIÓN: Querétaro.
+Subdelegación y Oficina para Cobros: Teziutlán.
 
-JURISDICCIÓN: Estado de Querétaro.
+Jurisdicción: Los Municipios de Acateno, Atempan, Atlequizayan, Ayotoxco de Guerrero, Camocuautla, Caxhuacan, Coatepec, Cuetzalan del Progreso, Cuyoaco, Chichiquila, Chignautla, Chilchotla, Guadalupe Victoria, Huehuetla, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Ixtepec, Jonotla, La Magdalena Tlatlauquitepec, Lafragua, Libres, Nauzontla, Nopalucan, Ocotepec, Olintla, Oriental, Quimixtlán, Rafael Lara Grajales, San José Chiapa, Tenampulco, Tepeyahualco, Teteles de Ávila Castillo, Teziutlán, Tlatlauquitepec, Tuzamapan de Galeana, Xiutetelco, Xochiapulco, Xochitlán de Vicente Suárez, Yaonáhuac, Zacapoaxtla, Zapotitlán de Méndez, Zaragoza, Zautla, Zongozotla y Zoquiapan.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Querétaro.
+Delegación: Querétaro.
 
-JURISDICCIÓN: Comprende los Municipios de Colón, Corregidora, El Marqués, Humilpan, Querétaro y Tolimán.
+Jurisdicción: Estado de Querétaro.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: San Juan del Río.
+Subdelegación y Oficina para Cobros: Querétaro.
 
-JURISDICCIÓN: Los Municipios de Amealco de Bonfil, Cadereyta de Montes, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Pedro Escobedo, Peñamiller, Pinal de Amoles, San Joaquín, San Juan del Río y Tequisquiapan.
+Jurisdicción: Los Municipios de Colón, Corregidora, El Marqués, Huimilpan, Querétaro y Tolimán.
 
-- DELEGACIÓN: Quintana Roo.
+Subdelegación y Oficina para Cobros: San Juan del Río.
 
-JURISDICCIÓN: Estado de Quintana Roo.
+Jurisdicción: Los Municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Pedro Escobedo, Peñamiller, Pinal de Amoles, San Joaquín, San Juan del Río y Tequisquiapan.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Cancún.
+Delegación: Quintana Roo.
 
-JURISDICCIÓN: Los Municipios de Benito Juárez, e Isla Mujeres.
+Jurisdicción: Estado de Quintana Roo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Chetumal.
+Subdelegación y Oficina para Cobros: Cancún.
 
-JURISDICCIÓN: Los Municipios de Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
+Jurisdicción: Los Municipios de Benito Juárez, Isla Mujeres y Lázaro Cárdenas.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Cozumel.
+Subdelegación y Oficina para Cobros: Playa del Carmen.
 
-JURISDICCIÓN: Los Municipios de Cozumel y Solidaridad.
+Jurisdicción: Los Municipios de Cozumel y Solidaridad.
 
-- DELEGACIÓN: San Luis Potosí.
+Subdelegación y Oficina para Cobros: Chetumal.
 
-JURISDICCIÓN: Estado de San Luis Potosí.
+Jurisdicción: Los Municipios de Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ciudad Valles.
+Delegación: San Luis Potosí.
 
-JURISDICCIÓN: Los Municipios de Aquismón, Axtla de Terrazas, Ciudad del Maíz, Ciudad Valles, Coxcatlán, Ébano, Huehuetlán, San Antonio, San Martín Chalchicuautla, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Xilitla, El Naranjo y Matlapa.
+Jurisdicción: Estado de San Luis Potosí.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Matehuala.
+Subdelegación y Oficina para Cobros: Ciudad Valles.
 
-JURISDICCIÓN: Los Municipios de Catorce, Cedral, Charcas, Matehuala, Villa de Guadalupe y Villa de la Paz.
+Jurisdicción: Los Municipios de Aquismón, Axtla de Terrazas, Ciudad del Maíz, Ciudad Valles, Coxcatlán, Ébano, El Naranjo, Huehuetlán, Matlapa, San Antonio, San Martín Chalchicuautla, San Vicente Tancuayalab, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo y Xilitla.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Oriente.
+Subdelegación y Oficina para Cobros: Matehuala.
 
-JURISDICCIÓN: Comprenderá todo el oriente de la ciudad y límite al sur del Municipio de San Luis Potosí, delimitado por el vértice que conforma con la Ranchería del Lobo, de sur a norte, continuando por el Río Españita, cruzando el Periférico sur y continuando por Prolongación Xicoténcatl por la acera oriente hasta la avenida Doctor Salvador Nava Martínez (antes Diagonal Sur) continuando al poniente por la misma avenida, acera norte hasta la calle de Independencia, continuando al norte por la misma calle por la acera lado oriente hasta la calle de Pascual M. Hernández, continuando a la derecha por la calle de Pascual M. Hernández por la acera lado sur de esa misma calle hasta la calle 1 de Mayo acera sur, continuando hasta la calle de Constitución, continuando a la izquierda al norte por la calle de Constitución por la acera oriente, prolongándose al norte por el Eje Vial acera oriente hasta la avenida Reforma lado oriente, continuando al norte por la misma avenida hasta la avenida 20 de Noviembre lado oriente, siguiendo al norte por la misma avenida a la altura de la calle Central, se prolonga hasta la calle Arenal lado oriente, cruzando el Boulevard Río de Santiago, prolongándose sobre la vía de ferrocarril a Nuevo Laredo lado oriente hasta el límite norte del Municipio de San Luis Potosí, incluyendo además los Municipios siguientes: Villa Hidalgo, Guadalcázar, Cerritos, Cerro de San Pedro, Armadillo de los Infante, Soledad de Graciano Sánchez, Zaragoza, Santa María del Río, Tierranueva, Villa Juárez, Rioverde, Cárdenas, Ciudad Fernández, Rayón, Santa Catarina, Alaquines y Lagunillas; todos del Estado de San Luis Potosí.
+Jurisdicción: Los Municipios de Catorce, Cedral, Charcas, Matehuala, Santo Domingo, Vanegas, Villa de Guadalupe y Villa de la Paz.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Poniente.
+Subdelegación y Oficina para Cobros: Oriente.
 
-JURISDICCIÓN: Comprenderá todo el poniente de la ciudad y límite al sur del Municipio de San Luis Potosí, delimitado por el vértice que conforma con la Ranchería El Rincón Verde, de sur a norte, continuando por el Ejido Tierra Blanca, cruzando el Periférico Sur, continuando por las calles de Prolongación Xicoténcatl por la acera poniente hasta la avenida Doctor Salvador Nava Martínez (antes Diagonal Sur), continuando al poniente por la misma avenida sobre la acera sur hasta la calle de Independencia, continuando al norte por la misma calle, acera poniente hasta la calle de Pascual M. Hernández, continuando al oriente por la misma calle por la acera lado norte de esa misma calle hasta la calle 1 de Mayo acera sur, continuando hasta la calle de Constitución, continuando a la izquierda hacia el norte por la calle de Constitución por la acera poniente, prolongándose al norte por el Eje Vial acera poniente hasta la avenida Reforma lado poniente, continuando al norte por la misma avenida hasta la avenida 20 de Noviembre lado poniente, siguiendo al norte por la misma avenida a la altura de la calle Central, se prolonga hacia la calle Arenal lado poniente, cruzando el Boulevard Río Santiago y prolongándose sobre la vía de ferrocarril a Nuevo Laredo lado poniente hasta el límite norte del Municipio de San Luis Potosí, incluyendo además los Municipios siguientes: Ahualulco, Mexquitic de Carmona, Moctezuma Salinas,Venado, Villa de Arriaga, Villa de Ramos, Villa de Reyes; todos del Estado de San Luis Potosí.
+Jurisdicción: Comprenderá todo el oriente de la ciudad y límite al sur del Municipio de San Luis Potosí, delimitado por el vértice que conforma la Ranchería del Lobo, de sur a norte, continuando por el Río Españita, cruzando el Periférico sur y continuando por Prolongación Xicoténcatl por la acera oriente hasta la avenida Doctor Salvador Nava Martínez (antes Diagonal Sur) continuando al poniente por la misma avenida, acera norte hasta la calle de Independencia, continuando al norte por la misma calle por la acera lado oriente hasta la calle de Pascual M. Hernández, continuado a la derecha por la calle de Pascual M. Hernández por la acera lado sur de esa misma calle hasta la calle 1 de Mayo acera sur, continuando hasta la calle de Constitución, continuando a la izquierda al norte por la calle Constitución por la acera oriente, prolongándose al norte por el Eje Vial acera oriente hasta la avenida Reforma lado oriente, continuando al norte por la misma avenida hasta la avenida 20 de Noviembre lado oriente, siguiendo al norte por la misma avenida a la altura de la calle Central, se prolonga hasta la calle Arenal lado oriente, cruzando el Boulevard Río de Santiago, prolongándose sobre la vía de ferrocarril a Nuevo Laredo lado oriente hasta el límite norte del Municipio de San Luis Potosí, incluyendo además los Municipios siguientes: Alaquines, Armadillo de los Infante, Cárdenas, Cerritos, Cerro de San Pedro, Ciudad Fernández, Guadalcázar, Lagunillas, Rayón, Rioverde, San Ciro de Acosta, San Nicolás Tolentino, Santa Catarina, Santa María del Río, Soledad de Graciano Sánchez, Tierra Nueva, Villa Hidalgo, Villa Juárez y Zaragoza.
 
-- DELEGACIÓN: Sinaloa.
+Subdelegación y Oficina para Cobros: Poniente.
 
-JURISDICCIÓN: Estado de Sinaloa.
+Jurisdicción: Comprenderá todo el poniente de la ciudad y el límite sur del Municipio de San Luis Potosí, delimitado por el vértice que conforma con la Ranchería El Rincón Verde, de sur a norte, continuando por el Ejido Tierra Blanca, cruzando el Periférico Sur, continuando por las calles de Prolongación Xicoténcatl por la acera poniente hasta la avenida Doctor Salvador Nava Martínez (antes Diagonal Sur), continuando al poniente por la misma avenida sobre la acera sur hasta la calle de Independencia, continuando al norte por la misma calle, acera poniente hasta la calle de Pascual M. Hernández, continuando al oriente por la misma calle por la acera lado norte de esa misma calle hasta la calle 1 de Mayo acera sur, continuando hasta la calle de Constitución, continuando a la izquierda hacia el norte por la calle de Constitución por la acera poniente, prolongándose al norte por el Eje Vial acera poniente hasta la avenida Reforma lado poniente, continuando al norte por la misma avenida hasta la avenida 20 de Noviembre lado poniente, siguiendo al norte por la misma avenida a la altura de la calle Central, se prolonga hacia la calle Arenal lado poniente, cruzando el Boulevard Río Santiago y prolongándose sobre la vía de ferrocarril a Nuevo Laredo lado poniente hasta el límite norte del Municipio de San Luis Potosí, incluyendo además los Municipios siguientes: Ahualulco, Mexquitic de Carmona, Moctezuma, Salinas, Venado, Villa de Arista, Villa de Arriaga, Villa de Ramos y Villa de Reyes.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Culiacán.
+Delegación: Sinaloa.
 
-JURISDICCIÓN: Los Municipios de Badiraguato, Culiacán y Navolato.
+Jurisdicción: Estado de Sinaloa.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Guasave.
+Subdelegación y Oficina para Cobros: Culiacán.
 
-JURISDICCIÓN: Los Municipios de Angostura, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
+Jurisdicción: Los Municipios de Badiraguato, Culiacán y Navolato.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Los Mochis.
+Subdelegación y Oficina para Cobros: Guasave.
 
-JURISDICCIÓN: Los Municipios de Ahome, Choix y El Fuerte.
+Jurisdicción: Los Municipios de Angostura, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Mazatlán.
+Subdelegación y Oficina para Cobros: Los Mochis.
 
-JURISDICCIÓN: Los Municipios de Concordia, Cosalá, Elota, El Rosario, Escuinapa, Mazatlán y San Ignacio.
+Jurisdicción: Los Municipios de Ahome, Choix y El Fuerte.
 
-- DELEGACIÓN: Sonora.
+Subdelegación y Oficina para Cobros: Mazatlán.
 
-JURISDICCIÓN: Estado de Sonora, excepto el Municipio de San Luis Río Colorado.
+Jurisdicción: Los Municipios de Concordia, Cosalá, El Rosario, Elota, Escuinapa, Mazatlán y San Ignacio.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Agua Prieta.
+Delegación: Sonora.
 
-JURISDICCIÓN: Los Municipios de Agua Prieta, Cananea y Naco.
+Jurisdicción: Estado de Sonora, excepto el Municipio de San Luis Río Colorado.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Caborca.
+Subdelegación y Oficina para Cobros: Agua Prieta.
 
-JURISDICCIÓN: Los Municipios de Altar, Caborca, General Plutarco Elías Calles, Pitiquito y Puerto Peñasco.
+Jurisdicción: Los Municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea y Naco.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ciudad Obregón.
+Subdelegación y Oficina para Cobros: Caborca.
 
-JURISDICCIÓN: Los Municipios de Bacúm, Cajeme y Rosario.
+Jurisdicción: Los Municipios de Altar, Atil, Caborca, General Plutarco Elías Calles, Oquitoa, Pitiquito, Puerto Peñasco, Trincheras y Tubutama.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Guaymas.
+Subdelegación y Oficina para Cobros: Ciudad Obregón.
 
-JURISDICCIÓN: Los Municipios de Empalme, Guaymas y San Ignacio Río Muerto.
+Jurisdicción: Los Municipios de Bácum, Benito Juárez, Cajeme, Rosario, San Ignacio Río Muerto y Yécora.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Hermosillo.
+Subdelegación y Oficina para Cobros: Guaymas.
 
-JURISDICCIÓN: Los Municipios de Aconchi, Arivechi, Bacanora, Banámichi, Baviácora, Hermosillo, Huépac, Sahuaripa, San Felipe de Jesús y Ures.
+Jurisdicción: Los Municipios de Empalme y Guaymas.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Nacozari de García.
+Subdelegación y Oficina para Cobros: Hermosillo.
 
-JURISDICCIÓN: Los Municipios de Cumpas, Fronteras, Moctezuma y Nacozari de García.
+Jurisdicción: Los Municipios de Aconchi, Arivechi, Bacanora, Banámichi, Baviácora, Carbó, Hermosillo, Huépac, La Colorada, Mazatán, Onavas, Opodepe, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de La Cueva, Soyopa, Suaqui Grande, Ures y Villa Pesqueira.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Navojoa.
+Subdelegación: Nacozari de García.
 
-JURISDICCIÓN: Los Municipios de Álamos, Etchojoa, Huatabampo, Navojoa y Benito Juárez.
+Oficina para Cobros: Hermosillo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Nogales.
+Jurisdicción: Los Municipios de Bacadehuachi, Cumpas, Divisaderos, Fronteras, Granados, Huachineras, Huasabas, Moctezuma, Nacozari de García, Nacori Chico, Tepache, y Villa Hidalgo.
 
-JURISDICCIÓN: Los Municipios de Benjamín Hill, Magdalena, Nogales y Santa Ana.
+Subdelegación y Oficina para Cobros: Navojoa.
 
-- DELEGACIÓN: Tabasco.
+Jurisdicción: Los Municipios de Álamos, Etchojoa, Huatabampo, Navojoa y Quiriego.
 
-JURISDICCIÓN: Estado de Tabasco.
+Subdelegación y Oficina para Cobros: Nogales.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Cárdenas.
+Jurisdicción: Los Municipios de Benjamín Hill, Cucurpe, Imuris, Magdalena, Nogales, Santa Ana, Santa Cruz y Saric.
 
-JURISDICCIÓN: Los Municipios de Cárdenas, Comalcalco, Cunduacán, Huimanguillo y Paraíso.
+Delegación: Tabasco.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Villa Hermosa.
+Jurisdicción: Estado de Tabasco.
 
-JURISDICCIÓN: Los Municipios de Centro, Balancán, Centla, Emiliano Zapata, Jalapa, Jonuta, Macuspana, Nacajuca, Tacotalpa, Teapa, Tenosique y Jalpa de Méndez.
+Subdelegación y Oficina para Cobros: Cárdenas.
 
-- DELEGACIÓN: Tamaulipas.
+Jurisdicción: Los Municipios de Cárdenas, Comalcalco, Cunduacán, Huimanguillo y Paraíso.
 
-JURISDICCIÓN: Estado de Tamaulipas y los Municipios de Hidalgo del Estado de Coahuila, El Higo, Pánuco, Pueblo Viejo, Tampico Alto y Tempoal del Estado de Veracruz.
+Subdelegación y Oficina para Cobros: Villahermosa.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ciudad Mante.
+Jurisdicción: Los Municipios de Balancán, Centla, Centro, Emiliano Zapata, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Tacotalpa, Teapa y Tenosique.
 
-JURISDICCIÓN: Los Municipios de Aldama, Antiguo Morelos, Gómez Farías, González, El Mante, Nuevo Morelos, Ocampo y Xicoténcatl.
+Delegación: Tamaulipas.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ciudad Victoria.
+Jurisdicción: Estado de Tamaulipas y los Municipios de Hidalgo del Estado de Coahuila, El Higo, Pánuco, Pueblo Viejo, Tampico Alto y Tempoal del Estado de Veracruz.
 
-JURISDICCIÓN: Los Municipios de Abasolo, Güémez, Hidalgo, Jiménez, Llera, Maincro, Padilla, San Carlos, Soto la Marina, Tula, Victoria y Villagrán.
+Subdelegación y Oficina para Cobros: Ciudad Mante.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Matamoros.
+Jurisdicción: Los Municipios de Aldama, Antiguo Morelos, El Mante, Gómez Farías, Villa González, Nuevo Morelos, Ocampo y Xicoténcatl.
 
-JURISDICCIÓN: Los Municipios de Matamoros, San Fernando, y Valle Hermoso.
+Subdelegación y Oficina para Cobros: Ciudad Victoria.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Nuevo Laredo.
+Jurisdicción: Los Municipios de Abasolo, Bustamante, Villa de Casas, Güémez, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Miquihuana, Padilla, Palmillas, San Carlos, San Nicolás, Soto la Marina, Tula, Victoria y Villagrán.
 
-JURISDICCIÓN: El Municipio de Nuevo Laredo del Estado de Tamaulipas y el Municipio de Hidalgo del Estado de Coahuila.
+Subdelegación y Oficina para Cobros: Matamoros.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Reynosa.
+Jurisdicción: Los Municipios de Burgos, Cruillas, Matamoros, Méndez, San Fernando y Valle Hermoso.
 
-JURISDICCIÓN: Los Municipios de Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa y Río Bravo.
+Subdelegación y Oficina para Cobros: Nuevo Laredo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tampico.
+Jurisdicción: El Municipio de Nuevo Laredo del Estado de Tamaulipas y el Municipio de Hidalgo del Estado de Coahuila.
 
-JURISDICCIÓN: Los Municipios de Altamira, Ciudad Madero, Tampico del Estado de Tamaulipas, así como los Municipios de El Higo, Pánuco, Pueblo Viejo, Tampico Alto y Tempoal del Estado de Veracruz.
+Subdelegación y Oficina para Cobros: Reynosa.
 
-- DELEGACIÓN: Tlaxcala.
+Jurisdicción: Los Municipios de Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa y Río Bravo.
 
-JURISDICCIÓN: Estado de Tlaxcala.
+Subdelegación y Oficina para Cobros: Tampico.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Tlaxcala.
+Jurisdicción: Los Municipios de Altamira, Ciudad Madero y Tampico del Estado de Tamaulipas, así como los Municipios de El Higo, Pánuco, Pueblo Viejo, Tampico Alto y Tempoal del Estado de Veracruz.
 
-JURISDICCIÓN: Los Municipios de Acuamanala de Miguel Hidalgo, Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Apizaco, Calpulalpan, Cuaxomulco, Chiautempan, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, Mazatecochco de José María Morelos, Contla de Juan Cuamatzi, Tepetitla de Lardizábal, Sanctórum de Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Nativitas, Panotla, San Pablo del Monte, Santa Cruz Tlaxcala, Tenancingo, Teolocholco, Tepeyanco, El Carmen Tequexquitla, Tetla, Tetlatlahuca, Tlaxcala, Tlaxco, Tocatlán, Totolac, Tzompantepec, Xaloztoc, Xaltocan, Papalotla de Xicoténcatl, Xicotzingo, Yauhquemehcan, Zacatelco, Santa Apolonia Teacalco, Santa Cruz Quilehtla, San Juan Huactzinco, Santa Catarina Ayometla, Santa Isabel Xiloxoxtla, San José Teacalco, San Francisco Tetlanohcan, La Magdalena Tlaltelulco, San Damián Texoloc, San Jerónimo Zacualpan, San Lucas Tecopilco, Santa Ana Nopalucan, San Lorenzo Axocomanitla y Benito Juárez.
+Delegación: Tlaxcala.
 
-- DELEGACIÓN: Veracruz Norte.
+Jurisdicción: Estado de Tlaxcala.
 
-JURISDICCIÓN: Comprende los Municipios de Acatlán, Actopan, Villa Aldama, Alto Lucero, Altotonga, Alvarado, Amatlán-Tuxpan, Ángel R. Cabada, Apazapan, Atzalán, Banderilla, Boca del Río, Castillo de Teayo, Catemaco, Cazones de Herrera, Cerro Azul, Coatepec, Coatzintla, Cosautlán de Carvajal, Cotaxtla, Chicontepec, Chinampa de Gorostiza, Emiliano Zapata, Gutiérrez Zamora, Ignacio de la Llave, Jalacingo, Jalcomulco, Jilotepec, La Antigua, Las Vigas de Ramírez, Lerdo de Tejada, Manlio Fabio Altamirano, Martínez de la Torre, Medellín, Miahuatlán, Misantla, Naolinco, Nautla, Ozuluama, Papantla, Paso de Ovejas, Perote, Platón Sánchez, Poza Rica de Hidalgo, Puente Nacional, Saltabarranca, San Andrés Tuxtla, Santiago Tuxtla, Soledad de Doblado, Tamalín, Tamiahua, Tancoco, Tantima, Tantoyuca, Tecolutla, Temapache, Teocelo, Tinuatlán, Tlalnelhuayocan, Tlapacoyan, Tonayán, Tuxpan, Úrsulo Galván, Vega de Alatorre, Veracruz, Xalapa, Xico, Yecuatlán, Tepetlán y Tlaltetela.
+Subdelegación y Oficina para Cobros: Tlaxcala.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Lerdo de Tejada.
+Jurisdicción: Los Municipios de Acuamanala de Miguel Hidalgo, Altzayanca, Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Apizaco, Atlangatepec, Benito Juárez, Calpulalpan, Contla de Juan Cuamatzi, Cuapiaxtla, Cuaxomulco, Chiautempan, El Carmen Tequexquitla, Emiliano Zapata, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, La Magdalena Tlaltelulco, Lázaro Cárdenas, Mazatecochco de José María Morelos, Muñoz de Domingo Arenas, Nanacamilpa de Mariano Arista, Nativitas, Panotla, Papalotla de Xicohténcatl, San Damián Texoloc, San Francisco Tetlanohcan, San Jerónimo Zacualpan, San José Teacalco, San Juan Huactzinco, San Lorenzo Axocomanitla, San Lucas Tecopilco, San Pablo del Monte, Sanctórum de Lázaro Cárdenas, Santa Ana Nopalucan, Santa Apolonia Teacalco, Santa Catarina Ayometla, Santa Cruz Quilehtla, Santa Cruz Tlaxcala, Santa Isabel Xiloxoxtla, Tenancingo, Teolocholco, Tepetitla de Lardizábal, Tepeyanco, Terrenate, Tetla de la Solidaridad, Tetlatlahuca, Tlaxcala, Tlaxco, Tocatlán, Totolac, Tzompantepec, Xalostoc, Xaltocan, Xicohtzinco, Yauhquemehcan, Zacatelco y Zitlaltepec de Trinidad Sánchez Santos.
 
-JURISDICCIÓN: Los Municipios de Alvarado, Ángel R. Cabada, Catemaco, Lerdo de Tejada, Saltabarranca, San Andrés Tuxtla y Santiago Tuxtla.
+Delegación: Veracruz Norte.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Martínez de la Torre.
+Jurisdicción: Comprende los Municipios de: Acajete, Acatlán, Actopan, Álamo Temapache, Alto Lucero, Altotonga, Alvarado, Ángel R. Cabada, Apazapan, Atzalan, Ayahualulco, Banderilla, Benito Juárez, Boca del Río, Castillo de Teayo, Catemaco, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coacoatzintla, Coahuitlán, Coatepec, Coatzintla, Colipa, Cosautlán de Carvajal, Cotaxtla, Coxquihui, Coyutla, Chalma, Chiconamel, Chiconquiaco, Chicontepec, Chinampa de Gorostiza, Chontla, Chumatlán, Emiliano Zapata, Espinal, Filomeno Mata, Gutiérrez Zamora, Huayacocotla, Ignacio de La Llave, Ilamatlán, Ixcatepec, Ixhuacán de los Reyes, Ixhuatlán de Madero, Jalacingo, Jalcomulco, Jamapa, Jilotepec, Juchique de Ferrer, La Antigua, Landero y Coss, Las Minas, Las Vigas de Ramírez, Lerdo de Tejada, Manlio Fabio Altamirano, Martínez de la Torre, Mecatlán, Medellín, Miahuatlán, Misantla, Naolinco, Naranjos Amatlán, Nautla, Ozuluama, Papantla, Paso de Ovejas, Perote, Platón Sánchez, Poza Rica de Hidalgo, Puente Nacional, Rafael Lucio, Saltabarranca, San Andrés Tuxtla, Santiago Tuxtla, Soledad de Doblado, Tamalín, Tamiahua, Tancoco, Tantima, Tantoyuca, Tatatila, Tecolutla, Tenochtitlán, Teocelo, Tepetlán, Tepetzintla, Texcatepec, Tihuatlán, Tlacolulan, Tlachichilco, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Tuxpan, Úrsulo Galván, Vega de Alatorre, Veracruz, Villa Aldama, Xalapa, Xico, Yecuatla, Zacualpan, Zontecomatlán de López y Fuentes y Zozocolco de Hidalgo.
 
-JURISDICCIÓN: Los Municipios de Altotonga, Atzalan, Gutiérrez Zamora, Jalacingo, Martínez de la Torre, Misantla, Nautla, Tecolutla, Tlapacoyan, Vega de Alatorre y Yecuatlán.
+Subdelegación y Oficina para Cobros: Lerdo de Tejada.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Poza Rica de Hidalgo.
+Jurisdicción: Los Municipios de Alvarado, Ángel R. Cabada, Catemaco, Lerdo de Tejada, Saltabarranca, San Andrés Tuxtla y Santiago Tuxtla.
 
-JURISDICCIÓN: Los Municipios de Amatlán, Tuxpan, Castillo de Teayo, Cazones de Herrera, Cerro Azul, Coatzintla, Chicontepec, Chinampa de Gorostiza, Ozuluama, Papantla, Platón Sánchez, Poza Rica de Hidalgo, Tamalín, Tamiahua, Tancoco, Tantima, Tantoyuca, Temapache, Tihuatlán y Tuxpan.
+Subdelegación y Oficina para Cobros: Martínez de la Torre.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Veracruz.
+Jurisdicción: Los Municipios de Altotonga, Atzalan, Colipa, Gutiérrez Zamora, Jalacingo, Juchique de Ferrer, Martínez de la Torre, Misantla, Nautla, Tecolutla, Tenochtitlán, Tlapacoyan, Vega de Alatorre y Yecuatla.
 
-JURISDICCIÓN: Los Municipios de Boca del Río, Cotaxtla, Ignacio de la Llave, Manlio Fabio Altamirano, Medellín, Paso de Ovejas, Soledad de Doblado y Veracruz.
+Subdelegación y Oficina para Cobros: Poza Rica de Hidalgo.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Xalapa.
+Jurisdicción: Los Municipios de Álamo Temapache, Benito Juárez, Castillo de Teayo, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coahuitlán, Coatzintla, Coxquihui, Coyutla, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, Chumatlán, Espinal, Filomeno Mata, Huayacocotla, Ilamatlán, Ixcatepec, Ixhuatlán de Madero, Mecatlán, Naranjos Amatlán, Ozuluama, Papantla, Platón Sánchez, Poza Rica de Hidalgo, Tamalín, Tamiahua, Tancoco, Tantima, Tantoyuca, Tepetzintla, Texcatepec, Tihuatlán, Tlachichilco, Tuxpan, Zacualpan, Zontecomatlán de López y Fuentes y Zozocolco de Hidalgo.
 
-JURISDICCIÓN: Los Municipios de Acatlán, Actopan, Villa Aldama, Alto Lucero, Apazapan, Banderilla, Coatepec, Cosautlán de Carvajal, Emiliano Zapata, Jalcomulco, Jilotepec, La Antigua, Las Vigas de Ramírez, Miahuatlán, Naolinco, Perote, Puente Nacional, Teocelo, Tlalnelhuayocan, Tonayán, Úrsulo Galván, Xalapa y Xico.
+Subdelegación y Oficina para Cobros: Veracruz.
 
-- DELEGACIÓN: Veracruz Sur.
+Jurisdicción: Los Municipios de Boca del Río, Cotaxtla, Ignacio de la Llave, Jamapa, Manlio Fabio Altamirano, Medellín, Paso de Ovejas, Soledad de Doblado y Veracruz.
 
-JURISDICCIÓN: Comprende los Municipios de Acayucan, Acula, Acultzingo, Camarón de Tejeda, Agua Dulce, Amatitlán, Amatlán de los Reyes, Atoyac, Atzacan, Camerino Z. Mendoza, Carrillo Puerto, Coatzacoalcos, Coetzala, Córdoba, Cosamaloapan, Coscomatepec, Cosoleacaque, Cuichapa, Cuitláhuac, Chacaltianguis, Chinameca, Chocamán, Fortín, Huatusco, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Isla, Ixhuatlán del Café, Ixhuatlancillo, Ixhuatlán del Sureste, Ixmatlahuacan, Ixtaczoquitlán, Jaltipan, Jesús Carranza, José Azueta, Juan Rodríguez Clara, La Perla, Las Choapas, Mariano Escobedo, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Naranjal, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Paso del Macho, Playa Vicente, Rafael Delgado, Río Blanco, San Juan Evangelista, Sayula de Alemán, Soconusco, Tepatlaxco, Texistepec, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tlilapan, Tomatlán, Totutla, Tres Valles, Tuxtilla, Yanga, Zentla, Zongolica, y los Municipios de Acatlán de Pérez Figueroa, Cosolapa, y Nuevo Soyaltepec del Estado de Oaxaca.
+Subdelegación y Oficina para Cobros: Xalapa.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Coatzacoalcos.
+Jurisdicción: Los Municipios de Acajete, Acatlán, Actopan, Alto Lucero, Apazapan, Ayahualulco, Banderilla, Coacoatzintla, Coatepec, Cosautlán de Carvajal, Chiconquiaco, Emiliano Zapata, Ixhuacán de los Reyes, Jalcomulco, Jilotepec, La Antigua, Landero y Coss, Las Minas, Las Vigas de Ramírez, Miahuatlán, Naolinco, Perote, Puente Nacional, Rafael Lucio, Tatatila, Teocelo, Tepetlán, Tlacolulan, Tlalnelhuayocan, Tlaltetela, Tonayán, Úrsulo Galván, Villa Aldama, Xalapa y Xico.
 
-JURISDICCIÓN: Los Municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hueyapan de Ocampo, Ixhuatlán del Sureste, Jaltipan de Morelos, Jesús Carranza, Las Choapas, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco y Texistepec.
+Delegación: Veracruz Sur.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Córdoba.
+Jurisdicción: Comprende los Municipios de: Acayucan, Acula, Acultzingo, Agua Dulce, Alpatláhuac, Amatitlán, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Coatzacoalcos, Coetzala, Comapa, Córdoba, Cosamaloapan de Carpio, Coscomatepec, Cosoleacaque, Cuichapa, Cuitláhuac, Chacaltianguis, Chinameca, Chocamán, Fortín, Hidalgotitlán, Huatusco, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Isla, Ixhuatlán del Café, Ixhuatlán del Sureste, Ixhuatlancillo, Ixmatlahuacan, Ixtaczoquitlán, Jáltipan, Jesús Carranza, José Azueta, Juan Rodríguez Clara, La Perla, Las Choapas, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mecayapan, Minatitlán, Mixtla de Altamirano, Moloacán, Nanchital de Lázaro Cárdenas del Río, Naranjal, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Oteapan, Pajapan, Paso del Macho, Playa Vicente, Rafael Delgado, Río Blanco, San Andrés Tenejapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Sochiapa, Soledad Atzompa, Soteapan, Tatahuicapan de Juárez, Tehuipango, Tenampa, Tepatlaxco, Tequila, Texhuacán, Texistepec, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlacotepec de Mejía, Tlalixcoyan, Tlaquilpan, Tlilapan, Tomatlán, Totutla, Tres Valles, Tuxtilla, Uxpanapa, Xoxocotla, Yanga, Zaragoza, Zentla, Zongolica y los Municipios de Acatlán de Pérez Figueroa, Cosolapa y Nuevo Soyaltepec del Estado de Oaxaca.
 
-JURISDICCIÓN: Los Municipios de Camarón de Tejeda, Amatlán de los Reyes, Atoyac, Carrillo Puerto, Coetzala, Córdoba, Coscomatepec, Cuichapa, Cuitláhuac, Chocamán, Fortín, Huatusco, Ixhuatlán del Café, Naranjal, Omealca, Paso del Macho, Tepatlaxco, Tezonapa, Tierra Blanca, Tomatlán, Totutla, Yanga, Zentla, y los Municipios de Acatlán de Pérez Figueroa, Cosolapa, y Nuevo Soyaltepec del Estado de Oaxaca.
+Subdelegación y Oficina para Cobros: Coatzacoalcos.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Cosamaloapan.
+Jurisdicción: Los Municipios de Agua Dulce, Coatzacoalcos, Cosoleacaque, Hidalgotitlán, Hueyapan de Ocampo, Ixhuatlán del Sureste, Jesús Carranza, Las Choapas, Mecayapan, Nanchital de Lázaro Cárdenas del Río, Oteapan, Pajapan, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Uxpanapa y Zaragoza.
 
-JURISDICCIÓN: Los Municipios de Acula, Amatitlán, Carlos A. Carrillo, Cosamaloapan, Chacaltianguis, Isla, Ixmatlahuacan, José Azueta, Juan Rodríguez Clara, Otatitlán, Playa Vicente, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles y Tuxtilla.
+Subdelegación: Coatzacoalcos.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Orizaba.
+Oficina para Cobros: Minatitlán.
 
-JURISDICCIÓN: Los Municipios de Acultzingo, Atzacan, Calcahualco, Camerino Z. Mendoza, Huiluapan, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Mariano Escobedo, Nogales, Orizaba, Rafael Delgado, Río Blanco, Tlilapan y Zongolica.
+Jurisdicción: Los Municipios de Acayucan, Chinameca, Jáltipan, Minatitlán, Moloacán, Oluta, San Juan Evangelista y Texistepec.
 
-- DELEGACIÓN: Yucatán.
+Subdelegación y Oficina para Cobros: Córdoba.
 
-JURISDICCIÓN: Estado de Yucatán.
+Jurisdicción: Los Municipios de Alpatláhuac, Amatlán de Los Reyes, Atoyac, Camarón de Tejeda, Carrillo Puerto, Coetzala, Comapa, Córdoba, Coscomatepec, Cuichapa, Cuitláhuac, Chocamán, Fortín, Huatusco, Ixhuatlán del Café, Naranjal, Omealca, Paso del Macho, Sochiapa, Tenampa, Tepatlaxco, Tezonapa, Tierra Blanca, Tlacotepec de Mejía, Tomatlán, Totutla, Yanga, Zentla y los municipios de Acatlán de Pérez Figueroa, Cosolapa y San Miguel Soyaltepec del Estado de Oaxaca.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Mérida Norte.
+Subdelegación y Oficina para Cobros: Cosamaloapan.
 
-JURISDICCIÓN: Comprenderá a partir de la Calle 61 poniente de la Ciudad de Mérida hacia el norte, cortando con los límites de Caucel y Ucú, siguiendo hacia el norte incluyendo los poblados de Cheuman, Noc-Ac, Cosgaya, Sutuychen, Sierra Papacal, doblando hacia el oriente con las poblaciones Dzidzilche, Xcunya hasta Sacnicte, al sur abarcando Chablekal, Cholul, Sitpach, hasta la Calle 59 oriente de la Ciudad de Mérida, siguiendo hacia el poniente hasta la Calle 4 Circuito Colonias, hacia el sur hasta la Calle 61, hacia el poniente hasta la Calle 84, atravesando las calles de la 4 hasta la 84, doblando hacia el norte hasta la Calle 59, hacia el poniente hasta la Calle 86, hacia el sur hasta la Calle 61, dando vuelta al poniente hasta el límite del poblado de Caucel con el Municipio de Ucú.
+Jurisdicción: Los Municipios de Acula, Amatitlán, Carlos A. Carrillo, Cosamaloapan de Carpio, Chacaltianguis, Isla, Ixmatlahuacan, José Azueta, Juan Rodríguez Clara, Otatitlán, Playa Vicente, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles y Tuxtilla.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Mérida Sur.
+Subdelegación y Oficina para Cobros: Orizaba.
 
-JURISDICCIÓN: Comprenderá: a partir de los límites del poblado de Caucel, Municipio de Mérida, y el Municipio de Ucú hacia el oriente sobre la Calle 61, de la Ciudad de Mérida, abarcando las dos aceras tanto norte como sur hasta la Calle 86, hacia el norte sobre la acera sur de la Calle 59, hacia el oriente hasta la Calle 84, hacia el sur, hasta la Calle 61, hacia el oriente abarcando las dos aceras norte y sur, hasta la Calle 4 Circuito Colonias, hacia el norte, hasta la Calle 59, hacia el oriente sobre la acera sur hasta los límites del Municipio de Mérida, incluyendo además los Municipios siguientes: Abalá, Acanceh, Akil, Baca, Bokobá, Buctzotz, Cacalchén, Calotmul, Cansahcab, Conkal, Cuncunul, Cuzamá, Chacsinkín, Chapab, Chemax, Chicxulub, Chichimilá, Chocholá, Chumayel, Dzan, Dzemul, Dzidzantún, Dzilam de Bravo, Dzilam González, Dzoncauich, Espita, Halachó, Hocabá, Hoctún, Homún, Huhí, Hunucmá, Ixil, Izamal, Kanasín, Kantunil, Kaúa, Kinchil, Kopomá, Mama, Maní, Maxcanú, Mocochá, Motul, Muna, Muxupip, Opichén, Oxkutzcab, Panabá, Peto, Progreso, Río Lagartos, Sacalum, Samahil, Sanahcat, San Felipe, Santa Elena, Seyé, Sinanché, Sotuta, Sucilá, Sudzal, Suma, Tahdziú, Tahmek, Teabo, Tecoh, Tekal de Venegas, Tekantó, Tekax, Tekit, Tekom, Telchac Pueblo, Telchac Puerto, Temax, Temozón, Tepakán, Tetiz, Teya, Ticul, Timucuy, Tinum, Tixcacalcupul, Tixkokob, Tizimín, Tixméhuac, Tixpéhual, Tunkás, Tzucacab, Uayma, Ucú, Umán, Valladolid, Xocchel, Yaxkukul y Yobain.
+Jurisdicción: Los Municipios de Acultzingo, Aquila, Astacinga, Atlahuilco, Atzacan, Calcahualco, Camerino Z. Mendoza, Huiloapan de Cuauhtémoc, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Nogales, Orizaba, Rafael Delgado, Río Blanco, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhuacán, Tlaquilpan, Tlilapan, Xoxocotla y Zongolica.
 
-- DELEGACIÓN: Zacatecas.
+Delegación: Yucatán.
 
-JURISDICCIÓN: Estado de Zacatecas.
+Jurisdicción: Estado de Yucatán.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Fresnillo.
+Subdelegación y Oficina para Cobros: Mérida Norte.
 
-JURISDICCIÓN: Los Municipios de Calera, Cañita de Felipe Pescador, Chalchihuites, Enrique Estrada, Fresnillo, Juan Aldama, Miguel Auza, Río Grande, Sain Alto, Sombrerete, Valparaíso y Villa de Cos.
+Jurisdicción: Comprenderá a partir de la Calle 61 poniente de la Ciudad de Mérida hacia el norte, cortando con los límites de Caucel y Ucú, siguiendo hacia el norte incluyendo los poblados de Cheuman, Noc-Ac, Cosgaya, Sutuychén, Sierra Papacal, doblando hacia el oriente con las poblaciones de Dzidzilche, Xcunya hasta Sacnicte, al sur abarcando Chablekal, Cholul, Sitpach, hasta la Calle 59 oriente de la Ciudad de Mérida, siguiendo hacia el poniente hasta la Calle 4 Circuito Colonias, hacia el sur hasta la Calle 61, hacia el poniente hasta la Calle 84, atravesando las calles de la 4 hasta la 84, doblando hacia el norte hasta la Calle 59, hacia el poniente hasta la Calle 86, hacia el sur hasta la Calle 61, dando vuelta al poniente hasta el límite del poblado de Caucel con el Municipio de Ucú.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: Ciudad de Zacatecas.
+Subdelegación y Oficina para Cobros: Mérida Sur.
 
-JURISDICCIÓN: Los Municipios de Apozol, Apulco, Atolinga, Benito Juárez, Concepción del Oro, Cuauhtémoc, General Pánfilo Natera, Guadalupe, Huanusco, Jalpa, Jerez, Juchipila, Loreto, Luis Moya, Mazapil, Melchor Ocampo, Momax, Monte Escobedo, Morelos, Moyahua de Estrada, Nochistlán de Mejía, Noria de Ángeles, Ojocaliente, Pánuco, Pinos, Susticacán, Tabasco, Tepechitlán, Tepetongo, Teúl de González Ortega, Tlaltenango de Sánchez Román, Vetagrande, Villa García, Villa González Ortega, Villa Hidalgo, Villanueva y Zacatecas.
+Jurisdicción: Comprenderá a partir de los límites del poblado de Caucel, Municipio de Mérida, y el Municipio de Ucú hacia el oriente sobre la Calle 61, de la Ciudad de Mérida, abarcando las dos aceras tanto norte como sur hasta la Calle 86, hacia el norte sobre la acera sur de la Calle 59, hacia el oriente hasta la Calle 84, hacia el sur, hasta la Calle 61, hacia el oriente abarcando las dos aceras norte y sur, hasta la Calle 4 Circuito Colonias, hacia el norte, hasta la Calle 59, hacia el oriente sobre la acera sur hasta los límites del Municipio de Mérida, incluyendo además los Municipios siguientes: Abalá, Acanceh, Akil, Baca, Bokobá, Buctzotz, Cacalchén, Calotmul, Cansahcab, Cantamayec, Celestún, Cenotillo, Conkal, Cuncunul, Cuzamá, Chacsinkín, Chankom, Chapab, Chemax, Chicxulub Pueblo, Chichimilá, Chikindzonot, Chocholá, Chumayel, Dzan, Dzemul, Dzidzantún, Dzilam de Bravo, Dzilam González, Dzitás, Dzoncauich, Espita, Halachó, Hocabá, Hoctún, Homún, Huhí, Hunucmá, Ixil, Izamal, Kanasín, Kantunil, Kaua, Kinchil, Kopomá, Mama, Maní, Maxcanú, Mayapán, Mocochá, Motul, Muna, Muxupip, Opichén, Oxkutzcab, Panabá, Peto, Progreso, Quintana Roo, Río Lagartos, Sacalum, Samahil, San Felipe, Sanahcat, Santa Elena, Seyé, Sinanché, Sotuta, Sucilá, Sudzal, Suma, Tahdziú, Tahmek, Teabo, Tecoh, Tekal de Venegas, Tekantó, Tekax, Tekit, Tekom, Telchac Pueblo, Telchac Puerto, Temax, Temozón, Tepakán, Tetiz, Teya, Ticul, Timucuy, Tinum, Tixcacalcupul, Tixkokob, Tixméhuac, Tixpéhual, Tizimín, Tunkás, Tzucacab, Uayma, Ucú, Umán, Valladolid, Xocchel, Yaxcabá, Yaxkukul y Yobaín.
 
-- DELEGACIÓN: 1 Noroeste del Distrito Federal.
+Delegación: Zacatecas.
 
-JURISDICCIÓN: Tomando como punto de partida el vértice formado por la avenida Insurgentes Norte y la autopista México-Pachuca, en los límites de la Delegación política Gustavo A. Madero con el Municipio de Tlalnepantla del Estado de México, siguiendo hacia el sur en forma descendente por la acera poniente de la avenida Insurgentes Norte hasta la Calzada Vallejo, dando vuelta a la derecha y continuando por esta Calzada en su acera noroeste hasta la calle de Clave, dando vuelta a la izquierda y continuando por la avenida Ferrocarril Industrial en su acera norte hasta llegar a la calle Tlaxcaltecas, dando vuelta a la izquierda continuando por esta calle en su acera poniente hasta la calle de Zaachila, dando vuelta a la izquierda en esta calle hasta la calle Seris, dando vuelta a la derecha y continuando por la acera poniente de esta calle hasta la avenida Jacarandas dando vuelta a la izquierda y continuando por esta avenida en dirección oriente hasta entroncar nuevamente con avenida Insurgentes Norte, prosiguiendo por esta avenida en dirección sureste, continuando en el mismo sentido y en la misma acera por la avenida Insurgentes centro hasta la calle Valentín Gómez Farías, dando vuelta a la izquierda por la acera sur de esta calle en dirección oriente, hasta la calle Ignacio Ramírez, dando vuelta a la derecha y siguiendo por la acera poniente de esta calle, en forma descendente, hasta avenida Paseo de la Reforma, dando vuelta a la derecha por la acera noroeste de esta avenida, hasta entroncar nuevamente con avenida Insurgentes Centro, dando vuelta a la izquierda y continuando por esta avenida en forma descendente, por la acera poniente de ésta hasta la avenida Chapultepec, dando vuelta a la derecha por la acera norte de esta avenida en dirección poniente, hasta entroncar con la avenida General Pedro Antonio de los Santos, prosiguiendo por la acera poniente de esta avenida hasta la avenida de Constituyentes, continuando en dirección poniente por la acera noroeste de esta avenida, hasta entroncar con la carretera México-Toluca, dando vuelta a la derecha por la acera noroeste de la carretera en dirección suroeste hasta el límite de la Delegación Política Cuajimalpa con el Municipio Ocoyoacac del Estado de México; continuando a la derecha en Dirección noreste por los límites con dicha entidad, señalados por las Mojoneras: Pirámide, Punto las Cruces, Minas Viejas, Tepalcatitla, Tetela, San Jacinto, Monamiquiatl, Punto Cerro de los Padres, Punto Santiaguito, Punto Hueyatla y Manzanastitla, hasta llegar a los límites de la Delegación Política de Cuajimalpa con los de la Delegación Política Miguel Hidalgo y los del Estado de México, dando vuelta a la derecha y continuando por los mismos límites del Estado de México hasta encontrar la avenida Fuente del Pescador, continuando en forma ascendente sobre esta misma calle, hasta llegar a calle de Fuente de Virgilio, prosiguiendo sobre esta misma calle y en el mismo sentido hasta entroncar con Paseo de los Ahuehuetes, continuando sobre los límites de la Delegación Política Miguel Hidalgo y el Estado de México hasta calle Cofre de Perote, continuando en forma ascendente sobre los mismos límites cruzando la parte suroeste del Hipódromo de las Américas, continuando en forma ascendente sobre el Boulevard Río Lerma, prosiguiendo en forma ascendente en los límites de la Delegación Política Miguel Hidalgo y el Estado de México, continuando por el lado norte del Campo Militar Número 1 hasta entroncar con calle Río Frío, dando vuelta a la izquierda en línea ascendente sobre los límites del lado oriente del Panteón Sanctórum hasta entroncar con avenida Ingenieros Militares, prosiguiendo en línea ascendente sobre la acera oriente de esta avenida, hasta la Calzada San Bartolo Naucalpan, dando vuelta a la izquierda sobre la acera norte de esta Calzada hasta llegar a Calzada Ahuizotla, donde se da vuelta a la derecha sobre la acera oriente de esta Calzada, hasta entroncar con Calle de Nextengo, continuando hasta la avenida Gobernador Sánchez Colín, prosiguiendo sobre esta avenida en línea ascendente en los límites de las delegaciones Políticas Miguel Hidalgo y Azcapotzalco hasta Calzada de la Naranja, dando vuelta hacia la izquierda sobre acera norte de esta Calzada hasta encontrar Calzada de las Armas, continuando hacia el norte sobre acera oriente de esta Calzada, hasta calle Parque Vía, continuando en línea curva ascendente hasta sobrepasar una cuadra arriba de la calle Aldebaran, prosiguiendo en línea recta coincidiendo con los límites de la Delegación Política de Azcapotzalco y el Estado de México, hasta llegar a la avenida de las Culturas, continuando en línea recta hasta encontrar la avenida Benito Juárez, prosiguiendo hasta llegar a la avenida Maravillas, ascendiendo en línea inclinada hasta llegar a la calle poniente 152, dando vuelta a la derecha por esta misma y sobre la acera sur hasta Calzada Vallejo, dando vuelta hacia la izquierda en línea ascendente por la acera oriente de esta Calzada hasta la calle Monte Alto, dando vuelta a la izquierda en línea ascendente por la acera norte de la avenida Industrial, hasta avenida Camino San Juan Iztacala, dando vuelta a la izquierda por la misma avenida, hasta encontrar calle Industria Editorial, dando vuelta a la derecha hasta llegar a Clavijero, donde se da vuelta a la derecha continuando en línea imaginaria sobre los límites de la Delegación Política Gustavo A. Madero y el Municipio de Tlalnepantla del Estado de México, hasta encontrar avenida Tlalnepantla-Tenayuca, sobre la cual se da vuelta hacia la derecha hasta entroncar con avenida Acueducto Tenayuca, continuando por esta avenida hasta llegar a avenida Ventisca, dando vuelta en línea ascendente a la izquierda sobre Felipe Ángeles en acera oriente, hasta enlazar con Calzada Cuautepec y hasta encontrar la calle Miguel Hidalgo, dando vuelta hacia la izquierda en línea imaginaria siguiendo los límites de la Delegación Política Gustavo A. Madero con el Estado de México, hasta encontrar calle Ejido, dando vuelta a la derecha en línea ascendente sobre la acera oriente de esta misma calle, hasta llegar a Puerto Caribe, continuando en línea ascendente sobre la parte norte el límite de la Delegación Política Gustavo A. Madero con el Estado de México, circundando dicha Delegación Política, hasta llegar a la calle Cerro Santa Isabel, donde se da vuelta hacia la izquierda sobre la acera sur de esta misma, hasta entroncar con calle Cerro Zacatenco, continuando en el mismo sentido hasta coincidir con el entronque formado por la autopista México-Pachuca e Insurgentes Norte, que es el punto de partida y donde se cierra el perímetro de esta Delegación.
+Jurisdicción: Estado de Zacatecas.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 1 Magdalena de Las Salinas.
+Subdelegación y Oficina para Cobros: Ciudad de Zacatecas.
 
-JURISDICCIÓN: Tomando como punto de partida el vértice formado por la autopista México-Pachuca e Insurgentes Norte en los límites de la Delegación Política Gustavo A. Madero con el Municipio de Tlalnepantla del Estado de México, continuando hacia el sur por la acera poniente de esta última avenida hasta llegar a Calzada Vallejo dando vuelta a la derecha, continuando por la acera oriente de esta Calzada hasta llegar a la calle de Clave, dando vuelta a la izquierda prosiguiendo por la avenida Ferrocarril Industrial en su acera norte hasta llegar a la calle Tlaxcaltecas dando vuelta a la izquierda continuando por esta calle en su acera poniente hasta la calle de Zaachila dando vuelta a la izquierda por esta calle y prosiguiendo por la misma en su acera sur hasta la calle de Seris dando vuelta a la derecha, continuando por esta calle, en su acera poniente en dirección sur hasta llegar a Paseo de las Jacarandas, dando vuelta a la derecha sobre la acera norte de esta avenida, continuando por esta misma y por la misma acera que cambia de nombre a Río Consulado, hasta llegar a la Calzada de los Gallos, dando vuelta a la derecha por la acera norte de esta avenida, hasta entroncar con avenida Ferrocarriles Nacionales, atravesando avenida Cuitláhuac hasta entroncar con calle de José Sánchez Trujillo, dando vuelta a la derecha por la acera norte de esta calle en dirección noroeste hasta Juárez, continuando por esta misma y entroncando con Primavera hasta la Refinería “18 de Marzo”, continuando en dirección poniente atravesando en línea imaginaria dicha Refinería por Ferrocarril a Toluca siguiendo a la derecha en Manuel Díaz de Bonilla hasta la avenida Santa Lucía entroncando con la Calzada de la Naranja, continuando sobre la acera norte de esta misma en dirección poniente hasta encontrar la Calzada de las Armas, continuando hacia el norte en línea curva ascendente sobre la acera oriente de esta Calzada hasta llegar a la avenida Aquiles Serdán, sobrepasando una cuadra arriba de la calle Aldebaran, dando vuelta a la derecha y continuando en dirección oriente, coincidiendo con los límites de la Delegación Política Azcapotzalco y el Estado de México, hasta encontrar avenida de la Culturas, prosiguiendo en línea recta hasta la continuación Benito Juárez, prosiguiendo por tramo de poniente 152 en dirección oriente hasta llegar a Maravillas, ascendiendo en dirección noreste hasta encontrar la avenida poniente 152, dando vuelta a la derecha por esta calle sobre la acera sur, hasta llegar a Calzada Vallejo, dando vuelta a la izquierda en forma ascendente por acera oriente hasta calle Monte Alto, dando vuelta a la izquierda en línea ascendente por la acera norte de avenida Industrial dirección noroeste, siguiendo la continuación con avenida 9-A o Josefa Ortiz de Domínguez hasta entroncar con avenida Camino San Juan Iztacala, dando vuelta a la izquierda por la misma avenida en línea ascendente hasta encontrar la calle de Industria Editorial, dando vuelta a la derecha hasta llegar a Clavijero, donde se da vuelta a la derecha continuando en línea imaginaria sobre los límites de la Delegación Política Gustavo A. Madero con el Estado de México, hasta encontrar la avenida Tlalnepantla Tenayuca sobre la cual se da vuelta hacia la derecha hasta encontrar la avenida Acueducto Tenayuca hasta llegar a avenida Ventisca, dando vuelta en línea ascendente a la izquierda sobre la calle de Felipe Ángeles por la acera oriente prosiguiendo en forma ascendente, continuando por la Calzada Cuautepec, prolongándose hasta llegar a Miguel Hidalgo, dando vuelta a la izquierda en línea imaginaria, siguiendo los límites de la Delegación Política Gustavo A. Madero, hasta encontrar la calle de Ejido, dando vuelta a la derecha en línea ascendente sobre acera oriente de esta calle hasta llegar a Puerto Caribe, continuando en línea ascendente sobre la parte norte del límite de la Delegación Política Gustavo A. Madero con el Estado de México, circundando los límites de dicha Delegación Política con el Estado de México hasta llegar a la calle Cerro Santa Isabel, dando vuelta hacia la izquierda sobre la acera sur de esta calle hasta entroncar con calle Cerro Zacatenco, continuando en el mismo sentido hasta el vértice formado por la Autopista México-Pachuca e Insurgentes Norte, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+Jurisdicción: Los Municipios de Apozol, Apulco, Atolinga, Benito Juárez, Concepción del Oro, Cuauhtémoc, El Plateado de Joaquín Amaro, El Salvador, Genaro Codina, General Francisco R. Murguía, General Pánfilo Natera, Guadalupe, Huanusco, Jalpa, Jerez, Juchipila, Loreto, Luis Moya, Mazapil, Melchor Ocampo, Mezquital del Oro, Momax, Monte Escobedo, Morelos, Moyahua de Estrada, Nochistlán de Mejía, Noria de Ángeles, Ojocaliente, Pánuco, Pinos, Susticacán, Tabasco, Tepechitlán, Tepetongo, Teúl de González Ortega, Tlaltenango de Sánchez Román, Trancoso, Trinidad García de la Cadena, Vetagrande, Villa García, Villa González Ortega, Villa Hidalgo, Villanueva y Zacatecas.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 2 Santa María La Ribera.
+Subdelegación y Oficina para Cobros: Fresnillo.
 
-JURISDICCIÓN: Tomando como punto de partida el vértice formado por avenida Ejército Nacional y Ferrocarril de Cuernavaca, continuando por la acera oriente de esta última avenida hasta entroncar con Presa Falcón, continuando por acera oriente de esta calle hasta llegar a avenida Casa de la Moneda, prosiguiendo por acera noreste de esta calle en línea ascendente hasta llegar a la avenida Ingenieros Militares, continuando en línea ascendente sobre acera oriente de esta avenida hasta encontrar la Calzada San Bartolo Naucalpan, dando vuelta a la izquierda sobre acera noreste de esta Calzada, hasta llegar a la Calzada Santiago Ahuizotla, siguiendo por la acera oriente de esta Calzada, continuando en dirección noreste por la Calzada San Lorenzo Tlaltenango hasta entroncar con la acera oriente de Manuel Díaz de Bonilla continuando a la derecha por Ferrocarril a Toluca en dirección oriente atravesando en línea imaginaria la Refinería “18 de Marzo” por la parte sur hasta encontrar calle Primavera, continuando por acera sur de esta calle hasta entroncar con calle Juárez, prosiguiendo sobre la acera sur de esta calle hasta llegar a calle José Sánchez Trujillo hasta entroncar con avenida Ferrocarriles Nacionales sobre su acera sur, hasta llegar a la Calzada de los Gallos, prosiguiendo sobre acera sur de esta Calzada en dirección oriente hasta llegar a Río Consulado, dando vuelta a la izquierda sobre la acera oriente de esta avenida hasta entroncar con la avenida de las Jacarandas (Antes Río Consulado), continuando sobre acera sur de esta avenida hasta llegar a avenida Insurgentes Norte, dando vuelta a la derecha sobre la acera poniente de esta avenida, continuando por la misma acera de Insurgentes Centro hasta llegar a la calle Valentín Gómez Farías, dando vuelta hacia la izquierda sobre acera sur de esta calle hasta llegar a la calle de Ignacio Ramírez, dando vuelta hacia la derecha sobre la acera poniente de esta calle hasta llegar a la avenida Paseo de la Reforma, dando vuelta a la derecha por la acera noroeste de esta avenida hasta llegar a la calle de Plaza de los Ferrocarriles, dando vuelta a la derecha por esta calle y continuando por acera norte de la calle de Sullivan que cambia de nombre a Parque Vía hasta llegar a la avenida Melchor Ocampo, donde se da vuelta a la izquierda sobre la acera poniente hasta la calle de Gutenberg en su acera norte hasta llegar a la avenida Ejército Nacional sobre su acera norte (números nones), prosiguiendo en forma ascendente en dirección noroeste hasta llegar a la avenida Ferrocarril de Cuernavaca, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+Jurisdicción: Los Municipios de Calera, Cañitas de Felipe Pescador, Chalchihuites, Fresnillo, General Enrique Estrada, Jiménez del Teúl, Juan Aldama, Miguel Auza, Río Grande, Sain Alto, Sombrerete, Valparaíso y Villa de Cos.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 3 Polanco.
+Delegación: 1 Noroeste del Distrito Federal.
 
-JURISDICCIÓN: Tomando como punto de partida el vértice formado por la avenida Casa de la Moneda y Presa Falcón, continuando por la acera poniente de esa última calle en forma descendente hasta la avenida Ejército Nacional, dando vuelta a la izquierda sobre la acera sur de esta avenida en dirección oriente hasta la calle de Gutenberg donde se da vuelta a la izquierda en forma ascendente hacia el noreste cruzando esta calle hasta entroncar con la avenida Melchor Ocampo continuando por la acera poniente de esta avenida hacia el norte hasta el entronque de avenida Marina Nacional y avenida Parque Vía dando vuelta a la derecha en esta última y continuando por la acera sur de la misma en dirección oriente, prosiguiendo por James Sullivan hasta Insurgentes Centro, dando vuelta a la derecha por la acera poniente de esta avenida, siguiendo en forma descendente, atravesando Paseo de la Reforma, continuando por la acera poniente de Insurgentes Sur hasta avenida Chapultepec, dando vuelta a la derecha por la acera norte de esta avenida en dirección suroeste, hasta entroncar con la avenida General Pedro Antonio de los Santos prosiguiendo por la acera poniente de esta avenida hasta la de Constituyentes, continuando en dirección suroeste por la acera noroeste de esta avenida, hasta entroncar con la Carretera México-Toluca, dando vuelta a la izquierda por la acera noroeste de la Carretera en dirección suroeste, hasta el límite de la Delegación Política Cuajimalpa con el Municipio Ocoyoacac del Estado de México, continuando a la derecha en dirección noreste por los límites con dicho estado, señalados por las Mojoneras: Pirámide, Punto de las Cruces, Minas Viejas, Tepalcatitla, Tetela, San Jacinto, Monamiquiatl, Punto Cerro de los Padres, Punto Santiaguito; punto Hueyatla y Manzanastitla, hasta llegar a los límites de la Delegación Política de Cuajimalpa con los de la Delegación Miguel Hidalgo y el Estado de México, hasta encontrar la avenida Fuente del Pescador, continuando en forma ascendente por esta misma calle hasta llegar a calle de Fuente de Virgilio prosiguiendo sobre esta misma calle y en dirección noreste hasta entroncar con Paseo de los Ahuehuetes, continuando por el límite de la misma Delegación Política con el Estado de México hasta calle Cofre de Perote continuando en forma ascendente sobre los mismos límites, cruzando en línea imaginaria la parte suroeste del Hipódromo de las Américas, continuando en forma ascendente dirección noroeste, sobre el Boulevard Río Lerma, prosiguiendo en forma ascendente en dirección noreste por el límite de la Delegación Política Miguel Hidalgo y el Estado de México, cruzando el lado norte del Campo Militar número 1, hasta entroncar con la avenida Casa de la Moneda, dando vuelta a la derecha sobre la acera suroeste de esta avenida, continuando en forma descendente hasta la calle Presa Falcón, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+Jurisdicción: Tomando como punto de partida el vértice formado por la avenida Insurgentes Norte y la autopista México-Pachuca, en los límites de la Delegación Gustavo A. Madero con el Municipio de Tlalnepantla de Baz del Estado de México, siguiendo hacia el sur en forma descendente por la acera poniente de la avenida Insurgentes Norte hasta la Calzada Vallejo, dando vuelta a la derecha y continuando por esta Calzada en su acera noroeste hasta la calle de Clave, dando vuelta a la izquierda y continuando por la avenida Ferrocarril Industrial en su acera norte hasta llegar a la calle Tlaxcaltecas, dando vuelta a la izquierda continuando por esta calle en su acera poniente hasta la calle Zaachila, dando vuelta a la izquierda en esta calle hasta la calle de Seris, dando vuelta a la derecha y continuando por la acera poniente de esta calle hasta la avenida Jacarandas dando vuelta a la izquierda y continuando por esta avenida en dirección oriente hasta entroncar nuevamente con avenida Insurgentes Norte, prosiguiendo por esta avenida en dirección sureste, continuando en el mismo sentido y en la misma acera por la avenida Insurgentes Centro hasta la calle Valentín Gómez Farías, dando vuelta a la izquierda por la acera sur de esta calle en dirección oriente, hasta la calle Ignacio Ramírez, dando vuelta a la derecha y siguiendo por la acera poniente de esta calle, en forma descendente, hasta avenida Paseo de la Reforma, dando vuelta a la derecha por la acera noroeste de esta avenida, hasta entroncar nuevamente con avenida Insurgentes Centro, dando vuelta a la izquierda y continuando por esta avenida en forma descendente, por la acera poniente de ésta hasta la avenida Chapultepec, dando vuelta a la derecha por la acera norte de esta avenida en dirección poniente, hasta entroncar con la avenida General Pedro Antonio de los Santos, prosiguiendo por la acera poniente de esta avenida hasta la avenida Constituyentes, continuando en dirección poniente por la acera noroeste de esta avenida, hasta entroncar con la carretera México-Toluca,
 
-- DELEGACIÓN: 2 Noreste del Distrito Federal.
+dando vuelta a la derecha por la acera noroeste de la carretera en dirección suroeste hasta el límite de la Delegación Cuajimalpa con el Municipio Ocoyoacac del Estado de México; continuando a la derecha en dirección noreste por los límites con dicha entidad, señalados por las Mojoneras: Pirámide, Punto de las Cruces, Minas Viejas, Tepalcatitla, Tetela, San Jacinto, Monamiquiatl, Punto Cerro de los Padres, Punto Santiaguito, Punto Hueyatla y Manzanastitla, hasta llegar a los límites de la Delegación de Cuajimalpa con los de la Delegación Miguel Hidalgo y los del Estado de México, dando vuelta a la derecha y continuando por los mismos límites del Estado de México hasta encontrar la avenida Fuente del Pescador, continuando en forma ascendente sobre esta misma calle, hasta llegar a la calle de Fuente de Virgilio, prosiguiendo sobre esta misma calle y en el mismo sentido hasta entroncar con Paseo de los Ahuehuetes, continuando sobre los límites de la Delegación Miguel Hidalgo y el Estado de México hasta calle Cofre de Perote, continuando en forma ascendente sobre los mismos límites cruzando la parte suroeste del Hipódromo de las Américas, continuando en forma ascendente sobre el Boulevard Río Lerma, prosiguiendo en forma ascendente en los límites de la Delegación Miguel Hidalgo y el Estado de México, continuando por el lado norte del Campo Militar Número 1 hasta entroncar con calle Río Frío, dando vuelta a la izquierda en línea ascendente sobre los límites del lado oriente del panteón Sanctórum hasta entroncar con avenida Ingenieros Militares, prosiguiendo en línea ascendente sobre la acera oriente de esta avenida, hasta la Calzada San Bartolo Naucalpan, dando vuelta a la izquierda sobre la acera norte de esta Calzada hasta llegar a Calzada Ahuizotla, donde se da vuelta a la derecha sobre la acera oriente de esta Calzada, hasta entroncar con calle de Nextengo, continuando hasta la avenida Gobernador Sánchez Colín, prosiguiendo sobre esta avenida en línea ascendente en los límites de las Delegaciones Miguel Hidalgo y Azcapotzalco hasta Calzada de la Naranja, dando vuelta hacia la izquierda sobre acera norte de esta Calzada hasta encontrar Calzada de las Armas, continuando hacia el norte sobre acera oriente de esta Calzada, hasta calle Parque Vía, continuando en línea curva ascendente hasta sobrepasar una cuadra arriba de la calle Aldebarán, prosiguiendo en línea recta coincidiendo con los límites de la Delegación de Azcapotzalco y el Estado de México, hasta llegar a la avenida de las Culturas,
 
-JURISDICCIÓN: Tomando como punto de partida el vértice formado por la Autopista México-Pachuca y avenida Insurgentes Norte en los límites de la Delegación Política Gustavo A. Madero con el Municipio de Tlalnepantla del Estado de México, continuando hacia el sur por la acera oriente de la avenida Insurgentes Norte hasta entroncar con avenida Río Consulado, dando vuelta a la derecha, en dirección poniente hasta Calzada Vallejo siguiendo por la acera poniente hasta la avenida Ferrocarril Industrial, dando vuelta a la izquierda por la acera sur de esta avenida, en dirección poniente hasta la calle Tlaxcaltecas dando vuelta a la izquierda en esta calle, continuando en forma descendente por la acera oriente de ésta, hasta la calle Zaachila, dando vuelta a la izquierda por la acera norte de esta calle, hasta la calle de Seris, dando vuelta a la derecha y prosiguiendo en forma descendente sobre esta calle por la acera oriente hasta la avenida Jacarandas, dando vuelta a la izquierda por la acera norte de esta avenida en dirección oriente hasta entroncar nuevamente con la avenida Insurgentes Norte, dando vuelta a la derecha por la acera oriente de esta avenida, continuando en forma descendente hasta la calle Valentín Gómez Farías dando vuelta a la izquierda por la acera norte de esta calle en dirección oriente hasta la calle de Ignacio Ramírez, dando vuelta a la derecha sobre la acera oriente de ésta, hasta llegar a Paseo de la Reforma, dando vuelta a la derecha sobre la acera suroeste de esta avenida, hasta llegar a Insurgentes Sur, dando vuelta hacia la izquierda sobre la acera oriente de esta última avenida hasta llegar a la avenida Chapultepec, dando vuelta hacia la izquierda sobre la acera norte de esta avenida, prosiguiendo por Doctor Leopoldo Río de la Loza sobre la misma acera, en dirección oriente, continuando sobre la acera norte de Fray Servando Teresa de Mier, hasta llegar al Boulevard Puerto Aéreo dando vuelta hacia la izquierda sobre la acera poniente de este Boulevard, hasta llegar a la Calzada Ignacio Zaragoza, dando vuelta hacia la derecha sobre la acera noreste de esta Calzada, hasta entroncar con la Carretera Federal México-Puebla, continuando por esta Calzada sobre la acera noreste, hasta llegar a calle de División del Norte, dando vuelta a la izquierda en línea inclinada ascendente, coincidiendo con los límites de la Delegación Política de Iztapalapa con los del Estado de México, hasta entroncar con la calle Paseo de Tepozan, continuando sobre la acera suroeste de esta calle y en el mismo sentido, hasta llegar a la prolongación de avenida Texcoco, dando vuelta a la izquierda por la acera suroeste hasta la Calle 7, dando vuelta a la derecha y continuando sobre la acera poniente de esta calle, hasta llegar a Río Churubusco acera poniente, siguiendo en forma ascendente por Proyecto Anillo Periférico acera poniente, hasta la avenida Vía Express Tapo, prosiguiendo en línea ascendente coincidiendo con los límites de la Delegación Política Gustavo A. Madero y el Estado de México, hasta entroncar con la acera poniente de la avenida Ferrocarril de los Reyes, continuando en el mismo sentido y cruzando avenida Veracruz, siguiendo en forma ascendente sobre los límites de la Delegación Política Gustavo A. Madero y el Estado de México, hasta la calle Salvatierra, dando vuelta hacia la izquierda sobre Río de los Remedios, continuando por la acera sur de esta avenida hasta los límites con el Estado de México, dando vuelta a la izquierda por línea imaginaria coincidiendo con los límites de la Delegación Política Gustavo A. Madero y el Estado de México, hasta llegar al vértice de Insurgentes Norte con la Autopista México-Pachuca, en los límites de la Delegación Política Gustavo A. Madero y el Municipio de Tlalnepantla del Estado de México, que es el punto de partida, donde se cierra el perímetro de esta Delegación.
+continuando en línea recta hasta encontrar la avenida Benito Juárez, prosiguiendo hasta llegar a la avenida Maravillas, ascendiendo en línea inclinada hasta llegar a la calle Poniente 152, dando vuelta a la derecha por esta misma y sobre la acera sur hasta Calzada Vallejo, dando vuelta hacia la izquierda en línea ascendente por la acera oriente de esta Calzada hasta la calle Monte Alto, dando vuelta a la izquierda en línea ascendente por la acera norte de la avenida Industrial, hasta avenida Camino San Juan Iztacala, dando vuelta a la izquierda por la misma avenida, hasta encontrar calle Industria Editorial, dando vuelta a la derecha hasta llegar a Clavijero, donde se da vuelta a la derecha continuando en línea imaginaria sobre los límites de la Delegación Gustavo A. Madero y el Municipio de Tlalnepantla de Baz del Estado de México, hasta encontrar avenida Tlalnepantla-Tenayuca, sobre la cual se da vuelta hacia la derecha hasta entroncar con avenida Acueducto Tenayuca, continuando por esta avenida hasta llegar a avenida Ventisca, dando vuelta en línea ascendente a la izquierda sobre Felipe Ángeles en acera oriente, hasta enlazar con Calzada Cuautepec y hasta encontrar la calle Miguel Hidalgo, dando vuelta hacia la izquierda en línea imaginaria siguiendo los límites de la Delegación Gustavo A. Madero con el Estado de México, hasta encontrar calle Ejido, dando vuelta a la derecha en línea ascendente sobre la acera oriente de esta misma calle, hasta llegar a Puerto Caribe, continuando en línea ascendente sobre la parte norte el límite de la Delegación Gustavo A. Madero con el Estado de México, circundando dicha Delegación, hasta llegar a la calle Cerro Santa Isabel, donde se da vuelta hacia la izquierda sobre la acera sur de esta misma, hasta entroncar con calle Cerro Zacatenco, continuando en el mismo sentido hasta coincidir con el entronque formado por la autopista México-Pachuca e Insurgentes Norte, que es el punto de partida y donde se cierra el perímetro de esta Delegación.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 4 Guerrero.
+Subdelegación y Oficina para Cobros: 1 Magdalena de las Salinas.
 
-JURISDICCIÓN: Tomando como punto de partida el vértice formado por la Autopista México-Pachuca y avenida Insurgentes Norte en los límites de la Delegación Política Gustavo A. Madero y el Municipio de Tlalnepantla del Estado de México, continuando hacia el sur por la acera oriente de la avenida Insurgentes Norte hasta entroncar con avenida Río Consulado, dando vuelta a la derecha en dirección poniente hasta Calzada Vallejo, siguiendo por la acera poniente de esta avenida en forma ascendente hasta avenida Ferrocarril Industrial, dando vuelta a la izquierda por la acera sur de esta avenida en dirección poniente hasta la calle Tlaxcaltecas, dando vuelta a la izquierda en forma descendente por la acera oriente de esta calle hasta la de Zaachila, dando vuelta a la izquierda en esta calle, siguiendo por la acera norte en dirección oriente hasta la calle de Seris, dando vuelta a la derecha en esta calle por la acera oriente hasta la avenida Jacarandas; dando vuelta a la izquierda por la acera norte de esta avenida en dirección oriente, hasta entroncar con la avenida de los Insurgentes Norte, siguiendo por la acera oriente de esta avenida en dirección descendente hasta llegar a la calle de Puente de Alvarado, dando vuelta a la izquierda por la acera norte de ésta y continuando por avenida Hidalgo por la misma acera, hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta a la izquierda por la acera poniente de este Eje, hasta llegar a República de Ecuador, dando vuelta a la derecha por la acera norte de esta calle (Números Pares), y continuando por la misma acera de República de Costa Rica hasta llegar a la avenida del Trabajo, dando vuelta a la derecha por la acera noreste de esta avenida hasta entroncar con la avenida Congreso de la Unión, dando vuelta a la derecha y continuando por la acera oriente de esta avenida en dirección sur hasta Fray Servando Teresa de Mier, dando vuelta a la izquierda por la acera norte de esta avenida, hasta llegar al Boulevard Puerto Aéreo, dando vuelta hacia la izquierda sobre la acera poniente de este Boulevard hasta llegar a Ignacio Zaragoza, dando vuelta hacia la derecha sobre la acera noreste de esta Calzada, hasta entroncar con la Carretera Federal México-Puebla, continuando por esta Calzada sobre la acera noreste hasta llegar a la calle División del Norte, dando vuelta a la izquierda en línea inclinada ascendente coincidiendo con los límites de la Delegación Política de Iztapalapa con los del Estado de México hasta entroncar con calle Paseo de Tepozan, continuando sobre la acera sureste, de esta calle en el mismo sentido, hasta llegar a la prolongación de avenida Texcoco continuando por la acera suroeste de esta avenida hasta llegar a la Calle 7, dando vuelta a la derecha de ésta, continuando sobre la acera poniente hasta llegar a Río Churubusco, acera poniente, siguiendo en forma ascendente sobre Proyecto Anillo Periférico, acera poniente hasta la avenida Vía Express Tapo, continuando en línea ascendente coincidiendo con los límites de la Delegación Política Gustavo A. Madero y el Estado de México, hasta entroncar con la acera poniente de la avenida Ferrocarril de los Reyes, prosiguiendo en el mismo sentido, cruzando avenida Veracruz, siguiendo en forma ascendente sobre los límites de la Delegación Política Gustavo A. Madero y el Estado de México, hasta la calle Salvatierra, dando vuelta hacia la izquierda sobre Río de los Remedios, dando vuelta a la izquierda y continuando por la acera sur de esta avenida, hasta los límites con el Estado de México, dando vuelta a la izquierda por línea imaginaria coincidiendo con los límites de la Delegación Política Gustavo A. Madero y el Estado de México, hasta llegar al vértice de Insurgentes Norte con la Autopista México-Pachuca en los límites de la Delegación Política Gustavo A. Madero y el Municipio de Tlalnepantla del Estado de México, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+Jurisdicción: Tomando como punto de partida el vértice formado por la autopista México-Pachuca e Insurgentes Norte en los límites de la Delegación Gustavo A. Madero con el Municipio de Tlalnepantla de Baz del Estado de México, continuando hacia el sur por la acera poniente de esta última avenida hasta llegar a Calzada Vallejo, dando vuelta a la derecha, continuando por la acera oriente de esta Calzada hasta llegar a la calle de Clave, dando vuelta a la izquierda prosiguiendo por la avenida Ferrocarril Industrial en su acera norte hasta llegar a la calle Tlaxcaltecas dando vuelta a la izquierda continuando por esta calle en su acera poniente hasta la calle de Zaachila dando vuelta a la izquierda por esta calle y prosiguiendo por la misma en su acera sur hasta calle de Seris dando vuelta a la derecha, continuando por esta calle, en su acera poniente en dirección sur hasta llegar a Paseo de las Jacarandas, dando vuelta a la derecha sobre la acera norte de esta avenida, continuando por esta misma y por la misma acera que cambia de nombre a Río Consulado, hasta llegar a la Calzada de los Gallos, dando vuelta a la derecha por la acera norte de esta avenida, hasta entroncar con avenida Ferrocarriles Nacionales, atravesando avenida Cuitláhuac hasta entroncar con calle de José Sánchez Trujillo, dando vuelta a la derecha por la acera norte de esta calle en dirección noroeste hasta Juárez, continuando por esta misma y entroncando con Primavera hasta la Refinería "18 de Marzo", continuando en dirección poniente atravesando en línea imaginaria dicha Refinería por Ferrocarril a Toluca siguiendo a la derecha en Manuel Díaz de Bonilla hasta la avenida Santa Lucía entroncando con la Calzada de la
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 5 Centro.
+Naranja, continuando sobre la acera norte de esta misma en dirección poniente hasta encontrar la Calzada de las Armas, continuando hacia el norte en línea curva ascendente sobre la acera oriente de esta Calzada hasta llegar a la avenida Aquiles Serdán, sobrepasando una cuadra arriba de la calle Aldebarán, dando vuelta a la derecha y continuando en dirección oriente,
 
-JURISDICCIÓN: Tomando como punto de partida el vértice formado por la avenida Insurgentes Sur y avenida Chapultepec, continuando por la acera norte de la avenida Chapultepec en dirección oriente, prosiguiendo por Doctor Leopoldo Río de la Loza sobre la misma acera, cruzando el Eje Central Lázaro Cárdenas, siguiendo en dirección oriente por Fray Servando Teresa de Mier sobre la acera norte de esta avenida, correspondiéndole la numeración del número 2 al 484 (números pares), hasta llegar a la avenida Congreso de la Unión dando vuelta hacia la izquierda sobre la acera poniente de esta avenida, correspondiéndole la numeración del número 1 al 191 (números nones) hasta llegar a Imprenta, continuando sobre la acera poniente de esta calle, correspondiéndole la numeración del 2 al 64 (números pares), hasta llegar a la avenida del Trabajo, dando vuelta a la izquierda sobre la acera suroeste de esta avenida, hasta llegar a República de Costa Rica, dando vuelta hacia la izquierda sobre la acera sur de esta calle (números nones), continuando por la acera sur de la calle República de Ecuador (número nones), hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta a la izquierda por la acera oriente de este Eje en dirección sur hasta llegar a la avenida Hidalgo, dando vuelta a la derecha sobre la acera sur de esta avenida, continuando en dirección poniente, por la misma acera sur de calle Puente de Alvarado, hasta llegar a Insurgentes Centro, dando vuelta a la izquierda sobre la acera oriente de esta avenida, siguiendo en forma descendente hasta llegar a la calle Valentín Gómez Farías, dando vuelta hacia la izquierda sobre la acera norte de esta calle, hasta llegar a Ignacio Ramírez, dando vuelta hacia la derecha sobre la acera oriente de ésta hasta llegar a Paseo de la Reforma, dando vuelta hacia la derecha sobre la acera sureste de esta avenida, hasta llegar a Insurgentes Sur, dando vuelta hacia la izquierda sobre la acera oriente de esta avenida en dirección sur hasta llegar a la avenida Chapultepec, que es el vértice donde se cierra el perímetro de esta Subdelegación.
+coincidiendo con los límites de la Delegación Azcapotzalco y el Estado de México, hasta encontrar avenida de las Culturas, prosiguiendo en línea recta hasta la continuación Benito Juárez, prosiguiendo por tramo de Poniente 152 en dirección oriente hasta llegar a Maravillas, ascendiendo en dirección noreste hasta encontrar la avenida Poniente 152, dando vuelta a la derecha por esta calle sobre la acera sur, hasta llegar a Calzada Vallejo, dando vuelta a la izquierda en forma ascendente por acera oriente hasta calle Monte Alto, dando vuelta a la izquierda en línea ascendente por la acera norte de avenida Industrial dirección noroeste, siguiendo la continuación con Avenida 9-A o Josefa Ortiz de Domínguez hasta entroncar con avenida Camino San Juan Iztacala, dando vuelta a la izquierda por la misma avenida en línea ascendente hasta encontrar la calle de Industria Editorial, dando vuelta a la derecha hasta llegar a Clavijero, donde se da vuelta a la derecha continuando en línea imaginaria sobre los límites de la Delegación Gustavo A. Madero con el Estado de México, hasta encontrar la avenida Tlalnepantla-Tenayuca sobre la cual se da vuelta hacia la derecha hasta encontrar la avenida Acueducto Tenayuca hasta llegar a avenida Ventisca, dando vuelta en línea ascendente a la izquierda sobre la calle de Felipe Ángeles por la acera oriente prosiguiendo en forma ascendente, continuando por la Calzada Cuautepec, prolongándose hasta llegar a Miguel Hidalgo, dando vuelta a la izquierda en línea imaginaria, siguiendo los límites de la Delegación Gustavo A. Madero, hasta encontrar la calle de Ejido, dando vuelta a la derecha en línea ascendente sobre acera oriente de esta calle hasta llegar a Puerto Caribe, continuando en línea ascendente sobre la parte norte del límite de la Delegación Gustavo A. Madero con el Estado de México, circundando los límites de dicha Delegación con el Estado de México hasta llegar a la calle Cerro Santa Isabel, dando vuelta hacia la izquierda sobre la acera sur de esta calle hasta entroncar con calle Cerro Zacatenco, continuando en el mismo sentido hasta el vértice formado por la autopista México-Pachuca e Insurgentes Norte, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
 
-- DELEGACIÓN: 3 Suroeste del Distrito Federal.
+Subdelegación y Oficina para Cobros: 2 Santa María la Ribera.
 
-JURISDICCIÓN: Tomando como punto inicial de partida el vértice formado por la calle Doctor Leopoldo Río de la Loza y el Eje Central Lázaro Cárdenas, se sigue por la acera poniente de este Eje en forma descendente hasta llegar a avenida Universidad, dando vuelta a la derecha sobre la acera noroeste de esta avenida en dirección suroeste, hasta entroncar con avenida División del Norte, dando vuelta a la izquierda sobre la acera poniente de esta avenida en dirección sureste, hasta Calzada de Tlalpan, dando vuelta a la derecha por la acera poniente de esta Calzada, siguiendo en forma descendente hasta entroncar con la avenida Acueducto, dando vuelta a la izquierda sobre la acera poniente de esta avenida, hasta llegar al Viaducto Tlalpan, siguiendo a la derecha sobre la acera poniente del Viaducto, en forma descendente hasta entroncar con la Autopista México-Cuernavaca, continuando por la acera poniente de la Autopista en forma descendente hasta los límites de la Delegación Política de Tlalpan con el Municipio Huitzilac del Estado de Morelos, dando vuelta a la derecha en dirección noroeste, continuando por los límites mencionados, hasta llegar a los límites con la Delegación Política Magdalena Contreras y los del Estado de México, prosiguiendo en dirección ascendente por los límites de esta Delegación Política con los del Estado de México, hasta llegar a los límites de la Delegación Política Álvaro Obregón con los del Estado de México, continuando por estos límites hasta los de la Delegación Política Cuajimalpa con el Municipio de Ocoyoacac del mismo Estado, continuando de este punto hacia el oriente por la acera sur de la Carretera México-Toluca hasta entroncar con la avenida Constituyentes, prosiguiendo por la acera sur de esta avenida hasta la calle General Pedro Antonio de los Santos, dando vuelta a la izquierda, continuando por la acera sur de avenida Chapultepec hasta entroncar con la calle Doctor Leopoldo Río de la Loza y el Eje Central Lázaro Cárdenas, que es el punto de partida y donde se cierra el perímetro de esta Delegación.
+Jurisdicción: Tomando como punto de partida el vértice formado por avenida Ejército Nacional y Ferrocarril de Cuernavaca, continuando por la acera oriente de esta última avenida hasta entroncar con Presa Falcón, continuando por acera oriente de esta calle hasta llegar a avenida Casa de la Moneda, prosiguiendo por acera noreste de esta calle en línea ascendente hasta llegar a la avenida Ingenieros Militares, continuando en línea ascendente sobre acera oriente de esta avenida hasta encontrar la Calzada San Bartolo Naucalpan, dando vuelta a la izquierda sobre acera noreste de esta Calzada, hasta llegar a la Calzada Santiago Ahuizotla, siguiendo por la acera oriente de esta Calzada, continuando en dirección noreste por la Calzada San Lorenzo Tlaltenango hasta entroncar con la acera oriente de Manuel Díaz de Bonilla continuando a la derecha por Ferrocarril a Toluca en dirección oriente atravesando en línea imaginaria la Refinería "18 de Marzo" por la parte sur hasta encontrar calle Primavera, continuando por acera sur de esta calle hasta entroncar con calle Juárez, prosiguiendo sobre la acera sur de esta calle hasta llegar a calle José Sánchez Trujillo hasta entroncar con avenida Ferrocarriles Nacionales sobre su acera sur, hasta llegar a la Calzada de los Gallos, prosiguiendo sobre acera sur de esta Calzada en dirección oriente hasta llegar a Río Consulado, dando vuelta a la izquierda sobre la acera oriente de esta avenida hasta entroncar con la avenida de las Jacarandas (antes Río Consulado), continuando sobre la acera sur de esta avenida hasta llegar a avenida Insurgentes Norte, dando vuelta a la derecha sobre la acera poniente de esta avenida, continuando por la misma acera Insurgentes Centro hasta llegar a la calle Valentín Gómez Farías, dando vuelta hacia la izquierda sobre acera sur de esta calle hasta llegar a la calle de Ignacio Ramírez, dando vuelta hacia la derecha sobre la acera poniente de esta calle hasta llegar a la avenida Paseo de la Reforma, dando vuelta a la derecha por la acera noroeste de esta avenida hasta llegar a la calle de Plaza de los Ferrocarriles, dando vuelta a la derecha por esta calle y continuando por acera norte de la calle de Sullivan que cambia de nombre a Parque Vía hasta llegar a la avenida Melchor Ocampo, donde se da vuelta a la izquierda sobre la acera poniente hasta la calle de Gutenberg en su acera norte hasta llegar a la avenida Ejército Nacional sobre su acera norte (números nones), prosiguiendo en forma ascendente en dirección noroeste hasta llegar a la avenida Ferrocarril de Cuernavaca, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 6 Piedad Narvarte.
+Subdelegación y Oficina para Cobros: 3 Polanco.
 
-JURISDICCIÓN: Tomando como punto de partida el vértice formado por la Carretera México-Toluca y el municipio Ocoyoacac, prosiguiendo por la acera sur de la carretera en dirección oriente, hasta entroncar con la avenida Constituyentes, prosiguiendo hasta llegar a Pedro Antonio de los Santos, continuando por la acera sureste de esta avenida y prosiguiendo por la avenida Chapultepec sobre la acera sur de esta avenida hasta entroncar con avenida Cuauhtémoc, continuando en dirección Oriente por la acera sur de Doctor Leopoldo Río de la Loza hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta a la derecha sobre la acera poniente de esta avenida y continuando en forma descendente hasta Viaducto Miguel Alemán, dando vuelta a la derecha y continuando sobre la acera norte de este Viaducto, hasta avenida Cuauhtémoc dando vuelta a la izquierda y continuando por la acera poniente de esta avenida hasta la avenida de Obrero Mundial, dando vuelta a la derecha y continuando por la acera norte de esta Avenida en dirección poniente hasta entroncar con el Viaducto Miguel Alemán, continuando por éste, hasta llegar a Insurgentes Sur, dando vuelta a la izquierda por esta avenida sobre la acera poniente hasta llegar a la calle Porfirio Díaz, dando vuelta a la derecha sobre la acera norte de esta calle, hasta llegar a Augusto Rodín, dando vuelta a la derecha sobre la acera oriente de esta calle hasta llegar a la avenida San Antonio, dando vuelta a la izquierda sobre la acera norte de esta avenida, hasta entroncar con la avenida Camino a las Minas continuando como límite la Barranca que corre paralela a las calles Loma de Capula, Alma Sudi, Gustavo Díaz Ordaz, Sebastián Lerdo de Tejada, hasta entroncar con Vicente Guerrero y Puerto Juárez, continuando por esta última hasta Puerto Mazatlán ambas aceras, dando vuelta a la izquierda por esta calle hasta llegar a la avenida Santa Lucía, dando vuelta a la derecha sobre la acera norte de esta avenida hasta entroncar con la avenida Tamaulipas continuando por la acera norte de esta avenida hasta llegar a los límites coincidentes de las Delegaciones Políticas de Álvaro Obregón y Cuajimalpa, dando vuelta a la izquierda y continuando en forma descendente sobre estos mismos límites hasta llegar al punto de confluencia de los límites de la Delegación Política de Cuajimalpa con los de la de Álvaro Obregón y el Estado de México, continuando hacia el norte sobre los límites coincidentes de la Delegación Política de Cuajimalpa y los del Estado de México, señalados por las Mojoneras: Cochinito, Gachupina, Muñeco, Teponaxtla, Gavilán, Chinaco, Ojo de Agua, B. del Pedregal, Cerro del Ángel, Carbonera del Rey y Tepehuisco, hasta llegar al entronque con la carretera México-Toluca y el Municipio de Ocoyoacac, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+Jurisdicción: Tomando como punto de partida el vértice formado por la avenida Casa de la Moneda y Presa Falcón, continuando por la acera poniente de esta última calle en forma descendente hasta la avenida Ejército Nacional, dando vuelta a la izquierda sobre la acera sur de esta avenida en dirección oriente hasta la calle de Gutenberg donde se da vuelta a la izquierda en forma ascendente hacia el noreste cruzando esta calle hasta entroncar con la avenida Melchor Ocampo continuando por la acera poniente de esta avenida hacia el norte hasta el entronque de avenida Marina Nacional y avenida Parque Vía dando vuelta a la derecha en esta última y continuando por la acera sur de la misma en dirección oriente, prosiguiendo por James Sullivan hasta Insurgentes Centro, dando vuelta a la derecha por la acera poniente de esta avenida, siguiendo en forma descendente, atravesando Paseo de la Reforma, continuando por la acera poniente de Insurgentes Sur hasta avenida Chapultepec, dando vuelta a la derecha por la acera norte de esta avenida en dirección suroeste, hasta entroncar con la avenida General Pedro Antonio de los Santos prosiguiendo por la acera poniente de esta avenida hasta la de Constituyentes, continuando en dirección suroeste por la acera noroeste de esta avenida, hasta entroncar con la carretera México-Toluca, dando vuelta a la izquierda por la acera noroeste de la carretera en dirección suroeste, hasta el límite de la Delegación Cuajimalpa con el Municipio Ocoyoacac del Estado de México, continuando a la derecha en dirección noreste por los límites con dicho Estado, señalados por las Mojoneras: Pirámides, Punto de las Cruces, Minas Viejas, Tepalcatitla, Tetela, San Jacinto, Monamiquiatl, Punto Cerro de los Padres, Punto Santiaguillo, Punto Hueyatla y Manzanastitla, hasta llegar a los límites de la Delegación de Cuajimalpa con los de la Delegación Miguel Hidalgo y el Estado de México, hasta encontrar la avenida Fuente del Pescador, continuando en forma ascendente por esta misma avenida hasta llegar a calle de Fuentes de Virgilio prosiguiendo sobre esta misma calle y en dirección noreste hasta entroncar con Paseo de los Ahuehuetes, continuando por el límite de la misma Delegación con el Estado de México hasta calle Cofre de Perote continuando en forma ascendente sobre los mismos límites, cruzando en línea imaginaria la parte suroeste del Hipódromo de las Américas, continuando en forma ascendente dirección noroeste, sobre el Boulevard Río Lerma, prosiguiendo en forma ascendente en dirección noreste por el límite de la Delegación Miguel Hidalgo y el Estado de México, cruzando el lado norte del Campo Militar Número 1, hasta entroncar con la avenida Casa de la Moneda, dando vuelta a la derecha sobre la acera suroeste de esta avenida, continuando en forma descendente hasta la calle Presa Falcón, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 7 del Valle.
+Delegación: 2 Noreste del Distrito Federal.
 
-JURISDICCIÓN: Tomando como punto inicial de partida el vértice formado por el Viaducto Miguel Alemán y el Eje Central Lázaro Cárdenas, continuando hacia el sur por la acera poniente de este Eje, hasta llegar a avenida Universidad, dando vuelta a la derecha sobre la acera noroeste de esta avenida, descendiendo hasta llegar a División del Norte, dando vuelta a la izquierda sobre la acera suroeste de esta avenida, hasta llegar a calle de Cáliz dando vuelta a la derecha ambas aceras hasta la calle de Tallo, dando vuelta a la derecha ambas aceras hasta la calle Diego Rivera, continuando hasta entroncar a calle Museo dando vuelta a la derecha hasta calle Tepetlapa a la izquierda por esta avenida hasta la calle Netzahualcóyotl, continuando hasta Coras, dando vuelta a la derecha por Rey Moctezuma, continuar a la izquierda a calle de Las Flores, dando vuelta a la derecha hasta Ahuacatitla (las Torres) continuando por la acera noroeste de esta avenida hasta llegar a avenida Copilco, dando vuelta a la derecha sobre la acera norte de esta avenida hasta llegar a avenida Universidad, siguiendo sobre la acera oriente de esta avenida en dirección norte hasta la avenida Río Mixcoac, dando vuelta a la izquierda por la acera norte en dirección poniente hasta avenida de los Insurgentes Sur siguiendo por la acera oriente de esta avenida en dirección norte hasta llegar a Viaducto Miguel Alemán, dando vuelta a la derecha prosiguiendo por la acera sur del Viaducto en dirección oriente hasta llegar al entronque de éste con Obrero Mundial, prosiguiendo por la acera sur de esta avenida en dirección oriente hasta la avenida Cuauhtémoc, dando vuelta a la izquierda y continuando por la acera oriente de esta última avenida en dirección norte hasta llegar al Viaducto Miguel Alemán, dando vuelta a la derecha y continuando por la acera sur de este Viaducto en dirección oriente hasta llegar al Eje Central Lázaro Cárdenas, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+Jurisdicción: Tomando como punto de partida el vértice formado por la autopista México-Pachuca y avenida Insurgentes Norte en los límites de la Delegación Gustavo A. Madero con el Municipio de Tlalnepantla de Baz del Estado de México, continuando hacia el sur por la acera oriente de la avenida Insurgentes Norte hasta entroncar con avenida Río Consulado, dando vuelta a la derecha, en dirección poniente hasta Calzada Vallejo siguiendo por la acera poniente hasta la avenida Ferrocarril Industrial, dando vuelta a la izquierda por la acera sur de esta avenida, en dirección poniente hasta la calle Tlaxcaltecas dando vuelta a la izquierda de esta calle, continuando en forma descendente por la acera oriente de ésta, hasta la calle Zaachila, dando vuelta a la izquierda por la acera norte de esta calle, hasta la calle de Seris, dando vuelta a la derecha y prosiguiendo en forma descendente sobre esta calle por la acera oriente hasta la avenida Jacarandas, dando vuelta a la izquierda por la acera norte de esta avenida en dirección oriente hasta entroncar nuevamente con la avenida Insurgentes Norte, dando vuelta a la derecha por la acera oriente de esta avenida, continuando en forma descendente hasta la calle Valentín Gómez Farías dando vuelta a la izquierda por la acera norte de esta calle en dirección oriente hasta la calle de Ignacio Ramírez, dando vuelta a la derecha sobre la acera oriente de ésta, hasta llegar a Paseo de la Reforma, dando vuelta a la derecha sobre la acera suroeste de esta avenida, hasta llegar a Insurgentes Sur, dando vuelta hacia la izquierda sobre la acera oriente de esta última avenida hasta llegar a la avenida Chapultepec, dando vuelta hacia la izquierda sobre la acera norte de esta avenida, prosiguiendo por Doctor Leopoldo Río de la Loza sobre la misma acera, en dirección oriente, continuando sobre la acera norte de Fray Servando Teresa de Mier, hasta llegar al Boulevard Puerto Aéreo dando vuelta hacia la izquierda sobre la acera poniente de este Boulevard, hasta llegar a la Calzada Ignacio Zaragoza, dando vuelta hacia la derecha sobre la acera noreste de esta Calzada, hasta entroncar con la carretera federal México-Puebla, continuando por esta Calzada sobre la acera noreste, hasta llegar a calle de División del Norte, dando vuelta a la izquierda en línea inclinada ascendente, coincidiendo con los límites de la Delegación de Iztapalapa con los del Estado de México, hasta entroncar con la calle Paseo de Tepozán, continuando sobre la acera suroeste de esta calle y en el mismo sentido, hasta llegar a la prolongación de avenida Texcoco, dando vuelta a la izquierda por la acera suroeste hasta la Calle 7, dando vuelta a la derecha y continuando sobre la acera poniente de esta calle, hasta llegar a Río Churubusco acera poniente, siguiendo en forma ascendente por Proyecto Anillo Periférico acera poniente, hasta la avenida Vía Express Tapo, prosiguiendo en línea ascendente coincidiendo con los límites de la Delegación Gustavo A. Madero y el Estado de México, hasta entroncar con la acera poniente de la avenida Ferrocarril de los Reyes, continuando en el mismo sentido y cruzando avenida Veracruz, siguiendo en forma ascendente sobre los límites de la Delegación Gustavo A. Madero y el Estado de México, hasta la calle Salvatierra, dando vuelta hacia la izquierda sobre Río de los Remedios, continuando por la acera sur de esta avenida hasta los límites con el Estado de México, dando vuelta a la izquierda por línea imaginaria coincidiendo con los límites de la Delegación Gustavo A. Madero y el Estado de México, hasta llegar al vértice de Insurgentes Norte por la autopista México-Pachuca, en los límites de la Delegación Gustavo A. Madero y el Municipio de Tlalnepantla de Baz del Estado de México, que es el punto de partida donde se cierra el perímetro de esta Delegación.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 8 San Ángel.
+Subdelegación y Oficina para Cobros: 4 Guerrero.
 
-JURISDICCIÓN: Tomando como punto inicial de partida el vértice formado por la avenida Insurgentes Sur y calle Porfirio Díaz, continuando por la acera sur de esta calle hasta llegar a Augusto Rodín, dando vuelta a la derecha por la acera poniente de esta calle hasta llegar a avenida San Antonio dando vuelta a la izquierda sobre la acera sur de esta avenida, hasta entroncar con la avenida Camino de las Minas, tomando como límite el lado sur de la Barranca que corre paralela a las calles Lomas de Capula, Alma Sudi, Gustavo Díaz Ordaz, Sebastián Lerdo de Tejada hasta entroncar con Vicente Guerrero y Puerto Juárez continuando por esta última hasta Puerto Mazatlán, únicamente como límite, correspondiendo las aceras de estas calles a la Subdelegación 6 Piedad Narvarte, dando vuelta a la izquierda en forma descendente hasta avenida Santa Lucía dando vuelta a la derecha sobre la acera sur de esta avenida hasta entroncar con Tamaulipas, continuando sobre la acera sur de esta avenida hasta llegar a los límites coincidentes de las delegaciones Políticas Álvaro Obregón y Cuajimalpa, dando vuelta a la izquierda y continuando en forma descendente sobre estos mismos límites hasta llegar al punto de confluencia de los límites de la Delegación Política de Cuajimalpa con los de la de Álvaro Obregón y el Estado de México, continuando hacia el sur por los límites de la Delegación Política de Álvaro Obregón y el Estado de México, hasta llegar al punto de confluencia de los límites de la Delegación Política de Magdalena Contreras con los del Estado de México, continuando sobre estos mismos límites hasta llegar al punto de confluencia de los límites de la Delegación Política de Tlalpan con los del Estado de Morelos, prosiguiendo por estos mismos límites hasta llegar a la Autopista México-Cuernavaca, dando vuelta a la izquierda sobre la acera poniente de esta Autopista hasta entroncar con el Viaducto Tlalpan, continuando por la acera poniente de este Viaducto hasta llegar a avenida Acueducto, dando vuelta a la izquierda sobre la acera noreste de esta avenida hasta llegar a la Calzada de Tlalpan, dando vuelta a la derecha sobre la acera poniente de esta Calzada hasta llegar a División del Norte, dando vuelta a la izquierda sobre la acera suroeste de esta avenida hasta llegar a la calle de Cáliz dando vuelta a la izquierda, únicamente como límite hasta la calle de Tallo dando vuelta a la derecha hasta Diego Rivera, continuando hasta entroncar con la calle Museo ambas aceras, vuelta a la derecha hasta calle Tepetlapa a la izquierda por esta avenida hasta calle Netzahualcóyotl, continuando hasta Coras dando vuelta a la derecha hasta Rey Moctezuma, dando vuelta a la izquierda hasta calle Las Flores dando vuelta a la derecha hasta calle de Ahuacatitla (las Torres); todas estas calles únicamente como límite correspondiendo ambas aceras a la Subdelegación 7 del Valle, continuando por la acera sureste de esta avenida hasta llegar a la avenida Copilco, dando vuelta a la derecha sobre la acera sur de esta avenida hasta llegar a la avenida Universidad, siguiendo sobre la acera poniente de esta avenida en dirección noreste, prosiguiendo en forma ascendente hasta la avenida Río Mixcoac, dando vuelta a la izquierda y prosiguiendo por la acera sur de esta avenida en dirección poniente, hasta la avenida Insurgentes Sur, dando vuelta a la derecha y continuando por la acera poniente de esta avenida en dirección norte hasta la calle de Porfirio Díaz, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+Jurisdicción: Tomando como punto de partida el vértice formado por la autopista México-Pachuca y avenida Insurgentes Norte en los límites de la Delegación Gustavo A. Madero y el Municipio de Tlalnepantla de Baz del Estado de México, continuando hacia el sur por la acera oriente de la avenida Insurgentes Norte hasta entroncar con avenida Río Consulado, dando vuelta a la derecha en dirección poniente hasta Calzada Vallejo, siguiendo por la acera poniente de esta avenida en forma ascendente hasta avenida Ferrocarril Industrial, dando vuelta a la izquierda por la acera sur de esta avenida en dirección poniente hasta la calle Tlaxcaltecas, dando vuelta a la izquierda en forma descendente por la acera oriente de esta calle hasta la de Zaachila, dando vuelta a la izquierda en esta calle, siguiendo por la acera norte en dirección oriente hasta la calle de Seris, dando vuelta a la derecha en esta calle por la acera oriente hasta la avenida Jacarandas; dando vuelta a la izquierda por la acera norte de esta avenida en dirección oriente, hasta entroncar con la avenida de los Insurgentes Norte, siguiendo por la acera oriente de esta avenida en dirección descendente hasta llegar a la calle de Puente de Alvarado, dando vuelta a la izquierda por la acera norte de ésta y continuando por avenida Hidalgo por la misma acera, hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta a la izquierda por la acera poniente de este Eje, hasta llegar a República de Ecuador, dando vuelta a la derecha por la acera norte de esta calle (números pares), y continuando por la misma acera de República de Costa Rica hasta llegar a la avenida del Trabajo, dando vuelta a la derecha por la acera noreste de esta avenida hasta entroncar con la avenida Congreso de la Unión, dando vuelta a la derecha y continuando por la acera oriente de esta avenida en dirección sur hasta Fray Servando Teresa de Mier, dando vuelta a la izquierda por la acera norte de esta avenida, hasta llegar al Boulevard Puerto Aéreo, dando vuelta hacia la izquierda sobre la acera poniente de este Boulevard hasta llegar a Ignacio Zaragoza, dando vuelta hacia la derecha sobre la acera noreste de esta Calzada, hasta entroncar con la carretera federal México-Puebla, continuando por esta Calzada sobre la acera noreste hasta llegar a la calle División del Norte, dando vuelta a la izquierda en línea inclinada ascendente coincidiendo con los límites de la Delegación de Iztapalapa con los del Estado de México hasta entroncar con calle Paseo de Tepozán, continuando sobre la acera sureste, de esta calle en el mismo sentido, hasta llegar a la prolongación de avenida Texcoco continuando por la acera suroeste de esta avenida hasta llegar a la Calle 7, dando vuelta a la derecha de ésta, continuando sobre la acera poniente hasta llegar a Río Churubusco, acera poniente, siguiendo en forma ascendente sobre Proyecto Anillo Periférico, acera poniente hasta la avenida Vía Express Tapo, continuando en línea ascendente coincidiendo con los límites de la Delegación Gustavo A. Madero y el Estado de México, hasta entroncar con la acera poniente de la avenida Ferrocarril de los Reyes, prosiguiendo en el mismo sentido, cruzando avenida Veracruz, siguiendo en forma ascendente sobre los límites de la Delegación Gustavo A. Madero y el Estado de México, hasta la calle Salvatierra, dando vuelta hacia la izquierda sobre Río de los Remedios, dando vuelta a la izquierda y continuando por la acera sur de esta avenida, hasta los límites con el Estado de México, dando vuelta a la izquierda por línea imaginaria coincidiendo con los límites de la Delegación Gustavo A. Madero y el Estado de México, hasta llegar al vértice de Insurgentes Norte con la autopista México-Pachuca en los límites de la Delegación Gustavo A. Madero y el Municipio de Tlalnepantla de Baz del Estado de México, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
 
-- DELEGACIÓN: 4 Sureste del Distrito Federal.
+Subdelegación y Oficina para Cobros: 5 Centro.
 
-JURISDICCIÓN: Tomando como punto inicial de partida el vértice formado por la esquina del Eje Central Lázaro Cárdenas y Fray Servando Teresa de Mier, continuando hacia el oriente por la acera sur de esta avenida, hasta llegar al Boulevard Puerto Aéreo, dando vuelta a la izquierda sobre la acera oriente de este Boulevard, hasta llegar a Ignacio Zaragoza, dando vuelta hacia la derecha sobre la acera suroeste de esta Calzada, hasta llegar al entronque con la Carretera Federal México-Puebla, continuando sobre la acera suroeste de esta Carretera, hasta llegar a la calle División del Norte, dando vuelta a la derecha sobre la acera poniente de esta calle hasta la línea divisoria de los límites de la Delegación Política de Iztapalapa con los del Estado de México, continuando por estos límites hacia el sur hasta llegar al punto de confluencia de los límites de la Delegación Política de Tláhuac y los del Estado de México, continuando hacia el sur sobre estos mismos límites, hasta llegar al punto de confluencia de los límites de la Delegación Política de Milpa Alta y los del Estado de México, prosiguiendo hacia el sur sobre estos límites hasta coincidir con los de esta propia Delegación y los del Estado de Morelos, hasta llegar al punto de confluencia de sus límites con los de la Delegación Política de Xochimilco y los del Estado de Morelos, continuando por estos límites en dirección poniente hasta coincidir con los límites de la Delegación Política de Tlalpan con los del Estado de Morelos, hasta entroncar con la Autopista México-Cuernavaca, dando vuelta a la derecha y continuando hacia el norte sobre la acera oriente de esta Autopista, hasta entroncar con el Viaducto Tlalpan, continuando por la acera oriente de este Viaducto, hasta llegar a la avenida Acueducto, dando vuelta a la izquierda sobre la acera sureste de esta avenida, hasta llegar a la Calzada de Tlalpan, dando vuelta a la derecha sobre la acera oriente de esta Calzada, hasta llegar a la avenida División del Norte, dando vuelta hacia la izquierda sobre la acera noreste de esta avenida hasta llegar a la avenida Universidad, dando vuelta hacia la derecha sobre la acera sureste de esta avenida, hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta hacia la izquierda sobre la acera oriente de este Eje, hasta llegar a la avenida Fray Servando Teresa de Mier, que es el punto de partida y donde se cierra el perímetro de esta Delegación.
+Jurisdicción: Tomando como punto de partida el vértice formado por la avenida Insurgentes Sur y avenida Chapultepec, continuando por la acera norte de la avenida Chapultepec en dirección oriente, prosiguiendo por Doctor Leopoldo Río de la Loza sobre la misma acera, cruzando el Eje Central Lázaro Cárdenas, siguiendo en dirección oriente por Fray Servando Teresa de Mier sobre la acera norte de esta avenida, correspondiéndole la numeración del número 2 al 484 (números pares), hasta llegar a la avenida Congreso de la Unión dando vuelta hacia la izquierda sobre la acera poniente de esta avenida, correspondiéndole la numeración del número 1 al 191 (números nones), hasta llegar a Imprenta, continuando sobre la acera poniente de esta calle, correspondiéndole la numeración del 2 al 64 (números pares), hasta llegar a la avenida del Trabajo, dando vuelta a la izquierda sobre la acera suroeste de esta avenida, hasta llegar a República de Costa Rica, dando vuelta hacia la izquierda sobre la acera sur de esta calle (números nones), continuando por la acera sur de la calle República de Ecuador (números nones), hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta a la izquierda por la acera oriente de este Eje en dirección sur hasta llegar a la avenida Hidalgo, dando vuelta a la derecha sobre la acera sur de esta avenida, continuando en dirección poniente, por la misma acera sur de la calle Puente de Alvarado, hasta llegar a Insurgentes Centro, dando vuelta a la izquierda sobre la acera oriente de esta avenida, siguiendo en forma descendente hasta llegar a la calle Valentín Gómez Farías, dando vuelta hacia la izquierda sobre la acera norte de esta calle, hasta llegar a Ignacio Ramírez, dando vuelta hacia la derecha sobre la acera oriente de ésta hasta llegar a Paseo de la Reforma, dando vuelta hacia la derecha sobre la acera sureste de esta avenida, hasta llegar a Insurgentes Sur, dando vuelta hacia la izquierda sobre la acera oriente de esta avenida en dirección sur hasta llegar a la avenida Chapultepec, que es el vértice donde se cierra el perímetro de esta Subdelegación.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 9 Santa Anita.
+Delegación: 3 Suroeste del Distrito Federal.
 
-JURISDICCIÓN: Tomando como punto inicial de partida el vértice formado por la esquina del Eje Central Lázaro Cárdenas y la avenida Fray Servando Teresa de Mier, continuando hacia el oriente por la acera sur de esta avenida hasta llegar al Boulevard Puerto Aéreo, dando vuelta hacia la izquierda sobre la acera oriente de este Boulevard hasta llegar a la Calzada Ignacio Zaragoza, dando vuelta hacia la derecha sobre la acera sureste de esta Calzada hasta llegar al entronque con la carretera federal México-Puebla, continuando sobre la acera suroeste de esta carretera hasta llegar a la calle División del Norte, dando vuelta a la derecha sobre la acera poniente de esta calle, hasta la línea divisoria de los límites de la Delegación Política de Iztapalapa y del Estado de México, continuando por estos límites hacia el sur hasta llegar a la Calzada Tláhuac Chalco, dando vuelta a la derecha sobre acera noreste hasta la calle Acueducto, dando vuelta a la izquierda hasta los límites de las Delegaciones Políticas de Tláhuac y Xochimilco, dando vuelta a la derecha sobre la línea imaginaria de las Delegaciones hasta el cruce imaginario de la calle Luis Delgado, dando vuelta a la derecha acera oriente hasta encontrar Calzada México-Tláhuac, dando vuelta a la izquierda acera norte hasta la calle de Buena Suerte, dando vuelta a la derecha hasta F.C. San Rafael Atlixco, punto de convergencia de las delegaciones políticas Tláhuac e Iztapalapa, dando vuelta a la izquierda en dirección noroeste acera oriente sobre Benito Juárez hasta la Calle de Galeana, dando vuelta a la derecha dirección noreste acera oriente hasta la Calzada Ermita Iztapalapa, dando vuelta a la izquierda dirección noreste, acera norte hasta Anillo Periférico oriente, dando vuelta a la derecha acera oriente hasta el Eje 6 Sur, dando vuelta a la izquierda sobre acera norte hasta Río Churubusco, dando vuelta a la izquierda sobre esta avenida acera norte hasta llegar a la Calzada de la Viga, dando vuelta a la derecha sobre la acera oriente de esta Calzada, continuando en forma ascendente hasta llegar al Viaducto Miguel Alemán, dando vuelta a la izquierda sobre la acera norte del viaducto en dirección poniente, hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta a la derecha por la acera oriente de este eje, en dirección norte en forma ascendente hasta llegar a la avenida Fray Servando Teresa de Mier, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+Jurisdicción: Tomando como punto inicial de partida el vértice formado por la calle Doctor Leopoldo Río de la Loza y el Eje Central Lázaro Cárdenas, se sigue por la acera poniente de este Eje en forma descendente hasta llegar a la avenida Universidad, dando vuelta a la derecha sobre la acera noroeste de esta avenida en dirección suroeste, hasta entroncar con avenida División del Norte, dando vuelta a la izquierda sobre la acera poniente de esta avenida en dirección sureste, hasta Calzada de Tlalpan, dando vuelta a la derecha por la acera poniente de esta Calzada, siguiendo en forma descendente hasta entroncar con la avenida Acueducto, dando vuelta a la izquierda sobre la acera poniente de esta avenida, hasta llegar al Viaducto Tlalpan, siguiendo a la derecha sobre la acera poniente del Viaducto, en forma descendente hasta entroncar con la autopista México-Cuernavaca, continuando por la acera poniente de la autopista en forma descendente hasta los límites de la Delegación de Tlalpan con el Municipio de Huitzilac del Estado de Morelos, dando vuelta a la derecha en dirección noroeste, continuando por los límites mencionados, hasta llegar a los límites con la Delegación Magdalena Contreras y los del Estado de México, prosiguiendo en dirección ascendente por los límites de esta Delegación con los del Estado de México, hasta llegar a los límites de la Delegación Álvaro Obregón con los del Estado de México, continuando por estos límites hasta los de la Delegación Cuajimalpa con el Municipio de Ocoyoacac del mismo Estado, continuando de este punto hacia el oriente por la acera sur de la carretera México-Toluca hasta entroncar con la avenida Constituyentes, prosiguiendo por la acera sur de esta avenida hasta la calle General Pedro Antonio de los Santos, dando vuelta a la izquierda, continuando por la acera sur de avenida Chapultepec hasta entroncar con la calle Doctor Leopoldo Río de la Loza y el Eje Central Lázaro Cárdenas, que es el punto de partida y donde se cierra el perímetro de esta Delegación.
 
-SUBDELEGACIÓN Y OFICINA PARA COBROS: 10 Churubusco.
+Subdelegación y Oficina para Cobros: 6 Piedad Narvarte.
 
-JURISDICCIÓN: Tomando como punto inicial de partida el vértice formado por el Eje Central Lázaro Cárdenas y el Viaducto Río de la Piedad (Miguel Alemán), continuando por la acera Sur de este Viaducto hasta llegar a la Calzada de la Viga, dando vuelta a la derecha por la acera poniente de esta Calzada, prosiguiendo en forma descendente hasta llegar a Río Churubusco, dando vuelta a la izquierda sobre la acera sur de esta avenida prosiguiendo hasta entroncar con el Eje 6 Sur, dando vuelta a la derecha sobre la acera sur y dirección oriente hasta entroncar con el Anillo Periférico oriente, se da vuelta a la derecha y en dirección sur sobre la acera poniente del mencionado Anillo Periférico hasta encontrar la avenida Ermita Iztapalapa, se da vuelta a la izquierda sobre la acera sur y continuar hacia el oriente sobre esta avenida hasta la calle Cuauhtémoc y se da vuelta a la derecha y sobre la acera poniente hasta encontrar la calle Galeana y en dirección suroeste sobre la acera poniente hasta entroncar con la avenida Benito Juárez en dirección sureste sobre la acera poniente hasta los límites de las delegaciones Iztapalapa y Tláhuac, siguiendo los límites delegacionales hasta encontrar la calle Buena Suerte, se da vuelta a la derecha dirección suroeste hasta encontrar la avenida Tláhuac y/o Eje 10 Sur, dando vuelta a la izquierda dirección oriente hasta la calle Luis Delgado, dando vuelta a la derecha hacia el sur sobre la acera poniente hasta la calle Revolución que es el límite de la Colonia Conchita Zapotitlán, y siguiendo la línea imaginaria que marca la calle Luis Delgado hacia el sur hasta encontrar el Canal de Caltongo que marca la división política de las delegaciones Tláhuac y Xochimilco, siguiendo el canal en dirección oriente hasta encontrar la Calzada de la Monera y/o Acueducto, dando vuelta a la izquierda y sobre la acera oriente dirección norte hasta encontrar la Calzada Tláhuac Chalco, dar vuelta a la derecha sobre la acera sur dirección oriente hasta los límites con el Estado de México, continuando hacia el sur sobre estos límites hasta llegar al punto de confluencia de los límites de esta Delegación con la de Milpa Alta y con los del Estado de México, prosiguiendo hacia el sur sobre estos límites hasta coincidir con los del Estado de Morelos y hasta llegar al punto de confluencia de los límites con la Delegación Política de Xochimilco y el Estado de Morelos, prosiguiendo por estos límites hasta coincidir con los límites de la Delegación Política de Tlalpan con los del Estado de Morelos, hasta llegar a la Autopista México-Cuernavaca, dando vuelta a la derecha y continuando hacia el norte sobre la acera oriente de esta Autopista hasta entroncar con el Viaducto Tlalpan, continuando y en dirección norte por la misma acera de este Viaducto hasta la avenida Acueducto, dando vuelta a la izquierda sobre la acera noreste de esta avenida hasta llegar a la Calzada de Tlalpan, dando vuelta a la derecha sobre la acera oriente de esta Calzada dirección norte hasta la avenida División del Norte, dando vuelta a la izquierda sobre la acera noreste de esta avenida y continuando en dirección norte hasta llegar a la avenida Universidad, dando vuelta hacia la derecha sobre la acera sureste de esta avenida dirección norte hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta a la izquierda sobre la acera oriente de este Eje dirección norte hasta llegar al Viaducto Río de la Piedad (Miguel Alemán), que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+Jurisdicción: Tomando como punto de partida el vértice formado por la carretera México-Toluca y el Municipio Ocoyoacac, prosiguiendo por la acera sur de la carretera en dirección oriente, hasta entroncar con la avenida Constituyentes, prosiguiendo hasta llegar a Pedro Antonio de los Santos, continuando por la acera sureste de esta avenida y prosiguiendo por la avenida Chapultepec sobre la acera sur de esta avenida hasta entroncar con avenida Cuauhtémoc, continuando en dirección oriente por la acera sur de Doctor Leopoldo Río de la Loza hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta a la derecha sobre la acera poniente de esta avenida y continuando en forma descendente hasta Viaducto Miguel Alemán, dando vuelta a la derecha y continuando sobre la acera norte de este Viaducto, hasta avenida Cuauhtémoc dando vuelta a la izquierda y continuando por la acera poniente de esta avenida hasta la avenida de Obrero Mundial, dando vuelta a la derecha y continuando por la acera norte de esta avenida en dirección poniente hasta entroncar con el Viaducto Miguel Alemán, continuando por éste, hasta llegar a Insurgentes Sur, dando vuelta a la izquierda por esta avenida sobre la acera poniente hasta llegar a la calle Porfirio Díaz, dando vuelta a la derecha sobre la acera norte de esta calle, hasta llegar a Augusto Rodín, dando vuelta a la derecha sobre la acera oriente de esta calle hasta llegar a la avenida San Antonio, dando vuelta a la izquierda sobre la acera norte de esta avenida, hasta entroncar con la avenida Camino a las Minas continuando como límite la Barranca que corre paralela a las calles Loma de Capula, Alma Sudi, Gustavo Díaz Ordaz, Sebastián Lerdo de Tejada, hasta entroncar con Vicente Guerrero y Puerto Juárez, continuando por esta última hasta Puerto Mazatlán ambas aceras, dando vuelta a la izquierda por esta calle hasta llegar a la avenida Santa Lucía, dando vuelta a la derecha sobre la acera norte de esta avenida hasta entroncar con la avenida Tamaulipas continuando por la acera norte de esta avenida hasta llegar a los límites coincidentes de las Delegaciones de Álvaro Obregón y Cuajimalpa, dando vuelta a la izquierda y continuando en forma descendente sobre estos mismos límites hasta llegar al punto de confluencia de los límites de la Delegación de Cuajimalpa con los de la de Álvaro Obregón y el Estado de México, continuando hacia el norte sobre los límites coincidentes de la Delegación de Cuajimalpa y los del Estado de México, señalados por las Mojoneras: Cochinito, Gachupina, Muñeco, Teponaxtla, Gavilán, Chinaco, Ojo de Agua, B. del Pedregal, Cerro del Ángel, Carbonera del Rey y Tepehuisco, hasta llegar al entronque con la carretera México-Toluca y el Municipio de Ocoyoacac, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+
+Subdelegación y Oficina para Cobros: 7 Del Valle.
+
+Jurisdicción: Tomando como punto inicial de partida el vértice formado por el Viaducto Miguel Alemán y el Eje Central Lázaro Cárdenas, continuando hacia el sur por la acera poniente de este Eje, hasta llegar a avenida Universidad, dando vuelta a la derecha sobre la acera noroeste de esta avenida, descendiendo hasta llegar a División del Norte, dando vuelta a la izquierda sobre la acera suroeste de esta avenida, hasta llegar a calle de Cáliz dando vuelta a la derecha ambas aceras hasta la calle de Tallo, dando vuelta a la derecha ambas aceras hasta la calle Diego Rivera, continuando hasta entroncar a calle Museo dando vuelta a la derecha hasta calle Tepetlapa a la izquierda por esta avenida hasta la calle Netzahualcóyotl, continuando hasta Coras, dando vuelta a la derecha por Rey Moctezuma, continuar a la izquierda a calle de las Flores, dando vuelta a la derecha hasta Ahuacatitla (Las Torres) continuando por la acera noroeste de esta avenida hasta llegar a avenida Copilco, dando vuelta a la derecha sobre la acera norte de esta avenida hasta llegar a avenida Universidad, siguiendo sobre la acera oriente de esta avenida en dirección norte hasta la avenida Río Mixcoac, dando vuelta a la izquierda por la acera norte en dirección poniente hasta avenida de los Insurgentes Sur siguiendo por la acera oriente de esta avenida en dirección norte hasta llegar a Viaducto Miguel Alemán, dando vuelta a la derecha prosiguiendo por la acera sur del Viaducto en dirección oriente hasta llegar al entronque de éste con Obrero Mundial, prosiguiendo por la acera sur de esta avenida en dirección oriente hasta la avenida Cuauhtémoc, dando vuelta a la izquierda y continuando por la acera oriente de esta última avenida en dirección norte hasta llegar al Viaducto Miguel Alemán, dando vuelta a la derecha y continuando por la acera sur de este Viaducto en dirección oriente hasta llegar al Eje Central Lázaro Cárdenas, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+
+Subdelegación y Oficina para Cobros: 8 San Ángel.
+
+Jurisdicción: Tomando como punto inicial de partida el vértice formado por la avenida Insurgentes Sur y calle Porfirio Díaz, continuando por la acera sur de esta calle hasta llegar a Augusto Rodín, dando vuelta a la derecha por la acera poniente de esta calle hasta llegar a avenida San Antonio dando vuelta a la izquierda sobre la acera sur de esta avenida, hasta entroncar con la avenida Camino de las Minas, tomando como límite el lado sur de la Barranca que corre paralela a las calles Lomas de Capula, Alma Sudi, Gustavo Díaz Ordaz, Sebastián Lerdo de Tejada hasta entroncar con Vicente Guerrero y Puerto Juárez continuando por esta última hasta Puerto Mazatlán, únicamente como límite, correspondiendo las aceras de estas calles a la Subdelegación 6 Piedad Narvarte, dando vuelta a la izquierda en forma descendente hasta avenida Santa Lucía dando vuelta a la derecha sobre la acera sur de esta avenida hasta entroncar con Tamaulipas, continuando sobre la acera sur de esta avenida hasta llegar a los límites coincidentes de las Delegaciones Álvaro Obregón y Cuajimalpa, dando vuelta a la izquierda y continuando en forma descendente sobre estos mismos límites hasta llegar al punto de confluencia de los límites de la Delegación de Cuajimalpa con los de la de Álvaro Obregón y el Estado de México, continuando hacia el sur por los límites de la Delegación de Álvaro Obregón y el Estado de México, hasta llegar al punto de confluencia de los límites de la Delegación de Magdalena Contreras con los del Estado de México, continuando sobre estos mismos límites hasta llegar al punto de confluencia de los límites de la Delegación de Tlalpan con los del Estado de Morelos, prosiguiendo por estos mismos límites hasta llegar a la autopista México-Cuernavaca, dando vuelta a la izquierda sobre la acera poniente de esta autopista hasta entroncar con el Viaducto Tlalpan, continuando por la acera poniente de este Viaducto hasta llegar a avenida Acueducto, dando vuelta a la izquierda sobre la acera noreste de esta avenida hasta llegar a la Calzada de Tlalpan, dando vuelta a la derecha sobre la acera poniente de esta Calzada hasta llegar a División del Norte, dando vuelta a la izquierda sobre la acera suroeste de esta avenida hasta llegar a la calle de Cáliz dando vuelta a la izquierda, únicamente como límite hasta la calle de Tallo dando vuelta a la derecha hasta Diego Rivera, continuando hasta entroncar con la calle Museo ambas aceras, vuelta a la derecha hasta calle Tepetlapa a la izquierda por esta avenida hasta calle Netzahualcóyotl, continuando hasta Coras dando vuelta a la derecha hasta Rey Moctezuma, dando vuelta a la izquierda hasta calle de Las Flores dando vuelta a la derecha hasta calle de Ahuacatitla (Las Torres); todas estas calles únicamente como límite correspondiendo ambas aceras a la Subdelegación 7 Del Valle, continuando por la acera sureste de esta avenida hasta llegar a la avenida Copilco, dando vuelta a la derecha sobre la acera sur de esta avenida hasta llegar a la avenida Universidad, siguiendo sobre la acera poniente de esta avenida en dirección noreste, prosiguiendo en forma ascendente hasta la avenida Río Mixcoac, dando vuelta a la izquierda y prosiguiendo por la acera sur de esta avenida en dirección poniente, hasta la avenida Insurgentes Sur, dando vuelta a la derecha y continuando por la acera poniente de esta avenida en dirección norte hasta la calle de Porfirio Díaz, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+
+Delegación: 4 Sureste del Distrito Federal.
+
+Jurisdicción: Tomando como punto de partida el vértice formado por la esquina del Eje Central Lázaro Cárdenas y Fray Servando Teresa de Mier, continuando hacia el oriente por la acera sur de esta avenida, hasta llegar a Boulevard Puerto Aéreo, dando vuelta a la izquierda sobre la acera oriente de este Boulevard, hasta llegar a Ignacio Zaragoza, dando vuelta hacia la derecha sobre la acera suroeste de esta Calzada, hasta llegar al entronque con la carretera federal México-Puebla, continuando sobre la acera suroeste de esta carretera, hasta llegar a la calle División del Norte, dando vuelta a la derecha sobre la acera poniente de esta calle hasta la línea divisoria de los límites de la Delegación de Iztapalapa con los del Estado de México, continuando por estos límites hacia el sur hasta llegar al punto de confluencia de los límites de la Delegación de Tláhuac y los del Estado de México, continuando hacia el sur sobre estos mismos límites, hasta llegar al punto de confluencia de los límites de la Delegación de Milpa Alta y los del Estado de México, prosiguiendo hacia el sur sobre estos límites hasta coincidir con los de esta propia Delegación y los del Estado de Morelos, hasta llegar al punto de confluencia de sus límites con los de la Delegación de Xochimilco y los del Estado de Morelos, continuando por estos límites en dirección poniente hasta coincidir con los límites de la Delegación de Tlalpan con los del Estado de Morelos, hasta entroncar con la autopista México-Cuernavaca, dando vuelta a la derecha y continuando hacia el norte sobre la acera oriente de esta autopista, hasta entroncar con el Viaducto Tlalpan, continuando por la acera oriente de este Viaducto, hasta llegar a la avenida Acueducto, dando vuelta a la izquierda sobre la acera sureste de esta avenida, hasta llegar a la Calzada de Tlalpan, dando vuelta a la derecha sobre la acera oriente de esta Calzada, hasta llegar a la avenida División del Norte, dando vuelta hacia la izquierda sobre la acera noreste de esta avenida hasta llegar a la avenida Universidad, dando vuelta hacia la derecha sobre la acera sureste de esta avenida, hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta hacia la izquierda sobre la acera oriente de este Eje, hasta llegar a la avenida Fray Servando Teresa de Mier, que es el punto de partida y donde se cierra el perímetro de esta Delegación.
+
+Subdelegación y Oficina para Cobros: 9 Santa Anita.
+
+Jurisdicción: Tomando como punto inicial de partida el vértice formado por la esquina del Eje Central Lázaro Cárdenas y la avenida Fray Servando Teresa de Mier, continuando hacia el oriente por la acera sur de esta avenida hasta llegar al Boulevard Puerto Aéreo, dando vuelta hacia la izquierda sobre la acera oriente de este Boulevard hasta llegar a la Calzada Ignacio Zaragoza, dando vuelta hacia la derecha sobre la acera sureste de esta Calzada hasta llegar al entronque con la carretera federal México-Puebla, continuando sobre la acera suroeste de esta carretera hasta llegar a la calle División del Norte, dando vuelta a la derecha sobre la acera poniente de esta calle, hasta la línea divisoria de los límites de la Delegación de Iztapalapa y del Estado de México, continuando por estos límites hacia el sur hasta llegar a la Calzada Tláhuac Chalco, dando vuelta a la derecha sobre la acera noreste hasta la calle Acueducto, dando vuelta a la izquierda hasta los límites de las Delegaciones de Tláhuac y Xochimilco, dando vuelta a la derecha sobre la línea imaginaria de las Delegaciones hasta el cruce imaginario de la calle Luis Delgado, dando vuelta a la derecha acera oriente hasta encontrar Calzada México-Tláhuac, dando vuelta a la izquierda acera norte hasta la calle de Buena Suerte, dando vuelta a la derecha hasta F.C. San Rafael Atlixco, punto de convergencia de las Delegaciones Tláhuac e Iztapalapa, dando vuelta a la izquierda en dirección noroeste acera oriente sobre Benito Juárez hasta calle de Galeana, dando vuelta a la derecha dirección noreste acera oriente hasta la Calzada Ermita Iztapalapa, dando vuelta a la izquierda dirección noreste, acera norte hasta Anillo Periférico Oriente, dando vuelta a la derecha acera oriente hasta el Eje 6 Sur, dando vuelta a la izquierda sobre acera norte hasta Río Churubusco, dando vuelta a la izquierda sobre esta avenida acera norte hasta llegar a la Calzada de la Viga, dando vuelta a la derecha sobre la acera oriente de esta Calzada, continuando en forma ascendente hasta llegar al Viaducto Miguel Alemán, dando vuelta a la izquierda sobre la acera norte del Viaducto en dirección poniente, hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta a la derecha por la acera oriente de este Eje, en dirección norte en forma ascendente hasta llegar a la avenida Fray Servando Teresa de Mier, que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
+
+Subdelegación y Oficina para Cobros: 10 Churubusco.
+
+Jurisdicción: Tomando como punto inicial de partida el vértice formado por el Eje Central Lázaro Cárdenas y el Viaducto Río de la Piedad (Miguel Alemán), continuando por la acera sur de este Viaducto hasta llegar a la Calzada de la Viga, dando vuelta a la derecha por la acera poniente de esta Calzada, prosiguiendo en forma descendente hasta llegar a Río Churubusco, dando vuelta a la izquierda sobre la acera sur de esta avenida prosiguiendo hasta entroncar con el Eje 6 Sur, dando vuelta a la derecha sobre la acera sur y dirección oriente hasta entroncar con el Anillo Periférico Oriente, se da vuelta a la derecha y en dirección sur sobre la acera poniente del mencionado Anillo Periférico hasta encontrar la avenida Ermita Iztapalapa, se da vuelta a la izquierda sobre la acera sur y continuar hacia el oriente sobre esta avenida hasta la calle Cuauhtémoc y se da vuelta a la derecha y sobre la acera poniente hasta encontrar la calle Galeana y en dirección suroeste sobre la acera poniente hasta entroncar con la avenida Benito Juárez en dirección sureste sobre la acera poniente hasta los límites de las Delegaciones de Iztapalapa y Tláhuac, siguiendo los límites Delegacionales hasta encontrar la calle Buena Suerte, se da vuelta a la derecha dirección suroeste hasta encontrar la avenida Tláhuac y/o Eje 10 Sur, dando vuelta a la izquierda dirección oriente hasta la calle Luis Delgado, dando vuelta a la derecha hacia el sur sobre la acera poniente hasta la calle Revolución que es el límite de la Colonia Conchita Zapotitlán, y siguiendo la línea imaginaria que marca la calle Luis Delgado hacia el sur hasta encontrar el Canal de Caltongo que marca la división política de las Delegaciones Tláhuac y Xochimilco, siguiendo el canal en dirección oriente hasta encontrar la Calzada de la Moneda y/o Acueducto, dando vuelta a la izquierda y sobre la acera oriente dirección norte hasta encontrar la Calzada Tláhuac Chalco, dar vuelta a la derecha sobre la acera sur dirección oriente hasta los límites con el Estado de México, continuando hacia el sur sobre estos límites hasta llegar al punto de confluencia de los límites de esta Delegación con la de Milpa Alta y con los del Estado de México, prosiguiendo hacia el sur sobre estos límites hasta coincidir con los del Estado de Morelos y hasta llegar al punto de confluencia de los límites con la Delegación de Xochimilco y el Estado de Morelos, prosiguiendo por estos límites hasta coincidir con los límites de la Delegación de Tlalpan con los del Estado de Morelos, hasta llegar a la autopista México-Cuernavaca, dando vuelta a la derecha y continuando hacia el norte sobre la acera oriente de esta autopista hasta entroncar con el Viaducto Tlalpan, continuando y en dirección norte por la misma acera de este Viaducto hasta la avenida Acueducto, dando vuelta a la izquierda sobre la acera noreste de esta avenida hasta llegar a la Calzada de Tlalpan, dando vuelta a la derecha sobre la acera oriente de esta Calzada dirección norte hasta la avenida División del Norte, dando vuelta a la izquierda sobre la acera noreste de esta avenida y continuando en dirección norte hasta llegar a la avenida Universidad, dando vuelta hacia la derecha sobre la acera sureste de esta avenida dirección norte hasta llegar al Eje Central Lázaro Cárdenas, dando vuelta a la izquierda sobre la acera oriente de este Eje dirección norte hasta llegar al Viaducto Río de la Piedad (Miguel Alemán), que es el punto de partida y donde se cierra el perímetro de esta Subdelegación.
 
 ###### ARTÍCULO 160.
 
 Tratándose de la incorporación voluntaria de las personas a que se refiere el artículo 13 de la Ley, éstas recibirán los servicios del Instituto y cumplirán sus obligaciones en los términos del convenio celebrado. El Delegado del ámbito territorial en donde se les presten los servicios, será quien designe el órgano operativo que realizará las funciones de afiliación y cobranza.
 
-## TÍTULO OCTAVO. DE LOS ÓRGANOS DELEGACIONALES
+> <small>N. DE E. LOS CAPITULOS, SECCIONES Y ARTICULOS DEL PRESENTE TITULO SE REUBICARON Y PASARON A FORMAR PARTE DEL TITULO SEPTIMO</small>
 
-## TÍTULO NOVENO. DE OTRAS UNIDADES ADMINISTRATIVAS
+> <small>(DEROGADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-### CAPÍTULO TERCERO. DE LOS ÓRGANOS OPERATIVOS
+## TÍTULO OCTAVO
+
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+## TÍTULO NOVENO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 161.
 
-El Consejo Técnico podrá crear unidades administrativas que le estarán jerárquicamente subordinadas; éstas tendrán autonomía de gestión en los aspectos técnicos, administrativos y financieros y se sujetarán a las disposiciones que expida el Consejo Técnico y los demás órganos superiores del Instituto.
-
-La creación de dichas unidades administrativas estará sujeta a la autorización que, en el ámbito de sus respectivas competencias, emitan la Secretaría de Contraloría y Desarrollo Administrativo y la Secretaría de Hacienda y Crédito Público de conformidad con los artículos 31 fracción XXIV y 37 fracción XVIII de la Ley Orgánica de la Administración Pública Federal y el artículo 58 del Presupuesto de Egresos de la Federación 1998.
+(DEROGADO, D.O.F. 19 DE JUNIO DE 2003)
 
 ###### ARTÍCULO 162.
 
-Las unidades administrativas contarán con los órganos de gobierno y decisión, gerencias, áreas administrativas, operativas y técnicas que establezca el Manual de Organización que apruebe el Consejo Técnico del Instituto.
+(DEROGADO, D.O.F. 19 DE JUNIO DE 2003)
 
 ## TÍTULO DÉCIMO. DE LAS SUPLENCIAS
 
 ### CAPÍTULO ÚNICO
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 163.
 
-Las ausencias temporales del Director General serán cubiertas por el Secretario General del Instituto.
+El Director General será suplido en sus ausencias por el Secretario General del Instituto, los Directores de Incorporación y Recaudación del Seguro Social, de Planeación y Finanzas, de Administración y Calidad, Jurídico, por el Coordinador de Asuntos Contenciosos o por el Jefe de la División Normativa Fiscal, en el orden indicado.
 
-En los juicios de amparo o en general en cualquier otro procedimiento jurisdiccional, el Director General del Instituto Mexicano del Seguro Social será suplido en sus ausencias, indistintamente, por los titulares de la Dirección Jurídica, la Coordinación Normativo Contenciosa y la División Normativa Fiscal y de Asuntos Especiales.
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+ARTÍCULO 163 A. El Secretario General, los directores, titulares de unidad y coordinadores generales, serán suplidos para el despacho de los asuntos de su correspondiente competencia por el titular de la unidad administrativa adscrito en el área de su responsabilidad que dichos servidores públicos designen.
+
+Cuando el servidor público respectivo tenga a su cargo la emisión de actos administrativos, en los términos señalados en la Ley Federal de Procedimiento Administrativo, el acuerdo de suplencia y designación respectivo, deberá ser firmado por el Director General y publicado en el Diario Oficial de la Federación.
+
+El Director de la Unidad Médica de Alta Especialidad, será suplido durante sus ausencias por el inferior jerárquico que al efecto designe.
 
 ###### ARTÍCULO 164.
 
@@ -2837,13 +3557,15 @@ El Director Regional será suplido durante sus ausencias por el Delegado que él
 
 El Delegado será suplido durante sus ausencias por el titular de la jefatura delegacional de servicios que él designe y, en el caso de no haber esta designación, por el jefe de servicios de la propia Delegación que el Director Regional determine.
 
-###### ARTÍCULO 166.
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
-El subdelegado para efecto del despacho de los asuntos fiscales será suplido durante sus ausencias por el Jefe de la Oficina para Cobros del Instituto Mexicano del Seguro Social.
+###### ARTICULO 166.
 
-El Jefe de la Oficina para Cobros del Instituto Mexicano del Seguro Social, será suplido durante sus ausencias por el inferior jerárquico que al efecto designe el titular de la subdelegación de la que dependa dicha oficina.
+El subdelegado para efecto del despacho de los asuntos fiscales será suplido durante sus ausencias por el Jefe de la Oficina para Cobros del Instituto.
 
-Para los efectos del Reglamento del Recurso de Inconformidad, las ausencias del Secretario General del Instituto o del Secretario del Consejo Consultivo Delegacional, serán suplidas por el Prosecretario del Consejo Técnico o el Jefe del Departamento Delegacional Contencioso, respectivamente.
+El Jefe de la Oficina para Cobros del Instituto, será suplido durante sus ausencias por el inferior jerárquico que al efecto designe el titular de la subdelegación de la que dependa dicha oficina.
+
+Para los efectos del Reglamento del Recurso de Inconformidad, las ausencias del Secretario General del Instituto o del Secretario del Consejo Consultivo Delegacional, serán suplidas en términos del artículo 163 A de este Reglamento y por el Jefe del Departamento Delegacional Contencioso, respectivamente.
 
 ## TRANSITORIOS
 
@@ -2873,7 +3595,7 @@ CUARTO. Las grabaciones en cinta magnetofónica de las sesiones ordinarias de la
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de noviembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario del Trabajo y Previsión Social, José Antonio González Fernández.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 13 DE OCTUBRE DE 1999.
 
@@ -2886,3 +3608,25 @@ D.O.F. 17 DE DICIEMBRE DE 2001.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en el artículo siguiente.
 
 SEGUNDO. Las modificaciones a las estructuras del Instituto Mexicano del Seguro Social a que se refiere este Decreto, aprobadas por su Consejo Técnico mediante Acuerdos números 177/2001 de fecha 25 de abril de 2001 y 424/2001 del 22 de agosto del mismo año, se harán de conformidad con los montos autorizados a dicho Instituto en el correspondiente Presupuesto de Egresos de la Federación y la renivelación salarial correspondiente a dichas estructuras operará a partir de la fecha que fue autorizada por el Consejo Técnico de ese Instituto.
+
+D.O.F. 19 DE JUNIO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los artículos transitorios siguientes.
+
+SEGUNDO. En los términos y plazos que establezca el Consejo Técnico, los recursos humanos, materiales y financieros, así como, en su caso, los archivos y expedientes con los que actualmente cuentan las delegaciones del Instituto, pasarán a formar parte de las Unidades Médicas de Alta Especialidad, para el ejercicio de las atribuciones conferidas en este Decreto. Para tal efecto, se deberán formalizar las actas de entrega recepción correspondientes, en términos de las disposiciones jurídicas aplicables.
+
+Las delegaciones del Instituto seguirán siendo las responsables de la operación de todos los servicios institucionales, hasta en tanto se concluya la transferencia a que se alude en el párrafo anterior.
+
+TERCERO. El personal de las delegaciones que en aplicación del presente Decreto se adscriba a las Unidades Médicas de Alta Especialidad, en ninguna forma resultará afectado en sus derechos ni prestaciones.
+
+CUARTO. En los términos y plazos que establezca el Consejo Técnico, se instalarán las Juntas de Gobierno de las Unidades Médicas de Alta Especialidad.
+
+QUINTO. En los términos y plazos que establezca el Consejo Técnico, los recursos humanos, materiales y financieros, así como, en su caso, los archivos y expedientes con los que actualmente cuentan las unidades administrativas del Instituto que se modifican, pasarán a las unidades administrativas que correspondan, de conformidad con las atribuciones conferidas en este Decreto. Para tal efecto, se deberán formalizar las actas de entrega recepción correspondientes, en términos de las disposiciones jurídicas aplicables.
+
+Las unidades administrativas que a la entrada en vigor del presente Decreto, tengan asuntos pendientes, serán responsables de su trámite y resolución, hasta en tanto se concluya la transferencia a que se alude en el párrafo anterior.
+
+SEXTO. Las menciones que se hagan en la Ley del Seguro Social, sus reglamentos y demás disposiciones jurídicas o administrativas emitidas por el Consejo Técnico del Instituto, a las Direcciones de Afiliación y Cobranza, de Administración, Organización y Calidad, se entenderán referidas a las unidades administrativas a que se alude en los artículos 78, 80 y 80 A del presente ordenamiento.
+
+SÉPTIMO. En términos del Decreto por el que se expide la Ley del Servicio Profesional de Carrera en la Administración Pública Federal; se reforman la Ley Orgánica de la Administración Pública Federal y la Ley de Presupuesto, Contabilidad y Gasto Público Federal; y se adiciona la Ley de Planeación, publicado en el Diario Oficial de la Federación el día 10 de abril de 2003, las referencias que en este ordenamiento se hacen al Reglamento Interior de la Secretaría de la Función Pública, se entenderán referidas al Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, en tanto se emite el reglamento correspondiente.
+
+OCTAVO. Para los efectos del artículo 150 de este Reglamento, tratándose de las facultades del Delegado que son concurrentes con las señaladas para las Subdelegaciones en el artículo 153 del presente Ordenamiento, el Consejo Técnico, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto, mediante reglas de carácter general, que se publicarán en el Diario Oficial de la Federación, determinará los supuestos en que dichas facultades concurrentes serán ejercidas por el Delegado. Entretanto, dichas facultades concurrentes serán ejercidas por las Subdelegaciones en el ámbito de su circunscripción territorial.
