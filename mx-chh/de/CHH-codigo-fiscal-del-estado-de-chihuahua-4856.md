@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1970-12-30"
+last_updated: "1971-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1971.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -845,7 +845,7 @@ III.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, la b
 
 151.- Las plantas ensambladoras, sus distribuidores y los demás comerciantes en el ramo de automóviles, causarán el impuesto por los vehículos que estando registrados en las Oficinas de Tránsito a su nombre, estén al servicio de la negociación o de sus funcionarios y empleados.
 
-152.- Quedan exceptuados del impuesto los tenedores y los usuarios de los vehículos a que se refieren las siguientes fracciones:
+152.- Quedan exceptuados del impuestos (sic) los tenedores y los usuarios de los vehículos a que se refieren las siguientes fracciones:
 
 I.- Modelos anteriores en 12 años o más al de la aplicación de la Ley;
 
@@ -1684,6 +1684,8 @@ IX.- Los intereses, el sobreprecio, o cualquier otra prestación que aumente los
 ### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
 
 #### SECCION PRIMERA. OBJETO
+
+> <small>N. DE E. SE SUSPENDE LA APLICACION DEL PRESENTE DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO DEL DECRETO No. 521-71, PUBLICADO EN P.O. 24 DE ABRIL DE 1971.</small>
 
 202.- El Impuesto sobre el Comercio y la Industria grava, en los términos de los artículos siguientes, los ingresos que se obtengan:
 
@@ -3952,3 +3954,13 @@ Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimie
 Palacio de Gobierno del Estado de Chihuahua, a veintitrés de diciembre de mil novecientos setenta.
 
 El Gobernador Constitucional del Estado, Lic. Oscar Flores.- El Secretario General de Gobierno, Lic. Ramiro Cota Martínez.- El Tesorero General del Estado, C.P. Jorge Navarro Ayala.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 24 DE ABRIL DE 1971.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO SEGUNDO DEL DECRETO No. 521-71, QUE A LA LETRA DICE:</small>
+
+"ARTICULO SEGUNDO.- Mientras se encuentra en vigor el convenio que se aprueba se suspende la aplicación de las disposiciones del Código Fiscal del Estado que en materia del Impuesto sobre el Comercio y la Industria gravan los ingresos por las operaciones previstas en el artículo 202 del Código Fiscal del Estado, en cuanto sean diversos a los autorizados por el artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y en el convenio de Coordinación de 8 de marzo de 1971 que se aprueba".
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación.
