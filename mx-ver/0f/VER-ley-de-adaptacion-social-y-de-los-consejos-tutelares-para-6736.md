@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adaptacion-social-y-de-los-consejos-tutelares-para-6736"
 country: "mx"
 rank: "ley"
 publication_date: "1980-09-30"
-last_updated: "1986-09-23"
+last_updated: "1998-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ADAPTACION SOCIAL Y DE LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en el Numero Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el martes 30 de septiembre de 1980.
 
@@ -187,39 +187,15 @@ VII.- Las demás atribuciones que le resulten en su calidad de Consejero y las q
 
 20.- Los Consejeros, según resulte pertinente tendrán las mismas atribuciones que las fracciones I, II, III, IV y VI del artículo 15 asignan a los que integran el Consejo Tutelar Central.
 
-### CAPITULO TERCERO. DE LA PROCURADURIA DE LA DEFENSA DEL MENOR
+(SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-21.- Se crea la Procuraduría de la Defensa del Menor, que se integrará con:
+### CAPITULO TERCERO
 
-I.- Un Procurador; y
+21.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-II.- Los auxiliares adscritos a los Consejos Tutelares.
+22.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-El Procurador y los auxiliares deberán reunir los requisitos a que se refiere el artículo 11 de esta Ley y para su designación se estará a lo dispuesto por el artículo 17 de la misma.
-
-22.- Para los efectos de esta Ley, el Procurador de la Defensa del Menor tendrá las siguientes funciones:
-
-I.- Dirigirá y vigilará el ejercicio de las atribuciones de los Auxiliares de la Procuraduría adscritos a Consejo Tutelar;
-
-II.- Acordar la resolución que recaiga en los expedientes que deba conocer la Procuraduría para los efectos del artículo 62;
-
-III.- Acordar con el Presidente del Consejo que corresponda, lo relativo a la aplicación de la medida que señala el artículo 77; y
-
-IV.- Las demás funciones que determinen las leyes o los reglamentos.
-
-23.- Los Auxiliares de la Procuraduría de la Defensa del Menor, tendrán las funciones siguientes:
-
-I.- Intervenir en todo procedimiento ante el Consejo al que se les adscriba, en los supuestos del artículo 4º de esta Ley, desde que el menor quede a disposición de aquel órgano, vigilando la fiel observancia del procedimiento, concurriendo cuando el menor comparezca ante los Consejeros proponiendo la práctica de pruebas, exponiendo los argumentos que considere necesarios e interponiendo recursos;
-
-II.- Recibir instancias, quejas e informes de quienes ejerzan la patria potestad, la tutela o la guarda sobre el menor y hacerlos valer ante el órgano que corresponda, según resulte procedente, en el curso del procedimiento;
-
-III.- Visitar a los menores internos en el Centro de Observación y examinar las condiciones en que se encuentren, poniendo en conocimiento del Presidente del Consejo las irregularidades que adviertan para inmediata corrección;
-
-IV.- Visitar los Centros de Adaptación y observar la ejecución de las medidas impuestas, dando cuenta a la autoridad competente de las irregularidades que encuentren, para su pronta corrección;
-
-V.- Vigilar que los menores no sean detenidos en lugares destinados para la reclusión de adultos; y
-
-VI.- Las demás funciones que determinan las leyes o los reglamentos.
+23.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
 ### CAPITULO CUARTO. DE LOS IMPEDIMENTOS
 
@@ -461,121 +437,53 @@ Si la medida es la señalada en la fracción V del mismo artículo, además de l
 
 88.- Las autoridades que violen los ordenamientos de este capítulo, serán responsables por el abuso cometido, de acuerdo con la Ley Penal.
 
-## TITULO III. DE LA OBSERVACION Y ADAPTACION SOCIAL DE LOS MENORES INFRACTORES
+(SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-### CAPITULO PRIMERO. DE LOS CENTROS DE OBSERVACION Y ADAPTACION SOCIAL
+## TITULO III
 
-89.- En el lugar donde tengan su residencia oficial los Consejos Tutelares, habrá Centros de Observación que albergarán a los menores que queden a su disposición, cuando lo considere necesario el Consejero que conozca en tanto se dicta resolución.
+(SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-90.- Los Centros de Observación tienen por objeto el conocimiento de la personalidad del menor mediante la observación directa y constante, realizando los estudios conducentes a tal fin conforme a las técnicas aplicables.
+### CAPITULO PRIMERO
 
-91.- Habrá también, Centros de Adaptación Social para Menores Infractores que albergarán a quienes ordene el Consejo competente en los términos de la presente Ley.
+89.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-92.- Los Centros de Adaptación Social tendrán por objeto corregir, educar e integrar física, moral y socialmente al menor infractor, cuando le sea encomendado en cumplimiento de las medidas decretadas por el Consejo competente.
+90.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-93.- En los Centros se alojarán los menores bajo sistema de clasificación, atendiendo a su sexo, edad, condiciones de personalidad, estado de salud y demás circunstancias pertinentes. En consecuencia, los métodos y técnicas que se adopten deberán ser aplicados bajo las condiciones siguientes:
+91.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-I.- En un ambiente de libertad y dignidad, dentro de un marco general de afecto, orientación y disciplina, a semejanza de un hogar bien organizado;
+92.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-II.- En un medio material, cultural y moral que permita el correcto desenvolvimiento de la personalidad del menor y facilite su constante adaptación social;
+93.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-III.- Con un personal técnico de custodia, adecuado para observar la personalidad y conducta del menor y para rendir informes a los Consejeros que contengan elementos confiables para la resolución; y
+94.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-IV.- Mediante una actuación conjunta y de colaboración entre el personal y los menores, con el propósito de hacer posible una participación científica y dinámica que lleve a obtener logros concretos de interés individual y general.
-
-94.- Se pondrá especial atención a las relaciones del menor, facilitándole las visitas familiares, siempre y cuando éstas no resulten perjudiciales para su desenvolvimiento.
-
-95.- Queda prohibido todo maltrato o castigo, físico o moral, en contra de los menores internos en los Centros. Sin embargo, los Directores podrán tomar discrecionalmente cualquiera de las medidas siguientes:
-
-I.- Persuasión o advertencia;
-
-II.- Amonestación en privado;
-
-III.- Autoproposición de castigo;
-
-IV.- Exclusión temporal de comisiones honoríficas, de grupos deportivos y de diversión; y
-
-V.- Suspensión temporal de permisos o de recreo común.
+95.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
 ### CAPITULO SEGUNDO. ORGANIZACION Y ATRIBUCIONES DEL PERSONAL DE LOS CENTROS
 
-96.- Los Centros de Observación y los Centros de Adaptación Social para Menores Infractores, contarán con el personal debidamente capacitado para ejercer funciones de dirección, administración, estudio, tratamiento y custodia; que será el siguiente:
+96.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-I.- Un Director;
+97.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-II.- Un Cuerpo Técnico de Observación, con Secciones: Médica, Pedagógica, Psicológica y de Trabajo Social; y
+98.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-III.- El personal administrativo y de custodia que determine el presupuesto.
+99.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-97.- El Director deberá reunir los mismos requisitos que se exigen a los consejeros; en su caso podrá dispensarse el requisito del título, siempre y cuando demuestre tener la experiencia y conocimientos necesarios para el desempeño del cargo.
+100.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-98.- Los integrantes del Cuerpo Técnico de Observación deberán reunir los requisitos siguientes:
+101.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-I.- Los señalados en las fracciones I, II, V y VI del artículo 10 de esta Ley; y
+102.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-II.- Poseer título debidamente registrado, según sea el caso, de alguna de las profesiones correspondientes a las ciencias señaladas en la fracción II del artículo 96 de este Ordenamiento.
+103.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-99.- El personal a que se refiere el artículo 96 de esta Ley, será nombrado y removido por el Jefe del Departamento de Prevención y Readaptación Social, previa consulta con el Ejecutivo.
+(SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-100.- La selección del personal, se hará tomando en cuenta su vocación, preparación académica y antecedentes, procurando que sea el más idóneo para la correcta aplicación del sistema y medidas tutelares.
+### CAPITULO TERCERO
 
-El personal de custodia deberá ser capacitado antes de que preste sus servicios.
+104.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
-101.- El Director tendrá las atribuciones siguientes:
-
-I.- Poner a los menores infractores a disposición del Consejo Tutelar competente, inmediatamente después que ingresen al Centro;
-
-II.- Dirigir el personal adscrito al Centro;
-
-III.- Cumplir con las resoluciones del Consejo Tutelar de la adscripción, girando para ello las órdenes pertinentes al personal técnico, administrativo y de custodia dependiente del Centro;
-
-IV.- Vigilar constantemente la buena marcha del Centro y hacer toda gestión o promoción que considere útil para ampliar la calidad y la capacidad de los servicios prestados a los menores;
-
-V.- Responsabilizarse por la administración del presupuesto asignado al Centro y autorizar los gastos que se realicen en el mismo, con motivo de su funcionamiento;
-
-VI.- Informar al Presidente del Consejo Tutelar sobre la administración del Centro y cumplimiento de las funciones de su personal, de los resultados generales obtenidos mediante el sistema y en relación al trato diario que se aplique a los menores;
-
-VII.- Estar en contacto constante con su personal y con los menores, a través de pláticas individuales, de conjunto o por medio de indicaciones especiales;
-
-VIII.- Representar al Centro en sus relaciones con el exterior;
-
-IX.- Cuidar que los estudios a que alude el artículo 102 de esta Ley, se realicen conforme a las más modernas normas científicas aplicables y dentro del plazo concedido;
-
-X.- Vigilar se cumplan las resoluciones de los Consejos, girando para ello las órdenes pertinentes al personal dependiente del Centro;
-
-XI.- Entregar a la brevedad posible el informe a que se refiere el segundo párrafo del artículo 81; y
-
-XII.- Las demás que resulten inherentes a sus atribuciones y las que le confieren las leyes y reglamentos.
-
-102.- Corresponde a los integrantes del Cuerpo Técnico de Observación:
-
-I.- Hacer una investigación integral del menor mediante un estudio pormenorizado de éste, llenando según su especialidad las fichas:
-
-a).- Médica, que comprenderá: antecedentes patológicos hereditarios y personales, estado actual, datos antropométricos y su interpretación, diagnóstico, pronóstico e indicaciones higiénicas y terapéuticas;
-
-b).- Pedagógica, que contenga: historia escolar, normalidad y causas de retraso educativo, coeficiente de aprovechamiento, conocimientos extraescolares, aptitudes mentales, carácter y conducta, orientación vocacional y opinión educativa;
-
-c).- Psicológica, referida fundamentalmente a los siguientes datos: edad mental y cronológica del menor, aptitudes mentales, estudio de sus instintos afectivos y sus voliciones, actitudes especiales, carácter y conducta, diagnóstico y pronóstico e indicaciones para el tratamiento; y
-
-d).- De trabajo social, que aportará por lo menos: sus generales y datos biográficos, procedencia, causas de ingreso, conducta, medio familiar y extrafamiliar en que se ha desenvuelto el menor, la forma en que realizó la conducta infractora y si obró por propia voluntad o influido, aconsejado o auxiliado por otras personas y quienes fueron éstas y diagnóstico.
-
-II.- Diagnosticar y entregar la ficha al Consejero Instructor, en un término máximo de ocho días contados a partir de la fecha de ingreso del menor;
-
-III.- Contestar todas y cada una de las preguntas que sobre el menor y su personalidad le formule el Consejero;
-
-IV.- En el procedimiento de revisión y los consecuentes a la interposición del recurso, hacer los estudios que le solicite el Consejero;
-
-V.- Dentro de su especialidad, formular sugerencias sobre medidas generales y específicas que se deban aplicar para la adaptación social de los menores infractores y presentarlos al Presidente del Consejo Tutelar Central; y
-
-VI.- Las demás que resulten inherentes a sus atribuciones y las que le confieran las leyes y reglamentos.
-
-103.- No existe impedimento alguno para que los Consejeros puedan realizar los estudios técnicos de observación correspondiente a sus profesiones, siempre y cuando se carezca de tal profesionista en el Cuerpo Técnico.
-
-### CAPITULO TERCERO. DE LAS INSTITUCIONES AUXILIARES
-
-104.- Se consideran Instituciones Auxiliares, aquellas donde sean colocados los menores para la aplicación de medidas de tratamiento, conforme a lo dispuesto en el artículo 71, fracción IV de esta Ley.
-
-105.- Los encargados de dichas instituciones, vigilarán se apliquen las medidas que el Consejo Tutelar haya determinado y, para los efectos de la revisión, deberán rendir los informes que se les solicite.
+105.- (SIN EFECTOS POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ, G.O. 8 DE SEPTIEMBRE DE 1998)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -620,3 +528,23 @@ G.O. 23 DE SEPTIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" Organo del Gobierno del Estado.
+
+G.O. 8 DE SEPTIEMBRE DE 1998.
+
+PRIMERO.- La presente ley iniciará su vigencia el día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Las disposiciones de la Ley de Adaptación Social y de los Consejos Tutelares para Menores Infractores referidas a la Procuraduría de la Defensa del Menor y a los Centros de Observación y Adaptación Social de los Menores Infractores, así como las disposiciones sobre tratamiento y adaptación social quedan sin efecto a partir de la vigencia de la presente ley.
+
+TERCERO. En un término no mayor de sesenta días a partir de la vigencia de la presente ley, se instalará el Consejo Estatal de Asistencia Social y Protección de Niños y Niñas.
+
+CUARTO. En un término no mayor de un año a partir de la vigencia de la presente ley se instalará el Consejo Municipal de Asistencia Social y Protección de Niños y Niñas en cada uno de los municipios de la entidad.
+
+QUINTO. El Gobierno del estado adscribirá e incorporará los recursos humanos, financieros y materiales necesarios para el ejercicio de las funciones del Consejo Estatal de Asistencia Social y Protección de Niños y Niñas y sus órganos.
+
+SEXTO. Los recursos humanos, financieros y materiales de cualquier naturaleza que hayan pertenecido al Centro de Observación y Adaptación Social de Menores Infractores se destinarán al Centro de Observación y Adaptación Social de Niños y Niñas en Conflicto con la Ley Penal.
+
+SÉPTIMO. Se respetarán los derechos laborales adquiridos de los trabajadores que se transfieran al Consejo Estatal de Asistencia Social y Protección de Niños y Niñas y a los Centros de Observación y Adaptación Social de Niños y Niñas en Conflicto con la Ley Penal.
+
+OCTAVO. En tanto se establecen los Centros Regionales, el Centro de Observación y Adaptación Social de Niños y Niñas en Conflicto con la Ley Penal prestará sus servicios en toda la entidad.
+
+NOVENO. Se derogan todas las disposiciones legales que se opongan a la presente ley.
