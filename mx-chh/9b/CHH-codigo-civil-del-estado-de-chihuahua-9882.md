@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2002-07-20"
+last_updated: "2002-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1771,32 +1771,6 @@ IV.- El Ministerio Público en todos los casos.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-C) ADOPCION PLENA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-D) ADOPCION INTERNACIONAL
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
 B) ADOPCION SIMPLE
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
@@ -1850,6 +1824,32 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+C) ADOPCION PLENA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+D) ADOPCION INTERNACIONAL
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
 
 ## TITULO OCTAVO. DE LA PATRIA POTESTAD
 
@@ -4567,693 +4567,1335 @@ Empezará a contarse el nuevo término de la prescripción en caso de reconocimi
 
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-1183.- Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1184.- La herencia se defiere por la voluntad del testador o por disposición de la Ley. La primera se llama testamentaria, y la segunda legítima.
+1183.- La sucesión es la substitución o subrogación de una persona en la herencia de otra.
 
-1185.- El testador puede disponer del todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
+La herencia es el conjunto de bienes de una persona física cuando ésta fallece y de todos sus derechos y obligaciones que no se extinguen por la muerte.
+
+El heredero es el adquiriente, a titulo universal, por causa de muerte, de todos y cada uno de los bienes, derechos y obligaciones de un patrimonio en liquidación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1184.- La sucesión se realiza por testamento o por disposición de la ley. La primera se llama testamentaria y, la segunda, legítima o intestamentaria.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1185.- El testador puede disponer de una parte o de la totalidad de sus bienes. La parte de que no disponga se regulará por los preceptos de la sucesión legítima.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 1186.- El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que hereda.
+
+Las acciones que se intenten contra los herederos por razón de la sucesión no los obligan sino en proporción a sus cuotas, salvo en todo caso, la responsabilidad que les resulte cuando sea solidaria o invisible su obligación con el autor de la herencia, por ocultación de bienes o por dolo o fraude en la administración de bienes indivisos.
 
 1187.- El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
 
 1188.- Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
 
-1189.- Si el autor de la herencia y sus herederos o legatarios perecieren en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la trasmisión de la herencia o legados.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1190.- A la muerte del autor de la sucesión los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
+1189.- Si el autor de la sucesión y sus herederos o legatarios perecieren en el mismo evento o en el mismo día, sin que se pueda determinar a ciencia cierta quién o quiénes murieron antes, se presumirá que todos murieron al mismo tiempo y, por tanto, no habrá lugar entre ellos a la transmisión de la herencia o del legado, en su caso.
 
-1191.- Cada heredero puede disponer del derecho que tiene en la masa hereditaria; pero no puede disponer de las cosas que forman la sucesión.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1190.- La propiedad de los bienes hereditarios se trasmite a los herederos, por ministerio de la ley, en el momento de la muerte del autor de la sucesión. Si son varios los herederos, mientras no se hace la división, todos adquirirán derecho a la masa hereditaria como a un patrimonio común. Habiendo legatarios, los derechos de éstos se limitarán a los bienes que les habrán de corresponder.
+
+La posesión de los bienes hereditarios se transmite a los herederos y a los ejecutores universales, también por ministerio de la ley, desde el momento mismo de la muerte del autor de la sucesión, salvo lo dispuesto en el artículo 194 y observando en su caso lo establecido en el primer párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1191.- Cada heredero puede disponer del derecho que le corresponde en la masa hereditaria; pero no puede disponer de los bienes que formen el haber de la herencia. Si ha recibido la posesión, podrá realizar también el uso o aprovechamiento de los mismos.
 
 1192.- El legatario adquiere derecho al legado puro y simple, así como al de día cierto desde el momento de la muerte del testador.
 
-1193.- El heredero o legatario no pueden enajenar el derecho que tienen en la herencia sino después de la muerte de aquél a quien heredan.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1194.- El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de Notario, judicialmente o por medio de dos testigos, las bases o condiciones en que ha concretado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de ese derecho, el vendedor está obligado a consumar la venta a su favor, conforme a las bases concertadas. Por el solo lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en este artículo, será nula.
+1193.- Quien ha sido instituido heredero o legatario no puede enajenar su derecho a la herencia, sino después de la muerte de aquél a quien sucedan.
 
-1195.- Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá quién hace uso del derecho.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1196.- El derecho concedido en el artículo 1194 cesa si la enajenación se hace a un coheredero.
+1194.- El coheredero que quiera vender a un extraño su derecho hereditario debe notificar a los demás coherederos por medio de Notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta, a fin de que aquellos, dentro del término de ocho días naturales, hagan uso del derecho del tanto.
+
+Si los herederos hacen uso de este derecho, el vendedor está obligado a realizar la venta a su favor, conforme a las bases concertadas. Por el sólo transcurso del plazo de ocho días sin hacerlo valer, caduca el derecho del tanto. La venta no producirá efecto legal alguno si se hace omitiéndose la notificación prevista en este artículo, o en circunstancias, condiciones o términos distintos al contenido de la notificación, siempre que en este último caso se realice en términos más favorables que a los ofrecidos al coheredero.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1195.- Si dos o más herederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá a quien corresponde el uso del derecho.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1196.- Para determinar la proporción a que se refiere el artículo anterior, son aplicables en lo conducente los artículos del 1500 al 1506 de este Código.
 
 ## TITULO SEGUNDO. DE LA SUCESION POR TESTAMENTO
 
 ### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
 
-1197.- Testamento es un acto personalísimo, revocable y libre, por el cual una persona capaz dispone de sus bienes y derechos, y declara o cumple deberes para después de su muerte.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1198.- No pueden testar en el mismo acto dos o más personas, ya en provecho recíproco, ya en favor de un tercero.
+1197.- El testamento es un acto jurídico unilateral, personalísimo, solemne, revocable y libre, por el cual una persona capaz, dispone de sus bienes y derechos y declara o cumple obligaciones para después de su muerte.
 
-1199.- Ni la subsistencia del nombramiento del heredero o de los legatarios, ni la designación de las cantidades que a ellos correspondan, pueden dejarse al arbitrio de un tercero.
+El testamento y su revocación no pueden hacerse por medio de mandatario.
 
-1200.- Cuando el testador deje como herederos o legatarios a determinadas clases formadas por número ilimitado de individuos, tales como los pobres, los huérfanos, los ciegos, etc., puede encomendar a un tercero la distribución de las cantidades que deje para ese objeto, y la elección de las personas a quienes deban aplicarse, observándose lo dispuesto en el artículo 1233.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1201.- El testador puede encomendar a un tercero que haga la elección de los actos de beneficencia o de los establecimientos públicos o privados a los cuales deban aplicarse los bienes que legue con ese objeto, así como la distribución de las cantidades que a cada uno correspondan.
+1198.- No pueden testar en el mismo acto dos o más personas, excepto en el supuesto a que se refiere la fracción IV del artículo 1468 de este Código.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1199.- No pueden dejarse al arbitrio de un tercero: la institución de los herederos o legatarios; la subsistencia de su nombramiento, ni la designación de las cantidades que a ellos correspondan, excepto lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1200.- Puede el testador encomendar a un tercero:
+
+I.- La distribución de las cantidades que deje a grupos determinados como huérfanos, discapacitados, enfermos, pobres y demás personas beneficiadas por las leyes de asistencia social;
+
+II.- La individualización y elección de las personas a quienes deban aplicarse las cantidades a que se refiere la fracción anterior; y
+
+III.- La elección de los actos de beneficencia de los establecimientos públicos o privados de asistencia, a los cuales deban aplicarse los bienes que legue con ese objeto y la determinación de las cantidades que a cada uno corresponda.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1201.- En el caso del artículo anterior, el Juez y el Ministerio Público deberán vigilar:
+
+I.- La elección o individuación de los grupos de personas mencionadas en la fracción I del artículo anterior;
+
+II.- La administración, distribución y ejecución de la herencia o legado; y
+
+III.- El cumplimiento de las disposiciones de orden público en esta materia.
 
 1202.- La disposición hecha en términos vagos en favor de los parientes del testador, se entenderá que se refiere a los parientes más próximos, según el orden de la sucesión legítima.
 
-1203.- Las disposiciones hechas a título universal o particular no tienen ningún efecto cuando se funden en una causa expresa, que resulte errónea, si ha sido la única que determinó la voluntad del testador.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1203.- Serán nulas las disposiciones hechas a título universal o particular, cuando se funden en una causa expresa que resulte errónea, si ha sido la única que determinó la voluntad del testador.
 
 1204.- Toda disposición testamentaria deberá entenderse en el sentido literal de las palabras, a no ser que aparezca con manifiesta claridad que fue otra la voluntad del testador.
 
-1205.- En caso de duda sobre la inteligencia o interpretación de una disposición testamentaria, se observará lo que parezca más conforme a la intención del testador, según el tenor del testamento y la prueba auxiliar que a este respecto pueda rendirse por los interesados.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1206.- Si un testamento se pierde por un evento ignorado por el testador, o por haber sido ocultado por otra persona, podrán los interesados exigir su cumplimiento si demuestran plenamente el hecho de la pérdida o de la ocultación, logran igualmente comprobar lo contenido en el mismo testamento y que en su otorgamiento se llenaron todas las formalidades legales.
+1205.- En caso de duda sobre el alcance o interpretación de una disposición testamentaria, se observará lo que parezca más conforme a la voluntad del testador, según el tenor del testamento y, en su caso, de la prueba adicional que a este respecto pueda rendirse por los interesados.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1206.- Si un testamento se pierde por un evento ignorado por el testador, o por haber sido ocultado por otra persona, podrán los interesados exigir su cumplimiento si demuestran plenamente el hecho de la pérdida o de la ocultación, el contenido del testamento y que en su otorgamiento se llenaron todas las formalidades legales.
 
 1207.- La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
 
 ### CAPITULO II. DE LA CAPACIDAD PARA TESTAR
 
-1208.- Pueden testar todos aquéllos a quienes la ley no prohibe expresamente el ejercicio de ese derecho.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1208.- Pueden testar todas las personas a quienes la ley no prohibe expresamente el ejercicio de ese derecho.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 1209.- Están incapacitados para testar:
 
-I.- Los menores que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
+I.- Los menores que no hayan cumplido catorce años de edad.
 
-II.- Los que habitual o accidentalmente no disfrutan de su cabal juicio.
+II.- Los menores de edad, mayores de catorce años que no se han emancipado.
 
-1210.- Es válido el testamento hecho por un demente en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones siguientes.
+III.- Los que habitual o accidentalmente no disfruten de su cabal juicio.
 
-1211.- Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste la familia de aquél, presentará por escrito una solicitud al Juez que corresponda. El Juez nombrará dos médicos de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El Juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar.
+Para juzgar de la capacidad del testador se atenderá al estado en que se halle al hacer el testamento.
 
-1212.- Se hará constar en acta formal el resultado del reconocimiento.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1213.- Si éste fuere favorable, se procederá desde luego a la formación de testamento ante notario público, con todas las solemnidades que se requieren para los testamentos públicos abiertos.
+1210.- Es válido el testamento hecho por un demente en un intervalo de lucidez, siempre que se observen las prescripciones establecidas en los artículos siguientes.
 
-1214.- Firmarán el acta además del Notario y de los testigos, el Juez y los médicos que intervinieron para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio, y sin este requisito y su constancia, será nulo el testamento.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1215.- Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
+1211.- Cuando un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y a falta de éste cualquier miembro de la familia de aquél, presentará por escrito una solicitud al Juez que corresponda, para que se haga constar dicha lucidez.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1212.- El Juez, al recibir la solicitud, mandará formar expediente y nombrará dos médicos, de preferencia alienistas, para que examinen al enfermo y dictaminen acerca de su estado mental.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1213.- El Juez, asistido de su secretario, obligación de ser diligente al concurrir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar. Igual obligación de preguntar tiene el agente del Ministerio Público, que también deberá concurrir al acto.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1214.- El resultado del reconocimiento se hará constar en acta formal y si el mismo fuere favorable, se procederá desde luego a la formulación del testamento ante notario público, con todas las formalidades que se requieren para los testamentos públicos abiertos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1215.- Firmarán el acta, además del Notario y los testigos, el Juez, el Secretario, el agente del Ministerio Público y los médicos, poniéndose al pie del testamento razón expresa de que durante todo el acto conservó el paciente lucidez de juicio. Sin este requisito y su constancia será nulo el testamento.
+
+De ser posible, se agregará al apéndice de la escritura pública en la que se haga constar el testamento, copia autorizada de la constancia judicial relativa al examen del testador.
 
 ### CAPITULO III. DE LA CAPACIDAD PARA HEREDAR
 
-1216.- Todos los habitantes del Estado, de cualquier edad que sean, tienen capacidad para heredar, y no pueden ser privados de ella, de un modo absoluto; pero con relación a ciertas personas y a determinados bienes, pueden perderla por alguna de las causas siguientes:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1216.- Todas las personas tienen capacidad para heredar y no pueden ser privadas de ella de un modo absoluto; pero con relación a ciertas personas y a determinados bienes, puede perderse la capacidad por alguna de las causas siguientes:
 
 I.- Falta de personalidad;
 
-II.- Por infracción antisocial;
+II.- Delito, en los términos del artículo 1219 de este ordenamiento;
 
-III.- Presunción de influencia contraria a la libertad del testador, o a la verdad o integridad del testamento;
+III.- Presunción de influencia contraria a la libertad del testador o a la verdad o integridad del testamento;
 
 IV.- Falta de reciprocidad internacional;
 
-V.- Utilidad publica;
+V.- Causa de interés público;
 
 VI.- Renuncia o remoción de algún cargo conferido en el testamento.
 
-1217.- Son incapaces de adquirir por testamento o por intestado, a causa de falta de personalidad, los que no estén concebidos al tiempo de la muerte del autor de la herencia, o los concebidos cuando no sean viables, conforme a lo dispuesto en el artículo 314.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1218.- Será, no obstante, válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas durante la vida del testador.
+1217.- Son incapaces de adquirir por testamento o por intestado, a causa de falta de personalidad, los que no estén concebidos al tiempo de la muerte del autor de la sucesión, o los que aun estando concebidos, no nazcan vivos o no sean viables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1219.- Son incapaces de adquirir por testamento o por intestado:
+1218.- Será válida la disposición hecha a favor de los hijos que nacieren de ciertas y determinas personas durante la vida del testador, aunque en el momento de hacer el testamento no estén concebidos o no hayan nacido.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1219.- Por causa de delito son incapaces de heredar por testamento o por intestado:
 
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
 
-II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena capital o de prisión, aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
+II.- El que haya presentado denuncia o querella contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, por delito que merezca pena de prisión, aún cuando aquéllas sean fundadas, si fuere su descendiente, ascendiente, cónyuge o hermano, a no ser que ese acto haya sido preciso para que el denunciante o querellante salvará su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
 
-III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
+III.- El cónyuge que mediante sentencia ejecutoria ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
 IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
 
-V.- El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus hijos, de su cónyuge, de sus ascendientes o de sus hermanos;
+V.- El que haya sido condenado por un delito que merezca pena de prisión cometido contra el autor de la sucesión, de los hijos, cónyuge, ascendientes o hermanos de éste;
 
 VI.- El padre y la madre respecto del hijo expuesto por ellos;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
-
 VII.- Los ascendientes que abandonaren, prostituyeren o corrompieren a sus descendientes, respecto de los ofendidos;
 
-VIII.- Los demás parientes del autor de la herencia que, teniendo obligación de darle alimentos, no la hubieren cumplido;
+VIII.- Los demás parientes del autor de la sucesión que, teniendo obligación de darle alimentos, no la hubieren cumplido;
 
-IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitado para trabajar y sin recursos, no se cuidaren de recogerlo, o de hacerlo recoger en establecimientos de beneficencia;
+IX.- Los parientes del autor de la sucesión que, hallándose éste imposibilitado para trabajar y sin recursos, no se ocupen de recogerlo o de hacerlo recoger en establecimientos de beneficencia;
 
 X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
 
-XI.- El que conforme al Código de Defensa Social, fuere culpable de supresión, sustitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos;
+XI.- El que conforme al Código Penal, fuere culpable de alterar la filiación o el estado civil, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos; y
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+XII.- El que haya sido condenado por delito doloso cometido en contra del autor de la herencia.
 
-XII.- El que haya sido condenado por delito cometido en contra del autor de la herencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1220.- Se aplicará también lo dispuesto en la acción II del artículo anterior, aunque el autor de la herencia no fuere descendiente, ascendiente, cónyuge o hermano del acusador, si la acusación es declarada calumniosa.
+1220.- La incapacidad para heredar, establecida por el artículo anterior, priva también del derecho a los alimentos que por ley debieron corresponderle al excluido, siempre que exista una resolución judicial que así lo declare.
 
-1221.- Cuando la parte agraviada de cualquiera de los modos que expresa el artículo 1219 perdonare al ofensor, recobrará éste el derecho de suceder al ofendido, por intestado, si el perdón consta por declaración auténtica o por hechos indubitables.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1222.- La capacidad para suceder por testamento, sólo se recobra si después de conocido el agravio, el ofendido instituye heredero al ofensor o revalida su institución anterior con las mismas solemnidades que se exigen para testar.
+1221.- Cuando la parte agraviada, en cualquiera de los casos señalados en el artículo 1219 de este ordenamiento, perdonare al ofensor, recobrará éste el derecho de suceder por intestado al ofendido si el perdón consta por declaración auténtica o por hechos indubitables.
 
-1223.- En los casos de intestado, los descendientes del incapaz de heredar conforme al artículo 1219, heredarán al autor de la sucesión, no debiendo ser excluidos por la falta de su padre; pero éste no puede, en ningún caso, tener en los bienes de la sucesión, el usufructo ni la administración que la ley acuerda a los padres sobre los bienes de sus hijos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1224.- Por presunción de influjo contrario a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad de aquél, estando ya aprobadas las cuentas de la tutela.
+1222.- La capacidad para suceder por testamento, sólo se recobra si después de conocido el agravio, el ofendido instituye heredero al ofensor o revalida su institución anterior con las mismas formalidades que se exigen para testar.
 
-1225.- La incapacidad a que se refiere el artículo anterior no comprende a los ascendientes ni hermanos del menor, observándose en su caso lo dispuesto en la fracción X del artículo 1219.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1226.- Por presunción de influjo contrario a la libertad del testador, son incapaces de heredar por testamento, el médico que haya asistido a aquél durante su última enfermedad, si entonces hizo su disposición testamentaria así como el cónyuge, ascendientes, descendientes y hermanos del facultativo, a no ser que los herederos instituidos sean también herederos legítimos.
+1223.- En los casos de intestado, los descendientes del incapaz de heredar conforme al artículo 1219, heredarán al autor de la sucesión, no debiendo ser excluidos por la incapacidad de sus padres; pero éstos no pueden, en ningún caso, tener en los bienes de la sucesión la administración que la ley otorga a los padres sobre los bienes de sus hijos.
 
-1227.- Por presunción de influjo contrario a la verdad e integridad del testamento, son incapaces de heredar, el Notario y los testigos que intervinieron en él, y sus cónyuges, descendientes, ascendientes o hermanos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1228.- Los ministros de los cultos no pueden ser herederos por testamento de los ministros del mismo culto o de un particular con quien no tenga parentesco dentro del cuarto grado. La misma incapacidad tienen los ascendientes, descendientes, cónyuges y hermanos de los ministros, respecto de las personas a quienes éstos hayan prestado cualquiera clase de auxilios espirituales, durante la enfermedad de que hubieren fallecido o de quienes hayan sido directores espirituales los mismos ministros.
+1224.- Por presunción de influjo contrario a la libertad del autor de la sucesión, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo.
 
-1229.- El notario que a sabiendas autorice un testamento en que se contravenga lo dispuesto en los tres artículos anteriores, sufrirá la pena de privación de oficio.
+Esta disposición no será aplicable cuando el testador, al adquirir la mayoría de edad no hubiera revocado el testamento y se hayan aprobado las cuentas de la tutela anterior.
 
-1230.- Los extranjeros y las personas morales, son capaces de adquirir bienes por testamento o por intestado; pero su capacidad tiene las limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y en las respectivas leyes reglamentarias de los artículos constitucionales. Tratándose de extranjeros, se observará también lo dispuesto en el artículo siguiente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1231.- Por falta de reciprocidad internacional, son incapaces de heredar por testamento o por intestado, a los habitantes del Estado, los extranjeros que, según las leyes de su país, no puedan testar o dejar por intestado sus bienes a favor de los mexicanos.
+1225.- La incapacidad a que se refiere el artículo anterior, no comprende a los tutores que sean ascendientes o hermanos del menor, salvo que hayan procedido en los términos de la fracción X del artículo 1219.
 
-1232.- La herencia o legado que se deje a un establecimiento público, imponiéndole algún gravamen o bajo alguna condición, sólo serán válidos si el Gobierno los aprueba.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1233.- Las disposiciones testamentarias hechas en favor de los pobres en general, o del alma, sin designación de personas, se entenderán hechas en favor de la Beneficencia Privada del Estado, a menos que expresamente resulte otra cosa del testamento y en aquel caso, el albacea designará la Institución a que haya de aplicarse la herencia o legado. Si el albacea no hiciere la designación dentro del primer mes siguiente a la aceptación de su cargo, la hará la Junta de Beneficencia Privada. El representante de la Institución designada por el albacea o por la Junta, será parte en el Juicio Testamentario.
+1226.- Por presunción de influjo contrario a la libertad del testador, también son incapaces de heredar por testamento: el médico que haya asistido a aquél durante su última enfermedad, si entonces hizo su disposición testamentaria, así como el cónyuge o la persona con quien el médico mismo viva maritalmente; los ascendientes, descendientes y hermanos o medios hermanos del facultativo, a no ser que los herederos instituidos sean también herederos legítimos.
 
-1234.- Por renuncia o remoción de un cargo, son incapaces de heredar por testamento, los que, nombrados en él, tutores, curadores o albaceas, hayan rehusado, sin justa causa, el cargo, o por mala conducta hayan sido separados judicialmente de su ejercicio.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1235.- Lo dispuesto en la primera parte del artículo anterior, no comprende a los que, desechada por el Juez la excusa, hayan servido el cargo.
+1227.- Por presunción de influjo contrario a la libertad del testador, los ministros de los cultos, sus ascendientes, descendientes, hermanos, cónyuge o persona con quien hagan o hayan hecho vida marital, así como las Asociaciones Religiosas a que los primeros pertenezcan, no podrán ser legatarios o herederos por testamento de las personas a quienes dichos ministros hayan dirigido o auxiliado espiritualmente, y no tengan parentesco dentro del cuarto grado.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1228.- Por presunción de influjo contrario a la verdad e integridad del testamento, son incapaces de heredar por este medio: el Notario y los testigos que hayan intervenido en aquél, así como sus ascendientes, descendientes, hermanos, cónyuge, o persona que viva maritalmente con el Notario o los testigos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1229.- El Notario que a sabiendas autorice un testamento en que se contravenga lo dispuesto en los artículos anteriores, sufrirá la sanción de privación de oficio. El Juez impondrá esta pena, oyendo al Notario y al Consejo de Notarios.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1230.- La capacidad para heredar de los extranjeros se rige por lo dispuesto en la legislación federal.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1231.- Por causa de interés público son incapaces de adquirir bienes inmuebles, sea por sucesión testamentaria o intestamentaria, aquellos a quienes la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias de ésta, prohíben la adquisición de esa clase de bienes.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1232.- Las herencias o legados que se dejen a un establecimiento público imponiéndose algún gravamen o bajo alguna condición, sólo serán válidos si el Ejecutivo del Estado los aprueba.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1233.- Las disposiciones testamentarias hechas a favor de los pobres en general, o del alma, sin designación de personas, se entenderán hechas a favor de la Asistencia Privada del Estado, a menos que expresamente resulte otra cosa del testamento. En ese caso, el albacea designará la institución a que haya de aplicarse la herencia o legado.
+
+Si el albacea no hiciere la designación dentro del primer mes siguiente a la aceptación de su cargo, la hará la Junta de Asistencia Privada.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1234.- Por renuncia o remoción de un cargo son incapaces de heredar por testamento los que, nombrados en él como tutores, hayan rehusado sin justa causa el cargo, o hayan sido separados judicialmente de su ejercicio, salvo que la cesación en el cargo de albacea, haya sido motivada por no haber terminado el juicio sucesorio en el plazo establecido.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1235.- Lo dispuesto en la primera parte del artículo anterior, no comprende a los que se hubieren excusado y el Juez haya desechado la excusa, habiendo desempeñado cabalmente el cargo.
 
 1236.- Las personas llamadas por la ley para desempeñar la tutela legítima y que rehusen sin causa legítima desempeñarla, no tienen derecho de heredar a los incapaces de quienes deben ser tutores.
 
-1237.- Para que el heredero pueda suceder, basta que sea capaz al tiempo de la muerte del autor de la herencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1238.- Si la institución fuere condicional, se necesitará, además, que el heredero sea capaz al tiempo en que se cumpla la condición.
+1237.- Para que el heredero o legatario puedan suceder, basta que tengan capacidad de heredar al tiempo de la muerte del autor de la sucesión.
 
-1239.- El heredero por testamento, que muera antes que el testador o antes de que se cumpla la condición; el incapaz de heredar y el que renuncie a la sucesión no trasmiten ningún derecho a sus herederos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1238.- Si la institución de heredero es condicional, para que éste pueda suceder se requiere que sea capaz de heredar al tiempo en que se cumpla la condición.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1239.- El heredero por testamento que muera antes que el testador o antes de que se cumpla la condición; el que sea incapaz de heredar y el que renuncie a la sucesión, no transmiten ningún derecho a sus herederos.
 
 1240.- En los casos del artículo anterior la herencia pertenece a los herederos legítimos del testador, a no ser que éste haya dispuesto otra cosa.
 
-1241.- El que hereda en lugar del excluido tendrá las mismas cargas y condicionas que legalmente se habían puesto a aquel.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1241.- El que hereda en lugar del excluido, tendrá las mismas cargas y condiciones que legalmente se hubieran impuesto a aquél.
 
 1242.- Los deudores hereditarios que fueren demandados y que no tengan el carácter de herederos, no podrán oponer, al que esté en posesión del derecho de heredero o legatario la excepción de incapacidad.
 
 1243.- A excepción de los casos comprendidos en las fracciones X y XI del artículo 1219 la incapacidad para heredar a que se refiere ese artículo, priva también de los alimentos que correspondan por ley.
 
-1244.- La incapacidad no produce el efecto de privar al incapaz de lo que hubiere de percibir, sino después de declarada en juicio, a petición de algún interesado, no pudiendo promoverla el juez de oficio.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1245.- No puede deducirse acción para declarar la incapacidad, pasados tres años desde que el incapaz esté en posesión de la herencia o legado; salvo que se trate de incapacidades establecidas en vista del interés público, las cuales en todo tiempo pueden hacerse valer.
+1244.- La incapacidad para heredar produce el efecto de privar al incapaz de lo que hubiere de percibir, hasta después de declarada en juicio la incapacidad a petición de algún interesado, sin que pueda el Juez hacerlo de oficio.
 
-1246.- Si el que entró en posesión de la herencia y la pierde después por incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá; mas el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1245.- No puede deducirse acción para declarar la incapacidad para heredar, cuando han transcurridos más de tres años desde que el incapaz esté en posesión de la herencia o legado, salvo que se trate de las incapacidades establecidas a favor de la asistencia privada, las cuales en todo tiempo pueden hacerse valer.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1246.- Cuando el que entró en posesión de la herencia hubiere enajenado o gravado todos o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad, al ser declarada ésta, el contrato subsistirá, pero el heredero incapaz estará obligado a indemnizar al heredero legítimo de todos los daños y perjuicios.
+
+Lo dispuesto en el párrafo anterior se aplicará también al heredero aparente, con respecto a los contratos que haya celebrado con tercero de buena fe.
 
 ### CAPITULO IV. DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
 
-1247.- El testador es libre para establecer condiciones al disponer de sus bienes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1248.- Las condiciones impuestas a los herederos y legatarios, en lo que no esté prevenido en este Capítulo, se regirán por las reglas establecidas para las obligaciones condicionales.
+1247.- El testador es libre para establecer condiciones al disponer de sus bienes, siempre que no sean contrarias a la ley o las buenas costumbres. En su caso se observará lo dispuesto en el artículo 1284.
 
-1249.- La falta de cumplimiento de alguna condición impuesta al heredero o al legatario, no perjudicará a éstos siempre que hayan empleado todos los medios necesarios para cumplir aquélla.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1250.- La condición física o legalmente imposible de dar o de hacer, impuesta al heredero o legatario, anulan su institución.
+1248.- Las condiciones impuestas a los herederos y legatarios, en lo no previsto en este capítulo, se regirán por las reglas establecidas para las obligaciones condicionales.
 
-1251.- Si la condición que era imposible al tiempo de otorgar el testamento, dejare de serlo a la muerte del testador, será valida.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1249.- La falta de cumplimiento de alguna condición impuesta al heredero o al legatario no perjudicará a éstos, si demuestran haber empleado los medios necesarios para cumplir aquélla.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1250.- La condición de dar o de hacer impuesta al heredero o legatario, anula su institución cuando es física o legalmente imposible.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1251.- La institución de heredero o legatario será válido, si la condición que era imposible al tiempo de otorgarse el testamento, dejare de serlo a la muerte del testador.
 
 1252.- Es nula la institución hecha bajo la condición de que el heredero o legatario hagan en su testamento alguna disposición en favor del testador o de otra persona.
 
-1253.- La condición que solamente suspende por cierto tiempo la ejecución del testamento, no impedirá que el heredero o el legatario adquieran derecho a la herencia o legado y lo trasmitan a sus herederos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1254.- Cuando el testador no hubiere señalado plazo para el cumplimiento de la condición, la cosa legada permanecerá en poder del albacea, y al hacerse la partición se asegurará competentemente el derecho del legatario para el caso de cumplirse la condición, observándose, además las disposiciones establecidas para hacer la partición cuando alguno de los herederos es condicional.
+1253.- La condición que solamente suspende por cierto tiempo la ejecución del testamento, no impedirá que, a la muerte del testador, el heredero o el legatario adquieran derecho a la herencia o legado y la transmitan a sus herederos.
 
-1255.- Si la condición es puramente potestativa de dar o hacer alguna cosa, y el que ha sido gravado con ella ofrece cumplirla; pero aquél a cuyo favor se estableció rehusa aceptar la cosa o el hecho, la condición se tiene por cumplida.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1256.- La condición potestativa se tendrá por cumplida aun cuando el heredero o legatario hayan prestado la cosa o el hecho antes de que se otorgara el testamento, a no ser que pueda reiterarse la prestación, en cuyo caso no será ésta obligatoria sino cuando el testador haya tenido conocimiento de la primera.
+1254.- Cuando en el testamento no se hubiere señalado plazo para el cumplimiento de la condición, la cosa legada permanecerá en poder del albacea, y al hacerse la partición se asegurará adecuadamente el derecho del legatario para el caso de cumplirse la condición, observándose además las disposiciones establecidas para hacer la partición cuando alguno de los herederos es condicional.
 
-1257.- En el caso final del artículo que precede, corresponde al que debe pagar el legado la prueba de que el testador tuvo conocimiento de la primera prestación.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1258.- La condición de no dar o de no hacer, se tendrá por no puesta.
+1255.- La condición se tendrá por cumplida cuando, siendo puramente potestativa de dar o de hacer alguna cosa, el que ha sido gravado con ella ofrece cumplirla; pero aquel en cuyo favor se estableció rehúsa aceptar la cosa o el hecho.
 
-1259.- La condición de no impugnar el testamento o alguna de las disposiciones que contenga, so pena de perder el carácter de heredero o legatario, se tendrá por no puesta.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1260.- Cuando la condición fuere casual o mixta, bastará que se realice en cualquier tiempo, vivo o muerto el testador, si éste no hubiere dispuesto otra cosa.
+1256.- La condición potestativa se deberá cumplir aún cuando el heredero o el legatario haya entregado la cosa o el hecho antes del otorgamiento del testamento, a no ser que ya no pueda reiterarse la prestación.
 
-1261.- Si la condición se hubiere cumplido, al hacerse el testamento ignorándolo el testador, se tendrá por cumplida, mas si lo sabia sólo se tendrá por cumplida si ya no puede existir o cumplirse de nuevo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1262.- La condición impuesta al heredero o legatario, de tomar o dejar de tomar estado, se tendrá por no puesta.
+1257.- En el caso del artículo anterior, aunque pueda reiterarse la prestación, ésta será obligatoria únicamente si el testador tuvo conocimiento de la primera prestación y a pesar de ello la estableció en el testamento.
 
-1263.- Podrá, sin embargo, dejarse a alguno el uso o la habitación, una prestación periódica, una pensión alimenticia, o el usufructo que equivalga a esa prestación o pensión, por el tiempo que permanezca soltero o viudo. La pensión alimenticia se fijará de acuerdo con lo prevenido en el artículo 288.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1264.- La condición que se ha cumplido existiendo la persona a quien se impuso, se retrotrae al tiempo de la muerte del testador, y desde entonces deben abonarse los frutos de la herencia o legado, a menos que el testador haya dispuesto expresamente otra cosa.
+1258.- Para los efectos de los dos artículos anteriores, salvo prueba en contrario, se presume que el testador impuso la condición a sabiendas de que el heredero o legatario podrían prestar la cosa o el hecho una vez ocurrida la muerte del propio testador. En su caso se observará lo dispuesto por el artículo 1261 de este ordenamiento.
 
-1265.- La carga de hacer alguna cosa se considera como condición resolutoria.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1259.- Será nula de pleno derecho y por tanto se tendrá por no puesta, sin necesidad de declaración judicial alguna, la condición que sea:
+
+I.- De no dar o de no hacer:
+
+II.- De no impugnar el testamento o alguna de sus disposiciones so pena de perder el carácter de heredero o legatario; y,
+
+III.- De tomar o dejar de tomar estado. Podrá, sin embargo dejarse a alguien el uso, la habitación, el usufructo o una pensión alimenticia periódica por el tiempo que permanezca sin contraer matrimonio, en la inteligencia de que si el testador no determina el monto de esa pensión o el que fija excede las posibilidades económicas de la masa hereditaria, su cuantía será fijada de acuerdo con las reglas generales en materia de alimentos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1260.- Cuando la condición fuera casual o mixta, bastará que se realice en cualquier tiempo, antes o después de la muerte del testador, si éste no hubiere dispuesto otra cosa.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1261.- Si la condición ya se hubiere cumplido al hacerse el testamento, ignorándolo el testador, se tendrá por cumplida; mas si lo sabía, sólo se tendrá por cumplida si ya no puede existir o cumplirse de nuevo.
+
+1262.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1263.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1264.- Salvo disposición en contrario, la condición que se ha cumplido, retrotrae sus efectos al tiempo de la muerte del testador, y desde entonces deben abonarse los frutos de la herencia o legado, a menos que el testador haya dispuesto expresamente otra cosa o que el heredero o legatario ya hubieren muerto o fueran incapaces de heredar en los términos del artículo 1219 de este Código.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1265.- Se considera como condición resolutoria la condición que impone la carga de hacer alguna cosa, a menos que por su naturaleza o por disposición del testador deba estimarse de otra manera.
 
 1266.- Si no se hubiere señalado tiempo para el cumplimiento de la carga, ni ésta por su propia naturaleza lo tuviere, se observará lo dispuesto en el artículo 1254.
 
-1267.- Si el legado fuere de prestación periódica, que debe concluir en un día que es inseguro si llegará o no, llegado el día el legatario habrá hecho suyas todas las prestaciones que correspondan hasta aquel día.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1268.- Si el día en que debe comenzar el legado fuere seguro, sea que se sepa o no cuándo ha de llegar, el que ha de entregar la cosa legada, tendrá, respecto de ella, los derechos y obligaciones del usufructuario.
+1267.- Si el legado fuera de prestación periódica y estuviese sujeto a una condición resolutoria, la realización de ésta extingue el legado; pero serán del legatario todas las prestaciones que correspondan hasta el día de la realización de la condición.
 
-1269.- En el caso del artículo anterior, si el legado consiste en prestación periódica, el que debe pagarlo hace suyo todo lo correspondiente al intermedio, y cumple con hacer la prestación comenzando el día señalado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1270.- Cuando el legado debe concluir en un día que es seguro que ha de llegar, se entregará la cosa o cantidad legada al legatario, quien se considerará como usufructuario de ella.
+1268.- Si el acontecimiento del que dependa el legado fuere seguro, sea que se sepa o no cuando ha de llegar, el que deba entregar la cosa legada tendrá, respecto de ella y mientras efectúa la entrega, los derechos y las obligaciones del depositario.
 
-1271.- Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO V. DE LOS BIENES DE QUE SE PUEDE DISPONER POR TESTAMENTO Y DE LOS TESTAMENTOS INOFICIOSOS
+1269.- En el caso del artículo anterior, si el legado consiste en una prestación periódica, el que debe pagarlo hace suyo todo lo correspondiente al intermedio, y debe comenzar a cumplir a la llegada del acontecimiento señalado, a menos que el testador haya dispuesto expresamente otra cosa.
 
-1272.- El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-I.- A los descendientes menores de dieciocho años;
+1270.- Cuando el legado deba concluir a la realización de un acontecimiento o en un día que es seguro han de llegar, se entregará desde luego la cosa o cantidad legada al legatario, a menos que en el testamento se disponga otra cosa.
 
-II.- A los descendientes varones que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y que vivan honestamente, unos y otras aun cuando fueren mayores de dieciocho años;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-III.- Al cónyuge supérstite siempre que siendo varón esté impedido de trabajar, o que siendo mujer, permanezca viuda y viva honestamente;
+1271.- En el caso del artículo anterior, si el legado consistiere en prestación periódico el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
 
-IV.- A los ascendientes;
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-V.- A la mujer con quien el testador vivió como si fuera su marido, durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. La concubina sólo tendrá derecho a alimentos mientras que observe buena conducta y no se case. Si fueren varias las concubinas ninguna de ellas tendrá derecho a alimentos;
+### CAPITULO V. DEL CONTENIDO DE LOS TESTAMENTOS Y DE LOS TESTAMENTOS INOFICIOSOS
 
-VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen para subvenir a sus necesidades.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1272.- Toda persona tiene derecho de disponer libremente de sus bienes por testamento, a título de herencia o legado; pero el testador está obligado a dejar alimentos a las personas a quienes les corresponda conforme a la ley.
 
 1273.- No hay obligación de dar alimentos, sino a falta o por imposibilidad de los parientes más próximos en grado.
 
 1274.- No hay obligación de dar alimentos a las personas que tengan bienes; pero si teniéndolos, su producto no iguala a la pensión que debería corresponderles, la obligación se reducirá a lo que falte para completarla.
 
-1275.- Para tener derecho de ser alimentado se necesita encontrarse al tiempo de la muerte del testador en alguno de los casos fijados en el artículo 1272, y cesa ese derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiera bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1276.- El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los artículos 285, 291, 293 y 294 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea, siempre que no baje del mínimum antes establecido. Con excepción de los artículos citados en el presente Capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del Capítulo II, Título VI del Libro Primero.
+1275.- Las personas que conforme el artículo 1272 tienen derecho a recibir alimentos de la herencia, perderán el mismo si dejan de hallarse en el supuesto de la ley para considerarse acreedores alimenticios, así como si observan mala conducta o adquieren bienes, aplicándose es (sic) este último caso lo dispuesto en el artículo anterior.
 
-1277.- Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas enumeradas en el artículo 1272, se observarán las reglas siguientes:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-I.- Se ministrarán a los descendientes y al cónyuge supérstite a prorrata;
+1276.- El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción.
 
-II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes;
+El monto de la pensión alimenticia se fijará y asegurará conforme a las reglas generales establecidas por este Código en materia de alimentos, y por ningún motivo excederá de los productos de la porción, que en caso de sucesión intestada, correspondería al que tenga derecho a dicha pensión, ni bajará de la mitad de tales productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea, siempre que no baje del mínimo antes establecido.
 
-III.- Después se ministrarán también a prorrata, a los hermanos y a la concubina;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-IV.- Por último, se ministrarán igualmente a prorrata, a los demás parientes colaterales dentro del cuarto grado.
+1277.- Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas comprendidas en el artículo 1272, se observarán las reglas siguientes:
+
+I.- Se ministrarán a prorrata a los ascendientes y cónyuge supérstite, o persona con quien el tutor de la sucesión vivió maritalmente.
+
+II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán, también a prorrata a los ascendientes y hermanos del autor de la sucesión.
+
+III.- Por último, se ministrarán igualmente a prorrata, a los demás parientes colaterales dentro del cuarto grado.
 
 1278.- Es inoficioso el testamento en que no se deje la pensión alimenticia, según lo establecido en este Capítulo.
 
-1279.- El preterido tendrá solamente derecho a que se le dé la pensión que corresponde, subsistiendo el testamento en todo lo que no perjudique ese derecho.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1279.- El preterido tendrá derecho a que se le dé la pensión que corresponda, subsistiendo el testamento en todo lo que no perjudique este derecho.
 
 1280.- La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testador haya gravado con ella a alguno o algunos de los partícipes de la sucesión.
 
-1281.- No obstante lo dispuesto en el 1279, el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1281.- No obstante lo dispuesto en el artículo 1279, el hijo póstumo y el hijo o hijos nacidos en vida del testador, pero después de que éste haya hecho su testamento, tendrán derecho a percibir íntegra la porción que les correspondería como herederos legítimos si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
 
 ### CAPITULO VI. DE LA INSTITUCION DE HEREDERO
 
-1282.- El testamento otorgado legalmente será válido aunque no contenga institución de heredero y aunque el nombrado no acepte la herencia o sea incapaz de heredar.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1282.- El testamento otorgado legalmente, aunque no contenga institución de heredero y aunque el nombrado no acepte la herencia o sea incapaz de heredar, será valido respecto de las demás disposiciones que se hicieren de acuerdo a la ley, las cuales serán cumplidas.
 
 1283.- En los tres casos señalados en el artículo anterior, se cumplirán las demás disposiciones testamentarias que estuvieren hechas conforme a las leyes.
 
-1284.- No obstante lo dispuesto en el artículo 1247 la designación de día en que deba comenzar o cesar la institución de heredero, se tendrá por no puesta.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1285.- Los herederos instituidos sin designación de la parte que a cada uno corresponda, heredarán por partes iguales.
+1284.- La designación del día en que debe comenzar o cesar la institución de herederos, se tendrá por no puesta.
 
-1286.- El heredero instituido en cosa cierta determinada debe tenerse por legatario.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1287.- Aunque el testador nombre algunos herederos individualmente y a otros colectivamente, como si dijera: "Instituyo por mis herederos a Pedro o a Pablo y a los hijos de Francisco", los colectivamente nombrados se considerarán como si fuesen individualmente, a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
+1285.- Los herederos instituidos sin establecer la proporción que a cada uno corresponda, heredarán por partes iguales.
 
-1288.- Si el testador instituye a sus hermanos, y los tiene sólo de padre, sólo de madre, y de padre y madre, se dividirán la herencia como en el caso de intestado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1289.- Si el testador llama a cierta persona y a sus hijos, se entenderán todos instituidos simultánea y no sucesivamente.
+1286.- El heredero instituido en cosa cierta y determinada será considerado como legatario.
 
-1290.- El heredero debe ser instituido designándolo por su nombre y apellido, y si hubiere varios que tuvieren el mismo nombre y apellido deben agregarse otros nombres y circunstancias que distingan al que se quiere nombrar.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1291.- Aunque se haya omitido el nombre del heredero, si el testador le designara de otro modo que no pueda dudarse quien sea, valdrá la institución.
+1287.- Si en el testamento se instituyen herederos individuales y otros en formas colectiva, se entenderá que el grupo que conforman los últimos adquirirá la proporción que corresponda a cada uno de los primeros a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
 
-1292.- El error en el nombre, apellido o cualidades del heredero, no vicia la institución, si de otro modo se supiere ciertamente cuál es la persona nombrada.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1293.- Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse a quien quiso designar el testador, ninguno será heredero.
+1288.- Si el testador instituye herederos a sus hermanos, se dividirá la herencia entre todos los que tenga, ya sea por ambas líneas o sólo por una, como en caso de intestado, a menos que sea otra la disposición del testador.
 
-1294.- Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1289.- Si el testador instituye como heredero a cierta persona y a los hijos de ésta, se entenderán todos instituidos simultáneamente y no en forma sucesiva.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1290.- El heredero debe ser instituido designándolo por su nombre y apellidos, y si hubiera varios que tuvieran el mismo nombre y apellidos, deben agregarse otros datos y circunstancias que identifiquen al que se quiere nombrar.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1291.- Será válida la institución, aunque se haya omitido el nombre del heredero, si el testador lo designare de modo que no pueda dudarse de su identidad.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1292.- El error en el nombre, apellidos o cualidades del heredero no vicia la institución, si de otro modo se supiere ciertamente quién es la persona nombrada.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1293.- Si entre varios individuos del mismo nombre y bajo las mismas circunstancias de identificación no pudiere saberse a quién quiso designar el testador, ninguno tendrá derecho a la herencia.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1294.- Será nula toda disposición en favor de persona incierta o sobre bien que no pueda identificarse, a menos que quede claro por algún evento, a quien o sobre que fue la voluntad del testador.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO VII. DE LOS LEGADOS
 
-1295.- Cuando no haya disposiciones especiales, los legatarios se regirán por las mismas normas que los herederos.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1296.- El legado puede consistir en la prestación de cosa o en la de algún hecho o servicio.
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-1297.- No produce efecto el legado si por acto del testador pierde la cosa legada la forma y denominación que la determinaban.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1298.- El testador puede gravar con legados no sólo a los herederos, sino a los mismos legatarios.
+1295.- A falta de disposición legal expresa, los legados se regirán:
 
-1299.- La cosa legada deberá ser entregada con todos sus accesorios y en el estado en que se halle al morir el testador.
+I.- Por las normas de la herencia.
 
-1300.- Los gastos necesarios para la entrega de la cosa legada serán a cargo del legatario, salvo disposición del testador en contrario.
+II.- Por las que este Código establece para regir relaciones entre el acreedor y el deudor, en cuanto a los derechos y obligaciones que surgen entre los legatarios y los obligados a pagar el legado.
 
-1301.- El legatario no puede aceptar una parte del legado y repudiar otra.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1302.- Si el legatario muere antes de aceptar un legado y deja varios herederos, puede uno de éstos aceptar y otro repudiar la parte que le corresponde en el legado.
+1296.- El legado puede recaer en bienes, en la prestación de hechos o servicios, en la transmisión de derechos o en la liberación de obligaciones, cuando los mismos se identifiquen de manera particular.
 
-1303.- Si se dejaren dos legados y uno fuere oneroso, el legatario no podrá renunciar éste y aceptar el que no lo sea. Si los dos son onerosos o gratuitos, es libre para aceptarlos todos o repudiar el que quiera.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1304.- El heredero que sea al mismo tiempo legatario, puede renunciar la herencia y aceptar el legado, o renunciar éste y aceptar aquélla.
+1297.- El testador puede gravar con legados no sólo a los herederos, sino a otros legatarios.
 
-1305.- El acreedor cuyo crédito no conste más que por testamento, se tendrá para los efectos legales como legatario preferente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1306.- Cuando se legue una cosa con todo lo que comprenda, no se entenderán legados los documentos justificantes de propiedad, ni los créditos activos, a no ser que se hayan mencionado específicamente.
+1298.- El bien legado deberá ser entregado con todos sus accesorios y en el estado en que se halle al morir el testador, siendo el pago de los gastos de entrega a cargo del legatario, salvo disposición en contrario del testador.
 
-1307.- El legado del menaje de una casa sólo comprende los bienes muebles a que se refiere el artículo 732.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1308.- Si el que lega una propiedad le agrega después nuevas adquisiciones, no se comprenderán éstas en el legado aunque sean contiguas, si no hay nueva declaración del testador.
+1299.- Entretanto se hace la entrega del bien objeto del legado, el deudor de éste o el albacea, en su caso, serán depositarios de aquél.
 
-1309.- La declaración a que se refiere el artículo precedente no se requiere, respecto de las mejoras necesarias, útiles o voluntarias hechas en el mismo predio.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1310.- El legatario puede exigir que el heredero otorgue fianza en todos los casos en que pueda exigirlo el acreedor.
+1300.- El legatario no puede aceptar una parte del legado y repudiar otra; pero si el legatario muere antes de aceptar y deja varios herederos, pueden uno o más de éstos aceptar, y otro u otros repudiar la parte que les corresponda en el legado.
 
-1311.- Si sólo hubiere legatarios, podrán éstos exigirse entre sí la constitución de la hipoteca necesaria.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1312.- No puede el legatario ocupar por su propia autoridad la cosa legada, debiendo pedir su entrega y posesión al albacea o al ejecutor especial.
+1301.- Si se dejan dos legados y uno fuere oneroso, el legatario no podrá renunciar éste y aceptar el que no sea. Si los dos son onerosos o gratuitos, es libre para aceptarlos todos o repudiar el que quiera.
 
-1313.- Si la cosa legada estuviese en poder del legatario, podrá éste retenerla, s n perjuicio de devolver en caso de reducción lo que corresponda conforme a derecho.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1314.- El importe de las contribuciones correspondientes al legado, se deducirán del valor de éste a no ser que el testador disponga otra cosa.
+1302.- El heredero que sea al mismo tiempo legatario, puede renunciar la herencia y aceptar el legado o renunciar éste y aceptar aquélla.
 
-1315.- Si toda la herencia se distribuye en legados, se prorratearán las deudas y gravámenes de ella entre todos los partícipes, en proporción de sus cuotas, a no ser que el testador hubiere dispuesto otra cosa.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1316.- El legado queda sin efecto si la cosa legada perece viviendo el testador, si se pierde por evicción, fuera del caso previsto en el artículo 1364, o si perece después de la muerte del testador, sin culpa del heredero.
+1303.- El acreedor cuyo crédito no conste más que por testamento, se tendrá como legatario preferente, para ser pagado en el orden señalado en la fracción II del artículo 1314.
 
-1317.- Queda también sin efecto el legado, si el testador enajena la cosa legada; pero vale si la recobra por un título legal.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1318.- Si los bienes de la herencia no alcanzan para cubrir todos los legados, el pago se hará en el siguiente orden:
+1304.- Cuando se legue un bien con todo lo que comprenda, no se entenderán legados los créditos activos ni los documentos justificantes de la propiedad de otros bienes distintos del legado, si no hay nueva declaración del testador sobre los mismos.
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-I.- Legados de alimentos o de educación.
+1305.- El legado del menaje de una casa sólo comprende los bienes muebles a que se refiere el artículo 732.
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-II.- Legados remuneratorios.
+1306.- Si el que lega una propiedad le agrega después nuevas adquisiciones, no se comprenderán éstas en el legado, aunque sean contiguas, si no hay nueva declaración del testador.
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-III.- Legados que el testador o la ley haya declarado preferentes.
+1307.- La declaración a que se refiere el artículo precedente no se requiere respecto de las mejoras necesarias, útiles o voluntarias hechas en el mismo predio.
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-IV.- Legados de cosa cierta y determinada.
+1308.- El legatario puede exigir que el heredero otorgue fianza en todos los casos en que pueda exigirla al acreedor.
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-V.- Los demás a prorrata.
+1309.- Si sólo hubiere legatarios podrán éstos exigirse entre sí la constitución de hipoteca necesaria.
 
-1319.- Los legatarios tienen derecho de reivindicar de tercero la cosa legada, ya sea mueble o raíz, con tal que sea cierta y determinada, observándose lo dispuesto para los actos y contratos que celebren los que en el Registro Público aparezcan con derecho para ello, con terceros de buena fe que los inscriban.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1320.- El legatario de un bien que perece incendiado después de la muerte del testador, tiene derecho de recibir la indemnización del seguro, si la cosa estaba asegurada.
+1310.- No puede el legatario ocupar por su propia autoridad el bien legado, debiendo pedir su entrega y posesión al albacea o al ejecutor especial; pero si ya estuviere en su poder, podrá retenerlo, sin perjuicio de devolver, en caso de reducción, lo que corresponda conforme a derecho.
 
-1321.- Si se declara nulo el testamento después de pagado el legado, la acción del verdadero heredero para recobrar la cosa legada procede contra el legatario no contra el otro heredero, a no ser que éste haya hecho con dolo la partición.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1322.- Si el heredero o legatario renunciare a la sucesión, la carga que se les haya impuesto se pagará solamente con la cantidad a que tiene derecho el que renunció.
+1311.- El importe de las contribuciones fiscales correspondientes al legado se deducirá del valor de éste, a no ser que el testador disponga otra cosa.
 
-1323.- Si la carga consiste en la ejecución de un hecho, el heredero o legatario que acepte la sucesión queda obligado a prestarlo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1324.- Si el legatario a quien se impuso algún gravamen no recibe todo el legado, se reducirá la carga proporcionalmente y si sufre evicción, podrá repetir lo que haya pagado.
+1312.- Si toda la herencia se distribuye en legados, se prorratearán las deudas y gravámenes de ella entre todos participantes, en proporción de sus cuotas, a no ser que el testador hubiere dispuesto otra cosa.
 
-1325.- En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1326.- Si el heredero tiene la elección, puede entregar la cosa de menor valor; si la elección corresponde al legatario, puede exigir la cosa de mayor valor.
+1313.- El legado queda sin efecto:
 
-1327.- En los legados alternativos se observará, además, lo dispuesto para las obligaciones alternativas.
+I.- Si por hechos propios u orden del testador el bien legado pierde la forma y denominación que lo determinaban;
 
-1328.- En todos los casos en que el que tenga derecho de hacer la elección, no pudiere hacerla, la hará su representante legítimo o sus herederos.
+II.- Si el bien se pierde por evicción, salvo que el mismo fuere indeterminado y se señalare solamente por género o especie, en cuyo caso responderá de la evicción el obligado a pagar el legado;
 
-1329.- El juez, a petición de parte legitima, hará la elección, si en el término que le señale no la hiciere la persona que tenga derecho de hacerla.
+III.- Si el bien perece viviendo el testador, o si después de la muerte de éste perece sin culpa del heredero;
 
-1330.- La elección hecha legalmente es irrevocable.
+IV.- Si el testador enajena el bien legado. Si lo recobra por cualquier título legal, el legado volverá a tener valor.
 
-1331.- Es nulo el legado que el testador hace de cosa propia individualmente determinada, que al tiempo de su muerte no se halle en su herencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1332.- Si la cosa mencionada en el artículo que precede, existe en la herencia, pero no en la cantidad y número designados, tendrá el legatario lo que hubiere.
+1314.- Si los bienes de la herencia no alcanzan para cubrir los legados, el pago se hará en el siguiente orden:
 
-1333.- Cuando el legado es de cosa específica y determinada, propia del testador, el legatario adquiere su propiedad desde que aquél muere y hace suyos los frutos pendientes y futuros, a no ser que el testador haya dispuesto otra cosa.
+I.- Legados de alimentos o de educación;
 
-1334.- La cosa legada en el caso del artículo anterior, correrá desde el mismo instante a riesgo del legatario; y en cuanto a su pérdida, aumento o deterioro posteriores, se observará lo dispuesto en las obligaciones de dar, para el caso de que se pierda, deteriore o aumente la cosa cierta que deba entregarse.
+II.- Legados remuneratorios;
 
-1335.- Cuando el testador, el heredero o el legatario sólo tengan cierta parte o derecho en la cosa legada, se restringirá el legado a esa parte o derecho, si el testador no declara de un modo expreso que sabia ser la cosa parcialmente de otro, y que no obstante esto, la legaba por entero.
+III.- Legados que el testador o la ley declaren preferentes;
 
-1336.- El legado de cosa ajena, si el testador sabía que lo era, es válido y el heredero está obligado a adquirirla para entregarla al legatario o a dar a éste su precio.
+IV.- Legados de bien cierto y determinado; y
 
-1337.- La prueba de que el testador sabía que la cosa era ajena, corresponde al legatario.
+V.- Los demás, a prorrata.
 
-1338.- Si el testador ignoraba que la cosa legada era ajena, es nulo el legado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1339.- Es válido el legado si el testador, después de otorgado el testamento, adquiere la cosa que al otorgarlo no era suya.
+1315.- El legatario tiene derecho a reivindicar de tercero el bien legado, ya sea mueble o inmueble, con tal que sea cierto y determinado, salvo el derecho que corresponda al tercero de buena fe.
 
-1340.- Es nulo el legado de cosa que al otorgarse el testamento pertenezca al mismo legatario.
+Siendo varios los legatarios respecto de un mismo bien, cualquiera podrá ejercer el derecho a que este artículo se refiere.
 
-1341.- Si en la cosa legada tiene alguna parte el testador o un tercero sabiéndolo aquél, en lo que a ellos corresponda, vale el legado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1342.- Si el legatario adquiere la cosa legada después de otorgado el testamento, se entiende legado su precio.
+1316.- El legatario de un bien que perece incendiado después de la muerte del testador, tiene derecho a recibir la indemnización del seguro si la cosa estaba asegurada.
 
-1343.- Es válido el legado hecho a un tercero de cosa propia del heredero o de un legatario, quienes, si aceptan la sucesión, deberán entregar la cosa legada o su precio.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1344.- Si el testador ignoraba que la cosa fuese propia del heredero o del legatario, será nulo el legado.
+1317.- Si se declara nulo el testamento después de pagado el legado, la acción del verdadero heredero para recobrar la cosa legada procede contra el legatario y no contra el otro heredero, a no ser que éste haya hecho con dolo la partición.
 
-1345.- El legado que consiste en la devolución de la cosa recibida en prenda, o en el título constitutivo de una hipoteca, sólo extingue el derecho de prenda o hipoteca, pero no la deuda, a no ser que así se prevenga expresamente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1346.- Lo dispuesto en el artículo que precede se observará también en el legado de una fianza, ya sea hecho al fiador, ya al deudor principal.
+1318.- Si el heredero o legatario renunciaren a la herencia, la carga que se les haya impuesto se pagará solamente con la cantidad a que tenía derecho el que renunció.
 
-1347.- Si la cosa legada está dada en prenda o hipotecada, o lo fuere después de otorgado el testamento, el desempeño o la redención serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1348.- Si por no pagar el obligado, conforme al párrafo anterior, lo hiciere el legatario, quedará éste subrogado en el lugar y derechos del acreedor para reclamar contra aquél.
+1319.- Si la carga consiste en la ejecución de un hecho, el heredero o legatario que acepte la herencia queda obligado a prestarlo. Si no lo pudiera hacer personalmente, sufragará la cantidad necesaria para su ejecución.
 
-Cualquiera otra carga, perpetua o temporal, a que se halle afecta la cosa legada, pasa con ésta al legatario; pero en ambos casos las rentas y los réditos devengados hasta la muerte del testador son carga de la herencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1349.- El legado de una deuda hecho al mismo deudor extingue la obligación, y el que debe cumplir el legado está obligado, no solamente a dar al deudor la constancia del pago, sino también a desempeñar las prendas, a cancelar las hipotecas y las fianzas y a libertar al legatario de toda responsabilidad.
+1320.- Si el legatario a quien se impuso algún gravamen no recibe todo el legado, se reducirá la carga proporcionalmente, y si sufre evicción podrá repetir lo que haya pagado.
 
-1350.- Legado el título, sea público o privado, de una deuda, se entiende legada ésta, observándose lo dispuesto en los artículos 1345 y 1346.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1351.- El legado hecho al acreedor no compensa el crédito a no ser que el testador lo declare expresamente.
+#### SECCION SEGUNDA. DEL LEGADO DE BIEN PROPIO
 
-1352.- En caso de compensación, si los valores fueren diferentes, el acreedor tendrá derecho de cobrar el exceso del crédito o el del legado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1353.- Por medio de un legado puede el deudor mejorar la condición de su acreedor, haciendo puro el crédito condicional, hipotecario, el simple, o exigible desde luego el que lo sea a plazo; pero esta mejora no perjudicará en manera alguna los privilegios de los demás acreedores.
+1321.- No produce efectos el legado que el testador hace de bien propio, individualmente determinado, que al tiempo de su muerte no se halle en su herencia. Sin embargo, si el bien designado existe en la herencia en menor cantidad o número que los designados en el testamento, tendrá derecho el legatario a lo que hubiere.
 
-1354.- El legado hecho a un tercero, de un crédito a favor del testador, sólo produce efecto en la parte del crédito que está insoluto al tiempo de abrirse la sucesión.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1355.- En el caso del artículo anterior, el que debe cumplir el legado entregará al legatario el título del crédito y le cederá todas las acciones que en virtud de él correspondan al testador.
+1322.- Cuando el legado es de bien específico y determinado, propio del testador, el legatario adquiere su propiedad desde que aquél muere y desde entonces también hace suyos los frutos pendientes y futuros, a no ser que el testador haya dispuesto lo contrario.
 
-1356.- Cumpliendo lo dispuesto en el artículo que precede, el que debe pagar el legado queda enteramente libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, ya de insolvencia del deudor o de sus fiadores, ya de otra causa.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1357.- Los legados de que hablan los artículos 1349 y 1354, comprenden los intereses que por el crédito o deuda se deban a la muerte del testador.
+1323.- Desde la muerte del testador, el riego es a cargo del legatario. Si se pierde, aumenta o deteriora el bien legado con posterioridad a la muerte del testador, el riesgo es para el legatario, salvo que el testador hubiere dispuesto otra cosa.
 
-1358.- Dichos legados subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1359.- El legado genérico de liberación o perdón de las deudas, comprende sólo las existentes al tiempo de otorgar el testamento y no las posteriores.
+1324.- Cuando el testador, no obstante saber que el bien no le pertenece por entero, lo lega sin declarar de un modo expreso que sabía que era parcialmente de otro, el legado sólo será válido en la parte que corresponda al testador. Para la parte ajena, en su caso, se observará lo dispuesto en el capítulo siguiente.
 
-1360.- El legado de cosa mueble indeterminada; pero comprendida en genero determinado, será valido, aunque en la herencia no haya cosa alguna del género a que la cosa legada pertenezca.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-1361.- En el caso del artículo anterior, la elección es del que debe pagar el legado, quien, si las cosas existen, cumple con entregar una de mediana calidad, pudiendo, en caso contrario, comprar una de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio, o a juicio de peritos.
+#### SECCION OCTAVA. DE LOS LEGADOS ALTERNATIVOS
 
-1362.- Si el testador concede expresamente la elección al legatario, éste podrá, si hubiere varias cosas del género determinado escoger la mejor, pero si no las hay sólo podrá exigir una de mediana calidad o el precio que le corresponda.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1363.- Si la cosa indeterminada fuere inmueble, sólo valdrá el legado existiendo en la herencia varias del mismo género; para la elección se observarán las reglas establecidas en los artículos 1361 y 1362.
+1345.- En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario.
 
-1364.- El obligado a la entrega del legado responderá en caso de evicción, si la cosa fuere indeterminada y se señalase solamente por género o especie.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1365.- En el legado de especie, el heredero debe entregar la misma cosa legada en caso de pérdida se observará lo dispuesto para las obligaciones de dar cosa determinada.
+1346.- En el supuesto de que la elección corresponda a un heredero y no se hubiere precisado el bien a entregar, al no existir un acuerdo con el legatario, deberá entregarse uno cuyo valor se aproxime al término medio entre los bienes de mayor y menor valor.
 
-1366.- Los legados en dinero deben pagarse en esa especie; y si no la hay en la herencia con el producto de los bienes que al efecto se vendan.
+Lo mismo se aplicará si la elección corresponde al legatario, respecto a la persona que deba cumplirlo.
 
-1367.- El legado de cosa o cantidad depositada en lugar designado, sólo subsistirá en la parte que en él se encuentre.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1368.- El legado de alimentos dura mientras viva el legatario, a no ser que el testador haya dispuesto que dure menos.
+1347.- En los legados alternativos se observará, además, lo dispuesto para las obligaciones alternativas.
 
-1369.- Si el testador no señala la cantidad de alimentos, se observará lo dispuesto en el Capítulo II, Título VI del Libro Primero.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1370.- Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
+1348.- En los casos en que el legatario que tenga derecho de hacer la elección no pudiere hacerla, la harán su representante legítimo o sus herederos.
 
-1371.- El legado de educación dura hasta que el legatario sale de la menor edad.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1372.- Cesa también el legado de educación, si el legatario, durante la menor edad, obtiene profesión u oficio, con que poder subsistir o si contrae matrimonio.
+1349.- Si en el plazo que se hubiere señalado, la persona que tenga derecho de hacer la elección no la realizara, podrá el Juez efectuarla a petición de parte interesada.
 
-1373.- El legado de pensión, sean cuales fueren la cantidad, el objeto y los plazos, corre desde la muerte del testador; es exigible al principio de cada periodo, y el legatario hace suya la que tuvo derecho de cobrar, aunque muera antes de que termine el periodo comenzado.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1374.- Los legados de usufructo, uso, habitación o servidumbre, subsistirán mientras viva el legatario, a no ser que el testador dispusiere que dure menos.
+SECCION DECIMOPRIMERA
 
-1375.- Sólo duran veinte años los legados de que trata el artículo anterior, si fueren dejados a alguna corporación que tuviere capacidad de adquirirlos.
+DEL LEGADO DE PENSION
 
-1376.- Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá prestarlos hasta que legalmente se extingan sin que el heredero tenga obligación de ninguna clase.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO VIII. DE LAS SUBSTITUCIONES
+1355.- El legado de pensión se rige por las siguientes disposiciones:
 
-1377.- Puede el testador substituir una o más personas al heredero o herederos instituidos para el caso de que mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
+I.- Sea cual fuere la cantidad, el objeto y los plazos, se inicia desde la muerte del testador.
 
-1378.- Quedan prohibidas las substituciones fideicomisarias y cualquiera otra diversa de la contenida en el artículo anterior, sea cual fuere la forma de que se las revista.
+II.- Es exigible al principio de cada periodo.
 
-1379.- Los sustitutos pueden ser nombrados conjunta o sucesivamente.
+III.- El legatario hace suya la pensión que tuvo derecho de cobrar, aunque muera antes de que termine el periodo comenzado.
 
-1380.- El sustituto del sustituto, faltando éste, lo es del heredero sustituido.
+IV.- El heredero debe garantizar suficientemente al legatario el pago de las pensiones futuras.
 
-1381.- Los sustitutos recibirán la herencia con los mismos gravámenes y condiciones con que debían recibirla los herederos; a no ser que el testador haya dispuesto expresamente otra cosa, o que los gravámenes o condiciones fueren meramente personales del heredero.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1382.- Si los herederos instituidos en partes desiguales fueren sustituidos recíprocamente, en la sustitución tendrán las mismas partes que en la institución; a no ser que claramente aparezca haber sido otra la voluntad del testador.
+SECCION DECIMOSEGUNDA
 
-1383.- La nulidad de la sustitución fideicomisaria no importa la de la institución, ni la del legado, teniéndose únicamente por no escrita la cláusula fideicomisaria.
+DE LOS LEGADOS DE DERECHOS REALES
 
-1384.- No se reputa fideicomisaria la disposición en que el testador deja la propiedad del todo o de parte de sus bienes a una persona y el usufructo a otra; a no ser que el propietario o el usufructuario queden obligados a transferir a su muerte la propiedad o el usufructo a un tercero.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1385.- Puede el padre dejar una parte o la totalidad de sus bienes a su hijo, con la carga de transferirlos al hijo o hijos que tuviere hasta la muerte del testador, teniéndose en cuenta lo dispuesto en el artículo 1217, en cuyo caso el heredero se considerará como usufructuario.
+1356.- Los legados de usufructo, uso, habitación, servidumbre voluntaria o derecho de superficie subsistirán mientras viva el legatario, a no ser que el testador dispusiere una duración menor.
 
-1386.- La disposición que autoriza el artículo anterior, será nula cuando la transmisión de los bienes deba hacerse a descendientes de ulteriores grados.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1387.- Se consideran fideicomisarias y, en consecuencia, prohibidas, las disposiciones que contengan prohibiciones de enajenar, o que llamen a un tercero a lo que quede de la herencia por la muerte del heredero, o el encargo de prestar a más de una persona sucesivamente cierta renta o pensión.
+1357.- Los legados a que se refiere el artículo anterior, en beneficio de cualquier persona moral, sólo durarán hasta veinte años.
 
-1388.- La obligación que se impone al heredero de invertir ciertas cantidades en obras benéficas, como pensiones para estudiantes, para los pobres o para cualquier establecimiento de beneficencia, no está comprendida en la prohibición del artículo anterior.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-Si la carga se impusiere sobre bienes inmuebles y fuere temporal, el heredero o herederos podrán disponer de la finca gravada, sin que cese el gravamen mientras que la inscripción de éste no se cancele.
+1358.- Si el bien legado estuviere sujeto a usufructo, uso, habitación, servidumbre o derecho de superficie, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
 
-Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capital a interés con primera y suficiente hipoteca.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
+#### SECCION QUINTA. DEL LEGADO DE BIEN INDETERMINADO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1338.- El legado de bien indeterminado, pero comprendido en género determinado, será válido aunque en la herencia no haya bien alguno de este género.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1339.- En el caso del artículo anterior, si los bienes existen en la herencia, la elección corresponde al que deba pagar el legado, o en su caso al albacea, quien cumple con entregar uno de mediana calidad, pudiendo, en caso contrario, comprar uno de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio o dictamen de peritos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1340.- Cuando el testador conceda expresamente la elección al legatario, éste podrá si en la herencia hubiere varios bienes del género determinado, escoger el mejor, pero si no los hubiere, sólo podrá exigir uno de mediana calidad o el precio que corresponda a éste.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1341.- Si el bien indeterminado fuere inmueble, solo valdrá el legado si en la herencia existen varios del mismo género y para la elección se observarán las reglas establecidas en los dos artículos anteriores. De no existir tales bienes en la herencia, el legado no será válido, a menos que en el testamento se disponga que se compre un bien de tales características o se abone el precio al legatario.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION CUARTA. DEL LEGADO DE BIEN HIPOTECADO O DADO EN PRENDA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1335.- Si el bien legado se encuentra en la herencia y está hipotecado o dado en prenda, o lo fuere después de otorgado el testamento, la redención o desafectación serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1336.- En caso de que no se realice el pago a cargo de la herencia conforme al artículo anterior y lo hiciere el legatario, quedará subrogado en el lugar y derechos del acreedor para reclamar contra los herederos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1337.- Cualquiera otra carga o gravamen a que se halle afecto el bien legado, se transmite junto con éste al legatario; las rentas y los réditos devengados hasta la muerte del testador son a cargo de la herencia, salvo que en el testamento se disponga otra cosa.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION TERCERA. DEL LEGADO DE BIEN AJENO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1325.- Es válido el legado de bien ajeno si el testador sabía que lo era. En este caso el heredero debe adquirir el bien, para entregarlo al legatario o dar a éste su precio.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1326.- La prueba de que el testador sabía que el bien era ajeno, corresponde al legatario.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1327.- Si el testador ignoraba que el bien que legaba era ajeno, es nulo el legado.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1328.- Es válido el legado si el testador, después de otorgado el testamento, adquiere el bien que al otorgarlo no era suyo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1329.- Si la propiedad del bien legado era incierta o dudosa o estaba sujeta a juicio, el legado será válido y en su caso se procederá en los términos del artículo 1325, cuando el testador conociera dicha situación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1330.- Si el testador tiene algún derecho sobre la cosa legada, el legado será sólo por esa parte, a menos que hubiere señalado que sabía que era ajeno en parte y lo legara entero.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1331.- Es nulo el legado cuando al otorgarse el testamento el bien ya pertenezca al legatario. Igualmente será nulo, si el testador ignoraba que el bien fuese propio del heredero o del legatario.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1332.- Si el legatario adquiere la propiedad del bien legado después de otorgado el testamento, se entiende legado su precio.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1333.- Es válido el legado hecho a un tercero, de bien propio del heredero o de un legatario, cuando éstos aceptan la herencia en esas condiciones. En este caso, el heredero o legatario, deberán entregar el bien legado o su precio.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1334.- En el caso del artículo anterior, si el testador ignoraba que el bien fuese propio del heredero o del legatario, será nulo el legado.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION SEXTA. DEL LEGADO DE BIEN DETERMINADO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1342.- En el legado de bien determinado, el heredero debe entregar al legatario el mismo bien legado y en caso de pérdida, se observará lo dispuesto por este Código para las obligaciones de dar un bien de esa característica.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION SEPTIMA. DEL LEGADO DE DINERO O DE UN BIEN DEPOSITADO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1343.- Los legados de dinero deben pagarse en esa especie, y si no hay en la herencia, con el producto de los bienes que al efecto se venda. La venta podrá evitarse por quien debe pagar el legado entregando a aquél la cantidad de dinero que corresponda.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1344.- El legado de un bien o cantidad depositados en lugar designado, sólo subsistirá en la parte que se encuentre en éste, a menos que el testador dispusiere de otra cosa.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION NOVENA. DEL LEGADO DE ALIMENTOS
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1350.- La elección hecha conforme a la ley, de un legado de alimentos es irrevocable.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1351.- El legado de alimentos dura mientras viva el legatario, a no ser que el testador haya dispuesto una duración menor.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1352.- Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1353.- En el caso de la última parte del artículo anterior, y cuando el testador no haya señalado el monto de los alimentos, se estará a las reglas generales establecidas por este Código sobre la materia.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION DECIMA. DEL LEGADO DE EDUCACION
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1354.- En el legado de educación, si el testador no fija el plazo, subsiste por el tiempo normal de estudio de una carrera profesional o de aprendizaje de un oficio.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+SECCION DECIMOTERCERA
+
+DEL LEGADO DE CREDITO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1359.- El legado de un crédito perteneciente al testador, sólo produce efecto en la parte del crédito que esté insoluta al abrirse la sucesión, a menos que el testador dispusiere expresamente otra cosa.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1360.- En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título que compruebe el crédito, y le cederá las acciones que en virtud de él corresponderían al testador.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1361.- Cumplido lo dispuesto en el artículo que precede, el que debe pagar el legado queda libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, de insolvencia del deudor o de sus fiadores, o de otra causa.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1362.- La entrega de títulos a que se refieren los artículos 1360 y 1364, comprende los intereses que por el crédito o deuda se deban a la muerte del testador y subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+SECCION DECIMOQUINTA
+
+DEL LEGADO GENERICO DE LIBERACION DE DEUDAS
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1365.- El legado genérico de liberación o remisión de las deudas, comprende sólo las existentes al tiempo de otorgarse el testamento y no las posteriores, salvo que el testador dispusiere otra cosa.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1366.- El legado que únicamente consiste en la liberación o cancelación de una garantía, sólo extingue ésta, pero no la obligación principal, a menos que así se establezca expresamente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1367.- Lo dispuesto en el artículo anterior es aplicable al legado de fianza, ya sea hecho a favor del deudor o del fiador.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+SECCION DECIMOCUARTA
+
+DEL LEGADO DE DEUDA ESPECIFICA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1363.- El legado de una deuda hecha al mismo deudor extingue la obligación, y el que debe cumplir el legado está obligado, no solamente a dar al deudor la constancia del pago, sino también a liberar y cancelar las garantías y cargas que se hubiesen constituido por el deudor a un tercero.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1364.- Legado el título de una deuda, se entiende legada ésta.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+SECCION DECIMOSEXTA
+
+DEL LEGADO A FAVOR DE ACREEDOR
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1368.- El legado al acreedor no compensa el crédito, a no ser que el testador lo declare expresamente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1369.- En caso de compensación, el acreedor tendrá derecho de cobrar el exceso del crédito o el del legado, si lo hubiere.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1370.- Por medio de un legado puede el deudor mejorar la situación de su acreedor, haciendo puro el crédito condicional, garantizado con prenda o hipoteca, o exigible desde luego el que sea a plazo; pero esta mejora no perjudica en manera alguna los privilegios de los demás acreedores.
+
+1371.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1372.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1373.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1374.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1375.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1376.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO VIII. DE LAS SUBSTITUCIONES TESTAMENTARIAS
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1377.- Mediante la substitución puede el testador designar a una o más personas para sustituir a los herederos o legatarios instituidos, para el caso de que éstos sean incapaces, mueran antes que él, o de que no quieran o no puedan aceptar la herencia o el legado.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1378.- Los substitutos pueden ser nombrados conjunta o sucesivamente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1379.- El substituto del substituto, faltando éste, lo es del heredero substituido.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1380.- Los substitutos nombrados conjuntamente ocupan, en su caso, el lugar del heredero y serán solidarios tanto activa como pasivamente.
+
+El substituto que haya sido designado con otros sucesivamente, ocupa el lugar del heredero y no el de los que le antecedieron en el orden de su nombramiento, cuando éstos no aceptaron o no pudieron heredar.
+
+El substituto, en el caso anterior, excluye a los nombrados con ese carácter y que sean posteriores a él, en el orden de su nombramiento.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1381.- Los substitutos recibirán la herencia con los mismos gravámenes y condiciones con que debían recibirla los herederos, a no ser que el testador haya dispuesto expresamente otra cosa, o que los gravámenes o condiciones fueren propios del heredero.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1382.- Si los herederos instituidos en partes desiguales fueron substituidos recíprocamente, los substitutos tendrán las mismas partes que correspondían a los primeros, a no ser que claramente aparezca haber sido otra la voluntad del testador.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1383.- Quedan prohibidas las substituciones fideicomisarias y cualquier otra diversa a las contenidas en el artículo anterior, sea cual fuere la forma en que se establezca.
+
+La nulidad de la substitución fideicomisaria no importa la de la institución, ni la del legado, teniéndose únicamente por no escrita la cláusula fideicomisaria, observándose lo dispuesto por el artículo 1386 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1384.- Puede el padre dejar una parte o la totalidad de sus bienes a su hijo con la carga de transferirlos al hijo o hijos que tuviere hasta la muerte del testador, y en este caso el heredero se considerará como usufructuario, hasta que deba transmitir los bienes.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1385.- La disposición que autoriza el artículo anterior, será nula cuando la transmisión de los bienes deba hacerse a descendientes de ulteriores grados.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1386.- No se reputa fideicomisaria la disposición en que el testador deja la propiedad del todo o de parte de sus bienes a una persona y el usufructo a otra; a no ser que el propietario o el usufructuario queden obligados a transferir, a su muerte, la propiedad o el usufructo a un tercero.
+
+Si al morir el testador ya no vive el usufructuario, el heredero de la nuda propiedad adquirirá plenamente el bien.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1387.- Se consideran fideicomisarias y en consecuencia prohibidas, las disposiciones que contengan prohibición de enajenar a persona indeterminada; sin embargo, subsiste el derecho del testador a prohibir que sus bienes se enajenen a persona determinada; asimismo se considera prohibido que se llame a un tercero a lo que quede de la herencia por la muerte del heredero, o el encargo de prestar a más de una persona sucesivamente cierta renta o pensión.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1388.- La obligación que se impone al heredero de invertir ciertas cantidades en obras benéficas, como pensiones a estudiantes, a los pobres o a cualquier establecimiento de beneficencia, no está comprendida en la prohibición del artículo anterior.
+
+Si la carga se impusiere sobre bienes inmuebles y fuere temporal, el heredero o herederos podrán disponer de la finca gravada, sin que cese el gravamen hasta que se cancele la inscripción correspondiente. Si la carga fuere perpetua, el heredero podrá invertir el capital, el cual, con sus intereses, deberá aplicarse con la debida seguridad al cumplimiento de la disposición testamentaria.
+
+La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados del ministerio público.
+
+Las disposiciones del presente capítulo relativas a los herederos son aplicables a los legatarios.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO IX. DE LA NULIDAD, REVOCACION Y CADUCIDAD DE LOS TESTAMENTOS
 
-1389.- Es nula la institución de heredero o legatario hecha en memorias o comunicados secretos.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1390.- Es nulo el testamento que haga el testador bajo la influencia de amenazas contra su persona o sus bienes, o contra la persona o bienes de su cónyuge o de sus parientes.
+#### SECCION PRIMERA. DE LA NULIDAD
 
-1391.- El testador que se encuentre en el caso del artículo que precede, podrá luego que cese la violencia o disfrute de la libertad completa, revalidar su testamento con las mismas solemnidades que si lo otorgara de nuevo. De lo contrario será nula la revalidación.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1389.- Es nula la institución de heredero o legatario hecha en memorias, comunicados secretos o documentos que no satisfagan las formalidades que la ley contempla.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1390.- Es nulo el testamento que haga el testador bajo la influencia de amenazas contra su persona o sus bienes, o contra la persona o bienes de su cónyuge o de sus parientes, aunque en el testamento se beneficie o no a persona distinta del autor de la violencia, del dolo o de la mala fe.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1391.- El testador que se encuentre en el caso del artículo anterior, podrá luego que cese la violencia o disfrute de la libertad completa, revalidar su testamento con las mismas solemnidades que si lo otorgara de nuevo. De lo contrario será nula la revalidación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 1392.- Es nulo el testamento captado por dolo o fraude.
 
-1393.- El Juez que tuviere noticia de que alguno impide a otro testar, se presentará sin demora en la casa del segundo para asegurar el ejercicio de su derecho, y levantará acta en que haga constar el hecho que ha motivado su presencia, la persona o personas que causen la violencia y los medios que al efecto hayan empleado o intentado emplear, y si la persona cuya libertad ampara hace uso de su derecho.
+El que por dolo, mala fe o violencia impide que alguno otorgue su testamento o revoque el otorgado, será incapaz de heredar a aquél, aún por intestado.
 
-1394.- Es nulo el testamento en que el testador no exprese cumplida y claramente su voluntad, sino sólo por señales o monosílabos en respuesta a las preguntas que se le hacen.
+Para calificar el dolo, la mala fe y la violencia, se aplicarán los artículos 1709 y 1713 de este Código.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1393.- El Juez o el agente del Ministerio Público, ante quien se denunciare que alguno impide a otro testar o revocar su testamento, se presentará sin demora en el lugar donde se encuentra el que pretende testar para asegurarle el ejercicio de su derecho, levantando acta donde se haga constar el hecho que ha motivado su presencia, la persona o personas que causen la violencia y los medios empleados para ella. En su caso, el Notario también hará constar los motivos que le impiden redactar el testamento o su revocación. En el caso anterior, el testamento será público abierto y el Juez o el agente del Ministerio Público, en su caso, estará presente durante el otorgamiento o la revocación, haciéndose constar esta circunstancia y la causa de la misma y firmará junto con el Notario y los testigos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1394.- Es nulo el testamento en que el testador no exprese clara y terminantemente su voluntad, sino sólo por señales o monosílabos, en respuesta a las preguntas que se le hacen.
 
 1395.- El testador no puede prohibir que se impugne el testamento en los casos en que este deba ser nulo conforme a la ley.
 
-1396.- El testamento es nulo cuando se otorga en contravención a las formas prescritas por la ley.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1397.- Son nulas la renuncia del derecho de testar y la cláusula en que alguno se obligue a no usar de ese derecho, sino bajo ciertas condiciones, sean éstas de la clase que fueren.
+1396.- El testamento no producirá efectos cuando se otorgue en contravención a las formas prescritas por la ley.
 
-1398.- La renuncia de la facultad de revocar el testamento es nula.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1399.- El testamento anterior queda revocado de pleno derecho por el posterior perfecto, si el testador no expresa en éste su voluntad de que aquél subsista en todo o en parte.
+1397.- Son nulas:
 
-1400.- La revocación producirá su efecto aunque el segundo testamento caduque por la incapacidad o renuncia del heredero o de los legatarios nuevamente nombrados.
+I.- La renuncia del derecho de testar.
 
-1401.- El testamento anterior recobrará, no obstante, su fuerza, si el testador, revocando el posterior, declara ser su voluntad que el primero subsista.
+II.- La obligación condicional de testar.
 
-1402.- Las disposiciones testamentarias caducan y quedan sin efecto, en lo relativo a los herederos y legatarios:
+III.- La renuncia de la facultad de revocar el testamento.
 
-I.- Si el heredero o legatario muere antes que el testador o antes de que se cumpla la condición de que dependa la herencia o el legado;
+IV.- La prohibición de impugnar el testamento por alguna de las causas legales.
 
-II.- Si el heredero o legatario se hace incapaz de recibir la herencia o legado;
+V.- La disposición por la que el testador imposibilite directa o indirectamente a las autoridades, la facultad de intervenir en la sucesión según lo establecido por la ley.
 
-III.- Si renuncia a su derecho.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1403.- La disposición testamentaria que contenga condición de suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
+#### SECCION SEGUNDA. DE LA REVOCACION
+
+1398.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1399.- El testamento es revocable hasta el último momento de la vida del testador.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1400.- El testamento anterior queda revocado de pleno derecho por el posterior perfecto, si el testador no expresa en éste su voluntad de que aquél subsista en todo o en parte.
+
+El testamento público simplificado no revocará al testamento anterior de otra clase, salvo en lo que se refiere al inmueble objeto del mismo. Sin embargo, el testamento público simplificado posterior sí revoca al testamento público simplificado anterior.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1401.- El testamento anterior recobrará su fuerza, si el testador, revocando el posterior, expresa su voluntad de que el primero subsista.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1402.- La revocación producirá su efecto aunque el testamento posterior caduque.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION TERCERA. DE LA CADUCIDAD
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1403.- Las disposiciones testamentarias caducan y quedan sin efecto en lo relativo a los herederos y legatarios:
+
+I.- Si el heredero o legatario muere antes que el testador o si mueren antes de que cumpla la condición de que dependan la herencia o el legado.
+
+II.- Si el heredero o legatario se vuelve incapaz de recibir la herencia o legado.
+
+III.- Si el heredero o legatario renuncia a su derecho.
+
+La disposición testamentaria que esté sujeta a la condición de un suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, pues en estos casos, sus derechos se transmiten a sus respectivos herederos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-1404.- El testamento, en cuanto a su forma, es ordinario o especial.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1405.- El ordinario puede ser:
+1404.- El testamento, en cuanto a su forma, es público o privado.
 
-I.- Público abierto;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-II.- Público cerrado; y
+1405.- El testamento público se otorga ante Notario y testigos, o únicamente ante Notario en los casos previstos legalmente.
 
-III.- Ológrafo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1406.- El especial puede ser:
+1406.- El testamento público puede ser abierto, cerrado o simplificado.
 
-I.- Privado;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-II.- Militar;
+1407.- En el testamento público abierto, el testador manifiesta su última voluntad en presencia de quienes deban autorizar el acto.
 
-III.- Marítimo; y
+En el testamento público cerrado, el testador declara que su última voluntad se encuentra contenida en el pliego que presenta ante los testigos y el Notario que autoriza el acto.
 
-IV.- Hecho en país extranjero.
+En el testamento público simplificado el testador declara su última voluntad en la forma establecida en los artículos 1468 y 1469 de este Código.
 
-1407.- No pueden ser testigos del testamento:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1408.- No pueden ser testigos del testamento:
 
 I.- Los empleados del Notario que lo autorice;
 
-II.- Los menores de dieciséis años;
+II.- Los menores de catorce años de edad;
 
 III.- Los que no estén en su sano juicio;
 
 IV.- Los ciegos, sordos o mudos;
 
-V.- Los que no entiendan el idioma que habla el testador;
+V.- Los herederos o legatarios, sus descendientes, ascendientes, hermanos, cónyuge o persona que viva maritalmente con el heredero o legatario. La intervención como testigo de alguna de las personas a que se refiere esta fracción, sólo produce la nulidad de la disposición que beneficie a esa persona y a las que menciona esta misma fracción;
 
-VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuges o hermanos. El concurso como testigo de una de las personas a que se refiere esta fracción, sólo produce como efecto la nulidad de la disposición que beneficie a ella o a sus mencionados parientes;
+VI.- Los que hayan sido condenados por el delito de falsedad.
 
-VII.- Los que hayan sido condenados por la infracción antisocial de falsedad.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1408.- Cuando el testador ignore el idioma del país concurrirán al acto y firmarán el testamento, además de los testigos y el Notario, dos intérpretes nombrados por el mismo testador.
+1409.- Para que un testigo sea declarado inhábil, es necesario que la causa de la inhabilidad haya existido al tiempo de otorgarse el testamento.
 
-1409.- Tanto el Notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad, y de que se halla en su cabal juicio y libre de cualquiera coacción.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1410.- Si la identidad del testador no pudiere ser verificada, se declarará esta circunstancia por el Notario o por los testigos, en su caso agregando uno u otros, todas las señales que caractericen la persona de aquél.
+1410.- Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el Notario, dos traductores nombrados por el mismo testador.
 
-1411.- En el caso del artículo que precede no tendrá validez el testamento mientras no se justifique la identidad del testador.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1412.- Se prohibe a los notarios y a cualesquiera otras persona, que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los Notarios y de la mitad a los que no lo fueren.
+1411.- Tanto el Notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad y de que se halla en su cabal juicio y libre de toda coacción.
 
-1413.- El que tenga en su poder un testamento debe dar aviso a los interesados y al representante del Fisco del Estado luego que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
+Si la identidad del testador no pudiere ser verificada documentalmente por el Notario o los testigos, se asentará esta circunstancia, agregando uno y otros, todas las señales que caractericen la persona del testador y el Notario cuidará que en el protocolo se imprima la huella digital del testador.
 
-1414.- Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1412.- No tendrá validez el testamento mientras no se justifique la identidad del testador.
+
+Si se recurre a testigos de identidad, éstos deberán ser conocidos del Notario o de los testigos instrumentales.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1413.- Se prohibe que en los instrumentos que contengan disposiciones de última voluntad, se dejen hojas total o parcialmente en blanco, así como utilizar abreviaturas o cifras, salvo que se trate de invocar artículos de la ley o números de formas oficiales. A los Notarios que no observen este precepto se les impondrá una multa, cuyo importe será de diez a cien veces el salario mínimo general vigente en la zona que se trate; para el resto de las personas la multa será de cinco a cincuenta veces el salario mínimo general vigente en la zona que se trate. La sanción será impuesta por el Juez que conozca del juicio sucesorio y se hará efectiva por el recaudador de rentas del lugar.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1414.- El que tenga en su poder un testamento, debe dar aviso a los interesados luego que sepa de la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione. Si los interesados están ausentes o son desconocidos del Notario, la noticia se dará al Juez.
+
+Lo dispuesto en el artículo anterior, se observará también por el Notario que hubiere autorizado el testamento, si tiene conocimiento de la muerte del testador.
 
 ### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
 
-1415.- Testamento público abierto es el que se otorga ante notario y tres testigos idóneos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1416.- El testador expresará de un modo claro y terminante su voluntad al Notario y a los testigos. El Notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+1415.- El testamento público abierto es el que se otorga ante Notario y tres testigos, a los cuales el testador expresa su voluntad de una manera clara y terminante.
 
-1417.- Si alguno de los testigos no supiere escribir, firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1418.- Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, que firme a su ruego.
+1416.- El Notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que este manifieste si está conforme. Si lo estuviere, firmarán el instrumento el testador, los testigos y el Notario, asentándose el lugar, hora, día, mes y año en que hubiere sido otorgado. El testador imprimirá además su huella digital, si ello fuere posible. El testador podrá solicitar al Notario o a alguno de los testigos que proceda a leer por segunda ocasión las cláusulas del testamento.
 
-1419.- En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1420.- El que fuere enteramente sordo; pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
+1417.- De los testigos a que se refiere el artículo 1415, por lo menos dos deben saber leer y escribir.
 
-1421.- Cuando sea ciego el testador, se dará lectura al testamento dos veces; una por el Notario, como está prescrito en el artículo 1416, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1422.- Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1408. La traducción se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del Notario que intervenga en el acto.
+1418.- Si uno de los tres testigos instrumentales no sabe o no puede firmar, de ser posible imprimirá su huella digital y además firmará por él, otro de los testigos.
 
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos interpretes que deben concurrir al acto hecha la traducción se procederá como se dispone en el párrafo anterior.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+1419.- Si el testador no pudiere o no supiere firmar, intervendrá un testigo más, que firmará por aquel a su ruego.
 
-1423.- Las formalidades se practicarán acto continuo y el Notario dará fe de haberse llenado todas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1424.- Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
+1420.- En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, para los efectos del artículo anterior, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1421.- El testador que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona para que lo lea por él.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1422.- Cuando el testador sea ciego o no pueda o no sepa leer, se dará lectura el testamento dos veces; una por el Notario, como está previsto en el artículo 1416, y otra, en igual forma, por uno de los testigos u otra persona que el testador designe.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1423.- Cuando el testador ignore el idioma del país, si puede escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere e (sic) artículo 1410.
+
+La traducción se transcribirá como testamento en el protocolo respectivo y el original firmado por el testador, los testigos, los intérpretes y el Notario, se archivará en el apéndice correspondiente del Notario que intervenga en el acto.
+
+Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto. Hecha la traducción se procederá como se dispone en el párrafo anterior.
+
+Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes y traducido por los dos intérpretes se procederá como dispone el párrafo primero de este artículo.
+
+Salvo disposición expresa de la ley, no podrá presenciar el acto del otorgamiento otra persona distinta de las mencionadas anteriormente y de los escribientes del Notario, salvo que el testador así lo pidiere expresamente, siempre que con su presencia no se coarte la libertad de testar.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1424.- Las formalidades expresadas en este capítulo se practicarán en un solo acto y sin interrupción, y el Notario dará fe y así lo hará constar, de que se llenaron todas.
+
+Faltando alguna de las referidas solemnidades quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además en la pena de pérdida de la patente, si la omisión fuere grave.
 
 ### CAPITULO III. TESTAMENTO PUBLICO CERRADO
 
-1425.- Es público cerrado el testamento cuando el testador, sin revelar su última voluntad, declara que ésta se halla contenida en el pliego que presenta al Notario que debe autorizar el acto.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1426.- El testamento público cerrado puede ser escrito por el testador o por otra persona a su ruego, y en papel común.
+1425.- Los que no saben o no pueden leer son inhábiles para otorgar testamento público cerrado.
 
-1427.- El testador debe rubricar todas las hojas y firmar al calce del testamento; pero si no supiere o no pudiere hacerlo, podrá rubricar y firmar por él otra persona a su ruego.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1428.- En el caso del artículo que precede, la persona que haya rubricado y firmado por el testador, concurrirá con él a la presentación del pliego cerrado; en este acto, el testador declarará que aquella persona rubricó y firmó en su nombre y ésta firmará en la cubierta con los testigos y el Notario.
+1426.- El testamento público cerrado se hará constar en papel común y puede ser escrito a máquina o manuscrito por el testador o por otra persona a su ruego. Dicho documento se introducirá en un sobre que deberá ser debidamente cerrado y sellado por el propio testador o la persona que éste designe.
 
-1429.- El papel en que está escrito el testamento o el que le sirva de cubierta, deberá estar cerrado y sellado, o lo hará cerrar y sellar el testador en el acto del otorgamiento, y lo exhibirá al Notario en presencia de tres testigos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1427.- El testador debe firmar al pie del testamento y al margen de las hojas de que se componga. Además, deberá imprimir su huella digital en cada una de las hojas. Si no pudiere firmar, firmará por él otra persona a su ruego. De ser posible, en este último caso, el testador rubricará el documento.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1428.- La persona que haya firmado por el testador concurrirá con éste a la presentación del pliego al Notario, acto en el cual el testador declarará que esa persona firmó en su nombre y así lo hará constar el Notario en el acta que al respecto extienda en su protocolo.
+
+Tanto en éste como en la cubierta del testamento firmará la mencionada persona con los testigos y el Notario.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1429.- El testador, acompañado de tres testigos, presentará al Notario el pliego que contenga su testamento.
 
 1430.- El testador, al hacer la presentación, declarará que en aquel pliego está contenida su última voluntad.
 
-1431.- El Notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, que llevará las estampillas del timbre correspondientes, y deberá ser firmada por el testador, los testigos y el Notario, quien, además, pondrá su sello.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1432.- Si alguno de los testigos no supiere firmar, se llamará a otra persona que lo haga en su nombre y su presencia, de modo que siempre haya tres firmas.
+1431.- El testador podrá solicitar al Notario que éste lea el testamento, en cuyo caso será el primero quién proceda a la apertura del pliego. En este evento el Notario leerá para sí el testamento y en caso de encontrar alguna irregularidad, y sin que lo adviertan los testigos, a hará saber al testador, orientándolo sobre la forma de corregirla.
 
-1433.- Si al hacer la presentación del testamento no pudiere firmar el testador, lo hará otra persona en su nombre y en su presencia, no debiendo hacerlo ninguno de los testigos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1434.- Sólo en casos de suma urgencia podrá firmar uno de los testigos, ya sea por el que no sepa hacerlo, ya por el testador. El Notario hará constar expresamente esta circunstancia bajo la pena de suspensión de oficio por tres años.
+1432.- El Notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores. Esa constancia deberá extenderse tanto en el acta que se asiente en el protocolo como en la cubierta del sobre que contiene el testamento, y deberá ser firmado por el testador o quien por él haya firmado el pliego testamentario, por los testigos y el Notario, quien además pondrá su sello.
 
-1435.- Los que no saben o no pueden leer, son inhábiles para hacer testamento cerrado.
+El testador imprimirá su huella digital en el acta del protocolo y en la cubierta del testamento.
 
-1436.- El sordomudo podrá hacer testamento cerrado con tal que esté todo el escrito, fechado y firmado de su propia mano, y que al presentarlo al Notario ante cinco testigos, escriba a presencia de todos sobre la cubierta que en aquel pliego se contiene su última voluntad, y va escrita y firmada por él. El Notario declarará en el acta de la cubierta que el testador lo escribió así, observándose, además, lo dispuesto en los artículos 1429, 1431 y 1432.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1437.- En el caso del artículo anterior, si el testador no puede firmar la cubierta, se observará lo dispuesto en los artículos 1433 y 1434 dando fe el Notario de la elección que el testador haga de uno de los testigos para que firme por él.
+1433.- Si el pliego se hubiere abierto, corregida la irregularidad, o si no se encontró ninguna, el Notario, en presencia de los testigos y del testador, pondrá su sello y firmará en el pliego, lo cerrará y sellará la cubierta del mismo.
 
-1438.- El que sea sólo mudo o sólo sordo, puede hacer testamento cerrado con tal que esté escrito de su puño y letra, o si ha sido escrito por otro, lo anote así el testador, y firme la nota de su puño y letra, sujetándose a las demás solemnidades precisas para esta clase de testamentos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1439.- El testamento cerrado que carezca de alguna de las formalidades sobredichas, quedará sin efecto, y el Notario será responsable en los términos del artículo 1404.
+1434.- Si alguno de los testigos no supiere firmar se llamará a otra persona que lo haga en su nombre y en su presencia, de modo que siempre haya tres firmas, además de las del Notario y del testador o de quien, en su caso, firme por éste a su ruego.
 
-1440.- Cerrado y autorizado el testamento, se entregará al testador, y el Notario pondrá razón en el protocolo del lugar, hora, día, mes y año en que el testamento fue autorizado y entregado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1441.- Por la infracción del artículo anterior, no se anulará el testamento, pero el Notario incurrirá en la pena de suspensión por seis meses.
+1435.- Si al hacer la presentación del testamento, el testador no pudiere firmar, lo hará otra persona en su nombre y en su presencia, que no será ninguno de los testigos.
 
-1442.- El testador podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza, o depositarlo en las oficinas del Registro Público de la Propiedad.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1443.- El testador que quiera depositar su testamento en el Registro se presentará con él ante el encargado de éste, quien hará asentar en el libro que con ese objeto debe llevarse, una razón del depósito o entrega, que será firmada por dicho funcionario y el testador, a quien se dará copia autorizada.
+1436.- Sólo en los casos de suma urgencia podrá firmar uno de los testigos, ya sea por el que de ellos no sepa hacerlo o por el testador, y el Notario hará constar expresamente esta circunstancia, bajo pena de suspensión del oficio por tres años.
 
-1444.- Pueden hacerse por procurador la presentación y depósito de que habla el artículo que precede, y en este caso, el poder quedará unido al testamento.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1445.- El testador puede retirar, cuando le parezca, su testamento; pero la devolución se hará con las mismas solemnidades que la entrega.
+1437.- El sordomudo podrá hacer testamento cerrado con tal de que esté todo el documento escrito, fechado y firmado de su propia mano, y que al presentarlo al Notario, ante tres testigos, escriba en presencia de todos sobre la cubierta, que en aquel pliego se contiene su última voluntad y que va escrito y firmado por él.
 
-1446.- El poder para la entrega y para la extracción del testamento, debe otorgarse en escritura pública, y esta circunstancia se hará constar en la nota respectiva.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1438.- En el caso del artículo anterior, el Notario asentará en el acta del protocolo que al respecto extienda y en la cubierta del sobre que contiene el testamento, que el testador lo escribió así, observándose además lo dispuesto en los artículos 1427 a 1434. Si el testador, al hacer la presentación, no puede firmar, se observará lo dispuesto en los artículos 1435 y 1436, dando fe el Notario de la elección que el testador haga de uno de los testigos para que firme por él.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1439.- El que sea sólo mudo o sólo sordo, puede hacer testamento cerrado con tal de que esté escrito en su totalidad de su puño y letra, o si ha sido escrito por otro, lo anote así el testador y firme la nota también de su puño y letra, sujetándose a las demás solemnidades requeridas para esta clase de testamentos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1440.- El testamento cerrado que carezca de alguna de las formalidades previstas quedará sin efecto.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1441.- Cerrado y autorizado el testamento se entregará al testador y se dará aviso a la Dirección del Registro Público de la Propiedad y del Notario del otorgamiento del testamento, y el Notario pondrá razón en el protocolo, del lugar, hora, día, mes y año en que el testamento fue entregado al testador y remitido el aviso a la Dirección.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1442.- Por la infracción del artículo anterior, no se anulará el testamento, pero el Notario incurrirá en la pena de suspensión por seis meses.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1443.- El testador, podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza, o depositarlo en el Registro Público de la Propiedad y del Notariado.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1444.- El testador que quiera depositar su testamento en el Registro Público de la Propiedad y del Notariado se presentará con él ante el encargado de éste, quien asentará la razón de depósito en el libro respectivo, la cual será firmada por dicho funcionario y el testador, a quien se dará constancia de ello.
+
+Pueden hacerse a través de mandatario la presentación y el depósito de que habla el párrafo anterior, y en este caso el documento que contenga el mandato quedará archivado conjuntamente con testamento.
+
+El mandato para la entrega y para la extracción del testamento será especial para esos objetos y deberá otorgarse en escritura pública.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1445.- El encargado del Registro Público de la Propiedad y del Notariado asentará en el libro que con ese objeto debe llevarse, una razón del depósito, firmada por él y de la cual se enviará copia al Notario. Se dará también copia de la razón al testador, si la pidiere.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1446.- El testador puede retirar cuando quiera su testamento; pero la devolución se hará con las mismas formalidades que la entrega.
+
+Si el testador retira el testamento porque lo revoca, deberá informarlo así al Registrador, quien hará constar esta circunstancia y la comunicará al Notario.
 
 1447.- Luego que el Juez reciba un testamento cerrado, hará comparecer al Notario y a los testigos que concurrieron a su otorgamiento.
 
@@ -5261,159 +5903,273 @@ Si el testador no puede o no sabe leer, dictará en su idioma el testamento a un
 
 1449.- Si no pudieren comparecer todos los testigos por muerte, enfermedad o ausencia, bastará el reconocimiento de la mayor parte y el del Notario.
 
-1450.- Si por iguales causas no pudieren comparecer el Notario, la mayor parte de los testigos o ninguno de ellos, el Juez lo hará constar así por información, como también la legitimidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar en que éste se otorgó.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1451.- En todo caso, los que comparecieren reconocerán sus firmas.
+1450.- Si por iguales causas no pudieren comparecer el Notario, la mayor parte de los testigos o ninguno de ellos, el Juez lo hará constar así por información de personas fidedignas y verificará la legitimidad de las firmas y que en la fecha del testamento se encontraban aquellos en el lugar en que éste se otorgó.
 
-1452.- Cumplido lo prescrito en los cinco artículos anteriores, el Juez decretará la publicación y protocolización del testamento.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1453.- El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior o abierto el que forma la cubierta, o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
+1451.- En cualquier caso, los que comparecieren reconocerán sus firmas. Cumplido lo prescrito en los párrafos precedentes, el Juez decretará la publicación y protocolización del testamento.
 
-1454.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está previsto en el artículo 1413, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código de Defensa Social.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO IV. DEL TESTAMENTO OLOGRAFO
+1452.- Debe el Notario guardar el secreto profesional con relación al testamento público cerrado que hubiere certificado, siendo responsable en caso de violar dicho secreto.
 
-1455.- Se llama testamento ológrafo, al escrito de puño y letra del testador.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1456.- Este testamento sólo podrá ser otorgado por las personas mayores de edad, y para que sea válido, deberá estar totalmente escrito por el testador y firmado por él con expresión del día, mes y año en que se otorgue.
+1453.- El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior o abierto el que forma la cubierta, o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no contenga alteraciones.
 
-Los extranjeros podrán otorgar testamento ológrafo en su propio idioma.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1457.- Si contuviere palabras tachadas, enmendadas o entre renglones, las salvará el testador bajo su firma.
+1454.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está previsto en el artículo 1414, o lo sustraiga dolosamente de los bienes del finado, si fuere heredero por intestado perderá el derecho que pudiera tener, sin perjuicio de las penas que le correspondan conforme al Código Penal.
 
-La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento mismo.
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1458.- El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos, los sellos, señales o marcas que estime necesarias para evitar violaciones.
+### CAPITULO IV. DEL TESTAMENTO PUBLICO SIMPLIFICADO
 
-1459.- El depósito en el Registro Público se hará personalmente por el testador, quien si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1460.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "Recibí el pliego cerrado que el señor . . . . . afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
+1455.- Testamento público simplificado es el que se refiere a un determinado inmueble destinado o que vaya a destinarse a vivienda por el adquirente y que se otorga ante Notario, en la misma escritura que consigne su adquisición, o en la que se consigne la regularización que lleven a cabo las autoridades del Estado o de los municipios de la entidad, o cualquier dependencia u organismo públicos, aún los desconcentrados o descentralizados, o en acto posterior, de conformidad con lo dispuesto en este Capítulo.
 
-1461.- Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las Oficinas del Registro Público, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1462.- Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al Juez competente.
+1456.- Para los efectos del artículo anterior, el precio del inmueble o su valor según avalúo catastral, no excederá del equivalente a veinticinco veces el salario mínimo general vigente en el lugar de su ubicación elevado al año, al momento de la adquisición.
 
-1463.- En cualquier tiempo el testador tendrá derecho de retirar del archivo, personalmente o por medio de mandatario con poder solemne y especial, el testamento depositado; haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1995)</small>
+1457.- En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el artículo 1455, no importará su monto.
 
-1464.- Cuando se otorgue un testamento ológrafo, el Encargado del Registro Público de la Propiedad, dentro de los tres días hábiles siguientes dará aviso al Departamento del Registro Público de la Propiedad y del Notariado, expresando la fecha, nombre, apellidos del testador y sus generales.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1465.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al Juez competente, quien pedirá al encargado de la oficina del Registro en que se encuentre el testamento, que se lo remita.
+1458.- El testador expresará de manera clara y terminante su voluntad de que a su muerte, el inmueble se transmita en propiedad por la persona o personas a quienes instituye como legatarios.
 
-1466.- Recibido el testamento, el Juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 1456 y queda comprobado que es el mismo que depositó el testador, se declarará formal testamento de éste.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1467.- Sólo cuando el original depositado haya sido destruido o robado, se tendrá como formal testamento el duplicado, procediéndose para su apertura como se dispone en el artículo que precede.
+1459.- El testador podrá instituir uno o más legatarios con derecho de acrecer, salvo designación de substitutos.
 
-1468.- El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendadoras, aun cuando el contenido del testamento no sea vicioso.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1469.- El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+1460.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1461.- Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. No habrá impedimento para que los cónyuges o uno sólo de ellos designen al otro como legatario de la porción que les corresponda sobre el inmueble, sin que se considere que existe influjo contrario a la libertad de testar.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1462.- En los supuestos a que se refieren los dos artículos anteriores, no se aplicará lo dispuesto por el artículo 1198 de este Código.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1463.- Tanto al otorgar el testamento público simplificado en la escritura a que se refiere el artículo 1455, o en acto posterior, el testador, en todo caso, deberá imprimir su huella digital.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1464.- Fallecido el autor de la sucesión, la adquisición de la titularidad por los legatarios, se hará en los términos de los artículos siguientes.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1465.- Para la titulación notarial de la adquisición por los legatarios instituidos en testamento público simplificado, se observará lo siguiente:
+
+I.- Los legatarios o sus representantes exhibirán al Notario la copia certificada del acta de defunción del testador y testimonio del testamento público simplificado;
+
+II.- El Notario dará a conocer, por medio de una publicación en un periódico de los de mayor circulación en el último domicilio del testador, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, los nombres del testador y de los legatarios y, en su caso, su parentesco;
+
+III.- El Notario recabará del Archivo de Notarías y del Registro Público del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia de testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el Notario podrá continuar con los trámites relativos, siempre que no existiere oposición;
+
+IV.- De ser procedente, el Notario redactará el instrumento en el que se relacionará los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso, y la conformidad expresa de los legatarios en aceptar el legado, documento que se inscribirá en el Registro Público. En su caso se podrá hacer constar la repudiación expresa;
+
+V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez un testamento público simplificado, en los términos del artículo anterior;
+
+VI.- Todas las resoluciones se harán constar en actas, excepto en el caso de la fracción anterior, y no se requerirán peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado;
+
+VII.- El acta o actas en que consten las adjudicaciones servirán de título a los interesados; y,
+
+VIII.- Para el caso de que, al llevarse a cabo la protocolización notarial de la adquisición a favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador podrá designarles un representante especial que firme el instrumento notarial correspondiente en nombre de los incapaces.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1466.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado representante en la totalidad del acervo hereditario de los bienes del autor de la sucesión.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1467.- Los legatarios podrán reclamar directamente la entrega del inmueble y no les serán aplicables las disposiciones de los artículos 1607 a 1662 y demás relativos de este Código.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1468.- El legatario adquirirá el inmueble con las cargas o gravámenes que tuviere, salvo disposición expresa del testador.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1468 (SIC).- En el instrumento en el que se haga constar el testamento público simplificado se observarán las formalidades que corresponden a una escritura pública.
 
 ### CAPITULO V. DEL TESTAMENTO PRIVADO
 
-1470.- El testamento privado está permitido en los casos siguientes:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-I.- Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para que concurra Notario a hacer el testamento;
+1470.- El testamento podrá ser privado cuando no sea posible otorgarlo ante Notario, si además concurre cualquiera de las circunstancias siguientes:
 
-II.- Cuando no haya Notario en la población, o Juez que actúe por receptoría;
+I.- El testador sea atacado de una enfermedad o haya sufrido un accidente, tan violentos y graves, que no den tiempo para que concurra ante Notario;
 
-III.- Cuando, aunque haya Notario o Juez en la población, sea imposible, o por lo menos muy difícil, que concurran al otorgamiento del testamento;
+II.- El testador se encuentre en una población incomunicada por razón de epidemia, aunque él no haya sido atacado por ésta;
 
-IV.- Cuando los militares o asimilados del ejercito entren en campaña o se encuentren prisioneros de guerra;
+III.- El testador se encuentre en una plaza sitiada o incomunicada por cualquiera causa temporal y de fuerza mayor;
 
-V.- Cuando se otorgue en una población que esté incomunicada por razón de epidemia, aunque el testador no se halle atacado de ésta;
+IV.- El testador sea militar o asimilado del ejército y haya entrado en campaña o se encuentre prisionero de guerra;
 
-VI.- Cuando se otorgue en una plaza sitiada.
+V.- No haya en el lugar Notario o Juez que actúe por receptoría; o,
 
-1471.- Para que en los casos enumerados en el artículo que precede pueda otorgarse testamento privado, es necesario que al testador no le sea posible hacer testamento ológrafo.
+VI.- Cuando, aunque haya Notario o Juez en el lugar, sea imposible, o extremadamente difícil que concurran al otorgamiento del testamento.
 
-1472.- El testador que se encuentre en el caso de hacer testamento privado, declarará a presencia de cinco testigos idóneos su última voluntad, que uno de ellos redactará por escrito, si el testador no puede escribir.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1473.- No será necesario redactar por escrito el testamento, cuando ninguno de los testigos sepa escribir y en los casos de suma urgencia.
+1471.- El testador que se encuentre en el caso de hacer testamento privado, redactará éste de su puño y letra y además declarará en presencia de tres testigos idóneos su última voluntad dando lectura al documento. Si el testador no pudiere o no supiere escribir, la redacción podrá efectuarla uno de los mencionados testigos, a quien el testador dictará su última voluntad en presencia de los otros dos.
 
-1474.- En los casos de suma urgencia bastarán tres testigos idóneos.
+Al concluir el escrito, el testador lo leerá en voz alta en presencia de los testigos y si no pudiere o no supiere hacerlo, la lectura podrá hacerla un testigo que preferentemente no será el que lo hubiere escrito.
 
-1475.- Al otorgarse el testamento privado se observarán en su caso, las disposiciones contenidas en los artículos del 1416 al 1423.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1476.- El testamento privado solo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro en que se hallaba o dentro de un mes de desaparecida la causa que lo motivó.
+1472.- En el caso del artículo anterior, si supiere escribir y pudiere hacerlo, el testador firmará al calce, rubricará lo escrito e imprimirá su huella digital. Si no supiere o no pudiere escribir, imprimirá su huella digital a (sic) calce de cada una de las hojas y otro testigo más firmará a su ruego.
 
-1477.- El testamento privado necesita, además, para su validez, que se haga la declaración a que se refiere el artículo 1480, teniendo en cuenta las declaraciones de los testigos que firmaron u oyeron, en su caso, la voluntad del testador.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1478.- La declaración a que se refiere el artículo anterior será pedida por los interesados, inmediatamente después que supieren la muerte del testador y la forma de su disposición.
+1473.- Al otorgarse el testamento de que trata este capítulo, se observarán las disposiciones siguientes:
 
-1479.- Los testigos que concurran a un testamento privado deberán declarar circunstancialmente:
+I.- En el testamento se asentará el lugar, la hora, el día, el mes y el año en que hubiere sido otorgado.
 
-I.- El lugar, la hora, el día, el mes y el año en que se otorgó el testamento;
+II.- Los testigos que requiere este testamento, deben saber leer y escribir.
 
-II.- Si reconocieron, vieron y oyeron claramente al testador;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-III.- El tenor de la disposición,
+1474.- Al otorgarse el testamento privado también se observarán en su caso, las disposiciones conducentes de los artículos del 1417 al 1423.
 
-IV.- Si el testador estaba en su cabal juicio y libre de cualquiera coacción;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-V.- El motivo por el que se otorgó el testamento privado;
+1475.- El testamento privado sólo surtirá efectos si el testador fallece por la causa que lo motivó, o dentro de un mes de desaparecida ésta.
 
-VI.- Si saben que el testador falleció o no de la enfermedad, o en el peligro en que se hallaba.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1480.- Si los testigos fueron idóneos y estuvieron conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el Juez declarará que sus dichos son el formal testamento de la persona de quien se trate.
+1476.- El testamento privado necesita para su validez, la declaración judicial de ésta ajustado a derecho, se dictará conforme al artículo 1480, teniendo en cuenta las declaraciones de los testigos que firmaron u oyeron, en su caso, la voluntad del testador.
 
-1481.- Si después de la muerte del testador, muriese alguno de los testigos, se hará la declaración con los restantes, con tal de que no sean menos de tres, manifiestamente contestes, y mayores de toda excepción.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1482.- Lo dispuesto en el artículo anterior se observará también en el caso de ausencia de alguno o algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
+1477.- La declaración a que se refiere el artículo anterior será pedida por los interesados, inmediatamente después que supieren la muerte del testador y la forma de su disposición.
 
-1483.- Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO VI. DEL TESTAMENTO MILITAR
+1478.- Si después de la muerte del testador y antes de elevarse a formal testamento la que se dice su última disposición, muriese alguno de los testigos o se declare su ausencia, se hará la protocolización con los restantes, con tal que no sean menos de dos, perfectamente contestes y a salvo de toda excepción.
 
-1484.- Si el militar o el asimilado del Ejercito hace su disposición en el momento de entrar en acción de guerra, o estando herido sobre el campo de batalla, bastará que declare su voluntad ante dos testigos, o que entregue a los mismos el pliego cerrado que contenga su última disposición, firmada de su puño y letra.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1485.- Si el testamento es cerrado, los testigos firmarán en la cubierta, haciéndolo el testador si pudiere.
+1479.- Los testigos que autoricen un testamento otorgado en los casos que señala el artículo 1470, ante la autoridad judicial deberán declarar circunstancialmente y bajo protesta de decir verdad:
 
-1486.- Lo dispuesto en el artículo 1484 se observará, en su caso, respecto de los prisioneros de guerra.
+I.- El lugar, la hora, el día, el mes y el año en que se otorgó el testamento.
 
-1487.- Los testamentos otorgados por escrito conforme a este Capítulo, deberán ser entregados luego que muera el testador, por aquél en cuyo poder hubieren quedado, al jefe de la corporación, quien lo remitirá a la Secretaría de la Defensa Nacional y ésta a la autoridad judicial competente.
+II.- Si reconocieron, vieron y oyeron claramente al testador.
 
-1488.- Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto a la Secretaría de la Defensa Nacional y ésta a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos del 1476 al 1483.
+III.- El tenor de la disposición.
+
+IV.- Si el testador estaba en su cabal juicio y libre de cualquier coacción.
+
+V.- El motivo por el que se otorgó el testamento privado.
+
+VI.- En el caso del artículo 1471, quién fue el testigo que lo escribió.
+
+VII.- Si saben que el testador falleció o no de la enfermedad, o en el peligro en que se hallaba.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1480.- Si los testigos fueron idóneos y estuvieron conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el Juez declarará el contenido del documento como formal testamento de la persona de quien se trate; mandará protocolizar el escrito en el que conste el testamento, y dispondrá que se extiendan los testimonios respectivos a las personas que con derecho lo soliciten.
+
+1481.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1482.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1483.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO VI. DEL TESTAMENTO MILITAR Y MARITIMO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1484.- El testamento militar y el marítimo, otorgados conforme a las disposiciones del Código Civil Federal, producirán efectos en el Estado de Chihuahua respecto a las disposiciones testamentarias que deban ejecutarse en éste.
+
+1485.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1486.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1487.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+1488.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO VII. DEL TESTAMENTO MARITIMO
 
-1489.- Los chihuahuenses que se encuentren en alta mar, a bordo de navíos de la Marina Nacional, sean de guerra o mercantes pueden también hacer testamento privado, que surtirá efecto en el Estado, si se hizo con sujeción a las disposiciones establecidas en el Código Civil del Distrito Federal respecto a testamentos marítimos.
+1489.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
 ### CAPITULO VIII. DEL TESTAMENTO HECHO FUERA DEL ESTADO
 
-1490.- Los testamentos hechos en país extranjero o en otro de los Estados de la República, producirán efecto en éste, cuando hayan sido formulados auténticamente conforme a las leyes del lugar en que se otorgaron; observándose respecto de los chihuahuenses lo prevenido en el artículo 14.
+1490.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-1491.- La herencia legítima se abre:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-I.- Cuando no hay testamento, o el que se otorgó es nulo o perdió su validez;
+1491.- La sucesión legítima se abre:
 
-II.- Cuando el testador no dispuso de todos sus bienes;
+I.- Cuando no hay testamento.
 
-III.- Cuando no se cumpla la condición impuesta al heredero;
+II.- Cuando el testamento otorgado es nulo o perdió su validez
 
-IV.- Cuando el heredero muere antes del testador, repudia la herencia o es incapaz de heredar, si no se ha nombrado sustituto.
+III.- Cuando el testador no dispuso de todos sus bienes.
 
-1492.- Cuando siendo válido el testamento no deba subsistir la institución de heredero, subsistirán, sin embargo las demás disposiciones hechas en él, y la sucesión legítima sólo comprenderá los bienes que debían corresponder al heredero instituido.
+IV.- Cuando no se cumpla la condición impuesta al heredero.
+
+V.- Cuando el heredero muere antes que el testador, repudia la herencia o es incapaz de heredar, si no se ha nombrado substituto ni hay quien tenga el derecho de acrecer.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1492.- Cuando a pesar de ser válido el testamento no deba subsistir la institución de heredero, subsistirán las demás disposiciones hechas en él y la sucesión legítima sólo sorprenderá los bienes que debían corresponder al heredero instituido.
 
 1493.- Si el testador dispone legalmente sólo de una parte de sus bienes el resto de ellos forma la sucesión legítima.
 
-1494.- Tienen derecho a heredar por sucesión legítima:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado, y en ciertos casos la concubina;
+1494.- Tienen derecho a heredar por sucesión legítima, en el orden establecido por este Código:
 
-II.- A falta de los anteriores, la Beneficencia Pública.
+I.- Los descendientes;
 
-1495.- El parentesco de afinidad no da derecho de heredar.
+II.- El cónyuge supérstite o quien vivía con el autor de la herencia en la situación prevista por el artículo 1527 de este Código;
 
-1496.- Los parientes más próximos excluyen a los más remotos, salvo lo dispuesto en los artículos 1501 y 1524.
+III.- Los ascendientes;
 
-1497.- Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
+IV.- Los parientes colaterales hasta el cuarto grado; y,
 
-1498.- Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo I, Título VI, Libro Primero.
+V.- A falta de las personas comprendidas en las fracciones anteriores, heredará la Asistencia Pública del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1495.- El parentesco por afinidad no da derecho de heredar por sucesión legítima.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1496.- Los parientes en línea recta excluyen a los de la colateral y los parientes más próximos a los más lejanos, salvo el derecho de substitución previsto en este Código.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1497.- Los parientes que se hallaren en el mismo grado heredarán por partes iguales.
+
+Si hubiere varios parientes en un mismo grado, y alguno o algunos no quisieren o no pudieren heredar, su parte acrecerá a los otros del mismo grado, salvo el derecho de sustitución.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1498.- Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Libro Primero, Título Sexto, Capítulo I, de este Código.
 
 ### CAPITULO II. DE LA SUCESION DE LOS DESCENDIENTES
 
@@ -5421,17 +6177,25 @@ II.- A falta de los anteriores, la Beneficencia Pública.
 
 1500.- Cuando concurran descendientes con el cónyuge que sobreviva, a éste le corresponderá la porción de un hijo, de acuerdo con lo dispuesto en el artículo 1516.
 
-1501.- Si quedaren hijos y descendientes de ulterior grado, los primeros heredarán por cabeza y los segundos por estirpe. Lo mismo se observará tratándose de descendientes de hijos premuertos, incapaces de heredar o que hubieren renunciado la herencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1502.- Si sólo quedaren descendientes de ulterior grado la herencia se dividirá por estirpes, y si en alguna de éstas hubiere varios herederos, la porción que a ella corresponda se dividirá por partes iguales.
+1501.- Si quedaren hijos y descendientes de ulterior grado los primeros heredarán por cabeza y los segundos por estirpe. Lo mismo se observará tratándose de descendientes de hijos premuertos, incapaces de heredar o que hubieren renunciado la herencia.
 
-1503.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1504.- El adoptado hereda como un hijo; pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+1502.- Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por estirpes. Si en alguna de éstas hubiere varios herederos, la porción que a esa estirpe corresponda se dividirá por partes iguales.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1505.- Concurriendo los padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a los alimentos.
+1503.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos cuando el autor de la herencia estuviere obligado a proporcionarlos. En ningún caso pueden exceder de la porción de uno de los hijos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1504.- El adoptado hereda como un hijo. En la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1505.- Concurriendo los padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos, cuando el adoptado tuviere obligación de proporcionarlos.
 
 1506.- Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
@@ -5455,9 +6219,13 @@ II.- A falta de los anteriores, la Beneficencia Pública.
 
 1513.- Si concurren los adoptantes y el cónyuge del adoptado ya se está en el caso de la adopción simple, las dos terceras partes de la herencia corresponderán al cónyuge; la otra tercera pare a los adoptantes.
 
-1514.- Los ascendientes, aun cuando sean ilegítimos, tienen derecho de heredar a sus descendientes reconocidos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1515.- Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce, ni sus descendientes tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
+1514.- Si el reconocimiento de un hijo se hace después de que éste haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce ni sus descendientes tienen derecho a la herencia del reconocido. Además, el que reconoce sólo tiene derecho a alimentos en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibirlos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1515.- Las mismas reglas se aplicarán cuando la filiación se establezca mediante sentencia pronunciada en investigación de la paternidad o la maternidad.
 
 ### CAPITULO IV. DE LA SUCESION DEL CONYUGE
 
@@ -5465,7 +6233,9 @@ II.- A falta de los anteriores, la Beneficencia Pública.
 
 1517.- En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porción señalada; en el segundo, sólo tendrá derecho de recibir lo que baste para igualar sus bienes con la porción mencionada.
 
-1518.- Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1518.- Si el cónyuge que sobrevive concurre con ascendientes, se procederá de la siguiente manera: si son los padres del autor de la sucesión, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los padres; si se trata de ascendiente de ulterior grado, a éstos se les aplicará una tercera parte de la herencia y el resto al cónyuge.
 
 1519.- Concurriendo el cónyuge con uno o más hermanos del autor de la sucesión, tendrá dos tercios de la herencia, y el tercio restante se aplicará al hermano o se dividirá por partes iguales entre los hermanos.
 
@@ -5481,435 +6251,827 @@ II.- A falta de los anteriores, la Beneficencia Pública.
 
 1524.- Si concurren hermanos con sobrinos, hijos de hermanos o de medios hermanos premuertos, que sean incapaces de heredar o que hayan renunciado la herencia, los primeros heredarán por cabeza y los segundos por estirpes, teniendo en cuenta lo dispuesto en el artículo anterior.
 
-1525.- A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpes, y la porción de cada estirpe por cabezas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1525.- A falta de hermanos, sucederán los hijos de éstos, dividiéndose la herencia por estirpes, y la porción de cada estirpe por el número de hijos de cada hermano.
 
 1526.- A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de línea, ni consideración al doble vínculo y heredarán por partes iguales.
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente:
 
-### CAPITULO VI. DE LA SUCESION DE LA CONCUBINA
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1527.- La mujer con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+### CAPITULO VI. DE LA SUCESION EN EL CONCUBINATO
 
-I.- Si la concubina concurre con sus hijos que lo sean también del autor de la herencia, se observará lo dispuesto en los artículos 1516 y 1517;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-II.- Si la concubina concurre con descendientes del autor de la herencia, que no sean también descendientes de ella, tendrá derecho a la mitad de la porción que le corresponda a un hijo;
+1527.- Heredará en la misma proporción del cónyuge, quien haya vivido con el autor de la herencia públicamente como cónyuge, sin estar casado con él y sin que hubiese ningún impedimento para que contrajesen matrimonio uno con otro, si la vida en común duró más de cinco años, o menos si procrearon un hijo durante dicha convivencia, y si durante esa situación falleció el autor de la herencia. Si la vida en común duró menos de cinco años, y no procrearon ningún hijo, el supérstite sólo tendrá derecho a alimentos.
 
-III.- Si concurre con hijos que sean suyos y con hijos que el autor de la herencia hubo con otra mujer, tendrá derecho a las dos terceras partes de la porción de un hijo;
+Si varias personas se encuentran en el supuesto previsto en el párrafo que antecede, ninguna de ellas tendrá derecho a heredar.
 
-IV.- Si concurre con ascendientes del autor de la herencia, tendrá derecho a la cuarta parte de los bienes que forman la sucesión;
-
-V.- Si concurre con parientes colaterales dentro del cuarto grado del autor de la sucesión, tendrá derecho a una tercera parte de ésta;
-
-VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge, o parientes colaterales dentro del cuarto grado, los bienes de la sucesión pertenecen a la concubina.
-
-En los casos a que se refieren las fracciones II, III y IV debe observarse lo dispuesto en los artículos 1516 y 1517, si la concubina tiene bienes.
-
-Si al morir el autor de la herencia tenía varias concubinas en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará.
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
-### CAPITULO VII. DE LA SUCESION DE LA BENEFICENCIA PUBLICA
+### CAPITULO VII. DE LA SUCESION DE LA BENEFICENCIA PUBLICA DEL ESTADO
 
-1528.- A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Beneficencia Pública.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1529.- Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existen bienes raíces que no puede adquirir conforme al artículo 27 de la Constitución, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
+1528.- A falta de todos los herederos llamados en los capítulos anteriores, tendrán derecho la Beneficencia Pública del Estado y, en su caso, la del Municipio dentro del Estado, donde tuvo su último domicilio el autor de la herencia, correspondiéndole a la primera doble porción.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1529.- Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existen bienes raíces que no puede adquirir conforme a la ley, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
 
 ### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDE ENCINTA
 
-1530.- Cuando a la muerte del marido la viuda crea haber quedado encinta, lo pondrá en conocimiento del Juez que conozca de la sucesión, dentro del término de cuarenta días, para que lo notifique a los que tengan a la herencia un derecho de tal naturaleza que debe desaparecer o disminuir por el nacimiento del póstumo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1531.- Los interesados a que se refiere el presente artículo pueden pedir al Juez que dicte las providencias convenientes para evitar la suposición del parto, la sustitución del infante o que se haga pasar por viable la criatura que no lo es.
+1530.- Si a la muerte del autor de la sucesión, su viuda queda encinta, ésta debe ponerlo en conocimiento del Juez dentro del término de cuarenta días. El Juez dará vista a las personas cuyo derecho a la herencia se pueda modificar por el nacimiento del hijo póstumo y con audiencia de los interesados, ordenará se proceda a la comprobación de la preñez, mediante prueba pericial.
 
-Cuidará el Juez de que las medidas que dicte no ataquen al pudor, ni a la libertad de la viuda.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1532.- Háyase o no dado el aviso de que habla el artículo 1530, al aproximarse la época del parto la viuda deberá ponerlo en conocimiento del Juez, para que lo haga saber a los interesados. Estos tienen derecho de pedir que el Juez nombre una persona que se cerciore de la realidad del alumbramiento, debiendo recaer el nombramiento precisamente en un médico o en una partera.
+1531.- Los interesados a que se refiere el artículo anterior, podrán pedir al Juez que proceda oportuna y decorosamente a la averiguación de la preñez y a la preservación del infante.
 
-1533.- Si el marido reconoció en instrumento público o privado la certeza de la preñez de su consorte, estará dispensada ésta de dar el aviso a que se refiere el artículo 1530; pero quedará sujeta a cumplir lo dispuesto en el artículo 1532.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1532.- Sin perjuicio de lo dispuesto en los dos artículos precedentes, al aproximarse la época del parto, la mujer debe informarlo al Juez, para que éste lo notifique a los interesados y se adopten las medidas convenientes para verificar el alumbramiento y la determinación de la viabilidad del producto.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1533.- Si el autor de la sucesión reconoció en instrumento auténtico la certeza de la preñez no podrá procederse a la averiguación de ésta; pero los interesados podrán pedir al Juez que se dicten las medidas previstas en el artículo anterior para evitar la suposición del parto, la substitución del infante, o que se haga pasar como viable a la criatura que no lo es.
 
 1534.- La omisión de la madre no perjudica a la legitimidad del hijo, si por otros medios legales puede acreditarse.
 
-1535.- La viuda que quedare encinta, aun cuando tenga bienes, deberá ser alimentada con cargo a la masa hereditaria.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1535.- La viuda que quedare encinta, aún cuando tenga bienes, deberá ser alimentada con cargo a la masa hereditaria.
 
 1536.- Si la viuda no cumple con lo dispuesto en los artículos 1530 y 1532, podrán los interesados negarle los alimentos cuando tenga bienes; pero si por averiguaciones posteriores resultare cierta la preñez, se deberán abonar los alimentos que dejaron de pagarse.
 
-1537.- La viuda no esta obligada a devolver los alimentos percibidos aun cuando haya habido aborto o no resulte cierta la preñez, salvo el caso en que ésta hubiere sido contradicha por dictamen pericial.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1538.- El Juez decidirá de plano todas las cuestiones relativas a alimentos conforme a los artículos anteriores, resolviendo en caso dudoso en favor de la viuda.
+1537.- La falta de aviso del embarazo y del parto no perjudica los derechos del hijo, si por otros medios legales puede acreditarse la filiación.
 
-1539.- Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en este Capítulo, deberá ser oída la viuda.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1540.- La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; mas los acreedores podrán ser pagados por mandato judicial.
+1538.- La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el tiempo máximo de la preñez; pero esta suspensión ni impide que los acreedores sean pagados.
 
-### CAPITULO II. DE LA APERTURA Y TRANSMISION DE LA HERENCIA
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1541.- La sucesión se abre en el momento en que muere el autor de la herencia y cuando se declara la presunción de muerte de un ausente.
+1539.- Para cualquier de las diligencias que se practiquen conforme a lo dispuesto en este capítulo, deberá ser oída la cónyuge supérstite.
 
-1542.- No habiendo albacea nombrado, cada uno de los herederos puede, si no ha sido instituido heredero de bienes determinados, reclamar la totalidad de la herencia que le corresponde conjuntamente con otros, sin que el demandado pueda oponer la excepción de que la herencia no le pertenece por entero.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1543.- Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere el artículo precedente, y siendo moroso en hacerlo, los herederos tienen derecho de pedir su remoción.
+1540.- Lo dispuesto en esta sección es aplicable a la mujer que al morir el autor de la herencia viviese con éste en la situación prevista por el artículo 1527 de este Código.
 
-1544.- El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO I BIS. DEL DERECHO DE ACRECER
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1540-A.- Derecho de acrecer es el que tiene el heredero o el legatario, para agregar a su porción hereditaria o a su legado, la que debía corresponder a otro heredero o legatario.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1540-B.- Para que en la sucesión por testamento exista el derecho de acrecer, se requiere cualquiera de los siguientes requisitos:
+
+I.- Que dos o más personas hayan sido instituidas en una misma herencia o en una misma porción de ella, sin especial designación de partes;
+
+II.- Que uno de los instituidos muera antes que el testador, no acepte la herencia o sea incapaz de recibirla; y,
+
+III.- Que la ley así lo establezca.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1540-C.- Hay especial designación de partes, cuando el testador individualizó la que a cada heredero o legatario corresponde.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1540-D.- La designación de partes alícuotas sobre un bien determinado no excluye el derecho de acrecer.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1540-E.- El heredero o legatario cuyo haber hereditario acrece, sucede en todos los derechos y obligaciones que tendría el que no quiso o no pudo recibir la herencia.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1540-F.- El heredero o legatario pueden repudiar la porción que acrece a la suya, sin renunciar la herencia o legado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1540-G.- Cuando legalmente exista el derecho de acrecer entre los llamados conjuntamente a un usufructo, la porción del que falte acrecerá siempre al otro, aunque la falta surja después de haber aceptado y poseído su parte de usufructo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1540-H.- Cuando los legatarios se hallen en algunos de los casos de las fracciones I y II del artículo 1540-B, el legado acrecerá a los herederos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1540-I.- El testador puede prohibir o modificar como quiera el derecho de acrecer.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1540-J.- En la sucesión legítima, si hubiere varios parientes en un mismo grado y alguno o algunos no quisieren o no pudieren heredar, su parte acrecerá a la de los otros del mismo grado, si es que no tiene descendientes, pues teniéndolos, éstos heredarán por estirpe.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO II. DE LA APERTURA Y DE LA RECLAMACION DE LA HERENCIA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1541.- La sucesión tiene lugar:
+
+I.- A la muerte del autor de la sucesión;
+
+II.- Al declararse la presunción de muerte del ausente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1542.- No habiendo albacea nombrado, cada uno de los herederos puede, si no ha sido instituido heredero de bienes determinados, reclamar la totalidad de la herencia que le corresponde conjuntamente con otros, sin que pueda oponerse la excepción de que la herencia no pertenece por entero al demandante.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1543.- Habiendo albacea nombrado, éste deberá promover la reclamación a que se refiere el anterior artículo y si no lo hiciere, los herederos tienen derecho a pedir su remoción.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1544.- Quienes tengan derecho a una herencia, pero se presenten después de la declaración de herederos y antes de aprobado el inventario y avalúo, pueden pedir que se les reconozca su calidad de herederos dentro del mismo juicio sucesorio.
+
+Una vez transcurrida dicha etapa, la acción de petición de herencia se deducirá en juicio contradictorio.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1544-A.- La acción de petición de herencia se ejercitará por el heredero testamentario o legítimo excluido, por el substituto o por los herederos del heredero que falleció sin aceptar la herencia; y se da contra el albacea y los herederos reconocidos, o contra el poseedor de las cosas hereditarias con el carácter de heredero o cesionario de éste y contra el que no alega título alguno de posesión del bien hereditario o dolosamente dejó de poseerlo.
+
+Esta acción tendrá por objeto que el actor sea declarado heredero, se le haga entrega de los bienes hereditarios que le correspondan con sus acciones, sea indemnización de los daños y perjuicios que se le hayan causado y se le rindan cuentas.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1544-B.- La acción de petición de herencia prescribe en diez años a partir de que tiene lugar la sucesión, en los términos del artículo 1541 de este Código y es transmisible a los herederos.
+
+Es imprescriptible la acción para denunciar una sucesión.
 
 ### CAPITULO III. DE LA ACEPTACION Y DE LA REPUDIACION DE LA HERENCIA
 
 1545.- Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
 
-1546.- La herencia dejada a los menores y demás incapacitados, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1547.- La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el Juez.
+1546.- La herencia dejada a incapaces se rige por las siguientes disposiciones:
 
-1548.- La aceptación puede ser expresa o tácita. Es expresa la aceptación si el heredero acepta con palabras terminantes, y tácita, si ejecuta algunos hechos de que se deduzca necesariamente la intención de aceptar, o aquéllos que no podría ejecutar sino con su calidad de heredero.
+I.- Será aceptada por quien o quienes ejerzan la patria potestad o la tutela sobre el heredero.
 
-1549.- Ninguno puede aceptar o repudiar la herencia en parte, con plazo o condicionalmente.
+II.- El o los titulares de la patria potestad o de la tutela, necesitan autorización judicial para repudiarla.
 
-1550.- Si los herederos no se convinieren sobre la aceptación o repudiación, podrán aceptar unos y repudiar otros.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1547.- El cónyuge no necesita autorización del otro para aceptar o repudiar la herencia que a él le corresponda.
+
+Los cónyuges no pueden aceptar ni repudiar la herencia común sino de mutuo acuerdo. En caso de discrepancia resolverá el Juez. Lo mismo sucederá respecto de quienes viven en unión libre, siempre que entre ellos no exista impedimento para contraer matrimonio.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1548.- La aceptación puede ser expresa o tácita. Es expresa si el heredero la hace con palabras claras y terminantes; y tácita si ejecuta algunos hechos de los que se deduzca necesariamente la intención de aceptar, o aquellos que sólo podría ejecutar como heredero.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1549.- En cualquiera de las dos hipótesis del artículo que antecede no se podrá aceptar o repudiar la herencia en parte, con plazo o condicionalmente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1550.- Si los herederos no se pusieren de acuerdo sobre la aceptación o repudiación, podrán aceptar unos y repudiar otros.
 
 1551.- Si el heredero fallece sin aceptar o repudiar la herencia, el derecho de hacerlo se trasmite a sus sucesores.
 
 1552.- Los efectos de la aceptación o repudiación de la herencia se retrotraen siempre a la fecha de la muerte de la persona a quien se hereda.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1553.- La repudiación debe ser expresa y hacerse por escrito, la cual deberá ratificarse ante el propio Juez o ante Notario Público.
+1553.- La repudiación debe ser expresa y hacerse por escrito ratificado ante el propio Juez o ante Notario Público.
 
-1554.- La repudiación no priva al que la hace, si no es heredero ejecutor, del derecho de reclamar los legados que se le hubieren dejado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1555.- El que es llamado a una misma herencia por testamento y abintestato, y la repudia por el primer título, se entiende haberla repudiado por los dos.
+1554.- La repudiación no priva al que la hace del derecho de reclamar los legados que se le hubieren dejado.
 
-1556.- El que repudia el derecho de suceder por intestado sin tener noticia de su título testamentario, puede en virtud de éste aceptar la herencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1555.- El que es instituido heredero en un testamento y repudia la herencia, se entiende que lo hace respecto de la herencia legítima, salvo que expresamente establezca que lo hace respecto del testamento.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1556.- El que repudia el derecho de suceder por intestado, puede aceptar la herencia dejado por testamento.
 
 1557.- Ninguno puede renunciar la sucesión de persona viva, ni enajenar los derechos que eventualmente pueda tener a su herencia.
 
-1558.- Nadie puede aceptar ni repudiar sin estar cierto de la muerte de aquél de cuya herencia se trate.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1559. Conocida la muerte de aquél a quien se hereda, se puede renunciar la herencia dejada bajo condición, aunque ésta no se haya cumplido.
+1558.- Nadie puede aceptar o repudiar una herencia sin tener certeza de la muerte del autor de la misma, o sin que tenga lugar la sucesión del ausente.
 
-1560.- Las personas morales capaces de adquirir pueden, por conducto de sus representantes legítimos, aceptar o repudiar herencias; pero tratándose de corporaciones de carácter oficial o de instituciones de Beneficencia Privada, no pueden repudiar la herencia, las primeras, sin aprobación judicial, previa audiencia del Ministerio Público, y las segundas, sin sujetarse a las disposiciones relativas de la Ley de Beneficencia Privada.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-Los establecimientos públicos no pueden aceptar ni repudiar herencias sin aprobación de la autoridad administrativa superior de quien dependan.
+1559.- Conocida la muerte del autor de la sucesión, se puede repudiar la herencia, aún cuando se haya dejado bajo condición y no esté cumplida.
 
-1561.- Cuando alguno tuviere interés en que el heredero declare si acepta o repudia la herencia, podrá pedir, pasados nueve días de la apertura de ésta, que el Juez fije al heredero un plazo, que no excederá de un mes, para que dentro de él haga su declaración, apercibido de que, si no la hace, se tendrá la herencia por aceptada.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1560.- Las personas morales capaces de adquirir pueden, por conducto de sus representantes legítimos, aceptar o repudiar la herencia.
+
+Las corporaciones de carácter oficial o instituciones de beneficencia privada no pueden repudiar la herencia sin aprobación judicial, previa audiencia del Ministerio Público, y sin sujetarse a las disposiciones relativas de las leyes que las regulan.
+
+Los establecimientos públicos no pueden aceptar ni repudiar herencias sin aprobación del superior administrativo de quien dependan.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1561.- Cuando alguno tuviere interés en que el heredero declare si acepta o repudia la herencia, podrá pedir, pasados quince días de que tenga lugar la sucesión, que el Juez fije al heredero un plazo que no excederá de un mes, para que dentro de él haga su declaración, apercibido de que, si no la hace se tendrá la herencia por aceptada.
 
 1562.- La aceptación y la repudiación, una vez hechas, son irrevocables, y no pueden ser impugnadas sino en los casos de dolo o violencia.
 
-1563.- El heredero puede revocar la aceptación o la repudiación, cuando por un testamento desconocido, al tiempo de hacerla, se altera la cantidad o calidad de la herencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1564.- En el caso del artículo anterior, si el heredero revoca la aceptación, devolverá todo lo que hubiere percibido de la herencia, observándose respecto de los frutos las reglas relativas a los poseedores.
+1563.- El heredero puede también revocar la aceptación o la repudiación de la herencia legítima, cuando por un testamento desconocido al tiempo de hacer aquella o ésta, se altera la cantidad o la calidad de la herencia.
 
-1565.- Si el heredero repudia la herencia en perjuicio de sus acreedores, pueden éstos pedir al Juez que los autorice para aceptar en nombre de aquél.
+En su caso, se observará lo dispuesto en el artículo 1553.
 
-1566.- En el caso del artículo anterior, la aceptación sólo aprovechará a los acreedores para el pago de sus créditos; pero si la herencia excediere del importe de éstos, el exceso pertenecerá a quien llame la ley, y en ningún caso al que hizo la renuncia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1564.- Cuando el heredero revoque la aceptación devolverá todo lo que hubiere percibido de la herencia, pero podrá hacer suyos los frutos generados hasta entonces. En su caso se aplicarán las reglas relativas a los poseedores.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1565.- Si la repudiación de la herencia se hace en perjuicio de los acreedores, pueden éstos pedir al Juez que los autorice para aceptarla en nombre del heredero, hasta por el monto de sus créditos. El excedente se entiende repudiado y corresponde a quien la ley señale.
+
+1566.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 
 1567.- Los acreedores cuyos créditos fueren posteriores a la repudiación, no pueden ejercer el derecho que les concede el artículo 1565.
 
-1568.- El que por la repudiación de la herencia debe entrar en ella, podrá impedir que la acepten los acreedores, pagando a éstos los créditos que tienen contra el que la repudió.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1569.- El que a instancias de un legatario o acreedor hereditario, haya sido declarado heredero, será considerado como tal por los demás, sin necesidad de nuevo juicio.
+1568.- El que hubiere repudiado la herencia, podrá impedir que la acepten los acreedores, pagando a éstos los créditos.
 
-1570.- La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio de inventario, aunque no se exprese.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO IV. DE LOS ALBACEAS
+1569.- El que a instancias de un legatario o acreedor hereditario haya sido declarado heredero, será considerado como tal por los demás, sin necesidad de otra declaración judicial, salvo el derecho que les concede el artículo 1565.
 
-1571.- No podrá ser albacea el que no tenga la libre disposición de sus bienes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-La mujer casada, mayor de edad, podrá serlo sin la autorización de su esposo.
+1570.- La herencia se entiende aceptada a beneficio de inventario. Por tanto, en ningún caso produce confusión de los bienes del autor de la sucesión y de los herederos.
 
-1572.- No pueden ser albaceas, excepto en el caso de ser herederos únicos:
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-I.- Los magistrados y jueces que estén ejerciendo jurisdicción en el lugar en que se abre la sucesión;
+#### SECCION PRIMERA. DE LOS ALBACEAS
 
-II.- Los que por sentencia hubieren sido removidos otra vez del cargo de albacea;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-III.- Los que hayan sido condenados por infracciones antisociales contra la propiedad;
+1571.- Los albaceas son:
 
-Los que no tengan un modo honesto de vivir.
+I.- Los representantes de la sucesión para actuar en nombre y por cuenta de ésta en:
+
+a) La administración de los bienes que conforman la herencia.
+
+b) La defensa de dichos bienes.
+
+c) La liquidación, la partición y la adjudicación de los mismos.
+
+II.- Los ejecutores y defensores del testamento, en su caso.
+
+Pueden ser albaceas todas las personas con capacidad de ejercicio, salvo en los casos previstos en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1572.- No pueden ser albaceas:
+
+I.- Los magistrados y los jueces que deban conocer del respectivo procedimiento sucesorio.
+
+II.- Los que por sentencia ejecutoriada hubieren sido removidos del cargo de albacea.
+
+III.- Los que hayan sido condenados por delito contra la propiedad. Esta prohibición no tendrá lugar cuando hayan transcurrido más de diez años de la comisión del delito.
+
+IV.- Los que no tengan un modo honesto de vivir.
+
+Las prohibiciones a que se refiere este artículo no tendrán aplicación en el caso de que las personas mencionadas tengan el carácter de herederos únicos en la sucesión en la que fungirán como albaceas.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 1573.- El testador puede nombrar uno o más albaceas.
 
-1574.- Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por los herederos menores, votarán sus legítimos representantes.
+Si el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, el albacea será nombrado por mayoría de votos de los herederos. Por los herederos incapaces votarán sus representantes legítimos.
 
-1575.- La mayoría, en todos los casos de que habla este Capítulo, y los relativos a inventario y partición, se calculará por el importe de las porciones, y no por el número de las personas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-Cuando la mayor porción esté representada por menos de la cuarta parte de los herederos, para que haya mayoría se necesita que con ellos voten los herederos que sean necesarios para formar por lo menos la cuarta parte del número total.
+1574.- En los intestados y cuando por cualquier causa falte el albacea, desempeñará el cargo la persona designada por los herederos en los términos del artículo anterior.
 
-1576.- Si no hubiere mayoría, el albacea será nombrado por el Juez, de entre los propuestos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1577.- Lo dispuesto en los dos artículos que preceden se observará también en los casos de intestado, y cuando el albacea nombrado falte, sea por la causa que fuere.
+1575.- Si no hubiere mayoría, en los supuestos señalados en los dos artículos anteriores, el albacea será nombrado por el Juez, de entre los propuestos. Si no hubiera alguna propuesta, el Juez designará a quien estime más adecuado para los intereses de la herencia.
 
-1578.- El heredero que fuere único, será albacea si no hubiere sido nombrado otro en el testamento. Si es incapaz, desempeñará el cargo su tutor.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1579.- Cuando no haya heredero o el nombrado no entre en la herencia, el Juez nombrará el albacea, si no hubiere legatarios.
+1576.- En materia de sucesiones, la mayoría se calculará por el importe de las porciones y no por el número de las personas; pero cuando la porción mayor exceda de la mitad de la herencia y pertenezca a una sola persona, el Juez, prudentemente moderará el ejercicio del derecho que este artículo concede, a fin de que su titular no abuse de él.
 
-1580.- En el caso del artículo anterior, si hay legatarios, el albacea será nombrado por éstos.
+1577.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 
-1581.- El albacea nombrado conforme a los dos artículos que preceden, durará en su encargo mientras que, declarados los herederos legítimos, éstos hacen la elección de albacea.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1578.- El heredero que fuere único, será albacea si no hubiere sido nombrado otro en el testamento. Si el heredero único fuere incapaz, desempeñará el cargo en su nombre su representante legítimo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1579.- Cuando no haya heredero o el instituto no entre en la herencia, el albacea será nombrado por los legatarios si los hubiere. De no ser así, lo designará el Juez.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1580.- El albacea nombrado conforme al artículo que precede, durará en su cargo mientras que, declarados los herederos legítimos, éstos hagan la elección de albacea.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1581.- El albacea podrá ser general o especial, unipersonal o plural.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 1582.- Cuando toda la herencia se distribuya en legados, los legatarios nombrarán el albacea.
 
-1583.- El albacea podrá ser universal o especial.
+Cuando fueren varios los albaceas nombrados, el albaceazgo será ejercido por cada uno de ellos en el orden en que hubieren sido designados, a no ser que el testador hubiere dispuesto expresamente que se ejerza de común acuerdo por todos los nombrados, pues en este caso se considerarán mancomunados.
 
-1584.- Cuando fueren varios los albaceas nombrados, el albaceazgo será ejercido por cada uno de ellos, en el orden en que hubiesen sido designados, a no ser que el testador hubiere dispuesto expresamente que se ejerza de común acuerdo por todos los nombrados, pues en este caso se considerarán mancomunados.
+En los intestados, los albaceas actuarán mancomunadamente, salvo que los herederos decidieran otra cosa.
 
-1585.- Cuando los albaceas fueren mancomunados sólo valdrá lo que todos hagan de consuno; lo que haga uno de ellos, legalmente autorizado por los demás, o lo que, en caso de disidencia, acuerde el mayor número. Si no hubiere mayoría, decidirá el Juez.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1586.- En los casos de suma urgencia, puede uno de los albaceas mancomunados practicar, bajo su responsabilidad personal, los actos que fueren necesarios, dando cuenta inmediatamente a los demás.
+1583.- Cuando los albaceas fueren mancomunados, sólo valdrá lo que todos hagan de consuno; lo que haga uno de ellos, legalmente autorizado por los demás, o lo que, en caso de disidencia, acuerde la mayoría. Si no hubiere mayoría, decidirá el Juez.
 
-1587.- El cargo de albacea es voluntario; pero el que lo acepte, se constituye en la obligación de desempeñarlo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1588.- El albacea que renuncie sin justa causa perderá lo que le hubiera dejado el testador. Lo mismo sucederá cuando la renuncia sea por justa causa, si lo que se deja al albacea es con el exclusivo objeto de remunerarlo por el desempeño del cargo.
+1584.- En los casos de suma urgencia, puede uno de los albaceas mancomunados practicar, bajo su responsabilidad personal, los actos que fueren necesarios, dando cuenta inmediata a los demás.
 
-1589.- El albacea que presentare excusa, deberá hacerlo dentro de los seis días siguientes a aquél en que tuvo noticia de su nombramiento; si éste le era ya conocido, dentro de los seis días siguientes a aquél en que tuvo noticia de la muerte del testador. Si presenta sus excusas fuera del término señalado, responderá de los daños y perjuicios que ocasione.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1590.- Pueden excusarse de ser albaceas:
+1585.- El cargo de albacea es voluntario, pero el que lo acepte, tiene la obligación de desempeñarlo.
 
-I.- Los empleados y funcionarios públicos;
+El albacea que renuncia con justa causa perderá lo que le hubiere dejado el testador, si la herencia o el legado tuvo por objeto exclusivo remunerarlo por el desempeño del cargo. En caso contrario, su derecho a la herencia no se afectará.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1586.- El albacea testamentario que pretenda excusarse, deberá hacerlo dentro de los diez días siguientes a aquel en que tenga conocimiento de su designación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1587.- Pueden excusarse de ser albaceas:
+
+I.- Los servidores públicos;
 
 II.- Los militares en servicio activo;
 
-III.- Los que fueren tan pobres que no puedan atender el albaceazgo sin menoscabo de su subsistencia;
+III.- Los mayores de setenta años de edad;
 
-IV.- Los que por el mal estado habitual de salud, o por no saber leer ni escribir, no puedan atender debidamente el albaceazgo;
+IV.- Los que tengan a su cargo otro albaceazgo; y,
 
-V.- Los que tengan sesenta años cumplidos;
+V.- Los que tengan algún impedimento que, a juicio del Tribunal, sea justificado para excusarse.
 
-VI.- Los que tengan a su cargo otro albaceazgo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1591.- El albacea que estuviere presente mientras se decide sobre su excusa, debe desempeñar el cargo bajo la pena establecida en el artículo 1588.
+1588.- El albacea testamentario que estuviere presente, mientras se decide sobre su excusa debe desempeñar el cargo, bajo pena de perder lo que le hubiere dejado el testador.
 
-1592.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente; puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1593.- El albacea general está obligado a entregar al ejecutor especial las cantidades o cosas necesarias para que cumpla la parte del testamento que estuviere a su cargo.
+1589.- El albacea no podrá delegar el cargo que ha recibido, pero no está obligado a obrar personalmente. Puede hacerlo por mandatarios que obren bajo sus ordenes, respondiendo de los actos de éstos.
 
-1594.- Si el cumplimiento del legado dependiera de plazo o de alguna condición suspensiva, podrá el ejecutor general resistir la entrega de la cosa o cantidad, dando fianza a satisfacción del legatario o del ejecutor especial, de que la entrega se hará en su debido tiempo.
+Por su muerte, el cargo no pasa a sus herederos.
 
-1595.- El ejecutor especial podrá también, a nombre del legatario, exigir la constitución de la hipoteca necesaria.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1596.- El derecho a la posesión de los bienes hereditarios se transmite, por ministerio de la ley, a los herederos y a los ejecutores universales, desde el momento de la muerte del autor de la herencia, salvo lo dispuesto en el artículo 193.
+1590.- El albacea general está obligado a entregar al ejecutor especial las cantidades o bienes necesarios para que éste cumpla la parte del testamento que estuviere a su cargo.
 
-1597.- El albacea debe deducir todas las acciones que pertenezcan a la herencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1598.- Son obligaciones del albacea general:
+1591.- Si el cumplimiento del legado dependiere de plazo o de alguna condición suspensiva, podrá el albacea general suspender la entrega del bien o cantidad, garantizando mediante fianza a satisfacción del legatario o del albacea especial, que la entrega se hará a su debido tiempo.
 
-I.- La presentación del testamento;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-II.- El aseguramiento de los bienes de la herencia;
+1592.- El albacea especial podrá también, a nombre del legatario, exigir la constitución de hipoteca necesaria.
 
-III.- La formación de inventarios;
+1593.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 
-IV.- La administración de los bienes y la rendición de las cuentas del albaceazgo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-V.- El pago de las deudas mortuorias, hereditarias y testamentarias;
+1594.- El albacea se encuentra facultado para deducir todas las acciones que pertenezcan a la herencia y hacer valer las excepciones y defensas que le correspondan.
 
-VI.- La partición y adjudicación de los bienes entre los herederos y legatarios;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-VII.- La defensa, en juicio y fuera de él, así de la herencia como de la validez del testamento;
+1595.- Son obligaciones del albacea general:
 
-VIII.- La de representar a la sucesión en todos los juicios que hubieren de promoverse en su nombre o que se promovieren contra de ella;
+I.- La presentación del testamento.
+
+II.- El aseguramiento de los bienes que conforman la herencia.
+
+III.- La formación de inventarios
+
+IV.- La administración de los bienes y la rendición de las cuentas del albaceazgo.
+
+V.- El pago de las deudas mortuorias, hereditarias y testamentarias.
+
+VI.- La formulación del proyecto de participación y adjudicación de los bienes entre los herederos y legatarios.
+
+VII.- La defensa, en juicio y fuera de él, tanto de la herencia como de la validez del testamento.
+
+VIII.- Representar a la sucesión en todos los juicios que hubieren de promoverse en su nombre o que se promovieren en contra de ella.
 
 IX.- Las demás que le imponga la ley.
 
-1599.- Los albaceas, dentro de los quince días siguientes a la aprobación del inventario, propondrán al Juez la distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que cada bimestre deberá entregarse a los herederos o legatarios.
+1596.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 
-El Juez, observando el procedimiento fijado por el Código de la materia, aprobará o modificará la proposición hecha, según corresponda.
+1597.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 
-El albacea que no presente la proposición de que se trata o que durante dos bimestres consecutivos, sin justa causa, no cubra a los herederos o legatarios lo que les corresponda, será separado del cargo a solicitud de cualquiera de los interesados.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1600.- El albacea también está obligado, dentro de los tres meses contados desde que acepte su nombramiento, a garantizar su manejo con fianza, hipoteca o prenda a su elección, conforme a las bases siguientes:
+1598.- Si el albacea fue nombrado en testamento y tiene éste en su poder, debe denunciar la sucesión dentro de los quince días siguientes a la muerte del testador.
 
-I.- Por el importe de la renta de los bienes raíces en el último año y por los réditos de los capitales impuestos durante ese mismo tiempo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-II.- Por el valor de los bienes muebles;
+1599.- La denuncia de la sucesión puede hacerla cualquier interesado en ella.
 
-III.- Por el de los productos de las fincas rústicas en un año, calculados por peritos o por el término medio en un quinquenio, a elección del Juez;
+Admitida la denuncia se citará a los interesados, y el Juez determinará que se nombre el albacea con arreglo a lo dispuesto en este Código y en el Código de Procedimientos Civiles.
 
-IV.- En las negociaciones mercantiles e industriales por el veinte por ciento del importe de las mercancías, y demás efectos muebles, calculados por los libros si están llevados en debida forma o a juicio de peritos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1601.- Cuando el albacea sea también coheredero y su porción baste para garantizar, conforme a lo dispuesto en el artículo que precede, no estará obligado a prestar garantía especial, mientras conserve sus derechos hereditarios.
+1600.- El albacea también está obligado, dentro de los treinta días contados desde que acepte su nombramiento, a garantizar su manejo, con depósito, fianza, hipoteca o prenda, a su elección conforme a las bases siguientes:
 
-Si su porción no fuere suficiente para prestar la garantía de que se trata, estará obligado a dar fianza, hipoteca o prenda por lo que falte para completar esa garantía.
+I.- Si se ha determinado el valor de los bienes que conforman la herencia, por el importe del diez por ciento de aquél; y,
+
+II.- Si no pudiere aplicarse lo dispuesto en la fracción anterior, se determinará de la siguiente manera:
+
+a) Por el importe de la renta de los bienes raíces en el último año, y por los réditos de los capitales impuestos durante ese mismo tiempo.
+
+b) Por el valor de los bienes muebles.
+
+c) Por el importe de los productos de las fincas rústicas en un año, calculados por peritos, o por el término medio de un quinquenio, a elección del Juez.
+
+d) En las negociaciones mercantiles e industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculado por los libros si están llevados en debida forma, o a juicio de peritos.
+
+III.- Si para determinar el importe de la garantía no se tiene la información a que se refieren las dos fracciones que anteceden, el juez lo hará según su prudente arbitrio, cuidando que los intereses de la sucesión queden garantizados.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1601.- Cuando el albacea sea a la vez heredero y su porción baste para garantizar su manejo conforme a lo dispuesto en el artículo que precede, no estará obligado a prestar garantía especial, mientras que conserve sus derechos hereditarios.
+
+Si su porción no fuere suficiente para prestar la garantía de que se trata estará obligado a dar fianza, hipoteca o prenda o constituir depósito por lo que falta para completar esa garantía.
 
 1602.- El testador no puede librar al albacea de la obligación de garantizar su manejo; pero los herederos, sean testamentarios o legítimos, tienen derecho de dispensar al albacea del cumplimiento de esa obligación.
 
-1603.- Si el albacea ha sido nombrado en testamento y lo tiene en su poder, debe presentarlo dentro de los ocho días siguientes a la muerte del testador.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1604.- El albacea debe formar el inventario dentro del término señalado por el Código de Procedimientos Civiles. Si no lo hace, será removido.
+1603.- El albacea deberá formar el inventario dentro de los diez días siguientes a aquel en que haya aceptado su cargo y si no lo hace será removido.
 
-1605.- El albacea, antes de formar el inventario, no permitirá la extracción de cosa alguna, si no es que conste la propiedad ajena por el mismo testamento, por instrumento público o por los libros de la casa llevados en debida forma, si el autor de la herencia hubiere sido comerciante.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1606.- Cuando la propiedad de la cosa ajena conste por medios diversos de los enumerados en el artículo que precede, el albacea se limitará a poner al margen de las partidas respectivas, una nota que indique la pertenencia de la cosa, para que la propiedad se discuta en el juicio correspondiente.
+1604.- El albacea, antes de formar el inventario, no permitirá la extracción de bien alguno, sino con aprobación judicial, la que se concederá únicamente cuando la propiedad ajena conste en documento público o en los libros de contabilidad, llevados en debida forma si el autor de la sucesión hubiere sido comerciante.
 
-1607.- La infracción a los dos artículos anteriores, hará responsable al albacea de los daños y perjuicios.
+Si la propiedad ajena sólo consta en el testamento, se considerará como legado.
 
-1608.- El albacea, dentro del primer mes de ejercer su cargo, fijará, de acuerdo con los herederos, la cantidad que haya de emplearse en los gastos de administración y el número y sueldos de los dependientes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1605.- Cuando la propiedad del bien ajeno conste por medios diversos de los enumerados en el artículo anterior, el albacea se limitará a poner, al margen de las partidas respectivas, una nota que indique la pertenencia del bien, para que la propiedad se discuta en el juicio correspondiente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1606.- La infracción a los dos artículos anteriores hará responsable al albacea de los daños y perjuicios.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1607.- El albacea, dentro del primer mes de ejercer su cargo, fijará, de acuerdo con los herederos, la cantidad que haya de emplearse en los gastos de administración, y el número y sueldos de los dependientes.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1607-A.- Los albaceas, dentro de los quince días siguientes a la aprobación del inventario, propondrán al Juez la distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que cada bimestre deberá entregarse a los herederos o legatarios. El Juez aprobará o modificará la proposición hecha, según corresponda.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1607-B.- El albacea que no presente la proposición de que se trata o que durante dos bimestres consecutivos, sin justa causa no cubra a los herederos o legatarios lo que les corresponda, será separado del cargo a solicitud de cualquiera de los interesados.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1608.- El albacea no puede gravar ni hipotecar los bienes sin consentimiento de los herederos, o de los legatarios en su caso.
 
 1609.- Si para el pago de una deuda u otro gasto urgente, fuere necesario vender algunos bienes, el albacea deberá hacerlo, de acuerdo con los herederos, y si esto no fuere posible con aprobación judicial.
 
-1610.- Lo dispuesto en los artículos 546 y 547 respecto de los tutores, se observará también respecto de los albaceas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1611.- El albacea no puede gravar ni hipotecar los bienes, sin consentimiento de los herederos, o de los legatarios en su caso.
+1610.- Lo dispuesto en los artículos 525, 526, 546 y 547 respecto de los tutores se observará también respecto de los albaceas.
 
-1612.- El albacea no puede transigir ni comprometer en árbitros los negocios de la herencia, sino con consentimiento de los herederos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1613.- El albacea sólo puede dar en arrendamiento hasta por un año los bienes de la herencia. Para arrendarlos por mayor tiempo, necesita del consentimiento de los herederos o de los legatarios en su caso.
+1611.- El albacea no puede transigir ni comprometer en árbitros los negocios de la herencia sino mediante consentimiento de los herederos.
 
-1614.- El albacea está obligado a rendir cada año cuenta de su albaceazgo. No podrá ser nuevamente nombrado, sin que antes haya sido aprobada su cuenta anual. Además, rendirá la cuenta general de albaceazgo. También rendirá cuenta de su administración, cuando por cualquiera causa dejare de ser albacea.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1615.- La obligación que de dar cuentas tiene el albacea, pasa a sus herederos.
+1612.- El albacea sólo puede dar en arrendamiento hasta por un año los bienes que conforman la herencia, y para arrendarlos por mayor tiempo, necesita del consentimiento de los herederos o de los legatarios, en su caso.
 
-1616.- Son nulas de pleno derecho las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario o de rendir cuentas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1617.- La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
+1613.- El albacea está obligado a rendir cada año cuenta de su albaceazgo. No podrá ser nuevamente nombrado sin que antes haya sido aprobada su cuenta anual. Además, rendirá la cuenta general del albaceazgo al concluir su gestión. También rendirá cuenta de su administración cuando por cualquier causa deje de ser albacea, cuando lo disponga el Juez o lo soliciten los herederos que representen por lo menos una tercera parte del caudal hereditario.
 
-1618.- Cuando fuere heredera la Beneficencia Pública o los herederos fueren menores, intervendrá el Ministerio Público en la aprobación de las cuentas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1619.- Aprobadas las cuentas, los interesados pueden celebrar sobre su resultado, los convenios que quieran.
+1614.- La obligación de rendir cuentas que tiene el albacea, pasa a los herederos de éste.
 
-1620.- El heredero o herederos que no hubieren estado conformes con el nombramiento de albacea hecho por la mayoría, tienen derecho de nombrar un interventor que vigile al albacea.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-Si la minoría inconforme la forman varios herederos, el nombramiento lo hará el Juez, eligiendo el interventor de entre las personas propuestas por los herederos de la minoría.
+1615.- Son nulas de pleno derecho y se tienen por no hechas, las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario o de rendir cuentas.
 
-1621.- Las funciones del interventor se limitarán a vigilar el exacto cumplimiento del cargo de albacea.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1622.- El interventor no puede tener la posesión ni aun interina de los bienes.
+1616.- La cuenta de administración debe ser aprobada por los herederos; el que disienta, puede seguir a su costa el juicio respectivo.
 
-1623.- Debe nombrarse precisamente un interventor:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-I.- Siempre que el heredero esté ausente o no sea conocido;
+1617.- Cuando fuere heredero el Estado o los herederos fueren incapaces, intervendrá el Ministerio Público en la aprobación de las cuentas.
 
-II.- Cuando la cuantía de los legados iguale o exceda a la porción del heredero albacea;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-III.- Cuando se hagan legados para objetos o establecimientos de Beneficencia Pública.
+1618.- Aprobadas las cuentas, deberá el albacea presentar el proyecto de división y participación de los bienes de la herencia; en su caso, los interesados podrán celebrar, sobre el resultado, los convenios que quieran.
 
-1624.- Los interventores deben ser mayores de edad y capaces de obligarse.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1625.- Los interventores durarán mientras que no se revoque su nombramiento.
+1619.- Los acreedores y los legatarios no podrán exigir el pago de sus créditos y legados, sino hasta que el inventario haya sido aprobado, siempre que se forme y apruebe dentro de los términos señalados por la ley.
 
-1626.- Los interventores tendrán la retribución que acuerden los herederos que los nombran, y si los nombra el Juez, cobrarán conforme a arancel como si fuera un apoderado.
+En su caso se observará lo dispuesto en este Capítulo respecto de las deudas de la sucesión.
 
-1627.- Los acreedores y legatarios no podrán exigir el pago de sus créditos y legados, sino hasta que el inventario haya sido formado y aprobado, siempre que se forme y apruebe dentro de los términos señalados por la ley; salvo en los casos prescritos en los artículos 1646 y 1649 y aquellas deudas sobre las cuales hubiere juicio pendiente al abrirse la sucesión.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1628.- Los gastos hechos por el albacea en el cumplimiento de su cargo, incluso los honorarios de abogado y procurador que haya ocupado, se pagarán de la masa de la herencia.
+1620.- Los gastos hechos por el albacea en el cumplimiento de su cargo, incluso los honorarios de abogado o procurador que haya contratado, se pagarán de la masa de la herencia.
 
-1629.- El albacea debe cumplir su encargo dentro de un año, contado desde su aceptación, o desde que terminen los litigios que se promovieren sobre la validez o nulidad del testamento.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1630.- Sólo por causa justificada pueden los herederos prorrogar al albacea el plazo señalado en el artículo anterior, y la prórroga no excederá de un año.
+1621.- El albacea debe cumplir su encargo dentro de un año contado desde su aceptación, o desde que terminen los litigios que se promovieron sobre la validez o nulidad del testamento.
 
-1631.- Para prorrogar el plazo del albaceazgo, es indispensable que haya sido aprobada la cuenta anual del albacea, y que la prórroga la acuerde una mayoría que represente las dos terceras partes de la herencia.
+Sólo por causa justificada pueden los herederos prorrogar al albacea el plazo señalado en el párrafo anterior, y la prórroga no excederá de un año.
 
-1632.- El testador puede señalar al albacea la retribución que quiera.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1633.- Si el testador no designare la retribución, el albacea cobrará el dos por ciento sobre el importe líquido y efectivo de la herencia, y el cinco por ciento sobre los frutos industriales de los bienes hereditarios.
+1622.- Para conceder la prórroga, es indispensable que haya sido aprobada la cuenta anual del albacea y que la prórroga la acuerde una mayoría que represente las dos terceras partes de la herencia.
 
-1634.- El albacea tiene derecho de elegir entre lo que le deja el testador por el desempeño del cargo y lo que la ley le concede por el mismo motivo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1635.- Si fueren varios y mancomunados los albaceas, la retribución se repartirá entre todos ellos; si no fueren mancomunados, la repartición se hará en proporción al tiempo que cada uno haya administrado y al trabajo que hubiere tenido en la administración.
+1623.- Mientras no se designe un nuevo albacea, y se le discierna el cargo, continuará el anterior en el ejercicio de sus funciones.
 
-1636.- Si el testador legó conjuntamente a los albaceas alguna cosa por el desempeño de su cargo, la parte de los que no admitan éste, acrecerá a los que lo ejerzan.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1637.- Los cargos de albacea e interventor, acaban:
+1624.- El testador puede señalar al albacea la retribución que quiera; pero si no lo hiciere o no hay testamento, el albacea cobrará el dos por ciento sobre el importe líquido y efectivo de la herencia, y el cinco por ciento sobre los frutos industriales de los bienes hereditarios.
 
-I.- Por el término natural del encargo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-II.- Por muerte;
+1625.- El albacea, en caso de no ser heredero o legatario, tiene derecho de elegir entre lo que le deja el testador por el desempeño del cargo y lo que la ley le concede por el mismo motivo.
 
-III.- Por incapacidad legal, declarada en forma;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-IV.- Por excusa que el Juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia Pública;
+1626.- Si fueren varios y mancomunados los albaceas que se encuentren en el caso del artículo anterior, la retribución se repartirá entre todos ellos; si no fueren mancomunados, la repartición se hará en proporción al tiempo que cada uno haya administrado y al trabajo que hubiere tenido en la administración.
 
-V.- Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-VI.- Por revocación de sus nombramientos, hecha por los herederos;
+1627.- Si el testador legó conjuntamente a tales albaceas algún bien por el desempeño de su cargo, la parte de los que no admitan éste acrecerá a los que lo ejerzan.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1628.- El cargo de albacea termina:
+
+I.- Por la conclusión de su encargo.
+
+II.- Por su muerte.
+
+III.- Por su incapacidad legal, declarada en forma.
+
+IV.- Por excusa que el Juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se afecten intereses de incapaces o del Estado.
+
+V.- Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo.
+
+VI.- Por revocación de su nombramiento, hecha por los herederos.
 
 VII.- Por remoción.
 
-1638.- La revocación puede hacerse por los herederos en cualquier tiempo, pero en el mismo acto debe nombrarse el sustituto.
+VIII.- Por cualquier otra causa prevista legalmente.
 
-1639.- Cuando el albacea haya recibido del testador algún encargo especial, además del de seguir el juicio sucesorio para hacer entrega de los bienes a los herederos, no quedará privado de aquel encargo por la revocación del nombramiento de albacea que hagan los herederos. En tal caso, se considerará como ejecutor especial y se aplicará lo dispuesto en el artículo 1593.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1640.- Si la revocación se hace sin causa justificada, el albacea removido tiene derecho de percibir lo que el testador le haya dejado por el desempeño del cargo o el tanto por ciento que le corresponda conforme al artículo 1633, teniéndose en cuenta lo dispuesto en el artículo 1635.
+1629.- La revocación puede hacerse por los herederos en cualquier tiempo, pero en el mismo acto debe nombrarse el substituto.
 
-1641.- La remoción no tendrá lugar sino por sentencia pronunciada en el incidente respectivo, promovido por parte legítima.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1630.- Cuando el albacea haya recibido del testador algún encargo especial, además del de seguir el juicio sucesorio para hacer entrega de los bienes a los herederos, no quedará privado de aquel encargo por la revocación que hagan los herederos del nombramiento de albacea, salvo disposición del testador. En tal caso, se considerará como ejecutor especial y se aplicará lo dispuesto en el artículo 1590.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1631.- Si la revocación se hace sin causa justificada, el albacea removido tiene derecho de percibir lo que el testador le haya dejado por el desempeño del cargo o el porcentaje que le corresponda conforme a este Código.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1632.- La remoción no tendrá lugar sino por resolución firme pronunciada en el incidente respectivo, promovido por parte legítima.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+#### SECCION SEGUNDA. DE LOS INTERVENTORES
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1633.- El heredero o herederos que no hubieren estado conformes con el nombramiento del albacea designado por la mayoría, tienen derecho a nombrar un interventor que vigile al albacea.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1634.- Si la minoría inconforme la forman varios herederos, el nombramiento de interventor se hará por mayoría de votos, y si no se obtiene mayoría, el nombramiento lo hará el Juez, eligiendo al interventor de entre las personas propuestas por los herederos de la minoría.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1635.- Las funciones del interventor se limitarán a vigilar el exacto cumplimiento del cargo de albacea.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1636.- El interventor no puede tener la posesión ni aún interina de los bienes.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1637.- Debe nombrarse forzosamente un interventor:
+
+I.- Siempre que el heredero esté ausente o no sea conocido.
+
+II.- Cuando la cuantía de los legados iguales o exceda a la porción del heredero albacea.
+
+III.- Cuando se hagan legados para objetos o establecimiento del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1638.- Los interventores deben cumplir los mismos requisitos exigidos por la designación de los albaceas.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1639.- Los interventores durarán mientras que no se revoque su nombramiento.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1640.- El cargo de interventor también termina en los casos del artículo 1628, excepto en el caso previsto en la fracción V.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1641.- Los interventores tendrán la retribución que acuerden los herederos que los nombren, y si los nombra el Juez, cobrarán conforme al arancel, como si fueran apoderados, sin que el importe exceda en una tercera parte de lo que deba percibir el albacea.
+
+### CAPITULO IV. DE LOS ALBACEAS Y LOS INTERVENTORES
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO V. DEL INVENTARIO Y DE LA LIQUIDACION DE LA HERENCIA
 
-1642.- El albacea definitivo, dentro del término que fije el Código de Procedimientos Civiles, promoverá la formación del inventario.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1643.- Si el albacea no cumpliere lo dispuesto en el artículo anterior, podrá promover la formación de inventario cualquier heredero.
+1642.- La formación del inventario corresponderá al albacea definitivo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1643.- Si el albacea no cumpliere lo dispuesto en el artículo anterior, cualquier heredero podrá promover su remoción y solicitar autorización para formar el inventario.
 
 1644.- El inventario se formará según lo disponga el Código de Procedimientos Civiles. Si el albacea no lo presenta dentro del término legal, será removido.
 
 1645.- Concluido y aprobado judicialmente el inventario, el albacea procederá a la liquidación de la herencia.
 
-1646.- En primer lugar, serán pagadas las deudas mortuorias, si no lo estuvieren ya, pues pueden pagarse antes de la formación del inventario.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1646.- En primer lugar, serán pagadas del caudal hereditario, las deudas mortuorias que no lo estuvieren ya, pues pueden pagarse antes de la formación del inventario.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 1647.- Se llaman deudas mortuorias, los gastos del funeral y las que se hayan causado en la última enfermedad del autor de la herencia.
 
-1648.- Las deudas mortuorias se pagarán del cuerpo de la herencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1648.- El pago de las deudas mortuorias se realizará con cargo a la herencia.
 
 1649.- En segundo lugar, se pagarán los gastos de rigurosa conservación y administración de la herencia, así como los créditos alimenticios que pueden también ser cubiertos antes de la formación del inventario.
 
-1650.- Si para hacer los pagos de que hablan los artículos anteriores no hubiere dinero en la herencia, el albacea promoverá la venta de los bienes muebles y aun de los inmuebles, con las solemnidades que respectivamente se requieran.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1650.- Si para hacer los pagos de que hablan los artículos anteriores no hubiere dinero en la herencia, el albacea promoverá la venta de los bienes muebles y aún de los inmuebles, con las formalidades que se requieran, observándose lo dispuesto por el artículo 1609.
 
 1651.- En seguida se pagarán las deudas hereditarias que fueren exigibles.
 
 1652.- Se llaman deudas hereditarias, las contraídas por el autor de la herencia independientemente de su última disposición, y de las que es responsable con sus bienes.
 
-1653.- Si hubiere pendiente algún concurso, el albacea no deberá pagar sino conforme a la sentencia de graduación de acreedores.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1654.- Los acreedores, cuando no haya concurso, serán pagados en el orden en que se presenten; pero si entre los no presentados hubiere algunos preferentes, se exigirá a los que fueren pagados la caución de acreedor de mejor derecho.
+1653.- Si hubiere pendiente algún concurso, el albacea pagará conforme a la sentencia de graduación de los acreedores.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1654.- Los acreedores, cuando no haya concurso, serán pagados en el orden en que se presenten; respetando siempre el derecho de los acreedores preferentes. Si los primeros exigieron ser pagados por falta de presentación de los últimos, se exigirá a los que fueren pagados, la caución de acreedor de mejor derecho.
 
 1655.- El albacea, concluido el inventario, no podrá pagar los legados, sin haber cubierto o asignado bienes bastantes para pagar las deudas, conservando en los respectivos bienes los gravámenes especiales que tenga.
 
-1656.- Los acreedores que se presenten después de pagados los legatarios, solamente tendrán acción contra éstos cuando en la herencia no hubiere bienes bastantes para cubrir sus créditos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1656.- Se tendrá en cuenta, en su caso, para el pago de los legados lo dispuesto en el artículo 1314.
+
+Los acreedores que se presenten después de pagados los legatarios, solamente tendrán acción contra éstos cuando en la herencia no hubiere bienes bastantes para cubrir sus créditos.
 
 1657.- La venta de bienes hereditarios para el pago de deudas y legados, se hará en pública subasta; a no ser que la mayoría de los interesados acuerde otra cosa.
 
-1658.- La mayoría de los interesados o la autorización judicial en su caso determinarán la aplicación que haya de darse al precio de las cosas vendidas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1658.- La mayoría de los interesados, o la autorización judicial en su caso, determinará la aplicación que haya de darse al precio de los bienes vendidos.
 
 ### CAPITULO VI. DE LA PARTICION
 
-1659.- Aprobados el inventario y la cuenta de administración el albacea debe hacer en seguida la partición de la herencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1659.- Aprobados el inventario y la cuenta de administración, el albacea debe formular enseguida, el proyecto de división y participación de la herencia.
 
 1660.- A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aun por prevención expresa del testador.
 
-1661.- Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo menores entre ellos, deberá oírse al tutor y al Ministerio Público, y el auto en que se apruebe el convenio, determinará el tiempo que debe durar la indivisión.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1662.- Si el autor de la herencia dispone en su testamento que a algún heredero o legatario se le entreguen determinados bienes, el albacea, aprobado el inventario, les entregará esos bienes, siempre que garanticen suficientemente responder por los gastos y cargas generales de la herencia, en la proporción que les corresponda.
+1661.- Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo incapaces entre ellos, deberá oírse al representante legítimo y al Ministerio Público. El auto en que se apruebe el convenio determinará el tiempo que debe durar la indivisión.
 
-1663.- Si el autor de la herencia hiciere la partición de los bienes en su testamento, a ella deberá estarse, salvo los derechos de tercero.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1664.- Si el autor de la sucesión no dispuso cómo debieran repartirse sus bienes y se trata de una negociación que forme una unidad agrícola, industrial o comercial, habiendo entre los herederos agricultores, industriales o comerciantes, a ellos se aplicará la negociación, siempre que puedan entregar en dinero a los otros coherederos la parte que les corresponda. El precio de la negociación se fijará por peritos.
+1662.- Si el autor de la sucesión dispone en su testamento que a algún heredero o legatario se le entreguen determinados bienes, el albacea, aprobado el inventario, se los entregará pero deberá garantizar suficientemente para responder de los gastos y cargos generales de la herencia, en la proporción que les corresponda, salvo que el testador hubiere eximido tal gravamen.
 
-Lo dispuesto en este artículo, no impide que los coherederos celebren los convenios que estimen pertinentes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1663.- Si el autor de la sucesión hiciere la división y partición de los bienes en su testamento, a ella deberá estarse, salvo derechos de tercero.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1664.- Si el autor de la sucesión no hizo la partición, los herederos podrán hacerla.
+
+Si se trata de una empresa que forme una unidad agrícola, industrial o comercial, habiendo entre los herederos agricultores, industriales o comerciantes, a ellos se aplicará la negociación, siempre que puedan entregar en dinero a los otros coherederos la parte que le corresponda. El precio de la empresa se fijará por peritos.
+
+Lo dispuesto en este artículo no impide que los coherederos celebren los convenios que estimen pertinentes.
 
 1665.- Los coherederos deben abonarse recíprocamente las rentas y frutos que cada uno haya recibido de los bienes hereditarios, los gastos útiles y necesarios y los daños ocasionados por malicia o negligencia.
 
-1666.- Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con ella en particular a algún heredero o legatario, se capitalizará al nueve por ciento anual, y se separará un capital o fundo de igual valor, que se entregará a la persona que deba percibir la pensión o renta, quien tendrá todas las obligaciones de mero usufructuario. Lo mismo se observará cuando se trate de las pensiones alimenticias a que se refiere el artículo 1272.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1667.- En el proyecto de partición se expresará la parte que del capital o fundo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquélla se extinga.
+1666.- Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con ella en particular a algún heredero o legatario, se capitalizará conforme al tipo de rédito bancario promedio en la fecha de la capitalización, y se separará en un fondo, pudiendo ser también un bien de igual valor, que se entregará a la persona que deba percibir la pensión o renta, quien tendrá todas las obligaciones de mero usufructuario.
 
-1668.- Cuando todos los herederos sean mayores, y el interés del Fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaría o del intestado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público, dará su aprobación, si no se lesionan los derechos de los menores.
+1667.- En el proyecto de partición se expresará la parte que del fondo o bien, afecto a la pensión, corresponderá a cada uno de los herederos, luego que aquella se extinga.
 
-1669.- La partición constará en escritura pública, siempre que en la herencia haya bienes cuya enajenación deba hacerse con esa formalidad.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1670.- Los gastos de la partición, se rebajarán del fondo común; los que se hagan por el interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
+1668.- Lo dispuesto en los dos artículos anteriores se observará también cuando se trate de pensiones alimenticias.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1668-A.- Los herederos podrán separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo o terminación de la testamentaría o del intestado. Habiendo menores de edad o incapaces, la petición de sus representantes deberá ser aprobada por el Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1668-B.- Tratándose de sucesión legítima, la división y participación se hará atendiendo al derecho y proporción que corresponda a cada uno de los herederos. Estos podrán celebrar los convenios respectivos. Si no se pusieren de acuerdo el Juez dispondrá que los bienes se vendan y su importe se distribuya entre interesados en la proporción que les corresponda. En su caso, se observará lo dispuesto en el artículo 1664.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1669.- La partición se formalizará en escritura pública cuando en la herencia haya bienes enajenación deba constar de ese modo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1670.- Los gastos de la partición se rebajarán del fondo común; los que se hagan por interés particular de alguno de los herederos o legatarios se cargarán a su cuenta.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1670-A.- Cuando no haya acuerdo unánime de los herederos sobre la partición, o el autor de la sucesión no la hubiere hecho en su testamento, dicha partición deberá ser judicial.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1670-B.- El heredero perjudicado con la partición podrá reclamarla dentro de sesenta días a partir de la fecha en que se le notifique la aprobación judicial del proyecto de partición. La oposición se tramitará en el juicio que corresponda, excepto que se trate de meros errores numéricos o de cuestiones que no impugnen el derecho de los demás, en cuyos casos la oposición se substanciará incidentalmente.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1670-C.- Las reglas dadas para la partición de la herencia principal se observarán también en la que se haga entre los que sucedan por substitución testamentaria o legítima.
 
 ### CAPITULO VII. DE LOS EFECTOS DE LA PARTICION
 
-1671.- La partición legalmente hecha, fija la porción de bienes hereditarios que corresponde a cada uno de los herederos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1672.- Cuando por causas anteriores a la partición, alguno de los coherederos fuese privado de todo o de parte de su haber, los otros coherederos están obligados a indemnizarle de esa pérdida, en proporción a sus derechos hereditarios.
+1671.- La partición legalmente hecha, adjudica a los herederos la propiedad exclusiva de los bienes que hayan correspondido a cada uno de ellos. Si fuere heredero único, la participación simplemente formaliza sus derechos a la herencia.
 
-1673.- La porción que deberá pagarse al que pierda su parte, no será la que represente su haber primitivo sino la que le corresponda, deduciendo del total de la herencia la parte perdida.
+1672.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 
-1674.- Si alguno de los coherederos estuviere insolvente, la cuota con que debía contribuir se repartirá entre los demás, incluso el que perdió su parte.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1675.- Los que pagaren por el insolvente, conservarán su acción contra él, para cuando mejore de fortuna.
+1673.- Los coherederos están recíprocamente obligados a indemnizarse en caso de evicción de los bienes repartidos y pueden usar del derecho que este Código les concede en materia de hipoteca necesaria, para pedir la constitución de ésta en seguridad de sus créditos.
 
-1676.- La obligación a que se refiere el artículo 1672, sólo cesará en los casos siguientes:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1674.- El que sufre la evicción será indemnizado por los coherederos en proporción a sus cuotas hereditarias.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1675.- Si alguno o algunos de los herederos estuviere insolvente, la cuota con que debía contribuir se repartirá entre los demás incluyendo el que perdió su parte.
+
+Los que pagaren por el insolvente conservarán su acción contra él, para cuando mejore su fortuna.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1676.- La porción que deberá pagarse al que sufra la evicción no será la que represente su haber primitivo, sino la que le corresponda, deduciendo del total de la herencia la parte perdida.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1677.- La obligación del saneamiento para el caso de evicción, sólo cesará en los casos siguientes:
 
 I.- Cuando se hubieren dejado al heredero bienes individualmente determinados, de los cuales es privado;
 
@@ -5917,11 +7079,23 @@ II.- Cuando al hacerse la partición, los coherederos renuncien expresamente el 
 
 III.- Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre.
 
-1677.- Si se adjudica como cobrable un crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario, y sólo son responsables de su solvencia al tiempo de hacerse la partición.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 1678.- Por los créditos incobrables no hay responsabilidad.
 
-1679.- El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos, caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
+Si se adjudica como cobrable un crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario, y sólo son responsables de su insolvencia al tiempo de hacer la partición.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
+
+# LIBRO CUARTO. DE LAS OBLIGACIONES
+
+PRIMERA PARTE
+
+DE LAS OBLIGACIONES EN GENERAL
+
+## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
 
 ### CAPITULO VIII. DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
 
@@ -5932,14 +7106,6 @@ III.- Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre.
 1682.- La partición hecha con un heredero falso, es nula en cuanto tenga relación con él, y la parte que se le aplicó se distribuirá entre los herederos.
 
 1683.- Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este Título.
-
-# LIBRO CUARTO. DE LAS OBLIGACIONES
-
-PRIMERA PARTE
-
-DE LAS OBLIGACIONES EN GENERAL
-
-## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
 
 ### CAPITULO I. CONTRATOS
 
@@ -5970,6 +7136,10 @@ IV.- Porque el consentimiento no se haya manifestado en la forma que la ley esta
 1690.- La facultad de rescindir las obligaciones se entiende implícita en las recíprocas, para el caso de que uno de los obligados no cumpliere lo que le incumba. Sólo pueden rescindirse las obligaciones que en sí mismas son validas.
 
 1691.- Si el obligado en un contrato dejare de cumplir su obligación, podrá el otro interesado exigir judicialmente el cumplimiento de lo convenido o la rescisión del contrato, y en uno y otro caso, el pago de daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+También podrá pedir la rescisión, aún después de haber optado por el cumplimiento, cuando éste resultare imposible.
 
 > <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)</small>
 
@@ -6279,6 +7449,8 @@ Si no fuere posible dar ese aviso, el gestor debe continuar su gestión hasta qu
 
 1794.- Los gastos funerarios proporcionados a la condición de la persona y a los usos de la localidad deberán ser satisfechos al que los haga aunque el difunto no hubiese dejado bienes, por aquéllos que hubieren tenido la obligación de alimentarlo en vida.
 
+## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
+
 ### CAPITULO V. DE LAS OBLIGACIONES QUE NACEN DE LOS ACTOS ILICITOS
 
 1795.- El que obrando ilícitamente cause daño a otro, está obligado a repararlo, a menos que demuestre que el daño se produjo como consecuencia de culpa o negligencia inexcusable de la víctima.
@@ -6383,8 +7555,6 @@ VI.- Por el peso o movimiento de las máquinas, por las aglomeraciones de materi
 
 1819.- La acción para exigir la reparación de los daños causados en los términos del presente capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño.
 
-## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
-
 ### CAPITULO I. DE LAS OBLIGACIONES CONDICIONALES
 
 1820.- La obligación es condicional cuando su existencia o su resolución dependen de un acontecimiento futuro e incierto.
@@ -6429,15 +7599,21 @@ V.- Si la cosa se mejora por su naturaleza o por el tiempo, las mejoras ceden en
 
 VI.- Si se mejora a expensas del deudor, no tendrá éste otro derecho que el concedido al usufructuario.
 
-1831.- La facultad de resolver las obligaciones se entiende implícita en las recíprocas, para el caso de que uno de los obligados no cumpliere lo que le incumbe.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-El perjudicado podrá escoger entre exigir el cumplimiento o la resolución de la obligación, con el resarcimiento de daños y perjuicios en ambos casos. También podrá pedir la resolución, aun después de haber optado por el cumplimiento, cuando éste resultare imposible.
+1831.- En caso de incumplimiento, se observará lo dispuesto por los artículos 1690 y 1691, sin perjuicio de los artículos siguientes de este Capítulo.
 
-1832.- Cumplida la condición resolutoria deberá restituirse lo que se hubiere recibido en virtud del contrato. En el caso de pérdida, deterioro o mejora de la cosa restituible, se aplicarán en lo conducente las reglas establecidas en el artículo 1830.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1833.- La resolución del contrato fundada en falta de pago por parte del adquirente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efectos contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Registro Público en la forma prevenida por la ley.
+1832.- La resolución del contrato sujeto a condición, fundada en falta de pago por parte del adquirente de la propiedad de los bienes inmuebles u otro derecho real sobre los mismos, no surtirá efectos contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Registro Público en la forma prevenida por la ley.
 
-1834.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto para las ventas en las que se faculte al comprador a pagar el precio en abonos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1833.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto para las ventas en las que se faculte al comprador a pagar el precio en abonos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+1834.- Cumplida la condición resolutoria deberá restituirse lo que se hubiere recibido en virtud del contrato. En el caso de pérdida, deterioro o mejora de la cosa restituible, se aplicarán en lo conducente las reglas establecidas en el artículo 1830.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
 
@@ -6673,6 +7849,8 @@ III.- Cuando la obligación sea indivisible;
 
 IV.- Cuando por el contrato se ha determinado otra cosa.
 
+## TITULO TERCERO. DE LA TRASMISION DE LAS OBLIGACIONES
+
 ### CAPITULO VI. DE LAS OBLIGACIONES DE HACER O DE NO HACER
 
 1910.- Si el obligado a prestar un hecho, no lo hiciere, el acreedor tiene derecho de pedir que a costa de aquél se ejecute por otro, cuando la substitución sea posible.
@@ -6680,8 +7858,6 @@ IV.- Cuando por el contrato se ha determinado otra cosa.
 Esto mismo se observará si no lo hiciere de la manera convenida. En este caso el acreedor podrá pedir que se deshaga lo mal hecho.
 
 1911.- El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir el acreedor que sea destruida a costa del obligado.
-
-## TITULO TERCERO. DE LA TRASMISION DE LAS OBLIGACIONES
 
 ### CAPITULO I. DE LA CESION DE DERECHOS
 
@@ -6761,6 +7937,12 @@ Si tiene contra el cedente un crédito todavía no exigible cuando se hace la ce
 
 1940.- Cuando se declare nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fe.
 
+## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
+
+I.- EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
+
+CUMPLIMIENTO DE LAS OBLIGACIONES
+
 ### CAPITULO III. DE LA SUBROGACION
 
 1941.- La subrogación se verifica por ministerio de la ley y sin necesidad de declaración alguna de los interesados:
@@ -6780,12 +7962,6 @@ IV.- Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él u
 1943.- No habrá subrogación parcial en deudas de solución indivisible.
 
 1944.- El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
-
-## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
-
-I.- EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
-
-CUMPLIMIENTO DE LAS OBLIGACIONES
 
 ### CAPITULO I. DEL PAGO
 
@@ -7111,6 +8287,8 @@ Si el deudor únicamente paga a un acreedor con preferencia indebida, la acción
 
 2062.- Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
 
+## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
+
 ### CAPITULO II. DE LA SIMULACION DE LOS ACTOS JURIDICOS
 
 2063.- Es simulado el acto en que las partes declaran o confiesan falsamente lo que en realidad no ha pasado o no se ha convenido entre ellas.
@@ -7124,8 +8302,6 @@ Si el deudor únicamente paga a un acreedor con preferencia indebida, la acción
 2067.- Luego que se anule un acto simulado, se restituirá la cosa o derechos a quien pertenezca, con sus frutos e intereses, si los hubiere; pero si la cosa o derecho ha pasado a título oneroso a un tercero de buena fe, no habrá lugar a la restitución.
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
-
-## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
 
 ### CAPITULO I. DE LA COMPENSACION
 
@@ -7213,30 +8389,6 @@ Si llegare a separarse el crédito y la deuda en patrimonios de sujetos distinto
 
 2095.- La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
 
-### CAPITULO IV. DE LA NOVACION
-
-2096.- Hay novación de contrato cuando las partes en él interesadas lo alteran substancialmente substituyendo una obligación nueva a la antigua.
-
-2097.- La novación es un contrato, y como tal, está sujeto a las disposiciones respectivas, salvo las modificaciones siguientes.
-
-2098.- La novación nunca se presume, debe constar expresamente.
-
-2099.- Aun cuando la obligación anterior esté subordinada a una condición suspensiva, solamente quedará la novación pendiente del cumplimiento de aquélla, si así se hubiere estipulado.
-
-2100.- Si la primera obligación se hubiere extinguido al tiempo en que se contrajere la segunda, quedará la novación sin efecto.
-
-2101.- La novación es nula si lo fuere también la obligación primitiva, salvo que la causa de nulidad solamente pueda ser invocada por el deudor, o que la ratificación convalide los actos nulos en su origen.
-
-2102.- Si la novación fuere nula, subsistirá la antigua obligación.
-
-2103.- La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva.
-
-2104.- El acreedor no puede reservarse el derecho de prenda o hipoteca de la obligación extinguida, si los bienes hipotecados o empeñados pertenecieren a terceros que no hubieren tenido parte en la novación. Tampoco puede reservarse la fianza sin consentimiento del fiador.
-
-2105.- Cuando la novación se efectúe entre el acreedor y algún deudor solidario, los privilegios e hipotecas del antiguo crédito sólo pueden quedar reservados con relación a los bienes del deudor que contrae la nueva obligación.
-
-2106.- Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exonerados todos los demás codeudores, sin perjuicio de lo dispuesto en el artículo 1862.
-
 ## TITULO SEXTO. DE LA INEXISTENCIA Y DE LA NULIDAD
 
 2107.- El acto jurídico inexistente por la falta de consentimiento o de objeto que puede ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
@@ -7299,6 +8451,32 @@ DE LAS DIVERSAS ESPECIES DE CONTRATOS
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 2002)</small>
 
+### CAPITULO IV. DE LA NOVACION
+
+2096.- Hay novación de contrato cuando las partes en él interesadas lo alteran substancialmente substituyendo una obligación nueva a la antigua.
+
+2097.- La novación es un contrato, y como tal, está sujeto a las disposiciones respectivas, salvo las modificaciones siguientes.
+
+2098.- La novación nunca se presume, debe constar expresamente.
+
+2099.- Aun cuando la obligación anterior esté subordinada a una condición suspensiva, solamente quedará la novación pendiente del cumplimiento de aquélla, si así se hubiere estipulado.
+
+2100.- Si la primera obligación se hubiere extinguido al tiempo en que se contrajere la segunda, quedará la novación sin efecto.
+
+2101.- La novación es nula si lo fuere también la obligación primitiva, salvo que la causa de nulidad solamente pueda ser invocada por el deudor, o que la ratificación convalide los actos nulos en su origen.
+
+2102.- Si la novación fuere nula, subsistirá la antigua obligación.
+
+2103.- La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva.
+
+2104.- El acreedor no puede reservarse el derecho de prenda o hipoteca de la obligación extinguida, si los bienes hipotecados o empeñados pertenecieren a terceros que no hubieren tenido parte en la novación. Tampoco puede reservarse la fianza sin consentimiento del fiador.
+
+2105.- Cuando la novación se efectúe entre el acreedor y algún deudor solidario, los privilegios e hipotecas del antiguo crédito sólo pueden quedar reservados con relación a los bienes del deudor que contrae la nueva obligación.
+
+2106.- Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exonerados todos los demás codeudores, sin perjuicio de lo dispuesto en el artículo 1862.
+
+## TITULO SEGUNDO. DE LA COMPRAVENTA
+
 ### CAPITULO UNICO. DE LA PROMESA
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
@@ -7324,8 +8502,6 @@ DE LAS DIVERSAS ESPECIES DE CONTRATOS
 En este caso, el contrato de promesa deberá otorgarse en escritura pública, si el precio del inmueble o derecho real excede del equivalente a quinientas veces el salario mínimo. En caso contrario, bastará un escrito privado debidamente ratificado ante fedatario público.
 
 2131.- Si el promitente o el causahabiente, en caso de promesa inscrita en el Registro Público de la Propiedad, rehusan firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el Juez; salvo el caso de que la celebración del contrato sea legalmente imposible, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
-
-## TITULO SEGUNDO. DE LA COMPRAVENTA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -7583,16 +8759,6 @@ Cuando los bienes vendidos son de los mencionados en las fracciones I y II del a
 
 2219.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 
-### CAPITULO X. DE LAS VENTAS JUDICIALES
-
-2220.- Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos Civiles.
-
-2221.- No pueden rematar por sí, ni por interpósita persona, el Juez, Secretario y demás empleados del juzgado; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a la sucesión o a los incapacitados, respectivamente; ni los peritos que hayan valuado los bienes objeto del remate.
-
-2222.- Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuera inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas en los términos que disponga el Código de Procedimientos Civiles.
-
-2223.- En las enajenaciones judiciales que hayan de verificarse para dividir cosa común, se observará lo dispuesto para la partición entre herederos.
-
 ## TITULO TERCERO. DE LA PERMUTA
 
 2224.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2133.
@@ -7606,6 +8772,16 @@ Cuando los bienes vendidos son de los mencionados en las fracciones I y II del a
 2228.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compraventa, en cuanto no se opongan a los artículos anteriores.
 
 ## TITULO CUARTO. DE LAS DONACIONES
+
+### CAPITULO X. DE LAS VENTAS JUDICIALES
+
+2220.- Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos Civiles.
+
+2221.- No pueden rematar por sí, ni por interpósita persona, el Juez, Secretario y demás empleados del juzgado; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a la sucesión o a los incapacitados, respectivamente; ni los peritos que hayan valuado los bienes objeto del remate.
+
+2222.- Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuera inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas en los términos que disponga el Código de Procedimientos Civiles.
+
+2223.- En las enajenaciones judiciales que hayan de verificarse para dividir cosa común, se observará lo dispuesto para la partición entre herederos.
 
 ### CAPITULO I. DE LAS DONACIONES EN GENERAL
 
@@ -7668,6 +8844,8 @@ Si excede de quinientas veces el salario mínimo, la donación deberá otorgarse
 2253.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 314.
 
 2254.- Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
+
+## TITULO QUINTO. DEL MUTUO
 
 ### CAPITULO III. DE LA REVOCACION Y REDUCCION DE LAS DONACIONES
 
@@ -7739,8 +8917,6 @@ II.- Si el donatario rehusa socorrer, según el valor de la donación, al donant
 
 2279.- Revocada o reducida una donación por inoficiosa, el donatario sólo responderá de los frutos desde que fuere demandado.
 
-## TITULO QUINTO. DEL MUTUO
-
 ### CAPITULO I. DEL MUTUO SIMPLE
 
 2280.- El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otras cosas fungibles al mutuario, quien se obliga a devolver otro tanto de la misma especie y calidad.
@@ -7779,6 +8955,8 @@ II.- La restitución se hará en el domicilio del mutuario, observándose en su 
 
 2288.- No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
+## TITULO SEXTO. DEL ARRENDAMIENTO
+
 ### CAPITULO II. DEL MUTUO CON INTERES
 
 2289.- Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
@@ -7800,8 +8978,6 @@ II.- La restitución se hará en el domicilio del mutuario, observándose en su 
 2294.- Si el mutuario debe intereses y abona algunas cantidades, se aplicarán éstas a los vencidos; y lo que de ellas sobre se imputará al capital.
 
 2295.- El recibo del capital dado sin reserva de intereses, establece a favor del deudor la presunción de haberlos pagado.
-
-## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -8081,6 +9257,54 @@ Las disposiciones de este artículo no son renunciables.
 
 2381.- Si el arrendador aprueba expresamente el contrato especial de subarriendo, el subarrendatario queda subrogado en todos los derechos y obligaciones del arrendatario, a no ser que por convenio se acuerde otra cosa.
 
+## TITULO SEPTIMO. DEL COMODATO
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
+
+2396.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible y el otro contrae la obligación de restituirla individualmente.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+
+El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tiene por objeto un predio rústico cuyo valor del avalúo o valor catastral exceda de quinientas veces el salario mínimo, el contrato se otorgará en escritura pública.
+
+2397.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
+
+2398.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+2399.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
+
+2400.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
+
+2401.- El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
+
+2402.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior a ella, abonando su propiedad al comodatario.
+
+2403.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
+
+2404.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
+
+2405.- Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
+
+2406.- Si la cosa se deteriora por el solo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
+
+2407.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
+
+2408.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+2409.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+2410.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
+
+2411.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+
+2412.- Si durante el préstamo el comodatario ha tenido que hacer para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, este tendrá obligación de reembolsarlo.
+
+2413.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirve de ella, el comodante es responsable de éstos, si conocía los defectos y no dio aviso oportuno al comodatario.
+
+2414.- El comodato termina por la muerte del comodatario.
+
+## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
+
 ### CAPITULO IX. DEL MODO DE TERMINAR EL ARRENDAMIENTO
 
 2382.- El arrendamiento puede terminar:
@@ -8161,54 +9385,6 @@ V.- En los demás casos previstos legalmente.
 
 2395.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los artículos 2355, 2356 y 2357.
 
-## TITULO SEPTIMO. DEL COMODATO
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
-
-2396.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible y el otro contrae la obligación de restituirla individualmente.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
-
-El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tiene por objeto un predio rústico cuyo valor del avalúo o valor catastral exceda de quinientas veces el salario mínimo, el contrato se otorgará en escritura pública.
-
-2397.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
-
-2398.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-2399.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-2400.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
-
-2401.- El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-2402.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior a ella, abonando su propiedad al comodatario.
-
-2403.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
-
-2404.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-2405.- Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
-
-2406.- Si la cosa se deteriora por el solo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
-
-2407.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-2408.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-2409.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-2410.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
-
-2411.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-2412.- Si durante el préstamo el comodatario ha tenido que hacer para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, este tendrá obligación de reembolsarlo.
-
-2413.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirve de ella, el comodante es responsable de éstos, si conocía los defectos y no dio aviso oportuno al comodatario.
-
-2414.- El comodato termina por la muerte del comodatario.
-
-## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
-
 ### CAPITULO I. DEL DEPOSITO
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
@@ -8269,6 +9445,8 @@ La responsabilidad de que habla este artículo no excederá de cincuenta veces e
 
 2437.- Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
+## TITULO NOVENO. DEL MANDATO
+
 ### CAPITULO II. DEL SECUESTRO
 
 2438.- El secuestro es el depósito de una cosa litigiosa en poder de un tercero, hasta que se decida a quién debe entregarse.
@@ -8284,8 +9462,6 @@ La responsabilidad de que habla este artículo no excederá de cincuenta veces e
 2443.- Secuestro judicial es el que se constituye por decreto del juez.
 
 2444.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles, y, en su defecto, por las mismas del secuestro convencional.
-
-## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -8487,6 +9663,8 @@ V.- Por nombrar el mandante otro procurador para el mismo negocio.
 
 2493.- La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
+## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
+
 ### CAPITULO VI. DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO
 
 2494.- El mandato termina:
@@ -8530,8 +9708,6 @@ En el caso de que el mandato sea irrevocable, puede pactarse también que aún a
 2502.- El mandatario que renuncie tiene obligación de seguir el negocio mientras el mandante no provee a la procuración, si de lo contrario se sigue algún perjuicio.
 
 2503.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2496.
-
-## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
 ### CAPITULO I. DE LA PRESTACION DE SERVICIOS PROFESIONALES
 
@@ -9673,6 +10849,8 @@ Si por el contrario, prefieren tener voz y voto en la mencionada junta, serán c
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las medidas de defensa social que merezcan por el fraude.
 
+## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
+
 ### CAPITULO II. DE LOS CREDITOS HIPOTECARIOS Y PIGNORATICIOS Y DE ALGUNOS OTROS PRIVILEGIOS
 
 2873.- Preferentemente se pagarán los adeudos fiscales provenientes de impuestos, con el valor de los bienes que los hayan causado.
@@ -9716,8 +10894,6 @@ I.- Si la separación de los bienes no fuere pedida dentro de tres meses, contad
 II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro modo hubieren aceptado la responsabilidad personal del heredero.
 
 2885.- Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
-
-## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
 ### CAPITULO III. DE ALGUNOS ACREEDORES PREFERENTES SOBRE DETERMINADOS BIENES
 
@@ -9795,6 +10971,8 @@ La autoridad registral queda exceptuada de la obligación establecida en el pár
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1469.
 
+## TITULO SEGUNDO. DEL REGISTRO PUBLICO
+
 ### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
 
 2894.- Los documentos que conforme a la ley deban registrarse y no se registren sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicio a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
@@ -9852,8 +11030,6 @@ Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a a
 En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquélla contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
 
 2900.- No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
-
-## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
 ### CAPITULO III. DEL MODO DE HACER EL REGISTRO Y DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCION
 
@@ -10232,6 +11408,24 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 20 DE JULIO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2002.
+
+DECRETO No. 425/02 I P.O.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación del Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Los procedimientos que ya se encuentren en trámite, continuarán substanciándose conforme a las disposiciones anteriores a este decreto, pudiendo hacerse al tenor de este último si los herederos y legatarios así lo acordaren.
+
+P.O. 21 DE DICIEMBRE DE 2002.
+
+DECRETO No. 427/02 I P.O.
 
 ###### ARTÍCULO ÚNICO.
 
