@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-5961"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-05"
-last_updated: "1993-12-30"
+last_updated: "1994-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 5 de marzo de 1984.
 
@@ -87,9 +87,13 @@ Para la aplicación de los conceptos catastrales, a que se refiere esta Ley, se 
 
 Son autoridades en materia Catastral en el Estado de Michoacán.
 
-I. El Titular del Poder Ejecutivo, a través del Tesorero General del Estado y del Subtesorero; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-II. El Consejo Técnico del Instituto Catastral y Registral del Estado de Michoacán de Ocampo, a través del Vocal Ejecutivo, del Director de Catastro y de los Titulares de las Oficinas Recaudadoras del Estado.
+I. El Titular del Poder Ejecutivo, a través del Tesorero General; y
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+II. El Consejo Técnico del Instituto Catastral y Registral del Estado de Michoacán de Ocampo, a través del Director General del Instituto, del Director de Catastro y de los Titulares de las Oficinas Recaudadoras del Estado.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -135,7 +139,9 @@ Los resultados que se obtengan de realizar las operaciones a que se refiere el p
 
 Los predios podrán revaluarse cuando:
 
-I. (DEROGADA, P.O. 20 DE DICIEMBRE DE 1990)
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+I. El Congreso del Estado apruebe nuevos valores unitarios;
 
 II. En el predio se hagan construcciones, reconstrucciones o ampliaciones a las ya existentes;
 
@@ -281,7 +287,9 @@ Los valores catastrales surtirán efectos legales a partir de la fecha de su not
 
 El Instituto, podrá autorizar peritos valuadores de bienes inmuebles, mismos que deberán inscribirse en el Registro de Valuadores, previo cumplimiento de los requisitos establecidos en el reglamento de esta Ley.
 
-El Instituto, fijará el monto de la garantía a los peritos valuadores autorizados y señalará el otorgamiento de la misma, en alguna de las formas que establece el artículo 32 del Código Fiscal del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+El Instituto, fijará el monto de la garantía a los peritos valuadores autorizados y señalará el otorgamiento de la misma, en alguna de las formas que establece el artículo 120 del Código Fiscal del Estado.
 
 A los peritos valuadores autorizados por el Instituto que no apliquen correctamente en la valuación de predios los valores unitarios aprobados, atendiendo a la clasificación del terreno y construcción de que se trate, le será suspendida dicha autorización sin perjuicio de las sanciones fiscales o penales en que incurran.
 
@@ -311,7 +319,7 @@ La autoridad competente remitirán (sic) a la autoridad catastral, los planos de
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Para efectos de la asignación del valor catastral a cada local o apartamento del condominio, se tomarán en cuenta las especificaciones relativas a áreas privativas, áreas comunes, el indiviso y las características de la construcción, determinadas en la escritura constitutiva correspondiente.
+Para efectos de la asignación del valor catastral a cada local o apartamento del condominio, se tornarán en cuenta las especificaciones relativas a áreas privativas, áreas comunes, el indiviso y las características de la construcción, determinadas en la escritura constitutiva correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -517,15 +525,13 @@ Para el caso de que la autoridad catastral requiera realizar trabajos de rectifi
 
 ### CAPITULO DECIMO PRIMERO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
-
 I. DEL PROCEDIMIENTO SOBRE VARIACIONES CATASTRALES DE BIENES HEREDITARIOS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 52.
 
-El Vocal Ejecutivo del Instituto, a su juicio, puede autorizar la variación de cuentas catastrales sobre bienes hereditarios, si éstos en la fecha de presentación de la solicitud no rebase un valor de N$ 30,000.00, mismo que se determinará mediante avalúo catastral practicado por perito que designe el Instituto, y siempre que las pruebas que presenten los interesados sean suficientes para acreditar el parentesco de éstos con el autor de la herencia.
+El Director General del Instituto, a su juicio puede autorizar la variación de cuentas catastrales sobre bienes hereditarios, si éstos en la fecha de presentación de la solicitud no rebasan un valor de N$ 30,000.00, mismo que se determinará mediante avalúo catastral practicado por perito que designe el Instituto, y siempre que las pruebas que presenten los interesados sean suficientes para acreditar el parentesco de éstos con el autor de la herencia.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -543,15 +549,15 @@ Los valores mencionados de los párrafos anteriores, se actualizarán para aplic
 
 Los resultados que se obtengan de realizar las operaciones a que se refiere el párrafo anterior, se ajustarán a la unidad monetaria más próxima.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-También procederá que el Vocal Ejecutivo del Instituto, autorice la variación catastral de bienes hereditarios, independientemente del valor catastral de los mismos, cuando los presuntos herederos sean menores de edad o personas incapacitadas física o mentalmente para trabajar y el caudal hereditario esté integrado únicamente por un predio. En estos casos, la gestión deberá ser realizada por el representante legal nombrado por autoridad competente en los términos de la Legislación Civil del Estado de Michoacán.
+También procederá que el Director General del Instituto, autorice la variación catastral de bienes hereditarios, independientemente del valor catastral de los mismos, cuando los presuntos herederos sean menores de edad o personas incapacitadas física o mentalmente para trabajar y el caudal hereditario esté integrado únicamente por un predio. En estos casos, la gestión deberá ser realizada por el representante legal nombrado por autoridad competente en los términos de la Legislación Civil del Estado de Michoacán.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 53.
 
-La solicitud de variación catastral, se presentará por escrito a elección de los interesados, directamente en las oficinas centrales del Instituto O la oficina recaudadora del lugar donde se encuentren ubicados los bienes, consignando las superficies, medidas y linderos de cada uno de los predios que constituyen el caudal hereditario; por ellas se exhibirán los documentos que amparen la propiedad, que acrediten la muerte del autor de la herencia y sustenten el derecho que asista al peticionario, quien además expresará, en su caso, bajo protesta de decir verdad, los nombres de los demás presuntos herederos y sus domicilios, debiendo anexar además el certificado de archivo de notarias en que conste no existe testamento alguno por él cuando se trate de intestado. La omisión de estos requisitos, hará que se tenga por improcedente la solicitud y que se dé vista al Ministerio Público para los efectos a que hubiere lugar.
+La solicitud de variación catastral, se presentará por escrito a elección de los interesados, directamente en las oficinas centrales del Instituto o la oficina recaudadora del lugar donde se encuentren ubicados los bienes, consignando las superficies, medidas y linderos de cada uno de los predios que constituyen el caudal hereditario; por ellas se exhibirán los documentos que amparen la propiedad, que acrediten la muerte del autor de la herencia y sustenten el derecho que asista al peticionario, quien además expresará, en su caso, bajo protesta de decir verdad, los nombres de los demás presuntos herederos y sus domicilios, debiendo anexar además el certificado de archivo de notarias en que conste no existe testamento alguno por él cuando se trate de intestado. La omisión de estos requisitos, hará que se tenga por improcedente la solicitud y que se dé vista al Ministerio Público para los efectos a que hubiere lugar.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -579,11 +585,11 @@ Las oposiciones a la solicitud de variación catastral que se presenten, deberá
 
 Cuando los interesados comprueben su derecho a la herencia con copia certificada de la declaratoria de herederos dictada en los juicios de intestado o del testamento y auto que lo declare legítimo, siempre que la resolución en cada caso no haya sido recurrida legalmente, no será necesaria la publicación de los avisos a que se refiere el segundo párrafo del artículo 54 de esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 58.
 
-Los acuerdos firmados por el Vocal Ejecutivo del Instituto, mediante los cuales autorice la variación catastral de bienes hereditarios, tendrán los mismos efectos que si la aplicación de estos se hubiese hecho conforme a la legislación civil. Dichos acuerdos se remitirán a los interesados con copia para la oficina recaudadora respectiva, cuyo documento original les servirá de título de propiedad sobre los bienes hereditarios.
+Los acuerdos firmados por el Presidente del Consejo Técnico y por el Director General del Instituto, mediante los cuales se autorice la variación catastral de bienes hereditarios, tendrán los mismos efectos que si la aplicación de estos se hubiera hecho conforme a la legislación civil. Dichos acuerdos se remitirán a los interesados con copia para la oficina recaudadora respectiva, cuyo documento original les servirá de título de propiedad sobre los bienes hereditarios.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -596,8 +602,6 @@ I. Cuando aparezca que el valor de los bienes hereditarios excede la cantidad se
 II. Si se demuestra que al ser presentada la solicitud ya sea tramitada judicialmente en la misma sucesión, salvo lo dispuesto en el artículo 57 de esta Ley;
 
 III. En el caso de que durante el procedimiento administrativo surja oposición de derechos entre presuntos herederos.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 II. DEL PROCEDIMIENTO SOBRE HERENCIAS VACANTES
 
@@ -681,8 +685,6 @@ Para los efectos del artículo anterior, cuando los bienes sucesorios no fueren 
 
 Se entenderá por bien mostrenco todo inmueble que carezca de dueño o se encuentre abandonado por éste.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
-
 III. DEL PROCEDIMIENTO SOBRE INMUEBLES MOSTRENCOS
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
@@ -761,9 +763,7 @@ A la persona que denuncie ante la Tesorería General del Estado e (sic) en el In
 
 ###### ARTICULO 82.
 
-Las personas que se crean con derecho sobre algún inmueble declarado mostrenco, deberán denunciarlo ante el juez competente dentro del término de ciento ochenta días naturales, contenidos desde la fecha en que se inscriba en el Registro Público de la Propiedad en el Estado, el acuerdo correspondiente. Transcurrido ese plazo, quedará prescrito el derecho de cualquier reclamante.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+Las personas que se crean con derecho sobre algún inmueble declarado mostrenco, deberán denunciarlo ante el juez competente dentro del término de ciento ochenta días naturales, contados desde la fecha en que se inscriba en el Registro Público de la Propiedad en el Estado, el acuerdo correspondiente. Transcurrido ese plazo, quedará prescrito el derecho de cualquier reclamante.
 
 IV. DEL PROCEDIMIENTO SOBRE PREDIOS IGNORADOS
 
@@ -773,7 +773,7 @@ IV. DEL PROCEDIMIENTO SOBRE PREDIOS IGNORADOS
 
 Los predios rústicos y urbanos que no estén inscritos en el catastro, pueden inscribirse mediante manifestación que presenten los propietarios o poseedores ante la oficina recaudadora del lugar de su ubicación o ante el Instituto, después de que se determine el valor catastral.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 Las excedencias o demasías de predios registrados, no serán objeto de este procedimiento.
 
@@ -805,7 +805,9 @@ Concluido el plazo de quince días hábiles siguientes a la fecha de la publicac
 
 Los acuerdos que autoricen la inscripción catastral de predios ignorados, no constituye título de propiedad en favor de los manifestantes.
 
-Los registros catastrales a que se refiere el párrafo anterior, podrán ser cancelados o modificados, cuando se acredite que sus datos son erróneos o falsos, previo acuerdo del Vocal Ejecutivo del Instituto.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Los registros catastrales a que se refiere el párrafo anterior, podrán ser cancelados o modificados, cuando se acredite que sus datos son erróneos o falsos, previo acuerdo del Director General del Instituto.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -938,3 +940,13 @@ P.O. 30 DE DICIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día 1 de enero de 1994, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1 de enero de 1995 mil novecientos noventa y cinco, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a las presentes.
