@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-obras-publicas-del-estado-6078"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-26"
-last_updated: "1999-12-24"
+last_updated: "2003-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 2 DE SEPTIEMBRE DEL 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 26 de septiembre de 1984.
 
@@ -732,3 +734,19 @@ Se reforman los artículos... 57 de la Ley de Obras Públicas del Estado de Méx
 P.O. 24 DE DICIEMBRE DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la "Gaceta de Gobierno" del Estado de México.
+
+P.O. 2 DE SEPTIEMBRE DE 2003.
+
+CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga la Ley de Obras Públicas del Estado de México, publicada en el periódico oficial "Gaceta del Gobierno", el 26 de septiembre de 1984.
+
+CUARTO.- Los procedimientos, contratos, convenios e inconformidades administrativas, iniciados al amparo de la ley que se abroga se substanciarán y resolverán conforme a las disposiciones del mismo ordenamiento.
+
+QUINTO.- El Ejecutivo del Estado, en las materias de su competencia, expedirá el reglamento de este Libro dentro de los sesenta días siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+SEXTO.- En tanto se expide la reglamentación a que se refiere el artículo anterior, se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias a las previsiones de este Libro.
