@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1999-07-30"
+last_updated: "1999-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 1999.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -4638,13 +4638,23 @@ El Procurador General de la República y sus agentes, serán responsables de tod
 
 La función de consejero jurídico del Gobierno, estará a cargo de la dependencia del Ejecutivo Federal que, para tal efecto, establezca la ley.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 1999)</small>
 
-B. El Congreso de la Unión y las legislaturas de los Estados en el ámbito de sus respectivas competencias, establecerán organismos de protección de los Derechos Humanos que otorga el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial de la Federación, que violen estos derechos. Formularán recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+B. El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán organismos de protección de los derechos humanos que ampara el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial de la Federación, que violen estos derechos.
+
+Los organismos a que se refiere el párrafo anterior, formularán recomendaciones públicas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
 
 Estos organismos no serán competentes tratándose de asuntos electorales, laborales y jurisdiccionales.
 
-El organismo que establezca el Congreso de la Unión conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes de los estados.
+El organismo que establezca el Congreso de la Unión se denominará Comisión Nacional de los Derechos Humanos; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+
+La Comisión Nacional de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán substituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+
+El Presidente de la Comisión Nacional de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
+
+El Presidente de la Comisión Nacional de los Derechos Humanos presentará anualmente a los Poderes de la Unión un informe de actividades. Al efecto comparecerá ante las Cámaras del Congreso en los términos que disponga la ley.
+
+La Comisión Nacional de los Derechos Humanos conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes en las entidades federativas.
 
 ###### Art. 103.
 
@@ -4854,7 +4864,7 @@ En los casos no previstos en los párrafos anteriores, conocerán de la revisió
 
 > <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 1999)</small>
 
-IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos de que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución cuya resolución, a juicio de la Suprema Corte de Justicia y conforme a acuerdos generales, entrañe la fijación de un criterio de importancia y trascendencia. Sólo en esta hipótesis procederá la revisión ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales;
+IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos de que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución cuya resolución, a juicio de la Suprema Corte de Justicia y conforme a acuerdos generales, entrañe la fijación de un criterio de importancia y trascendencia. Sólo en esta hipótesis procederá la revisión ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
@@ -5630,7 +5640,7 @@ Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se p
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
 
-El Congreso de la Unión, sin contravenir a las bases siguientes, deberá expedir leyes sobre el trabajo, las cuales regirán:
+El Congreso de la Unión, sin expedir leyes sobre el trabajo, las cuales regirán:
 
 > <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -8485,6 +8495,22 @@ Los servidores públicos de la Contaduría Mayor de Hacienda no serán afectados
 Una vez creada la entidad de fiscalización superior de la Federación, todos los recursos humanos, materiales y patrimoniales en general de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicha entidad.
 
 CUARTO.- El Contador Mayor de Hacienda será titular de la entidad de fiscalización superior de la Federación hasta el 31 de diciembre de 2001; podrá ser ratificado para continuar en dicho encargo hasta completar el período de ocho años a que se refiere el artículo 79 de esta Constitución.
+
+D.O.F. 13 DE SEPTIEMBRE DE 1999.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los actuales integrantes del Consejo Consultivo de la Comisión Nacional de Derechos Humanos, continuarán en su encargo hasta concluir el período para el que fueron designados, pudiendo, en su caso, ser propuestos y elegidos para un segundo período en los términos de lo dispuesto por el quinto párrafo del apartado B del Artículo 102 que se reforma por este Decreto.
+
+TERCERO.- En un plazo máximo de sesenta días, la Cámara de Senadores o, en su caso, la Comisión Permanente del Congreso de la Unión, deberá elegir al Presidente de la Comisión Nacional de los Derechos Humanos, conforme al procedimiento dispuesto por el apartado B del Artículo 102 que se reforma por este Decreto. Para tal efecto, se observarán las siguientes reglas:
+
+A.- La Comisión correspondiente de la Cámara de Senadores procederá a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los Derechos Humanos.
+
+B.- Con base en la auscultación antes señalada, la Comisión podrá proponer la ratificación de la actual Titular de la Comisión Nacional de Derechos Humanos o, en su caso, integrar una terna de candidatos.
+
+CUARTO.- En tanto el Congreso de la Unión expide las reformas a la Ley de la Comisión Nacional de Derechos Humanos, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la ley reglamentaria vigente hasta dicha expedición.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
