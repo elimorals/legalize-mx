@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-del-archivo-municipal-del-ayuntamiento-de-25117"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-09"
-last_updated: "1994-05-09"
+last_updated: "2002-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO DEL ARCHIVO MUNICIPAL DEL AYUNTAMIENTO DE CULIACAN, SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS ARCHIVOS MUNICIPALES DEL AYUNTAMIENTO DE CULIACAN, SINALOA, PUBLICADO EN EL P.O. DE 15 DE FEBRERO DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el domingo 9 de mayo de 1994.
 
@@ -218,3 +220,11 @@ Dr. Humberto Gómez Campaña
 SECRETARIO DEL AYUNTAMIENTO
 
 Lic. Hermann Leuffer Mendoza
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2002.
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga el Reglamento del Archivo Municipal, publicado en el Periódico Oficial "El Estado de Sinaloa", número 55 de fecha 9 de mayo de 1994.
