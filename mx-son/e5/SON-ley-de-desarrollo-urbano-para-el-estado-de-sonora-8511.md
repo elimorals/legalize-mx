@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-urbano-para-el-estado-de-sonora-8511"
 country: "mx"
 rank: "ley"
 publication_date: "1985-02-18"
-last_updated: "1985-02-18"
+last_updated: "1992-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DESARROLLO URBANO PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Sección Primera el Boletín Oficial del Estado de Sonora, el lunes 18 de febrero de 1985.
 
@@ -1131,13 +1131,17 @@ I.- INFRAESTRUCTURA BASICA:
 
 - Arbolado y equipamiento en parques y jardines públicos.
 
-- Calles locales de 8.00 M. de arroyo, con circulación en un solo sentido y 1.50 M. de banqueta.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+- Calle locales de 6.00 metros de arroyo mínimo, con circulación de un solo sentido y 1.50 metros de banqueta.
 
 - Calles colectoras de 11.00 M. de arroyo y 1.50 M de banqueta.
 
 II.- LOTES
 
-- En calles locales, tendrán un frente mínimo de 6.50 M. y superficie mínima de 117.00 M2.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+- En calles locales, tendrán un frente mínimo de 6.00 metros y superficie mínima de 90.00 metros cuadrados.
 
 - En calles colectoras, tendrán un frente mínimo de 7.50 M. y una superficie mínima de 135.00 M2.
 
@@ -1262,6 +1266,16 @@ II.- CALLES COLECTORAS.- Son las destinadas a conducir el tránsito de las calle
 III.- CALLES O AVENIDAS DE ALTA VELOCIDAD.- Son las destinadas a conducir el tránsito de volumen considerable para toda clase de vehículos.
 
 Cuando este tipo de calles sea incluido en los fraccionamientos, sus características geométricas serán determinadas por el Ayuntamiento, siempre que su existencia esté justificada por la dimensión del fraccionamiento.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+TIPOS DE CALLE
+
+CUADRO I
+
+SECCIONES MINIMAS
+
+> <small>N. DE E. VEASE CUADRO, EN BOLETIN OFICIAL DEL ESTADO DE SONORA, 28 DE DICIEMBRE DE 1992, PAGINAS 10 Y 11.</small>
 
 ###### ARTICULO 111.
 
@@ -1966,3 +1980,11 @@ Dr. Samuel Ocaña García.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 28 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
