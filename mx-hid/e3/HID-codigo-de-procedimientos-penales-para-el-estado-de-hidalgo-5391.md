@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "1999-03-22"
+last_updated: "2002-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -47,11 +47,13 @@ Corresponde a los tribunales del ramo penal y a las autoridades administrativas 
 
 El procedimiento penal ordinario que regula este Código, comprende los siguientes períodos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
-I.- El de averiguación previa, que comprende de la denuncia o querella a la consignación de las diligencias ante el juez competente.
+I.- El de averiguación previa, que comprende de la denuncia o querella a la consignación de las diligencias ante el Juez competente, en caso de determinación de no ejercicio de la acción penal, hasta el último acto que se realice con motivo de ella.
 
-Este período tiene por objeto, que el ministerio público en ejercicio de la facultad de investigación, recabe las pruebas tendientes a la comprobación del cuerpo del delito y de la probable responsabilidad de los inculpados, a efecto de resolver si ejercita o no la acción penal.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+
+Este periodo, tiene por objeto que el Ministerio Público en ejercicio de la facultad de investigación, realice las diligencias y recabe las pruebas que sean necesarias a efecto de resolver si ejercita o no la acción penal.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -379,9 +381,9 @@ IV.- Pedir el aseguramiento precautorio de bienes para los efectos de la reparac
 
 V.- Durante el proceso, ofrecer y aportar las pruebas conducentes al debido esclarecimiento de los hechos y a la comprobación del cuerpo del delito, de la responsabilidad o no responsabilidad del inculpado, de la existencia de los daños y perjuicios y a la cuantificación del monto de su reparación;
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
 
-VI.- En ejercicio de la facultad que le concede la fracción I del Artículo 20 Constitucional, solicitar al Juez la negativa de la libertad caucional al inculpado aun cuando se trate de delito no calificado como grave por el artículo 119 del presente Código, en los casos previstos por la norma constitucional y de conformidad a lo dispuesto por el artículo 297 bis de este ordenamiento adjetivo;
+VI.- En ejercicio de la facultad que le concede la fracción I del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, solicitar al Juez la negativa de la libertad caucional al inculpado, aun cuando se trate de delito no calificado como grave por el artículo 119 del presente Código, en los casos previstos por la norma constitucional y de conformidad a lo dispuesto por el segundo párrafo del Artículo 297 de este ordenamiento;
 
 VII.- Formular conclusiones en los términos señalados por la ley;
 
@@ -545,11 +547,13 @@ IX.- A formular conclusiones e interponer los recursos que prevé este Código e
 
 X.- Los demás que señalen las leyes.
 
-(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 44.
 
-La persona ofendida por el delito o su representante podrán proporcionar al ministerio público durante la averiguación previa o al juzgador durante el proceso, directamente o por medio de aquél, todos los datos o elementos de prueba tendientes a la comprobación de los elementos del tipo penal y de la probable o plena responsabilidad del inculpado, según el caso, y a la procedencia y monto de la reparación de los daños y perjuicios ocasionados por la realización del delito.
+La persona ofendida por el delito o su representante legítimo, podrán proporcionar al Ministerio Público durante la averiguación previa o al juzgador durante el proceso directamente o por medio de aquél, todos los datos o elementos de prueba tendientes a la comprobación del cuerpo del delito y de la probable o plena responsabilidad penal del inculpado y a la procedencia y monto de la reparación de los daños y perjuicios ocasionados por la realización del ilícito.
+
+(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 Durante la averiguación previa, cuando la víctima o la persona ofendida por el delito se presente ante el ministerio público por primera vez, éste deberá informarle respecto de los derechos que le otorgan la Constitución Federal y este Código.
 
@@ -658,6 +662,10 @@ Los plazos son improrrogables y empezarán a correr desde el día siguiente al d
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
 No se incluirán en los plazos los días inhábiles, a no ser que se trate de rendir el inculpado su declaración preparatoria o de resolver su situación jurídica constitucional dentro del plazo de setenta y dos horas o de la prórroga del mismo, en su caso.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2002)</small>
+
+Cuando este Código no señale plazo específico para la práctica de una actuación judicial o para el ejercicio de un derecho, se tendrá por señalado el de tres días.
 
 ###### ARTICULO 60.
 
@@ -781,9 +789,11 @@ Los servidores públicos a quienes corresponda hacer las notificaciones que no s
 
 Cuando haya que notificarse a una persona fuera del lugar donde se instruye el procedimiento, pero dentro de la jurisdicción, la notificación podrá hacerse por medio de requisitoria. Si la diligencia hubiere de practicarse fuera del territorio del tribunal, se librará exhorto en la forma y términos que dispone este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 80.
 
-Si se probase que una notificación decretada se hizo en forma distinta a lo previsto por este Código, las partes podrán promover su nulidad, nulificándose además, las actuaciones que de dicha mala notificación se deriven; y el superior aplicará la corrección disciplinaria que corresponda al notificador.
+Si se probase que una notificación decretada se hizo en forma distinta a lo previsto por este Código, las partes, el ofendido o su asesor jurídico, podrán promover su nulidad, nulificándose además las actuaciones que de dicha notificación se deriven.
 
 Si una notificación que sin ser personal, se notifica de esta forma, surtirá plenos efectos y no habrá lugar a lo previsto en el párrafo anterior.
 
@@ -997,7 +1007,9 @@ Durante el procedimiento penal, la autoridad que conozca según el periodo, por 
 
 I.- Apercibimiento;
 
-II.- Multa de uno a quince días de salario mínimo, vigente en el momento y lugar en que se cometa la falta que amerite la corrección. Tratándose de jornaleros, obreros o trabajadores, la multa no deberá exceder de un día de salario y si se trata de trabajadores no asalariados, de un día de ingreso;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
+
+II.- Multa de 10 a 30 días de salario mínimo vigente, tratándose de jornaleros, obreros o trabajadores, la multa no deberá exceder de un día de salario y si se trata de trabajadores no asalariados de un día de ingreso;
 
 III.- Arresto hasta de treinta y seis horas;
 
@@ -1019,7 +1031,9 @@ Siempre que se cometa una falta, el secretario o los testigos de asistencia del 
 
 El ministerio público en la averiguación previa y el juzgador en el proceso, podrán emplear, para hacer cumplir sus resoluciones los siguientes medios de apremio, en el mismo orden:
 
-I.- Multa de uno a treinta días de salario mínimo vigente en el momento y lugar en que se realizó la conducta que motivó el medio de apremio. Tratándose de jornaleros, obreros o trabajadores, la multa no deberá exceder de un día de salario, y si se trata de trabajadores no asalariados de un día de ingreso;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
+
+I.- Multa de 10 a 60 días de salario mínimo vigente, tratándose de jornaleros, obreros o trabajadores, la multa no deberá exceder de un día de salario y si se trata de trabajadores no asalariados de un día de ingreso;
 
 II.- Auxilio de la fuerza pública; y
 
@@ -1081,7 +1095,9 @@ I.- El homicidio, cuando deba aplicarse la punibilidad prevista por los artícul
 
 II.- Las lesiones previstas por el artículo 141 fracciones IV, V y VI, cuando pongan en peligro la vida o concurra alguna de las agravantes o calificativas que prevén los numerales 142 y 147;
 
-III.- El peligro de contagio de enfermedades, cuando deba aplicar la punibilidad prevista por el segundo párrafo del artículo 162;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
+
+III.- El peligro de contagio de enfermedades, cuando deba aplicarse la punibilidad prevista por el segundo párrafo del Artículo 162;
 
 IV.- El secuestro y la simulación de secuestro, previstos por los artículos 166 y 167 bis;
 
@@ -1147,7 +1163,9 @@ El ministerio público solicitará y el juez librará orden de aprehensión cont
 
 La autoridad que ejecute una orden de aprehensión, deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad, debiendo informar a éste acerca de la fecha, hora y lugar en que se efectuó.
 
-Se entenderá que el inculpado queda a disposición del juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que la policía judicial, en cumplimiento de la orden respectiva lo ponga a disposición de aquél en la prisión preventiva o en un centro de salud y le sea notificado legalmente. El encargado del reclusorio o del centro de salud asentará en el documento relativo a la orden de aprehensión ejecutada, que le presente la policía judicial, el día y hora de recibido el detenido.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+
+Se entenderá que el inculpado queda a disposición del juzgador para los efectos constitucionales y legales correspondientes, desde el momento en que la Policía Ministerial, en cumplimiento de la orden respectiva, lo ponga a disposición de aquél en el centro de reclusión o de salud y le sea puesto en conocimiento lo anterior. El encargado asentará en el documento relativo a la orden de aprehensión ejecutada, que le presente la Policía Ministerial, el día y hora de recibido el detenido.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -1449,9 +1467,11 @@ Antes de que los testigos comiencen a declarar, se les instruirá de las penas q
 
 A los menores sólo se les exhortará para que se conduzcan con verdad.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 162.
 
-Después de protestarlo o exhortarlo, se preguntará al testigo su nombre, apellidos, edad, lugar de origen, domicilio, estado familiar, profesión y ocupación; si se haya ligado con el inculpado o con el ofendido por vínculos de parentesco, amistad o cualesquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos. Las respuestas del testigo sobre estas circunstancias se hará constar en el acta.
+Después de protestarlo o exhortarlo, se preguntará al testigo su nombre, apellidos, edad, lugar de origen, domicilio, estado familiar, profesión y ocupación, si se haya ligado con el inculpado o con el ofendido por vínculos de parentesco, amistad o cualesquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos, las respuestas se harán constar en el acta.
 
 ###### ARTICULO 163.
 
@@ -1477,11 +1497,11 @@ Si la declaración es relativa a un hecho que hubiere dejado vestigios en algún
 
 Concluida la diligencia se leerá al testigo su declaración o la leerá él mismo si quisiere, para que la ratifique o enmiende, y después de esto será firmada por el testigo o su acompañante en su caso.
 
-> <small>(F. DE E., P.O. 2 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 168.
 
-Si de lo actuado apareciera que algún testigo se ha producido con falsedad, se mandarán compulsar las constancias conducentes y en su caso se dará vista al ministerio público para los efectos a que haya lugar; si en el momento de rendir su declaración el testigo, apareciere que es manifiesta la comisión del delito de falsedad, aquél será detenido desde luego y puesto sin demora a disposición del ministerio público.
+Si de lo actuado pareciera que algún testigo ha declarado con falsedad, se mandarán compulsar las constancias conducentes y en su caso, se dará vista al Ministerio Público para los efectos a que haya lugar.
 
 ###### ARTICULO 169.
 
@@ -1515,11 +1535,13 @@ Los documentos exhibidos correrán agregados al expediente de la averiguación o
 
 La autoridad que conozca del procedimiento si lo estima necesario, ordenará que los documentos privados sean reconocidos en su contenido y firma por la persona a quien se le atribuyan.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 174.
 
-Si el documento privado que se ofrezca como prueba, se encontrare en los libros o archivo de una casa de comercio, establecimiento industrial o de cualquier otra persona, el que lo pida deberá indicar con precisión de cuál se trata. El tenedor del documento será requerido para que lo exhiba o comunique, entregándolo éste último para que se agregue al expediente.
+Si el documento privado que se ofrezca como prueba, se encontrare en libros o archivos de un tercero, el que lo pida deberá indicar con precisión de cuál se trata y el tenedor del documento será requerido para que lo exhiba.
 
-En caso de oposición del tenedor, el ministerio público o el juzgador en su caso, en audiencia verbal y en vista de lo que se alegue, resolverá de plano si debe hacerse o no a la exhibición o comunicación, pudiendo en su caso, emplearse los medios de apremio para el cumplimiento de su determinación.
+En caso de oposición del tenedor, el Ministerio Público o el juzgador en su caso, en audiencia verbal y en vista de lo que se alegue, resolverá de plano si debe hacerse o no la exhibición pudiendo en su caso, emplearse los medios de apremio para el cumplimiento de su resolución.
 
 ###### ARTICULO 175.
 
@@ -2105,7 +2127,9 @@ II.- En los incidentes de competencia;
 
 III.- En la calificación de los impedimentos para efecto de excusa y recusación; y
 
-IV.- Durante el plazo constitucional de setenta y dos horas para resolver la situación legal del inculpado.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
+
+IV.- Durante el plazo constitucional de setenta y dos horas para resolver la situación jurídica del inculpado o de la prórroga del mismo.
 
 ### CAPITULO V. REPARACION DE DAÑOS Y PERJUICIOS EXIGIBLE A TERCEROS E INCULPADOS
 
@@ -2159,9 +2183,11 @@ La reparación de daños y perjuicios exigible al inculpado, constituye una pena
 
 En los casos en que no se pueda precisar el monto de los daños y perjuicios en la sentencia condenatoria, el juzgador deberá absolver al sentenciado de su pago, sin perjuicio de que puedan reclamarse en la vía y forma que legalmente proceda.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 273.
 
-Los jueces civiles serán competentes para conocer de la ejecución de la sentencia dictada por la jurisdicción penal en el incidente de reparación de daños y perjuicios exigible al inculpado.
+La ejecución de la condena de la reparación de los daños y perjuicios exigibles al inculpado, se realizará de conformidad a lo establecido por el Artículo 453 de este Código.
 
 ###### ARTICULO 274.
 
@@ -2211,9 +2237,9 @@ V.- Cuando se pruebe que el inculpado fue ya juzgado por los mismo hechos en otr
 
 VI.- Cuando el Procurador General de Justicia confirme o formule conclusiones inacusatorias;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
 
-VII.- Cuando este Código y las leyes especiales no tipifiquen como delito, los hechos que dieron origen al proceso;
+VII. Cuando el Código Penal y las Leyes Especiales no tipifiquen como delito, los hechos que dieron origen al procedimiento;
 
 VIII.- Cuando opere en favor del inculpado alguna excusa absolutoria;
 
@@ -2259,11 +2285,11 @@ La nulidad no podrá ser invocada por quien dio lugar a ella.
 
 La nulidad de una actuación o de varias, se reclamará verbalmente en la actuación subsecuente en que se deba de intervenir, o por escrito dentro de los tres días siguientes a cualquier acto que implique conocimiento tácito o expreso de la carencia de formalidad. De lo contrario se tendrá por perdido el derecho para reclamarla, sin perjuicio de la valoración que proceda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 284.
 
-Hecha valer la nulidad en tiempo y forma, se dará vista a las demás partes y en su caso al ofendido y su asesor jurídico, para que manifiesten lo que a sus intereses convenga. En caso de haberse ofrecido pruebas, se citará a una audiencia para su desahogo dentro de los tres días siguientes, al final de la cual se dictará la sentencia interlocutoria que corresponda.
+Hecha valer la nulidad en tiempo y forma, se dará vista a las demás partes y en su caso, al ofendido y su asesor jurídico para que manifiesten lo que a sus intereses convenga. En caso de haberse ofrecido pruebas, se citará a una audiencia para su desahogo dentro de los tres días siguientes, al final de la cual, se dictará la sentencia interlocutoria que corresponda.
 
 Cuando la nulidad del acto se resuelva procedente, se declararán igualmente nulas las actuaciones posteriores al acto anulado que se deriven precisamente de éste, en cuyo caso el juzgador podrá imponer al responsable la corrección disciplinaria que estime procedente, sin perjuicio de dar vista al ministerio público, si de ello se desprende la comisión de hechos delictuosos.
 
@@ -2305,7 +2331,7 @@ El inculpado o su defensor podrán solicitar al juzgador, la reducción del mont
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
 
-I.- La demostración de la imposibilidad económica del inculpado para otorgar la caución que le fue fijada inicialmente;
+I.- La demostración de la imposibilidad económica del inculpado para otorgar la caución que le fué fijada inicialmente;
 
 (REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
@@ -2334,6 +2360,10 @@ ARTICULO 288 BIS.- El ministerio público, su coadyuvante y su asesor jurídico,
 Hecha la solicitud de aumento o para requerir al inculpado que garantice la reparación de daños y perjuicios, el juzgador dará vista a éste y a su defensor por tres días, dictando su resolución dentro de las veinticuatro horas siguientes.
 
 Si fuere procedente el aumento o fijación de la garantía de la reparación de los daños y perjuicios, en la propia sentencia incidental el juzgador requerirá al inculpado para que en un plazo de tres días garantice el aumento o la libertad fijada, apercibiéndolo de que si no lo hace le será revocada su libertad caucional.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2002)</small>
+
+Cuando se interponga el recurso de apelación en contra de la resolución incidental que decrete el aumento de la garantía, deberá admitirse en el efecto suspensivo.
 
 ### CAPITULO X. ACLARACION DE SENTENCIA
 
@@ -2425,11 +2455,11 @@ III.- La naturaleza, modalidades y demás circunstancias del delito; y
 
 IV.- La sanción pecuniaria que, en su caso, pueda imponerse al inculpado.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 301.
 
-La garantía de la reparación de los daños y perjuicios y la caución personal, a que se refiere el artículo 297 de este Código, deberán otorgarse por separado, y podrán consistir en depósito en efectivo, hipoteca o fianza. El juzgador resolverá sobre la forma de la garantía y la caución, tomando en cuenta los aspectos previstos en el artículo anterior.
+La garantía de la reparación de los daños y perjuicios y la caución personal a que se refiere el Artículo 297 de este Código, deberán otorgarse por separado y podrán consistir en depósito en efectivo, prenda, hipoteca, fianza o fideicomiso, el inculpado o su defensor, podrán elegir la naturaleza de la garantía y la caución.
 
 (REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
@@ -2437,21 +2467,21 @@ La garantía de la reparación de los daños y perjuicios y la caución personal
 
 La caución o garantía consistente en depósito en efectivo, será recibida por el juzgador quien, con toda oportunidad, la remitirá al Tribunal Superior de Justicia. El recibo oficial se hará constar en el expediente y se depositará en el secreto del juzgado, asentándose razón en autos.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 303.
 
-Cuando la caución o garantía consista en hipoteca, el inmueble no deberá tener gravamen alguno y su valor real será cuando menos de dos veces el monto de la cantidad fijada para tal efecto. La hipoteca se regirá por lo previsto en el Código Civil vigente en el Estado, debiendo inscribirse en el Registro Público de la Propiedad y del Comercio a favor del Poder Judicial.
+Cuando la caución o garantía consista en hipoteca, el inmueble no podrá tener gravamen alguno y su valor real será cuando menos de dos veces el monto de la cantidad fijada para tales efectos. El juzgador ordenará inscribir el gravamen en el Registro Público de la Propiedad y del Comercio a favor del Fondo Judicial de Desarrollo y Estímulos dependiente del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+Cuando consista en prenda, su valor de mercado será cuando menos tres veces el monto de la suma fijada por concepto de garantía de la reparación de los daños y perjuicios o de la caución personal, en este caso el Tribunal expedirá el certificado de depósito correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 304.
 
-La fianza personal sólo podrá admitirse cuando el monto de la caución o garantía no exceda de diez veces el salario mínimo, y el fiador acredite su solvencia e idoneidad.
+La fianza personal, sólo podrá admitirse cuando el monto de la caución y garantía no excedan de 100 veces el salario mínimo y el fiador acredite su solvencia e idoneidad.
 
-(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
-
-Cuando la fianza sea por cantidad mayor a diez veces el salario mínimo, se regirá por lo dispuesto en el Código Civil para los contratos de fianza legal o judicial, con la salvedad de que, tratándose de empresas afianzadoras legalmente constituidas y autorizadas, no será necesario que éstas tengan bienes raíces inscritos en el Registro Público de la Propiedad y del Comercio.
+Cuando la fianza sea mayor a 100 veces el salario mínimo, se regirá por lo dispuesto en el Código Civil del Estado para los contratos de fianza legal o judicial, con la salvedad de que tratándose de empresas afianzadoras legalmente constituidas y autorizadas no será necesario que éstas tengan bienes raíces inscritos en el Registro Público de la Propiedad y del Comercio.
 
 ###### ARTICULO 305.
 
@@ -2495,7 +2525,9 @@ En el caso de la fracción III de este artículo, el aviso de cambio de domicili
 
 Cuando el inculpado haya garantizado por sí mismo su libertad caucional, ésta se le revocará por incumplimiento de alguna de las obligaciones que se derivan a su cargo en razón del proceso, precisadas en el artículo anterior. Asimismo, se le revocará dicha libertad provisional en los siguientes casos:
 
-I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del juzgador que conozca de su proceso;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
+
+I.- Cuando desobedeciere sin causa justificada las órdenes del juzgador que conozca de su proceso;
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -2505,17 +2537,15 @@ II.- Cuando lo solicite el mismo inculpado y se presente a responder del proceso
 
 III.- Cuando aparezca con posterioridad que se trata de un delito calificado como grave en el artículo 119 de este Código;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
 
-IV.- Cuando en el proceso cause ejecutoria la sentencia condenatoria dictada en primera o segunda instancia;
+III (sic).- Cuando en el proceso cause ejecutoria la sentencia condenatoria dictada en primera o segunda instancia;
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
 
-V.- Cuando lo solicite el ministerio público y compruebe alguno de los motivos que para la negativa de la libertad caucional prevé el segundo párrafo del artículo 297 de este Código;
+V.- Cuando lo solicite el Ministerio Público y compruebe alguno de los motivos que para la negativa de la libertad caucional prevé el segundo párrafo del Artículo 297 de este Código o
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 1999)</small>
-
-VI.- Cuando se demuestre que el inculpado haya simulado insolvencia para obtener una caución menor a la que podría haber otorgado o para lograr la reducción de la misma, o cuando con posterioridad a la reducción recupere su capacidad económica para cubrir el monto de la caución inicialmente fijada, de no cubrir la diferencia que resulten en el plazo que el juzgador señale; o
+VI.- (DEROGADA, P.O. 14 DE ENERO DE 2002)
 
 (REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
@@ -2533,13 +2563,13 @@ Cuando un tercero haya garantizado la libertad del inculpado, ésta se revocará
 
 I.- En los casos que se mencionan en el artículo anterior;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
 
-II.- Cuando el tercero pida que se le releve de la obligación, y presente al inculpado para responder del proceso o de las penas impuestas;
+II.- Cuando el tercero pida que se le releve de la obligación y presente al inculpado para responder del proceso o de las penas impuestas o
 
-(REFORMADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
 
-III.- Cuando con posterioridad, se demuestre la insolvencia del fiador; o
+III.- Cuando con posterioridad se demuestre la insolvencia del fiador.
 
 IV.- (DEROGADA, P.O. 22 DE MARZO DE 1999)
 
@@ -2567,19 +2597,23 @@ I.- Cuando se absuelva al inculpado, se dicte en su favor el sobreseimiento del 
 
 II.- Cuando el inculpado se encuentre detenido o comparezca voluntariamente, con o sin citación, a responder del proceso o de las penas impuestas incluyendo el pago de la reparación de los daños y perjuicios y de la sanción pecuniaria, en los casos previstos por las fracciones II, III, IV y V del artículo 308 de este Código, según corresponda.
 
-Cuando resulte condenado el inculpado que se encontraba gozando de su libertad caucional y se presente a responder de las penas impuestas, pero no realice el pago de la reparación de los daños y perjuicios, la garantía otorgada por este concepto se aplicará al pago de dicha reparación; si no efectuare el pago de la sanción pecuniaria, se cobrará ésta de la caución que había otorgado para garantizar su libertad personal y se devolverá al sentenciado o a quien éste indique la cantidad restante. De ser necesario, el juez deberá tomar en cuenta lo previsto por el artículo 39 del Código Penal vigente en el Estado.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+Cuando resulte condenado el inculpado que se encontraba gozando de su libertad caucional y se presente a responder de las penas impuestas, pero no realice el pago de la reparación de los daños y perjuicios la garantía otorgada por este concepto se aplicará al pago de dicha reparación, si no efectuare el pago de la sanción pecuniaria, se cobrará ésta de la caución que había otorgado para garantizar su libertad personal y se devolverá al sentenciado o a quien éste indique la cantidad restante, de ser necesario, el Juez deberá tomar en cuenta lo previsto por el Artículo 39 del Código Penal para el Estado.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 312.
 
-Cuando un tercero haya garantizado la libertad provisional bajo caución del inculpado, y se resolviera su revocación por alguna de las causas procedentes a que se refiere el primer párrafo del artículo 310 de este Código, de inmediato se ordenará hacer efectiva la caución que había otorgado para garantizar su libertad personal. Lo anterior se notificará también al tercero, apercibiendo a éste que si dentro de un plazo de hasta de quince días que le conceda el juez, no presenta al inculpado para que responda del proceso o de las penas impuestas en los términos de este Código, según corresponda, se ordenará también hacer efectiva la garantía de la reparación de los daños y perjuicios, y se ordenará la reaprehensión del inculpado.
+Cuando un tercero haya garantizado la libertad provisional bajo caución del inculpado y se resolviera su revocación por alguna de las causas procedentes a que se refiere el Artículo 310 de este Código, el juzgador requerirá al tercero concediéndole un plazo de hasta quince días para que presente al inculpado a responder del proceso o de las penas impuestas en los términos de este Código según corresponda. Transcurrido el plazo sin que el tercero haya presentado al inculpado, se ordenará hacer efectiva la garantía de la reparación de los daños y perjuicios y la caución personal, ordenándose la reaprehensión del inculpado.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 313.
 
-En los casos en que deba hacerse efectiva la caución otorgada para garantizar la libertad personal del inculpado, el importe de ésta se aplicará en beneficio de la impartición de justicia; cuando deba de hacerse efectiva la garantía de la reparación de los daños y perjuicios, se hará a favor de la víctima o del ofendido por el delito.
+En los casos en que deba hacerse efectiva la caución otorgada para garantizar la libertad personal del inculpado, el importe de ésta se aplicará a favor del Fondo Judicial de Desarrollo y Estímulos dependiente del Poder Judicial, cuando deba hacerse efectiva la garantía de la reparación de los daños y perjuicios, se hará a favor de quien tenga derecho a ella conforme a lo previsto por el artículo 42 del Código Penal y 8 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
 Cuando se haya ordenado la devolución de los depósitos en efectivo, o la cancelación o liberación de la fianza o hipoteca, relativos a la caución personal o la garantía de la reparación de los daños y perjuicios a que se refiere el artículo 297 de este Código, y quienes tengan derecho a ello no los recuperen ni tramitan la cancelación de la fianza o la liberación del gravamen, en un plazo de treinta días contados a partir de la notificación al interesado, se harán efectivas en beneficio de la impartición de justicia o, en su caso, se enajenarán en subasta pública aplicándose el producto de la venta a los mismo fines.
 
@@ -2819,11 +2853,13 @@ VII.- Los autos que resuelvan las excepciones fundadas en alguna de las causas d
 
 VIII.- Las demás resoluciones que señale la ley.
 
-(REUBICADO, P.O. 22 DE MARZO DE 1999)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 338.
 
-La apelación contra las sentencias que impongan alguna pena o medida de seguridad y en aquellos casos en que lo establezca la ley, será admitida en el efecto suspensivo. Todas las demás apelaciones se admitirán en efecto ejecutivo.
+La apelación contra las sentencias definitivas que impongan alguna pena o medida de seguridad y en aquellos casos en que lo establezca la ley, será admitida en el efecto suspensivo, todas las demás apelaciones se admitirán en el efecto ejecutivo.
+
+(REUBICADO, P.O. 22 DE MARZO DE 1999)
 
 Con motivo de la interposición del recurso de apelación, en ningún caso se suspenderá la jurisdicción del juez, salvo tratándose de sentencias definitivas condenatorias, en que no podrán ejecutarse las consecuencias jurídicas del delito, hasta que aquélla cause ejecutoria.
 
@@ -2848,6 +2884,10 @@ Cuando se pronuncie auto de libertad o sentencia absolutoria, el juez ordenará 
 Cuando el impugnante sea el ministerio público o su coadyuvante, y no presenten dentro de los plazos correspondientes motivos de inconformidad, el juez de oficio declarará desierto el recurso.
 
 El ministerio público o su coadyuvante, al formular sus motivos de inconformidad, deberá precisar la parte o partes de la resolución impugnada que le causan agravio a su representación, el precepto o preceptos legales violados y los conceptos de violación. La omisión de cualquiera de estos requisitos, dará lugar a que el Tribunal que conozca del recurso, declare inoperantes los agravios en la sentencia.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2002)</small>
+
+En los casos previstos por los párrafos anteriores, la Sala Penal o el Juez que corresponda, deberán poner en conocimiento del Procurador General de Justicia del Estado, tal omisión, para que se proceda conforme a la Ley.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -2889,11 +2929,11 @@ En su caso y para los efectos de este artículo, se fijará día y hora para la 
 
 El tribunal pronunciará el fallo correspondiente, dentro del plazo de quince días contados a partir de aquél en el cual le haya sido turnado el toca al magistrado ponente, confirmando, revocando o modificando la resolución apelada.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 346.
 
-Si al entrar al estudio de las constancias del proceso cuya sentencia condenatoria fue impugnada en apelación, es evidente alguno de los casos de reposición del procedimiento que prevé el artículo 346 bis, la Sala Penal ordenará de oficio la reposición del procedimiento, salvo que ello no sea necesario en virtud de ser suficiente la suplencia parcial o total de los agravios de la apelación para revocar o modificar la sentencia impugnada.
+Si al entrar al estudio de las constancias del proceso cuya sentencia condenatoria fue impugnada en apelación, es evidente alguno de los casos de reposición del procedimiento que prevé el Artículo 346 Bis de este Código, la Sala Penal ordenará de oficio la reposición del procedimiento, salvo que ello no sea necesario en virtud de ser suficiente la suplencia parcial o total de los agravios de la apelación para revocar o modificar la sentencia impugnada.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -3233,9 +3273,9 @@ IX.- Los especiales elementos subjetivos en el autor, distintos del dolo; y
 
 X.- Las demás circunstancias específicas que el tipo en particular prevea.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
-El elemento previsto en la fracción IV sólo será exigible cuando el delito de que se trate admita la forma de realización culposa; los señalados en las fracciones V a X serán considerados cuando la descripción de la conducta típica así lo requiera.
+Los elementos señalados en las fracciones V a X, sólo se tomarán en consideración cuando la descripción de la conducta típica así lo requiera.
 
 ### CAPITULO II. COMPROBACION DE LA PROBABLE RESPONSABILIDAD
 
@@ -3275,9 +3315,9 @@ El ministerio público podrá ejercitar la acción penal por lo que hace a uno o
 
 Cuando por resolución ejecutoriada dictada en el proceso, se decrete la libertad absoluta el sujeto contra quien previamente se había ejercitado acción penal, en virtud de no haberse demostrado su responsabilidad penal, el juzgador lo pondrá en conocimiento del ministerio público de su adscripción y este, comunicará tal circunstancia al Procurador General de Justicia, quien ordenará que se reanude la investigación respecto de los autores o participes del delito, actuándose en el duplicado del expediente de averiguación previa hasta el nuevo ejercicio de la acción penal, si procediere.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
-En el pliego de consignación, el ministerio público, hará expreso señalamiento de los datos reunidos durante la averiguación previa que puedan ser considerados por el juzgador, para los efectos previstos, en el artículo 20 fracción I, de la Constitución Política de los Estados Unidos Mexicanos y en los preceptos de este Código relativos a la libertad caucional; tanto en lo referente, a la determinación del tipo penal, a su punibilidad, como por lo que respecta, a los datos que deban tomarse en cuenta para acreditar, el monto de la garantía y caución exigidas, respectivamente, por las fracciones I y III del artículo 297 de este Código.
+En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que puedan ser considerados por el juzgador, para los efectos previstos en el Artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y en los preceptos de este Código relativos a la libertad caucional, tanto en lo referente a la determinación de la conducta típica y su punibilidad, como por lo que respecta a los datos que deban tomarse en cuenta para acreditar el monto de la garantía y caución exigidas por el Artículo 297 de este Código.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -3847,9 +3887,11 @@ Tratándose de multa, el juzgador girará oficio a la autoridad fiscal competent
 
 Efectuado el pago, en todo o en parte, o agotado el procedimiento económico-coactivo sin haberlo obtenido, la autoridad fiscal, dentro del plazo de tres días, lo comunicará al juzgador para los efectos legales procedentes.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 453.
 
-La reparación de daños y perjuicios se hará efectiva, en los términos del incidente que establezca la Ley de Ejecución de Penas y Medidas de Seguridad para el Estado de Hidalgo, o por la vía civil en aplicación de las leyes de esa materia.
+La condena por reparación de los daños y perjuicios, se ejecutará en los términos que establezca la Ley de Ejecución de Penas y Medidas de Seguridad para el Estado de Hidalgo y en su caso, en atención a su naturaleza, mediante el procedimiento legal correspondiente.
 
 ###### ARTICULO 454.
 
@@ -4228,3 +4270,7 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente al d
 Artículo Segundo.- La calificación de los delitos graves previa a la presente reforma, seguirá con el mismo carácter en los procesos incoados por hechos realizados antes de la vigencia de este decreto; si hubiere variado la denominación, ubicación o numero del artículo de la conducta típica calificada como grave, estás continuarán considerándose como delitos graves para todos los efectos legales a que haya lugar.
 
 Artículo Tercero.- En lo particular, el párrafo segundo del artículo 44 bis de este Decreto, entrará en vigor a un año de su publicación, vacatio legis en la cual el Poder Ejecutivo del Estado proveerá de asesores jurídicos del ofendido con remuneración a cargo del Erario Público, a los juzgados y las agencias del ministerio público de la Entidad.
+
+P.O. 14 DE ENERO DE 2002.
+
+UNICO.- El presente Decreto, entrará en vigor a los quince días naturales siguientes al día de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
