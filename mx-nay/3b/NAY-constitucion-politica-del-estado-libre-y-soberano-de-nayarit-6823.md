@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1993-03-06"
+last_updated: "1993-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -103,19 +103,39 @@ El Estado garantiza a sus habitantes sea cual fuere su condición:
 
 I. La más estricta igualdad ante las leyes, sin otras diferencias que las que resulten de la condición natural o jurídica de las personas.
 
-II. La libertad de trasladarse o cambiar de residencia.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
 
-III. El derecho de propiedad y la libertad de disponer de ella en la forma y términos establecidos por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+II.- La protección y promoción del desarrollo de los valores de nuestras etnias indígenas, tales como sus lenguas, culturas, usos, costumbres, recursos y formas específicas de organización social, dentro del marco de sus tradiciones, garantizando a sus integrantes el efectivo acceso a la jurisdicción del Estado.
 
-IV. La libertad de trabajar y disponer de los productos del trabajo, de acuerdo con las prescripciones que establecen las leyes relativas.
+Los Poderes del Estado en el ámbito de sus respectivas competencias, tomarán en cuenta sus prácticas y costumbres jurídicas en los términos que establezcan las leyes.
 
-V. La libertad de cultos y creencias religiosas.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
 
-VI. La libertad de externar el pensamiento sin más limitaciones que el respeto a la moral, a la vida privada y la paz pública.
+III. La libertad de trasladarse o cambiar de residencia.
 
-VII. La libertad de asociarse o reunirse para cualquier objeto lícito, pero con las restricciones y prerrogativas a que se refiere el artículo 9º de la Constitución General de la República.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
 
-VIII. Los demás derechos a que se refiere el Título I, Capítulo I de la Constitución General.
+IV. El derecho de propiedad y la libertad de disponer de ella en la forma y términos establecidos por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+
+V. La libertad de trabajar y disponer de los productos del trabajo, de acuerdo con las prescripciones que establecen las leyes relativas.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+
+VI. La libertad de cultos y creencias religiosas.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+
+VII. La libertad de externar el pensamiento sin más limitaciones que el respeto a la moral, a la vida privada y la paz pública.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+
+VIII. La libertad de asociarse o reunirse para cualquier objeto lícito, pero con las restricciones y prerrogativas a que se refiere el artículo 9º de la Constitución General de la República.
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 1993)</small>
+
+IX. Los demás derechos a que se refiere el Título I, Capítulo I, de la Constitución General.
 
 ###### Art. 8.
 
@@ -1537,7 +1557,7 @@ P.O. 30 DE MARZO DE 1919.
 
 Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 
-P.O. 24 DE JULIO DE 1919.
+P.O. 24 DE JULIO DE 1919
 
 Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 
@@ -1960,6 +1980,16 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
 
 P.O. 6 DE MARZO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El contenido del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado, en los términos y formalidades a que se refiere el Artículo 131 de la Constitución Política de Nayarit.
+
+###### ARTICULO SEGUNDO.
+
+Remítase la Minuta aprobada a los HH. Ayuntamientos Constitucionales del Estado para los efectos a que alude el Artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, a cuyo término deberán computarse los resultados y tramitarse el Decreto promulgatorio respectivo para su turno al Periódico Oficial.
+
+P.O. 18 DE AGOSTO DE 1993.
 
 ###### ARTICULO PRIMERO.
 
