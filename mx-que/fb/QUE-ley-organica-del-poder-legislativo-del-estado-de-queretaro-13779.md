@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-09-23"
-last_updated: "2001-08-17"
+last_updated: "2001-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DEL 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DEL 2001.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga" el día 23 de septiembre de 1997.
 
@@ -651,7 +651,9 @@ XXII.- Participación Ciudadana;
 
 XXIII.- Asuntos Municipales;
 
-XXIV.- Asuntos de la Juventud; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DEL 2001)</small>
+
+XXIV.- Asuntos de la Juventud y el Deporte; y
 
 XXV.- Prevención y Readaptación.
 
@@ -1374,3 +1376,7 @@ UNICO .- La presente Ley entrará en vigor a partir de su aprobación.
 P.O. 17 DE AGOSTO DEL 2001
 
 UNICO .- La presente Ley entrará en vigencia a partir de su aprobación por el Pleno de la LIII Legislatura del Estado de Querétaro.
+
+P.O. 28 DE DICIEMBRE DEL 2001
+
+UNICO .- La presente Ley entrará en vigencia a partir de su aprobación por el Pleno de la Legislatura.
