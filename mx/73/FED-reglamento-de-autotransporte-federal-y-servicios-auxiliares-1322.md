@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-autotransporte-federal-y-servicios-auxiliares-132
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-22"
-last_updated: "1998-08-14"
+last_updated: "2000-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1322&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE AUTOTRANSPORTE FEDERAL Y SERVICIOS AUXILIARES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el día martes 22 de noviembre de 1994.
 
@@ -65,9 +65,39 @@ X. Unidad de verificación: Permisionario acreditado por la Secretaría de Comer
 
 La operación y explotación de los servicios de autotransporte federal de pasajeros, turismo y carga y los servicios auxiliares que los complementan, se sujetarán a las disposiciones de la Ley, los tratados internacionales, este reglamento y las normas que emita la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 4o.
 
-Los vehículos para el servicio de autotransporte federal, estarán dotados de placas metálicas de identificación, calcomanías y tarjetas de circulación, las cuales deberán sujetarse al procedimiento de expedición, reposición o revalidación que determine la Secretaría.
+Los vehículos para el servicio de autotransporte federal estarán dotados de placas metálicas de identificación, calcomanías y tarjetas de circulación, las cuales deberán sujetarse al procedimiento de expedición, reposición, revalidación y modificación correspondientes.
+
+Las placas de servicio público federal tendrán la vigencia que señale la norma correspondiente, a cuyo término deberá efectuarse el canje de las mismas, de conformidad con el aviso que al efecto publique la Secretaría en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 4A.- Dentro del plazo de quince días, el propietario de un vehículo de servicio de autotransporte federal matriculado queda obligado a solicitar la modificación de la tarjeta de circulación a la Secretaría en caso de cambio de modalidad, nombre o domicilio del permisionario o propietario, número de motor o características del vehículo especificadas en la tarjeta.
+
+Para lo anterior, deberá presentar solicitud por escrito acompañando los documentos siguientes:
+
+I. Tarjeta de circulación vigente;
+
+II. Declaración de características del vehículo, y
+
+III. Documento que avale la modificación solicitada.
+
+La Secretaría, en un plazo máximo de diez días hábiles, en caso de modificación simple, y de 20 días hábiles en caso de cambio de modalidad, deberá entregar al solicitante la resolución que corresponda. Los plazos señalados comenzarán a correr a partir de que se encuentre debidamente requisitada la solicitud.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 4B.- Los vehículos que transiten por las carreteras federales con el exclusivo objeto de ser trasladados de un lugar a otro dentro del territorio nacional, deberán estar provistos de placas de traslado destinadas a su identificación, expedidas por la Secretaría.
+
+Para este efecto, los interesados deberán presentar solicitud por escrito a la Secretaría en la que se señale la cantidad de placas que se requieren, debiendo anexar la siguiente documentación:
+
+I. Póliza de seguro de responsabilidad civil;
+
+II. Fianza, y
+
+III. En caso de empresas trasladistas, carta de apoyo o contrato de servicio.
 
 ###### ARTICULO 5o.
 
@@ -83,7 +113,9 @@ II. Unidades de verificación físico-mecánica;
 
 III. Arrastre, arrastre y salvamento y depósito de vehículos;
 
-IV. Construcción, operación y explotación de terminales de pasajeros, y
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+IV. Construcción, operación y explotación de terminales de pasajeros y carga, y
 
 V. Transporte privado de personas y de carga.
 
@@ -95,19 +127,27 @@ Los permisos para el servicio de autotransporte federal de pasajeros se otorgar�
 
 I. Presentar solicitud en el formato que para tal efecto expida la Secretaría;
 
-II. Presentar registro federal de contribuyentes;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-III. Presentar acta de nacimiento, certificado de nacionalidad, carta de naturalización o pasaporte;
+II. Presentar el documento que ampara la inscripción en el Registro Federal de Contribuyentes y, en su caso, modificación;
 
-IV. Acreditar domicilio en el territorio nacional;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+III. Presentar acta de nacimiento, cartilla, certificado de nacionalidad, carta de naturalización o pasaporte, en caso de que el solicitante sea persona física;
+
+IV. (DEROGADA, D.O.F. 8 DE AGOSTO DE 2000)
 
 V. Acreditar con poder otorgado ante fedatario público, la representación legal del promovente;
 
-VI. Identificación del representante legal;
+VI. (DEROGADA, D.O.F. 8 DE AGOSTO DE 2000)
 
-VII. Acreditar la propiedad o legal posesión del vehículo con factura, carta factura o contrato de arrendamiento;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-VIII. Póliza de seguro de responsabilidad civil por daños a terceros;
+VII. Acreditar la propiedad o legal posesión del vehículo con factura, carta factura, contrato de arrendamiento o documento del Registro Nacional de Vehículos;
+
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+VIII. Presentar póliza de seguro de responsabilidad civil por daños a terceros o fondo de garantía vigente;
 
 IX. Póliza de seguro del viajero o en su caso, la constancia del fondo de garantía en los términos del reglamento respectivo;
 
@@ -115,7 +155,9 @@ X. Declaración de características del vehículo;
 
 XI. Horarios mínimos;
 
-XII. Acreditar que dispone de terminales en los puntos de origen y destino de la ruta solicitada;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+XII. Acreditar que dispone de terminales en los puntos de origen y destino de la ruta solicitada. En caso de contar con permiso para operar terminales, bastará con señalar los datos de identificación del mismo;
 
 XIII. Descripción de la ruta solicitada en cuya conformación deberán considerarse los tramos o ramales que se conecten o formen parte de la misma, y
 
@@ -131,35 +173,57 @@ En la obtención de permisos para prestar el servicio de autotransporte federal 
 
 En el caso de permisos para el servicio de autotransporte de turismo internacional, deberán acreditar los requisitos señalados en las fracciones I, V a X, XIV y penúltimo párrafo del artículo anterior. Deberán acreditar también, que en el país de origen, se encuentran autorizados para la prestación de este tipo de servicios.
 
-En el caso de la modalidad de chofer-guía, además de lo señalado en las fracciones I a X del artículo anterior, deberán acreditar que cuentan con la credencial de guía de turistas general, vigente.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+En el caso de la modalidad de chofer-guía se deberá presentar, además de lo señalado en los párrafos anteriores, según corresponda, credencial de guía de turistas general vigente.
 
 ###### ARTICULO 9o.
 
 En la obtención de permiso para la prestación del servicio de autotransporte federal de carga, los solicitantes deberán acreditar los requisitos establecidos en las fracciones I a VIII, X, XIV y penúltimo párrafo del artículo 7o.
 
-Para la prestación del servicio de autotransporte de carga especializada de materiales, residuos, remanentes y desechos peligrosos, deberá acreditarse además de lo señalado en el presente artículo, que los vehículos reúnen las características físicas y especificaciones técnicas que permitan el traslado seguro de los productos o mercancías. Asimismo, deberá comprobarse que se cuenta con la infraestructura y el equipo básico para las maniobras de carga y descarga, además de la limpieza y el estacionamiento de los vehículos que se señalen en la norma correspondiente.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+Para la prestación del servicio de autotransporte de carga especializada de materiales, residuos, remanentes y desechos peligrosos, deberá presentarse, además de lo señalado en el presente artículo, el listado de productos a transportar y la documentación que especifique el material con que fueron construidos los autotanques, según se establezca en las normas oficiales mexicanas, así como póliza de seguro de daños al medio ambiente.
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 10.
 
-Tratándose de la obtención de permisos para operar el transporte privado de personas y de carga, además de los requisitos establecidos en las fracciones I a VIII, X, XIV y penúltimo párrafo del artículo 7o., deberán presentar tarjeta de circulación y placas metálicas de identificación del vehículo expedidas por la autoridad local que corresponda.
+Tratándose de la obtención de permisos para operar el transporte privado de personas y de carga, además de los requisitos establecidos en las fracciones I a X, XIV y penúltimo párrafo del artículo 7o., deberán presentar tarjeta de circulación y placas metálicas de identificación del vehículo expedido por la autoridad local que corresponda.
 
-> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+En caso de prestar servicios de transporte privado de carga de materiales y residuos peligrosos, se deberá presentar, adicionalmente, lo previsto en el segundo párrafo del artículo anterior.
 
-ARTICULO 10A.- Para la obtención del permiso para la construcción, operación y explotación de terminales de autotransporte federal de pasajeros, los interesados, además de la documentación señalada en las fracciones I a VI y, en su caso, penúltimo párrafo del artículo 7o., deberán presentar los documentos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-I. El croquis que indique la ubicación y superficie del terreno en donde se pretende construir y operar la terminal;
+ARTICULO 10A.- Para la obtención del permiso para la construcción, operación y explotación de terminales de pasajeros y carga, los interesados, además de la documentación señalada en las fracciones I, III y V, y penúltimo párrafo, en su caso, del artículo 7o., deberán presentar los documentos siguientes:
+
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+I. El croquis que indique la ubicación y superficie del terreno en donde se pretende construir y operar la terminal, en el que se señale las dimensiones del terreno, superficie, colindancias y orientación;
+
+> <small>(ADICIONADA, D.O.F. 14 DE AGOSTO DE 1998)</small>
 
 II. La copia certificada del documento que acredite la legal posesión del inmueble en el que se pretenda construir, operar y explotar terminales;
 
+> <small>(ADICIONADA, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
 III. El permiso o autorización sobre uso de suelo del predio en donde se pretenda construir la terminal, expedido por autoridad competente;
 
-IV. El proyecto arquitectónico de la terminal que se pretenda construir;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-V. El listado de las áreas que conformarán las instalaciones, descripción del equipo, señalización y servicios para la operación de la terminal, y
+IV. El proyecto arquitectónico de la terminal que se pretenda construir, que contenga el listado de las áreas que conformarán las instalaciones, descripción del equipo, señalización y servicios para la operación de la terminal; y
+
+V. (DEROGADA, D.O.F. 8 DE AGOSTO DE 2000)
+
+> <small>(ADICIONADA, D.O.F. 14 DE AGOSTO DE 1998)</small>
 
 VI. El reglamento interno de operación de la terminal, elaborado por el solicitante.
 
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
 Para obtener los permisos a que se refiere este artículo, los interesados deberán presentar su solicitud en el Centro SCT en que se ubique su domicilio y serán otorgados por la Secretaría a través de la unidad central competente.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
 
 En los casos en que se solicite el establecimiento de una terminal en poblaciones donde existan en operación terminales centrales, la Secretaría, al resolver el otorgamiento del permiso, tomará en cuenta los programas de desarrollo urbano de la localidad; los antecedentes de reubicaciones de terminales que se hubieren realizado como consecuencia de dichos programas; la distancia entre la terminal propuesta y la existente, así como con los núcleos de población; los segmentos de mercado a atender y las facilidades de acceso y medios de transporte para los usuarios.
 
@@ -169,13 +233,21 @@ Las personas interesadas en obtener permisos para prestar servicios de arrastre 
 
 Adicionalmente, para el servicio de arrastre y salvamento, deberán presentar croquis de la ruta solicitada.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 12.
 
-En la obtención de permisos para operar depósito de vehículos, deberá acreditarse, además de lo establecido en las fracciones I a VI y en su caso, el penúltimo párrafo del artículo 7o., lo siguiente:
+En la obtención de permisos para operar depósito de vehículos, deberá acreditarse, además de lo establecido en las fracciones I a V y, en su caso, el penúltimo párrafo del artículo 7o., lo siguiente:
 
 I. La propiedad o legal posesión por un término mínimo de cinco años, de un terreno con superficie mínima de 5,000 m2 el cual deberá, en su caso, cercarse y acondicionarse con instalación eléctrica, teléfono o algún otro medio de comunicación, piso compactado, extinguidores y rotulado para su identificación, y
 
-II. Póliza de seguro por responsabilidad civil general.
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+II. Póliza de seguro por responsabilidad civil general o fondo de garantía vigente, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+III. Permiso o autorización de uso de suelo expedido por autoridad competente.
 
 ###### ARTICULO 13.
 
@@ -216,6 +288,14 @@ VIII. Características y condiciones generales de operación;
 IX. Vigencia, y
 
 X. Causas de revocación y terminación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 17A.- En caso de que el titular de un permiso de autotransporte federal quiera dar de alta vehículos adicionales a los que ampara el permiso, deberá presentar los documentos previstos en las fracciones VI, VII, VIII, X y XIV del artículo 7o., además de lo que a continuación se indica para cada modalidad:
+
+I. Tratándose de alta de vehículos adicionales en permisos de autotransporte federal de pasajeros, lo previsto en las fracciones IX, XI, XII y XIII del artículo 7o., y
+
+II. En caso de alta de vehículos adicionales en permisos de autotransporte federal de turismo y privado de personas y carga, lo previsto en la fracción IX del artículo 7o.
 
 ### CAPITULO SEGUNDO. AUTOTRANSPORTE DE PASAJEROS
 
@@ -451,9 +531,11 @@ XIII. Área exclusiva para la entrega y recepción de equipaje, y
 
 XIV. Tratándose de terminales centrales, espacios adecuados para que a los conductores se les practiquen exámenes médicos.
 
-> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-ARTICULO 42C.- La Secretaría autorizará el inicio de operaciones de la terminal, una vez que el permisionario acredite que la misma cuenta con las instalaciones y equipo descritos en el permiso correspondiente y, en el caso de terminales centrales, haya asignado las áreas para la operación de las empresas de autotransporte federal de pasajeros.
+ARTICULO 42C.- La Secretaría autorizará el inicio de operaciones de la terminal, en un plazo máximo de veintidós días hábiles, una vez que el permisionario presente la solicitud correspondiente en la que señale que ha concluido la obra.
+
+La Secretaría, una vez recibida la solicitud y dentro del plazo de resolución a que se refiere el párrafo anterior, llevará a cabo una visita de verificación con el objeto de comprobar que la terminal cuenta con las instalaciones y equipo descritos en el permiso correspondiente y, en el caso de terminales centrales, que haya asignado las áreas para la operación de las empresas de autotransporte federal.
 
 > <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
 
@@ -511,15 +593,19 @@ El permisionario estará obligado al concluir el servicio de salvamento, a elabo
 
 Corresponde a la Secretaría registrar a las arrendadoras a que se refieren los artículos 42 y 43 de la Ley, sin perjuicio de las atribuciones que correspondan a otras autoridades competentes.
 
-Para obtener su registro, las arrendadoras deberán cumplir con los requisitos previstos en las fracciones I, II, IV y V del artículo 7o. del presente reglamento. Asimismo, deberán presentar acta constitutiva como sociedad mercantil, conforme a las leyes mexicanas y que en su objeto social se establezca expresamente el arrendamiento de remolques y semirremolques o automóviles para uso particular.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+Para obtener su registro, las arrendadoras deberán cumplir con los requisitos previstos en las fracciones I, II y IV del artículo 7o. del presente Reglamento. Asimismo, deberán presentar, en su caso, constancia de inscripción en el Registro Nacional de Inversiones Extranjeras y acta constitutiva como sociedad mercantil, conforme a las leyes mexicanas y que en su objeto social se establezca expresamente el arrendamiento de remolques y semirremolques o automóviles para uso particular.
 
 ###### ARTICULO 50.
 
 Las arrendadoras deberán tramitar la expedición de su constancia de registro ante la unidad administrativa central competente o el Centro SCT que corresponda a su domicilio social.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 51.
 
-La constancia de registro que se expida, será por tiempo indefinido y cualquier modificación a la denominación, objeto o domicilio social presentados para obtener su registro, deberá comunicarse a la Secretaría dentro de los siguientes diez días hábiles en que ocurra dicha modificación.
+La constancia de registro que se expida, será por tiempo indefinido y cualquier modificación a la denominación, objeto o domicilio social presentados para obtener su registro, deberá comunicarse a la Secretaría dentro de los siguientes diez días hábiles en que ocurra dicha modificación, para lo cual únicamente se anexará el acta notariada donde conste el cambio correspondiente.
 
 ###### ARTICULO 52.
 
@@ -533,21 +619,29 @@ Las placas y tarjetas de circulación a que se refiere el circulo (sic) anterior
 
 Para la obtención de placas metálicas de identificación, las arrendadoras deberán presentar la siguiente documentación:
 
-I. Solicitud de conformidad con el formato establecido por la Secretaría, acompañando al mismo copia de la constancia de registro;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-II. Factura o carta factura que acredite la propiedad del vehículo;
+I. Solicitud de conformidad con el formato establecido por la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+II. Factura, carta factura, contrato de arrendamiento o documento del Registro Nacional de Vehículos actualizado;
 
 III. Constancia expedida por la armadora o distribuidor autorizado respecto a las condiciones físico-mecánicas del vehículo automotor, así como aquella que acredite que los vehículos cumplen con las disposiciones normativas en materia de peso, dimensiones y capacidad;
 
-IV. Constancia de baja emisión de contaminantes, expedida por el centro de verificación autorizado por la Secretaría, excepto en los casos de remolques y semirremolques;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+IV. Constancia de baja emisión de contaminantes, expedida por el centro de verificación autorizado por la Secretaría, y
 
 V. Póliza vigente del seguro de responsabilidad civil por daños a terceros, y
 
-VI. Modelo del contrato de arrendamiento.
+VI. (DEROGADA, D.O.F. 8 DE AGOSTO DE 2000)
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 55.
 
-Tratándose de las arrendadoras de automóviles para uso particular que opten por la obtención de la tarjeta de circulación y placas metálicas de identificación de servicio federal, deberán presentar la documentación que ordenan las fracciones de la I a la IV del artículo artículo 54 excepto por lo que se refiere a la constancia que acredite que los vehículos cumplen con las disposiciones en materia de peso, dimensiones y capacidad. Asimismo, deberán presentar póliza vigente de seguro con cobertura amplia.
+Tratándose de las arrendadoras de automóviles para uso particular que opten por la obtención de la tarjeta de circulación y placas metálicas de identificación de servicio federal, deberán presentar la documentación señalada en las fracciones I, II y IV del artículo anterior, así como póliza vigente de seguro con cobertura amplia.
 
 ###### ARTICULO 56.
 
@@ -759,21 +853,43 @@ Si al recibir el vehículo, el propietario encontrara faltantes o daños en el m
 
 Los conductores de vehículos destinados a los servicios de autotransporte federal y al transporte privado en los términos del artículo 36 de la Ley, deberán obtener y en su caso, renovar la licencia federal de conductor que expida la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 89.
 
-Para obtener la licencia federal de conductor será necesario:
+Para obtener la licencia federal de conductor, el interesado deberá presentar solicitud por escrito a la Secretaría, a la cual deberá adjuntar:
 
-I. Haber cumplido 21 años de edad;
+I. En todos los casos:
 
-II. Exhibir comprobante de terminación de educación básica;
+a) Constancia de aptitud psicofísica;
 
-III. Aprobar los exámenes psicofísicos que determine el reglamento respectivo, y
+b) Dos fotografías tamaño infantil a color y de frente;
 
-IV. Aprobar los cursos de capacitación y de conducción teórico-prácticos con vehículos o simuladores.
+c) Comprobante de domicilio, y
+
+d) Certificado de capacitación;
+
+II. En caso de las categorías A, B, C, D y F, además de lo señalado en la fracción anterior, documento legal que acredite la mayoría de edad y, tratándose de la categoría D, credencial de guía de turistas;
+
+III. Tratándose de la categoría E, además de lo previsto en la fracción I, licencia federal de conductor de categoría B o C o constancia del transportista de materiales y residuos peligrosos, donde avale que el interesado tiene experiencia de dos años en la conducción de vehículos que transporten estos productos, y
+
+IV. En caso de licencia federal de conductor en su modalidad de internacional, además de lo señalado en la fracción I, documento legal que acredite tener 21 años de edad y comprobante de conocimientos del idioma inglés.
+
+Si el interesado no cuenta con el certificado de capacitación a que se refiere el inciso d. de la fracción I anterior, será necesario que se presente el examen teórico-práctico que aplique la propia Secretaría.
+
+En caso de que se solicite un cambio o categoría adicional, se deberá presentar exclusivamente el certificado de capacitación de la categoría solicitada, en su caso, y la licencia anterior.
+
+La Secretaría deberá resolver la solicitud en un plazo máximo de dos días hábiles.
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 90.
 
-La licencia federal de conductor tendrá una vigencia de diez años y deberá refrendarse cada dos años, previo cumplimiento de los requisitos señalados en las fracciones III y IV del artículo anterior.
+La licencia federal de conductor tendrá una vigencia de diez años y deberá refrendarse cada dos años, previa presentación de los documentos señalados en los incisos a), c) y d) de la fracción I del artículo anterior, así como de la licencia federal.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 90A.- En caso de robo, pérdida o destrucción de la licencia federal de conductor, el interesado podrá obtener el duplicado de la misma, previa solicitud a la Secretaría a la cual deberá anexar lo señalado en los incisos b) y c) de la fracción I del artículo 89 y la licencia federal vigente o acta levantada ante la autoridad competente por extravío o robo.
 
 ###### ARTICULO 91.
 
@@ -801,7 +917,83 @@ I. Por seis meses, cuando el titular permita a una persona no autorizada por la 
 
 II. Por seis meses, en los casos de la segunda infracción levantada por rebasar los límites de velocidad establecidos por la Secretaría durante un periodo de doce meses.
 
-### CAPITULO DECIMO PRIMERO. RECURSO DE RECONSIDERACION
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 93A.- El conductor cuya licencia haya sido cancelada no tendrá derecho a que se le devuelva o renueve.
+
+En los casos de suspensión, el interesado podrá solicitar la devolución cuando haya pasado el término de la suspensión, pero la Secretaría podrá negarse a ello hasta que haya comprobado que no subsisten las causas que motivaron la suspensión.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 93B.- Será motivo de anulación de una licencia federal de conductor, el hecho de que se compruebe posteriormente a su expedición que el interesado no hubiere proporcionado en su solicitud información correcta. En este caso, el interesado podrá obtener una nueva licencia, si subsana las deficiencias encontradas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+### CAPÍTULO UNDÉCIMO. DE LA CAPACITACIÓN
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 93C.- La capacitación y adiestramiento de conductores del servicio de autotransporte federal y transporte privado que deseen obtener, refrendar o, en su caso, renovar la licencia federal de conductor, se deberá realizar en las escuelas, instituciones, centros educativos, centros de capacitación de permisionarios de autotransporte federal, transporte privado y similares con reconocimiento oficial de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 93D.- Los interesados en obtener el reconocimiento de la Secretaría para operar un centro de capacitación y adiestramiento de conductores del servicio de autotransporte federal y transporte privado, deberán presentar solicitud ante la Secretaría, la cual deberá acompañarse de los documentos que se señalan a continuación:
+
+I. Acta de nacimiento e identificación oficial vigente, si se trata de persona física, o escritura constitutiva y sus modificaciones, si es persona moral;
+
+II. En su caso, copia certificada del poder otorgado al representante legal ante fedatario público;
+
+III. Comprobante de domicilio del centro de capacitación y adiestramiento, y el comprobante de ocupación legal del domicilio por el tiempo en que se impartirán los cursos;
+
+IV. Registro ante la Secretaría del Trabajo y Previsión Social del centro de capacitación o del reconocimiento de validez oficial de estudios de formación para el trabajo, otorgado por la Secretaría de Educación Pública;
+
+V. Relación de los instructores con los que contará el centro;
+
+VI. Registro de los instructores ante la Secretaría del Trabajo y Previsión Social;
+
+VII. Carta de aceptación de responsabilidad del representante legal del centro de capacitación;
+
+VIII. Propuesta de los programas de capacitación y adiestramiento elaborados conforme a los programas mínimos de capacitación que emita la Secretaría de acuerdo a la modalidad del servicio de que se trate, y
+
+IX. Descripción de las instalaciones, así como de los equipos y su información técnica y, en su caso, de los vehículos, presentando para éstos el documento que acredite su legítima posesión (factura, carta factura, contrato de comodato o convenio) y/o simuladores con los que se deberá realizar la capacitación y el adiestramiento, de conformidad con lo establecido en el artículo 93-G.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 93E.- Los instructores de conductores del servicio de autotransporte federal y transporte privado deberán contar con el reconocimiento oficial de la Secretaría, debiendo presentar la documentación prevista en las fracciones I y V del artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 93F.- Las solicitudes a que se refieren los artículos 93-D y 93-E deberán resolverse en un plazo que no exceda de cuarenta y cinco días hábiles, contado a partir de aquél en que se hubiere presentado la solicitud. Transcurrido el plazo señalado sin que la Secretaría emita el reconocimiento, éste se entenderá otorgado.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 93G.- Los centros donde se impartan los cursos de capacitación deberán contar, como mínimo, con las siguientes instalaciones y equipo:
+
+I. Para la impartición de cursos a conductores del servicio de autotransporte federal y transporte privado de carga, así como de materiales y residuos peligrosos:
+
+a) Vehículos y/o simuladores tipo camión, tractocamión, autotanque y otros, según el tipo de capacitación y modalidad de servicio que se pretenda proporcionar o, en su caso, convenio con vigencia mínima de un año como empresas que cuenten con los vehículos requeridos para la impartición de la capacitación;
+
+b) Una o más aulas para impartir los cursos teóricos, de acuerdo a las especificaciones que fijen las leyes de la materia, las cuales deberán contar con pupitres o mesabancos suficientes de acuerdo al número de alumnos a capacitar;
+
+c) Taller y/o laboratorio dotado de equipo, enseres y herramientas proporcional al número de alumnos que puede atender el plantel y de acuerdo a la especialidad del curso de capacitación que proporcione, incluido un motor a diesel completo;
+
+d) Equipo de cómputo para el intercambio de información entre el centro de capacitación y la Secretaría, y
+
+e) La propiedad o legal posesión de un terreno para utilizarse como patio de maniobras con una superficie de treinta metros de ancho por sesenta metros de largo o, en su caso, convenio con empresas para la utilización de un área similar, el cual deberá estar cercado, pavimentado, libre de obstáculos y de peatones y rotulado para su identificación.
+
+Los incisos a), c) y e) no aplican para la capacitación del transporte de materiales y residuos peligrosos;
+
+II. Para la impartición de cursos a conductores del servicio de autotransporte federal y transporte privado de pasaje y turismo, además de lo señalado en los incisos b) a e) de la fracción anterior, vehículos y/o simuladores tipo autobús integral o convencional, según el tipo de capacitación y modalidad de servicio que se pretenda proporcionar o, en su caso, convenio con vigencia mínima de un año con empresas que cuenten con los vehículos requeridos para la impartición de la capacitación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+ARTICULO 93H.- Los centros e instructores que obtengan el reconocimiento de la Secretaría a que se refiere este capítulo, se obligarán a proporcionar la información necesaria que esta última les requiera, respecto de los alumnos que acrediten los cursos correspondientes a la conducción de vehículos de autotransporte federal y transporte privado.
+
+Asimismo, la Secretaría podrá realizar en cualquier tiempo visitas a los centros de capacitación y adiestramiento para verificar el cumplimiento de los programas, así como para supervisar que cuentan con las instalaciones y equipos requeridos.
+
+La Secretaría cancelará el reconocimiento otorgado, en aquellos casos en que se compruebe que el centro o los instructores han dejado de cumplir con los planes y programas autorizados o bien ya no reúnen los requisitos conforme a los cuales les fue otorgado dicho reconocimiento.
+
+### CAPITULO DECIMO SEGUNDO. RECURSO DE RECONSIDERACION
 
 ###### ARTICULO 94.
 
@@ -856,3 +1048,9 @@ D.O.F. 14 DE AGOSTO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las solicitudes de permisos que se encuentren en trámite a la entrada en vigor del presente Decreto se ajustarán, en lo que beneficie a los solicitantes, a lo dispuesto en el mismo.
+
+D.O.F. 8 DE AGOSTO DE 2000.
+
+> <small>N. DE E. UNICAMENTE SE TRANSCRIBE EL ARTICULO TRANSITORIO DEL DECRETO DE REFORMA QUE SE RELACIONA CON EL PRESENTE REGLAMENTO.</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
