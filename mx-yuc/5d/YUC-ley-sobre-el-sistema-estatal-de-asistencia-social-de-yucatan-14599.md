@@ -4,7 +4,7 @@ identifier: "YUC-ley-sobre-el-sistema-estatal-de-asistencia-social-de-yucatan-14
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-12"
-last_updated: "1986-09-12"
+last_updated: "1992-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JUNIO DE 1992.
 
 Ley publicada en el Diario Oficial el Viernes 12 de Septiembre de 1996.
 
@@ -491,27 +491,89 @@ Las relaciones laborales entre el Organismo y sus trabajadores, se rigen por el 
 
 Se considerarán como empleados de confianza:
 
-A) El Director General; B) Los Subdirectores Generales; C) El Gerente de la Planta Industrializadora; D) Los Gerentes de la propia Planta; E) Los Jefes de Departamento; F) Los Subjefes de Departamento; G) Los Asesores; H) Los Jefes de turno; I) Los Secretarios Particulares; J) El Subprocurador y Delegados de la Procuraduría de la Defensa del Menor y la Familia; K) Los Directores y Administradores de los Centros de Desarrollo, Casa Cuna, Educación Especial y Rehabilitación dependientes del Sistema; L) Las secretarias y los choferes de los antes mencionados y, en general, el personal que efectúe labores de inspección y vigilancia.
+A) El Director General; B) Los Subdirectores Generales; C) El Gerente de la Planta Industrializadora; D) Los Gerentes de la propia Planta; E) Los Jefes de Departamento; F) Los Subjefes de Departamento; G) Los Asesores; H) Los Jefes de turno; I) Los Secretarios Particulares; J) El Subprocurador y Delegados de la Procuraduría de la Defensa del Menor y la Familia; K) Los Directores y Administradores de los Centros de Desarrollo, Casa Cuna, Educación Especial y Rehabilitación dependientes del Sistema; L) Las secretarias y los choferes de los antes mencionados y, en general, el personal que efectué labores de inspección y vigilancia.
 
 ### CAPITULO SEGUNDO
 
 DE LOS SISTEMAS PARA EL DESARROLLO INTEGRAL DE LA FAMILIA.
 
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 53.
 
-Se crean, con personalidad jurídica, patrimonios propios y con domicilio en las cabeceras Municipales, los organismos públicos descentralizados que se denominarán "Sistemas Municipales para el Desarrollo Integral de la Familia".
+Para la prestación de los servicios de asistencia social en el ámbito municipal, se crearán los Sistemas Municipales para el Desarrollo Integral de la Familia. De acuerdo con la capacidad técnica y financiera de cada Municipio, los ayuntamientos podrán optar por crear y operar sus Sistemas Municipales bajo alguna de las tres figuras jurídicas siguientes:
+
+A. UNIDAD ADMINISTRATIVA
+
+Corresponde a una delegación de funciones a través de la cual el Ayuntamiento confiere sus responsabilidades en materia de asistencia social a un subalterno para que las lleve a efecto.
+
+El Sistema Municipal así conformado tiene las siguientes características:
+
+- Se crea por acuerdo de Cabildo y depende directamente del Presidente Municipal.
+
+- Se le confiere funciones y obligaciones, sin transferirle la facultad de decisión.
+
+- Forman parte de la organización administrativa dependiente del Ayuntamiento.
+
+- Se le asignan personal y recursos.
+
+B. ORGANO DESCONCENTRADO
+
+La desconcentración implica la transferencia de funciones a cargo de un órgano central del Ayuntamiento a órganos o funcionarios distribuidos en las diversas comunidades del Municipio, los cuales dependen de la autoridad municipal que les transfirió dichas funciones.
+
+Las características del Sistema Municipal constituido como órgano desconcentrado son las siguientes:
+
+- Se crea mediante acuerdo de cabildo.
+
+- Se le confieren ciertas funciones de autoridad.
+
+- Cuenta con estructura orgánica propia.
+
+- Forma parte de la estructura de la administración pública municipal y está jerárquicamente subordinado a un órgano administrativo del Ayuntamiento.
+
+- Se le transfieren recursos y apoyos administrativos.
+
+C. ORGANISMO DESCENTRALIZADO
+
+La descentralización administrativa es una forma de organización mediante la cual se crean organismos independientes con personalidad jurídica, administración y recursos propios, con objeto de cumplir una función específica o de actuar en un territorio determinado, es decir, por región o por servicio.
+
+El Sistema Municipal así conformado se caracteriza por lo siguiente:
+
+- Se crea por Decreto del Ejecutivo o Ley del Congreso del Estado, a iniciativa del Ayuntamiento.
+
+- Es un órgano independiente de la estructura administrativa del Ayuntamiento.
+
+- Cuenta con personalidad jurídica, administración y patrimonios propios.
+
+- Goza de autonomía respecto de la administración municipal.
+
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 54.
 
 Son funciones de los Sistemas Municipales:
 
-I.- Dirigir y controlar en sus respectivos ámbitos la ejecución de los programas asistenciales y de desarrollo de la niñez, de la mujer gestante y lactante, de los menores y ancianos desamparados, minusválidos sin recursos, así como de la comunidad, bajo las directrices que les señale el Sistema Estatal para el Desarrollo Integral de la Familia.
+I.- Operar los programas de asistencia social en el ámbito que les corresponda.
 
-II.- Administrar su patrimonio y procurar el incremento del mismo.
+II.- Impulsar el sano crecimiento físico y mental de la niñez.
 
-III.- Celebrar dos sesiones ordinarias al año, en los meses de junio y diciembre y las extraordinarias que estime necesarias su Presidente.
+III.- Detectar a personas minusválidas, física o mentalmente que requieran servicios de rehabilitación.
 
-IV. En general, procurar en su jurisdicción la realización de las funciones a que se refiere el artículo 16 de la presente Ley.
+IV.- Proporcionar servicios asistenciales a menores y ancianos desamparados, así como a personas de escasos recursos.
+
+V.- Incorporar a minusválidos a la vida productiva.
+
+VI.- Prestar asesoría jurídica a la población, preferentemente a los ancianos, menores y minusválidos.
+
+VII.- Apoyar el mejoramiento de la dieta familiar.
+
+VIII.- Fomentar la utilización adecuada del tiempo libre.
+
+IX.- Coordinar todas las tareas que en materia de asistencia social realicen otras instituciones en el municipio.
+
+X.- Procurar permanentemente la adecuación de sus objetivos y programas a las directrices del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+XI.- En general, procurar en su jurisdicción la realización de las funciones a que se refiere el artículo 16 de la presente Ley.
 
 ###### ARTICULO 55.
 
@@ -529,53 +591,83 @@ V.- Las concesiones, permisos, licencias y autorizaciones o su explotación que 
 
 VI.- En general, los demás bienes o ingresos que obtenga por cualquier otro título legal.
 
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 56.
 
-Los Sistemas Municipales se integrarán con un Presidente, un Tesorero y el número de vocales necesarios, mismos que serán nombrados por el Presidente Municipal correspondiente y no recibirán retribución alguna. El Tesorero necesariamente lo será el que funja como tal en el Ayuntamiento del Municipios de que se trate.
+El Sistema Municipal constituido como unidad administrativa del Ayuntamiento cuenta con las autoridades superiores siguientes:
 
-El Sistema Municipal, según las áreas que programe para el mejor desarrollo y funcionamiento del mismo, podrá contratar a los empleados que sean necesarios para tales fines.
+I.- PRESIDENCIA: Recaerá en el Presidente Municipal, quien podrá delegar esta función en su esposa o alguna otra persona. Tendrá a su cargo la organización, coordinación y supervisión de las actividades del Sistema.
 
-Las relaciones laborales entre el Sistema y sus trabajadores, se regirán por el Estatuto Jurídico de los Trabajadores al Servicio del Estado de Yucatán y éstos deberán estar incorporados al régimen de la Ley de Seguridad social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal.
+II.- SECRETARIO: Será designado por el Presidente del Sistema y será responsable de llevar los registros de todas las actividades que se realicen, así como de levantar las actas de las reuniones y el control de la correspondencia.
+
+III.- TESORERO: Será designado por el Presidente del Sistema y será responsable de llevar los registros de los ingresos y egresos económicos, así como de proponer y promover actividades que permitan incrementar los recursos del mismo.
+
+IV.- VOCALES.- Serán designados por el Presidente del Sistema, con el número que considere necesario. Tendrán a su cargo desarrollar las actividades y asumir las responsabilidades que les asigne el Presidente.
+
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 57.
 
-Son funciones del Presidente del Sistema Municipal:
+El Sistema Municipal constituido como órgano desconcentrado o como organismo descentralizado del Ayuntamiento cuenta con las siguientes autoridades superiores:
 
-I.- Asumir la representación legal del Sistema Municipal para el Desarrollo Integral de la Familia que preside.
+I.- PATRONATO: Es la máxima autoridad del Sistema y se integra por un Presidente, que será designado por el Presidente Municipal, vocales, que serán el Secretario y el Tesorero del Ayuntamiento y un representante del cuerpo de regidores, un representante del sector salud en el municipio, un representante de la iniciativa privada y un representante del sector social. Los miembros del patronato no reciben retribución alguna.
 
-II. Organizar, coordinar y supervisar el desarrollo de las actividades del Sistema Municipal que preside
+II.- PRESIDENTE: Será designado por el Presidente Municipal.
 
-III. Asumir la presidencia del voluntariado del Sistema.
+III.- DIRECTOR GENERAL: Será designado y removido libremente por el Presidente Municipal.
+
+El Sistema Municipal, según las áreas que programe para el mejor desarrollo y funcionamiento del mismo, podrá contratar a los empleados que sean necesarios para tales fines.
+
+Las relaciones laborales entre el Sistema y sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán y éstos deberán estar incorporados al régimen de la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal.
+
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 58.
 
-El Secretario designado para fungir en cada asamblea ordinaria o extraordinaria tendrá a su cargo pasar lista de asistencia y levantar el acta correspondiente.
+El patronato del Sistema Municipal integrado como organismo desconcentrado o como organismo descentralizado tendrá las siguientes funciones:
+
+I.- Dictar las normas generales para la planeación y ejecución de los servicios que presta el Sistema Municipal.
+
+II.- Aprobar los planes de trabajo, presupuestos, informes de actividades y estados financieros anuales del Sistema Municipal.
+
+III.- Ejercer la vigilancia adecuada del patrimonio del Sistema Municipal.
+
+IV.- Aprobar el reglamento interior, la organización del Sistema Municipal y los manuales de procedimientos y servicios al público.
+
+V.- Conocer y aprobar los convenios de coordinación que se celebren con el Sistema Estatal y con otras entidades de los sectores público, privado y social.
+
+VI.- Apoyar las actividades del Sistema y contribuir a la obtención de recursos para incrementar al patrimonio del mismo.
+
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 59.
 
-Son funciones del Tesorero:
+Son funciones del presidente del patronato del Sistema Municipal constituido como órgano desconcentrado u organismo descentralizado.
 
-I.- Levantar y controlar las cuentas del Sistema Municipal
+I.- Vigilar que los acuerdos del patronato se cumplan fielmente.
 
-II.- Controlar el movimiento de fondos en forma mancomunada con el Presidente, respecto a los ingresos y egresos del Sistema Municipal, haciendo los depósitos en Instituciones Bancarias cuando en la localidad existan.
+II.- Rendir anualmente el informe general de las actividades del Sistema Municipal y los parciales.
 
-III.- Elaborar el Programa de Inversión del Presupuesto de Gastos del Sistema Municipal, de acuerdo con las normas fijadas por la Presidencia.
+III.- Presentar al Ayuntamiento y al Sistema Estatal los informes que le sean requeridos.
 
-IV.- Archivar las notas y cuentas de ingresos y egresos del sistema, y
-
-V.- Rendir cuentas de su administración al Sistema cada trimestre.
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 60.
 
-Son atribuciones y obligaciones de los vocales:
+Son funciones del director general del Sistema Municipal constituido como órgano desconcentrado u organismo descentralizado:
 
-I.- Presentar las iniciativas que se requieran para el mejor desarrollo de las actividades del Sistema Municipal.
+I.- Ejecutar los acuerdos del patronato.
 
-II.- Desarrollar las actividades y asumir las responsabilidades que les asigne el Presidente del Sistema Municipal.
+II.- Presentar al patronato para su estudio y aprobación los planes de trabajo, presupuesto de egresos, informes de actividades y estados financieros del Sistema Municipal.
 
-III.- Informar al Sistema Municipal sobre las actividades a su cargo, y,
+III.- Proponer al patronato la designación y remoción de los funcionarios del Sistema Municipal.
 
-IV.- Cumplir con diligencia las comisiones de servicios que le sean confiadas.
+IV.- Hacer los nombramientos del personal y llevar las relaciones laborales.
+
+V.- Planear, dirigir y controlar el funcionamiento del Sistema Municipal, de acuerdo con los lineamientos del patronato.
+
+VI.- Celebrar los convenios, contratos y actos jurídicos que se requieran para el buen funcionamiento del Sistema Municipal y actuar como apoderado del mismo con facultades de administración para pleitos y cobranzas.
 
 ###### ARTICULO 61.
 
@@ -678,3 +770,9 @@ VICTOR M. CERVERA PACHECO.
 EL SECRETARIO DE GOBIERNO
 
 ABOG. ORLANDO A. PAREDES LARA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 24 DE JUNIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
