@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "1993-11-17"
+last_updated: "1993-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DEL DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -367,7 +367,13 @@ Se procederá en las nuevas construcciones de Instalaciones Deportivas, y en la 
 
 Las Instalaciones Deportivas del Estado de Nuevo León deberán estar registradas en el Registro Estatal del Deporte en concordancia con el Registro Nacional del Deporte.
 
-El uso de las Instalaciones Deportivas debe ser exclusivamente para Eventos Deportivos.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
+El uso de las Instalaciones Deportivas debe ser preferentemente para eventos deportivos, cuando se utilice para otros fines, deberán respetarse los Programas y Calendarios Deportivos previamente establecidos.
+
+> <small>(ADICIONADO, P. O. 26 DE NOVIEMBRE DE 1993)</small>
+
+De los ingresos derivados del uso diverso conforme al párrafo anterior, deberá destinarse un porcentaje tendiente a mejorar e incrementar las instalaciones deportivas, fijando la fianza que garantice la reparación de los desperfectos, en la manera que defina la Dependencia competente señalada en el Artículo 9 de este Ordenamiento, especificando en el Informe Anual de la Cuenta Pública el porcentaje y destino que se dió a estos recursos.
 
 ###### Artículo 52.
 
@@ -586,3 +592,9 @@ LEOPOLDO ESPINOSA BENAVIDES.
 EL C. SECRETARIO DE DESARROLLO SOCIAL
 
 GUSTAVO ALARCON MARTINEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 1993.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
