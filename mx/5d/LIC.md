@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1996-05-23"
+last_updated: "1997-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -156,7 +156,7 @@ En los supuestos de que se niegue la autorización, se desista el interesado o s
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-Al ejercer las facultades que le confiere este artículo, la Secretaría de Hacienda y Crédito Público, con sujeción a lo dispuesto en el Plan Nacional de Desarrollo, promoverá una adecuada descentralización del Sistema Bancario Mexicano, evitando una excesiva concentración de instituciones de crédito en una misma región.|
+Al ejercer las facultades que le confiere este artículo, la Secretaría de Hacienda y Crédito Público, con sujeción a lo dispuesto en el Plan Nacional de Desarrollo, promoverá una adecuada descentralización del Sistema Bancario Mexicano, evitando una excesiva concentración de instituciones de crédito en una misma región.
 
 > <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
@@ -1730,9 +1730,21 @@ Tratándose de los delitos a que se refieren los artículos 112 y 114 también s
 
 Lo dispuesto en los artículos citados en este Capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.
 
-> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general para prevenir y detectar en las instituciones de crédito y sociedades financieras de objeto limitado, actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito. Estas disposiciones deberán ser observadas por los empleados y funcionarios de los citados intermediarios. La violación de las mismas será sancionada con multa equivalente del diez hasta el cien por ciento del monto del acto u operación de que se trate, la cual será impuesta por la Comisión Nacional Bancaria y de Valores a los intermediarios financieros mencionados.
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las instituciones de crédito y sociedades financieras de objeto limitado, actos u operaciones que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, incluyendo la obligación de dichas instituciones y sociedades de presentar a esa Secretaría, por conducto de la citada Comisión reportes sobre las operaciones y servicios que realicen con sus clientes y usuarios, por los montos y en los supuestos que en dichas disposiciones de carácter general se establezcan.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de las operaciones y servicios de la instituciones y sociedades mencionadas, que consideren sus condiciones específicas y actividad económica o profesional; los montos, frecuencia, tipos y naturaleza de las operaciones y los instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas que operen y las prácticas comerciales y bancarias que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias instituciones y sociedades. El cumplimiento de la obligación de presentar reportes previstos en tales disposiciones no implicará transgresión a lo establecido en los artículos 117 y 118 de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Las disposiciones señaladas deberán ser observadas oportunamente por los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los citados intermediarios; la violación de las mismas será sancionada por la Comisión Nacional Bancaria y de Valores con multa equivalente del 10 al 100% del acto u operación de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los intermediarios financieros a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 ###### ARTICULO 116.
 
@@ -2303,3 +2315,9 @@ III. Que los intereses de los trabajadores no sufran daño ni perjuicio alguno c
 En relación con este requisito, la Comisión queda facultada para dictar e imponer las medidas que considere necesarias a fin de garantizar la protección de los trabajadores.
 
 ...
+
+D.O.F. 7 DE MAYO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda y Crédito Público haya emitido bajo la vigencia de los artículos que se reforman en este decreto, continuarán vigentes hasta en tanto no sean modificadas, abrogadas o derogadas por la misma dependencia.
