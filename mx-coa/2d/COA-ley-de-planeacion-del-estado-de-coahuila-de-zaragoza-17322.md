@@ -4,7 +4,7 @@ identifier: "COA-ley-de-planeacion-del-estado-de-coahuila-de-zaragoza-17322"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-08"
-last_updated: "2001-01-09"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PLANEACION DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 8 de septiembre de 1987.
 
@@ -45,31 +45,43 @@ LEY DE PLANEACION DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 Las disposiciones de la presente Ley, son de orden público e interés social, y tienen por objeto establecer:
 
-I.- Las normas y principios básicos, conforme a los cuales se llevará a cabo la planeación del desarrollo de la entidad y se encauzarán, en función de ésta, las actividades de las dependencias y entidades de la Administración Pública Estatal y Municipal;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I.- Las normas y principios básicos, conforme a los cuales se llevará a cabo la planeación del desarrollo de la entidad y se encauzarán, en función de ésta, las actividades de las dependencias y entidades de la Administración Pública Estatal y Municipal en el marco del principio de fidelidad municipal;
 
 II.- Las bases de integración y funcionamiento del Sistema Estatal de Planeación Democrática;
 
 III.- Las bases para que el Ejecutivo Estatal, coordine sus actividades de planeación con la Federación, conforme a la legislación aplicable;
 
-IV.- LAs (sic) bases para que el Ejecutivo Estatal, coordine sus actividades de planeación con los Municipios del Estado, conforme a la legislación aplicable;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV.- Las bases para que el Ejecutivo Estatal, coordine sus actividades de planeación con los Municipios del Estado, en el marco del principio de fidelidad municipal, conforme a la legislación aplicable;
 
 V.- Las bases para promover y garantizar la participación democrática de los diversos grupos sociales, a través de sus organizaciones representativas, en la elaboración de los planes y programas a que se refiere esta Ley; Y (sic)
 
 VI.- Las bases para que las acciones de los particulares, contribuyan a alcanzar los objetivos y prioridades de la Planeación Democrática Estatal y sus programas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 2°.
 
-La planeación en el Estado de Coahuila de Zaragoza, deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado, sobre su desarrollo integral, y deberá tender a la consecución de los fines y objetivos políticos, sociales, culturales y económicos, contenidos en la Constitución Política de los Estados Unidos Mexicanos, y en la Constitución Política del Estado, basándose, para ello, en los siguientes principios:
+La planeación en el Estado de Coahuila de Zaragoza, deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado y de los municipios de la entidad, sobre su desarrollo democrático basado en el constante mejoramiento político, económico, social y cultural y deberá tender a la consecución de los fines y objetivos contenidos en la Constitución Política de los Estados Unidos Mexicanos, y en la Constitución Política del Estado, basándose, para ello, en los siguientes principios:
 
 I.- El fortalecimiento de la soberanía del Estado de acuerdo con lo establecido en el pacto Federal;
 
 II.- La preservación y el perfeccionamiento del régimen democrático, republicano federal y representativo que establecen la Constitución Política de los Estados Unidos Mexicanos, y la Constitución Política del Estado y la consolidación de la democracia, como sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo, impilsando (sic) su participación activa en la planeación y ejecución de las actividades del Gobierno, tanto estatal como municipal;
 
-III.- La igualdad de derechos, la atención de las necesidades básicas de la población, y la mejoría en todos los aspectos de la calidad de vida, para lograr una sociedad más igualitaria;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-IV.- El respeto irrestricto de las garantías individuales, y de las libertades y derechos sociales y políticos;
+III.- La igualdad de derechos, la seguridad jurídica y la justicia social, así como la atención de las necesidades básicas de la población y la mejoría en todos los aspectos de la calidad de vida, para lograr que las garantías sean reales, efectivos (sic) y democráticas;
 
-V.- El fortalecimiento del pacto federal y del Municipio, para lograr un desarrollo equilibrado del Estado, promoviendo la descentralización de la vida nacional; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV.- El respeto irrestricto de las garantías individuales, de la dignidad de las personas, de los derechos fundamentales que les son inherentes, el libre desarrollo de la personalidad y de las libertades y derechos sociales y políticos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V.- El fortalecimiento del pacto federal y de los principios de fidelidad municipal y federal, para lograr un desarrollo equilibrado del Estado, promoviendo la federalización y municipalización cooperativa e interdependiente de la vida y tareas nacionales; y
 
 VI.- El equilibrio de los factores de la producción que proteja y promueva el empleo, en un marco de estabilidad económica y social.
 
@@ -87,11 +99,13 @@ Es responsabilidad del Titular del Poder Ejecutivo, conducir la planeación esta
 
 El Gobernador del Estado, remitirá el Plan Estatal de Desarrollo al Congreso Local, para su conocimiento y opinión.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 6°.
 
-Los Ayuntamientos Municipales de la entidad aprobarán los Planes Municipales de Desarrollo y los remitirán al Congreso del Estado, para su conocimiento y opinión.
+Los Ayuntamientos de la entidad aprobarán los Planes Municipales de Desarrollo, haciéndose responsable de vigilar su correcta ejecución.
 
-Los Planes Municipales de Desarrollo, también se remitirán al Ejecutivo del Estado, para que sean integrados al Plan Estatal de Desarrollo, en el seno de COPLADE.
+Los Planes Municipales de Desarrollo se remitirán al Ejecutivo del Estado, para que sean integrados al Plan Estatal de Desarrollo, en el seno de COPLADE.
 
 ###### ARTICULO 7°.
 
@@ -207,15 +221,23 @@ XIII.- Remitir el Plan Estatal de Desarrollo al H. Congreso del Estado, para su 
 
 XIV.- Las demás facultades que determine esta Ley, sus Reglamentos y demás disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 18.
 
-Son facultades de los Ayuntamientos Municipales del Estado, en materia de Planeación:
+Son facultades de los Ayuntamientos del Estado, en materia de Planeación:
 
-I.- Aprobar y coordinar la ejecución del Plan Municipal de desarrollo;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-II.- Formular las Leyes de Ingresos y aprobar los Presupuestos de Egresos Municipales de acuerdo con los objetivos del Plan Municipal de Desarrollo;
+I.- Aprobar y coordinar la ejecución del Plan de Desarrollo Municipal;
 
-III.- Proponer a los Comités de Planeación para el Desarrollo Municipal (COPLADEM), los programas prioritarios para que formen parte del Plan Municipal de Desarrollo;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- Formular las iniciativas de Leyes de Ingresos y aprobar los Presupuestos de Egresos Municipales de acuerdo con los objetivos del Plan de Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+III.- Proponer a los Comités de Planeación para el Desarrollo Municipal (COPLADEM), los programas prioritarios para que formen parte del Plan de Desarrollo Municipal;
 
 IV.- Proponer a los Gobiernos estatal y federal, programas de inversión, gasto y financiamiento, para ejecutarse dentro del Municipio;
 
@@ -233,9 +255,13 @@ I.- Presidir el Comité de Planeación para el Desarrollo Municipal, en su respe
 
 II.- Vigilar que la Administración Pública Municipal, conduzca sus actividades de acuerdo a los objetivos de los planes Estatal y Municipal de Desarrollo;
 
-III.- Supervisar que las actividades de las dependencias municipales, tengan congruencia con los programas derivados de los Planes Estatal y Municipal de Desarrollo;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-IV.- Vigilar que las dependencias municipales, elaboren sus presupuestos de acuerdo a los programas emanados del Plan Municipal de Desarrollo;
+III.- Supervisar que las actividades de las dependencias y entidades municipales tengan congruencia con los programas derivados de los Planes Estatal y Municipal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV.- Vigilar que las dependencias y entidades municipales elaboren sus presupuestos de acuerdo a los programas emanados del Plan de Desarrollo Municipal;
 
 V.- Coordinar las actividades de la administración Pública municipal, con las actividades de la administración pública federal y estatal, en materia de programas de desarrollo; y
 
@@ -315,9 +341,15 @@ V.- Las demás facultades que determine esta Ley, sus reglamentos y otras dispos
 
 Para los efectos que (sic) este Capítulo el Comité de Planeación para el Desarrollo del Estado, tendrá las facultades y atribuciones asignadas en la Ley de su creación.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 23.
 
-Serán facultades de los Comités de Planeación para el Desarrollo Municipal (COPLADEM), en materia de planeación, las que le designe, en su caso, el acuerdo o disposición legal que los constituya.
+Los ayuntamientos integrarán un Comité relativo a la planeación del desarrollo municipal, el cual deberá constituirse dentro de los sesenta días naturaleza siguientes a la fecha de instalación del ayuntamiento, según el período de administración que corresponda.
+
+Los Comités de Planeación del Desarrollo Municipal serán organismos técnicos auxiliares de los Ayuntamientos en materia de planeación, el cual contará con la participación de los sectores público, social y privado.
+
+Serán facultades de los Comités de Planeación para el Desarrollo Municipal (COPLADEM), en materia de planeación, las que les designe, en su caso, el reglamento o disposición legal que los constituya, así como las que les asignen otras disposiciones aplicables.
 
 ### CAPITULO SEGUNDO (SIC). PARTICIPACION SOCIAL EN LA PLANEACION
 
@@ -339,6 +371,10 @@ El Plan Estatal de Desarrollo, deberá elaborarse, aprobarse y publicarse dentro
 
 El Plan Estatal de Desarrollo, precisará los objetivos generales, estrategias y prioridades del desarrollo integral del Estado; contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y municipal; sus previsiones se referirán al conjunto de la actividad económica y social, y regirá el contenido de los programas en el Sistema Estatal y Planeación Domocrática (sic).
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El Plan de Desarrollo contendrá, además, las bases y los mecanismos necesarios para que, en el marco del Municipalismo Cooperativo e Interdependiente, los Gobiernos Estatal y Municipal, bajo el principio de fidelidad municipal, actúen de manera constructiva, corresponsable y armónicamente en el desempeño de sus funciones exclusivas, concurrentes o coincidentes.
+
 ###### ARTICULO 27.
 
 Para los efectos de esta Ley, la categoría de Plan, queda reservada exclusivamente para el Plan Estatal y Planes Municipales de Desarrollo.
@@ -351,17 +387,23 @@ El Plan Estatal y Planes Municipales de Desarrollo, indicarán los programas sec
 
 Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan Estatal, y tomarán en cuanta (sic) las establecidas en los planes municipales; especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Asimismo, contendrán estimaciones de recursos y determinaciones sobre instrumentos y responsables de su ejecución.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 30.
 
-Los programas municipales se referirán, exclusivamente al ámbito territorial del Municipio de que se trate, serán elaborados por las dependencias municipales a las que corresponda la ejecución de las acciones y se sujetarán a las previsiones contenidas tanto en el Plan Estatal como en el Plan Municipal respectivo. Los programas de un Municipio en cuyas acciones participen tanto la Administración Pública Estatal como la Municipal, serán elaborados coordinadamente por las dependencias y órganos involucrados.
+Los programas municipales se referirán exclusivamente al ámbito territorial del Municipio de que se trate. Serán elaborados por las dependencias municipales a las que corresponda la ejecución de las acciones y se sujetarán a las previsiones contenidas tanto en el Plan Estatal como en el Plan Municipal respectivo.
+
+Los programas de un Municipio en cuyas acciones participen tanto la Administración Pública Estatal como la Municipal, serán elaborados coordinadamente, previa la suscripción de los convenios que correspondan, por las dependencias y órganos involucrados.
 
 ###### ARTICULO 31.
 
 Los programas institucionales que deben elaborar las dependencias y entidades estatales y municipales, se sujetarán a las previsiones contenidas en el plan y programa sectorial correspondiente. Las dependencias y entidades, al elaborar sus programas institucionales, se ajustarán, en lo conducente, a la Ley que regule su organización y funcionamiento.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 32.
 
-Los programas regionales se referirán a las regiones que se consideren prioritarias o estratégicas, en función de los objetivos fijados en los Planes Estatal y Municipales, y cuya extensión territorial rebase el ámbito jurisdiccional de dos o más municipios del Estado.
+Los programas regionales se referirán a las Zonas de Desarrollo Económico que se determinen con base en la agrupación de los municipios de la entidad y que se consideren prioritarias o estratégicas, en función de los objetivos fijados en los Planes Estatal y Municipales, y cuya extensión territorial rebase el ámbito jurisdiccional de dos o más municipios del Estado.
 
 ###### ARTICULO 33.
 
@@ -373,9 +415,11 @@ Las dependencias y entidades encargadas de la ejecución del Plan Estatal y Muni
 
 Estos programas operativos anuales, que deberán ser congruentes entre sí, regirán durante el año respectivo, las actividades de la Administración pública en su conjunto, y servirán de base para la integración de los anteproyectos de presupuesto anual que las propias dependencias, municipios y entidades, deberán elaborar de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 35.
 
-Los planes y programas a que se refieren los artículos anteriores, especificarán las acciones que serán objeto de coordinación entre los gobiernos de los municipios, del Estado y de la Federación, así como de inducción o concertación, con los grupos sociales interesados.
+Los planes y programas a que se refieren los artículos anteriores, especificarán, en el marco del Municipalismo Cooperativo e Interdependiente las acciones que serán objeto de coordinación entre los gobiernos de los municipios, del Estado y de la Federación, así como de inducción o concertación, con los grupos sociales interesados.
 
 ###### ARTICULO 36.
 
@@ -465,9 +509,11 @@ El propio Ejecutivo del Estado, las dependencias de la Administración Pública 
 
 Las políticas que normen el ejercicio de las atribuciones que faculten al Ejecutivo, para fomentar, promover, regular, restringir, orientar, prohibir, y en general, inducir acciones de los particulares en materia económica y social, deberán sujetarse a los objetivos y prioridades del Plan Estatal y sus programas.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 51.
 
-Tratándose de los Planes Municipales de Desarrollo y para los efectos del plazo para su elaboración, aprobación, vigencia, contenido, lineamientos generales, previsiones, publicación, revisión y adecuación, en su caso, así como lo referente a su obligatoriedad, concertación, inducción y las políticas que normen al ejercicio de las atribuciones que faculten a los Ayuntamientos, para inducir a los particulares y demás acciones derivadas de la ejecución de dichos documentos, se observará, en lo conducente lo dispuesto por los artículos 25, 26, 37, 38, 39, 40, 46 y 50 DE LA (sic) presente Lay (sic).
+Tratándose de los Planes Municipales de Desarrollo y para los efectos del plazo para su elaboración, aprobación, vigencia, contenido, lineamientos generales, previsiones, publicación, revisión y adecuación, en su caso, así como lo referente a su obligatoriedad, concertación, inducción y las políticas que normen al ejercicio de las atribuciones que faculten a los Ayuntamientos, para inducir a los particulares y demás acciones derivadas de la ejecución de dichos documentos, se observará, en lo conducente lo dispuesto por los artículos 25, 26, 37, 38, 39, 40, 46 y 50 de la presente Ley y demás disposiciones aplicables.
 
 ### CAPITULO SEXTO. RESPONSABILIDADES
 
@@ -524,3 +570,17 @@ P.O. 9 DE ENERO DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MARZO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE OS TRANSITORIOS DE DECRETO DE REFORMAS QUE SE RELACIONAN CON A LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+...
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario que se opongan al presente Decreto.
