@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1952-04-05"
+last_updated: "1954-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE ABRIL DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE MAYO DE 1954.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -37,9 +37,11 @@ Constitución Política del Estado de Sonora, que reforma la de 1º de Noviembre
 
 ## TITULO PRELIMINAR.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 1.
 
-Las garantías individuales son la base y el objeto de las instituciones sociales; en consecuencia, todos los funcionarios, autoridades y empleados del Estado y Municipios, tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades las garantías que la Constitución General de los Estados Unidos Mexicanos y el presente Código otorgan al hombre.
+Los derechos del hombre son la base y el objeto de las instituciones sociales. En el Estado de Sonora todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos. En consecuencia, las autoridades, los funcionarios y empleados del Estado y Municipios tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades, dichas garantías y las prerrogativas que esta Constitución Local concede.
 
 ###### Artículo 2.
 
@@ -53,23 +55,29 @@ Territorio y Partes Integrantes del Estado.
 
 Territorio.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 3.
 
-El Estado de Sonora lo constituye la extensión de tierra firme que hasta hoy ha poseído y sobre la cual ejerce actualmente jurisdicción y dominio; comprendiendo a la vez en su territorio las isletas e islas de El Tiburón, San Esteban, Lobos y demás que han estado sujetas a su jurisdicción.
+El Territorio del Estado de Sonora se constituye por la extensión de tierra firme que posee actualmente y sobre el cual ha ejercido y ejerce soberanía y jurisdicción y que está limitado por el Norte, con el territorio de los Estados Unidos de América; por el Sur, con el Estado de Sinaloa; por el Oriente, con el Estado de Chihuahua, de por medio la Sierra Madre Occidental, y por el Poniente con el Golfo de California y Estado de Baja California, conforme a los convenios correspondientes en sus respectivos casos; así como por toda otra extensión de terreno que por derecho le pertenezca. Comprende igualmente las islas de El Tiburón, San Estéban, Lobos y demás islas e isletas que han estado sujetas a su dominio.
 
 ### CAPITULO II.
 
 Partes integrantes del Estado.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 4.
 
-Las partes integrantes del Estado son los Municipios hasta hoy existentes y los que se erijan conforme a lo dispuesto por esta Constitución.
+Las partes integrantes del Estado son los municipios hasta hoy existentes y los que se erijan conforme a lo dispuesto por esta Constitución, sin perjuicio de las divisiones distritales que, por razón de orden, establezcan las leyes orgánicas y reglamentarias de las distintas ramas de la Administración.
 
-Una Ley Orgánica respectiva contendrá la designación de cada uno de los Municipios del Estado, así como la de las Comisarías que dependan de aquéllos.
+La Ley Orgánica respectiva contendrá la designación de cada uno de los municipios del Estado, así como la de las comisarías que dependan de aquéllos.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 5.
 
-Los Municipios continuarán con la extensión y límites que hasta hoy han tenido, siempre que no haya cuestión alguna a este respecto.
+Los municipíos continuarán con la extensión y límites que hasta hoy han tenido, salvo los casos a que se contraen las fracciones XII y XIII del Artículo 64 de esta Constitución.
 
 ###### Artículo 6.
 
@@ -83,119 +91,145 @@ Las Islas pertenecientes al Estado dependerán directamente del Ejecutivo mientr
 
 Habitantes del Estado.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 8.
 
-Los habitantes del Estado se clasificarán en Sonorenses, Mexicanos y Extranjeros.
+Los habitantes del Estado, por su condición política, se consideran como sonorenses, ciudadanos y extranjeros.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 9.
 
-Son Sonorenses:
+Son sonorenses:
 
-I. Los nacidos en Sonora de padres mexicanos.
+I. Los nacidos en el territorio del Estado.
 
-II. Los mexicanos de nacimiento o por naturalización, que tengan residencia efectiva por un año en el Estado.
+II. Los mexicanos que tengan una residencia efectiva de dos años en el Estado.
+
+III. Los hijos de padres sonorenses nacidos fuera del Estado, pero dentro del territorio de la República.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 10.
 
-Son Mexicanos los considerados así por la Constitución General de la República y que no tengan en el Estado el requisito de vecindad conforme a la fracción II que se refiere a los Sonorenses.
+Son ciudadanos del Estado los varones y las mujeres que teniendo la calidad de ciudadanos de la República, reúnan, además, la de Sonorenses.
 
 ###### Artículo 11.
 
 Son Extranjeros los considerados así por la Constitución General de la República.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 12.
 
-Son obligaciones de los Sonorenses:
+Son obligaciones de los sonorenses:
 
-I. Hacer que sus hijos o pupilos menores de quince años concurran a las escuelas públicas o privadas para obtener la instrucción primaria elemental y militar, durante el tiempo que marque la Ley de Educación Pública local.
+I. Enviar a sus hijos o pupilos menores de quince años a las escuelas públicas o privadas para obtener la instrucción primaria elemental y militar durante el tiempo que marque la Ley de Educación Pública.
 
-II. Asistir en los días y horas designados por el Ayuntamiento del lugar donde residan a recibir instrucción cívica y militar, que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas y conocedores de la disciplina militar.
+II. Acudir en los días y horas designados al llamado de la autoridad para obtener la instrucción cívica y militar correspondiente.
 
-III. Alistarse y servir en la Guardia Nacional que en el Estado se organice conforme a las leyes relativas, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la patria, así como la tranquilidad y el orden interiores.
+III. Alistarse y servir en la Guardia Nacional que en el Estado se organice conforme a las leyes relativas.
 
-IV. Contribuir para los gastos públicos así de la Federación como del Estado y Municipio en que resida de la manera proporcional y equitativa que dispongan las leyes.
+IV. Contribuir para los gastos públicos del Estado y municipios en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 
-V. Respetar y obedecer las leyes federales, las del Estado y las ordenanzas Municipales de donde residieren.
+V. Respetar y obedecer las leyes, instituciones y autoridades de la Federación, del Estado y del municipio.
 
-VI. Ayudar, en el lugar en donde se encuentren, a las autoridades del Estado en la conservación del orden.
+VI. Ayudar, en el lugar en donde se encuentren, a las autoridades del Estado a la conservación del orden.
 
-VII. Tomar las armas en defensa de la soberanía, leyes, instituciones y autoridades legítimas del Estado, cuando éstas lo requieran en los términos de Ley.
+VII. Tomar las armas en defensa de la soberanía, leyes, instituciones y autoridades legítimas del Estado, cuando éstas lo requieran en los términos de la Ley.
 
-VIII. Inscribirse en el Padrón y en el Catastro del Municipio donde residan, de acuerdo con las leyes relativas.
+VIII. Inscribirse de acuerdo con las leyes relativas en el padrón y catastro del municipio donde residan.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 13.
 
-Son obligaciones de los Mexicanos no Sonorenses:
+Son obligaciones de los ciudadanos sonorenses:
 
-I. Las mismas consignadas en esta Constitución para los Sonorenses.
+I. Las mismas enumeradas para los sonorenses.
 
-II. No inmiscuirse en asuntos políticos que se refieran al Estado o al Municipio donde vivan, mientras no adquieran, por vecindad, la calidad de Sonorenses.
+II. Votar en las elecciones populares del Estado en el distrito electoral o municipio que les corresponda.
+
+III. Desempeñar, cuando tengan los requisitos de Ley, los cargos de elección popular del Estado.
+
+IV. Desempeñar los cargos concejiles en el municipio donde residan, así como las funciones electorales y las de jurado, conforme lo ordenan las leyes respectivas.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 14.
 
-Son obligaciones de los Extranjeros:
+Son obligaciones de los extranjeros:
 
-I. Respetar y obedecer las leyes, instituciones y autoridades del Municipio, del Estado y de la Federación.
+I. Respetar y obedecer las leyes, instituciones y autoridades de la Federación, del Estado y del Municipio.
 
-II. Contribuir para los gastos públicos del Estado y del Municipio en que residan de la manera proporcional y equitativa que las leyes ordenen.
+II. Contribuir para los gastos públicos del Estado y Municipios en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 
 III. No inmiscuirse en asuntos políticos.
 
+IV. Inscribirse de acuerdo con las leyes relativas en el catastro del municipio donde residan.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 15.
 
-Son ciudadanos sonorenses, los Sonorenses que tengan la condición de Ciudadanos Mexicanos.
+Los mexicanos no sonorenses tienen las mismas obligaciones que los sonorenses. No podrán inmiscuirse en los asuntos políticos que se refieran al Estado o a los Municipios, mientras no adquieran la calidad de sonorenses.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 16.
 
-Son prerrogativas del ciudadano sonorense:
+Son derechos o prerrogativas del ciudadano sonorense:
 
 I. Votar en las elecciones populares del Estado.
 
-II. Poder ser votado para todos los cargos de elección popular en el Estado y nombrado para cualquiera otro empleo o comisión, siempre que tenga las calidades que la Ley establezca.
+II. Poder ser votado para los cargos de elección popular en el Estado y nombrado para cualquier otro empleo o comisión.
 
 III. Asociarse para tratar los asuntos políticos del Estado.
 
-IV. Tomar las armas en el Ejército o Guardia Nacional para la defensa de la República, del Estado y de sus instituciones en los términos que prescriban las leyes.
+IV. Tomar las armas en el Ejército o Guardia Nacional para la defensa de la República, del Estado y de sus instituciones.
 
-V. Ejercitar en toda clase de asuntos políticos el derecho de petición y ser preferido en igualdad de circunstancias, a los que no tengan este carácter, para toda clase de empleos, cargos o comisiones del Gobierno del Estado o del Municipio.
+V. Ejercer en toda clase de asuntos políticos el derecho de petición.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 17.
 
-Son obligaciones de los Ciudadanos Sonorenses:
+Los sonorenses, en igualdad de circunstancias, serán preferidos a los demás mexicanos para el desempeño de los cargos públicos o empleos del Estado, siempre que llenen los requisitos que las leyes exijan.
 
-I. Las mismas enumeradas para los Sonorenses.
-
-II. Inscribirse en el Catastro de la Municipalidad donde residan, manifestando la propiedad que tengan, la industria, profesión o trabajo de que subsistan, así como también inscribirse en el Padrón Municipal y en los Electorales, en los términos que determinen las leyes.
-
-III. Votar en las elecciones populares del Estado, en el Distrito Electoral o Municipio que les corresponda.
-
-IV. Desempeñar, cuando tengan los requisitos de Ley, los cargos de elección popular del Estado, que por ningún motivo serán gratuitos.
-
-V. Desempeñar los cargos concejiles en el Municipio donde residan, así como las funciones electorales y las de jurado, conforme lo ordenen las leyes respectivas.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 18.
 
-La calidad de Ciudadano Sonorense se pierde:
+La calidad de ciudadano sonorense se pierde:
 
-I. Por la pérdida de la ciudadanía mexicana.
+I. Por dejar de ser ciudadano mexicano.
 
-II. Por adquirir la condición de ciudadano de otra Entidad Federativa de la Unión.
+II. Por adquirir la condición de ciudadano de otro Estado de la República.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 19.
 
-Se suspenden las prerrogativas o derechos al Ciudadano Sonorense:
+Tienen suspensos los derechos o prerrogativas de ciudadanos del Estado:
 
-I. Cuando le hayan sido suspendidas sus prerrogativas o derechos como Ciudadano Mexicano y por las causas enumeradas en la Constitución General de la República.
+I. Los que hayan sido suspendidos en sus prerrogativas o derechos como ciudadanos mexicanos por las causas enumeradas en la Constitución General de la República.
 
-II. Cuando se dedique al tráfico y venta de bebidas embriagantes.
+II. Los que faltaron sin causa justificada a las obligaciones de ciudadano que les imponen las fracciones II, III y IV del Artículo 13 de esta Constitución.
 
-III. Cuando haga de los juegos de azar su modo de vivir.
+III. Los procesados desde que se dicte el auto de formal prisión hasta que cause ejecutoria la sentencia que los absuelva.
 
-IV. Cuando explote la prostitución y el vicio.
+IV. Los funcionarios y empleados públicos procesados por delitos comunes u oficiales, desde que se resuelva haber lugar a formación de causa hasta que se declare ejecutoriada la sentencia que los absuelva o extingan la pena que les fuere impuesta.
+
+V. Los que por sentencia ejecutoriada sean condenados a pena corporal o a suspensión de derechos hasta que la extingan.
+
+VI. Los que por causa de enfermedad mental tuvieren en suspenso el ejercicio de sus derechos civiles.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 20.
 
-La Ley determinará la duración de dicha suspensión, así como también cuando se pierden dichos derechos y los requisitos necesarios para que el Ciudadano Sonorense quede rehabilitado de sus prerrogativas o derechos suspendidos.
+Fuera de los casos ya especificados en el artículo anterior, la ley determinará la duración de la suspensión así como también cuando se pierden tales derechos y los requisitos necesarios para que el ciudadano sonorense quede rehabilitado en sus prerrogativas o derechos suspendidos.
 
 ## TITULO TERCERO.
 
@@ -219,21 +253,27 @@ La soberanía reside esencial y originariamente en el pueblo sonorense y se ejer
 
 El Estado de Sonora no reconoce en los Poderes Supremos de la Unión ni en otro alguno, derecho para pactar o convenir entre ellos o con nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 24.
 
-Los Supremos Poderes del Estado ejercerán todas aquellas facultades que se les confiere por la Constitución General de la República, ésta y las leyes que de ellas emanan.
+Los Supremos Poderes del Estado ejercerán todas aquellas facultades que se les confieren por la Constitución General de la República, esta Constitución Local y las leyes que de ellas emanen.
 
 ### CAPITULO II.
 
 Forma de Gobierno.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 25.
 
-De acuerdo con la Constitución General de los Estados Unidos Mexicanos, el Estado de Sonora adopta para régimen interior la forma de Gobierno Republicano, Representativo, Popular teniendo como base de su organización política y administrativa el Municipio Libre según la presente Constitución y las leyes que de ella emanen.
+De acuerdo con la Constitución General de de (sic) los Estados Unidos Mexicanos, el Estado de Sonora adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su división territorial y organización política y administrativa el Municipio Libre, según la presente Constitución y las leyes que de ella emanen.
 
 ### CAPITULO I.
 
 Disposiciones Generales.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ## TITULO CUARTO.
 
@@ -247,15 +287,19 @@ Poder Legislativo.
 
 ###### Artículo 26.
 
-El Supremo Poder del Estado se divide para su ejercicio en tres Poderes independientes entre sí, que se denominarán: PODER LEGISLATIVO, PODER EJECUTIVO Y PODER JUDICIAL.
+El Supremo Poder del Estado se divide para su ejercicio en LEGISLATIVO, EJECUTIVO Y JUDICIAL.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 27.
 
-No podrán reunirse dos o más Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
+No podrán reunirse dos o más Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo, excepto en el caso previsto por la fracción XXXIII del Artículo 64 de esta Constitución.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 28.
 
-Los Supremos Poderes del Estado residirán en la Capital del mismo. Esta será la Ciudad de Hermosillo, sin perjuicio de la facultad concedida al Congreso en el Artículo 64 de la fracción XIV de la presente Constitución.
+Los Poderes del Estado residirán en la capital del mismo. Esta será la ciudad de Hermosillo, sin perjuicio de la facultad concedida al Congreso en el Artículo 64 fracción XIV de la presente Constitución.
 
 ### CAPITULO III.
 
@@ -279,47 +323,41 @@ Elección de Diputados.
 
 Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
-> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 31.
 
-Se elegirán un Diputado Propietario y Suplente por cada Distrito Electoral. La división del Estado en Distritos Electorales se hará proporcionalmente a la población que arroje el último censo practicado, en el concepto de que los Distritos no podrán ser menos de nueve.
+La división del Estado en distritos electorales se hará proporcionalmente al número de habitantes. Los distritos electorales no podrán tener menos de veinticinco mil ni más de cien mil habitantes; y por cada uno de aquéllos se elegirá un diputado propietario y un suplente, en el concepto de que los distritos no podrán ser menos de nueve.
 
 ###### Artículo 32.
 
 La elección de Diputados será directa, en los términos que disponga la Ley Electoral.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 33.
 
-Para ser Diputado Propietario o Suplente al Congreso del Estado se requiere:
+Para ser diputado propietario o suplente al Congreso del Estado se requiere:
 
-I. Ser Ciudadano Sonorense en ejercicio de sus derechos políticos.
+I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
 
-II. Tener veinticinco años cumplidos al día de la elección.
+II. Tener veinticinco años cumplidos el día de la elección.
 
-> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+III. Haber residido en el Estado, cuando menos un año inmediatamente anterior al día en que se haga la elección, tratándose de los nativos del mismo; y cinco años inmediatamente anteriores al día de la elección, en el caso contrario.
 
-III. Haber residido en el Estado de Sonora, cuando menos un año inmediatamente anterior al día en que se haga la elección, para los nativos del Estado; y cinco años inmediatamente anteriores al día de la elección, para los no nacidos en él.
+IV. No haber desempeñado puesto alguno de elección popular durante el período constitucional en que se efectúe la elección.
 
-> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+V. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiese separado definitivamente de su puesto.
 
-IV. No haber sido Diputado Propietario, o Suplente en ejercicio por un año o más en el período inmediato anterior.
+VI. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado ni ejercido mando militar alguno en el distrito electoral de la elección, dentro del año inmediatamente anterior al día de la elección.
 
-> <small>(REFORMADA, B.O. 15 DE ENERO DE 1941)</small>
+VII. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
-V. No haber desempeñado el cargo de Gobernador del Estado dentro del año anterior al día de la elección.
+VIII. Ser nativo del distrito electoral respectivo, o no siéndolo tener cuando menos un año de residencia en él.
 
-> <small>(REFORMADA, B.O. 15 DE ENERO DE 1941)</small>
+IX. No haber sido diputado propietario en el período en que se efectúa la elección. Los suplentes podrán ser electos siempre que no hubiesen estado en ejercicio dentro de dicho período; pero los diputados propietarios no podrán ser electos con el carácter de suplentes.
 
-VI. No haber sido Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado, Juez de Primera Instancia, Agente Fiscal, Presidente Municipal, Visitador de Hacienda o Inspector Escolar, ni ejercido mando militar alguno en el Distrito Electoral de la Elección, dentro de los noventa días anteriores al de la elección.
-
-VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso.
-
-> <small>(REFORMADA, B.O. 24 DE JUNIO DE 1942)</small>
-
-VIII. Ser nativo del Distrito Electoral que represente, o no siéndolo y sí sonorense, tener cuando menos seis meses de residencia en él.
-
-IX. No haber sido condenado en juicio legal por algún delito infamante.
+X. No haber sido diputado o senador propietario al Congreso de la Unión, dentro del período en que se celebre la elección. Los diputados y senadores suplentes podrán ser electos con el carácter de propietarios siempre que no hubieren estado en ejercicio dentro del período en que se celebre la elección; pero los diputados y senadores propietarios no podrán ser electos con el carácter de suplentes.
 
 ###### Artículo 34.
 
@@ -329,9 +367,11 @@ Los Diputados rendirán la protesta de Ley ante el Congreso o ante la Diputació
 
 Instalación y funcionamiento del Congreso.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 35.
 
-El Congreso del Estado se instalará el día diez y seis de Septiembre.
+El Congreso del Estado se instalará el día dieciséis de septiembre del año de su elección.
 
 > <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
 
@@ -339,15 +379,17 @@ El Congreso del Estado se instalará el día diez y seis de Septiembre.
 
 El Congreso no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de las dos terceras partes del número total de sus miembros.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 37.
 
-Si el día señalado por la Ley para la instalación del Congreso no se presentaren todos los Diputados electos, los que asistieren compelerán a los ausentes a que concurran dentro de los primeros quince días, con la advertencia de que si no lo hacen, perderán su carácter. En este caso, se llamarán a los Suplentes con un plazo igual, y si tampoco se presentaren se declarará vacante el puesto y suspensos unos y otros, en el uso de sus derechos de ciudadano por todo el tiempo que deberían durar en su encargo.
+Si el día señalado por la Ley para la instalación del Congreso no se presentaren todos los diputados propietarios electos, o si una vez instalado no hubiere quórum para que ejerza sus funciones, los que asistieren compelerán a los ausentes a que concurran dentro de los primeros quince días, con la advertencia de que si no lo hacen perderán su carácter. En este caso se llamará a los suplentes con un plazo igual, y si tampoco se presentaren se declarará vacante el puesto y suspensos unos y otros en el uso de sus derechos de ciudadanos, por todo el tiempo que deberían durar en su encargo.
 
-> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 38.
 
-Cuando los Diputados que asistan oportunamente no constituyan las dos terceras partes, ni pueda, después de cumplirse con lo preceptuado en el Artículo anterior, instalarse el Congreso, el Ejecutivo del Estado convocará a elecciones extraordinarias en los Distritos cuyos representantes no se presentaren a ocupar su asiento en la Cámara.
+Una vez declarado vacante el puesto en los términos del Artículo anterior, el Ejecutivo del Estado convocará a elecciones extraordinarias en los Distritos cuyos Representantes no se hubieren presentado a ocupar su asiento en el Congreso, siempre que hayan de transcurrir más de seis meses para que se efectúen las elecciones ordinarias.
 
 ###### Artículo 39.
 
@@ -379,31 +421,35 @@ En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o 
 
 Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
 
-> <small>(REFORMADO, B.O. 15 DE ENERO DE 1941)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 46.
 
-El diez y seis de septiembre de cada año, fecha de apertura del primer período de sesiones ordinarias de Congreso, asistirán el Gobernador y el Presidente del Supremo Tribunal de Justicia, quienes respectivamente presentarán en el acto, un informe sobre el estado que guarda la Administración Pública.
+El día dieciséis de septiembre de cada año, fecha de la apertura del primer período de sesiones ordinarias del Congreso, asistirá el Gobernador quien rendirá, en el acto, un informe sobre el estado que guarde la administración pública en sus diversos ramos.
 
-> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 1949)</small>
-
-En el último año del ejercicio constitucional respectivo, el Gobernador deberá rendir el Informe a que este precepto se refiere, el día primero de septiembre, en la ceremonia de la toma de posesión del Gobernador electo para el siguiente período.
+El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere al día primero de septiembre, en el acto de la toma de posesión del Gobernador electo para el siguiente período.
 
 ###### Artículo 47.
 
 Los Diputados que no concurran a una sesión sin causa justificada, o sin permiso del Congreso, no tendrán derecho a la dieta correspondiente.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 48.
 
-El Diputado que falte a diez sesiones consecutivas sin causa justificada, o sin licencia previa del Congreso, no podrá concurrir hasta el periodo inmediato y se llamará desde luego a su Suplente.
+El diputado que falte a cinco sesiones consecutivas dentro del período, sin causa justificada o sin previa licencia del Congreso, no podrá concurrir sino hasta el período inmediato y se llamará desde luego a su suplente.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 49.
 
-Los Diputados Suplentes substituirán a los Propietarios en todas sus faltas temporales. En caso de falta absoluta, si ésta ocurriere en los últimos seis meses de su encargo, los Suplentes fungirán hasta concluirlo; pero si acaeciere antes, funcionarán solamente mientras se hace nueva elección de Propietario.
+Los diputados suplentes substituirán a los propietarios en todas sus faltas temporales y absolutas.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 50.
 
-Los Diputados en funciones, durante el período de su encargo, no podrán desempeñar comisión o empleo alguno de la Federación o de los otros Poderes del Estado, disfrutando sueldo o remuneración, a no ser que tengan licencia del Congreso; pero concedida que fuere esta licencia, cesarán en sus funciones legislativas, mientras desempeñen el empleo o comisión. La infracción de esta disposición se castigará con la pérdida del carácter de Diputado.
+Los diputados en funciones, durante el período de su encargo, no podrán desempeñar comisión o empleo alguno de la Federación, de los otros Poderes del Estado o del Municipio, disfrutando sueldo o remuneración, a no ser que tengan licencia del Congreso; pero concedida que fuere esta licencia, cesarán en sus funciones legislativas mientras desempeñan el empleo o comisión. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
 
 ###### Artículo 51.
 
@@ -443,13 +489,13 @@ El Supremo Tribunal sólo podrá iniciar leyes en el Ramo de Justicia.
 
 Las iniciativas presentadas por el Ejecutivo o por el Supremo Tribunal pasarán desde luego a Comisión. Todas las demás deberán sujetarse a los trámites que establezca el Reglamento de Debates, trámites que sólo podran ser dispensados por el voto de las dos terceras partes de los Diputados presentes.
 
-> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 56.
 
-Aprobado por el Congreso un Proyecto de Ley o de Acuerdo que constituya resolución que otorgue derechos o imponga obligaciones a determinadas personas individuales o morales, con expresión de sus nombres, lo pasará al Ejecutivo para su sanción y publicación inmediata, si éste no tuviere observaciones que hacer.
+Aprobado por el Congreso un proyecto de Ley o de decreto pasará al Ejecutivo para su sanción y publicación inmediata, si éste no tuviere observaciones que hacerle.
 
-Los demás Acuerdos de la Cámara se pasarán al mismo poder para su sanción y a efecto de que se comuniquen a los interesados si no ameritan observaciones del Ejecutivo.
+Los acuerdos de la Cámara se comunicarán al propio Ejecutivo para los efectos correspondientes.
 
 > <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
@@ -491,147 +537,153 @@ En la interpretación, reforma o abrogación de leyes se observarán los mismos 
 
 Facultades del Congreso.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 64.
 
 El Congreso tendrá facultades:
 
-I. Para iniciar leyes generales al Congreso de la Unión.
+I. Para iniciar leyes y decretos ante el Congreso de la Unión.
 
-II. Para determinar las profesiones que necesitan título para que sean ejercitadas en el Estado; las condiciones que deben llenarse para obtenerlo y las autoridades que deben expedirlo.
+II. Para determinar las profesiones que necesiten título para su ejercicio en el Estado, las condiciones que deban llenarse para obtenerlo y las autoridades que deban expedirlo.
 
-III. Para expedir leyes sobre el fraccionamiento de las grandes propiedades rústicas y sobre el patrimonio de familia, en los términos del Artículo 27 de la Constitución General de la República.
+III. Para expedir leyes sobre el fraccionamiento de las grandes propiedades rústicas y sobre el patrimonio de familia, en los términos del artículo 27 de la Constitución General de la República.
 
-IV. Para ratificar o no la erección de nuevos Estados dentro de los límites de los existentes, de conformidad con el Artículo 73 de la misma Constitución.
+IV. Para ratificar o no la creación de nuevos Estados dentro de los límites de los existentes, de conformidad con el artículo 73 de la propia Constitución General.
 
 V. Para establecer las bases de todo arreglo amistoso sobre límites del territorio de Sonora.
 
-VI. (DEROGADA, B.O. 29 DE ABRIL DE 1939)
+VI. Para reclamar ante quien corresponda las leyes que se expidan o los actos que se ejecuten por cualquiera autoridad federal o estatal, cuando ataquen la soberanía o independencia del Estado, o cuando por cualquiera causa aquéllos se consideren lesivos al mismo.
 
-VII. (DEROGADA, B.O. 29 DE ABRIL DE 1939)
+VII. Para dictar leyes relativas a la salubridad pública del Estado.
 
-VIII. Para dictar leyes conducentes a combatir el alcoholismo en el Estado.
+VIII. Para dictar leyes encaminadas a combatir el alcoholismo en el Estado.
 
-IX. Para determinar el número máximo de ministros de cultos religiosos que puedan ejercer su ministerio en el Estado, en las condiciones del Artículo 130 de la Constitución General de la República.
+IX. Para determinar el número máximo de ministros de cultos religiosos que puedan ejercer su ministerio en el Estado, en las condiciones del artículo 130 de la Constitución General de la República.
 
-X. Para reglamentar el funcionamiento, del Municipio Libre como base de la división territorial y de la organización política y administrativa del Estado.
+X. Para reglamentar el funcionamiento del Municipio Libre como base de la división territorial y de la organización política y administrativa del Estado.
 
-> <small>(REFORMADA, B.O. 28 DE ABRIL DE 1934)</small>
+XI. Para arreglar definitivamente los límites de los municipios, salvo el caso de que las cuestiones pendientes tengan un carácter contencioso.
 
-XI. Para arreglar definitivamente los límites de los Municipios y señalar la jurisdicción de las Comisarías.
+XII. Para erigir nuevos municipios dentro de los límites de los existentes, siendo necesario, al efecto:
 
-XII. Para erigir nuevos Municipios dentro de los límites de los existentes, siendo necesario, al efecto:
+a). Que la porción territorial de que se trate cuente con una población de diez mil habitantes cuando menos.
 
-A. Que la porción territorial de que se trate cuente con una población de mil habitantes por lo menos.
+b). Que se compruebe debidamente ante el Congreso que tiene elementos bastantes para proveer a su existencia política.
 
-B. Que, a juicio del Congreso, tenga elementos bastantes para proveer a su existencia política.
+c). Que se conceda al ayuntamiento o ayuntamientos afectados el derecho de ser oído dentro del término de dos meses, contados desde el día en que reciban la comunicación respectiva, sobre la conveniencia o inconveniencia de la nueva creación municipal.
 
-C. Que se oiga al Ayuntamiento o Ayuntamientos a que pertenezca sobre la conveniencia o inconveniencia de su erección en Municipio, quedando aquellos obligados a rendir el informe dentro de dos meses, a contar desde el día en que se les pida.
+d). Que igualmente se oiga sobre el particular al Ejecutivo del Estado. El informe de éste deberá rendirse dentro de los sesenta días de la fecha en que se hubiese solicitado.
 
-D. Que igualmente se oiga sobre el particular al Ejecutivo del Estado. Este informe debe rendirse dentro de los quince días de solicitado.
+e). Que la creación del nuevo municipio sea aprobada por las dos terceras partes de los miembros del Congreso.
 
-E. Que la erección del nuevo Municipio sea aprobada por las dos terceras partes de los Diputados presentes.
+XIII. Para suprimir aquéllos municipios que carezcan de elementos bastantes para proveer a su existencia política, siempre que la supresión sea aprobada por las dos terceras partes de los miembros del Congreso. Decretada la extinción se designará la jurisdicción dentro de la cual quedarán comprendidos los municipios desaparecidos.
 
-XIII. Para suprimir los Municipios que dejen de reunir las condiciones establecidas en la fracción anterior, siempre que dicha supresión sea aprobada por las dos terceras partes de los Diputados presentes, designando la jurisdicción dentro de la cual quedarán comprendidos.
+Para que la supresión tenga efecto se oirá al ayuntamiento o ayuntamientos interesados y al Ejecutivo del Estado, en los términos establecidos en los incisos c) y d) de la fracción anterior.
 
-XIV. Para cambiar la Capital del Estado.
+XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
-XV. Para computar los votos emitidos en las elecciones de Gobernador y declarar quien ha sido el electo para dicho cargo.
+XV. Para computar y calificar los votos emitidos en las elecciones de Gobernador y de Diputados y declarar quiénes han sido electos para los cargos respectivos.
 
-XVI. Para conceder licencias y aceptar la renuncia al Gobernador del Estado.
+XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
 
-> <small>(REFORMADA, B.O. 15 DE ENERO DE 1941)</small>
+XVII. Para constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador en sus faltas absolutas y en sus faltas temporales cuando éstas excedan de un mes.
 
-XVII. Para constituirse en Colegio Electoral y elegir ciudadano que deba substituir al Gobernador en sus faltas absolutas y en sus faltas temporales cuando éstas excedan de un mes.
+XVIII. Para aprobar o rechazar los nombramientos de los Magistrados al Supremo Tribunal de Justicia, que sean hechos por el Ejecutivo.
 
-> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
+XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-XVIII. Para constituitse (sic) en Colegio Electoral y nombrar a los Magistrados del Supremo Tribunal de Justicia. Para nombrar al Procurador General de Justicia, de entre los Candidatos propuestos por el Ejecutivo del Estado.
-
-XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo, en caso de enfermedad plenamente justificada, y por más de dos meses sin goce de sueldo.
-
-XX. Para calificar, con estricta sujeción a las leyes, las elecciones de sus miembros y las de Gobernador.
+XX. Para erigirse en Colegio Electoral y calificar, previo el examen de las protestas formuladas, los votos emitidos en las elecciones, a que se refiere la fracción XV; computar dichos votos y hacer la declaratoria correspondiente.
 
 XXI. Para erigirse en Gran Jurado en los casos establecidos por esta Constitución.
 
 XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Egresos del Estado, en vista de los datos que le presente el Ejecutivo.
 
-XXIII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos del Estado, que le presente el Ejecutivo, sin contravenir las disposiciones relativas de la Constitución General.
+XXIII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos que le presente el Ejecutivo.
 
-> <small>(REFORMADA, B.O. 28 DE SEPTIEMBRE DE 1932)</small>
+XXIV. Para discutir, modificar, aprobar o reprobar anualmente, los presupuestos de ingresos y egresos de los ayuntamientos.
 
-XXIV. Para discutir, modificar, aprobar o reprobar anualmente los presupuestos de ingresos y egresos de los Ayuntamientos.
+XXV. Para examinar la cuenta de cada año, y cuando el Congreso lo pida, le presentará el Ejecutivo, debiendo comprender dicho exámen, no sólo la conformidad de las erogaciones con las partidas del Presupuesto de Egresos, sino también la exactitud y justificación de tales erogaciones.
 
-XXV. Para examinar las cuentas de los gastos de la administración pública del Estado, que cada año y cuando el Congreso lo pida deberá presentarle el Gobernador, con objeto de determinar si las partidas gastadas concuerdan con las del Presupuesto, y si están debidamente justificadas las erogaciones.
+XXVI. Para crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuir sus dotaciones.
 
-XXVI. Para crear y suprimir empleos públicos del Estado, y señalar, aumentar o disminuir las dotaciones.
+XXVII. Para autorizar al Ejecutivo a fin de que contraiga deudas a nombre del Estado, fijándole expresamente las bases a que deba sujetarse, sin contravenir al artículo 117 de la Constitución General de la República.
 
-XXVII. Para autorizar al Ejecutivo a que contraiga deudas en nombre del Estado, fijándole expresamente las bases a que debe sujetarse, sin contravenir el Artículo 117 de la Constitución General.
+XXVIII. Para conceder amnistías por delitos cuyo conocimiento corresponda privativamente a los Tribunales del Estado.
 
-XXVIII. Para aprobar o reprobar los nombramientos de Secretario General de Gobierno y de Tesorero General del Estado, que haga el Ejecutivo.
+XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
 
-XXIX. Para conceder amnistías o indultos por delitos cuyo conocimiento corresponda privativamente a los Tribunales del Estado.
+XXX. Para aprobar o reprobar la creación de nuevas Comisarías o suprimir las existentes, a iniciativa de los ayuntamientos correspondientes.
 
-XXX. Para conceder premios o recompensas por servicios eminentes prestados al Estado y para conceder pensiones, ya se trate de los agraciados personalmente, de sus viudas, ascendientes o descendientes inmediatos.
+XXXI. Para formar su Reglamento Interior y el de Debates, y tomar las providencias necesarias para hacer concurrir a los diputados ausentes y corregir las faltas u omisiones de los presentes.
 
-XXXI. Para examinar y aprobar los reglamentos que formen el Ejecutivo, el Supremo Tribunal y los Ayuntamientos, para el mejor desempeño de sus funciones.
+XXXII. Para nombrar y remover conforme a las leyes a los empleados de su Secretaría y de su oficina de Glosa.
 
-XXXII. Para formar su Reglamento Interior y el de Debates y tomar las providencias necesarias para hacer concurrir a los Diputados ausentes y corregir las faltas de los presentes.
+XXXIII. Para investir al Ejecutivo de facultades extraordinarias, por tiempo limitado y por el voto de las dos terceras partes del número total de sus miembros, en casos excepcionales y cuando así lo estime conveniente por las circunstancias especiales en que se encuentre el Estado. En tales casos se expresará con toda claridad la facultad o facultades con que se le invista y que nunca podrá ser las de organización municipal, funciones electorales y de jurado.
 
-XXXIII. Para nombrar y remover, conforme a las leyes, a los empleados de su Secretaría y de la Oficina de Glosa.
+XXXIV. Para expedir reglamentos sobre la instrucción de la Guardia Nacional, con sujeción a la fracción XV del artículo 73 de la Constitución General de la República.
 
-XXXIV. Para investir al Ejecutivo de facultades extraordinarias, por tiempo limitado, cuando a juicio del Congreso el bien del Estado lo exija. Esta concesión debe ser acordada por las dos terceras partes de los Diputados presentes.
+XXXV. Para velar por la conservación de los derechos de los ciudadanos y habitantes del Estado y proveer, por cuantos medios estén a su alcance, a su prosperidad general.
 
-XXXV. Para discutir, modificar, aprobar o reprobar, los Reglamentos que le presente el Ejecutivo sobre la instrucción y disciplina de la Guardia Nacional, cuando el Estado sea autorizado para tenerla, según el Artículo 118 de la Constitución General.
+XXXVI. Para establecer la nomenclatura política de los poblados del Estado y legislar en todo lo concerniente a su fundo legal, planificación y urbanización, observándose, en su caso, lo que en la misma materia prescriban las leyes federales.
 
-XXXVI. Velar incesantemente por la conservación de los derechos civiles, políticos y naturales de los ciudadanos y habitantes del Estado y proveer, por cuantos medios estén a su alcance, a su prosperidad general.
+XXXVII. Para calificar definitivamente las elecciones de los ayuntamientos, cuando se pida la nulidad de tales elecciones.
 
-XXXVII. Para decretar las leyes concernientes a la Administración y Gobierno Interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas, y todas las demás que le confieran la Constitución General de la República, la presente y las leyes que de ellas emanen.
+XXXVIII. Para resolver, con estricta sujeción a las leyes, en caso de petición de nulidad, sobre la validez de las elecciones de Gobernador y de diputados.
 
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 1923)</small>
+XXXIX. Para dictar leyes sobre vías de comunicación y aprovechamiento de aguas y bosques que no sean de jurisdicción federal; y sobre el ejercicio, explotación y aprovechamiento de la caza.
 
-XXXVIII. Para calificar definitivamente las elecciones de Ayuntamiento y Comisarios de Policía cuando se pida la nulidad de tales elecciones.
+XL. Para autorizar al Ejecutivo del Estado a fin de crear fuerzas de servicio temporal en los casos a que se refiere la fracción XIII del Artículo 79 de esta Constitución.
+
+XLI. Para conceder permiso al Gobernador del Estado a fin de que pueda asumir el mando, inmediata y personalmente, en campaña, de la Guardia Nacional y demás fuerzas del Estado.
+
+XLII. Para extender credenciales de senadores al Congreso de la Unión, por el Estado, a los ciudadanos que obtuvieren la mayoría de votos.
+
+XLIII. Para expedir leyes o reglamentos concernientes a la recta aplicación de la Ley Federal del Trabajo, en las materias que ésta encomienda a las autoridades estatales.
+
+XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
 #### SECCION VI.
 
 Diputación Permanente.
 
-> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 65.
 
-El mismo día en que el Congreso deba cerrar sus sesiones para entrar en receso, antes de verificarlo nombrará de su seno, por maría (sic) de votos y en escrutineo (sic) secreto, una Comisión Permanente compuesta de cuatro Miembros Propietarios y un Suplente, que durará hasta el nuevo período de sesiones. El primero y segundo de los miembros propietarios nombrados serán el Presidente y el Vice-Presidente de la Comisión y el último el Secretario. El Suplente será llamado a suplir indistintamente al Propietario que falte.
+El mismo día en que el Congreso deba cerrar sus sesiones, antes de entrar en receso nombrará por mayoría de votos y en escrutinio secreto, una Diputación Permanente compuesta de tres miembros propietarios y dos suplentes, que durará hasta el nuevo período ordinario de sesiones. El primero y segundo de los miembros propietarios nombrados serán Presidente y Vice-Presidente, respectivamente, de la Diputación y el otro Secretario. Los suplentes serán llamados a substituir indistintamente al propietario que falte.
 
-> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+La Diputación Permanente no podrá ejercer sus funciones sin la concurrencia de tres de sus miembros.
 
 ###### Artículo 65 Bis.
 
-La Comisión Permanente no podrá ejercer sus funciones sin la concurrencia del número total de sus miembros.
+(DEROGADO, B.O. 5 DE MAYO DE 1954)
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 66.
 
-Son facultades de la Comisión Permanente:
+Son facultades de la Diputación Permanente:
 
-I. Conceder licencias hasta por un mes, por causa grave y urgente al Gobernador del Estado.
+I. Conceder o negar las licencias a que se refiere la fracción XVI del artículo 64 de esta Constitución.
 
-II. Conceder licencias hasta por un mes, a los Magistrados del Supremo Tribunal y al Procurador General de Justicia.
+II. Conceder licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él, a los Magistrados del Supremo Tribunal de Justicia.
 
-III. Vigilar por la exacta observancia de la Constitución General, la particular del Estado y las leyes que de ésta emanen, dando cuenta al Congreso de las infracciones que advierta.
+III. Vigilar la exacta observancia de la Constitución General, la Particular del Estado y las leyes que de éstas emanen, dando cuenta al Congreso de las infracciones que advierta.
 
-IV. Circular la convocatoria a sesiones extraordinarias por medio del Presidente, si después del tercer día de comunicada al Ejecutivo, éste no lo hubiese verificado.
+IV. Circular la convocatoria a sesiones extraordinarias por medio del Presidente, si después del tercer día de comunicada al Ejecutivo éste no lo hubiese hecho.
 
-> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
-
-V. Constituirse un Colegio Electoral y nombrar en los términos de Ley, a los ciudadanos que deben sustituir a los funcionarios indicados en la fracción I y II q´ (sic) anteceden, en sus faltas temporales o absolutas, mientras se reúne el Congreso.
+V. Constituirse en Colegio Electoral y nombrar en los términos de Ley al Ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas, mientras se reúne el Congreso para que ratifique dicho nombramiento o haga nueva designación.
 
 VI. Recibir durante sus funciones las protestas que deban otorgarse ante el Congreso.
 
-> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+VII. Convocar al Congreso a sesiones extraordinarias para que provea al nombramiento respectivo cuando se trate de cubrir las faltas del Gobernador, igualmente lo hará para que se avoque al conocimiento de los hechos correspondientes, cuando se trate de delitos cometidos por altos Funcionarios del Estado, y en todos aquellos casos que a juicio de la misma Diputación Permanente, sean de gravedad y urgencia.
 
-VII. Convocar al Congreso a sesiones extraordinarias para que provea en la forma correspondiente, cuando se trata de cubrir las faltas de los funcionarios a que se contrae la fracción I y II de este Artículo; cuando igualmente se trate de delitos cometidos por altos funcionarios del Estado, y en todos aquellos casos que a su juicio sea de gravedad y urgencia.
+VIII. Dictaminar únicamente los asuntos cuya resolución definitiva sea de su exclusiva competencia.
 
-> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 1928)</small>
+IX. Conceder permiso provisional al Gobernador del Estado a fin de que pueda asumir el mando inmediato y personalmente, en campaña, de la Guardia Nacional y demás fuerzas del Estado. Este permiso quedará sujeto a la aprobación del Congreso.
 
-VIII. Dictaminar únicamente en los asuntos cuya resolución definitiva sea de su exclusiva competencia.
+X. Las demás que expresamente le confiere esta Constitución.
 
 #### SECCION I.
 
@@ -644,6 +696,8 @@ Poder Judicial.
 #### SECCION II.
 
 Hacienda del Estado.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 67.
 
@@ -663,9 +717,13 @@ Ministerio Público.
 
 Municipios y Comisarías.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 #### SECCION V.
 
 Defensoría de Oficio.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 68.
 
@@ -675,233 +733,269 @@ El ejercicio del Poder Ejecutivo se deposita en un sólo individuo que se denomi
 
 La elección de Gobernador será popular directa, en los términos que disponga la Ley Electoral.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 70.
 
-Para ser Gobernador del Estado de Sonora, propietario, interino o provisional, se requiere:
+Para ser Gobernador del Estado se requiere:
 
-I. Ser mexicano por nacimiento e hijo de padres mexicanos.
+I. Ser mexicano por nacimiento e hijo de padres mexicanos, nativo del Estado y con residencia efectiva en él no menor de seis meses inmediatamente anteriores al día de la elección; y no siendo originario de Sonora tener cuando menos diez años de residencia efectiva inmediatamente anteriores al día de la elección.
 
-II. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
+II. Ser ciudadano del Estado en pleno ejercicio de sus derechos políticos.
 
-> <small>(REFORMADA, B.O. 24 DE JUNIO DE 1942)</small>
+III. Tener treinta y cinco años cumplidos el día de la elección.
 
-III. Ser nativo de Sonora y haber residido en el Estado seis meses antes al día de la elección, o en caso de no serlo, tener cuando menos diez años de residencia inmediatamente anteriores al día de la elección.
+IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-IV. Ser mayor de treinta años para el día de la elección.
+V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en el año inmediatamente anterior al día de la elección.
 
-V. No pertenecer al estado eclesiástico ni ser ministro de algún culto.
-
-VI. No haber figurado directa o indirectamente en alguna asonada, motín o cuartelazo.
-
-VII. No haber sido condenado en juicio legal por algún delito infamante.
-
-> <small>(REFORMADA, B.O. 24 DE JUNIO DE 1942)</small>
-
-VIII. No haber desempeñado alguno de los cargos de Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno o Tesorero General del Estado, seis meses antes a la fecha de la elección.
-
-> <small>(ADICIONADA, B.O. 24 DE JUNIO DE 1942)</small>
-
-IX. No estar en servicio activo en el Ejército Nacional cuando menos seis meses antes del día de la elección.
+VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
 
 ###### Artículo 71.
 
 Las funciones de Gobernador son incompatibles con cualquier cargo o empleo de la Federación o del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE FEBRERO DE 1943)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 72.
 
-El Ciudadano designado en elección popular para ocupar el puesto de Gobernador del Estado entrará a ejercer su encargo el primero de septiembre, durando en él seis años y no podrá en el resto de su vida volver a ser electo para el mismo puesto ni desempeñarlo provisional o interinamente.
+El Gobernador durará en su encargo seis años. Tomará posesión el día primero de septiembre posterior a la elección previa formal protesta ante el Congreso, de guardar y hacer guardar la Constitución General de la República y la presente Constitución, así como las leyes que de ellas emanen y cumplir leal y patrióticamente las obligaciones de su encargo.
 
-> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
-
-Tampoco podrá en el resto de su vida ser electo ni desempeñar provisional o interinamente el puesto del Gobernador del Estado el ciudadano que resulte designado en elección extraordinaria a que convoque el Congreso para suplir la falta absoluta de Gobernador que ocurra conforme a lo prevenido en el artículo 73 o párrafo primero del Artículo 74 de esta Constitución.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 73.
 
-En caso de falta absoluta del Gobernador, ocurrida dentro de los dos primeros años de su período, si el Congreso estuviere en sesiones, se constituirá en Colegio Electoral inmediatamente y con la concurrencia cuando menos de las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Provisional. El mismo Congreso expedirá desde luego la convocatoria a elecciones para Gobernador. Si el Congreso no estuviere en sesiones, la Diputación Permanente, nombrará desde luego un Gobernador Provisional y convocará a aquél a sesiones extraordinarias, para que ratifique dicho nombramiento o nombre nuevo Gobernador Provisional, y para que en todo caso expida inmediatamente la convocatoria a elecciones para Gobernador.
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo ni aún con carácter de interino, provisional, substituto o encargado del despacho.
 
-Cuando la falta de Gobernador ocurriere dentro de los dos últimos años de su período, si el Congreso del Estado se encontrare en sesiones, se erigirá en Colegio Electoral y elegirá el Gobernador Interino que deberá concluir dicho período. Si el Congreso no estuviere reunido, la Diputación Permanente, nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección de un Gobernador Interino que termine el período.
+Nunca podrá ser electo en el período inmediato:
 
-El ciudadano que hubiere sido nombrado en definitiva Gobernador Provisional para cubrir la falta absoluta de Gobernador durante la primera mitad del período, no podrá ser electo en las elecciones que se celebren para cubrir dicha falta.
+a). El Gobernador substituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación.
 
-El nombrado Gobernador Provisional durante la primera mitad del período, podrá ser electo por el Congreso como Interino para terminar el período, si dentro de la segunda mitad de éste, vuelve a ocurrir nueva falta absoluta.
+b). El Gobernador Interino, el Provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, B.O. 15 DE ENERO DE 1941)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 74.
 
-Cuando la falta de Gobernador fuere por más de un mes, por cualquier causa, el Congreso designará un Gobernador Interino para que funcione mientras dure la falta. Si la falta, de temporal se convierte en absoluta, se procederá como lo dispone al artículo anterior.
+En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino, que tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
 
-El nombrado Gobernador Interino en el caso de falta temporal no quedará inhabilitado para ser electo en el período inmediato, siempre que no hubiere funcionado dentro del año anterior al de la elección.
+Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
 
-El Gobernador Interino, nombrado en definitiva para terminar el período constitucional, no podrá ser electo para el período siguiente.
+Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período respectivo, si el Congreso se encontrare en sesiones, designará al Gobernador substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Diputación Permanente nombrará un Gobernador provisional y convocará inmediatamente al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación del Gobernador substituto.
+
+El Gobernador provisional podrá ser electo por el Congreso como Gobernador substituto.
+
+El ciudadano que hubiere sido nombrado Gobernador interino, en caso de falta absoluta del titular, ocurrida en los dos primeros años del período respectivo, no podrá ser designado en las elecciones que se celebren con ese motivo.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 75.
 
-Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha y declada (sic) el primero de Septiembre, cesará sin embargo en sus funciones el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo del Estado, un Gobernador Provisional nombrado conforme a los Artículos anteriores.
+Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la declaratoria respectiva para el día en que deba tener lugar la renovación, o el Gobernador electo no se presentare a desempeñar el cargo, cesará no obstante el saliente, supliendo inmediatamente la falta el Presidente del Supremo Tribunal de Justicia, y el Congreso si se hallare en funciones, nombrará Gobernador interino. En caso de que el Congreso esté en receso, la Diputación Permanente lo convocará inmediatamente para que haga la designación de Gobernador interino, procediéndose conforme a lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ### CAPITULO XVII. DE LA DECLARATORIA DE EMERGENCIA
 
 ###### Artículo 76.
 
-El cargo de Gobernador no es renunciable sino por causa grave que calificará el Congreso, ante quien deberá presentarse la renuncia.
+Si por cualquier motivo el Congreso no pudiere hacer el nombramiento a que se refieren los artículos 74 y 75, ni expedir la convocatoria a que se contrae el mismo artículo 74, o hubiere por alguna circunstancia acefalía de los Poderes Legislativo y Ejecutivo del Estado, el Presidente del Supremo Tribunal de Justicia se hará cargo del Poder Ejecutivo.
+
+En el caso previsto en el párrafo anterior, el encargado del Poder Ejecutivo convocará inmediatamente a elecciones tanto de Gobernador como de diputados, las que se verificarán en un período de tiempo que en ningún caso excederá de tres meses y sólo dejará de hacerlo en lo que respecta a la de Gobernador cuando falten seis meses o menos para que se verifique la renovación de Poderes, conforme a las disposiciones relativas de esta Constitución.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 77.
 
-El Gobernador, al tomar posesión de su encargo, rendirá ante el Congreso o ante la Diputación Permanente en los recesos de aquél, la protesta que previene el Artículo 157 de esta Constitución.
+El Gobernador podrá ausentarse del territorio del Estado o separarse de su cargo hasta por quince días, dando aviso al Congreso o a la Diputación Permanente. Por un término mayor que no exceda de treinta días, necesitará permiso del Congreso o de la Diputación Permanente. En uno y otro caso asumirá las funciones de Gobernador interino el Secretario de Gobierno o quien haga sus veces. Cuando la ausencia o la separación del cargo exceda de treinta días, se procederá en los términos de las fracciones XVII del artículo 64 y V del 66 de esta Constitución.
 
-> <small>(REFORMADO, B.O. 15 DE ENERO DE 1941)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ### CAPÍTULO XVIII. DE LAS DONACIONES PARA AUXILIAR A LA POBLACIÓN
 
 ###### Artículo 78.
 
-El Gobernador podrá ausentarse del territorio del Estado hasta por diez días, dando aviso al Congreso o a la Diputación Permanente, quedando en funciones de Gobernador Interino el Secretario de Gobierno.
+El cargo de Gobernador del Estado sólo es renunciable por causa grave calificada por el Congreso, ante el que se presentará la renuncia.
 
-Si la ausencia del Gobernador excede de diez días hasta un mes, necesitará permiso del Congreso o de la Diputación Permanente de acuerdo con la fracción I del artículo 66, debiendo una vez concedido éste, asumir las funciones de Gobernador Interino el propio Secretario de Gobierno.
-
-Si la ausencia del Gobernador excede de un mes, el Congreso designará quien lo substituya.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 79.
 
 Son facultades y obligaciones del Gobernador:
 
-I. Promulgar y ejecutar las leyes federales; sancionar, promulgar y ejecutar las que expida el Congreso del Estado, y formar en la parte administrativa los Reglamentos necesarios para la exacta observancia de las segundas.
+I. Promulgar sin demora las leyes y decretos, y los acuerdos en su caso; ejecutarlos y hacer que se ejecuten; y formar en la parte administrativa y de conformidad con las disposiciones de la ley, los reglamentos necesarios para la exacta observancia de los mismos.
 
-II. Velar por la conservación del orden y tranquilidad del Estado.
+II. Velar por la conservación del orden, tranquilidad y seguridad del Estado.
 
-III. Iniciar leyes ante el Congreso Local que tiendan al mejoramiento de la administración pública y progreso del Estado.
+III. Iniciar ante el Congreso las leyes y decretos que juzgue convenientes para el mejoramiento de la administración pública y progreso del Estado.
 
-IV. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones.
+IV. Hacer cumplir las resoluciones de los tribunales y prestar a éstos los medios que necesiten para el ejercicio expedito de sus funciones.
 
-V. Cuidar de que las autoridades del orden administrativo cumplan estrictamente las obligaciones que les impongan la Constitución General, ésta y las leyes que de ellas emanen, corrigiendo las faltas que notare con multas que no excedan de cien pesos o arresto hasta por quince días. En caso de delito deberá consignar a los responsables, ya sean miembros de algún Ayuntamiento, Comisarios o cualquier otro funcionario o empleado del orden administrativo, a la autoridad competente para que se instruyan los procesos respectivos.
+V. Cuidar de que las Autoridades que dependan del Ejecutivo cumplan estrictamente con las obligaciones que les imponen la Constitución Federal, esta Local y las leyes que de ellas emanen, corrigiendo las faltas que notare con multa hasta de trescientos pesos o con arresto que no exceda de treinta y seis horas. Si el infractor no pagare la multa que se le hubiere impuesto, se le aplicará en su lugar el arresto correspondiente que en ningún caso excederá de quince días. El Ejecutivo impondrá asimismo las correcciones disciplinarias que procedan por las faltas en que incurrieren el Secretario de Gobierno, el Procurador General de Justicia y el Tesorero General del Estado.
 
-VI. Imponer como pena correccional a los particulares que desobedecieren sus órdenes o le faltaren al respeto en su carácter oficial, multas que no excedan de cien pesos o arresto hasta por quince días.
+VI. Imponer como pena correccional a los particulares que desobedecieren sus órdenes o le faltaren al respeto en su carácter oficial, multa que no excederá de trescientos pesos o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, so (sic) permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
 
-VII. Presentar, al principio del primer período de sesiones ordinarias, al Congreso, los Presupuestos de Ingresos y Egresos del año siguiente, y al principio del segundo período de sesiones la cuenta de gastos del año próximo anterior.
+Si el infractor fuese jornalero u obrero, no podrá ser sancionado con multa mayor del importe de su jornal o sueldo en una semana.
 
-> <small>(REFORMADA, B.O. 29 DE JUNIO DE 1949)</small>
+VII. Presentar cada año ante el Congreso durante la primera quincena del mes de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y en la primera quincena del segundo periodo de sesiones ordinarias, la cuenta de gastos del año anterior.
 
-VIII. Concurrir el día diez y seis de septiembre de cada año, fecha de apertura del primer período ordinario de sesiones del Congreso y presentar en este acto, un informe detallado sobre el estado de la Administración Pública el último año de su período, deberá presentar dicho Informe en la ceremonia de toma de posesión del ciudadano electo que lo substituya.
+VIII. Concurrir a la apertura del primer período de sesiones ordinarias del Congreso, para rendir el informe a que se refiere el artículo 46 de esta Constitución.
 
-IX. Concurrir a la apertura de las sesiones extraordinarias del Congreso cuando él las haya promovido.
+IX. Concurrir a la apertura de las sesiones extraordinarias que hubiere solicitado del Congreso, con objeto de explicar los motivos en que haya fundado la convocatoria.
 
-X. Mandar informar ante el Congreso al Secretario de Gobierno o al Tesorero General, sobre los asuntos que se discutan para la mejor ilustración de la Cámara, cuando lo juzgue conveniente o cuando aquélla lo solicitare.
+X. Informar al Congreso por sí, por conducto del Secretario de Gobierno o de la persona que al efecto designe, sobre cualquier ramo de la administración, cuando el mismo Congreso lo solicite.
 
-> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
+XI. Nombrar y remover a todos los Funcionarios y empleados dependientes del Ejecutivo, cuyo nombramiento o remoción no corresponda a otra Autoridad.
 
-XI. Nombrar y remover a los funcionarios y empleados públicos cuyo nombramiento no esté determinado por esta Constitución y demás leyes. Remitir al Congreso terna para el nombramiento de Procurador General de Justicia, cuando vacare este puesto o cuando deba hacerse nueva designación.
+XII. Ejercitar todas las facultades que consigna el artículo 27 de la Constitución General, siempre que no estén reservadas al Gobierno Federal o concedidas a la autoridad municipal.
 
-XII. Cuando vacare algún empleo y no estuviere previsto el modo de cubrir dicha vacante, el Gobernador tendrá la facultad de nombrar un empleado interino para que la llene sólo mientras se provee legalmente la substitución.
-
-XIII. En caso de invasión o de conmoción interior, tomar de acuerdo con el Congreso o la Diputación Permanente, las medidas extraordinarias que sean indispensables para mantener el orden. En el segundo caso pedirá que se convoque inmediatamente al Congreso a sesiones extraordinarias y desde luego dará cuenta a dicha asamblea del empleo que haya hecho de tales facultades.
+XIII. En caso de invasión o de conmoción interior, tomar, de acuerdo con el Congreso o la Diputación Permanente, las medidas extraordinarias que sean indispensables para mantener el orden. En el segundo caso pedirá que se convoque inmediatamente al Congreso a sesiones extraordinarias y desde luego dará cuenta a dicha Asamblea del empleo que haya hecho de tales facultades.
 
 XIV. En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o de la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Estado no fueren bastantes para restablecer el orden.
 
-XV. Excitar a los Ayuntamientos, Presidentes Municipales y Comisarios en los casos que a su juicio sea necesario, para el mejoramiento de los distintos ramos de administración de los Municipios.
+XV. Excitar a los ayuntamientos y presidentes municipales en los casos en que a su juicio fuere necesario para el mejoramiento de los distintos ramos de la administración de los municipios.
 
-XVI. Dar órdenes a los Presidentes Municipales y Comisarios sobre los asuntos relativos a los ramos cuya administración general en el Estado corresponda al Ejecutivo, conforme a las leyes reglamentarias respectivas.
+XVI. Dar órdenes a los presidentes municipales y comisarios sobre los asuntos relativos a los ramos cuya administración general en el Estado corresponda al Ejecutivo, conforme a las leyes reglamentarias respectivas.
 
-XVII. Nombrar de las ternas que le proponga el Procurador General de Justicia, los Agentes del Ministerio Público.
+XVII. Declarar la utilidad pública y decretar la expropiación, de acuerdo con lo prevenido en el artículo 27 de la Constitución General, ajustando sus procedimientos a las leyes correspondientes.
 
-XVIII. Nombrar los Defensores de Oficio, a propuesta en terna del Jefe de la Institución.
+XVIII. Formar y aprobar, en su caso, el Reglamento interior de cada una de sus dependencias.
 
-XIX. Nombrar persona que represente en juicio a la Hacienda Pública en los casos que lo estime conveniente.
+XIX. Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente, delegar esa representación.
 
-XX. Mandar la fuerza pública del Estado y disponer de la Policía del Municipio donde resida habitual o transitoriamente.
+XX. Ejercer el mando supremo de las fuerzas del Estado y movilizarlas según las necesidades públicas; así como disponer de la policía del municipio donde resida habitual o transitoriamente.
 
-XXI. Pedir a la Diputación Permanente que convoque al Congreso a sesiones extraordinarias.
+XXI. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
 
-XXII. Hacer observaciones a las leyes y acuerdos del Congreso en los casos prescritos por esta Constitución.
+XXII. Hacer observaciones por una sola vez en el improrrogable término de diez días útiles, salvo el caso a que se refiere el artículo 59, a las leyes y decretos aprobados por el Congreso, y promulgarlos y hacerlos ejecutar desde luego, si el propio Congreso, después de haberlos reconsiderado, los ratifica.
 
-XXIII. Informar a la Secretaría de Estado del Interior, sobre la conveniencia o inconveniencia de permitir se dediquen nuevos locales a cultos religiosos.
+XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-XXIV. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquella incurriere.
+XXIV. Nombrar y remover libremente al Secretario de Gobierno, Procurador General de Justicia y Tesorero General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia, sometiéndola a la aprobación del Congreso.
 
-XXV. Nombrar al Secretario de Gobierno y Tesorero General del Estado sometiendo dichos nombramientos a la aprobación de la Legislatura.
+XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
-> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+XXVI. Presentar ante el Congreso, al terminar su período constitucional, una memoria sobre el estado de los negocios públicos, expresando cuáles sean las deficiencias que hubiere observado en la Administración y qué medidas en su concepto deben aplicarse para subsanarlas.
 
-XXVI. Nombrar a los Oficiales de Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
+XXVII. Fomentar, por todos los medios posibles, la educación popular y procurar el adelanto social, favoreciendo el mejoramiento moral, cívico y material de la colectividad.
 
-XXVII. Otorgar las dispensas matrimoniales para cuya concesión lo faculta la Ley, pudiendo delegar esta facultad en los Presidentes Municipales.
+XXVIII. Organizar y disciplinar la Guardia Nacional y las demás fuerzas del Estado y ejercer, respecto de una y otras, el mando conforme a las atribuciones que le conceden las Constituciones General y Local.
 
-XXVIII. Expedir los títulos profesionales con arreglo a las leyes.
+XXIX. Visitar a los municipios del Estado, cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo y dando cuenta al Congreso o al Supremo Tribunal de Justicia de las faltas que observare y cuyo remedio corresponda a los Poderes Legislativo y Judicial.
 
-XXIX. Las demás que le asignen las leyes, ya sean federales, o del Estado.
+XXX. Dictar las medidas urgentes encaminadas a la conservación y mejoramiento de la salubridad pública general del Estado.
+
+XXXI. Formar la estadística del Estado.
+
+XXXII. Dictar las disposiciones necesarias para la instalación o funcionamiento de la Junta Central de Conciliación y Arbitraje, a que se refiere la fracción XX del artículo 123 de la Constitución General de la República.
+
+XXXIII. Nombrar al representante que le corresponde en la Junta de Conciliación y Arbitraje, a que se refiere la fracción XX del artículo 123 de la Constitución General.
+
+XXXIV. Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular.
+
+XXXV. Cuidar, de acuerdo con el artículo 130 de la Constitución General, que los ministros de los cultos sean mexicanos por nacimiento.
+
+XXXVI. Turnar al Procurador General de Justicia los asuntos que deban ventilarse ante los tribunales, para que ejercite las atribuciones de su ministerio. Sin embargo, el Ejecutivo podrá nombrar a algún abogado que lo represente en determinado asunto cuando así lo crea conveniente.
+
+XXXVII. Cuidar de que las elecciones se efectúen en el tiempo señalado por las leyes relativas.
+
+XXXVIII. Organizar el sistema penal sobre la base de trabajo como medio de regeneración.
+
+XXXIX. Conceder, conforme a las Leyes, indulto necesario a los reos sentenciados por delitos de la competencia de los Tribunales del Estado.
+
+XL. Las demás que le asignen las leyes, ya sean federales o del Estado.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 80.
 
 Le está prohibido al Gobernador:
 
-I. Mandar personalmente en campaña la fuerza pública de que puede disponer, sin previo permiso del Congreso, o en su defecto, de la Diputación Permanente. El permiso de esta última tendrá carácter de provisional y quedará sujeto a la aprobación del Congreso.
+I. Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso del Congreso, o en su receso, de la Diputación Permanente.
 
-II. Recomendar asuntos a las autoridades judiciales, contrariar en cualquiera forma de las resoluciones dictadas por éstas y disponer de las personas de los reos durante los procesos.
+II. Recomendar asuntos a las autoridades judiciales; contrariar en cualquier forma las resoluciones dictadas por éstas, y disponer de los reos durante los procesos.
 
-III. Oponerse y hacer observaciones a los acuerdos del Congreso en que se le pida informe sobre asuntos públicos.
+III. Oponerse y hacer observaciones a los acuerdos del Congreso en que se le pidan informes sobre asuntos públicos.
 
-IV. Impedir que las elecciones se verifiquen en los días señalados por la Ley.
+IV. Impedir que las elecciones se verifiquen en los días señalados por la ley.
 
-V. Suspender o impedir las sesiones del Congreso.
+V. Impedir, por ningún motivo, ni directa ni indirectamente, el libre ejercicio de las funciones del Congreso.
 
-VI. Distraer los caudales públicos de los objetos a que estén destinados por la Ley.
+VI. Distraer los caudales públicos del Estado de los objetos a que están destinados por las leyes.
 
-VII. Decretar la prisión de ninguna persona ni privarla de su libertad, sino cuando el bien y la seguridad del Estado lo exijan y aun entonces deberá ponerla libre o a disposición de la autoridad competente en el preciso término de setenta y dos horas, salvo el caso de las fracciones V y VI del Artículo anterior.
+VII. Ordenar la aprehensión o la detención de persona alguna, o privarla de su libertad, excepto en los casos en que la ley lo autorice para hacerlo. En tales casos, deberá ponerla inmediatamente a disposición de la autoridad competente.
+
+VIII. Ocupar la propiedad particular fuera de los casos prescritos por las leyes.
+
+IX. Imponer contribución alguna, salvo el caso de que esté legalmente facultado para ello.
+
+X. Disponer en ningún caso, bajo pretexto alguno, de las rentas municipales.
+
+XI. Disponer sin facultades legales y fuera de los casos que la ley lo permita, de los bienes pertenecientes al Estado.
+
+XII. Disponer en ningún caso, bajo ningún pretexto, de los bienes considerados como propios del municipio.
+
+XIII. Conceder licencias para juegos de azar.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ### CAPÍTULO XIX. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 81.
 
-Para el despacho de los negocios del orden administrativo en el Estado, habrá un Secretario que se denominará "Secretario de Gobierno" y para serlo se requiere:
+Para el despacho de los negocios que esta Constitución encomienda al Ejecutivo habrá un Secretario de Gobierno. Para ocupar este puesto son necesarios los mismos requisitos que para ser Gobernador.
 
-I. Ser mexicano de nacimiento.
-
-II. Ser Ciudadano Sonorense en ejercicio de sus derechos políticos.
-
-III. No pertenecer al estado eclesiástico ni ser ministro de algún culto.
-
-IV. Ser mayor de veinticinco años.
-
-V. Tener por lo menos un año de residencia en el Estado inmediatamente anterior a la fecha de su nombramiento.
-
-VI. No haber sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito infamante.
-
-La calificación de delito infamante será hecha por el Congreso.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 82.
 
-Los decretos, reglamentos, circulares u órdenes, así como los acuerdos que resuelvan en definitiva un asunto administrativo, que expida el Ejecutivo en uso de sus facultades, sólo serán obedecidos si van firmados por él y por el Secretario de Gobierno o por el Oficial que haga sus veces.
+Todas las leyes, decretos, reglamentos, circulares, acuerdos y órdenes que suscriba el Gobernador deberán en todo caso ser autorizados con la firma del Secretario de Gobierno y comunicados por éste. Los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, así como los despachos que expida, deberán ir refrendados por el Secretario de Gobierno y sin este requisito no surtirán efectos legales.
+
+> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+
+Artículo 82 A. Para auxiliar al Secretario de Gobierno en sus funciones y para sustituirlo en sus faltas temporales, habrá un Oficial Mayor de la Secretaría con las atribuciones que le asigne el Reglamento Interior de la misma. El Oficial Mayor de la Secretaría deberá llenar los mismos requisitos que se exigen para el Secretario de Gobierno.
 
 #### SECCION I.
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 83.
 
-La Hacienda del Estado se formará de contribuciones que gravitarán esencialmente sobre los capitales, multas, bienes mostrencos, herencias vacantes, producto de contratos y demás ingresos que determine la Ley.
+La Hacienda del Estado se constituirá por las contribuciones que decrete el Congreso y los demás ingresos que determinen las leyes fiscales; los bienes que correspondan al Estado como persona civil; los edificios públicos del mismo; los créditos que tenga a su favor; sus propias rentas, y las herencias vacantes.
 
 ###### Artículo 84.
 
 Los ingresos no tendrán otro objeto que cubrir los gastos decretados por el Congreso, y las contribuciones se establecerán sólo en los casos estrictamente necesarios para que, unidas a las demás fuentes de ingresos, cubran dichos gastos.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 85.
 
-Habrá una Tesorería General donde entren todos los caudales del Estado a cargo del Tesorero General. Este hará la distribución de los fondos conforme a las leyes y será responsable por los gastos que haga sin estar fijados en ellas.
+La recaudación de las contribuciones se encomienda a una oficina que se llamará Tesorería General del Estado.
+
+La Tesorería General estará a cargo de un Tesorero, dependiente del Poder Ejecutivo.
+
+Para la recaudación de las contribuciones y para el pago de los gastos, el Tesorero General deberá sujetarse estrictamente a las leyes de presupuestos y demás relativas.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ### CAPÍTULO XXI. DE LA INSPECCIÓN, CONTROL Y VIGILANCIA
 
 ###### Artículo 86.
 
-El Ejecutivo no podrá expedir órdenes de recaudación o pago sino por conducto de la Tesorería General y de acuerdo con la Ley.
+Todos los pagos que efectúe el Tesorero General se harán mediante orden escrita y firmada por el Gobernador y por el Secretario de Gobierno, en la que deberá expresarse la partida del presupuesto a cargo de la cual se hace el pago, pues las asignaciones respectivas se aplicarán únicamente al objeto a que están destinadas.
 
 ###### Artículo 87.
 
 Sólo los empleados de Hacienda manejarán caudales del Estado.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 88.
 
-Todo empleado de Hacienda que tenga algún manejo en los caudales del Estado lo afianzará competentemente bajo la responsabilidad del que lo nombre.
+El Tesorero General del Estado y todos los empleados de Hacienda que tengan manejo de caudales públicos, otorgarán, previamente, ante el Ejecutivo, fianza suficiente para garantizarlo de acuerdo con la ley respectiva.
 
 #### SECCION II.
 
@@ -919,89 +1013,93 @@ La Educación Pública, quedará bajo la dirección del Ejecutivo del Estado y s
 
 La Educación en Sonora, se ajustará a los principios y términos que se consignan en la Constitución General de la República.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 91.
 
-La enseñanza oficial será gratuita durante toda la educación primaria.
+Toda la educación que imparta el Estado será gratuita.
 
 ###### Artículo 92.
 
 Ninguna corporación religiosa, ni ministro de algún culto religioso, por sí o por interpósita persona, podrán establecer o dirigir escuelas de instrucción primaria, ni servir empleos en las escuelas oficiales.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ### CAPITULO XXII. DE LA DETECCIÓN DE ZONAS DE RIESGO
 
 ###### Artículo 93.
 
-La enseñanza primaria elemental será obligatoria para todos los niños y niñas, sonorenses o no sonorenses, que se hallen en edad escolar. Para aquellos que por el lugar de su residencia no puedan concurrir a las escuelas elementales, será obligatoria únicamente la educación rudimentaria que se imparta en las escuelas rurales.
-
-> <small>(ADICIONADO, B.O. 24 DE JUNIO DE 1942)</small>
-
-Es obligación del Gobierno del Estado el mantenimiento y difusión de la enseñanza universitaria.
+La educación primaria será obligatoria para todos los niños comprendidos en edad escolar y para todos los adultos analfabetos menores de cuarenta años. Para aquéllos que por el lugar de su residencia no puedan concurrir a las escuelas elementales, el Estado y los municipios crearán los establecimientos de educación rudimentaria, la que también será obligatoria.
 
 ###### Artículo 94.
 
 El Estado tendrá la obligación de establecer o hacer que se establezcan, de acuerdo con la parte relativa, fracción XII del Artículo 123 de la Constitución General, escuelas permanentes en todos los lugares cuya población escolar llegue a veinte niños.
 
+> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+
+Artículo 94 A. La enseñanza normal será protegida preferentemente por el Gobierno del Estado, como un medio de cumplir con la obligación ineludible que tienen tanto él como el municipio, de impartir la enseñanza primaria obligatoria.
+
+Es obligación del Gobierno del Estado fomentar y difundir la Enseñanza Universitaria.
+
 ###### Artículo 95.
 
 La institución del Ministerio Público representa los intereses de la Sociedad conforme a las atribuciones que le confiere esta Constitución y demás leyes.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 96.
 
 Son atribuciones del Ministerio Público:
 
-I. Ejercer las acciones penales.
+I. Ejercitar la acción penal.
 
-II. Cuidar de que se ejecuten las penas impuestas por los Tribunales, exigiendo de quien corresponda y bajo su más estricta responsabilidad, el cumplimiento de las sentencias recaídas.
+II. Cuidar de que se ejecuten las penas impuestas por los tribunales, exigiendo de quien corresponda y bajo su más estricta responsabilidad el cumplimiento de las sentencias recaídas.
 
-III. Intervenir en los juicios hereditarios y de quiebra; en los que se interesen ausentes, menores, incapacitados o establecimientos de beneficencia pública, a quienes representará velando por sus intereses.
+III. Intervenir en los juicios hereditarios y en todos aquellos que afecten a las personas a quienes las leyes otorgan especial protección, y en los que se interese establecimiento de beneficencia pública, a los cuales representará velando por sus intereses.
 
-IV. Hacer efectivas las responsabilidades criminales de los funcionarios y empleados públicos.
+IV. Hacer efectiva la responsabilidad criminal de los funcionarios y empleados públicos.
 
-V. Defender la Hacienda Pública del Estado, en juicio, siempre que el Ejecutivo no provea a la procuración conforme a la Ley.
+V. Defender a la Hacienda Pública del Estado en juicio, siempre que el Ejecutivo no provea a la procuración conforme a la Ley.
 
-VI. Cuidar de que se lleven conforme a las leyes los protocolos de los Notarios y del Registro Público de la Propiedad.
+VI. Cuidar de que se lleven conforme a las leyes los protocolos y libros de los notarios, los libros del Registro Público de la Propiedad y los del Registro Civil.
 
-VII. Intervenir en las Juntas de Vigilancia de las Cárceles, para exigir que se cumpla con los Reglamentos respectivos.
+VII. Intervenir en las juntas de vigilancia de cárceles para exigir que se cumpla con los reglamentos respectivos.
 
-VIII. Comunicar al Supremo Tribunal los defectos que encontrare en las leyes así como las irregularidades y deficiencias que observen en las autoridades encargadas de aplicarlas.
+VIII. Informar al Supremo Tribunal sobre los defectos que encontrare en las leyes, así como de las irregularidades o deficiencias que observare en las autoridades encargadas de aplicarlas.
 
 IX. Rendir a los Poderes del Estado los informes que le pidan sobre asuntos relativos a la institución.
 
-X. Las demás que le señalen las leyes, tanto federales como del Estado.
+X. Las demás que le señalan las leyes, tanto federales como del Estado.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 97.
 
-El Ministerio Público se ejercerá por un Procurador de Justicia y los Agentes de su dependencia.
+El Ministerio Público será desempeñado por un funcionario que se denominará Procurador General de Justicia y por los agentes que determine la Ley.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 98.
 
-El Procurador General de Justicia será electo por el Congreso a propuesta en terna que haga el Ejecutivo, debiendo durar en su encargo cuatro años y pudiendo ser reelecto para los períodos sucesivos.
+El Procurador General de Justicia será nombrado por el Ejecutivo en los términos de la fracción XXIV del Artículo 79 de esta Constitución.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 99.
 
-Para ser Procurador General de Justicia se requiere:
+Para ser Procurador General de Justicia se necesitan los mismos requisitos que para ser Magistrado del Supremo Tribunal.
 
-> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 1947)</small>
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos, abogado con título legalmente expedido y con práctica profesional de 3 años, cuando menos.
-
-II. No haber sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito infamante.
-
-> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 1947)</small>
-
-III. Tener cuando menos 30 años de edad y ser de reconocida moralidad.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 100.
 
-El cargo de Procurador General de Justicia no es renunciable sino por causa grave calificada por el Congreso.
+El Procurador General rendirá la protesta de la Ley ante el Gobernador del Estado.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 101.
 
-El Procurador rendirá la protesta de Ley ante el Congreso o la Diputación Permanente en su caso.
+Para la investigación de los delitos existirá un cuerpo auxiliar denominado Policía Judicial, la cual estará bajo la autoridad y mando directo del Procurador.
 
 > <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
 
@@ -1009,29 +1107,25 @@ El Procurador rendirá la protesta de Ley ante el Congreso o la Diputación Perm
 
 Las faltas accidentales y temporales del Procurador General de Justicia, se suplirán en la forma que determine la Ley Orgánica del Ministerio Público.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 103.
 
-Al Ejecutivo del Estado corresponderá vigilar al Procurador e imponerle las correcciones que procedan.
+Todas las autoridades del Estado tienen el deber, para facilitar las labores del Ministerio Público, de prestarle auxilio cuando lo necesite, y el de proporcionarle todos los datos y elementos que pidiere en el desempeño de su encargo.
 
 ###### Artículo 104.
 
 Los Agentes del Ministerio Público serán nombrados por el Ejecutivo, a propuesta en terna del Procurador de Justicia.
 
-> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### Articulo 105.
+###### Artículo 105.
 
-Para ser Agente del Ministerio Público se requieren los mismos requisitos que para ser Procurador General de Justicia, con excepción del título profesional de Abogado.
+Para ser agente del Ministerio Público precisan los mismos requisitos que para ser Juez de Primera Instancia, los cuales serán calificados por el Procurador, con la misma salvedad de la fracción I del artículo 124, en su parte final.
 
 ###### Artículo 106.
 
-Son atribuciones y deberes de la Defensoría de Oficio:
-
-I. Defender a los procesados que expresamente lo pidan y a los que no nombren defensor.
-
-II. Patrocinar o representar a los que necesiten habilitación para litigar por causa de pobreza, tramitándoles desde el incidente relativo.
-
-III. Intervenir en los demás asuntos que le encomienden las leyes.
+Habrá en el Estado una institución que se denominará Defensoría de Oficio. Su misión será defender a los reos en asuntos penales y patrocinar a quienes lo soliciten, en materia civil y administrativa, en los casos establecidos por la ley orgánica correspondiente.
 
 ### CAPÍTULO XXIII. DE LA ATENCIÓN A LA POBLACIÓN RURAL AFECTADA POR CONTINGENCIAS CLIMATOLÓGICAS
 
@@ -1039,11 +1133,13 @@ III. Intervenir en los demás asuntos que le encomienden las leyes.
 
 Será desempeñada por un Jefe de Defensores y los Defensores que instituya la Ley.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ### CAPITULO XXIV. DE LA ATENCION A LAS EMERGENCIAS
 
 ###### Artículo 108.
 
-El Jefe de Defensores será nombrado y removido por el Ejecutivo, a quien corresponderá vigilarlo e imponerle las correcciones que procedan.
+El Jefe de Defensores y los defensores de oficio serán nombrados y removidos por el Ejecutivo.
 
 ###### Artículo 109.
 
@@ -1053,45 +1149,43 @@ Para ser Jefe de Defensores se necesitan los mismos requisitos que para ser Proc
 
 El Jefe de Defensores rendirá la protesta de Ley ante el Ejecutivo y será substituído en sus faltas temporales por el Defensor del lugar de su residencia.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 111.
 
-Para ser Defensor de Oficio se requieren los mismos requisitos que para ser Agente del Ministerio Público. Los Defensores serán nombrados por el Ejecutivo, a propuesta en terna del Jefe de Defensores.
+Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agente del Ministerio Público.
 
 ### CAPÍTULO X. DE LA CULTURA DE PROTECCIÓN CIVIL
 
 ###### Artículo 112.
 
-El Poder Judicial se deposita, para su ejercicio, en un Supremo Tribunal de Justicia y en los Jueces de Primera Instancia, Locales y Menores.
+El Poder Judicial se depositará para su ejercicio en un Supremo Tribunal de Justicia, en los juzgados de Primera Instancia, locales y menores, y en los demás organismos que la ley establezca.
 
-> <small>(REFORMADO, B.O. 5 DE ABRIL DE 1952)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia se compondrá de cinco Magistrados Propietarios y ocho Suplentes, electos cada cuatro años por el Congreso del Estado, pudiendo ser reelectos. Los que fueren electos en el curso del período desempeñarán sus funciones hasta la conclusión del mismo.
+El Supremo Tribunal de Justicia se compondrá de cinco Magistrados propietarios y ocho suplentes, nombrados cada seis años, pudiendo los designados ser reelectos, y tomarán posesión de su encargo el día 16 de Septiembre del año en que se inicie el período Constitucional del Ejecutivo. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que lo formen hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período desempeñarán sus funciones hasta la conclusión del mismo. Habrá también Magistrados insaculados, cuya designación se hará en la forma que establezca la Ley Orgánica respectiva.
 
-Habrá también Magistrados Insaculados, cuyo nombramiento se hará en la forma que lo indica la Ley Orgánica respectiva.
+Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del término de cinco días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobado los nombramientos. Sin aprobación expresa o tácita no podrán tomar posesión del cargo.
 
-> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros cinco días el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento cesará desde luego en sus funciones de Magistrado provisional y el Gobernador del Estado someterá nuevo nombramiento para su aprobación en los términos señalados.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 114.
 
-Para ser Magistrado se requiere:
+Para ser magistrado se requiere:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
+I. Ser mexicano por nacimiento; nativo del Estado, o no siéndolo tener residencia efectiva en él no menor de cinco años inmediatamente anteriores al día de la elección, y estar en pleno ejercicio de sus derechos políticos.
 
-> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 1947)</small>
+II. Tener treinta años cumplidos el día de la elección.
 
-II. Tener cuando menos 30 años cumplidos al tiempo de la elección.
-
-III. No haber sido condenado en proceso legal por ningún delito.
+III. No haber sido condenado en proceso por ningún delito.
 
 IV. Ser de reconocida moralidad.
 
-> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 1947)</small>
-
-V. Tener oficialmente expedido título de abogado y 3 años de práctica profesional, cuando menos.
-
-El requisito señalado en esta última fracción no será exigible para los magistrados suplentes o insaculados.
+V. Poseer el día de la elección, con antigüedad mínima de cinco años, título de licenciado en derecho, expedido por autoridad o corporación legalmente facultada para ello, y tener tres años cuando menos, de práctica profesional reconocida.
 
 ###### Artículo 115.
 
@@ -1103,11 +1197,11 @@ El cargo de Magistrado solamente es renunciable por causa grave calificada por e
 
 Los Magistrados Propietarios y Suplentes, rendirán la protesta de Ley ante el Congreso del Estado o ante la Diputación Permanente, y los insaculados ante el Presidente del Supremo Tribunal.
 
-> <small>(REFORMADO, B.O. 5 DE ABRIL DE 1952)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 117.
 
-El Supremo Tribunal del Justicia funcionará, conforme a las prescripciones de la Ley Orgánica respectiva, en Sala Colegiada que se integrará por los cinco Magistrados, y en Salas Unitarias que se distinguirán por la numeración ordinal, Primera, Segunda, Tercera, Cuarta y Quinta.
+El Supremo Tribunal de Justicia funcionará conforme a las prescripciones de la Ley Orgánica respectiva, en Tribunal Pleno que se integrará por los cinco magistrados, y en Salas Unitarias que se distinguirán por la numeración ordinal primera, segunda, tercera, cuarta y quinta.
 
 > <small>(REFORMADO, B.O. 5 DE ABRIL DE 1952)</small>
 
@@ -1115,91 +1209,97 @@ El Supremo Tribunal del Justicia funcionará, conforme a las prescripciones de l
 
 El Supremo Tribunal de Justicia tendrá un Presidente, y lo será el Magistrado electo cada año por mayoría de votos de sus miembros.
 
-> <small>(REFORMADO, B.O. 20 DE ABRIL DE 1949)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 119.
 
-Tendrá también los Secretarios que fueren necesarios para el despacho de los asuntos de su competencia.
+Tendrá también un Secretario General y los demás que fueren necesarios para el despacho de los asuntos de su competencia.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 120.
 
-Son facultades y obligaciones del Supremo Tribunal de Justicia:
+Son facultades y obligaciones del Supremo Tribunal:
 
-I. Conocer de juicios civiles.
+I. Conocer en segunda instancia de los juicios civiles.
 
-II. Conocer de juicios penales.
+II. Conocer en segunda instancia de los juicios penales.
 
-III. Decidir, conforme a la Ley, de las competencias de jurisdicción que se susciten en el Estado entre sus autoridades judiciales.
+III. Dirimir las competencias de jurisdicción que se susciten entre los jueces del Estado; así como las que surjan entre cualquiera autoridad judicial del Estado y la Junta Central de Conciliación y Arbitraje, y entre aquéllas y las juntas municipales de conciliación.
 
-IV. Nombrar y remover a los Jueces de Primera Instancia conforme lo establezca la Ley.
+IV. Nombrar y remover a los jueces de primera instancia y aceptarles su renuncia en la forma y términos señalados por la Ley.
 
-> <small>(REFORMADA, B.O. 20 DE ABRIL DE 1949)</small>
+V. Nombrar y remover a sus Secretarios y a sus demás empleados subalternos, así como aceptarles su renuncia.
 
-V. Nombrar y remover a sus Secretarios y a sus empleados subalternos.
+VI. Aprobar los nombramientos de los jueces locales y menores que hagan los de primera instancia.
 
-VI. Nombrar y remover a los Visitadores de Juzgados.
-
-VII. Conceder licencia hasta por dos meses, sin goce de sueldo, y con aquel, sólo en caso de enfermedad debidamente justificada, a los Jueces y empleados que nombre.
+VII. Conceder licencia a los funcionarios y empleados cuyo nombramiento le compete, de acuerdo con lo que determinen las leyes relativas.
 
 VIII. Formar su Reglamento Interior.
 
-IX. Iniciar leyes relativas a su ramo.
+IX. Iniciar leyes y decretos ante el Congreso, en lo concerniente al ramo de justicia.
 
-X. Apoyar o contradecir las peticiones de indulto.
+X. Dictaminar sobre las peticiones de indulto necesario.
 
-XI. Vigilar a las autoridades judiciales para que administren debida justicia y dictar las medidas necesarias para remediar los males que notare sobre el particular, sin entorpecer nunca las funciones de los Jueces.
+XI. Ejercer debida vigilancia sobre los jueces y empleados judiciales, para la expedita y adecuada administración de justicia, dictando las medidas necesarias a fin de corregir las anomalías que notare; pero sin entorpecer las funciones de los jueces.
 
-XII. Ordenar visitas a las Cárceles.
+XII. Ordenar visitas a los establecimientos de reclusión penal y adoptar y proponer las medidas correspondientes, según el resultado de aquéllos.
 
-XIII. Señalar los honorarios de los Magistrados Suplentes cuando actúen solo en determinados negocios y no haya arancel.
+XIII. Autorizar el pago de los honorarios de los magistrados suplentes y de los insaculados, cuando ejercieren funciones.
 
-XIV. Informar al Congreso acerca de las omisiones y contradicciones que notare en las leyes.
+XIV. Proponer al Congreso se tomen las medidas encaminadas a remediar las omisiones y contradicciones que observare en las leyes.
 
-XV. Dar al Congreso y al Ejecutivo los informes que le pidan sobre el Ramo Judicial.
+XV. Rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo judicial.
 
-XVI. Las demás que le confieran o demarquen las leyes, ya sean federales o del Estado.
+XVI. Conocer de las controversias que se susciten entre el Ejecutivo del Estado y los Ayuntamientos.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+XVII. Conocer de conformidad con las leyes relativas de los juicios de responsabilidad en delitos oficiales.
+
+XVIII. Las demás que le confieran o impongan las leyes.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 121.
 
-Si un Magistrado se excusase o tuviere impedimento para conocer de un asunto y éste fuere de la competencia de la Sala Unitaria, se pasarán los autos a la siguiente por orden numérico repitiendo la serie; agotadas las Salas, se llamará a los Magistrados Suplentes hábiles, por su orden. Si el asunto fuere de Sala Colegiada, se llamará desde luego al Suplente que corresponda, y agotado el número de Propietarios y Suplentes, se procederá a integrar la Sala Unitaria o Colegiada en su caso, con Magistrados insaculados.
+Si un magistrado se excusare o tuviere impedimento para conocer de un asunto de la competencia de Sala Unitaria, pasarán los autos a la siguiente por orden numérico; agotadas las salas, se llamará a los magistrados suplentes, por su orden. Si el asunto fuere de Tribunal Pleno, se llamará desde luego al suplente que corresponda. En uno y otro caso, agotado el número de propietarios y suplentes se procederá a integrar el Pleno o la Sala Unitaria con magistrados insaculados.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 122.
 
-Los Ministros que estén en el ejercicio de sus funciones, no pueden ser abogados o apoderados de negocios ajenos, asesores, árbitros de derecho, ni obtener comisión alguna del Gobierno del Estado y de la Federación.
+Los magistrados que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto de los suplentes, no pueden ser abogados en negocios ajenos, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras Entidades, de los municipios, o de particulares, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas.
 
 ###### Artículo 123.
 
 Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, durando en su ejercicio dos años y podrán desempeñar el cargo en períodos sucesivos.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 124.
 
-Para ser Juez de Primera Instancia se requiere:
+Para ser juez de primera instancia se requiere:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos y tener cuando menos veinticinco años de edad.
+I. Ser mexicano en pleno ejercicio de sus derechos políticos, tener veinticinco años cumplidos el día del nombramiento y título de Licenciado en Derecho. Este último requisito podrá dispensarse por el Supremo Tribunal de Justicia sólo por imposibilidad y entre tanto haya persona titulada dispuesta a desempeñar el cargo.
 
-II. Tener la competencia necesaria a juicio del Supremo Tribunal, no haber sido condenado en juicio legal por ningún delito infamante y ser de reconocida moralidad.
+II. No haber sido condenado en proceso en ningún delito y ser de reconocida moralidad.
 
-> <small>(REFORMADO, B.O. 27 DE ABRIL DE 1932)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 125.
 
-Los Jueces Locales y Menores serán nombrados cada dos años por los Jueces de Primera Instancia, con aprobación del Supremo Tribunal de Justicia del Estado y podrán ser reelectos.
+Los jueces locales y menores serán nombrados cada dos años por los jueces de primera instancia del ramo civil. El nombramiento será sometido a la aprobación del Supremo Tribunal.
 
-> <small>(REFORMADO, B.O. 27 DE ABRIL DE 1932)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 126.
 
-Para ser Juez Local o Menor se requiere:
+Para ser juez local o menor se requiere:
 
-I. Ser mexicano, ciudadano en pleno ejercicio de sus derechos y mayor de veinticinco y veintiún años respectivamente.
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y tener veinticinco y veintiún años cumplidos, respectivamente, el día del nombramiento.
 
-II. No haber sido condenado a pena corporal por delitos del orden común y ser de reconocida buena conducta y moralidad.
+II. No haber sido condenado en proceso por ningún delito y ser de reconocida moralidad.
 
-III. Tener la competencia necesaria a juicio del Juez que lo nombre.
+III. Tener la competencia necesaria para el desempeño del cargo, a juicio del juez que lo nombre.
 
 ###### Artículo 127.
 
@@ -1213,55 +1313,53 @@ MUNICIPIO LIBRE.
 
 ###### Artículo 128.
 
-El Estado quedará dividido para su Gobierno en Municipios y Comisarías.
+El Estado quedará dividido para su gobierno en municipios, de acuerdo con el artículo 25 de esta Constitución.
 
-> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 129.
 
-Cada Municipio será administrado por un Ayuntamiento nombrado en elección popular directa. No habrá autoridad ninguna intermediaria entre el Ayuntamiento y el Ejecutivo del Estado. El número de Concejales que integre los Ayuntamientos será determinado por la Ley Orgánica relativa, debiendo en todo caso no ser menor de tres.
-
-> <small>(ADICIONADO, B.O. 5 DE ABRIL DE 1952)</small>
-
-En las elecciones municipales participarán las mujeres en igualdad de condiciones que los hombres, con el derecho de votar y ser votadas.
+Cada municipio será administrado por un Ayuntamiento nombrado en elección popular directa. No habrá ninguna autoridad intermedia entre el Ayuntamiento y el Ejecutivo del Estado.
 
 ###### Artículo 130.
 
 Los Municipios tendrán personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, B.O. 24 DE FEBRERO DE 1943)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 131.
 
-Los miembros de los Ayuntamientos durarán en su encargo tres años y comenzarán a funcionar el 16 de Septiembre.
+Los Ayuntamientos se compondrán de un Presidente, que llevará el nombre de Presidente Municipal y del número de Concejales que determine la Ley Orgánica relativa, todos los cuales serán designados en elección popular directa. En todo caso el número de los integrantes de un Ayuntamiento será impar y no menor de cinco. Para cada Concejal propietario se elegirá un suplente.
 
-> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### Articulo 132.
+###### Artículo 132.
 
-Para ser Concejal de un Ayuntamiento, se requiere:
+El Presidente Municipal y demás miembros del Ayuntamiento durarán en sus cargos tres años y tomarán posesión el día dieciséis de septiembre del año de la elección.
 
-I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
-
-II. Ser vecino del Municipio que lo nombre.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 133.
 
-El cargo de Concejal de un Ayuntamiento será obligatorio pero no gratuito. Sólo será renunciable por causa justificada que calificará el mismo Ayuntamiento, quien deberá admitir o no dicha renuncia. Los Concejales no podrán ser reelectos en el período siguiente.
+Los cargos de Presidente Municipal y de concejal serán obligatorios, pero no gratuitos, y sólo serán renunciables por causa justificada que calificará el ayuntamiento.
 
-> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### Articulo 134.
+###### Artículo 134.
 
-De entre los miembros de un Ayuntamiento habrá uno que presida sus sesiones y que se denominará "Presidente Municipal." Será designado por elección popular directa, durará en su encargo dos años y tendrá las facultades y obligaciones que consigne la Ley Orgánica relativa.
+Para ser Presidente Municipal o concejal de un ayuntamiento se requiere:
 
-> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
+
+II. Ser vecino del municipio que lo nombre.
+
+III. No haber desempeñado ningún cargo público de elección popular, dentro del período constitucional en que se efectúe la elección.
+
+IV. No desempeñar ningún cargo público en el municipio donde se hace la elección, ya dependa aquél del Estado o de la Federación; no estar en servicio activo en el ejército, ni tener mando de fuerzas en el mismo municipio, a menos de que, quien esté comprendido en tales casos, se separe definitivamente de su empleo o cargo seis meses antes de la elección.
 
 ###### Artículo 134 Bis.
 
-En caso de falta temporal o absoluta del Presidente Municipal, entrará a fungir el Primer Regidor Propietario, y en defecto de éste, el Concejal que lo siga en número por su designación.
-
-La Ley Orgánica Electoral del Estado reglamentará todo lo concerniente a esta disposición.
+(DEROGADO, B.O. 5 DE MAYO DE 1954)
 
 > <small>(ADICIONADO, B.O. 5 DE OCTUBRE DE 1932)</small>
 
@@ -1275,91 +1373,103 @@ II. Ser vecino del Municipio que lo nombre.
 
 III. No haber sido Presidente Municipal electo por el pueblo, o haber desempeñado las funciones interinamente por el lapso de un año o más en el período inmediato anterior.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 135.
 
-Cada Ayuntamiento tendrá un Secretario y un Tesorero de fuera de su seno. Las personas designadas para estos empleos deberán llenar los requisitos necesarios para ser miembro del Ayuntamiento. El Tesorero deberá, además, otorgar una fianza cuyo monto determinará la Ley Reglamentaria.
+Los presidentes municipales y concejales de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos propietarios para el periodo inmediato, a menos de que hayan estado en ejercicio.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ### CAPÍTULO XII. DE LOS GRUPOS VOLUNTARIOS
 
 ###### Artículo 136.
 
-Habrá en cada Cabecera de Municipalidad una Institución denominada "Oficina del Catastro y del Padrón Municipal", la cual tendrá a su cargo el Catastro y el Padrón del Municipio. La organización y funcionamiento de dicha Institución lo determinará la Ley Orgánica relativa.
+En caso de falta temporal o absoluta del Presidente Municipal, entrará a fungir el primer regidor propietario, y en defecto de éste, el concejal propietario que le siga en número por el orden de su designación.
 
-Artículo. 137. Son facultades y obligaciones de los Ayuntamientos:
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-I. Cuidar del orden público dentro de su jurisdicción. A este fin tendrán a su cargo la organización y mando de la Policía Municipal, sin perjuicio de las facultades concedidas al Gobernador, por la fracción XX del Artículo 79 de esta Constitución.
+###### Artículo 137.
 
-> <small>(REFORMADA, B.O. 28 DE SEPTIEMBRE DE 1932)</small>
+Cada Ayuntamiento tendrá un Secretario y un Tesorero de fuera de su seno. Las personas designadas para estos empleos deberán llenar los requisitos necesarios para ser miembros del ayuntamiento. El Tesorero, deberá, además, otorgar una fianza cuyo monto determinará la ley reglamentaria.
 
-II. Someter anualmente y en tiempo oportuno al examen y aprobación del Congreso los presupuestos de ingresos y egresos del Municipio.
-
-III. Administrar libremente su Hacienda, que se formará de las contribuciones aprobadas por el Congreso. Las cuentas de un Ayuntamiento serán glosadas por el entrante.
-
-IV. Expedir previa aprobación del Congreso, los Reglamentos necesarios a la buena organización y funcionamiento de los servicios públicos del Municipio.
-
-V. Vigilar los establecimientos de beneficencia pública o privada en la forma que determine la Ley.
-
-VI. Vigilar las escuelas oficiales y particulares de su jurisdicción.
-
-VII. Exigir que el Catastro y Padrón Municipales se lleven eficientemente para que llenen su objeto.
-
-VIII. Proponer al Congreso del Estado candidatos para Magistrados al Supremo Tribunal y para Procurador General de Justicia.
-
-IX. Proponer al Supremo Tribunal de Justicia candidatos para Jueces de Primera Instancia.
-
-X. (DEROGADA, B.O. 29 DE ABRIL DE 1939)
-
-XI. Nombrar, remover y otorgar licencias a los empleados de su dependencia.
-
-XII. Iniciar leyes ante el Congreso del Estado.
-
-XIII. Formar su Reglamento Interior.
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1923)</small>
-
-XIV. Calificar las elecciones del nuevo Ayuntamiento y en caso de elecciones extraordinarias las de sus propios miembros, así como las de Comisarios de Policía, quedando sujeta a revisión y declaración definitiva del Congreso en los casos de petición de nulidad.
-
-XV. Rendir a los Poderes del Estado los informes que les pidan.
-
-XVI. Rendir en el mes de Agosto al Gobernador un informe general sobre la labor que hayan desarrollado.
-
-XVII. Imponer como correcciones multas hasta de cincuenta pesos o arresto hasta por diez días; mas si el infractor fuese jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo en una semana.
-
-XVIII. Vigilar la administración de las Comisarías de su jurisdicción.
-
-XIX. Estar al tanto de que los Juzgados Locales y Menores de su jurisdicción administren pronta justicia, dando parte a quien corresponda, también, de las irregularidades que notare, a fin de que éstas sean corregidas.
-
-XX. Las demás que las leyes federales o del Estado les señalen.
-
-###### ARTÍCULO 137.
-
-Cuando en los inmuebles, establecimientos, o centros de trabajo se realicen actos o servicios que constituyan alto riesgo a juicio de la autoridad de Protección Civil, en el ámbito de su competencia procederán de inmediato a suspender dichas actividades; a ordenar el desalojo del inmueble. Lo anterior sin perjuicio de que se apliquen las demás medidas de seguridad y sanciones señaladas en otros ordenamientos.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 138.
 
-Las Comisarías serán administradas por funcionarios que se denominarán "Comisarios de Policía".
+Habrá en cada cabecera de municipalidad una institución denominada Oficina del Catastro y del Padrón Municipal, la cuál tendrá a su cargo el catastro y el padrón del Municipio. La organización y funcionamiento de dicha institución se determinará por la Ley Orgánica relativa.
 
-> <small>(REFORMADO, B.O. 24 DE FEBRERO DE 1943)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ### CAPÍTULO XIII. DE LOS INSTRUMENTOS FINANCIEROS DE GESTIÓN DE RIESGOS
 
 ###### Artículo 139.
 
-Los Comisarios de Policía serán nombrados cada tres años en elección popular directa que calificará el Ayuntamiento de que dependan y que en caso de petición de nulidad resolverá definitivamente el Congreso. Los Comisarios no pueden ser reelectos en el período siguiente, entrando de ejercer su encargo el 16 de Sepbre. del año de la elección.
+Son facultades y obligaciones de los ayuntamientos:
+
+I. Cuidar del orden público dentro de su jurisdicción. A este fin tendrán a su cargo la organización y mando de la policía municipal, sin perjuicio de las facultades concedidas al Gobernador por la fracción XX del artículo 79 de esta Constitución.
+
+II. Someter anualmente, durante la primera quincena del mes de noviembre, al examen y aprobación del Congreso los presupuestos de ingresos y egresos del municipio, que deberán regir en el año fiscal inmediato siguiente.
+
+III. Administrar libremente su hacienda, que se formará de las contribuciones aprobadas por el Congreso.
+
+IV. Expedir, previa aprobación del Congreso, los reglamentos necesarios a la buena organización y funcionamiento de los servicios públicos del municipio.
+
+V. Vigilar los establecimientos de beneficencia pública y privada en la forma que determine la ley.
+
+VI. Vigilar las escuelas oficiales y particulares de su jurisdicción.
+
+VII. Cuidar de que el catastro y el padrón municipales se lleven eficientemente.
+
+VIII. Glosar las cuentas del Ayuntamiento saliente, dentro de noventa días contados a partir de la fecha de la toma de posesión.
+
+IX. Conceder licencias al Presidente Municipal y concejales, en los términos de la Ley Orgánica respectiva.
+
+X. Publicar en la "Tabla de Avisos" de la oficina municipal los presupuestos, ordenanzas y demás disposiciones de observancia general.
+
+XI. Nombrar y remover a los empleados de su dependencia y concederles licencia.
+
+XII. Iniciar leyes ante el Congreso del Estado.
+
+XIII. Formar su Reglamento Interior.
+
+XIV. Computar y calificar los votos emitidos en las elecciones del nuevo ayuntamiento y en caso de elecciones extraordinarias los de sus propios miembros, haciendo la declaratoria correspondiente. Esta quedará sujeta a la revisión y declaración definitiva del Congreso en los casos de petición de nulidad.
+
+XV. Rendir a los Poderes del Estado los informes que les pidan.
+
+XVI. Rendir en el mes de agosto al Gobernador, un informe general sobre la labor que hayan desarrollado.
+
+XVII. Imponer como corrección multas hasta de cincuenta pesos o arresto hasta de treinta y seis horas. Si el infractor no pagare la multa se le aplicará en su lugar el arresto correspondiente que no excederá en ningún caso de diez días. Si el infractor fuese jornalero u obrero no podrá ser castigado con multa mayor del importe de su jornal o sueldo de una semana.
+
+XVIII. Organizar y vigilar la administración de las comisarías de su jurisdicción, corrigiendo las deficiencias que notaren.
+
+XIX. Cubrir preferentemente los sueldos de los jueces locales y menores de su jurisdicción, y proveerlos de los útiles y elementos de trabajo necesarios.
+
+XX. Rendir al Congreso, anualmente, en la primera quincena del mes de agosto, cuenta pormenorizada del manejo hacendario.
+
+XXI. Dar cuenta al Supremo Tribunal de Justicia de las irregularidades que observaren en la administración de justicia local o menor.
+
+XXII. Las demás que las leyes federales o del Estado les otorguen o impongan.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ### CAPITULO XIV. DE LA TRANSFERENCIA Y REDUCCIÓN DE RIESGOS
 
 ###### Artículo 140.
 
-El cargo de Comisario será obligatorio pero no gratuito. Podrá renunciarse sólo por causa justificada a juicio del Ayuntamiento del que dependa.
+Los Ayuntamientos nombrarán cada tres años a los comisarios y delegados de policía de sus respectivas jurisdicciones, al iniciar aquellos sus funciones.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 141.
 
-Para ser Comisario de Policía se requiere: Ser Ciudadano Sonorense en pleno ejercicio de sus derechos políticos y vecino de la Comisaría que lo elija.
+Para ser comisario o delegado de policía se requiere ser ciudadano sonorense en pleno ejercicio de sus derechos políticos, y vecino del lugar en que haya de ser nombrado.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 142.
 
-Los Comisarios tendrán las facultades y obligaciones que les señale la Ley Orgánica relativa.
+Los comisarios y delegados de policía tendrán las facultades y obligaciones que señale la ley orgánica respectiva, y serán los representantes directos del ayuntamiento.
 
 ## TITULO SEXTO.
 
@@ -1371,37 +1481,47 @@ Todos los funcionarios y empleados del Estado y de los Municipios serán respons
 
 El Gobernador, durante el período de su encargo, sólo podrá ser encausado por traición a la Patria, por violación de esta Ley, ataque de la libertad electoral y delitos graves del orden común.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 144.
 
-El Gobernador, los Diputados, Magistrados, Procurador de Justicia, Secretario de Estado y Tesorero General no podrán ser procesados por delitos comunes u oficiales, sin declaración previa del Congreso erigido en Gran Jurado, con los votos de las dos terceras partes de sus miembros, cuando se trate del Gobernador, y por mayoría absoluta cuando se trate de los demás funcionarios, de haber lugar a formación de causa.
+El Gobernador, los Diputados, Magistrados, el Procurador General de Justicia, Secretario de Gobierno y Tesorero General no podrán ser procesados por delitos comunes u oficiales, sin declaración previa del Congreso, erigido en Gran Jurado, de haber lugar a formación de causa. Para que el Congreso haga esa declaración se requiere el voto de las dos terceras partes de sus miembros cuando se trate del Gobernador, y por mayoría absoluta respecto de los demás funcionarios. Tratándose de delitos comunes, hecha la declaración indicada, el acusado quedará separado desde luego de su encargo y sujeto a la acción de los tribunales. Tratándose de delitos oficiales, hecha la declaración quedará también separado de su cargo y a disposición del Supremo Tribunal, a fin de que se le instruya el proceso respectivo. El acusado y su defensor y el Procurador General de Justicia serán oídos en los términos de Ley.
 
-Tratándose de delitos comunes, hecha la declaración indicada, el acusado quedará separado desde luego de su encargo y sujeto a la acción de los Tribunales comunes.
+Si la declaración del Congreso fuere en sentido negativo no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que pueda formularse acusación ante los tribunales cuando el funcionario haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación.
 
-Tratándose de delitos oficiales, hecha la declaración, quedará también separado de su encargo y a disposición del Supremo Tribunal, a fin de que le instruyan el proceso respectivo. El acusado y sus defensores, el Procurador General de Justicia, el acusador y en su caso la parte civil, serán oídos en los términos de Ley.
+En los casos de este artículo las resoluciones del Gran Jurado y la declaración de la Cámara son inatacables.
 
-Si la declaración del Congreso fuere en sentido negativo, no habrá lugar a procedimiento ulterior; pero ella no será obstáculo para que la acusación prospere ante los Tribunales luego que el funcionario deje de tener fuero.
-
-En los casos de este Artículo, las resoluciones del Gran Jurado y la declaración, en su caso, de la Cámara son inatacables.
-
-Para la denuncia de los delitos comunes y oficiales cometidos por los funcionarios públicos y demás empleados, se concede acción popular sin obligación de constituirse en parte.
-
-El Congreso expedirá, a la mayor brevedad posible, una Ley sobre responsabilidades de funcionarios y empleados públicos del Estado.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 145.
 
-No gozan de fuero constitucional los funcionarios indicados en el anterior Artículo por los delitos, faltas u omisiones comunes u oficiales en que incurran en el desempeño de algún empleo, cargo o comisión públicos, que hayan aceptado durante el período en que conforme a la Ley disfruten de fuero. Para que la causa pueda iniciarse cuando el funcionario haya vuelto a sus funciones propias, deberá procederse de acuerdo con el Artículo anterior.
+No gozan de fuero constitucional los funcionarios indicados en el Artículo anterior por los delitos oficiales, faltas u omisiones en que incurran en el desempeño de algún empleo, cargo o comisión pública que hayan aceptado durante el período en que conforme a la Ley se disfrute del fuero. Lo mismo sucederá respecto a los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el Artículo anterior.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 146.
 
-Pronunciada la sentencia de responsabilidad por delito o falta oficial, no podrá concederse al reo la gracia de indulto. Dicha responsabilidad sólo podrá exigirse durante el período en que el funcionario ejerza su empleo y un año después.
+Para proceder contra el Oficial Mayor de la Secretaría de Gobierno, jueces de primera instancia, presidentes municipales, concejales de los ayuntamiento y Agentes del Ministerio Público, ya se trate de delitos comunes u oficiales, será precisa la previa declaración de haber lugar a formación de causa que hará el Supremo Tribunal de Justicia. Los jueces locales y menores gozarán de la inmunidad que este artículo concede; pero la declaración de haber lugar a formación de causa será hecha por el juez de primera instancia del ramo penal respectivo.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 147.
 
-De los delitos comunes y oficiales que cometan los funcionarios y empleados no designados especialmente por los Artículos anteriores, conocerán los Tribunales comunes.
+La responsabilidad por falta o delito oficial sólo podrá exigirse durante el período en que el funcionario ejerza su cargo y durante un año después.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 148.
 
-En las demandas del orden civil no habrá fuero ni inmunidad para ningún funcionario o empleado público.
+Para la denuncia de los delitos comunes u oficiales cometidos por funcionarios y demás empleados públicos se concede acción popular.
+
+> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+
+Artículo 148 A. De los delitos comunes y oficiales que cometan los funcionarios y empleados no designados especialmente en los artículos anteriores, conocerán los tribunales en la forma ordinaria.
+
+> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+
+Artículo 148 B. En las demandas del orden civil no habrá fuero ni inmunidad para ningún funcionario o empleado público.
 
 ## TITULO SEPTIMO.
 
@@ -1414,6 +1534,10 @@ Por ningún motivo podrán subastarse las contribuciones del Estado o del Munici
 ###### Artículo 150.
 
 Todos los contratos que el Gobierno del Estado deba celebrar para la ejecución de Obras Públicas se arreglarán en pública subasta.
+
+> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+
+Artículo 150 A. En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho a voto en cualquier elección, siempre que reúnan los requisitos que señala la Ley.
 
 ###### Artículo 151.
 
@@ -1435,45 +1559,53 @@ El aumento de las dietas de los Diputados no tendrá efecto en el período de la
 
 Los cargos o empleos públicos no son, ni pueden ser en el Estado, propiedad o patrimonio de quien los ejerza, ni podrán desempeñarse por personas que no sepan leer y escribir.
 
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+
 ###### Artículo 156.
 
-La vecindad se adquiere durante un año de residencia y no se pierde si al trasladarse no se levanta la casa o giro que se tenga. Tampoco se pierde por ausentarse desempeñando una comisión del Gobierno o cargo público de elección popular, o para seguir los estudios de una carrera profesional.
+La vecindad se adquiere durante dos años de residencia fija en algún lugar del territorio del Estado, o durante uno, para quienes adquieren bienes raíces, ejerzan alguna profesión, arte o industria dentro de la propia Entidad.
+
+La vecindad no se pierde por la ausencia en el desempeño de cargos públicos de elección popular o comisión conferida por el Gobierno de la Nación o del Estado. Tampoco se pierde por ausentarse prestando servicios en la milicia o en el caso de que se sigan estudios científicos o artísticos, salvo el caso de que esta Constitución requiera residencia efectiva.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 157.
 
-Todo funcionario o empleado público tiene el deber de protestar antes de encargarse de sus funciones, en la forma siguiente: La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer guardar la Constitución de los Estados Unidos Mexicanos de treinta y uno de Enero de mil novecientos diez y siete, la Constitución del Estado, las leyes que de ellas emanen, y cumplir leal y patrióticamente el cargo de....... que el Pueblo (o la autoridad que lo confiera) os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado". El interpelado contestará: "Sí, protesto". Acto continuo dirá la persona ante quien se otorga la protesta: "Si no lo hiciéreis así la Nación y el Estado os lo demanden".
+Todo funcionario o empleado público, tiene el deber de protestar antes de encargarse de sus funciones, en la forma siguiente: La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer guardar la Constitución de los Estados Unidos Mexicanos, la Constitución del Estado, las leyes que de ellas emanen, y cumplir leal y patrióticamente el cargo de ………. que el pueblo (o la autoridad que lo confiere) os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?" -El interpelado contestará: "Sí protesto". Acto contínuo dirá la persona ante quien se otorga la protesta: "Si no lo hiciéreis así la Nación y el Estado os lo demanden".
 
 ###### Artículo 158.
 
 Será motivo de responsabilidad el hecho de que las autoridades, funcionarios o empleados del Estado o de los Municipios, ejecuten en perjuicio de tercero o de la Sociedad, actos que no les están mandados o permitidos expresamente por la Ley.
 
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 159.
 
-En el caso de la Fracción V del artículo 76 de la Constitución General de la República asumirá el Poder Ejecutivo cualquiera de los Funcionarios siguientes por el orden de su designación.
+En el caso de la fracción V del artículo 76 de la Constitución General de la República, asumirá el Poder Ejecutivo cualquiera de las personas siguientes en el orden de su enumeración:
 
-I. El Presidente de la última Legislatura o el de la Diputación Permanente, si la desaparición de los Poderes ocurriere encontrándose éste en funciones.
+I. El Presidente de la Diputación Permanente que intervino en la instalación de la Legislatura desaparecida.
 
-II. El Vice-Presidente de la Legislatura.
+II. El último Presidente del Supremo Tribunal inmediatamente anterior al desaparecido.
 
-III. El Presidente del último Supremo Tribunal, y
+III. El último Secretario de Gobierno del régimen inmediatamente anterior al desaparecido.
 
-IV. El último Secretario de Gobierno.
+Cuando la desaparición ocurriere durante los dos primeros años del período constitucional, la persona que asuma el Poder Ejecutivo convocará desde luego a elecciones de Gobernador y de Diputados, sujetándose a la forma y términos prescritos por esta Constitución, y designará con carácter provisional a los Magistrados del Supremo Tribunal de Justicia. Cuando dicha desaparición sobreviniere durante los cuatro últimos años del período, el que asuma el Poder Ejecutivo convocará a elecciones de Diputados y nombrará con carácter provisional a los Magistrados del Supremo Tribunal de Justicia.
 
-La persona que asuma el Poder Ejecutivo, convocará desde luego a elecciones sujetándose a la forma y términos prescritos por esta Constitución; designará con carácter provisional a los Magistrados del Supremo Tribunal de Justicia y dictará todas aquellas medidas estrictamente indispensables para la buena marcha de la Administración Pública.
+La instalación de la Legislatura, en uno y otro caso, la hará la última Diputación Permanente, la cual será presidida por el Vice-Presidente de la misma si su Presidente hubiere asumido el Poder Ejecutivo de conformidad con este artículo. Los Magistrados del Supremo Tribunal, nombrados con carácter provisional, seguirán en funciones entre tanto aprueba el Congreso los nombramientos de Propietarios, que deberá someterle el Ejecutivo a más tardar dentro de treinta días contados a partir de la instalación de la Legislatura. Quien asumiere el Poder Ejecutivo en los casos de este Artículo dictará todas aquellas medidas estrictamente indispensables para la buena marcha de la Administración Pública.
+
+En el segundo de los casos mencionados, la persona que asuma el Poder Ejecutivo comunicará al Ejecutivo Federal la situación que prevalece para que se dé cumplimiento a la designación, por parte del Senado, de Gobernador substituto Constitucional, mediante terna que para tal efecto le enviará el Presidente de la República, de conformidad con la fracción V del artículo 76 de la Constitución Federal.
 
 ###### Artículo 160.
 
 Los Tribunales del Estado se arreglarán a la Constitución General y al presente Código, no obstante las disposiciones en contrario que pueda haber en las demás leyes del Estado.
 
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 161.
 
-Los Funcionarios y empleados del Poder Judicial el Procurador General de Justicia y los Agentes del Ministerio Público no podrán patrocinar negocios ajenos ante los tribunales.
+Ningún funcionario o empleado en ejercicio podrá ser representante, apoderado, o abogado en negocios ajenos ante los tribunales ni ante las demás autoridades públicas.
 
-La prohibición anterior se entiende impuesta a los Magistrados Suplentes cuando estén en ejercicio por un plazo mayor de dos meses.
+La prohibición anterior se entiende impuesta a los magistrados suplentes cuando estén en ejercicio por un plazo mayor de dos meses.
 
 > <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
@@ -1481,15 +1613,15 @@ La prohibición anterior se entiende impuesta a los Magistrados Suplentes cuando
 
 Los Funcionarios y Empleados del Estado y Municipales de las poblaciones fronterizas tienen la obligación de residir en territorio sonorense. La no observancia de esta disposición significa para el contraventor la pérdida de su cargo o empleo.
 
-> <small>(REFORMADO, B.O. 29 DE ABRIL DE 1939)</small>
-
 ###### Artículo 162 Bis.
 
-La inhabilitación a que se refieren los artículos 33 Fracción IV (Reformada), 133, 134 A fracción III (Reformada) y 139 (Reformado) de esta Constitución, es con el carácter de temporal para las personas que hayan desempeñado durante la segunda mitad del período inmediato anterior, los cargos de Diputado, Presidente Municipal, Consejal (sic) y Comisario de Policía, por lo que si sólo fungieron dentro de la primera mitad, No quedarán incapacitadas para volver a ser electas, como tampoco quedarán si dejan transcurrir dos o mas períodos constitucionales; pero la inhabilitación a que se refiere el artículo 72, es de carácter permanente para las persona que hayan desempeñado el cargo de Gobernador en administraciones anteriores, para las que desempeñen los mismos cargos actualmente y para las que los desempeñaren en lo sucesivo, salvo lo que expresan los párrafos relativos de los artículos 73 y 74.
+(DEROGADO, B.O. 5 DE MAYO DE 1954)
 
-> <small>(ADICIONADO, B.O. 29 DE ABRIL DE 1939)</small>
+> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
 
-Artículo 162 C. Ninguna de las personas a que se refiere el artículo anterior, podrá ser electa para ningún cargo en el período inmediato, si se encuentra actuando durante los actos preparatorios de las elecciones ordinarias o extraordinarias.
+Artículo 162 A. Todo funcionario o empleado público que por razón de sus funciones no esté impedido para ocupar puestos de elección popular, deberá sin embargo, separarse de su cargo seis meses antes de la fecha de la elección, para poder ser electo.
+
+Artículo 162 C. (DEROGADO, B.O. 5 DE MAYO DE 1954)
 
 ## TITULO OCTAVO.
 
@@ -1668,6 +1800,22 @@ LEY No. 122, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
 Primero.- Tan luego como entre en vigor la presente Ley, el Congreso del Estado hará la elección de los dos nuevos Magistrados que en la misma se establecen, correspondientes a las Salas Cuarta y Quinta.
 
 Segundo.- Esta Ley empezará a regir desde el día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE MAYO DE 1954.
+
+PRIMERO.- Los Magistrados del Supremo Tribunal de Justicia electos para el período 1953-1957 continuarán en funciones hasta la conclusión de sus respectivos períodos.
+
+SEGUNDO.- El Procurador General de Justicia electo para el período 1953-1957 continuará en funciones hasta la conclusión de dicho período.
+
+TERCERO.- Los Comisarios de Policía que al entrar en vigor las presentes reformas se encuentren en funciones, seguirán desempeñando su cargo hasta la terminación del período para el cual fueron electos.
+
+CUARTO.- Para los efectos del Artículo 31 reformado de esta Constitución y mientras se expidan las leyes que los determinen, se tendrán como Distritos electorales las actuales divisiones en la forma en que las establece la vigente Ley Orgánica Electoral del Estado.
+
+QUINTO.- Los preceptos que establecen los requisitos necesarios para los funcionarios públicos de elección popular directa o de elección indirecta, no son aplicables a los electos últimamente.
+
+SEXTO.- Entre tanto se expidan las Leyes Orgánicas y Reglamentarias relativas o las reformas que deban introducirse en las Leyes y Decretos actualmente vigentes, continuarán rigiendo dichos Ordenamientos en todo lo que no se opongan a la presente Constitución.
+
+SEPTIMO.- La presente Ley entrará en vigor el día 5 de mayo de 1954, previa su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
