@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1994-10-04"
+last_updated: "1994-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1994.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -481,9 +481,9 @@ Autorizar al Gobernador del Estado para avalar los empréstitos o financiamiento
 
 En el Convenio que celebre el Gobierno Local con el Ayuntamiento correspondiente se estipulará la recuperación de lo que aquel pague como avalista, garantizándole en base de las participaciones de los impuestos que reciba el Ayuntamiento, ya sea estos federales o locales;
 
-(REFORMADA, P.O. 24 DE ENERO DE 1984) (F. DE E., 3 DE JULIO DE 1984)
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
-X.- Crear y suprimir Municipalidades; suspender Ayuntamientos o declarar su desaparición, así como suspender o revocar el mandato a alguno de sus miembros, con arreglo al artículo 84 de esta Constitución;
+X.- Crear y suprimir Municipalidades; suspender Ayuntamientos o declarar su desaparición; suspender o revocar el mandato a alguno de sus miembros con arreglo al artículo 84 de esta Constitución; así como designar Concejos Municipales.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 1984)</small>
 
@@ -783,7 +783,7 @@ ART. 60.- Todos los decretos, reglamentos y disposiciones de carácter general q
 
 ART. 61.- El Secretario de Gobierno será responsable de los actos del Gobernador, en todo aquello que lleve su firma.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1993)</small>
 
 ###### Artículo 48°.
 
@@ -804,6 +804,56 @@ Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará des
 Cuando la falta del Gobernador fuere absoluta y ocurriere en los cuatro últimos años del período respectivo, si el Congreso se encontrase en sesiones, elegirá, en los términos de este Artículo, al Gobernador Substituto que deberá concluir el período. Si el Congreso no estuviere reunido, la Diputación Permanente nombrará un Gobernador Interino, y convocará al Congreso a sesiones extraordinarias, para que el propio Congreso se erija en Colegio Electoral y haga la elección del Gobernador Substituto.
 
 El Gobernador Interino podrá ser electo por el Congreso como Substituto.
+
+### CAPITULO DECIMO TERCERO BIS. De la Justicia Administrativa
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1993)</small>
+
+ART. 71 BIS.- La Justicia Administrativa en el Estado de San Luis Potosí, se depositará en un Tribunal de lo Contencioso Administrativo con jurisdicción en todo el territorio estatal y con la competencia y organización que establece esta Constitución y la Ley Orgánica respectiva, para revisar la legalidad de los actos y resoluciones de la Administración Pública Estatal y de los Ayuntamientos de la Entidad.
+
+El Tribunal de lo Contencioso Administrativo, tiene por objeto dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública del Estado, los Municipios y Organismos Descentralizados Estatales o Municipales con funciones de autoridad, y los particulares, así como de los juicios de nulidad de las resoluciones dictadas en los procedimientos de responsabilidad seguidos respecto de las responsabilidades administrativas en que incurran los Servidores Públicos y por lo tanto, el Tribunal de lo Contenciosos Administrativo es un órgano de control de la legalidad con facultades de anulación, dotado de plena autonomía para dictar sus fallos y hacerlos cumplir, independientemente de cualquier autoridad administrativa.
+
+El Tribunal de lo Contencioso Administrativo, se compondrá de una Sala Colegiada integrada por tres Magistrados Propietarios nombrados por el Gobernador del Estado y sometidos a la aprobación de la Legislatura Local en la misma forma y términos que se utilizan para el nombramiento de magistrados del Supremo Tribunal de Justicia en el Estado a que se contrae el número 63 de esta Constitución y para suplir las faltas de los Magistrados propietarios se nombrará al mismo tiempo y en iguales términos a los Magistrados Supernumerarios, que entrarán a ejercer sus funciones en el orden de su nombramiento, no siendo renunciable el cargo de Magistrado del Tribunal de lo Contencioso Administrativo sino por causa juta (sic) calificada por el Gobernador del Estado en los términos de la Ley Orgánica respectiva.
+
+El Tribunal de lo Contencioso Administrativo residirá en la Capital del Estado, pudiendo aumentarse el número de Salas en la medida que se haga necesario.
+
+La Sala Colegiada tendrá un Presidente que a su vez lo será del Tribunal y que será designado en los términos de la Ley Orgánica.
+
+Para ser Magistrado del Tribunal de lo Contenciosos Administrativo, se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, ser originario del Estado o tener residencia habitual en él, cuando menos cinco años antes del día de su designación;
+
+II.- Ser Licenciado en Derecho, con título debidamente registrado en la Dirección de Profesiones;
+
+III.- Tener treinta años cumplidos y no ser mayor de sesenta y cinco el día de su designación;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal, ni en juicio de responsabilidad a la destitución o suspensión de empleo.
+
+Los Magistrados del Tribunal de lo Contencioso Administrativo durarán en su cargo seis años pudiendo ser reelectos y si lo fueren, sólo podrán ser privados de sus puestos en los términos que establezca esta Constitución en relación con la Ley Orgánica.
+
+La Sala Colegiada del Tribunal, es competente para conocer:
+
+I.- De los juicios que se promuevan en contra de actos o resoluciones de carácter administrativo o fiscal que en el ejercicio de sus funciones dicten, ordenen, ejecuten o pretendan ejecutar las dependencias que integran la Administración Pública Estatal o Municipal en perjuicio de los particulares;
+
+II.- De los juicios que se promuevan en contra de cualquier acto o resolución de carácter fiscal, producido por un organismo descentralizado, estatal o municipal en agravio de los particulares;
+
+III.- De los juicios de nulidad de las resoluciones dictadas en los procedimientos de responsabilidad seguidos respecto de las responsabilidades administrativas en que incurran los Servidores Públicos;
+
+IV.- De los juicios que se promuevan en contra de las resoluciones negativas fictas en materia administrativa fiscal que se configuren por el silencio de las autoridades u organismos con funciones administrativas de autoridades, estatales o municipales, para dar respuesta a la instancia de un particular en el plazo que la Ley fija y a falta de término, a noventa días;
+
+V.- De las quejas por incumplimiento de las sentencias que se dicten;
+
+VI.- Del recurso de Reclamación y Queja conforme a lo dispuesto por la Ley;
+
+VII.- De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a un particular y que perjudiquen a la Hacienda Pública del Estado, de los Municipios o a los Organismos Descentralizados con atribuciones fiscales;
+
+VIII.- De los asuntos cuya resolución esté reservada al Tribunal de lo Contenciosos Administrativo conforme a lo dispuesto por otras Leyes;
+
+IX.- De todos los asuntos de carácter administrativo que se susciten entre las autoridades Estatales y Municipales así como Organismos Descentralizados con funciones de autoridad y los particulares.
+
+La Ley Orgánica determinará la organización del Tribunal de lo Contencioso Administrativo para el despecho de los negocios de su competencia, así como el procedimiento y términos en que ha de ejercer sus facultades.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
 ### CAPITULO DECIMO TERCERO. Del Poder Judicial
 
@@ -876,56 +926,6 @@ ART. 70.- La ley determinará la organización del Tribunal para el despacho de 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
 ART. 71.- De las causas que hayan de formarse a todo el Tribunal Supremo de Justicia o a alguno de sus miembros, conocerá un tribunal compuesto de triple número de jueces que nombrará el Congreso y en el que no podrán ser incluídos diputados, el primer mes de sus sesiones ordinarias de cada ejercicio constitucional. Este tribunal conocerá de dichas causas como jurado de sentencia, siendo su fallo inapelable.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1993)</small>
-
-### CAPITULO DECIMO TERCERO BIS. De la Justicia Administrativa
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1993)</small>
-
-ART. 71 BIS.- La Justicia Administrativa en el Estado de San Luis Potosí, se depositará en un Tribunal de lo Contencioso Administrativo con jurisdicción en todo el territorio estatal y con la competencia y organización que establece esta Constitución y la Ley Orgánica respectiva, para revisar la legalidad de los actos y resoluciones de la Administración Pública Estatal y de los Ayuntamientos de la Entidad.
-
-El Tribunal de lo Contencioso Administrativo, tiene por objeto dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública del Estado, los Municipios y Organismos Descentralizados Estatales o Municipales con funciones de autoridad, y los particulares, así como de los juicios de nulidad de las resoluciones dictadas en los procedimientos de responsabilidad seguidos respecto de las responsabilidades administrativas en que incurran los Servidores Públicos y por lo tanto, el Tribunal de lo Contenciosos Administrativo es un órgano de control de la legalidad con facultades de anulación, dotado de plena autonomía para dictar sus fallos y hacerlos cumplir, independientemente de cualquier autoridad administrativa.
-
-El Tribunal de lo Contencioso Administrativo, se compondrá de una Sala Colegiada integrada por tres Magistrados Propietarios nombrados por el Gobernador del Estado y sometidos a la aprobación de la Legislatura Local en la misma forma y términos que se utilizan para el nombramiento de magistrados del Supremo Tribunal de Justicia en el Estado a que se contrae el número 63 de esta Constitución y para suplir las faltas de los Magistrados propietarios se nombrará al mismo tiempo y en iguales términos a los Magistrados Supernumerarios, que entrarán a ejercer sus funciones en el orden de su nombramiento, no siendo renunciable el cargo de Magistrado del Tribunal de lo Contencioso Administrativo sino por causa juta (sic) calificada por el Gobernador del Estado en los términos de la Ley Orgánica respectiva.
-
-El Tribunal de lo Contencioso Administrativo residirá en la Capital del Estado, pudiendo aumentarse el número de Salas en la medida que se haga necesario.
-
-La Sala Colegiada tendrá un Presidente que a su vez lo será del Tribunal y que será designado en los términos de la Ley Orgánica.
-
-Para ser Magistrado del Tribunal de lo Contenciosos Administrativo, se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, ser originario del Estado o tener residencia habitual en él, cuando menos cinco años antes del día de su designación;
-
-II.- Ser Licenciado en Derecho, con título debidamente registrado en la Dirección de Profesiones;
-
-III.- Tener treinta años cumplidos y no ser mayor de sesenta y cinco el día de su designación;
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal, ni en juicio de responsabilidad a la destitución o suspensión de empleo.
-
-Los Magistrados del Tribunal de lo Contencioso Administrativo durarán en su cargo seis años pudiendo ser reelectos y si lo fueren, sólo podrán ser privados de sus puestos en los términos que establezca esta Constitución en relación con la Ley Orgánica.
-
-La Sala Colegiada del Tribunal, es competente para conocer:
-
-I.- De los juicios que se promuevan en contra de actos o resoluciones de carácter administrativo o fiscal que en el ejercicio de sus funciones dicten, ordenen, ejecuten o pretendan ejecutar las dependencias que integran la Administración Pública Estatal o Municipal en perjuicio de los particulares;
-
-II.- De los juicios que se promuevan en contra de cualquier acto o resolución de carácter fiscal, producido por un organismo descentralizado, estatal o municipal en agravio de los particulares;
-
-III.- De los juicios de nulidad de las resoluciones dictadas en los procedimientos de responsabilidad seguidos respecto de las responsabilidades administrativas en que incurran los Servidores Públicos;
-
-IV.- De los juicios que se promuevan en contra de las resoluciones negativas fictas en materia administrativa fiscal que se configuren por el silencio de las autoridades u organismos con funciones administrativas de autoridades, estatales o municipales, para dar respuesta a la instancia de un particular en el plazo que la Ley fija y a falta de término, a noventa días;
-
-V.- De las quejas por incumplimiento de las sentencias que se dicten;
-
-VI.- Del recurso de Reclamación y Queja conforme a lo dispuesto por la Ley;
-
-VII.- De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a un particular y que perjudiquen a la Hacienda Pública del Estado, de los Municipios o a los Organismos Descentralizados con atribuciones fiscales;
-
-VIII.- De los asuntos cuya resolución esté reservada al Tribunal de lo Contenciosos Administrativo conforme a lo dispuesto por otras Leyes;
-
-IX.- De todos los asuntos de carácter administrativo que se susciten entre las autoridades Estatales y Municipales así como Organismos Descentralizados con funciones de autoridad y los particulares.
-
-La Ley Orgánica determinará la organización del Tribunal de lo Contencioso Administrativo para el despecho de los negocios de su competencia, así como el procedimiento y términos en que ha de ejercer sus facultades.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1150,6 +1150,20 @@ e).- Cualquier otra consignada en las leyes.
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 1984)</small>
 
 V.- En caso de declararse desaparecido o definitivamente suspendido un Ayuntamiento, el Congreso designará entre los vecinos un Consejo Municipal, que concluirá el período respectivo, salvo que proceda conforme a la Ley celebrar nuevas elecciones. El mismo procedimiento se observará si ocurre la renuncia o falta absoluta de la mayoría de sus miembros, si no precediere que entraren en funciones los suplentes.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+Igualmente, el Congreso del Estado designará un Concejo Municipal que gobernará con el carácter de interino en los siguientes casos:
+
+a).- Si al comenzar un período el Ayuntamiento electo no se presenta a tomar posesión de su cargo;
+
+b).- Cuando no se hayan celebrado elecciones;
+
+c).- Cuando las elecciones se hubieren anulado; y
+
+d).- Cuando ninguna planilla hubiese sido declarada electa.
+
+En estos casos, el Congreso del Estado determinará los plazos y términos en que deban llevarse a cabo las elecciones que correspondan.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1596,3 +1610,7 @@ Hasta en tanto se reformen los preceptos correspondientes de las leyes secundari
 P.O. 4 DE OCTUBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
