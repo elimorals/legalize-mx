@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1998-06-18"
+last_updated: "1998-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -43,17 +43,19 @@ LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
 ### CAPITULO UNICO. PRINCIPIOS GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 1.
 
-La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios y participaciones que autorice la Ley de Ingresos que anualmente aprueba el Congreso del Estado.
+La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios, participaciones y fondos de aportaciones federales que autorice la Ley de Ingresos que anualmente aprueba el Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 La Hacienda Pública del Estado de Campeche se compone:
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DICIEMBRE DE 1998)</small>
 
-I.- De los ingresos provenientes de los impuestos sobre comercio de libros, periódicos y revistas, sobre espectáculos públicos, sobre nóminas y sobre servicios de hospedaje.
+I.- De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas, sobre nóminas y sobre servicios de hospedaje.
 
 II.- De los ingresos provenientes de los derechos derivados de la prestación de servicios públicos.
 
@@ -62,6 +64,10 @@ III.- De los ingresos provenientes de los productos derivados de la enajenación
 IV.- De los ingresos provenientes de los aprovechamientos originados por conceptos de rezagos, recargos, garantías y multas, reintegros, donaciones, préstamos y aquellos que se deriven de concesiones y contratos, indemnizaciones a favor del Estado, fianzas cuya pérdida se declare por resolución firme a favor del Estado y gastos de administración e incentivos derivados de los convenios y sus anexos.
 
 V.- De los ingresos extraordinarios tales como financiamientos, impuestos y derechos extraordinarios, expropiaciones, contribuciones de mejoras, apoyos financieros federales y 1% sobre obras que se realicen en el Estado.
+
+> <small>(ADICIONADA, P.O. 16 DICIEMBRE DE 1998)</small>
+
+VI Bis.- De los Fondos de Aportaciones Federales que el Gobierno Federal le determine por los conceptos y montos de conformidad con la Ley de Coordinación Fiscal.
 
 VI.- De las participaciones que por ingresos federales se le asignen de acuerdo con lo dispuesto en la ley federal de la materia, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, y el Convenio de Colaboración Administrativa en materia Fiscal Federal y sus anexos.
 
@@ -87,9 +93,11 @@ El pago de los impuestos de la presente Ley deberá hacerse dentro de los primer
 
 Las infracciones a la presente Ley, serán sancionadas de conformidad con lo previsto por el Código Fiscal del Estado.
 
+> <small>(REFORMADO, P.O. 16 DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 5.
 
-Las obligaciones de los sujetos de las contribuciones de esta Ley de Hacienda, se regirán de conformidad con lo previsto por el Código Fiscal del Estado, a excepción del impuesto de los capítulos III y IV del presente ordenamiento.
+Las obligaciones de los sujetos de las contribuciones establecidas en esta Ley de Hacienda, se regirán de conformidad con lo previsto en esta propia Ley, sin perjuicio de las obligaciones señaladas por el Código Fiscal del Estado de Campeche.
 
 ###### ARTICULO 6.
 
@@ -179,99 +187,69 @@ Es base de este impuesto el monto total de los ingresos percibidos.
 
 El pago de este impuesto será a razón del 1% sobre el monto total de los ingresos a que se refiere el artículo 17, mediante declaración de ingresos expresa en los formatos que para el efecto expida la Secretaría de Finanzas.
 
-### CAPITULO III. DEL IMPUESTOS (SIC) SOBRE ESPECTACULO (SIC) PUBLICOS
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 16 DICIEMBRE DE 1998)</small>
 
-#### SECCION PRIMERA. DEL OBJETO
+### CAPITULO III
+
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 16 DICIEMBRE DE 1998)</small>
+
+#### SECCION PRIMERA
 
 ###### ARTICULO 19.
 
-Causan este impuesto los giros que a continuación se indican:
+(DEROGADO, P.O. 16 DICIEMBRE DE 1998)
 
-A) Box y lucha libre, sobre ingresos brutos 4%
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 16 DICIEMBRE DE 1998)</small>
 
-B) Circos y carpas ambulantes sobre ingresos brutos 4%
-
-C) Corridas de toros, sobre ingresos brutos 4%
-
-D) Cinematógrafos y teatros permanentes, sobre ingresos brutos 4%
-
-E) Otros espectáculos deportivos, sobre ingresos brutos 4%
-
-F) Otros espectáculos no especificados, sobre ingresos brutos 4%
-
-#### SECCION SEGUNDA. DE LOS SUJETOS
+#### SECCION SEGUNDA
 
 ###### ARTICULO 20.
 
-Son sujetos de este impuesto las personas físicas, morales o unidades económicas que realicen actividades consideradas como espectáculo público, mencionadas en el artículo anterior.
+(DEROGADO, P.O. 16 DICIEMBRE DE 1998)
 
 ###### ARTICULO 21.
 
-Responden solidariamente del pago de este impuesto:
+(DEROGADO, P.O. 16 DICIEMBRE DE 1998)
 
-I.- Los propietarios o poseedores de establecimientos en los que permanente u ocasionalmente por cualquier acto o contrato se autorice a personas sujetas de este impuesto para que exploten los giros señalados en el artículo 19 de esta Ley, a menos que den aviso de la celebración del contrato, y
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 16 DICIEMBRE DE 1998)</small>
 
-II.- Los funcionarios que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de espectáculos públicos, cuando no efectúen el aviso a la oficina recaudadora, de las autorizaciones que otorguen; a más tardar el día anterior al que vaya a realizarse o a principiar la explotación de las actividades o eventos.
-
-#### SECCION TERCERA. DE LA BASE
+#### SECCION TERCERA
 
 ###### ARTICULO 22.
 
-Es la base para el pago de este impuesto el monto total de los ingresos obtenidos.
+(DEROGADO, P.O. 16 DICIEMBRE DE 1998)
 
-#### SECCION CUARTA. DEL PAGO
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 16 DICIEMBRE DE 1998)</small>
+
+#### SECCION CUARTA
 
 ###### ARTICULO 23.
 
-El pago de este impuesto deberá realizarse en la oficina de recaudación correspondiente al domicilio del contribuyente o al lugar donde el espectáculo se realice, dentro de los siguientes plazos:
-
-I.- Cuando la explotación de espectáculos públicos se realice permanentemente en establecimientos fijos, será a más tardar el día 15 del mes siguiente al en que se hubiesen percibido los ingresos objeto del gravamen, presentando una declaración de los ingresos obtenidos en las formas que para el efecto emita la Secretaría de Finanzas, y
-
-II.- Cuando se trate de contribuyentes eventuales, al término de la función, liquidarán el impuesto, por conducto del interventor que al efecto designe la Secretaría de Finanzas.
+(DEROGADO, P.O. 16 DICIEMBRE DE 1998)
 
 ###### ARTICULO 24.
 
-En caso de que en una misma función se presenten dos o más espectáculos, el impuesto se causará con el porcentaje más alto.
+(DEROGADO, P.O. 16 DICIEMBRE DE 1998)
+
+(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 16 DICIEMBRE DE 1998)SECCION QUINTA
 
 ###### ARTICULO 25.
 
-Los contribuyentes de este impuesto tienen además, las siguientes obligaciones:
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1995)</small>
-
-I.- Presentar ante la Secretaría de Finanzas y Administración u oficina de recaudación respectiva; para su resello, el boletaje y el programa que corresponda a cada función cuando menos un día antes de que se verifiquen los espectáculos.
-
-II.- No vender boletos en tanto no estén resellados por las autoridades fiscales.
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1995)</small>
-
-III.- Permitir a los interventores que designe la Secretaría de Finanzas y Administración o sus oficinas de recaudación, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento.
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1995)</small>
-
-IV.- En general, adoptar las medidas de control que para la correcta determinación de este impuesto, establezca la Secretaría de Finanzas y Administración, y
-
-V.- Los contribuyentes de este impuesto que exploten espectáculos en forma eventual o con carácter de ambulantes, tendrán además las siguientes obligaciones:
-
-A) Dar aviso de iniciación de actividades en la Secretaría de Finanzas, por conducto de la oficina recaudadora correspondiente a la jurisdicción en que vayan a operar, a más tardar, el día anterior a aquél en que inicien la explotación del espectáculo, señalando la fecha en que habrán de concluir sus actividades en esa jurisdicción.
-
-B) Dar el aviso correspondiente en los casos de ampliación del período de explotación, ante la oficina de recaudación de su jurisdicción, a más tardar, el último día que comprenda el aviso cuya vigencia se vaya a ampliar, y
-
-C) Previamente a la iniciación de actividades, otorgar garantía a satisfacción de la Secretaría de Finanzas, en alguna de las formas previstas en el Código Fiscal del Estado, que no será inferior al impuesto estimado correspondiente a un día de actividades, ni superior al que pudiere corresponder también estimativamente a tres días.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1995)</small>
+(DEROGADO, P.O. 16 DICIEMBRE DE 1998)
 
 ###### ARTICULO 26.
 
-Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la fracción V, inciso C, del artículo anterior no hubieran cumplido con tal obligación, la Secretaría de Finanzas y Administración podrá suspender el espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual, el interventor que se designe podrá solicitar el auxilio de la fuerza pública.
+(DEROGADO, P.O. 16 DICIEMBRE DE 1998)
 
 ###### ARTICULO 27.
 
-Este impuesto en ningún caso deberá ser trasladado al espectador o usuario.
+(DEROGADO, P.O. 16 DICIEMBRE DE 1998)
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE NOMINAS
 
-#### SECCION QUINTA. DE LAS OBLIGACIONES
+#### SECCION PRIMERA. DEL OBJETO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 28.
 
@@ -281,21 +259,19 @@ Para los efectos de este impuesto, quedan comprendidas entre las erogaciones men
 
 Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
 
-#### SECCION PRIMERA. DEL OBJETO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+#### SECCION SEGUNDA. DE LOS SUJETOS
 
 ###### ARTICULO 29.
 
 Son sujetos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo anterior.
 
-#### SECCION SEGUNDA. DE LOS SUJETOS
+#### SECCION TERCERA. DE LA BASE
 
 ###### ARTICULO 30.
 
 Es base del impuesto sobre nóminas el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado.
 
-#### SECCION TERCERA. DE LA BASE
+#### SECCION CUARTA. DE LA TASA
 
 ###### ARTICULO 31.
 
@@ -309,7 +285,7 @@ El pago del impuesto deberá efectuarse a más tardar el día veinte del mes sig
 
 La obligación de presentar la declaración subsistirá, aun cuando no se hayan efectuado erogaciones gravadas.
 
-#### SECCION CUARTA. DE LA TASA
+#### SECCION SEXTA (SIC). DE LAS OBLIGACIONES
 
 ###### ARTICULO 33.
 
@@ -331,7 +307,7 @@ V.- Conservar la documentación comprobatoria del pago de las remuneraciones obj
 
 VI.- Las sucursales, bodegas, agencias u otras dependencias cuya matriz, no se encuentre dentro del territorio del Estado, deberán efectuar su pago en el estado, dentro de los plazos y lugares señalados al efecto.
 
-#### SECCION SEXTA (SIC). DE LAS OBLIGACIONES
+#### SECCION SEPTIMA. DE LAS EXENCIONES
 
 ###### ARTICULO 34.
 
@@ -359,7 +335,9 @@ E) Instituciones de beneficencia reconocidas como tales por el Ejecutivo del Est
 
 F) Trabajadores domésticos.
 
-#### SECCION SEPTIMA. DE LAS EXENCIONES
+#### SECCION OCTAVA. DE LA ESTIMACION DE EROGACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 35.
 
@@ -377,9 +355,9 @@ El procedimiento a seguir será el establecido en el Código Fiscal del Estado.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION OCTAVA. DE LA ESTIMACION DE EROGACIONES
+#### SECCION PRIMERA. DEL OBJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 35-A.
 
@@ -391,7 +369,7 @@ No se considerarán servicios gravados por este impuesto los de albergue o aloja
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION PRIMERA. DEL OBJETO
+#### SECCION SEGUNDA. DE LOS SUJETOS
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -407,7 +385,7 @@ El traslado del impuesto a que se refiere este artículo no se considerará viol
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION SEGUNDA. DE LOS SUJETOS
+#### SECCION CUARTA. DE LA TASA
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -421,7 +399,7 @@ En dicha contraprestación quedan incluidos los depósitos, anticipos, gastos de
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION CUARTA. DE LA TASA
+#### SECCION QUINTA. DEL PAGO
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -431,7 +409,7 @@ El monto del impuesto se determinará aplicando a la base gravable a que alude e
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION QUINTA. DEL PAGO
+#### SECCION TERCERA. DE LA BASE
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -443,7 +421,7 @@ El pago de este impuesto deberá efectuarse en las oficinas recaudadoras que cor
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION TERCERA. DE LA BASE
+#### SECCION SEXTA. DE LAS OBLIGACIONES
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -465,6 +443,8 @@ VI.- Conservar la documentación comprobatoria de las operaciones gravadas por e
 
 VII.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
+
 #### SECCION SEPTIMA. DE LAS ESTIMACIONES
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
@@ -478,8 +458,6 @@ I.- El sujeto de este impuesto no registre en la contabilidad que deba llevar pa
 II.- No proporcione la información que la autoridad fiscal le solicite, su contabilidad, comprobantes, registros y demás documentos que la integren; y
 
 III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
 ### CAPITULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
 
@@ -1095,317 +1073,489 @@ b) Por inscripción y venta de bases 9 a 35
 
 II.- Por el ingreso que perciban por los servicios que prestan los organismos, de acuerdo a las cuotas o tarifas siguientes:
 
-a) HOSPITAL PSIQUIATRICO "MANUEL CAMPOS"
+> <small>(REFORMADO, P.O. 16 DICIEMBRE DE 1998)</small>
 
-Las cuotas de recuperación del Hospital Psiquiátrico son:
-
-Pre-Consulta $10.00
-
-Revaloraciones 10.00
-
-1.- A Exento
-
-2.- B 10.00
-
-3.- C 16.00
-
-4.- D 20.00
-
-5.- E 30.00
-
-6.- E-1 40.00
-
-7.- F 50.00
-
-El rubro señalado como exento en el cuadro anterior corresponde a las siguientes Instituciones: Internos del Centro de Readaptación Social, Hogar de Ancianos, Aldeas Infantiles, Casa Hogar y, previo estudio socioeconómico.
+a) HOSPITAL PSIQUIATRICO "DR. MANUEL CAMPOS"
 
 Las cuotas de recuperación del Hospital Psiquiátrico son:
 
 IMPORTES
 
+Pre-Consulta Grupos: B, C, D, E, F, y G $10.00
+
+Revaloraciones Grupos: B, C, D, E, F, y G 10.00
+
+Consulta Grupos:
+
+A Exento
+
+B $15.00
+
+C 20.00
+
+D 30.00
+
+E 40.00
+
+F 50.00
+
+G 60.00
+
+El grupo "A" señalado como exento en el cuadro anterior corresponde a las siguientes Instituciones: Preceptoría de Menores Infractores, Internos de los Centros de Readaptación Social de Campeche y Ciudad del Carmen, Hogar de Ancianos, Aldeas Infantiles, S.O.S., Casa Hogar, previo estudio socioeconómico que se realice al efecto.
+
+El área correspondiente de trabajo social del Hospital, para la asignación de pacientes en los grupos B, C, D, E, F y G evaluará los parámetros principales relativos a: ingresos (fijos o eventuales), egresos, número de miembros de la familia y número de hijos que se encuentren cursando estudios.
+
 CUOTAS DE RECUPERACION POR PRUEBAS PSICOLOGICAS
 
-B C D E F F-2
+B C D E F G
 
-Bender/Benton
+1.- Bender/Benton
 
-$7.00 $8.00 $12.00 $15.00 $18.00 $20.00
+$8.00 $12.00 $15.00 $18.00 $20.00 $30.00
 
-Machover
+2.- Machover
 
-7.00 8.00 12.00 15.00 18.00 20.00
+8.00 12.00 15.00 18.00 20.00 25.00
 
-H.T.P.
+3.- H.T.P.
 
-7.00 8.00 12.00 15.00 18.00 20.00
+8.00 12.00 15.00 18.00 20.00 30.00
 
-Goodenough
+4.- Goodenough
 
-7.00 8.00 12.00 14.00 17.00 20.00
+8.00 12.00 14.00 17.00 20.00 25.00
 
-Test de la familia
+5.- Test de la familia
 
-7.00 8.00 12.00 14.00 17.00 20.00
+8.00 12.00 14.00 17.00 20.00 25.00
 
-Ejecución y discriminación
+6.- Ejecución y discriminación
 
-7.00 8.00 12.00 14.00 17.00 20.00
+8.00 12.00 14.00 17.00 20.00 30.00
 
-Dislexia
+7.- Dislexia
 
-8.00 10.00 13.00 15.00 18.00 20.00
+10.00 13.00 15.00 18.00 20.00 30.00
 
-Frosting
+8.- Frosting
 
-17.00 19.00 21.00 23.00 26.00 30.00
+19.00 21.00 23.00 26.00 30.00 35.00
 
-Sacks
+9.- Sacks
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 25.00
 
-Inventario de Intereses Juveniles
+10.- Inventario de Intereses Juveniles
 
-8.00 10.00 12.00 15.00 18.00 20.00
+10.00 12.00 15.00 18.00 20.00 30.00
 
-Intereses de Ansiedad: Edo-Rasgo
+11.- Intereses de Ansiedad: Edo-Rasgo
 
-8.00 10.00 12.00 15.00 18.00 20.00
+10.00 12.00 15.00 18.00 20.00 25.00
 
-M.M.P.I
+12.- M.M.P.I
 
-10.00 12.00 15.00 16.00 19.00 25.00
+12.00 15.00 16.00 19.00 25.00 35.00
 
-M.M.P.I.R.
+13.- M.M.P.I.R.
 
-11.00 13.00 15.00 17.00 20.00 25.00
+13.00 15.00 17.00 20.00 25.00 35.00
 
-Geist (Intereses)
+14.- Geist (Intereses)
 
-8.00 10.00 12.00 15.00 18.00 20.00
+10.00 12.00 15.00 18.00 20.00 25.00
 
-Raven (Escala General)
+15.- Raven (Escala General)
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 30.00
 
-Raven (Escala Especial)
+16.- Raven (Escala Especial)
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 30.00
 
-Barsit
+17.- Barsit
 
-8.00 10.00 13.00 15.00 18.00 20.00
+10.00 13.00 15.00 18.00 20.00 25.00
 
-Beta II-R
+18.- Beta II-R
 
-10.00 12.00 14.00 16.00 19.00 22.00
+12.00 14.00 16.00 19.00 22.00 25.00
 
-Test de Anstey-Dominos
+19.- Test de Anstey-Dominos
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 25.00
 
-Wais
+20.- Wais
 
-11.00 13.00 16.00 18.00 21.00 25.00
+13.00 16.00 18.00 21.00 25.00 35.00
 
-Winc
+21.- Wisc
 
-11.00 13.00 16.00 18.00 21.00 25.00
+13.00 16.00 18.00 21.00 25.00 30.00
 
-Winc-RM
+22.- Wisc-RM
 
-12.00 14.00 16.00 18.00 21.00 25.00
+14.00 16.00 18.00 21.00 25.00 30.00
 
-WPPSI
+23.- WPPSI
 
-12.00 14.00 16.00 18.00 21.00 25.00
+14.00 16.00 18.00 21.00 25.00 30.00
 
-T.A.T.
+24.- T.A.T.
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 25.00
 
-C.A.T.-A
+25.- C.A.T.-A
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 25.00
 
-C.A.T.-H
+26.- C.A.T.-H
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 25.00
 
-S.A.T.
+27.- S.A.T.
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 25.00
 
-Purdue (Test No Verbal)
+28.- Purdue (Test No Verbal)
 
-8.00 10.00 12.00 14.00 18.00 22.00
+10.00 12.00 14.00 18.00 22.00 30.00
 
-Test de la Memoria Auditiva Inmediata
+29.- Test de la Memoria Auditiva Inmediata
 
-10.00 13.00 15.00 17.00 20.00 24.00
+13.00 15.00 17.00 20.00 24.00 30.00
 
-Evaluación de la Afasia
+30.- Evaluación de la Afasia
 
-11.00 14.00 16.00 18.00 21.00 25.00
+14.00 16.00 18.00 21.00 25.00 30.00
 
-Kuder (Preferencias) Vocacionales
+31.- Kuder (Preferencias) Vocacionales
 
-10.00 13.00 16.00 18.00 20.00 24.00
+13.00 16.00 18.00 20.00 24.00 30.00
 
-D.A.T. (Vocacional)
+32.- D.A.T. (Vocacional)
 
-18.00 19.00 21.00 23.00 26.00 30.00
+19.00 21.00 23.00 26.00 30.00 35.00
 
-Batería de Aptitudes Generales
+33.- Batería de Aptitudes Generales
 
-8.00 10.00 12.00 15.00 18.00 20.00
+10.00 12.00 15.00 18.00 20.00 25.00
 
-Dominio-Sometimiento
+34.- Dominio-Sometimiento
 
-8.00 10.00 13.00 15.00 18.00 20.00
+10.00 13.00 15.00 18.00 20.00 25.00
 
-Angeline (Orientación Vocacional)
+35.- Angeline (Orientación Vocacional)
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 25.00
 
-Hereford (Interés Vocacional)
+36.- Hereford (Interés Vocacional)
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 25.00
 
-Thurstone (Interés Vocacional)
+37.- Thurstone (Interés Vocacional)
 
-7.00 9.00 12.00 14.00 17.00 20.00
+9.00 12.00 14.00 17.00 20.00 25.00
+
+38.- Rosenzwig (Frustación-Agresividad)
+
+9.00 12.00 14.00 17.00 20.00 25.00
 
 Asimismo, los ingresos que obtenga por la venta de fármacos, biológicos y material de curación, deberán ser concentrados en las oficinas recaudadoras de la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 16 DICIEMBRE DE 1998)</small>
 
 b) INSTITUTO CAMPECHANO
 
 INGRESOS ESCOLARES
 
-COSTO COSTO
+Costo Costo Costo
 
-PREPARATORIA LICENCIATURA
+Preparatoria Licenciatura Postgrado
 
 Inscripciones
 
-$ 125.00 $ 125.00
-
-Colegiaturas
-
-80.00 90.00
+$135.00 $140.00 $300.00
 
 Examen de Admisión
 
-140.00 140.00
+200.00 200.00 300.00
 
 Curso de Introducción
 
-90.00 125.00
+100.00 130.00
 
-Elaboración de Credenciales
+Colegiaturas Mensuales
 
-12.00 12.00
+95.00 105.00
 
-Seguro de Accidentes Escolares
+Maestría en Metodología de la Investigación
 
-23.00 23.00
+Por materia
 
-Portacredencial
-
-17.00 17.00
-
-Derechos por Expedición de Certificados
-
-115.00 115.00
-
-Derechos por Expedición de Constancias
-
-90.00 90.00
-
-Derechos por Cotejo de Planes y Revalidaciones
-
-160.00 160.00
-
-Derechos por Examen a Título de Suficiencia
-
-90.00 90.00
-
-Derechos por Examen Extraordinario
-
-80.00 80.00
-
-Derechos por Cotejo de Documentos
-
-28.00 28.00
-
-Derecho de Asesoría
-
-28.00
-
-Derecho por Expedición de Servicio Social
-
-80.00
-
-Derechos por Expedición de Carta de Pasante
-
-110.00
-
-Derecho por Examen Profesional
-
-280.00
-
-Derecho por Expedición de Carta de Grado
-
-110.00
-
-Derecho por Firmas de Título Profesional
-
-125.00
-
-Derecho de Hoja de Piel
-
-125.00
-
-Servicios Deportivos
-
-34.00 34.00
-
-Material de Apoyo
-
-34.00 34.00
-
-Constancia Provisional
-
-17.00 17.00
-
-Servicio Fotográfico
-
-46.00 46.00
-
-Escuela de Posgrado y Maestría
-
-1,495.00
+1000.00
 
 Diplomado en Pedagogía
 
-1,495.00
+Por materia
+
+1000.00
+
+Elaboración de Credenciales
+
+30.00 30.00 30.00
+
+Seguro de Vida
+
+25.00 25.00
+
+Expedición de Certificados
+
+125.00 130.00 300.00
+
+Expedición de Constancias de Estudios
+
+100.00 105.00 150.00
+
+Expedición de Carta de Buena Conducta
+
+100.00 105.00 150.00
+
+Cotejo de Planes y Revalidaciones
+
+Alumnos Foráneos
+
+170.00 175.00
+
+Alumnos del Instituto Campechano
+
+65.00 70.00
+
+Examen a Título de Suficiencia
+
+100.00 110.00 300.00
+
+Examen Extraordinario
+
+90.00 95.00 200.00
+
+Cotejo de Documentos
+
+30.00 30.00
+
+Asesoría en sistema semiescolarizado
+
+30.00
+
+Carta de Liberación de Servicio Social
+
+100.00 200.00
+
+Expedición de Carta de Pasante
+
+130.00 250.00
+
+Examen Profesional
+
+400.00 800.00
+
+Acta de Grado
+
+120.00 200.00
+
+Trámite de firmas de Título Profesional
+
+150.00 200.00
+
+Hoja de Piel
+
+150.00 150.00
+
+Servicios Deportivos
+
+40.00
+
+Material de Apoyo
+
+40.00
+
+Constancia Provisional
+
+20.00 20.00
+
+Servicio Fotográfico 6T. Inf o Cred.
+
+15.00 15.00 15.00
+
+Servicio Fotográfico 6 Profesional
+
+30.00 30.00
+
+Examen en sistema semiescolariado
+
+100.00
+
+Expedición de Diploma
+
+100.00 1495.00
+
+Elaboración de Título
+
+200.00 250.00
+
+Seminarios
+
+1200.00
+
+OTROS CURSOS
+
+Estudiantes del I.C. Foráneos
+
+e hijos de trabajadores
+
+del I.C.
+
+Inglés (Laboratorio)
+
+Inscripción
+
+50.00 100.00
+
+Colegiatura Mensual
+
+35.00 70.00
+
+Credencial (opcional)
+
+30.00 30.00
+
+Iniciación al Arte
+
+Cursos talleres
+
+Inscripción
+
+30.00 60.00
+
+Colegiatura Mensual
+
+25.00 50.00
+
+Servicio Fotográfico
+
+15.00 15.00
+
+Credencial
+
+30.00 30.00
+
+Seguro de Vida
+
+25.00 25.00
+
+Cómputo
+
+Diseño de Pág. HTML
+
+350.00 700.00
+
+Herramientas Internet
+
+300.00 600.00
+
+Power Point
+
+225.00 450.00
+
+Excel
+
+263.00 525.00
+
+Word
+
+250.00 500.00
+
+Corel Draw
+
+275.00 550.00
+
+Renta de Equipo de Cómputo
+
+Por hora Por hora
+
+Casos Administrativos y Docentes
+
+5.00
+
+Alquiler de Sala para capacidad instalada
+
+10.00
+
+Impresiones por Hoja
+
+Matriz
+
+1.00 2.00
+
+Láser
+
+2.00 4.00
+
+Color
+
+3.00 6.00
 
 OTROS INGRESOS COSTO
 
-Renta de Nevería $ 3,000.00
+Escuelas Incorporadas
+
+Incorporación 2000.00
+
+Reg. De Inscripción por alumno 70.00
+
+Legalización de Firmas en certificado 150.00
+
+Legalización de firmas en carta de Buena Conducta 100.00
+
+Nevería Central $3,000.00
+
+Nevería de la Preparatoria 2800.00
 
 Constancia de Pago 25.00
 
 Fotocopias 0.35
 
-Duplicado de Credencial 23.00
+Duplicado de Credencial 35.00
 
 Recargos 0.10%
 
-Alquiler Teatro "Ricardo Hernández" 345.00
+Certificado Médico y Dental 60.00
 
-Certificado Médico Dental 55.00
+Mantenimiento de Equipo de Cómputo 50.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+ARRENDAMIENTO
+
+Renta Base Hora adicional
+
+5 Horas mínimo
+
+Teatro "Ricardo Hernández"
+
+350.00 70.00
+
+Sala de Arte "Domingo Pérez Piña" todas las Salas
+
+350.00 70.00
+
+Ser. elect. de entrada y 1 Sala
+
+175.00 35.00
+
+Aula Magna "Benito Juárez" usando todo el servicio eléctrico
+
+200.00 240.00
+
+> <small>(REFORMADO, P.O. 16 DICIEMBRE DE 1998)</small>
 
 El pago de los derechos antes mencionados, deberán ser cubiertos en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previamente a la obtención del servicio.
 
@@ -1787,9 +1937,23 @@ Los contratistas y destajistas que realicen obras para el Gobierno del Estado, a
 
 ## TITULO SEPTIMO. DE LAS PARTICIPACIONES
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 16 DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 85.
 
 Las participaciones por ingresos federales, se percibirán de acuerdo a lo dispuesto en la Ley Federal de la materia, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos; las cuales ingresarán íntegramente a la Secretaría de Finanzas.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 16 DICIEMBRE DE 1998)</small>
+
+## TITULO OCTAVO. DE LOS FONDOS DE APORTACIONES FEDERALES
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 86.
+
+Los Fondos de Aportaciones Federales, se percibirán por los conceptos y montos que estén establecidos en la Ley de Coordinación Fiscal, los cuales ingresarán íntegramente a la Secretaría de Finanzas y Administración y serán destinados y distribuidos de conformidad con lo establecido en la precitada Ley Federal.
 
 ## TRANSITORIOS
 
@@ -1864,3 +2028,9 @@ SEGUNDO.- Se concede un plazo de un mes contado a partir de la fecha de inicio d
 (F. DE. E., P.O. 22 DE JULIO DE 1998)
 
 TERCERO.- A partir del inicio de la vigencia de este decreto, la Secretaría de Finanzas y Administración tomará las providencias que sean necesarias para que los impuestos correspondientes por estos rubros se consideren parte integrante de la Ley de Ingresos del Estado para el ejercicio fiscal de 1999.
+
+P.O. 16 DICIEMBRE DE 1998.
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 1999.
+
+Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
