@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-27-2003-del-pleno-del-consejo-de-la-61150"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-05"
-last_updated: "2003-06-05"
+last_updated: "2003-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-05-28"
 
 ACUERDO GENERAL 27/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 66/2001, DEL PROPIO CUERPO COLEGIADO, CON EL OBJETO DE QUE LA OBLIGACION DE RENDIR INFORME DE ACTIVIDADES POR PARTE DEL DIRECTOR GENERAL DEL INSTITUTO DE LA JUDICATURA FEDERAL SE REALICE ANUALMENTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 33/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 25 DE JUNIO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 5 de junio de 2003.
 
@@ -60,3 +62,13 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 27/2003, del Pleno del Consejo de la Judicatura Federal, que Modifica el Diverso Acuerdo General 66/2001, del Propio Cuerpo Colegiado, con el Objeto de que la Obligación de Rendir Informe de Actividades por Parte del Director General del Instituto de la Judicatura Federal se Realice Anualmente, fue aprobado por el Pleno del Consejo, en sesión de veintiocho de mayo de dos mil tres, por unanimidad de votos de los señores Consejeros: Presidente Ministro, Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Margarita Beatriz Luna Ramos, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.- México, Distrito Federal, a veintiocho de mayo de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 25 DE JUNIO DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se abroga el Acuerdo General 66/2001, del Pleno del Consejo de la Judicatura Federal, que Establece la Obligación de Rendir Informe Semestral de Actividades por Parte del Director General del Instituto de la Judicatura Federal; así como el Acuerdo General 27/2003, del Pleno del Consejo de la Judicatura Federal, que Modifica el Diverso Acuerdo General 66/2001, del Propio Cuerpo Colegiado, con el Objeto de que la Obligación de Rendir Informe de Actividades por Parte de Director General del Instituto de la Judicatura Federal se Realice Anualmente.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
