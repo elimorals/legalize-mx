@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1999-03-29"
+last_updated: "2001-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -73,39 +73,13 @@ El Estado podrá, en los términos de Ley, convenir con la federación la asunci
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-###### Artículo 4º.
-
-En el Estado de Hidalgo, todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse, sino en los casos y condiciones que ella misma establece.
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 4°.
 
-Para las próximas elecciones de Gobernador del Estado, no regirá lo dispuesto por las fracciones III y IV del artículo 48 de esta Constitución. Por esta sola vez, podrán ser electos Gobernador del Estado, los militares y funcionarios comprendidos en estas disposiciones, siempre que se hayan separado de sus respectivos puestos, los primeros, y de todo servicio los segundos, a má tardar treinta días después de promulgada esta Constitución.
+En el Estado de Hidalgo, todo individuo gozará de las garantías y derechos que otorga esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse, sino en los casos y condiciones que ella misma establece.
 
-Dado en el Salón de Sesiones de la H. Legislatura del Estado, en Pachuca de Soto, a los veinte días del mes de septiembre de mil novecientos veinte.
-
-Por el Distrito Electoral número 3 (Tulancingo), Felipe de J. Espinosa, Diputado Presidente.- Por el Distrito Electoral número 1 (Pachuca), Ernesto Castillo, Diputado Vicepresidente.- Por el Distrito Electoral número 2 (Tezontepec), Alberto Vargas.- Por el Distrito Electoral número 4 (Tula de Allende), Pablo Salinas Gil.- Por el Distrito Electoral número 5 (Huichapan), Jesús V. y Villagrán.- Por el Distrito Electoral número 6 (Apam), Lic. Manuel María Lazcano.- Por el Distrito Electoral número 7 (Huejutla), Sebastian Amador.- Por el Distrito Electoral número 8 (Actopan), Crisóforo Aguirre.- Por el Distrito Electoral número 9 (Ixmiquilpan), Daniel Benítez.- Por el Distrito Electoral número 11 (Molango), Ciro C. Lozano.- Por el Distrito Electoral número 15 (Zimapán), Gabriel Sánchez.- Por el Distrito Electoral número 16 (Tenango de Doria), Juvencio Vargas.- Por el Distrito Electoral número 14 (Atotonilco el Grande), Lauro González, Diputado Secretario.- Por el Distrito Electoral número 12 (Zacualtipán), José M. Campos, Diputado Secretario.
-
-Por tanto, mando se imprima, publique solemnemente por Bando y circule para su fiel observancia.
-
-Palacio del Poder Ejecutivo, en Pachuca de Soto, a veintiuno de septiembre de mil novecientos veinte.- Nicolás Flores.- Lic. Eduardo Suárez, Subsecretario, Encargado del Despacho de la Secretaría General.
-
-P.O. 8 DE MAYO DE 1924.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 16 DE ENERO DE 1925.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 16 DE MAYO DE 1927.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 16 DE NOVIEMBRE DE 1927.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 5º.
 
@@ -114,6 +88,18 @@ Sin distinción alguna, todos los habitantes del Estado tienen los derechos y ob
 El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
 
 Toda persona tiene derecho a decidir, de manera libre, responsable e informada, sobre el número y el espaciamiento de sus hijos.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+Los niños, niñas, adolescentes y personas con capacidades diferentes, tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. El Estado proveerá lo necesario para garantizar el respeto a la dignidad de la niñez, los adolescentes y las personas con capacidades diferentes y el ejercicio pleno de sus derechos.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+El Estado otorgará facilidades a los particulares, para que se coadyuve al cumplimiento de los derechos de la niñez.
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas.
 
@@ -149,19 +135,21 @@ La ley determinará cuáles son las profesiones que necesitan título para su ej
 
 Todos los habitantes del Estado tienen derecho a la alimentación, a la salud, a disfrutar de una vivienda digna y decorosa, y en general, al bienestar y a la seguridad individual y social, como objetivos de la permanente superación del nivel de vida de la población. La ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
-
-###### Artículo 8o Bis.
-
-Todos los habitantes de la Entidad tienen derecho a la educación que imparta el Estado, la que será democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, Social y Cultural del pueblo. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, el amor a la patria, y a la conciencia de la solidaridad Social en lo Nacional y en lo Internacional, dentro de la independencia y la justicia.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 8°.
 
 Todos los habitantes del Estado tienen derecho a la salud, al bienestar y a la seguridad social, como objetivo de la permanente superación del nivel de vida de la población.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+
+###### Artículo 8 Bis.
+
+Todos los habitantes de la Entidad tienen derecho a la educación que imparta el Estado, la que será pública, gratuita, laica y democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentar en él, el amor a la patria y la conciencia de la solidaridad social en lo nacional y en lo internacional, dentro de la independencia y la justicia.
+
+El Estado procurará el acceso a programas de becas para los alumnos más destacados en su desempeño académico dentro de las instituciones de educación pública, así como de aquellos que su condición económica les impida la conclusión de estudios profesionales.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 9º.
 
@@ -257,11 +245,13 @@ Son hidalguenses:
 
 I. Los nacidos en el territorio del Estado;
 
-> <small>(F. DE E., P.O. 8 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
-II. Los hijos de padre o madre hidalguenses por nacimiento y los mexicanos que tengan domicilio establecido y una residencia efectiva de 5 años por lo menos, dentro del territorio del Estado y manifiesten su deseo de adquirir tal calidad; y
+II. Los mexicanos y mexicanas que tengan domicilio establecido y una residencia efectiva de cinco años por lo menos, dentro del territorio del Estado y manifiesten su deseo de adquirir tal calidad y
 
-III. Los mexicanos que habiendo contraído matrimonio con hidalguense, residan cuando menos tres años en el Estado y manifiesten su deseo de adquirir esta calidad.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
+III. Los mexicanos y mexicanas que habiendo contraído matrimonio con hidalguenses, residan cuando menos tres años en el Estado y manifiesten su deseo de adquirir esa calidad.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -281,7 +271,11 @@ II. La realización de estudios profesionales, científicos o artísticos, efect
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
-III. Por el desempeño de actividades administrativas o docentes que aporten beneficios a la Entidad.
+III. Por el desempeño de actividades administrativas o docentes que aporten beneficios a la Entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE FEBRERO DE 2001)</small>
+
+IV. Por desempeñar sus actividades laborales en el extranjero.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -573,17 +567,17 @@ El primero se iniciará el primer día de abril y concluirá el último de junio
 
 Los períodos no podrán prorrogarse más allá de la fecha de su terminación.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 39.
 
-El Congreso podrá celebrar sesiones extraordinarias mediante convocatoria formulada por el Gobernador del Estado o por la Comisión Permanente.
+El Congreso podrá celebrar sesiones extraordinarias a convocatoria de la Diputación Permanente por sí o a solicitud formulada por el Gobernador del Estado.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 40.
 
-Los Diputados que falten a una sesión sin causa justificada o sin permiso del Congreso o de la Comisión Permanente, en su caso, no tendrán derecho a percibir la dieta correspondiente al día de su inasistencia.
+Los Diputados que falten a una sesión sin causa justificada o sin permiso del Congreso o de la Diputación Permanente, en su caso, no tendrán derecho a percibir la dieta correspondiente al día de su inasistencia.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -591,15 +585,13 @@ Los Diputados que falten a una sesión sin causa justificada o sin permiso del C
 
 Cuando algún Diputado falte a más de cinco sesiones consecutivas, sin tener licencia o causa justificada, será sustituido por el Suplente, quien concluirá el período ordinario de sesiones respectivo.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 42.
 
-Durante el primer período ordinario de sesiones, el Congreso se ocupará preferentemente de examinar y calificar las cuentas de recaudación y aplicación de los fondos del Estado y de los Municipios, correspondientes al año inmediato anterior.
+Durante el primer período ordinario de sesiones, el Congreso se ocupará preferentemente de examinar y calificar las cuentas públicas del Estado y de los municipios, correspondientes al año inmediato anterior.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1987)</small>
-
-En el segundo y para que rijan el año siguiente, se ocupará preferentemente de examinar y aprobar, en su caso, las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador y los Presidentes Municipales deberán enviarle a más tardar el 15 de Diciembre.
+En el segundo y para que rijan el año siguiente, se ocupará preferentemente de examinar y aprobar, en su caso, las Leyes de Ingresos del Estado y de los municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el 15 de diciembre.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -727,7 +719,11 @@ III. Expedir las leyes reglamentarias y ejercer las facultades que le otorga la 
 
 IV. Iniciar Leyes y Decretos ante el Congreso de la Unión;
 
-V. Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda de la Entidad;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
+V. Expedir y aprobar su Ley reglamentaria, así como la ley que regule las facultades y organización interna de la Contaduría Mayor de Hacienda del Congreso del Estado, conforme a las bases establecidas en esta Constitución.
+
+La Contaduría Mayor de Hacienda del Congreso del Estado es el órgano técnico responsable de la revisión y fiscalización de las cuentas públicas del Estado y de los Municipios, de acuerdo a la Legislación correspondiente;
 
 VI. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)
 
@@ -749,17 +745,19 @@ X. Nombrar al ciudadano que debe suplir al Gobernador Constitucional, en caso de
 
 XI. Conceder a los Diputados, Gobernador, Magistrados, Procurador General de Justicia y Subprocurador de Asuntos Electorales, licencia para separarse de sus cargos en los términos establecidos por esta Constitución;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-XII. Expedir las leyes que rijan el patrimonio del Estado y el de los Municipios, autorizar a los ayuntamientos, cuando así procediere, a cualquier tipo de enajenación de bienes inmuebles del dominio de los Municipios, los que deberán justificar el monto de las operaciones respectivas si fueren a título oneroso, o el motivo si no lo fueren;
+XII. Expedir las leyes que rijan el patrimonio del Estado y el de los Municipios;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-XIII. Resolver los conflictos que se susciten entre dos o más municipios de la Entidad, así como entre los Ayuntamientos y el Ejecutivo del Estado;
+XIII. Resolver los conflictos que se susciten entre dos o más municipios del Estado, así como entre los Ayuntamientos y el Ejecutivo del Estado, exceptuando los de carácter judicial;
 
 XIV. Dar posesión a los Diputados Suplentes en caso de inhabilitación o licencia de los Diputados Propietarios;
 
-XV. Nombrar definitivamente a los empleados de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+XV. Nombrar al Titular de la Contaduría Mayor de Hacienda del Congreso del Estado y al Oficial Mayor;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
 
@@ -767,9 +765,9 @@ XVI. Decretar se tramite la reivindicación de los bienes Estatales y Municipale
 
 XVII. Recibir y aprobar, en su caso, la cuenta justificada que está obligada a rendir toda persona física o moral que recibida a cualquier título, fondos del erario estatal, comprendidos en el Presupuesto de Egresos del año correspondiente;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-XVIII. Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que las Leyes Locales prevengan, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan. En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta, o de la mayoría de sus miembros si conforme a la Ley no procediere que entraren en funciones los suplentes ni que se celebraren nuevas elecciones, las Legislaturas designarán entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos;
+XVIII. Declarar, por acuerdo de las dos terceras partes de sus integrantes, la suspensión o la desaparición de ayuntamientos; suspender o revocar el mandato de alguno o algunos de sus miembros por cualquiera de las causas graves que las leyes prevengan, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan, dentro de los términos de ley;
 
 XIX. Instalar y presidir la Junta Preparatoria del nuevo Congreso del Estado;
 
@@ -807,15 +805,43 @@ XXVII. Declarar si ha lugar o no a proceder penalmente contra los servidores pú
 
 XXVIII. Constituirse en órgano de acusación para conocer de las faltas graves administrativas cometidas por los servidores públicos y,
 
-> <small>(ADICIONADA ([N. DE E. REFORMADA], P.O. 9 DE MAYO DE 1998)</small>
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
-XXIX. Las demás facultades que le sean concedidas por esta Constitución.
+XXIX. Expedir leyes sobre la organización, administración y procedimientos municipales en las que se establezcan:
 
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
 
-#### SECCION VI. DE LA COMISION PERMANENTE
+b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+c) Las normas de aplicación general para los convenios que celebren los gobiernos municipales con el gobierno del Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de las contribuciones municipales o para que aquél, de manera directa o (sic) través del organismo correspondiente, se haga cargo en forma temporal de algunos servicios públicos o funciones municipales o para que se presten o ejerzan coordinadamente por el Estado y el propio municipio o para que los municipios asuman funciones, ejecuten u operen obras y presten servicios públicos, que la Federación haya delegado en los Estados, cuando el desarrollo económico y social lo haga necesario.
+
+d) El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la propia Legislatura del Estado considere que el municipio de que se trate está imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes;
+
+e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes y
+
+f) Las normas que regulen los procedimientos para la solución de los conflictos que surjan entre los municipios y el Ejecutivo del Estado o entre aquellos, con motivo de los actos derivados de los incisos c) y d) de esta fracción.
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
+XXX. Aprobar, por el voto de las dos terceras partes del total de sus miembros, los convenios de asociación que suscriban los municipios del Estado de Hidalgo con aquellos que pertenezcan a otra entidad federativa,
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
+XXXI. Revisar y fiscalizar las cuentas públicas del Estado y de los Municipios.
+
+Para la revisión y fiscalización de la cuenta pública, tanto del Estado como de los Municipios, el Congreso se apoyará en la Contaduría Mayor de Hacienda. Si del examen que ésta realice aparecieren discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
+
+La Contaduría Mayor de Hacienda del Congreso del Estado determinará los daños y perjuicios que afecten a las haciendas públicas estatal o municipales o al patrimonio de las entidades estatales o municipales y fincará a los responsables las indemnizaciones y sanciones pecuniarias correspondientes; en su caso, promoverá ante las autoridades competentes el fincamiento de otras responsabilidades o las acciones a que se refiere el título Décimo de esta Constitución y podrá presentar denuncias y querellas penales conforme a la Ley de la materia, y
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
+XXXII. Las demás que le sean concedidas por esta Constitución.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE FEBRERO DE 2001)</small>
+
+#### SECCION VI. DE LA DIPUTACION PERMANENTE
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 #### SECCION I. DEL GOBERNADOR
 
@@ -823,21 +849,23 @@ XXIX. Las demás facultades que le sean concedidas por esta Constitución.
 
 ###### Artículo 57.
 
-Durante los recesos del Congreso habrá una Comisión Permanente, compuesta de siete Diputados con el carácter de propietarios y otros dos como suplentes.
+Durante los recesos del Congreso habrá una Diputación Permanente, compuesta de siete Diputados con el carácter de Propietarios y otros dos como suplentes.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 58.
 
-La Comisión Permanente será nombrada por el Congreso, tres días antes de la clausura del período ordinario de sesiones.
+La Diputación Permanente será nombrada por el Congreso, cuando menos tres días antes de la clausura del período ordinario de sesiones.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 59.
 
-Son facultades de la Comisión Permanente:
+Son facultades de la Diputación Permanente:
 
-I. Convocar al Congreso a sesiones extraordinarias, por iniciativa propia o del Ejecutivo;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
+I. Convocar a sesiones extraordinarias por sí o a solicitud formulada por el Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -847,11 +875,15 @@ II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de 
 
 III. Recibir la protesta al cargo de Gobernador, Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
 
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+
 IV. Resolver asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen a fin de que se despachen en el período inmediato de sesiones;
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
 V. Conocer las propuestas de nombramiento de los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y las de los Magistrados del Tribunal Electoral del Estado y de su licencia o renuncia, en los términos que establezca la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 VI. Nombrar con carácter interino a los empleados de la Contaduría Mayor de Hacienda;
 
@@ -863,15 +895,19 @@ VII. Nombrar Gobernador Provisional en los casos previstos por esta Constitució
 
 VIII. Conocer en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, de la renuncia de estos a su encargo. Así como la lista de propuestas que presente el titular del Ejecutivo para el nombramiento de Procurador General de Justicia del Estado y de Subprocurador de Asuntos Electorales, y de su renuncia o remoción;
 
-IX. Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado o de los Municipios, respectivamente, en los mismos términos de la fracción XII del artículo 56 de esta Constitución, cuando el Congreso se encuentra en receso;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
+IX. Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 X. Las demás que le confiere expresamente esta Constitución.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 60.
 
-La Comisión Permanente dará cuenta en la segunda sesión del Congreso, del uso que hubiere hecho de las facultades consignadas en el artículo anterior.
+La Diputación Permanente dará cuenta en la segunda sesión del Congreso, del uso que hubiere hecho de las facultades consignadas en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -917,13 +953,17 @@ VI. No ser servidor público federal o local, Secretario de Despacho del Ejecuti
 
 No ser Magistrado del Tribunal Electoral del Estado, Subprocurador de Asuntos Electorales o Consejero Ciudadano del Consejo General del Instituto Estatal Electoral, a menos que se separen de su cargo un año antes de la fecha de la elección.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 64.
 
-Para suplir las faltas temporales del Gobernador no mayores de 6 meses, el Congreso del Estado nombrará un Gobernador Interino. En caso de darse la solicitud de licencia estando en receso el Congreso. La Comisión Permanente convocará de inmediato a una reunión extraordinaria del Congreso, para cumplir esta finalidad.
+Para suplir las faltas temporales del Gobernador no mayores de seis meses, el Congreso del Estado nombrará un Gobernador Interino. En caso de darse la solicitud de licencia estando en receso el Congreso, la Diputación Permanente convocará de inmediato a una sesión extraordinaria del Congreso, para cumplir esta finalidad.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 El Gobernador del Estado, electo popular, ordinaria o extraordinariamente, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional, Sustituto o Encargado del Despacho.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Tampoco podrá ser electo Gobernador Constitucional, el ciudadano que hubiere sido designado Gobernador Interino, Provisional o Sustituto.
 
@@ -949,15 +989,13 @@ Al tomar posesión de su cargo el Gobernador rendirá la protesta ante el Congre
 
 En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en período ordinario, convocará inmediatamente a sesión y concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en votación secreta y por mayoría de votos, un Gobernador Interino, notificando lo actuado al Consejo General del Instituto Estatal Electoral, requiriéndole convocar a elecciones extraordinarias para elegir al Gobernador Constitucional que habrá de concluir el período correspondiente.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+Si el Congreso del Estado, no estuviere en período ordinario de sesiones, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará inmediatamente a sesión extraordinaria al Congreso, para que éste a su vez, designe al Gobernador interino, conforme lo que previene el párrafo primero de este artículo.
 
-Si el Congreso del Estado, no estuviere en período ordinario de sesiones, la Comisión Permanente nombrará desde luego, un Gobernador Provisional y convocará inmediatamente a sesión extraordinaria al Congreso para que este, a su vez, designe al Gobernador Interino, conforme como lo previene el párrafo primero de este artículo.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-Cuando la falta absoluta de Gobernador ocurriere en los cuatro últimos años del período respectivo, si el Congreso del Estado se encontrare en sesiones, designará en votación secreta y por mayoría absoluta de votos de los diputados presentes, el Gobernador sustituto que habrá de concluir el ejercicio constitucional, concurriendo cuando menos las dos terceras partes del número total de sus miembros. Si el Congreso del Estado no estuviere reunido, la Comisión Permanente nombrará un Gobernador provisional, y convocará inmediatamente al Congreso del Estado a sesión extraordinaria para que, erigido en Colegio Electoral, haga la designación de Gobernador en los términos ya señalados arriba.
+Cuando la falta absoluta de Gobernador ocurriere en los cuatro últimos años del período respectivo, si el Congreso del Estado se encontrare en sesiones, designará en votación secreta y por mayoría absoluta de votos de los Diputados presentes, al Gobernador sustituto que habrá de concluir el ejercicio constitucional, concurriendo cuando menos las dos terceras partes del número total de sus miembros, si el Congreso del Estado no estuviere reunido, la Diputación Permanente nombrará un Gobernador provisional y convocará inmediatamente al Congreso del Estado a sesión extraordinaria para que, erigido en Colegio Electoral, haga la designación de Gobernador, en los términos ya señalados.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -971,23 +1009,23 @@ Si al iniciarse un período constitucional no se presenta el gobernador electo, 
 
 Para ser Gobernador sustituto, interino o provisional, son indispensables los mismos requisitos señalados por el artículo 63 de esta Constitución, con excepción de los señalados en la fracción VI del mismo Ordenamiento legal.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 69.
 
-El Ciudadano electo para suplir las faltas temporales o absolutas del Gobernador, rendirá la protesta constitucional ante el Congreso del Estado. Si éste estuviere en receso la Comisión Permanente lo convocará a una sesión extraordinaria para tal efecto.
+El ciudadano electo para suplir las faltas temporales o absolutas del Gobernador, rendirá la protesta constitucional ante el Congreso del Estado, si éste estuviere en receso, la Diputación Permanente lo convocará a una sesión extraordinaria para tal efecto.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 70.
 
-El Gobernador del Estado podrá salir del territorio del mismo sin licencia del Congreso o de la Comisión Permanente, por un plazo que no exceda de treinta días.
+El Gobernador del Estado, podrá ausentarse de la Entidad, sin licencia del Congreso o de la Diputación Permanente, por un plazo que no exceda de treinta días.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 71.
 
@@ -1011,9 +1049,9 @@ VIII. Ordenar que se cumplan las sentencias ejecutoriadas de los Tribunales;
 
 IX. Cuidar del orden y la tranquilidad pública del Estado,
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
-X. Mandar las fuerzas de seguridad pública del Estado y todas las que se encuentren en el municipio donde resida, de acuerdo con el Artículo 115 fracción VII, de la Constitución General de la República;
+X. Mandar las fuerzas de seguridad pública del Estado y dictar órdenes a las policías municipales en los casos que considere como de fuerza mayor o alteración grave del orden público;
 
 XI. Resolver las dudas que tuvieren los agentes de la Administración Pública, sobre la aplicación de las Leyes a casos particulares;
 
@@ -1021,7 +1059,9 @@ XI. Resolver las dudas que tuvieren los agentes de la Administración Pública, 
 
 XII. Nombrar y remover libremente a los Secretarios de Despacho y a todos los empleados y funcionarios, que conforme a la Constitución y a las leyes, no deban ser nombrados por otra autoridad;
 
-XIII. Nombrar a los funcionarios y agentes integrantes de los cuerpos de Seguridad Pública y a los responsables de los servicios públicos, que en todos los casos se consideren como empleados de confianza;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
+XIII. Nombrar a los funcionarios y agentes integrantes de las fuerzas de seguridad pública Estatal y a los responsables de los servicios públicos del gobierno, que en todos los casos se considerarán como empleados de confianza;
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
@@ -1119,9 +1159,9 @@ XLV. Planificar y regular el crecimiento de los centros urbanos, otorgando los s
 
 XLVI. Recabar las participaciones que correspondan a los Ayuntamientos, que por cualquier título se perciban, para entregarlos a la Hacienda Municipal;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
-XLVII. Conducir y promover el desarrollo integral del Estado, de conformidad con los objetivos y prioridades de la planeación del desarrollo estatal;
+XLVII. Conducir y promover el desarrollo integral del Estado, de conformidad con los objetivos y prioridades de la planeación del desarrollo estatal; así como elaborar, con la participación de los municipios, los planes y programas, para promover e impulsar el desarrollo regional;
 
 XLVIII. Actuar como árbitro en los conflictos que se susciten entre los Municipios;
 
@@ -1143,9 +1183,9 @@ LII. Las demás que le confiera esta Constitución y la General de la República
 
 ###### Artículo 72.
 
-El titular del Ejecutivo, previa consulta a las agrupaciones de abogados registradas en la Entidad, someterá al Congreso del Estado, o a la Comisión Permanente en su caso, la lista de propuestas de candidatos para ocupar los cargos de Procurador General de Justicia del Estado y Subprocurador de Asuntos Electorales, cuyos nombramientos deberán resolverse en el término de diez días.
+El titular del Ejecutivo, previa consulta a las agrupaciones de abogados registradas en la Entidad, someterá al Congreso del Estado o a la Diputación Permanente en su caso, la lista de propuestas de candidatos para ocupar los cargos de Procurador General de Justicia del Estado y Sub-procurador (sic) de Asuntos Electorales, cuyos nombramientos deberán resolverse en el término de diez días.
 
-Si el Congreso del Estado o la Comisión Permanente en su caso, nada resolvieren dentro del plazo señalado; el titular del Ejecutivo nombrará Procurador General de Justicia y Subprocurador de Asuntos Electorales, hasta en tanto el Congreso nombre a los titulares, quienes deberán rendir la protesta de Ley ante el Congreso del Estado.
+Si el Congreso del Estado o la Diputación Permanente en su caso, nada resolvieren dentro del plazo señalado, el Titular del Ejecutivo nombrará al Procurador General de Justicia y Sub-procurador (sic) de Asuntos Electorales hasta en tanto el Congreso nombre a los titulares, quienes deberán rendir la protesta de ley ante el Congreso del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -1299,7 +1339,9 @@ III. Tener modo honesto de vivir; y
 
 IV. No haber sido condenado por delitos dolosos o faltas graves administrativas.
 
-El Procurador General de Justicia y el Subprocurador de Asuntos Electorales duraran en su encargo tres años; deberán rendir la protesta de Ley ante el Congreso del Estado o la Comisión Permanente en su caso, pudiendo ser ratificados por el primero.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+El Procurador General de Justicia y el Sub-procurador (sic) de Asuntos Electorales, duraran en su cargo tres años; deberán rendir la protesta de ley ante el Congreso del Estado o la Diputación Permanente en su caso, pudiendo ser ratificados por el primero.
 
 Solo podrán ser removidos en los términos previstos por esta Constitución; por la comisión de delitos; por faltas establecidas en las leyes vigentes y por incumplimiento grave de sus atribuciones de ley calificado así, por el pleno del Tribunal Superior de Justicia, a solicitud del Congreso o a virtud de la demanda que al efecto formule el titular del Ejecutivo ante el Congreso del Estado.
 
@@ -1339,9 +1381,13 @@ Las leyes garantizarán a dichos servidores públicos una remuneración adecuada
 
 El Tribunal Superior de Justicia, el Tribunal Fiscal Administrativo y el Tribunal Electoral estarán integrados por el número de magistrados que establezca la Ley Orgánica del Poder Judicial.
 
-Los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, serán nombrados por el Gobernador del Estado con la aprobación del Congreso o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-Los magistrados del Tribunal Electoral serán nombrados por el Congreso del Estado o por la Comisión Permanente, en su caso, a propuesta de los Partidos Políticos.
+Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, serán nombrados por el Gobernador del Estado con la aprobación del Congreso o de la Diputación Permanente en su caso, en los términos de esta Constitución.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+Los Magistrados del Tribunal Electoral serán nombrados por el Congreso del Estado o por la Diputación Permanente, en su caso, a propuesta de los Partidos Políticos.
 
 Para el trámite de renuncias de los magistrados del Poder Judicial, se seguirá el mismo procedimiento que para su nombramiento.
 
@@ -1395,15 +1441,15 @@ Lo previsto en las fracciones VII, VIII y IX, no será aplicable a los magistrad
 
 Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 96.
 
-Los nombramientos de Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, que el Gobernador someta al Congreso del Estado o a la Comisión Permanente, en su caso, serán aprobados o no, dentro del improrrogable término de diez días.
+Los nombramientos de Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, que el Gobernador someta al Congreso del Estado o a la Diputación Permanente, en su caso, serán aprobados o no dentro del improrrogable término de diez días.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-Si el Congreso del Estado o la Comisión Permanente en su caso, nada resolvieren dentro del plazo señalado, se tendrán por aprobados los nombramientos, y el o los designados entrarán a desempeñar sus funciones.
+Si el Congreso del Estado o la Diputación Permanente en su caso, nada resolvieren dentro del plazo señalado, se tendrán por aprobados los nombramientos y él o los designados entrarán a desempeñar sus funciones.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1439,13 +1485,17 @@ Los magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administ
 
 Obtendrán su jubilación al totalizar 60 años, sumando su edad a la antigüedad en el servicio.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 98.
 
-Los magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, otorgarán la protesta de ley ante el Congreso del Estado y en los recesos de éste, ante la Comisión Permanente.
+Los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, otorgarán la protesta de Ley ante el Congreso del Estado y en los recesos de éste, ante la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 Los jueces protestarán ante el Tribunal Superior de Justicia y los demás funcionarios y empleados de la administración de justicia, rendirán protesta ante autoridad de la cual dependan.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 En escrutinio secreto, los magistrados de cada Tribunal, nombrarán de entre ellos al que será Presidente, quien durará en su cargo un año, pudiendo ser reelecto. Estos funcionarios deberán rendir un informe sobre el estado que guarda la administración de justicia, en los términos establecidos en la ley orgánica.
 
@@ -1477,7 +1527,9 @@ X. Informar al Gobernador o al Congreso, para determinar los casos de indulto, r
 
 XI. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior de Justicia y demás magistrados, así como de los funcionarios y empleados del Tribunal, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las leyes respectivas;
 
-XII. Resolver los conflictos que surjan entre los municipios y el Congreso y
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
+XII. Resolver los conflictos de carácter judicial que surjan entre los municipios, entre éstos y el Congreso y entre aquéllos y el Ejecutivo estatal y
 
 XIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 
@@ -1563,7 +1615,7 @@ Los bienes del dominio público del Estado son inalienables, imprescriptibles e 
 
 ### CAPITULO I. DEL MUNICIPIO LIBRE
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 105.
 
@@ -1605,11 +1657,11 @@ Los servidores públicos serán responsables del cumplimiento de estas bases en 
 
 Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, en tanto se expida éste, continuará vigente el del año inmediato anterior.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 110.
 
-Las cuentas de los caudales públicos deberán glosarse sin excepción por la Contaduría General del Estado, misma que dependerá del Congreso del Estado.
+Las cuentas de los caudales públicos deberán glosarse sin excepción, por la Contaduría Mayor de Hacienda del Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1637,43 +1689,47 @@ El Gobernador cuidará de que el Congreso del Estado conozca de la fianza con qu
 
 (DEROGADO, P.O. 9 DE MAYO DE 1998)
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL DECRETO DE REFORMAS NUMERO 212, PUBLICADO EN EL P.O. DEL 26 DE FEBRERO DE 2001, SE MODIFICA DE MANERA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE TITULO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ## TITULO IX. DE LOS MUNICIPIOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO II. DE LA EXTENSION, LIMITES Y CABECERAS
+### CAPITULO II. DE LA CREACION Y SUPRESION DE MUNICIPIOS
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 115.
 
-El municipio es una Institución con personalidad jurídica-política, con territorio determinado, en el que se encuentra el núcleo de población, dotado de autonomía para atender a sus necesidades, para lo cual manejará su patrimonio conforme a la Ley y eligirá (sic) directamente a sus autoridades.
+El Municipio Libre es una Institución con personalidad jurídico- política y territorio determinado, dotado de facultades para atender las necesidades de su núcleo de población, para lo cual manejará su patrimonio conforme a las leyes en la materia y elegirá directamente a sus autoridades.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+El desarrollo social y económico del Municipio se llevará a cabo en forma planeada. Los planes y programas estatales respetarán la libertad de los gobiernos municipales.
+
+Los Municipios participarán en la formulación de planes de desarrollo regional que elaboren la Federación o el Gobierno Estatal, en los términos que señale la Ley.
+
+Cada Municipio deberá formular y expedir su Plan y Programa de Desarrollo Municipal en los términos que fijen las leyes.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 116.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá autoridad alguna intermedia entre éste y el Gobierno del Estado.
+La competencia que la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución Política del Estado de Hidalgo, otorgan a los Municipios, se ejercerá por el Ayuntamiento en forma exclusiva.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-El desarrollo social y económico del Municipio se llevará a cabo en forma planeada, tomándose en cuenta para que las acciones sean congruentes con los objetivos que persiga todo el Estado, los objetivos y prioridades de la planeación del desarrollo estatal, debiendo considerarse en todo tiempo la libertad y autonomía de este Gobierno. Para tal efecto, los Municipios podrán coordinarse con el Gobierno Estatal, en los términos que señale la Ley.
+### CAPITULO III. DEL GOBIERNO MUNICIPAL
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-### CAPITULO III. DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 117.
 
-El territorio del Estado de Hidalgo se divide en ochenta y cuatro Municipios con las cabeceras que se señalan en la Ley de la materia.
+El territorio del Estado de Hidalgo se divide en ochenta y cuatro municipios con las cabeceras que se señalan en la ley de la materia.
 
-Los límites de los Municipios se consignarán en la Ley Orgánica Municipal.
+Los límites de los municipios se consignarán en la Ley Orgánica Municipal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 118.
 
@@ -1681,519 +1737,429 @@ Para la creación de Municipios en la Entidad se requiere la aprobación del Con
 
 I. Que sea conveniente para satisfacer las necesidades de sus habitantes;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+II. Que el territorio donde se pretenda erigir un nuevo Municipio, sea capaz de cubrir sus necesidades y atender a sus posibilidades de desarrollo futuro;
 
-II. Que el territorio donde se pretenda erigir un nuevo municipio, sea capaz de cubrir sus necesidades y atender a sus posibilidades de desarrollo futuro;
+III. Que los recursos para su desarrollo potencial le garanticen posibilidades económicas para prestar en forma adecuada los servicios públicos y ejercer las funciones que están a su cargo, en los términos que fije la ley;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+IV. Que su población no sea inferior de cien mil habitantes.
 
-III. Que los recursos para su desarrollo potencial, le garanticen posibilidades económicas, para cubrir un presupuesto anual mínimo de $30,000,000.00 (TREINTA MILLONES DE PESOS 00/100 M.N.);
+V. Que la comunidad en la que establezca su cabecera cuente con más de diez mil habitantes;
 
-IV. Que su población no sea inferior de cien mil habitantes;
-
-V. Que la comunidad en la que se establezca su cabecera, cuente con más de diez mil habitantes;
-
-VI. Que el territorio que constituya el nuevo municipio sea por lo menos de 500 kilómetros cuadrados.
+VI. Que el territorio que constituya el nuevo Municipio sea por lo menos de 500 kilómetros cuadrados;
 
 VII. Que la población que se señala en la fracción IV, tenga equipamiento urbano adecuado para sus habitantes; y
 
-VIII. Que previamente se escuche la opinión de los Ayuntamientos de los Municipios que resultaren afectados en su territorio, su economía y su población con la creación del nuevo Municipio.
+VIII. Que previamente se escuche la opinión de los Ayuntamientos de los Municipios que resultaren afectados en su territorio, su economía y su población, con la creación del nuevo Municipio.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 119.
 
-El Constituyente Permanente del Estado podrá declarar la supresión de un Municipio y la consecuente fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridas para su supervivencia, en los términos de las fracciones del artículo anterior.
+El Constituyente Permanente del Estado podrá declarar la supresión de un municipio y la consecuente fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridas para su supervivencia, en los términos de las fracciones del artículo anterior.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 120.
 
-Cuando se considere conveniente, el Ejecutivo del Estado, podrá promover, de común acuerdo con los Ayuntamientos respectivos, la fusión de comunidades para crear otras de mayor extensión, que permitan integrar a los núcleos aislados de población, con el objeto de ejecutar programas de desarrollo general.
+El Ejecutivo del Estado, podrá promover, en coordinación con los Ayuntamientos respectivos, la fusión de comunidades para crear otras de mayor extensión, que permitan integrar a los núcleos aislados de población, con el objeto de ejecutar programas de desarrollo estatal y regional.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 121.
 
-Los conflictos de límites que se susciten entre las diversas circunscripciones municipales, se podrán resolver mediante convenios que al efecto celebren, con la aprobación del Congreso del Estado.
+Los conflictos de límites que se susciten entre las diversas circunscripciones municipales, se podrán resolver mediante convenios que al efecto celebren con la aprobación del Congreso del Estado.
 
-Cuando dichas diferencias tengan carácter contencioso, conocerá de ellas el Tribunal Superior de Justicia.
+Cuando dichas diferencias tengan carácter judicial, conocerá de ellas el Tribunal Superior de Justicia.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO IV. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
+### CAPITULO IV. DEL PATRIMONIO Y DE LA HACIENDA MUNICIPAL
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 122.
 
-Los Municipios del Estado podrán asociarse regionalmente para constituir Corporaciones de Desarrollo Zonal, que tengan por objeto:
+Cada municipio será gobernado por un Ayuntamiento de elección popular directa y no habrá autoridad alguna intermedia entre éste y el Gobierno del Estado.
 
-I. El estudio de los problemas locales;
-
-II. La realización de programas de desarrollo común;
-
-III. El establecimiento de cuerpos de asesoramiento técnico;
-
-IV. La capacitación de sus funcionarios y empleados;
-
-V. La instrumentación de programas de urbanismo y planeación de crecimiento de sus comunidades;
-
-VI. Contraer compromisos económicos; y
-
-VII. Las demás que tiendan a promover el bienestar y progreso de su población.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
-
-Los Municipios podrán asimismo, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 123.
 
-Si en los programas a que se refiere el artículo anterior, se necesitan créditos, para su gestión se requiere la aprobación del Congreso. Si el crédito se adquiere teniendo como aval al Ejecutivo del Estado, el Gobernador coordinará y vigilará su aplicación.
+El Ayuntamiento es el órgano de Gobierno municipal a través del cual, el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 124.
 
-Los bienes que integran el patrimonio municipal son:
+Los Ayuntamientos se integran por un Presidente, los Síndicos y los Regidores que establezca la Ley respectiva.
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+En la elección de los Ayuntamientos, se aplica el principio de representación proporcional de acuerdo a las reglas que establezca la ley de la materia.
 
-I. De dominio público; y
-
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
-
-II. De dominio privado municipal.
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 125.
 
-Son bienes de dominio público municipal:
+Los presidentes municipales, síndicos y regidores de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el periodo inmediato.
 
-I. Los de uso común;
+Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que les dé, no podrán ser electas para el periodo inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-II. Los inmuebles destinados a un servicio público, los expedientes de las oficinas; y
-
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
-
-III. Los muebles e inmuebles que sean insustituibles: archivos, libros raros, obras de arte, históricas y otros previstos por las leyes federales sobre municipios y zonas arqueológicas, artísticas e históricas.
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 126.
 
-Son bienes de dominio privado municipal, los que le pertenecen en propiedad y los que en el futuro ingresen a su patrimonio, no previstos en las fracciones del artículo anterior.
+En caso de falta absoluta del Ayuntamiento, si conforme a esta Constitución y a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará entre los vecinos al Concejo Municipal que concluirá el periodo respectivo; este Concejo estará integrado por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+En caso de falta absoluta del Ayuntamiento en el primer año, el Congreso designará un Concejo Municipal interino y notificará lo actuado al Consejo General del Instituto Estatal Electoral, para que éste convoque a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el período.
+
+Si la falta absoluta del Ayuntamiento acontece en los dos últimos años, el Congreso nombrará un Concejo Municipal sustituto que termine el período.
+
+Si el Congreso no estuviere en período ordinario, la Diputación Permanente lo convocará a sesión extraordinaria para los efectos anteriores.
+
+Hay falta absoluta de Ayuntamiento cuando no se hubieren efectuado las elecciones, se hubiesen declarado nulas, no se presente el Ayuntamiento a rendir la protesta, por renuncia mayoritaria de sus miembros, por haber sido desaparecidos los Poderes municipales o por muerte o incapacidad absoluta de la mayoría de sus integrantes.
+
+Si alguno de los miembros del Ayuntamiento deja de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 127.
 
-Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables y no están sujetos a acción reivindicatoria alguna o de posesión provisional o definitiva, mientras no varíe su situación jurídica.
+Los Ayuntamientos serán electos por sufragio directo, libre y secreto. Durarán en su encargo tres años y tomarán posesión el 16 de enero del año correspondiente.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+Los miembros del Ayuntamiento se elegirán por planillas, en los términos de la ley, por cada miembro propietario, se elegirá su suplente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 128.
-
-Los bienes de dominio privado podrán ser enajenados mediante acuerdo del Ayuntamiento, aprobado por el Congreso, cuando se trate de bienes inmuebles.
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-###### Artículo 129.
-
-La Hacienda de los municipios del Estado se formará con las percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, así como las que obtengan por concepto de participación de impuestos, federales y estatales, convenios, legados, donaciones, y por cualesquiera otras causas; y en todo caso, los ayuntamientos.
-
-I. Administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca a su favor;
-
-II. Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio del valor de los inmuebles.
-
-Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;
-
-III. Recibirán las participaciones federales, que serán cubiertas por la Federación a los municipios con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura del Estado; y
-
-IV. Dispondrán de los ingresos derivados de la prestación de servicios públicos a su cargo.
-
-Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones en favor de personas físicas o morales, ni de instituciones oficiales o privadas; sólo los bienes de dominio público de la Federación, del Estado o de los municipios estarán exentos de dichas contribuciones.
-
-La Legislatura del Estado aprobará las leyes de ingresos de los ayuntamientos y revisará sus cuentas públicas.
-
-Los Presupuestos de Egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ENERO DE 1987)</small>
-
-###### Artículo 130.
-
-El ayuntamiento es el órgano de gobierno municipal a través del cual, el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
-
-###### Artículo 131.
-
-Los Ayuntamientos se integran por un Presidente, un Síndico Procurador, los Regidores de Mayoría relativa y los Regidores de Representación Proporcional, en los términos que establezca la ley respectiva.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-###### Artículo 132.
-
-Los Ayuntamientos serán electos por sufragio directo, libre y secreto. Durarán en su encargo tres años, y tomarán posesión el 16 de enero del año correspondiente.
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-### CAPITULO QUINTO. DEL GOBIERNO MUNICIPAL Y DE SU INTEGRACION
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-###### Artículo 133.
-
-Los miembros del Ayuntamiento se elegirán por planillas, en los términos de la Ley de la materia. Por cada miembro Propietario se elegirá un Suplente.
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-###### Artículo 134.
 
 Para ser miembro del Ayuntamiento se requiere:
 
 I. Ser hidalguense en pleno goce de sus derechos;
 
-II. Ser vecino del Municipio correspondiente, con residencia no menor de dos años inmediatamente anteriores al día de la elección;
+II. Ser vecino del municipio correspondiente, con residencia no menor de dos años inmediatamente anteriores al día de la elección;
 
-III. Tener 21 años de edad el día de la elección;
+III. Tener, al menos, 21 años de edad el día de la elección;
 
 IV. Tener modo honesto de vivir;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+V. No desempeñar cargo o comisión del Gobierno Federal, Estatal o Municipal, en la circunscripción del municipio, a menos que se separen de aquéllos cuando menos con sesenta días naturales de anticipación al día de la elección, a excepción de los docentes;
 
-V. No desempeñar cargo o comisiones del Gobierno Federal o Estatal, en la circunscripción del Municipio, a excepción de los docentes, a menos que se separen de aquéllos cuando menos con sesenta días naturales de anticipación al día de la elección.
+VI. No ser ministro de culto religioso alguno, ni pertenecer al estado eclesiástico;
 
-Los Magistrados del Tribunal Electoral, el Subprocurador de Asuntos electorales y los consejeros ciudadanos del Consejo General del Instituto Estatal Electoral, deberán de separarse de su encargo cuando menos seis meses antes al día de la elección;
+VII. Saber leer y escribir y
 
-VI. No ser ministro de culto religioso alguno, ni pertenecer al estado eclesiástico; y
+VIII. En el caso de Los Magistrados del Tribunal Electoral, el subprocurador de asuntos electorales y los consejeros ciudadanos del Consejo General del Instituto Estatal Electoral, deberán separarse de su encargo cuando menos un año antes del día de la elección.
 
-VII. Saber leer y escribir.
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1995)</small>
+###### Artículo 129.
 
-###### Artículo 135.
+La elección de los miembros de los ayuntamientos será declarada válida o nula por el organismo electoral que señale la ley.
 
-La elección de los miembros de los Ayuntamientos será declarada valida o nula por el organismo electoral que señale la Ley de la materia.
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
-
-###### Artículo 136.
-
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramientos o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de Suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
-
-> <small>(REFORMADO PRIMERO PARRAFO, P.O. 9 DE MAYO DE 1998)</small>
-
-###### Artículo 137.
-
-En caso de falta absoluta del Ayuntamiento en el primer año, si el Congreso del Estado, estuviere en período ordinario de sesiones, designará un Concejo Municipal interino y notificará lo actuado, al Consejo General del Instituto Estatal Electoral, para que éste convoque a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el período. Si el Congreso no estuviere en período ordinario, la Comisión Permanente nombrará un Consejo Municipal provisional y convocará al Congreso a sesión extraordinaria para los efectos anteriores.
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-Hay falta absoluta de Ayuntamiento cuando no se hubieren efectuado las elecciones, se hubiesen declarado nulas, no se presente el Ayuntamiento a rendir la protesta, por renuncia mayoritaria de sus miembros, por haber sido declarados desaparecidos los poderes municipales, o por muerte o incapacidad absoluta de la mayoría de sus integrantes.
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-Si la Falta absoluta de Ayuntamiento acontece los dos últimos años, el Congreso nombrará un Consejo Municipal sustituto que termine el período y si no se encuentra reunido, la Comisión Permanente nombrará un Concejo Municipal provisional y citará al Congreso a sesión extraordinaria para los efectos indicados.
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-Si alguno de los miembros del Ayuntamiento dejara de desempeñar su cargo, será sustituido por su suplente o se precederá según lo disponga la ley.
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-###### Artículo 138.
+###### Artículo 130.
 
 Ningún ciudadano puede excusarse de atender el cargo de Presidente, Síndico o Regidor, salvo causa justificada, sancionada por el Ayuntamiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO VI. DE LA ELECCION DEL AYUNTAMIENTO
+###### Artículo 131.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+Los Ayuntamientos electos se instalarán en ceremonia pública y solemne. El Presidente entrante rendirá la protesta de ley en los términos siguientes:
+
+"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE HIDALGO ASI COMO LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE PRESIDENTE MUNICIPAL QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NACION, DEL ESTADO DE HIDALGO Y DEL MUNICIPIO DE (nombre oficial del Municipio). SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+###### Artículo 132.
+
+A continuación el Presidente municipal tomará la protesta a los demás integrantes del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+### CAPITULO V. DE LAS FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+###### Artículo 133.
+
+Los bienes que integran el patrimonio municipal son:
+
+I. De dominio público y
+
+II. De dominio privado municipal.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+###### Artículo 134.
+
+Son bienes de dominio público municipal:
+
+I. Los de uso común;
+
+II. Los inmuebles destinados a un servicio público, los expedientes de las oficinas y
+
+III. Los muebles e inmuebles que sean insustituibles; archivos, libros raros, obras de arte, históricas y otros previstos por las leyes federales sobre municipios y zonas arqueológicas, artísticas e históricas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+###### Artículo 135.
+
+Son bienes de dominio privado municipal, los que le pertenecen en propiedad y los que en el futuro ingresen a su patrimonio, no previstos en las fracciones del artículo anterior.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+###### Artículo 136.
+
+Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables y no están sujetos a acción reivindicatoria alguna o de posesión provisional o definitiva, mientras no varíe su situación jurídica.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+###### Artículo 137.
+
+Los bienes de dominio privado podrán ser enajenados mediante acuerdo del Ayuntamiento. Toda enajenación de bienes inmuebles deberá ser aprobada por el voto de las dos terceras partes de los miembros del Ayuntamiento, respetando los procedimientos señalados por la ley.
+
+De los actos mencionados en el párrafo anterior, el Ayuntamiento informará al Congreso del Estado a través de la Cuenta Pública.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+###### Artículo 138.
+
+La Hacienda de los Municipios del Estado se formará con las percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, así como las que obtengan por concepto de participaciones de impuestos federales y estatales, convenios, legados, donaciones y por cualesquiera otras causas y en todo caso, los Ayuntamientos:
+
+I. Administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca a su favor;
+
+II. Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles;
+
+III. Recibirán las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos, que anualmente se determinen por la Legislatura del Estado y
+
+IV. Dispondrán de los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+Las Leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones II y IV de este artículo en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo estarán exentos del pago correspondiente los bienes de dominio público de la Federación, del Estado o de los municipios, salvo que tales bienes sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+Al presentar la Ley de Ingresos Municipal, los Ayuntamientos propondrán a la Legislatura del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria en su demarcación territorial.
+
+La Legislatura del Estado analizará y en su caso aprobará la Ley de Ingresos de los Municipios; asimismo revisará y fiscalizará sus cuentas públicas.
+
+Los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas, conforme a las bases, conceptos y montos anuales que fije la Legislatura del Estado a través de una Ley.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+### CAPITULO VI. DE LAS BASES DE FUNCIONAMIENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 139.
 
-Los Ayuntamientos electos se instalarán en ceremonia pública y solemne. El Presidente entrante rendirá la protesta de Ley en los términos siguientes:
+Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
-"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Hidalgo y la Ley Orgánica Municipal, así como las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Presidente Muncipal (sic) que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación, del Estado de Hidalgo y del Municipio de .... Si así no lo hiciere, que el pueblo me lo demande".
+A). Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+B). Alumbrado público;
+
+C). Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+D). Mercado y Centrales de Abasto;
+
+E). Panteones;
+
+F). Rastro;
+
+G) Calles, parques y jardines y su equipamiento;
+
+H). Seguridad Pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito;
+
+I). Protección de la flora, la fauna y el medio ambiente;
+
+J). Los sistemas necesarios para la seguridad civil de la población;
+
+K). Fomentar el turismo y la recreación y
+
+L). Las demás que la Legislatura del Estado determine, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+
+Los Municipios, en el desempeño de las funciones o la prestación de los servicios a su cargo y sin menoscabo de las atribuciones que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución les reconocen, deberán observar lo dispuesto por las leyes federales y estatales.
+
+El Ejecutivo del Estado asumirá una función o servicio municipal cuando, no habiendo convenio alguno, la Legislatura del Estado considere que un municipio determinado esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por las dos terceras partes de sus integrantes. La ley establecerá los procedimientos y condiciones para asumir éstos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 140.
 
-A continuación el Presidente Municipal tomará la protesta a los demás integrantes del Ayuntamiento que estuvieren presentes.
+Los Municipios del Estado previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley que al efecto expida la Legislatura del Estado, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+Cuando los municipios del Estado de Hidalgo pretendan asociarse con otros de distinta entidad federativa para los fines mencionados en el párrafo anterior, deberán contar con la autorización del Congreso del Estado, la que deberá ser aprobada por el voto de las dos terceras partes de los diputados presentes.
 
-### CAPITULO VII. DE LA INSTALACION DEL AYUNTAMIENTO
+Los Ayuntamientos podrán celebrar convenios con el Gobierno del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de una función o de un servicio público municipal o bien, para que éstos se ejerzan o se presten en forma coordinada por la Administración Pública del Estado y por el propio Municipio.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+Si para la ejecución de los convenios a que se refiere el presente artículo se utilizan créditos cuyo vencimiento sea posterior al término del período del Ayuntamiento, la celebración de los actos jurídicos correspondientes deberá ser previamente aprobada por las dos terceras partes de los miembros del Ayuntamiento; además, si el crédito se obtiene teniendo como aval al Ejecutivo del Estado, el Gobernador le informará al Congreso del Estado para que éste vigile su aplicación.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+
+### CAPITULO VII. DE LAS FACULTADES Y OBLIGACIONES DE LOS TITULARES DEL GOBIERNO MUNICIPAL
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 141.
 
 Son facultades y obligaciones del Ayuntamiento:
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos mexicanos, esta Constitución y las Leyes, Decretos y disposiciones federales, estatales y municipales;
 
-I. Cumplir y hacer cumplir las Leyes, Decretos y disposiciones federales, estatales y municipales;
+II. Expedir y aprobar, de acuerdo con las leyes que en materia municipal emita el Congreso del Estado, los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de competencia municipal y aseguren la participación ciudadana y vecinal;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+III. Conceder licencia al Presidente Municipal hasta por treinta días y llamar a quien debe suplirlo; si la licencia fuese por un periodo mayor, conocerá de ella y resolverá el Congreso del Estado, escuchando previamente la opinión del Ayuntamiento;
 
-II. Expedir, de acuerdo con las bases normativas que deberán establecer el Congreso del Estado, los Bandos de Policía y Buen Gobierno y los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que no estén reservados a la Federación o al Estado;
+IV. Designar al Regidor que deba sustituir al Presidente municipal, en caso de falta absoluta de éste y de su suplente y llamar a los suplentes de los Síndicos o Regidores en los casos de falta absoluta de éstos;
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+V. Establecer en el territorio del municipio, las delegaciones y subdelegaciones que sean necesarias;
 
-III. Conceder licencias a sus miembros hasta por treinta días, y llamar a quienes deben suplirlos;
+VI. Participar con las autoridades federales y estatales en las funciones de su competencia, atendiendo a lo establecido por el Plan Estatal de Desarrollo y a los programas sectoriales, regionales y especiales, así como el del municipio;
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
-
-IV. Designar al Regidor que deba sustituir al Presidente Municipal, en caso de falta absoluta de éste y de su Suplente, y llamar a los Suplentes del Síndico o Regidores en los casos de falta absoluta de éstos;
-
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
-
-V. Establecer en el territorio del Municipio, las Delegaciones y Subdelegaciones que sean necesarias;
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1987)</small>
-
-VI. Cooperar con las Autoridades Federales y Estatales en las funciones de su competencia, atendiendo a lo establecido por el Plan Estatal de Desarrollo y a los programas sectoriales, regionales y especiales, así como el del Municipio;
-
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
-
-VII. Proceder conforme a la Ley sobre monumentos y zonas arqueológicas, artísticas e históricas con auxilio del organismo correspondiente, así como de acuerdo con las Leyes Estatales y Decretos relativos, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos y que se ejecuten sin autorización, permiso o cumplimiento de los requisitos establecidos en las Leyes y Decretos correlativos;
-
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+VII. Proceder conforme a la Ley sobre monumentos y zonas arqueológicas, artísticas e históricas con auxilio del organismo correspondiente, así como ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos y que se ejecuten sin autorización, permiso o cumplimiento de los requisitos establecidos en las Leyes y decretos correlativos;
 
 VIII. Promover el mejoramiento de los servicios y el acrecentamiento del patrimonio municipal;
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
-
 IX. Formular anualmente su proyecto de Ley de Ingresos, que será sometido a la aprobación del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+X. Analizar y Aprobar en su caso, el Presupuesto de Egresos, que cada año le será presentado por el Presidente Municipal, así como la cuenta comprobada de gastos mensuales del ejercicio en curso, en los términos que señale la ley.
 
-X. Formular anualmente su Presupuesto de Egresos que será sometido a la aprobación del Ayuntamiento;
+XI. Rendir al Congreso del Estado, por conducto de la Diputación Permanente, en su caso, dentro de los dos primeros meses de su ejercicio fiscal, la Cuenta Pública del año anterior, en la que se incluirán los ingresos, egresos y el estado que guarda la deuda municipal;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1987)</small>
+XII. Vigilar el cumplimiento del Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales en lo que respecta a su municipio, así como cumplir su Programa Municipal de Desarrollo;
 
-XII (sic). Vigilar el cumplimiento del Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales en lo que respecta a su Municipio;
+XIII. Promover el desenvolvimiento material, social, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la comunidad, defendiendo y preservando su ecología a través de programas concretos;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1987)</small>
+XIV. Mantener actualizada la Estadística del municipio;
 
-XIII (sic). Promover el desenvolvimiento material, social, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la comunidad, defendiendo y preservando su ecología a través de programas concretos;
+XV. Facultar al Presidente municipal para que pueda celebrar contratos con particulares e instituciones oficiales, sobre asuntos de interés público, requiriéndose la aprobación de las dos terceras partes de los miembros del Ayuntamiento en la enajenación de bienes inmuebles propiedad del municipio o para comprometer a éste por un plazo mayor al periodo del gobierno municipal en funciones.
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+XVI. Admitir o desechar la licencia que soliciten los Síndicos o los Regidores;
 
-XIV (sic). Mantener actualizada la estadística del Municipio;
+XVII. Ejercer, en los términos de las leyes federales y estatales respectivas, las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+a). Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
 
-XV (sic). Facultar al Presidente Municipal para que pueda celebrar contratos con particulares e instituciones oficiales, sobre asuntos de interés público, requiriéndose la aprobación del Congreso en la enajenación de bienes inmuebles propiedad del Municipio;
+b). Participar en la creación y administración de sus reservas territoriales;
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+c). Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional deberán asegurar la participación de los Municipios;
 
-XV. Admitir o desechar la licencia que solicitaren los regidores;
+d). Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+e). Intervenir en la regularización de la tenencia de la tierra urbana;
 
-XVI. Admitir o rechazar las renuncias de los funcionarios y empleados del Ayuntamiento;
+f). Otorgar licencias y permisos para construcciones;
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1987) (F. DE E., P.O. 30 DE DICIEMBRE DE 1987)
+g). Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de Programas de ordenamiento en esta materia;
 
-XVII. Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y el desarrollo Urbano Municipal; participar en la creación y administración de sus reservas territoriales, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución General de la República, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
+h). Intervenir en la formulación y aplicación de programas de transporte publico de pasajeros cuando aquellos afecten su ámbito territorial;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+i). Celebrar convenios para la administración y custodia de las Zonas Federales.
 
-XVIII. Cuando dos o más centros urbanos situados en territorios municipales del Estado de Hidalgo y otra u otras entidades Federativas formen o tiendan o formar una Comunidad demográfica, el Estado y sus Municipios respectivos planearán con la Federación y el o los otros Estados y sus Municipios, y regularán en el ámbito de sus competencias, de manera conjunta y coordinada, el desarrollo de dichos centros, con apego a la Ley Federal de la materia y observando las normas vigentes en el Estado; y
+En lo conducente, los ayuntamientos podrán expedir los reglamentos y disposiciones administrativas que sean necesarios de conformidad con lo dispuesto en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+XVIII. Cuando dos o más centros urbanos situados en territorios municipales del Estado de Hidalgo y otra u otras entidades federativas formen o tiendan a formar una continuidad demográfica, el Estado y los municipios respectivos planearán con la Federación y él o los otros Estados y sus municipios y regularán en el ámbito de sus competencias, de manera conjunta y coordinada, el desarrollo de dichos centros, con apego a la Ley Federal de la materia, observando las normas vigentes en el Estado y
 
-XIX. Las demás que le concedan la Constitución General de la República, esta Constitución y las Leyes que de ellas emanen.
+XIX. Las demás que le concedan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO VIII. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
+### CAPITULO UNICO
 
-(REFORMADO, P.O. 16 DE AGOSTO DE 1983) (F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1998)</small>
 
 ###### Artículo 142.
 
-El ejercicio de las facultades a que se refiere el artículo anterior, se sujetará a los procedimientos que establezca la Ley de la materia.
+Corresponde al Presidente, Síndicos y Regidores, el ejercicio exclusivo del Gobierno Municipal, así como la representación de los intereses de la comunidad, en sus respectivos ámbitos competenciales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 1987)</small>
-
-###### Artículo 142 Bis.
-
-Los municipios con el concurso del Estado, cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1983)</small>
-
-a). Agua Potable y Alcantarillado;
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1983)</small>
-
-b). Alumbrado Público;
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1983)</small>
-
-c). Limpia;
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1983)</small>
-
-d). Mercados y Centrales de Abasto;
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1983)</small>
-
-e). Panteones;
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1983)</small>
-
-f). Rastro;
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1983)</small>
-
-g). Calles, parques y Jardines;
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1983)</small>
-
-h). Seguridad Pública y Tránsito, e
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-i). Protección de la flora, la fauna y el medio ambiente;
-
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 1987)</small>
-
-j). Establecer los sistemas necesarios para determinar la seguridad civil de la población;
-
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 1987)</small>
-
-k). Fomentar el turismo y la recreación; y
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-l). Las demás que la Legislatura local determine según las condiciones territoriales y socioeconómicas de los municipios, así como su capacidad administrativa y financiera.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 16 DE ENERO DE 1987)</small>
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 143.
 
-Corresponde al Presidente, Síndico y Regidores, el ejercicio de gobierno municipal, así como la representación de los intereses de la comunidad, en sus respectivos ámbitos competenciales.
+El Presidente municipal tendrá a su cargo la representación del gobierno del municipio y la ejecución de las resoluciones del Ayuntamiento.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 144.
 
-El Presidente Municipal tendrá a su cargo la representación del gobierno del Municipio y la ejecución de las resoluciones del Ayuntamiento.
+Son facultades y obligaciones del Presidente municipal:
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+I. Cumplir y proveer a la observancia de las leyes federales y estatales, así como los ordenamientos municipales;
 
-###### Artículo 145.
-
-Son facultades y obligaciones del Presidente Municipal:
-
-I. Cumplir y proveer a la observancia de las Leyes federales y estatales, así como los ordenamientos municipales;
-
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1987) (F. DE E., P.O. 30 DE DICIEMBRE DE 1987)
-
-II. Cumplir con el Plan Estatal de Desarrollo y los Programas sectoriales, regionales y especiales aprobados, proveyendo su observancia respecto a los que se refiera a su municipio.
-
-Al tomar posesión de su cargo, el Presidente Municipal deberá presentar un Programa de Desarrollo Municipal congruente con el Plan Estatal;
-
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+II. Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, proveyendo su observancia respecto a los que se refiera a su municipio. A más tardar 90 días después de tomar posesión de su cargo, el Presidente municipal deberá presentar un Programa de Desarrollo Municipal congruente con el Plan Estatal;
 
 III. Ejecutar los reglamentos y acuerdos expedidos por el Ayuntamiento;
 
-IV. Presidir las sesiones del Ayuntamiento por sí, o a través de un representante, y participar en las deliberaciones, con voto de calidad;
+IV. Presidir las sesiones del Ayuntamiento y participar en las deliberaciones y decisiones, con voto de calidad en caso de empate;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+V. Rendir anualmente al Ayuntamiento el día 16 de enero de cada año, un informe detallado sobre el estado que guarda la administración pública municipal; cuando por causas de fuerza mayor no fuera posible en esta fecha, se hará en otra, previa autorización del Ayuntamiento que expedirá el acuerdo, señalando fecha y hora para este acto, sin que exceda del 31 de enero;
 
-V. Rendir anualmente el Ayuntamiento el día 16 de enero de cada año un informe detallado sobre el estado que guarda la administración pública municipal; cuando por causas de fuerza mayor no fuera posible en esta fecha, se hará en otra, previa autorización del Ayuntamiento que expedirá el acuerdo, señalando fecha y hora para este acto, sin que exceda del 31 de enero;
+VI. Proponer al Ayuntamiento la designación de Comisiones de Gobierno y Administración entre los Regidores;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+VII. Presentar al Ayuntamiento el proyecto de Ley de Ingresos y de Presupuesto de Egresos del Municipio para cada ejercicio fiscal, para los efectos previstos por esta Constitución y las leyes, así como la cuenta mensual de egresos;
 
-VI. Proponer al Ayuntamiento, la designación de comisiones de gobierno y administración entre los regidores;
+VIII. Nombrar y remover libremente a los directores de las dependencias y entidades de la administración pública municipal, a los delegados y subdelegados y demás personal administrativo, de acuerdo con las disposiciones aplicables;
 
-VII. Nombrar y remover a los Delegados, Subdelegados y demás personal administrativo, de acuerdo con las disposiciones aplicables;
+IX. Convocar al Ayuntamiento a sesiones conforme a la ley respectiva;
 
-VIII. Convocar al Ayuntamiento a sesiones conforme a la Ley Orgánica Municipal;
+X. Tener bajo su mando los cuerpos de seguridad pública y tránsito, en los términos del reglamento correspondiente, salvo en los casos señalados en los párrafos segundo y tercero de la presente fracción.
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+El Gobernador del Estado podrá dictar ordenes a las policías municipales en casos que considere como de fuerza mayor o alteración grave del orden público.
 
-IX. Tener bajo su mando los cuerpos de seguridad pública y tránsito, salvo cuando se trate de Municipios donde residiere habitual o transitoriamente el Gobernador, donde residiere transitoriamente el Poder Ejecutivo Federal, quienes en esos casos tendrán el mando de la fuerza pública, según lo establecido en los Artículos 115, Fracción VII, de la Constitución General y 71, Fracción X, de esta Constitución;
+El titular del Poder Ejecutivo Federal tendrá el mando de la fuerza pública en los municipios donde residiere habitual o transitoriamente;
 
-X. Solicitar la autorización de la Asamblea para ausentarse del Municipio por más de quince días;
+XI. Solicitar la autorización del Ayuntamiento para ausentarse del municipio por más de quince días;
 
-XI. Vigilar que los Delegados y Subdelegados cumplan con las funciones de su encargo, e informar de ello al Ayuntamiento;
+XII. Presentar ante la Contaduría Mayor de Hacienda del Congreso del Estado, su Declaración Patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual durante el mes de mayo de cada año y de conclusión de encargo, dentro de los treinta días hábiles siguientes y
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+XIII. Las demás que esta Constitución y las leyes le confieran.
 
-XII. Ejercer las funciones de Oficial del Registro del Estado Familiar, donde no hubiere empleado especial nombrado, o éste se encuentre ausente;
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-XIII. Celebrar contratos con particulares o instituciones oficiales, en los términos señalados por esta Constitución; y
+###### Artículo 145.
 
-XIV. Las demás que le confieran la Constitución General de la República, esta Constitución y las Leyes que de ellas emanen.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-#### SECCION III. DEL SINDICO
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-###### Artículo 146.
-
-El Síndico tiene a su cargo la vigilancia de la Hacienda Pública Municipal y además, las siguientes facultades y obligaciones:
+Los Síndicos tienen a su cargo la vigilancia de la Hacienda Pública municipal y además las siguientes facultades y obligaciones:
 
 I. Comparecer ante las autoridades judiciales, en los asuntos que revistan interés jurídico para el Ayuntamiento;
 
-II. Tramitar ante las autoridades correspondientes, los asuntos que relacionados con su competencia;
+II. Tramitar ante las autoridades correspondientes, los asuntos de su competencia;
 
-III. Presidir la Comisión de Hacienda Municipal, revisar las cuentas de la Tesorería; y
+III. Presidir la Comisión de Hacienda municipal y revisar las cuentas de la tesorería, mismas que deberá dar a conocer en forma mensual a la Asamblea Municipal;
 
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 1987)</small>
+IV. Concurrir a las sesiones del Ayuntamiento, con voz y voto y percibir su dieta de asistencia que señale el Presupuesto de Egresos del Municipio;
 
-IV. Concurrir a las sesiones del Ayuntamiento con voz y voto;
+V. Los Síndicos no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remunerados en la Administración Pública Municipal y
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+VI. Las demás que le confieren las Leyes y los Reglamentos y Acuerdos del Ayuntamiento.
 
-V. Las demás que le confieran las leyes, reglamentos y acuerdos del Ayuntamiento.
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+###### Artículo 146.
 
-#### SECCION IV. DE LOS REGIDORES
+Los Regidores ejercerán las funciones que les confieran esta Constitución y las leyes, teniendo las facultades y obligaciones siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 1987)</small>
+I. Asistir a las sesiones del Ayuntamiento, con voz y voto. Los Regidores percibirán la dieta de asistencia que señale el Presupuesto de Egresos del Municipio.
+
+II. Vigilar la correcta observancia de las disposiciones y acuerdos del Ayuntamiento;
+
+III. Someter a la consideración del Ayuntamiento, proyectos de acuerdos y programas correspondientes a su esfera de competencia;
+
+IV. Cumplir con las funciones inherentes a sus comisiones, e informar al Ayuntamiento de sus resultados y
+
+V. Realizar sesiones de audiencia pública para recibir peticiones y propuestas de la comunidad.
+
+Los Regidores no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remunerados en la administración pública municipal.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 147.
 
-Los regidores ejercerán las funciones que les confieran esta Constitución, la Ley Orgánica Municipal y los demás ordenamientos legales aplicables, teniendo fundamentalmente, las facultades y obligaciones siguientes:
+Las sesiones del Ayuntamiento serán públicas, salvo que por acuerdo de las dos terceras partes de sus integrantes se acuerde que sean privadas, debiendo mediar causa justificada para esa decisión.
 
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-I. Vigilar la correcta observancia de las disposiciones y acuerdos del Ayuntamiento;
-
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-II. Someter a consideración del Ayuntamiento, proyectos de acuerdo y programas correspondientes a su esfera de competencia; y
-
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-III. Cumplir con las funciones inherentes a sus comisiones, e informar al Ayuntamiento de sus resultados.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-#### SECCION V. DE LAS DEPENDENCIAS ADMINISTRATIVAS Y MUNICIPALES
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 148.
 
-La Ley Orgánica Municipal determinará la organización y funcionamiento de las dependencias administrativas del Ayuntamiento, así como los requisitos, facultades y obligaciones de sus titulares.
+Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por la ley que expida la Legislatura del Estado con base en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2201,9 +2167,9 @@ La Ley Orgánica Municipal determinará la organización y funcionamiento de las
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
-### CAPITULO IX. DEL GOBIERNO MUNICIPAL
+### CAPITULO UNICO
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 149.
 
@@ -2275,7 +2241,7 @@ La Ley de Responsabilidades de los servidores públicos del Estado, señalará l
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 1995)</small>
 
 ## TITULO XI. PREVENCIONES GENERALES
 
@@ -2740,3 +2706,25 @@ SEGUNDO.- Hasta en tanto sea expedida la nueva Ley Orgánica del Poder Judicial,
 P.O. 29 DE MARZO DE 1999.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P. O. 26 DE FEBRERO DE 2001.
+
+PRIMERO.- Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+SEGUNDO.- El Congreso del Estado deberá adecuar las leyes del Estado conforme a lo dispuesto en este decreto a más tardar el 20 de marzo del año 2001.
+
+En tanto se realizan las adecuaciones a que se refiere el párrafo anterior, se continuarán aplicando las disposiciones vigentes.
+
+TERCERO.- A los fines de lo establecido en el Artículo Quinto Transitorio del Decreto por el que se reforma el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1999, el Congreso del Estado y los municipios de la Entidad adoptaran las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán a realizar las adecuaciones a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Los municipios podrán convenir con el Ejecutivo del Estado, a través de la dependencia competente, la realización de los estudios técnicos para cumplir con lo dispuesto en este artículo transitorio.
+
+CUARTO.- Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los municipios y que a la entrada en vigor del mismo sean prestados por el Gobierno del Estado en forma exclusiva o de manera coordinada con los municipios, éstos podrán asumirlos, previa aprobación del ayuntamiento correspondiente. El Gobierno del Estado dispondrá lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia correspondiente, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
+
+En el caso del inciso A) del artículo 139 de la Constitución Política del Estado Libre y Soberano de Hidalgo, una vez presentada la solicitud correspondiente por parte del Municipio de que se trate, el Gobierno del Estado, dentro del plazo señalado en el párrafo anterior, podrá solicitar al Congreso del Estado, que permanezcan en su ámbito de competencia los servicios a que se refiere el citado inciso, cuando la transferencia de los servicios públicos ahí mencionado afecte, en perjuicio de la población, su prestación. La legislatura estatal resolverá lo conducente.
+
+En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+QUINTO.- El Ejecutivo del Estado y los municipios realizaran los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este decreto y a las leyes estatales que se expidan de conformidad con el mismo.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
