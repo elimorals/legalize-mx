@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-337
 country: "mx"
 rank: "ley"
 publication_date: "1969-04-30"
-last_updated: "1969-04-30"
+last_updated: "1999-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 30 de abril de 1969.
 
@@ -605,57 +605,73 @@ III.- En los casos mencionados en la Fracción III del propio Artículo 5o., des
 
 Cuando ni el propietario de un giro, ni el del predio en que esté establecido, cumplan con la obligación que señala el Artículo 30, pero el Organismo encargado del servicio tenga conocimiento por cualquier otro medio de la clausura, del traspaso o traslado del giro, ordenará cuando proceda, la supresión de la toma así como las anotaciones correspondientes en el registro y padrón, sin perjuicio de que se impongan las sanciones respectivas.
 
+(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1999).
+
 ###### ARTICULO 95.
 
-Se impondrán las siguientes multas:
+Se impondrán las siguientes sanciones:
 
-I.- De $50.00 a $1,000.00 a los que practiquen o manden practicar derivaciones de las tuberías generales de distribución, de los ramales de éstas o de las cajas de válvulas, para surtir de agua a un predio o establecimiento, sin apegarse a lo dispuesto en esta Ley.
+I.- A los que practiquen o manden practicar derivaciones de las tuberías generales de distribución, de los ramales de éstas o de las cajas de válvulas, para surtir de agua a un predio o establecimiento, sin apegarse a lo dispuesto en esta Ley:
 
-II.- De $50.00 a $1,000.00 a los que, contraviniendo lo dispuesto en el Artículo 6o. practiquen, manden practicar o consientan que se lleven a cabo en forma provisional o permanente, sin la autorización del Organismo encargado del servicio, derivaciones de agua:
+a).- Si la derivación es utilizada para una toma de uso doméstico multa de 1 a 10 salarios mínimos.
 
-a).- De instalaciones interiores de un predio para otro u otros.
+b).- Si la derivación se destina a una toma de uso comercial, industrial u otro que implique lucro, multa de 25 a 50 salarios mínimos.
 
-b).- De instalaciones interiores de un predio para giros o establecimientos ubicados en locales del mismo predio, si dichos giros están obligados a tener su toma especial conforme a lo dispuesto en la Fracción II del Artículo 3o.
+c).- Si la derivación se utiliza para otro fin, multa de 10 a 25 salarios mínimos.
 
-c).- De instalaciones interiores de un giro o establecimiento para otro y otros, ya sea que se hallen ubicados en locales del mismo predio o de predios distintos.
+II.- A los que, contraviniendo lo dispuesto en el Artículo 6o., practiquen, manden practicar o consientan que se lleven a cabo en forma provisional o permanente, sin la autorización del Organismo encargado del servicio derivaciones de agua.
 
-d).- De instalaciones interiores de un giro o establecimiento para predios distintos.
+a).- De un predio con toma doméstica a otro u otros con tomas semejantes, multa de 1 a 2 salarios mínimos.
+
+b).- De un predio con toma doméstica a otro u otros, con tomas de uso comercial o industrial, si los establecimientos están obligados a tener un sistema especial, conforme a lo dispuesto en la Fracción II del Artículo 3o., multa de 10 a 30 salarios mínimos.
+
+c).- De una toma comercial o industrial a otro u otros establecimientos con tomas de la misma índole, ya sea estén en el mismo predio u otros predios, multa de 25 a 50 salarios mínimos;
+
+d).- De una toma comercial o industrial a un predio al que corresponde una toma doméstica, multa de 5 a 10 salarios mínimos.
+
+Cuando la derivación de agua a otros predios se haga a título oneroso, la multa podrá duplicarse.
 
 Existirá infracción al Artículo 6o. en los casos a que se refieren los incisos a), b), c) y d) de esta Fracción, aún cuando los predios, giros o establecimientos que reciban el servicio de agua como consecuencia de las derivaciones, sean del mismo propietario que aquellos de donde parten dichas derivaciones, y no obstante que el consumo se registre por el aparato medidor.
 
-III.- De $50.00 a $1,000.00 a los que, en cualquiera forma distinta de las señaladas en las dos fracciones anteriores, proporcionen servicio de agua permanente, ya sea a título gratuito u oneroso, a los propietarios, poseedores u ocupantes por cualquier concepto, de predio, giros y establecimientos que conforme a las disposiciones de esta Ley, están obligados a surtirse de agua del servicio público.
+III.- A los que, en cualquiera forma distinta de las señaladas en las dos fracciones anteriores, proporcionen servicio de agua permanente, ya sea a título gratuito u oneroso, a los propietarios, poseedores u ocupantes por cualquier concepto, de predios, giros y establecimientos que conforme a las disposiciones de esta Ley, están obligados a surtirse de agua del servicio público:
 
-IV.- De $50.00 a $1,000.00 en los siguientes casos:
+a).- Si se hace a título gratuito, multa de 1 a 2 salarios mínimos.
 
-a).- A los que impidan a los empleados del Organismo encargado del servicio, autorizados y debidamente identificados, el examen de los aparatos medidores.
+b).- Si se hace a título oneroso, multa de 10 a 50 salarios mínimos.
 
-b).- A quien cause desperfectos a un aparato medidor.
+IV.- Asimismo en los siguientes casos:
 
-c).- A quien viole los sellos de un aparato medidor.
+a).- A los que impidan a los empleados del Organismo encargado del servicio, autorizados y debidamente identificados, el examen de los aparatos medidores, multa de 5 a 10 salarios mínimos. En caso de reincidencia, la multa podrá duplicarse.
 
-d).- Al que, por cualquier medio, altere el consumo marcado por los medidores.
+b).- A quien cause desperfectos a un aparato medidor, multa de 5 a 10 salarios mínimos. Si los daños son intencionales, la multa podrá duplicarse.
 
-e).- Al que, por cualquier medio, haga que el aparato medidor no registre el consumo.
+c).- A quien viole los sellos de un aparato medidor, multa de 5 a 20 salarios mínimos.
 
-f).- Al que, por si o por medio de otro sin estar legalmente autorizado para hacerlo, retire un medidor por cualquier causa, transitoria o definitivamente, varíe su colocación o lo cambie de lugar.
+d).- Al que, por cualquier medio, altere el consumo marcado en los medidores, multa de 5 a 20 salarios mínimos.
 
-g).- Al que, personalmente o valiéndose de otro, cambie de lugar o haga modificaciones o manipulaciones de cualquiera forma, a los ramales de las tuberías de distribución comprendidos entre la llave de inserción y la llave de retención interior del predio o establecimiento, colocada después del aparato medidor.
+e).- Al que, por cualquier medio, haga que el aparato medidor no registre el consumo, multa de 5 a 20 salarios mínimos.
 
-h).- A los propietarios, encargados o arrendatarios de predios, giros o establecimientos, o sus familiares, allegados o dependientes o cualquiera otra persona que se encuentre en ellos, por oponer resistencia para la inspección de instalaciones interiores, a los empleados autorizados y debidamente identificados del Organismo encargado del servicio.
+f).- Al que por si o por medio de otro sin estar legalmente autorizado para hacerlo, retire transitoria o definitivamente un medidor, por cualquier causa, varíe su colocación o lo cambie de lugar, multa de 5 a 10 salarios mínimos. Si retira el medidor de manera definitiva o por más de 15 días, la multa podrá duplicarse.
 
-i).- A los que se nieguen a proporcionar, sin causa justificada, los informes que el Organismo encargado del servicio les pida en relación con el servicio de agua potable.
+g).- Al que, personalmente o valiéndose de otro, cambie de lugar o haga modificaciones o manipulaciones en cualquiera forma a los ramales de las tuberías de distribución comprendidos entre la llave de inserción y la llave de retención interior del predio o establecimiento, colocada después del aparato medidor, multa de 5 a 20 salarios mínimos.
 
-j).- A los funcionarios o empleados que concedan licencia para construcciones, sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio en que vaya a construirse.
+h).- A los propietarios, encargados o arrendatarios de predios, giros o establecimientos, o sus familiares, allegados o dependientes o cualquiera otra persona que se encuentre en ellos, por oponer resistencia para la inspección de instalaciones interiores, a los empleados autorizados y debidamente identificados del Organismo encargado del servicio, multa de 5 a 10 salarios mínimos.
 
-k).- Al que, por emplear mecanismos para succionar agua de las tuberías de distribución, ocasione o no deficiencias en el servicio o desperfectos en las instalaciones.
+i).- A los que se nieguen a proporcionar, sin causa justificada, los informes que el Organismo encargado del servicio les pida en relación con el servicio de agua potable, multa de 1 a 5 salarios mínimos.
 
-l).- A los notarios que autoricen contratos relativos a bienes inmuebles, contraviniendo lo que dispone el Artículo 104.
+j).- A los funcionarios o empleados que concedan licencia para construcciones, sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio en que vaya a construirse, multa de 5 a 10 salarios mínimos.
 
-ll).- A los funcionarios o empleados que inscriban en el Registro Público de la Propiedad, algún contrato de los mencionados en el Artículo 107 sin que se cumpla la condición que el mismo establece.
+k).- Al que, por emplear mecanismos para succionar agua de las tuberías de distribución, ocasione o no deficiencias en el servicio o desperfectos en las instalaciones, multa de 5 a 10 salarios mínimos.
 
-m).- A los funcionarios o empleados que autoricen el traspaso o traslado de giros mercantiles o industriales, sin que cumplan con lo que preceptúa el Artículo 108.
+l).- A los notarios que autoricen contratos relativos a bienes inmuebles, contraviniendo lo que dispone el Artículo 104, multa de 10 a 20 salarios mínimos.
 
-n).- A los que cometan cualquiera otra infracción a las disposiciones de esta Ley, no especificadas en las fracciones que anteceden.
+ll).- A los funcionarios o empleados que inscriban en el Registro Público de la Propiedad y de Comercio, algún contrato de los mencionados en el Artículo 107 sin que se cumpla la condición que el mismo establece, multa de 5 a 10 salarios mínimos.
+
+m).- A los funcionarios o empleados que autoricen el traspaso o traslado de giros mercantiles o industriales, sin que cumplan con lo que preceptúa el Artículo 108, multa de 10 a 20 salarios mínimos.
+
+n).- A los que cometan cualquiera otra infracción a las disposiciones de esta Ley, no especificada en las fracciones que anteceden, multa de 5 a 25 salarios mínimos.
+
+Para los efectos de esta Ley, cuando se haga referencia a la palabra salario, se entenderá que se trata del salario mínimo general vigente en el Estado de Baja California.
 
 ###### ARTICULO 96.
 
@@ -774,3 +790,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. FEDERICO MARTINEZ MANAUTOU.
 
 (firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE NOVIEMBRE DE 1999.
+
+UNICO.- La presente reforma entrará en vigor al tercer día de su publicación en el Periódico Oficial del Estado de Baja California.
