@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1987-06-30"
+last_updated: "1987-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1987.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -137,97 +137,99 @@ Los Municipios integrantes del Estado de Guerrero son:
 
 29.- Chilpancingo de los Bravo
 
-30.- Florencio Villarreal
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-31.- Gral. Canuto A. Neri
+30.- Eduardo Neri
 
-32.- Gral. Heliodoro Castillo
+31.- Florencio Villarreal
 
-33.- Huamuxtitlán
+32.- Gral. Canuto A. Neri
 
-34.- Huitzuco de los Figueroa
+33.- Gral. Heliodoro Castillo
 
-35.- Iguala de la Independencia
+34.- Huamuxtitlán
 
-36.- Igualapa
+35.- Huitzuco de los Figueroa
 
-37.- Ixcateopan de Cuauhtémoc
+36.- Iguala de la Independencia
 
-38.- José Azueta
+37.- Igualapa
 
-39.- Juan R. Escudero
+38.- Ixcateopan de Cuauhtémoc
 
-40.- Leonardo Bravo
+39.- José Azueta
 
-41.- Malinaltepec
+40.- Juan R. Escudero
 
-42.- Mártir de Cuilapan
+41.- Leonardo Bravo
 
-43.- Metlatónoc
+42.- Malinaltepec
 
-44.- Mochitlán
+43.- Mártir de Cuilapan
 
-45.- Olinalá
+44.- Metlatónoc
 
-46.- Ometepec
+45.- Mochitlán
 
-47.- Pedro Ascencio Alquisiras
+46.- Olinalá
 
-48.- Petatlán
+47.- Ometepec
 
-49.- Pilcaya
+48.- Pedro Ascencio Alquisiras
 
-50.- Pungarabato
+49.- Petatlán
 
-51.- Quechultenango
+50.- Pilcaya
 
-52.- San Luis Acatlán
+51.- Pungarabato
 
-53.- San Marcos
+52.- Quechultenango
 
-54.- San Miguel Totolapan
+53.- San Luis Acatlán
 
-55.- Taxco de Alarcón
+54.- San Marcos
 
-56.- Tecoanapa
+55.- San Miguel Totolapan
 
-57.- Tecpan de Galeana
+56.- Taxco de Alarcón
 
-58.- Teloloapan
+57.- Tecoanapa
 
-59.- Tepecoacuilco de Trujano
+58.- Tecpan de Galeana
 
-60.- Tetipac
+59.- Teloloapan
 
-61.- Tixtla de Guerrero
+60.- Tepecoacuilco de Trujano
 
-62.- Tlacoapa
+61.- Tetipac
 
-63.- Tlacoachistlahuaca
+62.- Tixtla de Guerrero
 
-64.- Tlalchapa
+63.- Tlacoapa
 
-65.- Tlalixtaquilla
+64.- Tlacoachistlahuaca
 
-66.- Tlapa de Comonfort
+65.- Tlalchapa
 
-67.- Tlapehuala
+66.- Tlalixtaquilla
 
-68.- La Unión
+67.- Tlapa de Comonfort
 
-69.- Xalpatláhuac
+68.- Tlapehuala
 
-70.- Xochistlahuaca
+69.- La Unión
 
-71.- Xochihuehuetlán
+70.- Xalpatláhuac
 
-72.- Zapotitlán Tablas
+71.- Xochistlahuaca
 
-73.- Zirándaro
+72.- Xochihuehuetlán
 
-74.- Zitlala
+73.- Zapotitlán Tablas
 
-75.- Zumpango del Río
+74.- Zirándaro
+
+75.- Zitlala
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -949,7 +951,7 @@ II.- El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier de
 
 En las faltas temporales del Gobernador que no excedan de treinta días, se encargará del despacho el funcionario que el Jefe del Ejecutivo designe.
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984) (F. DE E., P.O. 3 DE FEBRERO DE 1984)
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ARTCULO (SIC) 69.- Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviese hecha y declarada el primero de abril, cesará sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador Interino, el que designe el Congreso del Estado, o en su falta con el carácter de Provisional, el que designe la Comisión Permanente.
 
@@ -999,7 +1001,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1099,9 +1101,9 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 75.
 
@@ -1115,9 +1117,9 @@ Las Leyes, decretos, reglamentos y demás disposiciones de carácter general que
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 77.
 
@@ -1225,9 +1227,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 89.
 
@@ -1313,7 +1315,9 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 94.
 
@@ -1383,7 +1387,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1681,7 +1685,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1701,11 +1705,15 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1713,21 +1721,15 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 ## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
-
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2288,3 +2290,7 @@ Los Ayuntamientos que hayan de instalarse el 1o. de enero de 1990 durarán en su
 ###### ARTICULO TERCERO.
 
 La LIII Legislatura, que habrá de instalarse el 1o. de marzo de 1990, desempeñará sus funciones constitucionales hasta el 23 de marzo de 1993.
+
+P.O. 13 DE OCTUBRE DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
