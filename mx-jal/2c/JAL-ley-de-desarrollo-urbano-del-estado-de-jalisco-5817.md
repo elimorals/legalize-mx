@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-urbano-del-estado-de-jalisco-5817"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-13"
-last_updated: "2001-07-28"
+last_updated: "2001-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 13 de julio de 1993.
 
@@ -3279,7 +3279,9 @@ III. En su caso, los avisos ordenados por los artículos 152, 154 y 155; y
 
 IV. Los documentos que acrediten las excepciones al derecho de preferencia previstas en el artículo 160 de esta Ley.
 
-No se deberá inscribir acto alguno, convenio o contrato que no se ajuste a lo dispuesto en los artículos 152, 154, 155 y 167 de esta Ley.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
+
+No se deberá inscribir acto alguno, convenio o contrato que no se ajuste en su caso, a lo dispuesto en los artículos 152, 154, 155, 167 y 300 de esta Ley.
 
 ###### Artículo 169.
 
@@ -4579,7 +4581,9 @@ IV. Al promotor inmobiliario legalmente autorizado, con quien las personas que s
 
 La Dependencia Municipal está facultada para expedir licencias o permisos de construcción en:
 
-I. Los predios de suelo urbanizado;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2001)</small>
+
+I. Los predios de suelo urbanizado y en lotes o predios respecto de los cuales se autorizó su enajenación, en los casos y supuestos previstos por el artículo 300 de esta Ley;
 
 II. Los proyectos de obras de urbanización y edificación simultáneas, de acuerdo con el plan parcial y el proyecto definitivo de urbanización;
 
@@ -4755,15 +4759,21 @@ II. Que se haya constituido la garantía a fin de reponer o corregir las obras q
 
 III. Que se hayan pagado o garantizado las obligaciones fiscales a su cargo, como se indica en la fracción III del artículo 210 de esta Ley,
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2001)</small>
+
+El urbanizador podrá escriturar a sus adquirientes, antes de realizar el procedimiento previsto en los artículos 207 al 211 a que se refiere la fracción I que antecede, lotes o predios respecto de los cuales se autorizó su enajenación, en los casos y supuestos previstos por el artículo 300 de esta Ley.
+
 IV. Que se hayan pagado o garantizado las obligaciones fiscales a su cargo, como se indica en la fracción III del artículo 211 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 299.
 
-El urbanizador está obligado (sic) incluir los siguientes rubros en todas las escrituras que otorgue para enajenar lotes del predio urbanizado o fincas:
+El urbanizador está obligado incluir los siguientes rubros en todos los contratos que otorgue para enajenar predios, lotes o fincas:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2001)</small>
 
-I. El uso de cada lote, el tipo y densidad de edificación que le corresponda;
+I. El uso de cada predio o lote, el tipo y densidad de edificación que le corresponda;
 
 II. Las limitaciones de dominio consistentes en la imposibilidad jurídica de subdividir los lotes en fracciones con dimensiones menores a las determinadas en el reglamento de zonificación;
 
@@ -4773,31 +4783,45 @@ IV. Las distintas funciones del predio urbanizado;
 
 V. Las garantías a cargo del urbanizador, en su monto y vigencia, para realizar reparaciones y reponer elementos de la urbanización y edificación, al presentarse defectos ocultos y fallas por calidad en materiales o mano de obra; y
 
-VI. En su caso, la declaración del adquirente de que conoce del reglamento autorizado por el Ayuntamiento como parte del Plan Parcial de Urbanización.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2001)</small>
+
+VI. Las declaraciones del adquiriente de que, en su caso conoce:
+
+a) El reglamento autorizado por el Ayuntamiento como parte del Plan Parcial de Urbanización;
+
+b) El convenio de autorización de obras y acepta que la acción urbanística se autorizó bajo la modalidad de acción urbanística de objetivo social, por lo cual los propietarios o adquirientes de los lotes, están obligados solidariamente en las responsabilidades derivadas de la realización de las obras de urbanización progresiva, lo cual implica que el Ayuntamiento podrá exigir indistintamente a los propietarios del terreno, como a los adquirientes en su conjunto o en forma individual la participación o colaboración que les corresponda; o
+
+c) Las condiciones bajo las cuales se autorizó la venta, conforme las disposiciones de los artículos 272 y 300 de esta Ley.
 
 Estas declaraciones serán objeto especial de registro y surtirá efectos contra terceros, conforme las obligaciones establecidas para los notarios en los artículos 168 y 408 de esta Ley, quienes solicitarán a los urbanizadores la información necesaria para integrar a las escrituras los elementos antes referidos.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 300.
 
-En todo tipo de publicidad comercial donde se oferten predios o fincas en venta, apartado, contratos preparatorios de preventa u otros actos de enajenación, se deberá hacer referencia al acuerdo del Ayuntamiento donde autorice las obras de urbanización y de edificación en su caso, citando el número y la fecha de la licencia o permiso.
+En todo tipo de publicidad comercial donde se oferten lotes, terrenos, predios o fincas en venta, apartado, contratos preparatorios como promesa de venta u otros actos de enajenación, se deberá hacer referencia a la licencia, permiso o autorización del Ayuntamiento de las obras de urbanización y en su caso de edificación, citando su número y la fecha de expedición.
 
-En los casos cuando el urbanizador pretenda realizar contratos preparatorios de preventa de predios o fincas, antes de iniciar las obras de urbanización o durante su proceso de construcción:
+En los casos cuando el urbanizador pretenda realizar la venta de lotes o contratos preparatorios como promesa de venta de predios o fincas u otros actos de enajenación, antes de iniciar las obras de urbanización o durante su proceso de construcción:
 
-I. Podrá solicitar la autorización de la Dependencia Municipal al respecto;
+I. Podrá solicitar la autorización de la Dependencia Municipal, con los siguientes elementos:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+a) La referencia a la licencia, permiso o autorización del Ayuntamiento de las obras, citando su número y la fecha de expedición;
 
-II. Recibida la solicitud, la Dependencia Municipal resolverá en un plazo no mayor de quince días, señalando el monto de la fianza que deberá otorgar a favor del Ayuntamiento, por el valor de la totalidad de las obras de urbanización o la etapa correspondiente, para garantizar la ejecución de las obras y su correcta terminación;
+b) La fecha de inicio de las obras de urbanización de la totalidad del proyecto o de la etapa por ejecutar;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+c) El valor de la totalidad de las obras de urbanización o de la etapa autorizada; y
 
-III. Constituida la fianza, la Dependencia Municipal expedirá de inmediato la autorización correspondiente; y
+d) En su caso, el grado de avance en el proceso de construcción de las obras de urbanización y el valor de las obras pendientes de ejecutar, los cuales se acreditarán mediante el informe o dictamen que emita el perito a cargo de la supervisión municipal de las mismas;
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+II. Con la solicitud se deberá presentar el dictamen donde el organismo público descentralizado encargado de la promoción de vivienda de interés social del Estado, certifique la vialidad jurídica, social, económica y urbanística del proyecto;
 
-IV. La fianza se cancelará cuando se reciban las obras de urbanización por la Dependencia Municipal.
+III. Recibida la solicitud, la Dependencia Municipal resolverá en un plazo no mayor de quince días, señalando en su caso el monto de la garantía que deberá otorgar a favor del Ayuntamiento para asegurar la ejecución de las obras de urbanización y su correcta terminación, mediante garantía hipotecaria, fideicomiso de garantía u otro medio eficaz y solvente;
+
+IV. Constituida la garantía, la Dependencia Municipal expedirá de inmediato la autorización correspondiente; y
+
+V. Así mismo, la Dependencia Municipal procederá de inmediato a informar al Catastro y al Registro Público de la Propiedad a efecto de que se asignen las cuentas prediales y se realicen los actos registrales correspondientes a la individualización de los lotes, terrenos, predios o fincas; y
+
+VI. La garantía se cancelará cuando se reciban las obras de urbanización por la Dependencia Municipal.
 
 ## TITULO SEXTO
 
@@ -5841,7 +5865,13 @@ IX. Arresto administrativo, en los casos de infracciones que se determinen (sic)
 
 X. A quienes vendan terrenos como urbanos sin tener tal calidad, o sin autorización expresa de las autoridades competentes, se le aplicarán las sanciones previstas en el Código Penal del Estado de Jalisco.
 
-Para los efectos del Código Penal del Estado, la autorización expresa de la autoridad municipal competente para realizar enajenaciones de terrenos, es la que se indica en la fracción V del artículo 298 de esta Ley.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
+
+Para los efectos del Código Penal del Estado, la autorización expresa de la autoridad municipal competente para realizar enajenaciones de terrenos, es la que se indica en el artículo 272 y en el artículo 300 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2001)</small>
+
+Las sanciones pecuniarias aplicadas en la ejecución de esta Ley, se extinguirán en la forma prevista en la Ley de Hacienda Municipal.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -5869,11 +5899,11 @@ De la defensa de los particulares.
 
 Cuando la declaración de nulidad del acto traslativo de dominio se demande por el adquirente o por la Procuraduría de Desarrollo Urbano en su representación, el perjudicado tendrá derecho a reclamar el pago de daños y perjuicios.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 418.
 
-Las sanciones pecuniarias aplicadas en la ejecución de esta Ley, se extinguirán en la forma prevista en la Ley de Hacienda Municipal.
+Los adquirientes de lotes, terrenos, predios o fincas tendrán derecho de acción para requerir al urbanizador o al ayuntamiento la ejecución de las obras de urbanización y su correcta terminación, de acuerdo con la modalidad de la acción urbanística, los proyectos autorizados y los convenios o contratos que se hayan celebrado, respecto de los cuales se autorizó su enajenación y su urbanización en los casos y supuestos previstos por el Art. 300 de esta Ley.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -6250,3 +6280,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Los programes o planes de desarrollo urbano y los planes parciales de urbanización que se hayan aprobado conforme las disposiciones de esta Ley, pero a la fecha de entrar en vigor el presente Decreto no se haya ordenado su publicación, ésta se realizará conforme las disposiciones que se reforman y adicionan.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2001.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
