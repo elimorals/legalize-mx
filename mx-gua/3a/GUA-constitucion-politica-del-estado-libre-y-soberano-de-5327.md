@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1932-04-28"
+last_updated: "1933-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1933.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -59,15 +59,15 @@ En el Estado sólo podrán ejercer las profesiones de abogado, médico-cirujano,
 
 Las sentencias pronunciadas por los Tribunales del Estado, solamente perjudican a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se hubieren dictado, y a sus causa-habientes.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
 ###### Art. 6º.
 
-La aplicación de las penas corresponde a la autoridad judicial. Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en la multa que señalen los mismos o en arresto hasta de treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta con el arresto correspondiente, que no excederá en ningún caso de quince días.
+La aplicación de las penas corresponde a la autoridad judicial. Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en la multa que señalen los mismos o en arresto hasta de treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta con el arresto correspondiente que no excederá en ningún caso de quince días.
 
-Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal ó sueldo de una semana.
+Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo de una semana.
 
-La persecusión de los delitos, incumbe al Ministerio Público y a la Policía Judicial.
+La persecusión de los delitos incumbe al Ministerio Público y a la Policía Judicial. El Ministerio Público dependerá del Ejecutivo. El Procurador General es el Jefe de la Institución, tendrá el carácter de Representante Jurídico del Estado y será consejero del Ejecutivo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 1919)</small>
 
@@ -229,13 +229,11 @@ Forma de Gobierno y manera de elegir a los Funcionarios Públicos.
 
 El Gobierno del Estado es republicano, representativo y democrático, teniendo como base de su división territorial y de su organización política, el Municipio libre.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+
 ###### Art. 27.
 
 El Poder Supremo, para su ejercicio, se divide en Legislativo, Ejecutivo y Judicial.
-
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1932)</small>
-
-Cuando éstos se declaren desaparecidos, el Presidente Municipal de Guanajuato, o en su defecto el Presidente del Municipio más próximo a la Capital del Estado, asumirá el Poder Ejecutivo y convocará a elecciones en el Estado en los términos de las Leyes de la materia, y de acuerdo con lo preceptuado por la fracción V del Artículo 76 de la Constitución General de la República.
 
 ###### Art. 28.
 
@@ -253,11 +251,11 @@ El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia, a l
 
 Jamás podrán reunirse dos o más de estos Poderes en una persona o Corporación ni el Legislativo depositar la suma de su poder en una sola persona.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
 ###### Art. 32.
 
-El Gobernador del Estado, los Diputados a la Legislatura, los Presidentes Municipales y los Regidores de los Ayuntamientos, serán nombrados popularmente y por elección directa. Los Magistrados serán nombrados por la Legislatura funcionando en Colegio Electoral; los Jueces de Partido y los Municipales por el Supremo Tribunal de Justicia y los Jurados por los Ayuntamientos respectivos.
+El Gobernador del Estado, los Diputados a la Legislatura, los Presidentes Municipales, los Regidores y Síndicos de los Ayuntamientos serán nombrados popularmente y por elección directa. Los Magistrados serán designados por la Legislatura funcionando en Colegio Electoral; los Jueces de Partido y los Municipales, por el Supremo Tribunal de Justicia y los Jurados por los Ayuntamientos respectivos.
 
 ###### Art. 33.
 
@@ -275,29 +273,29 @@ La Ciudad de Guanajuato es la residencia habitual de los Poderes y éstos no pod
 
 Del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+
 ###### Art. 54.
 
 Para ser Gobernador del Estado, se requiere:
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
-
-I. Ser ciudadano mexicano por nacimiento y además nativo del Estado, o con vecindad en el mismo no menor de cinco años, inmediatamente anteriores al día de la elección.
+I. Ser ciudadano mexicano por nacimiento y además nativo del Estado, o con residencia efectiva en él no menor de cinco años inmediatamente anteriores al día de la elección.
 
 II. Estar en ejercicio de sus derechos.
 
 III. Tener más de treinta años y menos de sesenta y cinco, al tiempo de la elección.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
-
 IV. No ser ni haber sido ministro o delegado de algún culto religioso.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+V. No ser militar en servicio activo o ciudadano con mando de fuerzas, regulares o irregulares, en el Estado, dentro de los ciento ochenta días anteriores a la fecha de la elección, ni el día en que ésta se efectúe; y
 
-V. No ser militar con mando de fuerzas dentro de los noventa días anteriores a la elección ni en la fecha en que ésta se efectúe.
+VI. No estar comprendido en alguna de las prohibiciones que establece el artículo 60 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
 ###### Art. 55.
 
-El Gobernador del Estado durará en su encargo cuatro años; comenzará a ejercer sus funciones el 26 de septiembre siguiente al mes de su elección y no podrá ser reelecto.
+El Gobernador del Estado durará en su encargo cuatro años y comenzará a ejercer sus funciones el 26 de septiembre siguiente al mes de su elección.
 
 ###### Art. 56.
 
@@ -389,9 +387,17 @@ Para el despacho de los negocios y administración del Estado, habrá un solo Se
 
 Todas las leyes, decretos y reglamentos, serán invariablemente firmados por el Gobernador del Estado y por el Secretario del Despacho.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+
 ###### Art. 60.
 
-Ni el Gobernador interino, ni el Secretario del Despacho pueden ser electos para desempeñar el Gobierno del Estado en el período inmediato.
+El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+I. El Gobernador Substituto Constitucional.
+
+II. El Gobernador Interino, el Provisional, o el ciudadano que, por Ministerio de la Ley y bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ## TITULO CUARTO.
 
@@ -411,11 +417,11 @@ Entretanto que, conforme a lo dispuesto en el artículo 48, fracción XII de est
 
 El Gobierno interior de dichos Municipios y el manejo y distribución de los intereses pertenecientes a las poblaciones, corresponde a los Ayuntamientos, los que en los asuntos de su competencia no dependerán de otra autoridad.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
 ###### Art. 73.
 
-Los Ayuntamientos se compondrán de un Presidente y del número de Regidores que sea necesario de acuerdo con la importancia de cada Municipio, sin que el número sea mayor de quince ni menor de siete. Por cada Munícipe propietario se nombrará un suplente.
+Los Ayuntamientos se compondrán de un Presidente Municipal y del número de Regidores y Síndicos que sea necesario, de acuerdo con la importancia de cada Municipio, sin que el número total de miembros que los integren sea mayor de quince ni menor de siete. Por cada Regidor y Síndico Propietarios, se elegirá un suplente.
 
 ###### Art. 74.
 
@@ -427,11 +433,11 @@ La libertad Municipal no tendrá más límites que los señalados en la Constitu
 
 Los Ayuntamientos administrarán colectivamente los asuntos de los Municipios y el Presidente de la Corporación dirigirá las deliberaciones de ésta y será el ejecutor de los acuerdos de la misma.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
 ###### Art. 76.
 
-Los Presidentes Municipales y Regidores durarán en sus funciones dos años. Los Presidentes Municipales no podrán ser reelectos en el período inmediato siguiente.
+Los Presidentes Municipales, Regidores y Síndicos electos popularmente, durarán en su encargo dos años y no podrán ser reelectos para el período inmediato. Los miembros de las Juntas de Administración Civil o de los Consejos Municipales, no podrán ser electos para el período inmediato. Todos los funcionarios municipales antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
 
@@ -439,17 +445,23 @@ Los Presidentes Municipales y Regidores durarán en sus funciones dos años. Los
 
 Los ciudadanos que tuvieren credenciales expedidas legalmente, se reunirán en el Salón de acuerdos del respectivo Municipio, para calificar la validez de sus credenciales y declarar el resultado, todo en los términos que ordene la Ley Electoral.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+
 ###### Art. 78.
 
-Para ser Munícipe se requiere:
+Para ser Presidente Municipal, Regidor o Síndico, se requiere:
 
 I. Ser Ciudadano guanajuatense en ejercicio de sus derechos y no haber sido condenado por delito alguno contra la propiedad.
 
 II. Saber leer y escribir.
 
-III. Tener cuando menos un año de residencia en el lngar (sic) en donde deba desempeñarse el cargo, al tiempo de la elección.
+III. Tener cuando menos ciento ochenta días de residencia en el lugar en donde deba desempeñarse el cargo, al tiempo de la elección.
 
-IV. No ser empleado público, ni ministro de algún culto.
+IV. No ser Militar en servicio activo o ciudadano con mando de fuerzas, regulares o irregulares, en el Municipio en que deba efectuarse la elección, ni Secretario del Ayuntamiento o de la Presidencia Municipal, durante los ciento ochenta días anteriores al de la elección o en la fecha en que ésta se celebre.
+
+V. No ser ni haber sido ministro o delegado de algún culto, y
+
+VI. No estar comprendido en alguna de las inhabilidades que señala el artículo 76 de esta Constitución.
 
 ###### Art. 79.
 
@@ -531,13 +543,17 @@ Los Presidentes Municipales tomarán particular empeño en que en sus respectiva
 
 Del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+
 ###### Art. 35.
 
-La Legislatura del Estado se compondrá de quince Diputados propietarios, electos por Distritos electorales cada dos años, en la forma que determine la ley. Por cada Diputado propietario se nombrará un suplente.
+La Legislatura local se compondrá del número de diputados propietarios que, como mínimo y atenta la población del Estado, señale la Constitución General de la República, designados por distritos electorales cada dos años, en la forma que determine la Ley. Por cada diputado propietario se elegirá un suplente.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
 ###### Art. 36.
 
-Para ser Diputado, se requiere:
+Para ser Diputado a la Legislatura del Estado, se requiere:
 
 I. Ser Ciudadano guanajuatense en ejercicio de sus derechos y no haber sido condenado por delito alguno contra la propiedad.
 
@@ -545,25 +561,25 @@ II. Haber terminado la instrucción primaria.
 
 III. Tener veinticinco años cumplidos al tiempo de la elección.
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 1932)</small>
+IV. No encontrarse comprendido en alguna de las prohibiciones que señala el artículo siguiente.
 
-IV. Haber residido en el Estado durante los dos años anteriores al día de la elección.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
 ###### Art. 37.
 
-No pueden ser Diputados a la Legislatura:
+No pueden ser Diputados a la Legislatura local:
 
-I. El Gobernador del Estado.
+I. El Gobernador del Estado, cualquiera que sea su denominación, el origen y la forma de su designación.
 
-II. Los Magistrados ni el Procurador de Justicia.
+II. El Secretario General del Despacho, los Magistrados del Supremo Tribunal y el Procurador de Justicia, a no ser que se separen definitivamente de sus cargos, cuando menos ciento ochenta días antes de la fecha en que deban efectuarse las elecciones.
 
-III. Los Ministros de cualquier culto, estén o no ejerciendo.
+III. Los Militares en servicio activo en el Estado y los ciudadanos que tengan mando de fuerzas, regulares o irregulares, en el Distrito Electoral respectivo, dentro de los ciento ochenta días anteriores a la elección o cuando ésta se efectúe.
 
-IV. Los Militares en servicio activo en el Estado, dentro de los noventa días anteriores a la elección o cuando ésta se verifique.
+IV. Los Presidentes Municipales y los Presidentes de las Juntas de Administración Civil o Concejos Municipales, durante el período para el cual fueren electos o designados, siempre que ejerzan sus funciones en un Municipio comprendido dentro del Distrito en que habrá de efectuarse su elección.
 
-V. Los Presidentes Municipales.
+V. Los que sean o hayan sido ministros de cualquier culto.
+
+Los Diputados a la Legislatura del Estado, no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser electos para el período inmediato con el carácter de Propietarios, siempre que no hubieren estado en ejercicio; pero los Diputados Propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 ###### Art. 38.
 
@@ -627,103 +643,79 @@ Si las sesiones extraordinarias se prolongaren hasta la fecha en que deban dar p
 
 De las Facultades de la Legislatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 1922)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
 ###### Art. 48.
 
-Son facultades del Congreso Legislativo:
+Son facultades de la Legislatura del Estado:
 
 I. Expedir cuantas leyes sean conducentes al Gobierno y administración de todos los ramos que comprenden.
 
-II. Fijar anualmente todos los gastos de la Administración Pública del Estado, previo examen de los Presupuestos que presente el Gobernador, y decretar contribuciones con que cubrir esos gastos.
+II. Fijar anualmente todos los gastos de la Administración Pública del Estado, previo examen de los Presupuestos que presente el Gobernador, y decretar las contribuciones e impuestos con que cubrir esos gastos.
 
-III. Pedir, examinar y aprobar anualmente y siempre que lo estime oportuno, las cuentas consiguientes a la administración de los caudales públicos.
+III. Pedir, examinar y aprobar anualmente y siempre que lo estime oportuno, las cuentas correspondientes a la administración de los caudales públicos.
 
-IV. Autorizar al Ejecutivo a que contraiga deudas a nombre del Estado, designando los recursos con que deban cubrirse esas deudas.
+IV. Autorizar al Ejecutivo a que contraiga deudas a nombre del Estado, designando los recursos con que deban cubrirse.
 
 V. Conceder amnistías en circunstancias extraordinarias, por el voto de las dos terceras partes de la Legislatura y siempre que se trate de delitos de la competencia de los Tribunales del Estado.
 
-VI. Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gabierno (sic) General constituya un ataque a la soberanía, independencia o libertad del Estado o a la Constitución Federal.
+VI. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido la mayoría de los comicios.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 1922)</small>
+Cada presunta Legislatura calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e irrevocable.
 
-VII. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido mayoría en los comicios.
+VII. Erigirse en Colegio Electoral para nombrar los Magistrados del Supremo Tribunal, así como para elegir Gobernador del Estado que termine el período constitucional, en caso de falta absoluta de este funcionario, ocurrida dentro de los dos últimos años de dicho periodo. Entre tanto la Legislatura hace la elección de Gobernador, para lo cual será convocada desde luego por su Diputación Permanente, en caso de estar en funciones, se encargará del Poder Ejecutivo el Secretario General del Despacho; y si este funcionario se encontrare comprendido en alguna de las prohibiciones del artículo 60 de esta Constitución, asumirá provisionalmente el cargo de Gobernador, el Ciudadano que designe la Legislatura, si estuviere en sesiones, o su Diputación Permanente en los recesos de aquélla. El ciudadano electo por la Legislatura para el cargo de Gobernador Substituto del Estado, de conformidad con lo dispuesto en la primera parte de esta fracción, deberá llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala esta Constitución.
 
-Cada presunta Legislatura calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e inatacable.
+VIII. Hacer la división del Estado en Distritos Electorales.
 
-VIII. (DEROGADA, P.O. 9 DE NOVIEMBRE DE 1924)
+IX. Decidir sobre las renuncias que hagan los Diputados, Gobernador del Estado y Magistrados del Supremo Tribunal, y conceder licencias a dichos funcionarios para separarse de sus respectivos cargos; así como al Gobernador para salir del Estado por más de quince días.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 1924)</small>
+X. Reformar la división política del Estado, a fin de que resulte adecuada a las necesidades del buen Gobierno.
 
-IX. Erigirse en Colegio Electoral para nombrar Magistrados del Supremo Tribunal, así como para elegir Gobernador del Estado que termine el periodo constitucional, en caso de falta absoluta de éste funcionario ocurrida dentro de los últimos dieciocho meses, o cuando la falta sea temporal y exceda de treinta días.
+XI. Convocar a elecciones de Gobernador en caso de falta absoluta del que está ejerciendo el cargo, ocurrida en los dos primeros años del período constitucional, a fin de que concluya dicho período. En este caso, entre tanto se efectúan las elecciones y toma posesión el nuevo Gobernador, así como en toda falta temporal del Ciudadano Encargado del Poder Ejecutivo por más de treinta días, la Legislatura elegirá por mayoría de votos y en escrutinio secreto, un Gobernador Interino, debiendo, el electo, llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala esta Constitución. Entre tanto se hace la elección por la Legislatura, a la que si no estuviere reunida, convocará desde luego a sesiones extraordinarias la Diputación Permanente, se encargará del Poder Ejecutivo el Secretario General del Despacho, quien también suplirá al Gobernador en sus faltas temporales que no excedan de treinta días, procediéndose, en caso de que el Secretario General se encuentre comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución, en la forma que determina la fracción VIII de este artículo.
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1932)</small>
+XII. Dirimir los conflictos entre el Ejecutivo y el Supremo Tribunal de Justicia y entre éstos y los Municipios.
 
-X. Decidir sobre las renuncias que hagan los Diputados, Gobernador del Estado, y Magistrados del Supremo Tribunal de Justicia, y conceder licencias a dichos funcionarios para separarse de sus respectivos cargos; así como al Gobernador para salir del Estado por más de 15 días.
+XIII. Conceder dispensas de Ley por causas justificadas o de utilidad pública.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 1924)</small>
+XIV. Rehabilitar con arreglo a las Leyes.
 
-XI. Decidir sobre las renuncias que hagan los Diputados, Gobernador del Estado y Magistrados del Supremo Tribunal, y conceder licencias a dichos funcionarios para separarse de sus respectivos cargos; así como al Gobernador para salir del Estado por más de ocho días.
+XV. Premiar a los que hayan prestado eminentes servicios al Estado, a la Patria o a la Humanidad, y recompensar a los buenos servidores del Estado.
 
-XII. Reformar la división política del Estado, a fin de que resulte adecuada a las necesidades del buen Gobierno.
+XVI. Examinar y aprobar las cuentas municipales.
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 1924)</small>
+XVII. Aprobar los presupuestos Municipales.
 
-XIII. Convocar a elecciones de Gobernador, en caso de falta absoluta del que está ejerciendo el cargo, ocurrida antes de los últimos dieciocho meses del período Constitucional, a fin de que concluya dicho período.
+XVIII. Crear y suprimir empleos y fijar sus dotaciones.
 
-En este caso, entre tanto que se verifican las elecciones y toma posesión el nuevo Gobernador, así como en toda falta temporal del expresado funcionario, por más de treinta días, la Legislatura elegirá al substituto por mayoría de votos y en escrutinio secreto, debiendo el electo llenar los requisitos constitucionales para tal cargo. Entre tanto se hace la elección se encargará del Poder Ejecutivo el Secretario del Despacho, quien también suplirá al Gobernador en sus faltas temporales que no excedan de treinta días.
+XIX. Autorizar al Gobernador para que pueda, en campaña, mandar personalmente la Guardia Nacional y las fuerzas de policía.
 
-XIV. Dirimir los conflictos entre el Ejecutivo y el Supremo Tribunal de Justicia y entre éstos y los Municipios.
+XX. Declarar, cuando se trate de delitos comunes, si hay lugar a formación de causa de que habla el artículo 100 de esta Constitución.
 
-XV. Conceder dispensas de ley por causas justificadas o de utilidad pública.
+XXI. Conocer, como jurado de calificación, en las causas de responsabilidad de los mismos, por delitos cometidos en el desempeño de sus funciones.
 
-XVI. Rehabilitar con arreglo a las leyes.
+XXII. Promover lo necesario para obtener el mejoramiento de la educación e instrucción públicas y de todos los elementos de prosperidad en el Estado.
 
-XVII. Premiar a los que hayan prestado eminentes servicios al Estado, a la Patria o a la humanidad, y recompensar a los buenos servidores del Estado.
+XXIII. Fijar el número máximo de ministros de cualquier culto que pueden ejercer en el Estado o en cualquiera población de él.
 
-XVIII. Examinar y aprobar las cuentas municipales.
+XXIV. Conceder al Ejecutivo facultades extraordinarias en determinados ramos, por el tiempo indispensable, y cuando así lo exijan la paz o las necesidades públicas.
 
-XIX. Aprobar los Presupuestos Municipales.
+XXV. Crear nuevos Municipios y suprimir algunos de los existentes, mediante el voto de las dos terceras partes de la totalidad de los Diputados.
 
-XX. Crear y suprimir empleos y fijar sus dotaciones.
+XXVI. Organizar la enseñanza que imparten el Gobierno del Estado y los Municipios, uniformando debidamente la primaria y velando porque en la impartida por las escuelas particulares, no se violen las Leyes en lo relativo a laicismo, ni se comprometa la salud de los educandos.
 
-XXI. Dictar leyes reguladoras del jornal, salario o sueldo de los trabajadores y del monto de las indemnizaciones en caso de accidente.
+XXVII. Formar su reglamento interior, así como el de Contaduría Mayor de Hacienda, y modificarlos cuando lo crea conveniente.
 
-XXII. Autorizar al Gobernador para que pueda, en campaña, mandar personalmente la Guardia Nacional y las fuerzas de policía.
+XXVIII. Nombrar y remover libremente a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+XXIX. Expedir las leyes que sean necesarias para hacer efectivas las disposiciones de la Constitución Federal y de la presente.
 
-XXIII. Declarar cuando se trate de delitos comunes, si hay lugar a formación de causa de que habla el artículo 100 de esta Constitución.
+XXX. Interpretar las Leyes y Decretos del Estado cuando la necesidad lo exija.
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1932)</small>
+XXXI. Reformar, de acuerdo con esta Constitución y con la Federal, las Leyes secundarias del Estado, haciendo consecutivamente su codificación.
 
-XXIV. Pedir al Gobernador que exija la responsabilidad a todo funcionario o empleado público.
+XXXII. Autorizar al Ejecutivo para que enajene, traspase, hipoteque, grave o ejerza cualquier otro acto de riguroso dominio sobre los muebles o inmuebles pertenecientes al Estado, fijando, en cada caso especial, las condiciones a que deba sujetarse, o dejándolas a juicio del mismo Ejecutivo, quien, en todo caso, dará cuenta a la Legislatura del uso que hiciere de la autorización, y
 
-XXV. Mandar que se exija la responsabilidad de todo funcionario o empleado público.
-
-XXVI. Promover lo necesario para obtener el mejoramiento de la educación e instrucción pública y de todos los elementos de prosperidad en el Estado.
-
-XXVII. Fijar el máximo de ministros de cualquier culto que pueden ejercer en el Estado o en cualquiera población de él.
-
-XXVIII. Conceder al Ejecutivo, facultades extraordinarias en determinados ramos por el tiempo indispensable, cuando así lo exijan la paz o las necesidades públicas.
-
-XXIX. Crear nuevos Municipios y suprimir algunos de los existentes, mediante el voto de las dos terceras partes de la totalidad de los Diputados.
-
-XXX. Organizar la enseñanza que imparten el Gobierno del Estado y los Municipios, uniformando debidamente la primaria y velando porque en la impartida por las escuelas particulares, no se violen las leyes en lo relativo a la laicicidad, ni se comprometa la salud de los educandos.
-
-XXXI. Formar su reglamento interior, así como el de la Contaduría Mayor de Hacienda, y modificarlos cuando lo crea conveniente.
-
-XXXII. Nombrar y remover libremente a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda.
-
-XXXIII. Expedir las leyes que sean necesarias para hacer efectivas las disposiciones de la Constitución Federal y de la presente.
-
-XXXIV. Interpretar las leyes y decretos del Estado, cuando la necesidad lo exija.
-
-XXXV. Reformar, de acuerdo con esta Constitución y con la Federal, las leyes secundarias del Estado, haciendo consecutivamente su codificación.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1922)</small>
-
-XXXVI. Autorizar al Ejecutivo para que enajene, traspase, hipoteque, grave o ejerza cualquier otro acto de riguroso dominio sobre los muebles o inmuebles pertenecientes al Estado, fijando en cada caso especial las condiciones a que deba sujetarse, o dejándolas a juicio del mismo Gobierno, quien en todo caso dará cuenta al Congreso del uso que hiciere de la autorización.
+XXXIII. Las demás facultades que de un modo especial, se indiquen en cualquiera de los capítulos de esta Constitución.
 
 #### SECCION CUARTA.
 
@@ -759,29 +751,25 @@ Las iniciativas o proyectos de ley que fueren desechados por la Legislatura, no 
 
 De la Diputación Permanente.
 
-(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 1922))
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
 ###### Art. 53.
 
-Son obligaciones de la Diputación Permanente:
+Son facultades y obligaciones de la Diputación Permanente:
 
 I. Acordar por sí sola, cuando el caso lo exija, o a iniciativa del Ejecutivo, la convocatoria de la Legislatura a sesiones extraordinarias.
 
-(REFORMADA, P.O. 28 DE MAYO DE 1922))
+II. Recibir los expedientes relativos a las elecciones de Gobernador y de Diputados Locales, reservando los primeros a la Legislatura y los segundos al C. Presidente de la Junta Preparatoria del nuevo Congreso para que se hagan los cómputos y declaraciones respectivas.
 
-II. Recibir los expedientes relativos a las elecciones de Gobernador y de Diputados Locales, reservando los primeros a la Legislatura y los segundos al C. Presidente de la Junta Preparatoria del nuevo Congreso para que se hagan los cómputos y declaraciones respectivos.
+III. Nombrar, con calidad de interinos, los empleados de la Secretaría de la Cámara y de la oficina de Glosa.
 
-III. (DEROGADA, P.O. 8 DE JUNIO DE 1924)
+IV. Admitir las renuncias de los funcionarios y empleados nombrados conforme a sus facultades por la Legislatura o por la misma Diputación Permanente.
 
-IV. Nombrar, con calidad de interinos, los empleados de la Secretaría de la Cámara y de la oficina de Glosa.
+V. Expeditar los trabajos pendientes al tiempo del receso y ejecutar, en los nuevos, lo que fuere indispensable, dando cuenta a la Legislatura con unos y con otros.
 
-V. Admitir las renuncias de los funcionarios y empleados nombrados conforme a sus facultades.
+VI. Conceder licencia, con goce de sueldo o sin él, al Gobernador del Estado, a los Diputados, a los Magistrados y a los empleados dependientes de la Legislatura, y
 
-VI. Expeditar los trabajos pendientes al tiempo del receso y ejecutar en los nuevos, lo que fuere indispensable, dando cuenta a la Legislatura con unos y otros.
-
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1924)</small>
-
-VII. Conceder licencias, con goce de sueldo o sin él, al Gobernador del Estado, a los Diputados, a los Magistrados y a los empleados dependientes de la Legislatura.
+VII. Nombrar Gobernador provisional, en los casos de las fracciones VII y XI del artículo 48 de esta Constitución, cuando el Secretario General esté comprendido en alguna de las prohibiciones que señala el artículo 60 de la misma.
 
 #### SECCION PRIMERA.
 
@@ -791,7 +779,7 @@ Poder Judicial. Supremo Tribunal de Justicia.
 
 El Supremo Tribunal de Justicia se compondrá de cinco Magistrados propietarios y siete supernumerarios. Durarán en sus funciones cuatro años, y serán nombrados por el Congreso, funcionando como Colegio Electoral.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1929)</small>
+(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
 
 ###### Art. 62.
 
@@ -957,9 +945,11 @@ De los delitos oficiales cometidos por los mismos funcionarios de primer orden, 
 
 Los funcionarios comprendidos en la primera parte del artículo 101, serán juzgados en todas las instancias por el Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+
 ###### Art. 107.
 
-Los agentes de la autoridad o de la policía comprendidos en la segunda parte del artículo 101, serán juzgados por los jueces de Partido, previa la formación de las diligencias detalladas en la ley correspondiente.
+Los Agentes de la Autoridad o de la Policía comprendidos en la segunda parte del artículo 101, serán juzgados por los Jueces de Partido.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
 
@@ -1106,3 +1096,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 28 DE ABRIL DE 1932.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 15 DE ENERO DE 1933.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
