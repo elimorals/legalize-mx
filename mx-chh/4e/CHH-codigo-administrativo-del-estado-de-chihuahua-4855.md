@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1976-07-10"
+last_updated: "1977-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1977.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -2287,9 +2287,11 @@ Además de cumplir con lo prevenido en el artículo anterior, se formarán inven
 
 ### CAPITULO II. DE LOS LIBROS DE REGISTRO Y APENDICES
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
 ###### ARTICULO 284.
 
-El Registro Público de la Propiedad se compondrá de seis secciones denominadas por su número ordinal en los términos previstos por este Código.
+El Registro Público de la Propiedad se compondrá de siete secciones denominadas por su número ordinal en los términos previstos por este Código.
 
 ###### ARTICULO 285.
 
@@ -2359,7 +2361,9 @@ Tan luego como el documento presentado sea revisado por el Encargado de la Ofici
 
 En el caso a que se refiere la parte final del artículo anterior, el Registrador tiene la obligación de hacer a solicitud del presentante, una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado la inscripción definitiva surta sus efectos desde la fecha de la preventiva. Si el Juez aprueba la calificación hecha por el Registro una vez que hubiere causado ejecutoria la resolución, se cancelará la inscripción preventiva. Transcurrido un año sin que se comunique al Registrador la calificación del título a petición de parte interesada se cancelará la inscripción preventiva. La resolución del Juez en ningún caso podrá contener condena en costas, daños o perjuicios en contra del Registrador.
 
-La negativa del Registrador para inscribir títulos que sean susceptibles de ello de conformidad con el artículo 2902 del Código Civil fundada en la omisión de contribuciones a erarios federal, estatal o municipal, no crea derecho a solicitar la inscripción preventiva a que se refiere este precepto.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+La negativa del Registrador para inscribir títulos que sean susceptibles de ello de conformidad con el artículo 2902 del Código Civil fundada en la omisión de contribuciones a erarios federal, estatal o municipal o de actos que contravengan el plan estatal para el desarrollo urbano del Estado y las declaraciones sobre destinos, usos, reservas y provisiones establecidos en relación a los predios urbanos, no crea el derecho a solicitar la inscripción preventiva a que se refiere este precepto.
 
 ###### ARTICULO 296.
 
@@ -2593,11 +2597,39 @@ Se inscribirán en la Sección Sexta:
 
 Los títulos por los cuales se adquiera, transmita, modifique o extinga el dominio, la posesión o los demás derechos sobre los bienes muebles, que sean susceptibles de identificarse de manera indubitable.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE FEBRERO DE 1977)</small>
+
+### CAPITULO XI BIS. DE LAS INSCRIPCIONES EN LA SECCION SEPTIMA O DE ASENTAMIENTOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+ARTICULO 331 BIS.- Se inscribirán en la Sección Séptima o de asentamientos humanos:
+
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 1977)</small>
+
+I.- El plan estatal para el desarrollo urbano del Estado;
+
+II.- Los planes municipales;
+
+III.- Los planes que ordenen y regulen las zonas conurbadas en los que participe el Estado con una o más Entidades Federativas;
+
+IV.- Los planes que ordenen y regulen las zonas conurbadas dentro del territorio del Estado;
+
+V.- Los planes de desarrollo a que se refiere el artículo 1475 fracción V de este Código;
+
+VI.- Las resoluciones administrativas que se dicten con apoyo en los planes anteriores;
+
+VII.- Las declaratorias sobre provisiones, usos, reservas y destinos de áreas y predios urbanos;
+
+VIII.- Los estudios y proyectos del plan estatal para el desarrollo urbano de conformidad con el artículo 1480 de este Ordenamiento;
+
+IX.- Las declaratorias sobre la conservación y mejoramiento de predios urbanos de conformidad con el artículo 1500 de este Código; y
+
+X.- Las modificaciones o cancelaciones de los actos que se mencionan en las fracciones anteriores.
+
 ### CAPITULO XII. DE LAS CERTIFICACIONES
 
 ### CAPITULO XIII. DISPOSICIONES GENERALES
-
-### CAPITULO I. DE LOS NOTARIOS
 
 ###### ARTICULO 332.
 
@@ -2619,7 +2651,7 @@ Cuando las solicitudes de los interesados o los mandatos de los jueces no expres
 
 Los certificados se expedirán a petición verbal de quien los solicite o por mandamiento judicial dentro de los tres días siguientes a la recepción de la solicitud o del mandamiento, a menos que el trabajo propio de la oficina lo impida.
 
-### CAPITULO II. DEL NOMBRAMIENTO DE LOS NOTARIOS
+### CAPITULO I. DE LOS NOTARIOS
 
 ###### ARTICULO 337.
 
@@ -2645,7 +2677,7 @@ El Encargado del Registro está facultado para imponer multas hasta de quiniento
 
 ## TITULO UNICO. DEL NOTARIADO
 
-### CAPITULO III. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
+### CAPITULO II. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
 ###### ARTICULO 339.
 
@@ -2717,7 +2749,7 @@ El notario, a la vez que funcionario público es profesional del Derecho que ilu
 
 Además de las obligaciones que el presente Código impone a los notarios, éstos deben cumplir en el otorgamiento de las escrituras y expedición de testimonios o copias, con las demás obligaciones que les impongan las leyes.
 
-### CAPITULO IV. DEL NOTARIO EN EL EJERCICIO DE SUS FUNCIONES
+### CAPITULO III. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
 ###### ARTICULO 352.
 
@@ -2797,7 +2829,7 @@ El sello del notario reunirá las características que señale la Dirección Gen
 
 Si se pierde o altera el sello del notario, se proveerá de otro en el que se pondrá signo especial que lo distinga del anterior. Si aparece el sello extraviado no lo usará el notario, bajo pena de pérdida de su oficio, sino que lo entregará a la Dirección General del Notariado para que se destruya, levantándose acta por duplicado.
 
-### CAPITULO V. DEL PROTOCOLO
+### CAPITULO IV. DEL NOTARIO EN EL EJERCICIO DE SUS FUNCIONES
 
 ###### ARTICULO 367.
 
@@ -2879,7 +2911,7 @@ La patente deberá ser registrada en la Dirección General del Notariado, en el 
 
 Satisfechos los requisitos que anteceden se mandará publicar por una sola vez la patente respectiva en el Periódico Oficial del Estado.
 
-### CAPITULO VI. DE LAS ESCRITURAS
+### CAPITULO V. DEL PROTOCOLO
 
 ###### ARTICULO 380.
 
@@ -2949,7 +2981,7 @@ No obstante lo previsto en el artículo anterior el notario puede autorizar en s
 
 Las notarías estarán abiertas por lo menos seis horas al día, entre las ocho de la mañana y las ocho de la noche y en lugar visible para el público tendrán un rótulo con el nombre, apellido, cargo, número del notario y horas que fija para el despacho.
 
-### CAPITULO VII. DE LOS TESTIMONIOS
+### CAPITULO VI. DE LAS ESCRITURAS
 
 ###### ARTICULO 392.
 
@@ -3037,7 +3069,7 @@ Los documentos del apéndice no podrán desglosarse. Los conservará el notario 
 
 Independientemente del Protocolo y del Libro de Registro de Actos fuera del Protocolo a que se refiere el artículo 429, los notarios tendrán obligación de llevar un índice por duplicado, de cada juego de libros, en hojas tamaño testimonio, por orden progresivo, señalando los nombres de los otorgantes, los de los representantes en su caso, naturaleza del acto o hecho, folio, volumen y fecha. Cuando deban entregar los libros de su protocolo a la Dirección General del Notariado, entregarán también empastado un ejemplar de dicho índice. Independientemente del índice a que se refiere este precepto, los notarios podrán llevar cuantos índices estimaren convenientes para el mejor ejercicio de la función que desempeñan.
 
-### CAPITULO VIII. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
+### CAPITULO VII. DE LOS TESTIMONIOS
 
 ###### ARTICULO 409.
 
@@ -3195,7 +3227,7 @@ Siempre que se otorgue un testamento, los notarios darán oportuno aviso a la Di
 
 El otorgante que declarare falsamente ante notario, incurrirá en la pena a que se refiere el artículo 231 del Código de Defensa Social, cuando de ello resulte perjuicio para los intereses fiscales, para el notario o cualquiera otra persona.
 
-### CAPITULO IX. DE LA RESPONSABILIDAD DE LOS NOTARIOS
+### CAPITULO VIII. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
 
 ###### ARTICULO 433.
 
@@ -3219,7 +3251,7 @@ Los notarios pueden expedir y autorizar testimonios o copias impresas, por cualq
 
 El notario podrá expedir a cada parte interviniente o a sus causahabientes los testimonios que soliciten. A los terceros sólo podrá expedírseles, previo mandamiento judicial.
 
-### CAPITULO X. DE LA CESACION DEFINITIVA DE LOS NOTARIOS
+### CAPITULO IX. DE LA RESPONSABILIDAD DE LOS NOTARIOS
 
 ###### ARTICULO 438.
 
@@ -3253,6 +3285,10 @@ VII.- si no está autorizada con la firma y sello del notario o lo está cuando 
 
 VIII.- Si falta algún otro requisito que produzca la nulidad del documento por disposición expresa de la ley.
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
+
+IX.- Si no contiene las cláusulas relativas a la utilización, destinos, usos, reservas y planes, inscritos en el Registro Público de la Propiedad cuando se trate de predios urbanos.
+
 En el caso de la fracción II de este artículo solamente será nulo el instrumento en lo referente al acto o hecho cuya autorización no le está permitida, pero valdrá respecto de los actos o hechos que contenga y que no estén en el mismo caso.
 
 Fuera de los casos determinados en este artículo, el instrumento no será nulo aun cuando el notario infractor de alguna prescripción legal quede sujeto a la responsabilidad que en derecho proceda.
@@ -3275,7 +3311,7 @@ V.- Si faltare algún otro requisito que produzca la nulidad por disposición ex
 
 Cuando el notario expida un testimonio pondrá al margen de la escritura una anotación que contendrá la fecha de expedición, el número de fojas de que conste el testimonio, el número ordinal que corresponde a éste según el artículo 434 y para quien se expide.
 
-### CAPITULO XI. DEL CONSEJO Y COLEGIO DE NOTARIOS
+### CAPITULO X. DE LA CESACION DEFINITIVA DE LOS NOTARIOS
 
 ###### ARTICULO 444.
 
@@ -3319,7 +3355,7 @@ El Ejecutivo de la Entidad, por conducto de la Dirección General del Notariado 
 
 El procedimiento fijado en el artículo 446 se seguirá para cancelar las patentes de los aspirantes al ejercicio del notariado.
 
-### CAPITULO XII. DIRECCION GENERAL DEL NOTARIADO
+### CAPITULO XI. DEL CONSEJO Y COLEGIO DE NOTARIOS
 
 ###### ARTICULO 449.
 
@@ -3387,7 +3423,7 @@ VI.- Que transcurran tres meses después de la publicación en el Periódico Ofi
 
 En caso de oposición, se consignará el asunto a la autoridad judicial respectiva, para que proceda en términos de ley.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO XII. DIRECCION GENERAL DEL NOTARIADO
 
 ###### ARTICULO 459.
 
@@ -3423,7 +3459,7 @@ III.- Resolver las consultas que les hicieren los notarios del Estado o del Dist
 
 IV.- Las demás que les confiera la ley.
 
-### CAPITULO II. DE LOS ORGANISMOS ELECTORALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 465.
 
@@ -3485,7 +3521,7 @@ El Director será personalmente responsable de la custodia y conservación del a
 
 ELECCIONES DE GOBERNADOR, DIPUTADOS AL CONGRESO DEL ESTADO Y AYUNTAMIENTOS
 
-### CAPITULO III. DE LOS COMITES DISTRITALES Y MUNICIPALES
+### CAPITULO II. DE LOS ORGANISMOS ELECTORALES
 
 ###### ARTICULO 471.
 
@@ -3565,7 +3601,7 @@ Para que la Comisión Estatal Electoral pueda funcionar, será necesario que est
 
 El desarrollo del proceso electoral será dirigido en cada Distrito y Municipio por los Comités Electorales Distritales y Municipales, respectivamente. Ningún miembro de los Comités podrá ser elegible para Gobernador, Diputado, Presidente Municipal o Regidor. Cuando la circunscripción territorial de un Distrito coincida con la de un Municipio, la elección de ambas será dirigida por el Comité Distrital.
 
-### CAPITULO IV. DE LOS PARTIDOS POLITICOS
+### CAPITULO III. DE LOS COMITES DISTRITALES Y MUNICIPALES
 
 ###### ARTICULO 478.
 
@@ -3581,7 +3617,7 @@ El día diez de enero del año de la elección la Comisión Estatal Electoral co
 
 Si se pusieren de acuerdo, la Comisión Estatal Electoral hará la designación de dichas personas, las que deberán reunir los requisitos que señala el artículo 478 y en todo caso, los Comités Electorales deberán quedar instalados el día treinta del referido mes de enero.
 
-### CAPITULO V. DE LA VOTACION
+### CAPITULO IV. DE LOS PARTIDOS POLITICOS
 
 ###### ARTICULO 481.
 
@@ -3629,9 +3665,7 @@ La Comisión Estatal Electoral y los Comités Electorales Distritales y Municipa
 
 Los partidos políticos son asociaciones constituidas conforme a la ley por ciudadanos mexicanos en pleno ejercicio de sus derechos cívicos, para fines electorales y de orientación política.
 
-### CAPITULO VI
-
-DE LA DIVISION TERRITORIAL ELECTORAL Y DEL PADRON Y LISTAS ELECTORALES.
+### CAPITULO V. DE LA VOTACION
 
 ###### ARTICULO 486.
 
@@ -3667,7 +3701,9 @@ III.- Un sistema de sanciones para sus miembros que falten a los puntos morales 
 
 IV.- La distribución de funciones, obligaciones y facultades entre los diferentes órganos del partido.
 
-### CAPITULO VII. DEL CONSEJO DEL PADRON ELECTORAL ESTATAL
+### CAPITULO VI
+
+DE LA DIVISION TERRITORIAL ELECTORAL Y DEL PADRON Y LISTAS ELECTORALES.
 
 ###### ARTICULO 489.
 
@@ -3731,7 +3767,7 @@ Todo partido político debidamente registrado tendrá la facultad de ocurrir a l
 
 ## TITULO UNICO. DE LA POLICIA DEL ESTADO
 
-### CAPITULO VIII. DE LA PREPARACION DE LAS ELECCIONES
+### CAPITULO VII. DEL CONSEJO DEL PADRON ELECTORAL ESTATAL
 
 ###### ARTICULO 500.
 
@@ -3883,7 +3919,7 @@ La división territorial electoral de cada Distrito y Municipio y la formación 
 
 El Consejo del Padrón Electoral Estatal se integrará con un Presidente, un Secretario y un Vocal y los auxiliares que sean necesarios, nombrados todos ellos por el Gobernador del Estado.
 
-### CAPITULO IX. DE LA ELECCION
+### CAPITULO VIII. DE LA PREPARACION DE LAS ELECCIONES
 
 ###### ARTICULO 518.
 
@@ -3949,7 +3985,7 @@ Los Jueces de lo Civil y de lo Penal informarán igualmente al Consejo del Padr�
 
 ## TITULO UNICO. DE LA DELINCUENCIA DE MENORES
 
-### CAPITULO X. DE LAS JUNTAS COMPUTADORAS
+### CAPITULO IX. DE LA ELECCION
 
 ###### ARTICULO 525.
 
@@ -4027,7 +4063,7 @@ Los electores o partidos políticos podrán impugnar los nombramientos de Presid
 
 A más tardar ocho días antes de la elección, deberán estar en poder de los Comités Electorales las boletas para la votación; serán debidamente selladas y firmadas por éstos y por los representantes de los partidos políticos y candidatos si así lo desearen, quienes tienen derecho a que se les extienda una constancia de su intervención así como del número de boletas firmadas.
 
-### CAPITULO XI. DE LA NULIDAD DE LAS ELECCIONES
+### CAPITULO X. DE LAS JUNTAS COMPUTADORAS
 
 ###### ARTICULO 536.
 
@@ -4067,7 +4103,7 @@ Los electores que el primer domingo de junio no hubieren recibido credencial ocu
 
 El primer domingo de julio, a las ocho de la mañana se procederá a la apertura de las casillas electorales en los lugares designados.
 
-### CAPITULO XII. DE LAS SANCIONES
+### CAPITULO XI. DE LA NULIDAD DE LAS ELECCIONES
 
 ###### ARTICULO 541.
 
@@ -4149,7 +4185,7 @@ Los militares y agentes de policía que cumplan los requisitos del presente Cód
 
 A las cinco de la tarde o antes, si ya hubieren votado todos los electores de la sección, se cerrará la votación; pero si a esa hora, hubiere electores presentes que no hayan votado, se continuará recibiendo la votación.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO XII. DE LAS SANCIONES
 
 ###### ARTICULO 550.
 
@@ -4311,7 +4347,7 @@ IV.- Por error sobre la persona elegida, salvo que dicho error sólo fuese sobre
 
 ## TITULO PRIMERO. DEL REGIMEN PENITENCIARIO Y CARCELES
 
-### CAPITULO II. DE LAS ATRIBUCIONES DE LA POLICIA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 569.
 
@@ -4401,7 +4437,7 @@ XIII.- A los partidarios que ejerzan violencia sobre la Junta Computadora o sus 
 
 XIV.- Al que acepte o propague su candidatura como Gobernador, Diputado o miembro de Ayuntamiento, a sabiendas de que no reúne los requisitos para ser elegible.
 
-### CAPITULO III. DEL RECLUTAMIENTO Y SUS REQUISITOS
+### CAPITULO II. DE LAS ATRIBUCIONES DE LA POLICIA
 
 ###### ARTICULO 575.
 
@@ -4455,7 +4491,7 @@ En los casos de reincidencia se aumentarán las sanciones a que se refieren los 
 
 ## TITULO SEGUNDO. DE LA PENITENCIARIA DEL ESTADO
 
-### CAPITULO IV. DE LOS POLICIAS PARTICULARES, OFICINAS O GABINETES DE INVESTIGACION
+### CAPITULO III. DEL RECLUTAMIENTO Y SUS REQUISITOS
 
 ###### ARTICULO 584.
 
@@ -4477,7 +4513,7 @@ La Policía del Estado dependerá en forma inmediata del Gobernador del Estado.
 
 Como complemento de su instrucción profesional, la Policía del Estado recibirá instrucción militar que la eduque en la disciplina y obediencia y su organización será la que fija el presente Código.
 
-### CAPITULO V. GRADOS Y JERARQUIAS
+### CAPITULO IV. DE LOS POLICIAS PARTICULARES, OFICINAS O GABINETES DE INVESTIGACION
 
 ###### ARTICULO 589.
 
@@ -4591,7 +4627,7 @@ Por ningún concepto podrá la Policía retener a su disposición, detenida, a u
 
 Es causa de responsabilidad para la Policía no consignar inmediatamente a la disposición del Ministerio Público o de las autoridades competentes, a las personas que se encuentren detenidas por ella como presuntos responsables de la comisión de infracciones antisociales, faltas o infracciones a los reglamentos gubernativos, así como avocarse por sí misma el conocimiento de los hechos y decidir, con invasión de facultades que correspondan a las citadas autoridades, acerca de la situación legal de las personas detenidas.
 
-### CAPITULO VI. PATENTES Y NOMBRAMIENTOS
+### CAPITULO V. GRADOS Y JERARQUIAS
 
 ###### ARTICULO 606.
 
@@ -4625,19 +4661,19 @@ En consecuencia, el que se encuentre colocado en las circunstancias a que se ref
 
 El reclutamiento se hará con entera sujeción a las disposiciones de este Código y a las del Reglamento Interior de la Escuela de Policía.
 
-### CAPITULO VII. OBLIGACIONES DE LA POLICIA
+### CAPITULO VI. PATENTES Y NOMBRAMIENTOS
 
 ###### ARTICULO 610.
 
 Los policías particulares, oficinas o gabinetes de investigación, cualquiera que sea su origen, necesitarán, para funcionar en el Estado, acuerdo especial del Gobernador del Estado y quedarán sujetos al control del Director de Gobernación e Inspector General de Policía de acuerdo con el reglamento que sobre el particular se expida, considerándose sus miembros con el carácter de asimilados.
 
-### CAPITULO VIII. MANDO Y COMANDO
+### CAPITULO VII. OBLIGACIONES DE LA POLICIA
 
 ###### ARTICULO 611.
 
 Para los efectos de la disciplina de la Policía, los miembros de ésta tendrán las jerarquías que establezca el reglamento respectivo y que se procurará asimilar a los equivalentes en el Ejército Nacional.
 
-### CAPITULO IX. DISPOSICIONES FINALES
+### CAPITULO VIII. MANDO Y COMANDO
 
 ###### ARTICULO 612.
 
@@ -4647,13 +4683,13 @@ Se llama patente a la constancia autorizada por el Gobernador del Estado para ac
 
 Se entiende por nombramiento la constancia escrita expedida por el Gobernador del Estado a todo el personal de ella no comprendido en el precepto anterior.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IX. DISPOSICIONES FINALES
 
 ###### ARTICULO 614.
 
 Los elementos que integran la Policía del Estado están sujetos al cumplimiento de las obligaciones establecidas en este Código, reglamentos y demás disposiciones similares.
 
-### CAPITULO II. DE LOS TRIBUNALES PARA MENORES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 615.
 
@@ -4687,7 +4723,7 @@ El Inspector General de Policía establecerá, de acuerdo con el reglamento resp
 
 El Inspector General de Policía convocará periódicamente a los Comandantes de Grupo para escuchar sus opiniones respecto de los diversos problemas del servicio, así como para coordinar el funcionamiento del Cuerpo, pero en definitiva las resoluciones que se tomen las dictará en la forma acordada por el Gobernador del Estado.
 
-### CAPITULO III. DEL PROCEDIMIENTO
+### CAPITULO II. DE LOS TRIBUNALES PARA MENORES
 
 ###### ARTICULO 623.
 
@@ -4697,7 +4733,7 @@ La organización de los distintos servicios de la Policía, así como todo lo re
 
 ## TITULO PRIMERO. DE LA EDUCACION EN GENERAL
 
-### CAPITULO I. FINALIDADES
+### CAPITULO III. DEL PROCEDIMIENTO
 
 ###### ARTICULO 624.
 
@@ -4817,7 +4853,7 @@ Si la medida adoptada por el Tribunal fuere la de internación en un establecimi
 
 Toda cuestión que no esté prevista en este Código, la resolverán los tribunales para menores, según su criterio, debiendo siempre tener presentes las finalidades y propósitos de acción propios de la institución y los establecidos en la ley.
 
-### CAPITULO II. DE LOS EDIFICIOS
+### CAPITULO I. FINALIDADES
 
 #### SECCION PRIMERA. ORGANIZACION
 
@@ -4911,7 +4947,7 @@ Cuando dos Tribunales Municipales para Menores pretendan tener jurisdicción par
 
 Las Comisiones Auxiliares de Protección para Menores se integrarán por el Presidente de la Sección Municipal respectiva, por el Juez de Paz del mismo lugar y por el maestro de escuela de mayor jerarquía; será Presidente de ella el Juez de Paz, y desempeñará la Secretaría el maestro que integre la Comisión. Estos cargos se entenderán para los efectos legales como concejiles.
 
-### CAPITULO III. DE LOS DIRECTORES, ALCAIDES Y PERSONAL DE VIGILANCIA Y ADMINISTRACION
+### CAPITULO II. DE LOS EDIFICIOS
 
 #### SECCION PRIMERA. DEL TRIBUNAL CENTRAL PARA MENORES
 
@@ -4973,7 +5009,7 @@ En el Tribunal Central para Menores se elaborará la estadística general de los
 
 ## TITULO SEGUNDO. DE LOS GRADOS Y OBJETO DE LA EDUCACION QUE IMPARTE EL ESTADO
 
-### CAPITULO IV. PREVENCIONES GENERALES
+### CAPITULO III. DE LOS DIRECTORES, ALCAIDES Y PERSONAL DE VIGILANCIA Y ADMINISTRACION
 
 ###### ARTICULO 684.
 
@@ -5023,7 +5059,7 @@ Los internos tienen derecho a ser recibidos en audiencia por los funcionarios de
 
 Se considera de interés público la creación de un Patronato para Liberados, que tendrá a su cargo prestar asistencia moral y material a los excarcelados, tanto por cumplimiento de condena como por libertad procesal, absolución, condena condicional o libertad preparatoria. El Ejecutivo del Estado dictará el reglamento que determine la integración y funcionamiento de este organismo.
 
-### CAPITULO I. LA PENITENCIARIA, SU OBJETO Y ADMINISTRACION
+### CAPITULO IV. PREVENCIONES GENERALES
 
 ###### ARTICULO 696.
 
@@ -5037,7 +5073,7 @@ El sistema de celdas se empleará, si fuere posible, en todas y cada una de las 
 
 En todas las prisiones se destinarán locales para refectorio, cocina, escuela, baño y lavado de ropas, enfermería, talleres, locutorio y demás servicios, donde los edificios lo permitan y el número de reclusos lo demande.
 
-### CAPITULO II. INSPECCION
+### CAPITULO I. LA PENITENCIARIA, SU OBJETO Y ADMINISTRACION
 
 ###### ARTICULO 699.
 
@@ -5071,7 +5107,7 @@ Para ser nombrado subdirector o subalcaide se requieren los mismos requisitos qu
 
 Las faltas de los directores o alcaides serán sancionadas por la autoridad política y la Dirección de Gobernación, según corresponda, de acuerdo con los reglamentos respectivos.
 
-### CAPITULO III. PERSONAL DE EMPLEADOS
+### CAPITULO II. INSPECCION
 
 ###### ARTICULO 707.
 
@@ -5083,7 +5119,7 @@ El incumplimiento de lo anterior será sancionado por la autoridad política o l
 
 ## TITULO TERCERO
 
-### CAPITULO IV. DEL DIRECTOR
+### CAPITULO III. PERSONAL DE EMPLEADOS
 
 ###### ARTICULO 709.
 
@@ -5123,7 +5159,7 @@ I.- Un informe del alcaide de la cárcel o director de la penitenciaría en que 
 
 II.- En los documentos mencionados en la fracción anterior deberá estar comprendida la filiación y asignación dactiloscópica y antropométrica del reo, con sus respectivas fotografías, si estos últimos sistemas de identificación estuvieren establecidos en las cárceles de la procedencia del reo, y en caso de no recibirse estos documentos, se procederá a su identificación, de acuerdo con el Reglamento.
 
-### CAPITULO V. DEL SUBDIRECTOR
+### CAPITULO IV. DEL DIRECTOR
 
 ###### ARTICULO 715.
 
@@ -5133,7 +5169,7 @@ La inspección de la Penitenciaría, en lo que se refiere al régimen administra
 
 Las observaciones que las autoridades judiciales y municipales tengan que hacer sobre el régimen de la Penitenciaría, se comunicarán por escrito al Ejecutivo, para que éste dicte las medidas que estime convenientes. Pueden, sin embargo, los jueces y magistrados, comunicar directamente al Director, las órdenes que se refieren a los detenidos para alguna diligencia del proceso o para algún asunto relacionado con el mismo.
 
-### CAPITULO VI. DEL CUERPO DE AGENTES DE SEGURIDAD
+### CAPITULO V. DEL SUBDIRECTOR
 
 ###### ARTICULO 717.
 
@@ -5143,7 +5179,7 @@ El personal de empleados de la Penitenciaría se compondrá de un Director, un S
 
 Todos los empleados de la Penitenciaría tienen obligación de mantener estrictamente el orden, la disciplina y la exactitud en el servicio, debiendo los inferiores dar aviso inmediatamente al Director, de las faltas que notaren para que sean corregidas desde luego, con advertencias, amonestaciones, arrestos, destitución de empleo o proceso, según el caso.
 
-### CAPITULO VII. DE LA FUERZA QUE CUBRE EL SERVICIO DE GUARDIA
+### CAPITULO VI. DEL CUERPO DE AGENTES DE SEGURIDAD
 
 ###### ARTICULO 719.
 
@@ -5189,7 +5225,7 @@ III.- Avisar a la Dirección de Gobernación cada vez que salga en libertad un r
 
 Si en el interior del establecimiento se cometiere algún delito, el Director de la Penitenciaría dará inmediatamente aviso a la autoridad más próxima que desempeñe funciones de policía judicial, para que practique las primeras diligencias.
 
-### CAPITULO VIII. DISPOSICIONES GENERALES
+### CAPITULO VII. DE LA FUERZA QUE CUBRE EL SERVICIO DE GUARDIA
 
 ###### ARTICULO 726.
 
@@ -5203,13 +5239,13 @@ En todo lo referente al servicio interior, seguridad de presos y vigilancia de l
 
 El Subdirector será secundado en el desempeño de su cometido por el Jefe del Cuerpo de Agentes de Seguridad, quien lo substituirá en casos de faltas accidentales.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VIII. DISPOSICIONES GENERALES
 
 ###### ARTICULO 729.
 
 El Cuerpo de Agentes de Seguridad tendrá a su cargo la vigilancia y custodia de los presos en el interior del establecimiento y su Jefe queda, de un modo general, subalternado al Director, e inmediatamente al Subdirector, de quien recibirá la orden diaria para el servicio. El Reglamento determinará las obligaciones específicas que le correspondan.
 
-### CAPITULO II. FACULTADES Y DEBERES DEL ESTADO EN MATERIA EDUCATIVA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 730.
 
@@ -5223,7 +5259,7 @@ Este servicio se relevará: si es de fuerza federal, según lo determine la Jefa
 
 Cuando esta Guardia se cubra con fuerzas del Estado, el Comandante quedará de una manera directa subordinado al Director de la Penitenciaría, de quien recibirá instrucciones, para el mejor desempeño de su servicio; en el concepto de que el personal de la referida Guardia, ya sea federal o del Estado, no cubrirá ningún servicio interior, quedando éste a cargo del Cuerpo de Agentes de Seguridad.
 
-### CAPITULO I. DE LA EDUCACION EN GENERAL
+### CAPITULO II. FACULTADES Y DEBERES DEL ESTADO EN MATERIA EDUCATIVA
 
 ###### ARTICULO 733.
 
@@ -5241,7 +5277,7 @@ EDUCACION PUBLICA
 
 ## TITULO CUARTO. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES, COORDINACION DE SERVICIOS, REVALIDACION DE ESTUDIOS
 
-### CAPITULO II. DE LA EDUCACION PREESCOLAR
+### CAPITULO I. DE LA EDUCACION EN GENERAL
 
 ###### ARTICULO 735.
 
@@ -5295,7 +5331,7 @@ En todo establecimiento de enseñanza pública existente en el Estado es obligat
 
 Los habitantes del Estado tendrán iguales derechos en materia de educación y el gobierno les ofrecerá las mismas oportunidades para adquirirla, dentro de los requisitos legales y reglamentarios exigidos para los distintos tipos de educación.
 
-### CAPITULO III. DE LA EDUCACION PRIMARIA
+### CAPITULO II. DE LA EDUCACION PREESCOLAR
 
 ###### ARTICULO 742.
 
@@ -5361,7 +5397,7 @@ La fundación, supresión, reorganización, fusión, cambios de denominaciones, 
 
 ## TITULO QUINTO
 
-### CAPITULO IV. DE LA EDUCACION MEDIA
+### CAPITULO III. DE LA EDUCACION PRIMARIA
 
 ###### ARTICULO 746.
 
@@ -5395,7 +5431,7 @@ a).- Normal
 
 b).- Normal superior.
 
-### CAPITULO V. DE LA EDUCACION ARTISTICA
+### CAPITULO IV. DE LA EDUCACION MEDIA
 
 ###### ARTICULO 747.
 
@@ -5409,7 +5445,7 @@ La educación preescolar estará controlada por una oficina que se denominará "
 
 Los jardines de niños funcionarán independientes de las escuelas primarias y serán atendidos en lo posible por maestras especializadas en esa rama de la pedagogía.
 
-### CAPITULO VI. DE LA EDUCACION ESPECIAL
+### CAPITULO V. DE LA EDUCACION ARTISTICA
 
 ###### ARTICULO 750.
 
@@ -5459,7 +5495,7 @@ d).- La entrega de certificados y otros comprobantes de estudios.
 
 La educación primaria para adultos se sujetará en lo general, a los términos de la educación primaria establecidos en el artículo 751 y se impartirá en centros nocturnos que atenderán a las personas que han sobrepasado la edad reglamentaria sin obtener su certificado de educación primaria.
 
-### CAPITULO VII. DE LAS ESCUELAS DE TRABAJO SOCIAL
+### CAPITULO VI. DE LA EDUCACION ESPECIAL
 
 ###### ARTICULO 760.
 
@@ -5489,7 +5525,7 @@ Se denominarán escuelas de educación media en su ciclo industrial y comercial 
 
 Las escuelas de educación media en ciclo técnico agropecuario adoptarán los planes y programas de estudios establecidos por la Secretaría de Educación Pública a través de la Dirección General de Educación Técnica Agropecuaria.
 
-### CAPITULO VIII. DE LA EDUCACION PROFESIONAL
+### CAPITULO VII. DE LAS ESCUELAS DE TRABAJO SOCIAL
 
 ###### ARTICULO 767.
 
@@ -5503,7 +5539,7 @@ La educación artística se realizará en escuelas de artes plásticas, de músi
 
 Las escuelas de educación artística funcionarán con arreglo a planes y programas de estudios formulados o sancionados por la Dirección del ramo en el Estado.
 
-### CAPITULO IX. DE LA EDUCACION INDIGENA
+### CAPITULO VIII. DE LA EDUCACION PROFESIONAL
 
 ###### ARTICULO 770.
 
@@ -5513,7 +5549,7 @@ La educación especial tiene por objeto atender a los niños atípicos en sus di
 
 El Estado organizará escuelas de educación especial para atender a los niños atípicos y menores delincuentes, las cuales contarán con el personal especializado que requieran.
 
-### CAPITULO X. DE LA CAMPAÑA NACIONAL CONTRA EL ANALFABETISMO
+### CAPITULO IX. DE LA EDUCACION INDIGENA
 
 ###### ARTICULO 772.
 
@@ -5525,7 +5561,7 @@ Las prácticas de trabajo social se realizarán fundamentalmente en aquellas ins
 
 Las prácticas intensivas de trabajo social deben hacerse preferentemente fuera de la Capital con el objeto de poner a los futuros trabajadores frente a distintos medios para que recojan valiosas experiencias de los mismos.
 
-### CAPITULO XI. DE LA ADMINISTRACION, VIGILANCIA Y DIRECCION TECNICA DE LAS ESCUELAS EN GENERAL
+### CAPITULO X. DE LA CAMPAÑA NACIONAL CONTRA EL ANALFABETISMO
 
 ###### ARTICULO 774.
 
@@ -5557,13 +5593,13 @@ La Escuela Normal Superior organizará su acción pedagógica con base en los pl
 
 Al terminar su carrera, los maestros recibirán una relación de estudios y carta de pasante y para recibir el título deberán sujetarse a lo establecido en el Reglamento de Escuelas Normales Superiores vigente.
 
-### CAPITULO XII. DEL PROFESORADO
+### CAPITULO XI. DE LA ADMINISTRACION, VIGILANCIA Y DIRECCION TECNICA DE LAS ESCUELAS EN GENERAL
 
 ###### ARTICULO 781.
 
 El Estado organizará las bases sobre las cuales coordinará su acción con las agencias del Gobierno Federal que en el mismo funcionan, para tender a la educación de los grupos indígenas.
 
-### CAPITULO XIII. DE LOS ESTIMULOS, PRERROGATIVAS Y DERECHOS
+### CAPITULO XII. DEL PROFESORADO
 
 ###### ARTICULO 782.
 
@@ -5591,13 +5627,13 @@ d).- La de la iniciativa privada.
 
 e).- La que los consejos obtengan mediante actividades que con ese fin desarrollen, previa autorización del consejo estatal.
 
-### CAPITULO UNICO. DEL ESCALAFON
+### CAPITULO XIII. DE LOS ESTIMULOS, PRERROGATIVAS Y DERECHOS
 
 ###### ARTICULO 786.
 
 La organización y funcionamiento de los servicios educativos del Estado se regirán por las leyes vigentes, así como por los convenios de coordinación con el Ejecutivo Federal.
 
-### CAPITULO I. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES
+### CAPITULO UNICO. DEL ESCALAFON
 
 ###### ARTICULO 787.
 
@@ -5631,7 +5667,7 @@ e).- Poseer título de maestro del tipo de educación en que vaya a ejercer.
 
 Para el ejercicio de la enseñanza de las actividades tecnológicas, de no haber maestros titulados en la especialidad, el Estado podrá aceptar los servicios de maestros diplomados.
 
-### CAPITULO II. DE LA COORDINACION DE SERVICIOS EDUCATIVOS
+### CAPITULO I. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES
 
 ###### ARTICULO 792.
 
@@ -5661,7 +5697,7 @@ En caso de fallecimiento de un profesor, se cubrirá la cantidad de mil quinient
 
 ## TITULO SEXTO
 
-### CAPITULO III. DE LA VALIDEZ OFICIAL Y REVALIDACION DE ESTUDIOS
+### CAPITULO II. DE LA COORDINACION DE SERVICIOS EDUCATIVOS
 
 ###### ARTICULO 797.
 
@@ -5779,7 +5815,7 @@ Los procedimientos para resolver las permutas de empleos, así como las inconfor
 
 ## TITULO SEPTIMO
 
-### CAPITULO IV. DE LAS SANCIONES
+### CAPITULO III. DE LA VALIDEZ OFICIAL Y REVALIDACION DE ESTUDIOS
 
 ###### ARTICULO 816.
 
@@ -5833,7 +5869,7 @@ Las instituciones privadas y los particulares no necesitan autorización del Est
 
 La transmisión de conocimientos o de principios que se realicen privadamente, fuera de las escuelas, en el seno de la familia, de persona a persona o en circunstancias análogas, no estará sujeta a restricción alguna, salvo las limitaciones que para la manifestación de las ideas señala el artículo 6o. de la Constitución Federal, para los casos de ataque a la moral, los derechos de tercero, provocación de algún delito o perturbación del orden público; pero no tendrá validez oficial, ni exime, en su caso, del carácter obligatorio de la educación primaria.
 
-### CAPITULO UNICO. DE LOS AYUNTAMIENTOS CON RELACION A LA EDUCACION PRIMARIA
+### CAPITULO IV. DE LAS SANCIONES
 
 ###### ARTICULO 823.
 
@@ -5891,7 +5927,7 @@ Los establecimientos sujetos a coordinación con el Gobierno Federal se regirán
 
 En los demás casos de coordinación, los convenios respectivos indicarán la forma en que deberán expedirse los reglamentos de los establecimientos coordinados.
 
-### CAPITULO UNICO. DE LA EDUCACION FISICA
+### CAPITULO UNICO. DE LOS AYUNTAMIENTOS CON RELACION A LA EDUCACION PRIMARIA
 
 ###### ARTICULO 827.
 
@@ -5919,9 +5955,7 @@ La revalidación de estudios tiene por objeto que el Estado otorgue validez ofic
 
 En las escuelas o establecimientos dependientes del Estado o de los Municipios que exijan para la aceptación o ingreso de alumnos, la presentación de determinados certificados de estudios, sólo se aceptarán aquéllos expedidos por establecimientos que tengan o hayan tenido el reconocimiento de validez de sus estudios por parte del Gobierno del Estado.
 
-### CAPITULO I
-
-DE LAS OBLIGACIONES Y DERECHOS EN MATERIA EDUCATIVA DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O REPRESENTACION DE MENORES.
+### CAPITULO UNICO. DE LA EDUCACION FISICA
 
 ###### ARTICULO 832.
 
@@ -5933,7 +5967,9 @@ Salvo disposición expresa en contrario, los funcionarios y empleados educativos
 
 ## TITULO UNICO. DEL EJERCICIO DE LAS PROFESIONES
 
-### CAPITULO II. DE LAS CONMEMORACIONES, FESTIVALES Y EXPOSICIONES ESCOLARES
+### CAPITULO I
+
+DE LAS OBLIGACIONES Y DERECHOS EN MATERIA EDUCATIVA DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O REPRESENTACION DE MENORES.
 
 ###### ARTICULO 834.
 
@@ -5965,7 +6001,7 @@ Las autoridades municipales vigilarán la existencia de los patronatos pro const
 
 ## TITULO PRIMERO
 
-### CAPITULO III. DEL AHORRO, PARCELAS Y COOPERATIVAS ESCOLARES
+### CAPITULO II. DE LAS CONMEMORACIONES, FESTIVALES Y EXPOSICIONES ESCOLARES
 
 ###### ARTICULO 841.
 
@@ -5977,7 +6013,7 @@ Promoverá también el Estado la construcción de campos e instalaciones deporti
 
 ## TITULO SEGUNDO. SANCIONES ADMINISTRATIVAS
 
-### CAPITULO I. DE LAS PROFESIONES TECNICO-CIENTIFICAS QUE NECESITAN TITULO PARA SU EJERCICIO
+### CAPITULO III. DEL AHORRO, PARCELAS Y COOPERATIVAS ESCOLARES
 
 ###### ARTICULO 843.
 
@@ -6009,7 +6045,7 @@ II.- Velar porque las disposiciones legales y reglamentarias sean cumplidas;
 
 III.- Promover el mejoramiento cultural, moral y material de los planteles y de los educandos.
 
-### CAPITULO II. CONDICIONES QUE DEBEN LLENARSE PARA OBTENER UN TITULO PROFESIONAL
+### CAPITULO I. DE LAS PROFESIONES TECNICO-CIENTIFICAS QUE NECESITAN TITULO PARA SU EJERCICIO
 
 ###### ARTICULO 848.
 
@@ -6029,7 +6065,7 @@ Las escuelas estatales de todos los niveles educativos deben coordinar su acció
 
 Los artículos adquiridos con fondos procedentes de festivales o donativos para la escuela; ingresarán al inventario del establecimiento.
 
-### CAPITULO III. INSTITUCIONES AUTORIZADAS PARA EXPEDIR TITULOS PROFESIONALES
+### CAPITULO II. CONDICIONES QUE DEBEN LLENARSE PARA OBTENER UN TITULO PROFESIONAL
 
 ###### ARTICULO 852.
 
@@ -6093,7 +6129,7 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 ## TITULO TERCERO
 
-### CAPITULO IV. DE LA OFICINA ESTATAL DE PROFESIONES
+### CAPITULO III. INSTITUCIONES AUTORIZADAS PARA EXPEDIR TITULOS PROFESIONALES
 
 ###### ARTICULO 861.
 
@@ -6167,7 +6203,7 @@ II.- Comprobar, en forma idónea haber realizado estudios especiales de perfecci
 
 En caso de conflicto entre los intereses individuales de los profesionistas y los de la sociedad, el presente Código será interpretado en favor de esta última, si no hubiere precepto expreso para resolver el conflicto. Por lo que se refiere a las profesiones que implican el ejercicio de una función pública, se sujetarán a este Código y a las leyes que regulen su actividad.
 
-### CAPITULO V. DEL EJERCICIO PROFESIONAL
+### CAPITULO IV. DE LA OFICINA ESTATAL DE PROFESIONES
 
 ###### ARTICULO 866.
 
@@ -6179,7 +6215,7 @@ Los planes de estudio comprenderán la forma como deba prestarse el servicio soc
 
 Las escuelas o instituciones dedicadas a la educación superior profesional se organizarán sobre la base de que es requisito para el ingreso a las mismas haber cursado íntegramente, cuando así se requiera en los planes de estudio, la educación vocacional o el bachillerato universitario que corresponda a su función educativa específica.
 
-### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
+### CAPITULO V. DEL EJERCICIO PROFESIONAL
 
 #### SECCION I. TITULOS EXPEDIDOS EN EL ESTADO
 
@@ -6245,7 +6281,7 @@ Los títulos expedidos en el extranjero a mexicanos serán reconocidos por la Of
 
 En los casos en que resulte imposible establecer la igualdad o similitud de estudios en la forma prevista en los términos del párrafo anterior, se establecerá un sistema de equivalencia de estudios, sometiendo, en su caso, a los interesados a pruebas o exámenes para la comprobación de sus conocimientos.
 
-### CAPITULO VII. DEL SERVICIO SOCIAL DE ESTUDIANTES Y PROFESIONISTAS
+### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
 
 ###### ARTICULO 876.
 
@@ -6287,7 +6323,7 @@ XIII.- Proporcionar los informes que se le soliciten en los asuntos de su compet
 
 XIV.- Las demás que fijen las leyes y reglamentos.
 
-### CAPITULO VIII. DE LOS PRACTICOS
+### CAPITULO VII. DEL SERVICIO SOCIAL DE ESTUDIANTES Y PROFESIONISTAS
 
 ###### ARTICULO 879.
 
@@ -6389,7 +6425,7 @@ El anuncio o la publicidad que un profesionista haga de sus actividades no deber
 
 Para los efectos a que se contrae la fracción VII del artículo 878 de este Código, las autoridades judiciales deberán comunicar oportunamente a la Oficina Estatal de Profesiones las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional, cuando éstas hubieren causado ejecutoria.
 
-### CAPITULO IX. DE LAS INFRACCIONES DE LOS PROFESIONISTAS Y DE LAS SANCIONES POR INCUMPLIMIENTO A ESTE CODIGO
+### CAPITULO VIII. DE LOS PRACTICOS
 
 ###### ARTICULO 899.
 
@@ -6477,7 +6513,7 @@ s).- Gestionar el registro de los títulos de sus componentes.
 
 Todos los miembros de un colegio están obligados a cubrir las cuotas que fijen sus estatutos.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IX. DE LAS INFRACCIONES DE LOS PROFESIONISTAS Y DE LAS SANCIONES POR INCUMPLIMIENTO A ESTE CODIGO
 
 ###### ARTICULO 907.
 
@@ -6517,7 +6553,7 @@ Cuando el servicio social absorba totalmente las actividades del estudiante o de
 
 En circunstancias de peligro estatal derivadas de calamidades públicas, todos los profesionistas quedarán a disposición del Gobierno del Estado, para que éste utilice sus servicios, en los términos de las leyes respectivas.
 
-### CAPITULO II. DE LA DEFENSA DEL TRABAJO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 916.
 
@@ -6557,7 +6593,7 @@ III.- Por incompetencia comprobada en el ejercicio de la profesión;
 
 IV.- Por manifiesta inmoralidad en dicho ejercicio.
 
-### CAPITULO III. DE LAS ATRIBUCIONES DEL PROCURADOR Y SUS PROCURADORES AUXILIARES
+### CAPITULO II. DE LA DEFENSA DEL TRABAJO
 
 ###### ARTICULO 922.
 
@@ -6617,7 +6653,7 @@ TRABAJO Y PREVISION SOCIAL
 
 # LIBRO UNICO
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO III. DE LAS ATRIBUCIONES DEL PROCURADOR Y SUS PROCURADORES AUXILIARES
 
 ###### ARTICULO 934.
 
@@ -6657,7 +6693,7 @@ El presupuesto señalará el número de inspectores del trabajo que dependientes
 
 Tomando en cuenta las necesidades y peculiaridades propias del Estado y sus diferentes regiones y localidades, el Departamento de Trabajo y Previsión Social procederá al estudio de los diversos aspectos de la legislación del trabajo en que se encomienda a los Gobernadores que expidan los reglamentos o disposiciones administrativas que estimen adecuadas para asegurar la vigencia de la Ley Federal del Trabajo.
 
-### CAPITULO II. ORGANIZACION, FACULTADES Y ATRIBUCIONES DE LOS SERVICIOS COORDINADOS DE SALUD PUBLICA
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 941.
 
@@ -6729,7 +6765,7 @@ El Procurador General tendrá jurisdicción sobre todo el Estado, y podrá hacer
 
 El Gobernador del Estado, por conducto del Departamento de Trabajo y Previsión Social, fijará la jurisdicción y los lugares de radicación de los Procuradores Auxiliares.
 
-### CAPITULO III. DE LA PREVENCION Y CONTROL DE LAS ENFERMEDADES
+### CAPITULO II. ORGANIZACION, FACULTADES Y ATRIBUCIONES DE LOS SERVICIOS COORDINADOS DE SALUD PUBLICA
 
 ###### ARTICULO 952.
 
@@ -6773,7 +6809,7 @@ SALUBRIDAD Y ASISTENCIA
 
 ## TITULO UNICO. DE LA ASISTENCIA PUBLICA
 
-### CAPITULO IV. EDUCACION Y PROMOCION PARA LA SALUD
+### CAPITULO III. DE LA PREVENCION Y CONTROL DE LAS ENFERMEDADES
 
 ###### ARTICULO 956.
 
@@ -6803,7 +6839,7 @@ El Gobernador del Estado queda facultado para celebrar convenios con la Federaci
 
 Si desapareciera la coordinación de los servicios con la Federación, el Gobernador determinará la creación y organización del servicio de salud pública en el Estado.
 
-### CAPITULO V. SANEAMIENTO DEL MEDIO AMBIENTE Y CONTROL SANITARIO DE ALIMENTOS, BEBIDAS Y MEDICAMENTOS
+### CAPITULO IV. EDUCACION Y PROMOCION PARA LA SALUD
 
 ###### ARTICULO 962.
 
@@ -6921,7 +6957,7 @@ k).- Participación en el desarrollo socio-económico y cultural de las comunida
 
 l).- Las demás que puedan afectar a la salud y bienestar de sus habitantes.
 
-### CAPITULO VI. CEMENTERIOS, INHUMACIONES Y EXHUMACIONES
+### CAPITULO V. SANEAMIENTO DEL MEDIO AMBIENTE Y CONTROL SANITARIO DE ALIMENTOS, BEBIDAS Y MEDICAMENTOS
 
 ###### ARTICULO 974.
 
@@ -7053,7 +7089,7 @@ La prórroga del tiempo requerirá la inyección conservadora del cadáver o su 
 
 Los vehículos, capillas y locales de funerarias donde se transporten o velen los cadáveres serán desinfectados a satisfacción de la autoridad sanitaria.
 
-### CAPITULO VII. TRASLACION DE CADAVERES
+### CAPITULO VI. CEMENTERIOS, INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 997.
 
@@ -7085,7 +7121,7 @@ b).- Se desvirtúen o contraríen en alguna forma las disposiciones que dicten l
 
 c).- Se aconsejen prácticas contrarias para la salud individual o general.
 
-### CAPITULO VIII. LUCHA CONTRA EL ALCOHOLISMO Y TOXICOMANIA
+### CAPITULO VII. TRASLACION DE CADAVERES
 
 ###### ARTICULO 1002.
 
@@ -7171,7 +7207,7 @@ Los edificios o predios que se utilicen para terminales de camiones de carga y p
 
 Será responsabilidad de la autoridad municipal de cada lugar, el tratamiento, recolección y disposición final de las basuras, quien dictará las medidas que considere convenientes en cada caso, atento a lo dispuesto por el reglamento respectivo.
 
-### CAPITULO IX. DEL EJERCICIO DE LAS CIENCIAS MEDICAS Y ACTIVIDADES CONEXAS
+### CAPITULO VIII. LUCHA CONTRA EL ALCOHOLISMO Y TOXICOMANIA
 
 ###### ARTICULO 1018.
 
@@ -7227,7 +7263,7 @@ Las exhumaciones prematuras y las ordenadas por la autoridad judicial sólo podr
 
 Las exhumaciones de los restos que hayan cumplido ya el tiempo señalado para su permanencia en cada cementerio y que no sean reclamados por sus deudos, se harán conforme lo determine el reglamento respectivo.
 
-### CAPITULO X. DE LA BIOESTADISTICA MEDICA
+### CAPITULO IX. DEL EJERCICIO DE LAS CIENCIAS MEDICAS Y ACTIVIDADES CONEXAS
 
 ###### ARTICULO 1031.
 
@@ -7241,7 +7277,7 @@ Los permisos a que se refiere el artículo anterior podrán solicitarse directam
 
 Los Servicios Coordinados de Salud Pública podrán negar el permiso para la entrada, salida o transporte de cadáveres, cuando, no obstante que se llenen los requisitos señalados por el respectivo reglamento, estimen que existe peligro para la salud pública, y dictarán las medidas que juzguen necesarias para evitar dicho peligro.
 
-### CAPITULO XI. PROMOCIONES DE NUEVOS SERVICIOS MEDICO-SANITARIOS
+### CAPITULO X. DE LA BIOESTADISTICA MEDICA
 
 ###### ARTICULO 1034.
 
@@ -7275,7 +7311,7 @@ En el Estado se aplicarán con toda severidad los ordenamientos legales que impi
 
 Se promoverá la readaptación de drogadictos y toxicómanos utilizando los recursos que existan en el Estado o en el país.
 
-### CAPITULO XII. DEL ADIESTRAMIENTO EN SALUD PUBLICA
+### CAPITULO XI. PROMOCIONES DE NUEVOS SERVICIOS MEDICO-SANITARIOS
 
 ###### ARTICULO 1042.
 
@@ -7331,19 +7367,19 @@ Solamente los médicos titulados, legalmente autorizados para ejercer, pueden ex
 
 Los médicos y los prácticos autorizados están obligados a colaborar en todos los ordenamientos de los Servicios Coordinados de Salud Pública.
 
-### CAPITULO XIII. ACCION EXTRAORDINARIA EN MATERIA DE SALUD PUBLICA
+### CAPITULO XII. DEL ADIESTRAMIENTO EN SALUD PUBLICA
 
 ###### ARTICULO 1051.
 
 Los Servicios Coordinados de Salud Pública realizarán las labores de estadística necesarias, de acuerdo con las normas o instructivos que esa propia autoridad dicte al respecto o señalen los reglamentos para la formación de la geografía y estadística médicas. Para esta labor contarán con la cooperación de las demás Dependencias del Ejecutivo del Estado.
 
-### CAPITULO XIV. CONTROL DE LOS PROBLEMAS DE SALUD PUBLICA CON ESTADOS LIMITROFES
+### CAPITULO XIII. ACCION EXTRAORDINARIA EN MATERIA DE SALUD PUBLICA
 
 ###### ARTICULO 1052.
 
 Los Servicios Coordinados de Salud Pública en el Estado, en conocimiento de las situaciones que en materia de salud confrontan sus habitantes, promoverán la instalación de nuevos servicios médico-sanitarios, tanto en la ciudad como en el campo y de acuerdo a la solicitud de grupos organizados o de población que lo demande, tomando en cuenta la participación activa de los solicitantes, tanto para la construcción como para el funcionamiento, quedando la ubicación condicionada a beneficiar el mayor núcleo de población. Será el Gobernador del Estado quien autorice las obras a construir.
 
-### CAPITULO XV. DESARROLLO SOCIO-ECONOMICO Y CULTURAL
+### CAPITULO XIV. CONTROL DE LOS PROBLEMAS DE SALUD PUBLICA CON ESTADOS LIMITROFES
 
 ###### ARTICULO 1053.
 
@@ -7357,7 +7393,7 @@ Es responsabilidad de los Servicios Coordinados de Salud Pública en el Estado l
 
 Los Servicios Coordinados de Salud Pública en el Estado participarán en los eventos científicos regionales, estatales, nacionales o internacionales.
 
-### CAPITULO I. REGLAS GENERALES
+### CAPITULO XV. DESARROLLO SOCIO-ECONOMICO Y CULTURAL
 
 ###### ARTICULO 1056.
 
@@ -7391,13 +7427,13 @@ Si las autoridades a que se refiere el artículo anterior se negaran al desempe�
 
 Cuando hubieren desaparecido las causas motivo de la declaración de quedar sujeta una región a la acción extraordinaria, el Gobernador lo declarará así utilizando los medios que a su criterio considere apropiados y por medio de un acuerdo que publicará en el Periódico Oficial del Estado.
 
-### CAPITULO II. DE LAS SANCIONES EN PARTICULAR
+### CAPITULO I. REGLAS GENERALES
 
 ###### ARTICULO 1062.
 
 Para el control de las situaciones de salud que pudieren afectar a las localidades limítrofes del Estado, se ejercerá la vigilancia epidemiológica correspondiente, a través de las oficinas dependientes de los Servicios Coordinados de Salud Pública, que coordinarán esta acción con otras dependencias oficiales, descentralizadas o privadas, a través del conocimiento de cada caso en particular y dictando las medidas correspondientes.
 
-### CAPITULO UNICO. DEL PROCEDIMIENTO
+### CAPITULO II. DE LAS SANCIONES EN PARTICULAR
 
 ###### ARTICULO 1063.
 
@@ -7413,7 +7449,7 @@ El personal adscrito a los Servicios Coordinados de Salud Pública tiene la obli
 
 ## TITULO PRIMERO
 
-### CAPITULO UNICO. DEL PATRONATO
+### CAPITULO UNICO. DEL PROCEDIMIENTO
 
 ###### ARTICULO 1066.
 
@@ -7467,7 +7503,7 @@ El Gobernador podrá conceder a los infractores las facilidades de pago o la sus
 
 Las multas establecidas en el Capítulo siguiente no se aplicarán cuando los hechos, motivo de la infracción, constituyan la comisión de una infracción de la competencia y jurisdicción de las autoridades judiciales.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DEL PATRONATO
 
 ###### ARTICULO 1077.
 
@@ -7493,7 +7529,7 @@ III.- Con multa de un peso a cinco mil pesos, en todos los demás casos.
 
 ## TITULO SEGUNDO. ADMINISTRACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
-### CAPITULO II. ORGANIZACION Y CONSTITUCION DE LA BENEFICENCIA PRIVADA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1080.
 
@@ -7553,7 +7589,7 @@ Además de los casos de clausura que consignen los reglamentos, y sin perjuicio 
 
 ## TITULO TERCERO. VIGILANCIA DEL ESTADO EN LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
-### CAPITULO III. CONSTITUCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA EN VIDA DE LOS FUNDADORES
+### CAPITULO II. ORGANIZACION Y CONSTITUCION DE LA BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1091.
 
@@ -7773,7 +7809,7 @@ Los miembros del Patronato, el Secretario y los miembros de las delegaciones, en
 
 ## TITULO CUARTO. MODIFICACION Y EXTINCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
-### CAPITULO IV. DE LA CONSTITUCION DE LAS FUNDACIONES POR TESTAMENTO
+### CAPITULO III. CONSTITUCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA EN VIDA DE LOS FUNDADORES
 
 ###### ARTICULO 1119.
 
@@ -7859,7 +7895,7 @@ También se tendrá por no hecha la revocación o reducción que haga una person
 
 Nunca se declarará nula una disposición testamentaria hecha en favor de la beneficencia privada, por defectos de forma; en todo caso, se obedecerá la voluntad del testador.
 
-### CAPITULO V. DE LOS BIENES QUE CORRESPONDEN A LA BENEFICENCIA PRIVADA POR DISPOSICION TESTAMENTARIA O DE LA LEY
+### CAPITULO IV. DE LA CONSTITUCION DE LAS FUNDACIONES POR TESTAMENTO
 
 ###### ARTICULO 1137.
 
@@ -7891,7 +7927,7 @@ Las fundaciones y las asociaciones pueden ser de dos clases: permanentes o trans
 
 Cuando para satisfacer necesidades producidas por epidemias, guerras, terremotos, inundaciones o por causas económicas, se organicen asociaciones transitorias, éstas se denominarán juntas de socorro o de asistencia.
 
-### CAPITULO VI. DONATIVOS HECHOS A INSTITUCIONES DE BENEFICENCIA PRIVADA
+### CAPITULO V. DE LOS BIENES QUE CORRESPONDEN A LA BENEFICENCIA PRIVADA POR DISPOSICION TESTAMENTARIA O DE LA LEY
 
 ###### ARTICULO 1144.
 
@@ -7961,7 +7997,7 @@ Las instituciones de beneficencia privada se considerarán con personalidad jur�
 
 Antes de la protocolización, la Junta de Beneficencia Privada ejercitará los derechos que correspondan a las referidas instituciones.
 
-### CAPITULO I. REPRESENTACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA, DE LOS FUNDADORES, PATRONOS, JUNTAS O CONSEJOS QUE LAS ADMINISTRAN
+### CAPITULO VI. DONATIVOS HECHOS A INSTITUCIONES DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1151.
 
@@ -8031,7 +8067,7 @@ El albacea o ejecutor no podrá gravar ni enajenar los bienes de la testamentar�
 
 El patrono o patronos de las fundaciones constituidas en la forma prevenida por este Capítulo, estarán obligados a ejercitar oportunamente los derechos que correspondan a éstas, de acuerdo con los Códigos Civil y de Procedimientos Civiles.
 
-### CAPITULO II. DE LAS OBLIGACIONES DE LOS PATRONATOS
+### CAPITULO I. REPRESENTACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA, DE LOS FUNDADORES, PATRONOS, JUNTAS O CONSEJOS QUE LAS ADMINISTRAN
 
 ###### ARTICULO 1167.
 
@@ -8065,7 +8101,7 @@ Las fundaciones por crear, en el caso del artículo 1168 tendrán capacidad para
 
 Las instituciones no podrán aceptar o repudiar las herencias o los legados que les correspondan conforme a lo dispuesto en este Capítulo, sin la autorización previa de la Junta de Beneficencia Privada.
 
-### CAPITULO III. DE LAS OPERACIONES QUE PUEDAN REALIZAR LAS INSTITUCIONES DE BENEFICENCIA PRIVADA PARA ALLEGARSE RECURSOS
+### CAPITULO II. DE LAS OBLIGACIONES DE LOS PATRONATOS
 
 ###### ARTICULO 1173.
 
@@ -8093,7 +8129,7 @@ Si el donativo no consiste en dinero, se hará el avalúo de la cosa para el efe
 
 ## TITULO QUINTO
 
-### CAPITULO I. DE LA JUNTA DE BENEFICENCIA PRIVADA
+### CAPITULO III. DE LAS OPERACIONES QUE PUEDAN REALIZAR LAS INSTITUCIONES DE BENEFICENCIA PRIVADA PARA ALLEGARSE RECURSOS
 
 ###### ARTICULO 1179.
 
@@ -8203,7 +8239,7 @@ En caso de controversia sobre el ejercicio del patronato y entre tanto se resuel
 
 La Junta mantendrá al nombrado en el ejercicio del patronato por los medios que las leyes autorizan.
 
-### CAPITULO II. FUNCIONES DE LA JUNTA DE BENEFICENCIA PRIVADA
+### CAPITULO I. DE LA JUNTA DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1191.
 
@@ -8263,7 +8299,7 @@ XXV.- Cumplir con las demás obligaciones que les impone este Código y sus regl
 
 Los fundadores, directores o presidentes de las juntas o consejos de las asociaciones de beneficencia privada tendrán las mismas obligaciones que establece el artículo anterior, y en consecuencia, serán igualmente responsables en caso de desobediencia.
 
-### CAPITULO III. OBLIGACIONES DE LOS NOTARIOS Y DE LOS JUECES
+### CAPITULO II. FUNCIONES DE LA JUNTA DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1193.
 
@@ -8307,7 +8343,7 @@ Cuando se trate de colectas, se observará por la Junta de Beneficencia Privada 
 
 ## TITULO SEXTO. RESPONSABILIDADES
 
-### CAPITULO I. DE LA REFORMA DE LOS ESTATUTOS
+### CAPITULO III. OBLIGACIONES DE LOS NOTARIOS Y DE LOS JUECES
 
 ###### ARTICULO 1203.
 
@@ -8403,7 +8439,7 @@ Todos los asuntos se despacharán por conducto del Secretario General.
 
 Los Vocales no podrán mandar al personal, sino por conducto de aquél.
 
-### CAPITULO II. DE LA EXTINCION DE LAS INSTITUCIONES
+### CAPITULO I. DE LA REFORMA DE LOS ESTATUTOS
 
 ###### ARTICULO 1212.
 
@@ -8445,7 +8481,7 @@ Dentro de este sector de actividades, corresponderá a la Junta, con ayuda de un
 
 Las funciones especificadas en los artículos anteriores se llevarán a cabo en la forma y términos establecidos por este Código y el reglamento respectivo.
 
-### CAPITULO UNICO. DELEGACIONES DE BENEFICENCIA PRIVADA
+### CAPITULO II. DE LA EXTINCION DE LAS INSTITUCIONES
 
 ###### ARTICULO 1218.
 
@@ -8493,7 +8529,7 @@ Los jueces del ramo penal están obligados a dar aviso a la Junta de Beneficenci
 
 ## TITULO PRIMERO. DE LOS CAMINOS
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DELEGACIONES DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1228.
 
@@ -8505,7 +8541,7 @@ La Junta de Beneficencia Privada, previo estudio y dictamen del caso, resolverá
 
 En este caso, los patronatos tendrán las obligaciones que imponen dichos artículos a los fundadores.
 
-### CAPITULO II. RESPONSABILIDAD DE LOS PATRONOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1230.
 
@@ -8587,7 +8623,7 @@ Practicada la liquidación, si hay remanente, se aplicará éste con sujeción a
 
 ## TITULO SEGUNDO
 
-### CAPITULO III. RESPONSABILIDADES DE LOS MIEMBROS Y DE LOS EMPLEADOS DE LA JUNTA DE BENEFICENCIA PRIVADA
+### CAPITULO II. RESPONSABILIDAD DE LOS PATRONOS
 
 ###### ARTICULO 1242.
 
@@ -8607,7 +8643,7 @@ Las Delegaciones residirán en el lugar o lugares que determine el Gobernador.
 
 ## TITULO UNICO
 
-### CAPITULO IV. DE LAS RESPONSABILIDADES DE LOS NOTARIOS Y DE LOS JUECES
+### CAPITULO III. RESPONSABILIDADES DE LOS MIEMBROS Y DE LOS EMPLEADOS DE LA JUNTA DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1246.
 
@@ -8629,7 +8665,7 @@ Las personas que contravengan lo dispuesto en el artículo 1123 serán castigada
 
 En el caso de los artículos precedentes, el juez, corte o tribunal, a quien competa conocer de los procesos respectivos, fijará el grado de responsabilidad de los acusados.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. DE LAS RESPONSABILIDADES DE LOS NOTARIOS Y DE LOS JUECES
 
 ###### ARTICULO 1251.
 
@@ -8667,7 +8703,7 @@ IV.- Cuando la Junta de Beneficencia Privada les indique la venta de inmuebles q
 
 V.- Cuando por negligencia suya se acumulen productos de capitales en poder de los deudores.
 
-### CAPITULO II. DE LA JUNTA LOCAL Y DEL COMITE DE CAMINOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1256.
 
@@ -8707,7 +8743,7 @@ II.- La suspensión sin goce de sueldo; y
 
 III.- La destitución.
 
-### CAPITULO III. DE LA INSTALACION DE ANUNCIOS EN LOS CAMINOS
+### CAPITULO II. DE LA JUNTA LOCAL Y DEL COMITE DE CAMINOS
 
 ###### ARTICULO 1261.
 
@@ -8745,7 +8781,7 @@ COMUNICACIONES Y OBRAS PUBLICAS
 
 ## TITULO UNICO
 
-### CAPITULO UNICO. DE LAS DEMAS VIAS DE COMUNICACION
+### CAPITULO III. DE LA INSTALACION DE ANUNCIOS EN LOS CAMINOS
 
 ###### ARTICULO 1268.
 
@@ -8797,7 +8833,7 @@ IV.- Con las cantidades que el Gobierno Federal, los Ayuntamientos, comités de 
 
 V.- Con el producto de los impuestos que en lo futuro se decreten para el objeto, así como con las multas que se impongan a los infractores del presente Capítulo.
 
-### CAPITULO I. DEL TRANSITO ESTATAL Y DE LAS AUTORIDADES DE TRANSITO
+### CAPITULO UNICO. DE LAS DEMAS VIAS DE COMUNICACION
 
 ###### ARTICULO 1278.
 
@@ -8811,7 +8847,7 @@ El Congreso del Estado, en el presupuesto de egresos que cada año decrete, debe
 
 La Junta Local de Caminos se integrará y funcionará con arreglo a las disposiciones consignadas en la Ley sobre Construcción de Caminos en Cooperación con los Estados y su reglamento, o con arreglo a las disposiciones de la nueva ley federal que se dicte en lugar de la anterior.
 
-### CAPITULO II. DE LA COMPETENCIA DE LAS AUTORIDADES DE TRANSITO DEL ESTADO
+### CAPITULO I. DEL TRANSITO ESTATAL Y DE LAS AUTORIDADES DE TRANSITO
 
 ###### ARTICULO 1281.
 
@@ -8961,7 +8997,7 @@ Se aplicará una multa hasta por la cantidad de mil pesos, a juicio del Ejecutiv
 
 ## TITULO UNICO
 
-### CAPITULO III. DE LOS PERMISOS DE RUTA EN LOS CAMINOS DEL ESTADO
+### CAPITULO II. DE LA COMPETENCIA DE LAS AUTORIDADES DE TRANSITO DEL ESTADO
 
 ###### ARTICULO 1304.
 
@@ -8975,7 +9011,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 ## TITULO UNICO. DE LA PROTECCION GENERAL DE LA GANADERIA
 
-### CAPITULO IV. INFRACCIONES Y SANCIONES
+### CAPITULO III. DE LOS PERMISOS DE RUTA EN LOS CAMINOS DEL ESTADO
 
 ###### ARTICULO 1306.
 
@@ -9011,7 +9047,7 @@ III.- Las Policías de Tránsito y Preventivas Municipales;
 
 IV.- Las Policías Judicial y del Estado.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 1309.
 
@@ -9071,7 +9107,7 @@ VII.- Las demás que este Código, leyes y reglamentos impongan.
 
 La Policía Preventiva, así como las Policías Judicial y del Estado, en su calidad de auxiliares de la de Tránsito del Estado, desempeñarán las funciones de ésta en donde no existan agentes de la misma, y, en todo caso, cuando se requiera su auxilio por las autoridades del mismo.
 
-### CAPITULO II. DE LA PAVIMENTACION
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1314.
 
@@ -9115,7 +9151,7 @@ El Gobernador estará facultado para revocar los permisos a que se refieren los 
 
 Las leyes y reglamentos de Tránsito fijarán, en caso necesario, las tarifas que deben aplicarse de acuerdo con el servicio que se preste en los vehículos de alquiler.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA PAVIMENTACION
 
 ###### ARTICULO 1318.
 
@@ -9171,7 +9207,7 @@ Las Leyes y Reglamentos de Tránsito del Estado fijarán el procedimiento con ar
 
 ## TITULO PRIMERO
 
-### CAPITULO I. DE LOS GANADEROS
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1327.
 
@@ -9217,7 +9253,7 @@ III.- Que la Oficialía Mayor y la Tesorería General del Estado hayan recibido 
 
 IV.- Que se haya recabado la opinión del Jefe del Departamento al que posteriormente debe atribuirse el cuidado de la obra.
 
-### CAPITULO II. MARCA Y PROPIEDAD DE LOS GANADOS
+### CAPITULO I. DE LOS GANADEROS
 
 ###### ARTICULO 1332.
 
@@ -9231,7 +9267,7 @@ El Jefe del Departamento de Obras Públicas, auxiliado en su caso por otro u otr
 
 Si los propietarios llegan a un acuerdo con los representantes del Ejecutivo respecto al monto de la cooperación y la proporción y forma en que deba distribuirse entre los beneficiados, se formulará desde luego un convenio que deberán firmar los propietarios que hayan aceptado la derrama y los funcionarios del Gobierno del Estado que participen en las juntas.
 
-### CAPITULO III. ANIMALES MOSTRENCOS
+### CAPITULO II. MARCA Y PROPIEDAD DE LOS GANADOS
 
 ###### ARTICULO 1335.
 
@@ -9241,13 +9277,13 @@ Cuando los propietarios no acepten la derrama que se proponga o nieguen toda coo
 
 La comisión antes indicada deberá constituirse por el Jefe del Departamento de Comunicaciones y Obras Públicas, un representante de la Tesorería General del Estado, un representante del o los Municipios en cuya jurisdicción se haga la obra, un representante del grupo de propietarios interesados y un representante de la Cámara respectiva o de los ganaderos y agricultores si no se trata de una obra urbana.
 
-### CAPITULO IV. INSPECCION DE GANADOS
+### CAPITULO III. ANIMALES MOSTRENCOS
 
 ###### ARTICULO 1337.
 
 La comisión antes indicada resolverá en forma equitativa, recabando todas las informaciones que estime convenientes y tomando en cuenta tanto las condiciones de cada propiedad y cada propietario beneficiado, como la naturaleza de la obra que haya de emprenderse y las consecuencias benéficas que haya de producir.
 
-### CAPITULO V. ABASTO PUBLICO
+### CAPITULO IV. INSPECCION DE GANADOS
 
 ###### ARTICULO 1338.
 
@@ -9281,7 +9317,7 @@ III.- Cuando en la vía que se pretende pavimentar existan líneas de ferrocarri
 
 IV.- El pago del valor del pavimento que corresponda a los propietarios de fincas, será cubierto en los plazos y condiciones que para cada caso fijará el Ejecutivo con la aprobación del Congreso del Estado.
 
-### CAPITULO VI. TRANSPORTE DE GANADO
+### CAPITULO V. ABASTO PUBLICO
 
 ###### ARTICULO 1344.
 
@@ -9301,7 +9337,7 @@ OCTAVA PARTE
 
 ## TITULO SEGUNDO
 
-### CAPITULO VII. VIGILANCIA DE LOS GANADOS
+### CAPITULO VI. TRANSPORTE DE GANADO
 
 ###### ARTICULO 1347.
 
@@ -9321,9 +9357,11 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 # LIBRO SEGUNDO. DE LA GANADERIA
 
-## TITULO UNICO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+## TITULO UNICO
 
-### CAPITULO VIII. DE LAS CORRIDAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+### CAPITULO VII. VIGILANCIA DE LOS GANADOS
 
 ###### ARTICULO 1351.
 
@@ -9333,7 +9371,7 @@ Se declara de utilidad pública en el Estado de Chihuahua, la cría de ganado ma
 
 Se considera como ganadero para los efectos de este Código, a toda persona, sociedad o asociación que se dedique a la cría de ganado, cualquiera que sea el número de cabezas que posea.
 
-### CAPITULO IX. DEL REGISTRO GENEALOGICO
+### CAPITULO VIII. DE LAS CORRIDAS
 
 ###### ARTICULO 1353.
 
@@ -9411,7 +9449,7 @@ La propiedad de los animales se transfiere por los medios que establece el derec
 
 Las autoridades municipales y los inspectores de ganadería, no autorizarán ningún transporte de ganado que no esté amparado precisamente con la factura original expedida por el dueño del fierro del "criador" aunque dichos animales aparezcan venteados.
 
-### CAPITULO X. SANIDAD ANIMAL
+### CAPITULO IX. DEL REGISTRO GENEALOGICO
 
 ###### ARTICULO 1372.
 
@@ -9461,7 +9499,7 @@ La venta de animales mostrencos se hará únicamente en las cabeceras municipale
 
 Cualquiera contienda que se suscite con motivo de los artículos anteriores entre los interesados y la autoridad, será resuelta por la autoridad judicial competente.
 
-### CAPITULO XI. PREVENCIONES GENERALES
+### CAPITULO X. SANIDAD ANIMAL
 
 ###### ARTICULO 1384.
 
@@ -9525,7 +9563,7 @@ Al tratarse de ganado comprado que esté herrado con el fierro del último adqui
 
 Será obligación el cancelar los pases de ganado cuando éstos lleguen a su lugar de destino; en la cancelación deberán de poner la fecha, así como la firma y el sello correspondiente, a la vez harán la cancelación de las facturas con las cuales se amparó el ganado una vez que haya sido sacrificado en el rastro. Al ser ganado que se destine para su industrialización en las plantas, el inspector cancelará la documentación respectiva al ser recibido de conformidad por la empresa. Si es ganado que se destine para la engorda, las facturas serán canceladas una vez que el ganado se sacrifique o salga del Estado.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO XI. PREVENCIONES GENERALES
 
 ###### ARTICULO 1393.
 
@@ -9565,7 +9603,7 @@ La matanza clandestina de ganado será castigada por la autoridad administrativa
 
 En cooperación con las autoridades y rastros municipales, los inspectores de ganadería visitarán los establecimientos en los cuales se expenda carne, para comprobar que esta misma esté debidamente sellada; al no llenar este requisito la carne será decomisada y sus propietarios serán consignados a la autoridad correspondiente para que se proceda contra éstos en los términos de ley.
 
-### CAPITULO UNICO. DE LA ESTADISTICA
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1402.
 
@@ -9653,7 +9691,7 @@ Si el inspector encontrase que la procedencia o la propiedad de alguna de las pi
 
 El infractor de los artículos 1402, 1405, 1406 y 1417 será castigado administrativamente con una multa hasta de quinientos pesos, sin perjuicio de ser consignado a las autoridades respectivas en caso de resultarle otras responsabilidades. En caso de reincidencia se duplicará la pena.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DE LA ESTADISTICA
 
 ###### ARTICULO 1422.
 
@@ -9685,7 +9723,9 @@ La persona que haga la corrida dentro de terreno ajeno, no deberá arrear ganado
 
 Nadie tendrá derecho a pastar ganados en terrenos ajenos. El ganadero que encuentre dentro de su predio animales que no sean de su propiedad, queda facultado para avisar, por conducto del Comisario de Policía más próximo a los dueños, para que se presenten a recogerlos dentro del término de tres días, más el que sea necesario emplear por razón de la distancia, y transcurrido que sea éste sin que se presente el interesado, puede remitirlos a la autoridad municipal más próxima.
 
-### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1429.
 
@@ -9721,7 +9761,9 @@ La entrega de los mostrencos a que se refiere el artículo anterior, se hará po
 
 Los Comisarios de Policía o comisionados, no tendrán ninguna participación de los ingresos que tengan los Municipios por concepto de remate de animales mostrencos.
 
-### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+### CAPITULO II. PROGRAMA DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1437.
 
@@ -9765,7 +9807,9 @@ Los datos a que se refiere el artículo 1437 se anotarán inmediatamente en el l
 
 Por el registro de animales de "sangre pura" se cobrará la cantidad que fijen las disposiciones fiscales.
 
-### CAPITULO I. DE LAS COMPETENCIAS
+### CAPITULO III. LA PLANEACION URBANA
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1442.
 
@@ -9795,7 +9839,9 @@ En caso de falta de cumplimiento a los artículos anteriores, se aplicará a los
 
 El Ejecutivo del Estado queda facultado para reglamentar todo lo concerniente a medidas preventivas o curativas que estime convenientes, a fin de combatir las enfermedades del ganado; igualmente podrá decretar las "cuarentenas" que estime oportunas en las zonas infestadas, sujetándose en todos los casos a las disposiciones vigentes en materia de sanidad y policía veterinaria.
 
-### CAPITULO II. DE LOS PROCEDIMIENTOS
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1449.
 
@@ -9815,9 +9861,13 @@ ECONOMIA
 
 # LIBRO UNICO
 
-## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
+## TITULO UNICO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
-### CAPITULO I. DISPOSICIONES GENERALES
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+### CAPITULO VII. DE LAS CONURBACIONES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1452.
 
@@ -9835,9 +9885,13 @@ V.- Proponer las medidas necesarias para evitar el encarecimiento de los artícu
 
 VI.- Fundar y mantener organismos coordinados, establecimientos públicos descentralizados y empresas de participación estatal de economía mixta o subvencionadas, que intervengan para la realización de cualquiera de los fines y propósitos señalados en este artículo.
 
-## TITULO PRIMERO. DEL PATRIMONIO
+## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
 
-### CAPITULO II. DEL DOMINIO PUBLICO
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1453.
 
@@ -9891,81 +9945,1061 @@ II.- Como proceda, según la gravedad de la falta, cuando sean cometidas por fun
 
 La violación del párrafo segundo del artículo 1457 será además, causa de responsabilidad civil, directa y personal del funcionario o empleado que proporcione los datos a que ese precepto se refiere.
 
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS, SECCIONES Y ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
 DECIMA PARTE
 
-# LIBRO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+ASENTAMIENTOS HUMANOS
 
-## TITULO SEGUNDO
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+# LIBRO UNICO
+
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+## TITULO PRIMERO. DEL PATRIMONIO
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1460.
 
-Todos los funcionarios y empleados del Estado y de los Municipios serán responsables de los delitos y de las faltas comunes y oficiales que cometan.
+El objeto de este Título es ordenar el desarrollo urbano del Estado, la conservación y mejoramiento de sus áreas urbanas y el establecimiento de las normas conforme a las que el Gobierno de la Entidad ejercerá sus atribuciones para determinar los usos, destinos y reservas de dichas áreas.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1461.
 
-No podrán aplicarse sanciones a los funcionarios y empleados públicos sin otorgarles previamente la garantía de audiencia dentro de los procedimientos administrativos o judiciales previamente establecidos y de conformidad con las leyes expedidas con anterioridad a los hechos que motiven la infracción.
+Se declara de utilidad pública e interés social la urbanización, planificación regulación y poblamiento en las áreas urbanas y suburbanas.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1462.
 
-Se concede acción popular para denunciar ante quien corresponda los delitos y faltas oficiales cometidas por los funcionarios y empleados públicos.
+La ordenación y regulación del desarrollo urbano tenderá a:
+
+I.- Proyectar, organizar y promover el asentamiento y distribución equilibrada de la población en las zonas urbanas;
+
+II.- Lograr el desarrollo equilibrado, armonizando la interrelación de la ciudad y el campo y distribuyendo equitativamente los beneficios y cargas del proceso de desarrollo urbano;
+
+III.- Distribuir en forma equilibrada los centros de población integrándolos en el marco del desarrollo nacional;
+
+IV.- Adecuar la interrelación socioeconómica de las ciudades;
+
+V.- Lograr la eficiente interacción entre los sistemas de convivencia y de servicios en cada centro de población, particularmente, la creación y mejoramiento de condiciones favorables para la relación adecuada entre zonas industriales y de viviendas de trabajadores, el transporte entre ambas y las justas posibilidades de trabajo y descanso;
+
+VI.- Fomentar las ciudades de dimensiones medias a fin de que por la desproporción, no produzcan impactos económicos negativos y deterioro social y humano;
+
+VII.- Lograr el descongestionamiento de las urbes;
+
+VIII.- Mejorar la calidad de la vida en comunidad;
+
+IX.- Coadyuvar a una mayor participación ciudadana en la solución de los problemas que genera la convivencia en los asentamientos humanos;
+
+X.- Regular el mercado de los inmuebles dedicados a la vivienda popular;
+
+XI.- Promover el equipamiento de los asentamientos humanos y
+
+XII.- Prever el crecimiento de la población mediante la constitución de reservas territoriales.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1463.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no se puede conceder al reo la gracia del indulto.
+El Ejecutivo para realizar las funciones que este Título le encomienda, deberá:
+
+I.- Formular el plan estatal para el desarrollo urbano;
+
+II.- Determinar los destinos, usos y reservas de tierras y sus construcciones;
+
+III.- Celebrar convenios necesarios para el desarrollo urbano con el Gobierno Federal, Entidades Federativas, Ayuntamientos, organismos descentralizados, empresas de participación estatal y con particulares;
+
+IV.- Dictar y tomar las medidas necesarias para evitar la especulación con los terrenos urbanos;
+
+V.- Participar en la elaboración de los planes nacionales y regionales de desarrollo urbano;
+
+VI.- Participar con los Gobiernos Estatales vecinos y Ayuntamientos de los mismos, en la elaboración y ejecución del plan de desarrollo urbano, de las zonas conurbadas y
+
+VII.- Las demás que le otorguen otras disposiciones jurídicas.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1464.
 
-La responsabilidad por delitos y faltas oficiales sólo podrá ejercerse durante el período en que el funcionario o empleado desempeña su cargo y dentro de un año después.
+Todos los contratos y convenios relativos a la propiedad, posesión uso o cualquier otra forma jurídica de tenencia de los predios urbanos deberán contener las cláusulas relativas a la utilización de los mismos, las que formarán parte de dichos contratos o convenios por lo que su no inclusión o el ser incluidos en contravención a lo señalado en los planes estatales, regionales y municipales o en los decretos relativos a los destinos, usos y reservas, producirán su nulidad.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1465.
 
-El término señalado en el artículo anterior empezará a correr desde el día en que el funcionario deje de hecho de estar en funciones, en aquellos casos en que por excepción continúe en funciones después de la expiración del término legal.
+Los notarios públicos y los funcionarios que actúen por receptoría sólo podrán dar fe o extender escrituras públicas o privadas de los actos, contratos o convenios celebrados en los términos del artículo anterior, previa comprobación de que las cláusulas relativas a la utilización de los predios urbanos coinciden con los destinos, usos, reservas y planes inscritos en el Registro Público de la Propiedad. No se podrá registrar ningún acto, contrato o afectación que no se ajuste a los planes estatales, regionales, municipales y a los decretos relativos a los destinos, usos y reservas establecidos.
 
-### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
 ###### ARTICULO 1466.
 
-Será causa de responsabilidad para todos los funcionarios y empleados públicos, no despachar dentro de los términos legales o reglamentarios los negocios que estén a su cargo.
+El Ejecutivo será la autoridad competente para planear y ordenar los destinos, usos y reservas de las áreas urbanas y el desarrollo de las mismas y ejercerá éstas y las demás facultades que le confiere este Título y disposiciones jurídicas aplicables por conducto del Organismo Público descentralizado denominado Programa de Desarrollo Urbano del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1467.
 
-Ningún ciudadano podrá desempeñar ni conservar dos o más cargos de elección popular, pero el electo podrá optar por el que le conviniere, entendiéndose renunciado uno con la aceptación del otro.
+El Programa de Desarrollo Urbano del Estado de Chihuahua es un Organismo Público descentralizado con personalidad y patrimonio propio y con atribuciones para adquirir y enajenar bienes.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1468.
 
-Todo cargo de elección popular es incompatible con cualquier función o empleo federal, de éste o de otro Estado o de los Municipios, cuando por ambos se perciba sueldo, exceptuándose los de enseñanza, beneficencia y salubridad públicas, salvo lo dispuesto para casos especiales y cuando el Congreso otorgue licencia expresa para ello al interesado.
+El patrimonio del Organismo se integrará con:
+
+I.- Las aportaciones de los Gobiernos Estatal, Federal y Municipal, en bienes y servicios;
+
+II.- Los remanentes que resulten de la realización de sus actividades; y
+
+III.- Los demás bienes y servicios que de cualquier otra fuente provengan.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1469.
 
-Nunca podrá reunirse en una persona varios empleos por los que se disfrute sueldo; exceptuándose únicamente los de enseñanza, siempre que no concurran con alguno de otro ramo. La infracción de este artículo y de los dos próximos anteriores será motivo de responsabilidad para los funcionarios y empleados que, en sus respectivos casos, ordenen o reciban los pagos indebidos. Sin embargo, el Congreso o en su receso la Diputación Permanente, podrán conceder permiso por término señalado a empleados de otros ramos para que puedan desempeñar empleos en los ramos de enseñanza, salubridad y beneficencia, necesitándose permiso especial en cada caso.
+La administración del Organismo estará a cargo de un Consejo Directivo y de un Director.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1470.
+
+El Consejo Directivo es la autoridad superior del Organismo y se integrará en la siguiente forma:
+
+I.- Por el Gobernador del Estado o por la persona en quien delegue su representación, quien fungirá como Presidente;
+
+II.- Por el Director de Gobernación;
+
+III.- Por el Director de Pensiones Civiles;
+
+IV.- Por el Jefe del Departamento de Comunicaciones y Obras Públicas;
+
+V.- Por el Presidente de la Junta Central de Aguas y Saneamiento;
+
+VI.- Por el Jefe de los Servicios Coordinados de Salubridad y Asistencia; y
+
+VII.- Por el Presidente Municipal cuya circunscripción territorial sea objeto del acuerdo correspondiente del Consejo Directivo.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1471.
+
+Son atribuciones del Consejo Directivo:
+
+I.- Elaborar el Reglamento Interior del Organismo;
+
+II.- Aprobar los programas y proyectos de trabajo;
+
+III.- Dictar los acuerdos que regulen las actividades del Organismo;
+
+IV.- Aprobar los presupuestos, estados financieros y balances anuales;
+
+V.- Aprobar los informes del Director; y
+
+VI.- Las demás que se deriven de las anteriores y sean materia de Consejo.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1472.
+
+El Director será designado y removido por el Gobernador del Estado y tendrá las siguientes facultades:
+
+I.- Ejecutar los acuerdos del Consejo;
+
+II.- Asistir a las sesiones del Consejo;
+
+III.- Tramitar y despachar los asuntos técnicos y administrativos;
+
+IV.- Rendir al Consejo, en el mes de agosto de cada año, informe de las actividades;
+
+V.- Presentar para su aprobación al Consejo el presupuesto, los estados financieros y los balances anuales;
+
+VI.- Proporcionar al Consejo los programas y proyectos de trabajo;
+
+VII.- Nombrar y remover al personal administrativo;
+
+VIII.- Representar al Organismo con facultades de mandatario general, para pleitos y cobranzas, actos de administración y de dominio, incluyendo las facultades que requieran cláusula especial. Para actos de dominio se requerirá acuerdo previo del Consejo;
+
+IX.- Otorgar y revocar mandatos generales y especiales con la limitación establecida en la fracción anterior; y
+
+X.- Las que deriven de las anteriores o señale el Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1473.
+
+La actividad del Organismo no causará contribuciones al fisco del Estado.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+#### SECCION PRIMERA. PLAN ESTATAL
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1474.
+
+La planeación del desarrollo urbano estará a cargo del Ejecutivo de acuerdo a lo dispuesto en la Ley General de Asentamientos Humanos, en este Título y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1475.
+
+La ordenación y regulación de los asentamientos humanos se efectuará a través de:
+
+I.- El plan estatal de desarrollo urbano;
+
+II.- Los planes municipales;
+
+III.- Los planes que ordenen y regulen las zonas conurbadas en los que participe el Estado con una o más Entidades Federativas;
+
+IV.- Los planes que ordenen y regulen las zonas conurbadas dentro del territorio del Estado;
+
+V.- Además de los planes anteriores se podrán elaborar los siguientes planes que son derivaciones o modalidades de los previstos en las fracciones comprendidas de la I a la IV de este artículo:
+
+a).- Los planes regionales en los que participe el Estado en los términos del convenio que para tal efecto se celebre;
+
+b).- Los planes subregionales que establezcan la acción coordinada de varios municipios;
+
+c).- Los planes directores urbanos que ordenen y regulen el área comprendida en el perímetro de los centros de población;
+
+d).- Los planes parciales de aplicación en un área determinada o distrito de un centro de población;
+
+e).- Los planes sectoriales que definan las acciones en campos específicos, tales como el transporte, la vivienda, el equipamiento y otros de naturaleza semejante a nivel estatal, municipal o circunscrito en cualquier área urbana.
+
+Los planes previstos en este artículo tendrá (sic) vigencia indefinida y estarán sometidos a un proceso de constante revisión.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1476.
+
+El Gobernador del Estado para realizar las funciones asignadas en el artículo anterior, tendrá las siguientes atribuciones:
+
+I.- Aprobar los diversos planes de desarrollo urbano en el Estado;
+
+II.- Regular el poblamiento en las áreas urbanas y suburbanas;
+
+III.- Promover ante la Legislatura Local, la fundación de nuevos centros de población;
+
+IV.- Expedir las declaratorias sobre provisiones, usos, reservas y destinos de áreas y predios urbanos;
+
+V.- Celebrar con el Gobierno Federal, las Entidades Federativas y con los Ayuntamientos convenios en materia de acciones e inversiones relativos al desarrollo urbano;
+
+VI.- Vigilar la exacta observancia de la planeación urbana en los términos del presente Título y de las demás disposiciones relativas;
+
+VII.- Coordinar el plan estatal con el plan nacional de desarrollo urbano;
+
+VIII.- Hacer las proposiciones que se estimen pertinentes para la elaboración del plan nacional de desarrollo urbano;
+
+IX.- Coadyuvar con las autoridades federales en el cumplimiento del plan nacional de desarrollo urbano en la Entidad;
+
+X.- Participar con los Gobiernos Estatales vecinos y los Ayuntamientos de los mismos, en la elaboración y ejecución del plan de desarrollo urbano de las zonas conurbadas en los términos que establezcan las leyes y decretos correspondientes; y
+
+XI.- Celebrar convenios con otras Entidades Federativas y con la Federación, con la finalidad de participar en una planeación regional.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1477.
+
+El plan estatal tendrá como referencia la planeación nacional y regional, así como los elementos informativos complementarios de estudios relativos a:
+
+I.- Las estructuras, condiciones y procesos demográficos, sociales, económicos y políticos de la región, en relación con las condiciones generales del país;
+
+II.- Las condiciones geofísicas, ecológicas y ambientales de la región;
+
+III.- El estudio de la tendencia de superficies urbanas, el uso actual y potencial de la tierra y de bienes inmuebles; y
+
+IV.- Los elementos de acondicionamiento del espacio urbano principalmente de la infraestructura, equipamientos, servicios, vialidad y traslados.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1478.
+
+Se establece en las Oficinas del Registro Público de la Propiedad, la Sección de Asentamientos Humanos en la que habrán de inscribirse todas aquellas resoluciones administrativas que lleguen a dictarse con apoyo en los planes que afecten el desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1479.
+
+La formulación del plan estatal estará a cargo del Programa de Desarrollo Urbano del Estado de Chihuahua y los estudios y proyectos destinados a integrarlo serán sometidos a la aprobación del Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1480.
+
+Aprobados los estudios y proyectos del plan estatal se publicarán en el Periódico Oficial del Gobierno del Estado y en forma abreviada en dos diarios de mayor circulación en la Entidad y se inscribirán en la Oficina Central del Registro Público de la Propiedad.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+#### SECCION SEGUNDA. DE LOS PLANES MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1481.
+
+Los planes municipales serán propuestos por:
+
+I.- Los Presidentes Municipales;
+
+II.- El Programa de Desarrollo Urbano del Estado de Chihuahua; y
+
+III.- Los Consejos de Planeación Municipales.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1482.
+
+Los organismos públicos y privados que tengan interés en el desarrollo urbano, podrán presentar proyectos ante los Presidentes Municipales.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1483.
+
+Aprobado el plan por el Gobernado del Estado, se publicará en el Periódico Oficial y se inscribirá en un plazo no mayor de diez días en la sección respectiva del Registro Público de la Propiedad que corresponda.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1484.
+
+Aprobados, publicados e inscritos, los planes municipales serán obligatorios.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1485.
+
+A partir de la fecha en que se inscriba en el Registro Público de la Propiedad, las Presidencias Municipales sólo podrán expedir licencias de construcción, reconstrucción, ampliación o cualesquiera otras relacionadas con predios que resulten afectados, si las correspondientes solicitudes estén (sic) de acuerdo con el plan.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1486.
+
+Los planes municipales podrán modificarse o cancelarse cuando:
+
+I.- Exista una variación substancial de las condiciones o circunstancias que les dieron origen;
+
+II.- Se produzcan cambios en el aspecto financiero que los hagan irrealizables o incosteables;
+
+III.- Surjan técnicas diferentes que permitan una realización más satisfactoria; y
+
+IV.- Por cualquier otra causa que los afecte.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1487.
+
+La modificación o cancelación será solicitada por escrito al Gobernador del Estado por:
+
+I.- Las Presidencias Municipales cuya circunscripción territorial esté comprendida en el plan; y
+
+II.- El Programa de Desarrollo Urbano del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1488.
+
+Son atribuciones de los Ayuntamientos:
+
+I.- Solicitar al Gobernador del Estado las declaratorias de los destinos, usos y reservas para las zonas urbanas comprendidas en su territorio;
+
+II.- Celebrar con la Federación, las Entidades Federativas o con otros Ayuntamientos, los convenios que apoyen los objetivos y finalidades propuestas en los planes que se realicen dentro de su jurisdicción;
+
+III.- Solicitar al Gobernador del Estado la fundación de centros de población dentro de los límites de su jurisdicción;
+
+IV.- Coadyuvar en la ejecución de los diversos planes de desarrollo urbano;
+
+V.- Expedir el reglamento y las disposiciones administrativas tendientes a regular los planes municipales de desarrollo;
+
+VI.- Recibir las opiniones de los grupos sociales que integran la comunidad, respecto a la elaboración de los planes municipales de desarrollo urbano;
+
+VII.- Intervenir en los casos a que se refiere el artículo 1491 en lo que afecte a sus extensiones territoriales; y
+
+VIII.- Las demás que les otorgue el presente título y las disposiciones legales relativas.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1489.
+
+Para los efectos de este Título se establecen las siguientes definiciones:
+
+I.- Provisiones: son las áreas que serán utilizadas para la fundación de un centro de población.
+
+II.- Usos: son los fines particulares a que podrán dedicarse determinadas áreas.
+
+III.- Reservas: son las áreas que serán utilizadas para el crecimiento de un centro de población; y
+
+IV.- Destinos: son los fines públicos a que se prevea dedicar determinadas áreas o predios.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1490.
+
+El Ejecutivo del Estado determinará en el plan estatal los destinos, usos y reservas de los predios, así como el de las correspondientes provisiones.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1491.
+
+Determinadas las áreas de provisiones y reservas, previo estudio del Programa de Desarrollo Urbano del Estado de Chihuahua, el Ejecutivo Local señalará los destinos y usos correspondientes.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1492.
+
+En virtud de lo dispuesto en el artículo anterior, para los fines de ordenación y legalización de los asentamientos humanos, la consiguiente declaratoria de provisiones, usos, reservas y destinos de áreas y predios, será hecha por el Gobernador del Estado, las declaratorias a que se refiere el párrafo anterior deberán expresar las razones de beneficio social que las motivaron.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1493.
+
+Las áreas y predios comprendidos en la zona declarada como reserva territorial, se utilizarán por sus propietarios en forma que no presenten obstáculos al futuro aprovechamiento determinado por las correspondientes declaratorias de usos y destinos.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1494.
+
+Cuando para el cumplimiento de estos planes sea necesaria la adquisición de terrenos, la autoridad competente podrá obtenerlos mediante convenios o el procedimiento de expropiación por causa de utilidad pública.
+
+(ADICIONADO, P.O. 5 DE FEBRERO DE 1977) (F. DE E., P.O. 12 DE FEBRERO DE 1977)
+
+###### ARTICULO 1495.
+
+Las declaratorias que establezcan provisiones, usos, reservas y destinos de áreas o predios entrarán en vitor (sic) a los sesenta días a partir de su publicación en el Periódico Oficial y deberán ser inscritas dentro de los quince días siguientes, en el Registro Público de la Propiedad que corresponda.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1496.
+
+Para el efecto de ordenar y regular el desarrollo urbano el territorio del Estado se clasifica en:
+
+I.- Zonas urbanizadas;
+
+II.- Reservas territoriales;
+
+III.- Provisiones;
+
+IV.- Espacios dedicados a la preservación del patrimonio cultural; y
+
+V.- Espacios rurales.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1497.
+
+Las zonas urbanizadas podrán ser dedicadas a:
+
+I.- Habitación;
+
+II.- Recreación;
+
+III.- Comercio;
+
+IV.- Industria;
+
+V.- Servicios; y
+
+VI.- Otros usos.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1498.
+
+Se considerarán espacios dedicados a la conservación:
+
+I.- Las área abiertas, los promontorios, los cerros, las colinas y elevaciones y las depresiones orográficas que constituyan elementos naturales del territorio de la ciudad;
+
+II.- Los aéreos, cuyo uso puedan afectar el paisaje urbano;
+
+III.- Las zonas cuyos subsuelos se hayan visto afectados por fenómenos naturales o por explotaciones o aprovechamientos de cualquier género que representen peligro permanente o accidental para los asentamientos humanos.
+
+En estos espacios la urbanización será restringida y sólo se autorizarán aquellas construcciones que aseguren los servicios de bienestar social de carácter colectivo y de uso común.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1499.
+
+En todos los demás casos no previstos en el artículo anterior, la administración estatal podrá acordar su urbanización conforme a las normas del plan estatal y disposiciones que sean aplicables; estos espacios se considerarán reservas territoriales destinadas a regular el crecimiento urbano.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1500.
+
+Las declaratorias de los espacios dedicados a la conservación y mejoramiento, se publicarán en el Periódico Oficial del Estado y se inscribirán en el Registro Público de la Propiedad que corresponda y contendrán:
+
+I.- La demarcación;
+
+II.- Las características y condiciones del área;
+
+III.- Las limitaciones de uso; y
+
+IV.- La duración.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1501.
+
+Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+#### SECCION QUINTA. DE LA VIVIENDA
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1502.
+
+Para los efectos de este Título se entiende por estructura vial y sistema de transporte el conjunto de elementos necesarios para el traslado de personas y de bienes dentro del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1503.
+
+En todo lo relativo a la estructura vial y sistema de transporte en el Estado, se estará a lo dispuesto por este Código, la Ley de Tránsito y el Código Municipal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+#### SECCION SEXTA. DEL MEJORAMIENTO
+
+###### ARTICULO 1504.
+
+Para los efectos de este Título se entiende por fusión la unión en un solo predio de dos o más terrenos colindantes.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1505.
+
+Se entiende por subdivisión o relotificación la partición de un terreno que no requiera de una o más vías públicas.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1506.
+
+Se entiende por fraccionamiento la división de un terreno mediante la apertura de calle o calles u obras de urbanización.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1507.
+
+Las autorizaciones de fusión, subdivisión, relotificación y fraccionamiento tomarán en cuenta los siguientes aspectos:
+
+I.- Las zonas en que se permitan;
+
+II.- Las diferentes clases de fraccionamientos en función de su destino;
+
+III.- Los índices aproximados de densidad de población;
+
+IV.- La organización de la estructura vial y del sistema de transporte;
+
+V.- La proposición y aplicación de las inversiones en sus diversas etapas;
+
+VI.- Las proposiciones relativas a las áreas y servicios comunitarios y el equipo e infraestructura urbanos;
+
+VII.- Las especificaciones relativas a las características y dimensiones de los lotes, a la densidad de la construcción de los lotes considerados individualmente, así como las densidades totales;
+
+VIII.- Las normas de urbanización y las áreas que quedarán a cargo de los municipios correspondientes; y
+
+IX.- Las demás normas técnicas y los derechos y obligaciones que se consideren necesarios para el racional funcionamiento urbano del proyecto.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1508.
+
+Ninguna fusión, subdivisión, relotificación o fraccionamiento se podrá llevar a cabo sin que previamente se obtenga la autorización del municipio y se cumplan los requisitos que establecen este Título y las disposiciones contenidas en el Código Municipal.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1509.
+
+Las autoridades de fusión, subdivisión, relotificación y fraccionamiento se darán cuando no se afecten:
+
+I.- Zonas arboladas;
+
+II.- Zonas de valores naturales y urbanos;
+
+III.- Zonas monumentales históricas;
+
+IV.- La unidad de lotificación; y
+
+V.- El equilibrio de la densidad de población.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1510.
+
+El Ejecutivo local, en coordinación con el Municipio de que se trate, promoverá el desarrollo de fraccionamientos y conjuntos habitacionales de carácter popular y de interés social, para cuyo efecto aprovechará las reservas territoriales disponibles; en estos casos se tomarán las medidas que eviten las especulaciones o que desvirtúen la finalidad social que motivó la autorización; igualmente apoyarán los programas de fraccionamientos y conjuntos habitacionales que realicen dependencias u organismos oficiales de acuerdo con el plan estatal.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1511.
+
+La solicitud para fusionar, subdividir, relotificar o fraccionar terrenos, deberá ser formulada por la persona física o moral que tenga la propiedad y posesión del predio, acompañando para tal efecto los documentos a que se refiere el Código Municipal del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1512.
+
+Toda solicitud de fraccionamiento hecha conforme a las disposiciones del Código Municipal y de este Título, se incorporará al plan municipal.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1513.
+
+Se considerarán ilegales la fusión, subdivisión, relotificación y fraccionamiento que no estén autorizados por el ayuntamiento de acuerdo con este Título y las disposiciones de los Ordenamientos vigentes en el Estado.
+
+También se considerarán ilegales la fusión, subdivisión, relotificación y fraccionamiento autorizados, cuyos propietarios no realicen las obras o no hayan satisfecho los requisitos a que están obligados de acuerdo con la autorización concedida.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1514.
+
+En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1515.
+
+Se consideran fraccionamientos municipales los espacios adquiridos por los municipios que se destinen a dotar de lotes a los jefes de familia de escasos recursos y que no reciban los beneficios de cualquier otra institución que proporcione vivienda a sus agremiados.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1516.
+
+Los ayuntamientos solicitarán la autorización del Congreso del Estado para enajenar individualmente los lotes.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1517.
+
+Los lotes se venderán a los jefes de familia mencionados en el Artículo 1515 según los resultados de los estudios socioeconómicos efectuados por el Programa de Desarrollo Urbano.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1518.
+
+Los trabajos de topografía para determinar el perímetro del fraccionamiento y la lotificación individual serán realizados por el Programa de Desarrollo Urbano.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1519.
+
+El producto de la venta individual de los terrenos se destinará:
+
+I.- A cubrir el importe del costo del fraccionamiento; y
+
+II.- A la introducción de los servicios públicos.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1520.
+
+Una vez determinados los jefes de familia beneficiados, la presidencia municipal otorgará los títulos de propiedad correspondientes, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1521.
+
+Para los efectos de este Título, las viviendas se clasifican en:
+
+I.- Unifamiliares y bifamiliares;
+
+II.- Plurifamiliares; y
+
+III.- Conjuntos habitacionales.
+
+Sus características serán determinadas en el reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1522.
+
+El ayuntamiento determinará las zonas en que se permita la construcción de viviendas, la clase de éstas, así como las normas a que deben sujetarse.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1523.
+
+Las autorizaciones de vivienda plurifamiliar y conjuntos habitacionales, contendrán las siguientes menciones:
+
+I.- Las áreas de construcción;
+
+II.- Las normas técnicas de construcción;
+
+III.- Las áreas donadas al municipio que serán del 15% de la superficie vendible;
+
+IV.- Las normas de seguridad y salubridad públicas; y
+
+V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recolección de basura, transporte, mantenimiento de jardines y otros.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1524.
+
+Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1525.
+
+Los inmuebles destinados a un servicio público quedarán bajo la dependencia de la Oficialía Mayor. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1526.
+
+Los programas de mejoramiento formarán parte del plan municipal y deberán contener:
+
+I.- La delimitación del área;
+
+II.- Las características y condiciones;
+
+III.- Justificación del programa;
+
+IV.- Objetivos que se persiguen;
+
+V.- Derechos y obligaciones de los particulares afectados;
+
+VI.- Procedimientos de mejoramiento;
+
+VII.- Procedencia y aplicación de los recursos financieros necesarios para llevarlos a cabo; y
+
+VIII.- Efectos sociales que se puedan producir en la población del área afectada.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1527.
+
+Los propietarios y poseedores de los predios incluidos en los programas de mejoramiento deberán cumplir con las obligaciones derivadas de los propios planes, para este efecto podrán celebrar convenios entre sí, con el Gobierno del Estado, con el Municipio o con terceros.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1528.
+
+En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1529.
+
+Para los efectos de este Título se entiende por infraestructura urbana, los sistemas de organización y distribución de bienes y servicios para el buen funcionamiento de la ciudad en beneficio de la población, y por equipo urbano, el conjunto de instalaciones, construcciones y mobiliario destinados a prestar a la población los servicios administrativos, educativos, comerciales, de salud y asistencia, recreativos, de traslado y otros.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1530.
+
+Los anteproyectos para la instalación, construcción o modificación de la infraestructura y del equipo urbano, serán sometidos a la consideración del ayuntamiento y el Ejecutivo Estatal determinará si deben ser considerados como planes municipales y en su caso seguir el trámite respectivo.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1531.
+
+La solicitud para instalar, construir o modificar en todo o en parte alguno de los sistemas de infraestructura o el equipo urbano, deberá acompañarse de:
+
+I.- Plano de conjuntos de la zona afectada, señalándose la ubicación y extensión de la obra;
+
+II.- Memoria descriptiva del proyecto;
+
+III.- Régimen financiero para la ejecución de la obra;
+
+IV.- Obligaciones a cargo del solicitante;
+
+V.- Obligaciones, en su caso, a cargo del municipio;
+
+VI.- Obligaciones a cargo de los usuarios; y
+
+VII.- Plazos de iniciación, revisión y terminación de las obras.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1532.
+
+Para el estudio de la solicitud, el ayuntamiento deberá tomar en consideración los siguientes aspectos:
+
+I.- Distribución y densidad de población en la zona;
+
+II.- Distribución de la demanda de bienes y servicios, especificando la no cubierta;
+
+III.- Distribución equitativa de los bienes y servicios en relación con la población de la ciudad;
+
+IV.- Procedimientos para su realización;
+
+V.- Medios para la satisfacción de la demanda; y
+
+VI.- Régimen financiero para la ejecución de la obra.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+### CAPITULO I. DE LAS COMPETENCIAS
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1533.
+
+La ordenación del desarrollo urbano del Estado tenderá a la conservación y acrecentamiento de su patrimonio cultural.
+
+Se consideran afectos al patrimonio cultural del Estado: los edificios, monumentos, plazas públicas, parques, bosques, y en general, todo aquello que corresponde a su acervo histórico y que resulta propio de su cultura y de sus tradiciones.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1534.
+
+Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
+
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
+
+DECIMA PRIMERA PARTE
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+### CAPITULO II. DE LOS PROCEDIMIENTOS
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1535.
+
+La ordenación de los asentamientos humanos se llevará a cabo mediante la planeación y regularización de las acciones tendientes a la fundación, conservación, mejoramiento y crecimiento de los centros de población de acuerdo a lo previsto en los planes a que se refiere este Título.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1536.
+
+La fundación de los centros de población que se realicen conforme a este Título requerirá decreto expedido por la Legislatura del Estado.
+
+El decreto a que se refiere el párrafo anterior, contendrá las declaratorias procedentes sobre provisiones de tierra y determinación de usos, reservas y destinos.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1537.
+
+La conservación de los centros de población es la acción tendiente a mantener:
+
+I.- El equilibrio ecológico;
+
+II.- El buen estado de las obras materiales de acuerdo con lo previsto en los planes de desarrollo urbano; y
+
+III.- El buen estado de los edificios, monumentos, plazas públicas, parques y en general, todo aquello que corresponda a su acervo histórico y cultural.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1538.
+
+El mejoramiento es la acción tendiente a reordenar y renovar los centros de población mediante el adecuado aprovechamiento de sus elementos materiales.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1539.
+
+El mejoramiento podrá llevarse a cabo mediante convenios entre autoridades y propietarios, en los que se atiendan sus respectivos intereses, o a través de la expropiación de predios por causa de utilidad pública.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1540.
+
+Se atenderá el crecimiento de los centros de población mediante la determinación del área necesaria para su expansión.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1541.
+
+A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1542.
+
+El fenómeno de conurbación se presenta cuando dos o más centros de población formen o tienda a formar una unidad geográfica, económica y social.
+
+Las conurbaciones que se presenten en los centros de población localizados dentro de los límites del territorio estatal serán formalmente reconocidos mediante la declaratoria que expida al efecto el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1543.
+
+En el caso de zonas de conurbación en el que participe el Estado con una o más Entidades Federativas se estará a lo dispuesto en la Ley General de Asentamientos Humanos.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1544.
+
+La planeación y regularización de las zonas conurbadas dentro del territorio del Estado, se efectuarán con la participación del Gobierno del Estado y los ayuntamientos respectivos.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1545.
+
+El Ejecutivo Local y los ayuntamientos interesados podrán acordar que se considere la existencia de una zona conurbada, cuando:
+
+I.- Dos o más centros de población se encuentren ubicados en una zona que por sus características geográficas y su tendencia socioeconómica se considere conveniente el estudio y solución conjunta de su desarrollo urbano; y
+
+II.- Se proyecte o funde un centro de población y se prevenga su expansión en territorio de municipios vecinos.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1546.
+
+El acuerdo que se celebre en los términos del artículo anterior, tendrá efectos de declaratoria y se publicará como lo establece el artículo 1480.
+
+Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dispondrá que el Programa de Desarrollo Urbano en coordinación con los ayuntamientos correspondientes ordenen y regularicen el desarrollo de dicha zona.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+
+###### ARTICULO 1547.
+
+Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+
+# LIBRO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+## TITULO SEGUNDO. (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+### CAPITULO II. DEL DOMINIO PUBLICO
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1548.
+
+Todos los funcionarios y empleados del Estado y de los Municipios serán responsables de los delitos y de las faltas comunes y oficiales que cometan.
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1549.
+
+No podrán aplicarse sanciones a los funcionarios y empleados públicos sin otorgarles previamente la garantía de audiencia dentro de los procedimientos administrativos o judiciales previamente establecidos y de conformidad con las leyes expedidas con anterioridad a los hechos que motiven la infracción.
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1550.
+
+Se concede acción popular para denunciar ante quien corresponda los delitos y faltas oficiales cometidas por los funcionarios y empleados públicos.
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1551.
+
+Pronunciada una sentencia de responsabilidad por delitos oficiales, no se puede conceder al reo la gracia del indulto.
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1552.
+
+La responsabilidad por delitos y faltas oficiales sólo podrá ejercerse durante el período en que el funcionario o empleado desempeña su cargo y dentro de un año después.
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1553.
+
+El término señalado en el artículo anterior empezará a correr desde el día en que el funcionario deje de hecho de estar en funciones, en aquellos casos en que por excepción continúe en funciones después de la expiración del término legal.
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1554.
+
+Será causa de responsabilidad para todos los funcionarios y empleados públicos, no despachar dentro de los términos legales o reglamentarios los negocios que estén a su cargo.
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1555.
+
+Ningún ciudadano podrá desempeñar ni conservar dos o más cargos de elección popular, pero el electo podrá optar por el que le conviniere, entendiéndose renunciado uno con la aceptación del otro.
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1556.
+
+Todo cargo de elección popular es incompatible con cualquier función o empleo federal, de éste o de otro Estado o de los Municipios, cuando por ambos se perciba sueldo, exceptuándose los de enseñanza, beneficencia y salubridad públicas, salvo lo dispuesto para casos especiales y cuando el Congreso otorgue licencia expresa para ello al interesado.
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1557.
+
+Nunca podrá reunirse en una persona varios empleos por los que se disfrute sueldo; exceptuándose únicamente los de enseñanza, siempre que no concurran con alguno de otro ramo. La infracción de este artículo y de los dos próximos anteriores será motivo de responsabilidad para los funcionarios y empleados que, en sus respectivos casos, ordenen o reciban los pagos indebidos. Sin embargo, el Congreso o en su receso la Diputación Permanente, podrán conceder permiso por término señalado a empleados de otros ramos para que puedan desempeñar empleos en los ramos de enseñanza, salubridad y beneficencia, necesitándose permiso especial en cada caso.
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1558.
 
 Los cargos y empleos públicos del Estado durarán el tiempo señalado por las leyes y las personas que los obtengan, por ningún motivo podrán conservarlos después de la expiración del término legal, salvo el caso de prevención expresa de la ley en sentido contrario.
 
 Tampoco podrán ni tendrán derecho a conservar el empleo público, quienes legalmente hayan sido cesados quedando sin efectos sus nombramientos, o cuando hayan terminado los contratos de trabajo en el caso de personas que presten sus servicios por obra o por tiempo determinado.
 
-###### ARTICULO 1471.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1559.
 
 El Gobernador, los Magistrados, los representantes del Ministerio Público, el Secretario General de Gobierno, el Oficial Mayor, el abogado consultor general del Ejecutivo o de la Secretaría, los Jueces, los defensores de oficio en materia penal, los Presidentes Municipales y los Secretarios del Ayuntamiento, los del Supremo Tribunal de Justicia y Juzgados, los Recaudadores de Rentas, los empleados de Hacienda y todos aquéllos a quienes se les prohiben las leyes secundarias, no podrán, mientras conserven sus respectivos caracteres, ejercer la abogacía ni la procuración en los tribunales del Estado, sino en negocio propio, de su cónyuge o de personas que estén bajo su patria potestad; ni actuarán como notarios, a no ser los jueces que deban hacerlo por ministerio de ley.
 
-###### ARTICULO 1472.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1560.
 
 Los funcionarios del Estado y municipales, en las poblaciones fronterizas, tienen la obligación de residir en territorio nacional, bajo la pena de perder su cargo o empleo.
 
-###### ARTICULO 1473.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1561.
 
 El Gobernador durante su encargo sólo podrá ser acusado por traición a la patria, violación expresa de la Constitución del Estado o de la General de la República, ataques a la libertad electoral o de delitos del orden común.
 
-### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-###### ARTICULO 1474.
+###### ARTICULO 1562.
 
 De los delitos oficiales del Gobernador, Diputados, Magistrados, Secretario General de Gobierno, Procurador General de Justicia, Directores y Jefes de las demás Dependencias del Ejecutivo, conocerá en primera instancia la sala del ramo penal del Supremo Tribunal de Justicia.
 
-###### ARTICULO 1475.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1563.
 
 No pueden ser procesados:
 
@@ -9973,75 +11007,111 @@ I.- Los funcionarios de que habla el artículo anterior, sin previa declaración
 
 II.- Los Jueces de Primera Instancia, los Jueces Menores y los agentes del Ministerio Público, sin que previamente un jurado compuesto del Gobernador, un Magistrado y el Procurador General, en el cual actuará como Secretario uno de los abogados consultores del Ejecutivo designado por el Gobernador en cada caso, declare que ha lugar a proceder en su contra.
 
-###### ARTICULO 1476.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1564.
 
 En los casos antes mencionados, si el Congreso o el jurado formulan declaración afirmativa en el sentido de que procede la formación de causa, el desaforado quedará suspendido en el desempeño de su cargo o empleo y será consignado al Ministerio Público para que éste promueva el juicio respectivo ante la autoridad competente.
 
-###### ARTICULO 1477.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1565.
 
 Si la declaración del Congreso o del jurado fuera en sentido negativo, no habrá lugar a procedimiento ulterior, pero tal declaración no será obstáculo para que, tratándose de delitos comunes, la acusación continúe en su punto cuando el acusado haya dejado de tener fuero.
 
-###### ARTICULO 1478.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1566.
 
 La declaración de que ha lugar a la formación de causa contra un funcionario o empleado que goce de fuero es necesaria desde la fecha en que se hubiere hecho la elección o nombramiento, sin perjuicio de que cuando se trate de un delito común los jueces puedan practicar desde luego las primeras diligencias, conforme a la ley.
 
-###### ARTICULO 1479.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1567.
 
 Los funcionarios y empleados que gocen de fuero, no disfrutarán de éste en cuanto a delitos que cometan durante el desempeño de otro cargo, empleo o comisión distintos que aceptaren durante el período en que debieran disfrutar de fuero, salvo que también pueda corresponderles fuero por razón del nuevo empleo, cargo o comisión que desempeñen.
 
-###### ARTICULO 1480.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1568.
 
 De los delitos que cometan los funcionarios y empleados públicos que no gozan de fuero conocerán los tribunales comunes en los términos que fije la ley.
 
-###### ARTICULO 1481.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1569.
 
 El Gobernador del Estado aplicará discrecionalmente las sanciones administrativas, incluyendo la suspensión y el cese, tratándose de empleados de confianza. Deberá entenderse que son empleados de confianza aquellas personas que por disposición constitucional o legal pueden ser designadas y removidas libremente por el Gobernador del Estado, aun cuando éste tenga que hacer los nombramientos a propuesta de algún funcionario o institución.
 
 El ejercicio de la facultad que confiere este artículo no tiene límites en cuanto al fondo ni en cuanto al procedimiento y por tanto los funcionarios afectados no podrán alegar violación de los artículos 14 y 16 de la Constitución Federal ni acudir a las Juntas Arbitrales o Tribunal de Arbitraje.
 
-###### ARTICULO 1482.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1570.
 
 Los trabajadores de confianza responderán, conforme a las leyes aplicables, por los daños y perjuicios que causen a los particulares o a las propiedades del Estado.
 
-###### ARTICULO 1483.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1571.
 
 Los trabajadores de base sólo podrán ser sancionados con suspensión o privación de sus cargos por sentencia del Tribunal de Arbitraje creado específicamente para conocer de los conflictos entre ellos y el Estado.
 
-###### ARTICULO 1484.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1572.
 
 Las demás sanciones administrativas deberán aplicarse por el Ejecutivo de acuerdo con las normas que establece el Reglamento de Trabajo que deberá dictar el Gobernador del Estado recabando la aprobación previa del Sindicato de Trabajadores al Servicio del Estado.
 
-###### ARTICULO 1485.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1573.
 
 Los trabajadores de base responderán también, conforme a las leyes aplicables, de las responsabilidades civiles y penales en que puedan incurrir, estando obligados a indemnizar los daños y perjuicios que causen tanto a los particulares como en las propiedades del Estado.
 
-DECIMA PRIMERA PARTE
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
 
-###### ARTICULO 1486.
+DECIMA SEGUNDA PARTE
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1574.
 
 Los organismos, funcionarios y empleados del Poder Ejecutivo del Estado, en los asuntos de sus respectivas competencias, tienen jurisdicción en todo el Estado. Se exceptúan de esta regla general, las autoridades municipales que fungen como auxiliares del Poder Ejecutivo y aquellos funcionarios y empleados que por disposición expresa de la ley o la naturaleza específica de la comisión o función que les encomiende, deban restringir sus actividades a sólo una parte del territorio del Estado.
 
-###### ARTICULO 1487.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1575.
 
 Todos los organismos, funcionarios o empleados, auxiliares o comisionados temporal o definitivamente para el desempeño de una función propia del Poder Ejecutivo, deberán ceñir su actuación a las facultades limitadas y expresas que les estén conferidas por la ley, los reglamentos o los acuerdos dictados por el Jefe del Ejecutivo.
 
 En consecuencia, dichos organismos, funcionarios, empleados, auxiliares y comisionados deberán expresar en sus determinaciones las razones o motivos que hubieren tenido para dictarlos en el sentido que lo hagan, citando el o los preceptos legales en que se apoyan y dando a conocer a los interesados dichas razones y motivos a efecto de que estén en aptitud de hacer valer sus derechos.
 
-###### ARTICULO 1488.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1576.
 
 Salvo disposición expresa en contrario, los conflictos de competencia entre diversos órganos o dependencias del Ejecutivo serán resueltos por el Gobernador del Estado a través de la Secretaría General de Gobierno.
 
-### CAPITULO UNICO. DE LAS EXPROPIACIONES
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-###### ARTICULO 1489.
+###### ARTICULO 1577.
 
 El planteamiento de una cuestión de competencia podrá hacerlo cualquiera de las dependencias o funcionarios en conflicto o el particular que tenga interés justificado en que se defina la competencia por ser condición indispensable para que se resuelva de modo firme alguna solicitud o promoción que haya realizado.
 
-###### ARTICULO 1490.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1578.
 
 La cuestión de competencia se tramitará por la Secretaría General de Gobierno, dando un plazo de cinco días a las partes en conflicto para que expongan sus puntos de vista. Presentados éstos o transcurrido el término indicado, el Secretario General de Gobierno acordará con el Gobernador los términos de la resolución del conflicto dándola a conocer a las partes interesadas para su inmediato cumplimiento.
 
-###### ARTICULO 1491.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1579.
 
 Todos los asuntos de la competencia del Ejecutivo se tramitarán conforme a los procedimientos expresamente establecidos en este Código y sus reglamentos. En caso de que no haya previsión expresa para el trámite de un negocio determinado, se seguirán las reglas siguientes:
 
@@ -10049,49 +11119,75 @@ I.- Si el asunto es de orden simplemente interior y no lesiona los derechos de p
 
 II.- Si existe la posibilidad de afectar derechos adquiridos o causar los perjuicios y responsabilidades antes aludidos, el procedimiento se determinará por los mismos funcionarios indicados, cuidando simplemente de respetar la garantía de audiencia, dando oportunidad a los posibles afectados para que presenten pruebas y aleguen lo que a sus intereses convenga.
 
-###### ARTICULO 1492.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1580.
 
 En los casos en que este Código no haya establecido recurso alguno para impugnar las resoluciones administrativas, éstas podrán combatirse, en su caso, con los recursos de revisión y revocación, cuyos límites y modalidades se especifican en los artículos siguientes.
 
-###### ARTICULO 1493.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1581.
 
 El Gobernador del Estado estará facultado para revocar sus propias resoluciones o las dictadas por anteriores titulares del Ejecutivo, cuando aparezca que dichas resoluciones fueron dictadas con notoria violación de las disposiciones legales que debieron regular el acto violado, y siempre que con las mismas resoluciones se haya afectado gravemente el orden y la seguridad públicos o los intereses generales del Estado.
 
-###### ARTICULO 1494.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1582.
 
 Las revocaciones se tramitarán en la forma que determine el Gobernador, cuidando simplemente de que se conceda oportunidad de defensa a los interesados en la revocación o que puedan resultar perjudicados con ella. La revocación se decretará sin previa garantía de audiencia únicamente cuando los perjudicados sean delincuentes sentenciados que se encuentren libres con grave violación de la ley.
 
-###### ARTICULO 1495.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1583.
 
 Salvo disposición expresa en contrario, otorgando el carácter de definitivas o inmodificables a ciertas resoluciones, el Gobernador del Estado podrá revisar todos los actos administrativos de sus subordinados, confirmándolos, modificándolos o revocándolos.
 
-###### ARTICULO 1496.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1584.
 
 La revisión ante el Gobernador puede solicitarla cualquier interesado o particular que tenga el legítimo derecho para hacerlo. El Gobernador podrá también revisar de oficio dichos actos cuando estime que contrarían el principio de legalidad o las normas o criterios de acción gubernamental que orientan el desarrollo de su programa de gobierno.
 
-###### ARTICULO 1497.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1585.
 
 Las revocaciones y revisiones antes mencionadas se tramitarán por conducto del Secretario General de Gobierno.
 
-###### ARTICULO 1498.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+### CAPITULO UNICO. DE LAS EXPROPIACIONES
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1586.
 
 El trámite de las revisiones se hará simplemente fijando un plazo prudente y previo para que los interesados o posibles perjudicados aleguen lo que a sus intereses convenga. Recibidas las pruebas y alegatos de los mismos o vencido el plazo que para tal objeto se les haya fijado, el Secretario General de Gobierno estudiará el asunto y lo someterá al acuerdo del Gobernador para su resolución definitiva.
 
-###### ARTICULO 1499.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1587.
 
 Tratándose de revisiones de oficio, el Secretario General de Gobierno, respetando la garantía de audiencia de los posibles perjudicados, recabará, también oficiosamente, todos los informes y pruebas que juzgue necesarios para el mejor conocimiento del negocio y su más justo planteamiento ante el Gobernador.
 
-###### ARTICULO 1500.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1588.
 
 La resolución del Gobernador deberá ir firmada también por el Secretario General de Gobierno y contendrá las razones legales que la funden o motiven. Deberá comunicarse a los interesados y al órgano o funcionario que realizó el acto objeto de la revisión para que proceda a su inmediato cumplimiento.
 
-###### ARTICULO 1501.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1589.
 
 La caducidad, cancelación, rescisión o nulidad de permisos, autorizaciones, concesiones o contratos que otorgue o celebre el Poder Ejecutivo, podrá ser decretada administrativamente por el Gobernador del Estado. Para tal fin, en dichos permisos, autorizaciones, concesiones o contratos deberán incluirse una o varias cláusulas en que categóricamente se establezca y acepte la facultad del Gobernador para decretar la cancelación, la caducidad o la rescisión, cuando la empresa o el particular interesado falte al cumplimiento de las obligaciones básicas del contrato.
 
 Se procurará la mayor claridad en la exposición de las causas que den lugar a la caducidad o rescisión.
 
-###### ARTICULO 1502.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1590.
 
 Salvo previsión expresa en la ley o en el permiso, contrato, concesión o autorización, el procedimiento para decretar la caducidad, cancelación o rescisión será fijado discrecionalmente por el Gobernador del Estado dentro de las siguientes bases:
 
@@ -10105,9 +11201,13 @@ IV.- La resolución deberá contener las consideraciones legales que la funden o
 
 V.- Dicha resolución deberá notificarse por escrito al interesado, enviándose una copia de la misma a las dependencias competentes para que procedan inmediatamente a darle el debido cumplimiento.
 
-DECIMA SEGUNDA PARTE
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
 
-###### ARTICULO 1503.
+DECIMA TERCERA PARTE
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1591.
 
 El patrimonio del Estado se compone:
 
@@ -10115,7 +11215,9 @@ I.- De bienes de dominio público; y
 
 II.- De bienes de dominio privado.
 
-###### ARTICULO 1504.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1592.
 
 Son bienes de dominio público:
 
@@ -10131,7 +11233,9 @@ V.- Las servidumbres cuando el predio dominante sea alguno de los anteriores; y
 
 VI.- Los muebles propiedad del Estado que por su naturaleza normalmente no sean sustituibles, como los expedientes de las oficinas y archivos públicos, los libros raros, las piezas históricas o arqueológicas, las obras de arte de los museos, etc.
 
-###### ARTICULO 1505.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1593.
 
 Son bienes de dominio privado del Estado:
 
@@ -10143,11 +11247,15 @@ III.- Los que hayan formado parte de una corporación pública creada por ley lo
 
 IV.- Los demás inmuebles y muebles que por cualquier título jurídico adquiera el Estado.
 
-###### ARTICULO 1506.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1594.
 
 Los bienes a que se refiere el artículo anterior pasarán a formar parte del dominio público del Estado cuando sean destinados al uso común, a un servicio público o a alguna de las actividades que se equiparan a los servicios públicos.
 
-###### ARTICULO 1507.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1595.
 
 Los bienes del dominio público son inalienables e imprescriptibles y no están sujetos mientras no varie su situación jurídica, a acción reivindicatoria o de posesión definitiva o interna. Los particulares y las entidades públicas sólo podrán adquirir sobre el uso o aprovechamiento de estos bienes, los derechos regulados en esta ley.
 
@@ -10155,7 +11263,9 @@ Se regirán, sin embargo, por el derecho común, los aprovechamientos accidental
 
 Ninguna servidumbre pasiva puede imponerse en los términos del derecho común sobre los bienes de dominio público. Los derechos de tránsito, de vistas, de luces, de derrames y otros semejantes sobre dichos bienes, se rigen exclusivamente por las leyes y reglamentos administrativos.
 
-###### ARTICULO 1508.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1596.
 
 Corresponde al Ejecutivo del Estado:
 
@@ -10171,11 +11281,15 @@ V.- Anular administrativamente los acuerdos, concesiones, permisos o autorizacio
 
 VI.- En general, dictar las disposiciones ejecutivas que demande el cumplimiento de las disposiciones a que estén sometidos los bienes de dominio público.
 
-###### ARTICULO 1509.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1597.
 
 Cuando a juicio del Ejecutivo existan motivos que lo ameriten, podrá abstenerse de dictar las resoluciones concretas o de seguir los procedimientos a que se refiere el artículo anterior, y ordenar al Ministerio Público que someta el asunto al conocimiento de los Tribunales. El procedimiento se tramitará sumariamente y dentro de él podrá solicitarse la ocupación administrativa de los bienes.
 
-###### ARTICULO 1510.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1598.
 
 Las resoluciones a que se refiere el artículo 1508 podrán ser reclamadas ya sea ante la autoridad administrativa o ante la judicial. El procedimiento en la vía administrativa se sujetará a las siguientes reglas:
 
@@ -10195,11 +11309,15 @@ VII.- Dentro de los diez días siguientes se dictará la resolución que corresp
 
 VIII.- La resolución se comunicará a los interesados personalmente o por correo certificado con acuse de recibo. Esta resolución no podrá ya revocarse o anularse administrativamente y tendrá presunción de legalidad en cualquier procedimiento jurídico que contra ella se intente.
 
-###### ARTICULO 1511.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1599.
 
 Las concesiones sobre los bienes de dominio público no crean derechos reales. Otorgan simplemente, frente a la Administración y sin perjuicio de terceros, el derecho de realizar las explotaciones o por aprovechamientos que las leyes respectivas regulen, a condición de que su titular cumpla con las obligaciones que se le impongan.
 
-###### ARTICULO 1512.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1600.
 
 La nulidad, caducidad o rescisión de las concesiones sobre bienes del dominio público, cuando procedan conforme a la ley, se dictarán por la autoridad administrativa, sin perjuicio de lo dispuesto en el artículo 1509 previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a sus derechos convenga.
 
@@ -10207,15 +11325,21 @@ Cuando la nulidad se funde en error, dolo o violencia y no en la violación de l
 
 La nulidad de las concesiones de bienes de dominio público operará retroactivamente, pero el Ejecutivo del Estado queda facultado para limitar esta retroactividad cuando a su juicio el concesionario haya procedido de buena fe.
 
-###### ARTICULO 1513.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1601.
 
 Las concesiones sobre bienes de dominio público podrán rescatarse por causa de utilidad pública y mediante indemnización que se computará atendiendo al monto de las inversiones realizadas. Este derecho no podrá ejercitarse sino cuando el Estado haya adquirido en su caso y conforme a la ley, la unidad industrial correspondiente.
 
-###### ARTICULO 1514.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1602.
 
 Los bienes de dominio público que lo sean por disposición de la autoridad y no por naturaleza, podrán ser enajenados previo decreto de desincorporación dictado por el Congreso cuando por algún motivo dejen de servir para ese fin.
 
-###### ARTICULO 1515.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1603.
 
 Son bienes de uso común:
 
@@ -10229,17 +11353,25 @@ IV.- Los monumentos artísticos e históricos y las construcciones levantadas po
 
 De los bienes de uso común pueden usar todos los habitantes del Estado, con sólo las restricciones establecidas por la ley y los reglamentos administrativos, pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que fije la ley.
 
-###### ARTICULO 1516.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1604.
 
 Cuando puedan enajenarse y se vaya a enajenar terrenos que habiendo constituido vías públicas del Estado, hayan sido retirados de dicho servicio, o los bordes, zanjas, setos y vallados que les hayan servido de límite, los propietarios de los predios colindantes gozarán del derecho del tanto en la parte que les corresponda, al cual efecto se les dará aviso de la enajenación.
 
 El derecho que este artículo concede deberá ejercitarse precisamente dentro de los ocho días siguientes al aviso respectivo. Cuando éste no se haya dado, los colindantes podrán pedir la rescisión del contrato celebrado sin oírlos, dentro de seis meses contados desde su celebración.
 
-###### ARTICULO 1517.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+# LIBRO UNICO. (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1605.
 
 También corresponde este derecho al último propietario de un bien adquirido por el Estado en virtud de procedimientos de derecho público, cuando éste vaya a ser vendido, excepto cuando se esté en los casos previstos por los artículos 1510 fracción II y 1520 de esta Ley. Este aviso se dará mediante una sola publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO 1518.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1606.
 
 Están destinados a un servicio público y por tanto se hallan comprendidos en la fracción III del artículo 1504.
 
@@ -10259,135 +11391,197 @@ VII.- Los inmuebles que constituyan el patrimonio de los establecimientos públi
 
 VIII.- Cualesquiera otros adquiridos por procedimientos de derecho público.
 
-###### ARTICULO 1519.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1607.
 
 Se equipararán a los anteriores los afectos mediante decreto a actividades de interés social a cargo de asociaciones o instituciones privadas que no persigan propósito de lucro.
 
-###### ARTICULO 1520.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1608.
 
 Los bienes a los que se refiere la fracción VII del artículo 1518 excepto los que por disposición constitucional sean inalienables, sólo podrán gravarse con aprobación del Gobernador del Estado y con autorización expresa de la Legislatura Local, cuando sea conveniente para el mejor financiamiento de las obras o servicios a cargo de la institución propietaria. Podrán igualmente emitirse bonos u obligaciones que se regirán por las disposiciones que dicte el Congreso.
 
 Otorgada la autorización a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
-###### ARTICULO 1521.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1609.
 
 Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a la Oficialía Mayor la que, consultando a la Tesorería General, estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las ventas y compras de inmuebles corresponde al Gobernador y al Secretario General de Gobierno.
 
-###### ARTICULO 1522.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1610.
 
 Cuando se trate de adquisiciones por vías de derecho público, tocará a la dependencia del ramo respectivo determinar la utilidad pública y a la Tesorería General todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la dependencia del ramo los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del decreto respectivo en el Periódico Oficial.
 
-###### ARTICULO 1523.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1611.
 
 Para destinar un inmueble propiedad del Estado a determinado servicio público, el Ejecutivo del Estado expedirá un acuerdo que comunicará a la Oficialía Mayor.
 
 El cambio de destino de un inmueble dedicado a un servicio público, así como la declaración de que aquél ya no es propio para tal aprovechamiento, deberá hacerse por decreto que expedirá el Congreso, oyendo previamente la opinión del Poder Ejecutivo o del Judicial, en su caso.
 
-###### ARTICULO 1524.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1612.
 
 No pierden su carácter de bienes destinados a un servicio público, los que estándolo fueren sin embargo, aprovechados temporalmente en todo o en parte para otro objeto que no pueda considerarse como servicio público, mientras no se dicte la declaración respectiva en la forma prevista por el artículo anterior.
 
-###### ARTICULO 1525.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1613.
 
 Los inmuebles destinados a un servicio público quedarán bajo la dependencia de la Oficialía Mayor. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
 
-###### ARTICULO 1526.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1614.
 
 Si estuvieren alojados en un mismo inmueble propiedad del Estado, varias instituciones u oficinas de diversas dependencias, el inmueble quedará a cargo de la dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común, como patios, escaleras, corredores, pasillos, etc., y no en las partes interiores del edificio que sirvan para uso de las instituciones u oficinas dependientes de otros organismos.
 
 En caso de duda, el Gobernador del Estado, por conducto de la Oficialía Mayor, resolverá cuál de las dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
 
-###### ARTICULO 1527.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1615.
 
 La posesión, conservación y administración de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, a la Oficialía Mayor, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
 
-###### ARTICULO 1528.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1616.
 
 Los bienes propios del Estado, no destinados a un servicio público, o que no disfruten de iguales privilegios que aquéllos que sí lo están, pueden enajenarse, siempre que no existan razones que impongan la necesidad o la conveniencia de conservar dicho bien o que se justifique plenamente la necesidad de la enajenación por la importancia del fin que haya de realizarse con el producto de la venta. El Ejecutivo para obtener la autorización del Congreso, está obligado a exponer los propósitos de la venta y a justificar posteriormente la inversión de los fondos que haya obtenido, precisamente en dichos propósitos.
 
-###### ARTICULO 1529.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1617.
 
 Los particulares pueden adquirir por prescripción los inmuebles de dominio privado del Estado. La prescripción se regirá por el Código Civil, pero se duplicarán los plazos.
 
-###### ARTICULO 1530.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1618.
 
 El Ejecutivo del Estado gestionará que el Gobierno Federal le ceda o enajene a título gratuito los bienes propios federales que se encuentren dentro del Estado y no estén destinados a algún servicio público social, en los términos del artículo 38 de la Ley General de Bienes Nacionales.
 
-###### ARTICULO 1531.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1619.
 
 La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija este Código y previa autorización del Congreso.
 
-###### ARTICULO 1532.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1620.
 
 La enajenación de dichos bienes se hará en subasta pública. La convocatoria se publicará con quince días de anticipación, por lo menos, en el Periódico Oficial y en otro de los de mayor circulación en el lugar de ubicación de los inmuebles o en la Capital del Estado si en el Municipio de referencia no se editaren periódicos.
 
-###### ARTICULO 1533.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1621.
 
 La subasta se hará sobre la base del avalúo que practique alguna institución bancaria local y en su defecto, servirá de base el avalúo que mande practicar la Oficialía Mayor.
 
-###### ARTICULO 1534.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1622.
 
 La subasta se practicará el día y a la hora señalados, ante la autoridad que determine el reglamento y se ajustará a las disposiciones relativas a remates administrativos. También se estará a estas disposiciones para determinar la deducción que deba hacerse en cada una de las almonedas si no hubiere postores en la anterior o si las posturas no fueren admisibles. En todo caso, la aprobación del remate corresponderá a la Tesorería General del Estado.
 
-###### ARTICULO 1535.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1623.
 
 Ninguna venta de inmuebles podrá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entere en dinero efectivo, cuando menos el veinticinco por ciento de dicho precio. La finca se hipotecará en favor de la Hacienda Pública del Estado hasta el completo pago de su importe, así como el de los intereses pactados y los de mora, en su caso.
 
-###### ARTICULO 1536.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1624.
 
 Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Oficialía Mayor, mientras no esté pagado íntegramente el precio.
 
 En los contratos relativos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses, en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, implicará la rescisión del contrato.
 
-###### ARTICULO 1537.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1625.
 
 Cuando se trate de permutar bienes estatales, los que debe recibir el Gobierno se valuarán de la manera señalada por el artículo 1533 la diferencia que resulte en favor o en contra del erario se cubrirá en efectivo precisamente en el momento de la operación.
 
-###### ARTICULO 1538.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1626.
 
 La infracción de cualquiera de los preceptos anteriores provocará la nulidad de la enajenación. También estarán sujetas a ellos para su validez, las enajenaciones que los establecimientos públicos y empresas en que el Estado tenga interés, hagan de inmuebles adquiridos del Gobierno del Estado por cualquier título durante los cinco años anteriores.
 
-###### ARTICULO 1539.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1627.
 
 Los bienes de dominio privado pueden ser objeto de todos los contratos que regula el derecho común, con el requisito de que el Congreso los autorice cuando se trate de actos de dominio.
 
-###### ARTICULO 1540.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1628.
 
 Los actos o contratos que tengan relación con los inmuebles de la Hacienda Pública del Estado y que para su validez o por acuerdo entre las partes requieran la intervención de notario, serán presentados ante la fe del que designe libremente el Ejecutivo.
 
-###### ARTICULO 1541.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1629.
 
 La Hacienda Pública estará facultada para retener administrativamente los bienes que posea; pero cuando trate de recuperar la posesión interina o definitiva o de reivindicar los inmuebles de dominio privado o de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá deducir ante los tribunales las acciones que correspondan, las que se tramitarán, salvo la reivindicatoria y la plenaria de posesión, sumariamente. Presentada la demanda, el juez, a solicitud del Ministerio Público y siempre que encuentre razón bastante que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causa superviniente.
 
-###### ARTICULO 1542.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1630.
 
 Pertenecen al Estado todos los bienes muebles de las diversas dependencias de los Poderes del mismo.
 
 La clasificación y sistemas de inventario así como la estimación de la depreciación de los muebles de propiedad estatal son facultades de la Oficialía Mayor.
 
-###### ARTICULO 1543.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+# LIBRO UNICO. REGIMEN PATRIMONIAL DEL ESTADO
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1631.
 
 La adquisición, administración y enajenación de los bienes muebles de propiedad estatal corresponde a la Oficialía Mayor, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos, establezca un reglamento.
 
-###### ARTICULO 1544.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1632.
 
 Rige también respecto a los muebles de dominio privado lo establecido en preceptos anteriores sobre prescripción en favor de particulares y retención administrativa de la posesión y recuperación interina o definitiva de la misma posesión.
 
-###### ARTICULO 1545.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1633.
 
 Acordada la destrucción de un mueble inútil para el servicio se dará de baja en el inventario, y podrá donarse con autorización del Gobernador del Estado a las personas indigentes que lo soliciten.
 
-###### ARTICULO 1546.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1634.
 
 La Oficialía Mayor llevará un Registro de la Propiedad Estatal.
 
-###### ARTICULO 1547.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1635.
 
 El Registro de la Propiedad Estatal será público y los encargados de él tienen obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones que existen en los libros respectivos y de los documentos relacionados con las inscripciones, que estén archivados en sus apéndices y expedirá cuando sean solicitadas, y de acuerdo con la ley, copias certificadas de las inscripciones y constancias.
 
-# LIBRO UNICO
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-###### ARTICULO 1548.
+###### ARTICULO 1636.
 
 Se inscribirán en el Registro de la Propiedad Estatal:
 
@@ -10407,25 +11601,35 @@ VII.- Los demás títulos que conforme a la ley deban ser registrados; y
 
 VIII.- Los decretos que incorporen al dominio público o desincorporen de él determinados bienes.
 
-###### ARTICULO 1549.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1637.
 
 No se hará inscripción de los bienes del dominio público sino cuando sean de los señalados en las fracciones III, IV y V del artículo 1504 de este Libro.
 
-###### ARTICULO 1550.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1638.
 
 Además de la inscripción en el Registro de la Propiedad Estatal, los títulos de los actos o contratos a que se refiere el artículo anterior, se inscribirán en el Registro Público de la Propiedad que corresponda, conforme a las leyes relativas, al lugar de ubicación de los bienes de que se trate.
 
 En caso de oposición entre los datos del Registro de la Propiedad Estatal y en el de la ubicación de los bienes, en las relaciones con terceros, se dará preferencia al primero si se trata de cosas de dominio público y al segundo si de inmuebles de dominio privado.
 
-###### ARTICULO 1551.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1639.
 
 En las inscripciones del Registro de la Propiedad Estatal se expresará la procedencia de los bienes, su naturaleza, ubicación y linderos, el nombre del inmueble si lo tuviere, su valor y las servidumbres que reporte tanto activas como pasivas, así como sus referencias en relación con los expedientes respectivos.
 
-###### ARTICULO 1552.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1640.
 
 Las constancias del Registro de la Propiedad Estatal probarán la autenticidad de los actos a que se refieran.
 
-###### ARTICULO 1553.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1641.
 
 La extinción de las inscripciones del Registro de la Propiedad Estatal sólo se opera:
 
@@ -10435,15 +11639,21 @@ II.- Cuando se extinga por completo el inmueble objeto de la inscripción; y
 
 III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción.
 
-###### ARTICULO 1554.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1642.
 
 En la cancelación de inscripciones se asentarán los datos necesarios a fin de que se conozcan con toda exactitud cual es la inscripción que se cancela y la causa por la que se hace la cancelación.
 
-###### ARTICULO 1555.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1643.
 
 Un reglamento determinará las secciones de que habrá de componerse el Registro, los libros que debe llevar y los requisitos de éstos.
 
-###### ARTICULO 1556.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1644.
 
 Se consideran causas de utilidad pública:
 
@@ -10467,105 +11677,151 @@ IX.- Las medidas necesarias para evitar la destrucción de los elementos natural
 
 X.- La creación o mejoramiento de centros de población o de sus fuentes propias de vida y la dotación de terrenos para viviendas a familias humildes.
 
-###### ARTICULO 1557.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1645.
 
 En los casos comprendidos en la enumeración del artículo 1556 previa declaración del Ejecutivo del Estado, procederá la expropiación, la ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, para los fines del Estado en interés de la colectividad.
 
-###### ARTICULO 1558.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1646.
 
 El Ejecutivo del Estado, por conducto de la Dirección de Gobernación, tramitará el expediente de expropiación, de ocupación temporal o de limitación de dominio, y en su caso hará la declaratoria respectiva.
 
-###### ARTICULO 1559.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1647.
 
 La declaratoria a que se refiere el artículo anterior se hará mediante acuerdo que se publicará en el Periódico Oficial del Estado y será notificado personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del acuerdo en el Periódico Oficial del Estado.
 
-###### ARTICULO 1560.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1648.
 
 Los propietarios afectados podrán interponer, dentro de los quince días hábiles siguientes a la notificación del acuerdo, recurso administrativo de revocación contra la declaratoria correspondiente.
 
-###### ARTICULO 1561.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1649.
 
 El recurso administrativo de revocación se interpondrá directamente ante el Gobernador del Estado y se tramitará por conducto de la Dirección de Gobernación, dentro de un plazo no mayor de quince días, dando a los interesados amplia oportunidad para que aporten pruebas y aleguen lo que a sus intereses convenga.
 
-###### ARTICULO 1562.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1650.
 
 Cuando no se haya hecho valer el recurso administrativo de revocación a que se refiere el artículo 1560 o en su caso de que éste haya sido resuelto en contra de las pretensiones del recurrente, la autoridad administrativa que corresponde procederá desde luego a la ocupación del bien de cuya expropiación u ocupación temporal se trate, o a emprender la ejecución inmediata de las disposiciones de limitación de dominio que procedan.
 
-###### ARTICULO 1563.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1651.
 
 En los casos a que se refieren las fracciones V y IX del artículo 1556 de este Código, el Ejecutivo del Estado, hecha la declaratoria, podrá ordenar la ocupación de los bienes objeto de la expropiación o de la ocupación temporal o imponer la ejecución inmediata de las disposiciones de limitación de dominio, sin que la interposición del recurso administrativo de revocación suspenda la ocupación del bien o bienes de que se trata o la ejecución de las disposiciones de limitación de dominio.
 
-###### ARTICULO 1564.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1652.
 
 Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de dominio, no fueren destinados al fin que dio causa a la declaratoria respectiva, dentro del término de tres años, el propietario afectado podrá reclamar la reversión del bien de que se trata o la insubsistencia del acuerdo sobre ocupación temporal o limitación de dominio.
 
-###### ARTICULO 1565.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1653.
 
 El precio que se fijará como indemnización a la cosa expropiada se basará en la cantidad que como valor catastral de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base.
 
 El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor catastral, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
-###### ARTICULO 1566.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1654.
 
 Cuando se controvierta el monto de la indemnización a que se refiere al artículo anterior, se hará la consignación al juez que corresponda, quien fijará a las partes el término de tres días para que designen sus peritos con apercibimiento de designarlos el Juez en rebeldía, si aquéllos no lo hacen. También se les prevendrá designen de común acuerdo un tercer perito para el caso de discordia y si no lo nombraren serán designado por el Juez.
 
-###### ARTICULO 1567.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1655.
 
 Contra el auto del Juez que haga la designación de peritos no procederá ningún recurso.
 
-###### ARTICULO 1568.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1656.
 
 En los casos de renuncia, excusa o incapacidad de alguno de los peritos designados, se hará nueva designación dentro del término de tres días por quienes corresponda.
 
-###### ARTICULO 1569.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1657.
 
 Los honorarios de cada perito serán pagados por la parte que deba nombrarlo y los del tercero por ambas.
 
-###### ARTICULO 1570.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1658.
 
 El Juez fijará un plazo que no excederá de sesenta días para que los peritos rindan su dictamen.
 
-###### ARTICULO 1571.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1659.
 
 Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o del demérito, el Juez de plano fijará el monto de la indemnización; en caso de inconformidad, llamará al tercero para que, dentro del plazo que le fije, que no excederá de treinta días, rinda su dictamen. Con vista de los dictámenes de los peritos, el Juez resolverá dentro del término de diez días, lo que estime procedente.
 
-###### ARTICULO 1572.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1660.
 
 Contra la resolución judicial que fije el monto de la indemnización no cabrá ningún recurso.
 
-###### ARTICULO 1573.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1661.
 
 Si la ocupación fuere temporal, el monto de la indemnización quedará a juicio de peritos y a resolución judicial, en el caso de limitación de dominio.
 
-###### ARTICULO 1574.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1662.
 
 El importe de la indemnización será cubierto por el Estado cuando la cosa expropiada pase a su patrimonio. Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa persona cubrirá el importe de la indemnización. Estas disposiciones se aplicarán en lo conducente, a los casos de ocupación temporal o de limitación al derecho de dominio.
 
-###### ARTICULO 1575.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1663.
 
 El Ejecutivo del Estado fijará la forma y los plazos en que la indemnización deberá pagarse. En caso de que el mismo Ejecutivo no obtenga autorización del Congreso del Estado para cubrir la indemnización en un plazo mayor, éste no excederá del término que falte al mismo Ejecutivo para cumplir su período gubernativo.
 
-###### ARTICULO 1576.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1664.
 
 La solicitud de expropiación deberá señalar claramente la causa de utilidad pública que la justifique, así como los fines a que pretenda destinarse el bien y las obras o inversiones que vayan a realizarse.
 
-###### ARTICULO 1577.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1665.
 
 La Dirección de Gobernación solicitará de las oficinas rentísticas correspondientes, informe sobre el valor catastral del bien cuya expropiación se solicita, pidiéndoles informen si tienen conocimiento de que el referido bien haya sufrido deterioros o mejoras con posteridad a la fecha de asignación del valor catastral.
 
-###### ARTICULO 1578.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1666.
 
 La propia Dirección recabará los informes necesarios para decidir sobre la existencia de la causa de utilidad pública, en el término no mayor de treinta días. Al tener suficientes elementos de juicio para decidir sobre este punto, se llevará el asunto al acuerdo del Gobernador para que resuelva declarando o negando la expropiación.
 
-###### ARTICULO 1579.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1667.
 
 El acuerdo de expropiación deberá contener las consideraciones necesarias para demostrar la existencia de la causa de utilidad pública y para determinar el monto de la indemnización conforme a lo dispuesto por el artículo 27 Constitucional. Concluirá con los puntos resolutivos en que se declare la procedencia de la expropiación, determinando con exactitud el bien que se expropia y la persona jurídica en cuyo favor se decreta la expropiación; el monto de la indemnización o la determinación de que ésta debe hacerse por la autoridad judicial previo peritaje rendido en los casos previstos por los artículos 1565 y 1573 de este Código y la determinación de que el acuerdo respectivo se notifique, publique y ejecute.
 
-###### ARTICULO 1580.
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+###### ARTICULO 1668.
 
 Los acuerdos de expropiación se ejecutarán por conducto de la Dirección de Gobernación, siempre que los expropiados se nieguen a cumplirlos voluntariamente. Deberán inscribirse en el Registro Público de la Propiedad.
-
-# LIBRO UNICO. REGIMEN PATRIMONIAL DEL ESTADO
 
 ## TRANSITORIOS
 
@@ -10650,3 +11906,13 @@ ARTICULO TRANSITORIO. El presente Decreto entrará en vigor al día siguiente de
 P.O. 10 DE JULIO DE 1976.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE FEBRERO DE 1977.
+
+###### ARTICULO 1o.
+
+Se abroga el Decreto 17-74 publicado en el Periódico Oficial del Gobierno del Estado, número 88 del sábado 2 de noviembre de 1974 que creó el Organismo Público descentralizado con personalidad y patrimonio propio denominado Programa de Desarrollo Urbano del Estado de Chihuahua.
+
+###### ARTICULO 2o.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
