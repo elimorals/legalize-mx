@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1997-04-28"
+last_updated: "1997-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 1997.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -454,29 +454,41 @@ Los Vocales de la Comisión Ejecutiva no podrán ser miembros de la Junta. Igual
 
 Los Vocales podrán ser removidos libremente por quien los haya propuesto.
 
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO 27.
 
-La Comisión Ejecutiva tendrá las atribuiciones (sic) y funciones siguientes:
+La Comisión Ejecutiva tendrá las atribuciones y funciones siguientes:
 
-I.- (DEROGADA, D.O.F. 27 DE MAYO DE 1994)
+I.- Resolver sobre las operaciones del Fondo, excepto aquéllas que por su importancia ameriten acuerdo expreso de la Junta, la que deberá acordar lo conducente dentro de los 15 días siguientes a la fecha en que se haga la petición correspondiente;
 
-II.- Resolver sobre las operaciones del Fondo, excepto aquellas que por su importancia ameriten acuerdo expreso de la Junta, la que deberá acordar lo conducente dentro de los 15 días siguientes a la fecha en que se haga la petición correspondiente;
+II.- Examinar y, en su caso, aprobar y presentar a la Junta, los presupuestos de ingresos y egresos, los planes de labores y financiamientos, así como los estados financieros y el informe de labores formulados por el Vocal Ejecutivo;
 
-III.- Examinar y, en su caso, aprobar y presentar a la Junta, los presupuestos de ingresos y egresos, los planes de labores y financiamientos, así como los estados financieros y el informe de labores formulados por el Vocal Ejecutivo;
+III.- Examinar los estados de cuenta relacionados con los recursos del Fondo;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+IV.- Proponer a la Junta las reglas para el otorgamiento de créditos para vivienda, en las que se deberá indicar que éstos se otorgarán con base en la capacidad de pago de los trabajadores derechohabientes, de conformidad a los estudios que para tal efecto se realicen;
 
-IV.- Presentar a la Junta para su aprobación, el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder del 0.75 por ciento de los recursos totales que administre;
+V.- Proponer a la Junta para su aprobación, los montos máximos de los créditos que otorgue el Instituto con cargo a los recursos del Fondo, en función de, entre otros factores, el sueldo básico de cotización de los trabajadores acreditados, así como el precio máximo de las viviendas cuya adquisición o construcción pueda ser objeto de los citados créditos, o bien, en caso de cofinanciamiento;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+VI.- Proponer a la Junta para su aprobación, el programa anual de créditos para vivienda;
 
-V.- Proponer a la Junta las reglas para el otorgamiento de créditos;
+VII.- Autorizar los créditos que soliciten los trabajadores derechohabientes, considerando lo establecido en las reglas para el otorgamiento de créditos que emita la Junta, y lo previsto en el programa a que se refiere la fracción VI de este artículo;
 
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
+VIII.- Evaluar el avance del ejercicio del programa de crédito y emitir las recomendaciones que resulten procedentes para su cumplimiento;
 
-VI.- Efectuar los avalúos de bienes inmuebles que se ofrezcan en garantía al Instituto; y
+IX.- Definir los mecanismos de control y seguimiento, para verificar que los créditos se apliquen a los fines autorizados;
 
-VII.- Las demás que le señale la Junta.
+X.- Determinar la forma y términos en que serán invertidos los recursos que libere el Banco de México, en los términos del primer párrafo del artículo 122 de la Ley, los que en ningún caso podrán ser aplicados a través de mecanismos bursátiles, salvo en el caso de valores emitidos por el sector público, debidamente autorizados por la Secretaría de Hacienda y Crédito Público;
+
+XI.- Proponer a la Junta, las reservas que deban constituirse para asegurar la operación del fondo de la vivienda y el cumplimiento del objeto del mismo, las que deberán invertirse en valores del sector público, debidamente autorizados por la Secretaría de Hacienda y Crédito Público;
+
+XII.- Presentar a la Junta para su aprobación, el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder del 0.75 por ciento de los recursos totales que administre;
+
+XIII.- Proponer a la Junta para su aprobación, en su caso, el nombramiento de los servidores públicos que requiera el Vocal Ejecutivo para la atención de los asuntos de su competencia;
+
+XIV.- Ejecutar los avalúos de bienes inmuebles que se ofrezcan en garantía al Instituto; y
+
+XV.- Las demás que le señale la Junta.
 
 > <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
 
@@ -500,47 +512,81 @@ De todas las sesiones de la Comisión Ejecutiva se levantará acta, en la que se
 
 El acta constará de original y una copia firmadas por el Vocal Ejecutivo así como por el Secretario. El original se integrará al registro autorizado.
 
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO 31.
-
-La Comisión Ejecutiva contará con un Secretario Técnico de Actas, que será designado por la propia Comisión a propuesta del Vocal Ejecutivo, quien deberá:
-
-I.- Levantar las actas de las sesiones, someterlas a la consideración del Vocal Ejecutivo para la aprobación, en su caso, de la Comisión Ejecutiva, e integrarlas al registro autorizado;
-
-II.- Hacer llegar a los Vocales la convocatoria, el orden del día y el apoyo documental;
-
-III.- Asistir a las sesiones con voz pero sin voto;
-
-IV.- Comunicar para su seguimiento y ejecución los acuerdos tomados en las sesiones;
-
-V.- Firmar junto con el Vocal Ejecutivo las actas de las sesiones; y
-
-VI.- Las demás que le encomiende la Comisión Ejecutiva.
-
-###### ARTICULO 32.
 
 Son obligaciones y facultades del Vocal Ejecutivo de la Comisión Ejecutiva:
 
-I.- Convocar a los miembros de la Comisión Ejecutiva a las sesiones que ésta celebre;
+I.- Ejecutar los acuerdos de la Junta y de la Comisión Ejecutiva, relacionados con el fondo de la vivienda;
 
-II.- Asistir a las sesiones de la Junta con voz, pero sin voto, para informar de los asuntos relacionados con el Fondo de la Vivienda;
+II.- Asistir a las sesiones de la Junta con voz, pero sin voto, para informar de los asuntos relacionados con el fondo de la vivienda;
 
-III.- Ejecutar los acuerdos de la Junta y de la Comisión Ejecutiva, relacionados con el Fondo;
+III.- Convocar a los miembros de la Comisión Ejecutiva a las sesiones que ésta celebre;
 
-IV.- Presentar anualmente a la Comisión Ejecutiva, dentro de los dos primeros meses del año siguiente, los estados financieros y el informe de actividades del ejercicio anterior.
+IV.- Presentar a la consideración de la Comisión Ejecutiva, un informe mensual sobre las actividades de la propia Comisión;
 
-V.- Presentar a la Comisión Ejecutiva, a más tardar el último día de septiembre de cada año, los presupuestos de ingresos y egresos, el proyecto de gastos y los planes de labores y de financiamiento para el año siguiente;
+V.- Presentar dentro de los dos primeros meses de cada año a la Comisión Ejecutiva, para su consideración, y en su caso aprobación y posterior presentación a la Junta, los estados financieros y el informe de actividades del ejercicio anterior;
 
-VI.- Presentar a la consideración de la Comisión Ejecutiva un informe mensual sobre las actividades de la propia Comisión;
+VI.- Presentar a más tardar el último día de septiembre de cada año a la Comisión Ejecutiva para su consideración, y en su caso aprobación y posterior presentación a la Junta, los presupuestos de ingresos y egresos, el proyecto de gastos y los planes de labores y de financiamiento para el año siguiente;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+VII.- Presentar a más tardar en el mes de septiembre de cada año a la Comisión Ejecutiva para su consideración, y en su caso aprobación y posterior presentación a la Junta, los estados financieros y los programas de créditos a que se refiere la fracción I del artículo 103 de la Ley, a ser otorgados por el Instituto para el ejercicio fiscal inmediato siguiente, así como un programa financiero relativo a los dos años siguientes a este último;
 
-VII.- Presentar a la Comisión Ejecutiva para su consideración, y en su caso aprobación, los programas de financiamientos y créditos a que se refieren las fracciones I y II del artículo 103 de la Ley, a ser subastados y otorgados, según corresponda, por el Instituto;
+VIII.- Dar trámite y dictaminar las solicitudes de crédito para vivienda, calcular el monto y plazo del crédito correspondiente conforme a las reglas para el otorgamiento de créditos que expida la Junta, y remitir las procedentes a la Comisión Ejecutiva para su autorización;
 
-VIII.- Proponer al Director General los nombramientos y remociones del personal técnico y administrativo de la Comisión, dando la intervención que en derecho corresponda al Sindicato del Instituto; y
+IX.- Dictaminar las solicitudes de devolución de depósitos y, en su caso, remitir las procedentes a la Comisión Ejecutiva para su autorización;
 
-IX.- Las demás que le señalen la Ley y sus disposiciones reglamentarias.
+X.- Dictaminar sobre la procedencia de liberar a los acreditados o sus beneficiarios de las obligaciones crediticias, con motivo de la incapacidad total permanente o la muerte del acreditado, conforme a lo previsto en el artículo 111 de la Ley, y remitir las procedentes a la Comisión Ejecutiva para su autorización;
 
-Para la atención de los asuntos de su competencia el Vocal Ejecutivo se auxiliará por los servidores públicos que requiera y que apruebe la Junta conforme al presupuesto.
+XI.- Organizar, diseñar, operar y controlar el sistema de registro y recuperación de adeudos por los créditos otorgados con cargo al fondo de la vivienda, en coordinación con la Subdirección General de Finanzas;
+
+XII.- Presentar a la Comisión Ejecutiva para su consideración, y en su caso aprobación y posterior presentación a la Junta, los estudios financieros y actuariales necesarios para determinar las reservas que deban constituirse para asegurar la operación del fondo de la vivienda y el cumplimiento de su objeto, previa opinión de la Secretaría de Hacienda y Crédito Público;
+
+XIII.- Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del fondo de la vivienda, de acuerdo a los lineamientos generales que al efecto apruebe la Comisión Ejecutiva y la Junta, con apego a las disposiciones legales aplicables y a las políticas institucionales;
+
+XIV.- Suscribir los contratos de mutuo con interés y garantía hipotecaria o fiduciaria, por los que se formalice el crédito autorizado por la Comisión Ejecutiva y cancelar los gravámenes correspondientes una vez liquidado el saldo de los créditos. Lo anterior, sin perjuicio de otorgar los poderes necesarios para llevar a cabo dichos actos;
+
+XV.- Supervisar los actos y operaciones en materia de vivienda que requieran la formalización ante fedatario público e inscripción de los mismos ante el Registro Público de la Propiedad y del Comercio de la entidad federativa que corresponda, así como autorizar el pago de los honorarios respectivos a los notarios públicos;
+
+XVI.- Llevar el archivo y mantener la custodia de los testimonios notariales que acrediten los créditos con garantía hipotecaria otorgados con cargo al fondo de la vivienda;
+
+XVII.- Coordinar las acciones para la regularización o municipalización de los conjuntos habitacionales financiados con cargo al fondo de la vivienda;
+
+XVIII.- Promover la constitución de regímenes de propiedad y condominio de los conjuntos habitacionales financiados con cargo al fondo de la vivienda;
+
+XIX.- Administrar la reserva territorial y los inmuebles del Instituto adquiridos con recursos del fondo de la vivienda, así como los demás adquiridos por cualquier vía para programas de vivienda;
+
+XX.- Proponer al Director General los nombramientos y remociones del personal técnico y administrativo de la Comisión Ejecutiva, dando la intervención que en derecho corresponda al Sindicato del Instituto;
+
+XXI.- Supervisar y evaluar las actividades y procedimientos que, en materia de vivienda, realicen las Delegaciones del Instituto; y
+
+XXII.- Las demás que le señalen la Ley y sus disposiciones reglamentarias.
+
+Para la atención de los asuntos de su competencia, el Vocal Ejecutivo se auxiliará por los servidores públicos que requiera conforme al presupuesto, y cuyo nombramiento apruebe la Junta a propuesta de la Comisión Ejecutiva.
+
+> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 1997)</small>
+
+###### ARTICULO 32.
+
+La Comisión Ejecutiva contará con un Secretario Técnico, que será designado por la propia Comisión a propuesta del Vocal Ejecutivo, quien deberá:
+
+I.- Levantar las actas de las sesiones, someterlas a la consideración del Vocal Ejecutivo para la aprobación, en su caso, de la Comisión Ejecutiva, e integrarlas al registro autorizado;
+
+II.- Hacer llegar a los Vocales de la Comisión Ejecutiva, con la oportuna anticipación, la convocatoria, el orden del día y el apoyo documental correspondiente al desahogo de los asuntos que se propongan a su consideración;
+
+III.- Realizar el análisis de los asuntos que se deban someter a la consideración de la Comisión Ejecutiva, y verificar su presentación dentro de la normatividad aplicable;
+
+IV.- Fungir como asesor permanente de la Comisión Ejecutiva;
+
+V.- Remitir los acuerdos tomados en las sesiones de la Comisión Ejecutiva, a las áreas competentes para su seguimiento y ejecución;
+
+VI.- Mantener actualizado el registro de los acuerdos emitidos por la Comisión Ejecutiva y establecer un sistema de seguimiento de los mismos;
+
+VII.- Asistir a las sesiones de la Comisión Ejecutiva con voz pero sin voto;
+
+VIII.- Firmar junto con el Vocal Ejecutivo las actas de las sesiones; y
+
+IX.- Las demás que le encomiende la Comisión Ejecutiva.
 
 ### CAPITULO QUINTO. DE LA COMISION DE VIGILANCIA
 
@@ -842,9 +888,11 @@ XIII.- Atender los asuntos relativos a las relaciones del Instituto con los Sind
 
 XIV.- Realizar los actos necesarios para legalizar la adquisición, destino o enajenación de los bienes inmuebles del Instituto, así como intervenir en los asuntos de los que se deriven derechos y obligaciones a cargo del mismo;
 
-XV.- Supervisar los actos y operaciones que requieran la formalización ante fedatario público e inscripción de los mismos ante el Registro Público de la Propiedad y del Comercio de cada Entidad y del Distrito Federal, así como autorizar el pago de los honorarios correspondientes a los notarios públicos;
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 1997)</small>
 
-XVI.- Llevar el archivo y mantener la custodia de los testimonios notariales que acrediten los prestamos hipotecarios otorgados;
+XV.- Supervisar los actos y operaciones que requieran la formalización ante fedatario público e inscripción de los mismos ante el Registro Público de la Propiedad y del Comercio de cada Entidad y del Distrito Federal, excepto los relacionados con el fondo de la vivienda, así como autorizar el pago de los honorarios correspondientes a los notarios públicos;
+
+XVI.- (DEROGADA, D.O.F. 5 DE JUNIO DE 1997)
 
 XVII.- Formular los convenios de incorporación, continuación voluntaria y reconocimiento de antigüedad a que se refiere la Ley;
 
@@ -1643,3 +1691,13 @@ Una vez concluido el proceso de transferencia, la Subdirección General de Servi
 ###### ARTICULO CUARTO.
 
 Los derechos de los trabajadores de base adscritos a la Subdirección General de Servicios Sociales y Culturales, no sufrirán por este Acuerdo modificación alguna, respetándose en todos sus términos.
+
+D.O.F. 5 DE JUNIO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Acuerdo en el Diario Oficial de la Federación y, en su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
+
+###### ARTICULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
