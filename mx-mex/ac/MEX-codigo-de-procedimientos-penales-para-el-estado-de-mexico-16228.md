@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2004-04-01"
+last_updated: "2004-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DEL 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1332,6 +1332,52 @@ Cuando fueren varios los procesados y alguno de ellos solicitare el cierre de in
 ###### Artículo 193.
 
 Se admitirá como prueba todo elemento de convicción que se ofrezca como tal, siempre que pueda constituirla a juicio del juez. Cuando éste lo juzgue necesario podrá por cualquier medio legal constatar la autenticidad de dicha prueba.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+
+###### Artículo 193
+
+Bis.- Para la ampliación de declaración por parte del procesado o víctima y ofendido, las preguntas deberán realizarse bajo los siguientes términos:
+
+I. Estar formuladas en términos claros y precisos;
+
+II. Deben ser aseverativas, entendiéndose por tales las que afirman algo, aunque estén redactadas con términos negativos;
+
+III. Deben contener hechos propios del que declara, referentes a su actividad externa y no a conceptos subjetivos u opiniones;
+
+IV. No han de ser insidiosas, entendiéndose por tales las que se dirijan a ofuscar la inteligencia del que ha de responder, con objeto de obtener una confesión contraria a la verdad;
+
+V. No han de contener mas que un solo hecho.
+
+Cuando la pregunta contenga dos o más hechos, el Juzgador la examinará prudentemente, determinando si debe desahogarse en dos o más, o sí, por la íntima relación que exista entre los hechos que contiene, de manera que no pueda afirmarse o negarse uno, sin afirmar o negar el otro u otros, y teniendo en cuenta lo ya declarado por el declarante al responder las anteriores preguntas, debe prevalecer como ha sido formulada.
+
+VI. No han de ser capciosas, ni contradictorias, a preguntas respecto a declaraciones anteriores. Las que resulten serlo, serán desechadas;
+
+VII. Deberán concretarse a hechos que sean objeto del interrogatorio;
+
+VIII. No podrán referirse a hechos del declarante que deban constar probados por documento público o privado;
+
+IX. No contendrán términos técnicos, a menos que quien deponga por razón de su profesión o actividad, resulte que tiene capacidad de dar respuesta a ellos;
+
+X. Tampoco se referirán a hechos que ya consten en el proceso;
+
+XI. No contendrán repetición de preguntas.
+
+Para la ampliación de declaración de Testigos (s), Perito (s), Policía (s) y demás personas que participen en el proceso penal se observarán las siguientes reglas:
+
+I. Se señalará el nombre y domicilio de los testigos;
+
+II. La mención de si el oferente los presenta o tendrán que ser citados por el Juez;
+
+III. Los puntos sobre los que versará su testimonio;
+
+IV. La relación del testimonio con los hechos controvertidos;
+
+V. La exhibición del interrogatorio y copia del mismo.
+
+De no cumplirse con estos requisitos, no se admitirá la prueba.
+
+Para el caso de ampliación en delitos graves, las partes en el proceso, sólo podrán realizarla por una sola vez; y para el caso de ampliación en delitos no graves, hasta dos veces. Salvo que del resultado que arrojen tales ampliaciones de declaración, el Juez del conocimiento considere necesario ampliarlas.
 
 #### SECCION PRIMERA. CONFESION
 
@@ -2892,3 +2938,9 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Las disposiciones contenidas en los artículos 91 y 295 del Código Penal del Estado de México, anteriores a esta reforma, se aplicarán respecto de los hechos u omisiones que hayan sido ejecutados durante su vigencia, a menos que los sujetos soliciten, en su beneficio, la aplicación de los preceptos normativos contenidos en el presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Esta reforma entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado de México.
