@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-beneficencia-privada-para-el-estado-de-nuevo-leon-744
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-02"
-last_updated: "2000-08-16"
+last_updated: "2004-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA BENEFICENCIA PRIVADA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de enero de 1984.
 
@@ -655,17 +655,29 @@ j) Dar asesoría a quienes pretendan constituir una institución de beneficencia
 
 k) Aprobar el informe de labores que en términos de esta Ley deban ser presentados por las instituciones de beneficencia.
 
-l) Recibir y tramitar las quejas que se formulen en relación con fundaciones e instituciones de beneficencia privada que no se hayan constituido en los términos que señala la ley; así como aquellas quejas que se realicen en contra de instituciones de beneficencias privada legalmente establecidas;
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-m) Coadyuvar para que las fundaciones u organismos similares que tengan un patrimonio afecto a un fin de beneficencia, lo apliquen adecuadamente a los objetivos.
+l) Autorizar y habilitar organismos, personas físicas o personas morales de derecho privado que tramiten adopciones o que tengan en custodia menores susceptibles de ser adoptados, previa opinión del Consejo Estatal de Adopciones.
 
-n) Nombrar Patronos de las instituciones de beneficencia privada, cuando no hayan sido designados por los fundadores o socios.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-o) Rendir informes que le solicite el Ejecutivo Estatal.
+m) Recibir y tramitar las quejas que se formulen en relación con organizaciones que se ostenten como fundaciones e instituciones de beneficencia privada que no se hayan constituido en los términos que señala la ley; así como aquellas quejas que se realicen en contra de instituciones de beneficencias privada legalmente establecidas.
 
-p) Aplicar la presente Ley de acuerdo a lo preceptuado en ésta.
+n) Coadyuvar para que las fundaciones u organismos similares que tengan un patrimonio afecto a un fin de beneficencia, lo apliquen adecuadamente a los objetivos
 
-q) Resolver aquellos casos no previstos en la Ley.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+o) Nombrar patronos de las instituciones de beneficencia privada, cuando no hayan sido designados por los fundadores o socios.
+
+p) Rendir informes que le solicite el Ejecutivo Estatal.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+q) Aplicar la presente Ley de acuerdo a lo preceptuado en ésta; y
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+r) Resolver, en el marco de sus atribuciones, aquellos casos no previstos en la ley.
 
 II. Inspección y Vigilancia.
 
@@ -934,3 +946,11 @@ P.O. 16 DE AGOSTO DE 2000.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Las instituciones de beneficencia existentes subsistirán con tal carácter, de acuerdo con la aprobación otorgada al amparo del artículo 3 que se modifica, hasta que se disuelvan por alguna de las causas que señala la Ley.
+
+P.O. 28 DE ABRIL DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
+
+Las partes, en los procedimientos referidos en el párrafo anterior, podrán optar por los beneficios derivados de las mencionadas reformas.
