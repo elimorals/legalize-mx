@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2001-09-19"
+last_updated: "2002-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -65,7 +65,7 @@ Para vehículos cuyo modelo corresponda al año en curso, se tomará como base p
 
 El avalúo pericial a que se refiere el primer párrafo de este artículo, deberá ser practicado considerando el valor real del vehículo en la fecha de que se efectúe el trámite de pago del impuesto. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente, el que podrá ser rechazado en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
 
-ART. 3o.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
+(ART. 3o.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -1109,7 +1109,9 @@ c).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 III.- Por control vehicular:
 
-a).- Por la expedición de placas de vigencia permanente, tarjeta de circulación y calcomanía:
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+a).- Por la expedición de placas con vigencia que determine la norma oficial mexicana correspondiente expedida por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcomanía:
 
 1.- Para vehículos de servicio particular 15.00
 
@@ -1129,7 +1131,9 @@ de circulación) 10.00
 
 de circulación) 10.00
 
-b).- Por reposición de juego de placas de vigencia permanente por pérdida o deterioro:
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+b).- Por reposición de juego de placas cuya vigencia sea la que señale la norma oficial mexicana correspondiente expedida por la Secretaría de Comunicaciones y Transportes, por pérdida o deterioro:
 
 1.- Para vehículo de servicio particular 15.00
 
@@ -1149,7 +1153,9 @@ por pérdida, deterioro o cualquier otra
 
 causa: 4.00
 
-d).- Por refrendo anual de: placas y tarjeta de circulación de vigencia permanente, con emisión de calcomanía:
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+d).- Por refrendo anual de placas y tarjeta de circulación con vigencia señalada por la norma oficial mexicana expedida por la Secretaría de Comunicaciones y Transportes, con emisión de calcomanía:
 
 1.- Para vehículo de servicio particular 6.00
 
@@ -2275,6 +2281,114 @@ ART. 77.- Por la verificación del funcionamiento de las empresas y particulares
 
 ART. 78.- Para la restauración de las áreas alteradas en sus condiciones naturales de las riberas de los ríos, provocadas por el aprovechamiento de éstas, las empresas o particulares pagarán el derecho de restauración por metro cúbico, conforme a la cuota de 0.20 días de salario mínimo general vigente en el Estado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO XII. DERECHOS POR LA PRESTACION DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+ART. 78 bis.- Son objeto de este derecho, el estudio y trámite de la solicitud para la autorización o su revalidación, la expedición de la autorización o su revalidación, la inscripción en el Registro de Prestadores de Servicios Privados de Seguridad de la empresa, organismo o institución así como de su personal y la supervisión de los prestadores de los Servicios Privados de Seguridad que otorguen el servicio en la Entidad.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+ART. 78 bis-1.- Son sujetos de este derecho aquellas personas físicas o morales, ésta última, con cláusula de exclusión de extranjeros, que proporcionen o pretendan proporcionar los Servicios Privados de Seguridad de personas o bienes, traslado y custodia de fondos y valores y de investigaciones privadas en el Estado de Sinaloa. Quedan comprendidas en esta clasificación las personas morales legalmente constituidas, cuyo objeto social consista exclusivamente en la prestación del servicio para la vigilancia o custodia de locales.
+
+Asimismo, son sujetos las personas físicas o morales que organicen y tengan operando de manera interna servicios privados de seguridad así como establecimientos destinados a la prestación de servicios y que se encuentren bajo la responsabilidad directa de la empresa o institución que los organice.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+ART. 78 bis-2.- La base gravable de este derecho es la modalidad en el que el solicitante pretenda prestar los servicios privados de seguridad, en los términos de la Ley de Seguridad Pública del Estado, conforme a la siguiente:
+
+TARIFA
+
+CONCEPTO VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN SINALOA
+
+I.- Por el estudio y trámite de la solicitud
+
+para la autorización o para su revalidación:
+
+a).- Para prestar los servicios de
+
+vigilancia en inmuebles 30.00
+
+b).- Protección de personas 60.00
+
+c).- Investigaciones privadas 50.00
+
+d).- Para traslado y custodia de bienes
+
+muebles, fondos y valores 50.00
+
+II.- Por la expedición de la autorización o
+
+su revalidación:
+
+a).- Para prestar los servicios de
+
+vigilancia en inmuebles 30.00
+
+b).- Para protección de personas 30.00
+
+c).- Para investigaciones privadas 30.00
+
+d).- Para traslado y custodia de bienes
+
+muebles, fondos y valores 30.00
+
+III.- Por la inscripción de la empresa,
+
+organismo o institución en el Registro
+
+de Prestadores de Servicios Privados de
+
+Seguridad:
+
+a).- Para prestar los servicios de
+
+vigilancia en inmuebles 10.00
+
+b).- Para la protección de personas 10.00
+
+c).- Para investigaciones privadas 10.00
+
+d).- Para traslado y custodia de bienes
+
+muebles, fondos y valores 10.00
+
+IV.- Por la inscripción de cada miembro
+
+del personal de la empresa, organismo o
+
+institución en el Registro de Prestadores
+
+de Servicios Privados de Seguridad
+
+independientemente de su modalidad: 0.50
+
+V.- Por la supervisión de las empresas,
+
+organismos e instituciones en la
+
+modalidad de:
+
+a).- Para prestar los servicios de
+
+vigilancia en inmuebles 15.00
+
+b).- Para la protección de personas 25.00
+
+c).- Para investigaciones privadas 20.00
+
+d).- Para traslado y custodia de bienes
+
+muebles, fondos y valores 25.00
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO UNICO
@@ -2480,116 +2594,6 @@ ART. 116.- Cuando un impuesto del Estado sea condonado totalmente, y en forma ge
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 117.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras de Rentas del Estado y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Hacienda Pública y Tesorería.
-
-### CAPITULO XV. Impuesto sobre Almacenes y Espendios (sic) de Bebidas Alcohólicas
-
-ART. 218.- Son objeto de este impuesto los expendios de bebidas alcohólicas.
-
-ART. 219.- Son expendios de bebidas alcohólicas los establecimientos donde habitual o eventualmente se enajenen bebidas alcohólicas, en botella cerrada o al copeo con una finalidad de lucro o sin ella, aún cuando se vendan otros productos o presten servicios.
-
-ART. 220.- Son sujetos de este impuesto, los propietarios o poseedores de los expendios de bebidas alcohólicas o almacenistas de las mismas.
-
-ART. 221.- Para los efectos de este Capítulo se considera bebida alcohólica, todo líquida (sic) cuya graduación a la temperatura de 15 grados centígrados exceda de 2 grados G.L.
-
-ART. 222.- Las disposiciones contenidas en este Capítulo no le son aplicables a:
-
-I.- Los productos medicinales con graduación alcohólica cualquiera, que estén reconocidos como tales por la Secretaría de Salubridad y Asistencia;
-
-II.- La cerveza;
-
-III.- El aguamiel.
-
-ART. 223.- Para los efectos de esta Ley se consideran expendios de bebidas alcohólicas:
-
-I.- Almacenes.- Se entiende por almacén el depósito de bebidas alcohólicas para su distribución y venta al mayoreo;
-
-II.- Licorerías.- Se entiende por licorería el giro comercial que se dedique a la venta de vinos y licores para su consumo fuera del establecimiento, siempre que tales ventas se hagan en botella de envase cerrado y debidamente sellado;
-
-III.- Supermercados con venta de vinos y licores.- Aquellos establecimientos dedicados a este giro, que expendan bebidas alcohólicas al menudeo pero en envase cerreado (sic) para su consumo fuera del establecimiento;
-
-IV.- Cantinas.- Se entiende por cantina, el establecimiento donde se expendan bebidas alcohólicas al menudeo y para su consumo en el propio establecimiento;
-
-V.- Cabarets y Centros Nocturnos.- Establecimientos en se (sic) expendan bebidas alcohólicas al menudeo y al copeo para su consumo en el propio establecimiento.
-
-VI.- Restaurantes con venta de licores.- Aquellos establecimientos que se dediquen a este giro y expendan bebidas alcohólicas al copeo en la forma que autoriza la Ley sobre Control de Bebidas Alcohólicas y su reglamento.
-
-La venta al mayoreo, para los efectos de esta Ley es la que se hace a los particulares o empresas que gozan de licencia para la distribución y ventas de bebidas alcohólicas y la venta quese (sic) realice al público en cartón o caja cerrada.
-
-La venta al menudeo, en los términos de este Ordenamiento, es la que se hace por envase o botella cerrada o abierta, a los particulares para su consumo personal.
-
-ART. 224.- Unicamente en los expendios autorizados por el Gobierno del Estado para vender bebidas alcohólicas al copeo, se podrán tener éstas botellas o envases abiertos que deberán ser los mismos de origen y en los cuales deberán conservarse adheridos los marbetes oficiales de control. En caso contrario se considera que el impuesto sobre las bebidas citadas no ha sido enterado, sin que en contra de esta presunción se admita prueba en contrario.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 225.- Los causantes de este impuesto no podrán establecer expendios de bebidas alcohólicas en el mismo local o dependencia de sus fábricas, almacenes o bodegas. En caso contrario, la Secretaría de Hacienda Pública y Tesorería ordenará la clausura definitiva del expendio de acuerdo con esta Ley.
-
-ART. 226.- Los causantes de este impuesto, además de las que señalen las Leyes y Reglamentos, tendrán las siguientes obligaciones:
-
-I.- Solicitar previa a la apertura del negocio, una licencia para su funcionamiento en la forma que establece la Ley sobre control de Bebidas Alcohólicas y su Reglamento;
-
-II.- Presentar aviso de apertura en la Oficina Recaudadora de su jurisdicción, dentro de los 10 días siguientes a la fecha de iniciación de sus operaciones;
-
-III.- Efectuar los pagos del impuesto dentro de los términos que señala esta Ley;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-IV.- Garantizar el Interés Fiscal a satisfacción de la Secretaría de Hacienda Pública y Tesorería en la forma y términos que establece esta Ley;
-
-V.- Permitir las visitas de inspección de las autoridades fiscales y a proporcionar los informes y datos que les soliciten;
-
-VI.- Destruir inmediatamente los envases vacíos y conservarlos llenos o en uso con el marbete correspondiente;
-
-VII.- Verificar al recibir la mercancía, que se encuentra legalmente amparada con la documentación correspondiente y que los marbetes de control estén debidamente adheridos.
-
-ART. 227.- Los causantes de este impuesto pagarán una cuota mensual como sigue:
-
-T A R I F A
-
-C A T E G O R I A S
-
-Expen- Primera Segunda Tercera Cuarta
-
-dedores
-
-Almacenes $ 9,000.00 $ 7,000.00 $ 6,000.00 $ 4,000.00
-
-Licorerías $ 6,000.00 $ 4,000.00 $ 3,000.00 $ 2,000.00
-
-Super-
-
-Mercados 7,000.00 5,000.00 4,000.00 3,000.00
-
-Cantinas 8,000.00 6,000.00 5,000.00 3,000.00
-
-Cabarets
-
-y Centros
-
-Nocturnos 10,000.00 8,000.00 7,000.00 5,000.00
-
-Restaurantes
-
-con venta
-
-de bebidas
-
-alcohólicas. 6,000.00 4,000.00 3,000.00 2,000.00
-
-ART. 228.- Las cuotas consignadas en el Artículo anterior se causan independientemente de los impuestos a que se refieren los tres capítulos precedentes de esta Ley, en los casos en que un mismo causante realice actividades gravadas por las disposiciones tanto de este capítulo como de los tres capítulos citados.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 229.- Los causantes eventuales, pagarán una cuota de $ 250.00 a $ 1,000.00 diarios, a juicio de la Secretaría de Hacienda Pública y Tesorería.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 230.- La Secretaría de Hacienda Pública y Tesorería, por conducto de la Sub´Secretaría de Ingresos, fijará la cuota mensual a que se refiere el Artículo 227 anterior, de acuerdo con el Reglamento que para el efecto expida el Ejecutivo del Estado. Las cuotas asignadas surtirán sus efectos a partir de la fecha de iniciación de operaciones o a partir de la fecha en que sean modificados por la propia Secretaría de Hacienda Pública y Tesorería.
-
-ART. 231.- El causante de este impuesto pagará la cuota mensual que se le haya asignado de conformidad con este Capítulo, por meses adelantados, dentro de los primeros diez días del mes a que corresponda, en las Oficinas Recaudadoras de su jurisdicción.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 231 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ### CAPITULO XVI. Impuesto sobre Juegos Permitidos
 
@@ -3374,6 +3378,10 @@ Artículo Tercero.- En todas las leyes y reglamentos en los que se haga referenc
 Artículo Cuarto.- En todas las leyes y reglamentos en los que se mencione al Procurador Fiscal de la Secretaría de Hacienda Pública y Tesorería, éstas se entenderán hechas al Procurador Fiscal del Estado.
 
 Artículo Quinto.- La derogación del Capítulo II, del TÍTULO PRIMERO y sus artículos 9, 10, 11, 12, 13, 14, 15 y 16 de la Ley de Hacienda del Estado de Sinaloa, iniciará su vigencia el 01 de enero de 2002.
+
+P.O. 25 DE DICIEMBRE DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
