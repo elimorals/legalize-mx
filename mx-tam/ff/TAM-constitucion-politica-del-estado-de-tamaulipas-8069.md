@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1974-12-11"
+last_updated: "1975-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1975.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -539,7 +539,7 @@ XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de 
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
-XXIII.- Nombrar el Gobernador Interino en los casos a que se refiere el artículo 85 de esta Constitución, para que promulgue el Decreto convocando a elecciones en los términos y forma que dicha disposición constitucional establece y para que desempeñe el Poder Ejecutivo mientras se hace cargo del mismo el Gobernador Constitucional Substituto que resulte electo.
+XXIII. Nombrar el Gobernador Interino en los casos a que se refiere el artículo 85 de esta Constitución, para que promulgue el Decreto convocando a elecciones en los términos y forma que dicha disposición constitucional establece y para que desempeñe el Poder Ejecutivo mientras se hace cargo del mismo el Gobernador Constitucional Substituto que resulte electo.
 
 XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno.
 
@@ -1085,9 +1085,11 @@ El Secretario General de Gobierno sólo podrá litigar en negocios propios o de 
 
 El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gobernador por los decretos, reglamentos, circulares o acuerdos que firme.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1975)</small>
+
 ###### Art. 99.
 
-Las faltas temporales del Secretario General de Gobierno se suplirán por el Oficial Mayor de la Secretaría, quien tendrá mientras tanto las mismas prerrogativas, obligaciones y responsabilidades de aquel.
+El Ejecutivo a su vez, tendrá un "Subsecretario General de Gobierno", cuyas funciones serán las de coadyuvar con la Secretaría del Ramo y quien en ausencia temporal del titular de esta última, lo suplirá con las prerrogativas, obligaciones y responsabilidades que disponen los artículos 95, 96, 97 y 98 del presente Capítulo. Las faltas temporales del Subsecretario de Gobierno se suplirán por el Oficial Mayor.
 
 ## TITULO VI. DEL PODER JUDICIAL
 
@@ -1938,3 +1940,17 @@ P.O. 11 DE DICIEMBRE DE 1974.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La presente modificación a la Constitución Política, tendrá lugar por una sola vez, por lo que rendido el Informe pasadas las fechas que menciona seguirá en vigor el texto anterior.
+
+P.O. 19 DE FEBRERO DE 1975.
+
+###### ARTICULO PRIMERO.
+
+Para el cumplimiento de los efectos del presente decreto, adiciónese al Presupuesto de Egresos para el Ejercicio Fiscal de 1975, la Partida de gastos correspondientes mediante el decreto respectivo.
+
+###### ARTICULO SEGUNDO.
+
+Adiciónese en la parte relativa al Estatuto Jurídico de los Trabajadores al Servicio del Estado, con dicho cargo, que por lo expresado, deben considerarse de confianza, mediante el decreto respectivo.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
