@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2000-01-04"
+last_updated: "2000-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2000.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1011,7 +1011,9 @@ d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
 e) Homicidio, previsto en los artículos 315, 315 bis y 320;
 
-f) Secuestro, previsto en el artículo 366, salvo los casos previstos en los párrafos antepenúltimo y penúltimo de dicho artículo;
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+f) Secuestro, previsto en el artículo 366, salvo los dos párrafos últimos, y tráfico de menores, previsto en el artículo 366 ter.;
 
 g) Comercialización de objetos robados, previsto en el artículo 368 ter;
 
@@ -4397,49 +4399,91 @@ d) Que se realice con violencia, o
 
 e) Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto de quien ejecuta la privación de la libertad.
 
-Si espontáneamente se libera al secuestrado dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere la fracción I de este artículo y sin que se haya presentado alguna de las circunstancias previstas en la fracción II, la pena será de uno a cuatro años y de cincuenta a ciento cincuenta días multa.
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-En los demás casos en que espontáneamente se libere al secuestrado, sin lograr alguno de los propósitos a que se refiere la fracción I anterior, las penas de prisión aplicables serán hasta de tres a diez años y de doscientos cincuenta hasta quinientos días multa.
+III. Se aplicarán de veinticinco a cincuenta años de prisión y de cuatro mil a ocho mil días multa, cuando la privación de libertad se efectúe con el fin de trasladar a un menor de dieciséis años fuera de territorio nacional, con el propósito de obtener un lucro indebido por la venta o la entrega del menor.
 
-> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-En caso de que el secuestrado sea privado de la vida, por su o sus secuestradores, la pena será de cuarenta a sesenta años de prisión.
+Se impondrá una pena de treinta a cincuenta años de prisión al o a los secuestradores, si a la víctima del secuestro se le causa alguna lesión de las previstas en los artículos 291 a 293 de este Código.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-ARTICULO 366 bis.- Se impondrá de uno a ocho años de prisión y de doscientos a mil días multa, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
+En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, se aplicará pena de hasta setenta años de prisión.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Si espontáneamente se libera al secuestrado dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refieren las fracciones I y III de este artículo y sin que se haya presentado alguna de las circunstancias previstas en la fracción II, la pena será de dos a seis años y de cincuenta a ciento cincuenta días multa.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+En los demás casos en que espontáneamente se libere al secuestrado, sin lograr alguno de los propósitos a que se refieren las fracciones I y III de este artículo, las penas de prisión aplicables serán de cinco a quince años y de doscientos cincuenta hasta quinientos días multa.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+ARTICULO 366 bis.- Se impondrá pena de dos a diez años de prisión y de doscientos a mil días multa, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
 
 I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
+
 II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
 
 III. Actúe como asesor con fines lucrativos de quienes representen o gestionen en favor de la víctima, evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
+
 IV. Aconseje el no presentar la denuncia del secuestro cometido, o bien el no colaborar o el obstruir la actuación de las autoridades;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
 
 V. Efectúe el cambio de moneda nacional por divisas, o de éstas por moneda nacional sabiendo que es con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo anterior, y
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
+
 VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 366 BIS], D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-ARTICULO 366 TER.- Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará pena de prisión de dos a nueve años y de doscientos a quinientos días multa.
+ARTICULO 366 ter.- Comete el delito de tráfico de menores, quien traslade a un menor de dieciséis años de edad o lo entregue a un tercero, de manera ilícita, fuera del territorio nacional, con el propósito de obtener un beneficio económico indebido por el traslado o la entrega del menor.
 
-La misma pena a que se refiere el párrafo anterior se aplicará a los que otorguen el consentimiento a que alude este numeral y al tercero que reciba al menor.
+Cometen el delito a que se refiere el párrafo anterior:
 
-Si la entrega definitiva del menor se hace sin la finalidad de obtener un beneficio económico, la pena aplicable al que lo entrega será de uno a tres años de prisión.
+I. Quienes ejerzan la patria potestad o custodia sobre el menor, aunque no haya sido declarada, cuando realicen materialmente el traslado o la entrega o por haber otorgado su consentimiento para ello;
 
-Si se acredita que quien recibió al menor lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal incorporación, la pena se reducirá hasta la cuarta parte de la prevista en el párrafo anterior.
+II. Los ascendientes sin límite de grado, los parientes colaterales y por afinidad hasta el cuarto grado, así como cualquier tercero que no tenga parentesco con el menor.
 
-Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo primero, la pena se aumentará hasta el doble de la prevista en aquél.
+Se entenderá que las personas a que se refiere el párrafo anterior actúan de manera ilícita cuando tengan conocimiento de que:
 
-Además de las sanciones señaladas, se privará de los derechos de patria potestad, tutela o custodia, en su caso, a quienes teniendo el ejercicio de éstos, cometan el delito a que se refiere el presente artículo.
+a) Quienes ejerzan la patria potestad o la custodia del menor no han otorgado su consentimiento expreso para el traslado o la entrega, o
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+b) Quienes ejerzan la patria potestad o la custodia del menor obtendrán un beneficio económico indebido por el traslado o la entrega.
 
-ARTICULO 366 quáter.- Cuando el ascendiente sin limitación de grado o pariente consanguíneo colateral o por afinidad hasta el cuarto grado de un menor, lo sustraiga o cambie del domicilio donde habitualmente reside, lo retenga o impida que regrese al mismo, sin la autorización de quienes ejercen la patria potestad o resolución de autoridad competente, no permitiendo a la madre o al padre convivir con el menor o visitarlo, se le aplicará una pena de uno a tres años de prisión y de treinta a trescientos días multa.
+III. La persona o personas que reciban al menor.
 
-Este delito se perseguirá por querella de la parte ofendida.
+A quienes cometan el delito a que se refiere el presente artículo se les impondrá una pena de tres a diez años de prisión y de cuatrocientos a mil días multa.
+
+Además de las sanciones señaladas en el párrafo anterior, se privará de los derechos de patria potestad, tutela o custodia a quienes, en su caso, teniendo el ejercicio de éstos cometan el delito a que se refiere el presente artículo.
+
+Se aplicarán hasta las dos terceras partes de las penas a las que se refiere este artículo, cuando el traslado o entrega del menor se realicen en territorio nacional.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+ARTICULO 366 quáter.- Las penas a que se refiere el artículo anterior se reducirán en una mitad cuando:
+
+I. El traslado o entrega del menor se realice sin el propósito de obtener un beneficio económico indebido, o
+
+II. La persona que reciba al menor tenga el propósito de incorporarlo a su núcleo familiar.
+
+Se impondrán las penas a que se refiere este artículo al padre o madre de un menor de dieciséis años que de manera ilícita o sin el consentimiento de quien o quienes ejerzan la patria potestad o la custodia del menor, sin el propósito de obtener un lucro indebido, lo trasladen fuera del territorio nacional con el fin de cambiar su residencia habitual o impedir a la madre o padre, según sea el caso, convivir con el menor o visitarlo.
+
+Además, se privará de los derechos de patria potestad, tutela o custodia a quienes, en su caso, teniendo el ejercicio de éstos cometan el delito a que se refiere el presente artículo.
+
+En los casos a que se refiere este artículo, el delito se perseguirá a petición de parte ofendida.
 
 (REUBICADO [N. DE E. ANTES TITULO VIGESIMO TERCERO], D.O.F. 29 DE JULIO DE 1970)
 
@@ -5351,7 +5395,7 @@ EL DECRETO DE REFORMAS, CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 ###### ARTICULO 4°.
 
-Esta Ley entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
+Está Ley entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
 
 D.O.F. 10 DE NOVIEMBRE DE 1939.
 
@@ -5894,3 +5938,15 @@ SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan
 D.O.F. 4 DE ENERO DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JUNIO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En un plazo no mayor de seis meses, el Ejecutivo Federal deberá crear la estructura administrativa necesaria en la Procuraduría General de la República para la atención de los delitos previstos en los artículos 366, fracción III; 366 ter y 366 quáter previstos en este Decreto.
+
+Para los efectos del párrafo anterior, se autoriza al Ejecutivo Federal para hacer las adecuaciones presupuestarias que resulten necesarias.
+
+TERCERO.- Los delitos previstos en los artículos 366 ter y 366 quáter del Código Penal Federal vigentes con anterioridad a la fecha de entrada en vigor de este Decreto, seguirán aplicándose respecto de hechos cometidos durante su vigencia.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
