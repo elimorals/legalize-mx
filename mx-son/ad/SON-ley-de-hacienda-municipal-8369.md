@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1985-12-30"
+last_updated: "1986-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1986.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -514,6 +514,10 @@ En los casos de traslación de dominio, el reavalúo cuando proceda, entrará en
 La cuota del Impuesto Predial es anual, pero su importe se pagará trimestralmente, durante los meses de enero, abril, julio y octubre, pudiendo hacerse por anualidad anticipada.
 
 El pago por anualidad anticipada del Impuesto Predial, no impide el cobro de diferencias que deba hacer la Tesorería Municipal, por cambio de las bases gravables o alteración de las cuotas del impuesto.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1986)</small>
+
+No obstante lo dispuesto en el primer párrafo de este artículo, el pago de la cuota mínima, en todos los casos, se hará mediante una sola exhibición en el mes de enero de cada año.
 
 ###### ARTICULO 62.
 
@@ -1250,3 +1254,7 @@ UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Bo
 B.O. 30 DE DICIEMBRE DE 1985.
 
 UNICO.- La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1o. de enero de 1986.
+
+B.O. 29 DE DICIEMBRE DE 1986.
+
+UNICO.- La presente Ley entrará en vigor, previa publicación en el Boletín Oficial del Gobierno del Estado, el día 1o. de enero de 1987.
