@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2004-02-28"
+last_updated: "2004-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,47 +21,29 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
+LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2004.
 
-Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
-PRESIDENCIA MUNICIPAL PACHUCA DE SOTO, ESTADO DE HIDALGO.
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-HONORABLE AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO.
+Enrique Alvarez del Castillo, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber:
 
-El C. Eleazar Eduardo García Sánchez, en mi carácter de Presidente Municipal de Pachuca de Soto, Estado de Hidalgo; a sus habitantes hace saber:
+Que por la Secretaría del H. Congreso del Estado se me ha comunicado el siguiente
 
-Con fundamento en los artículos 115 fracción II párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, 115, 122, 123 y 141 fracción II de la Constitución Política del Estado de Hidalgo, 1, 2, 3, 7 y 56 fracción I, inciso a), 69, fracción IX, 70, 71 fracción I inciso d), 72, 189, 190 y 191 de la Ley Orgánica Municipal del Estado; artículos 1, 2, 3, 6, 7, 9 fracciones II, VII, VIII, XIII, XIV, XVI, XIX, 10, 11 fracción III, 12, 13 inciso a), 14, 33, 56 párrafo primero, 57, 75, 95, 96, 97, 104, 105 fracción IV, 110, 127, 128, 130 y 132 del Reglamento Interior del Honorable Ayuntamiento de Pachuca de Soto y demás relativas aplicables y vigentes que facultan al Ayuntamiento para expedir los Reglamentos y demás disposiciones dentro del ámbito de su competencia, ponemos a la atenta consideración de este Honorable Cuerpo Colegiado, la presente iniciativa con proyecto de decreto POR MEDIO DEL CUAL SE ABROGA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO, CONTENIDO EN EL DECRETO NÚMERO DIECISIETE PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DÍA 08 DE DICIEMBRE DEL AÑO 2008 Y CREA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO, al tenor de la siguiente:
+DECRETO
 
-R E L A T O R Í A
+Número 11558. El Congreso del Estado decreta:
 
-PRIMERO. Durante el desarrollo de la Vigésima Segunda Sesión Ordinaria Pública celebrada el día 06 de diciembre del año dos mil doce, fue aprobada por Unanimidad de Votos el turno a comisiones la propuesta presentada por el Ing. Eleazar Eduardo García Sánchez, Presidente Constitucional del Ayuntamiento de Pachuca de Soto, estado de Hidalgo, mediante la cual propone EL DECRETO POR MEDIO DEL CUAL SE ABROGA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO, CONTENIDO EN EL DECRETO NÚMERO DIECISIETE PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DÍA 08 DE DICIEMBRE DEL AÑO 2008 Y CREA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO.
-
-SEGUNDO. El Lic. Hugo Espinosa Quiroz, Secretario del Honorable Ayuntamiento, envió el oficio con clave SA/OM/162/2012 bajo el expediente identificado como SA/DP/056/2012, a la Comisión Permanente de Gobernación, Bandos, Reglamentos y Circulares, para su estudio, análisis, discusión y dictamen correspondiente.
-
-TERCERO. Una vez turnada la solicitud respectiva a la Comisión asignada, la Comisión Permanente de Gobernación, Bandos, Reglamentos y Circulares procedió a su estudio, análisis y discusión, para ello con fecha 08 de febrero del año 2013, se llevó a cabo la Décima Segunda Sesión Ordinaria, mediante votación unánime de los integrantes de la Comisión se declara en sesión Permanente y se continúa con la sesión los días 11, 13, 18, 19, 20, 26 y 27 de febrero; 11 y 14 de marzo; 8 de abril; 13 de mayo; 03 de junio; 08 de julio, 01 de agosto del presente año, previa declaración de los recesos correspondientes, para que el día de hoy miércoles 21 de agosto de 2013, se presenta el dictamen correspondiente a los integrantes de la Comisión en base a los siguientes:
-
-CONSIDERANDOS
-
-[...]
-
-Por todo lo anterior, se somete a la consideración del H. Ayuntamiento el siguiente Dictamen que contiene el Proyecto de Resolutivo con el siguiente:
-
-ACUERDO
-
-ÚNICO.- Emítase el decreto que crea el REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO. Para quedar de la siguiente manera:
-
-DECRETO MUNICIPAL NÚMERO SIETE
-
-QUE CONTIENE EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
+Ley de Hacienda Municipal del estado de Jalisco
 
 # LIBRO PRIMERO. Disposiciones Preliminares
 
-## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+## TITULO UNICO
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1.
 
@@ -183,9 +165,9 @@ Son Contribuciones Especiales, las prestaciones que fije la Ley a quienes, indep
 
 Son Derechos, las contraprestaciones establecidas en la Ley, por los servicios que presten los Municipios en sus funciones de derecho público.
 
-###### Art. 6.
+###### Art. 6°.
 
-° Son productos, los ingresos que perciben los Municipios por actividades que no correspondan a sus funciones propias de derecho público; así como por la explotación o venta de sus bienes patrimoniales, de dominio privado.
+Son productos, los ingresos que perciben los Municipios por actividades que no correspondan a sus funciones propias de derecho público; así como por la explotación o venta de sus bienes patrimoniales, de dominio privado.
 
 ###### Art. 7°.
 
@@ -283,7 +265,7 @@ Los impuestos, contribuciones especiales, derechos, aprovechamientos, participac
 
 Los productos se regularán por las disposiciones legales indicadas en el párrafo anterior o por lo que, en su caso, prevengan los contratos o concesiones respectivas.
 
-### CAPÍTULO I. DEL AYUNTAMIENTO DEL MUNICIPIO DE PACHUCA DE SOTO
+### CAPITULO II. De las Autoridades Fiscales, sus Atribuciones y del Procedimiento Administrativo
 
 ###### ARTÍCULO 8.
 
@@ -505,7 +487,7 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones fiscales, estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva, no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los servidores públicos encargados de la administración y la defensa de los intereses fiscales del municipio, a las autoridades judiciales en proceso del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias.
 
-### CAPÍTULO II. DEL PRESIDENTE MUNICIPAL
+### CAPITULO III. De los Sujetos, sus Derechos y Obligaciones
 
 ###### ARTÍCULO 15.
 
@@ -753,7 +735,7 @@ En los casos de cambio de nombre, denominación o razón social, domicilio o act
 
 Cuando un establecimiento sea objeto de traspaso, simultáneamente al aviso correspondiente, el adquirente deberá cumplir con la obligación de registrarse o empadronarse.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DEL PRESIDENTE MUNICIPAL
+### CAPITULO IV. Del Nacimiento y Extinción de los Créditos Fiscales
 
 ###### ARTÍCULO 19.
 
@@ -1087,15 +1069,33 @@ Los particulares podrán solicitar que se declare la prescripción de algún cr�
 
 Si la autoridad determina el crédito o realiza el cobro, sólo podrá ejercitarse el recurso establecido en esta Ley. Contra la resolución que declare y funde la negativa de prescripción o caducidad, será competente el Tribunal de lo Contencioso Administrativo.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2004)</small>
+
 ###### Art. 64.
 
-Procederá la cancelación de los créditos fiscales, por incosteabilidad o insolvencia; debiendo recaer acuerdo escrito sobre el particular, en los siguientes casos:
+La Tesorería Municipal, previa autorización del Ayuntamiento, podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor, de los responsables solidarios o de los responsables objetivos; en los siguientes casos:
 
-I. Cuando su importe sea menor de una sexta parte del salario mínimo diario, y no se pague espontáneamente, dentro de los 90 días siguientes a la fecha de que sea exigible.
+I. Se consideran créditos de cobro incosteable:
 
-Sólo se aplicará esta regla cuando se trate de un solo crédito fiscal a cargo de un solo deudor.
+a) Aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a cuatro tantos del salario mínimo vigente, y no se pague voluntariamente, dentro de los 90 días siguientes a la fecha en que sea exigible.
 
-II. Si existieren varios créditos menores del importe señalado en la fracción anterior, a cargo de un sólo deudor, procederá la acumulación de los mismos para los efectos de cobro.
+b) Aquellos cuyo importe sea inferior o igual a trescientos tantos del salario mínimo vigente, y cuyo costo de recuperación rebase el 75% del importe del crédito, y no se pague voluntariamente, dentro de los 90 días siguientes a la fecha en que sea exigible.
+
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
+c) Aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+
+II. Se consideran insolventes, en el siguiente orden de preferencia, los deudores, responsables solidarios o responsables objetivos:
+
+a) Cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado;
+
+b) Cuando no se puedan localizar de conformidad a los procedimientos legales.
+
+c) Cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados, por este artículo.
+
+El Ayuntamiento de cada municipio, deberá dar a conocer las reglas de carácter general, para la aplicación de este artículo.
 
 ###### Art. 65.
 
@@ -1107,11 +1107,9 @@ Unicamente el Congreso del Estado, mediante disposición de carácter general, p
 
 # LIBRO SEGUNDO. De los Ingresos
 
-## TÍTULO SEGUNDO. DE LOS ÓRGANOS DE GOBIERNO Y DE ADMINISTRACIÓN DEL MUNICIPIO
+## TITULO PRIMERO. Impuestos
 
-### CAPÍTULO I
-
-DE LAS DISPOSICIONES GENERALES PARA LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO.
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTÍCULO 26.
 
@@ -1401,7 +1399,7 @@ Los Impuestos se liquidarán y pagarán, de conformidad con las tarifas, tasas o
 
 En el caso de celebrarse convenios entre los gobiernos Estatal y Municipal para la recaudación de los Impuestos establecidos en este título se estará a lo señalado en los convenios respectivos.
 
-### CAPÍTULO II. DE LAS UNIDADES DE APOYO AL PRESIDENTE MUNICIPAL
+### CAPITULO II. Impuesto sobre Actividades Comerciales Industriales y de Prestación de Servicios
 
 ###### ARTÍCULO 34.
 
@@ -1637,42 +1635,6 @@ La Junta Municipal de Reclutamiento tendrá como funciones específicas la inscr
 
 La Secretaría de Planeación y Evaluación es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal en la conducción de la política para laevaluación (sic) de las metas y objetivos derivados del Plan Municipal de Desarrollo, la coordinación de los proyectos estratégicos, las relaciones interinstitucionales, así como en el fomento a la innovación gubernamental, con el propósito de instrumentar acciones comprometidas con una administración eficaz y eficiente.
 
-###### ARTÍCULO 43.
-
-A la o el Titular de la Secretaría de Planeación y Evaluación, le corresponderá el despacho de las siguientes atribuciones:
-
-I. Proponer las normas y lineamientos para conducir el proceso de planeación y evaluación en las secretarías y entidades de la Administración Pública Municipal;
-
-II. Coordinar, planear y organizar el Sistema Municipal de Evaluación del Plan Municipal de Desarrollo y de los programas, proyectos y acciones que efectúen en el ámbito de su competencia las secretarías y entidades de la Administración Pública Municipal, estableciendo indicadores estratégicos para su evaluación;
-
-III. Formular y proponer políticas, lineamientos y estrategias a través de las cuales se procure la alineación de proyectos de inversión, programas, metas y resultados a cargo de las secretarías y entidades de la Administración Pública Municipal con el Plan Municipal de Desarrollo;
-
-IV. Proponer las normas y procedimientos para que la elaboración de planes, programas y proyectos de la Administración Pública Municipal se apeguen a lo señalado en el Plan Municipal de Desarrollo;
-
-V. Evaluar los resultados del programa de inversión a realizarse en el Municipio;
-
-VI. Establecer la coordinación, control técnico, supervisión y evaluación de los proyectos estratégicos del Municipio, solicitando la participación de las secretarías y entidades de la Administración Pública Municipal, cuando así se convenga;
-
-VII. Proponer los lineamientos específicos para la integración de expedientes técnicos que elaboren las secretarías y entidades de la Administración Pública Municipal, para el desarrollo de programas y proyectos;
-
-VIII. Generar los mecanismos para que se realice el seguimiento, control, supervisión y evaluación de metas de la Administración Pública Municipal;
-
-IX. Coordinar la generación de estudios, diagnósticos y análisis que permitan contar con información relevante y recomendaciones de carácter técnico relacionadas con la Administración Pública Municipal;
-
-X. Coordinar las acciones mediante las cuales la o el Presidente Municipal establezca relaciones institucionales con los distintos sectores, organismos y otros órdenes de gobierno, así como con las diferentes organizaciones de la sociedad civil;
-
-XI. Coordinar la política internacional de la Administración Pública Municipal en el ámbito de su competencia;
-
-XII. Diseñar, dar mantenimiento y actualizar el portal de Internet de la Presidencia Municipal, supervisando que la información que se sube al portal cumpla con los requisitos de imagen que maneja el Municipio;
-
-XIII. Coadyuvar en la generación de políticas que promuevan la innovación gubernamental, el uso de tecnologías de la información y el desarrollo de los sistemas administrativos en las secretarías y entidades;
-
-XIV. Proponer el desarrollo y utilización de las tecnologías de (sic) información y comunicaciones en la Administración Pública Municipal;
-
-XV. Analizar las diferentes fuentes de financiamiento, que permitan el desarrollo de programas y proyectos estratégicos en el Municipio; y
-
-XVI. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o el Presidente Municipal.
-
 ###### Art. 69.
 
 Es objeto de este impuesto la realización de actividades comerciales, industriales y de prestación de servicios.
@@ -1717,7 +1679,7 @@ VIII. Las asociaciones de obreros y campesinos constituidas para la producción 
 
 IX. La enajenación de valores y de títulos de crédito.
 
-### CAPÍTULO III. DE LA SECRETARÍA GENERAL MUNICIPAL
+### CAPITULO III. Impuesto sobre Diversiones Públicas
 
 ###### Art. 74.
 
@@ -1793,7 +1755,7 @@ I. Los bienes inmuebles en que se exploten diversiones públicas, cuando sean pr
 
 II. El equipo y las instalaciones que se utilicen en la diversión.
 
-### CAPÍTULO IV. DE LA SECRETARÍA DE PLANEACIÓN Y EVALUACIÓN
+### CAPITULO IV. Impuesto sobre Matanza de Ganado, Aves y otras Especies Animales
 
 ###### Art. 81.
 
@@ -1817,7 +1779,7 @@ El pago de este impuesto se hará en forma anticipada, en la Tesorería Municipa
 
 Los contribuyentes de este impuesto están obligados a efectuar la matanza de animales en los Rastros Municipales o en los lugares que para ese efecto autorice el Presidente Municipal, debiendo dar aviso a la Tesorería Municipal. Asimismo, están obligados a comprobar la propiedad de los animales.
 
-### CAPÍTULO V. DE LA SECRETARÍA DE LA TESORERÍA MUNICIPAL
+### CAPITULO V. Impuesto sobre Posesión y Explotación de Carros Fúnebres
 
 ###### Art. 86.
 
@@ -1843,239 +1805,9 @@ Estarán exentas del pago de este impuesto, las instituciones de asistencia y se
 
 Los contribuyentes de este impuesto, simultáneamente a la presentación de su solicitud de empadronamiento, deberán presentar a la Tesorería Municipal, una relación de las unidades que posean y exploten, así como todos los datos que ésta exija, manifestando las altas y bajas de dichas unidades cuando éstas ocurran.
 
-### CAPÍTULO VI. DE LA SECRETARÍA DE SERVICIOS PÚBLICOS MUNICIPALES
+### CAPITULO VI. Del Impuesto Predial
 
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
-
-###### ARTÍCULO 54.
-
-La Secretaría de Servicios Públicos Municipales es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política sobre la conservación, control y mantenimiento del patrimonio inmobiliario y de infraestructura del Municipio de Pachuca de Soto, con el propósito central de asegurar que en la jurisdicción municipal se cuente con alumbrado público, una vigilancia sobre la sanidad en el panteón, rastro, centro canino; limpia, garantizando la recolección, traslado, tratamiento y disposición final de residuos; manejo de las cuadrillas de limpia en calles, parques, jardines y su equipamiento, a través de una gestión pública municipal comprometida con una administración eficaz y eficiente, en el manejo de los recursos asignados.
-
-###### ARTÍCULO 55.
-
-A la o el Titular de la Secretaría de Servicios Públicos Municipales le corresponde el despacho de las siguientes atribuciones:
-
-I. Planear, las estrategias y lineamientos, mediante los cuales sean instrumentados, aprobados, ejecutados, seguidos y evaluados, los proyectos municipales de sanidad, alumbrado público, orientados al mantenimiento, conservación y mejoramiento de los bienes públicos municipales;
-
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2020)</small>
-
-II. Elaborar, ejecutar y supervisar el Programa Anual de Mantenimiento Preventivo y Correctivo en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad de la Infraestructura Urbana del Municipio en las áreas de alumbrado público, relleno sanitario, parques y jardines, panteones y del rastro municipal.
-
-III. Elaborar un informe estimativo de los daños provocados a la infraestructura urbana o al patrimonio municipal, en las áreas que sean de su competencia en los casos de accidentes en los cuales ésta se vea afectada;
-
-IV. Atender las solicitudes y necesidades que la ciudadanía presente llevando un control y seguimiento de las mismas para la elaboración de informes y reportes que le sean requeridos;
-
-V. Planear la organización y funcionamiento de la recolección, traslado, tratamiento y disposición final de residuos, en base a objetivos, normas, políticas y criterios para la óptima administración de las áreas abocadas a funciones de limpieza;
-
-VI. Regular y supervisar continuamente los servicios de limpia, recolección, traslado, tratamiento y disposición final de residuos, brindado por el Municipio o concesionado procurando su vinculación con el modelo de limpia, tratamiento y destino de desechos sólidos del Estado, bajo criterios de eficiencia, productividad y ahorro en el gasto público, mayor cercanía y calidad de servicios a la población;
-
-VII. Instrumentar estrategias y lineamientos a través de los cuales se controlen, supervisen y evalúen los procesos y procedimientos abocados a la recolección, traslado, tratamiento y disposición final de residuos;
-
-VIII. Supervisar la ejecución de campañas de limpieza y separación de desechos orgánicos e inorgánicos que eviten la proliferación de basura y desechos sólidos por el Municipio;
-
-IX. (DEROGADA, P.O. 5 DE MAYO DE 2020)
-
-X. (DEROGADA, P.O. 5 DE MAYO DE 2020)
-
-XI. (DEROGADA, P.O. 5 DE MAYO DE 2020)
-
-XII. (DEROGADA, P.O. 5 DE MAYO DE 2020)
-
-XIII. Vigilar la observancia del Reglamentode (sic) Panteones para el Municipio de Pachuca, de Soto Hidalgo;
-
-XIV. Establecer los lineamientos para la organización, consolidación y regulación de los servicios de velación, traslado inhumación y cremación de cadáveres y restos humanos, áridos o cremados; asimismo, disponer los objetivos, normas, políticas y criterios para la óptima administración de las unidades administrativas destinadas al desahogo de estos asuntos, procurar su vinculación con el modelo sanitario del Estado, bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
-
-XV. Administrar, supervisar, controlar y regular los panteones municipales, así como los servicios de inhumación que preste el municipio a la población por medio de sus instalaciones;
-
-XVI. Establecer los lineamientos y requisitos para la administración y control de las concesiones de terrenos para inhumaciones;
-
-XVII. Proponer a la o el Presidente Municipal, en el ámbito de su competencia, aquellos servicios públicos que puedan ser sujetos de concesión a los particulares;
-
-XVIII. Controlar los productos cárnicos que ingresen al Municipio, verificando la propiedad y procedencia de los animales, prestando el servicio de rastro público y sacrificio de animales, cumpliendo las normas de sanidad e higiene que produzcan carne apta para el consumo humano;
-
-XIX. Controlar y supervisar el pago de derechos por concepto de sacrificio de animales;
-
-XX. Administrar los espacios destinados a la compra venta de ganado en pie y en canal;
-
-XXI. Supervisar el cumplimiento de la reglamentación y normatividad aplicable a los rastros públicos y privados;
-
-XXII. Elaborar, implementar y evaluar el Proyecto Rector de Mantenimiento del Alumbrado Público del Municipio; asimismo, colaborar con las dependencias estatales y federales competentes, en la ejecución y vigilancia de dicho programa;
-
-XXIII. Organizar y supervisar el mantenimiento del alumbrado público y el ahorro de energía, así como elaborar conjuntamente con la Comisión Federal de Electricidad el censo de luminarias en el Municipio;
-
-XXIV. Coordinar, ejecutar y supervisar las brigadas de limpieza de las calles, plazas, jardines y lugares públicos;
-
-XXV. Supervisar, conservar y equipar los parques y lugares públicos, así como procurar que estos lugares sean atractivos para la población, estableciendo programas de riego, poda, abono y reforestación, así como el retiro de los árboles que pongan en riesgo a las personas, los bienes o la infraestructura urbana o de aquellas que hayan cumplido su ciclo de vida;
-
-XXVI. Promover, en coordinación con las diferentes Secretarías Municipales, la modernización y el mejoramiento de sistemas e infraestructura para el manejo de los mercados públicos municipales que fomente el abasto y el comercio interior;
-
-XXVII. Administrar y controlar los mercados y tianguis públicos municipales a fin de garantizar su correcta operación y funcionamiento;
-
-XXVIII. Cumplir y hacer cumplir la Ley de Ingresos, Cuotas y Tarifas que corresponda en coordinación con la Secretaría de (sic) Tesorería, en las actividades de su competencia;
-
-XXIX. Otorgar, registrar y dar seguimiento a las concesiones y permisos en el ámbito de su responsabilidad, solicitando la intervención de las autoridades competentes cuando corresponda;
-
-XXX. Establecer mecanismos de coordinación con la Secretaría de Desarrollo Económico Municipal, fomentar la asociación de pequeños productores en unidades de producción, que estén orientadas a favorecer la tecnificación, financiamiento, industrialización y comercialización de sus productos; y
-
-XXXI. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o él Presidente Municipal.
-
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
-
-###### ARTÍCULO 56.
-
-Para el cumplimiento de su objeto y despacho de las funciones y atribuciones a su cargo, la Secretaría de Servicios Públicos Municipales contará con la siguiente estructura:
-
-I. Dirección de Sanidad Municipal;
-
-II. Dirección de Alumbrado Público; y
-
-III. Dirección de Mercados, Comercio y Abasto.
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
-
-IV. Dirección del Rastro Municipal o Dirección del Rastro Municipal Metropolitano.
-
-###### ARTÍCULO 57.
-
-A la Dirección de Sanidad Municipal le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Establecer las estrategias de coordinación con las instancias municipales, estatales y federales; en materia de sanidad antirrábica disponiendo de objetivos, normas, políticas y criterios para la óptima administración de las unidades que se establezcan para su atención;
-
-II. Coadyuvar con el funcionamiento del Centro Antirrábico de la zona metropolitana de Pachuca de Soto, en coordinación con las diferentes instancias federales, estatales y municipales que intervengan en su operación;
-
-III. Programar y ejecutar campañas de vacunación antirrábica y esterilización canina y felina;
-
-IV. Emitir una tarjeta y una placa para aquellos animales que se vacunen, que acredite al propietario del animal, el año y el número de registro de la vacuna correspondiente;
-
-V. Realizar un registro de los animales que hayan estado internados en el Departamento de Control Animal, permitiendo la obtención de datos de las enfermedades más comunes en los animales;
-
-VI. Proporcionar el servicio de esterilización de las especies caninas y felinas que le sean solicitadas por la población;
-
-VII. Otorgar el internamiento y observación en el área destinada dentro del Centro Antirrábico Municipal para los animales sospechosos de causar enfermedades;
-
-VIII. Difundir programas de concientización y de prevención de enfermedades caninas y felinas del Municipio;
-
-IX. Administrar y controlar los servicios funerarios, de inhumación que preste el municipio a la población por medio de sus instalaciones, y en los panteones municipales, las inhumaciones, re-inhumaciones, cremaciones y exhumaciones en los términos legales que correspondan;
-
-X. Administrar y controlar las concesiones de terrenos para inhumaciones;
-
-XI. Suministrar agua, mantenimiento de piletas, deshierbe de avenidas, calzadas y andadores, recolección de basura entre otros para el adecuado funcionamiento del panteón;
-
-XII. Proporcionar a las autoridades y a los particulares interesados, la información que soliciten respecto a la ubicación y al estado administrativo de las tumbas;
-
-XIII. Administrar y mantener limpio y en buen funcionamiento el horno de cremación del panteón municipal;
-
-XIV. Supervisar las actividades que se lleven a cabo en el espacio asignado al área de nichos y resteros (sic);
-
-XV. (DEROGADA, P.O. 28 DE MARZO DE 2022)
-
-XVI. (DEROGADA, P.O. 28 DE MARZO DE 2022)
-
-XVII. (DEROGADA, P.O. 28 DE MARZO DE 2022)
-
-XVIII. (DEROGADA, P.O. 28 DE MARZO DE 2022)
-
-XIX. (DEROGADA, P.O. 28 DE MARZO DE 2022)
-
-XX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 58.
-
-A la Dirección de Alumbrado Público le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Elaborar y ejecutar los programas de mantenimiento preventivo y correctivo a la red de alumbrado público del Municipio;
-
-II. Atender y dar seguimiento a los reportes que realice la ciudadanía en materia de alumbrado público elaborando un reporte mensual para la o él Titular de la Secretaría de las acciones implementadas;
-
-III. Elaborar estudios y programas enfocados al ahorro de energía eléctrica, proponiendo a la o a él Titular de la Secretaría la aplicación de medidas que promuevan la eficiencia del servicio de alumbrado público en el Municipio y el cambio gradual de luminarias ahorradoras;
-
-IV. Elaborar en conjunto con la Comisión Federal de Electricidad, el censo actualizado de luminarias en el Municipio;
-
-V. Coordinarse con la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad, para establecer los criterios y normas técnicas de las obras de alumbrado público que se ejecuten en el Municipio;
-
-VI. Dar la autorización a las instalaciones que realicen los fraccionamientos o conjuntos urbanos, cuando hagan entrega de los mismos, en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad; y
-
-VII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 59.
-
-A la Dirección de Mercados, Comercio y Abasto le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Administrar y controlar los mercados públicos municipales a fin de garantizar su correcta operación y funcionamiento;
-
-II. Llevar el control y censo de los locatarios de los mercados públicos municipales y de los tianguistas, así como vigilar el orden y limpieza dentro de los mismos;
-
-III. Diseñar en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad del Municipio, programas para el mantenimiento preventivo y mejora de la infraestructura de los mercados públicos municipales y las áreas ocupadas por los tianguistas;
-
-IV. Aplicar la reglamentación y normatividad específica al funcionamiento de los mercados municipales y áreas de tianguistas;
-
-V. Integrar los expedientes administrativos a través de los cuales se otorguen las concesiones, permisos y licencias mediante las cuales las personas que realizan actividades de comercio en los mercados públicos municipales, tianguis y vía pública, acrediten sus derechos;
-
-VI. Supervisar y procesar los trámites para la revocación de las concesiones, siguiendo el procedimiento establecido para éstos;
-
-VII. Realizar reuniones periódicas con los locatarios y tianguistas para dar solución a los problemas que presenten;
-
-VIII. Informar mensualmente al Titular de la Secretaría el estado de movimientos de solicitudes y permisos realizados por los locatarios y tianguistas;
-
-IX. Elaborar las actas de decomiso de mercancías;
-
-X. Realizar los decomisos de mercancía en venta que contravenga las disposiciones reglamentarias vigentes;
-
-XI. Efectuar las devoluciones de mercancía decomisada previa verificación del pago de la multa correspondiente;
-
-XII. Autorizar las modificaciones al giro de los locales comerciales de los mercados públicos municipales y tianguis, previa verificación del cumplimiento a la reglamentación municipal;
-
-XIII. Expedir los permisos para venta en vía pública;
-
-XIV. Fomentar la asociación de pequeños productores en unidades de producción, que estén orientadas a favorecer la tecnificación, financiamiento, industrialización y comercialización de sus productos de acuerdo con la coordinación establecida con la Secretaría de Desarrollo Económico;
-
-XV. Coordinar con las diferentes Secretarías Municipales, Estatales y Federales la modernización y el mejoramiento de sistemas e infraestructura para el abasto y el comercio interior;
-
-XVI. Coadyuvar con la Secretaría de Desarrollo Económico en la investigación, gestión, promoción e integración de los proyectos ejecutivos de aquellos programas federales y estatales encaminados al mejoramiento de la infraestructura de los mercados públicos y centrales de abasto del Municipio; y
-
-XVII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
-
-ARTÍCULO 59 BIS.- Corresponde al Titular de la Dirección del Rastro Municipal o Dirección del Rastro Municipal Metropolitano, las siguientes atribuciones:
-
-I. Administrar y vigilar el correcto funcionamiento del Rastro Municipal o Metropolitano de Pachuca de Soto, Hidalgo;
-
-II. Diseñar en coordinación con el Secretario de Servicios Públicos Municipales, los mecanismos de mejora en el funcionamiento, infraestructura y funcionamiento del rastro municipal;
-
-III. Hacer cumplir las disposiciones sanitarias vigentes y aplicables al rastro municipal;
-
-IV. Vigilar la conservación del rastro del Municipio de Pachuca de Soto, Hidalgo;
-
-V. Elaborar ante el Secretario de Servicios Públicos Municipales, la propuesta de las cuotas y tarifas para su integración o derogación en la Ley de Ingresos al año que corresponda;
-
-VI. Sujetarse a las Leyes de Transparencia y Rendición de Cuentas;
-
-VII. Solicitar al Secretario de Servicios Públicos Municipales, los trabajos de mantenimiento para el correcto funcionamiento del rastro municipal;
-
-VIII. Vigilar que los derechos por el uso y aprovechamiento del rastro municipal sean debidamente cobrados por la caja de la Tesorería Municipal ubicada en estas instalaciones;
-
-IX. Informar al Secretario de Servicios Públicos Municipales, sobre la recaudación de manera trimestral;
-
-X. Exigir a los introductores de ganado y aves de corral, los documentos con los que comprueben la propiedad, procedencia de los animales y el pago de derechos de la matanza;
-
-XI. Vigilar que el personal contratado para la operación y funcionamiento del rastro municipal sea de acuerdo a las (sic) sus actividades;
-
-XII. Cuidar el orden, impidiendo toda clase de indisciplina, juegos y discusiones, introducción y consumo de bebidas alcohólicas, en las diferentes áreas del rastro municipal;
-
-XIII. Llevar el libro de registro de sacrificio, uso de corrales y demás actividades desempeñadas en el rastro municipal;
-
-XIV. Firmar los recibos que se expidan, por concepto de los servicios que proporcione el rastro;
-
-XV. Consignar a la autoridad correspondiente, las faltas o delitos que se cometan durante las horas de trabajo y dentro del edificio;
-
-XVI. Hacer cumplir con la normatividad vigente en materia de salud pública que permita un control sanitario estricto de la matanza de las distintas especies, permitiéndole al consumidor que la carne se encuentre en perfectas condiciones de consumo; verificando que los productos cárnicos, que ingresen al Municipio para su comercialización, acudan a las instalaciones del rastro municipal para el resello, comprobando que reúnan las condiciones de sanidad para el consumo humano, estableciendo la coordinación con las autoridades sanitarias en la vigilancia y cumplimiento de las normas de higiene establecidas en la materia.
-
-XVII. Hacer Cumplir las disposiciones legales y reglamentarias aplicables a los rastros del Municipio; supervisar y vigilar que, en el manejo, comercialización y transporte de los productos cárnicos, se cumplan las disposiciones sanitarias vigentes, para que estos lleguen para el consumo humano en óptimas condiciones sanitarias;
-
-XVIII. Vigilar que las carnes que salgan del rastro, lleven marcados los sellos sanitarios y administrativos, así como los recibos por el pago de derechos que se hayan expedido; y
-
-XIX. Las demás que los reglamentos en la materia señalen.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 92.
 
@@ -2281,307 +2013,9 @@ Las autoridades judiciales o administrativas previamente al remate de inmuebles,
 
 Si del informe apareciese algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal para que ésta extienda y envíe el recibo correspondiente, que será entregado al adquirente del inmueble.
 
-### CAPÍTULO VII. DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
+### CAPITULO VII. Impuesto sobre Transmisiones Patrimoniales
 
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-###### ARTÍCULO 60.
-
-La Secretaría de Medio Ambiente y Desarrollo Sustentable es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el presidente municipal, en la conducción de la política sobre el control y supervisión del medio ambiente, recursos municipales, contaminación, cambio climático y, en lo general, la protección y conservación de sus medios bióticos y abióticos, así mismo, la protección, control, bienestar de la fauna, ejemplares de vida silvestre, exóticos y endémicos depositados en sus instalaciones por las autoridades ambientales o competentes en el tema y así como algunos ejemplares con legal procedencia rescatados de maltrato o trato indigno por particulares, todo esto de acuerdo a la capacidad presupuestal, a través de una gestión pública municipal comprometida con una administración eficaz y eficiente, en el manejo de los recursos asignados.
-
-###### ARTÍCULO 61.
-
-A la o el Titular de la Secretaría de Medio Ambiente y Desarrollo Sustentable le corresponde el despacho de las siguientes atribuciones:
-
-I. Ejecutar programas, estrategias y acciones de preservación, protección, restauración y aprovechamiento del medio ambiente, equilibrio ecológico, recursos naturales y de los servicios ambientales con criterios de sustentabilidad, de conformidad con la Ley de (sic) Protección al Ambiente del Estado de Hidalgo;
-
-II. Establecer las medidas necesarias para que en el ámbito municipal se dé cumplimiento a lo establecido en la Ley para la Protección del (sic) Ambiente del Estado de Hidalgo;
-
-III. Proponer a la o el Presidente Municipal los programas y acciones institucionales en materia de investigación, manejo, exhibición, difusión, preservación, restauración y conservación del equilibrio ecológico y protección al ambiente en el Municipio;
-
-IV. Promover estudios e investigaciones que conduzcan a la solución de problemáticas ambientales del Municipio y de la región metropolitana, que coadyuven a la solución de éstos y permitan la implementación de modelos adecuados de gestión ambiental de los recursos naturales;
-
-V. Diseñar, aplicar y promover los programas de educación y capacitación en materia ambiental en todos los sectores de la sociedad, homologando a los lineamientos establecidos a nivel Nacional y Estatal;
-
-VI. Organizar campañas de protección del medio ambiente que promuevan la concientización de la población y fomenten la cultura ecológica en el Municipio;
-
-VII. Fortalecer la gestión y participación social, en los planes, proyectos, programas y acciones ambientales, orientando a la convivencia y corresponsabilidad de los ciudadanos en el cuidado del entorno;
-
-VIII. Participar de manera coordinada con las autoridades Federales y Estatales en la evaluación de los manifiestos de impacto y riesgo ambiental de obras o actividades desarrolladas en la circunscripción territorial del Municipio;
-
-IX. Coordinar la participación de la Administración Pública Municipal en conjunto con las autoridades Federales y Estatales en la atención de asuntos en materia ambiental dentro del ámbito Municipal;
-
-X. Remitir y dar seguimiento de denuncias efectuadas por la ciudadana (sic) en materia de deterioro ambiental que no sean competencia municipal con las instancias correspondientes;
-
-XI. Emitir, conforme a la legislación y reglamentación, los oficios de comisión para la realización de las visitas de inspección;
-
-XII. Coordinar con las diferentes secretarías del Gobierno Municipal la inclusión de criterios ecológicos en el desarrollo de sus actividades así como en la aplicación de las Leyes, Reglamentos y Normas en materia;
-
-XIII. Vigilar la correcta aplicación del ordenamiento ecológico territorial y mantenerlo actualizado;
-
-XIV. Vigilar el cumplimiento de las normas oficiales mexicanas, procurando generar una Norma Municipal en materia de residuos sólidos urbanos;
-
-XV. Ordenar, en el ámbito de su competencia y conforme (sic) la normatividad en la materia, inspecciones, suspensiones, clausuras, imponer sanciones, medidas de seguridad, elaboración de dictamen y/o opinión ambiental y demás que le faculten las disposiciones en materia de protección ambiental;
-
-XVI. Verificar que en el Municipio se cumpla lo establecido en el Artículo 20 de la Ley para la Protección del (sic) Ambiente del Estado de Hidalgo referente al Ordenamiento Ecológico Territorial;
-
-XVII. Diseñar e implementar las estrategias de participación ciudadana para la atención del cambio climático y su impacto en el medio ambiente; al efecto instrumentará los estudios, investigaciones y análisis necesarios;
-
-XVIII. Aplicar las disposiciones jurídicas relacionadas con la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles, excepto las que sean consideradas de jurisdicción Estatal o Federal;
-
-XIX. Formular los lineamientos y estrategias a través de los cuales se observe en el Municipio las Normas Oficiales Mexicanas y disposiciones legales relacionadas con el uso de nuevas fuentes de energía renovables que produzcan un menor impacto ecológico al medio ambiente;
-
-XX. Determinar los criterios ecológicos aplicables a la formulación y aplicación del plan y programa de desarrollo urbano municipal, así como promover y participar en la creación y conservación de las Áreas de Preservación Ecológica que formen parte de los recursos naturales del Municipio;
-
-XXI. Emitir las autorizaciones correspondientes de conformidad con la legislación y reglamentación del Estado de Hidalgo, en relación a las zonas de preservación ecológica de jurisdicción municipal;
-
-XXII. Proponer a la o él Presidente Municipal la implementación de los programas de mantenimiento preventivo, correctivo, de protección y vigilancia de los recursos naturales, en su caso para las diferentes Áreas Naturales Protegidas Municipales;
-
-XXIII. Diseñar e implementar las estrategias de participación ciudadana para la conservación y difusión de los recursos naturales;
-
-XXIV. Participar con la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad en la evaluación de las solicitudes relacionadas con el otorgamiento de la factibilidad de uso y destino del suelo;
-
-XXV. Coordinar la ejecución de las acciones derivadas de la celebración de acuerdos y convenios de coordinación y cooperación signados por el Presidente Municipal con las instituciones Federales, Estatales o Municipales, según sea el área de su competencia;
-
-XXVI. Coadyuvar con la Secretaría de Servicios Públicos Municipales en la vigilancia, supervisión y sanción, en materia ambiental y del uso de los recursos naturales, de la Prestación del Servicio por Tiempo Determinado relativo a la Operación del Sistema Integral de Manejo y Disposición de Residuos Sólidos Urbanos y Residuos de Manejo Especial;
-
-XXVII. Proponer la búsqueda de financiamiento y fondeo para los Planes, Proyectos, Programas y Acciones en materia ambiental con la participación de la iniciativa privada, sociedad civil y otras dependencias gubernamentales;
-
-XXVIII. Autorizar mediante dictamen los proyectos de arborización y reforestación de las obras públicas o privadas a ejecutarse;
-
-XXIX. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2020)
-
-> <small>(ADICIONADA [N. DE E. REFORMADA],P.O. 5 DE MAYO DE 2020)</small>
-
-XXX.- Organizar, controlar y supervisar la observancia de la reglamentación en materia de control canino y antirrábico así como el cumplimiento de la normatividad relativa a la protección, control y trato digno a los animales del Municipio;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA],P.O. 5 DE MAYO DE 2020)</small>
-
-XXXI.- Coadyuvar con el funcionamiento del Centro de Control Antirrábico de la zona metropolitana de Pachuca de Soto, estableciendo las estrategias de coordinación con las instancias federales, estatales y municipales;
-
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
-
-XXXII.- Convenir y coadyuvar con las autoridades correspondientes los servicios de sanidad animal de revisión, salud, condiciones, tratamiento y resguardo, procurando su vinculación con el modelo sanitario del Estado;
-
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
-
-XXXIII.- Organizar la ejecución de campañas de vacunación antirrábica, esterilización y maniobras de levantamientos que eviten la proliferación canina y, en su caso, de fauna nociva;
-
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
-
-XXXIV.- Crear y mantener actualizado el Padrón Municipal de la fauna a través del área técnica;
-
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
-
-XXXV.- Coadyuvar en la política pública de bienestar animal y desarrollar los programas de prevención del maltrato y/o crueldad animal, los cuales tendrán por objeto la realización de campañas para la concientización del bienestar animal;
-
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
-
-XXXVI.- Coordinar la conformación y operación del Área Técnica de Protección y Sanidad Animal y Control de especies animales;
-
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
-
-XXXVII. Participar en el Consejo Municipal de Bienestar Animal el cual tendrá por objeto autorizar y vigilar el comportamiento de las políticas públicas tendientes al bienestar animal;
-
-XXXVIII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2020)
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-XXXIX.- Planear, coordinar y evaluar la operación de la Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México, en los términos de la Ley orgánica Municipal del Estado de Hidalgo y Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Estado de Hidalgo, el decreto de presupuesto de egresos del Municipio de Pachuca de soto, Hidalgo; así como los oficios circulares que emitan las Autoridades competentes en la materia;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-XL. Coordinar y rubricar la presentación trimestralmente ante la Junta de Gobierno (sic) un informe de actividades de la unidad, que incluya la evaluación programática-presupuestal, la captación de los ingresos y el ejercicio del presupuesto de egresos, así como los estados financieros correspondientes;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-XLI. Vigilar la utilización del recurso autorizado al organismo descentralizado, con la intervención que en su caso corresponda a la Secretaría de la Tesorería Municipal;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-XLII. Vigilar los programas de corto, mediano y largo plazo: institucionales, de acción, financiero y operativo anual, así como las cuotas y tarifas, y presentarlos para su aprobación a la junta de gobierno;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-XLIII. Vigilar la administración y representación legal de la Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-XLIV. Dirigir la elaboración del programa operativo en el que deberá basar su actuación con enfoque en presupuesto basado en resultados;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-XLV. SUpervisar (sic) las donaciones en especie o monetarias para beneficio de los ejemplares de vida silvestre que se encuentren en Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México, sus estudios diagnósticos, tratamientos, traslado y todo lo que contribuya a mejorar el bienestar del animal; y
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-XLVI. Las demás que le asignen las leyes, reglamentos y demás normatividad federal y estatal, aplicable a su ámbito de competencia y la o él presidente municipal.
-
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
-
-###### ARTÍCULO 62.
-
-Para el cumplimiento de su objeto y despacho de las funciones y atribuciones a su cargo, la Secretaría de Medio Ambiente y Desarrollo Sustentable contará con la siguiente estructura:
-
-I. Dirección de Inspección y Vigilancia Ambiental; y
-
-II. Dirección de Sustentabilidad de los Recursos Naturales.
-
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
-
-III. Área Técnica de Protección, Sanidad Animal y Control de especies animales
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-IV. Unidad de Rescate, Rehabilitación y Reubicación de la Fauna Silvestre, Endémica y Exótica de México
-
-###### ARTÍCULO 63.
-
-A la Dirección de Inspección y Vigilancia Ambiental lecorresponderá (sic) el ejercicio de las siguientes atribuciones:
-
-I. Proponer al Secretario programas, estrategias y acciones de preservación, protección, restauración y aprovechamiento del medio ambiente, equilibrio ecológico, recursos naturales y de los servicios ambientales con criterios de sustentabilidad, de conformidad con la Ley de (sic) Protección al Ambiente del Estado de Hidalgo;
-
-II. Dirigir el control y la supervisión del establecimiento de las medidas necesarias para que en el ámbito municipal se dé cumplimiento a lo establecido en la Ley para la Protección del (sic) Ambiente del Estado de Hidalgo;
-
-III. Coordinar la ejecución de los programas y acciones institucionales en materia de investigación, manejo, exhibición, difusión, preservación, restauración y conservación del equilibrio ecológico y protección al ambiente en el Municipio;
-
-IV. Conducir la supervisión de la instrumentación de estudios e investigaciones que conduzcan a la solución de problemáticas ambientales y cambio del clima del Municipio y de la región metropolitana, que coadyuven a la solución de estos y permitan la implementación de modelos adecuados de gestión ambiental de los recursos naturales;
-
-V. Dirigir el diseño, aplicación y promoción de los programas de educación y capacitación en materia ambiental en todos los sectores de la sociedad, homologando a los lineamientos establecidos a nivel Nacional y Estatal;
-
-VI. Coordinar campañas de protección del medio ambiente y el cambio climático que promuevan la concientización de la población y fomenten la cultura ecológica en el Municipio;
-
-VII. Coordinar la gestión y participación social, en los planes, proyectos, programas y acciones ambientales, orientando (sic) a la convivencia y corresponsabilidad de los ciudadanos en el cuidado del entorno;
-
-VIII. Contribuir con la o él Secretario en el desahogo de la participación con las autoridades Federales y Estatales en la evaluación de los manifiestos de impacto y riesgo ambiental de obras o actividades desarrolladas en la circunscripción territorial del Municipio;
-
-IX. Controlar y supervisar la coordinación de la participación de la Administración Pública Municipal en conjunto con las autoridades Federales y Estatales en la atención de asuntos en materia ambiental y del cambio climático dentro del ámbito Municipal;
-
-X. Substanciar los expedientes mediante los cuales la o el Secretario, remita y de seguimiento a denuncias efectuadas por la ciudadana (sic) en materia de deterioro ambiental que no sean competencia municipal con las instancias correspondientes;
-
-XI. Dirigir la instrumentación, conforme a la legislación y reglamentación, de los oficios de comisión para la realización de las visitas de inspección;
-
-XII. Coordinar y supervisar que las diferentes secretarías del Gobierno Municipal incluyan criterios ecológicos en el desarrollo de sus actividades, así como en la aplicación de las Leyes, Reglamentos y Normas en la materia;
-
-XIII. Vigilar la correcta aplicación del ordenamiento ecológico territorial y mantenerlo actualizado;
-
-XIV. Vigilar el cumplimiento de las normas oficiales mexicanas, procurando generar una Norma Municipal en materia de residuos sólidos urbanos;
-
-XV. Ordenar, en el ámbito de su competencia y conforme (sic) la normatividad en la materia inspecciones, suspensiones, clausuras, imponer sanciones, medidas de seguridad, elaboración de dictamen y/o (sic) opinión ambiental y demás que le faculten las disposiciones en materia de protección ambiental;
-
-XVI. Substanciar los expedientes mediante los cuales la o el Secretario ordene la verificación para que en el Municipio se cumpla lo establecido en el Artículo 20 de la Ley para la Protección del Ambiente del Estado de Hidalgo referente al Ordenamiento Ecológico Territorial;
-
-XVII. Diseño (sic) e implementar estrategias de participación ciudadana para la atención del cambio climático y su impacto en el medio ambiente; al efecto, instrumentar los estudios, investigaciones y análisis necesarios; y
-
-XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2020)</small>
-
-Artículo 63 BIS. Al Área Técnica de Protección, Sanidad Animal y Control de especies animales le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Crear y mantener actualizado el Padrón Municipal de Animales en el que se llevará el registro de Centros de Control Canino; Rastros; Asociaciones Protectoras de Animales; Establecimientos de venta, servicios, resguardo, cuidado y adopción de animales; Criaderos oficiales o domésticos de animales en general y fauna silvestre; Animales domésticos, especies silvestres, aves de presa, animales dedicados a cubrir alguna discapacidad para el ser humano, animales de protección y rescate, adiestramiento animal y animales de guardia y custodia; y vacunación, esterilización, muerte de los animales que realicen los establecimientos registrados y crematorios para animales;
-
-II. Atender el llamado en el caso de extravío de algún animal registrado en el padrón del Municipio, para realizar la vinculación con las instancias correspondientes, y así coadyuvar en su localización y recuperación;
-
-III. Atender y dar seguimiento a los llamados de auxilio que haga la población cuando un animal se encuentre en peligro latente y requiera ser rescatado por personal capacitado, solicitando el apoyo de cualquier área municipal, estatal, federal y asociaciones civiles que así lo consideren;
-
-IV. Atender los reportes o llamadas en los casos cuando un animal tenga comportamiento agresivo que ponga en peligro o lesione a una persona en vía pública o lugares de uso común, el área técnica a su vez podrá solicitar el apoyo del Centro de Control Canino o cualquier otra área municipal, estatal, para que la brigada de captura proceda a la sujeción de dicho animal según lo establecido en la Norma Oficial Mexicana, y se procederá en su caso a sancionar a su propietario o encargado, independientemente de la responsabilidad civil o penal en que haya incurrido;
-
-V. Certificar el estado físico de los animales, apoyándose en las instancias correspondientes para dictar medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies animales utilizadas como mascotas y de la fauna en genera (sic); y
-
-VI. Establecer las estrategias de coordinación con las instancias municipales, estatales y federales; en materia de sanidad antirrábica disponiendo de objetivos, normas, políticas y criterios para la óptima administración de las unidades que se establezcan para su atención;
-
-VII. Coadyuvar con el funcionamiento del Centro Antirrábico de la zona metropolitana de Pachuca de Soto, en coordinación con las diferentes instancias federales, estatales y municipales que intervengan en su operación;
-
-VIII. Programar y ejecutar campañas de vacunación antirrábica y esterilización canina y felina;
-
-IX. Emitir una tarjeta y una placa para aquellos animales que se vacunen, que acredite al propietario del animal, el año y el número de registro de la vacuna correspondiente;
-
-X. Realizar un registro de los animales que hayan estado internados en el Departamento de Control Animal, permitiendo la obtención de datos de las enfermedades más comunes en los animales;
-
-XI. Proporcionar el servicio de esterilización de las especies caninas y felinas que le sean solicitadas por la población;
-
-XII. Otorgar el internamiento y observación en el área destinada dentro del Centro Antirrábico Municipal para los animales sospechosos de causar enfermedades;
-
-XIII. Difundir programas de concientización y de prevención de enfermedades caninas y felinas del Municipio;
-
-XIV. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico
-
-###### ARTÍCULO 64.
-
-A la Dirección de Sustentabilidad de los Recursos Naturales le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Conducir, controlar y supervisar la instrumentación de los criterios ecológicos aplicables a la formulación y aplicación del plan y programa de desarrollo urbano municipal, así como promover y participar en la creación y conservación de las Áreas de Preservación Ecológica que forme (sic) parte de los recursos naturales del Municipio;
-
-II. Substanciar los expedientes mediante los cuales la o el Secretario, emita las autorizaciones correspondientes de conformidad con la legislación y reglamentación del Estado de Hidalgo, en relación a las zonas de preservación ecológica de jurisdicción municipal;
-
-III. Elaborar las propuestas que la o él Secretario presente a la o él Presidente Municipal, para la implementación de los programas de mantenimiento preventivo, correctivo, de protección y vigilancia de los recursos naturales, en su caso, para las diferentes Áreas Naturales Protegidas Municipales;
-
-IV. Diseñar e implantar estrategias de participación ciudadana para la conservación y difusión de los recursos naturales;
-
-V. Contribuir en la participación que tenga la o él Secretario con la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad, para la evaluación de las solicitudes relacionadas con el otorgamiento de la factibilidad de uso y destino del suelo;
-
-VI. Controlar y supervisar la ejecución de las acciones derivadas de la celebración de acuerdos y convenios de coordinación y cooperación signados por el Presidente Municipal con las instituciones Federales, Estatales o Municipales, según sea el área de su competencia;
-
-VII. Contribuir en la participación que tenga la o él Secretario con la Secretaría de Servicios Públicos Municipales para la vigilancia, supervisión y sanción, en materia ambiental y del uso de los recursos naturales, de la Prestación del Servicio por Tiempo Determinado relativo a la Operación del Sistema Integral de Manejo y Disposición de Residuos Sólidos Urbanos y Residuos de Manejo Especial;
-
-VIII. Instrumentar y substanciar estudios de factibilidad y expedientes técnicos para que la o el Secretario, proponga la búsqueda de financiamiento y fondeo para los planes, proyectos, programas y acciones en materia ambiental con la participación de la iniciativa privada, sociedad civil y otras dependencias gubernamentales;
-
-IX. Substanciar los expedientes mediante los cuales la o el Secretario ordene la autorización de dictamen de los proyectos de arborización y reforestación de las obras públicas o privadas a ejecutarse;
-
-X. Promover la investigación de nuevas fuentes de energía renovables, que coadyuven a reducir la utilización de fuentes de energía de carbono, ayudando con ello a reducir los efectos ambientales negativos que produce el cambio climático;
-
-XI. Coordinar la difusión y aplicación de Normas Oficiales Mexicanas y disposiciones legales relacionadas con el uso de nuevas fuentes de energía renovables que produzcan un menor impacto ecológico al medio ambiente, conforme al ámbito de su competencia; y
-
-XII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-ARTÍCULO 64 BIS.- Para el cumplimiento de su objeto, la primera Unidad de Rescate, Rehabilitación y Reubicación de Fauna Silvestre, Endémica y Exótica de México, tendrá las siguientes atribuciones:
-
-I. Recibir, alojar, alimentar y atender médica y conductualmente a los animales de vida silvestre, exóticos y endémicos depositados en sus instalaciones por las autoridades ambientales o competentes en el tema y así como algunos ejemplares con legal procedencia rescatados de maltrato o trato indigno por particulares, todo esto de acuerdo a la capacidad presupuestal, a través de la proyección ejecución y evaluación de programas y acciones, en coordinación con las dependencias y entidades de las administraciones públicas federal, estatal, municipal, así como con los sectores social y privado de acuerdo a los ordenamientos legales aplicables a la materia.
-
-II. Gestionar administrativa y legalmente el proceso de traslado, reubicación o liberación de animales de vida silvestre depositados por las autoridades ambientales o competentes en el tema.
-
-III. Reproducir sólo a especies endémicas del territorio nacional sujetas a las capacidades técnicas, de instalaciones y de presupuesto de la unidad
-
-IV. Fomentar la investigación a partir de estudios de caso, en conjunto con universidades y centros de investigación.
-
-V. la unidad no venderá ni comprará animales de vida silvestre.
-
-VI. Generar investigación científica en materia de fauna silvestre, así como su divulgación para mitigar y concientizar sobre el tráfico ilegal de especies.
-
-VII. Coadyuvar con la autoridad ambiental competente para llevar a cabo el rescate de los ejemplares.
-
-VIII. ser parte del proceso de rescate, rehabilitación, y en su caso, liberación en su medio natural y/o la entrega del animal a áreas naturales protegidas o santuarios en México o el extranjero, de acuerdo a los lineamientos legales vigentes.
-
-IX. Contribuir con campañas de educación ambiental a la cultura del respeto de fauna.
-
-X. Fungir como un órgano consultivo y de apoyo del presidente municipal respecto de la población de vida silvestre atendida por esta unidad.
-
-XI. Convocar a la participación activa de la sociedad civil y de las instituciones públicas y privadas para el rescate y rehabilitación de la fauna silvestre, endémica y exótica.
-
-XII. Gestionar donativos en especie o en efectivo para ayudar a cubrir los gastos que genera la alimentación, diagnóstico y tratamiento de los ejemplares y lo que derive.
-
-XIII. Establecer convenios con instituciones nacionales e internacionales, profesionistas independientes y todo aquel que aporte conocimientos y habilidades en beneficio de los ejemplares tratados en esta unidad.
-
-XIV. Salvaguardar la integridad física del personal por medio de reglamentos y protocolos de seguridad y bioseguridad.
-
-XV. Capacitación y actualización del personal en temas de salud, seguridad, manejo y etología.
-
-XVI. Los visitantes podrán apreciar a los animales que se encuentren en los espacios destinados para este fin.
-
-XVII. Se tendrá un representante legal (director), representante técnico (veterinario o biólogo) y plan de manejo como requisito de registro de PIMVS ante la secretaría.
-
-XVIII. Dentro de la plantilla del personal siempre se contará con un médico veterinario zootecnista como titular del área médica y un biólogo o médico veterinario como titular del área de etología.
-
-XIV (SIC). Nos regimos bajo los cinco dominios del bienestar animal teniendo la eutanasia bajo el sacrificio humanitario como última opción por lo que se debe de hacer todo lo médico y humanamente posible para salvar la vida de los animales que ingresan a esta unidad sin contravenir en su dignidad.
-
-XV. si el director ejecutivo deja el cargo, en efecto deja de ser representante legal siendo el (la) nuevo(a) director representante legal del PIMVS realizando el trámite correspondiente ante la secretaría.
-
-XVI. Se cobrará estancia del ejemplar depositado cuando pueda ser aplicado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1999)</small>
 
 ###### Art. 112.
 
@@ -2641,9 +2075,7 @@ XIII. La constitución y transmisión del derecho de superficie;
 
 XIV. (DEROGADA, P.O. 29 DE JUNIO DE 1991)
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1991)</small>
-
-XIV Bis. La transmisión de bienes y derechos, si por rescisión del contrato vuelven al enajenante después de 60 días de la fecha en que se otorgó éste;
+XIV. bis. (DEROGADA, P.O. 28 DE FEBRERO DE 2004)
 
 XV. Cualquier otro acto o contrato por el que se transmitan bienes inmuebles o derechos sobre los mismos.
 
@@ -2709,19 +2141,19 @@ El pago de este impuesto deberá efectuarse ante la tesorería municipal respect
 
 Para los efectos del pago del impuesto en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de bienes ubicados en el municipio, el adquirente, dentro del término establecido en el párrafo anterior, dará aviso por escrito, acompañando copia de la adquisición o contrato, a las autoridades fiscales competentes, en cuya jurisdicción se encuentren ubicados los inmuebles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2004)</small>
 
 ###### Art. 117.
 
 Quedan exentos del pago de este impuesto y en su caso de la responsabilidad solidaria:
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+I. La Federación, el Estado y sus Municipios, respecto de la adquisición de bienes que se vayan a destinar al dominio público, que sean afectos al pago de este impuesto; salvo que tales bienes se destinen para ser usados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público;
 
-I. La Federación, el Estado y sus Municipios, respecto de la adquisición de bienes que se vayan a destinar al dominio público, que sean afectos al pago de este impuesto; salvo que tales bienes se destinen para ser usados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público; y
+II. Los Estados extranjeros por la adquisición de inmuebles, en caso de reciprocidad;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+III. La persona a quien por rescisión o cualquier otra ineficacia del contrato que conste en resolución judicial ejecutoriada, le hubieren sido devueltos los bienes o derechos que transmitió; y
 
-II. Los Estados extranjeros por la adquisición de inmuebles, en caso de reciprocidad.
+IV. Cuando por cualquier causa regresen los bienes o derechos al enajenante dentro de los 60 días naturales de la fecha en que se celebró el contrato de transmisión.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -2781,375 +2213,7 @@ Tratándose de las partes que intervengan en la adquisición de bienes inmuebles
 
 Para enajenar cualquier inmueble o transmitir algún derecho real, el causante deberá presentar comprobante donde se acredite que no existe adeudo por concepto de impuesto predial en la fecha en que se autoricen las escrituras, actos o contratos.
 
-### CAPÍTULO VIII. DE LA SECRETARÍA DE OBRAS PÚBLICAS, DESARROLLO URBANO, VIVIENDA Y MOVILIDAD
-
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
-
-###### ARTÍCULO 65.
-
-La Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política enfocada al diseño, proyección, construcción, conservación y mantenimiento de la infraestructura y patrimonio inmobiliario del Municipio de Pachuca de Soto, con el propósito central de instrumentar, ejecutar, supervisar y evaluar las obras públicas municipales y lo relativo al desarrollo urbano, las licencias de construcción de obras, uso de suelo, ordenamiento territorial, alineamientos y asentamientos humanos, a través de una vocación de gestión pública municipal comprometida con una administración eficaz y eficiente, en el manejo de los recursos asignados.
-
-###### ARTÍCULO 66.
-
-A la o el Titular de la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad le corresponde el despacho de las siguientes atribuciones:
-
-I. Ordenar la formulación de las estrategias, lineamientos y acciones para la elaboración del Programa de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad del Municipio;
-
-II. Proponer a la o el Presidente Municipal las estrategias y lineamientos para la elaboración del Plan Municipal de Desarrollo, previsto en la Ley Orgánica, con base en la información que le sea proporcionada por las diferentes áreas involucradas;
-
-III. Planear, las estrategias y lineamientos, mediante los cuales sean instrumentados, aprobados, ejecutados, seguidos y evaluados, los proyectos municipales de obras públicas, desarrollo urbano, centro histórico y movilidad;
-
-IV. Implementar los mecanismos que permitan efectuar una adecuada planeación, programación, presupuestación y contratación, para la ejecución, conservación, mantenimiento y control de las obras públicas que deba realizar el Municipio en apego a la normatividad vigente y aplicable para cada caso;
-
-V. Instruir lo necesario para que se realice una adecuada conservación, resguardo y mantenimiento de los equipos, herramientas, máquinas y vehículos utilizados en la ejecución de las obras públicas a cargo de la Secretaría;
-
-VI. Vigilar que los servicios de adjudicación, contratación y ejecución de las obras públicas, se realicen bajo criterios de eficiencia, eficacia, productividad y ahorro en el gasto público;
-
-VII. Establecer las estrategias que permitan realizar un adecuado control e instrumentación de los procesos y procedimientos abocados a la programación, presupuestación, contratación, ejecución y control de las obras públicas a su cargo;
-
-VIII. Establecer las políticas y lineamientos para la intervención que le corresponda, en las obras que el Municipio realice por sí o con participación del Estado o la Federación o en coordinación o asociación con otros municipios;
-
-IX. Programar adecuadamente la construcción y mantenimiento de infraestructura, avenidas, calles, caminos y todo tipo de vialidades de jurisdicción municipal, que contribuyan a optimizar la comunicación en el Municipio;
-
-X. Proponer las políticas públicas para la elaboración del Plan Estratégico de Movilidad Sustentable y su articulación con las demás dependencias involucradas;
-
-XI. Proponer a la o el Presidente Municipal la política en materia de vivienda, en congruencia con el Plan Municipal de Desarrollo y demás ordenamientos aplicables;
-
-XII. Vigilar que en la construcción de obras se cumplan con los requisitos de calidad, seguridad y funcionamiento, de acuerdo con las normas de construcción establecidas;
-
-XIII. Elaborar y ejecutar resoluciones de demolición y clausura de obra, así como infraccionar y sancionar a las personas que infrinjan la normatividad en materia de desarrollo urbano, conforme a las disposiciones legales aplicables;
-
-XIV. Substanciar y resolver en coordinación con la Dirección General Jurídica los procedimientos administrativos correspondientes;
-
-XV. Intervenir, en el ámbito de su competencia, en la regularización de la tenencia de la tierra urbana y preservar el entorno ecológico, en las obras que se realicen;
-
-XVI. Proponer a la o el Presidente Municipal conforme a la Ley de la materia y en el ámbito de su competencia, los planes y programas de urbanismo, así como, formular la zonificación y el programa de desarrollo urbano;
-
-XVII. Autorizar o negar en su caso las licencias y permisos en los términos de las disposiciones aplicables y vigentes en la materia;
-
-XVIII. Otorgar las licencias de construcción, fraccionamientos, lotificaciones, anuncios, uso específico de suelo, cambios de densidad, intensidad y altura, constancias de alineamiento, número oficial o su regularización, ocupación de la vía pública; así como de demolición y excavación, en los términos de las leyes y ordenamientos reglamentarios;
-
-XIX. Formular y someter a consideración de la o el Presidente Municipal, los planes de desarrollo urbano y regional o metropolitanos sustentables, en los que intervenga la Federación, el Estado u otros Municipios, en concordancia con los planes generales de la materia;
-
-XX. Proporcionar la información pertinente que le sea solicitada por la Secretaría de la Tesorería y que contribuya a la actualización permanente del Catastro Municipal;
-
-XXI. Implementar los mecanismos que permitan efectuar una adecuada vigilancia de la Ley sobre Protección y Conservación del Centro Histórico y del Patrimonio Cultural de la Ciudad de Pachuca de Soto, Estado de Hidalgo y del Reglamento del Patronato para la Conservación y Preservación del Centro Histórico de la Ciudad de Pachuca de Soto, Hidalgo; así como, disponer las estrategias para la revisión, en su caso proponer la actualización del marco jurídico municipal aplicable;
-
-XXII. Establecer los lineamientos que permitan controlar y supervisar la realización de obras previstas para el Centro Histórico del Municipio;
-
-XXIII. Realizar los estudios necesarios del perímetro del Centro Histórico, que permitan una adecuada regulación de las construcciones estableciendo las especificaciones técnicas, urbanísticas y arquitectónicas aplicables a la edificación dentro de la zona y a los servicios públicos y equipamiento urbano, en apego a la Ley sobre Protección y Conservación del Centro Histórico y del Patrimonio Cultural de la Ciudad de Pachuca;
-
-XXIV. Planear la organización, control y supervisión sobre la instrumentación de los estudios y presupuestos de las obras a cargo del Municipio;
-
-XXV. Elaborar los estudios y proyectos para el establecimiento y administración de reservas territoriales del Municipio en coordinación con la Secretaría de Medio Ambiente y Desarrollo Sustentable;
-
-XXVI. Proponer a la o el Presidente Municipal las estrategias generales de la política de ordenamiento territorial, desarrollo urbano, de suelo y reservas territoriales del Municipio en concordancia con los Programas Metropolitanos de Ordenamiento Territorial establecidos;
-
-XXVII. Establecer los mecanismos que permitan asegurar el adecuado cumplimiento y observancia del Reglamento para el Ordenamiento de Anuncios e Imagen Urbana para el Municipio de Pachuca de Soto, Estado de Hidalgo;
-
-XXVIII. Promover y vigilar el desarrollo sustentable del Municipio, mediante una adecuada zonificación basada en la identificación de la problemática sobre el desarrollo urbano en el Municipio;
-
-XXIX. Elaborar, organizar, dirigir y controlar los planes de desarrollo urbano y el programa de ordenamiento territorial;
-
-XXX. Establecer las políticas y lineamientos mediante los cuales se realicen estudios y recaben información y opiniones, respecto a la elaboración de los planes municipales sobre asentamientos humanos;
-
-XXXI. Asistir a la o el Presidente Municipal en las funciones técnicas en el ámbito de su competencia en el Comité de Planeación del Desarrollo Municipal;
-
-XXXII. Elaborar y ejercer el presupuesto aprobado del programa de Inversión del Municipio;
-
-XXXIII. Proponer a las autoridades competentes políticas y procedimientos que alienten el uso de transportes no motorizados en el ámbito territorial del Municipio;
-
-XXXIV. Proponer y coadyuvar con las autoridades estatales en la elaboración de políticas y procedimientos que permitan, contar con un transporte público seguro y eficiente dentro del territorio del Municipio; y
-
-XXXV. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o él Presidente Municipal.
-
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
-
-###### ARTÍCULO 67.
-
-Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de las funciones y atribuciones a su cargo, la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad, contará con la siguiente estructura:
-
-I. Dirección de Obras Públicas;
-
-II. Dirección de Desarrollo Urbano;
-
-III. Dirección de Vivienda;
-
-IV. Dirección del Centro Histórico;
-
-V. Dirección de Estudios y Proyectos;
-
-VI. Dirección de Movilidad; y
-
-VII. Dirección Administrativa.
-
-###### ARTÍCULO 68.
-
-A la Dirección de Obras Públicas le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Elaborar y ejecutar el programa de obra pública del Municipio;
-
-II. Coordinar y controlar los proyectos de obras públicas y servicios relacionados con las mismas;
-
-III. Proyectar las obras públicas y servicios relacionados con las mismas, que realice el Municipio, incluyendo la conservación y mantenimiento de edificios, monumentos, calles, parques y jardines en lo correspondiente con la infraestructura;
-
-IV. Determinar y cuantificar los materiales y trabajos necesarios para programas de construcción y mantenimiento de obras públicas y servicios relacionados;
-
-V. Cuidar que las obras públicas y servicios relacionados cumplan con los requisitos de seguridad y observen las normas de construcción y términos establecidos;
-
-VI. Realizar el cierre físico y administrativo de las obras realizadas;
-
-VII. Establecer sistemas de coordinación con las dependencias federales y estatales en los programas y ejecución de obras en las que tengan correlación en apego a las leyes, federales, estales (sic) y municipales que las regulen;
-
-VIII. Elaborar y supervisar la programación, presupuestación, contratación, ejecución y gasto de las obras públicas que deba realizar el Ayuntamiento en apego a la normatividad aplicable;
-
-IX. Ejecutar los trabajos necesarios para la construcción, mantenimiento y conservación de pavimentación de calles, avenidas, puentes peatonales y vehiculares, banquetas y guarniciones, canchas deportivas, de usos múltiples, plazas y sitios públicos, escuelas públicas de educación básica, ampliación y remodelación de los edificios públicos, monumentos y joyas arquitectónicas;
-
-X. Ampliación de la red de drenaje, agua potable y electrificación en coordinación con los organismos operadores del Estado o la Federación;
-
-XI. Asistir técnicamente y servir de enlace en la coordinación, planeación y ejecución de proyectos tendientes a mejorar la infraestructura municipal;
-
-XII. Proyectar y ejecutar acciones que permitan el mantenimiento preventivo y correctivo de los inmuebles a cargo del municipio;
-
-XIII. Verificar el avance físico de las obras ejecutadas en el municipio, conforme a lo estipulado en los proyectos respectivos;
-
-XIV. Verificar que se cumplan las especificaciones de obra, materiales y tiempos comprometidos, conforme a lo contratado;
-
-XV. Participar en la entrega recepción de las obras ejecutadas bajo su supervisión;
-
-XVI. Coadyuvar con las autoridades competentes de la Administración Pública Estatal, en acciones que permitan el mejoramiento de la infraestructura del trasporte público, que opera en el Municipio; y
-
-XVII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 69.
-
-A la Dirección de Desarrollo Urbano le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Formular y conducir las políticas en materia de asentamientos humanos y ordenamiento territorial;
-
-II. Proponer a la o el Titular de la Secretaría conforme a la Ley de la materia y en el ámbito de su competencia, los planes y programas de urbanismo, así como, formular la zonificación y el plan de desarrollo urbano;
-
-III. Promover y vigilar el desarrollo urbano del Municipio;
-
-IV. Establecer las políticas de crecimiento y desarrollo de la zona urbana;
-
-V. Participar en la formulación de planes de desarrollo urbano y regional o metropolitanos sustentables, en los que intervenga la Federación, el Estado u otros Municipios, en concordancia con los planes generales de la materia;
-
-VI. Dirigir, en el ámbito de su competencia, la ejecución de estrategias orientadas a la intervención que se tenga en la elaboración de los estudios y proyectos para el establecimiento y administración de las reservas territoriales del Municipio;
-
-VII. Vigilar el cumplimiento de las normas técnicas en materia de desarrollo urbano, vivienda y construcciones;
-
-VIII. Promover en coordinación con las instancias competentes, el equilibrio entre los asentamientos humanos y la reserva territorial;
-
-IX. Ejecutar, en coordinación con la Dirección de Obras Públicas, los proyectos urbanos y arquitectónicos indispensables para el Municipio;
-
-X. Fomentar la promoción coordinada con los Gobiernos Estatal y Federal en acciones conjuntas para el desarrollo urbano citadino;
-
-XI. Expedir las licencias de construcción de obras nuevas, reparación, ampliación, subdivisiones, constancia de regularización de obras, constancia de alineamiento, nomenclatura y número oficial, así como la ocupación temporal de la vía pública, además de demoliciones y excavaciones;
-
-XII. Establecer la coordinación con la Tesorería para brindar la información pertinente que contribuya a la actualización permanente del Catastro Municipal;
-
-XIII. Asignar números oficiales de avenidas y calles;
-
-XIV. Autorizar la colocación de anuncios publicitarios manteniendo un estricto control de la imagen urbana;
-
-XV. Informar y orientar a los particulares interesados respecto a los trámites que (sic) sobre licencias, permisos, cambios y demás autorizaciones que le compete otorgar a efecto de facilitar su gestión;
-
-XVI. Autorizar las licencias de fraccionamiento y lotificación, en los términos de las leyes federales y estatales y demás disposiciones aplicables en la materia;
-
-XVII. Recibir los fraccionamientos vigilando que se hayan cumplido previamente los requerimientos de Ley y demás disposiciones aplicables;
-
-XVIII. Intervenir en la recepción y entrega al Municipio de las áreas de donación y las obras de infraestructura, urbanización y equipamiento derivadas de fraccionamientos y conjuntos urbanos;
-
-XIX. Vigilar que las autorizaciones y permisos de lotificación y viabilidad a fraccionamientos habitacionales, conjuntos habitacionales y en condominio, corresponda a lo solicitado, conforme a la reglamentación respectiva;
-
-XX. Integrar el registro de desarrollos de fraccionamientos;
-
-XXI. Autorizar los dictámenes de uso de suelo para cualquier tipo de local comercial, industrial o de servicios y vigilar su utilización;
-
-XXII. Atender todo tipo de denuncias sobre uso de suelo, construcciones, fraccionamientos y obras de particulares;
-
-XXIII. Vigilar y proponer las adecuaciones al uso de suelo en el Municipio de acuerdo a la zonificación de cada región;
-
-XXIV. Emitir las cédulas informativas de zonificación y los Dictámenes de uso de suelo;
-
-XXV. Elaborar los acuerdos de los cambios de uso de suelo, de densidad e intensidad y altura de edificaciones;
-
-XXVI. Supervisar e inspeccionar las obras civiles de particulares en cuanto a obra nueva, remodelación, cambio de densidad, intensidad y altura, ocupación de vía pública por construcción, demolición y excavación conforme a la normatividad aplicable;
-
-XXVII. Inspeccionar, suspender y clausurar las construcciones que no cumplan con lo autorizado en la licencia de construcción y en la normatividad vigente;
-
-XXVIII. Realizar la inspección de las solicitudes de licencia de construcción, alineamiento y número oficial, prórroga y terminación de obras;
-
-XXIX. Substanciar y resolver los procedimientos administrativos correspondientes; y
-
-XXX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 70.
-
-A la Dirección de Vivienda le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Formular y conducir las políticas en materia de vivienda en el Municipio;
-
-II. Participar en la promoción y realización de los programas de uso de suelo y vivienda, preferentemente para la población de escasos recursos y coordinar su gestión y ejecución;
-
-III. Coadyuvar en el ámbito de su competencia en la construcción de obras de urbanización, infraestructura y equipamiento urbano en materia de vivienda;
-
-IV. Brindar asistencia técnica integral de los aspectos sociales, legales, técnico-constructivos, económico-financieros y urbanísticos del Municipio en materia de vivienda, hábitat, infraestructura social y de equipamiento a espacios públicos;
-
-V. Coordinar la gestión de obras y programas, orientando la solución de los problemas en materia de vivienda de los habitantes del Municipio;
-
-VI. Proponer de acuerdo a los lineamientos vigentes la formulación, de acciones, programas y políticas de acceso a la vivienda para la población del municipio en situaciones de vulnerabilidad;
-
-VII. Gestionar la celebración de convenios o contratos con personas o entidades públicas o privadas, con el fin de promover el desarrollo de proyectos de vivienda de interés social;
-
-VIII. Promover la participación del Municipio en los programas Estatales y Federales en materia de vivienda; y
-
-IX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 71.
-
-A la Dirección del Centro Histórico le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Supervisar y vigilar la observancia de la Ley Sobre Protección y Conservación del Centro Histórico de la Ciudad de Pachuca de Soto, Hidalgo;
-
-II. Coordinar la instrumentación de las sanciones a aplicar en el ámbito de su competencia por la Autoridad Municipal señaladas en la Ley Sobre Protección y Conservación del Centro Histórico y del Patrimonio Cultural de la Ciudad de Pachuca de Soto, Estado de Hidalgo;
-
-III. Conducir los estudios necesarios del perímetro del Centro Histórico, para establecer la regulación de construcciones en cumplimiento de la Ley Sobre Protección y Conservación del Centro Histórico y del Patrimonio Cultural de la Ciudad de Pachuca de Soto, Estado de Hidalgo;
-
-IV. Supervisar la realización de obras y acciones dentro del perímetro del Centro Histórico del Municipio de acuerdo con lo estipulado en la normatividad aplicable en la materia;
-
-V. Proponer a la o el Titular de la Secretaría, las estrategias mediante las cuales se facilite y propicie la participación ciudadana, empresarial e institucional en los proyectos de obra para el Centro Histórico;
-
-VI. Integrar la información del inventario turístico, comercial e inmobiliario municipal, en el perímetro del Centro Histórico en coordinación con la Dirección de Turismo Municipal;
-
-VII. Promover la realización de acciones de reestructuración turística del Centro Histórico del Municipio de Pachuca, Estado de Hidalgo, en coordinación con la Dirección de Turismo Municipal;
-
-VIII. Ejecutar en el ámbito de su competencia, los convenios y acuerdos que el Municipio haya celebrado con los gobiernos de otros municipios, así como con el gobierno Estatal y Federal, organismos internacionales y no gubernamentales, para el Centro Histórico;
-
-IX. Proponer ante las instancias correspondientes, la regulación de construcciones y los demás componentes, para las especificaciones técnicas, urbanísticas y arquitectónicas aplicables a la edificación dentro de la zona y a los servicios públicos y equipamiento urbano, considerando los datos y condiciones que sean necesarias para el cumplimiento de la Ley sobre Protección y Conservación del Centro Histórico y del Patrimonio Cultural de la Ciudad de Pachuca de Soto, Estado de Hidalgo;
-
-X. Coordinar a los inspectores encargados de vigilar e inspeccionar las edificaciones y las obras en proceso o terminadas verificando que cumplan las disposiciones de la Ley Federal de Monumentos y Zonas Arqueológicas y de la Ley Sobre Protección y Conservación del Centro Histórico y del Patrimonio Cultural de la Ciudad de Pachuca de Soto, Estado de Hidalgo y demás ordenamientos aplicables;
-
-XI. Identificar, declarar y conservar, en términos de las disposiciones legales respectivas, las zonas, sitios y edificaciones que constituyan un testimonio valioso de la historia y de la cultura del Municipio en coordinación con el Instituto Nacional de Antropología e Historia;
-
-XII. Integrar el programa de mantenimiento de zonas y sitios históricos del Municipio;
-
-XIII. Coordinar las acciones que la o el Presidente Municipal determine para la vinculación de la Secretaría con el Patronato, el Comité y el Fideicomiso encaminados a la conservación y preservación del Centro Histórico del Municipio;
-
-XIV. Identificar y promover la integración y desarrollo de productos y programas sustentables del Centro Histórico;
-
-XV. Contribuir en la integración y substanciación de los expedientes a través de los cuales se apliquen las sanciones en los términos previstos en la Ley sobre Protección y Conservación del Centro Histórico y del Patrimonio Cultural de la Ciudad de Pachuca de Soto, Hidalgo; y
-
-XVI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 72.
-
-A la Dirección de Estudios y Proyectos le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Organizar el control y supervisión sobre la instrumentación de los estudios y presupuestos de las obras a cargo del Municipio;
-
-II. Formular los proyectos de Obra Pública a cargo de la Secretaría, desde la planeación e integración de la propuesta;
-
-III. Gestionar ante las áreas de la Secretaría, la documentación requerida para la elaboración del proyecto de obra pública;
-
-IV. Elaborar los presupuestos de obra derivados de la atención de demandas ciudadanas;
-
-V. Realizar levantamientos topográficos;
-
-VI. Integrar y colaborar en la integración de expedientes técnicos y ejecutivos para la realización de obras en el Municipio y del programa de inversión;
-
-VII. Realizar la elaboración y verificación física de los generadores de obra, constatando que las obras hayan sido ejecutadas conforme a las especificaciones requeridas en la contratación;
-
-VIII. Coordinar con la Comisión Federal de Electricidad la ejecución de proyectos de electrificación;
-
-IX. Atender el programa de acciones para el rescate de espacios públicos;
-
-X. Coordinar los estudios y opiniones de los planes municipales sobre asentamientos humanos;
-
-XI. Recopilar, sistematizar y registrar las peticiones ciudadanas del ámbito de la Secretaría;
-
-XII. Auxiliar a las diferentes áreas de la Secretaría en el diseño de proyectos de obra pública en el Municipio;
-
-XIII. Coordinar y supervisar la elaboración, actualización, registro y control de programas y proyectos de Obras a ejecutar por la Secretaría, analizando las diferentes opciones para su ejecución;
-
-XIV. Coordinar y supervisar la realización de estudios técnicos requeridos por los procesos de planeación y desarrollo de Obra Pública a desarrollar por la Secretaría; y
-
-XV. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 73.
-
-A la Dirección de Movilidad, le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Elaborar y actualizar, en coordinación con el Instituto Municipal de Investigación y Planeación, los estudios de origen y destino para proponer mejoras en la implementación de sistemas integrados de transporte y de infraestructura vial;
-
-II. Coordinar con las entidades Estatales y Federales, la gestión de infraestructura que promueva la movilidad urbana sustentable en el Municipio;
-
-III. Coordinar con las secretarías y entidades municipales el desarrollo de proyectos que impulsen la movilidad urbana sustentable.
-
-IV. Participar con las secretarías y entidades municipales en materia de planeación, para la inclusión de políticas y acciones de transporte público, no motorizado y accesibilidad, en los Programas Municipales y/o Metropolitanos de Desarrollo, obra pública, desarrollo urbano y tránsito;
-
-V. Proponer a la o el Titular de la Dependencia, proyectos y acciones enfocadas a incentivar un desarrollo urbano orientado al transporte; así como a mejorar la infraestructura urbana del Municipio en materia de movilidad urbana sustentable y accesibilidad de acuerdo a la normatividad aplicable;
-
-VI. Coordinarse con el Estado para la elaboración de los programas y/o planes que emanen del Plan Integral de Movilidad Urbana Sustentable.
-
-VII. Complementar en su ámbito de competencia el Plan Integral de Movilidad Urbana Sustentable realizado por el Estado.
-
-VIII. Elaborar y coordinar los programas de movilidad peatonal y en bicicleta, realizando la captación de la demanda y gestión en materia de equipamiento urbano relacionado con la movilidad en el Municipio.
-
-IX. Establecer un sistema de planeación que permita la vinculación de la infraestructura y equipamiento de movilidad urbana con base a las concentraciones de los núcleos poblacionales al interior del Municipio;
-
-X. Implementar las políticas y procedimientos que le sean instruidos en materia de movilidad no motorizada, priorizando las relativas al uso de medios saludables y sustentables de transporte;
-
-XI. Opinar y coadyuvar en la integración de proyectos de infraestructura vial, promoviendo la accesibilidad preferencial y protección en la vía pública de los peatones y usuarios de vehículos no motorizados;
-
-XII. Coadyuvar con las autoridades competentes en el establecimiento de campañas ciudadanas para desincentivar el uso del automóvil;
-
-XIII. Coadyuvar en la promoción de programas de educación vial y capacitación del uso de la bicicleta como medio de transporte alternativo;
-
-XIV. Proponer al titular de la Secretaría soluciones técnicas que promuevan la accesibilidad y mejora de la infraestructura peatonal dentro del territorio del Municipio;
-
-XV. Coadyuvar con las áreas competentes en el establecimiento de proyectos de infraestructura que estimulen los desplazamientos peatonales;
-
-XVI. Proponer al titular de la Secretaría políticas y acciones encaminadas a fomentar el uso del transporte público y su conectividad;
-
-XVII. Proponer el establecimiento de zonas urbanas que sean factibles de ser estrictamente peatonales;
-
-XVIII. Proponer, promover, implementar, monitorear y evaluar las políticas públicas para la intermodalidad;
-
-XIX. Proponer al Titular de la Secretaría, cuando proceda, objetivos, estrategias y líneas de acción en materia de movilidad para la integración del Plan Municipal de Desarrollo.
-
-XX. Realizar informes de evaluación de la movilidad no motorizada anuales, para monitorear el cumplimiento de las metas y objetivos planteados; y
-
-XXI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 74.
-
-A la Dirección Administrativa le corresponde, además de las establecidas en el artículo 111 del presente reglamento, el ejercicio de las siguientes atribuciones:
-
-I. Planear y coordinar, la ejecución de la administración interna; siguiendo las políticas y procedimientos establecidos por las Secretarías de Tesorería y Administración Municipal asegurando un adecuado control interno de las operaciones a su cargo;
-
-II. Elaborar el presupuesto del Programa Anual de Inversión del Municipio en coordinación con las áreas operativas vinculadas con la inversión en obra pública y someterlo a consideración del Titular de la Secretaría para su aprobación;
-
-III. Supervisar y evaluar el ejercicio financiero de las obras autorizadas en el programa de inversión;
-
-IV. Verificar el Avance Físico - Financiero de las obras en proceso adoptando las medidas correctivas que procedan;
-
-V. Coadyuvar con las diferentes áreas de la Secretaría en los procedimientos de adjudicación y contratación para la ejecución de obras públicas, observando la normatividad aplicable en la materia, de acuerdo con el tipo de recurso;
-
-VI. Programar, controlar y supervisar el presupuesto de obras públicas municipales;
-
-VII. Realizar las investigaciones de mercado necesarias para conocer los precios unitarios, manteniéndolos actualizados, para la obra pública que se contrate;
-
-VIII. Revisar y autorizar las estimaciones de obra de acuerdo a la normatividad y requisitos establecidos;
-
-IX. Realizar los trámites administrativos requeridos para proporcionar los recursos, para la ejecución de obra pública;
-
-X. Establecer los mecanismos de supervisión, control y evaluación presupuestal, de las obras ejecutadas con fondos federales;
-
-XI. Proporcionar la información y reportes presupuestales necesarios, a las instancias competentes en materia de obras públicas, conforme a la normatividad aplicable en cada caso; y
-
-XII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+### CAPITULO VIII. Impuesto sobre Explotación de Semovientes
 
 ###### Art. 124.
 
@@ -3195,239 +2259,7 @@ V. Aves, 20 cabezas; y
 
 VI. Colmenas, 5 unidades.
 
-### CAPÍTULO IX. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, TRÁNSITO Y VIALIDAD
-
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
-
-###### ARTÍCULO 75.
-
-La Secretaría de Seguridad Pública, Tránsito y Vialidad es la dependencia Municipal encargada de salvaguardar la integridad física de las personas, preservando su patrimonio, ante situaciones que impliquen violencia o riesgo inminente de peligro, amenaza o disturbio previendo lo necesario para garantizar, mantener y restablecer la paz y el orden público dentro del territorio del municipio, garantizando la aplicación del bando de policía y gobierno, y del reglamento de tránsito y vialidad, promoviendo la participación ciudadana, y se regirá bajo los principios de transparencia, legalidad, objetividad, eficiencia, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Hidalgo.
-
-###### ARTÍCULO 76.
-
-A la o el Titular de la Secretaría de Seguridad Pública, Tránsito y Vialidad, le corresponderá el despacho de las siguientes atribuciones:
-
-I. Suplir las ausencias de la o el Titular de la Presidencia Municipal en el Consejo Estatal de Seguridad Pública, en los términos de la legislación aplicable;
-
-II. Ordenar las estrategias, lineamientos y acciones para la elaboración del Programa Sectorial en la materia;
-
-III. Establecer las bases, estrategias y lineamientos, mediante los cuales se apliquen las infracciones previstas en las disposiciones reglamentarias conducentes, por la instancia correspondiente;
-
-IV. Proporcionar seguridad pública y proveer al orden interno, protegiendo a los particulares en su persona, propiedades y derechos;
-
-V. Establecer los protocolos y lineamientos a través de los cuales se aprehendan, por conducto de los cuerpos policiales a los infractores o personas que cometan conductasposiblemente (sic) constitutivas de delito, en los casos previstos en la Constitución Política de los Estados Unidos Mexicanos; asimismo, auxiliar en estas materias a la autoridad estatal y federal, en términos de las disposiciones legales de la competencia de éstas;
-
-VI. Planear, de acuerdo a la normatividad aplicable, las políticas y lineamientos orientados a la organización, control y supervisión del cuerpo del (sic) seguridad pública;
-
-VII. Organizar la prestación del auxilio de la fuerza pública en operativos especiales, cuando, conforme a la ley, lo requieran los diversos órganos y dependencias de los poderes del Estado;
-
-VIII. Dirigir y organizar el Sistema de Instalaciones Tácticas Especiales, SITE Municipal;
-
-IX. Implementar el registro, baja, modificación y/o actualización de los datos del personal adscrito a la Secretaría dentro del Sistema Nacional de Personal de Seguridad Pública;
-
-X. Apoyar el sistema de consulta de vehículos robados y recuperados, estableciendo mecanismos de coordinación con las autoridades competentes en la materia de los niveles federal, estatal y municipales;
-
-XI. Establecer las acciones que permitan consultar en el Registro Nacional de Huellas Dactilares;
-
-XII. Coadyuvar con las instancias de la Administración Pública Federal, Estatal y Municipales competentes en la materia, a efecto de sistematizar, suministrar e intercambiar información sobre seguridad pública;
-
-XIII. Implementar actividades que garanticen el tránsito seguro de las personas, mediante un sistema coordinado de vigilancia, de tránsito vehicular y de los peatones;
-
-XIV. Establecer acciones que permitan el retiro de la circulación de aquellos vehículos que no reúnan los requisitos de la normatividad aplicable, procurando la vinculación con otras autoridades en la detención y aseguramiento de vehículos cuando exista solicitud que funde y motive la acción;
-
-XV. Promover campañas y cursos de educación vial, con la finalidad de fomentar el uso adecuado de la vía pública, ya sea como peatón, conductor o pasajero de transporte público o privado así como los vehículos no motorizados, y que éstos conozcan las normas y reglas de tránsito vigentes en el Municipio;
-
-XVI. Coordinar con las instancias correspondientes, la modernización y renovación de la vialidad en materia del sistema de semaforización, señalización así como paraderos;
-
-XVII. Supervisar a los concesionarios del servicio de grúas y corralón Municipal, proponiendo los lineamientos de organización y operatividad de los mismos;
-
-XVIII. Coordinar la participación del municipio con los cuerpos de seguridad pública del Estado, la Federación y municipios circunvecinos, con fines de cooperación e intercambio de datos estadísticos, bases de datos, criminalísticas, fichas y demás información que tienda a prevenir la delincuencia, conforme a la normatividad aplicable;
-
-XIX. Proponer a la o el Presidente Municipal, lineamientos orientados a impulsar las acciones que provengan del Consejo de Seguridad Pública Municipal, los observatorios ciudadanos, y demás esquemas de participación ciudadana, que participen en los programas de prevención del delito, que permitan diseñar y recomendar estrategias y acciones institucionales orientadas a diagnosticar y evaluar el impacto de la comisión de delitos en el desarrollo e integración de la sociedad a nivel Municipal, proponiendo la ejecución de acciones coordinadas de carácter interinstitucional, de conformidad con la legislación aplicable vigente;
-
-XX. Implementar acciones que permitan contribuir con la autoridad estatal y municipal en la prevención de delitos;
-
-XXI. Establecer los mecanismos institucionales que permitan la generación de información estratégica encaminadas (sic) a la disminución de la incidencia delictiva;
-
-XXII. Fomentar la cultura de la denuncia y la prevención del delito en el Municipio;
-
-XXIII. Formular la conducción de estrategias para la realización de estudios y actividades que permitan la identificación de personas y grupos delictivos;
-
-XXIV. Desarrollar esquemas de análisis y mecanismos de prevención a (sic) los delitos contra las personas, el patrimonio y la seguridad pública;
-
-XXV. Dar seguimiento a las llamadas de emergencia realizadas directamente a la secretaría; así como coordinar el sistema de apoyo preventivo, solicitado por la ciudadanía, en situaciones de riesgo o casos de emergencia;
-
-XXVI. Dirigir y organizar la cooperación con los servicios de atención ciudadana y el teléfono 066 del Centro de Control, Comando, Comunicaciones y Cómputo, para la atención de emergencias;
-
-XXVII. Contribuir con la Dirección General Jurídica de la Secretaría General Municipal en la asistencia legal de la Secretaría, cuando se trate de asuntos relacionados con el ejercicio de sus funciones;
-
-XXVIII. Coadyuvar con la Dirección General Jurídica de la Secretaría General en todos los trámites establecidos por la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como en aquellos asuntos que correspondan a la Secretaría de Seguridad Pública, Tránsito y Vialidad representar a la Presidencia Municipal, dentro de los juicios de amparo, en términos del artículo 9 de la Ley de la materia, al igual que en las controversias constitucionales y en las acciones de inconstitucionalidad;
-
-XXIX. Determinar, la elaboración de los escritos que se deban presentar de demandas, desistirse o formular su contestación, reconvenir a la contraparte, ejercitar acciones y oponer excepciones; así como ofrecer, exhibir y desahogar pruebas, articular y desahogar posiciones, formular alegatos, interponer toda clase de recursos, y, en general, vigilar y atender la tramitación de los juicios y procedimientos jurisdiccionales, administrativos o contenciosos, y en aquellos asuntos en los que la Secretaría tenga interés jurídico, bajo la coordinación de la Dirección General Jurídica;
-
-XXX. Establecer las bases normativas para la elaboración de los lineamientos, los manuales y protocolos para el uso de la fuerza pública por las instituciones policiales del Municipio de Pachuca de Soto, Estado de Hidalgo; y
-
-XXXI. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o él Presidente Municipal.
-
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
-
-###### Artículo 77.
-
-Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de las funciones y atribuciones a su cargo, la Secretaría de Seguridad Pública, Tránsito y Vialidad contará con la siguiente estructura:
-
-I. Dirección de Policía Preventiva;
-
-II. Dirección de Vialidad y Tránsito;
-
-III. Dirección de Prevención del Delito;
-
-IV. Dirección de Planeación y Estadística; y
-
-V. Dirección Administrativa.
-
-###### Artículo 78.
-
-A la Dirección de Policía Preventiva le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Coordinar el cumplimiento y vigilar la ejecución del Programa Rector Municipal de Seguridad Pública;
-
-II. Organizar el control, supervisión y evaluación del cuerpo de seguridad pública;
-
-III. Coadyuvar en el establecimiento de mecanismos institucionales dirigidos a la prevención del delito, observando el cumplimiento y aplicación eficaz de las disposiciones en la materia;
-
-IV. Intervenir en la detención de infractores ante la comisión de faltas administrativas, flagrancia en la realización de un ilícito o ante la celebración de hechos graves que afecten la seguridad, bienestar y patrimonio de las personas;
-
-V. Preservar el orden, tranquilidad, seguridad pública y armonía social, dentro de la jurisdicción municipal;
-
-VI. Participar en el diseño de estrategias eficaces y oportunas que permitan reducir el tiempo de reacción para preservar la seguridad pública;
-
-VII. Proporcionar el servicio de seguridad pública bajo condiciones de calidad y respeto a los derechos humanos;
-
-VIII. Rendir diariamente a la o al Titular de la Secretaría un informe de los hechos y actividades relevantes de la Dirección;
-
-IX. Planear, desarrollar y establecer líneas de comunicación a través de la aplicación de tecnologías de (sic) información, que permitan conformar una arquitectura interna de redes convergentes de voz, datos y video, para la correcta instrumentación de proyectos y programas estratégicos para la Secretaría;
-
-X. Monitorear de forma permanente los sistemas tecnológicos de vigilancia instaladas (sic) en diferentes puntos del Municipio;
-
-XI. Generar oportuna y eficazmente la elaboración de informes periódicos sobre incidentes relevantes que permitan al Titular de la Secretaría adoptar decisiones expeditas sobre asuntos estratégicos del Municipio;
-
-XII. Poner a disposición del Órgano Administrativo competente a través de los diferentes cuerpos policiales adscritos a la Dirección, a los sujetos responsables por la comisión de infracciones y faltas administrativas derivadas de la violación a las disposiciones contenidas en el Bando de Policía y Gobierno y los demás ordenamientos reglamentarios del Municipio;
-
-XIII. Implementar los lineamientos, manuales y protocolos para el uso de la fuerza pública por las instituciones policiales del Municipio de Pachuca de Soto, Estado de Hidalgo; y
-
-XIV. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### Artículo 79.
-
-A la Dirección de Vialidad y Tránsito le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Coordinar el cumplimiento y vigilar la ejecución del Programa Rector Municipal de Tránsito y Vialidad, en coordinación con las autoridades competentes;
-
-II. Supervisar el tránsito en las vialidades de jurisdicción municipal, en los términos que señalen las leyes y reglamentos respectivos y, en su caso, aplicar las infracciones que procedan cuando existan violaciones a los mismos y en los términos previstos en la reglamentación de tránsito y vialidad;
-
-III. Organizar los diversos cuerpos de tránsito y vialidad;
-
-IV. Realizar actividades tendientes a garantizar el tránsito seguro de las personas, mediante un sistema coordinado de vigilancia, de tránsito vehicular, ciclistas y de los peatones;
-
-V. Promover la modernización y renovación del sistema de señalización en base a la normatividad existente así como del desarrollo de un sistema confiable, oportuno y eficaz de semáforos, en coordinación con las autoridades competentes en la materia;
-
-VI. Promover una educación vial dentro de la jurisdicción municipal;
-
-VII. Promover la participación ciudadana;
-
-VIII. Rendir diariamente a la o al Titular de la Secretaría un informe de los hechos y actividades relevantes de la Dirección;
-
-IX. Dirigir el control y supervisión de las estrategias y acciones abocadas al retiro de la circulación de todos aquellos vehículos que no cumplan con la normatividad para circular;
-
-X. Implementar acciones que permitan la detención y aseguramiento de vehículos, cuando exista solicitud que funde y motive la acción; procurando el establecimiento de los mecanismos y la coordinación con otras autoridades;
-
-XI. Supervisar a los concesionarios de los servicios de grúas y corralón, vigilando la aplicación (sic) los lineamientos establecidos para su operación;
-
-XII. Resguardar y custodiar aquellas garantías que se hayan retenido por motivo de las infracciones impuestas por transgredir el Reglamento de Tránsito y Vialidad del Municipio;
-
-XIII. Elaborar estadísticas de incidencias de las infracciones cometidas, reportándolas mediante un informe mensual a la o al Titular de la Secretaría; que contribuyan al establecimiento de políticas de difusión para prevenir infracciones;
-
-XIV. Elaborar estadísticas de accidentes de tránsito dividiéndolos en los diferentes tipos de usuarios que utilizan las vialidades, reportándolas mensualmente mediante un informe a la o el Titular de la Secretaría; que contribuyan al establecimiento de políticas de seguridad vial para la prevención de accidentes;
-
-XV. Elaborar auditorias de seguridad vial anualmente para determinar índices de accidentabilidad en los puntos donde se hayan generado el mayor número de percances viales, que contribuyan al establecimiento de políticas de seguridad vial para la prevención de accidentes; y
-
-XVI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### Artículo 80.
-
-A la Dirección de Prevención del Delito le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Conducir el cumplimiento y ejecución del Programa Rector Municipal de Prevención del Delito, a fin de contribuir a la consolidación de las políticas de seguridad pública, en coordinación con las autoridades competentes;
-
-II. Organizar la instrumentación, ejecución, supervisión y evaluación de la formación de observatorios ciudadanos para que participen en los programas de prevención del delito, que permitan diseñar y recomendar estrategias y acciones institucionales, orientadas a diagnosticar y evaluar el impacto de la comisión de delitos en el desarrollo e integración de la sociedad a nivel Municipal, proponiendo la ejecución de acciones coordinadas de carácter interinstitucional, de conformidad con la legislación aplicable vigente;
-
-III. Establecer, dar seguimiento y evaluar los programas dirigidos a la prevención del delito, generando mecanismos de colaboración interinstitucional e intergubernamental con las autoridades competentes en la materia, en el ámbito municipal;
-
-IV. Auxiliar en la instrumentación de convenios, políticas, lineamientos y acciones de apoyo y coordinación interinstitucional con organismos públicos, sociales y privados para la prevención del delito y el fomento de la participación ciudadana;
-
-V. Fomentar la cultura de denuncia y la prevención del delito en el Municipio;
-
-VI. Fortalecer la participación ciudadana dentro de los sistemas institucionales de prevención del delito a efecto de garantizar una cultura preventiva y el desarrollo de valores cívicos entre la ciudadanía;
-
-VII. Coadyuvar en el estudio de conductas antisociales y los factores que la propician que permitan, en coordinación con las autoridades estatales y federal, contribuir al diseño de planes y programas de prevención del delito;
-
-VIII. Coordinar con las instancias correspondientes, la ejecución de acciones institucionales e interinstitucionales tendientes a la prevención de la farmacodependencia, consumo de bebidas alcohólicas y tabaco;
-
-IX. Fomentar el respeto a la dignidad de la persona y la promoción de la integración de la familia;
-
-X. Fortalecer el respeto a los derechos humanos;
-
-XI. Promover la participación de los medios de comunicación en los programas de prevención del delito y de difusión de los valores cívicos;
-
-XII. Promover con las autoridades educativas la implementación de programas escolares de autoprotección;
-
-XIII. Promover la coordinación de los tres ámbitos de gobierno y de los sectores de la sociedad en la atención de las causas sociales que propician la delincuencia; y
-
-XIV. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### Artículo 81.
-
-A la Dirección de Planeación y Estadística, le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Monitorear de forma permanente los sistemas tecnológicos de vigilancia instaladas (sic) en diferentes puntos del Municipio;
-
-II. Generar oportuna y eficazmente la elaboración de informes periódicos sobre incidentes relevantes que permitan al Titular de la Secretaría adoptar decisiones expeditas sobre asuntos estratégicos del Municipio;
-
-III. Elaborar el mapeo y gráficas de las incidencias delictivas que permitan al personal operativo implementar la vigilancia oportuna y las estrategias necesarias para combatirlas; y
-
-IV. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### Artículo 82.
-
-A la Dirección Administrativa le corresponde, además de las establecidas en el artículo 105 del presente Reglamento, el ejercicio de las siguientes atribuciones:
-
-I. Elaborar el Programa anual de capacitación y especialización del personal de la Secretaría para la realización de sus funciones;
-
-II. Coordinar la formación del personal operativo de la Secretaría, junto con los institutos de capacitación y profesionalización tanto federales como estatales;
-
-III. Evaluar las políticas de capacitación tendientes a elevar la formación y desarrollo de habilidades y destrezas para el mejoramiento de los servidores públicos de la Secretaría;
-
-IV. Llevar el registro, control y seguimiento del personal inscrito en los módulos de capacitación relativos al tema de seguridad pública o materias afines a la misma;
-
-V. Verificar que los programas de profesionalización se apliquen al personal de la secretaría;
-
-VI. Realizar los estudios para detectar las necesidades de capacitación de los servidores públicos y proponer los cursos correspondientes;
-
-VII. Coadyuvar en la implementación de los instrumentos específicos para la evaluación y diagnóstico del rendimiento intelectual, personalidad, valores y aptitudes que hayan sido determinados como necesarios para quienes laboran en la Secretaría;
-
-VIII. Fomentar la evaluación psicológica a fin de evitar conductas y actitudes que afecten la imagen de la Secretaría;
-
-IX. Detectar e identificar en la conducta del personal de seguridad pública, factores de riesgo y problemática psicológica, analizarla y valorar los casos susceptibles, a fin de emitir el dictamen correspondiente con propuestas de acciones preventivas y de atención que permitan reorientar su vocación de servicio;
-
-X. Proponer a la o el Titular de la Secretaría la elaboración de análisis, el diseño de sistemas y la elaboración de programas informáticos tendientes al desarrollo, implementación y adaptación de tecnología y sistemas informativos ágiles y eficientes que permitan la modernización y eficacia institucional de las políticas, estrategias y programas en materia de seguridad pública;
-
-XI. Brindar soporte y asistencia técnica a todo el equipo de cómputo y bases de datos de la Secretaría;
-
-XII. Administrar eficazmente las cuentas de los usuarios de la red de la secretaría, a efecto (sic) garantizar la seguridad de la información;
-
-XIII. Coadyuvar en la elaboración y ejecución de los programas y acciones de mantenimiento del equipo de cómputo, así como efectuar el registro y la asignación del mismo a los (sic) áreas administrativos (sic) de la Secretaría; y
-
-XIV. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+### CAPITULO IX. Impuestos Extraordinarios
 
 ###### Art. 129.
 
@@ -3445,755 +2277,147 @@ El objeto, el sujeto, los responsables solidarios, la base, el pago y demás ele
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE AGOSTO DE 1999)</small>
 
-### CAPÍTULO X. DE LA SECRETARÍA DE DESARROLLO HUMANO Y SOCIAL
+### CAPITULO X. Del Impuesto sobre Negocios Jurídicos
 
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+Art. 131 bis. Es objeto de este impuesto:
 
-###### ARTÍCULO 83.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2000)</small>
 
-La Secretaría de Desarrollo Humano y Social es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el presidente municipal, en la conducción de la política social, coordinando el desarrollo, crecimiento y bienestar de la población del Municipio, mediante acciones que garanticen los derechos sociales de personas, familias y grupos sociales en situación de pobreza, vulnerabilidad y marginación, estableciendo vínculos con los gobiernos federal y estatal, y con organizaciones de la sociedad civil, en la aplicación de programas y proyectos destinados al desarrollo social.
+I. La realización, celebración o expedición de los actos o contratos relativos a construcción, reconstrucción o ampliación de inmuebles.
 
-Además, se encargará de fomentar la participación ciudadana en la educación, la inclusión, la salud, relaciones libres de discriminación, la recreación y la promoción cívico-social; encaminada a regular y garantizar el derecho a la igualdad real entre personas, generando acciones para contribuir a la justicia social y al desarrollo humano de la población.
+En todos los casos en que se efectúen actos comprendidos en el párrafo anterior, se considera que se ha celebrado el contrato respectivo.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+No se considerarán como objeto de este impuesto los casos de autoconstrucción. Se entiende que existe autoconstrucción cuando se agoten los siguientes requisitos:
 
-###### ARTÍCULO 84.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
-A la o el titular de la Secretaría de Desarrollo Humano y Social, le corresponderá el despacho de las siguientes atribuciones:
+1. Que el propietario del terreno donde se efectúe la obra, sea quien la realice, ya sea personalmente o con el auxilio de no más de tres personas ajenas a su familia;
 
-I. Formular, ejecutar y dar seguimiento al programa de desarrollo humano y social para fortalecer las capacidades de grupos socialmente vulnerables del municipio que no sean competencia de otras secretarías de la administración municipal;
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
-II. Proponer a la o el presidente municipal, coordinar y ejecutar las políticas públicas que promuevan la igualdad de oportunidades para el desarrollo social y humano de la población del municipio, así como la participación ciudadana en actividades educativas, artísticas, cívicas, recreativas, de salubridad.
+2. Que la propiedad del terreno y de la construcción recaiga en una sola persona y que ésta acredite no poseer más propiedades, mediante certificación que al efecto expida la Dirección de Catastro; y
 
-III. Promover la participación corresponsable de las diferentes secretarías y entidades municipales, estatales, federales y la sociedad civil; en los programas de desarrollo social y humano a su cargo;
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
-IV. Planear, formular, normar, instrumentar, coordinar y supervisar el establecimiento de acciones de carácter social para la promoción y ejecución de programas, obras y proyectos que contribuyan al mejoramiento de la calidad de vida de los habitantes del municipio;
+3. Que el permiso de construcción esté expedido por las autoridades competentes, a nombre del propietario del inmueble, y que éste o su asesor acrediten su carácter de responsable de la obra.
 
-V. Proyectar y coordinar la participación del municipio con los gobiernos estatal y federal, sobre la política social;
+Para los efectos de la excepción anterior, la Tesorería Municipal podrá efectuar la declaratoria de no causación correspondiente, siempre que lo solicite el interesado, dentro de los treinta días siguientes de la iniciación de la obra, y compruebe encontrarse en el caso de autoconstrucción.
 
-VI. Coordinar las acciones que incidan en el combate a la pobreza, fomentando un mejor nivel de vida, en lo que la o el presidente municipal convenga con los gobiernos estatal y federal, buscando en todo momento propiciar la simplificación de los procedimientos y el establecimiento de medidas de seguimiento, control y evaluación;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-VII. Gestionar el ejercicio de recursos federales y estatales en aquellos programas de desarrollo social en los cuales exista concurrencia con los otros niveles de gobierno;
+II. Son sujetos de este impuesto las personas físicas o jurídicas que asuman el costo de la obra en los actos o contratos. Será responsable solidario el propietario del bien;
 
-VIII. Coordinar con la secretaría de desarrollo económico municipal, el fomento de condiciones que permitan estimular la productividad de grupos en situación de vulnerabilidad de la población del municipio;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-IX. Proponer políticas públicas que permitan contribuir al desarrollo de capacidades productivas de las personas, familias, grupos en situación de vulnerabilidad y organizaciones sociales;
+III. Será base para el pago de este impuesto, el costo total de las obras que tengan por objeto la construcción, reconstrucción y ampliación de obras materiales, calculado conforme a las tablas de valores unitarios aprobadas por el Congreso del Estado;
 
-X. Proponer a la o el presidente municipal, políticas de apoyo a la participación de los grupos vulnerables de la población, para promover su participación activa en el desarrollo de sus capacidades, con base en los principios de equidad, inclusión e igualdad de oportunidades, en coordinación con las autoridades estatales y federales competentes en la materia;
+IV. Este impuesto se liquidará y pagará de conformidad con la tarifa que al efecto señale la Ley de ingresos del Municipio.
 
-XI. Coadyuvar y ejecutar, en el ámbito de su competencia, el programa educativo del municipio, en coordinación con las autoridades estatales y federales responsables en la materia;
+Siempre que por virtud de algún acto o contrato público o privado, cualquier persona adquiera una propiedad como terreno, teniendo construcción al momento del acto o del otorgamiento del contrato respectivo, que no hubiera sido hecha por el adquirente del terreno, la Tesorería Municipal procederá a cobrar al sujeto pasivo la diferencia de los impuestos realmente causados y a imponer, como sanción pecuniaria, una multa hasta de tres tantos del crédito fiscal omitido, más accesorios, pues en estos casos y para los efectos de este impuesto se considera que no solamente se transmitió el terreno sin construir, sino también la construcción misma;
 
-XII. Diseñar programas, proyectos y estudios focalizados a la atención de la diversidad sexual, que permitan promover sus derechos a la vida, salud, educación, trabajo, profesionalización, participación ciudadana, medio ambiente, recreación y deporte, principalmente; pero sin ser exclusivos;
+V. El pago de este impuesto se efectuará dentro de los plazos que a continuación se indican:
 
-XIII. Fomentar, organizar y programar eventos y actividades culturales, cívicas, de recreación y esparcimiento, para los habitantes y visitantes del municipio, enfocados a desarrollar una cultura ciudadana participativa y socialmente corresponsable;
+En los casos de contratos de construcción, reconstrucción, ampliación o demolición de inmuebles, dentro de los treinta días siguientes a la fecha de firma del mismo. A falta de contrato escrito, dentro de los treinta días siguientes a la fecha de inicio de la construcción.
 
-XIV. Formular estrategias mediante las cuales se organicen, administren y enriquezcan sistemáticamente las bibliotecas públicas municipales;
+Independientemente de la fecha del contrato, los sujetos pasivos del impuesto están obligados a presentar por escrito, ante la Tesorería Municipal, un aviso de construcción, dentro de los diez días siguientes al inicio de la misma.
 
-XV. Promover el patrocinio en la realización de congresos, asambleas, reuniones, eventos, competencias, conferencias y concursos de carácter científico, técnico, cultural, educativo y artístico;
+Para los efectos de esta fracción, los contribuyentes presentarán declaración ante la Oficina de Recaudación correspondiente, o donde, en su caso lo disponga la Tesorería Municipal, a la que anexarán copia del documento en que se haga constar el acto o contrato gravado.
 
-XVI. Establecer metas cuantitativas y cualitativas e indicadores de resultados y de gestión de los programas de desarrollo social a su cargo y de aquellos que se realicen de manera coordinada con los gobiernos estatal y federal;
+VI. Están exentos del pago de este impuesto:
 
-XVII. Establecer mecanismos para incluir la participación social organizada en los programas, proyectos y acciones de desarrollo humano y social a cargo de la secretaría;
+a) La Federación, el Estado y los municipios;
 
-XVIII. Proponer programas y acciones que propicien el desarrollo humano y social de los niños, niñas, adolescentes y jóvenes del municipio;
+b) Los contratos de construcción que celebren las empresas paraestatales y organismos descentralizados;
 
-XIX. Conducir y formular la política municipal de atención a las personas adultas mayores, instrumentando los programas, proyectos y estudios que les garanticen entre otros, sus derechos a la vida digna, salud, educación, trabajo, profesionalización, medio ambiente, recreación y deporte;
+c) Los contratos de construcción o financiamiento relativos a la edificación o adquisición de viviendas de interés social, clasificadas como tipo Cajón A.
 
-XX. Fungir, cuando así lo instruya la o el presidente municipal, como representante en materia de personas adultas mayores ante las diferentes instancias de gobierno, organizaciones sociales, estatales, nacionales, y dado el caso, internacionales; buscando concertar acuerdos y convenios para promover la participación en la ejecución de las políticas, programas y acciones tendientes al desarrollo y atención integral de las personas adultas mayores;
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
-XXI. Fomentar la cultura de la corresponsabilidad social;
+d) La realización de actos o contratos, cuando su objeto sea la construcción, reconstrucción y ampliación de inmuebles destinados a viviendas de interés social, unifamiliar y de tipo popular, según las definiciones previstas en la Ley de Ingresos del Municipio.
 
-XXII. Proponer políticas públicas que garanticen el derecho a la igualdad de género entre las mujeres y los hombres, estableciendo los lineamientos y mecanismos institucionales que oriente el municipio hacia el cumplimiento de la igualdad sustantiva en el ámbito del desarrollo humano y social; y
+Los notarios o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
 
-XXIII. Las demás que le asignen las leyes, reglamentos y demás normatividad federal y estatal, aplicable en su ámbito de competencia y la o el presidente municipal.
+En todo caso, al margen de la matriz y en los testimonios o en los documentos privados, deberá asentarse la constancia de pago o la que éste no se causa.
 
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
+No se dará trámite ni se registrará documento alguno si no obra en él dicha constancia.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, se causará el impuesto como si fuesen puras y simples.
 
-###### ARTÍCULO 85.
+> <small>(ADICIONADO CON LA SECCION Y EL ARTICULO QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 1999)</small>
 
-Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de funciones y atribuciones a su cargo, la Secretaría de Desarrollo Humano y Social contará con la siguiente estructura:
+### CAPITULO XI. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
 
-a) Dirección de desarrollo social;
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE DICIEMBRE DE 1999)</small>
 
-b) Dirección de salud humana;
+#### SECCION PRIMERA. Del Objeto
 
-c) Dirección de educación; y
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 1999)</small>
 
-d) Dirección de atención a las personas adultas mayores.
+Art. 131 bis-A. Es objeto del impuesto sobre espectáculos públicos, el ingreso que se obtenga por concepto de la explotación de los espectáculos como teatro, ballet, ópera, circo, lucha libre, box, taurinos, fútbol, basquetbol, beisbol, y demás espectáculos deportivos, excepto charrería; espectáculos de carpa, variedades, conciertos, audiciones musicales, exhibiciones de cualquier naturaleza y otros espectáculos de carácter artístico.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+No se considerarán objeto de este impuesto los ingresos que obtenga la Federación, el Estado y los Municipios por las diversiones y espectáculos públicos que directamente realicen. Tampoco se considerarán objeto de este impuesto los ingresos que se perciban por el boleto de entrada en los eventos de exposición para el fomento de actividades comerciales, industriales, agrícolas, ganaderas y de pesca, así como los ingresos que se obtengan por la celebración de eventos cuyos fondos se canalicen a instituciones asistenciales o de beneficencia.
 
-###### ARTÍCULO 86.
+#### SECCION SEGUNDA. De los Sujetos
 
-La Dirección de Desarrollo Social, le corresponderá el ejercicio de las siguientes atribuciones:
+Son sujetos de este impuesto las personas físicas, jurídicas o unidades económicas que perciban los ingresos a que se refiere el artículo anterior.
 
-I. Proponer líneas estratégicas para la planeación, organización y ejecución de la política Municipal en materia de desarrollo humano y social del Municipio;
+#### SECCION TERCERA. De la Base y Cuota
 
-II. Integrar las propuestas para la formulación, ejecución y seguimiento del Programa de Desarrollo Humano y Social del Municipio;
+Es base para el pago de este impuesto el monto total de los ingresos obtenidos.
 
-III. Establecer las bases de coordinación entre las secretarías y entidades paramunicipales, estatales federales, para la implementación de programas sociales;
+En la cuota, este impuesto se liquidará de conformidad con la tarifa que al efecto señale la Ley de Ingresos Municipal a que corresponda. En caso de que en una misma función se presenten dos o más espectáculos, el impuesto se causará con el porcentaje más alto.
 
-IV. Formular las estrategias que permitan identificar a los grupos vulnerables dentro del Municipio;
+#### SECCION CUARTA. Del Pago
 
-V. Recabar la información de los principales indicadores en materia de Desarrollo Social con impacto en el Municipio;
+El pago de este impuesto deberá realizarse en la Oficina de la Tesorería Municipal correspondiente, ó en las Instituciones Bancarias autorizadas para este fin, dentro de los siguientes plazos:
 
-VI. Identificar en coordinación con el Sistema para el Desarrollo Integral de la Familia Municipal, las necesidades de la población, realizando el diagnóstico y programación del consenso de acciones que brinden mayores beneficios a la población vulnerable del Municipio;
+a) Cuando los espectáculos públicos se realicen permanentemente en establecimientos fijos, será a más tardar el día veinte del mes siguiente al que se hubiesen percibido los ingresos, presentando al efecto una declaración de los ingresos obtenidos en las formas aprobadas; y
 
-VII. Promover en conjunto con la Secretaría de Desarrollo Económico del Municipio, programas para fomentar la productividad de los habitantes del Municipio;
+b) Cuando se trate de contribuyentes eventuales, al terminar cada actividad o función, efectuarán el pago diariamente.
 
-VIII. Coordinar las acciones que incidan en el combate a la pobreza fomentando un mejor nivel de vida;
+En el caso del párrafo anterior, la Tesorería Municipal podrá autorizar al contribuyente de que se trate, para enterar del impuesto causado, al siguiente día hábil de aquél en que se celebre la actividad o función.
 
-IX. Coordinar la promoción, apoyo y asesoramiento a los grupos sociales organizados, en su participación en la ejecución de obras y acciones, de conformidad con la legislación aplicable en la materia de desarrollo social;
+#### SECCION QUINTA. De las Obligaciones
 
-X. Establecer, en coordinación con el Sistema para el Desarrollo Integral de las Familias del Municipio y con la Comisión correspondiente del Ayuntamiento, políticas, programas y proyectos enfocados a la atención de las necesidades de los adultos mayores del Municipio y de los demás grupos vulnerables;
+Los contribuyentes de este impuesto cuando exploten los espectáculos públicos en establecimiento fijo, tienen, además, las siguientes obligaciones:
 
-XI. Proponer a la o el Titular de la Secretaría, políticas, programas y proyectos enfocados a la atención integral de la población juvenil del Municipio, en coordinación con las autoridades estatales y, en su caso, federales;
+a) Presentarse ante la Tesorería Municipal u Oficialía de Padrón y Licencias en su caso, para llenar la solicitud para la obtención de su licencia de funcionamiento, haciendo uso de las formas aprobadas y proporcionando los requisitos que en ella se requieran, mínimo el día anterior al que vayan a dar principio a la explotación de los espectáculos;
 
-XII. Promover y brindar asesoría gratuita entre la población vulnerable del Municipio, de los diferentes programas de desarrollo social, tanto municipales, estatales y federales, a los cuales pueden acceder;
+b) Presentar avisos de cambio de giro o domicilio, suspensión de actividades, traspaso ó clausura ante las autoridades mencionadas en el párrafo que antecede previamente a la fecha en que ocurran tales actos o circunstancias;
 
-XIII. Elaborar y ejecutar el Programa Municipal de Salud;
+c) Cuando los espectáculos públicos se realicen en forma eventual, o no cuenten con establecimiento fijo deberán:
 
-XIV. Diseñar e implementar acciones directas e indirectas de fomento a la salud integral, individual y colectiva de la población del Municipio;
+1) Presentar un informe ante la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, que indique el período durante el que se realizarán los hechos o actos que originen el impuesto, a mas tardar el día anterior al que se inicien;
 
-XV. Elaborar y ejecutar programas de prevención y regulación sanitaria de acuerdo a los ordenamientos estatales, federales y del propio Municipio;
+2) Previamente al inicio de las actividades, otorgar garantía, a satisfacción de la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, en alguna de las formas previstas en esta ley, que no será inferior al impuesto estimado, correspondiente a un día de actividad;
 
-XVI. Promover acciones encaminadas a lograr la re-certificación anual de la Red Nacional de Municipios Saludables;
+3) Dar el aviso correspondiente, en los casos de ampliación del período de explotación, ante la Tesorería Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, a más tardar, el último día que comprende el aviso cuya vigencia se vaya a ampliar;
 
-XVII. Participar en campañas de vacunación, ferias de salud, detecciones oportunas de cáncer cérvico uterino, diabetes mellitus, hipertensión arterial, embarazo de alto riesgo así como pláticas de salud sexual y reproductiva a la población del Municipio; y,
+d) En el caso de que se utilicen medios electrónicos para la expedición de boletos o control de asistencia a los eventos, o espectáculos públicos, las personas físicas o jurídicas responsables de la operación de estos medios, previamente pondrán a disposición de la autoridad municipal los manuales de operación de los sistemas; y entregar al día siguiente los reportes de resultados que se les soliciten;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
+e) Presentar ante la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos;
 
-XVIII. Coordinar a través del Departamento de Diversidad Sexual la vinculación de poblaciones de la Diversidad Sexual.
+f) No vender boletos en tanto no están resellados por las autoridades municipales;
 
-XIX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+g) Permitir a los supervisores que designe el ayuntamiento o sus oficinas de recaudación municipal, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento;
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+h) En general, adoptar las medidas de control que, para la correcta determinación de este impuesto, establezca la Tesorería Municipal;
 
-ARTÍCULO 86 BIS.- Al Departamento de Diversidad Sexual le corresponderá el despacho de las siguientes atribuciones.
+i) Este impuesto, en ningún caso, deberá ser trasladado al espectador.
 
-I.- Proponer acciones en materia de política y planeación Municipal para la Atención de las poblaciones de la Diversidad Sexual.
+Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en el, inciso c), numeral 2 de la fracción anterior no hubieran cumplido con tal obligación, la autoridad Municipal podrá suspender el espectáculo hasta en tanto no se garantice el pago del impuesto, para lo cual, el supervisor que se designe solicitará el auxilio de la fuerza pública.
 
-II.- Diseñar programas y proyectos focalizados a la atención, visibilización e inclusión de la Diversidad Sexual, que permitan promover sus derechos a la vida, salud, educación, trabajo, profesionalización, participación ciudadana, medio ambiente, recreación deporte y demás derecho, principalmente pero sin ser exclusivos;
+Quedan preferentemente afectos a garantizar el pago de este impuesto:
 
-III.- Coordinar la observancia de la Ley para Prevenir, Atender y Eliminar la Discriminación en el Estado de Hidalgo así como impulsar la Ley para la Familia del Estado de Hidalgo, de acuerdo con las últimas reformas del 2019 relativas a la población de la Diversidad Sexual y del marco jurídico vigente aplicable en la materia;
+a) Los bienes inmuebles en que se exploten espectáculos públicos, cuando sean propiedad de los contribuyentes de este impuesto; y
 
-IV.- Brindar asesoría y seguimiento a las problemáticas de las poblaciones de la Diversidad Sexual, para el acceso a los programas Municipales, Estatales y Federales, que apoyen el desarrollo integral de estas poblaciones en el Municipio;
+b) El equipo y las instalaciones que se utilicen en el mencionado espectáculo.
 
-V.- Generar programas de capacitación para el personal médico y de enfermería para que reconozcan y garanticen el pleno derecho a la salud sin discriminación.
+## TITULO SEGUNDO. De los Derechos
 
-VI.- Buscar la vinculación con las autoridades para la generación de un programa de inclusión laboral para personas de la diversidad sexual con énfasis en las personas trans, y generar una cultura de un mercado laboral más amplio para ellas.
-
-VII.- Es necesario impulsar un programa municipal de capacitación educativa integral de la sexualidad, acorde a los contextos locales, con el fin de generar conocimiento más asertivo para la comunidad educativa sobre las orientaciones sexuales y las identidades de género.
-
-VIII.- Generar programas de apoyo a personas LGBTTTIQ+ y sus familias con el fin de generar confianza en la expresión de su identidad de género o su orientación sexual, y retribuir a garantizar seguridad en infancias diversas con énfasis en proteger las infancias trans.
-
-IX.- Generar políticas publicas para la inclusión de personas de la Diversidad Sexual en las administraciones pública (sic).
-
-X.- Generar un programa de capacitación para las autoridades procuradoras de justicia, así como a policías municipales con el fin de conocer los derechos y las condiciones de la población LGBTTTIQ+.
-
-XI.- Impulsar un programa de capacitación a las autoridades y funcionarios de la administración pública municipal, sobre los derechos humanos y la condición de las personas LGBTTTIQ+, con el fin de garantizar un trato digno a esta población.
-
-XII.- Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-###### ARTÍCULO 87.
-
-A la Dirección de Salud Humana; para el desarrollo de sus funciones contara con el:
-
-I. Departamento de programas de prevención, promoción de la salud y servicios médicos;
-
-La persona titular de la dirección de atención a la salud humana, deberá contar con formación en medicina general; título, cedula profesional y experiencia comprobada.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-ARTÍCULO 87 BIS.- A la Dirección de Salud Humana le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Contribuir para el programa municipal de salud;
-
-II. Diseñar y ejecutar programas y acciones para contribuir a mejorar las condiciones de salud de la población en condición de vulnerabilidad en el Municipio;
-
-III. Diseñar e implementar acciones directas e indirectas de fomento a la salud integral, individual y colectiva de la población del municipio;
-
-IV. Elaborar y ejecutar programas de prevención y regulación sanitaria de acuerdo a los ordenamientos estatales, federales y del propio municipio;
-
-V. Promover acciones encaminadas a lograr la recertificación anual del (sic) la red nacional de municipio saludables;
-
-VI. Participar en campañas de vacunación, ferias de salud, detección oportuna de cáncer cérvico uterino, cáncer de mama, diabetes mellitus, hipertensión arterial, prevención de embarazo adolescente, atención a embarazo de alto riesgo, así como acciones para la atención de la salud sexual y reproductiva a la población del municipio;
-
-VII. Fomentar e incorporar acciones que coadyuven a la creación, conservación y disfrute de las condiciones de salud que contribuyan al desarrollo humano y social de la población;
-
-VIII. Implementar acciones para contribuir a la educación para la salud de la población;
-
-IX. Brindar atención médica de calidad, preferentemente a grupos en situación de vulnerabilidad;
-
-X. Coordinar y vigilar acciones de sanidad en el municipio;
-
-XI. Implementar acciones sobre vigilancia epidemiológica dentro del municipio;
-
-XII. Brindar atención médica al personal que labora en la administración municipal;
-
-XIII. Participar en comités municipales de salud;
-
-XIV. Dar seguimiento a las incapacidades del personal sindicalizado y de confianza de la administración pública municipal y proporcionar la información a recursos humanos;
-
-XV. Contar con información estadística actualizada en materia de salud en el municipio;
-
-XVI. Promover programas específicos de atención de niñas, niños y adolescentes, mujeres y personas adultas mayores;
-
-XVII. Observar y dar cumplimiento puntual a las normas oficiales vigentes en materia de salud; y
-
-XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-###### ARTÍCULO 88.
-
-A la Dirección de Educación le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Diseñar y ejecutar programas y acciones para contribuir a mejorar las condiciones de vida de la población en condición de vulnerabilidad en el municipio sin acceso a la educación;
-
-II. Brindar asesoría gratuita a grupos vulnerables del municipio, para la continuación de su formación académica en primaria, secundaria y preparatoria mediante el sistema abierto;
-
-III. Implementar programas y proyectos que coadyuven al abatimiento de la problemática del rezago educativo en el municipio;
-
-IV. Formular y proponer programas y acciones, orientadas al mejoramiento de la infraestructura educativa de manera coordinada con la secretaría de obras públicas, desarrollo urbano, vivienda y movilidad;
-
-V. Determinar acciones complementarias en materia educativa a fin de gestionar y coordinar apoyos para la población del municipio;
-
-VI. Formular las políticas, lineamientos y estrategias mediante las cuales se organicen, administren y enriquezcan sistemáticamente las bibliotecas públicas municipales;
-
-VII. Vigilar, coordinar, administrar y supervisar el funcionamiento y debida operación de las bibliotecas públicas municipales, enlazadas con la red nacional de bibliotecas del consejo nacional para la cultura y las artes, en interacción con la red estatal de bibliotecas;
-
-VIII. Coordinar y supervisar la prestación del servicio de las bibliotecas públicas municipales a la ciudadanía;
-
-IX. Elaborar el programa de actualización bibliotecaria;
-
-X. Coordinar al personal de las bibliotecas públicas municipales;
-
-XI. Promover a las bibliotecas en los medios masivos de difusión, así como el fomento del hábito de lectura;
-
-XII. Promoción de instalación de un mayor número de bibliotecas públicas con la participación del gobierno en sus diferentes ámbitos y de la comunidad;
-
-XIII. Promover la participación ciudadana e infantil en materia educativa y cívica;
-
-XIV. Coordinar los consejos de participación social en la educación del municipio, en vinculación con las autoridades estatales y federales;
-
-XV. Organizar acciones mediante las cuales se propicie el patrocinio en la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo y artístico;
-
-XVI. Coadyuvar con acciones encaminadas a la integración de la perspectiva de género, perspectiva de niñez, por lo que se incluirán actividades coordinadas con las secretarías y los institutos, encaminadas a las ciencias y humanidades, el reforzamiento de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la tecnología, la innovación, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva, y el cuidado al medio ambiente;
-
-XVII. Proponer a la o el titular de la secretaría, programas y proyectos enfocados a la atención de la población en general, mediante el centro integral de desarrollo municipal (cidem);
-
-XVIII. Diseñar e implementar cursos, talleres y capacitación en línea y presenciales para todos los ciudadanos, impartidos por el centro integral de desarrollo municipal (cidem);
-
-XIX. Promover actividades artísticas, deportivas y culturales en el centro integral de desarrollo municipal (cidem), dirigidas a ciudadanos de todas las edades que contribuyan a la salud y al bienestar social, además también pensadas en personas con discapacidad;
-
-XX. Promover la capacitación y aprendizaje de artículos, productos y servicios para emprendimiento laboral; y
-
-XXI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-###### ARTÍCULO 89.
-
-La Dirección de atención a las personas adultas mayores para el logro de sus fines contara con el:
-
-I. Departamento atención integral para la vida digna y de calidad de las personas adultas mayores;
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-ARTÍCULO 89 BIS.- A la Dirección de Atención a las Personas Adultas Mayores, le corresponderá el ejercicio de las siguientes atribuciones:
-
-1. Proponer a la o el titular de la secretaría, acciones en materia de política y planeación municipal para la atención a las personas adultas mayores;
-
-2. Diseñar programas, proyectos y estudios focalizados a la atención de los adultos mayores, que permitan promover sus derechos a la vida, salud, educación, trabajo, profesionalización, medio ambiente, recreación y deporte, principalmente;
-
-3. Representar, cuando le sea instruido a la o el titular de la secretaría, ante las diferentes instancias municipales, estatales y federales, organizaciones sociales y privadas, estatales, nacionales o internacionales; relacionadas con la atención a las personas adultas mayores;
-
-4. Proponer a la o el titular de la secretaría, la concertación de acuerdos y convenios con las diferentes instancias municipales, estatales y federales, que promuevan la participación del municipio en la ejecución de políticas, programas y acciones tendientes al desarrollo integral de las personas adultas mayores;
-
-5. Coordinar la observancia de la ley de las personas adultas mayores del estado de hidalgo y del marco jurídico vigente aplicable en la materia;
-
-6. Promover en coordinación con la secretaría de desarrollo económico municipal, la implementación de programas y proyectos que impulsen el emprendimiento de nuevos negocios para las personas adultas mayores;
-
-7. Implementar acciones y procedimientos, que permitan vincular a los sectores producticos del municipio con las personas adultas mayores, promoviendo el acceso a un empleo formal;
-
-8. Coordinar la gestión y promoción de becas, trabajo, formación profesional y capacitación a las personas adultas mayores del municipio;
-
-9. Brindar asesoría a las personas adultas mayores para el acceso a los programas municipales, estatales y federales, que apoyen a su desarrollo integral en el municipio;
-
-10. Gestionar ante las autoridades competentes, servicios de medicina general y especializada, dirigida a las personas adultas mayores del municipio, con el objetivo de preservar su salud;
-
-11. Coordinar las bases de organización y funcionamiento para el establecimiento de comités de personas adultas mayores;
-
-12. Establecer un sistema de captación de propuestas, sugerencias e inquietudes de las personas adultas mayores, que permita su adecuada canalización a la (sic) diferentes secretarías municipales;
-
-13. Proporcionar atención jurídica para salvaguardar la garantía de ejercicio de los derechos humanos de las personas adultas mayores.
-
-14. Establecer estrategias para promover la cultura del buen trato para las personas adultas mayores en el municipio;
-
-15. Implementar estrategias de atención para la salud mental de las personas adultas mayores; y
-
-16. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-### CAPÍTULO XI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
-
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
-
-###### ARTÍCULO 90.
-
-La Secretaría de Desarrollo Económico es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política orientada a fortalecer a los sectores productivos del Municipio en las vertientes de comercio interior, industria, servicios, y simplificación de trámites, así como de regular, orientar y estimular medidas de protección al consumidor, la inversión, la transferencia de tecnología y promover o, en su caso, organizar la investigación técnico-industrial, lo anterior, con la finalidad de apoyar a las empresas comerciales e industriales en sus iniciativas para modernizarse y elevar su competitividad, que coadyuve al crecimiento económico del Municipio y del Estado.
-
-La Secretaría implementará y aplicará programas y políticas públicas que promuevan y atraigan la inversión en los sectores industrial, comercial y de servicios, con el objetivo de promover la generación de empleos por parte de la iniciativa privada; proponiendo, promoviendo y desarrollando proyectos en favor de la ciudadanía, apoyando a los sectores productivos de la sociedad e implementando esquemas, cuya finalidad será fomentar la actividad económica dentro del territorio del Municipio.
-
-###### ARTÍCULO 91.
-
-A la o el Titular de la Secretaría de Desarrollo Económico le corresponderá el despacho de las siguientes atribuciones:
-
-I. Elaborar, desarrollar y aplicar programas y políticas de inversión directa, promoviendo y fomentando el desarrollo de las actividades industriales, comerciales y de servicios, impulsando el desarrollo sustentable del Municipio;
-
-II. Elaborar y ejecutar los proyectos municipales de comercio interior, industria, abasto, precios, protección al consumidor, inversión y transferencia de tecnología; así como procurar que éstos se encuentren previstos en los proyectos que apruebe la H. Asamblea Municipal con cargo al presupuesto de egresos del Municipio o con el tipo de recursos concurrentes, de conformidad con la legislación y normatividad aplicable en la materia;
-
-III. Establecer mecanismos de coordinación con los Gobiernos Estatal y Federal para fomentar el desarrollo industrial, comercial y de servicios, a efecto de garantizar su debida articulación con el Plan Municipal de Desarrollo, así como con los programas especiales que determine el Presidente Municipal, que beneficien el desarrollo integral sustentable de la economía del Municipio;
-
-IV. Promover, impulsar y coordinar acciones en materia de competitividad;
-
-V. Promover, instrumentar, fomentar y coordinar programas, proyectos y acciones en materia de desarrollo económico local sustentable;
-
-VI. Establecer las políticas para la promoción del Municipio en el ámbito estatal, nacional e internacional, que difunda la infraestructura, programas de apoyo, vocaciones productivas y las ventajas que ello representa para la actividad económica en el Municipio;
-
-VII. Promover, estimular y procurar la atracción y realización de inversiones productivas en el Municipio, provenientes de los sectores públicos, sociales y privado (sic), tanto municipal como estatal e incluso internacional;
-
-VIII. Proponer y formular políticas para la modernización y fortalecimiento de la infraestructura industrial del Municipio, estableciendo mecanismos de coordinación y colaboración con las autoridades de los diferentes niveles de Gobierno;
-
-IX. Planear, en coordinación con las secretarías y entidades de la Administración Pública Municipal y Estatal, responsables del desarrollo metropolitano, urbano, la ecología y el agua, la instalación de parques y zonas industriales, así como, la consolidación de sus servicios;
-
-X. Implementar proyectos, programas y acciones que incentiven el desarrollo, la modernización, competitividad y crecimiento de los sectores productivos del Municipio, brindando especial atención a las micro, pequeña y mediana empresa propiciando su articulación productiva y la canalización oportuna de los apoyos, estímulos e incentivos que prevé la legislación aplicable en la materia;
-
-XI. Coadyuvar en la formulación e instrumentación de programas de capacitación para empresarios, así como proporcionar asistencia técnica y apoyos en la materia, a los productores industriales a los campesinos y, en general, a los participantes de los sectores social y privado, para integrarlos a las cadenas de producción-transformación, comercialización y consumo de sus productos;
-
-XII. Fomentar y promover esquemas de asociación empresarial e impulsar el desarrollo y constitución de sistemas de organización de los productores del sector social;
-
-XIII. Procurar la organización y participación del Municipio y sus sectores productivos, en espacios nacionales e internacionales de promoción y exposición de productos y servicios municipales; procurando se tenga una coordinación con la Secretaría (sic) Planeación y Evaluación y la Dirección de Comunicación Social;
-
-XIV. Promover la difusión de información y aplicación de fondos federales susceptibles de ser aplicados en el Municipio para el apoyo crediticio y desarrollo de los sectores productivos, estableciendo mecanismos de coordinación y colaboración con las autoridades competentes;
-
-XV. Implementar el Sistema Municipal de Información Económica y de Registro Estadístico Empresarial, que soporte y favorezca la toma de decisiones de los sectores público, privado y social en materia de desarrollo económico y metropolitano, coordinándose con las autoridades competentes de la Administración Pública Estatal, a efecto de sistematizar y homologar los criterios para la integración y procesamiento de la información en esta materia;
-
-XVI. Establecer mecanismos y sistemas de información comercial, gestoría y apoyo a los proyectos de inversión que realicen los particulares en el Municipio;
-
-XVII. Fomentar la asociación de pequeños productores en unidades de producción, para favorecer la tecnificación, financiamiento, industrialización y comercialización de sus productos;
-
-XVIII. Diseñar, establecer y controlar en coordinación con la Secretaría General Municipal, la integración de un sistema de captación de información empresarial que permita contar con información sobre las diferentes unidades económicas del Municipio;
-
-XIX. Coordinar el Servicio Municipal de Empleo, buscando el mayor número de vacantes para colocar solicitantes en el empleo formal;
-
-XX. Formular, conducir, coordinar, vigilar y evaluar las políticas de desarrollo turístico, que se realicen en el Municipio, estableciendo mecanismos de coordinación con las autoridades competentes de la Administración Pública Federal y Estatal;
-
-XXI. Promover e impulsar el turismo en sus diferentes modalidades, especialmente en aquellas en las cuales el Municipio es competitivo, mediante acciones conjuntas con los prestadores de servicios en el ramo, con el fin de incrementar el gasto y la estancia de los turistas en el mismo;
-
-XXII. Formular las estrategias y lineamientos relativos a la contribución que deba tener el Municipio en el registro, certificación y evaluación de los prestadores de servicios turísticos;
-
-XXIII. Planear las estrategias de coordinación con las secretarías y entidades de la Administración Pública Estatal y Federal, respecto de las acciones de atención, protección y auxilio al turista;
-
-XXIV. Promover el intercambio turístico dentro del Municipio, así como con otras Entidades Federativas y del extranjero;
-
-XXV. Formular y difundir la información oficial en materia de turismo del Municipio; coordinar la publicidad que efectúen las autoridades estatales y municipales, y promover la que desarrollen los sectores social y privado en la materia;
-
-XXVI. Planear y organizar, en coordinación con otras secretarías y entidades paramunicipales, ferias, fiestas patronales, exposiciones y certámenes en las materias que sean de su competencia, así como participar en congresos, seminarios y reuniones de trabajo que se realicen dentro y fuera del Municipio;
-
-XXVII. Promover e impulsar encadenamientos productivos de proveeduría local, entre la micro, pequeña y mediana empresa en el territorio del Municipio;
-
-XXVIII. Apoyar los proyectos de exportación de los emprendedores del Municipio, mediante mecanismos de vinculación con instituciones que operen programas en la materia;
-
-XXIX. Impulsar y promover procesos simplificados y mejora regulatoria para la apertura rápida y la operación de nuevas empresas;
-
-XXX. Promover los vínculos entre el sector empresarial del municipio y la ciudadanía, mediante mecanismos de atención e intermediación laboral;
-
-XXXI. Proponer y en su caso elaborar convenios de colaboración, intercambio y asistencia técnica, con organizaciones no gubernamentales, instituciones y organismos internacionales especialistas en desarrollo económico;
-
-XXXII. Suplir las ausencias de la o del Presidente Municipal en las sesiones del Consejo Consultivo Turístico de Pachuca; y
-
-XXXIII. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y el Presidente Municipal.
-
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
-
-###### ARTÍCULO 92.
-
-Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de las atribuciones y funciones a su cargo, la Secretaría de Desarrollo Económico contará con la siguiente estructura:
-
-I. Dirección de Desarrollo Económico; y
-
-II. Dirección de Desarrollo Turístico.
-
-###### ARTÍCULO 93.
-
-A la Dirección de Desarrollo Económico le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Crear, desarrollar, coordinar y supervisar los programas en materia de Desarrollo Económico, necesarios para incentivar y desarrollar la economía e inversión directa nacional o extranjera en el Municipio en materia rural y empresarial;
-
-II. Vigilar que se cumpla correctamente con todos los programas bajo su tutela, así como de todos aquellos que se mantengan en coordinación con los Gobiernos Estatal y Federal;
-
-III. Proponer a la o al Titular de la Secretaría la implementación de políticas que coadyuven a la activación de programas productivos que beneficien a los diversos sectores del Municipio;
-
-IV. Promover el desarrollo de nuevos proyectos en beneficio de la micro, pequeña y mediana empresa, asi como de los campesinos y los productores del área rural del Municipio;
-
-V. Establecer y aplicar los programas de capacitación, bolsa de trabajo, así como los eventos que se realicen en cada una de estas áreas;
-
-VI. Analizar junto con la o él Titular de la Secretaría los indicadores económicos que el Departamento de Planeación le reporte trimestralmente para generar estrategias de mejora continua;
-
-VII. Coordinar, operar y actualizar el Servicio Municipal de Empleo, buscando el mayor número de vacantes para colocar solicitantes en el empleo formal;
-
-VIII. Organizar estrategias y acciones mediante las cuales se procuren los encadenamientos productivos, la subcontratación de servicios y procesos industriales entre los diferentes agentes económicos municipales;
-
-IX. Ejecutar y coordinar con las demás secretarías y entidades de la Administración Pública Municipal, Estatal y Federal, el diseño e instrumentación de proyectos de desarrollo económico sustentable de carácter sectorial, regional y metropolitano;
-
-X. Determinar la factibilidad de proyectos de inversión en el Municipio, atendiendo a los criterios jurídicos, normativos y técnicos aplicables;
-
-XI. Conducir la promoción, procuración y estimulo de la atracción y realización de inversiones productivas en el Municipio, provenientes de los sectores públicos, sociales y privado (sic), municipales, estatales, nacionales e internacionales;
-
-XII. Instrumentar proyectos, programas y acciones que incentiven el desarrollo, la modernización, competitividad y crecimiento de los sectores productivos del Municipio, atendiendo especialmente a la micro, pequeña y mediana empresa, propiciando su articulación productiva, la canalización oportuna de los apoyos, estímulos e incentivos que prevé la legislación aplicable en la materia;
-
-XIII. Ejecutar los programas de capacitación para empresarios, así como proporcionar asistencia técnica y apoyos en la materia, a los productores industriales, a los campesinos y, en general, a los participantes de los sectores social y privado;
-
-XIV. Organizar la participación del Municipio y sus sectores productivos en espacios nacionales e internacionales de promoción y exposición de productos y servicios municipales;
-
-XV. Manejar y supervisar el sistema de información comercial, gestoría y apoyo a los proyectos de inversión que realicen los particulares en el Municipio;
-
-XVI. Promover la simplificación de normas y trámites que inhiban el desarrollo económico en los diversos sectores de la actividad empresarial y social;
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
-
-XVII. Operar, organizar y actualizar el Sistema Municipal de Información Económica y de Registro Estadístico Empresarial, así como el Sistema de Apertura Rápida de Empresas;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2020)</small>
-
-XVIII. Autorizar las Licencias de funcionamiento para los establecimientos mercantiles que operen giros especiales;
-
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
-
-XIX. Gestionar de las autoridades municipales competentes las autorizaciones necesarias para la operación de dichos establecimientos en el Municipio;
-
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
-
-XX. Coordinar la integración de información estadística económica básica de los establecimientos mercantiles que operen en el Municipio; así como ordenar la ejecución de estrategias para la elaboración, digitalización, conservación y actualización de las bases datos recurrentes; y
-
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
-
-XXI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jera quico (sic).
-
-###### ARTÍCULO 94.
-
-A la o al Titular de la Dirección de Desarrollo Turístico le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Ejecutar e implementar las políticas, planes y programas de desarrollo turístico municipal autorizados, en coordinación con las autoridades competentes de la Administración Pública Federal, Estatal y Municipal;
-
-II. Proponer a la o al Titular de la Secretaría la celebración de convenios de colaboración, intercambio y de asistencia técnica, con organizaciones no gubernamentales, instituciones y organismos internacionales especialistas en estas materias;
-
-III. Promover el establecimiento de programas turísticos en los cuales participe la sociedad, para rescatar y promocionar el Centro Histórico del Municipio, orientado a los lugares turísticos con los que éste cuenta;
-
-IV. Impulsar acciones entre las cámaras restauranteras y asociaciones de hoteles, que permitan incrementar el consumo y la estancia de turistas que arriban al Municipio;
-
-V. Proponer a la o al Titular de la Secretaría, acciones y estrategias que permitan la difusión de la imagen turística del Municipio a nivel nacional e internacional;
-
-VI. Establecer programas específicos para impulsar las creaciones artesanales en el Municipio, con la finalidad de promocionar la actividad turística;
-
-VII. Coordinar las sesiones del Consejo Consultivo Turístico de Pachuca;
-
-VIII. Coordinar con los gobiernos Federal y Estatal, los programas y proyectos de promoción turística en el Municipio;
-
-IX. Recabar la información necesaria para actualizar trimestralmente los indicadores turísticos del Municipio;
-
-X. Generar y someter a consideración de la de (sic) del Titular de la Secretaría proyectos turísticos, enfocados a incrementar la derrama económica en el Municipio;
-
-XI. Ejecutar y conducir las políticas de desarrollo turístico en el Municipio, estableciendo mecanismos de vinculación con las autoridades competentes de la Administración Pública Federal y Estatal;
-
-XII. Establecer la vinculación necesaria con las secretarías y entidades de la Administración Pública Federal, Estatal y Municipal, para implementar la atención, protección y auxilio al turista;
-
-XIII. Conducir la promoción del intercambio turístico dentro del Municipio, así como, con otras Entidades Federativas y del extranjero;
-
-XIV. Dirigir las estrategias y acciones mediante las cuales se difunda la información oficial en materia de turismo del Municipio;
-
-XV. Organizar y coordinar con otras secretarías y entidades, ferias, exposiciones y certámenes en las materias que sean de su competencia, así como participar en congresos, seminarios y reuniones de trabajo que se realicen dentro y fuera del Municipio; y
-
-XVI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-#### SECCIÓN PRIMERA. DEL PRESIDENTE MUNICIPAL
-
-#### SECCIÓN SEGUNDA. DE LA SECRETARÍA PARTICULAR
-
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
-
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA GENERAL MUNICIPAL
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
-
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL JURÍDICA
-
-## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO
-
-### CAPÍTULO XII. DE LA SECRETARÍA DE ADMINISTRACIÓN
-
-#### SECCIÓN PRIMERA. DEL TITULARDE (SIC) LA SECRETARÍA
-
-###### ARTÍCULO 95.
-
-La Secretaría de Administración es una dependencia de la Administración Pública Municipal, encargada de prestar el apoyo administrativo que requiera el Gobierno Municipal, mediante la organización y optimización de los recursos humanos, informáticos, materiales y de servicios generales; desarrollando e implementando procesos administrativos que permitan a las secretarías y entidades paramunicipales, eficientar la prestación de los servicios públicos y los actos administrativos, conforme a las disposiciones jurídicas aplicables.
-
-###### ARTÍCULO 96.
-
-A la o el Titular de la Secretaría de Administración le corresponderá el despacho de las siguientes atribuciones:
-
-I. Coadyuvar en la preparación del Presupuesto Anual de Egresos que elabore la Secretaría de la Tesorería en lo referente a los gastos de operación;
-
-II. Elaborar e implantar programas de mejoramiento administrativo en coordinación con las demás secretarías de la Administración Pública Municipal;
-
-III. Emitir y formular normas, políticas, disposiciones, circulares y acuerdos que permitan el ejercicio eficaz de los recursos humanos, materiales y bienes muebles de la Administración Pública Municipal;
-
-IV. Organizar, coordinar y dirigir el reclutamiento, selección, contratación y capacitación del personal de la Administración Pública Municipal;
-
-V. Establecer y difundir las normas y lineamientos para el control y disciplina aplicables al personal de la Administración Pública Municipal proponiendo los sueldos y remuneraciones que deben percibir los servidores públicos;
-
-VI. Supervisar los movimientos de altas, bajas, cambios de adscripción, permisos, incapacidades, licencias y demás movimientos de personal para su correcta aplicación y registro en nómina;
-
-VII. Supervisar la elaboración y distribución (sic) la nómina para el pago al personal que labora en el Municipio, en apego a las remuneraciones asignadas para cada puesto y nivel;
-
-VIII. Definir la estrategia laboral y conducir las relaciones con el personal de confianza y de base de la Administración Pública Municipal;
-
-IX. Coadyuvar en coordinación con la Dirección General Jurídica, en la revisión y modificación de las condiciones generales de trabajo que celebre la Administración Pública Municipal, ordenando lo necesario para la vigilancia de su cumplimiento;
-
-X. Dictaminar, registrar y proponer modificaciones a las estructuras orgánicas, ocupacionales y de organización de la Administración Pública Municipal, procurando identificar características orgánicas de las áreas conformadas y que se deben de describir en los manuales institucionales;
-
-XI. Proponer a la o a él Presidente Municipal, estrategias y lineamientos, mediantes (sic) los cuales se analice y controle el número de plazas y el nivel salarial de todo el personal adscrito a las secretarías, unidades administrativas, órganos auxiliares y entidades paramunicipales;
-
-XII. Dirigir y vigilar las propuestas, diseño y modificaciones o adiciones a los catálogos de puestos, tabuladores y mecanismos de aplicación de remuneraciones al personal;
-
-XIII. Consolidar las adquisiciones de los bienes y servicios que requiera la Administración Pública Municipal, vigilando el cumplimiento de las disposiciones legales que regulen las adquisiciones de bienes, arrendamientos y servicios relacionados con bienes muebles y la contratación de obra pública;
-
-XIV. Fungir como Secretario Técnico del Comité de Adquisiciones, Arrendamientos y Servicios Relacionados con Bienes Muebles y de Obra Pública;
-
-XV. Adquirir, contratar y suministrar los bienes y servicios que requieran las dependencias que integran la Administración Pública Municipal, para el buen funcionamiento de las mismas, sometiéndose a las disposiciones legales aplicables en materia de adquisiciones, arrendamientos, licitaciones públicas, invitaciones a tres personas, adjudicaciones directas y obras públicas;
-
-XVI. Establecer políticas y procedimientos para la integración, análisis, registro, verificación y desarrollo del Programa Anual de Adquisiciones de la Administración Pública Municipal; así como establecer los lineamientos y estrategias para tramitar y dar seguimiento a las solicitudes y suscripción de contratos, convenios y demás actos de adquisición de bienes y servicios y de obra pública;
-
-XVII. Coadyuvar en el proceso de formulación del programa de inversiones de la Administración Pública Municipal;
-
-XVIII. Vigilar las asignaciones correspondientes a las adquisiciones de su competencia, en coordinación con las instancias competentes de la Administración Pública Municipal;
-
-XIX. Formular los lineamientos para la regularización del registro, control y actualización de los inventarios, así como vigilar el óptimo aprovechamiento de los bienes asignados a las unidades administrativas de la Administración Pública Municipal;
-
-XX. Levantar y mantener actualizado el inventario de bienes muebles propiedad de la Administración Pública Municipal, así como los resguardos individuales y conciliar con las cifras contables;
-
-XXI. Administrar y controlar el Almacén General de la Administración Pública Municipal, y llevar el registro de las entradas y salidas de materiales y suministros de mobiliario y equipo;
-
-XXII. Administrar la intendencia y dar mantenimiento a los bienes muebles e inmuebles del Gobierno Municipal, así como los vehículos de su propiedad;
-
-XXIII. Normar la política en materia de control vehicular de la Administración Pública Municipal;
-
-XXIV. Establecer las políticas y estrategias de difusión de la información relativa a los bienes de lento y nulo movimiento;
-
-XXV. Establecer los lineamientos y formalidades relativas a los procesos de baja y desincorporación de bienes muebles, detectando los materiales de alto riesgo para proponer las medidas de seguridad correspondientes;
-
-XXVI. Administrar, operar y dar mantenimiento a la plataforma informática de la Administración Pública Municipal;
-
-XXVII. Proporcionar asistencia técnica en el desarrollo de sistemas y programas Informáticos de la Administración Pública Municipal;
-
-XXVIII. Registrar, controlar y supervisar el inventario de software, el respaldo de las bases de datos y equipos de cómputo adquiridos por la Administración Pública Municipal;
-
-XXIX. Establecer las bases y formalidades para la instrumentación y trámite de dictámenes de requerimientos de equipo en materia de informática que le requieran;
-
-XXX. Formular la organización, control y supervisión de la prestación de los servicios de soporte técnico;
-
-XXXI. Brindar asesoría en los asuntos referentes a la informática y sus aplicaciones, estableciendo los lineamientos básicos para su operación;
-
-XXXII. Dotar a las secretarías de la Administración Pública Municipal, conforme al presupuesto de egresos, de los elementos necesarios para su operación;
-
-XXXIII. Establecer y mantener una coordinación permanente con las secretarías para el ágil y adecuado aprovisionamiento de recursos, humanos, informáticos y materiales; y
-
-XXXIV. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y el Presidente Municipal.
-
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
-
-###### ARTÍCULO 97.
-
-Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de las funciones y atribuciones a su cargo, la Secretaría de Administración contará con la siguiente estructura:
-
-I. Dirección de Recursos Humanos;
-
-II. Dirección de Compras y Suministros;
-
-III. Dirección de Servicios Generales; y
-
-IV. Dirección de Informática.
-
-###### ARTÍCULO 98.
-
-A la Dirección de Recursos Humanos le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Implementar los mecanismos de control y supervisión que le permitan realizar el eficiente manejo y control del personal;
-
-II. Integrar el presupuesto de Recursos Humanos de la Administración Pública Municipal y someterlo a consideración de la o del Secretario de Administración;
-
-III. Coordinar los procesos administrativos para la contratación y selección de personal;
-
-IV. Supervisar el proceso de elaboración de la nómina del personal de la Administración Pública Municipal;
-
-V. Controlar, supervisar y aplicar los movimientos del personal referentes a las altas, bajas, remociones, incapacidades, licencias, jubilaciones y pensiones;
-
-VI. Controlar la asistencia, faltas, retardos, vacaciones y sus aplicaciones en la nómina;
-
-VII. Controlar y supervisar la aplicación de las prestaciones a las cuales tengan derecho los trabajadores del Municipio;
-
-VIII. Implementar la credencialización de los servidores públicos de la Administración Pública Municipal;
-
-IX. Controlar y actualizar el archivo de los expedientes del personal;
-
-X. Proponer a la o a él Titular de la Secretaría la estrategia laboral y conducir, en coordinación con la Dirección General Jurídica de la Secretaría General, las relaciones con el personal de confianza y de base de la Administración Pública Municipal;
-
-XI. Coadyuvar con la Dirección General Jurídica de la Secretaría General, en la revisión y modificación de las condiciones generales de trabajo que se celebre en la Administración Pública Municipal, ordenando lo necesario para la vigilancia de su cumplimiento;
-
-XII. Recibir y dar trámite a las actas administrativas elaboradas por las diferentes secretarías y entidades paramunicipales, aplicando en el ámbito de su competencia en coordinación con la Secretaría de Contraloría y Transparencia las sanciones correspondientes;
-
-XIII. Recibir y aplicar las sanciones que emita la Secretaría de Contraloría y Transparencia en el ámbito de su competencia;
-
-XIV. Dictaminar, registrar y proponer modificaciones a las estructuras orgánicas, ocupacionales y de organización de la Administración Pública Municipal, procurando identificar características orgánicas de las áreas conformadas y que se deben de describir en los manuales institucionales;
-
-XV. Formular las estrategias y lineamientos, mediantes (sic) los cuales se analice y controle el número de plazas y el nivel salarial de todo el personal adscrito a las secretarías y entidades de la Administración Pública Municipal;
-
-XVI. Elaborar y someter a consideración de la o del Titular de la Secretaría, las propuestas, diseño y modificaciones o adiciones a los catálogos de puestos, tabuladores, estructuras orgánicas y de remuneraciones al personal; y,
-
-XVII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 99.
-
-A la Dirección de Compras y Suministros le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Proponer a la o a el Titular de la Secretaría, los mecanismos, políticas y lineamientos que permitan consolidar las adquisiciones de los bienes y servicios que requieran las diferentes secretarías que integran la Administración Pública Municipal, vigilando el cumplimiento de las disposiciones legales que regulen la adquisición de bienes, arrendamientos y servicios relacionados con bienes muebles y la contratación de obra pública;
-
-II. Adquirir, contratar y suministrar los bienes y servicios que requiera el funcionamiento de las Secretarías de la Administración Pública Municipal;
-
-III. Establecer los lineamientos y estrategias para tramitar y dar seguimiento a las solicitudes de adquisición de bienes, arrendamientos, servicios y obra pública;
-
-IV. Proponer a la Dirección General Jurídica de la Secretaría General, para su revisión y aprobación, los lineamientos para la instrumentación de la suscripción de los contratos, convenios y demás actos de adquisición de bienes muebles, arrendamientos, servicios y obra pública;
-
-V. Proponer las políticas y estrategias relacionadas con la formulación y ejecución del programa de inversiones autorizado para la Administración Pública Municipal Central y Paramunicipal;
-
-VI. Integrar el presupuesto de egresos en materia de adquisiciones, arrendamientos y servicios de la Administración Pública Municipal;
-
-VII. Integrar y elaborar el programa anual de adquisiciones, arrendamientos y servicios, considerando las metas y objetivos de las secretarías de la Administración Pública Municipal;
-
-VIII. Coordinar los procedimientos para la adquisición de los bienes y contratación de servicios apegados a las disposiciones legales aplicables;
-
-IX. Consolidar las adquisiciones de bienes y servicios con características homogéneas y someterlos a contratación conforme a las disposiciones legales aplicables;
-
-X. Programar y efectuar las adquisiciones y suministros de los bienes materiales que requieran las secretarías y entidades paramunicipales conforme al presupuesto autorizado;
-
-XI. Turnar, por conducto de la o del Titular de la Secretaría, aquellos contratos para la revisión de la Dirección General Jurídica que por incumplimiento de las obligaciones a cargo del proveedor deban ser rescindidos administrativamente;
-
-XII. Generar un archivo que permita conservar en forma ordenada y sistematizada, toda la documentación comprobatoria de los actos y contratos de adquisiciones, realizadas al amparo de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Hidalgo y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Hidalgo;
-
-XIII. Participar en los Comités de Adquisiciones y de Obra Pública de la Administración Pública Municipal;
-
-XIV. Verificar el nivel de existencia en el almacén general de la Administración Pública Municipal, previo a la adquisición, evitando realizar compras de materiales y suministros de lento o nulo desplazamiento;
-
-XV. Establecer en los contratos las penas convencionales por incumplimientos por parte del proveedor;
-
-XVI. Elaborar las bases para llevar a cabo las adquisiciones, arrendamientos, servicios y obra pública observando la normatividad aplicable y las políticas y procedimientos dictados por la o el Presidente Municipal;
-
-XVII. Conducir, de acuerdo a la legislación aplicable, los procedimientos de licitaciones públicas;
-
-XVIII. Coordinar la preparación de las justificaciones de acuerdo a la normatividad aplicable en materia de excepciones a la licitación pública;
-
-XIX. Solicitar, cuando procedan las garantías para el cumplimiento de los contratos y remitirlas a la Secretaría de (sic)Tesorería para su guarda y custodia;
-
-XX. Vigilar la recepción de bienes y el cumplimiento de servicios adquiridos, informando a la administración y secretarías solicitantes los resultados obtenidos;
-
-XXI. Administrar y controlar el Almacén General de la Administración Pública Municipal y llevar el registro de las entradas y salidas de materiales y suministros de mobiliario y equipo;
-
-XXII. Difundir al interior de la Administración Pública Municipal la información relativa a los bienes de lento y nulo movimiento; y
-
-XXIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 100.
-
-A la Dirección de Servicios Generales le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Formular los lineamientos para la regularización del registro, control y actualización de los inventarios, así como vigilar el óptimo aprovechamiento de los bienes asignados a las unidades administrativas de la Administración Pública Municipal;
-
-II. Levantar y mantener actualizado el inventario de bienes muebles propiedad del Municipio, así como los resguardos individuales y conciliar con las cifras contables;
-
-III. Realizar la conservación y el mantenimiento de los bienes muebles e inmuebles propiedad de la Administración Pública Municipal, proponiendo políticas y lineamientos para su mejor utilización y resguardo;
-
-IV. Administrar la intendencia y dar mantenimiento a los bienes muebles e inmuebles de la Administración Pública Municipal, así como los vehículos de su propiedad;
-
-V. Proporcionar los trabajos de mantenimiento general, así como de instalaciones eléctricas, hidráulicas y sanitarias;
-
-VI. Elaborar las bitácoras de servicio e informar mensualmente a la o a el Titular de la Secretaría sobre los servicios proporcionados en materia de mantenimiento;
-
-VII. Proveer el servicio de fotocopiado a las secretarías de la Administración Pública Municipal;
-
-VIII. Contratar, tramitar y controlar, los servicios de agua, energía eléctrica, agua purificada, telefonía fija y móvil, vales de combustible, vigilancia subrogada y de todos los servicios de arrendamiento necesarios para la operación de los servicios y de las secretarías de la Administración Pública Municipal;
-
-IX. Generar los lineamientos y procedimientos que las secretarías y entidades deben cumplir para la compra, mantenimiento, reparación y baja del parque vehicular;
-
-X. Controlar la flotilla de vehículos propiedad del municipio, con excepción de los asignados a las Secretarías de Seguridad Pública, Tránsito y Vialidad; de Servicios Públicos Municipales y de Medio Ambiente y Desarrollo Sustentable;
-
-XI. Integrar los expedientes de los vehículos propiedad del municipio, que contendrán la documentación legal y técnica correspondiente;
-
-XII. Fungir como enlace para la administración del presupuesto en materia de mantenimiento preventivo y reparación de vehículos;
-
-XIII. Supervisar el estado físico de operación del parque vehicular;
-
-XIV. Coordinar la asignación de talleres de mantenimiento y servicio;
-
-XV. Contratar los estacionamientos para el resguardo de los vehículos propiedad de la Administración Pública Municipal;
-
-XVI. Integrar el padrón de proveedores de servicios;
-
-XVII. Elaborar y actualizar los resguardos de vehículos, implementando y controlando las bitácoras de uso de cada unidad;
-
-XVIII. Controlar el suministro del combustible al parque vehicular del Gobierno Municipal;
-
-XIX. Implementar los mecanismos de control para el cumplimiento de las medidas de racionalidad; y,
-
-XX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 101.
-
-A la Dirección de Informática le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Administrar, operar y dar mantenimiento a la plataforma informática de la Administración Pública Municipal;
-
-II. Analizar, planear, programar, coordinar y proporcionar asistencia técnica en el desarrollo de sistemas y programas Informáticos de la Administración Pública Municipal;
-
-III. Registrar, controlar y supervisar el inventario de software, el respaldo de las bases de datos y equipos de cómputo adquiridos por la Administración Pública Municipal;
-
-IV. Establecer las bases y formalidades para la instrumentación y trámite de dictámenes de requerimientos de equipo en materia de informática que le requieran;
-
-V. Formular la organización, control y supervisión de la prestación de los servicios de soporte técnico;
-
-VI. Brindar apoyo técnico a las áreas de la Administración Pública Municipal, en los asuntos de su competencia;
-
-VII. Establecer las políticas y estrategias para controlar técnica y administrativamente los recursos informáticos;
-
-VIII. Participar en la integración del presupuesto de egresos en materia informática;
-
-IX. Elaborar y controlar el inventario de los sistemas y equipos de cómputo propiedad de la Administración Pública Municipal;
-
-X. Instalar los sistemas y equipos de cómputo;
-
-XI. Realizar el respaldo de bases de datos con que opera la Administración Pública Municipal;
-
-XII. Realizar el soporte técnico y mantenimiento de la red telefónica y configurar y administrar los conmutadores de la Administración Pública Municipal;
-
-XIII. Planear, programar y coordinar el desarrollo de la infraestructura informática y de comunicación de las dependencias municipales; y
-
-XIV. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+### CAPITULO I. Disposiciones Generales
 
 ###### Art. 132.
 
@@ -4239,321 +2463,7 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el Tesorero Municipal, en los términos establecidos por las Leyes Fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
-### CAPÍTULO XIII. DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA
-
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
-
-###### ARTÍCULO 102.
-
-La Secretaría de Contraloría y Transparencia es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política orientada a la implementación de los sistemas de gestión, control y actuación ética y responsable de los servidores públicos; con el propósito central de supervisar, vigilar y evaluar las acciones realizadas por los servidores públicos de las secretarías y entidades paramunicipales en el ejercicio de sus funciones; de igual forma en la inspección de la hacienda pública y en la transparencia de la acción municipal, comprometida con una administración eficaz y eficiente, en el manejo de los recursos.
-
-###### ARTÍCULO 103.
-
-Al Titular de la Secretaría de Contraloría y Transparencia le corresponderá el despacho de las siguientes atribuciones:
-
-I. Formular las estrategias y lineamientos mediante los cuales se vigile la observancia de la normatividad aplicable en materia de transparencia y acceso a la información;
-
-II. Expedir los criterios de revisión y vigilancia sobre los procedimientos de control que generen las secretarías y entidades paramunicipales;
-
-III. Planear las formalidades orientadas al desahogo de la inspección sobre el control y ejercicio del gasto, así como la captación de los ingresos y su congruencia con el Presupuesto de Egresos y la Ley de Ingresos del Municipio;
-
-IV. Vigilar el cumplimiento de las normas de control y fiscalización, así como del ejercicio del gasto de la Administración Pública Municipal, en congruencia con la normatividad y legislación aplicable;
-
-V. Coadyuvar e intervenir en la formulación y evaluación, de los proyectos de control en materia de programación, presupuestación y administración de recursos, que se elaboren en la Administración Pública Municipal;
-
-VI. Vigilar el cumplimiento de la normatividad en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, inversión física, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles o inmuebles, almacenes, activos, recursos materiales y las demás que normen el control y ejercicio del gasto público;
-
-VII. Supervisar a las secretarías y entidades paramunicipales que así lo soliciten, respecto a la asignación, ejercicio, comprobación y evaluación del gasto;
-
-VIII. Determinar la dirección de la realización de auditorías, evaluaciones, inspecciones y supervisiones de inversión física, acciones y equipamiento a las secretarías y entidades paramunicipales, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos y metas contenidos en sus Programas Operativos Anuales;
-
-IX. Verificar la correcta captación, recaudación y aplicación de los recursos federales, estatales y municipales, y cualquier otra fuente de financiamiento;
-
-X. Aprobar el programa Anual de Auditorias;
-
-XI. Requerir o solicitar a las áreas auditadas y a terceros que hubieren celebrado operaciones con aquéllos, la información y documentación que sea necesaria para realizar la fiscalización de los recursos públicos;
-
-XII. Informar a la o el Presidente Municipal sobre el resultado de las auditorías realizadas a las secretarías y entidades paramunicipales que hayan sido objeto de revisión, así como a otras autoridades que lo requieran de acuerdo a sus funciones y a los convenios que al efecto se celebren;
-
-XIII. Verificar que en las secretarías y entidades paramunicipales, se observen las normas y procedimientos para el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, inversión pública, deuda pública, patrimonio, fondos y valores establecidas;
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
-
-XIV. Recibir, registrar y resguardar las declaraciones patrimoniales y de intereses y, en su caso, la fiscal anual de todos los servidores públicos de la Administración Pública Municipal; así como dar seguimiento a su evolución patrimonial y verificar la actualización de un posible conflicto de intereses, para lo cual podrá ordenar la práctica de las investigaciones y/o de las auditorías que fueren pertinentes;
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
-
-XV. Recibir y dar trámite a las denuncias respecto de actos u omisiones que puedan constituir responsabilidad administrativa;
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
-
-XVI. Sustanciar y resolver los Procedimientos de Responsabilidad Administrativa, imponiendo, en su caso, las sanciones y la ejecución de estas en los términos previstos por la legislación en materia de responsabilidades administrativas.
-
-XVII. Recibir, atender y resolver las inconformidades que presenten los proveedores y contratistas de la Administración Pública Municipal que consideren que sus derechos fueron afectados;
-
-XVIII. Establecer los lineamientos y controles que deban observarse en la entrega - recepción de los asuntos, bienes y valores que sean propiedad de la Administración Pública Municipal y se encuentren al cuidado o a cargo de servidores públicos, que por cualquier motivo se separen del encargo;
-
-XIX. Coordinar la participación en los actos de entrega-recepción de inversión física, equipamientos y acciones de tipo social, que se ejecuten en el Municipio;
-
-XX. Formular, con base en la normatividad estatal en materia de transparencia y acceso a la información, la coordinación y supervisión de las unidades, enlaces o áreas municipales de información pública gubernamental, en la atención debida de las solicitudes de acceso y la entrega de la información requerida;
-
-XXI. Desarrollar los mecanismos, acciones y herramientas que permitan fomentar la transparencia, rendición de cuentas y la participación ciudadana;
-
-XXII. Proponer, ejecutar y coordinar las políticas y lineamientos, así como los programas en materia de transparencia, acceso y difusión de la información pública gubernamental, corrección y protección de datos personales, implementando las medidas necesarias para una eficaz colaboración y asistencia técnica, de conformidad con la legislación aplicable en la materia;
-
-XXIII. Generar el programa de mejora regulatoria y simplificación administrativa, el cual será de aplicación obligatoria para la Administración Pública Municipal;
-
-XXIV. Evaluar la calidad e impacto de los servicios que prestan las secretarías y entidades paramunicipales, proponiendo la aplicación de acciones y medidas para su mejoramiento o corrección;
-
-XXV. Generar mecanismos e instrumentos para la prevención y combate a la corrupción de los actos realizados por los servidores públicos;
-
-XXVI. Evaluar el cumplimiento del Sistema de Evaluación del Desempeño y de los Programas Operativos Anuales;
-
-XXVII. Requerir de las diferentes áreas de la Administración Pública Municipal, la información necesaria para el cumplimiento de las atribuciones de la Secretaría;
-
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2020)</small>
-
-XXVIII. Imponer la medida de apremio a quienes no atiendan con diligencia las instrucciones, requerimientos, o resoluciones que dicte esta Secretaría en ejecución de sus atribuciones, así como imponer las medidas de apremio a los servidores públicos que no cumplan con sus obligaciones establecidas en la normatividad aplicable.
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
-
-XXIX. Interponer y, en su caso, dar trámite a los recursos e incidentes que prevea la legislación en materia de responsabilidades administrativas, así como presentar las denuncias correspondientes, en coordinación con la Dirección General Jurídica cuando de las investigaciones realizadas se desprenda la comisión de delitos;
-
-XXX. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o el Presidente Municipal.
-
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
-
-###### ARTÍCULO 104.
-
-Para el cumplimiento de sus atribuciones, la Secretaría de Contraloría y Transparencia contará con la siguiente estructura:
-
-I. Dirección de Control;
-
-II. Dirección de Auditoría;
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
-
-III. Dirección de Denuncias y Situación Patrimonial.
-
-IV. Dirección de Gestión de la Calidad; y,
-
-V. Dirección de Transparencia e Información Pública Gubernamental.
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
-
-VI. Dirección de Responsabilidades.
-
-###### ARTÍCULO 105.
-
-Al Titular de la Dirección de Control le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Proponer las acciones que permitan disponer de un Sistema Integral de Control y Evaluación de la gestión administrativa y financiera de la Administración Pública Municipal;
-
-II. Proponer a la o el Titular de la Secretaría las intervenciones que en materia de evaluación y de control se deban integrar al Programa Operativo Anual;
-
-III. Establecer los indicadores básicos en coordinación con las áreas recurrentes, que permitan valorar el cumplimiento de objetivos, asimismo identificación de acontecimientos y riesgos, de las secretarías y entidades paramunicipales;
-
-IV. Evaluar el cumplimiento de los programas y presupuestos a cargo de las secretarías y entidades paramunicipales, con objeto de retroalimentar el proceso de planeación, programación y presupuestación;
-
-V. Verificar el cumplimiento de las normas de control, así como coadyuvar en los proyectos de elaboración de normas complementarias que se requieran en la materia;
-
-VI. Evaluar la existencia, suficiencia y efectividad de la estructura de control interno establecido en las secretarías y entidades paramunicipales, realizando las revisiones e intervenciones periódicas que correspondan;
-
-VII. Verificar que los actos de las secretarías y entidades paramunicipales se ajuste (sic) a las disposiciones administrativas y jurídicas aplicables en materia de control y evaluación;
-
-VIII. Comprobar mediante auditorias, revisiones o inspecciones, el cumplimiento de las metas y objetivos por parte de las secretarías y entidades paramunicipales;
-
-IX. Practicar visitas de verificación y seguimiento a la implantación del sistema de control interno;
-
-X. Practicar auditorías de desempeño o cumplimiento y formular las observaciones o recomendaciones correspondientes;
-
-XI. Coordinar y supervisar el desempeño de los comisarios públicos, así como proponer a la o él Titular de la Secretaría las normas, lineamientos y procedimientos que regulen la organización y funcionamientos (sic) de los mismos;
-
-XII. Evaluar el avance de las acciones de automatización y modernización administrativa, desarrolladas al interior de las diferentes secretarías y entidades;
-
-XIII. Brindar asesoría técnica en materia de control y evaluación de programas a las unidades administrativas de las secretarías y entidades paramunicipales;
-
-XIV. Proponer las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la administración pública municipal, y requerir, a las dependencias competentes, la aplicación de normas complementarias, para el ejercicio de facultades que aseguren ese control;
-
-XV. Vigilar en los términos de los convenios respectivos, que los recursos federales y estatales que ejerza directamente el municipio, se apliquen conforme a lo estipulado en los mismos;
-
-XVI. Proponer acciones preventivas y de transformación institucional a partir de los resultados de las distintas evaluaciones a los modelos de control, programas y demás estrategias establecidas en esta materia;
-
-XVII. Promover el fortalecimiento de una cultura de control al interior de las secretarías y entidades paramunicipales, ubicando debidamente la responsabilidad sobre el control y capacitando al personal en la materia, a fin de asegurar en mayor grado el cumplimiento de las metas y objetivos;
-
-XVIII. Implementar los mecanismos e instrumentos para la prevención y combate a la corrupción de los actos realizados por los servidores públicos;
-
-XIX. Proponer a la o el Titular de la secretaría los lineamientos para la coordinación de las acciones de mejora regulatoria y simplificación administrativa, así como vigilar la aplicación y uso de las tecnologías de información y comunicación; y,
-
-XX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 106.
-
-A la Dirección de Auditoría le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Elaborar y proponer al superior jerárquico, el programa anual de auditoría y las normas de control y fiscalización, que deben observar las secretarías y entidades paramunicipales;
-
-II. Vigilar que los recursos públicos que administre el municipio se ejerzan de conformidad a la normatividad aplicable;
-
-III. Ejecutar auditorías en las secretarías y entidades paramunicipales, para verificar el ejercicio del gasto, así como la captación y recaudación de los ingresos, en congruencia con el Presupuesto de Egresos y la Ley de Ingresos del Municipio, respectivamente;
-
-IV. Vigilar el cumplimiento de la normatividad en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, inversión física, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles o inmuebles, almacenes, activos, recursos materiales y las demás que normen el control y ejercicio del gasto público;
-
-V. Ejecutar las auditorías, visitas e inspecciones de inversión física;
-
-VI. Emitir los informes de resultados de las auditorías que se practiquen;
-
-VII. Informar a la o el Titular de la Secretaría sobre el resultado de las auditorías realizadas;
-
-VIII. Practicar e informar del resultado de las auditorías que se hayan convenido con otras entidades revisoras;
-
-IX. Dar seguimiento a las observaciones, recomendaciones y demás acciones derivadas de las auditoría (sic), revisiones o diligencias practicadas;
-
-X. Remitir a la Dirección de Responsabilidades y Situación Patrimonial, los resultados de las auditorias en las que se haya detectado presuntas responsabilidades a cargo de servidores públicos que ameriten las sanciones señaladas en la normatividad correspondiente;
-
-XI. Verificar el cumplimiento al Programa Operativo Anual, determinado por cada una de las secretarías y entidades paramunicipales;
-
-XII. Revisar la estructura programática-presupuestal que para el efecto emita la Secretaría de la Tesorería;
-
-XIII. Inspeccionar y vigilar el ejercicio de la inversión física y su congruencia con el presupuesto de egresos;
-
-XIV. Vigilar que la inversión física se realice de acuerdo a los planes, programas, proyectos y presupuestos aprobados;
-
-XV. Implementar los procedimientos y mecanismos de análisis que permitan conocer el grado de avance de la inversión física;
-
-XVI. Participar en los actos de entrega-recepción de inversión física, equipamientos y acciones de tipo social que se ejecuten en el Municipio;
-
-XVII. Participar en los procesos de terminación de obra;
-
-XVIII. Verificar que se cumpla con la normatividad establecida en los procesos de adjudicación;
-
-XIX. Verificar la correcta aplicación de los recursos federales, estatales y municipales, que ejerza el municipio;
-
-XX. Proponer y vigilar la aplicación de los lineamientos y controles que se deban observar en la entrega - recepción de los asuntos, bienes y valores que sean propiedad de la Administración Pública Municipal y que se encuentren al cuidado o a cargo de los servidores públicos que por cualquier motivo se separen de su cargo; y,
-
-XXI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
-
-###### ARTÍCULO 107.
-
-A la Dirección de Denuncias y Situación Patrimonial, en su carácter de Autoridad Investigadora, le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Recibir y dar trámite a las denuncias respecto de actos u omisiones que puedan constituir responsabilidad administrativa;
-
-II. Realizar investigaciones de oficio, con motivo de una denuncia o derivado de auditorías, respecto de actos u omisiones que puedan constituir responsabilidad administrativa;
-
-III. Solicitar al área competente la práctica de revisiones y auditorías; así como ordenar las visitas de verificación que se estimen necesarias para el cumplimiento de sus atribuciones;
-
-IV. Solicitar información a personas físicas o morales, públicas o privadas, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
-
-V. Formular requerimientos debidamente fundados y motivados a personas físicas o morales, públicas o privadas que sean sujetos de investigación por presuntas irregularidades cometidas en el ejercicio de sus funciones;
-
-VI. Hacer uso de las medidas de apremio establecidas en la legislación en materia de responsabilidades administrativas para hacer cumplir sus determinaciones;
-
-VII. Solicitar a la autoridad competente decrete medidas cautelares en los términos de la legislación en materia de responsabilidades administrativas.
-
-VIII. Determinar la existencia o inexistencia de actos u omisiones que pudieran constituir faltas administrativas, elaborando el Informe de Presunta Responsabilidad Administrativa o, en su caso, el acuerdo de conclusión y archivo del expediente;
-
-IX. Recibir, tramitar e interponer los recursos e incidentes en el ámbito de su competencia y darles el trámite correspondiente.
-
-X. Formular denuncias ante el Ministerio Publico en el ámbito de su competencia, en coordinación con la Dirección General Jurídica; y
-
-XI. Recibir, registrar y resguardar las declaraciones patrimoniales y de intereses y, en su caso, la fiscal anual de todos los servidores públicos de la Administración Pública Municipal; así como dar seguimiento a su evolución patrimonial y verificar la actualización de un posible conflicto de intereses, para lo cual podrá ordenar la práctica de las investigaciones y/o de las auditorías que fueren pertinentes;
-
-XII. Las demás que le asigne la ley de la materia y demás disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2018)</small>
-
-ARTÍCULO 107 BIS.- A la Dirección de Responsabilidades, en su carácter de Autoridad Sustanciadora-Resolutora, le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Dar trámite al Informe de Presunta Responsabilidad Administrativa;
-
-II. Hacer uso de los medios de apremio que prevea la legislación en materia de responsabilidades administrativas para hacer cumplir sus determinaciones;
-
-III. Habilitar días y horas inhábiles para la práctica de diligencias que estime necesarias.
-
-IV. Decretar las medidas cautelares en los términos de la legislación en materia de responsabilidades administrativas;
-
-V. Sustanciar y resolver los Procedimientos de Responsabilidad Administrativa, imponiendo, en su caso, las sanciones en los términos previstos por la legislación en materia de responsabilidades administrativas; así como la ejecución de aquellas que dispone dicho ordenamiento legal.
-
-VI. Recibir, tramitar e interponer los recursos e incidentes en el ámbito de su competencia y darles el trámite correspondiente.
-
-VII. Recibir, atender y resolver las inconformidades que presenten los proveedores y contratistas de la administración Pública Municipal que consideren que sus derechos fueron afectados; y
-
-VIII. Las demás que le asigne la ley de la materia y demás disposiciones jurídicas aplicables.
-
-###### ARTÍCULO 108.
-
-A la Dirección de Gestión de la Calidad le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Elaborar y proponer para su autorización, ejecución, verificación y cumplimiento el Programa del Sistema de Gestión de Calidad, apegado a la normatividad aplicable;
-
-II. Elaborar y proponer a la o el Titular de la Secretaría, el Proyecto Anual de Auditoría Interna del Sistema de Gestión de la Calidad de la Administración Pública Municipal;
-
-III. Verificar y evaluar permanentemente la calidad de los servicios que prestan las secretarías y entidades paramunicipales, proponiendo la implementación de acciones y medidas para su mejora continua;
-
-IV. Implementar mecanismos en los procesos de calidad que permitan vigilar su cumplimiento a través de indicadores de desempeño, para evaluar la eficiencia de los servidores públicos del Municipio;
-
-V. Conocer y vigilar el cumplimiento de las normas y disposiciones que en materia de calidad adopte el Municipio;
-
-VI. Verificar el cumplimiento de los manuales de organización y procedimientos de cada una de las entidades paramunicipales y secretarías de la Administración Pública Municipal;
-
-VII. Realizar auditorías internas del Sistema de Gestión de Calidad a las distintas secretarías y entidades paramunicipales;
-
-VIII. Verificar que los auditores, cumplan con los requisitos establecidos en la normatividad vigente para el desempeño de sus funciones; consultar la reglamentación;
-
-IX. Promover el uso adecuado de la imagen institucional de la Administración Pública Municipal y vigilar su cumplimiento;
-
-X. Realizar el informe de actividades del Sistema de Gestión de Calidad al Presidente Municipal, como se define en el Manual de Calidad de la Administración Pública Municipal;
-
-XI. Contribuir en la mejora continua y de innovación gubernamental de los procesos de la calidad del Municipio; y
-
-XII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 109.
-
-A la Dirección de Transparencia e Información Pública Gubernamental, a través de la o el Titular, le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Fungir como Titular de la Unidad de Transparencia e Información Pública Gubernamental;
-
-II. Presidir el Comité Municipal de Acceso a la Información Pública Gubernamental;
-
-III. Formular con base en la normatividad estatal en materia de transparencia y acceso a la información, la coordinación y supervisión de las unidades, enlaces o áreas municipales de información pública gubernamental, en la debida atención de las solicitudes de acceso y la entrega de la información requerida;
-
-IV. Proponer y coordinar políticas, lineamientos y programas en materia de transparencia, acceso y difusión de la información pública gubernamental, corrección y protección de datos personales, implementando las medidas necesarias para una eficaz colaboración y asistencia técnica, de conformidad con la legislación aplicable en la materia;
-
-V. Elaborar y proponer a la o a el Titular de la Secretaría, el programa anual de actividades en la materia de su competencia;
-
-VI. Recibir y dar trámite a las solicitudes de acceso a la información pública gubernamental y a las relativas al ejercicio de la acción de protección de datos personales, en los términos de Ley;
-
-VII. Asesorar a los solicitantes que requieran de información pública gubernamental, a fin de fomentar la transparencia, rendición de cuentas y la participación ciudadana;
-
-VIII. Difundir y actualizar la información pública de oficio de acuerdo a la normatividad estatal en materia de transparencia y acceso a la información;
-
-IX. Difundir y actualizar la información financiera de la Administración Pública Municipal de acuerdo a la Ley General de Contabilidad Gubernamental;
-
-X. Realizar los trámites y gestiones para entregar la información solicitada y efectuar las notificaciones correspondientes;
-
-XI. Establecer mecanismos de vinculación entre la Presidencia Municipal y el Instituto de Acceso a la Información Pública Gubernamental del Estado de Hidalgo;
-
-XII. Supervisar que la información clasificada como reservada sea resguardada en los términos de la normatividad estatal correspondiente;
-
-XIII. Recibir, tramitar y dar seguimiento, en coordinación con la Dirección General Jurídica de la Secretaría General y el Comité de Acceso a la Información Pública Gubernamental del Municipio, a los recursos de aclaración e inconformidad en su caso, que presenten los ciudadanos, en materia de transparencia;
-
-XIV. Atender y dar cumplimiento a las resoluciones, disposiciones administrativas y requerimientos de informes que establezca el Comité de Acceso a la Información Pública y el Instituto de Acceso a la Información Pública Gubernamental del Estado de Hidalgo;
-
-XV. Promover la capacitación y actualización referente a la transparencia y rendición de cuentas para los enlaces designados por las secretarías y entidades de la Administración Pública Municipal, en materia de transparencia, a efecto de dar trámite adecuado y oportuno a las solicitudes presentadas;
-
-XVI. Constituir, organizar regular y preservar el archivo histórico municipal y del H. Ayuntamiento;
-
-XVII. Establecer, en coordinación con el área competente de la Secretaría General, medidas para la conservación, salvaguarda y correcto manejo de los archivos de la Administración Pública Municipal y seleccionar los documentos que se incluirán en el acervo del Archivo Histórico; y
-
-XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2020)</small>
+### CAPITULO II. Licencias, Permisos y Registros
 
 ###### Art. 138.
 
@@ -4615,49 +2525,7 @@ Se entiende por vivienda popular, aquella cuyo valor catastral no exceda de vein
 
 Se aplicará una reducción de cuando menos el ochenta por ciento en las cuotas o tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas que se realicen en bienes inmuebles afectos al Patrimonio Cultural del Estado, encauzados a su conservación y rehabilitación.
 
-### CAPÍTULO XIV. DE LA SECRETARÍA MUNICIPAL DE LAS MUJERES
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-###### ARTÍCULO 110.
-
-La Secretaría Municipal de las Mujeres es una Dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal en promover las políticas publicas para el desarrollo de la mujer en equidad de género y respeto a sus derechos humanos dentro del Municipio.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-###### ARTÍCULO 111.
-
-Para el cumplimiento de su objeto, la Secretaría tendrá las siguientes atribuciones:
-
-I. Fungir como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidente Municipal, dependencias de la administración pública municipal, organizaciones de la sociedad civil y empresas, en materia de igualdad de género, implementación de la perspectiva de género y erradicación de la violencia contra las mujeres;
-
-II. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, en la coordinación de esfuerzos participativos en favor de una política de igualdad entre mujeres y hombres;
-
-III. Promover la incorporación de la perspectiva de género en la planeación, organización, ejecución y control de programas y proyectos, con el fin de eliminar las brechas de desigualdad subsistentes;
-
-IV. Promover e impulsar condiciones que hagan posible la defensa y el ejercicio de los derechos de las mujeres; la igualdad de oportunidades; y su participación activa en todos los órdenes de la vida;
-
-V. Instrumentar, en concordancia con la política nacional y estatal, la política pública relativa a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres;
-
-VI. Elaborar programas que desarrollen capacidades locales para potenciar el empoderamiento de las mujeres; y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución fiduciaria.
-
-#### SECCIÓN SEGUNDA. DE LAS ÁREAS JURÍDICAS
-
-###### ARTÍCULO 112.
-
-La o el Titular de la Dirección General Jurídica emitirá los lineamientos y disposiciones que se deban seguir para la coordinación que corresponda llevar a cabo (sic) las áreas jurídicas de la Administración Pública Municipal en la recepción, atención, control, seguimiento y evaluación para el desahogo de juicios, demandas y actos jurídicos de las diversas materias en que sean parte y conozcan las secretarías y entidades municipales.
-
-###### ARTÍCULO 113.
-
-Los titulares de las áreas jurídicas en las secretarías y entidades, tienen la obligación de informar de manera inmediata y suficiente de los asuntos litigiosos a su cargo, al Director General Jurídico de la Secretaría General Municipal.
-
-###### ARTÍCULO 114.
-
-A la o el Titular de la Dirección General Jurídica corresponde formular los procedimientos relativos al perfil que debe cumplir el profesional del derecho que se encuentre o desee ingresar al área jurídica de una Secretaría o Entidad de la Administración Pública Municipal.
+### CAPITULO III. Inspección y Vigilancia
 
 ###### Art. 148.
 
@@ -4675,33 +2543,7 @@ a) Si es posible controlar los ingresos, mediante declaración que deberá prese
 
 b) Si el pago debe efectuarse a cuota fija, previamente al acto que lo motiva.
 
-### CAPÍTULO I. DE LAS ENTIDADES PARAMUNICIPALES
-
-> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE JUNIO DE 2020)</small>
-
-###### ARTICULO 115.
-
-Para el despacho de los asuntos del orden administrativo estratégicos, prioritarios o sustantivos la o el Presidente Municipal se auxiliará de los organismos descentralizados, empresas de participación municipal y los fideicomisos públicos, que serán considerados como entidades paramunicipales, con los objetivos que expresamente señalen las disposiciones legales establecidas en sus decretos de creación correspondientes.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2020)</small>
-
-La o el Presidente Municipal podrá solicitar a los miembros del Ayuntamiento la creación, fusión o liquidación de organismos descentralizados, empresas de participación municipal o disponer la constitución y liquidación de fideicomisos públicos, para la atención del objeto que expresamente le encomienda la ley.
-
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2020)</small>
-
-La o el Presidente Municipal deberá observar el Principio de Paridad de Género en los nombramientos de las personas titulares de los organismos señalados en el primer párrafo de este artículo.
-
-Estos organismos pueden ser los siguientes:
-
-I. Los organismos descentralizados;
-
-II. Las empresas de participación municipal; y
-
-III. Los fideicomisos públicos.
-
-###### ARTÍCULO 116.
-
-La o el Presidente Municipal podrá adscribir las entidades paramunicipales a las secretarías según sus respectivas atribuciones y objetos institucionales, a fin de coordinar su programación y presupuestación, conocer y evaluar su operación y participar en sus órganos de gobierno, sin perjuicio de las atribuciones que en materia de congruencia global le establezca el Plan Municipal de Desarrollo. La expedición de lineamientos generales sobre gasto, financiamiento, control y evaluación, para la Administración Pública Paramunicipal, les corresponde a las Secretarías de la Tesorería, de Administración y de Contraloría y Transparencia.
+### CAPITULO IV. Inspección Sanitaria
 
 ###### Art. 150.
 
@@ -4721,61 +2563,7 @@ Las Agencias de Inhumaciones serán solidariamente responsables de los Derechos 
 
 Para los efectos del cobro de los Derechos por este concepto, se entenderá por Establo, Granja y Apiario, lo que sobre el particular señale el Art. 143.
 
-### CAPÍTULO II. DE LOS ORGANISMOS PARAMUNICIPALES
-
-###### ARTÍCULO 117.
-
-Con el objeto de incrementar la capacidad de respuesta en la prestación de los servicios públicos ante las demandas sociales o los requerimientos del fomento de las actividades productivas, la o el Presidente Municipal se auxiliará de organismos descentralizados, mismos que se establecerán conforme a las bases que establezca la Ley Orgánica, los reglamentos respectivos y los decretos de Creación correspondientes.
-
-###### ARTÍCULO 118.
-
-Son organismos descentralizados los creados por decreto del Ayuntamiento, con personalidad jurídica y patrimonio propios para el cumplimiento de las atribuciones que le corresponden al Municipio. Se atendrán reglamentariamente a lo dispuesto por la Ley Orgánica y demás ordenamientos vigentes dentro de su competencia.
-
-###### ARTÍCULO 119.
-
-Las entidades paramunicipales invariablemente contarán con un órgano colegiado de autoridad, el nombre y calidad legal que adopte, en arreglo a la Ley de Entidades Paraestatales del Estado de Hidalgo y a lo previsto en la Ley Orgánica.
-
-###### ARTÍCULO 120.
-
-El Gobierno, administración del patrimonio, presupuesto y de los ingresos de la Entidad paramunicipal estarán a cargo de:
-
-I. Una Junta de Gobierno; junta directiva, asamblea general, comité técnico o el denominativo que se acuerde en las disposiciones jurídicas de su creación;
-
-II. Una Dirección; y
-
-III. Las Unidades Administrativas.
-
-Estos órganos de Gobierno y de Administración serán detallados en los estatutos orgánicos correspondientes.
-
-###### ARTÍCULO 121.
-
-El órgano de autoridad estará integrada (sic) por:
-
-I. Un Presidente que estará a cargo de la o el Presidente Municipal; y
-
-II. No menos de cinco vocalías con voz y voto ocupadas por las y los Titulares de las Secretarías de la Administración Pública Municipal que designe la o él Presidente Municipal.
-
-La integración, organización y funcionamiento del órgano de autoridad estarán detallados en los estatutos orgánicos correspondientes.
-
-###### ARTÍCULO 122.
-
-La Junta de Gobierno, junta directiva, asamblea general, comité técnico o el denominativo que se acuerde en las disposiciones jurídicas de su creación, le corresponderá la atención de los siguientes asuntos:
-
-I. Aprobar, modificar y dar seguimiento a los informes, presupuesto, esquemas de organización, programas, proyectos y demás instrumentos propios para el óptimo desarrollo del Organismo paramunicipal;
-
-II. Aprobar el Estatuto Orgánico, manuales institucionales y demás normas y bases reglamentarias relativo (sic) al Organismo paramunicipal;
-
-III. Aprobar todas aquellas acciones generadas por la Dirección sobre el programa operativo, normas o bases generales y demás instrumentos propios para el óptimo desarrollo del Organismo paramunicipal;
-
-IV. Autorizar la creación de comités especializados y de todas aquellas modificaciones orgánicas del Organismo paramunicipal;
-
-V. Autorizar la (sic) las propuestas, normas generales, políticas, estrategias y acciones sobre adquisiciones, arrendamientos, obra y procesos de adjudicación del Organismo paramunicipal; y
-
-VI. Las demás que le confieran las disposiciones legales aplicables.
-
-###### ARTÍCULO 123.
-
-En los términos previstos en la Ley Orgánica y en la Ley de Entidades Paraestatales del Estado de Hidalgo, para la conducción de la administración la Entidad paramunicipal contará con una Dirección Ejecutiva cuyo Titular será nombrado y removido libremente por el Presidente Municipal.
+### CAPITULO V. Aseo Público
 
 ###### Art. 154.
 
@@ -4789,11 +2577,7 @@ Los usuarios que requieran servicios especiales de aseo público en forma consta
 
 Los derechos por aseo público a que se refiere esta Ley, cuando no se presten en forma constante y bajo contrato, deberán pagarse en la Tesorería Municipal previamente a la prestación del servicio. En caso que el servicio se preste en rebeldía del usuario, se le notificará el costo del mismo para que, en un término de cinco días, realice el pago correspondiente.
 
-### CAPÍTULO III. DE LA EMPRESA PÚBLICA MUNICIPAL
-
-###### ARTÍCULO 124.
-
-Son Empresas de Participación Municipal, conforme (sic) la legislación Federal y Estatal aplicable, las sociedades mercantiles donde intervenga la Presidencia Municipal como propietario de alguna parte del capital o porque le asista la facultad de nombrar a alguno de los miembros del órgano de administración, o bien designar al Presidente o Director General de la misma.
+### CAPITULO VI. Agua y Alcantarillado
 
 ###### Art. 157.
 
@@ -4819,19 +2603,7 @@ Los lotes baldíos propiedad de Fraccionamientos legalmente constituidos tendrá
 
 Los fraccionamientos comenzarán a cubrir sus cuotas a partir de la fecha de conexión a la red del Sistema y tendrán la obligación de entregar bimestralmente, a la Tesorería Municipal, una relación de los nuevos posesionarios de lotes para la actualización de su padrón de usuarios. En caso de no cumplirse esta obligación, se suprimirá la bonificación aludida.
 
-### CAPÍTULO IV. DEL FIDEICOMISO PÚBLICO MUNICIPAL
-
-###### ARTÍCULO 125.
-
-Los fideicomisos públicos son aquellos que por contrato o mediante acuerdo, constituye el Ayuntamiento a través de la o el Titular de la Presidencia Municipal, con el propósito de auxiliar al Presidente Municipal en sus atribuciones conferidas para impulsar las áreas prioritarias del (sic) desarrollo.
-
-Los fideicomisos públicos podrán contar con una estructura orgánica análoga a las otras entidades y su órgano colegiado de gobierno se denominará comité técnico.
-
-La o él Presidente Municipal, a través de la Secretaría de la Tesorería, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico,
-
-Las instituciones fiduciarias, a través del delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos, deberán someter a la consideración de la Secretaría a la que se le adscribió o que coordina el sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
-
-En los contratos de los fideicomisos se deberá precisar las facultades especiales, si las hubiere, que en adición a las que establece este Reglamento para los órganos de gobierno, determine el Presidente Municipal para el Comité Técnico, indicando, en todo caso, cuales asuntos requieren de la aprobación del mismo, para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución fiduciaria.
+### CAPITULO VII. Rastro
 
 ###### Art. 162.
 
@@ -4859,11 +2631,7 @@ La Autoridad Municipal queda facultada para retener carnes, cuando sea descubier
 
 Igualmente, queda facultada para confiscar carnes no aptas para el consumo humano, las cuales deberán ser incineradas de inmediato.
 
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DE LAS ENTIDADES PARAMUNICIPALES
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-ARTÍCULO 136 (SIC).- Para el control y evaluación de la Entidad Paramunicipal contará con un Comisario Público, designado bajo la responsabilidad de la Secretaría de Contraloría y Transparencia del Municipio cuyas funciones se especificaran en los estatutos orgánicos correspondientes.
+### CAPITULO VIII. Registro Civil
 
 ###### Art. 168.
 
@@ -4879,11 +2647,7 @@ Los derechos que las Leyes de Ingresos Municipales fijen por este concepto, debe
 
 Los Oficiales del Registro Civil están obligados, en todos los casos, a consignar en las actas, el lugar y la hora en que se celebre el acto, así como el número del recibo oficial de pago de los derechos causados, cuando éste tenga verificativo en horas extraordinarias o a domicilio.
 
-### CAPÍTULO VI. DE LA EXTINCIÓN Y LIQUIDACIÓN
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-ARTÍCULO 137 (SIC).- La Secretaría de Contraloría y Transparencia del Municipio en su carácter de evaluador y controlador, señalará las bases para llevar a cabo la liquidación derivada de la extinción de las Entidades Paramunicipales y Fideicomisos Públicos, las cuales deberán considerar la eficiencia, eficacia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público y serán descritas en el Estatuto Orgánico correspondiente de la Entidad.
+### CAPITULO IX. Certificaciones
 
 ###### Art. 171.
 
@@ -4919,7 +2683,7 @@ Causarán los derechos a que se refiere este Capítulo, aquellos otros servicios
 
 Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto, deberán ser cubiertos en la Tesorería o en los lugares que ésta autorice para tal efecto, dentro de los plazos que se señalen.
 
-## TÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
+## TITULO TERCERO. De los Productos
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -5071,17 +2835,17 @@ XIII. Otros no especificados.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de Participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso, se celebren o se hayan celebrado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ## TITULO SEXTO. De las Aportaciones Federales para Fines Específicos
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1998)</small>
 
 Art. 194 bis. Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
 
 # LIBRO TERCERO. De los Ilícitos Fiscales
 
@@ -5479,6 +3243,16 @@ Los estados financieros y demás información financiera y contable que emanen d
 
 Para los efectos de esta Ley, incurre en responsabilidad toda persona física o moral que dolosa o culposamente, cause daño o perjuicio a la Hacienda Pública Municipal.
 
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2004)</small>
+
+Art. 236 bis.- Los Ayuntamientos están obligados a conservar la documentación comprobatoria de su contabilidad de archivos físicos por seis años.
+
+El Congreso del Estado, a través de la Auditoría Superior del Estado, podrá autorizar la destrucción de la documentación del primer año de la administración saliente, al inicio de una nueva, siempre y cuando se haya emitido la aprobación de la última cuenta pública anual de la que concluye su ejercicio constitucional.
+
+Al rendir la aprobación de la cuenta anual correspondiente al segundo ejercicio fiscal de la administración en funciones, podrá autorizar la destrucción de la documentación correspondiente al segundo año de la administración anterior, y así sucesivamente para las cuentas anuales subsiguientes.
+
+Se exceptúa de lo dispuesto en este artículo la documentación relativa a los convenios, actos o contratos cuya vigencia y cumplimiento no hubieran concluido, se encuentren en litigio, exista disposición legal expresa para ello o no hubieren prescrito las acciones legales que pudieran ejercitarse derivadas de la celebración de dichos convenios, actos o contratos, en cuyo caso, los plazos empezarán a correr a partir de la fecha de extinción, cumplimiento de las obligaciones establecidas en los documentos respectivos o resolución judicial definitiva.
+
 ###### Art. 237.
 
 Las responsabilidades que conforme a esta Ley se finquen, tienen por objeto cubrir a la Hacienda Municipal el monto de los daños y perjuicios estimables en dinero.
@@ -5591,7 +3365,7 @@ Salvo que las disposiciones fiscales, o resoluciones, señalen una fecha para la
 
 ### CAPITULO II. Del Procedimiento Administrativo de Ejecución
 
-#### SECCIÓN CUARTA. DE LAS DIRECCIONES DE ÁREA DE LA SECRETARÍA GENERAL MUNICIPAL
+#### SECCION PRIMERA. Disposiciones Generales
 
 ###### Art. 252.
 
@@ -5601,7 +3375,7 @@ No satisfecho un crédito fiscal dentro del plazo, que para el efecto señalen l
 
 Los vencimientos que ocurran durante el procedimiento, incluyendo recargos, gastos de ejecución y cualquiera otro, se harán efectivos, juntamente con el crédito inicial, sin necesidad de notificación ni otras formalidades especiales.
 
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
+#### SECCION SEGUNDA. Del Requerimiento
 
 ###### Art. 254.
 
@@ -5631,93 +3405,7 @@ III. Los motivos y fundamentos por los que se les considera responsables del cr�
 
 IV. El plazo para el pago, que será de quince días, salvo que la Ley señale otro.
 
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
-
-###### ARTÍCULO 44.
-
-Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de las funciones y atribuciones a su cargo, la Secretaría de Planeación y Evaluación contará con la siguiente estructura:
-
-I. Dirección dePlaneación (sic), Evaluación y Proyectos Estratégicos; y
-
-II. Dirección de Vinculación e Innovación Institucional.
-
-###### ARTÍCULO 45.
-
-A la Dirección de Planeación, Evaluación y Proyectos Estratégicos le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Generar las normas y políticas para el diseño e implementación del proceso de planeación y evaluación de la Administración Pública Municipal;
-
-II. Verificar que los planes, programas y proyectos de las secretarías y entidades de la Administración Pública Municipal se apeguen a lo señalado en el Plan Municipal de Desarrollo;
-
-III. Realizar la evaluación de los resultados del programa de inversión del Municipio, verificando el cumplimiento de las metas y objetivos establecidos;
-
-IV. Establecer, coordinar y ejecutar el Sistema de Evaluación del Plan Municipal de Desarrollo; y de los programas, proyectos y acciones que efectúen en el ámbito de su competencia las secretarías y entidades de la Administración Pública Municipal, estableciendo indicadores estratégicos para su implementación;
-
-V. Aplicar y proponer las políticas y procedimientos que aseguren el eficaz seguimiento, control, supervisión y evaluación de metas estratégicas de la Administración Pública Municipal;
-
-VI. Evaluar el avance de los programas y proyectos de la Administración Pública Municipal;
-
-VII. Evaluar, conforme a los indicadores y metas establecidos, el impacto de las acciones, programas y proyectos desarrollados por la Administración Pública Municipal;
-
-VIII. Coadyuvar con las secretarías y entidades la elaboración de proyectos estratégicos, en concordancia con las metas establecidas en el Plan Municipal de Desarrollo;
-
-IX. Supervisar la coordinación, control técnico, supervisión y evaluación de los proyectos estratégicos que presenten las secretarías y entidades, verificando su viabilidad técnica y financiera;
-
-X. Proponer a la o el Titular de la Secretaría, políticas y lineamientos a fin de que los proyectos cuenten con metas y resultados cuantificables y se desarrollen en concordancia con el Plan Municipal de Desarrollo;
-
-XI. Coordinar la participación de las secretarías y entidades, así como de las diversas instancias que deban concurrir, para la construcción de proyectos;
-
-XII. Proponer e implementar lineamientos específicos para que las diversas áreas de la Administración Pública realicen la integración de expedientes técnicos y el desarrollo de proyectos;
-
-XIII. Revisar y evaluar los expedientes técnicos que elaboren las diferentes áreas de la Administración Pública Municipal;
-
-XIV. Identificar las diferentes fuentes de financiamiento, que permitan el desarrollo de programas y proyectos estratégicos en el Municipio; y
-
-XV. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 46.
-
-A la Dirección de Vinculación e Innovación Institucional le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Plantear ante la o el Titular de la Secretaría los mecanismos que permitan efectuar una adecuada coordinación entre la Administración Pública Municipal y las dependencias de los diferentes ordenes de gobierno, en los casos en que así sea establecido en convenios y acuerdos de colaboración;
-
-II. Identificar oportunidades y recomendar el establecimiento de relaciones institucionales con otros órdenes y niveles de gobierno, instituciones y organismos, ya sea a nivel nacional o internacional, que así convengan para el desarrollo de la Administración Pública Municipal;
-
-III. Proponer a la o el Titular de la Secretaría los mecanismos de coordinación e información entre secretarías y entidades y otras áreas, para las relaciones internacionales de la Administración Pública Municipal;
-
-IV. Proponer a la o el Titular de la Secretaría las estrategias y mecanismos de coordinación mediante los cuales la Administración Pública Municipal desarrolle sus relaciones con los distintos sectores, instituciones y otros órdenes de gobierno;
-
-V. Generar la información necesaria, respecto de los programas y proyectos que son desarrollados por dos o más secretarías o entidades que permita la toma de decisiones, adecuada y oportunamente;
-
-VI. Contribuir con las secretarías municipales que proporcionan servicios concurrentes en la definición de responsabilidades y procesos de cada una, procurando su vinculación bajo criterios de eficiencia, productividad y mayor cercanía y calidad de servicios a la población;
-
-VII. Administrar el portal web del Municipio, así como mantener actualizada la información presentada dentro del mismo, coordinando a las secretarías y entidades;
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
-
-VIII. Promover el uso del portal web del Municipio, como medio de difusión de los programas, actividades, trámites y servicios que brinda el mismo a la ciudadanía;
-
-IX. Promover e impulsar el desarrollo del gobierno electrónico, a través del portal de Internet del Municipio.
-
-X. Proponer a la o a él Titular de la Secretaría, soluciones innovadoras en materia de tecnologías de la información y sistemas que permitan a las diferentes áreas del Municipio, brindar servicios de manera más ágil y oportuna a la ciudadanía;
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
-
-XI. Implementar, administrar, mantener, actualizar y conservar el Sistema Electrónico de Trámites y Servicios;
-
-XII. Asesorar a las secretarías y entidades en materia de herramientas tecnológicas aplicadas a la automatización de procesos y desarrollo de sistemas;
-
-XIII. Formular, proponer y aplicar las normas y procedimientos para fomentar la estandarización, optimización y aprovechamiento de los sistemas de información en la Administración Pública Municipal;
-
-XIV. Proponer mecanismos que permitan el aprovechamiento óptimo de las tecnologías de la información en las funciones de las secretarías y entidades paramunicipales;
-
-XV. Coadyuvar en el análisis de la viabilidad técnica, en coordinación con las áreas competentes, de los proyectos para el desarrollo de sistemas de información en la Administración Pública Municipal;
-
-XVI. Analizar y emitir opinión técnica, a solicitud de las secretarías y entidades, respecto a la adquisición de sistemas tecnológicos;
-
-XVII. Validar los proyectos en el Municipio que contengan software o sistemas tecnológicos, en coordinación con (sic) Dirección de Informática de la Secretaría de Administración; y
-
-XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+#### SECCION TERCERA. Del Secuestro Administrativo
 
 ###### Art. 257.
 
@@ -5989,121 +3677,7 @@ Todos los gastos de ejecución serán a cargo del contribuyente y, en ningún ca
 
 No procederá el cobro de gastos de ejecución, cuando las diligencias practicadas durante el procedimiento resultaren improcedentes, porque ya estuviera cumplida la obligación, o ésta hubiese quedado insubsistente por resolución de autoridad competente.
 
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA DE LA TESORERÍA MUNICIPAL
-
-###### ARTÍCULO 47.
-
-La Secretaría (sic) Tesorería Municipal es una dependencia de la Administración Pública Municipal, encargada de apoyar al Presidente Municipal, en la conducción de la política del Sistema Financiero Municipal, así como a la planeación, programación, presupuestación, coordinación, control, seguimiento, evaluación y vigilancia en la captación de ingresos y la utilización óptima y racional del gasto público municipal, a través de una gestión pública eficaz y eficiente.
-
-La Secretaría de la Tesorería Municipal es el órgano encargado de la recaudación de los ingresos municipales y de las erogaciones que deba hacer el Ayuntamiento, con las excepciones expresamente señaladas por las leyes aplicables en la materia.
-
-###### ARTÍCULO 48.
-
-A la o el Titular de la Secretaría de la Tesorería Municipal le corresponderá el despacho de las siguientes atribuciones:
-
-I. Establecer políticas, lineamientos y bases para la integración del Presupuesto de Egresos de las secretarías y entidades de la Administración Pública Municipal;
-
-II. Integrar y coadyuvar en el establecimiento de los lineamientos específicos para la elaboración de la Estructura Programática Presupuestal de la Administración Pública Municipal;
-
-III. Coordinar la integración de la Iniciativa de Ley de Ingresos para el Municipio, para someterla a la aprobación del Ayuntamiento, de conformidad con las prioridades y estrategias establecidas en el Plan Municipal de Desarrollo, las disposiciones administrativas de recaudación y leyes aplicables en la materia;
-
-IV. Coordinar la integración del Presupuesto de Egresos del Municipio, para someterlo a la aprobación del Ayuntamiento, de conformidad con las prioridades y estrategias establecidas en el Plan Municipal de Desarrollo y las leyes aplicables en la materia;
-
-V. Proponer mecanismos de coordinación con los Gobiernos Federal y Estatal a fin de obtener la información, para mantener actualizado el padrón catastral gráfico y alfanumérico, así como la información estadística del municipio;
-
-VI. Supervisar el establecimiento de normas y lineamientos generales del catastro y evaluar su cumplimiento, conforme a la legislación aplicable en la materia;
-
-VII. Conducir la ejecución de estrategias conforme (sic) lo dispuesto por la Ley Orgánica; así como disponer los criterios para la coordinación de las áreas competentes en lo relativo a las funciones catastrales;
-
-VIII. Supervisar las funciones para la ejecución de estrategias conforme lo dispone la Ley de Catastro del Estado de Hidalgo y demás normatividad aplicable en la materia;
-
-IX. Coordinar e implementar los mecanismos de recaudación de impuestos, derechos, productos y aprovechamientos que corresponden al Municipio;
-
-X. Dar seguimiento y tramitar lo conducente de las aportaciones, participaciones federales y estatales e ingresos extraordinarios, de conformidad con las disposiciones administrativas de recaudación y leyes aplicables en la materia;
-
-XI. Formular las políticas y estrategias, a través de las cuales tenga efecto la recaudación, vigilancia, administración, concertación y verificación de las contribuciones y de toda clase de ingresos municipales, de conformidad con las disposiciones administrativas de recaudación y leyes aplicables en la materia;
-
-XII. Ejercer la facultad económico-coactiva, para hacer efectivos los créditos fiscales, de conformidad con las disposiciones jurídicas aplicables en la materia;
-
-XIII. Conducir las estrategias, lineamientos y formalidades para el cobro de los créditos que correspondan a la Administración Pública Municipal, de acuerdo con las disposiciones jurídicas aplicables en la materia;
-
-XIV. Determinar en cantidad liquida los créditos fiscales a favor del Municipio;
-
-XV. Ordenar la ejecución de oficios de requerimiento de pago y embargo, aprobando y firmando lo correspondiente;
-
-XVI. Habilitar los días y horas inhábiles para la práctica de las diligencias relativas al procedimiento administrativo de ejecución;
-
-XVII. Ordenar las medidas provisionales urgentes que estime necesarias para proteger el interés fiscal, cuando durante la intervención de negociaciones tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco municipal;
-
-XVIII. Ordenar la emisión de los oficios que deben enviarse a los deudores, para hacer de su conocimiento el embargo de los créditos a su cargo, en favor del Municipio; a fin de requerirle el pago de las cantidades respectivas en la caja de la Tesorería Municipal o en las demás Instituciones bancarias o negociaciones autorizadas al efecto, así como para el apercibimiento respecto a la duplicidad del pago en caso de desacato;
-
-XIX. Formular las estrategias y lineamientos, tomando como bases (sic) lo dispuesto en los artículos 196 y 228 del Código Fiscal Municipal para el Estado de Hidalgo, orientadas al desahogo del procedimientos (sic) de rebeldía del deudor, el finiquito o en su caso, de la entrega de la escritura de venta de los bienes embargados;
-
-XX. Designar al perito valuador de los bienes embargados, quien deberá rendir su dictamen dentro de los 10 días si se trata de bienes muebles, dentro de 20 días si son inmuebles y dentro de 30 días cuando sean negociaciones, a partir de la fecha de su aceptación, conforme a lo dispuesto en el artículo 217 del Código Fiscal Municipal para el Estado de Hidalgo;
-
-XXI. Ordenar la cancelación de la inscripción del gravamen respectivo cuando los créditos fiscales hayan sido satisfechos;
-
-XXII. Fincar el remate a favor a quien hubiere hecho la mejor postura;
-
-XXIII. Ordenar, conforme al marco jurídico vigente del Estado, a los habitantes del bien inmueble adjudicado, la desocupación del mismo, una vez concluido el plazo del contrato con el que acreditan la legal posesión;
-
-XXIV. Formular requerimientos a los contribuyentes, responsables solidarios o terceros relacionados, para que aporten la información y documentación necesaria, que permita comprobar el cumplimiento de las disposiciones legales a su cargo;
-
-XXV. Ordenar las notificaciones sobre resoluciones en las que se determinen créditos fiscales, aprobando, firmando e instruyendo la radicación a que haya a lugar;
-
-XXVI. Ordenar las notificaciones sobre los requerimientos de pago; aprobando, firmando e instruyendo la radicación a que haya a lugar;
-
-XXVII. Solicitar el auxilio de la policía o fuerza pública para llevar a cabo el procedimiento administrativo de ejecución;
-
-XXVIII. Integrar un presupuesto global calendarizado por fuente de financiamiento, por Secretaría y a nivel capítulo y partida presupuestal;
-
-XXIX. Remitir a las secretarías y entidades paramunicipales su Presupuesto de Egresos autorizado, calendarizado y a nivel capítulo y partida del gasto;
-
-XXX. Establecer los criterios generales que regirán la Contabilidad Gubernamental y la emisión de la información financiera para mantenerla armonizada de conformidad con las leyes y ordenamientos aplicables;
-
-XXXI. Custodiar y ejercer los depósitos y títulos de crédito otorgado a favor de la Hacienda Pública Municipal;
-
-XXXII. Coordinar y proporcionar oportunamente al Ayuntamiento la información financiera gubernamental para la formulación de la iniciativa de Ley de Ingresos para el Municipio y del Presupuesto de Egresos, vigilando que dichos ordenamientos se ajusten a las disposiciones normativas aplicables;
-
-XXXIII. Remitir a la Auditoría Superior del Estado, la información financiera gubernamental en apego a lo establecido en las leyes y lineamientos aplicables en la materia;
-
-XXXIV. Establecer los lineamientos y formalidades para mantener actualizados los registros en el Sistema de Contabilidad Gubernamental del Municipio;
-
-XXXV. Establecer sistemas de control que permitan la planeación, programación, presupuestación, calendarización y registro del gasto y los pagos correspondientes;
-
-XXXVI. Verificar que el ejercicio del gasto en las secretarías y entidades paramunicipales, se efectúe conforme al Presupuesto de Egresos autorizado;
-
-XXXVII. Establecer los mecanismos de control que permitan verificar que el ejercicio del gasto en las secretarías y entidades paramunicipales, se encuentre debidamente soportado con la documentación comprobatoria y justificativa que cumpla con las disposiciones fiscales y legales en la materia;
-
-XXXVIII. Dar seguimiento al ejercicio del Presupuesto de Egresos y efectuar la ministración de los recursos a las secretarías y entidades de la Administración Pública Municipal, de conformidad con los programas autorizados;
-
-XXXIX. Vigilar el cumplimiento de las disposiciones legales de carácter fiscal aplicables;
-
-XL. Autorizar las transferencias presupuestales que realizan las áreas de la Administración Pública Municipal;
-
-XLI. Conducir las estrategias, lineamientos y formalidades para el cobro de los adeudos a favor del Municipio;
-
-XLII. Expedir copias certificadas de los documentos bajo su custodia, con las reservas que marca la ley;
-
-XLIII. Dar cumplimiento a los Convenios de Coordinación Fiscal;
-
-XLIV. Intervenir en la adquisición y enajenación de bienes muebles e inmuebles que lleve a cabo la Administración Pública Municipal, de conformidad con las disposiciones jurídicas aplicables en la materia;
-
-XLV. Coordinar la Estructura Programática-Presupuestal para esta Secretaría;
-
-XLVI. Proponer al Ayuntamiento, la cancelación de créditos incobrables a favor del Municipio, de conformidad con las disposiciones legales aplicables;
-
-XLVII. Proponer al Ayuntamiento la contratación de créditos con instituciones públicas y privadas nacionales y vigilar el registro y control de la deuda pública municipal, de conformidad con las disposiciones legales aplicables;
-
-XLVIII. Aplicar los ordenamientos para la elaboración e integración de la Cuenta Pública Municipal establecidos en leyes, reglamentos y demás normatividad aplicable y vigente en la materia;
-
-XLIX. Vigilar el correcto manejo y aplicación de los recursos financieros del Municipio;
-
-L. Coadyuvar con las entidades paramunicipales en la integración de su información financiera;
-
-LI. Supervisar la correcta administración de las cuentas bancarias del Municipio, en apego a las disposiciones legales y normativas que apliquen para cada fuente de financiamiento, identificando las opciones con mayor productividad disponibles en el mercado; y
-
-LII. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o el Presidente Municipal.
+#### SECCION CUARTA. De los Remates
 
 ###### Art. 281.
 
@@ -6297,199 +3871,7 @@ En caso de conflicto, el remate permanecerá en depósito en la Tesorería Munic
 
 > <small>(F. DE E., P.O. 7 DE JUNIO DE 1984)</small>
 
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
-
-###### ARTÍCULO 49.
-
-Para el cumplimiento de su objeto, estudio, planeación, operación y despacho de las atribuciones a su cargo, la o el Titular de la Tesorería contará con la siguiente estructura:
-
-I. Dirección de Ingresos;
-
-II. Dirección de Egresos;
-
-III. Dirección de Catastro; y
-
-IV. Dirección de Presupuesto y Contabilidad.
-
-###### ARTÍCULO 50.
-
-A la Dirección de Ingresos le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Integrar la iniciativa de Ley de Ingresos para el Municipio, de conformidad con las prioridades y estrategias establecidas en el Plan Municipal de Desarrollo y las disposiciones administrativas de recaudación y leyes aplicables en la materia;
-
-II. Recaudar y registrar los ingresos por concepto de impuestos, derechos, productos y aprovechamientos, que corresponden al Municipio de conformidad con la normatividad aplicable;
-
-III. Proponer a la o el Titular de la Secretaría, los criterios de operación de las oficinas receptoras y las metas de recaudación para cada ejercicio fiscal;
-
-IV. Cumplir y vigilar la observancia de la Ley de Ingresos para el Municipio y proponer mecanismos para incrementar la recaudación municipal;
-
-V. Efectuar el control y supervisión de los recursos captados en las cajas recaudadoras;
-
-VI. Celebrar convenios, previa autorización de la o el Titular de la Secretaría, con los contribuyentes, así como ejercer las atribuciones que señalen las leyes fiscales vigentes;
-
-VII. Aplicar las estrategias, lineamientos y formalidades para el cobro de los créditos que correspondan a la Administración Pública Municipal, de acuerdo con las disposiciones jurídicas aplicables en la materia;
-
-VIII. Ejercer la facultad económico-coactiva para hacer efectivos los créditos fiscales, de conformidad con las disposiciones jurídicas aplicables en la materia a través de los notificadores designados por la o el titular de la Secretaría;
-
-IX. Determinar en cantidad líquida los créditos fiscales a favor de la Administración Pública Municipal;
-
-X. Dirigir la instrumentación de los oficios de requerimiento de pago y embargo;
-
-XI. Coordinar los procesos mediante los cuales se habiliten los días y horas inhábiles para la práctica de las diligencias relativas al procedimiento administrativo de ejecución;
-
-XII. Substanciar los expedientes, mediante los cuales se debe fincar el remate a favor a quien hubiere hecho la mejor postura, poniéndolo a vista de él o la Titular de la Secretaría de la Tesorería para su aprobación y firma;
-
-XIII. Celebrar convenios de pago en parcialidades y de pago diferido, de los créditos fiscales, así como calificar y aceptar o rechazar la garantía del interés fiscal, en los términos que establece el Código Fiscal Municipal para el Estado de Hidalgo;
-
-XIV. Dirigir las estrategias y acciones, a través de las cuales se desahogue la calidad de perito valuador y/o designar perito valuador de los bienes embargados, quien deberá rendir su dictamen dentro de los 10 días si se trata de bienes muebles, dentro de 20 días si son inmuebles y dentro de 30 días cuando sean negociaciones, a partir de la fecha de su aceptación, conforme a lo dispuesto en el artículo 217 del Código Fiscal Municipal para el Estado de Hidalgo;
-
-XV. Establecer, ejecutar y custodiar las garantías del interés fiscal, cuando así lo determinen las disposiciones legales;
-
-XVI. Recibir y mantener actualizados los padrones de contribuyentes de las distintas secretarías que coadyuvan en la recaudación municipal;
-
-XVII. Vigilar que la recaudación de los recursos municipales cumpla con las políticas y lineamientos aplicables en la materia;
-
-XVIII. Coordinar la recepción, revisión y actualización constante del Registro de Créditos Fiscales que le turne la Secretaría de la Tesorería Municipal y/o la Dirección de Ingresos;
-
-XIX. Dirigir las estrategias para la clasificación de los créditos fiscales por monto y plazo disponible para su cobro;
-
-XX. Determinar y turnar a la Secretaría de la Tesorería, los créditos incobrables e incosteables, en los términos del Código Fiscal Municipal para el Estado de Hidalgo;
-
-XXI. Coordinar la instrumentación de notificaciones sobre las resoluciones en las que se determinen créditos fiscales;
-
-XXII. Coordinar la instrumentación de notificaciones sobre los requerimientos de pago;
-
-XXIII. Ordenar el embargo de bienes y negociaciones, en términos de lo dispuesto por el artículo 186 del Código Fiscal Municipal para el Estado de Hidalgo;
-
-XXIV. Ordenar la ampliación del embargo a que se refiere el artículo 206 del Código Fiscal Municipal para el Estado de Hidalgo;
-
-XXV. Designar al depositario cuando no lo hubiere hecho el Secretario de (sic) Tesorería, las formalidades relativas a la designación del depositario de los bienes o negociación embargada en el momento de la diligencia;
-
-XXVI. Ordenar la elaboración del inventario de los bienes sobre los cuales se trabó el embargo y describir el estado físico en que se encuentran;
-
-XXVII. Dirigir el registro diario de las cantidades obtenidas durante la intervención de las negociaciones, a efecto de informar a la Secretaría de la Tesorería;
-
-XXVIII. Coordinar la inscripción en el Registro Público de la Propiedad el gravamen respectivo, cuando el embargo recaiga sobre bienes raíces, derechos reales o negociaciones; así como, el nombramiento conferido al interventor o administrador, al día hábil siguiente al que se lleve a cabo la diligencia respectiva;
-
-XXIX. Emitir las convocatorias para remate y supervisar que cumplan con los requisitos que le impone el Código Fiscal Municipal para el Estado de Hidalgo;
-
-XXX. Proponer al Secretario de la Tesorería el lugar, día y hora para la celebración del remate y en su caso, venta de los bienes embargados;
-
-XXXI. Coordinar la elaboración de los emplazamientos para la diligencia de remate a los acreedores que aparezcan en el certificado de gravamen correspondiente a los últimos diez años;
-
-XXXII. Coordinar la recepción, revisión y clasificación de que las posturas legales cumplan con los requisitos jurídicos;
-
-XXXIII. Identificar áreas de oportunidad para la mejor organización, funcionamiento y evaluación de las actividades propias de la Dirección; y
-
-XXXIV. Las demás que dispongan las leyes, reglamentos y normatividad aplicable, así como el superior jerárquico.
-
-###### Artículo 51.
-
-A la Dirección de Egresos le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Proponer a la o el Titular de la Secretaría, políticas, lineamientos y bases para la elaboración de los Presupuestos de Egresos de las dependencias y entidades paramunicipales;
-
-II. Coadyuvar a la integración del presupuesto global calendarizado por fuente de financiamiento, secretaría, entidad y a nivel capítulo y partida presupuestal;
-
-III. Coadyuvar en la aplicación de los mecanismos de control que permitan verificar que el ejercicio del gasto en las secretarías y entidades paramunicipales, se encuentre debidamente soportado con la documentación comprobatoria y justificativa que cumpla con las disposiciones fiscales y legales en la materia;
-
-IV. Realizar los pagos a proveedores, acreedores, contratistas y demás prestadores de servicios de la Administración Pública Municipal, vigilando que toda erogación contenga la documentación comprobatoria y justificativa;
-
-V. Aplicar los sistemas de control financiero en materia de programación y calendarización de pagos;
-
-VI. Calendarizar los pagos a proveedores y prestadores de servicios de acuerdo con los programas y partidas presupuestales autorizados, considerando en primera instancia la disponibilidad financiera que se requiera;
-
-VII. Efectuar la ministración de los recursos de conformidad con los programas y presupuestos autorizados;
-
-VIII. Administrar las cuentas bancarias del Municipio, en apego a las disposiciones legales y normativas que apliquen para cada fuente de financiamiento, identificando las opciones con mayor productividad disponibles en el mercado;
-
-IX. Coordinarse con la o él Director de Presupuesto y Contabilidad para realizar la conciliación contable presupuestal del ejercicio del gasto;
-
-X. Vigilar que los trámites de pago cumplan con las políticas y lineamientos aplicables en la materia;
-
-XI. Elaborar y presentar los informes de egresos que solicite la o el Titular de la Secretaría;
-
-XII. Identificar áreas de oportunidad para la mejor organización, funcionamiento y evaluación de las actividades propias de la Dirección; y
-
-XIII. Las demás que dispongan las leyes, reglamentos y normatividad aplicable, así como el superior jerárquico.
-
-###### Artículo 52.
-
-A la Dirección de Catastro le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Ejecutar los mecanismos de coordinación con los Gobiernos Federal y Estatal a fin de obtener la información, para mantener actualizado el padrón catastral gráfico y alfanumérico, así como la información estadística del municipio;
-
-II. Cumplir con lo establecido en la Ley de Catastro del Estado de Hidalgo y su Reglamento;
-
-III. Formular los proyectos de zonificación catastral y valores unitarios de suelo y de construcción en el ámbito de su jurisdicción, así como coadyuvar en el establecimiento y actualización de cuotas y tarifas para el cobro de las contribuciones de la propiedad inmobiliaria;
-
-IV. Realizar y en su caso supervisar los trabajos relacionados con la integración y actualización del sistema de información catastral;
-
-V. Inscribir y actualizar los bienes inmuebles del territorio municipal en el padrón catastral, así como controlar y mantener resguardados los expedientes correspondientes a dicho padrón;
-
-VI. Mantener actualizada y digitalizada la cartografía de predios y fraccionamientos, así como la generación de planos temáticos;
-
-VII. Realizar las acciones derivadas de la celebración de convenios de coordinación, cooperación o colaboración con otras secretarías y entidades de la Administración Pública Municipal y Estatal, relacionadas en materia de catastro;
-
-VIII. Realizar visitas y requerir los documentos inherentes al catastro a los contribuyentes, en su caso a los fedatarios o quienes hubieren intervenido en los actos jurídicos relativos a la propiedad inmobiliaria, así como imponer las sanciones que procedan en los términos de la Ley de Catastro del Estado de Hidalgo y su Reglamento;
-
-IX. Controlar, actualizar y administrar los archivos de la Dirección;
-
-X. Recibir y registrar la información correspondiente a las terminaciones de obra, actualización y aclaraciones del valor e inscripción de predios ocultos al fisco; así como la recepción y registro de autorización de fraccionamientos, subdivisiones y relotificaciones que le remita la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad;
-
-XI. Proponer al Ayuntamiento a través de la o el Titular de la Secretaría, la integración de la Junta Catastral, que tendrá el carácter de órgano auxiliar en materia de catastro;
-
-XII. Identificar áreas de oportunidad para la mejor organización, funcionamiento y evaluación de las actividades propias de la dirección de catastro; y
-
-XIII. Las demás que dispongan las leyes, reglamentos y normatividad aplicable, así como el superior jerárquico.
-
-###### Artículo 53.
-
-A la Dirección de Presupuesto y Contabilidad le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Coordinar la integración del Presupuesto de Egresos del Municipio, de conformidad con las prioridades y estrategias establecidas en el Plan Municipal de Desarrollo y las leyes aplicables en la materia;
-
-II. Conducir las estrategias, políticas, lineamientos y programas en materia de racionalidad, disciplina, eficiencia e incremento de la Hacienda Pública del Municipio;
-
-III. Generar la información financiera gubernamental e integrar la Cuenta Pública Municipal, de conformidad con la Ley General de Contabilidad Gubernamental y demás ordenamientos legales aplicables;
-
-IV. Remitir la información financiera gubernamental a las autoridades competentes;
-
-V. Recibir por parte de las Secretarías de la Administración Pública Municipal, la información y documentación comprobatoria y justificativa, en apego a lo establecido en la Ley General de Contabilidad Gubernamental y demás ordenamientos legales aplicables en el Estado y en el Municipio;
-
-VI. Registrar contable y presupuestalmente los ingresos por recaudación y egresos generados por las distintas dependencias de la Administración Pública Municipal, de conformidad con la Ley General de Contabilidad Gubernamental y demás ordenamientos legales aplicables en el Estado y en el Municipio;
-
-VII. Verificar y vigilar el registro contable en la Hacienda Pública Municipal de los bienes muebles e inmuebles de conformidad a la Ley General de Contabilidad Gubernamental y demás disposiciones establecidas en (sic) materia;
-
-VIII. Registrar los ingresos por concepto de participaciones, aportaciones e ingresos extraordinarios que recibe el Municipio de conformidad con la normatividad aplicable;
-
-IX. Implementar y difundir los lineamientos para la operación del gasto de las secretarías y entidades paramunicipales;
-
-X. Aplicar mecanismos de control que permitan verificar que el ejercicio del gasto en las secretarías y entidades de la Administración Pública Municipal, se encuentre debidamente soportado con la documentación comprobatoria y justificativa que cumpla con las disposiciones fiscales y legales en la materia;
-
-XI. Elaborar las conciliaciones bancarias de las operaciones efectuadas, en coordinación con la Dirección de Egresos;
-
-XII. Conservar, archivar y poner a disposición de las autoridades competentes la documentación comprobatoria y justificativa, que soporta los ingresos y egresos de la Administración Pública Municipal, de conformidad con la Ley General de Contabilidad Gubernamental y demás ordenamientos legales aplicables;
-
-XIII. Validar las transferencias presupuestales que realizan las áreas de la Administración Pública Municipal;
-
-XIV. Realizar la depuración de las cuentas colectivas que se encuentran registradas en la balanza de comprobación;
-
-XV. Elaborar, en coordinación con las áreas responsables, los informes trimestrales que se suben al portal de la Secretaría de Hacienda y Crédito Público, de los fondos federales que son autorizados al Municipio;
-
-XVI. Coordinar la atención de las auditorías, conjuntamente con las áreas involucradas de la Administración Pública Municipal;
-
-XVII. Cumplir con las obligaciones fiscales en materia de retención y entero de impuestos ante las autoridades fiscales competentes;
-
-XVIII. Implementar las políticas y lineamientos para el registro contable y presupuestal de las operaciones que realizan las secretarías y entidades de la Administración Pública Municipal;
-
-XIX. Coadyuvar en la adopción e implementación de las leyes, ordenamientos, reglamentos y demás normatividad aplicable para la elaboración e integración de la Cuenta Pública Municipal;
-
-XX. Identificar áreas de oportunidad para la mejor organización, funcionamiento y evaluación de las actividades propias de la Dirección;
-
-XXI. Validar la información financiera presentada por las entidades; y
-
-XXII. Las demás que dispongan las leyes, reglamentos y normatividad aplicable, así como el superior jerárquico.
+#### SECCION QUINTA. De las Tercerías
 
 ###### Art. 308.
 
@@ -6649,109 +4031,243 @@ En todo lo no previsto por la presente Ley, se atenderá a lo dispuesto en las d
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y el Presidente Municipal contará a partir de entonces con seis meses para realizar los ajustes necesarios en la Administración Pública Municipal y Paramunicipal.
+Primero. Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-SEGUNDO.- Se abroga el Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, publicado en el Periódico Oficial del Estado, en fecha 8 de diciembre de 2008 y se derogan todas las disposiciones que se opongan al presente Reglamento.
+Segundo. Se abrogan las disposiciones contenidas en la Ley de Hacienda Municipal, contenida en Decreto Número 4720, expedido por el Congreso del Estado, junto con sus reformas.
 
-TERCERO.- Será obligación de las secretarías y entidades elaborar los manuales institucionales derivados de este Reglamento, en un tiempo no mayor del 1° de enero del 2015.
+Tercero. Los procedimientos iniciados y que se encuentren en trámite con anterioridad a la vigencia de esta Ley, se regirán por las disposiciones en vigor en la época de su iniciación y, las resoluciones que se dicten tendrán definitividad para los efectos del Juicio de Garantías, sin que contra las mismas pueda promoverse el Juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
 
-CUARTO.- Las entidades paramunicipales agrupadas en los sectores de la Administración Pública Paramunicipal, ejercerán sus atribuciones y funciones, con base en las disposiciones previstas en este Reglamento para las Secretarías que atienden un ramo administrativo y de sus respectivos Decretos o Leyes de Creación, hasta en tanto no sean modificados dichos instrumentos jurídicos.
+Cuarto. Para calcular el importe de las cantidades en dinero a que alude esta Ley, se tendrá como base el salario mínimo general vigente en cada municipio.
 
-QUINTO.- Los asuntos que con motivo de este Reglamento deban pasar de una Secretaría o Entidad Paramunicipal a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría o Entidad, a la que haya quedado adscrita y que señale ésta la norma jurídico administrativa, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+Salón de Sesiones del Congreso del Estado
 
-SEXTO.- Cuando en otras disposiciones legales o reglamentarias se dé una denominación distinta a alguna Secretaría cuyas funciones estén establecidas por el presente Reglamento, dichas atribuciones se entenderán concedidas a la dependencia que determina este Reglamento.
+Guadalajara, Jal., a 15 de marzo de 1984
 
-SEPTIMO.- A efecto de dar suficiencia presupuestal, orgánica y funcional a las unidades administrativas de la Secretaría de Planeación y Evaluación y las áreas que le corresponden; la Secretaría de Medio Ambiente y Desarrollo Sustentable y las áreas correspondientes, así como la Dirección de Vivienda, la Dirección de Movilidad, la Dirección de Relaciones Públicas y la Dirección de Atención Telefónica, se instruye al Titular de la Presidencia Municipal, a que se lleven a cabo los procesos pertinentes a fin de garantizar que comience su vigencia administrativa a partir del 1 de enero del 2014.
+Diputado Presidente
 
-OCTAVO.- El ayuntamiento realizará los ajustes necesarios a su presupuesto de egresos por las modificaciones a la estructura orgánica de la Administración Pública Municipal y Paramunicipal.
+Francisco Ruiz Guerrero
 
-Las estructuras orgánicas de las secretarías y unidades administrativas derivadas del presente Reglamento se autorizarán por parte de la Secretaría de Administración, conforme a la disponibilidad presupuestal correspondiente en los diferentes rubros del Presupuesto de Egresos vigente Autorizado para el Municipio; dicha Secretaría atenderá y realizara las acciones pertinentes con el fin de hacer las previsiones necesarias para la total regularización presupuestal en el ejercicio de 2014.
+Dip. Secretario
 
-Dado en el Salón de Sesiones de la Presidencia Municipal de Pachuca (sic) Soto, Estado de Hidalgo, a los 29 días del mes de agosto del año dos mil trece.
+Dr. Carlos González Guevara
 
-DECRETO MUNICIPAL NÚMERO SIETE, QUE CONTIENE EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO.
+Dip. Secretario
 
-EL PRESIDENTE DEL H. AYUNTAMIENTO
+Ing. Salvador Farías Chávez
 
-ING. ELEAZAR EDUARDO GARCÍA SÁNCHEZ
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-ING. HEBERT JONAZ REYES OROPEZA
+Dado en Palacio del Poder Ejecutivo del Estado, a los diecinueve días del mes de marzo de mil novecientos ochenta y cuatro.
 
-SÍNDICO PROCURADOR
+El Gobernador Constitucional del Estado
 
-L.C.P. JORGE DANIEL ALVIZO CONTRERAS
+Lic. Enrique Alvarez del Castillo
 
-SÍNDICO PROCURADOR
+El Secretario General de Gobierno
 
-REGIDORES
+Lic. Eugenio Ruiz Orozco
 
-LIC. RAYMUNDO BAUTISTA PICHARDO
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-LIC. MIRIAM MARGARITA CARMONA MORAN
+P.O. 31 DE MARZO DE 1990.
 
-LIC. CARLOS JAIME CONDE ZÚÑIGA
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-C. LORENA COLUMBA CRUZ NIETO
+P.O. 1 DE ENERO DE 1991.
 
-L.C.E. ELIZABETH ADRIANA FLORES TORRES
+Unico. El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco.
 
-L.C.P.F. PABLO ARTURO GÓMEZ LÓPEZ
+P.O. 29 DE JUNIO DE 1991.
 
-C. NÉSTOR GÓMEZ OLVERA
+Artículo Primero. Los predios cuyo valor se determine en operaciones translativas de dominio, a partir del 1.º de julio de 1991, pagarán el Impuesto Predial únicamente sobre el valor de tablas de terreno y construcción, vigentes para cada Municipio, y aprobado por las Juntas Tabuladoras correspondientes.
 
-LIC. AURELIO GONZÁLEZ PÉREZ
+Artículo Segundo. El presente Decreto entrará en vigor el día 1.º primero de julio de 1991 mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco".
 
-LIC. RODRIGO LEÓN CERÓN
+P.O. 16 DE ENERO DE 1992.
 
-C. EDITH MEJÍA HERNÁNDEZ
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-LIC. JENNY MARLÚ MELGAREJO CHINO
+P.O. 6 DE FEBRERO DE 1993.
 
-LIC. ROXANA MONTEALEGRE SALVADOR
+Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-LIC. MARÍA CECILIA PÉREZ BARRANCO
+P.O. 30 DE DICIEMBRE DE 1993.
 
-ING. OSCAR RODARTE ALTAMIRANO
+DECRETO NUMERO 15311.
 
-C.D. EDUARDO SÁNCHEZ HERNÁNDEZ
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1996)</small>
 
-C. JORGE ANDRÉS YÁÑEZ PÉREZ
+PRIMERO.- Las asociaciones religiosas, legalmente constituidas, que hubieren obtenido la declaratoria de procedencia por parte de la Secretaría de Gobernación, a partir del 16 de julio de 1992 a la fecha de publicación del presente decreto, podrán beneficiarse con la exención del pago del Impuesto Sobre Transmisiones Patrimoniales, hasta el 31 de diciembre de 1997.
 
-C. JUANA ROSA ZACARÍAS AYALA
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-PROFRA. ROSA MARÍA ZAMUDIO MONTUFAR
+P.O. 30 DE DICIEMBRE DE 1993.
 
-LIC. OLIVIA ZÚÑIGA SANTÍN
+DECRETO NUMERO 15315.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-P.O. 29 DE DICIEMBRE DE 2014.
+P.O. 8 DE OCTUBRE DE 1994.
 
-[N. DE. E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO”.]
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+P.O. 11 DE MAYO DE 1995.
 
-SEGUNDO.- Se deroga la fracción IV del artículo 85 y el articulo 89 del Decreto Municipal Número Siete que contiene el Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Hidalgo, publicado en el Tomo CXLVI del Alcance al Periódico Oficial de fecha 21 de Octubre de 2013.
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-P.O. 29 DE DICIEMBRE DE 2014.
+P.O. 22 DE AGOSTO DE 1996.
 
-[N. DE. E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO VEINTIUNO.- QUE CONTIENE LA CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA CULTURA DE PACHUCA, HIDALGO”.]
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-PRIMERO. El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+P.O. 31 DE OCTUBRE DE 1996.
 
-SEGUNDO. Quedan derogadas todas aquellas disposiciones reglamentarias, decretos y publicaciones que se opongan al presente Decreto.
+ÚNICO.- El presente decreto entrará en vigor ocho días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-TERCERO. La Junta de Gobierno se integrará dentro de los 30 días siguientes a la entrada en vigor del presente Decreto.
+P.O. 5 DE DICIEMBRE DE 1996.
 
-CUARTO. El Director General del INSTITUTO elaborará el Reglamento Interno para que sea aprobado por el Ayuntamiento de Pachuca de Soto, Hidalgo y los Manuales Operativos para proponerlos a la Junta de Gobierno dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-QUINTO. El personal de la Dirección de Participación Social y Cultural pertenecientes a la Secretaría de Desarrollo Humano y Social formarán parte del INSTITUTO.
+P.O. 9 DE ENERO DE 1997.
 
-SEXTO. Se DEROGA la fracción II del artículo 85 y el artículo 87 del Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Estado de Hidalgo, publicado mediante decreto número Siete, el día 21 de octubre de 2013 en el Periódico Oficial del Estado, número 42.
+Único. El presente decreto entrará en vigor el día 1º de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-SÉPTIMO. Sin perjuicio de lo anterior, al INSTITUTO se le otorgará suficiencia presupuestaria y recursos humanos para el ejercicio fiscal 2015.
+P.O. 25 DE ENERO DE 1997.
 
-P.O. 5 DE SEPTIEMBRE DE 2016.
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE JUNIO DE 1997.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE DICIEMBRE DE 1997.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Primero.- El presente decreto entrará en vigor en su totalidad el día 1º de enero de 1998, para los municipios de Guadalajara y Zapopan. Para Los Municipios de Puerto Vallarta, Tepatitlán de Morelos, Tlaquepaque, Tonalá y Villa Corona, Jalisco, regirán a partir del día 1º de enero de 1998, salvo las disposiciones relativas al impuesto predial que entrarán en vigor el día 1º de enero de 1999. Para los demás municipios de la entidad empezarán a surtir efectos el día 1º de enero de 1998, salvo las disposiciones del impuesto predial que entrarán en vigor el día 1º de enero del año 2000.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan a (sic) al presente decreto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+Tercero.- Publíquese el texto íntegro de este decreto en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE FEBRERO DE 1998.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE AGOSTO DE 1998.
+
+ÚNICO. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 1998.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE FEBRERO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE ABRIL DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE JUNIO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE AGOSTO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día 1°/01/00 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE DICIEMBRE DE 1999.
+
+ÚNICO.- El presente Decreto entrará en vigor el día primero de Enero del año 2000, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE JULIO DE 2000.
+
+Único.- Este Decreto entrará en vigor el 1 de febrero del 2001, previa publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE ENERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE FEBRERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+DECRETO NUMERO 19112.
+
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+DECRETO NUMERO 19113.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
+
+P.O. 21 DE MAYO DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La Auditoría Superior iniciará sus funciones a la entrada en vigor del presente decreto, y su titular será el actual Contador Mayor de Hacienda, hasta el 31 de julio del año 2004.
+
+CUARTO. La revisión de la cuenta pública, que incluye el informe de avance de gestión financiera, conforme a las disposiciones de la ley contenida en el artículo primero de este decreto, se efectuará a partir de la cuenta pública del año 2004. Las revisiones de las cuentas públicas de los años 1999, 2000, 2001, 2002 y 2003 se efectuarán conforme a las disposiciones vigentes en dichos ejercicios.
+
+QUINTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado; igualmente, cuando se haga referencia al Contador Mayor, se entenderá referido al Auditor Superior.
+
+SEXTO. Todos los inmuebles, equipos, archivos, expedientes, papeles y, en general, los bienes de la Contaduría Mayor de Hacienda, pasarán a la Auditoría Superior del Estado quedando destinados y afectos a su servicio. La Auditoría Superior del Estado igualmente se subroga en todos los derechos y obligaciones de aquella.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte de la Auditoría Superior del Estado, respetándose sus derechos en los términos de ley.
+
+SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
+
+OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
+
+P.O. 28 DE FEBRERO DE 2004.
+
+DECRETO NUMERO 20439.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE FEBRERO DE 2004.
+
+DECRETO NUMERO 20440.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE MAYO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA Y OCHO QUE CONTIENE LA INICIATIVA CON PROYECTO DE DECRETO QUE REFORMA EL ARTÍCULO 23 Y ADICIONA EL ARTÍCULO 27 BIS, 27 TER Y 27 QUATER DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
 
