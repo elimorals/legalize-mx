@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1935-07-06"
+last_updated: "1940-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1940.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -9717,7 +9717,7 @@ Pago o cumplimiento es la entrega de la cosa o cantidad debida, o la prestación
 
 ###### Art. 1957.
 
-El deudor puede ceder sus bienes a los acreedores en pago de sus deudas. Esta cesión, salvo pacto en contrario, sólo libera a aquel de responsabilidad por el importe líquido de los bienes cedidos. Los convenios que sobre el efecto de la cesión se celebren entre el deudor y sus acreedores, se sujetarán a lo dispuesto en el Título relativo a la concurrencia y prelación de los créditos.
+El deudor puede ceder sus bienes a los acreedores en pago de sus deudas. Esta cesión, salvo pacto en contrario, solo libera a aquel de responsabilidad por el importe líquido de los bienes cedidos. Los convenios que sobre el efecto de la cesión se celebren entre el deudor y sus acreedores, se sujetarán a lo dispuesto en el Título relativo a la concurrencia y prelación de los créditos.
 
 ###### Art. 1958.
 
@@ -12941,107 +12941,111 @@ Para que las asociaciones y las sociedades extranjeras de carácter civil, pueda
 
 Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el Registro los estatutos de las asociaciones y sociedades extranjeras.
 
+> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR SEÑALA LA UBICACION DEL PRESENTE CAPITULO EN EL LIBRO TERCERO, UBICANDOSE REALMENTE EN EL LIBRO CUARTO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)</small>
+
 ### CAPITULO VI. DE LA FIANZA LEGAL O JUDICIAL
 
 ###### Art. 2631.
 
-La aparcería rural comprende la aparcería agrícola y la de ganados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2632.
 
-La aparcería agrícola se regirá por las disposiciones de la ley relativa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2633.
 
-El contrato de aparcería de ganados deberá otorgarse por escrito, firmándose dos ejemplares, uno para cada contratante.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2634.
 
-Tiene lugar la aparcería de ganados cuando una persona da a otra cierto número de animales a fin de que los cuide y alimente, con el objeto de repartirse los frutos en la proporción que convenga.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2635.
 
-Constituyen el objeto de esta aparcería las crías de los animales y sus productos, como pieles, crines, lanas, leche, etc.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2636.
 
-Las condiciones de este contrato se regularán por la voluntad de los interesados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2637.
 
-A falta de convenio se observará la costumbre general del lugar, salvo las siguientes disposiciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2638.
 
-El aparcero de ganados está obligado a emplear en la guarda y tratamiento de los animales, el cuidado que ordinariamente emplea en sus cosas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2639.
 
-Si el aparcero de ganados no cumpliere con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2640.
 
-El propietario está obligado a garantizar a su aparcero la posesión y el uso del ganado y a substituir por otros en caso de evicción, los animales perdidos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2641.
 
-En caso de que el propietario no cumpla con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios a que diere lugar por la falta de cumplimiento del contrato.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2642.
 
-Si los animales perecieren por caso fortuito, la pérdida será de cuenta del propietario.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2643.
 
-El provecho que pueda sacarse de los despojos de los animales muertos pertenecen al propietario y será responsable de él el mediero.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2644.
 
-Será nulo el convenio de que todas las pérdidas que resulten por caso fortuito sean de cuenta del aparcero de ganados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2645.
 
-El aparcero de ganados no podrá disponer de ninguna cabeza ni de las crías, sin consentimiento del propietario, ni éste sin el de aquél.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2646.
 
-El aparcero de ganados no podrá hacer el esquileo sin dar aviso al propietario.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2647.
 
-En caso de que el aparcero no de el aviso a que se refiere el artículo anterior, el mismo aparcero tendrá obligación de indicar al propietario la cantidad de frutos que, de acuerdo con el contrato, fijen peritos nombrados uno por cada parte contratante.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2648.
 
-Los honorarios a que se refiere el artículo anterior serán cubiertos por el aparcero.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2649.
 
-La aparcería de ganados dura el tiempo convenido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2650.
 
-A falta de convenio, el contrato durará el tiempo que fuere costumbre en el lugar.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2651.
 
-El propietario cuyo ganado se enajena indebidamente por el aparcero tiene derecho para reivindicarlo menos cuando se hubiere rematado en pública subasta.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2652.
 
-Esta reivindicación no tendrá lugar cuando se enajene en pública subasta.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2653.
 
-En el caso del artículo anterior, el propietario conservará a salvo el que le corresponda contra el aparcero, para cobrarle los daños y perjuicios ocasionados por la falta de aviso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2654.
 
-Si el propietario no exige su parte dentro de los sesenta días después de fenecido el tiempo del contrato, se entenderá prorrogado éste por un año.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2655.
 
-En el caso de venta de los animales, antes de que termine el contrato de aparcería, disfrutarán los contratantes del derecho del tanto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
 
 ## TITULO DECIMO-SEGUNDO. DE LOS CONTRATOS ALEATORIOS
 
@@ -14379,7 +14383,7 @@ Transcurridos tres años sin que se comunique al registrador la calificación qu
 
 ###### Art. 2907.
 
-Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
+Todo inscripción que se haga en el Registro expresará las circunstancias siguientes:
 
 I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, o la referencia al registro anterior en donde consten esos datos; así mismo, constará la mención de haberse agregado el plano o croquis al legago (sic) respectivo;
 
@@ -14614,3 +14618,15 @@ LIC. PABLO QUIROGA.
 El Secretario General de Gobierno,
 
 LIC. ANGEL SANTOS CERVANTES.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+
+P.O. 4 DE DICIEMBRE DE 1940.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+Se abroga la Ley de Aparcería expedida con fecha 4 de octubre de 1933 y reformada con fecha 30 de diciembre de 1936 y el capítulo 7º del Título XI del libro 3º. del Código Civil actualmente en vigor, en lo que se refiere a la Aparcería Rural Agrícola.
