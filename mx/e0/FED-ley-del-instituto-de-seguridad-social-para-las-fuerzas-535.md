@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-social-para-las-fuerzas-535"
 country: "mx"
 rank: "ley"
 publication_date: "1976-06-29"
-last_updated: "1976-06-29"
+last_updated: "1978-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=535&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1978.
 
 Ley publicada en el Diario Oficial de la Federación el martes 29 de junio de 1976.
 
@@ -104,11 +104,11 @@ I. La Junta Directiva; y
 
 II. El Director General.
 
-> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
 ###### ARTICULO 5o.
 
-La Junta Directiva se compondrá de nueve miembros, designados por las Secretarías de la Defensa Nacional, Marina y Hacienda y Crédito Público, en proporción de tres por cada una de ellas.
+La Junta Directiva se compondrá de nueve miembros, tres designados por la Secretaría de la Defensa Nacional, tres por la de Marina, dos por la de Programación y Presupuesto y uno por la de Hacienda y Crédito Público.
 
 El Ejecutivo Federal designará un Presidente dentro de los miembros señalados por la Secretaría de la Defensa Nacional, y un Vicepresidente dentro de los designados por la de Marina.
 
@@ -128,9 +128,11 @@ Los demás funcionarios y empleados serán designados por la Junta Directiva, a 
 
 Serán considerados trabajadores de confianza los que desempeñen funciones similares a las señaladas para los del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, mencionadas en la fracción V, Inciso a) del artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 8o.
 
-La Junta Directiva del Instituto tendrá las atribuciones que le señala esta Ley, y actuará válidamente con la concurrencia de seis de sus miembros, dos de cada una de las Secretarías representadas.
+La Junta Directiva del Instituto tendrá las atribuciones que le señala esta Ley, y actuará válidamente con la concurrencia de seis de sus miembros.
 
 Sus resoluciones se tomarán por mayoría de votos de los miembros presentes.
 
@@ -214,19 +216,23 @@ El Director General tendrá todas las facultades que corresponden a los mandatar
 
 El Director General podrá otorgar y revocar poderes generales o especiales, pero cuando sean en favor de personas ajenas al Instituto, deberá recabar el acuerdo de la Junta Directiva.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 13.
 
-Los planes y programas de inversión, los presupuestos anuales de ingresos y egresos y las modificaciones a los mismos, deberá enviarlos el Instituto a las Secretarías de la Presidencia y de Hacienda y Crédito Público, para los efectos de ley.
+El Instituto enviará para los efectos de Ley, a la Secretaría de Programación y Presupuesto, los planes y programas de inversión, los presupuestos de ingresos y egresos y las modificaciones a los mismos.
 
 ###### ARTICULO 14.
 
 Las remuneraciones de los miembros de la Junta Directiva, del Director General, de los Subdirectores y de los demás funcionarios y empleados del organismo, serán fijados en su presupuesto anual de egresos.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 15.
 
-El Subdirector General, además de suplir al Director General en sus ausencias temporales y de desempeñar las funciones propias o en las cuales le delegue facultades, autorizará certificaciones que haya de expedir el Instituto; fungirá además como Secretario de la Junta Directiva.
+El Subdirector General, además de suplir al Director General en sus ausencias temporales y de desempeñar las funciones propias o en las cuales le delegue facultades, autorizará las certificaciones que haya de expedir el Instituto y fungirá además como Secretario de la Junta Directiva.
 
-Los programas anuales de operación los presentará a la Secretaría del Patrimonio Nacional.
+Presentará a la Secretaría de la Defensa Nacional y en su caso, a la de Programación y Presupuesto los programas anuales de operación.
 
 ## TITULO SEGUNDO
 
@@ -314,15 +320,19 @@ Pensión es la prestación económica vitalicia a que tienen derechos los famili
 
 Compensación es la prestación económica a que tienen derecho los militares retirados, en una sola erogación, cada vez que el militar sea puesto en situación de retiro, en los casos y condiciones que fija esta ley.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 20.
 
 Tienen derecho a las prestaciones que establece el presente capítulo, únicamente en los casos y condiciones que se especifican:
 
 I. Los militares que encontrándose en situación de activo, pasen a la de retiro por órdenes expresas de las Secretarías de la Defensa Nacional o de Marina;
 
-II. Los familiares de los militares que fallezcan en activo o estando en situación de retiro, siempre que en este último caso se les haya concedido haber de retiro, o no hayan cobrado la compensación acordada; y
+II. Los familiares de los militares que fallezcan en activo o estando en situación de retiro, siempre que en este último caso se les haya concedido haber de retiro, o no hayan cobrado la compensación acordada;
 
-III. Los ejidatarios miembros de los Cuerpos de Defensas Rurales, que se inutilicen en actos del servicio o a consecuencia de ellos, y los familiares de los que mueren en las mismas circunstancias. Fuera de estos casos, los ejidatarios sólo tendrán derecho a las retribuciones, prestaciones o estímulos que se establezcan en los términos del artículo 93 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
+III. Los miembros de los Cuerpos de Defensas Rurales inutilizados en actos del servicio o a consecuencia de ellos y los familiares de los que mueran en las mismas circunstancias. Fuera de estos casos los miembros de los Cuerpos de Defensas Rurales sólo tendrán derecho a las retribuciones, prestaciones o estímulos que se establezcan en los términos del artículo 93 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y
+
+IV. Los Soldados y Cabos que no sean reenganchados y pasen a la reserva.
 
 ###### ARTICULO 21.
 
@@ -342,7 +352,9 @@ III. Quedar inutilizado en otros actos del servicio o como consecuencia de ellos
 
 IV. Quedar inutilizado en actos fuera del servicio;
 
-V. Estar imposibilitado para el desempeño de las obligaciones militares por enfermedad que dure más de seis meses; y
+(REFORMADA, D.O.F. 12 DE MAYO DE 1978) (F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)
+
+V. Estar imposibilitados para el desempeño de las obligaciones militares, por enfermedad que dure más de seis meses, pudiendo el Secretario de la Defensa Nacional, o en su caso, el de Marina, prorrogar este lapso hasta por tres meses más, con base en el dictamen expedido por dos médicos militares en activo, en el que se establezca la posibilidad de recuperación en ese tiempo.
 
 VI. Solicitarlo después de haber prestado por lo menos veinte años de servicios efectivos o con abonos.
 
@@ -374,11 +386,13 @@ X. Para los Generales de Brigada 63
 
 XI. Para los Generales de División 65
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 24.
 
-Los militares que se incorporaron a la Revolución durante el período de 1910 a 1913, que al entrar en vigor la presente ley se encuentren en el activo y no hubieren militado en las filas de la usurpación de 1913 a 1914, podrán continuar en el mismo si así lo solicitan, e integrarán el Cuadro de Honor de las Fuerzas Armadas Mexicanas.
+Los militares que se incorporaron a la Revolución durante el período de 1910 a 1913, que al entrar en vigor la presente Ley se encuentren en el activo y no hubieren militado en las filas de la usurpación de 1913 a 1914, podrán continuar en el mismo si así lo solicitan, e integrarán el Cuadro de Honor de las Fuerzas Armadas Mexicanas.
 
-Los ingenieros, licenciados en derecho, médicos cirujanos, dentistas, contadores, veterinarios, especialistas, técnicos, mecánicos y servidumbre que presten sus servicios en el Ejército, Fuerza Aérea o Armada de México, no obstante haber llegado a la edad límite que señala el artículo anterior, podrán continuar en el activo hasta por cinco años más, cuando la Secretaría de la Defensa Nacional o de Marina lo estimen necesario.
+Los Diplomados de Estado Mayor, los que hayan obtenido un grado académico a nivel de licenciatura o superior, los especialistas, técnicos, mecánicos, y los servidores domésticos de instalaciones militares que presten sus servicios en el Ejército, Fuerza Aérea o Armada de México, no obstante haber llegado a la edad límite que señala el artículo anterior, podrán continuar en el activo hasta por cinco años más, cuando las Secretarías de la Defensa Nacional o de Marina lo estimen necesario.
 
 Los Generales procedentes de las Armas del Ejército, Ramas de la Fuerza Aérea y Cuerpos de la Armada, también pueden ser retenidos en el activo por una sola vez, mediante acuerdo presidencial, no obstante existir alguna causa de retiro, cuando a juicio del Titular del Poder Ejecutivo sean necesarios sus servicios.
 
@@ -514,15 +528,19 @@ II.- El personal del activo de la Armada, podrá ser cambiado de un cuerpo a un 
 
 Cuando se trate de padecimientos señalados en la tercera categoría y la Secretaría correspondiente opte por retirar del activo al militar, el cálculo de su beneficio se hará con base en lo dispuesto para los de segunda categoría de inutilización.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 34.
 
-Tienen derecho a compensación los militares que tengan más de cinco años de servicios sin llegar a 20, que se encuentren comprendidos en los siguientes casos:
+Tienen derecho a compensación los militares que tengan cinco o más años de servicio, sin llegar a veinte, que se encuentren comprendidos en los siguientes casos.
 
-I.- Haber llegado a la edad límite que fija el artículo 23 de esta ley;
+I. Haber llegado a la edad límite que fija el artículo 23 de esta Ley;
 
-II.- Haberse inutilizado en actos fuera de servicio;
+II. Haberse inutilizado en actos fuera de servicio;
 
-III.- Estar imposibilitado para el desempeño de las obligaciones militares a causa de enfermedad que dure más de seis meses.
+III. Estar en el caso previsto por la fracción V del artículo 22 de esta Ley.
+
+IV. Haber causado baja en el activo y alta en la reserva, los Soldados y Cabos, que no hayan sido reenganchados.
 
 ###### ARTICULO 35.
 
@@ -644,9 +662,11 @@ Los requisitos exigidos por esta ley a los familiares de un militar para tener d
 
 Los hijos adoptivos sólo tendrán derecho a los beneficios que establece esta ley, cuando la adopción se haya hecho por el militar antes de haber cumplido 45 años de edad.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 47.
 
-El derecho para percibir haber de retiro o compensación se origina por la resolución definitiva dictada por el Instituto y aprobada por la Secretaría de Hacienda y Crédito Público. El haber de retiro se cubrirá a partir de la fecha de alta en situación de retiro.
+El derecho para recibir haber de retiro o compensación se origina por la resolución definitiva dictada por el Instituto y aprobada por la Secretaría de Programación y Presupuesto. El haber de retiro se cubrirá a partir de la fecha de alta en situación de retiro.
 
 ###### ARTICULO 48.
 
@@ -696,85 +716,111 @@ La renuncia de derechos para percibir beneficios económicos, nunca será en per
 
 El término a que se refiere la fracción VII del artículo 51, no corre para los menores o incapacitados.
 
-Pagas de Defunción
+PAGAS DE DEFUNCION
 
-> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1976)</small>
+(REFORMADO, D.O.F. 12 DE MAYO DE 1978)(F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)
 
 ###### ARTICULO 54.
 
-Al fallecimiento de un militar, sus deudos tendrán derecho a que se les cubra, por concepto de Pagas de Defunción, el equivalente a cuatro meses de haberes, Asignaciones y gastos de representación, si el militar los percibe en el momento del deceso, o haberes de retiro, para atender los gastos de sepelio. Si fuere Veterano de la Revolución reconocido por la Secretaría de la Defensa Nacional, sus deudos recibirán el equivalente a dos meses más de Haberes o de haberes de retiro.
+Al fallecimiento de un militar, sus deudos tendrán derecho a que se les cubra por concepto de pagas de defunción, el equivalente a cuatro meses de haberes o de haberes de retiro, más cuatro meses de gastos de representación y asignaciones que estuviere percibiendo en la fecha del deceso para atender los gastos de sepelio. Si fuere veterano de la Revolución reconocido por la Secretaría de la Defensa Nacional, sus deudos recibirán el importe de dos meses más de esos haberes o haberes de retiro.
+
+Esta prestación será cubierta por la oficina pagadora dependiente de la Tesorería de la Federación, donde se cubran los haberes o haberes de retiro y demás emolumentos del militar de que se trate, en los términos que señala el artículo 228 de esta Ley, debiendo darse aviso de inmediato al Instituto.
 
 ###### ARTICULO 55.
 
 Cuando no hubiere constancia de afiliación de familiares, o los deudos del militar fallecidos, no acudieren a atender la inhumación, la autoridad militar correspondiente tendrá la obligación de encargarse del sepelio. Los gastos originados por el mismo se reintegrarán de acuerdo con su comprobación y nunca podrán ser mayores de la cantidad equivalente señalada en el artículo anterior.
 
-Ayuda para Gastos de Sepelio
+AYUDA PARA GASTOS DE SEPELIO
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
 ###### ARTICULO 56.
 
-Los Generales, Jefes y Oficiales tendrán derecho a que se les otorgue el equivalente a quince días de haberes o haberes de retiro, como ayuda para los gastos del sepelio en caso de defunción del cónyuge, del padre, de la madre o de algún hijo. El personal de tropa, en los mismos casos, tendrá derecho a que se le otorgue el equivalente a treinta días de haberes o haberes de retiro para igual fin.
+Los Generales, Jefes y Oficiales tendrán derecho a que se les otorgue el equivalente a quince días de haberes o haberes de retiro más gastos de representación y asignaciones que estuvieren percibiendo, como ayuda para los gastos de sepelio en caso de defunción del cónyuge, del padre, de la madre o de algún hijo. El personal de tropa, en los mismos casos, tendrá derecho a que se le otorgue el equivalente a treinta días de haberes o haberes de retiro para igual fin, sumadas las asignaciones que estuviere percibiendo.
+
+> <small>(F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)</small>
+
+En el caso de padres que tengan varios hijos militares, la ayuda para gastos de sepelio se le cubrirá al hijo que los haya efectuado.
+
+Esta prestación será cubierta por la oficina pagadora dependiente de la Tesorería de la Federación donde se cubran los haberes o haberes de retiro y demás emolumentos del militar de que se trate, en los términos que señala el artículo 228 de esta Ley, debiendo darse aviso de inmediato al Instituto.
 
 ### CAPITULO TERCERO. Fondo de Trabajo, Fondo de Ahorro y Seguro de Vida Militar
 
+(REFORMADO, D.O.F. 12 DE MAYO DE 1978)(F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)
+
 ###### ARTICULO 57.
 
-El Fondo de Trabajo estará constituido con las aportaciones que el Gobierno Federal realice a favor de cada elemento de tropa a partir de la fecha en que cause alta o sea reenganchado, hasta que quede separado del activo, o ascienda a oficial, más un interés del 4.5% anual acumulable anualmente, con cargo a los resultados de operación del propio fondo.
+El fondo de trabajo estará constituido con las aportaciones que el Gobierno Federal realice a favor de cada elemento de tropa a partir de la fecha en que cause alta o sea reenganchado hasta que obtenga licencia ilimitada, o bien quede separado del activo o ascienda a oficial, más un interés del 4.5 % anual a favor de sus titulares, acumulable anualmente, con cargo a los resultados de operación del propio fondo.
 
 ###### ARTICULO 58.
 
 La aportación que el Gobierno realice en los términos del artículo anterior, será equivalente al 10% de los haberes anuales del personal de tropa.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 59.
 
-Podrán disponer de su Fondo de Trabajo:
+Podrán disponer de su fondo de trabajo:
 
-I.- Los elementos de tropa, en la fecha en que asciendan a oficial o queden separados del activo; y
+I. Los elementos de tropa que queden separados del activo, obtengan jerarquía de oficiales, o que se les haya concedido licencia ilimitada;
 
-II.- Las personas que los elementos de tropa hayan designado como beneficiarios a su fallecimiento, y a falta de designación, sus familiares de acuerdo con la siguiente prelación:
+II. Las personas que los elementos de tropa hayan designado como beneficiarios a su fallecimiento y a falta de designación, sus familiares de acuerdo con la siguiente prelación:
 
-1.- El cónyuge o en su defecto, la persona con quien haya hecho vida marital los cinco años inmediatos anteriores a su muerte;
+> <small>(F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)</small>
 
-2.- Los hijos, a partes iguales;
+1. El cónyuge o en su defecto, la persona con quien haya hecho vida marital los cinco años inmediatos anteriores a su muerte, en concurrencia con los hijos del militar, a partes iguales;
 
-3.- La madre;
+2. La madre;
 
-4.- El padre;
+3. El padre;
 
-5.- Todos aquellos que mediante resolución judicial acrediten su derecho.
+4. Todos aquellos que mediante resolución judicial acrediten sus derechos.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
 ###### ARTICULO 60.
 
-Con cargo a las utilidades del Fondo de Trabajo, se cubrirá el 25% de las cuotas del Seguro de Vida obligatorio correspondiente al personal de tropa.
+Con cargo a las utilidades del fondo de trabajo, el Banco Nacional del Ejército y la Armada, S. A. de C. V., cubrirá mensualmente al Instituto el 25% de las cuotas del seguro de vida obligatorio correspondiente al personal de tropa.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
 ###### ARTICULO 61.
 
-Las aportaciones que realice el Gobierno Federal, destinadas al Fondo de Trabajo, serán administradas por el Instituto, para cuyo efecto la Secretaría de Hacienda y Crédito Público le hará las ministraciones correspondientes en los términos y condiciones que la misma Secretaría fije.
+Las aportaciones que realice el Gobierno Federal destinadas al fondo de trabajo, serán administradas por el Banco Nacional del Ejército y la Armada, S. A. de C. V., para cuyo efecto se le harán las ministraciones correspondientes con la intervención que corresponda a la Secretaría de Programación y Presupuesto.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
 ###### ARTICULO 62.
 
-Las Secretarías de la Defensa Nacional y de Marina, proporcionarán al Instituto los datos para la formación del registro necesario para la administración del fondo y deberán comunicarle oportunamente las altas y bajas del personal de tropa.
+Las Secretarías de la Defensa Nacional y de Marina, proporcionarán al Banco Nacional del Ejército y la Armada, S. A. de C. V., los datos para la formación del registro necesario para la administración del fondo y deberán comunicarle oportunamente las altas y bajas del personal de tropa.
 
 ###### ARTICULO 63.
 
 El Fondo de Trabajo es inembargable e intransferible y el derecho a reclamarlo no prescribirá.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 64.
 
-El Instituto podrá deducir del Fondo de Trabajo los adeudos exigibles a cargo del militar que sean consecuencia de las operaciones previstas en esta ley, debiendo cumplir previamente con los requisitos que establezcan las disposiciones reglamentarias.
+El Banco Nacional del Ejército y la Armada, S. A. de C. V., podrá deducir del fondo de trabajo los adeudos exigibles a cargo del militar que sean consecuencia de las operaciones previstas en esta Ley, debiendo cumplir previamente con los requisitos que establezcan las disposiciones reglamentarias.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
 ###### ARTICULO 65.
 
-El Instituto administrará los recursos afectos al Fondo de Trabajo, sujetándose a las reglas que fije la Secretaría de Hacienda y Crédito Público.
+El Banco Nacional del Ejército y la Armada, S. A. de C. V., administrará los recursos afectos al fondo de trabajo, sujetándose a las reglas que fije la Secretaría de Hacienda y Crédito Público.
+
+(REFORMADO, D.O.F. 12 DE MAYO DE 1978) (F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)
 
 ###### ARTICULO 66.
 
-Los recursos del Fondo de Trabajo se invertirán en la forma que determine la Secretaría de Hacienda y Crédito Público.
+Los recursos del fondo de trabajo, serán utilizados por el Banco Nacional del Ejército y la Armada, S. A. de C. V., en otorgar préstamos hipotecarios y a corto plazo con los requisitos y características que se precisan en los artículos 127, 134 y demás relativos, de esta Ley.
 
 ###### ARTICULO 67.
 
 Cuando el individuo de tropa se encuentre substraído a la acción de la justicia, no podrá disponer del Fondo del Trabajo.
 
-Fondo de Ahorro
+FONDO DE AHORRO
 
 ###### ARTICULO 68.
 
@@ -782,25 +828,35 @@ Para constituir un Fondo de Ahorro, los generales, jefes y oficiales en servicio
 
 Los recursos afectos al Fondo de Ahorro devengarán intereses del 4.5% anual a favor de sus titulares, acumulables anualmente.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 69.
 
-Los titulares tendrán derecho a disponer totalmente de su Fondo de Ahorro, en el momento en que queden separados del activo y hasta por el importe de la suma de sus descuentos, cada seis años, contados a partir de la fecha de su primera aportación a dicho Fondo. Los recursos del Fondo de Ahorro se invertirán en la forma que determine la Secretaría de Hacienda y Crédito Público.
+Los titulares tendrán derecho a disponer totalmente de su fondo de ahorro, en el momento en que obtengan licencia ilimitada o queden separados del activo.
 
-Podrán disponer del fondo, las personas que los titulares hayan designado como beneficiarios a su fallecimiento o en su defecto, sus familiares de acuerdo con la prelación señalada en el artículo 59.
+> <small>(F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)</small>
+
+Quienes continúen en el activo, tendrán derecho a disponer del importe de la suma de sus descuentos cada seis años, contados a partir de la fecha de su primera aportación a dicho fondo.
+
+Podrán disponer del fondo, las personas que los titulares hayan designado como beneficiarios cuando ocurra su fallecimiento, o en su defecto, sus familiares, de acuerdo con la prelación señalada en el artículo 59 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
 ###### ARTICULO 70.
 
-Los recursos que constituyen el Fondo de Ahorro serán administrados por el Instituto.
+Los recursos que constituyen el fondo de ahorro, serán administrados por el Banco Nacional del Ejército y la Armada, S. A. de C. V.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
 ###### ARTICULO 71.
 
-Los recursos del Fondo de Ahorro provenientes de los descuentos, se destinarán a financiar al Banco Nacional del Ejército y la Armada, S. A. de C. V., para otorgar créditos hipotecarios y préstamos a corto plazo, en los términos de esta ley, y la parte correspondiente a las aportaciones del Estado se invertirán en la forma que determine la Secretaría de Hacienda y Crédito Público.
+El fondo de ahorro será utilizado por el Banco Nacional del Ejército y la Armada, S. A. de C. V., para otorgar créditos hipotecarios y a corto plazo con los requisitos y características que se precisan en los artículos 127, 134 y demás relativos de esta Ley. Las cantidades no utilizadas serán invertidas en la forma que determine la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 72.
 
 Las disposiciones sobre el Fondo de Trabajo mencionadas en los artículos 62, 63, 64, 65, 66 y 67 se aplicarán también al Fondo de Ahorro.
 
-Seguro de Vida Militar
+SEGURO DE VIDA MILITAR
 
 ###### ARTICULO 73.
 
@@ -828,9 +884,11 @@ Los militares que hubieren recibido compensación o que disfruten de licencia si
 
 Los mismos militares podrán en cualquier tiempo, cuando así lo deseen, dejar de participar en el Seguro notificándolo por escrito al Instituto. En este caso, el Seguro se extingue al concluir el periodo por el cual fue pagada la cuota o prima. Estos militares no podrán acogerse nuevamente al Seguro potestativo. También el Seguro se extingue cuando dejaren de pagar en cualquier tiempo cuatro cuotas quincenales consecutivas, por causas imputables al interesado.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 77.
 
-El importe del Seguro será de: $30,000.00 para la tropa; $40,000.00 para los oficiales y jefes y $50,000.00 para los Generales. Cada seis años se hará una revisión tanto de la suma asegurada como de las primas del Seguro, y en caso de que proceda modificarlas, se requerirá la aprobación de la Secretaría de Hacienda y Crédito Público.
+El importe del Seguro será de $50,000.00 para la tropa y $100,000.00 para los Generales, Jefes y Oficiales. Cada seis años se hará una revisión tanto de la suma asegurada como de las primas del Seguro. Y en caso de que proceda modificarlas se requerirá la aprobación de las Secretarías de Programación y Presupuesto y de Hacienda y Crédito Público.
 
 ###### ARTICULO 78.
 
@@ -1124,9 +1182,11 @@ Los derechos de los miembros de las Fuerzas Armadas titulares de depósitos cons
 
 El Instituto no podrá intervenir en la administración, operación o mantenimiento de conjuntos habitacionales construidos con recursos del fondo, ni sufragar los gastos correspondientes a esos conceptos.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 117.
 
-El Instituto deberá mantener en efectivo o en depósitos bancarios a la vista, las cantidades estrictamente necesarias para la realización de sus operaciones diarias, relacionadas con el fondo de la vivienda. Los recursos del fondo, en tanto se aplican a los fines señalados en el artículo anterior, deberán mantenerse en el Banco de México, S. A., invertidos en valores gubernamentales de inmediata realización.
+El Instituto deberá mantener en el Banco Nacional del Ejército y la Armada, S. A. de C. V., en depósito a la vista, las cantidades estrictamente necesarias para la realización de sus operaciones diarias, relacionadas con el fondo de la vivienda. Los demás recursos del fondo, en tanto se aplican a cumplir sus fines y objetivos, deberán mantenerse en el Banco de México, S. A., invertidos en valores gubernamentales de inmediata realización.
 
 ###### ARTICULO 118.
 
@@ -1138,15 +1198,15 @@ En caso de adjudicación o de recepción en pago de bienes inmuebles, el Institu
 
 El Instituto cuidará que sus actividades en la administración del fondo de la vivienda para los militares se realicen dentro de una política integrada de vivienda y desarrollo urbano. Para ello podrá coordinarse con otros organismos del sector público.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 120.
 
-Con el fin de que los recursos del fondo se inviertan de conformidad con lo que dispone la presente ley, el Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público y la Comisión Nacional Bancaria y de Seguros, tendrá las siguientes facultades:
+Con el fin de que los recursos del fondo se inviertan de conformidad con lo que dispone la presente Ley, el Gobierno Federal, tendrá las siguientes facultades:
 
-> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1976)</small>
+I. La Secretaría de Programación y Presupuesto, vigilará que los programas financieros anuales con recursos del fondo no excedan a los presupuestos de ingresos corrientes y de los financiamientos que reciba el Instituto. Dichos financiamientos deberán ser aprobados por la Secretaría de Hacienda y Crédito Público; y
 
-I.- La Secretaría de Hacienda y Crédito Público vigilará que los programas financieros anuales con recursos del fondo no excedan a los presupuestos de ingresos corrientes y de los financiamientos que reciba el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas. Dichos financiamientos deberán ser aprobados previamente por esta Secretaría; y
-
-II. La Comisión Nacional Bancaria y de Seguros aprobará los sistemas de organización de la contabilidad y de auditoría interna del fondo y tendrá acceso a dicha contabilidad, pudiendo verificar los asientos y operaciones contables correspondientes. La propia Comisión vigilará que las operaciones del fondo se ajusten a las normas establecidas y a las sanas prácticas, informando al Instituto y a la Secretaría de Hacienda y Crédito Público de las irregularidades que pudiera encontrar, para que se corrijan.
+II. La Comisión Nacional Bancaria y de Seguros aprobará los sistemas de organización de la contabilidad y de auditoría interna del fondo y tendrá acceso a dicha contabilidad, pudiendo verificar los asientos y operaciones contables correspondientes. La propia Comisión, vigilará que las operaciones del fondo se ajusten a las normas establecidas y a las sanas prácticas, informando al Instituto y a la Secretaría de Hacienda y Crédito Público de las irregularidades que pudiera encontrar, para que se corrijan.
 
 En virtud de lo anterior, no son aplicables al fondo de la vivienda las disposiciones de la Ley para el control por parte del Gobierno Federal, de los Organismos Descentralizados y Empresas de Participación Estatal.
 
@@ -1632,21 +1692,21 @@ Tratándose de coroneles y generales de la milicia permanente, será necesaria l
 
 ### CAPITULO SEGUNDO. Procedimiento
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 186.
 
-Las Secretarías de la Defensa Nacional y de Marina, deberán remitir al Instituto, en enero de cada año, una relación del personal en servicio activo.
+Las Secretarías de la Defensa Nacional y Marina, informarán al Instituto y al Banco Nacional del Ejército y la Armada, S. A. de C. V., en un término no mayor de 15 días, contados a partir de la fecha en que se generen, de las situaciones siguientes:
 
-Asimismo, pondrán en conocimiento del Instituto dentro de los quince días siguientes a su fecha:
+I. Las altas y bajas del personal en las Fuerzas Armadas.
 
-I. Las altas y bajas del personal en las fuerzas armadas;
+II. Las licencias ilimitadas que se concedan.
 
-II. Las licencias ilimitadas o absolutas que se concedan;
+III. Los nombres y las jerarquías de los militares que hayan cumplido la edad límite.
 
-III. Los nombres de los militares que hayan cumplido la edad límite; y
+IV. Los nombres de los familiares que los militares señalen para disfrutar de los beneficios que la presente Ley concede; esto último, también dentro de los quince días siguientes a la fecha en que el militar cause alta, o en el mismo plazo, cuando cambie sus beneficiarios.
 
-IV. Los nombres de los familiares que los militares señalen para disfrutar de los beneficios que la presente ley concede; esto último dentro de los quince días siguientes a la fecha en que el militar cause alta; o en el mismo plazo cuando cambie sus beneficiarios.
-
-Las mismas Secretarías y los militares proporcionarán al Instituto los datos que les solicite, en relación con las funciones que le señale esta ley.
+Las mismas Secretarías y los militares proporcionarán al Instituto y al Banco, los datos que soliciten en relación con las funciones que les señala esta Ley.
 
 ###### ARTICULO 187.
 
@@ -1728,15 +1788,19 @@ Estas declaraciones se notificarán al militar, dándosele a conocer, en su caso
 
 Si lo estimare pertinente, en el mismo escrito de inconformidad ofrecerá pruebas, las cuales se le recibirán en un plazo de quince días siguientes a la terminación del plazo anterior.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 198.
 
-Si la Secretaría estimare la procedencia del retiro, pero el Presidente de la República o la propia Secretaría consideraren necesarios los servicios del militar conforme a lo establecido en esta ley, podrán ejercitar su derecho de retención en el activo, girando las órdenes conducentes. Este derecho de retención podrá ser ejercitado en tanto no se giren las órdenes de baja en el activo y alta en situación de retiro.
+Si la Secretaría respectiva, estimare la procedencia del retiro, pero el Presidente de la República o la propia Secretaría consideraren necesarios los servicios del militar conforme a lo establecido en esta Ley, podrán ejercitar su derecho de retención en el activo, girando las órdenes conducentes. Este derecho de retención podrá ser ejercitado en tanto no se giren las órdenes de baja en el activo y alta en situación de retiro.
 
-Declarada la retención, se interrumpirá el trámite de retiro, dándose aviso al Instituto y a la Secretaría de Hacienda y Crédito Público para que den por concluidos los trámites que se hubieren realizado y, en su caso, dejen sin efecto las resoluciones de otorgamiento de beneficio y su aprobación.
+Declarada la retención, se interrumpirá el trámite de retiro, dándose aviso al Instituto y a la Secretaría de Programación y Presupuesto para que den por concluidos los trámites que se hubieren realizado y, en su caso, dejen sin efecto las resoluciones de otorgamiento de beneficio y su aprobación.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
 ###### ARTICULO 199.
 
-En caso de retiro voluntario, el militar podrá desistirse de su solicitud desde la declaración de procedencia de retiro que formule la Secretaría respectiva, hasta antes de que le sea comunicada la aprobación del beneficio de retiro por parte de la Secretaría de Hacienda y Crédito Público. El desistimiento sólo será denegado si aparece comprobada alguna causa de retiro forzoso.
+En caso de retiro voluntario, el militar podrá desistirse de su solicitud desde la declaración de procedencia de retiro que formule la Secretaría respectiva, hasta antes de que le sea comunicada la aprobación del beneficio de retiro. El desistimiento sólo será denegado si aparece comprobada alguna causa de retiro forzoso.
 
 ###### ARTICULO 200.
 
@@ -1760,9 +1824,11 @@ En los casos en que los militares y los familiares de éstos hubieren formulado 
 
 Si los militares o los familiares manifestaren su conformidad a las declaraciones provisionales o dejaren transcurrir el primer plazo señalado en el artículo 197 de esta ley, lo que se considerará como una aceptación tácita, se tendrá como definitiva dicha declaración.
 
+(REFORMADO, D.O.F. 12 DE MAYO DE 1978)(F. DE E., D.O.F. 22 DE SEPTIEMBRE DE 1978)
+
 ###### ARTICULO 203.
 
-Cuando en las declaraciones de las Secretarías se reconociere la procedencia del retiro del militar interesado, o se tuviere por probada la personalidad militar de la persona de que hacen derivar sus derechos los peticionarios, y el hecho de que su muerte haya ocurrido en el activo o en situación de retiro, se remitirá el incidente de retiro y el expediente militar al Instituto. En los casos en que la declaración fuere adversa, sólo se notificará ésta a los interesados, dando aviso al Instituto y a la Secretaría de Hacienda y Crédito Público.
+Cuando en las declaraciones de las Secretarías se reconociere la procedencia del retiro del militar interesado, o se tuviere por probada la personalidad militar de la persona de que hacen derivar sus derechos los peticionarios, y el hecho de que su muerte haya ocurrido en el activo o en situación de retiro, se remitirá el incidente de retiro y el expediente militar al Instituto. En los casos en que la declaración fuere adversa, se notificará ésta a los interesados, dando aviso al Instituto y a la Secretaría de Programación y Presupuesto.
 
 ###### ARTICULO 204.
 
@@ -1784,17 +1850,21 @@ Si dentro del primer plazo manifiestan su conformidad o dejaren que transcurra e
 
 Si los interesados interpusieren el recurso de reconsideración, se tramitará éste, y la Junta del Instituto dictará resolución definitiva, en que se ratificará, modificará o revocará la anterior, refiriéndose solamente a las cuestiones planteadas en el recurso y valorando las pruebas aportadas en el mismo o las ya existentes que hubieren sido impugnadas por los recurrentes.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 207.
 
-Agotado el procedimiento a que se refieren los artículos precedentes, el Instituto remitirá de oficio a la Secretaría de Hacienda y Crédito Público, para el efecto de su sanción, los acuerdos de la Junta Directiva que concedan, nieguen, modifiquen, suspendan o declaren insubsistentes los haberes de retiro, las pensiones o compensaciones de conformidad con la presente Ley.
+Agotado el procedimiento a que se refieren los artículos precedentes, para el efecto de su sanción y a fin de que puedan ser ejecutados, el Instituto remitirá de oficio a la Secretaría de Programación y Presupuesto, los acuerdos de la Junta Directiva que concedan, nieguen, modifiquen, suspendan o declaren insubsistentes los haberes de retiro, las pensiones o las compensaciones.
 
-Para que los acuerdos mencionados puedan ser ejecutados, es indispensable que la Secretaría de Hacienda y Crédito Público los sancione.
+Para que los acuerdos mencionados puedan ser ejecutados, es indispensable que la Secretaría de Programación y Presupuesto los sancione.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
 
 ###### ARTICULO 208.
 
-La aprobación o denegación será comunicada de inmediato al Instituto por la Secretaría de Hacienda y Crédito Público.
+La aprobación o denegación será comunicada de inmediato al Instituto por la Secretaría de Programación y Presupuesto.
 
-El Instituto notificará a la Secretaría de la Defensa Nacional o de Marina, en su caso, así como al militar o a los familiares del militar, tanto la resolución definitiva de su Junta Directiva, como la aprobación o negativa de la Secretaría de Hacienda y Crédito Público, devolviendo a la Secretaría de origen la documentación enviada.
+El Instituto notificará a la Secretaría de la Defensa Nacional o a la de Marina, en su caso, así como al militar o a los familiares del militar, tanto la resolución definitiva de su Junta Directiva, como la aprobación o negativa de la Secretaría de Programación y Presupuesto, devolviendo a la Secretaría de origen la documentación enviada.
 
 ###### ARTICULO 209.
 
@@ -1808,9 +1878,11 @@ Los militares con licencia ilimitada, extraordinaria o especial, y los familiare
 
 A los militares en servicio activo se les notificará personalmente o por conducto del comandante o jefe de la corporación, dependencia o fuerza a la que perteneciere, quien hará la entrega del oficio al destinatario, recabando su recibo firmado o con sus huellas digitales en caso de no saber firmar. El recibo deberá remitirse de inmediato al Instituto.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 212.
 
-Si durante la tramitación del retiro o del beneficio de retiro, el militar en servicio activo pasare a gozar de licencia ilimitada, extraordinaria o especial, no se suspenderá el procedimiento, pero sí se dará aviso inmediato al Instituto y a la Secretaría de Hacienda y Crédito Público. Se suspenderá el procedimiento cuando el militar no proporcione al Instituto su nuevo domicilio.
+Si durante la tramitación del retiro, o del beneficio de retiro, el militar en servicio activo pasare a gozar de licencia ilimitada, extraordinaria o especial, no se suspenderá el procedimiento, pero sí se dará aviso inmediatamente al Instituto y a la Secretaría de Programación y Presupuesto.
 
 Los cambios de destino dentro del servicio activo serán comunicados al Instituto por la Secretaría que corresponda.
 
@@ -1868,11 +1940,13 @@ Es compatible la percepción de un haber de retiro o de una pensión militar, co
 
 Al infractor de la disposición contenida en el presente artículo le será cancelado el pago del o de los beneficios concedidos con posterioridad, objeto de la infracción, debiendo reintegrar por cuartas partes de las percepciones periódicas que subsistan, la cantidad que hubiere recibido indebidamente.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 221.
 
-Los derechos económicos fijados en esta ley, sólo se modificarán o declararán insubsistentes por la Junta Directiva del Instituto en los casos y con los requisitos expresamente señalados en el propio ordenamiento, o por sentencia ejecutoriada.
+Los derechos fijados en esta Ley, sólo se modificarán o declararán insubsistentes por la Junta Directiva del Instituto en los casos y con los requisitos expresamente señalados en el propio ordenamiento o por sentencia ejecutoriada.
 
-Las anteriores resoluciones, junto con toda la documentación del caso, serán remitidas, de oficio, a la Secretaría de Hacienda y Crédito Público, para los efectos de su aprobación y ejecución correspondiente.
+Las anteriores resoluciones, junto con toda la documentación del caso, serán remitidas, de oficio a la Secretaría de Programación y Presupuesto, para los efectos de su aprobación y ejecución correspondiente.
 
 ###### ARTICULO 222.
 
@@ -1902,9 +1976,11 @@ Los trabajadores del Instituto quedarán bajo el régimen de la Ley del Institut
 
 Las responsabilidades de los funcionarios y empleados del Instituto, se normarán por la Ley de Responsabilidades de Funcionarios y Empleados de la Federación.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 228.
 
-El Gobierno Federal aportará al Instituto las cantidades necesarias para cumplir las obligaciones que le impone esta ley, respecto de las siguientes prestaciones: Seguro de Vida, Pagas de Defunción, Fondo de Trabajo y Fondo de Ahorro, a cuyo efecto la Secretaría de Hacienda y Crédito Público cuidará que en el Presupuesto de la Federación correspondiente se incluyan las partidas respectivas.
+El Gobierno Federal aportará al Instituto y al Banco Nacional del Ejército y la Armada, S. A. de C. V., las cantidades necesarias para cumplir las obligaciones que impone esta Ley, respecto a las siguientes prestaciones: seguro de vida, pagas de defunción, ayuda para gastos de sepelio, fondo de trabajo y fondo de ahorro, a cuyo efecto la Secretaría de Programación y Presupuesto cuidará que en el Presupuesto de la Federación correspondiente se incluyan las partidas respectivas.
 
 ###### ARTICULO 229.
 
@@ -1936,15 +2012,19 @@ No obstante su plena capacidad para actuar en juicio, el Instituto no podrá des
 
 Las tablas de inutilidades anexas a la presente ley, podrán ser revisadas cada cinco años previo acuerdo del Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 235.
 
-La contabilidad del Instituto, queda sujeta a la revisión y glosa de la Secretaría de Hacienda y Crédito Público, mediante una auditoría de carácter permanente.
+La contabilidad del Instituto queda sujeta a la revisión y glosa de la Secretaría de Programación y Presupuesto, mediante una auditoría de carácter permanente.
 
 Lo anterior se entiende sin perjuicio de las demás funciones de vigilancia que establezcan otras disposiciones legales.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 236.
 
-El Banco Nacional del Ejercito y la Armada, S. A. de C. V., sin perjuicio de las funciones que tiene señaladas en su ley orgánica y estatutos constitutivos, salvo las que por esta Ley se confieren al Instituto, operará como Institución Fiduciaria y Agente Financiero del mismo. Asimismo se encargará de otorgar los préstamos hipotecarios y a corto plazo que le encomienda esta Ley y también de promover en las mejores condiciones posibles la captación del ahorro de los militares y de sus derechohabientes.
+El Instituto empleará los servicios del Banco Nacional del Ejército y la Armada, S. A. de C. V., en forma preferente como su agente financiero y como fiduciario para sus operaciones, en igualdad de circunstancias con otras instituciones de la misma índole, todo sin perjuicio de las funciones que este ordenamiento le señala. Asimismo, el Banco Nacional del Ejército y la Armada, S. A. de C. V., promoverá el ahorro entre los militares y sus familiares y les facilitará, dentro de sus autorizaciones y posibilidades, los servicios bancarios que a éstos sean útiles.
 
 ###### ARTICULO 237.
 
@@ -1952,7 +2032,7 @@ El Director General del Instituto fungirá como Presidente del Consejo de Admini
 
 ###### ARTICULO 238.
 
-Se faculta a la Secretaría de Hacienda y Crédito Público a interpretar, para efectos administrativos la presente ley en casos de lagunas u omisiones.
+(DEROGADO, D.O.F. 12 DE MAYO DE 1978)
 
 ## TRANSITORIOS
 
@@ -2891,3 +2971,19 @@ c). De la falange distal de uno o de ambos pulgares.
 51. La hipoacusia superficial.
 
 52. Otros trastornos no previstos en los anteriores que disminuyan capacidades o causen alteraciones menores del 20% y que a juicio del médico ocasionen incapacidades en relación a la actividad del sujeto.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE MAYO DE 1978.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente del de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el artículo 238 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las Secretarías de Programación y Presupuesto, de Hacienda y Crédito Público y el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, proveerán lo conducente a realizar los traspasos de los fondos correspondientes de trabajo y ahorro, al Banco Nacional del Ejército y la Armada, S. A. de C. V.
