@@ -4,7 +4,7 @@ identifier: "DUR-ley-reglamentaria-del-registro-publico-de-la-propiedad-del-5071
 country: "mx"
 rank: "ley"
 publication_date: "1952-02-24"
-last_updated: "1956-04-05"
+last_updated: "1969-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1969.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 24 y jueves 28 de febrero de 1952.
 
@@ -45,9 +45,11 @@ DISPOSICIONES GENERALES.
 
 ### CAPITULO PRIMERO. De las Oficinas del Registro, del Personal y de las Secciones
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1969)</small>
+
 ###### ARTICULO 1o.
 
-En cada Cabecera Municipal, donde hubiere Juez de Primera Instancia, exisitirá una Oficina del Registro Público que se denominará REGISTOO (SIC) PUBLICO DE LA PROPIEDAD, con una competencia igual a la jurisdicción territorial del Juzgado de que se trata.
+En cada cabecera Municipal, donde hubiere Juez de Primera Instancia, o donde el Ejecutivo del Estado lo considere necesario, cuando el buen servicio así lo requiera, existirá una Oficina del Registro Público que se denominará REGISTRO PUBLICO DE LA PROPIEDAD, con la jurisdicción territorial que el Ejecutivo señale; jurisdicción en la que dejará de tener competencia el encargado del Registro Público de la Propiedad adscrito al Juzgado de Primera Instancia del Distrito Judicial correspondiente.
 
 ###### ARTICULO 2o.
 
@@ -928,3 +930,9 @@ Lic. Enrique Torres Sánchez. El Secretario General de Gobierno. Lic. Guillermo 
 P.O. 5 DE ABRIL DE 1956.
 
 UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 1969.
+
+Artículo Primero.- En aquellas poblaciones en las que se hubiere fundado una Oficina del Registro Público de la Propiedad, por haber funcionado anteriormente un Juzgado de Primera Instancia, quedarán revalidadas sus actuaciones, previa inspección de las mismas que ordene el Ejecutivo del Estado, a partir de la fecha en que hubiese desaparecido el Juzgado de Primera Instancia correspondiente.
+
+Artículo Segundo.- El presente Decreto surtirá sus efectos 15 días después de su publicación en el Periódico Oficial del Estado.
