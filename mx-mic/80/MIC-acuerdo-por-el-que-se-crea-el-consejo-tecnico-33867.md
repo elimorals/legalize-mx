@@ -4,7 +4,7 @@ identifier: "MIC-acuerdo-por-el-que-se-crea-el-consejo-tecnico-33867"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-09-17"
-last_updated: "2003-09-17"
+last_updated: "2004-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 ACUERDO POR EL QUE SE CREA EL CONSEJO TECNICO INTERINSTITUCIONAL DE ACCESO A LA INFORMACION PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL PODER EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Acuerdo publicado en la Sección Cuarta del Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 17 de septiembre de 2003.
 
@@ -106,3 +108,13 @@ ATENTAMENTE:- SUFRAGIO EFECTIVO. NO REELECCIÓN.
 LÁZARO CÁRDENAS BATEL.- Gobernador del Estado. (Firmado).
 
 LEOPOLDO ENRIQUE BAUTISTA VILLÉGAS: Secretario de Gobierno. (Firmado).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+P.O. 12 DE ABRIL DE 2004.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se abroga el Decreto Administrativo publicado en el número 82, Tomo CXXXI, Cuarta Sección del Periódico Oficial del Estado, de fecha 17 de septiembre del 2003.
+
+Artículo Tercero. Los acuerdos tomados en el seno del Consejo Técnico Interinstitucional de Acceso a la Información Pública que se abroga, serán obligatorios en lo conducente.
