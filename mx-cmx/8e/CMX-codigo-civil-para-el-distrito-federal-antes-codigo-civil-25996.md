@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1988-01-07"
+last_updated: "1992-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1992.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -29,7 +29,7 @@ El C. Presidente Constitucional de la República se ha servido dirigirme el decr
 
 "PLUTARCO ELIAS CALLES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente:
+Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente
 
 (REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)(REPUBLICADA, D.O.F. 31 DE DICIEMBRE DE 1974)
 
@@ -155,9 +155,11 @@ La ignorancia de las leyes no excusa su cumplimiento; pero los jueces teniendo e
 
 La capacidad jurídica de las personas físicas se adquiere por el nacimiento y se pierde por la muerte; pero desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le tiene por nacido para los efectos declarados en el presente Código.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 23.
 
-La menor edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+La minoría de edad, el estado de interdicción y demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
 
 ###### ARTICULO 24.
 
@@ -1109,9 +1111,13 @@ VI.- El atentado contra la vida de alguno de los casados para contraer matrimoni
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, la locura y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias.
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1992)</small>
 
-IX.- El idiotismo y la imbecilidad.
+VIII.- La impotencia incurable para la cópula; y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias.
+
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1992)</small>
+
+IX.- Padecer alguno de los estados de incapacidad a que se refiere la fracción II del artículo 450.
 
 X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
@@ -2141,9 +2147,11 @@ Las cuestiones relativas a la paternidad del hijo nacido después de trescientos
 
 En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 331.
 
-Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+Si el marido está bajo tutela por cualquier causa de las señaladas en la fracción II del artículo 450, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ###### ARTICULO 332.
 
@@ -2601,9 +2609,7 @@ Las resoluciones que dicten los jueces, aprobando la revocación, se comunicará
 
 ## TITULO DECIMO. De la emancipación y de la mayor edad
 
-### CAPITULO IV
-
-De la tutela legítima de los dementes, idiotas, imbéciles, sordo-mudos, ebrios y de los que habitualmente abusan de las drogas enervantes.
+### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS MAYORES DE EDAD INCAPACITADOS
 
 ###### ARTICULO 411.
 
@@ -2845,11 +2851,13 @@ Tienen incapacidad natural y legal:
 
 I.- Los menores de edad;
 
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1992)</small>
 
-III.- Los sordo-mudos que no saben leer ni escribir;
+II.- Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos; y aquellos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación, o la alteración en la inteligencia que ésto les provoque no puedan gobernarse y obligarse por si mismos, o manifestar su voluntad por algún medio.
 
-IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
+III.- (DEROGADA, D.O.F. 23 DE JULIO DE 1992)
+
+IV.- (DEROGADA, D.O.F. 23 DE JULIO DE 1992)
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
 
@@ -2913,9 +2921,11 @@ Ninguna tutela puede conferirse sin que previamente se declare en los términos 
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 464.
 
-El menor de edad que fuere demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayor edad.
+El menor de edad que se encuentre en cualquiera de los casos a que se refiere la fracción II del artículo 450, estará sujeto a la tutela de los menores, mientras no llegue a la mayoría de edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
@@ -2923,11 +2933,11 @@ Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva
 
 Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 466.
 
-El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor respecto de las personas comprendidas en los casos a que se refiere la fracción II del artículo 450, durante (sic) el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligaciones de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ###### ARTICULO 467.
 
@@ -3022,6 +3032,8 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 ###### ARTICULO 485.
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE JULIO DE 1992)</small>
 
 ### CAPITULO XI. De las cuentas de la tutela
 
@@ -3175,13 +3187,15 @@ V.- El tutor que se encuentre en el caso previsto en el artículo 159;
 
 VI.- El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la tutela.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 505.
 
-No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
+No pueden ser tutores ni curadores de las personas comprendidas en la fracción II del artículo 450, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
 
 ###### ARTICULO 506.
 
-Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
+(DEROGADO, D.O.F. 23 DE JULIO DE 1992)
 
 ###### ARTICULO 507.
 
@@ -3399,15 +3413,17 @@ Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna c
 
 Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 543.
 
-Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
+Si los menores o los mayores de edad, con algunas de las incapacidades a que se refiere el artículo 450 fracción II, fuesen indigentes o careciesen de suficientes medios para los gastos que demandan su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea obligado a dar alimentos, por razón de su parentesco con su tutelado, el curador ejercitará la acción a que este artículo se refiere.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 544.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez de lo Familiar, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por eso el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+Si los menores o mayores de edad con incapacidades como las que señala el Artículo 450 en su fracción II no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor con autorización del juez de lo familiar, quien oirá el parecer del curador y el consejo local de las tutelas, pondrá al tutelado en un establecimiento de beneficencia pública o privada en donde pueda educarse y habilitarse. En su caso, si esto no fuera posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por eso el tutor queda eximido de su cargo, pues continuará vigilando a su tutelado, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -3479,19 +3495,23 @@ El tutor que no haga las imposiciones dentro de los plazos señalados en los dos
 
 Mientras que se hacen las imposiciones a que se refieren los artículos 557 y 558, el tutor depositará las cantidades que perciba, en el establecimiento público destinado al efecto.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 561.
 
-Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previas la conformidad del curador y la autorización judicial.
+Los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor o del mayor con alguna de las incapacidades a las que se refiere el artículo 450 fracción II debidamente justificada y previa a la confirmación del curador y la autorización judicial.
 
 ###### ARTICULO 562.
 
 Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 437.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 563.
 
-La venta de bienes raíces del menor es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al menor.
+La venta de bienes raíces de los menores y mayores incapaces, es nula, si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda pudiendo dispensarla, acreditada la utilidad que resulte al tutelado.
 
-Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta; ni dar fianza a nombre de su pupilo.
+Los tutores no podrán vender valores comerciales, industriales, títulos de renta, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta, ni dar fianza al (sic) nombre del tutelado.
 
 ###### ARTICULO 564.
 
@@ -3583,9 +3603,11 @@ Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gravar o enaje
 
 Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 584.
 
-En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitado, o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado o del Consejo Local de Tutelas.
+En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitado o a la administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado, del Consejo Local de Tutelas o del Ministerio Público.
 
 ###### ARTICULO 585.
 
@@ -3617,9 +3639,11 @@ El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por est
 
 El tutor está obligado a rendir al juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 591.
 
-También tiene obligación de rendir cuenta, cuando por causas graves que calificará el juez, la exijan el curador, el Consejo Local de Tutelas, o el mismo menor que haya cumplido dieciséis años de edad.
+También tiene obligación de rendir cuenta, cuando por causas graves que calificará el juez, la exijan el curador, el Consejo Local de Tutelas, el Ministerio Público, los propios Incapaces señalados en la fracción II del Artículo 450, o los menores que hayan cumplido 16 años de edad.
 
 ###### ARTICULO 592.
 
@@ -3641,9 +3665,11 @@ Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabi
 
 Las cuentas deben rendirse en el lugar en que se desempeña la tutela.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 597.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ellos no haya resultado utilidad al menor, si esto ha sido sin culpa del primero.
+Deben abonarse al tutor todos los gastos hechos debida y legalmente aunque los haya anticipado de su propio caudal, y aunque de ello no haya resultado utilidad a los menores y a los mayores de edad incapaces, si esto ha sido sin culpa del primero.
 
 ###### ARTICULO 598.
 
@@ -3653,9 +3679,11 @@ Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, s
 
 El tutor será igualmente indemnizado, según el prudente arbitrio del juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 600.
 
-La obligación de dar cuenta no puede ser dispensada en contrato o en última voluntad, ni aun por el mismo menor; y si esa dispensa se pusiere como condición, en cualquier acto se tendrá por no puesta.
+La obligación de dar cuenta no puede ser dispensada en contrato o en última voluntad, ni aún por el mismo tutelado; y si esa dispensa se pusiere como condición, en cualquier acto se tendrá como no puesta.
 
 ###### ARTICULO 601.
 
@@ -12554,3 +12582,9 @@ D.O.F. 7 DE ENERO DE 1988.
 DECRETO POR EL QUE SE REFORMA Y ADICIONA EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JULIO DE 1992.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentra (sic) en trámite ante los tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
