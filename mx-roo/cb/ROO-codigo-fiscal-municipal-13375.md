@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-13375"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-15"
-last_updated: "1998-12-15"
+last_updated: "2000-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre 1997.
 
@@ -457,7 +457,7 @@ VII.- Conceder mediante resoluciones de carácter general, subsidios o estímulo
 
 > <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
 
-En los casos no descritos en el artículo anterior, los Presidentes Municipales, podrán otorgar subsidios hasta del 75% de las cuotas, de las tarifas o tasas establecidas en la Ley; a excepción de los gravámenes a la propiedad inmobiliaria que estén sujetos a lo que establece el artículo 115 Fracción IV de la Constitución Política de los Estados Unidos Mexicanos;
+En los casos no descritos en el artículo anterior, los Presidentes Municipales, podrán otorgar subsidios hasta del 75% de las cuotas, de las tarifas o tasas establecidas en la Ley; a excepción de los gravámenes a la propiedad inmobiliaria que estén sujetos a lo que establece el artículo 115 Fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
 
 VIII.- Tramitar y resolver los asuntos y recursos que ante él se presentan conforme a las leyes y reglamentos fiscales;
 
@@ -1099,6 +1099,10 @@ I.- Exijan el pago de créditos fiscales, cuando se alegue que éstos se han ext
 
 II.- Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley. En este caso, las violaciones cometidas antes del remate solo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material.
 
+> <small>(ADICIONADA, P.O 29 DE DICIEMBRE DE 2000)</small>
+
+III.- Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 100 de este Código.
+
 Si las violaciones tuvieran lugar con posterioridad a la mencionada convocatoria o se trate de ventas de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
 ###### ARTICULO 96.
@@ -1123,7 +1127,9 @@ II.- Los agravios que le cause el acto o resolución impugnada; y
 
 III.- Las pruebas y los hechos controvertidos de que se trate.
 
-Cuando no se haga alguno de los señalamientos de las fracciones I y II de este artículo, la autoridad fiscal desechará como improcedente el recurso interpuesto. Si se omiten los de la fracción III, se tendrán por no ofrecidas las pruebas.
+> <small>(REFORMADO, P.O 29 DE DICIEMBRE DE 2000)</small>
+
+Cuando no se manifieste alguno de los señalamientos a que se refiere este artículo, la autoridad fiscal requerirá al promovente para que dentro del término de 5 días cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le causa la resolución o acto impugnado, la autoridad fiscal desechará el recurso; si no se señala el acto que se impugna, se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrá por no ofrecidas las pruebas respectivas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
 
@@ -1341,9 +1347,11 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero o fianza, una vez que el crédito fiscal y sus accesorios queden firmes, se aplicará por la Tesorería Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O EL 29 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 116.
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, y se autorice el pago a plazos o se interponga un medio de defensa siempre y cuando se satisfagan los requisitos fiscales para su otorgamiento. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de quince días hábiles siguientes a la fecha en que surta efectos su notificación.
+No se ejecutarán los actos administrativos cuando se garanticen el interés fiscal, y se autorice el pago a plazos o se interponga un medio de defensa siempre y cuando se satisfagan los requisitos fiscales para su otorgamiento. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de cuarenta y cinco días hábiles siguientes a la fecha en que surta sus efectos su notificación.
 
 Si a más tardar al vencimiento del citado plazo se acredita la impugnación que se hubiere intentado y se garantiza el interés fiscal satisfaciendo los requisitos legales para su otorgamiento, se suspenderá el procedimiento administrativo de ejecución.
 
@@ -1443,7 +1451,9 @@ No se cobrarán los gastos de ejecución a que se refiere este artículo, cuando
 
 Los honorarios por notificación de requerimientos y los gastos de ejecución improcedentes que se hayan cobrado y distribuido, serán devueltos de la recaudación de estos conceptos con base a las resoluciones que dicte la autoridad competente.
 
-Las erogaciones extraordinarias únicamente podrán comprender los gastos de transporte, inscripción en el Registro Público de la Propiedad y del Comercio, del embargo de bienes raíces y negociaciones, certificados de gravamen, así como los de impresión y publicación de convocatorias y los honorarios de depositarios, de interventores y peritos.
+> <small>(REFORMADO EN EL P.O EL 29 DE DICIEMBRE DE 2000)</small>
+
+Se considerarán erogaciones extraordinarias las que se generen con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargados señalados en el artículo 125 fracción II de este Código, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el registro público que corresponda, los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
 La autoridad recaudadora vigilará que las erogaciones extraordinarias a que se refiere el párrafo anterior sean las estrictamente indispensables y que no excedan a las contraprestaciones normales del mercado, debiendo contratar a las personas que designe el contribuyente, salvo que a juicio de la autoridad ejecutora la persona propuesta no tenga los medios para prestar el servicio o exista peligro de que el depositario se ausente, enajene, oculte los bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones.
 
@@ -1473,9 +1483,11 @@ El ejecutor designado por la Tesorería Municipal o sus unidades administrativas
 
 Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso se hizo por edictos, la diligencia se entenderá con la autoridad Municipal o local de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O 29 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 127.
 
-El contribuyente; o en su defecto, la persona con quien se entienda la diligencia, tendrá derecho a que en ésta intervengan dos testigos y a designar los bienes que deban embargarse, siempre que se sujeten al orden siguiente:
+El contribuyente, o en su defecto, la persona con quien se entienda la diligencia, tendrá derecho a que en ésta intervengan dos testigos y a designar los bienes que deban embargarse, siempre que se sujete al orden siguiente:
 
 I.- Dinero, metales preciosos y depósitos bancarios;
 
@@ -1484,6 +1496,10 @@ II.- Acciones, bonos, cupones vencidos, valores mobiliarios y en general crédit
 III.- Bienes muebles no comprendidos en las fracciones anteriores; y
 
 IV.- Bienes inmuebles.
+
+> <small>(ADICIONADO, P.O 29 DE DICIEMBRE DE 2000)</small>
+
+En caso de que la persona con quien se entiende la diligencia se negare a designar testigos o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta que levante, la que deberán firmar dos testigos que él mismo designe, sin que tales circunstancias afecten la legalidad del embargo.
 
 ###### ARTICULO 128.
 
@@ -1870,6 +1886,12 @@ DR. HECTOR ESQUILANO SOLIS.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O 15 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O 29 DE DICIEMBRE DE 2000.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
