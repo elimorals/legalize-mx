@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2002-12-30"
+last_updated: "2003-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -651,7 +651,9 @@ V.- Conocer los demás asuntos que las leyes les encomienden expresamente.
 
 Corresponde a las Salas Penales:
 
-I.- Conocer de los recursos de apelación, de denegada apelación y de revisión extraordinaria que se interpongan en los asuntos Penales;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2003)</small>
+
+I.- Conocer de los recursos de apelación, de denegada apelación y de revisión extraordinaria que se interpongan en los asuntos penales, con excepción de los que se refieren a la fracción X del artículo 52 de esta Ley;
 
 II.- Conocer de los impedimentos, las recusaciones y las excusas de sus miembros, de sus subalternos y de los Jueces Penales, cuando medie oposición de parte;
 
@@ -2430,3 +2432,11 @@ La estructura orgánica que derive de la presente Ley, quedará sujeta a la disp
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los cinco días del mes de diciembre de dos mil dos.- Diputado Presidente.- ADRIÁN VÍCTOR HUGO ISLAS HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- JUAN RAMÍREZ RAMÍREZ.- Rúbrica.- Diputado Secretario.- JOSÉ GERARDO HILARIO GARCILAZO MARTÍNEZ.- Rúbrica.- Diputada Secretaria.- MARÍA SARA CAMELIA CHILACA MARTÍNEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los seis días del mes de diciembre del año dos mil dos.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
