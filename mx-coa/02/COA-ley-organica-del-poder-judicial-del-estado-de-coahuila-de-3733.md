@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "1997-12-05"
+last_updated: "1999-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -237,9 +237,9 @@ VII.- Resolver, en única instancia, las demandas que por responsabilidad civil 
 
 VIII.- Ejercer la jurisdicción disciplinaria que le corresponde por faltas administrativas, excepto la que sea competencia del Consejo de la Judicatura, en los términos del capítulo IV del título décimo de esta ley;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 1999)</small>
 
-IX.- Conocer de las denuncias de contradicción sobre criterios sustentados por las salas y por los tribunales unitarios de distrito, o entre éstos, procurando su uniformidad.
+IX.- Fijar jurisprudencia por reiteración o por contradicción en los términos que establezca esta ley.
 
 Las resoluciones que sobre el particular pronuncie el Pleno del Tribunal Superior de Justicia, tendrán el carácter de tesis de jurisprudencia de observancia obligatoria para todos los tribunales unitarios y juzgados del Estado, cualquiera que sea su denominación. La que surtirá su efecto a los tres días del día en que se publique en el Boletín de Información Judicial o en el Periódico Oficial del Estado, según ocurra primero. Para su decisión, el Pleno no estará obligado a observar alguno de los criterios en contradicción, sino que podrá establecer un tercero.
 
@@ -561,9 +561,15 @@ V.- De los negocios que deba conocer el Tribunal Unitario de Distrito, a petici�
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 1996)</small>
 
-VI.- De las revisiones forzosas en materia familiar; y,
+VI.- De las revisiones forzosas en materia familiar; y (sic),
 
-VII.- De los demás asuntos que le encomienden las leyes.
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 1999)</small>
+
+VII.- Fijar jurisprudencia por contradicción, reiteración o por declaración en los términos que establezca esta ley;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
+
+VIII.- De los demás asuntos que le encomiende la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1996)</small>
 
@@ -577,9 +583,15 @@ II.- En única instancia, de las demandas de responsabilidad civil presentadas e
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-III.- De los negocios que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y
+III.- De los negocios que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y (sic)
 
-IV.- De los demás asuntos que determinen las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 1999)</small>
+
+IV.- Fijar jurisprudencia por contradicción, reiteración o por declaración en los términos que establezca esta ley;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
+
+V.- De los demás asuntos que le encomiende la ley.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
 
@@ -637,7 +649,13 @@ III.- De los conflictos de competencia que se susciten entre los diversos órgan
 
 IV.- Resolver las denuncias, quejas y acusaciones por faltas administrativas que se presenten en contra del personal del Tribunal Unitario; y
 
-V.- Las demás que señalen las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 1999)</small>
+
+V.- Compilar sus criterios que emanen de las resoluciones que dicten en asuntos de su conocimiento. Cuando en tres resoluciones ininterrumpidas sostengan el mismo criterio, deberán enviar la tesis a la Sala que corresponda para que ésta fije la jurisprudencia por declaración, que confirmará o modificará el criterio.
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
+
+VI.- De los demás asuntos que le señalen esta ley y demás disposiciones legales.
 
 ###### ARTICULO 28.
 
@@ -715,9 +733,11 @@ VIII.- De los demás asuntos que le encomienden las Leyes.
 
 Los Jueces de Primera Instancia en Materia Penal conocerán:
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
 
-I.- De los procesos por delitos del orden común, que tengan establecida una pena de prisión máxima superior a cinco años, así como de aquellos otros delitos que se encuentren excluidos del beneficio procesal de penalidad alternativa, o en los casos de delitos conexos, concurso procesal, material o ideal de delitos, cuando uno o más de los delitos se encuentren en los supuestos anteriores;
+I.- Los jueces de primera instancia en materia penal o de primera instancia mixtos, conocerán de delitos cuya pena máxima de prisión sea superior a seis años; y de los que esa pena sea menor pero el delito sea grave.
+
+Cuando se trate de delitos conexos que por su gravedad diversa, sean competentes jueces locales letrados y de primera instancia, estos últimos conocerán preferentemente de todos los delitos. Sin perjuicio de considerar válido, en su caso, todo lo que conocieren los locales letrados;
 
 II.- De los asuntos de lo familiar por incompetencia subjetiva del juez de esa materia, los jueces penales solamente conocerán si también el juez civil del mismo lugar está impedido;
 
@@ -749,9 +769,11 @@ VI.- De las cuestiones que afecten en sus derechos de personas a los menores e i
 
 Los Jueces Mixtos de Primera Instancia conocerán de las causas civiles, penales y de lo familiar, con las facultades y atribuciones que establecen los artículos 33, 34 y 35 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 37.
 
-Son facultades y obligaciones de los jueces de Primera Instancia, en la esfera de su competencia:
+Son facultades y obligaciones de los Jueces de Primera Instancia, en la esfera de su competencia:
 
 I.- Practicar visitas a los Centros de Readaptación Social, cuando menos cada mes, para los efectos de la parte final del artículo 19 de la Constitución General de la República e informar a los reos sobre el estado de su proceso;
 
@@ -769,7 +791,11 @@ VII.- Conceder licencias con goce de sueldo hasta por quince días, por causa ju
 
 VIII.- Ejercer en términos de ley, la jurisdicción disciplinaria que le corresponde respecto de su personal; y
 
-IX.- Las demás que les confieran las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 1999)</small>
+
+IX.- Compilar sus criterios que emanen de las resoluciones que dicten en asuntos de su conocimiento.
+
+X.- Las demás que les confieran las leyes.
 
 ###### ARTICULO 38.
 
@@ -809,13 +835,11 @@ I.- De los juicios civiles cuya cuantía sea mayor de 151 días y no exceda de 5
 
 II.- De los juicios mercantiles cuya cuantía no exceda de 500 días de salario mínimo general vigente en la capital del Estado, en la fecha en que se presente la demanda.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 44.
 
-Los Jueces Locales Letrados en Materia Penal conocerán, de los procesos penales por delitos cuya pena máxima de prisión sea hasta de cinco años, o de aquellos que se encuentren amparados con el beneficio procesal de penalidad alternativa o solo con sanción que no sea privativa de la libertad.
-
-Paro los efectos de establecer la competencia conforme al párrafo anterior, no se incluirán los delitos en los que la pena legal máxima de prisión se reduzca a cinco años o menos, por invocarse modalidad, circunstancia modificativa atenuante, exceso, error vencible o imputabilidad disminuida. Ni tampoco de aquellos delitos que se encuentran excluidos del beneficio procesal de penalidad alternativa conforme a la fracción VIII del artículo 55 del Código Penal.
+Los jueces locales letrados en materia penal o locales letrados mixtos, serán competentes para conocer de delitos que sin incluir atenuante, su pena máxima de prisión sea hasta seis años; siempre y cuando no sean graves.
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
@@ -823,11 +847,11 @@ Paro los efectos de establecer la competencia conforme al párrafo anterior, no 
 
 Los Jueces Locales Letrados Mixtos conocerán de los asuntos a que se refieren los artículos 43 y 44 de esta ley.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 46.
 
-Son facultades y obligaciones de los jueces Locales Letrados, en la esfera de su competencia, las establecidas en los artículos 37, fracciones V, VI, VII, VIII y IX, y 38 de esta Ley.
+Son facultades y obligaciones de los Jueces Locales Letrados, en la esfera de su competencia, las establecidas en los artículos 37 fracciones V, VI, VII, VIII, IX y X y 38 de esta Ley.
 
 ### CAPITULO III. DE LAS DESIGNACIONES
 
@@ -2435,6 +2459,10 @@ Si existiere resistencia al mandamiento legítimo de autoridad se estará a lo d
 
 ## TITULO DECIMO PRIMERO. DE LOS ESTIMULOS Y RECOMPENSAS
 
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 212.
 
 Unicamente los servidores públicos de la administración de justicia podrán obtener los reconocimientos previstos en este Título, siempre que reúnan los requisitos que en él se establecen.
@@ -2487,6 +2515,10 @@ Con el estímulo o la recompensa se entregará una mención honorífica, en la q
 
 El derecho al uso de la venera y la roseta, se pierde cuando el que las recibió sea sancionado con suspensión o pérdida del cargo.
 
+### CAPITULO II. DE LA JURISPRUDENCIA POR REITERACION, CONTRADICCION O DECLARACION
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 221.
 
 El presidente y los magistrados del Tribunal Superior de Justicia, de consuno, resolverán los expedientes que se integren para el otorgamiento de los estímulos y recompensas.
@@ -2538,6 +2570,10 @@ En el Libro de Honor que debe llevar la Presidencia del Tribunal, se registrará
 Las erogaciones que motive el otorgamiento de estímulo y recompensas, serán con cargo al erario público.
 
 ## TITULO DECIMO SEGUNDO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
+
+### CAPITULO III. DE LA OBLIGATORIEDAD DE LA JURISPRUDENCIA
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 230.
 
@@ -2651,6 +2687,10 @@ Los auxiliares tendrán derecho a que, además de sus honorarios, se les reembol
 
 Cuando prosperen las objeciones por dolo, negligencia, soborno o simulación contra la actuación del auxiliar, no habrá lugar al pago de honorarios.
 
+### CAPITULO IV. DE LA INTERRUPCION Y MODIFICABILIDAD DE LA JURISPRUDENCIA
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 249.
 
 El ejercicio de la abogacía tiene como una de sus principales funciones, la de colaborar con las Autoridades Judiciales a la consecución de una recta y expedita Administración de Justicia.
@@ -2726,6 +2766,238 @@ II.- Acompañar el directorio de sus miembros, así como una relación de los so
 ###### ARTICULO 260.
 
 La asociaciones de abogados legalmente constituidas y registradas, quedan debidamente autorizadas para gestionar ante la Autoridad Judicial que corresponda, lo que estimen conducente para la mejor administración de justicia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+
+### CAPITULO V. DE LA COMPILACION Y SISTEMATIZACION DE LA JURISPRUDENCIA Y TESIS AISLADAS
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 261.
+
+La jurisprudencia local que emane de los tribunales del Poder Judicial del Estado es una garantía jurisdiccional. El pleno, las salas y los tribunales unitarios de distrito están facultados para formar jurisprudencia en los términos que dispone esta ley.
+
+El Consejo de la Judicatura podrá formar jurisprudencia sólo en materia disciplinaria dentro del propio Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 262.
+
+El Pleno del Tribunal Superior de Justicia formará jurisprudencia cuando:
+
+I.- Sustente el mismo criterio en dos resoluciones ininterrumpidas;
+
+II.- Fije en contradicción de criterios el que debe prevalecer.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 263.
+
+Las Salas del Tribunal Superior de Justicia, formarán jurisprudencia cuando:
+
+I.- Sustenten el mismo criterio en tres resoluciones ininterrumpidas;
+
+II.- Fijen en contradicción de criterios el que debe prevalecer;
+
+III.- Exista declaración de confirmación o modificación del criterio emanado de un tribunal unitario de distrito.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 264.
+
+Los tribunales unitarios de distrito cuando sostengan el mismo criterio en tres resoluciones ininterrumpidas, deberán enviarlo a la Sala que corresponda para que realice la declaratoria de jurisprudencia en los términos que señala esta ley.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 265.
+
+El Consejo de la Judicatura formará jurisprudencia disciplinaria cuando:
+
+I.- Sustente el mismo criterio en tres resoluciones ininterrumpidas;
+
+II.- Fije en contradicción de tesis el criterio que debe prevalecer;
+
+III.- Exista declaración de confirmación o modificación del criterio disciplinario emanado de un tribunal unitario de distrito.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 266.
+
+Las tesis de jurisprudencia no afectarán las situaciones jurídicas concretas derivadas de las resoluciones dictadas con motivo del proceso o procesos en que se hubiese generado la reiteración, la contradicción o la declaración.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 267.
+
+Cuando las partes invoquen la existencia de una jurisprudencia local deberán expresarlo por escrito identificando claramente su fuente, rubro y tesis. En todo caso, la autoridad judicial deberá revisar la existencia de la jurisprudencia por medio del Boletín o el Periódico Oficial del Gobierno del Estado.
+
+El Pleno, el Consejo o las Salas por sí o por conducto de sus presidencias, podrán enviar copia certificada de las tesis de jurisprudencias aprobadas a todos los tribunales y jueces del Poder Judicial.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+
+TITULO DECIMOTERCERO
+
+DE LA JURISPRUDENCIA LOCAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 268.
+
+La jurisprudencia por reiteración que emane del Pleno, las Salas o el Consejo, deberán estar debidamente glosadas en tesis y aprobadas para su debida publicación.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 269.
+
+La jurisprudencia del Pleno por contradicción se regirá de acuerdo al procedimiento siguiente:
+
+I.- La denuncia de contradicción se podrá formular por cualquier persona o autoridad. En todo caso se deberá señalar el órgano u órganos que incurren en contradicción, en qué consiste ésta y, si está a su disposición, el denunciante deberá acompañar el original o copia autorizada de la o las resoluciones que sean materia de la contradicción. Sin perjuicio de lo anterior, la Presidencia podrá mandar traer los documentos necesarios para analizar la denuncia de que se trate;
+
+II.- La denuncia versará sobre criterios sustentados por las Salas;
+
+III.- La denuncia de contradicción se presentará ante la Secretaría del Pleno. La Presidencia mediante oficio mandará dar vista al Procurador de Justicia de la denuncia, para que dentro de los quince días siguientes manifieste su opinión. Transcurrido dicho plazo, con o sin opinión, la Presidencia acordará la ponencia en estricto turno a uno de los magistrados adscritos a la Sala de la materia sobre la que verse prevalentemente la contradicción, poniendo a su disposición el expediente respectivo. La ponencia se deberá formular dentro de los sesenta días siguientes, con inclusión de los que sean inhábiles o festivos. De la misma se dará cuenta al Pleno por conducto de la Presidencia para su discusión y aprobación;
+
+IV.- Cuando la denuncia de contradicción se refiera a criterios sustentados exclusivamente en materia civil, familiar o penal, y en la votación para resolver sobre ellas exista empate, tendrá calidad el sentido en que hayan votado la mayoría de los magistrados de la Sala de la materia que corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 270.
+
+La jurisprudencia de las Salas por contradicción se regirá de acuerdo al procedimiento que en lo conducente señalan las fracciones I, II y III del artículo anterior. Mas la denuncia por contradicción se presentará ante el secretario de acuerdos de la Sala que corresponda; y versará sobre criterios sustentados por los tribunales unitarios de distrito o los jueces del Poder Judicial, o entre unos u otros, procurando su uniformidad.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 271.
+
+La jurisprudencia del Consejo por contradicción se regirá de acuerdo al procedimiento siguiente:
+
+I.- La denuncia de contradicción se podrá formular por el Consejo de la Judicatura o su Presidencia; o por las autoridades o partes legitimadas que intervinieron en el procedimiento disciplinario que suscite el criterio contradictorio. En todo caso se deberá señalar el órgano u órganos que incurren en contradicción, en qué consiste ésta, o los criterios en cuestión y, si está a su disposición, el denunciante deberá acompañar el original o copia autorizada de la o las ejecutorias que sean materia de la contradicción. Sin perjuicio de lo anterior, la Presidencia podrá mandar traer los documentos necesarios para analizar la denuncia de que se trate;
+
+II.- La denuncia versará sobre criterios disciplinarios sustentados por el Consejo, los tribunales unitarios de Distrito o los jueces del estado o sus subalternos que ejerzan jurisdicción disciplinaria en los casos que establece esta ley, o entre éstos, procurando su uniformidad;
+
+III.- La denuncia de contradicción se presentará ante la Secretaría del Consejo. La Presidencia una vez analizada la legitimidad del denunciante, podrá formular la ponencia por conducto de la Secretaría de Estudio y Cuenta del Consejo o acordará que la misma se encargue en estricto turno a uno de los Consejeros, poniendo a su disposición el expediente respectivo. Dicha ponencia deberá formularse, en todo caso, dentro de los sesenta días siguientes, con inclusión de los que sean inhábiles o festivos. De la misma se dará cuenta al Consejo por conducto de la Presidencia para su discusión y aprobación.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 272.
+
+En toda resolución que emane de una denuncia de criterios se deberá determinar la procedencia de la contradicción y, en su caso, precisar el criterio que debe prevalecer y la tesis de jurisprudencia debidamente glosada y aprobada por el Pleno, la Sala o el Consejo para su debida publicación, según el caso. Podrá fijarse un criterio distinto a los que sean materia de la contradicción.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 273.
+
+La jurisprudencia por declaración se regirá de acuerdo al procedimiento siguiente:
+
+I.- El tribunal unitario de distrito que sostenga el mismo criterio en tres resoluciones ininterrumpidas, deberá enviar la tesis debidamente glosada a la Sala que corresponda por razón de la materia en que prevalentemente consista el criterio, o al Consejo si se trata de un criterio disciplinario. Todo conflicto o duda sobre la competencia de la Sala será resuelta de plano por el Pleno;
+
+II.- El tribunal unitario anexara original o copia autorizada de las resoluciones que dieron lugar al criterio materia de la declaración;
+
+III.- La Presidencia de la Sala o del Consejo, según el caso, deberán encargar en estricto turno la ponencia respectiva a un magistrado que integra la misma o un consejero. Dentro de los treinta días siguientes, la Sala o el Consejo resolverá la declaratoria de jurisprudencia debidamente glosada para mandarla a publicar;
+
+IV.- La declaratoria de jurisprudencia podrá confirmar o sustentar un criterio distinto al señalado por el tribunal unitario. En todo caso, el criterio fijado por la Sala o el Consejo es el que formará jurisprudencia obligatoria.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 274.
+
+La jurisprudencia que pronuncie el Pleno del Tribunal Superior de Justicia tendrá observancia obligatoria para las Salas, los tribunales unitarios de distrito y los juzgados del Poder Judicial, así como para todas las autoridades del estado.
+
+La jurisprudencia que pronuncien las Salas del Tribunal Superior de Justicia tendrá observancia obligatoria para los tribunales unitarios de distrito y los juzgados del Poder Judicial, así como para todas las autoridades del estado.
+
+La jurisprudencia que en materia disciplinaria pronuncie el Pleno o las Salas sólo tendrán efectos obligatorios para ellos.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 275.
+
+La jurisprudencia disciplinaria que pronuncie el Consejo de la Judicatura tendrá observancia obligatoria solamente para los tribunales unitarios de distrito y los juzgados del estado.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 276.
+
+La obligatoriedad de la jurisprudencia local surtirá sus efectos al día siguiente de que se publique en el Boletín de Información Judicial o en el Periódico Oficial del Estado, según ocurra primero.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 277.
+
+La interrupción de la jurisprudencia tendrá como consecuencia que deje de surtir sus efectos de obligatoriedad. El Pleno, las Salas y el Consejo estarán facultados para interrumpir la jurisprudencia sólo en los casos y bajo las condiciones que establece este capítulo.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 278.
+
+La jurisprudencia por reiteración o por contradicción que emane del Pleno o Salas, se interrumpirá por otras en contrario de ellos, según corresponda, siempre y cuando:
+
+I.- Tratándose del Pleno, la interrupción se apruebe por lo menos por las dos terceras partes de los magistrados y existan dos resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Pleno.
+
+Si se trata de una jurisprudencia por reiteración de una de las Salas, es necesario que existan tres resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida;
+
+II.- Si se trata de una jurisprudencia por contradicción, además de la jurisprudencia por reiteración, el Pleno o las Salas, según el caso; podrán interrumpirla sólo con base en las propuestas que hagan valer las Salas o cualquiera de los tribunales unitarios de distrito o los jueces sobre la necesaria interrupción de la tesis jurisprudencial en cuestión por su inaplicabilidad en los casos concretos sometidos a su consideración.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 279.
+
+La jurisprudencia por reiteración o contradicción que emane del Consejo, se interrumpirá por otra en contrario de aquél, siempre que esté aprobada por lo menos por las dos terceras partes de los consejeros y se siga el procedimiento siguiente:
+
+I.- Si se trata de una jurisprudencia por reiteración, es necesario que existan tres resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Consejo;
+
+II.- Si se trata de una jurisprudencia por contradicción, además de la jurisprudencia por reiteración, el Consejo sólo podrá interrumpirla con base en las propuestas que hagan valer los tribunales unitarios de Distrito o los jueces sobre la necesaria interrupción de la tesis jurisprudencial en cuestión por su inaplicabilidad en los casos concretos sometidos a su consideración.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 280.
+
+El Pleno, las Salas y el Consejo estarán facultados para modificar su jurisprudencia, señalando en todo caso las razones para hacerlo. Es innecesario que exista pronunciación previa de una resolución en un caso concreto para modificar la jurisprudencia.
+
+El Pleno, las Salas y el Consejo por sí mismos, o bien por conducto de las propuestas que realicen los tribunales unitarios o los jueces, podrán modificar la jurisprudencia vía oficio o previa resolución.
+
+En el caso de las propuestas de los tribunales unitarios o los jueces se harán por vía de denuncia ante el Pleno, las Salas o el Consejo, según el caso, para que éstos determinen si ha lugar o no ha lugar a modificar el criterio. La propuesta de modificación deberá identificar la tesis jurisprudencial en cuestión, las razones que motiven la denuncia y, en su caso, las constancias necesarias que sirvan de base para fundamentar que en los casos concretos es justificada la modificación propuesta.
+
+El Pleno, las Salas o el Consejo podrán modificar sus tesis de jurisprudencia sin que estén vinculados a la denuncia de modificación.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 281.
+
+La jurisprudencia local dejara de tener carácter obligatorio sin necesidad de declaratoria judicial cuando:
+
+I.- Exista jurisprudencia en contrario de la Suprema Corte de Justicia de la Nación exactamente aplicable;
+
+II.- Exista jurisprudencia de alguno de los tribunales colegiados del circuito federal exactamente aplicable;
+
+III.- Exista jurisprudencia en contrario del Tribunal Federal Electoral que sea obligatoria para las autoridades del estado exactamente aplicable;
+
+IV. Por nueva disposición constitucional o legal aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 282.
+
+El Presidente del Tribunal Superior de Justicia emitirá las circulares bajo las cuales se formularán, depurarán y glosarán las tesis aisladas o de jurisprudencia.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 283.
+
+El Pleno, las Salas y el Consejo formularán sus tesis de jurisprudencia y ordenarán que se publiquen dentro de los sesenta días siguientes de que se aprueben. En cualquier caso, se deberá enviar para su publicación la tesis de jurisprudencia al Boletín de Información Judicial o al Periódico Oficial del Estado, quince días antes de que venza el plazo anterior.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 284.
+
+En todo caso, el Pleno, las Salas, el Consejo, los tribunales unitarios de distrito y los jueces del Poder Judicial, según corresponda, deberán remitir mensualmente a la Presidencia las tesis que contengan jusrisprudencia (sic), mencionando esta circunstancia; o los criterios debidamente formulados que estimen relevantes, sustentados en las resoluciones dictadas en los procesos en que hayan conocido.
+
+La Presidencia del Tribunal depurará y compilará las tesis, los criterios o acuerdos relevantes para ser publicados.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### ARTICULO 285.
+
+La Presidencia del Tribunal publicará trimestralmente en el Boletín Judicial del Estado los criterios enviados, así como las tesis de jurisprudencia por reiteración, contradicción o declaración.
 
 T R A N S I T O R I O S
 
@@ -2884,3 +3156,13 @@ Para los efectos de formar jurisprudencia obligatoria, las denuncias de contradi
 ###### ARTICULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan a las presentes reformas, modificaciones y adiciones.
+
+P.O. 18 DE MAYO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas iniciarán su vigencia a partir del día 1° de septiembre; toda vez que para esa fecha se prevé el inicio de vigencia del Código de Procedimientos Penales que fija las nuevas reglas de competencia de los jueces en la materia.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de formar jurisprudencia local se tomarán en cuenta aquellos criterios que se sustenten en las resoluciones que se dicten a partir del inicio de vigencia de estas reformas, con relación a criterios aplicables sostenidos en resoluciones pronunciadas dentro de los seis últimos años, anteriores al año del inicio de vigencia de estas reformas.
