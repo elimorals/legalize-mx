@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1985-11-16"
+last_updated: "1986-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1986.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -227,11 +227,11 @@ No podrá el Congreso abrir sus Sesiones sin la concurrencia de cuatro de sus mi
 
 En el periodo en que se inicien las actividades de una nueva Legislatura los Diputados deberán reunirse el día señalado por la Ley y en caso de no haber "quórum", los presentes compelerán a los faltantes para que asistan dentro de los diez días siguientes, con la advertencia de que si no lo hicieren, se entenderá por este solo hecho, que no aceptan su encargo, llamándose luego a los Suplentes, quienes deberán presentarse en un plazo igual y si tampoco lo hicieren, se declarará vacante el Puesto y se convocará a nuevas elecciones.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1985)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO 1986)</small>
 
 ###### Artículo 31.
 
-El día 19 de octubre de cada año, en sesión solemne del Congreso del Estado, a la que asistirán el Presidente del Supremo Tribunal de Justicia y todos los miembros integrantes de la Legislatura, el (la) Gobernador (Gobernadora) del Estado rendirá un informe por escrito en el que manifieste las condiciones generales que guarde la administración pública de la Entidad. El Presidente del Congreso contestará en términos generales.
+El día 27 de septiembre de cada año, en Sesión Solemne a la que asistirán el Presidente del Supremo Tribunal de Justicia y todos los miembros integrantes de la Legislatura, el Gobernador del Estado rendirá un informe por escrito en el que manifieste las condiciones generales que guarde la administración pública de la Entidad. El Presidente del Congreso contestará en términos generales.
 
 (REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -367,9 +367,9 @@ XXXIV.- Expedir leyes electorales conforme a la presente Constitución y fijar d
 
 XXXV.- Convocar a elecciones extraordinarias.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 2 DE AGOSTO 1986)</small>
 
-XXXVI.- Reorganizar la administración Municipal, nombrando funcionarios interinos siempre que por cualquier motivo faltaren los designados por elección popular o cuando no hubiere habido elecciones y se esté en el segundo semestre, del período Municipal; pero si se estuviere en el primer semestre, se convocará a elecciones.
+XXXVI.- Reorganizar la administración municipal, nombrando funcionarios interinos siempre que por cualquier motivo faltaren los designados por elección popular o cuando no hubiere habido elecciones y se esté en la segunda mitad del ejercicio; pero si se estuviere en la primera mitad del ejercicio se convocará a elecciones.
 
 (REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -487,9 +487,11 @@ El mismo derecho tendrá el Supremo Tribunal de Justicia del Estado, cuando la i
 
 Los Ayuntamientos al hacer su iniciativa, si lo juzgaren conveniente, designarán su orador para que asista sin voto a los debates, a quien se hará saber el día de la discusión, siempre que señale domicilio en la población donde residen los Supremos Poderes del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO 1986)</small>
+
 ###### Artículo 47.
 
-(DEROGADO, P.O. 27 DE MAYO DE 1939)
+Las iniciativas de Ley o Decreto no se considerarán aprobadas, sino cuando hayan sido apoyadas por el voto de la mayoría de todos los miembros del Congreso. Cuando fueren objetadas por representantes del Ejecutivo, Supremo Tribunal de Justicia o Ayuntamientos, se requiere el voto de las dos terceras partes de los diputados, por lo menos, respecto de los puntos en que hubiere discrepancia.
 
 ###### Artículo 48.
 
@@ -551,11 +553,11 @@ El Gobernador, antes de tomar posesión de su cargo rendirá la protesta de Ley 
 
 No podrán ser electos para el período inmediato los Ciudadanos que hayan desempeñado el Poder Ejecutivo con el carácter de Gobernador Substituto, Interino o Provisional, siempre que desempeñen el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P. O. 7 DE ENERO DE 1950)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO 1986)</small>
 
 ###### Artículo 55.
 
-Las faltas temporales del Gobernador del Estado, hasta por treinta días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal periodo serán cubiertas por un Gobernador Interino que a mayoría de votos de los Diputados presentes nombrará el Congreso o en sus recesos la Diputación Permanente, debiendo tener el nombrado los requisitos que señala el artículo 51 de esta Constitución. Cuando la falta fuera absoluta y ocurriera dentro del tercero o cuarto año del período constitucional, se nombrará un substituto que desempeñe el cargo hasta que termine el período; pero si la falta tuviera lugar dentro de los dos primeros años se nombrará un Gobernador Interino quien hará entrega del Poder al ciudadano que hubiere resultado electo en las elecciones extraordinarias a que haya convocado el Congreso conforme a sus facultades. Llegado el caso previsto en la Frac. V del Artículo 76 de la Constitución General de la República el Gobernador Provisional convocará a elecciones extraordinarias dentro de un término que no excederá de quince días, y el electo tomará posesión de su cargo inmediatamente que se haga la declaratoria respectiva.
+Las faltas temporales del Gobernador del Estado, hasta por 30 días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal periodo serán cubiertas por un Gobernador interino que a mayoría de votos de los Diputados presentes nombrará el Congreso o en sus recesos la Diputación Permanente, debiendo tener el nombrado los requisitos que señala el Artículo 51 de esta Constitución. Cuando la falta fuere absoluta y ocurriera en los cuatro últimos años del período constitucional, se nombrará un substituto que desempeñe el cargo hasta que termine el período; pero si la falta tuviera lugar dentro de los dos primeros años se nombrará un Gobernador Interino quien hará entrega del Poder al ciudadano que hubiere resultado electo en las elecciones extraordinarias a que haya convocado el Congreso conforme a sus facultades. Llegando el caso previsto en la fracción V del Artículo 76 de la Constitución General de la República, el Gobernador provisional convocará a elecciones extraordinarias dentro de un término que no excederá de quince días, y el electo tomará posesión de su cargo inmediatamente que se haga la declaratoria respectiva.
 
 (REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -655,9 +657,9 @@ XXVII.- Remitir al Congreso y en sus recesos a la Diputación Permanente, los ne
 
 XXVIII.- Rendir ante el Congreso del Estado el informe a que se refiere el Artículo 31 de esta Constitución.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1986)</small>
 
-XXIX.- Asistir a la apertura del Periodo de Sesiones Ordinarias del Congreso.
+XXIX.- Asistir a la Apertura del Primer Período Ordinario de Sesiones del Congreso.
 
 XXX.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1983)
 
@@ -719,9 +721,11 @@ Del Secretario del Despacho.
 
 Para el despacho de los negocios del Poder Ejecutivo, habrá un Secretario General de Gobierno que tendrá los requisitos que para ser Diputado, señala el Artículo 24, excepto el de la vecindad.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1986)</small>
+
 ###### Artículo 61.
 
-Todas las órdenes, decretos y Reglamentos del Gobernador, deberán firmarse por el Secretario del Despacho; sin este requisito no se obedecerán.
+Todas las órdenes, acuerdos, decretos y reglamentos del Gobernador, deberán firmarse por el Secretario General de Gobierno y por el Secretario del Ramo a que el asunto corresponda. Sin este requisito no serán obedecidas. Para la promulgación de leyes y decretos del Congreso se requerirá únicamente la firma del Secretario General de Gobierno.
 
 ###### Artículo 62.
 
@@ -1874,3 +1878,7 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de
 P.O. 16 DE NOVIEMBRE DE 1985.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 2 DE AGOSTO DE 1986.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
