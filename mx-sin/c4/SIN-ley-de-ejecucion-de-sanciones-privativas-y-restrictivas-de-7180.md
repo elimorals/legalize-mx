@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-7180
 country: "mx"
 rank: "ley"
 publication_date: "1970-09-29"
-last_updated: "1970-09-29"
+last_updated: "1974-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1974
 
 Ley publicada en el Periódico Oficial "Estado de Sinaloa", el martes 29 de septiembre de 1970.
 
@@ -49,13 +49,17 @@ I.- Regular la ejecución de las sanciones privativas y restrictivas de libertad
 
 II.- El control y vigilancia de cualquier privación y restricción de libertad, impuesta por las autoridades jurisdiccionales en los términos de Ley.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
 ###### ARTICULO 2.
 
-Corresponde al Ejecutivo del Estado, por conducto del Instituto de Readaptación Social de Sinaloa y los Centros de Readaptación Social Municipal cuando éstos se establezcan, la ejecución de las sanciones privativas y restrictivas de libertad, así como la administración y dirección de las Instituciones destinadas a la ejecución de tales sanciones.
+Corresponde al Ejecutivo del Estado, por conducto de la Dirección de Gobernación y del Instituto de Readaptación Social de Sinaloa la ejecución de las sanciones privativas y restrictivas de libertad, así como la administración y dirección de las instituciones destinadas a la ejecución de tales sanciones.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1974)</small>
 
 ###### ARTICULO 3.
 
-La ejecución de sanciones privativas y restrictivas de libertad tiene por objeto, el cumplimiento de un mandamiento emanado de autoridad jurisdiccional y la readaptación social y educativa del interno.
+La ejecución de sanciones privativas y restrictivas de libertad tiene por objeto, el cumplimiento de un mandamiento emanado de una autoridad jurisdiccional y la readaptación social del interno.
 
 ###### ARTICULO 4.
 
@@ -78,6 +82,14 @@ I.- Las impuestas por las autoridades jurisdiccionales del Distrito Judicial de 
 II.- Las sentencias definitivas que excedan de dos años de prisión impuestas por las autoridades competentes en cualquiera de los Distritos Judiciales de la Entidad;
 
 III.- Aquellas inferiores a dos años de prisión, cuando el índice de peligrosidad del interno sea elevado, sea difícil su readaptación u observe mala conducta en algún Centro de Readaptación Social Municipal, a juicio del Director del mismo, y mediante acuerdo del Ejecutivo del Estado.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 1974)</small>
+
+IV.- Cuando se trate de internos que a través de la autoridad competente, se encuentren a disposición de una autoridad jurisdiccional de otra Entidad o de la Federación de acuerdo con las leyes relativas.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 1974)</small>
+
+V.- Y los demás casos previstos por la Legislación Penal vigente en el Estado.
 
 ###### ARTICULO 7.
 
@@ -103,11 +115,17 @@ VI.- Un Jefe del Departamento de Estudios Criminológicos;
 
 VII.- Un Jefe del Servicio Médico General;
 
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 1974)</small>
+
+VIII.- Un Jefe del Departamento de Servicios Psiquiátricos-Psicológico.
+
 ###### ARTICULO 9.
 
 En el Instituto se deberá contar con los siguientes medios de readaptación:
 
-I.- Un Organismo Técnico Criminológico que deberá estar integrado en forma mínima, por un licenciado en Derecho, un Médico General y un Psiquiatra, un Trabajador Social y un Coordinador de Trabajos;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1974)</small>
+
+I.- Un organismo técnico criminológico que deberá estar integrado en forma mínima, por un Licenciado en Derecho, un Médico General, un Psiquiatra o Psicólogo, un Trabajador Social y un Coordinador de Trabajos;
 
 II.- Un personal directivo, técnico, administrativo y de vigilancia, seleccionado con base en las condiciones necesarias de probidad, sentido humanitario, competencia y aptitud;
 
@@ -119,11 +137,19 @@ V.- Secciones educativas y biblioteca;
 
 VI.- Un Departamento de Trabajo Social;
 
-VII.- Las instalaciones necesarias para llevar al cabo los programas culturales y de educación física.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1974)</small>
+
+VII.- Un Departamento Psiquiátrico-Psicológico.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 1974)</small>
+
+VIII.- Las instalaciones necesarias para llevar a cabo los programas culturales y de educación física.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1974)</small>
 
 ###### ARTICULO 10.
 
-El Director del Instituto de Readaptación Social de Sinaloa tendrá, en relación con los Centros de Readaptación Social Municipal facultades de supervisión, vigilancia y orientación para lograr en todo momento su mejoramiento.
+El Director del Instituto de Readaptación Social de Sinaloa tendrá en relación con los Centros de Readaptación Social Municipal facultades de supervisión, vigilancia y orientación para lograr en todo momento su mejoramiento. Para tal efecto, las disposiciones emanadas de aquél con respecto de éstos tendrán el carácter de observancia obligatoria.
 
 ## TITULO SEGUNDO. Del Régimen en el Instituto de Readaptación Social de Sinaloa
 
@@ -145,13 +171,19 @@ La privación de la libertad de los infractores no tiene por objeto el infringir
 
 El Director del Instituto proveerá lo necesario para permitir el acceso de funcionarios que deben intervenir en actos que realicen en relación con el ejercicio de los derechos civiles de que no se encuentran privados los internos como consecuencia de las sanciones impuestas.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
 ###### ARTICULO 15.
 
-En las actas de nacimiento de los niños nacidos en el Instituto de Readaptación Social, por ningún motivo se hará constar esta circunstancia.
+En las partidas relativas a los actos del Registro Civil que se celebren en el Instituto o algún centro de readaptación social en el Estado, por ningún motivo se hará constar esa circunstancia.
 
 ###### ARTICULO 16.
 
 El régimen de readaptación se caracterizará por ser progresivo, cualquiera que fuere la sanción impuesta y constará de los siguientes períodos: Estudios y diagnóstico; tratamiento y reintegración, en los términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
+ARTICULO 16 BIS.- Las disposiciones relativas a la organización interna y régimen administrativo del Instituto y Centros de Readaptación Social, estarán contenidas en el Reglamento de esta Ley; o en su defecto, serán dictadas por el Consejo Técnico del Instituto de Readaptación Social en el Estado para ser acatadas por el mismo Instituto y demás Centros Readaptacionales en el Estado.
 
 ### CAPITULO II. Del Régimen Interior
 
@@ -185,13 +217,41 @@ VI.- Opinión del Organismo Técnico Criminológico, acerca del grado de readapt
 
 A su ingreso, todo interno recibirá una información acerca del régimen a que se le someterá las normas de conducta que debe observar, el sistema disciplinario, los medios para formular peticiones o presentar quejas y toda otra información necesaria para el conocimiento de sus obligaciones, a fin de permitirle su adaptación a la vida interna.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
 ###### ARTICULO 20.
 
-El dinero, los objetos de valor y demás bienes propios que el interno posea al ingreso o adquiera con posterioridad y que reglamentariamente no pueda retener consigo, serán mantenidos en depósito previo inventario. Los citados efectos, les serán devueltos al obtener la libertad.
+El dinero, los objetos de valor y demás bienes propios que el interno posea al ingreso o adquiera con posterioridad y que reglamentariamente no pueda retener consigo, serán mantenidos en depósito previo inventario. Los citados efectos, les serán devueltos al obtener la libertad o antes si la disposición fuera para el exterior.
 
 ###### ARTICULO 21.
 
 Queda estrictamente prohibido a todo el personal que labora en el Instituto de Readaptación Social realizar transacciones de tipo comercial con los internos.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
+###### ARTICULO 21 Bis.
+
+Para los efectos de esta Ley los internos podrán ser:
+
+I. Indiciados, cuando se encuentren a disposición de la autoridad jurisdiccional antes de dictárseles el auto de formal prisión;
+
+II. Procesados, cuando se encuentren a disposición de la autoridad jurisdiccional y se haya comunicado oficialmente a la Dirección del Instituto o Centro, el auto de formal prisión;
+
+III. Sentenciados, cuando se ha comunicado en forma oficial al Director del Instituto o Centro, que la sentencia dictada al interno ha causado ejecutoria;
+
+IV. Exhortados, cuando se trate de internos que a través de la autoridad competente, se encuentren a disposición de una autoridad jurisdiccional de otra Entidad o de la Federación, para su traslado de acuerdo con las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
+###### ARTICULO 21 Bis 1.
+
+Unicamente se admitirá como internos, en el Instituto o Centros de Readaptación Social en el Estado quienes se encuentren a disposición de la autoridad jurisdiccional, así como quienes sean remitidos para el cumplimiento de sanciones dictadas por autoridad jurisdiccional.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
+###### ARTICULO 21 Bis 2.
+
+Por ningún motivo se admitirá en el Instituto o Centro de Readaptación Social en el Estado a menores infractores. Estos deberán ser internados en las Instituciones Especiales que regula la Ley Orgánica del H. Consejo Tutelar de Menores vigente en el Estado.
 
 ### CAPITULO III. Del Ingreso, Clasificación y Tratamiento
 
@@ -231,6 +291,12 @@ II.- Educación primaria para adultos;
 
 III.- La educación agrícola, artesanal, industrial y en general, toda aquella que favorezca su capacitación para la realización de actividades lícitas, económicamente productivas que permitan el sostenimiento del interno y el de su familia al reintegrarse el mismo al medio social.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
+###### ARTICULO 28 Bis.
+
+La asistencia a cursos de alfabetización y educación primaria, tendrá carácter de obligatoria para aquellos internos que no han obtenido estos beneficios.
+
 ###### ARTICULO 29.
 
 La enseñanza que se imparta deberá orientarse hacia la reforma moral del interno, procurando afirmar en éste el respeto a los valores humanos y a las Instituciones Sociales. Asimismo, combatirá la toxicomanía, el alcoholismo y todos los vicios que degraden al individuo.
@@ -239,19 +305,23 @@ La enseñanza que se imparta deberá orientarse hacia la reforma moral del inter
 
 La educación de los internos deberá coordinarse con los sistemas oficiales, a fin de que al ser puestos en libertad puedan continuar con sus estudios.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
 ###### ARTICULO 31.
 
-Los certificados de estudios que se expidan, no harán mención de haber sido cursados en la escuela del Instituto o Centros de Readaptación.
+Los certificados de estudios que se expidan, no harán mención de haber sido cursados en las escuelas del Instituto o Centros de Readaptación Social del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1974)</small>
 
 ###### ARTICULO 32.
 
-Con la previa autorización del Director del Instituto, el personal docente deberá organizar conferencias, veladas literarias, representaciones teatrales, funciones de cine, conciertos o eventos deportivos.
+Con la previa autorización del Director del Instituto o Centro, el personal docente deberá organizar conferencias, veladas literarias, representaciones teatrales, funciones de cine, conciertos o eventos deportivos.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1974)</small>
 
 ###### ARTICULO 33.
 
-Funcionarán en el Instituto para una mejor preparación cultural de los internos: Bibliotecas, Sala Audiovisual, talleres de pintura, modelado, escultura, artesanías y todas aquellas instalaciones que sirvan para mejorar la educación de los mismos.
-
-El personal docente estimulará a los internos para que las utilicen en la mayor medida posible.
+Funcionarán en el Instituto y Centros para una mejor preparación cultural de los internos: Bibliotecas, Sala Audiovisual, Talleres de Pintura, Modelado, Escultura, Artesanía y todas aquellas instalaciones que sirvan para mejorar la educación de los mismos.
 
 ###### ARTICULO 34.
 
@@ -389,9 +459,11 @@ La Dirección del Instituto de Readaptación Social otorgará los estímulos a l
 
 De todo estímulo otorgado deberá hacerse mención en la sección correspondiente del expediente personal del interno.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
 ###### ARTICULO 59.
 
-El Director del Instituto de Readaptación Social de Sinaloa, tomando en cuenta rigurosamente las anotaciones que se hagan en el expediente personal del interno, así como la mención de estímulos otorgados al mismo, rendirá a la autoridad correspondiente el informe para los efectos de la libertad preparatoria o la retención en su caso.
+El Director del Instituto de Readaptación Social de Sinaloa, tomando en cuenta rigurosamente las anotaciones que se hagan en el expediente personal del interno, así como la mención de estímulos otorgados al mismo, rendirá a la Autoridad correspondiente el informe para los efectos de la obtención del beneficio de la remisión parcial de la sanción corporal, de la libertad preparatoria o la retención en su caso.
 
 ## TITULO TERCERO. De la Liberación y la Retención
 
@@ -443,6 +515,34 @@ Al quedar el interno en libertad, definitiva o preparatoria, se le hará entrega
 
 Concedida la libertad a que se refieren los artículos anteriores, la Dirección del Instituto de Readaptación Social de Sinaloa, la comunicará al Patronato para Reos Liberados para su intervención.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 1974)</small>
+
+### CAPITULO III. De la Remisión Parcial de la Sanción Corporal
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
+###### ARTICULO 69.
+
+Cuando el interno haya observado buena conducta, no se resista a participar en las actividades de trabajo, educativas y deportivas que se le asignen en el establecimiento y revele a través de éstas u otros datos una efectiva readaptación social, por cada dos días de permanencia se le concederá al interno la remisión de un día. Siempre será necesaria como condición no dispensable, el dato de su efectiva readaptación social, como factor determinante para conceder o negar la remisión parcial de la sanción corporal.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
+###### ARTICULO 70.
+
+La primera remisión parcial de la pena será propuesta por el organismo técnico criminológico del establecimiento, a la Dirección de Gobernación, cuando el interno haya cumplido las dos quintas partes de la sanción privativa. En lo sucesivo, la remisión que resulte se hará anualmente, siguiendo el mismo procedimiento.
+
+La resolución respectiva se dictará dentro de los treinta días siguientes a la fecha de la proposición y se dará a conocer al interesado, haciéndose constar en su expediente.
+
+Para que sirvan de antecedentes a la primera remisión parcial de la pena, el organismo técnico criminológico rendirá informes anuales a la Dirección de Gobernación, acerca de los datos que deben tomarse en cuenta para estimar la readaptación social del reo; informes que se rendirán dentro del mes de enero de cada año.
+
+Las remisiones parciales que se concedan no serán revocables.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1974)</small>
+
+###### ARTICULO 71.
+
+La remisión parcial de la sanción corporal, funcionará simultáneamente con el beneficio de la libertad preparatoria, independientemente de la procedencia de esta última. Los cómputos de ambos beneficios se regirán de acuerdo a las normas legales correspondientes.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -484,3 +584,15 @@ LIC. ALFREDO VALDES MONTOYA
 El Srio. Gral. de Gobierno
 
 LIC. FRANCISCO RODOLFO ALVAREZ FARBE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE AGOSTO DE 1974.
+
+###### ARTICULO PRIMERO.
+
+Los reos que al entrar en vigor el presente Decreto tengan cumplidas las dos quintas partes de sus sentencias, tendrán derecho a los beneficios objeto de estas reformas. Para tal efecto, la autoridad administrativa competente deberá elaborar, dentro de los tres meses siguientes a la vigencia de este Decreto, los estudios e informes relativos a la readaptación social de los reos, los cuales deberá remitir a la Dirección de Gobernación, junto con las proposiciones respectivas.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
