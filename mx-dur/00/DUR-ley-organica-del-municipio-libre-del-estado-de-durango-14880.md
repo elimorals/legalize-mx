@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-14880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-30"
-last_updated: "1999-05-30"
+last_updated: "2003-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de mayo de 1999.
 
@@ -597,9 +597,11 @@ En las faltas temporales por ausencia o licencia del Presidente Municipal que no
 
 La falta definitiva del presidente municipal será cubierta por el presidente municipal suplente, en caso de impedimento legal o físico de éste, el ayuntamiento elegirá al regidor que debe hacerse cargo de la presidencia.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2003)</small>
+
 ###### Artículo 53.
 
-Las faltas definitivas y las temporales por licencia de más de dos meses de los regidores y síndico propietarios, se cubrirán por los suplentes.
+Las faltas definitivas y las temporales por licencia de más de dos meses de los Regidores y Síndico Propietarios, se cubrirán por los suplentes. En caso de impedimento legal o físico de los suplentes, tratándose del Síndico, será cubierta por el Regidor que designe el Ayuntamiento; y en el caso de los regidores, se cubrirá la vacante con aquellos candidatos del mismo partido político que hubieren quedado en el lugar preferente en la lista respectiva.
 
 ###### Artículo 54.
 
@@ -1025,11 +1027,7 @@ El Juez Administrativo Municipal, dentro del ámbito de su competencia, cuidará
 
 El ayuntamiento, en su caso, aprobará dentro del presupuesto anual de egresos del municipio, las partidas presupuestales propias para sufragar los gastos del juzgado administrativo municipal, quien tendrá facultades para su ejercicio autónomo. Para ello, su titular deberá presentar oportunamente al ayuntamiento su programa de trabajo y su presupuesto de egresos.
 
-## TÍTULO QUINTO. DE LAS CAUSALES QUE DAN LUGAR A LA DESAPARICIÓN DE
-
-AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL
-
-O DEFINITIVA DE SUS MIEMBROS
+## TÍTULO QUINTO. DE LAS CAUSALES QUE DAN LUGAR A LA DESAPARICIÓN DE AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL O DEFINITIVA DE SUS MIEMBROS
 
 ### CAPÍTULO I. DE LAS CAUSALES QUE DAN LUGAR A LA DESAPARICIÓN DE AYUNTAMIENTOS
 
@@ -1966,3 +1964,9 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS ONCE
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER.
 
 EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE FEBRERO DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
