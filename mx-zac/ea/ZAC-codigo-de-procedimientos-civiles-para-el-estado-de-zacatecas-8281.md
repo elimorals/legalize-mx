@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "1989-12-30"
+last_updated: "1995-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
 
 Código Publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -2559,13 +2559,13 @@ V.- Si se tratare de sentencia definitiva, se dejará en el juzgado testimonio d
 
 I.- Sólo podrá admitirse la apelación en el efecto suspensivo en los siguientes casos:
 
-a)Cuando la ley de una manera expresa ordene que la apelación se admita en este efecto;
+a )Cuando la ley de una manera expresa ordene que la apelación se admita en este efecto;
 
-b)De las sentencias definitivas que se dicten en juicios que versen sobre divorcio o nulidad del matrimonio, y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
+b) De las sentencias definitivas que se dicten en juicios que versen sobre divorcio o nulidad del matrimonio, y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
 
-c)De las sentencias definitivas dictadas en los juicios ordinarios;
+c) De las sentencias definitivas dictadas en los juicios ordinarios;
 
-d)De los autos o sentencias interlocutorias que paralicen o pongan término al juicio, haciendo imposible su continuación.
+d) De los autos o sentencias interlocutorias que paralicen o pongan término al juicio, haciendo imposible su continuación.
 
 II.- En los casos a que se refiere este artículo, se suspenderá la ejecución de la sentencia o auto apelado, hasta que recaiga fallo del superior, y mientras tanto quedará en suspenso la tramitación del juicio en la parte afectada por el recurso. La suspensión no afecta las medidas puramente conservativas, lo concerniente a depósito, ni a las cuentas, gastos de administración y tampoco a las medidas de aseguramiento provisional de que habla la fracción siguiente;
 
@@ -3163,7 +3163,7 @@ III.- Bonos, acciones y demás valores que se coticen en bolsa;
 
 IV.- Créditos realizables en el acto;
 
-V.-Cuando exista convenio de las partes celebrado conforme a la ley, y no lesione derechos de tercero, y
+V.- Cuando exista convenio de las partes celebrado conforme a la ley, y no lesione derechos de tercero, y
 
 VI.- En los demás casos en que la ley lo determine.
 
@@ -3813,7 +3813,7 @@ Lo dispuesto en este artículo, y los beneficios de los plazos que se conceden e
 
 I.- Pago;
 
-II.- Impedimento total o parcial del uso de la cosa arrendada por caso fortuito o fuerza mayor, en los términos de los artículos 2384, 2385 y 2386 del Código Civil;
+II.- Impedimento total o parcial del uso de la cosa arrendada por caso fortuito o fuerza mayor, en los términos de los artículos 2384, 2385, 2386 del Código Civil, y
 
 III.- Privación de uso proveniente de la evicción, en los términos del artículo 238 del Código Civil, y;
 
@@ -5679,9 +5679,9 @@ En todos los casos la información se recibirá con citación del Ministerio Pú
 
 Los testigos deberán ser por lo menos tres de notorio arraigo en el lugar de la ubicación del inmueble a que la información se refiere.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1988)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE JUNIO DE 1995)</small>
 
-848 Bis.- En los casos previstos por las fracciones II y III del Artículo anterior, la información se recibirá previa publicación que de la misma se haga por tres veces, de tres en tres días en el Periódico Oficial, Organo del Gobierno del Estado. Y para el mismo efecto se fijará cédula en los estrados del Juzgado en el tablero de avisos de la Presidencia Municipal, asentando razón de ello en el expediente. Debiéndose practicar igualmente, previa a la recepción de la información , inspección ocular de los inmuebles de que se trate.
+848 BIS.- En los casos previstos por las fracciones II y III del artículo anterior, la información se recibirá previa publicación que de la misma se haga por tres veces, de tres en tres días en el Periódico Oficial del Gobierno del Estado y en otro periódico local de amplia circulación. Para el mismo efecto se fijará un ejemplar de la solicitud en los estrados del juzgado en el tablero de avisos de la Presidencia Municipal de ubicación del inmueble, asentando razón de ello en el expediente.
 
 849.- El juez procurará ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho. Igual obligación tendrá el Ministerio Público.
 
@@ -6104,3 +6104,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los juicios iniciados, pendientes de dictar sentencia en primera instancia, se regirán por las disposiciones de este Decreto.
+
+P.O. 7 DE JUNIO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
