@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1979-09-14"
+last_updated: "1980-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -609,7 +609,7 @@ El Gobernador será electo cada seis años y tomará posesión de su cargo el d�
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
-El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
@@ -765,7 +765,9 @@ El cargo de Gobernador sólo es renunciable por causa grave que calificará el C
 
 Se deposita el ejercicio del Poder Judicial en un Tribunal Superior de Justicia, en Juzgados de lo Civil, Juzgados de lo Familiar, Juzgados de lo Penal, Juzgados de Jurisdicción Mixta, Alcaldes Judiciales y en los demás funcionarios y auxiliares de la Administración de Justicia, en los términos que establezca la Ley.
 
-El Tribunal Superior de Justicia del Estado se compondrá de 6 Magistrados. Las faltas de ellos se suplirán como lo disponga la propia Constitución y la Ley Orgánica del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1980)</small>
+
+El Tribunal Superior de Justicia del Estado se compondrá de SIETE MAGISTRADOS. Las faltas de ellos se suplirán como lo disponga la propia Constitución y la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 1o. DE ENERO DE 1979)</small>
 
@@ -1625,7 +1627,7 @@ P.O. 14 DE SEPTIEMBRE DE 1979.
 
 DECRETO NUMERO 254
 
-UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor el siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 14 DE SEPTIEMBRE DE 1979.
 
@@ -1636,3 +1638,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 P.O. 14 DE SEPTIEMBRE DE 1979.
 
 UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 1980.
+
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
