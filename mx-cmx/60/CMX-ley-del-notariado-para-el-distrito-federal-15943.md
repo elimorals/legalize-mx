@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2000-09-14"
+last_updated: "2004-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -194,21 +194,23 @@ Las autoridades podrán requerir de los notarios la prestación de sus servicios
 
 Los notarios participarán también, con tarifas reducidas y convenidas por el Colegio con las autoridades correspondientes, en programas de fomento a la vivienda y regularización de la tenencia de la propiedad inmueble.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 18.
 
-Las dependencias y entidades de la Administración Pública del Distrito Federal que realizan actividades relacionadas con la regularización de la propiedad de inmuebles y el fomento a la vivienda en el Distrito Federal, requerirán los servicios únicamente de notarios de esta entidad federativa para el otorgamiento de las escrituras relativas. Las instrucciones correspondientes serán giradas al colegio el cual las turnará a sus miembros por escrito orden y con apego a la equidad.
+Únicamente los Notarios del Distrito Federal otorgarán las escrituras en las que intervengan las autoridades y organismos de vivienda del Distrito Federal, y de la Federación, cuando éstos actúen respecto de algún inmueble ubicado en esta entidad. En todo caso, recibidas las instrucciones correspondientes por el Colegio, éste turnará a sus miembros dichos asuntos por estricto orden y con apego a la equidad.
 
-Para los efectos de este artículo, los notarios respetarán un estricto orden de insaculación, conforme al siguiente procedimiento:
+Los instrumentos que se autoricen por Notario no designado en cumplimiento al orden estricto a que se refiere el párrafo anterior, serán nulos, en los términos de la fracción II del artículo 162 de esta ley.
 
-El titular de la Dirección General Jurídica y de Estudios Legislativos, el titular de la Dirección General de Legalidad y Responsabilidades y el Presidente del Consejo del Colegio, llevarán a cabo la insaculación, depositando en una urna el orden en que se vayan sorteando. De dicha insaculación se levantará acta pormenorizada que será firmada por las personas mencionadas, debiendo el Consejo hacerla del conocimiento de todos los miembros del Colegio, en un plazo que no excederá de cinco días hábiles siguientes a la fecha de su firma.
+Para los efectos de este artículo, los Notarios participantes, el Consejo del Colegio y las dependencias señaladas en el primer párrafo, respetarán un estricto orden de prelación en el procedimiento siguiente:
 
-Cada nuevo notario se incorporará intercalado en el orden establecido por insaculación, ocupando el turno inmediato siguiente que tenga lugar en el momento de su inicio de ejercicio profesional.
+El titular de la Dirección General Jurídica y de Estudios Legislativos, el titular de la Dirección General de Legalidad y Responsabilidades y el Presidente del Consejo del Colegio llevarán a cabo un procedimiento de insaculación, para lo cual el Colegio elaborará la relación de los Notarios que hayan manifestado su voluntad de participar en los programas de vivienda a que se refiere este artículo, depositando en una urna el nombre y número de cada uno de ellos, elaborando en una lista el riguroso orden en que se vayan sorteado. De este procedimiento de insaculación se levantará un acta pormenorizada que será firmada por las personas que intervengan, debiendo el Consejo hacerla del conocimiento de todos los miembros del Colegio, en un plazo que no exceda de cinco días hábiles siguientes a la fecha de su firma, asimismo deberá proporcionarse copia a cada una de las autoridades que participan en el proceso, y a las dependencias que se refiere el primer párrafo de este artículo.
 
-El colegio informará mensualmente a las autoridades competentes, en los primeros cinco días hábiles de cada mes, los turnos que hubiere hecho durante el mes anterior.
+Cada Notario integrante del Colegio que manifieste a la Dirección General Jurídica y de Estudios Legislativos y al propio Colegio su voluntad de participar en la formalización de escrituras relativas a los programas de vivienda a que se refiere este artículo, se incorporará intercalado en el orden establecido por insaculación, ocupando el turno inmediato siguiente que tenga lugar en el momento de su solicitud de incorporación.
 
-Los notarios dejarán constancia en el texto de cada instrumento, de las instrucciones recibidas.
+El Colegio informará mensualmente a las autoridades competentes, dentro de los primeros cinco días hábiles de cada mes, los turnos que hubieren hecho durante el mes anterior.
+
+Los Notarios dejarán constancia en el texto de cada instrumento, de las instrucciones recibidas.
 
 ###### Artículo 19.
 
@@ -1294,7 +1296,7 @@ III. Cuando dicha reproducción no tenga la firma o sello del notario.
 
 ###### Artículo 164.
 
-Cuando se expida un testimonio por Notario, o cuando así corresponda, por el titular del Archivo, se asentará una nota complementaria que contendrá la fecha de expedición, el número de hojas de que conste el testimonio, el número ordinal que corresponda a éste, según los artículos 146 y149 de esta Ley, así como para quién se expida y a qué título. Las constancias sobre los asientos de inscripción puestas por los registros públicos correspondientes al calce de los testimonios, serán relacionadas o transcritas por el Notario en una nota complementaria del instrumento. En todo caso, las notas complementarias llevarán la rúbrica o media firma del Notario.
+Cuando se expida un testimonio por Notario, o cuando así corresponda, por el titular del Archivo, se asentará una nota complementaria que contendrá la fecha de expedición, el número de hojas de que conste el testimonio, el número ordinal que corresponda a éste, según los artículos 146 y 149 de esta Ley, así como para quién se expida y a qué título. Las constancias sobre los asientos de inscripción puestas por los registros públicos correspondientes al calce de los testimonios, serán relacionadas o transcritas por el Notario en una nota complementaria del instrumento. En todo caso, las notas complementarias llevarán la rúbrica o media firma del Notario.
 
 ###### Artículo 165.
 
@@ -2191,3 +2193,11 @@ G.O. 14 DE SEPTIEMBRE DE 2000.
 PRIMERO.- El presente decreto entrará en vigor un día después de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. La insaculación efectuada por la Dirección General Jurídica en cumplimiento de lo ordenado por el artículo 18 de esta Ley se mantendrá vigente para todos los efectos previstos por este ordenamiento.
+
+G.O. 29 DE ENERO DE 2004.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- En tanto se expidan las disposiciones administrativas que deriven de las presentes adiciones y modificaciones seguirán en vigor aquellas que no las contravengan.
