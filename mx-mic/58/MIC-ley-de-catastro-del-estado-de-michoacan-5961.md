@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-5961"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-05"
-last_updated: "1991-12-30"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 5 de marzo de 1984.
 
@@ -51,63 +51,41 @@ El Catastro, para efectos de esta Ley, es el inventario analítico y registro de
 
 El Catastro tiene como objeto el registro de los datos que permiten conocer las características cuantitativas y cualitativas de los bienes inmuebles mediante la formación y conservación de los padrones catastrales con aplicación multifinalitaria.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 4o.
 
-Todos los bienes inmuebles ubicados dentro del territorio del Estado de Michoacán, deberán inscribirse en el Catastro y estar contenidos en los padrones cartográfico, alfabético y numérico.
+Todos los bienes inmuebles ubicados dentro del territorio del Estado de Michoacán, deberán inscribirse en el Catastro y estar contenidos en los padrones que serán los siguientes:
 
-I. El padrón cartográfico es el constituido por:
+I. Cartográfico, que es el conjunto de planos que permite conocer en forma gráfica, las características cuantitativas y cualitativas de los inmuebles ubicados en el Estado.
 
-a) El plano general catastral del Estado.
+II. Descriptivo, que es el conjunto de datos que permite identificar los predios ubicados en el territorio del Estado y a sus propietarios o poseedores, a través de los siguientes datos.
 
-b) EI plano general catastral de cada Municipio.
+a) Nombre del propietario o poseedor del predio;
 
-c) Los planos generales catastrales de las zonas urbanas y rústicas.
+b) Ubicación del predio, indicando calle, número exterior e interior en su caso y/o lote y manzana, colonia, fraccionamiento, localidad y Municipio;
 
-d) Los planos de las regiones o sectores en los que se dividan las zonas catastrales.
+c) Domicilio para oír notificaciones;
 
-e) Los planos catastrales de cada manzana.
+d) Clave catastral, número de cuenta y número del predio;
 
-f) Los planos catastrales de cada predio.
+e) Naturaleza del predio (Rústico o urbano), y en su caso denominación del predio;
 
-II. El padrón alfabético es el constituido por:
+f) Calidad de la posesión y en su caso número y fecha del título de propiedad;
 
-a) Nombre del propietario o poseedor del predio.
+g) Nacionalidad del propietario o poseedor;
 
-b) Ubicación del predio, indicando calle y número y/o lote y manzana, en su caso.
+h) Uso y destino de cada predio;
 
-c) Domicilio para oír notificaciones.
+i) Código Postal;
 
-d) Clave catastral, número de cuenta y número de predio.
+j) Superficie especificada en el documento que acredite la propiedad o la posesión;
 
-e) Naturaleza del predio. (rústico o urbano)
+k) Número, superficie y medidas de linderos de avalúo, y fecha de su notificación; y
 
-f) Calidad de la posesión y en su caso número y fecha del título de propiedad
+l) Valor catastral;
 
-g) Nacionalidad del propietario o poseedor.
-
-h) Uso y destino de cada predio.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-i) Código Postal; y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-j) Población y Municipio de ubicación del predio.
-
-III. El padrón numérico es el constituido por:
-
-a) Clave catastral, número de cuenta y número de predio.
-
-b) Ubicación del predio, indicando calle y número y/o lote y manzana, en su caso.
-
-c) Superficie del predio.
-
-d) Avalúo del predio.
-
-e) Nombre del propietario o poseedor.
-
-f) Los datos cartográficos necesarios.
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 5o.
 
@@ -143,11 +121,15 @@ IX. Zona urbana: las superficies constituidas por las áreas que componen los ce
 
 X. Zonas rústicas; las superficies Constituidas por las áreas localizadas fuera de los límites de los centros de población;
 
-XI. Construcciones: las obras de cualquier tipo, destino o uso, inclusive los equipos e instalaciones adheridos a ellas, clasificadas en:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XI. Construcciones: las obras de cualquier tipo, destino o uso clasificadas en:
 
 a) Provisionales: las que por su tipo tienen un aprovechamiento transitorio; en los casos dudosos, la autoridad catastral determinará si las construcciones son o no provisionales.
 
-b) Permantes: las que estén en un predio en forma fija, incluyendo los equipos e instalaciones que forman parte integrante de las mismas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+b) Permanentes: las que estén en un predio en forma fija;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -161,9 +143,13 @@ XIII. Condominio: el inmueble construido en forma vertical, horizontal o mixta s
 
 XIV. División: la partición de un predio en dos o mas;
 
-XV: Fusión: la unión de dos o más predios colindantes en uno solo;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-XVI. Valor unitario: es el valor asignado por unidad de superficie para predios urbanos y rústicos;
+XV. Fusión: la unión de dos o más predios colindantes en uno solo, siempre y cuando pertenezcan al mismo propietario;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XVI. Valor unitario: es el valor asignado por unidad de mediad (sic) de superficia (sic) tanto de terreno como de construcción, para predios urbanos y rústicos;
 
 XVII. Valuación: la determinación del valor catastral de los predios conforme a los preceptos de esta Ley y su reglamento;
 
@@ -185,9 +171,11 @@ XXII. Predio en breña: el que está localizado dentro de la zona urbana, que ca
 
 ### CAPITULO SEGUNDO. DE LA AUTORIDAD CATASTRAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 6o.
 
-Es autoridad catastral el Ejecutivo del Estado quien a través de la Tesorería General, tendrá a su cargo el ejercicio de las acciones catastrales en la entidad.
+Es autoridad catastral: el Titular del Ejecutivo quien a través de la Tesorería General del Estado, tendrá a su cargo el ejercicio de las acciones catastrales en la entidad.
 
 ### CAPITULO TERCERO. DE LAS ACCIONES CATASTRALES
 
@@ -201,7 +189,9 @@ I. Localización y levantamiento topográfico y aerofoto gramétrico de los pred
 
 II. Formación y conservación de los padrones catastrales;
 
-III. Elaboración de estudios para conocer el valor real de los inmuebles ubicados en el territorio del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+III. Elaboración de estudios para conocer el valor real de los predios ubicados en el territorio del Estado;
 
 IV. Valuación de predios;
 
@@ -209,9 +199,9 @@ V. Notificación de valores catastrales;
 
 VI. Medición y deslinde catastral;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VII. Certificación de documentos relativos a los predios;
+VII. Expedición de certificados de existencia o inexistencia de registros catastrales y certificación de documentos relativos a los predios;
 
 VIII. Auxilio en el deslinde y descripción de los perímetros divisorios entre el Estado y las Entidades limítrofes, así como los limites de los Municipios que lo integran.
 
@@ -226,6 +216,26 @@ X. Ratificar, y en su caso, rectificar los registros catastrales cuando así pro
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 XI. Elaborar los proyectos de valares unitarios de terreno y construcción de predios urbanos y rústicos.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XII. Realizar los estudios técnicos para la determinación de la ubicación física de predios;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XIII. Realizar inspecciones oculares a los predios para determinar las características cualitativas y cuantitativas de los mismos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XIV. Registrar el nacimiento de nuevos predios o la cancelación en su caso;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XV. Registro de predios ignorados y excedencias de superficie para efectos catastrales; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XVI. Elaboración de avalúos aplicando valores comerciales solicitados por Dependencias Oficiales.
 
 ###### ARTICULO 8o.
 
@@ -253,9 +263,9 @@ Con base en la actualización a que se refiere el párrafo anterior, se faculta 
 
 Los valores unitarios de terreno y construcción que apruebe el Congreso del Estado, conforme al artículo 9o. de esta ley, se actualizarán para aplicarse en el año de que se trate, a lo que resulte de multiplicar los valores vigentes durante el año de calendario anterior, por el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor correspondiente al mes de noviembre de dicho año, entre el Indice Nacional de Precios al consumidor del mes de noviembre del año precedente, que publique el Banco de México.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Los resultados que se obtengan de realizar las operaciones a que se refiere el párrafo anterior, se ajustarán a la unidad de millar más próxima.
+Los resultados que se obtengan de realizar las operaciones a que se refiere el párrafo anterior, se ajustarán a la unidad monetaria más próxima.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -273,17 +283,23 @@ IV. Teniendo un valor provisional, se le fije técnicamente el valor catastral d
 
 V. Los predios se dividan, fusionen o sean motivo de fraccionamiento;
 
-VI. Por ejecución de obras públicas, resulten afectados o beneficiados con las mismas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI. Por ejecución de obras públicas, resulten perjudicados o beneficiados con las mismas;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 VII. El predio sea objeto de trasmisión de dominio;
 
-VIII. Se cambie el régimen de propiedad individual por el de condominio, y
+VIII. Se cambie el régimen de propiedad individual por el de condominio, y (sic)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-IX. Se cambie el régimen rústico a urbano.
+IX. Se cambie el régimen rústico a urbano;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+X. Deba corregirse el régimen registrado como urbano, cuando por las características reales del predio sea rústico.
 
 ###### ARTICULO 13.
 
@@ -293,9 +309,9 @@ En los casos en que no se pueda determinar técnicamente el valor catastral de u
 
 La Tesorería General del Estado, practicará las actuaciones de medición y deslinde catastral, en atención a la solicitud de los interesados o por interés propio, con objeto de ratificar o rectificar la situación real de los linderos y superficies de un predio.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Para los efectos a que se refiere el párrafo anterior, se tomará como base el documento mediante el que acredite la propiedad o posesión, así como los datos del Registro Catastral correspondiente.
+Para los efectos a que se refiere el párrafo anterior, se tomará como base el documento mediante el que acredite la propiedad o posesión así como los datos del registro catastral correspondiente, y sólo se prestará el servicio a quien compruebe la propiedad o la posesión del predio de que se trata.
 
 ###### ARTICULO 15.
 
@@ -307,9 +323,11 @@ El resultado de estas actuaciones catastrales y en su caso las observaciones de 
 
 En caso de no llegar a una conformidad plena con los propietarios o poseedores de predios colindantes, se hará constar en el acta o se dejarán a salvo los derechos de los interesados.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 16.
 
-La autoridad catastral, expedirá copias certificadas de planos y documentos relativos a los predios, previo pago de los derechos que determine la Ley de Ingresos del Estado.
+La autoridad catastral podrá expedir copias heliográficas o fotostáticas certificadas o simples de planos y demás documentos relativos a los predios, así como certificados catastrales a los promoventes que acrediten su interés jurídico, previo el pago de los derechos que determine la Ley de Ingresos del Estado.
 
 ### CAPITULO CUARTO. DE LA VALUACION CATASTRAL
 
@@ -317,11 +335,11 @@ La autoridad catastral, expedirá copias certificadas de planos y documentos rel
 
 La valuación catastral tiene por objeto asignar valores a los bienes inmuebles ubicados dentro del Estado, de acuerdo al presente ordenamiento y a su reglamento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 18.
 
-El valor catastral de los predios se determinará mediante cualquiera de los procedimientos técnicos de valuación.
+El valor catastral de los predios se determinará mediante cualquiera de los procedimientos técnicos en los términos del Reglamento de esta Ley.
 
 ###### ARTICULO 19.
 
@@ -331,9 +349,7 @@ La valuación catastral de los predios deberá considerar invariablemente el val
 
 Para efectuar el proceso de valuación de los predios urbanos, deberá partirse del valor unitario de terreno aplicable a la calle o zona de su ubicación conforme a los procedimientos que se establezcan en el Reglamento de esta Ley.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-Para la valuación de los predios en breña a que se refiere la fracción XXII del artículo 5o. de esta Ley, se aplicarán los valores unitarios de terreno en un 50%.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 21.
 
@@ -399,35 +415,39 @@ Asimismo la Tesorería General del Estado podrá celebrar convenios con los Ayun
 
 ### CAPITULO SEXTO. DE LOS FRACCIONAMIENTOS Y CONDOMINIOS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 31.
 
-La Secretaría de Urbanismo y los Ayuntamientos comunicarán por escrito a la autoridad catastral, de las solicitudes de concesión o autorización de fraccionamientos o condominios, para que con base en los datos contenidos en las solicitudes, verifique la situación catastral de los predios e informe sobre la misma a los primeros, para la continuación de los trámites respectivos.
+La autoridad competente comunicará por escrito a la autoridad catastral, de las solicitudes de concesión o autorización de fraccionamientos, subdivisiones o condominios, para que con base en los datos contenidos en las solicitudes, verifique la situación catastral de los predios e informe sobre la misma a los primeros, para la continuación de los trámites respectivos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 32.
 
-Las personas físicas o morales que obtengan de la Secretaría de Urbanismo, dictamen aprobatorio de uso del suelo para fraccionar un terreno o establecer un condominio, deberán solicitar por escrito a la autoridad catastral, la medición y deslinde del predio afectado.
+Las personas físicas o morales que obtengan de la autoridad competente dictamen aprobatorio de uso del suelo para fraccionar un terreno o establecer un condominio, deberán solicitar por escrito a la autoridad catastral, la medición y deslinde del predio afectado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 33.
 
-La Secretaría de Urbanismo remitirá a la autoridad catastral los planos de lotificación autorizados, para fraccionar un terreno o establecer un condominio. Esta autoridad, para su registro y control, asignará el número, la clave y el valor catastral correspondiente a cada predio del fraccionamiento, o a cada local o apartamento del condominio.
+La autoridad competente remitirá a la autoridad catastral, los planos de subdivisión y los de lotificación autorizados para fraccionar un terreno o establecer un condominio. Esta autoridad, para su registro y control, asignará el número de predio, la clave y el valor catastral correspondiente a cada nuevo predio de la subdivisión, del fraccionamiento y a cada local o apartamento del condominio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Para efectos de la asignación del valor catastral a cada local o apartamento del condominio, se tomarán en cuenta las especificaciones relativas a áreas privativas, áreas comunes, el indiviso y las características de la construcción, determinadas en la escritura constitutiva correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 34.
 
-La Secretaría de Urbanismo deberá comunicar a la autoridad catastral cualquier modificación de planos de lotificación autorizados originalmente para fraccionamientos o condominios, con objeto de actualizar los padrones catastrales.
+La autoridad competente deberá comunicar a la autoridad catastral, cualquier modificación de planos de lotificación autorizados originalmente para fraccionamientos, subdivisiones o condominios, con objeto de actualizar los padrones catastrales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 35.
 
-La Secretaría de Urbanismo comunicará a la autoridad catastral la terminación de las obras de urbanización del fraccionamiento o edificación del condominio, para que ésta proceda a efectuar las acciones catastrales correspondientes.
+La autoridad competente comunicará a la autoridad catastral la terminación de las obras de urbanización del fraccionamiento o edificación del condominio, para que ésta proceda a efectuar las acciones catastrales correspondientes.
 
 ###### ARTICULO 36.
 
@@ -443,13 +463,13 @@ Los Fedatarios Públicos no autorizarán las escrituras de los actos señalados 
 
 De celebrarse dichos contratos y se transmita la posesión de algún predio o condominio, la Tesorería General hará del conocimiento de esa irregularidad a las autoridades correspondientes, para que apliquen a los infractores las sanciones a que haya lugar.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 38.
 
-La Tesorería General del Estado, efectuará las acciones catastrales correspondientes, cuando se realicen total o parcialmente, fraccionamientos o condominios sin la autorización de las autoridades competentes y comunicará de inmediato esta situación a las mismas, para que impongan las sancione que procedan.
+La autoridad catastral, efectuará las acciones catastrales correspondientes, cuando se realicen total o parcialmente, fraccionamientos, subdivisiones o condominios sin la autorización de las autoridades competentes y comunicará de inmediato esta situación a las mismas, para que impongan las sanciones que procedan.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-En estos casos, se suspenderá el trámite de documentos transmitivos de dominio relativos a operaciones de los predios que se encuentren en dichos supuestos, hasta en tanto sean autorizados los fraccionamientos o establecidos los condominios.
+En estos casos, se suspenderá el trámite de documentos transmitivos de dominio relativos a operaciones de los predios que se encuentran en dichos supuestos, hasta en tanto sean autorizados los fraccionamientos, subdivisiones o condominios.
 
 ### CAPITULO SEPTIMO. DE LAS OBLIGACIONES CATASTRALES
 
@@ -457,17 +477,49 @@ En estos casos, se suspenderá el trámite de documentos transmitivos de dominio
 
 Los propietarios o poseedores de bienes inmuebles ubicados en la entidad o sus representantes legales, tienen la obligación de manifestarlos en los términos y formas oficiales que para el caso apruebe la Tesorería General.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 40.
 
-Las ampliaciones o modificaciones a las construcciones existentes, las nuevas construcciones, la fusión o división de predios, deberán ser manifestadas por su propietario o poseedor a la Tesorería General, dentro de los quince días hábiles siguientes a su terminación o modificación, utilizando para ello las formas oficiales.
+Las ampliaciones o modificaciones a las construcciones existentes, las nuevas construcciones en predios, deberán ser manifestadas por su propietario o poseedor a la autoridad catastral, dentro de los quince días hábiles siguientes a su terminación o modificación, utilizando para ello las formas oficiales aprobadas para tal efecto.
 
 ###### ARTICULO 41.
 
 Los propietarios, poseedores o inquilinos del predio están obligados a proporcionar a los funcionarios y empleados de la Tesorería General el acceso al mismo, así como toda la información que se les solicite a efecto de llevar a cabo los trabajos de localización, levantamiento, deslinde y fijación de valores.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 42.
 
-Las dependencias oficiales, los Fedatarios Públicos o cualesquiera otros funcionarios que conozcan o autoricen actos que modifiquen la situación de los bienes inmuebles están obligados a manifestarlos a la Tesorería General en las formas oficiales que para el efecto existan, en un plazo no mayor de quince días hábiles.
+Las dependencias oficiales, los fedatarios públicos o cualesquiera otros funcionarios que conozcan o autoricen actos que modifiquen la situación de los bienes inmuebles están obligados a manifestarlos a la autoridad catastral, en las formas oficiales aprobadas por ésta para tales efectos, en un plazo no mayor de quince días hábiles a partir de:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+I. En los casos de transmisión de dominio de la propiedad, o de sus derechos:
+
+a) La fecha de firma de la escritura pública o privada por los otorgantes o representantes legales, los testigos o intérpretes si los hubiere;
+
+b) La fecha en que hubiere causado ejecutoria o estado la resolución judicial o se hubiere notificado la resolución administrativa; y
+
+c) Las (sic) fecha de celebración del contrato privado o documento de que se trate.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+II. Cuando las modificaciones se refieran a las construcciones, se estará a lo dispuesto por el artículo 40 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+III. Cuando las modificaciones procedan de autorización oficial a partir de la fecha de ésta.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+En los casos a que se refiere la fracción I, cuando el documento en que se formalice la transmisión de dominio se opere fuera del territorio del Estado de Michoacán, el plazo será de 30 días hábiles.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 42-A.
+
+En el Registro Público de la Propiedad y del Comercio, no se inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles, mientras no le sea acreditado el registro de Catastro correspondiente; en los casos de la nuda propiedad, no podrá cancelar la inscripción de usufructo si no se le comprueba que previamente se realizó el movimiento catastral.
 
 ### CAPITULO OCTAVO. DE LAS NOTIFICACIONES
 
@@ -561,25 +613,29 @@ La autoridad catastral, examinará los motivos expuestos y las pruebas aportadas
 
 Para el caso de que la autoridad catastral requiera realizar trabajos de rectificación de superficies, citación a interesados o concurrencia a inspección ocular, se amplía el término para resolver a noventa días hábiles.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ### CAPITULO DECIMO PRIMERO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADA CON LOS ARTICULOSQUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 I. DEL PROCEDIMIENTO SOBRE VARIACIONES CATASTRALES DE BIENES HEREDITARIOS.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 52.
 
-El Tesorero General del Estado, a su juicio puede autorizar la variación de cuentas catastrales sobre bienes hereditarios, si éstos en la fecha de presentación de la solicitud no rebasan un valor de $17'000,000.00, mismo que se determinará mediante avalúo catastral practicado por perito que designe la Tesorería General del Estado, y siempre que las pruebas que presenten; los interesados sean bastantes para acreditar el parentesco de éstos con el autor de la herencia.
+El Tesorero General del Estado, a su juicio puede autorizar la variación de cuentas catastrales sobre bienes hereditarios, si éstos en la fecha de presentación de la solicitud no rebasan un valor de N$ 30,000.00, mismo que se determinará mediante avalúo catastral practicado por perito que designe la Tesorería General del Estado, y siempre que las pruebas que presenten los interesados sean bastantes para acreditar el parentesco de éstos con el autor de la herencia.
 
-El Gobernador del Estado, podrá autorizar que se siga el procedimiento anterior, cuando el valor de los bienes rebasen el límite señalado en el párrafo anterior pero no el de $25'000,000.00. El acuerdo respectivo deberá ser por escrito, fundarse y motivarse en razones sociales que los justifiquen.
+El Gobernador del Estado, podrá autorizar que se siga el procedimiento anterior, cuando el valor catastral de los bienes rebase el límite señalado en el párrafo anterior pero no el de N$ 40,000.00. El acuerdo respectivo deberá ser por escrito, fundarse y motivarse en razones sociales que lo justifiquen.
 
 Los valores mencionados de los párrafos anteriores, se actualizarán para aplicarse en el año de que se trate, atendiendo a la fecha de presentación de la solicitud correspondiente, a lo que resulte de multiplicar el valor de los bienes, vigente durante el año de calendario anterior, por el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor correspondiente al mes de noviembre de dicho año entre el Indice Nacional de Precios al Consumidor del mes de noviembre del año precedente, que publique el Banco de México.
 
-Los resultados que se obtengan de realizar las operaciones a que se refiere el párrafo anterior, se ajustarán a la centena de millar más próxima.
+Los resultados que se obtengan de realizar las operaciones a que se refiere el párrafo anterior, se ajustarán a la unidad monetaria más próxima.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+También procederá que el Tesorero General del Estado, autorice la variación catastral de bienes hereditarios, independientemente del valor catastral de los mismos, cuando los presuntos herederos sean menores de edad o personas incapacitadas físicamente para trabajar y el caudal hereditario esté integrado únicamente por un predio. En estos casos, la gestión deberá ser realizada por el representante legal nombrado por autoridad competente en los términos de la Legislación Civil del Estado de Michoacán.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -635,11 +691,11 @@ III. En el caso de que durante el procedimiento administrativo surja oposición 
 
 II. DEL PROCEDIMIENTO SOBRE HERENCIAS VACANTES
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 60.
 
-Se entenderá por herencias vacantes, los bienes sucesorios que adquiera el Fisco del Estado por falta de herederos legítimos.
+Se entiende por herencias vacantes, los bienes sucesorios que a falta de herederos legítimos tiene derecho a adquirir el Fisco del Estado.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -677,11 +733,11 @@ Los recaudadores de rentas que no envíen las denuncias a la Tesorería General 
 
 Una ve declarado heredero el Fisco del Estado por resolución judicial firme, la Tesorería General del Estado y los recaudadores de rentas, en sus respectivos casos, recabarán copia certificada de dicha resolución y del inventario, procediendo a realizar las gestiones necesarias para su inscripción tanto en el Catastro como en el Registro Público de la Propiedad en el Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 67.
 
-El Fisco del Estado, no requerirá diligencias o acto especial para adquirir la posesión de los bienes sobre los que haya sido declarado heredero, porque dicha transmisión será simultánea a la declaración.
+El Fisco del Estado, no requerirá diligencias o acto especial para adquirir la posesión de los bienes sobre los que haya sido declarado heredero, porque dicha transmisión será simultánea a la declaración; en tal virtud, si éstos estuviesen ocupados por terceras personas, el Fisco del Estado otorgará un plazo no mayor de seis meses para su desocupación; si transcurrido dicho plazo no le es entregado por sus ocupantes, el Fisco del Estado formulará la demanda correspondiente ante la autoridad competente, a efecto de entrar en posesión material de los mismos.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -707,7 +763,7 @@ Al denunciante de una herencia vacante, se le abonará una cuarta parte del prod
 
 ###### ARTICULO 71.
 
-Para los efectos del artículo anterior, cuando los bienes sucesorios no fueren enajenados, se tomará como base el avalúo que formule el perito que corresponda la cantidad que resulte, será pagada al denunciante por la Tesorería General del Estado, o en su caso, por la Universidad Michoacana de San Nicolás de Hidalgo.
+Para los efectos del artículo anterior, cuando los bienes sucesorios no fueren enajenados, se tomará como base el avalúo que formule el perito que corresponda. La cantidad que resulte, será pagada al denunciante por la Tesorería General del Estado, o en su caso, por la Universidad Michoacana de San Nicolás de Hidalgo.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -795,7 +851,11 @@ A la persona que denuncie ante la Tesorería General del Estado, la existencia d
 
 Las personas que se crean con derecho sobre algún inmueble declarado mostrenco, deberán denunciarlo ante el juez competente dentro del término de ciento ochenta días naturales, contados desde la fecha en que se inscriba en el Registro Público de la Propiedad en el Estado, el acuerdo correspondiente. Transcurrido ese plazo, quedará prescrito el derecho de cualquier reclamante.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+IV. DEL PROCEDIMIENTO SOBRE PREDIOS IGNORADOS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 83.
 
@@ -817,7 +877,9 @@ En caso de que los presuntos dueños de predios ignorados carezcan de título de
 
 I. Si se trata de bienes de alguna herencia vacante o inmueble mostrenco, hecho que certificará el recaudador de rentas del lugar en que aquellos estén ubicados.
 
-II. Si durante la tramitación de la solicitud se presentaran reclamaciones justificadas de tercero, oponiéndose a la inscripción en el Catastro.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+II. Si durante la tramitación de la solicitud se presentaran reclamaciones justificadas de tercero, oponiéndose a la inscripción en el Catastro; se considera que una reclamación de tercero está justificada, cuado a ella se acompañen pruebas documentales que desvirtúen el contenido de la manifestación en trámite.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -830,6 +892,14 @@ Concluido el plazo de quince días hábiles siguientes a la fecha de la publicac
 Los acuerdos que autorice la inscripción catastral de predios ignorados, no constituye título de propiedad en favor de los manifestantes.
 
 Los registros catastrales a que se refiere el párrafo anterior, podrán ser cancelados o modificados, cuando se acredite que sus datos son erróneos o falsos, previo acuerdo del Tesorero General del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 86-A.
+
+Con las mismas formalidades contenidas en los artículos 83 al 86 de esta Ley, podrán inscribirse en el Catastro del Estado, los predios ignorados del conocimiento fiscal que sean detectados por la autoridad catastral. En este caso, y siempre que el predio de que se trate se encuentre ocupado, la autoridad conminará a sus propietarios o poseedores para que realicen la manifestación correspondiente en un plazo de 30 días; de no efectuarla, la propia autoridad hará la manifestación correspondiente a nombre del Fisco del Estado, notificando copia de la misma a quien se encuentre en posesión del inmueble.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ### CAPITULO DECIMO SEGUNDO. DISPOSICIONES GENERALES
 
@@ -868,12 +938,6 @@ Los propietarios o poseedores de predios o sus representantes legales, deberán 
 Los propietarios o poseedores de predios, están obligados a dar aviso a la autoridad catastral, del cambio de su domicilio para oír notificaciones, dentro de los quince días hábiles siguientes a la fecha que éste se efectúe.
 
 Si no lo hicieren, se tendrá como legal el que hubieren señalado con anterioridad o el del predio mismo.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
-
-IV. DEL PROCEDIMIENTO SOBRE PREDIOS IGNORADOS
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ## TRANSITORIOS
 
@@ -942,3 +1006,13 @@ El tercer párrafo del artículo 52 de la Ley de Catastro del Estado de Michoac�
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a la presente ley.
+
+P.O. 31 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En atención a la nueva Unidad Monetaria, los valores catastrales y los unitarios vigentes al 31 de diciembre de 1992, se ajustarán a su equivalente en el nuevo peso.
