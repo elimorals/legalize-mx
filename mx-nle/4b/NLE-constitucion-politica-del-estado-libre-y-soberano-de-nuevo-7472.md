@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2003-10-02"
+last_updated: "2003-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -369,11 +369,11 @@ En el año de la elección del Titular del Poder Ejecutivo, el Congreso celebrar
 
 Tanto para la instalación como para la apertura de sesiones del Congreso se requiere la presencia de la mayoría de los diputados, de no reunirse por cualquier causa el quórum necesario, una vez que éste haya sido completado, el Congreso decidirá sobre la manera de compensar las faltas del inicio del período y tomará las providencias necesarias para que la Legislatura se integre en los términos previstos en esta Constitución.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 57.
 
-Durante la primera quincena del mes de junio, dentro del Segundo Período Ordinario de Sesiones, concurrirá al Congreso el Gobernador, así como los Magistrados del Tribunal Superior de Justicia, para que en sesión solemne a la que convocará el propio Congreso, el Ejecutivo presente por escrito un informe sobre la situación y perspectivas generales que guardan el Estado y la Administración Pública. El Presidente del Congreso del Estado dará respuesta en términos generales al informe que rinda el Gobernador.
+Durante la primera quincena del mes de octubre concurrirá al Congreso el Gobernador, así como los Magistrados del Tribunal Superior de Justicia, para que en Sesión Solemne, a la que convocará el propio Congreso, el Ejecutivo presente por escrito un informe sobre la situación y perspectivas generales que guardan el Estado y la Administración Pública. El Presidente del Congreso del Estado dará respuesta en términos generales al informe que rinda el Gobernador. En el año de la elección del Titular del Poder Ejecutivo, el informe deberá presentarse dentro de los diez días anteriores al 4 de octubre.
 
 ###### Art. 58.
 
@@ -917,9 +917,9 @@ I.- Ausentarse del Estado por más de treinta días sin autorización para hacer
 
 Cuando el Gobernador se ausentare del Estado, por un término mayor de cinco días y menor de treinta, deberá dar aviso al Congreso o a la Diputación Permanente, en el receso de aquél.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
 
-Para salir de la República necesita en todo caso, autorización del Congreso o de la Diputación Permanente.
+Para salir de la República por más de diez días, necesita autorización del Congreso o de la Diputación Permanente; tratándose de viajes oficiales deberá acompañar a su solicitud la agenda de trabajo, así como presentar a su regreso un informe de los resultados obtenidos en sus gestiones.
 
 II.- Impedir o embarazar con pretexto alguno las elecciones populares ni la reunión y deliberación del Congreso.
 
@@ -2593,7 +2593,7 @@ P.O. 24 DE MAYO DE 1995.
 
 DECRETO NUMERO 53, QUE DEROGA EL ARTICULO 51.
 
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su Publicación en el periódico Oficial del Gobierno del Estado.
 
 P.O. 22 DE NOVIEMBRE DE 1995.
 
@@ -2760,5 +2760,17 @@ a) El pago de la indemnización se efectuará después de seguir los procedimien
 b) El pago de la indemnización estará sujeto a la disponibilidad presupuestaria del Ejercicio Fiscal de que se trate.
 
 P.O. 2 DE OCTUBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2003.
+
+DECRETO NUMERO 12, QUE REFORMA EL ARTICULO 57.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2003.
+
+DECRETO NUMERO 13, QUE REFORMA EL ARTICULO 86.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
