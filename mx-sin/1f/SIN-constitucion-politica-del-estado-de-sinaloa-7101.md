@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1953-08-06"
+last_updated: "1953-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1° DE DICIEMBRE DE 1953.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -73,11 +73,15 @@ Art. 7º Los sinaloenses en igualdad de circunstancias serán preferidos a los q
 
 ### CAPITULO II. DE LOS CIUDADANOS SINALOENSES
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1953)</small>
+
 Art. 8º Son ciudadanos sinaloenses:
 
-I. Los ciudadanos mexicanos nacidos en el Estado.
+Los hombres y mujeres nacidos en el Estado, así como los ciudadanos mexicanos avecinados en Sinaloa por más de dos años consecutivos, si no han declarado ante el Ejecutivo del Estado, que desean conservar su calidad de origen; y que reúnan además los siguientes requisitos:
 
-II. Los ciudadanos mexicanos avecindados en el Estado por más de dos años consecutivos, si no han declarado ante el Ejecutivo del Estado que desean conservar su calidad de origen.
+I. Haber cumplido 18 años, siendo casados, o 21 si no lo son, y
+
+II. Tener un modo honesto de vivir.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1953)</small>
 
@@ -523,7 +527,7 @@ IX. Actuar en substitución de la Comisión de Glosa, para facilitar las revisio
 
 X. Decretar en caso grave, la traslación provisional de los Poderes del Estado fuera del lugar de su residencia.
 
-XI. Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción II del artículo 44 y las demás facultades que se hallan (sic) consignadas en esta Constitución.
+XI. Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción I I del artículo 44 y las demás facultades que se hallan (sic) consignadas en esta Constitución.
 
 ###### Art. 51.
 
@@ -1017,15 +1021,13 @@ Los Ayuntamientos tendrán personalidad jurídica para todos los efectos legales
 
 Compete a los Ayuntamientos el ejercicio del Poder Legislativo Municipal, con las limitaciones que las leyes señalen, correspondiendo al Presidente ejercer las funciones ejecutivas como Regidor comisionado, llevar la Jefatura política y administrativa de la Municipalidad, y presidir las sesiones de la Asamblea.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 113.
 
-La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, y demás Regidores, se verificará cada tres años por elección directa y entrarán a funcionar el día primero de enero previa protesta que otorgarán ante el H. Ayuntamiento saliente. Por cada Regidor Propietario se elegirá un Suplente.
+La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, y demás Regidores, se verificará cada tres años por elección directa y entrarán a funcionar el día primero de enero previa protesta que otorgarán ante el H. Ayuntamiento saliente. Por cada Regidor Propietario se eligirá (sic) un Suplente.
 
-> <small>(ADICIONADO P.O. 26 DE ENERO DE 1950)</small>
-
-En las elecciones Municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas.
+En las elecciones para integrar los Poderes del Estado y los Municipales la mujer igual que el varón sinaloenses tienen derecho de votar y ser votadas.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -1732,3 +1734,7 @@ P.O. 6 DE AGOSTO DE 1953.
 ###### ARTICULO UNICO.
 
 Este Decreto comenzará a regir a los diez días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE DICIEMBRE DE 1953.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
