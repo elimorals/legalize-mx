@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1990-05-03"
+last_updated: "1991-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 1991.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -507,9 +507,9 @@ VI. Los Jefes de las Rentas Federales y los Administradores de Rentas por los Di
 
 La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral, que se integrará por todos los presuntos Diputados Electos por el principio de mayoría relativa que hubieren obtenido constancia de mayoría debidamente registrada y por todos los presuntos Diputados Electos por el principio de representación proporcional que hubieren obtenido constancia de asignación.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+(REFORMADO, G.O. 16 DE FEBRERO DE 1991)(F. DE E., G.O. 26 DE FEBRERO DE 1991)
 
-Las resoluciones del Colegio Electoral de la Legislatura del Estado serán definitivas e inatacables.
+Para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanan, se instituirá un Tribunal Electoral que tendrá la competencia que determine la Ley. Las resoluciones del Tribunal serán obligatorias y sólo podrán ser nulificadas por el Colegio Electoral que será la última instancia de calificación de las elecciones y sus resoluciones tendrán el carácter de definitivas e inimpugnables.
 
 ###### Artículo 51.
 
@@ -565,11 +565,11 @@ Las reuniones del Colegio Electoral que sean necesarias para calificar las elecc
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, G.O. 6 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 1991)</small>
 
 ###### Artículo 60.
 
-El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia leerán, cada uno de ellos, ante la Legislatura, los días 30 y 15 de noviembre, respectivamente, un informe anual, en el que expondrán, en términos generales, el desarrollo de las labores encomendadas a los Poderes Ejecutivo y Judicial. El año en que se inicie un período constitucional, en términos de los Artículos 84 y 85 de esta Constitución, el Gobernador leerá el informe el día 31 de octubre.
+El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia, leerán, cada uno de ellos, ante la Legislatura, los días 25 y 15 de octubre respectivamente, un informe anual, en el que expondrán, en términos generales el desarrollo de las labores encomendadas a los Poderes Ejecutivo y Judicial.
 
 > <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 1981)</small>
 
@@ -735,9 +735,9 @@ XXIX. Conceder cartas de ciudadanía a los vecinos de otros Estados que fueren a
 
 XXX. Reahabilitar (sic), con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadanía, civiles o de familia;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 1991)</small>
 
-XXXI. Otorgar o negar su aprobación a los nombramientos de Magistrados, que le someta el Gobernador;
+XXXI. Otorgar o negar su aprobación a los nombramientos de magistrados que les someta el Gobernador; así como designar a los magistrados del Tribunal Electoral;
 
 XXXII. Constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador del Estado, ya sea con el carácter de substituto o de provisional, en los términos del artículo 86 de esta Constitución;
 
@@ -747,9 +747,9 @@ XXXIII. Cuando falte a la vez un Diputado propietario y el suplente respectivo, 
 
 XXXIV. Señalar los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones y demás ingresos fiscales que deban formar la Hacienda de los municipios, y aprobar las leyes de ingresos de los ayuntamientos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 1991)</small>
 
-XXXV. Por acuerdo de las dos terceras partes de sus integrantes, designar de entre los vecinos de un municipio a los que integrarán el Concejo Municipal, cuando el día treinta de noviembre del año de la elección del Ayuntamiento, no se hubiere hecho la calificación correspondiente;
+XXXV. Por acuerdo de las dos terceras partes de sus integrantes, designar de entre los vecinos de un Municipio, a los que integrarán el Concejo Municipal, cuando el día último del mes de diciembre inmediato a la elección de los Ayuntamientos, no se hubiere hecho la calificación correspondiente;
 
 XXXVI. Dictar las leyes a que se refiere la fracción VII (párrafo segundo) del artículo 27 de la Constitución General y los incisos (A) y (F) del mismo artículo;
 
@@ -807,9 +807,9 @@ XLVIII. Modificar el nombre de los municipios a solicitud de los ayuntamientos r
 
 XLIX. Crear y suprimir congregaciones; autorizar el traslado de un Ayuntamiento a otra cabecera cuando así lo requiera el interés público y autorizar categorías y denominaciones políticas de los centros de población o sus cambios, en los términos establecidos por las leyes;
 
-> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 1991)</small>
 
-L. Determinar el número de ediles de los ayuntamientos;
+L. Determinar el número de Ediles de los Ayuntamientos y sancionar los procedimientos de elección de los Agentes Municipales;
 
 > <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -943,13 +943,17 @@ IV. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la F
 
 V. No tener antecedentes penales, por la comisión de delitos de naturaleza intencional.
 
-> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 1991)</small>
 
 ###### Artículo 113.
 
-Los miembros de los Ayuntamientos, durarán en su encargo tres años, debiendo tomar posesión el día primero de diciembre inmediato a la elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será substituido por el suplente, o se procederá según lo disponga la Ley;
+Los miembros de los Ayuntamientos durarán en su cargo tres años, debiendo tomar posesión el día primero de enero inmediato a su elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será substituido por el suplente, o se procederá según lo disponga la Ley.
+
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
 Los miembros de los Ayuntamientos, no podrán ser electos para integrar el del período siguiente; la misma prohibición se aplicará a los integrantes de los Concejos Municipales;
+
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
 Los Funcionarios públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
@@ -1643,9 +1647,9 @@ I. Convocar a la Legislatura a sesiones extraordinarias, en los casos que la mis
 
 II. Llamar a los Diputados suplentes de la misma Diputación, cuando por muerte, renuncia, inhabilidad o licencia por más de dos meses, falte alguno de los propietarios;
 
-> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 1991)</small>
 
-III. Otorgar o negar su aprobación a los nombramientos de los magistrados, así como a las solicitudes de licencia de los mismos, que le someta el Gobernador. Ejercer las mismas facultades de la Legislatura en los casos de las fracciones IX y X del artículo 68;
+III. Otorgar o negar su aprobación a los nombramientos de los magistrados, así como a las solicitudes de Licencia de los mismos, que le someta el Gobernador, ejercer las mismas facultades de la Legislatura en los casos de las fracciones IX, X y XXXI del artículo 68;
 
 IV. Emitir su opinión en todos los asuntos que se presenten en el tiempo de su período y sobre los que quedaren pendientes al clausurarse las sesiones. Cuando se trate de asuntos de la competencia de la Legislatura, se reservarán los dictámenes para que sean discutidos por ésta;
 
@@ -1663,9 +1667,9 @@ X. Autorizar al Ejecutivo para poner sobre las armas la Guardia Nacional; y
 
 XI. Nombrar Gobernador Provisional, en el caso que se refiere el párrafo segundo del artículo 86;
 
-> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 1991)</small>
 
-XII. Conocer de los asuntos relacionados con la Hacienda de los Municipios y revisar y aprobar sus cuentas.
+XII. Conocer de los asuntos relacionados con la hacienda de los Municipios, revisar y aprobar sus cuentas y sancionar los procedimientos de elección de los Agentes Municipales.
 
 ###### Artículo 83.
 
@@ -2118,5 +2122,19 @@ G.O. 3 DE MAYO DE 1990.
 La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 16 DE FEBRERO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Ayuntamientos y Concejos Municipales que estén en funciones concluirá su gestión el 31 de diciembre de 1991.
+
+###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
