@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1992-10-10"
+last_updated: "1993-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1221,6 +1221,8 @@ El artículo anterior sólo tendrá aplicación cuando no pueda sancionarse el h
 
 ### CAPITULO I. PRIVACION DE LA LIBERTAD PERSONAL
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 157.
 
 Omisión de auxilio.- Al que omita prestar auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando pudiere hacerlo, según las circunstancias, sin riesgo propio ni de terceros, se le impondrá de seis meses a dos años de prisión y hasta cien días multa.
@@ -1243,6 +1245,8 @@ Si el peligro de contagio se da entre cónyuges o concubinos, solo se procederá
 
 ### CAPITULO II. SECUESTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ### CAPITULO III. RAPTO
 
 ### CAPITULO IV. AMENAZAS
@@ -1257,7 +1261,7 @@ Si el peligro de contagio se da entre cónyuges o concubinos, solo se procederá
 
 ###### Artículo 161.
 
-Tipo y punibilidad.- Al particular que ilegítimamente prive a otro de su libertad personal, se le aplicará prisión de uno a tres años.
+Tipo y punibilidad.- Al particular que ilegítimamente prive a otro de su libertad personal, se le aplicará prisión de tres a siete años.
 
 ###### Artículo 162.
 
@@ -1279,7 +1283,7 @@ Atenuación de la punibilidad.- Si el agente espontáneamente pone en libertad a
 
 ###### Artículo 164.
 
-Formas típicas y punibilidad.- Al que prive de la libertad a otro, se le aplicará prisión de cinco a quince años y multa de veinticinco a ciento cincuenta días, si el hecho se realiza con el propósito de:
+Formas típicas y punibilidad.- Al que prive de la libertad a otro, se le aplicará prisión de siete a veinte años y multa de cien a doscientos cincuenta días, si el hecho se realiza con el propósito de:
 
 I.- Obtener un rescate;
 
@@ -1301,9 +1305,11 @@ IV.- Que se realice con violencia, se veje o se torture a la víctima o,
 
 V.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o que por cualquier otra circunstancia esté en situación de inferioridad física respecto del agente.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 166.
 
-Atenuación de la punibilidad por arrepentimiento post-factum.- Si el agente espontáneamente pone en libertad al secuestrado dentro de los tres días siguientes a la comisión del delito, la pena será de dos a siete años de prisión, siempre y cuando el sujeto no haya logrado los propósitos a que se refiere el artículo 164.
+Atenuación de la punibilidad por arrepentimiento post-factum.- Si el agente delictivo espontáneamente pone en libertad al secuestrado dentro de los tres días siguientes a la comisión del delito, la pena será de dos a siete años de prisión y multa de cincuenta a cien días, siempre y cuando el sujeto no haya logrado los propósitos a que se refiere el artículo 164.
 
 ###### Artículo 167.
 
@@ -2972,3 +2978,9 @@ P.O. 10 DE OCTUBRE DE 1992.
 DECRETO NUMERO 161.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
