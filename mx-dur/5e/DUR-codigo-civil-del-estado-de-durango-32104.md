@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1971-01-17"
+last_updated: "1976-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1976.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -6817,17 +6817,23 @@ De la forma del contrato de compra-venta.
 
 ART. 2197.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-ART. 2198.- La venta de un inmueble que tenga un valor hasta de dos mil pesos, podrá hacerse en instrumento privado que firma el vendedor y el comprador ante dos testigos.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1976)</small>
+
+ART. 2198.- La venta de un inmueble que tenga un valor hasta de $6,000.00 (SEIS MIL PESOS), podrá hacerse en instrumento privado que firma el vendedor y el comprador ante dos testigos.
 
 ART. 2199.- Si alguno de los contratantes supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1718.
 
 ART. 2200.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-ART. 2201.- Si el valor del inmueble excede de dos mil pesos, su venta se hará en escritura pública .
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1976)</small>
 
-ART. 2202.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de dos mil pesos, cuando la venta sea al contado puede hacerse transmitiendo predominio (sic) por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+ART. 2201.- Si el valor de este inmueble excede de $6,000.00 (SEIS MIL PESOS), su venta será en escritura pública.
 
-El endoso será ratificado ante el Registrador, que tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1976)</small>
+
+ART. 2202.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de $6,000.00 (SEIS MIL PESOS), cuando la venta sea al contado puede hacerse transmitiendo dominio por endoso puesto en el certificado de propiedad que el Registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+
+El endoso será ratificado ante el Registrador, que tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma, hará una nueva inscripción de los bienes vendidos, en favor del comprador.
 
 ART. 2203.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
@@ -9252,3 +9258,7 @@ UNICO.- El presente Decreto surte sus efectos a los (15) quince días de la fech
 P.O. 17 DE ENERO DE 1971.
 
 UNICO.- El presente decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 1976.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
