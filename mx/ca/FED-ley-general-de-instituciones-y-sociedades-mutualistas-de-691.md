@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1995-11-17"
+last_updated: "1996-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -173,6 +173,10 @@ h).- Los especiales que declare la Secretaría de Hacienda y Crédito Público, 
 
 Las autorizaciones podrán otorgarse también para practicar exclusivamente el reaseguro, en alguna o algunas de las operaciones mencionadas en este artículo o conforme a lo señalado en el artículo 76-A de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
+Tratándose de los seguros relacionados con contratos de seguros que tengan como base planes de pensiones o de supervivencia derivados de las leyes de seguridad social y a los que se refiere el párrafo segundo de la fracción I del artículo 8o. de esta Ley, las autorizaciones se otorgarán sólo a instituciones de seguros que las practiquen en forma exclusiva, sin que a las mismas se les pueda autorizar cualquiera otra operación de las señaladas en este artículo.
+
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Las autorizaciones otorgadas a las instituciones de seguros, podrán comprender la práctica de las operaciones de reafianzamiento, en los términos del artículo anterior.
@@ -185,9 +189,13 @@ Los seguros comprendidos dentro de la enumeración de operaciones y ramos del ar
 
 I.- Para las operaciones de vida, los que tengan como base del contrato riesgos que puedan afectar la persona del asegurado en su existencia. Se considerarán comprendidos dentro de estas operaciones los beneficios adicionales que, basados en la salud o en accidentes personales, se incluyan en pólizas regulares de seguros de vida.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
 
-También se considerarán comprendidas dentro de estas operaciones, los contratos de seguro que tengan como base planes de pensiones o de supervivencia relacionados con la edad, jubilación o retiro de personas;
+También se considerarán comprendidas dentro de estas operaciones, los contratos de seguros que tengan como base planes de pensiones o de supervivencia relacionados con la edad, jubilación o retiro de personas, ya sea bajo esquemas privados, o derivados de las leyes de seguridad social;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 1996)</small>
+
+I bis.- Para los seguros de pensiones, derivados de las leyes de seguridad social, el pago de las rentas periódicas durante la vida del asegurado o las que correspondan a sus beneficiarios de acuerdo con los contratos de seguros celebrados en los términos de la ley aplicable;
 
 II.- Para las operaciones de accidentes y enfermedades, los que tengan como base la lesión o incapacidad que afecte la integridad personal, salud o vigor vital del asegurado ocasionada por un accidente o enfermedad de cualquier género;
 
@@ -523,9 +531,9 @@ A tal efecto, la inversión extranjera deberá hacerse constar en una serie espe
 
 2.- Ninguna persona física o moral podrá ser propietaria de más del veinte por ciento de su capital pagado, excepto:
 
-a).- La Administración Pública Federal;
+a). La Administración Pública Federal;
 
-b).- Las sociedades que sean o puedan llegar a ser propietarias de acciones de una institución de seguros. Estas sociedades estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable al igual que a sus accionistas lo dispuesto en esta fracción, en la fracción III de este artículo y en las fracciones III y IV del artículo 139 de esta Ley.
+b). Las sociedades que sean o puedan llegar a ser propietarias de acciones de una institución de seguros. Estas sociedades estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable al igual que a sus accionistas lo dispuesto en esta fracción, en la fracción III de este artículo y en las fracciones III y IV del artículo 139 de esta Ley.
 
 Las personas que aporten acciones de una o varias instituciones de seguros al capital de una de las sociedades a que se refiere este inciso, podrán mantener la participación que resulte en el capital de la misma, por el valor de las acciones que cada una de ellas aporte.
 
@@ -551,8 +559,6 @@ h). Las personas que de manera discrecional, autorice la Secretaría de Hacienda
 
 i). Las Instituciones Financieras del Exterior, directa o indirectamente, o las Sociedades Controladoras Filiales que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva institución de seguros en una Filial.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 III.- Para participar en asambleas de accionistas de instituciones de seguros o de sociedades de las comprendidas en los incisos b) y g) de la fracción anterior, deberán cumplirse los siguientes requisitos:
@@ -564,8 +570,6 @@ a). Manifestar por escrito el carácter con el que se concurre, sea éste el de 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
 b). Manifestar por escrito el nombre de la o las personas a quienes pertenezcan las acciones que representen y señalar invariablemente el número de acciones que a cada una corresponda, cuando se asista con el carácter de mandatario, comisionista o cualquier tipo de representante, así como en los demás casos que determine la Comisión Nacional de Seguros y Fianzas;
-
-c). (DEROGADO, D.O.F. 17 DE NOVIEMBRE DE 1995)
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -591,7 +595,7 @@ V.- Todas las asambleas y juntas directivas se celebrarán en el domicilio socia
 
 VI.- Deberá celebrarse una asamblea general ordinaria cada año, por lo menos, y en la escritura se establecerá el derecho de los socios que representen, por lo menos, el 10% del capital pagado para pedir que se convoque a asamblea extraordinaria. Si el consejo no expidiere la convocatoria pedida, señalando un plazo no mayor de un mes a contar de la fecha en que reciba la petición para la reunión de la asamblea, el comisario, a moción de los accionistas interesados, expedirá la convocatoria en los mismos términos en que el consejo debiera hacerlo.
 
-En las asambleas generales extraordinarias de accionistas las decisiones deberán tomarse, cuando menos, con una mayoría del 80% del capital pagado, salvo que se trate de segunda convocatoria, caso en el cual las resoluciones se adoptarán, por lo menos, con el voto del 30% del capital pagado;
+En las asambleas generales extraordinarias de accionistas las decisiones deberán tomarse cuando menos, con una mayoría del 80% del capital pagado, salvo que se trate de segunda convocatoria, caso en el cual las resoluciones se adoptarán, por lo menos, con el voto del 30% del capital pagado;
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -620,6 +624,10 @@ e). Los quebrados y concursados que no hayan sido rehabilitados;
 f). Quienes realicen funciones de inspección y vigilancia de las instituciones de seguros; o
 
 g). Quienes realicen funciones de regulación de las instituciones de seguros, salvo que exista participación del Gobierno Federal en el capital de las mismas;
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
+h). Los servidores públicos de la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 > <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -693,9 +701,9 @@ I.- Sus directores generales o gerentes;
 
 II.- Los miembros de sus consejos de administración, propietarios o suplentes;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 1996)</small>
 
-III.- Los funcionarios o empleados de instituciones de crédito, de seguros, de fianzas, de casas de bolsa, de organizaciones auxiliares del crédito, así como de casas de cambio; y
+III.- Los funcionarios y empleados de instituciones de crédito, de seguros, de fianzas, de casas de bolsa, de organizaciones auxiliares del crédito, de casas de cambio, de administradoras de fondos para el retiro y de las sociedades de inversión especializadas de fondos para el retiro; y
 
 IV.- Los miembros del consejo de administración, propietarios o suplentes, directores generales, gerentes o auditores externos de las sociedades que a su vez controlen a la institución de seguros de que se trate, o de las empresas controladas por los accionistas mayoritarios de la misma.
 
@@ -905,7 +913,7 @@ IX.- Recibir títulos en descuento y redescuento a instituciones y organizacione
 
 X.- Otorgar préstamos o créditos;
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 X Bis.- Emitir obligaciones subordinadas que deberán ser obligatoriamente convertibles a capital, hasta por un monto igual al capital pagado de la institución.
 
@@ -939,7 +947,13 @@ XII.- Operar con documentos mercantiles por cuenta propia, para la realización 
 
 XIII.- Adquirir, construir y administrar viviendas de interés social e inmuebles urbanos de productos regulares;
 
-XIV.- Adquirir los bienes muebles e inmuebles no necesarios para la realización de su objeto social; y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 1996)</small>
+
+XIV.- Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto social;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 1996)</small>
+
+XIV bis.- Invertir en el capital de las administradoras de fondos para el retiro y en el de las sociedades de inversión especializadas de fondos para el retiro, en los términos de la legislación aplicable; y
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -995,7 +1009,9 @@ d).- Las construcciones y los bienes dados en garantía deberán estar asegurado
 
 XI.- Los préstamos con garantía prendaria de títulos o valores sólo podrán otorgarse respecto aquellos que puedan adquirir las instituciones y, su importe no excederá del 80% del valor de la prenda, estimado de acuerdo con el artículo 99 de esta Ley.
 
-XII.- El importe de los préstamos con garantía de las reservas matemáticas de primas, no excederá de la reserva terminal correspondiente;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 1996)</small>
+
+XII.- El importe de los préstamos con garantía de las reservas matemáticas de primas de la operación de vida, no excederá de la reserva terminal correspondiente. Lo dispuesto en esta fracción no será aplicable a los seguros de pensiones, derivados de las leyes de seguridad social;
 
 XIII.- Las inversiones en valores sólo podrán realizarse en aquéllos que sean aprobados por la Comisión Nacional de Valores para este efecto, sin que puedan exceder del 25% del capital de la emisora cuando se trate de acciones o participaciones representativas del capital social.
 
@@ -1015,7 +1031,7 @@ XVI.- Las operaciones que realicen las instituciones de seguros para la inversi�
 
 > <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 1993)</small>
 
-XVI bis.- Las operaciones de fideicomiso a que se refiere la fracción IV del artículo 34 de esta Ley, se sujetarán a lo dispuesto en esta Ley y a las siguientes bases:
+XVI Bis.- Las operaciones de fideicomiso a que se refiere la fracción IV del artículo 34 de esta Ley, se sujetarán a lo dispuesto en esta Ley y a las siguientes bases:
 
 a).- En el desempeño de los fideicomisos, las instituciones de seguros deberán apegarse a las sanas prácticas fiduciarias de las instituciones de crédito. La Secretaría de Hacienda y Crédito Público podrá, en caso de considerarlo necesario, emitir mediante reglas de carácter general, oyendo a la Comisión Nacional de Seguros y Fianzas y al Banco de México, las características o limitaciones a que deberán someterse tales operaciones, a fin de propiciar la seguridad de las mismas y la adecuada atención de los servicios correspondientes;
 
@@ -1269,11 +1285,15 @@ I.- Para los seguros de vida en los cuales la prima sea constante y la probabili
 
 En ningún caso la reserva matemática de primas será menor de la que resulte de aplicar el método llamado “Año Temporal Preliminar”;
 
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 1996)</small>
+
+I Bis.- Para los seguros de pensiones derivados de las leyes de seguridad social, la reserva matemática de primas correspondientes a las pólizas en vigor al momento de su valuación, calculada de acuerdo con los métodos actuariales que mediante reglas de carácter general determine la Secretaría de Hacienda y Crédito Público.
+
 II.- Para los seguros de vida temporales a un año, la parte de la prima neta no devengada a la fecha de la valuación, dentro del período de cada año en vigor;
 
 > <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
-III. Para las operaciones de accidentes y enfermedades y de daños, a excepción de los seguros de naturaleza catastrófica afectos a reservas especiales:
+III.- Para las operaciones de accidentes y enfermedades y de daños, a excepción de los seguros de naturaleza catastrófica afectos a reservas especiales:
 
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -1293,9 +1313,9 @@ V.- Para otros planes de seguros que tengan características especiales, los que
 
 VI.- Para las operaciones de reaseguro aceptado del extranjero, la que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, tomando en cuenta la situación del mercado internacional y los principios previstos en este artículo.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
 
-Las tablas de mortalidad, invalidez y morbidez, así como la tasa máxima de interés compuesto que, en su caso, deban usarse para calcular las reservas de riesgos en curso, serán las que determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+Las tablas de mortalidad, invalidez, morbilidad y sobrevivencia, así como la tasa máxima de interés compuesto que, en su caso, deban usarse para calcular las reservas de riesgos en curso, serán las que determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -1325,15 +1345,25 @@ b).- Para las operaciones de daños:
 
 1.- Si se trata de siniestros en los que se ha llegado a un acuerdo por ambas partes, los valores convenidos;
 
-2.- Si se trata de siniestros que han sido valuados en forma distinta por ambas partes, el promedio de esas valuaciones;
+2.- Si se trata de siniestros que han sido valuados en forma distinta por ambas partes, el promedio de esas valuaciones:
 
-3.- Si se trata de siniestros respecto de los cuales los asegurados no han comunicado valuación alguna a las instituciones, la estimación que estas últimas hubieren hecho de esos siniestros. La Comisión Nacional de Seguros y Fianzas queda facultada, en este caso, para rectificar la estimación hecha por las empresas;
+3.- Si se trata de siniestros respecto de los cuales los asegurados no han comunicado valuación alguna a las instituciones, la estimación que estas últimas hubieren hecho de esos siniestros. La Comisión Nacional de Seguros y Fianzas queda facultada, en este caso, para rectificar la estimación hecha por las empresas:
 
-c).- Para las operaciones de accidentes y enfermedades se procederá como en las de vida, cuando se trate de capitales o rentas aseguradas por muerte o por incapacidad, y como en las de daños en los demás casos; y
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
 
-d).- Si se trata del supuesto del artículo 135 de esta Ley, la cantidad que designe la Comisión Nacional de Seguros y Fianzas.
+c).- Para las operaciones de accidentes y enfermedades se procederá como en las de vida, cuando se trate de capitales o rentas aseguradas por muerte o por incapacidad y como en las de daños en los demás casos;
 
-Las reservas a que se refieren los incisos a), b) y c) de esta fracción, deberán constituirse inmediatamente después de que se hayan hecho las estimaciones correspondientes y la reserva a que se refiere el inciso d), conforme a lo dispuesto por el artículo 135 citado.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
+d).- Si se trata del supuesto del artículo 135 de esta Ley, la cantidad que designe la Comisión Nacional de Seguros y Fianzas; y
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
+e).- Para los seguros de pensiones, derivados de las leyes de seguridad social, el monto de las rentas que estén vencidas y no se hayan cobrado.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
+Las reservas a que se refieren los incisos a), b), c) y e) de esta fracción, deberán constituirse inmediatamente después de que se hayan hecho las estimaciones correspondientes y la reserva a que se refiere el inciso d) conforme a lo dispuesto por el artículo 135 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -1511,11 +1541,17 @@ La Comisión Nacional de Seguros y Fianzas podrá aumentar temporalmente este po
 
 II.- El importe de los gastos de establecimiento y organización, así como la suma de los saldos a cargo de agentes e intermediarios, documentos por cobrar y deudores diversos, no excederá de los límites que, mediante reglas de carácter general, señale la Secretaría de Hacienda y Crédito Público;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
 
-III.- Las instituciones de seguros podrán invertir en el capital social de otras instituciones de seguros o de instituciones de fianzas, del país o del extranjero, de sociedades de inversión o de sociedades operadoras de estas últimas; además cuando no formen parte de grupos financieros, en el de almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio. Esta inversión no podrá ser mayor al 20% de la suma del capital pagado y reservas de capital de la inversora y sólo podrá hacerse con los excedentes de esta suma sobre su capital mínimo pagado. El importe de esta inversión se deducirá del capital de garantía.
+III.- Las instituciones de seguros podrán invertir en el capital social de otras instituciones de seguros o de instituciones de fianzas, del país o del extranjero, de sociedades de inversión o de sociedades operadoras de estas últimas, de administradoras de fondos para el retiro y de las sociedades de inversión especializadas de fondos para el retiro; además, cuando no formen parte de grupos financieros, en el de almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio. Esta inversión no podrá ser mayor al 20% de la suma del capital pagado y reservas de capital de la inversora y sólo podrá hacerse con los excedentes de esta suma sobre su capital mínimo pagado. El importe de esta inversión se deducirá del capital de garantía.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 Las instituciones de seguros y las filiales a que se refiere el párrafo anterior, en cuyo capital participen, podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios;
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
+El límite del 20% a que se refiere el primer párrafo de esta fracción, no será aplicable a la inversión que se realice en instituciones de seguros autorizadas para practicar los seguros de pensiones derivados de las leyes de seguridad social, así como en las administradoras de fondos para el retiro y en las sociedades de inversión especializadas de fondos para el retiro. Esta inversión requerirá de la autorización previa de la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas y sólo podrá hacerse con los excedentes del capital mínimo pagado de la inversora y el importe de la misma se deducirá del capital de garantía.
 
 > <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -1543,13 +1579,13 @@ II.- Obtener préstamos, a excepción hecha de la emisión que hagan de obligaci
 
 III.- Dar en reporto títulos de crédito;
 
-IV.- Dar en prenda los títulos o valores de su cartera;
+IV.- (DEROGADA, D.O.F. 14 DE JULIO DE 1993)
 
 > <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
 
 V.- Operar con sus propias acciones, salvo en los casos previstos en la Ley del Mercado de Valores;
 
-VI.- (DEROGADA, D.O.F. 14 DE JULIO DE 1993)
+VI.- Emitir acciones preferentes o de voto limitado;
 
 VII.- Aceptar riesgos mayores de los establecidos en el artículo 37 de esta Ley;
 
@@ -1579,7 +1615,9 @@ Expirados los plazos o, en su caso, las renovaciones que de ellos se concedan, l
 
 XII.- Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la institución, los directores generales o sus equivalentes y las personas que ocupen cargos con las dos jerarquías inferiores a las de aquéllos, salvo que correspondan a prestaciones de carácter laboral otorgadas de manera general; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la institución; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores.
 
-Lo dispuesto en esta fracción no se aplicará cuando se trate de préstamos con garantía de las reservas matemáticas de primas; y
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
+Lo dispuesto en esta fracción no se aplicará cuando se trate de préstamos con garantía de las reservas matemáticas de primas de la operación de vida, con excepción a los contratos de seguros de pensiones derivados de las leyes de seguridad social; y
 
 XIII.- Repartir dividendos con los fondos de las reservas que hayan constituido por disposición legal o de otras reservas creadas para compensar o absorber pérdidas futuras.
 
@@ -1887,7 +1925,9 @@ Las reservas técnicas quedarán afectas a cada departamento, y en operaciones d
 
 Las sociedades mutualistas de seguros, sólo podrán realizar las operaciones siguientes:
 
-I.- Practicar las operaciones de seguros a que se refiera la autorización que exige esta Ley;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 1996)</small>
+
+I.- Practicar las operaciones de seguros a que se refiere la autorización que exige esta Ley, con excepción de los contratos de seguros de pensiones, derivados de las leyes de seguridad social, previstos en el segundo párrafo de la fracción I del artículo 8o. de esta Ley;
 
 II.- Constituir e invertir las reservas previstas en la ley;
 
@@ -2387,15 +2427,21 @@ VI.- Demás servidores públicos necesarios.
 
 Las Delegaciones Regionales de la Comisión podrán realizar dentro del área de su jurisdicción geográfica, las funciones que se determinen en su Reglamento Interior.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 108-B.
 
-La Junta de Gobierno estará integrada por el Presidente y Vicepresidentes de la Comisión y por nueve Vocales. Cuatro Vocales serán designados por la Secretaría de Hacienda y Crédito Público, uno por la Comisión Nacional de Seguros y Fianzas, uno por el Banco de México, y uno por la Comisión Nacional de Valores. La propia Secretaría designará los otros dos vocales, quienes no deberán ser servidores públicos de la Dependencia. Por cada vocal propietario se nombrará un suplente.
+La Junta de Gobierno estará integrada por el Presidente y Vicepresidentes de la Comisión y por nueve Vocales. Cuatro Vocales serán designados por la Secretaría de Hacienda y Crédito Público, uno por la Comisión Nacional Bancaria y de Valores, uno por el Banco de México, y uno por la Comisión Nacional del Sistema de Ahorro para el Retiro. La propia Secretaría designará los otros dos vocales, quienes no deberán ser servidores públicos de la Dependencia. Por cada vocal propietario se nombrará un suplente.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 La Secretaría de Hacienda y Crédito Público nombrará al Presidente de la Comisión Nacional de Seguros y Fianzas, que lo será a su vez de la Junta de Gobierno.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+
 El Presidente y los Vicepresidentes, así como los vocales deberán ser de nacionalidad mexicana, con notorios conocimientos en materias financieras y no podrán desempeñar cargos de elección popular. No podrán ser comisarios, apoderados, funcionarios, empleados o agentes de las instituciones, y demás establecimientos sujetos a la inspección y vigilancia de la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 La Junta de Gobierno podrá constituir comités con fines específicos y designará una comisión de cuentas integrada por dos vocales, que se encargará de vigilar el manejo de los fondos del órgano. A propuesta del Presidente, nombrará un secretario de actas.
 
@@ -2675,7 +2721,9 @@ Si a la terminación del plazo de intervención o antes de él, la sociedad ha r
 
 Cuando la Secretaría de Hacienda y Crédito Público resuelva la liquidación de una institución de seguros, se deberá proceder con arreglo a lo dispuesto en este capítulo, pudiéndose aplicar supletoriamente, en cuanto a lo que no esté previsto en el mismo, la Ley de Quiebras y de Suspensión de Pagos. La Secretaría de Hacienda y Crédito Público mandará entregar a un liquidador nombrado por ella, todos los bienes, pólizas, créditos, valores, bienes muebles e inmuebles, libros, archivos, documentos y, en general, todo lo que sea propiedad de la institución. El liquidador, dentro de un plazo de sesenta días, siguientes a la fecha en que haya tomado posesión, fijará exactamente el activo y pasivo de la sociedad en liquidación y propondrá por escrito a la Secretaría de Hacienda y Crédito Público, la forma en que deba llevarse a cabo. En vista del informe anterior, la Secretaría fijará el término dentro del cual deberá practicarse la liquidación. El liquidador podrá realizar los bienes que formen el activo de la institución, pero deberá obtener, en cada caso, aprobación expresa de la Secretaría de Hacienda. Del activo realizado se deducirán los gastos y honorarios de la liquidación, y el resto se distribuirá entre los tenedores de pólizas en proporción a la reserva técnica correspondiente a cada póliza a la fecha de la declaratoria de disolución y en proporción al valor de las pólizas, para los compromisos vencidos. Los derechos de los asegurados, al hacerse la liquidación de sus pólizas, se valuarán a la fecha de la declaratoria de disolución de la sociedad. Todos los cálculos que sirvan de base para hacer la distribución del activo entre los asegurados, deberán ser previamente aprobados por la Secretaría de Hacienda. Ante ella los asegurados, podrán hacer las observaciones que procedan respecto de sus créditos. Para este fin, el liquidador comunicará a cada asegurado el monto de la reserva técnica que le corresponda, o, en su caso, el valor de la póliza cuando se trate de compromisos vencidos.
 
-No podrán considerarse los activos afectos a las reservas técnicas a que se refiere el artículo 63 de esta Ley, dentro de la masa de la quiebra, ni de la liquidación administrativa, en su caso.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
+No podrán considerarse los activos afectos a las reservas técnicas a que se refiere el artículo 63 de esta Ley, ni los recursos de terceros a que se refieren las fracciones III, III Bis y IV del artículo 34 de esta Ley, dentro de la masa de la quiebra, ni de la liquidación administrativa, en su caso.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -2693,11 +2741,13 @@ Transcurrido el término de seis meses concedido a los acreedores para recibir e
 
 Si la liquidación no puede practicarse dentro del plazo primitivamente concedido, podrá extenderse por una mitad más el término original. Si dentro de la ampliación anterior, el liquidador no concluye las operaciones relativas, la Secretaría de Hacienda designará un nuevo liquidador y exigirá al primeramente nombrado las responsabilidades en que hubiere incurrido en el desempeño de su comisión. La Secretaría fijará al nuevo liquidador un término prudente para la terminación de las operaciones de liquidación.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 129.
 
-Los asegurados y reaseguradores tendrán el carácter de acreedores con privilegio especial y cobrarán con preferencia a todos los demás acreedores del mismo grado, pero en este caso, siempre deberá prevalecer el derecho de los asegurados sobre el que tengan los reaseguradores.
+Los asegurados, beneficiarios, pensionados y reaseguradores tendrán el carácter de acreedores con privilegio especial y cobrarán con preferencia a todos los demás acreedores del mismo grado, pero en este caso, siempre deberá prevalecer el derecho de los asegurados, beneficiarios y pensionados sobre el que tengan los reaseguradores.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 Las reservas técnicas de las instituciones y sociedades mutualistas de seguros, deberán aplicarse en primer lugar al pago de las obligaciones de contratos de seguro y reaseguro y sólo en el caso de que existan remanentes se aplicarán conforme a lo dispuesto por la Ley de Quiebras y Suspensión de Pagos.
 
@@ -3682,3 +3732,21 @@ Lo establecido en los artículos segundo y tercero transitorios del Decreto por 
 Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contados a partir del inicio de la vigencia del mismo.
 
 ...
+
+D.O.F. 23 DE MAYO DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
+
+...
+
+###### ARTICULO DECIMO NOVENO.
+
+A partir de la entrada en vigor de este Decreto, la Secretaría de Hacienda y Crédito Público podrá autorizar a las instituciones de seguros que a esa fecha estén facultadas para practicar en seguros la operación de vida, a que temporalmente, por un plazo que en ningún caso podrá exceder del 1o. de enero del año 2002, contraten los seguros de pensiones, derivados de las leyes de seguridad social a que se refiere el artículo 8o., fracción I, segundo párrafo de la Ley General de Instituciones y Sociedades Mutualistas de Seguros a condición de que a más tardar en esta última fecha escindan a la institución para que, con la cartera correspondiente a los seguros de pensiones, derivados de las leyes de seguridad social, se constituya y opere una institución de seguros especializada, que cumpla todos los requisitos establecidos en la Ley citada y en las disposiciones que de ella emanen. La institución escindida deberá mantener el mismo grupo de control accionario de la escindente, salvo autorización que al efecto otorgue la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas.
+
+Para tal efecto, en el plazo de transición, las instituciones de seguros de vida así autorizadas, deberán realizar los seguros de pensiones, derivados de las leyes de seguridad social en un departamento especializado, debiendo cumplir con los requerimientos de solvencia correspondientes y afectar, así como registrar separadamente en libros las reservas técnicas que queden afectas a estos seguros, conforme a las disposiciones de carácter general que establezca la Comisión Nacional de Seguros y Fianzas, sin que dichas reservas puedan servir para garantizar obligaciones contraídas por pólizas emitidas en otras operaciones y en su caso, en otros ramos.
+
+Para el supuesto de que al 1o. de enero del año 2002 la institución de seguros de que se trate no hubiere procedido a su escisión como lo ordena el primer párrafo de este artículo, la Secretaría de Hacienda y Crédito Público, podrá revocar la autorización otorgada para practicar los seguros de pensiones, derivados de las leyes de seguridad social, y la propia Secretaría procederá, con la participación de la Comisión Nacional de Seguros y Fianzas, al traspaso de la cartera correspondiente a una institución de seguros, debiendo observar lo dispuesto en el procedimiento establecido en el artículo 66 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, con independencia de las sanciones que correspondan.
