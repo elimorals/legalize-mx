@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1961-11-22"
+last_updated: "1963-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1963.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -419,7 +419,9 @@ VII. En caso de falta absoluta de un Ayuntamiento, nombrar tres personas que se 
 
 VIII. Examinar la cuenta general del Estado y de los Municipios y decretar las Leyes de Ingresos y Presupuestos de Egresos del Estado y de las Municipalidades, previa iniciativa del Ejecutivo y de los Ayuntamientos.
 
-IX. Condonar contribuciones.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1963)</small>
+
+IX. Autorizar a los Presidentes Municipales para celebrar contratos con personas morales y con particulares, sobre asuntos relacionados con la administración pública y aprobar, en su caso esos contratos.
 
 X. Crear y suprimir empleos públicos.
 
@@ -463,11 +465,15 @@ XXVI.- Conocer de las renuncias de los Diputados, del Gobernador y de los Magist
 
 XXVII. Erigir pueblos y colonias, cuando así lo demanden las necesidades de una región.
 
-XXVIII. Indultar a los reos sentenciados por los Tribunales del Estado a la pena capital, con excepción de los traidores a la Patria.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1963)</small>
+
+XXVIII.- Resolver en definitiva todas las controversias que surjan entre los Municipios de la Entidad.
 
 XXIX.- Conceder amnistía.
 
-XXX. Resolver las competencias y derimir (sic) las controversias que puedan suscitarse entre el Ejecutivo y el Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1963)</small>
+
+XXX.- Resolver las competencias y dirimir las controversias que puedan suscitarse entre los Poderes Ejecutivo y Judicial.
 
 XXXI. Erigirse en Jurado de Acusación o de Acusación y Sentencia en los casos que previene esta Constitución.
 
@@ -481,7 +487,9 @@ XXXV. Conceder carta de ciudadanía tlaxcalteca a los ciudadanos de otros Estado
 
 XXXVI. Conceder pensiones y otorgar recompensas.
 
-XXXVII. Declarar beneméritos del Estado a sus benefactores y a los que se hayan distinguido por servicios eminentes prestados a la República, diez años después de su fallecimiento.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1963)</small>
+
+XXXVII.- Declarar beneméritos del Estado y otorgar otros títulos honoríficos a sus benefactores y a los que se hayan distinguido por servicios eminentes prestados a la República.
 
 XXXVIII. Trasladarse y disponer que se trasladen los demás Poderes a algún punto del Estado, fuera de la Capital, cuando las circunstancias lo exijan, bien sea por una conmoción popular o por causa de fuerza mayor.
 
@@ -694,6 +702,10 @@ XXII. Visitar todos los pueblos del Estado para conocer sus necesidades, remedia
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
 
 XXIII.- Enviar al Congreso dentro de los diez días siguientes al en que tome posesión de su cargo, las propuestas para integrar el Tribunal Superior de Justicia.
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1963)</small>
+
+XXIV.- Expedir Títulos Profesionales a las personas que acrediten haber terminado sus estudios en las Escuelas Oficiales y particulares, de conformidad con los planes y leyes vigentes en la época en que hayan cursado, examinado y aprobado las materias correspondientes.
 
 ### CAPITULO I.
 
@@ -1126,3 +1138,7 @@ El presente Decreto surtirá sus efectos al día siguiente de su publicación en
 P.O. 22 DE NOVIEMBRE DE 1961.
 
 El presente Decreto surtirá sus efectos a partir de esta fecha.
+
+P.O. 25 DE SEPTIEMBRE DE 1963.
+
+El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
