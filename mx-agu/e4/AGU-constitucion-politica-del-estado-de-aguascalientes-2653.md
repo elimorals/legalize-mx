@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2001-03-12"
+last_updated: "2001-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -1111,15 +1111,27 @@ CAPITULO DECIMOSEXTO
 
 De la Responsabilidad de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2001)</small>
 
 ###### Artículo 73.
 
-Para los efectos de las responsabilidades a que alude este capítulo se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial y a sus funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Ciudadanos que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-Todos los servidores públicos son responsables de los delitos del orden común que cometan durante el tiempo de su encargo, así como de los ilícitos oficiales, sean civiles, penales, administrativos o políticos, en que incurran en el ejercicio de sus cargos.
+Todos los servidores públicos son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las Leyes Federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios, de los delitos del orden común que cometan durante el tiempo de su encargo, y de los ilícitos oficiales, sean civiles, penales, administrativos o políticos, en que incurran en el ejercicio de sus cargos.
 
-El Gobernador del Estado, durante el tiempo de su encargo sólo podrá ser acusado por violaciones a esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
+La Ley de Responsabilidades de los Servidores Públicos del Estado determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, además de las que señalen las Leyes.
+
+La responsabilidad a que se refiere este artículo será determinada a través de:
+
+I.- Juicio político.
+
+II.- Declaratoria de procedencia por la comisión de delitos, y
+
+III.- Responsabilidades, sanciones y recomendaciones administrativas.
+
+Podrán ser sujetos de Juicio Político el Gobernador, los Diputados a la Legislatura Local, los Magistrados del Poder Judicial, los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Regidores y Síndicos de los Ayuntamientos.
+
+El Gobernador del Estado, durante el tiempo de su encargo sólo podrá ser acusado por violaciones a esta Constitución y delitos graves del orden común, además será responsable en los términos el Artículo 110, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en el mismo.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -1774,6 +1786,10 @@ SEGUNDO.- La Ley Estatal Electoral y el Consejo Estatal Electoral, conservarán 
 P.O. 12 DE MARZO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor el 1° de noviembre del 2001.
+
+P.O. 27 DE AGOSTO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
