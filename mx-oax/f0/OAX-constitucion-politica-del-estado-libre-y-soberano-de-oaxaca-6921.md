@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1994-07-09"
+last_updated: "1994-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1994.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -2615,7 +2615,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 26 DE FEBRERO DE 1994.
 
-PRIMERO.- Lo previsto en el párrafo primero de la fracción primera, del artículo 8o. de este Decreto, entrará en vigor al año siguiente de su publicación en el Periódico Oficial del Estado.
+REFORMADO, P.O. 27 DE AGOSTO DE 1994)
+
+PRIMERO.- Lo previsto en el párrafo primero de la fracción I, del artículo 8 de este Decreto, entrará en vigor el día tres de septiembre de mil novecientos noventa y cuatro.
 
 SEGUNDO.- El presente Decreto, con la excepción antes señalada, entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
@@ -2624,6 +2626,10 @@ P.O. 9 DE JULIO DE 1994.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 1994.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
