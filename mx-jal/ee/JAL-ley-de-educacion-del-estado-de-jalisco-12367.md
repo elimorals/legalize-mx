@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2004-06-05"
+last_updated: "2004-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -125,9 +125,13 @@ XVI.- Buscar la excelencia en la calidad educativa.
 
 XVII.- Impulsar la educación para la paz y la convivencia ciudadana a través de la promoción y práctica de valores éticos y solidaridad social.
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE JULIO DE 2004)</small>
+
+XVIII. Fomentar el desarrollo de habilidades para afrontar los casos de emergencia que se desprendan de los fenómenos destructivos de origen natural o aquellos generados por la actividad humana.
+
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-XXVIII. Promover los principios de equidad y no discriminación.
+XIX. Promover los principios de equidad y no discriminación.
 
 ###### ARTICULO 8o.
 
@@ -1615,12 +1619,6 @@ PRIMERO. La vigencia del presente decreto de ley estará sujeta a la presentaci�
 
 SEGUNDO. Dicho plan deberá, en su caso, ser contemplado en el Presupuesto de Egresos del Estado del año fiscal de su vigencia para su aprobación.
 
-P.O. 29 DE ABRIL DE 2000.
-
-PRIMERO. La vigencia del presente decreto de ley estará sujeta a la presentación y aprobación del plan programático pormenorizado que haga factible viavilidad y operatividad de la propuesta: El ejecutivo elaborará un plan programática para dar cumplimiento a lo que el presente decreto determina, antes del 31 de agosto.
-
-SEGUNDO.- Dicho plan deberá, en su caso, ser contemplado en el Presupuesto de Egresos del Estado del año fiscal de su vigencia para su aprobación.
-
 P.O. 4 DE MARZO DE 2003.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
@@ -1674,5 +1672,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo.- Gírese atento Oficio a la Secretaría de Educación Pública para sugerir se estudie la posibilidad de incluir dentro la currícula de la educación normal la licenciatura de educación artística.
 
 P.O. 5 DE JUNIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 8 DE JULIO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
