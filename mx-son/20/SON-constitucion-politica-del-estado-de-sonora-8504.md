@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1954-05-05"
+last_updated: "1956-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE MAYO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1956.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -31,9 +31,9 @@ CESAREO G. SORIANO, Gobernador Constitucional Interino del Estado Libre y Sobera
 
 Que el Congreso Constituyente del mismo, ha tenido a bien decretar lo siguiente:
 
-EL CONGRESO CONSTITUYENTE DE SONORA, reunido en esta Villa, en virtud de las facultades que le conceden los Decretos Números 90 y 91, de fecha 29 de Marzo de 1917, expedidos por el C. Gobernador Interino del Estado, de conformidad con el Artículo 1º del Decreto de 22 de Marzo de 1917 del Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y con apoyo en el Artículo 5º del expresado Decreto, en nombre del pueblo sonorense ha tenido a bien expedir la siguiente:
+EL CONGRESO CONSTITUYENTE DE SONORA, reunido en esta Villa, en virtud de las facultades que le conceden los Decretos Números 90 y 91, de fecha 29 de Marzo de 1917, expedidos por el C. Gobernador Interino del Estado, de conformidad con el Artículo 1º. del Decreto de 22 de Marzo de 1917 del Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y con apoyo en el Artículo 5º. del expresado Decreto, en nombre del pueblo sonorense ha tenido a bien expedir la siguiente:
 
-Constitución Política del Estado de Sonora, que reforma la de 1º de Noviembre de 1872.
+Constitución Política del Estado de Sonora, que reforma la de 1º. de Noviembre de 1872.
 
 ## TITULO PRELIMINAR.
 
@@ -833,9 +833,11 @@ IV. Hacer cumplir las resoluciones de los tribunales y prestar a éstos los medi
 
 V. Cuidar de que las Autoridades que dependan del Ejecutivo cumplan estrictamente con las obligaciones que les imponen la Constitución Federal, esta Local y las leyes que de ellas emanen, corrigiendo las faltas que notare con multa hasta de trescientos pesos o con arresto que no exceda de treinta y seis horas. Si el infractor no pagare la multa que se le hubiere impuesto, se le aplicará en su lugar el arresto correspondiente que en ningún caso excederá de quince días. El Ejecutivo impondrá asimismo las correcciones disciplinarias que procedan por las faltas en que incurrieren el Secretario de Gobierno, el Procurador General de Justicia y el Tesorero General del Estado.
 
-VI. Imponer como pena correccional a los particulares que desobedecieren sus órdenes o le faltaren al respeto en su carácter oficial, multa que no excederá de trescientos pesos o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, so (sic) permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 1956)</small>
 
-Si el infractor fuese jornalero u obrero, no podrá ser sancionado con multa mayor del importe de su jornal o sueldo en una semana.
+VI. Imponer correccionalmente a los particulares que desobedecieren sus órdenes o le faltaren al respeto en su carácter oficial, multa que no excederá de quinientos pesos o arresto por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días. Si el infractor fuese jornalero u obrero, no podrá ser sancionado con multa mayor del importe de su jornal o sueldo en una semana.
+
+Imponer asímismo, las sanciones que por infracciones a las Leyes y Reglamentos Gubernativos se señalen en los mismos, cuando en tales Ordenamientos no se especifique qué Autoridad debe imponerlas.
 
 VII. Presentar cada año ante el Congreso durante la primera quincena del mes de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y en la primera quincena del segundo periodo de sesiones ordinarias, la cuenta de gastos del año anterior.
 
@@ -1439,7 +1441,9 @@ XV. Rendir a los Poderes del Estado los informes que les pidan.
 
 XVI. Rendir en el mes de agosto al Gobernador, un informe general sobre la labor que hayan desarrollado.
 
-XVII. Imponer como corrección multas hasta de cincuenta pesos o arresto hasta de treinta y seis horas. Si el infractor no pagare la multa se le aplicará en su lugar el arresto correspondiente que no excederá en ningún caso de diez días. Si el infractor fuese jornalero u obrero no podrá ser castigado con multa mayor del importe de su jornal o sueldo de una semana.
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 1956)</small>
+
+XVII. Aplicar las sanciones de multa o arresto cuya imposición les atribuyan los Bandos de Policía y Buen Gobierno y los demás Reglamentos Municipales.
 
 XVIII. Organizar y vigilar la administración de las comisarías de su jurisdicción, corrigiendo las deficiencias que notaren.
 
@@ -1816,6 +1820,10 @@ QUINTO.- Los preceptos que establecen los requisitos necesarios para los funcion
 SEXTO.- Entre tanto se expidan las Leyes Orgánicas y Reglamentarias relativas o las reformas que deban introducirse en las Leyes y Decretos actualmente vigentes, continuarán rigiendo dichos Ordenamientos en todo lo que no se opongan a la presente Constitución.
 
 SEPTIMO.- La presente Ley entrará en vigor el día 5 de mayo de 1954, previa su publicación en el Boletín Oficial del Estado.
+
+B.O. 20 DE JUNIO DE 1956.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
