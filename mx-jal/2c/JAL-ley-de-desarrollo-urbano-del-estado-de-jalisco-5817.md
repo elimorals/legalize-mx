@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-urbano-del-estado-de-jalisco-5817"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-13"
-last_updated: "2001-03-13"
+last_updated: "2001-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 13 de julio de 1993.
 
@@ -1383,11 +1383,11 @@ XVII. Elaborar y en su caso modificar, el reglamento que regule sus actividades,
 
 XVIII. En general, ejecutar todas las acciones necesarias para el mejor cumplimiento de sus fines en la promoción del desarrollo de su comunidad, conforme a las disposiciones legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
 
 ###### Artículo 41.
 
-Las asociaciones de vecinos constituidas conforme las disposiciones de la ley en materia de administración pública municipal, como organismos de participación social en la gestión del desarrollo urbano de una zona, barrio o colonia del centro de población, para los efectos de este ordenamiento tendrán las siguientes atribuciones:
+Las asociaciones de vecinos y otras formas de organización ciudadana y vecinal acordes a las disposiciones de la ley en materia de administración pública municipal, como organismos de participación social en la gestión del desarrollo urbano de una zona, barrio o colonia del centro de población, para los efectos de este ordenamiento tendrán las siguientes atribuciones:
 
 I. Elaborar el proyecto de Plan Parcial de Urbanización correspondiente a su zona, colonia o barrio, para su propuesta ante el Ayuntamiento;
 
@@ -6224,3 +6224,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Quien actualmente funja como Procurador de Desarrollo Urbano del Estado de Jalisco deberá cumplir su encargo por los seis años, iniciando este término a partir del día en que tomó protesta ante la soberanía de este Poder Legislativo.
 
 CUARTO. Las reformas y adiciones de los ordenamientos señalados en los artículos primero y segundo de este decreto entrarán en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+ÚNICO.- El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
