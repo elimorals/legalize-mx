@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-planeacion-del-estado-de-aguascalientes-2795"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-04"
-last_updated: "1992-12-20"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PLANEACION DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 4 de enero de 1987.
 
@@ -49,25 +49,25 @@ Las disposiciones de esta Ley son de orden público e interés social, su objeto
 
 Para auspiciar un desarrollo integral del Estado de Aguascalientes que encauce el crecimiento económico hacia las exigencias del desarrollo social, la planeación estatal será permanente y buscará la utilización eficiente de los recursos del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 3o.
 
-. Para los efectos de esta Ley, el ejercicio de la planeación asegurará la participación de los sectores de la sociedad, a través de Comités de Solidaridad y de otras organizaciones, en los planes de gobierno y se buscará lograr el equilibrio económico de los núcleos urbanos y rurales atendiendo las necesidades básicas, el mejoramiento de las condiciones de vida, y la promoción de empleos.
+. Para los efectos de esta Ley, el ejercicio de la planeación asegurará la participación de los sectores de la sociedad, a través del Comité de Planeación para el Desarrollo del Estado, los Consejos de Desarrollo Municipal, los Consejos de Planeación y Desarrollo Municipal y de otras organizaciones, en los planes de gobierno y se buscará lograr el equilibrio económico de los núcleos urbanos y rurales atendiendo las necesidades básicas, el mejoramiento de las condiciones de vida y la promoción de empleos.
 
 ###### ARTICULO 4o.
 
 El proceso de la planeación normado por la presente Ley dará el contenido de un instrumento rector denominado Plan de Desarrollo del Estado de Aguascalientes el cual se sujetará a los principios, fines, objetivos políticos, sociales, económicos y culturales contenidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Aguascalientes y en la Ley de Planeación del Gobierno Federal. Los demás instrumentos de desarrollo y de planeación estatal y municipal se elaborarán y conducirán con base al Plan de Desarrollo Estatal del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 5o.
 
 El Gobernador del Estado es el responsable de la conducción del desarrollo de la planeación y de su ejercicio democrático, en la esfera de su competencia y atribuciones. Al efecto proveerá lo necesario para instituir canales de participación y consulta popular en el proceso de planeación y para establecer relaciones equitativas con la Federación y con los Municipios de la Entidad. Asimismo, aprobará el Plan de Desarrollo Estatal y los Programas.
 
-Con la coordinación del Comité de Planeación para el Desarrollo del Estado de Aguascalientes, las dependencias del Poder Ejecutivo son responsables de la planeación, programación y conducción de sus actividades, sujetándose a los objetivos y prioridades de la planeación estatal.
+Con la coordinación de la Secretaría de Planeación las dependencias del Poder Ejecutivo son responsables de la planeación, programación y conducción de sus actividades, sujetándose a los objetivos y prioridades de la planeación estatal.
 
-Los organismos auxiliares de carácter estatal seguirán las líneas generales que sobre la materia de planeación y programación les señale el Comité de Planeación para el Desarrollo del Estado de Aguascalientes.
+Los organismos auxiliares de carácter estatal seguirán las líneas generales que sobre la materia de planeación y programación les señale la Secretaría de Planeación.
 
 ###### ARTICULO 6o.
 
@@ -81,11 +81,11 @@ El Sistema de Planeación Democrática del Estado de Aguascalientes conjugará l
 
 Las actividades inherentes a la organización y funcionamiento del Sistema de Planeación Democrática del Estado se sujetarán a los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 8o.
 
-Para la coordinación del Sistema Estatal de Planeación Democrática, el Comité de Planeación para el Desarrollo del Estado de Aguascalientes, tendrá las siguientes atribuciones:
+Para la coordinación del Sistema Estatal de Planeación Democrática, la Secretaría de Planeación tendrá las siguientes atribuciones:
 
 I.- Coordinar las acciones en el proceso de la planeación del desarrollo.
 
@@ -108,6 +108,10 @@ IX.- Promover y coordinar las actividades en materia de investigación y capacit
 X.- Prever en la medida de lo posible, los efectos de los fenómenos económicos y sociales que influyen en el proceso de la planeación estatal.
 
 XI.- Someter a la aprobación del Ejecutivo, la planeación y programación estatales.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+La Secretaría de Planeación en el ejercicio de sus atribuciones, se auxiliará del Comité de Planeación para el Desarrollo del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1992)</small>
 
@@ -159,11 +163,11 @@ Los programas regionales procurarán la integración y el establecimiento de rel
 
 La programación regional se orientará hacia el aprovechamiento integral de los recursos naturales y del trabajo del hombre en su ámbito territorial, y hacia una mayor vinculación de las economías rural y urbana.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 17.
 
-En los términos de la presente Ley la planeación y la programación estatales serán sometidas a la aprobación del Ejecutivo por conducto del Comité de Planeación para el Desarrollo del Estado de Aguascalientes.
+En los términos de la presente Ley la planeación y la programación estatales serán sometidas a la aprobación del Ejecutivo por conducto de la Secretaría de Planeación.
 
 ###### ARTICULO 18.
 
@@ -221,9 +225,9 @@ II.- Las bases de coordinación de los convenios con la Federación se apoyarán
 
 III.- Las bases de coordinación de los convenios con los Ayuntamientos atenderán, además de la planeación estatal, la programación sectorial, regional y especial.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
-IV.- Las acciones objeto de coordinación tomarán en cuenta la participación social de los Comités de Solidaridad y de otros grupos e individuos organizados con interés en la planeación y el desarrollo.
+IV.- Las acciones objeto de coordinación tomarán en cuenta la participación social del Comité de Planeación para el Desarrollo del Estado, los Consejos de Desarrollo Municipal, los Consejos de Planeación y Desarrollo Municipal y de otros grupos e individuos organizados con interés en la planeación y el desarrollo;
 
 V.- En materia de programación, los convenios establecerán en lo posible, las relaciones presupuestales con los objetivos y prioridades de la población, y los límites de competencia de las instancias signatarias.
 
@@ -231,9 +235,11 @@ V.- En materia de programación, los convenios establecerán en lo posible, las 
 
 En la integración de los programas de incorporación de recursos materiales y patrimoniales de la Federación, del Estado y de los Municipios, que incluyan la transferencia de recursos humanos, se respetarán los derechos de los trabajadores al servicio de las instituciones públicas.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 29.
 
-Las acciones de inversión y gasto corriente de la Federación en el Estado, relativas a los programas de desarrollo socioeconómico, serán coordinadas por el Comité de Planeación para el Desarrollo del Estado.
+Las acciones de inversión y gasto corriente de la Federación en el Estado, relativas a los programas de desarrollo socioeconómico, serán coordinadas por la Secretaría de Planeación.
 
 ###### ARTICULO 30.
 
@@ -251,11 +257,11 @@ III.- Lograr la autosuficiencia económica y financiera de los Ayuntamientos, pa
 
 IV.- Proporcionar a los Ayuntamientos, en el marco de la planeación democrática, la asesoría y el apoyo técnico en materia de programación y presupuestación, hacendaria, jurídica, administrativa y financiera.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 32.
 
-El Comité de Planeación para el Desarrollo del Estado de Aguascalientes, propondrá al Gobernador del Estado los procedimientos conforme a los cuales se sujetarán las acciones de coordinación, escuchando la opinión de los titulares de las dependencias de la Administración Pública Centralizada y la de los Ayuntamientos conforme a las facultades y obligaciones que a cada esfera corresponda.
+La Secretaría de Planeación propondrá al Gobernador del Estado los procedimientos conforme a los cuales se sujetarán las acciones de coordinación, escuchando la opinión del Comité de Planeación para el Desarrollo del Estado de Aguascalientes y la de los Ayuntamientos conforme a las facultades y obligaciones que a cada esfera corresponda.
 
 ###### ARTICULO 33.
 
@@ -287,11 +293,11 @@ Las disposiciones reglamentarias que normarán el Sistema de Planeación Democr�
 
 ### CAPITULO SEXTO. DE LA CONCERTACION E INDUCCION
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 39.
 
-El Ejecutivo del Estado, por sí o a través de sus dependencias integradas en el Comité de Planeación para el Desarrollo del Estado de Aguascalientes, podrá concertar la realización de las acciones previstas en el Plan y en los programas, con la participación de los Comités de Solidaridad y la representación de otros grupos sociales o con particulares interesados.
+El Ejecutivo del Estado, por sí o a través de la Secretaría de Planeación y demás dependencias integradas en el Comité de Planeación para el Desarrollo del Estado de Aguascalientes, podrá concertar la realización de las acciones previstas en el Plan y en los programas, con la participación de los Consejos de Desarrollo Municipal, los Consejos de Planeación y Desarrollo Municipal y la representación de otros grupos sociales o con particulares interesados.
 
 ###### ARTICULO 40.
 
@@ -380,3 +386,7 @@ Lic. Héctor Valdivia Carreón.
 P.O. 20 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
