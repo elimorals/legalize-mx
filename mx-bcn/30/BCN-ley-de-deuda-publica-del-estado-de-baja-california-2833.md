@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-deuda-publica-del-estado-de-baja-california-2833"
 country: "mx"
 rank: "ley"
 publication_date: "1988-02-10"
-last_updated: "1988-02-10"
+last_updated: "2001-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 10 de febrero de 1988.
 
@@ -79,9 +79,11 @@ IV.- Cualquier otra operación de endeudamiento que para su cobertura se utilice
 
 ### CAPITULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DE LOS ORGANISMOS, EN MATERIA DE DEUDA PUBLICA
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 5o.
 
-Son órganos en materia de Deuda Pública dentro de sus respectivas competencias: El Congreso del Estado, el Ejecutivo del Estado, los Ayuntamientos, la Secretaría de Finanzas y el Comité Técnico de Financiamiento a que se refiere esta Ley.
+Son órganos en materia de Deuda Pública dentro de sus respectivas competencias: El Congreso del Estado, el Ejecutivo del Estado, los Ayuntamientos, la Secretaría de Planeación y Finanzas y el Comité Técnico de Financiamiento a que se refiere esta Ley.
 
 ###### ARTICULO 6o.
 
@@ -119,9 +121,11 @@ VII.- Consignar en el Presupuesto Anual de Egresos, las amortizaciones por conce
 
 VIII.- Constituírse, cuando proceda, en aval de los Municipios y demás Entidades Públicas señaladas en el Artículo 2o. de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 9o.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas:
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas:
 
 I.- Elaborar el Programa Financiero Estatal, incluyendo las obligaciones derivadas del otorgamiento de avales a los Municipios y demás Entidades señaladas en el Artículo 2o. de esta Ley.
 
@@ -141,9 +145,11 @@ VIII.- Vigilar que oportunamente se liquiden las amortizaciones, intereses y dem
 
 IX.- Llevar el registro de las obligaciones derivadas de la contratación de créditos o empréstitos celebrados por las Entidades a que se refieren las Fracciones I a V, del Artículo 2o. de esta Ley, anotando el monto, características y destino de los recursos, en tanto afecte la Deuda Pública Estatal.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 10.
 
-La Secretaría de Finanzas, sólo podrá autorizar o contratar empréstitos, créditos u operaciones financieras y en su caso, garantizarlos, cuando estén contenidos en el Programa Financiero Estatal.
+La Secretaría de Planeación y Finanzas, sólo podrá autorizar o contratar empréstitos, créditos u operaciones financieras y en su caso, garantizarlos, cuando estén contenidos en el Programa Financiero Estatal.
 
 ###### ARTICULO 11.
 
@@ -153,17 +159,23 @@ Las facultades a que se refieren los Artículos 8o. y 9o. de esta Ley, serán ej
 
 El Comité Técnico de Financiamiento, ejercerá funciones de Organo Auxiliar de Consulta del Ejecutivo del Estado, en materia de Deuda Pública y se constituye por:
 
-I.- Secretario de Finanzas.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
 
-II.- Secretario de Planeación y Presupuesto.
+I.- Secretario de Planeación y Finanzas.
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+II.- Un representante del sector que será seleccionado por el Gobernador del Estado de una terna. La terna será integrada por acuerdo de los Consejos Coordinadores Empresariales de los Municipios del Estado de Baja California.
 
 III.- Secretario de Asentamientos Humanos y Obras Públicas.
 
 IV.- Secretario de Desarrollo Económico.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 13.
 
-Las actividades del Comité Técnico, serán coordinadas por el Secretario de Finanzas, quien tendrá la facultad de convocar a Asamblea, a sus integrantes y al Representante de la Entidad interesada en la contratación de créditos o empréstitos.
+Las actividades del Comité Técnico, serán coordinadas por el Secretario de Planeación y Finanzas, quien tendrá la facultad de convocar a Asamblea, a sus integrantes y al representante de la Entidad interesada en la contratación de créditos o empréstitos.
 
 ###### ARTICULO 14.
 
@@ -187,9 +199,11 @@ Las funciones del Comité Técnico Municipal de Financiamiento, aprobado por el 
 
 ### CAPITULO TERCERO. DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 17.
 
-Las Dependencias del Poder Ejecutivo del Estado, sólo contratarán empréstitos, créditos o celebrarán operaciones financieras que constituyan Deuda Pública, a través de la Secretaría de Finanzas. Los Organos del Sector Público Paraestatal, únicamente podrán obtener créditos con la autorización de la misma.
+Las dependencias del Poder Ejecutivo del Estado, sólo contratarán empréstitos, créditos o celebrarán operaciones financieras que constituyan Deuda Pública, a través de la Secretaría de Planeación y Finanzas. Los Organos del Sector Público Paraestatal, únicamente podrán obtener créditos con la autorización de la misma.
 
 ###### ARTICULO 18.
 
@@ -205,9 +219,11 @@ El Estado y los Municipios, en cumplimiento de lo previsto por la Fracción VIII
 
 Asimismo, tanto en el Acta de emisión como en los títulos, deberán citarse los datos fundamentales de la autorización y la prohibición de su venta a extranjeros, sean éstos Gobiernos, Entidades Gubernamentales, Sociedades Particulares u Organismos Internacionales. Si en tales documentos no se consignan dichas prevenciones, no tendrán validez alguna.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 21.
 
-Cuando los Municipios, sus Organismos Descentralizados, Empresas de Participación Mayoritaria o Fideicomisos, requieran la garantía del Estado, la contratación de empréstitos o créditos se realizará con la aprobación de la Secretaría de Finanzas. En el caso de que el Estado otorgue el empréstito, la contratación se realizará con la propia Secretaría de Finanzas.
+Cuando los Municipios, sus Organismos Descentralizados, Empresas de Participación Mayoritaria o Fideicomisos, requieran la garantía del Estado, la contratación de empréstitos o créditos se realizará con la aprobación de la Secretaría de Planeación y Finanzas. En el caso de que el Estado otorgue el empréstito, la contratación se realizará con la propia Secretaría de Planeación y Finanzas.
 
 ###### ARTICULO 22.
 
@@ -223,11 +239,17 @@ Cuando las Entidades señaladas en las Fracciones II, III, IV y V, del Artículo
 
 Las obligaciones directas e indirectas derivadas de la contratación de empréstitos u otras operaciones de endeudamiento, deberán registrarse conforme a lo siguiente:
 
-I.- La Secretaría de Finanzas, llevará el registro de empréstitos u obligaciones que afecten la Deuda Pública Estatal.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
 
-II.- Las Entidades del Sector Público Paraestatal llevarán su respectivo registro, conforme a las reglas que dicte la Secretaría Finanzas y le informarán mensualmente, los datos de la totalidad de los empréstitos contratados, así como las fechas y cantidades de pagos realizados.
+I.- La Secretaría de Planeación y Finanzas, llevará el registro de empréstitos u obligaciones que afecten la Deuda Pública Estatal.
 
-III.- Los Municipios llevarán el registro de empréstitos que afecten la Deuda Pública Municipal, procurando en lo posible adecuar sus reglas a las que dicte la Secretaría de Finanzas para las Entidades Estatales, con el fin de homologar la información de la materia.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+II.- Las entidades del Sector Público Paraestatal llevarán su respectivo registro, conforme a las reglas que dicte la Secretaría de Planeación y Finanzas y le informarán mensualmente, los datos de la totalidad de los empréstitos contratados, así como las fechas y cantidades de pagos realizados.
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+III.- Los Municipios llevarán el registro de empréstitos que afecten la Deuda Pública Municipal, procurando en lo posible adecuar sus reglas a las que dicte la Secretaría de Planeación y Finanzas para las Entidades Estatales, con el fin de homologar la información de la materia.
 
 IV.- Los Organismos Descentralizados Municipales, Empresas de Participación Mayoritaria Municipales y los Fideicomisos Municipales, llevarán sus respectivos registros, conforme a las reglas que dicten los Municipios y les informarán los datos a que se refiere la Fracción II, de este Artículo.
 
@@ -278,3 +300,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HUGO FELIX GARCIA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE AGOSTO DE 2001.
+
+###### ARTICULO UNICO.
+
+Las presentes Reformas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
