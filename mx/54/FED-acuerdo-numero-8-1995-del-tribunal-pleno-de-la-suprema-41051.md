@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-8-1995-del-tribunal-pleno-de-la-suprema-41051"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1995-06-26"
-last_updated: "1995-06-26"
+last_updated: "1995-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41051&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-19"
 
 ACUERDO NUMERO 8/1995 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL DIA DIECINUEVE DE JUNIO DE MIL NOVECIENTOS NOVENTA Y CINCO, RELATIVO A LA DETERMINACION DEL ENVIO DE ASUNTOS COMPETENCIA DEL TRIBUNAL PLENO Y DE LAS SALAS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JULIO 1995.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 26 de junio de 1995.
 
@@ -75,10 +75,18 @@ En tales supuestos, el asunto se returnará, en su caso, al Ministro dictaminado
 
 TRANSITORIOS:
 
-PRIMERO.- Este Acuerdo deberá publicarse en el Semanario Judicial de la Federación y en el Diario Oficial de la Federación; y entrará en vigor el día de su publicación en aquél.
+> <small>(REFORMADO, D.O.F. 4 DE JULIO DE 1995)</small>
+
+PRIMERO.- Este acuerdo se publicará en el Semanario Judicial de la Federación y en el Diario Oficial de la Federación y entrará en vigor el día de su publicación en éste.
 
 SEGUNDO.- Se abroga el Acuerdo 3/1995, emitido por el Tribunal Pleno el día trece de febrero de mil novecientos noventa y cinco.
 
 TERCERO.- Comuníquese este Acuerdo a los tribunales colegiados y unitarios de Circuito y a los juzgados de Distrito.
 
 Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Que este Acuerdo 8/1995, relativo a la determinación del envío de asuntos competencia del Tribunal Pleno y de las Salas de la Suprema Corte de Justicia de la Nación, a los tribunales colegiados de Circuito, fue aprobado por el Tribunal Pleno en Sesión Privada de diecinueve de junio de mil novecientos noventa y cinco, por unanimidad de diez votos de los señores ministros: Presidente en funciones Juventino V. Castro y Castro, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga M. Sánchez Cordero y Juan N. Silva Meza.- México, Distrito Federal, a diecinueve de junio de mil novecientos noventa y cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 4 DE JULIO DE 1995.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
