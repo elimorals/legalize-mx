@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "1999-05-18"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -75,9 +75,11 @@ b).- Penales; y
 
 c).- Mixtos, cuando deban conocer de ambas materias;
 
-V.- Por los Juzgados de Conciliación; y
+V.- (DEROGADA, P.O. 20 DE MARZO DE 2001)
 
-VI.- Por los demás órganos que se creen en las leyes, con cualquier otra denominación y a los cuales se les confiera jurisdicción.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI.- Por los demás órganos jurisdiccionales que con cualquier otra denominación determinen las leyes.
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
@@ -141,27 +143,25 @@ VI.- Las demás que las leyes les impongan.
 
 ## TITULO SEGUNDO. DE LA DIVISION TERRITORIAL
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 5o.
 
-Para los efectos de esta Ley, el Estado de Coahuila se divide en ocho distritos judiciales, con las cabeceras y municipalidades siguientes:
+Para la impartición de la justicia, el Estado de Coahuila de Zaragoza se dividirá en distritos judiciales y demás circunscripciones necesarias, con base en la agrupación de sus municipios.
 
-I.- Distrito de Saltillo, con cabecera en la ciudad de Saltillo, que comprende la municipalidad del mismo nombre, así como las de Arteaga, Ramos Arizpe y General Cepeda;
+El Consejo de la Judicatura es la autoridad competente para determinar los distritos judiciales y las circunscripciones de acuerdo con las reglas siguientes:
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+I.- Se fijarán para posibilitar el acceso a la justicia pronta, expedita y completa en beneficio del pueblo coahuilense;
 
-II.- Distrito de Monclova, con cabecera en la ciudad de Monclova, que comprende la municipalidad del mismo nombre, así como las de Frontera, San Buenaventura, Nadadores, Lamadrid, Sacramento, Cuatrociénegas, Ocampo, Sierra Mojada, Abasolo, Escobedo, Candela y Castaños;
+II.- Previa a la aprobación de la división judicial, el Consejo de la Judicatura pedirá la opinión de los ayuntamientos que formen parte del distrito o circunscripción de que se trate. En ese caso, éstos deberán emitir su opinión dentro de los quince días naturales siguientes a aquél en que se haya recibido la petición.
 
-III.- Distrito de Sabinas, con cabecera en la ciudad de Sabinas, que comprende la municipalidad del mismo nombre, así como las de Melchor Múzquiz, San Juan de Sabinas, Juárez y Progreso;
+Igualmente deberá solicitarse la opinión del pleno del Tribunal Superior de Justicia;
 
-IV.- Distrito de Río Grande, con cabecera en la ciudad de Piedras Negras, que comprende la municipalidad del mismo nombre, así como las de Guerrero, Allende, Nava, Morelos, Villa Unión e Hidalgo;
+III.- El Consejo de la Judicatura fijará los distritos judiciales y demás circunscripciones que exija el buen servicio de la impartición de justicia, una vez transcurrido el término precitado;
 
-V.- El Distrito de Acuña, con cabecera en Ciudad Acuña, que comprende la municipalidad del mismo nombre, así como las de Jiménez y Zaragoza;
+IV.- La aprobación de los distritos judiciales y demás circunscripciones se mandarán publicar en el Periódico Oficial del Gobierno del Estado;
 
-VI.- Distrito de Viesca, con cabecera en la ciudad de Torreón, que comprende la municipalidad del mismo nombre, así como las de Viesca y Matamoros;
-
-VII.- Distrito de San Pedro de las Colonias, con cabecera en la ciudad de San Pedro, que comprende la municipalidad del mismo nombre, así como la de Francisco I. Madero; y
-
-VIII.- Distrito de Parras de la Fuente, con cabecera en la ciudad de Parras, que comprende la municipalidad del mismo nombre.
+V.- Se podrá modificar el número de distritos y circunscripciones determinadas por el Consejo de la Judicatura, previo el procedimiento que establece este artículo.
 
 ## TITULO TERCERO. DE LA ORGANIZACION DEL PODER JUDICIAL
 
@@ -179,9 +179,11 @@ Será presidente, uno de los magistrados numerarios, designado por el Pleno, qui
 
 El Tribunal Superior de Justicia del Estado, conocerá y resolverá de los asuntos de su competencia en materia electoral, a través de una Sala Auxiliar y del Pleno del propio Tribunal, en los términos ordenados en el artículo 27 de la Constitución Política del Estado y lo que disponga la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 7o.
 
-Los magistrados que integren el Tribunal Superior de Justicia deberán residir en la Capital del Estado; durarán en su encargo seis años, al término de los cuales podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Sexto de la Constitución Política local.
+Los magistrados que integren el Tribunal Superior de Justicia deberán residir en la Capital del Estado; durarán en su encargo seis años, al término de los cuales podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Séptimo de la Constitución Política local.
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
@@ -263,7 +265,9 @@ XI.- Realizar los cambios que sean necesarios entre los magistrados numerarios, 
 
 XII.- Exigir del presidente del Tribunal el fiel cumplimiento de sus obligaciones y la responsabilidad en que incurra de acuerdo a la Ley, en el ejercicio de sus funciones;
 
-XIII.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 1997)
+> <small>(REFORMADA [ADICIONADA], P.O. 20 DE MARZO DE 2001)</small>
+
+XIII.- Conocer de las controversias constitucionales y acciones de inconstitucionalidad locales a que se refiere la Constitución Política del Estado;
 
 XIV.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 1997)
 
@@ -611,7 +615,7 @@ Para el desempeño de sus funciones cada Sala tendrá los Secretarios de acuerdo
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO VIII. DE LOS JUECES DE CONCILIACION
+### CAPITULO VIII
 
 ### CAPITULO IX. DE LOS SECRETARIOS, OFICIAL MAYOR, ACTUARIOS Y DEMAS EMPLEADOS DE LA ADMINISTRACION DE JUSTICIA
 
@@ -831,7 +835,9 @@ Los juzgados locales letrados estarán a cargo de un juez designado por el Conse
 
 Los jueces Locales Letrados en Materia Civil conocerán:
 
-I.- De los juicios civiles cuya cuantía sea mayor de 151 días y no exceda de 500 días de salario mínimo general, vigente en la Capital del Estado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I.- De los juicios civiles cuya cuantía sea menor a 500 días de salario mínimo general, vigente en la capital del Estado; y
 
 II.- De los juicios mercantiles cuya cuantía no exceda de 500 días de salario mínimo general vigente en la capital del Estado, en la fecha en que se presente la demanda.
 
@@ -853,51 +859,17 @@ Los Jueces Locales Letrados Mixtos conocerán de los asuntos a que se refieren l
 
 Son facultades y obligaciones de los Jueces Locales Letrados, en la esfera de su competencia, las establecidas en los artículos 37 fracciones V, VI, VII, VIII, IX y X y 38 de esta Ley.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
 ### CAPITULO III. DE LAS DESIGNACIONES
 
 ###### ARTICULO 47.
 
-En cada municipio, habrá el número de Jueces de Conciliación que el Ayuntamiento respectivo considere indispensables, fijando su residencia de acuerdo con los Jueces de Primera Instancia de la jurisdicción.
+(DEROGADO, P.O. 20 DE MARZO DE 2001)
 
 ###### ARTICULO 48.
 
-Son atribuciones de los Jueces de Conciliación:
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
-
-I.- Intervenir en los negocios civiles cuya cuantía no exceda de 150 días de salario mínimo general, vigente en la Capital del Estado, oyendo a las partes para el sólo efecto de procurar su conciliación y avenimiento y, logrado que sea, levantará un acta en la que hará constar lo convenido entre las partes, autorizándola el juez con dos testigos de asistencia y firmándola los interesados, si supieren hacerlo.
-
-Si no se lograra la conciliación, los jueces emitirán opinión a verdad sabida y buena fe guardada, sobre cual de las partes tiene la razón, haciéndolo saber a los interesados. Si esta opinión no fuera objetada en el término de 3 días se tendrá como resolución definitiva.
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
-
-En caso contrario, reservarán el derecho a los interesados a fin de que lo hagan valer ante el juez competente.
-
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1991)</small>
-
-Los convenios celebrados ante los Jueces de Conciliación tendrán efecto de sentencia ejecutoriada y en caso de que no sea voluntariamente cumplida, será ejecutada por el propio Juez del Conocimiento.
-
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 5 DE DICIEMBRE DE 1997)</small>
-
-II.- Dar aviso al Ministerio Público, de los hechos que se presuman delictuosos ocurridos dentro del territorio en que actúen;
-
-III.- Dictar las medidas necesarias para la aprehensión de los presuntos responsables, en caso de flagrante delito;
-
-IV.- Tomar la declaración del ofendido, cuando se tratare de delitos contra la integridad física, dando fe del estado en que haya sido encontrado;
-
-V.- Recoger las armas, instrumentos y demás objetos que hayan servido para la comisión del delito, dando fe de las circunstancias en que fueron encontradas;
-
-VI.- Dar fe de las huellas materiales que dejaren los hechos delictuosos, dictando las medidas necesarias para que no desaparezcan, en tanto la autoridad competente tome las medidas que correspondan;
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
-
-VII.- Practicar las diligencias que les encomienden los jueces de Primera Instancia y Locales y Letrados; y
-
-VIII.- Las demás que les fije la Ley.
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
-
-De las diligencias y medidas a que se refieren las fracciones anteriores, se levantará acta circunstanciada, que autorizarán dos testigos de asistencia.
+(DEROGADO, P.O. 20 DE MARZO DE 2001)
 
 ### CAPITULO IV. DE LA PERMANENCIA EN EL CARGO
 
@@ -1025,17 +997,23 @@ En el caso de que haya dos o más magistrados de distrito, o dos o más jueces d
 
 Son atribuciones del Consejo de la Judicatura las siguientes:
 
-I.- Nombrar y remover en los términos que señale la ley, a los Magistrados Unitarios de Distrito, Jueces de Primera Instancia, Jueces Locales Letrados, de Conciliación y demás personal del Poder Judicial que no dependa de las Salas o de la Presidencia del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I.- Nombrar y remover en los términos que señale la ley, a los Magistrados Unitarios de Distrito, Jueces de Primera Instancia, Locales Letrados y demás personal del Poder Judicial que no dependa de las Salas o de la Presidencia del Tribunal Superior de Justicia;
 
 II.- Crear, a propuesta del Presidente del Tribunal, según lo exijan las necesidades del servicio y lo permita el presupuesto de egresos, más órganos jurisdiccionales subalternos, cuyos titulares están facultado (sic) a nombrar según la fracción anterior;
 
-III.- A propuesta del Presidente del Tribunal, señalar o cambiar la adscripción de los titulares de los órganos jurisdiccionales subalternos, variar la materia y circunscripción territorial de éstos y cambiar el lugar de su residencia; así como establecer los criterios generales que sean necesarios para la adecuada distribución de los asuntos en los lugares donde existan varios juzgados de primera instancia;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+III.- A propuesta del Presidente del Consejo, determinar los distritos judiciales y demás circunscripciones conforme al artículo 5° de esta ley; determinar o modificar el número, la circunscripción y la especialización de los órganos jurisdiccionales; señalar o cambiar la adscripción de los titulares de los órganos jurisdiccionales; cambiar el lugar de su residencia y su domicilio oficial, con excepción del Tribunal Superior de Justicia; así como establecer los criterios generales que sean necesarios para la adecuada distribución de los asuntos en los lugares donde existan varios juzgados de primera instancia;
 
 IV.- Discutir, aprobar y modificar según proceda el proyecto del Presupuesto de Egresos que proponga el Presidente del Tribunal Superior, con excepción del que corresponde al Tribunal Superior de Justicia y sus Salas;
 
-V.- Ordenar, por conducto del Presidente del Consejo, que la Visitaduría Judicial realice las auditorías especiales, o las visitas de inspección ordinarias a los Tribunales Unitarios de Distrito, Juzgados de Primera Instancia, Locales Letrados y de Conciliación. Y cuando lo estime necesario, a los lugares de reclusión o de readaptación. Con objeto de proveer a una mejor administración de justicia. En aquellos casos que a juicio del Presidente del Consejo sean urgentes, éste podrá ordenar las visitas extraordinarias que estime necesarias, por medio de la Visitaduría, debiendo informar de ello al Consejo de la Judicatura en la sesión más próxima.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-En el caso de los Juzgados Locales Letrados y de Conciliación, la práctica de visitas también podrá encomendarse a los Magistrados Unitarios de Distrito o Jueces de Primera Instancia;
+V.- Ordenar, por conducto del Presidente del Consejo, que la Visitaduría Judicial realice las auditorías especiales, o las visitas de inspección ordinarias a los Tribunales Unitarios de Distrito, Juzgados de Primera Instancia, Locales Letrados y demás órganos jurisdiccionales. Y cuando lo estime necesario, también se ordenará a los lugares de reclusión o de readaptación con objeto de proveer a una mejor administración de justicia.
+
+En aquellos casos que a juicio del Presidente del Consejo sean urgentes, éste podrá ordenar las visitas extraordinarias que estime necesarias, por medio de la Visitaduría, debiendo informar de ello al Consejo de la Judicatura en la sesión más próxima;
 
 VI.- Conferir a los magistrados supernumerarios, cuando no estén en funciones, las comisiones y representaciones que juzgue pertinentes, en beneficio de la administración de justicia, con excepción de aquellas que sean competencia del Pleno del Tribunal Superior de Justicia;
 
@@ -1215,13 +1193,9 @@ Todos los titulares de las dependencias del Poder Judicial, comunicarán a la Pr
 
 Todos los servidores públicos del Poder Judicial, deberán enviar su hoja de servicios, a la Oficialía Mayor de la Presidencia del Tribunal, con los datos que se les soliciten, dentro de los treinta días siguientes a la fecha de su designación.
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
-
 ###### ARTICULO 77.
 
-Los jueces de Conciliación serán nombrados cada tres años por el Tribunal Superior de Justicia, a propuesta en terna de los ayuntamientos, y podrán desempeñar el cargo en períodos sucesivos. El período se iniciará el día primero de febrero y concluirá el día treinta y uno de enero, una vez transcurrido el término de tres años.
-
-Las ternas que propongan los ayuntamientos deberán integrarse, con personas que presten o hayan prestado sus servicios, con eficiencia y probidad, al Poder Judicial del Estado en cualquier cargo de confianza, o por aquellas personas que sean merecedoras por su honorabilidad, competencia y conocimiento del derecho.
+(DEROGADO, P.O. 20 DE MARZO DE 2001)
 
 ###### ARTICULO 78.
 
@@ -1317,27 +1291,13 @@ V.- Sustentar y aprobar el examen de mérito.
 
 (DEROGADO, P.O. 2 DE JULIO DE 1996)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 1991)</small>
-
 ###### ARTICULO 87.
 
-Para ser designado Juez de Conciliación, se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento y coahuilense, en el pleno ejercicio de sus derechos políticos y civiles;
-
-II.- No tener más de 65 años de edad, ni menos de 25, el día de la designación;
-
-III.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena impuesta;
-
-IV.- Tener residencia efectiva durante los últimos cinco años, en el lugar donde habrá de ejercerse la función; y
-
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1991)</small>
-
-V.- De preferencia, tener conocimientos en Materia de Derecho. El Juez de Conciliación cuando sólo exista uno o el Juez Primero de Conciliación cuando haya varios en la cabecera de los Distritos Judiciales, deberán contar con título de abogado, requisito que también deberán satisfacer, de ser posible, los que se designen en las cabeceras municipales.
+(DEROGADO, P.O. 20 DE MARZO DE 2001)
 
 ###### ARTICULO 88.
 
-Los jueces de conciliación serán nombrados cada tres años por el Pleno del Tribunal de Justicia del Estado, a propuesta en terna de los ayuntamientos respectivos y podrán desempeñar el cargo en períodos sucesivos.
+(DEROGADO, P.O. 20 DE MARZO DE 2001)
 
 ###### ARTICULO 89.
 
@@ -1371,17 +1331,15 @@ IV.- Sustentar y aprobar el examen de méritos.
 
 Los Secretarios, cualquiera que sea su categoría, y los actuarios, serán nombrados por los titulares del órgano judicial del que dependan.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 92.
 
-Los Magistrados del Tribunal Superior de Justicia al iniciar el ejercicio de su cargo, rendirán la protesta de Ley ante el Congreso del Estado, y en sus recesos, ante la Diputación Permanente.
+Los Magistrados del Tribunal Superior de Justicia al iniciar el ejercicio de su cargo, rendirán la protesta de ley ante el Congreso del Estado, y en sus recesos, ante la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+Los Magistrados Unitarios de Distrito, los Jueces de Primera Instancia y demás titulares de los órganos jurisdiccionales que formen parte del Poder Judicial, lo harán en los términos establecidos por la Constitución Local.
 
-Los Magistrados de Distrito, los Jueces de Primera Instancia y Locales Letrados, lo harán ante el Consejo de la Judicatura o su Presidente.
-
-Los jueces de Conciliación protestarán ante el ayuntamiento del municipio en que residan.
-
-Los demás servidores de la administración de justicia, rendirán la protesta de Ley ante la autoridad de quien dependan.
+Los demás servidores de la administración de justicia, rendirán la protesta de ley ante la autoridad de quien directamente dependan.
 
 ###### ARTICULO 93.
 
@@ -1735,13 +1693,15 @@ El Archivo General del Poder Judicial dependerá de la Presidencia del Tribunal 
 
 El Archivo Judicial del Estado tendrá sus oficinas centrales en la Capital, y si las necesidades del servicio lo requieren previo acuerdo del Tribunal Pleno, se establecerán dependencias en cualquier otro Distrito Judicial del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 132.
 
-Se depositarán en el Archivo General:
+Se depositarán en el Archivo General y en los archivos distritales regionales:
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-I.- Todos los expedientes del orden civil, de lo familiar y de lo penal totalmente concluidos, tanto por el tribunal Superior de Justicia, como por los Juzgados de Primera Instancia y de Conciliación;
+I.- Todos los expedientes del orden civil, de lo familiar y de lo penal totalmente concluidos, tanto por el Tribunal Superior de Justicia como por los Tribunal (sic) Unitarios de Distrito, Juzgados de Primera Instancia y demás órganos jurisdiccionales;
 
 II.- Los expedientes aún no concluidos en los que haya habido inactividad procesal de las partes por más de un año;
 
@@ -2047,7 +2007,7 @@ Las faltas temporales de los secretarios de los juzgados de primera instancia y 
 
 ###### ARTICULO 171.
 
-Toda ausencia de los jueces de Conciliación será suplida por la persona que designe el Pleno del Tribunal, con carácter de interino o definitivo, de entre las propuestas que haga el ayuntamiento respectivo.
+(DEROGADO, P.O. 20 DE MARZO DE 2001)
 
 ## TITULO DECIMO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
@@ -2127,9 +2087,9 @@ II.- Desintegrar sin motivo justificado, el quórum de los Plenos, una vez comen
 
 III.- Dictar acuerdos o providencias que contengan decisiones generales sobre interpretación de las leyes;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-IV.- Llevar a su conocimiento los negocios en trámite ante los Tribunales Unitarios de Distrito, Jueces de Primera Instancia y de Conciliación, a menos que se trate de una investigación; y
+IV.- Llevar a su conocimiento los negocios en trámite ante los Tribunales Unitarios de Distrito, Jueces de Primera Instancia y demás órganos jurisdiccionales, a menos que se trate de una investigación; y
 
 V.- Violar las normas que regulan el procedimiento para llevar a cabo los nombramientos que le competan.
 
@@ -2741,7 +2701,7 @@ I.- La intervención de negocios propios promovidos por personas físicas, o por
 
 II.- La designación de defensor en los procesos penales;
 
-III.- La actuación en los juicios de menor cuantía que se ventilen ante los Juzgados de Conciliación; y
+III.- (DEROGADA, P.O. 20 DE MARZO DE 2001)
 
 IV.- En general, el ejercicio del derecho de petición y de las acciones públicas consagradas por la Constitución y las leyes respectivas.
 
@@ -2766,6 +2726,12 @@ II.- Acompañar el directorio de sus miembros, así como una relación de los so
 ###### ARTICULO 260.
 
 La asociaciones de abogados legalmente constituidas y registradas, quedan debidamente autorizadas para gestionar ante la Autoridad Judicial que corresponda, lo que estimen conducente para la mejor administración de justicia.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+
+TITULO DECIMOTERCERO
+
+DE LA JURISPRUDENCIA LOCAL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -2832,12 +2798,6 @@ Las tesis de jurisprudencia no afectarán las situaciones jurídicas concretas d
 Cuando las partes invoquen la existencia de una jurisprudencia local deberán expresarlo por escrito identificando claramente su fuente, rubro y tesis. En todo caso, la autoridad judicial deberá revisar la existencia de la jurisprudencia por medio del Boletín o el Periódico Oficial del Gobierno del Estado.
 
 El Pleno, el Consejo o las Salas por sí o por conducto de sus presidencias, podrán enviar copia certificada de las tesis de jurisprudencias aprobadas a todos los tribunales y jueces del Poder Judicial.
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
-
-TITULO DECIMOTERCERO
-
-DE LA JURISPRUDENCIA LOCAL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3166,3 +3126,43 @@ Estas reformas iniciarán su vigencia a partir del día 1° de septiembre; toda 
 ###### ARTICULO SEGUNDO.
 
 Para los efectos de formar jurisprudencia local se tomarán en cuenta aquellos criterios que se sustenten en las resoluciones que se dicten a partir del inicio de vigencia de estas reformas, con relación a criterios aplicables sostenidos en resoluciones pronunciadas dentro de los seis últimos años, anteriores al año del inicio de vigencia de estas reformas.
+
+P.O. 20 DE MARZO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Congreso del Estado en coordinación con todos los Ayuntamientos de la entidad, antes del inicio del ejercicio fiscal del año 2002, establecerán los criterios necesarios para que los valores unitarios de suelo y de construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las reformas o adiciones legales correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Para tal efecto, el Congreso del Estado a través de la Comisión de Finanzas coordinará, a partir de la entrada en vigor de este decreto, un programa con los municipios para definir los criterios proporcionales y equitativos que se deben establecer para fijar la base de las contribuciones sobre la propiedad inmobiliaria, de conformidad con las disposiciones aplicables.
+
+En este programa deberá participar el Instituto Coahuilense del Catastro y la Información Territorial como órgano de apoyo y asesoría necesaria.
+
+###### ARTICULO TERCERO.
+
+Los juzgados de conciliación deberán continuar con la denominación y competencia que actualmente tienen, hasta el treinta y uno de agosto del año dos mil uno, fecha en que concluirán sus funciones, quedando sin efecto los nombramientos de sus titulares. Consecuentemente, las disposiciones contenidas en los artículos de la Ley Orgánica del Poder Judicial que hagan referencia a los juzgados de conciliación estarán en vigor hasta la fecha señalada, con excepción de lo dispuesto en la fracción I del artículo 43.
+
+El personal que formaba parte de los Juzgados de Conciliación podrán integrar los juzgados municipales que establece el Código Municipal, según lo acuerde el Ayuntamiento respectivo.
+
+En todo caso, se deberán respetar los derechos laborales del personal que formaba parte de los Juzgados de Conciliación. Los ayuntamientos emitirán los acuerdos necesarios para regularizar su situación laboral y su reorganización dentro de la administración pública municipal.
+
+Hasta en tanto el Consejo de la Judicatura determine nuevos distritos judiciales, seguirán vigentes, para todos los efectos legales, los ocho distritos previstos en el texto anterior del artículo 5° de la Ley Orgánica del Poder Judicial, que ahora se reforma; y que tienen como cabecera las ciudades de: Saltillo, Monclova, Sabinas, Piedras Negras, Acuña, Torreón, San Pedro de las Colonia y Parras de la Fuente.
+
+###### ARTICULO CUARTO.
+
+Los Ayuntamientos dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, deberán instalar las Unidades Municipales de Protección Civil, según sus necesidades, condiciones y particularidades socioeconómicas.
+
+Estas unidades formarán parte de la administración pública municipal, según el acuerdo que emita el Ayuntamiento.
+
+En aquellos municipios que no cuenten con estas unidades, el Ejecutivo del Estado a través de la instancia correspondiente podrá coadyuvar, colaborar o sustituir la función de las mismas hasta en tanto el municipio pueda asumir plenamente esta función.
+
+###### ARTICULO QUINTO.
+
+Dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, los ayuntamientos deberán adecuar su reglamentación, acuerdos, circulares y demás disposiciones generales.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones en contrario.
