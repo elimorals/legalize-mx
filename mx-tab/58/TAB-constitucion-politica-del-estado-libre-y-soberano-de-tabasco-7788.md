@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1996-12-21"
+last_updated: "1997-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1997.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -549,9 +549,9 @@ XVII.- Conceder amnistías por delitos de la competencia de los Tribunales de la
 
 XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1997)</small>
 
-XIX.- Otorgar o negar su aprobación a los nombramientos de Magistrado del Tribunal Superior de Justicia, propuestos por el Gobernador del Estado; así como remitir a éste la terna para designar Procurador General de Justicia del Estado;
+XIX.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, y del Presidente de la Comisión Estatal de Derechos Humanos, propuestos por el Gobernador del Estado; así como remitir a éste la terna para designar Procurador General de Justicia del Estado;
 
 XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
 
@@ -585,7 +585,9 @@ XXVIII.- Expedir la Ley Orgánica Municipal y las bases de policía y Buen Gobie
 
 XXIX.- Autorizar la enajenación o gravamen de bienes de los Municipios y del Estado;
 
-XXX.- Recibir la protesta constitucional a los Diputados, al Gobernador y a los Magistrados del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1997)</small>
+
+XXX.- Recibir la protesta Constitucional a los Diputados, al Gobernador, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal de lo Contencioso Administrativo y al Presidente de la Comisión Estatal de Derechos Humanos;
 
 XXXI.- Crear y suprimir empleos públicos del Estado según los requerimientos del servicio público y señalar, aumentar o disminuir las respectivas partidas presupuestarias atendiendo a las circunstancias del Erario;
 
@@ -868,6 +870,8 @@ Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despac
 ###### ARTICULO 54.
 
 Los titulares de las Dependencias son responsables por el despacho de los asuntos de su competencia que autoricen actos contrarios a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, leyes federales o de esta Constitución.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ## TITULO V. PODER JUDICIAL
 
@@ -1278,54 +1282,6 @@ Todo funcionario y empleado público del Estado o de los Municipios, sin excepci
 El Gobernador del Estado, los Diputados, los Magistrados del Tribunal Superior de Justicia y los demás servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual o equitativamente en el presupuesto de Egresos del Estado, de los Municipios, o en los presupuestos de las entidades paraestatales, según corresponda.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1983)</small>
-
-###### ARTICULO 76.
-
-Corresponde al Estado la Rectoría del Desarrollo de la Entidad, para Garantizar que éste sea integral, que fortalezca su soberanía y su Régimen Democrático y que, mediante el Crecimiento Económico que fomente el empleo, y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de las libertades y la dignidad de los individuos, grupos y clases sociales cuya seguridad protege el derecho.
-
-El Estado Planeará, Conducirá, Coordinará y Orientará la Actividad Económica Estatal, y llevará a cabo la regulación y fomento de las Actividades que demande el interés General, en el marco de las Libertades Otorgadas por la Ley.
-
-Al Desarrollo Económico Estatal Concurrirán con Responsabilidad Social, el Sector Público, el Sector Social y el Sector Privado, sin menoscabo de otras formas de Actividad Económica que contribuyan al Desarrollo de la Entidad.
-
-El Sector Público tendrá a su cargo, de manera exclusiva, las áreas estratégicas definidas por esta Constitución y las Leyes que de ella emanen. Para un mejor cumplimiento de sus fines, la Ley Precisará las formas de Participación Social en estas áreas, conservando el Estado en todo tiempo el Control sobre la Conducción y Operación. Asimismo, podrá participar por sí, o a través de los Sectores Social o Privado de acuerdo con la Ley, para impulsar y organizar las areas prioritarias del desarrollo.
-
-Bajo criterios de equidad social y productividad, se apoyara e impulsará al sector social y al sector privado de la economía, sujetandolos junto con las actividades económicas que realiza el Estado, a las modalidades que dicte el interés Público y al uso, en beneficio general de los recursos productivos, cuidando de su conservación y del medio ambiente.
-
-La Ley, establecerá los mecanismos que faciliten la organización y expansión de la actividad económica del sector social, mediante organizaciones para trabajadores, cooperativas, comunidades, empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios.
-
-La Ley alentará y protegerá la actividad económica que realizan los particulares y proveerá condiciones para el desenvolvimiento de la empresa privada en los términos legales.
-
-El Estado organizará un sistema de planeación Democrática del Desarrollo Estatal que imprima solidez, dinamismo, permanencia y equidad, al crecimiento de la economía y a la democratización Política, Social y Cultural del Estado.
-
-Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La Planeación será democrática buscando la participación de los diversos sectores sociales y recogiendo las aspiraciones y demandas de la sociedad para incorporarlos al plan y a los programas de desarrollo. Por tanto, habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública del Estado. La Ley facultará al Ejecutivo para que pueda establecer los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación Democrática, así como los criterios de la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. Asimismo, determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los Gobiernos de las entidades municipales, e induzca y concerte con los particulares, las acciones a realizar para su elaboración y ejecución.
-
-El Ejecutivo informará al congreso del Estado de los criterios que sirvan de base al plan estatal de desarrollo, con el fin de que los tome en consideración al ejercer sus atribuciones constitucionales.
-
-El Estado coadyuvará con la Federación, promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado. Igualmente, fomentará la actividad agropecuaria y forestal para el mejor uso de la tierra, con obras de infraestructura, insumos, creditos y servicios de capacitación y extensionismo.
-
-El Estado impulsará también, junto con la Federación, la organización para la producción, industrialización y comercialización, que requiera la economía estatal y el beneficio de los campesinos.
-
-> <small>N. DE E. EN TERMINOS DEL TERCERO TRANSITORIO DEL DECRETO DE REFORMA, SE MANTIENEN VIGENTES LOS DOCE PARRAFOS ANTERIORES.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Los recursos Económicos de que dispongan el Gobierno del Estado, de los Municipios, así como sus respectivas Administraciones Públicas Paraestatales, se administrarán con eficiencia y honradez para satisfacer los objetivos a los que estén destinados.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Las Adquisiciones, Arrendamientos y Enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y contratación de obras que realicen, se adjudicarán o llevarán a cabo a traves de licitaciones públicas, mediante convocatoria Pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportinidad (sic) y demás circunstancias pertinentes.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Cuando las licitaciones a que hace referencia al párrafo anterior, no sean idóneas para asegurar dichas condiciones, las Leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-El manejo de Recursos Económicos del Estado, de los Municipios y de sus respectivas Administraciones Públicas paraestatales, se sujetarán a las bases de este artículo.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del título séptimo de esta Constitución.(REFORMADO, P.O. 9 DE ABRIL DE 1983)
 
 ###### ARTICULO 76.
 
@@ -1878,3 +1834,9 @@ CUARTO.- En cumplimiento a lo dispuesto en el artículo 12, para las elecciones 
 QUINTO.- El Congreso del Estado, designará, a más tardar en la segunda semana del mes de marzo de 1997, a propuesta de los grupos parlamentarios, al Consejero Presidente y a los Consejeros Electorales del Instituto Electoral de Tabasco, hecho lo cual quedarán sin efecto los nombramientos de los actuales Consejeros Ciudadanos del Instituto Estatal Electoral.
 
 SEXTO.- El Congreso del Estado, designará, a más tardar la última semana de marzo de 1997, conforme al procedimiento que disponga la ley, a los Magistrados del Tribunal Electoral de Tabasco, para este efecto, previamente el Pleno del Tribunal Superior de Justicia deberá sesionar para elaborar la lista señalada en el artículo 63 bis hecho lo cual quedarán sin efecto los actuales nombramientos de los Magistrados del Tribunal Estatal Electoral.
+
+P.O. 19 DE MARZO DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrarán en vigor a partir del momento de su aprobación.
