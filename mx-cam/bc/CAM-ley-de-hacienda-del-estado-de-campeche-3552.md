@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1997-06-11"
+last_updated: "1997-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -497,7 +497,9 @@ X.- Por la inscripción de embargos y fianzas, sobre el importe de la operación
 
 XI.- Por la inscripción de cualquier otro documento no especificado 2
 
-XII.- Por la inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumento de su capital, sobre el monto éste o de sus aumentos, se causará la tarifa de la fracción I.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+XII.- Por la inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumento de su capital 4
 
 XIII.- Por la inscripción de actas de asambleas de socios o juntas de administradores, no referentes a aumentos de capital 2.5
 
@@ -571,7 +573,7 @@ I.- Por la legalización de firmas:
 
 a) Que efectúen los funcionarios o empleados autorizados legalmente para ello, del Poder Ejecutivo o del Judicial 2
 
-b) Certificado de Educación Media 1.5
+b) (DEROGADO, P.O. 27 DE DICIEMBRE DE 1997)
 
 c) Certificado de Educación Media Superior 3
 
@@ -893,7 +895,9 @@ a) Por el registro a concurso 6
 
 b) Por inscripción y venta de bases 9 a 35
 
-F.- SECRETARIA DE MEDIO AMBIENTE, RECURSOS NATURALES Y DESARROLLO PESQUERO:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+F.- SECRETARIA DE PESCA:
 
 I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
 
@@ -933,73 +937,59 @@ a) Por el registro a concurso 6
 
 b) Por inscripción y venta de bases 9 a 35
 
-J.- ORGANISMOS DESCONCENTRADOS:
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+J.- SECRETARIA DE FOMENTO INDUSTRIAL Y COMERCIAL:
 
 I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
 
-Salarios Mínimos Generales Diarios Vigentes
+Salario Mínimo General Diario Vigente
 
 a) Por el registro a concurso 6
 
 b) Por inscripción y venta de bases 9 a 35
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+K.- SECRETARIA DE TURISMO:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salario Mínimo General Diario Vigente
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+L.- SECRETARIA DE ECOLOGIA:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salario Mínimo General Diario Vigente
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+M.- ORGANISMOS DESCONCENTRADOS:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salario Mínimo General Diario Vigente
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
 
 II.- Por el ingreso que perciban por los servicios que prestan los organismos, de acuerdo a las cuotas o tarifas siguientes:
 
-a). HOSPITAL "MANUEL CAMPOS"
-
-Por los servicios que preste el Hospital cobrará:
-
-IMPORTES
-
-Consulta de Neurocirugía $50.00
-
-Consulta de Neurología 50.00
-
-Consulta de Medicina Interna 50.00
-
-Consulta de Cardiología 50.00
-
-Consulta de Neumología 50.00
-
-Consulta de Ginecología 50.00
-
-Consulta de Pediatría 50.00
-
-Consulta de Traumatología y Ortopedia 50.00
-
-Consulta de Cirugía General 50.00
-
-Consulta de Geriatría 50.00
-
-Consulta de Comunicación y Audiología 50.00
-
-Consulta de Rehabilitación 50.00
-
-Consulta de Clínica de Displasias 10.00
-
-Cirugías Neurológicas 2000
-
-Cirugías (Especialidades) 1000
-
-Estudios de Tomografía Computada 500
-
-Ultrasonografía 120
-
-Mastografía 300
-
-Rayos X 50
-
-Estudios de Laboratorio 20
-
-Asimismo, los ingresos que obtenga por la venta de fármacos, biológicos y material de curación, deberán ser concentrados en las oficinas recaudadoras de la Secretaría de Finanzas y Administración.
-
-b) HOSPITAL PSIQUIATRICO "MANUEL CAMPOS"
+a) HOSPITAL PSIQUIATRICO "MANUEL CAMPOS"
 
 Las cuotas de recuperación del Hospital Psiquiátrico son:
-
-IMPORTES
 
 Pre-Consulta $10.00
 
@@ -1019,7 +1009,11 @@ Revaloraciones 10.00
 
 7.- F 50.00
 
-El rubro señalado como exento en el cuadro anterior corresponde a las siguientes Instituciones: Preceptoría de Menores, Internos del Centro de Readaptación Social, Hogar de Ancianos, Aldeas Infantiles, Casa Hogar y, previo estudio socioeconómico.
+El rubro señalado como exento en el cuadro anterior corresponde a las siguientes Instituciones: Internos del Centro de Readaptación Social, Hogar de Ancianos, Aldeas Infantiles, Casa Hogar y, previo estudio socioeconómico.
+
+Las cuotas de recuperación del Hospital Psiquiátrico son:
+
+IMPORTES
 
 CUOTAS DE RECUPERACION POR PRUEBAS PSICOLOGICAS
 
@@ -1105,11 +1099,11 @@ Wais
 
 11.00 13.00 16.00 18.00 21.00 25.00
 
-Wisc
+Winc
 
 11.00 13.00 16.00 18.00 21.00 25.00
 
-Wisc-RM
+Winc-RM
 
 12.00 14.00 16.00 18.00 21.00 25.00
 
@@ -1175,7 +1169,7 @@ Thurstone (Interés Vocacional)
 
 Asimismo, los ingresos que obtenga por la venta de fármacos, biológicos y material de curación, deberán ser concentrados en las oficinas recaudadoras de la Secretaría de Finanzas y Administración.
 
-c) INSTITUTO CAMPECHANO
+b) INSTITUTO CAMPECHANO
 
 INGRESOS ESCOLARES
 
@@ -1303,7 +1297,9 @@ Alquiler Teatro "Ricardo Hernández" 345.00
 
 Certificado Médico Dental 55.00
 
-El pago de derechos antes mencionados, deberán ser cubiertos en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva previamente a la obtención del servicio.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+El pago de los derechos antes mencionados, deberán ser cubiertos en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previamente a la obtención del servicio.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -1449,9 +1445,13 @@ III.- La venta se efectuará en subasta pública que anuncie y presida el Secret
 
 Quedan exceptuados en el artículo que antecede los muebles e inmuebles que el Fisco se haya adjudicado en pago de contribuciones, los cuales podrán ser enajenados sin más requisito que el de la subasta.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 56.
 
-Se autoriza al Ejecutivo del Estado para donar o vender, con el exclusivo fin de hacerlas producir, y en el precio y condiciones convenientes, las fincas rústicas que por medio del procedimiento administrativo de ejecución, se hayan adjudicado o adjudique el Gobierno del Estado.
+Se autoriza al Ejecutivo del Estado para vender, en el precio y condiciones convenientes, las fincas rústicas que por medio del procedimiento administrativo de ejecución, se haya adjudicado o adjudique el Gobierno del Estado.
+
+Asimismo, dichos bienes podrán ser donados a los ayuntamientos o instituciones de beneficencia pública para fines directos a la comunidad y con las salvedades o condiciones que el Ejecutivo determine.
 
 ### CAPITULO IV. POR BIENES MOSTRENCOS Y VACANTES
 
@@ -1468,6 +1468,8 @@ Los inmuebles se destinarán preferentemente a los usos de la Administración P�
 La Oficialía Mayor del Gobierno del Estado, formulará un minucioso inventario de todos los bienes muebles e inmuebles, patrimonio del Estado, y ninguno podrá ser dado de baja, ni retirado del servicio, sino por acuerdo expreso de la Oficialía Mayor y con la aprobación del Gobernador.
 
 ### CAPITULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 60.
 
@@ -1515,15 +1517,17 @@ b) Otras publicaciones editadas, se cobrará el costo de la impresión.
 
 Ingresarán al patrimonio de la Hacienda Pública, previo al procedimiento correspondiente, los bienes muebles e inmuebles abandonados cuyos dueños se ignoren.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 64.
 
-Los bienes de las personas que mueran intestadas, sin dejar parientes de acuerdo con lo establecido en el Código Civil vigente en el Estado, serán adjudicados al patrimonio de la Hacienda Pública. A las personas que denuncien ante las autoridades competentes las situaciones señaladas en los dos artículos anteriores, se les otorgará una participación del 20% sobre el importe de los bienes denunciados, si no existe reclamación alguna.
+Los bienes de las personas que mueran intestadas, sin dejar parientes de acuerdo con lo establecido en el Código Civil vigente en el Estado, serán adjudicadas (sic) al patrimonio de la Hacienda Pública. A las personas que denuncien ante las autoridades competentes el hecho, así como la situación a que alude el artículo anterior, se les otorgará una participación del 20% sobre el importe de los bienes denunciados, si no existe reclamación alguna.
 
 ### CAPITULO VII. OTROS PRODUCTOS
 
 ###### ARTICULO 65.
 
-Los servicios que presten los hospitales civiles en sus departamentos de distinción, no serán gratuitos. Se pagará la cuota señalada por adelantado, y las cuotas se causarán según el número de días que permanezca el interno. Si el asilado dejare de pagar será dado de baja, salvo que la naturaleza de la enfermedad no lo permita, entonces se le trasladará al departamento de los enfermos del orden común.
+Los servicios que presten las instituciones de asistencia social en general incluyendo los hospitales públicos en sus departamentos de distinción, no serán gratuitos. Se pagará la cuota señalada por adelantado, y las cuotas se causarán según el número de días que permanezca el interno. Si el asilado dejare de pagar será dado de baja, salvo que la naturaleza de la enfermedad no lo permita, entonces se le trasladará al departamento de los enfermos del orden común.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1995)</small>
 
@@ -1732,3 +1736,9 @@ P.O. 11 DE JUNIO DE 1997.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 1998.
+
+Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente Decreto.
