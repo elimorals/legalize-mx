@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2002-05-24"
+last_updated: "2002-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2002.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -653,7 +653,7 @@ Los diputados suplentes podrán ser electos para el período inmediato con el ca
 
 ### CAPITULO IV. DE LA INSTALACION Y FUNCIONAMIENTO DEL CONGRESO
 
-((REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1989)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 39.
 
@@ -777,11 +777,15 @@ XVI.- Dictar las Leyes necesarias en el ramo de educación pública que no sean 
 
 XVII.- Excitar a los Poderes de la Unión a que protejan al Estado en los casos a que hace referencia el artículo 122 de la Constitución General de la República.
 
-XVIII.- Examinar, discutir y aprobar en su caso anualmente a iniciativa del Jefe del Ejecutivo, el Presupuesto de Egresos del Estado y expedir la Ley relativa. No podrá dejar de señalar el Congreso la retribución que corresponda a un empleo que esté establecido por la Ley y en caso de que por cualquier circunstancia se omita fijar dicha remuneración se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la Ley que estableció el empleo.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1987)</small>
+XVIII.- Examinar, discutir y aprobar, a más tardar en el mes de diciembre de cada año, el Presupuesto de Egresos del Estado y expedir su Ley relativa. El Congreso no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley. En caso de que por cualquier circunstancia se omita fijar dicha remuneración, se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la Ley que estableció el empleo.
 
-XIX.- Revisar en período ordinario de Sesiones, las erogaciones e inversiones de los ingresos públicos Estatales del año fiscal anterior, otorgando constancia definitiva de aprobación en su caso o exigiendo las responsabilidades correspondientes.
+En el caso de que el Presupuesto de Egresos propuesto por el Ejecutivo no fuese aprobado, a más tardar el día 31 de diciembre de cada año, seguirá vigente el aprobado el año inmediato anterior.
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
+
+XIX.- Revisar los ingresos y egresos públicos estatales del cuatrimestre correspondiente, otorgando constancia definitiva de aprobación, en su caso, o exigiendo las responsabilidades a que haya lugar.
 
 XX.- Convocar a elecciones extraordinarias para Diputados cuando no se hubieren realizado en el período respectivo o hubiesen sido declaradas nulas las efectuadas, y proveer lo conducente.
 
@@ -841,9 +845,9 @@ XXXII.- Ejercer ante la Suprema Corte de Justicia de la Nación, la representaci
 
 XXXIII.- Autorizar al Ejecutivo para negociar empréstitos sobre el crédito del Estado, aprobarlos y decretar la manera de pagar la deuda.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
 
-XXXIV.- Nombrar y remover al Oficial Mayor del Congreso del Estado y al Contador Mayor de Hacienda, en los términos que marque la ley respectiva.
+XXXIV.- Nombrar y remover al Oficial Mayor del Congreso del Estado y al Titular del Organo de Fiscalización Superior en los términos que marque la Ley.
 
 XXXV.- Cambiar la residencia de los Poderes del Estado.
 
@@ -877,9 +881,9 @@ XLV.- Expedir la Ley de Planeación del Estado.
 
 XLVI.- Expedir leyes en materia de fomento al turismo y de regulación de sistemas de tiempo compartido y multipropiedad.
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
 
-XLVII.- Expedir la Ley Orgánica de la Contaduría Mayor de Hacienda, misma que determinará su estructura, organización y funciones que le competen como órgano técnico de fiscalización y control gubernamental auxiliar de la legislatura, encargado de la revisión, análisis y dictamen de la Cuenta Pública que el Ejecutivo del Estado y los Ayuntamientos deberán presentar en los plazos y términos que dispone esta Constitución.
+XLVII.- Expedir la Ley de Fiscalización Superior del Estado en la que se establecerá la competencia, organización, funcionamiento y procedimientos de la Auditoría General del Estado, como Organo Técnico Auxiliar del Poder Legislativo, para el control y fiscalización de la Hacienda Pública del Estado y los Municipios.
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 1999)</small>
 
@@ -913,7 +917,9 @@ IV.- Conceder licencia a los Funcionarios a que se refiere la fracción anterior
 
 V.- Recibir y resolver las renuncias que por causas graves presenten los funcionarios que deban hacerlo ante el Congreso, en los recesos de éste.
 
-VI.- Nombrar provisionalmente y con las limitaciones que establezcan las leyes, a los empleados de su Secretaría y de la Contaduría de Glosa.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
+
+VI.- Nombrar provisionalmente a los Servidores Públicos del Congreso, que conforme a la Ley deban ser aprobados por el Pleno.
 
 VII.- Llamar a los suplentes respectivos en casos de inhabilitación o suspensión temporal o permanente de los diputados que la integren, y si aquellos también estuvieren imposibilitados, expedir los decretos respectivos para que se proceda a nueva elección.
 
@@ -1143,7 +1149,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1251,9 +1257,9 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 75.
 
@@ -1281,11 +1287,11 @@ El Presidente presentará anualmente al Congreso un informe sobre las actividade
 
 > <small>(DEROGADO SEXTO PARRAFO, P.O. 17 DE MAYO DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 77.
 
@@ -1427,9 +1433,9 @@ Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial del
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 89.
 
@@ -1537,11 +1543,11 @@ VI.- De conformidad a los fines señalados por el párrafo tercero del artículo
 
 VII.- Planear y regular de manera conjunta y coordinada con la Federación, el Estado y otros Municipios en el ámbito de sus competencias el desarrollo de aquellas zonas urbanas situadas en los territorios municipales del Estado o de otras Entidades Federativas que formen o tiendan a formar una continuidad demográfica, de conformidad con las Leyes de la Materia.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
-
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 94.
 
@@ -1657,11 +1663,11 @@ V.- No ser ministro de algún culto religioso.
 
 No pueden ser electos como integrantes de los Ayuntamientos, los miembros en servicio activo del ejército y la armada nacionales, de las fuerzas públicas del Estado y los servidores públicos del Estado o de la Federación, si no se separan del servicio activo los primeros o de sus cargos los últimos, cuarenta y cinco días antes de la elección.
 
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 100.
 
@@ -1691,11 +1697,11 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables solidariamente de los actos y hechos ilícitos que se cometan con la Administración de los fondos municipales estando obligados a su vigilancia.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 102.
 
-Los Ayuntamientos aprobarán los presupuestos de egresos que regirán en el ejercicio fiscal inmediato siguiente con base en sus ingresos disponibles, y sus cuentas serán glosadas preventivamente por el Regidor comisionado para el efecto y por el Tesorero Municipal durante los dos primeros meses del año. Las cuentas públicas se remitirán a más tardar el día quince de marzo a la Contaduría Mayor de Glosa de la Cámara de Diputados, la que comprobará la exactitud de la aplicación de los fondos o, en su caso, determinará las responsabilidades a que haya lugar.
+Los Ayuntamientos aprobarán los presupuestos de egresos que regirán en el ejercicio fiscal inmediato siguiente con base en sus ingresos disponibles, y sus cuentas serán glosadas preventivamente por el Síndico y Regidor comisionado para el efecto y por el Tesorero Municipal. Las cuentas públicas se presentarán en forma cuatrimestral y en los plazos que determine la Ley de Fiscalización Superior, ante la Auditoría General del Estado, el que comprobará la exactitud de la aplicación de los fondos o, en su caso, determinará las responsabilidades a que haya lugar.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1988)</small>
 
@@ -1745,19 +1751,47 @@ II.- Con el producto de los ingresos que por concepto de contribuciones y otros 
 
 La Hacienda Pública del Estado será administrada por el Jefe del Ejecutivo en los términos que señalen las Leyes respectivas.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2002)</small>
+
+Todo servidor público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar fianza en términos de Ley.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 106.
 
-Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosarse dentro del año siguiente a aquél en que corresponda. Para tal efecto las dependencias respectivas enviarán mensualmente a la Contaduría Mayor de Hacienda la documentación comprobatoria de los ingresos obtenidos y de los gastos ejercidos; asimismo, prepararán la cuenta pública del gobierno estatal correspondiente al ejercicio fiscal del año anterior. Este último documento deberá remitirse por el Jefe del Ejecutivo del Estado a más tardar el día treinta y uno de mayo de cada año.
+Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosarse dentro del cuatrimestre siguiente a aquél en que corresponda. Para tal efecto, las dependencias respectivas enviarán mensualmente la información relativa a los ingresos obtenidos y los egresos ejercidos; asimismo prepararán la cuenta pública del Gobierno Estatal correspondiente al cuatrimestre anterior, integrando la información en forma cuatrimestral de acuerdo al año natural. La Ley de Fiscalización Superior del Estado, establecerá los plazos en los que se deberán entregar las cuentas de la Hacienda Pública Estatal
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+La información comprobatoria de los ingresos y egresos, se conservará en depósito del Ejecutivo Estatal y a disposición del Órgano de Fiscalización Superior.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 107.
 
-Todo Funcionario Público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar caución en términos de Ley.
+El Organo de Fiscalización Superior del Congreso del Estado tendrá autonomía financiera, técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y emisión de sus resoluciones, en los términos que exponga la Ley y tendrá a su cargo:
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+I.- El control y fiscalización de: los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los Municipios y de los Entes Públicos Estatales y Municipales; así como el cumplimiento de los objetivos contenidos en los programas estatales y municipales a través de los informes que se rendirán en los términos que disponga la Ley.
+
+De acuerdo con las Leyes Federales y los Convenios respectivos, también fiscalizará los recursos de la Federación que ejerzan en el ámbito estatal, municipal y por los particulares.
+
+Sin perjuicio de los informes a que se refiere el primer párrafo de esta fracción, en las situaciones excepcionales que determine la Ley, podrá requerir a los sujetos de fiscalización que procedan, la revisión de los conceptos que estime pertinente y la rendición de un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, dará lugar al fincamiento de las responsabilidades que corresponda;
+
+II.- Entregar al Congreso del Estado los informes de los resultados de la revisión de las Cuentas de las Haciendas Públicas Estatal y Municipales, en los plazos que establezca la Ley. Dentro de dichos informes que tendrán carácter público, se incluirán los resolutivos de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, comprendiendo las observaciones y recomendaciones a los auditados.
+
+El Organo de Fiscalización Superior deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; esta Constitución y las Leyes respectivas, establecerán las sanciones aplicables a quienes infrinjan esta disposición;
+
+III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, administración, custodia y aplicación de recursos estatales, municipales y federales, así como efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensable para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos; y
+
+IV.- Determinar los daños y perjuicios que afecten a la Hacienda Pública del Estado, de los Municipios o al patrimonio de los Entes Públicos Estatales y Municipales y en su caso, fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Décimo Tercero de esta Constitución y presentar las denuncias y querellas, en cuyos procedimientos tendrá la intervención que la Ley le señale.
+
+El Congreso del Estado designará al Titular del Organo de Fiscalización Superior, por el voto de la mayoría de sus integrantes. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola ocasión; asimismo con la votación requerida para su nombramiento, podrá ser removido exclusivamente por las causas graves que la Ley señale o por las causas y conforme a los procedimientos previstos en el Título Décimo Tercero de esta Constitución.
+
+Para ser Titular del Organo de Fiscalización Superior se requiere cumplir con los requisitos establecidos en las fracciones I, II, IV, V y VI del artículo 88 de esta Constitución y con los que la Ley señale. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+Los Poderes del Estado, los Gobiernos Municipales y los Entes Públicos Estatales y Municipales proporcionaran la información y los medios que requiera el Organo de Fiscalización Superior para el ejercicio de sus funciones.
+
+El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV de este artículo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
@@ -2009,11 +2043,11 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
+## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2033,33 +2067,33 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
+## TITULO NOVENO. DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE OCTUBRE DE 2002)</small>
 
-## TITULO NOVENO. DEL PODER JUDICIAL
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2002)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
+## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO, SU ADMINISTRACION Y FISCALIZACION SUPERIOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2844,3 +2878,19 @@ TERCERO.- El presente Decreto entrará en vigor, al día siguiente de su publica
 P.O. 24 DE MAYO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 8 DE OCTUBRE DE 2002.
+
+PRIMERO.- Remítase el presente Decreto a los Ayuntamientos del Estado para los efectos de lo establecido en la fracción III del artículo 125 de la Constitución Política del Estado.
+
+SEGUNDO.- Una vez que se tengan las Actas de la mitad más uno de los Ayuntamientos por las que se aprueba o desecha el presente, llévese a cabo el cómputo de las mismas y emítase la declaratoria de validez correspondiente.
+
+TERCERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto se procederá al nombramiento del Titular del Organo de Fiscalización Superior, conforme al procedimiento que se establezca en la Ley.
+
+QUINTO.- En el caso de que el presente Decreto sea aprobado por la mitad más uno de los Ayuntamientos del Estado antes del quince de septiembre del dos mil dos, la Cuenta de la Hacienda Pública correspondiente a los meses de enero a agosto del ejercicio fiscal del dos mil dos deberá ser presentada al Congreso del Estado en la primera quincena del mes de septiembre del mismo año, para que sea analizada, discutida y, en su caso, aprobada a más tardar el día treinta de octubre del dos mil dos.
+
+SEXTO.- El Organo de Fiscalización Superior iniciará sus funciones que conforme a esta Constitución y la Ley le correspondan, a partir del primero de enero del dos mil tres.
+
+SEPTIMO.- Hasta en tanto el Organo de Fiscalización Superior no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda del Congreso del Estado continuará ejerciendo las atribuciones que le otorgan la Constitución Política Local y otras disposiciones jurídicas vigentes en el Estado.
