@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1936-11-13"
+last_updated: "1944-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 1936.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 1944.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -297,7 +297,7 @@ Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio 
 
 ###### Artículo 33.
 
-El Congreso se renovará en su totalidad cada dos años y comenzará a funcionar cada bienio el día quince de enero posterior a las elecciones.
+El Congreso se renovará en su totalidad cada tres años y comenzará a funcionar cada trienio, el día quince de enero posterior a las elecciones.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -353,6 +353,8 @@ IV. De los obstáculos que se opongan al adelantamiento y progreso del Distrito,
 
 De la instalación y labores del Congreso.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
+
 ###### Artículo 42.
 
 Para que los Diputados puedan cumplir con lo dispuesto en el artículo anterior, las Oficinas Públicas les facilitarán todos los datos que pidieren, a no ser que conforme a la ley, deban permanecer en secreto.
@@ -365,11 +367,11 @@ Al abrirse el período de sesiones siguiente a la visita, los Diputados presenta
 
 El Gobernador asistirá a la apertura del primer período de las sesiones ordinarias, de cada año, e informará por escrito en términos generales, sobre el estado de los ramos respectivos de la Administración Pública, informe que contestará también por escrito el Presidente del Congreso, dándole lectura. Cuando el Gobernador no pudiere concurrir, su informe será leído por el Secretario General de Gobierno.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
 
 ###### Artículo 45.
 
-Cada cuatro años, al renovarse el Departamento Legislativo, el Gobernador saliente enviará a la Cámara, una memoria acompañada de los documentos adecuados para su completa inteligencia, y en la cual expondrá la situación del Estado en todos los Ramos Administrativos; dicha memoria comprenderá los actos de la Administración de Justicia, para lo cual el Presidente del Tribunal Superior deberá enviar por escrito al Ejecutivo, los datos necesarios.
+Cada seis años, al renovarse el Departamento Legislativo, el Gobernador saliente enviará a la Cámara, una memoria acompañada de los documentos adecuados para su completa inteligencia, y en la cual expondrá la situación del Estado en todos los Ramos Administrativos; dicha memoria comprenderá los actos de la Administración de Justicia, para lo cual el Presidente del Tribunal Superior deberá enviar por escrito al Ejecutivo, los datos necesarios.
 
 ###### Artículo 46.
 
@@ -465,9 +467,9 @@ VI. Autorizar al Ejecutivo para que celebre contratos con los demás Estados o c
 
 VII. Revisar la cuenta general del Estado y de los Municipios, y decretar anualmente los presupuestos de ingresos y egresos del Estado, previa iniciativa del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1944)</small>
 
-VIII. Decretar los presupuestos de ingresos de los Municipios del Estado y aprobar los contratos que celebren los Ayuntamientos y Juntas Auxiliares, cuando tengan una duración mayor de dos años.
+VIII. Decretar los Presupuestos de Ingresos de los Municipios del Estado; aprobar sus cuentas anuales, las ventas de bienes propios que efectúen y los contratos que celebren los Ayuntamientos y Juntas Auxiliares, cuando tengan una duración mayor del período para el cual hubieren sido electos.
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -685,7 +687,15 @@ El Jefe del Departamento Ejecutivo se denominará:
 
 El Gobernador será nombrado por elección popular directa, en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
+
+Artículi (sic) 66. El Gobernador durará en su encargo seis años, tomará posesión el primero de febrero y cuando su origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo volverá a ocupar este cargo ni aún con el carácter de interino, provisional, substituto, o encargado del despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+a) El Gobernador substituto constitucional o el designado para concluir el periodo en caso de falta absoluta del constitucional, aún cuando tenga distinta denominación.
+
+b) El Gobernador Interino, el provisional o el ciudadano que bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Artículo 66.
 
@@ -797,9 +807,9 @@ XXIII. Ejercer la superior inspección de todos los ramos de la Administración 
 
 XXIV. Conocer de las quejas que se interpongan contra los Ayuntamientos o sus Presidentes.
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
 
-XXV. Autorizar y someter a la aprobación del Congreso, los contratos que celebren los Ayuntamientos y Juntas Auxiliares del Estado, cuando dichos contratos tengan una duración que exceda de dos años.
+XXV. Autorizar y someter a la aprobación del Congreso, los Presupuestos de Ingresos de los Municipios del Estado, las ventas de bienes propios y los contratos que celebren los Ayuntamientos y Juntas Auxiliares, cuando dichos contratos tengan una duración que exceda del período para el cual hubieren sido electos.
 
 XXVI. Recibir la protesta de todos los funcionarios y empleados de nombramiento del Gobernador que conforme a las Leyes no deban otorgarla ante otra autoridad.
 
@@ -851,11 +861,11 @@ El ejercicio de las funciones del Departamento Judicial se encomienda a un Tribu
 
 El Tribunal Superior se formará de nueve Magistrados de número y nueve suplentes, nombrados por el Congreso a propuesta en terna del Ejecutivo.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
 
 ###### Artículo 80.
 
-Los Magistrados de número y suplentes del Tribunal Superior durarán en su encargo cuatro años y tomarán posesión el quince de febrero debiendo coincidir su periodo en el del Gobernador Constitucional.
+Los Magistrados de número y suplentes del Tribunal Superior, durarán en su encargo hasta seis años y tomarán posesión el quince de febrero, debiendo coincidir su periodo con el del Gobernador Constitucional.
 
 ### CAPITULO SEGUNDO.
 
@@ -981,11 +991,11 @@ Del Municipio Libre.
 
 Los Ayuntamientos, sin infringir las Leyes de la Federación o del Estado, tienen derecho de atender libremente de la manera que juzguen más eficaz, a todos los ramos de la administración pública del Municipio, sin excederse en los presupuestos.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
 
 ###### Artículo 103.
 
-Los Ayuntamientos se renovarán en su totalidad cada dos años, en los términos que disponga la ley.
+Los Ayuntamientos se renovarán en su totalidad cada tres años, en los términos que disponga la Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
@@ -995,9 +1005,9 @@ La Ley Reglamentaria Municipal, se sujetará a las bases siguientes:
 
 I. Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que señale la Legislatura, del Estado, y en todo caso serán las suficientes para atender a sus necesidades.
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
 
-II. Los Ayuntamientos someterán a la aprobación de la Legislatura por conducto del Ejecutivo, quien informará sus presupuestos de Ingresos y sus cuentas anuales y no podrán contratar empréstitos, ni celebrar contratos que tengan una duración que exceda de dos años, sin autorización del Ejecutivo y aprobación del Congreso.
+II. Los Ayuntamientos someterán a la aprobación de la Legislatura por conducto del Titular del Departamento Ejecutivo, sus presupuestos de ingresos y sus cuentas anuales, y no podrán contratar empréstitos, efectuar ventas de bienes propios, ni celebrar contratos que tengan una duración que exceda del período para el cual hubieren sido electos, sin autorización del Gobernador del Estado y aprobación del Congreso.
 
 III. El Ejecutivo Federal y el Gobernador del Estado tendrán el mando de la policía y fuerza pública de los Municipios donde residieren habitual o transitoriamente. Las mismas, policía y fuerza pública del Municipio auxiliarán a las fuerzas del Estado, y recíprocamente.
 
@@ -1342,6 +1352,10 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 13 DE NOVIEMBRE DE 1936.
 
 Transitorio.- Esta disposición comenzará a surtir sus efectos desde la fecha de su publicación en el "Periódico Oficial" del Estado.
+
+P.O. 2 DE JUNIO DE 1944.
+
+Este decreto surtirá sus efectos desde la fecha de su publicación en el "Periódico Oficial".
 
 ###### Artículo 5°.
 
