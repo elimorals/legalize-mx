@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "1994-09-01"
+last_updated: "1995-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -785,7 +785,9 @@ El Ministerio Público solo puede desistir de la acción penal:
 
 I. Cuando apareciere plenamente comprobado en autos que se está en alguno de los casos mencionados en el artículo anterior; y
 
-II. Cuando, durante el procedimiento judicial, aparezca plenamente comprobado que el inculpado no ha tenido participación en el delito que se persigue, o que existe en su favor alguna eximente de responsabilidad, también plenamente demostrada. En este último caso, el desistimiento se limitará a quienes se encuentren comprendidos en la respectiva eximente.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1995)</small>
+
+II. Cuando, durante el procedimiento judicial aparezca plenamente comprobado que el indiciado no ha tenido participación en el delito que se persigue, o que existe en su favor alguna eximente de responsabilidad, también plenamente demostrada. En este último caso, el desistimiento se limitará a quienes se encuentren comprendidos en la respectiva eximente.
 
 ###### Art. 111.
 
@@ -873,9 +875,11 @@ Se tendrán por comprobados los elementos del tipo penal, de robo equiparado, cu
 
 Cuando, tratándose del delito de ataques a las vías de comunicación, no fuese posible practicar inspección ocular, porque para evitar perjuicios al servicio público haya sido necesario hacer inmediatamente la reparación respectiva, bastará para la comprobación de los elementos del tipo penal del delito cualquiera otra prueba plena.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 1995)</small>
+
 ###### Art. 125.
 
-En los casos de delitos cometidos con motivo del tránsito de vehículos, se practicará, a la brevedad posible, el examen médico del inculpado, para determinar si está ebrio o bajo la influencia de enervantes; en caso afirmativo, el médico dictaminará sobre el periodo o grado de la ebriedad o de la intoxicación, particularmente, indicará las alteraciones psíquicas y físicas producidas en dicho inculpado; establecerá la mayor o menor peligrosidad que, en su estado, represente para la circulación y, particularmente, dictaminará si al tiempo de los hechos estaba ebrio o intoxicado.
+En los casos de delitos cometidos con motivo del tránsito de vehículos, se practicará, a la brevedad posible el examen médico del indiciado, para determinar si está ebrio o bajo la influencia de enervantes; en caso afirmativo, el médico dictaminará sobre el período o grado de la ebriedad o de la intoxicación, particularmente, indicará las alteraciones psíquicas y físicas producidas en dicho indiciado; establecerá la mayor o menor peligrosidad, que en su estado, represente para la circulación y, particularmente, dictaminará si al tiempo de los hechos estaba ebrio o intoxicado.
 
 En los casos dudosos, el médico deberá mandar practicar las investigaciones de laboratorio que creyese necesarias.
 
@@ -1723,9 +1727,9 @@ La confesión hará prueba plena cuando, siendo verosímil, no esté desvirtuada
 
 La confesión es, en consecuencia, divisible o indivisible, según sea parcial o total su credibilidad y el apoyo que reciba de otras probanzas.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
-La confesión rendida ante cualquier autoridad distinta del ministerio público o del juez o ante estos sin la asistencia de su defensor, se acredite la existencia de incomunicación, intimidación o tortura, carecerá de todo valor probatorio.
+La confesión rendida ante cualquier autoridad distinta del ministerio público o del juez o ante éstos sin la asistencia de su defensor o se acredite la existencia de incomunicación o intimidación o tortura, carecerá de todo valor probatorio.
 
 ###### Art. 264.
 
@@ -2195,7 +2199,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II, violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; asalto, artículo 192; plagio o secuestro, artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; robo cometido en los siguientes casos, artículo 235, fracción III; artículo 236, inciso a), fracciones II y III, inciso b), en su totalidad e inciso c), fracciones I, II, III; abigeato y robo de animales, artículos 240, párrafos primero y segundo, cuando se cometa en dos o más cabezas de ganado mayor o se trate de reincidentes sea cual fuere su número, artículo 241 bis, artículo 242 y artículo 243, segundo y tercer párrafos; y aborto, artículo 228, penúltimo y último párrafo;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1995)</small>
+
+I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya vio8lencia (sic) en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; asalto, artículo 192; plagio o secuestro, artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo cometido en los siguientes casos, artículo 235, fracción III; artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), fracciones I, II y III; y abigeato y robo de animales, artículo 240, párrafos primero y segundo, cuando se cometa en dos o más cabezas de ganado o se trate de reincidentes sea cual fuere su número, artículo 241 bis, artículo 242 y artículo 243; y delitos electorales, artículo 270, fracción III, 276 y 278;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura artículo 3º; y
 
@@ -2873,7 +2879,9 @@ Al dictar la sentencia de primera instancia, el Juez concederá de oficio la sus
 
 Cuando por alguna de las causas que señala el Art. 71 del Código Penal, deba revocarse el beneficio de suspensión condicional y hacerse efectiva la sanción impuesta, el Juez o Tribunal que impuso ésta, a petición del Ministerio Público lo citará, así como al reo y a su defensor, a una audiencia en la que recibirá las pruebas que demuestren la existencia de dicha causa; en caso afirmativo, ordenará que se ejecute la sanción y, a ese efecto, tomará las providencias pertinentes para la comparecencia personal del sentenciado, incluso la orden de su reaprehensión.
 
-### CAPITULO III. Indulto
+### CAPITULO III. El Reconocimiento de Inocencia e Indulto
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 438.
 
@@ -2899,17 +2907,21 @@ Recibidas las informaciones, el Juzgado o el Tribunal dará vista al Ministerio 
 
 Concedida la rehabilitación, se ordenará su anotación en el proceso respectivo, así como en el registro de antecedentes del reclusorio correspondiente. Si se negare, el reo tendrá derecho a solicitarla de nuevo, después de un año.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
+
 ### CAPITULO IV. Procedimiento para sordomudos, ciegos y enfermos mentales
 
 ###### Art. 443.
 
-Para otorgar el indulto por gracia, previsto en el párrafo segundo del Art. 74 del Código Penal del Estado, el sentenciado ocurrirá al Ejecutivo con su petición y los justificantes de los servicios prestados; en vista de los cuales, el Ejecutivo podrá conceder o negar el indulto.
+Para otorgar el indulto, previsto en el párrafo segundo del artículo 74 del Código Penal del Estado, el sentenciado ocurrirá al Ejecutivo con su petición y los justificantes de los servicios prestados; en vista de los cuales, el Ejecutivo podrá conceder o negar el indulto.
 
 Tratándose de delitos contra la seguridad interior del Estado, discrecionalmente concederá o negará el indulto que podrá ser sin condición alguna.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
+
 ###### Art. 444.
 
-El sancionado que se crea con derecho a indulto necesario ocurrirá por escrito al Supremo Tribunal de Justicia, para aducir la causa o causas en que funde su petición y acompañar las pruebas respectivas o protestará exhibirlas oportunamente. Sólo se admitirá la prueba documental.
+El sentenciado que se crea con derecho al reconocimiento de inocencia ocurrirá por escrito al Supremo Tribunal de Justicia, para aducir la causa o causas en que funde su petición y acompañarle las pruebas respectivas o protestará exhibirlas oportunamente. Sólo se admitirá la prueba documental.
 
 ###### Art. 445.
 
@@ -2923,11 +2935,15 @@ El día fijado para la vista, dada cuenta por el Secretario, se recibirán las p
 
 A los cinco días de celebrada la vista, la Sala declarará si está o no comprobada la inocencia del solicitante.
 
-En el primer caso remitirá las diligencias originales, con un informe, al Ejecutivo del Estado, para que decrete el respectivo indulto necesario. En el segundo caso, mandará archivar las diligencias, previa notificación a las partes.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
+
+En el primer caso remitirá las diligencias originales con un informe, al Ejecutivo del Estado para que sin más trámite reconozca la inocencia del sentenciado. En el segundo caso, mandará archivar las diligencias, previa notificación a las partes.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 448.
 
-Todas las resoluciones en que se decrete el indulto del sentenciado se comunicarán al Juez que hubiese dictado la sentencia, para que ordene la anotación correspondiente en el proceso y en los registros policíacos y carcelarios que corresponden.
+Todas las resoluciones en que se decrete el indulto del sentenciado o se reconozca su inocencia se comunicarán al juez que hubiese dictado la sentencia, para que ordene la anotación correspondiente en el proceso y en los registros policíacos y carcelarios que corresponden.
 
 ### CAPITULO V. Internamiento o tratamiento en libertad vigilada a sujetos con imputabilidad disminuida
 
@@ -3102,3 +3118,13 @@ Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 1 DE SEPTIEMBRE DE 1994.
 
 Primero.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE FEBRERO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
