@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "1999-07-09"
+last_updated: "2001-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2001.
 
 Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
 
@@ -1089,6 +1089,10 @@ V.- Se inflinja (sic) tormento al ofendido o se obre con ensañamiento o cruelda
 
 VI.- Se cometa intencionalmente a propósito de una violación o un robo por el sujeto activo de éstos contra su víctima o víctimas; o se cometiera en casa habitación a la cual se ha penetrado furtivamente, con engaño o violencia.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+ARTICULO 139 BIS.- Cuando el homicidio se cometa a propósito de un secuestro por el sujeto activo en contra del pasivo, se aplicará prisión de treinta a cincuenta años.
+
 ###### ARTICULO 140.
 
 Cuando las lesiones se cometan en alguna de las formas señaladas en el artículo anterior, las penas se aumentarán hasta en dos terceras partes más de las correspondientes a la lesión de que se trate.
@@ -1207,6 +1211,8 @@ En todo caso, el médico, paramédico o comadrona que lo practique o participe d
 
 ### CAPITULO II. SECUESTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 159.
 
 Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando según las circunstancias pudiere hacerlo sin riesgo propio ni de tercero, o al que no estando en condiciones de prestarlo no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo, se le impondrá prisión de tres a seis meses o de diez a treinta días multa.
@@ -1267,17 +1273,25 @@ En este caso se impondrá prisión de dos a seis años y de doscientos a trescie
 
 ###### ARTICULO 167.
 
-Al que prive a otro de la libertad personal, se le aplicará prisión de quince a cuarenta años y de cincuenta a doscientos días multa, si el hecho se realiza con el propósito de:
+Al que prive a otro de la libertad personal, se le aplicará prisión de veinticinco a cuarenta años y quinientos a mil días multa, si el hecho se realiza con el propósito de:
 
 I.- Obtener un rescate o cualquier otra prestación indebida;
 
-II.- Que la autoridad realice o deje de hacer un acto de cualquier índole; o
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2001)</small>
 
-III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él.
+II..- Que la autoridad realice un acto contrario a derecho o deje de hacer lo que la ley la obligue;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2001)</small>
+
+III.- Obligar al sujeto pasivo o a persona distinta relacionada con él, a realizar un acto contrario a derecho; o,
+
+IV.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2001|)</small>
 
 ###### ARTICULO 168.
 
-Las penas señaladas en el artículo anterior se agravarán hasta cuarenta y cinco años, si concurre alguna de las circunstancias siguientes:
+La pena privativa de libertad prevista en el artículo anterior se aumentará en cinco años más si concurre alguna de las circunstancias siguientes:
 
 I.- Que se realice en lugar desprotegido o solitario;
 
@@ -1285,11 +1299,47 @@ II.- Que el agente se ostente como autoridad, sin serlo;
 
 III.- Que se lleve a cabo por dos o más personas;
 
-IV.- Que se realice con violencia, se veje o se torture a la víctima; o
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2001)</small>
 
-V.- Que la víctima sea menor de edad, o que por cualquier otra circunstancia esté en situación de inferioridad física respecto del agente.
+IV.- Que se realice con violencia, se veje o se torture a la víctima;
 
-Si espontáneamente se pusiere en libertad al ofendido dentro de los tres días siguientes a la comisión del delito, las penas podrán disminuirse hasta la mitad, siempre y cuando no se haya satisfecho alguno de los propósitos a que se refiere el artículo anterior.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2001)</small>
+
+V. Que la víctima sea menor de dieciocho años o mayor de sesenta, sea mujer, o que por cualquier circunstancia esté en situación de inferioridad física o mental respecto de quien realiza la privación de libertad; o,
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2001)</small>
+
+VI.- El sujeto activo sea o haya sido integrante de alguna institución de seguridad pública.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+Si espontáneamente se pusiere en libertad al ofendido dentro de los tres días siguientes a la realización del delito, sólo se aplicará prisión de cuatro a ocho años, cuando no concurra alguna de las circunstancias previstas por este artículo, y de seis a doce años si concurriere. En ambos casos se requerirá que no se haya satisfecho alguno de los propósitos a los que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+ARTICULO 168 BIS.- Se impondrán las mismas penas que previene el artículo 167 a quien:
+
+I.- Aporte recursos económicos o de cualquier especie, o colabore de cualquier manera para que se lleve a cabo el secuestro; y,
+
+II.- A sabiendas, revele datos o información reservada que conoce o ha recibido con motivo de su empleo, cargo o relación con el sujeto pasivo, para la realización del secuestro.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+ARTICULO 168 BIS A.- Se impondrá de dos a ocho años de prisión y de doscientos a mil días multa, a quien en relación con las conductas sancionadas por los artículos 167 y 168 y fuera de las causas de exclusión del delito previstas por la ley:
+
+I.- Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
+
+II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+
+III.- Actúe como asesor con fines lucrativos de quienes representen o gestionen en favor de la víctima, evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
+
+IV.- Instigue para que no se presente la denuncia del secuestro cometido, o a no colaborar u a obstruir la actuación de las autoridades; o,
+
+V.- Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+ARTICULO 168 BIS B.- Se impondrá de cinco a quince años de prisión y quinientos a mil días multa a quien administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera recursos o bienes de cualquier naturaleza, con conocimientos de que proceden o representan el producto de un secuestro, con alguno de los siguientes propósitos: ocultar o pretender ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
 
 ### CAPITULO UNICO. REVELACION DE SECRETO
 
@@ -1356,6 +1406,8 @@ Al que en lugar solitario o desprotegido haga uso de la violencia sobre una pers
 Cuando el asalto se cometa utilizando armas de fuego contra un poblado o parte de éste, se aplicarán de veinte a cuarenta años de prisión a los cabecillas o jefes y de quince a veinte años a los demás.
 
 ### CAPITULO V. ACOSO SEXUAL
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
 
 ## TITULO SEXTO. DELITOS CONTRA LA INVIOLABILIDAD DEL DOMICILIO Y DE LA INTIMIDAD
 
@@ -1439,9 +1491,13 @@ Al que tenga cópula con una mujer menor de dieciocho años pero mayor de diecis
 
 ###### ARTICULO 185.
 
-Al que obtenga del interesado o de un tercero vinculado a éste, la cópula para sí o para otro como condición para el ingreso o la conservación del trabajo, la promoción en éste o la asignación de aumento de remuneración o prestaciones para el solicitante, el trabajador o sus familiares, se le impondrá prisión de seis meses a dos años.
+Al que solicite favores de naturaleza sexual para sí o para un tercero, valiéndose de su situación de superioridad jerárquica, laboral docente, doméstica o de cualquier otra naturaleza que implique subordinación, se le impondrá prisión de uno a dos años.
 
-Igual pena se aplicará al que imponga la misma condición a que se refiere el párrafo anterior, para el reconocimiento u otorgamiento de derechos o beneficios económicos, profesionales o académicos.
+Si la solicitud de favores de naturaleza sexual, se acompaña con la amenaza de causar a la víctima un mal relacionado con las legítimas expectativas que pueda tener en el ámbito de su relación con su superior jerárquico, se le impondrá prisión de dos a tres años.
+
+Si la persona ofendida es menor de edad, la pena de prisión será de tres a cinco años.
+
+En caso de reincidencia, se le impondrá prisión de dos a siete años.
 
 ### CAPITULO VI. ABIGEATO
 
@@ -1690,6 +1746,8 @@ Si la violencia constituyere algún otro delito, se aplicarán las reglas del co
 Esta disposición no será aplicable cuando el delito tenga carácter federal, por así determinarlo la ley.
 
 ### CAPITULO III. TRAFICO DE MENORES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 212.
 
@@ -1961,7 +2019,7 @@ Si el agente devuelve al menor o incapaz espontáneamente, dentro de los seis d�
 
 ###### ARTICULO 243.
 
-Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará prisión de dos a ocho años y de cien a cuatrocientos días multa.
+Al que con o sin el consentimiento de quien ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva o cualquier otro fin, a cambio de un beneficio económico, se le aplicará prisión de dos a diez años y de cien a seiscientos días multa.
 
 Las mismas penas se aplicarán a los que otorguen el consentimiento a que se refiere este artículo y al tercero que reciba el menor.
 
@@ -1973,9 +2031,9 @@ Cuando en la comisión del delito no exista el consentimiento a que se refiere e
 
 A quienes teniendo el ejercicio de la patria potestad, tutela o custodia, cometan el delito previsto por este artículo, se les sancionará, además, con privación de aquél y de los derechos de familia en relación con el ofendido.
 
-### CAPITULO I. CORRUPCION DE MENORES
+### CAPITULO I. CORRUPCION Y EXPLOTACION DE MENORES E INCAPACES
 
-> <small>(REFORMADO P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 244.
 
@@ -2193,13 +2251,15 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 ## TITULO CUARTO. DELITOS CONTRA LA MORAL PUBLICA
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2001)</small>
+
 ### CAPITULO V. INTIMIDACION
 
 ###### ARTICULO 273.
 
-Al que procure o facilite la corrupción de un menor de dieciséis años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos de exhibicionismo corporal, lascivos o sexuales, o lo induzca a la práctica de la mendicidad, la ebriedad, al consumo de narcóticos, a la prostitución, al homosexualismo, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicarán de tres a ocho años de prisión y de cincuenta a doscientos días multa y se le inhabilitará para ser tutor o curador.
+Al que procure o facilite la corrupción de un menor de dieciséis años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos de exhibicionismo corporal, lascivos o sexuales, o lo induzca a la ebriedad, al consumo de narcóticos, a la prostitución, al homosexualismo, a formar parte de una asociación delictuosa o a cometer cualquier delito, o al que lo explote con fines lucrativos mediante cualquier (sic) de los actos indicados, se le aplicarán de cuatro a ocho años de prisión y de cien a trescientos días multa y se le inhabilitará para ser tutor o curador.
 
-Cuando de la práctica reiterada de los actos de corrupción el menor o incapaz adquiera los hábitos del alcoholismo, farmacodependencia, se dedique a la prostitución, a prácticas homosexuales o formar parte de una asociación delictuosa, la pena será de cinco a diez años de prisión y de cien a cuatrocientos días de multa y se le inhabilitará para ser tutor o curador, sin perjuicio de las penas que pudiera corresponderle si resultare la comisión de otros delitos.
+Cuando de la práctica reiterada de los actos de corrupción o explotación el menor o incapaz adquiera los hábitos del alcoholismo, farmacodependencia, se dedique a la prostitución, a prácticas homosexuales o formar parte de una asociación delictuosa, la pena será de seis a doce años de prisión y de trescientos a seiscientos días multa y se le inhabilitará para ser tutor o curador, sin perjuicio de las penas que pudiere corresponderle si resultare la comisión de otros delitos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1994)</small>
 
@@ -3068,6 +3128,12 @@ P.O. 21 DE OCTUBRE DE 1998.
 ÚNICO.- El presente decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial El Estado de Sinaloa.
 
 P.O. 9 DE JULIO DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa."
+
+P.O. 22 DE AGOSTO DE 2001.
 
 ###### ARTÍCULO ÚNICO.
 
