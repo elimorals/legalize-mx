@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1981-12-31"
+last_updated: "1982-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1982.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -101,37 +101,37 @@ El Impuesto se causará aplicando las bases mencionadas en el artículo anterior
 
 I.- Sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa-habitación, conforme a las tasas de la siguiente
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-TARIFA
+TARIFA:
 
 VALOR CATASTRAL TASA ANUAL
 
-0.01 a 100,000.00 Exento
+0.01 a 1000,000.00 EXCENTO
 
-100,000.01 a 1,062,000.00 5 al millar
+100,000,01 1,274,400.00 5 al MILLAR
 
-1,062,000.01 a 1,770,000.00 7 al millar
+1,274,400.01 a 2,124,00.00 7 al MILLAR
 
-1,770,000.01 en adelante 9 al millar
+2, 124,000.01 en adelante 9 al MILLAR
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE FEBRERO DE 1979)</small>
 
 II.- Sobre el valor catastral de los predios destinados a uso distinto del de casa-habitación del contribuyente, conforme a la siguiente
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-TARIFA
+TARIFA:
 
 VALOR CATASTRAL TASA ANUAL
 
-0.01 a 590,000.00 7 al millar
+0.01 a 708,000.00 7 al MILLAR
 
-590,000.01 a 1,062,000.00 al millar
+708,000.01 a 1,274,400.00 8 al MILLAR
 
-1,062,000.01 a 1,770,000.00 10 al millar
+1,274,400.01 a 2,124,400.00 10 al MILLAR
 
-1,770,000.0 en adelante 11 al millar
+2,124,000.01 en adelante 11 al MILLAR
 
 III.- Sobre el valor catastral de los inmuebles rústicos, conforme a la siguiente
 
@@ -163,9 +163,9 @@ V.- Tratándose de predios rústicos ejidales o comunales, aprovechados para la 
 
 VI.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, se aplicará el 5 al millar anual sobre el valor de las fincas de la maquinaria.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-En ningún caso el impuesto será menor de $60.00 al año.
+En ningún caso el impuesto será menor de $100.00 al año.
 
 ###### Artículo 11.
 
@@ -181,7 +181,9 @@ No se causa el Impuesto predial:
 
 I.- Cuando los Predios y edificaciones sean propiedad de la Federación, del Estado o de los Municipios de éste;
 
-II.- Cuando los predios se destinen a fines de beneficencia o de educación, ya sea que estos fines se cumplan directamente por el propietario del predio o por terceros;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+II.- Cuando los predios se destinen en su totalidad a fines de beneficencia o de educación, ya sea que estos fines se cumplan directamente por el propietario del predio o por terceros;
 
 III.- Cuando los predios sean propiedad de las Universidades de Sonora;
 
@@ -327,7 +329,9 @@ Se considera que el valor catastral es provisional:
 
 I.- Cuando existen predios no registrados;
 
-II.- Cuando se divida un predio; y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+II.- Cuando se subdivida un predio; y
 
 III.- Cuando se fusionen dos o más predios.
 
@@ -337,11 +341,13 @@ Tratándose de predios no registrados, la Tesorería General del Estado determin
 
 Este valor surtirá efectos a partir de la fecha de su registro, salvo que por causa imputable al sujeto el predio no se encuentre registrado, caso en el cual el valor catastral provisional surtirá sus efectos desde la fecha en que debió de haberse efectuado dicho registro, sin exceder de cinco años.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### Artículo 19.
 
-Mientras se practica la valuación correspondiente a cada porción del predio dividido, se tendrá provisionalmente como valor catastral para cada una de esas porciones su precio de adquisición. Si el propietario del predio dividido conserva una, varia o todas las porciones del mismo predio, provisionalmente se tendrá como valor catastral de ellas el que manifieste para cada una de esas porciones.
+Mientras se practica la valuación correspondiente a cada porción del predio subdividido, se tendrá provisionalmente como valor catastral para cada una de esas porciones, su precio de adquisición. Si el propietario del predio subdividido conserva una, varias o todas las porciones del mismo predio, provisionalmente se tendrá como Valor Catastral de ellas el que manifiesta para cada una de esas porciones.
 
-Este valor surtirá sus efectos a partir del trimestre siguiente a la autorización de la división del predio.
+Este valor surtirá sus efectos a partir del trimestre siguiente a la autorización de la subdivisión del predio.
 
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 1977)</small>
 
@@ -429,17 +435,21 @@ La cuota del impuesto, cuando se trate del primer avalúo del predio, entrará e
 
 En los casos de reavalúos a que se refiere el artículo 23 de esta Ley, la cuota entrará en vigor a partir de trimestre siguiente a la fecha de la terminación de nuevas construcciones, reconstrucciones y de ampliaciones de construcciones ya existentes, o a la de su ocupación en caso de que se aprovechen sin estar terminadas, o de la notificación del avalúo en los demás casos, salvo que de otra manera se disponga en esta Ley. En los casos de traslación de dominio, el reavalúo, cuando proceda, entrará en vigor en trimestre siguiente a dicha traslación.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### Artículo 28.
 
-La división de un predio deberá ser autorizada por Tesorería General del Estado a través de la Dirección de Catastro.
+La Subdivisión de un predio será autorizada por la Secretaría de Desarrollo Urbano y Rural.
 
-La cuota definitiva del Impuesto que resulte en la valuación catastral de las porciones de un predio dividido, entrará en vigor a partir del trimestre siguiente a la fecha de la división del predio, de la autorización preventiva de la escritura pública o de la fecha del contrato privado traslativo de dominio, en su caso, en que se hubiera hecho constar el acto o contrato que motive la división. Por tanto, se cobrarán o devolverán las diferencias que resulten entre la cuota provisional y la definitiva.
+La cuota definitiva del impuesto que resulte en la valuación catastral de las porciones de un predio subdividido, entrará en vigor a partir del trimestre siguiente a la fecha de la subdivisión del predio, de la autorización preventiva de la escritura pública o de la fecha del contrato privado traslativo de dominio, en su caso, en que se hubiera hecho constar el acto o contrato que motive la división, Por tanto, se cobrarán o devolverán las diferencias que resulten entre la cuota provisional y la definitiva.
 
-La Tesorería General del Estado empadronará cada uno de los predios que hubieren resultado de la división de otro y ordenará la expedición de los recibos de pago correspondientes a cada empadronamiento.
+La Tesorería General del Estado empadronará cada uno de los predios que hubieren resultado de la subdivisión de otro y ordenará la expedición de los recibos de pago correspondiente a cada empadronamiento.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 29.
 
-La fusión de dos o más predios en uno solo, que deberá ser autorizado previamente por la Tesorería General del Estado a través de la Dirección de Catastro, será manifestada por el adquirente o propietario, dentro de los quince días siguientes a la celebración de la operación.
+La fusión de dos o más predios en uno solo, que deberá ser autorizada previamente por la Secretaría de Desarrollo Urbano y Rural, será manifestada por el adquirente o propietario, dentro de los quince días siguientes a la celebración de la operación.
 
 ###### Artículo 30.
 
@@ -531,21 +541,17 @@ Para los efectos de este artículo, el propietario del predio estará obligado a
 
 #### Sección Sexta. Fraccionamientos
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
 ###### Artículo 37.
 
-La Secretaría de Desarrollo Urbano y Rural, deberá enviar a la Tesorería General del Estado, copia de las solicitudes para fraccionar terrenos que le sean formuladas por personas físicas o morales, dentro de los diez días siguientes a su recepción, a fin de que proceda al deslinde correspondiente, previo el pago de los derechos respectivos, así como para que ésta comunique a aquélla las observaciones y objeciones que considera pertinentes, dentro de un plazo que no excederá de un mes.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
 ###### Artículo 38.
 
-Efectuado el deslinde y una vez que la Secretaría de Desarrollo Urbano y Rural apruebe el plano de fraccionamiento, enviará copia del mismo a la Tesorería General del Estado.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
 ###### Artículo 39.
 
-En el plano aprobado se deberán delimitar las superficies lotificadas y las destinadas a calles, avenidas, plazas, parques, jardines, escuelas y mercados, así como la superficies que el fraccionador done al Estado de Sonora para Servicios Públicos.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -553,17 +559,13 @@ En el plano aprobado se deberán delimitar las superficies lotificadas y las des
 
 Dentro de los quince días siguientes a aquél en que la Tesorería General del Estado reciba copias del plano a escala del predio que se pretenda fraccionar, señalará la clave catastral a cada uno de los lotes de terreno que constituyan el fraccionamiento, misma que servirá de base para la identificación de las operaciones que posteriormente se realicen.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
 ###### Artículo 41.
 
-La Secretaría de Desarrollo Urbano y Rural y el Fraccionador, deberán comunicar por escrito a la Tesorería General del Estado, cualquier modificación que se autorice a los planos aprobados. Esta comunicación se hará dentro de los quince días siguientes a la fecha en que se hubiesen autorizado las modificaciones y deberá acompañarse un ejemplar del plano en que éstas aparezcan señaladas, para que la Tesorería proceda en los términos de las disposiciones de este Capítulo.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
 ###### Artículo 42.
 
-Una vez que el convenio para la autorización del fraccionamiento sea elevado a escritura pública, que el fraccionador pague los derechos de supervisión de las obras de urbanización, otorgue las garantías estipuladas para la ejecución de estas obras y cumpla con las demás obligaciones a su cargo establecidas en el Convenio, la Secretaría de Desarrollo Urbano y Rural, autorizará por escrito la enajenación de los lotes correspondientes, debiendo enviar dentro de un plazo que no excederá de diez días, copia de dicho documento a la Tesorería General del Estado.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -741,9 +743,11 @@ Cuando en las manifestaciones, avisos o avalúos bancarios exigidos por este Cap
 
 Si transcurre dicho plazo y no se expresan los datos o presentan los documentos, avalúos bancarios o planos, a que se refiere el párrafo anterior, la Tesorería tendrá por no presentadas las manifestaciones, avisos o avalúos bancarios, sin perjuicio de imponer al infractor las sanciones que procedan.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### Artículo 61.
 
-Las manifestaciones que exige este capítulo, respecto de contratos de promesa de venta, de venta con reserva de dominio, así como de venta y de cualquiera otros contratos, resoluciones administrativas o judiciales o actos que trasmita el dominio de predios o de lotes de terrenos que formen parte de fraccionamientos, deberán presentarse dentro de los quince días siguientes de la fecha de autorización preventiva de la escritura pública correspondiente, de la celebración del contrato privado, o de la resolución administrativa o judicial, o de la fecha del documento de que se trate. También se consideran comprendidas en este artículo, las manifestaciones de división o fusión de predios en que no se opere traslado de dominio alguno, porque las porciones del predio dividido no salgan del dominio del propietario o porque los predios fusionados sean de un solo propietario.
+Las manifestaciones que exige este capítulo respecto de contratos de promesa de venta, de venta con reserva de dominio, así como de venta y de cualesquiera otros contratos, resoluciones administrativas o judiciales o actos que transmitan el dominio de predios o de lotes de terrenos que formen parte de fraccionamientos, deberán presentarse dentro de los quince días siguientes a la fecha de autorización de la escritura pública correspondiente, de la celebración del contrato privado, de la resolución administrativa o judicial o de la fecha del documento de que se trate. También se considerarán comprendidas en este artículo, las manifestaciones de subdivisión o fusión de predios en que no se opere traslado de dominio alguno, por que las porciones del predio subdividido no salgan del dominio del propietario o porque los predios fusionados sean de un mismo propietario.
 
 Los notarios públicos que autoricen dichas escrituras tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Tesorería General del Estado, dentro del mismo término que establece el párrafo anterior, pudiendo emplear para este efecto la manifestación que formulen en relación con el impuesto sobre Traslación de Dominio de Bienes Inmuebles que establece el Capítulo Quinto de esta Ley.
 
@@ -1941,11 +1945,11 @@ IX.- Cada uno de los permutantes, en la transmisión de bienes por permuta;
 
 X.- El usufructuario, en el usufructo.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 187.
 
-En tratándose de las fracciones I y VII del Artículo anterior, la exención que goce en el pago del impuesto uno de los sujetos, no beneficia al otro.
+En tratándose de la Fracción I del Artículo Anterior, la exención que goce en el pago del Impuesto uno de los sujetos, no beneficia al otro.
 
 ###### Artículo 188.
 
@@ -1971,17 +1975,27 @@ IV.- Tratándose del usufructo y nuda propiedad, la base del impuesto será para
 
 La tasa del impuesto, será:
 
-I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles, al realizarse la operación: $100.00;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-II.- Sobre el precio de operación o al determinarse el valor de los bienes en las operaciones a que se refiere la fracción anterior: 2.6%;
+I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles, al realizarse la operación $1,000.00;
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+II.- Sobre el precio de la operación o al determinarse el valor de los bienes en las operaciones a que se refiere la fracción anterior: 4.0%;
 
 III.- En tratándose de bienes inmuebles, sobre el precio de la operación o valor de los mismos:
 
-a).- Predios Rústicos: 1.3%; y
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-b).- Predios Urbanos: 1.5%, y
+a).- Predios rústicos: 2.0% y
 
-IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 2%.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+b).- Predios Urbanos: 2.5% y
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
 ###### Artículo 190.
 
@@ -2319,7 +2333,9 @@ V.- Las indemnizaciones por riesgos o enfermedades profesionales que se concedan
 
 VI.- Las jubilaciones, pensiones y haberes de retiro en los casos de invalidez, cesantía, vejez, retiro y muerte, cuyo monto mensual no exceda de cinco veces el salario mínimo general que rija en la zona económica del Estado en que se resida;
 
-VII.- Las gratificaciones de fin de año acordadas en forma general a favor de los empleados públicos y de otros trabajadores, siempre que en este último caso no exceda de la cantidad de $5,000.00; y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+VII.- Las gratificaciones de fin de año acordadas en forma general a favor de los empleados públicos y de otros trabajadores, siempre que en este último caso no exceda del importe de un mes de salario mínimo general; y
 
 VIII.- Los gastos de representación y viáticos cuando sean efectivamente erogados en servicio del patrón y se compruebe esta circunstancia con documentación de terceros que reúna los requisitos exigidos por la Ley del Impuesto Sobre la Renta.
 
@@ -3119,35 +3135,55 @@ Estos derechos se cubrirán y causarán por la expedición y revalidación de pe
 
 A.- El pago de los derechos por concepto de expedición, se causarán conforme a la siguiente tarifa:
 
-I.- Licencias para la venta y/o consumo de
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-bebidas de alto contenido alcohólico, se
+I.- Licencias para la fabricación, Distribución,
 
-pagará de $300,000.00 a $500,000.00
+venta y/o consumo de bebidas de alto contenido
 
-Tratándose de:
+alcohólico, se pagará de: $300.000.00 a $750,000.00.
 
-Restaurant, pagarán de $ 50,000.00 a $150,000.00
+Tratándose de Restaurant, pagarán de: $50,000.00 a $225,000.00.
 
-II.- Licencias para la venta y/o consumo de
+Envasamiento y distribución de alcohol,
 
-bebidas de bajo contenido alcohólico se
+pagarán de $100,000.00 a $300,000.00.
 
-pagará de $150,000.00 a $250,000.00
+Bodegas, pagarán de: $300,000.00 a $750,000.00.
 
-Tratándose de:
+Porteadores de alcohol y vinos y licores,
 
-Restaurant, pagarán de $50,000.00 a $150,000.00
+pagarán de $5,000.00 a $50,000.00.
 
-Abarrotes y Supermercados pagarán de
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-$2,500.00 a $40,000.00
+II.- Licencias para la fabricación, distribución,
 
-III.- Licencias para la venta y/o consumo de
+venta y/o consumo de bebidas de bajo
 
-bebidas de bajo y alto contenido alcohólico,
+contenido alcohólico, se pagará, de $150,000.00 a $375,000.00.
 
-por cambio de domicilio, pagarán de $5,000.00 a $50,000.00
+Tratándose de: Restaurant, pagarán de $75,000.00 a $225,000.00.
+
+Abarrotes y Supermercados pagarán de: $3,500.00 a $60,000.00.
+
+Bodegas, pagarán de: $150,000.00 a $375,000.00.
+
+Porteador de Cerveza de: $5,000.00 a $50,000.00.
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+III.- Licencias para la fabricación, envasamiento
+
+distribución, guarda, venta y/o consumo de
+
+bebidas de alto y bajo contenido alcohólico
+
+en su caso, por cambio de domicilio,
+
+pagarán de: $10,000.00 a $75,000.00.
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 IV.- Licencias eventuales para la venta y/o
 
@@ -3155,61 +3191,67 @@ consumo de bebidas de alto y bajo contenido
 
 alcohólico, se pagará por día, previamente
 
-a su otorgamiento, de $400.00 a $15,000.00
+a su otorgamiento de: $500.00 a $22,500.00.
 
-B.- Los derechos por concepto de revalidación, se cubrirán conforme a las especificaciones y tarifas siguientes:
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-I.- Fábricas, envasamiento y distribución de
+B.- Los derechos por concepto de revalidación
 
-alcohol, aguardiente y vinos y licores,
+se cubrirán conforme a las especificaciones y tarifas
 
-de $10,000.00 a $25,000.00
+siguientes:
 
-II.- Porteadores de vino y licores de $3,000.00 a $6,000.00
+I.- Fabricas y envasamiento de alcohol y vinos
 
-III.- Almacenes o depósitos, expendios, cantinas,
+y licores de: $10,000.00 a $37,500.00.
 
-cabarets y venta y/o consumo de vinos y licores,
+II.- Porteadores de alcohol y vinos y licores,
 
-de $10,000.00 a $30,000.00
+de: $3,000.00 a $9,000.00.
+
+III.- Almacenes o depósitos, expendios, bodegas,
+
+cantinas, cabarets, venta y/o consumo de
+
+vinos y licores, de: $10,000.00 a $45,000.00.
 
 IV.- Venta de vinos de mesa en restaurantes,
 
 tales como vermouth, aperitales, anisados, vinos
 
-generosos, cremas, sidras, vinos de uva para
+generosos, cremas, sidras, vinos de uva para mesa,
 
-mesa, tintos, rosados y blancos, de $6,000.00 a $15,000.00
+tintos, rosados y blancos, de $6,000.00 a $22,500.00
 
 V.- Venta y/o consumo de vinos y licores en
 
 establecimientos para eventos sociales,
 
-Clubes de servicio, sociedades mutualistas
+Clubes de servicio, sociedades mutualistas y
 
-y recreativas, de $6,000.00 a $15,000.00
+recreativas, de $6,000.00 a $22,500.00
 
-VI.- Fábricas, almacenes, agencias y sub´agencias
+VI.- Fábricas, almacenes o depósitos, bodegas,
 
-distribuidoras y despachos o depósitos, de bebidas
+agencias y sub-agencias distribuidoras, de bebidas
 
-de bajo contenido alcohólico, de $6,000.00 a $15,000.00
+de bajo contenido alcohólico, de: $6,000.00 a $22,500.00.
 
 VII.- Venta de bebidas de bajo contenido
 
-alcohólico en supermercados, ultramarinos
+alcohólico en supermercados, ultramarinos y
 
-y similares, boliches, billares y similares,
+similares, boliches, billares y similares,
 
-Clubes y casinos, de $4,000.00 a $10,000.00
+clubes y casinos, de $4,000.00 a $15,000.00
 
 VIII.- Venta de bebidas de bajo contenido
 
 alcohólico en envase cerrado, en abarrotes,
 
-de $2,000.00 a $10,000.00
+de $2,000.00 a $15,000.00
 
-IX.- Cervecería, de $3,000.00 a $10,000.00
+IX.- Cervecería, de $3,000.00 a $15,000.00
 
 X.- Venta y/o consumo de bebidas de bajo
 
@@ -3217,19 +3259,17 @@ contenido alcohólico en restaurantes, salones
 
 de baile y establecimientos para los eventos
 
-sociales, clubes de servicio, sociedades mutualistas
+sociales, clubes de servicio, sociedades
 
-y recreativas, de $2,000.00 a $10,000.00
+mutualistas y recreativas, de $2,000.00 a $15,000.00
 
 XI.- Venta de bebidas de bajo contenido
 
-alcohólico en cabarets, de $5,000.00 a $10,000.00
+alcohólico en cabarets o centros nocturnos,
 
-XII.- Venta de bebidas de bajo contenido
+de: $10,000.00 a $45,000.00.
 
-alcohólico en discotecas y centros
-
-nocturnos, de $10,000.00 a $30,000.00
+XII.- Porteador de cerveza de $3,000.00 a $9,000.00.
 
 ###### Artículo 303.
 
@@ -3323,7 +3363,7 @@ del punto anterior, por cada prórroga 200.00
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 309.
 
@@ -3361,7 +3401,7 @@ cuando se trate de estudiantes, sin adicionales $30.00
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
-> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 310.
 
@@ -3537,7 +3577,7 @@ a los avisos anteriores, por cada palabra 1.50
 
 Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos y serán bianuales, aplicándose por su expedición, canje o transferencia, las tarifas que siguen conforme a sus especificaciones:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 1.- DE TRANSPORTE PRIVADO: Que deberán
 
@@ -3547,13 +3587,13 @@ para uso particular. Estas placas solicitadas
 
 durante el primer año del bienio, causaran
 
-una cuota de $360.00
+una cuota de $720.00
 
 Cuando se soliciten durante el segundo año del
 
-bienio 180.00
+bienio $360.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 2.- DE SERVICIO PUBLICO LOCAL: Que deberán
 
@@ -3563,11 +3603,11 @@ se utilicen para prestar servicio de transporte de
 
 personas o cosas dentro del Estado. Cuando
 
-soliciten dentro del primer año del bienio 275.00
+soliciten dentro del primer año del bienio $560.00
 
 Cuando se soliciten dentro del segundo año del
 
-bienio 150.00
+bienio 280.00
 
 3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
@@ -3597,83 +3637,95 @@ Las placas de mostradoras causarán derechos conforme a la tarifa de transporte 
 
 La reposición de una placa implicará un juego completo y causará derechos como si se expidieran placas nuevas aun cuando se usen el mismo número de la placa o placas extraviadas.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### Artículo 316.
 
-Los derechos por expedición de licencias para conducir, así como resellos de las mismas y permisos para guiar sin licencias, causarán el pago:
+Los derechos por expedición de Licencias para conducir, así como permisos para guiar sin licencias, causarán el pago:
 
 1.- LICENCIAS:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
 a).- De automovilistas de acuerdo a su vigencia, como sigue:
 
-2 años $400.00
+2 años $1,000.00
 
-3 años $600.00
+3 años 1,500.00
 
-4 años $800.00
+4 años 2,000.00
 
-5 años $1,000.00
+5 años 2,500.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+b).- De chofer cuota anual 375.00
 
-b).- De chofer, cuota anual $100.00
+c).- De operador de servicio público
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+de transporte 1,500.00
 
-c).- De motociclista, cuota anual $80.00
+Esta categoría de licencia, únicamente se expedirá con vigencia de dos años.
 
-2.- RESELLOS O REVALIDACION:
+d).- De motociclista, cuota anual 250.00
 
-a).- De automovilistas. Anualmente 50.00
-
-b).- De chofer. Anualmente 40.00
-
-c).- De motociclista. Anualmente 25.00
+2.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
 3.- PERMISOS:
 
 a).- De automovilistas. Por cada diez
 
-días o fracción 75.00
+días o fracción 150.00
 
 b).- DE chofer. Por cada diez días o
 
-fracción 50.00
+fracción 100.00
 
 c).- De motociclista. Por cada diez
 
-días o fracción 25.00
+días o fracción 50.00
+
+d).- Para conducir vehículos de propulsión
+
+automotriz, en los casos previstos en el
+
+Artículo 14 del Reglamento de la Ley de
+
+Tránsito y Transporte del Estado 1,500.00.
 
 ###### Artículo 317.
 
 Los derechos por registro de motocicletas y motonetas; permisos provisionales para transitar sin placas; reposición de tarjetas de circulación y de licencias de manejar, sujetos al régimen Fiscal previsto en las Leyes y Reglamentos Locales, se cobrarán con sujeción a las siguientes tarifas:
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 1.- Las placas y/o calcomanías de revalidación para
 
 motoclicletas y motonetas que sean solicitadas
 
-dentro de los primeros nueve meses del año $100.00
+dentro de los primeros nueve meses del año $370.00
 
-Las solicitadas en los tres últimos meses del año $50.00
+Las solicitadas en los tres últimos meses del año 175.00
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 2.- Permiso para la circulación de automóviles o
 
-camiones sin placas, hasta por diez días 100.00
+camiones sin placas, hasta por diez días 400.00
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 3.- Permisos para la circulación de motocicletas sin
 
-placa, hasta por diez días 25.00
+placa, hasta por diez días 100.00
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 4.- Reposición de tarjetas de circulación para
 
-automóviles o camiones 50.00
+automóviles o camiones 150.00
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 5.- Reposición de tarjetas de circulación para
 
-motocicletas 25.00
+motocicletas 125.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -3689,7 +3741,9 @@ A las reposiciones de licencias se les aplicará el mismo importe de los derecho
 
 ###### Artículo 320.
 
-Los servicios que el Comité de Consulta y Vigilancia del Servicio Público de Autotransporte en el Estado preste a los particulares, causarán el pago de derechos conforme a las especificaciones y taifas siguientes:
+Los servicios que la Dirección de Transporte del Estado, preste a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 1.- Para la expedición de permiso que ampare
 
@@ -3697,9 +3751,15 @@ la explotación de concesión de servicio público
 
 de jurisdicción estatal por unidad:
 
-a).- Pasaje de: 25,000.00 a 50,000.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-b).- Carga de: 10,000.00 " 25,000.00
+a).- Pasaje de: $50,000.00
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+b).- Carga de: 25,000.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 2.- Por revisión anual de los permisos que amparen
 
@@ -3711,15 +3771,23 @@ a).- Pasaje 1,500.00
 
 b).- Carga 500.00
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
 3.- Por la expedición de permiso temporal para
 
 la explotación del servicio público de transporte
 
 de Jurisdicción Estatal por unidad:
 
-a).- Pasaje de: 2,000.00 a 5,000.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-b).- Carga de: 2,000.00 " 5,000.00
+a).- Pasaje de: 5,000.00
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+b).- Carga de: 5,000.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 4.- Por autorización de vehículos de emergencia
 
@@ -3731,6 +3799,8 @@ a).- Pasaje 3,000.00
 
 b).- Carga 3,000.00
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+
 5.- Por autorización de alta y baja de unidades
 
 concesionadas por unidad:
@@ -3739,17 +3809,21 @@ a).- Pasaje 1,000.00
 
 b).- Carga 1,000.00
 
-6.- Por estudios que realice el Departamento
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-Técnico, adscrito al Comité, a solicitud de
+6.- Por estudios que realice el Departamento Técnico
 
-particulares para determinar las necesidades
+adscrito a la Dirección, a solicitud de particulares para
 
-de servicio público de transporte de jurisdicción Estatal:
+determinar las necesidades de servicio público de
 
-a).- Pasaje de 30,000.00 a 50,000.00
+transporte de jurisdicción Estatal y Municipal.
 
-b) Carga de 30,000.00 " 50,000.00
+a).- Pasaje $50,000.00
+
+b).- Carga 50,000.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 7.- Por la expedición de permisos con motivo de
 
@@ -3759,31 +3833,31 @@ concesiones de Servicio Público de Transporte
 
 de jurisdicción Estatal:
 
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
 I.- Pasaje:
 
 a).- Que exceda del 50% del kilometraje que tenga
 
-autorizado en la concesión, por unidad de 20,000.00 " 25,000.00
+autorizado en la concesión, por unidad de 25,000.00
 
-b).- Que no exceda del 50% del kilometraje que
+b).- Que no exceda del 50% del kilometraje que tenga
 
-tenga autorizado en la concesión, por unidad
+autorizado en la concesión, por unidad de 12,500.00
 
-de 10,000.00 " 12,500.00
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 II.- Carga:
 
-a) Que exceda del 50% del radio de acción
+a) Que exceda del 50% del radio de acción autorizado
 
-autorizado en la concesión, por unidad
+en la concesión, por unidad de 12,500.00
 
-de 10,000.00 " 12,500.00
+b).- Que no exceda del 50% del radio de acción autorizado
 
-b).- Que no exceda del 50% del radio de acción
+en la concesión, por unidad de 6,250.00
 
-autorizado en la concesión, por unidad
-
-de 5,000.00 " 6,250.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
 8.- Por expedición de permisos que amparen el
 
@@ -3799,343 +3873,217 @@ b).- Vehículos con capacidad mayor de una tonelada 3,000.00
 
 II.- Personas morales: 5,000.00
 
-9.- Por estudios técnicos y socioeconómicos a solicitud
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-de concesionarios, que realice el Departamento Técnico,
+a).- Personas Físicas 3,000.00
 
-adscrito al Comité para la modificación de Tarifas 50,000.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+b).- Personas morales 3,000.00
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+Se exceptúan de esta obligación los permisos
+
+particulares a ganaderos que utilicen para su
+
+servicio, vehículos con capacidad hasta de una
+
+tonelada.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+9.- Por expedición de permisos para la explotación
+
+de concesión de centrales y terminales camioneras: 100,000.00.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+
+1) (sic).- Por estudios técnicos y socioeconómicos
+
+que a solicitud de concesionarios realice el
+
+Departamento Técnico, adscrito a la Dirección
+
+para la modificación de tarifas $50,000.00
 
 ### Capítulo Unico
 
 ###### Artículo 321.
 
-Los derechos por los servicios que presta el Registro Público de la Propiedad y del Comercio se cobrarán conforme a las siguientes cuotas:
+Los derechos por los servicios que preste el Registro Público de la Propiedad y del Comercio se cobrarán conforme a las siguientes cuotas:
 
-1.- Por examen de todo título o documento,
+1.- Por examen y calificación de todo título o documento, sea éste público o privado que se presente al Registro para su inscripción, se efectúe éste o no, por las primeras dos hojas, se cobrarán: $100.00
 
-sea éste público o privado que se presente
+Por lo que exceda de éstas, por cada una $25.00.
 
-al Registro para su inscripción se efectúe ésta
+Sin que esta cuota sea mayor de: $500.00.
 
-o no, por las primeras dos hojas se cobrarán $50.00
-
-Por lo que exceda de éstas, por cada una $10.00
-
-Sin que esta cuota sea mayor de $150.00
-
-Se exceptúa del pago a que se refiere este apartado,
-
-a los títulos que expidan los H. Ayuntamientos a
-
-particulares de escasos recursos económicos.
+Se exceptúa del pago a que se refiere este apartado, a los títulos que expidan los H. Ayuntamiento a particulares de escasos recursos económicos.
 
 2.- Quedarán sujetos a la siguiente tarifa:
 
 DESCRIPCION
 
-a) La inscripción de documentos públicos o privados
+a).- La inscripción de documentos públicos o privados en que se reconozca, adquiera, trasmita, modifique, limite, grave o extinga la propiedad originaria de bienes inmuebles o cualquier derecho real sobre los mismos, se cobrará por el valor más alto que resulte entre el valor catastral bancario o el de la operación, a excepción de los títulos expedidos por la Nación.
 
-en que se reconozca, adquiera, transmita, modifique,
+b).- La inscripción de la cláusula resolutiva en las ventas a que se refiere las fracciones I y II del Artículo 2562 del Código Civil y contratos con reserva de dominio.
 
-limite, grave o extinga la propiedad originaria de bienes
+c).- La inscripción o registro de contratos de fideicomiso.
 
-inmuebles o cualquier derecho real sobre los mismos,
+d).- Registros de contratos de permuta, se cobrará por cada contratante por separado sobre el valor fiscal o bancario con base en el que resulte más elevado.
 
-se cobrará por el valor más alto que resulte entre el valor
+e).- Registros de títulos o documentos que se refieran al dominio o posesión de bienes muebles.
 
-catastral, bancario o el de la operación, a excepción de los
+f).- Los contratos de Prenda que menciona el Artículo 3200 del Código Civil del Estado.
 
-títulos expedidos por la Nación.
+TARIFA:
 
-b) La inscripción de la cláusula resolutiva en las ventas
+I.- De 0.01 a $ 5,000.00 $200.00
 
-a que se refieren las fracciones I y II del Artículo 2562
+II.- de 5,000.01 a 10,000.00 300.00
 
-del Código Civil y contratos con reserva de dominio.
+III.- de 10,000.01 a 50,000.00 500.00
 
-c) La inscripción o registro de contratos de fideicomiso.
+IV.- de 50,000.01 a 100,000.00 6 al millar.
 
-d) Registros de contratos de Permuta, se cobrará a cada
+V.- de 100,000.01 a 500,000.00 5 al millar.
 
-contratante por separado sobre el valor fiscal o bancario
+VI.- de 500,000.01 a 1,000,000.00 4 al millar
 
-con base en el que resulte más elevado.
+VII.- de 1,000,000.01 a 2,000,000.00 3 al millar
 
-e) Registro de títulos o documentos que se refieran al
+VIII.- de 2,000,000.01 a en adelante 2 al millar.
 
-dominio o posesión de bienes muebles.
+3.- Por inscripción o registro de títulos que expida el H. Ayuntamiento a particulares, satisfaciendo necesidades de interés social de 0.01 a $10,000.00, $250.00.
 
-f) Los contratos de prenda que menciona el Artículo
+Cuando exceda de esta cantidad, se cobrará con tarifa de compra-venta.
 
-3200 del Código Civil del Estado.
+4.- Por la inscripción o registro de títulos que expida la nación $1, 500.00.
 
-TARIFA
+5.- La constitución del patrimonio familiar, 6 al millar.
 
-I.- De .01 a $500.00 $50.00
+6.- Los contratos de arrendamiento de bienes muebles e inmuebles, 6 al millar.
 
-II.- De $500.01 hasta $10,000.00 100.00
+7.- Tratándose de arrendamiento de bienes inmuebles por tiempo indefinido, se cobrará por el importe del contrato por un período que no exceda de cinco años, 6 al millar.
 
-III.- De $10,000.01 hasta $50,000.00 150.00
+8.- Causarán el pago de derechos a que se contrae la tarifa de compra-venta, los siguientes actos, cuya inscripción se solicite:
 
-IV.- De $50,000.01 hasta $100,000.00 4 al millar
+a).- Cesión de derechos gratuita u onerosa.
 
-V.- Por lo que exceda de $100,000.01
+b).- Comodato, uso, usufructo, habitación.
 
-hasta $1´000,000.00 3 al millar
+c).- Donaciones
 
-VI.- Por lo que exceda de 1´000,000.00 2 al millar
+d).- Información adPerpetuam (sic) o posesoria.
 
-3.- Por inscripción o registro de títulos que
+e).- Usucapión o prescripción adquisitiva.
 
-expida el H. Ayuntamiento a particulares,
+f).- Constitución del régimen de condominio cada uno de los departamentos, despachos o cualquier otro tipo de locales.
 
-satisfaciendo necesidades de interés social
+g).- Adjudicaciones por herencia de bienes inmuebles inscritos.
 
-de .01 a $10,000.00 $100.00
+h).- Adjudicaciones judiciales de bienes muebles.
 
-Cuando exceda de esta cantidad se cobrará con
+i).- Disolución de sociedades conyugales sobre inmuebles, cuando estén inscritos.
 
-tarifa de compra-venta.
+j).- Protocolización de convenio de separación de bienes, cuando haya bienes inmuebles inscritos.
 
-4.- Por la inscripción o registro de títulos que
+k).- Contratos de obra a precios alzados.
 
-expida la Nación $500.00
+l).- Por inscripción de embargos judiciales y administrativos.
 
-5.- La constitución del patrimonio familiar 2 al millar
+9.- Capitulaciones matrimoniales $1,500.00.
 
-6.- Los contratos de arrendamientos (sic) de bienes
+10.- Por fusión de predios rústicos o urbanos $1,000.00.
 
-muebles e inmuebles 2.5 al millar
+11.- Actos, contratos o convenios por los que se fraccione, lotifique, relotifique o subdivida un predio $1,000.00.
 
-7.- Tratándose de arrendamientos de bienes
+Independientemente de la tarifa anterior, se cubrirá en forma adicional las siguientes cuotas en cada caso:
 
-inmuebles por tiempo indefinido, se cobrará
+a).- En zonas urbana residencial, jardinada, por cada lote $200.00.
 
-por el importe del contrato por un período que
+b).- En las zonas populares $100.00.
 
-no exceda de cinco años 2.5 al millar
+c).- Zona Industrial $300.00.
 
-8.- Causarán el pago de derechos a que se
+d).- Zona campestre o rústica 500.00.
 
-contrae la tarifa de compra-venta, los siguientes
+12.- Los créditos hipotecarios, reconocimiento de adeudo, refaccionarios, habilitación o avíos, finanzas celebradas entre particulares, sobre el importe de la operación 5 al millar.
 
-actos, cuya inscripción se solicite:
+13.- Todos los documentos o títulos públicos o privados no previstos en las anteriores tarifas, se cobrará $1,000.00.
 
-a) Cesión de derechos gratuita u onerosa.
+14.- Por inscripción de escrituras constitutivas de Sociedades Mercantiles, pagarán de acuerdo con la siguiente tarifa:
 
-b) Comodato, uso, usufructo, habitación.
+I.- Por capital social y sus aumentos que no excedan de $50,000.00, $500.00.
 
-c) Donaciones.
+II.- Por lo que exceda de $50,000.01 hasta $500,000.00 5 al millar.
 
-d) Informaciones ad Perpetuam o Posesorias.
+III.- Por lo que exceda de. 50,000.01 hasta 1,000,000.00, 4 al millar.
 
-e) Usucapión o prescripción adquisitiva.
+IV.- Por lo que exceda de 1,000,000.01 hasta $5,000,000.00, 3 al millar.
 
-f) Constitución del régimen de condominio cada uno de los
+V.- Por lo que exceda de 5,000,000.01, 2 al millar.
 
-departamentos, despachos o cualquier otro tipo de locales.
+15.- Por cualquier modificación de Sociedades Mercantiles de escrituras constitutivas, exceptuando el aumento de capital, por la inscripción de poderes, sustitución de los mismos y cualquier otra inscripción de poderes, sustitución de los mismos y cualquier otra inscripción en la Sección de Comercio $1,500.00.
 
-g) Adjudicaciones por herencia de bienes inmuebles inscritos.
+16.- Cuando el documento a inscribir sea constitución de Sociedad Mercantil, o cualquier modificación al pacto social, otorgado fuera de la Entidad, aparte de la tarifa estipulada, pagarán 25% sobre el monto de derechos que cause el documento.
 
-h) Adjudicaciones judiciales de bienes inmuebles.
+17.- Las escrituras constitutivas de asociaciones y las que se reformen, pagarán $1,000.00.
 
-i) Disolución de sociedades conyugales sobre inmuebles,
+18.- Las escrituras constitutivas de fundaciones, de beneficencia privada, pagarán $500.00.
 
-cuando estén inscritos.
+19.- Por depósito de testamento o lógrafo (sic) $1,500.00.
 
-j) Protocolización de convenio de separación de bienes,
+20.- Los créditos hipotecarios, refaccionarios, de habilitación o avío, otorgados por instituciones de crédito y organizaciones auxiliares, causarán sobre el importe de la operación, 2.5 al millar.
 
-cuando haya bienes inmuebles inscritos.
+21.- Por inscripción de documentos que contengan emisión de obligaciones quirográfarias o garantía prendaria o hipotecaria, que el emisor sea una Sociedad Anónima, pagará sobre el monto, 0.25%.
 
-k) Contratos de obra a precio alzado.
+22.- Certificados de no inscripción para obtención de becas para estudios únicamente $100.00.
 
-l) Por inscripción de embargos judiciales y administrativos.
+23.- Certificados de no inscripción de bienes
 
-9.- Capitulaciones matrimoniales $500.00
+Inmuebles Urbanos $1,500.00
 
-10.- Por fusión de predios rústicos ó urbanos $300.00
+De inmuebles rústicos 3,000.00
 
-11.- Actos, contratos o convenios por los que se
+24.- Expedición de certificados de libertad de gravámenes en que se pida la relación de predios parcial o total que integran un fraccionamiento, independientemente de la cuota establecida, se pagará por cada lote descrito en el certificado $50.00.
 
-fraccione, lotifique, relotifique o subdivida un predio $300.00
+25.- Expedición de copia certificada o simple a que se refiere el párrafo anterior independientemente de la tarifa, se cobrará por cada lote o predio $25.00.
 
-Independientemente de la tarifa anterior, se cubrirá (sic)
+26.- Expediciones de certificados de no inscripción para participación de sorteos de casa-habitación de interés social $150.00.
 
-en forma adicional las siguientes cuotas en cada caso:
+27.- Por registro de Cédula Hipotecaria se cobrará $2,000.00.
 
-a) En zona urbana residencial jardinada, por
+28.- Por la búsqueda de antecedentes para expedición de certificados, copias certificadas o simples, a excepción de los de becas, por períodos de cinco años o fracción $50.00.
 
-cada lote $50.00
+29.- Por la expedición de copias certificadas de documentos que obran en el Registro Público sacadas del libro o legajo, primera hoja: $150.00. Por cada una de las siguientes $75.00.
 
-b) En las zonas populares 25.00
+30.- Por expedición de copias certificadas o simples que solicite del primer antecedente registral hasta el último, causará independientemente del importe a que se refiere el párrafo anterior por cada antecedente registral $200.00.
 
-c) Zona industrial 75.00
+31.- Por expedición de copias simple:
 
-d) Zona campestre o rústica 100.00
+Primera hoja $100.00.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+Por cada una de las siguientes $50.00.
 
-12.- Los créditos hipotecarios, reconocimientos (sic)
+32.- Expedición de certificados de libertad o de gravámenes $200.00.
 
-de adeudos, refaccionarios, habilitación o avíos,
+33.- La expedición de certificados o copias certificadas, solicitadas con el carácter de urgente, causarán el doble de las cuotas que señala la tarifa del primer párrafo anterior relativo.
 
-hipotecas y fianzas celebradas entre particulares,
+34.- En la expedición de certificados o copias certificadas, la tarifa no incluye la búsqueda.
 
-sobre el importe de la operación 5 al millar
+35.- Por cancelación de gravámenes recaídos sobre bienes muebles o inmuebles se pagarán por cada antecedente de las inscripciones independientemente del examen del documento $50.00.
 
-13.- Todos los documentos o títulos públicos o privados
+36.- Por cada anotación marginal que se efectúa al presentar cualquier documento público o privado para su registro $50.00.
 
-no previstos en las anteriores tarifas, se cobrarán 500.00
+37.- Por cada anotación marginal en certificados que se expidan $50.00.
 
-14.- Por inscripción de escrituras constitutivas de
+38.- Por lo escrito en el libro respectivo se pagará por hoja $50.00.
 
-Sociedades Mercantiles, pagarán de acuerdo con la
+39.- Por anotación de segundo ejemplar cuando sea simultánea a la inscripción del primer ejemplar $300.00.
 
-siguiente tarifa:
-
-I.- Por capital social y sus aumentos que no
-
-excedan de $50,000.00 100.00
-
-II.- Por lo que exceda de $50,000.00
-
-hasta $1´000,000.00 3 al millar
-
-III.- Por lo que exceda de $1´000,000.00 2 al millar
-
-15.- Por cualquier modificación de Sociedades
-
-Mercantiles de escrituras constitutivas, exceptuando
-
-el aumento de capital, por la inscripción de poderes,
-
-sustitución de los mismos y cualquier otra inscripción
-
-en la Sección de Comercio 200.00
-
-16.- Cuando el documento a inscribir sea constitución
-
-de Sociedad Mercantil, o cualquier modificación al
-
-pacto social, otorgado fuera de la entidad, aparte
-
-de la tarifa estipulada pagarán 25% sobre el monto
-
-de derechos que cause el documento.
-
-17.- Las escrituras constitutivas de asociaciones y las
-
-que se reforman, pagarán $250.00
-
-18.- Las escrituras constitutivas de fundaciones, de
-
-beneficencia privada, pagarán 150.00
-
-19.- Por depósito de testamento ológrafo 500.00
-
-20.- Los créditos hipotecarios, refaccionarios, de
-
-habilitación o avío, otorgados por instituciones de
-
-crédito y organizaciones auxiliares, causarán sobre
-
-el importe de la operación 2.5 al millar
-
-21.- Por inscripción de documentos que contengan
-
-emisión de obligaciones quiriografarias o garantía
-
-prendaria o hipotecaria sean éstos nominativos o
-
-al portador, que el emisor sea una Sociedad Anónima,
-
-pagará sobre el monto 0.25%
-
-22.- Certificados de no inscripción para obtención de
-
-becas para estudio únicamente 20.00
-
-23.- Expedición de certificados de no inscripción de bienes.
-
-Inmuebles urbanos 300.00
-
-De inmuebles rústicos 500.00
-
-24.- Expediciones de certificados de no inscripción
-
-para participación de sorteos de casa-habitación
-
-de interés social 75.00
-
-25.- Por la búsqueda de antecedentes para
-
-expedición de certificados, copias certificadas
-
-o simples, a excepción de los de becas, por períodos
-
-de cinco años o fracción 20.00
-
-26.- Por la expedición de copias certificadas de
-
-documentos que obran en el Registro Público
-
-sacadas del libro o legajo, primera hoja 50.00
-
-Por las siguientes 25.00
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-27.- Expedición de copias simples,
-
-Primera hoja $40.00
-
-Por cada una de las siguientes $20.00
-
-28.- Expedición de certificados de libertad o de
-
-gravámenes $100.00
-
-29.- La expedición de certificados o copias certificadas,
-
-solicitados con el carácter de urgente, causarán el doble
-
-de las cuotas que señala la tarifa del párrafo anterior relativo.
-
-30.- En la expedición de certificados o copias certificadas,
-
-la tarifa no incluye la búsqueda.
-
-31.- Por cancelaciones de gravámenes recaídos
-
-sobre bienes muebles o inmuebles se pagarán
-
-por cada antecedente de inscripción independientemente
-
-del examen del documento $20.00
-
-32.- Por cada anotación marginal que se efectúe al
-
-presentar cualquier documento público o privado
-
-para su registro $20.00
-
-33.- Por cada anotación marginal en certificados que
-
-se expidan $20.00
-
-34.- Por lo escrito en el libro respectivo, se pagarán
-
-por hoja $20.00
-
-35.- Por anotación de segundo ejemplar, cuando sea
-
-simultánea a la inscripción del primer ejemplar $100.00
-
-36.- La inscripción de fianzas extendidas por
-
-instituciones especializadas, causarán sobre el
-
-importe que corresponda 0.25%
+40.- La inscripción de finanzas extendidas por instituciones especializadas, causarán sobre el importe que corresponda 0.25%.
 
 ###### Artículo 322.
 
@@ -4167,19 +4115,17 @@ I.- Derechos por fusión de cada lote que se incorpore
 
 a otro $200.00
 
-> <small>(REFORMADA, B.O. 3 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
-II.- Derechos por división de predios en varios lotes,
+II.- Derechos por subdivisión de predios en varios
 
-por cada uno de éstos 200.00
+lotes, por cada uno de ellos: $200.00.
 
 > <small>(REFORMADA, B.O. 3 DE FEBRERO DE 1979)</small>
 
 III.- Derechos por supervisión de obras de
 
-urbanización, por las primeras dos hectáreas o
-
-menos 1,800.00
+urbanización, por las primeras dos hectáreas o menos 1,800.00
 
 Más $900.00 por cada hectárea excedente o fracción
 
@@ -4372,3 +4318,7 @@ B.O. 31 DE DICIEMBRE DE 1981.
 PRIMERO: Esta Ley entrará en vigor, el día 1o. de Enero de 1982, previa publicación en el Boletín Oficial del Estado.
 
 SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieren otorgado a título particular, que contravengan o se opongan a los preceptuados (sic) en dichas reformas o adiciones.
+
+B.O. 30 DE DICIEMBRE DE 1982.
+
+UNICO.- Esta Ley entrará en vigor en todo el Estado, el 1o. de Enero de 1983, previa su publicación, previa su publicación en el Boletín Oficial del Estado.
