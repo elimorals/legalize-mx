@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1930-03-18"
+last_updated: "1930-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE MARZO DE 1930.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 1930.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -307,7 +307,9 @@ XVII.- formar su Reglamento interior;
 
 XVIII.- nombrar y remover libremente al Contador Mayor, a los empleados de la Secretaría del Congreso y a los de la Contaduría Mayor;
 
-XIX.- resolver acerca de la venta de los bienes del Estado, que deberá ser siempre en pública subasta;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 1930)</small>
+
+XIX.- autorizar en cada caso al Ejecutivo para vender bienes de la propiedad del Estado, en los términos y con las condiciones que fije el mismo Congreso;
 
 XX.- donar a las Instituciones de interés público o de beneficencia, cualquiera clase de bienes de la propiedad del Estado;
 
@@ -359,7 +361,7 @@ XLII.- nombrar, en caso de renuncia colectiva de un Ayuntamiento, tres personas 
 
 > <small>(REFORMADA, D.O. 19 DE NOVIEMBRE DE 1925)</small>
 
-XLIII. Revocar (sic) el mandato conferido al Gobernador del Estado, a los Magistrados del H. Tribunal Superior de Justicia, a los Diputados y a los Presidentes y Concejales de los Ayuntamientos. Esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos excepto cuando se trate del Gobernador y de los Diputados, en cuyos casos será necesaria la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate de Gobernador y de las dos terceras partes, para el caso de los Diputados;
+XLIII.- Revocar (sic) el mandato conferido al Gobernador del Estado, a los Magistrados del H. Tribunal Superior de Justicia, a los Diputados y a los Presidentes y Concejales de los Ayuntamientos. Esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos excepto cuando se trate del Gobernador y de los Diputados, en cuyos casos será necesaria la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate de Gobernador y de las dos terceras partes, para el caso de los Diputados;
 
 XLIV.- las demás que le confiere esta Constitución.
 
@@ -1028,6 +1030,10 @@ D.O. 15 DE JUNIO DE 1927.
 Este Decreto comenzará a surtir sus efectos legales el mismo día de su publicación en el "Diario Oficial" del Estado.
 
 D.O. 18 DE MARZO DE 1930.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+
+D.O. 28 DE JUNIO DE 1930.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
