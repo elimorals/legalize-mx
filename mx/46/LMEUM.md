@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1969-12-30"
+last_updated: "1973-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1973.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -46,31 +46,23 @@ LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
 La unidad del sistema monetario de los Estados Unidos Mexicanos es el “peso”, con la equivalencia que por Ley se señalará posteriormente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1949)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1973)</small>
 
 ###### ARTICULO 2°.
 
 Las únicas monedas circulantes serán:
 
-a). Los billetes del Banco de México, S.A., con las denominaciones que fijen sus Estatutos.
+a). Los billetes del Banco de México, S. A., con las denominaciones que fijen sus estatutos;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1969)</small>
+b). Las monedas metálicas de veinticinco, diez, cinco y un peso, y las de cincuenta, veinte, diez, cinco y un centavo con los diámetros, composición metálica, pesos, cuños y demás características que señalen los decretos relativos;
 
-b). Las monedas de plata de veinticinco pesos, con el diámetro, ley, peso, cuños y demás características que señale el decreto relativo;
+c). Las monedas conmemorativas de acontecimientos de importancia nacional, en plata, con los valores de cada pieza y el total de la emisión, diámetros, leyes, pesos, cuños y demás características que señalen los decretos relativos.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1969)</small>
+> <small>N. DE E. EN RELACION A LA DEROGACION DE LOS INCISOS d) Y e) DEL ARTICULO QUE ANTECEDE REMITASE A LOS ARTICULOS TRANSITORIOS DEL PRESENTE DECRETO.</small>
 
-c). Las monedas de cuproníquel de cinco pesos, un peso, cincuenta y veinticinco centavos, con los diámetros, composición de ligas metálicas, pesos, cuños y demás características que señalen los decretos relativos;
+d). (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1973)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1969)</small>
-
-d). Las monedas de latón de veinte, diez, cinco y un centavos, con los diámetros, composición de ligas metálicas, pesos, cuños y demás características que señalen los decretos relativos;
-
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 21 DE OCTUBRE DE 1957)
-
-e). Las monedas conmemorativas de acontecimientos de importancia nacional, en plata, con los valores de cada pieza y el total de la emisión, diámetro, leyes, pesos, cuños y demás características que señalen los decretos relativos.
-
-f). (DEROGADO, D .O. 15 DE SEPTIEMBRE DE 1955)
+e). (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1973)
 
 ###### ARTICULO 2o.
 
@@ -547,3 +539,17 @@ Las monedas de plata de veinticinco, diez, cinco y un pesos cuyos diámetros, pe
 ###### ARTICULO SEGUNDO.
 
 La presente reforma entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1973.
+
+###### ARTICULO PRIMERO.
+
+En virtud de la nueva redacción que se propone al artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos, se derogan las fracciones (sic) d) y e) de ese artículo.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la fecha en que entre en vigor el presente Decreto, no se acuñarán, la moneda de cuproníquel de veinticinco centavos, con el diámetro, peso, ley y cuño, así como las demás características que señala el Decreto de 26 de diciembre de 1969, publicado en el "Diario Oficial" de la Federación el 30 del mismo mes y año, ni las monedas de latón de veinte y diez centavos, con los diámetros, pesos, leyes y cuños, así como las demás características que señalan los Decretos de 13 de septiembre de 1955, y 26 de diciembre de 1969, publicados en el "Diario Oficial" de la Federación el primero, el 15 de septiembre de 1955, y el segundo, el 30 de diciembre de 1969. Las citadas monedas de veinte centavos, podrán seguirse acuñando por el tiempo que el Banco de México determine, atendiendo al plazo necesario para sustituir o ajustar los aparatos mecánicos utilizados para efectuar ciertos pagos. Todas las monedas mencionadas en el presente artículo continuarán en circulación con el poder liberatorio que señala el artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos, hasta en tanto sean retiradas de la circulación por las autoridades competentes.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
