@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2004-10-16"
+last_updated: "2004-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -553,9 +553,9 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 9.- Espectáculos deportivos 5
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
-10.- Palenque de gallos 8
+10.- Palenques de gallos 1
 
 11.- Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 13.5
 
@@ -2755,7 +2755,7 @@ Es base para el pago de este derecho:
 
 I. El importe del consumo facturado de energía eléctrica que hagan los consumidores respecto de los contratos celebrados con las empresas prestadoras de este servicio; y
 
-II. La medida en metros lineales de los lados perimetrales de los predios baldíos o construídos, colindantes con vías públicas que cuenten con la infraestructura de alumbrado público en uso, cuando el propietario, poseedor o usuario del predio no mantenga contrato de energía eléctrica vigente respecto del mismo.
+II. La medida en metros lineales de los lados perimetrales de los predios baldíos o construidos, colindantes con vías públicas que cuenten con la infraestructura de alumbrado público en uso, cuando el propietario, poseedor o usuario del predio no mantenga contrato de energía eléctrica vigente respecto del mismo.
 
 ###### ARTICULO 93.
 
@@ -3422,3 +3422,7 @@ El presente decreto entrará en vigor el día 1° de enero del año 2004, previa
 P.O. 16 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima.
+
+P.O. 30 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Colima". El Gobernador del Estado dispondrá se publique circule y observe.
