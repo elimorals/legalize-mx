@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2002-11-01"
+last_updated: "2003-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -391,7 +391,7 @@ XV.- Proporcionar los apoyos administrativos que requiera la Comisión Estatal E
 
 XVI.- Participar y coordinar, en su caso, actividades relacionadas con la beneficencia pública y privada, y la política poblacional;
 
-XVII.- Participar y coordinar, en su caso, actividades relacionadas con la beneficencia pública y privada, la seguridad pública y la política poblacional;
+XVII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
 XVIII.- Dirigir y orientar la prevención de la delincuencia y de toda conducta que afecte negativamente la seguridad y el bienestar social, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
@@ -403,17 +403,53 @@ XIX.- Vigilar la marcha general de la administración pública, para asegurar el
 
 XX.- Establecer el sistema estatal de protección civil; coordinar las acciones y programas del Ejecutivo, relativos a la prevención de desastres; así como, ordenar la participación civil en eventos de emergencia, a fin de controlar y disminuir los daños materiales y humanos, y
 
-XXI.- Proponer al Gobernador la creación y, en su caso, administrar los Centros de Readaptación Social para Adultos en el Estado;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
 
-XXII.- Realizar y promover acciones tendientes a prevenir la toxicomanía en todos sus tipos, coordinándose con las Autoridades cuya intervención establezcan las Leyes Federales;
+XXI.- Vigilar que en los asuntos de orden administrativo que competen al Poder Ejecutivo del Estado, se observen los principios de constitucionalidad y legalidad;
 
-XXIII.- Promover y coordinar la realización de estudios sobre los Municipios del Estado, que tiendan a su fortalecimiento y desarrollo;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
 
-XXIV.- Organizar y controlar la Defensoría de Oficio;
+XXII.- Asesorar en las controversias constitucionales en las que el Ejecutivo del Estado sea parte;
 
-XXV.- Vigilar la marcha general de la administración pública para asegurar el cumplimiento de las instrucciones y criterios generales que hubieren sido dictados por el Titular del Ejecutivo, y
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
 
-XXVI.- Las demás que determinen expresamente las Leyes y Reglamentos.
+XXIII.- Asesorar al Ejecutivo del Estado, en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Federal;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
+
+XXIV.- Asistir jurídicamente al Poder Ejecutivo en todos los juicios o negocios en que intervenga como parte que afecten su patrimonio o tenga interés jurídico;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
+
+XXV.- Participar como coadyuvante en los juicios o negocios en que las dependencias y entidades de la administración pública del Estado intervengan con cualquier carácter, en su caso y previo acuerdo con el Titular, ejercer las acciones y excepciones que correspondan para la defensa administrativa y judicial;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
+
+XXVI.- Prestar asesoría jurídica, emitir opinión y resolver las consultas que en materia jurídica le sean planteadas por el titular del Ejecutivo del Estado y por las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2003)</small>
+
+XXVII.- Formular o emitir opinión sobre la constitucionalidad y legalidad de los proyectos de Ley o Reglamentos que le encomiende el Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2003)</small>
+
+XXVIII.- Presidir e integrar la Comisión de Estudios jurídicos, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia y entidad de la Administración Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2003)</small>
+
+XXIX.- Coordinar los programas de normatividad jurídica, procurando la congruencia de los criterios jurídicos de las dependencias y entidades de la Administración Pública Estatal, interviniendo en la actualización y simplificación del marco normativo;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2003)</small>
+
+XXX.- Intervenir en el asesoramiento jurídico de los trámites de expropiación por causa de utilidad pública;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2003)</small>
+
+XXXI.- Dirigir, organizar, administrar y evaluar la defensoría de Oficio, garantizando su accesibilidad a los gobernados;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2003)</small>
+
+XXXII.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO III
 
@@ -1111,33 +1147,33 @@ XXVII.- Proponer al Ejecutivo del Estado la creación y en su caso administrar l
 
 XXVIII.- Tramitar por acuerdo del Ejecutivo del Estado, las solicitudes de indulto;
 
-XXIX.- Vigilar que en los asuntos de orden administrativo que competen al Poder Ejecutivo del Estado, se observen los principios de constitucionalidad y legalidad;
+XXIX.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XXX.- Asesorar en las controversias constitucionales en las que el Ejecutivo del Estado sea parte;
+XXX.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XXXI.- Asesorar al Ejecutivo del Estado, cuando éste así lo acuerde, en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Federal;
+XXXI.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XXXII.- Asistir jurídicamente al Poder Ejecutivo en todos los juicios o negocios en que intervenga como parte que afecten su patrimonio o tenga interés jurídico;
+XXXII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XXXIII.- Participar como coadyuvante en los juicios o negocios en que las dependencias y entidades de la Administración Pública del Estado intervengan con cualquier carácter, en su caso y previo acuerdo con el Titular, ejercer las acciones y excepciones que correspondan para la defensa administrativa y judicial;
+XXXIII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XXXIV.- Prestar asesoría jurídica, emitir opinión y resolver las consultas que en materia jurídica le sean planteadas por el titular del Ejecutivo del Estado y por las dependencias y entidades de la Administración Pública Estatal;
+XXXIV.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XXXV.- Formular o emitir opinión sobre la constitucionalidad y legalidad de los proyectos de Ley o Reglamentos que le encomiende el Ejecutivo del Estado;
+XXXV.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XXXVI.- Presidir e integrar la Comisión de Estudios Jurídicos, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia y entidad de la Administración Pública del Estado;
+XXXVI.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XXXVII.- Coordinar los programas de normatividad jurídica, procurando la congruencia de los criterios jurídicos de las dependencias y entidades de la administración pública estatal, interviniendo en la actualización y simplificación del marco normativo;
+XXXVII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XXXVIII.- Intervenir en el asesoramiento jurídico de los trámites de expropiación por causa de utilidad pública;
+XXXVIII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XXXIX.- Dirigir, organizar, administrar y evaluar la Defensoría de Oficio, garantizando su accesibilidad a los gobernados;
+XXXIX.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
 XL.- Fomentar la participación ciudadana, en la realización de programas y acciones tendientes a la prevención del delito, coordinándose con las autoridades cuya intervención establezcan las leyes;
 
 XLI.- Fomentar en coordinación con la Secretaría de Salud del Estado, y demás dependencias y entidades del mismo, la participación ciudadana en la realización y operación de programas y acciones tendientes a tratar a personas con algún tipo de adicción;
 
-XLII.- Delegar por acuerdo del Ejecutivo del Estado, las facultades previstas en las fracciones XXX a la XXXIII de este artículo, y
+XLII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
 XLIII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
@@ -1600,6 +1636,16 @@ El Gobernador del Estado por conducto de la dependencia competente hará la entr
 P.O. 1 DE NOVIEMBRE DE 2002.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE ENERO DE 2003.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las atribuciones que se otorgan en otras Leyes, reglamentos, decretos y demás disposiciones, a la Secretaría de Seguridad Pública en materia de las atribuciones que se adicionan al Artículo 19 de la Ley Orgánica de la Administración Pública del Estado, se entenderán echas (sic) a la Secretaría General de Gobierno, a partir de la entrada en vigor de las presentes reformas.
+
+TERCERO.- El titular del Poder Ejecutivo dentro de los treinta días siguientes a partir de la entrada en vigor de las presentes reformas, deberá realizar las adecuaciones al reglamento interno de la Secretaría de Seguridad Pública y de la Secretaría General de Gobierno.
+
+CUARTO.- El titular del Poder Ejecutivo, por conducto de las dependencias competentes, integrará una comisión intersecretarial, a efecto de realizar la transferencia de los recursos humanos, materiales y presupuestales de la Secretaría de Seguridad Pública a la Secretaría General de Gobierno, para atención de las atribuciones que se le confieren.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
