@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-odontologia-50"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "1993-04-13"
+last_updated: "2001-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE ODONTOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -47,9 +47,11 @@ La Escuela Militar de Odontología es un establecimiento de educación militar d
 
 Dependencia.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 2o.
 
-La Escuela Militar de Odontología depende del Secretario de la Defensa Nacional, a través de la Universidad del Ejército y Fuerza Aérea.
+La Escuela Militar de Odontología depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO III.
 
@@ -67,9 +69,11 @@ III. Desarrollar en el personal en instrucción una formación moral sólida, pa
 
 IV. Preparar desde el punto de vista físico al personal en instrucción.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 4o.
 
-Para cumplir con los objetivos del plantel se imparten las siguientes carreras y cursos:
+Para cumplir con los objetivos del plantel se imparten las carreras, especialidades y cursos siguientes:
 
 I. Cirujano Dentista Militar a nivel licenciatura; y
 
@@ -119,7 +123,7 @@ C. Subsección Psicopedagógica;
 
 D. Subsección de Informática; y
 
-E. Subsección de Apoyos Didácticos.
+E. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
 V. Sección Académica:
 
@@ -129,25 +133,59 @@ B. Subsección de Materias Militares;
 
 C. Subsección de Materias Odontológicas; y
 
-D. Subsección de Materias Básicas Médicas.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VI. Sección de Investigación y Difusión:
+D. Subsección de Materias Médicas Básicas, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+E. Subsección de Apoyos Didácticos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Sección de Investigación, Difusión y Doctrina Militar:
 
 A. Jefatura;
 
-B. Subsección de Investigación; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Subsección de Investigación y Doctrina Militar, y
 
 C. Subsección de Difusión y Relaciones Públicas.
 
-VII. Sección de Clínica:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Sección de Clínica y Laboratorio Dental:
 
 A. Jefatura;
 
-B. Subsección de Laboratorios; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-C. Subsección de Farmacias.
+B. Subsección de Laboratorio Dental;
 
-VIII. Sección Administrativa:
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Subsección de Almacén y Farmacia, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Subsección de Mantenimiento de Equipo y Aparatos Médicos.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Ayudantía General:
+
+A. Ayudante General;
+
+B. Subayudantía;
+
+C. Servicios técnicos, y
+
+D. Servicios generales.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Sección Administrativa:
 
 A. Jefatura;
 
@@ -155,19 +193,9 @@ B. Subsección de Recursos Humanos;
 
 C. Subsección de Recursos Materiales;
 
-D. Subsección de Contabilidad; y
+D. Subsección de Contabilidad, y
 
 E. Subsección de Archivo y Correspondencia.
-
-IX. Ayudantía General:
-
-A. Ayudante General;
-
-B. Subayudantía;
-
-C. Servicios Técnicos; y
-
-D. Servicios Generales.
 
 X. Unidad Ejecutora de Pago.
 
@@ -195,9 +223,13 @@ B. Subdirector.
 
 II. Académico:
 
-A. Jefes de las Secciones Pedagógica, Académica y de Investigación y Difusión; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-B. Jefes de Subsección las Secciones Pedagógica, Académica y de Investigación y Difusión;
+A. Jefes de las Secciones Pedagógica, Académica, de Investigación, Difusión y Doctrina Militar y de Clínica y Laboratorio Dental, y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Jefes de Subsección de las Secciones Pedagógica, Académica, de Investigación, Difusión y Doctrina Militar;
 
 III. Docente:
 
@@ -209,7 +241,9 @@ C. Investigadores.
 
 IV. Cuerpo de Cadetes y Oficiales en Instrucción:
 
-A. Comandante, auxiliado por un Grupo de Comando;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+A. Comandante y Grupo de Comando;
 
 B. Oficiales del Cuerpo; y
 
@@ -219,19 +253,23 @@ a. Oficiales en Instrucción; y
 
 b. Cadetes.
 
-V. Personal Administrativo:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Administrativo:
 
 A. Jefe de la Sección Administrativa;
 
 B. Ayudante General;
 
-C. Jefe de la Sección de Clínica; y
+C. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
 D. Jefe de la Unidad Ejecutora de Pago.
 
 VI. De la Planta:
 
-Comprende el personal perteneciente a los servicios técnicos, administrativos y generales del plantel.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Comprende el personal perteneciente a los servicios técnicos, administrativos y generales del plantel y aquel otro no incluido en la clasificación anterior.
 
 ## TITULO CUARTO.
 
@@ -249,6 +287,10 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Tener estudios de posgrado con reconocimiento y validez oficial.
+
 ###### ARTICULO 10.
 
 El Director de la Escuela Militar de Odontología, tiene las mismas atribuciones y responsabilidades correspondientes a un Comandante de Cuerpo de Tropas, de conformidad con lo estipulado en las leyes y reglamentos militares, y además las siguientes:
@@ -259,9 +301,13 @@ II. Hacer cumplir las directivas establecidas en el Plan General de Educación M
 
 III. Administrar los recursos humanos y económicos puestos a su disposición;
 
-IV. Presentar a la Universidad del Ejército y Fuerza Aérea, los planes y programas de estudios del plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-V. Proponer a la Universidad del Ejército y Fuerza Aérea la creación de nuevos cursos;
+IV. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los planes y programas de estudio del plantel;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea la creación de nuevos cursos;
 
 VI. Impulsar permanentemente las actividades relacionadas con la Estomatología;
 
@@ -273,11 +319,15 @@ IX. Conferir los cargos que desempeña el personal académico, docente, administ
 
 X. Proponer al personal del plantel que se haga acreedor a recompensas, premios y diplomas;
 
-XI. Proponer el alta, baja y cambio del personal docente y administrativo;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Proponer el alta, baja y cambio del personal docente, académico y administrativo;
 
 XII. Firmar la documentación oficial que se genere, con motivo de las actividades académicas y administrativas del plantel;
 
-XIII. Presentar a la Universidad del Ejército y Fuerza Aérea, un informe general de actividades al término de cada ciclo escolar;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea un informe general de actividades al término de cada ciclo escolar;
 
 XIV. Atender el bienestar del personal perteneciente al plantel y el de sus derechohabientes, desarrollando programas para elevar su moral;
 
@@ -287,9 +337,13 @@ XVI. Difundir permanentemente el contenido del presente Reglamento, entre el per
 
 XVII. Supervisar la elaboración y actualización del Manual de Organización y Funcionamiento del plantel proponiendo los cambios necesarios;
 
-XVIII. Proponer a la Universidad del Ejército y Fuerza Aérea el proyecto de presupuesto de su competencia; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XIX. Las que le sean asignadas por la superioridad.
+XVIII. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea el proyecto de presupuesto de su competencia, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Las que le sean asignadas por la Secretaría de la Defensa Nacional.
 
 ### CAPITULO II.
 
@@ -302,6 +356,10 @@ La Subdirección de la Escuela Militar de Odontología, es un órgano de direcci
 I. Tener experiencia docente;
 
 II. Tener experiencia académica.
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Tener estudios de posgrado con reconocimiento y validez oficial.
 
 ###### ARTICULO 12.
 
@@ -329,7 +387,9 @@ X. Coordinar y supervisar la elaboración y actualización del Manual de Organiz
 
 XI. Coordinar la elaboración del proyecto de presupuesto del plantel y presentarlo al Director; y
 
-XII. Las que determine la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Las que le sean asignadas por la Dirección del plantel.
 
 ### CAPITULO III.
 
@@ -339,9 +399,11 @@ Del Cuerpo de Cadetes y Oficiales en Instrucción.
 
 El Cuerpo de Cadetes y Oficiales en Instrucción de la Escuela Militar de Odontología, está a cargo de un Teniente Coronel o Mayor de Arma, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes y Oficiales en Instrucción.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 14.
 
-El Comandante del Cuerpo de Cadetes y Oficiales en Instrucción de la Escuela Militar de Odontología, tiene las siguientes funciones:
+El Comandante del Cuerpo de Cadetes y Oficiales en Instrucción de la Escuela Militar de Odontología tiene las atribuciones y responsabilidades siguientes:
 
 I. Ejercer el mando del Cuerpo de Cadetes y Oficiales en Instrucción del plantel;
 
@@ -359,9 +421,13 @@ VII. Llevar el seguimiento disciplinario del personal en instrucción;
 
 VIII. Proponer la reunión del Consejo de Honor;
 
-IX. Proponer a la dirección del plantel, únicamente a los Cadetes nacionales que por su don de mando, aprovechamiento y disciplina se hagan merecedores a recibir alguna distinción o grado;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-X. Supervisar el pago del "PRE" al personal de Cadetes de acuerdo a las directivas giradas por la superioridad;
+IX. Proponer a la Dirección del plantel, a los cadetes que por su don de mando, aprovechamiento y disciplina se hagan merecedores a recibir alguna distinción o grado;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Supervisar el pago de la Percepción Recreativa Estudiantil (PRE) al personal de cadetes de acuerdo a las directivas giradas por la superioridad;
 
 XI. Es responsable que el personal perteneciente al Cuerpo de Cadetes y Oficiales en Instrucción, se encuentre permanentemente en óptimas condiciones físicas;
 
@@ -373,7 +439,9 @@ XIV. Supervisar y controlar el desempeño de los servicios de arma, económicos 
 
 XV. Coordinar las actividades del personal en instrucción con las de los demás órganos del plantel; y
 
-XVI. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Las que le sean asignadas por la Secretaría de la Defensa Nacional.
 
 ### CAPITULO IV.
 
@@ -387,9 +455,15 @@ I. Tener experiencia docente;
 
 II. Tener experiencia académica.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Tener estudios de posgrado con reconocimiento y validez oficial.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 16.
 
-La Sección Pedagógica de la Escuela Militar de Odontología, tiene las siguientes funciones:
+El Jefe de la Sección Pedagógica de la Escuela Militar de Odontología tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
@@ -405,9 +479,9 @@ VI. Proponer los programas de capacitación y actualización pedagógica del per
 
 VII. Controlar el archivo pedagógico;
 
-VIII. En coordinación con el Cuerpo de Cadetes y Oficiales en Instrucción, planear y supervisar la realización de eventos culturales y sociales en los que participe el personal en instrucción, dentro y fuera del plantel;
+VIII. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
-IX. Controlar y mantener los apoyos didácticos del plantel;
+IX. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
 X. Elaborar la documentación correspondiente, al término de cada ciclo lectivo;
 
@@ -419,7 +493,13 @@ XIII. Coordinar la formulación de los exámenes profesionales y supervisar su a
 
 XIV. Coordinar sus actividades con los demás órganos del plantel; y
 
-XV. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Coordinar, controlar y supervisar el avance programático, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Las que le sean asignadas por la Dirección del plantel.
 
 ### CAPITULO V.
 
@@ -433,9 +513,15 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Tener estudios de posgrado con reconocimiento y validez oficial.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 18.
 
-La Sección Académica de la Escuela Militar de Odontología, tiene las siguientes funciones:
+El Jefe de la Sección Académica de la Escuela Militar de Odontología tiene las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y supervisar la aplicación y desarrollo de los planes y programas de estudios;
 
@@ -443,7 +529,9 @@ II. Proponer las modificaciones necesarias de los planes y programas de estudios
 
 III. Coordinar y supervisar la evaluación del personal docente y en instrucción;
 
-IV. Coordinar, controlar y supervisar el avance programático;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Coordinar, controlar y supervisar el avance programático, en coordinación con la Sección Pedagógica;
 
 V. Supervisar el desarrollo de prácticas y visitas de estudios;
 
@@ -459,23 +547,41 @@ X. Proponer la realización de juntas de coordinación con el personal docente;
 
 XI. Coordinar sus actividades con los demás órganos del plantel; y
 
-XII. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO VI.
+XII. Controlar y mantener los apoyos didácticos del plantel, y
 
-De la Sección de Investigación y Difusión.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Las que le sean asignadas por la Dirección del plantel.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO VI.. De la Sección de Investigación, Difusión y Doctrina Militar
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 19.
 
-La Sección de Investigación y Difusión de la Escuela Militar de Odontología, es un órgano para la investigación y desarrollo de la ciencia, tecnología y humanística en el área estomatológica, a cargo de un Teniente Coronel o Mayor Cirujano Dentista Militar, egresado del propio plantel, a quien se denomina Jefe de la Sección de Investigación y Difusión; mismo que además, debe reunir cualquiera de los siguientes requisitos:
+La Sección de Investigación, Difusión y Doctrina Militar de la Escuela Militar de Odontología es un órgano para la investigación y desarrollo de la ciencia, tecnología y humanística en el área estomatológica, a cargo de un Teniente Coronel o Mayor Cirujano Dentista Militar, egresado del propio plantel, a quien se denomina Jefe de la Sección de Investigación, Difusión y Doctrina Militar; mismo que además debe reunir cualquier de los requisitos siguientes:
 
 I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Tener estudios de posgrado con reconocimiento y validez oficial, o
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Tener experiencia en el área de investigación.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 20.
 
-La Sección de Investigación y Difusión de la Escuela Militar de Odontología, tiene las siguientes funciones:
+El Jefe de la Sección de Investigación, Difusión y Doctrina Militar de la Escuela Militar de Odontología tiene las atribuciones y responsabilidades siguientes:
 
 I. Proponer áreas para la investigación;
 
@@ -485,7 +591,9 @@ III. Elaborar anualmente el programa de investigación;
 
 IV. Promover la difusión de los resultados de la investigación;
 
-V. Difundir los avances científicos, tecnológicos y humanísticos en el área de estomatología y de cultura general a través de los medios informativos disponibles;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Difundir los avances científicos, tecnológicos y humanísticos en el área de estomatología, de cultura general y doctrina militar a través de los medios informativos disponibles;
 
 VI. Planear, coordinar y supervisar los eventos científicos que se desarrollen en el plantel;
 
@@ -493,45 +601,115 @@ VII. Coordinar sus actividades con los demás órganos del plantel; y
 
 VIII. Las que le sean asignadas por la superioridad.
 
-### CAPITULO VII.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-De la Sección de Clínica.
+VIII. En coordinación con el Comandante del Cuerpo de Cadetes y Oficiales en Instrucción, planear y supervisar la realización de eventos culturales y sociales en los que participe el personal en instrucción, dentro y fuera del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Atender asuntos de doctrina militar;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Planear, coordinar y supervisar el funcionamiento del laboratorio multidisciplinario;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Participar en la elaboración y actualización de la bibliografía militar y otros documentos relacionados con el servicio o función en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Proponer innovaciones en relación al adiestramiento y a las actividades logísticas, administrativas, operativas y tácticas considerando aspectos tácticos, reales y objetivos sustentados en la experiencia;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Proponer y hacer recomendaciones con relación a la adquisición de material y equipo para el plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Proponer innovaciones en relación a la organización y funcionamiento del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Proponer medidas y acciones para el desarrollo integral del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Coordinar los aspectos educativos, culturales y doctrinarios del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVII. Participar en la elaboración de perfiles en general;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Planear, coordinar y supervisar los eventos científicos que se desarrollen en el plantel, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Las que le sean asignadas por la Dirección del plantel.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO VII.. De la Sección de Clínica y Laboratorio Dental
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 21.
 
-La Sección de Clínica, es un órgano para el control, supervisión y mantenimiento de las clínicas dentales de la Escuela Militar de Odontología, a cargo de un Teniente Coronel o Mayor Cirujano Dentista Militar, egresado del propio plantel, a quien se denomina Jefe de la Sección de Clínica; mismo que además, debe reunir cualquiera de los siguientes requisitos:
+La Sección de Clínica y Laboratorio Dental es un órgano para el control, supervisión y mantenimiento de las clínicas dentales de la Escuela Militar de Odontología, a cargo de un Teniente Coronel o Mayor Cirujano Dentista Militar, egresado del propio plantel, a quien se denomina Jefe de la Sección de Clínica y Laboratorio Dental, mismo que además debe reunir cualquiera de los requisitos siguientes:
 
 I. Tener experiencia docente;
 
 II. Tener experiencia académica.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Tener estudios de posgrado con reconocimiento y validez oficial.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 22.
 
-La Sección de Clínica de la Escuela Militar de Odontología, tiene las siguientes funciones:
+El Jefe de la Sección de Clínica y Laboratorio Dental de la Escuela Militar de Odontología tiene las atribuciones y responsabilidades siguientes:
 
-I. Administrar los recursos económicos y materiales que se manejan en la Sección de Clínica;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+I. Administrar los recursos económicos y materiales que se manejan en la Sección de Clínica y Laboratorio Dental;
 
 II. Controlar y supervisar el funcionamiento y abastecimiento de almacenes y farmacias pertenecientes a esta Sección;
 
-III. Controlar y coordinar el funcionamiento de los laboratorios;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IV. registrar y controlar la historia clínica de los pacientes;
+III. Colaborar en el proceso enseñanza-aprendizaje, proporcionando áreas clínicas;
 
-V. Coordinar sus actividades con los demás órganos del plantel; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VI. Las que le sean asignadas por la superioridad.
+IV. Controlar, coordinar y supervisar el funcionamiento y mantenimiento de la clínica y laboratorio dental;
 
-### CAPITULO VIII.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-De la Sección Administrativa.
+V. Registro, control y archivo del expediente clínico de los pacientes atendidos por los alumnos, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Las que le sean asignadas por la Dirección del plantel.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO VIII.. De la Ayudantía General
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 23.
 
-La Sección Administrativa de la Escuela Militar de Odontología, está a cargo de un Jefe u Oficial del Servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Ayudantía General de la Escuela Militar de Odontología es el órgano encargado de satisfacer las necesidades de vida interna del plantel, está a cargo de un Teniente Coronel o Mayor de Arma o del Servicio de Sanidad, a quien se denomina Ayudante General.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 24.
 
-La Sección Administrativa de la Escuela Militar de Odontología, tiene las siguientes funciones:
+El Ayudante General de la Escuela Militar de Odontología tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos del personal perteneciente al plantel y mantener completos y actualizados los expedientes del mismo;
 
@@ -541,7 +719,9 @@ III. Elaborar y tramitar la documentación contable del plantel;
 
 IV. Coordinar y supervisar la recepción, clasificación, registro, distribución y archivo de la documentación y correspondencia;
 
-V. Controlar el archivo general;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Desempeñarse como controlador de bienes inmuebles del plantel;
 
 VI. Elaborar el proyecto de presupuesto anual del plantel;
 
@@ -551,19 +731,29 @@ VIII. Elaborar y tramitar las Hojas de Actuación y Memorial de Servicios del pe
 
 IX. Coordinar sus actividades con los demás órganos del plantel; y
 
-X. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO IX.
+X. Supervisar el mantenimiento y reparación de los bienes muebles e inmuebles, y
 
-De la Ayudantía General.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Las que le sean asignadas por la Dirección del plantel.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO IX.. De la Sección Administrativa
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 25.
 
-La Ayudantía General de la Escuela Militar de Odontología, está a cargo de un Teniente Coronel o Mayor de Arma, a quien se denomina Ayudante General.
+La Sección Administrativa de la Escuela Militar de Odontología es el órgano de apoyo administrativo del plantel, a cargo de un jefe u oficial oficinista o del servicio de Sanidad, a quien se denomina Jefe de la Sección Administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 26.
 
-El Ayudante General de la Escuela Militar de Odontología, tiene las siguientes funciones:
+El Jefe de la Sección Administrativa de la Escuela Militar de Odontología tiene las atribuciones y responsabilidades siguientes:
 
 I. Las correspondientes a las de un Ayudante y a las de un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta de la Escuela;
 
@@ -583,7 +773,17 @@ VIII. Coordinar y controlar la aplicación del rol de vacaciones del personal pe
 
 IX. Coordinar sus actividades con los demás órganos del plantel; y
 
-X. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Administrar los recursos económicos de las diferentes partidas presupuestales asignadas a la escuela y las cuotas de recuperación generadas por la Sección de Clínica y Laboratorio Dental;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Desempeñarse como controlador de bienes muebles, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Las que le sean asignadas por la Dirección del plantel.
 
 ### CAPITULO X.
 
@@ -593,13 +793,15 @@ De la Unidad Ejecutora de Pago.
 
 La Unidad Ejecutora de Pago de la Escuela Militar de Odontología, está a cargo de un Jefe u Oficial Pagador, a quien se denomina Jefe de la Unidad Ejecutora de Pago; nombrado por el Alto Mando del Ejército y Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 28.
 
-El Jefe de la Unidad Ejecutora de Pago de la Escuela Militar de Odontología, tiene la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal del plantel, de conformidad con los procedimientos legales aplicables y las disposiciones que al respecto emita la superioridad.
+El Jefe de la Unidad Ejecutora de Pago del plantel tiene la responsabilidad de proporcionar el servicio de pago de haberes, Percepción Recreativa Estudiantil (PRE) y demás percepciones al personal de la misma, de conformidad con las disposiciones legales aplicables y directivas que emita la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 29.
 
-La Unidad Ejecutora de Pago, normará sus actividades de conformidad con los ordenamientos correspondientes.
+(DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
 ### CAPITULO XI.
 
@@ -619,9 +821,13 @@ A. Jefe de la Sección Pedagógica;
 
 B. Jefe de la Sección Académica;
 
-C. Jefe de la Sección de Investigación y Difusión;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-D. Jefe de la Sección de Clínica; y
+C. Jefe de la Sección de Investigación, Difusión y Doctrina Militar;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Jefe de la Sección de Clínica y Laboratorio Dental, y
 
 E. Comandante del Cuerpo de Cadetes y Oficiales en Instrucción; y
 
@@ -631,9 +837,11 @@ III. Secretario; será el vocal de menor jerarquía y antigüedad.
 
 Los vocales de la Junta Técnica-Consultiva serán suplidos en sus ausencias, por un Jefe de Subsección la Sección correspondiente y por el Jefe del Grupo de Comando del Cuerpo de Cadetes y Oficiales en Instrucción.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 32.
 
-Las funciones de la Junta Técnica-Consultiva son:
+Las atribuciones y responsabilidades de la Junta Técnica Consultiva son:
 
 I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
 
@@ -657,21 +865,29 @@ Del Personal Docente y en Instrucción.
 
 Del Personal Docente.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 33.
 
-Es profesor, el personal militar o civil que tiene a su cargo labores de enseñanza, previa acreditación del título profesional o documento que avale el dominio de la o las asignaturas que imparta; pudiendo ser titular o adjunto.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y disposiciones que emita la superioridad; este personal puede ser profesor o instructor.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 34.
 
-Son instructores, los elementos militares o civiles a quienes se encomienda la impartición de conocimientos sobre materias que requieran habilidad o destreza.
+Es profesor el militar o civil que tienen a su cargo, con carácter de titular o de adjunto, labores permanentes de enseñanza o transmisión de conocimientos, previa acreditación del título profesional que acredite el dominio de la o las asignaturas por impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 35.
 
-Los profesores e instructores honorarios, son los que participan en el proceso enseñanza-aprendizaje y no perciben remuneración por este hecho.
+Son instructores los elementos militares a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 36.
 
-El personal docente, tiene la responsabilidad del desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo y del cumplimiento a lo establecido en el presente Reglamento en las partes correspondientes.
+Los profesores e instructores honorarios son los que participan en el proceso enseñanza-aprendizaje y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
 
 ###### ARTICULO 37.
 
@@ -697,9 +913,11 @@ II. El personal procedente de tropa del Ejército y de la Fuerza Aérea y los ci
 
 Los militares y civiles de nacionalidad extranjera que ingresen al plantel, lo harán en calidad de becarios y se regirán durante su estancia en él, por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables y en el presente Reglamento; no estarán sujetos al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulándose su situación disciplinaria, en cada caso, como lo determine la Secretaría de la Defensa Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 41.
 
-El personal en instrucción tendrá las siguientes obligaciones:
+El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables que emita la superioridad, tiene las atribuciones y responsabilidades siguientes:
 
 I. Asistir a las actividades que le señalen las distribuciones de tiempo respectivas;
 
@@ -707,7 +925,9 @@ II. Acatar las disposiciones académicas establecidas;
 
 III. Participar en las actividades ordenadas por la superioridad; y
 
-IV. Desempeñar los servicios y comisiones inherentes a la situación que guarda en el plantel.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Desempeñar servicios y comisiones inherentes a su jerarquía.
 
 ## TITULO SEXTO.
 
@@ -775,9 +995,13 @@ La evaluación académica, tiene por objeto verificar el nivel de aprovechamient
 
 Los docentes, evalúan al personal en instrucción en las siguientes formas:
 
-I. Apreciación de los conocimientos y aptitudes adquiridos, mediante su participación en clases y desempeño en los ejercicios y trabajos prácticos; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. Aplicación de diversos exámenes.
+I. Apreciación de los conocimientos, aptitudes adquiridas y actividades mediante su participación en clases y desempeño en los ejercicios y procedimientos prácticos, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Aplicación de diversos exámenes de acuerdo a las directivas de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ###### ARTICULO 52.
 
@@ -789,15 +1013,21 @@ Para comprobar el grado de aprovechamiento en una o varias partes del programa d
 
 II. Final Ordinario:
 
-Al término del semestre correspondiente y cubre la totalidad del programa de una asignatura;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Al término del semestre correspondiente y cubre la totalidad del programa de una asignatura y lo presentan los alumnos que tengan promedio aprobatorio en sus exámenes parciales y cubran los requisitos prácticos y clínicos.
 
 III. Extraordinario:
 
-El que se aplica al personal en instrucción que haya reprobado un examen final ordinario o tres exámenes parciales de una misma asignatura en un semestre;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Es aquel que se aplica al personal en instrucción, cuya calificación final de la asignatura sea menor de seis puntos, calculado de acuerdo a lo establecido en el artículo 56, de este Reglamento.
 
 IV. Profesional:
 
-El que sustenta el personal en instrucción después de haber cubierto el contenido de los programas de estudio de la carrera y haber elaborado una tesis o su equivalente. Tiene por objeto evaluar el aprendizaje de los alumnos y una vez aprobado sirve para hacerse acreedor al Título Profesional; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Es aquel que sustenta el personal en instrucción después de acreditar el contenido de los programas de estudio de la carrera mediante la aplicación de un examen general de conocimientos escrito, haber elaborado y aprobado un trabajo de investigación; lo anterior da derecho a obtener el título de Cirujano Dentista Militar.
 
 V. Especial:
 
@@ -815,13 +1045,17 @@ III. Prácticos; y
 
 IV. Una combinación de los anteriores.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 54.
 
-Para calificar todos los exámenes excepto el profesional, se utilizará la escala numérica de CERO a CIEN puntos, sin incluir decimales.
+Para calificar todos los exámenes excepto el profesional, se utiliza la escala numérica de cero a diez puntos incluyendo decimales.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 55.
 
-La calificación mínima aprobatoria será de SESENTA puntos.
+La calificación mínima aprobatoria es de seis puntos.
 
 ###### ARTICULO 56.
 
@@ -857,7 +1091,9 @@ I. Elaborar una tesis con alta calidad académica y originalidad;
 
 II. No haber presentado exámenes extraordinarios durante la carrera; y
 
-III. Tener un promedio general mínimo de 85 puntos durante la carrera.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Tener un promedio general mínimo de 8.5 puntos durante la carrera.
 
 ### CAPITULO V.
 
@@ -927,7 +1163,9 @@ VIII. Por acumular 500 puntos de demérito durante el ciclo lectivo, previa dete
 
 IX. Por inutilidad, de acuerdo con las tablas anexas de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
-X. Por violar las cláusulas establecidas en el Contrato Filiación;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Por infringir cualquiera de las cláusulas establecidas en el compromiso filiación;
 
 XI. Por existir irregularidades en la documentación presentada al ingresar al plantel;
 
@@ -937,21 +1175,39 @@ XIII. Por solicitud del interesado; aceptada por la superioridad; y
 
 XIV. Para el personal Becario extranjero, faltar injustificadamente a sus labores académicas durante tres días consecutivos.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Adquirir otra nacionalidad, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+
 ###### ARTICULO 68.
 
 El personal en instrucción que cause baja del plantel, quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 69.
 
-El personal en instrucción que cause baja del plantel en el primer año lectivo, no podrá reingresar a la Escuela.
+El personal en instrucción que cause baja del plantel en el primer y segundo año de la carrera, no podrá reingresar a la escuela.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 69 Bis.
+
+Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales, contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular; transcurrido este plazo sin haberse hecho representaciones o reclamaciones respectivas se tendrá por conforme con el resultado, perdiéndose todo derecho para presentar reclamación posterior.
 
 ### CAPITULO III.
 
 De los Reingresos.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 70.
 
-Reingreso, es el acto mediante el cual el personal en Instrucción que habiendo causado baja del plantel antes de terminar sus estudios, es admitido nuevamente para continuarlos.
+Para efectos del presente Reglamento se considera como reingreso, el acto mediante el cual el personal en instrucción que habiendo causado baja de la Escuela Militar de Odontología antes de terminar sus estudios es admitido nuevamente para continuarlos.
 
 ###### ARTICULO 71.
 
@@ -963,25 +1219,35 @@ II. Por motivos de salud; o
 
 III. Por haberse encontrado sujeto a proceso en el Fuero de Guerra, en el Orden Común o Federal y haya resultado absuelto.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 72.
 
-El personal en instrucción que cause baja por los motivos citados en el artículo anterior, del 2/o. año lectivo, 3/er. semestre, en adelante, será puesto a disposición de la Secretaría de la Defensa Nacional, para que sea destinado a prestar sus servicios donde ésta lo determine y por el tiempo necesario para regresar al siguiente período de exámenes extraordinarios del semestre que cursaba.
+El personal en instrucción que cause baja por los motivos citados en el artículo anterior, del 3er. año en adelante, será puesto a disposición de la Secretaría de la Defensa Nacional, para que sea destinado a prestar sus servicios donde ésta lo determine con el grado que ostente o como clase auxiliar del servicio de Sanidad y por el tiempo necesario para regresar al siguiente periodo de exámenes extraordinarios al principio o final, según corresponda del semestre que cursaba.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 73.
 
-El personal en instrucción que se sitúe en lo establecido en el artículo 67 fracciones III, IV, ó V del presente Reglamento, podrá reingresar por una sola vez al inicio del siguiente semestre correspondiente, siempre y cuando apruebe las asignaturas que originaron su baja temporal del plantel, a través del Examen Especial respectivo.
+El personal en instrucción que se sitúe en lo establecido en el artículo 67 fracción IV, del presente Reglamento podrá reingresar por una sola vez al inicio del siguiente semestre correspondiente, siempre y cuando apruebe las asignaturas que originaron su baja temporal del plantel, a través del examen especial respectivo; asimismo, el personal en instrucción que se sitúe en lo establecido en la fracción V, del mismo ordenamiento se presentará al siguiente periodo de exámenes profesionales para presentar su examen especial correspondiente.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 74.
 
-El personal en instrucción que se sitúe en lo establecido en el artículo 7 fracciones II ó VII del presente Reglamento, podrá reingresar a la Escuela por una sola vez al inicio del semestre que cursaba, en el siguiente ciclo lectivo.
+El personal en instrucción que se sitúe en lo establecido en el artículo 67 fracciones II, III y VII, del presente Reglamento podrá reingresar a la escuela por una sola vez al inicio del semestre que cursaba, en el siguiente ciclo lectivo a fin de repetir dicho semestre.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 75.
 
-El personal en instrucción que haya causado baja del plantel por motivos de salud o por haberse encontrado sujeto a proceso en el Fuero de Guerra, en el Orden Común o Federal y haya resultado absuelto, podrá reingresar por una sola vez al inicio del semestre que cursaba, en el siguiente ciclo lectivo.
+El personal en instrucción que haya causado baja del plantel por motivos de salud o por haberse encontrado sujeto a proceso en el Fuero de Guerra, en el orden Común o Federal y haya resultado absuelto, podrá reingresar por una sola vez al inicio del semestre que cursaba, en el siguiente ciclo lectivo sin presentar examen especial.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 76.
 
-El personal en instrucción que repruebe un Examen Especial, no podrá reingresar al plantel.
+El personal en instrucción que repruebe un examen especial, haya sido dado de baja por infringir alguna de las cláusulas establecidas en el compromiso filiación, no podrá reingresar al plantel.
 
 ## TITULO NOVENO.
 
@@ -1001,6 +1267,10 @@ II. Certificado de estudios; y
 
 III. Patente correspondiente.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Placa distintiva de la escuela.
+
 ###### ARTICULO 78.
 
 El personal extranjero becario, que termine satisfactoriamente la carrera de Cirujano Dentista Militar en el plantel recibirá:
@@ -1011,9 +1281,11 @@ II. Certificado de estudios; y
 
 III. Placa distintiva de la escuela.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 79.
 
-El personal en instrucción que no concluya satisfactoriamente sus estudios, se le expedirá a solicitud del interesado, Certificado Parcial de Estudios, previa aprobación de la Universidad del Ejército y Fuerza Aérea.
+El personal en instrucción que no concluya satisfactoriamente sus estudios, se le expedirá a solicitud del interesado, certificado parcial de estudios, previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO II.
 
@@ -1027,17 +1299,23 @@ I. Primer premio: a quien acumule exclusivamente el primer lugar por mayor prome
 
 II. Segundo premio: a quienes hayan acumulado primeros, segundos y terceros lugares al término de cada uno de los años escolares durante la carrera o curso, según corresponda;
 
-Estos premios sólo serán otorgados siempre que los promedios obtenidos no sean menores de 85 puntos.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-III. Figurar en el Cuadro de Honor en el período de evaluación siguiente a aquel en que haya obtenido un promedio de 80 puntos o más.
+Estos premios sólo serán otorgados siempre que los promedios obtenidos no sean menores de 8.5 puntos.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Figurar en el cuadro de honor en el periodo siguiente a la evaluación, en que haya obtenido un promedio de 8.5 puntos o más;
 
 IV. El personal en instrucción que obtenga los tres promedios más altos en cada año escolar recibirá: Diploma de primero, de segundo o de tercer lugar según corresponda; y
 
-V. Otros que autorice la Secretaría de la Defensa Nacional.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Exento de realizar el examen final ordinario, al personal en instrucción que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber presentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general.
 
 ###### ARTICULO 81.
 
-El personal en instrucción del plantel que termine satisfactoriamente la carrera, además de lo establecido en este Reglamento recibirá: Placa Distintiva de la Escuela.
+(DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
 ## TITULO DECIMO.
 
@@ -1047,41 +1325,59 @@ Disposiciones Complementarias.
 
 De la Disciplina.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 82.
 
-Los arrestos que se impongan al personal en instrucción de procedencia militar, serán graduados por el Director del plantel conforme a lo establecido en la Legislación Militar; y se cumplirán a partir del momento en que se le comunique dicho correctivo disciplinario.
+Los arrestos que se impongan al personal en instrucción en calidad de externo serán graduados por el Director del plantel conforme a lo establecido en la legislación militar y se cumplirán a partir del momento en que se le comunique dicho correctivo disciplinario.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 83.
 
-El Director de la Escuela Militar de Odontología podrá arrestar hasta por quince días al personal de Cadetes en el interior del plantel.
+El Director de la Escuela Militar de Odontología puede graduar los arrestos que se impongan al personal de cadetes hasta por 300 puntos de demérito en el interior del plantel.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 84.
 
-El personal en instrucción citado en el artículo anterior, cumplirá su arresto los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine la Dirección del plantel.
+El personal en instrucción en calidad de interno cumplirá su arresto los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine la Dirección del plantel.
 
 ###### ARTICULO 85.
 
 La graduación de arrestos impuestos al personal en instrucción del plantel, se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta; el hecho de acumular 500 (Quinientos) durante el ciclo lectivo, será motivo de baja del plantel, siempre y cuando determine mala conducta el Consejo de Honor.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 86.
 
-Los arrestos impuestos al personal en instrucción, se computarán con 20 puntos de demérito por cada veinticuatro horas.
+Los arrestos impuestos al personal de oficiales en instrucción se computarán con 20 puntos de demérito por cada veinticuatro horas.
 
 ###### ARTICULO 87.
 
 Los cadetes cumplirán su arresto en las semanas laborables de la siguientes manera:
 
-I. A partir de la hora de franquicia del sábado hasta las 2400 horas del mismo, 10 puntos de demérito;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. A partir de la hora de franquicia del sábado hasta las 1200 horas del domingo, 20 puntos de demérito;
+I. A partir de la hora de franquicia del sábado hasta las 0800 horas del domingo, 20 puntos de demérito;
 
-III. Sin disfrutar la franquicia del sábado y domingo, 30 puntos de demérito; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IV. Los arrestos graduados con más de 72 horas, más de 60 puntos, se cumplirán alternando dos fines de semana continuos de reclusión, por uno de franquicia.
+II. De las 0800 horas del domingo hasta la hora que termine la franquicia, 20 puntos de demérito;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Sin disfrutar la franquicia del sábado y domingo, 40 puntos de demérito, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Los arrestos graduados con más de 80 puntos de demérito, se cumplirán alternando dos fines de semana continuos de reclusión por uno de franquicia.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 88.
 
-Los arrestos en días inhábiles correspondientes a semanas no laborables, se cumplirán ininterrumpidamente conforme al cómputo establecido.
+El personal de cadetes en calidad de interno cumplirá su arresto ininterrumpidamente conforme al cómputo establecido, en días inhábiles correspondientes a semanas no laborables.
 
 ###### ARTICULO 89.
 
@@ -1134,3 +1430,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan el decreto por el que se crea la Escuela Militar de Odontología, de fecha 2 de junio de 1976, publicado en el Diario Oficial de la Federación de 27 de julio del mismo año y todas las demás disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
