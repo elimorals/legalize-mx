@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "1972-04-24"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
 
@@ -226,7 +226,9 @@ El Director General será nombrado por la Asamblea General, a proposición del P
 
 El Director General tendrá las siguientes atribuciones y funciones:
 
-I.- Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme a la Ley, en los términos de los tres primeros párrafos del Artículo 2554 del Código Civil para el Distrito y Territorios Federales. Estas facultades las ejercerá en la forma en que acuerde el Consejo de Administración.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+I.- Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme a la ley, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil para el Distrito Federal. Estas facultades las ejercerá en la forma en que acuerde el Consejo de Administración.
 
 El Director General podrá otorgar y revocar poderes generales o especiales; pero cuando sean en favor de personas ajenas al Instituto, deberá recabar previamente el acuerdo del Consejo de Administración;
 
@@ -486,9 +488,11 @@ El incumplimiento de los patrones para enterar puntualmente las aportaciones y l
 
 Comete delito equiparable al de defraudación fiscal en los términos del Código Fiscal de la Federación, y será sancionado con las penas señaladas para dicho ilícito, quien haga uso de engaño, aproveche error, simule algún acto jurídico u oculte datos, para omitir total o parcialmente el pago de las aportaciones o el entero de los descuentos realizados.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 58.
 
-Se reputará como fraude y se sancionará como tal, en los términos del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, el obtener los créditos o recibir los depósitos a que esta Ley se refiere, sin tener derecho a ello, mediante engaño, simulación o substitución de persona.
+Se reputará como fraude y se sancionará como tal, en los términos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, el obtener los créditos o recibir los depósitos a que esta ley se refiere, sin tener derecho a ello, mediante engaño, simulación o sustitución de persona.
 
 ###### ARTICULO 59.
 
@@ -567,3 +571,11 @@ La primera Asamblea General del Instituto deberá instalarse dentro de los 15 d�
 México, D. F., a 21 de Abril de 1972.- "Año de Juárez".- Renato Vega Alvarado, D. P.- Vicente Fuentes Díaz, S. P.- Ignacio F. Herrerías, D. S.- Juan Sabines Gutiérrez, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintidós días del mes de abril de mil novecientos setenta y dos.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Rafael Hernández Ochoa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
