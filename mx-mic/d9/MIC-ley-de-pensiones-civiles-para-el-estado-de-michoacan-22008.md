@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-pensiones-civiles-para-el-estado-de-michoacan-22008"
 country: "mx"
 rank: "ley"
 publication_date: "1980-05-08"
-last_updated: "1983-01-31"
+last_updated: "1986-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 1986.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 8 de mayo de 1980.
 
@@ -77,7 +77,9 @@ d) Arrendamientos o compra de casas o terrenos propiedad de la Dirección de Pen
 
 e) Jubilación;
 
-f) Pensión por vejez o inhabilitación física o mental;
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+
+f) Pensión por vejez, inhabilitación física o mental; y muerte, en sus modalidades de viudez, concubinato, orfandad y ascendencia;
 
 g) Servicio de protección médica y social a través del Seguro Social, I.S.S.S.T.E. e instituciones similares;
 
@@ -89,7 +91,9 @@ j) Cuota de ayuda a los familiares del servidor público, jubilado o pensionado,
 
 k) Devolución de los descuentos hechos para integrar el fondo económico de la Dirección de Pensiones, cuando los servidores públicos se separen del servicio y renuncien a los beneficios del sistema;
 
-l) Entrega del fondo de pensiones, a la muerte del servidor público, a sus beneficiarios;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+
+l) Entrega del fondo de pensiones, a la muerte del servidor público activo, a sus beneficiarios; en caso de que éstos no tengan derecho a pensión por causa de muerte, de acuerdo con esta Ley y al Reglamento que para el efecto elabore la Junta Directiva;
 
 m) Descuentos especiales en los establecimientos comerciales de la Dirección de Pensiones; y,
 
@@ -329,9 +333,17 @@ II.- Mediante garantía del total de dichas aportaciones;
 
 III.- Hasta el importe de seis meses del sueldo básico del solicitante, si sus aportaciones son iguales o mayores al monto del préstamo;
 
-IV.- Cuando el préstamo sobrepase el monto de las aportaciones, el excedente se garantizará en forma solidaria, con uno o dos contribuyentes al fondo, según el caso; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
 
-V.- El monto del préstamo lo constituirá el capital y los intereses calculados durante el plazo señalado para el pago del mismo.
+IV. Cuando el préstamo sobrepase al monto de las aportaciones, el excedente será garantizado con el importe que, a la fecha de solicitud del préstamo, alcance la indemnización global del servidor público activo que sin tener derecho a jubilación o pensión, se separe definitivamente del servicio en los términos del artículo 70 de esta Ley. En caso de ser insuficiente, la diferencia se garantizará en forma solidaria, con el aval de uno o dos servidores públicos contribuyentes al fondo;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+
+V. Los jubilados o pensionados tendrán derecho a préstamos personales a corto plazo, hasta por el importe de cuatro meses de la jubilación o pensión que les corresponda; y
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+
+VI. El monto del préstamo lo constituirá el capital y los intereses correspondientes al plazo señalado para el pago del mismo.
 
 ###### ARTICULO 32.
 
@@ -359,23 +371,27 @@ No se concederá nuevo préstamo mientras permanezca insoluto el anterior. Solam
 
 Los servidores públicos contribuyentes al fondo que tengan más de un año continuo de servicio, tendrán derecho a obtener préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 38.
 
-Los préstamos se destinarán a los siguientes fines:
+Los préstamos hipotecarios se destinarán, en orden de prioridad, a los siguientes fines:
 
-a) Adquisición de terrenos en los que deberá construirse la habitación del servidor público;
+I.- Adquisición o construcción de casas habitación para el servidor público, cuando no tenga alguna otra en propiedad;
 
-b) Adquisición o construcción de casa que habite el servidor público;
+II.- Mejoras, reparación o ampliación de la casa habitación del servidor público. La Junta determinará, mediante acuerdo general, los criterios a utilizar para establecer el límite máximo del monto de los créditos que se otorguen para ese efecto;
 
-c) Reparación o ampliación de las mismas; y
+III.- Redención de gravámenes que soporten los inmuebles a que se refiere este artículo; y
 
-d) Redención de gravámenes que soporten tales inmuebles.
+IV.- Adquisición de terreno en el que deberá construirse la habitación del servidor público, cuando carezca de ésta en propiedad.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 39.
 
-La Dirección de Pensiones otorgará préstamos hipotecarios en los términos de esta Ley, atendiendo a su capacidad económica y dando preferencia a los créditos de menor cuantía. Los préstamos serán hasta por quinientos mil pesos, cuando el interesado requiera de una cantidad mayor deberá presentar una distinta solicitud a la Junta, la que acordará lo procedente.
+El otorgamiento de préstamos hipotecarios en los términos de esta Ley, lo autorizará la Junta previo análisis y se efectuará de conformidad con el programa-presupuesto anual de la Dirección, atendiendo a su disponibilidad de recursos y dando preferencia a los créditos de menor cuantía.
+
+El Monto de los préstamos hipotecarios no podrá exceder del importe equivalente a 1000 días de salario mínimo general para la capital del Estado.
 
 ###### ARTICULO 40.
 
@@ -549,6 +565,12 @@ Al servidor público que se inhabilite física o mentalmente por causas ajenas a
 
 El derecho al pago de la pensión comienza a partir de la fecha en que el servidor público cause baja motivada por la inhabilitación.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 59 Bis.
+
+Ningún pago mensual por jubilación será inferior al salario mínimo general vigente en la capital del Estado. Tanto las jubilaciones como las pensiones se verán incrementadas en la fecha y proporción en que aumente el salario mínimo general vigente en la misma plaza.
+
 ###### ARTICULO 60.
 
 No se concederá la pensión por invalidez:
@@ -568,6 +590,12 @@ Los servidores públicos que soliciten pensión por invalidez, y los pensionados
 La pensión por invalidez será revocada cuando el servidor público recupere su capacidad para el trabajo; en tal caso el Gobierno del Estado, organismo público descentralizado o municipio al que hubiere prestado sus servicios, tendrá la obligación de restituirlo en su empleo si de nuevo es apto para el mismo o, en caso contrario, asignarle un trabajo que pueda desempeñar, debiendo ser cuando menos de un sueldo y categoría equivalente a los que disfrutaba al acontecer la invalidez. Si el servidor público no aceptare reingresar al servicio en tales condiciones o bien estuviera desempeñando cualquier trabajo remunerado, le será revocada la pensión.
 
 Si el servidor público no fuere restituido a su empleo o no se le asignare otro en los términos del párrafo anterior por causa imputable al Gobierno del Estado, organismo público descentralizado o municipio al que hubiera prestado sus servicios, seguirá percibiendo la pensión, pero ésta será a cargo de la institución correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 62 Bis.
+
+Cuando el servidor público, jubilado o pensionado falleciere, los familiares derechohabientes gozarán de una pensión en los términos del Reglamento que para el efecto expida la Junta Directiva. Lo anterior será procedente sólo en los casos en que tal prestación no esté incluida en la seguridad social que se otorga a través de la institución respectiva con que hubieren convenido las entidades públicas o la Dirección.
 
 ###### ARTICULO 63.
 
@@ -599,11 +627,13 @@ El servicio de protección médica y social se prestará en los términos de los
 
 Los servidores públicos gozarán de un seguro de vida, cuyo fondo se integrará con las aportaciones de éstos y de las entidades públicas, el que se regirá conforme al reglamento que apruebe la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 68.
 
-Cuando fallezca un servidor público, pensionado o jubilado, la Dirección de Pensiones entregará a sus deudos o a las personas que se hubiesen hecho cargo de la inhumación el importe de cuatro meses de sueldo o pensión que venía devengando, por concepto de gastos de funeral, sin más trámites que la presentación del certificado de defunción y la constancia de los gastos del sepelio. Esta prestación será cubierta íntegra y oportunamente a la Dirección por las entidades públicas correspondientes.
+Cuando fallezca un servidor público, pensionista o jubilado, la Dirección de Pensiones entregará a sus deudos o a quien se hubiere hecho cargo de la inhumación el importe de cuatro meses de sueldo o pensión que venía devengando, por concepto de ayuda para gastos de funeral, sin más trámites que la presentación del certificado de defunción. Si no tuviere parientes o quien se encarguen de la inhumación, lo hará el Sindicato respectivo o la Dirección, en su caso.
 
-Si no tuviere parientes o personas que se encarguen de la inhumación, lo hará el sindicato respectivo o la Dirección, en su caso.
+Esta prestación será cubierta íntegra y oportunamente a la Dirección por las entidades públicas correspondientes.
 
 ###### ARTICULO 69.
 
@@ -714,3 +744,13 @@ Firmado.
 P.O. 31 DE ENERO DE 1983.
 
 UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
