@@ -4,7 +4,7 @@ identifier: "COA-ley-del-impuesto-sobre-la-produccion-y-transformacion-de-9001"
 country: "mx"
 rank: "ley"
 publication_date: "1969-02-22"
-last_updated: "1969-02-22"
+last_updated: "1971-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL IMPUESTO SOBRE LA PRODUCCION Y TRANSFORMACION DE ALCOHOL Y DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1971.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 22 de febrero de 1969.
 
@@ -39,9 +39,13 @@ Número: 175.-
 
 LEY DEL IMPUESTO SOBRE LA PRODUCCION Y TRANSFORMACION DE ALCOHOL Y DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE COAHUILA.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 1o.
 
-Es objeto de este Impuesto la Producción y la Transformación de Alcohol y de Bebidas Alcohólicas en el Estado de Coahuila.
+Es objeto de este impuesto la producción y la transformación de alcohol y de bebidas alcohólicas en el Estado de Coahuila.
+
+Queda exceptuada del pago de este impuesto la producción y la transformación de cerveza. Para los efectos de esta Ley se considera cerveza la bebida que reúna las características establecidas en el Artículo 2 de la Ley Federal del Impuesto Sobre Producción y Consumo de Cerveza.
 
 ###### ARTICULO 2o.
 
@@ -194,3 +198,9 @@ BRAULIO FERNANDEZ AGUIRRE.- Rúbrica.
 EL SRIO. DEL EJECUTIVO DEL ESTADO.
 
 LIC. JOSE RAMIREZ MIJARES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 1971.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
