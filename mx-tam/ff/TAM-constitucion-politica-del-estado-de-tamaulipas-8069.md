@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1988-06-22"
+last_updated: "1989-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1989.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -54,6 +54,10 @@ El territorio del Estado comprende la antigua Provincia llamada Nuevo Santander,
 ###### Art. 3o.
 
 El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios. Las leyes secundarias respectivas determinarán la extensión de cada Distrito y la organización del Municipio conforme a las bases que la Constitución General establece.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 1989)</small>
+
+Los Municipios del Estado son los siguientes: Abasolo, Aldama, Altamira, Antiguo Morelos, Burgos, Bustamante, Camargo, Casas, Ciudad Madero, Cruillas, El Mante, Gómez Farías, González, Güémez, Guerrero, Gustavo Díaz Ordaz, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Matamoros, Méndez, Mier, Miguel Alemán, Miquihuana, Nuevo Laredo, Nuevo Morelos, Ocampo, Padilla, Palmillas, Reynosa, Río Bravo, San Carlos, San Fernando, San Nicolás, Soto la Marina, Tampico, Tula, Valle Hermoso, Victoria, Villagrán y Xicoténcatl.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -249,39 +253,55 @@ El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judici
 
 Los Poderes del Estado residirán en Ciudad Victoria.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
 
 ###### Art. 24.
 
-La residencia de los Poderes únicamente podrá cambiarse por resolución del Congreso, aprobada por doce de sus miembros.
+La residencia de los Poderes únicamente podrá cambiarse por resolución del Congreso aprobada por lo menos por las dos terceras partes de sus miembros.
 
 ## TITULO IV. DEL PODER LEGISLATIVO
 
 ### CAPITULO I. De la organización del Congreso
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
+
 ###### Art. 25.
 
-El ejercicio de las funciones propias del Poder Legislativo, se encomienda a una asamblea que se denominará: "Congreso del Estado libre y soberano de Tamaulipas."
+El ejercicio de las funciones propias del Poder Legislativo se encomienda a una Asamblea que se denominará "Congreso del Estado Libre y Soberano de Tamaulipas". Los Diputados al Congreso serán electos en su totalidad cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1983)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
 
 ###### Art. 26.
 
-El Congreso se integrará por 15 Diputados electos según el principio de votación mayoritaria relativa, de cada uno de los Distritos Electorales uninominales existentes y hasta con 5 Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos votados en la circunscripción plurinominal que constituye la entidad. Por cada Diputado Propietario se elegirá un Suplente.
+El Congreso del Estado se integrará por diecinueve Diputados electos según el principio de votación Mayoritaria Relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta con siete Diputados que serán electos según el principio de Representación Proporcional y el sistema de listas estatales, votadas en la circunscripción plurinominal que constituye la Entidad.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
 
 ###### Art. 27.
 
-La elección de diputados de representación proporcional se efectuará de acuerdo con lo que prevé esta Constitución y su Ley Reglamentaria, bajo el sistema de listas de candidatos que presentarán los partidos, debiendo observar las siguientes reglas:
+La elección de los siete Diputados según el principio de Representación Proporcional y el sistema de listas estatales, se sujetará a las siguientes bases generales y a lo que en particular disponga la Ley:
 
-I.- Podrán postular candidatos por medio de listas todos los partidos políticos con derecho a participar en las elecciones del Estado, siempre que hayan registrado candidatos por lo menos en la tercera parte de los distritos electorales uninominales.
+I.- Para el registro de las listas de candidatos a Diputados que serán electos por el principio de Representación Proporcional, los Partidos Políticos deberán acreditar que previamente han registrado candidatos a Diputados que serán electos por el principio de Mayoría Relativa, por lo menos, en las dos terceras partes de los Distritos Electorales Uninominales;
 
-II.- Los partidos tendrán derecho a que se les asignen diputados de representación proporcional, si obtuvieran, como mínimo, uno y medio por ciento del total de la votación emitida en los distritos electorales uninominales y si además no obtuvieran tres o más diputaciones de elección de mayoría relativa.
+II.- Para que un Partido Político tenga derecho a participar en la asignación de Diputados electos por el principio de Representación Proporcional mediante el sistema de listas estatales, es preciso que obtenga, por lo menos, el 1.5% del total de la votación emitida en el Estado para dicha elección;
 
-III.- La asignación de los diputados de representación proporcional se hará con base en la proporción de votos obtenidos en los distritos electorales del Estado. En todo caso, se respetará el orden que guarden los candidatos en las listas registradas por los partidos conforme a la Ley de la materia.
+III.- Las normas para la asignación de curules de representación Proporcional son las siguientes:
 
-IV.- En caso de que los partidos con derecho a diputados de representación proporcional obtuviesen en conjunto el triunfo de tres o más distritos electorales uninominales, sólo se les asignará tres diputaciones de representación proporcional.
+1a.- Todos los Partidos que hayan obtenido por lo menos el 1.5% de la votación total emitida, tendrán derecho a participar en la asignación de Diputados de representación Proporcional;
+
+2a.- Para ello, se hará la declaratoria de aquellos Partidos que hayan obtenido el 1.5% de la votación estatal, que constituye el porcentaje mínimo y consecuentemente tengan derecho a la asignación de un Diputado de representación Proporcional cada uno;
+
+3a.- Para distribuir las Diputaciones que quedaren, se utilizarán los elementos de la fórmula electoral, que son los siguientes:
+
+a).- Cociente electoral; y
+
+b).- Resto mayor.
+
+El cociente electoral se calcula dividiendo el total de votos obtenidos por los Partidos Políticos con derecho a participar en la asignación de curules de representación Proporcional, deducidos los votos del 1.5% entre el número de curules pendientes de repartir; y
+
+Resto mayor es el remanente de votos, deducidos los utilizados en la asignación de curules por los anteriores elementos de la fórmula electoral; y
+
+4a.- A cada uno de los Partidos que hayan obtenido más del porcentaje mínimo de la votación estatal, se les asignará una Diputación adicional, si sus votos deducidos los que representan el 1.5% de la votación estatal, son iguales o mayores que el cociente electoral. Si aún quedaran curules por repartir, se distribuirán utilizando los restos mayores.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -315,9 +335,9 @@ IV.- Poseer suficiente instrucción.
 
 No pueden ser electos Diputados:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1989)</small>
 
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Procurador General de Justicia, los Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio, los Magistrados, Jueces y Empleados de la Federación en el Estado, a menos que se separen 90 días antes de la elección.
+I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Procurador General de Justicia, el Magistrado del Tribunal Fiscal del Estado, los Diputados y Senadores al Congreso de la Unión, los Magistrados, Jueces y Servidores Públicos de la Federación en el Estado, a menos que se separen noventa días antes de la elección.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -325,13 +345,21 @@ II.- Los militares que hayan estado en servicio dentro de los 90 días anteriore
 
 III.- (DEROGADA, P.O. 5 DE JULIO DE 1986)
 
-IV.- Los ministros de cualquier culto, estén o no en ejercicio.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1989)</small>
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1983)</small>
+IV.- Los miembros Propietarios de los Ayuntamientos, así como los Suplentes que hayan estado en ejercicio, por lo que se refiere a los Servidores Públicos del Estado y Municipios y los Jueces en su circunscripción, estarán también impedidos si no se separan de su cargo dentro de los tres meses anteriores a la elección.
 
-V.- Los miembros propietarios de los Ayuntamientos así como los suplentes que hayan estado en ejercicio; por lo que se refiere a empleados del Estado y municipios y los jueces en circunscripción, estarán también impedidos si no se separan de su cargo dentro de los tres meses anteriores a la elección.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1989)</small>
 
-VI.- Los Diputados Propietarios al Congreso Local y los Suplentes que hayan estado en ejercicio, si no ha pasado un período.
+V.- Los Diputados Propietarios al Congreso local y los Suplentes que hayan estado en ejercicio para el período inmediato.
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1989)</small>
+
+VI.- Los miembros de la Comisión Estatal Electoral, de los Comités Distritales y de los Comités Municipales Electorales, a menos que se separen de su cargo noventa días antes de la elección.
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 1989)</small>
+
+VII.- Los que estén procesados por delito doloso. El impedimento surte efectos desde el momento en que se notifique el auto de formal prisión. Tratándose de Servidores Públicos que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 30], P.O. 9 DE SEPTIEMBRE DE 1978)
 
@@ -351,9 +379,11 @@ Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio 
 
 Los Diputados Propietarios desde el día de su elección y los Suplentes cuando estén ejerciendo sus funciones, sólo podrán ser procesados por la Comisión de Delitos, previa declaración de procedencia del Congreso, en los términos del Artículo 152 de esta Constitución.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
+
 ###### Art. 34.
 
-En estos casos y en el de muerte o imposibilidad calificada de los Diputados propietarios, concurrirán los suplentes respectivos.
+En los casos del Artículo anterior y en el de muerte o imposibilidad calificada de los Diputados Propietarios, concurrirán los Suplentes respectivos. Tratándose de Diputados de Representación Proporcional, si el Suplente no pudiere concurrir, la vacante se cubrirá con el Diputado Propietario del mismo Partido que siga en la lista estatal respectiva.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -387,13 +417,11 @@ Los Diputados que no concurran a una sesión sin causa justificada, no tendrán 
 
 ### CAPITULO II. De la instalación y labores del Congreso
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1960)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
 
 ###### Art. 40.
 
-Los Diputados al Congreso del Estado, que se elegirán el primer domingo de diciembre de 1960, durarán dos años en su Ejercicio Constitucional.
-
-En lo sucesivo el Congreso de Estado se renovará en su totalidad, cada tres años.
+El Congreso se reunirá para celebrar sus sesiones en la forma y términos que le señala esta Constitución y la Ley Orgánica del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -645,7 +673,7 @@ L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Suprem
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+LI.- Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
 LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
@@ -829,11 +857,11 @@ Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o
 
 ### CAPITULO I. Del Ejecutivo
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1962)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
 
 ###### Art. 77.
 
-El Poder Ejecutivo se deposita en un funcionario que se denominará "Gobernador Constitucional del Estado Libe y Soberano de Tamaulipas", siendo su elección directa cada seis años, el primer domingo de Diciembre en los términos que señale la Ley Electoral.
+El Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas", siendo su elección directa cada seis años, en los términos que señala la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
 
@@ -1017,9 +1045,9 @@ XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reun
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O.1 DE ABRIL DE 1989)</small>
 
-XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración pública cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre ésta en Sesión Pública Extraordinaria del Congreso, que se verificará el último domingo del mes de enero de cada año. El informe correspondiente al año de 1987 deberá rendirlo el 14 de diciembre de 1986.
+XXXIII.- Concurrir a la apertura de los Períodos de Sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre ésta en Sesión Pública Extraordinaria del Congreso, que se verificará el último domingo del mes de octubre de cada año.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -1409,31 +1437,45 @@ Una ley reglamentará la organización de la Defensoría de Oficio y los requisi
 
 Las funciones políticas y administrativas de carácter municipal, serán desempeñadas por los Ayuntamientos y las Judiciales por los Jueces Menores.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1983)</small>
+> <small>(REFORMADO, P.O.1 DE ABRIL DE 1989)</small>
 
 ###### Art. 131.
 
-En cada municipalidad habrá un Ayuntamiento de elección popular directa, el cual tendrá su residencia en la cabecera de la misma. En el Estado de Tamaulipas las mujeres participarán en las mismas condiciones que los varones para votar y ser votadas en los cargos de elección popular en los municipios.
+En cada Municipalidad habrá un Ayuntamiento de elección popular directa, el cual tendrá su residencia en la cabecera de la misma. En el Estado de Tamaulipas, las mujeres participarán en las mismas condiciones que los varones para votar y ser votadas en los cargos de elección popular de los Municipios.
 
-En todos los Municipios sus Ayuntamientos se complementarán con Regidores de Representación Proporcional, conforme a las siguientes bases:
+Los Ayuntamientos se integrarán conforme a las bases siguientes:
 
-a).- En los municipios cuya población no exceda de 200,000 habitantes, con un Regidor de Representación Proporcional.
+I.- En los Municipios cuya población sea hasta de treinta mil habitantes, el Ayuntamiento se integrará con un Presidente Municipal, cuatro Regidores y un Síndico;
 
-b).- En aquellos cuya población exceda del número anterior pero no de 300,000 habitantes, con dos Regidores de Representación Proporcional; y
+II.- En los Municipios con población hasta de cincuenta mil habitantes, el Ayuntamiento se integrará por un Presidente Municipal, cinco Regidores y dos Síndicos;
 
-c).- En los de población superior a 300,000 habitantes, hasta con tres Regidores de Representación Proporcional.
+III.- En los Municipios cuya población sea hasta de cien mil habitantes, el Ayuntamiento se integrará con un Presidente Municipal, ocho Regidores y dos Síndicos;
 
-Los Partidos Políticos con derecho a participar en la Entidad que no hubiesen logrado la mayoría en la elección municipal correspondiente, podrán acreditar Regidores en relación a los votos recibidos, siempre que hayan obtenido cuando menos el 10% de la votación sufragada en favor del Partido que haya obtenido la elección por mayoría en el Municipio de que se trate, pero en ningún caso se asignará a un solo Partido más de dos de estos Regidores. La asignación de Regidores de Representación Proporcional atenderá al orden en que los candidatos a Regidores hayan sido postulados por sus respectivos Partidos y a los demás requisitos que disponga la Ley Reglamentaria.
+IV.- En los Municipios con población hasta de doscientos mil habitantes, el Ayuntamiento se integrara por un Presidente Municipal, doce Regidores y dos Síndicos; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 1987)</small>
+V.- En los Municipios cuya población sea mayor de doscientos mil habitantes, el Ayuntamiento será integrado por un Presidente Municipal, catorce Regidores y dos Síndicos.
+
+En todos los Municipios sus Ayuntamientos se complementarán con Regidores de Representación Proporcional;
+
+a).- En los Municipios cuya población no exceda de doscientos mil habitantes, con un Regidor de Representación Proporcional;
+
+b).- En aquellos cuya población exceda del número anterior pero no de trescientos mil habitantes, con dos Regidores de Representación Proporcional; y
+
+c).- En los de población superior a trescientos mil habitantes, hasta con tres Regidores de representación Proporcional.
+
+Los Partidos Políticos con derecho de participar en la Entidad que no hubiesen logrado la mayoría en la elección Municipal correspondiente, podrán acreditar Regidores en relación a los votos recibidos, siempre que hayan obtenido cuando menos el 10% de la votación sufragada en favor del Partido que haya triunfado en la elección por mayoría en el Municipio de que se trate, pero en ninguna caso se asignará a un solo Partido más de dos de estos Regidores. La asignación de Regidores de Representación Proporcional atenderá al orden en que los candidatos a Regidores hayan sido postulados por sus respectivos Partidos y a los demás requisitos que disponga la Ley reglamentaria.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O.1 DE ABRIL DE 1989)</small>
 
 ###### Art. 132.
 
-La Organización Política y Administrativa de los Municipios, las facultades y obligaciones de los Ayuntamientos, su composición y sus relaciones con los Poderes del Estado y otras Dependencias y Entidades de la Administración Pública, se determinarán en un Código Municipal, que deberá sujetarse a las siguientes bases:
+La Organización Política y Administrativa de los Municipios, las facultades y obligaciones de los Ayuntamientos, sus relaciones con los Poderes del Estado y otras Dependencias y Entidades de la Administración Pública, se determinarán en el Código Municipal, que deberá sujetarse a las bases siguientes:
 
 I.- Los Ayuntamientos se renovarán totalmente cada tres años.
 
-II.- Los Ayuntamientos se compondrán de aun número de miembros proporcional al de habitantes de la Municipalidad, pero nunca será menor de cinco.
+> <small>(REFORMADA, P.O.1 DE ABRIL DE 1989)</small>
+
+II.- Los Ayuntamientos se compondrán de un número de miembros proporcional al de habitantes de la Municipalidad, pero nunca será menor de seis;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1539,9 +1581,11 @@ Los Ayuntamientos no podrán gravar e (sic) tránsito o salida de mercancías.
 
 Los Municipios arreglarán entre sí por convenios amistosos, las dificultades que se susciten por cuestión de límites; pero dichos convenios no surtirán sus efectos hasta que el Congreso los apruebe.
 
+> <small>(REFORMADO, P.O.1 DE ABRIL DE 1989)</small>
+
 ###### Art. 137.
 
-Una ley organizará la Administración Municipal, fijando el número de Regidores y Síndicos Procuradores que deban componer un Ayuntamiento y demás cuestiones relativas.
+El Código Municipal organizará la administración de los Municipios conforme a lo dispuesto en esta Constitución.
 
 ## TITULO X. SECCION DE ADMINISTRACION GENERAL
 
@@ -1765,11 +1809,11 @@ En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, ser
 
 ### CAPITULO I. De las reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
 
 ###### Art. 165.
 
-Esta Constitución podrá ser reformada y adicionada, pero para que las adiciones y reformas lleguen a ser parte de la misma se requiere que previamente sea tomada en cuenta la Iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por doce de los miembros del Congreso.
+Esta Constitución podrá ser reformada y adicionada, pero para que las adiciones y reformas lleguen a ser parte de la misma, se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por las dos terceras partes de los miembros del Congreso.
 
 ### CAPITULO II. De la Inviolabilidad de la Constitución
 
@@ -2326,3 +2370,9 @@ P.O. 22 DE JUNIO DE 1988.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial del Estado.
+
+P.O.1 DE ABRIL DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
