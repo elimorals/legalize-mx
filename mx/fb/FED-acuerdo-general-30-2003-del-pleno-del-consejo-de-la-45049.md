@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2003-del-pleno-del-consejo-de-la-45049"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-12"
-last_updated: "2003-11-14"
+last_updated: "2004-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45049&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-06-09"
 
 ACUERDO GENERAL 30/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA ESTE ORGANO DEL PODER JUDICIAL DE LA FEDERACION, LOS TRIBUNALES DE CIRCUITO Y LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL REGLAMENTO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL PARA LA APLICACION DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL, PUBLICADO EN EL D.O.F. DEL 2 DE ABRIL DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, CON EXCEPCION DE LOS ORGANOS SEÑALADOS EN DICHO ACUERDO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 12 de junio de 2003.
 
@@ -530,3 +532,15 @@ D.O.F. 14 DE NOVIEMBRE DE 2003.
 PRIMERO.- Publíquese el presente Acuerdo General, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 SEGUNDO.- El presente Acuerdo General, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2004.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Reglamento en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Los órganos establecidos en los Acuerdos Generales 9/2003, del Pleno de la Suprema Corte de Justicia de la Nación, emitido el veintisiete de mayo de dos mil tres y 30/2003, del Consejo de la Judicatura Federal, aprobado el nueve de junio de dos mil tres, continuarán funcionando con las atribuciones que les fueron conferidas en esas disposiciones generales, en tanto se expiden los Acuerdos Generales a que se refiere el presente Reglamento.
+
+CUARTO. Con la salvedad establecida en el artículo transitorio que antecede, se derogan los Acuerdos Generales 9/2003, del Pleno de la Suprema Corte de Justicia de la Nación, emitido el veintisiete de mayo de dos mil tres y 30/2003, del Consejo de la Judicatura Federal, aprobado el nueve de junio de dos mil tres, así como las demás disposiciones derivadas de esos Acuerdos.
+
+QUINTO. La consulta física de los expedientes relativos a los asuntos jurisdiccionales o administrativos, que antes del doce de junio de dos mil tres habían concluido y se encontraban bajo resguardo de la Suprema Corte, del Consejo o de los Organos Jurisdiccionales se permitirá sin mayores restricciones que las necesarias para su conservación.
