@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-10749"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-07"
-last_updated: "1998-05-26"
+last_updated: "2000-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DEL 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 7 de octubre de 1994.
 
@@ -347,6 +347,10 @@ III.- Cumplir con los requisitos y normas que marca la Ley Estatal de Salud;
 
 IV.- No vender ni suministrar bebidas alcohólicas a menores de edad, militares, policías o elementos de seguridad uniformados ni a personas que porten armas de cualquier tipo o se encuentren en evidente estado de embriaguez;
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2000)</small>
+
+Al efecto, deberán tener en lugar visible del establecimiento, un aviso al público que indique que la venta o suministro de bebidas alcohólicas a menores de dieciocho años de edad, es un delito sancionado por el Código Penal del Estado, con pena privativa de libertad;
+
 V.- Tratándose de los establecimientos señalados en las fracciones III, IV, V, VI y VII del artículo 7º de esta ley, no permitir la entrada ni tener como empleados a menores de edad;
 
 VI.- No permitir el ejercicio de la prostitución en ninguno de los establecimientos en que se expendan bebidas alcohólicas;
@@ -556,3 +560,9 @@ P.O. 26 DE MAYO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría General de Gobierno, a través de la Dirección de Gobernación, deberá notificar dentro de los diez días siguientes a la publicación del presente, a los titulares de las licencias y autorizaciones para la venta de bebidas alcohólicas, la obligación que deriva de este Decreto.
