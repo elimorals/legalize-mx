@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1998-10-19"
+last_updated: "1999-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -1449,11 +1449,17 @@ V.- De los productos derivados de la explotación de los recursos naturales prop
 
 VI.- De las participaciones que se le asignen de acuerdo a las leyes federales y estatales en los impuestos y demás gravámenes de la Federación y del Estado;
 
-VII.- De las utilidades de los organismos descentralizados de carácter municipal o empresas con participación estatal o intermunicipal;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+VII.- De las contribuciones que perciban por la aplicación de la Ley de Hacienda de los Municipios del Estado de Campeche, las que decrete la Legislatura y las que señalen otras disposiciones;
 
 VIII.- De las tasas adicionales que, en su caso, fijen el Congreso de la Unión y la Legislatura local; y
 
-IX.- De los capitales y créditos a favor del Municipio, así como las donaciones, herencias y legados que reciba.
+IX.- De los capitales y créditos a favor del Municipio, así como las donaciones, herencias y legados que reciba;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+X.- De los Fondos de Aportaciones Federales.
 
 ###### ARTICULO 99.
 
@@ -1775,11 +1781,11 @@ Toda persona física o moral puede comparecer ante las autoridades municipales, 
 
 ### CAPITULO I. De la Administración de las Finanzas Municipales
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 133.
 
-La administración de las finanzas municipales se regirá por la Constitución General de la República, la Constitución Local del Estado, la Ley de Ingresos de cada Municipio, su Presupuesto de Egresos, la Ley de Hacienda Municipal, esta Ley y las demás disposiciones jurídicas aplicables.
+La administración de las finanzas municipales se regirá por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Campeche, la Ley de Ingresos de cada Municipio, su Presupuesto de Egresos, la Ley de Hacienda de los Municipios del Estado de Campeche, esta Ley y las demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 134.
 
@@ -1794,6 +1800,10 @@ III.- Productos;
 IV.- Aprovechamientos;
 
 V.- Participaciones.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+VI.- Fondos de Aportaciones Federales.
 
 ###### ARTICULO 135.
 
@@ -1817,9 +1827,11 @@ Todos los pagos que se efectúen a cargo de las finanzas municipales deberán es
 
 El Ayuntamiento aprobará las cuentas mensuales de la Tesorería Municipal y la cuenta anual será remitida al Congreso del Estado, para su aprobación definitiva. Tanto el Ayuntamiento como el Congreso podrán ordenar auditorías en cualquier tiempo.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 138.
 
-Los sistemas contables y de control serán establecidos por cada Ayuntamiento de acuerdo con sus posibilidades; al efecto, contarán con la asesoría de la Secretaría de Finanzas y se ajustarán al Manual de Organización y Procedimientos que esta última Dependencia mantendrá actualizado.
+Los sistemas contables y de control serán establecidos por cada Ayuntamiento de acuerdo con sus posibilidades; al efecto, contarán con la asesoría de la Secretaría de Finanzas y Administración y se ajustarán al Manual de Organización y Procedimientos que esta última Dependencia mantendrá actualizado.
 
 ### CAPITULO II. De la Administración y Desarrollo de Personal
 
@@ -2734,3 +2746,9 @@ P.O. 19 DE OCTUBRE DE 1998.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE JUNIO DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
