@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1932-03-10"
+last_updated: "1933-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MARZO DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 1933.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -247,6 +247,16 @@ La funciones que, en cuanto a la autorización de la emisión de billetes por re
 Por esta sola vez, la Secretaría de Hacienda y Crédito Público ordenará la acuñación de monedas de plata de un peso del cuño legal, en la cantidad que sea estrictamente indispensable, a juicio del Consejo de Administración del Banco de México, para corregir la actual insuficiencia de signos de cambio. El producto líquido total de esta acuñación será enterado al Banco de México para que lo conserve y aplique al aumento de las reservas legales de la emisión de billetes y a la formación de la Reserva Monetaria en los mismos términos que previene el artículo segundo de esta ley para los fondos procedentes de las acuñaciones que el Banco de México llegue a ordenar.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 1933)</small>
+
+###### ARTICULO CUARTO.
+
+Por esta sola vez, la Secretaría de Hacienda y Crédito Público ordenará la acuñación de monedas de bronce de cinco centavos y de un centavo, en la cantidad que sea estrictamente indispensable, a juicio del Consejo de Administración del Banco de México, S. A., para corregir la actual insuficiencia de signos de cambio de las especies que se señalan; sin que deba aplicarse, para los efectos de este artículo, lo dispuesto en los párrafos segundo y tercero del artículo 13, reformado, de la Ley de 25 de julio de 1931.
+
+D.O.F. 23 DE FEBRERO DE 1933.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO 3°.
 
