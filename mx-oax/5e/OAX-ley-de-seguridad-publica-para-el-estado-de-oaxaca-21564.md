@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-seguridad-publica-para-el-estado-de-oaxaca-21564"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-20"
-last_updated: "2001-04-20"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 20 de abril de 2001.
 
@@ -137,7 +137,9 @@ III. El Procurador General de Justicia del Estado, cuando preste coordinadamente
 
 IV. El Secretario de Protección Ciudadana;
 
-V. El Secretario de Transporte, cuando preste coordinadamente el servicio de seguridad pública, en su respectivo ámbito de competencia;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+V. El Coordinador General del Transporte, cuando preste coordinadamente el servicio de seguridad pública, en su respectivo ámbito de competencia;
 
 VI. El Director General de Seguridad Pública en el Estado;
 
@@ -153,7 +155,9 @@ XI. El Director de Tránsito del Estado, cuando preste coordinadamente el servic
 
 XII. El Presidente del Consejo de Tutela para Menores Infractores, respecto de los cuerpos de seguridad encargados de la custodia del centro de internamiento.
 
-El mando operativo de los Cuerpos de Seguridad Pública del Estado, corresponde inicialmente al Secretario de Protección Ciudadana y específicamente al Director General de Seguridad Pública y a los respectivos Directores de cada corporación policial, Subdirectores, Comandantes, Jefes u Oficiales que señale el reglamento, cualquiera que sea su denominación, excepto el caso de la Policía Ministerial y los elementos de Tránsito del Estado, los cuales corresponden al Procurador General de Justicia y al Secretario de Transporte, respectivamente.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+El mando operativo de los Cuerpos de Seguridad Pública del Estado, corresponde inicialmente al Secretario de Protección Ciudadana y específicamente al Director General de Seguridad Pública y a los respectivos Directores de cada corporación policial, Subdirectores, Comandantes, Jefes u Oficiales que señale el reglamento, cualquiera que sea su denominación, excepto el caso de la Policía Ministerial y los elementos de Tránsito del Estado, los cuales corresponden al Procurador General de Justicia y al Coordinador General del Transporte, respectivamente.
 
 De conformidad con lo establecido en la Ley General que Establece las Bases para la Coordinación del Sistema Nacional de Seguridad Pública, actuarán como instancias de coordinación en sus respectivos ámbitos de competencia, los Consejos Estatal y Municipales de Seguridad Pública que se instalen, así como los respectivos Comités de Participación Ciudadana.
 
@@ -449,7 +453,9 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario de Protección Ciudadana;
 
-III. El Secretario de Transporte;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+III. El Coordinador General del Transporte;
 
 IV. El Procurador General de Justicia del Estado;
 
@@ -663,7 +669,7 @@ V. No tener antecedentes penales, ni estar sujeto a proceso penal por delito dol
 
 VI. Contar con la edad y con el perfil físico, médico, ético y de personalidad necesarias para realizar las actividades policiales;
 
-VII. Abstenerse de hacer uso ilícito de sustancias psicotropicas, estupefacientes u otras que produzcan efectos similares, ni padecer de alcoholismo y someterse a los exámenes periódicos que se determinen, para comprobar el no uso de estos tipos de sustancias;
+VII. Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer de alcoholismo y someterse a los exámenes periódicos que se determinen, para comprobar el no uso de estos tipos de sustancias;
 
 VIII. Cumplir con los deberes, obligaciones y atribuciones que establezca la presente ley o los ordenamientos aplicables.
 
@@ -967,7 +973,9 @@ I. Un Presidente, que será designado por el Titular de la dependencia correspon
 
 II. Un Secretario, que será designado por el Presidente del Consejo de Honor y Justicia, quien deberá contar con el título de Licenciado en Derecho;
 
-III. Un Comisario, que deberá ser un representante de la Contraloría General del Poder Ejecutivo, designado por el titular de dicha dependencia; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+III. Un Comisario, que deberá ser un representante de la Secretaría de la Contraloría del Poder Ejecutivo, designado por el titular de dicha dependencia; y
 
 IV. Dos Vocales, quienes deberán ser elegidos entre los elementos policiales por ellos mismos, con reconocida honorabilidad y probidad. Estos Vocales duraran en su cargo dos años y no serán reelectos.
 
@@ -1420,3 +1428,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
