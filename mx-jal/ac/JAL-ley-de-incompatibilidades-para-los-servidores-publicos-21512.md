@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-incompatibilidades-para-los-servidores-publicos-21512"
 country: "mx"
 rank: "ley"
 publication_date: "1980-01-03"
-last_updated: "2000-05-04"
+last_updated: "2000-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PUBLICOS REGLAMENTARIA DEL ARTICULO 112 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 3 de enero de 1980.
 
@@ -43,11 +43,11 @@ Ley de Incompatibilidades para los Servidores Públicos Reglamentaria del Artíc
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2000)</small>
 
 ###### Artículo 1.
 
-° La presente Ley es de interés público y sus normas de observancia general, por lo tano (sic), aplicable a todos los Servidores Públicos a que se contrae el primer párrafo del Art. 47 de la Constitución Política del estado de Jalisco.
+La presente ley es de interés público y sus normas de observancia general, por lo tanto, aplicable a todos los servidores públicos a que se contrae el primer párrafo del artículo 92 de la Constitución Política del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
@@ -67,11 +67,11 @@ Cuando algún servidor público sea llamado a desempeñar otro puesto también e
 
 ° Serán nulos y carecerán de eficacia legal, los acuerdos, nombramientos, designaciones y comisiones que contravengan la presente Ley.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2000)</small>
 
 ###### Artículo 4.
 
-° Hay incompatibilidad, cuando un Servidor Público desempeña distintos cargos públicos remunerados, conforme a lo dispuesto por los Arts. 60 y 62 de la Constitución Política del estado de Jalisco.
+Hay incompatibilidad, cuando un servidor público desempeña distintos cargos públicos remunerados, conforme a lo dispuesto por los artículos 109 y 112 de la Constitución Política del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
@@ -306,5 +306,9 @@ P.O. 17 DE ABRIL DE 1990.
 Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
 P.O. 4 DE MAYO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE JULIO DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
