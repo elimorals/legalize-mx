@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-tribunal-de-lo-contencioso-administrativo-del-7704"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "1991-08-08"
+last_updated: "2003-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 08 DE AGOSTO DE 1991.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERETARO, PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE SEPTIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 26 de diciembre de 1985
 
@@ -706,3 +708,31 @@ Se derogan todas las disposiciones que se opongan a esta ley.
 ###### ARTICULO SEGUNDO.
 
 Esta ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+P.O. 29 DE SEPTIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Los bienes muebles con que cuenta actualmente el Tribunal Contencioso-Administrativo en el Estado, pasarán a formar parte de su patrimonio, los que se desincorporarán del Poder Ejecutivo del Estado, a través de la Oficialía Mayor de Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Tanto el remanente no ejercido de la partida presupuestal del Tribunal de lo Contencioso-Administrativo para el ejercicio fiscal 2003, como la suficiencia contemplada en el artículo Séptimo Transitorio del Decreto de Presupuesto de Egresos del Estado, serán utilizados para el funcionamiento de la Sala Unitaria del Tribunal, así como para la instalación de los Juzgados de lo Contencioso-Administrativo en los distritos judiciales de Querétaro y San Juan del Río.
+
+###### ARTÍCULO CUARTO.
+
+Por única vez, la elección de los Jueces de lo Contencioso-Administrativo, se realizará dentro de los treinta días siguientes a la entrada en vigor de la presente Ley.
+
+Para tal efecto, el Magistrado Propietario formulará propuesta de cuatro candidatos para ocupar el cargo, misma que será resuelta por la Comisión Especial que integrará un representante de la Barra Queretana Colegio de Abogados, A.C., un representante del Colegio de Abogados Litigantes de Querétaro, A.C., un representante del Consejo de Notarios del Estado de Querétaro y un profesor designado por el Director de la Facultad de Derecho de la Universidad Autónoma de Querétaro, que imparta la materia de Derecho Administrativo. De entre los integrantes de la comisión se designará un Presidente por el método de insaculación, quien contará con voto de calidad.
+
+###### ARTÍCULO QUINTO.
+
+Los expedientes que actualmente se encuentran en trámite y pendientes de que sea dictada la resolución definitiva, serán turnados a los Jueces de lo Contencioso Administrativo, tomando en cuenta para ello el lugar de procedencia de los asuntos y la competencia jurisdiccional que por razón de territorio corresponda a cada uno, excepto aquellos en que ya fue desahogada la etapa de pruebas y alegatos y sólo queda pendiente el dictado de la resolución.
+
+###### ARTÍCULO SEXTO.
+
+La presente ley abroga la Ley del Tribunal de lo Contencioso Administrativo de fecha 23 de diciembre de 1985.
