@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1976-10-28"
+last_updated: "1977-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1977.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -2499,15 +2499,17 @@ ART. 722.- Sólo puede constituirse el patrimonio de la familia con bienes sitos
 
 ART. 723.- Cada familia sólo puede constituir un patrimonio. Los que constituyen subsistiendo el primero no producirán efecto legal alguno.
 
-ART. 724.- El valor máximo de los bienes afectos al patrimonio de la familia será de:
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1977)</small>
 
-I.- Quince mil pesos para lo Municipios de: Durango, Gómez Palacio y Lerdo.
+ART. 724.- El valor máximo de los bienes inembargables afectos al Patrimonio de la Familia será de:
 
-II.- Diez mil pesos para los Municipios de: Guadalupe Victoria, Canatlán, Santiago Papasquiaro, Vicente Guerrero y Nombre de Dios.
+I.- Treinta mil pesos para los Municipios de: Durango, Gómez Palacios y Lerdo.
 
-III.- Cinco mil pesos para los demás Municipios del Estado.
+II.- Veinte Mil pesos para los Municipios de: Guadalupe Victoria, Canatlán, Santiago Papasquiaro, Vicente Guerrero y Nombre de Dios.
 
-Para justificar los valores anteriormente citados, se atenderá a los fiscales registrados.
+III.- Diez mil pesos para los demás Municipios del Estado.
+
+Para justificar los valores anteriormente citados, se atenderá a los Fiscales registrados.
 
 ART. 725.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público, los bienes que van a quedar afectos.
 
@@ -7687,7 +7689,7 @@ ART. 2479.- El mandante puede eixgir (sic) la devolución del instrumento o escr
 
 El mandante que descuide exigir los documentos que acrediten los poderes, del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 
-ART. 3480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
+ART. 3480.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
 
 ART. 2481.- Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar en la administración, entre tanto los herederos proveen por sí mismos a los negocios, siempre que de lo contrario pueda resultar algún perjuicio.
 
@@ -9262,3 +9264,7 @@ UNICO.- El presente decreto surtirá sus efectos tres días después de su publi
 P.O. 28 DE OCTUBRE DE 1976.
 
 UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 1977.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
