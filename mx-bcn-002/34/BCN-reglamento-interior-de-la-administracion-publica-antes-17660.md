@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-03-26"
+last_updated: "2004-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2004.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -2163,6 +2163,8 @@ XIII.- Administrar el fondo para gastos menores.
 
 ### CAPITULO SEGUNDO. DE LA SUBDIRECCION DE CONTRALORIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 123.
 
 El Ayuntamiento podrá determinar la creación de organismos descentralizados, o empresas de participación municipal, los cuales contarán con personalidad jurídica y patrimonio propio. Asimismo podrá disponer la creación de fideicomisos, afectando a un fin específico un haber patrimonial.
@@ -2247,17 +2249,55 @@ f) Verificar que se remitan oportunamente al Congreso del Estado, las cuentas p�
 
 La Sindicatura Municipal para el cumplimiento de sus atribuciones contará con una coordinación administrativa, y tendrá bajo su cargo las siguientes subdirecciones:
 
-I.- Contraloría; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
 
-II.- Jurídica.
+I.- Contraloría;
 
-### CAPITULO UNICO. DE LA DIRECCION DE PLANEACION URBANA
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+II.- Jurídica; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
+
+III.- Fiscalización.
+
+### CAPITULO CUARTO. DE LA SUBDIRECCION DE FISCALIZACION
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2004)</small>
+
+ARTICULO 129 BIS.- La Subdirección de Fiscalización tendrá las siguientes atribuciones:
+
+l.- Ejercer las atribuciones que se establecen a cargo de la Sindicatura en el artículo 124 del presente reglamento, en sus fracciones I, II, III, IV, V, VI, VII, XV, XVI y XVII inciso a, b, y f;
+
+II.- Elaborar los programas sobre los que se dirigirán las revisiones financieras, administrativas y operacionales a las dependencias y entidades;
+
+III.- Asesorar para la correcta aplicación y debido cumplimiento de la normatividad vigente en materia de ejercicio del gasto público, por parte de las dependencias y entidades;
+
+IV.- Inspeccionar físicamente las obras públicas que lleven a cabo las dependencias y entidades, para comprobar si las inversiones y gastos autorizados, se han aplicado eficientemente al logro de los objetivos y metas de los programas y subprogramas aprobados;
+
+V.- Practicar auditorias a las obras públicas que lleven a cabo las diferentes dependencias y organismos ejecutoras de obra;
+
+VI.- Intervenir en todas las etapas del proceso de licitación de la obra pública, con la finalidad de verificar el debido cumplimiento de la normatividad aplicable;
+
+VII.- Asesorar y validar la elaboración de las actas de entrega-recepción y documentación complementaria, cuando tengan lugar cambios de funcionarios; y
+
+VIII.- Participar en el acto protocolario de firmas de actas de entrega-recepción.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2004)</small>
+
+ARTICULO 129 TER.- La Subdirección de Fiscalización para un mejor desempeño de sus atribuciones, contará con tres departamentos que son:
+
+I.- Técnico, el que tendrá las atribuciones previstas en el artículo 124 fracción XVI y 129 Bis fracciones IV y V.
+
+II.- Revisiones Programáticas, el que tendrá las atribuciones previstas en el artículo 124 fracciones IV, V, VII y XVIII inciso f) 129 Bis fracción VIII.
+
+III.- Revisiones Financieras, el que tendrá las atribuciones previstas en el artículo 124 fracciones I, II, III, IV, XV Y XVIII incisos a) y b) artículo 129 Bis fracción VII.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 126.
 
-La Subdirección de Contraloría se encargará de vigilar el desempeño y actuación de los servidores públicos de la Administración Pública Municipal, así como revisar y verificar que las dependencias y entidades, administren y apliquen los recursos que les sean asignados, con eficiencia, eficacia y honradez, al logro de las metas y objetivos establecidos en sus programas, y en cumplimiento de la normatividad aplicable y encargándose de:
+La Subdirección de Contraloría se encargará de vigilar el desempeño y actuación de los Servidores Públicos de la Administración Pública Municipal, así como revisar y verificar que las dependencias y entidades, administren y apliquen los recursos que les sean asignados, con eficacia, eficiencia, y honradez, al logro de las metas y objetivos establecidos en sus programas, y en cumplimiento de la normatividad aplicable y encargándose de:
 
 I.-.- (sic) Recibir quejas y denuncias de ciudadanos y autoridades sobre el desempeño de los servidores públicos de la Administración Pública Municipal, pudiendo actuar a petición de parte o de oficio, cuando éstos hayan incumplido con cualquiera de las obligaciones que les impone la Ley de Responsabilidades de los Servidores Públicos del Estado, y los reglamentos municipales que regulen el actuar de dichos servidores públicos;
 
@@ -2281,31 +2321,35 @@ X.- Autorizar al personal a su cargo a levantar y firmar actas administrativas, 
 
 XI.- Autorizar a los supervisores a su cargo a levantar y firmar las actas administrativas con motivo de sus funciones como lo prevé el presente reglamento y demás disposiciones de ley;
 
-XII.- Ejercer las atribuciones que se establecen a cargo de la Sindicatura en el artículo 124 del presente Reglamento en sus fracciones I, II, III, IV, V, VI, VII, y XVIII incisos a, b, y f;
+XII.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
 
-XIII.- Elaborar los programas sobre los que se dirigirán las revisiones financieras, administrativas y operacionales a las dependencias y entidades;
+XIII.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
 
-XIV.- Asesorar para la correcta aplicación y el debido cumplimiento de la normatividad vigente en materia de ejercicio del gasto público, por parte de las dependencias y entidades;
+XIV.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
 
-XV.- Inspeccionar físicamente las obras públicas que lleven a cabo las dependencias y entidades, para comprobar si las inversiones y gastos autorizados, se han aplicado eficientemente al logro de los objetivos y metas de los programas y subprogramas aprobados;
+XV.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
 
-XVI.- Practicar auditorias a las obras públicas que lleven a cabo las diferentes dependencias y organismos ejecutores de obra;
+XVI.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
 
-XVII.- Intervenir en todas las etapas del proceso de licitación de la obra pública, con la finalidad de verificar el debido cumplimiento de la normatividad aplicable;
+XVII.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
 
-XVIII.- Asesorar y validar la elaboración de las actas de entrega-recepción y documentación complementaria, cuando tengan lugar cambios de funcionarios; y,
+XVIII.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
 
-XIX.- Participar en el acto protocolario de firmas de actas de entrega-recepción.
+XIX.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
 
 ###### ARTICULO 127.
 
 La Subdirección de Contraloría para un mejor desempeño de sus atribuciones contara con dos departamentos que son:
 
-I.- Responsabilidades, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones I a la XI;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
 
-II.- Fiscalización, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones XII a la XIX.
+I.- Responsabilidades.
 
-### CAPITULO UNICO. DE LA DIRECCION DE ADMINISTRACION URBANA
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
+
+II.- Supervisión.
+
+### CAPITULO UNICO. DE LA DIRECCION DE PLANEACION URBANA
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
@@ -2337,7 +2381,11 @@ I.- De Atención Jurídica, el que tendrá las atribuciones previstas en el art�
 
 II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones de la VI a la VIII.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE ABRIL DE 2004)</small>
+
+### CAPITULO UNICO. DE LA DIRECCION DE ADMINISTRACION URBANA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO QUINTO. DE LA DIRECCION DE PLANEACION URBANA
 
@@ -2579,7 +2627,7 @@ Síndico Procurador.
 
 Regidores:
 
-Antonio Ramírez Ortíz
+Antonio Ramírez Ortiz
 
 María Griselda Romero Villanueva
 
@@ -2626,3 +2674,7 @@ ARTICULO TRANSITORIO UNICO: Las presentes reformas entrarán en vigor al día si
 P.O. 26 DE MARZO DE 2004.
 
 ÚNICO.- LA PRESENTE MODIFICACIÓN ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA."
+
+P.O. 9 DE ABRIL DE 2004.
+
+ÚNICO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN, EN EL PERIÓDICO OFICIAL DEL ESTADO.
