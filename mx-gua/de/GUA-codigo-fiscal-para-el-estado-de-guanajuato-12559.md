@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-12559"
 country: "mx"
 rank: "codigo"
 publication_date: "1978-12-31"
-last_updated: "1984-12-28"
+last_updated: "1986-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1986.
 
 Código publicado en la Segunda Parte Anexo del Periódico Oficial del Estado de Guanajuato, el domingo 31 de diciembre de 1978.
 
@@ -153,7 +153,7 @@ Son participaciones las cantidades que el Gobierno del Estado tiene derecho a pe
 
 #### SECCION PRIMERA. Autoridades Fiscales del Estado
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 19.
 
@@ -161,23 +161,27 @@ Son Autoridades Fiscales del Estado, para los efectos de este Código y demás d
 
 I.- El Gobernador del Estado;
 
-II.- El Secretario de Finanzas;
+II.- El Secretario de Administración Financiera;
 
-III.- El Sub-Secretario de Finanzas;
+III.- El Director General de Ingresos;
 
-IV.- El Director General de Ingresos;
+IV.- El Director General de Fiscalización;
 
 V.- El Director General de Egresos;
 
-VI.- El Director de Servicios Jurídicos;
+VI.- El Director de Administración Fiscal;
 
-VII.- El Director de Impuestos a la Propiedad Raíz;
+VII.- El Director de Catastro e Impuesto a la Propiedad Raíz;
 
-VIII.- El Director de Impuestos Coordinados e Impuestos y Derechos Estatales;
+VIII.- El Director de Recaudación y Oficinas Recaudadoras;
 
-IX.- Los Jefes de las Oficinas Recaudadoras del Estado; y
+IX.- El Director de Auditoría Fiscal;
 
-X.- Los Auditores e Inspectores de la Secretaría de Finanzas.
+X.- El Director de Servicios Jurídicos;
+
+XI.- Los Jefes de las Oficinas Recaudadoras del Estado;
+
+XII.- Los Auditores e Inspectores "de la Secretaría de Administración Financiera.
 
 #### SECCION SEGUNDA. Facultades
 
@@ -1907,6 +1911,12 @@ Son nulos, de pleno derecho, los reglamentos, circulares, acuerdos, convenios, c
 
 A partir de la fecha indicada en el artículo primero se deroga el Código Fiscal del Estado de Guanajuato de 15 de diciembre de 1967, sus adiciones y reformas.
 
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1986
+
+###### ARTICULO SEXTO.
+
+En todos los casos en los que este Código y demás Leyes Fiscales se refieren al Secretario de Finanzas, se entenderá que se refiere al Secretario de Administración Financiera; asimismo, cuando se refieran a la Secretaría de Finanzas, se entenderá que se refieren a la Secretaría de Administración Financiera.
+
 Lo tendrá entendido el Ciudadano Gobernador Constitucional del Estado y dispondrá que se imprima, publique, circule y se le dé el debido cumplimiento.- Guanajuato, Gto., 29 de diciembre de 1978.- Lic. José Luis Vázquez Camarena, D.P.- Lic. Silvestre Bautista López, D.S.- Alfonso Ruíz Ledesma, D.S.".- Rúbricas.
 
 Por lo tanto, mando se imprima, publique, circule, y se le dé el debido cumplimiento.
@@ -2072,3 +2082,9 @@ Este decreto entrará en vigor a partir del día primero de enero de mil novecie
 ###### ARTICULO SEGUNDO.
 
 En todos los casos en los que este Código y demás Leyes Fiscales se refieran al Tesorero General, se entenderá que se refieren al Secretario de Finanzas; asimismo, cuando se refieran a la Tesorería General, se entenderá que se refieren a la Secretaría de Finanzas.
+
+P.O. 26 DE DICIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
