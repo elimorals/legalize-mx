@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1975-05-21"
+last_updated: "1975-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1975.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -5863,6 +5863,8 @@ En todos los casos en que el tutor necesite para algún acto de la licencia del 
 
 De la Adopción.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
+
 ###### Artículo 965.
 
 Será necesario obtener licencia judicial para disponer de los bienes que pertenezcan exclusivamente a menores, incapacitados y ausentes, que correspondan a las clases siguientes:
@@ -5949,11 +5951,11 @@ El que pretenda adoptar a alguna persona deberá acreditar:
 
 I. Que es mayor de treinta años y tiene por lo menos diecisiete años más de edad que la persona que trata de adoptar;
 
-II. Que no tiene descendientes;
+II. Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trate de adoptar.
 
-III. Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trate de adoptar;
+III. Que la adopción es benéfica para la persona que trata de adoptarse.
 
-IV. Que la adopción es benéfica para la persona que trata de adoptarse;
+IV. Que el adoptante es persona de buenas costumbres.
 
 V. Que el adoptante es persona de buenas costumbres.
 
@@ -5963,13 +5965,19 @@ En la promoción inicial deberá manifestarse: el nombre y edad del menor o inca
 
 Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 398 y 399 del Código Civil, el tribunal resolverá dentro del tercer día.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
+
 ###### Artículo 980.
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el Juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo que dispone en el artículo 408 del Código Civil.
+Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el Juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo que dispone el artículo 408 del Código Civil.
 
-Si el adoptante fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
+> <small>(F. DE E. P.O. 15 DE AGOSTO DE 1975)</small>
 
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior, podrán rendirse toda clase de pruebas.
+Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
+
+Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo citado, podrán rendirse toda clase de pruebas.
+
+La petición de que sea revocada la adopción a que se refiere la fracción III del artículo 406 del Código Civil, podrá hacerse en la solicitud o en la demanda da (sic) divorcio de nulidad del matrimonio, o en la contestación a estas demandas, y el Juez resolverá lo procedente al pronunciar el fallo definitivo en el juicio correspondiente. También podrá hacerse la petición de revocación dentro de los sesenta días que sigan a la fecha en que haya causado ejecutoria el fallo que decrete el divorcio o la nulidad del matrimonio.
 
 ###### Artículo 981.
 
@@ -6502,3 +6510,9 @@ P.O. 21 DE MAYO DE 1975.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE AGOSTO DE 1975.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
