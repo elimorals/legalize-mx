@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2004-11-05"
+last_updated: "2004-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2004.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -173,8 +173,6 @@ Pierde el derecho de ciudadano del Estado el que deje de ser ciudadano mexicano.
 
 ### CAPITULO QUINTO. DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
-
 ###### ARTICULO 8º.
 
 Son ciudadanos chiapanecos:
@@ -197,19 +195,19 @@ III.- Tomar las armas para la defensa de la Federación, del Estado y de sus Ins
 
 IV.- Desempeñar los cargos Consejiles del Municipio donde residan, las funciones electorales y las de jurado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 09 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 10.
 
-Los ciudadanos chiapanecos tienen derecho de:
+Los ciudadanos chiapanecos tienen derecho a:
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 I.- Votar en las elecciones federales, estatales y municipales;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-II.- Poder ser votados en dichas elecciones y nombrados para cualquier cargo o comisión, siempre que satisfagan los requisitos que la ley exige;
+II.- Ser votados en las elecciones a que se refiere la fracción anterior y ser nombrados para cualquier cargo o comisión, siempre que satisfagan los requisitos que la ley exige;
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1997)</small>
 
@@ -218,6 +216,22 @@ III.- Petición y de asociación individual, libre y pacífica en los asuntos po
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 IV.- Participar en las decisiones transcendentes (sic) del Poder Ejecutivo mediante el plebiscito, e iniciar leyes ante el Congreso del Estado, en los términos que establezca la presente Constitución y la Ley Reglamentaria que al efecto se expida.
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+V.- Afiliarse libre, personal e independientemente a un partido político.
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+VI.- Que las elecciones se lleven a cabo bajo los principios de certeza, seguridad, legalidad, equidad, independencia, veracidad, objetividad e imparcialidad.
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+VII. Exigir a los servidores públicos electos mediante el voto popular que cumplan con sus propuestas de campaña; y
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+VIII. Que los actos de los Poderes del Estado sean transparentes y públicos.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -285,7 +299,7 @@ Los derechos de los indígenas que esta Constitución consagra deberán ser prot
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION DEL PODER EJECUTIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 14.
 
@@ -335,9 +349,9 @@ La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídi
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO TERCERO. DEL MINISTERIO PUBLICO
+### CAPITULO PRIMERO. DE LA INSTITUCION DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 16.
 
@@ -371,9 +385,9 @@ Ningún partido tendrá derecho a que le sean reconocidos más de veinticuatro d
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO SEGUNDO. DE LA COMISION DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 17.
 
@@ -401,7 +415,7 @@ IV.- Haber residido en el Estado cuando menos cinco años anteriores a dicha ele
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -417,9 +431,9 @@ I.- El Gobernador del Estado, los Senadores y los Diputados Federales, aun cuand
 
 II.- Los funcionarios que a continuación se indican, si no se separan definitivamente de sus cargos noventa días antes de la elección:
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-A) El Secretario de Gobierno, los Secretarios de Despacho, los Subsecretarios de Gobierno, el Oficial Mayor de Gobierno, el Procurador y los Subprocuradores Generales de Justicia, el Presidente de la Junta Local de Conciliación y Arbitraje, y los Directores dependientes del Ejecutivo;
+A) El Secretario de Gobierno, los Secretarios de Despacho, los Subsecretarios de Gobierno, el Fiscal General del Estado, el Fiscal General Adjunto y Fiscales Regionales, el Fiscal Electoral y los integrantes de la Contraloría de la Legalidad Electoral, el Presidente de la Junta Local de Conciliación y Arbitraje, y los Directores Dependientes del Ejecutivo;
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -437,61 +451,71 @@ D) Los funcionarios federales; y
 
 E) Los militares en servicio activo y quienes tengan mando de la Policía en el Distrito donde se efectúe la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 19.
 
-La preparación, organización, desarrollo y vigilancia de los procesos electorales, son funciones estatales que se realizan a través de un organismo público denominado Instituto Estatal Electoral y un Tribunal Electoral del Poder Judicial del Estado, de cuya integración son corresponsables, el Poder Legislativo y los ciudadanos en los términos que ordene esta Constitución. Ambos contarán con personalidad jurídica y patrimonio propios, con plena autonomía en su funcionamiento e independencia en sus decisiones y cuyo carácter será de permanentes que serán además encargados de la calificación de las elecciones en el ámbito de sus respectivas competencias.
+Votar en las elecciones del Estado es un derecho y una obligación de los ciudadanos chiapanecos.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+El voto deberá ser libre, igual, universal, secreto y directo, las autoridades garantizarán a los ciudadanos la emisión del mismo en los términos anteriores.
 
-La certeza, legalidad, independencia, objetividad, imparcialidad, serán principios rectores en el ejercicio de la función electoral.
+La certeza, seguridad, legalidad, independencia, veracidad, objetividad e imparcialidad, serán principios rectores de las autoridades electorales.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+Los Poderes Públicos serán imparciales, deberán abstenerse de apoyar directa o indirectamente a cualquier partido o candidato. Durante las elecciones, participarán exclusivamente en el ejercicio de las atribuciones que expresamente les confiere la ley. Las Autoridades Estatales y Municipales, así como las Delegaciones del Organo Ejecutivo Federal deberán cesar la difusión pública de obras y programas un mes antes del día de la elección. Cualquier violación a esta disposición, independientemente de la sanción penal respectiva, será castigada en términos del Título Noveno de esta Constitución. Corresponde a la Fiscalía Electoral la vigilancia de estas disposiciones.
 
-El Instituto Estatal Electoral de Chiapas será autoridad en la materia y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del instituto se guíen por los principios rectores de la función estatal electoral, se integrará por un Consejero Presidente y ocho Consejeros Electorales con voz y voto, y concurrirán, además, con voz pero sin voto, los representantes de los partidos políticos y un Secretario Ejecutivo. Así mismo habrá seis consejeros electorales suplentes en orden de prelación. La Ley determinará las reglas para la organización y funcionamiento de sus órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
+La función electoral, recaerá en: El Tribunal Electoral del Poder Judicial del Estado, el Instituto Estatal Electoral, la Fiscalía Electoral y la Contraloría de la Legalidad Electoral.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+El Tribunal Electoral del Poder Judicial del Estado y el Instituto Estatal Electoral serán competentes para la calificación de las elecciones en los términos de sus respectivas atribuciones.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+El Instituto Estatal Electoral es un organismo independiente, permanente, imparcial, autónomo y público del Estado, responsable de la preparación, organización y vigilancia de las elecciones estatales y municipales, así como corresponsable en la vigilancia de las precampañas. El Instituto será autoridad en la materia y profesional en su desempeño, para lo cual deberá establecer un servicio civil electoral. La ley regulará el ingreso, promoción y remoción de sus integrantes quienes, en todos los casos, deberán ser ciudadanos comprometidos. El Instituto contará con personalidad jurídica y patrimonio propio.
 
-El Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, así como los Magistrados del Tribunal Electoral serán elegidos por el Congreso del Estado o por la Comisión Permanente, en los recesos de éste, por el voto de las dos terceras partes de sus miembros presentes, de entre las propuestas que formulen las fracciones parlamentarias. Durarán en el cargo siete años, pudiendo ser reelectos para otro período y no podrán tener otro empleo, cargo o comisión, con excepción de aquellos que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia pública, no remunerados. El Secretario Ejecutivo del Instituto será nombrado por el voto de las dos terceras partes del Consejo General a propuesta de su Presidente.
+El Instituto contará, en su estructura, con Organos de Dirección, Ejecutivos y Técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque las actividades del Instituto se guíen por los principios rectores de la función estatal electoral. Se integrará por un Consejero Presidente y ocho Consejeros Electorales con voz y voto. Además, concurrirán, con voz pero sin voto, los Representantes de los Partidos Políticos y un Secretario Ejecutivo. Asimismo habrá seis Consejeros Electorales Suplentes en orden de prelación. La ley determinará las reglas para la organización y funcionamiento de sus órganos, así como las relaciones de mando entre éstos. Los Organos Ejecutivos y Técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+El Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, así como los Magistrados del Tribunal Electoral, serán elegidos por el Congreso del Estado y, en sus recesos, por la Comisión permanente, con el voto de las dos terceras partes de sus miembros presentes, de entre las propuestas que formulen las fracciones parlamentarias. Durarán en el cargo siete años, podrán ser reelectos para otro periodo y no deberán tener otro empleo, cargo o comisión, con excepción de aquellos que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia pública, no remunerados. El Secretario Ejecutivo del Instituto será nombrado por el voto de las dos terceras partes del Consejo General a propuesta de su presidente.
 
-La legislación electoral establecerá los requisitos que deberán reunir para su designación el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral; la Ley Orgánica del Poder Judicial del Estado, determinará los requisitos que deberán reunir los Magistrados del Tribunal Electoral del Poder Judicial del Estado, los que estarán sujetos al régimen de responsabilidades establecidas en el Título Noveno de esta Constitución.
+La Legislación Electoral establecerá los requisitos que deberán reunir para su designación el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, quienes estarán sujetos al régimen de responsabilidades establecidas en el Título Noveno de esta Constitución.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+El Instituto Estatal Electoral tendrá a su cargo, en forma integral y directa, además de las actividades que determine la legislación electoral: las actividades relativas a la capacitación y educación cívica, los derechos y prerrogativas de las asociaciones y partidos políticos, la impresión de materiales electorales, la preparación de la jornada electoral, la calificación de las elecciones y entrega de las constancias de mayoría o asignación respectivas en los términos que señale la ley, así como la regulación de la observación electoral y los sondeos y encuestas con fines electorales.
 
-El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que determine la legislación electoral, las actividades relativas a la capacitación y educación cívica, los derechos y prerrogativas de las asociaciones y partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, la calificación de las elecciones y entrega de las constancias de mayoría o asignación respectivas en los términos que señale la Ley, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales.
+Los ciudadanos y los partidos políticos son corresponsales en la preparación, desarrollo, vigilancia y fiscalización de los procesos electorales; así como de la vigilancia y fiscalización de las precampañas en los términos de ley.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+La Fiscalía Electoral y la Contraloría de la Legalidad Electoral son Organos Autónomos, con personalidad jurídica y patrimonio propios. La Fiscalía Electoral, en su carácter de Ministerio Público, es responsable de la investigación y persecución de los delitos electorales. La Contraloría de la Legalidad Electoral es un Organo Colegiado que tendrá a su cargo la investigación a petición de los interesados de las violaciones a la ley, además será responsable de controlar, vigilar y fiscalizar las finanzas de los partidos políticos y los gastos de las precampañas y campañas electorales. Las autoridades y particulares están obligados a acatar sus requerimientos. El Fiscal Electoral y los integrantes de la Contraloría de la Legalidad Electoral, deberán guardar las reservas en el ejercicio de sus competencias. La ley establecerá su organización, funcionamiento y sanciones aplicables.
 
-Los partidos políticos son entidades de interés público; la Ley determinará los fines, derechos, prerrogativas, obligaciones y responsabilidades que con tal carácter les correspondan, así como las formas específicas de su intervención en los procesos electorales estatales. Los partidos políticos nacionales derivado de su participación en las elecciones estatales o municipales gozarán de los mismos derechos y prerrogativas, y tendrán las mismas obligaciones y responsabilidades dispuestos en la ley para los partidos políticos estatales.
+El Fiscal Electoral y los integrantes de la Contraloría de la Legalidad Electoral, serán nombrados por el Congreso del Estado, a propuesta del Titular del Ejecutivo Estatal, por el voto de las dos terceras partes de los legisladores presentes y, en los recesos de éste, por la Comisión Permanente con la misma votación de mayoría calificada. Durarán ocho años en su encargo y podrán ser removidos exclusivamente en los términos del Título Noveno de esta Constitución.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+La actividad de precampaña será regulada por la ley, pero en ningún caso durará más de 30 días. Cualquier persona que realice actos de proselitismo sin sujetarse a las disposiciones que señale la ley de la materia, independientemente de las demás sanciones, perderá el derecho a ser registrado como candidato al Cargo de Elección Popular por el cual realizó dichos actos.
 
-La Ley Electoral establecerá, de acuerdo con las disponibilidades presupuestales, las reglas y criterios a que se sujetará la determinación y distribución del financiamiento público de los partidos políticos, garantizando que reciban en forma equitativa financiamiento público para su sostenimiento y sus actividades tendientes a la obtención del voto durante los procesos electorales.
+La duración de las campañas se sujetará a las disposiciones de la ley, pero, en todo caso, no deberá rebasar de noventa días. Los partidos políticos serán responsables de la veracidad y factibilidad de las propuestas de sus candidatos. Las campañas políticas tendrán como objetivo la obtención del voto a través de la difusión de la plataforma electoral y el debate ideológico. Cualquier partido político o candidato que no cumpla con las anteriores disposiciones será sancionado en los términos de la ley de la materia.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+Las autoridades garantizarán, también, que los ciudadanos tengan acceso a información para conocer a las personas que serán electas y que les sea (sic) expresadas con veracidad las propuestas ideológicas y programáticas de cada candidato o partido político. El Instituto organizará debates obligatorios entre los candidatos, en los términos de la ley de la materia, mismos que deberán ser difundidos en los medios de comunicación.
 
-La legislación electoral establecerá las reglas a que se sujetará el financiamiento de los partidos políticos que no provenga del erario público; los criterios para determinar los límites a las erogaciones en sus campañas electorales, los montos máximos que tengan las aportaciones de sus simpatizantes, debiendo garantizar que el financiamiento público prevalezca sobre el de carácter privado; los procedimientos de control y vigilancia del origen, uso y destino de todos los recursos con que cuentan los partidos políticos; y señalará las sanciones por el incumplimiento a las disposiciones expedidas en la materia.
+La difusión de encuestas y sondeos será regulada por la ley, pero en ningún caso permitirá su divulgación durante la jornada electoral y los siete días anteriores.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática del estado, contribuyen a la elección del Gobernador del Estado, de los Miembros del Congreso Estatal y de los integrantes de los Ayuntamientos. Los partidos políticos, como organizaciones de ciudadanos, hacen posible el acceso de éstos al ejercicio del poder público, de acuerdo con los principios e ideas que postulan. Su participación en los procesos electorales estará regulada por la ley y su actividad deberá estar orientada a elevar la calidad de vida de los chiapanecos.
 
-La legislación electoral garantizará el acceso permanente de los partidos políticos, en forma equitativa, a los medios de comunicación social, de acuerdo con las formas y términos que establezca la misma.
+Los partidos políticos deberán influir entre sus candidatos propietarios a Diputados al Congreso del Estado y a integrantes de los Ayuntamientos a no más del setenta por ciento de un solo sexo y no menos del veinte por ciento de jóvenes menores de veinticinco años.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+La afiliación a los partidos políticos es un derecho libre, personal e independiente de cada chiapaneco. Toda afiliación corporativa o de grupo será nula y sancionada por la ley.
 
-La Legislación Electoral establecerá un sistema de medios de impugnación, para garantizar que los actos de los organismos electorales, se ajusten invariablemente al principio de legalidad y a lo dispuesto por esta Constitución y en las leyes que de ella emanen. Dicho sistema fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. De las impugnaciones conocerán el Instituto Estatal Electoral y el Tribunal Electoral del Poder Judicial del Estado. En materia electoral la interposición de los medios de impugnación legales no producirán efectos suspensivos sobre la resolución o el acto impugnado.
+La ley determinará los fines, derechos, prerrogativas, obligaciones y responsabilidades que les correspondan a los partidos políticos; así como las formas de intervención en los procesos electorales. Los partidos políticos nacionales, derivados de su participación en las elecciones estatales o municipales, gozarán de los mismos derechos y prerrogativas dispuestos en la ley para los partidos estatales.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
+La Ley Electoral establecerá, de acuerdo con la disponibilidad presupuestal, las reglas y criterios a que se sujetará la determinación y distribución del financiamiento público de los partidos políticos, garantizando que reciban en forma equitativa financiamiento público para su sostenimiento y sus actividades tendientes a la obtención del voto durante los procesos electorales.
 
-La ley respectiva tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse.
+Del financiamiento público, exclusivamente el diez por ciento deberá destinarse a contratación en medios de comunicación.
+
+La ley regulará los gastos máximos que podrán erogar los partidos políticos y candidatos en las precampañas y campañas electorales. Establecerá las modalidades y límites a las aportaciones privadas, el control, vigilancia y fiscalización de los recursos de los partidos políticos, así como las sanciones que deberán aplicarse por incumplimiento de estas disposiciones. Asimismo, deberá contener las reglas y criterios para determinar el financiamiento público.
+
+Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación, que tendrá como objetivo dar definitividad a las distintas etapas del proceso electoral y garantizar la protección de los derechos políticos de los ciudadanos consagrados a esta Constitución.
+
+El Instituto Estatal Electoral y el Tribunal Electoral del Poder Judicial del Estado serán competentes para conocer las impugnaciones en los términos que establecen esta Constitución y la ley, la cual fijará, en todo caso, los plazos suficientes para el desahogo de todas las instancias impugnativas.
+
+En materia electoral, la interposición de los medios de impugnación legales no producirá efectos suspensivos sobre la resolución o acto impugnado.
+
+La ley tipificará los delitos y determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO TERCERO. DEL NOMBRAMIENTO DE LOS FUNCIONARIOS JUDICIALES
+### CAPITULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -559,7 +583,7 @@ La infracción de esta disposición será sancionada con la pérdida del cargo d
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO QUINTO. DEL CONSEJO DE LA JUDICATURA
+### CAPITULO TERCERO. DEL NOMBRAMIENTO DE LOS FUNCIONARIOS JUDICIALES
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -819,19 +843,19 @@ IX.- Conceder licencia por más de treinta días al Gobernador del Estado;
 
 X.- Recibir, en su caso, la protesta de Gobernador Interino o Provisional;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-XI.- Revisar y aprobar los avances financieros de la cuenta pública que envíe el Ejecutivo del Estado; y las demás que le asigne la presente Constitución.
+XI.- Revisar y aprobar los avances financieros de la cuenta pública que envíe el Ejecutivo del Estado; y las demás que le asigne la presente Constitución y,
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+XII. Las demás previstas en esta Constitución.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 32.
 
-El Congreso del Estado creará y establecerá, mediante Ley, un organismo de carácter público, con autonomía técnica, administrativa y jerárquica, dotado de personalidad jurídica y patrimonio propios, que se denominará Comisión Estatal de Derechos Humanos y tendrá por objeto la protección, defensa, respeto, estudio y divulgación de los derechos humanos establecidos por el orden jurídico mexicano, el fortalecimiento de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la entidad. La comisión conocerá de quejas en contra de actos, hechos u omisiones de naturaleza administrativa que provengan de autoridades o servidores públicos estatales o municipales, que se presuman violen los derechos humanos establecidos en la Ley, con excepción de los del Poder Judicial del Estado. Podrá formular recomendaciones públicas autónomas, no vinculatorias, denuncia y quejas ante las autoridades competentes.
-
-La Comisión Estatal de Derechos Humanos no podrá intervenir, ni conocer de quejas, en asuntos electorales, laborales y jurisdiccionales.
-
-El Congreso del Estado asignará, anualmente, a la Comisión el presupuesto necesario para cumplir con sus atribuciones, tomando en consideración las previsiones generales del presupuesto de egresos, y el propio Congreso designará al Presidente de la Comisión, de la terna que al efecto le presente el Poder Ejecutivo.
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -847,27 +871,43 @@ La elección de gobernador se realizará a través de elecciones auténticas, pe
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
+### CAPITULO QUINTO. DEL CONSEJO DE LA JUDICATURA
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 35.
 
 Para ser Gobernador, se requiere:
 
-I.- Ser ciudadano chiapaneco por nacimiento, en pleno goce de sus derechos, con residencia efectiva en el Estado no menor a cinco años e hijo de padres mexicanos;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+I.- Haber nacido en Chiapas o ser hijo de padre o madre chiapanecos; estar en pleno goce de sus derechos y con residencia efectiva no menor de ocho años;
 
 II.- Tener 30 o más años de edad el día de la elección;
 
 III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto o haberse separado por lo menos con cinco años de antelación a la fecha de la elección o designación;
 
-IV.- No tener empleo, cargo o comisión de la Federación o del Estado, y de ser así renunciar y estar separado de ellos cuando menos 90 días antes de la elección;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+IV.- No tener empleo, cargo o comisión de la Federación, Estado o Municipio, o renunciar o estar separado de cualquiera de ellos cuando menos noventa días antes del día de la elección. En los casos de los Cargos de Elección Popular Federal, Estatal o Municipal, obtener la licencia respectiva en el plazo señalado;
 
 V.- No haber ocupado anteriormente el cargo de Gobernador Constitucional por elección popular;
 
 VI.- No haber ocupado en el período inmediato anterior el cargo de gobernador provisional, interino o sustituto.
 
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+VII. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de aquellos cuya comisión lastime la buena fama pública, cualesquiera que hubiere sido la pena impuesta;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+VIII. No tener parentesco por consanguinidad en los cuatro primeros grados, ni por afinidad en los dos primeros o relación conyugal con el Gobernador en ejercicio.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1994)</small>
 
-## TITULO SEXTO. DEL PODER JUDICIAL
+## TITULO QUINTO BIS. DE LOS ORGANOS AUTONOMOS DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 36.
 
@@ -1005,7 +1045,9 @@ XXI.- Someter a consideración del Congreso o de la Comisión Permanente, los no
 
 XXII.- Nombrar y remover libremente a los empleados y funcionarios de la Administración Pública del Estado de Chiapas, respetando en todo caso los derechos que les asistan conforme a la Legislación aplicable;
 
-XXIII.- Turnar al Procurador de Justicia los asuntos que deban ventilarse ante los Tribunales, para que ejercite ante ellos sus atribuciones legales, sin menoscabo de las facultades del Ministerio Público.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+XXIII.- Turnar al Procurador Fiscal General del Estado los asuntos que deban ventilarse ante los tribunales, para que ejercite ante ellos sus atribuciones legales, sin menoscabo de las facultades del Ministerio Público.
 
 El Ejecutivo podrá nombrar cuando así lo crea conveniente, a algún abogado que lo represente en determinado asunto.
 
@@ -1029,29 +1071,21 @@ XXVIII.- Las demás que le confiera expresamente esta Constitución.
 
 Para el despacho de los asuntos administrativos del Estado, habrá las Secretarías, Dependencias, Consejería Jurídica y Entidades que establezca la Ley Orgánica de la Administración Pública del Estado, la que señalará las funciones que a cada una correspondan y los requisitos que deban reunir sus titulares.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+Las funciones del Consejero Jurídico del Gobernador del Estado estarán a cargo de la dependencia del Ejecutivo que para tal efecto establezca la ley.
 
-Los Secretarios del despacho y los titulares de las dependencias y entidades deberán:
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+Los Secretarios del despacho y los titulares de las Dependencias y Entidades deberán:
 
 I.- Ser mayores de 30 años al momento de su designación;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
 II.- No pertenecer al estado eclesiástico;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 III.- No haber cometido delito grave intencional alguno;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
 IV.- Satisfacer los demás requisitos que señale la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1994)</small>
-
 El Secretario de Gobierno deberá, además, ser ciudadano chiapaneco.
+
+El Gobernador el Estado deberá nombrar, como máximo al setenta por ciento de personas del mismo sexo como Secretarios de Despachos y Titulares de las Dependencias de la Administración pública.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1071,33 +1105,51 @@ Las ausencias de los titulares de las Dependencias serán suplidas en los térmi
 
 Los titulares de las dependencias y de las entidades deberán comparecer ante el congreso del Estado o ante sus Comisiones cuando sean requeridos para dar cuenta del estado que guardan sus respectivos ramos o cuando se discuta una iniciativa de Ley que les competa.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 47.
 
-A.- La Ley organizará al Ministerio Público, cuyos funcionarios serán nombrados y removidos por el Ejecutivo conforme a sus atribuciones, debiendo estar presidido por un Procurador General, el que deberá tener las mismas cualidades requeridas para ser Magistrado del Supremo Tribunal de Justicia del Estado.
+El Ministerio Publico es una institución pública, autónoma de buena fe, la cual tiene por objeto promover la acción de la justicia en defensa de la legalidad, de los derechos de las personas y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como procurar ante los tribunales la satisfacción del interés social. El Ministerio Público ejercerá sus atribuciones por medio de órganos propios, conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción a la legalidad.
 
-El Procurador General de Justicia y demás funcionarios serán responsables de toda falta, comisión o violación a la Ley en que incurran con motivo o en el ejercicio de sus funciones.
+En el caso de delitos electorales, la Institución del Ministerio Público, actuará por conducto de la Fiscalía Electoral, en términos del artículo 19 de esta Constitución y las disposiciones que fijen las leyes secundarias.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
+En la investigación y persecución de los demás delitos del fuero común la Institución del Ministerio Público ejercerá sus atribuciones a través de la Fiscalía General del Estado, auxiliándose de una policía que estará bajo su autoridad y mando inmediato; por lo tanto le corresponderá solicitar órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; pedir la aplicación de las penas; le corresponde, asimismo, velar porque los juicios de tramiten con apego a la ley, para que la justicia sea completa, imparcial, pronta y expedita; vigilar el debido cumplimiento de las penas impuestas; representar los intereses de los menores e incapaces, e intervenir en todos los asuntos que la ley determine.
 
-La investigación y persecución de los delitos incumbe al ministerio público, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato, por lo tanto corresponde al ministerio público solicitar las ordenes de aprehensión de los inculpados, buscar y presentar las pruebas bastantes que acrediten los elementos que integran el cuerpo del delito; así como la probable responsabilidad del indiciado y pedir la aplicación de las penas, asegurar bienes, objetos, instrumentos o productos del delito y solicitar su decomiso; dispondrá de las acciones y procedimientos necesarios para otorgar asesoría y protección a la víctima o al ofendido, cuidando que se satisfaga, en términos de ley, la reparación del daño; en su caso, cuando proceda legalmente determinar el no ejercicio de la acción penal, desistir de ella o promover la libertad del acusado; así mismo, velará porque los juicios se tramiten con apego a la ley para que la justicia sea completa, imparcial, y expedita e intervendrá en todos los asuntos que la Ley determine.
+La Fiscalía General del Estado es un Organismo Público Autónomo, con personalidad jurídica y patrimonio propios que estará presidida por un Fiscal General, quien deberá cumplir los mismos requisitos para ser Magistrado del Supremo Tribunal de Justicia del Estado; será propuesto por el Titular del Poder Ejecutivo y designado con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, o en sus recesos, por la Comisión Permanente con la misma votación calificada. La designación o rechazo de la propuesta, se deberá realizar dentro de un plazo de siete días naturales, si el Congreso o la Comisión Permanente no resuelven dentro de dicho plazo, la propuesta se tendrá por aprobada, si la propuesta formulada fuera rechazada, el Ejecutivo deberá realizar una nueva propuesta, mientras tanto podrá designar un Fiscal Interino. La ley establecerá la organización y funcionamiento de la Fiscalía General del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+El Fiscal General del Estado durará en su cargo seis años, podrá ser designado para un segundo periodo; deberá presentar anualmente al Congreso del Estado un informe de actividades.
 
-La Ley Orgánica determinará la integración de la Institución. El Procurador General de Justicia intervendrá por sí o por medio de sus funcionarios o agentes en todos los asuntos en que el Estado sea parte, salvo disposición en contrario.
+El Fiscal General del Estado, intervendrá personalmente en las controversias y acciones a que se refiere el artículo 56 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+En todos los asuntos en que el Estado sea parte, y en los demás casos en que deba intervenir la Institución del Ministerio Público, el Fiscal lo hará por sí o por medio de sus funcionarios o agentes, salvo disposición en contrario.
 
-La función de Consejero Jurídico del Gobernador del Estado, estará a cargo de la Dependencia del Ejecutivo, que para tal efecto, establezca la ley.
+El Fiscal General del Estado y demás funcionarios de la Institución del Ministerio público serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo o en el ejercicio de sus funciones.
 
-B.- El Congreso del Estado, creará y establecerá mediante Ley, un Organismo Administrativo desconcentrado de protección, respeto y defensa de los derechos humanos. Este Organismo conocerá de quejas en contra de actos, hechos u omisiones de naturaleza administrativa, que provengan de autoridades o servidores públicos que violen los mismos, con excepción de los del Poder Judicial del Estado. Podrá formular recomendaciones publicas autónomas y de ninguna manera obligatorias para las autoridades o servidores involucrados.
+El Fiscal General del Estado, exclusivamente podrá ser removido de su cargo en los términos del Título Noveno de esta Constitución.
 
-Este Organismo carecerá de competencia para conocer de materias jurisdiccional, laboral y electoral.
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-###### ARTICULO 48.
+###### Artículo 48.
 
-(DEROGADO, P.O. 9 DE OCTUBRE DE 1990)
+La promoción y protección de los derechos humanos, estará a cargo de un organismo público, autónomo, con personalidad jurídica y patrimonio propio, al que se denominará Comisión de los Derechos Humanos; tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, fomentará su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la entidad.
+
+La Comisión de los Derechos Humanos conocerá de quejas en contra de actos u omisiones de naturaleza administrativa que provengan de autoridades o servidores públicos estatales y/o municipales que se presuman violen los derechos humanos establecidos en la ley, con excepción de los del Poder Judicial del Estado.
+
+La Comisión de los Derechos Humanos formulará recomendaciones públicas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+
+La Comisión de los Derechos Humanos no podrá intervenir, ni conocer de quejas, en asuntos electorales, laborales y jurisdiccionales.
+
+El Congreso del Estado asignará, anualmente, a la Comisión el presupuesto necesario para cumplir con sus atribuciones, tomando en consideración las previsiones generales del presupuesto de egresos.
+
+La Comisión de los Derechos Humanos tendrá un Consejo General Consultivo integrado por diez Consejeros, que serán elegidos, a propuesta del Ejecutivo, por el voto de las dos terceras partes de los miembros presentes del Congreso, o en sus recesos, por la Comisión Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas.
+
+Anualmente serán sustituidos los dos Consejeros de mayor antigüedad en el cargo, salvo que fueren propuestos y ratificados para un segundo periodo.
+
+El Presidente de la Comisión de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido por el voto de las dos terceras partes de los miembros presentes del Congreso, o en sus recesos por la Comisión Permanente, con la misma votación calificada, de la terna que al efecto le presente el Titular del Poder Ejecutivo.
+
+El Presidente de la Comisión de los Derechos Humanos durará en su cargo cuatro años, podrá ser reelecto por una sola vez y solo podrá ser removido de sus funciones en los términos del Título Noveno de esta Constitución.
+
+El Presidente de la Comisión de los Derechos Humanos presentará anualmente al Congreso del Estado un informe de actividades en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1131,41 +1183,69 @@ La Sala Superior residirá en la Capital del Estado; su jurisdicción y competen
 
 El Presidente del Supremo Tribunal de Justicia lo será el Presidente de la Sala Superior quien será elegido por el Pleno de la propia Sala cada tres años en la primera semana del mes de enero, pudiendo ser reelegido una sola vez y, en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe; pero si excediere de ese término, la designación del Magistrado Presidente Interino la hará el Pleno.
 
-La Sala Superior del Supremo Tribunal de Justicia y el Tribunal Electoral elaborarán su propio presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. Los presupuestos elaborados y aprobados serán remitidos por el Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto de Egresos del Estado. La administración de la Sala Superior correponderá a su Presidente.
+La Sala Superior del Supremo Tribunal de Justicia y el Tribunal Electoral elaborarán su propio presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. Los presupuestos elaborados y aprobados serán remitidos por el Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto de Egresos del Estado. La administración de la Sala Superior corresponderá a su Presidente.
 
 Cuando ocurriere una vacante definitiva de algún Magistrado de la Sala Superior por defunción, renuncia, incapacidad o cualquier otra causa y el Congreso se encuentre en receso, la Comisión permanente de inmediato convocará a un período extraordinario de sesiones para hacer el nombramiento correspondiente. Conocerá de la terna respectiva y resolverá sobre su aprobación.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-## TITULO SEPTIMO. DE LOS MUNICIPIOS
+El Titular del Ejecutivo Estatal y el Congreso del Estado deberán velar que en el nombramiento de Magistrados, tanto de la Sala Superior, como de las Regionales, se incluya como máximo al setenta por ciento de personas del mismo sexo.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+## TITULO SEXTO. DEL PODER JUDICIAL
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 51.
 
-La Sala Superior sesionará en Pleno o en Salas. Actuando en Pleno será el órgano rector de los criterios jurídicos de interpretación de esta Constitución y las leyes que de ella emanen. El Pleno estará integrado por siete Magistrados, pero bastará la presencia de cinco para que pueda sesionar. Sus atribuciones son las siguientes:
+La Sala Superior sesionará en Pleno o en Salas. Actuando en Pleno será el órgano rector de los criterios jurídicos de interpretación de esta Constitución y las leyes que de ella emanen. El Pleno estará integrado por siete Magistrados, pero bastará la presencia de cinco para que pueda sesionar. Son atribuciones del Pleno las siguientes:
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 En Pleno:
 
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+
 I.- Garantizar la supremacía y control de esta Constitución mediante su interpretación.
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 II.- Erigirse en Tribunal de Sentencia, y conocer de los juicios y procedimientos instaurados a los Servidores Públicos que incurran en los actos u omisiones a que se refiere el Título Noveno de esta Constitución.
 
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+
 III.- Dirimir conflictos de competencia que se susciten entre Salas Regionales o entre los Juzgados, así como los casos de contradicción de tesis de las mismas.
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 IV.- Emitir acuerdos generales a fin de lograr una adecuada distribución entre los órganos del Poder Judicial respecto de los asuntos que les compete conocer, para la mejor y mayor prontitud de su despacho.
 
-V.- Dictar el Reglamento Interior del Poder Judicial con excepción del Tribunal Electoral y Tribunal del Servicio Civil;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+V. Conocer de los asuntos en apelación, de oficio o a petición fundada de la correspondiente Sala Colegiada o Unitaria Regional, o del Fiscal General del Estado, que por su interés o trascendencia así lo ameriten.
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 VI.- Designar a los miembros del Consejo de la Judicatura que corresponda al Poder Judicial, y
 
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+
 VII.- Ejercer las demás facultades que le confieran esta Constitución y la Ley.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 En Salas:
 
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+
 VIII.- Conocer de los asuntos en apelación, de oficio o a petición fundada de la correspondiente Sala Colegiada o Unitaria Regional, o del Procurador General de Justicia del Estado, que por su interés o trascendencia así lo ameriten;
 
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+
 IX.- Resolver de oficio o a petición fundada de parte los juicios de nulidad que conforme a la Ley de Justicia Administrativa se tramiten en las Salas;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 X.- Conocer a petición de la Sala Superior de los juicios administrativos radicados en las Salas Regionales por resoluciones que pronuncien las autoridades de las dependencias y entidades del Poder Ejecutivo Estatal o Municipal, en funciones administrativas o fiscales.
 
@@ -1195,7 +1275,9 @@ III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, t�
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite una pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, concusión, cohecho, enriquecimiento ilícito, fraude, falsificación, falsedad en declaración ante la autoridad judicial, difamación, abuso de confianza, contra la salud, u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena; y
 
-V.- No haber sido Secretario de Estado, Procurador General de Justicia del Estado, Senador, Diputado Federal o Estatal, o Presidente Municipal, a menos que se separe del cargo un año antes del día de su nombramiento;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+V. No haber sido Secretario del Despacho, Fiscal General del Estado, Senador, Diputado Federal, Diputado Local, Presidente Municipal, a menos que se separe del cargo un año antes del día de su nombramiento;
 
 VI.- Los demás requisitos que señale la Ley.
 
@@ -1255,7 +1337,9 @@ a) El Gobernador del Estado; o
 
 b) El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado, en contra de leyes locales o expedidas por el Congreso del Estado.
 
-c) El Procurador General de Justicia del Estado, en contra de leyes de carácter estatal.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+c) El Fiscal General del Estado, en contra de leyes de carácter estatal;
 
 d) El equivalente al treinta y tres por ciento de los Ayuntamientos de la entidad.
 
@@ -1273,7 +1357,7 @@ La resolución que emita el Pleno de la Sala Superior que decrete la existencia 
 
 IV.- A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada por los Magistrados o Jueces del Estado cuando tengan duda sobre la constitucionalidad o aplicación de una Ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor de treinta días.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 57.
 
@@ -1291,7 +1375,7 @@ El Consejo de la Judicatura tendrá a su cargo la administración de los recurso
 
 Además, informará sobre su gestión al Pleno de la Sala Superior, en los términos de la Ley Orgánica; elaborará el Presupuesto del Poder Judicial, con la excepción antes citada; los someterá a la consideración del Pleno de la Sala Superior y una vez aprobado lo remitirá para su inclusión en el Proyecto de Presupuesto de Egresos del Estado.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 ###### ARTICULO 58.
 
@@ -1465,13 +1549,9 @@ El Estado contará con los ingresos que determinen el Código de la Hacienda Pú
 
 Los egresos se regularán conforme a las disposiciones que establezca el Código de la Hacienda Pública para el Estado de Chiapas y el presupuesto de egresos que serán sancionados anualmente por el Congreso.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-El Congreso podrá modificar, a petición del ejecutivo, los ingresos y egresos del Estado.
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2000)</small>
-
-Las partidas presupuestales, o las que asignen cualquier cantidad para gastos extraordinarios serán autorizadas por el Ejecutivo Estatal a través del Secretario de Hacienda.
+El Congreso podrá modificar, a petición del Ejecutivo, los ingresos o egresos del Estado, las partidas presupuestales, o las que asignen cualquier cantidad para gastos extraordinarios serán firmadas por el Gobernador y el Secretario del ramo que corresponda.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1521,11 +1601,15 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 71.
 
-Podrán ser sujetos de Juicio Político el Gobernador del Estado; los Diputados Locales; los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes Municipales; los Consejeros Electorales del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos. Cuando el Gobernador del Estado, los Diputados al Congresos del Estado, los Magistrados y Consejeros del Poder Judicial, incurran en violaciones graves a la Constitución General de la República y a las Leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria a que se contrae el artículo 110 de esa propia Constitución, el Congreso del Estado como jurado de acusación turnará a la Sala Superior del Supremo Tribunal de Justicia el que erigido en Tribunal de Sentencia substanciará el Procedimiento señalado en este artículo.
+Podrán ser sujetos de juicio político: el Gobernador del Estado, los Diputados Locales, los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, los Secretarios de Despacho, el Fiscal General del Estado, el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, el Contralor General, los Vocales Ejecutivos, Los Coordinadores Generales, los Presidente (sic) Municipales, los Consejeros Electorales del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos Públicos y el Presidente de la Comisión de los Derechos Humanos.
+
+> <small>(ADICIONADO [N. DE E. ANTES SEGUNDA PARTE DEL PRIMER PARRAFO], P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+Cuando el Gobernador del Estado, los Diputados al Congresos del Estado, los Magistrados y Consejeros del Poder Judicial, incurran en violaciones graves a la Constitución General de la República y a las Leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria a que se contrae el artículo 110 de esa propia Constitución, el Congreso del Estado como jurado de acusación turnará a la Sala Superior del Supremo Tribunal de Justicia el que erigido en Tribunal de Sentencia substanciará el Procedimiento señalado en este artículo.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -1543,15 +1627,15 @@ En conocimiento de la acusación, y erigido el Tribunal de Sentencia, la Sala Su
 
 Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-## TITULO OCTAVO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA
+## TITULO SEPTIMO. DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 72.
 
-Cuando se trate de actos u omisiones sancionados por la Ley penal cometidos por el Gobernador del Estado, por los diputados locales, por los magistrados y Consejeros de la Judicatura del Poder Judicial, por los Secretarios y Subsecretarios de despacho, por el Procurador General y Subprocuradores de Justicia; el Contralor General, los vocales ejecutivos, los coordinadores generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en Jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese solo hecho, separado de su encargo y sujeto a la acción de los Tribunales del Orden Común; si esta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la Ley penal cometidos por el Gobernador del Estado, por los diputados locales, por los magistrados y Consejeros de la Judicatura del Poder Judicial, por los Secretarios y Subsecretarios de despacho, por el Procurador General y Subprocuradores de Justicia; el Contralor General, los vocales ejecutivos, los coordinadores generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos, por el Fiscal General del Estado, Fiscales Generales Adjuntos y Fiscales Regionales; el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en Jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese solo hecho, separado de su encargo y sujeto a la acción de los Tribunales del Orden Común; si esta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -1621,11 +1705,11 @@ Todos los funcionarios públicos del Estado percibirán una compensación por su
 
 Todos los funcionarios y empleados del Estado y de los Municipios, al tomar posesión de sus cargos, harán protesta formal de respetar y cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ambas emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 79.
 
-El Gobernador, los Magistrados, el Procurador General, Subprocuradores, los Agentes del Ministerio Público, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios del Despacho, el Oficial Mayor de Gobierno, los Secretarios del Supremo Tribunal de Justicia, los Actuarios, Funcionarios y Delegados del Registro Público de la Propiedad, así como el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, no podrán fungir como arbitradores, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición comprende a funcionarios y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
+El Gobernador, los Magistrados, el Fiscal General del Estado, Fiscales Generales Adjuntos y Fiscales Regionales, los Agentes del Ministerio Público, el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, el Procurador General, Subprocuradores, los Agentes del Ministerio Público, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios del Despacho, el Oficial Mayor de Gobierno, los Secretarios del Supremo Tribunal de Justicia, los Actuarios, Funcionarios y Delegados del Registro Público de la Propiedad, así como el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, no podrán fungir como arbitradores, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición comprende a funcionarios y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1633,9 +1717,9 @@ Cuando en un Distrito Judicial no exista Notario Público, los Jueces Civiles o 
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+## TITULO OCTAVO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 ###### ARTICULO 80.
 
@@ -1725,9 +1809,9 @@ La construcción de obras públicas las hará el Ejecutivo por contrato, o por a
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-## TITULO DECIMO. PREVENCIONES GENERALES
+## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 92.
 
@@ -1828,6 +1912,10 @@ En caso de que se hagan observaciones a las adiciones o reformas propuestas, el 
 ###### ARTICULO 106.
 
 Esta Constitución no perderá su fuerza y vigor aún cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el Pueblo recobre su libertad se establecerá su observancia, y con arreglo a ella, y a las leyes que en su virtud se hubieren expedido, serán juzgados, así los que hubieren figurado en el Gobierno emanado de la rebelión como los que hubieren cooperado a ésta.
+
+## TITULO DECIMO. PREVENCIONES GENERALES
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 ## TITULO DECIMO PRIMERO. DE LAS REFORMAS A LA CONSTITUCION
 
@@ -2079,11 +2167,13 @@ III.- Contribuir para los gastos públicos del Estado, de manera proporcional y 
 
 IV.- Evitar la deforestación; forestar y reforestar los predios que les pertenezcan y colaborar con las autoridades en la ejecución de las campañas contra la deforestación, la forestación y reforestación; prevenir y combatir los incendios y contribuir a la realización de los programas de mejoramiento de la comunidad.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 6º.
 
-Son vecinos del Estado los que residen habitualmente dentro de su territorio, sean mexicanos o extranjeros, con el ánimo de permanecer en él.
+Son vecinos del Estado quienes residen habitualmente dentro de su territorio, sean mexicanos o extranjeros, con el ánimo de permanecer en él.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 La vecindad no se pierde por ausentarse con motivo en el desempeño de un cargo de elección popular, de función pública o de la reclamada con motivo del deber de todo mexicano de defender a la Patria y a sus Instituciones.
 
@@ -2593,7 +2683,7 @@ P.O. 23 DE OCTUBRE DE 2001.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- La entidad de Fiscalización Superior del Estado iniciará sus funciones a partir de su Constitución. Para tal efecto el H. Congreso del Estado deberá expedir la ley a que se refiere la fracción XVIII del artículo 29 de esta Constitución, a mas tardar el 10 de noviembre del año en curso.
+SEGUNDO.- La entidad de Fiscalización Superior del Estado iniciará sus funciones a partir de su Constitución. Para tal efecto el H. Congreso del Estado deberá expedir la ley a que se refiere la fracción XVIII del artículo 29 de esta Constitución, a más tardar el 10 de noviembre del año en curso.
 
 TERCERO.- En tanto la entidad de Fiscalización Superior del Estado no empiece a ejercer las atribuciones a que se refiere este decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene de conformidad con el texto constitucional local y su ley orgánica, antes de la entrada en vigor del presente decreto.
 
@@ -2676,3 +2766,13 @@ P.O. 5 DE NOVIEMBRE DE 2004.
 PRIMERO.- La reforma del artículo 22 de la Constitución Política del Estado Libre y Soberano de Chiapas entrará en vigor el día 15 de noviembre de 2004.
 
 SEGUNDO.- La reforma del primer párrafo del artículo 31, y de los artículos 50, 51, 65 y 67 de la Constitución Política del Estado Libre y Soberano de Chiapas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+P.O. 9 DE NOVIEMBRE DE 2004.
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado, salvo las que se refieren a la materia electoral, las que entrarán en vigor un día después de la conclusión del proceso electoral estatal del presente año.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente Ley Suprema Estatal.
+
+Tercero.- Las reformas relacionadas con la creación de la Comisión de los Derechos Humanos, entrarán en vigor, el mismo día de su publicación.
+
+Cuarto.- A partir de la vigencia, señalada en el artículo anterior, el Ejecutivo del Estado, deberá enviar al Congreso del Estado, la terna respectiva, para designar al Presidente de la Comisión de los Derechos Humanos. Así mismo, las propuestas correspondientes, para el nombramiento de los Consejeros, del Consejo General, de la propia Comisión de los Derechos Humanos.
