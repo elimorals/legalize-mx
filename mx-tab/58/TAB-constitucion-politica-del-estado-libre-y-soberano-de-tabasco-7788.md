@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1994-03-30"
+last_updated: "1995-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1995.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -146,6 +146,8 @@ V.- En los demás casos que las leyes señalen.
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ## TITULO II. DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO I. FORMACION DEL CONGRESO
 
@@ -357,7 +359,9 @@ Calificadas las elecciones de la mayoría de los Diputados integrantes de la Cá
 
 ###### ARTICULO 23.
 
-El Congreso del Estado tendrá dos períodos de sesiones al año, el inicial, del dos de enero al treinta de abril y el final, del primero de septiembre al treinta y uno de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45 primer párrafo de esta Constitución.
+El Congreso del Estado tendrá dos períodos de sesiones al año, el inicial, del dos de enero al treinta de abril y al final, del primero de septiembre al treinta y uno de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45 primer párrafo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 Durante el receso funcionará una Comisión Permanente.
 
@@ -515,9 +519,9 @@ XVII.- Conceder amnistías por delitos de la competencia de los Tribunales de la
 
 XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1995)</small>
 
-XIX.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, sometidos por el Gobernador del Estado;
+XIX.- Otorgar o negar su aprobación a los nombramientos de Magistrado del Tribunal Superior de Justicia, propuestos por el Gobernador del Estado; así como remitir a éste la terna para designar Procurador General de Justicia del Estado;
 
 XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
 
@@ -1147,8 +1151,6 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La Ley señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 67. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a tres años.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ###### ARTICULO 73.
 
 Todos los empleados de Hacienda que tuvieren a su cargo caudales públicos en el Estado y Municipio, garantizarán suficientemente su manejo.
@@ -1706,3 +1708,7 @@ P.O. 30 DE MARZO DE 1994.
 Primero.- Estas reformas y adiciones entrarán en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Las reformas a que se refiere este Decreto fueron aprobadas en los términos del artículo 83 de la propia Constitución.
+
+P.O. 11 DE ENERO DE 1995.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
