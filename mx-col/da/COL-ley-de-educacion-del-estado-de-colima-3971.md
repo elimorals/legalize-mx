@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "1994-05-28"
+last_updated: "1999-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACION DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1999.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -151,9 +151,11 @@ La Secretaría permanentemente deberá evaluar, adecuar, ampliar, mejorar, actua
 
 Los beneficiados directamente por los servicios educativos deberán prestar servicio social, en los casos y términos de las disposiciones reglamentarias correspondientes. En éstas se preverá su prestación como requisito previo para obtener título o grado académico.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 13.
 
-Las escuelas de educación básica llevarán el nombre que designe o elija la Secretaría, de una terna propuesta a través del Director del Plantel respectivo, en la que no podrán figurar nombres de personas que aún vivan.
+Las escuelas de educación básica llevarán el nombre que designe o elija la Secretaría, de una terna propuesta a través del Director del Plantel respectivo.
 
 ###### ARTICULO 14.
 
@@ -1070,3 +1072,9 @@ Dado en el Recinto Oficial del Poder Legislativo a los diecinueve días del mes 
 Por lo tanto mande se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los 20 días del mes de mayo de 1994. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 24 DE ABRIL DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
