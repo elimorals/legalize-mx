@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5426
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-04"
-last_updated: "1991-07-19"
+last_updated: "2003-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1991.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADA EN EL P.O. EL 12 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 4 de septiembre de 1987.
 
@@ -524,3 +526,17 @@ P.O. 19 DE JULIO DE 1991.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE AGOSTO DEL 2003.
+
+Artículo Primero.- La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, salvo lo dispuesto en los Capítulos Primero, Tercero y Cuarto del Título Cuarto, y el Capítulo Único del Título Quinto, del presente decreto, que entrarán en vigor el 1º primero de enero del año 2004 dos mil cuatro.
+
+La obligación del Congreso del Estado de emitir a más tardar el quince de octubre de cada año, las recomendaciones de montos máximos de las remuneraciones de los integrantes de los Ayuntamientos, prevista en el artículo 81 del presente decreto, entrará en vigor el 1º primero de enero del año 2004 dos mil cuatro.
+
+Artículo Segundo.- Los Poderes Ejecutivo, Legislativo y Judicial, los Organismos Autónomos y los Ayuntamientos deberán emitir, en el ámbito de su competencia, las disposiciones administrativas necesarias para el cumplimiento de la presente Ley, en un plazo de noventa días contados a partir del inicio de la vigencia de la misma.
+
+Artículo Tercero.- Para efectos de los artículos 79 y 80 de esta Ley, el Comité de Estructuración Salarial tendrá la integración y funcionamiento del Comité Técnico de Reestructuración Salarial previsto en el artículo octavo transitorio de la Ley del Presupuesto General de Egresos del Estado de Guanajuato, para el Ejercicio Fiscal del 2003.
+
+Artículo Cuarto.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Guanajuato, expedido mediante el Decreto número 119 de la Quincuagésima Tercera Legislatura, y publicado en el Periódico Oficial del Gobierno del Estado número 71, segunda parte de fecha 4 cuatro de septiembre de 1987 mil novecientos ochenta y siete.
+
+Artículo Quinto.- Se derogan los artículos 198, 199 y 200 de la Ley Orgánica Municipal para el Estado de Guanajuato, así como todas las disposiciones que se opongan a la presente Ley.
