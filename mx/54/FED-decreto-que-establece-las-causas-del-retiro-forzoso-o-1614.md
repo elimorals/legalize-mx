@@ -4,7 +4,7 @@ identifier: "FED-decreto-que-establece-las-causas-del-retiro-forzoso-o-1614"
 country: "mx"
 rank: "decreto"
 publication_date: "1951-02-19"
-last_updated: "1951-03-14"
+last_updated: "1963-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1950-12-28"
 
 DECRETO QUE ESTABLECE LAS CAUSAS DEL RETIRO FORZOSO O VOLUNTARIO DE LOS MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 14 DE MARZO DE 1951.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 1963.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 19 de febrero de 1951.
 
@@ -73,11 +71,21 @@ Si se tratare de retiro voluntario se seguirá la misma tramitación señalada e
 
 Aprobado el retiro forzoso o voluntario, el Presidente de la República cubrirá la vacante en la forma prescrita por el artículo 93 constitucional.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 7°
 
-El Ministro de la Suprema Corte de Justicia que obtuviere el retiro forzoso o voluntario, disfrutará de una pensión vitalicia igual al sueldo presupuestal que perciba al ser decretado el retiro. En caso de fallecimiento del pensionista, la pensión se continuará cubriendo durante dos años a la viuda e hijos menores de 21 años.
+El Ministro de la Suprema Corte de Justicia que obtenga su retiro forzoso o voluntario, disfrutará de una pensión equivalente al 100% de su sueldo básico, que se integra con el sueldo presupuestal, sobre sueldo y compensación que perciba y que se cubra con cargo a la partida presupuestal específica denominada "Compensaciones Adicionales por Servicios Especiales".
+
+Al fallecer el Ministro retirado, la pensión que disfrutaba se transmitirá a su esposa e hijos solteros, con cuota equivalente al 80% del total para el primer año, reduciéndose del segundo año en adelante, sucesivamente, un 10%, hasta llegar al 50% del monto de la pensión original.
+
+Al fallecer un Ministro en ejercicio de su función con derecho al retiro voluntario, se otorgará pensión a su viuda e hijos solteros, con la cuota íntegra para el año de la pensión que hubiere correspondido al Ministro reduciéndose del segundo año en adelante, sucesivamente, un 10% hasta llegar a la mitad del monto original.
+
+En ambos casos, las pensiones se cubrirán a partir del día siguiente al del fallecimiento del Ministro y serán disfrutadas por la viuda hasta su muerte y por los hijos hasta cumplir 18 años de edad. Los citados familiares dejarán de tener derecho al beneficio, al contraer matrimonio o al entrar en concubinato.
+
+Cuando algún beneficiario deje de tener derecho a la pensión, su cuota parte acrecerá proporcionalmente a la de los que continúen con derecho al beneficio.
+
+Los familiares del Ministro fallecido, gestionarán, por sí o por medio de representante legítimo, ante el Presidente de la H. Suprema Corte de Justicia de la Nación, el reconocimiento de su derecho, y el Pleno del propio Alto Tribunal emtirá (sic) el dictamen que corresponda, a efecto de que se siga la tramitación señalada en el artículo 4o. de este Ordenamiento
 
 ###### ARTICULO 8°
 
@@ -100,3 +108,15 @@ Quedan derogadas todas las disposiciones que se opongan a la presente Ley.
 Fernando Moctezuma, S. P.- Noé Palomares Navarro, D. V. P.- Ruffo Figueroa Figueroa, S. S.- Edmundo Sánchez Gutiérrez, D. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiocho días del mes de diciembre de mil novecientos cincuenta.- Miguel Alemán.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruíz Cortines.- Rúbrica.- El Subsecretario de Hacienda y Crédito Público, Encargado del Despacho, Rafael Mancera Ortiz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1963.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación y por ningún concepto se dará a la misma efecto retroactivo alguno.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a las contenidas en este decreto.
