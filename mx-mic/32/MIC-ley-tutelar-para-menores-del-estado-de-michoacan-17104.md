@@ -4,7 +4,7 @@ identifier: "MIC-ley-tutelar-para-menores-del-estado-de-michoacan-17104"
 country: "mx"
 rank: "ley"
 publication_date: "1979-08-27"
-last_updated: "1982-07-15"
+last_updated: "2003-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY TUTELAR PARA MENORES DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:15 DE JULIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 27 de agosto de 1979.
 
@@ -635,9 +635,11 @@ En ningún caso y por ningún motivo, alguna medida tutelar se cambiará por una
 
 ### CAPITULO PRIMERO. CENTRO DE OBSERVACION Y ALBERGUES COLECTIVOS
 
+> <small>(REFORMADO, P.O. 14 MARZO DE 2003)</small>
+
 ###### Artículo 89.
 
-Funcionarán en la capital del Estado, según las posibilidades económicas, un centro de observación juvenil y dos albergues colectivos, uno varonil y otro femenil.
+Funcionarán en la capital del estado y en las ciudades cabeceras de Distrito, según las posibilidades económicas, centros de observación juvenil y albergues colectivos. Las instalaciones deberán cumplir todas las disposiciones estatales y federales vigentes en la materia.
 
 ###### Artículo 90.
 
@@ -808,3 +810,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS TORRES MANZO.- EL SECRETARI
 P.O. 15 DE JULIO DE 1982.
 
 UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DEL 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
