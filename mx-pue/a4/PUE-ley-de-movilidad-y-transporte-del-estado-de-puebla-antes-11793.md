@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "1998-03-18"
+last_updated: "1998-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA -- ANTES LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 1998 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE ABRIL DE 1998.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -39,7 +39,9 @@ EL HONORABLE QUINCUAGESIMO TERCER CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOB
 
 CONSIDERANDO
 
-Que en Sesión Pública Ordinaria de esta fecha, Vuestra Soberanía tuvo a bien aprobar el Dictamen con Minuta de Ley del Transporte del Estado de Puebla emitido por las Comisiones Unidas de Gobernación, Justicia y Puntos Constitucionales y de Hacienda Pública y Patrimonio Estatal y Municipal y de Ecología, Prevención, Mejoramiento, Rehabilitación y Protección del Ambiente del H. Congreso del Estado, enviada por el Ejecutivo del Estado.
+> <small>(F. DE E., P.O. 13 DE ABRIL DE 1998)</small>
+
+Que en Sesión Pública Ordinaria de esta fecha, Vuestra Soberanía tuvo a bien aprobar el Dictamen con Minuta de Ley del Transporte para el Estado de Puebla emitido por las Comisiones Unidas de Gobernación, Justicia y Puntos Constitucionales y de Hacienda Pública y Patrimonio Estatal y Municipal y de Ecología, Prevención, Mejoramiento, Rehabilitación y Protección del Ambiente del H. Congreso del Estado, enviada por el Ejecutivo del Estado.
 
 Que la Ley de Vialidad y del Transporte Estatal, fue aprobada mediante Decreto de fecha veintiséis de julio de mil novecientos noventa y publicada en el Periódico Oficial del Estado el día tres de agosto de mil novecientos noventa, estableció las bases y la organización de la Dirección de Tránsito constituyendo, en su momento, un adecuado marco jurídico para la actuación de esa Dependencia.
 
@@ -193,7 +195,9 @@ Siguiendo en este orden de ideas, se cambia la redacción al artículo 82, lo an
 
 También se modifica la redacción del artículo 116, a fin de que sea más claro y preciso, además de que guarde congruencia con el texto del artículo 117 de la Ley en comento.
 
-Resulta de la misma manera importante hacer mención que las Comisiones Unidas de Estudio consideraron necesario modificar diversos dispositivos de la Iniciativa de Ley para el Transporte del Estado de Puebla en las cuales se aportaron valiosas modificaciones, mismas que fueron tomadas con relación a la técnica jurídica y legislativa.
+> <small>(F. DE E., P.O. 13 DE ABRIL DE 1998)</small>
+
+Resulta de la misma manera importante hacer mención que las Comisiones Unidas de Estudio consideraron necesario modificar diversos dispositivos de la Iniciativa de Ley del Transporte para el Estado de Puebla en las cuales se aportaron valiosas modificaciones, mismas que fueron tomadas con relación a la técnica jurídica y legislativa.
 
 Es necesario dejar establecido que las Comisiones Unidas de Trámite Legislativo, al hacer las modificaciones a los dispositivos antes mencionados, fue en virtud de las manifestaciones que se dejaron ver en los diversos Foros de Consulta Popular a que convocaron las mismas Comisiones, por ello, es importante destacar que todas las propuestas se valoraron y estudiaron, y que dieron como resultado estos cambios significativos a la Ley de Transporte para el Estado de Puebla.
 
