@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-comite-ciudadano-de-seguridad-publica-del-15008"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-13"
-last_updated: "2002-03-15"
+last_updated: "2002-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL COMITE CIUDADANO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en la Sección I del Periódico Oficial en el Estado de Baja California, el viernes 13 de agosto de 1999.
 
@@ -133,7 +133,13 @@ XXIII. Realizar labores de seguimiento del cumplimiento de los acuerdos necesari
 
 XXIV. En general coadyuvar con la Dirección en la promoción y desarrollo de sus programas y actividades.
 
-XXV. Las demás emanadas de la Ley y los reglamentos.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2002)</small>
+
+XXV. Velar por que se proporcione información sobre el funcionamiento, programas y proyectos a los Consejeros del Comité que deberán suplirlos.
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2002)</small>
+
+XXVI. Las demás emanadas de la Ley y los Reglamentos.
 
 ###### Artículo 5.
 
@@ -195,11 +201,13 @@ V. No desempeñar ni haber desempeñado cargo de presidente ejecutivo nacional, 
 
 VI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal o su equivalente de algún partido político, en los tres años anteriores a la fecha de su elección.
 
-VII. No haber ocupado cargo de primer o segundo nivel en la administración publica federal, estatal o municipal, durante el año anterior a la fecha de su elección.
+VII. No haber ocupado cargo de primer o segundo nivel en la administración pública federal, estatal o municipal, durante el año anterior a la fecha de su elección.
 
 VIII. No haber sido condenado por delito alguno.
 
-IX. Ser propuesto o designado según el caso, por asociaciones, agrupaciones profesionales y organismos no gubernamentales, empresariales, o instituciones de educación superior, debidamente constituidas y registradas, conforme a las leyes respectivas.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2002)</small>
+
+IX. Ser propuesto por asociaciones, agrupaciones profesionales y organismos no gubernamentales, empresariales, o institucionales de educación superior, debidamente constituídas y registradas, conforme a las leyes respectivas.
 
 X. Cumplir con los demás requisitos que establezcan las bases de la convocatoria, tratándose de los consejeros ciudadanos que se elegirán conforme al procedimiento que establece el articulo 10 del Reglamento.
 
@@ -207,9 +215,13 @@ X. Cumplir con los demás requisitos que establezcan las bases de la convocatori
 
 Para ser Secretario Técnico se deberán cubrir los requisitos señalados en las fracciones I, IV, V, VI, y VIII del artículo 8 del Reglamento.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 10.
 
-Para la elección de los tres consejeros ciudadanos a que hace referencia el artículo 6 Fracción I ultimo párrafo, cada tres años, dentro de los primeros quince días naturales del mes de Febrero del año que corresponda, el Presidente Municipal expedirá una convocatoria pública aprobada por el Ayuntamiento, publicándose en dos diarios de mayor circulación en la localidad. La convocatoria será dirigida a las asociaciones, organismos e instituciones establecidas en el artículo 8 fracción IX del Reglamento a efecto de que por escrito presenten sus propuestas y acrediten el cumplimiento de los requisitos mencionados en el citado artículo.
+Para la elección de los tres Consejeros Ciudadanos a que hace referencia el artículo 6 fracción I último párrafo, cada tres años, dentro de los primeros quince días naturales del mes de febrero del segundo año del período del Ayuntamiento que corresponda, el Presidente Municipal expedirá una convocatoria pública aprobada por el Ayuntamiento, publicándose en dos diarios de mayor circulación de la localidad.
+
+La convocatoria será dirigida a las asociaciones, organismos e instituciones establecidas en el artículo 8 fracción IX del Reglamento, a efecto de que por escrito presenten sus propuestas y acrediten el cumplimiento de los requisitos mencionados en el citado artículo.
 
 ###### Artículo 11.
 
@@ -231,9 +243,11 @@ Realizado el análisis y la evaluación, en un plazo no mayor de quince días na
 
 En el supuesto previsto por el segundo párrafo del artículo 11, adicionalmente se elegirán bajo este procedimiento el número de consejeros propietarios y sustitutos que sean necesarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 13.
 
-El Comité deberá instalarse dentro de los diez días naturales siguientes a la elección de los consejeros ciudadanos. El Presidente Municipal convocará a los consejeros al acto de instalación, donde les tomará protesta y se procederá a la elección del Presidente del mismo.
+El Comité deberá instalarse el último día hábil del mes de mayo del año de la elección de los consejeros ciudadanos. El Presidente Municipal convocará a los consejeros al acto de instalación, donde les tomará protesta y se procederá a la elección del Presidente del mismo.
 
 El Presidente del Comité será electo de entre los Consejeros Ciudadanos, con la aprobación de las dos terceras partes de éstos. La elección será para periodos anuales, pudiendo ser reelecto.
 
@@ -357,9 +371,11 @@ Las inasistencias del Presidente del Comité, deberán ser cubiertas por el cons
 
 Las inasistencias del Secretario Técnico del Comité, serán cubiertas en los términos del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 25.
 
-Semestralmente, el Presidente del Comité, deberá informar sobre los trabajados (sic)realizados por el Comité, asi como los alcances en la ejecución de los acuerdos, enviando copia del mismo al Ayuntamiento.
+El Presidente del Comité, al término de su período deberá informar sobre los trabajos realizados a la comunidad, así como los alcances en la ejecución de los acuerdos, enviando informe por escrito al Ayuntamiento.
 
 ###### Artículo 26.
 
@@ -406,3 +422,13 @@ SECRETARIO DEL XVI AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA.
 P.O. 15 DE MARZO DE 2002.
 
 SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO
+
+Los consejeros ciudadanos del actual Comité, durarán en su cargo hasta que sea instalado el que deberá sustituirlo.
+
+###### ARTICULO SEGUNDO
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
