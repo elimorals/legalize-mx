@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-centenario-hospital-miguel-hidalgo-antes-ley-del-2771"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-20"
-last_updated: "1987-12-20"
+last_updated: "1988-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL HOSPITAL HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 20 de diciembre de 1987.
 
@@ -99,9 +99,11 @@ II.- La Dirección General.
 
 El Hospital Hidalgo contará con un Consejo Técnico y un Patronato como órganos auxiliares de asesoría y apoyo de la Dirección General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 9o.
 
-La Junta de Gobierno estará integrada por un representante del Gobierno del Estado quien fungirá como Presidente, un representante de la Secretaría de Salud que será el Director General del Instituto de Salud del Estado de Aguascalientes, el Rector de la Universidad Autónoma de Aguascalientes y cuatro vocales dentro de las personalidades eminentes de la sociedad hidrocálida, preferentemente profesionales de la medicina y con amplia experiencia en la administración de hospitales o conocimiento y vocación en la prestación de los servicios de salud quienes serán designados por el Gobernador del Estado.
+La Junta de Gobierno estará integrada por el Director General del Instituto de Salud del Estado de Aguascalientes, quien fungirá como Presidente, un representante del Gobierno del Estado, el Rector de la Universidad Autónoma de Aguascalientes y cuatro vocales nombrados por el Gobernador del Estado.
 
 Cada miembro titular designará a quien lo supla en sus ausencias.
 
@@ -292,3 +294,9 @@ Ing. Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE DICIEMBRE DE 1988.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
