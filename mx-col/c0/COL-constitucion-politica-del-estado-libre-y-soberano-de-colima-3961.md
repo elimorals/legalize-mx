@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1967-06-03"
+last_updated: "1970-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1970.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1415,13 +1415,13 @@ II.- Si son extranjeros:
 
 Son ciudadanos colimenses:
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 1954)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1970)</small>
 
-I.- Por nacimiento: los varones y las mujeres nacidos dentro del territorio del Estado de padres mexicanos, o fuera del él, de padres colimenses por nacimiento, desde la edad de diez y ocho años si son casados, o de veintinuno (sic) si no lo son.
+I.- Por nacimiento: los varones y las mujeres nacidos dentro del territorio del Estado, de padres mexicanos; o fuera de él, de padres colimenses por nacimiento, desde la edad de 18 años.
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 1954)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1970)</small>
 
-II.- Por vecindad: los varones y las mujeres nacidos fuera del Territorio del Estado, que sean mexicanos y que tengan el requisito de edad a que se refiere la fracción anterior y una residencia en el Estado no interrumpida de cinco años o más.
+II.- Por vecindad: los varones y las mujeres nacidos fuera del territorio del Estado, que sean mexicanos y que tengan el requisito de edad a que se refiere la fracción anterior y una residencia en el Estado no interrumpida de cinco años o más.
 
 ###### Artículo 11.
 
@@ -1710,3 +1710,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO PRIMERO.
 
 La presente Reforma entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 1970.
+
+UNICO.- Este Decreto surte sus efectos a partir de la fecha de su publicación en el periódico Oficial del Estado.
