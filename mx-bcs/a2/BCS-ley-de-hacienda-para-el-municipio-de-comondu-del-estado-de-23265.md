@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2001-11-05"
+last_updated: "2002-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDU DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -109,7 +109,7 @@ El impuesto sobre la propiedad ejidal se ajustará a las disposiciones relativas
 
 ###### Artículo 8.
 
-El impuesto sobre las plantas de actividades empresariales de índole industrial siendo estas: las que se dedican a la extracción, conservación o transformación de materia prima, acabado de productos y la elaboración de satisfactores a razón de 12 al millar.
+El impuesto sobre las plantas de actividades empresariales de índole industrial siendo estas: las que se dedican a la extracción, conservación o transformación de materia prima, acabado de productos y la elaboración de satisfactores. a razón de 12 al millar.
 
 ###### Artículo 9.
 
@@ -119,9 +119,9 @@ a). A razón del 7.5. al millar anual sobre el valor catastral, de los predios d
 
 b). A razón del 14 al millar sobre el valor catastral, de los predios destinados a uso distinto del de casa-habitación del contribuyente.
 
-c). a razón del 14 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2.6 al millar hasta en tanto no sea construida la edificación. la tasa no excederá de 70 al millar.
+c). a razón del 14 al millar sobre el valor catastral de los predios no edificados o baldíos. incrementándose anualmente en un 2.6 al millar hasta en tanto no sea construida la edificación. la tasa no excederá de 70 al millar.
 
-d). A razón de 14 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta o con reserva de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
+d). A razón de 14 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta o con reserva de dominio. esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
 e). En el caso de los predios donde exista casa habitación y comercio, el contribuyente deberá solicitar ante la dirección de catastro, la subdivisión correspondiente para la aplicación de la tasa según el destino del uso del suelo.
 
@@ -149,7 +149,9 @@ VI. El impuesto predial causado anualmente no podrá ser inferior a un salario m
 
 Están exentos del pago predial, únicamente:
 
-I. los bienes de dominio público de la Federación, Estados y Municipios, en los términos de las leyes correspondientes.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
+
+I. Los bienes de dominio público de la Federación, Estados y Municipios, salvo que sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público, en los términos de las leyes correspondientes.
 
 II. Los bienes a que se refiere el párrafo anterior no quedarán liberados de la obligación de presentar las manifestaciones que establece la ley de catastro.
 
@@ -171,7 +173,7 @@ El impuesto se calculara a la tasa del 2% al valor del inmueble, después de red
 
 En caso de adquisición de casa-habitación de interés social, mediante otorgamiento de créditos de instituciones oficiales o de crédito, el impuesto se calculara aplicando la tasa del 2% al valor del inmueble después de reducirlo en veinte veces el salario mínimo general de la zona elevado al año.
 
-Esta misma disposición se observara para gravar la adquisición de casa habitación de interés social, entre particulares. En ambos casos se estará a lo dispuesto por el último párrafo de este mismo artículo.
+Esta misma disposición se observara para gravar la adquisición de casa habitación de interés social, entre particulares. en ambos casos se estará a lo dispuesto por el último párrafo de este mismo artículo.
 
 En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea directa ascendente o descendente, el impuesto se calculara aplicando la tasa del 1% sobre el valor del avalúo.
 
@@ -181,7 +183,7 @@ Se considera vivienda de interés social aquella que su costo de adquisición no
 
 ###### Artículo 14.
 
-No se causara este impuesto en las adquisiciones de inmuebles del dominio público de la Federación, Estados extranjeros, Estados o los municipios en caso de reciprocidad.
+No se causara este impuesto en las adquisiciones de inmuebles del dominio publico de la Federación, Estados extranjeros, Estados o los municipios en caso de reciprocidad.
 
 ###### Artículo 15.
 
@@ -225,7 +227,7 @@ En los casos de permuta, se considera que se efectúa una adquisición por cada 
 
 ###### Artículo 16.
 
-El valor del inmueble que se considera para los efectos del artículo 13 de esta ley, será la siguiente:
+El valor del inmueble que se considera para los efectos del articulo 13 de esta ley, será la siguiente:
 
 I. El valor más alto entre el estipulado en el contrato, el valor catastral o fiscal o el avalúo comercial pericial. Entendiéndose como avalúo comercial los dictámenes valuatorios practicados por peritos con autorización municipal, los peritajes tendrán una vigencia de 120 días naturales, contados a partir de la fecha de expedición.
 
@@ -249,7 +251,7 @@ II. Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se 
 
 III. Al protocolizarse el reconocimiento de la prescripción positiva.
 
-IV. Al uso de los bienes de la sucesión por parte de los beneficiarios, o a los dos años de la muerte del autor de la misma, si transcurrido ese plazo no se hubiere formalizado la adjudicación. Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte se causará en el momento en que se realice la cesión o la enajenación.
+IV. Al uso de los bienes de la sucesión por parte de los beneficiarios, o a los dos años de la muerte del autor de la misma, si transcurrido ese plazo no se hubiere formalizado la adjudicación. al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte se causará en el momento en que se realice la cesión o la enajenación.
 
 V. En los casos no previstos en las fracciones anteriores cuando los actos de que se trate se eleven a escritura pública o se inscriban en el registro público para poder surtir efectos ante terceros en los términos del derecho común y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
 
@@ -457,7 +459,7 @@ V. Inscripciones de poderes, substitución o revocación de los mismos en forma 
 
 VI. La inscripción de créditos hipotecarios, refaccionario o de habilitación o avío 1.25 al millar.
 
-En los casos que se refiere esta fracción, las cancelaciones causarán pago de derechos, por cada cancelación 3 días salario mínimo.
+en los casos que se refiere esta fracción, las cancelaciones causarán pago de derechos. por cada cancelación 3 días salario mínimo.
 
 VII. La inscripción de las demandas a que se refiere el artículo 63 del reglamento del registro público de la propiedad 10 días salario mínimo.
 
@@ -751,7 +753,7 @@ Consumo mensual únicamente en servicio doméstico 1 día salario mínimo.
 
 b). El usuario pagará el costo del medidor, accesorios, materiales y trabajos extraordinarios por la conexión del servicio de agua potable.
 
-#### SECCION II (SIC). ALCANTARILLADO
+#### SECCION II. ALCANTARILLADO (SIC)
 
 II. El usuario del servicio de alcantarillado estará obligado a pagar de la siguiente manera:
 
@@ -875,7 +877,7 @@ II. En los casos de la construcción de banquetas y guarniciones, los derechos s
 
 III. Cuando se trate de pavimentos, los derechos serán causados en la siguiente forma:
 
-a). Si la pavimentación cubre la totalidad del ancho del arroyo, causaran los derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía publica que se pavimente.
+a). Si la pavimentación cubre la totalidad del ancho del arroyo, causaran los derechos los propietarios o poseedores de los predios ubicados en ambas aceras de la vía pública que se pavimente.
 
 El monto de los derechos se determinara multiplicando la cuota unitaria que corresponda, atendiendo el costo del pavimento construido por el numero de metros lineales comprendidos desde la guarnición de la banqueta hasta el eje del arroyo y el producto por el numero de metros lineales del frente de cada predio.
 
@@ -973,9 +975,9 @@ a). En horas inhábiles, en la oficina 5 días de salario mínimo
 
 b). Fuera de las oficinas 10 días de salario mínimo
 
-c). Registro de matrimonios contraidos por mexicanos fuera de la república 5 días de salario mínimo
+c). Registro de matrimonios contraídos por mexicanos fuera de la república 5 días de salario mínimo
 
-d) registro de matrimonios contraidos por extranjeros fuera la república de 10 días de salario mínimo
+d) registro de matrimonios contraídos por extranjeros fuera la república de 10 días de salario mínimo
 
 III. Divorcios:
 
@@ -1251,9 +1253,11 @@ Por el resello anual se causará el 20% de la tarifa anterior
 
 ### CAPÍTULO DÉCIMO CUARTO. RECOLECCIÓN DE BASURA
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 84.
 
-Es objeto de este derecho el servicio que por recolección de basura presta el ayuntamiento a los establecimientos comerciales, industriales o de prestación de servicios, excepto los que presten los profesionistas en forma personal o bodegas cualquiera que fuera su naturaleza, y los sujetos de estos derechos pagarán en el equivalente a los días de salario mínimo general correspondiente al Estado de Baja California Sur, que se señala en la siguiente
+Es objeto de este derecho, el servicio que por limpia, recolección traslado, tratamiento y disposición de residuos presta el ayuntamiento a los establecimientos comerciales, industriales o de prestación de servicios, excepto los que presten los profesionistas en forma personal o bodegas cualquiera que sea su naturaleza, y los sujetos de estos derechos pagarán en el equivalente a los días de salario mínimo general correspondiente al Estado de Baja California Sur, que se señala en la siguiente
 
 (VEASE TABLA ANEXA)
 
@@ -1311,7 +1315,7 @@ Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrenco
 
 ###### Artículo 91.
 
-Todas las personas con capacidad legal, tienen derecho a solicitar en compra sin perjuicio de terceros, un terreno en propiedad municipal susceptible de ser transmitidos, si la enajenación es procedente, el valor unitario se aplicará conforme al avalúo pericial que en cada caso se practique.
+Todas las personas con capacidad legal, tienen derecho a solicitar en compra sin perjuicio de terceros, un terreno en propiedad municipal susceptible de ser transmitidos (sic), si la enajenación es procedente, el valor unitario se aplicará conforme al avalúo pericial que en cada caso se practique.
 
 Por la expedición de títulos de propiedad, se pagará una cuota equivalente a cinco días salario mínimo.
 
@@ -1569,7 +1573,7 @@ Los causantes sujetos a pagos periódicos presentarán al efectuar cualquier pag
 
 La ocultación de fuentes gravadas por esta ley, que motiven omisión del pago del impuesto o derechos será sancionada hasta con tres tantos al importe de los mismos sin perjuicio de hacer efectivos los créditos fiscales originales.
 
-Las personas que se dediquen a la venta de bienes raíces , notarios públicos, jueces, fraccionadores y en general, quienes directa o indirectamente intervengan en la celebración de contratos o convenios preparatorios o definitivos que impliquen la transmisión de la propiedad de inmuebles, deberán manifestarlo a la autoridad municipal en un plazo de treinta días, de no hacerlo, sin perjuicio de ser solidarios responsables de pago del impuesto y de sus recargos, se les impondrá una sanción hasta de 5 veces el importe de los mismos.
+Las personas que se dediquen a la venta de bienes raíces, notarios públicos, jueces, fraccionadores y en general, quienes directa o indirectamente intervengan en la celebración de contratos o convenios preparatorios o definitivos que impliquen la transmisión de la propiedad de inmuebles, deberán manifestarlo a la autoridad municipal en un plazo de treinta días, de no hacerlo, sin perjuicio de ser solidarios responsables de pago del impuesto y de sus recargos, se les impondrá una sanción hasta de 5 veces el importe de los mismos.
 
 ###### Artículo 125.
 
@@ -1722,3 +1726,15 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92, y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
