@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1979-07-28"
+last_updated: "1979-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE JULIO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1979.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1001,17 +1001,15 @@ XII. Disponer en ningún caso, bajo ningún pretexto, de los bienes considerados
 
 XIII. Conceder licencias para juegos de azar.
 
-> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1977)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 81.
 
-Para el despacho de los negocios que esta Constitución encomienda al Ejecutivo, habrá un Secretario General de Gobierno, quien tendrá las facultades y obligaciones que le confieren esta Constitución y la Ley Orgánica del Poder Ejecutivo del Estado.
+Para el Despacho de los negocios que esta Constitución encomienda al Ejecutivo habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones que le confieren esta Constitución y la Ley Orgánica del Poder Ejecutivo del Estado. Para ocupar este cargo, son necesarios los mismos requisitos que para ser Gobernador.
 
-Para ocupar este cargo, son necesarios los mismos requisitos que para ser Gobernador.
+Además habrá un Subsecretario de Gobierno, quien auxiliará en sus funciones y suplirá en sus ausencias temporales al Secretario de Gobierno y tendrá las facultades y obligaciones que les señale la Ley Orgánica del Poder Ejecutivo.
 
-Además, habrá un Subsecretario de Gobierno, quien auxiliará en sus funciones y suplirá en sus ausencias temporales al Secretario General de Gobierno y tendrá las facultades y obligaciones que le señale la Ley Orgánica del Poder Ejecutivo del Estado.
-
-Además de los funcionarios anteriores y los que establezca esta Constitución, habrá el número de funcionarios y dependencias que señalen la Ley Orgánica del Poder Ejecutivo y el Presupuesto de Egresos.
+Además de los funcionarios anteriores y los que establezca esta Constitución, habrá el número de Secretarías funcionarios y dependencias, que señalen la Ley Orgánica del Poder Ejecutivo y los demás órganos y unidades administrativas que la administración requiera.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -2046,6 +2044,10 @@ UNICO.- La presente ley entrará en vigor tres días después de la fecha de su 
 B.O. 28 DE JULIO DE 1979.
 
 UNICO.- La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 10 DE DICIEMBRE DE 1979.
+
+UNICO.- La presente ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
