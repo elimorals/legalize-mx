@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1958-12-04"
+last_updated: "1959-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1959.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -1451,11 +1451,11 @@ Cuando el auto contra el cual se haya admitido el recurso de apelación en ambos
 
 En los autos que queden en el tribunal no podrá nunca dictarse resolución alguna que modifique, revoque o en otra forma afecte lo acordado en la resolución apelada, entre tanto que el recurso este pendiente, para lo cual se dejará copia de ella.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1958)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1959)</small>
 
 ###### Art. 243.
 
-Sólo son apelables las sentencias que recaigan en negocios cuyo valor exceda de dos mil pesos y en aquellos cuyo interés no sea susceptible de valuarse en dinero.
+Sólo son apelables las sentencias que recaigan en negocios cuyo valor exceda de DOS MIL PESOS y en aquellos cuyo interés no sea susceptible de valuarse en dinero.
 
 ###### Art. 244.
 
@@ -4484,3 +4484,7 @@ P.O. 4 DE DICIEMBRE DE 1958
 Primero.- Los jueces de partido seguirán conociendo de los negocios que al entrar en vigor este decreto hayan sido de su competencia, si ya se hubiere admitido la demanda o promoción inicial o se hubiere hecho la consignación correspondiente y las sentencias que recaigan en los mismos serán apelables de conformidad con el artículo 243 del Código de Procedimientos Civiles y el 368, fracción I, del Código de Procedimientos Penales, antes de entrar en vigor la reforma.
 
 Segundo.- Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 1959.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
