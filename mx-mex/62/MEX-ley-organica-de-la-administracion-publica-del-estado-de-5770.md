@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "1991-12-24"
+last_updated: "1992-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE OCTUBRE DE 1992.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -65,9 +65,11 @@ El Gobernador del Estado podrá convenir con el Ejecutivo Federal, con otras ent
 
 El Gobernador del Estado designará las dependencias del Ejecutivo Estatal que deberán coordinarse, tanto con las dependencias y entidades de la Administración Pública Federal, como con las administraciones municipales.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 ###### Artículo 7.
 
-Todas las Leyes, Decretos, Reglamentos y demás disposiciones que el Gobernador promulgue o expida, para que sean obligatorias, deberán estar refrendadas por el Secretario de Gobierno y por el encargado del ramo al que el asunto corresponda; sin estos requisitos no surtirán ningún efecto legal.
+Todas las leyes, decretos, reglamentos y demás disposiciones que el Gobernador promulgue o expida, para que sean obligatorias, deberán estar refrendadas por el SECRETARIO GENERAL DE GOBIERNO; sin este requisito no surtirán ningún efecto legal.
 
 ###### Artículo 8.
 
@@ -77,23 +79,21 @@ El Gobernador del Estado expedirá los Reglamentos Interiores, los Acuerdos, Cir
 
 El Gobernador del Estado podrá nombrar y remover libremente a los funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política o en las Leyes del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 ###### Artículo 10.
 
-Para ser titular de las dependencias del Ejecutivo a que se refiere esta Ley, se requiere:
-
-I.- Ser ciudadano mexicano en pleno goce de sus derechos políticos, y
-
-II.- Ser mayor de veintiun años.
-
-El Secretario de Gobierno, los Subsecretarios y el Procurador General de Justicia deberán cumplir los requisitos que para ocupar dichos cargos establece la Constitución Política del Estado.
+Para ser titular de las dependencias del Ejecutivo a que se refiere esta ley, Procurador General de Justicia o Subsecretario, se requiere cumplir con los requisitos que establece la Constitución Política del Estado.
 
 ###### Artículo 11.
 
 Los titulares de las dependencias a que se refiere esta Ley, no podrán desempeñar ningún otro puesto, empleo, cargo o comisión, salvo los relacionados con la docencia y aquéllos que, por estar directamente relacionados con las funciones que les correspondan, sean expresamente autorizados por el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 ###### Artículo 12.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, resolverá cualquier duda sobre la competencia de las dependencias a que se refiere esta Ley.
+El Ejecutivo del Estado por conducto de la SECRETARIA GENERAL DE GOBIERNO, resolverá cualquier duda sobre la competencia de las dependencias a que se refiere esta ley.
 
 ### CAPITULO SEGUNDO. De las Dependencias del Ejecutivo
 
@@ -105,19 +105,21 @@ Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el a
 
 Las dependencias del Ejecutivo, estarán obligadas a coordinar entre sí sus actividades y a proporcionarse la información necesaria cuando el ejercicio de las funciones así lo requiera.
 
-> <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 15.
 
-Al frente de cada Secretaría habrá un Titular a quien se denomina Secretario, que se auxiliará de los Subsecretarios, Directores, Subdirectores, Jefes de Unidad, Jefes de Departamento y demás Servidores Públicos que establezcan los reglamentos y otras disposiciones legales. Tendrán las atribuciones que se señalen en esos ordenamientos y las que les asignen el Gobernador y el Secretario del que dependan, las que en ningún caso podrán ser aquellas que la Constitución, las Leyes y los Reglamentos dispongan que deban ser ejercidas directamente por los Titulares.
+Al frente de la SECRETARIA GENERAL DE GOBIERNO y de cada Secretaría, habrá un titular a quien se denomina SECRETARIO GENERAL y Secretario respectivamente quienes se auxiliarán de los Subsecretarios, Directores, Subdirectores, Jefes de Unidad, Jefes de Departamento y demás servidores públicos que establezcan los Reglamentos y otras disposiciones legales. Tendrán las atribuciones que se señalen en esos ordenamientos y las que les asigne el Gobernador y el titular del que dependan, las que en ningún caso podrán ser aquellas que la Constitución, las Leyes y los Reglamentos dispongan que deban ser ejercidas directamente por los titulares.
 
 ###### Artículo 16.
 
 Para la eficaz atención y eficiente despacho de los asuntos de su competencia, las dependencias del Ejecutivo podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 ###### Artículo 17.
 
-Los titulares de las dependencias del Ejecutivo, formularán proyectos de Ley, Reglamentos, Decretos y Acuerdos de las materias que correspondan a su competencia y las remitirán al Ejecutivo a través de la Secretaria de Gobierno.
+Los titulares de las dependencias del Ejecutivo, formularán proyectos de Ley, Reglamentos, Decretos y Acuerdos de las materias que correspondan a su competencia y las remitirán al Ejecutivo a través del SECRETARIO GENERAL DE GOBIERNO. Estarán facultados para celebrar contratos sobre materia de su competencia y suscribir convenios por acuerdo del Ejecutivo.
 
 ###### Artículo 18.
 
@@ -131,7 +133,9 @@ Dependencias del Ejecutivo
 
 Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de la Administración Pública del Estado, auxiliarán al Titular del Ejecutivo, las siguientes dependencias:
 
-I. Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+I. Secretaría General de Gobierno.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
 
@@ -139,7 +143,9 @@ II. Secretaría de Finanzas y Planeación.
 
 III. (DEROGADA, P.O. 11 DE OCTUBRE DE 1989)
 
-IV. Secretaría del Trabajo;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+IV. Secretaría del Trabajo y de la Previsión Social.
 
 V. Secretaría de Educación, Cultura y Bienestar Social;
 
@@ -165,29 +171,49 @@ XII. Secretaría de Ecología.
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
-Las dependencias a que se refiere este Artículo, tendrán igual rango y entre ellas no habrá preeminencia alguna.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+Las Secretarías a que se refieren las fracciones II a XII de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 20.
 
-La Secretaría de Gobierno es el órgano encargado de conducir, por delegación del Ejecutivo, la política interna del Estado.
+La SECRETARIA GENERAL DE GOBIERNO es el órgano encargado de conducir, por delegación del Ejecutivo, la política interior del Estado y la coordinación y supervisión del despacho de los asuntos encomendados a las demás dependencias a que se refiere el artículo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 21.
 
-A la Secretaría de Gobierno corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, el despacho de los siguientes asuntos:
+A la SECRETARIA GENERAL DE GOBIERNO corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, el despacho de los siguientes asuntos:
 
-I. Conducir las relaciones del Poder Ejecutivo con los otros poderes del Estado y con los Ayuntamientos de la entidad.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+I. Conducir las relaciones del Poder Ejecutivo con los demás Poderes y con los Ayuntamientos del Estado, así como con las autoridades de otras entidades federativas.
 
 II. Conducir por delegación del Ejecutivo los asuntos de orden político interno.
 
-III. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones del Gobierno del Estado que no sean de la competencia exclusiva de otra dependencia.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+III. Cumplir y hacer cumplir las políticas, los acuerdos, las órdenes, las circulares y demás disposiciones del Ejecutivo del Estado.
 
 IV. Ser el conducto para presentar ante la Legislatura del Estado las iniciativas de Ley o Decreto del Ejecutivo, así como publicar las Leyes, Reglamentos y demás disposiciones jurídicas que deban regir en el Estado.
 
 V. Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los magistrados del Tribunal Superior de Justicia.
 
-VI. Otorgar a los Tribunales y a las autoridades judiciales el auxilio que soliciten para el debido ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+VI. Otorgar a los Tribunales, a las autoridades judiciales y en general, a las dependencias públicas, el auxilio necesario para el debido ejercicio de sus funciones y para el cumplimiento de sus determinaciones.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+VI Bis. Apoyar a las demás dependencias del Ejecutivo en el cumplimiento de sus atribuciones.
 
 VII. Llevar el registro de autógrafos, legalizar y certificar las firmas de los funcionarios estatales, de los presidentes y secretarios municipales y de los demás funcionarios, a quienes esté encomendada la fe pública.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+VII Bis. Planear y ejecutar las políticas Estatales en materia de población.
 
 VIII. Vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y sus Municipios.
 
@@ -205,7 +231,7 @@ XIV. Tramitar los recursos administrativos que competa resolver al Gobernador de
 
 XV. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado.
 
-XVI. Proponer al Gobernador del Estado y ejecutar los programas relativos a la protección de los habitantes, al orden público y la prevención de delitos.
+XVI. Proponer al Gobernador del Estado y ejecutar los programas relativos a la protección de los habitantes al orden público y la prevención de delitos.
 
 XVII. Velar por la protección de los habitantes, el orden público y la prevención de delitos.
 
@@ -323,15 +349,19 @@ XXXIII. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado
 
 ###### Artículo 26.
 
-(DEROGADO, P.O. 11 DE OCTUBRE DE 1989)
+(DEROGADA, P.O. 11 DE OCTUBRE DE 1989)
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 27.
 
-La Secretaría del Trabajo es el órgano encargado de ejercer las atribuciones que en materia de trabajo corresponden al Ejecutivo del Estado.
+La Secretaría del Trabajo y de la Previsión Social, es el órgano encargado de ejercer las atribuciones que en materia de trabajo corresponden al Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 28.
 
-A la Secretaría del Trabajo corresponde el despacho de los siguientes asuntos:
+A la Secretaría del Trabajo y de la Previsión Social, corresponde el despacho de los siguientes asuntos:
 
 I. Ejercer las funciones que en materia de trabajo correspondan al ejecutivo del Estado.
 
@@ -345,7 +375,9 @@ V. Desahogar consultas sobre la interpretación de las normas de la Ley Federal 
 
 VI. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo.
 
-VII. Mediar, a petición de parte, en los conflictos que surjan por violación a la Ley o a los contratos colectivos de trabajo.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+VII. Mediar y conciliar, a petición de parte en los conflictos que surjan por presuntas violaciones a la Ley o a los contratos colectivos de trabajo;
 
 VIII. Visitar los centros de trabajo para constatar que se cumpla con las condiciones que establece la Ley Federal del Trabajo y normas que de ella se deriven.
 
@@ -359,49 +391,89 @@ XII. Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que l
 
 XIII. Formular y ejecutar programas de difusión de los cambios que se den en las normas laborales.
 
-XIV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+XIV. Imponer las sanciones establecidas en el título Dieciséis de la Ley Federal del Trabajo en el ámbito de su competencia.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+XV. Organizar y operar el servicio estatal de empleo.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+XVI. Promover y apoyar el incremento de la calidad y la productividad.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+XVII. Fomentar y apoyar la organización social para el trabajo y el autoempleo.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+XVIII. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
+XIX. Las demás que señalen las leyes y reglamentos vigentes.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 29.
 
-La Secretaría de Educación, Cultura y Bienestar Social es el órgano encargado de promover la superación cultural y el bienestar de la población.
+La Secretaría de Educación, Cultura y Bienestar Social, es el órgano encargado de fijar y ejecutar la política educativa, cultural y de bienestar social en la Entidad.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 30.
 
 A la Secretaría de Educación, Cultura y Bienestar Social, corresponde el despacho de los siguientes asuntos:
 
-I. Formular la política de desarrollo cultural y bienestar social del Gobierno del Estado.
+I. Formular, en el ámbito que compete al Estado, la política educativa, así como la de desarrollo cultural, bienestar social y deporte.
 
-II. Planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno Estatal y de los particulares en todos los tipos, niveles y modalidades, en términos de la legislación correspondiente.
+II. Planear, organizar, desarrollar, vigilar y evaluar los servicios educativos que dependen del Gobierno del Estado o sus organismos descentralizados con apego a la legislación federal y estatal vigentes.
 
-III. Elaborar y, en su caso, ejecutar los convenios de coordinación que en materia educativa celebre el Estado con el Gobierno Federal y los Municipios.
+III. Planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno Federal y de los particulares en todos los tipos, niveles y modalidades, en términos de la legislación correspondiente.
 
-IV. Representar al Gobierno del Estado ante todo tipo de organismos educativos.
+IV. Vigilar el cumplimiento de las disposiciones jurídicas, políticas y planes del sector.
 
-V. Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparta en el Estado, en los términos de la ley de la materia.
+V. Crear y mantener las escuelas oficiales que dependan directamente del Gobierno del Estado y autorizar la creación de las que forman parte de sus organismos descentralizados, con excepción de las instituciones de educación superior autónomas.
 
-VI. Llevar el registro y control de los profesionistas que ejerzan en el Estado y organizar el servicio social en la entidad.
+VI. Formular los contenidos regionales de los planes y programas de estudio de educación básica
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1987)</small>
+VII. Elaborar y, en su caso, ejecutar los convenios de coordinación que en materia educativa, cultural, de bienestar social, o deportiva celebre el Estado con el Gobierno Federal y los Municipios.
 
-VII. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura, museos y orientar sus actividades, así como organizar y dirigir el Archivo Histórico del Estado.
+VIII. Representar al Gobierno del Estado ante todo tipo de organismos educativos.
 
-VIII. Impulsar las actividades de difusión y fomento cultural.
+IX. Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparta en el Estado y organizar el servicio social.
 
-IX. Mantener por sí o en coordinación con los Gobiernos Federal y Municipal, programas permanentes de educación para adultos, de alfabetización y demás programas especiales.
-
-X. Fomentar y vigilar el desarrollo de la investigación científica y tecnológica de la entidad.
+X. Mantener por sí, o en coordinación con los gobiernos Federal y Municipal, programas permanentes de educación para adultos, de alfabetización, y demás programas especiales.
 
 XI. Promover, coordinar y fomentar los programas de educación para la salud y mejoramiento del ambiente aprobados para el Estado.
 
-XII. Administrar los asilos e instituciones de beneficencia pública del Gobierno del Estado y vigilar que los particulares cumplan con los propósitos para los que fueron creados.
+XII. Desarrollar por sí, o en coordinación con otras instancias competentes programas de atención a indígenas.
 
-XIII. Coordinar con las autoridades competentes la realización de campañas para prevenir y atacar la drogadicción y el alcoholismo.
+XIII. Vigilar la realización de los actos cívicos escolares de acuerdo con el calendario oficial.
 
-XIV. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en el Estado, así como la participación del Estado en torneos y juntas deportivas nacionales y extranjeras.
+XIV. Otorgar becas de conformidad con las disposiciones legales aplicables.
 
-XV. Vigilar la realización de los actos cívicos escolares, de acuerdo con el calendario oficial.
+XV. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura, museos y orientar sus actividades.
 
-XVI. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XVI. Fomentar y vigilar el desarrollo de la investigación científica y tecnológica de la entidad y promover la creación de centros de investigación, laboratorios, observatorios y, en general, la infraestructura que requiera la educación formal, la investigación científica y el desarrollo tecnológico.
+
+XVII. Impulsar las actividades de difusión y fomento cultural y la educación artística.
+
+XVIII. Mantener al corriente el escalafón del magisterio y crear un sistema de estímulos y recompensas a la labor docente.
+
+XIX. Administrar los asilos e instituciones de beneficencia pública del Gobierno del Estado.
+
+XX. Coordinar con las autoridades competentes la realización de campañas para prevenir y atacar la farmacodependencia y el alcoholismo.
+
+XXI. Proteger, mantener y acrecentar el patrimonio artístico e histórico de la entidad.
+
+XXII. Establecer los criterios educativos y culturales en la producción radiofónica y televisiva del Gobierno del Estado.
+
+XXIII. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en el Estado, así como la participación en torneos y justas deportivas nacionales y extranjeras.
+
+XXIV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
 
@@ -912,3 +984,11 @@ Los asuntos que al entrar en vigor este Decreto se encuentren en trámite, se co
 ###### ARTICULO SEXTO.
 
 El Ejecutivo del Estado expedirá dentro del término de 90 días a partir de la vigencia de este Decreto, los reglamentos interiores a que se refiere el Artículo 15.
+
+P.O. 19 DE OCTUBRE DE 1992
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+SEGUNDO.- Cuando en algún ordenamiento legal se mencione Secretaría de Gobierno o Secretario de Gobierno, se entenderá como SECRETARIA GENERAL DE GOBIERNO o SECRETARIO GENERAL DE GOBIERNO, respectivamente.
+
+TERCERO.- Cuando en otros ordenamientos legales se haga referencia a la Secretaría del Trabajo, se entenderá que se trata de la SECRETARIA DEL TRABAJO Y DE LA PREVISION SOCIAL.
