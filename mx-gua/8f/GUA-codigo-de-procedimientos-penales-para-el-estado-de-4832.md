@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1999-06-18"
+last_updated: "2000-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DEL 2000.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -1041,21 +1041,43 @@ I.- Cuando apareciere plenamente comprobado en autos que se está en alguno de l
 
 II.- Cuando durante el procedimiento judicial aparezca plenamente comprobado en autos que el inculpado no ha tenido participación en el delito que se persigue, o que existe en su favor alguna circunstancia eximente de responsabilidad, pero solamente por lo que se refiere a quienes se encuentren en estas circunstancias.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DEL 2000)</small>
+
 ###### Art. 130.
 
-Las resoluciones que se dicten en los casos a que se refieren los dos artículos anteriores, producirán el efecto de impedir definitivamente el ejercicio de la acción penal respecto de los hechos que las motiven.
+Las resoluciones que se dicten en los casos a que se refieren los dos artículos anteriores, podrán ser impugnadas por el denunciante, el querellante, el ofendido o quien tenga derecho a la reparación del daño en los términos siguientes:
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1991)</small>
+I.- En contra del no ejercicio de la acción penal, el recurso se interpondrá expresándose los agravios correspondientes, ante el Ministerio Público, quien deberá remitirlo al juez competente dentro de los tres días siguientes al de su interposición, acompañándolo del expediente que contenga la averiguación previa;
+
+II.- La impugnación en contra del desistimiento de la acción penal, se hará valer ante el juez que conozca del asunto, quien deberá remitirla al juez competente dentro de los tres días siguientes al de su interposición, acompañándola de los agravios expresados, así como del original del proceso;
+
+III.- El plazo para interponer el recurso a que se refieren las fracciones anteriores, será de cinco días contados a partir del día siguiente de la fecha de notificación de la resolución impugnada;
+
+IV.- Conocerá del recurso el juez que corresponda por razón de turno, dentro de los que resultarían competentes para conocer del juicio, tomando en cuenta que quien haya conocido del recurso no podrá conocer de la causa. En los partidos judiciales en los que haya únicamente un juez competente, conocerá del recurso el de igual categoría del partido judicial más próximo;
+
+V.- Recibido el expediente de la averiguación previa o el original del proceso y el escrito de agravios correspondiente, el juez competente sin más trámite, resolverá en un plazo de diez días, confirmando o revocando la resolución impugnada;
+
+VI.- Notificada la resolución al recurrente y al Ministerio Público, se devolverán los autos a su origen;
+
+VII.- Las resoluciones que se dicten no admitirán recurso alguno.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DEL 2000)</small>
 
 ###### Art. 131.
 
-Para que el desistimiento de la acción penal produzca el efecto señalado en el artículo anterior, deberá ser formulado expresamente, y se estará al procedimiento previsto en los artículos 282 y 283 de este Código.
+En los casos de los artículos 128 y 129 de este Código, no podrá ejercerse acción penal, ni continuar con el procedimiento, en su caso, cuando:
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1999)</small>
+I.- Concluido el plazo señalado para interponer el recurso previsto en el artículo anterior, no se haya interpuesto; o
+
+II.- El juez competente al resolver el recurso, confirme el no ejercicio o desistimiento de la acción penal.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DEL 2000)</small>
 
 ###### Art. 132.
 
-La persona ofendida por un delito no es parte en el procedimiento penal; pero podrá coadyuvar con el Ministerio Público proporcionándole, por sí o por apoderado, todos los datos que tenga y que conduzcan a comprobar la existencia del cuerpo del delito, la responsabilidad del inculpado, así como la procedencia y monto de la reparación del daño, para que, si lo estima pertinente, en ejercicio de la acción penal los ministre a los Tribunales. También tendrá derecho a recibir del Ministerio Público asesoría jurídica e información del desarrollo de la averiguación previa o del proceso, cuando lo solicite, así como a los demás derechos que la ley le conceda.
+El denunciante, el querellante, el ofendido o quien tenga derecho a la reparación del daño, no es parte en el procedimiento penal, pero podrá coadyuvar con el Ministerio Público proporcionándole por sí o por apoderado, todos los datos que tenga y que conduzcan a comprobar la existencia del cuerpo del delito, la responsabilidad del inculpado, así como la procedencia y monto de la reparación del daño, para que si lo estima pertinente, en ejercicio de la acción penal los aporte a los tribunales. También tendrá derecho a recibir del Ministerio Público, asesoría jurídica e información del desarrollo de la averiguación previa o del proceso, cuando lo solicite, así como a los demás derechos que la Ley le conceda.
+
+El Ministerio Público deberá notificarle personalmente las determinaciones sobre el ejercicio, no ejercicio o el desistimiento de la acción penal.
 
 ## TITULO CUARTO.
 
@@ -3994,3 +4016,7 @@ El presente decreto entrará en vigor el cuarto día siguiente al de su publicac
 ###### ARTICULO SEGUNDO.
 
 Para los efectos de los artículos reformados, los asuntos que se encuentren en trámite al momento de entrar en vigor el presente decreto, continuarán substanciándose ante el tribunal que esté conociendo de los mismos.
+
+P.O. 17 DE NOVIEMBRE DEL 2000.
+
+Artículo Único.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
