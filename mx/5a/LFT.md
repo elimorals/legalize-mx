@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1975-12-31"
+last_updated: "1976-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 1976.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -251,6 +251,10 @@ a) Los requisitos señalados en el artículo 25.
 b) Los gastos de transporte, repatriación, traslado hasta el lugar de origen y alimentación del trabajador y de su familia, en su caso, y todos los que se originen por el paso de las fronteras y cumplimiento de las disposiciones sobre migración, o por cualquier otro concepto semejante, serán por cuenta exclusiva del patrón. El trabajador percibirá íntegro el salario que le corresponda, sin que pueda descontarse cantidad alguna por esos conceptos.
 
 c) El trabajador tendrá derecho a las prestaciones que otorguen las instituciones de seguridad y previsión social a los extranjeros en el país al que vaya a prestar sus servicios. En todo caso, tendrá derecho a ser indemnizado por los riesgos de trabajo con una cantidad igual a la que señala esta Ley, por lo menos;
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 1976)</small>
+
+d) Tendrá derecho a disfrutar, en el centro de trabajo o en lugar cercano, mediante arrendamiento o cualquier otra forma, de vivienda decorosa e higiénica;
 
 II. El patrón señalará domicilio dentro de la República para todos los efectos legales;
 
@@ -584,7 +588,7 @@ Los trabajadores que presten servicio en día domingo tendrán derecho a una pri
 
 ###### Artículo 72.
 
-Cuando el trabajador no preste sus servicios durante todos los días de trabajo de la semana, o cuando en el mismo día o en la misma semana preste servicios a varios patrones, tendrá derecho a que se le pague la parte proporcional del salario de los días de descanso, calculada sobre el salario de los días en que hubiese trabajado o sobre el que hubiese percibido de cada patrón.
+Cuando el trabajador no preste sus servicios durante todos los días de trabajo de la semana, o cuando en el mismo día o en la misma semana preste sus servicios a varios patrones, tendrá derecho a que se le pague la parte proporcional del salario de los días de descanso, calculada sobre el salario de los días en que hubiese trabajado o sobre el que hubiese percibido de cada patrón.
 
 ###### Artículo 73.
 
@@ -746,9 +750,9 @@ II. Pago de rentas a que se refiere el artículo 151. Este descuento no podrá e
 
 III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda, destinados a la adquisición, construcción, reparación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
 
-> <small>(ADICIONADA, D.O.F. 9 DE ENERO DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 1976)</small>
 
-IV.- Pago de abonos para cubrir créditos garantizados por el Fondo a que se refiere el artículo 103-bis de esta Ley, destinados a la adquisición de bienes de consumo duradero o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del 10% del salario.
+IV.- Pago de abonos para cubrir créditos otorgados o garantizados por el Fondo a que se refiere el artículo 103 Bis de esta Ley, destinados a la adquisición de bienes de consumo duradero o al pago de servicios. Estos descuentos estarán precedidos de la aceptación que libremente haya hecho el trabajador y no podrán exceder del 10% del salario.
 
 ### CAPITULO VII. Normas Protectoras y Privilegios del Salario
 
@@ -788,11 +792,11 @@ III. Las modificaciones en los precios se sujetarán a lo dispuesto en la fracci
 
 IV. En el convenio se determinará la participación que corresponda a los trabajadores en la administración y vigilancia del almacén o tienda.
 
-> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 1976)</small>
 
 ###### Artículo 103
 
-bis. El Ejecutivo Federal, reglamentará la forma y términos en que se establecerá un Fondo de Fomento y Garantía para el Consumo de los Trabajadores, que otorgará financiamiento para la operación de los almacenes y tiendas a que se refiere el artículo anterior y garantizará, asimismo, créditos institucionales, baratos y oportunos, para la adquisición de bienes y el pago de servicios por parte de los trabajadores.
+bis. El Ejecutivo Federal reglamentará la forma y términos en que se establecerá el fondo de fomento y garantía para el consumo de los trabajadores, que otorgará financiamiento para la operación de los almacenes y tiendas a que se refiere el artículo anterior y, asimismo, gestionará de otras instituciones, para conceder y garantizar, créditos baratos y oportunos para la adquisición de bienes y pago de servicios por parte de los trabajadores.
 
 ###### Artículo 104.
 
@@ -904,9 +908,17 @@ II. Dentro de los treinta días siguientes, el sindicato titular del contrato co
 
 III. La resolución definitiva dictada por la misma Secretaría no podrá ser recurrida por los trabajadores.
 
+> <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 1976)</small>
+
+IV. Dentro de los treinta días siguientes a la resolución dictada por la Secretaría de Hacienda y Crédito Público, el patrón dará cumplimiento a la misma independientemente de que la impugne. Si como resultado de la impugnación variara a su favor el sentido de la resolución, los pagos hechos podrán deducirse de las utilidades correspondientes a los trabajadores en el siguiente ejercicio.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 1976)</small>
+
 ###### Artículo 122.
 
-El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los sesenta días siguientes a la fecha en que deba pagarse el impuesto anual. Si la Secretaría de Hacienda y Crédito Público aumenta posteriormente el monto de la utilidad gravable, se hará un reparto adicional.
+El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los sesenta días siguientes a la fecha en que deba pagarse el impuesto anual, aun cuando esté en trámite (sic) objeción de los trabajadores.
+
+Cuando la Secretaría de Hacienda y Crédito Público aumente el monto de la utilidad gravable, sin haber mediado objeción de los trabajadores o haber sido ésta resuelta, el reparto adicional se hará dentro de los sesenta días siguientes a la fecha en que se notifique la resolución. Sólo en el caso de que ésta fuera impugnada por el patrón, se suspenderá el pago del reparto adicional hasta que la resolución quede firme, garantizándose el interés de los trabajadores.
 
 El importe de las utilidades no reclamadas en el año en que sean exigibles, se agregará a la utilidad repartible del año siguiente.
 
@@ -954,7 +966,9 @@ El derecho de los trabajadores a participar en el reparto de utilidades se ajust
 
 I. Los directores, administradores y gerentes generales de las empresas no participarán en las utilidades;
 
-II. Los demás trabajadores de confianza participarán en las utilidades de las empresas, pero si el salario que perciben es mayor del que corresponda al trabajador de planta de más alto salario dentro de la empresa, se considerará este salario, aumentado en un veinte por ciento, como salario máximo;
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 1976)</small>
+
+II. Los demás trabajadores de confianza participarán en las utilidades de las empresas, pero si el salario que perciben es mayor del que corresponda al trabajador sindicalizado de más alto salario dentro de la empresa, o a falta de éste al trabajador de planta con la misma característica, se considerará este salario aumentado en un veinte por ciento, como salario máximo.
 
 III. El monto de la participación de los trabajadores al servicio de personas cuyos ingresos deriven exclusivamente de su trabajo, y el de los que se dediquen al cuidado de bienes que produzcan rentas o al cobro de créditos y sus intereses, no podrá exceder de un mes de salario;
 
@@ -1278,13 +1292,15 @@ Las empresas tendrán derecho a ejercitar ante las Juntas de Conciliación y Arb
 
 ### CAPITULO IV. Derechos de Preferencia, Antigüedad y Ascenso
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 1976)</small>
 
 ### CAPITULO V. Invenciones de los Trabajadores
 
 ###### Artículo 154.
 
-Si no existe contrato colectivo o el celebrado no contiene la cláusula de admisión a que se refiere el párrafo primero del artículo 395, los patrones estarán obligados a preferir en igualdad de circunstancias a los trabajadores mexicanos respecto de quienes no lo sean, a quienes les hayan servido satisfactoriamente por mayor tiempo, a quienes no teniendo ninguna otra fuente de ingreso económico tengan a su cargo una familia y a los sindicalizados respecto de quienes no lo estén.
+Los patrones estarán obligados a preferir en igualdad de circunstancias a los trabajadores mexicanos respecto de quienes no lo sean, a quienes les hayan servido satisfactoriamente por mayor tiempo, a quienes no teniendo ninguna otra fuente de ingreso económico tengan a su cargo una familia y a los sindicalizados respecto de quienes no lo estén.
+
+Si existe contrato colectivo y éste contiene cláusula de admisión, la preferencia para ocupar las vacantes o puestos de nueva creación se regirá por lo que disponga el contrato colectivo y el estatuto sindical.
 
 Se entiende por sindicalizado a todo trabajador que se encuentre agremiado a cualquier organización sindical legalmente constituida.
 
@@ -1294,9 +1310,11 @@ Se entiende por sindicalizado a todo trabajador que se encuentre agremiado a cua
 
 Los trabajadores que se encuentren en los casos del artículo anterior y que aspiren a un puesto vacante o de nueva creación, deberán presentar una solicitud a la empresa o establecimiento indicando su domicilio y nacionalidad, si tienen a su cargo una familia y quienes dependen económicamente de ellos si prestaron servicio con anterioridad y por qué tiempo, la naturaleza del trabajo que desempeñaron y la denominación del sindicato a que pertenezcan, a fin de que sean llamados al ocurrir alguna vacante o crearse algún puesto nuevo; o presentarse a la empresa o establecimiento al momento de ocurrir la vacante o de crearse el puesto, comprobando la causa en que funden su solicitud.
 
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 1976)</small>
+
 ###### Artículo 156.
 
-Las disposiciones contenidas en el artículo 154 se aplican a los trabajadores que habitualmente, sin tener el carácter de trabajadores de planta, prestan servicios en una empresa o establecimiento supliendo las vacantes transitorias o temporales y a los que desempeñen trabajos extraordinarios o para obra determinada que no constituyan una actividad normal o permanente de la empresa.
+De no existir contrato colectivo o no contener el celebrado la cláusula de admisión, serán aplicables las disposiciones contenidas en el primer párrafo del artículo 154, a los trabajadores que habitualmente, sin tener el carácter de trabajadores de planta, prestan servicios en una empresa o establecimiento, supliendo las vacantes transitorias o temporales y a los que desempeñen trabajos extraordinarios o para obra determinada, que no constituyan una actividad normal o permanente de la empresa.
 
 ###### Artículo 157.
 
@@ -2710,7 +2728,7 @@ V. De oficios varios, los formados por trabajadores de diversas profesiones. Est
 
 Los sindicatos de patrones pueden ser:
 
-I. Los formados por patrones de una o varias ramas de actividades; y
+l. Los formados por patrones de una o varias ramas de actividades; y
 
 II. Nacionales, los formados por patrones de una o varias ramas de actividades de distintas Entidades Federativas.
 
@@ -4832,9 +4850,13 @@ I. Procurar un arreglo conciliatorio de los conflictos de trabajo;
 
 II. Recibir las pruebas que los trabajadores o los patrones juzguen conveniente rendir ante ellas, en relación con las acciones y excepciones que pretendan deducir ante la Junta Federal de Conciliación y Arbitraje. El término para la recepción de las pruebas no podrá exceder de diez días.
 
-Terminada la recepción de las pruebas o transcurrido el término a que se refiere el párrafo anterior, la Junta remitirá el expediente a la Federal de Conciliación y Arbitraje;
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 1976)</small>
 
-III. Recibir la demanda que presente el trabajador o el patrón, remitiéndola a la Junta Federal de Conciliación y Arbitraje;
+Terminada la recepción de las pruebas o transcurrido el término a que se refiere el párrafo anterior, la Junta remitirá el expediente a la Junta Especial de la jurisdicción territorial a que esté asignada si la hubiere, y si no, a la Junta Federal de Conciliación y Arbitraje.
+
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 1976)</small>
+
+III. Recibir las demandas que les sean presentadas, remitiéndolas a la Junta Especial de la jurisdicción territorial a que esté asignada si la hubiere, y si no a la Junta Federal de Conciliación y Arbitraje.
 
 IV. Actuar como Juntas de Conciliación y Arbitraje para conocer y resolver los conflictos que tengan por objeto el cobro de prestaciones cuyo monto no exceda del importe de tres meses de salario;
 
@@ -4842,11 +4864,15 @@ V. Cumplimentar los exhortos y practicar las diligencias que les encomienden otr
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
-VI.- Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y
+VI.- Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y (sic)
 
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 2 DE JULIO DE 1976)</small>
 
-VII. Las demás que les confieren las leyes.
+VII.- De ser procedente, aprobar los convenios que les sean sometidos por las partes.
+
+> <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 1976)</small>
+
+VIII. Las demás que les confieran las leyes.
 
 ### CAPITULO III. Recusaciones y Excusas
 
@@ -4879,6 +4905,10 @@ Habrá uno o varios secretarios generales según se juzgue conveniente.
 La Junta funcionará en Pleno o en Juntas Especiales, de conformidad con la clasificación de las ramas de la industria y de las actividades a que se refiere el artículo anterior.
 
 La Secretaría del Trabajo y Previsión Social, cuando lo requieran las necesidades del trabajo y del capital, podrá establecer Juntas Especiales, fijando el lugar de su residencia y su competencia territorial.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 1976)</small>
+
+Las Juntas Especiales establecidas fuera de la capital de la República conforme al párrafo anterior, quedarán integradas en su funcionamiento y régimen jurídico a la Junta Federal de Conciliación y Arbitraje, correspondiéndoles el conocimiento y resolución de los conflictos de trabajo en todas las ramas de la industria y actividades de la competencia federal, comprendidas en la jurisdicción territorial que se les asigne, con excepción de los conflictos colectivos, sin perjuicio del derecho del trabajador, cuando así convenga a sus intereses, a concurrir directamente a la Junta Federal de Conciliación y Arbitraje.
 
 ###### Artículo 607.
 
@@ -5456,9 +5486,11 @@ Los representantes electos, provistos de sus credenciales, se presentarán desde
 
 El primer día hábil del mes de enero siguiente, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, tomarán a los representantes electos la protesta legal y después de exhortarlos para que administren una justicia pronta y expedita, declararán constituída la Junta Federal o Local de Conciliación y Arbitraje y la de Conciliación Permanente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE JULIO DE 1976)</small>
+
 ###### Artículo 664.
 
-En la designación de los representantes de los trabajadores y de los patrones en las Juntas de Conciliación Permanentes, se observarán las disposiciones de este capítulo, con las modalidades siguientes:
+En la designación de los representantes de los trabajadores y de los patrones en las Juntas de Conciliación Permanentes y en las Especiales establecidas fuera de la capital de la República, se observarán las disposiciones de este capítulo, con las modalidades siguientes:
 
 I. La convocatoria indicará la competencia territorial de la Junta;
 
@@ -5898,9 +5930,11 @@ Las actuaciones del segundo juicio no producirán efecto alguno.
 
 Las cuestiones incidentales, salvo los casos previstos en esta Ley, se resolverán juntamente con lo principal, a menos que la Junta estime que deben resolverse previamente o que se promuevan después de dictado el laudo. En estos casos, la Junta podrá ordenar que se suspenda el procedimiento o que se tramite el incidente por cuerda separada y citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas, dictará resolución.
 
+> <small>(REFORMADO, D.O.F 2 DE JULIO DE 1976)</small>
+
 ###### Artículo 726.
 
-Se tendrá por desistida de la acción intentada a toda persona que no haga promoción alguna en el término de seis meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. No se tendrá por transcurrido dicho término si está pendiente de dictarse resolución sobre alguna promoción de las partes, o la práctica de alguna diligencia, o la recepción de informes o copias que se hubiesen solicitado.
+Se tendrá por desistida de la acción intentada a toda persona que no haga promoción alguna en el término de seis meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. No se tendrá por transcurrido dicho término si están desahogadas las pruebas del actor o está pendiente de dictarse resolución sobre alguna promoción de las partes o la práctica de alguna diligencia, o la recepción de informes o copias que se hubiesen solicitado.
 
 ###### Artículo 727.
 
@@ -6046,9 +6080,11 @@ I. El Inspector Federal del Trabajo o el Presidente Municipal prevendrá a cada 
 
 II. Si alguna o las dos partes no designan su representante, el Inspector Federal del Trabajo o el Presidente Municipal hará las designaciones, las que deberán recaer en trabajadores o patrones.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F 2 DE JULIO DE 1976)</small>
+
 ###### Artículo 748.
 
-En los procedimientos ante las Juntas de Conciliación, en los casos del artículo 600, fracción I y II, se observarán las normas siguientes:
+En los procedimientos ante las Juntas de Conciliación en los casos del artículo 600, fracciones I y II, se observarán las normas siguientes:
 
 I. La Junta citará a las partes a una audiencia de conciliación y ofrecimiento de pruebas, que deberá efectuarse dentro de los tres días siguientes al en que hubiese comparecido o presentado escrito el actor o al en que hubiese quedado integrada la Junta Accidental.
 
@@ -6060,7 +6096,9 @@ III. La Junta procurará avenir a las partes de conformidad con las disposicione
 
 IV. Si no concurre el demandado o si estando presente no se llega a un convenio, las partes podrán ofrecer las pruebas que juzguen conveniente;
 
-V. Concluida la recepción de las pruebas, el Presidente de la Junta remitirá el expediente a la Junta Federal o Local de Conciliación y Arbitraje; y
+> <small>(REFORMADA, D.O.F 2 DE JULIO DE 1976)</small>
+
+V. Concluida la recepción de las pruebas, el Presidente de la Junta remitirá el expediente a la Junta de Conciliación y Arbitraje que corresponda, según la competencia jurisdiccional y territorial.
 
 VI. El convenio a que lleguen las partes será ejecutado por el Presidente de la Junta si ésta es Permanente, y en caso contrario se remitirá al Presidente de la Junta de Conciliación Permanente o de Conciliación y Arbitraje más próximo.
 
@@ -6234,13 +6272,17 @@ III. En caso de discrepancia en los dictámenes, la Junta podrá designar un per
 
 Si alguna persona no puede, por enfermedad u otras circunstancias especiales, concurrir al local de la Junta para absolver posiciones o contestar un interrogatorio, la Junta, previa comprobación del hecho, podrá trasladarse al local donde aquélla se encuentre.
 
+> <small>(REFORMADO, D.O.F 2 DE JULIO DE 1976)</small>
+
 ###### Artículo 770.
 
-Al concluir la recepción de las pruebas, la Junta concederá a las partes un término de cuarenta y ocho horas para que presenten sus alegatos por escrito.
+Al concluir la recepción de las pruebas, de oficio la Junta concederá a las partes, un término de 48 horas para que presenten sus alegatos por escrito.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F 2 DE JULIO DE 1976)</small>
 
 ###### Artículo 771.
 
-Transcurrido el término para la presentación de los alegatos, el Auxiliar declarará cerrada la instrucción, y dentro de los diez días siguientes formulará un dictamen, que deberá contener:
+Transcurrido el término de la presentación de los alegatos, de oficio el Auxiliar, declara cerrada la instrucción y dentro de los diez días siguientes formulará un dictamen, que deberá contener:
 
 I. Un estracto de la demanda y la contestación;
 
@@ -7215,3 +7257,7 @@ Esta reforma entrará en vigor a partir de su publicación en el "Diario Oficial
 D.O.F. 31 DE DICIEMBRE DE 1975.
 
 UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 2 DE JULIO DE 1976.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
