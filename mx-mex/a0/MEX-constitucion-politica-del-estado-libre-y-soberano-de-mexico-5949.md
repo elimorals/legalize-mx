@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1989-02-20"
+last_updated: "1990-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE FEBRERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 JUNIO DE 1990.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -171,7 +171,9 @@ I. Elegir y ser electo para los cargos públicos del Estado y ser nombrado para 
 
 II. Tomar las armas en la Guardia Nacional para la defensa del Estado y de sus instituciones;
 
-III. Asociarse para tratar los asuntos políticos del Estado.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1990)</small>
+
+III. Asociarse libre y pacíficamente para tomar parte en los asuntos políticos del Estado.
 
 ###### Art. 30.
 
@@ -339,47 +341,39 @@ El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se
 
 El ejercicio del Poder Legislativo, se deposita en una Asamblea que se denominará Legislatura del Estado, integrada por Diputados electos en su totalidad por Sufragio Popular directo. Por cada Diputado Propietario se eligirá un Suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
 
 ###### Art. 38.
 
-La Legislatura del Estado se compondrá con 34 Diputados electos en Distritos Electorales, según el principio de votación mayoritaria relativa y hasta con 11 Diputados de Representación Proporcional.
+La Legislatura del Estado se compondrá con 34 Diputados electos en Distritos Electorales según el principio de votación mayoritaria relativa y con 23 Diputados de representación proporcional.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
+La base para realizar la demarcación territorial de los 34 Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último censo general de población, entre el número de los Distritos señalados, teniendo también en cuenta para su distribución los factores geográfico y socioeconómico.
 
-La elección se efectuará conforme a lo que disponga la Ley Reglamentaria y además a las siguientes reglas:
+I.- La asignación de Diputaciones por el principio de representación proporcional se efectuará conforme a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 1984)</small>
+1).- Se constituirán hasta 3 circunscripciones en el Estado, integradas cada una por los Distritos Electorales que en los términos de la Ley Reglamentaria se determinen.
 
-I.- La base para realizar la demarcación territorial, de los 34 Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al última (sic) censo general de población, entre el número de los Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico;
+2).- Para tener derecho a la asignación de Diputaciones de representación proporcional, el partido político de que se trate deberá acreditar la postulación de candidatos propios de mayoría relativa, en por lo menos la tercera parte de los Distritos Electorales que integren cada una de las circunscripciones electorales; y haber obtenido al menos el 1.5 por ciento del total de la votación válida emitida en el Estado.
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1978)</small>
+3).- Las constancias de asignación de Diputados de representación proporcional se otorgarán en favor de los candidatos postulados por los partidos políticos, de la siguiente manera:
 
-II. La asignación de Diputaciones de Representación Proporcional, se sujetará a las Bases siguientes:
+A). A los que hayan alcanzado el más alto porcentaje de votación en los Distritos de cada circunscripción electoral, en orden descendente, siempre que no hayan obtenido constancia de mayoría en el Distrito con dicho porcentaje.
 
-a).- Se constituirán hasta 3 circunscripciones en el Estado integradas cada una, por los Distritos Electorales que, en términos de la Ley Reglamentaria se determinen.
+B). A los que aparezcan en la lista complementaria que cada partido debe registrar en el Estado, cuando de la aplicación de la fórmula que este artículo establece, un partido requiera candidatos adicionales a los señalados en el punto anterior.
 
-Para tener derecho a Diputaciones de Representación Proporcional, el Partido Político de que se trate, deberá participar con candidatos en por lo menos la tercera parte de los Distritos Electorales que integren cada una de las circunscripciones.
+II.- Si ningún partido político obtiene 29 constancias de mayoría relativa, al que obtenga el mayor número de éstas, le serán asignadas constancias de Diputados de representación proporcional, hasta que el total de sus curules por ambos principios sea igual a 29.
 
-b).- El partido que no haya obtenido 3 o más constancias de mayoría, tendrá derecho a que le sean acreditados de entre sus candidatos registrados, Diputados de Representación Proporcional, siempre que alcance por lo menos el 1.5% del total de la votación emitida en el Estado, una vez deducida la que haya obtenido en favor de sus candidatos en los Distritos en que haya alcanzado mayoría.
+En caso de empate en el número de constancias de mayoría relativa, la asignación de Diputados de representación a que se refiere el párrafo anterior, se otorgará al partido que haya logrado la mayor votación válida emitida en el Estado en la elección de Diputados por mayoría relativa.
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1978)</small>
+III.- Si un partido obtiene el 51 por ciento o más de la votación válida emitida en el Estado y el número de sus constancias de mayoría relativa es inferior a dicho porcentaje, tendrá derecho a que se le asignen Diputados de representación proporcional, hasta que la suma de sus Diputados electos, por ambos principios, constituya un porcentaje del total de integrantes de la Cámara, equivalente a su porcentaje de la votación válida emitida en el Estado.
 
-III. Al Partido que satisfaga los requisitos anteriores, se le asignará un Diputado de Representación Proporcional, que será el que haya alcanzado el mayor porcentaje de votación minoritaria.
+En ningún caso los Diputados de un mismo partido podrán ser más de 38.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
+IV. Efectuadas las asignaciones de Diputaciones de representación proporcional previstas en las fracciones anteriores, las restantes se distribuirán a los candidatos de los partidos políticos mediante el cociente natural, que resultará de dividir la votación efectiva minoritaria restante de los partidos políticos entre el número de dichas Diputaciones aún no asignadas; y si todavía quedaran curules por repartir, éstas se distribuirán por resto mayor, siguiendo el orden decreciente de los restos de votos no utilizados por cada uno de los partidos políticos.
 
-Las siguientes asignaciones se harán a los candidatos de los Partidos que hayan alcanzado, en los Distritos respectivos, los porcentajes más elevados de votación minoritaria en cada una de las circunscripciones mencionadas en el inciso a) de la fracción anterior, siempre que sigan manteniendo el porcentaje mínimo estatal requerido, una vez deducidas las votaciones, de las Diputaciones de Representación Proporcional, ya asignadas.
+Los Diputados de mayoría y los de representación proporcional tendrán iguales derechos y obligaciones.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
-
-En ningún caso, podrán asignarse a un mismo Partido más de 3 Diputaciones de Representación Proporcional.
-
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
-
-Dos Diputados de mayoría y los de minoría tendrán la misma categoría e iguales derechos y obligaciones.
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1972)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
 
 ###### Artículo 38.
 
@@ -413,7 +407,13 @@ Los Diputados de mayoría y los de Partido tendrán la misma categoría e iguale
 
 ###### Art. 39.
 
-Para ser diputado propietario o suplente, se requiere ser mayor de 21 años, originario y ciudadano del Estado, con residencia efectiva en su territorio o con vecindad no menor de un año inmediato anterior al día de la elección.
+Para ser Diputado, propietario o suplente, se requiere:
+
+I. Ser ciudadano del Estado, en pleno ejercicio de sus derechos.
+
+II. Tener 21 años cumplidos el día de la elección.
+
+III. Ser originario del Estado o vecino de él, con residencia efectiva en su territorio no menor a 3 años anteriores al día de la elección.
 
 ###### Art. 40.
 
@@ -547,15 +547,17 @@ El primer Período anual de sesiones ordinarias, dará principio el día 5 de se
 
 La Legislatura se renovará en su totalidad cada tres años, sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros pueda prorrogarse más allá de este período de tiempo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
 
 ###### Art. 45.
 
-La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral que se integrará por once Presuntos Diputados con constancia de mayoría y de cuatro Presuntos Diputados de Representación Proporcional, cuyos Partidos hubieren obtenido el porcentaje más alto de votación. En ambos casos los integrantes del Colegio Electoral, serán designados por sus respectivos Partidos.
+La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral, que se integrará con doce presuntos Diputados con constancia de mayoría y ocho presuntos Diputados de representación proporcional.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
+Los partidos políticos tendrán derecho a designar a los integrantes del Colegio Electoral en número y proporción equivalentes a los que les hayan sido acreditados con las constancias respectivas por la Comisión Estatal Electoral.
 
-Los Diputados electos, presentarán sus constancias registradas a la Secretaría de la Legislatura, a fin de que se dé cuenta con ellas en la primera junta preparatoria, que deberá tener verificativo quince días antes de la apertura de las Sesiones, eligiéndose en la propia junta, la Mesa Directiva conforme a la Ley Orgánica.
+Si del cálculo anterior resultara un número fraccionario, se considerará el número entero más cercano; en caso de que la fracción resultante fuese exactamente la mitad, se tomará el entero superior.
+
+La acreditación de los integrantes del Colegio Electoral se hará en orden decreciente comenzando por los partidos que hayan obtenido el mayor número de presuntos Diputados, hasta agotar el número de los que integrarán este órgano.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
@@ -743,9 +745,9 @@ XV. Conceder licencias a sus propios miembros, al Gobernador y a los Magistrados
 
 XVI.- Expedir conforme a los principios básicos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, la Ley que rija las relaciones de trabajo de los servidores públicos del Estado y Municipios.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
+> <small>(ADICIONADA [REFORMADA], P.O. 28 DE JUNIO DE 1990)</small>
 
-XVII.- Decretar anualmente, a iniciativa de Ejecutivo, los gastos del Estado e imponer para cubrirlos las contribuciones necesarias;
+XVII.- Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos las contribuciones necesarias; y disponer las medidas apropiadas para vigilar su ejecución.
 
 XVIII. Crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuir sus dotaciones;
 
@@ -767,7 +769,7 @@ XXIV. Dictar las disposiciones necesarias para liquidar y amortizar las deudas q
 
 XXV.- Aprobar los montos y conceptos de endeudamiento anual a que se refieren las Leyes de Ingresos y Presupuestos de Egresos del Estado y Municipios de conformidad a las bases establecidas en la Ley de la materia y dentro de las limitaciones previstas en el párrafo Segundo de la fracción VIII del Artículo 117 de la Constitución Federal.
 
-XXVI. Llamar a los Diputados suplentes respectivos, en caso de muerte, exoneración o inhabilidad previamente calificada de los Diputados propietarios;
+XXVI. Llamar a los Diputados suplentes respectivos, en caso de muerte, exoneración o inhabilitación previamente calificada de los Diputados propietarios;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1978)</small>
 
@@ -791,7 +793,7 @@ XXXIII. Excitar a los Poderes de la Unión a que presten su protección al Estad
 
 XXXIV. Establecer tropa permanente dentro del territorio del Estado, previo consentimiento del Congreso de la Unión;
 
-XXXV. Conceder amnistías por delitos políticos de la competencia de los Tribunales del Estado;
+XXXV. Conceder amnistías por delitos político de la competencia de los Tribunales del Estado;
 
 XXXVI. Conceder premios o recompensas por servicios eminentes o importantes prestados a la Humanidad o al Estado;
 
@@ -1027,9 +1029,9 @@ III.- Cuidar de que las elecciones constitucionales se celebren dentro del tiemp
 
 IV.- Concurrir ante la Legislatura del Estado el día 20 de enero de cada año, con excepción del que corresponda al año siguiente en que tome posesión del cargo a rendir un informe acerca del estado que guarda la Administración Pública. De la gestión administrativa realizada en los últimos ocho meses de cada sexenio, informará el 5 de septiembre del año respectivo.
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1990)</small>
 
-V.- Presentar cada año a la Legislatura antes del día veinte de diciembre, los proyectos de leyes de Ingresos y Egresos generales del Estado, que deberán regir en el año fiscal inmediato siguiente, así como la cuenta de Gastos del año inmediato anterior que rendirá dentro de los primeros diez días del período ordinario de Sesiones que principia el 15 de julio y concluye el 15 de octubre.
+V.- Presentar cada año a la Legislatura antes del día 20 de diciembre, los Proyectos de Leyes de Ingresos y Egresos Generales del Estado, que deberán regir en el año fiscal inmediato siguiente; este último Proyecto comprenderá las previsiones necesarias relativas al financiamiento público a los partidos políticos. El Ejecutivo deberá presentar asimismo la cuenta de gastos del año inmediato anterior que rendirá dentro de los primeros 10 días del Período Ordinario de Sesiones que principia el día 15 de julio y concluye el día 15 de octubre.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1507,7 +1509,9 @@ Los Ayuntamientos serán Asamblea deliberante, y como Cuerpos Colegiados, tendr�
 
 Los Ayuntamientos se integrarán con un Jefe de Asamblea que se denominará Presidente Municipal y con varios Miembros más, llamados Síndicos y Regidores, cuyo número total se determinará en razón directa de la población del Municipio que representen, en la forma en que lo dispongan la Ley Orgánica respectiva.
 
-Los Ayuntamientos de todos los Municipios tendrán Regidores electos, según el principio de representación proporcional. La Ley respectiva determinará los requisitos y reglas de asignación.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
+
+Los Ayuntamientos de todos los Municipios tendrán Regidores electos según el principio de representación proporcional. Los Municipios con más de un millón de habitantes podrán tener hasta un Síndico de representación proporcional. La Ley respectiva determinará los requisitos y reglas de asignación.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
@@ -1527,11 +1531,11 @@ La Ley Electoral respectiva determinará el Organismo que debe conocer y resolve
 
 Por cada miembro del Ayuntamiento que se elija como propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1948)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
 
 ###### Art. 140.
 
-Para ser miembro de un Ayuntamiento será indispensable ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos y con vecindad efectiva en el Municipio para el que fuere electo no menor de dos años antes de la fecha de la elección.
+Para ser miembro de un Ayuntamiento será indispensable ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos y con vecindad efectiva en el Municipio para el que fuere electo, no menor a tres años anteriores al día de la elección.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
@@ -2233,9 +2237,21 @@ El Estado de México es libre, soberano e independiente en su régimen interior.
 
 El Estado de México ejerce su soberanía en toda la extensión de la superficie territorial que le corresponde, de acuerdo con el artículo 1° de este capítulo.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
+
 ###### Art. 6.
 
-La soberanía del Estado reside en el pueblo y se ejerce por los Poderes Públicos que lo representan de acuerdo con el artículo 41 de la Constitución Federal de 5 de febrero del año en curso, y con arreglo a su ley constitucional.
+La Soberanía del Estado reside en el pueblo y se ejerce por los Poderes Públicos que lo representan, de acuerdo con el artículo 41 de la Constitución Federal del 5 de febrero de 1917 y con arreglo a su Ley Constitucional.
+
+Los partidos políticos son entidades de interés público que tiene como fin promover la vida democrática, contribuir a la integración de la representación popular, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales será determinada por la Ley.
+
+Para el cumplimiento de sus fines los partidos políticos gozarán de las prerrogativas cuyo otorgamiento se hará en la forma que la Ley Reglamentaria determine.
+
+La preparación, desarrollo y vigilancia de los procesos electorales, ordinarios y extraordinarios, constituyen una función pública que se ejerce a través de los Poderes Ejecutivo y Legislativo del Estado, con la participación de los partidos políticos y los ciudadanos, en los términos de la Ley.
+
+La Ley establecerá un sistema de medios de impugnación de los que conocerán los órganos electorales y un Tribunal de carácter autónomo, con jurisdicción en materia Contencioso Electoral, con la competencia y organización que determine la Ley; funcionará en pleno y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo participarán concurrentemente en la designación de sus integrantes y asegurarán su funcionamiento autónomo.
+
+Las resoluciones del Tribunal serán obligatorias y sólo podrán ser modificadas o revocadas por el Colegio Electoral de la Legislatura o por la Comisión Estatal Electoral, en los casos que la Ley prevenga.
 
 ###### Art. 7.
 
@@ -2638,3 +2654,9 @@ P.O. 20 DE FEBRERO DE 1989
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+P.O. 28 DE JUNIO DE 1990
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
