@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-sesiones-del-consejo-estatal-electoral-del-14305"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-19"
-last_updated: "1999-03-21"
+last_updated: "2000-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 19 de marzo de 1998.
 
@@ -149,9 +149,11 @@ Artículo 10
 
 a) Preparar el orden del día de las sesiones;
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-b) Cuidar que se reproduzcan y circulen con toda oportunidad entre los integrantes del Consejo Estatal, los documentos y anexos necesarios para la comprensión y discusión de los asuntos contenidos en el orden del día, adjuntando, sin excepción, el acta de la sesión anterior;
+b) Proporcionar a los integrantes del Consejo, los documentos y anexos necesarios para su discusión y acuerdo.
+
+Los proyectos de acuerdo y resoluciones, solamente se darán a conocer en la sesión del Consejo correspondiente;
 
 c) Pasar lista de asistencia a los miembros del Consejo Estatal y llevar el registro de ella;
 
@@ -159,7 +161,9 @@ c) Pasar lista de asistencia a los miembros del Consejo Estatal y llevar el regi
 
 d) Declarar la existencia del quórum legal;
 
-e) Levantar el acta de las sesiones y someterla a la consideración y aprobación de los integrantes del Consejo con derecho a voto, tomando en cuenta las observaciones realizadas a la misma por los Consejeros, los Representantes de las fracciones parlamentarias ante el Congreso del Estado y de los Partidos Políticos;
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+e) Levantar el acta de las sesiones y someterla a la consideración y aprobación de los integrantes del Consejo con derecho a voto, tomando en cuenta las observaciones realizadas a la misma por los Consejeros, los Representantes de los grupos parlamentarios ante el Congreso del Estado y de los Partidos Políticos;
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
 
@@ -187,17 +191,17 @@ k) Dar fe de lo actuado en las sesiones;
 
 l) Certificar los documentos del Consejo Estatal y expedir las copias certificadas cuando sean solicitadas por quien tenga derecho a ello;
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-m) Durante el proceso electoral, dar a conocer a los Consejos Distritales y Municipales los acuerdos emitidos por el Consejo Estatal y en lo particular los que sean de su competencia e interés;
+m) Durante el Proceso Electoral, dar a conocer a los Consejos Municipales los acuerdos emitidos por el Consejo Estatal y en lo particular los que sean de su competencia e interés;
 
 > <small>(ADICIONADO, P.O. 21 DE MARZO DE 1999)</small>
 
 n) En cualquier tiempo dar a conocer a los órganos del Instituto los acuerdos emitidos por el Consejo Estatal y en lo particular los que sean de su competencia e interés;
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-o) Levantar y remitir el acta de la sesión correspondiente y someterla a consideración de los integrantes del Consejo Estatal dentro de los siguientes 5 días a la celebración de la misma; y
+o) Levantar y remitir el acta de la sesión correspondiente y someterla a consideración de los integrantes del Consejo Estatal dentro de los siguientes 5 días hábiles a la celebración de la misma; y,
 
 > <small>(ADICIONADO, P.O. 21 DE MARZO DE 1999)</small>
 
@@ -215,7 +219,7 @@ El Consejo Estatal nombrará a propuesta de su Presidente las Subcomisiones que 
 
 El Secretario del Consejo deberá colaborar con las subcomisiones que se integren para el cumplimiento de las tareas que se le hayan encomendado.
 
-Las Subcomisiones deberán rendir por escrito y por conducto de su Coordinador un informe mensual de sus actividades al Pleno del Consejo Estatal, o antes cuando este así lo determine.
+> <small>(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MARZO DE 1999)</small>
 
@@ -225,15 +229,17 @@ DE LA CONVOCATORIA A LAS SESIONES.
 
 Artículo 12
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-Para la celebración de las sesiones ordinarias, el Consejero Presidente deberá convocar mediante notificación por escrito a cada uno de los Consejeros Electorales, a los Representantes de las fracciones parlamentarias del Congreso del Estado designados ante el Consejo Estatal y los Representantes de los Partidos Políticos que formen parte del cuerpo colegiado, por lo menos con tres días naturales de anticipación a la fecha que se fije para la celebración de la sesión.
+Para la celebración de las sesiones ordinarias, el Consejero Presidente deberá convocar mediante notificación por escrito a cada uno de los Consejeros Electorales, a los Representantes de los grupos parlamentarios del Congreso del Estado designados ante el Consejo Estatal y los Representantes de los Partidos Políticos que formen parte del cuerpo colegiado, por lo menos con tres días naturales de anticipación a la fecha que se fije para la celebración de la sesión.
 
 Entratándose de las sesiones extraordinarias, la convocatoria mencionada en el párrafo anterior deberá realizarse, por lo menos con 24 horas de anticipación. Sin embargo, en aquellos casos que el Consejero Presidente del Consejo Estatal considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria fuera del plazo señalado e incluso no será necesaria convocatoria escrita.
 
 Artículo 13
 
-La convocatoria a sesión deberá contener el lugar, día y hora en que la misma se deba celebrar, la mención de ser ésta ordinaria, extraordinaria y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañaran copia de los documentos y anexos indispensables para la discusión de los asuntos contenidos en el orden dél día.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+La convocatoria a sesión deberá contener el lugar, día y hora en que la misma se deba celebrar, la mención de ser ésta ordinaria, extraordinaria y un proyecto de orden del día para ser desahogado.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
 
@@ -241,7 +247,9 @@ Después de recibida la convocatoria y hasta antes de las 24 horas siguientes a 
 
 En el caso de las sesiones extraordinarias, solamente podrán ventilarse aquellos asuntos para las que fueron convocadas.
 
-No obstante lo dispuesto para las sesiones ordinarias, los Consejeros Electorales y Representantes de las fracciones parlamentarias integradas en el Congreso del Estado y de los Partidos Políticos podrán solicitar al Consejo Estatal la discusión en “Asuntos Generales” de puntos que no requieran examen previo de documentos, o que sean de obvia y urgente resolución. El Secretario dará cuenta al Consejo Estatal con dichas solicitudes a fin de que éste decida sin debate si se discuten en la sesión o se difieren para una posterior.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+No obstante lo dispuesto para las sesiones ordinarias, los Consejeros Electorales y Representantes de los grupos parlamentarios integradas en el Congreso del Estado y de los Partidos Políticos podrán solicitar al Consejo Estatal la discusión en “Asuntos Generales” de puntos que no requieran examen previo de documentos, o que sean de obvia y urgente resolución. El Secretario dará cuenta al Consejo Estatal con dichas solicitudes a fin de que éste decida sin debate si se discuten en la sesión o se difieren para una posterior.
 
 ### CAPÍTULO VI
 
@@ -267,9 +275,29 @@ a) Son ordinarias aquellas sesiones que deben celebrarse periódicamente de acue
 
 b) Son extraordinarias aquellas sesiones convocadas por el Consejero Presidente cuando lo estime necesario, o a petición que le formule la mayoría de los Consejeros, para tratar asuntos con un objetivo único y determinado. Durante los años de receso electoral el Consejo Estatal, podrá sesionar extraordinariamente, previa convocatoria expresa de su Presidente.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+c) Son especiales las correspondientes a:
+
+1) La sesión de la primera semana del mes de enero, con la que se inicia el Proceso Electoral;
+
+2) La sesión permanente del día de la Jornada Electoral;
+
+3) La sesión permanente del día del cómputo municipal;
+
+4) La sesión permanente del día del cómputo distrital;
+
+5) La sesión permanente del día de los cómputos de Gobernador y Diputados de Representación Proporcional; y
+
+6) La sesión permanente del día de la Asignación de Diputados de Representación Proporcional y Declaración de Validez de esta eleccion.
+
 Salvo disposición en contrario las sesiones no podrán exceder de seis horas de duración. No obstante, el Consejo Estatal podrá decidir, sin debate, prolongarlas con el acuerdo de la mayoría de sus miembros con voto. Aquellas sesiones que sean suspendidas por exceder el límite de tiempo establecido, serán continuadas dentro de las 24 horas siguientes a su suspensión, salvo que el Consejo Estatal acuerde otro plazo para su reanudación.
 
 Cuando el Consejo Estatal se haya declarado previamente en sesión permanente no operará el límite de tiempo establecido en el párrafo anterior. El Consejero Presidente, previa consulta con los demás Consejeros Electorales, podrá declarar los recesos que fueren necesarios durante las sesiones permanentes.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+El Presidente del Consejo Estatal, podrá citar a reuniones previas a las sesiones del Consejo, a fin de analizar con mayor amplitud los asuntos a tratar.
 
 ### CAPÍTULO VII
 
@@ -277,19 +305,21 @@ DE LA INSTALACIÓN Y DESARROLLO DE LAS SESIONES.
 
 Artículo 15
 
-El día fijado para la sesión se reunirán en la Sala de Sesiones los miembros del Consejo Estatal, es decir, el Consejero Presidente, el Secretario Ejecutivo, los Consejeros Electorales, los Representantes de las fracciones parlamentarias del Congreso del Estado y de los Partidos Políticos. El Consejero Presidente declarará instalada la misma, previa toma de lista de asistencia y certificación de la existencia del quórum legal por parte del Secretario.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 1999)</small>
+El día fijado para la sesión se reunirán en la Sala de Sesiones los miembros del Consejo Estatal, es decir, el Consejero Presidente, el Secretario Ejecutivo, los Consejeros Electorales, los Representantes de los grupos parlamentarios del Congreso del Estado y de los Partidos Políticos. El Consejero Presidente declarará instalada la misma, previa toma de lista de asistencia y certificación de la existencia del quórum legal por parte del Secretario.
 
-El quórum válido para que sesione el Consejo Estatal será el constituido por la mayoría de sus integrantes.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+El quórum válido para que sesione el Consejo Estatal será el constituido por la mayoría de sus integrantes con derecho a voz y voto.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
 
 A las sesiones del Consejo Estatal, deberán acudir los responsables de las diferentes Direcciones del Instituto, quienes deberán permanecer en la misma hasta su conclusión. A los responsables de las áreas del Instituto se les concederá el uso de la palabra a petición de un miembro del Consejo Estatal con autorización de su Presidente.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-Para que el Consejo Estatal pueda sesionar, es necesario que estén presentes cuando menos la mitad más uno de sus integrantes. Las resoluciones se tomarán por mayoría de votos de los miembros presentes con derecho a ello. En caso de que no exista quórum para sesionar se citará dentro de las siguientes 24 horas celebrándose con los Consejeros y Representantes que asistan, entre los que deberán estar la mayoría de los miembros con voz y voto y dentro de ellos el Presidente del Consejo Estatal.
+Para que el Consejo Estatal pueda sesionar, es necesario que estén presentes cuando menos la mitad más uno de sus integrantes con derecho a voz y voto. Las resoluciones se tomarán por mayoría de votos de los miembros presentes con derecho a ello.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
 
@@ -331,25 +361,23 @@ En caso de ausencia definitiva del Presidente del Consejo, los Consejeros Electo
 
 Artículo 19
 
-Al iniciar la discusión de cada punto del orden del día, el Presidente abrirá una lista de oradores en la que se inscribirán todos los miembros del Consejo Estatal que quieran hacer uso de la palabra para ese asunto en particular. Los miembros del Consejo Estatal podrán intervenir por una sola vez en esta ronda. Los oradores inscritos podrán hacer uso de la palabra por 10 minutos como máximo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
+Al iniciar la discusión de cada punto del orden del día, el Presidente abrirá una lista de oradores en la que se inscribirán todos los miembros del Consejo Estatal que quieran hacer uso de la palabra para ese asunto en particular. Los miembros del Consejo Estatal podrán intervenir por una sola vez en esta ronda. Los oradores inscritos podrán hacer uso de la palabra por 5 minutos como máximo.
 
-Después de haber intervenido todos los oradores que se inscribieron en la primera ronda, el Presidente preguntará si el punto está suficientemente discutido y en caso de no ser así, se realizará una segunda ronda de intervenciones. Bastará que un solo Consejero Electoral o Representante pida la palabra, para que la segunda ronda se lleve a cabo En esta segunda ronda los oradores se inscribirán y participarán de acuerdo con las reglas fijadas para la primera ronda, pero sus intervenciones no podrán exceder de 5 minutos. El Presidente del Consejo Estatal podrá autorizar una tercera y última ronda cuando estime pertinente que no está suficientemente discutido el asunto en tratamiento, en esta ronda las intervenciones no podrán exceder de 3 minutos.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+Después de haber intervenido todos los oradores que se inscribieron en la primera ronda, el Presidente preguntará si el punto está suficientemente discutido y en caso de no ser así, se realizará una segunda ronda de intervenciones. Bastará que un solo Consejero Electoral o Representante pida la palabra, para que la segunda ronda se lleve a cabo En esta segunda ronda los oradores se inscribirán y participarán de acuerdo con las reglas fijadas para la primera ronda, pero sus intervenciones no podrán exceder de 3 minutos.
 
 Los oradores se abstendrán de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos contemplados en el orden del día que en su caso se aborden.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-En caso de ocurrir tales conductas, el o los aludidos tendrán derecho de réplica, al término de la intervención, es decir inmediatamente, en un tiempo que no excedera de dos minutos, previa autorización del Presidente del Consejo.
+En caso de ocurrir tales conductas, el o los aludidos tendrán derecho de réplica, al término de la intervención, es decir inmediatamente, en un tiempo que no excedera de un minutos, previa autorización del Presidente del Consejo.
 
 Cuando nadie pida la palabra, se procederá de inmediato a la votación.
 
-En su caso, el Consejo Estatal decidirá cuales puntos se discutirán en lo particular.
-
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 1999)</small>
-
-En el uso de la palabra, a los oradores se les permitirá el tratamiento del asunto bajo intervención al margen, en un tiempo que no excederá de 1 minuto.
+> <small>(DEROGADOS PENULTIMO Y ULTIMO PARRAFOS, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
 Artículo 20
 
@@ -363,7 +391,9 @@ Artículo 21
 
 Los oradores no podrán ser interrumpidos, salvo por medio de una moción siguiendo las reglas establecidas en los artículos 31 y 32 de este Reglamento.
 
-Si el orador se aparta de la cuestión en debate o hace referencia que ofenda a cualquiera de los miembros del Consejo Estatal, el Presidente le advertirá. Si un orador recibiera dos advertencias, a la tercera vez el Presidente le retirará el uso de la palabra en relación al punto que se trate.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+Si el orador se aparta de la cuestión en debate o hace referencia que ofenda a cualquiera de los miembros del Consejo Estatal, o a las instituciones electorales, el Presidente le advertirá. Si un orador recibiera dos advertencias, le será retirado el uso de la palabra en relación al punto que se trate, a la tercera advertencia, el Presidente le hará un extrañamiento por escrito con copia a su superior.
 
 Artículo 22
 
@@ -381,7 +411,9 @@ e) Si no asistiera el propietario ni el suplente, ninguna otra persona podrá su
 
 f) Todos los miembros del Consejo Estatal serán identificados en el lugar que ocupen en la mesa de sesiones con un identificador personalizado que refiera su cargo. Los representantes de los Partidos Políticos lo serán mediante un identificador que aluda el emblema del partido que representan.
 
-g) Los invitados especiales y en general las personas que no formen parte del Consejo Estatal no podrán bajo ninguna circunstancia tomar asiento en la mesa de los integrantes del Consejo, tampoco podrán intervenir de modo alguno en las sesiones.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+g) Los invitados especiales y en general las personas que no formen parte del Consejo Estatal no podrán bajo ninguna circunstancia tomar asiento en la mesa de los integrantes del Consejo, tampoco podrán intervenir de modo alguno en las sesiones, salvo los responsables de cada una de las áreas del Instituto, en los términos del tercer párrafo del artículo 15 de este Reglamento.
 
 Concluida la sesión, deberá formularse un boletín de prensa que será distribuido de inmediato a los medios de comunicación.
 
@@ -389,11 +421,15 @@ Concluida la sesión, deberá formularse un boletín de prensa que será distrib
 
 Artículo 23
 
-Los acuerdos y resoluciones del Consejo Estatal se tomarán por mayoría de votos de los miembros con derecho a ello, en los términos del artículo 15 de este reglamento.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+Los acuerdos y resoluciones del Consejo Estatal se tomarán por mayoría de votos de los miembros con derecho a ello, en los términos del párrafo cuarto artículo 15 de este reglamento.
 
 El voto será libre, personal, directo e intransferible.
 
-De conformidad con lo previsto por el artículo 110 del Código, solo tendrán derecho a voto los Consejeros Electorales del Consejo Estatal y únicamente derecho a voz los Representantes de las fracciones parlamentarias integradas en el Congreso del Estado, de los Partidos Políticos y el Secretario Ejecutivo.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+De conformidad con lo previsto por el artículo 110 del Código, solo tendrán derecho a voto los Consejeros Electorales del Consejo Estatal y únicamente derecho a voz los Representantes de los grupos parlamentarios integradas en el Congreso del Estado, de los Partidos Políticos y el Secretario Ejecutivo.
 
 Artículo 24
 
@@ -417,7 +453,9 @@ c) El Secretario asentará en el acta el sentido de la votación;
 
 d) Concluida la votación el Secretario efectuará el cómputo de la misma haciendo público el resultado.
 
-Los Consejeros votarán levantando la mano. Cuando la votación sea nominal, cada consejero con derecho a voto, levantará la mano, dirá su apellido y el sentido de su voto
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+Cuando la votación sea nominal, cada consejero con derecho a voto, levantará la mano, dirá su apellido y el sentido de su voto
 
 Cuando algún miembro del Consejo Estatal solicite que en el acta conste el sentido del voto de cada miembro del Consejo, el Secretario procederá a tomar la votación nominal, la cual quedará asentada en el acta correspondiente.
 
@@ -441,9 +479,11 @@ De cada sesión se levantará un proyecto de acta circunstanciada que contendrá
 
 En la elaboración del acta el Secretario, podrá auxiliarse de cintas magnetotónicas o cualquier otra maquinaria que le sea útil para eficientar dicha función.
 
-El proyecto de acta deberá someterse a aprobación en la siguiente sesión de que se trate. El Secretario deberá entregar a los miembros del Consejo Estatal el proyecto de acta de cada sesión conjuntamente con el citatorio de la siguiente sesión.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-Todas las actas deberán ser rubricadas por todos los integrantes del Consejo Estatal que hayan asistido a la misma.
+El proyecto de acta deberá someterse a aprobación en la siguiente sesión de que se trate. Todas las actas deberán ser rubricadas por todos los integrantes del Consejo Estatal que hayan asistido a la misma, y que estén de acuerdo con su contenido.
+
+> <small>(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
 Las actas deberán ser autorizadas por el Presidente y Secretario.
 
@@ -459,23 +499,33 @@ b) Declaración del quórum legal, por el Secretario;
 
 c) Declaración formal de la instalación de la sesión por el Presidente;
 
-d) Lectura del orden del día y aprobación, en su caso;
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+d) Lectura del orden del día y aprobación, en su caso, tratándose de sesiones ordinarias;
 
 e) Lectura por el Secretario del acta de la sesión anterior para su discusión, adición, modificación y aprobación en su caso. Lo anterior cuando no haya habido dispensa;
 
-f) Correspondencia despachada y recibida por el Secretario;
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-g) Dictámenes y resoluciones para discusión y votación;
+f) Correspondencia despachada y recibida por el Secretario, tratándose de sesiones ordinarias;
 
-h) Informes de las subcomisiones;
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-i) Peticiones formuladas por los integrantes del Consejo;
+g) Dictámenes y resoluciones para discusión y votación, en su caso;
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-j) Peticiones formuladas por Partidos Políticos, Agrupaciones Políticas, Ciudadanos y Personas Morales;
+h) Informes de las subcomisiones, en su caso;
 
-k) Seguimiento de asuntos pendientes; y, (sic)
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+i) Peticiones formuladas por los integrantes del Consejo, en su caso;
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+j) Peticiones formuladas por Partidos Políticos, Agrupaciones Políticas, Ciudadanos y Personas Morales, en su caso;
+
+k) Seguimiento de asuntos pendientes;
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 1999)</small>
 
@@ -485,9 +535,9 @@ l) Presentación de Denuncias y Quejas formuladas en el caso;
 
 m) Presentación de Medios de Impugnación y en el caso la resolución o cumplimentación por el Secretario; y,
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-n) Asuntos generales.
+n) Asuntos generales, tratándose de sesiones ordinarias.
 
 Los temas a tratar serán desahogados bajo el riguroso turno numérico en que fue aprobado el orden del día.
 
@@ -517,7 +567,9 @@ Solo se admitirá una moción por miembro del Consejo a cada intervención y se 
 
 a) Moción de orden: Cuando el expositor incurra en alguna falta verbal o mímica que provoque desorden en la sesión;
 
-b) Moción de Procedimientos: Cuando el orador pretenda tratar de asuntos no relacionados al tema de discusión.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+b) Moción de Procedimientos: Cuando el orador pretenda tratar asuntos no relacionados al tema de discusión.
 
 Artículo 32
 
@@ -527,17 +579,15 @@ Las mociones al orador deberán dirigirse al Presidente y contar con la anuencia
 
 ### CAPÍTULO XII. ENVÍO DE LOS ACUERDOS Y RESOLUCIONES
 
-Artículo 33
-
-El Consejo Electoral podrá determinar, cuando así lo estime necesario, que la Secretaría realice la remisión de los acuerdos y resoluciones en un plazo mas corto; al establecido en términos de ley.
+Artículo 33 (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2000)
 
 ### CAPÍTULO XIII. DE LAS SANCIONES
 
 Artículo 34
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-Para el eficaz y oportuno cumplimiento por faltas a las disposiciones contenidas en el presente ordenamiento y a fin de garantizar el orden durante las sesiones el Presidente del Consejo Estatal o de Debates impondrá las sanciones siguientes:
+Para el eficaz y oportuno cumplimiento por faltas a las disposiciones contenidas en el presente ordenamiento y a fin de garantizar el orden durante las sesiones el Presidente del Consejo Estatal impondrá las sanciones siguientes:
 
 a) Apercibimiento;
 
@@ -599,9 +649,11 @@ Amonestación es el extrañamiento verbal o escrito con la exhortación de enmen
 
 Fuerza publica es la orden de desalojo de la Sala de Sesiones con apoyo de autoridades el cuerpo de seguridad, de aquel o aquellos que cometan conductas que impidan el desarrollo pacífico de las sesiones al tenor de lo dispuesto por el artículo 117 Fracc. XIV del Código de la materia (sic).
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
 Artículo 35 (sic)
 
-Las sanciones previstas en el artículo que antecede serán impuestas por el Presidente del Consejo Estatal o en su caso del Presidente de Debates a juicio propio o a petición del Pleno del Consejo Estatal o de alguno de los Consejeros Electorales.
+Las sanciones previstas en el artículo que antecede serán impuestas por el Presidente del Consejo Estatal a juicio propio o a petición del Pleno del Consejo Estatal o de alguno de los Consejeros Electorales.
 
 SEGUNDO.- ESTE REGLAMENTO ENTRARÁ EN VIGOR A PARTIR DEL DÍA SIGUIENTE DE SU APROBACIÓN POR EL CONSEJO ESTATAL ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL.
 
@@ -692,3 +744,15 @@ SEGUNDO.- LAS REFORMAS AL PRESENTE REGLAMENTO ENTRARÁN EN VIGOR A PARTIR DEL D�
 TERCERO.- PUBLÍQUESE EN EL PERIÓDICO OFICIAL DEL ESTADO.
 
 CUARTO.- EL SECRETARIO EJECUTIVO A LA MAYOR BREVEDAD POSIBLE DEBERÁ HACER LLEGAR UN EJEMPLAR DEL REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL ELECTORAL CON LAS REFORMAS ADICIONES O DEROGACIONES APROBADAS A LOS INTEGRANTES DE ESTE ÓRGANO COMICIAL.
+
+P.O. 16 DE NOVIEMBRE DE 2000.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE DURANGO.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+2.- Gírense instrucciones al Secretario Ejecutivo para que, en su carácter de Secretario del Consejo Estatal Electoral, integre en un solo documento las reformas aprobadas y las haga llegar a cada uno de los integrantes de dicho órgano colegiado.
+
+3.- Publíquese el presente acuerdo y sus anexos en el Periódico Oficial del Estado.
