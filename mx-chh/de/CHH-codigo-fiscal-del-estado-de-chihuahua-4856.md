@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1986-02-22"
+last_updated: "1986-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -65,9 +65,35 @@ Las Recaudaciones de Rentas serán dotadas de fondos fijos de caja para su admin
 
 9o.- El Tesorero General del Estado será responsable personal o pecuniariamente por los pagos que hiciere u ordenare sin estar autorizados por el Presupuesto, por ley posterior o por el Gobernador del Estado. El Tesorero tendrá derecho a hacer observaciones a las órdenes de pago pero deberá cumplirlas sin su responsabilidad si el Gobernador insistiere en ellas.
 
-10.- La cuenta general de ingresos y egresos del erario deberá formularse mensualmente dándole la debida publicidad dentro de los primeros 20 días siguientes al mes que corresponda. El Tesorero General del Estado formulará la cuenta general para que se envíe oportunamente al Congreso.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-11.- El Tesorero General del Estado recabará de la Contaduría General del Congreso el finiquito correspondiente a las cuentas que envíe para su estudio y aprobación y dará aviso al Gobernador cuando éstas no hayan sido glosadas y aprobadas dentro del plazo de seis meses, para que se promueva ante el Congreso la resolución correspondiente.
+10.- La cuenta general de ingresos y egresos del erario deberá formularse mensualmente dándole la debida publicidad dentro de los primeros veinte días siguientes al mes que corresponda. El Director General de Finanzas del Estado formulará la cuenta general para que se envíe oportunamente al Congreso.
+
+El Director General de Finanzas del Estado recabará de la Contaduría General del Congreso el finiquito correspondiente a las cuentas que envíe para su estudio y aprobación y dará aviso al Gobernador cuando éstas no hayan sido glosadas y aprobadas dentro del plazo de seis meses, para que se promueva ante el Congreso la resolución correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+11.- Compete a la Dirección General de Finanzas:
+
+I.- Intervenir en toda clase de actos financieros y juicios, representando el interés de la Hacienda Pública Estatal por sí o por conducto de delegados. En este caso, siempre y cuando la función sea delegable;
+
+II.- Autorizar las erogaciones extraordinarias o imprevistas de recaudación y el pago por la adquisición de bienes o servicios que con carácter urgente sea necesario para el cumplimiento de las atribuciones, con cargo a las partidas que corresponda;
+
+III.- Declarar de oficio la caducidad de conformidad con las normas de este ordenamiento, y disponer de los depósitos que hubiere exigido por propia determinación, aplicando su importe en beneficio del erario estatal.
+
+Cuando no sea posible determinar la fecha en que legalmente pueda exigirse su devolución o aplicación, se tomará como base la de la constitución del depósito para los mismos efectos;
+
+IV.- Cuidar, administrar, aplicar, destruír, rematar o vender, según proceda, conforme a las disposiciones legales aplicables, los bienes embargados o decomisados a favor del Gobierno Estatal por las autoridades judiciales o administrativas;
+
+V.- Estudiar y formular los proyectos de leyes y disposiciones impositivas;
+
+VI.- Practicar visitas, inspecciones y reconocimientos, con objeto de asegurar el cumplimiento de las disposiciones fiscales;
+
+VII.- Establecer y revisar los precios y tarifas de los bienes y servicios de la administración pública estatal, con la participación de las dependencias que corresponda;
+
+VIII.- Cobrar los impuestos, derechos, contribuciones especiales, productos y aprovechamientos, en los términos de las leyes que los establezcan; y
+
+IX.- Las demás que le atribuyan expresamente las leyes o reglamentos.
 
 ## TITULO SEGUNDO. DISPOSICIONES SUBSTANTIVAS
 
@@ -2821,7 +2847,9 @@ VI.- Las demás que establezcan las leyes.
 
 ### CAPITULO XIV. DERECHOS
 
-308.- Como contraprestación por los servicios de carácter administrativo prestados por los Poderes del Estado, se causarán derechos por:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+308.- Como contraprestación por los servicios de carácter administrativo prestados por los poderes del Estado, se causarán derechos por:
 
 I.- Legalización de firmas y por la expedición de certificaciones y copias certificadas;
 
@@ -2865,7 +2893,9 @@ XIX.- Por servicios de control vehicular;
 
 XX.- Expedición de licencias para guiar vehículos;
 
-XXI.- (DEROGADA, P.O. 29 DE ENERO DE 1986)(F. DE E., P.O. 19 DE MARZO DE 1986)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+XXI.- Por expedición de engomados para revalidación de derechos por control vehicular;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1986)</small>
 
@@ -2925,7 +2955,9 @@ XLIII.- Expedición de certificados para el uso de explosivos y sus artificios; 
 
 XLIV.- Los demás que señalen las leyes.
 
-309.- Por la prestación de los servicios indicados en el artículo anterior, se cobrarán las cuotas que fije el Gobernador del Estado en la tarifa que para el efecto expida, tomando en cuenta el valor de la erogación que los servicios ocasionen.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+309.- Por la prestación de los servicios indicados en el artículo anterior, se cobrarán las cuotas que fije el Congreso local en la tarifa que para el efecto expida, tomando en cuenta el valor de la erogación que los servicios ocasionen.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
@@ -3297,7 +3329,9 @@ Si es a los sujetos pasivos o responsables solidarios a quienes corresponde fija
 
 334.- Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y cualesquiera otros, se harán efectivos juntamente con el crédito inicial, sin necesidad de emplazamiento ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
 
-Por la diligencia de requerimiento y de embargo, se causará por concepto de gastos de ejecución a cargo del deudor, un 5% sobre el monto del crédito fiscal, por cada una de dichas diligencias, pero en ningún caso podrá ser, en total, ni menor de cuarenta pesos, ni mayor de veinticinco mil pesos, aún cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico coactivo en el que dichos gastos se causen, resulte una cantidad mayor o menor que las indicadas; por la notificación de un crédito fiscal se causarán cuarenta pesos por concepto de gastos de ejecución.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+Por las diligencias de requerimiento y de embargo, se causará por concepto de gastos de ejecución a cargo del deudor, un 5% sobre el monto del crédito fiscal por cada una de dichas diligencias, pero en ningún caso podrá ser, en total, ni menor del importe de un día de salario mínimo, ni mayor del monto de diez días del citado salario; por la notificación de un crédito fiscal se causará el importe de un día de salario mínimo por concepto de gastos de ejecución.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -4332,3 +4366,9 @@ P.O. 22 DE FEBRERO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor en todo el Estado a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
