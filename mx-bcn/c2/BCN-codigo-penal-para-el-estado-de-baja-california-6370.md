@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2002-09-20"
+last_updated: "2002-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -734,6 +734,14 @@ Reincidencia e individualización penal.- La reincidencia será tomada en cuenta
 Para los efectos de este Código, hay reincidencia cuando, quien habiendo sido condenado por sentencia ejecutoria dictada por cualquier Tribunal de la República o del extranjero, es condenado nuevamente por otro delito, si no ha transcurrido desde el cumplimiento de la condena o desde el indulto, la mitad del término de la prescripción de la pena, salvo las excepciones fijadas por la Ley. La condena dictada en una Entidad Federativa o en el extranjero se tendrá en cuenta, si se refiere a un hecho que tenga carácter delictivo en este Código o en otra Ley del Estado.
 
 No se tomará en consideración lo dispuesto en el párrafo anterior en caso de los delitos políticos o cuando se haya reconocido la inocencia del sentenciado.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 72
+
+BIS.- Habitualidad e individualización penal.- La habitualidad será tomada en cuenta para la individualización judicial de la pena, e implicará el no otorgamiento de los beneficios que la Ley prevea. En caso de habitualidad, el juzgador impondrá preferentemente los límites máximos señalados para cada delito.
+
+Para los efectos de este código, hay habitualidad cuando, quien habiendo sido condenado por diversas sentencias ejecutorias dictadas por cualquier Tribunal de la República o del extranjero es condenado nuevamente por un tercero ó más delitos dolosos. La condena dictada en una Entidad Federativa o en el Extranjero se tendrá en cuenta, si se refiere a un hecho que tenga carácter delictivo en este código o en otra Ley del Estado.
 
 ###### Artículo 73.
 
@@ -2041,13 +2049,15 @@ Las instituciones y organismos auxiliares de crédito, las de fianza y las de se
 
 X.- Al fiador que habiendo garantizado la libertad caucional de un inculpado, caiga deliberadamente en insolvencia para impedir que se haga efectiva la caución, a raíz de la revocación del beneficio.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+
 ###### Artículo 220.
 
-Fraude equiparado.- Se equipara al fraude el que por sí o por interpósita persona, cause perjuicio público o privado al fraccionar y transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno con o sin construcciones, sin el previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en el señalados. Este delito se sancionará aún en el caso de falta de pago total o parcial.
+Fraude Equiparado.- Comete delito de fraude el que por sí o por interpósita persona, cause perjuicio público o privado al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin construcciones sin el previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados. Este delito se sancionará aún cuando no se hubiere totalmente percibido la contraprestación pactada.
 
-Para los efectos penales se entiende por fraccionar, la división de terrenos en lotes.
+Para los efectos penales se entiende por fraccionar la división de terrenos en lotes.
 
-Este delito se sancionará con las penas previstas en el artículo 218 de este Código, con la salvedad de la multa mencionada en la fracción II de dicho precepto, que se elevará hasta ochocientos días multa.
+Este delito se sancionará con las penas previstas en el Artículo 218 de este Código, con la salvedad de la multa mencionada en la fracción II de dicho precepto, que se elevará hasta ochocientos días multa.
 
 ###### Artículo 221.
 
@@ -3600,3 +3610,17 @@ P.O. 20 DE SEPTIEMBRE DE 2002.
 DECRETO NUMERO 92.
 
 UNICO: Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE SEPTIEMBRE DE 2002.
+
+DECRETO NUMERO 90.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2002.
+
+DECRETO NUMERO 93.
+
+UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
