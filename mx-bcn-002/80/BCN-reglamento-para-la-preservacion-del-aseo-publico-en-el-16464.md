@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-preservacion-del-aseo-publico-en-el-16464"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-31"
-last_updated: "2000-03-31"
+last_updated: "2004-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA PRESERVACION DEL ASEO PUBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 NOVIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 31 de marzo del 2000.
 
@@ -67,7 +67,9 @@ IV.- Establecer las sanciones por el incumplimiento de las disposiciones del pre
 
 La aplicación de las disposiciones contenidas en el presente Reglamento corresponderá a:
 
-I.- La Dirección de Obras y Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
+I.- La Dirección de Servicios Públicos Municipales;
 
 II.- Los Delegados y Subdelegados municipales en sus respectivas delegaciones, así como los inspectores adscritos a éstas, en tanto no actúe directamente la Dirección de Obras y Servicios Públicos; y,
 
@@ -83,7 +85,9 @@ II.- Aseo Público.- Son las condiciones de limpieza que deberán tener los bien
 
 III.- Ayuntamiento.- Es el gobierno municipal de Mexicali, Baja California;
 
-IV.- Dirección.- Es la Dirección de Obras y Servicios Públicos Municipales del Ayuntamiento;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
+IV.- Dirección.- Es la Dirección de Servicios Públicos Municipales del Ayuntamiento;
 
 V.- Estación de transferencia.- Lugar en el que se depositan provisionalmente los residuos, para transportarlos en vehículos de mayor capacidad, a los sitios de tratamiento depurador o disposición final. Podrán ser para cualquier residuo, o sólo para cierto tipo de éstos;
 
@@ -267,7 +271,9 @@ Cualquier persona que observe acumulación de residuos, o animales muertos en ba
 
 La persona que sorprenda a otras ensuciando o depositando cualquier tipo de residuos en la vía o los bienes públicos, en lotes baldíos o con construcciones en desuso, deberá dar aviso inmediato a la Dirección de Seguridad Pública Municipal, informándole de los datos de identificación que pudiera haber recabado del infractor, tales como lugar y hora en que se le sorprendió, tipo de vehículo o número de placas de éste en su caso.
 
-La Dirección de Seguridad Pública Municipal impondrá al infractor las sanciones que correspondan conforme al Bando de Policía y Buen Gobierno para el Municipio de Mexicali, sin perjuicio de informar de los hechos a la Dirección, para que esta determine las sanciones que procedan conforme al presente Reglamento.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
+La Dirección de Seguridad Pública Municipal impondrá al infractor las sanciones que correspondan conforme al Bando de Policía y Gobierno para el Municipio de Mexicali, sin perjuicio de informar de los hechos a la Dirección, para que esta determine las sanciones que procedan conforme al presente Reglamento.
 
 La Autoridad Municipal implementará programas para estimular la participación ciudadana a efecto de vigilar el cumplimiento del presente Reglamento.
 
@@ -279,7 +285,9 @@ Son obligaciones de los propietarios o poseedores de bienes inmuebles ubicados e
 
 I.- Mantener en todo momento, debidamente cercados, libres de residuos, los lotes baldíos o con construcciones en desuso;
 
-El Ayuntamiento promoverá el otorgamiento de beneficios y estímulos fiscales a los propietarios o poseedores de lotes baldíos, que los mantengan cercados.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
+El Ayuntamiento promoverá el otorgamiento de beneficios y estímulos en tasa residencial, a los propietarios o poseedores de lotes baldíos que cumplan con las obligaciones establecidas en el primer párrafo de esta fracción.
 
 II.- Realizar en los edificios en desuso, las obras necesarias para evitar su ocupación o utilización por personas sin derecho, así como para mejorar la imagen urbana y brindar seguridad a la comunidad;
 
@@ -335,13 +343,15 @@ Asimismo, durante la operación deberán instalar recipientes para residuos sufi
 
 La distribución de impresos en vialidades o bienes públicos, requerirá de permiso de la Secretaría del Ayuntamiento, en el que se determinarán las zonas, horarios y demás condiciones a que se sujetará tal actividad.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 32.
 
-Para instalar materiales con propaganda de cualquier tipo en mobiliario urbano instalado sobre bienes o vías públicas de jurisdicción municipal, se requerirá permiso de la dependencia del gobierno municipal responsable del desarrollo urbano y la ecología, así como de la Dirección.
+Para instalar materiales con propaganda o publicidad de cualquier tipo, en mobiliario urbano instalado sobre bienes o vías públicas de jurisdicción municipal, se requerirá permiso de la Dirección, de la Dirección de Administración Urbana, y de la Dirección de Ecología.
 
 La autorización de la Dirección, indicará los lugares, el tipo de materiales, el término por el que podrán instalarse, y las demás condiciones que eviten se genere algún daño al mobiliario.
 
-Se considera mobiliario urbano enunciativamente, los arbotantes del alumbrado público, los postes para cables de conducción de energía eléctrica o comunicación, las instalaciones especiales de empresas públicas o privadas que presten servicios de agua, teléfono, gas o similares, los semáforos y demás señalamientos viales, los letreros de nomenclatura, las estructuras para la espera del transporte público, los puentes, las instalaciones de parques, plazas o jardines, los recipientes para residuos, y otros similares.
+Se considera el mobiliario urbano donde sólo se podrán instalar materiales con propaganda o publicidad de fácil remoción de cualquier tipo: las estructuras para la espera del transporte público, los puentes, los recipientes para residuos sólidos.
 
 ###### Artículo 33.
 
@@ -379,6 +389,26 @@ b.- Hacer fogatas;
 
 c.- Tender ropa, alfombras, colchas, u objetos similares.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 36 Bis.
+
+Se prohíbe instalar materiales con propaganda o publicidad de cualquier tipo, en mobiliario urbano instalado sobre bienes o vías públicas de jurisdicción municipal.
+
+Se considera mobiliario urbano:
+
+I.- Los arbotantes del alumbrado público;
+
+II.- Los postes para cables de conducción de energía eléctrica o comunicación;
+
+III.- Las instalaciones especiales de empresas públicas o privadas que presten servicios de agua, teléfono, gas o similares;
+
+IV.- Los semáforos y demás señalamientos viales;
+
+V.- Los letreros de nomenclatura; y
+
+VI.- Las instalaciones de parques, plazas o jardines.
+
 ### CAPÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 37.
@@ -413,17 +443,21 @@ Adicionalmente a la sanción pecuniaria, el infractor de las disposiciones del p
 
 Los Inspectores de Aseo Público, estarán facultados para realizar inspecciones para verificar el cumplimiento de las disposiciones del presente Reglamento, asentando en actas las infracciones que observen que no sean de las que deben sancionarse mediante boleta de infracción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 41.
 
-Cuando se tenga conocimiento del incumplimiento de cualquiera de las disposiciones a que se refieren el artículo 22 fracciones I y II, la Dirección requerirá al propietario o poseedor del inmueble del que se trate, mediante orden fundada y motivada, para que en el término de diez días hábiles siguientes a la notificación, lleve a cabo las acciones que se le exijan, o acuda a convenir un plazo mayor según el caso, apercibido de que de no hacerlo, la Dirección llevará a cabo dichas acciones a costa del mismo responsable, y se le aplicará una sanción consistente en multa de diez a doscientos días de salario mínimo general vigente en el Municipio si se trata de un predio para uso habitacional, y de veinticinco a mil días de salario mínimo general vigente si se trata de un predio para cualquier otro uso.
+Cuando se tenga conocimiento del incumplimiento de cualquiera de las disposiciones a que se refiere el artículo 22 fracciones I y II, la Dirección requerirá al propietario o poseedor del inmueble del que se trate, mediante orden fundada y motivada, para que en el término de diez días hábiles siguientes a la notificación, lleve a cabo las acciones que se le exijan, o acuda a convenir un plazo mayor según el caso, apercibido de que de no hacerlo, la Dirección llevará a cabo dichas acciones a costa del mismo responsable, y se le aplicará una sanción consistente en multa de veinticinco a doscientos días de salario mínimo general vigente en el Municipio, si se trata de un predio para uso habitacional, y de cincuenta a mil días de salario mínimo general vigente, si se trata de un predio para cualquier otro uso.
 
 En caso de que no se atienda el requerimiento de la autoridad en el plazo concedido, y sin perjuicio de la sanción pecuniaria que proceda, la Dirección llevará a cabo las acciones de limpieza, cercado, demolición y demás obras que se le hubieren exigido al responsable, y lo comunicará a la Tesorería Municipal, a fin de que esta determine y cobre los derechos que correspondan por la prestación de dichos servicios.
 
 El procedimiento a que se refiere este artículo se seguirá también cuando los responsables de establecimientos industriales, comerciales o de servicios públicos o privados, incumplan con lo previsto en la primera parte de la fracción IV del artículo 22 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 42.
 
-En el caso de vehículos abandonados en la vía pública, la Dirección requerirá mediante orden fundada y motivada al responsable del mismo, para que en un término de setenta y dos horas, lo retire de la vía pública, o acuda a convenir un plazo mayor, apercibido de que de no hacerlo, la Dirección lo retirará a su costa, y se le aplicará una sanción consistente en multa de quince a veinte días de salario mínimo general vigente en el Municipio.
+En el caso de vehículos abandonados en la vía pública, la Dirección requerirá mediante orden fundada y motivada al responsable del mismo, para que en un término de setenta y dos horas, lo retire de la vía pública, o acuda a convenir un plazo mayor, apercibido de que de no hacerlo, la Dirección lo retirará a su costa, y se le aplicará una sanción consistente en multa de veinte a veinticinco días de salario mínimo general vigente en el Municipio.
 
 De no ser retirado el vehículo de la vía pública en dicho término, lo remolcará la Dirección y lo depositará en el sitio con que cuente el Ayuntamiento para este fin, comunicándolo a la Tesorería Municipal, a fin de que esta determine y cobre al infractor los derechos que correspondan por la prestación de este servicio.
 
@@ -479,9 +513,11 @@ III.- Las notificaciones sufrirán efectos conforme a lo siguiente: las personal
 
 ### CAPÍTULO QUINTO. DE LOS RECURSOS ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 50.
 
-Las resoluciones dictadas con motivo de la aplicación del presente Reglamento, podrán ser impugnadas mediante la interposición de los recursos previstos en la Ley Orgánica de la Administración Pública Municipal del Estado de Baja California.
+Las resoluciones dictadas con motivo de la aplicación del presente Reglamento, podrán ser impugnadas mediante la interposición de los recursos previstos en la Ley del Régimen Municipal para el Estado de Baja California.
 
 T R A N S I T O R I O S
 
@@ -500,3 +536,11 @@ SECRETARIO DEL H. XVI AYUNTAMIENTO DE
 MEXICALI, BAJA CALIFORNIA
 
 RUBRICA
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 19 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor, a partir del día primero de enero del año dos mil cinco.
+
+SEGUNDO.- La Dirección de Servicios Públicos Municipales deberá elaborar los formatos de boletas de infracción correspondientes, en un plazo que no exceda de treinta días naturales, y presentarlas ante el Cabildo para su autorización.
