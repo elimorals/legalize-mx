@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2004-11-12"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -1411,11 +1411,43 @@ III. Aportaciones extraordinarias de los entes públicos;
 
 IV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
-## TITULO UNICO. OBJETO Y SUJETOS DE LA SEGURIDAD Y PROTECCION DE LOS SERVIDORES PUBLICOS
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO I. DE LA INTEGRACION DE LOS COMITES
+## TITULO DÉCIMO. DE LAS DISPOSICIONES DE VIGENCIA ANUAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 157.
+
+Las operaciones traslativas de dominio a que se refiere el Capítulo Segundo del Título Tercero de la Ley de Hacienda de los Municipio del Estado de Querétaro Arteaga, en que intervengan empresas de nueva creación, que inicien la construcción o adquieran instalaciones en operación para generar o mantener empleos, o que celebren empresas que se encuentren establecidas en el Estado de Querétaro, en las que adquieran inmuebles o derechos de dominio sobre los mismos como parte de su patrimonio y propicien con ello la generación de empleos, los Ayuntamientos podrán conceder durante el ejercicio fiscal del año 2005, reducciones de hasta el 80 por ciento que resulten de aplicar los criterios generales que al efecto determine cada Ayuntamiento, para el pago del impuesto sobre el traslado de dominio que corresponda.
+
+En los criterios de aplicación general que establezca cada Ayuntamiento deberá, considerarse los siguientes aspectos:
+
+a) Importe de la inversión.
+
+b) Número de empleos temporales y permanentes que se originen con la inversión.
+
+c) Que las actividades a desarrollar no generen contaminación .
+
+d) Que se evite el consumo de grandes volúmenes de agua.
+
+e) Que se cuente con planta de tratamiento de agua.
+
+Dichos criterios generales serán aplicables a todos los interesados que reúnan los requisitos, a quienes no podrá requerirse aportaciones adicionales en efectivo o especie para obtener dicha autorización.
+
+Las autorizaciones quedarán sujetas al cumplimiento de los requisitos establecidos en los criterios generales, dentro del plazo que al efecto se establezca, y quedará sin efecto el descuento por falta de uno de ellos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 158.
+
+Sólo para el ejercicio fiscal del 2005, los Presidentes Municipales o el encargado de las fianzas Públicas de los Municipios, podrán reducir hasta un 100 por ciento, el importe de las multas o recargos correspondientes a contribuciones no recaudadas.
 
 ## TRANSITORIOS
 
@@ -1514,3 +1546,11 @@ Se derogan todas las disposiciones que se opongan a la presente Ley.
 ###### ARTICULO TERCERO.
 
 La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- La presente Ley, entrará en vigor a partir del primero de enero de 2005.
+
+SEGUNDO.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
