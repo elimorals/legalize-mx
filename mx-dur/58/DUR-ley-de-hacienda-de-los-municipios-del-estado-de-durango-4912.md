@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1998-11-19"
+last_updated: "1998-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -579,9 +579,11 @@ Tratándose de fideicomisos revocables se causará con cargo al fideicomitente a
 
 En los fideicomisos en garantía sólo se causará el impuesto al transmitirse la propiedad por incumplimiento de la obligación garantizada.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1998)</small>
 
-ARTICULO 63 BIS.- No están obligados al pago del Impuesto establecido en esta Ley, las adquisiciones de inmuebles que realicen la Federación, el Estado y los Municipios, para formar parte del dominio público; los partidos políticos, siempre y cuando dichos inmuebles sean para su propio uso; los que adquieran los Estados extranjeros en caso de reciprocidad; y, las donaciones por parentesco entre ascendientes y descendientes en línea directa y en primer grado.
+ARTICULO 63 BIS.- No están obligados al pago del impuesto establecido en esta ley, las adquisiciones de inmuebles que realice la federación, el estado y los municipios, para formar parte del dominio público; los partidos políticos, siempre y cuando dichos inmuebles sean para su propio uso; los que adquieran los estados extranjeros en caso de reciprocidad; y, las donaciones por parentesco entre ascendientes y descendientes en la línea directa y en primer grado; en este último caso, en el Municipio de Gómez Palacio, si se causará el pago del impuesto que establece esta ley.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1992)</small>
 
 Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
@@ -601,7 +603,9 @@ I.- Por la transmisión de la propiedad de bienes inmuebles o de derechos de cop
 
 Tratándose de división de la copropiedad o de la disolución de la Sociedad conyugal, se causará el impuesto si el valor de la parte adjudicada a algunos de los copropietarios o cónyuges, en su caso, excede del valor de su respectiva porción. En estos casos el Impuesto se causará sobre la diferencia que exista entre el valor de la porción que le corresponde al copropietario o al cónyuge, y el valor de la porción que adquiera.
 
-Para los efectos del Impuesto sobre traslación de dominio, la cesión onerosa, la dación en pago, la donación y la adjudicación se equiparán (sic) a la compra-venta. La adjudicación a título de herencia o de legado no causará este impuesto.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1998)</small>
+
+Para los efectos del Impuesto sobre Traslación de Dominio, la cesión onerosa, la dación en pago, la donación y la adjudicación se equiparán a la compra-venta, la adjudicación a título de herencia o de legado no causará este impuesto; en el Municipio de Gómez Palacio, Dgo, la adjudicación a titulo de herencia o de legado, causará el pago al Impuesto sobre la Traslación de Dominio.
 
 II.- Por la transmisión de la propiedad o de derechos de copropiedad sobre bienes inmuebles en los casos de constitución o fusión de sociedades civiles o mercantiles y asociaciones civiles, aumentos o reducciones de los capitales, o disolución y liquidación de dichas sociedades y asociaciones.
 
@@ -658,6 +662,10 @@ I.- En el período comprendido a partir de la publicación del presente Decreto 
 II.- Durante el lapso comprendido del 1º de Enero al 31 de Diciembre de 1993, se aplicará la tasa del 4%.
 
 III.- Del 1º de Enero de 1994 en adelante, se aplicará la tasa del 2%.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1998)</small>
+
+IV.- En el Municipio de Gómez Palacio, Dgo., a partir del 1o. de enero de 1999, el Impuesto sobre la Traslación de Dominio será calculado con una tasa del 3%, exceptuando la vivienda de interés social, la cual estará exenta siempre que su valor no exceda de $150,000.00.
 
 ###### ARTICULO 68.
 
@@ -991,87 +999,85 @@ DE LOS DERECHOS.
 
 POR SERVICIO DE RASTRO.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 109.
 
-Por los servicios que prestan los rastros municipales se pagarán derechos, conforme a la siguiente tarifa:
+Por los servicios que prestan los rastros Municipales se pagarán derechos, conforme a las siguientes tarifas; correspondiendo la tarifa 2 al Municipio de Gómez Palacio, Dgo, y la tarifa 1 a los demás Municipios del Estado:
 
 I.- Por servicio ordinario, que incluye:
 
 recepción del ganado en pie en los corrales, deguello y eviceración, corte de cuernos, maniobra de pieles, lavado de víceras (sic) y entrega de canales:
 
-T A R I F A NUMERO DE SALARIOS
+NÚMERO DE SALARIOS
 
-MINIMOS GENERALES,
+MÍNIMOS GENERALES,
 
 DIARIOS DE LA ZONA
 
-ECONOMICA.
+ECONÓMICA.
 
-ESPECIE:
+I.- ESPECIE TARIFA 1.- TARIFA2.-
 
-A).- Por cabeza de ganado mayor 0.373
+A).- Por cabeza de ganado mayor --------------0.373 0.373
 
-B).- Por cabeza de ganado porcino 0.106
+B).- Por cabeza de ganado porcino-------------0.106 0.106
 
-C).- Por cabeza de ganado menor 0.026
+C).- Por cabeza de ganado menor --------------0.026 0.026
 
-II.- POR REFRIGERACION, POR CADA 24 HORAS O FRACCION.
+II.- POR REFRIGERACIÓN, POR CADA 24 HORAS O FRACCIÓN.
 
-A).- Ganado mayor 0.133
+A).- Ganado mayor -----------------------------------0.133 1.300
 
-B).- Ganado porcino 0.066
+B).- Ganado porcino ---------------------------------0.066 0.500
 
-C).- Ganado menor 0.066
+C).- Ganado menor -----------------------------------0.066 0.500
 
-III.- POR USO DE CORRALES, POR DIA O FRACCION:
+III.- POR USO DE CORRALES, POR DÍA O FRACCIÓN:
 
-A).- Ganado mayor 0.026
+A).- Ganado mayor -----------------------------------0.026 0.130
 
-B).- Ganado Porcino 0.013
+B).- Ganado Porcino ---------------------------------0.013 0.013
 
-C).- Ganado menor 0.013
+C).- Ganado menor -----------------------------------0.013 0.013
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1997)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 110.
 
-Por el resello de carnes frescas o refrigeradas de ganado o aves sacrificadas, fuera de los Rastros Municipales para su introducción al mercado, se pagarán las cuotas siguientes:
+Por el resello de carnes frescas o refrigeradas de ganado o aves sacrificadas, fuera de los rastros municipales, para su introducción al mercado, se pagarán las cuotas siguientes: correspondiendo la tarifa 2 al Municipio de Gómez Palacio, Dgo., y la tarifa 1 a los demás municipios del estado:
 
-T A R I F A NUMERO DE SALARIOS
+NÚMERO DE SALARIOS
 
-MINIMOS GENERALES,
+MÍNIMOS GENERALES,
 
 DIARIOS DE LA ZONA
 
-ECONOMICA
+ECONÓMICA
 
-ESPECIE:
+1.- ESPECIE: TARIFA 1.- TARIFA 2.-
 
-A).- Ganado mayor por canal 0.080
+A).- Ganado mayor por canal 0.080 0.450
 
-B).- Ganado porcino por canal 0.040
+B).- Ganado porcino por canal 0.040 0.200
 
-C).- Ganado ovicaprino por canal 0.053
+C).- Ganado ovicaprino por canal 0.053 0.200
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+D).- Aves, con excepción de guajolotes por
 
-D).- Aves, Ajuste de Tarifas de Derecho
+cada una 0.005 0.005
 
-de Resello, con excepción de guajolotes
+E).- Guajolotes por cada uno 0.008 0.080
 
-por cada una 0.0004
+F).- Cabritos por cada uno 0.013 0.130
 
-E).- Guajolotes por cada uno 0.008
+G).- Asaduras por pieza 0.005 0.050
 
-F).- Cabritos por cada uno 0.013
+H).- Menudo 0.005 0.050
 
-G).- Asaduras por pieza 0.005
+I).- Cabezas de res o cerdo cada una 0.005 0.050
 
-H).- Menudo 0.005
-
-I).- Cabezas de res o cerdo cada una 0.005
-
-Cuando se trate de animales incompletos, se causarán los derechos que establece este artículo, si la carne que se presente corresponde a más de la mitad del animal y si es menor, se cobrará el 50% de las cuotas.
+Cuando se trate de porciones de canales, se causarán los derechos que establece este artículo, si la carne que se presente corresponde a más de la mitad del animal y si es menor, se cobrará el 50% de las cuotas.
 
 ### CAPITULO II
 
@@ -1299,21 +1305,113 @@ POR DEMOLICIONES DE FINCAS
 
 VI.- El metro cuadrado de cada una de las plantas de acuerdo con las siguientes clasificaciones:
 
-T A R I F A NUMERO DE SALARIOS
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1998)</small>
 
-MINIMOS GENERALES,
+En el Municipio de Gómez Palacio, Dgo., los derechos a que se refiere este artículo, se aplicarán las tarifas conforme la siguiente clasificación:
 
-DIARIOS DE LA ZONA
+AUTORIZACIÓN PARA
 
-ECONOMlCA.
+CONSTRUCCIÓN: PORCENTAJE POR METRO
 
-Tipo "A"………………………………………………………………….0.006
+CUADRADO DEL SALARIO MÍNIMO GENERAL DIARIO
 
-Tipo "B"………………………………………………………………….0.004
+DE LA ZONA ECONÓMICA
 
-Tipo "C"………………………………………………………………….0.003
+A.- HABITACIÓN: TARIFAS:
 
-Tipo "D"………………………………………………………………….0.002
+1.- POPULAR 0.01%
+
+2.- INTERÉS SOCIAL 0.03%
+
+3.- MEDIA 0.04%
+
+4. RESIDENCIAL 0.05%
+
+B.- COMERCIAL:
+
+1.- COMERCIAL 0.05%
+
+C.- INDUSTRIAL:
+
+1.- INDUSTRIAL OFICINA 0.05%
+
+2.- INDUSTRIAL ALMACÉN 0.03%
+
+D.- CONSTRUCCIÓN DE CERCAS Y BARDAS:
+
+1.- HASTA 50 METROS 0.03%
+
+2.- DE 51 A 100 METROS 0.05%
+
+3.- DE 101 METROS EN ADELANTE 0.08%
+
+E.- MODIFICACIÓN, RECONSTRUCCIÓN, PORCENTAJE ORNAMENTACIÓN, SOBRE EL VALOR
+
+O DECORACIÓN DE LA OBRA
+
+1.- HABITACIÓN POPULAR 0.40%
+
+2.- HABITACIÓN DE INTERÉS SOCIAL 0.75%
+
+3.- HABITACIÓN MEDIO 1.20%
+
+4.- HABITACIÓN RESIDENCIAL 1.50%
+
+5.- COMERCIAL 1.50%
+
+6.- INDUSTRIAL 1.00%
+
+F.- AUTORIZACIÓN PARA ROTURA
+
+DE BANQUETAS, EMPEDRADOS,
+
+PAVIMENTOS CONDICIONADOS A
+
+REPARACIÓN:
+
+1.53% POR METRO CUADRADO DEL SALARIO MÍNIMO VIGENTE:
+
+G.- DEMOLICIONES: PORCENTAJE POR METRO CUADRADO DEL SALARIO MÍNIMO VIGENTE.
+
+1.- ADOBÓN Y ESTRUCTURAS 0.05%
+
+2.- ADOBE Y MADERA 0.03%
+
+3.- CONSTRUCCIONES PROVISIONALES 0.02%
+
+H.- AUTORIZACIÓN DE PLANOS CANTIDAD DE SALARIOS
+
+DE CONSTRUCCIÓN DE PRIMERA MÍNIMOS VIGENTES.
+
+1.- QUE NO EXCEDA DE CINCO PLANTAS 22.07 VECES
+
+2.- DE SEIS A DIEZ PLANTAS 16.54 VECES
+
+3.- DE DIEZ PLANTAS EN ADELANTE 11.03 VECES
+
+I.- AUTORIZACIÓN DE PLANOS DE
+
+CONSTRUCCIÓN DE SUPERFICIES
+
+HORIZONTALES, AL DESCUBIERTO
+
+O PATIOS RECUBIERTOS:
+
+PORCENTAJE POR METRO CUADRADO DEL SALARIO MÍNIMO VIGENTE
+
+1.- PAVIMENTO ASFÁLTICO, ADOQUINES
+
+CONCRETO ARMADO 0.04%
+
+2.- CONCRETO SIMPLE 0.03%
+
+3.- GRAVAS Y TERRACERÍAS Y OTROS 0.02%
+
+J.- APROBACIÓN DE PLANOS PARA CONSTRUCCIÓN
+
+ALBERCAS, CISTERNAS, SÓTANOS Y OTROS: 0.57% DEL SALARIO MÍNIMO
+
+VIGENTE POR METRO CÚBICO
 
 ###### ARTICULO 126.
 
@@ -1322,6 +1420,10 @@ Los derechos especificados en las fracciones I a IV del Artículo anterior, qued
 I.- Las construcciones de la (sic) que excedan de cinco plantas incluyendo la planta baja o principal pagarán el 85% de la cuota correspondiente.
 
 II.- Las construcciones de la categoría que excedan de diez plantas incluyendo la planta baja o principal pagarán el 75% del derecho correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1998)</small>
+
+Se exceptúa de la aplicación de este artículo al Municipio de Gómez Palacio, Dgo.
 
 ###### ARTICULO 127.
 
@@ -2851,15 +2953,9 @@ II.- Por servicios que preste el Departamento de Sanidad Municipal y otros, la c
 
 III.- Los derechos de revisión y servicios que presten las autoridades municipales a través de su Departamento en los diversiones (sic) ramos de su competencia, se determinarán discrecionalmente por el C. Tesorero Municipal correspondiente atendiendo la índole de la prestación y nunca será menor de 0.5 salarios mínimos.
 
-C A P I T U L O XVIII
+### CAPITULO XVIII
 
 POR SERVICIO PUBLICO DE ILUMINACION.
-
-### CAPITULO XIX
-
-POR LA EXPLOTACIÓN COMERCIAL DE MATERIAL DE CONSTRUCCION.
-
-> <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
 
 ###### ARTICULO 208.
 
@@ -2874,6 +2970,26 @@ La tasa para determinar el monto de servicio público de iluminación será de u
 ###### ARTICULO 210.
 
 El derecho por servicio público de iluminación será recaudado por conducto de la Comisión Federal de Electricidad y se aplicarán de conformidad con los convenios que los HH. Ayuntamiento celebren con dicha Institución.
+
+### CAPITULO XIX
+
+POR LA EXPLOTACIÓN COMERCIAL DE MATERIAL DE CONSTRUCCION.
+
+> <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
+
+###### ARTICULO 211.
+
+La explotación comercial de materiales de construcción, bancos ubicados dentro del Municipio, causarán el pago de un derecho que se calculará conforme a la siguiente tarifa:
+
+Por metro cúbico de arena, cascajo de tierra, de 0.010 sobre el salario mínimo; así como 0.001 por metro cúbico de otros materiales no especificados.
+
+> <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
+
+###### ARTICULO 212.
+
+El pago de este derecho podrá sujetarse a la aplicación de cuotas calculadas por la Tesorería Municipal conforme a volúmenes globales de explotación comercial, previas (sic) los estudios que realice.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO XX
 
@@ -2915,31 +3031,13 @@ C).- Por lo que exceda de 7,758 salarios mínimos en adelante, 1.2 al millar.
 
 III.- Por otros servicios solicitados a la Oficina Municipal de Catastro y no contemplados en los apartados anteriores, serán cuantificados por esa dependencia.
 
-###### ARTICULO 211.
-
-La explotación comercial de materiales de construcción, bancos ubicados dentro del Municipio, causarán el pago de un derecho que se calculará conforme a la siguiente tarifa:
-
-Por metro cúbico de arena, cascajo de tierra, de 0.010 sobre el salario mínimo; así como 0.001 por metro cúbico de otros materiales no especificados.
-
-> <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
-
-###### ARTICULO 212.
-
-El pago de este derecho podrá sujetarse a la aplicación de cuotas calculadas por la Tesorería Municipal conforme a volúmenes globales de explotación comercial, previas (sic) los estudios que realice.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 1995)</small>
-
-### CAPITULO I
-
-ENAJENACION DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO.
-
 ## TITULO CUARTO
 
 PRODUCTOS.
 
-### CAPITULO II
+### CAPITULO I
 
-ARRENDAMIENTO DE BIENES PROPIEDAD DEL MUNICIPIO.
+ENAJENACION DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO.
 
 ###### ARTICULO 213.
 
@@ -2975,9 +3073,9 @@ El pago de los artículos provenientes de la enajenación de bienes que formen p
 
 En ningún caso podrán enajenarse bienes de uso común o destinados al servicio de los Municipios, mientras tengan este carácter o destino.
 
-### CAPITULO III
+### CAPITULO II
 
-POR ESTABLECIMIENTOS O EMPRESAS QUE DEPENDAN DEL MUNICIPIO.
+ARRENDAMIENTO DE BIENES PROPIEDAD DEL MUNICIPIO.
 
 ###### ARTICULO 221.
 
@@ -2999,57 +3097,69 @@ Las rentas mensuales por ocupación de casillas o sitios dentro de los Mercados 
 
 En los contratos o concesiones respectivos, siempre se estipulará el cumplimiento de las obligaciones en ellos contraídas, en caso de no cumplirse en la forma y términos que se estipuló en ellos, se exigirá mediante el ejercicio de la facultad económico- coactivo.
 
-### CAPITULO IV
+### CAPITULO III
 
-POR CREDITOS A FAVOR DEL MUNICIPIO.
+POR ESTABLECIMIENTOS O EMPRESAS QUE DEPENDAN DEL MUNICIPIO.
 
 ###### ARTICULO 226.
 
 Tendrán carácter de productos los ingresos que se obtengan por la explotación de establecimientos o empresas que dependan del municipio.
 
-### CAPITULO V
+### CAPITULO IV
 
-POR VENTA DE BIENES MOSTRENCOS Y ABANDONADOS.
+POR CREDITOS A FAVOR DEL MUNICIPIO.
 
 ###### ARTICULO 227.
 
 Tendrán carácter de productos los ingresos que se obtengan por los créditos a favor del municipio.
 
-### CAPITULO VI
+### CAPITULO V
 
-LOS QUE SE OBTENGAN DE LA VENTA DE OBJETOS RECOGIDOS POR AUTORIDADES MUNICIPALES.
+POR VENTA DE BIENES MOSTRENCOS Y ABANDONADOS.
 
 ###### ARTICULO 228.
 
 Tendrán carácter de productos los ingresos que se obtengan por la venta de bienes mostrencos y abandonados.
 
-### CAPITULO VII
+### CAPITULO VI
 
-POR ESTACIONAMIENTO DE VEHICULOS EN LA VIA PUBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES DE TIEMPO.
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
+LOS QUE SE OBTENGAN DE LA VENTA DE OBJETOS RECOGIDOS POR AUTORIDADES MUNICIPALES.
 
 ###### ARTICULO 229.
 
 Tendrán carácter de productos los ingresos que se obtengan de la venta de objetos recogidos por Autoridades Municipales.
 
-### CAPITULO UNICO
+### CAPITULO VII
 
-APROVECHAMIENTOS.
+POR ESTACIONAMIENTO DE VEHICULOS EN LA VIA PUBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES DE TIEMPO.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 230.
 
-En aquellos lugares donde existen aparatos medidores de tiempo (estacionómetros), por cada media hora o fracción menor de tiempo, se cobrará por servicios de estacionamiento público N$0.50 (cincuenta centavos); al infractor de esta obligación se le aplicará una sanción equivalente a un día de salario mínimo general vigente en el Estado, sujetándose a las siguientes reglas:
+En aquellos lugares donde existen aparatos medidores de tiempo (estacionómetros), por cada media hora o fracción menor de tiempo, se cobrará por servicio de estacionamiento público $0.50 (cincuenta centavos); en el Municipio de Gómez Palacio, Dgo., por este servicio se cobrará $1.00 (un peso) por cada media hora o fracción menor de tiempo; al infractor de esta obligación se le aplicará una sanción equivalente a un día de salario mínimo general vigente en el Estado, sujetándose a las siguientes reglas:
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
 
 a).- Si cubre la sanción dentro de los 3 días hábiles siguientes a la infracción incurrida, se le descontará el 30% de la cantidad a pagar;
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
+
 b).- Si cubre la infracción después del 3er. día que se menciona en el inciso anterior, pero hasta antes de 30 días transcurridos desde que se cometió la infracción, no tendrá derecho a descuento alguno; y
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
 
 c).- Si paga después de 30 días de haber cometido la infracción, pero antes de 45 días, se duplicará la multa; si después de ese periodo no se hace efectivo tal adeudo, dará inicio el procedimiento de ejecución contra el deudor.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
+
 Se podrán emitir, por la Autoridad competente, engomados para su uso en zonas marcadas con estacionómetros por un valor equivalente a cuarenta días de salario mínimo vigente en el Estado, con vigencia para un periodo de 6 meses. Su adquisición durante los primeros 30 días de su puesta a la venta tendrá un descuento de un 25% del total de su costo.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
+
 Las personas que para maniobras de carga y descarga frente a sus domicilios, requieran de cajones de estacionamiento, deberán cubrir una cuota semestral equivalente a cincuenta días de salario mínimo general vigente en el Estado por cada espacio que corresponda a un aparato medidor de tiempo y tomando en cuenta las disposiciones de la Ley de Tránsito y Transportes y su Reglamento.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
 
 Se aplicará una multa equivalente a 15 días de salario mínimo general vigente en el Estado a quien insulte o agreda a las personas encargadas de la vigilancia de los aparatos estacionómetros, con motivo del ejercicio de sus funciones, sin perjuicio de su consignación a la autoridad competente por los delitos que le resultaren.
 
@@ -3057,7 +3167,7 @@ Se aplicará una multa equivalente a 15 días de salario mínimo general vigente
 
 ### CAPITULO UNICO
 
-PARTICIPACIONES.
+APROVECHAMIENTOS.
 
 ###### ARTICULO 231.
 
@@ -3089,7 +3199,7 @@ La falta oportuna del pago de impuestos, derechos, causará un recargo en concep
 
 ### CAPITULO UNICO
 
-INGRESOS EXTRAORDINARIOS.
+PARTICIPACIONES.
 
 ## TITULO SEXTO
 
@@ -3312,3 +3422,7 @@ U N I C O.- El presente Decreto entrará en vigor al día siguiente de su public
 P.O. 19 DE NOVIEMBRE DE 1998.
 
 Ú N I C O.- El presente decreto entrará en vigor tres días después de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1998.
+
+El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
