@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2003-08-01"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2003.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -785,9 +785,13 @@ XLI. Crear organismos descentralizados;
 
 XLII. Conceder premios y recompensas por servicios eminentes e importantes prestados a la humanidad, al Estado o a la comunidad; y
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
 
-XLIII. Aprobar el que uno o más municipios del Estado, previo acuerdo entre sus ayuntamientos, se coordinen y asocien con uno o más municipios de otras entidades federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan;
+XLIII. Aprobar el que uno o más municipios del Estado:
+
+a) Previo acuerdo entre sus ayuntamientos, se coordinen y asocien con uno o más municipios de otras entidades federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan.
+
+b) Mediante la declaratoria correspondiente integren con el Gobierno del Estado, zonas metropolitanas para la coordinación de los planes, programas y acciones, de estos entre sí o del Estado y sus municipios con planes federales o de entidades federativas colindantes; para lo cual asignará los presupuestos respectivos.
 
 > <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
 
@@ -981,9 +985,9 @@ IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las 
 
 V. Presentar ante la Legislatura del Estado iniciativas de ley o decreto;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
 
-VI. Planear y conducir el desarrollo integral del Estado; formular, aprobar, desarrollar, ejecutar, controlar y evaluar el Plan Estatal de Desarrollo, planes sectoriales y regionales, y los programas que de éstos se deriven. En los procesos de planeación regional deberá consultarse a los ayuntamientos;
+VI. Planear y conducir el desarrollo integral del Estado; formular, aprobar, desarrollar, ejecutar, controlar y evaluar el Plan Estatal de Desarrollo, planes sectoriales, metropolitanos y regionales, y los programas que de éstos se deriven. En los procesos de planeación metropolitana y regional deberá consultarse a los ayuntamientos;
 
 VII. Convocar a la Legislatura a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas;
 
@@ -1269,7 +1273,7 @@ I. En segunda instancia, los asuntos que determinen los ordenamientos legales ap
 
 II. Los conflictos de competencia que se susciten entre los jueces del Estado; y
 
-> <small>(REFORMADA G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 III. Los demás asuntos que les confieran las leyes.
 
@@ -1501,7 +1505,9 @@ Los ayuntamientos de los municipios tienen las atribuciones que establecen la Co
 
 Los municipios tendrán a su cargo las funciones y servicios públicos que señala la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Los municipios ejercerán las facultades señaladas en la fracción V del artículo 115 de la Constitución General, de manera coordinada y concurrente con el Gobierno del Estado, de acuerdo con los planes y programas federales y estatales a que se refiere el artículo 139 de este ordenamiento.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+
+Los municipios ejercerán las facultades señaladas en la Constitución General de la República, de manera coordinada con el Gobierno del Estado, de acuerdo con los planes y programas federales, estatales, regionales y metropolitanos a que se refiere el artículo 139 de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
 
@@ -1699,21 +1705,33 @@ Las autoridades del Estado y de los municipios, en la esfera de su competencia, 
 
 El Estado y los municipios tienen personalidad jurídica para ejercer derechos y asumir obligaciones en términos de ley.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 139.
 
-El desarrollo de la Entidad se sustenta en el Sistema Estatal de Planeación Democrática, que tiene como base el Plan de Desarrollo del Estado de México.
+El desarrollo de la entidad se sustenta en el Sistema Estatal de Planeación Democrática, que tiene como base el Plan de Desarrollo del Estado de México:
 
-El Sistema Estatal de Planeación Democrática se integra por los planes y programas que formulan las autoridades estatales y municipales, con la participación de la sociedad, para el desarrollo de la Entidad.
+I. El Sistema Estatal de Planeación Democrática se integra por los planes y programas que formulen las autoridades estatales y municipales y considerará en su proceso: El planteamiento de la problemática en base a la realidad objetiva, la proyección genérica de los objetivos para la estructuración de planes, programas y acciones que regirán el ejercicio de sus funciones públicas, su control y evaluación. Las Leyes de la materia proveerán la participación de los sectores público, privado y social en el proceso y el mecanismo de retroalimentación permanente en el sistema.
 
-Los planes, programas y acciones que formulen y ejecuten los ayuntamientos en las materias de su competencia, se sujetarán a las disposiciones legales aplicables y serán congruentes con los planes y programas federales y estatales.
+Los planes, programas y acciones que formulen y ejecuten los ayuntamientos en las materias de su competencia, se sujetarán a las disposiciones legales aplicables y serán congruentes con los planes y programas federales, estatales, regionales y metropolitanos, en su caso.
 
-Los ciudadanos del Estado podrán participar en la formulación de planes y programas estatales y municipales, para el desarrollo armónico y ordenado de las comunidades.
+Los ciudadanos del Estado, individualmente o a través de agrupaciones legalmente constituidas podrán participar en el proceso de planeación democrática en los términos establecidos por las leyes para la formulación de planes y programas estatales, municipales, regionales y metropolitanos para la integración social de su habitantes y el desarrollo de las comunidades.
 
-Para la planeación y ejecución de acciones, el Gobernador del Estado y los ayuntamientos, por conducto de aquél, podrán celebrar con la Federación, el Distrito Federal y con las entidades federativas colindantes con el Estado, convenios para la creación de comisiones en las que concurran y participen con apego las leyes de la materia. Estas comisiones podrán ser creadas al interior del Estado, por el Gobernador del Estado y los ayuntamientos.
+II. En materia metropolitana, el Gobierno del Estado y los Ayuntamientos de los municipios deberán en forma coordinada y en términos de la Constitución Política de los Estados Unidos Mexicanos:
 
-Cuando dos o más centros urbanos situados en territorios municipales del Estado formen o tiendan a formar una continuidad demográfica, el Estado y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la leyes de la materia.
+a) Participar en la planeación y ejecución de acciones coordinadas con la Federación, y con las entidades federativas colindantes con el Estado, en las materias de: Abasto y Empleo, Agua y Drenaje, Asentamientos Humanos, Coordinación Hacendaria, Desarrollo Económico, Preservación, Recolección, Tratamiento y Disposición de Desechos Sólidos, Protección al Ambiente, Protección Civil, Restauración del Equilibrio Ecológico, Salud Pública, Seguridad Pública y Transporte, Turismo y aquellas que resulten necesarias y conformar con dichas entidades las comisiones metropolitanas en las que concurran y participen con apego a sus atribuciones y conforme a las leyes de la materia. Estas comisiones también podrán ser creadas al interior del Estado, por el Gobernador del Estado y los ayuntamientos cuando sea declarada una Zona Metropolitana.
+
+b) Integrar invariablemente al proceso de planeación regional y metropolitana a través de las comisiones respectivas para la ejecución de las obras y prestación de los servicios que conjuntamente hubieren aprobado para sus zonas metropolitanas y ejecutarán los programas conjuntos en los distintos ramos de la administración estatal y municipal, en los términos de los convenios suscritos al efecto.
+
+c) Presupuestar a través de la legislatura y sus cabildos respectivamente las partidas presupuestales necesarias para ejecutar en el ámbito de su competencia los planes y programas metropolitanos, en cada ejercicio, y constituirán fondos financieros comunes para la ejecución de acciones coordinadas.
+
+Su participación se regirá por principios de proporcionalidad y equidad atendiendo a criterios de beneficio compartido, en términos de los convenios respectivos.
+
+d) Regular la ejecución conjunta y coordinada de los planes, programas y acciones que de ellos deriven a través de las comisiones metropolitanas.
+
+e) Suscribir convenios con la Federación, los Estados y municipios limitrofes y el Distrito Federal, en su caso, para la ejecución de obras, operación y prestación de servicios públicos o la realización de acciones en las materias que fueren determinadas por las comisiones metropolitanas y relacionados con los diversos ramos administrativos.
+
+f) Publicar los acuerdos y convenios que se suscriban para dar cumplimiento a los planes metropolitanos, en los periódicos oficiales.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2448,3 +2466,11 @@ P.O. 1 DE AGOSTO DE 2003
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+P.O. 1 DE SEPTIEMBRE DE 2003
+
+PRIMERO.- Para los fines de integralidad y congruencia, la Legislatura del Estado efectuará las adecuaciones y reformas derivadas del presente a la Ley Orgánica Municipal del Estado de México, Código Administrativo del Estado de México, Ley de Planeación del Estado y Municipios y su Reglamento, Código Financiero del Estado de México y Municipios, Ley Orgánica de la Administración Pública del Estado de México y Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México.
+
+SEGUNDO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Este decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
