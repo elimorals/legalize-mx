@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2003-01-17"
+last_updated: "2003-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2003.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -285,9 +285,11 @@ Fundamentación y motivación de los actos del Ministerio Público.- El Minister
 
 Impedimentos, excusas y recusaciones.- Los agentes del Ministerio Público deben excusarse de conocer los asuntos en que intervengan, cuando exista cualesquiera de las causas de impedimento que señala el Artículo 18 de este Código. La excusa será calificada en definitiva, por el Procurador General de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2003)</small>
+
 ###### Artículo 24.
 
-Funciones de la Policía Judicial.- La Policía Judicial del Estado actuará bajo la autoridad y el mando inmediato del Ministerio Público, de conformidad con lo dispuesto por el Artículo 21 de la Constitución Federal. De acuerdo con las instrucciones que le dicte el Ministerio Público, la Policía Judicial desarrollará las diligencias que deban practicarse durante la averiguación previa y exclusivamente para los fines de ésta, llevará a cabo las citaciones, notificaciones y presentaciones que aquél le ordene. Asimismo, la Policía Judicial ejecutará las ordenes de aprehensión, de cateo y demás mandamientos que emita la autoridad judicial.
+Funciones de la Policía Ministerial.- La Policía Ministerial del Estado, actuará bajo la autoridad y el mando inmediato del Ministerio Público, de conformidad con lo dispuesto por el Artículo 21 de la Constitución Federal. De acuerdo con las instrucciones que le dicte el Ministerio Público, la Policía Ministerial desarrollará las diligencias que deban practicarse durante la averiguación previa y exclusivamente para los fines de ésta, llevará a cabo las citaciones, notificaciones y presentaciones que aquél le ordene. Asimismo, la Policía Ministerial ejecutará las ordenes de aprehensión, de cateo y demás mandamientos que emita la autoridad judicial.
 
 ### CAPITULO III. EL INCULPADO Y EL DEFENSOR
 
@@ -997,7 +999,9 @@ Cuando se trate de delitos que afecten la vida o la integridad corporal, el mont
 
 II.- Que caucione el cumplimiento de las obligaciones derivadas del procedimiento, previstas en el Artículo 129 de este mismo Código. La cantidad que se fije para garantizar la buena conducta procesal deberá ser asequible para el inculpado y;
 
-III.- Que no se trate de alguno de los delitos calificados como graves por el artículo 123 de esta ley;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2003)</small>
+
+III.- Que no se trate de alguno de los delitos calificados como graves por el artículo 123 de esta Ley, aún tratándose de delitos en grado de tentativa;
 
 > <small>(ADICIONADA, P.O. 3 DE ENERO DE 1997)</small>
 
@@ -1025,11 +1029,13 @@ No se considera como antecedentes para negar la libertad caucional, los delitos 
 
 Cuando se solicite la libertad caucional, el juzgador o el ministerio público en su caso, deberá resolver de plano lo conducente. Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervinientes.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2003)</small>
 
 ###### Artículo 123.
 
-Delitos Graves.- Para todos los efectos legales, se clasifican como delitos graves los previstos en los siguientes artículos del Código Penal:
+Delitos Graves.- Para todos los efectos legales, se clasifican como delitos graves los previstos en los siguientes Artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
 Homicidio por culpa., previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el Artículo 123, en su forma simple contemplado en el Artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; infanticidio descrito en el Artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del Artículo 131; Lesiones contra menores incapaces descrito en el artículo 143-Bis párrafo segundo; secuestro previsto en los artículos 164 y 165; asalto agravado tipificado en el Artículo 173; violación contemplada en el Artículo 176, violación equiparada en el 177, violación impropia en el 178, así como las formas agravadas, a que se refiere el Artículo 179; robo calificado en las hipótesis previstas por los Artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los Artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el Artículo 209, pero sólo cuando se trate de ganado vacuno; despojo agravado a que se refiere el párrafo cuarto del Artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del Artículo 229; tráfico de menores descrito por el Artículo 238 primer y segundo párrafos; corrupción de menores e incapaces tipificado en el artículo 261 párrafo segundo, pornografía infantil tipificado en el Artículo 261-Bis, Lenocinio descrito en la fracción IV del Artículo 266; Lenocinio agravado del artículo 267; terrorismo descrito en el artículo 279 excepto su encubrimiento; peculado en su modalidad contemplada en el Artículo 299 fracción III; tortura previsto en el Artículo 307-bis primer párrafo y 307-ter segundo párrafo; evasión de presos, en la forma agravada del Artículo 328 y los delitos electorales previstos en los artículos 348 fracción IV y 355.
 
@@ -2057,11 +2063,13 @@ Si la denuncia o querella se presenta ante un Agente del Ministerio Público inc
 
 ### CAPITULO II. NO EJERCICIO Y DESISTIMIENTO DE LA ACCION PENAL
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2003)</small>
 
 ###### Artículo 262.
 
-Resolución de no ejercicio de la acción penal.- Cuando en vista de las pruebas recabadas durante la averiguación previa, el Ministerio Público determine que no debe ejercitarse la acción penal por los hechos que fueron materia de acusación, el denunciante o querellante ofendido podrá interponer el Recurso de Revisión ante el Juez Penal competente, en los diez días siguientes a la fecha en que se le haya hecho saber personalmente al interesado tal determinación mientras no se notifique dicha resolución, no correrá el término para interponer el recurso, pero sí la prescripción de la pretensión punitiva.
+Resolución de no Ejercicio de la Acción Penal.- Cuando en vista de las pruebas recabadas durante la averiguación previa, el Ministerio Público determine que no debe ejercitarse la acción penal por los hechos que fueron materia de acusación, el denunciante o querellante ofendido podrá interponer el Recurso de Revisión ante el mismo agente del Ministerio Público, en los diez días siguientes a la fecha que se haya hecho saber personalmente al interesado tal determinación. Mientras no se notifique dicha resolución, no correrá el término para interponer el recurso, pero si la prescripción de la pretensión punitiva.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1995)</small>
 
 Después de ejercitada la acción penal, el ministerio Público puede desistirse de la misma hasta antes de presentar conclusiones, fundando y motivando su petición.
 
@@ -3434,3 +3442,7 @@ P.O. 17 DE ENERO DE 2003.
 ###### ARTICULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE FEBRERO DE 2003.
+
+UNICO.- Las presentes reformas entrarán en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
