@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "1990-12-21"
+last_updated: "1991-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1991.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -3849,7 +3849,7 @@ II.- Cuando no hay tutor testamentario.
 
 III.- Cuando deba nombrarse tutor por causa de divorcio.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+((REFORMADO, P.O. 27 DE ABRIL DE 1990)
 
 ###### Artículo 677.
 
@@ -12445,7 +12445,7 @@ No puede arrendar el copropietario sin consentimiento de los otros copropietario
 
 ###### Artículo 2266.
 
-Pueden arrendarse los bienes que puedan usarse sin consumirse, incluyendo el usufructo, excepto aquéllos que la ley prohibe arrendar.
+Pueden arrendarse los bienes que puedan usarse sin consumirse, incluyendo el usufructo, excepto aquéllos que la ley prohíbe arrendar.
 
 ###### Artículo 2267.
 
@@ -13511,9 +13511,13 @@ II.- Los jueces, magistrados y demás funcionarios y empleados de la administrac
 
 III.- Los empleados de la Hacienda Pública en cualquiera causa en que puedan intervenir de oficio, dentro de los límites del Estado;
 
-IV.- Quienes carezcan de título o teniéndolo no esté registrado en el Tribunal Superior de Justicia; y
+IV.- (DEROGADA, P.O. 26 DE JULIO DE 1991)
 
 V.- Los notarios.
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1991)</small>
+
+VI.- Cuando los mandatarios para pleitos y cobranzas no sean abogados titulados, deberán promover ante las autoridades judiciales, patrocinados por un abogado con título registrado ante el Tribunal Superior de Justicia del Estado.
 
 ###### Artículo 2475.
 
@@ -19340,5 +19344,9 @@ Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 Los procedimientos judiciales que se hayan iniciado antes de la vigencia del presente Decreto, continuarán hasta su conclusión, aplicándose la legislación que les dio inicio.
 
 P.O. 21 DE DICIEMBRE DE 1990.
+
+TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JULIO DE 1991.
 
 TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
