@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "1992-04-04"
+last_updated: "1992-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -327,7 +327,9 @@ I.- Vigilar el cumplimiento de las disposiciones establecidas en el Artículo 3o
 
 II.- Formular, proponer y aplicar programas educativos, culturales, deportivos y de capacitación y adiestramiento para la población del Estado, coordinándose con las autoridades federales correspondientes.
 
-III.- Promover y coordinar la planeación de los servicios educativos que se imparten en la Entidad.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 1992)</small>
+
+III.- Llevar a cabo la planeación de los servicios educativos a cargo del Gobierno del Estado.
 
 IV.- Promover, cuando sea necesario para la elaboración de los programas educativos del Gobierno del Estado, la participación de las instituciones de educación en sus distintos niveles y tipos tanto públicas como privadas.
 
@@ -566,3 +568,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 4 DE ABRIL DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 13 DE JUNIO DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+SEGUNDO.- El Congreso del Estado, de conformidad con el Convenio de Ejecución del Acuerdo Nacional para la Modernización Educativa suscrito por los Gobiernos Federal y Estatal con fecha 18 de mayo del año en curso, establecerá un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que se denominará "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA". En base a los convenios suscritos por el Poder Ejecutivo con el Sindicato Nacional de los Trabajadores de la Educación y el Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, expedirá las disposiciones relativas al régimen laboral y de seguridad social aplicables a los trabajadores de la educación que formaron parte del Sistema Educativo Federal y que a partir de la fecha señalada en dicho Convenio, quedarán adscritos al mencionado organismo público, formando parte del Sistema Estatal.
