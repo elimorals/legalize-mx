@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-i-88-del-tribunal-en-pleno-de-la-suprema-corte-de-63582
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-02-15"
-last_updated: "1992-01-22"
+last_updated: "1994-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-19"
 
 ACUERDO I/88 DEL TRIBUNAL EN PLENO DEL DIECINUEVE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 1994.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 15 de febrero de 1988.
 
@@ -81,6 +81,20 @@ CUARTO.- Si la Sala a la que haya sido turnado un asunto estima que éste no se 
 
 QUINTO.- El Pleno podrá, si lo estima conveniente, resolver un asunto aunque se encuentre en alguna de las hipótesis señaladas en este acuerdo.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO VIll/94 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 6 DE ABRIL DE 1994)</small>
+
+SEXTO.- El presidente o el Pleno enviará a las Salas de la Suprema Corte de Justicia de la Nación y, en su caso, éstas conservarán, para su resolución, los asuntos que a juicio del ministro ponente, queden comprendidos en las siguientes hipótesis:
+
+1. Los recursos de reclamación, cuando a juicio del ponente deban declararse infundados;
+
+2. Las quejas administrativas, cuando a juicio del ponente deban declararse infundadas;
+
+3. Salvo los nombramientos y dictámenes fundados de responsabilidades, los asuntos relacionados con los defensores de oficio, los cuales se enviarán a la Primera Sala.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO VIll/94 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 6 DE ABRIL DE 1994)</small>
+
+SEPTIMO.- Cualquiera de los asuntos a que se refiere los puntos que anteceden, así como los especificados en el acuerdo I/88 de diecinueve de enero de mil novecientos ochenta y ocho, pasarán al Pleno a solicitud de uno o varios de los Ministros.
+
 TRANSITORIO:
 
 UNICO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
@@ -100,3 +114,11 @@ D.O.F. 22 DE ENERO DE 1992.
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, y en el Semanario Judicial de la Federación.
+
+D.O.F. 6 DE ABRIL DE 1994.
+
+PRIMERO. Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
+
+TERCERO. Las reglas anteriores se aplicarán aun a los asuntos que ya se encuentren listados o presentados en la Secretaría General de Acuerdos, la cual los enviará a las Salas correspondientes.
