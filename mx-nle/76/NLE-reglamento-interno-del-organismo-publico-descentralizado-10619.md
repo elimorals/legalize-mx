@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-del-organismo-publico-descentralizado-10619"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-30"
-last_updated: "2001-05-30"
+last_updated: "2002-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DEL ORGANISMO PÚBLICO DESCENTRALIZADO CONSEJO PARA LA CULTURA DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de octubre de 1995.
 
@@ -37,9 +37,11 @@ En los términos previstos por los artículos 18, cuarto Transitorio y demás re
 
 REGLAMENTO INTERNO DEL ORGANISMO PUBLICO DESCENTRALIZADO CONSEJO PARA LA CULTURA DE NUEVO LEÓN
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 1o.
 
-El presente Reglamento Interno establece la estructura de los órganos y dependencias que integran el Consejo para la Cultura de Nuevo León, señala las facultades de éstos y regula su funcionamiento, en lo no previsto por la Ley que crea a este organismo.
+El presente Reglamento Interno establece la estructura de los órganos y dependencias que integran el Consejo para la Cultura y las Artes de Nuevo León (CONARTE), señala las facultades de éstos y regula su funcionamiento, en lo no previsto por la Ley que crea a este organismo.
 
 ###### ARTICULO 2o.
 
@@ -79,37 +81,41 @@ I. Ser condenado por delito doloso que merezca pena corporal.
 
 II. Violar sistemáticamente lo dispuesto en la ley que crea el organismo o el presente Reglamento, previa amonestación del Consejo.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 9o.
 
-La decisión de aceptar su renuncia o remover a un vocal designado por la comunidad artística, solamente podrá ser tomada con, por lo menos, la mayoría de votos de los miembros integrantes del Consejo, en cuya votación no participará el integrante de quien se trate la renuncia o remoción.
-
-Para la remoción de un vocal del Consejo designado por la comunidad artística se deberá seguir el siguiente procedimiento:
+Para la remoción de un vocal del Consejo se deberá seguir el siguiente procedimiento:
 
 I. La propuesta de remoción sólo podrá ser presentada ante el Consejo por cualesquiera de los integrantes del mismo, por escrito, con los elementos que considere adecuados para fundar su propuesta.
 
 II. El Consejo analizará la propuesta de remoción en la sesión ordinaria o extraordinaria siguiente a la recepción de la misma, y en esa sesión acordará el inicio del procedimiento de remoción o su desechamiento.
 
-III El vocal de quien se trate la propuesta de remoción, será citado por el Secretario Técnico a comparecer ante el Consejo, en sesión ordinaria o extraordinaria con por lo menos quince días hábiles de anticipación, para que exponga los argumentos y aporte los elementos que considere a su favor.
+III. El vocal de quien se trate la propuesta de remoción, será citado por el Presidente o por el Secretario Técnico a comparecer ante el Consejo, en sesión ordinaria o extraordinaria, con por lo menos quince días hábiles de anticipación, para que exponga los argumentos y aporte los elementos que considere a su favor.
 
 Para tales efectos, conjuntamente con la cita se le proporcionará copia de la propuesta de remoción y se pondrán a su disposición los elementos que hayan sido presentados para fundar la propuesta de remoción.
 
 Si el vocal cuya remoción se proponga no acude o no expone argumentos a su favor, se le considerará en desacuerdo con la propuesta de remoción.
 
-IV. Una vez expuestos los argumentos y aportados los elementos de prueba por el vocal cuya remoción se proponga o, en su defecto, una vez que se le tenga en desacuerdo conforme al último párrafo de la fracción III de este artículo, el Consejo resolverá lo conducente en esa sesión o a más tardar en la siguiente.
+IV. Una vez expuestos los argumentos y aportados los elementos de prueba por el vocal cuya remoción se proponga o, en su defecto, una vez que se le tenga en desacuerdo conforme al último párrafo de la fracción III de este artículo, en esa sesión o a más tardar en la siguiente, con base en los elementos que consten en el expediente, el Consejo, según sea el caso:
 
-V. Contra la resolución del Consejo acordada de conformidad con lo dispuesto en la fracción anterior, no procederá recurso o medio de defensa alguno.
+a) Resolverá sobre la procedencia de la remoción del vocal, si éste fue designado por la comunidad artística; o
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
+b) Emitirá su opinión y la comunicará al Gobernador del Estado, por conducto del Presidente del Consejo, a fin de que el titular del Ejecutivo resuelva lo conducente, si se trata de alguno de los demás vocales.
+
+Si el Presidente o el Secretario Técnico incurren en faltas graves, se seguirá el mismo procedimiento previsto para los vocales a que se refiere el inciso b) de la fracción IV de este artículo. Las funciones que le correspondan en relación con el procedimiento, serán ejercidas en el caso del Presidente por el Secretario Técnico y en el caso del Secretario Técnico únicamente por el Presidente.
+
+La decisión de aceptar su renuncia o remover a un vocal designado por la comunidad artística, solamente podrá ser tomada con, por lo menos, la mayoría de votos de los miembros integrantes del Consejo, en cuya votación no participará el integrante de quien se trate la renuncia o remoción.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 10.
 
-El Consejo promoverá la celebración de elecciones para cubrir la vacante de alguno de sus integrantes designados por elección, dentro de los tres meses siguientes a la fecha en que se haya notificado su fallecimiento o incapacidad permanente, aceptado su renuncia o decidido su remoción, por cualesquiera de las causas previstas en el artículo 5°, penúltimo párrafo, de la ley que crea el organismo.
+El Consejo promoverá la celebración de elecciones para cubrir la vacante de alguno de sus integrantes designados por la comunidad artística, dentro de los tres meses siguientes a la fecha en que se haya notificado su fallecimiento o incapacidad permanente, aceptado su renuncia o decidido su remoción, por cualesquiera de las causas previstas en el Artículo 5°, penúltimo párrafo, de la ley que crea el organismo.
 
-En caso de presentarse la renuncia, el fallecimiento, la incapacidad permanente o se incurra en faltas graves por parte del Secretario Técnico o de los vocales nombrados por el Gobernador del Estado, el Presidente informará al Consejo para que emita su opinión al respecto, siguiendo en su caso el procedimiento previsto en el artículo 9°, y posteriormente el Presidente comunicará lo anterior al Ejecutivo, a fin de que éste resuelva lo conducente.
+En caso de presentarse la renuncia, el fallecimiento o la incapacidad permanente del Secretario Técnico, de los vocales nombrados por el Gobernador del Estado o de los vocales a que se refiere el artículo 5°, fracción III, incisos e) y f), de la ley que crea el organismo, el Presidente informará de ello al Consejo y al Ejecutivo, a fin de que éste resuelva lo conducente.
 
-Si el Presidente fallece, padece una incapacidad permanente o incurre en faltas graves, el Secretario Técnico ejercerá las atribuciones que el párrafo anterior otorga al Presidente.
+Si el Presidente fallece o padece incapacidad permanente, el Secretario Técnico ejercerá las atribuciones que el párrafo anterior otorga al Presidente.
 
 La renuncia del Presidente será presentada directamente al Gobernador del Estado.
 
@@ -129,7 +135,9 @@ IV. El Consejo publicará un aviso en por lo menos uno de los diarios de mayor c
 
 V. Una vez concluida la elección, el Consejo reconocerá como candidatos electos a quienes hayan obtenido la mayoría requerida por el Consejo para cada vacante. Si una misma persona resulta electa para dos o más disciplinas o vacantes, deberá decidir respecto de una de ellas y el resto se declararán desiertas, para convocar a nuevas elecciones.
 
-VI. El Consejo señalará los lugares, fechas y horarios acordados para la votación y adicionalmente podrá autorizar la utilización del envío anticipado, de los medios electrónicos, del voto por poder y de cualesquier otros medios que faciliten el sufragio.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2002)</small>
+
+VI. El Consejo señalará los lugares, fechas y horarios acordados para la votación y adicionalmente podrá autorizar la utilización del envío anticipado, de los medios electrónicos y de cualesquier otros medios que faciliten el sufragio.
 
 VII. Para lograr una mejor representatividad, el Consejo podrá acordar la aplicación de sistemas de eliminación de candidatos mediante votaciones sucesivas.
 
@@ -149,9 +157,17 @@ III. Someter aquellos asuntos de su competencia a la consideración del Pleno de
 
 IV. Tomar decisiones cuya competencia corresponda al Consejo, en caso de que por razones de extrema urgencia así se requiera, siempre que no sea posible reunir al Consejo en forma oportuna y que, de no tomarse una decisión, se causen daños o perjuicios de difícil reparación o se afecten gravemente el funcionamiento, las actividades o los proyectos del organismo. En estos casos el Presidente deberá convocar inmediatamente al Consejo para informar del uso que le hubiere dado a la facultad concedida en esta fracción.
 
-V. Ser el vocero oficial del organismo ante los medios de comunicación. El Presidente podrá delegar esta facultad en el Director Ejecutivo y en aquellos consejeros y funcionarios que estime conveniente.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2002)</small>
 
-VI. Presentar al Consejo la propuesta de estructura orgánica elaborada por el Director Ejecutivo.
+V. Ser el vocero oficial del organismo ante los medios de comunicación. El Presidente podrá delegar esta facultad en aquellos consejeros y funcionarios que estime conveniente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE OCTUBRE DE 2002)</small>
+
+VI. Designar y remover a los directores administrativo (sic), de programas y de espacios.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE OCTUBRE DE 2002)</small>
+
+VII. Presentar al Consejo la propuesta de estructura orgánica de CONARTE.
 
 ###### ARTICULO 14.
 
@@ -169,9 +185,11 @@ IV. Participar en las comisiones del Consejo en las que hayan sido designados co
 
 Las funciones de los vocales serán las de miembros de un órgano colegiado y sus cargos serán honoríficos, por lo que no percibirán remuneración alguna por el desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 15.
 
-Los miembros del Consejo, durante su gestión, no podrán participar con derecho a premio, en certamen o concurso alguno convocado por el Consejo para la Cultura de Nuevo León.
+Los miembros del Consejo, durante su gestión, no podrán participar con derecho a premio, en certamen o concurso alguno convocado por el Consejo para la Cultura y las Artes de Nuevo León.
 
 ###### ARTICULO 16.
 
@@ -231,9 +249,11 @@ El Secretario Técnico, directamente o a través del personal que para estos efe
 
 Las ausencias de los Presidentes de las comisiones, serán cubiertas por los vocales que designe la comisión al inicio de cada sesión.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 25.
 
-El Consejo para la Cultura de Nuevo León está organizado en las áreas siguientes:
+El Consejo para la Cultura y las Artes de Nuevo León está organizado en las áreas siguientes:
 
 a). Área normativa.
 
@@ -245,51 +265,69 @@ b). Área operativa.
 
 El área normativa está integrada por el Pleno del Consejo, por el Presidente y por el Secretario Técnico.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 27.
 
-El área operativa está a cargo del Director Ejecutivo, de quien dependerán los coordinadores, directores de espacios, los jefes de departamento y en general, el resto del personal del organismo, conforme a la estructura aprobada por el Consejo.
+El área operativa está a cargo del Presidente, de quien dependerán el Secretario Técnico, el Director Administrativo, los directores de proyectos y de espacios, los jefes de departamento y en general, el resto del personal del Organismo, conforme a la estructura aprobada por el Consejo.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 28.
 
-Además de las facultades conferidas por la Ley que crea el organismo y el Director Ejecutivo tendrán las siguientes:
+En el área operativa, además de las facultades que la ley y demás disposiciones le confieren, el Secretario Técnico tendrá las siguientes:
 
-I. Cumplir con los principios y misión organismo.
+I. Cumplir con los principios y misión del Consejo, con las normas contenidas en la ley que crea el organismo, en este Reglamento y demás ordenamientos aplicables, con las políticas y acuerdos emanados del Consejo y con las instrucciones dadas por el Presidente.
 
-II. Ejecutar y vigilar el cumplimiento de las políticas culturales, normas y decisiones, de acuerdo a las disposiciones del Consejo.
+II. Ejecutar y vigilar el cumplimiento de las políticas culturales, normas y decisiones, de acuerdo a las disposiciones del Consejo y conforme a las instrucciones que para tal efecto le gire el Presidente.
 
-III. Formular y presentar al Presidente los presupuestos de ingresos y egresos y el plan anual de actividades y proyectos para el año siguiente, así como los estados financieros del año anterior.
+III. Formular y presentar al Presidente los proyectos de presupuestos de ingresos y egresos, y el plan anual de actividades y proyectos.
 
-IV. Contratar, evaluar, promover, transferir y remover al personal a su cargo y asignarle sus funciones y responsabilidades, conforme a los lineamientos aprobados por el Consejo.
+VI (SIC). Las demás que le confiera el Consejo.
 
-V. Dirigir y coordinar los espacios culturales que dependan del organismo, entre otros los museos, teatros, salas de exhibición y lugares similares.
-
-VI. Asistir a las sesiones del Consejo, con voz, pero sin voto.
-
-VII. Ejecutar el presupuesto del organismo aprobado por el Consejo.
-
-VIII. Proponer al Consejo, a través de su Presidente, la estructura orgánica del área operativa del organismo.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 29.
 
-Son atribuciones y obligaciones de los coordinadores de proyectos y directores de espacios las siguientes:
+El Director Administrativo tendrá las siguientes facultades:
 
-I. Cumplir con los principios y misión del Consejo, con las normas contenidas en la Ley que crea el organismo, en este Reglamento y demás ordenamientos aplicables, con las políticas y acuerdos emanados del Consejo y con las instrucciones dadas por el Director Ejecutivo.
+I. Cumplir con los principios y misión del Consejo, con las normas contenidas en la ley que crea el organismo, en este Reglamento y demás ordenamientos aplicables, con las políticas y acuerdos emanados del Consejo y con las instrucciones dadas por el Presidente o por el Secretario Técnico.
 
-II. Representar al organismo en los términos que establezca el Director Ejecutivo, conforme a sus atribuciones.
+II. Contratar, evaluar, promover, transferir y remover al personal de CONARTE cuya designación no corresponda al Presidente, y asignarle sus funciones y responsabilidades, conforme a los lineamientos aprobados por el Consejo y a las instrucciones que le den el Presidente o el Secretario Técnico.
 
-III. Mantener relaciones con las autoridades o con otras instituciones, organismos o personas físicas o morales de interés para sus funciones, siguiendo los lineamientos e instrucciones señalados por el Director Ejecutivo.
+III. Recaudar los ingresos del organismo, ejecutar y vigilar su presupuesto de egresos aprobado por el Consejo, llevar la contabilidad y elaborar y presentar al Presidente los informes financieros respectivos.
 
-IV. Formular y presentar al Director Ejecutivo el presupuesto de egresos y el plan de trabajo de su coordinación, para el año siguiente.
+IV. Administrar el patrimonio del organismo, conforme a los lineamientos que emita el Consejo y atendiendo las instrucciones que le den el Presidente o el Secretario Técnico.
 
-V. Presentar a la consideración del Director Ejecutivo sus propuestas para el funcionamiento y operación de su área.
+V. Las demás que le confiera el Consejo.
 
-VI. Dirigir y coordinar las actividades encomendadas a su área por el Director Ejecutivo.
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+
+###### ARTICULO 30.
+
+Son atribuciones y obligaciones de los directores de programas y espacios las siguientes:
+
+I. Cumplir con los principios y misión del Consejo, con las normas contenidas en la ley que crea el organismo, en este Reglamento y demás ordenamientos aplicables, con las políticas y acuerdos emanados del Consejo y con las instrucciones dadas por el Presidente o por el Secretario Técnico.
+
+II. Representar al organismo en los términos que establezca el Presidente, conforme a sus atribuciones.
+
+III. Mantener relaciones con las autoridades o con otras instituciones, organismos o personas físicas o morales de interés para sus funciones, siguiendo los lineamientos e instrucciones señalados por el Presidente.
+
+IV. Formular y presentar al Presidente el proyecto de presupuesto de egresos y el plan de actividades y proyectos de su Dirección, para el año siguiente.
+
+V. Presentar a la consideración del Presidente sus propuestas para el funcionamiento y operación de su área.
+
+VI. Dirigir y coordinar las actividades encomendadas a su área por el Presidente.
 
 VII. Ser responsables del uso y mantenimiento de las instalaciones físicas a su cargo.
 
 VIII. Evaluar al personal a su cargo.
 
-IX. Asignar funciones y responsabilidades al personal a su cargo, conforme a las disposiciones legales aplicables y a las políticas y lineamientos expedidas por el Consejo y por el Director Ejecutivo.
+IX. Asignar funciones y responsabilidades al personal a su cargo, conforme a las disposiciones legales aplicables y a las políticas y lineamientos expedidas por el Consejo y por el Presidente.
+
+X. Dirigir y coordinar los programas o espacios culturales que estén bajo su responsabilidad.
+
+XI. Las demás que les confiera el Consejo.
 
 ## TRANSITORIOS.
 
@@ -316,3 +354,11 @@ P.O. 30 DE MAYO DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2002.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL CUAL SE “REFORMA AL REGLAMENTO INTERNO DEL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
