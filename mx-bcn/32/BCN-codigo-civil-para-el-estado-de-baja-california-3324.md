@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2002-12-06"
+last_updated: "2003-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2003.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -14351,11 +14351,11 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes, que puede modificar o destruir la eficacia de una obligación hipotecaria anterior; no surtirá efecto contra tercero si no se hace constar en el Registro por medio de una inscripción nueva, de una cancelación total o parcial o de una anotación, según los casos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 2793.
 
-El acreedor podrá ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro Público de la Propiedad y de Comercio, siempre que continúe llevando la administración de los créditos; en caso contrario, la cesión del crédito deberá notificarse judicialmente o a través de Notario Público al deudor.
+El acreedor podrá ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro Público de la Propiedad y del Comercio, siempre que continúe llevando la administración de los créditos; en caso contrario, la cesión del crédito deberá notificarse por escrito al deudor.
 
 Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación, al deudor, ni del registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin necesidad de otro requisito.
 
@@ -15364,5 +15364,11 @@ UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publica
 P.O. 6 DE DICIEMBRE DE 2002.
 
 ###### ARTICULO UNICO
+
+La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE ENERO DE 2003.
+
+###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
