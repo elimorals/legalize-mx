@@ -4,7 +4,7 @@ identifier: "LSM"
 country: "mx"
 rank: "ley"
 publication_date: "1940-09-11"
-last_updated: "1940-09-11"
+last_updated: "1942-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2573&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSM"
 
 LEY DEL SERVICIO MILITAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1942.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1940.
 
@@ -391,3 +391,11 @@ La presente Ley deroga las leyes, reglamentos, disposiciones y circulares, que s
 Hilario Contreras Molina, D. P.- Lic. J. Jesús González Gallo, S. P.- Carlos Aguirre, D. S.- Lic. Mauro Angulo, S. S.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los diecinueve días del mes de agosto de mil novecientos cuarenta.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de la Defensa Nacional, Jesús Agustín Castro.- Rúbrica.- El Secretario de Estado y del Despacho de Educación Pública, Gonzalo Vázquez Vela.- Rúbrica.- Al C. Lic. Ignacio García Téllez, Secretario de Gobernación.- Presente.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE AGOSTO DE 1942.
+
+DECRETO QUE PONE EN VIGOR, EN SU TOTALIDAD, LA LEY DEL SERVICIO MILITAR DEL DIECINUEVE DE AGOSTO DE MIL NOVECIENTOS CUARENTA.
+
+UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el "Diario Oficial". quedando derogadas todas las disposiciones en vigor que a él se opongan.
