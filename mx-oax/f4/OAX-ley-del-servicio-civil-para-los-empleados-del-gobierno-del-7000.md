@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "1985-08-17"
+last_updated: "1987-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1987.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, 28 de Diciembre de 1963.
 
@@ -249,15 +249,33 @@ En ningún caso los empleados de los Poderes percibirán un sueldo inferior al m
 
 A los empleados de base o de confianza al servicio de los Poderes del Estado, se les concederá una prima de antigüedad, de conformidad con las normas siguientes:
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1987)</small>
 
-I.- La prima de antigüedad consistirá en el importe de 13 días de salario o sueldo por cada año de servicios cumplidos.
+I.- La prima de antigüedad consistirá en el importe de 14 días de salario o sueldo por cada año de servicios cumplidos.
 
 II.- La prima de antigüedad se pagará a los empleados que se separen voluntariamente de su empleo, siempre que hayan cumplido quince años de servicios, por lo menos. Así mismo se pagará a los que sean despedidos y que conforme a una resolución de la Junta de Arbitraje, dicho despido resulte injustificado y el empleado ya no desee continuar laborando.
 
 III.- En caso de fallecimiento del empleado con derecho a la prima de antigüedad, ésta se pagará a la persona o personas que aparezcan como beneficiarios del pago del seguro de vida en la Cédula de Protección correspondiente.
 
 La prima de antigüedad a que se refiere este artículo se cubrirá a los trabajadores o a sus beneficiarios, independientemente de cualquier otra prestación que les corresponda.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1987)</small>
+
+ARTICULO 34 BIS.- A los empleados de Base o de Confianza se les otorgará en forma mensual, Quinquenios, conforme a la Tabla siguiente:
+
+5 AÑOS DE SERVICIOS CUMPLIDOS CON NOMBRAMIENTO. $ 350.00
+
+10 AÑOS DE SERVICIOS CUMPLIDOS CON NOMBRAMIENTO 300.00
+
+15 AÑOS DE SERVICIOS CUMPLIDOS CON NOMBRAMIENTO 1,300.00
+
+20 AÑOS DE SERVICIOS CUMPLIDOS CON NOMBRAMIENTO 1,800.00
+
+25 AÑOS DE SERVICIOS CUMPLIDOS CON NOMBRAMIENTO 2,300.00
+
+30 AÑOS DE SERVICIOS CUMPLIDOS CON NOMBRAMIENTO 2,800.00
+
+y por cada 5 años más de servicios, se les aumentará $ 500.00 más.
 
 ### CAPITULO CUARTO.
 
@@ -846,3 +864,15 @@ UNICO.- El presente decreto entrará en vigor el día siguiente al de su publica
 P.O. 17 DE AGOSTO DE 1985.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 1987.
+
+DECRETO No. 26
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con carácter retroactivo al Primero de enero de mil novecientos ochenta y seis.
+
+P.O. 10 DE ENERO DE 1987.
+
+DECRETO No. 27
+
+UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, con carácter retroactivo al primero de enero de mil novecientos ochenta y seis.
