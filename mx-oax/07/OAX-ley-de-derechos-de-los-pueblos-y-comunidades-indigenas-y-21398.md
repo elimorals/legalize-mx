@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-21398"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-19"
-last_updated: "2001-03-31"
+last_updated: "2001-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 31 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 15 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 19 de junio de 1998.
 
@@ -65,11 +65,13 @@ II.- Pueblos indígenas: Aquellas colectividades humanas que, por haber dado con
 
 III.- Comunidades indígenas: Aquellos conjuntos de personas que forman una o varias unidades socioeconómicas y culturales en torno a un asentamiento común, que pertenecen a un asentamiento común, que pertenecen a un determinado pueblo indígena de los enumerados en el artículo 2° de este Ordenamiento y que tengan una categoría administrativa inferior a la del municipio, como agencias municipales o agencias de policía. El Estado reconoce a dichas comunidades indígenas el carácter jurídico de personas morales de derecho público, para todos los efectos que se deriven de sus relaciones con los Gobiernos Estatal, y Municipales, así como con terceras personas.
 
-IV.- Autonomía: La expresión de la libre determinación de los pueblos y comunidades indígenas como partes integrantes del estado de Oaxaca, en consonancia con el orden jurídico vigente, para adoptar por sí mismos decisiones e instituir prácticas propias relacionadas con su cosmovisión, territorio indígena, tierra, recursos naturales, organización sociopolítica, administración de justicia, educación, lenguaje, salud y cultura.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
-V.- Territorio Indígena: Porción del territorio nacional constituida por espacios continuos y discontinuos ocupados y poseídos por los pueblos y comunidades indígenas, en cuyos ámbitos espacial, material, social y cultural se desenvuelven aquéllos y expresan sus forma (sic) especifica de relación con el mundo, sin detrimento alguno de la Soberanía Nacional del Estado Mexicano ni de las Autonomías del Estado de Oaxaca y sus Municipios.
+IV.- Autonomía: La expresión de la libre determinación de los pueblos y comunidades indígenas como partes integrantes del Estado de Oaxaca, en consonancia con el orden jurídico vigente, para adoptar por sí mismos decisiones e instituir prácticas propias relacionadas con su cosmovisión, territorio indígena, tierra, recursos naturales, organización sociopolítica, administración de justicia, educación, lenguaje, salud, medicina y cultura.
 
-VI.- Derechos individuales: Las facultades y las prerrogativas que el orden jurídico oaxaqueño otorga a todo hombre o mujer, independientemente de que sea o no integrante de un pueblo o comunidad indígena, por el sólo hecho de ser personas.
+V.- Territorio Indígena: Porción del territorio nacional constituida por espacios continuos y discontinuos ocupados y poseídos por los pueblos y comunidades indígenas, en cuyos ámbitos espacial, material, social y cultural se desenvuelven aquellos y expresan sus forma (sic) especifica de relación con el mundo, sin detrimento alguno de la Soberanía Nacional del Estado Mexicano ni de las Autonomías del Estado de Oaxaca y sus Municipios.
+
+VI.- Derechos individuales: Las facultades y las prerrogativas que el orden jurídico oaxaqueño otorga a todo hombre o mujer, independientemente de que sea o no integrante de un pueblo o comunidad indígena, por el solo hecho de ser personas.
 
 VII.- Derechos sociales: Las facultades y prerrogativas de naturaleza colectiva que el orden jurídico oaxaqueño reconoce a los pueblos y comunidades indígenas, en los ámbitos político, económico, social, cultural y jurisdiccional, para garantizar su existencia, pervivencia, dignidad, bienestar y no discriminación basada en la pertenencia a aquéllos.
 
@@ -83,7 +85,7 @@ X.- Autoridades Comunitarias: Aquellas que los pueblos y comunidades indígenas 
 
 ###### Articulo 4º.
 
-Los pueblos y comunidades indígenas tienen derecho social a determinar libremente su existencia como tales; y a que en la Ley y en la práctica se les reconozca esa forma de identidad social y cultural.
+Los pueblos y comunidades indígenas tienen derecho social a determinar libremente su existencia como tales, y a que en la Ley y en la práctica se les reconozca esa forma de identidad social y cultural.
 
 Así mismo, tienen derecho social a determinar, conforme a la tradición de cada uno, su propia composición, y a ejercer con autonomía todos los derechos que esta Ley reconoce a dichos pueblos y comunidades.
 
@@ -143,7 +145,7 @@ En el Estado de Oaxaca quedan prohibidos los reacomodos y desplazamientos de pue
 
 Para el caso de la primera excepción a que se refiere el párrafo anterior de este artículo, se requerirá que los pueblos y comunidades indígenas justifiquen plenamente, ante los órganos competentes del Estado, la existencia de la necesidad que origina la medida.
 
-Cuando el desplazamiento o reacomodo encuentre su origen en el orden público, éstos se realizarán previo avalúo que practique el instituto Catastral del Estado de Oaxaca, e indemnización a los afectados con dicha acción que realice el poder público. Para efectos de la reubicación definitiva o temporal, el Estado, por conducto de sus órganos competentes y oyendo el parecer de los involucrados, procurará que la misma se realice en sitios similares al territorio de estos últimos con calidad material y jurídica, por lo menos igual a la que poseían y que les permita satisfacer sus necesidades y garantizar su desarrollo futuro. Cuando desaparezca la causa de interés público, los pueblos y comunidades indígenas tendrán prioridad para el retorno a sus territorios y tierras.
+Cuando el desplazamiento o reacomodo encuentre su origen en el orden público, éstos se realizarán previo avalúo que practique el instituto Catastral del Estado de Oaxaca, e indemnización a los afectados con dicha acción que realice el orden público. Para efectos de la reubicación definitiva o temporal, el Estado, por conducto de sus órganos competentes y oyendo el parecer de los involucrados, procurará que la misma se realice en sitios similares al territorio de estos últimos con calidad material y jurídica, por lo menos igual a la que poseían y que les permita satisfacer sus necesidades y garantizar su desarrollo futuro. Cuando desaparezca la causa de interés público, los pueblos y comunidades indígenas tendrán prioridad para el retorno a sus territorios y tierras.
 
 En caso de contravención a lo dispuesto por el primer párrafo de este artículo, se estará a lo previsto en el artículo 16 de esta Ley.
 
@@ -195,7 +197,7 @@ Los pueblos y comunidades indígenas, en los términos del artículo 3° de la C
 
 ###### Artículo 24.
 
-El Estado, por conducto de sus instancias educativas, garantizará que las niñas y los niños indígenas tengan acceso a la educación básica formal bilingüe e intercultural. Los pueblos y comunidades indígenas, así como las madres y padres de familia indígenas, en los términos del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación y de la Ley Estatal de Educación, tendrán derecho a establecer y participar en los sistemas educativos, para la implementación de la enseñanza en sus propias lenguas dentro del marco legal vigente.
+El Estado, por conducto de sus instancias educativas, garantizará que las niñas y los niños indígenas tengan acceso a la educación básica formal bilingüe e intercultural. Los pueblos y comunidades indígenas, así como las madres y padres de familia indígenas, en los términos del artículo 3º de la constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación y de la Ley Estatal de Educación, tendrán derecho a establecer y participar en los sistemas educativos, para la implementación de la enseñanza en sus propias lenguas dentro del marco legal vigente.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
 
@@ -207,11 +209,11 @@ El Estado, a través de sus instancias educativas, en consulta con los pueblos y
 
 ###### Artículo 26.
 
-Los pueblos y comunidades indígenas tienen derecho a establecer, de acuerdo a la normatividad vigente, sus propios medios de comunicación -periódicos, revistas, estaciones de radio, televisoras, y demás análogos-, en sus propias lenguas.
+Los pueblos y comunidades indígenas tienen derecho a establecer, de acuerdo a la normatividad vigente, sus propios medios de comunicación -periódicos, revistas, estaciones de radio, televisoras, y demás análogos, en sus propias lenguas.
 
 ###### Artículo 27.
 
-Los pueblos y comunidades indígenas tienen derecho a practicar sus propias ceremonias religiosas, tanto en las áreas indígenas como en las que no tienen predominio indígena, respetando la Ley de Asociaciones Religiosas y Culto Público.
+Los pueblos y comunidades indígenas tienen derecho a practicar sus propias ceremonias religiosas, tanto en las áreas indígenas como en las que no tienen predominio indígena, respetando la Ley de Asociaciones Religiosas y Culto Publico.
 
 ### CAPÍTULO V. DE LOS SISTEMAS NORMATIVOS INTERNOS
 
@@ -319,7 +321,7 @@ En los pueblos, comunidades y municipios indígenas, así como en los municipios
 
 Las autoridades de los municipios y comunidades preservarán el tequio como expresión de solidaridad según los usos de cada pueblo y comunidad indígenas. Los tequios encaminados a la realización de obras de beneficio común, derivados de los acuerdos de las asambleas, de las autoridades municipales y de las comunitarias de cada pueblo y comunidad indígena, podrán ser considerados como pago de contribuciones municipales.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DEL 2001)</small>
 
 ###### Artículo 44.
 
@@ -393,7 +395,7 @@ Con respeto a la autonomía municipal, los ayuntamientos dictarán las medidas l
 
 Para la determinación del monto de los recursos a distribuir entre las comunidades a que se refiere el párrafo anterior, los ayuntamientos deberán tomar en cuenta la opinión que al respecto le formulen los Consejos de Desarrollo Municipal constituidos por disposición de la normatividad correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DEL 2001)</small>
 
 ###### Artículo 60.
 
@@ -410,6 +412,54 @@ El Estado, de acuerdo a sus programas presupuestales, descentralizará sus servi
 ###### Artículo 63.
 
 El Estado deberá incluir en forma expresa, en sus programas y planes de desarrollo, los acuerdos que establezca con los pueblos, las comunidades y las asociaciones de comunidades y de municipios de los pueblos indígenas, con pleno respeto a su autonomía.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+### CAPITULO IX
+
+SEGURIDAD SOCIAL Y SALUD.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+###### Artículo 64.
+
+El Estado promoverá la extensión progresiva de los regímenes de seguridad social a los pueblos y comunidades indígenas interesados, aplicándolos sin discriminación alguna.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+###### Artículo 65.
+
+El Estado promoverá la ampliación de la cobertura del Sistema Estatal de Salud, aprovechando los beneficios de la medicina tradicional indígena, de acuerdo a las características especificas de cada comunidad.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+###### Artículo 66.
+
+Se considera a la medicina tradicional indígena como el conjunto de concepciones, saberes, métodos de prevención, prácticas curativas y medicamentos tradicionales manejados por los médicos o curadores de las diversas comunidades indígenas, y que han sido aprendidos generacionalmente mediante transmisión oral.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+###### Artículo 67.
+
+El Estado procurará que de manera coordinada con el Sistema Estatal de Salud, se pongan a disposición de los pueblos y comunidades indígenas interesados servicios de salud organizados a nivel comunitario, centrados en los cuidados primarios de salud.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+###### Artículo 68.
+
+Los servicios de salud deberán planearse en cooperación con los pueblos interesados y tomando en cuenta sus condiciones económicas, geográficas, sociales y culturales, así como su medicina tradicional.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+###### Artículo 69.
+
+El Estado otorgará asistencia técnica y financiamiento para la investigación y desarrollo de la medicina tradicional indígena en el Estado, así como para la formación y el empleo de sus practicantes.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+###### Artículo 70.
+
+El Estado apoyará la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
 
 TRANSITORIOS:
 
@@ -463,8 +513,16 @@ LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C.............
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 31 DE MARZO DE 2001
+P.O. 31 DE MARZO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado a través de la Secretaría de Asuntos Indígenas y de la Secretaria de Salud, hará la traducción de estas reformas a las lenguas de los pueblos indígenas a que se refiere el párrafo segundo del artículo 2º de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca; hará del conocimiento de la población del Estado el contenido de estas reformas y sus traducciones, difundiéndola en los pueblos y comunidades indígenas, dependencias y Organismos de los Gobiernos Federal, Estatal y Municipal, especialmente en instituciones educativas y, en general en las organizaciones representativas de la sociedad civil oaxaqueña; asimismo expedirá el Reglamento respectivo a más tardar en un plazo de tres meses a partir de la aprobación del presente dictamen.
+
+TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan estas reformas.
