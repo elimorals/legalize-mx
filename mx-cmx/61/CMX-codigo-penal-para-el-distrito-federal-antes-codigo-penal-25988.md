@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1967-01-20"
+last_updated: "1968-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 1968.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -166,15 +166,17 @@ IV.- Que no hayan estado presentes en la ejecución del nuevo delito, o que habi
 
 ### CAPITULO IV. Circunstancias excluyentes de responsabilidad
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE MARZO DE 1968)</small>
+
 ###### ARTICULO 15.
 
-Son circunstancias excluyentes de responsabilidad penal:
+Son circunstancias excluyentes de Responsabilidad Penal:
 
 I.- Obrar el acusado impulsado por una fuerza física exterior irresistible;
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADA, D.O.F. 8 DE MARZO DE 1968)</small>
 
-II.- Hallarse el acusado, al cometer la infracción, en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes o enervantes, o por un estado toxinfeccioso agudo o por un trastorno mental involuntario de carácter patológico y transitorio;
+II.- Hallarse el acusado, al cometer la infracción, en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes o estupefacientes o por un estado toxinfeccioso agudo o por un trastorno mental involuntario de carácter patológico y transitorio;
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
 
@@ -718,11 +720,11 @@ III.- Que el agraciado con la libertad preparatoria resida en el lugar que se de
 
 IV.- Que el reo haya reparado el daño causado u otorgado garantía para cubrir su monto.
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 85.
 
-La libertad preparatoria no se concederá al condenado por robo de infante, corrupción de menores, ni a los reincidentes ni a los habituales.
+La libertad preparatoria no se concederá al condenado por robo de infante, corrupción de menores, delitos en materia de estupefacientes, a los reincidentes ni a los habituales.
 
 ###### ARTICULO 86.
 
@@ -1090,8 +1092,6 @@ Cuando la entrega de planos o la revelación de que hablan los dos artículos an
 
 ### CAPITULO I. Violación de los deberes de la humanidad
 
-> <small>N. DE E. REUBICADO, D.O.F. 20 DE ENERO DE 1967</small>
-
 ###### ARTICULO 132.
 
 Hay conspiración siempre que dos o más personas resuelven de concierto, cometer alguno de los delitos de que tratan los dos Capítulos anteriores, o el primero y segundo del Título siguiente, acordando los medios de llevar a efecto su determinación. La sanción aplicable será hasta de cinco años y multa hasta de diez mil pesos, salvo lo dispuesto en el artículo 126.
@@ -1167,8 +1167,6 @@ Si con idéntico propósito se llevaren a cabo ataques a la integridad corporal 
 Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien con igual propósito someta intencionalmente al grupo a condiciones de existencia que hayan de acarrear su destrucción física, total o parcial.
 
 En caso de que los responsables de dichos delitos fueren gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
-
-> <small>N. DE E. ANTES TITULO CUARTO, D.O.F. 20 DE ENERO DE 1967</small>
 
 ###### ARTICULO 139.
 
@@ -1390,15 +1388,21 @@ a). Otorgar fianza por la cantidad que fije la autoridad, y
 
 b). Comprobar la necesidad que tiene para la portación de armas y sus antecedentes de honorabilidad y prudencia, con el testimonio de cinco personas bien conocidas de la autoridad.
 
-### CAPITULO I. De la producción, tenencia, tráfico y proselitismo en materia de enervantes
+### CAPITULO I. De la producción, tenencia, tráfico y proselitismo, en materia de estupefacientes
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 164.
 
 Se impondrán prisión de seis meses a seis años y multa de cincuenta a quinientos pesos, al que tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiera cometer o haya cometido.
 
-> <small>N. DE E. ANTES TITULO QUINTO, D.O.F. 20 DE ENERO DE 1967</small>
+> <small>(ADICIONADO, D.O.F. 8 DE MARZO DE 1968)</small>
+
+###### ARTICULO 164 Bis.
+
+Cuando se ejecuten uno o más delitos por pandilla, se aplicará a los que intervengan en su comisión, además de las penas que les correspondan por el o los delitos cometidos, la sanción de seis meses a tres años de prisión.
+
+Se entiende por pandilla, para los efectos de esta disposición la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -1506,8 +1510,6 @@ Al empleado de un telégrafo, teléfono o estación inalámbrica que conscientem
 
 Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
 
-> <small>N. DE E. ANTES TITULO SEXTO, D.O.F. 20 DE ENERO DE 1967</small>
-
 ## TITULO SEXTO. Delitos en materia de vías de comunicación y de correspondencia
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
@@ -1588,7 +1590,7 @@ Al que ultraje el escudo de la República o el pabellón nacional, ya sea de pal
 
 Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicará de tres días a un año de prisión y multa de veinticinco a mil pesos.
 
-> <small>N. DE E. ANTES TITULO SEPTIMO, D.O.F. 20 DE ENERO DE 1967</small>
+> <small>N. DE E. EN EL DECRETO DE REFORMAS DEL 8 DE MARZO DE 1968 POR OMISION SE MENCIONA EL TITULO SEPTIMO, SIENDO EN REALIDAD EL OCTAVO, DEBIDO A LA REUBICACION QUE SUFRIO EL 20 DE ENERO DE 1967</small>
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -1600,49 +1602,67 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 
 ###### ARTICULO 193.
 
-Para los efectos de este capítulo, se consideran drogas enervantes las que determinen el Código Sanitario de los Estados Unidos Mexicanos, los reglamentos y demás disposiciones vigentes o que en lo sucesivo se expidan en los términos de la fracción XVI del artículo 73 de la Constitución General de la República, así como las que señalen los convenios internacionales que México haya celebrado o en lo futuro celebre.
+Se considerarán estupefacientes los que determinen el Código Sanitario de los Estados Unidos Mexicanos, los reglamentos y demás disposiciones vigentes o que en lo sucesivo se expidan en los términos de la fracción XVI del artículo 73 de la Constitución General de la República, así como los que señalen los convenios o tratados internacionales que México haya celebrado o en lo futuro celebre.
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 194.
 
-Se impondrá prisión de uno a diez años y multa de cien a diez mil pesos:
+Se impondrán prisión de dos a nueve años y multa de un mil a diez mil pesos, al que siembre, cultive, coseche o posea plantas de “cannabis” resinosas reputadas como estupefacientes por el Artículo 193, sin llenar los requisitos que para el caso fijen las leyes y disposiciones sobre la materia o con infracción de ellas.
 
-I.- Al que comercie, elabore, posea, compre, enajene, ministre gratuitamente o, en general, efectúe cualquier acto de adquisición, suministro o tráfico de drogas enervantes sin llenar los requisitos que para el caso fijen las leyes y demás disposiciones sanitarias a que se refiere el artículo 193;
+Cualquier acto que se realice con plantas de “cannabis” resinosas o con la resina separada, en bruto o purificada, de dichas plantas, diverso a los enumerados en este precepto, pero determinados como delitos en los artículos siguientes, quedará comprendido, para los efectos de su sanción, dentro de lo que dispone este Capítulo.
 
-II.- Al que, infringiendo las leyes o disposiciones sanitarias a que se refiere el artículo 193, siembre, cultive, comercie, posea, compre, enajene, suministre gratuitamente o, en general, realice cualquier acto de adquisición, suministro o tráfico de semillas o plantas que tengan carácter de drogas enervantes;
+En ningún caso se concederá el beneficio de la Condena Condicional, a los que siembren, cultiven o cosechen plantas de “cannabis” resinosas, que tengan el carácter de estupefacientes.
 
-III.- Al que lleve a cabo cualquiera de los actos enumerados en las fracciones anteriores, con opio crudo, “cocinado” o preparado para fumar o con substancias preparadas para un vicio de los que envenenan al individuo y degeneran la raza, que haya sido motivo de declaración expresa por convenios internacionales, leyes o disposiciones sanitarias, y
-
-IV.- Al que realice actos de provocación general, o al que ilícitamente instigue, induzca o auxilie a otra persona, para el uso de drogas enervantes o de semillas o plantas que tengan ese carácter. Si ésta fuere menor de edad o incapacitada, o si el agente aprovecha su ascendiente o autoridad, la pena será, además de la multa, de tres a doce años de prisión.
-
-No podrá otorgarse la condena condicional, aunque la pena impuesta en la sentencia definitiva no exceda de dos años de prisión, a los que cultiven, elaboren o en cualquier forma trafiquen con drogas enervantes, o con semillas o plantas que tengan ese carácter.
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 195.
 
-Si alguno de los actos enumerados en el artículo anterior fuere ejecutado por comerciantes, farmacéuticos, boticarios o droguistas, directamente o valiéndose de otras personas, en los establecimientos de su propiedad, estos mismas (sic) establecimientos serán clausurados por un término no menor de tres meses ni mayor de un año, sin perjuicio de la aplicación de las sanciones correspondientes.
+Fuera de los actos previstos en el artículo anterior, se impondrán prisión de tres a doce años y multa de dos mil a veinte mil pesos:
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+I.- Al que elabore, comercie, transporte, posea, compre, enajene, suministre aun gratuitamente o, en general, efectúe cualquier acto de adquisición, suministro, transportación o tráfico de estupefacientes sin llenar los requisitos que para el caso fijen las leyes, los convenios o tratados internacionales y demás disposiciones sanitarias a que se refiere el artículo 193.
+
+II.- Al que infringiendo las leyes, los convenios o tratados internacionales y las disposiciones sanitarias que enumera el artículo 193, siembre, cultive, coseche, comercie, transporte, posea, compre, venda, enajene, suministre aun gratuitamente o, en general, realice cualquier acto de adquisición, suministro, transportación o tráfico de semillas o plantas que tengan carácter de estupefacientes;
+
+III.- Al que lleve a cabo cualquiera de los actos enumerados en las fracciones anteriores, con opio crudo, “cocinado” o preparado para fumar o con substancias preparadas para un vicio de los que envenenan al individuo y degeneran la raza, actos que hayan sido motivo de declaración expresa por convenios o tratados internacionales, leyes o disposiciones sanitarias a que se contrae el artículo 193;
+
+IV.- Al que realice actos de provocación general, o que instigue, induzca o auxilie a otra persona para que use de estupefacientes, o a que ejecute con ellos, cualesquiera de los actos delictuoso señalados en este Capítulo.
+
+Si la persona inducida o auxiliada fuere menor de 18 años o incapacitada, o si el agente aprovecha su ascendiente o autoridad para ello, la pena será además de la multa, la de cuatro a doce años de prisión.
+
+No es delito la posesión, por parte de un toxicómano, de estupefacientes en cantidad tal que, racionalmente, sea necesaria para su propio consumo. En este caso quedará sujeto a las medidas de seguridad que señala el artículo 24, inciso 3o. de este Código.
+
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 196.
 
-El que verifique alguno de los actos señalados en los dos artículos anteriores, y además ejerza la medicina en cualquiera de sus ramas, sufrirá, además de las penas correspondientes, la de inhabilitación para el ejercicio de su profesión por un lapso no menor de dos años ni mayor de seis.
+Cuando con motivo de su actividad, los farmacéuticos, boticarios, droguistas o personas que ejerzan la medicina en alguna de sus ramas, ejecutaren directamente o valiéndose de otras personas, cualesquiera de los actos determinados por el artículo 195, las sanciones serán las siguientes:
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
+I.- Prisión de cuatro a doce años y multa de tres mil a veinticinco mil pesos.
+
+II.- Inhabilitación, en su caso, para el ejercicio de su profesión y del comercio, por un lapso no menor de dos años ni mayor de cinco años; y
+
+III.- Clausura de los establecimientos de su propiedad, por un término no menor de un año ni mayor de tres años, cuando los actos fueren ejecutados dentro de los establecimientos.
+
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 197.
 
-Al que importe o exporte ilegalmente drogas enervantes o substancias de las señaladas en este capítulo, se le impondrá una pena de seis a doce años de prisión y multa de quinientos a veinte mil pesos, sin perjuicio de aplicarle, en su caso, la inhabilitación a que se refiere el artículo anterior.
+Al que importe o exporte ilegalmente estupefacientes o substancias de las señaladas en este Capítulo, se le impondrá una pena de seis a quince años de prisión y multa de tres mil a treinta mil pesos, sin perjuicio de aplicarle, en su caso, la inhabilitación a que se refiere el artículo anterior.
+
+Las mismas sanciones impondrán al funcionario o empleado público aduanal que permitiere la introducción, o la salida del País, de estupefacientes o substancias determinadas en el artículo 193, con violación de las prescripciones contenidas en el Código Sanitario de los Estados Unidos Mexicanos, en los convenios o tratados internacionales suscritos por México o que en lo sucesivo suscriba, en las leyes o disposiciones sanitarias, o en cualquiera otra ley.
+
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 198.
 
-A los propietarios y a los encargados de un fumadero de opio o de un establecimiento destinado en cualquier forma para que se lleven a cabo en él la venta, suministro o uso de drogas enervantes o substancias comprendidas en la fracción III del artículo 194, se les impondrá la misma pena que señala el artículo anterior, clausurándose, además, definitivamente el establecimiento de que se trate.
+A los propietarios o encargados de un fumadero de opio o de un establecimiento destinado en cualquier forma, para que se lleven a cabo en él, la venta, suministro o uso de estupefacientes o substancias comprendidas en la Fracción III del artículo 195, se les impondrán las mismas penas que señala el artículo anterior, clausurándose además definitivamente el establecimiento de que se trata.
+
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 199.
 
-Las drogas enervantes, las substancias, aparatos y demás objetos que se emplearen en la comisión de los delitos a que se refiere este capítulo, serán decomisados en todo caso, y se pondrán a disposición de la autoridad sanitaria federal, quien procederá a su destrucción o aprovechamiento lícito.
+Los estupefacientes, las substancias, los aparatos, los vehículos y demás objetos que se emplearen en la comisión de los delitos a que se refiere este Capítulo, serán, en todo caso, decomisados y se pondrán a disposición de la Autoridad Sanitaria Federal, la que procederá, de acuerdo con las disposiciones o leyes de la materia, a su aprovechamiento lícito o a su destrucción.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -1654,13 +1674,11 @@ El que sabiendo que está enfermo de sífilis o de un mal venéreo en período i
 
 Cuando se trate de cónyuges, sólo podrá procederse por querella del ofendido.
 
-> <small>N. DE E. ANTES TITULO OCTAVO, D.O.F. 20 DE ENERO DE 1967</small>
-
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
 
 ## TITULO OCTAVO. Delitos Contra la Salud
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ### CAPITULO I. Responsabilidad médica y técnica
 
@@ -1682,7 +1700,9 @@ III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
 Se aplicará prisión, de seis meses a cinco años, al que facilite o procure la corrupción de un menor de dieciocho años de edad.
 
-Comete el delito de corrupción de menores el que procure o facilite su depravación sexual, si es púber; la iniciación en la vida sexual o la depravación de un impúber, o los induzca o incite a la práctica de la mendicidad, de hábitos viciosos, a la ebriedad, al uso de tóxicos o drogas heroicas, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
+
+Comete el delito de corrupción de menores el que procure o facilite su depravación sexual, si es púber; la iniciación en la vida sexual o la depravación de un impúber, o los induzca, incite o auxilie a la práctica de la mendicidad, de hábitos viciosos, a la ebriedad, al uso de estupefacientes, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
 
 Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ello éste adquiera los hábitos del alcoholismo, uso de drogas heroicas o de substancias tóxicas, se dedique a la prostitución o a las prácticas homosexuales, o forme parte de una asociación delictuosa, la pena de prisión será de cinco a diez años y multa hasta de veinticinco mil pesos.
 
@@ -1744,8 +1764,6 @@ Cuando la mujer cuyo cuerpo sea explotado por medio del comercio carnal, sea men
 
 Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le aplicarán prisión de tres días a seis meses y multa de cinco a cincuenta pesos, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
-> <small>N. DE E. ANTES TITULO NOVENO, D.O.F. 20 DE ENERO DE 1967</small>
-
 ## TITULO NOVENO. Delitos contra la moral pública y las buenas costumbres
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
@@ -1757,8 +1775,6 @@ Se aplicará multa de cinco a cincuenta pesos o prisión de dos meses a un año 
 ###### ARTICULO 211.
 
 La sanción será de uno a cinco años, multa de cincuenta a quinientos pesos y suspensión de profesión en su caso, de dos meses a un año, cuando la revelación punible sea hecha por persona que presta servicios profesionales o técnicos o por funcionario o empleado público o cuando el secreto revelado o publicado sea de carácter industrial.
-
-> <small>N. DE E. ANTES TITULO DECIMO, D.O.F. 20 DE ENERO DE 1967</small>
 
 TITULO DECIMOPRIMERO
 
@@ -1900,8 +1916,6 @@ A los funcionarios y empleados públicos que cometan el delito de concusión, se
 
 Las sanciones del artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público que, con aquella investidura, cometan el delito de concusión.
 
-> <small>N. DE E. ANTES TITULO DECIMOPRIMERO, D.O.F. 20 DE ENERO DE 1967</small>
-
 TITULO DECIMOSEGUNDO
 
 Delitos cometidos en la administración de justicia
@@ -1945,8 +1959,6 @@ II.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente alg
 ###### ARTICULO 227.
 
 Las disposiciones anteriores se aplicarán a todos los funcionarios o empleados de la administración pública, cuando en el ejercicio de su encargo ejecuten los hechos o incurran en las omisiones expresadas en los propios artículos.
-
-> <small>N. DE E. ANTES TITULO DECIMOSEGUNDO, D.O.F. 20 DE ENERO DE 1967</small>
 
 TITULO DECIMOTERCERO
 
@@ -1995,8 +2007,6 @@ III.- Al defensor de un reo, sea particular o de oficio, que sólo se concrete a
 ###### ARTICULO 233.
 
 Los defensores de oficio que sin fundamento no promuevan las pruebas conducentes en defensa de los reos que los designen, serán destituídos de su empleo. Para este efecto, los jueces comunicarán al Jefe de Defensores las faltas respectivas.
-
-> <small>N. DE E. ANTES TITULO DECIMOTERCERO, D.O.F. 20 DE ENERO DE 1967</small>
 
 TITULO DECIMOCUARTO
 
@@ -2258,8 +2268,6 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 Las disposiciones contenidas en este título no se aplicarán sino en lo que no estuviere previsto en las leyes especiales o no se opusiere a lo establecido en ellas.
 
-> <small>N. DE E. ANTES TITULO DECIMOCUARTO, D.O.F. 20 DE ENERO DE 1967</small>
-
 TITULO DECIMOQUINTO
 
 Delitos contra la economía pública
@@ -2351,8 +2359,6 @@ IV.- Los funcionarios o empleados públicos que autoricen, protejan o asistan a 
 ###### ARTICULO 259.
 
 Para los efectos de este capítulo se considerarán ilícitos los juegos, loterías y rifas en los términos que fijen los reglamentos respectivos expedidos por las autoridades administrativas superiores del Distrito y Territorios Federales.
-
-> <small>N. DE E. ANTES TITULO DECIMOQUINTO, D.O.F. 20 DE ENERO DE 1967</small>
 
 TITULO DECIMOSEXTO
 
@@ -2460,8 +2466,6 @@ Sólo se castigará el adulterio consumado.
 
 Cuando el ofendido perdone a su cónyuge, cesará todo procedimiento si no se ha dictado sentencia, y si ésta se ha dictado, no producirá efecto alguno. Esta disposición favorecerá a todos los responsables.
 
-> <small>N. DE E. ANTES TITULO DECIMOSEXTO, D.O.F. 20 DE ENERO DE 1967</small>
-
 TITULO DECIMOSÉPTIMO
 
 Delitos contra el estado civil y bigamia
@@ -2489,8 +2493,6 @@ El que cometa alguno de los delitos expresados en el artículo anterior, perder�
 ###### ARTICULO 279.
 
 Se impondrán hasta cinco años de prisión y multa hasta de quinientos pesos al que estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio con las formalidades legales.
-
-> <small>N. DE E. ANTES TITULO DECIMOSEPTIMO, D.O.F. 20 DE ENERO DE 1967</small>
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -2523,8 +2525,6 @@ Se impondrán de seis meses a tres años de prisión y multa de cincuenta a mil 
 I.- Al que viole un túmulo, un sepulcro, una sepultura o féretro, y
 
 II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, obscenidad o brutalidad.
-
-> <small>N. DE E. ANTES TITULO DECIMOCTAVO, D.O.F. 20 DE ENERO DE 1967</small>
 
 TITULO DECIMONOVENO
 
@@ -2577,8 +2577,6 @@ Al que en despoblado o en paraje solitario haga uso de violencia sobre una perso
 ###### ARTICULO 287.
 
 Si los salteadores atacaren una población, se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes, y de quince a veinte años a los demás.
-
-> <small>N. DE E. ANTES TITULO DECIMONOVENO, D.O.F. 20 DE ENERO DE 1967</small>
 
 ###### ARTICULO 288.
 
@@ -2682,15 +2680,17 @@ III.- Que fué a causa de la constitución física de la víctima, o de las circ
 
 No se tendrá como mortal una lesión, aunque muera el que la recibió: cuando la muerte sea resultado de una causa anterior a la lesión y sobre la cual ésta no haya influido, o cuando la lesión se hubiere agravado por causas posteriores, como la aplicación de medicamentos positivamente nocivos, operaciones quirúrgicas desgraciadas, excesos o imprudencias del paciente o de los que lo rodearon.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 306.
 
-Se aplicará sanción hasta de dos años de prisión y multa hasta de cien pesos, sin perjuicio de la pena que corresponda si se causa algún daño:
+Se aplicará sanción de tres días a tres años de prisión y multa de cinco a mil pesos:
 
-I.- Al que dispare sobre alguna persona un arma de fuego;
+I.- Al que dispare a una persona o grupo de personas, una arma de fuego;
 
-II.- Al que ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquiera otra circunstancia semejante, pueda producir como resultado la muerte.
+II.- Al que ataque a alguien de tal manera que, en razón del medio empleado, el arma, la fuerza o destreza del agresor, o de cualquiera otra circunstancia semejante pueda producir como resultado la muerte.
+
+Las sanciones previstas en la fracción I de este artículo se aplicarán independientemente de las que correspondan por la comisión de cualquier otro delito.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
@@ -2708,17 +2708,19 @@ Si el homicidio se comete en duelo, se aplicará a su autor de dos a ocho años 
 
 Además de lo dispuesto en los artículos 51 y 52 para la fijación de las penas dentro de los mínimos y máximos anteriormente señalados, se tomará en cuenta quién fué el provocado y quién el provocador, así como la mayor o menor importancia de la provocación.
 
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
+
 ###### ARTICULO 309.
 
-Cuando el homicidio se ejecute con intervención de tres o más personas, se observarán las reglas siguientes:
+Cuando en la comisión del homicidio intervengan tres o más personas, se observarán las reglas siguientes:
 
-I.- Si la víctima recibiere una sola lesión mortal y constare quién la infirió, sólo a éste se le aplicará la sanción como homicida. Si no constare quién la infirió, a todos se les aplicará como sanción, de tres a seis años de prisión;
+I.- Si la víctima recibiere una o varias lesiones mortales y constare quién o quiénes las infirieron, se aplicará a éstos , o a aquél, la sanción como homicidas;
 
-II.- Cuando se infieran varias lesiones, todas mortales y constare, quiénes fueron los responsables, se considerará a todos éstos como homicidas;
+II.- Si la víctima recibiere una o varias lesiones mortales y no constare quién o quiénes fueron los responsables, se impondrá a todos, sanción de tres a nueve años de prisión;
 
-III.- Cuando sean varias las heridas, unas mortales y otras no, y se ignore quiénes infirieron las primeras, pero constare quiénes lesionaron, a todos se aplicarán de tres a seis años de prisión, excepto a aquellos que justifiquen haber inferido sólo las segundas, a quienes se aplicará la sanción que corresponda por dichas lesiones, y
+III.- Cuando las lesiones sean unas mortales y otras no y se ignore quiénes infirieron las primeras, pero constare quiénes lesionaron, se aplicará sanción, a todos, de tres a nueve años de prisión, a menos que justifiquen haber inferido las lesiones no mortales, en cuyo caso se impondrá la sanción que corresponda por dichas lesiones; y
 
-IV.- Cuando las lesiones no fueren mortales, sino por su número, y no se pueda averiguar quiénes las infirieron, se aplicarán de dos a cuatro años de prisión a todos los que hubieren atacado al occiso con armas a propósito para inferir las heridas que aquél recibió.
+IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda determinar quiénes las infirieron, se aplicará sanción de tres a nueve años de prisión a todos los que hubieren atacado al occiso con armas a propósito para inferir las heridas que aquél recibió.
 
 ###### ARTICULO 310.
 
@@ -2914,8 +2916,6 @@ Al que exponga en una casa de expósitos a un niño menor de siete años que se 
 
 Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
-> <small>N. DE E. ANTES TITULO VIGESIMO, D.O.F. 20 DE ENERO DE 1967</small>
-
 ## TITULO VIGÉSIMO. Delitos contra la vida y la integridad corporal
 
 ###### ARTICULO 344.
@@ -3056,8 +3056,6 @@ En tal caso, se hará en el documento una anotación sumaria de la sentencia pro
 
 Siempre que sea condenado el responsable de una injuria, de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en tres periódicos a costa de aquél. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles multa de cien pesos por cada día que pase sin hacerlo, después de aquel en que se les notifique la sentencia. El importe de la multa no podrá exceder de diez mil pesos.
 
-> <small>N. DE E. ANTES TITULO VIGESIMO PRIMERO, D.O.F. 20 DE ENERO DE 1967</small>
-
 > <small>(ADICIONADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ## TITULO VIGESIMO PRIMERO. Delitos contra el honor
@@ -3097,8 +3095,6 @@ IV.- Cuando los plagiarios obren en grupo o banda; y
 V.- Cuando se cometa el robo de infante menor de doce años por quien sea extraño a su familia y no ejerza la patria potestad sobre él.
 
 Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, antes de tres días y sin causar ningún perjuicio grave, sólo se aplicará la sanción correspondiente a la detención ilegal, de acuerdo con los dos artículos anteriores.
-
-> <small>N. DE E. ANTES TITULO VIGESIMO SEGUNDO, D.O.F. 20 DE ENERO DE 1967</small>
 
 ## TITULO VIGESIMO SEGUNDO. Privación ilegal de la libertad y otras garantías
 
@@ -3310,6 +3306,26 @@ XVII.- Al que valiéndose de la ignorancia o de las malas condiciones económica
 
 XVIII.- Al que habiendo recibido mercancías con subsidio o franquicia para darles un destino determinado, las distrajere de este destino o en cualquier forma desvirtúe los fines perseguidos con el subsidio o la franquicia.
 
+> <small>(ADICIONADA, D.O.F. 8 DE MARZO DE 1968)</small>
+
+XIX.- A los intermediarios en operaciones de traslación de dominio de bienes inmuebles o de gravámenes reales sobre éstos, que obtengan dinero, títulos o valores por el importe de su precio, a cuenta de él o para constituir ese gravamen, si no los destinaren, en todo o en parte, al objeto de la operación concertada, por su disposición en provecho propio o de otro.
+
+Para los efectos de este delito se entenderá que un intermediario no ha dado su destino, o ha dispuesto, en todo o en parte, del dinero, títulos o valores obtenidos por el importe del precio o a cuenta del inmueble objeto de la traslación de dominio o del gravamen real, si no realiza su depósito en Nacional Financiera, S. A. o en cualquier Institución de Depósito, dentro de los 30 días siguientes a su recepción a favor de su propietario o poseedor, a menos que lo hubiese entregado, dentro de ese término, al vendedor o al deudor del gravamen real, o devuelto al comprador, o al acreedor del mismo gravamen.
+
+Las mismas sanciones se impondrán a los gerentes, directivos, mandatarios con facultades de dominio o de administración, administradores de las personas morales que no cumplan o hagan cumplir la obligación o (sic) que se refiere el párrafo anterior.
+
+El depósito se entregará por Nacional Financiera, S. A. o la Institución de Depósito de que se trate, a su propietario o al comprador.
+
+Cuando el sujeto activo del delito devuelva a los interesados las cantidades de dinero obtenidas con su actuación, antes de que se formulen conclusiones en el proceso respectivo, la pena que se le aplicará será la de tres días a seis meses de prisión.
+
+> <small>(ADICIONADA, D.O.F. 8 DE MARZO DE 1968)</small>
+
+XX.- A los constructores o vendedores de edificios en condominio que obtengan dinero, títulos o valores por el importe de su precio o a cuenta de él, si no los destinaren, en todo o en parte, al objeto de la operación concertada, por su disposición en provecho propio o de otro.
+
+Es aplicable a lo dispuesto en esta fracción, lo determinado en los párrafos segundo a quinto de la fracción anterior.
+
+Las Instituciones y Organismos Auxiliares de Crédito, las de Fianzas y las de Seguros, así como los Organismos Oficiales y Descentralizados autorizados legalmente para operar con inmuebles, quedan exceptuados de la obligación de constituir el depósito a que se refiere la fracción XIX.
+
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 388.
@@ -3391,8 +3407,6 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 ###### ARTICULO 399.
 
 Cuando por cualquier medio se causen daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple.
-
-> <small>N. DE E. ANTES TITULO VIGESIMOTERCERO, D.O.F. 20 DE ENERO DE 1967</small>
 
 TITULO VIGESIMOCUARTO
 
@@ -3599,6 +3613,16 @@ D.O.F. 20 DE ENERO DE 1967.
 SE ADICIONA el Código Penal con un Título Cuarto de su Libro Segundo.
 
 UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 8 DE MARZO DE 1968.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a las presentes reformas y adiciones.
 
 ###### ARTICULO 2o.
 
