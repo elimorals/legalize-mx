@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-centro-de-readaptacion-social-de-jalisco-5878"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-10-27"
-last_updated: "1981-10-27"
+last_updated: "1999-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5878&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL CENTRO DE READAPTACION SOCIAL DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el martes 27 de octubre de 1981.
 
@@ -43,9 +43,7 @@ REGLAMENTO DEL CENTRO DE READAPTACION SOCIAL DE JALISCO
 
 Art 2.° El Centro de Readaptación Social de Jalisco, albergará también a los inimputables durante el período de tratamiento hasta que el Consejo Técnico de la propia institución los dé de alta o los destine a otro lugar, de conforidad (sic) a lo establecido en la resolución judicial correspondiente y a la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad, mientras no se construya el Centro Médico de Reclusorios.
 
-###### Art. 3.
-
-° También podrán recluirse en el propio Centro de Readaptación Social de Jalisco, cuando el cupo lo permita a los sentenciados de otros Estados previo Convenio con el Ejecutivo Estatal, cuando en su lugar de origen no se les pueda otorgar el tratamiento que requieran. Estos internos se regresarán a la institución que les corresponda, en el momento en que el Consejo Técnico del propio centro estime pertinente hacerlo, en correlación con el Departamento de Servicios Coordinados de Prevención y Readaptación Social.
+Art.3.° También podrán recluirse en el propio Centro de Readaptación Social de Jalisco, cuando el cupo lo permita a los sentenciados de otros Estados previo Convenio con el Ejecutivo Estatal, cuando en su lugar de origen no se les pueda otorgar el tratamiento que requieran. Estos internos se regresarán a la institución que les corresponda, en el momento en que el Consejo Técnico del propio centro estime pertinente hacerlo, en correlación con el Departamento de Servicios Coordinados de Prevención y Readaptación Social.
 
 Art 4°. La readaptación social de los internos se hará sobre la base del trabajo, de la capacitación para el mismo, la educación especializada, la instrucción y la reestructuración de la personalidad.
 
@@ -75,7 +73,7 @@ La clasificación se realizará atendiendo a la calidad jurídica de cada intern
 
 ###### Art. 11.
 
-El dormitorio de tratamiento en segregación, se destinará para los internos que infrinjan el reglamento o cometan algún delito en el interior. Esta reclusión no podrá ser por más de 40 días. Esto no obsta para que si el interno vuelve a cometer otra infracción, la segregación se prolongue a juicio de la Dirección, asesorada por el Consejo Técnico Interdisciplinario de la institución y con el vistonbueno (sic) del Departamento de los Servicios Coordinados de Prevención y Readjptación (sic) Social. Sólo el Dirdctor (sic), eg (sic)Subdirector General, o el de custodia, podrán enviar a segregación a los internos infractores, en la inteligencia de que estos últimos comunccarán (sic) la situación anómala de inmediato, al director de la institución para que éste lleve a cabo la caloficación (sic) que corresponda.
+El dormitorio de tratamiento en segregación, se destinará para los internos que infrinjan el reglamento o cometan algún delito en el interior. Esta reclusión no podrá ser por más de 40 días. Esto no obsta para que si el interno vuelve a cometer otra infracción, la segregación se prolongue a juicio de la Dirección, asesorada por el Consejo Técnico Interdisciplinario de la institución y con el vistonbueno (sic) del Departamento de los Servicios Coordinados de Prevención y Readjptación (sic) Social. Sólo el Dirdctor (sic), eg (sic) Subdirector General, o el de custodia, podrán enviar a segregación a los internos infractores, en la inteligencia de que estos últimos comunccarán (sic) la situación anómala de inmediato, al director de la institución para que éste lleve a cabo la caloficación (sic) que corresponda.
 
 ###### Art. 12.
 
@@ -99,7 +97,7 @@ Los epilépticos, desviados sexuales y francos enfermos mentales, recibirán tra
 
 ###### Art. 17.
 
-Los internos multireincidentes, habituales, profesionales y en general aquellos que a juicio del Consejo Técnico observen elevada peligrosidad y obstaculicen el sistema implantado, serán recluidos en el dormitorio de máxima peligrosidad, en donde recibirán visita familiar y los elementos que proporcionará la institución para que trabajen en el interior. En ningún momento deberán mezclarse con el resto de la población del Centro Penitenciario.
+Los internos multirreincidentes, habituales, profesionales y en general aquellos que a juicio del Consejo Técnico observen elevada peligrosidad y obstaculicen el sistema implantado, serán recluidos en el dormitorio de máxima peligrosidad, en donde recibirán visita familiar y los elementos que proporcionará la institución para que trabajen en el interior. En ningún momento deberán mezclarse con el resto de la población del Centro Penitenciario.
 
 ###### Art. 18.
 
@@ -277,7 +275,9 @@ a) Físicos:
 
 1. Estatura mínima 1.65 m.
 
-2. Edad 22 a 35 años.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
+2. Edad veintidós a cuarenta y cinco años.
 
 3. Sin defectos físicos visibles, ni cicatrices, mutilación o tatuajes.
 
@@ -992,3 +992,11 @@ Lic. Alfonso de Alba Martín
 EL JEFE DEL DEPARTAMENTO DE SERVICIOS COORDINADOS DE PREVENCIÓN Y READAPTACIÓN SOCIAL DEL ESTADO
 
 Lic. Antonio Sánchez Galindo
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE AGOSTO DE 1999.
+
+Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo.- Las personas que ingresen al servicio deberán cumplir los demás requisitos exigidos por la Ley y sus reglamentos respectivos.
