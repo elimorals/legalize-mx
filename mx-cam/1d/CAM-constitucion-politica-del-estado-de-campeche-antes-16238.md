@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1922-03-07"
+last_updated: "1923-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 1922.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 1923.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -123,7 +123,9 @@ Para ser Diputado se requiere:
 
 I. Ser ciudadano campechano, en ejercicio de sus derechos;
 
-II. Tener veinte y cinco años cumplidos el día de la elección; y una residencia en territorio del Estado de más de seis meses si se tiene la cualidad de campechano por nacimiento, y de más de un año, si se tiene la cualidad de campechano por vecindad.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1923)</small>
+
+II. Tener veintiún años cumplidos el día de la elección, y una residencia en territorio del Estado de más de seis meses, si se tiene la cualidad de campechano por nacimiento, y de más de un año, si se tiene la cualidad de campechano por vecindad.
 
 ###### Art. 22.
 
@@ -337,7 +339,9 @@ Para ser Gobernador se requiere:
 
 I. Ser Ciudadano Campechano en pleno goce de sus derechos;
 
-II. Tener veinte y cinco años cumplidos el día de la elección;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1923)</small>
+
+II. Tener veintiún años cumplidos el día de la elección;
 
 III. Haber residido en el territorio del Estado todo el año anterior a la elección, si la calidad de campechano fuese por nacimiento y tener cinco años de vecindad, si la calidad de campechano fuese solo por vecindad.
 
@@ -669,7 +673,7 @@ Las diferencias que se suscitaren entre los municipios, serán subsanadas por el
 
 ###### Art. 99.
 
-Una ley precisará las facultades y obligaciones de los Ayuntamientos y Juntas Municipales y sus Presidentes, así como la de los Comisarios Municipales, y se denominará Ley Orgánica de Administración Interior.
+Una ley precisará las facultades y obligaciones de los Ayuntamientos y Juntas Municipales y sus Presidentes, así la de los Comisarios Municipales, y se denominará Ley Orgánica de Administración Interior.
 
 ###### Art. 100.
 
@@ -904,5 +908,9 @@ Los componentes de los Ayuntamientos, Juntas y Comisarios Municipales, durarán 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 7 DE MARZO DE 1922.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 26 DE MAYO DE 1923.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
