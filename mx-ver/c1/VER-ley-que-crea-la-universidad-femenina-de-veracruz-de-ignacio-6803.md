@@ -4,7 +4,7 @@ identifier: "VER-ley-que-crea-la-universidad-femenina-de-veracruz-de-ignacio-680
 country: "mx"
 rank: "ley"
 publication_date: "1956-09-11"
-last_updated: "1959-02-14"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY QUE CREA LA UNIVERSIDAD FEMENINA DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY QUE CREA LA UNIVERSIDAD FEMENINA DE VERACRUZ-LLAVE
+LEY QUE CREA LA UNIVERSIDAD FEMENINA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 1959.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 11 de septiembre de 1956.
 
@@ -33,17 +33,19 @@ MARCO ANTONIO MUÑOZ T., Gobernador Constitucional del Estado Libre y Soberano d
 
 Encontrándose este Ejecutivo investido de facultades extraordinarias en todos los Ramos de la Administración, conforme al Decreto número 73 de 28 de diciembre del año próximo anterior, expedido por la H. Legislatura del Estado, he tenido a bien expedir, promulgar y publicar, la siguiente
 
-LEY QUE CREA LA UNIVERSIDAD FEMENINA DE VERACRUZ-LLAVE.
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+LEY QUE CREA LA UNIVERSIDAD FEMENINA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 ### CAPITULO I.
 
 CONSTITUCION.- NATURALEZA Y FINES.
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1959)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1°.
 
-Se crea una institución de carácter privado con personalidad jurídica propia, que se denominará "Universidad Femenina de Veracruz - Llave", y cuya finalidad principal es la difusión de la cultura en todas sus formas, manifestaciones y denominaciones en beneficio de la mujer en general y en particular de la del Estado de Veracruz.
+Se crea una institución de carácter privado con personalidad jurídica propia, que se denominará "Universidad Femenina del Estado de Veracruz de Ignacio de la Llave", y cuya finalidad principal es la difusión de la cultura en todas sus formas, manifestaciones y denominaciones en beneficio de la mujer en general y en particular de la del Estado de Veracruz.
 
 Esta Institución normará sus labores por la doctrina contenida en los artículos 3° de la Constitución Federal, y 68, F. XLIV, incisos A), D) y G), de la Constitución Local así como en la Ley General de Enseñanza del Estado de Veracruz.
 
@@ -95,11 +97,11 @@ El Rector o Rectora es el representante legal de la Universidad y su órgano eje
 
 Los Directores o Directoras de las Escuelas, Institutos, Facultades o Jefes de Departamento de Cultura Extra-escolar, serán designados por la Junta Académica a propuesta del Rector de la Universidad.
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1959)</small>
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 9°.
 
-El Patronato se integra por cinco personas que designará el Consejo de Administración por tiempo indefinido y con carácter honorario. Será este Patronato de carácter privado, independiente y exclusivamente ligado a la Universidad Femenina de Veracruz-Llave, en lo que respecta a las solicitudes de ésta y sus problemas específicos de organización sin intervención oficial. Asimismo, corresponderá al Patronato, conforme al plan de trabajo elaborado por la Rectoría, gestionar el mayor incremento del patrimonio universitario, así como el aumento a los ingresos de la Institución, pudiendo recurrir tanto a las esferas oficiales, como a la iniciativa privada en solicitud de cooperación.
+El Patronato se integra por cinco personas que designará el Consejo de Administración por tiempo indefinido y con carácter honorario. Será este Patronato de carácter privado, independiente y exclusivamente ligado a la Universidad Femenina del Estado de Veracruz de Ignacio de la Llave, en lo que respecta a las solicitudes de ésta y sus problemas específicos de organización sin intervención oficial. Asimismo, corresponderá al Patronato, conforme al plan de trabajo elaborado por la Rectoría, gestionar el mayor incremento del patrimonio universitario, así como el aumento a los ingresos de la Institución, pudiendo recurrir tanto a las esferas oficiales, como a la iniciativa privada en solicitud de cooperación.
 
 ###### ARTICULO 10.
 
@@ -144,3 +146,21 @@ DADA en el Palacio de Gobierno residencia oficial del Poder Ejecutivo del Estado
 G.O. 14 DE FEBRERO DE 1959.
 
 UNICO.- Esta Ley comenzará a regir desde la fecha en que sea publicada en la "Gaceta Oficial" del Estado.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "... Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... Estado de Veracruz-Llave", se entenderán referidas al "... Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "... del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
