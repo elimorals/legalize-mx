@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1978-05-03"
+last_updated: "1979-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1979.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -837,7 +837,9 @@ El Municipio Libre se organizará y funcionará conforme a las bases siguientes:
 
 I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa, que entrará en funciones el primero de enero siguiente a las elecciones.
 
-El Ayuntamiento se integrará con el número de regidores que determine la Ley correspondiente y radicará en la cabecera del Municipio respectivo. En la elección de aquellos municipios cuya población de 300 mil o más habitantes se aplicará además el principio de representación proporcional;
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 1979)</small>
+
+El Ayuntamiento se integrará con el número de Regidores que determine la Ley correspondiente y radicará en la cabecera del Municipio respectivo. En la elección de aquellos Municipios cuya población sea de 100,000 o más habitantes se aplicará el principio de representación proporcional.
 
 II.- El primer Regidor será el Presidente Municipal; el segundo, Síndico de Hacienda y los demás desempeñarán las funciones que la ley asigne;
 
@@ -1296,3 +1298,9 @@ P.O. 3 DE MAYO DE 1978.
 PRIMERO.- Esta adición y reforma, han sido aprobadas, en los términos del Artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
 
 SEGUNDO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 1979.
+
+PRIMERO.- Esta Reforma, ha sido aprobada en los términos del Artículo 83 de la Constitución Política del Estado por la mayoría de las autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
+
+SEGUNDO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
