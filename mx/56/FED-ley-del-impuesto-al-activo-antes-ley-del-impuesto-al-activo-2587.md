@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "2001-03-02"
+last_updated: "2004-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -183,7 +183,23 @@ IV.- Los intereses devengados a favor, no cobrados.
 
 Los activos financieros denominados en moneda extranjera, se valuarán al tipo de cambio del primer día de cada mes. Para este efecto, cuando no sea aplicable el tipo controlado de cambio, se estará al tipo de cambio promedio para enajenación con el cual inicien operaciones en el mercado las instituciones de crédito de la ciudad de México.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 5.
+
+Los contribuyentes podrán deducir del valor del activo en el ejercicio, las deudas contratadas con empresas residentes en el país, con establecimientos permanentes ubicados en México de residentes en el extranjero o en el extranjero, siempre que se trate de deudas no negociables. También podrán deducirse las deudas negociables en tanto no se le notifique al contribuyente la cesión del crédito correspondiente a dichas deudas a favor de una empresa de factoraje financiero, y aun cuando no habiéndosele notificado la cesión el pago de la deuda se efectúe a dicha empresa o a cualquier otra persona no contribuyente de este impuesto.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+Para los efectos de este artículo, los contribuyentes deducirán el valor promedio de las deudas en el ejercicio de que se trate. Dicho promedio se calculará sumando los promedios mensuales de los pasivos y dividiendo el resultado entre el número de meses que comprende el ejercicio. Los promedios se determinarán sumando los saldos al inicio y al final del mes y dividiendo el resultado entre dos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Las personas físicas podrán deducir del valor del activo en el ejercicio, además, un monto equivalente a quince veces el salario mínimo general del área geográfica del contribuyente levado al año. Cuando dicho monto sea superior al valor del activo del ejercicio, sólo se podrá efectuar la deducción hasta por una cantidad equivalente a dicho valor.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 5o.
 
@@ -732,3 +748,11 @@ D.O.F. 2 DE MARZO DE 2001.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA MODIFICACION QUE SE RELACIONAN CON LA LEY.
 
 Unico. La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE DICIEMBRE DE 2004.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA MODIFICACION QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del 1 de enero del 2005, con excepción de lo dispuesto en los Artículos Quinto y Sexto de este Decreto que entrarán en vigor a partir del 1 de enero de 2006.
