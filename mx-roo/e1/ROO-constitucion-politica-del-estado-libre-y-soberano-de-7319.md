@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1987-09-30"
+last_updated: "1988-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1988.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1011,25 +1011,33 @@ VI.- El Jurado Popular, y
 
 VII.- Los demás servidores públicos y auxiliares de la administración de justicia en los términos establecidos en las leyes y códigos relativos.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1988)</small>
+
 ###### ARTICULO 100.
 
-El Tribunal Superior de Justicia del Estado se integra con el número de magistrados determinado en la Ley Orgánica del Poder Judicial, nombrados directamente por el Gobernador del Estado, con aprobación de la Legislatura o de la Diputación Permanente, en su caso, en los términos de esta Constitución.
+El Tribunal Superior de Justicia del Estado, se integrará con el número de Magistrados que determine la Ley Orgánica del Poder Judicial, nombrados directamente por el Gobernador del Estado.
 
-Para el trámite de las renuncias de los magistrados del Tribunal, se seguirá el mismo procedimiento que para su nombramiento.
+Las designaciones de Magistrados serán sometidas a la probación (sic) de la Legislatura o la Diputación Permanente en su caso, en los términos que establece esta Constitución.
+
+Los nombramientos de los Magistrados y Jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+Para el trámite de la remodelación ( sic) de los Magistrados del Tribunal se seguirá el mismo procedimiento que para su nombramiento.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1988)</small>
 
 ###### ARTICULO 101.
 
-Para ser magistrado se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia se requiere:
 
-I.- Ser ciudadano quintanarroense, en ejercicio de sus derechos políticos.
+I.- Ser ciudadano quintanarroense, en ejercicio de sus derechos políticos y civiles.
 
-II.- No tener menos de 25 años de edad, ni más de 65 el día de la designación, pero si al concluir el ejercicio sexenal escedieren (sic) de esta edad, podrán ser nombrados para el próximo periodo hasta alcanzar los 70 años en que serán sustituidos.
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección.
 
-III.- Ser licenciado en derecho, con título debidamente registrado.
+III.- Poseer el día de la elección, con antigüedad mínimo de cinco años, Títulos Profesionales de Abogado, expedido por la autoridad o corporación legalmente facultada para ello, y debidamente registrado.
 
-IV.- Gozar de buene (sic) reputación, y
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación o abuso de confianza u otro que lastime seriamente la buena forma en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
 
-V.- No haber sido condenado por sentencia irrevocable por delito intencional.
+V.- No ser Ministro de ningún culto religioso.
 
 ###### ARTICULO 102.
 
@@ -1045,11 +1053,11 @@ Dentro de los primeros 10 días de sesiones de la Legislatura se deberá aprobar
 
 Si laLegislatura (sic) desecha el nombramiento, cesará desde luegoensus(sic) funciones el magistrado provisional, y el Ejecutivo someterá nuevo nombramiento en los términos que se indican en este precepto.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1988)</small>
 
 ###### ARTICULO 103.
 
-Los magistrados del Tribunal Superior de Justicia durarán en su encargo 6 años y sólo podrán ser privados de sus puestos por mala conducta o responsabilidad oficial en los términos del Título Octavo de esta Constitución y de su Ley reglamentaria.
+Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, podrán ser reelectos y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Octavo de esta Constitución y de su Ley Reglamentaria.
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -1089,11 +1097,11 @@ VI.- Conocer de las acusaciones o quejas presentadas en contra del Presidente de
 
 VII.- Las demás que le confiera esta Constitución y las leyes.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1988)</small>
+
 ###### ARTICULO 108.
 
-La Ley Orgánica del Poder Judicial regulará la organización y funcionamiento del Tribunal Superior de Justicia y de los juzgados dependientes de éste, y determinarálos(sic) requisitos necesarios para ser juez.
-
-La misma ley normará la integración, organización y funcionamiento de los jurados.
+La Ley Orgánica del Poder Judicial, regulará la organización y funcionamiento del Tribunal Superior de Justicia y de los Juzgados dependientes de éste, determinará los requisitos para ser Juez y las condiciones para el ingreso, formación y permanencia de su personal. Asimismo, establecerá los medios para garantizar la independencia de los Magistrados y Jueces, los cuales, en el ejercicio de sus funciones actuarán sin más sujeción que a las Leyes, la equidad y los principios generales del Derecho.
 
 ###### ARTICULO 109.
 
@@ -1926,3 +1934,9 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 P.O. 30 DE SEPTIEMBRE DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE MARZO DE 1988.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Quintana Roo.
+
+Artículo Segundo.- Los Magistrados del Tribunal Superior de Justicia que se encuentran en funciones, continuarán en ejercicio por el periodo constitucional correspondiente.
