@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-18581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-11-26"
-last_updated: "2003-12-19"
+last_updated: "2004-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Puebla el viernes 26 de noviembre de 1999.
 
@@ -863,9 +863,9 @@ IV.- Desarrollo Social;
 
 V.- Comunicaciones y Transportes;
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-VI.- Salud y Grupos con Capacidad Disminuida;
+VI.- Salud y Grupos con Capacidad Diferenciada;
 
 VII.- Educación, Cultura y Deporte;
 
@@ -1416,3 +1416,17 @@ El cargo de Secretario de las Comisiones y Comités de la Quincuagésimo Quinta 
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 15 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+De los asuntos que se encuentran en trámite en la Comisión de Salud y Grupos con Capacidad Disminuida, seguirá conociendo la Comisión de Salud y Grupos con Capacidad Diferenciada, para su resolución correspondiente, la que continuará funcionando con los mismos integrantes de la Comisión que se menciona al principio de este artículo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
