@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-conductas-antisociales-auxilio-a-8195
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "1993-05-01"
+last_updated: "1999-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCION DE CONDUCTAS ANTISOCIALES, AUXILIO A LAS VICTIMAS, MEDIDAS TUTELARES Y READAPTACION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 27 de diciembre de 1986.
 
@@ -155,7 +155,7 @@ La Dirección General, por conducto de su titular o de la Dirección de Prevenci
 
 I.- Promover campañas, exposición de conferencias, distribución de folletos e ilustraciones, propagar por los distintos medios masivos de comunicación, instituir cursos en las escuelas, preparar y exponer material audiovisual, organizar seminarios, capacitar instructores hacia la comunidad, sobre los efectos perniciosos que causan el tabaco, el alcohol, los enervantes, la pornografía, los vicios en general, el pandillerismo y las conductas antisociales en que degeneran;
 
-II .- Promover:
+II.- Promover:
 
 a).- Parques infantiles;
 
@@ -183,7 +183,7 @@ III.- Establecer un programa de Seguridad Vecinal, a nivel municipal, con los Co
 
 Para la elaboración del Programa de Seguridad Vecinal, la Dirección General se sujetará a las siguientes bases:
 
-I.- Con la intervención del Consejo Consultivo Estatal de Seguridad Pública y el Municipal que corresponda, celebrará acuerdo de coordinación con el Ayuntamiento respectivo, a efecto de instrumentar el programa.
+I.- Con la intervención del Consejo Consultivo Estatal de Seguridad Pública y el Municipal que corresponda, celebrará acuerdo de coordinación con el Ayuntamiento respectivo, a efecto de instrumentar el programa;
 
 > <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
@@ -603,7 +603,9 @@ Queda estrictamente prohibido proporcionar el nombre de menores, así como datos
 
 La Dirección General, por conducto de su titular o del Director de Readaptación Social, tendrá las siguientes atribuciones:
 
-I.- Organizar, supervisar y vigilar los Centros de Readaptación Social del Estado, con la finalidad de procurar el debido y estricto cumplimiento del sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente, ejecutando las sanciones a que se refiere el Artículo 113 del Código Penal del Estado;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+I.- Organizar, supervisar y vigilar los Centros de Readaptación Social del Estado, con la finalidad de procurar el debido y estricto cumplimiento del sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente, ejecutando las sanciones a que se refiere el Artículo 113 del Código Penal del Estado y las penas sustitutivas ordenadas por la autoridad judicial, estableciendo los programas para la aplicación y supervisión de las mismas por conducto del área que señale el titular de la Dirección;
 
 II.- Organizar, supervisar y vigilar las labores de los Consejos Técnicos Interdisciplinarios adscritos a los Centros de Readaptación Social;
 
@@ -611,31 +613,41 @@ III.- Previo acuerdo con el Secretario General de Gobierno, nombrar y remover a 
 
 IV.- Expedir los reglamentos internos por los que deba regirse el funcionamiento de los Centros de Readaptación Social y Consejos Técnicos Interdisciplinarios;
 
-V.- Vigilar el cumplimiento de la presente Ley, su Reglamento y disposiciones interiores que rijan en los centros de internamiento;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+V.- Vigilar el cumplimiento de la presente Ley, su Reglamento y disposiciones interiores que rijan en los centros de internamiento, así como el Código Penal y el de Procedimientos Penales en el ámbito de su competencia;
 
 VI.- Intervenir en la administración de los Centros de Readaptación Social, vigilando que se encuentren en las mejores condiciones de higiene y seguridad;
 
 VII.- Señalar los establecimientos donde deban cumplirse las resoluciones restrictivas o privativas de libertad dictadas por las autoridades judiciales y, en los casos de existir dos o más penas privativas de libertad en contra del mismo reo, establecer a partir de cuándo empezará a computarse cada una de ellas en forma sucesiva y no simultánea, tomando como fundamento la fecha en que causen ejecutoria las sentencias de la más antigua a la más reciente.
 
-VIII.- Llevar un registro y expedientes de las personas que sean internadas por restricción o privación de su libertad en los Centros de Readaptación Social, exigiendo a sus responsables los informes oportunos y copias de las resoluciones judiciales que hubieren decretado el internamiento en el Centro, incluyendo las dictadas en primera y segunda instancias y, en su caso, en el Juicio de Garantías; asimismo, el expediente de cada interno se complementará con los informes relativos a su comportamiento, incluyendo las correcciones disciplinarias que se le hubieren impuesto en los términos del reglamento respectivo;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+VIII.- Llevar un registro y expediente de las personas que sean internadas por restricción o privación de su libertad en los Centros de Readaptación Social, exigiendo a sus responsables los informes oportunos y copias de las resoluciones judiciales que hubieren decretado el internamiento en el Centro, incluyendo las dictadas en primera y segunda instancias y, en su caso, en el Juicio de Garantías; asimismo, el expediente de cada interno se complementará con los informes relativos a su comportamiento, incluyendo las correcciones disciplinarias que se le hubieren impuesto en los términos del reglamento respectivo; lo mismo se hará con quienes cumplan penas substitutivas de la de prisión;
 
 IX.- Exigir a los Directores de los Centros de Readaptación Social, que mensualmente remitan el cómputo de los días laborados, expresando el trabajo desarrollado por los internos;
 
 X.- Conocer, investigar y resolver las quejas de los internos sobre el trato de que sean, objeto y sus inconformidades respecto al tratamiento y medidas impuestas por los Directores y Consejos Técnicos Interdisciplinarios de los Centros de Readaptación Social;
 
-XI.- Resolver los casos de condenados por sentencia firme a que se refieren los Artículos 9o,10,11 y 12 del Código Penal del Estado;
+XI.- Resolver los casos de condenados por sentencia firme a que se refieren los Artículos 9o, 10, 11 y 12 del Código Penal del Estado;
 
 XII.- Proveer a la ejecución de las medidas que dicte el Juez a procesados que enloquezcan durante el procedimiento, en los términos del Artículo 71 del Código Penal;
 
-XIII.- Vigilar que los Consejos Técnicos Interdisciplinarios adscritos en los Centros de Readaptación Social, apliquen las medidas de seguridad ordenadas por la autoridad judicial correspondiente y a que se refieren los Artículos 66 a 68,101 a 107 del Código Penal;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
 
-XIV.- Determinar los lugares en que deban estar recluidos los locos, oligofrénicos, sordomudos, toxicómanos, alcohólicos y degenerados;
+XIII.- Vigilar que los Consejos Técnicos Interdisciplinarios adscritos a los Centros de Readaptación Social, apliquen las medidas de seguridad ordenadas por la autoridad judicial correspondiente y a que se refieren los Artículos 46 bis, 66 a 68, 101 a 108 del Código Penal;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XIV.- Determinar los lugares en que deban estar recluidos los locos, oligofrénicos, sordomudos, toxicómanos, alcohólicos y degenerados y de los sujetos a prisión intermitente que será distinto al del resto de los sentenciados;
 
 XV.- Establecer la vigilancia de los reos sujetos a confinamiento;
 
 XVI.- Proponer al Ejecutivo del Estado las resoluciones de conmutación de sanciones a que se refiere el Artículo 110 del Código Penal del Estado;
 
-XVII.- Proceder a la vigilancia del sentenciado al que se hubiere concedido el beneficio de la condena condicional a que se refiere la fracción V del Artículo 112 del Código Penal;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XVII.- Proceder a la vigilancia del sentenciado al que se hubiere concedido el beneficio de la condena condicional a que se refiere la fracción V del Artículo 112 del Código Penal y de quienes cumplan penas alternativas o substitutivas de la de prisión;
 
 XVIII.- Declarar la extinción de las sanciones pecuniaria o corporal que refieren los Artículos 114,138 al 142 del Código Penal del Estado;
 
@@ -669,13 +681,21 @@ V.- Una Sección de Sistemas Penitenciarios;
 
 VI.- Establecimiento de internamiento de procesados y los de sentenciados; y
 
-VII.- El personal técnico, administrativo y de custodia que señalen las disposiciones internas y el Presupuesto de Egresos.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+VII.- Los Consejeros Penitenciarios, personal técnico, administrativo y de custodia que señalen las disposiciones internas y el Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+ARTICULO 63 BIS.- La Dirección General designará a los Consejeros Penitenciarios necesarios para supervisar el cumplimiento de las penas sustitutivas de prisión en los casos que les fueren asignados, así como para proporcionar la orientación y el apoyo que requieran los sentenciados en el cumplimiento de su pena y los responsables de los diferentes establecimientos donde cumplan el trabajo a favor de la comunidad, reciban educación, capacitación, tratamientos y demás medidas que fueron ordenadas en substitución de la pena de prisión. La Dirección podrá habilitar como Consejeros Penitenciarios a los prestatarios de servicio social de Instituciones de Educación Superior públicas o privadas de las carreras relacionadas con las ciencias sociales, celebrando al efecto los convenios respectivos.
 
 #### SECCION I. DE LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 64.
 
-Los establecimientos de Readaptación Social son instituciones públicas destinadas a la internación de los sentenciados a penas privativas de la libertad impuestas por los Tribunales Judiciales; estarán situadas en diferentes partes del Estado y se denominarán CENTROS DE READAPTACION SOCIAL, los que serán en número suficiente de acuerdo con la población penitenciaria, siendo piloto el ubicado en Ciudad Victoria, Tamaulipas.
+Los establecimientos de Readaptación Social son instituciones públicas destinadas a la internación de los sentenciados a penas privativas de la libertad o a prisión intermitente impuestas por los Tribunales Judiciales; estarán situadas en diferentes partes del Estado y se denominarán CENTROS DE READAPTACION SOCIAL, los que serán en número suficiente de acuerdo con la población penitenciaria, siendo piloto el ubicado en Ciudad Victoria, Tamaulipas.
 
 ###### ARTICULO 65.
 
@@ -683,17 +703,21 @@ Los establecimientos distritales estarán situados en la cabecera de cada distri
 
 También podrán destinarse para los sentenciados que determine la Dirección General.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 66.
 
-Los establecimientos estarán divididos en tres secciones: La de procesados, la de detenidos o indiciados y la de sentenciados. La sección de detenidos por faltas o contravenciones será administrada por cada municipio y deberá estar separada de las demás.
+Los establecimientos estarán divididos en cuatro secciones: La de procesados, la de detenidos o indiciados, la de sentenciados y la de sujetos a prisión intermitente. Se procurará que el establecimiento donde se interne temporalmente a los sujetos a prisión intermitente esté separado del resto del conjunto arquitectónico y cuente con accesos directos del exterior y siempre se evitará todo contacto de éstos con los demás internos sentenciados a prisión y procesados. La sección de detenidos por faltas o contravenciones será administrada por cada Municipio y deberá estar separada de las demás.
 
 ###### ARTICULO 67.
 
 El sitio destinado a prisión preventiva deberá ser distinto del señalado para la extinción de penas. Las mujeres compurgarán las sanciones en lugares separados de los hombres y se designará personal de custodia exclusivamente femenino. Los menores de 18 años de edad y los mayores de ésta pero menores de 25 deberán estar separados de los demás internos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 68.
 
-Al frente de los establecimientos de Readaptación Social estará un Director que presidirá el Consejo Técnico Interdisciplinario; contará con el personal técnico, administrativo y de vigilancia que se estime necesario y estarán subordinados a la Dirección General.
+Al frente de los establecimientos de Readaptación Social estará un Director que presidirá el Consejo Técnico Interdisciplinario; contará con el personal técnico, incluyendo en éste a los Consejeros Penitenciarios, el administrativo y de vigilancia que se estime necesario y estarán subordinados a la Dirección General.
 
 El Director tendrá a su cargo el gobierno, la vigilancia y administración del establecimiento, proveerá y cuidará la aplicación del reglamento interior y adoptará todas las medidas necesarias para el cumplimiento de esta Ley.
 
@@ -702,6 +726,8 @@ Los Directores de los establecimientos de Readaptación Social deberán ser, pre
 ###### ARTICULO 69.
 
 El personal de custodia o vigilancia quedará organizado conforme a las reglas de la disciplina penitenciaria, a fin de mantener la jerarquía y el orden requeridos para el correcto funcionamiento del sistema.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 70.
 
@@ -717,9 +743,11 @@ Al personal de tratamiento y readaptación se le instruirá acerca de los fines 
 
 En cada establecimiento de Readaptación Social existirá un Consejo Técnico Interdisciplinario y se regirá por el reglamento de la materia.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 73.
 
-El Consejo ejercerá las funciones consultivas necesarias para la aplicación a los casos individuales del sistema progresivo, la ejecución de medidas preliberacionales, la concesión de la remisión parcial de la pena y de la libertad preparatoria y, en general, el cumplimiento de esta Ley. Además, el Consejo Técnico podrá sugerir a las autoridades del Centro de Internamiento medidas de carácter general para la correcta marcha del mismo.
+El Consejo ejercerá las funciones consultivas necesarias para la aplicación a los casos individuales del sistema progresivo, la ejecución de medidas preliberacionales, la concesión de la remisión parcial de la pena y de la libertad preparatoria y, en general, el cumplimiento de esta Ley. Además, el Consejo Técnico podrá sugerir a las autoridades del Centro de Internamiento medidas de carácter general para la correcta marcha del mismo. El Consejo actuará también como órgano auxiliar del Juez en todo lo relativo a la substitución de la pena de prisión en los términos que ordena el Código Penal y deberá informarle de cualquier incumplimiento de los sentenciados que hubieren sido beneficiados con la dicha substitución. Tendrá además las atribuciones que esta Ley le concede en esa materia. Las comunicaciones que deban hacerse al Juez de la causa se efectuarán por conducto del Director del Establecimiento de su adscripción.
 
 ###### ARTICULO 74.
 
@@ -803,7 +831,9 @@ Para efectuar la vigilancia a que se refiere el artículo anterior, la Direcció
 
 La vigilancia será ejercida discretamente y los informes que se obtengan en caso de ser desfavorables se comunicarán a los tribunales competentes.
 
-#### SECCION IV. CONMUTACION DE SANCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 1999)</small>
+
+#### SECCION IV. CONMUTACION Y SUBSTITUCION DE SANCIONES
 
 ###### ARTICULO 91.
 
@@ -816,6 +846,202 @@ II.- Cuando la sanción impuesta sea la de confinamiento se conmutará en multa 
 ###### ARTICULO 92.
 
 Para que pueda operar la conmutación, es indispensable cubrir o garantizar la reparación del daño.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-A.
+
+La ejecución de las sanciones no privativas de la libertad se llevará a cabo en instituciones abiertas, ubicadas en lugares diferentes de los centros destinados para la prisión preventiva o para la ejecución de penas de prisión. Las de prisión intermitente podrán cumplirse en los centros de readaptación, pero los beneficiados con la pena substitutiva estarán separados de los demás sentenciados y procesados.
+
+Al inicio de la aplicación de una pena sustitutiva de prisión, el sentenciado recibirá información oral y escrita por parte de su Consejero Penitenciario, sobre las condiciones que rigen la aplicación de la medida, incluidas sus obligaciones y derechos.
+
+El órgano de ejecución deberá proporcionar a los sentenciados y a los responsables de los diferentes establecimientos donde se cumpla con las sanciones, penas y medidas impuestas en substitución de la de prisión, los formatos que les servirán de guía para rendir los informes correspondientes y a los cuales se agregará en su caso los anexos y documentes (sic) que sean necesarios. Igualmente deberá explicar con detenimiento a los responsables de los establecimientos mencionados lo siguiente:
+
+1.- El tipo de actividad que se le encomienda, así como los informes que al efecto se deban rendir, proporcionándole los formatos elaborados para tales efectos;
+
+2.- Les hará saber las sanciones para quienes se conducen con falsedad ante autoridad administrativa y que dichos informes deberán rendirlos siempre bajo protesta de decir verdad y manifestar su conocimiento de las penas dichas para quienes cometan el mencionado delito;
+
+3.- Se les comunicará la actividad que debe realizar el Consejero Penitenciario que se hubiere asignado y que éste tendrá la obligación de asistirlo en la vigilancia del cumplimiento de las sanciones impuestas, así como en los informes que deba rendir; y
+
+4.- Tratándose de servidores públicos que bajo sus órdenes se apliquen o se desarrollen las penas y medidas substitutas, se les comunicará su obligación de cumplir con lo ordenado por el Juez de la causa. En caso de negativa, negligencia o dolo del servidor público en la aplicación, informes y demás obligaciones al aplicarse las penas y medidas substitutas, se comunicará a su superior, al Juez de la causa y al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-B.
+
+La autoridad ejecutora informará trimestralmente al Juez de la causa sobre la parte de la pena que hubiere compurgado cada sentenciado a sanción alternativa. Cuando la pena impuesta fuese de prisión intermitente, se dará cuenta al Juez en lo relativo al cumplimiento del horario de internamiento señalado. En el caso de trabajo en favor de la comunidad, se reportará el número de horas laboradas, el lugar y el trabajo específico desempeñado. Tratándose de la pena de régimen especial en libertad, se reportará el cumplimiento de las medidas restrictivas de la libertad impuestas, así como el tiempo compurgado. En los casos anteriores y en el de las demás medidas substitutas y readaptadoras se informará al Juez sobre su cumplimiento o incumplimiento y en el último supuesto lo hará de inmediato al tomar conocimiento de la violación del sentenciado.
+
+El interno tendrá derecho a obtener copia certificada de los informes trimestrales que rinda la autoridad ejecutora.
+
+Cualquier inconformidad sobre los informes trimestrales relativos a la pena sustitutiva de prisión compurgada, se resolverá mediante Incidente.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-C.
+
+El expediente personal de los sentenciados a penas no privativas de la libertad se mantendrá en forma confidencial e inaccesible a terceros, excepto a las víctimas u ofendidos quienes tienen el derecho de vigilar que la Ley no se defraude.
+
+Toda persona podrá acudir ante la Dirección General o ante el Ministerio Público, para denunciar cualquier incumplimiento o forma de simulación que favorezca la impunidad del sentenciado, así como las desviaciones respecto de la recta ejecución de las penas sustitutivas de prisión.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-D.
+
+En el caso de la pena de prisión intermitente, la Dirección General o el Consejo Técnico Interdisciplinario del domicilio del sentenciado serán los responsables de establecer los programas a los que aquél quedará sujeto durante los períodos de internamiento en el lugar que se tenga establecido, a partir de los horarios y disposiciones decretados por la autoridad judicial.
+
+Para el cumplimiento de estos programas, la Dirección celebrará los convenios que fueren necesarios con instituciones públicas y del sector social, así como con grupos u organizaciones privadas con fines culturales, educativos o de desarrollo social.
+
+En el desarrollo de estos programas, la autoridad ejecutora promoverá la participación de voluntarios debidamente seleccionados, a quienes se les proporcionará la capacitación necesaria.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-E.
+
+El Director del Centro de Readaptación Social donde deba recluirse el sentenciado sujeto a prisión intermitente, vigilará:
+
+1.- Que el sentenciado ingrese en perfecto estado de salud y sin aliento alcohólico a la hora previamente determinada y sin mas pertenencias que la vestimenta necesaria para su período de reclusión; se tendrá especial cuidado en su revisión y registro para evitar el acceso de mercancías y efectos prohibidos; cualquier violación a esta disposición no evitará que se recluya al sentenciado bajo debido resguardo pero del hecho se notificará a las autoridades competentes y en todo caso al Consejero respectivo; al egresar el sentenciado se efectuará igual revisión a fin de registrar la salida de efectos y mercancías cuya elaboración se permita al sentenciado; no se le permitirá sacar efectos o mercancías que no hubiera elaborado;
+
+2.- El lugar donde permanecerá en reclusión será distinto al de los demás sentenciados a pena de prisión, sin tener posibilidad alguna de acceso con ellos; podrá permanecer solamente con otros que se encuentren recluidos en prisión intermitente; y,
+
+3.- Dentro de la prisión el sentenciado podrá desarrollar actividades educativas y laborales, recibir capacitación y tratamiento ordenados por la autoridad judicial o recomendados por el Consejo Técnico Interdisciplinario.
+
+Las mujeres condenadas a pena de prisión intermitente tendrán derecho a que sus hijos menores de once años permanezcan con ellas en el lugar de reclusión durante los períodos de internamiento.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-F.
+
+Si la autoridad judicial no hubiere fijado los horarios de la prisión intermitente, el órgano de ejecución competente resolverá, tomando en cuenta:
+
+1.- Para el caso de excarcelación durante la semana y reclusión los días sábado y domingo de la misma, el reingreso será a las ocho horas del sábado con salida a las diecinueve horas del domingo;
+
+2.- Para el caso de salida los días sábado y domingo, con reclusión durante el resto de la semana, la salida será a las ocho horas del sábado e ingreso a las diecinueve horas del domingo;
+
+3.- Para el caso de salida diurna con reclusión nocturna, la salida será a las siete horas y reingreso a las dieciocho horas; y
+
+4.- Para el caso de salida nocturna con reclusión diurna, el egreso será a las diecinueve horas e ingreso a las ocho horas del siguiente día.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-G.
+
+Las modalidades para la ejecución del trabajo en favor de la comunidad, entre ellas el lugar donde habrá de prestarse y las de duración de las jornadas, a falta de resolución judicial, serán determinadas o complementadas por la Dirección General o por los Consejos Técnicos Interdisciplinarios de los Centros de Readaptación del domicilio del sentenciado, las que procurarán armonizar la formación, habilidades e intereses del sentenciado con las opciones disponibles para el cumplimiento de esta pena. La autoridad ejecutora podrá modificar las modalidades por ella impuestas, lo que deberá notificar de inmediato y por escrito a la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-H.
+
+El trabajo en favor de la comunidad se llevará a cabo bajo la orientación y vigilancia del Consejo Técnico Interdisciplinario encargado de la ejecución de la pena substituta, para lo cual se tomará en cuenta:
+
+1.- Que se efectúe en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, y no podrá exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo. Se procurará que el trabajo sea acorde a la escolaridad y aptitudes del sentenciado, así como a las necesidades de la comunidad donde lo preste; nunca podrá ser degradante o humillante para el condenado; y
+
+2.- Se supervisarán sus labores y conducta cuando menos una vez al mes en el lugar de trabajo, independientemente del informe del responsable del centro respectivo donde lo preste.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-I.
+
+Los informes del responsable del centro de trabajo deberán contener como mínimo los siguientes datos:
+
+1.- Los días, horas y actividades laboradas, describiéndolas circunstanciadamente;
+
+2.- El nombre de las personas que supervisaron y aprobaron o desaprobaron los trabajos y actividades del sentenciado;
+
+3.- La conducta observada por el sentenciado en sus jornadas de trabajo;
+
+4.- La capacidad de relación del sentenciado con las demás personas del centro de trabajo;
+
+5.- Las condiciones personales del sentenciado durante la prestación de su trabajo tales como aseo personal, aliento alcohólico, hábitos y vicios, su disposición para acatar las órdenes que se le giren y las actividades que se le encomienden;
+
+6.- Cualquier detalle que en criterio del responsable del centro de trabajo sea conveniente informar tanto para cerciorarse de su rehabilitación como de su indebida conducta;
+
+7.- Su puntualidad o su retraso al presentarse a su jornada acordada;
+
+8.- Las enfermedades que manifieste durante su trabajo; y
+
+9.- Las demás que solicite el Director del Centro encargado de la ejecución y vigilancia de las penas substitutivas y las que considere conveniente informar el responsable del centro de trabajo.
+
+Dicho informe será mensual, sin perjuicio de poner en conocimiento inmediato de la autoridad ejecutora cualquier incidente que merezca calificarse de urgente o importante. Siempre se informará de inmediato cuando el sentenciado deje de presentarse por tres jornadas consecutivas acordadas al lugar de trabajo.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-J.
+
+La Dirección General y los Consejos Técnicos Interdisciplinarios de los Centros de Readaptación del domicilio del sentenciado, por conducto de los Consejeros Penitenciarios, supervisarán el cumplimiento de las medidas restrictivas de la libertad decretadas por la autoridad judicial, a las que deba sujetarse el sentenciado al régimen especial en libertad.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-K.
+
+En el caso de la modalidad consistente en la suspensión parcial o total de derechos en el régimen especial de libertad, el órgano de ejecución girará oficio:
+
+1.- A las autoridades locales de policía y tránsito para que informen si detectan al sentenciado violando la prohibición para conducir vehículos de motor; si cambia del domicilio donde se le ordenó permanecer o residir; si posee o porta armas o consume bebidas alcohólicas en lugares públicos;
+
+2.- A las autoridades de la Secretaría de Hacienda y Crédito Público, así como a las de la Secretaría de Finanzas y Administración del Estado, para solicitarles su informe y colaboración si detectan al sentenciado prestando un servicio profesional o desarrolla la ocupación que le fue prohibida o restringida;
+
+3.- A los Jueces civiles del domicilio del sentenciado informándoles de las prohibiciones relacionadas con el ejercicio de la patria potestad, la custodia, la tutela, la adopción, el albaceazgo, la administración de la sociedad conyugal e ingresos del sentenciado a favor de su cónyuge y de sus acreedores alimenticios, y de la cantidad que se le asignó para sus gastos personales.
+
+En todas las comunicaciones anteriores se incluirá el nombre, domicilio oficial y teléfonos del Consejero Penitenciario respectivo.
+
+Las prohibiciones y restricciones que le fueron impuestas a un sentenciado, así como el nombre, domicilio oficial y teléfonos del Consejero Penitenciario respectivo se publicarán en un periódico de circulación efectiva en su domicilio.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-L.
+
+En todos los casos en que se hubieren substituido penas de prisión, se exigirá al sentenciado un informe mensual circunstanciado que contenga cuando menos lo siguiente:
+
+1. La mención de los lugares de sano esparcimiento, donde asistió cada semana con su familia, tales como parques recreativos y deportivos, plazas públicas, cinematógrafo, zoológicos, museos, bibliotecas, conciertos, exposiciones y cualquiera otro que fomenten la unión, el respeto familiar, la convivencia social, el sano entretenimiento, el deporte y la cultura. Para tal efecto acompañará además los boletos, contraseñas, talones, recibos, facturas o comprobantes del pago o que acrediten el ingreso a dichos lugares, por cada miembro de su familia. Si en los lugares señalados no se expidieran comprobantes por su ingreso o asistencia, el sentenciado previamente solicitará a la autoridad encargada de la supervisión y vigilancia de la ejecución de la pena substitutiva, que por su conducto gire oficio al encargado o responsable del lugar a donde acudirá con su familia, a fin de que dicho oficio le sea sellado o firmado de recibido en su copia y en la misma se asentará por dicho destinatario la hora en que asistió el sentenciado y el número de personas familiares que lo acompañaron, haciéndose constar sus nombres y edades. Dicha copia se presentará por el sentenciado con su informe mensual. La autoridad supervisará la certeza de lo anterior en forma aleatoria cuando el sentenciado previamente solicite el oficio mencionado y en los demás casos verificará los informes directamente con los responsables y empleados de dichos lugares. La autoridad ejecutora podrá determinar los lugares a donde asistirá el sentenciado con su familia, oyendo previamente a ésta. Igualmente la familia del sentenciado podrá solicitar por escrito o verbalmente a la autoridad ejecutora, que ésta disponga la asistencia a un lugar en particular que fomente los valores anteriores y la integración familiar, para lo cual la autoridad lo hará saber al sentenciado y aleatoriamente vigilará su cumplimiento, independientemente del derecho de los miembros de la familia para informar lo conducente; El sentenciado deberá adjuntar al informe una constancia firmada por los miembros de su familia, mayores de dieciséis años, respecto al cumplimiento de esta medida; Al efecto el órgano de ejecución le proporcionará los formatos respectivos;
+
+2.- Los obstáculos que ha encontrado para el mejor cumplimiento de las sanciones que le fueron impuestas;
+
+3.- Los logros y avances en sus tratamientos, actividades laborales, educativas y relaciones familiares; en lo referente a sus actividades laborales abarcará también su trabajo remunerado;
+
+4.- Sus propuestas para mejorar su readaptación y rehabilitación;
+
+5.- Los contactos que hubiere tenido con la víctima u ofendidos;
+
+6.- Las necesidades y perjuicios que le hubiere originado el cumplimiento de las sanciones substitutas;
+
+7.- Cualquier citatorio que recibieren por parte del Ministerio Público o de las autoridades judiciales del orden penal; y
+
+8.- Las demás manifestaciones que al sentenciado convengan y las que el órgano de ejecución en particular le solicite.
+
+El sentenciado tendrá obligación de comparecer ante el Juez de la causa o ante la dependencia del Ejecutivo a la que corresponda la ejecución de las penas sustitutivas de la libertad, cuantas veces sea requerido, y a los informes que refiere este artículo agregará las constancias que acrediten su cumplimiento y que le expidan los establecimientos donde cumpla las penas y medidas de seguridad respecto a las actividades que se le ordenaron, si los responsables de dichos establecimientos no cumplieron con su obligación de informar dentro de los diez primeros días de cada mes.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-M.
+
+El Consejero Penitenciario respectivo deberá acudir cuando menos una vez al mes, en forma aleatoria, a los establecimientos donde los sentenciados reciban educación, capacitación o especialización laboral y profesional, tratamiento terapéutico contra vicios, adicciones y enfermedades físicas o mentales, para tomar conocimiento directo del cumplimiento de las penas y medidas impuestas, registrando sus avances e informando al Consejo Técnico Interdisciplinario, así como los casos de incumplimiento. Los Consejeros Penitenciarios tendrán las siguientes atribuciones:
+
+1.- Citar a los sentenciados que estén bajo su responsabilidad, para sostener entrevistas periódicas, así como realizar las demás actividades necesarias, a fin de lograr el debido cumplimiento de las medidas impuestas en cada caso; los sentenciados, si lo desean, se harán acompañar y asistir por persona de su confianza; se procurará evitar actuaciones que causen molestias innecesarias a los sentenciados o las personas y familiares con quienes los primeros se relacionen;
+
+2.- Llevar un registro detallado de las actividades de cada uno de los sentenciados a penas sustitutivas, así como de la orientación que se les proporcione en el cumplimiento de la sentencia judicial, del cual rendirán informe mensual al Consejo Técnico Interdisciplinario de su adscripción;
+
+3.- Cuidar que los sentenciados bajo su responsabilidad cumplan debidamente con la pena impuesta sin que sean objeto de molestias indebidas por parte de cualquier autoridad. Cuando sea necesario, el Consejero Penitenciario responsable se presentará con el titular del establecimiento o institución donde el sentenciado reciba tratamiento, capacitación o realice sus actividades educativas o laborales ordinarias y en favor de la comunidad a fin de que se le comunique toda situación relacionada con el cumplimiento de la pena. Igualmente, y con los mismos propósitos, podrá establecer comunicación con los familiares del sentenciado;
+
+4.- Cumplir con el segundo párrafo del artículo 92-A de esta Ley; y
+
+5.- Informar al sentenciado que en caso de que en los lugares donde desee cumplir sus obligaciones semanales de carácter familiar ordenadas no se expidieran comprobantes por su ingreso o asistencia, el sentenciado tiene el derecho de solicitar previamente el oficio que refiere el artículo 92-L punto 1 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92-N.
+
+La suspensión o modificación de cualquiera de las sanciones, penas y medidas substitutivas de la de prisión que se hubiese impuesto únicamente podrán ser autorizadas por el órgano jurisdiccional. Solo en casos convenientes, urgentes o de extrema gravedad el órgano de ejecución podrá suspenderlas provisionalmente, dando cuenta al Juez de la causa para que resuelva en definitiva.
+
+Para toda cuestión que el Ministerio Público quisiere hacer valer en relación con la ejecución de las penas sustitutivas de prisión, se dirigirá a la autoridad ejecutora, pero las modificaciones o revocación de las mismas en su caso se ventilarán en el Incidente respectivo ante el Juez de la causa.
+
+El Ministerio Público podrá solicitar directamente a la Dirección General o a los Directores de los centros de readaptación social la información necesaria sobre el cumplimiento de las resoluciones concesionarias de penas no privativas de la libertad y, en su caso, promover lo conducente ante la autoridad judicial por medio de incidente, sin que quede facultado para citar o hacer comparecer al sentenciado, ni desahogar ante sí las pruebas pertinentes.
+
+En caso de haberse revocado la pena sustitutiva de prisión, se tomará en cuenta la pena cumplida para extinguir parcialmente la sanción originalmente impuesta. De esta forma, la fracción de la pena reducida podrá considerarse para los efectos de la libertad preparatoria y de la preliberación, mas no podrá contarse el tiempo de trabajo en favor de la comunidad para los efectos de remisión parcial de la pena.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 92
+
+Ñ.- La Dirección General podrá asumir la ejecución de las penas sustitutivas de prisión del orden federal para los sentenciados que residan en el territorio del Estado, en los términos del convenio de colaboración sobre la materia que al efecto se celebre entre las autoridades correspondientes.
 
 #### SECCION V. DEL REGIMEN PRELIBERACIONAL
 
@@ -1067,7 +1293,7 @@ La Ley que crea los Consejos Tutelares Estatales en el Estado, que por la presen
 
 ###### ARTICULO CUARTO.
 
-La Ley de Ejecución de Sanciones que Privan y Restringen la libertad en el Estado, que por la presente se abroga, continuará aplicándose para los internos a quienes se le haya dictado sentencia firme antes de la entrada en vigor de la presente Ley, por lo que se refiere a la concesión de beneficios.
+La Ley de Ejecución de Sanciones que Privan y Registren la Libertad en el Estado, que por la presente se abroga, continuará aplicándose para los internos a quienes se le haya dictado sentencia firme antes de la entrada en vigor de la presente Ley, por lo que se refiere a la concesión de beneficios.
 
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.
 
@@ -1085,11 +1311,11 @@ P.O. 1 DE MAYO DE 1993
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO ÚNICO.
+P.O. 5 DE JUNIO DE 1999
 
-El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+###### ARTICULO UNICO.
 
-P.O. 16 DE JUNIO DE 2025.
+El presente Decreto entrará en vigor el día treinta de junio de mil novecientos noventa y nueve, previa su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
