@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-de-los-servidores-publicos-del-10617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-01"
-last_updated: "1996-06-01"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el Sábado 1o de junio de 1996.
 
@@ -75,7 +75,9 @@ Las autoridades competentes para aplicar la presente Ley serán:
 
 I.- El Congreso del Estado.
 
-II.- La Contraloría General.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+II.- La Secretaría de la Contraloría.
 
 III.- Las demás dependencias del Ejecutivo del Estado en el ámbito de atribuciones que les otorga este ordenamiento.
 
@@ -97,11 +99,15 @@ Los procedimientos para la aplicación de las sanciones a que se refiere esta Le
 
 Para los efectos de esta Ley salvo disposición expresa en contrario, se entenderá por:
 
-I.- Contraloría: a la Contraloría General del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+I.- Contraloría: a la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
 
 II.- Superior Jerárquico: en el Poder Ejecutivo del Estado al Titular de la Dependencia correspondiente y en las Entidades Paraestatales al Coordinador del Sector respectivo; en el Gobierno Municipal al Ayuntamiento, que determinará las sanciones cuya imposición se le atribuyen, para ejecución o aplicación por el Presidente Municipal; en los Poderes Legislativo y Judicial, a los Presidentes de dichos Poderes, quienes aplicarán las sanciones que establece esta Ley, por conducto de su órgano de control interno, cuando sus respectivas Leyes Orgánicas no dispongan otra cosa.
 
-III.- Organo de Control Interno: en las Dependencias y Entidades de la Administración Pública, a los Delegados de Contraloría o equivalentes; en el Gobierno Municipal, a los Contralores Internos o equivalentes; en el Poder Legislativo, a la Contaduría Mayor de Hacienda o al Órgano que determine la Ley Orgánica de dicho Poder, y en el Poder Judicial, a los Contralores Internos o al Órgano que determine la Ley Orgánica de dicho Poder.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+III.- Organo de Control Interno: en las Dependencias y Entidades de la Administración Pública, a los Delegados de la Secretaría de la Contraloría o equivalentes; en el Gobierno Municipal, a los Contralores Internos o equivalentes; en el Poder Legislativo, a la Contaduría Mayor de Hacienda o al Organo que determine la Ley Orgánica de dicho Poder, y en el Poder Judicial, a los Contralores Internos o al Organo que determine la Ley Orgánica de dicho Poder.
 
 IV.- Salario Mínimo Mensual: el equivalente de treinta veces el salario mínimo diario vigente en la Capital del Estado
 
@@ -649,7 +655,9 @@ En los casos de que se trate de irregularidades en los supuestos a que se refier
 
 La Contraloría aplicará las sanciones correspondientes a los Titulares de las dependencias y entidades de la Administración Pública, cuando estos incurran en actos u omisiones que impliquen responsabilidad administrativa.
 
-En el ámbito del Poder Ejecutivo los Delegados de Contraloría de Dependencias y Entidades, serán competentes para imponer sanciones disciplinarias por Acuerdo del Contralor General, excepto las económicas cuyo monto sea superior a doscientas veces el salario mínimo mensual vigente en la Capital del Estado, las que en términos de esta Ley corresponde aplicar exclusivamente a la Contraloría, quien informará al Tituiar (sic) de la dependencia o entidad de los resultados del procedimiento.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+En el ámbito del Poder Ejecutivo los Delegados de Contraloría de Dependencias y Entidades, serán competentes para imponer sanciones disciplinarias por Acuerdo del Secretario de la Contraloría, excepto las económicas cuyo monto sea superior a doscientas veces el salario mínimo mensual vigente en la Capital del Estado, las que en términos de esta Ley corresponde aplicar exclusivamente a la Contraloría, quien informará al Titular de la dependencia o entidad de los resultados del procedimiento.
 
 Cuando del fincamiento de una responsabilidad se desprenda una sanción económica superior a doscientas veces el salario mínimo mensual, la Delegación de Contraloría respectiva remitirá a la Contraloría las actuaciones que haya realizado, para su intervención en los términos del párrafo anterior.
 
@@ -831,7 +839,7 @@ Las responsabilidades a que se refiere este Capítulo, tendrán por objeto repar
 
 Dichas responsabilidades se harán efectivas por la Secretaría de Finanzas mediante el procedimiento económico coactivo, y para efectos de su ejecución en su carácter de créditos fiscales, tendrán la prelación que corresponda, en los términos de los ordenamientos fiscales aplicables.
 
-Sin perjuicio de lo dispuesto por este artículo, en (sic) tratándose de servidores públicos, procederá en su caso, la aplicación de sanciones disciplinarias en los términos de los Capítulos I y II de este Título.
+Sin perjuicio de lo dispuesto por este artículo, en tratándose de servidores públicos, procederá en su caso, la aplicación de sanciones disciplinarias en los términos de los Capítulos I y II de este Título.
 
 ###### Artículo 85.
 
@@ -900,6 +908,12 @@ ELEAZAR GUILLERMO VELASCO VASQUEZ
 Diputado Secretario.
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.- Oaxaca de Juárez, a 16 de mayo de 1996.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO,- LIC. DIODORO CARRASCO ALTAMIRANO.- EL SECRETARIO GENERAL DE GOBIERNO,- LIC. HECTOR ANUAR MAFUD MAFUD.- Y lo comunico a usted para su conocimiento y fines consiguientes.- SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPECTO (SIC) AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 16 de mayo de 1996.- EL SECRETARIO GENERAL DE GOBIERNO,- Lic. HECTOR ANUAR MAFUD MAFUD.- Rúbricas.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## TITULO QUINTO
 
