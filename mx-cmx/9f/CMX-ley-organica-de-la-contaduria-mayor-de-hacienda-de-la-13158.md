@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-contaduria-mayor-de-hacienda-de-la-13158"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-27"
-last_updated: "1999-02-08"
+last_updated: "1999-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13158&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-01-15"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 1999.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el 27 de enero de 1999 y republicada el 8 de febrero de 1999.
 
@@ -526,12 +526,26 @@ SEGUNDO.- Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda de la A
 
 TERCERO.- La Asamblea expedirá el Reglamento dentro del periodo de sesiones ordinarias inmediatamente posterior al inicio de vigencia de la presente ley, y en tanto se expedida éste, se seguirá aplicando el Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea de Representantes del Distrito Federal en lo que no se oponga a la presente Ley.
 
-CUARTO.- Para los efectos que señala el artículo 10, los Contadores serán nombrados dentro de los 30 días naturales siguientes al inicio de la presente Ley y por una vez, las propuesta que al efecto haga la Comisión serán por dos, tres y cuatro años respectivamente, y en ellas se precisará quién ocupará el primer cargo de Presidente y el orden de las sustituciones. En tanto no sean nombrados los Contadores, continuará en funciones el titular actual.
+CUARTO.- (DEROGADO, G.O. 30 DE MARZO DE 1999)
 
 QUINTO.- Los trabajadores de la Contaduría no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de esta ley y el Reglamento que en consecuencia se emita. Para garantizar la profesionalización y desarrollo de los trabajadores de la Contaduría, se establecerá el Servicio Civil de Carrera, para tal efecto se definirán en el Reglamento los procedimientos relativos a la incorporación y desarrollo en el servicio, ascensos, estímulos, evaluaciones, así como las demás disposiciones necesarias.
 
 SEXTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 1999)</small>
+
+SEPTIMO.- Para los efectos del artículo 10 de esta Ley, la Asamblea por única vez, elegirá a dos de los Contadores del Organo Superior de Dirección de la Contaduría Mayor de Hacienda, por un período de tres y cuatro años, respectivamente, conforme a la propuesta que haga la Comisión, la que también señalará quién ocupará el cargo de Presidente el primero, segundo y tercer año. El Contador Mayor de Hacienda electo el día 22 de diciembre de 1995 por la Asamblea de Representantes del Distrito Federal, I Legislatura, formará parte del Organo Superior de Dirección a que se refiere la presente Ley, quien permanecerá en el cargo por el período por el que fue originalmente nombrado.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 1999)</small>
+
+OCTAVO.- Los procedimientos que se hubieran iniciado durante la vigencia de la Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea de Representantes del Distrito Federal, se continuarán de conformidad con las disposiciones de la presente Ley.
+
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a quince de enero de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA.- DIP. ANA LUISA CARDENAS PEREZ, PRESIDENTE.- DIP. RICARDO MOLINA TEODORO, SECRETARIO.- DIP. MARGARITA SALDAÑA HERNANDEZ, SECRETARIA.- FIRMAS.
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los cuatro días del mes de febrero de mil novecientos noventa y nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO, FIRMA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ANTONIO ORTIZ SALINAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 30 DE MARZO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
