@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1995-06-04"
+last_updated: "1995-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1995.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -513,7 +513,7 @@ IV.- Las personas obligadas por la Ley a cerciorarse de créditos fiscales, siem
 
 V.- Los legatarios y los donatarios a título particular, respecto de los créditos fiscales que se hubiesen causado en relación con los bienes legados y donados, hasta por el monto de éstos;
 
-VI.- Los servidores públicos así como los Notarios y Corredores Públicos que autoricen algún acto jurídico, expidan testimonios, den trámite a algún documento en que se consignen actos convenidos, contratos y operaciones si no se cercioran de que se han cubierto total o parcialmente los impuestos, contribuciones especiales o derechos, o no den cumplimiento a las disposiciones correspondientes que regulen el pago de gravámenes, independientemente de que se harán acreedores a la imposición de sanciones previstas para esta Ley;
+VI.- Los servidores públicos así como los Notarios y Corredores Públicos que autoricen algún acto jurídico, expidan testimonios, den trámite a algún documento en que se consignen actos convenidos, contratos y operaciones si no se cercioran de que se han cubierto total o parcialmente los impuestos, contribuciones especiales o derechos, o no den cumplimiento a las disposiciones correspondientes que regulen el pago de gravámenes, independientemente de que se harán acreedores a la imposición de sanciones previstas por esta Ley;
 
 VII.- Los terceros que, para garantizar obligaciones fiscales de otros constituyan depósitos, prenda o hipoteca o permitan el secuestro de bienes de su propiedad, hasta por el valor de los otorgados en garantía;
 
@@ -1397,6 +1397,16 @@ Los Derechos que establece el artículo anterior, se fijarán tomando en cuenta 
 
 Los Derechos a que se refiere este capítulo se causarán y liquidarán de acuerdo a las tarifas que la efecto establece la Ley de Ingresos del Municipio.
 
+(NOTA: EL 30 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, PARTE FINAL, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2019, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1995)</small>
+
+ARTICULO 138 BIS.- Son causantes del derecho por concepto de alumbrado público en calles, plazas, jardines y demás lugares de uso común, los consumidores de energía eléctrica clasificados en las tarifas 1, 2, 3, OM, HM, HS, HSL, HT, HTL, 1-15, 1-30, HS-R, HS-RF, HS-RM, HT-R, HT-RF, HT-RM, HM-R, HM-RF H, HM-RM, publicadas en el Diario Oficial de fecha 31 de diciembre de 1986, 10 de noviembre de 1991, 3 de abril de 1992, 13 de mayo de 1993, 4 de octubre de 1993 y 30 de septiembre de 1994.
+
+Los derechos de alumbrado público se cubrirán en un 10% del importe de energía eléctrica de los sujetos obligados al pago de este derecho; los importes que resulten será (sic) recaudados por conducto de la Comisión Federal de Electricidad adicionando su monto en las facultades de los consumidores.
+
+Mensualmente la Comisión Federal de Electricidad presentará estado de cuenta de las aplicaciones al Ayuntamiento para su análisis y aprobación.
+
 ### CAPITULO XII. Por Cooperación para Obras Públicas
 
 #### SECCION UNICA
@@ -1702,3 +1712,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las Asociaciones Religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre adquisición de inmuebles, únicamente por lo que ve a las adquisiciones que realicen hasta el 31 de diciembre de 1995.
+
+P.O. 2 DE JULIO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
