@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-general-de-justicia-del-2588"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-30"
-last_updated: "1998-01-23"
+last_updated: "1999-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2588&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-04-26"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 30 de abril de 1996.
 
@@ -48,7 +48,7 @@ Esta Ley tiene por objeto organizar la Procuraduría General de Justicia del Dis
 
 La Institución del Ministerio Público en el Distrito Federal, estará a cargo del Procurador General de Justicia del Distrito Federal, y tendrá las siguientes atribuciones que ejercerá por conducto de su titular o de sus agentes y auxiliares, conforme a lo establecido en esta Ley y demás disposiciones aplicables:
 
-l. Perseguir los delitos del orden común cometidos en el Distrito Federal;
+I. Perseguir los delitos del orden común cometidos en el Distrito Federal;
 
 II. Velar por la legalidad y por el respeto de los derechos humanos en la esfera de su competencia, así como promover la pronta, completa y debida impartición de justicia;
 
@@ -74,17 +74,21 @@ XI. Las demás que señalen otras disposiciones legales.
 
 Las atribuciones a que se refiere la fracción I del artículo 2 de esta Ley respecto de la averiguación previa, comprenden:
 
-l. Recibir denuncias o querellas sobre acciones u omisiones que puedan constituir delito;
+I. Recibir denuncias o querellas sobre acciones u omisiones que puedan constituir delito;
 
 II. Investigar los delitos del orden común con la ayuda de los auxiliares a que se refiere el artículo 23 de esta Ley, y otras autoridades competentes, tanto federales como de las entidades federativas, en los términos de los convenios de colaboración;
 
-III. Practicar las diligencias necesarias para la acreditación de los elementos del tipo penal del delito y la probable responsabilidad que corresponda, así como para la reparación de los daños y perjuicios causados;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
+
+III. Practicar las diligencias necesarias para la acreditación del cuerpo del delito y la probable responsabilidad que corresponda, así como para la reparación de los daños y perjuicios causados;
 
 IV. Ordenar la detención y, en su caso, la retención, de los probables responsables de la comisión de delitos en los términos previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Asegurar los instrumentos, huellas, objetos y productos del delito, en los términos que señalen las normas aplicables;
 
-VI. Restituir provisionalmente y de inmediato al ofendido en el goce de sus derechos, siempre y cuando no se afecte a terceros y estén acreditados los elementos del tipo penal del delito de que se trate y, en caso de considerarse necesario, ordenará que el bien se mantenga a disposición del Ministerio Público, exigiendo el otorgamiento de garantías que, de ejercitarse la acción penal, se pondrán a disposición del órgano jurisdiccional;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
+
+VI. Restituir provisionalmente y de inmediato al ofendido en el goce de sus derechos, siempre y cuando no se afecte a terceros y esté acreditado el cuerpo del delito de que se trate y, en caso de considerarse necesario, ordenará que el bien se mantenga a disposición del Ministerio Público, exigiendo el otorgamiento de garantías que, de ejercitarse la acción penal se pondrán a disposición del órgano jurisdiccional;
 
 VII. Conceder la libertad provisional a los indiciados, en los términos previstos por la fracción I y el penúltimo párrafo del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -118,7 +122,9 @@ XIII. Las demás que establezcan las normas aplicables.
 
 Las atribuciones a que se refiere la fracción I del artículo 2 de esta Ley respecto de la consignación y durante el proceso, comprenden:
 
-I. Ejercer la acción penal ante el órgano jurisdiccional competente por los delitos del orden común, cuando exista denuncia o querella, estén acreditados los elementos del tipo penal del delito de que se trate y la probable responsabilidad de quien o quienes en él hubieran intervenido, solicitando las órdenes de aprehensión, de comparecencia o de presentación, en su caso;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
+
+I. Ejercer la acción penal ante el órgano jurisdiccional competente por los delitos del orden común, cuando exista denuncia o querella, esté acreditado el cuerpo del delito de que se trate y la probable responsabilidad de quién o quienes en él hubieran intervenido, solicitando las órdenes de aprehensión, de comparecencia o de presentación, en su caso;
 
 II. Solicitar al órgano jurisdiccional las órdenes de cateo, las medidas precautorias de arraigo y otras que fueren procedentes en los términos de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -126,7 +132,9 @@ III. Poner a disposición de la autoridad judicial, a las personas detenidas y a
 
 IV. Solicitar el aseguramiento precautorio de bienes o la constitución de garantías para los efectos de la reparación de los daños y perjuicios, salvo que el inculpado los hubiese garantizado previamente;
 
-V. Aportar las pruebas pertinentes y promover las diligencias conducentes para la debida acreditación de los elementos del tipo penal del delito de que se trate, de la responsabilidad penal, de la existencia de los daños y perjuicios y para la fijación del monto de su reparación;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
+
+V. Aportar los elementos pertinentes y promover las diligencias conducentes para la debida acreditación del cuerpo del delito de que se trate, de la responsabilidad penal, de la existencia de los daños y perjuicios y para la fijación del monto de su reparación;
 
 VI. Formular las conclusiones, en los términos señalados por la ley, y solicitar la imposición de las penas y medidas de seguridad que correspondan y el pago de la reparación de los daños y perjuicios o, en su caso, plantear las causas de exclusión del delito o las que extinguen la acción penal.
 
@@ -138,7 +146,7 @@ VIII. En general, promover lo conducente al desarrollo de los procesos y realiza
 
 ###### Artículo 5.
 
-La vigilancia de la legalidad y de Ia pronta, completa y debida procuración e impartición de justicia, comprende:
+La vigilancia de la legalidad y de la pronta, completa y debida procuración e impartición de justicia, comprende:
 
 I. Auxiliar al Ministerio Público, tanto de la Federación como de las entidades federativas, de conformidad con los convenios de colaboración que al efecto se celebren, en los términos del artículo 119, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -464,7 +472,7 @@ IX. No estar suspendido ni haber sido destituido o inhabilitado por resolución 
 
 Para ingresar y permanecer como perito adscrito a los Servicios Periciales de la Procuraduría, se requiere:
 
-l. Ser mexicano, en pleno ejercicio de sus derechos políticos y civiles;
+I. Ser mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener título legalmente expedido y registrado por la autoridad competente y, en su caso, la cédula profesional respectiva o, acreditar plenamente ante el Instituto de Formación Profesional los conocimientos técnicos, científicos o artísticos correspondientes a la disciplina sobre la que deba dictaminar, cuando de acuerdo con las normas aplicables, no necesite título o cédula profesional para su ejercicio;
 
@@ -627,3 +635,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 18 DE MAYO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
