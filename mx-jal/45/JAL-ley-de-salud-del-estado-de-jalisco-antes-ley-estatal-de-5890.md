@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2004-07-24"
+last_updated: "2004-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -317,9 +317,17 @@ IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la in
 
 V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que propicien el desarrollo satisfactorio de la vida;
 
-VI. Impulsar, en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2004)</small>
 
-VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección.
+VI. Impulsar, en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2004)</small>
+
+VII. Propiciar el desarrollo de las comunidades indígenas a partir de la instrumentación de políticas públicas tendientes a mejorar sus condiciones sanitarias, nutrición y atención médica; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2004)</small>
+
+VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -359,9 +367,17 @@ XIII Coadyuvar a que la formación y distribución de los recursos humanos para 
 
 XIV. Promover e impulsar la participación de la población del Estado, en el cuidado de su salud;
 
-XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2004)</small>
 
-XVI. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
+XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2004)</small>
+
+XVI. Asegurar a los pueblos y comunidades indígenas el acceso efectivo a los servicios de salud mediante la ampliación de su cobertura, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2004)</small>
+
+XVII. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -901,7 +917,13 @@ Los sectores público, privado y social contribuirán a ampliar la cobertura y m
 
 En los términos que determina la legislación aplicable, es obligatoria la prestación de servicios de atención médica:
 
-I. En el caso de urgencias; entendiéndose por tal, todo problema médico-quirúrgico agudo, que ponga en peligro la vida, un órgano o una función y que requiera atención inmediata; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2004)</small>
+
+I. En el caso de urgencias: entendiéndose por tal, todo problema médico-quirúrgico agudo, que ponga en peligro la vida, un órgano o una función y que requiera atención inmediata.
+
+Las instituciones públicas, privadas y el sector social están obligadas a otorgar la atención médica de urgencia que requiera un usuario sin importar su situación económico (sic) y sin detrimento de la calidad del servicio que se preste. Así mismo quien ostente el título de médico estará obligado en los mismos términos.
+
+La atención médica prehospitalaria otorgada por el personal de urgencias procurará el control del daño ocasionado al lesionado por accidente o enfermedad de urgencia en el lugar del evento, con el fin de estabilizar el estado general del paciente, vinculando su acción con los servicios de urgencia de las instituciones públicas o privadas de salud al que se remita al paciente; y
 
 II. Cuando se trate del ejercicio de la acción extraordinaria de salubridad general, en los términos que determina la Ley General de Salud.
 
@@ -3656,5 +3678,19 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el estado, de conformidad a lo previsto en el artículo 15 de la Ley para la Divulgación de la Legislación del estado de Jalisco.
 
 P.O. 24 DE JULIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE SEPTIEMBRE DE 2004.
+
+DECRETO 20591 QUE REFORMA ARTICULOS 14 Y 15 DE LA LEY ESTATAL DE SALUD
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad con lo previsto en el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
+
+P.O. 28 DE SEPTIEMBRE DE 2004.
+
+DECRETO 20592 QUE ADICIONA DOS PARRAFOS A LA FRACCION I DEL ARTICULO 60 DE LA LEY ESTATAL DE SALUD
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
