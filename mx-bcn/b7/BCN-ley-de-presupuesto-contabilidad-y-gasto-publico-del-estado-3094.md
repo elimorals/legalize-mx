@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3094
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "1996-11-08"
+last_updated: "1997-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1997.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de septiembre de 1992.
 
@@ -156,6 +156,10 @@ El gasto público se basará en presupuestos que se formularán con apoyo en pro
 ###### ARTICULO 17.
 
 El Presupuesto de Egresos del Gobierno del Estado, será el que contenga el Decreto que apruebe el Congreso del Estado, a iniciativa del Ejecutivo y el Presupuesto de Egresos de los Municipios será el que aprueben sus Cabildos a iniciativa del Presidente Municipal, que comprenda las previsiones del gasto público que habrán de realizar las Dependencias y Entidades que en los mismos se señalen, en función de sus programas objetivos, metas y beneficios a alcanzar, por cada año calendario, a partir del día primero de enero.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1997)</small>
+
+El Presupuesto de Egresos que apruebe el Congreso del Estado y el que aprueben los Ayuntamientos no podrán contemplar ni ser modificados para cubrir compensaciones extraordinarias o de cualquier otra denominación, durante o por conclusión del mandato o gestión de los Titulares o Funcionarios de la Administración Pública Estatal y Municipal y sus Dependencias y Entidades Paraestatal y Paramunicipal.
 
 ###### ARTICULO 18.
 
@@ -578,3 +582,7 @@ Rúbrica.
 P.O. 8 DE NOVIEMBRE DE 1996.
 
 UNICO.- El presente decreto entrará en vigor a partir del 1° de enero de 1997.
+
+P.O. 3 DE ENERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
