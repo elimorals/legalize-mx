@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-17884"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2001-12-31"
+last_updated: "2002-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ENERO DE 2003 EN EL D.O., DEL ESTADO DE YUCATAN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 30 de diciembre de 1999.
 
@@ -223,6 +225,34 @@ APORTACIONES
 
 Las aportaciones son los recursos que la federación transfiere a las haciendas públicas de los estados y en su caso, al municipio, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de recurso establece la Ley de Coordinación Fiscal.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+INGRESOS EXTRAORDINARIOS
+
+###### ARTICULO 18-A.
+
+Son ingresos extraordinarios los recursos que puede percibir la Hacienda Pública Municipal, distintos en los anteriores, por los conceptos siguientes:
+
+I.- Los Empréstitos que le autorice el Congreso del Estado de Yucatán para el pago de obras y servicios cuando el vencimiento exceda su período de gestión;
+
+II.- Los empréstitos aprobados por el Cabildo Municipal, cuyo vencimiento no exceda el período de su gestión;
+
+III.- Los recibidos del Estado y la Federación por conceptos diversos a Participaciones o Aportaciones;
+
+IV.- Donativos;
+
+V.- Cesiones;
+
+VI.- Herencias;
+
+VII.- Legados;
+
+VIII.- Por Adjudicaciones Judiciales;
+
+IX.- Por Adjudicaciones Administrativas, y
+
+X.- Por Subsidios de Organismos Públicos y Privados.
+
 DE LOS CREDITOS FISCALES
 
 ###### ARTICULO 19.
@@ -257,7 +287,9 @@ I.- Las personas físicas y morales, que adquieran bienes o negociaciones, que r
 
 II.- Los albaceas, copropietarios, fideicomitentes o fideicomisarios de un bien determinado, por cuya administración, copropiedad o derecho, se cause una contribución en favor del Municipio.
 
-III.- Los retenedores de impuestos.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+III.- Los retenedores de impuestos y otras contribuciones.
 
 IV.- Los funcionarios, fedatarios y las demás personas que señala la presente Ley y que en el ejercicio de sus funciones, no cumplan con las obligaciones que las leyes y disposiciones fiscales les imponen, de exigir, a quienes están obligados a hacerlo, que acrediten que están al corriente en el pago de sus contribuciones o créditos fiscales al Municipio.
 
@@ -283,9 +315,11 @@ La falta de pago de alguna parcialidad ocasionará la revocación de la autoriza
 
 DE LOS PAGOS EN GENERAL
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 24.
 
-Los contribuyentes deberán efectuar los pagos de sus créditos fiscales municipales, en las cajas recaudadoras de la Dirección de Finanzas y Tesorería Municipal o en los lugares que la propia Dirección designe para tal efecto; sin aviso previo o requerimiento alguno, salvo en los casos en que las disposiciones legales determinen lo contrario.
+Los contribuyentes deberán efectuar los pagos de sus créditos fiscales municipales, en las cajas recaudadoras de la Dirección de Finanzas y Tesorería Municipal, en las instituciones de crédito autorizadas, ya sea acudiendo o por transferencia electrónica, o en los lugares que la propia Dirección designe para tal efecto; sin aviso previo o requerimiento alguno, salvo en los casos en que las disposiciones legales determinen lo contrario.
 
 Los créditos fiscales que las autoridades determinen y notifiquen, deberán pagarse o garantizarse dentro del término de quince días hábiles contados a partir del siguiente a aquél en que surta sus efectos la notificación, conjuntamente con las multas, los recargos y los gastos correspondientes.
 
@@ -333,9 +367,11 @@ IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y 
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 27.
 
-Las licencias de funcionamiento que expida la Dirección de Finanzas y Tesorería Municipal, serán gratuitas.
+Las licencias de funcionamiento serán expedidas por la Dirección de Finanzas y Tesorería Municipal, de conformidad con la tabla de derechos vigentes, en su caso.
 
 Tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del período constitucional de la administración municipal que la expidió.
 
@@ -343,13 +379,17 @@ Tendrán una vigencia que iniciará en la fecha de su expedición y terminará e
 
 No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento cuando por la actividad de la persona física o moral se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En cuyo caso, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias. En ningún caso la vigencia de la licencia de funcionamiento excederá del período de la administración municipal que la expidió.
 
-Los interesados deberán revalidar sus licencias durante los cuatro primeros meses de cada administración municipal.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-Las personas físicas o morales que deseen obtener la licencia municipal de funcionamiento, deberán presentar a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos:
+Los titulares de las licencias de funcionamiento, deberán revalidarlas durante los cuatro primeros meses de cada administración municipal.
 
-> <small>(REFORMADO D.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRARFO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-a).- Documento que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento.
+Las personas físicas o morales que deban obtener la licencia municipal de funcionamiento, tendrán que anexar a la solicitud que presentarán a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos:
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+a).- El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo.
 
 > <small>(REFORMADO D.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -357,15 +397,27 @@ b).- Licencia de uso de suelo.
 
 c).- Determinación sanitaria, en su caso.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+d) El recibo de pago del derecho correspondiente en su caso.
+
 Para la revalidación de la licencia municipal de funcionamiento deberán presentarse:
 
 > <small>(REFORMADO D.O. 31 DE DICIEMBRE DE 2001)</small>
 
 a).- Licencia de funcionamiento expedida por la administración municipal inmediata anterior.
 
-> <small>(REFORMADO D.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-b).- Documento que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento.
+b) Documento que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+c) El recibo de pago del derecho correspondiente en su caso.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+La licencia cuya vigencia termine de manera anticipada de conformidad con este artículo, deberá revalidarla dentro de los treinta días naturales siguientes a su vencimiento.
 
 DE LA ACTUALIZACION
 
@@ -411,9 +463,11 @@ Cuando el contribuyente pague en una sola exhibición, el total de las contribuc
 
 DEL PAGO EN EXCESO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 33.
 
-Las autoridades fiscales municipales están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo para abono a la cuenta del contribuyente.
+Las autoridades fiscales municipales están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo.
 
 Si el pago de lo indebido, se hubiese efectuado en el cumplimiento de un acto de autoridad, el derecho a la devolución nace, cuando dicho acto hubiere quedado insubsistente.
 
@@ -509,7 +563,9 @@ Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dich
 
 Cuando la Dirección de Catastro del Municipio de Mérida expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del mes siguiente al en que se emita la citada cédula.
 
-Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que a la fecha, de la emisión de la nueva cédula catastral ya hubieren pagado el impuesto predial correspondiente. En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente mes no cubierto.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+Si a la fecha de la emisión de la nueva cédula, el contribuyente ya hubiere pagado el impuesto correspondiente a ese mes, el nuevo valor consignado en la cédula servirá de base para calcular el impuesto predial del mes siguiente, determinándole la diferencia a pagar en caso de que resulte mayor y bonificándole la misma en caso de que resulte menor.
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -585,15 +641,15 @@ El impuesto predial sobre la base de valor catastral deberá cubrirse por meses 
 
 Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de una bonificación del 0.10 sobre el importe de dicho impuesto.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LA BASE CONTRAPRESTACION (SIC)
 
 ###### ARTICULO 44.
 
-El impuesto predial, se causará sobre la base de rentas, frutos civiles o cualquier otra contraprestación pactada, cuando el inmueble de que se trate, hubiese sido otorgado en uso, goce, se permitiera su ocupación por cualquier título y genere dicha contraprestación por la ocupación; siempre y cuando, al determinarse el impuesto conforme a la tarifa establecida en el artículo 46 de esta Ley, diere como resultado un impuesto mayor al que se pagaría sobre la base del valor catastral, conforme a la tarifa del artículo 42.
+El Impuesto Predial, se causará sobre la base de rentas, frutos, civiles o cualquier otra contraprestación pactada, cuando el inmueble de que se trate, hubiese otorgado en uso, goce, se permitiera su ocupación por cualquier título y genere dicha contraprestación por la ocupación; siempre y cuando, al determinarse el impuesto conforme a la tarifa establecida en el artículo 46 de esta Ley, diere como resultado un impuesto mayor al que se pagaría sobre la base del valor catastral, conforme a la tarifa del artículo 42.
 
-No será aplicada esta base cuando los inmuebles sean destinados a instituciones de beneficencia y centros de enseñanza reconocidos por la autoridad educativa correspondiente.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LAS OBLIGACIONES DEL CONTRIBUYENTE
 
@@ -629,7 +685,9 @@ DEL PAGO (DEL PREDIAL SOBRE BASE CONTRAPRESTACION)
 
 Cuando el impuesto predial se cause sobre la base de la contraprestación pactada por usar, gozar o permitir la ocupación de un inmueble, el impuesto deberá cubrirse durante la primera quincena del mes siguiente a aquél en que se cumpla alguno de los siguientes supuestos: que sea exigible el pago de la contraprestación; que se expida el comprobante de la misma o se cobre el monto pactado por el uso o goce, lo que suceda primero, salvo el caso en que los sujetos de este impuesto estuviesen siguiendo un procedimiento judicial para el cobro de la contraprestación pactada, en contra del ocupante o arrendatario.
 
-En este caso, para que los propietarios, usufructuarios, fideicomisarios o fideicomitentes tributen sobre la base del valor catastral del inmueble objeto, deberán notificar dicha situación, a la Dirección de Finanzas y Tesorería Municipal, dentro de los quince días siguientes a la fecha de inicio del procedimiento correspondiente, anexando copia del memorial respectivo.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+En este caso, para que los propietarios, usufructuarios, fideicomisarios o fideicomitentes tributen sobre la base del valor catastral del inmuebles (sic) objeto, deberán notificar dicha situación a la Dirección de Finanzas y Tesorería Municipal, dentro de los quince días siguientes a la fecha de inicio del procedimiento correspondiente, anexando copia del memorial respectivo, sin perjuicio de que el término del procedimiento judicial mencionado pague la diferencia que resulte entre la base valor catastral y la base contraprestación. En este caso no se causará actualización ni recargos.
 
 DE LAS OBLIGACIONES DE TERCEROS
 
@@ -907,7 +965,9 @@ El pago de este impuesto se sujetará a lo siguiente:
 
 a).- Si pudiera determinarse previamente el monto del ingreso, el pago se efectuará antes de la realización de la diversión o espectáculo respectivo.
 
-b).- Si no pudiera determinarse previamente el monto del ingreso, se garantizará el interés del Municipio mediante depósito ante la Dirección de Finanzas y Tesorería Municipal, del .50 del importe del impuesto determinado sobre el total de los boletos autorizados para el espectáculo que se trate y el pago del impuesto, se efectuará al término de la realización del propio espectáculo, pagando el contribuyente la diferencia que existiere a su cargo o reintegrándose al propio contribuyente, la diferencia que hubiere a su favor.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+b).- Si no pudiera determinarse previamente el monto del ingreso, se garantizará el interés del Municipio mediante depósito en efectivo, cheque certificado o cualquier otra garantía que resulte suficiente, a juicio del Director de Finanzas y Tesorero Municipal, del .50 del importe del impuesto determinado sobre el total de los boletos autorizados para el espectáculo que se trate y el pago del impuesto se efectuará al término de la realización del propio espectáculo, pagando el contribuyente la diferencia que existiere a su cargo o reintegrándose al propio contribuyente, la diferencia que hubiere a su favor.
 
 Cuando los sujetos obligados a otorgar la garantía a que se refiere el párrafo anterior, no cumplan con tal obligación, la Dirección de Finanzas y Tesorería Municipal, podrá suspender el evento hasta en tanto no se otorgue dicha garantía, para ello las autoridades fiscales municipales podrán solicitar el auxilio de la fuerza pública.
 
@@ -949,6 +1009,8 @@ DE LA CLASIFICACION
 
 Los sujetos pagarán los derechos por los servicios que soliciten a la Dirección de Desarrollo Urbano, consistentes en:
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
 a) Licencia de construcción.
 
 b) Constancia de terminación de obra.
@@ -959,21 +1021,33 @@ d) Constancia de alineamiento.
 
 e) Sellado de planos.
 
-f) Certificado de seguridad para el uso de explosivos.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-g) Licencia para hacer cortes en banquetas, pavimento y guarniciones.
+f) Licencia para hacer cortes en banquetas, pavimento y guarniciones.
 
-h) Otorgamiento de constancia a que se refiere la Ley sobre el Régimen de Propiedad y Condominio Inmobiliario del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-i) Constancia para obras de urbanización.
+g) Otorgamiento de constancia a que se refiere la Ley sobre el Régimen de Propiedad y Condominio Inmobiliario del Estado de Yucatán.
 
-j) Revisión de planos para la autorización de uso del suelo.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-k) Constancia de unión y división de inmuebles.
+h) Constancia para obras de urbanización
 
-l) Licencia para efectuar excavaciones.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-m) Licencia para construir bardas o colocar pisos.
+i) Constancia de unión y división de inmuebles.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+j) Licencia para efectuar excavaciones.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+k) Licencia para construir bardas o colocar pisos.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+l) Autorización de las licencias de uso del suelo.
 
 DE LAS BASES
 
@@ -1003,11 +1077,17 @@ TIPO B.- Es aquella construcción estructurada, cubierta con madera, cartón, pa
 
 Ambos tipos de construcciones, podrán ser:
 
-Clase 1 con construcción hasta de 60.00 metros cuadrados.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-Clase 2 con construcción desde 61.00 hasta de 120.00 metros cuadrados.
+Clase 1 con construcción hasta de 60.99 metros cuadrados.
 
-Clase 3 con construcción desde 121.00 hasta 240.00 metros cuadrados.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+Clase 2 con construcción desde 61.00 hasta de 120.99 metros cuadrados.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+Clase 3 con construcción desde 121.00 hasta 240.99 metros cuadrados.
 
 Clase 4 con construcción desde 241.00 metros cuadrados en adelante.
 
@@ -1061,7 +1141,9 @@ Clase 3 .0175 de un salario
 
 Clase 4 .02 de un salario
 
-La tarifa del derecho por el servicio mencionado en el inciso k) del artículo 71, se pagará por predio resultante, conforme lo siguiente:
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+La tarifa del derecho por el servicio mencionado en el inciso i) del artículo 71, se pagará por predio resultante, conforme a lo siguiente:
 
 a).- Para las construcciones tipo A:
 
@@ -1083,7 +1165,9 @@ Clase 3 .375 de un salario
 
 Clase 4 .50 de un salario
 
-La tarifa de los derechos por los servicios mencionados en los demás incisos del artículo 71, será de:
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+La tarifa de los derechos por los servicios mencionados en los demás inciso (sic) del artículo 71, será de:
 
 Por el servicio previsto en el inciso c) .06 de un salario, por metro cuadrado.
 
@@ -1091,19 +1175,57 @@ Por el servicio previsto en el inciso d) .10 de un salario, por metro lineal.
 
 Por el servicio previsto en el inciso e) 1.2 de un salario por el servicio.
 
-Por el servicio previsto en el inciso f) 1.2 de un salario por el servicio.
+Por el servicio previsto por el inciso f) 1.0 de un salario por metro lineal.
 
-Por el servicio previsto en el inciso g) 1.0 de un salario por metro lineal.
+Por el servicio previsto por el inciso g) 1.0. de un salario por resultante.
 
-Por el servicio previsto en el inciso h) 1.0 de un salario por resultante.
+Por el servicio en el inciso h) .02 de un salario por metro cuadrado de vía pública.
 
-Por el servicio previsto en el inciso i) .02 de un salario por metro cuadrado de vía pública.
+Por el servicio en el inciso j) .07 de un salario por metro cúbico.
 
-Por el servicio previsto en el inciso j) 1.0 de un salario por el servicio.
+Por el servicio en el inciso k) .06 de un salario por metro cuadrado.
 
-Por el servicio previsto en el inciso l) .25 de un salario por metro cúbico.
+Por el servicio en el inciso l) se pagará como sigue:
 
-Por el servicio previsto en el inciso m) .07 de un salario por metro cuadrado.
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+CONCEPTO IMPORTE EN
+
+SALARIOS MÍNIMOS
+
+Por autorización de uso del suelo para
+
+fraccionamiento de una vía pública 50
+
+Por autorización de uso del suelo para
+
+fraccionamiento de más de una vía pública 100
+
+Por autorización de uso del suelo para
+
+desarrollos de cualquier tipo cuya
+
+superficie sea mayor de 500 M2. 50
+
+Por remisión y evaluación de los estudios
+
+de impacto vial 50
+
+Por remisión y evaluación de los
+
+estudios de impacto urbano 50
+
+Por remisión y evaluación de los estudios de
+
+imagen urbana 50
+
+Por peritaje arqueológico y ecológico
+
+Menos de una Ha. 2
+
+De 1 a 5 Ha. 5
+
+De más de 5 Ha. 10
 
 Las construcciones, excavaciones, demoliciones y demás obras o trabajos iniciados o llevados a cabo sin la licencia, autorización o constancia correspondiente, se entenderán extemporáneos y pagarán una sanción correspondiente a tres tantos el importe de la tarifa respectiva.
 
@@ -1211,7 +1333,9 @@ c).- Por cada copia tamaño hasta cuatro cartas: 2.0
 
 d).- Por cada copia mayor de cuatro cartas: 5.0
 
-II.- Por la expedición de copias fotostáticas certificadas de:
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+II.- Por la expedición de copias certificadas de:
 
 a).- Cédulas, planos, parcelas manifestaciones (tamaño carta) cada una: 0.5
 
@@ -1221,7 +1345,9 @@ c).- Planos tamaño hasta cuatro cartas cada una: 2.2
 
 d).- Planos mayores de cuatro veces tamaño carta, cada uno: 5.2
 
-III.- Por la expedición de oficios de:
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+III.- Por la expedición de oficio de:
 
 a).- División (por cada parte): 0.5
 
@@ -1247,47 +1373,59 @@ de 4 hasta 10 predios 3.0
 
 de 11 hasta 20 predios 5.0
 
-de 21 predios en adelante 5.0 más 0.05 por excedente de 20.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-f).- Certificado de no inscripción predial: 2.0
+de 21 predios en adelante 5.25 de base más 0.25 por cada predio excedente.
 
-IV.- Por revalidación de oficios de división, unión y rectificación de
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-Medidas: 1.0
+f) Certificado de no inscripción predial: 5.0
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+IV.- Por revalidación de cada oficio de división, unión y
+
+rectificación de medidas. 1.0
 
 V.- Por la elaboración de planos:
 
 a).- Tamaño carta: 4.0
 
-b).- Hasta cuatro cartas: 7.4
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-c).- Más de cuatro cartas: 12.0
+b) Tamaño doble carta 6.0
 
-VI.- Por diligencias de verificación de colindancias de predios o de
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-medidas físicas por cada una: 5.0
+c) Tamaño cuatro cartas 12.0
 
-VII.- Cuando la elaboración de planos o la diligencia de verificación incluya trabajos de topografía, adicionalmente a la tasa de las fracciones III inciso f), V y VI, se causarán los siguientes derechos de acuerdo a la superficie.
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-de 0.01 a 1000.00 m2 7.4
+d) Tamaño 42 x 36 pulgadas 20.0
 
-de 1000.01 a 2500.00 m2 10.0
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-de 2500.01 a 5000.00 m2 12.0
+VI.- Por diligencias de verificación de colindancias de predios o
 
-de 5000.01 a 10,000.00 m2 17.8
+de medidas físicas de cada una: 5.0
 
-de 10,000.01 a 100,000.00 m2 35.6
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-de 100,000.01 a 200,000.00 m2 53.4
+VII.- Cuando la elaboración de planos o la diligencia de verificación incluya trabajos de topografía, adicionalmente a la tasa de las fracciones III inciso f), V y VI, se causarán los siguientes derechos de acuerdo a la superficie:
 
-de 200,000.01 a 300,000.00 m2 71.2
+De 0.01 a 200.00 m2 4.0
 
-de 300,000.01 a 400,000.00 m2 89.0
+De 200.01 a 1000.00 m2 7.4
 
-de 400,000.01 a 500,000.00 m2 100.0
+De 1000.01 a 2500.00 m2 10.0
 
-de 500,000.01 m2 en adelante 2.0 por hectárea
+De 2500.01 a 5000.00 m2 12.0
+
+De 5000.01 a 10000.00 m2 17.8
+
+De 10000.01 m2 en adelante 17.8, más 12.0 por cada hectárea
+
+excedente o fracción de ésta.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1307,41 +1445,45 @@ De un valor de $500,001.00 a $1,000,000.00 20.0
 
 De un valor de $1,000,001.00 en adelante 40.0
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 86.
 
-No causarán derecho alguno las divisiones o fracciones de terrenos en las zonas rústicas que sean destinadas plenamente a la producción agrícola o ganadera.
+No causarán derecho alguno las divisiones o fracciones de terrenos en las zonas que sean destinadas plenamente a la producción agrícola o ganadera.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 87.
 
-Los fraccionamientos causarán derechos de deslindes, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo siguiente:
+Las divisiones y los fraccionamientos causarán derechos de deslindes, excepción hecha de los (sic) dispuesto en el artículo anterior, de conformidad con lo siguiente:
 
-Hasta 5000 m2 80.0
+De 0.01 a 5000 m2 0.016 por cada metro cuadrado.
 
-Hasta 5000.01 m2 hasta 10,000 m2 120.0
+De 5000.01 a 10000 m2 80.0 más 0.012 por metro
 
-De 10,000.01 hasta 160,000.00 m2 160.0
+cuadrado que exceda de 5000 m2.
 
-Más de 160,000.00 m2 0.001 por metro cuadrado excedente.
+De 10000.01 m2 en adelante 14.0 más 0.002 por metro
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+cuadrado que exceda de 1000 m2
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 88.
 
 Por la revisión técnica de la documentación de constitución en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo.
 
-Comercial 0.9 por departamento.
+I.- Comercial: por departamento 0.9
 
-Habitacional 0.6 por departamento.
+II.- Habitacional: por departamento 0.6
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 89.
 
-Quedan exentas del pago de los derechos que se establecen en este capítulo las instituciones públicas.
+Quedan exentas del pago de los derechos que se establecen en este capítulo las instituciones públicas cuya actividad esté relacionada directamente con la promoción, desarrollo y otorgamiento de vivienda.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1349,15 +1491,23 @@ Quedan exentas del pago de los derechos que se establecen en este capítulo las 
 
 Otros servicios prestados por el Catastro Municipal.
 
-Manifestación catastral. 0.6 salario
+> <small>(REFORMADO, D.O. 31 DICIEMBRE DE 2002)</small>
+
+Manifestación catastral. 0.6 salarios.
 
 Certificado de no inscripción predial. 1.5 salario mínimo
 
-Definitiva de División. 0.6 salario mínimo
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
-Definitiva de Unión. 0.6 salario mínimo
+Definitiva de División 0.6 salarios
 
-Definitiva de rectificación. 0.6 salario mínimo
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+Definitiva de Unión. 0.6 salarios
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+Definitiva de Rectificación 0.6 salarios
 
 I.- Impresión de imagen satelital del municipio de Mérida por metro cuadrado de impresión, como base mínima 15.0
 
@@ -1368,6 +1518,14 @@ a).- De una colonia o fraccionamiento 8.0
 b).- De una sección catastral 10.0
 
 c).- De la ciudad 12.0
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+III.- Trabajos de referencia geográfica con sistemas de posicionamiento global (G.P.S) por cada punto posicionado geográficamente. 22.0
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+IV.- Cuando la diligencia de verificación requiera de trabajos de investigación en el Registro Público de la Propiedad del Estado de Yucatán. 3.0
 
 ###### ARTICULO 91.
 
@@ -1585,19 +1743,179 @@ b) Para amortizar los adeudos anteriores que el municipio de Mérida y sus comis
 
 c) Para ampliar o mejorar, en su caso, las instalaciones del alumbrado público a solicitud del Ayuntamiento de Mérida.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 95-H.
+
+La Comisión Federal de Electricidad deberá rendir al Ayuntamiento de Mérida los informes relativos a la recaudación del derecho referido y de su aplicación así como los demás que expresamente le solicite dicha autoridad con relación al particular.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO X. DERECHOS POR LICENCIA DE FUNCIONAMIENTO Y PERMISOS
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 95-I.
+
+Todas las tarifas de este capítulo se calcularán con base en el salario mínimo por cada licencia.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 95-J.
+
+Tratándose de apertura, por la expedición de licencias para el funcionamiento de establecimientos dedicados al expendio de bebidas alcohólicas para su consumo en lugar diferente, se cobrará una (sic) derecho de acuerdo a la siguiente tarifa.
+
+Tipo de Establecimiento Importe en Salarios Mínimos
+
+I.- Expendio de vinos, licores y cervezas
+
+en envase cerrado: 150
+
+II.- Expendio de cerveza en envase cerrado: 100
+
+III.- Supermercado: 400
+
+IV.- Minisuper 300
+
+V.- Expendio de vinos y licores al por mayor 400
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 95-K.
+
+Por el otorgamiento, de licencias para el funcionamiento de giros dedicados al expendio de bebidas alcohólicas para su consumo en el mismo lugar, se cobrará una cuota de acuerdo a la siguiente tarifa:
+
+Tipo de Establecimiento Importe en Salarios Mínimos
+
+I.- Restaurante de primera "A" 650
+
+II.- Restaurante de primera "B" 500
+
+III.- Restaurante de primera "C" 400
+
+IV.- Restaurante de segunda "A" 350
+
+V.- Restaurante de segunda "B" 300
+
+VI.- Restaurante de segundo "C" 250
+
+VII.- Cantina y bar: 250
+
+VIII.- Cabaret o Centro Nocturno 1,250
+
+IX.- Discotecas: 1,000
+
+X.- Salones de baile: 250
+
+Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquél que por sus características le sea más semejante.
+
+Para los efectos de este artículo, se entenderá la clasificación de establecimientos especificada en el reglamento municipal correspondiente.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 95-L.
+
+Por la revalidación de licencias para el funcionamiento de los establecimientos que se relacionan en los artículos 95-J y 95-K de esta Ley se pagará un derecho conforme a la siguiente tarifa:
+
+Tipo de Establecimiento Importe en Salarios Mínimos
+
+I.- Expendio de vinos, licores y cervezas
+
+en envase cerrado: 30
+
+II.- Expendio de cerveza en envase cerrado: 25
+
+III.- Supermercado: 100
+
+IV.- Minisuper: 75
+
+V.- Expendio de vinos y licores al por mayor: 100
+
+VI.- Restaurante de primera "A" 162.5
+
+VII.- Restaurante de primera "B" 125
+
+VIII.- Restaurante de primera "C" 100
+
+IX.- Restaurante de segunda "A" 87.5
+
+X.- Restaurante de segunda "B" 75
+
+XI.- Restaurante de segunda "C" 62.5
+
+XII.- Cantina y bar: 62.5
+
+XIII.- Cabaret y centro nocturno: 312.5
+
+XIV.- Discotecas: 250
+
+XV.- Salón de baile 62.5
+
+Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquél que por sus características le sea más semejante.
+
+Para los efectos de este artículo, se entenderá la clasificación de establecimientos especificada en el reglamento municipal correspondiente.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO XI. POR EL USO DE CENTROS DE ACOPIO DE RESIDUOS SÓLIDOS NO PELIGROSOS PROPIEDAD EL (SIC) MUNICIPIO
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 95-M.
+
+Por el uso de los centros de acopio de residuos sólidos no peligrosos propiedad del Municipio de Mérida, se cobrarán los siguientes derechos:
+
+CONCEPTO TARIFA
+
+Tirada de cristales semanal 10 salarios
+
+Tirada de chatarra semanal 10 salarios
+
+Tirada de cartón semanal 10 salarios
+
+Tirada de llantas .25 salario por pieza
+
+Tirada de tambor .05 salario por viaje
+
+Tirada de pick-up .50 salario por viaje
+
+Tirada de volquete .50 salario por viaje
+
+Tirada de camión de hasta 3 toneladas .50 salario por viaje
+
+Tirada de camión de hasta 10 toneladas 1 salario por viaje
+
+Tirada de camión de más de 10 toneladas 2 salarios por viaje
+
+Tiradas menores .05 salario por c/u
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO XII. POR EL USO DE VERTEDEROS
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 95-N.
+
+Por el uso de los vertederos, de aguas negras y residuos, propiedad del Municipio, se pagarán los derechos conforme a la siguiente tarifa:
+
+a) Por contenedores con capacidad de hasta 8,000 litros, 1.5. salarios por viaje.
+
+b) Por contenedores con capacidad de hasta 10,000 litros, 1.75 salarios por viaje
+
+c) Por contenedores con capacidad de más de 10,000 litros, 2.25 salarios por viaje.
+
+d) Por descargas que por su densidad requieran permiso especial de la Dirección de Ecología, 2.8 salarios por viaje
+
 ### CAPITULO UNICO. DE LOS SUJETOS
 
 ### CAPITULO UNICO. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO. DE LAS MULTAS FEDERALES NO FISCALES
 
-### CAPITULO I. GENERALIDADES
-
-### CAPITULO II. INFRACCIONES Y SANCIONES
-
-DE LOS RESPONSABLES
-
 ## TITULO IV. DE LAS CONTRIBUCIONES DE MEJORAS
+
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 96.
 
@@ -1729,6 +2047,10 @@ El Director de Finanzas y Tesorero Municipal previa solicitud por escrito de la 
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
+### CAPITULO II. INFRACCIONES Y SANCIONES
+
+DE LOS RESPONSABLES
+
 ###### ARTICULO 108.
 
 Los productos que percibirá el Ayuntamiento de Mérida, a través de la Dirección de Finanzas y Tesorería Municipal, serán:
@@ -1763,53 +2085,13 @@ DEL USO DE CENTRO DE ACOPIO DE RESIDUOS SOLIDOS NO PELIGROSOS PROPIEDAD DEL MUNI
 
 ###### ARTICULO 112.
 
-Por el uso de los centros de acopio de residuos sólidos no peligrosos propiedad del Municipio de Mérida, se cobrarán los siguientes productos:
-
-CONCEPTO TARIFA
-
-Tirada de cristales semanal 10 salarios
-
-Tirada de chatarra semanal 10 salarios
-
-Tirada de cartón semanal 10 salarios
-
-Tirada de llantas .25 salario por pieza
-
-Tirada de tambor .05 salario por viaje
-
-Tirada de pick-up .50 salario por viaje
-
-Tirada de Volquete .50 salario por viaje
-
-Tirada de camión de hasta
-
-3 toneladas .50 salario por viaje
-
-Tirada de camión de hasta
-
-10 toneladas 1 salario por viaje
-
-Tirada de camión de más de
-
-10 toneladas 2 salarios por viaje
-
-Tiradas menores .05 de salario por c/u
-
-REFORMADO, D.O. 31 DE DICIEMBRE DE 2001)
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2002)
 
 DEL USO DE VERTEDEROS
 
 ###### ARTICULO 113.
 
-Por el uso de los vertederos, de aguas negras y residuos, propiedad del Municipio, se pagará conforme la siguiente tarifa:
-
-a).- Por contenedores con capacidad de hasta 8000 litros, 1.5 salarios por viaje.
-
-b).- Por contenedores con capacidad de hasta 10000 litros, 1.75 salarios por viaje.
-
-c).- Por contenedores con capacidad de más de 10000 litros, 2.25 salarios por viaje.
-
-d).- Por descargas que por su densidad requieran permiso especial de la Dirección de Ecología, 2.8 salarios por viaje.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2002)
 
 DE LA VENTA DE FORMAS OFICIALES
 
@@ -2008,3 +2290,15 @@ D.O. 31 DE DICIEMBRE DE 2001.
 PRIMERO.- Las reformas y adiciones a que se refiere este decreto, entrarán en vigor el primero de enero de 2002, previa publicación en el Diario Oficial del Gobierno del Estado, con excepción de las adiciones a que se refieren los capítulos VIII y IX del Título III de esta Ley, mismas que entrarán en vigor en la fecha que se señale en el Convenio de Coordinación que celebrará el Ayuntamiento de Mérida con el Ejecutivo del Estado.
 
 SEGUNDO.- Se deroga el Decreto No. 74 que se publicó en el Diario Oficial del Gobierno del Estado, con fecha 30 de Diciembre de 1988 y todas las demás normas que se opongan a lo dispuesto por el presente Decreto.
+
+D.O. 31 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Las reformas y adiciones a que se refiere este decreto entrarán en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Cabildo del H. Ayuntamiento de Mérida deberá expedir, dentro de los 90 días hábiles posteriores a la entrada en vigor del presente decreto, el reglamento relativo a los establecimientos relacionados en los artículos 95-J, 95-K y 95-L de la presente Ley.
+
+Los derechos descritos en dichos artículos, entrarán en vigor al día siguiente de la publicación en el Diario Oficial del Gobierno del Estado del reglamento referido en el párrafo anterior.
