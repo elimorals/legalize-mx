@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2002-03-08"
+last_updated: "2003-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -61,11 +61,11 @@ Integran la administración pública directa las siguientes Dependencias: Secret
 
 Componen la administración pública paraestatal las siguientes entidades: organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones civiles asimiladas a dichas empresas en los términos de la presente Ley y fideicomisos públicos.
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 4o.
 
-El titular del Poder Ejecutivo del Estado tendrá directamente adscritas la Secretaría Particular, la Ayudantía y las Representaciones del Gobierno del Estado en el Distrito Federal y en otras localidades del Estado. Además, podrá contar con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen de acuerdo con el presupuesto de egresos. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
+El titular del Poder Ejecutivo del Estado tendrá directamente adscritas la Oficina del Ejecutivo Estatal, la Secretaria Particular y la Secretaría Técnica. Además, podrá contar con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen de acuerdo con el presupuesto de egresos. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
@@ -125,15 +125,19 @@ Al frente de cada Secretaría habrá un Secretario, quien para el despacho de lo
 
 (DEROGADO, B.O. 17 DE DICIEMBRE DE 1992)
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 14.
 
-El Gobernador del Estado, en los términos del Artículo 79 fracción I de la Constitución Política Local, emitirá los reglamentos interiores, los acuerdos, las circulares y las demás disposiciones que tiendan a regular el funcionamiento de las dependencias del Ejecutivo y autorizará la expedición de los manuales administrativos de organización, de procedimientos y de servicios al público, necesarios para su funcionamiento.
+El Gobernador del Estado, en los términos del artículo 79, fracciones I y XVIII de la Constitución Política del Estado de Sonora, emitirá los reglamentos interiores, los acuerdos, las circulares y las demás disposiciones que tiendan a regular el funcionamiento de las dependencias.
 
 Los reglamentos interiores de las dependencias determinarán las atribuciones y la adscripción, en su caso, de las unidades administrativas de éstas, así como la forma en que los titulares de dichas dependencias y de las señaladas unidades, podrán ser suplidos en sus ausencias.
 
 Los manuales de organización, de procedimientos y de servicios al público, deberán mantenerse permanentemente actualizados. Estos instrumentos de apoyo administrativo contendrán información sobre la estructura orgánica de las dependencias y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan.
 
-Los reglamentos interiores y los manuales de organización deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+Los reglamentos interiores de las dependencias deberán publicarse en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTICULO 15.
 
@@ -175,681 +179,611 @@ Cuando exista duda respecto de la competencia de las dependencias para la atenci
 
 El Procurador General de Justicia es representante legal del Poder Ejecutivo del Estado. La organización, funcionamiento, jurisdicción, competencia, facultades y obligaciones de la institución del Ministerio Público, se regirán por lo dispuesto en la Constitución Política del Estado, en la Ley Orgánica respectiva y en las demás leyes.
 
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 22.
 
 Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo del Estado contará con las siguientes dependencias:
 
 I.- Secretaría de Gobierno.
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+II.- Secretaría de Hacienda.
 
-II.- Secretaría de Planeación del Desarrollo y Gasto Público.
+III.- Secretaría de la Contraloría General.
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+IV.- Secretaría de Educación y Cultura.
 
-III.- Secretaría de Finanzas.
+V.- Secretaría de Salud Pública.
 
-IV.- Secretaría de la Contraloría General del Estado.
+VI.- Secretaría de Infraestructura Urbana y Ecología.
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+VII.- Secretaría de Economía.
 
-V.- Secretaría de Educación y Cultura.
+VIII.- Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura.
 
-VI.- Secretaría de Salud Pública.
+IX.- Secretaría de Desarrollo Social; y
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+X.- Procuraduría General de Justicia.
 
-VII.- Secretaría de Infraestructura Urbana y Ecología.
+Los titulares de estas dependencias, subsecretarios, coordinadores, directores generales, directores, subdirectores, jefes de departamento, secretarios particulares y ayudantes personales, serán trabajadores de confianza, para los efectos de la Ley del Servicio Civil del Estado.
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+En ausencia del titular de la dependencia, éste será suplido en la forma que determine el reglamento interior respectivo.
 
-VIII.- Secretaría de Desarrollo Económico y Productividad.
-
-> <small>(REFORMADA, B.O. 28 DE MARZO DE 1988)</small>
-
-IX.- Secretaría de Fomento Agrícola.
-
-X.- Secretaría de Fomento Ganadero.
-
-XI.- Secretaría de Fomento al Turismo.
-
-XII.- (DEROGADA, B.O. 17 DE DICIEMBRE DE 1992)
-
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
-
-XIII.- Procuraduría General de Justicia del Estado de Sonora.
-
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
-
-Los titulares de estas Dependencias, Subsecretarios, Directores, Subdirectores, Jefes de Departamento, Secretarios Particulares y Ayudantes Personales, serán trabajadores de confianza, para los efectos de la Ley del Servicio Civil del Estado.
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 23.
 
-A la Secretaría de Gobierno corresponde ejercer, sin perjuicio de las facultades y obligaciones que señalan los Artículos 77 y 82 de la Constitución Política del Estado, las siguientes:
+A la Secretaría de Gobierno le corresponde ejercer, sin perjuicio de las facultades y obligaciones que señalan los artículos 77 y 82 de la Constitución Política del Estado, las siguientes:
 
-I.- Ser el conducto del Ejecutivo para atender los asuntos de política interna del Estado.
+A. En materia de política interna y externa:
 
-II.- Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial y con los Ayuntamientos del Estado; con los Poderes de la Unión y con los Gobiernos de las Entidades Federativas.
+I.- Ser el conducto del Ejecutivo para atender los asuntos de política interna del Estado;
 
-III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, B.O. 8 DE MARZO DE 2002)
+II.- Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial y con los Ayuntamientos de los municipios del Estado; con los Poderes de la Unión y con los Gobiernos de las otras Entidades Federativas;
 
-IV.- Proporcionar asesoría jurídica a las dependencias del Ejecutivo del Estado.
+III.- Asesorar y apoyar a los Ayuntamientos que lo soliciten, en el desempeño de sus atribuciones;
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+IV.- Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación federal en materia de juegos y sorteos;
 
-V.- Conducir las actividades del Ejecutivo Estatal en materia de protección civil y, en los términos que señalen las leyes, las relativas al orden y a la tranquilidad públicos, así como a la prevención de delitos y de faltas de policía y buen gobierno.
+V.- Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación en materia de asociaciones religiosas y culto público;
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+VI.- Promover la cultura cívico-política de los ciudadanos y los mecanismos de participación ciudadana;
 
-VI.- Proponer al Ejecutivo del Estado los programas relativos a la readaptación social de los delincuentes y administrar los Centros de Readaptación Social.
+VII.- Atender los asuntos que le planteen los organismos de la sociedad civil y la población en general;
 
-VII.- Vigilar el cumplimiento de la ley que crea el Consejo Tutelar de Menores del Estado de Sonora.
+VIII.- Promover y atender los asuntos relacionados con el ámbito rural y agrario de la Entidad;
 
-VIII.- Ejercer las funciones que al Ejecutivo del Estado le corresponden en materia de trabajo y previsión social.
+IX.- Formular y conducir los programas de población en coordinación con las autoridades federales, estatales y municipales que correspondan; y
 
-IX.- Promover el desarrollo de la capacitación y el adiestramiento en y para el trabajo, así como realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que, para incrementar la productividad en el trabajo, requieran los sectores productivos.
+X.- Conducir las actividades del Ejecutivo Estatal en materia de protección civil.
 
-X.- Asesorar y apoyar a los Ayuntamientos que lo soliciten, en el desempeño de sus atribuciones.
+B. En materia de atención gubernamental:
 
-XI.- Organizar y vigilar el libre acceso ciudadano a la tutela jurisdiccional, a través de la institución de la Defensoría de Oficio.
+I.- Organizar y vigilar el ejercicio de las funciones del Registro Civil, sin perjuicio de las atribuciones constitucionales del Ministerio Público;
 
-XII.- Vigilar el cumplimiento de la Ley de Profesiones del Estado y organizar sus registros.
+II.- Coordinar y vigilar el cumplimiento de las disposiciones en materia de notariado e imponer las sanciones por infracciones a las mismas, sin perjuicio de las atribuciones constitucionales del Ministerio Público; asimismo, administrar el Archivo de Notarías y autorizar los protocolos que deban utilizar los Notarios Públicos;
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+III.- Determinar, en los términos que correspondan, el calendario oficial y administrar y publicar el Boletín Oficial del Gobierno del Estado;
 
-XIII.- Auxiliar a las autoridades federales en la aplicación de la Ley Federal de Juegos y Sorteos.
+IV.- Dirigir, organizar y controlar el Archivo General de Gobierno; asimismo, llevar el registro de autógrafos y legalizar las firmas de funcionarios del Estado, de los municipios, de las instituciones educativas y, en general, de las personas que expidan documentos públicos; y
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+V.- Organizar y vigilar el libre acceso ciudadano a la tutela judicial, a través de la institución de la Defensoría de Oficio.
 
-XIV.- Fomentar el desarrollo político, e intervenir y ejercer la vigilancia que en materia electoral le señalen las leyes y los convenios que para este efecto se celebren.
+C. En materia de trabajo y previsión social:
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+I.- Ejercer las funciones que al Ejecutivo del Estado le corresponden en materia de trabajo y previsión social; y
 
-XV.- Auxiliar a las autoridades federales en el exacto cumplimiento de la Ley de Asociaciones Religiosas y Culto Público y de su Reglamento.
+II.- Promover una cultura laboral que tenga como marco y objetivo la armonía en las relaciones obrero-patronales.
 
-XVI.- Realizar los trámites para el ejercicio de las facultades que otorgan al Gobernador los Artículos 79, fracción XXIV y 113 de la Constitución Política Local, relativa al nombramiento de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo.
+D. En materia jurídico-administrativa:
 
-XVII.- Intervenir en los procedimientos de expropiación por causa de utilidad pública, en los términos de la ley de la materia.
+I.- Proporcionar asesoría jurídica a las dependencias del Ejecutivo del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE DICIEMBRE DE 1992)</small>
+II.- Intervenir en los procedimientos de expropiación por causa de utilidad pública, en los términos de la ley de la materia; y
 
-XVIII.- Organizar y vigilar el ejercicio de las funciones del registro Civil, sin perjuicio de las atribuciones constitucionales del Ministerio Público.
+III.- Realizar los trámites para el ejercicio de las facultades que otorgan al Gobernador los artículos 79, fracción XXIV y 113 de la Constitución Política Local, relativas al nombramiento de los magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo.
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
-
-XIX.- Coordinar y vigilar el cumplimiento de las disposiciones en materia de notariado e imponer las sanciones por infracciones a las mismas, sin perjuicio de las atribuciones constitucionales del Ministerio Público; asimismo, administrar el Archivo de Notarías y autorizar los protocolos que deban utilizar los Notarios Públicos.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE DICIEMBRE DE 1992)</small>
-
-XX.- Dirigir, organizar y controlar el Archivo General de Gobierno; asimismo, llevar el registro de autógrafos y legalizar las firmas de funcionarios del Estado, de los Municipios, de las instituciones educativas y, en general, de las personas que expidan documentos públicos.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE DICIEMBRE DE 1992)</small>
-
-XXI.- determinar, en los términos que correspondan, el calendario oficial y administrar y publicar el Boletín Oficial del Gobierno del Estado; y
-
-> <small>(ADICIONADA, B.O. 28 DE MARZO DE 1988)</small>
-
-XXII.- Las demás que le señalan la Constitución Política del Estado, las leyes y los reglamentos vigentes.
-
-Los Subsecretarios de Gobierno tendrán las facultades y obligaciones que les señale el Reglamento Interior y suplirán al Secretario en el orden de precedencia que se fije en el mismo Reglamento.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 24.
 
-A la Secretaría de Planeación del Desarrollo y Gasto Público le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Hacienda le corresponden las facultades y obligaciones siguientes:
 
-I.- Proyectar y coordinar las actividades de planeación del desarrollo estatal, así como promover las acciones que de su instrumentación se deriven.
+A. En materia de planeación:
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+I.- Formular y aplicar la política hacendaria, de gasto público y de deuda pública, del Gobierno del Estado;
 
-II.- Elaborar el Plan Estatal de Desarrollo, con la participación de los sectores público, privado y social, en los términos de la Ley de Planeación y someterlo a la consideración y aprobación del Gobernador del Estado; asimismo someter a la consideración del ejecutivo las propuestas de adecuación al propio Plan Estatal de Desarrollo.
+II.- Representar a la Hacienda Pública del Estado por delegación del Gobernador, en los términos de la fracción XIX del artículo 79 de la Constitución Política Local;
 
-III.- Proyectar y coordinar, con la participación que corresponde a los Gobiernos Municipales, la planeación regional en el Estado.
+III.- Proyectar y coordinar las actividades de planeación del desarrollo estatal, así como promover las acciones que de su instrumentación se deriven;
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+IV.- Elaborar el Plan Estatal de Desarrollo, con la participación de los sectores público, privado y social, en los términos de la Ley de Planeación, y someterlo a la consideración y aprobación del Titular del Poder Ejecutivo; asimismo someter a la consideración del Ejecutivo las propuestas de adecuación al propio Plan Estatal de Desarrollo;
 
-IV.- Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas que se deriven del Plan Estatal de Desarrollo, y elaborar los programas especiales que le señale el Gobernador del Estado, verificando su ejecución.
+V.- Proyectar y coordinar, con la participación que corresponde a los Gobiernos Municipales, la planeación regional en el Estado;
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+VI.- Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas que se deriven del Plan Estatal de Desarrollo, y elaborar los programas especiales que le señale el Gobernador del Estado, verificando su ejecución;
 
-V.- Coordinar las actividades del Comité Estatal de Planeación para el Desarrollo del Estado de Sonora.
+VII.- Coordinar las actividades del Comité Estatal de Planeación para el Desarrollo del Estado de Sonora;
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+VIII.- Procurar la congruencia entre las acciones de la Administración Pública Estatal y los objetivos y prioridades del Plan Estatal de Desarrollo, y vigilar el cumplimiento de las disposiciones estatales en materia de planeación, programación, programación, presupuestación y evaluación;
 
-VI.- Procurar la congruencia entre las acciones de la administración pública estatal y los objetivos y prioridades del Plan Estatal de Desarrollo, y vigilar el cumplimiento de las disposiciones estatales en materia de planeación, programación, presupuestación y evaluación.
+IX.- Integrar los programas operativos anuales globales, de acuerdo con los objetivos y prioridades del Plan Estatal de Desarrollo; y
 
-VII.- Vigilar que se efectúen las acciones que el Ejecutivo Estatal convenga con el Ejecutivo Federal y con los Gobiernos Municipales.
+X.- Ejecutar los convenios que en materia de acciones de planeación, programación, presupuestación y fiscalización, celebre el Gobierno del Estado con la Federación o municipios, así como vigilar que se efectúen las acciones convenidas con dichos órdenes de gobierno.
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+B. En materia de ingresos:
 
-VIII.- Proyectar y calcular los egresos del Gobierno del Estado y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos que señala la Secretaría de Finanzas, en atención a las necesidades y políticas del desarrollo estatal.
+I.- Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el saneamiento financiero de la Administración Pública Estatal;
 
-IX.- Formular y proponer al Gobernador del Estado el programa anual de gasto público y el anteproyecto de presupuesto de egresos por programas del Estado.
+II. Intervenir en el estudio de proyectos de leyes y disposiciones impositivas; formular y proponer al Gobernador del Estado los proyectos de las leyes anuales de ingresos y presupuestos de ingresos del Estado;
 
-X.- Integrar los programas operativos anuales globales, de acuerdo con los objetivos y prioridades del Plan Estatal de Desarrollo.
+III.- Recaudar y administrar los impuestos, derechos, productos, aprovechamientos y las contribuciones especiales en los términos de la Ley de Ingresos del Estado y de las leyes fiscales correspondientes;
 
-XI.- Autorizar a las dependencias y entidades de la administración pública estatal, el ejercicio del gasto público asignado a los programas de éstas, conforme a la calendarización respectiva.
+IV.- Representar al Gobierno del Estado en los órganos del Sistema Nacional de Coordinación Fiscal y demás instancias de representación nacional vinculadas con la Hacienda Pública Estatal;
 
-XII.- Autorizar, previo acuerdo con el Gobernador, las ampliaciones y reducciones de los recursos asignados a los programas a cargo de las dependencias y de las entidades incorporadas al presupuesto de egresos del Estado. Asimismo, opinar, a solicitud de la coordinadora de sector, sobre las modificaciones presupuestales de las entidades no incorporadas al presupuesto de egresos mencionado.
+V.- Percibir y administrar los recursos derivados de los fondos de participaciones y aportaciones federales, así como de otros conceptos de gasto federalizado que asigne la Federación a la Entidad, en los términos de las normas aplicables y los convenios relativos;
 
-> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+VI.- Custodiar todos los fondos, valores e ingresos del Estado, así como los que se reciban para fines específicos, y establecer y operar los registros necesarios que provean la información de la concentración diaria;
 
-XII-A.- Realizar los trámites y registros que requiera la vigilancia, seguimiento y evaluación del ejercicio del gasto público estatal y del presupuesto de egresos.
+VII.- Ejecutar los convenios que en materia impositiva celebre el Gobierno del Estado con la Federación o los municipios;
 
-> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+VIII.- Vigilar el estricto cumplimiento de las leyes, reglamentos y otras disposiciones de carácter fiscal; así como practicar visitas de inspección y auditorías a contribuyentes en los términos de los ordenamientos fiscales correspondientes;
 
-XII-B.- Autorizar el pago de los gastos que afecten el Presupuesto de Egresos del Estado, de conformidad con los programas, presupuestos y calendarios financieros aprobados.
+IX.- Ejercer las facultades tributarias que, mediante convenio con la Federación, asuma el Gobierno del Estado;
 
-> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+X.- Ejercer las atribuciones conferidas a la Entidad en el Acuerdo que establece el programa "Sólo Sonora" para apoyar y facilitar los trámites que deben cumplir los turistas extranjeros y los mexicanos residentes en el extranjero para importar temporalmente sus vehículos de procedencia extranjera al país, para que circulen exclusivamente en el territorio del Estado;
 
-XII-C.- Establecer y operar el sistema de contabilidad gubernamental del Gobierno del Estado, con excepción de la contabilidad de las entidades de la administración pública paraestatal no incorporadas al Presupuesto de Egresos del Estado.
+XI.- Proporcionar opinión cuando sea solicitada por particulares y opinión o asesoría cuando sea solicitada por los Ayuntamientos en materia de interpretación y aplicación de las leyes tributarias, así como en la instrumentación de métodos y sistemas de planeación, programación, presupuestación, evaluación e informática;
 
-XIII.- Verificar que los subsidios y transferencias de fondos, realizados por el Ejecutivo del Estado, con cargo a su propio presupuesto, a favor de los Municipios o de instituciones de los sectores social y privado, se apliquen en los términos establecidos en los programas aprobados al efecto.
+XII.- Realizar una labor permanente de difusión y orientación fiscal;
 
-XIV.- Normar la planeación, programación, presupuestación, ejecución y evaluación de las obras públicas que realicen o contraten las dependencias y entidades de la administración pública estatal, conforme a las leyes respectivas.
+XIII.- Intervenir en los juicios que se ventilen ante cualquier tribunal, cuando tenga interés la Hacienda Pública del Estado; y
 
-XV.- Evaluar, periódicamente, la relación que guarden los programas y presupuestos de las dependencias y entidades de la administración pública estatal, con los objetivos y prioridades del Plan Estatal de Desarrollo, así como los resultados de su ejecución, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y adecuar, en su caso, el Plan y los programas respectivos.
+XIV.- Proyectar, para su incorporación en la Ley de Ingresos y el Presupuesto de Egresos del Estado, las prevenciones y partidas relacionadas con los incentivos a que se refiere la Ley de Fomento Económico y estudiar y proyectar sus efectos en los ingresos del Estado.
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+C. En materia de egresos:
 
-XVI.- Establecer normas en materia de catálogo de puestos, tabuladores de sueldos, sistemas escalafonarios, pagos de remuneraciones, prestaciones, servicios personales y, en general, sobre administración, capacitación y desarrollo del personal de la administración pública directa; asimismo, representar legalmente al Gobernador del Estado en las controversias que se susciten entre éste y los trabajadores al servicio de las dependencias del Poder Ejecutivo.
+I.- Proyectar y calcular los egresos del Gobierno del Estado y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos y en la atención a las necesidades y políticas del desarrollo estatal;
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+II.- Formular y proponer al Gobernador del Estado, los proyectos de presupuesto de egresos del Estado y el programa financiero estatal;
 
-XVII.- Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y empleados de la administración pública directa, y llevar el registro de los nombres de las personas a quienes se les otorguen premios, estímulos o recompensas.
+III.- Autorizar a las dependencias y entidades de la Administración Pública Estatal, el ejercicio del gasto público asignado a sus programas, conforme a la calendarización respectiva;
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+IV.- Realizar los trámites y registros que requiera la vigilancia, seguimiento y evaluación del ejercicio del gasto público estatal y del presupuesto de egresos;
 
-XVIII.- Expedir las normas que requiera la aplicación de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal.
+V. Autorizar el pago de los gastos que afecten el presupuesto de egresos del Estado, de conformidad con los programas, presupuesto y calendarios financieros aprobados;
 
-XIX.- Establecer las normas y procedimientos para la organización y funcionamiento del Sistema Estatal de Información que le permitan establecer modelos alternativos de desarrollo para el Estado, así como coordinar dicho Sistema.
+VI.- Cubrir con cargo a las partidas respectivas del presupuesto de egresos del Estado, los pagos correspondientes al ejercicio del gasto público estatal;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+VII.- Autorizar las ampliaciones y reducciones de los recursos asignados a los programas a cargo de las dependencias y de las entidades incorporadas al presupuesto de egresos del Estado. Asimismo, opinar, a solicitud de la coordinadora de sector, sobre las modificaciones presupuestales de las entidades no incorporadas al presupuesto de egresos mencionado;
 
-XX.- Normar y coordinar los servicios de informática de las dependencias y entidades de la administración pública estatal, así como establecer las especificaciones técnicas para la selección, adquisición y arrendamiento de los equipos de computación relacionados con el Sistema Estatal de Información y vigilar el cumplimiento de las mismas.
+VIII.- Verificar que los subsidios y transferencias de fondos, realizados por el Ejecutivo del Estado, con cargo a su propio presupuesto, en favor de los municipios o de instituciones de los sectores social y privado, se apliquen en los términos establecidos en los programas aprobados al efecto;
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+IX.- Realizar o celebrar las operaciones en que se haga uso del crédito público;
 
-XXI.- Integrar la Cuenta Pública del Gobierno del Estado y someterla a la consideración del Gobernador para los efectos constitucionales correspondientes.
+X.- Normar la planeación, programación, presupuestación, ejecución y evaluación de las obras públicas que realicen o contraten las dependencias y entidades de la Administración Pública Estatal, conforme a las leyes respectivas; y
 
-XXII.- Integrar la información necesaria para la formulación del informe que, sobre el estado que guarda la administración pública, debe rendir el Gobernador del Estado.
+XI.- Evaluar, periódicamente, la relación que guarden los programas y presupuestos de las dependencias y entidades de la Administración Pública Estatal, con los objetivos y prioridades del Plan Estatal de Desarrollo, así como los resultados de su ejecución, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y adecuar, en su caso, el Plan y los programas respectivos.
 
-XXIII.- Asesorar a los Municipios del Estado en la instrumentación de métodos y sistemas de planeación, programación, presupuestación, evaluación e informática.
+D. En materia catastral y registral:
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+I.- Efectuar los estudios técnicos catastrales y opinar respecto de los valores de los predios localizados en el territorio del Estado cuando así lo soliciten los ayuntamientos, en los términos de los convenios respectivos;
 
-XXIV.- Autorizar en consulta con la Secretaría de la Contraloría General del Estado, los catálogos de cuentas para la contabilidad del gasto público estatal de las entidades, y consolidar los estados financieros que emanen de las contabilidades de las mismas.
+II.- Organizar y vigilar el ejercicio de las funciones del Registro Público de la Propiedad; y
 
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+III.- Resguardar en el Registro Público de la Propiedad las declaraciones patrimoniales de los servidores públicos que se reciban para su inscripción y registro, en los términos de la ley de la materia.
 
-XXV.- Las demás que le señalen las leyes y reglamentos vigentes.
+E.- En materia de bebidas alcohólicas:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+I.- Expedir las disposiciones administrativas de carácter general que establezcan los criterios de interpretación para la aplicación de las disposiciones de las leyes y reglamentos en materia de bebidas con contenido alcohólico, así como difundirlas por los medios de comunicación para su conocimiento pleno; y
+
+II. Expedir o cancelar, en su caso, las licencias para la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, almacenamiento, distribución, transportación, venta y consumo de bebidas con contenido alcohólico.
+
+F.- En materia de administración e informática:
+
+I.- Establecer normas, lineamientos y políticas en materia de administración, organización, remuneración, capacitación, profesionalización y desarrollo del personal de la administración pública directa;
+
+II.- Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la administración estatal directa y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
+
+III.- Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado;
+
+IV.- Realizar, de acuerdo con el programa respectivo, las adquisiciones y suministros de los bienes y servicios que requiera el funcionamiento de las dependencias, llevando a cabo las licitaciones de acuerdo a la ley de la materia, así como celebrar los contratos o actos relativos, con cargo a la partida presupuestal correspondiente de las mismas; y
+
+V.- Establecer las normas y procedimientos para la organización, coordinación y funcionamiento del Sistema Estatal de Información; coordinar los servicios de informática y de apoyo tecnológico a las dependencias; y asimismo, establecer las especificaciones técnicas para la selección, adquisición y arrendamiento de los equipos de computación relacionados con dicho sistema.
+
+G.- En materia de contabilidad, evaluación y estadística:
+
+I.- Integrar la Cuenta Pública del Gobierno del Estado y someterla a la consideración del Gobernador para los efectos constitucionales correspondientes;
+
+II.- Establecer y operar el sistema de contabilidad gubernamental del Gobierno del Estado, incluyendo, sin operar, la contabilidad de las entidades de la administración pública paraestatal;
+
+III.- Autorizar los catálogos de cuentas para la contabilidad del gasto público estatal de las entidades, y consolidar los estados financieros que emanen de las contabilidades de las mismas;
+
+IV.- Integrar la información necesaria para la formulación del informe que, sobre el estado que guarda la administración pública, debe rendir el Gobernador del Estado, así como para el informe sobre finanzas públicas trimestrales e informes de ejecución del Plan Estatal de Desarrollo; y
+
+V.- Determinar las directrices, estándares y procedimientos necesarios para la integración de información socioeconómica y financiera, con el objetivo de conformar índices estadísticos y elaborar el Anuario Estadístico en coordinación con el Instituto Nacional de Estadística, Geografía e Informática.
 
 ###### ARTICULO 25.
 
-A la Secretaría de Finanzas, le corresponden las facultades y obligaciones siguientes:
+(DEROGADO, B.O. 18 DE DICIEMBRE DE 2003)
 
-I.- Intervenir en el estudio de proyectos de leyes y disposiciones impositivas; formular y proponer al Gobernador del Estado los anteproyectos de las leyes anuales de ingresos del Estado.
-
-II.- Recaudar los impuestos, derechos, productos y aprovechamientos y las contribuciones especiales en los términos de la Ley de Ingresos del Estado y de las leyes fiscales correspondientes.
-
-III.- Determinar los criterios y montos de los estímulos fiscales, estudiar y proyectar sus efectos en los ingresos del Estado y evaluar los resultados conforme a sus objetivos.
-
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
-
-IV.- Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal que prevea la Secretaría de Planeación del Desarrollo y Gasto Público, la utilización razonable del crédito público y la sanidad financiera de la administración pública estatal.
-
-V.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO DE SONORA, B.O. 7 DE NOVIEMBRE DE 1991)
-
-VI.- (DEROGADA, B.O. 6 DE JULIO DE 1995)
-
-VII.- Ejecutar los convenios que en materia impositiva se celebren con la Federación o con los Municipios.
-
-VIII.- Vigilar el estricto cumplimiento de las leyes, reglamentos y otras disposiciones de carácter fiscal; practicar visitas de inspección y auditorias a causantes en los términos de los ordenamientos hacendarios correspondientes.
-
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
-
-IX.- Concentrar en la Pagaduría General del Gobierno del Estado, y custodiar por conducto de ésta, todos los fondos, valores e ingresos del Estado, así como los que se reciban para fines específicos, y establecer y operar los registros necesarios que provean la información de la concentración diaria.
-
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
-
-X.- Cubrir con cargo a las partidas respectivas del Presupuesto de Egresos del Estado, las órdenes de pago correspondientes que se expidan en el ejercicio del gasto público estatal.
-
-XI.- Representar a la Hacienda Pública por delegación del Gobernador del Estado, en los términos de la fracción XIX del Artículo 79 de la Constitución Política Local.
-
-XII.- Intervenir en los juicios que se ventilen ante cualquier tribunal, cuando tenga interés la Hacienda Pública del Estado.
-
-XIII.- Proporcionar la asesoría que le sea solicitada por los Ayuntamientos y los particulares, en materia de interpretación y aplicación de las leyes tributarias, y realizar una labor permanente de difusión y orientación fiscal.
-
-XIV.- Efectuar los estudios técnicos catastrales, fijar los valores de los predios localizados en el territorio del Estado y mantener actualizado el valor de los mismos, con apoyo de los Municipios en los términos de los convenios respectivos.
-
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
-
-XV.- Organizar y vigilar el ejercicio de las funciones del Registro Público de la Propiedad, sin perjuicio de las atribuciones constitucionales del Ministerio Público.
-
-> <small>(REFORMADA, B.O. 22 DE ABRIL DE 1993)</small>
-
-XVI.- Determinar y conducir la política inmobiliaria de la administración pública estatal y manejar el inventario de los bienes inmuebles del Estado y mantener al corriente el avalúo de los mismos. Asimismo, ejecutar las obras necesarias para la conservación y el mejoramiento de los edificios y monumentos de la competencia del Gobierno del Estado.
-
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
-
-XVII.- Elaborar las normas para la formulación, mantenimiento y actualización de los inventarios y la baja de bienes muebles del dominio del Estado, y para el control y operación de almacenes de los bienes muebles asignados a las dependencias.
-
-> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
-
-XVIII.- Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes inmuebles del dominio público.
-
-> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
-
-XIX.- Realizar los actos de administración y disposición de los bienes de dominio privado del Estado; y
-
-> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
-
-XX.- Las demás que le otorguen las leyes y reglamentos vigentes.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 26.
 
-A la Secretaría de la Contraloría General del Estado le corresponde (sic) las facultades y obligaciones siguientes:
+A la Secretaría de la Contraloría General le corresponden las facultades y obligaciones siguientes:
 
-I.- Planear y aplicar el Sistema de Control Gubernamental, así como organizarlo y coordinarlo.
+A. En materia de control y desarrollo administrativo:
 
-II.- Examinar y verificar el ejercicio del gasto público estatal y su congruencia con los presupuestos de egresos.
+I.- Planear, organizar, coordinar, instrumentar, difundir y aplicar en las dependencias y entidades de la Administración Pública Estatal, un Sistema Integral de Control y Desarrollo Administrativo;
 
-III.- Expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la administración pública estatal. La Secretaría, discrecionalmente, podrá requerir de las dependencias y entidades la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control.
+II.- Establecer, integrar, normar, organizar, coordinar, dirigir, ejecutar y evaluar los instrumentos y procedimientos de control en la Administración Pública Estatal;
 
-> <small>(REFORMADA, B.O. 22 DE ABRIL DE 1993)</small>
+III.- Coordinarse con los órganos de control y desarrollo administrativo, o sus correlativos de los Poderes Legislativo y Judicial del Estado, de los Poderes de la Federación, así como de los municipios del Estado, para el eficaz cumplimiento de sus atribuciones;
 
-IV.- Verificar y comprobar el cumplimiento de las normas de control, así como asesorar y apoyar a los órganos de control interno de las entidades de la Administración Pública Estatal.
+IV.- Promover el fortalecimiento de los órganos de control y evaluación gubernamental de los municipios;
 
-> <small>(REFORMADA, B.O. 22 DE ABRIL DE 1993)</small>
+V.- Compilar y difundir las disposiciones jurídicas, presupuestales y administrativas de carácter estatal y federal y fungir como instancia de apoyo de las dependencias, entidades y ayuntamientos, en lo relativo a las funciones de control relacionadas con los asuntos de su competencia; y
 
-V.- Establecer las bases generales que normen la realización de auditorías en las dependencias y entidades de la Administraci6n Pública Estatal, así como realizar las auditorías que se requieran a dichas dependencias y entidades, en estas últimas, en sustitución o apoyo a sus propios Órganos de control.
+VI.- Coordinar programas de capacitación dirigidos a otros niveles de gobierno que desempeñen funciones relacionadas con la competencia de esta Secretaría.
 
-VI.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la administración pública estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamientos, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del Poder Ejecutivo.
+B. En materia de desarrollo administrativo:
 
-> <small>(REFORMADA, B.O. 22 DE ABRIL DE 1993)</small>
+I.- Implementar mecanismos e instrumentos para el mejoramiento del desempeño de la gestión gubernamental;
 
-VII.- Realizar auditarías a las dependencias y entidades de la Administración Pública Estatal, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, pudiendo en el caso de las entidades, llevar a cabo las auditarías de referencia, a través de sus órganos de control interno.
+II.- Coordinar con las dependencias y entidades la realización de proyectos y acciones en materia de simplificación administrativa;
 
-> <small>(REFORMADA, B.O. 22 DE ABRIL DE 1993)</small>
+III.- Implementar, en el marco de las acciones del Sistema Integral de Control y Desarrollo Administrativo, un esquema de gestión electrónico orientado al aprovechamiento y uso de las tecnologías de la información y las comunicaciones;
 
-VIII.- Verificar y comprobar que las dependencias y entidades de la Administración Pública Estatal cumplan, en su caso, con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Estatal, pudiendo en el caso de las entidades, llevar a cabo dicha verificación y comprobación, a través de sus órganos de control interno.
+IV.- Definir y difundir las políticas y lineamientos para la elaboración de los reglamentos interiores que emita el Gobernador del Estado, así como de los manuales de organización, de procedimientos y de servicios al público de las dependencias y entidades y aprobar estos instrumentos de apoyo administrativo;
 
-IX.- Coordinarse con los órganos correspondientes de los Poderes Legislativo y Judicial del Estado, y con las dependencias y entidades de la administración pública estatal, para el eficaz cumplimiento de sus atribuciones.
+V.- Instrumentar, normar y operar el Programa para la Entrega y Recepción de la Administración Estatal, en la transición de una administración a otra, así como en los casos de cambios de titulares de dependencias, entidades y unidades administrativas, o de su estructura, durante una misma administración;
 
-X.- Designar a los auditores externos de las entidades, normar y controlar su actividad, y contratar los servicios de éstos con cargo al presupuesto de dichas entidades.
+C. En materia de control gubernamental:
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+I.- Examinar y verificar el ejercicio del gasto público estatal en el ámbito del Poder Ejecutivo, para comprobar que se efectúe de conformidad con las disposiciones aplicables, así como comprobar su congruencia con el presupuesto de egresos, y que se cumplan los objetivos y prioridades del Plan Estatal de Desarrollo y de los programas que deriven del mismo;
 
-XI.- Designar, en las entidades de la administración pública paraestatal, a los comisarios públicos propietarios y suplentes.
+II.- Realizar las funciones en materia de control de los recursos federales que se transfieren al Estado y a los municipios, en los términos que se convengan en los instrumentos de coordinación celebrados con la Federación y los municipios;
 
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+III.- Evaluar el desempeño de las dependencias y entidades en la ejecución de sus programas, acciones, objetivos y metas, a fin de mejorar su actuación en el cumplimiento de los mismos;
 
-XII.- Recibir para su registro y publicación, en caso de ser necesario, a juicio del vocal ejecutivo del Instituto, las declaraciones de situación patrimonial que deben presentar los servidores públicos del Estado y Municipios, así como verificar su autenticidad y practicar las investigaciones que fueren pertinentes, de acuerdo con las Leyes y Reglamentos aplicables para el caso.
+IV.- Designar a los enlaces con las dependencias para el ejercicio permanente de las atribuciones de control a su cargo;
 
-XIII.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias y entidades de la administración pública estatal, de acuerdo con las normas que emita.
+V.- Designar y contratar, en los casos que se requiera, a los auditores externos de las entidades, así como controlar y evaluar sus actividades, con cargo al presupuesto de dichas entidades;
 
-XIV.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas; aplicar las sanciones que correspondan en los términos que las leyes señalen y, en su caso, hacer las denuncias correspondientes ante el Ministerio Público, prestándole a éste, para tal efecto, la colaboración que le fuere requerida.
+VI.- Realizar, para el ejercicio de sus atribuciones, visitas, inspecciones, auditorías, revisiones, fiscalizaciones, verificaciones y demás actos sustantivos inherentes a su competencia, así como determinar las observaciones que se generen y ordenar a las dependencias y entidades la realización de las medidas preventivas y correctivas que se requieran, de conformidad con las disposiciones que regulan su marco de actuación;
 
-> <small>(REFORMADA, B.O. 19 DE JUNIO DE 1989)</small>
+VII.- Controlar, verificar, fiscalizar y evaluar el cumplimiento normativo, en su caso, de las dependencias y entidades, en lo relativo a: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios de cualquier naturaleza, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos de la Administración Pública Estatal; así como de las obligaciones derivadas en materia de planeación, programación, presupuestación, ingresos, egresos, financiamientos, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Poder Ejecutivo;
 
-XV.- Planear, organizar y coordinar, en el ámbito de la administración pública estatal, el Sistema Integral de Modernización y Simplificación Administrativa.
+VIII.- Instrumentar y operar los sistemas para el seguimiento, registro, control y vigilancia de las operaciones que en las materias de obras públicas y servicios relacionados con las mismas, adquisiciones, arrendamientos y servicios de cualquier naturaleza, lleve a cabo la Administración Pública Estatal, así como tramitar y resolver las inconformidades que presenten las personas que hubiesen participado en los procedimientos de licitación y contratación de las mismas;
 
-> <small>(REFORMADA, B.O. 19 DE JUNIO DE 1989)</small>
+IX.- Recibir para su registro, control y demás efectos legales las declaraciones de situación patrimonial de los servidores públicos del Estado, así como verificar su veracidad y practicar las investigaciones que resulten necesarias, conforme a la normatividad aplicable; y
 
-XVI.- Establecer, previo Acuerdo con el Gobernador del Estado, las directrices para la modernización y simplificación administrativas de carácter global, sectorial e institucional que orienten a los titulares de las dependencias y a los órganos de gobierno de las entidades, en la determinación y ejecución de las acciones que éstos autoricen, en el ámbito de sus competencias.
+X.- Conocer, investigar y, en su caso, sancionar los actos, omisiones o conductas imputables a los servidores públicos del Poder Ejecutivo del Estado, que constituyan responsabilidades administrativas, en términos de la ley en la materia y, de ser necesario, formular las denuncias correspondientes ante el Ministerio Público o ante las autoridades que se estimen competentes, prestándoles la colaboración que le fuere requerida.
 
-> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 1989)</small>
+D. En materia de participación social y vinculación:
 
-XVII.- Definir las políticas y lineamientos para la elaboración de los reglamentos interiores y de los manuales de organización, de procedimientos y de servicios al público de las dependencias.
+I. Diseñar y ejecutar las estrategias y mecanismos de vinculación que permitan organizar, capacitar e incorporar a grupos de la sociedad interesados en participar dentro de un marco de corresponsabilidad en la planeación, control y evaluación de las acciones y programas del Gobierno del Estado, extendiendo su cobertura al ámbito municipal, en términos de los instrumentos de coordinación que se celebren;
 
-> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 1989)</small>
+II.- Instrumentar un esquema de contraloría social a través de la creación de comités que coadyuven como órganos de consulta en las atribuciones de esta Secretaría;
 
-XVIII.- Someter a la consideración del Gobernador del Estado, para su aprobación, las propuestas de reglamentos interiores y manuales de organización que formulen los titulares de las dependencias, así como las modificaciones respectivas.
+III.- Operar un sistema de atención a quejas, denuncias, peticiones, sugerencias o reconocimientos que se formulen por cualquier ciudadano en el desempeño o actuación de los servidores públicos, la prestación de servicios o el trámite de asuntos ante las dependencias y entidades de la Administración Pública Estatal; y
 
-> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 1989)</small>
+IV.- Instrumentar mecanismos para evaluar permanentemente la calidad e impacto de los servicios que prestan las dependencias y entidades de la Administración Pública Estatal, proponiendo la implementación de acciones y medidas para su mejoramiento o corrección.
 
-XIX.- Proporcionar asesoría a los ayuntamientos, en las materias de control gubernamental y de modernización y simplificación administrativas, cuando así se lo soliciten.
+E. En materia de transparencia y combate a la corrupción:
 
-> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 1989)</small>
+I.- Ejecutar estrategias y líneas de acción tendientes a promover el aprovechamiento, explotación y desarrollo de tecnologías y herramientas informáticas que permitan la difusión de la información pública gubernamental;
 
-XX.- Las demás que le señalen las leyes y reglamentos vigentes.
+II.- Formular, difundir e impulsar una cultura de transparencia, integridad y legalidad, mediante la vinculación y comunicación entre la ciudadanía y el Gobierno del Estado, que fortalezca los principios y valores fundamentales para formar servidores públicos y ciudadanos que respeten las leyes y rechacen actos de corrupción; y
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+III.- Crear y mantener actualizado un registro de servidores públicos del Estado que hayan sido sancionados con motivo de algún acto u omisión que constituya responsabilidad administrativa, así como de personas que incumplan sus obligaciones derivadas de cualquier acto jurídico celebrado con las dependencias y entidades de la Administración Pública Estatal.
+
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 27.
 
 A la Secretaría de Educación y Cultura le corresponden las facultades y obligaciones siguientes:
 
-I.- Proponer las políticas y ejecutar los programas relativos al fomento de la educación, la cultura, la recreación y la investigación.
+A. En materia de operación educativa:
 
-II.- Prestar el servicio público de la educación, sin perjuicio de la concurrencia de los Municipios y de la Federación, conforme a las leyes y reglamentos aplicables.
+I.- Prestar el servicio público de educación, sin perjuicio de la concurrencia de los municipios y de la Federación, conforme a las leyes y reglamentos aplicables;
 
-III.- Proponer y ejecutar, en su caso, los acuerdos de coordinación que en materia de educación y cultura celebre el Ejecutivo del Estado con los Gobiernos Federal y Municipales, así como los convenios de concertación de acciones que en la misma materia se celebren con los sectores privado y social.
+II.- Vigilar que en los planteles educativos del Estado y de los particulares, se cumpla estrictamente el artículo 3º. de la Constitución General de la República, la Constitución Política Local, la Ley de Educación para el Estado y las demás disposiciones legales y reglamentarias relacionadas con la educación preescolar, primaria, secundaria, telesecundaria y normal;
 
-IV.- Vigilar que en los planteles educativos del Estado y de los particulares, se cumpla estrictamente el Artículo 3o. de la Constitución General de la República, la Constitución Política Local, la Ley de Educación del Estado y las demás disposiciones legales y reglamentarias relacionadas con la educación preescolar, primaria, secundaria, telesecundaria y normal.
+III.- Promover Programas relativos al desarrollo de los pueblos y comunidades indígenas del Estado, procurando la preservación de sus valores culturales; y
 
-V.- Determinar, de conformidad con las disposiciones aplicables, los requisitos a que deberá sujetarse la incorporación de escuelas particulares al Sistema Educativo Estatal y ejercer la supervisión que corresponda.
+IV.- Promover Programas y contenidos relativos a la equidad de género y de integración social de personas con capacidades diferentes.
 
-VI.- Mantener, por sí o en coordinación con los Gobiernos Federal y Municipales, programas permanentes de educación para adultos.
+B. En materia de coordinación y política educativa:
 
-VII.- Promover programas relativos al desarrollo de las comunidades indígenas del Estado, procurando la preservación de sus valores culturales.
+I.- Determinar, de conformidad con las disposiciones aplicables, los requisitos a que deberá sujetarse la incorporación de escuelas particulares al Sistema Educativo Estatal y ejercer la supervisión que corresponda;
 
-VIII.- Coordinar y promover con la Federación, los Municipios y los particulares, actividades educativas tendientes al conocimiento de los diversos ecosistemas de la entidad, así como a la preservación, conservación y el uso social del entorno físico y de los recursos naturales.
+II.- Promover y fomentar la educación superior;
 
-IX.- Coordinar con las instituciones de educación superior el servicio social de pasantes, la orientación vocacional y otros aspectos educativos y culturales.
+III.- Mantener, por si o en coordinación con los Gobiernos Federal y Municipales, programas permanentes de educación para adultos;
 
-X.- Promover y fomentar la educación superior.
+IV.- Coordinar con las instituciones de educación superior el servicio social de pasantes, la orientación vocacional y otros aspectos educativos y culturales; y
 
-XI.- Promover y fomentar el desarrollo de la investigación científica y tecnológica en el Estado.
+V.- Vigilar el cumoplimiento de la (sic) leyes y reglamentos en materia de ejercicio de las profesiones en el Estado.
 
-XII.- Promover, organizar y supervisar programas de capacitación y adiestramiento, en coordinación con las dependencias y entidades de la administración pública estatal, los Gobiernos Federal y Municipales y con los miembros de los sectores social y privado interesados.
+C. En materia de fomento a la cultura, investigación, recreación y deporte:
 
-XIII.- Conservar y desarrollar el acervo cultural del Estado, en coordinación con el sector público y en concertación con los sectores social y privado.
+I.- Proponer las políticas y ejecutar los programas relativos al fomento de la educación, la cultura, la recreación, la investigación y el deporte;
 
-XIV.- Fomentar las actividades que tiendan al fortalecimiento de los valores regionales y a la afirmación de nuestra identidad nacional.
+II.- Coordinar y promover actividades educativas tendientes al conocimiento de los diversos ecosistemas de la Entidad, así como a la preservación, conservación y el uso social del entorno físico y de los recursos naturales con las dependencias y entidades de la Administración Pública Estatal, los Gobiernos Federal y Municipales y con los miembros de los sectores social y privado;
 
-XV.- Promover la creación de bibliotecas, organizando y administrando las que correspondan al Gobierno Estatal.
+III.- Promover y fomentar el desarrollo de la investigación científica y tecnológica en el Estado;
 
-XVI.- Fomentar el establecimiento de museos y hemerotecas en la Entidad.
+IV.- Promover, organizar y supervisar programas de capacitación y adiestramiento, en coordinación con las dependencias y entidades de la Administración Pública Estatal, los Gobiernos Federal y Municipales y con los miembros de los sectores social y privado;
 
-XVII.- Fomentar las relaciones de orden cultural con el Gobierno Federal, con los Gobiernos de otras Entidades Federativas y con los Ayuntamientos.
+V.- Conservar y desarrollar el acervo cultural del Estado, en coordinación con las demás dependencias y entidades de la administración pública estatal y en concertación con los sectores social y privado;
 
-XVIII.- Impulsar la edición y distribución de obras científicas, históricas y literarias, sobre temas de interés para el Estado.
+VI.- Fomentar las actividades que tiendan al fortalecimiento de los valores regionales y a la afirmación de nuestra identidad nacional;
 
-XIX.- Organizar y desarrollar la educación artística en el medio escolar.
+VII.- Promover la creación de bibliotecas y hemerotecas, organizando y administrando las que correspondan al Gobierno Estatal;
 
-XX.- Promover y organizar actividades de recreación y aprovechamiento del tiempo libre, tendientes a estimular la formación integral de la niñez y la juventud sonorenses.
+VIII.- Fomentar el establecimiento de museos en la Entidad;
 
-XXI.- Coordinar, fomentar y dirigir la enseñanza y práctica del deporte en el medio escolar, y organizar la participación de los alumnos en eventos estatales, regionales y nacionales.
+IX.- Fomentar las relaciones de orden cultural con el Gobierno Federal, con los gobiernos de otras entidades federativas y con los ayuntamientos;
 
-XXII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
+X.- Impulsar la edición y distribución de obras científicas, históricas y literarias, sobre temas de interés para el Estado;
 
-XXIII.- Las demás que le señalen las leyes y reglamentos vigentes.
+XI.- Organizar y desarrollar la educación artística en el medio escolar;
+
+XII.- Promover y organizar actividades de recreación y aprovechamiento del tiempo libre, tendientes a estimular la formación integral de la niñez y la juventud sonorenses; y
+
+XIII.- Coordinar, fomentar y dirigir la enseñanza y práctica del deporte en el medio escolar, y organizar la participación de los alumnos en eventos estatales, regionales y nacionales.
+
+D. En materia de ejecución de normatividad educativa y cultural:
+
+I.- Proponer y ejecutar, en su caso, los acuerdos de coordinación que en materia de educación y cultura celebre el Ejecutivo del Estado con los Gobiernos Federal y Municipales, así como los convenios de concertación de acciones que en la misma materia se celebren con los sectores privado y social.
+
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 28.
 
 A la Secretaría de Salud Pública le corresponden las facultades y obligaciones siguientes:
 
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 1997)</small>
+A. En materia de servicios de salud;
 
-I.- Proponer las políticas y conducir y evaluar los programas de asistencia social, servicios médicos y salubridad local.
+I.- Proponer las políticas y conducir y evaluar los programas de servicios médicos, asistencia social y salubridad local;
 
-II.- Preservar, mejorar y rehabilitar las condiciones de salud de los habitantes del Estado.
+II.- Preservar, mejorar y rehabilitar las condiciones de salud de los habitantes del Estado;
 
-III.- Planear, normar, establecer, coordinar y evaluar un Sistema Integral de Servicios de Salud y Asistencia para el Estado, a partir de los servicios de salud de la administración pública estatal en coordinación con instituciones de salud del Gobierno Federal e instituciones privadas, descentralizadas y sociales.
+III.- Planear, normar, establecer, coordinar y evaluar un Sistema Integral de Servicios de Salud para el Estado, a partir de los servicios de salud de la Administración Pública Estatal en coordinación con instituciones de salud del Gobierno Federal e instituciones privadas, descentralizadas y sociales;
 
-IV.- Planear, promover, apoyar y vigilar la impartición de atención médica y sus servicios auxiliares de diagnóstico terapéutico y de asistencia social que realicen instituciones públicas, privadas y sociales en los términos de las leyes respectivas.
+IV.- Planear, promover, apoyar y vigilar la impartición de atención médica y sus servicios auxiliares de diagnóstico terapéutico que realicen instituciones públicas, privadas y sociales en los términos de las leyes respectivas;
 
-V.- Proponer al Ejecutivo los acuerdos de coordinación de acciones relativas a los servicios de salud, por lo que toca a la prevención y control de enfermedades, mejoramiento y rehabilitación de la salud, investigación médica y asistencia social, así como la concertación de los convenios y contratos que se requieran para la prestación de los servicios de salud.
+V.- Proponer al Ejecutivo los acuerdos de coordinación de acciones relativas a los servicios de salud, por lo que toca a la prevención y control de enfermedades, mejoramiento y rehabilitación de la salud, investigación médica así como la concertación de los convenios y contratos que se requieran para la prestación de los servicios de salud;
 
-VI.- Vigilar el cumplimiento de la Ley General de Salud y de la Ley de Salud para el Estado de Sonora.
+VI.- Establecer, coordinar y ejecutar con la participación de otras instituciones asistenciales programas para la asistencia, prevención, atención y tratamiento de personas con capacidades diferentes;
 
-VII.- Promover el establecimiento del Sistema Estatal de Información Básica en materia de salud, en el que participen todas las dependencias y entidades que realicen servicios de salud en el Estado.
+VII.- Asesorar y apoyar a los municipios de la Entidad que lo soliciten, en la instrumentación de medidas y acciones en materia de atención médica y demás relacionadas con la salubridad, cuya ejecución esté a cargo de los ayuntamientos;
 
-VIII.- Realizar una labor permanente de difusión y orientación hacia la población, en materia de salud.
+VIII.- Promover el establecimiento del Sistema Estatal de Información Básica en materia de salud, en el que participen todas las dependencias y entidades que realicen servicios de salud en el Estado;
 
-IX.- Representar al Ejecutivo en los consejos directivos o juntas de gobierno de las entidades de la administración pública que realicen actividades de salud en el Estado.
+IX.- Realizar una labor permanente de difusión y orientación hacia la población, en materia de salud;
 
-X.- Regular la prevención social que corresponde al Estado, en el ejercicio de la tutela a niños hasta de seis años.
+X.- Establecer normas que deben orientar los servicios de asistencia social que presten los sectores público, social y privado y proveer a su cumplimiento; y
 
-XI.- Establecer las normas que deben orientar los servicios de asistencia social que presten los sectores público, social y privado y proveer a su cumplimiento.
+XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado.
 
-XII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
+B. En materia de salubridad local:
 
-XIII.- Promover, vigilar y supervisar a las instituciones de beneficencia privada, en los términos de las leyes y reglamentos aplicables.
+I.- Dictar la norma técnica en materia de salubridad local y verificar su cumplimiento;
 
-> <small>(REFORMADA, B.O. 7 DE ENERO DE 1991)</small>
+II.- Llevar a cabo el control sanitario de la salubridad local, ordenando las medidas de seguridad que correspondan imponiendo las sanciones autorizadas por la Ley;
 
-XIV.- Ejercer las atribuciones que le confiera la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora.
+III.- Proponer al Ejecutivo Estatal los acuerdos y convenios necesarios, a fin de descentralizar a los ayuntamientos funciones, servicios y establecimientos en materia de salubridad, en los términos fijados por la Ley de Salud para el Estado de Sonora;
 
-XV.- (DEROGADA, B.O. 10 DE MARZO DE 1997)
+IV.- Coordinar acciones preventivas y de control para el cuidado del medio ambiente cuando pueda resultar afectada la salud de la población, con las demás dependencias y entidades competentes; y
 
-XVI.- Dictar la norma técnica en materia de salubridad local y verificar su cumplimiento.
+V.- Promover y coordinar las campañas sanitarias tendientes a prevenir y erradicar enfermedades y epidemias en el territorio del Estado.
 
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 1997)</small>
-
-XVII.- Llevar a cabo el control sanitario de la salubridad local, ordenando las medidas de seguridad que correspondan impidiendo las sanciones autorizadas en la Ley.
-
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 1997)</small>
-
-XVIII.- Tramitar y dictaminar los recursos que se interpongan en contra de las resoluciones dictadas en materia de control sanitario de la salubridad local y, en su caso, resolver dichos recursos.
-
-XIX.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado.
-
-XX.- Proponer al Ejecutivo Estatal los acuerdos y convenios necesarios, a fin de descentralizar a los Ayuntamientos acciones en materia de salubridad y asistencia social, en los términos fijados por la Ley de Salud para el Estado de Sonora.
-
-XXI.- Asesorar y apoyar a los Municipios de la Entidad que lo soliciten, en la instrumentación de medidas y acciones en materia de atención médica, asistencia social y demás relacionadas con la salubridad, cuya ejecución esté a cargo de los Ayuntamientos.
-
-XXII.- Promover, organizar y participar en conferencias, convenciones, encuentros y congresos relacionados con el derecho a la protección de la salud.
-
-XIII.- Las demás que le confieran las leyes y reglamentos vigentes.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 29.
 
 A la Secretaría de Infraestructura Urbana y Ecología le corresponden las facultades y obligaciones siguientes:
 
-I.- Proponer las políticas y ejecutar los programas relativos a asentamientos humanos, equipamiento urbano, agua potable y alcantarillado, vivienda, ecología y comunicaciones.
+A. En materia de desarrollo urbano e infraestructura:
 
-II.- Promover y vigilar el desarrollo equilibrado de los asentamientos humanos del Estado, así como ejecutar las acciones tendientes al mejoramiento de las zonas deprimidas y marginadas.
+I.- Proponer las políticas y ejecutar los programas relativos a asentamientos humanos, equipamiento urbano y vivienda;
 
-III.- Ejercer las atribuciones que le confiera la Ley de Desarrollo Urbano del Estado de Sonora.
+II.- Promover y vigilar el desarrollo equilibrado de los asentamientos humanos del Estado, así como ejecutar las acciones tendientes al mejoramiento de las zonas deprimidas y marginadas;
 
-IV.- Coadyuvar con los Ayuntamientos, en la definición de las normas a que deban sujetarse los proyectos que realicen los sectores público, privado y social, que guarden relación con el desarrollo urbano.
+III.- Coadyuvar con los ayuntamientos, en la definición de las normas a que deban sujetarse los proyectos que realicen los sectores público, privado y social, que guarden relación con el desarrollo urbano;
 
-V.- Fomentar la organización de la población para satisfacer sus necesidades de suelo urbano y vivienda y, en su caso, de infraestructura básica que sea competencia del Gobierno del Estado.
+IV.- Fomentar la organización de la población para satisfacer sus necesidades de suelo urbano y vivienda y, en su caso, de infraestructura básica que sea competencia del Gobierno del Estado;
 
-VI.- Prever las necesidades de tierra para vivienda y para el desarrollo urbano, así como regular, en coordinación con los Gobiernos Federal y Municipales, el sistema tendiente a satisfacer dichas necesidades.
+V.- Promover la satisfacción de las necesidades de suelo para vivienda y para el desarrollo urbano, así como regular, en coordinación con los Gobiernos Federal y Municipales, el sistema tendiente a satisfacer dichas necesidades;
 
-VII.- Formular los programas estatales sectoriales de desarrollo urbano y vivienda, y someterlos a la aprobación del Gobernador del Estado.
+VI.- Formular los programas estatales sectoriales de desarrollo urbano y vivienda, y someterlos a la aprobación del Gobernador del Estado; y
 
-VIII.- Promover y ejecutar, en su caso, las acciones de vivienda y de equipamiento urbano.
+VII.- Promover y ejecutar, en su caso, las acciones de equipamiento urbano y vivienda que sean de su competencia.
 
-> <small>(REFORMADA, B.O. 7 DE ENERO DE 1991)</small>
+B. En materia de ecología y medio ambiente:
 
-IX.- Ejercer las atribuciones que le confiera la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora.
+I.- Proponer las políticas y ejecutar los programas relativos a la ecología y medio ambiente;
 
-> <small>(REFORMADA, B.O. 7 DE ENERO DE 1991)</small>
+II.- Promover la participación y responsabilidad de la sociedad en la formulación de la política ecológica, la aplicación de sus instrumentos, en acciones de información y vigilancia y, en general en las acciones ecológicas que emprenda el Estado;
 
-X.- Promover la participación y responsabilidad de la sociedad en la formulación de la política ecológica, la aplicación de sus instrumentos, en acciones de información y vigilancia y, en general en las acciones ecológicas que emprende el Estado.
+III.- Realizar, en los términos de los acuerdos de coordinación que se celebren, actos de inspección y vigilancia, para la verificación del cumplimiento de la Ley General del Equilibrio Ecológico y la Protección del Ambiente para el Estado de Sonora; y
 
-> <small>(REFORMADA, B.O. 7 DE ENERO DE 1991)</small>
+IV. Fungir como secretario técnico de la Comisión Estatal de Ecología.
 
-XI.- Fungir como secretariado técnico de la Comisión Estatal de Ecología.
+C. En materia de obra pública:
 
-> <small>(REFORMADA, B.O. 7 DE ENERO DE 1991)</small>
+I.- Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Sonora y demás disposiciones aplicables; y
 
-XII.- Realizar, en los términos de los acuerdos de coordinación que se celebren, actos de inspección y vigilancia, para la verificación del cumplimiento de la Ley General del equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora.
+II.- Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería necesaria para ejecutar las obras públicas, cumpliendo con lo previsto en las disposiciones legales y reglamentarias aplicables.
 
-XIII.- Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Sonora y demás disposiciones aplicables.
+D. En materia de comunicaciones y transportes:
 
-XIV.- (DEROGADA, B.O. 22 DE ABRIL DE 1993)
+I.- Proponer las políticas y ejecutar, en su caso, las acciones relativas a comunicaciones y transportes;
 
-XV.- Organizar y fomentar la investigación relacionada con el desarrollo urbano, la vivienda, la ecología y las comunicaciones.
+E. En materia de investigación y asesoría:
 
-XVI.- Asesorar técnicamente a los Municipios en materia de desarrollo urbano, vivienda, ecología, comunicaciones y en la realización de obras públicas, cuando así lo soliciten los Ayuntamientos.
+I.- Organizar y fomentar la investigación relacionada con el desarrollo urbano, la ecología y medio ambiente, las comunicaciones y el transporte; y
 
-XVII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
+II.- Asesorar técnicamente a los municipios en materia de desarrollo urbano, ecología y medio ambiente, comunicaciones, transporte y en la realización de obras públicas, cuando así lo soliciten los ayuntamientos.
 
-XVIII.- Las demás que le señalen las leyes y reglamentos vigentes.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 30.
 
-A la Secretaría de Desarrollo Económico y Productividad le correspondan las facultades y obligaciones siguientes:
+A la Secretaría de Economía le corresponden las facultades y obligaciones siguientes:
 
-I.- Proponer las políticas y ejecutar los programas relativos al fomento de la industria, el comercio, la minería y la pesca.
+A. En materia de fomento del desarrollo económico:
 
-II.- Asesorar a los sectores social y privado, en el establecimiento de nuevas industrias y en la generación de nuevas fuentes de trabajo, así como procurar que la ubicación de las mismas se sujete a los programas y disposiciones legales en materia de desarrollo urbano.
+I.- Proponer las políticas y ejecutar los programas relativos al desarrollo económico del Estado en las ramas de la industria, el comercio, los servicios, la minería y el turismo, de conformidad con los planes nacional y estatal de desarrollo y las leyes de la materia;
 
-III.- Promover, orientar y fomentar el desarrollo de la industria, en especial, la industria pequeña, mediana y rural, así como su infraestructura.
+II.- Promover el crecimiento económico de las regiones de la Entidad sobre bases de desarrollo equilibrado y sustentable, considerando sus ventajas competitivas;
 
-IV.- Fomentar y organizar la producción económica del artesanado y de las industrias familiares, así como su comercialización.
+III.- Fomentar la creación de condiciones económicas y de infraestructura necesarias para el establecimiento de empresas en el Estado;
 
-V.- Fomentar el desarrollo del pequeño comercio.
+IV.- Proponer proyectos que propicien el desarrollo económico y equilibrado de los centros de población;
 
-VI.- Promover y coordinar la distribución y comercialización de productos, así como el abastecimiento de los consumos básicos de la población.
+V.- Promover la creación de fuentes de empleo mediante el fomento del desarrollo de la industria, del comercio, de la micro, pequeña y mediana empresa, así como la creación de parques industriales;
 
-VII.- Auxiliar a las autoridades federales en la vigilancia del estricto cumplimiento de la política de precios, particularmente en lo que se refiere a artículos de consumo generalizado y de uso popular.
+VI.- Asesorar a los sectores social y privado, en el establecimiento de nuevas empresas;
 
-VIII.- Fomentar y apoyar las acciones e inversiones tendientes a la racional explotación de los recursos minerales.
+VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria, del turismo y de la minería;
 
-IX.- Promover y apoyar el desarrollo de la infraestructura pesquera, la racional explotación y el consumo de los recursos pesqueros.
+VIII.- Evaluar anualmente la aplicación de los incentivos que se otorguen conforme a la Ley de Fomento Económico y comunicar sus resultados a la Secretaría de Hacienda y al Titular del Poder Ejecutivo;
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+IX.- Promover y coordinar la distribución y comercialización de productos, así como el abastecimiento de los consumos básicos de la población;
 
-X.- Promover, orientar y fomentar el desarrollo de una política estatal de productividad en el Estado, apoyando la realización de estudios y proyectos que tiendan a este objeto, considerando todas las formas de organización social.
+X.- Integrar y proporcionar información sobre mercados internacionales, proveedores nacionales e inversionistas potenciales para el Estado, así como mantener actualizada la información socioeconómica para proyectos de factibilidad de inversiones;
 
-XI.- Promover y apoyar la investigación tecnológica industrial, minera y pesquera, así como fomentar su divulgación.
+XI.- Elaborar estudios sobre el mercado de trabajo, proporcionar los servicios de información relacionados con el mismo, desarrollar programas y proyectos orientados a generar fuentes de empleo y promover la capacitación y adiestramiento de los trabajadores, de acuerdo a los requerimientos de calidad y servicio de los sectores industrial, comercial, de servicios, minero y turístico de la Entidad;
 
-XII.- Promover que los créditos destinados a la industria, minería, pesca y comercio se orienten hacia los renglones prioritarios, señalados en el Plan Estatal de Desarrollo.
+XII.- Promover, fomentar y fortalecer entre nuestro Estado y otras Entidades de la Federación, Arizona y otros Estados de la Unión Americana y a nivel internacional, el desarrollo de las relaciones económicas, comerciales, culturales e industriales, así como de aquellos asuntos y programas que sean de interés común;
 
-XIII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter industrial, comercial, artesanal, minero y pesquero.
+XIII.- Asesorar a los municipios que así lo soliciten, en materia industrial, comercial y de servicios, minera, artesanal y turística;
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+XIV.- Promover programas y acciones de vivienda;
 
-XIV.- Asesorar a los municipios en materia industrial, comercial, minera, pesquera y artesanal, cuando así lo soliciten los ayuntamientos.
+XV.- Ejercer las atribuciones y compromisos que en materia industrial, comercial, artesanal, minera, turística y de servicios, se establezcan para el Gobierno del Estado en los convenios y acuerdos de coordinación que celebre con la Federación o con los municipios de la Entidad; y
 
-XV.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
+XVI.- Promover la participación de la sociedad, en la ejecución de los programas que en materia de desarrollo económico instrumente el Gobierno del Estado.
 
-XVI.- Las demás que le señalen las leyes y reglamentos vigentes.
+B. En materia de turismo:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE MARZO DE 1988)</small>
+I.- Promover en coordinación con las autoridades federales competentes, las zonas de desarrollo turístico del Estado, así como la formulación de las declaratorias respectivas;
+
+II.- Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, en coordinación con las autoridades competentes;
+
+III.- Fomentar y promover el turismo social y rural, en coordinación con las dependencias y entidades del sector público y con la participación de los sectores social y privado;
+
+IV.- Establecer, operar y optimizar un sistema de información y orientación al público, así como la recepción y atención de quejas y sugerencias, en relación con los servicios turísticos que se prestan en el Estado;
+
+V.- Colaborar con las autoridades federales competentes, en la vigilancia de la correcta aplicación de los precios autorizados o registrados, así como de la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables;
+
+VI.- Formular y difundir la información turística del Gobierno del Estado y coordinar la publicidad que en esta materia realicen las dependencias y entidades estatales, de conformidad con los lineamientos establecidos al respecto, así como promover la que efectúan los sectores social y privado;
+
+VII.- Promover y apoyar el desarrollo de la infraestructura turística y estimular la participación de los sectores de la población involucrados; y
+
+VIII.- Promover la formación de recursos humanos y la capacitación de los existentes, con objeto de elevar la calidad en la prestación de los servicios turísticos.
+
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 31.
 
-A la Secretaría de Fomento Agrícola le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura le corresponden las facultades y obligaciones siguientes:
 
-I.- Proponer las políticas y ejecutar los programas tendientes a fomentar y asesorar técnicamente la producción agrícola, frutícola y forestal.
+A. En materia de planeación y desarrollo sectorial:
 
-II.- Apoyar los programas de investigación agrícola, frutícola y forestal, así como fomentar la divulgación de la tecnología y de los sistemas que mejoren la producción.
+I.- Proponer las políticas y ejecutar los programas tendientes a fomentar la producción agrícola, pecuaria, forestal, pesquera y acuícola en el Estado;
 
-III.- Fomentar la organización de los productores agrícolas, frutícolas y forestales, en torno a los programas del Estado.
+II.- Establecer las políticas, estrategias, objetivos y normas para la debida operación de los programas que con relación al uso y abastecimiento del agua y sus bienes inherentes haya transferido o transfiera la Federación al Estado;
 
-IV.- Promover que el crédito agrícola, frutícola y forestal se oriente hacia los renglones prioritarios, marcados por el Plan Estatal de Desarrollo.
+III.- Promover y orientar los créditos agrícolas, pecuarios, forestales, pesqueros y acuícolas hacia los objetivos y metas prioritarios marcados por el Plan Estatal de Desarrollo, así como impulsar mecanismos novedosos de garantías;
 
-V.- Procurar que los precios de garantía y de mercado para los productos agrícolas, frutícolas y forestales, se fijen con equidad.
+IV.- Promover y apoyar la industrialización y la comercialización de los productos agrícolas, pecuarios, forestales, pesqueros y acuícolas generados en la Entidad, en coordinación con la Secretaría de Economía;
 
-VI.- Fomentar y apoyar la conservación y preservación de suelos agrícolas y áreas forestales.
+V.- Desarrollar canales y esquemas de comercialización eficientes que propicien la rentabilidad de las actividades primarias mediante mecanismos de promoción colectiva, cobertura de precios y apoyos transparentes;
 
-VII.- Formular el inventario de los recursos e infraestructura agrícola, frutícola y forestal existentes en el Estado, promoviendo su explotación racional y eficiente.
+VI.- Proponer y apoyar la realización de programas para la ejecución de proyectos de obras de infraestructura hidráulica;
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+VII.- Promover programas tendientes a la integración de actividades económicas para el desarrollo rural sustentable del Estado, que permitan la generación de empleos; y
 
-VIII.- Promover y apoyar la industrialización y comercialización de los productos agrícolas, frutícolas y forestales que se generen en la Entidad, en coordinación con la Secretaría de Desarrollo Económico y Productividad.
+VIII.- Organizar y participar en eventos que promuevan el desarrollo y la competitividad de las actividades hidráulicas, agrícolas, pecuarias, forestales, pesqueras y acuícolas en el Estado, así como en las misiones orientadas a la consolidación y apertura de mercados.
 
-IX.- Fomentar y controlar los servicios agrícolas que establezca el Estado, tales como: distribución de semillas mejoradas, fertilizantes, árboles frutales y centrales de maquinaria, entre otros.
+B. En materia de asistencia y servicios:
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+I.- Fomentar, conforme a los programas en la materia, la organización, capacitación y asistencia técnica de los productores agrícolas, pecuarios, forestales, pesqueros y acuícolas;
 
-X.- Fomentar programas de reforestación en coordinación con la Secretaría de Infraestructura Urbana y Ecología.
+II.- Asesorar a los municipios y organismos de productores que los soliciten, en materia hidráulica, agrícola, pecuaria, forestal, pesquera y acuícola;
 
-XI.- Proponer, apoyar y ejecutar la realización de obras de infraestructura agrícola, en cooperación con el Gobierno Federal, los Municipios y las organizaciones de productores.
+III.- Promover un sistema para la certificación de origen y calidad de los productos agrícolas, pecuarios, pesqueros y acuícolas; y
 
-XII.- Coordinar la participación estatal en los comités directivos de los Distritos de Desarrollo Rural que operan en el Estado.
+IV.- Organizar y fomentar servicios relacionados con las actividades agrícolas, pecuarias, forestales, pesqueras y acuícolas, considerando la disponibilidad de recursos naturales y los productos generados en cada región, así como la situación del mercado.
 
-XIII.- Vigilar el cumplimiento y aplicación de la Ley de Aguas del Estado de Sonora.
+C. En materia de desarrollo de infraestructura:
 
-XIV.- Realizar campañas permanentes para prevenir y combatir las plagas y enfermedades que atacan a las especies vegetales del Estado.
+I.- Proponer y apoyar el desarrollo de infraestructura hidráulica, agrícola, pecuaria, pesquera y acuícola de la Entidad, en coordinación con los gobiernos federal y municipales y en concertación con las organizaciones de productores;
 
-XV.- Organizar y patrocinar concursos, ferias y exposiciones agrícolas, frutícolas y forestales.
+II.- Apoyar los programas de investigación agrícola, pecuaria, forestal, pesquera y acuícola, así como fomentar la divulgación y aplicación de la tecnología y de los sistemas que mejoran la productividad;
 
-XVI.- (DEROGADA, B.O. 28 DE MARZO DE 1988)
+III.- Fomentar programas reproductivos para elevar la calidad genética en la producción agrícola, pecuaria, pesquera y acuícola;
 
-XVII.- (DEROGADA, B.O. 28 DE MARZO DE 1988)
+IV.- Fomentar y apoyar la conservación, preservación y uso racional de los recursos hidráulicos, suelos agrícolas, agostaderos, áreas forestales y recursos pesqueros y acuícolas, en coordinación con las dependencias y entidades estatales, federales y municipales competentes; y
 
-XVIII.- (DEROGADA, B.O. 28 DE MARZO DE 1988)
+V.- Promover y contribuir en la conservación de flora y fauna marinas y dulceacuícolas, así como fomentar su desarrollo.
 
-XIX.- Participar en los programas de comercialización de los productos agropecuarios del sector social.
+D. En materia de coordinación:
 
-> <small>(REFORMADA, B.O. 28 DE MARZO DE 1988)</small>
+I.- Ejercer las funciones, ejecutar y operar las obras y prestar los servicios públicos que asuma el Estado por virtud de convenios o acuerdos de coordinación celebrados con el Ejecutivo Federal o los ayuntamientos, en materia hidráulica, agrícola, pecuaria, forestal, pesquera o acuícola, cuando así se establezca en dichos instrumentos;
 
-XX.- Asesorar a los municipios y organismos de productores que lo soliciten, en materia agrícola, frutícola y forestal.
+II.- Coordinar la participación estatal en los comités directivos de los distritos de desarrollo rural que operen en el Estado;
 
-XXI.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
+III.- Colaborar con el gobierno Federal en la integración y revisión del Registro Nacional de Pesca, Registro de Derechos de Agua y Padrones de Usuarios de los Distritos de Riego; y
 
-XXII.- Las demás que le señalen las leyes y reglamentos vigentes.
+IV.- Diseñar, coordinar y promover programas y campañas de prevención, combate y erradicación de las plagas y enfermedades que afecten a las especies agrícolas, pecuarias, forestales, pesqueras y acuícolas.
+
+E. En materia jurídico administrativa:
+
+I.- Promover la actualización de las disposiciones jurídicas y normas oficiales mexicanas aplicables en las materias agrícola, pecuaria, pesquero, acuícola, forestal e hidroagrícola;
+
+II.- Participar, con el carácter de representante del Gobierno del Estado, en los Consejos u Organismos de Cuenca de los que forma parte el Estado de Sonora, de conformidad con la legislación aplicable;
+
+III.- Formular el inventario de los recursos e infraestructura hidráulica, agrícola, pecuaria, forestal, pesquera y acuícola existentes en el Estado; y
+
+IV.- Establecer y aplicar los procedimientos para la internación y movilización de ganado, aves y subproductos pecuarios, en los términos de la Ley de Ganadería para el Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 32.
 
-A la Secretaría de Fomento Ganadero le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Desarrollo Social le corresponden las facultades y obligaciones siguientes:
 
-I.- Proponer las políticas y ejecutar los programas tendientes a fomentar y asesorar técnicamente la producción bovina, porcícola, avícola, apícola y de las demás especies menores.
+A. En materia de desarrollo social:
 
-II.- Apoyar los programas de investigación pecuaria y fomentar la divulgación de la tecnología y de los sistemas que mejoren la producción ganadera.
+I.- Proponer, conducir y evaluar la política estatal en materia de desarrollo social integral de la población del Estado, así como los programas y las acciones específicas para la superación de las desigualdades, combate a la pobreza y la atención especial a grupos vulnerables y en desventaja;
 
-III.- Vigilar la conservación de los recursos naturales relacionados con la ganadería y desarrollar su potencial productivo.
+II.- Impulsar la participación corresponsable de los grupos beneficiarios de los programas de desarrollo social en la toma de decisiones y la instrumentación de acciones con respecto a su propio desarrollo;
 
-IV.- Fomentar la organización de los productores pecuarios en torno a los programas del Estado.
+III.- Diseñar, concertar, ejecutar y dar seguimiento a los programas sociales en el ámbito rural y urbano para la atención de grupos específicos y sectores marginados, propiciando la participación de los sectores social y privado;
 
-V.- Promover que el crédito ganadero se oriente hacia los renglones prioritarios, marcados por el Plan Estatal de Desarrollo.
+IV.- Promover la igualdad de oportunidades de los grupos sociales vulnerables y en desventaja, para garantizar el disfrute pleno de sus derechos sociales al trabajo, a la salud, a la educación, a la vivienda y a los servicios públicos básicos de calidad;
 
-VI.- Proponer, apoyar y ejecutar las obras y servicios pecuarios, por sí o en cooperación con el Gobierno Federal y con los Gobiernos Municipales, así como con la participación de los productores.
+V.- Promover la equidad de género en las políticas y programas de desarrollo social;
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+VI.- Participar en la ejecución y supervisión de los programas sociales que el Gobierno Federal desarrolle en el Estado, de conformidad con los convenios o acuerdos de coordinación que se celebren al efecto;
 
-VII.- Aplicar y cumplir las disposiciones de la Ley de Ganadería para el Estado de Sonora.
+VII.- Fomentar y apoyar el desarrollo de proyectos productivos de mujeres, grupos indígenas, personas con discapacidad, jóvenes, adultos mayores y, en general, de grupos marginados o con rezago socioeconómico en el Estado, de acuerdo con los programas que se establezcan;
 
-VIII.- Realizar campañas permanentes para prevenir y combatir las plagas y enfermedades que atacan a las especies animales del Estado.
+VIII.- Promover el abastecimiento de productos de consumo básico entre la población de escasos recursos o afectada por situaciones de siniestros o de desastres;
 
-IX.- Vigilar la movilización de ganado, productos y subproductos pecuarios.
+IX.- Promover programas y acciones de asistencia social;
 
-X.- Organizar y patrocinar concursos, ferias y exposiciones ganaderas, porcícolas, avícolas, apícolas y de las demás especies menores.
+X.- Integrar y mantener actualizado un banco de datos sobre la evolución de la pobreza y el impacto de los programas sociales a efecto de orientar las políticas públicas de desarrollo social; y
 
-XI.- Asesorar y apoyar a los Municipios que lo soliciten, en materia pecuaria.
+XI.- Promover programas relativos al desarrollo integral de los pueblos y las comunidades indígenas del Estado, procurando la preservación de sus valores culturales;
 
-XII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
+B. En materia de desarrollo regional:
 
-XIII.- Las demás que le señalen las leyes y reglamentos vigentes.
+I.- Intervenir en la planeación, formulación y aplicación de los programas de desarrollo regionales, sectoriales y especiales, con la participación que corresponda a las dependencias y entidades estatales y municipales, de conformidad con el Plan Estatal de Desarrollo;
+
+II.- Promover la inversión pública y privada para el desarrollo social en el Estado, en coordinación con los gobiernos federal y municipales y en concertación con las instituciones de crédito y diversos grupos sociales,
+
+III.- Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos municipales y con la participación de los sectores social y privado;
+
+IV.- Promover y ejecutar convenios de coordinación y de concertación que en materia de desarrollo social suscriba el Gobierno del Estado con la Federación, otros estados, los municipios de la Entidad y las organizaciones de la sociedad civil;
+
+V.- Diseñar e instrumentar políticas y programas especiales que fortalezcan y promuevan la organización, identidad cultural y el desarrollo de las comunidades indígenas en el Estado;
+
+VI.- Vigilar la correcta aplicación de los recursos financieros destinados a los programas de desarrollo social mediante convenios suscritos con la Federación, los municipios del Estado, las instituciones de crédito y de financiamiento del desarrollo, así como de los diversos sectores de la sociedad;
+
+VII.- Asesorar y prestar asistencia técnica a los municipios que así lo soliciten, en materia de desarrollo social; y
+
+VIII.- Diseñar e instrumentar políticas y programas para la atención de las micro regiones de más alta marginación en el Estado.
 
 ###### ARTICULO 33.
 
-A la Secretaría de Fomento al Turismo le corresponden las facultades y obligaciones siguientes:
-
-I.- Proponer las políticas y ejecutar los programas relativos al fomento del turismo estatal.
-
-II.- Promover, en coordinación con las autoridades federales competentes, las zonas de desarrollo turístico del Estado, así como la formulación de las declaratorias respectivas.
-
-III.- Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado.
-
-IV.- Aportar criterios y elementos que permitan mejorar el marco normativo a partir del cual se regula la prestación de los servicios turísticos.
-
-V.- Coadyuvar con las autoridades federales competentes, en la fijación y modificación de las categorías de los prestadores de servicios turísticos.
-
-VI.- Colaborar con las autoridades federales competentes, en la vigilancia de la correcta aplicación de los precios autorizados o registrados, así como de la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables.
-
-VII.- Fomentar y promover el turismo social, en coordinación con las dependencias y entidades del sector público, y con la participación de los sectores social y privado.
-
-VIII.- Apoyar y promover la formación de asociaciones, patronatos, comités y demás organismos que auspicien el turismo social.
-
-IX.- Asesorar a los diferentes organismos constituidos para el desarrollo del turismo social.
-
-X.- Formular y difundir la información turística del Gobierno del Estado, y coordinar la publicidad que en esta materia realicen las dependencias y entidades estatales, de conformidad con los lineamientos establecidos al respecto, así como promover la que efectúan los sectores social y privado.
-
-XI.- Elaborar y mantener permanentemente actualizada la información estadística relacionada con el turismo estatal, de conformidad con las disposiciones que al respecto dicten las autoridades competentes.
-
-XII.- Promover y apoyar el desarrollo de la infraestructura turística, y estimular la participación de los sectores de la población involucrados.
-
-XIII.- Coadyuvar con las dependencias y entidades del sector público, así como con los sectores privado y social, en la conservación del señalamiento turístico en las vías públicas estatales y municipales y en los lugares de interés turístico del Estado.
-
-XIV.- Promover que el crédito destinado a las actividades turísticas, se oriente hacia los renglones prioritarios enunciados en el Plan Estatal de Desarrollo.
-
-XV.- Promover la formación de recursos humanos y la capacitación de los existentes, con objeto de elevar la calidad en la prestación de los servicios turísticos.
-
-XVI.- Promover, organizar y participar en conferencias, ferias, exposiciones, encuentros, congresos, eventos tradicionales o folklóricos y actividades culturales relacionadas con la actividad turística, que permitan una mayor afluencia de turismo hacia el Estado.
-
-XVII.- Establecer, operar y optimizar un sistema de información y orientación al público, así como la recepción de quejas y sugerencias, en relación con los servicios turísticos que se prestan en el Estado.
-
-XVIII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
-
-XIX.- Las demás que le señalen las leyes y reglamentos vigentes.
+(DEROGADO, B.O. 18 DE DICIEMBRE DE 2003)
 
 ###### ARTICULO 34.
 
@@ -883,11 +817,11 @@ La administración de los organismos descentralizados estará a cargo de un órg
 
 El órgano de gobierno será presidido por el titular de la Dependencia coordinadora del sector, en el que se encuentre agrupado el organismo descentralizado cuando, por disposición expresa del ordenamiento jurídico que cree el citado organismo, dicha presidencia no corresponde al titular del Poder Ejecutivo o a otra persona.
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 38.
 
-La Secretaría de Finanzas y la Secretaría de Planeación del Desarrollo y Gasto Público, tendrá miembros en los órganos de gobierno de los organismos descentralizados. También participarán, en dichos órganos, las otras dependencias y entidades, en la medida que tengan relación con el objeto del organismo descentralizado de que se trate.
+La Secretaría de Hacienda estará representada en los órganos de gobierno de los organismos descentralizados. También participarán en dichos órganos las otras dependencias o entidades, en la medida que tengan relación con le objeto del organismo descentralizado de que se trate.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -929,11 +863,11 @@ Los fideicomisos públicos deberán contar con una estructura orgánica análoga
 
 En los contratos constitutivos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley, que la naturaleza de su objeto no lo permita o que se constituyan con recursos de las entidades paraestatales.
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 44.
 
-La Secretaria de Planeación del Desarrollo y Gasto Público, previa opinión de la dependencia coordinadora del sector respectivo, propondrá el Gobernador del Estado, para su determinación, la fusión, disolución, liquidación o extinción de las entidades de la administración pública paraestatal, cuando dejen de cumplir el objeto o fin para los que fueron creadas, o cuando su funcionamiento no responda a las estrategias y orientaciones del Plan Estatal de Desarrollo y de los programas derivados de éste, o en caso de que su operación resulte contraria al interés público.
+La Secretaría de Hacienda, previa opinión de la dependencia coordinadora del sector respectivo, propondrá al Gobernador del Estado, para su determinación, la fusión, disolución, liquidación o extinción de las entidades de la administración pública paraestatal, cuando hayan cumplido o dejen de cumplir el objeto o fin para los que fueron creadas, o cuando su funcionamiento no responda a las estrategias y orientaciones del Plan Estatal de Desarrollo y de los programas derivados de éste, o en caso de que su operación resulte contraria al interés público.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -981,15 +915,15 @@ Para su operación, las entidades de la administración pública paraestatal deb
 
 Dichos programas, que constituirán la asunción de compromisos que deben alcanzar las señaladas entidades, deberán contener: La fijación de objetivos y metas; los resultados económicos y financieros esperados; las bases para evaluar las acciones que se lleven a cabo; la definición de estrategias y prioridades; la previsión y organización de recursos para alcanzarlas; la expresión de programas para la coordinación de sus tareas y las previsiones respecto a las posibles modificaciones a sus estructuras.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 50.
 
-Las Entidades a que se refiere este Título, para cada ejercicio fiscal, deberán elaborar, conforme a los lineamientos generales que establezca la Secretaría de Finanzas, sus programas financieros, los cuales deberán expresar, enunciativamente, los fondos propios, las aportaciones de capital y la contratación de créditos. Estos programas deberán contener, además, los criterios conforme a los cuales se ejecutarán los mismos en cuanto a montos, costos reales, plazos, garantías y avales.
+Las entidades a que se refiere este Título, para cada ejercicio fiscal, deberán elaborar, conforme a los lineamientos generales que establezca la Secretaría de Hacienda, sus programas financieros, los cuales deberán expresar, enunciativamente, los fondos propios, las aportaciones de capital y la contratación de créditos. Estos programas deberán contener, además, los criterios conforme a los cuales se ejecutarán los mismos en cuanto a montos, costos reales, plazos, garantías y avales.
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+Los programas financieros deberán enviarse por los directores generales de las entidades, o sus equivalentes, a la Secretaría de Hacienda, a más tardar el primero de noviembre del ejercicio correspondiente, para que sean incluidos en el proyecto de Ley de Ingresos y Presupuesto de Ingresos del Estado.
 
-Asimismo, dichas entidades deberán formular, a partir de sus programas anuales, sus presupuestos anuales de egresos. En estas actividades, las entidades de la administración pública paraestatal se sujetarán a las proyecciones y cálculos que en ejercicio de sus facultades, realice la Secretaría de Planeación del Desarrollo y Gasto Público, y a los lineamientos generales que en materia de gasto establezca dicha dependencia.
+Asimismo, dichas entidades deberán formular, a partir de sus programas anuales, sus presupuestos anuales de egresos. En estas actividades, las entidades de la administración pública paraestatal se sujetarán a las proyecciones y cálculos que, en ejercicio de sus facultades, realice la propia Secretaría de Hacienda, y a los lineamientos generales que en materia de gasto establezca dicha dependencia.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1007,19 +941,23 @@ Sin perjuicio de lo dispuesto en otros ordenamientos jurídicos, las entidades a
 
 Las entidades manejarán y administrarán por sus propios órganos los subsidios o transferencias que reciban del Estado y se sujetarán a los controles e informes respectivos, de conformidad con los ordenamientos aplicables.
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 53.
 
-Las relaciones entre el Ejecutivo Estatal y las Entidades, para fines de congruencia global de la administración pública paraestatal, con el Sistema Estatal de Planeación Democrática y con los lineamientos generales en materia de gasto, financiamientos, control y evaluación se llevarán a cabo en la forma y términos que dispongan los ordenamientos jurídicos respectivos, por conducto de la Secretaría de Finanzas y de la Secretaría de Planeación del Desarrollo y Gasto Público y de la Contraloría General del Estado, sin perjuicio de las atribuciones que competen a las coordinadoras de sector.
+Las relaciones entre el Ejecutivo Estatal y las entidades, para fines de congruencia global de la administración pública paraestatal, con el Sistema Estatal de Planeación Democrática y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación se llevarán a cabo en la forma y términos que dispongan los ordenamientos jurídicos respectivos, por conducto de las Secretarías de Hacienda y de la Contraloría General, sin perjuicio de las atribuciones que competen a las coordinadoras de sector.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 54.
 
-Las entidades de la administración pública paraestatal, a efecto de que cuenten en su funcionamiento con una administración ágil y eficiente, deberán formular, aprobar y mantener permanentemente actualizados sus reglamentos interiores y los demás instrumentos de apoyo administrativo interno que se señalan en el artículo 14 de esta Ley.
+Las entidades de la administración pública paraestatal, a efecto de que cuenten en su funcionamiento con una administración ágil y eficiente, deberán formular, aprobar y mantener permanentemente actualizados sus reglamentos interiores, manuales de organización, de procedimientos y de servicios al público.
 
-Los señalados reglamentos interiores establecerán las bases de organización de la entidad respectiva; las facultades que correspondan a las distintas áreas que integren su estructura orgánica básica, así como la forma en que los titulares de éstas podrán ser suplidos en sus ausencias.
+Los señalados reglamentos interiores que emitan los órganos de gobierno de las entidades determinarán las atribuciones, la adscripción, en su caso, de las unidades administrativas de éstas, así como la forma en que los titulares de dichas unidades podrán ser suplidos en sus ausencias.
+
+Estos instrumentos de apoyo administrativo contendrán información sobre la estructura orgánica de las entidades, las funciones de las unidades administrativas, así como las líneas de autoridad y coordinación y los principales procedimientos administrativos que se establezcan, debiendo mantenerse a disposición del público de las propias entidades y promoverse su difusión.
+
+Los reglamentos interiores de las entidades de la administración pública paraestatal deberán publicarse en el Boletín Oficial del Gobierno del Estado.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1027,11 +965,11 @@ Los señalados reglamentos interiores establecerán las bases de organización d
 
 En su operación, las entidades de la administración pública paraestatal deberán proporcionar, a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten, así como los que les requieran las dependencias de la administración pública directa.
 
-(REFORMADO PRIMER PARRAFO, B.O. 7 DE NOVIEMBRE DE 1991)(F. DE E., B.O. 15 DE ABRIL DE 1992)
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 56.
 
-Las entidades a que se refiere esta Ley, deberán inscribirse en el registro de la administración pública paraestatal que llevará la Secretaría de Planeación del Desarrollo y Gasto Público.
+Las entidades a que se refiere esta Ley, Deberán inscribirse en el registro de la administración pública paraestatal que llevará la Secretaría de Hacienda.
 
 Los Directores Generales de dichas entidades, o sus equivalentes, que no cumplan con esta obligación, serán responsables en los términos de la Ley.
 
@@ -1039,11 +977,17 @@ Los Directores Generales de dichas entidades, o sus equivalentes, que no cumplan
 
 ### CAPITULO IV. DEL CONTROL, VIGILANCIA Y EVALUACION DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 57.
 
-Las actividades de control, vigilancia y evaluación en los organismos descentralizados, estarán a cargo de comisarios públicos designados por la Secretaría de la Contraloría General del Estado y de órganos de control interno que serán parte integrante de la estructura orgánica de dichas entidades.
+Las funciones de control y evaluación de las entidades paraestatales estarán a cargo de los órganos de control y desarrollo administrativo, los cuales dependerán jerárquica, administrativa y funcionalmente de la Secretaría de la Contraloría General.
+
+Los Comisarios Públicos Oficiales y Comisarios Públicos Ciudadanos, designados por la Secretaría de la Contraloría General, ejercerán las funciones de vigilancia de las entidades paraestatales.
+
+El Comisario Público Ciudadano percibirá los estímulos que se fijen anualmente en el presupuesto de egresos de la Secretaría de la Contraloría General.
+
+Los titulares de los órganos de control y desarrollo administrativo y los Comisarios Públicos, participarán con voz en las reuniones de los órganos de gobierno de las entidades.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1051,19 +995,21 @@ Las actividades de control, vigilancia y evaluación en los organismos descentra
 
 Los comisarios públicos, que serán propietarios y suplentes, evaluarán el desempeño general y por funciones de los organismos descentralizados; realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría General del Estado les asigne específicamente conforme a las leyes.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 59.
 
-Las acciones de los órganos de control interno tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de los organismos descentralizados. Dichos órganos desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría General del Estado.
+Los órganos de control y desarrollo administrativo realizarán las funciones de control y evaluación de la gestión pública de las entidades paraestatales, de conformidad con lo dispuesto en el reglamento correspondiente y con los lineamientos que emita la Secretaría de la Contraloría General.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+La Secretaría de la Contraloría General cubrirá las remuneraciones del personal de los órganos de control y desarrollo administrativo con cargo al presupuesto de las entidades paraestatales respectivas, las cuales proveerán lo necesario para tal efecto.
+
+Asimismo, las entidades paraestatales proveerán los recursos materiales, servicios generales e instalaciones físicas adecuadas necesarios para el funcionamiento de los órganos de control y desarrollo administrativo y proporcionarán la colaboración técnica y toda la información que se requiera para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 60.
 
-Las empresas de participación estatal mayoritaria, en los términos de este Capítulo y sin perjuicio de lo establecido en sus estatutos y en la legislación civil o mercantil aplicable, para su control, vigilancia y evaluación incorporarán, a su estructura, órganos de control interno y contarán con los comisarios Públicos que designe la Secretaría de la Contraloría General del Estado.
-
-Los fideicomisos públicos se ajustarán, en lo que les sea compatible, a las disposiciones anteriores.
+Las empresas de participación estatal mayoritaria, en los términos de este Capítulo y sin perjuicio de lo establecido en sus estatutos y en la legislación civil o mercantil aplicable, para su control, vigilancia y evaluación contarán con los instrumentos de control a que se refiere el artículo 57 de esta Ley.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1075,7 +1021,9 @@ Los fideicomisos públicos se ajustarán, en lo que les sea compatible, a las di
 
 La Secretaría de la Contraloría General del Estado podrá realizar visitas y auditorías a las entidades de la administración pública paraestatal, a fin de supervisar el adecuado funcionamiento del sistema de control de éstas y, en su caso, promoverá lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
 
-Los titulares de las dependencias coordinadoras de sector, podrán recomendar la instrumentación de las medidas adicionales que estimen pertinentes sobre las acciones que en materia de control realicen las entidades paraestatales.
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+Los titulares de las dependencias coordinadoras de sector, en los casos que lo consideren necesario, podrán recomendar la instrumentación de las medidas adicionales de control que estimen pertinentes en las entidades paraestatales.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1328,3 +1276,37 @@ La presente Ley entrará en vigor a partir del siguiente día de su publicación
 ###### ARTICULO SEGUNDO.
 
 Se abroga la Ley 120 de Transporte para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado, número 6, Sección I, de fecha 20 de julio de 1992; asimismo se deroga la fracción III del artículo 23 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, así como todas aquellas disposiciones que se opongan a la presente Ley.
+
+B.O. 18 DE DICIEMBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2004.
+
+###### ARTICULO SEGUNDO.
+
+En los casos de las atribuciones de las dependencias, que conforme a este Decreto pasen a otra dependencia, la reasignación deberá efectuarse incluyendo al personal a su servicio, presupuesto, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las dependencias hayan utilizado para el ejercicio de las atribuciones de que se trate.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que con motivo de este Decreto deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten ase incorporen a la dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTICULO CUARTO.
+
+Los procedimientos en los que sean parte las Secretarías cuyas atribuciones y facultades se reforman mediante este Decreto y que la entrada en vigor de la misma se encuentren en trámite ante alguna autoridad, los continuarán tramitando hasta su total conclusión las Secretarías que conforme a este ordenamiento jurídico asuman tales atribuciones y facultades.
+
+###### ARTICULO QUINTO.
+
+Las menciones contenidas en otros ordenamientos jurídicos respecto de las Secretarías cuyas atribuciones y facultades se reforman mediante este Decreto, se entenderán referidas a las Secretarías que respectivamente asuman tales atribuciones y facultades, en los términos de dicha Ley.
+
+###### ARTICULO SEXTO.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, con la participación de las Secretarías correspondientes, deberá concluir aquellas disposiciones presupuestarias, la reasignación de personas, recursos materiales y financieros, así como de activos patrimoniales, en un plazo no mayor de seis meses, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento Interior de las Secretarías que se crean, así como realizar las adecuaciones correspondientes a los reglamentos interiores de las Secretarías cuyas atribuciones se modifican por virtud de este Decreto, en un plazo no mayor de seis meses, a partir de la entrada en vigor del mismo.
+
+###### ARTICULO OCTAVO.
+
+Las atribuciones que la Ley Estatal de Bienes y Concesiones le otorga a la Comisión Estatal de Bienes y Concesiones, serán asumidas por la Secretaría de Hacienda que se crea en virtud de este Decreto.
