@@ -4,7 +4,7 @@ identifier: "QUE-ley-ganadera-para-el-estado-de-queretaro-7657"
 country: "mx"
 rank: "ley"
 publication_date: "1990-05-24"
-last_updated: "1990-05-24"
+last_updated: "2005-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY GANADERA PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE QUERETARO, PUBLICADA EN EL PERIODICO OFICIAL EL 4 DE FEBRERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 24 de mayo de 1990.
 
@@ -1436,3 +1438,15 @@ LIC. MARIANO PALACIOS ALCOCER
 EL C. SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 4 DE FEBRERO DE 2005.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga",
+
+SEGUNDO. La Ley Ganadera, publicada el día 24 de Mayo de 1990, en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga", quedará abrogada a partir de la entrada en vigencia de la presente Ley.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+CUARTO. EL Ejecutivo del Estado emitirá el Reglamento de la Ley de Fomento y Desarrollo Pecuario del Estado de Querétaro, en un término no mayor de tres meses contados a partir de la entrada en vigor de la presente Ley.
