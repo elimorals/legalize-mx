@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-escalafon-de-los-trabajadores-de-la-12301"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-03-11"
-last_updated: "1996-03-11"
+last_updated: "1998-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE ESCALAFÓN DE LOS TRABAJADORES DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA Y CULTURA, AFILIADOS A LA SECCIÓN 53 DEL SNTE DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 1998.
 
 Reglamento publicado en la segunda sección del Periódico Oficial del Estado de Sinaloa, el lunes 11 de marzo de 1996.
 
@@ -65,6 +65,10 @@ VI. “Los Ascensos, cambios y permutas”: Serán las promociones y movimientos
 
 VII. “Los Concursos escalafonarios”: El procedimiento por el cual la Comisión Estatal Mixta de Escalafón reconoce los derechos de “Los Trabajadores” de la educación, con base en la calificación de los factores escalafonarios.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 1998)</small>
+
+Se entenderá por ascenso toda promoción a una categoría laboral superior y, por cambio, el movimiento a otra adscripción que, a petición del trabajador, favorezca su situación laboral.
+
 ###### Artículo 3o.
 
 “Los Trabajadores” de “La Secretaría” se clasifican, para los efectos escalafonarios, conforme a lo establecido en el artículo 6º, de la Ley de los Trabajadores al servicio del Estado de Sinaloa.
@@ -89,13 +93,11 @@ A “Los Trabajadores” designados para desempeñar comisiones oficiales o sind
 
 Cuando un trabajador de confianza vuelva a ocupar el puesto de base que le corresponda, se correrá el Escalafón en sentido descendente, afectándose exclusivamente a las plazas que en el movimiento ascendente respectivo fueron ocupadas con carácter provisional.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 8o.
 
-Son sujetos de derechos escalafonarios “Los Trabajadores” de base de “La Secretaría” con un mínimo de seis meses de ejercicio en la plaza inicial. Para obtener un nuevo movimiento escalafonario, será necesario que transcurra un mínimo de seis meses, contados desde la fecha del último dictamen emitido a su favor.
-
-Todo ascenso, cambio o permuta quedará insubsistente cuando se compruebe por “La Secretaría” y “El Sindicato” que se obtuvo mediante procedimientos indebidos, dolo o mala fe.
-
-En el caso anterior, “La Secretaría”, previo acuerdo con “El Sindicato”, ejercitará acción de revocación para regresar al trabajador a la situación laboral que tenía antes del movimiento escalafonario.
+Son sujetos de derechos escalafonarios "Los Trabajadores" de base de "La Secretaría" con un mínimo de seis meses de ejercicio en la plaza inicial. Para obtener un nuevo movimiento escalafonario, sea éste ascenso, cambio o permuta, será necesario que transcurra un mínimo de seis meses, contados desde la fecha del último movimiento emitido a su favor, en la vertiente de que se trate.
 
 ###### Artículo 9o.
 
@@ -109,11 +111,11 @@ A los docentes que imparten educación física, artística y tecnologías en los
 
 Será optativo para “Los Trabajadores” el aceptar o no su ascenso, debiendo en este último caso comunicar por escrito su decisión a “La Comisión”, dentro de un término de tres días hábiles contados a partir de la fecha en que se le notifique por escrito su promoción.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 11.
 
-“La Comisión” convocará a concurso las plazas vacantes y adscripciones que se originen, cuando menos, una vez dentro de cada ciclo escolar.
-
-Solo se convocará a concursos cuando se haya concluido con la adjudicación total y definitiva de las vacantes y adscripciones convocadas en el concurso anterior.
+"La Comisión" convocará a concursos las plazas vacantes y adscripciones que se originen, cuando menos, una vez dentro de cada ciclo escolar, según lo dispuesto por los artículos 23, fracción II y 55 de esta normatividad.
 
 ## TITULO SEGUNDO. De la Comisión Estatal Mixta de Escalafón
 
@@ -175,25 +177,27 @@ Secretaría”, con fundamento en el título quinto de la Ley de los Trabajadore
 
 ###### Artículo 23.
 
-Corresponde a “La Comisión”:
+Corresponde a "La Comisión":
 
-I. Proveer lo necesario para el ejercicio de los derechos escalafonarios de “Los Trabajadores” de base de “La Secretaría”.
+I. Proveer lo necesario para el ejercicio de los derechos escalafonarios de "Los Trabajadores" de base de "La Secretaría".
 
-II. Someter a concurso las plazas vacantes definitivas y a oposición las provisionales mayores de seis meses, que haya puesto a su disposición “La Secretaría”.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1998)</small>
+
+II. Someter a concurso las plazas vacantes definitivas que haya puesto a su disposición "La Secretaría", de acuerdo a lo establecido por el artículo 55 del presente reglamento, y determinar los derechos para las provisionales mayores de seis meses.
 
 III. Calificar los cambios y permutas previo estudio de los factores escalafonarios y dictaminar sobre ascensos.
 
-IV. Resolver los recursos que presenten “Los Trabajadores” respecto de los dictámenes escalafonarios emitidos.
+IV. Resolver los recursos que presenten "Los Trabajadores" respecto de los dictámenes escalafonarios emitidos.
 
-V. Comunicar al titular de “La Secretaría”, dentro del término de quince días, las resoluciones emitidas en materia de ascensos, cambios y permutas en plazas escalafonarias, para su debido cumplimiento, así mismo deberá notificar lo anterior “El Sindicato” para su conocimiento.
+V. Comunicar al titular de "La Secretaría", dentro del término de quince días, las resoluciones emitidas en materia de ascensos, cambios y permutas en plazas escalafonarias, para su debido cumplimiento, así mismo deberá notificar lo anterior "El Sindicato" para su conocimiento.
 
 VI. Aplicar, en los casos de su competencia, la Ley de los Trabajadores al Servicio del Estado de Sinaloa, el Reglamento de Escalafón y, supletoriamente, lo que corresponde al Reglamento de las Condiciones Generales de Trabajo del Personal de La Secretaría de Educación Pública y demás disposiciones legales aplicables.
 
-VII. Denunciar ante “La Secretaría” o ante “El Sindicato”, las violaciones a este reglamento que cometan los miembros de “La Comisión”, o quienes tengan la obligación de aplicarlo.
+VII. Denunciar ante "La Secretaría" o ante "El Sindicato", las violaciones a este reglamento que cometan los miembros de "La Comisión", o quienes tengan la obligación de aplicarlo.
 
-VIII. Solicitar, de las autoridades de “La Secretaría”, la expedición oportuna del crédito anual escalafonario de “Los Trabajadores”, de acuerdo con las normas vigentes.
+VIII. Solicitar, de las autoridades de "La Secretaría", la expedición oportuna del crédito anual escalafonario de "Los Trabajadores", de acuerdo con las normas vigentes.
 
-IX. Formular los proyectos de presupuesto “La Comisión”.
+IX. Formular los proyectos de presupuesto "La Comisión".
 
 X. Notificar al titular del ramo o a la representación sindical, según sea el caso, la ausencia temporal o definitiva de sus miembros.
 
@@ -479,15 +483,57 @@ De los reportes de vacantes y la boletinación de plazas.
 
 ###### Artículo 55.
 
-“La Secretaría”, de conformidad con lo dispuesto en el Artículo 75 de la Ley de los Trabajadores al Servicio del Estado de Sinaloa, deberá reportar a “La Comisión” las vacantes que se presenten, dentro de los diez días siguientes en que se dicte el aviso de baja, se apruebe oficialmente la creación de plazas sujetas a concurso escalafonario o se susciten vacantes temporales mayores de seis meses en plazas escalafonarias.
+"La Secretaría", de conformidad con lo dispuesto en el Artículo 75 de la Ley de los Trabajadores al Servicio del Estado de Sinaloa, deberá reportar a "La Comisión" las vacantes que se presenten, dentro de los diez días siguientes en que se dicte el aviso de baja, se apruebe oficialmente la creación de plazas sujetas a concurso escalafonario o se susciten vacantes temporales mayores de seis meses en plazas escalafonarias.
+
+> <small>(ADICIONADO CON LA FRACCIÓN, INCISOS Y PÁRRAFO QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1998)</small>
+
+A) DE LAS PLAZAS:
+
+I. Serán plazas sujetas a concursos escalafonarios:
+
+a) Director de Jardín de Niños.
+
+b) Auxiliar Técnico Pedagógico de Jardín de Niños.
+
+c) Inspector de Jardín de Niños
+
+d) Director de Primaria.
+
+e) Auxiliar Técnico Pedagógico de Primaria.
+
+f) Inspector de Primaria.
+
+g) Inspector de Educación Física.
+
+h) Secretario de Escuela Secundaria.
+
+i) Director de Escuela Secundaria.
+
+j) Auxiliar Técnico Pedagógico de Secundarias.
+
+k) Inspector de Segunda Enseñanza.
+
+l) Supervisor de Educación Física.
+
+m) Supervisor de Educación Artística.
+
+Las plazas con nombramientos definitivos por horas, ya sean iniciales o vacantes, quedan excluidas de concursos escalafonarios.
+
+> <small>(ADICIONADO CON EL INCISO QUE LO INTEGRA, P.O. 24 DE AGOSTO DE 1998)</small>
+
+B) DE LAS ADSCRIPCIONES:
+
+a) Los cambios de adscripción laboral se practicarán en base a lo establecido por el artículo 84, fracción I, reformada, del presente reglamento.
 
 ###### Artículo 56.
 
 En caso de incumplimiento de lo dispuesto en el artículo anterior, “El Sindicato”, o cualquier interesado podrán hacer el reporte de la plaza vacante a “La Comisión”.
 
-###### Artículo 57.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1998)</small>
 
-Efectuado el reporte de la plaza, “La Comisión” comprobará si se encuentra vacante en definitiva o si el titular goza de licencia sin sueldo mayor de seis meses. Hecha la comprobación, “La Comisión” deberá elaborar un proyecto de boletín convocando a “Los Trabajadores” que tengan derecho a concursar.
+###### ARTICULO 57.
+
+Efectuado el reporte de la plaza, "La Comisión" comprobará si se encuentras vacante en definitiva o si el titular goza de licencia sin sueldo mayor de seis meses. Hecha la comprobación, "La Comisión" deberá elaborar un proyecto de boletín convocando a "Los Trabajadores" que tengan derecho a concursar, respecto de las vacantes definitivas, y mediante reconocimiento y determinación de derechos, para el otorgamiento de las provisionales mayores de seis meses.
 
 ###### Artículo 58.
 
@@ -871,7 +917,11 @@ El documento oficial para valorar el desempeño de “Los Trabajadores” al ser
 
 ###### Artículo 73.
 
-Los cursos de actualización y superación profesionales deberán someterse previamente a la consideración de “La Comisión”, a fin de que ésta les otorgue su valor escalafonario, con base en los aspectos enunciados en el tabulador correspondiente.
+Los cursos de actualización y superación profesionales deberán someterse previamente a la consideración de "La Comisión", a fin de que ésta les otorgue su valor escalafonario, con base en los aspectos enunciados en el tabulador correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 1998)</small>
+
+Se reconocerán hasta 20 cursos concluídos en instituciones oficiales o particulares reconocidas como formadoras de docentes y un máximo de 10 cursos acreditados por otras instituciones no formadoras de docentes.
 
 ###### Artículo 74.
 
@@ -959,13 +1009,17 @@ II. Equivalencia en preparación y demás factores escalafonarios y
 
 III. Semejanza en categoría presupuestal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 84.
 
-Todo trabajador podrá solicitar cambio de adscripción después de haber transcurrido seis meses, a partir de la fecha de otorgamiento de su plaza o del último dictamen escalafonario emitido en su favor.
+Todo trabajador podrá solicitar cambio de adscripción después de haber transcurrido seis meses, a partir de la fecha de otorgamiento de su plaza o de un movimiento de adscripción anterior.
 
-I. Los movimientos de “Los Trabajadores”, distintos de los ascensos, se harán por una comisión mixta para la operación de cambios y permutas, los cuales serán efectuados en estricto apego a los derechos escalafonarios.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 1998)</small>
 
-Esta comisión mixta estará integrada por representantes de “La Secretaría” y de “El Sindicato” para cada nivel educativo donde se presente el movimiento de personal.
+I. Los movimientos de los trabajadores, distintos de los ascensos, se harán por una comisión mixta para la operación de cambios y permutas, los cuales serán efectuados en estricto apego a los derechos escalafonarios, debiendo operarse primero los cambios internos de adscripción en cada zona, después los de zona a zona en la región, para que, una vez determinados los centros de trabajo que hayan quedado vacantes, se proceda a los de interzonas a nivel estatal. Si resultan adscripciones liberadas, finalmente, se adjudicarán en el siguiente concurso.
+
+Esta comisión mixta estará integrada por representantes de "La Secretaría" y de "El Sindicato" para cada nivel educativo donde se presente el movimiento de personal.
 
 II. Los estudios parciales regularmente concluidos de los niveles superiores de licenciatura, especialidad, maestría y doctorado, cursados en instituciones formadoras de docentes, se tomarán en cuenta para todos los movimientos de ascensos, cambios y permutas.
 
@@ -1177,6 +1231,20 @@ EL SECRETARIO DE EDUCACION PUBLICA Y CULTURA
 
 GERÓNIMO MARTINEZ GARCIA
 
-> <small>[N. DE E. VÉASE ANEXO EN LA SEGUNDA SECCIÓN DEL P.O. DE 11 DE MARZO DE 1996, PÁGINAS DE LA 57 A LA 66]</small>
+> <small>[N. DE E. VÉASE ANEXO EN LA SEGUNDA SECCIÓN DEL P.O. DE 11 DE MARZO DE 1996, PÁGINAS DE LA 57 A LA 66.]</small>
 
-> <small>[N. DE E. VÉASE TABLA COMPLEMENTARIA EN LA SEGUNDA SECCIÓN DEL P.O. DE 11 DE MARZO DE 1996, PÁGINAS DE LA 66 A LA 68]</small>
+> <small>[N. DE E. VÉASE REFORMA AL ANEXO P.O. DE 24 DE AGOSTO DE 1998, PÁGINA 5.]</small>
+
+> <small>[N. DE E. VÉASE TABLA COMPLEMENTARIA EN LA SEGUNDA SECCIÓN DEL P.O. DE 11 DE MARZO DE 1996, PÁGINAS DE LA 66 A LA 68.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA COMPLEMENTARIA P.O. DE 24 DE AGOSTO DE 1998, PÁGINAS DE LA 5 A LA 6.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE AGOSTO DE 1998.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA ALGUNAS DISPOSICIONES DEL REGLAMENTO DE ESCALAFÓN DE LOS TRABAJADORES DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA Y CULTURA AFILIADOS A LA SECCIÓN 53 DEL S.N.T.E., ASÍ COMO SU ANEXO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
