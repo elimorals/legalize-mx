@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-2691"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-01-15"
-last_updated: "1995-05-24"
+last_updated: "1997-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1997.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 15 de enero de 1991.
 
@@ -203,7 +203,9 @@ IX.- Violación, en sus modalidades previstas y sancionadas en los artículos 18
 
 X.- Atentado al pudor, conforme a la hipótesis prevista en el párrafo tercero del artículo 190, en relación con el 191.
 
-XI.- Robo, previsto en el artículo 211, siempre que se cometa dentro de las hipótesis señaladas en los artículos 214 fracción VI, 215 y 217, con excepción de aquellos casos en que el robo se persiga por querella en términos del artículo 243.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+XI.- Robo previsto en el artículo 211, siempre que se cometa dentro de las hipótesis señaladas en los artículos 214 fracción I primer párrafo y VI; 215 y 217 con excepción de aquellos casos en que el robo se persiga por querella en términos del artículo 243.
 
 XII.- Abigeato, previsto en el artículo 221, siempre y cuando se cometa dentro de la primera hipótesis señalada por el artículo 222. Asimismo, en los supuestos de las fracciones I a la VI del propio artículo, siempre y cuando se trate de ganado mayor o sus crías.
 
@@ -1663,9 +1665,13 @@ DELITOS CONTRA LAS PERSONAS EN SU PATRIMONIO.
 
 ROBO.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 211.
 
-Al que se apodere de una cosa mueble ajena, con ánimo de dominio, sin consentimiento de quien pueda otorgarlo conforme a la Ley, se le aplicarán de seis meses a siete años de prisión y multa hasta por el triple del valor de lo robado.
+Comete el delito de robo: el que se apodera de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella con arreglo a la ley.
+
+Al que cometa el delito de robo se le aplicarán de 6 meses a 9 años de prisión y multa hasta por el triple del valor de lo robado.
 
 ###### ARTICULO 212.
 
@@ -1699,13 +1705,23 @@ V.- Cuando se roben postes, alambres u otros materiales de las cercas de los sem
 
 VI.- Respecto de instrumentos de labranza objetos utilizados para cercar, frutos cosechados o por cosechar, así como el robo cometido en las zonas o campos de explotación pesquera y recaiga aquél sobre instrumentos de pesca o en el producto de ésta.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 215.
 
-Se sancionará con pena de uno a diez años de prisión y multa hasta por el triple del valor de lo robado en los casos siguientes:
+Se sancionará con pena de 2 a 12 años de prisión y multa hasta por el triple del valor de lo robado en los casos siguientes:
 
 I.- Cuando el robo se ejecutare con violencia en las personas.
 
 II.- Cuando se cometa aprovechándose de la falta de vigilancia, el desorden o confusión que se produzca durante un incendio, terremoto, accidente de tránsito de vehículos o aeronaves u otra calamidad pública o siniestro.
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+III.- Cuando el robo sea cometido por dos o más sujetos, a través de la asechanza o cualquier otra circunstancia que disminuya las posibilidades de defensa de la víctima o la ponga en condiciones de desventaja.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Además de la pena establecida en la primera parte de este artículo, también podrá aplicarse la prohibición de ir a lugar determinado o vigilancia de la autoridad.
 
 ###### ARTICULO 216.
 
@@ -1724,6 +1740,20 @@ II.- Cuando el ladrón la ejercita después de consumado el robo, para proporcio
 ###### ARTICULO 218.
 
 En todo caso de robo, el juez podrá suspender al delincuente, de un mes a seis años, en los cargos de: tutela, curatela, apoderado, defensor, patrono, albacea, perito, depositario, interventor, síndico, árbitro y representante de ausentes.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+ARTICULO 218 A.- Las mismas penas señaladas en el artículo 211 se impondrán a quien a sabiendas de la procedencia ilícita de un vehículo:
+
+I.- Desmantele algún o algunos vehículos robados o comercialice conjunta o separadamente sus partes.
+
+II.- Enajene o trafique de cualquier manera con vehículo o vehículos robados.
+
+III.- Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite la propiedad o identificación de un vehículo robado.
+
+IV.- Traslade el o los vehículos robados a otra Entidad Federativa, y
+
+V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
 
 ###### ARTICULO 219.
 
@@ -2014,6 +2044,26 @@ TRAFICO DE MENORES.
 ###### ARTICULO 254.
 
 Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará la pena de prisión de dos a diez años y hasta quinientos días multa.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Las mismas penas se aplicarán a los que otorguen el consentimiento a que se refiere este artículo y al tercero que reciba al menor.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Si la entrega definitiva del menor se hace sin la finalidad de obtener un beneficio económico, la pena aplicable al que lo entregue será de uno a tres años de prisión.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Si se acredita que quién recibió al menor lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal incorporación, se le impondrá prisión de tres meses a un año y de veinte a ochenta días multa.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo inicial, las penas se aumentarán hasta el doble según sea el caso.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+A quienes teniendo el ejercicio de la patria potestad, tutela o custodia, cometan el delito previsto por este artículo, se les sancionará, además, con privación de aquéllas y de los derechos de familia en relación con el ofendido.
 
 ## TITULO OCTAVO
 
@@ -2791,7 +2841,9 @@ I.- El Servidor Público que por sí o por interpósita persona promueva o gesti
 
 II.- Cualquier persona que promueva la conducta ilícita del servidor público o se preste a la promoción o gestión que hace referencia la fracción anterior; y
 
-III.- El Servidor Público que por sí o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera a que hace referencia la primera fracción del Artículo 324 de este Código.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+III.- El Servidor Público que por sí o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera a que hace referencia la primera fracción del Artículo 326 de este Código.
 
 Al que cometa el delito de tráfico de influencia, se le impondrá de dos a seis años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de dos a seis años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -2997,7 +3049,9 @@ IV.- Preste auxilio o cooperación de cualquier especie al autor de un delito, c
 
 V.- Oculte al responsable de un delito, o los efectos, objetos o instrumentos del mismo, o impida que se averigüe; y
 
-VI.- Al que con ánimo de lucro, después de la ejecución de un delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquél, a sabiendas de su ilegítima procedencia, o al que ayude a otro para los mismos fines.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1997)</small>
+
+VI.- Al que con ánimo de lucro después de la ejecución de un delito y sin haber participado de éste, posea, enajene o trafique de cualquier manera, adquiera o reciba los instrumentos, objetos o productos del delito, a sabiendas de su ilegítima procedencia, o al que ayude a otros para los mismos fines.
 
 ###### ARTICULO 342.
 
@@ -3154,3 +3208,7 @@ B.O. 24 DE MAYO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE DICIEMBRE DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor a los treinta días naturales contados a partir de su publicación en el Boletín Oficial del Gobierno del Estado.
