@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1992-12-31"
+last_updated: "1993-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JULIO DE 1993.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -971,11 +971,11 @@ Las Tesorerías Municipales, podrán nombrar interventores para que concurran a 
 
 Los Ayuntamientos de los Municipios del Estado, conforme a sus características y necesidades propias, podrán proponer en sus Iniciativas de Leyes de Ingresos y Presupuestos de Ingresos, los impuestos adicionales que requieran, los que en todo caso deberán fijarse como respaldo financiero en obras y acciones de interés general, asistencia social, mejoramiento en la prestación de servicios públicos, fomento turístico, fomento deportivo y sostenimientos de instituciones de educación media y superior.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, B.O. 19 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 101.
 
-Será objeto de este impuesto la realización de pagos por concepto de los impuestos y derechos que establece esta Ley, a excepción del Impuesto Predial, Impuestos sobre Diversiones y Espectáculos Públicos tratándose de obras de teatro y funciones de circo, cine o cinematógrafos ambulantes y derecho de estacionamiento de vehículos en la vía pública, donde se hayan instalado sistema de control de tiempo y espacio.
+Será objeto de este impuesto la realización de pagos por concepto de los impuestos y derechos que establece esta Ley, a excepción de los impuestos predial, sobre traslación de dominio de bienes inmuebles, sobre diversiones y espectáculos públicos, tratándose de obras de teatro y funciones de circo, cine o cinematógrafos ambulantes, y derechos de estacionamientos de vehículos en la vía pública, donde se hayan instalado sistemas de control de tiempo y espacio.
 
 ###### ARTICULO 102.
 
@@ -1067,23 +1067,37 @@ Las tarifas y derechos de conexión de derechos que se causen por la prestación
 
 Por la prestación del servicio de alumbrado público, los consumidores de energía eléctrica, pagarán un derecho equivalente al 3% sobre el importe del consumo señalado en los recibos que, por la prestación del servicio de energía eléctrica, expida la Comisión Federal de Electricidad.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, B.O. 19 DE JULIO DE 1993)</small>
+
+Tratándose de propietarios y/o posesionarios de predios baldíos, urbanos y suburbanos, pagarán un derecho que estará en función del valor catastral de cada predio, conforme a la tarifa establecida en el artículo 111-Bis de este ordenamiento.
+
+> <small>(REFORMADO, B.O. 19 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 109.
 
-Los Ayuntamientos de los Municipios del Estado, de conformidad con lo dispuesto en la Ley Orgánica de Administración Municipal, podrán celebrar convenios con la Comisión Federal de Electricidad, para el efecto de que sea esta entidad de la administración pública federal quien recaude la contraprestación señalada y realice el entero en la Tesorería Municipal, en los términos que se convengan.
+Los Ayuntamientos de los Municipios del Estado, de conformidad con lo dispuesto en la Ley Orgánica de Administración Municipal, podrán celebrar convenios con la Comisión Federal de Electricidad, para el efecto de que sea esta Entidad de la Administración Pública Federal, quien recaude la contraprestación señalada, tratándose de propietarios o posesionarios de predios que cuenten con servicio medio o facturado de energía eléctrica, y realice el entero en la Tesorería Municipal, en los términos que se convengan.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 19 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 110.
 
-La cuota del derecho del servicio de alumbrado público es mensual, pero su importe se pagará, en el caso de existir el convenio a que se refiere el artículo anterior, en las fechas que señalen los recibos que expida la Comisión Federal de Electricidad. De no celebrarse el convenio antes indicado, las cuotas de este derecho se pagarán trimestralmente durante los meses de enero, abril, julio y octubre.
+La cuota del derecho del servicio de alumbrado público es mensual, pero su importe se pagará, en el caso de existir el Convenio a que se refiere el artículo anterior, en las fechas que señalen los recibos que expida la Comisión Federal de Electricidad.
+
+> <small>(ADICIONADO, B.O. 19 DE JULIO DE 1993)</small>
+
+ARTICULO 110 BIS.- De no celebrarse el Convenio a que se refiere el artículo 109 del presente ordenamiento y en los casos de todos aquellos propietarios y/o posesionarios de predios urbanos y suburbanos que no cuenten con servicio medio o facturado de energía eléctrica, pagarán las cuotas correspondientes, trimestralmente, en los primeros quince días de los meses de marzo, junio, octubre y diciembre de cada año, en las oficinas recaudadoras de la Tesorería Municipal o en las Instituciones autorizadas para el efecto.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 111.
 
 El servicio a que se refiere este Capítulo es de utilización obligatoria.
+
+> <small>(ADICIONADO, B.O. 19 DE JULIO DE 1993)</small>
+
+ARTICULO 111 BIS.- Las cuotas de los derechos del servicio de alumbrado público, tratándose de predios baldíos urbanos y suburbanos, se pagarán conforme a la siguiente:
+
+(VEASE TABLA ANEXA)
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1345,11 +1359,11 @@ Por los servicios en materia de control sanitario de animales domésticos, que s
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO TERCERO. Forma de Pago
+### CAPITULO CUARTO. Recursos
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
-### CAPITULO CUARTO. Recursos
+### CAPITULO TERCERO. Forma de Pago
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1938,3 +1952,9 @@ B.O. 31 DE DICIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor previa su publicación en el Boletín Oficial del Estado el día primero de enero de 1993.
+
+B.O. 19 DE JULIO DE 1993.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
