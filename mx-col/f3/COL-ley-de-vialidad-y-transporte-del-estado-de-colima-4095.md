@@ -4,7 +4,7 @@ identifier: "COL-ley-de-vialidad-y-transporte-del-estado-de-colima-4095"
 country: "mx"
 rank: "ley"
 publication_date: "1990-02-17"
-last_updated: "1992-09-19"
+last_updated: "1999-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE VIALIDAD Y TRANSPORTE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 17 de febrero de 1990.
 
@@ -369,11 +369,17 @@ V.- Prestar servicios de emergencia, cuando así lo requiera el Titular del Pode
 
 VI.- Cumplir con las disposiciones que sobre el caso dicte el Titular del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 31.
 
-Los derechos de las concesiones otorgadas por el Gobierno del Estado, no podrán enajenarse, embargarse, arrendarse, hipotecarse o gravarse, total ni parcialmente, tampoco serán susceptibles de integrar caudal hereditario, salvo en el caso de incapacidad física o mental del titular, en que la Dirección de Transporte podrá autorizar el arrendamiento o cuando se trate de pago de pensión alimenticia dictada por resolución judicial. En consecuencia, se tendrán como nulos de pleno derecho, las operaciones, actos o contratos efectuados en contravención a este precepto.
+Para los efectos de la presente Ley, los derechos de las concesiones otorgadas por el Gobernador del Estado a personas físicas serán considerados como parte del patrimonio familiar de sus titulares; tanto éstas como las otorgadas a personas morales, no podrán enajenarse, embargarse, arrendarse, hipotecarse o gravarse, total ni parcialmente, sin la previa autorización por escrito del titular del Poder Ejecutivo salvo el caso de discapacidad física o mental del titular de la concesión, debidamente comprobada con certificado médico expedido por institución pública de salud, en que la Dirección de Transporte podrá autorizar el arrendamiento o cuando se trate de pago de pensión alimenticia dictada por resolución judicial, en el que se estará a lo dispuesto por la autoridad judicial, en favor de los acreedores alimentarios. Tampoco serán susceptibles de integrar caudal hereditario. En consecuencia, se tendrán como nulos de pleno derecho, las operaciones, actos o contratos efectuados en contravención a este precepto.
+
+Los fedatarios públicos se abstendrán de intervenir, en cualquier forma, en actos o contratos jurídicos relacionados con las concesiones que impliquen contravención a lo dispuesto en el párrafo anterior.
+
+Con autorización por escrito del Gobernador, la persona física titular de la concesión podrá designar beneficiarios por su orden, a la esposa e hijos menores de edad, hijos mayores de edad, concubina o persona que dependa económicamente de él. Si se omite la designación de beneficiarios, el Ejecutivo tomará en cuenta la resolución que en tal sentido expida la autoridad judicial competente. La realización de los trámites conducentes para el traspaso en favor de o los beneficiarios no causará el pago de derecho alguno.
+
+En caso de que existan beneficiarios menores de edad, éstos ejercerán sus derechos por conducto de su tutor o representante legal, en los términos previstos por la legislación civil.
 
 ###### ARTICULO 32.
 
@@ -556,3 +562,7 @@ Palacio de Gobierno, Colima, Col., febrero 09 de 1990.- El Gobernador Const. del
 P.O. 19 DE SEPTIEMBRE DE 1992.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 10 DE ABRIL DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
