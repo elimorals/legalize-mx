@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1933-03-01"
+last_updated: "1934-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 1933 (N. DE E. ESTA REFORMA TERMINO DE PUBLICARSE EN LOS PERIODICOS OFICIALES DEL 8 Y 15 DE MARZO DE 1933).
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1934.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -43,11 +43,11 @@ CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
 El Estado de Chiapas que por su libre voluntad forma parte de los Estados Unidos Mexicanos, desde el día 12 de septiembre de 1924, reconoce como Ley Fundamental y Suprema la Constitución General de la República, promulgada el 5 de febrero de 1917, con sus adiciones y reformas.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1934)</small>
 
 ###### ARTICULO 2.
 
-El Territorio del Estado, para su funcionamiento político y administrativo, queda dividido en los Municipios siguientes, con sus correspondientes Agencias, y los que se crean con arreglo a las leyes: de Tuxtla, con las Agencias Municipales de Copoya y Cerro Hueco; de Terán; de Suchiapa; de Ocozocoautla de Espinosa, con las Agencias Municipales de Espinal de Morelos; Ocuilapa, San Vicente, Valle de Corzo, Aquiles Serdán y Galeana; de San Fernando; de Berriozábal; de Cintalapa, con las Agencias Municipales de La Providencia, San Antonio Monserrat y Emiliano Zapata; de Jiquipilas, con la Agencia Municipal de Ortiz Rubio; de Arriaga con las Agencias Municipales de La Calera, La Punta y San Pablo; de Villa Flores, con la Agencia Municipal de Rosarito; de Villa Corzo, con la Agencia Municipal de Valle Morelos; de Chiapa de Corzo, con las Agencias Municipales de las Riberas de Amatal, Canguí, Cupía, Nandayacutí, San Gabriel y Nandambúa; de Acala; de Chiapilla; de Ixtapa; de Osumacinta; de Soyaló; de San Bartolomé, con las Agencias Municipales de Aguacatenango, Ribera de Santa Cruz, Soyatitán y Matamoros; de La Concordia; de Angel Albino Corzo; cabecera Jaltenango, con la Agencia Municipal de Montecristo de Guerrero; de San Diego La Reforma; de Totolapa; de Comitán de Domínguez, con las Agencias Municipales de Ajayash, Chacaljemel, Juznajab, Los Riegos y Yocnajab; de Tzimol; de Las Margaritas, con la Agencia Municipal de El Edén; de Las Rosas; de La Trinitaria; de Chicomucelo; de La Independencia; de Socoltenango; de San Cristóbal Las Casas, con las Agencias Municipales de Chanal, Ejido Pedernal y San Felipe Ecatepec; de Teopisca, con la Agencia Municipal de Nuevo León; de Chamula; de Huistán; de San Lucas; de San Andrés, con la Agencia Municipal de Santiago; de San Pedro Chenaló, con las Agencias Municipales de Magdalena y Santa Marta; de San Miguel Mitontic; de Tenejapa; de Zinacantán; de Amatenango del Valle; de Ocosingo, con las Agencias Municipales de San Martín, Sibacá, Tenango y Cancuc; de Chilón, con las Agencias Municipales de Bachajón, Guaquitepec y Sitalá; de Yajalón, con la Agencia Municipal de Amado Nervo; de Villa Enríquez, con la Agencia Municipal de Chiptic; de Salto de Agua, con las Agencias Municipales de La Trinidad y San Pedro Sabana; de Palenque, con la Agencia Municipal de Santa Margarita; de Catazajá, con las Agencias Municipales de Cuyo Concepción, Paraíso y Zaragoza; de La Libertad, con la Agencia Municipal de Luis Espinoza; de Tila, con la Agencia Municipal de Petalcingo; de Tumbalá, con la Agencia Municipal de Hidalgo; de Pichucalco, con la Agencia Municipal de Tectuapán; de Ixtacomitán; de Oxtuacán, con la Agencia Municipal de Sayula; de Chapultenango; de Ixtapangajoya, con la Agencia Municipal de El Caoba; de Juárez, con la Agencia Municipal de La Reforma; de Nicapa; de Solosuchiapa; de Sunuapa; de Simojovel de Allende, con la Agencia Municipal de Pueblo Nnevo (sic) Citalá; de Pueblo Nuevo Solistahuacán, con las Agencias Municipales de El Rincón, La Aurora y Santa Rita; de Santa Catarina Pantelhó; de Amatán, con las Agencias Municipales de El Azufre y San Antonio la Montaña; de Huitiupan; de Jitotol; de Sabanilla, con la Agencia Municipal de Moyos; de San Juan, con las Agencias Municipales de Nishtalucum, Plátanos y Chabajebal; de San Pablo Chalchihuitán; de Bochil, con la Agencia Municipal de Chavarría; de Copainalá, con las Agencias Municipales de las Riberas de Guadalupe, Juárez, Morelos y Zacalapa; de Coapilla; de Chicoasén; de Ishuatán, con la Agencia Municipal de Chapayal; de Magdalena; de Ocotepec; de Pantepec; de San Bartolomé Solistahuacán; de Tapalapa; de Tapilula; de Tecpatán, con la Agencia Municipal de Quechula; de Tonalá, con las Agencias Municipales de Arista, La Polka, San Cayetano, San Pedro y Ponte Duro; de Mapastepec; de Pijijiapam, con las Agencias Municipales de Tapachulita y Zapotal; de Tapachula, con las Agencias Municipales de El Edén, Las Maravillas, San Andrés Nexapa, San Benito, San Juan Chicharras, Carrillo Puerto y Alvaro Obregón; de Huixtla, con las Agencias Municipales de La Libertad y Santa Rita; de Escuintla, con las Agencias Municipales de San Felipe Tizapa, El Triunfo y Doña María; de Huehuetán; de Tuxtla Chico; de Acacoyagua, con las Agencias Municipales de Los Cacaos y La Libertad; de Acapetagua; de Cacahoatán, de Mazatán; de Metapa; de Pueblo Nuevo Comaltitlán, con la Agencia Municipal de La Providencia; de Suchiate; de Tuzantán; de Unión Juárez; de Frontera Hidalgo; de Motozintla de Mendoza, con las Agencias Municipales de Benito Juárez, Buenos Aires, Carrizal, Chinincó, Lubeca, Aztecas, Niquivil, Pueblo Viejo, San José Ixtepec, Berriozábal, Tuizcúm, Togzoloj, Soledad, Cipresal y Belisario Domínguez; de Amatenango de la Frontera, con las Agencias Municipales de Ojo de Agua y Las Tablas; de El Porvenir, con las Agencias Municipales de Chimalapa; El Zapotillo y Malé; de Frontera Comala, con las Agencias Municipales de El Portal, Paso Hondo, San Miguel Ibarra y Zapotal; de la Grandeza; de Mazapa de Madero, con las Agencias Municipales de Santa Rosa, Talcanaque, Hidalgo, Juárez y Tocanaque; de San Isidro Siltepec, con las Agencias Municipales de El Rodeo, Las Ventanas, Honduras, San Luis, Las Pilas, Las Delicias, San Angel, Vega del Rosario, Santo Domingo y la Frailesca; de San Pedro Remate, con las Agencias Municipales de El Pacayal, El Platanar, Las Chicharras, La Hacienda, La Laguna, Las Tablas, Los Cimientos, San Pedro y Oxchúc.
+El territorio del Estado, para su funcionamiento político y administrativo, queda dividido en los Municipios siguientes, con sus correspondientes Agencias, y los que se creen con arreglo a las leyes: de Tuxtla, con las Agencias Municipales de Copoya y Cerro Hueco; de Terán; de Suchiapa; de Ocozocoautla de Espinoza, con las Agencias Municipales de Espinal de Morelos, Ocuilapa, El Prado, Valle de Corzo, Aquiles Serdán y Galeana; de Villa Allende; de Berriozábal; de Cintalapa, con las Agencias Municipales de La Providencia, Baldiviana y Emiliano Zapata; de Jiquipilas, con la Agencia Municipal de Ortiz Rubio; de Arriaga, con las Agencias Municipales de La Calera, La Punta y La Brisa; de Villa Flores, con la Agencia Municipal de Rosarito; de Villa Corzo, con la Agencia Municipal de Valle Morelos; de Chiapa de Corzo, con las Agencias Municipales de las riberas de Amatal, Cangui, Cupía, Nandayacuti, El Palmar, Nandambúa y Julián Grajales; de Acala; de Chiapilla; de Ixtapa; de Osumacinta; de Soyaló; de Venustiano Carranza, con las Agencias Municipales de Aguacatenango, Ribera de Chalchi, Soyatitán y Matamoros; de La Concordia; de Angel Albino Corzo, cabecera Jaltenango, con la Agencia Municipal de Montecristo de Guerrero; de Nicolás Ruiz; de Totolapa; de Comitán de Domínguez, con las Agencias Municipales de Ajayash, Chacaljemel, Juznajab, Los Riegos y Yocnajab; de Tzimol; de Las Margaritas, con la Agencia Municipal de El Edén; de Las Rosas; de La Trinitaria; de Chicomucelo; de La Independencia; de Socoltenango; de Ciudad de Las Casas, con las Agencias Municipales de Ejido Pedernal y Ecatepec; de Teopisca, con la Agencia Municipal de Nuevo León; de Chamula; de Huistán; de El Zapotal; de Larrainzar, con la Agencia Municipal de El Pinar; de Chenalhó, con las Agencias Municipales de Aldama y Manuel Utrilla; de Mitontic; de Tenejapa; de Zinacantán; de Amatenango del Valle; de Ocosingo, con las Agencias Municipales de Abasolo, Sibacá; Tenango y Cancuc; de Chilón, con las Agencias Municipales de Bachajón, Guaquitepec y Sitalá; de Yajalón, con la Agencia Municipal de Amado Nervo; de Villa Enríquez, con la Agencia Municipal de Chiptic; de Salto de Agua, con las Agencias Municipales de Cenobio Aguilar y La Sabana; de Palenque, con la Agencia Municipal de Urania; de Catazajá, con las Agencias Municipales de Cuyo Alvaro Obregón, Paraíso y Zaragoza; de La Libertad, con la Agencia Municipal de Luis Espinoza; de Tila, con la Agencia Municipal de Petalcingo; de Tumbalá, con la Agencia Municipal de Hidalgo; de Pichucalco, con la Agencia Municipal de Tectuapán; de Ixtacomitán; de Ostuacán, con la Agencia Municipal de Sayula; de Chapultenango; de Ixtapangajoya, con la Agencia Municipal de El Caoba; de Juárez; de Nicapa; de Solusuchiapa; de Sunuapa; de Simojovel de Allende, con la Agencia Municipal de Pueblo Nuevo Sitalá; de Pueblo Nuevo Solistahuacán, con las Agencias Municipales de El Rincón, La Aurora y Vergel; de Pantelhó; de Amatán, con las Agencias Municipales de El Azufre y La Montaña; de Huitiupan; de Jitotol; de Sabanilla, con la Agencia Municipal de Moyos; de El Bosque, con las Agencias Municipales de Nishtalucúm, Plátanos y Chabajebal; de Chalchihuitán; de Bochil, con la Agencia Municipal de Chavarría; de Copainalá, con las Agencias Municipales de las Riberas de Guadalupe, Juárez, Morelos, Zacalapa y Chicoasén; de Coapilla; de Hishuatán, con la Agencia Municipal de Chapayal; de Francisco León; de Ocotepec; de Pantepec; de Rayón; de Tapalapa; de Tapilula; de Tecpatán, con la Agencia Municipal de Quechula; de Tonalá, con las Agencias Municipales de Arista, La Polka, La Pesquería, Los Cocos y Ponte Duro; de Mapastepec; de Pijijiapam, con las Agencias Municipales de Tapachulita y Zapotal; de Tapachula, con las Agencias Municipales de El Edén, Las Maravillas, Nexapa, Puerto Madero, Chicharras, Carrillo Puerto y Alvaro Obregón; de Huixtla, con las Agencias Municipales de La Libertad y Coronado; de Escuintla, con las Agencias Municipales de Tizapa, El Triunfo, Doña María, Acacoyagua, Los Cacaos y La Libertad; de Huehuetán; de Tuxtla Chico; de Acapetagua; de Cacahoatán, de Mazatán, de Metapa; de Pueblo Nuevo Comaltitlán, con la Agencia Municipal de la Providencia; de Suchiate; de Tuzantán; de Unión Juárez; de Frontera Hidalgo; de Motozintla de Mendoza, con las Agencias Municipales de Benito Juárez, Buenos Aires, Carrizal, Chinincé, Lubeca, Aztecas, Niquivil, Pueblo Viejo, Ixtepec, Berriozábal, Tuixcum, Togzoloj, Soledad, Cipresal, y Belisario Domínguez; de Amatenango de la Frontera, con las Agencias Municipales de Ojo de Agua y Las Tablas; de El Porvenir, con las Agencias Municipales de Chimalapa; El Zapotillo y Malé; de Frontera Comala, con las Agencias Municipales de El Portal, Paso Hondo, Ibarra y Zapotal; de la Grandeza; de Mazapa de Madero, con las Agencias Municipales de Granados, Talcanaque, Hidalgo, Juárez y Tocanaque; de Siltepec, con las Agencias Municipales de El Rodeo, Las Ventanas, Honduras, Capitán Luis Vidal, Las Pilas, Las Delicias, Angel Díaz, Vega del Rosario, La Cascada y la Frailesca; de de (sic) Bella Vista, con las Agencias Municipales de El Pacayal, El Platanar, Las Chicharras, La Hacienda, La Laguna, Las Tablas, Los Cimientos y La Selva; de Bejucal de Ocampo, con las Agencias Municipales de Ojo de Agua y Las Tablas; de Oxchuc; de Chanal y de La Reforma.
 
 ## TITULO SEGUNDO. De los habitantes, vecinos y ciudadanos del Estado
 
@@ -463,13 +463,19 @@ IV.- No pertenecer al estado eclesiástico, no ser ministro de algún culto, ni 
 
 V.- No estar en servicio activo, en caso de pertenecer al ejército, cuando menos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1934)</small>
 
 ###### ARTICULO 43.
 
-El Gobernador entrará al ejercicio de su encargo a primera hora del día primero de diciembre, durará en él cuatro años y no podrá ser reelecto para el período inmediato.
+El Gobernador entrará al ejercicio de su encargo, previa protesta de Ley, a primera hora del día primero de diciembre y durará en él cuatro años.
 
-El ciudadano que substituyere al Gobernador Constitucional en sus faltas temporales o absolutas, no podrá electo (sic) Gobernador para el período inmediato.
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+a).- El Gobernador Substituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación.
+
+c) (sic).- El Gobernador Interino, el Provisional o el ciudadano que bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
 
@@ -1014,5 +1020,21 @@ La presente ley empezará a surtir sus efectos desde la fecha de su publicación
 P.O. 1 DE MARZO DE 1933.
 
 1º.- Quedan derogados todas las Leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
+
+2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 28 DE NOVIEMBRE DE 1934.
+
+DECRETO 103/8 QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+1º.- Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
+
+2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 28 DE NOVIEMBRE DE 1934.
+
+DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
 
 2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
