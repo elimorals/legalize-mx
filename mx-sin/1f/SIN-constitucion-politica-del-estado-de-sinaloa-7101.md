@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1949-05-31"
+last_updated: "1950-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1950.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -105,11 +105,9 @@ III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos s
 
 IV. Iniciar leyes ante el Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 1938)</small>
-
 ###### Art. 10 Bis.
 
-Tienen derecho a votar y a ser votadas en las elecciones generales del Estado y municipales, las mujeres Sinaloenses que hayan cumplido dieciocho años, si son casadas, o veintiuno si no lo son, siempre que vivan de su trabajo honesto; que formen parte de la familia de un obrero o campesino organizado, o de la familia de un trabajador del campo o de la ciudad.
+(DEROGADO, P.O. 26 DE ENERO DE 1950)
 
 ###### Art. 11.
 
@@ -1009,6 +1007,10 @@ Compete a los Ayuntamientos el ejercicio del Poder Legislativo Municipal, con la
 
 La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, y demás Regidores, se verificará cada tres años por elección directa y entrarán a funcionar el día primero de enero previa protesta que otorgarán ante el H. Ayuntamiento saliente. Por cada Regidor Propietario se elegirá un Suplente.
 
+> <small>(ADICIONADO P.O. 26 DE ENERO DE 1950)</small>
+
+En las elecciones Municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas.
+
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 ###### Art. 114.
@@ -1664,3 +1666,7 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondie
 P.O. 31 DE MAYO DE 1949.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 1950.
+
+Artículo Unico.-. Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
