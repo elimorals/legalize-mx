@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1988-04-13"
+last_updated: "1990-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -31,7 +31,7 @@ NICÉFORO ZAMBRANO, Gobernador Constitucional del Estado Libre y Soberano de Nue
 
 La XXXVII Legislatura del Estado Libre y Soberano de Nuevo León, en funciones de Constituyente, de acuerdo con el Decreto de 22 de Marzo próximo pasado, dictado por el Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, ha tenido a bien expedir la siguiente
 
-CONSTITUCION POLIICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
 
 ## TITULO I.
 
@@ -291,9 +291,13 @@ El cargo de Diputado Propietario o Suplente en ejercicio, durante las sesiones o
 
 Los Diputados sólo podrán desempeñar estos empleos con licencia de la Legislatura y, en su receso, de la Diputación Permanente cuando se trate de alguno de sus miembros; pero entonces cesarán en sus funciones legislativas mientras dure su nuevo cargo o empleo.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1990)</small>
+
 ###### Art. 53.
 
-Los Diputados gozan de una libertad absoluta para hablar; en consecuencia, son inviolables por sus opiniones manifestadas en el desempeño de su cargo, sobre las cuales en ningún tiempo pueden ser reconvenidos o juzgados por autoridad alguna.
+Los Diputados gozan de una libertad absoluta para hablar, en consecuencia son inviolables por sus opiniones manifestadas en el desempeño de su cargo, sobre los cuales en ningún tiempo pueden ser reconvenidos o juzgados por autoridad alguna.
+
+Corresponde al Presidente del Congreso velar por el respeto al Fuero Constitucional de los miembros del mismo y por el respeto y la inviolabilidad del Recinto donde se reúnan a sesionar.
 
 ###### Art. 54.
 
@@ -349,7 +353,9 @@ Pertenece al Congreso:
 
 I.- Decretar las leyes relativas a la Administración y gobierno interior del Estado en todos sus ramos, interpretarlas, reformarlas y derogarlas en caso necesario.
 
-II.- Iniciar ante el Gobierno General las que a éste competan, así como su reforma o derogación y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1990)</small>
+
+II.- Iniciar ante el Congreso de la Unión las que a éste competen, así como su reforma o derogación y secundar, cuando lo estime conveniente, las Iniciativas hechas por las Legislaturas de otros Estados.
 
 III.- Reclamar ante quien corresponda las leyes que dé el Congreso General y las Legislaturas, cuando ataquen la soberanía o independencia del Estado, o que por cualquier otro motivo se consideren anticonstitucionales.
 
@@ -1519,9 +1525,11 @@ A nadie se le puede coartar el derecho de asociarse o reunirse pacíficamente co
 
 No se considerará ilegal y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer peticiones o presentar protestas por actos de alguna Autoridad, si no se profieren injurias contra ésta, ni se hiciere uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desea.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1990)</small>
+
 ###### Art. 10.
 
-Todo hombre tiene derecho de poseer y portar armas para su seguridad y legítima defensa; pero no podrán portarse en las poblaciones sin sujetarse a los reglamentos de Policía. La ley señalará cuáles son las armas prohibidas y las penas en que incurran los que las portaren. No se permitirá el uso de las que la Nación reserve para el Ejército, Armada y Guardia Nacional.
+Los habitantes mayores de edad del Estado de Nuevo León, tienen el derecho de poseer armas para su legítima defensa, con excepción de las prohibidas por la Ley y las reservadas para el uso exclusivo del Ejército, Armada, Fuerza Aérea y Guardia Nacional. Las leyes determinarán los casos, condiciones, requisitos y lugares en que se podrá autorizar a los habitantes la portación de armas y las penas a las que incurran los que las porten violando dichas disposiciones.
 
 ###### Art. 11.
 
@@ -1990,3 +1998,21 @@ UNICO:- El presente Decreto entrará en vigor, el día de su publicación en el 
 P.O. 13 DE ABRIL DE 1988.
 
 UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1990.
+
+DECRETO NUMERO 148, QUE REFORMA EL ARTICULO 53, DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1990.
+
+DECRETO NUMERO 149, QUE REFORMA EL ARTICULO 63 FRACCION II, DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1990.
+
+DECRETO QUE REFORMA EL ARTICULO 10 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
