@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1921-08-30"
+last_updated: "1921-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 1921.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -607,9 +607,9 @@ III. Los Municipios administrarán libremente su hacienda, la cual se formará d
 
 IV. Los Municipios serán investidos de personalidad jurídica, para todos los efectos legales;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1919)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1921)</small>
 
-V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el primero de enero, durará en su encargo dos años y no podrá ser nuevamente electo, sino dos períodos después de haber cesado en sus funciones.
+V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión de su encargo el primero de enero, durará en él un año y no podrá ser nuevamente electo sino dos años después de haber cesado en sus funciones.
 
 ### CAPITULO XI.
 
@@ -801,6 +801,10 @@ P.O. 30 DE AGOSTO DE 1921.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
+P.O. 15 DE OCTUBRE DE 1921.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL DECRETO.</small>
+
 ###### Art. 1º.
 
 Todo habitante del Estado gozará de las mismas garantías que han sido reconocidas y consignadas en el Capítulo I de la Constitución Política de los Estados Unidos Mexicanos de 5 de febrero de 1917, las que sólo podrán ser suspendidas en los términos a que se refiere el art. 29 de la misma Constitución.
@@ -882,3 +886,9 @@ I. Cuando se pierda la cualidad de ciudadano mexicano;
 II. Por atentar en cualquier forma a la integridad, independencia o soberanía del Estado;
 
 III. Cuando siendo campechano por vecindad pierda ésta por avecindarse fuera del Estado.
+
+###### Art. 3°.
+
+Los componentes de los Ayuntamientos, Juntas y Comisarios Municipales, durarán también un año en sus respectivos encargos y no podrán ser nuevamente electos sino dos años después de haber cesado en sus funciones.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
