@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-salud-21610"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-05"
-last_updated: "2001-07-05"
+last_updated: "2004-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-07-03"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD, PUBLICADO EN EL D.O.F. DE 19 DE ENERO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 5 de julio de 2001.
 
@@ -1588,3 +1590,23 @@ SEXTO. Los derechos laborales de los trabajadores de la Secretaría serán respe
 SÉPTIMO. En tanto no se expidan los manuales que este Reglamento menciona, el Secretario queda facultado para resolver las cuestiones que dichos manuales deban regular.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de julio de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Salud, Julio José Frenk Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 19 DE ENERO DE 2004.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Salud, publicado en el Diario Oficial de la Federación el 5 de Julio de 2001. Asimismo, se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Continuarán en vigor los acuerdos secretariales de delegación de facultades, de desconcentración de funciones y demás que hayan sido expedidos con anterioridad en lo que no se opongan a las disposiciones del presente ordenamiento.
+
+CUARTO. La Secretaría, en un plazo no mayor de noventa días expedirá, mediante acuerdo secretarial, la integración y funcionamiento de los Comités de Coordinación Interna de la Dependencia, a que se refiere el artículo 4 del presente Reglamento.
+
+QUINTO. Las unidades administrativas con denominación nueva o distinta que aparecen en el presente Reglamento y que tienen competencia en asuntos que anteriormente correspondían a otras áreas o unidades, se harán cargo de los mismos hasta su resolución.
+
+SEXTO. Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento deba ser ejercida por alguna otra unidad de las que el mismo establece, el personal y los recursos materiales y financieros con que aquélla contaba y que fueren necesarios, pasarán a la unidad o unidades competentes, de acuerdo con la asignación que haga la Subsecretaría de Administración y Finanzas, de conformidad con el ámbito de facultades que a cada una corresponda.
+
+SÉPTIMO. Los derechos laborales de los trabajadores de la Secretaría serán respetados conforme a la Ley.
+
+OCTAVO. En tanto se expidan los manuales que este Reglamento menciona, el Secretario queda facultado para resolver las cuestiones que dichos manuales deban regular.
