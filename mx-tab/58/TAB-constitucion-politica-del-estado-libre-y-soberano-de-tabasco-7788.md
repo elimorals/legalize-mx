@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1970-03-28"
+last_updated: "1970-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1970.
+> <small>N. DE E. ES DE OBSERVARSE QUE EN LA PRESENTE REFORMA EL LEGISLADOR ES IMPRECISO SOBRE LA UBICACION DE TITULOS, CAPITULOS Y ARTICULOS DEL ORDENAMIENTO, POR LO QUE SE REALIZO LA UBICACION DE LOS MISMOS CON BASE EN SU DENOMINACION Y CONTENIDO, LO QUE SE HACE DE CONOCIMIENTO DEL USUARIO PARA LOS EFECTOS PROCEDENTES.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1970.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -221,11 +223,11 @@ IV.- Mandar a hacer cortes de cuentas con los acreedores del Estado, a fin de de
 
 V.- Intervenir ni inmiscuirse en las funciones propias de otro poder, usurpando facultades Constitucionales o entorpeciendo la actuación legítima de una autoridad, funcionario o empleado.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 31.
 
-Cuando desaparezcan los Poderes Ejecutivo y Legislativo del Estado, o bien desaparezcan los tres Poderes del mismo, entrará a funcionar como Gobernador Provisional el último Presidente del H. Tribunal Superior de Justicia. En su defecto, el último Presidente del Congreso desaparecido y a falta de este último, el último Secretario de Gobierno. A falta de los anteriores, lo ocupará sucesivamente, el Presidente Municipal, que habiendo permanecido dentro del orden legal, represente a cada uno de los Municipios del Estado en el orden siguiente: Centro, Centla, Comalcalco, Paraíso, Macuspana, Huimanguillo, Teapa, Cárdenas, Tenosique, Cunduacán, Tacotalpa, Jalapa, Emiliano Zapata, Jonuta, Jalpa de Méndez, Balancán y Nacajuca.
+Cuando desaparezcan los Poderes Ejecutivo y Legislativo del Estado, o bien desaparezcan los tres Poderes del mismo, entrará a funcionar como Gobernador Provisional el último Presidente del H. Tribunal Superior de Justicia. En su defecto, el último Presidente del Congreso desaparecido. A falta de los anteriores, lo ocupará sucesivamnte (sic), el Presidente Municipal que habiendo permanecido dentro del orden legal, represente a cada uno de los Municipio (sic) del Estado en el orden siguiente: Centro, Centla, Comalcalco, Paraíso, Macuspana, Huimanguillo, Teapa, Cárdenas, Tenosique, Cunduacán, Tacotalpa, Jalapa, Emiliano Zapata, Jonuta, Jalpa de Méndez, Balancán y Nacajuca.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
 
@@ -291,7 +293,9 @@ III.- No ser Ministro de ningún culto, ni dedicarse o haberse dedicado a la ela
 
 IV.- No estar en el servicio activo del Ejército Federal, Guardia Nacional, Policía o Gendarmería, en el distrito en que se haga la elección, cuando menos noventa días antes de la misma.
 
-V.- No ser Gobernador del Estado, Secretario General de Gobierno, Sub-secretario, Tesorero General del Estado, Magistrado del Tribunal Superior de Justicia, Procurador de Justicia, Presidente Municipal o funcionario de la Federación en el Estado, a menos que se separen de sus funciones noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+V.- No ser Gobernador del Estado, ni titular de alguna de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo, Magistrado del Tribunal Superior de Justicia, Procurador de Justicia, Presidente Municipal o funcionario de la Federación en el Estado, a menos que se separe de sus funciones noventa días antes del día antes (sic) de la elección.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
 
@@ -509,11 +513,11 @@ III.- Cuando se convoque por la Comisión Permanente a período extraordinario d
 
 IV.- Cuando declare que debe acusarse a uno de los funcionarios del Estado por delitos, faltas u omisiones oficiales.
 
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 67.
 
-El Ejecutivo tendrá el derecho de enviar al Secretario de Gobierno para que defienda ante la Cámara las iniciativas que proponga, o las observaciones que haga a un proyecto. A ese efecto, el Presidente del Congreso le comunicará el día en que deba tener lugar la discusión, sin que por su falta de asistencia se suspenda el debate.
+El Ejecutivo tendrá el derecho de enviar al Secretario a que corresponda el asunto para que defienda ante la Cámara las iniciativas que proponga, o las observaciones que haga a un proyecto. A ese efecto, el Presidente del Congreso lo comunicará el día en que deba tener lugar la discusión, sin que por su falta de asistencia se suspenda el debate.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
 
@@ -617,7 +621,9 @@ XXVI.- Dar reglas de colonización conforme a las bases que establezca la Consti
 
 XXVII.- Arreglar los límites del Estado por convenios amistosos, los cuales se llevarán a efecto con aprobación del Congreso de la Unión.
 
-XXVIII.- Citar al Secretario General de Gobierno para que informe sobre algún negocio, o discuta alguna ley que se relacione con el Ejecutivo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+XXVIII.- Citar al Secretario al que corresponda el asunto para que informe sobre algún negocio o discuta alguna ley que se relacione con el Ejecutivo.
 
 XXIX.- Expedir las bases de Policía y buen Gobierno a que deben sujetarse los Municipios para hacer las suyas.
 
@@ -717,239 +723,231 @@ VII.- Convocar al Congreso a cualquier punto del Estado fuera de la Capital, si 
 
 VIII.- Las demás que le concede esta Constitución.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+### CAPITULO VI.
+
+CONTADURIA MAYOR DE HACIENDA.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 75.
+
+En el lugar donde residan los Poderes del Estado se establecerá una Oficina denominada "Contaduría Mayor de Hacienda", que dependerá directamente del Congreso, compuesta de los empleados que designe la ley, y en ella se glosarán, sin excepción, las cuentas de los caudales públicos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 76.
+
+Toda cuenta de los fondos públicos, del Estado o del municipio deberá quedar concluída y glosada anualmente sin que se permita jamás que algún crédito activo quede pendiente de un año para otro.
+
+La falta de cumplimiento de este precepto es causa de responsabilidad, así de los empleados de la Contaduría como de la Comisión Inspectora.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
 ### CAPITULO I.
 
 GOBERNADOR DEL ESTADO.
 
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
-
-###### Art. 75.
-
-Se deposita el Poder Ejecutivo del Estado, en un ciudadano que se que se denominará "Gobernador del Estado de Tabasco".
-
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
-
-###### Art. 76.
-
-La elección de Gobernador será directa, en los términos que disponga la ley respectiva.
-
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
-
-### CAPITULO II.
-
-FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE MAYO DE 1946)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 77.
 
-El Gobernador Constitucional entrará en funciones el día primero de enero; durará en su encargo seis años y en ningún caso y por ningún motivo volverá a ocupar ese cargo.
+Se deposita el Poder Ejecutivo del Estado en un ciudadano que se que se denominará "Gobernador del Estado de Tabasco".
 
-Nunca podrán ser electos para el período inmediato:
-
-El Gobernador Substituto Constitucional, el Substituto o el designado para concluir le (sic) periodo en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación. El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador siempre que desempeñe el cargo los dos últimos años del periodo.
-
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 78.
 
-Para ser Gobernador Constitucional se requiere:
+La elección de Gobernador será directa, en los términos que disponga la Ley respectiva.
 
-I.- Ser ciudadano mexicano por nacimiento y nativo del estado o con vecindad no menor de cinco años inmediatamente anteriores al día de la elección.
-
-II.- Tener veinticinco años de edad cumplidos el día de la elección.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE MAYO DE 1961)</small>
-
-III.- No ser ministro de ningún culto, ni dedicarse o haberse dedicado a la elaboración o fabricación de bebidas embriagantes, o a su comercio o venta en expendio o cantina, o en cualquier otra forma o negocio explote el vicio del alcoholismo.
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 1938)</small>
-
-IV.- Haber dejado de estar en servicio activo tanto en el Ejército Federal, como en las Guardias Nacionales o Auxiliares, cuando menos seis meses antes del día en que deban verificarse las elecciones.
-
-V.- No ser Secretario General de Gobierno, Subsecretario de Gobierno o Tesorero al del Estado, a menos que se separe de su puesto noventa días antes de la elección.
-
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 79.
 
-Para ser Gobernador interino sólo se requieren los requisitos señalados en las fracciones I, II, III, IV del artículo anterior.
+El Gobernador Constitucional entrará en funciones el día primero de enero; durará en su encargo seis años y en ningún caso y por ningún motivo volverá a ocupar ese puesto.
 
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+Nunca podrán ser electos para el período inmediato: El Gobernador Substituto Constitucional, el Substituto o el designado para concluír el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación; el Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador siempre que desempeñe el cargo los dos últimos años del período.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 80.
 
-El Gobernador, al tomar posesión de su cargo, presentará ante el Congreso o ante la Comisión Permanente la siguiente Protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación o el Estado me lo demanden."
+Para ser Gobernador Constitucional del Estado se requiere:
 
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE MAYO DE 1946)</small>
+I.- Ser ciudadano mexicano por nacimiento, y nativo del Estado o con vecindad no menor de cinco años inmediatamente anteriores al día de la elección.
+
+II.- Tener veinticinco años de edad cumplidos en el día de la elección.
+
+III.- No ser Ministro de ningún culto, ni dedicarse o haberse dedicado a la elaboración o fabricación de bebidas embriagantes, o a su comercio o venta en expendio o cantina, o que en cualquier otra forma o negocio explote el vicio del alcoholismo.
+
+V (SIC).- No ser Secretario de ninguna de las ramas de Administración Pública, Procurador General de Justicia, Oficial Mayor o Titular de alguna de las Direcciones de la Administración Pública, o Presidente Municipal, ni funcionario federal que esté en ejercicio directo de sus funciones dentro del Estado, a menos que se haya separado del puesto 90 días antes de la elección.
+
+VI.- Los demás requisitos señalados por esta Constitución, y por el Artículo 115 de la Constitución General de la República.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 81.
 
-En el caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se erigirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos a un Gobernador Interino. El mismo Congreso expedirá, dentro de los cinco días siguientes a la designación de Gobernador Interino, la convocatoria para la elección de Gobernador que deba concluír el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que señalo para que se efectúen las elecciones, un plazo no menor de tres meses ni mayor de seis.
+Para ser gobernador Interino sólo se requieren los requisitos señalados en las fracciones I, II, III, IV del artículo anterior.
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará, desde luego, a un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador Interino y expida la convocatoria para la elección de Gobernador, en los términos del párrafo anterior.
-
-Cuando la falta de Gobernador ocurriese después del segundo año del período respectivo, si el Congreso se encontrare en sesiones designará al Gobernador sustituto que deba concluír el período. Si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias, para que se erija en Colegio Electoral y haga la designación del Gobernador Sustituto.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE MAYO DE 1946)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 82.
 
-Si al comenzar un período Constitucional, no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada, el primero de enero cesará el Gobernador cuyo período haya concluído y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador Interino el que designe el Congreso o en su defecto la Comisión Permanente, procediéndose enseguida como se dispone en el artículo anterior.
+El Gobernador, al tomar posesión de su cargo, presentará ante el Congreso o ante la Comisión Permanente la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así que la Nación o el Estado me lo demanden".
 
-Cuando la falta de Gobernador fuese temporal, excediendo de sesenta días, el Congreso o en su defecto la Comisión Permanente, designará Gobernador Interino, para el tiempo que dura la falta.
-
-Cuando la falta de Gobernador no exceda de sesenta días se hará cargo del Despacho del Poder Ejecutivo el Secretario General de Gobierno. Se considera temporal toda falta del Gobernador que no exceda de seis meses. Excediendo, se convertirá en absoluta, y entonces se procederá como lo dispone el artículo anterior.
-
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 83.
 
-El Gobernador no podrá ausentarse del territorio del Estado ni separarse del ejercicio de sus funciones, por más de sesenta días sin permiso de la Legislatura. Cuando saliere fuera (sic) de la Capital del Estado, deberá dar aviso al Congreso.
+En el caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones se erigirá inmediatamente en colegio electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos a un Gobernador Interino. El mismo Congreso expedirá, dentro de los cinco días siguientes a la designación de Gobernador Interino, la convocatoria para la elección de Gobernador que deba concluír el período respectivo debiendo mediar entre la fecha de la convocatoria y la que se señale para que se efectúen las elecciones un plazo no menor de tres meses ni mayor de seis.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE MAYO DE 1946)</small>
+Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará, desde luego, a un Gobernador Provisional, y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador Interino y expida la Convocatoria para la elección de Gobernador, en los términos del párrafo anterior.
+
+Cuando la falta de Gobernador ocurriese después del segundo año del período respectivo, si el Congreso se encontrare en sesiones designará al Gobernador Substituto que deberá concluír el período. Si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación del Gobernador Substituto.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 84.
 
-El cargo de Gobernador Constitucional del Estado sólo es renunciable por causa grave que calificará la Legislatura en los términos del artículo 70.
+Si al comenzar un período Constitucional, no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada, el primero de enero cesará el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador Interino el que designe el Congreso o en su defecto el Provisional designado por su Comisión Permanente, procediéndose en seguida como se dispone en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
+Para suplir las ausencias temporales del C. Gobernador, hasta de 60 días, éste designará de entre los Secretarios de Gobierno y el Procurador General de Justicia al funcionario que deba substituirlo, comunicándolo al H. Congreso del Estado, o en su defecto a la Comisión Permanente.
+
+Cuando la falta de Gobernador fuese temporal excediendo de 60 días, el Congreso designará Gobernador Interino por el tiempo que dure la falta; o en su defecto la Comisión Permanente designará un Gobernador Provisional convocando al Congreso a Sesión Extraordinaria para que se erija en Colegio Electoral y haga la designación del Gobernador Interino.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 85.
 
-Son facultades y obligaciones del Gobernador:
+El Gobernador no podrá ausentarse del Territorio del Estado ni separarse del ejercicio de sus funciones, por más de sesenta días sin permiso de la Legislatura.
 
-I.- Publicar y hacer cumplir las leyes federales.
-
-II.- Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Legislativo del Estado y procurar la exacta observancia de ellos.
-
-III.- Nombrar y remover libremente al Secretario General de Gobierno.
-
-IV.- Nombrar y remover libremente al Tesorero General del Estado.
-
-V.- Nombrar y remover libremente al Procurador de Justicia, al Subsecretario de Gobierno y a todos los demás empleados y funcionarios del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes.
-
-VI.- Formar los Reglamentos que fueren necesarios para la ejecución de las leyes.
-
-VII.- Hacer observaciones, en los términos que dispone el artículo 63, a los proyectos de ley o decretos del Congreso.
-
-VIII.- Acordar que concurran el Secretario General de Gobierno o el Tesorero General del Estado a las sesiones de la Legislatura, para que den a ésta los informes que pida, o a efecto de apoyar en los debates las observaciones que haga el Ejecutivo a los proyectos de ley o decreto, o las iniciativas que presentaré.
-
-IX.- Castigar correccionalmente a los que le falten al respeto o desobedezcan sus disposiciones como Gobernador, en los términos del artículo 21 de la Constitución General de la República; pero sin que la multa exceda de mil pesos ni el arresto que se imponga, en su caso, pase de quince días.
-
-X.- Disponer de la Guardia Nacional o de la fuerza pública en el Municipio en que residiere temporal o habitualmente.
-
-XI.- Disponer de la fuerza pública de los otros Municipios para la defensa del Estado y para conservar la tranquilidad y el orden público cuando se altere.
-
-XII.- Nombrar uno o más apoderados para asuntos judiciales, dentro o fuera del Estado.
-
-XIII.- Pedir al Congreso la prórroga del período de sesiones ordinarias.
-
-XIV.- Pedir a la Comisión Permanente que convoque a sesiones extraordinarias.
-
-XV.- Facilitar al Poder Judicial los auxilios que necesite para expeditar el ejercicio de sus funciones.
-
-XVI.- Mandar que se publiquen mensualmente los Cortes de Caja de las Oficinas recaudadoras del Estado.
-
-XVII.- Hacer uso del derecho de iniciar leyes o decretos que le concede el artículo 56 de la presente Constitución.
-
-XVIII.- Presentar en el primer período de sesiones ordinarias del Congreso los presupuestos de Ingresos y de Egresos que han de regir en el año siguiente.
-
-XIX.- Expedir títulos profesionales con arreglo a las leyes.
-
-XX.- Recibir las protestas de los funcionarios o empleados de nombramiento del Gobernador, si conforme a las leyes no deben otorgarlas ante otra autoridad.
-
-XXI.- Fijar la extensión de terreno que se deba conceder a las Sociedades Mercantiles conforme al artículo 27 fracción IV de la Constitución General de la República.
-
-XXII.- Visitar cada año los municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas, y dar cuenta al Congreso con el resultado de cada visita.
-
-XXIII.- Impedir los abusos de fuerza armada contra los ciudadanos de los pueblos y rancherías, haciendo efectiva la responsabilidad en que aquélla incurra. Cualquier omisión o falta acerca de este punto, es causa de responsabilidad y produce acción popular para denunciarla.
-
-XXIV.- Pedir la Protección de los Poderes de la Unión, en caso de sublevación o trastorno interior.
-
-XXV.- Hacer eficaz la libertad de sufragio, impidiendo que se ejerza presión en los ciudadanos.
-
-XXVI.- Conceder o denegar indultos y reducción o conmutación de penas por los delitos de la competencia de los tribunales del Estado con los requisitos establecidos por las leyes.
-
-XXVII.- Los demás que le confiere esta Constitución.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
 ###### Art. 86.
 
-No puede el Gobernador:
+El cargo de Gobernador Constitucional del Estado sólo es renunciable por causa grave que calificará la Legislatura en los términos del artículo 70.
 
-I.- Renunciar el cargo sin causa grave calificada por el Congreso.
-
-II.- Sancionar leyes, expedir decretos, dar órdenes generales o de pago sin que sean autorizados por el Secretario General de Gobierno.
-
-III.- Negarse a sancionar y publicar las leyes decretos o acuerdos de la Legislatura.
-
-IV.- Mezclarse en los asuntos judiciales ni disponer, durante los juicios, de las cosas que en ellos se versen, o de las personas que están bajo la acción judicial.
-
-V.- Mandar personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso de la Legislatura o de la Comisión Permanente.
-
-VI.- Permitir o tolerar que se establezcan en el Estado loterías; con excepción de una de Beneficencia Pública, autorizada por el Congreso y las loterías de figuras. Tampoco puede el Gobernador permitir que se establezcan en el Estado ruletas, rifas y demás juegos de azar.
-
-VII.- Pertenecer o ayudar a partidos políticos de propaganda electoral en el Estado, ni intervenir en las elecciones para que éstas recaigan en determinadas personas, ya lo haga por sí o por medio de otras autoridades o agentes o bien por medio del Secretario y Subsecretario de Gobierno.
-
-VIII.- Impedir o retardar las elecciones populares o la instalación de la Legislatura.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
 ## Título Cuarto.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
 
+### CAPITULO II.
+
+FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 87.
+
+Son facultades y obligaciones del Gobernador:
+
+I.- Publicar y hacer cumplir las leyes federales.
+
+II.- Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Legislativo del Estado y expedir órdenes y reglamentos necesarios para la exacta observación de los mismos sin alterarlos ni modificarlos.
+
+III.- Nombrar y remover respetando los requisitos que esta Constitución y la Ley respectiva estipula para cada caso, a los funcionarios y al personal que forma parte del Poder Ejecutivo.
+
+IV.- Acordar que concurran los titulares de las dependencias del Poder Ejecutivo a las sesiones de la Legislatura, para que den a ésta los informes que pida, o a efecto de apoyar en los debates las observaciones que haga el Ejecutivo a los proyectos de Ley, así como a los decreto e iniciativas que presentare.
+
+V.- Disponer de la Guardia Nacional o de la Fuerza Pública en el Municipio en que reside habitual o temporalmente.
+
+VI.- Disponer de la Fuerza Pública de los otros Municipios para la defensa del Estado y para conservar la tranquilidad y el orden público cuando se altere.
+
+VII.- Nombrar uno o más apoderados para asuntos judiciales dentro o fuera del Estado.
+
+VIII.- Solicitar al Congreso la prorroga del período de sesiones ordinarias.
+
+IX.- Solicitar a la Comisión Permanente que convoque a sesiones extraordinarias.
+
+X.- Facilitar al Poder Judicial los auxilios que necesite para expeditar el ejercicio de sus funciones.
+
+XI.- Mandar que se publiquen mensualmente los Cortes de Caja de las Oficinas recaudadoras del Estado.
+
+XII.- Hacer uso del derecho de iniciar leyes o decretos que le concede el artículo 60 de la presente Constitución.
+
+XIII.- Presentar en el primer período de sesiones ordinarias del Congreso los presupuestos de Ingresos y de Egresos que han de regir en el año siguiente.
+
+XIV.- Expedir los títulos profesionales que conforme a las leyes le correspondan.
+
+XV.- Recibir las protestas de los funcionarios, empleados de nombramiento del Gobernador si conforme a las leyes no deben otorgarlas ante otra autoridad.
+
+XVI.- Fijar la extensión de terreno que se deba conceder a las sociedades mercantiles conforme al Art. 27 Fracción IV de la Constitución General de la República.
+
+XVII.- Visitar cada año los municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas, y dar cuenta al Congreso con el Resultado de cada visita.
+
+XVIII.- Impedir los abusos de fuerza armada contra los ciudadanos de los pueblos y rancherías, haciendo efectiva la responsabilidad en que aquélla incurra. Cualquier omisión o falta acerca de este punto es causa de responsabilidad y produce acción popular para denunciarla.
+
+XIX.- Pedir la protección de los Poderes de la Unión, en caso de sublevación o trastorno interior.
+
+XX.- Hacer eficaz la libertad de sufragio, impidiendo que se ejerza presión en los ciudadanos.
+
+XXI.- Conceder o denegar indultos y reducción o conmutación de penas por los delitos de la competencia de los Tribunales del Estado con los requisitos establecidos por las leyes.
+
+XXII.- Las demás que le confiere esta Constitución.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
 ### CAPITULO III.
 
 LO QUE NO PUEDE HACER EL GOBERNADOR.
 
-REFORMADO Y REUBICADO, P.O. 4 DE MAYO DE 1946)
-
-###### Art. 87.
-
-Para el despacho de los negocios encomendados al Poder Ejecutivo el Estado, habrá un funcionario que se denominará "Secretario General de Gobierno."
-
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
-
-### CAPITULO IV.
-
-SECRETARIO GENERAL Y SUBSECRETARIO DE GOBIERNO.
-
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 88.
 
-Para ser Secretario General de Gobierno se requieren los mismos requisitos que para Gobernador del Estado.
+No puede el Gobernador:
 
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+I.- Renunciar el cargo sin causa grave calificada por el Congreso.
 
-### CAPITULO I.
+II.- Negarse a sancionar y publicar las leyes, decretos o acuerdos de la Legislatura.
 
-MAGISTRADOS Y JUECES.
+III.- Mezclarse en los asuntos judiciales ni disponer, durante los juicios, de las cosas en que ellos se versen, o de las personas que están bajo la acción judicial.
+
+IV.- Mandar personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso de la Legislatura o de la Comisión Permanente.
+
+V.- Permitir o tolerar que se establezcan en el Estado loterías; con excepción de una de Beneficiencia (sic) Pública autorizada por el Congreso y las loterías de figuras.
+
+Tampoco puede el Gobernador permitir que se establezcan en el Estado ruletas, rifas y demás juegos de azar.
+
+VI.- Pertenecer o ayudar a partidos políticos de propaganda electoral en el Estado, ni intervenir en las elecciones para que éstas recaigan en determinadas personas, ya lo haga por sí o por medio de otras autoridades o agentes o bien por medio de alguno de los funcionarios del Gobierno.
+
+VII.- Impedir o retardar las elecciones populares o la instalación de la Legislatura.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+### CAPITULO IV.
+
+DE LAS DEPENDENCIAS QUE INTEGRAN EL PODER EJECUTIVO.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 89.
 
-Será el Jefe de la Secretaría y estarán a su cargo todos los negocios del Ejecutivo, sean cuales fueren.
+Para el despacho de los negocios del orden administrativo del Estado, habrá el número de dependencias que establezca el Congreso por una Ley, la que distribuirá las funciones que a cada dependencia correspondan, así como los requisitos que el Gobernador tendrá que observar para nombrar los titulares de las mismas.
 
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 90.
 
-Los acuerdos, órdenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en el ejercicio de sus funciones constitucionales, deberán ser autorizados por el Secretario sin este requisito no surtirán efectos legales.
+Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despachados por las diversas dependencias del Poder Ejecutivo, cuando así lo señalen las leyes y reglamentos correspondientes, irán firmados por el titular de la Dependencia que los despache y por el Gobernador del Estado, sin este requisito no serán obedecidos.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE MAYO DE 1946)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 91.
 
-No podrá desempeñar ningún otro empleo o cargo del Estado o de la Federación, por el cual se disfrute sueldo, salvo los de cátedra, beneficencia o el previsto en el artículo 82 de esta Constitución.
+Los titulares de las Dependencias, serán responsables por el despacho de los documentos de la esfera de su competencia, que habiendo sido firmados por el Gobernador, autoricen actos contrarios a lo previsto en la Constitución General de la República, Leyes Federales o de esta Constitución.
 
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 92.
 
-Será responsable por autorizar los actos del Gobernador que sean contrarios a lo prevenido en la Constitución y Leyes Federales, o a la presente Constitución y leyes que de ella emanen.
+Las leyes y decretos que sean remitidos para su promulgación por el H. Congreso del Estado, al Ejecutivo Local, tendrán validez para efectos legales con la sola firma del Gobernador, certificada por el Secretario a que corresponda el asunto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ## Título Quinto.
 
@@ -957,37 +955,139 @@ PODER LEGISLATIVO.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
 
+### CAPITULO IV (SIC).
+
+MINISTERIO PUBLICO.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 93.
+
+El Ministerio Público en el Estado es una institución dependiente del Poder Ejecutivo, y estará a cargo de un "Procurador General de Justicia" que residirá en la Capital del Estado, y del número de agentes que determine la Ley que organice su funcionamiento.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 94.
+
+El Procurador de Justicia dependerá directamente del Gobernador del Estado, quien lo nombrará y removerá libremente.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 95.
+
+Los Agentes del Ministerio Público serán nombrados por el Gobernador a propuesta del Procurador General.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 96.
+
+Para ser Procurador de Justicia del Estado se requieren las mismas condiciones que para ser Magistrado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 97.
+
+El Procurador de Justicia es el representante de los intereses de la sociedad y semestralmente deberá rendir un informe detallado por escrito al Gobernador, reseñando las labores que hubiere desempeñado, las deficiencias que haya notado en los distintos ramos de la Administración de Justicia, e indicando las reformas que a su juicio deban hacerse.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 98.
+
+Sus labores, en términos generales, serán las de velar por el exacto cumplimiento de las leyes, procediendo en contra de sus infractores, cualquiera que sea su categoría; las de perseguir y ejercer ante los tribunales que corresponda, las acciones penales respectivas, y vigilar a los Agentes del Ministerio Público para que cumplan fielmente con su cometido.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 99.
+
+Las licencias de los Agentes del Ministerio Público serán concedidas por el Procurador de Justicia, y sobre las renuncias de los mismos funcionarios resolverá al (sic) Gobernador del Estado.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 100.
+
+El Procurador de Justicia del Estado tendrá el carácter de Consejero Jurídico del Gobierno. Tanto él como sus Agentes se someterán estrictamente a las disposiciones de las leyes, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+## Título Sexto.
+
+PODER EJECUTIVO.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+### CAPITULO VI.
+
+HACIENDA PUBLICA DEL ESTADO.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 101.
+
+La Hacienda Pública tiene por objeto subvenir a los gastos ordinarios y extraordinarios del Estado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 102.
+
+La Hacienda Pública se compondrá del producto de las contribuciones que decrete el Congreso y de los demás ingresos que las leyes respectivas señalen.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 103.
+
+La Hacienda Pública del Estado estará a cargo del Ejecutivo y será administrada por, y en la forma en que las leyes y los reglamentos respectivos lo estipulen.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 104.
+
+No egresará ningún dinero de la Hacienda Pública sin orden del Gobernador y que no esté previamente autorizada por Ley o decreto del Congreso; exceptuando los sueldos de los miembros del Poder Legislativo y de los Magistrados del Tribunal Superior de Justicia, que pueden ser pagados sin orden del Ejecutivo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 105.
+
+El año fiscal comenzará el primero de enero y terminará el 31 de diciembre.
+
+## Título Séptimo.
+
+PODER JUDICIAL.
+
+### CAPITULO I.
+
+MAGISTRADOS Y JUECES.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 106.
+
+Se deposita el ejercicio del Poder Judicial del Estado en un "Tribunal Superior de Justicia", en los Juzgados de Primera Instancia ya establecidos o en los que en adelante se establezcan, y en los Juzgados Municipales.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 107.
+
+El Tribunal Superior de Justicia se compondrá de tres Magistrados propietarios y tres Suplentes, por lo menos, y funcionará en pleno de la manera que establezca la Ley, siendo públicas sus audiencias si la moral o el interés público no exigieren el secreto. Sus resoluciones se tomarán por mayoría absoluta.
+
+> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR ES OMISO SOBRE LA EXISTENCIA DEL PRESENTE CAPITULO, NO OBSTANTE LA ADICION DE UN CAPITULO IV (SIC) "MINISTERIO PUBLICO" AL TITULO SEXTO DEL PRESENTE ORDENAMIENTO, P.O. 30 DE DICIEMBRE DE 1970.</small>
+
+## Título Octavo.
+
 ### CAPITULO II.
 
 MINISTERIO PUBLICO.
 
-###### Art. 93.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
-Para ser Subsecretario se requieren los mismos requisitos que para Diputado.
-
-###### Art. 94.
-
-Las faltas temporales del Secretario General serán suplidas por el Subsecretario, con las mismas responsabilidades que aquél.
-
-###### Art. 95.
-
-Se deposita el ejercicio del Poder Judicial del Estado en un "Tribunal Superior de Justicia", en los Juzgados de Primera Instancia ya establecidos o en los que en adelante se establezcan, y en los Juzgados Municipales.
-
-###### Art. 96.
-
-El Tribunal Superior de Justicia se compondrá de tres Magistrados propietarios y tres Suplentes, por lo menos, y funcionará en pleno de la manera que establezca la Ley, siendo públicas sus audiencias si la moral o el interés público no exigieren el secreto. Sus resoluciones se tomarán por mayoría absoluta.
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1938)</small>
-
-###### Art. 97.
+###### Art. 108.
 
 Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Estado, serán hechos por el Gobernador y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de quince días. Si el Congreso resuelve dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión los Magistrados nombrados por el Gobernador del Estado. En el caso que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento, que surtirá sus efectos, desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente periodo de sesiones. En ese periodo el Congreso dentro de los primeros 10 días deberá aprobar o reprobar el nombramiento, si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado Provisional, y el Gobernador someterá un nuevo nombramiento al Congreso, en los términos indicados.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
-
 Los Magistrados durarán en su cargo seis años; pero podrán ser removidos por causa justificada, o previo el juicio de responsabilidad respectivo.
 
-###### Art. 98.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 109.
 
 Para ser Magistrado del Tribunal Superior de Justicia se requiere:
 
@@ -999,155 +1099,115 @@ III.- Ser abogado con título legal y haber ejercido la profesión cuando menos 
 
 IV.- Ser del estado seglar.
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1946)</small>
-
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal.
 
-###### Art. 99.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 110.
 
 Los Magistrados del Tribunal Superior de Justicia, al entrar a ejercer su encargo, prestarán ante el Congreso o ante la Comisión Permanente la protesta siguiente: Presidente: ¿"Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado"? -Magistrado: "Sí protesto" -Presidente: "Si no lo hiciereis así, la Nación o el Estado os lo demande".
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1969)</small>
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
-###### Art. 100.
+###### Art. 111.
 
 Será Presidente del Tribunal el Magistrado Propietario que resulte electo por la misma corporación; será renovado cada año y sus faltas temporales serán suplidas precisamente por uno de los otros Magistrados propietarios, designados en la misma forma que el anterior. El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el día 16 de diciembre de cada año y rendirá ante la representación popular, un informe acerca de la situación que guarde la administración de justicia en el Estado. El Presidente del Congreso contestará el documento antes citado.
 
-## Título Sexto.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
-PODER EJECUTIVO.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
-
-### CAPITULO I.
-
-MUNICIPIO LIBRE.
-
-###### Art. 101.
+###### Art. 112.
 
 El cargo de Magistrado del Tribunal Superior de Justicia sólo es renunciable por causa grave, calificada por el Congreso o por la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 1969)</small>
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
-###### Art. 102.
+###### Art. 113.
 
 Los Jueces de Primera Instancia y Menores durarán en su encargo tres años. Sólo podrán ser removidos por causa justificada.
 
-(REFORMADO, P.O. 19 DE JULIO DE 1969
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
-###### Art. 103.
+###### Art. 114.
 
 Los Jueces Municipales durarán en su cargo tres años. Sólo podrán ser removidos por causa justificada.
 
-###### Art. 104.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 115.
 
 Las leyes establecerán y organizarán los Juzgados de Primera Instancia, los Municipales y los demás que se creyeren necesarios.
 
-###### Art. 105.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 116.
 
 El Tribunal Superior de Justicia residirá en la Capital del Estado, y en ningún caso ejercerá sus funciones fuera de ella, a no ser que lo autorice la Legislatura.
 
-## Título Séptimo.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
-PODER JUDICIAL.
-
-### CAPITULO I.
-
-###### Art. 106.
+###### Art. 117.
 
 En los juicios no podrá haber más que dos instancias, quedando suprimido el recurso de casación.
 
-###### Art. 107.
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 118.
 
 Corresponde también al Tribunal Superior de Justicia funcionando en pleno:
 
 I.- Hacer uso de la facultad que le concede esta Constitución para iniciar leyes.
 
-II.- Conocer en Jurado de las causas de responsabilidad a que se refiere el artículo 133 de esta Constitución.
+II.- Conocer en Jurado de las causas de responsabilidad a que se refiere el artículo 128 de esta Constitución.
 
 III.- Nombrar y remover libremente al Secretario del Tribunal y demás empleados de su Secretaría, castigar sus faltas con multas o suspensión, y admitir sus renuncias, así como concederles licencia.
 
 IV.- Nombrar a propuesta de los Jueces respectivos a los Secretarios de los Juzgados, cuidando que reúnan los requisitos de ley.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 1921)</small>
-
 V.- Nombrar a los Jueces de Primera Instancia y Municipales; éstos últimos a propuesta en terna de los Ayuntamientos.
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1946)</small>
 
 VI.- Conceder licencia a los Magistrados y dar cuenta al Ejecutivo, en caso de que sea necesario nombrar sustituto.
 
 VII.- Vigilar y promover cuanto se relacione con la buena marcha de la Administración de Justicia.
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1946)</small>
-
 VIII.- Dirimir los conflictos que surjan entre los municipios y cualquiera de los otros dos poderes del Estado.
 
-## Título Octavo.
+## Título Noveno.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ### CAPITULO I.
 
-RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS.
+MUNICIPIO LIBRE.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 1923)</small>
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
-###### Art. 108.
-
-El Ministerio Público en el Estado estará a cargo de un "PROCURADOR DE JUSTICIA" que residirá en la Capital del Estado, y del número de Agentes que determinará la ley que organice su funcionamiento.
-
-###### Art. 109.
-
-El Procurador de Justicia dependerá directamente del Gobernador del Estado, quien lo nombrará y remover libremente.
-
-###### Art. 110.
-
-Los Agentes del Ministerio Público serán nombrados por el Gobernador a propuesta del Procurador General.
-
-###### Art. 111.
-
-Para ser Procurador de Justicia del Estado se requieren las mismas condiciones que para ser Magistrado.
-
-###### Art. 112.
-
-El Procurador de Justicia es el representante de los intereses de la sociedad, y semestralmente deberá rendir un informe detallado por escrito al Gobernador, reseñando las labores que hubiere desempeñado, las deficiencias que haya notado en los distintos ramos de la Administración de Justicia, e indicando las reformas que a su juicio deban hacerse.
-
-###### Art. 113.
-
-Sus labores, en términos generales, serán las de velar por el exacto cumplimiento de las leyes, procediendo en contra de sus infractores, cualquiera que sea su categoría; las de perseguir y ejercer ante los tribunales que corresponda, las acciones penales respectivas, y vigilar a los Agentes del Ministerio Público para que cumplan fielmente con su cometido.
-
-###### Art. 114.
-
-Las licencias de los Agentes del Ministerio Público serán concedidas por el Procurador de Justicia, y sobre las renuncias de los mismos funcionarios resolverá el Gobernador del Estado.
-
-###### Art. 115.
-
-El Procurador de Justicia del Estado tendrá el carácter de Consejero jurídico del Gobierno. Tanto él como sus Agentes se someterán estrictamente a las disposiciones de las leyes, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
-
-###### Art. 116.
+###### Art. 119.
 
 El Territorio del Estado, para su administración política, se divide en Municipios. La Ley Orgánica respectiva fijará el mínimum de la población, extensión, límites y demás requisitos para formarlos o para suprimir unos o erigir otros.
 
 Su funcionamiento se sujetará a las bases establecidas por esta Constitución.
 
-###### Art. 117.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 120.
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1943)</small>
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
-###### Art. 118.
+###### Art. 121.
 
 Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales, y se renovarán cada tres años en los términos que disponga la ley.
 
-## Título Noveno.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
-HACIENDA PUBLICA DEL ESTADO.
-
-###### Art. 119.
+###### Art. 122.
 
 Los Ayuntamientos, sin infringir las leyes de la Federación ni del Estado, tienen derecho de atender libremente y de la manera que juzguen más eficaz, todos los ramos de la administración pública del Municipio.
 
-###### Art. 120.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 123.
 
 La ley reglamentaria municipal se sujetará a las bases siguientes:
 
@@ -1171,179 +1231,211 @@ IX.- Los Ayuntamientos atenderán los ramos de su administración por medio de c
 
 X.- El cargo de Regidor no es renunciable, salvo el caso de causa grave.
 
-###### Art. 121.
-
-Los Regidores de los Ayuntamientos y de modo especial el Presidente, tiene la imprescindible obligación de garantizar, por cuantos medios estén a su alcance, la más absoluta libertad de los ciudadanos para emitir el voto en las elecciones populares.
-
-###### Art. 122.
-
-Queda terminantemente prohibido a los funcionarios de que habla el artículo anterior hacer propaganda electoral por sí o por los Agentes Municipales, o impedir que los ciudadanos se asocien para tratar asuntos políticos del Municipio, del Estado o de la Federación.
-
-###### Art. 123.
-
-La Hacienda Pública tiene por objeto subvenir a los gastos ordinarios y extraordinarios del Estado.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
 ###### Art. 124.
 
-La Hacienda Pública se compondrá:
+Los Regidores de los Ayuntamientos y de modo especial el Presidente, tiene la imprescindible obligación de garantizar, por cuantos medios estén a su alcance, la más absoluta libertad de los ciudadanos para emitir el voto en las elecciones populares.
 
-I.- Del producto de las contribuciones que decrete el Congreso.
-
-II.- Del producto de los bienes que según las leyes pertenezcan al Estado.
-
-III.- De las multas que conforme a las leyes deban ingresar al Erario.
-
-IV.- De las donaciones, legados, herencias y reintegros que se hagan o manden al Tesoro Público.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
 ###### Art. 125.
 
-La Hacienda Pública del Estado estará a cargo del Ejecutivo y será administrada por un funcionario denominado "Tesorero General del Estado", con residencia en la Capital, y por los Receptores de Rentas que se establecerán en las Cabeceras Municipales, cuyas oficinas tendrán el personal que la ley designe.
+Queda terminantemente prohibido a los funcionarios de que habla el artículo anterior hacer propaganda electoral por sí o por los Agentes Municipales, o impedir que los ciudadanos se asocien para tratar asuntos políticos del Municipio, del Estado o de la Federación.
+
+### CAPITULO I.
+
+RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 126.
 
-No se pagará por la Tesorería General del Estado cantidad alguna sin orden del Gobernador y que no esté previamente autorizada por ley o Decreto del Congreso, exceptuando los sueldos de los miembros del Poder Legislativo y de los Magistrados del Tribunal Superior de Justicia, que pueden ser pagados sin orden del Ejecutivo.
+Los Diputados al Congreso del Estado, los Magistrados, el Procurador de Justicia y los titulares de las dependencias que la ley respectiva indica, así como los regidores de los Ayuntamientos, son responsables de los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo.
+
+El Gobernador del Estado sólo podrá ser acusado durante el tiempo de sus funciones por los delitos de traición a la Patria, violación expresa de la Constitución General y del Estado, ataques a la libertad electoral y delitos graves del orden común; pero para que pueda ser desaforado, se necesitará el voto unánime de la totalidad de los diputados que formen el Congreso.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
 ###### Art. 127.
-
-En el lugar donde residan los Poderes del Estado se establecerá una Oficina denominada "Contaduría Mayor de Hacienda", que dependerá directamente del Congreso, compuesta de los empleados que designe la ley, y en ella se glosarán, sin excepción, las cuentas de los caudales públicos.
-
-###### Art. 128.
-
-Toda cuenta de los fondos públicos, del Estado o del Municipio, deberá quedar concluída y glosada anualmente, sin que se permita jamás que algún crédito activo quede pendiente de un año para otro.
-
-La falta de cumplimiento de este precepto es causa de responsabilidad, así de los empleados de la Contaduría como de la Comisión Inspectora.
-
-###### Art. 129.
-
-Todos los empleados de Hacienda que tuvieren manejo de caudales públicos en el Estado y Municipios, otorgarán fianza suficiente para garantizarlos.
-
-###### Art. 130.
-
-El año fiscal comenzará el primero de enero y terminará el treinta y uno de diciembre.
-
-###### Art. 131.
-
-Los Diputados al Congreso del Estado, los Magistrados, el Procurador de Justicia, y el Secretario General de Gobierno o el Sub-Secretario en su caso, así como los Regidores de los Ayuntamientos, son responsables de los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo.
-
-El Gobernador del Estado sólo podrá ser acusado durante el tiempo de sus funciones, por los delitos de traición a la Patria, violación expresa de la Constitución General, y del Estado, ataques a la libertad electoral y delitos graves del orden común, pero para que pueda ser desaforado, se necesitará el voto unánime de la totalidad de los Diputados que formen el Congreso.
-
-###### Art. 132.
 
 Si el delito fuere común, el Congreso erigido en Gran Jurado declarará, a mayoría absoluta de votos del número total de los miembros que lo forman, si hay o no lugar a proceder contra el acusado; en caso negativo no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que las acusaciones continúen su curso, cuando el funcionario haya dejado de tener fuero, pues la resolución del Jurado no prejuzga los fundamentos de la acusación. En caso afirmativo, el acusado queda por el mismo hecho separado de su encargo y sujeto desde luego a los Tribunales comunes.
 
 Si la decisión de éstos fuere condenatoria quedará separado definitivamente, y en caso contrario, volverá al desempeño de sus funciones.
 
-###### Art. 133.
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
-De los delitos, faltas u omisiones oficiales de los funcionarios a que se refiere el artículo 131 conocerá el Tribunal Superior de Justicia erigido en Gran Jurado, pero no podrá abrir la averiguación correspondiente sin previa acusación de la Cámara de Diputados. La resolución de ella tendrá por objeto declarar, a mayoría absoluta de los votos de sus componente, si hay o no lugar a acusar.
+###### Art. 128.
 
-###### Art. 134.
+De los delitos, faltas u omisiones oficiales de los funcionarios a que se refiere el artículo 126 conocerá el Tribunal Superior de Justicia erigido en Gran Jurado, pero no podrá abrir la averiguación correspondiente sin previa acusación de la Cámara de Diputados. La resolución de ella tendrá por objeto declarar, a mayoría absoluta de los votos de sus componente, si hay o no lugar a acusar.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 129.
 
 Si el Tribunal Superior de Justicia en pleno declarase, después de oír al acusado y de practicar las diligencias que estime convenientes, que éste es culpable, quedará privado de su cargo por virtud de tal declaración e inhabilitado para obtener otro, por el término que determine la ley.
 
-###### Art. 135.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 130.
 
 Cuando el mismo hecho tuviere señalado otra pena, el acusado quedará a disposición de las autoridades, para que lo juzguen y castiguen conforme a la ley.
 
-###### Art. 136.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 131.
 
 Siempre que se trate de formar causa por delitos oficiales a los Magistrados del Tribunal Superior de Justicia, se iniciará y concluirá ante el Congreso, resolviendo éste en Gran Jurado después de que haya declarado que hay lugar a formular acusación.
 
-###### Art. 137.
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
-Se concede acción popular para denunciar ante la Cámara de Diputados por delitos comunes y oficiales de los citados funcionarios, y cuando la Cámara declare que hay lugar a acusar, en los términos del artículo 133, nombrará una comisión de su seno para que sostenga la acusación de que se trate.
+###### Art. 132.
 
-###### Art. 138.
+Se concede acción popular para denunciar ante la Cámara de Diputados por delitos comunes y oficiales de los citados funcionarios, y cuando la Cámara declare que hay lugar a acusar, en los términos del artículo 128, nombrará una comisión de su seno para que sostenga la acusación de que se trate.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 133.
 
 Pronunciada una sentencia de responsabilidad por delitos oficiales, no puede concederse al reo la gracia del indulto.
 
-###### Art. 139.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 134.
 
 La responsabilidad por delitos oficiales sólo podrá exigirse durante el período en que el funcionario ejerza su cargo y un año después.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 135.
+
+No gozan de fuero constitucional los altos funcionarios del Estado por los delitos oficiales u omisiones en que incurran en el desempeño de cualquier otro empleo, cargo o comisión públicos que hayan aceptado durante el período en que conforme a la ley se disfruta de fuero. Lo mismo sucederá respecto a los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión, siempre que en tales casos el alto funcionario no desempeñe sus funciones propias. Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a sus funciones propias, si se hubiere separado de ellas, deberá procederse con arreglo a lo dispuesto en los artículos 127, 128 y 131, en sus casos.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 136.
+
+En demanda del orden civil no hay fuero ni inmunidad para ningún funcionario público, pero no podrá decretarse ninguna providencia de arraigo en su contra.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 137.
+
+Todos los empleados de Hacienda que tuvieren manejo de caudales públicos en el Estado y Municipio otorgarán fianza suficientes (sic) para garantizarlos.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 138.
+
+Las facultades que no estén expresamente concedidas por la Constitución Federal a los funcionarios de la Federación ni por esta Carta a los del Estado, se entienden reservadas a los Municipios, siempre que no entrañen asuntos de interés general.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 139.
+
+Ningún ciudadano podrá desempeñar a la vez dos o más cargos de elección popular, pero el electo puede aceptar el que quiera desempeñar.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
 ## Título Décimo.
+
+PREVENCIONES GENERALES.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 140.
 
-No gozan de fuero e constitucional los altos funcionarios del Estado por los delitos oficiales u omisiones en que incurran en el desempeño de cualquier otro empleo, cargo o comisión públicos que hayan aceptado durante el período en que conforme a la ley se disfruta de fuero. Lo mismo sucederá respecto a los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión, siempre que en tales casos el alto funcionario no desempeñe sus funciones propias. Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a sus funciones propias, si se hubiere separado de ellas, deberá procederse con arreglo a lo dispuesto en los artículos 132, 133 y 136, en sus casos.
+Los Diputados, el Gobernador del Estado, los Magistrados del Tribunal Superior de Justicia y todos los funcionarios de elección popular serán retribuídos por sus servicios como lo dispongan las leyes, y pagados por la dependencia del Ejecutivo que la ley respectiva designe, o por los municipios, en su caso. Esta compensación no es renunciable, y la ley que la aumente o disminuya no entrarán vigor sino hasta el período siguiente del Congreso.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### Art. 141.
 
-En demanda del orden civil no hay fuero ni inmunidad para ningún funcionario público, pero no podrá decretarse ninguna providencia de arraigo en su contra.
+Todo funcionario y empleados públicos del Estado o de los Municipios, sin excepción alguna, antes de tomar posesión de su cargo otorgarán ante quien corresponda protesta de cumplir las obligaciones que contrae, guardar y hacer guardar sin reserva alguna la Constitución General de la República, la del Estado y las leyes que de ellas emanen, usándose la forma prevista en el artículo 110, adaptándola a cada caso.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 142.
+
+Todos los contratos que el Gobierno o los Municipios tengan que celebrar para la ejecución de obras públicas, serán adjudicados en subasta pública, mediante convocatoria, debiendo presentarse las proposiciones en sobre cerrado que será abierto en junta pública.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 143.
+
+El Ejecutivo, en representación del Estado, puede lícitamente tomar parte en las compañías mercantiles, agrícolas o industriales, con el fin de impulsar la prosperidad general, previa la aprobación del Congreso.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 144.
+
+El Estado no tiene límites en lo relativo a modificar la propiedad privada en beneficio general.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 145.
+
+La autoridad ante quien se ejercite el derecho de petición dictará su proveído dentro del término de diez días cuando las leyes no señalen otros términos.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 146.
+
+Las leyes de orden público y de policía son obligatorias aún para los extranjeros que por primera vez pisen el territorio del Estado, sin más excepción que los casos especiales provistos por el derecho internacional, por los tratados que celebre la Unión o por las leyes que aquélla expida conforme a sus facultades.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 147.
+
+Se prohibe a todos los habitantes del Estado, y especialmente a los comerciantes, vender naipes, dados, o cualesquiera otros objetos destinados exclusivamente a los juegos ilícitos. De la infracción de este precepto son responsables tanto los vendedores como los compradores de cualquiera de los citados objetos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+###### Art. 148.
+
+Las infracciones al precepto que antecede y a la fracción V del artículo 88 producen acción popular, teniendo derecho los denunciantes a la mitad de la multa que se aplique a los infractores, la cual en ningún caso será menor de cincuenta pesos.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 149.
+
+Gozan de fuero constitucional todos los funcionarios designados por elección popular y los Magistrados del Tribunal Superior de Justicia durante el tiempo en que ejerzan sus funciones; en consecuencia, ninguna autoridad podrá dictar órdenes de detención en su contra, sin que antes se haya seguido el procedimiento que determina el título décimo.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 150.
+
+La Ciudad de Villahermosa es la Capital del Estado y la residencia de los poderes del mismo.
+
+> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR ES OMISO SOBRE LA EXISTENCIA DEL PRESENTE TITULO, NO OBSTANTE LA REFORMA AL TITULO DECIMO "PREVENCIONES GENERALES" DEL PRESENTE ORDENAMIENTO, P.O. 30 DE DICIEMBRE DE 1970.</small>
 
 Título Once.
 
 PREVENCIONES GENERALES.
 
-###### Art. 142.
-
-Las facultades que no estén expresamente concedidas por la Constitución Federal a los funcionarios de la Federación ni por esta Carta a los del Estado, se entienden reservadas a los Municipios, siempre que no entrañen asuntos de interés general.
-
-###### Art. 143.
-
-Ningún ciudadano podrá desempeñar a la vez dos o más cargos de elección popular, pero el electo puede aceptar el que quiera desempeñar.
-
-###### Art. 144.
-
-Los Diputados, el Gobernador del Estado, los Magistrados del Tribunal Superior de Justicia y todos los funcionarios de elección popular serán retribuídos por sus servicios como lo dispongan las leyes y pagados por la Tesorería General o por los Municipios, en su caso. Esta compensación no es renunciable, y la ley que la aumente o disminuya no entrarán vigor sino hasta el período siguiente del Congreso.
-
-###### Art. 145.
-
-Todo funcionario y empleados públicos del Estado o de los Municipios, sin excepción alguna, antes de tomar posesión de su cargo otorgarán ante quien corresponda protesta de cumplir las obligaciones que contrae, guardar y hacer guardar sin reserva alguna la Constitución General de la República, la del Estado y las leyes que de ellas emanen, usándose la forma prevista en el artículo 99, adaptándola a cada caso.
-
-###### Art. 146.
-
-Todos los contratos que el Gobierno o los Municipios tengan que celebrar para la ejecución de obras públicas, serán adjudicados en subasta pública, mediante convocatoria, debiendo presentarse las proposiciones en sobre cerrado que será abierto en junta pública.
-
-###### Art. 147.
-
-El Ejecutivo, en representación del Estado, puede lícitamente tomar parte en las compañías mercantiles, agrícolas o industriales, con el fin de impulsar la prosperidad general, previa la aprobación del Congreso.
-
-###### Art. 148.
-
-El Estado no tiene límites en lo relativo a modificar la propiedad privada en beneficio general.
-
-###### Art. 149.
-
-La autoridad ante quien se ejercite el derecho de petición dictará su proveído dentro del término de diez días cuando las leyes no señalen otros términos.
-
-###### Art. 150.
-
-Las leyes de orden público y de policía son obligatorias aún para los extranjeros que por primera vez pisen el territorio del Estado, sin más excepción que los casos especiales provistos por el derecho internacional, por los tratados que celebre la Unión o por las leyes que aquélla expida conforme a sus facultades.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
 ## Título Duodécimo.
 
 REFORMA A LA CONSTITUCION.
 
-###### Art. 155.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+
+###### Art. 151.
 
 La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a formar parte de la misma, se requiere que el Congreso del Estado, por el voto de las dos terceras partes de los Diputados presentes, acuerde las referidas reformas o adiciones, y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado. El Congreso hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
 Título Decimotercero.
 
 INVIOLABILIDAD DE LA CONSTITUCION.
 
-###### Art. 156.
-
-Esta Constitución no perderá su fuerza o vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca en el Estado un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hayan expedido, serán juzgados así los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
-
-###### Art. 151.
-
-Se prohibe a todos los habitantes del Estado, y especialmente a los comerciantes, vender naipes, dados, o cualesquiera otros objetos destinados exclusivamente a los juegos ilícitos. De la infracción de este precepto son responsables tanto los vendedores como los compradores de cualquiera de los citados objetos.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
 ###### Art. 152.
 
-Las infracciones al precepto que antecede y a la fracción VII del artículo 86 producen acción popular, teniendo derecho los denunciantes a la mitad de la multa que se aplique a los infractores, la cual en ningún caso será menor de cincuenta pesos.
-
-###### Art. 153.
-
-Gozan de fuero constitucional todos los funcionarios designados por elección popular y los Magistrados del Tribunal Superior de Justicia durante el tiempo en que ejerzan sus funciones; en consecuencia, ninguna autoridad podrá dictar órdenes de detención en su contra, sin que antes se haya seguido el procedimiento que determina el título décimo.
-
-###### Art. 154.
-
-La Ciudad de Villahermosa es la Capital del Estado y la residencia de los poderes del mismo.
+Esta Constitución no perderá su fuerza o vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca en el Estado un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hayan expedido, serán juzgados así los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
 ## TRANSITORIOS.
 
@@ -1371,9 +1463,11 @@ Las cuentas generales del Estado y las Municipales, correspondientes al período
 
 Entretanto son nombrados por el Congreso los funcionarios y empleados en la forma que establece esta Constitución, los actuales seguirán funcionando.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
 ###### Art. 7°.
 
-La compensación a que tienen derecho los funcionarios de que habla el artículo 144 no se tendrá por definitivamente establecida, conforme a las leyes o decretos expedidos con anterioridad a esta Constitución, sino hasta que la XXVI Legislatura expida la ley fijando la retribución de cada uno de dichos funcionarios, la cual puede, esta vez, surtir sus efectos después de su publicación.
+La compensación a que tienen derecho los funcionarios de que habla el artículo 140 no se tendrá por definitivamente establecida, conforme a las leyes o decretos expedidos con anterioridad a esta Constitución, sino hasta que la XXVI Legislatura expida la ley fijando la retribución de cada uno de dichos funcionarios, la cual puede, esta vez, surtir sus efectos después de su publicación.
 
 ###### Art. 8°.
 
@@ -1389,9 +1483,11 @@ Quedan también inhabilitados para dichos cargos, en los propios términos de es
 
 Quedan extinguidas de pleno derecho las deudas que por concepto de servidumbre o servicios personales hayan contraído los trabajadores, hasta la fecha de esta Constitución, con los propietarios, encargados, o patronos, sus familiares o intermediarios.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
 ###### Art. 11.
 
-En el caso de la fracción II del artículo 107 y mientras el Tribunal Superior de Justicia se componga de tres Magistrados propietarios, éstos y dos de los suplentes, designados por sorteo, integrarán el Gran Jurado.
+En el caso de la fracción II del artículo 118 y mientras el Tribunal Superior de Justicia se componga de tres Magistrados propietarios, éstos y dos de los suplentes, designados por sorteo, integrarán el Gran Jurado.
 
 ###### Art. 12.
 
@@ -1608,3 +1704,7 @@ UNICO.- Este Decreto comenzará a surtir sus efectos legales a partir de su publ
 P.O. 28 DE MARZO DE 1970.
 
 UNICO.- Este Decreto surte sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1970.
+
+UNICO.- Este Decreto surte sus efectos legales a partir del día primero de enero de 1971.
