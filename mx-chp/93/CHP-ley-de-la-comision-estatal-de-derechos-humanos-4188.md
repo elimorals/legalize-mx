@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-la-comision-estatal-de-derechos-humanos-4188"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-02"
-last_updated: "1992-12-02"
+last_updated: "2004-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCION Y PROTECCION DE LOS DERECHOS HUMANOS EN EL ESTADO DE CHIAPAS, EL 10 DE NOVIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 2 de diciembre de 1992.
 
@@ -504,3 +506,13 @@ DADA EN EL SALON DE SESIONES DEL PALACIO DEL H. PODER LEGISLATIVO DEL ESTADO, EN
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO LA PRESENTE LEY EN EL PALACIO DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS TREINTA DIAS DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y DOS.
 
 LIC. PATROCINIO GONZALEZ BLANCO GARRIDO.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. JUAN LARA DOMINGUEZ.- SECRETARIO DE GOBIERNO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2004.
+
+Primero.- La presente Ley entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de la Comisión Estatal de Derechos Humanos, publicada con el decreto 5 en el número 227 segunda sección del Periódico Oficial del Estado, de fecha 2 de diciembre de 1992. Se derogan también todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+Tercero.- El Reglamento Interior de la Comisión de los Derechos Humanos, será expedido por su Consejo General dentro de los seis meses siguientes a la entrada en vigor de esta Ley, y deberá ser publicado en el Periódico Oficial del Estado; mientras tanto seguirá en vigor el actual reglamento de la Comisión Estatal de Derechos Humanos.
