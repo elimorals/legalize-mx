@@ -4,7 +4,7 @@ identifier: "MIC-ley-tutelar-para-menores-del-estado-de-michoacan-17104"
 country: "mx"
 rank: "ley"
 publication_date: "1979-08-27"
-last_updated: "1979-08-27"
+last_updated: "1982-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY TUTELAR PARA MENORES DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:15 DE JULIO DE 1982.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 27 de agosto de 1979.
 
@@ -177,9 +177,11 @@ e).- Las dependencias oficiales y todo organismo público o privado a quienes co
 
 ### CAPITULO PRIMERO. COMPOSICION DE LOS CONSEJOS TUTELARES
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1982)</small>
+
 ###### Artículo 16.
 
-Los consejos tutelares serán órganos formados por los consejeros abogado, profesor, médico, psicólogo, trabajador social.
+Los Consejos Tutelares serán órganos formados por los Consejeros Abogado, Profesor, Médico, Psicólogo, Trabajador Social, o por las personas que reúnan los requisitos establecidos en el artículo 21.
 
 ###### Artículo 17.
 
@@ -203,9 +205,11 @@ Para agilizar la justicia tutelar, el juez abogado podrá auxiliarse con cualqui
 
 En la integración de los consejos tutelares se procurará que participen hombres y mujeres, que los consejejeros (sic) sean casados y tengan hijos.
 
-###### Artículo 21.
+> <small>(REFORMADO, P.O.15 DE JULIO DE 1982)</small>
 
-Para ser consejero se deben llenar los siguientes requisitos:
+###### ARTICULO 21.
+
+Para ser Consejero se deben llenar los siguientes requisitos:
 
 a).- Ser ciudadano mexicano con capacidad para gozar y ejercitar todos sus derechos;
 
@@ -213,13 +217,15 @@ b).- Ser persona honorable, mayor de 25 años;
 
 c).- Tener vocación en la materia de menores; y
 
-d).- Tener el título profesional correspondiente.
+d).- Tener el título profesional correspondiente, o la preparación necesaria para desempeñar las funciones inherentes al cargo.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1982)</small>
 
 ###### Artículo 22.
 
-El consejero abogado fungirá como presidente del consejo y realizará funciones de representación, coordinación y dirección de todas las actividades del mismo.
+La presidencia del Consejo podrá recaer en cualquiera de los Consejeros señalados en el artículo 16, o en cualquier persona que reúna los requisitos que señala el artículo anterior, y sus funciones serán las de representar, coordinar y dirigir todas las actividades del mencionado Consejo.
 
-Los demás consejeros tendrán la misma categoría y su función será la de aportar al consejo sus conocimientos técnicos para la solución de los casos.
+Los demás consejeros tendrán la misma categoría entre sí y sus funciones serán las de aportar al Consejo sus conocimientos técnicos para la solución de los casos.
 
 ###### Artículo 23.
 
@@ -787,7 +793,7 @@ El Ejecutivo del Estado dispondrá se publique y observe.
 
 PALACIO DEL PODER LEGISLATIVO.- Morelia, Michoacán de Ocampo, a 21 de agosto de 1979.
 
-DIPUTADO PRESIDENTE LIC. JORGE MENDOZA ALVAREZ.-DIPUTADO SECRETARIO.-JOSE TARIACURI CANO SORIA.-DIPUTADO SECRETARIO.-LORENZO ESCOBAR BEJAR.
+DIPUTADO PRESIDENTE LIC. JORGE MENDOZA ALVAREZ.- DIPUTADO SECRETARIO.- JOSE TARIACURI CANO SORIA.- DIPUTADO SECRETARIO.- LORENZO ESCOBAR BEJAR.
 
 Por tanto, mando se publique y observe.
 
@@ -796,3 +802,9 @@ PALACIO DEL PODER EJECUTIVO.
 Morelia, Michoacán, a 22 de agosto de 1979.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS TORRES MANZO.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. AUSENCIO CHAVEZ HERNANDEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 15 DE JULIO DE 1982.
+
+UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
