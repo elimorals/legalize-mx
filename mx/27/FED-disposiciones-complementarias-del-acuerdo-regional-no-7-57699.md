@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-regional-no-7-57699"
 country: "mx"
 rank: "otro"
 publication_date: "1990-08-14"
-last_updated: "1991-09-25"
+last_updated: "1992-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57699&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,25 +19,29 @@ issue_date: "1990-08-09"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO REGIONAL NO. 7 (MULTILATERAL, 1988)
 
-DECRETO QUE CONTIENE LA ADHESION DE CHILE, ECUADOR Y PARAGUAY AL ACUERDO DE ALCANCE PARCIAL DE COOPERACCION DE INTERCAMBIO DE BIENES ERALAS AREAS CULTURAL, EDUCACIONAL Y CIENTIFICA, DE CONFORMIDAD CON LOS LINEAMIENTOS PREVISTOS EN EL TRATADO DE MONTEVIDEO1980
+DECRETO QUE REFORMA EL DIVERSO POR EL QUE SE ESTABLECEN PREFERENCIAS PORCENTUALES DE CONFORMIDAD CON EL ACUERDO DE ALCANCE PARCIAL DE COOPERACION DE INTERCAMBIO DE BIENES EN LAS AREAS CULTURAL, EDUCACIONAL Y CIENTIFICA, A FIN DE INCLUIR A LAS REPUBLICAS DE BOLIVIA Y CUBA DENTRO DEL ALCANCE DE DICHO ACUERDO
 
-Decreto publicado en el Diario Oficial de la Federación, el miércoles 25 de septiembre de 1991.
+Decreto publicado en el Diario Oficial de la Federación, el jueves 29 de octubre de 1992.
 
-Al margen un seno con el Escudo Nacional, que dice: Estados Unidos Mexicanos,- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-CARLOS SAUNAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, en ejercicio de la facultad que al Ejecutivo Federal confiere la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 1o., fracción I y 2o., fracción I de la Ley Reglamentaria del Artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en Materia de Comercio Exterior, a fin de dar cumplimiento a las negociaciones celebradas conforme al Tratado de Montevideo 1980, y
+CARLOS SAUNAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, en ejercicio de la facultad que al Ejecutivo Federal confiere la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 1o., fracción I y 2o., fracción I de la Ley Reglamentaria del Artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en Materia de Comercio Exterior, a fin de dar cumplimiento a las negociaciones celebradas conforme al Tratado de Montevideo1980, y
 
 CONSIDERANDO
 
-Que con fechas 31 de agosto, 5 y 22 de noviembre de 1990, los Gobiernos de los Estados Unidos Mexicanos y de las Repúblicas Argentina, Federativa del Brasil, de Colombia, del Perú, Oriental del Uruguay y de Venezuela, suscribieron con los Gobiernos de las Repúblicas del Paraguay, Ecuador y de Chile, respectivamente, los Protocolos de Adhesión de dichas Repúblicas al Acuerdo de Alcance Parcial de Cooperación de Intercambio de Bienes en las Areas Cultual, Educacional y Científica, he tenido a bien expedir el siguiente
+Que con fecha 14 de agosto de 1990 se publicó en el Diario Oficial de la Federación el Decreto por el que se dispone que las mercancías que se importen al amparo del Acuerdo de Alcance Parcial de Cooperación de Intercambio de Bienes en las Areas Cultural, Educacional y Científica, suscrito por los Estados Unidos Mexicanos y las Repúblicas Argentina, Federativa del Brasil, de Colombia, del Perú, Oriental del Uruguay y de Venezuela, estarán exentas del pago del impuesto ad-valórem establecido en la Tarifa de !a Ley de Impuesto General de Importación;
+
+Que el Decreto Presidencial publicado en el mismo órgano de difusión el día 25 de septiembre de1991, reformó el diverso referido anteriormente a fin de incluir las disposiciones relativas a la adhesión de las Repúblicas de Chile, del Ecuador y del Paraguay al citado Acuerdo;
+
+Que con fecha 27 de abril de 1992 los Gobiernos de las Repúblicas de Bolivia y Cuba suscribieron los Protocolos de Adhesión de dicho Acuerdo de Alcance Parcial de Cooperación de Intercambio de Bienes en las Areas Cultural, Educacional y Científica, he tenido a bien expedir el siguiente
 
 DECRETO
 
 ###### ARTICULO UNICO.
 
-Se reforma el primer párrafo del Artículo Primero del Decreto publicado en el Diario Oficial de la Federación el 14 de agosto de 1990, por el que se dispone que las mercancías que se citan en dicho artículo y que se importen al amparo del Acuerdo de Alcance Parcial de Cooperación de Intercambio de Bienes en las Arcas Cultural, Educacional y Científica, suscrito por los Estados Unidos Mexicanos y las Repúblicas de Argentina, Federativa del Brasil, Colombia, del Perú, Oriental del Uruguay y Venezuela, estarán exentas del pago del impuesto ad-valórem establecido en la Tarifa del Impuesto General de Importación, para quedar como sigue:
+Se reforma el primer párrafo del Artículo Primero del Decreto publicado en el Diario Oficial de la Federación el 14 de agosto de 1990, por el que se dispone que las mercancías que se citan en dicho artículo y que se importen al amparo del Acuerdo de Alcance Parcial de Cooperación de Intercambio de Bienes en las Areas Cultural, Educacional y Científica, suscrito por los Estados Unidos Mexicanos y las Repúblicas Argentina, Federativa del Brasil, de Colombia, de Chile, del Ecuador, del Paraguay, del Perú, Oriental de Uruguay y de Venezuela, cuando sean originarias y procedentes de dichos países, estarán exentas del pago del impuesto ad-valórem establecido en la Tarifa de la Ley del Impuesto General de Importación, para quedar como sigue:
 
-“ARTICULO PRIMERO.- Las mercancías que se citan en la siguiente tabla y que se importen al amparo del Acuerdo de Alcance Parcial de Cooperación de Intercambio de Bienes en las Areas Cultural, Educacional y Científica, suscrito por los Estados Unidos Mexicanos y las Repúblicas Argentina, Federativa del Brasil, de Colombia, de Chile, del Ecuador, del Paraguay, del Perú, Oriental del Uruguay y de Venezuela, Cuando sean originarias y procedentes de dichos países, estarán exentas del pago de impuesto ad-valórem establecido en la Tarifa de la Ley del Impuesto General de Importación:
+“ARTICULO PRIMERO.- Las mercancías que se citan en la siguiente tabla y que se importen al amparo del Acuerdo de Alcance Parcial de Cooperación de Intercambio de Bienes en las Areas Cultural, Educacional y Científica, suscrito por los Estados Unidos Mexicanos y las Repúblicas Argentina, de Bolivia, Federativa del Brasil, de Colombia, de Cuba, de Chile, del Ecuador, del Paraguay, del Perú, Oriental del Uruguay y de Venezuela, cuando sean originarias y procedentes de dichos países, estarán exentas del pago del impuesto ad-valórem establecido en la Tarifa de la Ley del Impuesto General de Importación:”
 
 ###### ARTICULO PRIMERO.
 
@@ -435,8 +439,8 @@ Las mercancías que se citan en el ARTICULO PRIMERO, de este Decreto, estarán e
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la .Federación.
 
-SEGUNDO.- La exención del pago del impuesto ad-valórem a que hace referencia el Artículo Primero del Decreto que se reforma, podrá aplicarse a las mercancías originarias y procedentes de las Repúblicas del Paraguay, Ecuador y de Chile, que se hubiesen importado de dichas Repúblicas a partir del 31 de agosto, 5 y 22 de noviembre de 1990, respectivamente, cuando el importador opte por dicha preferencia.
+SEGUNDO.- La exención del pago del impuesto ad-valórem a que hace referencia el Artículo Primero del Decreto que se reforma, podrá aplicarse a las mercancías originarias y procedentes de las Repúblicas de Bolivia y Cuba que se hubiesen importado de dichas Repúblicas a partir del 27 de abril de 1992, cuando el importador opte por dicha preferencia.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de septiembre de mil novecientos noventa y uno.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días de octubre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.
