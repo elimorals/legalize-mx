@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2004-04-29"
+last_updated: "2004-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 3 de septiembre de 1999.
 
@@ -808,7 +808,9 @@ f) Servicios de Bibliotecas, que comprende los de: acervo de libros; hemeroteca;
 
 2. Cada uno de los Servicios establecidos en el párrafo anterior se constituye en una Dirección, la cual se estructura con las oficinas que se requieran, conforme a lo que se disponga en el Estatuto.
 
-3. La Cámara contará también, en el ámbito de la Secretaría General y adscritos a la Secretaría de Servicios Parlamentarios, con los Centros de Estudios de las Finanzas Públicas; de Estudios de Derecho e Investigaciones Parlamentarias; y de Estudios Sociales y de Opinión Pública.
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2004)</small>
+
+3. La Cámara contará también, en el ámbito de la Secretaría General y adscritos a la Secretaría de Servicios Parlamentarios, con los centros de estudios de las finanzas públicas, de estudios de derecho e investigaciones parlamentarias; de estudios sociales y de opinión pública y de estudios para el desarrollo rural sustentable y la soberanía alimentaria.
 
 ###### ARTICULO 50.
 
@@ -1838,9 +1840,11 @@ Comunicación Social Coordinación de Comunicación
 
 Social
 
-Instituto de investigaciones Centro de Estudios de Derecho e
+Instituto de investigaciones Centro de Estudios de
 
-Legislativas Investigaciones Parlamentarias
+Legislativas Derecho e Investigaciones
+
+Parlamentarias
 
 b) Las iniciativas de reforma constitucional que se encuentren en la Comisión de Gobernación y Puntos Constitucionales, serán turnadas a la Comisión de Puntos Constitucionales y Sistema Federal, así como a las otras comisiones ordinarias que corresponda. Los demás asuntos a cargo de la Comisión de Gobernación y Puntos Constitucionales se turnarán a la nueva Comisión de Gobernación, Población y Seguridad Pública.
 
@@ -1923,3 +1927,11 @@ D.O.F. 29 DE SEPTIEMBRE DE 2003.
 D.O.F. 29 DE ABRIL DE 2004.
 
 Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MAYO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Centro de Estudios para el Desarrollo Rural Sustentable y la Soberanía Alimentaria deberá estar funcionando a los sesenta días naturales posteriores a la publicación de este Decreto en el Diario Oficial de la Federación.
+
+TERCERO.- A efecto de lo anterior, la Cámara de Diputados del H. Congreso de la Unión deberá realizar las previsiones necesarias dentro del término señalado.
