@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-desarrollo-integral-y-proteccion-a-los-menores-4922
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-23"
-last_updated: "1993-06-17"
+last_updated: "2002-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY PARA EL DESARROLLO INTEGRAL Y PROTECCION A LOS MENORES DE EDAD EN EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1993.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO, PUBLICADA EN EL PERIODICO OFICIAL EL 23 DE MAYO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 23 de abril de 1992.
 
@@ -453,7 +455,7 @@ El Estado, con la participación de las Instituciones civiles interesadas y a tr
 
 ###### ARTICULO 38.
 
-Además de los centros de atención y asistencia previstos en el Artículo 32 de esta ley, se establecerá un Sistema Estatal de Justicia del Menor Infractor con el objeto de prever, procurar y administrar la justicia, tratamiento y reincorporación social de los menores infractores, constituído con las estructuras institucionales que se requieran para su correcto funcionamiento, fungiendo como coordinador institucional el Sistema para el Desarrollo Integral de la Familia.
+Además de los centros de atención y asistencia previstos en el Artículo 32 de esta ley, se establecerá un Sistema Estatal de Justicia del Menor Infractor con el objeto de prever, procurar y administrar la justicia, tratamiento y reincorporación social de los menores infractores, constituido con las estructuras institucionales que se requieran para su correcto funcionamiento, fungiendo como coordinador institucional el Sistema para el Desarrollo Integral de la Familia.
 
 ###### ARTICULO 39.
 
@@ -493,7 +495,7 @@ f).- Las demás que se designen.
 
 ###### ARTICULO 42.
 
-La Coordinación Interinstitucional del Sistema Estatal de Justicia del Menor Infractor estará constituída por:
+La Coordinación Interinstitucional del Sistema Estatal de Justicia del Menor Infractor estará constituida por:
 
 1.- La Presidente del Sistema para el Desarrollo Integral de la Familia, quien fungirá como Coordinador.
 
@@ -780,3 +782,15 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSÉ RAMÍREZ GAMERO.- EL SECRETA
 P.O. 17 DE JUNIO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor ocho días después al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2002.
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Durango.
+
+Artículo Segundo.- Se abroga la Ley para el Desarrollo Integral y Protección a los Menores de Edad en el Estado de Durango, publicada en el Periódico Oficial del Estado de Durango No. 33 Bis de fecha 23 de Abril de 1992.
+
+Artículo Tercero.- Se derogan todas las disposiciones que contravengan lo previsto en la presente Ley.
+
+Artículo Cuarto.- Sobre la seguridad, atención y trato a los menores de edad, en caso de excepción, se aplicarán supletoriamente los ordenamientos federales vigentes y/o las disposiciones de la Organización de las Naciones Unidas en materia de protección a la infancia; así como las Convenciones Internacionales firmadas y ratificada por el Senado en nuestro país.
+
+Artículo Quinto.- Las autoridades competentes deberán emitir los reglamentos y demás disposiciones administrativas para instrumentar en el Estado lo establecido en esta Ley, en un plazo que no exceda de seis meses a partir de la publicación del presente Decreto.
