@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-de-administracion-y-32372"
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-07-08"
-last_updated: "2003-07-08"
+last_updated: "2004-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32372&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-07-03"
 
 ESTATUTO ORGANICO DEL SERVICIO DE ADMINISTRACION Y ENAJENACION DE BIENES
 
-TEXTO ORIGINAL.
+N. DE E.: EL PRESENTE ESTATUTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DEL SERVICIO DE ADMINISTRACION Y ENAJENACION DE BIENES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 6 DE ABRIL DE 2004.
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION : ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación el martes 8 de julio de 2003.
 
@@ -1072,3 +1074,31 @@ PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de 
 México, Distrito Federal, a treinta de junio de dos mil tres.
 
 Carlos Alberto Peralta Gómez, Prosecretario de la Junta de Gobierno del Servicio de Administración y Enajenación de Bienes, CERTIFICO: Que el presente documento corresponde a una reproducción fiel y exacta del Estatuto Orgánico del Servicio de Administración y Enajenación de Bienes, aprobado por la Junta de Gobierno del referido organismo descentralizado.- Doy fe.- México, Distrito Federal, a tres de julio de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D. O. F. 6 DE ABRIL DE 2004.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Servicio de Administración y Enajenación de Bienes publicado en el Diario Oficial de la Federación el día 8 de julio de 2003.
+
+TERCERO.- Las referencias que se hacen al Director Corporativo de Recuperación, al Director Corporativo de Administración de Bienes, al Director Corporativo de Liquidación y Venta de Empresas, al Director Corporativo Jurídico y al Director Ejecutivo de Supervisión y Análisis Económico en el Manual de Integración, Funcionamiento y Operación del Comité de Dirección del SAE, se entenderán hechas al Director Corporativo del Proceso de Cartera, al Director Corporativo del Proceso de Bienes, al Director Corporativo de Operación, al Director Corporativo de Asesoría Jurídica, y al Director Corporativo de Relación con Entidades Transferentes, respectivamente.
+
+CUARTO.- Las referencias que se hacen al Director Corporativo de Recuperación, al Director Corporativo de Administración de Bienes, al Director Corporativo de Liquidación y Venta de Empresas, al Director Corporativo Jurídico, al Director Ejecutivo de Comercialización de Bienes Muebles e Inmuebles, al Director Ejecutivo de Administración de Cartera, al Director Ejecutivo de Coordinación de Delegaciones Regionales y al Director Ejecutivo de Supervisión y Análisis Económico en el Manual de Integración, Funcionamiento y Operación del Comité de Operación del SAE, se entenderán hechas al Director Corporativo del Proceso de Cartera, al Director Corporativo del Proceso de Bienes, al Director Corporativo del Proceso de Empresas, al Director Corporativo de Asesoría Jurídica, al Director Corporativo de Mercadotecnia y Comercialización, al Director Corporativo de Operación, al Director Ejecutivo de Delegaciones Regionales y al Director Corporativo de Planeación Estratégica y Mejora Continua, respectivamente.
+
+QUINTO.- Las referencias que se hacen al Director Corporativo de Liquidación y Venta de Empresas, al Director Corporativo de Administración de Bienes, al Director Corporativo de Recuperación, al Director Corporativo de Finanzas, Innovación y Calidad, a la Dirección Corporativa Jurídica, al Director Ejecutivo de Inversiones, al Director Ejecutivo de Supervisión y Análisis Económico, al Coordinador de Presupuesto y al Coordinador de Contabilidad y Apoyo a la Operación, en el Manual de Integración, Funcionamiento y Operación del Comité de Inversiones del SAE, se entenderán hechas al Director Corporativo del Proceso de Empresas, al Director Corporativo del Proceso de Bienes, al Director Corporativo de Operación, al Director Corporativo de Finanzas y Administración, a la Dirección Corporativa de Asesoría Jurídica, a la Dirección Corporativa de Relación con Entidades Transferentes, al Director Ejecutivo de Fideicomisos y Fondos de Inversión, al Coordinador de Presupuesto y Tesorería y al Director Ejecutivo de Relación con Entidades Transferentes, respectivamente.
+
+Héctor Espinosa Cantellano, Prosecretario de la Junta de Gobierno del Servicio de Administración y Enajenación de Bienes, con fundamento en lo dispuesto en el artículo 14, fracción V, del Estatuto Orgánico del Servicio de Administración y Enajenación de Bienes vigente, CERTIFICO: Que el presente documento constante de 30 fojas incluida ésta, corresponde a una reproducción fiel y exacta del denominado Estatuto Orgánico del Servicio de Administración y Enajenación de Bienes, aprobado por la Junta de Gobierno del referido organismo descentralizado, en su sexta sesión ordinaria, celebrada el día 3 de marzo de 2004, bajo el numeral 4.2 de la carpeta de asuntos de la referida sesión.- México, Distrito Federal, a dos de abril de dos mil cuatro.- Conste.- Rúbrica. TRANSITORIOS
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Servicio de Administración y Enajenación de Bienes publicado en el Diario Oficial de la Federación el día 8 de julio de 2003.
+
+TERCERO.- Las referencias que se hacen al Director Corporativo de Recuperación, al Director Corporativo de Administración de Bienes, al Director Corporativo de Liquidación y Venta de Empresas, al Director Corporativo Jurídico y al Director Ejecutivo de Supervisión y Análisis Económico en el Manual de Integración, Funcionamiento y Operación del Comité de Dirección del SAE, se entenderán hechas al Director Corporativo del Proceso de Cartera, al Director Corporativo del Proceso de Bienes, al Director Corporativo de Operación, al Director Corporativo de Asesoría Jurídica, y al Director Corporativo de Relación con Entidades Transferentes, respectivamente.
+
+CUARTO.- Las referencias que se hacen al Director Corporativo de Recuperación, al Director Corporativo de Administración de Bienes, al Director Corporativo de Liquidación y Venta de Empresas, al Director Corporativo Jurídico, al Director Ejecutivo de Comercialización de Bienes Muebles e Inmuebles, al Director Ejecutivo de Administración de Cartera, al Director Ejecutivo de Coordinación de Delegaciones Regionales y al Director Ejecutivo de Supervisión y Análisis Económico en el Manual de Integración, Funcionamiento y Operación del Comité de Operación del SAE, se entenderán hechas al Director Corporativo del Proceso de Cartera, al Director Corporativo del Proceso de Bienes, al Director Corporativo del Proceso de Empresas, al Director Corporativo de Asesoría Jurídica, al Director Corporativo de Mercadotecnia y Comercialización, al Director Corporativo de Operación, al Director Ejecutivo de Delegaciones Regionales y al Director Corporativo de Planeación Estratégica y Mejora Continua, respectivamente.
+
+QUINTO.- Las referencias que se hacen al Director Corporativo de Liquidación y Venta de Empresas, al Director Corporativo de Administración de Bienes, al Director Corporativo de Recuperación, al Director Corporativo de Finanzas, Innovación y Calidad, a la Dirección Corporativa Jurídica, al Director Ejecutivo de Inversiones, al Director Ejecutivo de Supervisión y Análisis Económico, al Coordinador de Presupuesto y al Coordinador de Contabilidad y Apoyo a la Operación, en el Manual de Integración, Funcionamiento y Operación del Comité de Inversiones del SAE, se entenderán hechas al Director Corporativo del Proceso de Empresas, al Director Corporativo del Proceso de Bienes, al Director Corporativo de Operación, al Director Corporativo de Finanzas y Administración, a la Dirección Corporativa de Asesoría Jurídica, a la Dirección Corporativa de Relación con Entidades Transferentes, al Director Ejecutivo de Fideicomisos y Fondos de Inversión, al Coordinador de Presupuesto y Tesorería y al Director Ejecutivo de Relación con Entidades Transferentes, respectivamente.
+
+Héctor Espinosa Cantellano, Prosecretario de la Junta de Gobierno del Servicio de Administración y Enajenación de Bienes, con fundamento en lo dispuesto en el artículo 14, fracción V, del Estatuto Orgánico del Servicio de Administración y Enajenación de Bienes vigente, CERTIFICO: Que el presente documento constante de 30 fojas incluida ésta, corresponde a una reproducción fiel y exacta del denominado Estatuto Orgánico del Servicio de Administración y Enajenación de Bienes, aprobado por la Junta de Gobierno del referido organismo descentralizado, en su sexta sesión ordinaria, celebrada el día 3 de marzo de 2004, bajo el numeral 4.2 de la carpeta de asuntos de la referida sesión.- México, Distrito Federal, a dos de abril de dos mil cuatro.- Conste.- Rúbrica.
