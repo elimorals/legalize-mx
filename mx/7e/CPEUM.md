@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1978-12-19"
+last_updated: "1979-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE AGOSTO DE 1979.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1636,25 +1636,23 @@ c).- Contra actos que afecten a personas extrañas al juicio.
 
 IV.- En materia administrativa el amparo procede, además, contra resoluciones que causen agravio no reparable mediante algún recurso, juicio o medio de defensa legal. No será necesario agotar éstos cuando la ley que los establezca exija, para otorgar la suspensión del acto reclamado, mayores requisitos que los que la Ley Reglamentaria del Juicio de Amparo requiera como condición para decretar esa suspensión.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 1979)</small>
 
-V.- El amparo contra sentencias definitivas o laudos, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá directamente ante la Suprema Corte de Justicia.
+V.- El amparo contra sentencias definitivas o laudos, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá directamente ante la Suprema Corte de Justicia o ante el Tribunal Colegiado de Circuito que corresponda, conforme a la distribución de competencias que establezcan la Ley Orgánica del Poder Judicial de la Federación o la Ley Reglamentaria de los artículos 103 y 107 de esta Constitución, en los casos siguientes:
 
-a).- En materia penal, contra resoluciones definitivas dictadas por Tribunales Judiciales del Fuero Federal incluso los castrenses; tratándose de autoridades judiciales del orden común, cuando las sentencias que motiven la interposición de la demanda de amparo impongan la pena de muerte o comprendan una sanción privativa de libertad que exceda del término que para el otorgamiento de la libertad caucional señala la fracción I del artículo 20 de esta Constitución.
+a).- En materia penal, contra resoluciones definitivas dictadas por tribunales judiciales, sean éstos federales, del orden común o militares.
 
-b).- En materia administrativa, cuando se reclamen por particulares sentencias definitivas dictadas por Tribunales Federales, Administrativos o Judiciales, no reparables por algún recurso, juicio o medio ordinario de defensa legal, con las limitaciones que en materia de competencia establezca la ley secundaria.
+b).- En materia administrativa, cuando se reclamen por particulares sentencias definitivas dictadas por tribunales federales, administrativos o judiciales, no reparables por algún recurso, juicio o medio ordinario de defensa legal.
 
-c).- En materia civil, cuando se reclamen sentencias definitivas dictadas en juicios del orden federal o en juicios mercantiles, sea federal o local la autoridad que dicte el fallo, o en juicios del orden común, con las limitaciones que en materia de competencia establezca la ley secundaria. Sólo la Suprema Corte conocerá de amparos contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten al orden y a la estabilidad de la familia.
+c).- En materia civil, cuando se reclamen sentencias definitivas dictadas en juicios del orden federal o en juicios mercantiles, sea federal o local la autoridad que dicte el fallo, o en juicios del orden común.
 
-En los juicios civiles del orden federal, las sentencias podrán ser reclamadas en amparo por cualquiera de las partes incluso por la Federación en defensa de sus intereses patrimoniales, y
+En los juicios civiles del orden federal las sentencias podrán ser reclamadas en amparo por cualquiera de las partes, incluso por la Federación, en defensa de sus intereses patrimoniales, y
 
-d).- En materia laboral, cuando se reclamen laudos dictados por Juntas Centrales de Conciliación y Arbitraje de las entidades federativas, en conflictos de carácter colectivo; por autoridades federales de Conciliación y Arbitraje en cualquier conflicto, o por el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado.
+d).- En materia laboral, cuando se reclamen laudos dictados por las Juntas Locales o la Federal de Conciliación y Arbitraje, o por el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 1979)</small>
 
-VI.- Fuera de los casos previstos en la fracción anterior, el amparo contra sentencias definitivas o laudos, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá directamente ante el Tribunal Colegiado de Circuito dentro de cuya jurisdicción resida la autoridad que pronuncie la sentencia o el laudo.
-
-En los casos a que se refieren esta fracción y la anterior, la Ley Reglamentaria del Juicio de Amparo señalará el trámite y los términos a que deberán someterse tanto la Suprema Corte de Justicia como los Tribunales Colegiados de Circuito para dictar sus respectivas resoluciones.
+VI.- En los casos a que se refiere la fracción anterior, la Ley Reglamentaria de los artículos 103 y 107 de esta Constitución señalará el trámite y los términos a que deberán someterse tanto la Suprema Corte de Justicia como los Tribunales Colegiados de Circuito para dictar sus respectivas resoluciones;
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
@@ -3155,3 +3153,17 @@ Los conflictos laborales que se hayan suscitado dentro de las ramas o en relaci�
 D.O.F. 19 DE DICIEMBRE DE 1978.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 6 DE AGOSTO DE 1979.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+El Pleno de la Suprema Corte de Justicia determinará cuándo la Sala Auxiliar deberá suspender y reanudar sus funciones, y cuándo dejará de funcionar definitivamente.
+
+###### ARTICULO TERCERO.
+
+Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias a fin de lograr la efectividad de las presentes reformas.
