@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1999-06-23"
+last_updated: "1999-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1999.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -515,9 +515,23 @@ IV.- Especiales.
 
 Las comisiones de Dictamen Legislativo y de Vigilancia de la Contaduría General se constituyen con carácter definitivo y funcionarán durante toda la Legislatura, se denominan ordinarias y se integrarán a más tardar en la cuarta sesión posterior a la de instalación del Congreso, con un máximo de cinco miembros y un mínimo de tres. Su mesa directiva se integrará por un presidente y un secretario, quienes junto con los demás miembros de cada comisión, serán designados por el Pleno a propuesta de la Junta de Coordinación Parlamentaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Art. 46.
 
-Los trabajos de las comisiones serán coordinados por su directiva. Necesitarán para funcionar de la presencia de la mayoría de sus miembros. La convocatoria a reuniones se hará siempre para horas que no coincidan con las de sesión del Congreso, y en las citaciones se consignarán los asuntos a tratar.
+Los trabajos de las comisiones serán coordinados por su directiva. Necesitarán para funcionar de la presencia de la mayoría de sus miembros.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+
+La convocatoria a reuniones se hará siempre para horas que no coincidan con las de Sesión del Congreso, debiendo entregarse aquélla en días y horas hábiles, cuando menos con veinticuatro horas de anticipación a la fijada para la reunión. En la convocatoria se enlistarán detalladamente los proyectos de dictamen y asuntos a tratar.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+
+Los acuerdos que se tomen en relación con los proyectos de dictamen que habrán de discutirse al interior Ce (sic) la comisión y no contempladas en la convocatoria, carecerán de validez alguna, al igual que si no se notificó al grupo Parlamentario al que pertenezca el Diputado ausente, cuando se esté en el supuesto previsto en el párrafo segundo de la fracción I, del artículo 51, de esta Ley. Los acuerdos tomados en relación con asuntos diversos a los proyectos de dictamen enlistados, tendrán plena validez.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+
+Cuando las reuniones de las Comisiones versen sobre asuntos que no puedan desahogarse en un solo día, la Comisión acordará el día y hora en que habrán de continuar los trabajos sin necesidad de un nuevo citatorio.
 
 Sus dictámenes se acordarán por mayoría de votos y sus presidentes tendrán, además del ordinario, voto de calidad. Las ausencias temporales de su presidente serán cubiertas por el secretario.
 
@@ -545,13 +559,19 @@ Las comisiones se reunirán cuando menos dos veces al mes durante los períodos 
 
 En los casos que se considere pertinente se levantará acta de cada reunión de trabajo.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Art. 51.
 
-Son atribuciones de los presidentes de las comisiones:
+Son atribuciones de los Presidentes de las Comisiones:
 
-I.- Citar, conjuntamente con el secretario, a reuniones de las comisiones y vigilar el cumplimiento del programa de trabajo interno que se haya aprobado:
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+
+I.- Citar, conjuntamente con el Secretario, a reuniones de las Comisiones y vigilar el cumplimiento del programa de trabajo interno que se haya aprobado.
+
+Ante la ausencia del Secretario, el Presidente podrá convocar a reunión de la Comisión con la firma de la mayoría de los integrantes, además deberá informar al Grupo Parlamentario al que pertenezcan el o los Diputados ausentes, integrantes de la Comisión, para que por su conducto sean notificados o bien, designen al Diputado que habrá de participar exclusivamente en dicha Sesión. El representante designado por el Grupo Parlamentario respectivo, deberá acreditar tal carácter mediante el documento que para tal efecto signe el coordinador o subcoordinador del Grupo Parlamentario correspondiente; el representante tendrá voz y voto para participar en la reunión.
+
+En cualquier caso, la convocatoria deberá reunir los requisitos que exige el artículo 46 de esta Ley;
 
 II.- Solicitar al Presidente del Congreso y a la Oficialía Mayor los diversos tipos de apoyo que se requieran para el desahogo de los trabajos de las comisiones;
 
@@ -1576,3 +1596,9 @@ P.O. 23 DE JUNIO DE 1999.
 DECRETO No. 176
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
