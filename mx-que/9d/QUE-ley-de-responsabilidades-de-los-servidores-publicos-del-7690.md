@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7690"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-17"
-last_updated: "1992-12-17"
+last_updated: "2004-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de diciembre de 1992.
 
@@ -43,11 +43,15 @@ DEL OBJETO, SUJETOS DE RESPONSABILIDAD Y DE LAS AUTORIDADES COMPETENTES.
 
 Esta Ley es de orden público y observancia general y sus disposiciones tienen por objeto reglamentar el Título Séptimo de la Constitución Política del Estado de Querétaro, en materia de:
 
-I. Los sujetos de responsabilidad en el servicio público Estatal y Municipal;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
+
+I.- Los sujetos de responsabilidad administrativa en el servicio público estatal y municipal;
 
 II. Las obligaciones en el servicio público;
 
-III. Las responsabilidades y sus sanciones, tanto de naturaleza administrativa, disciplinaria y resarcitoria, como las que se deban resolver mediante juicio político;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
+
+III.- Las responsabilidades administrativas y sus sanciones, tanto de naturaleza disciplinaria y resarcitoria, que conozcan las autoridades competentes indicadas en el artículo 3 de esta ley, así como las que deban resolver mediante juicio político.
 
 IV. Las Autoridades competentes y los procedimientos para aplicar las sanciones;
 
@@ -55,9 +59,11 @@ V. Las Autoridades competentes y los procedimientos para declarar la procedencia
 
 VI. El registro patrimonial de los servidores públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 2.
 
-Son sujetos de esta Ley, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, en sus Organismos Auxiliares y Fideicomisos, y en los Poderes Legislativo y Judicial del Estado, con independencia del acto que les dio origen.
+Es sujeto de esta ley, toda persona que desempeñe o haya desempeñado un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Paraestatal, Municipal o Paramunicipal, Organismos Constitucionales Autónomos y en los Poderes Legislativo y Judicial del Estado, con independencia del acto que les dio origen. Para el caso de las personas que ya no trabajen en alguna de las instituciones mencionadas, la autoridad tendrá la obligación de observar la figura de la prescripción que contemple la ley en la aplicación de la sanción.
 
 También quedan sujetos a esta Ley, aquellas personas que manejen o administren recursos estatales, municipales, concertados o convenidos por el Estado con la Federación o con sus Municipios, y aquellos que en los términos de esta Ley, se beneficien con adquisiciones, enajenaciones, arrendamientos, mantenimientos y construcción de obras públicas, así como prestación de servicios relacionados con éstas, que deriven de actos o contratos que se realicen con cargo a dichos recursos.
 
@@ -65,17 +71,29 @@ También quedan sujetos a esta Ley, aquellas personas que manejen o administren 
 
 Las Autoridades competentes para aplicar esta Ley, son:
 
-I. La Legislatura del Estado;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
+
+I. La Legislatura del Estado, con el auxilio de sus órganos y dependencias.
 
 II. La Secretaría de la Contraloría;
 
 III. Las demás dependencias del Ejecutivo Estatal en el ámbito de atribuciones que les otorgue este ordenamiento;
 
-IV. Los Ayuntamientos de los Municipios en el Estado;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
 
-V. El Tribunal de lo Contencioso Administrativo, y
+IV.- Los ayuntamientos de los municipios en el Estado y dependencias o unidades administrativas quienes mediante ley o reglamento actúen como órgano de control interno, independientemente de su denominación.
 
-VI. Los demás Organos que determinen las Leyes.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
+
+V.- El Tribunal Superior de Justicia y el órgano de control interno que para tal efecto haya sido creado.
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
+
+VI.- Los organismos constitucionales autónomos y el órgano de control interno que para tal efecto haya sido creado.
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2004)</small>
+
+VII.- Los demás órganos que determinen las leyes.
 
 ###### ARTICULO 4.
 
@@ -129,87 +147,157 @@ Si la resolución que se dicte en el Juicio Político es condenatoria, se sancio
 
 ### CAPITULO SEGUNDO. PROCEDIMIENTO EN EL JUICIO POLITICO
 
-###### ARTICULO 9.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
-El Juicio Político sólo iniciarse durante el tiempo en que el servidor público desempeñe su empleo cargo o comisión, y dentro de un año después de la conclusión de sus funciones. Las sanciones respectivas se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+###### ARTÍCULO 9.
+
+El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, que ejerció al momento de cometer cualquiera de las causales previstas en el artículo 7 de esta ley, y dentro de un año después de la conclusión de sus funciones. Las sanciones respectivas se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
 ###### ARTICULO 10.
 
 Corresponde a la Legislatura del Estado iniciar el Juicio Político constituyéndose al efecto como Órgano de Acusación para sustanciar el procedimiento consignado en el presente Capítulo, turnando ésta al Tribunal Superior de Justicia que fungirá como Jurado de Sentencia.
 
-El Tribunal Superior de Justicia, erigido en Jurado de Sentencia, revisará que en el procedimiento del Juicio Político, se hayan observado las disposiciones contenidas en la Constitución Política del Estado y las de esta Ley, asimismo y en su caso, aplicará la sanción correspondiente.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
-Para los efectos de este artículo, la Legislatura y el Tribunal Superior de Justicia, integrarán respectivamente una Sección Instructora y de Enjuiciamiento, que se integrarán, con cuatro Diputados y cuatro integrantes de dicho Tribunal, y en cada una de ellas, se designará de entre sus miembros un Presidente y un Secretario, y éste último no tendrá voto.
+El Tribunal Superior de Justicia, erigido en Jurado de Sentencia, revisará que en el procedimiento del juicio político, se hayan observado las disposiciones contenidas en la Constitución Política del Estado y las de esta ley, así mismo y en su caso, aplicará la sanción correspondiente.
 
-El Presidente de cada Sección podrá cubrir por designación directa, las vacantes que ocurran.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Para los efectos de este artículo, la Legislatura conocerá a través de la Comisión Instructora de los procedimientos a que se refiere esta ley, el Tribunal Superior de Justicia, conformará una Sección de Enjuiciamiento. La Comisión y la Sección se integran con cuatro miembros y de entre sus miembros se designará un presidente y un secretario que no tendrá voto.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Los Presidentes de la Comisión y Sección, respectivamente, podrán cubrir por designación directa, las vacantes que ocurran.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 11.
 
-Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante la Legislatura por las conductas a que se refiere el artículo 7 de esta Ley; presentada la denuncia y ratificada dentro de tres días naturales, se turnará con la documentación que la acompañe a la Sección Instructora para que dictamine si la conducta atribuida corresponde a las enumeradas en el precepto mencionado, y si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 97 de la Constitución Política del Estado, así como si la denuncia es procedente y amerita por tanto, la incoación del procedimiento.
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación y ofrecimiento de medios de convicción, podrá formular por escrito, de manera pacífica y respetuosa, denuncia que deberá ratificar ante la Legislatura, por las conductas a las que se refiere el artículo 7, de esta ley. Las denuncias anónimas no producirán ningún efecto.
 
-Las denuncias anónimas no producirán ningún efecto.
+La denuncia deberá contener y acompañarse de:
+
+I.- El nombre y firma autógrafa o impresión de huella dactilar del denunciante, su domicilio y personas autorizadas para recibir notificaciones en la Ciudad de Santiago de Querétaro, y en su caso de quien promueva en su nombre;
+
+II.- Nombre y cargo del servidor público denunciado;
+
+III.- El señalamiento de las causales en las que incurrió presuntamente el servidor público denunciado;
+
+IV.- Los hechos que sustenten su acusación;
+
+V.- Los medios de prueba que sustentan la denuncia, relacionándolos con los hechos que se señalen; y
+
+VI.- Exhibir copia de identificación expedida por autoridad competente.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 12.
 
-Dentro de los tres días naturales siguientes a la ratificación de la denuncia, la Sección Instructora notificará al servidor público de que se trate, sobre la materia de la denuncia haciéndole saber su garantía de defensa y le emplazará para que comparezca personalmente, a través de su defensor, o por escrito, dentro de los siete días naturales siguientes a dicho emplazamiento.
+Una vez presentada la denuncia de juicio político en la Oficialía de Partes del Poder Legislativo se dará aviso al secretario de la Comisión Instructora, el cual notificará al día hábil siguiente al denunciante, el día y hora para la ratificación de su denuncia ante aquél, la cual se verificará dentro de los cinco días hábiles siguientes a dicha notificación.
+
+La notificación al denunciante se hará en el domicilio señalado en su escrito de denuncia; en caso de no haberse señalado domicilio, o si el señalado no corresponde al del promovente o no se encontrara localizado en la Ciudad de Querétaro, las notificaciones se harán mediante publicación en los estrados de la Legislatura.
+
+Si la denuncia no es ratificada, se tendrá por no interpuesta.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 13.
 
-La Sección Instructora, con vista de lo expresado por el denunciado o transcurrido el plazo a que se refiere el artículo anterior sin que lo hubiere hecho, abrirá un periodo de pruebas de treinta días naturales dentro del cual recibirá las que ofrezcan el denunciante y el servidor público, así como las que la propia Sección estime necesarias. La Sección Instructora practicará todas las diligencias necesarias para la comprobación de los hechos materia de la denuncia.
+Ratificada la denuncia de juicio político se turnará al presidente de la Comisión Instructora, copia del escrito de denuncia y de los anexos que lo acompañen en un plazo no mayor de tres días hábiles.
 
-Si al concluir el plazo señalado no hubiere sido posible recibir las pruebas ofrecidas oportunamente o es preciso allegarse otras, la Sección Instructora podrá ampliarlo discrecionalmente en la medida que lo estime necesario.
+Los documentos que no fuere posible fotocopiar por su volumen, estarán a disposición para consulta de los integrantes de la Comisión Instructora, en los archivos de la Legislatura.
 
-En todo caso, la Sección Instructora calificará la pertinencia de las pruebas, desechando las que a su juicio sean improcedentes.
+Hecho lo anterior el secretario de la Comisión Instructora, el mismo día que reciba la documentación, levantará constancia que deberá contener:
+
+I.- Las fechas de recibido por la Oficialía de Partes y por la Presidencia de la Comisión Instructora,
+
+II.- La fecha en la que fue ratificada la denuncia, y
+
+III.- La relación de la documentación que se acompaña.
+
+Emitida la constancia, se comunicará al presidente de la Comisión Instructora, quien deberá convocar a los integrantes de la misma dentro de los quince días hábiles siguientes para resolver sobre la incoación o no del procedimiento. En contra de esta determinación no se admitirá recurso alguno.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 14.
 
-Terminada la instrucción, se pondrá el expediente a la visita de las partes, para que en el término de seis días naturales después del acuerdo respectivo formulen sus respectivos alegatos.
+El auto de incoación deberá estar debidamente motivado y fundado y contendrá un apartado de antecedentes, considerandos y resolutivos.
+
+A partir del auto de incoación se contará el plazo previsto en la última parte del párrafo primero del artículo 101 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 15.
 
-Transcurrido el plazo para la presentación de alegatos, la Sección Instructora formulará sus conclusiones en vista de las constancias del procedimiento. Para este efecto, analizará la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan, para justificar en su caso la conclusión o continuación del procedimiento.
+La denuncia será desechada de plano cuando no presente medios de prueba, teniendo como plazo para exhibirlas hasta el momento de la ratificación de la denuncia.
 
-###### ARTICULO 16.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
-Si las conclusiones de la Sección instructora fueren de inocencia del encausado, propondrá que se decida que no ha lugar a proceder en su contra.
+###### ARTÍCULO 16.
 
-Si las conclusiones fueren de que es probable la responsabilidad del servidor público, en ellas se propondrán los siguientes puntos:
+Incoado el procedimiento, se ordenará dentro de los tres días hábiles siguientes la notificación al denunciado señalándole día y hora para la comparecencia, la cual se llevará a cabo transcurridos siete días hábiles contados a partir de la notificación, entregándole copia de la denuncia y documentos anexos, y emplazándolo para que comparezca personalmente, a través de su defensor o por escrito, a efecto de manifestar lo que a su derecho convenga en relación con los hechos que se le imputen y ofrecer las pruebas que a su interés convenga, relacionándolas con los hechos controvertidos.
 
-I. Que está legalmente comprobada la conducta o hecho materia de la denuncia;
+Si el denunciado comparece personalmente, lo hará asistido de su defensor. En caso de no contar con éste, la Comisión Instructora proveerá lo necesario para que cuente con un defensor de oficio.
 
-II. Que existe probable responsabilidad del encausado;
+Recibida la comparecencia del denunciado o llegado el término para que ésta se lleve a cabo, el secretario de la Comisión Instructora, por acuerdo de su presidente, emitirá acuerdo de apertura del período de instrucción en el que se admitirán o desecharán las pruebas ofrecidas por las partes y en su caso, se ordenarán otras para mejor proveer y se señalarán las fechas para aquellas que requieran desahogo, por un plazo hasta de treinta días hábiles.
 
-III. La sanción que debe imponerse conforme el artículo 8 de esta Ley, y
+Si transcurrido el plazo de los treinta días no se ha concluido con el desahogo de los medios de prueba admitidos o es necesario allegarse otros medios de prueba, la Comisión Instructora podrá en la medida que lo estime necesario señalar hasta otros treinta días para tal efecto.
 
-IV. Que en caso de ser aprobadas las conclusiones por la Legislatura, se envía la Declaración correspondiente al Tribunal Superior de Justicia en vía de acusación, para los efectos legales respectivos.
+La no comparecencia del denunciado, hará que se le tenga por confeso de los hechos y conductas que se le atribuyen, salvo prueba en contrario.
 
-Asimismo deberán asentarse en las conclusiones las circunstancias que hubieren concurrido a los hechos.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 17.
 
-La Sección Instructora entregará las conclusiones al Secretario de la Legislatura, para que dé cuenta al Presidente de la misma, quien convocará a está a reunirse y resolver sobre la denuncia y las conclusiones dentro de los tres días naturales siguientes, debiendo citar el Secretario a las partes, a fin de que aleguen lo que a su derecho convenga en la audiencia respectiva.
+Concluida la instrucción, se pondrá el expediente a la vista de las partes para que expresen por escrito sus respectivos alegatos, en un plazo no mayor de cinco días hábiles contados partir de la notificación correspondiente.
+
+La oportunidad para presentar alegatos dentro del juicio, hará las veces de la audiencia del inculpado.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 18.
 
-La Sección Instructora efectuará las diligencias y formulará las conclusiones hasta entregarlas al Secretario de la Legislatura, dentro de un plazo de sesenta días naturales, contados a partir del día siguiente de la fecha en que se haya turnado la denuncia a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso, podrá solicitar de la Legislatura se amplíe el plazo para perfeccionar la instrucción, sin que pueda exceder éste de quince días.
+Expresados los alegatos o transcurrido el plazo para expresarlos, la Comisión Instructora sesionará las veces que sean necesarias para emitir sus conclusiones en relación a la denuncia de juicio político, analizando la conducta o los hechos imputados, valorará las pruebas y hará las consideraciones jurídicas que procedan, para justificar en su caso la continuación del procedimiento.
 
-Los plazos a que se refiere este artículo se tienen comprendidos dentro del Periodo Ordinario de Sesiones de la Legislatura, o bien dentro del siguiente Ordinario o Extraordinario que se convoque.
+Si las conclusiones fueren en sentido acusatorio deberán contener los siguientes puntos:
+
+I.- Que legalmente se encuentra comprobada la conducta o hecho materia de la denuncia;
+
+II.- Que los hechos atribuidos al denunciado, no sean de los señalados en el artículo 110 de la Constitución Política de los Estados Unidos Mexicanos;
+
+III.- Que existe probable responsabilidad del acusado, y que éste se encuentra dentro de los servidores públicos referidos en el artículo 97 de la Constitución Política del Estado;
+
+IV.- La sanción que debe imponerse conforme al artículo 8 de esta ley; y
+
+V.- Que en caso de ser aprobadas las conclusiones por la Legislatura, se envíe la declaración correspondiente al Tribunal Superior de Justicia en vía de acusación, para los efectos legales respectivos.
+
+Asimismo deberán asentarse en las conclusiones las circunstancias que hubieren concurrido a los hechos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 19.
 
-El día y hora señalados, la Legislatura se erigirá en Órgano de Acusación, previa declaración de su Presidente. Enseguida, la Secretaría dará lectura a las constancias del procedimiento o una síntesis que contenga los puntos esenciales de éstas, así como las conclusiones de la Sección Instructora. Enseguida se concederá el uso de la palabra al denunciante y enseguida al servidor público o a su defensor, o a ambos si así lo solicitaran, para que manifiesten lo que a sus intereses convengan.
+Las conclusiones se turnarán al presidente de la Legislatura para que convoque a sesión del Pleno que decida por mayoría absoluta de los diputados presentes, erigirse en órgano de acusación en un plazo no mayor a 30 días hábiles contados a partir de cerrarse el plazo para formular alegatos, el cual se podrá prorrogar por causa justificada a efecto de su discusión y votación, ajustándose a las reglas aplicables a los debates y las votaciones y a lo dispuesto por la Constitución del Estado.
 
-Reiterados el denunciante y el servidor público y su defensor, la Legislatura procederá a discutir y votar las conclusiones propuestas por la Sección Instructora.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
-Si la Legislatura resolviese que no procede acusar al servidor público, éste continuará en el ejercicio de su cargo. En caso contrario, se le suspenderá de su cargo y se le pondrá a disposición del Tribunal Superior de Justicia, al que se le remitirá la acusación comisionándose a un Diputado para que la presente ante la Presidencia de dicho Tribunal.
+Si la Legislatura resuelve acusar al demandado, se le suspenderá de su cargo y se le pondrá a disposición del Tribunal Superior de Justicia, al que se le remitirá la acusación presentándola en Oficialía de Partes de este Poder de forma inmediata. Si resolviese no proceder acusar al denunciado, éste continuará en el ejercicio de su cargo, en su caso.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Lo anterior se notificará personalmente a las partes.
 
 Se requerirá autorización del Gobernador del Estado, para dicha suspensión, cuando el nombramiento del servidor público que se trate, haya sido realizado por éste.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 20.
 
-Recibida la acusación por el Tribunal, se turnará a la Sección de Enjuiciamiento la que emplazará a la Sección Instructora de la Legislatura y al servidor público denunciado, para que formulen alegatos dentro del plazo de cinco días naturales, comunes a las partes, siguientes al emplazamiento.
+Recibida la acusación por el Tribunal, se turnará a la Sección de Enjuiciamiento, la que emplazará a la Comisión Instructora de la Legislatura y al servidor público denunciado, para que formulen alegatos dentro del plazo de cinco días hábiles, comunes a las partes.
 
-Transcurrido el plazo anterior, la Sección de Enjuiciamiento formulará sus conclusiones en vista de las consideraciones hechas en acusación y en los alegatos formulados, en su caso, proponiendo la sanción que deba imponerse al servidor público, y expresando los preceptos legales en que se funde. La Sección de Enjuiciamiento podrá ordenar la práctica de cualquier diligencia que estime necesaria para integrar sus propias conclusiones
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Transcurrido el plazo anterior, la Sección de Enjuiciamiento formulará sus conclusiones en vista de las consideraciones hechas en la acusación y en los alegatos formulados, en su caso, proponiendo la sanción que deba imponerse al denunciado, y expresando los preceptos legales en que se funde. La Sección de Enjuiciamiento podrá ordenar la práctica de cualquier diligencia que estime necesaria para integrar sus propias conclusiones.
 
 Emitidas las conclusiones, la Sección de Enjuiciamiento las entregará a la Secretaría de Acuerdos del Tribunal.
 
@@ -225,97 +313,141 @@ II. Revisará que en el procedimiento del juicio político, se hayan observado l
 
 III. Acto continuo se procederá a discutir y votar las conclusiones, aprobando los puntos de acuerdo que en ellas se contenga. No podrán votar en ningún caso Magistrados que hubiesen integrado la Sección de Enjuiciamiento.
 
-El Presidente hará la declaratoria que corresponda y ordenará se notifique personalmente a la Legislatura, al servidor público y, cuando éste pertenezca al Poder Ejecutivo, al Gobernador del Estado.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+El Presidente hará la declaratoria que corresponda y ordenará se notifique personalmente a la Legislatura, al denunciado y, cuando éste pertenezca al Poder Ejecutivo, al Gobernador del Estado.
 
 ### CAPITULO TERCERO. DE LA DECLARACION DE PROCEDENCIA POR RESPONSABILIDAD PENAL
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 22.
 
-Cuando se presente denuncia o querella por particulares, bajo su responsabilidad y mediante la presentación de elementos de prueba; o por requerimiento del Ministerio Público, cumplidos los requisitos procesales para el ejercicio de la acción penal, a fin de que pueda procederse en la misma vía en contra de los servidores públicos a que se refiere el artículo 98 de la Constitución Política del Estado, se actuará en lo pertinente de acuerdo con el procedimiento previsto en el Capítulo anterior de esta Ley, en materia de juicio político ante la Legislatura. En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y la probable responsabilidad del imputado, así como la subsistencia del fuero constitucional del servidor público cuya remoción se solicite. Concluida esta averiguación, la Sección dictaminará si ha lugar a proceder penalmente en contra del inculpado.
+Cualquier particular, bajo su más estricta responsabilidad, podrá presentar ante el Ministerio Público la denuncia penal o querella respecto a los servidores públicos a que se refiere el artículo 98 de la Constitución del Estado, la cual deberá ratificarse ante éste, quien deberá practicar todas las diligencias de preparación de la acción penal, citándose al inculpado, en los términos del Código de Procedimientos Penales, a efecto de que les sean notificados los cargos que se le imputan, rinda su declaración ministerial, se le reciban las pruebas que a su interés convenga, así como que exprese los alegatos que estime pertinentes, hecho lo cual, el agente del ministerio público deberá emitir resolución debidamente fundada y motivada en la que exprese si se configura la existencia del cuerpo de delito así como la probable responsabilidad del funcionario imputado, remitiendo el expediente a la Legislatura del Estado solicitando se emita la declaración de procedencia respectiva.
 
-Si a juicio de la Sección Instructora la imputación fuera notoriamente improcedente, lo hará saber de inmediato a la Legislatura, para que ésta resuelva si se continúa el procedimiento o se desecha la imputación, sin perjuicio de reanudar aquel, si con posterioridad aparecen motivos que lo justifiquen.
+Recibido el expediente en la Oficialía de Partes de la Legislatura, se comunicará de inmediato a la Comisión Instructora para que se analice el expediente, se emita el dictamen correspondiente que deberá contener una síntesis de las diligencias llevadas a cabo ante el ministerio público y la valoración de la Comisión a efecto de dar a conocer al Pleno de la Legislatura los resultados y la opinión fundada y motivada en relación a las investigaciones practicadas y del dictamen ministerial, quien se erigirá en Jurado de Procedencia convocando a sus miembros para efecto de proceder a su análisis, discusión y votación solicitando de ser necesario la comparecencia del ministerio público para que auxilie en las deliberaciones.
 
-Para los efectos del primer párrafo de este artículo, la Sección deberá rendir su dictamen en un plazo de sesenta días naturales, salvo que fuese necesario disponer de más tiempo a criterio de la Sección. En este caso, se observarán las normas acerca de la ampliación de plazos para la recepción de pruebas del procedimiento conforme al juicio político.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 23.
 
-El presidente de la Legislatura, al recibir el Dictamen de la Sección Instructora, anunciará a la legislatura que deberá erigirse en Jurado de Procedencia, convocando a sus miembros para el día siguiente al de la fecha en que se hubiere depositado el dictamen, haciéndolo saber al inculpado y a su defensor, así como al denunciante, al querellante o Ministerio Público en su caso.
+La Comisión deberá rendir su dictamen en un plazo de sesenta días naturales, salvo que fuese necesario disponer de más tiempo a criterio de la propia Comisión. En este caso se observarán las normas acerca de la ampliación de plazos para el desahogo de pruebas relativo al juicio político.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 24.
 
-La Legislatura el día designado, conocerá en sesión, el dictamen que la Sección Instructora haya formulado, y procederá en los términos previstos en el artículo 19 de esta Ley en materia de Juicio Político, instalándose como Jurado de Procedencia.
+En caso de que el Pleno de la Legislatura, por mayoría absoluta de sus integrantes, determine la probable responsabilidad penal del funcionario acusado, de inmediato se ordenará la separación de su empleo, cargo o comisión, y será sujeto a la jurisdicción de los tribunales competentes y se comunicará al ministerio público para que, ejercite la acción penal correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 25.
 
-Si la Legislatura declara que ha lugar a proceder contra el inculpado, éste quedará automáticamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los Tribunales Competentes; en caso negativo, no habrá lugar a procedimiento ulterior mientras subsista la protección constitucional, pero tal declaración no será obstáculo para que el procedimiento continué su curso cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
+En caso de rechazo, no habrá lugar a procedimiento ulterior por la misma conducta, pero tal declaración no será obstáculo para que el procedimiento penal continúe su curso una vez que el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
 
-Para proceder penalmente contra el Gobernador, Diputados y Magistrados del Tribunal Superior de Justicia, en los términos del artículo 111 de la Constitución General de la República, la Legislatura al recibir de la Cámara de Diputados del Congreso de la Unión la declaración correspondiente, procederá conforme a sus atribuciones y en los términos de la Constitución del Estado, a declarar si procede la homologación de la declaratoria del Congreso de la Unión, y consecuentemente el retiro de la protección o fuero que la propia Constitución del Estado otorga a tales servidores públicos, a fin de ser enjuiciados como legalmente hubiere lugar.
+En dicho caso no correrá el plazo para la prescripción del ejercicio de la acción penal.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 26.
 
-Cuando se siga proceso penal a un servidor público de los mencionados en el artículo 98 de la Constitución del Estado, sin haberse satisfecho el procedimiento a que se refieren los artículos anteriores, la Secretaría de la Legislatura o la Secretaría de la Comisión Permanente librará oficio al Juez o Tribunal que conozca de la causa a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
+Cuando se siga proceso penal a un servidor público de los mencionados en el artículo 98 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, la Legislatura girará oficio al juez o tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder en contra de dicho servidor público.
 
 ### CAPITULO CUARTO
 
 DISPOSICIONES COMUNES PARA LOS CAPITULOS SEGUNDO Y TERCERO DEL TITULO SEGUNDO.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 27.
 
-Las declaraciones y resoluciones definitivas dictadas por la Legislatura y por el Tribunal Superior de Justicia son inatacables por juicio o recurso alguno.
+Para proceder penalmente contra el gobernador, diputados y magistrados del Tribunal Superior de Justicia, por la comisión de delitos del orden federal, en los términos del artículo 111 de la Constitución General de la República, al recibir la Legislatura la declaración correspondiente de la Cámara de Diputados del Congreso de la Unión, emitirá resolución en la que determine si procede o no la homologación de la declaratoria del Congreso de la Unión, y consecuentemente, el retiro de la protección constitucional, en la forma y términos previstos en el presente capítulo.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 28.
 
-La Legislatura enviará por riguroso turno a la Sección Instructora las denuncias, querellas, requerimiento del Ministerio Público o acusaciones que se le presenten.
+Contra las declaraciones y resoluciones definitivas dictadas por la Legislatura y por el Tribunal Superior de Justicia no procede recurso alguno.
 
 ###### ARTICULO 29.
 
 En ningún caso podrá dispensarse un trámite de los establecidos en los Capítulos Segundo y Tercero de este Título.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 30.
 
-Cuando alguna de las Secciones Instructora o de Enjuiciamiento deba realizar una diligencia en la que se requiera la presencia del inculpado, se emplazará a éste para que comparezca o conteste por escrito a los requerimientos que se le hagan, advirtiéndole que si se abstiene de comparecer o de informar por escrito se entenderá que contesta en sentido afirmativo.
+Cuando la Comisión Instructora o la Sección de Enjuiciamiento deban realizar una diligencia en la que se requiera la presencia del inculpado, se emplazará a éste para que comparezca o conteste por escrito a los requerimientos que se le hagan, advirtiéndole que si se abstiene de comparecer o de informar por escrito se entenderá que contesta en sentido afirmativo.
 
-La Sección respectiva, cuando se trate de diligencias que deban efectuarse fuera de Lugar de residencia de la Legislatura, solicitará al Tribunal Superior de Justicia del Estado, que los encomiende al Juez que corresponda para que se practiquen dentro de su Jurisdicción y para cuyo efecto se remitirá a dicho Tribunal Superior el testimonio de las constancias conducentes.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Cuando se trate de diligencias que deban efectuarse fuera del lugar de residencia de la Legislatura, la Comisión o Sección Instructora, solicitará al Tribunal Superior de Justicia del Estado, que los encomiende al Juez que corresponda para que se practiquen dentro de su jurisdicción y para cuyo efecto se remitirá a dicho Tribunal Superior el testimonio de las constancias conducentes.
 
 El Juez practicará las diligencias que se le encomienden al respecto, con estricta sujeción a las determinaciones que le comunique el Tribunal en auxilio del Poder Legislativo.
 
 Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias a que se refiere este artículo, se notificarán personalmente o se enviarán por correo certificado con acuse de recibo.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 31.
 
-Tanto el inculpado como el denunciante o querellante, podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Sección respectiva.
+Tanto el inculpado como el denunciante o querellante, podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Comisión o Sección respectivas.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora y si no lo hicieren, la Sección o la Legislatura a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en el Estado. Si resultare falso que el interesado hubiere solicitado las constancias, la multa será efectiva en su contra.
+Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora y si no lo hicieren, la Sección o la Comisión a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en el Estado. Si resultare falso que el interesado hubiere solicitado las constancias, la multa será efectiva en su contra.
 
-Por su parte, las Secciones solicitarán las copias certificadas de constancias que estime necesarias para el procedimiento y si la autoridad de quien las solicitaren no las remite dentro del plazo que se le señale, se le impondrá la multa a que se refiere el párrafo anterior.
+Por su parte, la Comisión Instructora o la Sección de Enjuiciamiento, en su caso, solicitarán las copias certificadas de constancias que estime necesarias para el procedimiento y si la autoridad de quien las solicitaren no las remite dentro del plazo que se le señale, se le impondrá la multa a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 32.
 
-Las Secciones, la Legislatura o el Tribunal, podrán solicitar por sí, o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y la autoridad de quien se soliciten tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la corrección dispuesta en el artículo anterior.
+Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que la Comisión Instructora, la Sección de Enjuiciamiento, la Legislatura o el Tribunal, estimen pertinentes.
 
-Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que las Secciones, la Legislatura o el Tribunal estimen pertinentes.
+La Legislatura y el Tribunal Superior de Justicia no podrán erigirse en Órgano de Acusación o Jurado de Sentencia, sin que antes se compruebe fehacientemente que el denunciado o su defensor fue debidamente notificado del procedimiento seguido en su contra.
 
-La Legislatura y el Tribunal Superior de Justicia no podrán erigirse en Órganos de Acusación o Jurado de Sentencia, sin que antes se compruebe fehacientemente que el servidor público, su defensor, el denunciante o el querellante y, en su caso, el Ministerio Público han sido debidamente citados.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 33.
 
-Los servidores públicos están impedidos para ejercer el cargo de Defensor en las causas a que se refiere esta Ley.
+Los diputados, magistrados en general y las partes en los procedimientos a cargo de la Comisión Instructora o de la Sección de Enjuiciamiento, pueden en todo tiempo recusar la intervención de uno o varios integrantes de la Legislatura o Tribunal, en los casos en que se acredite causa de impedimento para intervenir en los procedimientos a que se refiere la presente ley.
+
+La recusación se promoverá ante el presidente de la Legislatura o del Tribunal en su caso, mediante escrito en el que se señalen las causas en que se funde, y dado el caso, las pruebas conducentes. El presidente de la Legislatura o del Tribunal, oyendo al diputado o magistrado cuya intervención se recuse, resolverá de plano y en definitiva.
+
+Aceptada la recusación se citará conforme a lo establecido en el segundo párrafo del artículo 10 de esta ley, pero si fuese rechazada, no podrá intentarse en relación con el mismo asunto sino por causa superveniente.
+
+Asimismo son causas que impiden la intervención de los diputados o magistrados en los presentes procedimientos:
+
+I. Que exista con alguna de las partes o sus representantes legales, parentesco consanguíneo hasta cuarto grado, así como los que tengan o hubiese tenido parentesco por afinidad o civil.
+
+II. Que sea o hubiere sido apoderado, comisionado o mandatario de una de las partes o sus representantes,
+
+III. Que tenga en relación con el objeto del procedimiento, interés personal y directo de cualquier género o concurran circunstancias notorias que impidan el ejercicio de su imparcial y objetivo criterio.
+
+Los servidores públicos están impedidos para ejercer el cargo de defensor en las causas a que se refiere esta ley.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 34.
 
-En el juicio político a que se refiere esta Ley, los acuerdos y determinaciones de la Legislatura y del Tribunal se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando el interés general exija que la audiencia sea privada.
+En el juicio político a que se refiere esta ley, los acuerdos y determinaciones de la Legislatura y del Tribunal se tomarán en sesión pública, excepto en la que se presente la acusación de carácter penal o cuando las buenas costumbres o el orden social exija que la audiencia sea privada.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 35.
 
-Cuando en el curso del procedimiento seguido a un servidor público de los mencionados en los artículos 97 y 98 de la Constitución Política del Estado, se presentare nueva denuncia en su contra, se procederá respecto a ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando de ser posible la acumulación procesal. Si la acumulación fuere procedente, la Sección formulará en un solo documento sus conclusiones que comprenderán el resultado de los diversos procedimientos.
+Cuando en el curso del procedimiento seguido a un servidor público de los mencionados en los artículos 97 y 98 de la Constitución Política del Estado, según el caso, se presentase nueva denuncia o querella en su contra, se procederá respecto a ella con arreglo a esta ley, procurando de ser posible la acumulación procesal. Si la acumulación fuere procedente, la Comisión formulará en un solo documento sus conclusiones o dictamen que comprenderán el resultado de los diversos procedimientos.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 36.
 
-Las Secciones, la Legislatura y el Tribunal, podrán disponer las medidas de apercibimiento que fueren procedentes.
+La Comisión Instructora, la Sección de Enjuiciamiento, la Legislatura y el Tribunal, podrán disponer las medidas de apercibimiento que fueren procedentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 37.
 
-Las declaraciones o resoluciones aprobadas por la Legislatura y el Tribunal con apego a esta Ley, se comunicarán a la Dependencia a la que pertenezca el acusado. En todo caso, se comunicará al Ejecutivo para su conocimiento y efectos legales y para la publicación en el Periódico Oficial del Gobierno del Estado.
+La declaración de procedencia de la Legislatura y la resolución del Tribunal Superior de Justicia se comunicará a la dependencia que pertenezca el acusado. Así mismo, se comunicará al ejecutivo dicha declaración y resolutivo para los efectos de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 En el caso de que la Declaratoria de las Cámaras del H. Congreso de la Unión se refieran al Gobernador del Estado, Diputados Locales y Magistrados del Tribunal Superior de Justicia, se hará la notificación a la Legislatura Local.
 
@@ -327,9 +459,11 @@ En todas las cuestiones relativas al procedimiento no previstas en esta Ley, as�
 
 ### CAPITULO PRIMERO. DE LOS SUJETOS Y OBLIGACIONES DEL SERVIDOR PUBLICO
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 39.
 
-Son sujetos de responsabilidad administrativa los servidores públicos y todas aquellas personas a que se refiere el artículo 2o. de esta Ley.
+Son sujetos de responsabilidad administrativa, todas aquellas personas a que se refiere el artículo 2 de esta ley.
 
 ###### ARTICULO 40.
 
@@ -389,9 +523,11 @@ XXV. Abstenerse, en el ejercicio de sus funciones o con motivo de ellas, de cele
 
 XXVI. Las demás que le impongan las Leyes y Reglamentos.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 41.
 
-Se incurre en responsabilidad administrativa por el incumplimiento de cualesquiera de las obligaciones a que se refiere el artículo anterior, dando lugar a la instrucción del procedimiento administrativo ante los Órganos disciplinarios, y a la aplicación de las sanciones que en esta Ley se consignan atendiendo a la naturaleza de la obligación que se trasgreda.
+Se incurre en responsabilidad administrativa por el incumplimiento de cualesquiera de las obligaciones a que se refiere el artículo anterior, dando lugar a la instrucción del procedimiento administrativo que corresponda ante los órganos competentes, y a la aplicación de las sanciones que en esta ley se consignan atendiendo a la naturaleza de la obligación que se transgreda.
 
 ### CAPITULO SEGUNDO. DISPOSICIONES GENERALES
 
@@ -399,17 +535,41 @@ Se incurre en responsabilidad administrativa por el incumplimiento de cualesquie
 
 Para los efectos de esta Ley, se entenderá por Secretaría, a la Secretaría de la Contraloría.
 
-Para los mismos efectos, en el Poder Ejecutivo del Estado se entenderá por Superior Jerárquico al titular de la Dependencia correspondiente y en los Organismos Auxiliares y Fideicomisos Públicos, al Director, Coordinador, Vocal Ejecutivo o cualesquier otro nombre similar que ostente el Titular de los mismos, quiénes aplicarán aquellas sanciones cuya imposición les atribuya esta Ley.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
-En el Gobierno Municipal se entenderá por Superior Jerárquico al Ayuntamiento, que determinará las sanciones cuya imposición se le atribuya para ejecución o aplicación por el Presidente Municipal.
+Para los mismos efectos, se entienden como superiores jerárquicos:
 
-En los Poderes Legislativo o Judicial, se entenderá por Superiores jerárquicos a los Presidentes de dichos Poderes, quiénes aplicarán las sanciones que establece la misma cuando sus respectivas Leyes Orgánicas no dispongan otra cosa.
+I.- En el Poder Ejecutivo del Estado, al Gobernador del Estado, al titular de la dependencia y en las entidades paraestatales al director, coordinador, vocal ejecutivo o cualquier otro nombre que ostente el titular de las mismas quienes aplicarán aquellas sanciones cuya imposición les atribuya esta ley.
+
+II.- En los Poderes Legislativo o Judicial, a la Mesa Directiva o Comisión Permanente, en su caso, y al Pleno del Tribunal Superior de Justicia, respectivamente, los que aplicarán las sanciones que correspondan derivadas de las irregularidades que conozcan los órganos de control interno, siempre que sus respectivas leyes orgánicas no dispongan otra cosa.
+
+III.- En el gobierno municipal, al ayuntamiento, que determinará las sanciones cuya imposición se le atribuya para ejecución o aplicación por el órgano de control interno o en su caso por el presidente municipal.
+
+IV.- En el Tribunal de Conciliación y Arbitraje, al Presidente del mismo.
+
+V.- En el Tribunal de lo Contencioso Administrativo, al Magistrado propietario de la Sala Unitaria.
+
+VI.- En el Instituto Electoral de Querétaro, al Consejo General.
+
+VII.- En la Comisión Estatal de Derechos Humanos, al Consejo;
+
+VIII.- En la Comisión Estatal de Información Gubernamental, a los comisionados en forma colegiada.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Los superiores jerárquicos enunciados en las fracciones IV a VIII determinarán las sanciones correspondientes, cuando sus respectivas leyes orgánicas no dispongan otra cosa.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Tratándose de la imposición de sanciones por parte del Poder Legislativo resultado de la revisión y fiscalización de las cuentas públicas de las entidades fiscalizadas, el Pleno de la Legislatura está facultado para ello de conformidad con los artículos 41 fracción XXV y 47 de la Constitución Política del Estado, con el auxilio de la Comisión de Hacienda y la Contaduría Mayor de Hacienda.
 
 ### CAPITULO TERCERO. DEL FINANCIAMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS RESARCITORIA
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 43.
 
-La Secretaría en funciones de auditoría, fiscalización, control, vigilancia o inspección como instrumentos y mecanismos de que dispone en el ejercicio de sus atribuciones, actuando directamente o a través de los órganos de control interno de las dependencias, organismos descentralizados o fideicomisos, podrá fincar pliegos preventivos de responsabilidad cuando detecte irregularidades por actos u omisiones de servidores públicos en el manejo, aplicación, administración de fondos, valores y de recursos económicos del Estado, o de aquellos concertados o convenidos con la Federación y los Municipios, que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública del Estado, Municipal o al Patrimonio de los Organismos Auxiliares y Fideicomisos Públicos.
+Será competente la Secretaría en funciones de auditoria, fiscalización, control, vigilancia o inspección como instrumentos y mecanismos de que disponen en el ejercicio de sus atribuciones, actuando directamente o a través de los órganos de control interno de las dependencias, o entidades paraestatales, dará inicio al procedimiento resarcitorio, cuando detecte faltas administrativas por actos u omisiones de servidores públicos en el manejo, aplicación, administración de fondos, valores y de recursos económicos del Estado, o de aquellos concertados o convenidos con la Federación y los municipios, que se traduzcan en daños y perjuicios estimables en dinero, causados a la hacienda pública del Estado, municipal o al patrimonio de las entidades paraestatales.
 
 ###### ARTICULO 44.
 
@@ -423,29 +583,41 @@ III. En forma solidaria a los proveedores, contratistas o particulares que por v
 
 Los responsables garantizarán con embargo precautorio en forma individual, el importe de los pliegos preventivos a reserva de la calificación o constitución definitiva de la responsabilidad por la Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 45.
 
-Las responsabilidades a que se refiere este Capítulo tendrán por objeto reparar, indemnizar o resarcir los daños y perjuicios que se causen a la Hacienda Pública Estatal o Municipal, así como al Patrimonio de los Organismos Auxiliares y Fideicomisos, mismas que se fijarán en cantidad líquida, exigiéndose se solventen de inmediato.
+Las responsabilidades a que se refiere este capítulo tendrán por objeto reparar, indemnizar o resarcir los daños y perjuicios que se causen a la hacienda pública estatal o municipal, así como al patrimonio de las entidades paraestatales.
 
-Dichas responsabilidades se harán efectivas mediante el procedimiento económico coactivo y para efectos de su ejecución en su carácter de créditos fiscales, tendrán la prelación que corresponda en los términos de los ordenamientos fiscales aplicables.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Una vez determinadas las cantidades a resarcir, éstas se harán efectivas mediante el procedimiento económico coactivo, y para efectos de su ejecución en su carácter de créditos fiscales, tendrán la prelación que corresponda en los términos de los ordenamientos fiscales aplicables.
 
 Sin perjuicio de lo dispuesto por este artículo, en tratándose de servidores públicos procederá, en su caso, la aplicación de sanciones disciplinarias en los términos del Titulo respectivo.
 
-###### ARTICULO 46.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
-El fincamiento o constitución definitiva que regula este capítulo, será resuelto por la Secretaría a través del procedimiento administrativo que establece el Título Sexto de esta Ley, ya sea que las confirme, modifique o cancele, constituyendo el pliego preventivo el acto de inicio de dicho procedimiento.
+ARTIULO 46.- El fincamiento o constitución definitiva de responsabilidad resarcitoria que regula este capítulo, será resuelto por la Secretaría a través del procedimiento administrativo que establece el título sexto, capítulo segundo de esta ley, quien podrá constituir el pliego preventivo al acto del inicio de dicho procedimiento.
 
-Son aplicables estas disposiciones a los servidores públicos de los Poderes Legislativo y Judicial y de los Ayuntamientos, observándose lo dispuesto en el artículo 95 de esta Ley.
+Son aplicables estas disposiciones a los servidores públicos a que se refiere el artículo 2, observando lo dispuesto en esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 47.
 
-La Secretaría podrá dispensar las responsabilidades relativas en los términos del artículo 93 de esta Ley.
+La Secretaría o el superior jerárquico informando previamente a ésta, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de los hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor, y no exista daño económico.
 
 La propia Secretaría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de doscientas veces el salario mínimo diario vigente en el Estado, por incosteabilidad práctica de cobro.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Lo anterior, es aplicable a los Poderes Judicial y Legislativo, organismos constitucionales autónomos, así como también a los ayuntamientos a través de sus respectivos órganos competentes.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 48.
 
-Las facultades de la Autoridad para constituir responsabilidades en los términos de este Capítulo prescriben en la misma forma que para los créditos fiscales establecen las Leyes de la materia.
+Las facultades de la autoridad para constituir responsabilidades en los términos de este capítulo prescriben en la misma forma que para los créditos fiscales establece el Código Fiscal del Estado.
 
 ## TITULO CUARTO
 
@@ -571,19 +743,25 @@ En todo lo relacionado al procedimiento, ofrecimiento y valoración de pruebas a
 
 DE LA INDEMNIZACION POR REPARACION DE DAÑOS OCASIONADOS POR LOS SERVIDORES PUBLICOS.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 63.
 
-El Estado es solidariamente responsable de la reparación de los daños causados a particulares por los servidores públicos, sancionados en forma administrativa con motivo de la aplicación de esta Ley, o sentenciados penal o civilmente.
+El Estado es solidariamente responsable de la reparación de los daños causados a particulares por los servidores públicos sancionados en forma administrativa con motivo de la aplicación de esta ley, o condenados penal o civilmente, con motivo de su función pública.
 
 El Ejecutivo del Estado a propuesta de la Secretaría, en el primer caso, y de la Procuraduría General de Justicia en el segundo, podrá subrogarse al cumplimiento de esta responsabilidad en cualquier momento.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 64.
 
-Los particulares ofendidos o quien los represente, podrán solicitar al Ejecutivo por conducto de la Secretaría, el pago de la reparación del daño a que se refiere el artículo anterior.
+Los particulares ofendidos o quien los represente, podrán solicitar de los titulares de los Poderes, a los ayuntamientos o a los organismos constitucionales autónomos, según sea el caso, por conducto de sus respectivos órganos de control interno, el pago de la reparación del daño a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 65.
 
-El pago de la indemnización que haga el Ejecutivo, determina la subrogación en favor del Estado de los derechos a la reparación del daño que tenga el particular ofendido.
+El pago de la indemnización que hagan las autoridades señaladas en el presente capítulo, determina la subrogación a favor de éstas de los derechos a la reparación del daño que tenga el particular ofendido.
 
 ## TITULO SEXTO
 
@@ -591,83 +769,67 @@ El pago de la indemnización que haga el Ejecutivo, determina la subrogación en
 
 ###### ARTICULO 66.
 
-Todo particular podrá formular denuncias o quejas sobre responsabilidad administrativa de los servidores públicos, ante el Tribunal de lo Contencioso Administrativo, éste proporcionará formas impresas para que los interesados las formulen.
-
-La recepción, trámite, resolución y aplicación de las sanciones correspondientes, se sustanciarán con arreglo al procedimiento que prescribe este Capítulo; a falta de disposición expresa, se estará a lo dispuesto por la Ley del Tribunal de lo Contencioso Administrativo y por el Código Fiscal del Estado.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 67.
 
-El Magistrado del conocimiento, en cualquier etapa del procedimiento podrá disponer discrecionalmente de acuerdo con la gravedad de la infracción, la suspensión provisional del cargo y del derecho a remuneración del servidor público, sin perjuicio de las prestaciones que tuviera en materia de seguridad social.
-
-En todo caso, el Magistrado deberá de informar al titular de la Dependencia de la suspensión que decrete.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 68.
 
-El Magistrado, dentro del termino de tres días siguientes a la recepción de la denuncia o queja, acordará si se admite o se previene al denunciante para que la aclare, corrija o complete. De no hacer las aclaraciones en un término de cinco días, se desechará de plano.
-
-Cuando de los hechos y constancias de la denuncia o queja se desprenda que los mismos corresponden a los que previene el Capítulo Segundo del Titulo Segundo de esta Ley, el Magistrado en el término de tres días, deberá de remitir la denuncia o queja a la Secretaría de la Legislatura del Estado, dando por concluido el expediente.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 69.
 
-Una vez admitida la denuncia, el Magistrado la notificará al servidor público para que conteste por escrito en el término de tres días; señalará lugar, día y hora para que tenga verificativo la audiencia de pruebas, alegatos y resolución, informándole de su derecho para ofrecer las pruebas que le asistan y para formular alegatos por sí o por conducto de su representante legal.
-
-De igual forma, se notificará al Titular de la Dependencia, Institución o Entidad, en donde labore el servidor público, una síntesis de los hechos constitutivos de la denuncia o queja, requiriéndole para que en el término de cuarenta y ocho horas, presente el expediente personal y rinda el informe sobre la conducta y desempeño del servidor público.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 70.
 
-El servidor público en su contestación, deberá referirse a cada uno de los puntos de la denuncia o queja, hará las explicaciones que considere necesarios sobre el caso y ofrecerá sus pruebas; de no hacerlo así, se presumirán ciertos los hechos.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 71.
 
-La audiencia de pruebas, alegatos y resolución deberá de celebrarse en un término que en ningún caso será menor de cinco ni mayor de siete días, contados a partir de la fecha en que venza el término para que el servidor público rinda su contestación; se deberá de notificar personalmente de este Acuerdo al quejoso o denunciante.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 72.
 
-Si el servidor público incurre en responsabilidad administrativa en los términos del artículo 40 de esta Ley, causando con ello una lesión o daño, o un beneficio para sí, se cuantificará en su caso, mediante dictamen pericial formulado por peritos oficiales de la Procuraduría General de Justicia en el Estado, mismo que se tomará en cuenta en el momento de dictar resolución definitiva.
-
-Este dictamen se ofrecerá en la audiencia de pruebas, y dada su naturaleza se tendrá por desahogada.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 73.
 
-Iniciada la audiencia, se recibirán las declaraciones del quejoso y del servidor público, si asisten, o en su caso, sus escritos. La recepción de pruebas se sujetará a lo dispuesto por la Ley del Tribunal Contencioso Administrativo.
-
-Cuando en la misma audiencia el Magistrado advierta que las constancias que integran el expediente son insuficientes para dictar resolución, podrá acordar su diferimiento, para celebrarse dentro de los diez días hábiles siguientes.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 74.
 
-Si el servidor público confiesa ser responsable de la infracción que se le imputa, se estará a lo dispuesto por el artículo 90.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 75.
 
-Concluidos los alegatos, el Magistrado dictará resolución en la misma audiencia, solo en el caso de que exista gran número de constancias, a juicio del Magistrado, podrá dictarse la resolución en un término no mayor de ocho días hábiles, después de la audiencia.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 76.
 
-Las resoluciones que dicte el Tribunal no requerirán formalidades especiales, pero precisarán:
-
-I. Los hechos constitutivos de la denuncia o queja y, en su caso, los contenidos en la contestación a la misma;
-
-II. La valoración de las pruebas y de la lesión, si la hubiere, de los derechos o intereses del quejoso; la consideración del nivel jerárquico que ocupa el servidor público, sus funciones y los antecedentes contenidos en su expediente personal y, en su caso, la cuantificación de los beneficios obtenidos o del daño causado, y
-
-III. Los puntos resolutivos en donde se expresará si fue fundada la denuncia, acusación o queja, precisando la responsabilidad administrativa del servidor público y la sanción aplicable.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 77.
 
-La resolución que declare infundada la denuncia o queja, restituirá al servidor público en el goce de los derechos de que, en su caso, hubiere sido privado.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 78.
 
-Si de las constancias se desprendiere la probable comisión de hechos delictivos, el Magistrado remitirá copia de ellas a la Dirección de Averiguaciones Previas de la Procuraduría General de Justicia del Estado para los efectos legales que procedan, sin perjuicio del derecho del denunciante a hacer directamente del conocimiento del Ministerio Público tales hechos.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 79.
 
-La resolución definitiva que se dicte será notificada personalmente al denunciante o quejoso y al servidor público, en el domicilio que hayan señalado para oír notificaciones; de igual forma se notificará al Titular de la Dependencia, Organismo o Institución, a la que estuviere adscrito el servidor público, a efecto de que aquel, ejecute la sanción que contenga la resolución emitida.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ### CAPITULO SEGUNDO. SANCIONES DISCIPLINARIAS Y PROCEDIMIENTO DE APLICACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 80.
 
-En las Dependencias de la Administración Pública, en los Organismos Descentralizados, y Fideicomisos Públicos, y en los Ayuntamientos, se establecerán módulos específicos a los que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará en su caso, el procedimiento disciplinario correspondiente.
+En las dependencias de la Administración Pública, en las entidades paraestatales, y en los ayuntamientos, se establecerán módulos específicos dependientes del órgano de control interno a los que el público tenga fácil acceso, para que cualquier interesado pueda presentar por escrito y mediante la narración sucinta de hechos quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará en su caso, el procedimiento disciplinario correspondiente. En los casos que la persona no sepa o no pueda escribir, será auxiliada por el encargado del módulo correspondiente.
 
 Dichas quejas o denuncias se remitirán a la Secretaría en un plazo que no exceda de cuarenta y ocho horas, quedando facultada la propia Dependencia para establecer las normas y procedimientos de manera que las instancias del público sean atendidas y resueltas.
 
@@ -683,9 +845,11 @@ En los casos de que se trate de irregularidades a que se refiere el artículo 43
 
 La Secretaría, el Superior Jerárquico y todos los servicios públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de quejas y denuncias a que se refiere el artículo anterior, y evitar que con motivo de las mismas, se causen molestias indebidas a los quejosos o denunciantes.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 83.
 
-Los servidores públicos deberán denunciar por escrito a la Secretaría, o al Organo de control interno de su Dependencia, los hechos que a su juicio implican incumplimiento de obligaciones de sus subordinados.
+Los servidores públicos deben denunciar por escrito ante la Secretaría, o el órgano de control interno que resulte competente, los hechos que a su juicio implican incumplimiento de obligaciones.
 
 ###### ARTICULO 84.
 
@@ -693,47 +857,61 @@ El Organo de Control Interno determinará si existe o no responsabilidad adminis
 
 ###### ARTICULO 85.
 
-Por lo que respecta a los Organismos Descentralizados y Fideicomisos públicos, la denuncia a que se refiere el artículo 69 de esta Ley, se presentará ante el Director General, Coordinador, Vocal Ejecutivo, o cualquier otro puesto similar, que tenga la representación de aquéllos. Este, enviará a la Secretaría copia de las denuncias cuando se trate de infracciones graves o cuando en su concepto y tomando en cuenta la naturaleza de los hechos denunciados, la Secretaría deba conocer el caso o participar en las investigaciones.
+(DEROGADO, P.O. 26 DE MARZO DE 2004)
 
 ###### ARTICULO 86.
 
 Tratándose de denuncias en contra de los servidores de los Poderes Legislativo y Judicial, o de los Municipios, se presentarán ante sus respectivos Organos competentes, para determinar responsabilidades y aplicación de las sanciones que corresponda.
 
-###### ARTICULO 87.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
-La Secretaría aplicará las sanciones correspondientes a los Titulares y a los servidores públicos adscritos a los órganos de control interno de las Dependencias, Organismos Descentralizados y Fideicomisos en su caso, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+###### ARTÍCULO 87.
+
+La Secretaría aplicará las sanciones correspondientes a los titulares y a los servidores públicos adscritos a los órganos de control interno de las dependencias y entidades paraestatales en su caso, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+
+Lo mismo harán los titulares de los Poderes y de los ayuntamientos, en sus respectivos ámbitos de competencia.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 88.
 
-El Organo de Control Interno será competente para imponer sanciones disciplinarias por acuerdo del Superior Jerárquico, excepto las económicas cuyo monto sea superior a doscientas veces el salario mínimo diario en la Capital de Estado, las que en términos de esta Ley corresponde aplicar exclusivamente a la Secretaría.
+Los órganos de control interno de los Poderes, organismos constitucionales autónomos, entidades paraestatales y ayuntamientos serán competentes:
 
-Cuando del fincamiento de una responsabilidad, se desprenda una sanción económica superior a doscientas veces el salario mínimo, el Organo de Control Interno remitirá a la Secretaría las actuaciones que haya realizado para su intervención en los términos del párrafo anterior.
+I.- Para conocer de los procedimientos disciplinarios, atendiendo a la gravedad de la falta administrativa cometida, y en su momento imponer las sanciones que determine esta ley, por acuerdo del superior jerárquico. En su caso, tratándose de los ayuntamientos se aplicará lo conducente en las leyes o reglamentos respectivos para fijar las sanciones.
 
-El Superior Jerárquico o el Organo de Control Interno de la Dependencia, al tener conocimiento de los hechos que impliquen responsabilidad penal de los servidores de la propia Dependencia o de sus Organismos Auxiliares o Fideicomisos, darán vista de ellos a la Secretaría para que ésta formule la denuncia o querella ante la Procuraduría General del Estado.
+Para calificar la gravedad de la conducta ilícita, la resolución fundada y motivada de la autoridad atenderá a la cuantía del daño patrimonial causado, al beneficio personal indebidamente obtenido o a la deficiencia en la prestación del servicio público, dolosamente causada por la acción u omisión del servidor público.
 
-En los casos de que no exista Organo de Control Interno en las Dependencias, Organismos Descentralizados o Fideicomisos, la Secretaría determinará el procedimiento a aplicar respecto de las sanciones disciplinarias a que se viene haciendo referencia para lo cual, los Titulares de aquélla solicitarán de la Secretaría en consulta, el establecimiento de dicho procedimiento.
+II.- Para conocer de los procedimientos resarcitorios previstos en el artículo 43 de esta ley, cuando el monto del daño o perjuicio causado no exceda de quinientas veces el salario mínimo diario en la capital del Estado.
+
+Cuando dicho monto sea rebasado el órgano de control interno remitirá a la Secretaría las actuaciones que haya realizado para su intervención en los términos del párrafo anterior.
+
+El superior jerárquico o el órgano de control interno de la dependencia, al tener conocimiento de los hechos que impliquen responsabilidad penal de los servidores de la propia dependencia o de las entidades paraestatales, darán vista de ellos a la Secretaría para que ésta formule la denuncia o querella ante la Procuraduría General de Justicia en el Estado.
+
+En los casos de que no exista órgano de control interno en las dependencias, órganos constitucionales autónomos y entidades paraestatales, la Secretaría determinará el procedimiento a aplicar respecto de las sanciones disciplinarias a que se viene haciendo referencia para lo cual, los titulares de aquella solicitarán de la Secretaría en consulta, el establecimiento de dicho procedimiento.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 89.
 
-Las sanciones por responsabilidad administrativa, consistirán en:
+Las sanciones por responsabilidad administrativa consistirán en:
 
-I. Amonestación;
+I.- Amonestación, consistente en una anotación en el expediente administrativo del servidor público que contenga los motivos de la sanción. Cuando el infractor sea reincidente en la falta no podrá aplicarse esta sanción.
 
-II. Suspensión del empleo, cargo o comisión por el tiempo que determine la Secretaría o el Superior Jerárquico del servidor público infractor, en los casos de sus respectivas competencias conforme al procedimiento a que se refiere el presente Título.
+II.- Suspensión del empleo, cargo o comisión por el tiempo que determine la Secretaría, el superior jerárquico del servidor público infractor o los órganos de control, en los casos de sus respectivas competencias conforme al procedimiento a que se refiere el presente título, y hasta por 3 meses sin goce de sueldo.
 
-III. Destitución;
+III.- Destitución definitiva del cargo.
 
-IV. Multa;
+IV.- Multa de uno hasta ciento ochenta días de sueldo base.
 
-V. Inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público;
+V.- Inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público estatal y municipal, cuando las faltas cometidas por el servidor público no traigan como consecuencia una afectación a la hacienda pública de los Poderes y ayuntamientos, según sea el caso, de uno a cinco años.
 
-Cuando la inhabilitación se imponga como consecuencia de una acto u omisión que implique beneficios económicos o similares, o cause daños y perjuicios, será de uno a diez años, si el monto de aquéllos no excede de doscientas veces el salario mínimo mensual vigente en el Estado y de diez a veinte años si excede de dicho límite, y
+VI.- Reparación del daño, consistente en cubrir en dinero o especie el menoscabo a la hacienda pública, más los accesorios correspondientes.
 
-Para que una persona que hubiere sido inhabilitada en los términos de Ley por un plazo mayor de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el Titular de la Dependencia o entidad a la que pretenda ingresar, dé aviso a la Secretaría, en forma razonada y justificada, de tal circunstancia.
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique beneficios económicos para el infractor, o cause daños y perjuicios a la hacienda pública, será de cinco a diez años, si el monto de aquellos no excede de doscientas veces el salario mínimo mensual vigente en el Estado y de diez a veinte años si excede de dicho limite.
 
-La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa en los términos de esta Ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado, y
+Para que una persona que hubiere sido inhabilitada en los términos de ley por un plazo mayor de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el superior jerárquico dé aviso a la Secretaría, en forma razonada y justificada, de tal circunstancia.
 
-VI. Arresto hasta por quince días.
+La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa en los términos de esta ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado.
 
 ###### ARTICULO 90.
 
@@ -753,39 +931,57 @@ VI. La incidencia en el incumplimiento de las obligaciones; y
 
 VII. El monto del beneficio, daño o perjuicio económico derivado del incumplimiento de obligaciones.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 91.
 
-Cuando se trate de sanciones económicas por beneficios obtenidos, o por daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el artículo 40 de esta Ley, se aplicarán hasta tres tantos de los beneficios obtenidos y de los daños y perjuicios causados.
+Podrán aplicarse dos o más sanciones señaladas en el artículo 89 cuando así se determine, dependiendo de la naturaleza y gravedad de la conducta.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 92.
 
-Para la aplicación de las sanciones que establece el artículo 89 de esta Ley, se observarán las siguientes prescripciones:
+Para la aplicación de las sanciones que establece el artículo 89 de esta ley, se observará lo siguiente:
 
 I. La amonestación, suspensión en el empleo, cargo o comisión y de la remuneración correspondiente por un periodo no mayor de quince días, y la destitución de aquéllos, serán aplicables por el superior jerárquico;
 
 II.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será aplicable por resolución que dicte la autoridad competente, atendiendo a la gravedad de la infracción;
 
-III. La Secretaría podrá aplicar la suspensión o la destitución a que se refiere la fracción I, en los casos que el Superior Jerárquico no lo haga, notificando a éste lo conducente; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
 
-IV.- Las sanciones económicas, serán aplicadas por el Superior Jerárquico cuando no excedan de un monto equivalente a doscientas veces el salario mínimo diario vigente en la Capital del Estado, y por la Secretaría cuando sean superiores a esta cantidad.
+III.- La Secretaría podrá aplicar cualquiera de las sanciones previstas en el artículo 89, cuando se trate de asuntos de su competencia o cuando el superior jerárquico del funcionario no lo haga, en cuyo caso le notificará lo conducente a aquél; y
 
-Tratándose de Presidentes Municipales, Regidores y Síndicos, la aplicación de las sanciones a que se refiere este artículo, corresponde a la Legislatura y respecto a los demás servidores públicos Municipales, su aplicación corresponde a los Ayuntamientos en los términos del tercer párrafo del articulo 80 de esta Ley.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
+
+IV.- Las sanciones resarcitorias, serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a quinientas veces el salario mínimo diario vigente en la capital del Estado, y por la Secretaría cuando sean superiores a esta cantidad.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Tratándose de presidentes municipales, regidores y síndicos, la aplicación de las sanciones a que se refiere este artículo corresponde a la Legislatura y respecto a los demás servidores públicos municipales, su aplicación corresponde a los ayuntamientos u órganos de control interno en su caso, en los términos del tercer párrafo del artículo 80 de esta ley.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 93.
 
-La Secretaría o el Superior Jerárquico informando previamente a ésta, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de los hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de doscientas veces el salario mínimo diario vigente en la Capital del Estado.
+La Secretaría o el superior jerárquico informando previamente a ésta, en los ámbitos de sus respectivas competencias podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente justificando la causa de la abstención siempre que se trate de los hechos que no revistan gravedad no constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y no exista daño económico.
 
-Lo anterior, es aplicable a los Poderes Judicial y Legislativo, como también a los Ayuntamientos a través de sus respectivos órganos competentes.
+La propia Secretaría o el superior jerárquico, podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de doscientas veces el salario mínimo vigente en el Estado, por incosteabilidad práctica del cobro.
+
+Lo anterior, es aplicable a los servidores públicos adscritos a las dependencias referidas en el artículo 3 de esta ley.
 
 ###### ARTICULO 94.
 
 Las sanciones administrativas cuya aplicación corresponda a la Secretaría, excepto la amonestación, se impondrá mediante el siguiente procedimiento:
 
-I. Se citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a sus intereses convenga, por sí o por medio de defensor; podrá asistir a la audiencia el representante de la Dependencia de adscripción que para tal efecto se designe;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
+
+I.- Se citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a sus intereses convenga, por sí o por medio de defensor. Podrá asistir a la audiencia el representante de la dependencia de adscripción que para tal efecto se designe, quien tendrá las mismas facultades procesales que el enjuiciado;
 
 Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles.
 
-II. Al concluir la audiencia o dentro de los tres días hábiles siguientes, se resolverá sobre la inexistencia de la responsabilidad, o se impondrá al infractor las sanciones administrativas correspondientes, notificándose la resolución dentro de las veinticuatro horas siguientes al interesado, a su Jefe inmediato, al representante designado por la Dependencia y al Superior Jerárquico;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
+
+II.- Al concluir la audiencia, se resolverá en un término no mayor de quince días hábiles, sobre la inexistencia de la responsabilidad, o se impondrá al infractor las sanciones administrativas correspondientes, notificándose la resolución dentro de los tres días hábiles siguientes al interesado, a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico;
 
 III. Si de la audiencia se desprende que no existen elementos suficientes para resolver o se adviertan elementos que impliquen la configuración de otras causales de responsabilidad administrativa con cargo del presunto responsable o de responsabilidad de otras personas o servidores públicos, se podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
 
@@ -799,17 +995,23 @@ Si los servidores públicos suspendidos temporalmente, no resultaren responsable
 
 Se requerirá autorización del Gobernador del Estado para dicha suspensión, cuando el nombramiento del servidor público de que se trate hubiese sido realizado por éste. Igualmente se requerirá autorización de la Legislatura o en su caso de la Diputación Permanente, si dicho nombramiento requirió ratificación de éstos, en los términos de la Constitución Política del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 95.
 
-En los procedimientos disciplinarios ante el superior jerárquico o los órganos de control interno se observarán en lo conducente las prescripciones y formalidades a que se refieren los artículos procedentes, particularmente los del artículo 94 de esta Ley, excepto en la amonestación.
+En los procedimientos disciplinarios ante el superior jerárquico o los órganos de control interno se observarán en lo conducente las disposiciones y formalidades a que se refieren los artículos precedentes, particularmente los del artículo 94 de esta ley, excepto en la amonestación.
 
-Serán aplicables dichas prescripciones y formalidades a los procedimientos disciplinarios que se sigan ante los Poderes Judicial y Legislativo, sin perjuicio de lo que establezcan sus Leyes Orgánicas.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Serán aplicables las disposiciones y formalidades de este título a los procedimientos disciplinarios que se sigan ante los Poderes Judicial y Legislativo a través de su (sic) órganos de control interno o por la Contaduría Mayor de Hacienda cuando ejerza sus facultades de revisión y fiscalización de cuenta pública, sin perjuicio de lo que establezcan sus leyes orgánicas.
 
 Es también aplicable en lo conducente, lo dispuesto por este artículo, en tratándose de los procedimientos disciplinarios que se instituyan en los Ayuntamientos, respecto a los Servidores Públicos Municipales.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 96.
 
-El Titular de la Dependencia, Organismo Auxiliar o Fideicomiso Público que corresponda a la adscripción del servidor sujeto al procedimiento disciplinario, podrá designar un representante que asista a las diligencias, dándoseles vista de todas las actuaciones.
+El titular de la dependencia o entidad paraestatal que corresponda a la adscripción del servidor sujeto al procedimiento disciplinario, podrá designar un representante que asista a las diligencias, dándoseles vista de todas las actuaciones.
 
 ###### ARTICULO 97.
 
@@ -819,13 +1021,17 @@ Se levantará acta circunstanciada de todas las diligencias que se practiquen, r
 
 Las resoluciones y acuerdos que emitan los órganos disciplinarios durante el procedimiento al que se refiere este Capítulo, constarán por escrito.
 
-Las resoluciones imponiendo sanciones, se inscribirán en un registro que llevará la Secretaría, particularmente las de inhabilitación.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Las resoluciones que impongan sanciones, se inscribirán en un registro que llevará la Secretaría, particularmente las de inhabilitación, remitiéndose de forma inmediata copia certificada de la misma, y la debida notificación al sancionado.
 
 ###### ARTICULO 99.
 
 La Secretaría expedirá constancias que acrediten la no existencia de registro de inhabilitación que serán exhibidas para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo cargo o comisión en el servicio público.
 
-Para tales efectos, los órganos competentes de los Poderes Judicial y Legislativo y de los Ayuntamientos Municipales, remitirán a la Secretaría las resoluciones por las que se impongan sanción de inhabilitación para su registro correspondiente.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Para tales efectos, los órganos competentes de los Poderes Judicial y Legislativo y de los municipios, remitirán de forma inmediata a la Secretaría las resoluciones por las que se impongan sanción de inhabilitación o suspensión para su registro correspondiente.
 
 ###### ARTICULO 100.
 
@@ -835,9 +1041,15 @@ La tramitación del recurso se sujetará a las normas siguientes:
 
 I. Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del servidor público le cause la resolución, acompañando copia de ésta y constancia de la notificación de la misma, así como la proposición de las pruebas que considere necesario rendir;
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Para el caso de que no se acompañen las constancias a que aduce la presente fracción, se dará vista al recurrente para que en el plazo de tres días hábiles contados a partir de la notificación, subsane la omisión, en caso contrario, se tendrá por no interpuesto el recurso.
+
 II. La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se basa la resolución. Las pruebas admitidas se desahogarán en un plazo de cinco días hábiles que a solicitud del servidor público, o de la autoridad podrá ampliarse una sola vez por cinco días hábiles más, y
 
-III. Concluido el período probatorio, el superior jerárquico emitirá resolución en el acto, o dentro de los tres días hábiles siguientes, notificándole al interesado.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
+
+III.- Se turnará al superior jerárquico para que emita resolución dentro de los cinco días hábiles siguientes, notificando personalmente al interesado.
 
 ###### ARTICULO 101.
 
@@ -853,9 +1065,11 @@ B) Que la ejecución de la resolución recurrida produzca daños o perjuicios de
 
 C) Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicio al interés social o al servicio público.
 
-###### ARTICULO 102.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
 
-El servidor público afectado por las resoluciones administrativas dictadas por la Secretaría, podrá optar entre interponer el recurso de revocación o impugnarlos ante el Tribunal de lo Contencioso Administrativo del Estado.
+###### ARTÍCULO 102.
+
+El servidor publico afectado por las resoluciones administrativas dictadas por las autoridades competentes en términos de esta ley, podrá optar entre interponer el recurso de revocación o impugnarlos ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 La resolución que se dicte en el recurso de revocación, será también impugnable ante el Tribunal de lo Contencioso Administrativo.
 
@@ -865,6 +1079,10 @@ La ejecución de las sanciones administrativas impuestas en resolución firme, s
 
 Las sanciones económicas que se impongan, constituirán créditos fiscales del erario Estatal o Municipal en su caso, se harán efectivas mediante el procedimiento económico coactivo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables en la materia.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2004)</small>
+
+La autoridad responsable para ejecutar o cumplimentar la resolución emitida por los órganos competentes, se hará acreedora a las sanciones que esta ley prevé por su omisión en el cumplimiento de los términos que se establezcan en la propia resolución.
+
 ###### ARTICULO 104.
 
 Cuando durante la instrucción del procedimiento relativo, el servidor público confesare su responsabilidad, se procederá de inmediato a dictar la resolución, salvo en el caso de que la autoridad que conozca del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión. De aceptarse la plena validez probatoria de la confesión, se impondrán dos tercios de la sanción aplicable si es de naturaleza económica, salvo en el caso de causación de daños y perjuicios a la Hacienda Pública que deberá ser suficiente para indemnizar o resarcir los daños y perjuicios causados. En todo caso, deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción.
@@ -873,25 +1091,41 @@ Cuando durante la instrucción del procedimiento relativo, el servidor público 
 
 Para el cumplimiento de las atribuciones que les confiere esta Ley, las autoridades podrán emplear los siguientes medios de apremio:
 
-I. Sanción económica de diez hasta cien veces el salario mínimo diario vigente en la capital del Estado;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
+
+I.- Multa de diez hasta cien veces el salario mínimo diario vigente en la capital del Estado;
 
 II. Auxilio de la fuerza pública, y
 
-III. Arresto hasta por quince días.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
 
-Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la Legislación Penal.
+III.- Arresto hasta por treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Si existe resistencia al mandamiento legitimo de autoridad, se estará a lo que prevenga la legislación penal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 106.
 
-Las facultades del Superior Jerárquico y de la Secretaría para imponer las sanciones que esta Ley prevé, se sujetará a lo siguiente:
+La facultad de iniciar procedimiento de responsabilidad contra un servidor público, se sujetará a lo siguiente:
 
-I. Prescribirán en tres meses, si el beneficio obtenido o el daño o perjuicio causado por el infractor, no excede en diez veces el salario mínimo diario vigente en la Capital del Estado, o si la responsabilidad no fuese estimable en dinero, y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
 
-II. En los demás casos prescribirán en tres años, salvo las de naturaleza económica que prescribirán en los mismos términos que para los créditos fiscales señale la Legislación relativa.
+I.- Prescribirán en un año, si el beneficio obtenido o el daño o perjuicio causado por el infractor, no excede en quinientas veces el salario mínimo diario vigente en la capital del Estado, o tratándose de faltas administrativas de carácter disciplinarias, y
 
-El plazo de prescripción se contará a partir del día siguiente a aquel en que se hubiera incurrido en la responsabilidad, a partir del momento en que hubiese cesado, si fue de carácter continuo, o bien, cuando el Superior Jerárquico, el Organo de Control Interno o la Secretaría, tengan conocimiento del hecho infractor.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
 
-La prescripción se interrumpirá por cada trámite que las autoridades realicen y le sea notificado al presunto responsable.
+II.- En el caso de procedimientos resarcitorios, cuyo beneficio obtenido, o el daño o perjuicio causado por el infractor exceda del monto referido en la fracción anterior, prescribirán en cinco años.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+Caduca en 5 años, la facultad de la autoridad para ejecutar la resolución en la que se sanciona al servidor público por responsabilidad disciplinaria, generando responsabilidad administrativa a quien, debiéndola ejecutar, sea omiso.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+
+El plazo de prescripción se contará a partir del día siguiente a aquel en que se hubiera incurrido en la responsabilidad, a partir del momento en que hubiese cesado, si fue de carácter continuo, o bien, cuando el superior jerárquico, el órgano de control interno o la Secretaría, tengan conocimiento del hecho infractor. Tratándose de este supuesto, no podrá transcurrir más de tres años en relación a la conducta irregular para que la autoridad competente inicie el procedimiento.
 
 En todo momento la Secretaría o el Superior Jerárquico podrán hacer valer la prescripción de oficio.
 
@@ -934,3 +1168,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 JESUS RODRIGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE MARZO DE 2004.
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a la presente ley.
+
+TERCERO. Los procedimientos de fincamiento de responsabilidades administrativas, que se encuentran en trámite actualmente, así como los que se inicien por los actos realizados anteriores a la entrada en vigor de la presente ley, se continuarán hasta su conclusión, conforme a lo previsto en las disposiciones legales vigentes que regían en ese momento.
