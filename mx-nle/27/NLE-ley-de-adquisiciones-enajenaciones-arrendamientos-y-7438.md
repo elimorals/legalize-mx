@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-7438"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-19"
-last_updated: "1987-01-19"
+last_updated: "1997-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA LA ADMINISTRACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 19 de enero de 1987.
 
@@ -435,6 +435,10 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 TERCERO.- Para los efectos de esta Ley se entenderá como cuota el salario mínimo general diario vigente en la Capital del Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 1997)</small>
+
+CUARTO.- Se faculta al Ejecutivo del Estado para contratar en forma directa, con una o varias compañías en forma simultánea, el servicio de telefonía de larga distancia, con empresas de nueva creación o ya constituidas, debiendo informar del ejercicio de esta facultad al Congreso del Estado, al rendir la Cuenta Pública correspondiente.
+
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey su Capital, a los catorce días del mes de Enero de mil novecientos ochenta y siete.- PRESIDENTE: POR M. DE LEY DIP. DR. MENTOR TIJERINA DE LA GARZA; DIP. SECRETARIO: NESTOR MOLINA MARTINEZ; DIP. SECRETARIO: BERNARDINO ALVARADO GONZALEZ.- RUBRICAS.
@@ -450,3 +454,9 @@ Monterrey, N. L., 22 de Enero de 1987.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. LUCAS DE LA GARZA GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ABRIL DE 1997.
+
+UNICO.- El Presente Decreto tiene aplicación a partir del 1° de Enero de 1997.
