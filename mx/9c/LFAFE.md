@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "1985-02-08"
+last_updated: "1989-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1989
+
+(REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 4 DE ENERO DE 1989).
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -710,15 +712,19 @@ Se impondrá de dos meses a dos años de prisión o de cuatro a cuarenta días m
 
 La transmisión de la propiedad de dos o más armas, o por dos o más veces, sin permiso, se sancionará conforme al artículo 85 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 83.
 
 Al que sin el permiso correspondiente porte un arma de uso exclusivo del Ejército, Armada o Fuerza Aérea, se le sancionará:
 
-I.- Con prisión de seis meses a tres años y de uno a diez días multa, cuando se trate de las armas comprendidas en los incisos a), b), i) del artículo 11 de esta Ley.
+I.- Con prisión de tres meses a un año y de uno a diez días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley;
 
-II.- Con prisión de dos a nueve años y de dos a quince días multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
+II.- Con prisión de uno a cinco años y de cinco a veinte días multa cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley; y
+
+III.- Con prisión de dos a doce años y de diez a cincuenta días de multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
+
+Si la portación de las armas de fuego a que se refiere la fracción III del presente artículo se realizare por un grupo de tres o más personas, la pena correspondiente se aumentará al doble.
 
 > <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -726,19 +732,23 @@ II.- Con prisión de dos a nueve años y de dos a quince días multa, cuando se 
 
 Al que sin el permiso correspondiente hiciere acopio de armas, se le sancionará:
 
-I.- Con prisión de uno a tres años y de dos a quince días multa, si las armas están comprendidas en los incisos a), b), i) del artículo 11 de esta Ley; y
+(REFORMADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
 
-II.- Con prisión de dos a diez años y de tres a veinte días multa, si se trata de cualquiera otra de las armas comprendidas en el artículo 11 de esta Ley.
+I.- Con prisión de dos a nueve años y de diez a trescientos días multa, si las armas están comprendidas en los incisos a) o b) del artículo 11, de esta Ley. En el caso del inciso i) del mismo artículo, se impondrá de uno a tres años de prisión y de cinco a quince días multa; y
+
+(REFORMADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+
+II.- Con prisión de cinco a treinta años y de cien a quinientos días multa, si se trata de cualquiera otra de las armas comprendidas en el artículo 11 de esta Ley.
 
 Por acopio debe entenderse la posesión de más de cinco armas de las de uso exclusivo del Ejercito, Armada y Fuerza Aérea.
 
 Para la aplicación de la sanción por delitos de portación o acopio de armas, el Juez deberá tomar en cuenta la actividad a que se dedica el autor, sus antecedentes y las circunstancias en que fue detenido.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 84.
 
-Se impondrá de uno a quince años de prisión y de dos a quinientos días multa:
+Se impondrá de cinco a treinta años de prisión y de veinte a quinientos días multa:
 
 I.- Al que introduzca en la República, en forma clandestina, armas, municiones, explosivos y materiales de uso exclusivo de las fuerzas armadas o sujetos a control, de acuerdo con esta Ley; asimismo al que participe en la introducción;
 
@@ -746,11 +756,19 @@ II.- Al funcionario o empleado público, que estando obligado por sus funciones 
 
 III.- A quien adquiera los objetos a que se refiere la fracción I para fines mercantiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
+Al que introduzca a la República en forma clandestina armas de fuego de las que no están reservadas para el uso exclusivo del Ejército, Armada y Fuerza Aérea, se le impondrá de dos a ocho años de prisión.
+
+(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
+Cuando el responsable, en el caso de las conductas comprendidas en este artículo y los dos anteriores, sea o haya sido servidor público de alguna corporación policiaca, la pena se aumentará hasta en una tercera parte de la pena que le corresponda.
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 85.
 
-Se impondrá de seis meses a seis años de prisión y de dos a cuatrocientos días multa:
+Se impondrá de uno a ocho años de prisión y de veinte a quinientos días multa:
 
 I.- A los comerciantes en armas, municiones y explosivos, que los adquieran sin comprobar la procedencia legal de los mismos;
 
@@ -760,15 +778,23 @@ III.- A los comerciantes en armas que sin dicho permiso vendan, donen o permuten
 
 IV.- A quienes dispongan indebidamente de las armas con que se haya dotado a los cuerpos de policía federales, estatales o municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 86.
 
-Se impondrá de tres meses a tres años de prisión y de dos a doscientos días multa, a quienes sin el permiso respectivo:
+Se impondrá de seis meses a seis años de prisión y de diez a trescientos días multa, a quienes sin el permiso respectivo:
 
 I.- Compren explosivos, y
 
 II.- Transporten, organicen, reparen, transformen o almacenen los objetos aludidos en esta Ley.
+
+(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
+La pena de prisión prevista por este artículo se aumentará al doble cuando el transporte a que se refiere la fracción II sea de las armas señaladas en los incisos a) o b) del artículo 11 de esta Ley.
+
+(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
+Si el transporte es de las armas comprendidas en el artículo 11 de esta Ley, excepto las mencionadas en los incisos a), b) e i), la pena será de cinco a treinta años de prisión y de veinte a quinientos días multa.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -865,3 +891,9 @@ D.O.F. 8 DE FEBRERO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ENERO DE 1989.
+
+REPUBLICADO D.O.F. 4 DE ENERO DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor el 1o. de febrero de 1989.
