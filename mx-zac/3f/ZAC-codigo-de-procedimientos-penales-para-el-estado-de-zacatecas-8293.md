@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "1997-09-20"
+last_updated: "1999-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 1999.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -55,7 +55,7 @@ IV. El de juicio, durante el cual el Ministerio Público precisa su acusación y
 
 V. El de ejecución, que comprende desde el momento en que causa ejecutoria la sentencia de los tribunales hasta la extinción de las sanciones aplicadas.
 
-###### ARTICULO 2o.
+###### ARTICULO 2o
 
 Dentro del período de averiguación previa, la Policía Judicial, deberá, en ejercicio de sus facultades:
 
@@ -65,7 +65,7 @@ II. Practicar la averiguación previa; y
 
 III. Buscar las pruebas de la existencia de los delitos de la competencia de los tribunales del Estado y de la responsabilidad de quienes en ellos hubieren participado.
 
-###### ARTICULO 3o.
+###### ARTICULO 3o
 
 Dentro del mismo período, el Ministerio Público deberá:
 
@@ -995,9 +995,9 @@ de Libertad por falta de Elementos para Procesar
 
 El auto de formal prisión se dictará de oficio cuando de lo actuado aparezcan llenados los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-I.- Que existan datos suficientes que acrediten los elementos del tipo penal del delito que se impute al inculpado y que éste merezca sanción privativa de libertad.
+I.- Que existan datos suficientes que acrediten el cuerpo del delito que se impute al inculpado y que éste merezca sanción privativa de libertad.
 
 II.- Que se haya tomado declaración preparatoria al inculpado, en la forma y con los requisitos que establece el Capítulo anterior;
 
@@ -1067,11 +1067,15 @@ Durante la instrucción, el tribunal que conozca del proceso deberá observar la
 
 El tribunal deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refieren este artículo y el anterior, pudiendo obrar de oficio para ese objeto.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 156.
 
-La instrucción deberá terminarse en el menor tiempo posible. Cuando exista auto de formal prisión y el delito tenga señalada una sanción máxima que exceda de dos años de prisión, se terminará dentro de diez meses; si la sanción máxima es de dos años de prisión, o menor o se hubiere dictado auto de sujeción a proceso, la instrucción deberá terminarse dentro de tres meses.
+La instrucción deberá terminarse en el menor tiempo posible. Cuando exista auto de formal prisión y el delito tenga señalada una sanción máxima que exceda de dos años de prisión se terminará dentro de diez meses.
 
-Los términos a que se refiere este artículo se contarán a partir de la fecha del auto de formal prisión o del de sujeción a proceso, en su caso.
+Cuando el máximo de la sanción imponible no exceda de dos años de prisión, con independencia de que se dicte auto de formal prisión o sujeción a proceso, el juicio se seguirá en vía sumaria, de conformidad con el artículo 299-Bis.
+
+Los términos a que se refiere este artículo se contarán a partir de la fecha de auto de formal prisión o del de sujeción a proceso, en su caso.
 
 ###### ARTICULO 157.
 
@@ -1093,17 +1097,17 @@ DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA,
 
 AL PERIODO CONSTITUCIONAL Y A LA INSTRUCCION
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE MAYO DE 1999)</small>
 
-### CAPITULO I. Comprobación de los Elementos del Tipo Penal
+### CAPITULO I. Comprobación del Cuerpo del Delito
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 160.
 
-El Ministerio Público y el Tribunal, en su caso, deberán procurar ante todo que se acrediten los elementos del tipo penal del delito que se impute al indiciado o inculpado como base del procedimiento penal.
+El Ministerio Público y el Tribunal, en su caso, deberán procurar ante todo que se acredite el cuerpo del delito que se le impute al indiciado o procesado como base del procedimiento penal.
 
-Si para la comprobación de los elementos del tipo penal o de sus circunstancias, tuviese importancia el reconocimiento de un lugar cualquiera, se procederá a hacer constar en acta la descripción del mismo, sin omitir detalle alguno que pueda tener valor.
+Si para la comprobación del cuerpo del delito o de sus circunstancias, tuviese importancia el reconocimiento de un lugar cualquiera, se procederá a hacer constar en acta la descripción del mismo, sin omitir detalle alguno que pueda tener valor.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1995)</small>
 
@@ -1139,11 +1143,11 @@ Cuando el cadáver no se encuentre, se comprobará su existencia por medio de te
 
 Los datos anteriores se proporcionarán a los peritos médicos para que estos emitan su dictamen sobre las causas de la muerte, bastando la opinión de éstos de que la muerte fue resultado de un delito para que se tengan por cumplidos los requisitos que refiere el Artículo 160 de este Código.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 164.
 
-Cuando el cadáver no se encuentre ni haya testigos que lo hubieren visto, pero existan datos suficientes para suponer que la muerte es consecuencia de un delito, se tendrán por comprobados los elementos del tipo penal con la preexistencia de la persona, sus costumbres, su carácter, su filiación, el último lugar y fecha en que se le vio y la posibilidad de que el cadáver hubiere podido ser ocultado o destruido. Los testigos expresarán con claridad y racionalmente los motivos que tengan para suponer la comisión de un delito.
+Cuando el cadáver no se encuentre ni haya testigos que lo hubieren visto, pero existan datos suficientes para suponer que la muerte es consecuencia de un delito, se tendrá por comprobado el cuerpo del delito con la preexistencia de la persona, sus costumbres, su carácter, su filiación, el último lugar y fecha en que se le vio y la posibilidad de que el cadáver hubiere podido ser ocultado o destruido. Los testigos expresarán con claridad y racionalmente los motivos que tengan para suponer la comisión de un delito.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
@@ -1187,43 +1191,21 @@ Tratándose de falsificación de documentos se investigará necesariamente con a
 
 En todos los delitos en que se requieran conocimientos especiales para su comprobación, se utilizarán adminiculadas las pruebas de inspección ministerial o judicial de peritos, sin perjuicio de las demás.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 172.
 
-El Ministerio Público acreditará los elementos del tipo penal del delito de que se trate y la probable responsabilidad del indiciado como base del ejercicio de la acción penal. La autoridad judicial examinará si ambos requisitos se acreditan en la indagatoria, con los elementos siguientes:
+El Ministerio Público acreditará el cuerpo del delito de que se trate y la probable responsabilidad del indiciado como base del ejercicio de la acción penal. La autoridad judicial examinará si ambos requisitos se acreditan en la indagatoria.
 
-I.- La existencia de la correspondiente acción u omisión de la lesión, o en su caso, el peligro a que ha sido expuesto el bien jurídico protegido;
+Por cuerpo del delito debe entenderse el conjunto de elementos objetivos o externos que constituyan la materialidad de la figura delictiva descrita concretamente por la ley penal.
 
-II.- La forma de intervención de los sujetos activos; y
+Para resolver sobre la probable responsabilidad del inculpado, la autoridad deberá constatar si no existe acreditada en favor de aquél alguna causa de licitud y que obren datos suficientes para acreditar su probable culpabilidad.
 
-III.- La realización dolosa, culposa o preterintencional la acción u omisión.
-
-Así mismo, se acreditarán, si el tipo lo requiere:
-
-a)Las calidades del sujeto activo y del pasivo;
-
-b)El resultado y su atribuibilidad a la acción u omisión;
-
-c)El objeto material;
-
-d)Los medios utilizados;
-
-e)Las circunstancias del lugar, tiempo, modo y ocasión;
-
-f)Elementos normativos;
-
-g)Los elementos subjetivos específicos; y
-
-h)Las demás circunstancias que la Ley prevea.
-
-Para resolver sobre la probable responsabilidad del inculpado, la autoridad deberá constatar si no existe acreditada en favor de aquel alguna causa de licitud y que obren datos suficientes para acreditar su probable culpabilidad.
-
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 173.
 
-Para la comprobación de los elementos del tipo y la probable o plena responsabilidad del inculpado, en su caso, el Ministerio Público y el Juez gozarán de la acción más amplia para emplear los medios de prueba que estimen conducentes, según su criterio, aunque no sean de los que define y detalla la ley, siempre que esos medios no estén reprobados por ésta.
+Para la comprobación del cuerpo del delito y la probable responsabilidad del inculpado, en su caso, el Ministerio Público y el juez gozarán de la acción más amplia para emplear los medios de prueba que estimen conducentes, según su criterio, aunque no sean de los que define y detalla la ley, siempre que esos medios no estén prohibidos por ésta.
 
 ### CAPITULO II. Huellas del Delito, y Aseguramiento de
 
@@ -1345,7 +1327,7 @@ Los encargados de ejecutar el mandamiento de aprehensión, cuidarán de asegurar
 
 ###### ARTICULO 191.
 
-Los miembros de la Policía Judicial, los del ejército y los funcionarios y empleados de la administración de justicia, que estuvieren detenidos o sujetos a prisión preventiva, deberán sufrir ésta en las prisiones especiales si existieren, o en su defecto en las comunes, pero sin estar reunidos con los demás detenidos
+Los miembros de la Policía Judicial, los del ejército y los funcionarios y empleados de la administración de justicia, que estuvieren detenidos o sujetos a prisión preventiva, deberán sufrir ésta en las prisiones especiales si existieren, o en su defecto en las comunes, pero sin estar reunidos con los demás detenidos.
 
 No podrán considerarse prisiones especiales los cuarteles u oficinas.
 
@@ -1961,6 +1943,30 @@ En la audiencia podrán interrogar al acusado sobre los hechos materia del juici
 
 Contra la resolución que niegue o admita la repetición de las diligencias de prueba, no procede recurso alguno.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 1999)</small>
+
+###### ARTICULO 299
+
+BIS.- El juicio sumario a que se refiere el artículo 156, de este Código, se sujetará a las siguientes reglas:
+
+I.- En el auto de formal prisión o de sujeción a proceso:
+
+a)Se declarará la apertura de la Instrucción.
+
+b)Se citará a la audiencia final de pruebas, conclusiones y sentencia, que deberá celebrarse después de veinte y antes de treinta días hábiles contados a partir de que se notifique el correspondiente auto;
+
+II.- Las pruebas pericial, testimonial, de confrontación, careos, y la de inspección ocular con carácter de reconstrucción de hechos deberán promoverse dentro de los cinco días hábiles contados a partir de la notificación del auto a que se refiere el párrafo anterior en la que se asentará el cómputo respectivo y se desahogarán antes de la audiencia final, sin perjuicio de que se haga relación de ellas en ésta. Las demás pruebas se promoverán en cualquier tiempo y se desahogarán o tendrán por desahogadas en la fase probatoria de la audiencia;
+
+III.- De no desahogarse en tiempo y forma las pruebas ofrecidas en juicio sumario, la audiencia podrá diferirse con sujeción al término establecido para dictar sentencia;
+
+IV.- Si las conclusiones del Ministerio Público actualizan alguna de las hipótesis previstas en el artículo 293 de este Código, se dará la vista correspondiente al Procurador del Estado, para los efectos del artículo 294 del referido Código, asentándose en el acta el diferimiento de la audiencia final hasta en tanto el Procurador desahogue la vista.
+
+V.- En el juicio sumario no se requerirá auto que agote la averiguación ni aquel que declare cerrada la Instrucción;
+
+VI.- Contra las resoluciones interlocutorias dictadas en este procedimiento no procederá recurso alguno, y cualquier cuestión incidental será resuelta de plano.
+
+VII.- La audiencia principiará con la recepción, por su orden, de las pruebas promovidas por las partes, a continuación se recibirán las conclusiones del Ministerio Público y la contestación y conclusiones del acusado y su defensor, acto continuo se dictará la sentencia que corresponda.
+
 ### CAPITULO III. Procedimiento ante los Jueces Menores
 
 ###### ARTICULO 300.
@@ -2255,47 +2261,47 @@ INCIDENTES
 
 ### CAPITULO I. Libertad Provisional Bajo Caución
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 350.
 
-Todo indiciado o inculpado tiene derecho a ser puesto en libertad bajo caución inmediatamente que lo solicite, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso pudieran imponérsele y además no se trate de los delitos previstos en el Código Penal del Estado y sus modalidades que a continuación se señalan:
+Todo indiciado o inculpado tiene derecho a ser puesto en libertad bajo caución inmediatamente que lo solicite, siempre y cuando se garantice la propia libertad provisional, el monto estimado de la reparación del daño, el de las sanciones pecuniarias que en su caso pudieran imponérsele y además no se trate de los delitos previstos en el Código Penal del Estado incluidas sus modalidades y tentativas que a continuación se señalan:
 
-REBELION.- En las hipótesis que previenen los Artículos 117 y 118.
+I.- Rebelión. En las hipótesis que previenen los Artículos 117 y 118;
 
-EVASION DE PRESOS.- A que se refiere el Artículo 130.
+II.- Evasión de Presos. A que se refiere el Artículo 130;
 
-ASOCIACION DELICTUOSA.- Prevista en el Artículo 141.
+III.- Asociación Delictuosa. Prevista en el Artículo 141;
 
-ATAQUES A LAS VIAS DE COMUNICACION.- Prevista en el Artículo 152.
+IV.- Ataques a las Vías de Comunicación. Prevista en el Artículo 152.
 
-TERRORISMO.- Previsto en los Artículos 169 y 170.
+V.- Terrorismo. Previsto en los Artículos 169 y 170.
 
-CORRUPCION DE MENORES.- Previsto en los Artículos 183 y 185.
+VI.- Corrupción de Menores.- Previsto en los Artículos 183 y 185.
 
-VIOLACION.- Previsto en los Artículos 235, 236 y 237.
+VII.- Violación. Previsto en los Artículos 236 y 237.
 
-ASALTO.- Previsto en los Artículos 263 y 264.
+VIII.- Asalto. Previsto en los Artículos 263 y 264.
 
-PLAGIO.- Previsto en el Artículo 266.
+IX.- Plagio. Previsto en el Artículo 266.
 
-HOMICIDIO DOLOSO.- Previsto en los Artículos 293 con relación al 297, 298 y 299.
+X.- Homicidio Doloso. Previsto en los artículos 293 con relación al 297, 298 y 299.
 
-PARRICIDIO.- Previsto en el Artículo 306.
+XI.- Parricidio. Previsto en el Artículo 306.
 
-INFANTICIDIO.- Previsto exclusivamente en el Artículo 307.
+XII.- Infanticidio. Previsto en el Artículo 307.
 
-ROBO.- Previsto en el Artículo 317 en relación con el 321 exclusivamente en sus fracciones I, IV, V y VII.
+XIII.- Robo. Previsto en el artículo 317 en relación con el 320, cuando el valor de lo robado exceda de quinientas cuotas;
 
-ABIGEATO.- Cuando éste se ejecute con violencia en las personas o se cometa de noche previsto en el Artículo 330.
+XIV.- Robo.- Previsto en el artículo 317 en relación con el 321 en sus fracciones I, IV, V y VII, cuando el valor de lo robado exceda de trescientas cuotas;
 
-TORTURA.- Previsto en los Artículos 371, 372 y 373.
+XV.- Abigeato. Previsto en el Artículo 330, cuando el valor del ganado robado exceda de trescientas cuotas.
 
-LESIONES DOLOSAS.- Graves en cuanto al daño causado por las circunstancias de su ejecución, previsto en el Artículo 285 en relación a la fracción V del Artículo 286 y a los Artículos 287, 289 y 290.
+XVI.- Tortura. Previsto en los Artículos 371, 372 y 373.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+XVII.- Lesiones. Doloso, previsto en el artículo 285 en relación con el artículo 286 fracción V y los artículos 287, 289 y 290.
 
-DELITO ELECTORAL.- A que se refiere exclusivamente la modalidad prevista en el párrafo primero de la fracción VI del Artículo 385 del Código Penal.
+XVIII.- Delito Electoral. A que se refiere exclusivamente la modalidad prevista en el párrafo primero de la fracción VI del Artículo 385 del Código Penal.
 
 ###### ARTICULO 351.
 
@@ -3157,9 +3163,7 @@ Cuando por alguna de las causas que señala el artículo 88 del Código Penal de
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
 
-### CAPITULO V
-
-Conmutación y Reducción de Sanciones y Cesación de sus Efectos.
+### CAPITULO V. Conmutación y Reducción de Sanciones y Cesación de sus Efectos
 
 ###### ARTICULO 491.
 
@@ -3287,9 +3291,9 @@ Lic. Alejandro Borrego Acuña.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
-P.O. 20 DE AGOSTO DE 1986
+P.O. 20 DE AGOSTO DE 1986.
 
-PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vigor a los treinta días siguientes a la fecha de su publicacíon en el Periódico Oficial Organo del Gobierno del Estado.
+PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
 
 P.O. 1 DE MAYO DE 1991
 
@@ -3346,3 +3350,11 @@ CUARTO.- El censo de la población interna menor de dieciocho años, deberá est
 P.O. 20 DE SEPTIEMBRE DE 1997
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 1999
+
+Primero. El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+Segundo. En aplicación del principio constitucional de irretroactividad de la ley, las reformas a los Códigos Penal y de Procedimientos Penales del Estado contenidas en el presente Decreto, beneficiarán a todo indiciado, procesado o sentenciado que después de su entrada en vigor se encuentre en condiciones de ser favorecido con el mismo y no será aplicable en aquellos casos en que la reforma les depare perjuicio.
+
+Tercero. Las personas sujetas a procesos penales que se encuentren en trámite al inicio de la vigencia de este Decreto, en los que se investiguen delitos cuya pena máxima no exceda de dos años de prisión, podrán libremente acogerse a la reforma procesal o continuar el trámite en términos de lo previsto en las disposiciones legales anteriores a esta reforma.
