@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1997-12-09"
+last_updated: "1997-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -985,19 +985,11 @@ En los casos en que los predios urbanos baldíos cuyas áreas constituyan jardin
 
 ###### Art. 101.
 
-La progresividad de la tasa, en los casos de terrenos baldíos propiedad de fraccionamientos, se aplicará a partir del siguiente año de la fecha en que se entregue al municipio, por los lotes que aún pertenezcan al fraccionador.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1997)
 
 ###### Art. 102.
 
-La progresividad de la tasa a que se refiere el Art. 99 de esta Ley, se interrumpirá:
-
-I. Cuando el predio haya sido edificado;
-
-II. Cuando se enajene el predio; y
-
-III. Cuando en el predio se establezca una industria o comercio que requiera del área total para su actividad.
-
-En este caso, se aplicará únicamente la tasa que señalen la Ley de Ingresos del municipio respectivo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1997)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1161,7 +1153,9 @@ a) El avalúo o bien el dictamen de valor, según sea el caso; y
 
 b) El valor de operación.
 
-II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, podrá presentarse avalúo practicado por perito valuador acreditado conforme a las disposiciones de la Ley de Catastro Municipal, el cual no podrá ser inferior al consignado en las tablas de valores aplicables. Tanto el avalúo como el dictamen se harán con en (sic) base en valores reales;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, podrá presentarse avalúo practicado por perito valuador acreditado ante la autoridad catastral municipal, o bien, dictamen de valor elaborado por la misma autoridad, el cual no podrá ser inferior al consignado en las tablas de valores aplicables. Tanto el avalúo como el dictamen se harán con base en valores reales;
 
 III. Tratándose de inmuebles que cuenten con accesorios o instalaciones especiales, deberá practicarse avalúo por perito valuador acreditado;
 
@@ -2945,6 +2939,16 @@ P.O. 28 DE JUNIO DE 1997.
 
 P.O. 9 DE DICIEMBRE DE 1997.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+Primero.- El presente decreto entrará en vigor en su totalidad, el día primero de enero de 1998, para los municipios de Guadalajara y Zapopan, Jalisco. Para los demás municipios de la entidad, entrará en vigor el día primero de enero de mil novecientos noventa y ocho, salvo las disposiciones relativas al impuesto predial, que entrarán en vigor a partir del día primero de mil novecientos noventa y nueve.
 
 Segundo.- Se derogan todas aquellas disposiciones que se opongan a (sic) al presente decreto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+Tercero.- Publíquese el texto íntegro de este decreto en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
