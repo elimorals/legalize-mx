@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "1994-12-30"
+last_updated: "1995-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSITO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 1995.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -74,6 +74,10 @@ I.- Ejercer el mando supremo de las Policías de Tránsito Municipales, para org
 II.- Nombrar a los Jefes y a los demás Oficiales Superiores de las Policías de Tránsito Municipales, así como remover libremente a los mismos. En el ejercicio de esta facultad, serán aplicables las disposiciones que para los nombramientos y remociones de los Jefes y Oficiales Superiores de las Policías Preventivas Municipales establece la Ley de Seguridad Pública para el Estado de Sonora.
 
 III.- Establecer y ejecutar las políticas de vialidad en las carreteras y caminos de jurisdicción estatal.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
+
+La Coordinación Estatal de Seguridad Pública y Tránsito inspeccionará, verificará y vigilará en las carreteras de jurisdicción estatal que los vehículos destinados al servicio público o privado de transporte cumplan con las condiciones de peso, dimensiones, capacidad y otras especificaciones en los términos que establezcan las normas reglamentarias respectivas.
 
 IV.- Establecer, con el concurso de los Ayuntamientos o por sí mismo cuando la prestación del servicio lo haga necesario, y conforme lo determinen los Planes de Desarrollo Urbano y Rural, las políticas de vialidad en las zonas urbanas y rurales del Municipio de que se trate. Dichas políticas deberán contener la estructura vial primaria, secundaria, local y peatonal, así como las características y normas técnicas respecto de estacionamientos, señalamientos y demás dispositivos e indicadores para el control del tránsito.
 
@@ -199,9 +203,11 @@ Son de jurisdicción municipal, las vías públicas ubicadas dentro de los lími
 
 Sin embargo, los vehículos y sus conductores, y los peatones que usen vías públicas de jurisdicción estatal o federal, estarán sujetos a la vigilancia de las autoridades y agentes de tránsito de los Municipios por los que atraviesen, en cuanto no se opongan a disposiciones federales.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 1995)</small>
+
 ###### ARTICULO 12.
 
-Son de jurisdicción estatal, las vías públicas que atraviesen los límites de dos o más Municipios.
+Son de jurisdicción estatal las vías públicas que atraviesen los límites de dos o más municipios, las que entronquen con alguna vía de jurisdicción federal, las que en su totalidad o en su mayor parte sean construidas por el Estado con fondos estatales o mediante concesión estatal por particulares o municipios.
 
 ###### ARTICULO 13.
 
@@ -465,6 +471,10 @@ d) Camiones con remolque
 
 e) Equipo especial movible.
 
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
+
+En las vías de jurisdicción estatal, los vehículos destinados al servicio público o privado de transporte, deberán cumplir con las condiciones de peso en los términos que establezca el Reglamento correspondiente.
+
 III.- Por su tipo:
 
 1.- Motocicletas de más de 50 centímetros cúbicos
@@ -594,6 +604,10 @@ IV.- Los señalados en el Artículo 52 de esta Ley.
 > <small>(ADICIONADA, B.O. 7 DE MAYO DE 1992)</small>
 
 V.- Haber aprobado, en el caso de los vehículos de propulsión mecánica, el examen de verificación de emisiones contaminantes, en los términos de la ley de la materia, debiendo portar en lugar visible la calcomanía que por este efecto se expida.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO 1995)</small>
+
+Los vehículos destinados al servicio público o privado de transporte para circular en vías de jurisdicción estatal, deberán cumplir con las condiciones de peso, dimensiones, capacidad y otras especificaciones en los términos que establezca el Reglamento que al efecto expedirá el Gobernador del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1721,7 +1735,7 @@ Todo peatón deberá cruzar las vías públicas en las intersecciones o en las z
 
 En los lugares donde haya pasos a desnivel para peatones éstos están obligados a usarlos.
 
-Ningún peatón cruzará la intersección diagonalmentet, excepto en los casos en que los dispositivos para el control del tránsito lo permitan.
+Ningún peatón cruzará la intersección diagonalmente, excepto en los casos en que los dispositivos para el control del tránsito lo permitan.
 
 Entre dos intersecciones contiguas controladas con semáforos, los peatones sólo cruzarán la calle en las zonas de paso marcadas para el efecto.
 
@@ -2325,6 +2339,10 @@ V.- Retención de la tarjeta de circulación.
 
 Podrá también recogerse la licencia de operador de servicio público de transporte por las causas y en los términos señalados en la Ley de Transporte del Estado.
 
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
+
+Las infracciones a las disposiciones que establecen condiciones de peso, dimensiones, capacidad y otras especificaciones que deberán cumplir los vehículos destinados al servicio de transporte público o privado que circulen en vías de jurisdicción estatal, serán sancionadas con multa y retiro del vehículo de la circulación, según sea el caso, por la Coordinación Estatal de Seguridad Pública y Tránsito, en los términos que establezcan las normas reglamentarias respectivas.
+
 ###### ARTICULO 223.
 
 Al darse cuenta o al tener conocimiento de una infracción, los Agentes de Tránsito, acudirán inmediatamente al lugar donde ocurra y tomarán las siguientes medidas según el caso:
@@ -2493,7 +2511,9 @@ d) Por no obedecer cuando lo indique un semáforo, otro señalamiento o indicaci
 
 e) Por circular cualquier vehículo con el escape abierto, o produciendo por acondicionamiento, defecto, desperfecto o malas condiciones, humo excesivo o ruidos inmoderados, así como no tener colocado verticalmente los escapes los vehículos que consumen diesel. Además, deberá impedirse que continúe circulando y deberán remitirse al Departamento de Tránsito.
 
-f) Por circular vehículos que excedan en los límites autorizadas en el largo, ancho y alto de la unidad, así como transportar carga excediéndose en la altura y peso permitido o que sobresalga la carga por la parte posterior y lateral, sin el señalamiento correspondiente.
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 1995)</small>
+
+f) Por circular vehículos que excedan en los límites autorizados en el largo, ancho y alto de la unidad, así como transportar carga excediéndose en la altura permitida o que sobresalga la carga por la parte posterior y lateral, sin el señalamiento correspondiente.
 
 g) Por realizar sin causa justificada una frenada brusca, sin hacer la señal correspondiente, provocando con ello un accidente o connato de él.
 
@@ -2712,3 +2732,13 @@ B.O. 30 DE DICIEMBRE DE 1994.
 PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 SEGUNDO.- Las personas físicas o morales que con anterioridad a la entrada en vigor de la presente Ley, estén prestando servicios privados de seguridad, o que actualmente realicen actividades conceptualizadas como tales en este ordenamiento, deberán dentro de un plazo de tres meses contados a partir de la vigencia de esta Ley, comparecer ante la Coordinación Estatal de Seguridad Pública y Tránsito a efecto de que se les otorgue la autorización y el registro correspondiente, previa comprobación del cumplimiento de los requisitos que se establecen, en el entendido de que de no comparecer dentro del plazo señalado, la Secretaría de Gobierno podrá imponer la sanción de multa, cuyo monto será de hasta cinco mil veces el salario mínimo general vigente en la cabecera del Municipio de que se trate.
+
+B.O. 6 DE JULIO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
