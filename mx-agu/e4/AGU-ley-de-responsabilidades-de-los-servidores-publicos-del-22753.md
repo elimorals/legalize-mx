@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2003-08-25"
+last_updated: "2004-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE OCTUBRE DE 2012 Y 5 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -309,35 +311,49 @@ Si durante la tramitación de alguno de los procedimientos en que interviene el 
 
 ### CAPITULO III. Procedimiento Para la Declaratoria de Procedencia
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 37.
 
-La comisión de delitos, por parte de cualquier servidor público de los mencionados en el artículo 74 de la Constitución Política del Estado, será perseguida y sancionada en los términos de lo establecido en la legislación penal o en la especial de la materia que los contemple, previa declaratoria de procedencia de conformidad con lo que establece la presente Ley.
+La comisión de delitos, por parte de cualquier servidor público de los mencionados en el artículo 74 de la Constitución Política del Estado, será perseguida y sancionada en los términos de lo establecido por la Legislación Penal para el Estado de Aguascalientes, previa declaratoria de procedencia de conformidad con lo que establece la presente Ley y el artículo 535 de la referida legislación penal.
 
 Si se contraviene lo anterior, el Presidente de Congreso librará oficio al Tribunal que conozca de la causa, a fin de que suspenda su tramitación en tanto se resuelve si ha lugar a proceder, ordenando la inmediata libertad del servidor público si éste se encontrare detenido.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 38.
 
-La inmunidad de que están investidos los servidores públicos conocida como fuero constitucional, es la prerrogativa indispensable para la existencia y funcionamiento de las instituciones, protegiendo su independencia y autonomía al otorgarles la facultad de no comparecer ante la autoridad jurisdiccional, quien tiene la obligación de respetarla con relación directa al ejercicio de la acción penal; no a la facultad-deber que tiene la institución del Ministerio Público para investigar hechos probablemente constitutivos de delito, hasta en tanto el Congreso del Estado declare que ha lugar a proceder en su contra, satisfaciéndose de este modo, la condición previa de procedibilidad, que no constituye una excluyente de responsabilidad, sino un impedimento legal para aquéllos que gocen de esa prerrogativa no queden sometidos a la potestad judicial.
+La inmunidad de que están investidos los servidores públicos conocida como fuero constitucional, es la prerrogativa indispensable para la existencia y funcionamiento de las instituciones, protegiendo su independencia y autonomía al otorgarles la facultad de no comparecer ante la autoridad jurisdiccional, quien tiene la obligación de respetarla con relación directa al ejercicio de la acción penal, no a la facultad-deber que tiene la institución del Ministerio Público para investigar los hechos punibles que puedan ser probablemente constitutivos de delito, hasta en tanto el Congreso del Estado declare que ha lugar a proceder en su contra, satisfaciéndose de este modo, la condición previa de procedibilidad, que no constituye una excluyente de responsabilidad, sino un impedimento legal para que aquellos que gocen de esa prerrogativa, no queden sometidos a la potestad judicial.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 39.
 
-La denuncia o querella contra alguno de los servidores públicos que gocen de fuero, se presentará ante el Procurador General de Justicia del Estado, quien mandará practicar las diligencias necesarias para la integración de la averiguación previa correspondiente.
+La denuncia que se formule en contra de alguno de los servidores públicos que gocen de fuero, se presentará ante el Procurador General de Justicia del Estado, quien mandará practicar las diligencias necesarias para la integración de la averiguación previa correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 40.
 
-En el supuesto de que la denuncia o querella se enderece en contra del Procurador General de Justicia, ésta se presentará ante el titular del Poder Ejecutivo del Estado, quien designará a un Agente del Ministerio Público Especial para el solo efecto de que integre la averiguación previa respectiva.
+En el supuesto de que la denuncia sea en contra del Procurador General de Justicia, aquella se presentará ante el titular del Poder Ejecutivo del Estado, quien designará a un Agente del Ministerio Público Especial para el solo efecto de que integre la averiguación previa respectiva.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 41.
 
-En los casos mencionados en los dos artículos anteriores, la averiguación previa se substanciará conforme a lo establecido en el Código de Procedimientos Penales del Estado.
+En los casos mencionados en los dos artículos anteriores, la averiguación previa se substanciará conforme a lo establecido en la Legislación Penal para el Estado de Aguascalientes.
 
 ###### ARTICULO 42.
 
 Concluida la averiguación previa y satisfechos los requisitos para el ejercicio de la acción penal, la remitirá al Congreso del Estado, el que la turnará a su Comisión de Justicia.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 43.
 
-Recibido el expediente y dentro de los tres días hábiles siguientes, la Comisión de Justicia citará al Procurador General de Justicia o al Agente del Ministerio Público Especial, según corresponda, así como al denunciado y a su defensor, para que declaren lo que a su interés convenga.
+Recibida la averiguación previa, la Comisión de Justicia, dentro de los tres días hábiles siguientes, citará al Procurador General de Justicia o al Agente del Ministerio Público Especial, según corresponda, así como al servidor público denunciado, para que declaren lo que a sus intereses convenga.
+
+La Comisión de Justicia, al momento de citar al servidor público involucrado, le dará a conocer el contenido de la averiguación previa y le informará que tendrá derecho a designar Defensor, para que lo asista en la audiencia correspondiente.
 
 ###### ARTICULO 44.
 
@@ -357,9 +373,11 @@ En la sesión a que se refiere el artículo anterior, el Presidente de la Mesa D
 
 Retiradas las partes, el Gran Jurado declarará por consenso de las dos terceras partes del total de los Diputados si ha lugar a proceder en contra del denunciado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 48.
 
-Si el Congreso del Estado declara que ha lugar a proceder contra el servidor público denunciado, éste quedará inmediatamente separado de su cargo y sujeto a la jurisdicción de los tribunales competentes, enviando el expediente relativo a la Procuraduría General de Justicia para que ejercite la acción penal correspondiente.
+Si el Congreso del Estado declara que ha lugar a proceder contra el servidor público denunciado, éste quedará inmediatamente separado de su cargo, devolviendo la averiguación previa junto con la declaratoria de procedencia relativa a la Procuraduría General de Justicia o al Agente del Ministerio Público Especial para que ejercite la acción penal correspondiente, sobre la que resolverá la autoridad jurisdiccional en términos de ley.
 
 Si se emite declaratoria de improcedencia, el servidor público continuará en el desempeño de su cargo y no habrá lugar a procedimiento ulterior por los mismos hechos, en tanto no concluyan sus funciones.
 
@@ -367,9 +385,11 @@ Si se emite declaratoria de improcedencia, el servidor público continuará en e
 
 El titular del Poder Ejecutivo del Estado sólo será sujeto al procedimiento de declaratoria de procedencia, tratándose de delitos graves del orden común así considerados por la Legislación Penal vigente en el Estado.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 50.
 
-Para proceder contra los jueces por hechos tipificados como delitos por la legislación penal o en la especial de la materia que los contemple, el Supremo Tribunal de Justicia emitirá declaración en el sentido de que ha lugar a formación de causa. Por virtud de esta declaración, aquéllos quedarán suspendidos de sus cargos y sometidos a juicio del orden común, conforme al procedimiento establecido en la legislación respectiva.
+Para proceder contra los jueces por la comisión de hechos punibles que puedan ser tipificados en términos de las figuras establecidas en la Legislación Penal para el Estado de Aguascalientes, el Supremo Tribunal de Justicia emitirá declaración en el sentido de que ha lugar a formación de causa. Por virtud de esta declaración, aquellos quedarán suspendidos de sus cargos y sometidos al procedimiento penal correspondiente, conforme a las reglas establecidas en la referida legislación penal.
 
 ###### ARTICULO 51.
 
@@ -453,9 +473,11 @@ Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arregl
 
 Recibida por el Congreso del Estado la notificación de la declaratoria de la Cámara de Diputados del Congreso de la Unión relativa al titular del Poder Ejecutivo del Estado, Diputados Locales, Magistrados adscritos al Poder Judicial del Estado y miembros del Consejo de la Judicatura Local a que se refiere el Artículo 111 de la Constitución General de la República, se procederá como lo dispone la presente Ley.
 
-###### ARTICULO 68.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-En todo lo no previsto en los procedimientos que se contemplan en los Títulos Segundo y Cuarto de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán, en lo conducente, las disposiciones contenidas en el Código de Procedimientos Civiles vigente en el Estado.
+###### ARTÍCULO 68.
+
+En todo lo no previsto en los procedimientos que se contemplan en los títulos Segundo y Cuarto de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán, en lo conducente, las disposiciones contenidas en la Legislación Penal para el Estado de Aguascalientes.
 
 ## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
@@ -995,9 +1017,11 @@ IX.- En general, los bienes o ingresos que se obtengan o eroguen en términos de
 
 También deberá manifestar los bienes de su cónyuge, concubina e hijos menores.
 
-###### ARTICULO 116.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-Para los efectos de esta Ley y del Código Penal, se considerarán como bienes adquiridos por los servidores públicos, todos aquellos de los que se conduzcan como dueños o de los que dispongan éstos, su cónyuge, concubina y sus dependientes económicos directos, salvo que acrediten legalmente que estos bienes los obtuvieron por otros medios lícitos ajenos al servicio público.
+###### ARTÍCULO 116.
+
+Para los efectos de esta Ley y de la Legislación Penal para el Estado de Aguascalientes, se considerarán como bienes adquiridos por los servidores públicos, todos aquellos de los que se conduzcan como dueños o de los que dispongan éstos, su cónyuge, concubina y sus dependientes económicos directos, salvo que acrediten legalmente que estos bienes los obtuvieron por otros medios lícitos ajenos al servicio público.
 
 ###### ARTICULO 117.
 
@@ -1058,3 +1082,7 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 25 DE AGOSTO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
