@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-asistencia-social-14561"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-21"
-last_updated: "2003-09-24"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de marzo de 1987.
 
@@ -385,19 +385,31 @@ Habrá quórum con la asistencia de siete de sus miembros, siempre y cuando se e
 
 El Consejo se integra por:
 
-I.- El Director General de Desarrollo Social, quien lo presidirá;
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+I.- El Secretario de Fomento Social, quien lo presidirá;
 
 II.- El Presidente del Patronato del Sistema;
 
-III.- El Director General de Finanzas;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-IV.- El Secretario de Gobierno;
+III.- El Secretario de Finanzas;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III Bis.- El Secretario de Administración;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+IV.- El Secretario General de Gobierno;
 
 V.- El Procurador General de Justicia; y
 
 VI.- El Director General del Sistema.
 
-El Consejo está facultado para invitar a que formen parte del mismo al Delegado Regional de la Secretaría de Programación y Presupuesto, al Delegado de la Compañía Nacional de Subsistencias Populares, al Delegado Estatal del Instituto Mexicano del Seguro Social, al Representante General en el Estado de la Secretaría de Agricultura y Recursos Hidráulicas y a los demás funcionarios federales y estatales cuya competencia se relacione con el objeto del Sistema.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+El Consejo está facultado para invitar a sus reuniones a los funcionarios federales y estatales cuya competencia se relacione con el objeto del Sistema.
 
 Los miembros del Consejo serán suplidos por los representantes que al efecto designe cada uno de los propietarios de la misma, a excepción del Presidente del Patronato, del Consejo y del Director General, quienes deberán acudir personalmente.
 
@@ -762,3 +774,27 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE SEPTIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
