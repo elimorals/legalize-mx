@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2002-06-28"
+last_updated: "2002-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2002.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -49,13 +49,11 @@ La capacidad jurídica es igual para el hombre y la mujer; en consecuencia, la m
 
 ###### ARTICULO 3o.
 
-Las Leyes, Reglamentos, circulares o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos tres días después de su publicación en el Periódico Oficial.
-
-En los lugares distintos del en que se publique el Periódico Oficial, para que las Leyes, Reglamentos, etc., se reputen publicadas y sean obligatorios, se necesita que además del plazo que fija el párrafo anterior, transcurra un día mas por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad.
+(DEROGADO, P.O. 1 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 4o.
 
-Si la Ley, Reglamento, circular o disposición de observancia general, fija el día en que debe comenzar a regir, obliga desde ese día con tal de que su publicación haya sido anterior.
+(DEROGADO, P.O. 1 DE NOVIEMBRE DE 2002)
 
 ###### ARTICULO 5o.
 
@@ -15356,3 +15354,7 @@ UNICO: Las presentes reformas entrarán en vigencia al día siguiente de su publ
 P.O. 28 DE JUNIO DE 2002.
 
 UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE NOVIEMBRE DE 2002.
+
+UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
