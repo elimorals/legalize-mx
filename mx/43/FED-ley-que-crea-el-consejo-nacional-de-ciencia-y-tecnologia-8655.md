@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-el-consejo-nacional-de-ciencia-y-tecnologia-8655"
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-29"
-last_updated: "1970-12-29"
+last_updated: "1974-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8655&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1970-12-27"
 
 LEY QUE CREA EL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación el martes 29 de diciembre de 1970.
 
@@ -51,7 +51,9 @@ I.- Fungir como asesor del Ejecutivo Federal en la planeación, programación, c
 
 II.- Ser órgano de consulta obligatoria para las dependencias del Ejecutivo Federal, organismos descentralizados y empresas de participación estatal, en materia de inversiones o autorización de recursos a proyectos de investigación científica y tecnológica, educación superior, importación de tecnología, pago de regalías, patentes, normas, especificaciones, control de calidad y en general, en todo lo relacionado para el adecuado cumplimiento de sus fines.
 
-III.- Asesorar en su materia a los gobiernos de los estados y territorios de la federación, a los municipios, así como a las personas físicas o morales en las condiciones que en cada caso se pacten.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+III.- Asesorar en su materia a los Gobiernos de los Estados de la Federación y a los Municipios, así como a las personas físicas o morales en las condiciones que en cada caso se pacten.
 
 IV.- Elaborar programas indicativos de investigación científica y tecnológica, vinculados a los objetivos nacionales de desarrollo económico y social, procurando para ello, la más amplia participación de la comunidad científica, así como la cooperación de entidades gubernamentales, instituciones de educación superior y usuarios de la investigación.
 
@@ -107,43 +109,69 @@ c).- Establecer un servicio nacional de información y documentación científic
 
 XXVII.- Las demás funciones que le fijen las leyes y reglamentos, o sean inherentes al cumplimiento de sus fines.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 3.
 
-El Consejo Nacional de Ciencia y Tecnología estará regido por una Junta Directiva integrada por doce miembros, ocho permanentes y cuatro temporales.
+El Consejo Nacional de Ciencia y Tecnología estará regido por una Junta Directiva integrada por quince miembros, once permanentes y cuatro temporales.
+
+Para el despacho de los asuntos urgentes la Junta delegará facultades específicas en Comisiones Especiales integradas por los miembros que al efecto designe, de los cuales por lo menos tres serán miembros permanentes de la propia Junta.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 4.
 
-Serán miembros permanentes de la Junta Directiva: el Secretario de Educación Pública, quien fungirá como Presidente de la misma; el Secretario de Industria y Comercio, el que fungirá como Vicepresidente; el Secretario de Hacienda y Crédito Público; el Secretario de Agricultura y Ganadería; el Secretario de Salubridad y Asistencia; el Rector de la Universidad Nacional Autónoma de México; el Director General del Instituto Politécnico Nacional, y el Director General del Consejo Nacional de Ciencia y Tecnología.
+Serán miembros permanentes de la Junta Directiva el Secretario de Educación Pública, quien fungirá como Presidente de la misma; el Secretario de Industria y Comercio, como Vicepresidente; el Secretario de Agricultura y Ganadería; el Secretario de Hacienda y Crédito Público; el Secretario del Patrimonio Nacional; el Secretario de la Presidencia; el Secretario de Relaciones Exteriores; el Secretario de Salubridad y Asistencia; el Rector de la Universidad Nacional Autónoma de México, el Director General del Instituto Politécnico Nacional y el Director General del Consejo Nacional de Ciencia y Tecnología.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 5.
 
-Serán miembros temporales de la Junta Directiva, por períodos bianuales irrenovables: dos rector o director de una universidad o instituto de educación superior de los Estados de la República; y por parte de los usuarios de la investigación, el titular de un organismo descentralizado o empresa de participación estatal, y un representante del sector privado.
+Serán miembros temporales de la Junta Directiva, por períodos bianuales irrenovables: dos rector o director de universidades o instituto de educación superior de los Estados de la República; y por parte de los usuarios de la investigación, el titular de un organismo del sector paraestatal, y un representante del sector privado.
 
 Los miembros permanentes de la Junta Directiva designarán a los miembros temporales de la misma.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 6.
 
-Los doce miembros de la Junta Directiva gozarán de voz y voto en las sesiones de la misma.
+Los quince miembros de la Junta Directiva gozarán de voz y voto en las sesiones de la misma.
+
+Cuando los miembros permanentes y temporales no puedan asistir a las reuniones de la Junta, se harán representar, los Secretarios de Estado, por los Subsecretarios, y los demás por los funcionarios de mayor jerarquía de dichos organismos.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 7.
 
-Para la validez de los acuerdos de la Junta se requerirá la presencia de cuando menos siete de sus miembros, de los cuales no menos de cinco deberán ser permanentes. Los acuerdos se tomarán por mayoría de votos, teniendo el Presidente voto de calidad.
+Para la validez de los acuerdos de la Junta se requerirá la presencia de cuando menos ocho de sus miembros titulares o suplentes de los cuales cinco deberán ser permanentes.
+
+Los acuerdos se tomarán por mayoría de votos, y el Presidente tendrá voto de calidad.
+
+Para que puedan funcionar válidamente las Comisiones Especiales a que se refiere el segundo párrafo del artículo 3o., de la presente ley, será necesaria la asistencia de cuando menos tres de sus miembros titulares o suplentes.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 8.
 
-La Junta Directiva, celebrará sesiones ordinarias cuando menos trimestralmente, y extraordinarias cuando la (sic) convoque su Presidente.
+La Junta Directiva en pleno se reunirá tres veces al año en sesión ordinaria, las Comisiones Especiales por su parte celebrarán sesiones ordinarias bimestralmente. Se podrá convocar a reuniones extraordinarias tanto a la Junta Directiva como a las Comisiones especiales, cuando lo juzguen necesario sus Presidentes.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 9.
 
-La Junta Directiva representará legal y funcionalmente al Consejo Nacional de Ciencia y Tecnología en el cumplimiento de su objeto y administrará sus bienes, pudiendo delegar en el Director General las atribuciones que expresamente determine.
+La Junta Directiva representará legalmente al Consejo Nacional de Ciencia y Tecnología en el cumplimiento de su objeto y administrará sus bienes, pudiendo delegar en los funcionarios del Consejo las atribuciones que expresamente determine.
+
+El Director General informará a la Junta Directiva sobre el ejercicio de las facultades que este artículo le concede.
 
 ###### ARTICULO 10.
 
 El Director General será designado por el C. Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 11.
 
-Para auxiliar al Director General en funciones, la Junta Directiva a propuesta del mismo, designará a un Secretario General, a un Director Técnico, a un Director Administrativo y a los demás funcionarios que se requieran para que el Consejo cumpla con su objeto.
+A propuesta del Director General, la Junta Directiva, designará un Secretario General. El Director General nombrará a los demás funcionarios que se requieran para que el Consejo cumpla con su finalidades.
 
 ###### ARTICULO 12.
 
@@ -187,11 +215,13 @@ El Consejo sólo podrá gravar o enajenar bienes inmuebles de su patrimonio con 
 
 ### CAPITULO III. Régimen de Trabajo
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 19.
 
-Las relaciones de trabajo entre el Consejo Nacional de Ciencia y Tecnología y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B) del artículo 123 Constitucional.
+Las relaciones de trabajo entre el Consejo Nacional de Ciencia y Tecnología y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B, del artículo 123 Constitucional.
 
-Se consideran trabajadores de confianza a los miembros de la Junta Directiva, al Director General, Secretario General, Director Técnico, Director Administrativo, Subdirectores, Jefes de Departamento y de Oficina, Inspectores, Almacenistas, Vigilantes, Secretarios Particulares y Privados, Asesores y Consultores técnicos, Contadores, Auditores, Controladores, Pagadores, Intendentes, Agentes de Adquisiciones, Investigadores, Técnicos, Profesores y Pasantes en general.
+Se consideran trabajadores de confianza a los miembros de la Junta Directiva, al Director General, Secretario General, Directores Adjuntos, Directores, Subdirectores, Secretarios Particulares y Privados, Jefes de Departamento y de Oficina, Asesores y Consultores Técnicos, Contadores, Auditores, Controladores, Pagadores, Investigadores, Profesionales, Supervisores, Técnicos, Pasantes en General, Inspectores, Almacenistas, Vigilantes, Agentes de Adquisiciones y el personal administrativo y de servicios auxiliares presupuestalmente adscrito para la atención directa y personal del Director General, el Secretario General, los directores Adjuntos y los Directores.
 
 ###### ARTICULO 20.
 
@@ -232,3 +262,9 @@ El archivo, biblioteca y, en general, todos los bienes muebles pertenecientes al
 México, D. F., a 23 de diciembre de 1970.- José Rivas Guzmán, D. P.- José Rivera Pérez Campos, S. P.- Cuauhtémoc Santa Ana S., D. S.- Carlos Pérez Cámara, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de mil novecientos setenta..- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Industria y Comercio, Carlos Torres Manzo.- Rúbrica.- El Secretario de Hacienda y Crédito Público.- Hugo B. Margáin.- Rúbrica.- El Secretario de Agricultura y Ganadería, Manuel Bernardo Aguirre.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
