@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-3666"
 country: "mx"
 rank: "ley"
 publication_date: "1988-10-26"
-last_updated: "1992-07-08"
+last_updated: "1995-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-N. DE. E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 285, PUBLICADO EN EL P.O. DE 8 DE JULIO DE 1992, LAS REFERENCIAS Y ATRIBUCIONES QUE SE OTORGAN EN LAS LEYES Y REGLAMENTOS VIGENTES EN EL ESTADO A LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE SE ENTENDERAN HECHAS Y OTORGADAS A LA SECRETARIA DE DESARROLLO SOCIAL.
+N. DE. E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 56, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 1992, LAS REFERENCIAS Y ATRIBUCIONES QUE SE OTORGAN EN LAS LEYES Y REGLAMENTOS VIGENTES EN EL ESTADO A LA SECRETARIA DE DESARROLLO ECONOMICO SE ENTENDERAN HECHAS Y OTORGADAS A LA SECRETARIA DE DESARROLLO SOCIAL.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 26 de octubre de 1988.
 
@@ -586,3 +586,23 @@ Artículo Cuarto.- Las referencias que se hacen en las leyes y Reglamentos vigen
 Artículo Quinto.- El personal de base, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general el equipo que la Secretaría de Planeación que desaparece por efectos del presente Decreto de reformas, utiliza para la operación de los asuntos a su cargo, pasarán a la Secretaría de Desarrollo Social, con excepción de aquellos destinados a las funciones que por este mismo Decreto se transfieren a la Secretaría de Finanzas. Asimismo, pasarán a la Secretaría de Desarrollo Social el personal de base y los recursos financieros y materiales asignados en el presupuesto de egresos vigente en el Estado en el Ramo 11, con motivo de la supresión de la Secretaría de Desarrollo Urbano y Medio Ambiente y la absorción de ésta por la nueva de Desarrollo Social.
 
 Artículo Sexto.- Los programas y asuntos a cargo de la Secretaría de Desarrollo Urbano y Medio Ambiente que se encontraren en curso o pendientes de resolución en el momento de iniciar su vigencia el presente Decreto, se continuarán o serán despachados por la Secretaría de Desarrollo Social; de la misma manera, los programas y asuntos a cargo de la Secretaría de Planeación, que se transfieren a la Secretaría de Finanzas, se continuarán o serán despachos por está conforme a las nuevas atribuciones.
+
+P.O. 11 DE MARZO DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor el día Primero del mes de Abril del año en curso, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las del presente Decreto.
+
+TERCERO.- Las referencias que en la Ley que se modifica a través de este Decreto y en las demás Leyes y Reglamentos vigentes en la Entidad se hagan respecto de:
+
+I.- La Secretaría de Desarrollo Económico en las materias que con motivo de su supresión pasan a la Secretaría de Desarrollo Social, en lo sucesivo se entenderán como hechas a esta última, así como las atribuciones que en esas mismas materias se otorgaren en las anotadas Leyes y Reglamentos a la mencionada Secretaría de Desarrollo Económico;
+
+II.- La Oficialía Mayor del Poder Ejecutivo y la Secretaría de Finanzas en las materias que, con motivo de la supresión de la primera y reestructuración de la segunda, pasan a las Secretarías de Gobierno, de la Contraloría y de Finanzas y Administración, en lo sucesivo se entenderán como hechas a éstas, así como las atribuciones que en esas mismas materias se otorgaren en las anotadas Leyes y Reglamentos a las mencionadas Secretaría de Finanzas y Oficialía Mayor; y
+
+III.- Las Secretarías de Desarrollo Social, de Desarrollo Rural y de Desarrollo Pesquero en las materias que, con motivo de la reestructuración de esta última, pasan a la Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero, en lo sucesivo se entenderán como hechas a la nueva Secretaría, así como las atribuciones que en esas mismas materias se otorgaren en las anotadas Leyes y Reglamentos a las Secretarías mencionadas en primer término.
+
+Lo anterior se observará también con relación a los derechos y obligaciones que se deriven de los Convenios, Contratos y cualquiera otro acto jurídico que las Dependencias en cuestión hayan celebrado con Dependencias y Entidades de la Federación, de otros Estados o de los Municipios del Estado, así como con particulares.
+
+CUARTO.- El personal de base, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las suprimidas Secretaría de Desarrollo Económico y la Oficialía Mayor utilizarán para la operación de los asuntos a su cargo, pasarán a las Dependencias que con motivo de este Decreto asumen las atribuciones de aquéllas. Lo anterior también regirá con respecto a las demás dependencias que afectan las modificaciones contenidas en el presente Decreto.
+
+QUINTO.- Los programas y asuntos a cargo de las dependencias que se suprimen, de las que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de resolución en el momento de iniciar su vigencia el presente Decreto se continuarán o serán despachados por las dependencias a las que corresponda el conocimiento de las materias sobre las cuales aquéllos versen.
