@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1996-07-05"
+last_updated: "1996-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -771,9 +771,13 @@ XV.- Crear y suprimir empleos públicos.
 
 XVI.- Expedir leyes que regulen las relaciones de trabajo entre los Poderes del Estado, los Ayuntamientos y los Organismos paraestatales con sus trabajadores; en base a lo dispuesto por los Artículos 115 y 123 de la Constitución Federal; así como las relativas al Sistema de Seguridad Social de que deban gozar éstos.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1996)</small>
 
-XVII.- Examinar la cuenta general del Estado y de los Municipios y organizar e inspeccionar el funcionamiento de la Contraloría Mayor del Ingreso y Gasto Públicos.
+XVII.- Examinar mensualmente y aprobar en su caso, la Cuenta Pública General del Estado, con base en el dictamen que emita la Contraloría Mayor del Ingreso y Gasto Públicos por conducto de la Comisión de Finanzas, Contraloría y Administración Públicas.
+
+Los Acuerdos que emita la Legislatura del Estado, a través del Pleno o de la Comisión Permanente sobre las revisiones y resultados de la Cuenta Pública General del Estado, serán definitivos para los períodos que abarca y sin ulterior recurso, una vez aprobados por cualquiera de estos Organos del Congreso.
+
+Examinar y aprobar en su caso la Cuenta Pública de cada uno de los Municipios, con base en el dictamen que para cada mes presente la Contraloría Mayor del Ingreso y Gasto Públicos, por conducto de la Comisión de Finanzas, Contraloría y Administración Públicas; tomando en cuenta la evaluación que a su vez presente ante ella, cada uno de los Contralores Municipales designados por el Congreso. Asimismo podrá solicitar a los Organos Estatales competentes a través de la Contraloría Mayor del Ingreso y Gasto Públicos, información sobre la aplicación y el estado de los recursos federales descentralizados a cada Municipio.
 
 XVIII.- Aprobar o no los convenios que el Gobernador celebre con los Estados circunvecinos, respecto a las cuestiones de límites y someter tales convenios a la ratificación del Congreso de la Unión.
 
@@ -965,11 +969,11 @@ VI.- No estar comprendido en alguna de las causas de incapacidad establecidas en
 
 El Gobernador al tomar posesión de su cargo otorgará ante el Congreso o en su caso, ante la Comisión Permanente la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de la República, la particular del Estado y las leyes que de una u otra emanen y desempeñar leal y patrióticamente el cargo de Gobernador del Estado de Tlaxcala que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Entidad. Y si así no lo hiciere que el Estado me lo demande".
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 04 DE OCTUBRE DE 1996)</small>
 
 ###### ARTICULO 62.
 
-Sin permiso del Congreso y en su caso de la Comisión Permanente, el Gobernador no podrá separarse del territorio del Estado, ni del ejercicio de sus funciones, por más de siete días.
+Sin permiso del Congreso y, en su caso de la Comisión Permanente, el Gobernador no podrá separarse del territorio del Estado, ni del ejercicio de sus funciones, por más de veintiún días.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -1053,9 +1057,11 @@ VII.- Enviar por escrito al Congreso del Estado, el informe sobre la situación 
 
 VIII.- Presentar al Congreso en los primeros quince días del mes de noviembre de cada año, los proyectos de Ley de Ingresos y Presupuesto de Egresos que hayan de regir en el año siguiente.
 
+> <small>(REFORMADA, P.O 4 DE OCTUBRE DE 1996)</small>
+
 IX.- Rendir la Cuenta Pública al Congreso.
 
-Esta cuenta comprenderá períodos de cuatro meses y se rendirá durante los primeros quince días de los meses de mayo, septiembre y enero, subsecuentes al período de que se trate.
+Esta cuenta deberá rendirse mensualmente dentro de los primeros tres días subsecuentes al período que se trate.
 
 X.- Enviar al Congreso, dentro de los diez días siguientes a aquel en que tome posesión de su cargo, las propuestas para integrar el Tribunal Superior de Justicia.
 
@@ -1599,11 +1605,11 @@ En delitos y faltas oficiales que cometieren los Munícipes se procederá de acu
 
 La declaración de haber lugar a formación de causa o la autorización para proceder a que se refiere la Fracción IV del artículo 84, se requiere respecto de los servidores públicos de elección popular desde la fecha en que sean electos y en los demás casos, desde que entren en el ejercicio de su encargo, aun por delitos cometidos con anterioridad.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1996)</small>
 
 ###### ARTICULO 113.
 
-La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante el período en que el servidor público ejerza su encargo y dentro de un año después.
+La responsabilidad por delitos y faltas oficiales, sólo podrán exigirse durante el período en que el Servidor Público ejerza su encargo.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -1912,6 +1918,12 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación el
 Por esta única vez los Diputados electos para integrar la Quincuagésima Quinta Legislatura al Congreso del Estado, iniciarán su ejercicio constitucional en la forma y en los términos que establecen los Artículos 38 y 42 vigentes.
 
 P.O. 05 DE JULIO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE OCTUBRE DE 1996.
 
 ###### ARTICULO UNICO.
 
