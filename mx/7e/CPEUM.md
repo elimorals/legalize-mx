@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1917-02-06"
+last_updated: "1921-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 6 DE FEBRERO DE 1917.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JULIO DE 1921.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -730,7 +728,11 @@ XXV.- Para constituirse en Colegio Electoral y nombrar a los Magistrados de la S
 
 XXVI.- Para aceptar las renuncias de los Magistrados de la Suprema Corte de Justicia de la Nación y de los Magistrados y Jueces del Distrito Federal y Territorios, y nombrar los substitutos de dichos funcionarios en sus faltas temporales o absolutas.
 
-XXVII.- Para establecer escuelas profesionales de investigación científica, de bellas artes, de enseñanza técnica, escuelas prácticas de agricultura, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura superior general de los habitantes de la República, entre tanto dichos establecimientos puedan sostenerse por la iniciativa de los particulares, sin que esas facultades sean exclusivas de la Federación. Los títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República.
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 1921)</small>
+
+XXVII.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica; escuelas prácticas de agricultura, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la Nación, y legislar en todo lo que se refiera a dichas instituciones.
+
+La Federación tendrá jurisdicción sobre los planteles que ella establezca, sostenga y organice, sin menoscabo de la libertad que tienen los Estados para legislar sobre el mismo ramo educacional. Los títulos que se expidan por los establecimientos de que se trata, surtirán sus efectos en toda la República.
 
 XXVIII.- Para constituirse en Colegio Electoral y elegir al ciudadano que debe substituir al Presidente de la República, ya sea con carácter de substituto o de provisional en los términos de los artículos 84 y 85 de esta Constitución.
 
@@ -1472,9 +1474,11 @@ Los mexicanos que hayan militado en el Ejército Constitucionalista, los hijos y
 
 Quedan extinguidas de pleno derecho las deudas que por razón de trabajo hayan contraído los trabajadores, hasta la fecha de esta Constitución, con los patronos, sus familiares o intermediarios.
 
+> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 1921)</small>
+
 ###### Art. 14o.
 
-Quedan suprimidas las Secretarías de Justicia y de Instrucción Pública y Bellas Artes.
+Queda suprimida la Secretaría de Justicia.
 
 ###### Art. 15.
 
@@ -1499,3 +1503,9 @@ Lo que hónrome en comunicar a usted para su publicación y demás efectos.
 Constitución y Reformas.- México, cinco de febrero de mil novecientos diez y siete.- AGUIRRE BERLANGA.
 
 Al Ciudadano ..
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+D.O.F. 8 DE JULIO DE 1921.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
