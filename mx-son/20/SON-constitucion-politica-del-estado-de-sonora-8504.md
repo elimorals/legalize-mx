@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1943-02-24"
+last_updated: "1947-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE FEBRERO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE OCTUBRE DE 1947.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -981,13 +981,15 @@ El Procurador General de Justicia será electo por el Congreso a propuesta en te
 
 Para ser Procurador General de Justicia se requiere:
 
-> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 1947)</small>
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos y Abogado con título legalmente expedido.
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos, abogado con título legalmente expedido y con práctica profesional de 3 años, cuando menos.
 
 II. No haber sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito infamante.
 
-III. Tener cuando menos veinticinco años de edad y ser de reconocida moralidad.
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 1947)</small>
+
+III. Tener cuando menos 30 años de edad y ser de reconocida moralidad.
 
 ###### Artículo 100.
 
@@ -1071,13 +1073,17 @@ Para ser Magistrado se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
-II. Tener cuando menos 25 años cumplidos al tiempo de la elección.
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 1947)</small>
+
+II. Tener cuando menos 30 años cumplidos al tiempo de la elección.
 
 III. No haber sido condenado en proceso legal por ningún delito.
 
 IV. Ser de reconocida moralidad.
 
-V. Tener, oficialmente expedido título de Abogado.
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 1947)</small>
+
+V. Tener oficialmente expedido título de abogado y 3 años de práctica profesional, cuando menos.
 
 El requisito señalado en esta última fracción no será exigible para los magistrados suplentes o insaculados.
 
@@ -1618,6 +1624,10 @@ UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Of
 B.O. 24 DE FEBRERO DE 1943.
 
 UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 11 DE OCTUBRE DE 1947.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
