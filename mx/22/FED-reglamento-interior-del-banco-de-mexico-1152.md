@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2002-12-26"
+last_updated: "2003-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2003.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -535,13 +535,13 @@ VIII. Tramitar, registrar y conciliar las operaciones que realice el Banco, resp
 
 IX. Administrar los servicios de depósito y custodia de valores;
 
-> <small>(ADICIONADA, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2003)</small>
 
-X. Expedir certificados relacionados con la firma electrónica en favor de las personas designadas por los intermediarios financieros y llevar el registro de los mismos, para efecto de que puedan realizar operaciones relacionadas con los sistemas de pagos, y
+X. Expedir y llevar el registro de certificados relacionados con la firma electrónica en favor de las personas designadas por los intermediarios financieros; por las personas morales que Banco de México autorice, para efecto de que puedan realizar operaciones relacionadas con los sistemas de pagos, así como en favor de las personas designadas por las entidades autorizadas por las disposiciones aplicables;
 
-> <small>(ADICIONADA, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2003)</small>
 
-XI. Autorizar, cuando lo estime conveniente, a las personas designadas por los intermediarios financieros para que expidan certificados relacionados con la firma electrónica a terceros y, en su caso, lleven el registro de los mismos, para los efectos señalados en la fracción anterior.
+XI. Autorizar, cuando lo estime conveniente, a las personas designadas por los intermediarios financieros; por las personas morales que Banco de México autorice, así como por las entidades autorizadas por las disposiciones aplicables, para que expidan certificados relacionados con la firma electrónica a terceros y, en su caso, lleven el registro de los mismos, para los efectos señalados en la fracción anterior, y
 
 > <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2002)</small>
 
@@ -906,6 +906,10 @@ VI. Proponer al Comité de Información, la aprobación de los formatos de solic
 VII. Certificar los extractos o copias que contengan la información solicitada por el interesado, cuando este último así lo solicite, y
 
 VIII. Las demás que sean necesarias para garantizar y agilizar el acceso de la información al público en general.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2003)</small>
+
+El titular de la Unidad de Enlace podrá suscribir individualmente los actos vinculados con sus atribuciones. Será el Jefe de la Oficina de Relaciones Públicas y Acervo Cultural quien cubra sus ausencias, pudiendo también suscribir de la forma citada los referidos actos.
 
 ### CAPITULO II. DE LA COMISION DE RESPONSABILIDADES
 
@@ -1276,3 +1280,7 @@ UNICO.- Las adiciones de referencia entrarán en vigor a partir de la fecha de s
 D.O.F. 26 DE DICIEMBRE DE 2002.
 
 UNICO.- Las presentes reformas, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JUNIO DE 2003.
+
+UNICO. Las presentes reforma y adición entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
