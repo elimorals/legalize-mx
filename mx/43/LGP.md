@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "1990-07-17"
+last_updated: "1990-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -790,6 +790,14 @@ Para que una sanción administrativa sea revisable deberá solicitarse dentro de
 
 El ejercicio de la acción penal por parte del Ministerio Público Federal, en los casos de delito a que esta Ley se refiere, estará sujeto a la querella que en cada caso formule la Secretaría de Gobernación.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 124.
+
+Los ingresos que la Federación obtenga efectivamente de multas por infracción a esta Ley, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que realice las funciones de servicios migratorios.
+
+Sólo ingresarán a los citados fondos el importe de las multas efectivamente pagadas y que hubieren quedado firmes, salvo que por Ley estén destinados a otros fines. La distribución de los fondos se hará en los términos que el Reglamento de esta Ley señale.
+
 ## ARTICULOS TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -863,3 +871,9 @@ D.O.F. 17 DE JULIO DE 1990.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Para la fijación del monto de las sanciones pecuniarias que resulten aplicables según el Capítulo VII de la Ley General de Población, los importes establecidos se convertirán a días de salario mínimo general vigente en el Distrito Federal, a la fecha en que se cometa el delito o la infracción, a razón de un día por cada diez pesos, a excepción hecha de las sanciones previstas en el artículo 118, que serán las que han quedado señaladas en el presente Decreto.
+
+D.O.F. 26 DE DICIEMBRE DE 1990.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, ...
