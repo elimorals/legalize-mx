@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2002-05-20"
+last_updated: "2002-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 58 ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2002.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -211,7 +211,13 @@ Las dependencias tendrán igual rango y entre ellas no habrá preeminencia algun
 
 Al frente de cada dependencia habrá un titular que, para el despacho de los asuntos que le competan, se auxiliará con subsecretarios o sus equivalentes, directores generales, directores, subdirectores, jefes y subjefes de departamento, oficina, sección y mesa, y demás prestadores de servicios de apoyo técnico o asesoría, en términos de lo dispuesto por esta ley, cuando así lo señalen sus respectivos reglamentos interiores y lo determinen sus presupuestos.
 
-Cada dependencia contará, además, con una unidad administrativa para la presupuestación, programación y ejercicio del presupuesto a su cargo.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+Cada dependencia contará, además con una unidad administrativa subordinada directamente al titular de la misma y que será responsable de la presupuestación, programación y ejercicio del presupuesto a su cargo, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+Los titulares de las unidades administrativas a que refiere este artículo, deberán contar con título profesional en las licenciaturas en Derecho, Contaduría Pública, Administración o Economía, expedido por autoridad o institución legalmente facultada para ello, cumpliendo los demás requisitos que establezca la legislación aplicable.
 
 ###### Artículo 11.
 
@@ -517,9 +523,11 @@ XIX. Autorizar, supervisar, verificar, ratificar, regular y controlar los servic
 
 De la Secretaría de Finanzas y Planeación
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 19.
 
-La Secretaría de Finanzas y Planeación es la dependencia responsable de coordinar la administración financiera y tributaria de la Hacienda Pública, y de proyectar, con la participación de las dependencias y entidades de la administración pública, la planeación, programación y presupuestación del Estado, conforme a la legislación y disposiciones aplicables, en el marco del Sistema de Planeación Democrática; así como de llevar el control administrativo de los recursos humanos y materiales de la Administración Pública Estatal.
+La Secretaría de Finanzas y Planeación es la dependencia responsable de coordinar la administración financiera y tributaria de la Hacienda Pública y de proyectar con la participación de las dependencias y entidades de la administración pública, la planeación, programación y presupuestación del Estado, en el marco del sistema de planeación democrática, así como de llevar el control administrativo de los recursos humanos y materiales, y el control del ejercicio de los recursos financieros de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 20.
 
@@ -535,7 +543,9 @@ IV. Diseñar, implementar y actualizar un sistema de programación del gasto pú
 
 V. Vigilar que los programas de inversión de las dependencias y entidades de la Administración Pública, se realicen conforme a los objetivos de los programas operativos anuales aprobados;
 
-VI. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de carácter fiscal, aplicables en el Estado;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+VI. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de carácter financiero aplicables en el Estado;
 
 VII. Practicar revisiones y auditorías a los contribuyentes;
 
@@ -547,11 +557,17 @@ X. Determinar, recaudar, custodiar y administrar los impuestos, derechos, produc
 
 XI. Llevar las estadísticas de ingresos y egresos del Gobierno del Estado; así como integrar y mantener actualizada la informática de la entidad y lo relativo a la situación geográfica del Estado;
 
-XII. Autorizar la suficiencia presupuestal a las dependencias centralizadas para el ejercicio del gasto público asignado a sus programas, conforme a la calendarización respectiva;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-XIII. Autorizar, previo acuerdo del Gobernador del Estado, las ampliaciones o reducciones de los recursos asignados a los programas a cargo de las dependencias y las entidades comprendidas en el presupuesto de egresos. Asimismo, opinar a solicitud de la coordinadora de sector, sobre las modificaciones presupuestales de las entidades no incorporadas al presupuesto de egresos mencionado;
+XII. Autorizar la suficiencia presupuestal a las dependencias centralizadas y entidades paraestatales para el ejercicio del gasto público asignado a sus programas, conforme a la calendarización respectiva y las leyes aplicables;
 
-XIV. Distribuir los recursos financieros a las dependencias centralizadas y, en su caso, hacer las transferencias a las entidades paraestatales, de acuerdo al presupuesto autorizado;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+XIII. Autorizar, previo acuerdo del Gobernador del Estado, las ampliaciones, transferencias o reducciones de los recursos asignados a las dependencias centralizadas y las entidades paraestatales comprendidas en el presupuesto de egresos;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+XIV. Distribuir a través del Sistema Integral de Administración Financiera del Estado de Veracruz, a su cargo, los recursos financieros a las dependencias centralizadas y entidades paraestatales, de conformidad con el presupuesto autorizado y para los efectos de las acciones de control y evaluación del gasto público que establece esta Ley, el Código Financiero para el Estado y demás disposiciones aplicables;
 
 XV. Coordinar y evaluar los programas de inversión pública de las dependencias y entidades de la administración pública paraestatal;
 
@@ -599,7 +615,9 @@ XXXVI. Participar en el establecimiento de los criterios y montos de estímulos 
 
 XXXVII. Atender las observaciones del Órgano de Fiscalización Superior;
 
-XXXVIII. Establecer los lineamientos sobre la forma y términos en que las dependencias centralizadas deben llevar su contabilidad; solicitar informes y cuentas para consolidar la contabilidad gubernamental, llevar la estadística general del Gobierno del Estado y examinar periódicamente los flujos de información de cada dependencia, y en su caso, recomendar las modificaciones necesarias;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+XXXVIII. Establecer los lineamientos sobre la forma y términos en que las dependencias centralizadas y entidades paraestatales deberán llevar su contabilidad, solicitarles informes y cuentas para consolidar la contabilidad gubernamental, llevar la estadística general del Gobierno del Estado y examinar periódicamente los flujos de información de cada dependencia centralizada y entidad paraestatal, instruyendo en su caso, las modificaciones necesarias;
 
 XXXIX. Informar a la Contraloría General sobre las responsabilidades que afecten la Hacienda Pública del Estado en el ejercicio del gasto;
 
@@ -1141,7 +1159,9 @@ II. Participar en la evaluación periódica de la relación que guardan los prog
 
 III. Evaluar los programas de inversión de las dependencias y entidades de la Administración Pública, conforme a los objetivos del Plan Veracruzano de Desarrollo;
 
-IV. Proponer las normas y lineamientos que regulen los procedimientos de control, supervisión y evaluación de la Administración Pública Estatal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+IV. Proponer las normas y lineamientos que regulen los procedimientos de control, supervisión y evaluación de la Administración Pública Estatal, así como realizar el control y evaluación del gasto público, conforme al registro de las operaciones financieras, presupuestales y contables que se realicen a través del Sistema Integral de Administración Financiera del Estado de Veracruz;
 
 V. Revisar, en los términos de los instrumentos de coordinación que se suscriban, que los recursos financieros ministrados por la Federación al Gobierno del Estado, sean canalizados hacia los objetivos propuestos en los programas respectivos y se apliquen con honestidad y transparencia;
 
@@ -1256,6 +1276,14 @@ El Instituto Electoral Veracruzano, la Comisión Estatal de Derechos Humanos y e
 ###### Artículo 40.
 
 Las entidades paraestatales gozarán de autonomía de gestión para el debido cumplimiento de su objeto, y de los objetivos y metas señaladas en sus programas. Al efecto, los órganos de gobierno, o sus equivalentes, de las entidades paraestatales, según sea el caso, expedirán su correspondiente normatividad interior, que deberá establecer las bases específicas de organización, funcionamiento y las atribuciones de sus respectivos directores generales, o similares, y de las distintas áreas que integren la entidad de que se trate. Dicha normatividad deberá publicarse en la Gaceta Oficial del Estado y registrarse ante la Contraloría General.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+Cada entidad paraestatal contará, además con una unidad administrativa responsable de la presupuestación, programación y ejercicio del presupuesto a su cargo en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+Los titulares de las unidades administrativas de las entidades paraestatales deberán cumplir los requisitos que establece el artículo 10 de esta Ley y tendrán en lo conducente, las mismas atribuciones que sus similares de las dependencias.
 
 ###### Artículo 41.
 
@@ -1528,3 +1556,13 @@ Tercero. El personal, así como los recursos materiales y financieros destinados
 Cuarto. Las dependencias del Poder Ejecutivo del Estado a que hace referencia este Decreto, adecuarán su organización y normatividad interiores, en un plazo no mayor de 60 días hábiles, contados a partir de la entrada en vigor del mismo.
 
 Quinto. En tanto no se expidan las normas reglamentarias correspondientes, seguirá siendo aplicable la normatividad vigente en lo que no se oponga al presente Decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2002.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 303 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DEL CÓDIGO FINANCIERO PARA EL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado de Veracruz-Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Los titulares de las Dependencias y Entidades del Poder Ejecutivo contarán con un plazo no mayor a treinta días naturales, a partir del inicio de la vigencia de este Decreto, para designar o ratificar a los titulares de las unidades administrativas, quienes deberán reunir los requisitos que señale la Ley.
