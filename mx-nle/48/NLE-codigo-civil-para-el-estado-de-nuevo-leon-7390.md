@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1960-01-06"
+last_updated: "1962-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 1962.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -6731,7 +6731,7 @@ Si el testador ignoraba que la cosa fuese propia del heredero o del legatario, s
 
 ###### Art. 1338.
 
-El legado consiste en la devolución de la cosa recibida en prenda, o en el título constitutivo de una hipoteca, sólo extingue el derecho de prenda o hipoteca, pero no la deuda, a no ser que así se prevenga expresamente.
+El legado que consiste en la devolución de la cosa recibida en prenda, o en el título constitutivo de una hipoteca, sólo extingue el derecho de prenda o hipoteca, pero no la deuda, a no ser que así se prevenga expresamente.
 
 ###### Art. 1339.
 
@@ -11075,7 +11075,7 @@ Las donaciones hechas simulando otro contrato a personas que conforme a la ley n
 
 ### CAPITULO VII. DISPOSICIONES ESPECIALES RESPECTO DE LOS ARRENDAMIENTOS POR TIEMPO INDETERMINADO
 
-(SUSPENDIDA LA VIGENCIA POR ARTICULO 4° DEL DECRETO NUMERO 35, P.O. 8 DE JULIO DE 1944)
+> <small>(DEROGADA LA SUSPENSION DEL ARTICULO 4° DEL DECRETO NUMERO 35 DE FECHA 8 DE JULIO DE 1944, POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)</small>
 
 ###### Art. 2253.
 
@@ -11519,6 +11519,8 @@ Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arr
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2343.
 
+(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
+
 ###### Art. 2346.
 
 La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos mensuales; por quincenas vencidas, si la renta es de sesenta a cien pesos también mensuales, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
@@ -11528,6 +11530,8 @@ La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses
 ###### Art. 2347.
 
 El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
+
+(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
 
 ###### Art. 2348.
 
@@ -11639,7 +11643,7 @@ Lo dispuesto en el artículo 2359 es aplicable a los aperos de la finca arrendad
 
 Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
 
-(SUSPENDIDA LA VIGENCIA POR ARTICULO 4° DEL DECRETO NUMERO 35, P.O. 8 DE JULIO DE 1944)
+(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
 
 ###### Art. 2373.
 
@@ -11665,7 +11669,7 @@ Si el arrendador aprueba expresamente el contrato especial de subarriendo, el su
 
 El arrendamiento puede terminar:
 
-(SUSPENDIDA LA VIGENCIA POR ARTICULO 4° DEL DECRETO NUMERO 35, P.O. 8 DE JULIO DE 1944)
+(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
 
 I.- Por haberse cumplido el plazo fijado en el contrato o por la ley, o por estar satisfecho el objeto para que la cosa fué arrendada;
 
@@ -11683,7 +11687,7 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
 
-(SUSPENDIDA LA VIGENCIA POR ARTICULO 4° DEL DECRETO NUMERO 35, P.O. 8 DE JULIO DE 1944)
+(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
 
 ###### Art. 2378.
 
@@ -11708,6 +11712,8 @@ Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hab
 ###### Art. 2383.
 
 El arrendador puede exigir la rescisión del contrato:
+
+(SUSPENDIDA LA VIGENCIA POR ARTICULO SEPTIMO DE DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)
 
 I.- Por falta de pago de la renta en los términos prevenidos en los artículos 2346 y 2348;
 
@@ -14682,3 +14688,13 @@ Este Decreto surtirá sus efectos desde el día siguiente al de su publicación 
 P.O. 6 DE ENERO DE 1960.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 13 DE JUNIO DE 1962.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley empezará a regir al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Queda derogado el Decreto No. 35 del H. Congreso del Estado de fecha 5 de julio de 1944, Publicado en el Periódico Oficial del Estado, bajo el número 55 de fecha 8 de los mismos mes y año; pero no obstante seguirá aplicándose, transitoriamente, para los juicios y procedimientos judiciales que se encuentren en tramitación antes de la vigencia de la presente Ley.
