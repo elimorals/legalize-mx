@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "1991-12-28"
+last_updated: "1992-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -127,9 +127,11 @@ II Cuando el predio se encuentre edificado con diversos departamentos propiedad 
 
 En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 8o.
 
-La tasa de este impuesto será del 0.8% anual sobre el valor catastral asignado en los términos de la Ley de Catastro en vigencia.
+La Tasa de este impuesto será del 0.5% anual sobre el valor catastral del inmueble asignado en los términos de la Ley de Catastro en vigencia.
 
 ###### ARTICULO 9o.
 
@@ -267,31 +269,17 @@ Están obligadas al pago de este impuesto las personas físicas o morales que ad
 
 El enajenante responde solidariamente del impuesto que deba pagar el adquirirente (sic).
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 26.
 
-La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el precio pactado, el valor catastral y el avalúo que al efecto practique u ordene la Secretaría de finanzas del Gobierno del Estado, después de reducirlo en los términos siguientes:
+La Base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el precio pactado, el valor catastral y el avalúo que al efecto practique u ordene la Secretaría de Finanzas del Gobierno del Estado.
 
-VALOR REDUCCION
-
-HASTA 69'999,999.00 10 veces el salario mínimo
-
-elevado al año.
-
-De 70'000.000.00 A 109'999,999.00 8 veces el salario mínimo
-
-elevado al año.
-
-De 110'000,000.00 En adelante No hay reducción.
-
-Para tales efectos se tomará el salario mínimo que rija en el Municipio en el momento en que se realice el acto generador.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 27.
 
-El Impuesto sobre Traslación de Dominio y otras operaciones de bienes inmuebles, se causará y pagará aplicando la tasa del 6%.
+El Impuesto sobre Traslación de Dominio y otras operaciones de bienes inmuebles se causará y pagará aplicando la tasa del 2%.
 
 ###### ARTICULO 28.
 
@@ -1152,3 +1140,9 @@ Se derogan todas las disposiciones legales que se opongan al presente decreto.
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 1992.
+
+PRIMERO.- Se Derogan todas las disposiciones legales que se opongan al presente decreto.
+
+SEGUNDO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, exceptuando el artículo 8° que entrará en vigor a partir del 1° de enero de 1993.
