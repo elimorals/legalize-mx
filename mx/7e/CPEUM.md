@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1986-04-07"
+last_updated: "1986-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1986.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -784,11 +784,11 @@ DE LA ELECCION E INSTALACION DEL CONGRESO.
 
 La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años. Por cada diputado propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 52.
 
-La Cámara de Diputados estará integrada por 300 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y hasta 100 diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en circunscripciones plurinominales.
+La Cámara de Diputados estará integrada por 300 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y 200 diputados que serán electos según el principio de representación proporcional, mediante el Sistema de Listas Regionales, votadas en circunscripcionales (sic) plurinominales.
 
 > <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
@@ -796,21 +796,43 @@ La Cámara de Diputados estará integrada por 300 diputados electos según el pr
 
 La demarcación territorial de los 300 distritos electorales uninominales será la que resulte de dividir la población total del país entre los distritos señalados. La distribución de los distritos electorales uninominales entre las entidades federativas se hará teniendo en cuenta el último censo general de población, sin que en ningún caso la representación de un Estado pueda ser menor de dos diputados de mayoría.
 
-Para la elección de los 100 diputados según el principio de representación proporcional y el sistema de listas regionales, se constituirán hasta cinco circunscripciones electorales plurinominales en el país. La ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+Para la elección de los 200 diputados según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 54.
 
-La elección de los 100 diputados, según el principio de la representación proporcional y el sistema de listas regionales, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la ley:
+La elección de los 200 diputados según el principio de representación proporcional y el Sistema de Listas Regionales, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley:
+
+> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 I.- Para obtener el registro de sus listas regionales, el partido político nacional que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos la tercera parte de los 300 distritos uninominales.
 
-II.- Tendrá derecho a que les sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que: A) no haya obtenido 60 o más constancias de mayoría y B) que alcance por lo menos el 1.5% del total de la votación emitida para todas las listas regionales en las circunscripciones plurinominales.
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
 
-III.- Al partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal correspondiente. La ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido político nacional que alcance por lo menos el 1.5% del total de la votación emitida para las listas regionales de las cinco circunscripciones y no se encuentre comprendido en los siguientes supuestos:
 
-IV.- En el caso de que dos o más partidos con derecho a participar en la distribución de las listas regionales obtengan en su conjunto 90 o más constancias de mayoría, sólo serán objeto de reparto el 50% de las curules que deben asignarse por el principio de representación proporcional.
+A) Haber obtenido el 51% o más de la votación nacional efectiva, y que su número de constancias de mayoría relativa represente un porcentaje del total de la Cámara, superior o igual a su porcentaje de votos, o
+
+B) Haber obtenido menos del 51% de la votación nacional efectiva, y que su número de constancias de mayoría relativa sea igual o mayor a la mitad más uno de los miembros de la Cámara.
+
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+
+III.- Al partido que cumpla con lo dispuesto por las fracciones I y II de este Artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en cada circunscripción plurinominal. La Ley determinará las normas para la aplicación de la fórmula que se observará en la asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+
+IV.- En los términos de la fracción anterior las normas para la asignación de curules, son las siguientes:
+
+A) Si algún partido obtiene el 51% o más de la votación nacional efectiva y el número de constancias de mayoría relativa representan un porcentaje del total de la Cámara, inferior a su referido porcentaje de votos, tendrá derecho a participar en la distribución de diputados electos según el principio de representación proporcional, hasta que la suma de diputados obtenidos por ambos principios represente el mismo porcentaje de votos.
+
+B) Ningún partido tendrá derecho a que le sean reconocidos más de 350 diputados, que representan el 70% de la integración total de la Cámara, aun cuando hubiere obtenido un porcentaje de votos superior.
+
+C) Si ningún partido obtiene el 51% de la votación nacional efectiva y ninguno alcanza, con sus constancias de mayoría relativa, la mitad más uno de los miembros de la Cámara, al partido con más constancias de mayoría le serán asignados diputados de representación proporcional, hasta alcanzar la mayoría absoluta de la Cámara, y
+
+D) En el supuesto anterior, y en caso de empate en el número de constancias, la mayoría absoluta de la Cámara será decidida en favor de aquel de los partidos empatados, que haya alcanzado la mayor votación a nivel nacional, en la elección de diputados por mayoría relativa.
 
 ###### Art. 55.
 
@@ -848,13 +870,13 @@ VI. No ser Ministro de algún culto religioso, y
 
 VII. No estar comprendido en alguna de las incapacidades que señala el artículo 59.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 56.
 
-La Cámara de Senadores se compondrá de dos miembros por cada Estado y dos por el Distrito Federal, electos directamente y en su totalidad cada seis años.
+La Cámara de Senadores se compondrá de dos miembros por cada Estado y dos por el Distrito Federal, nombrados en elección directa. La Cámara se renovará por mitad cada tres años.
 
-La Legislatura de cada Estado declarará electo al que hubiese obtenido la mayoría de los votos emitidos.
+La legislatura de cada Estado y la Comisión Permanente del Congreso de la Unión, en el caso del Distrito Federal, declararán electo al que hubiese obtenido la mayoría de los votos emitidos.
 
 ###### Art. 57.
 
@@ -874,27 +896,17 @@ Los Senadores y Diputados al Congreso de la Unión no podrán ser reelectos para
 
 Los Senadores y Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Senadores y Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 60.
 
-La Cámara de Diputados calificará la elección de sus miembros a través de un Colegio Electoral que se integrará con 100 presuntos diputados: 60 de los electos en los distritos uninominales, designados por el partido político que hubiera obtenido mayor número de constancias de mayoría registradas por la Comisión Federal Electoral; y 40 de los electos en circunscripciones plurinominales, designados por los partidos políticos proporcionalmente al número que para cada uno de ellos hubiera reconocido la Comisión Federal Electoral por el porcentaje de votación que hayan obtenido.
+Cada Cámara calificará las elecciones de sus miembros y resolverá las dudas que hubiese sobre ellas.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+El Colegio Electoral de la Cámara de Diputados se integrará con todos los presuntos diputados que hubieren obtenido constancia expedida por la Comisión Federal Electoral, tanto con los electos por el principio de votación mayoritaria relativa como con los electos por el principio de representación proporcional.
 
-En la Cámara de Senadores el Colegio Electoral se integrará con los presuntos senadores que obtuvieren declaratoria de senador electo de la Legislatura de la entidad federativa correspondiente y de la Comisión Permanente del Congreso de la Unión en el caso del Distrito Federal.
+El Colegio Electoral de la Cámara de Senadores se integrará, tanto con los presuntos senadores que hubieren obtenido la declaración de la legislatura de cada Estado y de la Comisión Permanente del Congreso de la Unión, en el caso del Distrito Federal, como con los senadores de la anterior Legislatura que continuarán en el ejercicio de su encargo.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
-
-Procede el recurso de reclamación ante la Suprema Corte de Justicia de la Nación contra las resoluciones del Colegio Electoral de la Cámara de Diputados.
-
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
-
-Si la Suprema Corte de Justicia considera que se cometieron violaciones sustanciales en el desarrollo del proceso electoral o en la calificación misma, lo hará del conocimiento de dicha Cámara para que emita nueva resolución, misma que tendrá el carácter de definitiva e inatacable.
-
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
-
-La ley fijará los requisitos de procedencia y el trámite a que se sujetará este recurso.
+Corresponde al Gobierno Federal la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen e instituirá un tribunal que tendrá la competencia que determine la Ley; las resoluciones del tribunal serán obligatorias y sólo podrán ser modificadas por los Colegios Electorales de cada Cámara, que serán la última instancia en la calificación de las elecciones; todas estas resoluciones tendrán el carácter de definitivas e inatacables.
 
 ###### Art. 61.
 
@@ -1328,7 +1340,9 @@ II.- Comunicarse en la Cámara colegisladora y con el Ejecutivo de la Unión, po
 
 III.- Nombrar los empleados de su secretaría y hacer el reglamento interior de la misma.
 
-IV.- Expedir convocatoria para elecciones extraordinarias, con el fin de cubrir las vacantes de sus respectivos miembros.
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+
+IV.- Expedir convocatoria para elecciones extraordinarias con el fin de cubrir las vacantes de sus respectivos miembros. En el caso de la Cámara de Diputados, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista regional respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
 
 #### SECCION IV.
 
@@ -1755,8 +1769,6 @@ III.- Cuando se reclamen actos de tribunales judiciales, administrativos o del t
 a).- Contra sentencias definitivas o laudos respecto de los cuales no proceda ningún recurso ordinario por el que puedan ser modificados o reformados, ya sea que la violación se cometa en ellos, o que, cometida durante el procedimiento afecte a las defensas del quejoso, trascendiendo al resultado del fallo; siempre que en materia civil haya sido impugnada la violación en el curso del procedimiento mediante el recurso ordinario establecido por la ley e invocada como agravio en la segunda instancia, si se cometió en la primera. Estos requisitos no serán exigibles en el amparo contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten al orden y a la estabilidad de la familia.
 
 b).- Contra actos en juicio cuya ejecución sea de imposible reparación, fuera de juicio o después de concluido, una vez agotados los recursos que en su caso procedan, y
-
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 c).- Contra actos que afecten a personas extrañas al juicio.
 
@@ -2644,11 +2656,11 @@ El Congreso Constitucional en el período ordinario de sus sesiones, que comenza
 
 Los Diputados que se elijan a la LIV Legislatura del Congreso de la Unión, durarán en funciones del 1o. de septiembre de 1988 hasta el 31 de octubre de 1991.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 18.
 
-Los Senadores que se elijan a las LIV y LV Legislaturas del Congreso de la Unión, durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1994.
+Los senadores que se elijan a las LIV y LV Legislaturas del Congreso de la Unión durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1994, y los que se elijan para la LIV Legislatura, que serán los nombrados en segundo lugar, durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1991.
 
 > <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
 
@@ -3537,3 +3549,9 @@ D.O.F. 7 DE ABRIL DE 1986.
 DECRETO QUE REFORMA LOS ARTICULOS 106 Y 107.
 
 UNICO.- El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE DICIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
