@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1968-06-16"
+last_updated: "1969-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1969.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -1857,7 +1857,9 @@ I.- Para emplazar a juicio al demandado y en todo caso en que se trate de la pri
 
 II.- Cuando dejare de actuarse durante más de seis meses, por cualquier motivo; en este caso, si se ignora el domicilio de una parte, se le hará la notificación por edictos;
 
-III.- Cuando el tribunal estime que se trata de un caso urgente, o que por alguna circunstancia deban ser personales, y así lo ordene expresamente, y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE JUNIO DE 1969)</small>
+
+III.- Cuando el Tribunal estime que se trata de un caso urgente, o por alguna circunstancia deben ser personales, y así lo ordene expresamente. También serán personales cuando en el procedimiento judicial intervenga la Universidad de Guanajuato, y
 
 IV.- En los demás casos en que la ley expresamente lo disponga.
 
@@ -3299,9 +3301,13 @@ Disposiciones generales.
 
 De todos los juicios sucesorios, cualquiera que sea su cuantía, conocerán los Jueces de Partido. En las sucesiones con capital aparente de menos de $5,000.00 se sujetarán al Capítulo IX, del Título Segundo, del Libro Tercero de este Código.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE JUNIO DE 1969)</small>
+
 ###### Art. 565.
 
-Sin perjuicio de lo dispuesto en el Código Civil sobre administración de cónyuge supérstite, dictará el juez, con audiencia del Ministerio Público, a instancia de parte legítima, las medidas necesarias para asegurar los bienes, a efecto de evitar que se oculten o dilapiden.
+Sin perjuicio de lo dispuesto en el Código Civil sobre administración del cónyuge supérstite, dictará el Juez, con audiencia del Ministerio Público, a instancia de parte legítima, las medidas necesarias para asegurar los bienes, a efecto de evitar que se oculten o dilapiden.
+
+Cuando el denunciante de la sucesión lo sea el Ministerio Público, el Juez decretará de oficio el aseguramiento de los bienes.
 
 ###### Art. 566.
 
@@ -3315,9 +3321,13 @@ III.- Mandar depositar, en establecimiento autorizado por la ley, el dinero y al
 
 El Ministerio Público asistirá a la diligencia de aseguramiento de los bienes.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE JUNIO DE 1969)</small>
+
 ###### Art. 567.
 
-De todos los bienes muebles que se encuentren se formará un riguroso inventario, del que se dejará un duplicado a la persona en cuyo poder se encuentren, la cual tendrá, mientras no haya resolución judicial, que disponga otra cosa, las obligaciones y responsabilidades, respecto de ellos, de los depositarios judiciales, con excepción de la de otorgar fianza. Las mismas obligaciones tendrán los poseedores de los bienes inmuebles.
+De todos los bienes muebles que se encuentren se formará un riguroso inventario del que se dejará un duplicado a la persona en cuyo poder se encuentren, la cual tendrá, mientras no haya resolución judicial que disponga otra cosa, las obligaciones y responsabilidades, respecto de ellos, de los depositarios judiciales, con excepción de la de otorgar fianza. Las mismas obligaciones tendrán los poseedores de los bienes inmuebles.
+
+En todos aquellos casos en los que no exista persona que deba desempeñar las funciones de depositario judicial, el juez procederá a nombrar un interventor con arreglo a las disposiciones de este Código.
 
 ###### Art. 568.
 
@@ -4500,3 +4510,7 @@ La presente reforma entrará en vigor el día 1o. de junio del año en curso.
 ###### ARTICULO 2o.
 
 La modificación de competencia que esta reformas (sic) establece al artículo 23, no surtirá efectos en los negocios ya iniciados al entrar en vigor, los que continuarán tramitándose conforme a la disposición anterior.
+
+P.O. 8 DE JUNIO DE 1969.
+
+UNICO.- Este decreto surtirá efectos a los tres días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
