@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-protege-los-derechos-de-los-no-fumadores-en-el-12598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-06"
-last_updated: "1995-10-06"
+last_updated: "1998-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE PROTEGE LOS DERECHOS DE LOS NO FUMADORES EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 6 de octubre de 1995.
 
@@ -39,51 +39,89 @@ LEY QUE PROTEGE LOS DERECHOS DE LOS NO FUMADORES EN EL ESTADO DE BAJA CALIFORNIA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto proteger la salud de las personas no fumadoras de los efectos de la inhalación involuntaria de humos producidos por la combustión de tabaco en cualquiera de sus formas, en los sitios que se señalan en la presente Ley.
+Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto:
+
+I. Establecer las medidas para proteger la salud de las personas no fumadoras de los efectos que causa la inhalación involuntaria de humos producidos por la combustión de tabaco en cualquiera de sus formas, en los sitios señalados en el presente ordenamiento;
+
+II. La prevención, concientización y difusión de los daños en la salud que ocasiona el tabaquismo.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 2.
 
-La aplicación y vigilancia de esta Ley corresponde al Ejecutivo del Estado a través de la Secretaría de Salud y a los Gobiernos Municipales, en su respectivo ámbito de competencia.
+La aplicación de esta Ley para su cumplimiento corresponde:
+
+I. Al Ejecutivo del Estado a través del Instituto de Servicios de Salud Pública del Estado de Baja California o de la Dependencia o Entidad que al efecto determine, en los casos previstos en las fracciones I, II, IV, V y VI del Artículo 6 de esta Ley;
+
+II. A los titulares de los órganos que dentro de las Leyes Orgánicas, tanto de la Administración Pública del Estado como de los Municipios y de los Poderes Legislativo y Judicial, sean competentes para aplicar la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, en el supuesto del artículo 6 fracción III de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 3.
 
-En la vigilancia del cumplimiento de esta Ley participarán también, en la forma que la misma señala:
+Están obligados al cumplimiento de esta Ley:
 
-I. Los propietarios, poseedores o responsables y empleados de los locales, establecimientos y medios de transporte que se señalan en esta Ley; y,
+I. Los Servidores Públicos de los Poderes Ejecutivo, Legislativo y Judicial, así como de los Municipios;
 
-II. Las asociaciones de padres de familia y de alumnos de las escuelas e institutos públicos y privados a través del personal administrativo directivo.
+II. Los propietarios, responsables, empleados y el público que se reúna en locales, establecimientos, oficinas, teatros, auditorios, cines, medios de transporte público y en general todos aquellos lugares cerrados susceptibles de que personas no fumadoras inhalen involuntariamente humos por la combustión de tabaco, producidas por aquel o aquellos que fuman;
 
-### CAPITULO II. DE LAS SECCIONES RESERVADAS EN LOCALES Y ESTABLECIMIENTOS
+III. El personal administrativo y docente de los centros educativos públicos y privados.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
+
+### CAPITULO II. DE LAS SECCIONES RESERVADAS PARA FUMADORES Y NO FUMADORES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 4.
 
-En los locales y establecimientos en los que se expendan al público alimentos para su consumo, los propietarios, poseedores o responsables de la negociación de que se trate deberán delimitar de acuerdo a la demanda de los usuarios, secciones reservadas para no fumadores y para quienes fumen durante su estancia en los mismos.
+En los lugares cerrados donde se expendan al público alimentos para su consumo, los propietarios, poseedores o responsables de la negociación de que se trate deberán delimitar secciones reservadas para no fumadores y para quienes fumen durante su estancia en las mismas; áreas que deberán estar bien ventiladas con medios mecánicos o directos, en los términos del Reglamento de esta Ley.
 
 Dichas Secciones deberán estar identificadas con señalización en lugares visibles al público asistente y contar con ventilación adecuada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 5.
 
-Las propietarios, poseedores o responsables de los locales y establecimientos de que se trate, dispondrán la forma en que ellos mismos o sus empleados vigilarán que fuera de las secciones señaladas a que se refiere el artículo anterior no haya personas fumando. En caso de haberlas deberán exhortarlas a dejar de fumar o cambiarse a la sección indicada. En caso de negativa, podrán negarse a prestar sus servicios al infractor.
+Las personas a que se refiere el artículo 3 fracción II de esta Ley vigilarán por sí mismos o por medio de sus empleados que en la sección reservada para no fumadores, no se encuentren personas fumando, de haberlas deberán exhortarlas a dejar de fumar o cambiarse a la sección indicada. En caso de negativa, deberán negarse a prestar sus servicios al transgresor; los propietarios podrán solicitar el auxilio de la fuerza pública para su remoción del local en comento.
 
 Si el infractor persiste en su conducta deberán dar aviso a la policía preventiva.
 
-### CAPITULO III. DE LOS LUGARES EN QUE QUEDA PROHIBIDA LA PRACTICA DE FUMAR
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
+
+### CAPITULO III. DE LOS LUGARES PROHIBIDOS PARA FUMAR
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 6.
 
-Se establece la prohibición de fumar:
+Se prohibe fumar:
 
-I. En los cines, teatros y auditorios cerrados a los que tenga acceso el público en general, con excepción de las secciones de fumadores que se establezcan en los vestíbulos para los dos primeros, y en el área delimitada exprofeso para este último;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
+I. En los cines, teatros, auditorios y lugares cerrados donde se expendan al público alimentos para su consumo, con excepción de las secciones de fumadores que se establezcan en los mismos;
 
 II. En los vehículos de servicio público de transporte de pasajeros que circulen en el Estado de Baja California;
 
-III. En las oficinas de Gobierno del Estado y Municipios;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
-IV. En las tiendas de autoservicio, oficinas bancarias, financieras, industriales, comerciales o de servicios; y,
+III. En los edificios y oficinas de la Administración Pública Municipal; así como de los Poderes Legislativo, Ejecutivo y Judicial del Estado;
 
-V. En los auditorios, bibliotecas y salones de clase de las escuelas oficiales de educación preescolar, primaria, secundaria, especial y media superior.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
+IV. En las tiendas de autoservicio, oficinas bancarias, financieras, industriales, comerciales o de servicios;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
+V. En los auditorios, bibliotecas y salones de clase de las escuelas públicas y privadas de educación preescolar, primaria, secundaria, especial, media superior y superior, y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
+VI. En Hospitales y clínicas del sector público y privado, y consultorios donde se brinde atención médica.
 
 ###### ARTICULO 7.
 
@@ -91,17 +129,23 @@ Los propietarios, poseedores o responsables de los vehículos a que se refiere l
 
 En el caso de vehículos o taxis para transporte individual, corresponde al conductor determinar si en el mismo se autoriza o no fumar a los pasajeros, debiendo colocar un letrero visible en ese sentido.
 
-### CAPITULO IV. DE LA DIVULGACION, CONCIENTIZACION Y PROMOCION
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
+
+### CAPITULO IV. DE LA DIVULGACION, CONCIENTIZACION Y PROMOCION DE LOS EFECTOS NOCIVOS QUE CAUSA EL TABAQUISMO
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 8.
 
-El Ejecutivo del Estado de Baja California y los Gobiernos Municipales instruirá a los titulares de las dependencias y entidades de la administración pública en el Estado para que en las oficinas a su cargo, principalmente en las que se atienda al público, se apliquen las medidas a que se refiere la fracción III del artículo 6 de esta Ley.
+El Ejecutivo del Estado, los Presidentes Municipales y los órganos competentes de los Poderes Legislativo y Judicial, dentro del ámbito de su competencia, instruirán a los titulares y directores de las dependencias y entidades de la Administración Pública a su cargo, para que observen la prohibición prevista en la fracción III del artículo 6 de esta Ley.
 
-Así mismo, a través de la Secretaría y Educación y de Salud y de la Dirección del Trabajo y Previsión Social, implementará un programa preventivo permanente contra el Tabaquismo, al cual se le dará difusión en los medios masivos de comunicación.
+Corresponderá a la Entidad a que se hace mención en la fracción II del artículo 2, implementar programas preventivos permanentes contra el Tabaquismo, utilizando cualquier medio que sirva para hacerlo del conocimiento de la población.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 9.
 
-El Ejecutivo del Estado promoverá la realización de campañas de concientización y divulgación de esta Ley, a fin de que se establezcan las modalidades a las que se refiere este ordenamiento en:
+El Ejecutivo del Estado a través del Instituto de Servicios de Salud Pública del Estado de Baja California, promoverá la realización de campañas de concientización y divulgación de esta Ley, a fin de que se establezcan las modalidades a las que se refiere este ordenamiento en:
 
 a) Oficinas y despachos privados;
 
@@ -115,27 +159,33 @@ e) Medios de transporte colectivo de sindicatos y de las empresas privadas que p
 
 f) Salones para actos sociales y establecimientos señalados en el Capítulo II de esta Ley, ubicados en las Delegaciones Municipales del Estado de Baja California.
 
-Para el cumplimiento de esta obligación se contará con los recursos provinientes de las multas que se apliquen a los infractores de esta Ley.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
+Para el cumplimiento de esta obligación se contará con los recursos provenientes de las multas que se apliquen a los infractores de esta Ley.
 
 ###### ARTICULO 10.
 
 Los integrantes de asociaciones de padres de familia de las escuelas e institutos públicos y privados, podrán vigilar de manera individual o colectiva que se cumpla con la prohibición de fumar en las aulas, bibliotecas, auditorios y demás instalaciones docentes de las respectivas instituciones educativas.
 
-### CAPITULO V. DE LA VIGILANCIA Y APLICACION DE MEDIDAS DE SEGURIDAD Y SANCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
+
+### CAPITULO V. DE LA INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 11.
 
-Corresponde a las autoridades sanitarias del Estado y de los Municipios la vigilancia del cumplimiento de esta Ley.
+(DEROGADO, P.O. 28 DE AGOSTO DE 1998)
 
-La participación de las autoridades municipales estará determinada por los convenios que celebren los Ayuntamientos con el Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 12.
 
-Las demás dependencias y organismos públicos coadyuvarán a la vigilancia del cumplimiento de las normas establecidas por la presente Ley y cuando encontraren violaciones a las mismas, lo harán del conocimiento de las autoridades mencionadas con anterioridad.
+Las dependencias y organismos públicos coadyuvarán a la vigilancia del cumplimiento de las normas establecidas por la presente Ley y cuando encontraren violaciones a las mismas, lo harán del conocimiento de las autoridades mencionadas en el artículo 2.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 13.
 
-La vigilancia se llevará a cabo mediante visitas de inspección a través de inspectores designados por las autoridades sanitarias, quienes deberán realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás disposiciones aplicables.
+La vigilancia se llevará a cabo mediante visitas de inspección a través de inspectores designados por el Instituto de Servicios de Salud Pública, quienes deberán realizar las respectivas diligencias de conformidad con las disposiciones de esta Ley y demás ordenamientos legales aplicables.
 
 ###### ARTICULO 14.
 
@@ -143,9 +193,11 @@ Las inspecciones podrán ser ordinarias y extraordinarias. Las primeras se efect
 
 Tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles las de funcionamiento habitual, para la aplicación de éste ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 15.
 
-Los inspectores para practicar visitas, deberán estar provistos de ordenes escritas, expedidas por la autoridad de salud correspondiente, en las que se deberá precisar el lugar o zona que ha de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+Los inspectores para practicar visitas, deberán estar provistos de órdenes escritas, expedidas por el Instituto de Servicios de Salud Pública, en las que se deberá precisar el lugar o zona que ha de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
 
 La orden de inspección deberá ser exhibida a la persona con quien se entienda la diligencia, a quien se le entregará una copia.
 
@@ -169,95 +221,111 @@ IV. Al concluir la inspección se dará oportunidad al propietario, poseedor o r
 
 La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita se deberá hacer constar en el referido documento y no afectará su validez ni la diligencia practicada.
 
-### CAPITULO VI. SANCIONES ADMINISTRATIVAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
+
+### CAPITULO VI. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 18.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones relativas, serán sancionadas administrativas por las autoridades estatales o municipales según corresponda.
+Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones relativas, serán sancionadas administrativamente por las autoridades a que hace mención el artículo 2 de esta Ley.
 
 ###### ARTICULO 19.
 
-El acto u omisión contrarios a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá dar lugar a la orientación, educación e información de los infractores, con independencia de que se apliquen si procedieren, las sanciones correspondientes en esos casos.
+(DEROGADO, P.O. 28 DE AGOSTO DE 1998)
 
 ###### ARTICULO 20.
 
-Las medidas señaladas en el artículo anterior serán aplicables a los consumidores de tabaco que se mencionan en esta Ley. Como primera sanción se exigirá la obligación de asistir al centro comunitario de rehabilitación que le indique la autoridad que haya aplicado dicha sanción, en donde deberá cumplir con la asistencia a sesiones de información sobre el daño que produce el humo secundario; dichas sesiones deberán durar como mínimo dos horas.
-
-La aplicación de esta disposición tendrá vigencia durante dos años a partir de la entrada en vigor de la presente Ley. En caso de reincidencia se aplicará la fracción primera del artículo que prosigue.
+(DEROGADO, P.O. 28 DE AGOSTO DE 1998)
 
 ###### ARTICULO 21.
 
-En el caso de las negociaciones o empresas que no acaten las disposiciones contenidas en los artículos 4 y 5 primer párrafo; 6 fracciones I, II, IV y V y 7, se harán acreedores:
-
-A).- Si es por primera vez, a una amonestación;
-
-B).- En caso de reincidencia, apercibimiento de multa, y
-
-C).- Multa, la cual será fijada por la autoridad correspondiente.
+(DEROGADO, P.O. 28 DE AGOSTO DE 1998)
 
 ###### ARTICULO 22.
 
-La autoridad correspondiente al imponer la sanción, fundará y motivará la resolución tomando en cuenta:
+(DEROGADO, P.O. 28 DE AGOSTO DE 1998)
 
-I. La gravedad de la infracción conforme a lo dispuesto a la presente Ley;
-
-II. Las condiciones socioeconómicas del infractor; y
-
-III. La calidad de reincidente el infractor.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 23.
 
-Se sancionará con multa equivalente hasta de cinco veces el salario mínimo general diario vigente en el Estado, la violación de las disposiciones contenidas en los artículos 4, 5 primer párrafo, 6 y 7.
+Las negociaciones o empresas que no acaten las disposiciones contenidas en los artículos 4 y 5 primer párrafo; 6 fracciones I, II, IV, V y VI y 7, se harán acreedores a las siguientes sanciones:
+
+I. Amonestación;
+
+II. Multa, de 2 a 200 días de salario mínimo general diario vigente en el Estado de Baja California, de acuerdo a la clasificación que se determine en el Reglamento correspondiente;
+
+III. La clausura temporal o definitiva, parcial o total del lugar.
+
+Esta sanción únicamente podrá aplicarse en el supuesto indicado en el párrafo segundo del artículo 25 de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 24.
 
-El incumplimiento de los artículos 8, provocará la aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+La autoridad correspondiente al imponer la sanción, fundará y motivará la resolución debiendo tomar en cuenta:
+
+I. La gravedad de la infracción conforme a lo dispuesto a la presente Ley;
+
+II. Las condiciones socioeconómicas del infractor, y
+
+III. La calidad de reincidente del infractor.
 
 ###### ARTICULO 25.
 
 En caso de reincidencia se duplicará el monto de la multa que corresponda. Para efectos de este artículo, se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de esta Ley o sus reglamentos dos o más veces dentro del período de un año, contado a partir de la fecha en que se le hubiere notificado la sanción inmediata anterior.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
+Las negociaciones y empresas a las que se les imponga la obligación de delimitar secciones para fumadores y no fumadores y que hagan caso omiso, se les podrá sancionar hasta con la clausura temporal o definitiva, parcial o total de la misma.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 26.
 
-La multa impuesta se comunicará a la autoridad fiscal correspondiente, para que la haga efectiva a través del procedimiento económico coactivo.
+El incumplimiento de los artículos 6 fracción III y 8, provocará la aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
-Cuando la autoridad fiscal haga efectiva la multa, deberá dar aviso a la autoridad que impuso la sanción.
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
 
-### CAPITULO VII. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO VIII. DE LOS RECURSOS
 
 ###### ARTICULO 27.
 
-El ejercicio de las facultades discrecionales por parte de las autoridades estatales y municipales, se sujetará a los siguientes criterios:
+(DEROGADO, P.O. 28 DE AGOSTO DE 1998)
 
-I. Se fundará y motivará en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos;
-
-II. Se tomarán en cuenta los riesgos que entrañe para la salud y la conveniencia de suprimir prácticas que en cualquier forma pongan en peligro la salud de las personas; y,
-
-III. Para hacer efectivas las medidas de seguridad que instrumente la Secretaría de Salud, conforme a los acuerdos celebrados con las diferentes instancias de gobierno, se deberá promover en forma permanente en el Estado, la educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 28.
 
-Cuando del contenido de un acta de inspección se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación administrativa que proceda.
+La multa impuesta se comunicará a la autoridad fiscal correspondiente, para que la haga efectiva a través del procedimiento económico coactivo.
 
-Se concede acción ciudadana para denunciar ante las autoridades sanitarias todo acto u omisión que represente un riesgo o provoque un daño a la salud de la población, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
+Cuando la autoridad fiscal haga efectiva la multa, deberá dar aviso a la Autoridad que impuso la sanción.
 
 ### CAPITULO VIII. RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 29.
 
-Contra actos y resoluciones de las autoridades de salud del Estado y de los Ayuntamientos, que con motivo de la aplicación de esta Ley den fin a una instancia, resuelvan un expediente o impongan una sanción o medida de seguridad, los interesados podrán interponer el recurso de inconformidad.
+Contra cualquier acto o resolución del Instituto de Servicios de Salud del Estado de Baja California que se emita con motivo de la aplicación de esta Ley, los interesados podrán interponer el recurso de inconformidad.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 30.
 
-El plazo para interponer el recurso será de quince días hábiles, contados a partir del día siguiente de aquel en que se hubiere notificado el acto o resolución que se recurra.
+La interposición y substanciación del recurso de inconformidad se sujetará a las normas previstas en el capítulo IV, título decimocuarto de la Ley de Salud Pública para el Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 31.
 
-El recurso se interpondrá ante la instancia estatal o municipal que hubiere dictado el acto o resolución combatido, directamente o por correo certificado con acuse de recibo. En este último caso, se tendrá como fecha de presentación la del día de su depósito en la oficina de correos.
+Los servidores públicos podrán impugnar las resoluciones que dicte el superior jerárquico, mediante el recurso previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
 ###### ARTICULO 32.
 
-En la substanciación del recurso de inconformidad se aplicará el capítulo IV, Título Decimocuarto de la Ley de Salud Pública del Estado.
+(DEROGADO, P.O. 28 DE AGOSTO DE 1998)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -300,3 +368,15 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE AGOSTO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor a partir de los diez días naturales siguientes al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado deberá adecuar el Reglamento de esta Ley a las disposiciones señaladas en el presente Decreto.
