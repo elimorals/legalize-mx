@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1992-12-30"
+last_updated: "1993-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -923,9 +923,11 @@ No se impondrán multas por omisión en el pago de contribuciones, cuando éstas
 
 Lo establecido en este Artículo no limita el ejercicio de las facultades de comprobación de las autoridades fiscales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 65.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de quince días siguientes a la fecha en que surta efectos su notificación.
+Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de treinta días siguientes a la fecha en que surta efectos su notificación.
 
 ###### ARTICULO 66.
 
@@ -1047,7 +1049,9 @@ En el caso de que la multa se pague dentro del mes siguiente a la fecha en que s
 
 Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
 
-I.- Hasta el 75% de las contribuciones omitidas cuando el infractor las pague junto con sus accesorios dentro del mes siguientes a la notificación de la resolución que determinó el monto de las mismas. No será aplicable esta fracción cuando en la comisión de la infracción se dé alguno de los supuestos de la fracción II del artículo anterior.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+I.- Hasta el 75% de las contribuciones omitidas cuando el infractor las pague junto con sus accesorios dentro de los treinta días siguientes a la fecha en que surta efectos la notificación de la resolución que determinó el monto de las mismas. No será aplicable esta fracción cuando en la comisión de la infracción se dé alguno de los supuestos de la fracción II del artículo anterior.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -1073,13 +1077,15 @@ II.- Se disminuirán:
 
 A).- En un 25% del monto de las contribuciones omitidas o del beneficio indebido, si el infractor ha hecho dictaminar por contador público autorizado sus estados financieros correspondientes al ejercicio fiscal en el cual incurrió en la infracción. Para la aplicación de la reducción contenida en este inciso en los casos de la fracción I del artículo anterior, el infractor deberá efectuar el pago en los términos de dicha fracción y solicitar la devolución del monto de la reducción, acreditando los impuestos de este inciso. No se aplicará lo dispuesto en este inciso cuando exista alguno de los agravantes señalados en la fracción II del artículo 75 de este Código.
 
-B).- En un 20% del monto de las contribuciones omitidas, o del beneficio indebido, en el caso de la fracción II del artículo 76 y siempre que el infractor pague o devuelva las contribuciones omitidas o el beneficio indebido con sus accesorios, dentro del mes siguiente a la fecha en que se le notificó la resolución respectiva.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+B).- En un 20% del monto de las contribuciones omitidas, o del beneficio indebido, en el caso de la fracción II del artículo 76 y siempre que el infractor pague o devuelva las contribuciones omitidas o el beneficio indebido con sus accesorios, dentro del mes siguiente a la fecha en que venza el plazo a que se refiere la fracción I del artículo 76.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 78.
 
-Tratándose de la omisión de contribuciones que hayan derivado de un error aritmético en las declaraciones, se impondrá una multa que será el 20% de las contribuciones omitidas y, en caso de que dichas contribuciones se paguen junto con sus accesorios dentro del mes siguiente a la fecha en que se notificó su determinación, la multa se reducirá a la mitad.
+Tratándose de la omisión de contribuciones que hayan derivado de un error aritmético en las declaraciones, se impondrá una multa que será el 20% de las contribuciones omitidas y, en caso de que dichas contribuciones se paguen junto con sus accesorios dentro de los treinta días siguientes a la fecha en que se notificó su determinación, la multa se reducirá a la mitad.
 
 ###### ARTICULO 79.
 
@@ -1093,59 +1099,45 @@ II.- No presentar los avisos al registro o hacerlo extemporáneamente.
 
 A quien cometa las infracciones relacionadas con el registro estatal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-I.- De $30,000.00 a la comprendida en la fracción I.
+I.- De N$100.00 a la comprendida en la fracción I.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-II.- De $15,000.00 a la comprendida en la fracción II.
+II.- De N$50.00 a la comprendida en la fracción II.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 81.
 
-Son infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de declaraciones, o con la expedición de constancias incompletas o con errores:
+Son infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de declaraciones, solicitudes o avisos, o con la expedición de constancias incompletas o con errores:
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+I.- No presentar declaraciones, solicitudes, avisos o constancias que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos.
 
-I.- No presentar declaraciones, avisos o constancias a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos.
+II.- No pagar contribuciones dentro del plazo que establecen las disposiciones fiscales.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
-
-II.- No pagar contribuciones dentro del plazo que establecen las disposiciones fiscales, pese a mediar requerimiento.
-
-III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1989)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 82.
 
-A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
+A quien cometa las infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
 
 I.- Para la señalada en la fracción I:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+A).- Tratándose de declaraciones, la mayor que resulte entre N$30.00 o hasta el 100% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa hasta del 100% a que se refiere este inciso.
 
-A).- Tratándose de declaraciones, la mayor que resulte entre $10,000.00 o hasta el 100% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa del 100% a que se refiere este inciso.
+B).- Tratándose de solicitudes, avisos o constancias, N$30.00 por cada una de ellas.
 
-B).- Por el incumplimiento de los requerimientos o por su cumplimiento fuera de los plazos señalados en los mismos, respecto de una misma declaración, solicitud, aviso o constancia:
+C).- Por el incumplimiento de los requerimientos o por su cumplimiento fuera de los plazos señalados en los mismos, respecto de una misma declaración, solicitud, aviso o constancia, además de las multas a que se refieren los incisos A) y B):
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+1.- De N$75.00 para el primer requerimiento.
 
-1.- De $15,000.00 para el primer requerimiento.
+2.- De N$200.00 para el segundo requerimiento
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+3.- De N$500.00 para el tercer requerimiento.
 
-2.- De $30,000.00 para el segundo requerimiento.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
-
-3.- De $60,000.00 para el tercer requerimiento.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
-
-II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre $10,000.00 o hasta el 100% de las contribuciones no pagadas.
-
-III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1989)
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre N$30.00 o hasta el 100% de las contribuciones no pagadas.
 
 ###### ARTICULO 83.
 
@@ -1169,19 +1161,29 @@ VII.- No expedir comprobante de sus actividades, cuando las disposiciones fiscal
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83 se impondrán las siguientes multas:
 
-I.- De $5,000.00 a $50,000.00 a la comprendida en la fracción I.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-II.- De $1,000.00 a $25,000.00 a las establecidas en las fracciones II y III.
+I.- De N$100.00 a N$1,000.00 a la comprendida en la fracción I.
 
-III.- De $1,000.00 a $20,000.00 a la señalada en la fracción IV.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-IV.- De $1,000.00 a $10,000.00 a la comprendida en la fracción V.
+II.- De N$50.00 a N$500.00 a las establecidas en las fracciones II y III.
 
-V.- De $3,000.00 a $40,000.00 a la señalada en la fracción VI.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+III.- De N$100.00 a N$600.00 a la comprendida en la fracción IV.
 
-VI.- De $1,000.00 a $10,000.00 a la comprendida en la fracción VII.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+IV.- De N$50.00 a N$400.00 a la señalada en la fracción V.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+V.- De N$100.00 a N$800.00 a la señalada en la fracción VI.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+VI.- De N$100.00 a N$500.00 a la comprendida en la fracción VII.
 
 ###### ARTICULO 85.
 
@@ -1191,11 +1193,11 @@ I.- Oponerse a que se practique la visita en el domicilio fiscal. No suministrar
 
 II.- No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 86.
 
-A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrá una multa de $30,000.00 a $70,000.00.
+A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrá una multa de N$50.00 a N$2,000.00.
 
 ###### ARTICULO 87.
 
@@ -1211,9 +1213,13 @@ III.- Exigir una prestación que no esté prevista en las disposiciones fiscales
 
 A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se impondrán las siguientes multas:
 
-I.- De $5,000.00 a $25,000.00 a la comprendida en la fracción I.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-II.- De $10,000.00 a $50,000.00 a las establecidas en las fracciones II y III.
+I.- De N$50.00 a N$1,000.00 a la comprendida en la fracción I.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+II.- De N$100.00 a N$2,000.00 a las establecidas en las fracciones II y III.
 
 ###### ARTICULO 89.
 
@@ -1221,17 +1227,17 @@ Son infracciones cuya responsabilidad recae sobre terceros, las siguientes:
 
 I.- Asesorar a los contribuyentes para omitir ilegalmente el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 90.
 
-A quien cometa las infracciones señaladas en el artículo 89 de este Código, se le impondrá una multa de $20,000.00 a $70,000.00.
+A quien cometa las infracciones señaladas en el artículo 89 de este Código, se le impondrá una multa de N$100.00 a N$1,000.00.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este capítulo, se sancionará con multa de $10,000.00 a $20,000.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de N$30.00 a N$100.00.
 
 ### CAPITULO II. De los Delitos Fiscales
 
@@ -1421,9 +1427,11 @@ El recurso de nulidad de notificaciones procederá en contra de las que se hagan
 
 La interposición del recurso de revocación será optativa para el interesado antes de acudir al juzgado fiscal del estado; los demás recursos administrativos deberán agotarse previamente a la promoción del juicio respectivo. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 120.
 
-El escrito de interposición del recurso deberá presentarse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los quince días siguientes a aquél en que haya surtido efectos su notificación.
+El escrito de interposición del recurso deberá presentarse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los treinta días siguientes a aquel en que haya surtido efectos su notificación.
 
 Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la oficina exactora más cercana a dicho domicilio.
 
@@ -1586,6 +1594,10 @@ Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales,
 También se podrán efectuar en el último domicilio que el interesado haya señalado para efectos del registro estatal de contribuyentes, salvo que hubiera designado otro para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
 
 Toda notificación personal, realizada con quien deba entenderse, será legalmente válida aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+Las notificaciones personales por correo certificado con acuse de recibo, podrán realizarse aún cuando el domicilio del contribuyente se encuentre fuera de la circunscripción territorial de la autoridad.
 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -2464,3 +2476,7 @@ P.O. 30 DE DICIEMBRE DE 1992.
 PRIMERO.- El presente Decreto entrará en vigor el día 1º de Enero de 1993.
 
 SEGUNDO:- Cuando con anterioridad al primero de Enero de 1993 se hubieran causado recargos sobre créditos fiscales no pagados o intereses a cargo del fisco estatal o municipal sobre cantidades que se deban devolver, que hubieren alcanzado el 100% o el 200% del importe de dichas contribuciones o cantidades a devolver, según sea el caso, para los efectos de la aplicación del segundo párrafo del artículo 22, a partir de la fecha mencionada se reanudará la causación de recargos o intereses sobre las mismas conforme al Código Fiscal del Estado, aún cuando excedan del porcentaje mencionado.
+
+P.O. 31 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día 1º de Enero de 1994.
