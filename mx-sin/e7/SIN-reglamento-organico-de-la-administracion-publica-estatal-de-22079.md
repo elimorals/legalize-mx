@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2000-02-16"
+last_updated: "2002-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2002.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -933,9 +933,13 @@ III. La Coordinación General de Comunicación Social;
 
 IV. La Coordinación de Desarrollo Tecnológico;
 
-V. La Representación del Gobierno del Estado de Sinaloa en el Distrito Federal; y,
+V. La Representación del Gobierno del Estado de Sinaloa en el Distrito Federal; y, (sic)
 
-VI. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2002)</small>
+
+VI. La Unidad para el Fomento a la Vivienda; y,
+
+VII. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
 
 ### CAPÍTULO II. DE LA SECRETARÍA PARTICULAR DEL GOBERNADOR DEL ESTADO
 
@@ -1025,7 +1029,9 @@ Al titular de esta entidad administrativa se le denominará Coordinador de Desar
 
 ### CAPÍTULO VI. DE LA REPRESENTACIÓN DEL GOBIERNO DEL ESTADO DE SINALOA EN EL DISTRITO FEDERAL
 
-### CAPÍTULO VII. DISPOSICIONES COMUNES A LAS ENTIDADES ADMINISTRATIVAS QUE DEPENDEN DEL EJECUTIVO
+### CAPÍTULO VI BIS. DE LA UNIDAD PARA EL FOMENTO A LA VIVIENDA
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2002)</small>
 
 ###### Artículo 53.
 
@@ -1043,11 +1049,37 @@ IV. Los demás que se deriven de las leyes y reglamentos aplicables o que le enc
 
 Al titular de esta entidad administrativa se le denominará Representante del Gobierno del Estado de Sinaloa en el Distrito Federal. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos que establezca su reglamento interior o que determine el presupuesto de egresos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2002)</small>
+
+### CAPÍTULO VII. DISPOSICIONES COMUNES A LAS ENTIDADES ADMINISTRATIVAS QUE DEPENDEN DEL EJECUTIVO
+
+###### Artículo 54 Bis.
+
+A la Unidad para el Fomento a la Vivienda le corresponde el despacho de los siguientes asuntos:
+
+l. Promover criterios, mecanismos y programas de fomento a la construcción de la vivienda;
+
+II. Promover la coordinación de los esfuerzos de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, en la ejecución de acciones para el desarrollo de la vivienda;
+
+III. Apoyar las acciones de fomento financiero a la vivienda, principalmente de interés social y popular;
+
+IV. Coadyuvar en la evaluación del Programa Sectorial de Vivienda, así como los programas que de él deriven y proponer, en su caso, las adecuaciones correspondientes;
+
+V. Participar en la actualización del marco legal en materia de vivienda;
+
+VI. Analizar el desarrollo de los programas federal, estatal y municipales de vivienda; y,
+
+VII. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2002)</small>
+
+###### Artículo 54 Bis
+
+1.- Al titular de esta entidad administrativa se le denominará Vocal Ejecutivo de la Unidad para el Fomento a la Vivienda. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos necesarios para el cumplimiento de sus funciones.
+
 ### CAPÍTULO I. DE SU DENOMINACIÓN
 
 ### CAPÍTULO II. DE LA PRESIDENCIA DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO
-
-### CAPÍTULO III. DEL CUERPO DE DEFENSORES DE OFICIO
 
 ###### Artículo 55.
 
@@ -1071,7 +1103,7 @@ Son aplicables a las entidades administrativas a que se refieren los Capítulos 
 
 ## TÍTULO SEXTO. DE OTRAS ENTIDADES ADMINISTRATIVAS
 
-### CAPÍTULO IV. DE LA COMISIÓN CONSTRUCTORA DE SINALOA
+### CAPÍTULO III. DEL CUERPO DE DEFENSORES DE OFICIO
 
 ###### Artículo 60.
 
@@ -1084,6 +1116,8 @@ II. El Cuerpo de Defensores de Oficio;
 III. La Comisión Constructora de Sinaloa; y,
 
 IV. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
+
+### CAPÍTULO IV. DE LA COMISIÓN CONSTRUCTORA DE SINALOA
 
 ###### Artículo 61.
 
@@ -1212,3 +1246,7 @@ Gilberto Higuera Bernal
 P.O. 16 DE FEBRERO DE 2000.
 
 Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE MARZO DE 2002.
+
+Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
