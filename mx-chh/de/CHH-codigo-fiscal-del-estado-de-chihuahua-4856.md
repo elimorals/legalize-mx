@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1995-11-18"
+last_updated: "1996-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1996.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -467,9 +467,9 @@ Sin embargo, tratándose de rezagos, o sea de ingresos que se perciban en años 
 
 54.- Las multas por infracciones fiscales deberán ser revocadas totalmente si por pruebas diversas de las presentadas ante las autoridades fiscales, se demuestra que no se cometió la infracción o que la persona a la que se le atribuye no es la responsable.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1996)</small>
 
-Los derechos y las multas por infracciones a las disposiciones fiscales podrán ser condonados por la Dirección General de Finanzas, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso. Contra esta resolución no cabrá recurso alguno.
+Las multas por infracciones a las disposiciones fiscales podrán ser condonadas por la Dirección General de Finanzas y Administración, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso; así mismo y por razones plenamente justificadas, podrán ser condonados los derechos por servicios que preste el Estado. Las condonaciones anteriormente mencionadas solo podrán realizarse de manera particular en cada caso que específicamente le sea planteado a la Dirección mencionada, y nunca con efectos generales. Contra estas resoluciones no cabrá recurso alguno.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
@@ -4412,3 +4412,7 @@ Artículo Quinto. Se derogan todas aquellas disposiciones que se opongan a la pr
 Artículo Sexto. Los propietarios o poseedores de bienes inmuebles ubicados en el territorio del Estado contarán con un plazo de un año a partir de la vigencia de esta Ley para inscribirse en el Padrón Catastral cuando no lo hayan hecho o habiéndolo hecho, ésta sea irregular, de lo contrario se harán acreedores a las sanciones previstas en este ordenamiento.
 
 Económico.- Aprobado que sea, túrnese a la Secretaría para que elabore la minuta proyecto de Decreto en los términos en que deba publicarse.
+
+P.O. 5 DE JUNIO DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
