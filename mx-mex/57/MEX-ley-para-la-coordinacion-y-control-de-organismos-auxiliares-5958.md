@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-coordinacion-y-control-de-organismos-auxiliares-595
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-24"
-last_updated: "1983-08-24"
+last_updated: "1995-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA COORDINACION Y CONTROL DE ORGANISMOS AUXILIARES Y FIDEICOMISOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 1995.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 24 de agosto de 1983.
 
@@ -65,7 +65,9 @@ Los procedimientos para la creación y modificación de la estructura y bases de
 
 Además de lo señalado en el Artículo 47 de la Ley Orgánica de la Administración Pública, los organismos descentralizados deberán reunir los siguientes requisitos:
 
-I. Que su creación haya sido aprobada por la Legislatura Estatal en los términos de lo dispuesto por el Artículo 70 Fracción XXXIX de la Constitución Política Local;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+I. Que su creación haya sido aprobada por la Legislatura o por decreto del Poder Ejecutivo en los términos que establece la Constitución Política del Estado;
 
 II. Que su patrimonio se constituya total o parcialmente con bienes, fondos y asignaciones presupuestales, subsidios o cualquier otra aportación que provenga del Gobierno del Estado, y
 
@@ -93,7 +95,9 @@ Para efectos de esta Ley, los fondos a que se refiere el presente artículo, se 
 
 Los organismos auxiliares, y fideicomisos, podrán modificar su estructura y bases de organización conforme al procedimiento que al efecto establezca el ordenamiento o acto jurídico de su creación, cuando sea necesario para mejorar el desempeño de sus funciones, el cumplimiento de sus fines o la coordinación de sus actividades.
 
-Siempre que las modificaciones afecten la estructura orgánica o presupuestal, o se reflejen en su Reglamento Interno, deberán ser aprobadas por el Gobernador del Estado a propuesta del Secretario Coordinador del sector respectivo, previa opinión de la Secretaría de Planeación o de Administración, según corresponda.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+Siempre que las modificaciones afecten la estructura orgánica o presupuestal o se reflejen en su reglamento interno, deberán ser aprobadas por el Gobernador del Estado a propuesta del titular de la dependencia coordinadora de sector respectiva, previa opinión de la Secretaría de Finanzas y Planeación o de la de Administración según corresponda.
 
 ###### Artículo 10.
 
@@ -101,9 +105,11 @@ Los Organismos auxiliares, y fideicomisos podrán extinguirse mediante el proced
 
 Tratándose de las empresas propiedad del Estado o de las que tengan participación mayoritaria, así como los fideicomisos constituidos conforme a la legislación mercantil, deberán considerarse las disposiciones que sobre el particular contemplen dichas leyes.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1995)</small>
+
 ###### Artículo 11.
 
-No obstante lo dispuesto en el artículo anterior, el Gobernador del Estado podrá disponer a propuesta o previa opinión del Secretario Coordinador del Sector que corresponda, la fusión, disolución o liquidación de cualquier entidad que no cumpla con sus fines u objeto social o cuyo funcionamiento resulte inconveniente para la economía del Estado o el interés público. En todo caso deberá recabarse la opinión fundada de la Secretaría de Planeación.
+El Gobernador del Estado podrá decretar o solicitar a la Legislatura, en su caso, a propuesta o previa opinión del titular de la dependencia coordinadora del sector que corresponda, la fusión, disolución o liquidación de cualquier entidad que no cumpla con sus fines u objeto social o cuyo funcionamiento resulte inconveniente para la economía del Estado o el interés público. En todo caso deberá recabarse la opinión fundada de la Secretaría de Finanzas y Planeación.
 
 ### CAPITULO III. Del Control y Vigilancia por parte del Ejecutivo del Estado
 
@@ -115,13 +121,17 @@ Las facultades atribuidas al Ejecutivo Estatal, en el párrafo anterior, serán 
 
 Las atribuciones señaladas se entienden sin perjuicio de las que otorga al Poder Legislativo, la Constitución Política del Estado y demás leyes aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1995)</small>
+
 ###### Artículo 13.
 
-Las Secretarías de Finanzas, Planeación y Administración, se consideran como dependencias de coordinación global y serán responsables de dictar las disposiciones administrativas y de controlar y evaluar su cumplimiento en los Organismos Auxiliares, y fideicomisos respecto de las atribuciones que en relación con los mismos le determine la Ley Orgánica de la Administración Pública y demás leyes aplicables.
+Las Secretarías de Finanzas y Planeación, de Administración y de la Contraloría, se consideran como dependencias de coordinación global y serán responsables de dictar las disposiciones administrativas y de controlar y evaluar su cumplimiento en los organismos auxiliares y fideicomisos, respecto de las atribuciones que en relación con los mismos les determine la Ley Orgánica de la Administración Pública y demás leyes aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 14.
 
-En los términos de lo dispuesto por el artículo anterior, la Secretaría de Finanzas tendrá respecto de los Organismos Auxiliares, y Fideicomisos, las siguientes atribuciones:
+La Secretaría de Finanzas y Planeación tendrá, respecto de los organismos auxiliares y fideicomisos, las siguientes atribuciones:
 
 I. Fijar los lineamientos y políticas, así como aprobar las condiciones generales de los financiamientos.
 
@@ -137,47 +147,83 @@ VI. Recabar de los organismos auxiliares y fideicomisos la información financie
 
 VII. Dictar lineamientos, para la utilización de excedentes de recursos financieros.
 
-VIII. Las demás que le determine el Gobernador del Estado, conforme a la Legislación aplicable.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+VIII. Fijar criterios para la formulación de sus programas y actividades, a fin de que se conformen a los objetivos contemplados en el Plan de Desarrollo del Estado de México y en los programas sectoriales, regionales y especiales y vigilar su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+IX. Establecer los lineamientos y políticas conforme a las cuales deben formular sus proyectos y modificaciones al presupuesto de ingresos, de egresos y de inversiones y vigilar su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+X. Vigilar que los acuerdos de coordinación que se realicen con dependencias federales, dentro de su respectivo ámbito de competencia, se lleven a cabo en el marco de los convenios respectivos;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+XI. Establecer normas para el control de su gasto público y programas de inversión, así como vigilar su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+XII. Requerir la información financiera mensual y anual de acuerdo a los lineamientos y formas de presentación establecidos por la propia Secretaría de Finanzas y Planeación, para efectos de consolidación de estados financieros y preparación de la cuenta pública;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+XIII. Requerir la información estadística necesaria para sus funciones de planeación;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+XIV. Autorizar los catálogos de cuentas para el registro de sus operaciones;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+XV. Vigilar que el ejercicio de su presupuesto de ingresos, de egresos y de inversiones se ajuste a los lineamientos y políticas emitidas en el marco de su competencia; y
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+XVI. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 15.
 
-Como dependencia de coordinación global, la Secretaría de Planeación tendrá respecto de los Organismos Auxiliares, y fideicomisos, las atribuciones siguientes:
+La Secretaría de Administración tendrá, respecto de los organismos auxiliares y fideicomisos las siguientes atribuciones:
 
-I.- Fijar criterios para la formulación de sus programas de actividades, a fin de que se conformen a los objetivos contemplados en el Plan Estatal de desarrollo y en los planes y programas sectoriales, regionales y especiales y vigilar sus cumplimiento.
+I. Emitir disposiciones para su control administrativo y en materia de estructuras orgánico - funcionales y vigilar su cumplimiento;
 
-II.- Vigilar que los acuerdos de coordinación que se realicen con dependencias federales, dentro de su respectivo ámbito de competencia, se lleven a cabo dentro del marco de los convenios respectivos.
+II. Dictar las disposiciones administrativas relativas a la adquisición, enajenación, arrendamiento y uso de bienes y la contratación de los servicios necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y, equipo en los términos de la ley de la materia;
 
-III.- Establecer los lineamientos y políticas conforme a las cuales deben formular sus proyectos y modificaciones, al presupuesto de ingresos, de egresos y de inversiones y vigilar su cumplimiento.
+III. Expedir políticas y lineamientos que permitan la revisión permanente de sus sistemas, métodos y procedimientos de trabajo, para adecuar su organización interna a los programas de gobierno;
 
-IV. Vigilar que el ejercicio de su presupuesto de ingresos, de egresos y de inversiones se ajuste a los lineamientos y políticas emitidas.
+IV. Dictar las disposiciones que normen la contratación, remuneración y prestaciones que deban efectuarse a los servidores públicos de los mismos;
 
-V. Establecer normas para el control de su gasto público y programas de inversión, así como vigilar su cumplimiento.
+V. Vigilar que los acuerdos de coordinación que se realicen con dependencias federales, dentro de su respectivo ámbito de competencia, se lleven a cabo dentro del marco de los convenios respectivos; y
 
-VI. Requerir la información financiera mensual y anual de acuerdo a los lineamientos y formas de presentación establecidos por la propia Secretaría de Planeación, para efectos de consolidación de estados financieros y preparación de cuenta pública.
+VI. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
 
-VII. Requerir la información estadística necesaria para sus funciones de información y planeación.
-
-VIII. Llevar a cabo auditorias y visitas de inspección tendientes a la supervisión de sus operaciones y control interno.
-
-IX. Autorizar los catálogos de cuentas para el registro de sus operaciones.
-
-X. Proponer al Ejecutivo del Estado el nombramiento de un comisario que deberá ser un Profesionista en las áreas contables administrativas que ejerza la vigilancia y control en las empresas de participación estatal minoritaria de los caudales públicos del Estado.
-
-XI.- Las demás que le determine el Gobernador del Estado conforme a la Legislación aplicable.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 16.
 
-La Secretaría de Administración como dependencia de coordinación global, ejercerá respecto de los organismos auxiliares, y fideicomisos, las atribuciones siguientes:
+La Secretaría de la Contraloría tendrá, respecto de los organismos auxiliares y fideicomisos las siguientes atribuciones:
 
-I. Emitir disposiciones para su control administrativo y en materia de estructuras orgánico funcionales, y vigilar su cumplimiento.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
 
-II. Dictar disposiciones administrativas relativas a la adquisición de bienes y servicios necesarios para su operación y funcionamiento así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y equipo en los términos de la Ley de la materia.
+I. Vigilar que los acuerdos de coordinación que se realicen con dependencias federales dentro de su respectivo ámbito de competencia, se lleven a cabo dentro del marco de los convenios respectivos;
 
-III. Expedir políticas y lineamientos que permitan la revisión permanente de sus sistemas, métodos y procedimientos de trabajo, para adecuar su organización interna a los programas de Gobierno.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
 
-IV. Dictar las disposiciones que normen la contratación remuneración y prestaciones que deban efectuarse al personal y funcionarios de los mismos.
+II. Vigilar que las acciones que realicen los responsables del ejercicio del presupuesto de ingresos, de egresos y de inversiones, se ajusten a los lineamientos y políticas emitidas por la Secretaría de Finanzas y Planeación;
 
-V. Los demás que le determine el Gobernador del Estado conforme a la Legislación aplicable.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+III. Llevar a cabo auditorías y visitas de inspección tendientes a la supervisión de sus operaciones y control interno;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+IV. Proponer al Ejecutivo del Estado el nombramiento de un comisario que deberá ser un profesionista en las áreas contables - administrativas que ejerza la vigilancia y control en los organismos descentralizados, empresas propiedad del Gobierno del Estado y fideicomisos; y
+
+V. Las demás que le determine el Gobernador del Estado conforme a la Legislación aplicable.
 
 ###### Artículo 17.
 
@@ -209,71 +255,43 @@ Las facultades otorgadas en el artículo anterior a los órganos de Gobierno, se
 
 ###### Artículo 22.
 
-Para efectos de la integración de los órganos de Gobierno a que se refiere este Capítulo, las Entidades y patrimonios afectados regulados por esta Ley, se dividen de la siguiente manera:
+(DEROGADO, P.O. 29 DE AGOSTO DE 1995)
 
-I. Organismos Auxiliares de primero, segundo y tercer nivel, y
-
-II. Fideicomisos.
-
-Corresponderá al Gobernador del Estado la clasificación de los organismos auxiliares y Fideicomisos en el nivel que corresponda, conforme a sus objetivos, asignaciones presupuestales, volúmenes de personal y otros criterios generales que juzgue pertinentes.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 23.
 
-Los Organos de Gobierno de los organismos auxiliares y fideicomisos sujetos a la regulación de esta Ley, se integrarán por un Presidente, un Vicepresidente, un Secretario, el número de Vocales que para cada uno de ellos previene esta Ley y un Comisario.
+Los órganos de gobierno de los organismos auxiliares y fideicomisos se integran, salvo las excepciones previstas en la ley, con:
 
-Los integrantes de los órganos de Gobierno durarán en su cargo un período máximo de dos años, al término del cual deberán ser ratificados o removidos en los términos de esta Ley con excepción del Gobernador del Estado quien permanecerá en los mismos durante todo el período de su mandato, y los representantes de los sujetos a la Ley del Instituto de Seguridad Social para los Servidores Públicos del Estado de México, de sus Municipios y de los Organismos Coordinados y Descentralizados.
+I. Un presidente, quien será el coordinador del sector al que esté adscrita la entidad;
+
+II. Un secretario, quien será designado por el órgano de gobierno a propuesta de su presidente;
+
+III. Un comisario, quien será el representante de la Secretaría de la Contraloría; y
+
+IV. El número de vocales que dispongan los actos jurídicos de creación. En todo caso habrá un vocal designado por la Secretaría de Finanzas y Planeación y otro por la Secretaría de Administración.
+
+Cuando las entidades no estén sectorizadas, el Gobernador del Estado designará al secretario que deba presidir el órgano de gobierno.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 24.
 
-En cada uno de los Organismos Auxiliares y Fideicomisos regulados por esta Ley, existirá al menos un auditor externo que no podrá tener ninguna otra relación con el Gobierno del Estado ni con el organismo en el que preste los servicios y cuyos honorarios serán aprobados por la Secretaría de Planeación y pagados por la Secretaría de Finanzas con cargo al organismo auxiliar, o fideicomiso de que se trate.
+En cada uno de los organismos auxiliares y fideicomisos regulados por esta ley, habrá por lo menos un auditor externo designado por la Secretaría de la Contraloría.
 
-La facultad de designar al o a los auditores externos es exclusiva del Secretario de Planeación.
-
-Los resultados del trabajo desarrollado por el auditor externo y los comisarios deberán ser entregados a la Secretaría de Planeación con copia a la entidad de que se trate.
-
-Los Organismos Auxiliares y Fideicomisos deberán publicar sus balances consolidados anuales en la Gaceta del Gobierno del Estado.
+Los organismos auxiliares y fideicomisos deberán publicar sus balances consolidados anuales en la Gaceta del Gobierno del Estado.
 
 ###### Artículo 25.
 
-Conforme a lo dispuesto en el artículo 23 de esta Ley, los órganos de Gobierno de los organismos auxiliares de primer nivel se compondrán de la siguiente forma:
-
-I.- La Presidencia del mismo deberá recaer en el Gobernador del Estado.
-
-II.- La Vicepresidencia, será ocupada por el Titular de la Dependencia en cuyo sector se encuentre agrupado el organismo respectivo.
-
-III.- El Secretario será designado por el Gobernador a propuesta de los Titulares de las dependencias de coordinación global, conforme a las características de cada organismo.
-
-IV.- El número de vocales, no podrá ser superior a seis y serán designados por el Gobernador del Estado a propuesta del titular de la Coordinadora del Sector correspondiente .
-
-V.- El comisario deberá ser un profesionista de las áreas contables-administrativas y será designado por el Gobernador del Estado a propuesta del Secretario de Planeación.
+(DEROGADO, P.O. 29 DE AGOSTO DE 1995)
 
 ###### Artículo 26.
 
-Los órganos de Gobierno de los organismos auxiliares de segundo nivel, se integrarán de la siguiente manera:
-
-I.- La Presidencia de dichos órganos deberá recaer en el Titular de la dependencia en cuyo sector se encuentre agrupado el organismo respectivo.
-
-II. La Vicepresidencia será ocupada por el Titular de la dependencia que designe el Gobernador del Estado, tomando en cuenta la afinidad de sus actividades con las del organismo.
-
-III.- El Secretario será designado conforme a lo señalado en el artículo que antecede.
-
-IV.- El número de vocales no podrá exceder de cuatro y serán designados en los términos de lo dispuesto en el artículo precedente.
-
-V.- El Comisario será designado conforme a lo señalado en el artículo anterior.
+(DEROGADO, P.O. 29 DE AGOSTO DE 1995)
 
 ###### Artículo 27.
 
-Los Organos de Gobierno de los organismos auxiliares de tercer nivel se integrarán de la manera siguiente:
-
-I.- La Presidencia del órgano deberá recaer en el Director que proponga al Ejecutivo del Estado, el titular de la dependencia en cuyo sector se encuentre agrupado el organismo respectivo.
-
-II.- La Vicepresidencia será ocupada por el Funcionario que proponga el Gobernador del Estado el titular de la dependencia coordinadora del sector correspondiente.
-
-III.- El Secretario será designado en los términos de lo señalado en la fracción III del artículo 25.
-
-IV.- El número de vocales no podrá exceder de cuatro y serán designados en la forma prevista en el artículo 25 fracción IV.
-
-V.- El Comisario será designado en los términos de lo señalado en la fracción V del artículo 25.
+(DEROGADO, P.O. 29 DE AGOSTO DE 1995)
 
 ###### Artículo 28.
 
@@ -285,7 +303,9 @@ A efecto de dar cumplimiento a lo señalado en el artículo 20 de esta Ley, los 
 
 I. Vincular las actividades de las entidades a las prioridades y programas estatales, sectoriales y regionales que fije el Ejecutivo del Estado a través de los planes y programas que al efecto emita.
 
-II. Responsabilizarse de la programación estratégica de la supervisión de la marcha normal de sus operaciones.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+
+II. Responsabilizarse de la programación institucional y presupuestación, así como de la supervisión de la marcha normal de sus operaciones;
 
 III. Fijar las políticas, programas, objetivos y metas de las entidades y patrimonios afectados, así como evaluar sus resultados operativos, administrativos y financieros en términos de eficiencia y eficacia.
 
@@ -293,19 +313,21 @@ IV. Vigilar que los procesos productivos y el uso de los instrumentos que permit
 
 V. Las demás que se determinen en sus respectivos ordenamientos o actos jurídicos de creación, o les asigne el reglamento que de esta Ley al efecto se expida.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1995)</small>
+
 ###### Artículo 30.
 
-Con excepción del Presidente y el Vicepresidente, por cada uno de los integrantes, los órganos de Gobierno designarán un suplente que cubrirá las ausencias temporales del titular.
-
-Las ausencias del Presidente, deberán ser cubiertas por el Vicepresidente.
+Por cada uno de los integrantes, los órganos de gobierno aprobarán un suplente propuesto por el propietario.
 
 ###### Artículo 31.
 
-Solo el Ejecutivo del Estado podrá autorizar mayor número de vocales de los previstos en esta Ley siempre que las necesidades del organismo o patrimonio afectado lo requieran.
+(DEROGADO, P.O. 29 DE AGOSTO DE 1995)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 32.
 
-Los órganos de Gobierno deberán sesionar cuando menos una vez por mes.
+Los órganos de Gobierno deberán sesionar cuando menos una vez cada dos meses.
 
 Para cada sesión deberá formularse previamente una orden del día, la cual habrá de darse a conocer a los miembros del órgano de Gobierno con la anticipación debida.
 
@@ -394,3 +416,19 @@ EL SECRETARIO DE ADMINISTRACION
 Dr. Carlos Almada López.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE AGOSTO DE 1995
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la Gaceta del Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
+
+###### ARTICULO TERCERO.
+
+Los organismos auxiliares y fideicomisos, dentro de los 180 días naturales, contados a partir de la vigencia del presente decreto, deberán ajustar su operación a lo establecido por estas disposiciones.
