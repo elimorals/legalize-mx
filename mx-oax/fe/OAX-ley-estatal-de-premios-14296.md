@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-premios-14296"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-05"
-last_updated: "1998-12-05"
+last_updated: "1999-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PREMIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1999.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 5 de diciembre de 1998.
 
@@ -91,9 +91,11 @@ Los premios podrán ser otorgados en una o más ocasiones a una misma persona, p
 
 ### CAPITULO II. DE LOS PREMIOS Y RECONOCIMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 7.
 
-Se establecen los siguientes premios que se denominarán:
+Se establecen los siguientes distintivos como merecedores de premios:
 
 I. De Ciencias, Artes y Tecnología;
 
@@ -111,6 +113,10 @@ VII. De Servicios a la Comunidad.
 
 La cuantía de los premios estará sujeta a lo previsto en el Presupuesto de Egresos del Estado.
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 1999)</small>
+
+Esta Ley determinará los campos y especialidades, dentro de los distintivos que se mencionan en este artículo, en los que estarán sujetas las conductas, actos u obras propuestas para premios.
+
 ###### ARTICULO 8.
 
 El Ejecutivo Estatal, mediante Acuerdo o Decreto, podrá adicionar o suprimir los campos que conforman los premio que la presente Ley establece.
@@ -127,7 +133,13 @@ III.- "Medalla Luis Donaldo Colosio Murrieta";
 
 IV. Diploma; y
 
-V. Placa.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1999)</small>
+
+V. Placa; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 1999)</small>
+
+VI. Estímulo en efectivo.
 
 ###### ARTICULO 10.
 
@@ -329,53 +341,91 @@ Por cada año habrá una asignación de premios. Los premios se entregarán el 2
 
 ### CAPITULO VII. PREMIO ESTATAL DE PERIODISMO Y DE INFORMACION
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 43.
 
-El Premio Estatal de Periodismo y de Información será otorgado en los siguientes campos:
+El Premio Estatal de Periodismo y de Información será otorgado en los siguiente (sic) medios y campos:
 
-I. Noticia;
+1.- PRENSA ESCRITA:
 
-II. Fotografía, vídeo y film;
+a) noticia;
 
-III. Reportajes, crónicas o entrevistas;
+b) entrevista;
 
-IV. Artículos de fondo o comentarios;
+c) crónica;
 
-V. Caricatura, portada o cartones; y
+d) reportaje;
 
-VI. Trayectoria periodística.
+e) artículo de fondo;
+
+f) fotografía; y
+
+g) caricatura.
+
+2.- RADIO:
+
+a) noticia; y
+
+b) entrevista
+
+3.- TELEVISION:
+
+a) noticia;
+
+b) entrevista; y
+
+c) reportaje.
+
+4.- TRAYECTORIA PERIODISTICA.
 
 ###### ARTICULO 44.
 
 Este premio se concederá en concurso doble; participando por una parte, personas físicas y, por el otro, las organizaciones responsables.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 45.
 
-Los premios consistirán en una Medalla al mérito periodístico denominada "Benito Juárez García". Tratándose de personas físicas, el Premio podrá incluir, adicionalmente, la cantidad en efectivo que determine el Presupuesto de Egresos del Estado.
+Las expresiones de este premio consistirán en un diploma al mérito periodístico. Tratándose de personas físicas, el premio consistirá adicionalmente de una medalla de plata denominada "Benito Juárez García" y la cantidad en efectivo que determine el Presupuesto de Egresos del Estado.
+
+El diploma y la medalla deberá incluir la alusión al premio; el nombre del galardonado; el medio y campo; y el año en que se otorga.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 46.
 
-Merecerán estos premios quienes se distingan, según lo exija la naturaleza de cada campo, por el uso correcto de los medios de expresión, tomando en cuenta la calidad, veracidad y oportunidad de las informaciones y de los artículos, así como el efecto socialmente benéfico que produzcan y considerando la estética de la presentación. En el caso del premio a la trayectoria periodística, se tomarán en cuenta los atributos de permanencia, honorabilidad y prestigio en los medios de comunicación locales o nacionales.
+Merecerán estos premios quienes se distingan, según lo exija la naturaleza de cada campo, por el uso correcto de los medios de expresión, tomando en cuenta la calidad, veracidad y oportunidad de las informaciones y de los artículos, así como el efecto socialmente benéfico que produzca y considerando la estética de la presentación. En el caso del premio a la trayectoria periodística se tomarán en cuenta los atributos de permanencia, honorabilidad y prestigio en los medios de comunicación, locales o nacionales, esta distinción se otorgará de manera especial cuando así lo determine el jurado calificador y a propuesta de las organizaciones, asociaciones o instituciones relacionados con los medios de comunicación.
 
 ###### ARTICULO 47.
 
 El otorgamiento de este premio no estará condicionado a criterios de penetración social u orientación política de los medios de comunicación que se propongan.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 48.
 
-Es libre el derecho de proponer candidaturas para cada uno de los campos en que se otorgue el premio.
+Es libre el derecho de proponer candidaturas para cada uno de los campos en que se otorgue el premio, con las excepciones que determina esta Ley.
 
 ###### ARTICULO 49.
 
 Los premios de que trata este Capítulo, se tramitarán en la Secretaría de Finanzas, por conducto de su Consejo, el cual estará integrado por el Secretario General de Gobierno, como su Presidente, la Secretaría Técnica del Poder Ejecutivo, quien fungirá como Secretario, y los consejeros serán los titulares de las dependencias y entidades directamente vinculadas con la materia del campo sujeto a premiación.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 50.
 
-Por cada año habrá una asignación de premios, de acuerdo a lo programado en el Presupuesto de Egresos del Estado, que serán entregados el 18 de julio del año correspondiente. Para su otorgamiento se tomará en cuenta la actuación durante el último año y la trayectoria periodística de los candidatos.
+Por cada año habrá una asignación de premios, de acuerdo a lo programado por el Presupuesto de Egresos del Estado, que serán entregados el 18 de julio del año correspondiente. Para su otorgamiento se tomará en cuenta la actuación durante el último año y la labor periodística de los candidatos, pudiéndose declarar desierta cualquiera de los campos determinados en el artículo 43, si a criterio del jurado calificador los candidatos no reúnen los requisitos establecidos.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 51.
 
-Habrá un Jurado que dictaminará sobre todos y cada uno de los campos en que se otorguen el Premio.
+El jurado calificador será el órgano responsable de dictaminar sobre todos y cada uno de los medios y campos en que se otorgue el premio.
+
+Este será nombrado por el Consejo a propuesta de las organizaciones, asociaciones e instituciones que estén vinculadas con los medios de comunicación. Las propuestas deberán ser de personas reconocidas en los medios de comunicación e instituciones educativas en el campo de la comunicación o el periodismo, por su honorabilidad, responsabilidad y profesionalismo.
+
+Los fallos del jurado en este premio serán inapelables.
 
 ### CAPITULO VIII. PREMIO ESTATAL DE MERITO CIVICO
 
@@ -516,3 +566,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 AL C.....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MAYO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
