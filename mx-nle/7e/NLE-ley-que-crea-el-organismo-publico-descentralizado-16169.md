@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-16169"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-12"
-last_updated: "1989-05-12"
+last_updated: "2003-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO ESTATAL DE LA JUVENTUD Y EL DEPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 9 OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 12 de mayo 1989.
 
@@ -31,15 +33,11 @@ EL CIUDADANO LIC. JORGE A. TREVIÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE 
 
 Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue :
 
-D E C R E T O N U M . 54
+D E C R E T O N U M. 54
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO ESTATAL DE LA JUVENTUD Y EL DEPORTE.
 
-C A P I T U L O I
-
-DE LA NATURALEZA Y EL OBJETO
-
-### CAPITULO II. DEL PATRIMONIO
+### CAPITULO I. DE LA NATURALEZA Y EL OBJETO
 
 ###### ARTICULO 1o.
 
@@ -57,9 +55,9 @@ I.- Formular y ejecutar planes y programas deportivos y de atención a la juvent
 
 II.- Elaborar el Programa Estatal de la Juventud y el Deporte;
 
-III.- Establecer la coordinación necesaria con los organismos federales y municipales competentes, y las demás dependencias y entidades del sector público, social y privado, a fin de impulsar el deporte y el desarrollo integral de la juventud.
+III.- Establecer la coordinación necesaria con los organismos federales y municipales competentes, y las demás dependencias y entidades del sector público, social y privado, a fin de impulsar el deporte y el desarrollo integral de la juventud;
 
-IV.- Fomentar la creación y mejoramiento de las instalaciones y servicios para la juventud y el deporte; y en su caso, administrar su operación.
+IV.- Fomentar la creación y mejoramiento de las instalaciones y servicios para la juventud y el deporte; y en su caso, administrar su operación;
 
 V.- Establecer lineamientos en materia de eventos deportivos, así como normar la participación oficial de deportistas representantes del Estado, en competencias de carácter nacional e internacional, la integración y preparación técnica de preselecciones estatales;
 
@@ -69,11 +67,11 @@ VII.- Alentar, establecer y coordinar programas que favorezcan el desenvolvimien
 
 VIII.- Los demás que le otorguen las disposiciones legales.
 
-### CAPITULO III. DEL ORGANO DE GOBIERNO
+### CAPITULO II. DEL PATRIMONIO
 
 ###### ARTICULO 4o.
 
-El Patrimonio del Organismo estará constituído por:
+El Patrimonio del Organismo estará constituido por:
 
 I.- Los bienes, muebles e inmuebles, derechos y obligaciones que pertenecen al Consejo Neolonés de Recursos para la Atención de la Juventud;
 
@@ -82,6 +80,8 @@ II.- Las aportaciones y demás ingresos que hagan a su favor los gobiernos estat
 III.- Las aportaciones, legados, donaciones y demás liberalidades que reciba del sector público, social y privado, y
 
 IV.- Los créditos, donaciones y demás bienes muebles e inmuebles y derechos que adquiera por cualquier título legal.
+
+### CAPITULO III. DEL ORGANO DE GOBIERNO
 
 ###### ARTICULO 5o.
 
@@ -109,17 +109,13 @@ VIII.- El Coordinador General de Desarrollo Municipal, con el carácter de vocal
 
 IX.- El Rector de la Universidad Autónoma de Nuevo León, con el carácter de vocal, y
 
-X.- Tres representantes del ámbito deportivo de Nuevo León, nombrados por el Gobernador del
-
-Estado; con el carácter de vocales.
+X.- Tres representantes del ámbito deportivo de Nuevo León, nombrados por el Gobernador del Estado; con el carácter de vocales.
 
 Por cada miembro propietario se designará un suplente.
 
 ###### ARTICULO 7o.
 
-La Junta de Gobierno celebrará, cuando menos, cuatro sesiones ordinarias al año, y las extraordinarias que sean necesarias a juicio del Presidente o de la mayoría de sus miembros,
-
-previa convocatoria del Secretario.
+La Junta de Gobierno celebrará, cuando menos, cuatro sesiones ordinarias al año, y las extraordinarias que sean necesarias a juicio del Presidente o de la mayoría de sus miembros, previa convocatoria del Secretario.
 
 La Junta de Gobierno podrá sesionar en la primera convocatoria con la asistencia de la mayoría de los miembros que la integran, para lo cual, el día y hora señalados, el Secretario comprobará que existe quórum, dando cuenta de ello al Presidente. Así mismo, la Junta de Gobierno podrá sesionar en segunda convocatoria con los miembros que asistan.
 
@@ -191,7 +187,7 @@ II.- Elaborar y someter a la consideración de la Junta de Gobierno los anteproy
 
 III.- Presentar trimestralmente a la Junta de Gobierno un informe de actividades, avance de programas y estados financieros, con las observaciones que estime pertinentes. Asimismo, presentará los informes que le solicite la Junta de Gobierno;
 
-IV.- Rendir a la Junta de Gobierno un Informe anual de las actividades del Organismo en el ejercicio anterior, acompañando un balance general contable y los demás datos financieros que sean necesarios.
+IV.- Rendir a la Junta de Gobierno un Informe anual de las actividades del Organismo en el ejercicio anterior, acompañando un balance general contable y los demás datos financieros que sean necesarios;
 
 V.- Representar, en su caso, al Organismo ante las dependencias y entidades públicas y las personas físicas y morales privadas con los poderes que le otorgue la Junta de Gobierno;
 
@@ -213,11 +209,9 @@ Para llevar a cabo las labores de vigilancia de la operación del Organismo, hab
 
 ###### ARTICULO 15o.
 
-Las. relaciones del Organismo con la administración centralizada se regirán por lo dispuesto en la Ley Orgánica de la Administración Pública.
+Las relaciones del Organismo con la administración centralizada se regirán por lo dispuesto en la Ley Orgánica de la Administración Pública.
 
-C A P I T U L O IV
-
-RELACIONES LABORALES
+### CAPITULO IV. RELACIONES LABORALES
 
 ###### ARTICULO 16o.
 
@@ -264,3 +258,35 @@ LIC. JORGE A. TREVIÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JOSE N. GONZALEZ PARAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE OCTUBRE DE 2003.
+
+PRIMERO.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública para el Estado de Nuevo León publicada en el Periódico Oficial del Estado de fecha 31 de julio de 1991, con sus reformas y adiciones.
+
+TERCERO.- Quedan vigentes todas las leyes, reglamentos y demás disposiciones legales, en cuanto no se opongan a la presente Ley.
+
+CUARTO.- Para el cumplimiento de esta Ley, el Ejecutivo podrá reorganizar la estructura de las dependencias, así como crear, fusionar, escindir o disolver las oficinas y departamentos necesarios, estando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos para el presente ejercicio fiscal, sin exceder los montos autorizados.
+
+QUINTO.- El personal que en aplicación de esta Ley pase a otra dependencia o entidad, conservará los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+SEXTO.- El cambio de alguna dependencia o entidad a otra, se hará incluyendo al personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos, y en general el equipo que hayan venido usando para la atención de los asuntos que tuvieren encomendados conforme a la Ley que se abroga.
+
+SÉPTIMO.- Las dependencias y entidades que se crean o modifican en virtud de la aprobación de la presente Ley, seguirán con los trámites de los asuntos relativos a su objeto y que actualmente corresponden a las autoridades que se encuentran en funciones.
+
+Para una mayor información a los gobernados y para facilitar la atención y continuidad de los asuntos que éstos hayan promovido ante la Administración Pública del Estado, las dependencias y entidades a que se hace referencia en el párrafo anterior, difundirán ante la ciudadanía los cambios de denominación, ubicación y funciones básicas de las nuevas dependencias o entidades aludidas.
+
+OCTAVO.- Cuando en esta Ley se dé una denominación nueva o distinta a alguna dependencia o entidad cuyas funciones estén establecidas por otro ordenamiento jurídico, dichas atribuciones se entenderán concedidas a la dependencia o entidad que determinen la presente Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+NOVENO.- En tanto se expidan por el Congreso del Estado las leyes, que regirán la organización y funcionamiento de los Organismos Públicos Descentralizados de Participación Ciudadana, a que se refiere el artículo 41 de la presente Ley, o el Ejecutivo, en el ámbito de su competencia emita los Decretos que contengan las disposiciones administrativas correspondientes, estas entidades ejercerán las facultades y atribuciones inherentes a su objeto, así como las previstas en otras leyes, reglamentos y demás disposiciones jurídicas, federales, estatales o municipales que regulen la materia correspondiente.
+
+Las acciones tendientes a establecer las bases y regulación jurídica de estas entidades serán presentadas por el Ejecutivo al H. Congreso del Estado en un plazo máximo de ciento ochenta días contados a partir de la fecha de inicio de vigencia de esta Ley.
+
+DÉCIMO.- Los Organismos Públicos Descentralizados de Participación Ciudadana a que se refiere el Artículo 41 de este ordenamiento, iniciarán sus actividades con los recursos humanos, materiales, financieros y demás bienes de las áreas de la Administración Central o Paraestatal cuyas atribuciones serán ahora desempeñadas por las nuevas entidades. Al efecto sus titulares coordinarán estos aspectos con el Secretario de Finanzas y Tesorero General del Estado y con el Oficial Mayor de Gobierno.
+
+DÉCIMO PRIMERO.- Para todos los efectos legales se considerará que los Organismos Públicos Descentralizados de Participación Ciudadana, al ser parte integrante del Poder Ejecutivo, tendrán su domicilio en el Estado, gozarán del carácter de autoridad y poseerán personalidad jurídica propia como sujetos de derecho público, a partir de la fecha de inicio de vigencia de la presente Ley. El titular del Ejecutivo, de conformidad con lo establecido en el Artículo 41 de esta Ley, designará a las personas que tengan el carácter de Presidente Ejecutivo o Delegado, Presidente Honorario, o de Director General o Ejecutivo de estas entidades, según el caso, en tanto se establezcan las normas que regirán la estructura y organización de estas entidades.
+
+DÉCIMO SEGUNDO.- Se abroga la Ley que crea el organismo público descentralizado denominado Instituto Estatal de la Juventud y el Deporte, publicada en el Periódico Oficial del Estado de fecha 12 de mayo de 1989; y se abroga la Ley que organiza la Comisión Estatal de Turismo, publicada en el Periódico Oficial del Estado de fecha 24 de junio de 1950.
