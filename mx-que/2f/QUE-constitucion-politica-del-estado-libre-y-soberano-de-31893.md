@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1939-07-06"
+last_updated: "1939-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 1939.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1939.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -741,17 +741,17 @@ El Congreso, cuando lo crea oportuno establecerá los juicios por Jurados, en lo
 
 Del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
 
 ###### Art. 104.
 
-El Tribunal Superior de Justicia se compondrá de tres Magistrados propietarios y tres seplentes o supernumerarios, que serán elegidos directamente por la Legislatura del Estado, dentro de los ocho días siguientes a su instalación.
+El Tribunal Superior de Jnsticia (Sic) se compondrá de tres Magistrados Propietarios y tres suplentes o Supernumerarios, que serán elegidos directamente por la Legislatura del Estado, dentro de los ocho días siguientes a su instalación. Funcionará en Sala Colegiada con los Magistrados Propietarios o con los Supernumerarios en su caso.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
 
 ###### Art. 105.
 
-Los Magistrados del Tribunal Superior de Justicia entrarán al desempeño de su cargo en la misma fecha, 1º de octubre, que el Gobernador del Estado, y durarán en sus funciones cuatro años.
+Los Magistrados del Tribunal Superior de Jnsticia (sic), entrarán al desempeño de su encargo, previa protesta ante la Legislatura o la Comisión Permanente, en la misma fecha 1ro. de octubre, que el Gobernador del Estado, y durarán en sus funciones cuatro años.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1937)</small>
 
@@ -769,11 +769,11 @@ IV.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión 
 
 V.- Tener antecedentes intachables de moralidad.
 
-> <small>(REFORMADO, P.O 26 DE DICIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
 
 ###### Art. 107.
 
-Será Presidente del Tribunal Superior de Justicia, el Magistrado Propietario que resulte electo para este cargo por la H. Legislatura. El Presidente del Tribunal será renovado cada año, pudiendo ser reelecto y sus faltas temporales serán suplidas precisamente por uno de los otros dos Magistrados Propietarios, designado en la misma forman que el anterior.
+Será Presidente del Ttribunal (sic) Superior de Justicia, el Magistrado que resulte electo para ese cargo por la misma Corporación. El Presidente del Tribunal será removido cada año, pudiendo ser reelecto, y sus faltas temporales serán suplidas precisamente por uno de los otros dos Magistrados Propietarios, designado en la misma forman que el anterior.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
 
@@ -815,23 +815,23 @@ XI.- Las demás obligaciones que les impongan las leyes.
 
 De los Jueces de Primera Instancia, Menores y Municipales.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
 
 ###### Art. 110.
 
-Los Jueces de Primera Instancia y los Municipales, serán nombrados por el Tribunal Superior de Justicia, cada vez que el caso lo requiera.
+Los Jueces de Primera Instancia y los Menores, serán nombrados por el Tribunal Superior de Justicia cada vez que el caso lo requiera. Los Jueces Municipales serán nombrados por los Ayuntamientos respectivos, dentro de los ocho días siguientes a su instalación.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
 
 ###### Art. 111.
 
-Los Jueces de Primera Instancia durarán en su encargo todo el tiempo que dure su buen comportamiento en el cargo y serán removidos por el Tribunal Superior cuando den lugar a ello previo juicios de responsabilidad seguido ante el Magistrado Propietario, pudiendo ser acusador cualquier persona ofendida, pero siempre a pedimento del C. Procurador de Justicia como Representante Social.
+Los Jueces de Primera Instancia durarán en su encargo todo el tiempo que dure su buen comportamiento en el cargo y serán removidos por el Tribunal Superior cuando den lugar a ello, previo juicio de responsabilidad seguído ante el Tribunal, pudiendo ser acusador cualquier persona ofendida, pero siempre a pedimento del C. Procurador de Justicia como representante social.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
 
 ###### Art. 112.
 
-Los Jueces Municipales durarán en su encargo todo el tiempo que dure su buen comportamiento y serán removidos por el Tribunal Superior cuando den lugar a ello, previo juicio de responsabilidad seguido ante el Magistrado Propietario pudiendo ser acusador cualquier persona ofendida.
+Los Jueces Menores y Municipales durarán en su encargo, todo el tiempo que dure su buen comportamiento y serán removidos, los primeros por el Tribunal Superior de Justicia cuando den lugar a ello, previo jnicio(sic) de responsabilidad seguido ante el mismo, pudiendo ser acusador cualquier persona ofendida y, los segundos, por los Ayuntamientos respectivos.
 
 ###### Art. 113.
 
@@ -1511,7 +1511,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
@@ -1642,3 +1642,9 @@ Los nuevos Municipios tendrán los mismo limites que actualmente tienen como Del
 ###### ARTICULO SEGUNDO.
 
 Entre tanto se convoca a elecciones se faculta al C. Gobernador del Estado, para que dicte las medidas necesarias para la organización de la Hacienda de dichos Municipios, y nombrará Juntas de Administración Civil, para cada uno de ellos.
+
+P.O. 28 DE DICIEMBRE DE 1939
+
+I.- Quedan derogadas todas las disposiciones o reformas habidas antes de la presente Ley.
+
+II.- La presente Ley entrará en vigor el día primero de enero de 1940.
