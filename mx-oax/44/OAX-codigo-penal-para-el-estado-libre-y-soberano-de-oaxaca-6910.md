@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2003-12-20"
+last_updated: "2004-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4193,6 +4193,10 @@ I.- Al que de cualquier modo amenace a otro con causarle un mal en su persona, e
 
 II.- Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho de hacer.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+
+Este delito se perseguirá a petición de parte ofendida.
+
 265.- Se exigirá caución de no ofender:
 
 I.- Si los daños con que se amenaza son leves y evitables;
@@ -5490,6 +5494,10 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones que se opongan a este decreto.
 
 Tercero.- La Exposición de Motivos se publicará en el Periódico Oficial junto con el Decreto.
+
+P.O. 12 DE ABRIL DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 ###### Artículo 10.
 
