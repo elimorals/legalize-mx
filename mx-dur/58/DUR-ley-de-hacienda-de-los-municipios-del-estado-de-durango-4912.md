@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1990-01-04"
+last_updated: "1991-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1991.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -1723,7 +1723,7 @@ Para dar principio a la construcción de cualquier fraccionamiento, las personas
 
 Los fraccionadores tienen las siguientes obligaciones:
 
-l.- Destinar el 15% de la superficie urbanizada o fraccionadora para las escuelas, parques, y jardines públicos, cediéndose en propiedad al municipio al que corresponda la expresada superficie en la cual no se computará la asignada a calles.
+I.- Destinar el 15% de la superficie urbanizada o fraccionadora para las escuelas, parques, y jardines públicos, cediéndose en propiedad al municipio al que corresponda la expresada superficie en la cual no se computará la asignada a calles.
 
 II.- Que la dependencia competente, señale con toda precisión la superficie afectable del 15% a que se refiere el punto anterior, localizándose ésta gráficamente en los planos respectivos de los cuales se reservará un ejemplar para la autoridad municipal correspondiente.
 
@@ -2993,11 +2993,11 @@ POR SERVICIO PUBLICO DE ILUMINACION.
 
 Son contribuyentes del derecho de iluminación pública en las calles, plazas, parques, jardines y demás lugares de uso común, los usuarios de las tarifas de la Comisión Federal de Electricidad 1, 1B, 1C, 2, 3, 8 y 12 publicadas, en el Diario Oficial de la Federación del día 31 de diciembre de 1986 y las que se lleguen a decretar.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 209.
 
-La tasa para determinar el monto de derecho de servicio público de iluminación, será del 5% en las tarifas 1, 1A, 1B, 1C, 2 y 3 del 6% en las tarifas 8, 12 y otras tarifas que establezca la Comisión Federal de Electricidad, las tasas de derecho de aplicación sobre la base del resultado de la aplicación de los factores de utilización de las cargas instaladas en las tarifas anteriormente mencionadas.
+La tasa para determinar el monto de derecho de Servicio Público de Iluminación, será del 4% en las tarifas 1, 1A, 1B, 1C, 2 y 3 del 7% en las tarifas 8 y 12 y otras tarifas que establezca la Comisión Federal de Electricidad, las tasas de derecho de aplicación sobre la base del resultado de la aplicación de los factores de utilización de las cargas instaladas en las tarifas anteriormente mencionadas.
 
 ###### ARTICULO 210.
 
@@ -3272,3 +3272,9 @@ El presente Decreto entrará en vigor el 1o. de Enero de 1990.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE ENERO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor e (sic) 1o. de Enero de 1991.
