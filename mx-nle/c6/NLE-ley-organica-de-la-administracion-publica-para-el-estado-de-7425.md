@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-742
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-07-31"
-last_updated: "1995-06-07"
+last_updated: "1995-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1995.
 
 Ley publicada en el Periódico Oficial, el Miércoles 31 de Julio de 1991.
 
@@ -159,11 +159,7 @@ Coordinación de Administración.
 
 X.- Oficialía Mayor de Gobierno.
 
-(REFORMADO, P.O. 20 ENERO DE 1995))
-
-Adscrita directamente al Ejecutivo existirá la siguiente unidad de apoyo y asesoría:
-
-Coordinación de comunicación social.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 17o.
 
@@ -201,7 +197,9 @@ XV.- Llevar el calendario oficial y el registro de autógrafos de los servidores
 
 XVI.- Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio;
 
-XVII.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
+
+XVII.- Informar a la comunidad de los planes, proyectos y acciones del Gobierno; reforzar a través de la comunicación los vínculos entre la sociedad civil y el Gobierno del Estado; recopilar la información que generen los medios de comunicación, elaborando compilaciones y análisis de la misma, para mantener informados oportunamente a los funcionarios; definir y coordinar las políticas de comunicación y editorial de la Administración Estatal y evaluar los procesos correspondientes.
 
 XVIII.- Mantener la relación institucional con la Comisión Agraria Mixta y atender los asuntos relacionados con las copropiedades rurales, en los términos de la Ley Reglamentaria;
 
@@ -297,9 +295,33 @@ XXI.- Recibir los programas operativos anuales elaborados por las dependencias y
 
 XXII.- Elaborar los programas estatales de Inversión y someterlos al Ejecutivo para su aprobación, observando congruencia con los planes y estrategias de Gobierno; y
 
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1995)</small>
 
-XXIII.- Las demás que le señalen las leyes reglamentos, y otras disposiciones vigentes.
+XXIII.- Expedir licencias de conducir, placas y tarjetas de circulación de vehículos.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
+
+XXIV.- Programar, realizar y celebrar los contratos relativos a las adquisiciones de bienes inmuebles para los fines de la Administración Pública del Estado, así como velar por el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos materiales del Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
+
+XXV.- Actualizar el inventario de los bienes muebles e inmuebles propiedad del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
+
+XXVI.- Establecer programas para la conservación y el mantenimiento de los bienes inmuebles del Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
+
+XXVII.- Celebrar los contratos de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales y dar las bases generales para los contratos de arrendamiento que con el mismo fin celebren las entidades y organismos del sector paraestatal.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
+
+XXVIII.- Intervenir en los términos de las leyes de la materia, en la celebración de contratos de compra-venta, comodato, donación y demás en los que se afecte el patrimonio del Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
+
+XXIX.- Las demás que le señalen las leyes, reglamentos y otras disposiciones vigentes.
 
 ###### ARTICULO 19o.
 
@@ -407,7 +429,7 @@ V.- Elaborar, por instrucciones del Ejecutivo y a solicitud de los municipios o 
 
 VI.- Proponer, en su caso, ante las autoridades hacendarías competentes, la derrama del impuesto sobre aumento de valor y mejoría específica de la propiedad, y organizar y cuantificar la colaboración de particulares en la construcción de obras públicas.
 
-VII.- Realizar los estudios técnicos catastrales.
+VII.- (DEROGADA, P.O. 30 DE JUNIO DE 1995)
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE1992)</small>
 
@@ -439,7 +461,9 @@ XVIII.- Construír las obras e instalaciones necesarias para dotar de servicio e
 
 XIX.- Previo los estudios correspondientes, proponer al Titular del Ejecutivo las tarifas del transporte público;
 
-XX.- Expedir placas, tarjetas de circulación y licencias para conducir vehículos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1995)</small>
+
+XX.- Autorizar la expedición de placas y tarjetas de circulación para vehículos destinados al transporte público local.
 
 XXI.- Garantizar la provisión del servicio público de transporte de personas de manera directa, en coordinación con organismos públicos o privados o mediante concesión a terceros que cumplan con los requisitos de seguridad, frecuencia y confort, que al efecto se establezcan;
 
@@ -597,7 +621,9 @@ VI.- Las demás que señalen las Leyes y Reglamentos.
 
 A la Oficialía Mayor de Gobierno le corresponde el despacho de los siguientes asuntos:
 
-I.- Velar por el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación a las funciones de recursos humanos, recursos materiales y servicios, así como coordinar la organización y vigilar el funcionamiento de las dependencias que ejerzan dichas atribuciones;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1995)</small>
+
+I.- Velar por el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación a las funciones de recursos humanos y servicios, así como coordinar la organización y vigilar el funcionamiento de las dependencias que ejerzan dichas atribuciones.
 
 II.- Tramitar todo lo relativo a nombramientos, promociones, cambios de adscripción, licencias, renuncias, bajas y jubilaciones de los servidores públicos, así como maneja y pagar la nomina estatal, excepto lo previsto en la fracción XI del articulo 23 Bis, de esta Ley;
 
@@ -607,23 +633,25 @@ IV.- Mantener al corriente el escalafón y el tabulador de los trabajadores al s
 
 V.- Administrar y regular el otorgamiento y pago de las pensiones;
 
-VI.- Programar y realizar las adquisiciones y el suministro de materiales, bienes muebles e inmuebles, equipos y servicios para los fines del Gobierno;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1995)</small>
+
+VI.- Programar, realizar y celebrar los contratos relativos a las adquisiciones y suministro de materiales, bienes muebles, equipos y servicios para los fines del Gobierno.
 
 VII.- LLevar el registro de proveedores y prestadores de servicios de la Administración Publica Estatal ;
 
 VIII.- Presidir el Comité de Adquisiciones de la Administración Publica Estatal;
 
-IX.- Actualizar el inventario de los bienes muebles e inmuebles propiedad del Estado;
+IX.- (DEROGADA, P.O. 30 DE JUNIO DE 1995)
 
 X.- Programar y prestar los servicios generales a las dependencias del Ejecutivo y proporcionar las bases generales para el suministro de servicios del sector paraestatal;
 
-XI.- Establecer programas para la conservación y el mantenimiento de los bienes muebles e inmuebles del Gobierno del Estado;
+XI.- (DEROGADA, P.O. 30 DE JUNIO DE 1995)
 
 XII.- Para la provisión de los servicios deberán establecerse esquemas descentralizados de administración;
 
-XIII.- Celebrar los contratos de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales y dar las bases generales para los contratos de arrendamiento que con el mismo fin celebren las entidades y organismos del sector paraestatal;
+XIII.- (DEROGADA, P.O. 30 DE JUNIO DE 1995)
 
-XIV. Intervenir en los términos de las leyes de la materia, en la celebración de contrato de compra-venta, comodato, donación y demás en los que se afecte el patrimonio del Gobierno del Estado
+XIV.- (DEROGADA, P.O. 30 DE JUNIO DE 1995)
 
 XV.- Dirigir y organizar los Talleres Gráficos del Gobierno del Estado;
 
@@ -653,23 +681,7 @@ XXIV.- Las demás que le señalen las leyes, reglamentos y otras disposiciones v
 
 ###### ARTICULO 27o.
 
-A la Coordinación de Comunicación Social corresponde el despacho de los siguientes asuntos:
-
-I.- Informar a la comunidad de los planes, proyectos y acciones del Gobierno;
-
-II.- Diseñar y mantener un proceso dinámico de consulta de opinión ciudadana para medir el impacto real de la información noticiosa difundida, la efectividad de los medios utilizados, conocer la actitud de la ciudadanía ante acciones realizadas o por realizarse y la imagen de las instituciones, sus titulares, programas y acciones;
-
-III.- Establecer nuevas alternativas de comunicación y difusión en la actividad de la Administración Pública Estatal;
-
-IV.- (DEROGADA, P.O. 15 DE JUNIO DE 1994)
-
-V.- Recopilar la información que generen los medios de comunicación, elaborando compilaciones y análisis de la misma, para mantener enterados oportunamente a los funcionarios;
-
-VI.- Reforzar a través de la comunicación los vínculos entre la sociedad civil y el Gobierno del Estado;
-
-VII.- Definir y coordinar la política de comunicación de la Administración Pública Estatal;
-
-VIII.- Definir y coordinar la política editorial de la Administración Pública Estatal;
+(DEROGADO, P.O. 30 DE JUNIO DE 1995)
 
 ## TITULO CUARTO. DE LOS ORGANISMOS PARAESTATALES DEL PODER EJECUTIVO
 
@@ -850,3 +862,29 @@ SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PR
 PRIMERO:- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 QUINTO:- Se derogan las fracciones IX, X y XI del artículo 23 de la Ley Orgánica de la Administración Pública para el Estado y todas las disposiciones que contravengan lo establecido por esta Ley.
+
+P.O. 30 DE JUNIO DE 1995.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTICULO TERCERO
+
+- Las atribuciones y demás facultades que otras leyes, reglamentos y disposiciones generales otorguen a la Coordinación de Comunicación Social, se entienden conferidas a la Secretaría General de Gobierno.
+
+###### ARTICULO CUARTO
+
+- Los recursos humanos, financieros y materiales con que cuentan las unidades administrativas de la Coordinación de Comunicación Social, se transfieren por virtud de este decreto a la Secretaría General de Gobierno, a fin de apoyar el cumplimiento de los programas y metas que le corresponden.
+
+###### ARTICULO QUINTO
+
+- Los recursos humanos, financieros y materiales con que cuenta la unidad administrativa de la Oficialía Mayor de Gobierno del Estado en materia de Patrimonio, se transfieren por virtud de este decreto a la Secretaría de Finanzas y Tesorería General del Estado, a fin de apoyar el cumplimiento de los programas y metas que le corresponden.
+
+###### ARTICULO SEXTO
+
+- Las facultades que la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para la Administración Pública el Estado y demás disposiciones aplicables otorgan a la Oficialía Mayor de Gobierno en materia de inmuebles, así como de enajenación e inventario de bienes muebles, en virtud de este Decreto se confieren a la Secretaría de Finanzas y Tesorería General del Estado.
