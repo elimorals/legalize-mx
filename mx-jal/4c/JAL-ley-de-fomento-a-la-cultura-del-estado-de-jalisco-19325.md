@@ -1,0 +1,686 @@
+---
+title: "LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO"
+identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
+country: "mx"
+rank: "ley"
+publication_date: "2000-12-21"
+last_updated: "2000-12-21"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-jal"
+scjn_id: "19325"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "DECRETO"
+original_gazette_section: "9 SECCION II"
+reform_count: "19"
+scjn_last_update: "2021-04-15"
+issue_date: "2000-11-29"
+state: "JAL"
+---
+# LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO
+
+LEY DE FOMENTO A LA CULTURA
+
+TEXTO ORIGINAL
+
+Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
+
+Al margen un sello que dice: Gobierno del Estado de Jalisco, Poder Ejecutivo, Secretaria General de Gobierno. Estados Unidos Mexicanos.
+
+Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
+
+NUMERO 18673.- EL CONGRESO DEL ESTADO DECRETA:
+
+LEY DE FOMENTO A LA CULTURA
+
+###### ARTICULO PRIMERO.
+
+Se modifica el Diverso 18435 que crea la Ley Fomento a la Cultura, con base a las observaciones que formuló el ciudadano Gobernador Constitucional del Estado, ingeniero Alberto Cárdenas Jiménez, en ejercicio de la facultad que le confiere el artículo 33 de la Constitución Política del Estado de Jalisco, para quedar como sigue:
+
+## TITULO PRIMERO. DISPOSICIONES GENERALES
+
+### Capítulo Único
+
+###### Artículo 1.
+
+Las disposiciones de esta ley son de orden público y de observancia general y obligatoria en el territorio del Estado de Jalisco
+
+Es objeto de esta ley, regular las acciones del Estado que fomenten y desarrollen la cultura en sus manifestaciones artísticas, artesanales, costumbres y tradiciones populares.
+
+###### Artículo 2.
+
+La presente ley tiene como objetivos, los siguientes:
+
+I. Generar las condiciones para la promoción, fomento y difusión de las manifestaciones culturales y artísticas con el fin de facilitar el acceso a ellas a todos los individuos de la sociedad;
+
+II. Establecer, ejecutar y evaluar la política cultural del Estado que servirá como base y fundamento para la elaboración de los planes y programas estatales en materia de cultura, conforme a los siguientes criterios: ..
+
+a). Procurar la satisfacción de las necesidades artísticas de los habitantes del Estado;
+
+b). Fortalecer la identidad cultural de los jaliscienses;
+
+c). Dar prioridad a las manifestaciones culturales de Jalisco;
+
+d). Equilibrar la asignación de recursos por área artística, debiendo considerar el grado de desarrollo de las artes y la necesidad de apoyos de los artistas y cuidar que los gastos administrativos sean los menos;
+
+e). Garantizar la creación y permanencia de los grupos artísticos profesionales organizados por el Estado; y
+
+f). Garantizar el cuidado, mantenimiento y conservación de la infraestructura cultural del Estado;
+
+III. Establecer los mecanismos de coordinación, vinculación y coparticipación entre los gobiernos Federal, Estatal, municipales, organizaciones culturales y la sociedad en general;
+
+IV. Promover la participación de los individuos, grupos, instituciones y organizaciones de los sectores social y privado en la promoción, fomento y difusión en materia de cultura;
+
+V. Establecer y desarrollar mecanismos financieros, destinados a proveer de apoyos a las actividades culturales en materia del presente ordenamiento legal, diferentes del presupuesto ordinario que el ejecutivo estatal destine a estos fines;
+
+VI. Fijar las bases para otorgar becas, reconocimientos y estímulos económicos en apoyo a la realización artística y cultura; y
+
+VII. Definir la competencia de la autoridad estatal y municipal en materia cultural.
+
+###### Artículo 3.
+
+Para los efectos de esta ley, se entiende por:
+
+I. Secretaría: La Secretaría de Cultura del Estado de Jalisco;
+
+II. Sistema: El Sistema Estatal de Cultura;
+
+III. Consejo: El Consejo Estatal para la Cultura y las Artes;
+
+IV. Ley: La Ley para el Fomento de la Cultura del Estado de Jalisco;
+
+V. Dependencia municipal: El órgano técnico y administrativo del gobierno municipal competente para promover, fomentar y difundir las manifestaciones y valores culturales propios del municipio;
+
+VI. Programa: El Programa Estatal de Cultura;
+
+VII. Programa Municipal: El Programa Municipal de Cultura;
+
+VIII. Industria cultural: Las industrias editorial, disquera, de las artes gráficas, cinematográfica, de la radio y televisión, así como todas aquellas empresas que ofrezcan bienes o servicios pertenecientes al campo de las bellas artes; y
+
+IX. Creador: Autor, interprete o ejecutante artístico.
+
+## TITULO SEGUNDO. DE LAS COMPETENCIAS Y ATRIBUCIONES DE LAS AUTORIDADES
+
+### Capítulo I. De las Autoridades
+
+###### Artículo 4.
+
+Son autoridades encargadas de la aplicación de la presente ley:
+
+I. El Gobernador del Estado de Jalisco;
+
+II. La Secretaría;
+
+III. Los Municipios; y
+
+IV. Los organismos públicos descentralizados y desconcentrados en materia cultural.
+
+### Capítulo II. De las atribuciones de las autoridades
+
+###### Artículo 5.
+
+Son atribuciones y obligaciones del Gobernador del Estado en materia de cultura:
+
+I. Proponer los objetivos y estrategias para la preservación, investigación, promoción, fomento y difusión de la cultura;
+
+II. Aprobar y publicar el Programa Estatal de Cultura;
+
+III. Promover, fomentar y difundir, en su ámbito de competencia, las manifestaciones culturales en el Estado;
+
+IV. Procurar la asignación de recursos presupuestales crecientes en términos reales para el financiamiento de las actividades culturales;
+
+V. Celebrar con los gobiernos federal, municipales y de otras entidades federativas, así como con las personas físicas o jurídicas, los convenios que favorezcan el desarrollo cultural y artístico de la entidad;
+
+VI. Nombrar, en el ámbito de su competencia, a los integrantes del Consejo;
+
+VII. Dictar los acuerdos administrativos necesarios para la eficaz coordinación y ejecución de programas culturales que realicen las dependencias y organismos dependientes del Gobierno del Estado; y
+
+VIII. Las demás que le otorgue la legislación aplicable.
+
+###### Artículo 6.
+
+Sin menoscabo de las atribuciones previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, corresponde a la Secretaría lo siguiente:
+
+I. Ejecutar la política cultural del Estado;
+
+II. Elaborar, ejecutar y evaluar el Programa Estatal de Cultura, con la participación del Sistema y con el auxilio del Consejo;
+
+III. Realizar las acciones necesarias para promover, preservar, divulgar y fomentar las diversas manifestaciones culturales y artísticas del estado, así como realizar las investigaciones pertinentes para un mejor conocimiento de aquellas;
+
+IV. Diseñar, operar y evaluar, en coordinación con la Secretaría de Educación Jalisco, los programas de educación artística e investigación estética; así como de promoción y fomento del libro y la lectura;
+
+V. Promover estrategias de financiamiento y programas de estímulos fiscales a personas físicas y jurídicas que destinen recursos a las actividades culturales que son objeto de esta ley, diseñando, inclusive, los mecanismos adecuados para expedir recibos deducibles de impuestos para apoyar el mecenazgo por particulares;
+
+VI. Promover ante la Secretaría de Desarrollo Urbano, la ampliación de infraestructura, construcción de espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas; así como encargarse de la conservación, equipamiento y de las mejoras físicas y tecnológicas de espacios públicos con usos y destinos para el cumplimiento de los fines de la presente ley;
+
+VII. Participar con la Secretaría de Turismo del Gobierno del Estado en la realización de programas turísticos destinados al disfrute y conocimiento del patrimonio cultural, así como de las manifestaciones artísticas del Estado;
+
+VIII. Participar con la Dirección General de Trabajo y Previsión Social del Gobierno del Estado, en la realización de programas destinados al fomento de la cultura en el sector laboral;
+
+IX. Organizar y administrar el Registro Estatal de Creadores y los registros de promotores culturales, así como de espacios físicos destinados a actividades de fomento cultural y artístico. Para tal efecto, solicitará a los ayuntamientos los registros y directorios municipales, con la finalidad de establecer una red de información y coordinación cultural;
+
+X. Proponer al titular del Poder Ejecutivo la celebración de los convenios de colaboración con las dependencias del gobierno federal, los municipios de la entidad, otras entidades federativas y sus municipios, los particulares, las asociaciones civiles y organizaciones sociales con el fin de impulsar actividades conjuntas en materia de fomento cultural;
+
+XI. Gestionar en apoyo al titular del Poder Ejecutivo la asignación de inmuebles decomisados a responsables de delito, con el fin de que se destinen a actividades culturales;
+
+XII. Realizar las acciones necesarias a efecto de fortalecer, ampliar y mejorar el sistema de bibliotecas públicas de la entidad;
+
+XIII. Elaborar y ejecutar la política editorial del Estado en materia cultural, considerando las propuestas que para tal fin proponga el Consejo a través de la Comisión Estatal de Fomento al Libro y la Lectura;
+
+XIV. Agilizar y optimizar los procesos de obtención de recursos provenientes de programas federales en materia cultural;
+
+XV. Promover con organismos culturales y artísticos la realización de eventos, ferias, concursos, exposiciones, festivales y otras actividades análogas que sirvan de promoción, fomento y divulgación de la cultura, el arte y las tradiciones populares;
+
+XVI. Procurar, en coordinación con la Secretaría de Educación, el desarrollo de las capacidades y potencialidades artísticas de la población, así como favorecer su acceso a la cultura y las artes;
+
+XVII. Presentar ante el titular del Poder Ejecutivo del Estado, los proyectos de reglamentos necesarios para el adecuado cumplimiento de la presente ley;
+
+XVIII. Diseñar y operar estrategias para impulsar la creación de mecenazgos, fundaciones, patronatos y similares orientados al apoyo de creadores e intérpretes artísticos y para la conformación de acervos bibliográficos, documentales pictóricos, escultóricos, arquitectónicos, gráficos, videográficos, artesanales y afines; y
+
+XIX. Las demás que le otorguen los ordenamientos jurídicos aplicables.
+
+###### Artículo 7.
+
+Corresponde a los Municipios en su ámbito de competencia:
+
+I. Establecer las directrices municipales en materia de cultura, previa consulta a la comunidad cultural del municipio;
+
+II. Procurar la creación de una dependencia municipal que tenga como funciones únicas las de llevar a la práctica los programas y acciones contenidas en el Programa Municipal de Cultura;
+
+III. Celebrar los convenios necesarios con las instancias públicas estatales y federales, así como con las personas físicas o jurídicas de carácter privado, para la adecuada coordinación de las actividades culturales del municipio;
+
+IV. Elaborar y ejecutar programas para el desarrollo de las actividades culturales dentro del territorio municipal;
+
+V. Fomentar la integración de organismos privados y sociales de promoción y divulgación de la cultura;
+
+VI. Fomentar la investigación de las manifestaciones culturales propias del municipio, sus ferias, tradiciones y costumbres;
+
+VII. Expedir los reglamentos en el ámbito de su competencia que normen la actividad cultural en el territorio municipal;
+
+VIII. Otorgar premios, reconocimientos o estímulos a los individuos, organizaciones e instituciones públicas o privadas que se hayan destacado en la creación, promoción, preservación, difusión e investigación de la cultura en el ámbito de su jurisdicción;
+
+IX. Promover, en el ámbito de su competencia, las modalidades de descuento, pago de medio boleto o ingreso gratuito un día por semana a las representaciones teatrales, cinematográficas, ópera, ballet, danza y demás espectáculos públicos de carácter artístico o cultural;
+
+X. Estimular la integración de Consejos Municipales para el Fomento de la Cultura, con la participación de la comunidad cultural, y los sectores sociales, privado y público;
+
+XI. Elaborar y mantener actualizado el registro y el directorio de las personas físicas o jurídicas que se dediquen al arte, tanto en la creación, fomento, apoyo, promoción como que dispongan de espacios apropiados para desarrollar actividades culturales en el municipio;
+
+XII. Elaborar y mantener actualizado un inventario de los espacios públicos con que cuenta el municipio para la realización de actividades culturales y artísticas;
+
+XIII. Impulsar y proyectar en el ámbito estatal, nacional e internacional, en la medida de sus posibilidades, a los artistas municipales más destacados;
+
+XIV. Procurar la creación de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros y centros culturales, así como procurar la ampliación, mantenimiento y mejoras físicas y tecnológicas; y
+
+XV. Conocer, analizar y resolver las solicitudes o peticiones que presenten personas físicas o jurídicas dedicadas a las actividades culturales, para la utilización de los espacios públicos con que cuenta el municipio.
+
+###### Artículo 8.
+
+Los programas municipales deberán elaborarse con la participación ciudadana y contener cuando menos:
+
+I. Los Objetivos y Estrategias a desarrollar en la promoción, divulgación, fomento e investigación de la cultura;
+
+II. Las actividades para lograr los objetivos propuestos;
+
+III. Un proyecto de presupuesto que permita un adecuado y eficiente ejercicio de los recursos; y
+
+IV. Los procedimientos de evaluación y revisión pertinentes para su mejora.
+
+###### Artículo 9.
+
+Las autoridades encargadas de la aplicación de esta ley, procurarán coordinarse para la elaboración de los programas estatal y municipales, y para su aplicación en el ámbito respectivo, a fin de que la política cultural en la Entidad sea eficiente y eficaz.
+
+## TITULO TERCERO. DEL SISTEMA ESTATAL DE CULTURA
+
+### Capítulo I. De la integración y atribuciones del sistema
+
+###### Artículo 10.
+
+El Sistema es la instancia que servirá de vinculación y coordinación entre las autoridades estatales y municipales en materia cultural y estará integrado por:
+
+I. El titular de la Secretaría, quien será el Presidente y que no podrá delegar o designar representante;
+
+II. El titular o un representante de:
+
+a) La Secretaría de Educación;
+
+b) La Secretaría de Turismo;
+
+c) La Secretaría de Promoción Económica;
+
+d) La Secretaría de Desarrollo Urbano;
+
+e) El Instituto de la Artesanía Jalisciense;
+
+f) El Instituto Cultural Cabañas;
+
+g) El Patronato de las Fiestas de Octubre;
+
+h) El Sistema Jalisciense de Radio y Televisión;
+
+i) El Consejo Estatal de la Cultura y las Artes;
+
+j) El Archivo Histórico del Estado;
+
+k) La Dirección General de Trabajo y Previsión Social del Estado;
+
+l) El Comité Técnico de la Orquesta Filarmónica de Jalisco;
+
+m) Uno de cada una de las regiones que conforman el Estado de Jalisco; y
+
+n) El Colegio de Jalisco.
+
+Por cada representante de las dependencias o entidades, éstas designarán un suplente. El cargo de representante en el Sistema será honorífico y, por tanto, no remunerado. Todos los miembros participarán con derecho a voz y voto.
+
+Los representantes de las regiones del Estado serán designados por acuerdo de los municipios integrantes de cada región.
+
+###### Artículo 11.
+
+El Sistema contará con un secretario ejecutivo que será designado por mayoría de votos de entre sus propios integrantes a propuesta del presidente.
+
+###### Artículo 12.
+
+Los objetivos del Sistema serán los siguientes:
+
+I. Proponer a las autoridades que de manera eficiente se aprovechen los recursos e infraestructura de los bienes y servicios culturales que presta el Estado;
+
+II. Proponer mecanismos coordinados para asegurar el rescate, promoción, preservación, difusión, fomento e investigación, de la cultura y las artes;
+
+III. Participar en los programas y proyectos culturales que involucren la participación de los distintos entes públicos, privados y sociales; y
+
+IV. Participar en la elaboración de los programas estatal y municipales de cultura.
+
+###### Artículo 13.
+
+Para el cumplimiento de sus objetivos, el Sistema tendrá las siguientes atribuciones:
+
+I. Proponer a las distintas entidades públicas, las acciones convenientes para aprovechar los recursos e infraestructura con que se cuenta para la promoción y el fomento de la cultura y las artes;
+
+II. Participar en la programación de las actividades culturales a realizarse en la Entidad y proponer la celebración de convenios de colaboración que den impulso a la política cultural del Estado;
+
+III. Proponer los programas y convenios necesarios con las universidades, organismos sociales y privados, para fortalecer la política cultural de la entidad; y
+
+IV. Las demás que establezca esta Ley y su Reglamento.
+
+### Capítulo II. De las sesiones
+
+###### Artículo 14.
+
+Los integrantes del Sistema deberán reunirse en sesión ordinaria cada dos meses conforme a las fechas fijadas por el calendario que al efecto aprueben, y en sesión extraordinaria, cada vez que para ello sea convocado por su Presidente o por una tercera parte de sus integrantes.
+
+###### Artículo 15.
+
+Las sesiones del Sistema serán válidas con asistencia de la mitad más uno de sus miembros; sí se trata de sesión extraordinaria, será indispensable notificar con veinticuatro horas de anticipación a la celebración de la misma, además de que exista el quórum necesario.
+
+Las decisiones del Sistema serán válidas con la aprobación de la mayoría de los miembros asistentes.
+
+El Presidente del Sistema tendrá voto de calidad en caso de empate.
+
+###### Artículo 16.
+
+Las sesiones del Sistema se asentarán en actas dentro del libro oficial, mismas que serán firmadas por los que en ellas hayan intervenido.
+
+## TITULO CUARTO. DEL PROGRAMA ESTATAL DE CULTURA
+
+### Capítulo Único
+
+###### Artículo 17.
+
+El Programa Estatal deberá ser elaborado de conformidad con las disposiciones legales vigentes en materia de planeación y contener, cuando menos:
+
+I. Los objetivos y estrategias a desarrollar en la promoción, divulgación, fomento e investigación de la cultura;
+
+II. Los programas generales para el desarrollo de las actividades culturales y artísticas del Estado, en lo que respecta a creación, investigación, preservación, promoción y difusión; en los aspectos de ampliación y mejoramiento de infraestructura, fomento a la industria cultural, financiamiento complementario y sistema de incentivos fiscales; y en los ámbitos municipal, regional y estatal;
+
+III. Los programas específicos en materia de cultura y tradiciones populares; cultura indígena; y fomento al libro y la lectura; y
+
+IV. Los procedimientos de evaluación adecuados para determinar el cumplimiento de los objetivos planeados.
+
+###### Artículo 18.
+
+Para la elaboración del Programa Estatal deberán considerarse los requerimientos de las diversas regiones del Estado y sus municipios, procurando evitar duplicidad de acciones y en aras de darles mayor eficacia.
+
+El Consejo convocarán (sic) a la sociedad en general, a la comunidad cultural y artística en particular, a participar con propuestas en la elaboración del Programa Estatal, las cuales deberá presentar a consideración de la Secretaría.
+
+## TITULO QUINTO. DEL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES
+
+### Capítulo Unico
+
+###### Artículo 19.
+
+El Consejo es un organismo público desconcentrado de la Secretaría, con funciones deliberativas, propositivas y de consulta, que funge como espacio de vinculación entre las autoridades culturales y la sociedad.
+
+###### Artículo 20.
+
+El Consejo se integrará por los siguientes miembros:
+
+I. Un presidente, que será electo de entre los consejeros por las dos terceras partes del Consejo, y cuyo encargo durará tres años, pudiendo ser ratificado por un período igual;
+
+II. Un Secretario Ejecutivo, nombrado y removido por el Consejo, a propuesta del Presidente, con voz pero sin voto;
+
+III. Un representante de las siguientes dependencias y entidades estatales:
+
+a) Secretaría de Cultura;
+
+b) Secretaría de Educación;
+
+c) Secretaría de Turismo;
+
+d) Secretaría de Finanzas;
+
+e) Secretaría de Desarrollo Urbano;
+
+f) El organismo en materia indígena; y
+
+g) Sistema Jalisciense de Radio y Televisión;
+
+IV. Los representantes por cada una de las manifestaciones culturales y artísticas que a continuación se mencionan:
+
+a) Tres representantes de artes plásticas;
+
+b) Tres representantes de cine y video;
+
+c) Tres representantes de danza;
+
+d) Tres representantes de teatro;
+
+e) Tres representantes de letras;
+
+f) Tres representantes de música;
+
+g) Tres representantes de artesanías;
+
+h) Tres representantes de cultura popular; y
+
+i) Tres representantes de culturas indígenas.
+
+Se procurará un equilibrio entre los intérpretes, ejecutantes, directores, autores, compositores, promotores, académicos e investigadores, quienes deberán contar con un prestigio ante la comunidad cultural del Estado; conocer la situación del quehacer artístico regional y ser residentes del Estado de Jalisco.
+
+Los Consejeros que se enuncian en esta fracción serán designados por el titular del Poder Ejecutivo, previa consulta a la comunidad cultural, a través de convocatoria pública que al efecto se formule. Durarán en su cargo tres años, pudiendo ser ratificados por una única vez y por un período igual.
+
+En caso de ausencia injustificada de los miembros del Consejo que representan a la comunidad cultural, el titular del Poder Ejecutivo podrá sustituirlos, siguiendo el mismo mecanismo de designación;
+
+V. Un representante de la Universidad de Guadalajara;
+
+VI. Un representante del Colegio de Jalisco;
+
+VII. Un representante de la Benemérita Sociedad de Geografía y Estadística, Capítulo Jalisco; y
+
+VIII. Los ganadores del Premio Jalisco de Artes y de Literatura, quienes formarán parte del Consejo por el término de un año, a partir de la fecha en que se le otorgó.
+
+El cargo de consejero será honorífico y por lo tanto no remunerado, con excepción del Presidente y el Secretario Ejecutivo del Consejo, quienes recibirán la remuneración que se establezca en el Presupuesto de Egresos vigente.
+
+En el Reglamento de esta Ley se establecerán las disposiciones relativas al funcionamiento interno del Consejo.
+
+###### Artículo 21.
+
+Corresponde al Consejo:
+
+I. Auxiliar a la Secretaría y al Sistema en la elaboración de las directrices del Programa Estatal;
+
+II. Ejercer funciones de asesoría y consulta sobre el diseño de programas y acciones que le sean presentado por el Secretario de Cultura, o en su caso por los municipios;
+
+III. Participar en las evaluaciones cuando menos cada año, respecto a la ejecución de los programas y acciones contenidos en el Programa Estatal de Cultura;
+
+IV. Otorgar apoyos, becas, estímulos y reconocimientos a efecto de fomentar la creación artística en el Estado, los cuales se canalizarán a través del Sistema Estatal de Creadores;
+
+V. Participar junto con la Secretaría, en la figura jurídica que establezca el Ejecutivo para el ejercicio de los recursos constitutivos del Fondo Estatal para la Cultura y las Artes;
+
+VI. Resolver las solicitudes de apoyo para la realización de proyectos que le sean remitidas, previo dictamen elaborado por las Comisiones que al efecto integre;
+
+VII. Recabar la opinión de la comunidad cultural y demás sectores de la sociedad respecto a la política cultural del Estado, la cual hará del conocimiento de las autoridades competentes;
+
+VIII. Proponer criterios de coordinación y ejecución de acciones que permitan incrementar la acción gubernamental en materia de cultura;
+
+IX. Realizar propuestas para integrar los programas relativos a la preservación y fortalecimiento de las culturas indígenas y populares del Estado;
+
+X. Asesorar, promover y en su caso gestionar ante las autoridades competentes descuentos, deducciones, donaciones y cualquier otro estímulo económico en materia de fomento cultural, previa solicitud de la persona física o jurídica que realice o patrocine este tipo de actividades;
+
+XI. Integrar la Comisión de Fomento al Libro y la Lectura, con los integrantes y atribuciones que se establezcan en el reglamento de la presente ley; y
+
+XII. Las demás que establezcan los ordenamientos jurídicos aplicables.
+
+###### Artículo 22.
+
+El Consejo sesionará en forma ordinaria y extraordinaria. Celebrará tres sesiones ordinarias en el año y las extraordinarias que sean necesarias, previa convocatoria de su Presidente o de una tercera parte de sus integrantes.
+
+###### Artículo 23.
+
+Para la realización de sus fines, el Consejo contará con los siguientes recursos y apoyos:
+
+I. Los bienes que le sean destinados por la Secretaría; y
+
+II. El personal administrativo que le sea comisionado por la Secretaría.
+
+## TITULO SEXTO. DEL FONDO ESTATAL PARA LA CULTURA Y LAS ARTES
+
+### Capítulo I. De su Integración y fines
+
+###### Artículo 24.
+
+Se crea el Fondo Estatal de Fomento a la Cultura y las Artes con el propósito de financiar proyectos de creación, investigación, preservación, promoción y difusión artística y cultural.
+
+###### Artículo 25.
+
+El Fondo se constituirá con las siguientes aportaciones:
+
+I. La partida anual que se determine en el presupuesto del Estado;
+
+II. Herencias, legados o donaciones;
+
+III. Los créditos que se obtengan a su favor por el sector público o privado;
+
+IV. Los apoyos de organismos e instituciones nacionales o extranjeras;
+
+V. Otros recursos que determine el Ejecutivo del Estado de conformidad con el presupuesto; y
+
+VI. Las aportaciones federales y municipales que ingresen al Fondo se harán de acuerdo a los convenios que se suscriban con dichas entidades.
+
+###### Artículo 26.
+
+El objeto del Fondo será el otorgamiento de apoyos económicos a fin de:
+
+I. Sustentar la operación, sostenimiento y ampliación del Sistema Estatal de Creadores;
+
+II. Impulsar el desarrollo y ejecución de proyectos artísticos y culturales de creación, investigación, promoción y difusión de la cultura y las artes;
+
+III. Incrementar el patrimonio cultural del Estado; y
+
+IV. Apoyar actividades cuyo fin sea el rescate, preservación y desarrollo de la cultura propia de los grupos y sectores populares.
+
+Al financiamiento de los proyectos de creación, investigación, preservación, promoción y difusión artística y cultural podrán aspirar todos los interesados mexicanos residentes en el Estado que cumplan con los requisitos que se establezcan en las convocatorias respectivas.
+
+### Capítulo II. De los criterios y bases para el otorgamiento de apoyos
+
+###### Artículo 27.
+
+Los recursos que integran el Fondo se asignarán de conformidad con los criterios y bases siguientes:
+
+I. Se canalizarán a solicitud expresa de los interesados, previa convocatoria que expida el Consejo, pública, abierta y con base en el proyecto que al efecto se presente;
+
+II. Se procurará apoyar cada una de las disciplinas artísticas, sin menoscabo de la calidad de los proyectos, garantizándose un adecuado equilibrio entre la necesidad de cada expresión cultural y el grado de desarrollo de ésta;
+
+III. Se dará preferencia a los proyectos que contribuyan a la descentralización de la actividad cultural o sean presentados por los integrantes del Sistema Estatal de Creadores;
+
+IV. En ningún caso, se dará apoyo para la ejecución de proyectos, cuya realización genere utilidades en beneficio de entidades que tengan objeto de lucro;
+
+V. La asignación de los apoyos se dará cada año, de conformidad con los recursos que al efecto se determinen en el presupuesto anual del Gobierno del Estado;
+
+VI. El procedimiento de selección de personas físicas o jurídicas a las cuales se les otorguen los apoyos, será competitivo, eficiente, equitativo y público, de conformidad con el reglamento que se expida para tal fin;
+
+VII. Las solicitudes serán estudiadas y dictaminadas por las Comisiones que al efecto se formen, a invitación del Consejo Estatal, que se integrarán por no menos de cinco miembros de destacada trayectoria en el medio artístico y cultural, además de gozar de reconocida honorabilidad; y
+
+VIII. No tendrán derecho a recibir apoyos, por concepto de becas, quienes ya reciban un apoyo similar de cualquier otra instancia gubernamental en materia de cultura.
+
+###### Artículo 28.
+
+Bajo ninguna circunstancia, los recursos que constituyen el Fondo se destinarán a sufragar gastos que deriven de fines distintos a los enumerados en el presente capítulo.
+
+### CAPITULO III. De los compromisos de los beneficiarios
+
+###### Artículo 29.
+
+Son Compromisos de los beneficiarios del Fondo:
+
+I. Entregar cada cuatrimestre un informe del avance registrado en la realización del proyecto apoyado;
+
+II. Reconocer y difundir el apoyo de las Instituciones Culturales del Estado, en los productos y representaciones y, en general, en los medios que utilice para la promoción de su trabajo; y
+
+III. Dar crédito a la Secretaría en los productos y presentaciones que reciban financiamiento del Fondo.
+
+## TITULO SEPTIMO. DEL SISTEMA ESTATAL DE CREADORES
+
+### Capítulo Unico
+
+###### Artículo 30.
+
+Para alentar la formación y profesionalización de quienes se dedican a la creación artística y cultural, se establece el Sistema Estatal de Creadores, como un sistema de estímulo y reconocimiento en apoyo a la creación libre e independiente.
+
+###### Artículo 31.
+
+En el Sistema Estatal de Creadores se reconocerá la creación artística y cultural bajo tres modalidades: Nuevo Creador, Creador con Trayectoria y Creador Emérito.
+
+Para ingresar al Sistema Estatal de Creadores, se deberán acreditar los siguientes requisitos:
+
+I. Para nuevo Creador: Comprobar tres años como mínimo de experiencia en el campo de la creación artística o cultural, tener la formación adecuada a su disciplina y presentar un proyecto anual de actividades a consideración del Consejo;
+
+II. Creador con Trayectoria: Participar activamente en trabajos de creación artística o cultural original y de alta calidad, lo que se demostrará mediante la publicación, ejecución o presentación de sus trabajos, avalados por el Consejo, así como realizar de manera regular actividades de difusión cultural;
+
+III. Creador Emérito: Además de cumplir con los requisitos previos, haber realizado una aportación de carácter cultural o artístico que represente una contribución de trascendencia para el Estado de Jalisco; y
+
+IV. Los demás que establezca el Reglamento.
+
+###### Artículo 32.
+
+Los nuevos creadores podrán percibir hasta tres salarios mínimos mensuales, durante un año calendario. Este apoyo podrá renovarse hasta por tres años. La asignación, entrega y prórroga de dichos estímulos estará sujeta a las condiciones establecidas por el Reglamento respectivo, así como a la existencia y disponibilidad de recursos. Los Creadores con Trayectoria y Eméritos, tendrán carácter honorífico y vitalicio.
+
+###### Artículo 33.
+
+El Consejo convocará en el mes de septiembre de cada año a los creadores artísticos y culturales para que presenten sus candidaturas en los términos que establezca la propia convocatoria. La distinción de Creadores con Trayectoria y Eméritos podrá adjudicarse sin que medie solicitud del candidato, previa deliberación y acuerdo del Consejo.
+
+Cuando se solicite cualquier tipo de estímulo económico ante el Consejo, y medie por parte del solicitante hasta un cuarto grado de parentesco con alguno de los consejeros, el consejero del que se trate deberá de excusarse para opinar sobre la citada solicitud.
+
+El reglamento especificará los requisitos y procedimientos de ingreso, permanencia y exclusión del Sistema Estatal de Creadores.
+
+###### Artículo 34.
+
+La Secretaría organizará y administrará el Registro Estatal de Creadores, el cual será público y funcionará bajo tres modalidades: nuevos creadores, creadores con trayectoria y creadores eméritos.
+
+Los nuevos creadores serán inscritos en el Registro, cuando el Consejo notifique que se han hecho acreedores a algún apoyo económico o cuando así lo soliciten expresamente a la Secretaría y acrediten los requisitos que determine el propio Consejo para cada disciplina, los cuales habrán de ser establecidos en el Reglamento.
+
+Los creadores con trayectoria y eméritos que hayan desarrollado o desarrollen su actividad cultural en el Estado, serán incorporados al Registro, previa notificación del Consejo a la Secretaría.
+
+La Secretaría emitirá una constancia de inscripción al Registro a los nuevos creadores y a los creadores con trayectoria y eméritos que así lo soliciten.
+
+## TITULO OCTAVO. DE LAS ACCIONES ESPECIALES DE FOMENTO A LA CULTURA
+
+### Capítulo I. De la cultura indígena
+
+###### Artículo 35.
+
+Las autoridades estatales y municipales en su respectivo ámbito de competencias, dictarán las medidas conducentes para la preservación, promoción, fortalecimiento, difusión e investigación de la cultura de los pueblos indígenas asentados en el territorio del estado, que comprenderán, entre otras cosas, las siguientes acciones:
+
+I. Preservar la lengua, cultura, artes, usos y costumbres, así como los recursos y formas específicas de organización social de la cultura indígena;
+
+II. Fomentar la creación literaria en lenguas autóctonas y la edición de publicaciones bilingües;
+
+III. Impulsar el establecimiento de museos comunitarios, ferias, festivales de arte, música y demás expresiones culturales;
+
+IV. Proveer de asistencia técnica y asesoría para el desarrollo de sus manifestaciones culturales y fomentar la producción literaria en lenguas autóctonas;
+
+V. Estimular su creatividad artesanal y artística;
+
+VI. Otorgar los premios, estímulos o reconocimientos a quienes se distingan en la preservación, promoción, difusión e investigación de la cultura indígena de la entidad; y
+
+VII. Promover las actividades de concertación pertinentes para unificar programas, cuando las manifestaciones culturales y artísticas indígenas se produzcan en varios municipios del Estado.
+
+### Capítulo II. De la cultura popular, festividades y tradiciones
+
+###### Artículo 36.
+
+Se declara de interés público la preservación de las tradiciones, costumbres, festividades y certámenes populares, por lo que las autoridades competentes en materia de cultura establecerán programas especiales para su preservación, desarrollo y difusión.
+
+###### Artículo 37.
+
+Las autoridades estatales y municipales se coordinarán para la elaboración y actualización de un registro de las festividades y manifestaciones populares que se realizan en la entidad, haciéndolo del conocimiento del Sistema.
+
+### Capítulo III. Del fomento al libro y la lectura
+
+###### Artículo 38.
+
+Las autoridades educativas y culturales, con el apoyo de la Comisión de Fomento al Libro y la Lectura, fomentarán el hábito de la lectura entre la población de Jalisco, y promoverán su mayor acceso a la producción escrita.
+
+###### Artículo 39.
+
+Para lograr estos fines, las autoridades culturales y educativas deberán:
+
+I. Establecer programas de promoción de la lectura entre la población del estado, especialmente en el sistema educativo;
+
+II. Impulsar la creación, ampliación y mejoramiento de salas de lectura y bibliotecas;
+
+III. Procurar acciones que tengan como propósito apoyar la distribución y adquisición de libros;
+
+IV. Estimular la lectura y conocimiento de escritores jaliscienses;
+
+V. Fomentar la promoción de libros, revistas y coediciones de carácter cultural; y
+
+VI. Organizar concursos anuales en el estado, que tengan por objeto estimular la lectura y dirigirlos principalmente a los alumnos de educación básica.
+
+### Capítulo IV. Del uso de los espacios públicos
+
+destinados a la cultura
+
+###### Artículo 40.
+
+El uso de los espacios públicos destinados a la cultura, propiedad del Gobierno del Estado, se ajustarán a los siguientes criterios:
+
+I. Cada espacio debe tener definido su uso, destino y categoría de las actividades artísticas, que se procurará destinarlos al uso exclusivo de estas actividades y por excepción a otros quehaceres;
+
+II. Las manifestaciones y actividades artísticas del Estado y sus regiones, tendrán uso preferente de los espacios públicos destinados a la cultura; y
+
+III. El uso de los espacios culturales para la realización de actividades artísticas, serán prestados sin cargo alguno por concepto de renta, a excepción de aquellos que tengan finalidades de lucro. Asimismo se deberá de garantizar que los creadores se beneficien de los espacios al menor costo posible de operación; al efecto, la Secretaría deberá fijar y publicar anualmente una lista de costos por la prestación de servicios anexos, de conformidad con la Ley de Ingresos vigente y el Reglamento de la presente Ley.
+
+###### Artículo 41.
+
+El Gobierno del Estado y los Municipios deberá reglamentar en el ámbito de su competencia el uso de los espacios para el desarrollo de las actividades artísticas. En dicho reglamento se establecerán los procedimientos, términos y condiciones en los que se autorice su uso.
+
+## Transitorios
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se abrogan las disposiciones legales y administrativas que contravengan o se opongan a este ordenamiento.
+
+TERCERO.- El Titular del Poder Ejecutivo expedirá el Reglamento de la Ley de Fomento de la Cultura del Estado dentro de los noventa días siguientes al primero de marzo del dos mil uno.
+
+CUARTO.- El Consejo Estatal para la Cultura y las Artes deberá constituirse dentro de los cuarenta y cinco días siguientes al primero de marzo del dos mil uno.
+
+QUINTO.- El Fondo Estatal para la Cultura y las Artes, que se establezca en el Presupuesto de Egresos, deberá ser ejercido una vez creada la figura jurídica que acuerde el Ejecutivo.
+
+Salón de Sesiones del Congreso del Estado
+
+Guadalajara, Jalisco, 16 de noviembre de 2000
+
+Diputado Presidente
+
+Abundio Gómez Meléndrez
+
+Diputado Secretario
+
+Francisco Javier Bravo Carbajal
+
+Diputado Secretario
+
+Salvador Arellano Guzmán
+
+En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
+
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 29 veintinueve días del mes de noviembre de 2000 dos mil.
+
+El Gobernador Constitucional del Estado
+
+Ing. Alberto Cárdenas Jiménez
+
+El Secretario General de Gobierno
+
+Lic. Felipe de Jesús Preciado Coronado
