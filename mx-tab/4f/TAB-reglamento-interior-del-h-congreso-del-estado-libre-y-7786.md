@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "1995-03-08"
+last_updated: "1995-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1995.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -511,7 +511,7 @@ XIII. Trabajo y Previsión Social:
 
 a) Conocerá de todos los asuntos referentes a las relaciones obrero-patronales, mejoramiento de las clases trabajadoras y creación o supresión de empleos públicos; y
 
-b). Promoverá el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales vigentes.
+b) Promoverá el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales vigentes.
 
 XIV. Energéticos y Minas:
 
@@ -604,6 +604,20 @@ c) Fomentar campañas con el apoyo de cuadros técnicos, científicos y académi
 d) Pugnar por el aprovechamiento sustentable de bosques y selvas tropicales, tanto con fines de protección ecológica como comerciales, que permita desarrollar el potencial forestal con que cuenta el Estado, y
 
 e) Analizar y proponer medidas que impidan de manera estricta la comercialización, tráfico y caza de especies animales silvestres protegidas y pronunciarse sobre la restauración del habitat de aquellas que están en peligro de extinción.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+
+XXIV. Fortalecimiento Municipal:
+
+A T R I B U C I O N E S
+
+a) Revisar el marco Constitucional y legal que garantice el fotalecimiento (sic) equilibrado ajustando su actuación al marco jurídico que impone la Constitución Política Mexicana, la particular del Estado y la Ley Orgánica Municipal y Reglamentos;
+
+b) Promover la consulta popular para la elaboración de los planes municipales de desarrollo;
+
+c) Vigilar que los ayuntamientos den cabal cumplimiento como órgano colegiado al ejercicio del poder;
+
+d) Coadyuvar para consolidar un nuevo régimen hacendario que contribuya al desarrollo municipal.
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -1014,5 +1028,9 @@ SE ADICIONA LA FRACCION IV DEL ARTICULO 63 DEL REGLAMENTO PARA EL GOBIERNO INTER
 UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
 
 P.O. 8 DE MARZO DE 1995.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 6° DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
+
+P.O. 5 DE ABRIL DE 1995.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 6° DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
