@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1973-12-22"
+last_updated: "1974-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1974.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -467,13 +467,13 @@ II. Arreglar y fijar los límites del Estado, en los términos que señala el ar
 
 III. Informar al Congreso de la Unión en los casos a que se refiere el inciso tercero de la fracción III del artículo setenta y tres de la Constitución General, y resolver lo conducente sobre la determinación del propio Congreso, de acuerdo con el inciso sexto de la misma fracción;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1962)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 1974)</small>
 
-IV. Erigir nuevos municipios dentro de los ya existentes, siempre que los interesados comprueben debidamente que la nueva Institución contará con los elementos suficientes para su sostenimiento, administración y desarrollo, y con una población no menor de cinco mil habitantes. En este caso la Legislatura oirá la opinión de los Ayuntamientos que resulten afectados;
+IV. Erigir nuevos municipios dentro de los ya existentes, siempre que los interesados comprueben debidamente que la nueva Institución contará con los elementos suficientes para su sostenimiento, administración y desarrollo y con una población no menor de DIEZ MIL HABITANTES. En este caso la Legislatura oirá la opinión de los Ayuntamientos que resulten afectados;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1962)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 1974)</small>
 
-V. Suprimir Municipios siempre que sus rentas no alcancen a cubrir su Presupuesto de Egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de su respectivo Ayuntamiento, o cuando los núcleos de población que lo integren, no lleguen a cinco mil habitantes;
+V. Suprimir Municipios siempre que sus rentas no alcancen a cubrir su Presupuesto de Egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de su respectivo Ayuntamiento, o cuando los núcleos de población que lo integren, no lleguen a DIEZ MIL HABITANTES, a partir de la fecha en que entre en vigor esta reforma;
 
 VI. Dictar todas las leyes necesarias para el funcionamiento de los Ayuntamientos, con arreglo a las disposiciones relativas de esta Constitución;
 
@@ -899,9 +899,9 @@ El Gobernador del Estado, el Secretario del Despacho y el Subsecretario, durante
 
 El Estado de Oaxaca, para su régimen interior, se divide en Municipios Libres, los que se agrupan en Distritos rentísticos y judiciales, para la mejor administración de justicia y la fácil recaudación de las rentas generales del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1962)</small>
+> <small>(REFORMADO, 26 DE ENERO DE 1974)</small>
 
-Para tener la categoría de Municipio, se requiere que él o los núcleos de población en conjunto, cuenten por lo menos con cinco mil habitantes y con los elementos suficientes para su sostenimiento, administración y desarrollo.
+Para tener la categoría de Municipio, se requiere que la localidad respectiva cuente por lo menos con DIEZ MIL HABITANTES y con los elementos suficientes para su sostenimiento, administración y desarrollo.
 
 #### SECCION PRIMERA. Del Ejercicio del Poder Judicial
 
@@ -1610,3 +1610,7 @@ P.O. 22 DE DICIEMBRE DE 1973.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 1974.
+
+UNICO.- El presente decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado y no tendrá efecto retroactivo.
