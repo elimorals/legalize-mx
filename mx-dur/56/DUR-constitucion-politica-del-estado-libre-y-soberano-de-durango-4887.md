@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1948-04-29"
+last_updated: "1948-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1948.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -60,6 +60,10 @@ El presente Decreto surte sus efectos a partir del día primero de enero del pre
 P.O. 29 DE ABRIL DE 1948.
 
 UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MAYO DE 1948.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 4°.
 
@@ -443,9 +447,9 @@ I. Ser ciudadano durangueño por nacimiento en ejercicio de sus derechos e hijo 
 
 II.- Saber leer y escribir.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1942)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 1948)</small>
 
-III.- Tener para el día de la elección (25) veinticinco años cumplidos y residencia efectiva dentro del territorio del Estado, inmediata al día de la elección, cuando menos de dos años. La vecindad no se pierde por ausencia en el desempeño de cargos o comisiones encomendadas por la Federación o por el Estado dentro o fuera de su territorio.
+III.- Tener para el día de la elección veinticinco años cumplidos y residencia efectiva dentro del territorio del Distrito electoral respectivo, inmediatamente al día de la elección, cuando menos de seis meses. La vecindad no se pierde por ausencia en el desempeño de cargos o comisiones encomendadas por la Federación o por el Estado dentro o fuera de su territorio.
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
 
@@ -641,9 +645,9 @@ c). El Gobernador Interino, siempre que desempeñe el cargo en los dos últimos 
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1942)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 1948)</small>
 
-I.- Ser ciudadano durangueño por nacimiento, de (30) treinta años de edad cumplidos, en pleno ejercicio de sus derechos civiles y políticos, tener dos años de residencia efectiva dentro del Territorio del Estado en el momento de la elección y ser hijo de padres mexicanos por nacimiento. La vecindad no se pierde por el desempeño de cargos de elección popular y por comisiones dentro o fuera de la República, encomendadas por la Federación o por el Estado.
+I.- Ser ciudadano durangueño por nacimiento, de treinta años de edad cumplidos, en pleno ejercicio de sus derechos civiles y políticos, tener cuando menos seis meses de residencia efectiva dentro del territorio del Estado en el momento de la elección y ser hijo de padres mexicanos por nacimiento. La vecindad no se pierde por el desempeño de cargos de elección popular o por comisiones dentro o fuera de la República, encomendados por la Federación o por el Estado.
 
 II. No pertenecer al Estado eclesiástico, ni ser ministro de culto alguno; saber leer y escribir.
 
@@ -759,11 +763,11 @@ XVIII.- Tendrá todas las demás atribuciones y obligaciones que le asignen las 
 
 DEL SECRETARIO DEL DESPACHO.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1948)</small>
 
 ###### Artículo 82.
 
-Para el desempeño de los negocios del orden administrativo del Estado habrá un sólo Secretario, necesitándose para el desempeño de este cargo ser ciudadano durangueño en el pleno ejercicio de sus derechos políticos y civiles, tener 30 años de edad y cuando menos 2 de residencia en el Estado anteriores a su nombramiento. Todos los Reglamentos, Decretos y órdenes del Gobierno deberán autorizarse por el Secretario General y sin este requisito no serán obedecidos.
+Para el desempeño de los negocios de orden administrativo del Estado, habrá un solo Secretario, necesitándose para el desempeño de este cargo ser ciudadano duranguño (sic), hijo de padres mexicanos, por nacimiento, en el pleno ejercicio de sus derechos políticos y civiles, tener treinta años de edad y cuando menos dos de residencia en el Estado anteriores a su nombramiento.
 
 ###### Articulo 83.
 
