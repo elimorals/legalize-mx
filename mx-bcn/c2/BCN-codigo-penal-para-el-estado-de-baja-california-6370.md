@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1999-10-01"
+last_updated: "1999-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1349,7 +1349,7 @@ Cuando se trate de cónyuges, concubina o concubinario sólo podrá procederse p
 
 ### CAPITULO II. SECUESTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO III. RAPTO
 
@@ -1391,29 +1391,41 @@ Atenuación de la punibilidad.- Si el agente espontáneamente pone en libertad a
 
 ###### Artículo 164.
 
-Formas típicas y punibilidad.- Al que prive de la libertad a otro, se le aplicará prisión de quince a treinta años y multa de cien a doscientos cincuenta días, si el hecho se realiza con el propósito de:
+Formas típicas y punibilidad.- Al que prive de la libertad a otro, se le aplicará prisión de veinte a cuarenta años y multa de cien a quinientos días, si el hecho se realiza con el propósito de:
 
 I.- Obtener un rescate;
 
-II.- Que la autoridad realice o deje de hacer un acto de cualquier índole o,
+II.- Que la autoridad realice o deje de hacer un acto de cualquier índole o;
 
-III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él.
+III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionado con él.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1999)</small>
 
 ###### Artículo 165.
 
-Agravación de la punibilidad.- La pena señalada en el artículo anterior se agravará hasta en una tercera más, si concurre alguna de las características siguientes:
+Agravación de la punibilidad.- La pena señalada en el artículo anterior se agravará hasta en una tercera parte más, cuando concurran algunas de las siguientes características:
 
 I.- Que se realice en lugar desprotegido o solitario;
 
-II.- Que el agente se ostente como autoridad, sin serlo;
+II.- Que el autor sea o haya sido integrante de alguna institución de Seguridad Pública, o se ostente como tal sin serlo;
 
-III.- Que se lleve a cabo en grupo de tres o más personas;
+> <small>(F. DE E., P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III.- Que se lleve a cabo en grupo de dos o más personas;
 
 IV.- Que se realice con violencia, se veje o se torture a la víctima o,
 
 V.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o que por cualquier otra circunstancia esté en situación de inferioridad física respecto del agente.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 1999)</small>
+
+###### Artículo 165
+
+BIS.- Se impondrá de uno a ocho años de prisión y de doscientos a quinientos días multa, al que en relación con las conductas mencionadas en los artículos 164 y 165 de este Código y fuera de las causas de exclusión del delito:
+
+I.- Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen a favor de la víctima;
+
+II.- Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
@@ -3486,3 +3498,9 @@ SEGUNDO.- Para los efectos de dar cumplimiento al artículo 208-quarter, se otor
 P.O. 1 DE OCTUBRE DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 12 DE NOVIEMBRE DE 1999.
+
+###### ARTÍCULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
