@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-adquisiciones-arrendamientos-servicios-y-almacenes-31688
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-04"
-last_updated: "2003-06-04"
+last_updated: "2003-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:13 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial de Estado de Nayarit, el miércoles 4 de Junio de 2003.
 
@@ -379,13 +379,17 @@ El órgano ejecutor fijará en las bases de licitación la forma, característic
 
 En las invitaciones a cuando menos tres oferentes y en las adjudicaciones directas, el órgano ejecutor podrá, bajo su responsabilidad, exceptuar a los proveedores de presentar la garantía del cumplimiento del contrato, siempre y cuando los proveedores suministren en forma inmediata y satisfactoria la totalidad de los bienes o servicios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 34.
 
-El comité de adquisiciones, los órganos ejecutores y las dependencias se abstendrán de llevar a cabo los actos a que se refiere esta ley, con las personas físicas o morales siguientes:
+El Comité de Adquisiciones, los órganos ejecutores y las dependencias se abstendrán de llevar a cabo los actos a que se refiere esta ley, con las personas físicas o morales siguientes:
 
 I.- Aquellas con las que el servidor público que intervenga en cualquier etapa del procedimiento de contratación, o con los servidores públicos que ejerzan sobre éste facultades de dirección ó de mando, tengan interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los seis años previos a la fecha de la convocatoria.
 
-II.- Aquellas personas que guarden con respecto a los titulares de los poderes ejecutivo, legislativo y judicial, los integrantes de los ayuntamientos y los de sus dependencias y entidades, cuando estas últimas tengan el carácter de ejecutoras dentro de los procesos de licitación, y en general con los titulares de los entes públicos, relación personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los seis años previos a la fecha de la convocatoria.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2003)</small>
+
+II.- Aquellas personas que guarden con respecto a los titulares de los poderes ejecutivo, legislativo y judicial, los integrantes de los ayuntamientos y los de sus dependencias y entidades, cuando estas últimas tengan el carácter de ejecutoras dentro de los procesos de licitación, y en general con los titulares de los entes públicos, interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los seis años previos a la fecha de la convocatoria.
 
 En el caso de los titulares de las áreas financieras el impedimento aplicará para cualquier proceso de licitación que lleven a cabo el poder, el ayuntamiento, dependencia, entidad o cualquier ente público al que se encuentren adscritos.
 
@@ -980,3 +984,9 @@ Los procedimientos que se encuentren en trámite o pendientes de resolución al 
 DADO en la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los nueve días del mes de mayo del dos mil tres.- Dip. Presidente, Obdulia Delgado Delgado.- Dip. Secretario, Yolanda del Real Ureña.- Dip. Secretario, Juan Manuel Mier Pecina.- Rúbricas.
 
 Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su capital, a los dos días del mes de junio del año dos mil tres.- ANTONIO ECHEVARRÍA DOMINGUEZ.- Rúbrica.- El Secretario General de Gobierno, Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 2003.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
