@@ -4,7 +4,7 @@ identifier: "FED-reglamento-sobre-el-peso-dimensiones-y-capacidad-de-los-6"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-01-26"
-last_updated: "1996-05-07"
+last_updated: "2000-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-01-24"
 
 REGLAMENTO SOBRE EL PESO, DIMENSIONES Y CAPACIDAD DE LOS VEHICULOS DE AUTOTRANSPORTE QUE TRANSITAN EN LOS CAMINOS Y PUENTES DE JURISDICCION FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 26 de enero de 1994.
 
@@ -47,95 +47,101 @@ AUTOTANQUE Vehículo cerrado, camión
 
 tanque, semirremolque o
 
-remolque tipo tanque;
+remolque tipo tanque; destinado
 
-destinado al transporte de
+al transporte de líquidos, gases
 
-líquidos, gases licuados o
+licuados o sólidos en suspensión.
 
-sólidos en suspensión.
+CAMINOS Y
 
-CAMINOS Y PUENTES
+PUENTES DE
 
-DE JURISDICCION
+JURISDICCION
 
 FEDERAL Vías generales de comunicación
 
 a que se refiere el artículo 2o.
 
-fracciones I y V de la Ley de Caminos,
+fracciones I y V de la Ley de
 
-Puentes y Autotransporte Federal.
+Caminos, Puentes y Autotransporte
 
-CAPACIDAD Número máximo de personas, más
+Federal.
 
-peso del equipaje y paquetería,
+CAPACIDAD Número máximo de personas,
 
-que un vehículo destinado al servicio
+más peso del equipaje y paquetería,
 
-de pasajeros puede transportar y
+que un vehículo destinado al
 
-para el cual fue diseñado
+servicio de pasajeros puede
 
-por el fabricante o reconstructor.
+transportar y para el cual fue
+
+diseñado por el fabricante o
+
+reconstructor.
 
 CARGA DE GRAN
 
 PESO O
 
-VOLUMEN Carga cuyo peso adicionado
+VOLUMEN Carga cuyo peso adicionado al
 
-al peso vehicular rebasa los
+peso vehicular rebasa los límites
 
-límites establecidos para el peso
+establecidos para el peso bruto
 
-bruto vehicular en este Reglamento
+vehicular en este Reglamento o
 
-o carga cuyas dimensiones rebasan
+carga cuyas dimensiones rebasan
 
-las máximas autorizadas, por lo que
+las máximas autorizadas, por lo
 
-para su transportación requiere de
+que para su transportación requiere
 
-vehículos y disposiciones especiales.
+de vehículos y disposiciones
 
-CARGA UTIL Y
+especiales.
 
-PESO UTIL Peso máximo de la carga que un
+CARGA UTIL Y PESO
+
+UTIL Peso máximo de la carga que un
 
 vehículo puede transportar en
 
-condiciones de seguridad y para el
+condiciones de seguridad y para
 
-cual fue diseñado por el fabricante
+el cual fue diseñado por el
 
-o reconstructor.
+fabricante o reconstructor.
 
 CARRO POR
 
-ENTERO Cuando la totalidad de la carga que
+ENTERO Cuando la totalidad de la carga
 
-se transporta en un vehículo es
+que se transporta en un vehículo
 
-propiedad de un solo usuario.
+es propiedad de un solo usuario.
 
 CONSTANCIA DE
 
 CAPACIDAD Y
 
-DIMENSIONES
+DIMENSIONES O
 
-O DE PESO Y
+DE PESO
 
-DIMENSIONES Documento suscrito por el
+Y DIMENSIONES Documento suscrito por el
 
-fabricante o reconstructor en el
+fabricante o reconstructor en el que
 
-que se hace constar el peso
+se hace constar el peso vehicular y
 
-vehicular y carga útil o peso vehicular
+carga útil o peso vehicular y la
 
-y la capacidad, así como las
+capacidad, así como las
 
 dimensiones del vehículo y tipo de
 
@@ -145,11 +151,11 @@ carga o de pasajeros.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
 
-DIMENSIONES Alto, ancho y largo máximo
+DIMENSIONES Alto, ancho y largo máximo expresado
 
-expresado en metros, de un
+en metros, de un vehículo en
 
-vehículo en condiciones de operación
+condiciones de operación
 
 incluyendo la carga.
 
@@ -157,11 +163,11 @@ FABRICANTE O
 
 RECONSTRUCTOR Persona física o moral que
 
-diseña, fabrica, reconstruye o modifica
+diseña, fabrica, reconstruye o
 
-vehículos de autotransporte de pasajeros,
+modifica vehículos de autotransporte
 
-de turismo o carga.
+de pasajeros, de turismo o carga.
 
 LEY Ley de Caminos, Puentes y
 
@@ -171,11 +177,11 @@ NORMA Norma oficial mexicana.
 
 ORGANISMO DE
 
-CERTIFICACION Las personas morales que tengan
+CERTIFICACION Las personas morales que
 
-por objeto realizar funciones de
+tengan por objeto realizar funciones
 
-certificación, mediante un
+de certificación, mediante un
 
 procedimiento que asegure que
 
@@ -187,7 +193,9 @@ lineamientos o recomendaciones
 
 de organismos dedicados a la
 
-normalización nacional o internacional.
+normalización nacional o
+
+internacional.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
 
@@ -217,13 +225,11 @@ al servicio de pasajeros.
 
 PESO
 
-VEHICULAR Peso de un vehículo o
+VEHICULAR Peso de un vehículo o combinación
 
-combinación vehicular con
+vehicular con accesorios, en
 
-accesorios, en condiciones de
-
-operación, sin carga.
+condiciones de operación, sin carga.
 
 PRESION DE
 
@@ -247,25 +253,27 @@ SECRETARIA Secretaría de Comunicaciones
 
 y Transportes.
 
-TRANSPORTISTA Persona física o moral que
+TRANSPORTISTA Persona física o moral que preste
 
-preste servicio público o privado
+servicio público o privado de
 
-de autotransporte de pasajeros,
+autotransporte de pasajeros, de
 
-de turismo o de carga.
+turismo o de carga.
 
-TRACTOCAMION Vehículo automotor destinado
+TRACTOCAMION Vehículo automotor destinado a
 
-a soportar y arrastrar
+soportar y arrastrar semirremolques
 
-semirremolques y remolques.
+y remolques.
 
-USUARIO Persona física o moral que contrate
+USUARIO Persona física o moral que
 
-con un transportista el traslado de
+contrate con un transportista el
 
-personas o el transporte de carga.
+traslado de personas o el transporte
+
+de carga.
 
 ###### ARTICULO 3o.
 
@@ -357,21 +365,49 @@ Para garantizar la seguridad, es responsabilidad del transportista sujetar la ca
 
 Cuando se requiera transportar bienes de gran peso o volumen que rebasen lo establecido en la norma a que se refiere el artículo 5o. de este Reglamento, el transportista deberá obtener previamente permiso especial de la Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 17.
 
-Para obtener dicho permiso se deberá:
+Para obtener el permiso a que se refiere el artículo anterior, se deberá presentar:
 
-I. Señalar y especificar las características de la carga y de la combinación vehicular así como la ruta a seguir para la transportación y presentar los documentos que acrediten el peso o volumen de la carga a transportar;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-II. Proporcionar los planos y documentos en donde se indique el peso de la carga, posición probable del centro de gravedad de las cargas, descargas por eje y llanta, los vehículos y equipo a utilizar, y copia de la tarjeta de circulación correspondiente; y
+I. Tarjetas de circulación de la combinación vehicular y el equipo alterno;
 
-III. Acompañar la constancia de peso y dimensiones del equipo de transporte con que se efectuará el traslado de los objetos indivisibles de gran peso o volumen.
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+II. Plano que muestre la combinación vehicular en su vista lateral y posterior, firmado por el representante legal de la empresa, salvo tratándose de grúas industriales, indicando:
+
+a) Dimensiones de la carga y la combinación vehicular (largo, ancho y alto);
+
+b) Distancia entre ejes internos y entre cada uno de los ejes;
+
+c) Altura probable del centro de gravedad;
+
+d) Carga muerta, útil y total por eje, y
+
+e) Carga total por llanta.
+
+Tratándose de permisos para carga de más de noventa toneladas, el plano deberá contener, adicionalmente, el número de llantas por eje, la propuesta de rutas y la carga muerta y útil por llanta, y
+
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+III. Documento que acredite fehacientemente el peso y dimensiones de la carga a transportar, expedida por el emisor de la carga.
 
 El transportista y el propietario de la carga son responsables del debido cumplimiento de las disposiciones operativas y de seguridad que se fijen en el permiso.
 
-El plazo para resolución de las solicitudes, será de 15 días naturales, contado a partir de la presentación de la solicitud completa, con todos los documentos requeridos, si son cargas menores de 90 toneladas, o 30 días si excede dicho peso o cuando se requiera dictamen técnico específico. En el supuesto de que no se haya dictado resolución dentro del plazo fijado, la Secretaría determinará lo procedente dentro de los siguientes 5 días hábiles.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-La norma respectiva fijará las condiciones a que se sujetarán los dictámenes técnicos a que se refiere el párrafo anterior.
+Para el caso de bienes de gran peso o volumen de hasta noventa toneladas de carga útil, el transportista debe presentar el formato de permiso especial que para el efecto emita la Secretaría, debidamente requisitado y firmado bajo protesta de decir verdad, junto con la totalidad de los documentos que se señalan en las fracciones I a III anteriores, a efecto de recabar sello de recibido por parte de la autoridad correspondiente, con lo cual se autoriza el tránsito de la transportación.
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+Para el caso de bienes de gran peso o volumen de carga útil mayor a noventa toneladas, el transportista debe presentar solicitud de permiso especial ante la Secretaría, incluyendo los documentos que se señalan en las fracciones I a III del presente artículo. La Secretaría emitirá la resolución respectiva en un plazo no mayor a quince días naturales.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+En caso de que el permiso especial a que se refiere este artículo se solicite para el tránsito de grúas industriales con peso máximo de noventa toneladas, se requerirá presentar exclusivamente lo señalado en las fracciones I a III de este artículo, respecto de la grúa industrial.
 
 Cuando el propietario de la carga haga una declaración falsa sobre el peso de la misma o realice la contratación con empresas transportistas que no cuentan con el permiso respectivo, será responsable de los daños causados a la infraestructura carretera y éstos serán reparados a su cargo a satisfacción de la Secretaría.
 
@@ -598,3 +634,9 @@ QUINTO.- Los camiones unitarios de cuatro ejes (C-4) sólo podrán circular por 
 (VEASE ARCHIVO ANEXO)
 
 SEXTO.- Se derogan todas las disposiciones reglamentarias, administrativas y técnicas que se opongan al presente Decreto.
+
+D.O.F. 8 DE AGOSTO DE 2000.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMA RELACIONADO CON EL PRESENTE REGLAMENTO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
