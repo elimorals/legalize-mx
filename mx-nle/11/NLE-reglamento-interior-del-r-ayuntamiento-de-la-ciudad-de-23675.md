@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-de-la-ciudad-de-23675"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-11"
-last_updated: "2002-08-28"
+last_updated: "2004-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE LA CIUDAD DE SABINAS HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2004.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 11 de marzo de 2002.
 
@@ -41,11 +41,13 @@ ART. 2.- Es objeto de este Reglamento, establecer las bases, en los términos de
 
 ART. 3.- El Ayuntamiento es un órgano Colegiado de elección popular, encargado de la Administración y el Gobierno Municipal, para lo cual puede establecer y definir las acciones, criterios y políticas con que deban manejarse los asuntos y recursos del Municipio.
 
-ART. 4.- El Ayuntamiento se integra de acuerdo a lo establecido por la Ley Orgánica de la Administración Pública Municipal, y la Ley Electoral del Estado, por un Presidente Municipal, seis Regidores de mayoría relativa y hasta dos Regidores de representación proporcional y dos Síndicos, todos con sus respectivos suplentes, menos el Presidente. En caso de ausencia o Licencia de los Síndicos o Regidores, serán llamados los respectivos suplentes, previa convocatoria que les dirija el Presidente Municipal.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2004)</small>
 
-ART. 5.- El Presidente Municipal, para el mejor desempeño de las funciones encomendadas por el Ayuntamiento, se apoyará en las Dependencias y Entidades que conforman la Administración Municipal.
+ART. 4.- El Ayuntamiento se integra de acuerdo a lo establecido por la Ley Orgánica de la Administración Pública Municipal, y la Ley Electoral del Estado, por un Presidente Municipal, seis Regidores de mayoría relativa y los que correspondan de representación proporcional, así como dos Síndicos, todos con sus respectivos suplentes, excepto el Presidente Municipal. En caso de ausencia o licencia de algún miembro o más del Ayuntamiento, ya sean Síndicos o Regidores, serán llamados los respectivos suplentes previa convocatoria que les dirija el Presidente Municipal; esto de acuerdo al Artículo 20 de la Ley Orgánica de la Administración Pública Municipal.
 
-Los titulares de las Dependencias y Entidades de la Administración Municipal, serán nombrados y removidos por el Presidente Municipal, excepción hecha de los nombramientos del Secretario del R. Ayuntamiento y Tesorero Municipal, que requieren de la aprobación de los integrantes del Ayuntamiento.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2004)</small>
+
+ART. 5.- El Presidente Municipal para el mejor desempeño de sus funciones propias y de las acordadas por el Ayuntamiento, se apoyará en las Dependencias y Entidades que conforman la Administración Municipal.
 
 ART. 6.- El Ayuntamiento constituido conforme a lo señalado por la Constitución Política del Estado y la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, es el representante del Municipio de Sabinas Hidalgo y posee autonomía, personalidad jurídica y patrimonio propio.
 
@@ -58,6 +60,8 @@ ART. 9.- Los miembros del Ayuntamiento durarán en su cargo tres años y entrar�
 ### CAPITULO II (SIC). De la residencia e instalación
 
 ART. 10.- El Ayuntamiento de Sabinas Hidalgo residirá en la Ciudad de Sabinas Hidalgo y tendrá su domicilio legal en el lugar que ocupe la sede principal de la Administración Pública Municipal.
+
+(REPUBLICADO, P.O. 23 DE JUNIO DE 2004)
 
 ART. 11.- Calificada la elección del nuevo Ayuntamiento por la Comisión Municipal Electoral o por el Congreso del Estado y publicados en el Periódico Oficial los nombres de las personal electas, el Presidente Municipal en funciones mediante acuerdo de Cabildo, participará a cada uno de ellos, una comunicación haciéndoles saber su elección y los convocará a concurrir a la sesión solemne para rendir su protesta que establece el Artículo 22 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
 
@@ -79,9 +83,11 @@ ART. 14.- En el acto de protesta únicamente deberán ponerse de pie los miembro
 
 ART. 15.- Si el día señalado por la ley para la protesta no concurrieran uno o más miembros de los electos, no podrán entrar en funciones hasta que no rindan protesta ante el R. Ayuntamiento.
 
-ART. 16.- El día 31 de Octubre del año en que se celebren elecciones para renover (sic) el Ayuntamiento, las Autoridades Salientes harán entrega y darán entrega y posesión de las oficinas municipales a los integrantes del Ayuntamiento Entrante, que hayan rendido protesta en los términos de la Ley y éste Reglamento. En ese día el Presidente Municipal convocará a la primera sesión, donde entre otros asuntos se designará al Secretario del Ayuntamiento y al Tesorero y hará la declaratoria de instalación como sigue:
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2004)</small>
 
-"Queda legítimamente instalado el Ayuntamiento del Municipio de Sabinas Hidalgo, Nuevo León que deberá funcionar durante el período del 31 de Octubre (del año de la elección) al 30 de Octubre (del tercer año siguiente)."
+ART. 16.- El día 31 de Octubre del año en que se celebren elecciones para renovar el Ayuntamiento, las Autoridades salientes harán entrega y darán posesión de las Oficinas Municipales a los integrantes del Ayuntamiento entrante, que hayan rendido protesta en los términos de la Ley y éste Reglamento. En ese día el Presidente Municipal convocará a la primera sesión, donde entre otros asuntos se designará al Secretario del Ayuntamiento y al Tesorero y hará la declaratoria como sigue:
+
+"Queda legítimamente instalado el Ayuntamiento del Municipio de Sabinas Hidalgo, Nuevo León que deberá funcionar durante el período del 31 de Octubre (del año de la elección) al 30 de Octubre (del tercer año siguiente)"
 
 ### CAPITULO III. De los integrantes del Ayuntamiento
 
@@ -103,13 +109,19 @@ ART. 20.- Los Síndicos son los encargados de vigilar, defender y procurar los i
 
 ### CAPITULO IV. Del Presidente Municipal
 
-ART. 21.- Son atribuciones del Presidente Municipal además de las dispuestas en él artículo 27 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León las siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2004)</small>
+
+ART. 21.- Son atribuciones del Presidente Municipal además de las dispuestas en el artículo 27 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León las siguientes:
 
 I.- Asistir con toda puntualidad a las sesiones que celebre el Ayuntamiento del Municipio de Sabinas Hidalgo, para presidirlas y dirigirlas, asistido del Secretario de ese mismo cuerpo colegiado.
 
-II.- Establecer el orden de los asuntos tanto del orden del día como de los asuntos generales que deben ponerse a discusión en las sesiones, atendiéndose preferentemente aquellas que se refieran a utilidad pública, a no ser que por mayoría de votos de los integrantes del Ayuntamiento se decidan por otro orden.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2004)</small>
 
-III.- Conceder el uso de la palabra a los miembros del Ayuntamiento en el orden que lo solicite, procurando que la intervención de cada uno de ellos no exceda de tres veces y con un tiempo máximo de un minuto en cada una de ellas todas sobre el mismo punto.
+II.- Establecer el orden de los asuntos generales que deberán ponerse a discusión en las sesiones, atendiéndose preferentemente aquellas que se refieran a utilidad y bienestar público, a no ser que por mayoría de votos de los integrantes del Ayuntamiento se decidan por otro orden.
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2004)</small>
+
+III.- Conceder el uso de la palabra a los miembros del Ayuntamiento en el orden que lo soliciten, procurando que la intervención de cada uno de ellos no exceda de tres veces y con un tiempo máximo de un minuto en cada una de ellas todas sobre el mismo punto.
 
 IV.- Hacer uso de la palabra en las sesiones de cabildo para emitir su criterio sobre el asunto de que se trate, teniendo voto de calidad en caso de empate en las decisiones que tome el Ayuntamiento.
 
@@ -121,7 +133,9 @@ VII.- Conminar al miembro del Ayuntamiento que no observe la conducta adecuada p
 
 VIII.- Suspender la sesión respectiva, cuando rebase las dos horas de duración que fija el Reglamento, a no ser que por mayoría de votos se decida por los miembros del Ayuntamiento a continuarla hasta agotar los asuntos a tratar.
 
-IX.- Cumplir adecuadamente con todas y con cada una de las facultades y obligaciones que le conceden o fijen las Leyes, Reglamentos o el propio Ayuntamiento, así como aquellas que resulten inherente al cargo que desempeñe.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2004)</small>
+
+IX.- Cumplir adecuadamente con todas y con cada una de las facultades y obligaciones que le conceden o fijen las Leyes, Reglamentos o el propio Ayuntamiento, así como aquellas que resulten inherentes al cargo que desempeñe.
 
 X.- Exhortar a los Regidores que integran el Ayuntamiento para que cumplan adecuadamente con sus obligaciones o comisiones que les hayan sido encomendadas.
 
@@ -131,9 +145,13 @@ XII.- Auxiliarse de los demás integrantes del Ayuntamiento para el cumplimiento
 
 XIII.- Firmar los acuerdos, las actas de las sesiones, la correspondencia oficial en unión del Secretario.
 
-XIV.- Presentar al Ayuntamiento en los actos solemnes y en las ceremonias oficiales.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2004)</small>
 
-XV.- Imponer correcciones disciplinarias a los empleados del Ayuntamiento por faltas cometidas en el ejercicio de sus funciones.
+XIV.- Presentar a los miembros que conforman el R. Ayuntamiento en los actos solemnes y en las ceremonias oficiales, así como representarlos en caso de ausencia.
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2004)</small>
+
+XV.- Imponer correcciones disciplinarias a los funcionarios administrativos y empleados de la Administración Municipal, por faltas cometidas en el ejercicio de sus funciones.
 
 ### CAPITULO V. De los Regidores
 
@@ -229,27 +247,27 @@ ART. 32.- Para instalar legalmente la sesión del Ayuntamiento, se requiere la m
 
 ART. 33.- El miembro del Ayuntamiento que no hubiere sido citado a una sesión, podrá solicitar dentro de las 24 horas siguientes, que se le informe de el o los acuerdos tomados en su ausencia haciéndose acreedor a una sanción el Secretario del Ayuntamiento por no haber citado.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2004)</small>
 
 ART. 34.- En la sesión, el Secretario del Ayuntamiento, dará cuenta de los asuntos en el orden siguiente:
 
-I.- Lista de asistencia.
+I.- Lista de Asistencia.
 
 II.- Declaración de quórum en su caso y de apertura de la sesión.
 
 III.- Lectura del acta anterior para su aprobación o corrección.
 
-IV.- Informe del Secretario del R. Ayuntamiento.
+IV.- Informe del Secretario del R. Ayuntamiento sobre el cumplimiento de los acuerdos de la sesión anterior y lectura de la correspondencia expedida y recibida más importante.
 
-V.- Informe del Presidente Municipal.
+V.- Informe del Presidente Municipal sobre el estado de la Administración Municipal y del avance de sus programas.
 
-VI.- Informe de Tesorería y Dictamen de la Comisión de Hacienda.
+VI.- Informe de Comisiones.
 
-VII.- Informe de Comisiones.
+VII.- Iniciativas o Reglamentos propuestos por escrito por los integrantes del R. Ayuntamiento con previo registro de 48 horas al inicio de la sesión.
 
-VIII.- Iniciativas o Reglamentos propuestos por los integrantes del Ayuntamiento.
+VIII.- Asuntos Generales.
 
-IX.- Asuntos Generales, con registro previo de 30 minutos al inicio de la sesión.
+IX.- Clausura.
 
 ART. 35.- Los integrantes del Ayuntamiento deben asistir a todas las sesiones desde el principio hasta el fin de estas. Se considerará ausente a una sesión al miembro del Ayuntamiento que no esté presente al tomarse lista de asistencia y en caso de que se presentara después, no podrá participar en las votaciones que lleven a efecto durante el desarrollo de la sesión.
 
@@ -505,7 +523,7 @@ LIC. DANIEL OMAR GONZALEZ GARZA
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 28 DE AGOSTO DE 2002.
 
@@ -514,3 +532,11 @@ PRIMERO: Estas modificaciones entrarán en vigor al día siguiente de su publica
 SEGUNDO: Se abrogan todas las disposiciones reglamentarias que contravengan el contenido de las presentes modificaciones.
 
 TERCERO: En base a lo ordenado en los referidos acuerdos del Ayuntamiento, publíquese el presente y difúndase para su conocimiento y observación.
+
+P.O. 23 DE JUNIO DE 2004.
+
+PRIMERO.- Estas modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias que contravengan el contenido de las presentes modificaciones.
+
+TERCERO.- En base a lo ordenado en el referido acuerdo del Ayuntamiento, publíquese el presente y difúndase para su conocimiento y observación.
