@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1983-01-20"
+last_updated: "1988-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE ABRIL DE 1988.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -89,21 +89,37 @@ I.- Por los Jueces Auxiliares;
 
 II.- Por los Jueces Municipales;
 
-III.- Por los Jueces de Primera Instancia;
+> <small>(REFORMADA, G.O. 5 DE ABRIL DE 1988)</small>
 
-IV.- Por las Salas del Tribunal Superior de Justicia; y
+III.- Por los Jueces menores;
 
-V.- Por el Tribunal Superior de Justicia en pleno.
+> <small>(REFORMADA, G.O. 5 DE ABRIL DE 1988)</small>
+
+IV.- Por los Jueces de Primera Instancia;
+
+> <small>(REFORMADA, G.O. 5 DE ABRIL DE 1988)</small>
+
+V.- Por las Salas del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADA, G.O. 5 DE ABRIL DE 1988)</small>
+
+VI.-Por el Tribunal Superior de Justicia en pleno.
+
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 7º.
 
-Los Jueces Auxiliares sólo tienen facultad para practicar las diligencias que les encomienden los de Primera Instancia y los Municipales de su jurisdicción y para recoger las pruebas urgentes y asegurar a los responsables cuando se cometa un delito en su territorio jurisdiccional.
+Los Jueces Auxiliares sólo tienen facultad para practicar las diligencias que les encomienden los de Primera Instancia, los Menores y los Municipales de su jurisdicción y para recoger las pruebas urgentes y asegurar a los responsables cuando se cometa un delito en su territorio jurisdiccional.
 
 > <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 8º.
 
 Los jueces municipales son competentes para conocer los delitos que se cometan en el territorio de la jurisdicción donde ejerzan sus funciones y tengan como sanción: amonestación, apercibimiento, caución de no ofender, multa que no exceda de tres mil pesos y prisión hasta de dos años, aun cuando por ser el reo reincidente la sanción que se le aplique resulte mayor a la pecuniaria y a la privativa de libertad señaladas.
+
+> <small>(ADICIONADO, G.O. 5 DE ABRIL DE 1988)</small>
+
+Los Jueces Menores son competentes para conocer de los delitos siguientes: abusos deshonestos; allanamiento de morada; calumnia; coacción y amenazas; delitos contra la seguridad del tránsito de vehículos, artículo 221 segundo párrafo; delitos contra la seguridad vial y los medios de transporte; desobediencia y resistencia de particulares, artículo 264 segundo párrafo; difamación; encubrimiento por favorecimiento; encubrimiento por receptación, artículo 197 fracción I; fraude, artículo 187 fracción I; inducción o ayuda al suicidio, artículo 128 segundo párrafo; daños, artículo 196, omisión de auxilio; omisión de auxilio a atropellados; omisión de cuidado; privación de la libertad física; privación de la libertad laboral; provocación a cometer un delito, apología de éste o de algún vicio; quebrantamiento de la sanción de privación, suspensión o inhabilitación de derechos; quebrantamiento de sellos; robo, artículo 173 fracción I, primer párrafo y 174; revelación de secretos; uso de documentos falsos; usurpación de profesión; variación del nombre o domicilio; violación de correspondencia; violación de las leyes sobre inhumaciones y exhumaciones; lesiones, artículo 114 fracciones I, II, III, y IV y los delitos culposos, con excepción de homicidio y aborto.
 
 ###### ARTICULO 9º.
 
@@ -783,9 +799,9 @@ En las diligencias de la averiguación previa a las que asista el defensor, ést
 
 El personal de las Agencias del Ministerio Publico y el de la Policía Judicial, en ningún caso ni por motivo alguno mantendrán incomunicados a los detenidos, ni permitirán que se les incomunique durante el período de averiguación previa. La violación de esta norma es causa de responsabilidad, para quien la infrinja, de conformidad con lo dispuesto en el Código Penal.
 
-> <small>(ADICIONADO, G.O. 20 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1988)</small>
 
-En las averiguaciones previas relativas a delitos culposos o que sean de la competencia de los Juzgados Municipales, el presunto responsable no será privado de su libertad corporal en los lugares ordinarios de reclusión, pues tendrá derecho a quedar arraigado en su domicilio y bajo custodia de otra persona, con sujeción a los requisitos siguientes:
+En las averiguaciones previas relativas a delitos culposos, el presunto responsable no será privado de su libertad corporal en los lugares ordinarios de reclusión, pues tendrá derecho a quedar arraigado en su domicilio y bajo custodia de otra persona, con sujeción a los requisitos siguientes:
 
 I.-Que, para los fines del arraigo domiciliario, tenga domicilio fijo, o señale uno, dentro del distrito judicial, en que hayan ocurrido los hechos.
 
@@ -891,6 +907,10 @@ II.- Cuando, aun pudiendo serlo, resulta imposible la prueba de la existencia de
 
 III.- Cuando esté extinguida legalmente.
 
+> <small>(ADICIONADA, G.O. 5 DE ABRIL DE 1988)</small>
+
+IV.- Cuando se encuentre plenamente probado que el inculpado actuó en circunstancias que excluyan la incriminación.
+
 ###### ARTICULO 139.
 
 El Ministerio Público solamente puede desistirse de la acción penal:
@@ -939,11 +959,11 @@ La instrucción deberá terminarse en el menor tiempo posible. Cuando el delito 
 
 Los términos a que se refiere este artículo se contarán a partir de la fecha del auto de formal prisión o del sujeción a proceso, y podrán ampliarse por el juez hasta por dos meses más cuando el acusado lo solicite por considerarlo necesario a su defensa.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 146.
 
-Cuando haya temor fundado de que el inculpado oculte o enajene los bienes en que pueda hacerse efectiva la reparación del daño, el Juez a petición del Ministerio Público o de quien tenga derecho a la reparación, decretará el embargo precautorio de dichos bienes, el que se practicará con sólo esta petición y la prueba de la necesidad de la medida; pero si el inculpado otorga fianza bastante, a juicio del tribunal, podrá no acordarse el embargo o levantarse el que se haya efectuado.
+Cuando haya temor fundado de que el inculpado oculte o enajene los bienes en que pueda hacerse efectiva la reparación del daño, el Ministerio Público, de oficio o a instancia de quien tenga derecho a la reparación, podrá pedir al Tribunal la devolución de los bienes o producto objeto del delito o el embargo precautorio de bienes propiedad del inculpado que se decretará con sólo dicha petición y la prueba de la necesidad de la medida; pero si el inculpado otorga fianza bastante, a juicio del Tribunal, podrá no decretarse el embargo o levantarse el que se haya efectuado, o en su caso, regresarse la posesión del bien o producto. En caso de decretarse el embargo, el Tribunal ordenará su inscripción en el Registro Público de la Propiedad.
 
 ###### ARTICULO 147.
 
@@ -2712,3 +2732,11 @@ G.O. 20 DE ENERO DE 1983.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+G.O. 5 DE ABRIL DE 1988.
+
+PRIMERO.-El presente Decreto se publicará en la 'Gaceta Oficial' del Estado y entrará en vigor al día siguiente de aquel en que el Pleno del H. Tribunal Superior de Justicia, instale formalmente él o los Juzgados Menores correspondientes. Mientras tanto, los Jueces de Primera Instancia y los Municipales, continuarán conociendo de los asuntos propios de su competencia, de acuerdo con la Ley. Los artículos 129, 138 y 146 entrarán en vigor a los quince días siguientes de su publicación en la 'Gaceta Oficial' del Estado.
+
+SEGUNDO.-Se derogan todas las disposiciones legales que se opongan al presente.
+
+TERCERO.-Los Jueces de Primera Instancia, remitirán por incompetencia, las causas que correspondan a los Juzgados Menores en términos del artículo 8º de esta reforma, una vez que hayan sido instalados.
