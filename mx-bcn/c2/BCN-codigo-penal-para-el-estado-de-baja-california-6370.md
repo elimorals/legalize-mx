@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1989-08-20"
+last_updated: "1992-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1992.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2329,6 +2329,10 @@ Tipo.- Comete el delito de concusión el servidor público que con el carácter 
 
 Punibilidad.- Al servidor público que cometa el delito de concusión se le aplicará de seis meses a dos años de prisión.
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+
 ###### Artículo 302.
 
 Tipo y punibilidad.- El servidor público que por sí o por interpósita persona sustraiga, destruya u oculte información o documentación que se encuentre bajo su custodia o a la cual tenga acceso o de la que tenga conocimiento en virtud de su empleo, cargo o comisión, sufrirá la pena de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
@@ -2549,6 +2553,36 @@ VI.- Como defensor, sea particular o de oficio, sólo se concrete a aceptar el c
 
 Abandono de defensa.- Al defensor de oficio o particular de un inculpado que no ofrezca ni desahogue pruebas dentro de los plazos previstos por la Ley, estando en posibilidad de hacerlo, y que corresponda a la defensa, se le impondrá pena de prisión de seis meses a tres años y suspensión hasta por dos años de los derechos de ejercer la abogacía; además será destituido e inhabilitado para ejercer su cargo, si el defensor es de oficio, hasta por dos años.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 1992)</small>
+
+## TITULO QUINTO. DELITOS CONTRA EL MEDIO AMBIENTE
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 1992)</small>
+
+###### Artículo 339.
+
+Para proceder penalmente por los delitos previstos en este capítulo, será necesario que previamente las autoridades de ecología formulen la querella respectiva, salvo que se trate de flagrante delito.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+
+###### Artículo 340.
+
+Se impondrá sanción de tres meses a seis años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en el Estado de Baja California, al que, sin contar con la autorización respectiva o violando las normas de seguridad y operación aplicables, efectúe, autorice u ordene la realización de actividades que conforme a las disposiciones legales se consideren riesgosas o que ocasionen graves daños a la salud pública o a los ecosistemas.
+
+Cuando las actividades a que se refiere el párrafo anterior, se lleven acabo en un centro de población, se elevará la pena hasta tres años más de prisión y la multa hasta veinte mil días de salario mínimo vigente en la entidad.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+
+###### Artículo 341.
+
+Se impondrá sanción de un mes a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en el Estado de Baja California, al que con violación en lo dispuesto en la Ley de la materia, sus reglamentos, normas técnicas y parámetros estatales aplicables, realice, autorice u ordene la emisión de gases, humos y polvos a la atmósfera, que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o a los ecosistemas.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+
+###### Artículo 342.
+
+Se impondrá sanción de tres meses a cinco años de prisión y multa por el equivalente de cinco a diez mil días de salario mínimo general vigente en el Estado de Baja California, al que sin autorización expedida por autoridad competente, y en contravención a las disposiciones de la ley de la materia, sus reglamentos, normas técnicas y parámetros estatales aplicables, deposite, infiltre, autorice, ordene o descargue aguas residuales, desechos contaminantes en suelos, ríos, cuencas, vasos, demás depósitos o corrientes de agua asignadas al Estado o al Municipio, que ocasionen o puedan ocasionar graves daños a la salud pública, flora, fauna y a los ecosistemas.
+
 ## ARTICULOS TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -2642,3 +2676,15 @@ EL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.
 LIC. OSCAR R. TELLEZ ULLOA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 10 DE MARZO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas.
