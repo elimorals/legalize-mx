@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1988-09-15"
+last_updated: "1988-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE SEPTIEMBRE DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE SEPTIEMBRE DE 1988.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -337,11 +337,11 @@ En sus periodos de sesiones ordinarias el Congreso se ocupará del estudio, disc
 
 En cada periodo de sesiones ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica.
 
-> <small>(REFORMADO, D.O.18 DE ENERO DE 1973)</small>
+> <small>(REFORMADO, D.O. 29 DE SEPTIEMBRE DE 1988)</small>
 
 ###### Artículo 28.
 
-El Congreso celebrará el último domingo de enero de cada uno de los cinco primeros años del periodo del Ejecutivo y el segundo domingo de diciembre del sexto año del mismo, una sesión solemne, en la cual el Gobernador del Estado deberá comparecer a rendir un informe acerca de la situación que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso contestará dicho informe en términos generales.
+A la apertura de sesiones ordinarias del primer periodo del Congreso de cada uno de los cinco primeros años del periodo del Ejecutivo y la sesión que se celebre el segundo domingo de diciembre del sexto año del mismo, asistirá el Gobernador del Estado y presentará un informe por escrito, en el que manifieste el estado general que guarda la Administración Pública del Estado. El Presidente del Congreso contestará a dicho Informe en términos generales.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -401,7 +401,7 @@ VII.- Señalar las contribuciones y otros ingresos que deban formar la hacienda 
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
-VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
+VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos,
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1781,7 +1781,7 @@ D.O. 5 DE ABRIL DE 1978.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
-D.O. 26 DE JUNIO DE 1978
+D.O. 26 DE JUNIO DE 1978.
 
 UNICO.- Este Decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
@@ -1852,3 +1852,7 @@ SEGUNDO.- Este decreto entrará en vigor el primero de enero de 1989.
 D.O. 15 DE SEPTIEMBRE DE 1988.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 29 DE SEPTIEMBRE DE 1988.
+
+UNICO.- Este Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
