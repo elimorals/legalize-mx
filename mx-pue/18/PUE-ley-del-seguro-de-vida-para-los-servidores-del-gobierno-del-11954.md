@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-seguro-de-vida-para-los-servidores-del-gobierno-del-119
 country: "mx"
 rank: "ley"
 publication_date: "1952-03-14"
-last_updated: "1974-04-16"
+last_updated: "1991-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 1991.
 
 Ley publicada en el periódico oficial del Estado de Puebla, el viernes 14 de marzo de 1952.
 
@@ -39,6 +39,14 @@ El H. XXXVIII Congreso Constitucional del Estado Libre y Soberano de Puebla, exp
 
 LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
+
+###### ARTICULO 1.
+
+Se instituye en esta Entidad Federativa con carácter obligatorio, el SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA.
+
+> <small>(REFORMADO, P.O.25 DE JUNIO DE 1965)</small>
+
 ###### ARTICULO 2.
 
 El Seguro que se crea tiene como fin la ayuda económica para los familiares de los Servidores del Gobierno del Estado.
@@ -49,43 +57,57 @@ Ningún nombramiento podrá expedirse sin el previo reconocimiento médico del i
 
 Las disposiciones de esta Ley no son aplicables a quienes ingresen al servicio por nombramiento, padeciendo de enfermedad que ponga en inminente peligro su vida, a juicio del médico oficial que practique el reconocimiento.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1965)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 3.
 
-El importe de la cuota individual por cada caso de defunción, será de $ 6.00 (SEIS PESOS).
+El importe de la cuota individual por cada caso de fallecimiento o incapacidad total o permanente, será de $ 200.00 (DOSCIENTOS PESOS, CERO CENTAVOS).
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
+
+###### ARTICULO 4.
+
+El Seguro de Vida para los Servidores del Gobierno del Estado de Puebla, estará a cargo de una Junta de Administración, la cual tendrá personalidad jurídica y estará integrada por un Representante del Poder Ejecutivo del Estado, que será el Secretario de Finanzas, un Representante del Poder Legislativo, un representante del Poder Judicial y dos Representantes que serán designados; uno por el Sindicato de Trabajadores al Servicio de los Poderes el Estado de Puebla y Organismos Descentralizados y otro por el Sindicato Nacional de Trabajadores de la Educación, Sección LI.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
+
+###### ARTICULO 5.
+
+Los miembros que integren la Junta de Administración del Seguro de Vida, actuarán en forma honorífica, y designarán de entre ellos al Presidente, Secretario, Comisario y Vocal; y durarán en su encargo hasta en tanto no sean removidos por quienes los designen.
 
 ###### ARTICULO 6o.
 
 La Junta de Administración se organizará y funcionará de acuerdo con el Reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1965)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 7.
 
-La Tesorería General del Estado descontará de los sueldos de los servidores del Gobierno el importe de sus cuotas individuales, en cada caso de fallecimiento o de incapacidad total y permanente de los asegurados, debiendo comunicar oportunamente el cumplimiento de esa obligación al Gobernador del Estado y a la Junta de Administración del Seguro. Esta última, dentro de los diez días siguientes a la recepción del aviso, propondrá al Gobernador la inversión específica inmediata que haya de darse a la suma recaudada, mediante su afectación en fideicomiso revocable o la compra de valores de constante mercado, de segura, fácil y pronta liquidación, de modo que produzca el mayor rendimiento compatible con la mayor seguridad y la liquidez necesaria para cumplir en su debida oportunidad con lo dispuesto en el artículo siguiente.
+La Secretaría de Finanzas del Gobierno del Estado, procederá a descontar de los sueldos que perciben los servidores públicos, el importe de las cuotas individuales, por concepto de fallecimiento o incapacidad total o permanente de los asegurados, comunicando oportunamente esta obligación al Ejecutivo del Estado y a la Junta de Administración del Seguro de Vida, la que dentro de los diez días siguientes de recibida la comunicación, determinará la aplicación de las cuotas recabadas, las cuales se invertirán en valores redituales (sic) de constante mercado, seguro fácil y pronta liquidación.
 
-El Gobernador del Estado, siempre dentro de las prescripciones del párrafo anterior, podrá aprobar o modificar la inversión propuesta o determinar la que debe hacerse si dentro del plazo señalado la Junta de Administración del seguro no formulare proposición.
-
-La resolución del Gobernador será ejecutada dentro de tercero día, conjuntamente por el Tesorero General del Estado y el de la Junta de Administración del Seguro de Vida de los Servidores del Gobierno del Estado de Puebla.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1967)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 8.
 
-En cada caso de defunción de algún servidor del Gobierno del Estado de Puebla, así como en el de incapacidad total y permanente del asegurado, deberá pagarse a éste o al beneficiario o beneficiarios de aquél, la cantidad de $ 38,000.00 (TREINTA Y OCHO MIL PESOS, CERO CENTAVOS), constituida por la suma de las cuotas descontadas a los asegurados en términos del artículo 3o. de esta Ley y con la cantidad ministrada por el Gobierno del Estado por conducto de la Caja de la Tesorería General del mismo, hasta completar la cantidad antes mencionada.
+En caso de fallecimiento o incapacidad total o permanente, de algún servidor público del Gobierno del Estado, se le entregará a su beneficiario o beneficiarios, o al propio asegurado en su caso, la cantidad de $ 5'000,000.00 (CINCO MILLONES DE PESOS, CERO CENTAVOS).
 
-###### ARTICULO 9o.
+El derecho del beneficiario designado para cobrar el Seguro de Vida, prescribe a los tres años, contados a partir de la fecha del fallecimiento del asegurado. En el caso de que no exista reclamación, el monto del seguro pasará al Fondo del Seguro de Vida para los Servidores del Gobierno del Estado de Puebla.
 
-Para designar a los beneficiarios, los asegurados formularán su pliego de mortaja, en dos tantos y ante dos testigos asegurados; debiendo quedar un tanto en poder de la Junta de Administración, en sobre cerrado, debidamente firmado por dos testigos; y el segundo tanto, quedará en poder de él o los beneficiarios.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
+
+###### ARTICULO 9.
+
+Para designar a los beneficiarios, los asegurados formularán su Póliza de Seguro de Vida, en dos tantos y ante dos testigos asegurados; debiendo quedar un tanto en poder (sic) la Junta de Administración en sobre cerrado, debidamente firmado por dos testigos, y el segundo tanto quedará en poder del o de los beneficiarios.
 
 ###### ARTICULO 10o.
 
 El asegurado en cualquier tiempo y cuantas veces lo desee podrá modificar las designaciones testamentarias que haya hecho de beneficiario o beneficiarios, en la inteligencia de que su última designación revocará las que haya hecho con anterioridad.
 
-###### ARTICULO 11o.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
 
-El Fondo del "SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA", está libre de todo gravamen, merma o distracción; no podrá ser embargado, enajenado, ni pagado a ninguna persona o corporación que no sean las expresamente señaladas en el pliego de mortaja.
+###### ARTICULO 11.
+
+El Fondo del "Seguro de Vida para los Servidores del Gobierno del Estado de Puebla", está libre de todo gravamen, merma o distracción. No podrá ser embargado enajenado, ni pagado a ninguna persona o corporación que no sean las expresamente señaladas en la Póliza del Seguro de Vida.
 
 ###### ARTICULO 12o.
 
@@ -101,39 +123,41 @@ A falta de disposición testamentaria, el importe del Seguro se entregará a los
 
 La Junta de Administración del Seguro de Vida de los Servidores del Gobierno del Estado, hará conocer a los Asegurados por medio de un boletín, los fallecimientos y los casos de incapacidad total y permanente que se registren.
 
-###### ARTICULO 15o.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
 
-Los Servidores del Gobierno del Estado que dejen de prestar sus servicios, pero que hayan trabajado al Estado por lo menos cuatro años, podrán conservar sus derechos al seguro siempre y cuando continúen pagando el importe de la cuota correspondiente a cada fallecimiento; pero perderán ese derecho cuando adeuden las cuotas correspondientes a tres fallecimientos.
+###### ARTICULO 15.
 
-###### ARTICULO 16o.
+Los Servidores del Gobierno del Estado que dejen de prestar sus servicios, pero que hayan trabajado por lo menos tres años continuos, podrán conservar su derecho al seguro, siempre y cuando paguen como cuota, el importe correspondiente a diez fallecimientos o incapacidades mensuales, como lo establece el Artículo 3 de esta Ley, y por períodos adelantados de seis meses. Dicho pago deberán realizarlo ante la Junta de Administración a que se refiere la misma, dentro de los primeros quince días hábiles de los meses de enero y julio de cada año. De no hacerlo, perderán ese derecho.
 
-Los funcionarios que hayan sido electos popularmente podrán conservar sus derechos al SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA, si así lo manifiestan al concluir el período para el que fueron electos dentro de los 30 días siguientes siempre y cuando hayan desempeñado las funciones del puesto para el que fueron electos por lo menos durante un año y que continúen, pagando las cuotas correspondientes a cada fallecimiento. Perderán este derecho cuando adeuden las cuotas correspondientes a tres fallecimientos.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE SEPTIEMBRE DE 1965)</small>
+###### ARTICULO 16.
+
+Los Servidores Públicos designados para un cargo de elección popular, podrán conservar su derecho al Seguro de Vida para los Servidores del Gobierno del Estado de Puebla, si así lo solicitan al concluir el período para el que fueron electos, o bien que hayan desempeñado el cargo por lo menos durante un año, y en ambos casos, continúen pagando las cuotas a que se refiere el Artículo anterior; petición que deberán formular ante la respectiva Junta, dentro de un término de treinta días, contados a partir de la terminación de su ejercicio, o de haber fenecido el año.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 17.
 
-Es optativo para los pensionistas a cargo del Gobierno del Estado, pertenecer o no al "SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA ", en el primero de los casos previstos formularán manifestación escrita, la que harán en un plazo no mayor de sesenta días a partir de la fecha de la promulgación de la presente ley.
+Es optativo para los pensionistas a cargo del Gobierno del Estado y del "Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla", (I.S.S.S.T.E.P.) continuar con los beneficios del Seguro de Vida para los Servidores del Gobierno del Estado de Puebla.
 
-El seguro de los pensionistas no amparará puntualidad que la de la muerte.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
 
-###### ARTICULO 18o.
+###### ARTICULO 18.
 
-Para el eficaz funcionamiento del Seguro, la Tesorería General del Estado está obligada a dar el aviso inmediato a la Junta de Administración, de las altas, bajas y defunciones que se registren, de los trabajadores al servicio del Gobierno del Estado.
+Para el eficaz funcionamiento del seguro, la Secretaría de Finanzas del Gobierno del Estado, dará aviso inmediato a la Junta de Administración, de las altas, bajas y defunciones que se registren de los Servidores Públicos al Servicio del Gobierno del Estado.
 
 ###### ARTICULO 19o.
 
 Los gastos de administración, escritorio, y publicidad, serán cubiertos por el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 20.
 
-Cuando el asegurado sufra incapacidad total o permanente, o sea la pérdida absoluta de facultades o de aptitudes que lo imposibiliten para poder desempeñar cualquier trabajo por el resto de su vida, se le entregará al propio asegurado, la cantidad de $ 50,000.00 que se aportará en los términos que prescribe el Artículo 8° de esta Ley.
+Cuando el asegurado sufra incapacidad total o permanente, consistente ésta en la pérdida absoluta de facultades o de aptitudes que le imposibiliten para desempeñar cualquier trabajo por el resto de su vida, se le entregará al asegurado, la cantidad establecida en el Artículo 8 de esta Ley, que asciende a la cantidad de $ 5'000,000.00 (CINCO MILLONES DE PESOS CERO CENTAVOS).
 
-A efecto de que la Junta Administrativa esté en condición de acordar el pago de una póliza por incapacidad, es necesario que el derechohabiente obtenga dictamen de dos médicos designados por la Junta, en el caso de que éstos no concuerden, se recabará la opinión de un tercero nombrado por la misma.
-
-> <small>(F. DE E. 16 DE AGOSTO DE 1974)</small>
+A efecto de que la Junta Administrativa esté en condición de efectuar el pago de una póliza por incapacidad, es necesario que el derechohabiente obtenga dictamen de dos médicos designados por la Junta.
 
 La presente disposición no es aplicable a los pensionistas y socios voluntarios.
 
@@ -149,23 +173,17 @@ Si la incapacidad a que se refiere el artículo anterior, trae como consecuencia
 
 La entrega del Seguro en los casos de incapacidad total y permanente del Asegurado, excluye el Seguro que se entrega en los casos de defunción.
 
-(REFORMADO, P.O. 25 DE JUNIO DE 1965) (F. DE E. 31 DE AGOSTO DE 1965)
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 23.
 
-La entrega de los seguros que instituye esta Ley, se hará mensualmente por el Ejecutivo del Estado y con la presencia de los miembros de los Departamentos Legislativo y Judicial. En ningún caso esta entrega será menor de dos pólizas.
+La entrega del seguro que instituye esta Ley, se hará a los beneficiarios en el momento de cumplir con los requisitos que establece esta Ley.
 
 TRANSITORIOS:
 
 ###### ARTICULO 1º.
 
 La presente ley entrará en vigor desde el día de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO 1o.
-
-Se instituye en esta entidad con carácter obligatorio, el SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA.
-
-> <small>(REFORMADO, P.O.25 DE JUNIO DE 1965)</small>
 
 ###### ARTICULO 2º.
 
@@ -194,14 +212,6 @@ PRIMERO.- Se abrogan los artículos 3°. y 8° de la Ley que se reforma, para qu
 SEGUNDO.- Este Decreto comenzará a surtir sus efectos a partir del día 1° de febrero de 1955.
 
 P.O. 24 DE ENERO DE 1956.
-
-###### ARTICULO 4o.
-
-El Seguro de los Servidores del Gobierno del Estado de Puebla, estará a cargo de una Junta de Administración, la cual tendrá personalidad jurídica y estará integrada por un Representante del Gobierno del Estado, que será el Tesorero General del Estado, un Representante del Poder Legislativo, uno del Poder Judicial, y dos del Poder Ejecutivo que serán designados uno por los burócratas y otro por el profesorado.
-
-###### ARTICULO 5o.
-
-Los cargos de los integrantes de la Junta de Administración, serán honoríficos y durarán un año.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -234,3 +244,7 @@ El presente Decreto entrará en vigor a partir de la fecha de su publicación en
 P.O. 16 DE ABRIL DE 1974.
 
 Unico.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 1991.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
