@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1997-12-11"
+last_updated: "1998-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -103,17 +103,15 @@ III.-El pago del impuesto deberá hacerse mediante declaración que se presentar
 
 El contribuyente podrá optar por pagar el impuesto en los términos del artículo anterior o bajo las siguientes condiciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-a).-Una cuota mensual por unidad que determinará la Secretaría de Finanzas y Planeación, estimando sus ingresos probables que no podrá ser menor a la cantidad equivalente a dos días de salario mínimo de la zona económica del lugar donde se encuentra prestando el servicio la unidad.
+a).-Una cuota mensual o trimestral por unidad que determinará la Secretaría de Finanzas y Planeación, estimando ingresos probables de los contribuyentes de este impuesto que utilicen esta opción que no podrá ser menor por cada mes a la cantidad equivalente a dos días de salario mínimo de la zona económica del lugar donde se encuentra prestando el servicio la unidad.
 
-Esta cuota mensual deberá ser pagada en los términos de la fracción III del artículo anterior excepto la obligación de presentar declaración de ingresos.
+Este tipo de cuota deberá ser pagada en los términos de la fracción III del artículo anterior y no genera la obligación de presentar declaración de ingresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-b) Una cuota anual por unidad que la Secretaría de Finanzas y Planeación determinará considerando el registro de los ingresos gravables. Dicha cuota deberá cubrirse a más tardar el 30 de mayo del año de que se trate.
-
-Cuando los ingresos totales percibidos en un ejercicio fiscal excedan en más de un 20% de los que se hubieren determinado para el señalamiento de la cuota fija a pagar, ésta quedará sin efecto y el contribuyente estará obligado a pagar las diferencias que resulten de la comprobación de los ingresos reales.
+b).-Una cuota anual por unidad que la Secretaría de Finanzas y Planeación determinará considerando el registro de los ingresos gravables. Dicha cuota deberá cubrirse a más tardar el 31 de mayo del año de que se trate. Quienes opten por esta forma de pago, tendrán un descuento equivalente al 20% del importe a pagar.
 
 ###### ARTICULO 7.
 
@@ -175,7 +173,7 @@ ASISTENCIA PUBLICA
 
 AUTOMOTORES USADOS
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ### CAPITULO V. DEL IMPUESTO ADICIONAL PARA EL FOMENTO
 
@@ -221,13 +219,17 @@ VI.-Representaciones teatrales de comedias, drama, opera, opereta, zarzuela, rev
 
 VII.-Exhibiciones, desfiles de modas y concursos, sobre el precio de cada boleto, ficha o pase de cualquier clase, que dé derecho a entrar al espectáculo, el 10%;
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-VIII.-Bailes sobre la entrada bruta el 10%, y
+VIII.-Bailes sobre la entrada bruta el 10%,
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-IX.-Los no comprendidos en las fracciones anteriores sobre el precio del total de los boletos vendidos, el 10%.
+IX.-Aparatos electromecánicos, de diversión instalados en lugares públicos, en fiestas titulares, carnavales, ferias tales como; caballitos, rueda de la fortuna, trabant, pulpo, martillo, y cualquier otro impulsado por fuerza motriz o electrónica; del total de los boletos vendidos el 10%, y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+X.-Los no comprendidos en las fracciones anteriores sobre el precio del total de los boletos vendidos, el 10%.
 
 ###### ARTICULO 22.
 
@@ -291,21 +293,25 @@ IV.- Retener y enterar en la Oficina de Hacienda correspondiente, el mismo día 
 
 V.- A entregar boletos individuales de entrada y comprobantes de pago de cuotas, foliados consecutivamente y autorizados sellados por la Oficina de Hacienda del Estado correspondiente, en los que consten los siguientes datos:
 
-a).-Nombre, denominación o razón social de la empresa o persona que organice explote o patrocine la diversión o el espectáculo público;
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-b).-El precio o cuota de entrada; y
+c).-Cuando se termine la totalidad del boletaje sellado o autorizado, podra utilizarse el talón para su venta, incluyéndose éstos como boletos vendidos para el cálculo del impuesto;
 
-c).-Monto del impuesto que se cause, o la mención de que éste se encuentra incluido en el precio o cuota.
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+d).-Señalar al momento de la autorización del boletaje, el número de boletos para preventa y taquilla, sin que interfieran unos de otros cuando sean agotados según su localidad; y
 
-Al termino del espectáculo, los organizadores tendrán la obligación de entregar a la Oficina de Hacienda correspondiente, la totalidad de los talonarios de boletos sellados;
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+e).-Monto del impuesto que se cause, o la mención de que este se encuentra incluido en el precio o cuota.
+
+> <small>(ADICIONADO, G.O.31 DE DICIEMBRE DE 1998)</small>
+
+Al término del espectáculo, los organizadores tendrán la obligación de entregar a la Oficina de Hacienda correspondiente, la totalidad de los talonarios de boletos sellados;
 
 VI.-Llevar libro de ingresos y egresos, donde se hagan constar sus actividades; y
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-VII.-Retener y enterar el impuesto a la Secretaría de Finanzas y Planeación.
+VII.-(DEROGAGA, G.O. 31 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
@@ -395,9 +401,9 @@ o se pagará este impuesto, cuando por el mismo concepto, se cause el Impuesto a
 
 DISPOSICIONES GENERALES
 
-###### ARTICULO 33-A.
+###### Artículo 33-A.
 
-Es objeto de este Impuesto la Adquisición de Vehículos de motor usados en general, independientemente de las características del mismo, que se efectué en territorio del Estado.
+Es objeto de este Impuesto la Adquisición de Vehículos usados impulsados por motor, que sean enajenados por particulares y que deban registrarse en los padrones que lleva el Estado, independientemente de las características de los mismos.
 
 Para los efectos de este artículo se considera adquisición de Vehículos:
 
@@ -409,11 +415,11 @@ III.-Las adjudicaciones aun cuando se realicen por el acreedor y la dación en p
 
 IV.-La permuta.
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-###### ARTICULO 33-B.
+###### Artículo 33-B.
 
-Son sujetos de este impuesto, las personas físicas y morales que adquieran vehículos de motor en el territorio del Estado.
+Son sujetos de este impuesto, las personas físicas o morales que adquieran vehículos usados impulsados con motor, que deban ser registrados en los padrones a cargo del Estado.
 
 Se considera, salvo prueba en contrario que la adquisición se efectuó en el Estado de Veracruz, cuando al realizar trámites vehiculares de circulación se de alguno de los siguientes supuestos:
 
@@ -757,13 +763,19 @@ II.-El adquiriente o enajenante de vehículos a que se refiere el artículo 33-A
 
 III.-Los comisionistas o intermediarios que intervengan en las adquisiciones.
 
-Tienen obligación los adjudicantes de vehículos de motor, de endosar la factura a la persona o sociedad a la que se adjudique señalando la fecha en que esto suceda; en caso de no hacerlo incurrirá en responsabilidad solidaria, estando facultada la Autoridad a cobrar indistintamente el Impuesto correspondiente.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Tienen obligación los adjudicantes de vehículos de motor, de endosar la factura a la persona física o moral a la que se adjudique, señalando la fecha en que esto suceda; en caso de no hacerlo incurrirá en responsabilidad solidaria, estando facultada la autoridad a cobrar indistintamente el impuesto correspondiente.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 33-K.
+
+Queda eximido del pago del impuesto sobre adquisición de vehículos automotores usados las enajenaciones que se realicen por empresas.
 
 > <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 ### CAPITULO SEGUNDO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
-
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 34.
 
@@ -791,23 +803,27 @@ El ingreso que se perciba se aplicará íntegramente al fomento de la educación
 
 Este impuesto no se causa por:
 
-I.-El impuesto sobre diversiones y espectáculos públicos.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-II.-Los derechos por Servicios de Tránsito siguientes:
+I.-El impuesto sobre diversiones y espectáculos públicos;
 
-a).-Dotación de placas, calcomanías y expedición de tarjetas de circulación de vehículos de motor;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-b).-Expedición de licencia para conducir vehículos de motor;
+II.-Los derechos por Servicios de Tránsito y Transporte por la expedición de licencia para conducir vehículos de motor;
 
-c) (DEROGADO, G.O. 28 DE DICIEMBRE DE 1995)
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-III.-Las contribuciones por mejoras.
+III.-Los derechos por Servicios de la Secretaría de Finanzas y Planeación en materia de registro y control vehicular, relacionado con la dotación de placas, calcomanías y expedición de tarjetas de circulación de vehículos de motor, y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+IV.-Las contribuciones por mejoras.
 
 ## TITULO SEGUNDO
 
 ### CAPITULO TERCERO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE GOBERNACION
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 40.
 
@@ -837,21 +853,11 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 
 GENERAL DE TRÁNSITO Y TRANSPORTE
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-###### Artículo 45.
+###### ARTICULO 45.
 
-Para los efectos de esta Ley, la Secretaría General de Gobierno cobrará derechos por los servicios que presten las siguientes dependencias de su adscripción:
-
-I. Dirección General de Gobernación;
-
-II. Dirección General de Tránsito y Transporte;
-
-III. Registro Público de la Propiedad;
-
-IV. Inspección y Archivo General de Notarías; y
-
-V. Editora de Gobierno del Estado.
+(DEROGADO, G.O. 31 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
@@ -1165,9 +1171,9 @@ LA SECRETARIA DE FINANZAS Y PLANEACION
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-###### ARTICULO 47.
+###### Artículo 47.
 
-Por servicios prestados por la Dirección General de Gobernación, se causarán y pagarán los derechos siguientes:
+Por servicios prestados por la Secretaría General de Gobierno en materia de Gobernación, se causarán y pagarán los derechos siguientes:
 
 I.-Por legalización de firmas que comprenden:
 
@@ -1265,9 +1271,9 @@ DIRECCION GENERAL DE TELECOMUNICACIONES.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-###### ARTICULO 48.
+###### Artículo 48.
 
-Por los servicios prestados por la Dirección General de Tránsito y Transporte, se causarán y cobrarán los derechos siguientes:
+Por los servicios prestados por la Secretaría General de Gobierno en materia de Tránsito y Transporte, se causarán y cobrarán los derechos siguientes:
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -1369,7 +1375,7 @@ G).-Permiso especial a particular para circular por 30 días con el parabrisas d
 
 > <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
-h).- Pemiso para establecer escuelas para la enseñanza del manejo de vehículos:
+H).- Pemiso para establecer escuelas para la enseñanza del manejo de vehículos:
 
 100 Salarios Mínimos
 
@@ -1377,91 +1383,25 @@ Por revalidación Anual
 
 50 Salarios Mínimos
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+VII.-(DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
 
-VII.-Por servicios de control vehicular el cual debela cubrirse en un plazo no mayor de 15 días en que ocurra cualquiera de los supuestos que a continuación se enumeran, con el pago simultáneo de los impuestos y derechos que deban de cubrirse conforme al tipo de movimiento:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+VIII.-Por servicios de Transporte Público:
 
-A).-Dotación de placas para todo tipo de vehículos.
+A).-(DEROGADO, G.O. 31 DE DICIEMBRE DE 1998)
 
-8 salarios mínimos
+B).-(DEROGADO, G.O. 31 DE DICIEMBRE DE 1998)
 
-B).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-C).-Expedición anual del comprobante fiscal de control vehicular, el cual deberá hacerse dentro de los primeros tres meses del año.
-
-4 salarios mínimos
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-D).-Canje anual de tarjeta de circulación para motocicleta.
-
-2 Salarios Mínimos
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-E).-Baja de vehículos correspondientes a la misma localidad.
-
-1 salario mínimo
-
-> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
-
-F).-Baja de vehículos correspondientes a otra Entidad Federativa:
-
-8 salarios mínimos
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-G).-Alta de vehículo, sin presentar la baja correspondiente, previa comprobación de haber cubierto los adeudos anteriores de impuestos o derechos de la unidad.
-
-20 salarios mínimos
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-H).-Falta de entrega de placas en el tramite de baja definitiva.
-
-Por placa 2 salarios mínimos
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-I).-Falta de entrega de tarjeta de circulación en el trámite de: Baja Definitiva o Cambio de: Domicilio; Propietario; Motor; Servicio; Entidad o de vehículo.
-
-2 salarios mínimos
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-J).-Alta o baja extemporánea del vehículo, previa comprobación de haber cubierto los adeudos anteriores por impuestos y derechos generados por la unidad.
-
-2 salarios mínimos
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
-
-VIII.-Por servicios de Transporte Público.
-
-A).-Alta de unidad
-
-4 salarios mínimos
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-B).- Baja administrativa o definitiva de unidad.
-
-1 salario mínimo.
-
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
-
-C) Expedición de Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros.
-
-4 salarios mínimos
+C).-(DEROGADO, G.O. 31 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
 D) Reposición de la Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros.
 
 2 salarios mínimos
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 E).-Expedición de Tarifa oficial para el Cobro de Servicio Público de Pasajeros.
 
@@ -1475,25 +1415,15 @@ G).-Expedición de permisos temporales.
 
 Por día 0.50 salarios mínimo
 
-> <small>(ADICIONADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
+H).- (DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
 
-H).-Por la expedición de nuevas placas por reasignaciones otorgadas por la Dirección General de Tránsito y Transporte del Estado:
-
-8 salarios mínimos
-
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-I).-Canje anual de tarjeta de circulación y expedición del comprobante fiscal de control vehicular.
-
-4 salarios mínimos
+I).- (DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 IX.-Por la Prestación de otros Servicios:
 
-A).-Duplicado de Tarjeta de Circulación.
-
-2 salarios mínimos
+A).-(DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1519,17 +1449,27 @@ E).-Por la utilización de servicio oficial de depósito y custodia de vehículo
 
 Por día 0.20 salario mínimo
 
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-X. Por el otorgamiento de una concesión para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en el artículo 177 del Reglamento de la Ley de Tránsito y Transporte.
+X.-Por el otorgamiento de una concesión o permisos en trámite para prestar el servicio público de transporte en las diferentes modalidades previstas en el artículo 177 del Reglamento de la Ley de Tránsito y Transporte.
 
-De 150 a 300 salarios mínimos
+A).-Taxi y colectivo.
 
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
+200 salarios mínimos
 
-XI. Por la transmisión por sucesión de los derechos de una concesión para prestar el Servicio Público en cualquiera de sus modalidades.
+B).-Urbano, Suburbano y foráneo
 
-De 50 a 100 salarios mínimos
+230 salarios mínimos
+
+C).-Carga, escolar, exclusivo de turismo y transporte de personal.
+
+125 salarios mínimos
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+XI.- Por la transferencia por fallecimiento del titular de una concesión para prestar el servicio público en la modalidad de taxi, colectivo, urbano, suburbano, foráneo, carga, escolar, exclusivo turismo y transporte de personal.
+
+50 salarios mínimos
 
 XII.- (DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
@@ -1543,11 +1483,17 @@ Revalidación anual: salarios mínimos
 
 100 salarios mínimos
 
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-XIV. Por la transmisión por cesión de los derechos para prestar el Servicio Público de Transporte de carga y pasajeros en las modalidades de urbano, suburbano y foráneo, con ruta e itinerario fijo, con ruta fija, servicio A y B, taxi, colectivo en automóvil, turismo, escolar, de personal de empresa y rural mixto de carga de pasaje.
+XIV.-Por la transferencia por cesión de derechos de una concesión para prestar el Servicio Público de Transporte en las modalidades siguientes:
 
-De 100 a 300 salarios mínimos
+A).-Taxi, colectivo, urbano, suburbano, foráneo, carga, escolar, exclusivo turismo y transporte de personal.
+
+150 salarios mínimos
+
+B).-Rural mixto
+
+100 salarios mínimos
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1561,29 +1507,25 @@ PODER JUDICIAL DEL ESTADO
 
 Por los servicios prestados por la Secretaría de Finanzas y Planeación del Estado, se causarán y pagarán los derechos siguientes:
 
-I.-Del Departamento de Catastro.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+I.-La Dirección de Catastro
 
-a).-Por la expedición de la célula catastral.
+a).-Por la expedición de una cédula catastral.
 
-3 salarios mínimos
+3 salarios mínimos.
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+b).-Por la expedición de un certificado de Valor Catastral o Catastral Provisional.
 
-b).-Por la expedición de certificados de valor catastral o catastral provisional.
+5 salarios mínimos.
 
-3 salarios mínimos
+c).-Por la expedición de una constancia de datos catastrales.
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+3 salarios mínimos.
 
-c).-Por la expedición de constancias diversas de datos catastrales.
+d).-Por la certificación de cada plano expedido por la Dirección de Catastro.
 
-3 salarios mínimos
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-d).-Por la certificación de planos expedidos por el Departamento de Catastro. 3 salarios mínimos
+3 salarios mínimos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
@@ -1606,6 +1548,74 @@ b).-Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 c).-Los cambios de registro originados por regularización de la nomenclatura Catastral, o de la circunscripción municipal.
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+III.-Por servicios de Registro y Control vehicular:
+
+a).-Dotación de placas para los siguientes tipos de vehículos:
+
+1.-Para automóvil:
+
+8 salarios mínimos
+
+2.-Para camión , taxi, carga, pasaje y remolque:
+
+4 salarios mínimos
+
+3.-Para motocicleta:
+
+4 salarios mínimos
+
+b).-Expedición anual del comprobante fiscal de control vehicular, el cual deberá hacerse dentro de los primeros tres meses del año:
+
+4 salarios mínimos
+
+c).-Reposición del engomado numeral y comprobante fiscal de control vehicular:
+
+4 salarios mínimos
+
+d).-Canje anual de tarjeta de circulación para motocicleta y remolque:
+
+2 salarios mínimos
+
+e).-Reposición de tarjeta de circulación por extravío:
+
+2 salarios mínimos
+
+f).-Baja de vehículos registrados y emplacados en el Estado de Veracruz:
+
+1 salario mínimo
+
+g).-Baja de vehículos correspondientes a otra Entidad Federativa:
+
+8 salarios mínimos
+
+h).-Falta de entrega de placas en el trámite de baja definitiva:
+
+Por placa:
+
+2 salarios mínimos
+
+i).-No entregar la tarjeta de circulación en el trámite de baja definitiva o cambio de: domicilio; propietario; motor; servicio; entidad o de vehículo:
+
+2 salarios mínimos
+
+j) Baja de unidad vehicular destinada al servicio público de transporte:
+
+1 salario mínimo
+
+k).-Alta o baja extemporánea del vehículo, previa comprobación de haber cubierto los adeudos anteriores por impuestos y derechos generados por la unidad:
+
+2 salarios mínimos
+
+l).-Alta de vehículos por cambio de propietario sin dotación de nuevas placas de circulación, previa comprobación de haber cubierto los adeudos anteriores por impuestos y derechos generados por la unidad:
+
+4 salarios mínimos
+
+m).-Canje Anual de Tarjeta de Circulación y expedición de comprobante fiscal de control vehicular de las unidades de automotor destinadas al transporte público:
+
+4 salarios mínimos
 
 > <small>(REFORMADA SU DENOMINCACION, G.O. 17 DE DICIEMBRE DE 1994)</small>
 
@@ -1673,7 +1683,7 @@ Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Pr
 
 LA SECRETARIA DE DESARROLLO URBANO
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 52.
 
@@ -1941,9 +1951,9 @@ T A R I F A S :
 
 ### CAPITULO UNICO
 
-###### ARTICULO 53-B.
+###### Artículo 53-B.
 
-Por los servicios prestados por la Dirección General del Patrimonio, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Desarrollo Regional en materia de Patrimonio del Estado, se causarán y pagarán los derechos siguientes:
 
 I.- TRABAJO TECNICO POR LOTE.
 
@@ -1979,11 +1989,11 @@ VIII.-Por Copias Certificadas de Documentos, por hoja. 0.25 salario mínimo
 
 IX.-Por Certificación de Copias Heliográficas de Planos. 2 salarios mínimos
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-###### ARTICULO 53-C.
+###### Artículo 53-C.
 
-Por los servicios prestados por la Dirección General de Asuntos Ecológicos, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Desarrollo Regional en materia de Asuntos Ecológicos, se causarán y pagarán los derechos siguientes:
 
 I.- Por la verificación en materia de impacto ambiental para la autorización de los proyectos de obras o actividades.
 
@@ -2447,11 +2457,11 @@ Comercial 60
 
 Servicios 50
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-###### ARTICULO 53-D.
+###### Artículo 53-D.
 
-Por los servicos prestados por la Unidad de Planeación, se causarán y cobrarán los siguientes derechos:
+Por los servicios prestados por la Secretaría de Desarrollo Regional a través de la Unidad de Planeación, se causarán y cobrarán los siguientes derechos:
 
 I.-Por copias certificadas de documentos.
 
@@ -3229,9 +3239,9 @@ IX.-Almacenaje o guarda de bienes; y
 
 X.-Provenientes de archivo.
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-XI.- LOS PRODUCTOS PROVENIENTES DEL DEPARTAMENTO DE CATASTRO.
+XI.-Los productos provenientes de la Dirección de Catastro.
 
 > <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -3452,3 +3462,7 @@ La presente Ley entrará en vigor el día primero de enero de 1997, previa su pu
 G.O. 11 DE DICIEMBRE DE 1997.
 
 Artículo único. La presente Ley entrará en vigor el día 1° de enero de 1998, previa su publicación en la Gaceta Oficial, órgano del gobierno del estado de Veracruz-Llave.
+
+G.O. 31 DE DICIEMBRE DE 1998.
+
+Artículo Unico. La presente ley entrará en vigor el día 1° de enero de 1999, previa su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz-Llave.
