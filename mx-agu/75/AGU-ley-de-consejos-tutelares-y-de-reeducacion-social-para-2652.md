@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-consejos-tutelares-y-de-reeducacion-social-para-2652"
 country: "mx"
 rank: "ley"
 publication_date: "1982-01-17"
-last_updated: "1992-12-13"
+last_updated: "2004-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE CONSEJOS TUTELARES Y DE REEDUCACION SOCIAL PARA MENORES DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LAS VERSIONES CORREGIDAS DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EN EL 29 DE OCTUBRE Y 5 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE CONSEJOS TUTELARES Y DE REEDUCACION SOCIAL PARA MENORES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 17 de enero de 1982.
 
@@ -39,9 +41,11 @@ LEY DE CONSEJOS TUTELARES Y DE REEDUCACION SOCIAL PARA MENORES DEL ESTADO DE AGU
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 1o.
 
-Las normas de esta Ley son de interés público y su finalidad exclusiva es de naturaleza tutelar.
+Las normas de esta Ley son de interés público y su finalidad exclusiva es de naturaleza tutelar, con la posibilidad de aplicar las medidas de seguridad previstas en la Legislación Penal para el Estado de Aguascalientes, en los supuestos previstos para el efecto.
 
 ###### Artículo 2o.
 
@@ -63,9 +67,11 @@ Las autoridades estatales y municipales están obligadas a prestar auxilio a los
 
 La protección tutelar en forma preventiva se iniciará antes de que los seres humanos sean concebidos y se extenderá con acciones preventivas y directas, hasta que alcancen la mayoría de edad.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 7o.
 
-Son menores de edad para los efectos de esta Ley, las personas a quienes da dicho tratamiento el Código Penal.
+Son menores de edad para los efectos de aplicación de esta Ley y de las medidas de seguridad previstas en la Legislación Penal para el Estado de Aguascalientes, las personas a quienes da dicho tratamiento tal legislación.
 
 ## TITULO SEGUNDO. AMBITO DE VALIDEZ
 
@@ -93,19 +99,25 @@ Los Consejos Tutelares son órganos que se integrarán por un abogado, un profes
 
 El pleno del Consejo Tutelar lo integran los Consejeros antes citados, sesionando en forma colectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 11.
 
-Los menores de edad a que se refiere esta Ley, son inimputables; en consecuencia, para conocer las infracciones cometidas por éstos, se crea en la Capital del Estado, un Consejo Tutelar Central para Menores, con jurisdicción en toda la Entidad, cuyas funciones y facultades serán las siguientes:
+Los menores de edad a que se refiere esta Ley, son inimputables; en consecuencia, para conocer de su autoría o participación en hechos punibles específicos, se crea en la capital del Estado, un Consejo Tutelar Central para Menores, con jurisdicción en toda la Entidad cuyas funciones y facultades serán las siguientes:
 
-I.- Conocer de todos los casos relacionados con menores de 16 años y mayores de 7 que infrinjan las leyes penales, reglamentos de policía, de tránsito o reglas de buen gobierno;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+I.- Conocer de todos los hechos punibles en los que se involucre a menores, en términos de lo establecido en la Legislación Penal para el Estado de Aguascalientes, que puedan ser encuadrados en cualquiera de las figuras típicas propuestas por dicho ordenamiento legal, o que alteren las disposiciones de los reglamentos de policía, de tránsito o reglas de buen gobierno;
 
 II.- Conocer de todos los demás casos en que, aunque no exista ninguna infracción, sea conveniente prevenir y corregir a los menores cuando tengan malos ejemplos, mala conducta, compañías corruptas o se encuentren en estado de abandono, pervertidos o en trance de serlo;
 
 Conocer del comportamiento personal de los menores, cuando se presuma fundadamente una inclinación a causar daños a la sociedad, a su familia o a sí mismos.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 12.
 
-El Consejo Tutelar para Menores tiene por objeto promover la reeducación social del menor en todos los casos a que se refiere el artículo anterior, mediante el estudio integral de su personalidad, la aplicación de medidas preventivas, tutelares, educativas y de protección, así como la vigilancia del tratamiento que para lograr tal finalidad se hubiera aplicado.
+El Consejo Tutelar para Menores tiene por objeto promover la reeducación social del menor en todos los casos a que se refiere el artículo anterior, mediante el estudio integral de su personalidad, la aplicación de medidas de seguridad, preventivas, tutelares, educativas y de protección previstas en la ley, así como la vigilancia del tratamiento que para lograr tal finalidad se hubiera aplicado.
 
 ###### Artículo 13.
 
@@ -237,9 +249,11 @@ Entre el personal técnico de los Consejos Tutelares podrá contarse con trabaja
 
 Los Consejos Tutelares, conocerán de los casos a que se refiere la fracción I del Artículo 11 de esta Ley, y se ocuparán esencialmente del estudio del acto ejecutado por el menor; de su situación personal en los casos II y III de la misma disposición, y de su observación en sus aspectos económico, social, médico, psicológico, psiquiátrico, pedagógico y demás necesarios para determinar mejor sus necesidades personales, su enmienda y readaptación al medio social.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 28.
 
-Las actuaciones, audiencias y demás diligencias que se practiquen en el caso de un menor, no serán públicas y éste no podrá estar asistido por su asesor.
+Las actuaciones, audiencias y demás diligencias que se practiquen en el caso de un menor, no serán públicas, pero si éstas se realizan con motivo del procedimiento establecido por la Legislación Penal para el Estado de Aguascalientes, tal menor necesariamente será asistido por su defensor.
 
 ###### Artículo 29.
 
@@ -249,19 +263,23 @@ Las solicitudes y gestiones que provengan de cualquier autoridad deberán hacers
 
 Las solicitudes y demás gestiones hechas por particulares se presentarán en forma oral o escrita. En el caso de que sea oral, el Consejo asentará razón escrita de la petición formulada en el expediente respectivo.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 31.
 
-Los procedimientos tutelares serán gratuitos y ajenos a todo formalismo que dificulte la pronta y eficaz tutela a los menores, se conservarán en secreto y sólo se darán informes a las autoridades que los soliciten, siempre que no se perjudique al menor y sean indispensables para el conocimiento de la verdad en otras investigaciones de carácter legal.
+Los procedimientos tutelares serán gratuitos y ajenos a todo formulismo que dificulte la pronta y eficaz tutela a los menores, se conservarán en secreto y sólo se darán informes a las autoridades que los soliciten, siempre que no se perjudique al menor y sean indispensables para el conocimiento de la verdad en otras investigaciones de carácter legal. Tratándose del procedimiento especial previsto en la Legislación Penal para el Estado de Aguascalientes, se estará a lo dispuesto por ésta última.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 32.
 
-En los casos de infracciones de la fracción I del Artículo 11 de esta Ley, el procedimiento tendrá tres períodos:
+En los casos de autoría o participación en hechos punibles descritos en la Legislación Penal para el Estado de Aguascalientes, se estará a lo ordenado por los artículos 530, 531, 532, 533 y 534 de la misma.
 
-I.- El de investigación, que comprenderá las diligencias necesarias para la comprobación de los elementos constitutivos de la infracción, la determinación de la edad del menor y su participación en el hecho que se investigue.
+I.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
 
-II.- El de observación, que tendrá como objeto el estudio integral de la personalidad del menor.
+II.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
 
-III.- El de ejecución, que tendrá por objeto la aplicación de las medidas impuestas en la resolución final, encaminadas a lograr la enmienda y la mejor readaptación social del menor.
+III.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
 
 ###### Artículo 33.
 
@@ -287,15 +305,17 @@ En las resoluciones en que se aplique alguna medida al menor, el Consejo asentar
 
 Para el despacho de los asuntos sometidos al conocimiento del Consejo, el Presidente mandará practicar notificaciones, expedirá citas y ordenará la presentación de las personas que se considere necesarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 39.
 
-Para los efectos del artículo anterior, toda persona está obligada a comparecer en el Consejo cuando sea citada, salvo imposibilidad por motivo justificado. El Consejo para hacer cumplir sus determinaciones, podrá emplear medios de apremio entendiéndose por tales en su orden:
+Para los efectos del artículo anterior, toda persona está obligada a comparecer en el Consejo cuando sea citada, salvo imposibilidad por motivo justificado. El Consejo para hacer cumplir sus determinaciones, podrá emplear medios de apremio previstos en la Legislación Penal para el Estado de Aguascalientes.
 
-I.- Multa hasta de $ 1,000.00.
+I.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
 
-II.- Auxilio de la fuerza pública.
+II.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
 
-III.- Arresto hasta de 8 días.
+III.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
 
 ###### Artículo 40.
 
@@ -343,9 +363,11 @@ Acreditada la existencia de la necesidad del Consejo correspondiente determinar�
 
 Los casos que requieren protección específica son los relativos a la conducta y a las situaciones irregulares de los menores de edad.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 50.
 
-Se consideran conductas irregulares todas aquellas que sin constituir delito por el carácter de inimputabilidad de los menores, se tipifican como ilícitos en las leyes penales vigentes, las contrarias a toda disposición reglamentaria en vigor y las que rechazan la moral y las buenas costumbres.
+Se consideran conductas irregulares todas aquellas que sin constituir un delito por el carácter de inimputabilidad de los menores, se puedan encuadrar a las descripciones típicas propuestas por la Legislación Penal para el Estado de Aguascalientes, las contrarias a toda disposición reglamentaria en vigor y las que rechazan la moral y las buenas costumbres.
 
 ###### Artículo 51.
 
@@ -660,3 +682,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 12 DE FEBRERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
