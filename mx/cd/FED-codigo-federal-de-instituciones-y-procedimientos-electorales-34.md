@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "1996-11-22"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -329,7 +329,7 @@ lV. Si aún quedaren curules por distribuir se asignarán de conformidad con los
 
 2. Para asignar los diputados que les correspondan a cada partido político, por circunscripción plurinominal, se procederá como sigue:
 
-a) Se obtendrá la votación efectiva por circunscripción, que será la que resulte de deducir la votación del o los partidos políticos que se ubiquen en los supuestos previstos en las fracciones IV y V del artículo 54 constitucional, en cada una de las circunscripciones;
+a) Se obtendrá la votación efectiva por circunscripción, que será la que resulte de deducir la votación del o los partidos políticos que se ubiquen en los supuestos previstos en las fracciones lV y V del artículo 54 constitucional, en cada una de las circunscripciones;
 
 b) La votación efectiva por circunscripción se dividirá entre el número de curules pendientes de asignar en cada circunscripción plurinominal, para obtener el cociente de distribución en cada una de ellas;
 
@@ -1005,7 +1005,7 @@ g) Las empresas mexicanas de carácter mercantil.
 
 a) Para el sostenimiento de actividades ordinarias permanentes:
 
-I. El Consejo General del Instituto Federal Electoral determinará anualmente, con base en los estudios que le presente el Consejero Presidente, los costos mínimos de una campaña para diputado, de una para senador y para la de Presidente de los Estados Unidos Mexicanos, tomando como base los costos aprobados para el año inmediato anterior, actualizándolos mediante la aplicación del índice al que se refiere la fracción VI de este inciso, así como los demás factores que el propio Consejo determine. El Consejo General podrá, una vez concluido el proceso electoral ordinario, revisar los elementos o factores conforme a los cuales se hubiesen fijado los costos mínimos de campaña;
+I. El Consejo General del Instituto Federal Electoral determinará anualmente, con base en los estudios que le presente el Consejero Presidente, los costos mínimos de una campaña para diputado, de una para senador y para la de Presidente de los Estados Unidos Mexicanos, tomando como base los costos aprobados para el año inmediato anterior, actualizándolos mediante la aplicación del índice al que se refiere la fracción Vl de este inciso, así como los demás factores que el propio Consejo determine. El Consejo General podrá, una vez concluido el proceso electoral ordinario, revisar los elementos o factores conforme a los cuales se hubiesen fijado los costos mínimos de campaña;
 
 II. El costo mínimo de una campaña para diputado, será multiplicado por el total de diputados a elegir y por el número de partidos políticos con representación en las Cámaras del Congreso de la Unión;
 
@@ -1731,7 +1731,9 @@ ARTICULO 76
 
 1. Los consejeros electorales deberán reunir los siguientes requisitos:
 
-a) Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+a) Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 b) Estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar;
 
@@ -2211,7 +2213,9 @@ ARTICULO 91
 
 1. Los directores ejecutivos deberán satisfacer los siguientes requisitos:
 
-a) Ser mexicanos por nacimiento;
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+a) Ser mexicanos por nacimiento que no adquieran otra nacionalidad;
 
 b) Estar en pleno ejercicio de sus derechos políticos;
 
@@ -2525,9 +2529,9 @@ ARTICULO 103
 
 1. Los consejeros electorales de los consejos locales, deberán satisfacer los siguientes requisitos:
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
 
-a) Ser mexicano por nacimiento en pleno goce de sus derechos políticos y civiles, estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar con fotografía;
+a) Ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos políticos y civiles, estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar con fotografía;
 
 > <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2793,7 +2797,9 @@ ARTICULO 114
 
 1. Los consejeros electorales de los consejos distritales, deberán satisfacer los siguientes requisitos:
 
-a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+a) Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad, además de estar en pleno ejercicio y goce de sus derechos políticos y civiles;
 
 b) Estar inscrito en el Registro Federal de Electores y contar con la Credencial para Votar;
 
@@ -2965,7 +2971,9 @@ ARTICULO 120
 
 1. Para ser integrante de mesa directiva de casilla se requiere:
 
-a) Ser ciudadano residente en la sección electoral que comprenda a la casilla;
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+a) Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y ser residente en la sección electoral que comprenda a la casilla;
 
 b) Estar inscrito en el Registro Federal de Electores;
 
@@ -6330,3 +6338,7 @@ CUARTO.- Se autoriza al titular del Poder Ejecutivo Federal para que por conduct
 QUINTO.- Los criterios de jurisprudencia sostenidos por la Sala Central y la Sala de Segunda Instancia del Tribunal Federal Electoral, según corresponda, continuarán siendo aplicables en tanto no se opongan a las reformas establecidas en los artículos SEGUNDO, TERCERO y CUARTO del presente Decreto.
 
 Para que los criterios de jurisprudencia a que se refiere el párrafo anterior resulten obligatorios, se requerirá de la declaración formal de la Sala Superior del Tribunal Electoral. Hecha la declaración, la jurisprudencia se notificará de inmediato a las Salas Regionales, al Instituto Federal Electoral y, en su caso, a las autoridades electorales locales.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
