@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1971-12-20"
+last_updated: "1974-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 1971.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 1974.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -135,13 +135,17 @@ En ningún caso el número de Distritos Electorales para elegir diputados, será
 
 Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1974)</small>
+
 ###### ARTICULO 17.
 
-Para ser electo propietario o suplente, se requiere:
+Para ser electo Diputado Propietario o Suplente, se requiere:
 
 I.- Ser ciudadano mexicano en ejercicio de sus derechos e hijo de padres mexicanos por nacimiento;
 
-II.- Tener 25 años cumplidos el día de la elección;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1974)</small>
+
+II.- Tener 21 años cumplidos al día de la elección;
 
 III.- Ser nativo del Estado con residencia no menor de dos años en el Distrito por el que sea postulado, o vecino del mismo distrito o población cuando en ella haya dos o más distritos, por lo menos durante cuatro años anteriores a la elección.
 
@@ -543,7 +547,7 @@ V.- Gozar de buena reputación y no haber sido condenado por un delito intencion
 
 ###### ARTICULO 59.
 
-El Tribunal Superior de Justicia se renovará en su totalidad cada tres años contados desde el día primero de noviembre de los años en que se inicie el período Constitucional del Ejecutivo, pudiendo ser ratificados sus miembros parcial o totalmente, para el siguiente ejercicio. En caso de ratificación, no será necesaria la aprobación requerida del H. Congreso en los términos del Artículo 60 de esta Constitución. Si por cualquier motivo no se hace el nombramiento o los designados no se presentaren oportunamente al desempeño de sus funciones, continuarán en su cargo los Magistrados que lo forman hasta que tomen posesión los que deban substituirlos.
+El Tribunal Superior del Justicia se renovará en su totalidad cada tres años contados desde el día primero de noviembre de los años en que se inicie el período Constitucional del Ejecutivo, pudiendo ser ratificados sus miembros parcial o totalmente, para el siguiente ejercicio. En caso de ratificación, no será necesaria la aprobación requerida del H. Congreso en los términos del Artículo 60 de esta Constitución. Si por cualquier motivo no se hace el nombramiento o los designados no se presentaren oportunamente al desempeño de sus funciones, continuarán en su cargo los Magistrados que lo forman hasta que tomen posesión los que deban substituirlos.
 
 ###### ARTICULO 60.
 
@@ -841,7 +845,7 @@ El Gobernador del Estado rendirá la protesta de Ley ante el Congreso o la Comis
 
 " Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demande."
 
-Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en la siguiente forma:
+Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente en su caso, en la siguiente forma:
 
 El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciéreis, que la Nación y el Estado os lo demanden".
 
@@ -897,9 +901,9 @@ IV.- Funcionará, en la ciudad de Mexicali, con delegados en las poblaciones del
 
 V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo Nacional de Población en 1950, y las disposiciones de esta Constitución, formulará un proyecto de la división territorial del Estado en Distritos Electorales para la elección de Diputados a la Legislatura Local y la someterá a la Comisión Electoral del Estado para su revisión y aprobación.
 
-VI.- En cada una de las cabeceras, de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
+VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
-VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
+VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal;
 
 En cada Comité Distrital los Partidos Políticos a que se refiere la base IX podrán acreditar, cada uno de ellos, un representante propietario y un suplente. Los representantes serán citados a las sesiones que celebre el Comité y podrán intervenir, sin voto, en sus deliberaciones. Las designaciones de representantes ante los Comités Distritales serán registrados en la Comisión Electoral del Estado.
 
@@ -929,7 +933,7 @@ XIX.- Los Partidos Políticos a que se refiere la base IX y los candidatos que h
 
 ###### ARTICULO QUINTO.
 
-El día 5 de noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
+El día 5 de Noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
 
 ###### ARTICULO SEXTO.
 
@@ -1060,3 +1064,7 @@ Estas reformas entrarán en vigor treinta días después de su publicación en e
 P.O. 20 DE DICIEMBRE DE 1971.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE FEBRERO DE 1974.
+
+UNICO.- Esta reforma entrará en vigor treinta días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
