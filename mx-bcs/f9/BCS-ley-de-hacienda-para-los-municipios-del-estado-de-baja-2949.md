@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2002-07-10"
+last_updated: "2002-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETIN OFICIAL DEL 31 DE DICIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -1809,13 +1811,13 @@ III.- Licencia de motociclista (por 3 años) 2 días de salario mínimo.
 
 IV.- Permiso para conducir a menores: Jóvenes mayores de 16 y menores De 18 años (máximo 90 días), previo curso de manejo 2 días de salario mínimo.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE ENERO DE 2000)</small>
 
-### CAPITULO DECIMO QUINTO
+### CAPITULO DECIMO SEPTIMO
 
-RECOLECCION DE BASURA.
+DE LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 87.
 
@@ -1865,19 +1867,19 @@ b).- Los que se deriven de las Entidades Gubernamentales en sus funciones de der
 
 c).- El anuncio principal del establecimiento destinado a anunciar su propio negocio, siempre que este se localice en los límites de construcción del mismo, sin hacer este la vía pública.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA [N. DE E. CONFORME AL DECRETO DE REFORMAS DE LA PRESENTE FECHA, AL CREARSE ESTE CAPITULO Y EL SIGUIENTE, SE RECORREN EN SU ORDEN LOS ARTICULOS A PARTIR DEL 86, QUEDANDO UBICADOS EN LOS ARTICULOS 94 AL 139], B.O. 31 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO DECIMO SEPTIMO
+### CAPITULO DECIMO QUINTO
 
-DE LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD.
+RECOLECCION DE BASURA.
 
-> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 85.
 
 Los comercios, hoteles, restaurantes, hospitales privados, oficinas administrativas e industriales, deberán contratar individualmente con el ayuntamiento, los servicios de limpia, recolección, traslado, tratamiento y disposición final de residuos y pagarán una cuota mensual o anual que será convenida con la autoridad municipal correspondiente, o comprobar la eliminación de estos desperdicios o residuos, siempre y cuando, no afecten la salud o contaminen el medio ambiente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA [N. DE E. CONFORME AL DECRETO DE REFORMAS DE LA PRESENTE FECHA, AL CREARSE ESTE CAPITULO Y EL SIGUIENTE, SE RECORREN EN SU ORDEN LOS ARTICULOS A PARTIR DEL 86, QUEDANDO UBICADOS EN LOS ARTICULOS 94 AL 139], B.O. 31 DE ENERO DE 2000)</small>
 
 ### CAPITULO DECIMO SEXTO
 
@@ -2427,15 +2429,15 @@ DURANTE LOS AÑOS DE 1991, 1992 Y 1993 SE APLICARAN LAS TASAS DEL 8%, 6% Y 4% RE
 
 EL PRESENTE DECRETO, SURTIRA EFECTOS A PARTIR DEL DIA PRIMERO DE JULIO DE 1991, PREVIA PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
 
+B.O. 10 DE DICIEMBRE DE 1993.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
+
 B.O. 31 DE DICIEMBRE DE 1991.
 
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
-
-B.O. 10 DE DICIEMBRE DE 1993.
-
-UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
 
 B.O. 10 DE OCTUBRE DE 1994.
 
@@ -2512,3 +2514,13 @@ Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) 
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2002.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero de 2003.
+
+Artículo Segundo.- Se abroga la Ley de Hacienda para los Municipios del Estado de Baja California Sur.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+Artículo Quinto (sic).- Las disposiciones administrativas deberán ajustarse a lo previsto por esta ley en un plazo no mayor de noventa días naturales a partir de su entrada en vigor.
