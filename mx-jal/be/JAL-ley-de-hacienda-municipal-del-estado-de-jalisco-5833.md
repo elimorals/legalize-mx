@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2002-02-12"
+last_updated: "2002-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,47 +21,29 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
+LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2020.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2002.
 
-Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
-PRESIDENCIA MUNICIPAL PACHUCA DE SOTO, ESTADO DE HIDALGO.
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-HONORABLE AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO.
+Enrique Alvarez del Castillo, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber:
 
-El C. Eleazar Eduardo García Sánchez, en mi carácter de Presidente Municipal de Pachuca de Soto, Estado de Hidalgo; a sus habitantes hace saber:
+Que por la Secretaría del H. Congreso del Estado se me ha comunicado el siguiente
 
-Con fundamento en los artículos 115 fracción II párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, 115, 122, 123 y 141 fracción II de la Constitución Política del Estado de Hidalgo, 1, 2, 3, 7 y 56 fracción I, inciso a), 69, fracción IX, 70, 71 fracción I inciso d), 72, 189, 190 y 191 de la Ley Orgánica Municipal del Estado; artículos 1, 2, 3, 6, 7, 9 fracciones II, VII, VIII, XIII, XIV, XVI, XIX, 10, 11 fracción III, 12, 13 inciso a), 14, 33, 56 párrafo primero, 57, 75, 95, 96, 97, 104, 105 fracción IV, 110, 127, 128, 130 y 132 del Reglamento Interior del Honorable Ayuntamiento de Pachuca de Soto y demás relativas aplicables y vigentes que facultan al Ayuntamiento para expedir los Reglamentos y demás disposiciones dentro del ámbito de su competencia, ponemos a la atenta consideración de este Honorable Cuerpo Colegiado, la presente iniciativa con proyecto de decreto POR MEDIO DEL CUAL SE ABROGA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO, CONTENIDO EN EL DECRETO NÚMERO DIECISIETE PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DÍA 08 DE DICIEMBRE DEL AÑO 2008 Y CREA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO, al tenor de la siguiente:
+DECRETO
 
-R E L A T O R Í A
+Número 11558. El Congreso del Estado decreta:
 
-PRIMERO. Durante el desarrollo de la Vigésima Segunda Sesión Ordinaria Pública celebrada el día 06 de diciembre del año dos mil doce, fue aprobada por Unanimidad de Votos el turno a comisiones la propuesta presentada por el Ing. Eleazar Eduardo García Sánchez, Presidente Constitucional del Ayuntamiento de Pachuca de Soto, estado de Hidalgo, mediante la cual propone EL DECRETO POR MEDIO DEL CUAL SE ABROGA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO, CONTENIDO EN EL DECRETO NÚMERO DIECISIETE PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DÍA 08 DE DICIEMBRE DEL AÑO 2008 Y CREA EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO.
-
-SEGUNDO. El Lic. Hugo Espinosa Quiroz, Secretario del Honorable Ayuntamiento, envió el oficio con clave SA/OM/162/2012 bajo el expediente identificado como SA/DP/056/2012, a la Comisión Permanente de Gobernación, Bandos, Reglamentos y Circulares, para su estudio, análisis, discusión y dictamen correspondiente.
-
-TERCERO. Una vez turnada la solicitud respectiva a la Comisión asignada, la Comisión Permanente de Gobernación, Bandos, Reglamentos y Circulares procedió a su estudio, análisis y discusión, para ello con fecha 08 de febrero del año 2013, se llevó a cabo la Décima Segunda Sesión Ordinaria, mediante votación unánime de los integrantes de la Comisión se declara en sesión Permanente y se continúa con la sesión los días 11, 13, 18, 19, 20, 26 y 27 de febrero; 11 y 14 de marzo; 8 de abril; 13 de mayo; 03 de junio; 08 de julio, 01 de agosto del presente año, previa declaración de los recesos correspondientes, para que el día de hoy miércoles 21 de agosto de 2013, se presenta el dictamen correspondiente a los integrantes de la Comisión en base a los siguientes:
-
-CONSIDERANDOS
-
-[…]
-
-Por todo lo anterior, se somete a la consideración del H. Ayuntamiento el siguiente Dictamen que contiene el Proyecto de Resolutivo con el siguiente:
-
-ACUERDO
-
-ÚNICO.- Emítase el decreto que crea el REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO. Para quedar de la siguiente manera:
-
-DECRETO MUNICIPAL NÚMERO SIETE
-
-QUE CONTIENE EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
+Ley de Hacienda Municipal del estado de Jalisco
 
 # LIBRO PRIMERO. Disposiciones Preliminares
 
-## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+## TITULO UNICO
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1.
 
@@ -283,7 +265,7 @@ Los impuestos, contribuciones especiales, derechos, aprovechamientos, participac
 
 Los productos se regularán por las disposiciones legales indicadas en el párrafo anterior o por lo que, en su caso, prevengan los contratos o concesiones respectivas.
 
-### CAPÍTULO I. DEL AYUNTAMIENTO DEL MUNICIPIO DE PACHUCA DE SOTO
+### CAPITULO II. De las Autoridades Fiscales, sus Atribuciones y del Procedimiento Administrativo
 
 ###### ARTÍCULO 8.
 
@@ -333,9 +315,9 @@ III. El Tesorero Municipal;
 
 IV. Los delegados y agentes municipales;
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2002)</small>
 
-V. Los organismos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los decretos que crean estos organismos, exceptuándose la facultad económica-coactiva, la cuál solo ser ejercida por los funcionarios encargados de las tesorerías municipales o por los servidores públicos que determine cada municipio;
+V. Los organismos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los acuerdos o convenios que crean estos organismos, exceptuándose la facultad económica-coactiva, la cual solo podrán ejercerla cuando el Congreso del Estado mediante Ley les otorgue el carácter de Organismo Fiscal Autónomo, fuera de estos casos sólo podrá ser ejercida por los funcionarios encargados de las tesorerías municipales o por los servidores públicos que determine cada municipio; y
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -505,7 +487,7 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones fiscales, estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva, no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los servidores públicos encargados de la administración y la defensa de los intereses fiscales del municipio, a las autoridades judiciales en proceso del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias.
 
-### CAPÍTULO II. DEL PRESIDENTE MUNICIPAL
+### CAPITULO III. De los Sujetos, sus Derechos y Obligaciones
 
 ###### ARTÍCULO 15.
 
@@ -663,7 +645,9 @@ III. Las demás personas que señalen las Leyes Fiscales.
 
 Están exentos del pago de Impuestos, Contribuciones Especiales y Derechos, salvo lo que las Leyes Fiscales determinen:
 
-I. La Federación, el Estado y sus municipios, cuando la actividad corresponda a su función de derecho público; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
+
+I. Los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propositivos distintos a los de su objeto público; y
 
 II. Las demás personas que, de modo general, señalen las Leyes Fiscales Municipales.
 
@@ -745,7 +729,7 @@ En los casos de cambio de nombre, denominación o razón social, domicilio o act
 
 Cuando un establecimiento sea objeto de traspaso, simultáneamente al aviso correspondiente, el adquirente deberá cumplir con la obligación de registrarse o empadronarse.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DEL PRESIDENTE MUNICIPAL
+### CAPITULO IV. Del Nacimiento y Extinción de los Créditos Fiscales
 
 ###### ARTÍCULO 19.
 
@@ -1095,11 +1079,9 @@ Unicamente el Congreso del Estado, mediante disposición de carácter general, p
 
 # LIBRO SEGUNDO. De los Ingresos
 
-## TÍTULO SEGUNDO. DE LOS ÓRGANOS DE GOBIERNO Y DE ADMINISTRACIÓN DEL MUNICIPIO
+## TITULO PRIMERO. Impuestos
 
-### CAPÍTULO I
-
-DE LAS DISPOSICIONES GENERALES PARA LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO.
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTÍCULO 26.
 
@@ -1367,7 +1349,7 @@ Los Impuestos se liquidarán y pagarán, de conformidad con las tarifas, tasas o
 
 En el caso de celebrarse convenios entre los gobiernos Estatal y Municipal para la recaudación de los Impuestos establecidos en este título se estará a lo señalado en los convenios respectivos.
 
-### CAPÍTULO II. DE LAS UNIDADES DE APOYO AL PRESIDENTE MUNICIPAL
+### CAPITULO II. Impuesto sobre Actividades Comerciales Industriales y de Prestación de Servicios
 
 ###### ARTÍCULO 34.
 
@@ -1683,7 +1665,7 @@ VIII. Las asociaciones de obreros y campesinos constituidas para la producción 
 
 IX. La enajenación de valores y de títulos de crédito.
 
-### CAPÍTULO III. DE LA SECRETARÍA GENERAL MUNICIPAL
+### CAPITULO III. Impuesto sobre Diversiones Públicas
 
 ###### Art. 74.
 
@@ -1759,7 +1741,7 @@ I. Los bienes inmuebles en que se exploten diversiones públicas, cuando sean pr
 
 II. El equipo y las instalaciones que se utilicen en la diversión.
 
-### CAPÍTULO IV. DE LA SECRETARÍA DE PLANEACIÓN Y EVALUACIÓN
+### CAPITULO IV. Impuesto sobre Matanza de Ganado, Aves y otras Especies Animales
 
 ###### Art. 81.
 
@@ -1783,7 +1765,7 @@ El pago de este impuesto se hará en forma anticipada, en la Tesorería Municipa
 
 Los contribuyentes de este impuesto están obligados a efectuar la matanza de animales en los Rastros Municipales o en los lugares que para ese efecto autorice el Presidente Municipal, debiendo dar aviso a la Tesorería Municipal. Asimismo, están obligados a comprobar la propiedad de los animales.
 
-### CAPÍTULO V. DE LA SECRETARÍA DE LA TESORERÍA MUNICIPAL
+### CAPITULO V. Impuesto sobre Posesión y Explotación de Carros Fúnebres
 
 ###### Art. 86.
 
@@ -1809,7 +1791,9 @@ Estarán exentas del pago de este impuesto, las instituciones de asistencia y se
 
 Los contribuyentes de este impuesto, simultáneamente a la presentación de su solicitud de empadronamiento, deberán presentar a la Tesorería Municipal, una relación de las unidades que posean y exploten, así como todos los datos que ésta exija, manifestando las altas y bajas de dichas unidades cuando éstas ocurran.
 
-### CAPÍTULO VI. DE LA SECRETARÍA DE SERVICIOS PÚBLICOS MUNICIPALES
+### CAPITULO VI. Del Impuesto Predial
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -2201,7 +2185,9 @@ Las autoridades judiciales o administrativas previamente al remate de inmuebles,
 
 Si del informe apareciese algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal para que ésta extienda y envíe el recibo correspondiente, que será entregado al adquirente del inmueble.
 
-### CAPÍTULO VII. DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
+### CAPITULO VII. Impuesto sobre Transmisiones Patrimoniales
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1999)</small>
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -2621,7 +2607,7 @@ Tratándose de las partes que intervengan en la adquisición de bienes inmuebles
 
 Para enajenar cualquier inmueble o transmitir algún derecho real, el causante deberá presentar comprobante donde se acredite que no existe adeudo por concepto de impuesto predial en la fecha en que se autoricen las escrituras, actos o contratos.
 
-### CAPÍTULO VIII. DE LA SECRETARÍA DE OBRAS PÚBLICAS, DESARROLLO URBANO, VIVIENDA Y MOVILIDAD
+### CAPITULO VIII. Impuesto sobre Explotación de Semovientes
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -3035,7 +3021,7 @@ V. Aves, 20 cabezas; y
 
 VI. Colmenas, 5 unidades.
 
-### CAPÍTULO IX. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, TRÁNSITO Y VIALIDAD
+### CAPITULO IX. Impuestos Extraordinarios
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -3285,7 +3271,75 @@ El objeto, el sujeto, los responsables solidarios, la base, el pago y demás ele
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE AGOSTO DE 1999)</small>
 
-### CAPÍTULO X. DE LA SECRETARÍA DE DESARROLLO HUMANO Y SOCIAL
+### CAPITULO X. Del Impuesto sobre Negocios Jurídicos
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1999)</small>
+
+Art. 131 bis. Es objeto de este impuesto:
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2000)</small>
+
+I. La realización, celebración o expedición de los actos o contratos relativos a construcción, reconstrucción o ampliación de inmuebles.
+
+En todos los casos en que se efectúen actos comprendidos en el párrafo anterior, se considera que se ha celebrado el contrato respectivo.
+
+No se considerarán como objeto de este impuesto los casos de autoconstrucción. Se entiende que existe autoconstrucción cuando se agoten los siguientes requisitos:
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+1. Que el propietario del terreno donde se efectúe la obra, sea quien la realice, ya sea personalmente o con el auxilio de no más de tres personas ajenas a su familia;
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+2. Que la propiedad del terreno y de la construcción recaiga en una sola persona y que ésta acredite no poseer más propiedades, mediante certificación que al efecto expida la Dirección de Catastro; y
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+3. Que el permiso de construcción esté expedido por las autoridades competentes, a nombre del propietario del inmueble, y que éste o su asesor acrediten su carácter de responsable de la obra.
+
+Para los efectos de la excepción anterior, la Tesorería Municipal podrá efectuar la declaratoria de no causación correspondiente, siempre que lo solicite el interesado, dentro de los treinta días siguientes de la iniciación de la obra, y compruebe encontrarse en el caso de autoconstrucción.
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+II. Son sujetos de este impuesto las personas físicas o jurídicas que asuman el costo de la obra en los actos o contratos. Será responsable solidario el propietario del bien;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+III. Será base para el pago de este impuesto, el costo total de las obras que tengan por objeto la construcción, reconstrucción y ampliación de obras materiales, calculado conforme a las tablas de valores unitarios aprobadas por el Congreso del Estado;
+
+IV. Este impuesto se liquidará y pagará de conformidad con la tarifa que al efecto señale la Ley de ingresos del Municipio.
+
+Siempre que por virtud de algún acto o contrato público o privado, cualquier persona adquiera una propiedad como terreno, teniendo construcción al momento del acto o del otorgamiento del contrato respectivo, que no hubiera sido hecha por el adquirente del terreno, la Tesorería Municipal procederá a cobrar al sujeto pasivo la diferencia de los impuestos realmente causados y a imponer, como sanción pecuniaria, una multa hasta de tres tantos del crédito fiscal omitido, más accesorios, pues en estos casos y para los efectos de este impuesto se considera que no solamente se transmitió el terreno sin construir, sino también la construcción misma;
+
+V. El pago de este impuesto se efectuará dentro de los plazos que a continuación se indican:
+
+En los casos de contratos de construcción, reconstrucción, ampliación o demolición de inmuebles, dentro de los treinta días siguientes a la fecha de firma del mismo. A falta de contrato escrito, dentro de los treinta días siguientes a la fecha de inicio de la construcción.
+
+Independientemente de la fecha del contrato, los sujetos pasivos del impuesto están obligados a presentar por escrito, ante la Tesorería Municipal, un aviso de construcción, dentro de los diez días siguientes al inicio de la misma.
+
+Para los efectos de esta fracción, los contribuyentes presentarán declaración ante la Oficina de Recaudación correspondiente, o donde, en su caso lo disponga la Tesorería Municipal, a la que anexarán copia del documento en que se haga constar el acto o contrato gravado.
+
+VI. Están exentos del pago de este impuesto:
+
+a) La Federación, el Estado y los municipios;
+
+b) Los contratos de construcción que celebren las empresas paraestatales y organismos descentralizados;
+
+c) Los contratos de construcción o financiamiento relativos a la edificación o adquisición de viviendas de interés social, clasificadas como tipo Cajón A.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+d) La realización de actos o contratos, cuando su objeto sea la construcción, reconstrucción y ampliación de inmuebles destinados a viviendas de interés social, unifamiliar y de tipo popular, según las definiciones previstas en la Ley de Ingresos del Municipio.
+
+Los notarios o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
+
+En todo caso, al margen de la matriz y en los testimonios o en los documentos privados, deberá asentarse la constancia de pago o la que éste no se causa.
+
+No se dará trámite ni se registrará documento alguno si no obra en él dicha constancia.
+
+En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, se causará el impuesto como si fuesen puras y simples.
+
+> <small>(ADICIONADO CON LA SECCION Y EL ARTICULO QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 1999)</small>
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -3443,7 +3497,9 @@ XVI. Las demás que determinen las disposiciones legales y reglamentarias aplica
 
 (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO, P.O. 29 DE DICIEMBRE DE 2014)
 
-### CAPÍTULO XI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
+### CAPITULO XI. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE DICIEMBRE DE 1999)</small>
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -3625,19 +3681,73 @@ XV. Organizar y coordinar con otras secretarías y entidades, ferias, exposicion
 
 XVI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
 
-#### SECCIÓN PRIMERA. DEL PRESIDENTE MUNICIPAL
+#### SECCION PRIMERA. Del Objeto
 
-#### SECCIÓN SEGUNDA. DE LA SECRETARÍA PARTICULAR
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 1999)</small>
 
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
+Art. 131 bis-A. Es objeto del impuesto sobre espectáculos públicos, el ingreso que se obtenga por concepto de la explotación de los espectáculos como teatro, ballet, ópera, circo, lucha libre, box, taurinos, fútbol, basquetbol, beisbol, y demás espectáculos deportivos, excepto charrería; espectáculos de carpa, variedades, conciertos, audiciones musicales, exhibiciones de cualquier naturaleza y otros espectáculos de carácter artístico.
 
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA GENERAL MUNICIPAL
+No se considerarán objeto de este impuesto los ingresos que obtenga la Federación, el Estado y los Municipios por las diversiones y espectáculos públicos que directamente realicen. Tampoco se considerarán objeto de este impuesto los ingresos que se perciban por el boleto de entrada en los eventos de exposición para el fomento de actividades comerciales, industriales, agrícolas, ganaderas y de pesca, así como los ingresos que se obtengan por la celebración de eventos cuyos fondos se canalicen a instituciones asistenciales o de beneficencia.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL JURÍDICA
+#### SECCION SEGUNDA. De los Sujetos
 
-## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO
+Son sujetos de este impuesto las personas físicas, jurídicas o unidades económicas que perciban los ingresos a que se refiere el artículo anterior.
 
-### CAPÍTULO XII. DE LA SECRETARÍA DE ADMINISTRACIÓN
+#### SECCION TERCERA. De la Base y Cuota
+
+Es base para el pago de este impuesto el monto total de los ingresos obtenidos.
+
+En la cuota, este impuesto se liquidará de conformidad con la tarifa que al efecto señale la Ley de Ingresos Municipal a que corresponda. En caso de que en una misma función se presenten dos o más espectáculos, el impuesto se causará con el porcentaje más alto.
+
+#### SECCION CUARTA. Del Pago
+
+El pago de este impuesto deberá realizarse en la Oficina de la Tesorería Municipal correspondiente, ó en las Instituciones Bancarias autorizadas para este fin, dentro de los siguientes plazos:
+
+a) Cuando los espectáculos públicos se realicen permanentemente en establecimientos fijos, será a más tardar el día veinte del mes siguiente al que se hubiesen percibido los ingresos, presentando al efecto una declaración de los ingresos obtenidos en las formas aprobadas; y
+
+b) Cuando se trate de contribuyentes eventuales, al terminar cada actividad o función, efectuarán el pago diariamente.
+
+En el caso del párrafo anterior, la Tesorería Municipal podrá autorizar al contribuyente de que se trate, para enterar del impuesto causado, al siguiente día hábil de aquél en que se celebre la actividad o función.
+
+#### SECCION QUINTA. De las Obligaciones
+
+Los contribuyentes de este impuesto cuando exploten los espectáculos públicos en establecimiento fijo, tienen, además, las siguientes obligaciones:
+
+a) Presentarse ante la Tesorería Municipal u Oficialía de Padrón y Licencias en su caso, para llenar la solicitud para la obtención de su licencia de funcionamiento, haciendo uso de las formas aprobadas y proporcionando los requisitos que en ella se requieran, mínimo el día anterior al que vayan a dar principio a la explotación de los espectáculos;
+
+b) Presentar avisos de cambio de giro o domicilio, suspensión de actividades, traspaso ó clausura ante las autoridades mencionadas en el párrafo que antecede previamente a la fecha en que ocurran tales actos o circunstancias;
+
+c) Cuando los espectáculos públicos se realicen en forma eventual, o no cuenten con establecimiento fijo deberán:
+
+1) Presentar un informe ante la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, que indique el período durante el que se realizarán los hechos o actos que originen el impuesto, a mas tardar el día anterior al que se inicien;
+
+2) Previamente al inicio de las actividades, otorgar garantía, a satisfacción de la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, en alguna de las formas previstas en esta ley, que no será inferior al impuesto estimado, correspondiente a un día de actividad;
+
+3) Dar el aviso correspondiente, en los casos de ampliación del período de explotación, ante la Tesorería Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, a más tardar, el último día que comprende el aviso cuya vigencia se vaya a ampliar;
+
+d) En el caso de que se utilicen medios electrónicos para la expedición de boletos o control de asistencia a los eventos, o espectáculos públicos, las personas físicas o jurídicas responsables de la operación de estos medios, previamente pondrán a disposición de la autoridad municipal los manuales de operación de los sistemas; y entregar al día siguiente los reportes de resultados que se les soliciten;
+
+e) Presentar ante la Tesorería Municipal u Oficialía Mayor de Padrón y Licencias en su caso, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos;
+
+f) No vender boletos en tanto no están resellados por las autoridades municipales;
+
+g) Permitir a los supervisores que designe el ayuntamiento o sus oficinas de recaudación municipal, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento;
+
+h) En general, adoptar las medidas de control que, para la correcta determinación de este impuesto, establezca la Tesorería Municipal;
+
+i) Este impuesto, en ningún caso, deberá ser trasladado al espectador.
+
+Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en el, inciso c), numeral 2 de la fracción anterior no hubieran cumplido con tal obligación, la autoridad Municipal podrá suspender el espectáculo hasta en tanto no se garantice el pago del impuesto, para lo cual, el supervisor que se designe solicitará el auxilio de la fuerza pública.
+
+Quedan preferentemente afectos a garantizar el pago de este impuesto:
+
+a) Los bienes inmuebles en que se exploten espectáculos públicos, cuando sean propiedad de los contribuyentes de este impuesto; y
+
+b) El equipo y las instalaciones que se utilicen en el mencionado espectáculo.
+
+## TITULO SEGUNDO. De los Derechos
+
+### CAPITULO I. Disposiciones Generales
 
 #### SECCIÓN PRIMERA. DEL TITULARDE (SIC) LA SECRETARÍA
 
@@ -3939,7 +4049,7 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el Tesorero Municipal, en los términos establecidos por las Leyes Fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
-### CAPÍTULO XIII. DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA
+### CAPITULO II. Licencias, Permisos y Registros
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
@@ -4313,7 +4423,7 @@ Se entiende por vivienda popular, aquella cuyo valor catastral no exceda de vein
 
 Se aplicará una reducción de cuando menos el ochenta por ciento en las cuotas o tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas que se realicen en bienes inmuebles afectos al Patrimonio Cultural del Estado, encauzados a su conservación y rehabilitación.
 
-### CAPÍTULO XIV. DE LAS UNIDADES DE APOYO EN LAS SECRETARÍAS
+### CAPITULO III. Inspección y Vigilancia
 
 #### SECCIÓN PRIMERA. DE LAS ÁREAS DE ADMINISTRACIÓN
 
@@ -4397,7 +4507,7 @@ a) Si es posible controlar los ingresos, mediante declaración que deberá prese
 
 b) Si el pago debe efectuarse a cuota fija, previamente al acto que lo motiva.
 
-### CAPÍTULO I. DE LAS ENTIDADES PARAMUNICIPALES
+### CAPITULO IV. Inspección Sanitaria
 
 ###### ARTÍCULO 115.
 
@@ -4435,7 +4545,7 @@ Las Agencias de Inhumaciones serán solidariamente responsables de los Derechos 
 
 Para los efectos del cobro de los Derechos por este concepto, se entenderá por Establo, Granja y Apiario, lo que sobre el particular señale el Art. 143.
 
-### CAPÍTULO II. DE LOS ORGANISMOS PARAMUNICIPALES
+### CAPITULO V. Aseo Público
 
 ###### ARTÍCULO 117.
 
@@ -4503,7 +4613,7 @@ Los usuarios que requieran servicios especiales de aseo público en forma consta
 
 Los derechos por aseo público a que se refiere esta Ley, cuando no se presten en forma constante y bajo contrato, deberán pagarse en la Tesorería Municipal previamente a la prestación del servicio. En caso que el servicio se preste en rebeldía del usuario, se le notificará el costo del mismo para que, en un término de cinco días, realice el pago correspondiente.
 
-### CAPÍTULO III. DE LA EMPRESA PÚBLICA MUNICIPAL
+### CAPITULO VI. Agua y Alcantarillado
 
 ###### ARTÍCULO 124.
 
@@ -4533,7 +4643,7 @@ Los lotes baldíos propiedad de Fraccionamientos legalmente constituidos tendrá
 
 Los fraccionamientos comenzarán a cubrir sus cuotas a partir de la fecha de conexión a la red del Sistema y tendrán la obligación de entregar bimestralmente, a la Tesorería Municipal, una relación de los nuevos posesionarios de lotes para la actualización de su padrón de usuarios. En caso de no cumplirse esta obligación, se suprimirá la bonificación aludida.
 
-### CAPÍTULO IV. DEL FIDEICOMISO PÚBLICO MUNICIPAL
+### CAPITULO VII. Rastro
 
 ###### ARTÍCULO 125.
 
@@ -4573,11 +4683,7 @@ La Autoridad Municipal queda facultada para retener carnes, cuando sea descubier
 
 Igualmente, queda facultada para confiscar carnes no aptas para el consumo humano, las cuales deberán ser incineradas de inmediato.
 
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DE LAS ENTIDADES PARAMUNICIPALES
-
-###### ARTÍCULO 126.
-
-Para el control y evaluación de la Entidad Paramunicipal contará con un Comisario Público, designado bajo la responsabilidad de la Secretaría de Contraloría y Transparencia del Municipio cuyas funciones se especificaran en los estatutos orgánicos correspondientes.
+### CAPITULO VIII. Registro Civil
 
 ###### Art. 168.
 
@@ -4593,11 +4699,7 @@ Los derechos que las Leyes de Ingresos Municipales fijen por este concepto, debe
 
 Los Oficiales del Registro Civil están obligados, en todos los casos, a consignar en las actas, el lugar y la hora en que se celebre el acto, así como el número del recibo oficial de pago de los derechos causados, cuando éste tenga verificativo en horas extraordinarias o a domicilio.
 
-### CAPÍTULO VI. DE LA EXTINCIÓN Y LIQUIDACIÓN
-
-###### ARTÍCULO 127.
-
-La Secretaría de Contraloría y Transparencia del Municipio en su carácter de evaluador y controlador, señalará las bases para llevar a cabo la liquidación derivada de la extinción de las Entidades Paramunicipales y Fideicomisos Públicos, las cuales deberán considerar la eficiencia, eficacia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público y serán descritas en el Estatuto Orgánico correspondiente de la Entidad.
+### CAPITULO IX. Certificaciones
 
 ###### Art. 171.
 
@@ -4633,7 +4735,7 @@ Causarán los derechos a que se refiere este Capítulo, aquellos otros servicios
 
 Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto, deberán ser cubiertos en la Tesorería o en los lugares que ésta autorice para tal efecto, dentro de los plazos que se señalen.
 
-## TÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
+## TITULO TERCERO. De los Productos
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -4655,25 +4757,31 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 ### CAPITULO II. Bienes Muebles e Inmuebles
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 179.
 
-Sólo podrán ser enajenados los bienes inmuebles municipales, en los casos previstos en la Ley Orgánica, o cuando resulten antieconómicos en su conservación y mantenimiento. Excepcionalmente, podrán ser donados dichos bienes a Instituciones Públicas Oficiales, cuando éstos no sean indispensables para los fines del Ayuntamiento y que la obra, que se pretenda llevar a cabo en los mismos, represente un beneficio común para los habitantes del Municipio, conforme a las siguientes bases:
+Sólo podrán ser enajenados los bienes inmuebles municipales, en los casos previstos en la ley que establezca las bases generales de la administración pública municipal, o cuando resulten antieconómicos en su conservación y mantenimiento. Excepcionalmente, podrán ser donados dichos bienes a instituciones públicas oficiales, cuando éstos no sean indispensables para los fines del Ayuntamiento y que la obra, que se pretenda llevar a cabo en los mismos, represente un beneficio común para los habitantes del Municipio, conforme a las siguientes bases:
 
-I. La Tesorería Municipal, cuando lo acuerde el Ayuntamiento, formará un expediente en que se acredite que existen las condiciones antes mencionadas y en él incluirá el proyecto para una construcción inmobiliaria o para la ejecución de obras de necesidad o utilidad notorias, a las que invariablemente destinará el producto de la venta;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
 
-II. En vista de ese expediente, el Congreso del Estado concederá o negará la autorización respectiva; y
+I. La Tesorería Municipal, cuando lo acuerde el Ayuntamiento, formará un expediente en que se acredite que existen las condiciones antes mencionadas y en él incluirá el proyecto para una construcción inmobiliaria o para la ejecución de obras de necesidad o utilidad notorias, a las que invariablemente destinará el producto de la venta; y
 
-III. La venta se efectuará en subasta pública que anuncie y presida el Tesorero Municipal, con citación del Síndico del Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN III], P.O. 21 DE JULIO DE 2001)</small>
 
-Dichas enajenaciones, para que tengan validez jurídica, deberán ser aprobadas por el Congreso del Estado a solicitud de las Autoridades Municipales, previo acuerdo del Ayuntamiento, en sesión de Cabildo.
+II. La venta se efectuará en subasta pública que anuncie y presida el Tesorero Municipal, con citación del Síndico del Ayuntamiento.
+
+Dichas enajenaciones, para que tengan validez jurídica, deberán ser aprobadas por el Gobierno Municipal, en sesión de Ayuntamiento, conforme a la ley.
 
 Las ventas que se efectúen en contravención a este artículo serán nulas de pleno derecho.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 180.
 
-Podrán ser materia de arrendamiento los bienes inmuebles municipales, cuando no se destinen a la administración o a la prestación de servicios públicos, mediante la celebración del contrato respectivo que apruebe el Cabildo, el cual será suscrito por el Síndico del Ayuntamiento, oyendo al Tesorero Municipal para efectos de determinar el importe del arrendamiento, con la persona que en concurso público ofrezca mejores condiciones.
+Podrán ser materia de arrendamiento los bienes inmuebles municipales, cuando no se destinen a la administración o a la prestación de servicios públicos, mediante la celebración del contrato respectivo que apruebe el Ayuntamiento, el cual será suscrito por el Síndico del Ayuntamiento, oyendo al Tesorero Municipal para efectos de determinar el importe del arrendamiento, con la persona que en concurso público ofrezca mejores condiciones.
 
-Los actos o contratos que surtan efectos posteriores al período del Ayuntamiento en cuya administración se celebren, serán válidos, siempre que hayan sido aprobados por el Congreso del Estado.
+Los actos o contratos que surtan efectos posteriores al período del Ayuntamiento en cuya administración se celebren, serán válidos, siempre que hayan sido aprobados por el Ayuntamiento de conformidad con la ley que establezca las bases generales de la administración pública municipal.
 
 ###### Art. 181.
 
@@ -4685,9 +4793,11 @@ La Tesorería Municipal llevará un inventario de los bienes muebles e inmuebles
 
 La obligación anterior no será aplicable cuando se trate de bienes muebles cuyo valor no exceda del importe de dos días de salario.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 183.
 
-Ningún bien mueble podrá ser dado de baja, sin el previo acuerdo del Cabildo.
+Ningún bien mueble podrá ser dado de baja, sin el previo acuerdo del Ayuntamiento.
 
 ### CAPITULO III. Cementerios
 
@@ -4907,9 +5017,11 @@ VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la pre
 
 ### CAPITULO I. De la Estructura
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 206.
 
-El Presidente Municipal, para la elaboración del presupuesto de egresos, presentará al cabildo los siguientes documentos:
+El Presidente Municipal, para la elaboración del presupuesto de egresos, presentará al Ayuntamiento los siguientes documentos:
 
 I. La estimación de los ingresos a recaudar, tomando como base los rubros señalados en la Ley de Ingresos correspondiente al ejercicio fiscal siguiente;
 
@@ -4965,7 +5077,7 @@ Los Ayuntamientos deberán cumplir con los criterios de racionalidad, austeridad
 
 ###### Art. 208.
 
-Para los efectos de la determinación del monto del gasto público, el Tesorero Municipal deberá allegarse todos aquellos datos que considere necesarios, elaborando con ellos el proyecto que presentará al Presidente Municipal, para que éste, a su vez, lo presente al Cabildo.
+Para los efectos de la determinación del monto del gasto público, el Tesorero Municipal deberá allegarse todos aquellos datos que considere necesarios, elaborando con ellos el proyecto que presentará al Presidente Municipal, para que éste, a su vez, lo presente al Ayuntamiento.
 
 ###### Art. 209.
 
@@ -4973,7 +5085,7 @@ El Tesorero Municipal, ajustándose a las estimaciones de ingresos aprobadas, fo
 
 ###### Art. 210.
 
-El Presidente Municipal, dentro de los primeros quince días del mes de noviembre de cada año, deberá presentar al Cabildo el proyecto de gasto público, el cual se integrará con los documentos siguientes:
+El Presidente Municipal, dentro de los primeros quince días del mes de noviembre de cada año, deberá presentar al Ayuntamiento el Proyecto de Gasto Público, el cual se integrará con los documentos siguientes:
 
 I. Estimación de los ingresos a recaudar, tomando como base la política recaudatoria y la Ley de Ingresos que regirá en el ejercicio fiscal siguiente;
 
@@ -4997,27 +5109,29 @@ VIII. Situación de la deuda pública al final del último ejercicio fiscal, y e
 
 IX. El desglose y justificación de las diferentes partidas del presupuesto;
 
-> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2002)</small>
 
-X. Las plantillas de personal por jornada y nivel;
+X. Las plantillas de personal en las que se especifique jornada, nivel, sueldo y demás prestaciones económicas que, por cualquier concepto, se asignen a cada uno de los servidores públicos del municipio;
 
-> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2002)</small>
 
-XI. Sueldo y demás prestaciones económicas asignadas a cada una de las plazas presupuestadas, con inclusión de aquellas que ocupen los funcionarios titulares de las dependencias municipales y entidades de que se trate; y
+XI. El sueldo y la totalidad de las prestaciones económicas asignadas a los funcionarios de alto nivel de los ayuntamientos, incluyendo aquellos de elección popular y a los titulares de las dependencias y entidades municipales o en su caso, empresas de participación mayoritaria municipal; y
 
 > <small>(REFORMADA, P.O. 23 DE ENERO DE 2001)</small>
 
 XII. Los demás informes financieros y datos estadísticos que considere conveniente, para la mejor comprensión de su política hacendaria y del programa de administración.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 211.
 
-Una vez estudiado y revisado el proyecto del gasto público, el monto del mismo será el que se apruebe por el Cabildo, para erogar dicho gasto, durante el período de un año, a partir del día 1.° de enero.
+Una vez estudiado y revisado el Proyecto del Gasto Público, el monto del mismo será el que se apruebe por el Ayuntamiento, para erogar dicho gasto, durante el período de un año, a partir del día 1 de enero.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1997)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Art. 212.
 
-Aprobado el Presupuesto de Egresos para el ejercicio fiscal respectivo, el Ayuntamiento deberá remitir, antes del día veinte de diciembre de cada año, las copias del mismo y del acta de la sesión de Cabildo en que se aprobó, al Congreso del Estado, para su conocimiento y efectos y revisión de la cuenta pública.
+Aprobado el presupuesto de egresos para el ejercicio fiscal respectivo, el gobierno municipal deberá remitir, antes del día veinte de diciembre de cada año, las copias del mismo y del acta de la sesión de ayuntamiento en que se aprobó, al Congreso del Estado, para su conocimiento y efectos de control y revisión de la cuenta pública.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
 
@@ -5037,6 +5151,8 @@ La publicación a que se refiere el párrafo anterior deberá hacerse en la Gace
 
 ### CAPITULO II. De la Estimación del Monto
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 213.
 
 La ministración de los fondos correspondientes será autorizada, en todos los casos, por el Tesorero Municipal, en los términos de la Ley Orgánica Municipal.
@@ -5051,6 +5167,8 @@ El gasto público deberá de ejercerse, conforme a lo autorizado en cada una de 
 
 ### CAPITULO III. De la Iniciativa, Discusión y Aprobación
 
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+
 ###### Art. 216.
 
 Los nombramientos que expida el Ayuntamiento serán enviados a su Tesorería, con copia al Congreso del Estado, a más tardar, dentro de los 5 días siguientes a la fecha en que se expidan los documentos relativos.
@@ -5063,7 +5181,7 @@ Toda erogación deberá ajustarse estrictamente, al texto de la partida que reci
 
 ###### Art. 218.
 
-El gasto público no podrá modificarse en ninguna de sus partidas, sin la previa autorización del Cabildo.
+El gasto público no podrá modificarse en ninguna de sus partidas, sin la previa autorización del Ayuntamiento.
 
 ### CAPITULO IV. De su Ejercicio
 
@@ -5075,11 +5193,15 @@ A toda proposición de creación de partida o aumento del gasto en el presupuest
 
 En los casos a que se refiere el artículo anterior, el Presidente Municipal, por conducto del Tesorero del Ayuntamiento, preparará las iniciativas de las modificaciones correspondientes, debiendo comunicar al Congreso del Estado dichos cambios, a más tardar, 5 días posteriores a la realización de los mismos.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 221.
 
-Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo de Cabildo, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del Ayuntamiento sin perjuicio de la revisión, glosa y control que debe practicar el Poder Legislativo, a través de la Contaduría Mayor de Hacienda.
+Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo de Ayuntamiento, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del Ayuntamiento sin perjuicio de la revisión, glosa y control que debe practicar el Poder Legislativo, a través de la Contaduría Mayor de Hacienda.
 
 ### CAPITULO V. De las Modificaciones
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
 ## TITULO TERCERO. De la Cuenta Pública
 
@@ -5101,9 +5223,11 @@ El Congreso del Estado, a través de la Contaduría Mayor de Hacienda para el cu
 
 Para tal efecto, podrá servirse de cualquier medio lícito que conduzca al esclarecimiento de los hechos y aplicar, en el caso, técnicas y procedimientos de auditoría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 225.
 
-La revisión de la Cuenta Pública de los Municipios precisará el ingreso y el gasto público; determinará el resultado de la gestión financiera; verificará si el ingreso deriva de la aplicación de las Leyes de Ingresos; comprobará si el gasto público se ajustó a los presupuestos, y si se han cumplido los programas aprobados por el Cabildo.
+La revisión de la cuenta pública de los municipios precisará el ingreso y el gasto público; determinará el resultado de la gestión financiera; verificará si el ingreso deriva de la aplicación de las leyes de ingresos; comprobará si el gasto público se ajustó a los presupuestos, y si se han cumplido los programas aprobados por el Ayuntamiento.
 
 La revisión no sólo comprenderá la conformidad de ingresos y egresos, sino que se extenderá a una revisión legal, económica y contable del ingreso y del gasto público, y verificará la exactitud y la justificación de los cobros y pagos hechos, de acuerdo con los precios y tarifas autorizadas o de mercado, y de las cantidades erogadas.
 
@@ -5269,7 +5393,7 @@ Salvo que las disposiciones fiscales, o resoluciones, señalen una fecha para la
 
 ### CAPITULO II. Del Procedimiento Administrativo de Ejecución
 
-#### SECCIÓN CUARTA. DE LAS DIRECCIONES DE ÁREA DE LA SECRETARÍA GENERAL MUNICIPAL
+#### SECCION PRIMERA. Disposiciones Generales
 
 ###### Art. 252.
 
@@ -5279,7 +5403,7 @@ No satisfecho un crédito fiscal dentro del plazo, que para el efecto señalen l
 
 Los vencimientos que ocurran durante el procedimiento, incluyendo recargos, gastos de ejecución y cualquiera otro, se harán efectivos, juntamente con el crédito inicial, sin necesidad de notificación ni otras formalidades especiales.
 
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
+#### SECCION SEGUNDA. Del Requerimiento
 
 ###### Art. 254.
 
@@ -5309,7 +5433,7 @@ III. Los motivos y fundamentos por los que se les considera responsables del cr�
 
 IV. El plazo para el pago, que será de quince días, salvo que la Ley señale otro.
 
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
+#### SECCION TERCERA. Del Secuestro Administrativo
 
 ###### ARTÍCULO 44.
 
@@ -5667,7 +5791,7 @@ Todos los gastos de ejecución serán a cargo del contribuyente y, en ningún ca
 
 No procederá el cobro de gastos de ejecución, cuando las diligencias practicadas durante el procedimiento resultaren improcedentes, porque ya estuviera cumplida la obligación, o ésta hubiese quedado insubsistente por resolución de autoridad competente.
 
-#### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA DE LA TESORERÍA MUNICIPAL
+#### SECCION CUARTA. De los Remates
 
 ###### ARTÍCULO 47.
 
@@ -5975,7 +6099,7 @@ En caso de conflicto, el remate permanecerá en depósito en la Tesorería Munic
 
 > <small>(F. DE E., P.O. 7 DE JUNIO DE 1984)</small>
 
-#### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
+#### SECCION QUINTA. De las Tercerías
 
 ###### ARTÍCULO 49.
 
@@ -6327,109 +6451,197 @@ En todo lo no previsto por la presente Ley, se atenderá a lo dispuesto en las d
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y el Presidente Municipal contará a partir de entonces con seis meses para realizar los ajustes necesarios en la Administración Pública Municipal y Paramunicipal.
+Primero. Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-SEGUNDO.- Se abroga el Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, publicado en el Periódico Oficial del Estado, en fecha 8 de diciembre de 2008 y se derogan todas las disposiciones que se opongan al presente Reglamento.
+Segundo. Se abrogan las disposiciones contenidas en la Ley de Hacienda Municipal, contenida en Decreto Número 4720, expedido por el Congreso del Estado, junto con sus reformas.
 
-TERCERO.- Será obligación de las secretarías y entidades elaborar los manuales institucionales derivados de este Reglamento, en un tiempo no mayor del 1° de enero del 2015.
+Tercero. Los procedimientos iniciados y que se encuentren en trámite con anterioridad a la vigencia de esta Ley, se regirán por las disposiciones en vigor en la época de su iniciación y, las resoluciones que se dicten tendrán definitividad para los efectos del Juicio de Garantías, sin que contra las mismas pueda promoverse el Juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
 
-CUARTO.- Las entidades paramunicipales agrupadas en los sectores de la Administración Pública Paramunicipal, ejercerán sus atribuciones y funciones, con base en las disposiciones previstas en este Reglamento para las Secretarías que atienden un ramo administrativo y de sus respectivos Decretos o Leyes de Creación, hasta en tanto no sean modificados dichos instrumentos jurídicos.
+Cuarto. Para calcular el importe de las cantidades en dinero a que alude esta Ley, se tendrá como base el salario mínimo general vigente en cada municipio.
 
-QUINTO.- Los asuntos que con motivo de este Reglamento deban pasar de una Secretaría o Entidad Paramunicipal a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría o Entidad, a la que haya quedado adscrita y que señale ésta la norma jurídico administrativa, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+Salón de Sesiones del Congreso del Estado
 
-SEXTO.- Cuando en otras disposiciones legales o reglamentarias se dé una denominación distinta a alguna Secretaría cuyas funciones estén establecidas por el presente Reglamento, dichas atribuciones se entenderán concedidas a la dependencia que determina este Reglamento.
+Guadalajara, Jal., a 15 de marzo de 1984
 
-SEPTIMO.- A efecto de dar suficiencia presupuestal, orgánica y funcional a las unidades administrativas de la Secretaría de Planeación y Evaluación y las áreas que le corresponden; la Secretaría de Medio Ambiente y Desarrollo Sustentable y las áreas correspondientes, así como la Dirección de Vivienda, la Dirección de Movilidad, la Dirección de Relaciones Públicas y la Dirección de Atención Telefónica, se instruye al Titular de la Presidencia Municipal, a que se lleven a cabo los procesos pertinentes a fin de garantizar que comience su vigencia administrativa a partir del 1 de enero del 2014.
+Diputado Presidente
 
-OCTAVO.- El ayuntamiento realizará los ajustes necesarios a su presupuesto de egresos por las modificaciones a la estructura orgánica de la Administración Pública Municipal y Paramunicipal.
+Francisco Ruiz Guerrero
 
-Las estructuras orgánicas de las secretarías y unidades administrativas derivadas del presente Reglamento se autorizarán por parte de la Secretaría de Administración, conforme a la disponibilidad presupuestal correspondiente en los diferentes rubros del Presupuesto de Egresos vigente Autorizado para el Municipio; dicha Secretaría atenderá y realizara las acciones pertinentes con el fin de hacer las previsiones necesarias para la total regularización presupuestal en el ejercicio de 2014.
+Dip. Secretario
 
-Dado en el Salón de Sesiones de la Presidencia Municipal de Pachuca (sic) Soto, Estado de Hidalgo, a los 29 días del mes de agosto del año dos mil trece.
+Dr. Carlos González Guevara
 
-DECRETO MUNICIPAL NÚMERO SIETE, QUE CONTIENE EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO.
+Dip. Secretario
 
-EL PRESIDENTE DEL H. AYUNTAMIENTO
+Ing. Salvador Farías Chávez
 
-ING. ELEAZAR EDUARDO GARCÍA SÁNCHEZ
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-ING. HEBERT JONAZ REYES OROPEZA
+Dado en Palacio del Poder Ejecutivo del Estado, a los diecinueve días del mes de marzo de mil novecientos ochenta y cuatro.
 
-SÍNDICO PROCURADOR
+El Gobernador Constitucional del Estado
 
-L.C.P. JORGE DANIEL ALVIZO CONTRERAS
+Lic. Enrique Alvarez del Castillo
 
-SÍNDICO PROCURADOR
+El Secretario General de Gobierno
 
-REGIDORES
+Lic. Eugenio Ruiz Orozco
 
-LIC. RAYMUNDO BAUTISTA PICHARDO
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-LIC. MIRIAM MARGARITA CARMONA MORAN
+P.O. 31 DE MARZO DE 1990.
 
-LIC. CARLOS JAIME CONDE ZÚÑIGA
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-C. LORENA COLUMBA CRUZ NIETO
+P.O. 1 DE ENERO DE 1991.
 
-L.C.E. ELIZABETH ADRIANA FLORES TORRES
+Unico. El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco.
 
-L.C.P.F. PABLO ARTURO GÓMEZ LÓPEZ
+P.O. 29 DE JUNIO DE 1991.
 
-C. NÉSTOR GÓMEZ OLVERA
+Artículo Primero. Los predios cuyo valor se determine en operaciones translativas de dominio, a partir del 1.º de julio de 1991, pagarán el Impuesto Predial únicamente sobre el valor de tablas de terreno y construcción, vigentes para cada Municipio, y aprobado por las Juntas Tabuladoras correspondientes.
 
-LIC. AURELIO GONZÁLEZ PÉREZ
+Artículo Segundo. El presente Decreto entrará en vigor el día 1.º primero de julio de 1991 mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco".
 
-LIC. RODRIGO LEÓN CERÓN
+P.O. 16 DE ENERO DE 1992.
 
-C. EDITH MEJÍA HERNÁNDEZ
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-LIC. JENNY MARLÚ MELGAREJO CHINO
+P.O. 6 DE FEBRERO DE 1993.
 
-LIC. ROXANA MONTEALEGRE SALVADOR
+Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-LIC. MARÍA CECILIA PÉREZ BARRANCO
+P.O. 30 DE DICIEMBRE DE 1993.
 
-ING. OSCAR RODARTE ALTAMIRANO
+DECRETO NUMERO 15311.
 
-C.D. EDUARDO SÁNCHEZ HERNÁNDEZ
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1996)</small>
 
-C. JORGE ANDRÉS YÁÑEZ PÉREZ
+PRIMERO.- Las asociaciones religiosas, legalmente constituidas, que hubieren obtenido la declaratoria de procedencia por parte de la Secretaría de Gobernación, a partir del 16 de julio de 1992 a la fecha de publicación del presente decreto, podrán beneficiarse con la exención del pago del Impuesto Sobre Transmisiones Patrimoniales, hasta el 31 de diciembre de 1997.
 
-C. JUANA ROSA ZACARÍAS AYALA
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-PROFRA. ROSA MARÍA ZAMUDIO MONTUFAR
+P.O. 30 DE DICIEMBRE DE 1993.
 
-LIC. OLIVIA ZÚÑIGA SANTÍN
+DECRETO NUMERO 15315.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-P.O. 29 DE DICIEMBRE DE 2014.
+P.O. 8 DE OCTUBRE DE 1994.
 
-[N. DE. E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO DIECINUEVE POR EL QUE SE CREA EL INSTITUTO MUNICIPAL PARA LA JUVENTUD DEL MUNICIPIO DE PACHUCA DE SOTO”.]
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+P.O. 11 DE MAYO DE 1995.
 
-SEGUNDO.- Se deroga la fracción IV del artículo 85 y el articulo 89 del Decreto Municipal Número Siete que contiene el Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Hidalgo, publicado en el Tomo CXLVI del Alcance al Periódico Oficial de fecha 21 de Octubre de 2013.
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-P.O. 29 DE DICIEMBRE DE 2014.
+P.O. 22 DE AGOSTO DE 1996.
 
-[N. DE. E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO VEINTIUNO.- QUE CONTIENE LA CREACIÓN DEL INSTITUTO MUNICIPAL PARA LA CULTURA DE PACHUCA, HIDALGO”.]
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-PRIMERO. El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+P.O. 31 DE OCTUBRE DE 1996.
 
-SEGUNDO. Quedan derogadas todas aquellas disposiciones reglamentarias, decretos y publicaciones que se opongan al presente Decreto.
+ÚNICO.- El presente decreto entrará en vigor ocho días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-TERCERO. La Junta de Gobierno se integrará dentro de los 30 días siguientes a la entrada en vigor del presente Decreto.
+P.O. 5 DE DICIEMBRE DE 1996.
 
-CUARTO. El Director General del INSTITUTO elaborará el Reglamento Interno para que sea aprobado por el Ayuntamiento de Pachuca de Soto, Hidalgo y los Manuales Operativos para proponerlos a la Junta de Gobierno dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-QUINTO. El personal de la Dirección de Participación Social y Cultural pertenecientes a la Secretaría de Desarrollo Humano y Social formarán parte del INSTITUTO.
+P.O. 9 DE ENERO DE 1997.
 
-SEXTO. Se DEROGA la fracción II del artículo 85 y el artículo 87 del Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Estado de Hidalgo, publicado mediante decreto número Siete, el día 21 de octubre de 2013 en el Periódico Oficial del Estado, número 42.
+Único. El presente decreto entrará en vigor el día 1º de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-SÉPTIMO. Sin perjuicio de lo anterior, al INSTITUTO se le otorgará suficiencia presupuestaria y recursos humanos para el ejercicio fiscal 2015.
+P.O. 25 DE ENERO DE 1997.
 
-P.O. 5 DE SEPTIEMBRE DE 2016.
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE JUNIO DE 1997.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE DICIEMBRE DE 1997.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Primero.- El presente decreto entrará en vigor en su totalidad el día 1º de enero de 1998, para los municipios de Guadalajara y Zapopan. Para Los Municipios de Puerto Vallarta, Tepatitlán de Morelos, Tlaquepaque, Tonalá y Villa Corona, Jalisco, regirán a partir del día 1º de enero de 1998, salvo las disposiciones relativas al impuesto predial que entrarán en vigor el día 1º de enero de 1999. Para los demás municipios de la entidad empezarán a surtir efectos el día 1º de enero de 1998, salvo las disposiciones del impuesto predial que entrarán en vigor el día 1º de enero del año 2000.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan a (sic) al presente decreto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+Tercero.- Publíquese el texto íntegro de este decreto en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE FEBRERO DE 1998.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE AGOSTO DE 1998.
+
+ÚNICO. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 1998.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE FEBRERO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE ABRIL DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE JUNIO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE AGOSTO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día 1°/01/00 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE DICIEMBRE DE 1999.
+
+ÚNICO.- El presente Decreto entrará en vigor el día primero de Enero del año 2000, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE JULIO DE 2000.
+
+Único.- Este Decreto entrará en vigor el 1 de febrero del 2001, previa publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE ENERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE FEBRERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+DECRETO NUMERO 19112.
+
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+DECRETO NUMERO 19113.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
+
+P.O. 21 DE MAYO DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA Y OCHO QUE CONTIENE LA INICIATIVA CON PROYECTO DE DECRETO QUE REFORMA EL ARTÍCULO 23 Y ADICIONA EL ARTÍCULO 27 BIS, 27 TER Y 27 QUATER DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
 
