@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "1986-11-14"
+last_updated: "1989-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1989.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -909,7 +909,7 @@ III.- En el trámite de algún asunto y relacionado con éste, se presente un es
 
 Cuando la injuria, difamación o calumnia se refieran a una persona ya fallecida, se procederá por querella del cónyuge o de alguno de sus ascendientes, descendientes o hermanos. Si el delito se hubiese cometido con anterioridad al fallecimiento del ofendido, no se atenderá la querella de las personas mencionadas si aquél hubiese permitido la ofensa y, pudiendo hacerlo, se haya abstenido de presentar la querella, salvo que hubiese dispuesto que lo hicieran sus herederos.
 
-157.- Cuando la injuria, difamación o calumnia sea contra el Estado o Gobierno del mismo, se perseguirá de oficio y el Ministerio Público deberá hacer su acusación sin necesidad de excitativa del Gobierno. En igual forma se procederá cuando se ofenda al Gobernador del Estado o a los titulares de las dependencias que menciona el artículo 33 de la Ley Orgánica del Poder Ejecutivo, siempre que se cometa teniendo en consideración el cargo público que desempeñe el ofendido.
+157.- (DEROGADO, P.O. 10 DE ENERO DE 1989)
 
 158.- Los delitos de injuria, difamación y calumnia en contra del Congreso del Estado u otro cuerpo colegiado o institución oficial, se perseguirán con sujeción a las reglas de este Título.
 
@@ -1796,3 +1796,11 @@ EL SECRETARIO DE GOBIERNO
 LIC. ANGEL H. AGUIRRE RIVERO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 10 DE ENERO DE 1989.
+
+PRIMERO.- Se aplaza el dictamen, discusión y aprobación en su caso, de las reformas y adiciones al Código Penal vigente.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
