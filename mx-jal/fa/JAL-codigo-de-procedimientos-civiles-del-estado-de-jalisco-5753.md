@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1998-03-03"
+last_updated: "2001-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -5742,7 +5742,7 @@ El impedimento deberá acreditarse en incidente que se tramitará por cuerda sep
 
 De la Modificación de las Actas del Estado Civil.
 
-(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)(F. DE E., P.O. 26 DE ENERO DE 1995)
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 730.
 
@@ -5898,15 +5898,15 @@ Del Divorcio Por Mutuo Consentimiento.
 
 ###### ARTICULO 758.
 
-Los interesados en que se aclaren o testen errores mecanográficos, ortográficos o de otra índole, que no afecten los datos esenciales de una acta del estado civil, presentarán ante un juez que corresponda su solicitud, acompañada del acta en la que se pretenda hacer la testadura o aclaración. El juez examinará la solicitud y si la encuentra procedente ordenará sin más trámite, que se testen las menciones prohibidas o aclaraciones, en su caso, tanto en el mismo original como en el duplicado, girando, para esos efectos, sendos oficios al Oficial del Registro Civil y al titular del Archivo General del Estado.
+Las actas que contengan errores mecanográficos, ortográficos o de otra índole, que no afecten sustancialmente los datos de las actas del estado civil, serán aclarados o testados mediante solicitud de parte interesada presentada ante el Oficial del Registro Civil que corresponda, acompañada del acta en la que se pretenda hacer la testadura o aclaración. El Oficial del Registro Civil examinará la solicitud y, si la encuentra procedente ordenará sin más trámite, que se testen las menciones prohibidas o aclaraciones, en su caso, tanto en el mismo original como en el duplicado, girando, para esos efectos, sendos oficios al Titular del Archivo General del Estado y dejando constancia en el propio Registro Civil.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1985)</small>
-
-Los juicios sobre nulificación, convalidación, reposición o rectificación, de las actas del Registro Civil, se tramitarán conforme a las reglas de los ordinarios, y a las especiales siguientes.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 759.
 
-En estos juicios serán oídos el Oficial del Registro Civil donde pasó el acto cuya modificación se reclama y el Ministerio Público, así como los demás interesados que se presenten a oponerse.
+Los juicios sobre nulificación, convalidación, reposición o rectificación de las actas del Registro Civil, se tramitarán conforme a las reglas de los ordinarios, y a las especiales siguientes.
+
+En estos juicios serán oídos el Oficial del Registro Civil donde pasó el acto cuya modificación se reclama y el Ministerio Público, así como los demás interesados que se presentan a oponerse.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1977)</small>
 
@@ -8319,3 +8319,7 @@ P.O. 27 DE ENERO DE 1998.
 P.O. 3 DE MARZO DE 1998.
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE FEBRERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
