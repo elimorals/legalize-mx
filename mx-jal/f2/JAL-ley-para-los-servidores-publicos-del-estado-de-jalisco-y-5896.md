@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "1994-12-29"
+last_updated: "1997-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -101,7 +101,9 @@ a) La Planta que cubre el personal de las oficinas particulares del Gobernador, 
 
 b) Secretarios de Gobierno, Subsecretarios, Contralor General, Procurador, Tesorero, Jefes de Departamento, Directores, Subdirectores, Jefes de Oficina, de Sección de Servicios, o de Zonas; Administradores o Gerentes; Encargados, Coordinadores, Auditores, Contadores, Valuadores, Peritos de toda clase, Proveedores, Almacenistas, Supervisores, Recaudadores, Pagadores, o cualquier otro cargo cuya función sea la de manejo de fondos o bienes públicos o su custodia; Tomadores o Controladores de tiempo, de obras y Servicios; Conserjes, veladores y porteros; Agentes del Ministerio Público, Presidente, Presidentes Especiales, y Presidentes Auxiliares en las Juntas de Conciliación y Arbitraje; Integrantes de Consejos Tutelares o Asistenciales; Integrantes de Consejos Consultivos, o Asesores de los Titulares; Vocales Representantes en dependencias Públicas y Organismos Descentralizados; Directores, Rectores, Alcaides, Celadores y personal de vigilancia en cárceles e instituciones de Asistencia Social; ayudantes, mensajeros, choferes, secretarias y taquígrafas al servicio directo de los titulares o de Servidores Públicos de superior jerarquía en las Dependencias; el Personal sujeto a honorarios; y
 
-c) Todos los miembros operativos de los servicios policiacos y de tránsito, exceptuando a la Policía Judicial y a los que desempeñen funciones administrativas, que no considere la presente Ley con la clasificación de confianza.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1997)</small>
+
+c) Todos los miembros operativos de los servicios policiacos y de tránsito, así como a la Policía Judicial del Estado, exceptuando a los que desempeñen funciones administrativas que no considere la presente Ley con la clasificación de confianza.
 
 III. En los Ayuntamientos de la Entidad y sus organismos descentralizados; el Secretario General del Ayuntamiento y/o Síndico, Oficiales Mayores, Tesorero, Subtesorero, Directores, Subdirectores, Contralores, Delegados, Jefes y Subjefes de Departamento, Jefes y Subjefes de Oficina, Jefes de Sección, Oficiales del Registro Civil, Auditores, Subauditores Generales, Contadores y Subcontadores en general, Cajeros Generales, Cajeros Pagadores e Inspectores.
 
@@ -121,7 +123,7 @@ Los Secretarios del Tribunal y las Salas, los Notificadores; y
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
-c) En el Tribunal de Arbitraje y Escalafón; Los Secretarios del Tribunal, Notificadores, excepto actuarios, secretarias e intendentes.
+c) En el Tribunal de Arbitraje y Escalafón; Los Secretarios del tribunal, Notificadores, excepto actuarios, secretarias e intendentes.
 
 De crearse categorías o cargos no comprendidos en este artículo, se hará constar en el nombramiento si es de base o de confianza.
 
@@ -1262,3 +1264,7 @@ Tercero.- Los procedimientos que se encuentren en trámite, ante el Tribunal de 
 P.O. 29 DE DICIEMBRE DE 1994.
 
 UNICO.- Este decreto entrará en vigor el día 1° de enero de 1995, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE ENERO DE 1997.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 32 DE LA CONSTITUCION POLITICA VIGENTE DEL ESTADO DE JALISCO.
