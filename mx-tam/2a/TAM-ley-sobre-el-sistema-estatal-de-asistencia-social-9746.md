@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "1986-10-18"
+last_updated: "2001-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -53,9 +53,11 @@ La presente Ley regirá en el Estado libre y Soberano de Tamaulipas, sus disposi
 
 El Gobierno del Estado en forma prioritaria proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, y también a apoyar, en su formación, subsistencia y desarrollo, a individuos con carencias esenciales no superables en forma autónoma por ellos.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se entiende por asistencia social, al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+Para los efectos de esta ley se entiende por asistencia social, al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de vulnerabilidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
 ###### ARTICULO 4o.
 
@@ -65,45 +67,81 @@ La Asistencia Social comprenderá también las medidas necesarias de prevención
 
 En los términos del Artículo 3o. de esta Ley, son sujetos a la recepción de los servicios de asistencia social preferentemente los siguientes:
 
-I.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-II.- Menores infractores; sin menoscabo de lo que establezcan otras disposiciones legales aplicables;
+I.- La familia, considerándola como parte fundamental de la sociedad;
 
-III.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-IV.- Mujeres en períodos de gestación o lactancia;
+II.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato, en el ámbito familiar, social e institucional;
 
-V.- Ancianos en desamparo, incapacidad, marginación o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VI.- Inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias.
+III.- Menores infractores; sin menoscabo de lo que establezcan otras disposiciones legales aplicables;
 
-VII.- Indigentes;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VIII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
+IV.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
 
-IX.- Víctimas de la comisión de delitos en estado de abandono;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-X.- Familiares que dependen económicamente de quienes se encuentran detenidos por causas penales y que queden en estado de abandono;
+V.- Mujeres en períodos de gestación o lactancia; maltratadas y/o víctimas de violencia intrafamiliar;
 
-XI.- Habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XII.- Personas afectadas por desastres;
+VI.- Adultos mayores en desamparo, discapacitados, marginación o sujetos a maltrato;
 
-XIII.- El hogar será considerado como sujeto de asistencia social cuando carezca de los recursos o adaptación necesarios para la vida familiar; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XIV.- En general las personas que no puedan atenderse a sí mismos por sus propios esfuerzos y recursos o por medio de los familiares legalmente obligados a ayudarles para obtener su necesaria recuperación.
+VII.- Personas con discapacidad o incapaces;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+VIII.- Indigentes;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IX.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+X.- Víctimas de la comisión de delitos en estado de abandono;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XI.- Familiares que dependen económicamente de quienes se encuentran privados de su libertad y que queden en estado de abandono;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XII.- Habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIII.- Personas afectadas por desastres;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIV.- La familia será considerada como sujeto de asistencia social cuando carezca de los recursos o adaptación necesarios para la vida familiar; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XV.- En general, las personas que no puedan atenderse a sí mismas por sus propios esfuerzos y recursos o por medio de los familiares legalmente obligados a ayudarles para obtener su necesaria recuperación.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 6o.
 
-Los servicios de asistencia social de jurisdicción federal, se realizarán a través de las dependencias y entidades de la Administración Pública Federal competentes y de acuerdo a sus atribuciones, de conformidad a las leyes respectivas, con la participación que se convenga con el Gobierno del Estado.
+Los servicios de asistencia social de jurisdicción federal, se realizarán a través de las dependencias y entidades de la Administración Pública Federal competentes y de acuerdo a sus atribuciones, de conformidad a las leyes respectivas, con la participación que se convenga con el Gobierno Estatal y Municipal.
 
 ###### ARTICULO 7o.
 
 De acuerdo a lo dispuesto en la Ley General de Salud, corresponde al Gobierno del Estado, como autoridad local en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de su jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 8o.
 
-El Sistema Estatal de Asistencia Social, que a su vez se ubica dentro del Sistema Estatal de Salud, estará constituido por las dependencias y entidades de la Administración Pública, tanto Estatal como Municipal, y por las personas físicas o morales de los sectores social y privado que presten servicios de asistencia social, así como por los mecanismos de coordinación de acciones de asistencia social en el Estado.
+El Sistema Estatal de Asistencia Social, que a su vez se ubica dentro del Sistema Estatal de Salud, estará constituido por las dependencias y entidades de la Administración Pública, tanto Estatal como Municipal, y por las personas físicas o morales de los sectores social y privado que presten servicios de asistencia social, así como por los mecanismos de instrumentación, coordinación y evaluación de acciones de asistencia social en el Estado.
 
 ###### ARTICULO 9o.
 
@@ -125,7 +163,9 @@ I.- Garantizar la extensión cuantitativa y cualitativa de los servicios, prefer
 
 II.- Definir criterios de distribución de universos de usuarios de regionalización, de escalonamiento de los servicios, así como de universalización de cobertura; y
 
-III.- Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de los grupos sociales.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+III.- Establecer y llevar a cabo conjuntamente planes, programas y proyectos interinstitucionales que aseguren la atención integral de los grupos sociales, en situación de vulnerabilidad o alto riesgo.
 
 ###### ARTICULO 13.
 
@@ -135,7 +175,9 @@ I.- Supervisar la aplicación de las normas técnicas que rijan la prestación d
 
 II.- Vigilar el estricto cumplimiento de esta Ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competen a las dependencias y entidades de la Administración Pública Federal;
 
-III.- Evaluar los resultados de los servicios asistenciales que se presten conforme a las mismas;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+III.- Evaluar el impacto social de los servicios asistenciales que se presten conforme a las mismas;
 
 IV.- Apoyar la coordinación entre las instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en la materia;
 
@@ -149,7 +191,9 @@ VIII.- Concertar acciones con los sectores social y privado, mediante convenios 
 
 IX.- Coordinar, evaluar y dar seguimiento a los servicios de salud que en materia de asistencia social presten las instituciones de seguridad social Federales o del Gobierno del Estado;
 
-X.- Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+X.- Realizar estudios y diagnósticos sobre las causas y efectos de los problemas prioritarios de asistencia social; y
 
 XI.- Las demás que le otorgan las leyes aplicables.
 
@@ -157,49 +201,121 @@ XI.- Las demás que le otorgan las leyes aplicables.
 
 Para los efectos de esta Ley, se entienden como actividades básicas de salud en materia de asistencia social, las siguientes:
 
-I.- La atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, minusvalía o incapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo;
+I.- Promover el desarrollo integral de la familia, procurando que sus miembros se desenvuelvan en un ambiente de plena salud física, mental y social;
 
-III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+II.- Atender a personas que, por sus carencias socioeconómicas, por discapacidad o con capacidades diferentes, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos, inválidos, minusválidos o incapaces sin recursos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+III.- La atención en establecimientos especializados a menores, adolescentes, mujeres, adultos mayores, discapacitados en estado de abandono, desamparo o víctimas de violencia intrafamiliar;
 
-VII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VIII.- La prestación de servicios funerarios;
+IV.- Promover el bienestar de los adultos mayores y el desarrollo de acciones de preparación para la senectud;
 
-IX.- La prevención de invalidez, minusvalía o incapacidad y su rehabilitación en centros especializados;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-X.- La orientación nutricional y la alimentación complementaria a personas de escasos recursos y a población de zonas marginadas;
+V.- Promover el impulso del sano crecimiento físico, mental y social de la niñez;
 
-XI.- La promoción del desarrollo, el mejoramiento y la integración social y familiar de la población con carencias, mediante la participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XII.- El desarrollo comunitario en localidades y zonas social y económicamente marginadas;
+VI.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-XIII.- El establecimiento y manejo del Sistema Estatal de Información Básica en Materia de Asistencia Social;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XIV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
+VII.- Prestar servicios de asistencia jurídica y de orientación social, especialmente a los sujetos mencionados en el artículo 5º de esta ley;
 
-XV.- El fomento de las acciones de paternidad responsable, que propicien la prevención de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XVI.- Las análogas y conexas a las anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
+VIII.- Atender de manera íntegra, a menores infractores y su reintegración a la familia, por conducto de los organismos especiales que ya existen, y de los que posteriormente se constituyan en atención a este objetivo;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IX.- Brindar apoyo a los familiares que dependan económicamente de quien se encuentre privado de su libertad, que haya fallecido y que queden en completo estado de abandono;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+X.- Atender a las mujeres durante el embarazo, parto y lactancia, cuya situación económica no les permita valerse por sí mismas;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIII.- Prestar servicios funerarios especialmente a los sujetos mencionados en el artículo 5º de esta ley;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIV.- Prevenir y rehabilitar a los discapacitados que carezcan de los recursos materiales para atenderse en los centros especializados;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XV.- Brindar orientación nutricional y la alimentación complementaria a personas de escasos recursos y a población de zonas marginadas;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVI.- Promover el desarrollo, el mejoramiento y la integración familiar de la población con carencias, mediante la participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVII.- Atender a las personas víctimas de desastres;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVIII.- Promover el desarrollo comunitario en localidades y zonas social y económicamente marginadas;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIX.- Instrumentar y manejar del Sistema Estatal de Información Básica en Materia de Asistencia Social;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XX.- Combatir el pandillerismo, la drogadicción, el alcoholismo y demás conductas antisociales;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXI.- Prestar servicios para la prevención y la atención de las causas y los efectos de la violencia intrafamiliar;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXII.- Colaborar y auxiliar a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXIII.- Fomentar las acciones de paternidad responsable, que propicien el respeto de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXIV.- Las análogas y conexas a las anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
 
 ###### ARTICULO 15.
 
 Son actividades básicas de Salud de Atención Local en materia de Asistencia Social:
 
-I.- La Administración del patrimonio de la Beneficencia Pública;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-II.- La promoción, coordinación, supervisión, vigilancia y evaluación de las instituciones de Asistencia Privada;
+I.- Administrar el patrimonio de la Beneficencia Pública;
 
-III.- La prestación de servicios municipales que revistan características de Asistencia Social;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-IV.- La prestación de aquellos servicios que por sus características requieran de atención especial en la localidad;
+II.- Promover, coordinar, supervisar, vigilar y evaluar las instituciones de Asistencia Privada;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+III.- Prestar servicios municipales que revistan características de Asistencia Social;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IV.- Prestar aquellos servicios que por sus características requieran de atención especial en la localidad;
 
 V.- Las demás que las disposiciones generales le otorguen.
 
@@ -229,43 +345,103 @@ I.- Promover y prestar servicios de Asistencia Social.
 
 II.- Apoyar el desarrollo de la familia y de la comunidad.
 
-III.- Realizar acciones de apoyo educativo, para la integración social y de capacitación para el trabajo a los sujetos de la asistencia social.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-IV.- Promover e impulsar el sano crecimiento físico, mental y social de la niñez.
+III.- Realizar investigaciones sobre la problemática familiar con el fin de lograr que sus miembros se desenvuelvan en un ambiente que propicie su pleno desarrollo físico, mental y social;
 
-V.- Representar a la beneficencia pública, administrar su patrimonio, coordinar sus funciones y proponer programas de asistencia social que contribuyan al uso eficiente de los bienes y recursos que se le destinen.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IV.- Realizar acciones de apoyo educativo, para la integración social y de capacitación para el trabajo a los sujetos de la asistencia social;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+V.- Promover e impulsar el sano crecimiento físico, mental y social de la niñez;
 
 VI.- Fomentar, apoyar, coordinar, vigilar y evaluar las actividades que lleven a cabo las instituciones de asistencia o asociaciones civiles y todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias.
 
-VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de minusválidos sin recursos.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VIII.- Llevar a cabo acciones en materia de prevención de invalidez, minusvalía o incapacidad y de rehabilitación de inválidos, en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud.
+VII.- Establecer y dar seguimiento a los programas tendientes a prevenir y atender las causas y efectos de la violencia intrafamiliar;
 
-IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación, en su caso, de las autoridades asistenciales del Gobierno del Estado y de los Municipios.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-X.- Elaborar y proponer los reglamentos que se requieran en la materia, observando su estricto cumplimiento.
+VIII.- Brindar atención terapéutica, psicológica a los menores u otros incapaces sujetos a violencia intrafamiliar, así como a los abandonados y, en general, a quienes requieran de este apoyo, incluyendo, en su caso, a los sujetos generadores de violencia intrafamiliar, en los términos y condiciones que dictaminen el propio Organismo u ordene la autoridad judicial competente;
 
-XI.- Realizar y promover la capacitación de recursos humanos para la asistencia social.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XII.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social a que se refiere la fracción XIII del Artículo 14 de esta Ley.
+IX.- Operar establecimientos de asistencia social en beneficio de la mujer y de menores en estado de abandono y de maltrato, adultos mayores en riesgo o desamparo, enfermos mentales de farmacodependientes y de discapacitados sin recursos;
 
-XIII.- Prestar servicios de asistencia jurídica y de orientación social a menores, ancianos y minusválidos, inválidos o incapaces, sin recursos.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XIV.- Apoyar el ejercicio de la tutela y curatela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva.
+X.- Fomentar la organización y participación de grupos de promotores voluntarios y coordinar sus acciones, orientando su participación en los programas del Organismo;
 
-XV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XVI.- Realizar estudios e investigaciones en materia de invalidez, minusvalía e incapacidad.
+XI.- Llevar a cabo acciones en materia de prevención de discapacidad y rehabilitación en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
 
-XVII.- Participar en programas de rehabilitación y educación especial.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de los inválidos, minusválidos e incapaces.
+XII.- Realizar estudios e investigaciones sobre asistencia social, con la participación, en su caso, de las autoridades asistenciales del Gobierno del Estado y de los Municipios;
 
-XIX.- Cuidar a niños expósitos investigando la solvencia moral de quienes los pretenden adoptar, vigilando el proceso de integración de los adoptados.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XX.- Establecer programas tendientes a evitar y prevenir el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia sin perjuicio de denuncias ante las autoridades competentes en los casos de infracción o delito; y
+XIII.- Coordinar y promover el Sistema Estatal de Asistencia Social, según lo dispuesto en el Artículo 5º de la presente ley;
 
-XXI.- Las demás que establezcan las disposiciones aplicables en la materia.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIV.- Elaborar y proponer los reglamentos que se requieran en materia, observando su estricto cumplimiento;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XV.- Promover, a través del Ejecutivo, iniciativas tendientes a ampliar y mejorar los servicios de asistencia social que se presenten en la Entidad;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVI.- Proponer a los organismos e instituciones de asistencia social, programas que contribuyan al uso eficiente de sus recursos;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVII.- Realizar y promover la capacitación de recursos humanos para la asistencia social;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVIII.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social a que se refiere la fracción XIX del artículo 14 de esta ley;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIX.- Prestar servicios de asistencia jurídica, psicológica y de orientación a menores, adolescentes, mujeres, adultos mayores, discapacitados y sujetos víctima de violencia intrafamiliar;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XX.- Apoyar el ejercicio de la tutela y curatela de los incapaces, que corresponda al Estado, en los términos de la ley respectiva;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXI.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXII.- Realizar investigaciones en materia de discapacidad;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXIII.- Participar en programas de rehabilitación y educación especial;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXIV.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de los discapacitados;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXV.- Cuidar a niños expósitos investigando la solvencia moral de quienes los pretenden adoptar, vigilando el proceso de integración de los adoptados;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXVI.- Establecer programas tendientes a evitar y prevenir el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia, sin perjuicio de denuncias ante las autoridades competentes en los casos de infracción o delito; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XXVII.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTICULO 20.
 
@@ -275,7 +451,9 @@ En caso de desastre, como inundaciones, terremotos, derrumbes, explosiones, ince
 
 En la prestación de servicios y en la realización de acciones, el Organismo actuará en coordinación con las dependencias y entidades del Gobierno del Estado y de los Municipios, según la competencia que a éstas otorgan las Leyes.
 
-El Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufren cualquier tipo de invalidez, minusvalía o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+El Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufren cualquier tipo de discapacidad o cualquier otra capacidad especial, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
 
 El organismo observará una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del Sector Salud y de los sectores social y privado.
 
@@ -295,9 +473,11 @@ V.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen con
 
 VI.- En general los demás bienes, derechos e ingresos que obtenga por cualquier título.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 23.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, el organismo contará con los siguientes órganos superiores:
+Para el estudio, programación, ejecución y seguimiento de los asuntos que le competen, el organismo contará con los siguientes órganos superiores:
 
 I.- Patronato;
 
@@ -319,19 +499,27 @@ I.- Emitir opinión y recomendaciones sobre los planes de labores, presupuestos,
 
 II.- Apoyar las actividades del organismo y formular sugerencias tendientes a su mejor desempeño;
 
-III.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del organismo y el cumplimiento de sus objetivos;
+III.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del organismo y el cumplimiento de sus objetivos.
 
 IV.- Designar a su Presidente y al Secretario de Sesiones; y
 
-V.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+V.- Ser el conducto o vía para obtener la colaboración de organismos públicos y privados de asistencia social, cuando así lo solicite la Junta de Gobierno; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+VI.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
 ###### ARTICULO 26.
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 27.
 
-La Junta de Gobierno estará integrada por el Secretario General de Gobierno, el Tesorero General del Estado, el Procurador General de Justicia, el Secretario de Servicios Administrativos, el Delegado del Instituto Mexicano del Seguro Social, el Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, el Director General de Salud del Estado, el Jefe de los Servicios Coordinados de Salud Pública en el Estado, el Coordinador General del Comité de Planeación para el Desarrollo del Estado de Tamaulipas, el Director General de la Contraloría Estatal, el Director General de Educación y Cultura y el Director General del propio Organismo.
+La Junta de Gobierno estará integrada por el Secretario General de Gobierno, el Secretario de Finanzas, el Procurador General de Justicia, el Secretario de Administración, el Delegado del Instituto Mexicano del Seguro Social, el Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, el Secretario de Salud, el Jefe de los Servicios Coordinados de Salud Pública en el Estado, el Secretario de Desarrollo Social, el titular de la Contraloría Gubernamental, el Secretario de Educación, Cultura y Deporte y el Director General del propio Organismo.
 
 Los miembros de la Junta de Gobierno serán suplidos por los representantes que al efecto designen cada uno de los miembros propietarios de la misma.
 
@@ -437,9 +625,13 @@ Las relaciones de trabajo entre el organismo y sus trabajadores se sujetarán a 
 
 Serán trabajadores de confianza del organismo:
 
-I.- El Director;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-II.- Los Subdirectores, Coordinadores, los Auxiliares de los mismos;
+I.- El Director General;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+II.- Los Directores de área y/o subdirectores;
 
 III.- Los Jefes de Unidad;
 
@@ -471,7 +663,9 @@ II.- Promover la conjunción de los dos niveles de gobierno en la aportación de
 
 III.- Distribuir y coordinar acciones entre las partes, de manera proporcional y equitativa;
 
-IV.- Coordinar y proponer programas para el establecimiento y apoyo de la Beneficencia Pública y la Asistencia Privada, Estatal y Municipal; y,
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IV.- Coordinar y proponer planes, programas y proyectos para el establecimiento y apoyo de la Beneficencia Pública y la Asistencia Privada, Estatal y Municipal; y,
 
 V.- Fortalecer el patrimonio de los Sistemas Municipales para el Desarrollo Integral de la Familia.
 
@@ -521,7 +715,9 @@ La participación de la comunidad a que se refiere el artículo anterior tiene p
 
 Dicha participación, será a través de las siguientes acciones:
 
-I.- Promoción de hábitos de conducta y de valores que contribuya a la protección de los grupos vulnerables, a su superación y a la prevención de invalidez;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+I.- Promover valores, hábitos y habilidades que contribuyan a la protección de los grupos vulnerables, a su superación y a la prevención de invalidez;
 
 II.- Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios de salud en materia de asistencia social, bajo la dirección y control de las autoridades correspondientes;
 
@@ -546,3 +742,11 @@ Cd. Victoria, Tam., a 24 de septiembre de 1986.- Diputado Presidente, AGUSTIN LO
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los treinta días del mes de septiembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. ROBERTO PERALES MELENDEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 2001
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
