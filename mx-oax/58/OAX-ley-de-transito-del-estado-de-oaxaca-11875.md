@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-del-estado-de-oaxaca-11875"
 country: "mx"
 rank: "ley"
 publication_date: "1969-07-05"
-last_updated: "1976-12-25"
+last_updated: "1998-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSITO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
 
 Ley publicada en el Periódico Oficial Organo del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el Sábado 5 de Julio de 1969.
 
@@ -401,6 +401,14 @@ III.- Cuando, por hechos u omisiones de los concesionarios o permisionarios, que
 
 IV.- Por incapacidad económica o quiebra supervenientes de los concesionarios o permisionarios, que impidan la prestación del servicio conforme a las condiciones fijadas en las concesiones y permisos.
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+
+V.- Cuando se demuestre que la concesión fue otorgada, sin satisfacer los requisitos a que se refieren los artículos 93 y 94 del Reglamento de esta Ley y en contravención al procedimiento que la misma establece.
+
+(ADICIONADO, P.O. 17 DE ENERO DE 1998) ¿??
+
+Cualquier persona, sea concesionaria o no, que tenga conocimiento de la existencia de una causal de revocación podrá denunciarla, debiendo la autoridad competente dar inicio el procedimiento respectivo.
+
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
 ###### Artículo 27.
@@ -532,3 +540,7 @@ P.O. 25 DE DICIEMBRE DE 1976.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 1998.
+
+UNICO.- Este Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
