@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-organo-de-fiscalizacion-superior-del-estado-18884"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2000-12-27"
+last_updated: "2003-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,83 +21,55 @@ state: "NAY"
 ---
 # LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO
 
-LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO
+REGLAMENTO DE LA GACETA DEL MUNICIPIO DE SAN LUCAS ZOQUIAPAM
 
 TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2000.
+Reglamento publicado en la Quinta Sección del Número 20 del Periódico Oficial del Estado de Oaxaca, el sábado 17 de mayo de 2025.
 
-C.P. ANTONIO ECHEVARRIA DOMINGUEZ, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
+ACTA DE SESIÓN ORDINARIA DE CABILDO PARA ANALIZAR, DISCUTIR, Y EN SU CASO APROBAR EL REGLAMENTO DE LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE SAN LUCAS ZOQUIAPAM.
 
-Que el H. Congreso Local, se ha servido dirigirme para su promulgación, el siguiente
+En el Municipio de San Lucas Zoquiapam, Distrito de Teotitlán del Estado de Oaxaca, siendo las diez horas con cinco minutos del día siete del mes de Abril del año dos mil veinticinco, con fundamento en los artículos 115 fracciones II y IV de la Constitución Política de los Estados Unidos Mexicanos; 113 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca; en cumplimiento a lo dispuesto en los artículos 1, 2, 45, 46 fracción I, 68 fracción IV, y V, Art. 49, 92 fracción III, IV, V y VII de la Ley Orgánica Municipal del Estado de Oaxaca; reunidos en salón de sesiones del Palacio Municipal ubicado en Palacio Municipal sin número de esta misma población, con la finalidad de llevar a cabo la presente Sesión Ordinaria de Cabildo, presidiendo la sesión el C. M.V.Z. Mucio Carrera Hernández, Presidente Municipal Constitucional y estando presentes los CC. Jenaro Hernández Anastacio, Maximiliano García Zaragoza, Jorge García García, Constantino Cerqueda Hernández, Irene García Martínez, Macedonia Suárez Cruz, Ana Nepomuceno Calleja, Rosario Cerqueda Martínez; Síndico Municipal, Regidor de Hacienda, Regidor de Obras, Regidor de Educación, Regidora de Salud, Regidora de Agricultura, Regidora de Desarrollo Social, Regidora de Ecología, respectivamente integrantes del Ayuntamiento y la C. Xochitl García Quevedo, Secretaria Municipal, a efecto de analizar, discutir y en su caso aprobar el Reglamento de la Gaceta Municipal del H. Ayuntamiento de San Lucas Zoquiapam, bajo el siguiente:
 
-DECRETO NUMERO 8309
+ORDEN DEL DÍA
 
-El H. Congreso del Estado Libre y Soberano de Nayarit representado por su XXVI Legislatura
+[...]
 
-DECRETA:
+C.M.V.Z. MUCIO CARRERA HERNÁNDEZ, Presidente Municipal Constitucional del Honorable Ayuntamiento de San Lucas Zoquiapam, Distrito de Teotitlán, del Estado Libre y Soberano de Oaxaca, a sus habitantes, hace saber: Que el Honorable Ayuntamiento Constitucional de San Lucas Zoquiapam, Teotitlán, Oaxaca; en uso de mis atribuciones y con fundamento en lo dispuesto por el Artículo 115 Fracción II de la Constitución Política de los Estados Unidos Mexicanos, Artículo 113 Fracción I de la Constitución Política del Estado Libre y Soberano de Oaxaca; artículo 68 Fracción IV de la Ley Orgánica Municipal del Estado de Oaxaca y del Bando de Policía y Gobierno del Municipio de San Lucas Zoquiapam, Teotitlán, tiene a bien expedir el:
 
-LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO.
+REGLAMENTO DE LA GACETA DEL MUNICIPIO DE SAN LUCAS ZOQUIAPAM
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-La presente ley es de orden público y tiene por objeto regular la revisión de la Cuenta Pública y su Fiscalización Superior.
+El Presente Reglamento tiene por objeto regular la publicación de la “Gaceta Municipal”, del Municipio de San Lucas Zoquiapam.
 
 ###### Artículo 2.
 
-El Órgano de Fiscalización Superior del Estado es un ente con personalidad jurídica propia. Al efecto tendrá autonomía técnica y de gestión para el ejercicio de su función fiscalizadora y la competencia que le confieren la Constitución Política del Estado, esta ley y demás legislación aplicable.
+La Gaceta es el Órgano de Gobierno del Municipio de San Lucas Zoquiapam de carácter permanente e interés público, para divulgar en su comunidad los bandos de policía y buen gobierno, reglamentos municipales, disposiciones generales, órdenes y demás actos que expida dentro del ámbito de su competencia, a fin de que estos(sic) sean aplicados y observados debidamente.
 
 ###### Artículo 3.
 
-Para efectos de la presente Ley, se entenderá por:
-
-I. Poderes del Estado: Los Poderes Legislativo, Ejecutivo y Judicial;
-
-II. Ayuntamientos: Los Órganos de Gobierno de los Municipios;
-
-III. Órgano: El Órgano de Fiscalización Superior del Estado;
-
-IV. Congreso: El Congreso del Estado;
-
-V. Comisión: La Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
-
-VI. Unidades de Control Interno: La Secretaría de la Contraloría General, y los Órganos de Control Interno de los Poderes Legislativo y Judicial, de los Ayuntamientos, de los Entes Públicos, y demás Sujetos de fiscalización;
-
-VII. Entes Públicos: Además de la Universidad Autónoma de Nayarit, El Consejo Estatal Electoral, el Tribunal Estatal Electoral, la Comisión de Derechos Humanos del Estado, todos los Organismos Públicos constitucionalmente autónomos para el desempeño de sus funciones sustantivas, y las demás personas de derecho público de carácter estatal y municipal autónomas por disposición legal así como los órganos jurisdiccionales que determinen las leyes;
-
-VIII. Sujetos de Fiscalización: Los Poderes del Estado, los Ayuntamientos, los Entes Públicos, los Organismos Públicos Descentralizados del estado y de los municipios, las Empresas y Fideicomisos con participación Estatal o Municipal, y en general, cualquier persona, física o moral, pública o privada que recaude, administre, maneje o ejerza recursos públicos;
-
-IX. Cuenta Pública: Informe de contenido contable, financiero, presupuestal, programático, legal, fiscal y económico relativo a la gestión financiera y al ejercicio del gasto público, que rinden los Sujetos de Fiscalización, al Congreso para comprobar si se ha dado cumplimiento a los objetivos contenidos en sus planes y programas, de conformidad con los criterios señalados en el presupuesto correspondiente, y demás legislación relativa a planeación, programación y ejercicio de recursos públicos, así como de los indicadores de desempeño y de evaluación de su función pública.
-
-X. Gestión Financiera: La actividad de los Sujetos de Fiscalización respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas aprobados, en el periodo que corresponde a una Cuenta Pública, sujeta a la revisión posterior de la Cámara, a través del Órgano a fin de verificar que dicha Gestión se ajusta a las disposiciones legales, reglamentarias y administrativas aplicables, así como el cumplimiento de los programas señalados;
-
-XI. Gasto Público: Las erogaciones por conceptos de gasto corriente, de capital, de inversión y financiero, así como las transferencias, pagos de pasivo y de deuda pública, que los Sujetos de Fiscalización, realicen en el ejercicio de sus funciones conforme a su presupuesto de egresos en la esfera de su competencia;
-
-XII. Fiscalización Superior: Facultad conferida al Órgano de Fiscalización Superior del Estado, consistente en la revisión y fiscalización posterior de los ingresos y egresos, de las Cuentas Públicas, comprobando que se proceda conforme a las leyes y normas establecidas para el ejercicio del gasto de las haciendas públicas Estatal y Municipales relativas a la gestión financiera así como para el cumplimiento de los planes y programas y demás legislación relativa a la recaudación, planeación, programación y ejercicio de recursos públicos;
-
-XIII. Informe del Resultado: Informe del resultado de la revisión y fiscalización de las Cuentas Públicas que el Órgano, por conducto de la Comisión, presenta al Congreso;
-
-XIV. Programas: Los contenidos en los presupuestos aprobados a los que se sujeta la Gestión o actividad de los Sujetos de Fiscalización;
-
-XV. Servidores públicos: Los que se consideran como tales en la Constitución Política del Estado de Nayarit y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Serán motivo de publicación, por acuerdo del Ayuntamiento o del Presidente Municipal, todos aquellos acuerdos o actos municipales que sin estar comprendidos expresamente en los supuestos del artículo anterior así se determine por su importancia y trascendencia.
 
 ###### Artículo 4.
 
-La fiscalización superior se realizará en forma posterior a la presentación de las Cuentas Públicas, de manera externa, independiente y autónoma de cualquier forma de control interno de los sujetos de fiscalización.
+La Gaceta Municipal, se editará en el Municipio de San Lucas Zoquiapam, en cantidad suficiente para su distribución en la comunidad.
 
 ###### Artículo 5.
 
-Son sujetos de fiscalización: los Poderes del Estado, los Ayuntamientos, los Entes Públicos, los Organismos Públicos Descentralizados del estado y municipios, las Empresas y Fideicomisos con participación Estatal o Municipal, y en general, cualquier persona, física o moral, pública o privada que recaude, administre, maneje o ejerza recursos públicos.
+La Gaceta municipal deberá contener cuando menos los siguientes datos:
 
-La fiscalización del Órgano, estará a cargo del Congreso por conducto de la Comisión.
+a) Llevar el nombre (sic) “Gaceta Municipal”;
+
+b) Fecha y número de publicación;
+
+c) Sumario de Contenido.
 
 ###### Artículo 6.
 
-A falta de disposición expresa en la ley, se aplicarán en forma supletoria y en lo conducente, la Ley de Presupuesto, Contabilidad y Gasto Público de la Administración del Gobierno del Estado; el Código Fiscal del Estado, Ley de Responsabilidades de los Servidores Públicos, así como las disposiciones relativas del Derecho Común, sustantivo y procesal.
-
-La interpretación y aplicación de esta Ley, estará a cargo del Congreso, la Comisión y el Auditor General, en el ámbito de sus respectivas competencias.
+La Gaceta Municipal será distribuida en centros educativos, organismos empresariales, Juntas de Vecinos, Asociaciones Deportivas, Patronatos y Similares, a fin de que esté en posibilidad de cumplir y hacer cumplir la normatividad jurídica en el Municipio.
 
 ### CAPITULO II. DEL ÓRGANO DE FISCALIZACION SUPERIOR
 
@@ -105,61 +77,59 @@ La interpretación y aplicación de esta Ley, estará a cargo del Congreso, la C
 
 ###### Artículo 7.
 
-El Órgano será competente para:
+La Secretaría Municipal del H. Ayuntamiento, instrumentará lo concerniente para lograr la oportuna distribución de la Gaceta Municipal.
 
-I. Fiscalizar las Cuentas Públicas, los ingresos, egresos, deuda, activos, patrimonio, el manejo, custodia y aplicación de los fondos, recursos de los Sujetos de Fiscalización así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos;
+T R A N S I T O R I O
 
-II. Verificar, en forma posterior a la presentación de las Cuentas, si la Gestión Financiera y el ejercicio del Gasto Público de los Sujetos de fiscalización, se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad, obligaciones fiscales y laborales, contratación de servicios personales y generales, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
+ÚNICO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
 
-III. Comprobar y verificar si la recaudación, administración, manejo y aplicación de recursos estatales y municipales; los actos, contratos, convenios, concesiones u operaciones que los Sujetos de fiscalización celebraron o realizaron, se ajustaron a la legalidad, y si no causaron daños o perjuicios en contra de las Haciendas Públicas Estatal y Municipales así como al patrimonio de los demás Sujetos de fiscalización;
+Se promulga el anterior ordenamiento en el Palacio Municipal de San Lucas Zoquiapam a los siete días del mes de Abril de dos mil veinticinco.
 
-IV. Verificar que los Sujetos de fiscalización que hubieren recaudado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los planes y programas aprobados y montos autorizados, con apego a las disposiciones aplicables;
+Honorable Ayuntamiento Constitucional de San Lucas Zoquiapam Distrito de Teotitlán, Oaxaca
 
-V. Verificar obras en proceso o ejecutadas, bienes adquiridos y servicios contratados, para comprobar que las inversiones y gastos autorizados a los Sujetos de Fiscalización, se hayan aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+C.M.V.Z. Mucio Carrera Hernández
 
-VI. Fiscalizar la aplicación de los subsidios o estímulos fiscales que los Sujetos de Fiscalización, hayan recibido, u otorgado con cargo a su presupuesto, a municipios, particulares y en general a cualquier persona pública o privada, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
+Presidente Municipal Constitucional
 
-VII. Establecer los criterios respecto de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas, verificando que sean presentadas, en los términos de ley;
+C. Jenaro Hernández Anastacio
 
-VIII. Establecer las reglas técnicas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de la fiscalización, auditorías y revisiones;
+Síndico Municipal
 
-IX. Investigar, en su caso, los actos u omisiones que pudieran configurar alguna irregularidad en el ingreso, egreso, patrimonio, manejo, custodia y aplicación de fondos y recursos de los Sujetos de fiscalización, para elaborar los pliegos de posible responsabilidad;
+C. Maximiano García Zaragoza
 
-X. Efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades para los cateos;
+Regidor de Hacienda
 
-XI. Requerir a los titulares de los Sujetos de fiscalización, la remisión de documentación específica para el cumplimiento de sus funciones de Fiscalización Superior. El Órgano podrá solicitar los datos, libros y documentos justificativos y comprobatorios del ingreso y gasto público, y la demás información que considere necesaria. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos del Órgano, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva sobre dicha información.
+C. Jorge García García
 
-El Órgano sólo tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o que deba mantenerse en secreto, cuando esté relacionada con la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos estatales y municipales, y tendrá la obligación de mantener la misma reserva o secrecía hasta en tanto no se derive de su revisión el fincamiento de responsabilidades o el señalamiento de las observaciones que correspondan en el informe del resultado.
+Regidor de Obras
 
-La información y datos que para el cumplimiento de lo previsto en esta fracción se proporcionen estarán afectos exclusivamente al objeto de esta Ley y demás ordenamientos aplicables;
+C. Irene García Martínez
 
-XII. Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier instrumento legal con los Sujetos de fiscalización, la información relacionada con la documentación justificativa y comprobatoria de las Cuentas Públicas, a efecto de realizar las compulsas correspondientes;
+Regidora de Educación
 
-XIII. Celebrar Convenios de Coordinación y colaboración con su similar de la Federación, para efectos de la fiscalización de recursos federales que ejerzan los Sujetos de fiscalización;
+C. Constantino Cerqueda Hernández
 
-XIV. Celebrar convenios con autoridades federales y de otras entidades federativas, así como con personas físicas o morales, públicas o privadas con el propósito de dar cumplimiento al objeto de esta ley;
+Regidor de Salud
 
-XV. Requerir, en su caso, a los prestadores de servicios profesionales que contrate, los informes o dictámenes de las auditorías y revisiones por ellos practicadas;
+C. Ana Nepomuceno Calleja
 
-XVI. Determinar, en su caso, los daños y perjuicios que afecten a las Haciendas Públicas Estatal y Municipales, al patrimonio de las entidades de los demás Sujetos de fiscalización; y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
+Regidora de Agricultura
 
-XVII. Promover ante las autoridades competentes el fincamiento de responsabilidades civiles, penales y administrativas según corresponda; así como promover las acciones de responsabilidad a que se refiere el Título Octavo de la Constitución Política del Estado;
+C. Macedonia Suárez Cruz
 
-XVIII. Presentar las denuncias y querellas penales por actos u omisiones que deriven en perjuicio de las haciendas públicas estatal o municipales, o del patrimonio de los sujetos de fiscalización, coadyuvando con las autoridades que corresponda, en términos de la legislación aplicable;
+Regidora de Desarrollo Social
 
-XIX. Expedir certificaciones de los documentos que obren en sus archivos, conforme a las especificaciones que se determinen en el Reglamento del Órgano;
+C. Rosario Cerqueda Martínez
 
-XX. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de sus actos o resoluciones definitivas, así como condonar total o parcialmente las multas impuestas;
+Regidora de Ecología
 
-XXI. Elaborar su proyecto de Presupuesto Anual y de ampliaciones al mismo, en caso de ser necesario;
+C. Xóchitl García Quevedo
 
-XXII.Entregar al Congreso, a través de la Comisión, el Informe del Resultado de la revisión de las Cuentas Públicas;
+Secretaria Municipal
 
-XXIII. Fungir como instancia local para la investigación, interpretación y resolución de los conflictos que se presenten en la aplicación de la normatividad relativa a los programas, fondos y recursos federales;
+Doy fe
 
-XXIV.Participar en foros nacionales e internacionales, cuyas funciones sean acordes con sus atribuciones; y
-
-XXV. Las demás que expresamente señalen la Constitución Política del Estado, la Ley, decretos y acuerdos del Congreso.
+En términos del Art. 92 Fracc IV de la Ley Orgánica Municipal del Estado de Oaxaca
 
 #### SECCION SEGUNDA. Del Auditor General y Servidores Públicos del Órgano
 
