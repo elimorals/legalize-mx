@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-de-centros-poblados-del-estado-de-sinaloa-983
 country: "mx"
 rank: "ley"
 publication_date: "1970-10-01"
-last_updated: "1975-04-07"
+last_updated: "1992-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO DE CENTROS POBLADOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA": 7 DE ABRIL DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA": 28 DE SEPTIEMBRE DE 1992.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa" el 1o. de octubre de 1970.
 
@@ -151,7 +151,7 @@ Las últimas, son aquellas para cuya ejecución participan los particulares y la
 
 Las obras serán proyectadas de acuerdo con los planos reguladores. Los estudios preliminares y anteproyectos de dichas obras, constituirán la base para su ejecución.
 
-## TITULO SEGUNDO. DE LA INTEGRACION Y ATRIBUCIONES DE LOS ORGANOS DE PLANEACION Y DESARROLLO URBANO
+## TITULO SEGUNDO. DE LA INTEGRACION Y ATRIBUCIONES DE LOS ORGANOSDE PLANEACION Y DESARROLLO URBANO
 
 ### CAPITULO I. DE LA COMISION ESTATAL DE DESARROLLO DE CENTROS POBLADOS
 
@@ -160,6 +160,10 @@ Las obras serán proyectadas de acuerdo con los planos reguladores. Los estudios
 La Comisión Estatal de Desarrollo de Centros Poblados es el Organismo que a nivel estatal fija las normas y directrices del desarrollo de los centros poblados, proporciona continuidad a los programas y ayuda a la formación de conciencia en los habitantes para que colaboren a su realización.
 
 La Comisión Estatal del Desarrollo de Centros Poblados tendrá por domicilio la ciudad de Culiacán Rosales.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+Para el efecto de asignar presupuesto para la creación de obras cuya recuperación sea por cooperación o por el impuesto de pluslavía, la Secretaría de Planeación y Desarrollo, solicitará previamente una relación jerarquizada de las obras a ejecutar al Ayuntamiento, a la Comisión Municipal de Desarrollo de Centros Poblados de que se trate o en su caso, a la Comisión Estatal.
 
 ###### ARTICULO 9.
 
@@ -197,11 +201,15 @@ VII.- Autorizar a la Comisión Municipal respectiva para que realice las obras o
 
 VIII.- Gestionar la ayuda de las Autoridades, así como de personas físicas o morales para la realización de obras y servicios públicos.
 
-IX.- Aprobar, modificar o rechazar cuáles serán las obras cuyo costo deba distribuirse en una zona específica beneficiada, o en toda la población, cuando aquéllas reporten un beneficio colectivo general mayor;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+IX.- Aprobar, modificar o rechazar cuáles serán las obras cuyo costo deba distribuirse en una zona específica beneficiada, o en toda la población, cuando aquellos reporten un beneficio colectivo general mayor; lo anterior cuando el Gobernador del Estado sirva de aval a los Ayuntamientos;
 
 X.- Formular proyectos de financiamiento en las obras de proyección estatal y determinar en lo tocante a las proposiciones que a este respecto provengan de otros organismos;
 
-XI.- Supervisar técnica y administrativamente la ejecución de las obras llevada a cabo directamente por el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+XI.- Vigilar que las obras llevadas a cabo directamente por el Gobierno del Estado estén apegadas a lo establecido en esta ley y los planes de desarrollo urbano.
 
 XII.- Crear su Oficina Técnica de Planeación y promover la instalación de las oficinas técnicas correspondientes ante los Ayuntamientos de la Entidad;
 
@@ -213,47 +221,83 @@ XV.- Elaborar su reglamento interno; y
 
 XVI.- Las demás que le señalen las Leyes y Reglamentos que se expidan.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### ARTICULO 12-A.
+
+A la Comisión le corresponderá en coordinación con la Federación y Municipio identificar las acciones para restaurar el equilibrio ecológico, la protección al ambiente en la entidad, proponer prioridades y programas para su atención, así como impulsar en estas tareas la participación de los sectores: público, privado, sociales y de la comunidad en general.
+
+Son funciones ecológicas de esta Comisión:
+
+I.- Interpretar la Política Estatal de Ecología;
+
+II.- Vigilar la aplicación de la Ley del Equilibrio Ecológico y Protección al Medio Ambiente del Estado, atendiendo en lo aplicable lo formulado por la Federación;
+
+III.- Aplicar en esta esfera de competencia estatal conjuntamente con los Municipios, esta Ley, y sus normas técnicas y los criterios ecológicos que expida la Federación y vigilar su observancia;
+
+IV.- Apoyar acciones de los Municipios para atender los asuntos que afecten el equilibrio ecológico;
+
+V.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en el territorio de la entidad;
+
+VI.- Adoptar en coordinación con el Municipio que corresponda, las medidas necesarias para prevenir y controlar emergencias ecológicas y contingencias ambientales, en forma aislada o participar con la Federación, cuando la magnitud o gravedad de los desequilibrios ecológicos o daños al ambiente no rebasen el territorio del Estado o no hagan necesaria la acción exclusiva de la Federación o del Municipio;
+
+VII.- Coadyuvar a regular las actividades que sean consideradas riesgosas a la ecología en coordinación con los Municipios y Federación;
+
+VIII.- Coadyuvar a regular y crear las zonas sujetas a conservación ecológica a Municipios y Federación, así como administrar las que estén bajo custodia del Estado;
+
+IX.- Prevenir y controlar la contaminación de la atmósfera, generadas en zonas o por fuentes emisoras de jurisdicción estatal;
+
+X.- Establecer las medidas para hacer efectiva la prohibición de emisiones contaminantes que rebasen los niveles máximos permisibles, por ruido, vibraciones, energía térmica, lumínica y olores perjudiciales al equilibrio ecológico o al ambiente, en zonas o por fuentes emisoras de jurisdicción estatal;
+
+XI.- Programar el Ordenamiento Ecológico Estatal, en coordinación con los Municipios en los ámbitos de sus respectivas competencias;
+
+XII.- Evaluar el impacto ambiental, previamente a la realización de las obras o actividades económicas que se efectúen en el Estado;
+
+XIII.- Regular en coordinación con los Municipios que correspondan, el aprovechamiento racional de los recursos naturales en coordinación con la Federación;
+
+XIV.- Proteger las áreas de valor escénico o de paisaje en la entidad;
+
+XV.- Coordinar con los Comités Municipales de Ecología los programas y actividades que desarrollen dentro del Estado;
+
+XVI.- El dictamen en el que se opine sobre el uso de suelo que estará supeditado a los lineamientos que enmarque el Plan Director de Desarrollo Urbano y el Plan de Ordenamiento Ecológico;
+
+XVII.- Elaborar planos y reglamentos que tengan ingerencia directa con el marco ecológico estatal;
+
+XVIII.- Elaborar su Reglamento Interno; y
+
+XIX.- Los demás relativos que le señalen las leyes y reglamentos que se expidan.
+
 ### CAPITULO II. DE LAS COMISIONES MUNICIPALES DE DESARROLLO DE CENTROS POBLADOS
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 13.
 
-Las Comisiones Municipales de Desarrollo de Centros Poblados serán designadas por el Ayuntamiento al que corresponda, escogiendo a los integrantes de entre las ternas que al efecto les presenten los sectores interesados.
+Las Comisiones Municipales de Desarrollo de Centros Poblados serán designadas por el Ayuntamiento a que corresponda, escogiendo a los integrantes de entre las ternas que al efecto les presenten los grupos productivos más representativos del Municipio, pudiendo encontrarse agricultores, comerciantes, industriales, etcétera, así como líderes de colonias, fincatenientes, el Representante del Area de Obras Públicas, de Desarrollo Urbano y Ecología, Instituciones de Crédito y otros que a juicio del Ayuntamiento se considere necesario.
 
 Los miembros de la Comisión desempeñarán sus cargos en forma honorífica.
 
-El Presidente Municipal o su Representante será su Presidente y estará intetegrada (sic) además por los siguientes miembros:
+En caso de que se realice una obra, se introduzca o mejore un servicio o vaya a operar un programa en una Sindicatura, el titular de ésta formará parte de la Comisión Municipal y tendrá voz y voto exclusivamente para estos efectos.
 
-I.- El Jefe del Departamento Municipal de Obras Públicas.
+Para la integración de la Comisión, el Presidente Municipal por oficio requerirá a los diferentes sectores y organismos o instituciones a que alude este artículo, para que en un término de 15 días, designen la terna que representará a su sector; pasando el término sin que la hubieran designado, el Ayuntamiento, a propuesta del Presidente Municipal, elegirá libremente a los integrantes de la Comisión de entre personas y funcionarios que desempeñen actividades afines a las de la propia Comisión, o por su experiencia y profesionalismo en el ramo.
 
-II.- Un Representante de la Organización mayoritaria, a juicio de la Dirección del Desarrollo Económico del Gobierno del Estado, de los siguientes sectores:
+Los miembros de las Comisiones Municipales que cita el presente artículo durarán en su cargo hasta la renovación de los Ayuntamientos respectivos y la designación de quienes les sustituyan, y podrán ser reelectos y removidos de su cargo por decisión del Ayuntamiento a solicitud de sus representados.
 
-a).- Comerciantes;
+Las Comisiones Municipales de Desarrollo de Centros Poblados tendrán por domicilio la cabecera de sus respectivos Municipios, pero por simple decisión mayoritaria de sus miembros, podrán funcionar, en ocasiones especiales en cualquiera otra población del Municipio al que corresponda.
 
-b).- Industriales; y
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
-c).- Agricultores.
+###### ARTICULO 13-A.
 
-III.- Un Representante a juicio del Departamento de Acción Social Municipal.
+Integradas las Comisiones Municipales de Desarrollo de Centros Poblados, se procederá a la constitución del Consejo de Administración, que estará a cargo de un Presidente, un Secretario, un Tesorero y dos Vocales, elegidos por votación interna de entre cualesquier de los miembros de la Comisión respectiva.
 
-a).- Del Organismo que agrupe mayor número de usuarios de servicio público.
+El Consejo de Administración ejercerá las facultades que a la propia Comisión otorga la presente ley.
 
-b).- De la Organización de Trabajadores que agrupe mayor número de miembros.
+El Presidente del Consejo será a su vez el Presidente de la propia Comisión, tendrá la administración y la representación jurídica de ese organismo y ejercerá las facultades que esta ley le confiere y las demás que el Consejo de Administración y el Reglamento Interno le otorgue en su cumplimiento.
 
-IV.- Un Representante de los propietarios de fincas urbanas;
+El Secretario del Consejo firmará los documentos oficiales emanados del propio Consejo o del Presidente, llevará y autorizará el libro de actas del Consejo y ejercerá las demás facultades que le otorgue el Consejo y el Reglamento Interno.
 
-V.- Un Representante de las Instituciones de crédito.
-
-VI.- Un Representante de las Juntas de Mejoramiento Material, cívico y moral y de la Junta Federal de Mejoras materiales donde éstas existan.
-
-En caso de que se realice una obra, se introduzca o mejore un servicio o vaya a operar un programa de una Sindicatura, el titular de ésta formará parte de la Comisión Municipal y tendrá voz y voto exclusivamente para estos efectos.
-
-> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
-
-Para la integración de la Comisión, el Presidente Municipal por oficio, requerirá a los diferentes Sectores a que alude este artículo, para que en un término de 15 días, designen la terna que representará a su sector; pasado el término sin que la hubieren designado, el Ayuntamiento elegirá libremente a los integrantes del mismo.
-
-Los miembros de las Comisiones Municipales durarán en su cargo hasta la renovación de los Ayuntamientos respectivos y la designación de quienes los substituyan; podrán ser reelectos y removidos de su cargo por decisión del Ayuntamiento a solicitud de sus Representados.
-
-Las Comisiones Municipales de Desarrollo de Centros Poblados tendrán por domicilio la cabecera de sus respectivos Municipios, pero por simple decisión mayoritaria de sus miembros integrantes, podrán funcionar, en ocasiones especiales en cualquier otra población del Municipio.
+El Tesorero del Consejo suscribirá en unión del Presidente, los contratos, títulos de crédito y actos jurídicos derivados del cumplimiento de sus funciones. Autorizará con su firma y la del Presidente de la Comisión las disposiciones de fondos que deban hacerse en la aplicación de esta Ley.
 
 ###### ARTICULO 14.
 
@@ -281,19 +325,29 @@ VI.- Determinar el monto de los derechos de cooperación correspondiente a cada 
 
 VII.- Proponer a las Autoridades correspondientes el monto de las compensaciones para el caso de afectación de bienes;
 
-VIII.- Previo estudio proponer a la Comisión Estatal de Desarrollo de Centros Poblados cuáles serán las obras cuyo costo deba distribuirse en una zona específica beneficiada o en los predios comprendidos en una área urbana o en los de toda la Población cuando aquellos reporten un beneficio colectivo general mayor;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+VIII.- Si lo estima conveniente, previo estudio proponer a la Comisión Estatal de Desarrollo de Centros Poblados cuáles serán las obras cuyo costo debe distribuirse en una zona específica beneficiada o en los predios comprendidos en una área urbana o en las de toda la población cuando aquéllas reporten un beneficio colectivo general mayor;
 
 IX.- Gestionar la ayuda de las Autoridades y personas físicas o morales para la realización de obras y servicios públicos;
 
 X.- Fomentar la creación de nuevas colonias urbanas y mejorar las condiciones de vida en las existentes;
 
-XI.- Promover la determinación de perímetros, zonificación de áreas y la reglamentación del uso del suelo en los centros poblados;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+XI.- Promover la determinación de perímetros, zonificación de áreas y la reglamentación del uso del suelo en los centros poblados y solicitar al Ayuntamiento correspondiente la elaboración o modificación de planes de desarrollo urbano, sus derivaciones, declaratorias de reservas, usos y destinos, procediendo con su anuencia a su elaboración, modificación o revisión;
 
 XII.- Recabar de toda clase de autoridades los datos e informes que sean útiles para la realización de sus funciones;
 
-XIII.- Gestionar ante el Ayuntamiento respectivo la instalación de la Oficina Técnica de Planeación que les auxilie en el desempeño de sus labores;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+XIII.- Gestionar ante el Ayuntamiento respectivo la instalación de la Oficina Técnica de Planeación que les auxilie en el desempeño de sus labores, cuando no cuenten con su propia oficina encargada de la planeación del desarrollo urbano;
 
 XIV.- Elaborar su reglamento interno; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+XIV-A.- Vigilar que se integren los Comités de Desarrollo en las Sindicaturas de los Municipios con base a lo dispuesto en la presente Ley, sirviéndoles de apoyo técnico y administrativamente en las obras que promuevan cuando éstas sean previstas en el presente ordenamiento legal;
 
 XV.- Las demás que señalen las leyes o reglamentos que se expidan.
 
@@ -373,7 +427,9 @@ El Secretario llevará los libros de actas de sesiones, las que deberá autoriza
 
 El Tesorero tendrá el manejo y custodia de fondos. Su firma será mancomunada con la de algún o algunos otros miembros que el Comité señale; tendrá a su cargo los registros contables y estadísticos y los informes financieros que pondrá a consideración del propio Comité.
 
-## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION E IMPUESTO DE PLUSVALIA
+## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION E IMPUESTO DE
+
+PLUSVALIA
 
 ### CAPITULO I
 
@@ -397,15 +453,19 @@ V.- Alumbrado público.
 
 Los derechos de cooperación son exigibles desde que las obras se encuentren en proceso de construcción en la zona correspondiente al cooperador.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 28.
 
-Son solidariamente responsables de su pago los que cedan o adquieran por cualquier título los predios a que se refiere el artículo anterior.
+Son solidariamente responsables del pago de derechos por cooperación, los que cedan, enajenen, donen, trasladen el dominio o adquieran por cualquier título los predios a que se refiere el artículo anterior.
 
 ###### Artículo 29.
 
 El Congreso del Estado aprobará anualmente para cada uno de los Municipios de la Entidad, las tarifas conforme a las cuales deban pagarse los deerchos (sic) de cooperación previstos en la presente Ley. Las tarifas aplicables al empezar a realizarse una obra, seguirán en vigor hasta la terminación de la misma y hasta recuperación del adeudo.
 
-Para la elaboración de las tarifas que deban aprobarse anualmente, se tomará como base el costo de los materiales y mano de obra en el mercado.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+Para la elaboración de las tarifas que deban aprobarse anualmente, se tomará como base el costo de los materiales y mano de obra en el mercado, más el tanto por ciento que resulte de acuerdo con el aumento de los precios.
 
 > <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
 
@@ -415,7 +475,9 @@ Los derechos de cooperación para la realización de las obras mencionadas en es
 
 I.- Atarjeas., Por cada metro lineal de frente del predio:
 
-A.- Tubo de cemento, junteado con mortero de cemento incluyendo materiales, excavación relleno ademes y todo los conceptos necesarios para su realización; y
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+a).- Tubo de concreto junteado con mortero de cemento, incluyendo materiales, excavación de relleno, ademes y todo los conceptos necesarios para su realización.
 
 B.- Otros.
 
@@ -435,9 +497,9 @@ B.- Otras.
 
 IV.-- Guarnición sencilla., Por cada metro lineal del frente del predio:
 
-> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
-A.- Concreto ciclopeo de 175 K-cm2, como mínimo de resistencia, en forma trapezoidal con 20 cm. de base por 45cm. de altura y 15cm. de corona con talud al exterior; y
+a).- Concreto de 175 Kg. 6 Cm²., como mínimo de resistencia en forma trapezoidal con 20 cm. de base por 45cm. de altura y 15cm. de corona con talud al exterior.
 
 B.- Otras.
 
@@ -449,51 +511,67 @@ B.- De luz flourescente; y
 
 C.- De luz a vapor mercurial.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+d).- Otros
+
 > <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
 
 VI.-- Pavimento y carpetas de arroyos:
 
-> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
-A.- Utilizando concreto de resistencia igual a 210 K-cm2, con pavimento de 15cm. de espesor.
-
-a).-- Guarnición integral en "L"; y
-
-b).-- Pavimento.
-
-> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
-
-B.- Utilizando concreto de resistencia igual a 240 K-cm2, con pavimento de 15cm. de espesor.
+A.- Utilizando concreto con resistencia de 210 Kg./Cm², como mínimo, con pavimento de 15cm. de espesor.
 
 a).-- Guarnición integral en "L"; y
 
 b).-- Pavimento.
 
-C.- Utilizando concreto de resistencia igual a 300 K-cm2, con pavimento de 15cm. de espesor.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+B.- Utilizando concreto con resistencia de 250 Kg./Cm², como mínimo, con pavimento de 15cm. de espesor.
 
 a).-- Guarnición integral en "L"; y
 
 b).-- Pavimento.
 
-D).- Utilizando concreto de resistencia igual a 350 K-cm2, con pavimento de 15cm. de espesor;
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+C).- Utilizando concreto con resistencia de 250 Kg./Cm², como mínimo con pavimento de 18cm. de espesor.
+
+a).-- Guarnición integral en "L"; y
+
+b).-- Pavimento.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+D).- Carpeta de concreto asfáltico de 5 cm. como mínimo de espesor, compactada con especificaciones de la Secretaría del ramo.
 
 a).-- Guarnición integral en "L" y
 
 b).-- Pavimento.
 
-E.- Utilizando concreto de resistencia igual a 300 K-cm2, con pavimento de 18cm. de espesor
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+E).- Empedrados.
 
 a).-- Guarnición integral en "L" y
 
 b).-- Pavimento.
 
-F.- Carpeta de concreto asfáltico de 5cm. de espesor compactos con especificaciones de la Secretaría de Obras Públicas para supercarreteras; y
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
-G.- Empedrados.
+F).- Adoquinados.
 
-En el caso de realización de obras con especificaciones diversas a las aquí previstas, se someterá a la consideración del Congreso del Estado, el precio unitario que deberá pagarse por cada concepto.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
-No existirá obligación de pagar derechos de cooperación por la construcción de pavimentos o carpetas que se hagan con motivos de la desaparición de camellones, ni por la construcción de carpetas de menos de 4 cm. de espesor.
+G).- Otros.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 30-A.
+
+Antes de proceder a la ejecución de las obras que se pretende cubrir mediante el sistema de derechos de cooperación, la Comisión Municipal de Desarrollo de Centros Poblados correspondiente, deberá recabar la anuencia por lo menos del 51% de los propietarios, poseedores o los que por cualquier título tengan el uso o goce de los predios que se beneficiarán, en su caso, con las obras en proyecto, debiendo informarles sobre los propósitos; presupuestos, financiamientos, derrames y contratación.
 
 ### CAPITULO II
 
@@ -563,6 +641,12 @@ III.-- El monto de los derechos a su cargo y la forma de pago; y
 
 IV.-- El número de mensualidades en que deba hacer el pago total y el plazo en que deba hacer el primer pago.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 33-A.
+
+Una vez hecha la separación de la cantidad que corresponde a las Comisiones Municipales de Desarrollo de Centros Poblados, conforme al Artículo 71 de esta Ley en ningún otro caso se podrá disponer de parte o del total del importe, de los derechos de cooperación recaudados a través de la Tesorería Municipal para aplicarlos a un fin distinto al pago de los créditos obtenidos para el financiamiento de la obra realizada.
+
 ### CAPITULO III
 
 DEL IMPUESTO DE PLUSVALIA PARA EL DESARROLLO DE CENTROS POBLADOS.
@@ -583,31 +667,25 @@ Cuando el aumento de valor y la mejoría específica operen preponderantemente e
 
 El Impuesto se derramará sobre los predios comprendidos en un área urbana o predios de la población donde se ejecute la obra u obras, cuando éstas reporten un beneficio colectivo mayor al área o a la población que a la zona donde se ejecutaron.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 38.
 
-La Comisión Estatal de Desarrollo de Centros Poblados será la encargada de revisar los estudios técnicos y periciales para determinar las zonas o áreas beneficiadas con las obras, dividiéndolas en secciones conforme a los diversos grados de beneficio, determinando en consecuencia el monto del impuesto de plusvalía para cada zona o área por metro cuadrado y decidir cuando la derrama deba hacerse sobre la zona adyacente a la obra inmediatamente beneifciada (sic) por ésta o sobre los predios comprendidos en un área urbana o sobre la población entera según sea el beneficio zonal o colectivo con base en lo cual se elaborará un dictamen.
+Los Ayuntamientos y las Comisiones Municipales de Desarrollo de Centros Poblados respectivos, serán los encargados de hacer los estudios técnicos y periciales para determinar las zonas o áreas beneficiadas con las obras, dividiéndolas en secciones conforme a los diversos grados de beneficio, determinando en consecuencia el monto del impuesto de plusvalía para cada zona o área por metro cuadrado y decidir cuándo la derrama deba hacerse sobre la zona adyacente a la obra inmediatamente beneficiada por ésta o sobre los predios, comprendidos en un área urbana o sobre la población entera, según sea el beneficio zonal o colectivo, con base en lo cual se elaborará un dictamen por el Ayuntamiento correspondiente.
 
-###### Artículo 39.
+###### Articulo 39.
 
-Para la derrama equitativa del Impuesto a que se refiere este Capítulo se considerarán los siguientes factores:
-
-I.-- Superficie de cada predio;
-
-II.-- Distancia del predio al foco o eje de la obra;
-
-III.-- Influencia de la obra sobre la rentabilidad o valor comercial del predio;
-
-IV.-- Influencia de la obra en determinada zona y grado de beneficio a la colectividad; y
-
-V.-- Los demás datos determinantes en el incremento de valor o mejoría de la propiedad objeto del Impuesto.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 1992)
 
 ###### Artículo 40.
 
 Cuando un mismo predio se encuentre en dos o más áreas de beneficio, por ser varias las obras en proceso de realización, por cada una de ellas le corresponderá el pago del impuesto respectivo.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 41.
 
-Una vez elaborado el dictamen a que se refiere el artículo 38 por la Comisión Estatal de Desarrollo de Centros Poblados, éste será enviado al Congreso del Estado para que si lo estima pertinente decrete el impuesto de plusvalía correspondiente. El impuesto se invertirá en el pago del costo total de la obra realizada.
+Una vez elaborado el dictamen a que se refiere el Artículo 38 por el Ayuntamiento correspondiente, será enviado al Congreso del Estado para que si lo estima pertinente decrete el impuesto de plusvalía correspondiente. El impuesto se invertirá en el pago del costo total de la obra realizada, quedando incluídos en este concepto los gastos correlativos de intereses y comisiones por contratación de créditos o empréstitos que se hubieren destinado al financiamiento de la misma obra.
 
 En caso de quedar un remanente después de la ejecución total de la obra, éste se aplicará a la realización de nuevas obras de desarrollo del mismo centro poblado.
 
@@ -625,13 +703,127 @@ IV.-- El monto del Impuesto y la forma de pago; y
 
 V.-- El número de bimestres en que deba hacerse el pago total y el plazo en que deba hacerse el primer pago.
 
-### CAPITULO UNICO. DE LAS OBRAS INTERMUNICIPALES
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-A.
+
+Se considerarán bases técnicas generales, a fin de lograr una derrama equitativa del impuesto de plusvalía sobre los inmuebles beneficiados:
+
+I.- La superficie de cada predio;
+
+II.- Longitud de los frentes a calles o plazas;
+
+III.- La distancia del predio al foco o eje de la obra;
+
+IV.- La influencia de la obra en determinada zona y grado de beneficio de la colectividad;
+
+V.- La influencia de la obra sobre la rentabilidad o valor comercial del predio; y
+
+VI.- Todos los demás datos determinantes en el incremento del valor o mejoría de la propiedad objeto del impuesto.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-B.
+
+Cuando se trate de obras de rectificación, ampliación, prolongación y mejoramiento de las vías públicas ya existentes, el impuesto se calculará por unidad de metro cuadrado de superficie de los predios, sin tomar en consideración las construcciones que puedan existir sobre ellos y será tanto más elevado en la medida en que sea menor la distancia del predio de que se trate al eje o foco de la obra.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-C.
+
+En los casos de que se ocupa el artículo anterior, las distancias para los fines de cálculo del impuesto, se medirán del centro de gravedad de cada predio al eje de la vía pública de que se trate. En los predios que tengan frente a la misma, la medición se hará sobre la perpendicular al eje. En los demás casos la medición se hará siguiendo la línea corta sobre los ejes de las calles que conduzcan a la vía pública.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-D.
+
+Para determinar la cantidad líquida que por imposición corresponda a cada predio, deberá multiplicarse su superficie por la cuota de imposición que por metro cuadrado le corresponda, según la diversa zonificación, en función de las normas técnicas que señala la Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-E.
+
+Respecto a los predios con superficie irregular deberán tomarse en consideración; los ancones, el fondo excedente de 25 metros, la medida de los frentes, la desproporción entre éstos y el fondo, los ángulos de apertura inferior y superior a 90º y en general todas las características físicas que permitan definir la superficie que deberá quedar afecta al impuesto de plusvalía.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-F.
+
+En los predios con frente a dos vías públicas opuestas, se harán dos operaciones conforme al artículo anterior dividiéndolos por una línea media entre ambos frentes.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-G.
+
+Cuando varios predios pertenecientes al mismo propietario comprendan la superficie total de una manzana, para verificar el cálculo a que se refiere el Artículo 42 D de esta Ley, la superficie se dividirá en 4 fracciones mediante el trazo de una línea media entre los frentes opuestos.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-H.
+
+A fin de lograr al máximo la equidad y la proporcionalidad en la derrama del impuesto, en los casos de que se ocupan los artículos del 42-B al 42-G la liquidación de predios en esquina se incrementará en un 25, en un 20 o en un 10% según que la esquina sea considerada como comercial de primer orden, comercial de segundo orden o no comercial, respectivamente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+### CAPITULO IV. BASES PARA EL PAGO Y RECAUDACIÓN DEL IMPUESTO DE PLUSVALÍA
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-I.
+
+El importe será cubierto en el número de exhibiciones bimestrales que señale la Ley que establezca el impuesto de plusvalía en cada caso, de acuerdo con las bases generales de la presente Ley; el primer pago deberá efectuarse dentro de los 15 días hábiles siguientes a aquel en que hubiere quedado firme la liquidación correspondiente, computándose el término a partir del día siguiente al de la notificación al causante.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-J.
+
+La Comisión Municipal de Desarrollo de Centros Poblados con el auxilio de la Dirección de Obras Públicas y de Planeación del Desarrollo Urbano Municipal, en su caso, proyectarán las operaciones de cálculo para la individualización del impuesto con base en la Ley especial de plusvalía de que se trate y en las normas generales de la presente Ley. Los cálculos elaborados respecto de la cantidad que deba pagarse por cada predio objeto del impuesto serán rendidos al Ayuntamiento interesado para su aprobación definitiva. Corresponderá a las tesorerías municipales la notificación al causante, la recaudación y todos los trámites relativos para hacer efectivo el impuesto.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-K.
+
+Determinado el impuesto la tesorería municipal fundando y motivando la causa legal del procedimiento, notificará al causante la cuantificación del impuesto mediante un instructivo en el que se exprese:
+
+a).- Nombre del causante;
+
+b).- La obra de que se trate;
+
+c).- El costo líquido de la misma y forma en que se hará la derrama;
+
+d).- La ubicación del predio del causante;
+
+e).- Superficie afecta al impuesto;
+
+f).- Distancia del predio al eje de la vía pública o foco de la obra;
+
+g).- Costo de imposición por metro cuadrado;
+
+h).- El importe líquido total del impuesto;
+
+i).- Número de bimestres en que deba hacerse el pago total;
+
+j).- Importe de cada pago bimestral; y
+
+k).- Lugar de pago.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42-L.
+
+En el caso de que el causante se inconforme contra la liquidación a que se refiere el Artículo 42 K, podrá recurrir en los términos de la Ley de Hacienda Municipal para el Estado de Sinaloa.
+
+Son aplicables las normas establecidas en el Artículo 74 de la Ley de Hacienda Municipal del Estado, en todo lo relativo a la suspensión del cobro del crédito fiscal y formas de afianzamiento, en tanto se tramite el recurso.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 42
+
+LL.- En todo lo referente a recargos, embargos, remates y demás consecuencias de ejecución, se estará a los dispuesto por la Ley de Hacienda Municipal del Estado y en su caso la Ley de Ingresos Municipales.
 
 ## TITULO CUARTO. DE LAS OBRAS INTERMUNICIPALES DE DESARROLLO URBANO
 
-### CAPITULO UNICO. DEL PLANO REGULADOR DE LOS CENTROS POBLADOS
-
-> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
+### CAPITULO UNICO. DE LAS OBRAS INTERMUNICIPALES
 
 ###### Artículo 43.
 
@@ -665,63 +857,45 @@ Cada una de las autoridades Hacendarias Municipales, en sus respectivas jurisdic
 
 En todo lo no previsto en este Capítulo, se aplicarán las normas generales establecidas en la presente Ley, en cuanto no se opongan o contrarien la naturaleza de las obras intermunicipales.
 
-## TITULO QUINTO. DEL PLANO REGULADOR
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
-### CAPITULO I. DEL FINANCIAMIENTO DE LAS OBRAS
+## TITULO QUINTO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+### CAPITULO UNICO
 
 ###### Artículo 49.
 
-Con el fin de que los Centros Poblados del Estado se desarrollen racional, estética e higiénicamente para satisfacer las necesidades de sus habitantes, la Comisión Estatal y las Comisiones Municipales de Desarrollo formularán el Plano Regulador de los Centros Poblados del Estado, tomando en cuenta los factores que influyen en su desarrollo.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 1992)
 
 ###### Artículo 50.
 
-Los Planos Reguladores contendrán necesariamente:
-
-I.- Las áreas urbanas de las poblaciones y sus límites precisos;
-
-II.-- Las investigaciones e informaciones siguientes:
-
-a).-- Levantamiento topográfico o áreofotogramétrico del área urbna (sic) y su zona de influencia;
-
-b).- Los datos climatológicos, orográficos, hidrológicos, de recursos naturales, económicos, ecológicos demográficos sociológios, (sic) históricos y culturales que puedan influir en la vida urbana y en el desarrollo de los centros poblados.
-
-III.-- Determinación de:
-
-a).-- La densidad demográfica y de construcción;
-
-b).-- Los servicios públicos existentes;
-
-c).-- Uso al que está destinada el área urbana y su zona de influencia.
-
-IV.-- Proyectos de planificación, zonificación y servicios públicos necesarios para satisfacer las probables necesidades por aumento de población.
-
-V.-- Estudio de las posibilidades económicos del centro poblado y de sus habitantes.
-
-> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
-
-VI.- Directrices y normas que deben regir el futuro de llo (sic) del cento (sic) poblado correspondiente.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 1992)
 
 ###### Artículo 51.
 
-Los Planos reguladores formulados por las comisiones Municipales de Desarrollo serán revisados y en su caso aprobados por la Comisión Estatal de Desarrollo de Centros Poblados y enviados al Ayuntamiento correspondiente para su aprobación definitiva.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 1992)
 
 ###### Artículo 52.
 
-Una vez aprobados los Planos Reguladores, tendrán el carácter de obligatorios y servirán de base para la realización de todas las obras, construcciones, edificaciones y desarrollo de los centros poblados, que serán llevados a efecto por los órganos de planeación en el Estado.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 1992)
 
 ###### Artículo 53.
 
-Sólo podrán hacerse modificaciones a los planos reguladores con la autorización de la Comisión Estatal de Desarrollo de Centros Poblados y el Ayuntamiento respectivo, a propuesta de la Comisión Municipal correspondiente.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 1992)
 
 ## TITULO SEXTO. FINANCIAMIENTO Y CONTRATOS
 
-### CAPITULO II. DE LOS CONTRATOS
+### CAPITULO I. DEL FINANCIAMIENTO DE LAS OBRAS
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Artículo 54.
 
-El Gobierno del Estado y los Ayuntamientos del Estado de Sinaloa, podrán gestionar la apertura de crédito destinados a la ejecución de las obras públicas de desarrollo ubano, (sic) tanto de Instituciones de Crédito, como de particulares.
+El Gobierno del Estado, los Ayuntamientos y las Comisiones Municipales de Desarrollo de Centros Poblados, podrán contratar la apertura de créditos destinados a la ejecución de las obras públicas de desarrollo urbano, tanto de Instituciones de Crédito como de particulares.
 
-Los contratos respectivos deberán ajustarse a lo que establece sobre esa materia la Ley Orgánica Municipal del Estado.
+Los contratos respectivos deberán ajustarse a lo que establece la Ley Orgánica Municipal del Estado de Sinaloa.
 
 ###### Artículo 55.
 
@@ -769,9 +943,7 @@ El Ejecutivo del Estado o los Ayuntamientos en los casos que estimen pertinentes
 
 La amortización de los créditos obtenidos para el financiamiento de las obras por cooperación, deberá cubrirse en todo caso, conforme a las tarifas que se hubiesen señalado al iniciarse las obras, sin que sean modificables posteriormente.
 
-### CAPITULO UNICO. DE LAS EXPROPIACIONES PARA EL DESARROLLO URBANO
-
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1971)</small>
+### CAPITULO II. DE LOS CONTRATOS
 
 ###### Artículo 63.
 
@@ -827,7 +999,7 @@ Cuando las obras sean realizadas por las Comisiones Municipales de Desarrollo, a
 
 ###### Artículo 72.
 
-La cantidad a que se refiere el Artículo anterior deberá ser entregada a la Tesorería Municipal correspondiente y de élla se cubrirá el costo de la Oficina Técnica de Planeación.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 1992)
 
 > <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
 
@@ -847,7 +1019,9 @@ III.- Cuando las proposiciones no contengan los datos a que se refiere el artíc
 
 ## TITULO SEPTIMO. DE LAS EXPROPIACIONES
 
-### CAPITULO I. DE LOS REQUISITOS DE URBANIZACION
+### CAPITULO UNICO. DE LAS EXPROPIACIONES PARA EL DESARROLLO URBANO
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1971)</small>
 
 ###### Artículo 75.
 
@@ -873,7 +1047,7 @@ Cuando un predio sea afectado parcialmente por una expropiación, pero al mismo 
 
 ## TITULO OCTAVO. DE LOS FRACCIONAMIENTOS
 
-### CAPITULO II. DE LAS SOLICITUDES
+### CAPITULO I. DE LOS REQUISITOS DE URBANIZACION
 
 ###### Artículo 80.
 
@@ -881,7 +1055,9 @@ Para los efectos de este título se entiende por fraccionamiento:
 
 I.- La división de terrenos en lotes cuando para ellos se formen una o más calles.
 
-II.- La división de terrenos en más de tres lotes para su enajenación cuando dichos terrenos se encuentren en áreas determinadas por el plano regulador como zonas urbanas o sub-urbanas.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+II.- La división de terrenos en más de tres lotes para su enajenación, cuando dichos terrenos se encuentran en áreas determinadas por el Plan Director Urbano como zonas urbanas o sub'urbanas (sic).
 
 III.- La división de manzanas en lotes, cuando éstas no estén previamente autorizadas para fraccionarse.
 
@@ -897,9 +1073,15 @@ III.- Industriales; y
 
 IV.- Sub-urbanos.
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+V.- De servicios progresivos.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 82.
 
-En cualquiera de sus cuatro tipos los fraccionamientos sólo pueden llevarse a cabo mediante autorización de los Ayuntamientos respectivos, otorgada con estricta sujeción a los términos de esta Ley.
+En cualquier de sus cinco tipos y cualquier que sea el régimen de propiedad a que se sujeten los fraccionamientos, sólo pueden llevarse a cabo mediante autorización de los Ayuntamientos respectivos, respetando las densidades de fraccionamientos mínima y máxima prevista en los planes de desarrollo urbano, otorgada con estricta sujeción a los términos de esta Ley.
 
 ###### Artículo 83.
 
@@ -957,6 +1139,82 @@ IV.- Pavimentos de empedrados; y
 
 V.- Parques y jardines.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 85-A.
+
+Para permitir a las familias de las clases económicas más desvalidas el acceso al suelo y la posibilidad de una vivienda digna y decorosa, se realizarán fraccionamientos con servicios progresivos.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 85-C.
+
+El fraccionamiento con servicios progresivos se acordará por los Ayuntamientos. El acuerdo respectivo se publicará en el Periódico Oficial El Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 85-B.
+
+Los fraccionamientos con servicios progresivos sólo podrán ser promovidos por los Municipios por si, o a través de los organismos descentralizados y Gobierno del Estado; y su construcción podrán hacerla en forma directa o mediante asociación con promotores privados, con el sector social o con organismos públicos federales. En todos los casos el Municipio tendrá la facultad de contratar, supervisar y vigilar su realización.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 85-D.
+
+Los requisitos que deberá contener el fraccionamiento con servicios progresivos serán los siguientes:
+
+I.- La opinión del Ayuntamiento respectivo;
+
+II.- La disponibilidad legal de los terrenos para desarrollar el fraccionamiento;
+
+III.- Constancia de deslinde judicial o en su defecto, constancia de apeo y deslinde administrativo;
+
+IV.- Proyecto general ejecutivo de obras de urbanización y vialidades, lotificación y distribución de las áreas de donación;
+
+V.- Programa de las etapas de realización de las obras de urbanización, en el cual se determinará el orden de prioridad para su ejecución;
+
+VI.- Estudio socioeconómico que contemple la factibilidad de la realización de las obras, determinando las inversiones a realizar y la participación individualizada de los adquirentes; y,
+
+VII.- Sistema de nomenclatura.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 85-E.
+
+Los Ayuntamientos, el Gobierno del Estado y los organismos descentralizados promoverán que en los fraccionamientos con servicios progresivos se impulse la autoconstrucción, proporcionando a los adquirentes asesoría técnica.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 85-F.
+
+La gestión y participación en las obras posteriores de urbanización se llevarán a cabo en forma concertada de participación entre beneficiarios y Ayuntamientos, Gobierno del Estado y organismos descentralizados, según sea el caso, una vez concluidas dichas obras, serán entregadas al Municipio para su administración.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 85-G.
+
+Los adquirentes se asociarán para constituir un Comité Pro Obras de Urbanización, el cual estará integrado por:
+
+a).- Un Presidente;
+
+b).- Un Secretario;
+
+c).- Un Tesorero; y
+
+d).- Dos Vocales.
+
+Uno de los vocales será una persona que designe el Ayuntamiento respectivo. Dicho Comité tendrá como objetivo recabar fondos a través de cuotas que servirán para la introducción de los servicios necesarios para el fraccionamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+###### Artículo 85-H.
+
+Los fraccionamientos con servicios progresivos deberán contar por lo menos en su inicio con un hidrante por cada cuatro manzanas y energía eléctrica y en un término máximo de tres años deberán contar con alcantarillado y tomas domiciliarias de agua potable.
+
+El costo de los proyectos de urbanización se cargará al valor de los lotes.
+
+Los Ayuntamientos respectivos vigilarán la ejecución de las obras e instalaciones.
+
 ###### Artículo 86.
 
 Los Ayuntamientos podrán autorizar fraccionamientos en terrenos alejados de la ciudad o de otros ya urbanizados.
@@ -967,13 +1225,13 @@ El fraccionador asume el compromiso de construir previamente a las obras de urba
 
 No se autorizarán fraccionamientos en lugares insalubres, con proximidad a los panteones, cárceles, o zonas de tolerancia.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 88.
 
-La anchura de las calles, tanto principales como secundarias, será determinada por los Ayuntamientos de acuerdo con las normas de planificación establecidas para la zona en que esté ubicado el fraccionamiento de que se trate.
+La anchura de las calles tanto primarias como secundarias serán determinadas por los Ayuntamientos en base a las normas establecidas en los planos de desarrollo urbano.
 
-En ningún caso la anchura de las calles será inferior a quince metros en los fraccionamientos residenciales o populares, ni de veinticinco en los sub-urbanos o industriales.
-
-Cuando por razones de planeación urbana, los Ayuntamientos impongan calles cuya anchura sea superior a cuarenta metros, la superficie excedente a esa anchura será descontada de las que el fraccionador, en los términos del artículo 110 donará al Municipio.
+En ningún caso la anchura de las calles colectoras será inferior a ocho metros tanto en los fraccionamientos residenciales o populares ni de 25 en los sub'urbanos o industriales.
 
 > <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
 
@@ -997,11 +1255,17 @@ En los fraccionamientos sub-urbanos, la superficie cubierta por construcciones, 
 
 Todas las obras de urbanización y construcciones en general que deban ser ejecutadas en los fraccionamientos, se sujetarán a las especificaciones que dicten los Ayuntamientos con la oportuna intervención que les corresponda cumplir a los órganos de planeación respectiva.
 
-### CAPITULO III. DE LOS PROCEDIMIENTOS
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+El Ayuntamiento respectivo exigirá a los solicitantes permiso, para fraccionar o para cualquiera obra que afecte el desarrollo urbano de un centro poblado, un dictamen expedido por la Comisión Municipal de Desarrollo de Centros Poblados sobre la factibilidad de la obra en relación con los planes de Desarrollo Urbano vigentes y declaratorias de reservas, usos y destinos si existieran.
+
+### CAPITULO II. DE LAS SOLICITUDES
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Artículo 94.
 
-Toda autorización de fraccionamientos deberá ser solicitada al Ayuntamiento respectivo por el propietario de los terrenos o por su representante legítimo con poder bastante para el caso. En tal virtud, a ninguna solicitud se le dará curso si no se exhiben con ella los títulos de propiedad, debidamente inscritos en Registro Público y las pruebas que acrediten la posesión.
+Toda autorización de fraccionamientos deberá ser solicitada al Ayuntamiento respectivo por el propietario de los terrenos o por su representante legítimo con poder bastante para el caso. En tal virtud a ninguna solicitud se le dará curso si no se exhiben con ella los títulos de propiedad debidamente inscritos en Registro Público de la Propiedad y del Comercio, las pruebas que acrediten la posesión y un certificado de libertad de gravámen expedido por dicho Registro Público.
 
 No se autorizará un fraccionamiento cuando el predio se encuentre en estado litigioso.
 
@@ -1037,6 +1301,10 @@ V.- Proyectos, presupuestos y especificaciones para las obras de urbanización; 
 
 VI.- Plano de conjunto de la zona del centro poblado en que esté ubicado el fraccionamiento.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+Dicha memoria descriptiva deberá de acompañarse de un dictamen de la Comisión Estatal de Desarrollo de Centros Poblados sobre la factibilidad del proyecto, en relación a lo previsto por los planes de Desarrollo Urbano respectivo y, en su caso, por las declaratorias de reservas, usos y destinos.
+
 ###### Artículo 97.
 
 Por lo que concierne al agua potable, se precisarán las fuentes de aprovisionamiento; en cuanto al drenaje de aguas negras, los sitios de desagiie y por lo que toca a las aguas pluviales, su sistema de encauzamiento; en cuanto a la electrificación y vías telefónicas, los medios de recepción, conducción y transformación de la energía.
@@ -1049,7 +1317,7 @@ Cuando el fraccionador se proponga desarrollar las obras por etapas, formulará 
 
 El fraccionador entregará los tantos necesarios de la solicitud y documentos complementarios para los Organismos de planeación y autoridades respectivas.
 
-### CAPÍTULO IV. OBLIGACIONES DE LOS FRACCIONADORES
+### CAPITULO III. DE LOS PROCEDIMIENTOS
 
 ###### Artículo 100.
 
@@ -1111,7 +1379,7 @@ El Ayuntamiento enviará a la Tesorería Municipal, a la Oficina de Catastro dep
 
 > <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
 
-### CAPITULO V. DE LA EJECUCION DE LAS OBRAS
+### CAPÍTULO IV. OBLIGACIONES DE LOS FRACCIONADORES
 
 ###### Artículo 109.
 
@@ -1125,7 +1393,13 @@ I.- El 15 por ciento de la superficie neta en los fraccionamientos residenciales
 
 II.- El 10 por ciento de la superficie neta en los fraccionamientos industriales o suburbanos.
 
-El cálculo de la superficie neta se harán de la siguiente manera: a la superficie total del predio se le descontarán las superficies ocupadas por vías públicas, cuando el proyecto de urbanización establezca que éstos son menores de cuarenta metros de anchura.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+El cálculo de la superficie neta se hará de la siguiente manera: A la superficie total del predio se le descontarán las superficies ocupadas por vías públicas.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+La obligación establecida en este artículo a cargo del fraccionador, podrá ser condonada por el Ayuntamiento, tratándose de fraccionamientos urbanos sujetos totalmente al régimen de propiedad en condominio, siempre y cuando dichas áreas, en la misma proporción, se destinen para los usos públicos de los condominios que el mismo Ayuntamiento determine y que deberán ser aquellos a los que conforme a esta Ley y a las normas de desarrollo urbano y planificación urbana deben destinarse en caso de donación hecha al Ayuntamiento, y en caso que el fraccionamiento deje de ser condominio dichas áreas pasarán a propiedad del Ayuntamiento con todas las obras que en ella se hayan realizado, sin necesidad de indemnización alguna.
 
 ###### Artículo 111.
 
@@ -1165,7 +1439,7 @@ La situación legal prevista en este artículo, subsistirá hasta en tanto el Ay
 
 El fraccionador otorgará por cualquiera de los medios estatuídos en la Ley de Hacienda Municipal, las garantías que se establecen en todas las disposiciones que anteceden.
 
-### CAPITULO VI. DE LAS OBLIGACIONES Y ATRIBUCIONES DE LOS USUARIOS
+### CAPITULO V. DE LA EJECUCION DE LAS OBRAS
 
 ###### Artículo 117.
 
@@ -1187,7 +1461,7 @@ Cuando el fraccionador incurra en violaciones graves a los proyectos o a las esp
 
 Cuando las obras de urbanización hayan de ejecutarse por etapas, se procurará que se inicien por la zona urbanizada de la ciudad. De no ser posible, el fraccionador iniciará los trabajos por la construcción del camino de liga de que se habla en el artículo 87.
 
-### CAPITULO VII. DE LAS OBLIGACIONES DEL MUNICIPIO
+### CAPITULO VI. DE LAS OBLIGACIONES Y ATRIBUCIONES DE LOS USUARIOS
 
 ###### Artículo 122.
 
@@ -1205,23 +1479,25 @@ Los usuarios tendrán en todo tiempo el derecho de denunciar ante el Ayuntamient
 
 Los usuarios tendrán obligación de contribuir proporcionalmente al sostenimiento de los servicios públicos dentro de los plazos y condiciones que fije esta Ley. Asimismo procurarán la conservación de los árboles plantados en la vía pública y prados en los tramos que correspondan a los frentes de sus propiedades y los jardines de sus banquetas.
 
-### CAPITULO VIII. DE LAS PROHIBICIONES Y SANCIONES
+### CAPITULO VII. DE LAS OBLIGACIONES DEL MUNICIPIO
 
 ###### Artículo 126.
 
 El Ayuntamiento supervisará la administración de los servicios para cerciorarse de que sean impartidos con regularidad.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Artículo 127.
 
-El Ayuntamiento tomará las medidas que sean necesarias para que desde luego se aprovechen en los términos estipulados los terrenos donados al Municipio. Se procederá al efecto a la construcción de las escuelas, parques deportivos, jardines, mercados, dispensarios, guarderías y demás edificios que hubieren sido previstos a cuya conservación y mejoramiento estarán obligados todos los usuarios. Estos terrenos son imprescriptibles e inalienables, salvo los casos de excepción en los que expresamente el H. Congreso del Estado autorice su enajenación o cambio de destino, a solicitud del Ayuntamiento respectivo y en beneficio del Municipio que representa previa aprobación de las Comisiones tanto Municipal como Estatal de Desarrollo de Centros Poblados. Los funcionarios o autoridades, que sin esa autorización enajenen, dispongan o permitan esto, para fines diversos de aquellos para los que los terrenos fueron originalmente destinados serán responsables personalmente del pago correspondiente al Municipio y a los usuarios, independientemente de la responsabilidad penal en la que hubieren incurrido. Los actos mencionados realizados sin la autorización ya indicada, serán causa de separación del empleo o cargo, a juicio del H. Ayuntamiento respectivo o del H. Congreso del Estado en su caso.
+El Ayuntamiento tomará las medidas que sean necesarias para que desde luego se aprovechen en los términos estipulados los terrenos donados al Municipio. Se procederá al efecto a la construcción del equipamiento urbano (escuelas, parques deportivos, guarderías y demás) a cuya conservación y mejoramiento estarán obligados todos los usuarios. Estos terrenos son imprescriptibles e inalienables, salvo los casos de excepción en los que expresamente el H. Congreso del Estado autorice su enajenación o cambio de destino a solicitud del Ayuntamiento respectivo y en beneficio del Municipio que representa previa aprobación de las Comisiones tanto Municipal como Estatal de Desarrollo de Centros Poblados. Los funcionarios o autoridades, que sin esa autorización enajenen, dispongan o permitan ésto, para fines diversos de aquellos para los que los terrenos fueron originariamente destinados serán responsables personalmente del pago correspondiente al Municipio y a los usuarios, independientemente de la responsabilidad penal en la que hubieren incurrido. Los actos mencionados realizados sin la autorización ya incluída, serán causa de separación del empleo o cargo, a juicio del H. Ayuntamiento respectivo o del H. Congreso del Estado en su caso.
+
+Los actos mencionados que se realicen sin la autorización ya indicada estarán afectados de nulidad absoluta y los funcionarios que hayan intervenido en su realización serán separados del empleo o cargo a juicio del Ayuntamiento respectivo o del Congreso del Estado en su caso.
 
 ###### Artículo 128.
 
 El Ayuntamiento está obligado a recibir las obras y servicios concluídos cuando el fraccionador acredite haber cumplido con los requisitos establecidos en la presente Ley y en la autorización respectiva.
 
-### CAPITULO IX. REGLAS GENERALES
+### CAPITULO VIII. DE LAS PROHIBICIONES Y SANCIONES
 
 ###### Artículo 129.
 
@@ -1249,17 +1525,19 @@ Cuando en la ejecución de las obras; el fraccionador se aparte de las especific
 
 Cuando habiendo fenecido los plazos establecidos, el fraccionador no haya concluído las obras de urbanización, el Ayuntamiento podrá tomarlas a su cargo, disponiendo, para ello de la garantía constituida, perdiendo el fraccionador todos sus derechos en beneficio del Ayuntamiento.
 
-> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Artículo 135.
 
-Se impondrá prisión de seis meses a seis años al que se sin recabar el permiso Municipal y sin sujetarse a la prevención de esta Ley, proceda a fraccionar terrenos para vender lotes destinados a construcción. El Ayuntamiento tomará desde luego las siguientes providencias:
+Cuando una persona sin sujetarse a lo señalado en esta Ley, proceda a fraccionar terrenos para vender lotes destinados a la construcción, con independencia de las sanciones que prevee el Código Penal, el H. Ayuntamiento tomará desde luego las siguientes prevenciones:
 
 I.- Ordenará de inmediato la suspensión de las obras que se estuvieren ejecutando;
 
 II.- Advertirá al público, por los medios más eficaces de la ilicitud de las operaciones;
 
-III.- Impondrá al infractor una multa $ 50,000.00 cincuenta mil pesos por cada venta realizada;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+III.- Impondrá al infractor una multa de 30 treinta salarios mínimos por cada venta realizada;
 
 IV.- Obligará al infractor a destruir las obras que se consideren no deben subsistir, sin perjuicio de que el propio Ayuntamiento haga esa destrucción en caso de rebeldía, a costa del infractor; y
 
@@ -1299,7 +1577,7 @@ No podrá llevarse a cabo ninguna publicidad comercial en favor de los fracciona
 
 Cualquier otra infracción no prevista a las disposiciones de este Capítulo, será sancionada administrativamente por el Ayuntamiento con multa de $5,000.00 cinco mil pesos, según la gravedad de la falta.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO IX. REGLAS GENERALES
 
 ###### Artículo 141.
 
@@ -1329,9 +1607,13 @@ En los términos de la Ley Orgánica Municipal, el Ayuntamiento formulará los r
 
 ## TITULO NOVENO. DISPOSICIONES GENERALES
 
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 147.
 
-Las personas obligadas a pagar derechos de cooperación o impuestos de plusvalía podrán gozar de un descuento de un 5 por ciento del importe total del adeudo, cuando el pago se haga antes de que venza el plazo dentro del cual deba hacerse el primer pago parcial. En ningún caso se podrá hacer descuentos superiores al 5 por ciento mencionado. Las autoridades que infrinjan este artículo serán responsables del pago del excedente descontado indebidamente.
+Las personas obligadas a pagar derechos de cooperación o impuestos de plusvalía podrán gozar de descuentos de hasta el diez por ciento del impuesto total del adeudo cuando el pago se haga antes de que venza el plazo dentro del cual deba hacerse el primer pago parcial. En ningún caso se podrán hacer descuentos superiores al diez por ciento mencionado. Las autoridades que infrinjan este artículo serán responsables del pago de excedente descontado indebidamente.
 
 ###### Artículo 148.
 
@@ -1353,9 +1635,21 @@ Los Notarios, Corredores y Funcionarios autorizados para dar fé pública y los 
 
 Los empleados públicos que formulen certificados de no adeudo de estos impuestos o derechos, serán solidariamente responsables de su pago.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 153.
 
-Respecto de todo acto, acuerdo o procedimiento que se derive de la aplicación de la presente Ley siempre y cuando no se trate de los realizados por el Congreso y no tenga recurso específico previsto en la misma, podrá controvertirse su validez ante la Comisión Estatal de Desarrollo de Centros Poblados dentro de un término de cinco días hábiles siguientes a la notificación del acto reclamado. Dentro de los ocho días siguientes a la presentación del escrito de inconformidad se desahogarán las pruebas y alegatos si los hubiere y dentro de los 3 días hábiles siguientes, la Comisión dictará su resolución, contra la cual no cobra ulterior recurso.
+Respecto de todo acto, acuerdo o procedimiento que se derive de la aplicación de la presente Ley siempre y cuando no se trate de los realizados por el Congreso del Estado y no tenga recurso específico previsto en la misma, podrá controvertirse su validez ante la Comisión Estatal de Desarrollo de Centros Poblados, dentro de un término de cinco días hábiles siguientes a la notificación del acto reclamado.
+
+Dentro de los cinco días siguientes a la presentación del escrito de inconformidad la Comisión Estatal correrá traslado a la autoridad señalada como responsable para que en un término de cinco días a partir de la notificación respectiva, rinda un informe justificado a la propia Comisión Estatal del o los actos que se recurren, acompañe en el mismo informe, las pruebas que considere pertinentes y alegue lo que a su derecho convenga en contra del recurso impuesto.
+
+Una vez rendido el informe justificado por las autoridades responsables o transcurrido el tiempo señalado para su presentación, la Comisión Estatal abrirá un período de 15 días para el desahogo de las pruebas y alegatos presentados con el escrito inicial por el recurrente y con el informe justificado por la autoridad responsable. Dicho término podrá prorrogarse el tiempo estrictamente necesario a juicio de la Comisión Estatal de Desarrollo de Centros Poblados.
+
+Dentro de los 10 diez días siguientes al desahogo de las pruebas y alegatos presentados, la Comisión Estatal dictará resolución contra la cual no cabrá ulterior recurso.
+
+La resolución se notificará personalmente al causante en el domicilio y a la persona que haya señalado para oír y recibir notificaciones en la ciudad de Culiacán Rosales, Sinaloa, o por estrados en su defecto, publicándose dicha resolución por 3 días consecutivos en lugar visible al público en las Oficinas de la Comisión Estatal de Desarrollo de Centros Poblados y personalmente o por correo certificado a juicio de la propia Comisión Estatal, a las Autoridades responsables. Y si el causante pretende la suspensión del procedimiento de ejecución, deberá otorgar depósito de la cantidad que se le cobre en Banco de México o ante la Comisión correspondiente.
+
+El depósito no se exigirá cuando se trate de sumas que pierdan la posibilidad del causante a juicio de la propia Comisión y en este caso podrá asegurarse el interés fiscal en cualquiera de las formas aceptables por la Ley.
 
 ###### Artículo 154.
 
@@ -1364,6 +1658,14 @@ Podrá decretarse cualquier otro sistema para cubrir el costo de las obras cuand
 ###### Artículo 155.
 
 Estarán exentos del pago de los impuestos y derechos previstos por esta Ley, en la medida en que demuestren estar incapacitados para ello, todos aquéllos cuyos ingresos familiares sean notoriamente insuficientes para cubrir el monto de los gravámenes además del sostenimiento de la familia.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+Lo anterior no es obstáculo para que una vez que las personas de que habla el párrafo anterior, se encuentre en posibiliad (sic) de cubrir dichos gravámenes, a juicio del propio Ayuntamiento o de la Comisión Municipal de Desarrollo de Centros Poblados, previo estudio socioeconómico que se practique, se proceda a exigir el monto de lo adeudado, deviniendo entonces la obligación de pagarlo el particular debiendo procederse en consecuencia.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
+En caso de que los propietarios, poseedores, o los que por cualquier título tengan el uso o goce de predios beneficiados con las obras a que se refiere esta ley se encuentren en el supuesto previsto en el primer párrafo de este artículo y pretendan transmitir el dominio o los derechos que en relación con dichos predios ejerzan deberán garantizar previamente ante la Comisión Municipal de Desarrollo de Centros Poblados correspondientes al pago de la obra ejecutada, igual obligación existirá para los herederos o legatarios que a su favor se pretenda transmitir el dominio de dichos predios.
 
 ###### Artículo 156.
 
@@ -1486,3 +1788,9 @@ El presente Decreto empezará a surtir sus efectos el mismo día de su publicaci
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan los enunciados contenidos en la anterior disposición.
+
+P.O. 28 DE SEPTIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
