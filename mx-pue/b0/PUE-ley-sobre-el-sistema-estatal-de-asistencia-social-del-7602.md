@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "1986-08-05"
+last_updated: "1994-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
@@ -333,13 +333,15 @@ II.- Aprobar los programas de trabajo, presupuestos, informes de actividades y e
 
 III.- Aprobar los manuales de procedimientos y de servicios al público y los convenios que se celebren con dependencias y entidades públicas o privadas;
 
-IV.- Nombrar y remover libremente al Director General del Organismo y al Contralor Interno;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
+
+IV.- Nombrar y remover libremente al Director General del Organismo;
 
 V.- Designar y remover a propuesta del Director General a los demás servidores públicos que laboren en el Organismo;
 
 VI.- Designar a los asesores que sean necesarios, para el mejor desarrollo de las actividades del Organismo;
 
-VII.- Solicitar al Contralor Interno los análisis financieros y exigirle la vigilancia del correcto ejercicio del presupuesto;
+VII.- (DEROGADA, P.O. 29 DE JULIO DE 1994)
 
 VIII.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades, así como los Proyectos de inversión;
 
@@ -375,23 +377,17 @@ VI.- Celebrar, con aprobación de la Presidencia del Patronato los convenios, co
 
 VII.- Actuar como apoderado del Organismo con facultades generales para actos de administración y para pleitos y cobranzas, pudiendo ejercer actos de dominio con autorización expresa de la Presidencia del Patronato.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 29.
 
-El Contralor Interno tendrá las siguientes atribuciones:
+Para la vigilancia, control y evaluación del Organismo, la Secretaría de la Contraloría General del Estado designará un Comisario Público, que tendrá las atribuciones que a la misma Secretaría le otorgan, la Ley Orgánica de la Administración Pública del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado y las demás disposiciones legales aplicables.
 
-I.- Vigilar que la administración de los recursos y el funcionamiento del Organismo, se hagan de acuerdo con lo que dispongan esta Ley y los programas y presupuestos aprobados;
-
-II.- Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
-
-III.- Recomendar al Presidente del Patronato y al Director General del Organismo, las medidas preventivas y correctivas que sean convenientes para el mejor funcionamiento del propio Organismo;
-
-IV.- Asistir a las sesiones del Patronato con voz pero sin voto; y
-
-V.- Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
+El Comisario Público, que tendrá un Suplente, asistirá a las Sesiones del Organismo, con voz pero sin voto.
 
 ###### ARTICULO 30.
 
-El Contralor Interno del Organismo será designado por la presidencia del Patronato y será ciudadano mexicano por nacimiento, mayor de 30 años.
+(DEROGADO, P.O. 29 DE JULIO DE 1994)
 
 ###### ARTICULO 31.
 
@@ -516,3 +512,15 @@ Los bienes muebles, inmuebles, acciones y derechos que integran el patrimonio de
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los Veinticuatro días del mes de Julio de Mil Novecientos Ochenta y Seis.- Diputada Presidente.- Lic. Lidia Zarrazaga Molina.- Rúbrica.- Diputado Secretario.- Lic. Jesús Antonio Carlos Hernández.- Rúbrica.- Diputado Secretario.- Dr. Angel Ricaño Bustillos.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo a los veinticinco días del mes de julio de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Amado Camarillo Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
