@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2003-09-29"
+last_updated: "2004-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE Y 5 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. ES DE OBSERVARSE QUE LA LVIII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE AGUASCALIENTES EXPIDIO EL DECRETO No. 106, QUE CONTIENE DIVERSAS REFORMAS A LA PRESENTE LEY QUE MODIFICAN EN SU TOTALIDAD DICHO ORDENAMIENTO, POR LO QUE DE CONFORMIDAD CON EL ARTICULO SEGUNDO DE DICHO DECRETO Y PARA SU MEJOR ENTENDIMIENTO Y APLICACION LEGAL, SE PUBLICA EL TEXTO INTEGRO Y ACTUALIZADO DE LA MISMA, PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2003.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -653,13 +653,17 @@ VI.- Cuando así lo ordene la autoridad judicial.
 
 La validez de la licencia se suspenderá de uno a seis meses, en los siguientes casos:
 
-I.- Cuando el titular de la misma sea sancionado por cometer una infracción a la presente Ley, conduciendo en estado de ebriedad.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+I. Cuando el titular de la misma sea sancionado por cometer una infracción a la presente Ley, conduciendo en estado de ebriedad o bajo los efectos de algún psicotrópico o estupefaciente;
 
 II.- Si acumula tres infracciones graves previstas en la presente Ley en el transcurso de un año.
 
 III.- Cuando el titular de la misma reincida en el exceso de los límites de velocidad establecidos.
 
-IV.- Cuando dolosamente el titular de la misma, haya causado algún daño.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+IV.- Cuando dolosamente el titular de la misma, cause algún daño, utilizando como medio comisivo, específico vehículo de motor;
 
 V.- Por reincidencia de una persona que manejando altere el orden público; y
 
@@ -691,11 +695,11 @@ I.- Suspensión.- El titular deberá reintegrar la licencia o permiso en un tér
 
 II.- Cancelación.- El titular deberá reintegrar la licencia o permiso a la Dirección en un término de 5 días contados a partir de la notificación. La Dirección registrará la cancelación en el archivo que al efecto lleve, y no expedirá nueva licencia, hasta en tanto se subsane la infracción o se cumpla el término o condición establecido.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 44.
 
-En caso de que una persona se identifique y trate de justificar el manejo de un vehículo con una licencia que ha sido suspendida o cancelada, se detendrá el vehículo, impidiendo su circulación hasta que éste sea operado por persona autorizada para ello, y se recogerá la licencia.
+En caso de que una persona se identifique y trate de justificar el manejo de un vehículo con una licencia que ha sido suspendida o cancelada, ésta se retendrá por la autoridad, asegurando además el vehículo de motor correspondiente, impidiendo su circulación hasta que éste sea operado por persona autorizada para ello.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1809,7 +1813,9 @@ I.- Permanecer en el lugar del accidente para prestar o facilitar la asistencia 
 
 II.- Mover o desplazar a los lesionados, cuando no se disponga de la atención médica inmediata, sólo si esta es la única forma de proporcionarles auxilio oportuno o facilitarles dicha atención, para evitar que se agrave su estado de salud.
 
-III.- Mover a los cuerpos, en caso de personas fallecidas hasta que la autoridad competente lo disponga.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+III.- No mover a los cuerpos, en caso de personas fallecidas, hasta que la autoridad competente lo disponga;
 
 IV.- Tomar las medidas adecuadas mediante señalamiento preventivo, para evitar que ocurra otro accidente.
 
@@ -1821,7 +1827,9 @@ La responsabilidad civil de los implicados, será independientemente de la respo
 
 Cuando sólo existan daños materiales entre los involucrados o entre estos y algún tercero afectado en sus bienes, y los conductores cuenten con todos sus documentos en regla, siempre y cuando las partes afectadas celebren convenio, no se les incautará los vehículos siniestrados ni se les levantarán folios de infracción.
 
-Se exceptúa de lo anterior cuando haya lesionados y personas fallecidas, y que los involucrados no se encuentren bajo los efectos de alguna droga o con aliento alcohólico, así como que no existan daños a propiedad federal, estatal o municipal. O bien que el conductor no sea el propietario o representante legal de aquél.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+No se aplicará lo previsto en el párrafo anterior, cuando haya lesionados o personas fallecidas; que los involucrados se encuentren bajo los efectos de algún estupefaciente, psicotrópico, sustancia tóxica o con aliento alcohólico; o que se causen daños a propiedad Federal, Estatal o Municipal.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1833,11 +1841,13 @@ I.- Deberán detener inmediatamente los vehículos en el lugar del suceso o tan 
 
 II.- Cuando resulten daños a bienes de la Nación, Estado, Municipio o de terceros, los implicados darán aviso a la autoridad competente que tome conocimiento, para que ésta pueda comunicar a su vez los hechos a las dependencias o particulares cuyos bienes hayan sido afectados, para los efectos procedentes.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 128.
 
-Los conductores de vehículos implicados en un accidente, tendrán la obligación de retirarlos de la vía pública, cuando la autoridad competente lo disponga, para evitar otros accidentes. El responsable del accidente deberá retirar las partes o cualquier otro material que se hubiese esparcido en dicha vía, si implica riesgo para los demás conductores o peatones.
+Los conductores de vehículos implicados en un accidente, tendrán la obligación de retirarlos de la vía pública, cuando la autoridad competente lo disponga, para evitar otros accidentes. El responsable del accidente deberá retirar las partes o cualquier otro material que se hubiese esparcido en dicha vía, si ello implica riesgo para los demás conductores o peatones.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 En todos los casos, en que se requiera retirar de la circulación algún vehículo, el agente deberá conceder a su propietario o conductor, la libertad de decidir sobre el medio utilizable para remitirlo al depósito vehicular correspondiente, excepto los casos que ameriten consignación de los hechos al Ministerio Público, donde el agente deberá solicitar el servicio de grúa que le corresponda.
 
@@ -1939,9 +1949,13 @@ b) Responsables de accidentes por la comisión de una infracción.
 
 c) Padrón de operadores del servicio público.
 
-d) Responsables de accidentes cometidos bajo el influjo de bebidas alcohólicas o de drogas.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-Los registros de licencias canceladas o suspendidas, estarán a disposición de la autoridad que lo solicite y se boletinarán a las autoridades correspondientes en todos los Estados de la República, con el propósito de que no se expida documento similar.
+d) Responsables de accidentes por conducir bajo los efectos de bebidas embriagantes, estupefacientes, psicotrópicos o sustancias tóxicas.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+Los registros de licencias canceladas o suspendidas, estarán a disposición de la autoridad que lo solicite y se informará de ello a las autoridades correspondientes en todos los estados de la República, con el propósito de que no se expida documento similar.
 
 Para los efectos de registros señalados en la fracción cuarta, los agentes deberán de informar de inmediato a sus superiores de las infracciones que hayan levantado, entregando la documentación correspondiente. Este registro contendrá como mínimo, los datos esenciales mencionados en el acta de infracción correspondiente.
 
@@ -1993,7 +2007,9 @@ V.- Levantar, una vez mostrados los documentos, el acta de infracción y entrega
 
 VI.- Entregar el acta de infracción a la autoridad competente para que ésta, luego de oír al interesado, si éste se presenta ante ella dentro de los cinco días hábiles siguientes o sin haberle oído por haber transcurrido el plazo, resuelva imponer la sanción. Su resolución deberá fundarse y motivarse;
 
-VII.- Presentar ante el Ministerio Público para la realización del examen de alcoholemia a la persona que sea sorprendida conduciendo con aliento alcohólico, así como elaborar la boleta de infracción correspondiente;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+VII.- Presentar a la persona que sea sorprendida conduciendo con aliento alcohólico a las instituciones de apoyo establecidas para el efecto, para la realización de los exámenes a que haya lugar, para elaborar con los resultados que se obtengan, las boletas de infracción correspondientes;
 
 VIII.- Retener algún documento al levantar las infracciones, tratándose de vehículos no registrados en el Estado, con los que se cometan infracciones a la presente Ley, hasta en tanto no se cumplan las sanciones correspondientes; y
 
@@ -2007,23 +2023,37 @@ Los agentes deberán impedir la circulación de un vehículo y ponerlo a disposi
 
 I.- Cuando el conductor que cometa una infracción a la Ley, muestre síntomas claros y ostensibles de encontrarse en estado de ebriedad o bajo influjo de estupefacientes, psicotrópicos u otras substancias tóxicas, y/o cuando al circular vaya ingiriendo bebidas alcohólicas.
 
-Para efecto de la presente Ley se considera que una persona se encuentra en estado de ebriedad cuando el examen que practique la dependencia correspondiente así lo revele, de acuerdo a las normas oficiales en la materia. Se considera que una persona se encuentra bajo el influyo (sic) de estupefacientes, psicotrópicos y otras sustancias tóxicas cuando así se determine legalmente.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+Para efecto de la presente ley se considera que una persona se encuentra en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos y otras sustancias tóxicas, cuando el examen que practique la dependencia autorizada para el efecto así lo revele, de acuerdo a las normas oficiales en la materia.
 
 II.- Cuando el vehículo no cumpla con los requisitos de seguridad y de frenado previstos por esta Ley.
 
 III.- Cuando los vehículos carezcan de las placas de circulación o éstas no estén en vigor.
 
-IV.- En caso de accidente en que resulten lesiones, homicidio o daños en propiedad particular, o pública, cuando los involucrados no se pongan de acuerdo una vez realizados los trámites relativos a la infracción, la Dirección o la dependencia municipal correspondiente podrán entregar el vehículo a la persona legitimada, siempre que se garantice cubrir los derechos de traslado si los hubiere, el pago de la multa y garantice los daños causados a terceros. Invariablemente remitirá el correspondiente parte de accidente a la autoridad ministerial competente.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+IV.- En caso de accidente en que se causen lesiones, homicidio o daños en propiedad pública, en los que invariablemente remitirá el parte de accidente a la autoridad ministerial competente, poniendo a disposición de tal autoridad los vehículos participantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2004)</small>
+
+En los supuestos establecidos en el presente artículo, los agentes de vialidad también se encontrarán sujetos a disposiciones que para el efecto se establecen en la Legislación Penal del Estado de Aguascalientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 146.
 
-Tratándose de menores que hayan cometido alguna infracción en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas, los agentes deberán impedir la circulación del vehículo poniéndolo a disposición de la autoridad correspondiente, debiéndose observar las siguientes prevenciones:
+Tratándose de menores que hayan cometido alguna infracción en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas, los agentes deberán impedir la circulación del vehículo, reteniendo al menor para llevar a cabo las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 I.- Notificar de inmediato a los padres del menor, al tutor, o a quien tenga responsabilidad legal;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+
 II.- Cancelar definitivamente la licencia haciendo la notificación al interesado;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 III.- Imponer las sanciones que procedan, sin perjuicio de la responsabilidad civil que resulte.
 
@@ -2255,7 +2285,9 @@ b) De todo tipo de vehículo:
 
 2. No tomar medidas preventivas para evitar accidentes.
 
-3. No retirar su vehículo del lugar del accidente o despejar los residuos del lugar del accidente, cuando esto sea posible y que obstruya gravemente el tráfico, respetando además, las normas aplicables en los casos de la comisión de un delito, para los efectos de peritajes y la debida fe ministerial de los hechos.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+3. No retirar su vehículo del lugar del accidente o despejar los residuos del lugar del accidente, cuando esto obstruya gravemente el tráfico y además sea posible, respetando asimismo la normatividad aplicable en los casos de la realización de hechos punibles que puedan constituir delito, para el efecto de elaboración adecuada de peritajes y debida inspección ministerial del lugar, personas y objetos participantes.
 
 En los casos en que los residuos sean peligrosos, deberá solicitar el auxilio de las autoridades encargadas del servicio público de limpieza, sin perjuicio de las sanciones aplicables de acuerdo con la Ley de Equilibrio Ecológico y Protección al Ambiente, así como de los Bandos de Policía y Buen Gobierno, además de aquellas que por la naturaleza de las sustancias sean aplicables.
 
@@ -2501,7 +2533,13 @@ IV.- MUY GRAVE.
 
 a) Todo tipo de vehículo:
 
-1. Cometer una infracción a la presente Ley conduciendo cualquier tipo de vehículo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+1. Conducir cualquier tipo de vehículo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2004)</small>
+
+2. Cometer una infracción a la presente ley conduciendo cualquier tipo de vehículo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas.
 
 ###### ARTICULO 158.
 
@@ -2686,3 +2724,7 @@ La derogación de la fracción I del Artículo 21, entrará en vigor a partir de
 ###### ARTICULO CUARTO.
 
 El Ejecutivo del Estado expedirá el Reglamento para las Escuelas de Manejo a que se refiere esta Ley, en un plazo máximo de noventa días contados a partir de la vigencia de este Decreto.
+
+P.O. 12 DE FEBRERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
