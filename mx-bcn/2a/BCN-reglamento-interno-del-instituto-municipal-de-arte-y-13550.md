@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-municipal-de-arte-y-13550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-28"
-last_updated: "1998-12-28"
+last_updated: "2001-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE ARTE Y CULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 1998.
 
@@ -237,9 +237,11 @@ Cuando alguno de los consejeros ciudadanos llegare a faltar injustificadamente, 
 
 La Junta de Gobierno del Instituto Municipal de Arte y Cultura celebrará sesiones ordinarias una vez cada tres meses.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2001)</small>
+
 ###### Artículo 21.
 
-La convocatoria para las sesiones ordinarias de la Junta de Gobierno deberá ser hecha por el Presidente de la misma, a través del Director del Instituto Municipal de Arte y Cultura, por lo menos con 10 días de anticipación.
+La Convocatoria para las sesiones ordinarias de la Junta de Gobierno deberá ser hecha por el presidente de la misma, a través del Director del I.M.A.C., por lo menos con 10 días de anticipación. Para que surta efectos la convocatoria, tanto en sesiones ordinarias como extraordinarias, deberá llevar anexada la documentación o información relativa a los asuntos que se señalen en el orden del día. El tiempo máximo para constituir quórum es de treinta minutos, contados a partir de la hora prevista en la convocatoria; se considera que hay quórum con la asistencia de la mayoría simple de los integrantes. En caso de que no se constituya quórum se levantará la constancia respectiva y procederá en ese momento una segunda convocatoria para celebrar sesión al día siguiente, teniendo validez la misma y los acuerdos que en ella se tomen con la asistencia de por lo menos una tercera parte de los miembros de la Junta de Gobierno. En el caso de que por circunstancias ajenas de alguno o algunos de los integrantes de la junta requieran ausentarse y con ello no existiera quórum, quedará por suspendida la Junta, levantándose la constancia respectiva y procederá en ese momento una segunda convocatoria para celebrar sesión al día siguiente, teniendo validez la misma y los acuerdos que en ella se tomen con la asistencia de por lo menos una tercera parte de los miembros de la Junta de Gobierno. Al final de la Junta se levantará la minuta respectiva con relación a los puntos tratados, la cual será firmada por los integrantes de la misma por común acuerdo sobre lo asentado, se proporcionará copia de la minuta a los integrantes a más tardar a los cinco días naturales, contados a partir de la fecha de la celebración de la Junta.
 
 ###### Artículo 22.
 
@@ -796,3 +798,11 @@ Para todos los efectos legales a que haya lugar se extiende la presente CERTIFIC
 EL SECRETARIO DEL H. XV AYUNTAMIENTO DE TIJUANA.
 
 LIC. IGNACIO ACUÑA LOERA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE JULIO DE 2001.
+
+PRIMERO: La presente reforma entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y deberá publicarse en un periódico mayor (sic) circulación en la localidad para conocimiento de la población.
+
+SEGUNDO: Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
