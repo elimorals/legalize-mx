@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1962-09-20"
+last_updated: "1962-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 1962.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -363,15 +363,13 @@ V. Aprobar los convenios que el Gobernador del Estado celebre con las Entidades 
 
 VI. Ratificar los arreglos concertados entre las Municipalidades con motivo de la fijación de sus límites.
 
-VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, siendo necesario para el efecto:
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1959)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1959)</small>
+VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, siendo necesario para el efecto:
 
 A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
 
 (B). Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1959)</small>
 
 C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
 
@@ -444,52 +442,6 @@ XXXIII. Expedir todas las leyes que sean necesarias y propias para hacer efectiv
 XXXIII Bis. Resolver en definitiva sobre la validez o nulidad de las elecciones de Ayuntamientos cuando haya dudas acerca de ellas, previo informe del Ejecutivo del Estado.
 
 XXXIV. Todas las demás facultades que las leyes le otorguen.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1950)</small>
-
-Art. 44 (sic). Los funcionarios y empleados del Estado y Municipios, antes de tomar posesión de sus cargos, otorgarán la protesta de Ley, sin el cual requisito todos sus actos serán ilegales. Las condiciones para protestar, serán las siguientes:
-
-I. La protesta se rinde personal y verbalmente con interpelación o sin ella.
-
-(A).- Para rendir la protesta por interpelación, la autoridad que ha de recibirla, preguntará al que ha de entregarla: "Protestáis guardar y hacer guardar la Constitución Política de la República, la del Estado, y las leyes que de ellas emanen, y cumplir leal y patrióticamente el cargo de ....... que el pueblo (o la autoridad que la confiera) os ha conferido, mirando en todo por el honor y prosperidad de la República y del Estado?" El interpelado contestará: "Sí protesto." Acto continuo, la persona que recibe la propuesta dirá: "Si no lo hiciereis así, la República y el Estado os lo demanden."
-
-(B).- Para rendir la protesta sin interpelación, el que va a protestar dirá: "Protesto cumplir y hacer cumplir la Constitución Política de la República, la del Estado y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de ...... que el pueblo me ha conferido mirando en todo por el honor y prosperidad de la República y del Estado". "Si así no lo hiciere, que la República y el Estado me lo demanden".
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1950)</small>
-
-II. La protesta se pide y se dá por interpelación entre los siguientes funcionarios y empleados:
-
-(1).- A los Diputados de la Legislatura que va a instalarse, les pedirá en grupo la protesta el Presidente de la Diputación Permanente o de la Cámara saliente, si está en período extraordinario de sesiones. En uno y otro caso, el acto se verificará en sesión pública ordinaria o extraordinaria. A los Diputados que se presenten después y a los suplentes que entren en ejercicio, el Presidente de la Cámara les tomará la protesta en la sesión pública que corresponda.
-
-(2).- Al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado, les tomará la protesta en solemne sesión pública, ordinaria o extraordinaria, el Presidente de la Cámara, o en su caso, el de la Diputación Permanente.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
-
-(3).- A los Jefes de los Departamentos Gubernativos al Procurador General de Justicia, al Recaudador de Rentas residente en la Capital y al Jefe de Defensores de oficio, les tomará la protesta el Gobernador del Estado, y ellos a su vez, a los demás empleados de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas secciones administrativas del Ejecutivo les tomará la protesta el Presidente Municipal de la jurisdicción en que ejerzan sus cargos.
-
-(4).- Al Secretario y demás empleados del Supremo Tribunal de Justicia y a los Jueces de Primera Instancia, les tomará la protesta el Presidente de aquel alto Cuerpo. Al Secretario y Jueces, ante el Tribunal en pleno acuerdo y para los demás, ante el Secretario. A los Jueces de Primera Instancia que no puedan presentarse ante el Tribunal les tomará la protesta el Presidente Municipal de la cabecera en que residan. A los Jueces Menores les tomará la protesta el de Primera Instancia de su jurisdicción, o en caso de impedimento, el Síndico convecino.
-
-(5).- A los Regidores del Ayuntamiento que va a instalarse, les tomará la protesta en grupo el Presidente del Ayuntamiento saliente en sesión plena de éste. A los Regidores que se presenten después y a los Suplentes que entren en ejercicio, el Presidente en funciones, en la sesión que corresponda.
-
-(6).- Al Secretario, Tesorero y demás empleados Municipales, les tomará la protesta el Presidente del Ayuntamiento, en sesión de éste a los dos primeros y ante el Secretario Municipal a los demás.
-
-(7).- A los Síndicos y Comisarios les tomará la protesta el Presidente Municipal en sesión pública del Ayuntamiento, o los colegas salientes en cualquier caso de impedimento.
-
-III. La protesta se rinde sin previa interpelación:
-
-(1).- Ante la Cámara en sesión pública, por los Presidentes que se nombre el Congreso.
-
-(2).- Ante el Supremo Tribunal de Justicia, en pleno acuerdo por el Presidente del mismo.
-
-(3).- Ante el Ayuntamiento en sesión pública, por los Presidentes Municipales electos por él mismo.
-
-IV. El acto de la protesta se verificará poniéndose en pie todos los presentes, excepto el Gobernador y los Presidentes del Congreso, del Supremo Tribunal de Justicia y de los Ayuntamientos, cuando ante ellos deba rendirse, porque en ese momento son los representantes de la soberanía del pueblo. El que protesta, mientras habla, mantendrá extendido horizontalmente hacia el frente el brazo derecho, con los dedos unidos y el dorso de la mano abierta hacia arriba. Acto continuo, se levantará un acta por duplicado que firmará el otorgante y quien reciba la protesta, con su Secretario respectivo, un tanto de la cual se remitirá a la oficina pagadora por los conductos debidos. Si la protesta se rinde ante el Congreso, el Supremo Tribunal de Justicia o el Ayuntamiento no habrá más acta que la ordinaria de la sesión, dándose conocimiento de ella a quien corresponda, por medio de oficio.
-
-V. En los casos en que por cualquier motivo se altere el orden constitucional en el Estado, están facultados para tomar protesta, a falta de las autoridades designadas en los incisos II y III de este artículo; el Supremo Tribunal de Justicia en pleno acuerdo, el Ayuntamiento de la Capital del Estado, y sucesivamente los demás Cuerpos edilicios por el orden decreciente de la población de sus Municipalidades.
-
-VI. En el caso de que el orden constitucional desaparezca totalmente en el Estado, el Gobernador Interino que designe el Gobierno Federal, rendirá la protesta ante el pueblo del lugar de la residencia oficial para el efecto, previamente convocado.
-
-VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
 ###### Art. 44.
 
@@ -1041,53 +993,31 @@ III. Las funciones notariales, que podrán ser ejercidas por los Jueces de Prime
 
 Es atribución del Poder Judicial del Estado, conocer en la forma y manera que lo fijen las leyes, las controversias cuya decisión no haya sido reservada de manera expresa a los Tribunales de la Federación, o a cualquiera otra autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1955)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
 
 ###### Art. 104.
 
 La Ley Orgánica del Poder Judicial reglamentará el funcionamiento del Pleno y de las Salas del Supremo Tribunal de Justicia y de los Juzgados, conforme a las bases fijadas en esta Constitución, correspondiendo exclusivamente al Supremo Tribunal en PLENO:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1955)</small>
-
 I. Conocer en única instancia de las causas por delitos del orden común contra los altos funcionarios del Estado, previa la declaratoria a que se refiere el Artículo 135.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 II. Conocer como jurado de sentencia, de las acusaciones por delitos oficiales contra los altos funcionarios del Estado.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1953)</small>
-
 III. Declarar si ha lugar a formación de causa contra los Jueces de Primera Instancia, Secretarios del Supremo Tribunal y de las Salas, y de los Jueces de los Tribunales para Menores;
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 IV. Conocer y resolver las controversias de cualquier orden que se susciten entre los Poderes del Estado, entre uno o más Poderes del Estado y los Ayuntamientos o entre éstos entre sí;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1955)</small>
-
 V. Conocer de las competencias que se susciten entre los Jueces de Primera Instancia, o entre Jueces Menores de diversos Distritos Judiciales.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1955)</small>
 
 VI. Llamar a los Magistrados Suplentes que deban cubrir las faltas de los Propietarios, ya sea absolutas, temporales o relativas a determinado negocio, conforme al Artículo 99;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1953)</small>
-
 VII. Nombrar a los Jueces y a los Secretarios, Actuarios y demás empleados subalternos del Supremo Tribunal, de las Salas, de los Juzgados y de los Tribunales para Menores;
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 VIII. Determinar el número de Juzgados Menores que deberá haber en el Estado, el lugar de su residencia y el perímetro de su jurisdicción territorial;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1955)</small>
-
 IX. Nombrar, cuando lo estime conveniente, Visitadores de Juzgados;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1955)</small>
-
 X. Expedir los Reglamentos Internos del Supremo Tribunal y de los Juzgados, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1955)</small>
 
 XI. Las demás que le confieran las Leyes.
 
@@ -1191,11 +1121,11 @@ IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerz
 
 Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener lo siguiente:
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 I. 25 años cumplidos en la fecha de la elección.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 II. Haber obtenido mayoría de sufragios legales.
 
@@ -1501,11 +1431,11 @@ Todas las obras públicas del Estado o los Municipios que hayan de emprenderse, 
 
 Quedan estrictamente prohibidos en el Estado, todos los juegos de azar. Para extirpar ese vicio, combatir el alcoholismo y reprimir la prostitución y la vagancia, la ley se mostrará severa y las autoridades serán inexorables. Es causa de responsabilidad oficial, toda falta u omisión en el cumplimiento de las obligaciones que este precepto impone.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1962)</small>
 
 ###### Art. 157.
 
-Queda absolutamente abolida la pena de muerte para los delitos políticos, y en cuanto a los demás, podrá imponerse al parricida, al homicida con alevosía, premeditación o ventaja, al incendiario, al plagario (sic) y al salteador de caminos.
+Queda abolida en forma absoluta la Pena de Muerte dentro del Estado de Sinaloa.
 
 ###### Art. 158.
 
@@ -1874,3 +1804,7 @@ UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondien
 P.O. 20 DE SEPTIEMBRE DE 1962.
 
 Artículo Unico.- El presente Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE SEPTIEMBRE DE 1962.
+
+Unico. El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
