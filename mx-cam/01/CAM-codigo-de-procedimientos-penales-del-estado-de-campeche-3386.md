@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "1995-05-24"
+last_updated: "1996-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1996.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -915,6 +915,10 @@ V.- Corrupción de menores previsto en el artículo 176 del Código Penal;
 
 VI.- Lenocinio previsto en el artículo 182 del propio Código;
 
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 1996)</small>
+
+VI Bis.- Falsificación de documentos públicos o privados previsto en los artículos 214 y 217 del Código Penal del Estado;
+
 VII.- Violación previsto en los artículos 233, 234 y 235 del mismo Código;
 
 VIII.- Asalto previsto en los artículos 251 y 252;
@@ -926,6 +930,10 @@ X.- Robo previsto en la fracción IV del artículo 335, cuando se realice en la 
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 1995)</small>
 
 X Bis.- Abigeato previsto en los artículos 349, 350, 351, 352, 353, 354 y 355 del Código Penal del Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 1996)</small>
+
+X Ter.- Despojo de cosas inmuebles o aguas, autoría intelectual y/o dirección previstas en el último párrafo del artículo 371 del mismo Código;
 
 XI.- Tortura previsto en el artículo 3 de la Ley para Prevenir y Sancionar la Tortura en el Estado; y
 
@@ -3284,3 +3292,9 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se deroga (sic) todas las disposiciones legales y reglamentarias que se opongan a este decreto.
 
 Tercero.- Queda a la elección de los sentenciados el acogerse al beneficio que se contrae el artículo Primero de este decreto.
+
+P.O. 7 DE DICIEMBRE DE 1996.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan, en lo que se opongan al contenido del presente decreto, todas las disposiciones legales y reglamentarias que conforman el marco jurídico propio de esta Entidad Federativa.
