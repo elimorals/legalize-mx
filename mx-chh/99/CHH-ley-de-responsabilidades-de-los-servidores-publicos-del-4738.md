@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2002-08-10"
+last_updated: "2003-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -199,11 +199,11 @@ Son sujetos de responsabilidad administrativa, los servidores públicos a que se
 
 ### CAPITULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 23.
 
-Todo servidor público para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que debe observar en el desempeño de su empleo, cargo o comisión, con independencia de sus deberes y derechos laborales, tendrá las siguientes obligaciones:
+Todo servidor público, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que debe observar en el desempeño de su empleo, cargo o comisión, con independencia de sus deberes y derechos laborales, tendrá las siguientes obligaciones:
 
 I.- Cumplir con la máxima diligencia el servicio que le sea encomendado, y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
 
@@ -221,65 +221,71 @@ Cuando con motivo de una revisión, inspección o auditoría, por parte de la au
 
 Proporcionar copia certificada de la documentación necesaria que le soliciten el extitular o extitulares de la dependencia, organismo o ente que preside y permitirle tener acceso a los archivos que se encuentren bajo su custodia, donde se contengan los documentos de que se pretenda obtener la certificación respectiva, con el propósito de que se de contestación a las observaciones derivadas de la revisión o auditoría practicada por la autoridad competente, tomando siempre las medidas adecuadas para dar cumplimiento con la obligación establecida en el primer párrafo de esta fracción;
 
-V.- Observar buena conducta, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación, con motivo de sus funciones;
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2003)</small>
 
-VI.- Observar en la dirección de sus inferiores jerárquicos, las debidas reglas de trato y abstenerse de incurrir en agravios, desviación o abuso de autoridad;
+V.- Responder al pliego de observaciones que, en su caso, formule la Contaduría General del Congreso del Estado, en el plazo a que se refiere el artículo 7 de su respectiva Ley Orgánica, con motivo de las auditorías, visitas o inspecciones que practique.
 
-VII.- Observar respeto y subordinación con sus superiores jerárquicos, cumpliendo las disposiciones que estos dicten, en el ejercicio de sus atribuciones;
+VI.- Observar buena conducta, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación, con motivo de sus funciones;
 
-VIII.- Abstenerse de ejercer sus funciones después de concluido el período para el cual se le designo, o de haber cesado por cualquier causa;
+VII.- Observar en la dirección de sus inferiores jerárquicos, las debidas reglas de trato y abstenerse de incurrir en agravios, desviación o abusos de autoridad;
 
-IX.- Abstenerse de desempeñar otro empleo, comisión o cargo público o particular, que la ley le prohiba;
+VIII.- Observar respeto y subordinación con sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten, en el ejercicio de sus atribuciones;
 
-X.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de autoridad competente, para ocupar empleo, cargo o comisión en el servicio público;
+IX.- Abstenerse de ejercer sus funciones después de concluido el período para el cual se le designó, o de haber cesado por cualquier causa;
 
-XI.- Abstenerse de intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en su caso;
+X.- Abstenerse de desempeñar otro empleo, comisión o cargo público o particular, que la ley prohíba;
+
+XI.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de autoridad competente, para ocupar empleo, cargo o comisión en el servicio público;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2003)</small>
+
+XII.- Abstenerse de intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios, en su caso;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XII.- Excusarse de intervenir, en cualquier forma, en asuntos en los que tenga interés personal, familiar o de negocios.
+XIII.- Excusarse de intervenir, en cualquier forma, en asuntos en los que tenga interés personal, familiar o de negocios.
 
-Quedan exceptuados de lo anterior los casos a que se refiere el tercer párrafo del artículo 42 de la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua;
+Quedan exceptuados de lo anterior los casos a que se refiere el tercer párrafo del artículo 42 de la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua.
 
-XIII.- Abstenerse de solicitar, aceptar o recibir indebidamente, por sí o por interpósita persona, dinero o cualquier otra dádiva o servicio para sí o para un tercero, o acepte una promesa para hacer o dejar de hacer algo justo o injusto, relacionado con sus funciones. Esta prevención es aplicable hasta un año después de que haya concluido el ejercicio de sus funciones;
+XIV.- Abstenerse de solicitar, aceptar o recibir indebidamente, por sí o por interpósita persona, dinero o cualquier otra dádiva o servicio para sí o para un tercero, o acepte una promesa para hacer o dejar de hacer algo justo o injusto, relacionado con sus funciones. Esta prevención es aplicable hasta un año después de que haya concluido el ejercicio de sus funciones;
 
-XIV.- Atender las instrucciones, requerimientos y resoluciones que reciba de la Coordinación de Planeación y Evaluación;
+XV.- Atender las instrucciones, requerimientos y resoluciones que reciba de la Coordinación de Planeación y Evaluación;
 
-XV.- Presentar con oportunidad y veracidad la declaración de situación patrimonial ante la Coordinación de Planeación y evaluación, en los términos, condiciones y plazos que esta Ley señala;
+XVI.- Presentar con oportunidad y veracidad la declaración de situación patrimonial ante la Coordinación de Planeación y Evaluación, en los términos, condiciones y plazos que esta Ley señala;
 
-XVI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de las disposiciones jurídicas relacionadas con el servicio público;
+XVII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de las disposiciones jurídicas relacionadas con el servicio público;
 
-XVII.- Abstenerse de causar por sus actos u omisiones daños o perjuicios a la Hacienda Pública Estatal o Municipal u obtener un lucro personal o familiar en el desempeño de la función pública. Asimismo de hacer uso indebido de los recursos tanto estatal como municipales;
+XVIII.- Abstenerse de causar por sus actos u omisiones daños o perjuicios a la Hacienda Pública Estatal o Municipal u obtener un lucro personal o familiar en el desempeño de la función pública. Asimismo de hacer uso indebido de los recursos tanto estatal como municipales;
 
-XVIII.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las diversas fracciones de este artículo;
+XIX.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las diversas fracciones de este artículo;
 
-XIX.- Respetar y hacer respetar el derecho a la formulación de quejas y denuncias a que se refiere esta Ley y evitar que, con motivo de éstas, se causen molestias indebidas al quejoso, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2003)</small>
+
+XX.- Respetar y hacer respetar el derecho a la formulación de quejas y denuncias a que se refiere esta Ley y evitar que, con motivo de éstas, se causen molestias indebidas al quejoso;
 
 > <small>(ADICIONADA, P.O. 9 DE JUNIO DE 1999)</small>
 
-XX.- Abstenerse de disponer o recibir recursos públicos a título de bono de retiro, compensación económica o de cualquier otra denominación, por el sólo hecho de haber concluido los períodos establecidos en la constitución política del estado para la duración de la administración, gestión o encomienda correspondiente o por la separación prematura de su encargo sea voluntaria o no. Lo anterior de ninguna manera comprende los derechos de carácter laboral que puedan corresponderles al tenor de las leyes correspondientes, ni las reservas destinadas para esos propósitos;
+XXI.- Abstenerse de disponer o recibir recursos públicos a título de bono de retiro, compensación económica o de cualquier otra denominación, por el sólo hecho de haber concluido los períodos establecidos en la Constitución Política del Estado para la duración de la administración, gestión o encomienda correspondiente o por la separación prematura de su cargo sea voluntaria o no. Lo anterior de ninguna manera comprende los derechos de carácter laboral que puedan corresponderles al tenor de las leyes correspondientes, ni las reservas destinadas para esos propósitos;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XXII (sic).- Acordar o autorizar en los términos de la Ley aplicable las enajenaciones de los bienes.
+XXII.- Acordar o autorizar en los términos de la Ley aplicable las enajenaciones de los bienes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2000)</small>
+> <small>(N. DE E. EL TEXTO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XXII)</small>
 
-XXII.- Informar dentro de los quince días naturales siguientes a la fecha en que reciba la petición, planteamiento o denuncia en la que se solicite se determinen las responsabilidades a que haya lugar por las observaciones derivadas de alguna auditoría practicada por órgano competente o por los actos u omisiones de los servidores públicos que impliquen responsabilidades, denunciado en los términos del artículo 27 de esta Ley, el acuerdo inicial que recaiga a lo anterior.
-
-De igual forma deberá de comunicar el sentido de la resolución dictada que ponga fin al procedimiento instaurado tendiente a fincar la responsabilidad civil, administrativa o penal, según corresponda.
+XXIII.- Acordar o autorizar en los términos de la Ley aplicable las enajenaciones de los bienes muebles;
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
 
-XXIII.- Proporcionar oportunamente y en forma veraz la información y datos solicitados por el Pleno, las comisiones o comités del Congreso del Estado, o por los diputados, que sean inherentes a su función y que tenga relación con algún asunto que deban resolver. en el caso de los diputados se estará a lo dispuesto por el artículo 65, fracción IV, de la Constitución Política del Estado. Dicha información se proporcionará de conformidad con las instrucciones que al efecto gire el superior jerárquico, previo acuerdo con el titular de la dependencia o entidad de la adscripción.
+XXIV.- Proporcionar oportunamente y en forma veraz la Información y datos solicitados por el Pleno, las comisiones o comités del Congreso del Estado, o por los diputados, que sean inherentes a su función y que tenga relación con algún asunto que deban resolver. En el caso de los diputados se estará a lo dispuesto por el artículo 65, fracción IV, de la Constitución Política del Estado. Dicha información se proporcionará de conformidad con las instrucciones que al efecto gire el superior jerárquico, previo acuerdo con el titular de la dependencia o entidad de la adscripción.
 
-Cuando la dependencia a quien se requiera la información tenga alguna razón justificada para rehusarla, lo hará saber por escrito al solicitante, fundando y motivando su negativa.
+Cuando la dependencia a quien se requiera la información tenga alguna razón justificada para rehusarla, lo hará saber por escrito al solicitante, fundando y motivando su negativa;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2003)</small>
 
-XXIV.- Las demás que le impongan otras leyes y reglamentos.
+XXV.- Las demás que le impongan otras leyes y reglamentos.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2000)</small>
 
 Se incurre en responsabilidad administrativa, por el incumplimiento de cualesquiera de las obligaciones contenidas en este artículo, dando lugar a la instrucción del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que en esta Ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
 
@@ -642,3 +648,9 @@ P.O. 10 DE AGOSTO DE 2002.
 El presente decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
 
 En lo relativo al artículo 6, fracción IV, primer párrafo, de la Ley de Catastro del Estado, la obligación de actualización entrará en vigor el 1 de enero del 2003.
+
+P.O. 19 DE JULIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
