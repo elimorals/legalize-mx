@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-asamblea-general-del-instituto-del-fondo-1358"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-01-08"
-last_updated: "1973-01-08"
+last_updated: "1992-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1358&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2005-11-18"
 
 REGLAMENTO DE LA ASAMBLEA GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 1992.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 8 de enero de 1973.
 
@@ -54,11 +54,13 @@ El Director General, con la misma anticipación que señala el párrafo anterior
 
 En la primera sesión ordinaria, el Orden del Día comprenderá, por lo menos, el examen y aprobación, en su caso, de los siguientes asuntos:
 
-I.- Estados Financieros del Instituto que resulten de la operación en el último ejercicio y determinación de las reservas correspondientes;
+> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 1992)</small>
+
+I.- Estados financieros del instituto que resulten de la operación en el último ejercicio;
 
 II.- Dictámenes de la Comisión de Vigilancia;
 
-III.- Dictamen del auditor externo designado por la Comisión de Vigilancia para auditar y certificar los estados financieros del Instituto;
+III.- (DEROGADA, D.O.F. 20 DE OCTUBRE DE 1992)
 
 IV.- Informe del Director General sobre las actividades del Instituto;
 
@@ -84,11 +86,13 @@ I.- Hacer las designaciones y nombramientos que la Ley del Instituto le atribuye
 
 II.- Decidir sobre el establecimiento, modificación o supresión de las Comisiones Consultivas Regionales del Instituto, señalándoles su circunscripción territorial;
 
-III.- Examen y aprobación de los reglamentos del Instituto que requieran ser expedidos por el Poder Ejecutivo Federal;
+III.- (DEROGADA, D.O.F. 20 DE OCTUBRE DE 1992)
 
-IV.- Examen, aprobación y expedición de los reglamentos de administración interna del Instituto;
+> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 1992)</small>
 
-V.- Establecer las reglas para el otorgamiento de créditos y operación de depósitos;
+IV.- Expedir los reglamentos del Instituto;
+
+V.- (DEROGADA, D.O.F. 20 DE OCTUBRE DE 1992)
 
 VI.- Operaciones del Instituto que por su importancia, a juicio de alguno de los sectores del Consejo de Administración o del Director General, ameriten acuerdo expreso de la Asamblea General;
 
@@ -184,10 +188,28 @@ V.- Recoger las votaciones;
 
 VI.- Auxiliar al Presidente durante el desarrollo de las sesiones; y
 
-VII. Las demás que la Asamblea General le señale.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE OCTUBRE DE 1992)</small>
+
+VII.- Firmar las certificaciones que por disposición legal, o petición de parte legítimamente interesada, deban ser extendidas por la asamblea general, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 20 DE OCTUBRE DE 1992)</small>
+
+VIII. Las demás que la Asamblea General le señale.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1992)</small>
+
+En las ausencias del secretario, la asamblea podrá designar provisionalmente a un prosecretario.
 
 ## TRANSITORIO
 
 UNICO.- Este Reglamento entrará en vigor a partir de la fecha de su aprobación por la Asamblea General del Instituto.
 
 El Presidente de la Asamblea General, Jesús Elías Piña.- Rúbrica.- El Director General, Jesús Silva Herzog F.- Rúbrica.- El Secretario de la Asamblea General, Roberto Molina Pasquel H.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 20 DE OCTUBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
