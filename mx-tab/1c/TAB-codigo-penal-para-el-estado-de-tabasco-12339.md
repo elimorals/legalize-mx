@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2002-11-09"
+last_updated: "2002-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1277,7 +1277,7 @@ V.- Se realice por algún servidor público.
 
 Si el agente espontáneamente libera a la víctima dentro de los tres días siguientes al de la privación de la libertad, sin que mediare violencia y sin causar daño, la pena de prisión se disminuirá en una mitad.
 
-### CAPITULO III. INSEMINACION ARTIFICIAL
+### CAPITULO II. ESTUPRO
 
 ###### Artículo 143.
 
@@ -1313,7 +1313,7 @@ V.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o 
 
 Si el agente, espontáneamente libera al secuestrado dentro de los tres días siguientes al de la privación de libertad, sin lograr alguno de los propósitos a que se refiere el artículo 143, y sin que se presente alguna de las circunstancias previstas en el artículo 144, la prisión será de seis meses a tres años y de cincuenta a cien días multa.
 
-### CAPITULO II. ESTUPRO
+### CAPITULO III. INSEMINACION ARTIFICIAL
 
 ###### Artículo 146.
 
@@ -1772,6 +1772,20 @@ VII.- Provoque deliberadamente cualquier acontecimiento, simulando que se trata 
 VIII.- Habiendo recibido dinero, valores o cualquier otra cosa mediante el ofrecimiento de encargarse de la defensa penal de una persona o de la dirección o patrocinio de un asunto civil o administrativo, no realice lo ofrecido, sea porque no se haga cargo legalmente de la defensa o de la dirección o patrocinio o porque renuncie a ella o la abandone sin causa justificada, o
 
 IX.- Por medio de supuesta evocación de espíritus, adivinaciones o curaciones, explote las preocupaciones, la superstición o la ignorancia de las personas.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+Artículo 191 bis.- Se impondrán de tres a nueve años de prisión y de doscientos a quinientos días multa, al que:
+
+I.- En forma indebida y sin autorización de quien esté facultado para ello, adquiera, utilice, posea o detente, tarjetas utilizadas en el comercio para obtener bienes o servicios, títulos o documentos que permitan el uso de éstas o sus bandas magnéticas.
+
+La misma pena se aplicará si esas tarjetas, títulos, documentos o bandas magnéticas son falsos.
+
+Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán en una mitad más; y
+
+II.- Sin consentimiento de quien esté facultado para ello, produzca, imprima, enajene aún gratuitamente o distribuya, tarjetas utilizadas en el comercio para obtener bienes o servicios, títulos o documentos que permitan el uso de éstas o sus bandas magnéticas; falsifique o altere esas tarjetas, bandas, títulos o documentos.
+
+Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán en una mitad más.
 
 ### CAPITULO II. TRAFICO DE MENORES
 
@@ -2801,15 +2815,27 @@ Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de 
 
 Se impondrá de noventa a ciento ochenta días de semilibertad, al que públicamente y sin derecho, use uniforme, insignia, distintivo o condecoración oficial.
 
-### CAPITULO I. LENOCINIO Y TRATA DE PERSONAS
+### CAPITULO I. ACCESO SIN AUTORIZACION
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+Artículo 326 bis.- Al que intercepte, interfiera, reciba, use o ingrese por cualquier medio sin la autorización debida o, excediendo la que tenga, a una computadora personal, o a un sistema de red de computadoras, un soporte lógico de programas de cómputo o base de datos, se le impondrá de veinte a cincuenta días de trabajo a favor de la comunidad y de veinte a treinta días multa.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 303.
 
 Al que ultraje las insignias del Estado o de un municipio, o de cualesquiera de sus instituciones, o haga uso indebido de ellos, se le aplicarán de treinta a noventa días de trabajo en favor de la comunidad.
 
-### CAPITULO II. CORRUPCION DE MENORES
+### CAPITULO II. DAÑO INFORMATICO
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+Artículo 326 bis 1.- A quien sin autorización modifique, destruya o deteriore en forma parcial o total, archivos, bases de datos o cualquier otro elemento intangible contenido en computadoras personales, sistemas o redes de cómputo, soportes lógicos, o cualquier otro medio magnético, se le sancionará con penas de uno a cinco años de prisión y de cien a cuatrocientos días multa.
+
+Cuando el activo tenga el carácter de encargado del manejo, administración o mantenimiento de los bienes informáticos dañados, las penas se incrementarán en una mitad más.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 304.
 
@@ -2855,9 +2881,23 @@ Cuando el delito sea imputable a una persona jurídica colectiva, el Juez podrá
 
 Artículo 304 bis - A.- Al servidor público que autorice o permita obras o actividades que contravengan las disposiciones legales aplicables y que ocasionen o puedan ocasionar daños al ambiente, se les aplicará de dos a ocho años de prisión y de cien a veinte mil días multa.
 
-### CAPITULO I. PROFANACION DE CADAVER
+### CAPITULO III. FALSIFICACION INFORMATICA
 
-### CAPITULO II. PROFANACION DE TUMBA
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+Artículo 326 bis 2.- Se impondrán penas de uno a cinco años de prisión, al que copie o imite los originales de cualquier dato, archivo o elemento intangible contenido en una computadora personal o en un sistema de redes de computadoras, base de datos, soporte lógico, siempre que para ello se requiera autorización y no la obtenga.
+
+Las mismas sanciones se aplicarán al que utilice o aproveche en cualquier forma, los bienes informáticos falsificados, previstos en este Título.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+Artículo 326 bis 3.- Cuando los ilícitos previstos en este Título se cometan utilizando el equipo de cómputo de terceras personas, las penas se incrementarán en una mitad.
+
+TITULO DECIMOCUARTO
+
+DELITOS CONTRA LA MORALIDAD PUBLICA
+
+### CAPITULO I. LENOCINIO Y TRATA DE PERSONAS
 
 ###### Artículo 305.
 
@@ -2867,7 +2907,9 @@ TITULO DECIMOPRIMERO
 
 DELITOS CONTRA LA SEGURIDAD DE LA COMUNICACION
 
-### CAPITULO UNICO. PORTACION Y FABRICACION DE ARMAS PROHIBIDAS
+### CAPITULO II. CORRUPCION DE MENORES
+
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 306.
 
@@ -2913,15 +2955,15 @@ Al que por cualquier medio destruya total o parcialmente una aeronave, una embar
 
 Al que para la realización de actividades delictivas utilice instalaciones o medios de comunicación o de transporte públicos que sean de su propiedad o que tenga bajo su cuidado, se le aplicarán de dos a cuatro años de prisión.
 
-### CAPITULO I. ABANDONO DE LA PRESTACION DE SERVICIOS
+### CAPITULO I. PROFANACION DE CADAVER
 
-### CAPITULO II. NEGACION DE SERVICIO MEDICO
+### CAPITULO II. PROFANACION DE TUMBA
 
 ###### Artículo 313.
 
 Se aplicará prisión de seis meses a dos años al que destruya, inutilice, quite o modifique algún dispositivo o señal de seguridad de una vía local de tránsito.
 
-### CAPITULO III. OPERACIONES QUIRURGICAS INDEBIDAS
+### CAPITULO UNICO. PORTACION Y FABRICACION DE ARMAS PROHIBIDAS
 
 ###### Artículo 314.
 
@@ -2929,7 +2971,7 @@ Al que, en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópi
 
 Si el vehículo es de transporte público de pasajeros o de carga, la prisión será de uno a tres años y la suspensión de uno a cuatro años.
 
-### CAPITULO IV. REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACION
+### CAPITULO I. ABANDONO DE LA PRESTACION DE SERVICIOS
 
 ###### Artículo 315.
 
@@ -2937,13 +2979,13 @@ Al que abra o intercepte una comunicación escrita que no esté dirigida a él, 
 
 No se sancionará a quienes en ejercicio de la patria potestad, tutela o custodia, abran o intercepten las comunicaciones escritas dirigidas a las personas que se hallen bajo su patria potestad, tutela o custodia.
 
-### CAPITULO V. RETENCION DE CADAVER
+### CAPITULO II. NEGACION DE SERVICIO MEDICO
 
 ###### Artículo 316.
 
 Al que intervenga la comunicación privada de terceras personas, a través de medios eléctricos o electrónicos, se le aplicará prisión de uno a cinco años.
 
-### CAPITULO VI. ENAJENACION FRAUDULENTA DE MEDICINAS NOCIVAS O INAPROPIADAS
+### CAPITULO III. OPERACIONES QUIRURGICAS INDEBIDAS
 
 ###### Artículo 317.
 
@@ -2955,11 +2997,9 @@ TITULO DECIMOSEGUNDO
 
 DELITOS CONTRA LA FE PUBLICA
 
-### CAPITULO VII. DISPOSICIONES COMUNES
+### CAPITULO IV. REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACION
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
-
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPITULO V. RETENCION DE CADAVER
 
 ###### Artículo 318.
 
@@ -2971,7 +3011,7 @@ I.- Falsifique o altere, acciones, obligaciones u otros documentos de crédito p
 
 II.- Introduzca al Estado o ponga en circulación: obligaciones u otros documentos de crédito público estatales o municipales, o cupones de interés o de dividendos de esos títulos, falsificados o alterados.
 
-### CAPITULO I. REBELION
+### CAPITULO VI. ENAJENACION FRAUDULENTA DE MEDICINAS NOCIVAS O INAPROPIADAS
 
 ###### Artículo 319.
 
@@ -2987,7 +3027,9 @@ III.- Use indebidamente los verdaderos sellos, marcas, llaves, estampillas, troq
 
 IV.- (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2002)
 
-### CAPITULO II. TERRORISMO
+### CAPITULO VII. DISPOSICIONES COMUNES
+
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 320.
 
@@ -2997,7 +3039,7 @@ TITULO DECIMOTERCERO
 
 DELITOS CONTRA LA AUTENTICIDAD O VERACIDAD DOCUMENTAL
 
-### CAPITULO III. SABOTAJE
+### CAPITULO UNICO. DELITOS ELECTORALES
 
 ###### Artículo 321.
 
@@ -3035,25 +3077,35 @@ I.- Produzca, por cualquier medio técnico, imágenes, textos o voces total o pa
 
 II.- Indebidamente produzca, por cualquier medio técnico, imágenes, textos o voces verdaderas.
 
-### CAPITULO IV. ASONADA O MOTIN
+### CAPITULO I. REBELION
 
 ###### Artículo 324.
 
 Se aplicará prisión de seis meses a tres años y multa de sesenta a ciento veinte días multa al que, por sí o por medio de otro, use un documento público o privado no auténtico o no veraz.
 
-### CAPITULO V. SEDICION
+### CAPITULO II. TERRORISMO
 
 ###### Artículo 325.
 
 Se aplicará prisión de seis meses a tres años y multa de sesenta a ciento veinte días multa al que, para obtener un beneficio o causar un daño, use un documento público o privado auténtico y veraz, expedido a favor de otra persona.
 
+### CAPITULO III. SABOTAJE
+
 ###### Artículo 326.
 
 Cuando alguno de los delitos previstos en este Título sea cometido por un servidor público en ejercicio de sus funciones o fedatario se le impondrá, además, destitución e inhabilitación para desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público de dos a cinco años.
 
-TITULO DECIMOCUARTO
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
-DELITOS CONTRA LA MORALIDAD PUBLICA
+TITULO DECIMOTERCERO BIS
+
+DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+### CAPITULO IV. ASONADA O MOTIN
+
+### CAPITULO V. SEDICION
 
 ###### Artículo 327.
 
@@ -3480,3 +3532,9 @@ PRIMERO: El presente Decreto entrará en vigor a los treinta días naturales sig
 SEGUNDO: Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO: Los delitos cometidos durante la vigencia de las disposiciones que se modifican o derogan, se castigarán conforme a éstas, salvo que las nuevas beneficien al o los inculpados, pues no es pretensión de esta reforma despenalizar conductas típicas, sino tan sólo aclararlas para evitar confusiones en cuanto a la aplicación de la norma punitiva de que se trate.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+PRIMERO: El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones legales que se opongan al presente Decreto.
