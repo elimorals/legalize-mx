@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "1998-12-24"
+last_updated: "2002-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-06-21"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2002.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -96,13 +96,25 @@ Para hacer el nombramiento, la Asamblea Legislativa del Distrito Federal, por co
 
 El Presidente de la Comisión de Derechos Humanos del Distrito Federal durará en su cargo cuatro años, pudiendo ser nombrado y confirmado en su caso, solamente para un segundo período en los términos del artículo anterior.
 
-###### ARTICULO 11.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
 
-El Consejo de la Comisión de Derechos Humanos del Distrito Federal estará formado por diez ciudadanos, hombres y mujeres, que gocen de reconocido prestigio dentro de la sociedad y cuando menos siete de ellos no deberán ocupar ningún cargo, comisión o empleo como servidor público. Al frente de este órgano estará el Presidente de la Comisión.
+###### ARTÍCULO 11.
+
+El Consejo de la Comisión de Derechos Humanos del Distrito Federal estará integrado por diez ciudadanos, entre hombres y mujeres que gocen de reconocido prestigio dentro de la sociedad, y cuando menos siete de ellos no deberán ocupar ningún cargo, comisión o empleo como servidor público. Al frente de este organismo estará el Presidente de la Comisión.
 
 El cargo de miembro del Consejo tendrá carácter honorario, con excepción del de su Presidente.
 
-Cada año deberá ser sustituido el miembro de mayor antigüedad de dicho Consejo.
+En ningún caso, la integración del Consejo excederá del 60% de personas del mismo sexo.
+
+Cada año deberá ser sustituido el integrante de mayor antigüedad en el Consejo.
+
+Esta sustitución se realizará independientemente de las extraordinarias que deban efectuarse en caso de que por cualquier motivo, algún miembro del Consejo no concluya el periodo para el cual fue nombrado.
+
+Bajo ninguna circunstancia un Consejero podrá durar en su encargo un término mayo (sic) de diez años en forma continua.
+
+De ocurrir una sustitución extraordinaria de algún Consejero, el que resultase electo será considerado el Consejero de menor antigüedad y se incorporará a la lista de sustituciones en ese carácter.
+
+En el supuesto de que la Asamblea Legislativa del Distrito Federal nombre a dos o más integrantes del Consejo al mismo tiempo, la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal realizará un (sic) insaculación para conocer el orden en el que serán sustituidos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
@@ -593,3 +605,9 @@ G.O. 24 DE DICIEMBRE DE 1998
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 SEGUNDO. Por única vez, se exceptúa al Presidente de la Comisión de Derechos Humanos del Distrito Federal de la obligación de realizar la notificación a la Asamblea Legislativa del Distrito Federal a que le constriñe el artículo 105 de la Ley Orgánica de la Asamblea de Representantes del Distrito Federal del presente decreto, para dar inicio al procedimiento para el nombramiento del Consejero de la Comisión de Derechos Humanos del Distrito Federal.
+
+G.O. 16 DE MAYO DE 2002.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Las substituciones de los miembros del Consejo de la Comisión de Derechos Humanos que iniciaron su encargo en diciembre de 1993 y cuya responsabilidad hubiese concluido en junio de 1998, junio del 2000 y junio de 2001 de conformidad con el orden de substitución aprobada en el procedimiento de insaculación efectuada por el Consejo de la Comisión de Derechos Humanos del Distrito Federal en la sesión del día 4 de mayo de 1994, se llevarán a cabo en el mes de septiembre del año 2002, en los términos del procedimiento establecido en el artículo 107 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, debiendo la Comisión de Derechos Humanos de la Asamblea Legislativa actuar oficiosamente, sin menoscabo de la sustitución ordinaria de este año.
