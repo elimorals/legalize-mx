@@ -4,7 +4,7 @@ identifier: "SON-ley-catastral-y-registral-del-estado-de-sonora-8490"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "1992-12-31"
+last_updated: "1998-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -53,7 +53,11 @@ II.- Las normas conforme a las cuales el Estado proporcionará el servicio de da
 
 III.- Las normas y lineamientos de carácter técnico para la formulación del inventario de los bienes inmuebles en el Estado, tendientes a su identificación, registro y valuación; y
 
-IV.- Las bases para la organización y funcionamiento del Instituto Catastral y Registral del Estado de Sonora.
+IV.- Las bases para la organización y funcionamiento del Instituto Catastral y Registral del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+V.- Las bases y lineamiento para la publicidad de las declaraciones de situación patrimonial de los servidores públicos, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, misma que deberán inscribirse y registrarse en el Instituto Catastral y Registral del Estado para conocimiento y disposición públicos.
 
 ###### ARTICULO 2o.
 
@@ -111,7 +115,17 @@ XII.- Proporcionar a las personas que lo soliciten, la información registrar qu
 
 XIII.- Establecer los mecanismos de coordinación entre los datos catastrales y regístrales para obtener la identificación plena y datos reales de los inmuebles inscritos; y
 
-XIV.- Las demás que le confieran las leyes y reglamentos correspondientes.
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+XIV.- Recibir para su inscripción y registro las declaraciones iniciales y finales de la situación patrimonial de los servidores públicos, así como sus respectivas actualizaciones, de conformidad con lo dispuesto en el artículo 94 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los municipios, que oportunamente remita Secretaría de la Contraloría General del Estado;
+
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+XV.- Proporcionar a quien lo solicite la información registral y demás documentos inscritos en los archivos de esa dependencia, relacionado con las declaraciones patrimoniales de los servidores públicos en general, pudiendo expedir certificaciones de las mismas a costa del solicitante. Para los efectos de publicidad de la declaración patrimonial el solicitante deberá acreditar el interés legitimo ante el vocal ejecutivo del Instituto; en términos de los Artículos 1, fracción V y 94, fracción IV de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios;
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+XVI.- Las demás que le confieren las Leyes y Reglamentos correspondientes.
 
 ###### ARTICULO 5o.
 
@@ -369,6 +383,10 @@ Los Ayuntamientos proveerán lo necesario, dentro de la esfera de su respectiva 
 
 La función del Registro Público de la Propiedad consiste en proporcionar el servicio de dar publicidad a los actos jurídicos que conforme a la Ley precisan de ese requisito, para surtir efectos contra terceros.
 
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+Será también su función, dar publicidad a las declaraciones iniciales, finales y de actualización patrimonial de los servidores públicos, de conformidad con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, que deban inscribirse y registrarse en el Instituto Catastral y Registral.
+
 ### CAPITULO II. DE LOS DOCUMENTOS REGISTRABLES, DEL SISTEMA REGISTRAL Y DE LOS EFECTOS DEL REGISTRO
 
 ###### ARTICULO 48.
@@ -379,7 +397,11 @@ I.- Los testimonios de escrituras o actas notariales y otros documentos auténti
 
 II.- Las resoluciones y provadencias (sic) judiciales que consten de manera auténtica; y
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la Ley, siempre que al calce de los mismos obre la constancia de que el Notario Público, el Registrador, el Corredor Público, la autoridad municipal o el Juez del lugar, se cercioraron de la autenticidad de las firmas y ratificación del contenido por las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar impreso el sello respectivo.
+III.- Los documentos privados que en esta forma fueren válidos con arreglo a la Ley, siempre que al calce de los mismos obre la constancia de que el Notario Público, el Registrador, el Corredor Público, la autoridad municipal o el Juez del lugar, se cercioraron de la autenticidad de las firmas y ratificación del contenido por las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar impreso el sello respectivo;
+
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+IV.- Los documentos en que consten las declaraciones iniciales y finales de la situación patrimonial de los servidores públicos del Estado y de los Municipios, así como sus actualizaciones, que de conformidad con la Ley de Responsabilidades de los Servidores Públicos, del Estado y de los Municipios deban inscribirse y registrarse ante el Instituto Catastral y Registral del Estado que para tal efecto envíe la Secretaría de la Contraloría General del Estado.
 
 ###### ARTICULO 49.
 
@@ -847,6 +869,12 @@ Podrá también cancelarse, total o parcialmente, la inscripción de la hipoteca
 
 Podrán pedir la cancelación de una inscripción las partes que hayan intervenido directamente en el acto o contrato de cuya inscripción se trate, y cualquier otra persona que resulte perjudicada por esta inscripción; debiendo tramitarse la solicitud respectiva conforme lo establezca la Ley aplicable, cuando la cuestión surja entre las partes y lo inscrito sea una demanda, un embargo o cualquier otro acto judicial que no sea una sentencia, y en juicio sumario en todos los demás casos, salvo que alguna disposición especial establezca otra cosa.
 
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 104
+
+BIS.- Las inscripciones de las declaraciones de situación patrimonial de los servidores públicos que conforme a esta Ley deben ser inscritas y registradas en el Registro Público de la Propiedad, únicamente, se podrán cancelar transcurridos cinco años a partir de la última declaración que hubiere presentado el servidor público de que se trate, o en su caso, por mandamiento o resolución de autoridad judicial o administrativa que funde y motive la causa de la cancelación correspondiente.
+
 ###### ARTICULO 105.
 
 Las cancelaciones se harán en la forma que fije el reglamento respectivo; pero deberán contener para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa por la que se hace la cancelación y su fecha.
@@ -868,6 +896,10 @@ Si de la calificación de los documentos presentados para su inscripción o anot
 ###### ARTICULO 109.
 
 Cuando el servicio registral haya sido requerido por alguna autoridad, los derechos correspondientes serán cubiertos por quien haya solicitado tal requerimiento ante dicha autoridad.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+Tratándose de las declaraciones de situación patrimonial de los servidores públicos en general que de conformidad con la Ley de Responsabilidades de los Servidores Públicos, del Estado y de los Municipios deban ser presentadas por la Secretaría de la Contraloría General del Estado para su inscripción y registro, estarán exentas del pago de los derechos correspondientes.
 
 ## TITULO QUINTO. DE LA COORDINACION CATASTRAL Y REGISTRAL
 
@@ -998,3 +1030,15 @@ LIC. MANLIO FABIO BELTRONES RIVERA
 EL SECRETARIO DE GOBIERNO.
 
 LIC. ROBERTO SANCHEZ CEREZO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 14 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones y preceptos que en lo conducente se opongan a la presente Ley.
