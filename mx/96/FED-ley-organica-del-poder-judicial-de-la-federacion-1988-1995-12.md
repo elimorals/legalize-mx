@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1988-1995-12"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-01-05"
-last_updated: "1991-12-24"
+last_updated: "1994-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1987-12-23"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 1994.
 
 Ley publicada en el Número 2 del Diario Oficial de la Federación, el martes 5 de enero de 1988.
 
@@ -957,7 +957,13 @@ XIV. Ser heredero, legatario, donatario o fiador de alguno de los interesados, s
 
 XV. Ser el cónyuge o alguno de los hijos del funcionario, acreedor, deudor o fiador de alguno de los interesados;
 
-XVI. Haber sido juez o magistrado en el mismo asunto, en otra instancia; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 10 DE ENERO DE 1994)</small>
+
+XVI. Haber sido juez o magistrado en el mismo asunto en otra instancia o jurisdicción.
+
+No es motivo de impedimento para magistrados de los Tribunales Unitarios el conocer del recurso de apelación contra sentencias del orden penal cuando hubiesen resuelto recursos de apelación en el mismo asunto en contra de los autos a que se refieren las fracciones II a IX del artículo 367 del Código Federal de Procedimientos Penales.
 
 XVII. Haber sido agente del Ministerio Público, jurado, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto, en favor o en contra de alguno de los interesados.
 
@@ -1158,3 +1164,15 @@ QUINTO.- La normatividad de los centros de diagnóstico y tratamiento, deberá e
 SEXTO.- Los consejos auxiliares actualmente existentes conocerán de las faltas administrativas a los reglamentos de policía y buen gobierno en que incurran los menores, en tanto se instaure el órgano competente. Estos consejos únicamente podrán aplicar las medidas de orientación y de protección previstas en la presente Ley.
 
 SEPTIMO.- En tanto el Consejo de Menores no haya integrado sus servicios periciales, podrá auxiliarse con los órganos correspondientes de la Procuraduría General de la República, de la Procuraduría General de Justicia del Distrito Federal y del Tribunal Superior de Justicia del Distrito Federal.
+
+D.O.F. 10 DE ENERO DE 1994.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA DE FUERO FEDERAL, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES, DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL, DE LA LEY DE AMPARO REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE EXTRADICIÓN INTERNACIONAL, DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, DE LA LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL, DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LA TORTURA Y DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO FEDERAL Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+
+SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con anterioridad a la vigencia del presente decreto, continuarán en los términos de las nuevas disposiciones contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.
+
+TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
