@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1993-07-08"
+last_updated: "1994-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -531,7 +531,7 @@ V.- Los obtenidos por la enajenación de segunda o ulteriores manos de fertiliza
 
 ###### Artículo 71.
 
-Son ingresos gravados en los términos de la Fracción II del artículo 69 de ésta (sic) capítulo:
+Son ingresos gravados en los términos de la Fracción II del artículo 69 de éste (sic) capítulo:
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1787,7 +1787,7 @@ V.- Las demás que impongan otras disposiciones fiscales.
 
 Los notarios ante quienes se celebre (sic) los contratos, actos u operaciones a que alude el Artículo 198 están obligados:
 
-I.- Al informar a la Oficina recaudadora de su jurisdicción, dentro de los quince días siguientes a la celebración de dichos actos, convenios o contratos, así como de toda modificación que a éstos se haga, anexando copia de la escritura correspondiente;
+I.- Al informar a la Oficina recaudadora de su jurisdicción, dentro de los quince días siguientes a la celebración de dichos actos, convenios o contratos, así como de toda modificación que a estos se haga, anexando copia de la escritura correspondiente;
 
 II.- A dar aviso, dentro del término de quince días siguientes, del otorgamiento de las escrituras en que se haga constar la extinción de las obligaciones que originan los ingresos gravables;
 
@@ -1913,17 +1913,21 @@ Artículo 212 G.- Las oficinas recaudadoras no expedirán placas de circulación
 
 #### Sección Primera. Del impuesto Sobre Remuneraciones al Trabajo Personal
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ### Capítulo Sexto. De los Impuestos Sobre Productos del Trabajo
 
 #### Sección Segunda. Del Impuesto a la Prestación de Servicios bajo la Dirección y Dependencia de un Tercero
 
 ###### Artículo 213.
 
-Es objeto del impuesto la realización de pagos por concepto de remuneración al trabajo personal prestado bajo la dirección o dependencia de un tercero.
+Es objeto de este impuesto, la realización de pagos en dinero o en especie por concepto de remuneración al trabajo personal prestado bajo la dirección o dependencia de un tercero.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 214.
 
-La base del Impuesto es el importe de la nomina mensual.
+La base de este impuesto es el monto total de los pagos realizados por concepto de remuneraciones al trabajo personal prestado bajo la dirección o dependencia de un tercero.
 
 ###### Artículo 215.
 
@@ -1937,21 +1941,31 @@ La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones
 
 Cuando el pago por concepto de remuneraciones se realice por contribuyentes dedicados a actividades agrícolas y ganaderas, la tasa aplicable será del 1% siempre y cuando los productos no hayan sido objeto de transformación industrial.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 217.
 
-Están obligados a recaudar el impuesto los sujetos que perciban sueldos o salarios, cuando quien los realiza reside fuera del Estado.
+Están obligados a recaudar el impuesto los sujetos que perciban los pagos gravados con este impuesto, cuando quien los realice resida fuera del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 218.
 
-No causan el Impuesto:
+No causan este impuesto los pagos que se realicen por concepto de:
 
-> <small>(REFORMADA, B.O. 4 DE JUNIO DE 1977)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
-I.- La Federación, el Gobierno del Estado de Sonora y Municipios, así como los contribuyentes afectos sólo a impuestos reservados a la potestad exclusiva de la Federación;
+I.- Contraprestaciones a que se refiere el Artículo 213 del presente ordenamiento, cubiertas por la Federación, el Gobierno del Estado de Sonora y sus Municipios.
+
+Tratándose de organismos descentralizados de la Federación, del Estado de Sonora y de sus Municipios, solo estarán exentos cuando realicen actividades con fines no lucrativos;
 
 II.- Los pagos por cualquier concepto de indemnización; y
 
-III.- Los pagos por concepto de jubilaciones o pensiones, siempre que no excedan de cinco veces el salario mínimo general de la zona en que resida el preceptor de dichos conceptos.
+III.- Los pagos por concepto de jubilaciones o pensiones, siempre que no excedan de cinco veces el salario mínimo general de la zona en que resida el preceptor de dichos conceptos;
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como actividades sociales, deportivas o culturales.
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
@@ -3111,15 +3125,27 @@ General del Estado. N$50.00
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 310.
 
 Los derechos por estos servicios, se cobrarán conforme a las siguientes cuotas:
 
-1.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 30 DE DICIEMBRE DE 1994)</small>
 
-2.- (DEROGADO CON SUS INCISOS A), B) Y C), B.O. 31 DE DICIEMBRE DE 1992)
+1.- Por certificación de copias de expedientes
+
+y documentos de archivo, por cada hoja N$ 20.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+2.- Por la certificación de documentos que
+
+conforme a la Ley deban permanecer en
+
+lugar visible de los establecimientos, para
+
+ser utilizados en sustitución de los originales N$ 200.00
 
 3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
@@ -3741,7 +3767,9 @@ por unidad. N$ 150.00
 
 ###### Artículo 321.
 
-Por los servicios que presta el Registro Público de la Propiedad y de Comercio, se causarán y pagarán los siguientes derechos:
+Por los servicios registrales que presta el Instituto Catastral y Registral del Estado de Sonora, se causarán los siguientes derechos que deberán pagarse previamente a la prestación del servicio:
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 1.- Por las inscripciones relativas a los actos a que se refiere este punto, se causarán y pagarán los derechos conforme a la tasa del 3.5 al millar sirviendo como base el valor que resulte más alto entre le precio pactado en la operación, el consignado en el avalúo efectuado por una institución de crédito, mismo que deberá tener una vigencia no mayor de doce meses al momento de la solicitud de inscripción y el catastral que deberá ser certificado por la autoridad catastral correspondiente en las formas aprobadas, debiéndose anexar estos dos últimos al documento respectivo.
 
@@ -3787,19 +3815,29 @@ k) Por inscripción de embargos judiciales y administrativos.
 
 l) Declaración unilateral o información Ad-perpetuam sobre la construcción.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 2.- La inscripción del documento en el que conste
 
 la constitución del patrimonio familiar. 4 al millar
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 3.- Los contratos de arrendamiento de bienes
 
 inmuebles, sobre el valor de la operación. 8 al millar
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 4.- Por capitulaciones matrimoniales. N$ 100.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 5.- Fideicomiso en administración de bienes y
 
 cualquier otro tipo de fideicomiso no previsto. N$ 200.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 6.- Actos, contratos o convenios por lo que se
 
@@ -3825,6 +3863,8 @@ a) Tipo residencial, N$ 6.00
 
 b) Tipo de interés social y popular cuyo valor al momento de la operación no exceda de la suma de multiplicar por el 25 el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, N$ 3.00.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 7.- Los créditos hipotecarios, refaccionarios,
 
 habilitación o avío, reconocimiento de adeudo
@@ -3833,6 +3873,8 @@ y fianzas, celebrados entre particulares, sobre el
 
 importe de la operación. 3.5 al millar
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 8.- Por convenio modificatorio, judicial, rectificación
 
 de escrituras, gestiones oficiosas, y demás
@@ -3840,6 +3882,8 @@ de escrituras, gestiones oficiosas, y demás
 documentos o títulos públicos o privados no
 
 previstos se cobrará: N$150.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 9.- Por inscripciones de escrituras constitutivas
 
@@ -3850,6 +3894,8 @@ aumentos de capital social, así como las escrituras
 constitutivas de las sociedades civiles que señalen
 
 capital social se pagará 3.5 al millar
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 10.- Por cualquier modificación de escrituras
 
@@ -3863,11 +3909,15 @@ mismos y cualquier otra inscripción en la
 
 Sección de Comercio. N$ 120.00
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 11.- Cuando un documento tenga que registrarse
 
 en más de una entidad federativa, se cobrará el
 
 50 % de los derechos por el servicio solicitado.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 12.- La escritura constitutiva de asociaciones de
 
@@ -3879,7 +3929,11 @@ civiles que no señalen capital social y cualquier
 
 modificación a las mismas, pagarán: N$ 120.00
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 13.- Por depósito de tratamiento Holográfico. N$ 120.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 14.- Los créditos hipotecarios o refaccionarios
 
@@ -3943,7 +3997,9 @@ establecida en el primer párrafo de este apartado.
 
 15.- Certificados de no propiedad para obtención
 
-de becas, N $ 10.00.
+de becas, N$ 10.00.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 16.- Certificados de no propiedad. N$ 40.00
 
@@ -3971,9 +4027,23 @@ punto se reducirá en un 75%.
 
 registrales, por persona N$ 15.00
 
-18.- Por la expedición de copias fotostáticas simples
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
-o certificadas. N$ 80.00
+18.- Por la expedición de copias fotostáticas:
+
+a).- Simples, hasta las primeras cinco páginas. N$ 15.00
+
+b).- Simples, por cada una de la páginas
+
+subsecuentes. N$ 2.00
+
+c).- Certificadas, hasta las primeras cinco páginas. N$ 83.00
+
+d).- Certificadas, por cada una de las páginas
+
+subsecuentes. N$ 10.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 19.- Por los servicios urgentes a petición del
 
@@ -3982,6 +4052,8 @@ usuario se causará un derecho adicional
 equivalente al 20 % sobre la cantidad fijada
 
 para el servicio que se solicita.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 20.- Por la cancelación de inscripción o
 
@@ -4009,6 +4081,8 @@ en el área geográfica de que se trate, la cuota se
 
 aplicará reducida en un 75%.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 21.- Por cada anotación marginal que se
 
 efectué al presentar cualquier documento
@@ -4035,11 +4109,17 @@ geográfica de que se trate, la cuota se aplicará
 
 reducida en un 75%.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 22.- Por anotación de segundo ejemplar cuando
 
 sea simultánea la inscripción del primer ejemplar. N$ 40.00
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 23.- Por registro de cédula hipotecaria se cobrará. N$ 80.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 24.- Ratificación de firmas por contratos privados
 
@@ -4070,6 +4150,32 @@ el salario mínimo general elevado al año, vigente en el
 que resulte por la prestación del servicio señalado en
 
 este punto, se reducirá en un 50%.
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+27.- Por el examen o calificación de todo tipo de
+
+documento público o privado que se presente a
+
+la oficina jurisdiccional de servicios registrales
+
+para su inscripción, anotación o cancelación,
+
+por su resolución judicial o administrativa cada
+
+vez que se presente. N$ 50.00
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+28.- Por el registro e inscripción de patentes, sellos
+
+y firmas de notarios públicos, corredores, fedatarios,
+
+acreditados o apoderados de instituciones bancarias,
+
+peritos valuadores, acreditados o apoderados,
+
+uniones de crédito y otros similares. N$ 1,500.00
 
 ###### Artículo 322.
 
@@ -4247,15 +4353,19 @@ Artículo 325 Bis C.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 Quedan sujetos a las siguientes cuotas:
 
-I.- Servicios prestados por la Tesorería General del estado respecto de:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+I.- Servicios Catastrales prestados por el Instituto Catastral y Registral del Estado de Sonora, respecto de:
 
 1.- Por copia simple de antecedentes catastrales
 
 y documentos de archivo, por cada hoja. N$ 20.00
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
 2.- Por certificación de copias de expedientes y
 
-documentos de archivos, por cada hoja. N$ 20.00
+documentos de archivo, catastrales, por cada hoja: N$ 20.00
 
 3.- Por expedición de certificados catastrales
 
@@ -4311,7 +4421,19 @@ por cada hoja. N$ 150.00
 
 escala convencional. N$ 100.00
 
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+15.- Por expedición de cartas geográficas para
+
+desarrollo, para uso particular, urbanas turísticas
+
+y de uso de suelo, por cada variante de información N$ 50.00
+
 El importe de las cuotas por la prestación de los anteriores servicios se reducirán en un 50 % cuando éstos sean solicitados por construcción o adquisición de vivienda.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+La información digitalizada que se produzca por el sistema estatal inmobiliario, podrá ser comercializada por el Instituto Catastral y Registral del Estado de Sonora, quien fijará las normas, medios y las bases de contratación.
 
 II.- Servicios Prestados por la Secretaría de Infraestructura Urbana y Ecología.
 
@@ -4812,3 +4934,13 @@ B.O. 8 DE JULIO DE 1993.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor en todo el Estado al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en todo el Estado el día 1º de enero de 1995, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
