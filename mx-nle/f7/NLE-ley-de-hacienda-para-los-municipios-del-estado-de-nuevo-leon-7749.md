@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2001-12-26"
+last_updated: "2002-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -93,9 +93,11 @@ IV.- Las demás autoridades municipales a quienes las leyes o los reglamentos, c
 
 La determinación, revisión, recaudación, control y administración de los ingresos fiscales de los Municipios corresponde a sus Autoridades Fiscales.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 10.
 
-Sólo mediante Ley podrá afectarse un Ingreso Fiscal a un fin especial.
+Sólo mediante acuerdo del Ayuntamiento podrá destinarse un Ingreso Fiscal a un fin especial.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -473,9 +475,9 @@ Si una parte de la edificación tiene un uso habitacional, la tasa a que se refi
 
 El Impuesto Predial se pagará a una tarifa única especial de 2 cuotas anuales, cuando se trate de los siguientes casos:
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-I.- Los Predios destinados a planteles escolares no oficiales donde se imparta enseñanza primaria, secundaria o universitaria, autorizada por el Gobierno Federal o Estatal y sometida a su vigilancia, siempre que el inmueble sea propio.
+I.- Los Predios destinados a planteles escolares no oficiales donde se imparta enseñanza obligatoria en los términos del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, autorizada por el Gobierno Federal o Estatal y sometida a su vigilancia, incluyendo los planteles que impartan enseñanza universitaria, siempre que el inmueble sea propio.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -535,9 +537,9 @@ c) Veteranos de la Revolución, en los términos del Decreto No. 71 expedido por
 
 d) Personas incapacitadas físicamente para trabajar.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de dos cuotas y media.
+e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de dos cuotas y media. En este caso únicamente se exigirá para acreditar este supuesto, la credencial o el documento expedido por Institución Oficial correspondiente y el recibo de ingresos respectivo.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
@@ -557,15 +559,15 @@ XI.- Los predios pertenecientes a las asociaciones religiosas, siempre que los m
 
 Los contribuyentes que soliciten la tarifa única especial a que se refiere este artículo, deberán estar al corriente en el pago del impuesto predial para ser considerados dentro de dicho beneficio. En los casos establecidos en las fracciones I, II, III, VII y IX, el Ayuntamiento, a propuesta del Presidente Municipal, podrá otorgar, si lo juzga conveniente, una bonificación de hasta un 50% en el monto del rezago de este impuesto, siempre y cuando el beneficiario acredite que tuvo derecho a gozar del citado beneficio durante el período del rezago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 21 Bis 10.
 
-Los sujetos que se encuentren en las hipótesis previstas en el artículo anterior, deberán acreditar su situación jurídica ante la Tesorería Municipal, mediante los elementos de prueba que ésta exija. Para efectos de la no-propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación.
+Los sujetos que se encuentren en las hipótesis previstas en el Artículo anterior, deberán acreditar su situación jurídica ante la Tesorería Municipal, mediante elementos de prueba que ésta exija. Para efectos de la no propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación. En los casos de solicitudes de tarifa especial donde el requisito sea que el valor del predio no exceda de una cantidad determinada, será a cargo de la propia Autoridad Municipal verificar el valor de acuerdo a sus archivos.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-El derecho a cubrir el Impuesto Predial a la tarifa establecida por dicho dispositivo, surtirá sus efectos a partir del bimestre siguiente a aquél en que se haya emitido la resolución que tenga por acreditada la situación jurídica particular del contribuyente, y subsistirá mientras se mantengan vigentes las condiciones que sirvieron para su otorgamiento.
+El derecho a cubrir el Impuesto Predial a la tarifa establecida por dicho dispositivo, surtirá sus efectos a partir del bimestre siguiente a aquél en que se haya presentado la solicitud con los requisitos necesarios para gozar de la misma, y siempre que se haya emitido la resolución que tenga por acreditada la situación jurídica particular del contribuyente, y subsistirá mientras se mantengan vigentes las condiciones que sirvieron para su otorgamiento.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -621,11 +623,11 @@ La autoridad fiscal municipal tendrá acción real para el cobro del Impuesto Pr
 
 En consecuencia, el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado afectará a los predios directamente, quienquiera que sea el propietario o poseedor. No quedan comprendidas en esta disposición las multas que se impongan cuando se incurra en infracciones al presente Capítulo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 21 Bis 15.
 
-Los Notarios Públicos, Jueces y demás funcionarios autorizados por la Ley para dar fe pública y autorizar en forma definitiva, escrituras en que se hagan constar contratos, convenios o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Estado, deberán exigir constancia de no adeudo, para cuyo efecto se deberá presentar el documento de pago correspondiente.
+Los Notarios Públicos, Jueces y demás funcionarios autorizados por la Ley para dar Fé Pública y autorizar en forma definitiva, escrituras en que se hagan constar contratos, convenios o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Estado, deberán exigir constancia de no adeudo, para cuyo efecto se deberá presentar el documento de pago correspondiente. A los fedatarios públicos que incumplan lo dispuesto anteriormente, se les impondrá una sanción de 100 a 150 cuotas.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -741,9 +743,9 @@ El Impuesto sobre adquisición de inmuebles se cubrirá a una tarifa única espe
 
 I.- En las adquisiciones hechas por instituciones de beneficencia privada, respecto de bienes destinados exclusivamente a sus fines.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-II.- En las adquisiciones hechas por instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación, por los bienes destinados exclusivamente a sus fines educativos.
+II.- En las adquisiciones hechas por instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación y de la Ley de Educación del Estado, por los bienes destinados exclusivamente a sus fines educativos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -817,9 +819,9 @@ XV.- En las adquisiciones realizadas por asociaciones religiosas, respecto de bi
 
 En cualquier tiempo en que la Tesorería Municipal advierta que los contribuyentes beneficiados en los términos de este Artículo, no hayan cumplido con cualesquiera de los requisitos que sirvieron de base para gozar de la tarifa especial, previa audiencia al interesado en la que se le otorgue un plazo no menor de 15 días hábiles para proporcionar pruebas y expresar alegatos, podrá revocar y cancelar las franquicias otorgadas. En este caso se procederá al cobro integro de las contribuciones no cubiertas bajo el amparo de la presente disposición, más sus respectivos accesorios.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-Para efectos de la no-propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación.
+Para efectos de la no-propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación, por lo que en caso de falsedad en la declaración manifestada, el interesado será acreedor a una sanción del 50% al 100% de la contribución omitida.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -860,6 +862,10 @@ XI.- En las adquisiciones, derechos o renta a cualquier plazo, de los lotes en l
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 XII.- La realizada a través de la celebración de poderes irrevocables para actos de dominio siempre y cuando el apoderado no lo ejerza en el término de 6 meses.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+XIII.- La adjudicación mediante laudo laboral.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
@@ -961,9 +967,11 @@ b) Se cedan los derechos hereditarios o al enajenarse bienes por la sucesión.
 
 c) Se realicen los supuestos de enajenación en los términos del Código Fiscal del Estado, tratándose de adquisiciones efectuadas a través de fideicomiso.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+d).- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2002)
 
-d) Cause ejecutoria la sentencia, en los casos de prescripción positiva, de adjudicaciones y daciones en pago. Cuando no se emita sentencia en los dos últimos casos, el término contará a partir de la fecha del convenio correspondiente.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+En los casos de prescripción positiva, de adjudicaciones y daciones en pago, el término será de 90 días naturales contados a partir de que cause ejecutoria la sentencia respectiva. Cuando no se emita sentencia en los dos últimos casos, dicho término contará a partir de la fecha del convenio correspondiente.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -1821,6 +1829,10 @@ Los derechos previstos en esta fracción, en ningún caso serán inferiores a 2.
 
 II.- Construcción o reconstrucción de banquetas en el sector urbanizado de la ciudad, cuando el trabajo se realice por el Municipio en razón de no haberla efectuado el obligado dentro del plazo de un mes siguiente al día en que surta efectos la notificación del requerimiento para que efectúe dichas obras. En este caso se pagarán los derechos correspondientes en función del costo real de la obra.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+III.- Por el permiso para la introducción subterránea de cualquier tipo de conductores en bienes de uso común, se cobrarán 5 cuotas por metro cuadrado o fracción.
+
 En materia de construcciones y urbanizaciones, no se cobrará derecho alguno por cualquier servicio prestado por la Autoridad Municipal, diverso a los señalados expresamente en esta Ley.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
@@ -2111,9 +2123,9 @@ Por inscripción al inicio de las actividades que se señalan, así como por el 
 
 I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 1,500 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 2,700 cuotas y con capacidad de más de 25,000 personas, 3,500 cuotas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 1,593 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 1,883 cuotas.
+II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 2,390 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 2,825 cuotas.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2599,9 +2611,9 @@ b) Recoger animales domésticos enfermos 0.50 cuotas
 
 En los servicios que por razones de orden público se vea obligado a prestar el Municipio debido al incumplimiento de una obligación fijada legalmente a cargo del particular, los derechos se fijarán en razón a su costo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-Cualquier otro servicio no incluido en esta Ley, que se encuentre establecido en otro ordenamiento legal, se fijarán igualmente los derechos correspondientes en razón a su costo.
+Cualquier otro servicio no incluido en esta Ley, que se encuentre establecido en otro ordenamiento, se fijarán igualmente los derechos correspondientes en razón a su costo.
 
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE PARRAFO, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
@@ -2651,7 +2663,9 @@ En ningún caso la cantidad a pagar por anuncio será inferior a 2.5 cuotas, ni 
 
 Este derecho se cubrirá anualmente, dentro del mes de Marzo de cada año, o en su caso, antes de la obtención de la licencia y de la instalación del anuncio.
 
-No estarán obligados al pago de este derecho por los anuncios ubicados en el establecimiento del contribuyente, destinados directamente a promocionar o anunciar el propio negocio.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+No causará el pago de este derecho los anuncios fijados en el establecimiento comercial del contribuyente, destinados a promocionar o anunciar el propio negocio. Si causarán el pago de este derecho los anuncios unipolares o bipolares de más de 12 metros cuadrados de exposición, destinados a promocionar o anunciar el propio negocio.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2675,9 +2689,13 @@ Están exentos del pago, a que se refiere el párrafo anterior, los partidos pol
 
 Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una ciudad, villa o congregación, deberán efectuar el desmonte, desherbe o limpieza de su inmueble, retirando la rama, basura o escombro, dos veces al año a más tardar en los meses de Marzo y Septiembre respectivamente.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-De no cumplirse con lo dispuesto en el párrafo anterior, el Municipio podrá efectuar el servicio de desmonte, desherbe o limpieza del predio baldío, según sea el caso; circunstancias en las cuales el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la autoridad municipal competente le impondrá una multa de uno a tres tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
+Independientemente de las fechas señaladas en el párrafo anterior, la Autoridad Municipal podrá requerir en cualquier momento al propietario o poseedor del predio baldío, para que realice la limpieza, desmonte y desherbe de su predio, cuando el mismo esté provocando condiciones de insalubridad o inseguridad.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+De no cumplirse con lo dispuesto en los dos párrafos anteriores, el Municipio podrá efectuar el servicio de desmonte, desherbe o limpieza del predio baldío, según sea el caso; circunstancias en las cuales el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la autoridad municipal competente le impondrá una multa de uno a tres tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2749,9 +2767,9 @@ f) Inmuebles que en promedio generen más de 100 kilogramos y hasta 200 kilogram
 
 g) Inmuebles que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, se cobrarán 48 cuotas más 0.50 cuotas por cada 5 kilogramos adicionales de basura o fracción que se generen.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-Estarán exentos del pago de esta contribución en los casos de casas-habitación, excepto cuando se trate de basura y desechos de jardín que excedan de 3 metros cúbicos, en cuyo caso se cubrirán por el excedente 2 cuotas por cada metro cúbico o fracción de materia recolectada, cuando en ellas no se realice algún acto de comercio, así como cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio.
+Estarán exentos del pago de esta contribución en los casos de casas-habitación, excepto cuando se trate de basura y desechos de jardín que excedan de 3 metros cúbicos, en cuyo caso se cubrirán por el excedente 2 cuotas por cada metro cúbico o fracción de materia recolectada, así como cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2808,6 +2826,10 @@ Dicha tarifa deberá pagarse de manera proporcional conforme los meses completos
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 IV.- Por estacionamientos de vehículos en la vía pública, en aquellos lugares donde existen instalados parquímetros, por cada hora o fracción, $2.50.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+Cuando los parquímetros estén instalados frente a casas-habitación, los habitantes de las mismas no deberán cubrir los derechos a que se refiere la fracción anterior, por el estacionamiento de sus vehículos, por lo que el Municipio deberá expedir las constancias necesarias para hacer efectiva esta exención, a favor de quienes acrediten encontrarse en los supuestos mencionados.
 
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
@@ -3504,3 +3526,17 @@ Para los efectos anteriores, se entenderá que el impuesto causado en el año 20
 Cuando el aumento de valor de un inmueble se deba a que se agregaron construcciones durante 2001, o el inmueble fue objeto de alguna modificación, ya sea por fusión, relotificaciones, rectificación de medidas entre otros, el cálculo de la desgravación se hará sin considerar el valor de dichas construcciones agregadas o modificaciones.
 
 Cuando los inmuebles a los que se les haya aplicado parcialmente la desgravación sean objeto de fraccionamiento, cesará la aplicación de la desgravación y deberá cubrirse el impuesto en los términos legales.
+
+P.O. 27 DE DICIEMBRE DE 2002.
+
+DECRETO NUMERO 303.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1° de Enero del año 2003.
+
+Artículo Segundo.- Cuando los inmuebles a los que se les haya aplicado parcialmente la desgravación señalada en el Artículo Quinto Transitorio del Decreto que reforma, adiciona y deroga diversas disposiciones de la Ley de Hacienda para los Municipios del Estado, vigente a partir del 1 de Enero de 2002, sean objeto de disminución del impuesto predial, cesará la aplicación de la desgravación y deberá cubrirse el impuesto en los términos legales.
+
+P.O. 27 DE DICIEMBRE DE 2002.
+
+DECRETO NUMERO 314.
+
+Artículo Primero.- Este Decreto entrará en vigor a partir del 1° de Enero de 2003.
