@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1974-12-31"
+last_updated: "1975-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE MARZO DE 1975 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 1975.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -274,13 +276,13 @@ Corresponde a la Nación el dominio directo de todos los recursos naturales de l
 
 Son propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fije (sic) Derecho Internacional; las aguas marinas interiores; las de las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar; las de los lagos interiores de formación natural que estén ligados directamente a corrientes constantes; las de los ríos y sus afluentes directos o indirectos, desde el punto del cauce en que se inicien las primeras aguas permanentes, intermitentes o torrenciales, hasta su desembocadura en el mar, lagos, lagunas o esteros de propiedad nacional; las de las corrientes constantes o interminentes (sic) y sus afluentes directos o indirectos, cuando el cauce de aquéllas en toda su extensión o en parte de ellas, sirva de límite al territorio nacional o a dos entidades federativas, o cuando pase de una entidad federativa a otra o cruce la línea divisoria de la República; la de los lagos, lagunas o esteros cuyos vasos, zonas o riberas, estén cruzadas por líneas divisorias de dos o más entidades o entre la República y un país vecino, o cuando el límite de las riberas sirva de lindero entre dos entidades federativas o a la República con un país vecino; las de los manantiales que broten en las playas, zonas marítimas, cauces, vasos o riberas de los lagos, lagunas o esteros de propiedad nacional, y las que se extraigan de las minas; y los cauces, lechos o riberas de los lagos y corrientes interiores en la extensión que fija la ley. Las aguas del subsuelo pueden ser libremente alumbradas mediante obras artificiales y apropiarse por el dueño del terreno, pero cuando lo exija el interés público o se afecten otros aprovechamientos; el Ejecutivo Federal podrá reglamentar su extracción y utilización y aún establecer zonas vedadas, al igual que para las demás aguas de propiedad nacional. Cualesquiera otras aguas no incluidas en la enumeración anterior, se considerarán como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, pero si se localizaren en dos o más predios, el aprovechamiento de estas aguas se considerará de utilidad pública, y quedará sujeto a las disposiciones que dicten los Estados.
 
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE FEBRERO DE 1975)</small>
 
-En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituídas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto; regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose del petróleo y de los carburos de hidrógeno sólido, líquidos o gaseosos, no se otorgarán concesiones ni contratos, ni subsistirán los que se hayan otorgado y la nación llevará a cabo la explotación de esos productos, en los términos que señale la ley reglamentaria respectiva.
+En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituidas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto, regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones, y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose del petróleo y de los carburos de hidrógeno sólidos, líquidos o gaseosos o de minerales radioactivos, no se otorgarán concesiones ni contratos, ni subsistirán los que en su caso se hayan otorgado y la Nación llevará a cabo la explotación de esos productos, en los términos que señale la Ley Reglamentaria respectiva. Corresponde exclusivamente a la Nación generar, conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público. En esta materia no se otorgarán concesiones a los particulares y la Nación aprovechará los bienes y recursos naturales que se requieran para dichos fines.
 
-(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1960) (F. DE E., D.O.F. 7 DE ENERO DE 1961)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE FEBRERO DE 1975)</small>
 
-Corresponde exclusivamente a la Nación, generar conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público. En esta materia no se otorgarán concesiones a los particulares y la Nación aprovechará los bienes y recursos naturales que se requieran para dichos fines.
+Corresponde también a la Nación el aprovechamiento de los combustibles nucleares para la generación de energía nuclear y la regulación de sus aplicaciones en otros propósitos. El uso de la energía nuclear sólo podrá tener fines pacíficos.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 1960)</small>
 
@@ -962,9 +964,9 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1947)</small>
+> <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 1975)</small>
 
-X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, juegos con apuestas y sorteos, instituciones de crédito y energía eléctrica, para establecer el Banco de Emisión Unico en los términos del artículo 28 de la Constitución y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución.
+X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, juegos con apuestas y sorteos, instituciones de crédito, energía eléctrica y nuclear, para establecer el Banco de Emisión Unico en los términos del artículo 28 y para expedir las leyes del trabajo reglamentarias del artículo 123.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1532,7 +1534,7 @@ Todas las controversias de que habla el artículo 103 se sujetarán a los proced
 
 I.- El juicio de amparo se seguirá siempre a instancia de parte agraviada.
 
-II.- La sentencia será siempre tal, que sólo se ocupe de individuos particulares, limitándose a ampararlos y protegerlos en el caso especial sobre el que verse la queja, sin hacer una declaración general respecto de la ley o acto qu-e la motivare.
+II.- La sentencia será siempre tal, que sólo se ocupe de individuos particulares, limitándose a ampararlos y protegerlos en el caso especial sobre el que verse la queja, sin hacer una declaración general respecto de la ley o acto que la motivare.
 
 Podrá suplirse la deficiencia de la queja, cuando el acto reclamado se funde en leyes declaradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia.
 
@@ -1852,6 +1854,8 @@ Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda 
 
 DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE MARZO DE 1975 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 ###### Art. 123.
@@ -1988,9 +1992,9 @@ XXIX.- Es de utilidad pública la Ley del Seguro Social, y ella comprenderá seg
 
 XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
-> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 6 DE FEBRERO DE 1975)</small>
 
-XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera, azucarera, minería, petroquímica, metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos, hidrocarburos, cemento, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el Gobierno Federal; empresas que actúen en virtud de un contrato o concesión federal y las industrias que le sean conexas; empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o más Entidades Federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa, y por último las obligaciones que en materia educativa corresponden a los patronos, en la forma y términos que fija la Ley respectiva.
+XXXI.- La aplicación de las leyes de trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera, azucarera, minería, petroquímica, metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos, hidrocarburos, cemento, industria automotriz, productos químicos farmacéuticos y medicamentos, celulosa y papel, aceites y grasas vegetales, empacado y enlatado de alimentos, bebidas envasadas, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el gobierno federal; empresas que actúan en virtud de un contrato o concesión federal y las industrias que sean conexas; empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que hayan sido declarados obligatorios en más de una entidad federativa, y por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y término que fija la ley respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
@@ -2640,7 +2644,7 @@ La adición al artículo 131 de la Constitución General de la República, entra
 
 D.O.F. 11 DE JUNIO DE 1951.
 
-La presente ley (sic) entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
+La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
 
 D.O.F. 16 DE ENERO DE 1952.
 
@@ -2909,3 +2913,27 @@ El presente decreto entrará en vigor el día de su publicación en el "Diario O
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 6 DE FEBRERO DE 1975.
+
+DECLARATORIA QUE ADICIONA LA FRACCION XXXI DEL APARTADO A, DEL ARTICULO 123.
+
+###### ARTICULO PRIMERO.
+
+Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los conflictos de naturaleza jurídica, individual o colectivos, los de naturaleza económica, los de procedimiento especial y los de huelga, que se susciten en las ramas incluidas en esta reforma y que se encuentren pendientes de solución, o se presenten ante los tribunales de jurisdicción local hasta el día de la publicación de este decreto, serán resueltos hasta su total terminación por los mismos.
+
+###### ARTICULO TERCERO.
+
+El día en que entre en vigor esta Ley, los conflictos en los diversos ramos a que se refiere esta reforma, serán resueltos por los tribunales federales del trabajo. En su oportunidad se promulgará y publicará la reforma correspondiente a la ley de la materia.
+
+D.O.F. 6 DE FEBRERO DE 1975.
+
+DECLARATORIA QUE ADICIONA EL PARRAFO SEXTO Y SEPTIMO DEL ARTICULO 27 Y LA FRACCION X DEL ARTICULO 73.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
