@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-colegio-de-estudios-cientificos-y-13790"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-06"
-last_updated: "1995-03-06"
+last_updated: "1998-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE CREA EL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 6 de marzo de 1995.
 
@@ -119,21 +119,23 @@ III.- Los Directores de Area; y
 
 IV.- Los Directores de Plantel.
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 6.
 
-La Junta Directiva será la máxima autoridad del Colegio y estará conformada de la siguiente manera:
+La Junta Directiva será la máxima autoridad del Colegio, y estará conformada de la siguiente manera:
 
-I.- El Gobernador del Estado, o quien éste designe.
+I.- Dos representantes del Gobierno del Estado designados por el Ejecutivo uno de los cuales presidirá la Junta Directiva.
 
-II.- El Secretario General de Gobierno.
+II.- Dos representantes del Gobierno Federal designados por el Secretario de Educación Pública.
 
-III.- El Secretario de Educación.
+III.- Un representante del Sector Social designado por la Junta Directiva a propuesta del Gobierno del Estado.
 
-IV. Dos representantes de la sociedad civil, designados por el Gobernador del Estado.
+IV.- Dos representantes del Sector Productivo que participen en el financiamiento del Colegio de Estudios Científicos y Tecnológicos del Estado, mediante un patronato constituido para apoyar la operación del mismo.
 
-V.- Dos representantes del patronato constituido para apoyar la operación del mismo, los cuales serán designados por el propio patronato conforme a su normatividad, y
+Estos representantes serán designados por el propio patronato de conformidad con sus estatutos.
 
-VI.- Un Secretario de Actas, nombrado por el Secretario General de Gobierno.
+V.- El Comisario del Sector Educación del Estado será invitado permanente de la Junta Directiva con voz pero sin voto.
 
 ###### ARTICULO 7.
 
@@ -312,3 +314,9 @@ ING. FEDERICO GRANJA RICALDE
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ALVARO LOPEZ SOBERANIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 22 DE DICIEMBRE DE 1998.
+
+UNICO.- este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado y deroga todas las disposiciones legales a que a él se opongan.
