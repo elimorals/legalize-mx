@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-del-estado-de-oaxaca-19106"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2001-12-30"
+last_updated: "2002-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre del 2000.
 
@@ -357,13 +357,17 @@ DE LOS SUJETOS
 
 Son sujetos obligados al pago del impuesto que establece este capítulo, las personas físicas y morales que dentro del Estado de Oaxaca, reciban los servicios señalados en el artículo anterior.
 
-Para estos efectos, el prestador del servicio trasladara y retendrá el impuesto causado.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LA BASE
 
 ###### ARTICULO 29.
 
 La base para el cálculo y determinación del impuesto, será el importe que se pague en efectivo, bienes o servicios, como valor de la prestación de los servicios de hospedaje, incluyendo los anticipos, depósitos, intereses normales o moratorios, penas convencionales o cualquier otra cantidad que se cobre por la prestación de dichos servicios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+No formará parte de la base del impuesto del importe de los pagos efectuados por concepto de alimentación y demás distintos a los de hospedaje, así como en ningún caso se considerará que el importe del Impuesto al Valor Agregado forma parte de la base de este impuesto.
 
 DE LA TASA
 
@@ -375,31 +379,27 @@ El impuesto se calculará y determinará aplicando a la base referida en el art�
 
 DEL PAGO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 31.
 
-El impuesto a que se refiere el presente capítulo, se causará por ejercicios fiscales, los que se computarán del 1° de enero al 31 de diciembre de cada año, a excepción del de inicio de actividades u operaciones, el de liquidación o el que resulte con motivo de la fusión, escisión o suspensión de actividades, según el caso.
+Los sujetos obligados de este impuesto deberán pagarlo en el momento de liquidar el importe de los servicios de hospedaje.
 
-El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración ante la Oficina Recaudadora que corresponda al domicilio del prestador del servicio o retenedor dentro de los tres meses siguientes al cierre del ejercicio.
+Los prestadores de los servicios a que hace referencia el artículo 27 de esta Ley deberán retener dicho impuesto al momento de hacer efectivo los importes señalados en el artículo 29 del mismo ordenamiento y enterarlo a la Secretaría de Finanzas con base en lo dispuesto por el artículo 33 de la presente Ley.
 
 ###### ARTICULO 32.
 
-A cuenta del impuesto anual, los retenedores presentarán declaración de pago provisional, conforme a lo siguiente:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2002)
 
-I.- En forma mensual, cuando los ingresos por concepto de los servicios a que refiere el presente capitulo, correspondientes al ejercicio inmediato anterior, hubieren rebasado la cantidad de siete millones de pesos.
-
-II.- En forma trimestral, cuando los ingresos por concepto de los servicios a que refiere el presente capítulo, correspondientes al ejercicio inmediato anterior, no hubieren rebasado la cantidad de siete millones de pesos.
-
-III.- Las declaraciones a que se contrae el presente artículo, se presentarán dentro de los plazos siguientes:
-
-a).- Las personas morales, a más tardar el día 17 del mes siguiente al período al que corresponda el pago.
-
-b).- Las personas físicas, a más tardar el día 19 del mes siguiente al período al que corresponda el pago.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 33.
 
-De las demás obligaciones de los prestadores del servicio de hospedaje:
+Los retenedores de este impuesto tendrán las siguientes obligaciones:
 
-I.- Presentar ante la Secretaría de Finanzas del Gobierno del Estado de Oaxaca a través de la Dirección de Ingresos o ante la Oficina Recaudadora correspondiente al domicilio fiscal, cuando así proceda, los siguientes avisos:
+I.- Enterar el importe del mismo mediante declaración bimestral definitiva a más tardar el día 17 de los meses de marzo; mayo; julio; septiembre; noviembre; y, enero del siguiente año, mediante las formas aprobadas por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca y ante las oficinas autorizadas por la propia Secretaría de Finanzas.
+
+II.- Presentar ante la Secretaría de Finanzas del Gobierno del Estado de Oaxaca a través de la Dirección de Ingresos o ante la Oficina Recaudadora correspondiente al domicilio fiscal, cuando así proceda, los siguientes avisos:
 
 a).- De inscripción al padrón de contribuyentes.
 
@@ -407,19 +407,13 @@ b).- Cambio de nombre, denominación o razón social.
 
 c).- Cambio de domicilio.
 
-d).- Fusión, escisión, liquidación o transformación de personas morales.
+d).- De fusión, escisión, liquidación o transformación de personas morales.
 
-e).- Suspensión o reanudación de actividades u operaciones o de cualquier otra circunstancia que modifique los datos aportados en el documento de empadronamiento, dentro de los plazos establecidos en el artículo 33 del Código Fiscal del Estado.
+e).- De suspensión o reanudación de actividades u operaciones o de cualquier otra circunstancia que modifique los datos aportados en el documento de empadronamiento, dentro de los plazos establecidos en el artículo 47 del Código Fiscal para el Estado de Oaxaca.
 
 Dichos avisos se presentarán en los formatos que al efecto emita la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
-II.- Llevar la contabilidad de sus operaciones, en los registros, forma y términos fijados por la legislación federal, en atención al régimen fiscal que de acuerdo a ésta, les corresponda.
-
-Cuando en términos de la legislación federal no se estuviere obligado a llevar contabilidad, deberán registrar el total de sus operaciones, de modo que permitan conocer con exactitud, el monto total de sus ingresos, fecha de éstos e impuestos causados, así como de los pagos que en cumplimiento a este capítulo realicen.
-
-III.- Trasladar y retener, al momento del cobro de los servicios, el impuesto que se hubiere causado.
-
-El padrón de contribuyentes estará a cargo de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, el cual se conformará con la clave del Registro Federal de Contribuyentes que asigne la Secretaría de Hacienda y Crédito Público a los contribuyentes de Impuestos Federales.
+III.- Llevar el sistema de registros contables de sus operaciones de conformidad con el Código Fiscal para el Estado de Oaxaca.
 
 ###### ARTICULO 34.
 
@@ -451,31 +445,43 @@ A los ingresos brutos que se determinen con base en los procedimientos anteriore
 
 ###### ARTICULO 36.
 
-No se considerará que forma parte del importe de los servicios, los rubros correspondientes al de alimentación y demás servicios distintos al hospedaje, ni se considerará que el importe del Impuesto al Valor Agregado forma parte de la base.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2002)
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO VI. IMPUESTOS SOBRE NOMINAS
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+DE LOS SUJETOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 36 A.- Están obligados al pago del impuesto sobre nóminas las personas físicas o morales y las unidades económicas sin personalidad jurídica que efectúen erogaciones por remuneración al trabajo de persona subordinada por los servicios prestados dentro del territorio del Estado de Oaxaca, bajo la dirección o dependencia de un patrón o de un tercero aún cuando éstos tengan su domicilio fuera del Estado.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DEL OBJETO
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 36 A.- Es objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, por los servicios prestados dentro del territorio y del Estado de Oaxaca, bajo la dirección o dependencia de un patrón o de un tercero que actúe en su nombre, aún cuando éstos tengan su domicilio fuera del Estado.
+ARTICULO 36 B.- Constituye el objeto de este impuesto, las erogaciones, en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, incluyendo los pagos por concepto de cuota diaria, gratificaciones, percepciones, habitación, primas, comisiones, y cualquier prestación que se entregue al trabajador por su trabajo.
 
-Para los efectos de este impuesto, quedan comprendidas en el concepto de remuneraciones al trabajo personal subordinado los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se entregue al trabajador por sus servicios.
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-No se tomarán en cuenta para el calculo de este impuesto, dada su naturaleza, los siguientes conceptos:
+DE LAS EXCEPCIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 36 C.- No se tomarán en cuenta para el cálculo de este impuesto, dada su naturaleza, los siguientes conceptos:
 
 I.- Los instrumentos de trabajo tales como las herramientas, ropa y otros similares;
 
-II.- El ahorro cuando se integre por un depósito de cantidad igual del trabajador y de la empresa, pero si se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, formará parte de la base de este impuesto;
+II.- El ahorro cuando se integre por un, depósito de cantidad igual del trabajador y de la empresa, pero si se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, formará parte de la base de este impuesto;
 
 III.- Las cantidades otorgadas por el patrón para fines sociales de carácter sindical;
 
-IV.- Las aportaciones adicionales que el patrón otorgue a favor de sus trabajadores por concepto de cuotas del seguro de retiro, cesantía en edad avanzada y vejez;
+IV.- Las aportaciones adicionales que el patrón otorgue a favor de sus trabajadores por concepto de retiro, cesantía en edad avanzada y vejez;
 
 V.- Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y las participaciones en las utilidades de las empresas;
 
@@ -485,45 +491,31 @@ VII.- Los premios por asistencia y puntualidad;
 
 VIII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán solo los que reúnan los requisitos que establezca la Secretaría de Hacienda y Crédito Público;
 
-IX.- Los pagos por tiempo extraordinario cuando éste no rebase tres horas diarias ni tres veces por semana de trabajo. El pago excedente formará parte de la base gravable;
+IX.- Los pagos por tiempo extraordinario cuando éste no rebase tres horas diarias ni tres veces por semana de trabajo. El pago excedente por este concepto formará parte de la base gravable;
 
-X.- Los gastos funerarios; y
+X.- Los gastos funerarios; y,
 
-XI.- Las prestaciones de previsión social tales como: subsidios por incapacidad, becas educacionales para los trabajadores o sus hijos, guarderías infantiles, actividades culturales y deportivas y otras prestaciones de previsión social de naturaleza análoga que se concedan de manera general, de acuerdo con las leyes o por contratos de trabajo. Lo anterior procederá en los términos que al efecto define el último párrafo del artículo 77, de la Ley del Impuesto sobre la Renta.
+XI.- Las prestaciones de previsión social tales como: subsidios por incapacidad, becas educacionales para los trabajadores o sus hijos, guarderías infantiles, actividades culturales y deportivas y otras prestaciones de previsión social de naturaleza análoga que se concedan de manera general, de acuerdo con las leyes o por contratos de trabajo. Lo anterior procederá en los términos que al efecto define el último párrafo del artículo 109, de la Ley del Impuesto Sobre la Renta.
 
 Para que los conceptos mencionados en este precepto se excluyan como integrantes de la base de este impuesto, deberán estar registrados en la contabilidad del sujeto obligado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
-
-DE LOS SUJETOS
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
-
-ARTICULO 36 B.- Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que efectúen remuneraciones al personal subordinado que presten sus servicios dentro del territorio del Estado de Oaxaca en los términos del artículo anterior.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LA BASE
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 36 C.- Es base de este impuesto el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado, aún cuando no excedan del salario mínimo.
+ARTICULO 36 D.- Es base gravable de este impuesto, el monto total de las erogaciones realizadas conforme al artículo 36 B, sin deducción alguna aún cuando no excedan el salario mínimo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-DE LA TASA
+DE LA TASA Y EPOCA DE PAGO
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 36 D.- El impuesto se calculará y determinará aplicando a la base referida en el artículo que antecede, la tasa que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca para el ejercicio fiscal que corresponda.
+ARTICULO 36 E.- El impuesto establecido en este capítulo se determinará aplicando a la base gravable, la tasa que mediante la Ley de Ingresos del Estado de Oaxaca fije anualmente el Congreso del Estado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
-
-DEL PAGO
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
-
-ARTICULO 36 E.- Este impuesto se causará en el momento en que se realice el pago de las remuneraciones por la prestación del trabajo personal subordinado, y se pagará mediante declaración bimestral en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca que corresponda al domicilio fiscal del sujeto obligado, dentro de los primeros 15 días de los meses de marzo; mayo; julio; septiembre; noviembre; y, enero del siguiente año.
+Este impuesto se causará en el momento en que se realice el pago de las remuneraciones por la prestación del trabajo personal subordinado, y se pagará mediante declaración bimestral en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca que corresponda al domicilio fiscal del sujeto obligado, dentro de los primeros 17 días de los meses de marzo; mayo; julio; septiembre; noviembre; y, enero del siguiente año.
 
 Las personas físicas, morales o unidades económicas sin personalidad jurídica, considerarán como definitivos los pagos que por concepto de este impuesto se realicen durante el ejercicio fiscal.
 
@@ -531,33 +523,13 @@ Las personas físicas o morales presentarán sus declaraciones o avisos de las a
 
 Los sujetos obligados que deban de presentar declaraciones periódicas de conformidad con las leyes fiscales estatales, las seguirán presentando aún cuando no haya pago a efectuar en tanto no presente los avisos que correspondan.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
-
-DE LAS OBLIGACIONES
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
-
-ARTICULO 36 F.- Los sujetos obligados al pago de este impuesto tendrán a su cargo, además de las que específicamente se consignan en este ordenamiento, las siguientes obligaciones:
-
-I.- Registrarse en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, que corresponda a su domicilio fiscal, dentro del mes siguiente a la fecha de inicio de sus operaciones, en las formas oficiales autorizadas por la Secretaría de Finanzas;
-
-II.- Tratándose de personas físicas, morales. Las personas físicas, morales o unidades económicas sin personalidad jurídica, cuyo domicilio fiscal y establecimientos se encuentren ubicados en el territorio del Estado de Oaxaca, deberán presentar una sola declaración en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, correspondiente a su domicilio fiscal, acumulando los pagos por la prestación de un servicio personal subordinado que efectúen tanto en el domicilio fiscal como en sus establecimientos;
-
-III.- Cuando el domicilio fiscal de las personas físicas, morales o unidades económicas sin personalidad jurídica, se encuentre ubicado fuera del territorio del Estado de Oaxaca, los establecimientos que realicen operaciones dentro de dicho territorio y realicen pagos por la prestación de un servicio personal subordinado, deberán de presentar una sola declaración en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, en razón del domicilio fiscal que al efecto manifiesten ante la Secretaría de Finanzas, para realizar el pago respectivo, acumulando los pagos por la prestación de un servicio personal subordinado que realicen en cada uno de los establecimientos;
-
-IV.- Llevar el sistema de registros contables de conformidad con el Código Fiscal para el Estado de Oaxaca; y
-
-V.- Las personas físicas, morales o unidades económicas sin personalidad jurídica, que no cuenten con trabajadores al inicio de la vigencia de esta ley o posteriormente rescindan la relación de trabajo, presentarán las declaraciones aún cuando no haya cantidad a pagar, en tanto no presenten el aviso correspondiente.
-
-Para los efectos de esta ley se considera establecimiento cualquier lugar de negocios en el que se desarrollen parcial o totalmente actividades empresariales, se presten servicios independientes, o se otorgue el uso o goce temporal de bienes. Se entenderá como establecimiento, entre otros, las sucursales, agencias, oficinas, despachos, fábricas, talleres, instalaciones, minas, canteras o cualquier lugar de exploración, extracción o explotación de recursos naturales, incluyendo bodegas o cualquier lugar en que tenga trabajadores a su servicio.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DE LAS EXENCIONES
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 36 G.- Están exentos del pago de este impuesto, el Estado y los Municipios, así como:
+ARTICULO 36 F.- Están exentos del pago de este impuesto, el Estado y los Municipios, así como:
 
 I.- Los ejidos y comunidades;
 
@@ -569,25 +541,45 @@ IV.- Las unidades agrícolas industriales de la mujer campesina;
 
 V.- Las personas morales con fines no lucrativos siguientes:
 
-a).- Sindicatos obreros y los organismos que los agrupen;
+a) Sindicatos obreros y los organismos que los agrupen;
 
-b).- Asociaciones patronales;
+b) Asociaciones patronales;
 
-c).- Cámaras de comercio, industria, agricultura, ganadería o pesca, así como los organismos que las agrupen;
+c) Cámaras de Comercio, Industria, Agricultura, Ganadería o Pesca, así como los organismos que las agrupen;
 
-d).- Colegios de profesionales y los organismos que los agrupen;
+d) Colegios de profesionales y los organismos que los agrupen;
 
-e).- Instituciones de asistencia o de beneficencia autorizadas por las leyes de la materia;
+e) Instituciones de asistencia o de beneficencia autorizadas por las leyes de la materia;
 
-f).- Sociedades cooperativas de consumo o de producción;
+f) Sociedades cooperativas de consumo o de producción;
 
-g).- Organismos que conforme a la ley agrupen a las sociedades cooperativas ya sean de productores o de consumo;
+g) Organismos que conforme a la Ley agrupen a las sociedades cooperativas ya sean de productores o de consumo;
 
-h).- Sociedades o asociaciones civiles que se dediquen a la enseñanza sin fines de lucro con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación;
+h) Sociedades o asociaciones civiles que se dediquen a la enseñanza sin fines de lucro con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación;
 
-i).- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos y culturales o deportivos; y
+i) Asociaciones o sociedades civiles organizadas con fines científicos políticos, religiosos y culturales o deportivos; y,
 
-j).- Asociaciones de padres de familia constituidas y registradas en los términos del Reglamento de Asociaciones de Padres de Familia de la Ley General de Educación.
+j) Asociaciones de padres de familia constituidas y registradas en los términos del Reglamento de Asociaciones de Padres de Familia de la Ley General de Educación.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+DE LAS OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 36 G.- Los sujetos obligados al pago de este impuesto tendrán a su cargo, además de las que específicamente se consignan en este ordenamiento, las siguientes obligaciones:
+
+I. Registrarse en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, que corresponda a su domicilio fiscal, dentro del mes siguiente a la fecha de inicio de sus operaciones, en las formas oficiales autorizadas por la Secretaría de Finanzas.
+
+II.- Las personas físicas, morales o unidades económicas sin personalidad jurídica, cuyo domicilio fiscal y establecimientos se encuentren ubicados en el territorio del Estado de Oaxaca, deberán presentar una sola declaración en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, correspondiente a su domicilio fiscal, acumulando los pagos por la prestación de un servicio personal subordinado que efectúen tanto en el domicilio fiscal como en sus establecimientos.
+
+III.- Cuando el domicilio fiscal de las personas físicas, morales o unidades económicas sin personalidad jurídica, se encuentre ubicado fuera del territorio del Estado de Oaxaca, los establecimientos que realicen operaciones dentro de dicho territorio y realicen pagos por la prestación de un servicio personal subordinado, deberán de presentar una sola declaración en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, en razón del domicilio fiscal que al efecto manifiesten ante la Secretaría de Finanzas, para realizar el pago respectivo, acumulando los pagos por la prestación de un servicio personal subordinado que realicen en cada uno de los establecimientos;
+
+IV.- Llevar el sistema de registros contables de conformidad con el Código Fiscal para el Estado de Oaxaca; y,
+
+V.- Las personas físicas, morales o unidades económicas sin personalidad jurídica, presentarán las declaraciones aún cuando no haya cantidad a pagar, en tanto no presenten el aviso correspondiente.
+
+Para los efectos de esta Ley se considera establecimiento cualquier lugar de negocios en el que se desarrollen parcial o totalmente actividades empresariales, se presten servicios independientes, o se otorgue el uso o goce temporal de bienes. Se entenderá como establecimiento entre otros, las sucursales, agencias, oficinas, despachos, fábricas, talleres, instalaciones, minas, canteras, o cualquier lugar de exploración, extracción o explotación de recursos naturales, incluyendo bodegas o cualquier lugar en que el sujeto obligado tenga trabajadores a su servicio.
 
 ### CAPITULO I. DE LOS ACTOS DEL REGISTRO CIVIL
 
@@ -898,3 +890,7 @@ P.O. 30 DE DICIEMBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2002, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- En lo que se refiere al Impuesto sobre Nóminas y tratándose de personas físicas o morales que se encuentren operando con anterioridad a la entrada en vigor del mismo, deberán registrarse dentro del mes siguiente al inicio de la vigencia de este Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2002.
+
+UNICO.- El presente decreto entrará en vigor a partir del día 1 de enero del año 2003, previa publicación en el Periódico Oficial del Gobierno del Estado.
