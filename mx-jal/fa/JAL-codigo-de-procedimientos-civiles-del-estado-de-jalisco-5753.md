@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1983-12-17"
+last_updated: "1985-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1985.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -4480,7 +4480,7 @@ Cuando la sentencia decrete la demolición de la obra peligrosa, el Juez dispond
 
 De la Modificación de las Actas del Estado Civil.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1985)</small>
 
 ## TITULO DECIMO TERCERO.
 
@@ -4690,9 +4690,9 @@ Disposiciones Generales.
 
 ###### ARTICULO 758.
 
-Los interesados que se encuentre en el supuesto previsto por la parte final del artículo 123 del Código Civil, presentarán ante el Juez que corresponda su solicitud acompañada de la copia certificada del acta en la que se pretenda hacer alguna testadura. El Juez examinará la solicitud y, si la encuentra procedente, ordenará, sin más trámite, que se testen las menciones prohibidas, tanto en el libro original como en el duplicado, girando, para esos efectos, sendos oficios al Oficial del Registro Civil y al Titular del Archivo General del Estado.
+Los interesados que se encuentren en el supuesto previsto en la última parte de Art. 123 del Código Civil, presentarán ante el Juez que corresponda su solicitud, acompañada del acta en la que se pretenda hacer la testadura o aclaración. El Juez examinará la solicitud y, si la encuentra procedente ordenará sin más tramite, que se testen las mencionadas prohibidas o aclaraciones, en su caso, tanto en el mismo original como en el duplicado, girando, para esos efectos, sendos oficios al Oficial del Registro Civil y al Titular del Archivo General del Estado.
 
-Los juicios sobre nulificación, convalidación, reposición o rectificación de las actas del Registro Civil, se tramitarán conforme a las reglas de los ordinarios, y a las especiales siguientes.
+Los juicios sobre nulificación, convalidación, reposición o rectificación, de las actas del Registro Civil, se tramitarán conforme a las reglas de los ordinarios, y a las especiales siguientes.
 
 ###### ARTICULO 759.
 
@@ -6821,3 +6821,7 @@ UNICO.- Esta Ley entrará en vigor un día después de su publicación en el Per
 P.O. 17 DE DICIEMBRE DE 1983.
 
 Unico. La reforma al artículo de referencia empezará a regir el día de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 17 DE ENERO DE 1985.
+
+Artículo Primero. Este Decreto entrará en vigor el día 1.° (sic) de Febrero de 1985, previa su publicación en el Periódico Oficial El Estado de Jalisco.
