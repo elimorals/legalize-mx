@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-civil-para-el-distrito-federal-25387"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-23"
-last_updated: "2002-07-23"
+last_updated: "2003-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25387&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-05-07"
 
 LEY DE PROTECCION CIVIL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE ENERO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de julio de 2002.
 
@@ -202,15 +202,19 @@ II.- Instalar y operar la Unidad de Protección Civil que coordinará las accion
 
 III.- Formular y ejecutar el Programa Delegacional de Protección Civil;
 
-IV. - Vigila r, inspeccionar y, en su caso, a través de la Subdelegación Jurídica y de Gobierno, sancionar las infracciones cometidas a la presente Ley;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2003)</small>
+
+IV.- Vigilar, inspeccionar y, en su caso, a través de las Direcciones Generales Jurídica y de Gobierno, sancionar las infracciones cometidas a la presente Ley;
 
 V.- Recibir, evaluar y, en su caso aprobar los Programas Internos y Especiales que presenten los respectivos obligados, que no correspondan a lo especificado en las atribuciones de la Dirección; y,
 
 VI.- Las demás que determine esta Ley y su reglamento.
 
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
+
 ###### Artículo 8.
 
-La Dirección General tendrá a su cargo la organización, coordinación y operación del Sistema de Protección Civil del Distrito Federal, dependerá del Jefe de Gobierno, a través de la Secretaría de Gobierno; sus acciones se apoyarán en el Consejo.
+La Dirección General tendrá a su cargo la organización y operación del Sistema de Protección Civil del Distrito Federal, dependerá del Jefe de Gobierno a través de la Secretaría; sus acciones se apoyarán en el Consejo de Protección Civil.
 
 ###### Articulo 9.
 
@@ -226,7 +230,11 @@ IV. - Fomentar la participación de los integrantes del Consejo en acciones enca
 
 V.- Establecer los planes y programas básicos de atención, auxilio y apoyo al restablecimiento de la normalidad, frente a los desastres provocados por los diferentes tipos de agentes perturbadores; y,
 
-VI.- Las demás que la presente ley, así como otras disposiciones le asignen.
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2003)</small>
+
+VI.- Elaborar las normas técnicas complementarias y términos de referencia en materia de protección civil; y,
+
+VII.- Las demás que la presente ley, así como otras disposiciones le asignen.
 
 ###### Artículo 10.
 
@@ -252,7 +260,9 @@ VI. El diseño, construcción, operación y mantenimiento de los sistemas estrat
 
 VII. Quienes realicen actividades que incrementen el nivel de riesgo, tienen el deber de observar las normas de seguridad y de informar veraz, precisa y oportunamente a la autoridad sobre la inminencia u ocurrencia de una calamidad y, en su caso, de asumir las responsabilidades legales a que haya lugar;
 
-VIII. Cuando las autoridades realicen actividades que incrementen el nivel de riesgo deberán dar cumplimiento a lo dispuesto en la fracción anterior, además de hacerlo del conocimiento de la comunidad en forma oportuna y veraz; y,
+VIII. Cuando las autoridades realicen actividades que incrementen el nivel de riesgo deberán dar cumplimiento a lo
+
+dispuesto en la fracción anterior, además de hacerlo del conocimiento de la comunidad en forma oportuna y veraz; y,
 
 IX. La participación corresponsable de la sociedad es fundamental en la formulación de la política de protección civil, la aplicación y evaluación de sus instrumentos, en acciones de información y vigilancia y en todo tipo de acciones de protección civil que emprenda la Administración Pública del Distrito Federal.
 
@@ -356,7 +366,9 @@ II.- El Secretario de Gobierno, quien fungirá como Secretario Ejecutivo del Con
 
 III.- El Director General de Protección Civil, quien será el Secretario Técnico;
 
-IV.- El Director General de Comunicación Social; quién será el Vocal Ejecutivo;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2003)</small>
+
+IV. - El Director General de Comunicación Social; quien será el Coordinador Informativo y de Enlace;
 
 V.- Los Jefes Delegacionales del Distrito Federal;
 
@@ -392,7 +404,9 @@ VI.- Determinar la problemática de protección civil y proponer el orden de pri
 
 VII.- Integrar comisiones y emitir recomendaciones para el cumplimiento de esta Ley y demás disposiciones aplicables;
 
-VIII.- Con base en la información proporcionada por el Sistema de Protección Civil, elaborar y proponer normas técnicas complementarias y términos de referencia en materia de protección civil;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2003)</small>
+
+VIII.- Con base en la información proporcionada por el Sistema de Protección Civil, proponer normas técnicas complementarias y términos de referencia en materia de protección civil;
 
 IX .- Vigilar la adecuada racionalización, uso y destino de los recursos que se asignen a la prevención, auxilio y apoyo a la población en caso de siniestro o desastre, así como establecer acciones encaminadas a la creación de un Fondo de recursos orientados al fomento de la prevención y cultura de la Protección Civil en términos del artículo 94 de esta ley;
 
@@ -400,7 +414,9 @@ X.- Dar difusión pública a esta Ley, a su reglamento, a las normas técnicas c
 
 XI.- Proponer la celebración de convenios de coordinación con la Federación y los Estados, para realizar programas de protección civil;
 
-XII.- Aprobar y evaluar el Programa General de Protección Civil;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2003)</small>
+
+XII.- Evaluar y aprobar los principios rectores del Sistema y Programa General de Protección Civil;
 
 XIII.- Coordinar la ejecución del Programa General de Protección Civil, promoviendo las acciones que se requieran con los Órganos Legislativo y Judicial, así como con las autoridades del Distrito Federal, zona conurbada y con las organizaciones voluntarias, privadas y sociales;
 
@@ -630,7 +646,9 @@ I. Definir a los responsables de la evaluación, vigilancia y cumplimiento del p
 
 II. Las medidas de prevención aplicables por tipo de riesgo;
 
-III. Las actividades de prevención en sistemas vitales, en al menos:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE ENERO DE 2003)</small>
+
+III.- Las actividades de prevención en sistemas vitales, espacios sociales, deportivos y empresariales en al menos:
 
 a. Abasto;
 
@@ -700,13 +718,15 @@ Los propietarios o poseedores de inmuebles destinados a vivienda plurifamiliar y
 
 En el caso de las Unidades Habitacionales los administradores, serán los encargados de implantar un Programa Interno.
 
-Las unidades habitacionales con menos de 100 viviendas podrán solicitar asesoramiento en la Unidad Delegacional para la elaboración de dicho programa y en aquellas que el número de viviendas sea mayor corresponde a la Dirección su asesoramiento.
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
 
-###### Artículo 47.
+Las unidades habitacionales podrán solicitar asesoramiento en la Unidad Delegacional de Protección Civil para la elaboración de dicho programa.
 
-Los administradores, gerentes o propietarios de inmuebles que de acuerdo a la naturaleza de su giro y actividad que realiza y a lo establecido por el reglamento, sea considerado de alto riesgo, estarán obligados a elaborar un Programa Interno de Protección Civil asesorados por la Dirección.
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
 
-Aquellos de medio y bajo riesgo serán asesorados para la elaboración de su programa por la unidad delegacional de protección civil.
+###### Articulo 47.
+
+Los administradores, gerentes o propietarios de inmuebles que de acuerdo a la naturaleza de su giro y actividad que realiza y a lo establecido por el reglamento, sean considerados de alto, mediano o bajo riesgo, estarán obligados a elaborar un Programa Interno de Protección Civil asesorados por la Unidad Delegacional de Protección Civil correspondiente.
 
 ###### Artículo 48.
 
@@ -716,7 +736,7 @@ El Programa Interno a que se refiere el artículo anterior, deberá adecuarse a 
 
 Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que de acuerdo a su actividad representen mediano o alto riesgo, están obligados a realizar simulacros por lo menos una vez al año, en coordinación con las autoridades competentes.
 
-Para el efecto del presente artículo, se considerarán los simulacros que en los términos de la legislación laboral esté obligado a realizar.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 23 DE ENERO DE 2003)</small>
 
 ###### Artículo 50.
 
@@ -736,7 +756,9 @@ Los dueños de industrias que se encuentren cercanas a un núcleo poblacional, p
 
 Los Comités de Ayuda Mutua podrán:
 
-I.- Establecer medidas generales de seguridad así como programas internos y externos de protección civil, que deberán ser sometidos a la aprobación de la Secretaría de Gobierno;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2003)</small>
+
+I.- Establecer medidas generales de seguridad así como programas internos y externos de protección civil, que deberán ser sometidos a la aprobación de la Unidad Delegacional de Protección Civil;
 
 II.- Recibir capacitación en los términos enunciados por la presente Ley;
 
@@ -768,7 +790,9 @@ VII. Los reglamentos en materia de Protección Civil;
 
 VIII. Las publicaciones, grabaciones y todo aquel material magnético, impreso, audiovisual-auditivo, cuyo objeto coadyuve a las acciones en materia de protección civil; y
 
-En general todo aquel material impreso, magnético o audiovisual, que tenga por objeto la difusión y divulgación de la cultura de protección civil.
+> <small>(REFORMADA, 23 DE ENERO DE 2003)</small>
+
+IX.- En general todo aquel material impreso, magnético o audiovisual, que tenga por objeto la difusión y divulgación de la cultura de protección civil.
 
 ### CAPÍTULO II. DE LA OPERACIÓN Y COORDINACIÓN EN CASO DE EMERGENCIA O DESASTRE
 
@@ -808,7 +832,9 @@ VII. La apertura o cierre de refugios temporales;
 
 VIII. La coordinación de los servicios asistenciales, y
 
-La determinación de las acciones que deberán ejecutar las diferentes áreas de la Administración Pública del Distrito Federal y las instituciones privadas, sociales y académicas.
+> <small>(REFORMADA, 23 DE ENERO DE 2003)</small>
+
+IX.- La determinación de las acciones que deberán ejecutar las diferentes áreas de la Administración Pública del Distrito Federal y las instituciones privadas, sociales y académicas.
 
 ###### Artículo 60.
 
@@ -858,9 +884,11 @@ Las dependencias, órganos desconcentrados y entidades estarán obligados a coad
 
 En cada Delegación, se establecerá una Unidad de Protección Civil Delegacional, misma que dependerá de la Dirección General Jurídica y de Gobierno.
 
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
+
 ###### Artículo 70.
 
-Las unidades de protección civil de cada demarcación territorial, tendrán a su cargo la organización, coordinación y operación de los sistemas delegacionales de protección civil, dependerán del titular del órgano político administrativo de la demarcación correspondiente; y sus acciones se apoyarán en el Consejo Delegacional.
+Las unidades de protección civil de cada demarcación territorial, tendrán a su cargo la organización, coordinación y operación de los sistemas delegacionales de protección civil y sus acciones se apoyarán en el Consejo Delegacional.
 
 ###### Artículo 71.
 
@@ -964,7 +992,9 @@ Los terceros acreditados, solo podrán realizar las actividades expresamente aut
 
 Para obtener el registro correspondiente, deberán cumplir con los requisitos que se establezcan en el Reglamento respectivo.
 
-## TÍTULO DÉCIMO (SIC). DE LOS FENÓMENOS DE MAYOR RECURRENCIA EN LA CIUDAD DE MÉXICO
+> <small>(REFORMADO [N. DE E. ANTES TÍTULO DÉCIMO], G.O. 23 DE ENERO DE 2003)</small>
+
+## TÍTULO NOVENO. DE LOS FENÓMENOS DE MAYOR RECURRENCIA EN LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO II. DE LOS ESTUDIOS DE RIESGO
 
@@ -994,7 +1024,9 @@ Las autoridades competentes previo al otorgamiento de licencias de construcción
 
 Los requisitos para obtener la opinión técnica a que se refiere el artículo anterior, se establecerán en el Reglamento respectivo.
 
-## TÍTULO UNDÉCIMO (SIC). DEL FINANCIAMIENTO DE LA PROTECCIÓN CIVIL
+> <small>(REFORMADO [N. DE E. ANTES TÍTULO UNDÉCIMO], G.O. 23 DE ENERO DE 2003)</small>
+
+## TÍTULO DÉCIMO. DEL FINANCIAMIENTO DE LA PROTECCIÓN CIVIL
 
 ### CAPÍTULO I. DE LA VIGILANCIA
 
@@ -1010,7 +1042,9 @@ La Administración Pública del Distrito Federal, podrá recibir donaciones para
 
 Es tarea del Gobierno del Distrito Federal Impulsar en los procesos de planeación y presupuestación que operan en el Distrito Federal, destinados a la creación de un Fondo de Apoyo Económico que permita el desarrollo de los programas y el cumplimiento de los objetivos del Sistema de Protección Civil, especialmente en aquellos enfocados a la prevención, generación y consolidación de la cultura de protección civil. Dicho fondo podrá recibir aportaciones voluntarias y obligatorias por derechos de registro de Organizaciones no Gubernamentales.
 
-## TÍTULO DUODÉCIMO (SIC). DE LA VIGILANCIA, MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSOS
+> <small>(REFORMADO [N. DE E. ANTES TÍTULO DUODÉCIMO], G.O. 23 DE ENERO DE 2003)</small>
+
+## TÍTULO UNDÉCIMO. DE LA VIGILANCIA, MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSOS
 
 ### CAPÍTULO II. MEDIDAS DE SEGURIDAD
 
@@ -1034,9 +1068,11 @@ IV. Las demás que sean necesarias para llevar a cabo la protección civil.
 
 Asimismo, podrán promover la ejecución de las medidas de seguridad ante la autoridad competente en los términos de Las leyes respectivas.
 
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
+
 ###### Artículo 97.
 
-La Dirección General de Protección Civil y las Delegaciones con base en los resultados de la visita de verificación, realizada conforme a las disposiciones de la Ley de Procedimiento Administrativo del Distrito Federal y su Reglamento de Verificación Administrativa, podrán dictar medidas de seguridad en cumplimiento a la normatividad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo que no podrá exceder de cuarenta y cinco días naturales para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
+Las Delegaciones con base en los resultados de la visita de verificación, realizada conforme a las disposiciones de la Ley de Procedimiento Administrativo del Distrito Federal y su Reglamento de Verificación Administrativa, podrán dictar medidas de seguridad en cumplimiento a la normatividad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo que no podrá exceder de cuarenta y cinco días naturales para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas
 
 ### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
@@ -1054,21 +1090,29 @@ II. Arresto administrativo, el que sólo podrá ser impuesto por el Juez Cívico
 
 En el caso de reincidencia, el monto de la multa podrá ser hasta dos veces del monto originalmente impuesto, sin exceder del máximo permitido.
 
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
+
 ###### Artículo 100.
 
-La violación a las disposiciones contenidas en los Artículos 42 y 43 de esta Ley, se sancionarán con multa equivalente de 100 a 150 veces del salario mínimo vigente en el Distrito Federal o con arresto de 12 a 15 horas.
+Las violación a las disposiciones contenidas en los Artículos 49 y 50 de esta Ley, se sancionarán con multa equivalente de 100 a 150 veces del salario mínimo vigente en el Distrito Federal o con arresto de 12 a 15 horas.
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
 
 ###### Artículo 101.
 
-La infracción a las disposiciones contenidas en los Artículos 44 y 45 de esta Ley, se sancionarán con multa equivalente de 100 a 150 veces del salario mínimo vigente en el Distrito Federal o con arresto de 16 a 23 horas.
+La infracción a las disposiciones contenidas en los Artículos 46 y 47 de esta Ley, se sancionaran con multa equivalente de 100 a 150 veces del salario mínimo vigente en el Distrito Federal o con arresto de 16 a 23 horas.
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
 
 ###### Artículo 102.
 
-La violación a las disposiciones contenidas en los Artículos 9, fracción VII y 86 de esta Ley, se sancionarán con multa equivalente de 100 a 300 veces del salario mínimo vigente en el Distrito Federal o con arresto de 24 a 36 horas.
+La violación a las disposiciones contenidas en los Artículos 11, fracción VII y 97 de esta Ley, se sancionarán con multa equivalente de 100 a 300 veces del salario mínimo vigente en el Distrito Federal o con arresto de 24 a 36 horas.
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
 
 ###### Artículo 103.
 
-Al que dolosamente denuncie falsos hechos o actos, en los términos de lo previsto por el Artículo 14 de esta Ley, se le impondrá multa equivalente hasta de 100 veces el salario mínimo vigente en el Distrito Federal, independientemente de las sanciones penales a que diera lugar.
+Al que dolosamente denuncie falsos hechos o actos, en los términos de lo previsto por el Artículo 16 de esta Ley, se le impondrá multa equivalente hasta de 100 veces el salario mínimo vigente en el Distrito Federal, independientemente de las sanciones penales a que diera lugar.
 
 ###### Artículo 104.
 
@@ -1090,10 +1134,18 @@ PRIMERO. - La presente Ley entrará en vigor al día siguiente de su publicació
 
 SEGUNDO. - El Reglamento de la presente Ley se publicará adentro de los 90 días siguientes a la fecha de entrada en vigor de la presente Ley.
 
-TERCERO.- Queda abrogada la Ley y Reglamento de Protección Civil para el Distrito Federal, así como cualquier ordenamiento jurídico o administrativo emitido con anterioridad que contravenga lo dispuesto por esta ley.
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2003)</small>
+
+TERCERO.- Queda abrogada la Ley de Protección Civil del 13 de diciembre de 1995, publicada el 10 de enero de 1996, así como el Reglamento de Protección civil para el Distrito Federal dado el 17 de octubre de 1996; debiendo observarse respecto a este ultimo lo señalado en el transitorio cuarto de esta Ley; así mismo se deroga cualquier norma jurídica o administrativa contenida en cualquier Ley o Reglamento del Distrito Federal que contravenga lo dispuesto por esta Ley.
 
 CUARTO. - Hasta en tanto se publica el Reglamento a que se refiere el artículo que antecede, seguirá subsistente el Reglamento de la Ley de Protección Civil para el Distrito Federal, en lo que no se oponga a la presente Ley.
 
 Recinto Legislativo, a 29 de abril de 2002.- POR LA MESA DIRECTIVA, DIP. ALICIA IRINA DEL CASTILLO NEGRETE Y BARRERA. - PRESIDENTA.-SECRETARIO, DIP. RAFAEL LUNA ALVISO.- SECRETARIA, DIP. SUSANA MANZANARES CÓRDOVA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los siete días del mes de mayo del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTIZ PINCHETTI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 23 DE ENERO DE 2003.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en la gaceta oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
