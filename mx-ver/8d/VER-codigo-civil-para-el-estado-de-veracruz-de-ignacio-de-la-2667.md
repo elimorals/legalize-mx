@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1943-10-26"
+last_updated: "1943-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE OCTUBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1943.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -8459,7 +8459,7 @@ La mayoría de los interesados, o la autorización judicial en su caso, determin
 
 ARTICULO 1700
 
-Aprobados el inventario y la cuenta de administración, el albacea debe hacer enseguida la partición de la herencia.
+Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida (sic) la partición de la herencia.
 
 ARTICULO 1701
 
@@ -10771,7 +10771,7 @@ ARTICULO 2210
 
 Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias cuando sean coherederos las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
 
-ARTICULO 2711
+ARTICULO 2211
 
 Los hijos sujetos a la patria potestad solamente pueden vender a sus padres los bienes comprendidos en la primera clase de las mencionadas en el artículo 357.
 
@@ -11889,13 +11889,19 @@ ARTICULO 2417
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2411 y 2412.
 
-> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 1943)</small>
-
 ARTICULO 2418
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 1943)</small>
 
 Vencido un contrato de arrendamiento, tendrá derecho el arrendatario que esté al corriente en el pago de la renta, a que se le prorrogue hasta por un año ese contrato, cuando se trate de fincas rústicas o urbanas, destinadas a habitación, y hasta por dos años, cuando el arrendamiento se refiera a predios urbanos en los que el arrendatario tenga establecida alguna negociación comercial o industrial y la vigencia del contrato se haya prolongado por un lapso no menor de cinco años. Podrá el arrendador aumentar hasta por un diez por ciento la renta, en el primer caso, y hasta un veinte por ciento, en el segundo, siempre que los alquileres en la zona de que se trate hayan sufrido una alza después de que se celebró el contrato de arrendamiento.
 
+> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 1943)</small>
+
 Quedan exceptuados de la obligación de prorrogar el contrato, los propietarios que quieran habitar la casa o cultivar la finca, objeto del arrendamiento.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1943)</small>
+
+El Estado o los Municipios que hayan celebrado contratos de interés público para la explotación, uso o aprovechamiento de predios rústicos o urbanos, tendrán derecho a que se prorroguen hasta por dos años tales contratos, siempre que estén al corriente en el pago de las rentas y sin perjuicio de que éstas sean aumentadas por los propietarios en los términos establecidos en el primer apartado de este artículo.
 
 ARTICULO 2419
 
@@ -14053,7 +14059,7 @@ La acción hipotecaria prescribirá a los diez años, contados desde que pueda e
 
 ARTICULO 2852
 
-La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios; y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
+La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios, y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
 
 ### CAPITULO II. De la hipoteca voluntaria
 
@@ -14961,4 +14967,18 @@ Se faculta al Ejecutivo del Estado, para expedir la Ley Reglamentaria del Regist
 
 G.O. 26 DE OCTUBRE DE 1943.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ-LLAVE.
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1943)</small>
+
+UNICO.- La presente Ley surtirá efectos a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado. Por tanto, no será aplicable a los arrendamientos ya vencidos y en los que ya estuviere corriendo la prórroga a que se refiere el artículo 2418 del Código Civil, que se modifica.
+
+G.O. 28 DE DICIEMBRE DE 1943.
+
+LEY NUMERO 151
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2°. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ-LLAVE.
+
+G.O. 28 DE DICIEMBRE DE 1943.
+
+LEY NUMERO 154
+
+Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
