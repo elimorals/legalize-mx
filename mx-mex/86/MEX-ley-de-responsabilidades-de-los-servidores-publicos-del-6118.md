@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "1990-09-11"
+last_updated: "1994-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 1994.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -65,21 +65,23 @@ Son sujetos de esta Ley, toda persona que desempeñe un empleo, cargo o comisió
 
 También quedan sujetos a esta Ley, aquellas personas que manejen o administren recursos económicos estatales, municipales, concertados o convenidos por el Estado con la Federación o con sus Municipios; y aquellas que en los términos del artículo 73 de esta Ley, se beneficien con adquisiciones, enajenaciones, arrendamientos, mantenimientos y construcción de obras públicas, así como prestación de servicios relacionados, que deriven de actos o contratos que se realicen con cargo a dichos recursos.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1994)</small>
+
 ###### Artículo 3.
 
-Las autoridades competentes para aplicar la presente ley serán:
+Las autoridades competentes para aplicar la presente ley, serán:
 
-I. La Legislatura del Estado;
+I.- La Legislatura del Estado.
 
-II. La Secretaría de la Contraloría;
+II.- El Tribunal Superior de Justicia del Estado.
 
-III. Las demás dependencias del Ejecutivo Estatal en el ámbito de atribuciones que les otorga este ordenamiento;
+III.- La Secretaría de la Contraloría.
 
-IV. El Tribunal Superior de Justicia del Estado;
+IV.- Las demás dependencias del Ejecutivo Estatal en el ámbito de atribuciones que les otorga este ordenamiento.
 
-V. Los Ayuntamientos de los Municipios del Estado;
+V.- Los Ayuntamientos y los Presidentes Municipales.
 
-VI. Los demás órganos que determinen las leyes.
+VI.- Los demás órganos que determinen las leyes.
 
 ###### Artículo 4.
 
@@ -375,11 +377,15 @@ XVII. Desempeñar su empleo, cargo o comisión sin obtener beneficios adicionale
 
 XVIII. Abstenerse de intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción, de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar de alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
 
-XIX. Presentar con oportunidad y veracidad la Manifestación de Bienes ante la Secretaría de la Contraloría en los términos que señala la Ley;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+
+XIX. Presentar con oportunidad y veracidad la Manifestación de Bienes en los términos que señala la Ley.
 
 XX. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría conforme a la competencia de ésta;
 
-XXI. Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su Dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las normas que al efecto se expidan.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
+
+XXI. Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo e informar por escrito ante el superior jerárquico u órgano de control interno los actos u omisiones que en ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público, que puedan ser causa de responsabilidad administrativa en los términos de esta Ley, y de las normas que al efecto se expidan.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría, el subalterno podrá practicarla directamente informando a su superior acerca de este acto;
 
@@ -387,21 +393,37 @@ XXII. Abstener de cualquier acto u omisión que implique incumplimiento de cualq
 
 XXIII. Abstener de impedir, por sí o por interpósita persona, utilizando cualquier medio, la formulación de quejas y denuncias; o que con motivo de las mismas, realice cualquier conducta injusta u omita una justa y debida, que lesione los intereses de los quejosos o denunciantes; y
 
-XXIV. Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1994)</small>
+
+XXIV. Proporcionar en forma oportuna y veraz, la información y datos solicitados por la Institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, a efecto de que ésta pueda cumplir con sus atribuciones.
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1994)</small>
+
+XXV. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, enajenaciones, arrendamientos y mantenimiento de bienes muebles e inmuebles y la contratación de servicios y de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría, conforme a las disposiciones legales aplicables al Titular de la Dependencia, Organismo Descentralizado, Empresa de Participación de que se trate o Fideicomiso Público.
+
+Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1994)</small>
+
+XXVI. Cumplir con la entrega del despacho a su cargo, en los términos que establezcan las disposiciones legales o administrativas que al efectos (sic) se señalen; y
+
+XXVII. Las demás que le impongan las Leyes y disposiciones reglamentarias o administrativas.
 
 ###### Artículo 43.
 
 Se incurre en responsabilidad administrativa, por el incumplimiento de cualesquiera de las obligaciones a que se refiere el artículo anterior, dando lugar a la instrucción del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que en esta ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1994)</small>
+
 ###### Artículo 44.
 
 Para los efectos de esta Ley, se entenderá por Secretaría, a la Secretaría de la Contraloría.
 
-Por los mismos efectos, en el Poder Ejecutivo del Estado se entenderá por superior jerárquico al titular de la Dependencia correspondiente y en los organismos auxiliares y fideicomisos públicos al coordinador del sector, quienes aplicarán las sanciones cuya imposición les atribuye esta Ley.
+Para los mismos efectos, en el Poder Ejecutivo del Estado se entenderá por superior jerárquico al titular de la Dependencia correspondiente y en los Organismos Descentralizados, Empresas de Participación y Fideicomisos Públicos al coordinador del sector, quienes aplicarán las sanciones cuya imposición les atribuye esta ley.
 
-En el Gobierno Municipal se entenderá por superior jerárquico al Ayuntamiento, que determinará las sanciones cuya imposición se le atribuyen, para ejecución o aplicación por el Presidente Municipal.
+En los Poderes Legislativo y Judicial, serán superiores jerárquicos para los efectos de esta Ley, el Presidente de la Gran Comisión y el Presidente del Tribunal Superior de Justicia, respectivamente, quienes aplicarán las sanciones que establece la misma, salvo lo que dispongan sus respectivas Leyes Orgánicas.
 
-En los Poderes Legislativo y Judicial, serán superiores jerárquicos para los efectos de esta Ley, los Presidentes de dichos Poderes, quienes aplicarán las sanciones que establece la misma, cuando sus respectivas leyes orgánicas no dispongan otra cosa.
+En el Gobierno Municipal se entenderá por superior jerárquico al Presidente Municipal que determinará las sanciones cuya ejecución se le atribuyen.
 
 ### CAPITULO III. Sanciones Disciplinarias y Procedimiento
 
@@ -431,23 +453,29 @@ Los ayuntamientos establecerán los órganos y sistemas respectivos en los térm
 
 Los servidores públicos de la Secretaría, que incurran en responsabilidad administrativa, serán sancionados conforme al presente Capítulo, por el órgano que disponga su reglamento interior.
 
-###### Artículo 49.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1994)</small>
+
+###### ARTICULO 49.
 
 Las sanciones por responsabilidad administrativa, consistirán en:
 
-I. Amonestación;
+I.- Amonestación;
 
-II. Suspensión del empleo, cargo o comisión;
+II.- Suspensión del empleo, cargo o comisión;
 
-III. Destitución del empleo, cargo o comisión;
+III.- Destitución del empleo, cargo o comisión;
 
-IV. Sanción económica;
+IV.- Sanción económica;
 
-V. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique beneficios o cause daños y perjuicios, será de seis meses a tres años, si el monto de aquellos no se excede de doscientas veces el salario mínimo mensual vigente en la capital del Estado, y de tres a diez años si excede dicho límite; y
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños o perjuicios a la administración pública, será de uno a diez años si el monto de aquellos no excede de quinientas veces el salario mínimo mensual vigente en la capital del Estado y de diez a veinte años si excede de dicho límite.
 
-VI. Arresto hasta por 36 horas en los términos de la Ley de Seguridad Pública del Estado.
+Para que una persona que hubiere sido inhabilitada en los términos de Ley, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el Titular de la Dependencia, Organismo Descentralizado, Empresa de Participación o Fideicomiso Público de que se trate, solicite autorización a la Secretaría.
+
+La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa para el Titular de la Dependencia, Organismo Descentralizado, Empresa de Participación o Fideicomiso Público en los términos de esta Ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado.
+
+VI.- Arresto hasta por 36 horas en los términos de la Ley de Seguridad Pública del Estado.
 
 ###### Artículo 50.
 
@@ -485,7 +513,9 @@ Para la aplicación de las sanciones que establece el artículo 49 de esta Ley, 
 
 I.- La amonestación, suspensión en el empleo, cargo o comisión y de la remuneración correspondiente por un período no mayor de quince días, y la destitución de aquellos, serán aplicables por el superior jerárquico;
 
-II.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será aplicable por resolución de la Secretaría, atendiendo a la gravedad de la infracción en los términos del artículo 49 de esta Ley;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+
+II.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será aplicable por resolución que dicte la Secretaría o los superiores jerárquicos en los Poderes Legislativo y Judicial y en los Ayuntamientos, atendiendo a la gravedad de la infracción.
 
 III.- La Secretaría podrá aplicar la suspensión o la destitución a que se refiere la fracción I, en los casos que el superior jerárquico no lo haga, notificando a éste lo conducente; y
 
@@ -507,9 +537,11 @@ Tratándose de denuncias en contra de los servidores de los Poderes Legislativo 
 
 La Secretaría aplicará las sanciones correspondientes a los titulares y a los servidores públicos adscritos a los órganos de control interno de las dependencias, organismos auxiliares y fideicomisos en su caso, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
 
-###### Artículo 55.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
 
-El órgano de control interno será competente para imponer sanciones disciplinarias por acuerdo del superior jerárquico, excepto las económicas cuyo monto sea superior a doscientas veces el salario mínimo diario en la Capital del Estado, las que en términos de esta Ley corresponde aplicar exclusivamente a la Secretaría.
+###### ARTICULO 55.
+
+En el ámbito del Poder Ejecutivo el órgano de control interno será competente para imponer sanciones disciplinarias por acuerdo del superior jerárquico, excepto las económicas cuyo monto sea superior a doscientas veces el salario mínimo mensual en la capital del Estado, las que en términos de esta Ley corresponde aplicar exclusivamente a la Secretaría, la que informará al Titular de la Dependencia, Organismo Descentralizado, Empresa de Participación o Fideicomiso Público de los resultados del procedimiento.
 
 Cuando del fincamiento de una responsabilidad se desprenda una sanción económica superior a doscientas veces al salario mínimo, el órgano de control interno remitirá a la Secretaría las actuaciones que haya realizado, para su intervención en los términos del párrafo anterior.
 
@@ -537,7 +569,9 @@ I. Se citará al presunto responsable a una audiencia, haciéndole saber la resp
 
 Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
-II. Al concluir la audiencia o dentro de los tres días hábiles siguientes, se resolverá sobre la inexistencia de responsabilidad, o se impondrá al infractor las sanciones administrativas correspondientes, notificándose la resolución dentro de las veinticuatro horas siguientes al interesado, a su Jefe inmediato, al representante designado por la Dependencia y al superior jerárquico;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+
+II.- Al concluir la audiencia o dentro de los treinta días hábiles siguientes, se resolverá sobre la inexistencia de responsabilidad o se impondrán al infractor las sanciones administrativas correspondientes, notificándose la resolución dentro de las cuarenta y ocho horas siguientes al interesado, a su jefe inmediato, al representante designado por la Dependencia y al superior jerárquico.
 
 III. Si de la audiencia se desprende que no existen elementos suficientes para resolver o se adviertan elementos que impliquen la configuración de otras causales de responsabilidad administrativa con cargo del presunto responsable o de responsabilidad de otras personas o servidores, se podrá disponer la práctica de investigaciones y citar para otra u otras audiencias, y
 
@@ -589,7 +623,9 @@ I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que
 
 II.- La autoridad acordará sobre la admisibilidad de recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se basa la resolución. Las pruebas admitidas se desahogarán en un plazo de cinco días hábiles, que a solicitud del servidor público o de la autoridad podrá ampliarse una sóla vez por cinco días hábiles más, y
 
-III.- Concluído el período probatorio, el superior jerárquico emitirá resolución en el acto, o dentro de los tres días hábiles siguientes, notificándola al interesado.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+
+III.- Concluído el período probatorio, el superior jerárquico emitirá resolución en el acto, o dentro de los diez días hábiles siguientes, notificándola al interesado, dentro de las cuarenta y ocho horas siguientes.
 
 ###### Artículo 66.
 
@@ -605,9 +641,11 @@ B).- Que la ejecución de la resolución recurrida produzca daños o perjuicios 
 
 C).- Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al Servicio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
+
 ###### Artículo 67.
 
-El servidor público afectado por las resoluciones administrativas dictadas por la Secretaría, podrá optar entre interponer el recurso de revocación o impugnarlas ante el Tribunal de lo Contencioso Administrativo del Estado.
+El servidor público afectado por las resoluciones administrativas que se dicten conforme a esta Ley, podrá interponer el recurso de revocación o impugnarlas directamente ante el Tribunal de lo Contencioso Administrativo del Estado, el cual sólo podrá conocer de los recursos interpuestos por servidores públicos del Poder Ejecutivo y de los Ayuntamientos.
 
 La resolución que se dicte en el recurso de revocación, será también impugnable ante el Tribunal de lo Contencioso Administrativo.
 
@@ -635,7 +673,9 @@ Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que
 
 Las facultades del superior jerárquico y de la Secretaría para imponer las sanciones que esta Ley prevé, se sujetará a lo siguiente:
 
-I. Prescribirán en tres meses, si el beneficio obtenido o el daño o perjuicio causado por el infractor, no excede en diez veces el salario mínimo diario vigente en la Capital del Estado, o si la responsabilidad no fuese estimable en dinero;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+
+I.- Prescribirán en un año, si el lucro obtenido o el daño o perjuicio causado por el infractor, no excede en diez veces el salario mínimo mensual vigente en la capital del Estado, o si la responsabilidad no fuese cuantificable en dinero.
 
 II.- En los demás casos prescribirán en tres años, salvo las de naturaleza económica que prescribirán en los mismos términos que para los créditos fiscales señale la Legislación relativa.
 
@@ -689,49 +729,55 @@ Las facultades de la autoridad para constituir responsabilidades en los término
 
 los Servidores Públicos
 
-###### Artículo 78.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1994)</small>
 
-La Secretaría llevará el registro de la Manifestación de Bienes de los servidores públicos, de conformidad con esta Ley y demás disposiciones aplicables.
+###### ARTICULO 78.
+
+La Legislatura del Estado, el Tribunal Superior de Justicia y la Secretaría llevarán el registro de la Manifestación de Bienes de sus servidores públicos de conformidad con esta Ley y disposiciones aplicables.
+
+Para los efectos del registro, cada Poder determinará de conformidad a su legislación, los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1994)</small>
 
 ###### Artículo 79.
 
-Tienen la obligación de presentar Manifestación de Bienes ante la Secretaría en los términos y plazos señalados por la presente Ley, y bajo protesta de decir verdad:
+Tienen la obligación de presentar Manifestación de Bienes ante los órganos competentes, en la forma y plazos establecidos por la presente ley y bajo protesta de decir verdad:
 
-I.- Legislatura del Estado: Los Diputados, Oficial Mayor, Tesorero, Directores y Contador General de Glosa;
+I.- En la Legislatura del Estado: Los Diputados, el Oficial Mayor, todo el personal de la Contaduría General de Glosa y Jefes de Departamentos hasta Directores;
 
-II.- Poder Ejecutivo: los servidores públicos, desde el nivel de Jefes de Departamento hasta los titulares de las Dependencias y Gobernador del Estado, así como aquellos que manejen, recauden o administren fondos y recursos estatales, federales o municipales.
+II.- En el Poder Ejecutivo: Los servidores públicos de la Administración Pública Central y del sector auxiliar, desde Jefes de Departamento hasta los Titulares de las Dependencias, incluyendo al Gobernador del Estado; Defensores de Oficio y aquellos que manejen, recauden o administren fondos y recursos estatales, municipales o federales y en la propia Secretaría todos sus servidores públicos.
 
-Procuraduría General de Justicia, además de los Agentes del Ministerio Público, sus Secretarios, Policías Judiciales, Jefes de Departamento, hasta su Titular y en la Secretaría, incluídos además todos sus servidores públicos.
+En la Procuraduría General de Justicia: Los agentes del Ministerio Público, sus Secretarios, los Policías Judiciales, los Peritos, Jefes de Departamento hasta su Titular.
 
-Organismos Auxiliares y Fideicomisos, desde el nivel de Jefe de Departamento o su equivalente en la Administración Pública Central, hasta los titulares de los mismos, así como todos aquellos que manejen, recauden o administren fondos o recursos estatales.
+En los Tribunales Administrativos y del Trabajo: Los Magistrados, Jueces, Representantes de Gobierno en las Juntas, Secretarios, Actuarios y Asesores Comisionados.
 
-Tribunales Administrativos y del Trabajo, Magistrados, Jueces, Representantes de Gobierno en las Juntas, Secretarios y Actuarios.
+En los Ayuntamientos: Jefes de Departamento o sus equivalentes a la Administración Pública Estatal, Secretarios, Tesoreros, Regidores, Síndicos, Presidentes, así como todos aquellos que manejen, recauden o administren fondos o recursos estatales, municipales o federales.
 
-III.- Poder Judicial: Magistrados, Jueces, Secretarios Judiciales y Actuarios de cualquier categoría o designación, así como todos aquellos que manejen, recauden o administren fondos o recursos estatales; y
-
-IV.- Ayuntamientos: Los Jefes de Departamento o sus equivalentes a la Administración Pública Central; Secretario, Tesorero, Regidores, Síndico, Presidentes y Delegados Municipales, así como todos aquellos que manejen, recauden o administren fondos o recursos federales, estatales o municipales.
+III.- En el Tribunal Superior de Justicia: Los Magistrados, Jueces, Secretarios Judiciales, Ejecutores y Notificadores, de cualquier categoría o designación, los Jefes de Departamento hasta los Titulares, así como todos aquellos que manejen, recauden o administren fondos o recursos estatales, municipales o federales.
 
 Esta misma obligación la tendrán los servidores públicos que tengan a su cargo, una o más de las funciones siguientes:
 
-a) Dirección, supervisión, inspección, auditoría, seguridad, vigilancia, custodia, fiscalización, procuración y administración de justicia y readaptación social.
+a).- Dirección, supervisión, inspección, auditoría, seguridad, vigilancia, custodia, fiscalización, procuración y administración de justicia y readaptación social;
 
-b) Representación legal titular o delegada para realizar actos de dominio, de administración general o de ejercicio presupuestal;
+b).- Representación legal Titular o delegada para realizar actos de dominio, de administración general o de ejercicio presupuestal;
 
-c) Manejo de fondos estatales o municipales;
+c).- Manejo de fondos estatales o municipales;
 
-d) Custodia de bienes y valores;
+d).- Custodia de bienes y valores;
 
-e) Atención o resolución de trámites directos con el público para efectuar pagos de cualquier índole para obtener licencias o autorizaciones;
+e).- Atención o resolución de trámites directos con el público para efectuar pagos de cualquier índole para obtener licencias o autorizaciones;
 
-f) Adquisición o comercialización de bienes y servicios; y
+f).- Adquisición o comercialización de bienes y servicios; y
 
-g) Efectuar pagos de cualquier índole.
+g).- Efectuar pagos de cualquier índole.
 
-Los titulares de las dependencias del Poder Ejecutivo de los Organismos Auxiliares, empresas de participación estatal o municipal mayoritaria o de los fideicomisos públicos, precisarán durante el mes de febrero de cada año, cuáles son los servidores públicos obligados a presentar Manifestaciones de Bienes, por tener a su cargo una o más de las funciones antes señaladas.
+Los Titulares de las dependencias del Poder Ejecutivo de los organismos auxiliares, empresas de participación estatal o municipal o de fideicomisos públicos, precisarán durante el mes de febrero de cada año, cuáles son los servidores públicos obligados a presentar Manifestación de Bienes por tener a su cargo una o más de las funciones antes señaladas.
 
-En las mismas circunstancias, procederán además en el Poder Legislativo, Judicial y Ayuntamiento, así como los Tribunales Administrativos y del Trabajo, por conducto de sus respectivos Presidentes.
+En las mismas circunstancias, procederán además en el Poder Legislativo y Judicial y en los Ayuntamientos; así como los Tribunales Administrativos y del Trabajo, por conducto de sus respectivos Presidentes.
 
-Asimismo, deberán presentar Manifestaciones de Bienes lo demás servidores públicos que determinen el Secretario de la Contraloría y el Procurador General de Justicia del Estado, mediante disposiciones generales debidamente motivadas y fundadas.
+Así mismo, deberán presentar Manifestación de Bienes los demás servidores públicos que determinen el Secretario de la Contraloría y el Procurador General de Justicia del Estado, mediante disposiciones generales debidamente motivadas y fundadas.
+
+El servidor público que en su Manifestación de Bienes faltare a la verdad en relación con lo que es obligatorio manifestar en términos de esta ley, será suspendido y, cuando su importancia lo amerite, destituido e inhabilitado de tres meses a tres años.
 
 ###### Artículo 80.
 
@@ -789,15 +835,17 @@ Para los efectos de la persecución penal por enriquecimiento ilícito, la Secre
 
 Los Poderes Judicial y Legislativo, y los Ayuntamientos, actuarán en lo conducente respecto a sus servidores conforme a las disposiciones que se establecen en el presente capítulo.
 
-En estos casos, la Secretaría hará del conocimiento de los órganos mencionados, el incumplimiento por parte de sus servidores de la obligación de manifestación de bienes a que se refiere el propio capítulo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
 
 ###### Artículo 89.
 
 Para los efectos de esta Ley, se considera obsequio todo bien que reciban con motivo de sus funciones los servidores públicos, su cónyuge o parientes consanguíneos hasta el cuarto grado.
 
-###### Artículo 90.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
 
-La Ley prohibe que los servidores públicos reciban para sí o para su cónyuge o parientes consanguíneos hasta el primer grado, obsequios de los particulares respecto de los cuales en razón de la función que tengan encomendada haya tomado o deban tomar alguna decisión de trámite, despacho o resolución, con el ánimo de beneficiar indebidamente a éstos, dentro de un año anterior a la fecha del obsequio o dentro de un año posteriormente a la misma.
+###### ARTICULO 90.
+
+Se prohibe que los servidores públicos reciban para sí o para su cónyuge o parientes consanguíneos hasta el cuarto grado, así como para los padres y hermanos de su cónyuge, obsequios de personas respecto de las cuales en razón de la función que tengan encomendada, hayan tomado o deban tomar alguna decisión de trámite, despacho o resolución, con el ánimo de beneficiar indebidamente a éstos, dentro de un año anterior a la fecha del obsequio o dentro de un año posterior a la misma.
 
 Los obsequios que se hagan de acuerdo con los supuestos anteriores se entenderán cedidos al patrimonio del Estado, al Municipio o al de los organismos auxiliares en su caso, debiendo los servidores públicos hacer entrega de ellos con anterioridad a la decisión a que se refiere el primero de los párrafos de este artículo o dentro de los diez días siguientes a su recepción, según proceda.
 
@@ -914,3 +962,17 @@ EL SECRETARIO DE LA CONTRALORIA
 LIC. JORGE LOPEZ OCHOA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE ENERO DE 1994
+
+PRIMERO.- Publíquese el presente Decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- El Tribunal Superior de Justicia y la Legislatura, establecerán los órganos, sistemas, registros, formatos y demás elementos necesarios para ejercer las atribuciones que se les confieren, en virtud del presente decreto, en un plazo que no excederá de sesenta días hábiles contados a partir de la entrada en vigor del presente ordenamiento.
+
+CUARTO.- La Secretaría de la Contraloría del Estado, entregará a las autoridades competentes todas las Manifestaciones de Bienes que haya recibido hasta antes de la entrada en vigor del presente ordenamiento.
+
+QUINTO.- Los asuntos y procesos iniciados con anterioridad a la vigencia de este Decreto, se sujetarán, hasta su conclusión, a las disposiciones que por el mismo se reforman o derogan.
