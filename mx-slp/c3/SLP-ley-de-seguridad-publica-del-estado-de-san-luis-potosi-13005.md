@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-seguridad-publica-del-estado-de-san-luis-potosi-13005"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-05"
-last_updated: "2001-03-20"
+last_updated: "2003-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 30 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 5 de febrero de 1997.
 
@@ -783,7 +785,7 @@ IV. No se adiestre ni se capacite al personal en los términos de la Ley General
 
 V. No se inscriba el equipo y armamento en el Registro Nacional de Armamento y Equipo;
 
-VI. No se aplique ni evalúen semestralmente los exámenes médicos y psicológicos del personal operativo;
+VI. No se aplique ni evaluen semestralmente los exámenes médicos y psicológicos del personal operativo;
 
 VII. Se presten los servicios privados de seguridad con personal sin uniforme ni identificación personal visible;
 
@@ -854,3 +856,21 @@ DR. JESUS EDUARDO NOYOLA BERNAL.
 P.O. 20 DE MARZO DE 2001.
 
 UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE AGOSTO DE 2003.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Seguridad Pública del Estado, publicada como Decreto No. 769 en el Periódico Oficial del Estado número 16, segunda sección, del 5 de febrero de 1997, así como sus reformas. Asimismo, se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por la presente Ley.
+
+TERCERO. Los prestadores de servicios de seguridad privada que se encuentren registrados conforme a la ley que se abroga, presentarán la documentación complementaria en un plazo no mayor de ciento veinte días naturales, contados a partir del inicio de vigencia de este Ordenamiento.
+
+CUARTO. Las señalizaciones que se refieran a la extinta Dirección General de Protección Social y Vialidad del Estado, contenidas en otros ordenamientos legales y administrativos, se entenderán referidas a la ahora Dirección General de Seguridad Pública del Estado.
+
+Además, se faculta al Ejecutivo Estatal para emitir los acuerdos necesarios con el fin de adecuar la denominación de la Dirección General de Seguridad Pública del Estado, conforme a sus atribuciones previstas en esta Ley; lo anterior, asegurando la continuidad de las funciones y acciones que venía realizando la Dirección General de Protección Social y Vialidad.
+
+QUINTO. El titular del Ejecutivo del Estado expedirá en un término de noventa días a partir de la publicación de la presente Ley, los reglamentos de la Dirección, y de los servicios de seguridad privada.
+
+SEXTO. Los ayuntamientos expedirán en un plazo de noventa días a partir de la vigencia de esta Ley, los reglamentos de sus policías preventivas.
+
+SEPTIMO. Los prestadores de servicios de seguridad privada tendrán un plazo de sesenta días, contados a partir de la entrada en vigor de esta Ley, para regularizar su funcionamiento; y de noventa días a partir de la publicación del reglamento, para elaborar sus reglamentos internos que deberán presentar a la Dirección para su aprobación y legal publicación.
