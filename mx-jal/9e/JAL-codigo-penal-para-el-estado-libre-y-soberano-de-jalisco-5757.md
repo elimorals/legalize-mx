@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1988-04-21"
+last_updated: "1989-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1989.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -257,13 +257,15 @@ XIX. Las demás que fijen las leyes.
 
 ###### Art. 20.
 
-La prisión consiste en la privación de la libertad, que podrá durar de tres días a treinta años y se cumplirá en los lugares o establecimientos que, en cada caso, designe el órgano encargado de la ejecución de sanciones.
+La prisión consiste en la privación de la libertad, que podrá durar de tres días a cuarenta años, y se cumplirá en los lugares o establecimientos que, en cada caso, designe el órgano encargado de la ejecución de sanciones.
 
 ###### Art. 21.
 
 Los sujetos a prisión preventiva y los reos por delitos contra la Seguridad Interior del Estado, serán recluidos en establecimientos o departamentos especiales.
 
 ### CAPITULO II. Prisión
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 22.
 
@@ -297,7 +299,9 @@ La multa que se impusiere como sanción es independiente de la reparación del d
 
 Este tipo de sanción se aplicará solamente en tratándose de los patrocinadores de los delitos políticos, en los patrimoniales, en los que persigan la obtención de un lucro, en los que señalan los Arts. 130 y 158, en los de pena alternativa y además, en aquéllos en que la multa sea consecuencia de conmutación.
 
-La multa se impondrá a razón de días de salario. Para calcular el importe de la multa, así como cualquier otra cantidad de dinero a que alude esta Ley, se tendrá como base el salario mínimo regional general vigente en el lugar de residencia del juez que la imponga o de que se trate.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
+La multa se impondrá a razón de días de salario, para calcular el importe de la multa, así como cualquier otra cantidad de dinero a que alude esta Ley, se tendrá como base el salario mínimo general vigente del área geográfica en el lugar de residencia del juez que la imponga o de que se trate.
 
 ## TITULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
@@ -439,6 +443,8 @@ Cuando pronunciada la sentencia irrevocable en la que se hubiese impuesto una sa
 
 ### CAPITULO IV. Sanciones en los casos de concurso de delitos, reincidencia, habitualidad y quebrantamiento de condena
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
 ###### Art. 46.
 
 Cuando una ley quite a un hecho u omisión el carácter de delito que otra ley le daba, se pondrá en absoluta libertad a quienes se esté procesando o juzgando y a los sentenciados que se hallen cumpliendo o vayan a cumplir sus condenas por ese hecho y cesarán de derecho todos los efectos que éstas y los procesos respectivos debieren producir en el futuro.
@@ -501,7 +507,7 @@ Para imponer la sanción de la tentativa, los jueces tendrán en cuenta la pelig
 
 ###### Art. 54.
 
-En caso de concurso real, se impondrá la sanción correspondiente al delito que merezca pena mayor, la que podrá aumentarse hasta la suma de las dos terceras partes de las sanciones de los demás delitos, sin que pueda exceder de treinta años.
+En caso de concurso real, se impondrá la sanción correspondiente al delito que merezca pena mayor, la que podrá aumentarse hasta la suma de las dos terceras partes de las sanciones de los demás delitos, sin que pueda exceder de cuarenta años.
 
 ## TITULO CUARTO. CUMPLIMIENTO DE LAS SANCIONES
 
@@ -511,13 +517,17 @@ En caso de concurso real, se impondrá la sanción correspondiente al delito que
 
 En caso de concurso ideal, se aplicará la sanción correspondiente al delito que merezca pena mayor, la que podrá ser aumentada hasta una mitad más del máximo de su duración, sin que pueda exceder de la suma de las sanciones de los delitos cometidos.
 
+(REFORMADO, P.O. 29 DE JULIO DE 1989) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)
+
 ###### Art. 56.
 
-A los reincidentes se les impondrá la sanción qe (sic) debiere imponérseles por el último delito cometido, aumentada un tercio de la sanción impuesta, a juicio del juez. Si la reincidencia fuera por delitos de la misma especie el aumento será de dos tercios. Cuando resulte una sanción mayor que la suma de las que corresponden al primero y segundo delitos, se aplicará esta suma sin que pueda exceder de treinta años.
+A los reincidentes se les impondrá la sanción que debiere imponérseles por el último delito cometido, aumentada un tercio de la sanción, impuesta, a juicio del juez, si la reincidencia fuere por delitos de la misma especie el aumento será de dos tercios. Cuando resulte una sanción mayor que la suma de las que corresponden al primero y segundo delitos, se aplicará esta suma sin que pueda exceder de cuarenta años.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 57.
 
-La sanción a los delincuentes habituales no podrá ser menor de la que se les impondría como reincidentes; pero podrá aumentarse hasta otro tanto de la duración de la sanción correspondiente al último delito cometido, sin que pueda exceder de treinta años.
+La sanción a los delincuentes habituales no podrá ser menor de la que se les impondría como reincidentes; pero podrá aumentarse hasta otro tanto de la duración de la sanción correspondiente al último delito cometido, sin que pueda exceder de cuarenta años.
 
 ###### Art. 58.
 
@@ -593,9 +603,11 @@ La libertad condicional no se concederá a los habituales.
 
 Siempre que el beneficiado con la libertad condicional observe durante ella mala conducta, cometa un nuevo delito o deje de cumplir con alguno de los requisitos expresados en el Artículo 67, se le privará nuevamente de la libertad para que extinga toda la parte de la sanción que se le había impuesto sea cual fuese el tiempo que lleve de estar disfrutando del beneficio, salvo que el nuevo delito sea culposo y se haya reparado el daño.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
 ###### Art. 70.
 
-Las sanciones privativas de libertad siempre que excedan de un año, se entienden impuestas en calidad de retención, hasta una cuarta parte más de su duración, sin que lleguen a exceder en total de treinta años. Así se expresará en la sentencia, sin que su omisión sea obstáculo para hacerla efectiva por el Ejecutivo, si, a juicio del propio Ejecutivo, la conducta del reo fuere negativa en la segunda mitad de la condena.
+Las sanciones privativas de libertad, siempre que excedan de un año, se entienden impuestas en calidad de retención, hasta una cuarta parte más de su duración, sin que lleguen a exceder en total de cuarenta años. Así se expresará en la sentencia, sin que su omisión sea obstáculo para hacerla efectiva por el Ejecutivo, si, a juicio del propio Ejecutivo, la conducta del reo fuere negativa en la segunda mitad de la condena.
 
 ###### Art. 71.
 
@@ -867,11 +879,15 @@ La reparación del daño en los casos de estupro y violación, comprenderá el p
 
 ### CAPITULO IV. Asociación delictuosa
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
 ###### Art. 104.
 
 Se impondrán de quince días a un año de prisión y multa por el importe de cuatro a ciento noventa y seis días de salario, siempre que dos o más personas resuelvan de concierto cometer alguno de los delitos que se señalan en los Capítulos II, III, y IV de este Título y acuerden los medios de llevar a efecto su determinación.
 
 ### CAPITULO V. Pandillismo
+
+(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)
 
 ###### Art. 105.
 
@@ -977,13 +993,15 @@ Se impondrán de seis meses a dos años de prisión al que ilícitamente, sumini
 
 ###### Art. 120.
 
-Se impondrán de uno a tres años de prisión al que forme parte de una asociación o banda de tres o más personas unidas en forma indeterminada, bajo una jerarquía, con la finalidad de cometer uno o varios delitos no previstos específicamente al momento de la asociación, independientemente de la sanción que le corresponda por el o los delitos que lleguen a cometerse.
+Se impondrán de uno a cuatro años de prisión al que forme parte de una asociación o banda de tres o más personas unidas Con el Propósito de Delinquir, Independientemente de la sanción que corresponda a los delitos que lleguen a cometerse.
+
+Cuando el miembro de la asociación sea o haya sido, en los tres años anteriores a que forme parte de la asociación, servidor público de alguna corporación policíaca, la pena se aumentará hasta en una tercera parte más de la que le corresponda por el o los ilícitos cometidos; y se impondrán, además, destitución del empleo, cargo o comisión públicos, e inhabilitación de uno a seis años, para desempeñar otro.
 
 ### CAPITULO I. Ultrajes a la moral o a las buenas costumbres e incitación a la prostitución
 
 ###### Art. 121.
 
-Se impondrá de seis meses a tres años de prisión a los que ejecuten en pandilla uno o más delitos, independientemente de las sanciones que les correspondan por el o los delitos cometidos.
+Se impondrá de seis meses a tres años de prisión a los que ejecuten en pandilla uno a más delitos, independientemente de las sanciones que les correspondan por el o los delitos cometidos.
 
 Se entiende por pandilla la reunión de tres o más personas que, sin estar organizadas con fines delictivos, cometen en común algún delito, si éste no es consecuencia de un acuerdo previo a la reunión.
 
@@ -991,7 +1009,13 @@ Se entiende por pandilla la reunión de tres o más personas que, sin estar orga
 
 Sólo podrá darse esta figura en la comisión de los delitos: contra la vida y la integridad corporal; sexuales; ataques a las vías de comunicación; delitos contra la autoridad; ultrajes a la moral pública; allanamiento de morada; asalto; privación ilegal de la libertad; plagio; secuestro; rapto daño a las cosas y despojo.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 1989)</small>
+
+Cuando el miembro de la pandilla sea ó haya sido, en los tres años anteriores a que forme parte de la pandilla, servidor público de alguna corporación policíaca, la pena se aumentará hasta en una tercera parte más de la que le corresponda por el o los ilícitos cometidos; y se impondrán, además, destitución del empleo, cargo o comisión públicos, e inhabilitación de uno a tres años, para desempeñar otro.
+
 ### CAPITULO II. Corrupción de menores
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 122.
 
@@ -1008,6 +1032,8 @@ Se sancionarán como encubridores a los inspectores, cobradores y ayudantes en l
 Las mismas sanciones se aplicarán a las personas que sin ser pasajeros o de las mencionadas en el Artículo 13, Fracción III, inciso d, acompañen a todo conductor y no tomen las providencias encaminadas a impedir el delito o denunciarlo a la autoridad.
 
 ### CAPITULO III. Lenocinio
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
 ## TITULO CUARTO. DELITOS CONTRA LA AUTORIDAD
 
@@ -1059,7 +1085,7 @@ El que en una averiguación o en un juicio, sin que concurra alguna de las excep
 
 ### CAPITULO II. Ejercicio indebido y abandono del servicio público
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 131.
 
@@ -1107,7 +1133,7 @@ III. Al que invite a otro a la explotación carnal de su cuerpo.
 
 ###### Art. 136.
 
-Se impondrán de seis meses a cinco años de prisión al que procure o facilite la alteración de los conceptos o de los hábitos morales o materiales de una persona, de cualquier sexo, menor de dieciocho años, de tal manera que esa alteración deba considerarse negativa en comparación a las buenas costumbres o hábitos de orden ético social familiar que imperan en el Estado.
+Se impondrán de uno a cinco años de prisión, al que procure o facilite el deterioro de los conceptos o de los hábitos morales o materiales de una persona de cualquier sexo, menor de dieciocho años, de tal manera que ese deterioro deba considerarse negativo en comparación a las buenas costumbres o hábitos de orden ético social familiar que imperan en el Estado.
 
 Serán considerados como corruptores, entre otros, los que inciten a la mendicidad o a la práctica de hábitos viciosos, a la ebriedad, a la depravación sexual de un púber o impúber o a la iniciación de éste en la vida sexual.
 
@@ -1127,7 +1153,7 @@ Cuando el que corrompa o emplee al menor, sea pariente consanguíneo dentro del 
 
 ###### Art. 139.
 
-El delito de lenocinio se sancionará de uno a seis años de prisión y multa por el importe de veinte a ciento noventa y seis días de salario y lo comete quien:
+El delito de lenocinio se sancionará de uno a ocho años de prisión y multa por el importe de veinte a doscientos días de salario y lo comete quien:
 
 I. Habitual o accidentalmente explote el cuerpo ajeno por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
 
@@ -1141,9 +1167,11 @@ En cualquiera de los casos anteriores, si el reo tuviere alguna autoridad sobre 
 
 Si la víctima del lenocinio es menor de edad, la pena será de tres a diez años de prisión aparte de la multa mencionada.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
 ###### Art. 141.
 
-Se impondrán de dos meses a dos años de prisión y multa por el importe de veinte a ciento noventa y seis días de salario al que deliberadamente dedique o dé en arrendamiento una finca para ser destinada al comercio carnal.
+Se impondrán de dos meses a tres años de prisión y multa por el importe de veinte a Doscientos días de salario al que, deliberadamente dedique o dé en arrendamiento una finca para ser destinada al comercio carnal.
 
 ### CAPITULO VIII. Desvío y Aprovechamiento Indebido de Atribuciones y Facultades
 
@@ -1205,7 +1233,7 @@ Cuando la revelación punible sea hecha por cualquier servidor público que pres
 
 ### CAPITULO I. Atentados al pudor
 
-> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 144.
 
@@ -1223,23 +1251,37 @@ IV. A los responsables de alguno de los delitos a que se refiere este título, i
 
 ###### Art. 145.
 
-Se impondrán de tres meses a tres años de prisión y multa de treinta a ciento noventa y seis días de salario, a los servidores públicos que incurran en alguno de los casos siguientes:
+Se impondrán de tres meses a tres años de prisión y multa de treinta a doscientos días de salario, inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por el término de seis meses a Tres Años, y destitución, en su caso, del que estuvieren desempeñando legalmente, a los servidores públicos que incurran en alguno de los casos siguientes:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 I. Que ejerza las funciones de su empleo, cargo o comisión, sin haber tomado posesión legítima o sin llenar todos los requisitos legales;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 II. Que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de notificado sobre la revocación de su nombramiento o de la suspensión, o destitución decretada, por quien tenga facultades para hacerlo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 III. Que nombrado por tiempo limitado, continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró.
 
 Lo prevenido en las dos fracciones anteriores no comprende el caso en que al servidor público, que deba cesar en sus funciones, se le ordene que continúe en ellas, entre tanto se presenta la persona que haya de substituirlo, siempre que la Ley no lo prohiba;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 IV. Que ejerza alguna comisión, empleo o cargo distinto del que realmente tuviese;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 V. Que sin habérsele admitido la renuncia de una comisión, empleo o cargo lo abandone sin causa justificada; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 VI. Que abandone, intencionalmente, servicios de vigilancia o custodia propiciando la comisión de un delito por su ausencia, independientemente de la penalidad que le resulte como coautor.
 
 ### CAPITULO III. Violación
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 146.
 
@@ -1489,6 +1531,8 @@ Los directores, administradores, médicos de sanatorios y clínicas particulares
 
 ### CAPITULO V. Asalto
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
 ## TITULO DECIMO TERCERO. VIOLACION A LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ### CAPITULO VI. Privación ilegal de la libertad y de otros derechos
@@ -1504,6 +1548,8 @@ II. Al que falsifique documentos de crédito, cupones de intereses o dividendos 
 Las mismas sanciones se aplicarán al que, a sabiendas ponga en circulación los documentos falsos a que se refiere este artículo.
 
 ### CAPITULO VII. Plagio o secuestro
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 163.
 
@@ -1651,11 +1697,13 @@ Se impondrán de seis meses a dos años de prisión a las personas que, sin tene
 
 ### CAPITULO III. Homicidio
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
 ###### Art. 173.
 
-Se impondrán de un mes a dos años de prisión al que, sin consentimiento de una persona púber o impúber o con consentimiento de esta última, o en una persona que por cualquiera causa no pudiere resistir, consume en ella un acto erótico-sexual, sin el propósito directo e inmediato de llegar a la cópula. Sufrirá la misma sanción el que, valiéndose de cualquier medio, haga que un menor de edad ejecute un acto erótico en la persona del infractor o de otros.
+Se impondrán de tres meses a tres años de prisión al que, sin consentimiento de una persona púber o aún con el consentimiento de una impúber, ejecute en alguna de ellas un acto erótico-sexual, sin el propósito de llegar a la cópula, igual penalidad se impondrá a quien obtenga el consentimiento para ejecutarlo de una persona púber, cuando por cualquiera causa no pudiera resistir.
 
-Si se hiciere uso de la violencia física o moral, o participaren dos o más infractores, la sanción será de seis meses a cinco años de prisión.
+Si se hiciere uso de la violencia física o moral o participaren dos o más infractores, la sanción será de seis meses a ocho años de prisión.
 
 Este delito se perseguirá por querella de la parte ofendida o de su legítimo representante.
 
@@ -1671,13 +1719,17 @@ Este delito se perseguirá por querella de la parte ofendida o de su legítimo r
 
 ### CAPITULO V. Parricidio
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
 ###### Art. 175.
 
-Se impondrán de tres a ocho años de prisión al que, por medio de la violencia física o moral, tenga cópula con una persona, cualquiera que sea su sexo.
+Se impondrán de tres a diez años de prisión al que, por medio de la violencia física o moral tenga cópula con una persona, cualquiera que sea su sexo.
 
-La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra o padrastro, la del amasio al hijo o hija de su amasia, la del tutor a su pupilo o pupila, o la efectuada entre ascendientes o descendientes naturales o adoptivos o entre hermanos, será sancionada de cuatro a ocho años de prisión.
+La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra o padrastro, la del amasio al hijo o hija de su amasia, la del tutor a su pupilo o pupila, la efectuada entre ascendientes o descendientes naturales o adoptivos o entre hermanos, será sancionada de cuatro a doce años de prisión.
 
-Cuando la violación fuere cometida con intervención directa e inmediata de dos o más personas, aún cuando solo una de ellas efectúe la cópula, se impondrán a todas ellas de cuatro a diez años de prisión, según las circunstancias a que se refieren los párrafos anteriores.
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)</small>
+
+Cuando la violación fuere cometida con intervención directa e inmediata de dos o más personas, aún cuando solo una de ellas efectúe la cópula, se impondrán a todas ellas de cuatro a catorce años de prisión, según las circunstancias a que se refieren los párrafos anteriores.
 
 ###### Art. 176.
 
@@ -1698,6 +1750,8 @@ Si la persona ofendida fuere menor de diez años, la sanción será de seis a qu
 ### CAPITULO I. Robo
 
 ### CAPITULO II. Abigeato y robo de animales
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
 
 ### CAPITULO III. Abuso de confianza
 
@@ -1845,7 +1899,7 @@ Si en el allanamiento media la furtividad, el engaño o la violencia, la pena ap
 
 ###### Art. 192.
 
-Se impondrán de uno a seis años de prisión y multa por el importe de dos a veinte días de salario, al que en despoblado o en paraje solitario haga uso de la violencia sobre persona, con el propósito de causar un mal, obtener cualquier beneficio o exigir su asentimiento para algún fin, cualesquiera que sean los medios y el grado de violencia que emplee. Si el asalto se efectuare de noche o si fuesen dos o más los asaltantes la sanción será de cuatro a catorce años de prisión y multa por el importe de cuatro a cuarenta días de salario.
+Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a cuarenta días de salario, al que en despoblado, en paraje solitario o en carretera o camino, ejerza violencia sobre una o más personas con el propósito de causarle daño, obtener cualquier beneficio o exigir su asentimiento para algún fin, cualesquiera que sean los medios y el grado de violencia que se emplee. Si el asalto se efectuare de noche o si fuesen dos o más los asaltantes la sanción será de seis a catorce años de prisión y multa por el importe de ocho a cincuenta días de salario.
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
@@ -1859,7 +1913,7 @@ II. Al que obligue a otro a prestar trabajos o servicios personales, ya sea empl
 
 ###### Art. 194.
 
-Se impondrán de seis a quince años de prisión y multa por el importe de ocho a sesenta días de salario si la detención arbitraria de una persona tiene carácter de plagio o secuestro, en alguna de las formas siguientes:
+Se impondrán de ocho a veinte años de prisión y multa por el importe de ocho a sesenta días de salario, si la detención arbitraria de una persona tiene carácter de plagio o secuestro, en alguna de las formas siguientes:
 
 I. Cuando se trate de obtener dinero u otra cosa o de causar daños o perjuicios al plagiado o a otra persona relacionada con éste;
 
@@ -1869,7 +1923,9 @@ III. Cuando la detención se haga en camino público, en paraje solitario o con 
 
 IV. Cuando los plagiarios sean dos o más.
 
-Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, dentro de los tres días siguientes al plagio y sin causar perjuicio alguno, sólo se aplicarán las sanciones que establece el artículo anterior.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
+Si el plagiario pone en libertad a la persona secuestrada, dentro de los diez días siguientes al plagio, sin haber obtenido provecho o restituye, en su caso, el que hubiese obtenido se aplicarán las sanciones correspondientes a la privación ilegal de la libertad.
 
 Si el o los plagiarios privaran de la vida al ofendido, se aplicrán (sic) las penas del homicidio calificado.
 
@@ -2015,7 +2071,7 @@ No es atribuible al acusado el aumento de gravedad proveniente de circunstancias
 
 ###### Art. 213.
 
-Se impondrán de doce a dieciocho años de prisión a la persona que prive de la vida a otra. Pero, cuando el homicidio sea calificado, la sanción será de veinte a treinta años de prisión.
+Se impondrán de doce a dieciocho años de prisión a la persona que prive de la vida a otra. Pero, cuando el homicidio sea calificado, la sanción será de veinte a treinta y cinco años de prisión.
 
 ###### Art. 214.
 
@@ -2111,7 +2167,7 @@ Si con motivo de un delito de tránsito, fallecen o resultan lesionados los ocup
 
 ###### Art. 223.
 
-Se impondrán de veinte a treinta años de prisión al que dolosamente prive de la vida al cónyuge o a cualquier ascendiente o descendiente consanguíneo en línea recta, sabiendo el delincuente esta relación.
+Se impondrán de veinticinco a cuarenta años de prisión al que dolosamente prive de la vida al cónyuge o a cualquier ascendiente o descendiente consanguíneo en línea recta, sabiendo el delincuente esta relación.
 
 ###### Art. 225.
 
@@ -2179,17 +2235,25 @@ I. La disposición o destrucción de una cosa mueble, ejecutada intencionalmente
 
 II. El aprovechamiento de energía eléctrica, agua o cualquier otro elemento, ejecutado sin derecho y sin consentimiento de quien legalmente puede autorizar o disponer de él.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 235.
 
 Al responsable del delito de robo simple se le impondrá como sanción:
 
-I. De seis meses a dos años de prisión y multa por el importe de dos a diez días de salario, cuando el valor de lo robado no exceda del importe de ochenta días de salario;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
 
-II. De dos a cinco años de prisión y multa por el importe de cuatro a veinte días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la fracción siguiente;
+I. De seis meses a tres años de prisión y multa por el importe de cinco a treinta días de salario, cuando el valor de lo robado no exceda del importe de trescientos sesenta días de salario;
 
-III. De tres a ocho años de prisión y multa por el importe de quince a cuarenta días de salario, cuando el valor de lo robado exceda de trescientos días de salario; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
+
+II. De dos a seis años de prisión y multa por el importe de cinco a cincuenta días de salario, cuando el valor de lo robado exceda del monto señalado, en la fracción anterior, pero no de mil días de salario;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
+
+III. De tres a diez años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado exceda de mil días de salario; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 IV. De dos a cinco años de prisión, cuando no pudiera determinarse el valor de lo robado o, si por su naturaleza, no fuera estimable en dinero.
 
@@ -2233,25 +2297,57 @@ Al responsable del delito de robo calificado se le sancionara, de acuerdo con la
 
 A) Si interviene algunas de las calificativas que se consignan en la frac. I a la IX del presente articulo, la sanción será:
 
-I. De dos a cinco años de prisión y multa por el importe de cinco a veinte días de salario, cuando el valor de lo robado no exceda del importe de ochenta días de salario;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
-II. De tres a ocho años de prisión y multa por el importe de quince a cuarenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
+A) Si interviene algunas de las calificativas que se consignan en las fracs. I, II, III. IV, V, VI, y VIII del presente artículo, la sanción será:
 
-III. De cuatro a nueve años de prisión y multa por el importe de veinte a sesenta días de salario, cuando el valor de lo robado exceda del monto de trescientos días de salario; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
+
+I. De dos a cinco años de prisión y multa por el importe de cinco a treinta días de salario, cuando el valor de lo robado no exceda de trescientos sesenta días de salario;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
+
+II. De tres a ocho años de prisión y multa por el importe de quince a sesenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
+
+III. De cuatro a once años de prisión y multa por el importe de veinte a noventa días de salario, cuando el valor de lo robado exceda del monto de mil días de salario; y
 
 IV. De tres a seis años de prisión, cuando no pudiera determinarse el valor de lo robado o, si por su naturaleza, no fuere estimable en dinero.
 
-B) Si interviene algunas de las calificativas que se consignan en la frac. X a la XV del presente articulo, la sanción será:
+(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)
 
-I. De tres a ocho años de prisión y multa por el importe de quince a cuarenta días de salario cuando el valor de lo robado no exceda del importe de ciento ochenta días de salario.
+B) Si interviene algunas de las calificativas que se consignan en las fracs. VII, X, XIII, XIV y XV, del presente artículo, la sanción será:
 
-II. De cuatro a nueve años de prisión y multa por el importe de veinte a sesenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
 
-III. De cinco años seis meses a once años de prisión y multa por el monto de treinta a noventa días de salario, cuando el valor de lo robado exceda del importe de trescientos días de salario; y
+I. De tres a ocho años de prisión y multa por el importe de quince a sesenta días de salario, cuando el valor de lo robado no exceda del importe de trescientos sesenta días de salario.
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
+
+II. De cuatro a nueve años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
+
+III. De cinco años seis meses a doce años de prisión y multa por el monto de treinta a cien días de salario, cuando el valor de lo robado exceda del importe de mil días de salario; y
 
 IV. De tres años seis meses a siete años de prisión, cuando no pudiere determinarse el valor de lo robado, o, si por su naturaleza, no fuere estimable en dinero.
 
-En todos los casos de robo para estimar su cuantía, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por peritos.
+(ADICIONADO, P.O. 29 DE JULIO DE 1989) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)
+
+c) Si interviene alguna de las calificativas que se consignan en las fracs. IX, XI y XII, del presente artículo, la sanción será:
+
+I. De cuatro a nueve años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado no exceda del monto de trescientos sesenta días de salario;
+
+II. De cinco años seis meses a once años de prisión y multa por el importe de treinta a cien días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
+
+III. De siete a trece años de prisión y multa por el importe de cuarenta a ciento veinte días de salario, cuando, el valor de lo robado exceda del monto de mil días de salario;
+
+IV. De cuatro a ocho años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza no fuere estimable en dinero.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
+En todos los casos de robo, para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por perito.
 
 ###### Art. 237.
 
@@ -2277,15 +2373,23 @@ Si en el mismo caso, la restitución y reparación se verifican después de inic
 
 ###### Art. 240.
 
-Comete el delito de abigeato, el que se apodera de una o más cabezas de ganado, cualquiera que sea su especie, sin consentimiento de quien legalmente puede disponer de ellas, independientemente del lugar en que se encuentren y de que formen o no hato.
+Comete el delito de abigeato, el que se apodera sin derecho de una o más cabezas de ganado, sin consentimiento de quien legalmente puede disponer de ellas, independientemente del lugar en que se encuentren y de que formen o no hato.
 
-Si el delito de abigeato se consuma en ganado bovino, caballar, mular, asnal o cualquier otro animal de especie mayor, la sanción será de uno a nueve años de prisión y multa por el importe de cuatro a cuarenta días de salario.
+Si el delito de abigeato se consuma en ganado bovino, caballar, mular, asnal o cualquier otro animal de especie mayor, la sanción será de dos a once años de prisión y multa por el importe de veinte a ochenta días de salario.
 
-Si se consumare en ganado caprino, ovino, porcino o cualquier otro animal de especie menor, la sanción será de tres meses a cinco años de prisión y multa por el importe de tres a veinticuatro días de salario.
+Si se consumare en ganado caprino, bovino, porcino o cualquier otro animal de especie menor, la sanción será de seis meses a siete años de prisión y multa por el importe de cinco a cincuenta días de salario.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 241.
 
-Si solo se menoscaba el desarrollo o explotación de la industria avícola, apícola, cunícola, porcícola o bovina, se aplicará una sanción de seis meses a cuatro años de prisión y multa por el importe de dos a cuarenta días de salario.
+Si el daño previsto en el Art. 259 de este Código, se produce en las especies a que se refiere el Art. 240, se aplicará una sanción de uno a seis años de prisión y multa por el importe de cuatro a ochenta días de salario.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 1989)</small>
+
+###### Art. 241 Bis.
+
+Al responsable de los ilícitos a que se refieren los artículos anteriores, cuando se trata de pies de cría o sementales en producción para mejoramiento genético de la especie, se le aumentará la pena hasta en una tercera parte más de la que le corresponda, y la multa será de veinte a doscientos días de salario.
 
 ###### Art. 242.
 
@@ -2293,13 +2397,15 @@ Las mismas sanciones que señalan los artículos anteriores, según el caso, se 
 
 Iguales sanciones se impondrán a los vaqueros pastores o cualquier otro encargado de la custodia, vigilancia o traslado de los animales, que cometan alguno de los delitos previstos en los artículos anteriores.
 
+(REFORMADO, P.O. 29 DE JULIO DE 1989) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)
+
 ###### Art. 243.
 
-Al que transporte ganado sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrán de seis meses a cuatro años de prisión y multa por el importe de dos a veinte días de salario, si resulta que se trata de animales robados.
+Al que transporte ganado sin haber tomado las medidas para cerciorarse de su procedencia legítima, se le impondrán de seis meses a cuatro años de prisión y multa por el importe de dos a veinte días de salario, si resulta que se trata de animales robados.
 
-Si el transporte se hace a sabiendas de que se trata de animales robados, o provenientes de abigeato, se aplicarán las sanciones que respectivamente señalan los Artículos 240 y 241.
+Si el transporte se hace a sabiendas de que se trata de animales robados, o provenientes de abigeato, se aplicarán las sanciones que, respectivamente, señalan los Arts. 240, 241-bis y 242.
 
-Al que a sabiendas comercie con pieles, carnes u otros derivados obtenidos del robo de animales o del abigeato, se le impondrán de uno a cinco años de prisión y multa por el importe de tres a veinticuatro días de salario.
+Al que a sabiendas comercie con pieles, carnes u otros derivados obtenidos del robo de animales o del abigeato, se le impondrán de dos a seis años de prisión y multa por el importe de veinte a ochenta días de salario.
 
 ###### Art. 244.
 
@@ -2361,7 +2467,9 @@ Las mismas penas señaladas en el artículo anterior se impondrán:
 
 I. Al que obtenga dinero, valores o cualquiera otra cosa, ofreciendo encargarse de la defensa o de gestionar algún beneficio de un procesado, si no se realiza su encargo o gestión o porque renuncie o los abandone sin causa y sin motivo justificado;
 
-II. Al que por título oneroso enajene, arriende, hipoteque, empeñe o grave de cualquier modo alguna cosa, sin tener derecho para ello, con independencia de que haya o no recibido, total o parcialmente el precio, el alquiler o la cantidad materia del contrato;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1989)</small>
+
+II. Al que por título oneroso, con excepción de los casos previstos por el Art. 253, enajene, arriende, hipoteque, empeñe o grave de cualquier modo alguna cosa, sin tener derecho para ello, con independencia de que haya recibido o no, total o parcialmente el precio, el alquiler o la cantidad materia del contrato;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1984)</small>
 
@@ -2393,15 +2501,29 @@ XV. Al fiador judicial que enajene, hipoteque o grave, el bien con que acreditó
 
 XVI. Al que, para ser admitido como fiador, acredite su solvencia con el mismo bien con que lo haya hecho en fianza anterior, sin poner esta circunstancia en conocimiento de ante quién la otorgue y siempre que el valor del bien resulte inferior al de las cantidades por las que el fiador fue admitido.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+
 ###### Art. 253.
 
-Se impondrán de cuatro a nueve años de prisión y multa por el importe de cuarenta a trescientos noventa y dos días de salario al propietario o representante de fraccionamientos que efectúen ventas de inmuebles al contado o a plazos reales o simulados, mediante contratos de cualquiera clase, cuando reciba todo o parte del precio sin haber obtenido la aprobación de la autoridad competente al proyecto definitivo de fraccionamiento a que corresponda el inmueble de que se trate.
+Se impondrán de cuatro a diez años de prisión y multa por el importe de veinte a cuatrocientos días de salario mínimo general correspondiente a la zona de ubicación del inmueble al propietario que por sí, o por interpósita persona, enajene terrenos pactando precios de contado o a plazos reales o simulados, o mediante contratos señalados como "preparatorios", "preliminares", "promesa", o cualquier otro innominado, cuando se reciba la totalidad o parte del precio o se pacten abonos periódicos a éste y se haga entrega de la posesión del inmueble, si el enajenante o promitente no cuenta previamente con autorización expresa de la autoridad municipal competente para realizar tales enajenaciones.
 
-En la misma responsabilidad incurrirán los agentes vendedores, si intervienen en las ventas de inmuebles, a sabiendas de la apuntada falta de permiso.
+Igualmente:
 
-Se impondrá de uno a tres años de prisión al que ordene cualquier tipo de publicidad ofreciendo en venta lotes sobre predios, a sabiendas de que no han sido objeto de la resolución aprobatoria.
+I. En la misma responsabilidad incurrirá el o los representantes del propietario enajenante o sus agentes que intervengan en las operaciones a que se refiere el párrafo anterior, a sabiendas que el propietario carece de la autorización mencionada en el mismo;
 
-Cuando el ofendido no haya tomado posesión del predio o se le prive de la posesión del mismo, la reparación del daño consistirá en el pago del doble de las cantidades recibidas por el responsable.
+II. Cuando el objeto de la operación sean inmuebles ejidales o comunales se aplicará a los responsables la pena de cinco a trece años de prisión y la multa prevista en el párrafo primero;
+
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)</small>
+
+III. A quien sin tener derecho de propiedad, efectúe los ilícitos previstos en el párrafo primero de este artículo, se le impondrán las mismas sanciones que establece dicho párrafo;
+
+IV. Se impondrán de uno a tres años de prisión al que a sabiendas ordene cualquier tipo de publicidad ofreciendo en venta lotes sobre predios de un fraccionamiento no autorizado; y
+
+V. Cuando al ofendido se le prive de la posesión, la reparación del daño consistirá, a su elección, en el pago del doble de las cantidades recibidas por el responsable, o el valor del inmueble con sus accesorios, según el avalúo bancario referido a la fecha en que sufrió la evicción.
+
+No cometerá el delito previsto en el párrafo primero de este artículo el propietario de un terreno que lo divida y enajene en no más de tres fracciones, siempre y cuando hayan transcurrido más de dos años entre la fecha comprobada de adquisición y la del desmembramiento.
+
+Cuando el propietario del terreno conserve una de las tres fracciones, ésta ya no podrá volverse a dividir y enajenar para no incurrir en el ilícito, sino hasta que haya transcurrido un plazo igual al que se establece en el párrafo anterior.
 
 ###### Art. 254.
 
@@ -2610,3 +2732,9 @@ Segundo. El presente decreto entrará en vigor al día siguiente de su publicaci
 P.O. 21 DE ABRIL DE 1988.
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 29 DE JULIO DE 1989.
+
+Artículo Primero. Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a la presente Ley, pero las disposiciones derogadas continuarán aplicándose, exclusivamente a los hechos ejecutados durante su vigencia, a menos que los responsables manifiesten su voluntad de acogerse al ordenamiento que estimen más favorable entre las disposiciones de esta Ley y las que regían en la época de la perpetración del delito.
