@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1937-10-07"
+last_updated: "1937-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 1937.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -645,6 +645,10 @@ El Gobernador no podrá salir del Estado sin permiso de la Legislatura o de la D
 
 El cargo de Gobernador sólo es renunciable por causas justificadas que le calificará desde luego la Legislatura, si está en período de sesiones ordinarias, o sesiones extraordinarias a que deberá convocar la Diputación Permanente, en caso de hallarse en receso.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1937)</small>
+
+Rrtículo (sic) 77.- En las faltas temporales del C. Gobernador que no excedan de treinta días, lo suplirá por Ministerio de la Ley, el Secretario General de Gobierno en los términos que señala la propia Constitución. Cuando las faltas temporales sean de más de 30 días, el nombramiento de Gobernador Interino será hecho por la Legislatura en sesiones ordinarias; y si estuviere éste en receso, por su Diputación Permanente.
+
 ###### Artículo 77.
 
 Las faltas temporales del Gobernador nunca podrán ser de un año seguido; y las causas graves que podrán ser de un año seguido; y las causas graves que pudieran justificarlas, se considerarán suficientes por la Legislatura del Estado, para proceder a elección de nuevo Gobernador, conforme a lo dispuesto en el artículo 74.
@@ -1180,5 +1184,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 7 DE OCTUBRE DE 1937.
 
 DECRETO No. 287.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 17 DE OCTUBRE DE 1937.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
