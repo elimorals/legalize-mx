@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1994-12-31"
+last_updated: "1995-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 1995 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1994.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 3 DE ENERO DE 1995.</small>
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2164,8 +2164,6 @@ XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)
 
 DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 1995 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 108.
@@ -2174,9 +2172,7 @@ Para los efectos de las responsabilidades a que alude este Título se reputarán
 
 El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
-
-Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
 
 Las Constituciones de los Estados de la República precisarán, en los mismos términos del primer párrafo de este artículo y para los efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Estados y en los Municipios.
 
@@ -2250,7 +2246,7 @@ Para poder proceder penalmente por delitos federales contra los Gobernadores de 
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
-Las declaraciones y resoluciones de la (sic) Cámaras de Diputados (sic) Senadores son inatacables.
+Las declaraciones y resoluciones de la (sic) Cámaras de Diputados (sic)Senadores son inatacables.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -2496,8 +2492,6 @@ IV.- Los actos del estado civil ajustados a las leyes de un Estado, tendrán val
 
 V.- Los títulos profesionales expedidos por las autoridades de un Estado, con sujeción a sus leyes, serás (sic) respetados en los otros.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 1995 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 122.
@@ -2622,9 +2616,9 @@ h) El Jefe del Distrito Federal será responsable ante el Congreso de la Unión 
 
 i) El Jefe del Distrito Federal, podrá ser removido de su cargo por el Senado, en sus recesos, por la Comisión Permanente, por causas graves que afecten las relaciones con los Poderes de la Unión o el orden público en el Distrito Federal. La solicitud de remoción deberá ser presentada por la mitad de los miembros de la Cámara de Senadores o de la Comisión Permanente, en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)
 
-VII.- La función judicial se ejercerá por el Tribunal Superior de Justicia, el cual se integrará por el número de Magistrados que señale la ley orgánica correspondiente, así como por los jueces de primera instancia y demás órganos que la propia ley señale. Para ser magistrado se deberán reunir los requisitos que establecen las fracciones I a V del artículo 95 de esta Constitución. No podrán ser Magistrados las personas que hayan ocupado el cargo del Jefe del Distrito Federal, Secretario General, Procurador General de Justicia, o Representante a la Asamblea del Distrito Federal, durante el año previo al día de la designación.
+VII.- La función judicial se ejercerá por el Tribunal Superior de Justicia, el cual se integrará por el número de Magistrados que señale la ley orgánica correspondiente, así como por los jueces de primera instancia y demás órganos que la propia ley señale. Para ser magistrado se deberán reunir los requisitos que establecen las fracciones I a V del artículo 95 de esta Constitución. No podrán ser Magistrados las personas que hayan ocupado el cargo de Jefe del Distrito Federal, Secretario General, Procurador General de Justicia, o Representante a la Asamblea del Distrito Federal, durante el año previo al día de la designación.
 
 Los nombramientos de los magistrados se harán por el Jefe del Distrito Federal, en los términos previstos por el Estatuto de gobierno y la ley orgánica respectiva. Los nombramientos de los magistrados serán sometidos a la aprobación de la Asamblea de Representantes. Cada magistrado del Tribunal, al entrar a ejercer su cargo, rendirá protesta de guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, ante el Pleno de la Asamblea de Representantes.
 
@@ -2992,7 +2986,7 @@ XIII.- Los militares, marinos y miembros de los cuerpos de seguridad pública, a
 
 > <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1972)</small>
 
-El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este Apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones; y (sic)
+El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este Apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones; y
 
 > <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1993)</small>
 
