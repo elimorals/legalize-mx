@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1978-12-30"
+last_updated: "1979-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE ENERO DE 1979.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1395,19 +1395,15 @@ MUNICIPIO LIBRE.
 
 El Estado quedará dividido para su gobierno en municipios, de acuerdo con el artículo 25 de esta Constitución.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 12 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, B.O. 13 DE ENERO DE 1979)</small>
 
 ###### Artículo 129.
 
 Cada Municipio será administrado por un Ayuntamiento. No habrá ninguna autoridad intermedia entre el Ayuntamiento y el Ejecutivo del Estado.
 
-Cada Ayuntamiento se integrará por el Presidente Municipal y los Regidores que resulten electos por mayoría, en votación popular directa.
+Cada Ayuntamiento se integrará por el Presidente Municipal y los Regidores que resulten electos según el principio de mayoría relativa en votación popular directa. Además, en la Capital del Estado y en aquellos municipios con una población de cien mil o más habitantes, habrá lugar a la asignación hasta de tres Regidores electos según el principio de representación proporcional, en la forma y términos que para el efecto señale la Ley Orgánica respectiva.
 
-En la capital del Estado y en aquellos Municipios con más de doscientos mil habitantes los Ayuntamientos serán electos de acuerdo con el Principio de Representación Proporcional en la forma y términos que determine la Ley Orgánica, de acuerdo con las siguientes bases:
-
-PRIMERA.- La votación total que se haya emitido por todas las Planillas contendientes se dividirá entre el número de Regidores que integrarán el Ayuntamiento o Cabildo, a fin de obtener el cociente electoral que servirá para la asignación de las mismas.
-
-SEGUNDA.- El Partido cuya Planilla haya obtenido el mayor número de votos tendrá prioridad en el reparto, el cual se iniciará asignando a dicho Partido la Presidencia Municipal.
+Los Regidores electos por mayoría relativa y los electos según el principio de representación proporcional, siendo ambos representantes populares, tendrán idéntica categoría e igualdad de derechos y deberes.
 
 Teniendo en cuenta el último censo general de población, la Comisión Electoral del Estado determinará oportunamente, antes de cada elección, cuales serán los Municipios en los que podrá tener lugar la asignación de Regidores de Representación Proporcional. Igual determinación podrá tomarse por acuerdo de la propia Comisión, tomando en cuenta la información fidedigna de que se disponga sobre el crecimiento demográfico, cuando las condiciones socio-políticas de algún Municipio lo justifiquen.
 
@@ -2040,6 +2036,10 @@ Las presentes adiciones y reformas entrarán en vigor al día siguiente de su pu
 B.O. 30 DE DICIEMBRE DE 1978.
 
 UNICO.- La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 13 DE ENERO DE 1979.
+
+UNICO.- La presente ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
