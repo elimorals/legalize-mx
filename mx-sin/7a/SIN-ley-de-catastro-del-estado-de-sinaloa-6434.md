@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-catastro-del-estado-de-sinaloa-6434"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-10"
-last_updated: "2001-09-19"
+last_updated: "2001-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CATASTRO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 10 de enero de 1994.
 
@@ -523,11 +523,11 @@ Todos los predios ubicados en el Estado, deberán ser objeto de avalúo, incluye
 
 El valor catastral será determinado por el Instituto, el cuál podrá ser provisional o definitivo.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 31.
 
-Para los efectos del artículo anterior, el Instituto formulará planos y Tablas Generales de Valores Unitarios de Zona, región y subregión para ser aplicados a los respectivos lotes tipo. Tratándose de predios rurales, la formulación de las tablas generales se hará atendiendo a su clase y categoría, determinándose el valor unitario por hectárea. Las tablas y planos a que se refiere este artículo, serán presentados a las Juntas Municipales en el mes de octubre, para que éstas sigan el procedimiento a que se refiere el artículo 55 de esta Ley.
+Para los efectos del artículo anterior, el Instituto formulará planos y tablas generales de valores unitarios de zona, región y subregión para ser aplicados a los respectivos lotes tipo. Tratándose de predios rurales, la formulación de las tablas generales se hará atendiendo a su clase y categoría, determinándose el valor unitario por hectárea. Las tablas y planos a que se refiere este artículo, serán aprobadas por las Juntas Municipales en el mes de octubre y serán presentadas al Ayuntamiento correspondiente para que envíe la iniciativa de Decreto respectiva al H. Congreso del Estado para su aprobación definitiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
@@ -685,9 +685,9 @@ Para el establecimiento de los valores unitarios del suelo y construcciones se s
 
 a). El Instituto Catastral del Estado, realizará los estudios técnicos para formular la propuesta de valores unitarios del suelo y construcciones.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
-b). El Instituto remitirá la propuesta de valores unitarios de suelo y construcción a las Juntas Municipales para su revisión, modificación o aprobación en su caso. Una vez aprobadas, el Presidente Municipal en el mes de noviembre hará la propuesta al Congreso del Estado, para su aprobación definitiva. A la reunión en que las Juntas Municipales analicen y aprueben en su caso, deberá citarse por escrito a los miembros que las integran cuando menos con 72 horas de anticipación.
+b). El Instituto remitirá la propuesta de valores unitarios del suelo y construcción a las Juntas Municipales para su revisión, modificación o aprobación en su caso, los cuales serán presentados al Ayuntamiento correspondiente para que envíe, en el mes de noviembre, la iniciativa de Decreto respectiva al H. Congreso del Estado para su aprobación definitiva. A la reunión en que las Juntas Municipales analicen y aprueben en su caso, deberá citarse por escrito a los miembros que las integran cuando menos con setenta y dos horas de anticipación.
 
 c). (DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
@@ -992,3 +992,7 @@ Artículo Segundo.- Las referencias que se hacen en las leyes, decretos, reglame
 Artículo Tercero.- En todas las leyes y reglamentos en los que se haga referencia a la Ley Orgánica de la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería, la mención se entenderá hecha a la Ley Orgánica de la Procuraduría Fiscal del Estado.
 
 Artículo Cuarto.- En todas las leyes y reglamentos en los que se mencione al Procurador Fiscal de la Secretaría de Hacienda Pública y Tesorería, éstas se entenderán hechas al Procurador Fiscal del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2001.
+
+Artículo Único.- El presente decreto se publicará en el Periódico Oficial "El Estado de Sinaloa" e iniciará su vigencia el primero de enero del año 2002.
