@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1994-06-09"
+last_updated: "1994-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1994.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -507,11 +507,11 @@ Las declaraciones del nacimiento, se harán presentando al infante ante el Ofici
 
 Tienen obligación de declarar el nacimiento, los padres del menor o cualquiera de ellos, dentro de los ciento ochenta días siguientes a la fecha en que hubiese ocurrido. A su vez, el Oficial del Registro Civil deberá hacer la inscripción correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
+(EN SUSPENSO LA VIGENCIA, P.O. 20 DE OCTUBRE DE 1994)
 
 Transcurrido el lapso a que se refiere el párrafo anterior y tratándose de menores hasta de siete años, que acrediten mediante constancia expedida por la autoridad municipal y otros documentos conducentes, ser vecinos del territorio de la jurisdicción Oficial, haber nacido en territorio nacional y no estar registrado, se procederá a su inscripción.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
+(EN SUSPENSO LA VIGENCIA, P.O. 20 DE OCTUBRE DE 1994)
 
 Fuera de los supuestos consignados en el párrafo anterior, el registro de nacimiento, se tramitará y ordenará, en la forma en que disponga el Código de Procedimientos Civiles.
 
@@ -865,7 +865,7 @@ VI. El Ministerio Público.
 
 La aclaración de las actas del estado civil de las personas, procede cuando en ellas existan errores macanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas. Se tramitarán administrativamente ante la Dirección del Registro Civil, quien resolverá de plano, ordenando en su caso la aclaración respectiva que se comunicará lo mismo a la Oficialía correspondiente, como a la Dirección General del Registro Nacional de Población, para que se anoten en sus archivos.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
+(EN SUSPENSO LA VIGENCIA, P.O. 20 DE OCTUBRE DE 1994)
 
 ###### ARTÍCULO 133.
 
@@ -15068,3 +15068,17 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Las personas que al entrar en vigor la presente Ley estén tramitando juicio de rectificación o modificación de actas, podrán optar por concluir aquel o acudir ante la Dirección del Registro Civil, en los términos de lo dispuesto en este ordenamiento, para que se lleve a cabo la rectificación o modificación correspondiente.
+
+P.O. 20 DE OCTUBRE DE 1994
+
+###### ARTICULO PRIMERO.
+
+Las personas que al entrar en vigor esta Ley, estén tramitando juicio de registro extemporáneo podrán optar por concluir o por acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en este ordenamiento para que se asiente su registro de nacimiento.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley se publicará en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y su vigencia será durante los meses de diciembre de 1994, enero y junio de 1995.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones jurídicas que se opongan a la presente, quedan derogadas mientras dura la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
