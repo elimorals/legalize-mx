@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2000-07-10"
+last_updated: "2002-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ENERO DE 2002.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -963,6 +963,14 @@ Toda persona tiene derecho a decidir de manera libre, responsable e informada, s
 
 Los derechos y obligaciones que este Código otorga e impone a la pareja conyugal, serán siempre iguales para cada uno de sus miembros, independientemente de cuál sea su aportación económica al sostenimiento de la familia, por lo que de común acuerdo determinarán todo lo relativo al domicilio, trabajo de los cónyuges, atención y cuidado del hogar, educación, protección y espaciamiento de los hijos, así como sobre la administración y disposición de los bienes comunes y los que administren a los hijos.
 
+> <small>(ADICIONADO, B.O. 7 DE ENERO DE 2002)</small>
+
+Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar, que se entiende como el uso de la violencia física o psicológica, así como la omisión grave, que de manera reiterada ejerza un miembro de la familia contra integrante de la misma.
+
+> <small>(ADICIONADO, B.O. 7 DE ENERO DE 2002)</small>
+
+Para los efectos de este artículo, se consideran miembros de la familia a los cónyuges, concubinos, parientes consanguíneos en línea recta, ascendente o descendente, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
+
 ###### Artículo 169.
 
 Los cónyuges vivirán juntos en el domicilio conyugal. Se considera domicilio conyugal, el lugar establecido de común acuerdo por los cónyuges, en el cual ambos disfrutarán de autoridad propia y consideraciones iguales.
@@ -1607,7 +1615,9 @@ V.- La incitación o la violencia hecha por un cónyuge al otro, para cometer de
 
 VI.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, tanto los del matrimonio como los de uno solo de los cónyuges, así como la tolerancia en su corrupción;
 
-VII.- El grave o reiterado maltrato físico o mental de un cónyuge hacia los hijos;
+> <small>(REFORMADA, B.O. 7 DE ENERO DE 2002)</small>
+
+VII.- El uso de la violencia intrafamiliar de un cónyuge hacia los hijos, entendiéndose como la violencia física o psicológica;
 
 VIII.- Padecer cualquier enfermedad de tipo crónico e incurable o degenerativa que sea además contagiosa o hereditaria; así como la impotencia incurable para la cópula;
 
@@ -1621,7 +1631,9 @@ XII.- La declaración de ausencia legalmente hecha o de presunción de muerte, e
 
 XIII.- La sevicia o extorsión moral de uno de los cónyuges en perjuicio del otro, siempre que implique crueldad mental y haga imposible la vida conyugal;
 
-XIV.- Las amenazas, las injurias graves o los malos tratos de un cónyuge para el otro, cuando hagan imposible la vida conyugal a juicio del Juez o Tribunal, en su caso;
+> <small>(REFORMADA, B.O. 7 DE ENERO DE 2002)</small>
+
+XIV.- Las amenazas, las injurias graves, la violencia intrafamiliar de un cónyuge hacia el otro, cuando hagan imposible la vida conyugal a juicio del juez o tribunal, en su caso;
 
 XV.- La negativa injustificada de uno de los cónyuges a cumplir las obligaciones derivadas de la asistencia familiar, en perjuicio del cónyuge o los hijos, sin que sea necesario agotar previamente los procedimientos tendientes a su cumplimiento;
 
@@ -1699,9 +1711,11 @@ El abandono del domicilio conyugal en cualquiera de sus formas, constituye una c
 
 La tolerancia de uno de los padres en la corrupción que de los hijos realice un tercero, legitima al otro para pedir el divorcio.
 
+> <small>(REFORMADO, B.O. 7 DE ENERO DE 2002)</small>
+
 ###### Artículo 302.
 
-Las amenazas, las injurias graves, la acusación calumniosa por delito infamante y la comisión de un delito contra la persona o los bienes del otro cónyuge, son causales que no requieren de la tramitación previa de un juicio penal. El Juez que conozca del divorcio, entrará al estudio de la causal invocada, analizando directamente el hecho delictivo que fundamenta la causal.
+La violencia intrafamiliar, las amenazas, las injurias graves, la acusación calumniosa por delito infamante y la comisión de un delito contra la persona o los bienes del otro cónyuge, son causales que no requieren de la tramitación previa de un juicio penal. El juez que conozca del divorcio, entrará al estudio de la causal invocada, analizando directamente el hecho que fundamenta la causal.
 
 ###### Artículo 303.
 
@@ -1716,6 +1730,8 @@ Para autorizar el divorcio en los casos de embriaguez habitual y de uso indebido
 Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a la subsistencia y educación de los hijos hasta que lleguen a la mayoría de edad, o hasta que éstos terminen sus estudios técnicos o profesionales.
 
 ### CAPÍTULO V. De la asignación de los hijos en el divorcio y los derechos del padre no custodio
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 7 DE ENERO DE 2002)</small>
 
 ### CAPÍTULO I. Disposiciones generales
 
@@ -1815,7 +1831,7 @@ Ejecutoriada una sentencia de divorcio, el Juez remitirá copia de ella al Ofici
 
 ###### Artículo 322.
 
-Salvo casos excepcionales, como enfermedades graves y contagiosas, corrupción, maltrato o abandono, la custodia de los hijos menores de siete años corresponde a la madre, cualquiera que sea el tipo y la causal de divorcio.
+Salvo casos excepcionales, como violencia intrafamiliar, enfermedades graves y contagiosas, corrupción, mal trato (sic) o abandono, la custodia de los hijos menores de siete años corresponde a la madre, cualquiera que sea el tipo y la causal del divorcio.
 
 ###### Artículo 323.
 
@@ -1889,7 +1905,7 @@ Las donaciones entre concubinos se regirán por las disposiciones sobre donacion
 
 ###### Artículo 337.
 
-La concubina no tiene derecho a llevar el apellido del concubinario, ni durante la unión ni después de muerto éste.
+(DEROGADO, B.O. 7 DE ENERO DE 2002)
 
 ###### Artículo 338.
 
@@ -1905,11 +1921,17 @@ I.- Por acuerdo mutuo entre las partes;
 
 II.- Por abandono del domicilio común, por parte de uno de los concubinos, si la separación se prolonga por más de seis meses sin voluntad de reconciliación. Durante este plazo, el concubinato sigue produciendo sus efectos; y
 
-III.- Por muerte de alguno de los concubinos.
+III.- Por muerte de alguno de los concubinos;
+
+> <small>(ADICIONADA, B.O. 7 DE ENERO DE 2002)</small>
+
+IV.- Porque se dé en forma unilateral por terminada la relación, mediante aviso judicial en los términos de los (sic) dispuesto por el Código de Procedimientos Civiles, para la jurisdicción voluntaria.
+
+> <small>(REFORMADO, B.O. 7 DE ENERO DE 2002)</small>
 
 ###### Artículo 340.
 
-La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos, en los términos establecidos en el capítulo correspondiente de este Código. Atendiendo a las circunstancias del caso, el Juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubinario, no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
+La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos, en los términos establecidos en el capitulo correspondiente de este código. Atendiendo a las circunstancias del caso, el juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubino, no tengan bienes o estén imposibilitados para trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
 
 ## TÍTULO OCTAVO. Del parentesco
 
@@ -2205,9 +2227,11 @@ III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habit
 
 IV.- Cuando el hijo tenga a su favor un principio de prueba contra el supuesto padre.
 
+> <small>(REFORMADO, B.O. 7 DE ENERO DE 2002)</small>
+
 ###### Artículo 402.
 
-Se presumen hijos del concubinario y la concubina los nacidos después de iniciado el concubinato y los nacidos dentro de los trescientos días siguientes al de su disolución.
+Se presumen hijos del concubino y la concubina, los nacidos después de iniciado el concubinato y los nacidos dentro de los trescientos días siguientes al de su disolución.
 
 ###### Artículo 403.
 
@@ -2637,13 +2661,17 @@ La patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas
 
 Si faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de este derecho.
 
+> <small>(REFORMADO, B.O. 7 DE ENERO DE 2002)</small>
+
 ###### Artículo 484.
 
-A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de protegerlo y educarlo convenientemente. Tienen la facultad de amonestar y corregir, pero evitando los castigos crueles e innecesarios.
+A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de protegerlo y educarlo convenientemente. Tienen la facultad de amonestar y corregir, pero evitando los castigos crueles e innecesarios, la violencia física y psicológica.
+
+> <small>(REFORMADO, B.O. 7 DE ENERO DE 2002)</small>
 
 ###### Artículo 485.
 
-Cuando llegue a conocimiento del Ministerio Público, que las personas que ejercen la patria potestad no cumplen con la obligación del artículo anterior, o que abusan de su derecho a corregir, promoverá la suspensión o pérdida de la patria potestad, en su caso.
+Cuando llegue a conocimiento del Ministerio Público, que las personas que ejercen la patria potestad no cumplen con la obligación del artículo anterior, o que abusan de su derecho a corregir o ejerzan violencia intrafamiliar, promoverá la suspensión o pérdida de la patria potestad, en su caso.
 
 ###### Artículo 486.
 
@@ -2773,7 +2801,9 @@ I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derec
 
 II.- En los casos de divorcio necesario que lleven aparejada esta sanción;
 
-III.- Cuando las costumbres depravadas de los padres, los malos tratamientos o el abandono de sus deberes, pudieren comprometer la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no constituyan delitos;
+> <small>(REFORMADA, B.O. 7 DE ENERO DE 2002)</small>
+
+III.- Cuando las costumbres depravadas de los padres, el abandono de sus deberes o actos de violencia intrafamiliar, pudieran comprometer la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no constituyan delitos;
 
 IV.- Por la exposición o abandono que el padre o la madre hicieren de sus hijos, siempre que se prolongue por más de seis meses;
 
@@ -15210,3 +15240,9 @@ El presente decreto entrará en vigor a los sesenta días de su publicación en 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todos aquellos ordenamientos y disposiciones que se opongan el (sic) presente decreto.
+
+B.O. 7 DE ENERO DE 2002.
+
+###### ARTICULO UNICO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
