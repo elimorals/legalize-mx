@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-7-98-de-la-presidencia-de-623
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-04-16"
-last_updated: "1998-04-16"
+last_updated: "1999-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-04-16"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION 7/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [REFORMAS AL PROCEDIMIENTO PARA LAS CONTRATACIONES REQUERIDAS]
 
-ACUERDO GENERAL DE ADMINISTRACION 7/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ACUERDO POR EL QUE SE DETERMINAN LOS PROCEDIMIENTOS PARA LAS CONTRATACIONES REQUERIDAS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACION
+ACUERDO GENERAL DE ADMINISTRACIÓN 7/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ACUERDO POR EL QUE SE DETERMINAN LOS PROCEDIMIENTOS PARA LAS CONTRATACIONES REQUERIDAS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 20/99 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA, TOMO XII, AGOSTO DE 2000, PÁGINAS 1253 A 1295, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: DEROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo VII, Mayo de 1998, página 1097.
 
@@ -70,3 +72,19 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su expedición.
 SEGUNDO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo acordó y firma el Ministro presidente de la Suprema Corte de Justicia de la Nación a los dieciséis días del mes de abril de mil novecientos noventa y ocho ante el secretario general de la Presidencia y oficial mayor que da fe.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F. Y G. 1 DE JUNIO DE 1999.
+
+PRIMERO.- Este acuerdo entrará en vigor el día primero de noviembre de mil novecientos noventa y nueve, con excepción de lo dispuesto en el artículo segundo transitorio de este acuerdo.
+
+SEGUNDO.- Las facultades conferidas al secretario general de la Presidencia y oficial mayor en el acuerdo 1/98, se ejercerán conjuntamente por los secretarios de Finanzas y Servicios Administrativos y de la Contraloría y de Gestión Administrativa; asimismo, siempre que el Acuerdo 1/98 haga referencia a la Contraloría General, se entenderá que las facultades a ésta conferidas las ejercerá la Dirección General de Control Interno, con arreglo en lo dispuesto en los Acuerdos Generales de Administración 19/99 y 19-1/99.
+
+TERCERO.- El Acuerdo General de Administración 1/98 de la Presidencia de la Suprema Corte de Justicia de la Nación por el que se determinan las contrataciones requeridas por este Alto Tribunal de fecha veinte de enero de mil novecientos noventa y ocho, así como sus reformas y adiciones mediante Acuerdo 7/98 de fecha dieciséis de abril de mil novecientos noventa y ocho, así como las circulares y otras disposiciones de carácter general que se hayan emitido con base en tales actos, quedarán derogadas a partir de la entrada en vigor del presente acuerdo.
+
+CUARTO.- Todos los procedimientos de contratación iniciados durante la vigencia del Acuerdo 1/98 precisado en el artículo anterior que se encuentren pendientes de conclusión, se continuarán tramitando hasta que concluyan conforme a las disposiciones de dicho acuerdo.
+
+QUINTO.- Las personas físicas o morales que el día anterior a la entrada en vigor del presente acuerdo, tengan vigente su registro en los diversos padrones a que se refieren los artículos 15, fracción I, 76, fracción I y 133, fracción I, del acuerdo precisado en el transitorio segundo, se considerarán en el Padrón Único, salvo que el Comité advierta que se encuentran en alguno de los supuestos de prohibición de ingreso al Padrón Único o de cancelación del registro.
+
+SEXTO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta.
