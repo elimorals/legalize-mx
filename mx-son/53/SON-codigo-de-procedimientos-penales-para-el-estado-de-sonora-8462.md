@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "1985-06-03"
+last_updated: "1988-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE JUNIO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE ENERO DE 1988.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -307,17 +307,25 @@ Los tribunales deben dictar de oficio los trámites y providencias encaminadas a
 
 ### CAPITULO V. Correcciones Disciplinarias y Medios de Apremio
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 47.
 
-Son correscciones (sic) disciplinarias:
+Son correcciones disciplinarias:
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
 I.- Apercibimiento;
 
-II.- Multa de cien a dos mil pesos;
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
 
-III.- Arresto hasta por quince días, y
+II.- Multa desde uno hasta cincuenta veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se impongan;
+
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
+
+III.- Arresto hasta de treinta y seis horas y
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
 IV.- Suspensión de funcionarios y empleados judiciales hasta por un mes.
 
@@ -327,17 +335,25 @@ Contra cualquiera providencia en que se imponga alguna corrección disciplinaria
 
 En vista de lo que manifieste el interesado, el funcionario que la hubiere impuesto resolverá desde luego lo que estime procedente.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 49.
 
-El Ministerio Público en la averiguación previa, y los tribunales en cualquier período del procedimiento, podrán emplear, para hacer cumplir sus determinaciones los siguientes medios de apremio:
+El ministerio público en la averiguación previa y los tribunales, en cualquier período del procedimiento, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
 
-I.- Multa de cien a dos mil pesos;
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
+
+I.- Multa desde uno a cien veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se impongan;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
 II.- Auxilio de la fuerza pública; y
 
-III.- Arresto hasta de quince días.
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
+
+III.- Arresto hasta de treinta y seis horas.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
 Cuando a juicio de la autoridad que haya empleado los medios de apremio, el o los usados resultaren ineficaces para hacer cumplir su determinación, pondrá el hecho en conocimiento del Ministerio Público, para los efectos que señala el Código Penal.
 
@@ -3120,3 +3136,13 @@ Una vez que la presente Ley entre en vigor, los Centros de Readaptación para Me
 ###### ARTICULO SEXTO.
 
 Los Consejeros que se nombren al entrar en vigor la presente Ley, en los términos del Artículo 24, durarán en su cargo hasta el 13 de septiembre de 1985.
+
+B.O. 21 DE ENERO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor sesenta días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las sanciones de multa establecidas en los artículos 62, 118, 119, 120, 121, 122, 123, 129, 131, 132, 133, 135, 139, 140, 142, 143, 144, 145, 146, 149, 152, 153, 155, 157, 159, 160, 161, 162, 164, 165, 166, 167, 171, 172, 173, 174, 175, 176, 178, 180, 181, 182, 183, 184, 185, 186, 187, 188, 188 Bis, 189, 190, 194, 195, 197, 200, 202, 203, 204, 205, 209, 210, 213, 215, 225, 227, 228, 229, 232, 233, 234, 236, 237, 245, 246, 264, 269, 270, 271, 273, 275, 280, 287, 288, 289, 290, 292, 293, 304, 305, 309, 312, 314, 316, 317 y 318, todos ellos del Código Penal, y en su lugar se aplicará la multa que corresponda conforme al artículo 34, reformado mediante esta Ley.
