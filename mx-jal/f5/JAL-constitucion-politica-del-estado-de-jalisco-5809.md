@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2004-09-02"
+last_updated: "2004-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -767,9 +767,9 @@ XXII. Resolver las competencias y dirimir las controversias que se susciten entr
 
 XXIII. Conceder amnistía;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
 
-XXIV. Elaborar el proyecto de presupuesto del Poder Legislativo, aprobarlo y ejercerlo con autonomía; nombrar y remover libremente a los servidores públicos de la Secretaría del Congreso y de la Auditoría Superior del Estado;
+XXIV. Elaborar el proyecto de presupuesto del Poder Legislativo, aprobarlo y ejercerlo con autonomía y de conformidad con la ley; nombrar y remover libremente a los servidores públicos de la Secretaría del Congreso y de la Auditoría Superior del Estado;
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2003)</small>
 
@@ -1103,7 +1103,9 @@ Los tribunales del Poder Judicial resolverán con plenitud de jurisdicción toda
 
 Los magistrados, consejeros y jueces percibirán una remuneración adecuada e irrenunciable que no podrá ser disminuida durante su encargo.
 
-El pleno del Supremo Tribunal, el del Tribunal de lo Administrativo y el Tribunal Electoral, elaborarán sus propios proyectos de presupuesto. El Consejo General lo hará para el resto del Poder Judicial. Con ellos se integrará el del Poder Judicial, que será remitido por el Presidente del Supremo Tribunal al titular del Poder Ejecutivo, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+
+El pleno del Supremo Tribunal, el del Tribunal de lo Administrativo y el Tribunal Electoral, elaborarán sus propios proyectos de presupuesto. El Consejo General lo hará para el resto del Poder Judicial. Con ellos se integrará el del Poder Judicial, que será remitido por el Presidente del Supremo Tribunal al titular del Poder Ejecutivo, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía y de conformidad con la ley.
 
 A la iniciativa de Presupuesto de Egresos del Estado que presente el titular del Poder Ejecutivo ante el Congreso, se deberá adjuntar, para su valoración, invariablemente, el proyecto de presupuesto elaborado por el Poder Judicial.
 
@@ -1869,9 +1871,9 @@ Contra las declaraciones de procedencia penal no procede juicio o recurso alguno
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO II. De las reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 106.
 
@@ -1891,13 +1893,13 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE JUNIO DE 2003)</small>
 
-### CAPITULO II. De las reformas a la Constitución
-
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
-
 ### CAPITULO III. De la inviolabilidad de esta Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+
+### CAPITULO I. Prevenciones generales
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
@@ -1933,11 +1935,15 @@ Los cargos de elección popular directa son preferentes a los de nombramiento, s
 
 Los demás cargos serán aceptables voluntariamente.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Art. 111.
 
-Los diputados del Congreso del Estado, el Gobernador, los magistrados del Poder Judicial del Estado, los integrantes del Tribunal de Arbitraje y Escalafón, los consejeros electorales, los presidentes municipales, regidores, síndicos, concejales y demás servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los presupuestos de egresos del Estado, de los municipios o de los organismos descentralizados, según corresponda.
+Los diputados del Congreso del Estado, el Gobernador, los magistrados, consejeros y jueces del Poder Judicial del Estado, los integrantes del Tribunal de Arbitraje y Escalafón, los consejeros electorales, los integrantes de la Comisión Estatal de Derechos Humanos, los presidente (sic) municipales, regidores, síndicos, concejales y demás servidores públicos estatales y municipales, recibirán una remuneración adecuada, equitativa e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que se compone del sueldo y las prestaciones establecidas en la ley, misma que será determinada anualmente en los presupuestos de egresos del Estado, de los municipios o de los organismos públicos descentralizados, según corresponda, debiendo para su validez, cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza, motivación y demás requisitos establecidos en la ley.
+
+Queda estrictamente prohibido para las autoridades competentes, establecer en los presupuestos de egresos, bonos anuales, gratificaciones por el fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, con excepción de lo dispuesto por el artículo 61 de esta Constitución.
+
+La infracción de este artículo constituye causal de responsabilidad, misma que se sancionará en la forma y términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1977,8 +1983,6 @@ Ninguna autoridad impondrá préstamos forzosos, ni las dependencias harán gast
 
 Las relaciones laborales del Estado, de los municipios y de los organismos descentralizados de ambos con sus servidores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, la que deberá establecer el servicio civil de carrera, respetando las disposiciones del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
-
 ###### Art. 117.
 
 Esta Constitución sólo podrá reformarse con los requisitos siguientes: iniciada la reforma y aprobada por acuerdo de las dos terceras partes del número total de diputados que integren la Legislatura, se enviará a los ayuntamientos del Estado con los debates que hubiere provocado; si del cómputo efectuado por el Congreso resultare que la mayoría de los ayuntamientos aprueban la reforma, se declarará que forma parte de la Constitución.
@@ -2000,6 +2004,8 @@ Las reformas hechas en la Constitución Federal que afecten a esta Constitución
 Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia.
 
 Si se estableciere un gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad volverá a ser acatada y, con sujeción a la misma y a las leyes que de ella emanen, serán juzgados todos los que la hubieran infringido.
+
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TRANSITORIOS
 
@@ -2235,7 +2241,7 @@ Artículo Segundo. El presente Decreto entrará en vigor al día siguiente de su
 
 P.O. 2 DE ENERO DE 1992.
 
-DECRETO NUMERO 14374 .
+DECRETO NUMERO 14374.
 
 Artículo Primero. Remítase la documentación necesaria a los Honorables Ayuntamientos de la Entidad, para los efectos del Artículo 66 de la Constitución Política del Estado.
 
@@ -2494,3 +2500,7 @@ SEGUNDO.- El presente decreto que contiene reformas a la Constitución Política
 TERCERO.- Lo dispuesto en el artículo 59, con relación a la prohibición para ser electo Magistrado a los que hayan sido vicepresidentes municipales, seguirá aplicando durante el año siguiente al término de las administraciones municipales del actual periodo Constitucional 2000-2003.
 
 CUARTO.- La prohibición contenida en el artículo 59, con relación a los síndicos, no aplicará para los síndicos que se desempeñen en el actual periodo Constitucional 2000-2003.
+
+P.O. 14 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- Este decreto que contiene reformas a la Constitución Política del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", previa declaratoria del procedimiento establecido en el artículo 117 de la Constitución Política del Estado.
