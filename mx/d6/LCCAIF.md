@@ -4,7 +4,7 @@ identifier: "LCCAIF"
 country: "mx"
 rank: "ley"
 publication_date: "1960-12-31"
-last_updated: "1960-12-31"
+last_updated: "1981-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCAIF"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1960.
 
@@ -42,9 +42,11 @@ LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDE
 
 Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.
 
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 2o.
 
-El Banco de México, S. A. hará la aportación de México a la Asociación Internacional de Fomento hasta por la cantidad de Dls. 8.740,000.00 (ocho millones setecientos cuarenta mil dólares de los Estados Unidos de Norteamérica).
+El Banco de México, S. A., hará la aportación de México correspondiente a la quinta reposición de capital de la Asociación Internacional de Fomento hasta por la suma de 132,625 (ciento treinta y dos mil seiscientos veinticinco) dólares de los Estados Unidos de América considerados al tipo de cambio vigente al 14 de marzo de 1977, la cual se adicionará a la suscripción original efectuada hasta por la cantidad de 8.740,000 (ocho millones setecientos cuarenta mil) dólares de los Estados Unidos de América del tipo de cambio vigente al 1o. de enero de 1960.
 
 ###### ARTICULO 3o.
 
@@ -91,3 +93,11 @@ UNICO.- El presente decreto entrará en vigor el día de su publicación en el "
 Enrique Sada Baigts, D. P.- Guillermo Ramírez Valadez, S. P.- Juan José Osorio Palacios, D. S.- José Rodríguez Elías, S. S.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos sesenta.- Adolfo López Mateos.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Gobernación, Gustavo Díaz Ordaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 8 DE ENERO DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
