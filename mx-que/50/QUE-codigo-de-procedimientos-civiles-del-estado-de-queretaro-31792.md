@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1993-10-14"
+last_updated: "1993-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2663,7 +2663,7 @@ XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad a j
 
 En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio Publico. Al escrito de demanda se acompañará copia certificada del acta de que se trate y se ofrecerán las pruebas en que se funde la impugnación. El juez emplazará al Director del Registro Civil, para que conteste la demanda y llamará a las personas de cuyo estado civil se trate o pueda ser afectado por la resolución definitiva y a las que en la demanda se mencionen como involucradas. Señalará una audiencia que tendrá lugar luego de transcurridos diez días del emplazamiento tomando en cuenta la distancia en los términos del artículo 130 de este código. En esa audiencia se recibirá la contestación de la demanda y se desahogarán las pruebas ofrecidas, salvo aquellas que el juez rechace o no sea posible recibir en ese mismo acto.
 
-Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los legatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
+Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
 
 (EN SUSPENSO LA VIGENCIA, P.O. 14 DE OCTUBRE DE 1993)
 
@@ -5497,6 +5497,10 @@ Siempre que haya oposición de algún aspirante a la herencia o de cualquier acr
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un juicio sucesorio intestamentario o testamentario iniciado por testamento público, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este capítulo, para lo cual exhibirán copia certificada de lo actuado.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1993)</small>
+
+Para la transmisión hereditaria de la vivienda de interés social o popular, el notario seguirá, sin requerir de mayores formalidades, el procedimiento establecido en el artículo 921 Bis.
+
 ### CAPITULO VIII. De la transmisión hereditaria del patrimonio familiar
 
 ###### ARTÍCULO 905.
@@ -5605,13 +5609,35 @@ En todo lo demás, obrará como se dispone en el capítulo IV, título III, libr
 
 Ante el tribunal competente se procederá, con respecto al testamento público cerrado, al privado o al ológrafo, como está dispuesto para esas clases de testamento otorgado en el Estado.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO XV
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 921 Bis.
+
+Cuando se hubiere designado beneficiarios en la adquisición de vivienda conceptuada por las leyes como de interés social o popular, al ocurrir el fallecimiento, se procederá a ejecutar la estipulación en la siguiente forma:
+
+I.- El beneficiario podrá ocurrir ante Notario del lugar donde se encuentra el inmueble para iniciar el procedimiento de transmisión.
+
+II.- El notario que corresponda se cerciorará del fallecimiento y sin necesidad de levantar acta, solicitará informes al Archivo General de Notarias y al Registro Publico de la Propiedad en relación a la existencia de cualquier otra disposición testamentaria que pudiere modificar la designación.
+
+III.- Obtenidas las constancias respectivas, se protocolizarán en unión del acta de defunción, relacionando la cláusula testamentaria, y el instrumento servirá de titulo de propiedad sin que sea necesaria la tramitación de la sucesión ni la designación de Albacea.
+
+El titulo citado deberá inscribirse en el Registro Público de la Propiedad.
+
+IV.- En caso de que el beneficiario fuere incapaz, será representado por quien corresponda según las leyes y se hará constar esta circunstancia al efectuar la protocolización.
+
+V.- En caso de controversia el notario se abstendrá de protocolizar y remitirá la documentación respectiva al Tribunal Superior de Justicia con objeto de que se tramite la sucesión ante el juzgado competente.
+
+VI.- La protocolización a que se refiere estas dos disposiciones no causará impuesto o derecho alguno a favor del fisco estatal o municipal.
+
 TITULO DECIMOSEXTO
 
 De la jurisdicción voluntaria
 
 ### CAPITULO I. Disposiciones generales
-
-### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
 ###### ARTÍCULO 922.
 
@@ -5661,7 +5687,7 @@ La apelación deberá interponerse en un plazo de seis días.
 
 Toda cuestión que surja en los negocios a que se refieren los capítulos siguientes y que haya de resolverse en juicio contradictorio, se substanciará en la forma determinada para los incidentes, a no ser que la ley dispusiere otra cosa.
 
-### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
 ###### ARTÍCULO 929.
 
@@ -5769,7 +5795,7 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar la existen
 
 Los tutores y curadores no pueden ser removidos, ni excusarse por acto de jurisdicción voluntaria.
 
-### CAPITULO IV. Adopción
+### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
 ###### ARTÍCULO 942.
 
@@ -5837,7 +5863,7 @@ Para recibir dinero prestado, en nombre del menor o incapacitado, necesita el tu
 
 Lo dispuesto en los artículo que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento, por más de cinco años de bienes de ausentes, menores e incapacitados.
 
-### CAPITULO V. De las informaciones ad perpétuam
+### CAPITULO IV. Adopción
 
 ###### ARTÍCULO 954.
 
@@ -5871,7 +5897,7 @@ Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en 
 
 La impugnación de la adopción y su revocación, en los casos de los artículos 380 y 391 fracción II del Código Civil, no pueden promoverse en diligencia de jurisdicción voluntaria.
 
-### CAPITULO VI. Apeo y deslinde
+### CAPITULO V. De las informaciones ad perpétuam
 
 ###### ARTÍCULO 958.
 
@@ -5903,7 +5929,7 @@ Las informaciones se protocolizarán en el protocolo del notario que designe el 
 
 En ningún caso se admitirán, en jurisdicción voluntaria, informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
 
-### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
+### CAPITULO VI. Apeo y deslinde
 
 ###### ARTÍCULO 963.
 
@@ -5958,6 +5984,8 @@ Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados, n
 ###### ARTÍCULO 968.
 
 Los gastos generales del apeo se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes, serán pagados por el que nombre a los unos y presente a los otros.
+
+### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
 
 ###### ARTÍCULO 969.
 
@@ -6304,3 +6332,13 @@ La presente Ley se publicará en el Periódico Oficial de Gobierno del Estado "L
 ###### ARTICULO TERCERO.
 
 Las disposiciones jurídicas que se opongan a la presente quedan derogadas mientras dure la vigencia de ésta, a cuyo término recobrarán aquéllas su pleno vigor en forma automática.
+
+P.O. 9 DE DICIEMBRE DE 1993
+
+PRIMERO.- Esta ley comenzará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- El Ejecutivo del Estado por conducto de la Dependencia competente impulsará la celebración de convenios de concertación con el Consejo de Notarios del Estado para establecer y definir el monto de los honorarios que cause la disposición hereditaria y su ejecución.
+
+TERCERO.- Hasta en tanto exista legislación que modifique el concepto, se entiende por vivienda de interés social aquella cuyo valor no excede de veinte veces el salario mínimo general elevado al año y por vivienda popular aquella cuyo valor no excede de treinta y cinco veces el salario mínimo elevado al año.
+
+CUARTO.- Hasta el día 31 de marzo de 1994, los propietarios, poseedores o titulares de derechos de viviendas conceptuadas como de interés social o popular, podrán otorgar por declaración unilateral de voluntad y en escritura pública, disposición para designar beneficiarios en los términos de lo establecido por los artículos 1158, 1378 y 1460 Bis del código Civil que se adicionan, esta estipulación surtirá los efectos y se ejecutará al tenor de los articulos 904 y 921 Bis que se adicionan al Código de Procedimientos Civiles vigente en el Estado.
