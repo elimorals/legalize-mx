@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-mercados-municipales-en-el-municipio-de-22286"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-05-13"
-last_updated: "1996-05-13"
+last_updated: "2001-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE MERCADOS MUNICIPALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 13 de mayo de
 
@@ -45,9 +45,11 @@ Disposiciones Generales.
 
 El funcionamiento de los mercados en el Municipio de Monterrey, N. L. constituye un servicio público conforme a lo establecido por los artículos 115 fracción III inciso d) de la Constitución Política de los Estados Unidos Mexicanos; 131 fracción II inciso d) de la Constitución Política de Nuevo León y sus disposiciones son de orden público e interés social.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 2.
 
-El funcionamiento de los mercados municipales será operado y vigilado por conducto de la Dirección de Organismos Municipales o la dependencia que, de acuerdo con el Reglamento de la Administración Pública del Municipio de Monterrey tenga las atribuciones mencionadas. El servicio de los mercados municipales podrá ser prestado por particulares previo acuerdo del R. Ayuntamiento por el cual se otorgue la concesión respectiva.
+El funcionamiento de los mercados municipales será operado y vigilado por conducto de la Dirección de Comercio dependiente de la Secretaría del R. Ayuntamiento o la dependencia que de acuerdo con el Reglamento de la Administración Pública del Municipio de Monterrey, tenga las atribuciones mencionadas. El servicio de los mercados municipales podrá ser prestado por particulares, previo acuerdo del R. Ayuntamiento por el cual se otorgue la concesión respectiva.
 
 ###### Art. 3.
 
@@ -57,27 +59,35 @@ Las concesiones que se otorguen a particulares en relación a los mercados munic
 
 Se entiende por mercado público municipal el lugar o local del patrimonio del Municipio o que éste puede disponer en virtud de un acto jurídico determinado, a donde concurren comerciantes y consumidores, en libre competencia, y cuya oferta y demanda esencialmente se refiere a artículo de primera necesidad.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 5.
 
-Se considera como zona de mercado, la adyacente a los propios edificios, así como los interiores y exteriores, comprendiendo en esta consideración las banquetas circundantes que delimitan el edificio sobre las cuales ejercerá jurisdicción la Dirección de Mercados Municipales.
+Se considera como zona de mercado, la adyacente a los propios edificios, así como los interiores y exteriores comprendiendo en esta consideración las banquetas circundantes que delimitan el edificio sobre las cuales ejercerá jurisdicción la Coordinación de Mercados Municipales.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
 
 ###### Art. 6.
 
-Los comerciantes que operen en los mercados municipales deberán solicitar permiso o celebrar contratos con el Municipio, a través de la Dirección de Organismos Municipales cubriendo la cuota de acuerdo con el tabulador y atendiendo a la superficie del local que se ocupe en la forma y términos a que se refieren los artículos 23 y 24 de este reglamento.
+Los comerciantes que operen en los mercados municipales deberán solicitar permiso o celebrar contratos con el Municipio, a través de la Dirección de Comercio cubriendo la cuota de acuerdo con el tabulador y atendiendo a la superficie del local que se ocupe en la forma y términos a que se refieren los artículos 23 y 24 de este reglamento.
 
 ###### Art. 7.
 
 Las mercancías, que tengan un precio oficial y que ofrezcan en venta los comerciantes que operan en los mercados municipales, serán vendidas atendiendo a las disposiciones que en materia de comercio establezcan las leyes correspondientes.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 8.
 
-Todos los comerciantes deberán quedar empadronados ante la Dirección de Organismos Municipales.
+Todos los comerciantes deberán quedar empadronados ante la Dirección de Comercio.
 
 ###### Art. 9.
 
 Para obtener el empadronamiento a que se refiere el artículo anterior, se requiere:
 
-a) Presentar ante la Dirección de Organismos Municipales y la Tesorería Municipal una solicitud, en las formas aprobadas por el Municipio, cumpliendo con la manifestación verídica y exacta de los datos que se exigen en la misma.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+a) Presentar ante la Dirección de Comercio y la Tesorería Municipal una solicitud, en las formas aprobadas por el Municipio, cumpliendo con la manifestación verídica y exacta de los datos que se exigen en la misma.
 
 b) Comprobar ser mexicano por nacimiento y haber cumplido 16 años.
 
@@ -89,7 +99,9 @@ e) Estar en pleno goce de los derechos civiles y políticos.
 
 f) Someterse a estudios socio-económicos.
 
-La solicitud podrá ser denegada, por resolución debidamente motivada y fundada que dicte la Dirección de Mercados.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+La solicitud podrá ser denegada por resolución debidamente motivada y fundada que dicte la Dirección de Comercio.
 
 ###### Art. 10.
 
@@ -97,35 +109,45 @@ El horario para el funcionamiento de los mercados públicos municipales, en épo
 
 Los horarios que se señalan en el artículo anterior, podrán ser flexibles en casos especiales y a solicitud expresa de los locatarios del Mercado que así lo requieran, previa notificación de autorización de la autoridad municipal.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 11.
 
-Cuando un local permanezca cerrado o inactivo durante un lapso consecutivo de 30 días naturales y sin justificación, a juicio de la Dirección de Organismos Municipales, procederá a la rescisión del contrato o la terminación del permiso.
+Cuando un local permanezca cerrado o inactivo durante siete días naturales en el transcurso de 30 días naturales y sin justificación, a juicio de la Dirección de Comercio, procederá a la rescisión del contrato o la terminación del permiso.
 
 ###### Art. 12.
 
 La autoridad municipal dará preferencia en el otorgamiento de permisos, contratos y uso de los locales en los mercados públicos a las personas de escasos recursos que no puedan desempeñar otras labores, a los desempleados, a los discapacitados, a las viudas y a las madres de familia que sean el sostén del hogar.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 13.
 
-La autoridad municipal revisará o refrendará anualmente los contratos o concesiones otorgadas atendiendo a las disposiciones que al respecto expida la Dirección de Mercados y las que se desprendan de este reglamento.
+La autoridad municipal revisará o refrendará anualmente los contratos o concesiones otorgadas atendiendo a las disposiciones que al respecto expida la Coordinación de Mercados Municipales y las que se desprendan de este reglamento.
 
 ### CAPITULO II
 
 De las Autoridades Municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 14.
 
-Son autoridades competentes para la aplicación del presente reglamento:
+Son autoridades competentes para la aplicación del presente Reglamento:
 
 a) Presidente Municipal.
 
 b) Secretario del R. Ayuntamiento.
 
-c) Secretario de Administración.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+c) Dirección de Comercio.
 
 d) Tesorero Municipal.
 
-e) Director de Organismos Municipales.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+e) Coordinador de Mercados Municipales.
 
 f) Síndico Segundo en ejercicio de las atribuciones que se señalan en la Ley Orgánica de la Administración Pública Municipal, o como representante legal del Municipio.
 
@@ -149,19 +171,25 @@ I.- Firmar los actos, acuerdos, disposiciones y comunicaciones que el Presidente
 
 II.- Autorizar el auxilio de la fuerza pública para hacer cumplir las determinaciones del R. Ayuntamiento, del Presidente Municipal y demás autoridades competentes en la operación y funcionamiento de servicios públicos municipales.
 
-III.- Las demás que se desprendan del presente reglamento, de la Ley Orgánica de la Administración Pública y demás normas que tengan relación con el servicio público de mercados municipales.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+III.- El otorgamiento de premisos y la celebración de los contratos con los particulares sobre los locales de los mercados municipales con intervención de la Dirección de Comercio.
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+IV.- Acordar con el Presidente Municipal las disposiciones de carácter general que se requieran para el adecuado funcionamiento de los mercados municipales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+V.- Llevar el inventario de los mercados municipales así como administrar y asegurarse de la conservación de los mismos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+VI.- Las demás que se desprendan de la Ley Orgánica de la Administración Pública Municipal, del Reglamento de la Administración Pública en el Municipio de Monterrey, de este Reglamento y demás disposiciones relacionadas con el funcionamiento de los mercados municipales.
 
 ###### Art. 17.
 
-Corresponde al Secretario de Administración:
-
-l.- El otorgamiento de permisos y la celebración de los contratos con los particulares sobre los locales de los mercados municipales con intervención de la Dirección de Organismos Municipales.
-
-II.- Acordar con el Presidente Municipal la disposición de carácter general que se requieran para el adecuado funcionamiento de los mercados municipales.
-
-III.- Llevar el inventario de los mercados municipales asi como administrar y asegurarse de la conservación y mantenimiento de los mismos.
-
-IV.- Las demás que se desprendan de la Ley Orgánica de la Administración Pública Municipal, del Reglamento de la Administración Pública del Municipio de Monterrey, de este Reglamento y demás disposiciones relacionadas con el funcionamiento de los mercados municipales.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2001)
 
 ###### Art. 18.
 
@@ -177,9 +205,11 @@ IV.- Expedir la cédula de empadronamiento o número de cuenta a los locatarios 
 
 V.- Las demás que se desprendan de la Ley Orgánica de la Administración Pública Municipal del Reglamento para la Administración Pública de Monterrey y del presente Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 19.
 
-La Dirección de Organismos Municipales tendrá las siguientes atribuciones:
+La Dirección de Comercio tendrá las siguientes atribuciones:
 
 I.- Llevar el padrón de los comerciantes que acudan u ocupen los mercados municipales.
 
@@ -201,15 +231,19 @@ La actuación de las autoridades a que se refiere el artículo anterior, será m
 
 De las prohibiciones y obligaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 21.
 
-Los locatarios, ocupantes, de los locales en los mercados municipales, tendrán las siguientes prohibiciones:
+Los locatarios, ocupantes de los locales en los mercados municipales, tendrán las siguientes prohibiciones:
 
 I.- La venta y consumo de bebidas alcohólicas, sea cual fuere su grado, en los locales de los mercados municipales.
 
 II.- Almacenar materiales inflamables, explosivos, contaminantes y los que pudieran representar peligro para las personas o bienes que se encuentren dentro de las áreas o zonas de los mercados municipales, así como utilizar el mercado como bodega.
 
-III.- Emprender o realizar obra alguna sobre los locales sin el permiso previo de la Dirección de Organismos Municipales.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+III.- Emprender o realizar obra alguna sobre los locales sin el permiso previo de la Coordinación de Mercados Municipales.
 
 IV.- Realizar obra en los bienes comunes o instalaciones generales de los mercados municipales.
 
@@ -233,7 +267,9 @@ Son obligaciones de los comerciantes:
 
 I.- Operar exclusivamente conforme al giro autorizado.
 
-II.- Permanecer en los locales dentro de los horarios marcados por la Dirección de Organismos Municipales.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+II.- Permanecer en los locales dentro de los horarios marcados por la Dirección de Comercio.
 
 III.- Mantener aseados los puestos en que se efectúen sus actividades comerciales.
 
@@ -241,7 +277,9 @@ IV.- Mantener limpio el exterior de cada local.
 
 V.- Realizar la actividad comercial en forma personal.
 
-VI.- Obtener de la Dirección de Organismos Municipales la autorización para realizar la actividad comercial a través de factor o dependiente.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+VI.- Obtener de la Dirección de Comercio la autorización para realizar la actividad comercial a través de factor o dependiente.
 
 VII.- Inscribir a quienes presten el servicio personal bajo su subordinación.
 
@@ -255,7 +293,9 @@ XI.- Celebrar los contratos para los servicios de luz, gas, agua y drenaje, tel�
 
 XII.- Cubrir las cuotas por la prestación de los servicios a los que se refiere la fracción anterior.
 
-XIII.- Realizar la devolución, tanto material como jurídica del local a la Coordinación de Mercados, cuando:
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+XIII.- Realizar la devolución, tanto material como jurídica del local a la Coordinación de Mercados Municipales, cuando:
 
 a).- El locatario ya no desee seguir explotándolo.
 
@@ -291,9 +331,11 @@ Todo pago de cuotas, rentas o precios deberán realizarse por los locatarios dir
 
 De las actividades de comercialización.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 26.
 
-Los giros comerciales en los mercados municipales deberán ser autorizados por la Dirección de Organismos Municipales.
+Los giros comerciales en los Mercados Municipales deberán ser autorizados por la Dirección de Comercio.
 
 ###### Art. 27.
 
@@ -343,29 +385,37 @@ t) Plantas de ornato.
 
 u) Ferretería.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 28.
 
-En la solicitud que formule el comerciante, deberá señalar el giro comercial, para guardar el orden correspondiente que quedará debidamente determinado en la autorización, reservándose la Dirección de Organismos Municipales el señalar el lugar, dentro del mercado municipal, dentro del cual se pueda operar.
+En la solicitud que formule el comerciante, deberá señalar el giro comercial, para guardar el orden correspondiente que quedará debidamente determinado en la autorización, reservándose la Dirección de Comercio el señalar el lugar, dentro del mercado municipal, dentro del cual se pueda operar.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
 
 ###### Art. 29.
 
-Toda suspensión temporal de actividades por el comerciante a quien se le haya concedido autorización, deberá ser avisada con oportunidad a la Dirección de Organismos Municipales.
+Toda suspensión temporal de actividades por el comerciante a quien se le haya concedido autorización, deberá ser avisada con oportunidad a la Dirección de Comercio.
 
 ###### Art. 30.
 
 Los comerciantes deberán refrendar el empadronamiento durante el mes de enero de cada año.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 31.
 
-La Dirección de Organismos Municipales expedirá credencial, con fotografía en la que se identifique al titular del permiso y giro a que se dedica.
+La Dirección de Comercio expedirá credencial con fotografía en la que se identifique al titular del permiso y giro que se dedica.
 
 ### CAPITULO V
 
 De los traspasos y cambios de giro.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 32.
 
-Los comerciantes a que se refiere este reglamento deberán solicitar, por escrito a la Dirección de Organismos Municipales la autorización para traspasar sus derechos sobre los locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales a las cuales se le hubiere autorizado.
+Los comerciantes a que se refiere el reglamento deberán solicitar, por escrito a la Dirección de Comercio, la autorización para traspasar sus derechos sobre los locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales a las cuales se le hubiere autorizado.
 
 ###### Art. 33.
 
@@ -385,21 +435,27 @@ e) Presentar tres fotografías.
 
 Para cambio de giro se deberán cumplir con los requisitos exigidos para la obtención del permiso y éstos podrán realizarse sobre todo tomando en cuenta que en los Mercados Municipales se expenden productos de temporada, pero en cualquier caso deberá notificarse a la autoridad municipal.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 35.
 
-La Tesorería Municipal y la Dirección de Organismos Municipales, autorizará el traspaso o el cambio de giro y la primera expedirá la cédula de empadronamiento y número de cuenta.
+La Tesorería Municipal y la Dirección de Comercio, autorizarán el traspaso o el cambio de giro y la primera expedirá la cédula de empadronamiento y número de cuenta.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
 
 ###### Art. 36.
 
-Todo traspaso o cambio de giro, no autorizado, se considera nulo de pleno derecho y la Dirección de Organismos Municipales procederá al desalojo del local correspondiente.
+Todo traspaso o cambio de giro, no autorizado, se considera nulo de pleno derecho y la Dirección de Comercio procederá al desalojo del local correspondiente.
 
 ###### Art. 37.
 
 Los comerciantes no podrán subarrendar los locales.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 38.
 
-Serán nulos de pleno derecho los usos, intercambios familiares, cambios de giro por actos de persona a persona, como por causa de muerte, si no se cuenta con la previa autorización de la Dirección de Organismos Municipales, en la forma y términos previstos en el presente reglamento.
+Serán nulos de pleno derecho los usos, intercambios familiares, cambios de giro por actos de personas, como por causa de muerte, si no se cuenta con la previa autorización de la Dirección de Comercio, en la forma y términos previstos en el presente reglamento.
 
 ###### Art. 39.
 
@@ -415,9 +471,11 @@ Si durante el trámite a que se refiere el artículo anterior, se suscitare algu
 
 De las cancelaciones y desalojos.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 41.
 
-La Dirección de Organismos Municipales instaurará el procedimiento para la cancelación de permisos o desalojo de locales cuando se incurra en incumplimiento de obligaciones o violación a las prohibiciones establecidas en este reglamento.
+La Dirección de Comercio, instaurará el procedimiento para la cancelación de permisos o desalojo de locales cuando se incurra en el incumplimiento de obligaciones o violación a las prohibiciones establecidas en este reglamento.
 
 ###### Art. 42.
 
@@ -427,9 +485,11 @@ La autoridad municipal tendrá atribuciones para sancionar con el retiro de merc
 
 Para determinar la sanción, la autoridad municipal tomará en cuenta la naturaleza de la infracción, las posibilidades económicas del infractor, la reincidencia y los perjuicios que cause a la vía pública en donde se ejercite la actividad comercial.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Art. 44.
 
-La Dirección de Organismos Municipales al tener conocimiento de una violación a las prohibiciones o incumplimiento a las obligaciones por parte de los ocupantes o locatarios de los mercados municipales, expedirá un mandamiento por escrito, en el que se haga del conocimiento de aquellos el motivo o causa de la iniciación del procedimiento en su contra, concediéndole 3 días para que comparezca a exponer lo que a sus derechos conviniere y a ofrecer las pruebas de su intención. Transcurrido el término, con contestación o sin ella, se fijará fecha y hora para la celebración de la audiencia que será de pruebas, alegatos y resoluciones.
+La Dirección de Comercio al tener conocimiento de una violación a las prohibiciones a las obligaciones por parte de los ocupantes o locatarios de los mercados municipales, expedirá un mandamiento por escrito, en el que se haga del conocimiento de aquellos el motivo o causa de la iniciación del procedimiento en su contra, concediéndole tres días para que comparezca a exponer lo que a sus derechos conviniere y a ofrecer las pruebas de su intención. Transcurrido el término, con contestación o sin ella, se fijará fecha y hora para la celebración de la audiencia que será de pruebas, alegatos y resoluciones.
 
 ###### Art. 45.
 
@@ -468,3 +528,11 @@ C. Jesús Hinojosa Tijerina.
 Secretario del R. Ayuntamiento
 
 C. José Martínez González.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2001.
+
+PRIMERO. La Secretaría del R. Ayuntamiento deberá turnar para su publicación del presente acuerdo, tanto a la Gaceta Municipal como al Periódico Oficial del Estado, de conformidad con lo establecido en el Artículo 27, fracción IV y 167 de la Ley Orgánica de la Administración Pública Municipal, y 76, fracción IV del Reglamento Interior del Republicano Ayuntamiento de la Ciudad.
+
+SEGUNDO. La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Monterrey, Nuevo León, a agosto del 2001.
