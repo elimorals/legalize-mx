@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-alumnos-de-la-universidad-tecnologica-de-23700"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2003-07-16"
+last_updated: "2004-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ALUMNOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2004.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -357,9 +357,11 @@ Para la determinación de los logros del aprendizaje del alumno, el personal doc
 
 La Universidad Tecnológica establece como tipo de evaluación la de carácter formativo, que se aplica de manera sistemática, continua y flexible, durante todo el proceso de cada curso, para la aplicación de medidas correctivas oportunas, por lo menos cada mes.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2004)</small>
+
 ###### Artículo 39.
 
-La calificación de cada asignatura se expresará en cuatro resultados parciales; la calificación final será el promedio de los cuatro anteriores, mismos que entregarán los profesores de cada asignatura a los Directores de Carrera y a Servicios Escolares, según tiempos que establezca el calendario escolar de la Institución.
+La calificación de cada asignatura se expresará en tres resultados parciales; la calificación final será el promedio de los tres anteriores, mismos que entregarán los profesores de cada asignatura a los Directores de Carrera y a Servicios Escolares, según tiempos que establezca el calendario escolar.
 
 ###### Artículo 40.
 
@@ -377,17 +379,23 @@ Si la calificación mensual obtenida es menor de siete, se aplicarán acciones d
 
 El alumno podrá solicitar revisión de los resultados de sus evaluaciones, en primer término, al Profesor de Asignatura, o como última instancia al Director de Carrera correspondiente, el día hábil siguiente a la entrega de sus calificaciones, el cual estudiará dicha petición y en caso de considerar que ésta procede, la turnará al profesor correspondiente para su posible reconsideración.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2004)</small>
+
 ###### Artículo 44.
 
-El alumno que no haya acreditado una asignatura en el curso normal, tendrá, por única vez, la oportunidad de acreditarla presentando un examen extraordinario, el cual se aplicará en el periodo establecido en el calendario escolar. Para poder presentar examen extraordinario se deberá contar por lo menos con un 70% de asistencia a clases de la asignatura en cuestión, pagar el derecho a examen y no adeudar cantidad alguna a la Institución, según lo establece el Reglamento de Evaluación y Acreditación.
+El alumno que no haya acreditado una asignatura en el curso normal, tendrá, por única vez la oportunidad de acreditarla, presentando evaluación de Última Asignatura, la cual se aplicará en el período establecido en el calendario escolar. Para poder presentar evaluación de Última Asignatura deberá cumplir con los requisitos establecidos en los artículos 38, fracciones I, III, IV, y V y 43, fracciones I, II y III del Reglamento de Evaluación y Acreditación.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2004)</small>
 
 ###### Artículo 45.
 
-Si un alumno después de esta oportunidad vuelve a obtener calificación reprobatoria, tendrá derecho, según el Reglamento de Evaluación y Acreditación, a presentar evaluación de Última Asignatura; en caso de también reprobar ésta, causara baja definitiva de la Universidad Tecnológica.
+Si el alumno obtiene calificación reprobatoria, en la evaluación de Última Asignatura, tendrá una única oportunidad de ingresar a otra carrera en el siguiente ciclo escolar; o si quisiera continuar en la misma, tendrá también como única oportunidad la de cursar y acreditar el cuatrimestre completo en el siguiente ciclo escolar.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2004)</small>
 
 ###### Artículo 46.
 
-Un alumno solo podrá presentar como máximo dos exámenes extraordinarios en un cuatrimestre. En caso de reprobar tres o más asignaturas en período ordinario, causará baja definitiva de la Universidad Tecnológica automáticamente.
+Un alumno tendrá derecho a presentar evaluaciones extraordinarias en dos asignaturas como máximo en cada cuatrimestre.
 
 ###### Artículo 47.
 
@@ -564,5 +572,9 @@ LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN 
 P.O. 16 DE JULIO DE 2003.
 
 ACTA POR LA QUE SE REFORMAN LOS ARTICULOS 51 Y 52 DEL REGLAMENTO DE ALUMNOS.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 31 DE ENERO DE 2004.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
