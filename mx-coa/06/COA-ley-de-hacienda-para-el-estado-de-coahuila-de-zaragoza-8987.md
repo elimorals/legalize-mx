@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2002-12-31"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -277,11 +277,13 @@ El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la S
 
 Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración en cada municipio en que se encuentren ubicadas las sucursales. En aquéllos casos en que no exista oficina recaudadora en el municipio de que se trate, las declaraciones podrán ser presentadas en las instituciones de crédito o establecimientos autorizados más cercanos al domicilio del contribuyente.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 27.
 
-Los contribuyentes podrán optar por pagar en la declaración del mes de enero el impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando, el monto de lo pagado en el ejercicio anterior, no haya excedido de la cantidad de $10,000.00.
+Los contribuyentes podrán optar por pagar en la declaración del mes de enero, el impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando el monto de lo pagado en el ejercicio anterior, no haya excedido de la cantidad de $15.000.00.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 La cantidad señalada en el párrafo anterior se actualizará anualmente conforme a lo dispuesto por el artículo 3 de esta ley.
 
@@ -1605,7 +1607,7 @@ No se causará este derecho cuando los servicios que se presten tengan por objet
 
 #### SECCION SEGUNDA. POR OTROS SERVICIOS
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 118.
 
@@ -1624,6 +1626,12 @@ a).- Hasta de 10 años de fabricación anteriores al ejercicio fiscal en curso, 
 b).- De más de 10 años y hasta 20 años de fabricación anteriores al ejercicio fiscal en curso, $342.00 (CUATROCIENTOS TREINTA Y DOS PESOS 00/100 M.N.).
 
 c).- De más de 20 años de fabricación anteriores al ejercicio fiscal en curso, $299.00 (DOSCIENTOS NOVENTA Y NUEVE PESOS 00/100 M.N.).
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+d) Los vehículos de carga para más de tres toneladas, ómnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme a los subincisos anteriores, deberán pagar la cantidad de $500.00 (QUINIENTOS PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
+
+Los ingresos que se generen conforme al párrafo anterior, deberán destinarse al pago de programas de rehabilitación y mejoramiento de las vías de comunicación.
 
 2.- Vehículos de servicio público, $456.00 (CUATROCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.). (3)
 
@@ -1675,9 +1683,7 @@ VII.- Expedición de licencias para conducir vehículos:
 
 6.- Costo de la fotografía digitalizada en la licencia, $40.00.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
-
-7.- Examen teórico y practico para quienes adquieren por primera vez licencia para conducir, $31.00 (TREINTA Y UN PESOS 00/100 M.N.).
+7.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -1763,7 +1769,7 @@ Si antes de que se agote el procedimiento económico-coactivo, el contribuyente 
 
 ###### ARTICULO 126.
 
-Los servicios prestados por la Secretaría de Comunicaciones y Obras Públicas, causarán derechos conforme a la siguiente:
+Los servicios prestados por la Secretaría de Urbanismo y Obras Públicas, causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -2289,9 +2295,9 @@ OBJETO
 
 Es objeto de esta contribución la realización de pagos por concepto de impuestos, derechos y cualquier otra contribución que se cause conforme a la presente ley y demás disposiciones fiscales del Estado, así como los accesorios que se paguen.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-No se considerarán incluidos en el objeto de esta contribución, los pagos correspondientes al Impuesto Sobre Nóminas, al Impuesto Sobre Diversiones y Espectáculos Públicos relativos a eventos cinematográficos, teatrales y de circo, al Impuesto por Servicios de Hospedaje, al Impuesto Sobre Ingresos por Premios Derivados de Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos, al Impuesto Adicional Sobre los Derechos que se causen por los servicios que presta el Registro Público de la Propiedad y del Comercio y los derechos que se causen por los servicios que presta la Secretaría de Educación Pública.
+No se considerarán incluidos en el objeto de esta contribución los pagos correspondientes al Impuesto Sobre Nóminas al Impuesto Sobre Diversiones y Espectáculos Públicos relativos a eventos teatrales y de circo, al Impuesto por Servicios de Hospedaje, al Impuesto Sobre Ingresos por Premios Derivados de Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos, al Impuesto Adicional Sobre los Derechos que se causen por los Servicios que presta el Registro Publico, los derechos que se causen por los servicios que presta la Secretaría de Educación Pública y las Contribuciones por Obra Publica.
 
 El rendimiento de esta contribución será destinado exclusivamente al fomento a la educación en el Estado.
 
@@ -2872,6 +2878,16 @@ P.O. 31 DE DICIEMBRE DE 2002.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el primero de enero de 2003.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2004.
 
 ###### ARTICULO SEGUNDO.
 
