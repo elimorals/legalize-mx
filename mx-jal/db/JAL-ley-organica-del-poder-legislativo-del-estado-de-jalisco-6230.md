@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1999-06-15"
+last_updated: "1999-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1999.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -503,6 +503,10 @@ XXX. Planeación del Desarrollo.
 
 XXXI. Protección Civil.
 
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1999)</small>
+
+XXXII. Desarrollo Municipal.
+
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
 En el trabajo de las Comisiones, podrán intervenir los Diputados que no formen parte de las mismas, quienes podrán participar únicamente con voz.
@@ -868,6 +872,12 @@ III. De la prevención de desastres y siniestros en las zonas de alto riesgo;
 IV. Del seguimiento en las acciones operativas que se realicen en material de protección civil y de los ámbitos de competencia institucionales; y
 
 V. De los demás asuntos relacionados con la materia que le sean turnados por acuerdo de la Asamblea.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1999)</small>
+
+###### Artículo 47
+
+Ñ.- Corresponde a la Comisión de Desarrollo Municipal el conocimiento de los asuntos en materia municipal y su normatividad.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
 
@@ -1958,5 +1968,13 @@ P.O. 8 DE JUNIO DE 1999
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 15 DE JUNIO DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE AGOSTO DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE AGOSTO DE 1999
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
