@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-adquisiciones-arrendamientos-y-prestacion-de-11023"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-15"
-last_updated: "1995-02-15"
+last_updated: "1998-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO.
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el 15 de Febrero de 1995.
 
@@ -45,7 +45,9 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON 
 
 La presente ley es de orden público e interés social y tiene por objeto regular:
 
-I - Las acciones relativas a la planeación, programación, presupuestación y control que en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios relacionados con los mismos realicen las dependencias y entidades del Gobierno del Estado, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+I.- Las acciones relativas a la planeación, programación, presupuestación, gasto, ejecución, conservación y control que en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios relacionados con los mismos realicen las dependencias y entidades del Gobierno del Estado, y
 
 II - Los actos y contratos que realicen las dependencias y entidades, relacionados con las materias a que se refiere la fracción anterior.
 
@@ -53,11 +55,17 @@ II - Los actos y contratos que realicen las dependencias y entidades, relacionad
 
 Para los efectos de esta ley, se entenderá por:
 
-I - SECRETARIA: La Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
-II - OFICIALIA MAYOR: La Oficialía Mayor del Ejecutivo y/o las correspondientes de los otros poderes en su caso;
+I.- Secretaría: La Secretaría de Hacienda.
 
-III - CONTRALORIA: La Contraloría deI Gobierno del Estado;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+II.- Oficialía Mayor: La Secretaría de Administración y/o las correspondientes de los otros poderes en su caso;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+III.- Organo de Control: La Unidad de Programas Coordinados Federación - Estado.
 
 IV - DEPENDENCIAS: Las Unidades del Ejecutivo, las Secretarias del Despacho y Departamentos Administrativos de Ios otros dos poderes, y la Procuraduría General de Justicia del Estado;
 
@@ -73,13 +81,21 @@ En todos los casos en que esta ley haga referencia a las adquisiciones, arrendam
 
 Sin perjuicio de lo que esta ley establece, el gasto de las adquisiciones, los arrendamientos y los servicios, se sujetará a lo previsto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, así como, en su caso, en los presupuestos anuales de egresos del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 4.
 
-Las dependencias y entidades se abstendrán de formalizar o modificar pedidos o contratos en las materias que regula esta ley, si no existiese salvo disponible en su correspondiente presupuesto.
+Las dependencias y entidades podrán convocar, adjudicar o llevar a cabo adquisiciones, arrendamientos y servicios cuando se cuente con saldo disponible dentro de su presupuesto aprobado, en la partida correspondiente.
+
+En casos excepcionales y previa autorización de la Secretaría, las dependencias y entidades podrán convocar sin contar con saldo disponible en su presupuesto.
+
+Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 5.
 
-La Secretaría de Finanzas, la Oficialía Mayor y la Contraloría como entidades normativas, en el ámbito de sus respectivas competencias, quedan facultadas para interpretar esta ley en efectos administrativos, así como para dictar las disposiciones administrativas que requiera la adecuada aplicación de esta misma ley y sus disposiciones reglamentarias, tomando en cuenta la opinión de las restantes, cuando corresponda por razón de sus atribuciones.
+La Secretaría, la Oficialía Mayor y el Organo de Control, como entidades normativas, en el ámbito de sus respectivas competencias, quedan facultadas para interpretar esta Ley en efectos administrativos, así como para dictar las disposiciones administrativas que requiera la adecuada aplicación de esta misma ley y sus disposiciones reglamentarias, tomando en cuenta la opinión de las restantes, cuando corresponda por razón de sus atribuciones. Lo anterior sin perjuicio de las atribuciones que conforme a su propia Ley Orgánica y otras disposiciones aplicables, le corresponden a la Contaduría Mayor de Hacienda del Poder Legislativo, para intervenir en todos los aspectos que regula la presente ley, cuando estime necesario el ejercicio de sus facultades.
 
 ###### ARTICULO 6.
 
@@ -107,9 +123,15 @@ Sin perjuicio de la observancia de las disposiciones legales que les resulten ap
 
 Las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, necesarios para la realización de las obras públicas por administración directa, o los que suministren las dependencias y entidades, de acuerdo a lo pactado en los contratos de obra, deberán realizarse conforme a los establecidos (sic) en esta ley y en las normas que de ella deriven.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría, la Contraloría, y la Oficialía Mayor, podrán contratar asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y servicios, la verificación de precios; pruebas de calidad y otras actividades vinculadas con el objeto de esta ley.
+La Secretaría, la Oficialía Mayor y el Organo de Control podrán contratar con apego a esta ley asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y servicios, la verificación de precios, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 11 BIS.- Todas las dependencias y entidades mencionadas en el Artículo 2o de esta ley, solo podrán celebrar pedidos o contratos de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles del Estado de Quintana Roo, con las personas físicas y morales que se encuentren inscritas o se inscriban en el padrón de proveedores del Estado con registro vigente. El padrón lo tendrá a su cargo la Oficialía Mayor y en el mismo podrán inscribirse las personas físicas y morales que satisfagan los requisitos previstos en el Reglamento que para tal efecto se expida.
 
 ## TITULO SEGUNDO. DE LAS ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
@@ -209,9 +231,11 @@ Las adquisiciones, arrendamientos y servicios se adjudicarán o llevarán a cabo
 
 Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que el pedido o contrato sólo puede fincarse o celebrarse con una determinada persona, por ser ésta la titular de la patente de los bienes o servicios de que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 20.
 
-Las convocatorias que podrán referirse a uno o a varios contratos o pedidos, se publicarán en el Periódico Oficial y en el Diario de mayor circulación en el Estado, por una sola vez.
+Las convocatorias, que podrán referirse a uno o a varios contratos o pedidos, se publicarán en dos periódicos de mayor circulación en el Estado, y en su caso, cuando el importe autorizado exceda los rangos establecidos para licitación pública o no hubiera proveedor idóneo en la entidad, se publicarán en un periódico de mayor circulación nacional, por una sola vez.
 
 Las dependencias y entidades serán responsables de la adecuada publicidad de las convocatorias, de acuerdo con la naturaleza de los bienes y servicios, materia de la licitación.
 
@@ -223,7 +247,9 @@ II.- La descripción general, cantidad y unidad de medida de cada uno de los bie
 
 III.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la licitación y, en su caso, el costo y forma de pago de las mismas;
 
-IV.- La fecha, hora y lugar de la celebración del acto de apertura de ofertas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+IV.- La fecha, hora y lugar de la celebración del acto de presentación y apertura de proposiciones;
 
 V.- La indicación de si la licitación es nacional o internacional, si se realizara bajo la cobertura de algún tratado y el idioma o idiomas en que podrán presentarse las proposiciones;
 
@@ -237,7 +263,9 @@ Las licitaciones públicas podrá ser:
 
 I.- Nacionales, cuando únicamente participan personas de nacionalidad mexicana y los bienes a adquirir, cuenten por lo menos con un cincuenta por ciento de contenido nacional.
 
-La Secretaría de Comercio y Fomento Industrial de Quintana Roo, mediante reglas de carácter general, establecerá los casos en que no será exigible el porcentaje mencionado, así como un procedimiento expedito para determinar el grado de integración nacional de los bienes que se oferten, para la cual tomará en cuenta la opinión de la Secretaría y de la Contraloría;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+La Secretaría de Comercio y Fomento Industrial de Quintana Roo, mediante reglas de carácter general, establecerá los casos en que no será exigible el porcentaje mencionado, así como un procedimiento expedito para determinar el grado de integración nacional de los bienes que se oferten, para la cual tomará en cuenta la opinión de la Secretaría y del Organo de Control.
 
 II.- Internacionales; cuando puedan participar tanto personas con nacionalidad mexicana como extranjera y los bienes a adquirir sean de origen nacional o extranjero.
 
@@ -249,15 +277,21 @@ I.- Nombre, denominación o razón social de la dependencia o entidad convocante
 
 II.- Poderes que deberán acreditarse; fecha, hora y lugar de la junta de aclaraciones a las bases de licitación, siendo optativa la asistencia a las reuniones, que en su caso, se realicen: Fecha, hora y lugar para la presentación y apertura de las proposiciones, garantías, comunicación del fallo y firma del contrato;
 
-III.- Señalamiento que será causa de descalificación, el incumplimiento de los requisitos establecidos en las bases de la licitación;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+III.- Señalamiento que será causa de descalificación, el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación;
 
 IV.- El idioma o idiomas en que podrán presentarse las proposiciones;
 
-V.- La indicación de que ninguna de las condiciones contenidas en las bases de licitación, así como las proposiciones presentadas por los proveedores podrán ser negociadas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+V.- La indicación de que ninguna de las condiciones contenidas en las bases de licitación, así como en las proposiciones presentadas por los proveedores podrán ser negociadas;
 
 VI.- Criterios claros y detallados para la adjudicación de los contratos y la indicación, de que en la evaluación de las proposiciones en ningún caso podrán utilizarse mecanismos de puntos o porcentajes;
 
-VII.- Descripción completa de los bienes o servicios, información especifica sobre el mantenimiento, asistencia técnica y capacitación, relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; especificaciones y normas que en su caso sean aplicables, dibujos, cantidades, muestras, pruebas que se garantizarán y de ser posible método para ejecutarlas, período de garantía y en su caso, otras opciones adicionales de cotización;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+VII.- Descripción completa de los bienes o servicios, información específica sobre el mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; especificaciones y normas que, en su caso, sean aplicables; dibujos, cantidades, muestras, pruebas que se realizarán y, de ser posible, método para ejecutarlas; período de garantía y, en su caso, otras opciones adicionales de cotización;
 
 VIII.- Plazo, lugar y condiciones de entrega;
 
@@ -267,7 +301,9 @@ X.- Condiciones de precio y pago;
 
 XI.- La indicación de sí se otorgará anticipo, en cuyo caso deberá señalarse el porcentaje respectivo, el cual no podrá exceder del 50% del monto total del contrato;
 
-XII.- La indicación de sí la totalidad de los bienes o servicios, objeto de la licitación o de cada partida o concepto de los mismos, serán adjudicados a un solo proveedor, o si la adjudicación será mediante el procedimiento de abastecimiento simultaneo, en cuyo caso deberá precisarse el número de fuentes de abastecimiento requeridas, los porcentajes que se asignarán a cada una y el porcentaje diferencial en el precio que se considerará; el cual no podrá ser superior al 15% respecto a la proposición solvente más baja;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+XII.- La indicación de sí la totalidad de los bienes o servicios objeto de la licitación, o bien, de cada partida o concepto de los mismos, serán adjudicados a un solo proveedor, o si la adjudicación se hará mediante el procedimiento de abastecimiento simultáneo, en cuyo caso deberá precisarse el número de fuentes de abastecimiento requeridas, los porcentajes que se asignarán a cada una, y el porcentaje diferencial en el precio que se considerará; el cual no podrá ser superior al cinco por ciento respecto a la proposición solvente más baja;
 
 XIII.- El señalamiento que será causa de descalificación, la comprobación que algún proveedor ha acordado con otro u otros elevar los precios de los bienes o servicios;
 
@@ -277,11 +313,15 @@ XV.- Instrucciones para elaborar y entregar las proposiciones y garantías, y
 
 XVI.- La indicación de que, en los casos de licitación internacional en que la convocante determine que los pagos se harán en moneda extranjera los proveedores nacionales, exclusivamente para fines de comparación podrán presentar la parte del contenido importado de sus proposiciones en la moneda extranjera que determine la convocante, pero el pago se efectuará en moneda nacional al tipo de cambio vigente en la fecha en que se haga el pago de los bienes.
 
-Tanto en licitaciones nacionales como internacionales, los requisitos y condiciones que tengan las bases de licitación deberán ser los mismos para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazos para la ejecución de los trabajos de normalización, forma y plazo de pago, penas convencionales, anticipos y garantías.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+Tanto en licitaciones nacionales como en internacionales, los requisitos y condiciones que contengan las bases de licitación deberán ser los mismos para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega; plazos para la ejecución de los trabajos; normalización; forma y plazo de pago, penas convencionales, anticipos y garantías.
 
 Tratándose de adquisiciones, arrendamiento y servicios con créditos externos otorgados al gobierno estatal o con su aval, los requisitos para la licitación serán establecidos por la Secretaría.
 
-En el ejercicio de sus atribuciones la Contraloría podrá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta ley; si la Contraloría determina la cancelación del proceso de adjudicación, la dependencia o entidad reembolsará a los participantes los gastos no recuperables en que hayan incurrido, siempre que éstos sean responsables y estén debidamente comprobados y relacionen directamente con la operación correspondiente.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+En el ejercicio de sus atribuciones, el Organo de Control podrá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley; si el Organo de Control determina la cancelación del proceso de adjudicación, la dependencia o entidad reembolsará a los participantes los gastos no recuperables en que hayan incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
 
 ###### ARTICULO 23.
 
@@ -291,7 +331,9 @@ Para tal efecto las dependencias y entidades, no podrán exigir requisitos adici
 
 El plazo de la presentación y apertura de proposiciones internacionales, no podrá ser inferior a cuarenta días naturales, contados a partir de la fecha de publicación de la convocatoria, salvo que por razones de urgencias justificadas, y siempre que ello no tenga objeto limitar el número de participantes, no pueda observarse dicho plazo en cuyo caso no podrá ser menor de diez días naturales contados a partir de la fecha de publicación de la convocatoria.
 
-En las licitaciones nacionales de adquisiciones, arrendamientos y servicios, el plazo para la presentación y apertura de proposiciones será cuando menos de quince días naturales contados a partir de la fecha de publicación de la convocatoria.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+En licitaciones nacionales de adquisiciones, arrendamientos y servicios, el plazo para la presentación y apertura de proposiciones será de quince días naturales contados a partir de la fecha de publicación de la convocatoria. Salvo que por razones de urgencia justificadas y siempre que ello no tenga por objeto limitar el número de participantes, el plazo podrá reducirse a diez días naturales, contados a partir de la fecha de la publicación de la convocatoria.
 
 La reducción de los plazos, serán autorizados por el comité de adquisiciones, arrendamientos y servicios.
 
@@ -305,7 +347,9 @@ II.- En el caso de las bases de licitación, se publique un aviso a través de l
 
 No será necesario hacer la relación del aviso a que se refiere esta fracción cuando las modificaciones deriven de las juntas de aclaraciones, siempre que, a más tardar en el plazo señalado en este artículo se entregue copia del acta respectiva a cada uno de los participantes que hayan adquirido las bases de la correspondiente licitación.
 
-Las modificaciones de que se trata este artículo, no podrán consistir en la situación o variación sustancial de los bienes o servicios convocados originalmente, o bien, en la adición de otros distintos.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+Las modificaciones de que trate este artículo no podrán consistir en la sustitución o variación sustancial de los bienes o servicios convocados originalmente, o bien, en la adición de otros distintos.
 
 ###### ARTICULO 25.
 
@@ -321,15 +365,19 @@ IV.- En el mismo acto de fallo o adjunta a la comunicación referida en la fracc
 
 V.- La dependencia o entidad levantará acta del acto de presentación y/o apertura de proposiciones, en la que se hará constar las propuestas aceptadas con sus importes, así como las que hubieren desechadas y las causas que lo motivaron; el acta firmada por los participantes y se les entregará copia de la misma.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 26.
 
-La Contraloría de Gobierno y la Oficialía Mayor, quedan facultadas para expedir los criterios generales que orienten a las dependencias y entidades, a fin de obtener las mejores condiciones en cuanto a precios o importes de los bienes y servicios relativos a las operaciones que regulen esta ley.
+EI Organo de Control y la Oficialía Mayor, quedan facultadas para expedir los criterios generales que orienten a las dependencias y entidades, a fin de obtener las mejores condiciones en cuanto a precios o importes de los bienes y servicios relativos a las operaciones que regulen esta Ley.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 27.
 
-Las dependencias y entidades, previamente al establecimiento de los compromisos para la adquisición de bienes de procedencia extranjera ya sea de importación directa o de compra en el país; deberán recabar con la anticipación necesaria de acuerdo al bien de que se trate, la autorización estatal de la Oficialía Mayor de Gobierno.
+Las dependencias y entidades, previamente al establecimiento de los compromisos para la adquisición de bienes de procedencia extranjera, ya sean de importación directa o de compra en el país, deberán recabar con la anticipación necesaria, de acuerdo al bien de que se trate, la autorización de la Delegación en Quintana Roo de la Secretaría de Comercio y Fomento Industrial.
 
-A la Oficialía Mayor de Gobierno se le podrá solicitar exima a las dependencias y entidades del requisito señalado en el párrafo anterior, cuando se trate de bienes muebles que no se produzcan en el país o cuya producción sea insuficiente para satisfacer la demanda de los mismos.
+A esta Delegación se le podrá solicitar exima a las dependencias y entidades del requisito señalado en el párrafo anterior, cuando se trate de bienes muebles que no se produzcan en el país o cuya producción sea insuficiente para satisfacer la demanda de los mismos.
 
 ###### ARTICULO 28.
 
@@ -351,7 +399,9 @@ Cuando las dependencias y entidades celebren contratos en los casos señalados e
 
 Las garantías a que se refiere el artículo anterior, se constituirán por el proveedor en favor de:
 
-I.- La Secretaría de Finanzas, por actos o contratos que celebren con las dependencias a que se refieren las fracciones II y V del Artículo 2, de esta ley;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+I.- La Secretaría de Hacienda, por actos o contratos que celebren con las dependencias a que se refieren las fracciones II y V del artículo 2, de esta Ley;
 
 II.- Las entidades, cuando los actos o contratos se celebren con ellas; y la Tesorería de la Federación, en los casos a que se refiere el Artículo 7 de esta ley.
 
@@ -387,7 +437,9 @@ Las dependencias y entidades, bajo su responsabilidad, podrán fincar pedidos y 
 
 I.- Cuando existan condiciones o circunstancias extraordinarias o imprevisibles;
 
-II.- Cuando no existan por lo menos tres proveedores idóneos en el Estado, previa investigación del mercado que al efecto se hubiere realizado;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+II.- Cuando existan razones justificadas para la adquisición y arrendamiento de bienes de marca determinada.
 
 III.- Cuando se trate de la adquisición de bienes, mediante operaciones no comunes de comercio; y
 
@@ -415,7 +467,9 @@ XIV.- Cuando se trate de adquisiciones provenientes de personas físicas o moral
 
 XV.- Cuando se trate de servicios profesionales prestados por personas físicas.
 
-El comité a que se refiere el Artículo 15 de esta ley, en un plazo que no excederá de 15 días naturales contados a partir de la fecha en que se hubiese autorizado la operación, lo hará del conocimiento de la Contraloría acompañando la documentación que justifique la autorización.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+El comité a que se refiere el artículo 15 de esta Ley, en un plazo que no excederá de quince días naturales contados a partir de la fecha en que se hubiese autorizado la operación, lo hará del conocimiento del Organo de Control acompañando la documentación que justifique la autorización.
 
 ###### ARTICULO 34.
 
@@ -443,13 +497,17 @@ La suma de las operaciones que se realicen al amparo de este artículo no podrá
 
 Los procedimientos de invitación a cuando menos tres proveedores, se sujetarán a lo siguiente:
 
-I.- La apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante del órgano de control de la dependencia o entidad;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+I.- La apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero en este caso, invariablemente deberá estar presente un representante del órgano de control, previamente invitado por la dependencia o entidad respectiva.
 
 II.- Para llevar a cabo la evaluación, se deberá contar con un mínimo de tres propuestas;
 
 III.- Las demás disposiciones de la licitación pública de este capítulo que en lo conducente, resulten aplicables;
 
-IV.- En las solicitudes de cotización se indicarán como mínimo, la cantidad y descripción de los bienes o servicios requeridos;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+IV.- En las solicitudes de cotización se indicarán, como mínimo, la cantidad y la descripción de los bienes o servicios requeridos, y los aspectos que correspondan del Artículo 22 de esta ley;
 
 V.- Los plazos para la presentación de las proposiciones se fijarán en cada operación, atendiendo al tipo de bienes o servicios requeridos, así como a la complejidad para elaborar la propuesta y llevar a cabo su evaluación.
 
@@ -459,9 +517,11 @@ Los pedidos o contratos que deban formalizarse como resultado de su adjudicació
 
 El proveedor a quien se hubiere adjudicado el pedido o contrato como resultado de una licitación, perderá en favor de la convocante la garantía que hubiere otorgado, si por causas imputables a el, la operación no se formaliza dentro del plazo a que se refiere este artículo, pudiendo la dependencia o entidad, adjudicar el contrato o pedido al participante que haya presentado la segunda proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el Artículo 30 y así sucesivamente, en caso de que este último no acepte la adjudicación siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, en todo caso, no sea superior al 15%.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 38.
 
-Dentro de su presupuesto aprobado y disponible, los poderes y sus respectivas dependencias y entidades, podrán bajo su responsabilidad y por razones fundadas, acordar el incremento de la cantidad de bienes solicitados, mediante modificación de sus pedidos o contratos dentro de los doce meses posteriores a su firma, siempre que el monto total de las modificaciones no rebase, en conjunto, el 30% de los conceptos y volúmenes establecidos originalmente en los mismos; y el precio de los bienes sea igual al pactado originalmente.
+Dentro de su presupuesto aprobado y disponible, los poderes y sus respectivas y entidades, podrán bajo su responsabilidad y por razones fundadas, acordar el incremento de la cantidad de bienes solicitados, mediante modificación de sus pedidos o contratos dentro de los seis meses posteriores a su firma, siempre que el monto total de las modificaciones no rebase, en conjunto, el 15% de los conceptos y volúmenes establecidos originalmente en los mismos; y el precio de los bienes sea igual al pactado originalmente.
 
 Tratándose de pedidos o contratos en los que se incluya bienes o servicios de diferentes características, el porcentaje se aplicará para cada bien o servicio de que se trate.
 
@@ -475,17 +535,23 @@ No podrán presentar propuestas ni celebrar pedidos o contratos, las personas f�
 
 I.- Aquellas en cuyas empresas participe el servidor público que deba decidir directamente, o a las que se les hayan delegado tal facultad, sobre la adjudicación del pedido o contrato, o su cónyuge o sus parientes consanguíneos o por afinidad hasta el cuarto grado o civiles, sea como accionista, administrador, gerente, apoderado o comisario; con excepción de que se encuentre en el supuesto del último párrafo del Artículo 19;
 
-II.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la contraloría, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+II.- Las que desempeñen un empleo, cargo o comisión en el servicio público o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del Organo de Control conforme a la Ley de Responsabilidades de los Servicios Públicos del Estado; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
 III.- Aquellos proveedores que por causas imputables a ellos mismos, la dependencia o entidad convocante, le hubiere rescindido administrativamente un contrato, en más de una ocasión, dentro de un lapso de dos años, calendario contado a partir de la primera rescisión dicho impedimento prevalecerá ante la propia dependencia o entidad convocante durante dos años; calendario a partir de la fecha de rescisión del segundo contrato;
 
 IV.- Los Proveedores que se encuentren en el supuesto de la fracción anterior, respecto de dos o más dependencias o entidades durante un año, calendario contado a partir de la fecha en que la secretaria lo haga del conocimiento de las dependencias y entidades de la administración pública estatal;
 
-V.- Las que hubieren cumplido sus obligaciones contractuales respecto de las materias de esta ley, por causas imputables a ellas y que como consecuencia de ello, haya sido perjudicada gravemente la dependencia o entidad respectiva;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+V.- Las que no hubieren cumplido sus obligaciones contractuales respecto de las materias de esta Ley, por causas imputables a ellas y que, como consecuencia de ello haya sido perjudicada gravemente la dependencia o entidad respectiva;
 
 VI.- Aquellas que hubieren proporcionado información que resulte falsa o que haya actuado con dolo o mala fe, en algún proceso para la adjudicación de un contrato, en su celebración durante su vigencia o bien en la presentación o desahogo de una inconformidad;
 
-VII.- Las que, en virtud de la información con que cuente la contraloría hayan celebrado tratos en contravención (sic) lo dispuesto por esta ley;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+VII.- Las que, en virtud de la información con que cuente el Organo de Control hayan celebrado contratos en contravención a lo dispuesto por esta Ley;
 
 VIII.- Los Proveedores que se encuentren en situación de atraso en las entregas de los bienes o servicios por causas imputables a ellos mismos, respecto al cumplimiento de otro u otros contratos que hayan afectado con ello a la dependencia o entidad convocante;
 
@@ -509,11 +575,13 @@ Las dependencias y entidades deberán pagar el precio estipulado en el contrato 
 
 Los Proveedores quedarán obligados ante la dependencia o entidad, a responder de los defectos y vicios de los bienes y de la calidad de los servicios y de cualquier otra responsabilidad en que se hubieren incurrido en los términos señalados en el pedido o contrato respectivo y en el código civil para el estado de QUINTANA ROO.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 43.
 
-Los Proveedores que hubieren participado en las licitaciones podrán inconformarse por escrito, indistintamente, ante la dependencia o entidad que hubieren convocado o ante la contraloría, dentro de los tres días naturales siguientes al fallo del concurso, o en su caso día siguiente a aquel en que se haya emitido el acto relativo a cualquier etapa o fase del mismo.
+Los proveedores que hubieren participado en las licitaciones podrán inconformarse por escrito, indistintamente, ante la dependencia o entidad que hubiere convocado o ante el Organo de Control, dentro de los tres días naturales siguientes al fallo del concurso, o en su caso al día siguiente a aquél en que se haya emitido el acto relativo a cualquier etapa o fase del mismo.
 
-Transcurrido dicho plazo, precluye para los proveedores el derecho a inconformarse sin perjuicio de que las dependencias, entidades o la contraloría puedan actuar en cualquier tiempo en los términos de Ios artículos 44 y 45 de esta ley.
+Transcurrido dicho plazo, precluye para los proveedores el derecho de inconformarse sin perjuicio de que las dependencias, entidades o el Organo de Control puedan actuar en cualquier tiempo en los términos de los artículos 44 y 45 de esta Ley.
 
 ###### ARTICULO 44.
 
@@ -529,35 +597,45 @@ Asimismo, podrán darse por terminados los actos mencionados, cuando concurran r
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 46.
 
-Las dependencias y entidades deberán remitir a la contraloría en forma y términos que esta ley señale, la información relativa a los pedido (sic) y contratos que regula este propio ordenamiento.
+Las dependencias y entidades deberán remitir al Organo de Control y a la Secretaría en la forma y términos que esta Ley señale, la información relativa a los pedidos y contratos que regula este propio ordenamiento.
 
 Para efecto del párrafo anterior, las dependencias y entidades conservarán en forma ordenada y sistemática, la documentación que justifique y compruebe la realización de las operaciones reguladas por esta ley, por un término no menor de cinco años contados a partir de la fecha en que se hubiesen recibido los bienes o prestado el servicio.
 
-En el caso de las facturas que amparen bienes de consumo duradero incluyendo vehículos automotrices, se deberán remitir los originales a la secretaría de finanzas y copia a la oficialía mayor, para su registro y control de los inventarios generales de bienes del gobierno del estado. En los casos de los poderes judiciales y legislativo permitieran dicha documentación a sus correspondientes oficialías.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+En el caso de las facturas que amparen bienes de consumo duraderos incluyendo vehículos automotores, se deberán remitir las originales a la Secretaría y copia a la Oficialía Mayor, para su registro y control de los inventarios generales de bienes del Gobierno del Estado. En los casos de los Poderes Judiciales y Legislativo remitirán la documentación a sus correspondientes oficialías.
 
 ###### ARTICULO 47.
 
 Las dependencias y entidades controlarán los procedimientos, actos y contratos que en materia de adquisiciones, arrendamientos y servicios lleven a cabo. Para tal efecto establecerán los medios y procedimientos de control que requieran, de acuerdo con las normas que dicte el ejecutivo, a través de las dependencias normativas.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 48.
 
-La contraloría y las dependencias coordinadoras de sector, podrán realizar las vistas e inspecciones que estimen pertinentes a las dependencias y entidades que celebren actos de los regulados por esta ley, así como solicitar de los servidores públicos de las mismas y de los proveedores en su caso, todos los datos e informes relacionados con las adquisiciones, arrendamientos y servicios.
+El Organo de Control y las dependencias coordinadoras de sector, podrán realizar las visitas e inspecciones que estimen pertinentes a las dependencias y entidades que celebren actos de los regulados por esta Ley, así como solicitar a los servidores públicos de las mismas y de los proveedores en su caso, todos los datos e informes relacionados con las adquisiciones, arrendamientos y servicios.
 
-La contraloría en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que las adquisiciones, arrendamientos y servicios, se realicen conforme a lo establecido por esta ley o en las disposiciones que de ella se deriven y a los programas y presupuestos autorizados.
+EI Organo de Control en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que las adquisiciones, arrendamientos y servicios, se realicen conforme a lo establecido por esta Ley o en las disposiciones que de ella se deriven y a los programas y presupuestos autorizados.
 
-Para los efectos de lo dispuesto en este artículo, las dependencias y entidades proporcionarán todas las facilidades necesarias a fin que la contraloría, pueda realizar el seguimiento y control de las adquisiciones, arrendamientos y servicios.
+Para los efectos a lo dispuesto en este artículo, las dependencias y entidades proporcionarán todas las facilidades necesaria (sic) a fin que el Organo de Control, pueda realizar el seguimiento y control de las adquisiciones, arrendamientos y servicios.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 49.
 
-La comprobación de la calidad de las especificaciones de los bienes muebles, se harán en los laboratorios que determine la contraloría y que podrá ser aquellos con los que cuente la dependencia o entidad a adquirente o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
+La comprobación de la calidad de las especificaciones de los bienes muebles se hará en los laboratorios que determine el Organo de Control y que podrán ser aquéllos con los que cuente la dependencia o entidad adquirente o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
 
-El resultado de las comparaciones se hará constar, en un dictamen que será firmado por quien haya hecho la comprobación así como por el proveedor y el representante de la dependencia o entidad adquirente si hubiesen intervenido.
+El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como el proveedor y el representante de la dependencia o entidad adquirente, si hubieren intervenido.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 50.
 
-La contraloría y las dependencias y entidades, de oficio o en atención a las inconformidades a que se refiere el artículo 43, realizarán las investigaciones correspondientes en un plazo que no excederá de 30 días naturales contados a partir de la fecha en que se inicien, resolverán lo conducente para efectos de los artículos 44 y 45.
+El Organo de Control, las dependencias y entidades, de oficio o en atención a las inconformidades a que refiere el artículo 43, realizarán las investigaciones correspondientes dentro de un plazo que no excederá de treinta días naturales contados a partir de la fecha en que se inicien, y resolverán lo conducente para efectos de los artículos 44 y 45.
 
 ###### ARTICULO 51.
 
@@ -583,17 +661,23 @@ Quienes infrinjan las disposiciones contenidas en esta ley, con excepción de la
 
 Los proveedores que se encuentren en el supuesto de las fracciones V y VII del artículo 39, no podrán presentar propuestas ni celebrar contratos sobre las materias, objeto de esta ley durante el plazo que establezca la secretaría, el cual no será menor de seis meses ni mayor de dos años contando a partir de la fecha en que la secretaría lo haga del conocimiento de las dependencias y entidades de la administración pública estatal.
 
-Las dependencias y entidades informarán y, en su caso, remitirán la documentación comprobatoria a la secretaría y a la contraloría sobre el nombre del proveedor que se encuentre en el supuesto previsto en la fracción IV del artículo 39, a más tardar dentro de los quince días naturales siguientes a la fecha en que le notifiquen la segunda rescisión al propio proveedor.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+Las dependencias y entidades informarán y, en su caso, remitirán la documentación comprobatoria a la Secretaría y al Organo de Control, sobre el nombre del proveedor que se encuentre en el supuesto previsto en la fracción IV del artículo 39, a más tardar dentro de los quince días naturales siguientes a la fecha en que le notifiquen la segunda rescisión al propio proveedor.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 55.
 
-La Contraloría podrá proponer a la Secretaría la imposición de las sanciones a que se refiere este capítulo y, a la dependencia o entidad contratante, la suspensión deI suministro de la prestación del servicio en que se indica la infracción.
+El Organo de Control podrá proponer a la Secretaría la imposición de las sanciones a que se refiere este capítulo y, a la dependencia o entidad contratante, la suspensión del suministro, de la prestación del servicio en que se incida la infracción.
 
-Sin perjuicio de lo anterior, a los servidores públicos que infrinjan las disposiciones de esta ley; la Contraloría aplicará conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado, las sanciones que procedan.
+Sin perjuicio de lo anterior, a los servidores públicos que infrinjan las disposiciones de esta Ley; el Organo de Control aplicará, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado, las sanciones que procedan.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 56.
 
-Tratándose de multas, la Oficialía Mayor, en los términos del Artículo 53, las impondrá conforme a los siguientes criterios;
+Tratándose de multas, la Secretaría, en los términos del artículo 53, las impondrá conforme a los siguientes criterios:
 
 I.- Se tomarán en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de eliminar prácticas tendientes a infringir en cualquier forma, las disposiciones de esta ley o las que dicten con base en ella;
 
@@ -603,23 +687,31 @@ III.- En el caso que persista la infracción, se impondrán multas por cada día
 
 IV.- Tratándose de reincidencia, se impondrá otra multa mayor dentro de los límites señalados en el Artículo 53, o se duplicará la multa inmediata anterior que se hubiere impuesto; y en el caso de que persista la infracción, se impondrán multas por cada día que transcurra, como si se trataran de reincidencia.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 57.
 
-No se impondrán sanciones o multas cuando se haya incurrido en la infracción por causas de fuerza mayor o de caso fortuito o cuando se observen en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o mediante decreto, visita, excitativa o cualquier otra gestión efectuada por las mismas.
+No se impondrán sanciones o multas cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
 
 ###### ARTICULO 58.
 
 En el procedimiento para la aplicación de las sanciones o multas a que se refiere este capítulo, se observarán las siguientes reglas:
 
-I.- Se comunicarán al presunto infractor los hechos constitutivos de la infracción para que dentro del término que para el efecto se señale, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+I.- Se comunicará por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término que para el efecto se señale y que no podrá ser menor de diez días hábiles, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
 
 II.- Transcurrido el término a que se refiere la fracción anterior, se resolverá, considerando los argumentos y pruebas que se hubieren hecho valer, y
 
-III.- Se emitirá resolución, debidamente fundada y motivada, y se notificará por escrito al afectado, turnándose lo actuado a la Secretaría de Finanzas para su correspondiente cobro.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+III.- Se emitirá resolución, debidamente fundada y motivada, y se notificará por escrito al afectado, turnándose lo actuado a la Secretaría para su correspondiente cobro.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 59.
 
-Los servidores públicos de las dependencias y entidades, que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta ley o las normas que de ella se deriven, deberán comunicarlo a las autoridades que resulten competentes conforme a la ley.
+Los servidores públicos de las dependencias y entidades, que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las disposiciones que de ella se deriven, deberán comunicarlo a las autoridades que resulten competentes conforme a la Ley.
 
 La omisión a lo dispuesto en el párrafo anterior, será sancionada administrativamente.
 
@@ -649,11 +741,17 @@ IV.- Se tendrán por no ofrecidas las pruebas de documentos, si éstos no se aco
 
 V.- La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente, dentro del plazo que señala para el desahogo de pruebas;
 
-VI.- La Contraloría podrá pedir que se le rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado,
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
-VII.- La Contraloría o las otras dependencias normativas según el caso, acodará lo que proceda sobre la admisión del recursos (sic) y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones contravertidas; la Contraloría o la dependencia ordenará el desahogo de las mismas, dentro del plazo de 15 días hábiles, el que será improrrogable; y
+VI.- EI Organo de Control, podrá pedir que le rindan los informes que estime pertinentes por parte de quienes hayan intervenido en el acto reclamado;
 
-VIII.- Vencido el plazo para la rendición de pruebas, la contraloría o la dependencia, según el caso, dictará resolución en un término que no excederá de 30 días hábiles y si no se dicta resolución en el plazo señalado se entenderá denegada.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+VII.- El Organo de Control o las otras dependencias normativas según el caso, acordará lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas; el Organo de Control o la dependencia ordenará el desahogo de las mismas dentro del plazo de quince días hábiles, el que será improrrogable, y
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1998)</small>
+
+VIII.- Vencido el plazo para la rendición de pruebas, el Organo de Control o la dependencia, según el caso, dictará resolución, en un término que no excederá de quince días hábiles y si no se dicta resolución en el plazo señalado, se entenderá denegada.
 
 ## TRANSITORIOS.
 
@@ -698,3 +796,9 @@ EL OFICIAL MAYOR DE GOBIERNO EL CONTRALOR DE GOBIERNO
 PROFRA. MARIA CRISTINA SANGRI C.C.P. ENRIQUE ALONSO ALCOCER
 
 AGUILAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE DICIEMBRE DE 1998.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
