@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1965-04-08"
+last_updated: "1966-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1966.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -301,13 +301,11 @@ Los Diputados propietarios, durante el período de su encargo y los Suplentes, c
 
 El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario; el primero comenzará el día primero de diciembre y terminará el día primero de abril siguiente, y el segundo principiará el primero de junio y concluirá el día primero de agosto inmediato.
 
-> <small>N. DE E. SE DEJA SIN EFECTO EL DECRETO No. 187 DE FECHA 29 DE JULIO DE 1937, POR DECRETO No. 413 DE FECHA 19 DE JULIO DE 1938, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1966)</small>
 
 ###### Art. 37.
 
-En el primer período se ocupará preferentemente el Congreso, de discutir y aprobar la Ley de Ingresos y Egresos del Estado, y de estudiar los Presupuestos Municipales, para lo cual deberán ser presentados los proyectos de uno y otros, antes del quince de septiembre de cada año, a fin de que empiecen a regir desde el primero de enero inmediato, en el concepto de que se tendrán los vigentes como prorrogados mientras no se aprueben los auevos (sic). En el segundo período revisará la cuenta pública del Estado y la de los Municipios, del año anterior, que deberán ser presentadas al Congreso dentro de los primeros diez días de su apertura. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen y justificación de las responsabilidades que resulten. En ambos períodos se ocupará además, de estudiar, discutir y votar las iniciativas de ley que se presenten y de resolver todos los asuntos que le corresponden.
+En el primer período se ocupará preferentemente el Congreso de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Diversos Municipios, para lo cual, deberán ser presentados los proyectos respectivos antes del día 15 de octubre de cada año, a fin de que empiecen a regir desde el primero de enero inmediato, en el concepto de que se tendrán las vigentes como prorrogadas, mientas (sic) no se aprueben las nuevas. En el segundo período revisará la cuenta pública del Estado, y la de los Municipios del año anterior, que deberán ser presentadas al Congreso dentro de los primeros diez días antes de sua (sic) pertura (sic). La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respetivas (sic) de los Presupuestos, sino que se extenderá al examen y justificación de las responsabilidades que resulten. En ambos períodos se ocupará, además, de estudiar, discutir y votar las iniciativas de la Ley que se presenten y de resolver todos los asuntos que les corresponden.
 
 ###### Art. 38.
 
@@ -421,7 +419,9 @@ XXIV. Reconocer, aprobar y ordenar el pago de la Deuda Preferente del Estado.
 
 XXV. Condonar adeudos fiscales a favor del Estado, en cantidades mayores de trescientos pesos, pero que no excedan de quinientos pesos.
 
-XXVI. Señalar anualmente a los Ayuntamientos, los ramos necesarios sobre los cuales ellos fijen sus impuestos.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1966)</small>
+
+XXVI. Discutir y aprobar anualmente, las leyes de ingresos de los Municipios del Estado, teniendo en cuenta las iniciativas que éstos presenten.
 
 XXVII. Facultar al Ejecutivo del Estado para que con las limitaciones que sean necesarias, represente a éste por sí o apoderado especial, en los casos en que corresponda.
 
@@ -1055,9 +1055,11 @@ Cada Municipalidad estará representada y administrada por un Ayuntamiento que r
 
 Los Ayuntamientos tendrán personalidad jurídica para todos los efectos legales; no habrá ninguna autoridad intermedia entre ellos y los Supremos Poderes del Estado, y gozarán de toda la libertad interior política y administrativamente, compatible con el mantenimiento de la unidad de orden y gobierno en el Estado.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1966)</small>
+
 ###### Art. 112.
 
-Compete a los Ayuntamientos el ejercicio del Poder Legislativo Municipal, con las limitaciones que las leyes señalen, correspondiendo al Presidente ejercer las funciones ejecutivas como Regidor comisionado, llevar la Jefatura política y administrativa de la Municipalidad, y presidir las sesiones de la Asamblea.
+Compete a los Ayuntamientos el ejercicio del Poder Municipal, con las limitaciones que las leyes señalan, correspondiendo al Presidente ejercer las funciones ejecutivas como Regidor Comisionado, llevar la Jefatura Política y Administrativa de la Municipalidad y presidir las sesiones del Cabildo.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1953)</small>
 
@@ -1113,11 +1115,11 @@ IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerz
 
 Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener lo siguiente:
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 I. 25 años cumplidos en la fecha de la elección.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 II. Haber obtenido mayoría de sufragios legales.
 
@@ -1147,15 +1149,19 @@ El cargo de Regidor será obligatorio, pero no gratuito, y sólo será renunciab
 
 Son atribuciones de los Ayuntamientos:
 
-I. Legislar en todo lo concerniente al interés propio de su Municipalidad.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1966)</small>
+
+I. Gobernar política y administrativamente el Municipio correspondiente.
 
 II. Nombrar y remover libremente a sus empleados.
 
 III. Conceder licencias y admitir las renuncias de sus propios miembros y de los empleados de su dependencia.
 
-IV. Iniciar leyes ante el Congreso del Estado y nombrar para el efecto sus representantes, que con voz pero sin voto, asistan a las discusiones de la Cámara.
+IV. Iniciar leyes ante el Congreso del Estado y nombrar para el efecto sus representantes, que con voz, pero sin voto, asistan a las discusiones de la Cámara.
 
-V. Administrar libremente su Hacienda para lo cual ellos mismos fijarán los impuestos sobre los ramos que el Congreso del Estado les designe, de manera de proveer suficientemente a sus gastos.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1966)</small>
+
+V. Administrar libremente su Hacien (sic) de acuerdo con la Ley de Ingresos que cada año expida el Congreso del Estado.
 
 VI. Vigilar las escuelas oficiales y particulares de su jurisdicción, disponiendo todo lo necesario para que la asistencia escolar sea efectiva, e informar al Ejecutivo del Estado sobre las deficiencias que se observen.
 
@@ -1329,11 +1335,11 @@ VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
 Todo funcionario o empleado, sea de elección popular o de nombramiento, recibirá una remuneración por sus servicios, que será fijada anualmente por la ley y pagada de los fondos públicos.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1966)</small>
 
 ###### Art. 146.
 
-Al expedir y reformar el Congreso la ley de Ingresos y Egresos del Estado, podrán aumentarse o disminuirse los sueldos de los funcionarios y empleados, según las condiciones del Erario; pero todo aumento que decrete a las dietas de sus propios miembros, no tendrá efecto sino hasta la próxima Legislatura. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con los Regidores.
+Al expedir y reformar el Congreso la Ley de Ingresos y Presupuesto de Egresos del Estado, podrán aumentarse o disminuirse los sueldos de los funcionarios y empleados, según las condiciones del Erario; pero todo aumento que decreta las dietas de sus propios miembros, no tendrá efecto sino hasta la próxima Legislatura, esta misma prevención se observará por los Ayuntamientos en su respectiva relación con los Regidores.
 
 ###### Art. 147.
 
@@ -1822,3 +1828,7 @@ Primero.- El presente Decreto comenzará a surtir sus efectos a partir de la fec
 Segundo.- Para regularizar la situación legal que con la presente reforma se origina, la XLV Legislatura que se instalará el día 15 de Septiembre próximo, permanecerá en funciones hasta el día 30 de noviembre de 1968, pero regirá su sistema de trabajo de acuerdo con los lineamientos que se contenían en el artículo 36 Constitucional, antes de ser reformado por este Decreto.
 
 Tercero.- Formúlense en su oportunidad las reformas correspondientes a la Ley Electoral del Estado, al Reglamento para el Gobierno Interior del H. Congreso del Estado y demás Ordenamientos que tengan relación con esta reforma Constitucional.
+
+P.O. 26 DE MAYO DE 1966.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
