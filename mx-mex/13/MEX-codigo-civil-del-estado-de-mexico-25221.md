@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2004-08-10"
+last_updated: "2004-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DEL 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DEL 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -159,9 +159,11 @@ Es viable el ser humano que ha vivido veinticuatro horas posteriores a su nacimi
 
 Restricciones a la personalidad
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
 ###### Artículo 2.
 
-2.- La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+2.- La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; con excepción de los incapaces quienes podrán ejercer sus derechos o contraer obligaciones por medio de sus representantes.
 
 ## TITULO SEGUNDO. De los derechos de la personalidad
 
@@ -443,9 +445,13 @@ De los expósitos
 
 13.- Toda persona que encontrare un expósito, deberá presentarlo ante el Agente del Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados con él, para iniciar la averiguación previa respectiva.
 
-El Ministerio Público una vez iniciada ésta, enviará de manera inmediata al expósito al Sistema para el Desarrollo Integral de la Familia del Estado, municipal, o en su caso, a una institución o asociación de asistencia social constituida legalmente para estos fines.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
-El Ministerio Público ordenará a la persona o institución a cuyo cuidado quede el expósito, para que dentro de las setenta y dos horas siguientes, solicite el registro de nacimiento del menor ante el oficial del Registro Civil, remitiéndole a este último copia certificada de la averiguación.
+El Ministerio Público una vez iniciada ésta, enviará, de manera inmediata al expósito al Sistema para el Desarrollo Integral de la Familia del Estado de México; quien a su vez podrá enviarlos a los Sistemas Municipales de Desarrollo Integral de la Familia del Estado de México que cuenten con albergues o en su caso, a una institución o asociación de asistencia social constituida, registrada legalmente para estos fines y reconocida ante el Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+El Ministerio Público ordenará a los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales, para que soliciten, cuando proceda, el registro de nacimiento del menor ante el Oficial del Registro Civil, remitiéndole copia certificada de la averiguación. El Sistema para el Desarrollo Integral de la Familia del Estado de México o los municipales, en su caso, deberán informar al Ministerio Público sobre la situación jurídica definitiva.
 
 Otros obligados a solicitar levantamiento de acta de nacimiento
 
@@ -669,7 +675,7 @@ III. Para corregir algún dato esencial.
 
 Legitimación para pedir la modificación o rectificación de acta
 
-### CAPITULO VII. De la rectificación de las Actas del Estado Civil
+### CAPITULO VII. De la rectificación de las Actas de estado civil
 
 Rectificación de actas del estado civil
 
@@ -683,7 +689,13 @@ II. Las personas que se mencionan en el acta como relacionadas con el estado civ
 
 III. Los herederos de las personas comprendidas en las dos fracciones anteriores;
 
-IV. Las demás personas a las que la ley concede expresamente esta facultad.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+IV. Los tutores o personas que ejerzan la patria potestad de los menores e incapaces; y
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+V. Las demás personas a las que la ley concede expresamente esta facultad.
 
 Forma del juicio sobre rectificación o modificación
 
@@ -1209,9 +1221,11 @@ II. Si se otorga el consentimiento expreso o tácito.
 
 Revalidación del matrimonio entre parientes consanguíneos
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
 ###### Artículo 4.
 
-66.- El matrimonio nulo por falta de dispensa del impedimento de parentesco por consanguinidad, queda revalidado si se obtiene la misma y los cónyuges ratifican su consentimiento ante el Titular o el oficial del Registro Civil y surtirá sus efectos legales desde el día en que se contrajo.
+66.- El matrimonio afectado de nulidad por falta de dispensa del impedimento de parentesco por consanguinidad, queda revalidado si antes de que se nulifique judicialmente, se obtiene la dispensa y los cónyuges ratifican su consentimiento ante el Titular o el oficial del Registro Civil. El matrimonio así revalidado, surtirá sus efectos legales desde el día en que se contrajo.
 
 Legitimación para demandar la nulidad por parentesco
 
@@ -1721,9 +1735,11 @@ Obligación alimentaria en la adopción simple
 
 Aspectos que comprenden los alimentos
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
 ###### Artículo 4.
 
-135.- Los alimentos comprenden todo lo que sea necesario para el sustento, habitación, vestido y atención médica y hospitalaria. Tratándose de menores y tutelados comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista. Respecto de los descendientes los alimentos incluyen también proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales.
+135.- Los alimentos comprenden todo lo que sea necesario para el sustento, habitación, vestido, atención médica y hospitalaria. Tratándose de menores y tutelados comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista, así como descanso y esparcimiento. Respecto de los descendientes los alimentos incluyen también proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales.
 
 Forma de cumplir la obligación alimentaria
 
@@ -1739,15 +1755,25 @@ Improcedencia de incorporación a la familia para recibir alimentos
 
 Alimentos en proporción a las posibilidades y necesidades
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
 ###### Artículo 4.
 
-138.- Los alimentos han de ser proporcionados de acuerdo a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo diario vigente en la zona de que se trate, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+138.- Los alimentos han de ser proporcionados de acuerdo a la capacidad económica del deudor alimentario y de las necesidades de quien deba recibirlos.
+
+Cuando no sean comprobables el salario o ingresos del deudor alimentario, el juez resolverá tomando como referencia la capacidad económica y el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en el último año.
+
+Los alimentos determinados por convenio o sentencia, se modificarán de manera proporcional a las modificaciones de los ingresos del deudor alimentario. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 Reparto de la obligación alimentaria
 
 ###### Artículo 4.
 
 139.- Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad para hacerlo, el Juez repartirá el importe entre ellos, en proporción a sus haberes.
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+Si fuesen varios los acreedores alimentarios, el Juez repartirá el importe de la pensión, atendiendo a las necesidades e interés superior de las niñas, niños o aquellos con capacidades diferentes sobre los adolescentes.
 
 Posibilidad económica de algunos para dar alimentos
 
@@ -2045,27 +2071,33 @@ II. Tener medios para proveer los alimentos del adoptado, como hijo;
 
 III. Que la adopción sea benéfica para la persona que se pretende adoptar;
 
-IV. Que el adoptante sea persona idónea y adecuada para adoptar, para lo cual el juez con el auxilio de peritos, deberá realizar los estudios de personalidad y físicos que permitan acreditar esa idoneidad.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+IV. Que el adoptante sea persona idónea para adoptar, de conformidad con el certificado de idoneidad expedido por el Sistema para el Desarrollo Integral de la Familia del Estado de México, con base en los estudios médico, psicológico, socioeconómico y de trabajo social.
 
 Personas preferidas para adoptar
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
 ###### Artículo 4.
 
-179.- Para la adopción deberá darse preferencia a matrimonios sin descendencia conforme al orden siguiente:
+179.- Para la adopción deberá darse preferencia conforme al orden siguiente: a matrimonios, a la mujer y al hombre que así lo acrediten jurídicamente vivir en concubinato, a la mujer o al hombre, sin descendencia:
 
-I. A mexiquenses cuyo domicilio conyugal se ubique dentro del territorio de la entidad;
+I. A mexiquenses cuyo domicilio se ubique dentro del territorio de la entidad,
 
-II. A mexiquenses cuyo domicilio conyugal se ubique fuera del territorio de la entidad;
+II. A mexiquenses cuyo domicilio se ubique fuera del territorio de la entidad;
 
-III. A mexicanos cuyo domicilio conyugal se ubique dentro del territorio nacional;
+III. A mexicanos cuyo domicilio se ubique dentro del territorio nacional;
 
-IV. A mexicanos cuyo domicilio conyugal se ubique fuera del territorio nacional;
+IV. A mexicanos cuyo domicilio se ubique fuera del territorio nacional;
 
-V. A extranjeros cuyo domicilio conyugal se ubique dentro del territorio de la entidad;
+V. A extranjeros cuyo domicilio se ubique dentro del territorio de la entidad;
 
-VI. A extranjeros cuyo domicilio conyugal se ubique dentro del territorio nacional;
+VI. A extranjeros cuyo domicilio se ubique dentro del territorio nacional; y
 
-VII. A extranjeros cuyo domicilio conyugal se ubique fuera del territorio nacional;
+VII. A extranjeros cuyo domicilio se ubique fuera del territorio nacional.
+
+En el caso de que los concubinos que así lo acrediten jurídicamente, la mujer o el hombre solteros sin descendencia; deseen adoptar, solamente podrán hacerlo respecto de mayores de cuatro años de edad en adelante, y de conformidad con éste artículo.
 
 Consentimiento entre cónyuges para adoptar
 
@@ -2099,9 +2131,11 @@ Relación jurídica entre adoptante y adoptado
 
 Personas que deben consentir en la adopción
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
 ###### Artículo 4.
 
-185.- Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
+185.- Para que la adopción pueda tener lugar deberán consentirla en sus respectivos casos:
 
 I. El que ejerce la patria potestad sobre el menor que se trata de adoptar;
 
@@ -2113,7 +2147,9 @@ IV. El Ministerio Público a falta de los anteriores; o cuando quien lo acogió 
 
 V. El menor que se va adoptar cuando tenga más de diez años.
 
-VI. El Sistema para el Desarrollo Integral de la Familia del Estado de México para la intervención correspondiente.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+VI. El Sistema para el Desarrollo Integral de la Familia del Estado de México y los Sistemas Municipales e instituciones de asistencia privada deberán dar seguimiento a las adopciones a fin de verificar las condiciones físicas, educativas y emocionales del menor.
 
 Suplencia de consentimiento por el Juez
 
@@ -2187,9 +2223,11 @@ Respeto y consideración entre hijos y ascendientes
 
 Legitimación para adoptar plenamente
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
 ###### Artículo 4.
 
-195.- Sólo pueden adoptar plenamente, el hombre y la mujer unidos en matrimonio.
+195.- A falta de matrimonio podrán adoptar en el orden de preferencia establecido en el artículo 4.179, el hombre y la mujer que acrediten jurídicamente vivir en concubinato, y la mujer o el hombre sin descendencia.
 
 Personas que pueden adoptarse plenamente
 
@@ -2403,6 +2441,10 @@ Entrega de bienes y cuentas al emancipado
 
 222.- Las personas que ejerzan la patria potestad deben entregar a los que a ella estuvieron sujetos, luego que se emancipen o adquieran la mayoría de edad, todos los bienes y frutos que le pertenecen y tienen obligación de darles cuenta de su administración.
 
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+Si existe disminución de los bienes del menor emancipado, por mala administración de la persona de quien ejerció sus derechos, ésta deberá restituir el importe en su totalidad de los daños ocasionados.
+
 ###### Artículo 4.
 
 223.- La patria potestad se acaba:
@@ -2423,7 +2465,29 @@ Pérdida de la patria potestad por sentencia
 
 I. Cuando el que la ejerza es condenado por delito doloso grave;
 
-II. Cuando por las costumbres depravadas de los que ejercen la patria potestad, malos tratos o abandono de sus deberes alimentarios o de guarda y custodia, pudiera comprometerse la salud, la seguridad o la moralidad de los menores aún cuando esos hechos no constituyan delito.
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+II. Cuando por las costumbres depravadas de los que ejercen la patria potestad, malos tratos o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses y por ello se comprometa la salud, la seguridad o la moralidad de los menores aún cuando esos hechos no constituyan delito;
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+III. Cuando quienes ejerzan la patria potestad, obliguen a los menores de edad a realizar reiteradamente la mendicidad, trabajo forzado o cualquier otra forma de explotación. En este caso, los menores serán enviados a los albergues de los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales;
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+IV. Cuando quien ejerza la patria potestad, acepte ante la autoridad judicial la entrega del menor a las instituciones de asistencia pública o privada legalmente reconocidas, en los términos previstos por el Código Civil y de Procedimientos Civiles del Estado de México;
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+V. Cuando los menores se encuentren albergados y abandonados por sus familiares, sin causa justificada por más de dos meses, en las instalaciones de instituciones públicas o privadas;
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+VI. Cuando el que la ejerza sea condenado a la pérdida de ese derecho; y
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+VII. Por la exposición que la madre o el padre hiciera de sus hijos.
 
 Suspensión de la patria potestad
 
@@ -2565,6 +2629,8 @@ Declaración de incapacidad para nombrar tutor
 
 Tutela de expósitos y de abandonados
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
 ###### Artículo 4.
 
 241.- Ninguna tutela puede conferirse sin que previamente se declare el estado de incapacidad de la persona que va a quedar sujeta a ella.
@@ -2647,6 +2713,10 @@ I. A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
 
 II. Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
 
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
+III. Tratándose de menores y a falta de los mencionados en los supuestos anteriores, serán los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales.
+
 Elección de tutor legítimo por el Juez
 
 ###### Artículo 4.
@@ -2687,9 +2757,9 @@ Tutor del incapacitado que tenga hijos menores
 
 ###### Artículo 4.
 
-261.- La Ley coloca a los expósitos y a los que sean entregados o abandonados, bajo la tutela de la persona o del representante de la Institución que los haya acogido.
+261.- La Ley coloca a los expósitos y a los que sean entregados o abandonados, bajo la tutela de los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales que cuenten con albergues, sin perjuicio que éstos otorguen la guarda y cuidado a alguna institución de asistencia social pública o privada, legalmente reconocida.
 
-La tutela se desempeñará legalmente, en este caso, sin necesidad de discernimiento del cargo.
+En los casos que los Sistemas Municipales otorguen la guarda y cuidado a instituciones de asistencia social pública o privada, deberán notificarlo al Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
 ###### Artículo 4.
 
@@ -2989,13 +3059,15 @@ Medidas para evitar la enajenación de bienes del menor
 
 Medidas para garantizar el cuidado de los pupilos
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
 ### CAPITULO XIV. De la entrega de los bienes al concluir la Tutela
 
 Obligación del tutor de entregar los bienes del pupilo
 
 ###### Artículo 4.
 
-296.- Si los pupilos carecen de bienes y no tienen parientes que estén obligados a alimentarlos, o si teniéndolos no pueden hacerlo, el tutor, con autorización del Juez, los pondrá bajo el cuidado de instituciones de beneficencia.
+296.- Si los pupilos carecen de bienes y no tienen parientes que estén obligados a alimentarlos, o si teniéndolos no pueden hacerlo, el tutor, con autorización del Juez, los pondrá bajo el cuidado del Sistema para el Desarrollo Integral de la Familia del Estado de México o de los Sistemas Municipales que cuenten con albergues.
 
 El tutor no queda eximido de su cargo.
 
@@ -16620,3 +16692,9 @@ G.G. 10 DE AGOSTO DEL 2004.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 7 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
