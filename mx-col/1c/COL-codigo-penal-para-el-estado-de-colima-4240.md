@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2003-02-15"
+last_updated: "2003-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -105,11 +105,11 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 10.
 
-Se califica como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; los supuestos previstos por el artículo 108; FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN DE MENORES, en su modalidad de EXPLOTACIÓN PORNOGRÁFICA, prevista por el artículo 157 Bis, segundo párrafo, tratándose de la realización de acto de exhibicionismo corporal lascivo o sexual, con el objeto de videograbarlo, fotografiarlo o exhibirlo mediante anuncio impreso o electrónico; LENOCINIO del numeral 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179 y 183; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199; VIOLACIÓN en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 y 210; ROBO respecto de los supuestos del inciso B) del artículo 227; y DAÑOS tipificado por el artículo 238. Igualmente se considera graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso B) del artículo 227 y la Tentativa de Violación previsto por los artículos 207, 208, 209 y 210; así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; los supuestos previstos por el artículo 108; FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN DE MENORES, en su modalidad de EXPLOTACIÓN PORNOGRÁFICA, prevista por el artículo 157 Bis, segundo párrafo, tratándose de la realización de acto de exhibicionismo corporal lascivo o sexual, con el objeto de videograbarlo, fotografiarlo o exhibirlo mediante anuncio impreso o electrónico; LENOCINIO del numeral 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179 y 183; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199; VIOLACIÓN en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 y 210; ROBO respecto de los supuestos del inciso B) del artículo 227; los FRAUDES ESPECÍFICOS previstos en las fracciones III, IV, V y VI del artículo 234; DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 207, 208, 209 y 210; así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -871,7 +871,7 @@ La sanción privativa de libertad prescribirá en un lapso igual al fijado en la
 
 ###### ARTICULO 91.
 
-Cuando se haya cumplido parte de la pena privativa de libertad, se necesitará para la prescripción un tiempo igual al que falte para el cumplimiento de la condena, tomando en cuenta los límite fijados en el Artículo anterior.
+Cuando se haya cumplido parte de la pena privativa de libertad, se necesitará para la prescripción un tiempo igual al que falte para el cumplimiento de la condena, tomando en cuenta los límites fijados en el Artículo anterior.
 
 ###### ARTICULO 92.
 
@@ -2483,15 +2483,39 @@ II.- Por sí o por interpósita persona, cause perjuicio público o privado, al 
 
 Este delito se sancionará aun en el caso de falta de pago total o parcial del precio de la cosa o del derecho transmitido.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 234.
 
-Se considera fraude y se impondrá prisión de uno a nueve años y multa hasta por 100 unidades, en los siguientes casos:
+Se considera fraude y se impondrá pena de uno a nueve años de prisión y multa hasta por 100 unidades, para el caso de las fracciones I y II, y de tres a nueve años de prisión y multa hasta por la misma cantidad en el caso de las fracciones III, IV, V y VI, en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
 I.- ADMINISTRACION FRAUDULENTA. Al que por cualquier motivo teniendo a su cargo la administración o el cuidado de bienes ajenos, con ánimo de lucro, perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando, reteniendo valores o empleándolos indebidamente, y
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
 II.- USURA. El que aprovechándose de la necesidad apremiante, ignorancia o inexperiencia de una persona, imponga un contrato o convenio mercantil con interés que rebase el 25% de la tasa promedio porcentual bancaria, o suscriba documentos o títulos de créditos incompletos para anotar posteriormente el porcentaje del interés, o altere las fechas de suscripción de los mismos o adelante la de sus plazos, o aplique únicamente el pago parcial a los intereses sin disminución de capital, o reclame en cobro por cualquier medio dos o más veces el importe de un adeudo, o no registre pagos parciales o abonos, y en general obtenga para sí o para otro un lucro evidentemente desproporcionado con la naturaleza de la operación o de los usos comerciales.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2003)</small>
+
+III.- Uso indebido de Tarjetas y documentos de pago electrónico.- Al que sin el consentimiento de su titular o de quien esté facultado para ello, haga uso de una tarjeta, título, documento o instrumento de pago electrónico, bien sea para disposición en efectivo o para el pago de bienes y servicios.
+
+Igual pena se impondrá a quien teniendo el consentimiento de su titular o de quien esté facultado para ello, haga un uso indebido de tarjetas, títulos, documentos o instrumentos de pago electrónico, bien sea para el pago de bienes y servicios o para disposición en efectivo.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2003)</small>
+
+IV.- Uso de tarjetas, títulos, documentos o instrumentos para el pago electrónico, falsos. Al que a sabiendas de que una tarjeta, título documento o instrumento para el pago electrónico de bienes y servicios o para la disposición de efectivo, haga uso de él y obtenga un lucro indebido en perjuicio del titular de la tarjeta, título, documento o instrumento indubitable.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2003)</small>
+
+V.- Acceso indebido a los equipos y sistemas de cómputo o electromagnéticos. Al que con el ánimo de lucro y en perjuicio del titular de una tarjeta, documento o instrumento para el pago de bienes y servicios o para disposición en efectivo, acceda indebidamente a los equipos y sistemas de cómputo o electromagnéticos de las instituciones emisoras de los mismos.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2003)</small>
+
+VI.- Uso indebido de información confidencial o reservada de tarjetas, títulos, documentos o instrumentos para el pago de bienes y servicios o para disposición en efectivo. A quien obtenga un lucro en perjuicio del titular de una tarjeta, título, documento o instrumento para el pago electrónico de bienes y servicios o para la disposición de efectivo, mediante la utilización de información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir los mismos.
+
+Si el sujeto activo es empleado o dependiente del ofendido, la pena corporal aumentará de cuatro años seis meses, la mínima, y de trece años seis meses la máxima.
 
 ### CAPITULO IX. Amonestación .......................................... 329
 
@@ -2948,3 +2972,9 @@ P.O. 18 DE ENERO DE 2003.
 P.O. 15 DE FEBRERO DE 2003.
 
 UNICO:- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE OCTUBRE DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado Colima".
