@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2001-12-25"
+last_updated: "2001-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -273,15 +273,15 @@ XIII. Secretaría de Medio Ambiente para el Desarrollo Sustentable;
 
 XIV. Contraloría del Estado, y
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XV. Procuraduría de Desarrollo Urbano;
+XV. Secretaría del Trabajo y Previsión Social; y
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-XVI. Secretaría del Trabajo y Previsión Social; y
+XVI. Secretaría de Desarrollo Humano;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 1998)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], 29 DE DICIEMBRE DE 2001)</small>
 
 XVII. Procuraduría General de Justicia.
 
@@ -301,11 +301,11 @@ En el Reglamento Interior de cada una de las Secretarías y Dependencias a que s
 
 En casos extraordinarios, o cuando exista duda sobre la competencia de alguna dependencia gubernamental para conocer de un asunto determinado, el Gobernador del Estado, por conducto de la Secretaría General de Gobierno, resolverá a qué secretaría o dependencia corresponde el despacho del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 27.
 
-Al frente de la Secretaría General de Gobierno, habrá un Secretario, quien se auxiliará para el despacho de los asuntos de su competencia de dos subsecretarios, encargados respectivamente, de los asuntos del Gobierno Interno y de los Asuntos Jurídicos. Asimismo, contará para el auxilio en el despacho de los asuntos de su competencia, con un Director General de Gobierno y un Oficial Mayor.
+Al frente de la Secretaría General de Gobierno, habrá un Secretario, quien se auxiliará para el despacho de los asuntos de su competencia de dos subsecretarios, encargados; respectivamente, de los asuntos del Gobierno Interior; y de los Asuntos Jurídicos. Asimismo, contará para el auxilio en el despacho de los asuntos de su competencia, con un Director General de Gobierno y un Oficial Mayor.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -951,15 +951,15 @@ V. Controlar y supervisar los centros hospitalarios privados, para el debido cum
 
 VI. Realizar campañas tendientes a prevenir y erradicar enfermedades y epidemias en el territorio del Estado, coordinándose al efecto con el Gobierno Federal, entidades federativas y con los gobiernos municipales existentes en el Estado, así como evaluar los proyectos respectivos, utilizando indicadores que muestren su factibilidad económica y social;
 
-VII. Estimular y evaluar las acciones y programas de las instituciones de beneficencia privada, así como asesorarlas en sus relaciones con las diversas autoridades estatales, para facilitar su desarrollo tal y como lo define la Ley del Instituto Jalisciense de Asistencia Social;
+VII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
-VIII. Proponer al Ejecutivo del Estado la regularización de instituciones públicas de asistencia social que no cumplan con su objetivo;
+VIII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
-IX. Llevar a cabo, en materia de asistencia social, las funciones normativas que establezcan las leyes;
+IX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
-X. Proponer, programar, difundir, promover y fomentar las políticas y programas relativos a la beneficencia privada, a través del IJAS;
+X. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
-XI. Administrar, por conducto del Instituto Jalisciense de Asistencia Social, las instituciones de asistencia y beneficencia pública del Gobierno del Estado, y vigilar que los establecimientos similares particulares cumplan con los propósitos para los que fueron creados;
+XI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 XII. Coordinar con las autoridades competentes la realización de campañas para prevenir y atacar la drogadicción, el alcoholismo, tabaquismo y otros hábitos que amenacen la salud; y
 
@@ -1173,9 +1173,55 @@ VIII. La organización y control de la Policía Judicial del Estado; y
 
 IX. Las demás que le fijen las Leyes y Reglamentos vigentes.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Art. 41.
 
-(DEROGADO, P.O. 4 DE ENERO DE 1994)
+La Secretaría de Desarrollo Humano es la Dependencia responsable de planear, diseñar, coordinar y ejecutar las políticas de desarrollo integral de las personas y de los grupos en los que se integran Le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Coordinar evaluar y coadyuvar en el diseño y ejecución de los programas de desarrollo social del Gobierno del Estado en conjunto con las diversas dependencias del Ejecutivo Estatal;
+
+II. Ejecutar y evaluar en forma directa los programas de desarrollo social que le correspondan;
+
+III. Coordinar y supervisar los programas sociales del gobierno federal que se desarrollen y apliquen en el Estado de Jalisco, en el ámbito de su competencia, ajustándose a los convenios que se suscriban al respecto;
+
+IV. Establecer y coordinar el Sistema Estatal de Asistencia Social, así como el Sistema de Información en esta materia;
+
+V. Promover, coordinar y organizar en su caso, programas destinados a la asistencia socia (sic);
+
+VI. Coordinar y supervisar las instituciones de asistencia pública, así como proporcionar asesoramiento técnico a aquellas que lo soliciten;
+
+VII. Promover la prestación profesional de los servicios de asistencia social, así como promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales;
+
+VIII. Determinar los criterios generales para la participación de los usuarios de los servicios de asistencia social pública;
+
+IX. Vigilar el desempeño de las instituciones de asistencia social y beneficencia pública del Gobierno del Estado, así como de las instituciones de beneficencia privada, coordinadas por el Instituto Jalisciense de Asistencia Social, y el Sistema para el Desarrollo Integral de la Familia, a fin de que cumplan con los propósitos para los que fueron creados;
+
+X. Asesorar a las instituciones de beneficencia pública y privada en sus relaciones con las diversas autoridades estatales, para facilitar su desarrollo;
+
+XI. Coordinar, programar, difundir e impulsar las políticas y programas relativas a la asistencia social pública y privada a través de los órganos que encabezan el Sistema Estatal de Asistencia Social;
+
+XII. Concertar acciones y convenios con el sector privado, para la prestación y promoción de los servicios de asistencia social;
+
+XIII. Promover el fortalecimiento de la gestión social a través de políticas y programas de participación ciudadana;
+
+XIV. Impulsar y encauzar a la sociedad civil para que participe en la elaboración ejecución y evaluación de políticas sociales de desarrollo;
+
+XV. Coordinar a través de los convenios respectivos con los municipios, la prestación y promoción de los servicios de asistencia social, así como fomentar y apoyar la creación de centros comunitarios para este fin, ya sea de manera directa o en coordinación con las autoridades municipales;
+
+XVI. Evaluar diseñar y ejecutar programas que impulsen el desarrollo humano en el Estado en forma directa o a través de los diversos organismos encargados de estos asuntos;
+
+XVII. Promover e impulsar en el Estado, la cultura en que se sustenta el desarrollo humano integral, la de la resolución alternativa de conflictos y la cooperación ciudadana;
+
+XVIII. Promover y realizar estudios e investigaciones así como llevar a cabo actividades formativas en torno a temas relacionados con el desarrollo humano;
+
+XIX. Promover y coordinar acciones de apoyo educativo para la integración social y el desarrollo humano;
+
+XX. Promover y coordinar acciones para la capacitación del trabajo de los sujetos de asistencia social en el Estado;
+
+XXI. Gestionar y coordinar acciones para promover el acceso a una vivienda digna; y
+
+XXII. Las demás que le señalen las leyes y reglamentos vigentes.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1714,3 +1760,23 @@ Sexto.- Los asuntos que corresponda (sic) y que se estén tramitando en el (sic)
 Séptimo.- Aquellas funciones que legalmente le han sido atribuidas a la Dirección General de Trabajo y Previsión Social, a partir de la entrada en vigor del presente Decreto, serán competencia de la Secretaría del Trabajo y Previsión Social, previo acuerdo con la Secretaría General de Gobierno.
 
 Octavo.- El Ejecutivo del Estado expedirá el Reglamento Interno de la Secretaría del Trabajo y Previsión Social en un plazo no mayor de noventa días.
+
+P.O. 29 DE DICIEMBRE DE 2001.
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero del año 2002, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- Se autoriza al Titular del Poder Ejecutivo para que, por conducto de la Secretaría de Finanzas, incorpore una unidad presupuestal destinada a la Secretaría de Desarrollo Humano que se crea, dentro del Presupuesto de egresos para el ejercicio fiscal del año 2002.
+
+Cuarto.- Para la debida integración y estructura de la Secretaría de Desarrollo Humano, las Secretarías de Finanzas y Administración, así como las demás dependencias que resulten involucradas, deberán prestar el auxilio y apoyo técnico que se les requiera, conforme a las disposiciones legales aplicables y los programas y presupuestos vigentes.
+
+Quinto.- En el proceso de creación e instalación de la Secretaría de Desarrollo Humano, se preservarán íntegramente los derechos laborales de los servidores públicos que deban ser transferidos de una dependencia o entidad a otra, debiendo sujetarse a lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+Sexto.- Se autoriza a la Secretaría General de Gobierno, de Finanzas y de Administración para que determinen los recursos humanos, materiales y financieros que tengan asignados la subsecretaría de Participación Social, que deban pasar a formar parte de la Secretaría de Desarrollo Humano y a que realicen los trámites que correspondan para transferirlos.
+
+Séptimo.- Los asuntos que correspondan y que se estén tramitando en la Subsecretaría de Participación Social a la fecha de entrada en vigor del presente Decreto, y que se acuerde en los términos del artículo octavo transitorio, serán asumidos por la Secretaría de Desarrollo Humano, así mismo la Subsecretaría de Participación Social, se subroga respecto de dichos asuntos, todos los derechos y obligaciones que hasta la fecha haya contraído la Secretaría General de Gobierno por conducto de la referida Subsecretaría.
+
+Octavo.- Aquellas funciones que legalmente le han sido atribuidas a la Subsecretaría de Participación Social, a partir de la entrada en vigor del presente Decreto, serán competencia de la Secretaría de Desarrollo Humano, previo acuerdo con la Secretaría General de Gobierno.
+
+Noveno.- El Ejecutivo del Estado expedirá el Reglamento Interno de la Secretaría de Desarrollo Humano en un plazo no mayor de noventa días.
