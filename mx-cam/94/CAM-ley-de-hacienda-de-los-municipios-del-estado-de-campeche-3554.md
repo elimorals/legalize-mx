@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "1993-12-04"
+last_updated: "1994-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -511,6 +511,10 @@ Las obligaciones a que se refiere el presente artículo, deberán cumplirse dent
 
 Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en este capítulo, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Territorio de los Municipios del Estado así como los derechos relacionados con los mismos a que este capítulo se refiere.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
+El valor del inmueble podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere este capítulo en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+
 #### SECCION SEXTA. DE LAS OBLIGACIONES
 
 ###### ARTICULO 52.
@@ -551,6 +555,10 @@ En la determinación de este impuesto se deberán seguir las reglas siguientes:
 
 I.- El impuesto sobre adquisición de inmuebles se calculará tomándose el valor más alto que resulte entre el declarado en la operación estipulado en el contrato respectivo, el del avalúo bancario o el que contenga el certificado de valor catastral que expida la Dependencia autorizada para tal efecto;
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
+El valor del inmueble que se considerará para los efectos del artículo 51 de este capítulo, será la cantidad que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que sea exigible el pago, entre el mencionado índice correspondiente al mes anterior a aquél en que se efectuó la adquisición. Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble, referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo, exceda en más de un 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor de avalúo, determinándose las diferencias de impuestos que resulten.
+
 II.- Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
 Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que se practique por la Dependencia autorizada para tal efecto, o el avalúo bancario; y en caso de existir diferencias entre ellos, la base para el pago del impuesto será el mayor de tales valores.
@@ -565,31 +573,17 @@ III.- El certificado de valor catastral que se utilice para la determinación de
 
 ###### ARTICULO 54.
 
-El impuesto se calculará aplicando la tasa del 2% al valor del inmueble, después de reducirle cinco veces el salario mínimo general elevado al año de la zona económica a que corresponda la ubicación de dicho inmueble.
+El impuesto se calculará aplicando la tasa del 2% al valor del inmueble.
 
 ### CAPITULO QUINTO. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
 #### SECCION TERCERA. DE LA TASA
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 55.
 
-Para efectuar la reducción a que se refiere el artículo anterior, se aplicará el salario mínimo vigente en la fecha en que se den los supuestos a que se refiere el artículo 52 de esta Ley.
-
-La reducción se realizará conforme a lo siguiente:
-
-I.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de veinticuatro meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición.
-
-Asimismo sólo tendrán derecho a hacer una reducción las personas físicas o morales que dentro del periodo antes mencionado, adquieran lotes en un mismo fraccionamiento, sin importar la distancia que dichos lotes guarden entre sí.
-
-El adquirente deberá manifestar bajo protesta de decir verdad al fedatario ante quien formalice toda adquisición, si el inmueble objeto de la operación se encuentra comprendido en alguno de los supuestos de este artículo para que se ajuste el monto de la reducción pagando en su caso las diferencias del impuesto que corresponda;
-
-II.- Cuando se adquiera parte de los derechos de propiedad de un inmueble, la reducción se hará en la proporción que corresponda a dicha parte;
-
-III.- Tratándose de condominios, la reducción se hará por cada uno de los apartamentos, locales o cajones de estacionamiento en su caso; y
-
-IV.- No se considerarán departamentos habitacionales los que, por sus características originales se destinen a servicios domésticos o de portería, aún cuando se utilicen para otros fines.
-
-Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo es aplicable a hoteles.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 56.
 
@@ -601,9 +595,33 @@ Se considera vivienda popular: aquélla cuyo valor, al término de su edificaci�
 
 #### SECCION CUARTA. DEL PAGO
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 57.
 
-El pago del impuesto deberá hacerse en la Tesorería Municipal correspondiente dentro de los veinte días siguientes a aquel en que se realice cualquiera de los supuestos a que se refiere el artículo 52 de la presente Ley.
+El pago del impuesto deberá hacerse en la Tesorería Municipal correspondiente dentro de los veinte días siguientes a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
+
+Usufructo o nuda propiedad.
+
+I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+
+Adjudicación por sucesión o herencia.
+
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente.
+
+Adjudicación mediante Fideicomiso.
+
+III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
+
+Prescripción Positiva.
+
+IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+
+Actos con escritura o registro público.
+
+V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en registro público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
+
+El contribuyente podrá pagar el impuesto por anticipado.
 
 #### SECCION QUINTA. DE LAS OBLIGACIONES DE LOS NOTARIOS, JUECES, CORREDORES Y DEMAS FEDATARIOS
 
@@ -639,6 +657,8 @@ IV.- Las asociaciones religiosas constituidas en los términos de la Ley de Asoc
 
 #### SECCION PRIMERA. DEL OBJETO Y SUJETO
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 60.
 
 En el Registro Público de la Propiedad, no se inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles, mientras no le sea exhibido el comprobante de pago del impuesto que establece este capítulo si se hubiere causado.
@@ -647,7 +667,7 @@ En el Registro Público de la Propiedad, no se inscribirá ningún acto, contrat
 
 ###### ARTICULO 61.
 
-Esta contribución grava los diversos documentos e instrumentos públicos y privados que se otorguen por toda clase de actos no mercantiles que surtan sus efectos en el Territorio de los Municipios del Estado, sean contractuales o de otra naturaleza y siempre que no tengan por finalidad la transmisión de la propiedad inmueble.
+Esta contribución grava los diversos documentos e instrumentos públicos y privados que se otorguen por toda clase de actos no comerciales que surtan sus efectos en el Territorio de los Municipios del Estado, sean contractuales o de otra naturaleza y siempre que no tengan por finalidad la transmisión de la propiedad inmueble.
 
 ###### ARTICULO 62.
 
@@ -713,27 +733,51 @@ G R U P O S 1 2 3
 
 I.- Por juego de placas de circulación, incluyendo calcomanía y tarjeta de circulación del año:
 
-A.- Para automóviles de servicio particular N$ 82.00
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
 
-B.- Para automóviles de alquiler de servicio público local N$ 99.00
+A.- Para automóviles de servicio particular N$ 87.00
 
-C.- Para vehículo de carga de servicio particular con capacidad hasta de cinco toneladas N$ 104.00
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
 
-D.- Para vehículo de carga de servicio particular con capacidad superior a cinco toneladas N$ 110.00
+B.- Para automóviles de alquiler de servicio público local N$ 105.00
 
-E.- Para vehículo de carga de servicio público local con capacidad hasta de cinco toneladas N$ 115.00
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
 
-F.- Para vehículo de carga de servicio público local con capacidad superior a cinco toneladas N$ 121.00
+C.- Para vehículo de carga de servicio particular con capacidad hasta de cinco toneladas N$ 111.00
 
-G.- Para camión de pasajeros de servicio público local N$ 82.00
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
 
-H.- Para demostración y para vehículos propiedad de empresas arrendadoras N$ 220.00
+D.- Para vehículo de carga de servicio particular con capacidad superior a cinco toneladas N$ 117.00
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
+E.- Para vehículo de carga de servicio público local con capacidad hasta de cinco toneladas N$ 123.00
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
+F.- Para vehículo de carga de servicio público local con capacidad superior a cinco toneladas N$ 129.00
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
+G.- Para camión de pasajeros de servicio público local N$ 87.00
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
+H.- Para demostración y para vehículos propiedad de empresas arrendadoras N$ 235.00
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
 
 I.- Para motocicletas o motonetas N$ 11.00
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
 J.- Para bicicletas N$ 5.00
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
 K.- Para vehículo de tracción animal N$ 5.00
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
 
 L.- Para carros y carretillas de mano N$ 5.00
 
@@ -741,21 +785,31 @@ M.- Por reposición de placas se cubrirá la misma cuota que corresponda de acue
 
 II.- Por otros servicios de tránsito:
 
-A.- Permisos para que transiten vehículos sin placas hasta por quince días N$ 22.00
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
+A.- Permisos para que transiten vehículos sin placas hasta por quince días N$ 23.00
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
 
 B.- Por expedición de licencias para conducir:
 
-a).- Para automovilistas N$ 33.00
+a).- Para automovilistas N$ 35.00
 
-b).- Para chofer N$ 55.00
+b).- Para chofer N$ 50.00
 
-c).- Para motociclistas N$ 22.00
+c).- Para motociclistas N$ 23.00
 
-C.- Permiso para práctica de manejo sin licencia, hasta por quince días N$ 22.00
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
+C.- Permiso para práctica de manejo sin licencia, hasta por quince días N$ 23.00
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
 
 D.- Por la reposición de tarjeta de circulación N$ 7.00
 
-E.- Por refrendo anual de placas, que incluye calcomanía y tarjeta de circulación N$ 27.00
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
+E.- Por refrendo anual de placas, que incluye calcomanía y tarjeta de circulación N$ 28.00
 
 III.- El pago de las cuotas que anteceden se efectuarán en las oficinas autorizadas al efecto. El plazo para el refrendo anual a que se refiere el inciso E, de la fracción II, deberá realizarse durante el primer trimestre del año; la expedición de placas de los vehículos a que se refieren los incisos I, J, K y L, de la fracción I, dentro de los primeros cuatro meses del año. En los demás casos dentro de los quince días siguientes a la adquisición del vehículo.
 
@@ -901,17 +955,21 @@ N$ 3.00 a N$ 3.00 a N$ 1.50 a
 
 N$ 5.00 N$ 5.00 N$ 2.50
 
+> <small>(REFORMADA P.O. 19 DE DICIEMBRE DE 1994)</small>
+
 II.- Comercial, Industrial y de Prestación de Servicios por mes
 
-N$ 20.00 a N$ 20.00 a N$ 10.00 a
+N$ 5.00 a N$ 5.00 a N$ 5.00 a
 
-N$ 600.00 N$ 600.00 N$ 300.00
+N$ 1000.00 N$ 600.00 N$ 400.00
+
+> <small>(REFORMADA P.O. 19 DE DICIEMBRE DE 1994)</small>
 
 III.- Servicios especiales por viaje
 
 N$ 30.00 a N$ 30.00 a N$ 15.00 a
 
-N$ 100.00 N$ 100.00 N$ 50.00
+N$ 500.00 N$ 300.00 N$ 50.00
 
 IV.- Por recolecta de productos dentro del relleno sanitario se cobrará por tonelada:
 
@@ -1025,19 +1083,21 @@ Se considera vivienda popular: aquélla cuyo valor, al término de su edificaci�
 
 Por la renovación de licencia de construcción, se causará sobre el monto total del costo de la licencia de construcción otorgada, el equivalente al número de veces el salario mínimo diario de la zona, conforme a la siguiente:
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
 T A R I F A
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
-De N$ 5.00 a N$ 100.00
+HASTA N$ 300.00
 
 1.00 1.00 0.50
 
-De N$ 101.00 a N$ 500.00
+De N$ 301.00 a N$ 600.00
 
 5.00 5.00 2.00
 
-De N$ 501.00 a N$ 1000.00
+De N$ 601.00 a N$ 1000.00
 
 10.00 10.00 4.00
 
@@ -1117,11 +1177,13 @@ Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento 
 
 Es objeto de este derecho, la autorización expresa de uso de la vía pública para comerciantes con puestos fijos o semifijos, el cual se causará por cada metro cuadrado de ocupación una renta mensual equivalente al número de veces el salario mínimo diario de la zona conforme a la siguiente:
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
 T A R I F A
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
-1.00 1.00 1.00
+1.00 a 30.00 1.00 a 30.00 1.00 a 30.00
 
 ###### ARTICULO 101.
 
@@ -1163,7 +1225,7 @@ Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento 
 
 ###### ARTICULO 106.
 
-Causarán derechos, los servicios que los Municipios presten en la expedición de cédulas catastrales, los que se causarán al equivalente a un salario mínimo diario vigente de la zona correspondiente, para lo (sic) grupos 1, 2 y 3 respectivamente.
+Causarán derechos, los servicios que los Municipios presten en la expedición de cédulas catastrales, los que se causarán al equivalente a 0.25 salario mínimo diario vigente de la zona correspondiente, para los grupos 1, 2 y 3 respectivamente.
 
 ###### ARTICULO 107.
 
@@ -1181,11 +1243,13 @@ Son sujetos de este derecho, las personas físicas o morales que soliciten el re
 
 Este derecho se causará y pagará conforme al número de veces el salario mínimo diario de la zona, de acuerdo a la siguiente:
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
 T A R I F A
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
-25.00 25.00 15.00
+25.00 25.00 20.00
 
 ###### ARTICULO 111.
 
@@ -1483,6 +1547,8 @@ N$ 45.00 N$ 45.00 N$ 22.50
 
 ### CAPITULO TERCERO. POR EXPEDICION DE CEDULA CATASTRAL
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 122.
 
 Por el uso de estacionamientos públicos propiedad de los HH. Ayuntamientos, para vehículos automotores, causarán y pagarán de acuerdo con la siguiente:
@@ -1656,3 +1722,11 @@ Palacio Legislativo, Campeche, Cam., a 3 de Diciembre de 1993.- Dip. Arturo Vill
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los tres días del mes de diciembre de mil novecientos noventa y tres.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día primero de enero de mil novecientos noventa y cinco.
