@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-las-oficinas-del-registro-publico-de-la-4121"
 country: "mx"
 rank: "reglamento"
 publication_date: "1944-06-13"
-last_updated: "1956-10-01"
+last_updated: "1982-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LAS OFICINAS DEL REGISTRO PUBLICO DE LA PROPIEDAD EN EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1982.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de junio de 1944.
 
@@ -87,51 +87,57 @@ III.- Ser apto para prestar el servicio.
 
 ### CAPITULO II. Libros del Registro
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1982)</small>
+
 ###### Art. 9º.
 
-En cada Oficina del Registro Público de la Propiedad se llevarán siete libros principales y dos auxiliares, que se numerarán y denominarán como sigue:
+En cada Oficina del Registro Público de la Propiedad se llevarán ocho libros principales y dos auxiliares, que se numerarán y denominarán como sigue:
 
-# Libro Primero.- De la Propiedad.
+# Libro Primero.- De la Propiedad
 
-# Libro Segundo.- De Arrendamientos.
+# Libro Segundo.- De Arrendamientos
 
-# Libro Tercero.- De Sentencias.
+# Libro Tercero.- De Sentencias
 
-# Libro Cuarto.- De Hipotecas.
+# Libro Cuarto.- De Hipotecas
 
-# Libro Quinto.- De Anotaciones.
+# Libro Quinto.- De Anotaciones
 
 # Libro Sexto.- De Sociedades.
 
-# Libro Séptimo.- De Testamentos.
+# Libro Séptimo.- De Testamentos
 
-Auxiliar Primero.- De Presentaciones.
+# Libro Octavo.- De los Planes de Desarrollo Urbano. Auxiliar Primero.- De Presentaciones
 
 Auxiliar Segundo.- De Correspondencia.
 
 Además se llevará un índice alfabético de cada uno de los libros principales para facilitar su manejo.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1982)</small>
+
 ###### Art. 10.
 
 Las operaciones sujetas a registro se asentarán en los libros de cada Oficina, en la forma de distribución siguientes:
 
-I.- En el Libro Primero se inscribirán las transmisiones de dominio, las refundiciones o fraccionamientos de la propiedad o cualquiera otra modalidad, la constitución, modificación y extinción del patrimonio de familia, la condición resolutoria en las ventas a que se refiere el artículo 2896, fracción IV, del Código Civil, la constitución y modificación de gravámenes o derechos reales impuestos sobre la propiedad que sean distintos de la hipoteca y las capitulaciones matrimoniales.
+I.- En el Libro Primero se inscribirán las transmisiones de dominio, las refundiciones o fraccionamientos de la propiedad o cualquiera otra modalidad, la constitución, modificación y extinción del patrimonio de familia, la condición resolutoria en las ventas a que se refiere el artículo 2896, Fracción IV, del Código Civil, la constitución y modificación de gravámenes o derechos reales impuestos sobre la propiedad que sean distintos de la hipoteca y las capitulaciones matrimoniales.
 
 II.- En el Libro Segundo se inscribirán los arrendamientos.
 
-III.- En el Libro Tercero se inscribirán las sentencias y demás resoluciones que deban registrarse conforme a la ley.
+III.- En el Libro Tercero se inscribirán las sentencias y demás resoluciones que deban registrarse conforme a la Ley.
 
-IV.- En el Libro Cuarto se inscribirán las hipotecas, los embargos y los contratos de prenda sujetos a registro, que señalan los artículos 2755 y 2757 del Código Civil.
+IV.- En el Libro Cuarto se inscribirán las hipotecas, los embargos y los contratos de prenda sujetos a registro que señalan los artículos 2755 y 2757 del Código Civil.
 
 V.- En el Libro Quinto se inscribirán las cancelaciones, aclaraciones y cuantos actos o contratos relativos a la propiedad, posesión y a derechos reales deban anotarse, siempre que no ameriten inscripción especial en algunos de los libros mencionados en el artículo anterior.
 
 VI.- En el Libro Sexto se inscribirá la constitución, modificación y extinción de sociedades y la constitución y extinción de fundaciones de beneficencia privada.
 
-VII.- En el Libro Séptimo se anotará el depósito de los testamentos ológrafos, y en su caso, la devolución o entrega que de ellos se haga, al interesado o al Juez.
+VII.- En el Libro Séptimo se anotará el depósito de los testamentos ológrafos y en su caso, la devolución o entrega que de ellos se haga al interesado o al Juez.
 
-VIII.- En el Libro Auxiliar Primero se asentará el día y hora en que cada título sea prestando a la Oficina para su registro.
+VIII.- En el Libro Octavo constará el Registro de los Planes de Desarrollo Urbano, bastando para su inscripción el documento original que envíe la Secretaría de Desarrollo Urbano y Obras Públicas, el cual se considerará como una sola unidad con los volúmenes y anexos que lo integran.
 
-IX.- En el Libro Auxiliar Segundo se copiarán todas las comunicaciones e informes que emitió la oficina.
+IX.- En el Libro Auxiliar Primero se asentará el día y hora en que cada título sea presentado a la oficina para su registro.
+
+X.- En el Libro Auxiliar Segundo se copiarán todas las comunicaciones e informes que emitió la oficina.
 
 ###### Art. 11.
 
@@ -642,3 +648,7 @@ Dado en el Palacio del Poder Ejecutivo del Estado, en Campeche, Cam., a los doce
 P.O. 1 DE OCTUBRE DE 1956.
 
 UNICO.- Esta reforma entrará en vigor al siguiente día de su publicación en EL ESPIRITU PUBLICO, Organo Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 1982.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
