@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-transito-del-estado-de-zacatecas-30567"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-12-15"
-last_updated: "1990-12-15"
+last_updated: "2003-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA LEY DE TRANSITO DEL ESTADO DE ZACATECAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MAYO DE 2003 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DE LA LEY DE TRÁNSITO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2003.
 
 Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de diciembre de 1990.
 
@@ -79,6 +81,10 @@ VIII.- Agente: Elemento uniformado de la Dirección General de Seguridad Públic
 
 IX.- Vehículos de emergencia: De tránsito, policía, bomberos y ambulancias.
 
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+X.- Base de datos: El sistema de registro del historial de las infracciones a las disposiciones del presente Reglamento que cometan los conductores en el Estado.
+
 ### CAPITULO II. ATRIBUCIONES Y OBLIGACIONES DE LAS AUTORIDADES DE TRANSITO
 
 DEPENDENCIA JERARQUICA DEL DIRECTOR
@@ -113,7 +119,9 @@ X.- Imponer sanciones por infracciones cometidas a la Ley y su Reglamento;
 
 XI.- Presidir y participar en las comisiones que en materia de vialidad y transporte, acuerde el Ejecutivo del Estado;
 
-XII.- Realizar estudios e implementar programas permanentes que hagan posible el avance y actualización en materia de Ingeniería de Tránsito, Educación y Seguridad Vial, Normatividad, Vigilancia y Transporte Público;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+XII.- Realizar estudios e implementar programas permanentes que hagan posible el avance y actualización en materia de ingeniería de tránsito, educación y seguridad vial, normatividad, vigilancia y transporte público; así como mantener actualizada la Base de Datos señalada en la fracción X del artículo 2 del presente Reglamento;
 
 XIII.- Previo acuerdo del Ejecutivo del Estado, expedir Manual de Organización y Procedimientos, acuerdos y circulares de carácter interno;
 
@@ -353,6 +361,10 @@ c) Queda estrictamente prohibido: alterar sus caracteres, doblarlas, colocarlas 
 
 d) Se prohibe asimismo, utilizar placas de ornato o no reglamentarias.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2003)</small>
+
+e) Cuando las placas que porte el vehículo no concuerden con su registro, éste se retirará inmediatamente de la circulación y se aplicarán al conductor las sanciones previstas en el presente Reglamento.
+
 II.- Encontrarse en buen estado de funcionamiento, a juicio de la Dirección para que su uso se realice en aceptables condiciones de seguridad;
 
 III.- Contar el vehículo con claxon capaz de emitir un sonido que sea audible, en circunstancias normales, a una distancia no menor de 60 metros. El uso de torretas, sirenas, silbatos o implementos análogos, será exclusivo de vehículos oficiales de emergencias;
@@ -390,6 +402,18 @@ XIII.- Estar provisto de cinturones de seguridad;
 XIV.- Los vehículos que expidan humo en exceso o con escape, radio o estereo ruidosos, serán retirados de la circulación y sancionados sus propietarios o conductores;
 
 XV.- Para la circulación de vehículos con cristales polarizados o cubiertos con pinturas o materiales reflejantes, se requerirá autorización previa de la Dirección.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2003)</small>
+
+La Dirección solamente emitirá autorizaciones de polarizado de bajo grado, con transmitancia luminosa menor al 75% y solamente para los cristales delantero y trasero del vehículo. Quedan exceptuados de lo anterior, los conductores que por razones médicas o de seguridad requieran de utilizar pinturas, materiales reflejantes o polarizado en mayor grado al señalado, pudiendo la Dirección emitir la autorización correspondiente.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+XVI. No utilizar cornetas de aire dentro de la zona urbana, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+XVII. Se prohibe la instalación de calcomanías en cualquier parte del vehículo, que muestren imágenes que hagan apología de algún delito.
 
 ###### ARTICULO 15.
 
@@ -477,6 +501,14 @@ VI.- Detener su vehículo junto a la orilla de la banqueta, sin invadir ésta, p
 
 VII.- Conservar respecto del vehículo que va adelante, la distancia de visibilidad de parada que garantice la detención oportuna en los casos en que aquel frene intempestivamente, para lo cual, tomarán en cuenta la velocidad permitida y las condiciones de las vías sobre las que transiten.
 
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+VIII. Utilizar y verificar que los pasajeros se coloquen los cinturones de seguridad en los asientos delanteros y cuando el automóvil este provisto de ellos, en los asientos traseros, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+IX. Todo conductor que transporte niños menores de ocho años, o cuya estatura no alcance un metro de altura, deberá llevarlos en el asiento trasero, de preferencia en un asiento apropiado y con los cinturones debidamente ajustados.
+
 PROHIBICIONES A CONDUCTORES
 
 ###### ARTICULO 24.
@@ -498,6 +530,10 @@ VI.- Circular en sentido contrario o invadir el carril de contraflujo, así como
 VII.- Conducir con aliento alcohólico, estado de ebriedad, o bajo los efectos de drogas, enervantes o calmantes aun cuando su uso sea recomendado por descripción médica. Los anteriores supuestos se comprobarán mediante certificado médico.
 
 VIII.- Cambiar de carril cuando exista raya continua delimitando los carriles de circulación; o cuando siendo intermitente aquella, no se anuncie el cambio, con la debida anticipación, mediante la luz direccional respectiva.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+IX. Conducir utilizando el teléfono celular, o en su caso, cualquier tipo de audífono o con el aparato de sonido a tal volumen, que le sea racionalmente imposible al conductor percatarse de los estímulos auditivos del ambiente.
 
 LIMITES LEGALES DE VELOCIDAD MAXIMA
 
@@ -787,7 +823,9 @@ II.- En más de una fila;
 
 III.- Frente a una entrada de vehículos, excepto la de su domicilio;
 
-IV.- A menos de 5 metros de la entrada de una estación de bomberos, de vehículos de emergencia y en la acera opuesta en un tramo de 25 metros;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+IV.- En los lugares destinados a los vehículos de bomberos o emergencia, ni a menos de 5 metros de la entrada de una Estación de Bomberos, de vehículos de emergencia y en la acera opuesta en un tramo de 25 metros;
 
 V.- En la zona de ascenso y descenso de pasajeros o carga de vehículos de servicio público;
 
@@ -813,7 +851,9 @@ XV.- En sentido contrario;
 
 XVI.- Frente a tomas de agua para bomberos;
 
-XVII.- Frente a rampas especiales de acceso a la banqueta para minusválidos;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+XVII.- En los lugares destinados a los discapacitados o personas con capacidades diferentes, o frente a las rampas de acceso a la banqueta;
 
 XVIII.- En donde exista señalamiento o marca que indique prohibido el estacionamiento;
 
@@ -922,6 +962,10 @@ d).- Acústicas.- Son aquellas que se utilizan mediante la emisión de sonidos d
 II.- DISPOSITIVOS DE PROTECCION
 
 Es el equipamiento de apoyo al tránsito y a la vialidad, consistente entre otros, en: isletas, vibradores, tachuelas, vialetas, puentes peatonales, traficonos, banderolas, barreras.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2003)</small>
+
+Asimismo, se podrán instalar dispositivos que ayuden a normar la vialidad y seguridad de los conductores y la población, tales como radares de velocidad, ya sean de fotografía y/o sensor, sistemas de monitoreo vial a través de cámaras de video y los que se estimen pertinentes; cuyos registros serán utilizados única y exclusivamente para acreditar la existencia de cualquier violación al presente Reglamento y otras disposiciones legales.
 
 DE LAS SEÑALES DE LOS AGENTES PARA DIRIGIR EL TRANSITO
 
@@ -1203,7 +1247,9 @@ IV.- Aprobar examen de manejo y conocimiento de la Ley y Reglamento;
 
 V.- Presentar examen médico reciente, de aptitud audiovisual y de integridad física, así como manifestación de grupo sanguíneo y factor RH;
 
-VI.- Sujetarse a las modalidades y limitantes que establezca la Dirección.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+VI.- Sujetarse a las modalidades y limitantes que establezca la Dirección, la cual solamente autorizará al menor a conducir los vehículos automotores registrados en un horario de 6:00 a 22:00 horas.
 
 RENOVACION DE LICENCIAS O PERMISOS
 
@@ -1243,7 +1289,9 @@ CAUSAS DE CANCELACION DE LA LICENCIA O PERMISO
 
 Las licencias o permisos se podrán cancelar en los siguientes casos:
 
-I.- Cuando el titular sea reincidente en el término de un año, conduciendo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+I.- Cuando el titular sea reincidente en el término de un año, conduciendo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas; así como en el caso de reincidir en el mismo período en tres infracciones de las demás señaladas en el presente reglamento;
 
 II.- Cuando sobrevenga alguna disminución permanente en las aptitudes físicas o mentales que dificulten al titular la conducción de vehículos automotores;
 
@@ -1251,9 +1299,21 @@ III.- Cuando el titular proporcione datos o documentos falsos de los requeridos 
 
 IV.- Cuando el titular altere los datos asentados en la licencia o permiso que se le haya expedido;
 
-V.- Por resolución judicial;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE ABRIL DE 2003)</small>
 
-VI.- En los demás casos que establezca el Reglamento.
+V.- Por reincidencia de manejo fuera de los horarios establecidos en el caso de menores con permiso de aprendiz;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2003)</small>
+
+VI.- Por resolución judicial, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2003)</small>
+
+VII.- En los demás casos que establezca el Reglamento.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2003)</small>
+
+Para los efectos del presente artículo, será consultada la base de datos y verificados los antecedentes del conductor.
 
 EFECTOS DE LA SUSPENSION O CANCELACON DE LICENCIA O PERMISO
 
@@ -1529,7 +1589,9 @@ Las escuelas proporcionarán al alumno que termine su instrucción, una constanc
 
 Al conductor que contravenga las disposiciones del presente Reglamento se le sancionará, de acuerdo a la falta cometida, con el pago de una multa correspondiente al importe de 1, 3 ó 5 días de salario mínimo general vigente en el Estado, según se indica a continuación:
 
-> <small>N. DE E. VÉANSE MULTAS EN EL SUPLEMENTO AL P.O. DE 15 DE DICIEMBRE DE 1990, PÁGINAS 92 A 98.</small>
+> <small>N. DE E. VÉASE MULTAS EN EL SUPLEMENTO AL P.O. DE 15 DE DICIEMBRE DE 1990, PÁGINAS 92 A 98.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LAS MULTAS EN EL SUPLEMENTO DEL P.O. DE 26 DE ABRIL DE 2003, PÁGINAS 7 Y 8.</small>
 
 DESCUENTOS
 
@@ -1558,3 +1620,13 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO HERNANDEZ QUINTERO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE ABRIL DE 2003.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones administrativas que contravengan este Decreto.
+
+Artículo Tercero.- La Secretaría General de Gobierno a través de la Dirección de Transporte Público y Vialidad, realizará la difusión de este Decreto en los medios masivos de comunicación de la Entidad.
