@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-regulacion-y-fomento-del-sistema-de-tiempo-5143"
 country: "mx"
 rank: "ley"
 publication_date: "1989-11-03"
-last_updated: "1993-12-28"
+last_updated: "1994-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE REGULACION Y FOMENTO DEL SISTEMA DE TIEMPO COMPARTIDO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de noviembre de 1989.
 
@@ -61,9 +61,7 @@ La multipropiedad puede recaer también sobre bienes muebles afectos a un inmueb
 
 IV.- Tiempocompartidario: la persona física o moral que adquiera el uso, goce, y disfrute de una unidad residencial vacacional y de los bienes, construcciones, instalaciones y servicios comunes, en los términos señalados en la presente Ley;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
-
-IV. BIS.- Multivacaciones es el Sistema creado y desarrollado para la comercialización de créditos civiles denominados puntos, que faculta a los adquirentes la utilización de los módulos o unidades residenciales vacacionales para fines turísticos, y recibir los servicios complementarios de conformidad con las normas y términos de su respectivo Reglamento, así como enajenar los puntos de que sea titular, siempre que su precio haya sido íntegramente pagado.
+IV. BIS.- (DEROGADA, P.O. 25 DE MARZO DE 1994)
 
 V.- Desarrollador: la persona física o moral que construya o promueva el establecimiento de sistemas de tiempo compartido de acuerdo a lo previsto en la presente Ley y los reglamentos que de ella emanen;
 
@@ -107,9 +105,11 @@ Los derechos de los tiempocompartidarios estarán regulados por esta Ley, el Reg
 
 A falta de disposición expresa en esta Ley, se aplicará supletoriamente, el Código Fiscal del Estado, el Código Civil Estatal y la Ley sobre el Régimen de Propiedad en Condominio del Estado de Guerrero.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 9o.
 
-Queda prohibido efectuar cualquier clase de promoción o campaña publicitaria que tenga una policitación de ventas de tiempo compartido, así como celebrar cualesquiera clase de actos jurídicos, incluyendo contratos, tendientes a la creación o transmisión de derechos de tiempo compartido, tales como contratos preparatorios, de promesa de venta, de preventa, de reservación, de ofertas de venta o compra, o cualesquiera otros similares, sin que previamente se haya constituido el Sistema de Tiempo Compartido con sujeción a esta Ley y, en su caso, otorgar las garantías que en los artículos siguientes se establecen.
+No podrá efectuarse cualquier clase de promoción, publicidad, oferta y celebración de promesas o contratos de venta que tengan por objeto la creación o transmisión de derechos de Tiempo Compartido, sin que previamente se haya constituido el Sistema de Tiempo Compartido con sujeción a esta legislación, para tal efecto, la Comisión Técnica de Vigilancia de Tiempo Compartido emitirá su aprobación expidiendo el certificado de operación anual, previo el pago de derechos ante la Secretaría de Finanzas y Administración del Estado de Guerrero.
 
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 1990)</small>
 
@@ -139,63 +139,35 @@ Para la constitución del Sistema de Tiempo Compartido el propietario de un inmu
 
 Dichos actos jurídicos deberán inscribirse en el Registro Público de la Propiedad quedando afecto el inmueble al cumplimiento del destino de tiempo compartido por el plazo fijado frente a terceros y con preferencia a cualquier otro derecho en los términos de ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 14.
 
-El interesado o su representante en constituir un Sistema de Tiempo Compartido y Multipropiedad deberá presentar solicitud por escrito a la Secretaría de Finanzas y Administración del Gobierno del Estado, acompañada de los siguientes documentos:
+Para lo prevenido en el artículo anterior el Notario Público exigirá al declarante que exhiba los siguientes documentos, sin perjuicio de lo que prescriban otras leyes.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+I.- El Título de Propiedad del inmueble debidamente inscrito en el Registro Público de la Propiedad, en el caso de que el inmueble estuviere gravado o tuviere limitaciones de dominio el acreedor o acreedores, deberán otorgar su consentimiento en escritura pública.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+II.- El recibo de pago del impuesto predial del bimestre inmediato anterior a la fecha de la solicitud, recibo de pago por servicio de agua y drenaje correspondiente al mes del ejercicio y la constancia de no adeudo de la Tesorería Municipal.
 
-I.- Aviso de alta ante la Secretaría de Hacienda y Crédito Público, en el que acredite que su domicilio fiscal se encuentra ubicado dentro del Estado de Guerrero.
+III.- Constancia de estar al corriente en sus obligaciones fiscales de las que es causante.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+IV.- Opinión de la Secretaría de Fomento Turístico del Gobierno del Estado.
 
-II.- Titulo de propiedad del inmueble debidamente inscrito en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola.
+V.- Las licencias de construcción y uso del suelo.
 
-En caso de que el inmueble estuviera gravado o tuviera limitaciones de dominio, el acreedor o acreedores, deberán otorgar su consentimiento en escritura pública.
+VI.- El plano del conjunto debidamente autorizado por la autoridad competente, descripción y levantamiento del terreno, las construcciones, las áreas de servicios e instalaciones comunes y demás elementos que constituyan el inmueble afecto. Los planos de construcción incluyendo límites en alturas, extensiones y densidad y los planos de cada tipo de unidad residencial vacacional de cada local incluyendo los destinados a comercio y servicios y, en su caso, la tabla de valores e indivisos.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+VII.- Una memoria descriptiva del inmueble, elementos comunes, unidades residenciales vacacionales y locales, acabados, muebles, y especificaciones de las etapas en su caso, el reglamento de esta ley determina los requisitos que deberán observarse en este caso.
 
-III.- El recibo de pago del impuesto predial del bimestre inmediato anterior al de la fecha de la solicitud, para constituirse en Sistema de Tiempo Compartido y Multipropiedad, así como el recibo de pago por servicios de agua y drenaje correspondiente al mes del ejercicio.
+VIII.- Póliza de fianza vigente por un período mínimo de un año siguiente a la fecha de terminación de la obra por el monto que se haya fijado en la licencia de construcción para responder de los vicios ocultos de las construcciones.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+IX.- Copia del Contrato de Compraventa y del Reglamento Interno de Tiempo Compartido, debidamente autorizado y registrado ante la Procuraduría Federal del Consumidor; y manifestación con número de registro de la compañía de intercambios vacacionales nacional o extranjera, si lo hubiere.
 
-IV.- Constancia de estar al corriente en sus obligaciones fiscales de las que es causante.
+X.- En su caso, presentar copias certificadas del poder notarial que lo acredite como representante legal del desarrollo.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+XI.- Liquidación y pago por concepto de derechos para el registro de la constitución del inmueble al Sistema de Tiempo Compartido y Multipropiedad ante la Secretaría de Finanzas y Administración del Gobierno del Estado, conforme a las tarifas que establezca la Ley de Ingresos vigente, para tal efecto, deberán presentarse los avalúos bancario, catastral y comercial del inmueble que se pretenda afectar.
 
-V.- El plano general del conjunto debidamente autorizado, con la descripción y deslinde catastral del terreno, sus construcciones, áreas de servicios e instalaciones comunes.
-
-VI.- Una memoria descriptiva del inmueble, elementos comunes, unidades residenciales vacacionales y locales, acabados, muebles, y especificación de las etapas en su caso. El reglamento de esta Ley determina los requisitos que deberán observarse en este caso;
-
-VII.- Póliza de fianza y vigencia mínima de un año siguiente a la fecha de terminación de la obra por el monto que se haya fijado en la licencia de construcción, para responder de los vicios ocultos de las construcciones, y
-
-VIII.- El Reglamento de Tiempo Compartido.
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
-
-IX.- En su caso, presentar copias certificadas del Poder Notarial que lo acredite como representante legal del desarrollo;
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
-
-X.- Copia certificada de la escritura constitutiva de la sociedad mercantil que tenga como objeto el establecimiento para constituirse en Sistema de Tiempo Compartido y Multipropiedad;
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
-
-XI.- Copia del contrato de adhesión (compra-venta de membresías), registrado debidamente ante la PROFECO y manifestación con número de registro actual en el Resort Condominiums International (R. C. I.), si lo hubiere;
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
-
-XII.- Presentar los avalúos catastral y bancario del inmueble o unidades que se pretendan afectar al Sistema de Tiempo Compartido y Multipropiedad.
-
-Los derechos para el registro de la constitución del Sistema de Tiempo Compartido y Multipropiedad, se causarán de conformidad con la tarifa que establece la Ley de Ingresos vigente del Estado de Guerrero.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
-
-ARTICULO 14 BIS.- Para obtener la autorización del Sistema de Tiempo Compartido y Multipropiedad, deberá pagar los derechos establecidos por la Ley de Ingresos vigente del Estado de Guerrero.
+ARTICULO 14 BIS.- (DEROGADO, P.O. 25 DE MARZO DE 1994)
 
 ###### ARTICULO 15.
 
@@ -241,9 +213,9 @@ Toda modificación del Sistema de Tiempo Compartido tendiente a alterar los conc
 
 Si la declaración unilateral de voluntad para constituir el Sistema da (sic) Tiempo Compartido se encuentra contenida dentro de un fideicomiso el fideicomitente deberá establecer dentro de los fines del fideicomiso, que la fiduciaria vigile estrictamente que toda modificación sea aprobada previamente, por el porcentaje de tiempocompartidarios que se fija en el Artículo anterior.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1994)</small>
 
-La escritura en la que conste cualquier modificación a la original, deberá autorizarse por la Secretaría de Finanzas y Administración del Gobierno del Estado, e inscribirse en el Registro Público de la Propiedad del Comercio y Crédito Agrícola, previo el pago de los derechos que señale la Ley de Ingresos vigente del Estado de Guerrero.
+La escritura en la que conste cualquier modificación a la original, deberá inscribirse en el Registro Público de la Propiedad, Comercio y Crédito Agrícola, previo el pago de los derechos a la Secretaría de Finanzas y Administración del Gobierno del Estado, conforme a la Ley de Ingresos vigente.
 
 La escritura en la que conste la modificación deberá autorizarse por la Secretaría de Finanzas del Gobierno del Estado e inscribirse en el Registro Público de la Propiedad.
 
@@ -265,31 +237,51 @@ La Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido a que se re
 
 ### CAPITULO CUARTO. DE LA COMISION TECNICA DE VIGILANCIA DEL SISTEMA DE TIEMPO COMPARTIDO
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 24.
 
-La inspección y vigilancia del Sistema de Tiempo Compartido así como de la actividad de los propietarios, promotores, desarrolladores, prestadores de servicios turísticos y vendedores, queda confiada a la Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido, la que además de las facultades y obligaciones que le atribuye esta Ley, se regirá para esos efectos, en materia de tiempo compartido, y respecto de las personas físicas o morales mencionadas por la Ley de Desarrollo Urbano, los reglamentos de construcciones y demás disposiciones aplicables sobre la materia.
+La regulación, inspección y vigilancia del Sistema de Tiempo Compartido, así como de la actividad de los propietarios, promotores, desarrolladores, prestadores de servicios turísticos y vendedores, queda confiada a la Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido, la que además de las facultades y obligaciones que le atribuye esta Ley y su Reglamento, se sujetará en materia de Tiempo Compartido, y respecto de las personas físicas y morales mencionadas por la Ley de Desarrollo Urbano, a los Reglamentos Municipales y demás disposiciones aplicables sobre la materia.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 25.
 
-La Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido y Multipropiedad a que se refiere el artículo que antecede, estará integrada por el Secretario de Gobierno, el Secretario de Finanzas y Administración, el Secretario de Planeación, Presupuesto y Desarrollo Urbano, quien la presidirá, por el Secretario de Fomento Turístico y por el Presidente Municipal que corresponda.
+La Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido y Multipropiedad a que se refiere el artículo que antecede, está integrada por el Secretario General de Gobierno, el Secretario de Finanzas y Administración, el Secretario de Planeación, Presupuesto y Desarrollo Urbano y el Secretario de Fomento Turístico, quien la presidirá y por el Presidente Municipal que corresponda y contará con un Secretario Técnico, nombrado por el Presidente de dicha Comisión.
 
-La Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido y Multipropiedad, a propuesta de su Presidente y con la aprobación de sus titulares, nombrará un Secretario Técnico quien tendrá las siguientes funciones:
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1994)</small>
+
+El Secretario Técnico a que se refiere el párrafo anterior, recaerá en el Comisionado para la Protección de los Tiempocompartidarios, quien tendrá la personalidad jurídica, para la representación de la Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido, en los términos del Título Noveno, Capítulo I del Código Civil, otorgado por conducto de su Presidente, y llevará los trabajos de carácter permanente de la misma:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 I.- Fungir como comisionado de la Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido y Multipropiedad, siendo el representante legal ante cualquier instancia judicial o administrativa para la protección jurídica de los tiempocompartidarios.
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 II.- Realizar los trabajos que le delegue la propia Comisión.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 III.- Levantar las actas y acuerdos correspondientes, de las reuniones ordinarias y extraordinarias que celebre la Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido y Multipropiedad y enviarlas para su aprobación, en su caso, a los titulares. Llevar el control y seguimiento de los acuerdos y disposiciones que señale esta Comisión e informar los resultados de los mismos.
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 IV.- Vigilar que los propietarios, multipropietarios, desarrolladores, promotores, vendedores y demás personas físicas o morales, cumplan con los contratos, convenios y compromisos celebrados con los tiempocompartidarios.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 V.- Presentar en el seno de la Comisión Técnica para su análisis, discusión y en su caso, aprobación del programa de trabajo anual, así como el calendario de reuniones ordinarias de la propia Comisión.
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 VI.- Remitir a la Secretaría de Finanzas y Administración, el padrón estatal de propietarios y desarrolladores del Sistema de Tiempo Compartido y Multipropiedad, así como de los tiempocompartidarios, para el control fiscal de todos ellos.
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 VII.- Informar oficialmente a la Secretaría de Finanzas y Administración, de todos los casos que presenten irregularidades con relación a los propietarios, desarrolladores, promotores y vendedores que efectúen cualquier clase de promoción o campaña publicitaria que tenga una policitación de ventas de tiempo compartido y multipropiedad, incluyendo contratos preparatorios, de promesa de venta, de preventa, de reservación, de ofertas de venta o compra, o cualesquiera otros similares, sin que previamente hayan cubierto los derechos correspondientes por la autorización y constitución del Sistema de Tiempo Compartido y Multipropiedad, conforme a la Ley de la Materia, para que esta Secretaría en su caso, inicie el procedimiento administrativo de ejecución fiscal.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 VIII.- Autorizar que en la publicidad o promoción de los Sistemas de Tiempo Compartido y Multipropiedad, se haga referencia a que han sido inscritos en el padrón de Sistemas de Tiempo Compartido y Multipropiedad del Estado de Guerrero, previo el pago de los derechos correspondientes.
 
@@ -311,7 +303,9 @@ VI.- Fungir a través de un Secretario Técnico, como conciliador en las controv
 
 VII.- Designar árbitros a solicitud de los interesados;
 
-VIII.- Autorizar que en la publicidad o promoción de los Sistemas de Tiempo Compartido, se haga referencia a que han sido inscritos en el padrón de Sistemas de Tiempo Compartido del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1994)</small>
+
+VIII.- Autorizar que en la publicidad o promoción de los Sistemas de Tiempo Compartido, se haga referencia a que han sido inscritos en el padrón del Sistema de Tiempo Compartido en el Estado de Guerrero, previo el pago de los derechos a la Secretaría de Finanzas y Administración;
 
 IX.- Tomar conocimiento cuando se le proporcione la información necesaria, de que las sesiones de las asambleas de los Sistemas de Tiempo Compartido se celebren conforme a esta Ley;
 
@@ -335,9 +329,9 @@ I.- Dictamen de dos peritos en la materia en la que acredite que todas las insta
 
 II.- Licencia de cambios de uso del suelo, y
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1994)</small>
 
-III.- Autorización de la Secretaría de Finanzas y Administración previo al pago de los derechos que establezca la Ley de Ingresos vigente del Estado de Guerrero.
+III.- Autorización especial que expida la Secretaría de Planeación, Presupuesto y Desarrollo Urbano, previo el pago a la Secretaría de Finanzas y Administración de los derechos establecidos en la Ley de Ingresos vigente en el Estado de Guerrero.
 
 Todo lo anterior deberá hacerse constar en escritura pública.
 
@@ -707,21 +701,7 @@ Cada multipropietario puede enajenar o gravar su parte alícuota sin necesidad d
 
 Los derechos de los multipropietarios estarán regulados por esta Ley; por la escritura constitutiva del sistema de multipropiedad; por el reglamento de multipropiedad; por el reglamento de uso, goce y disfrute de las áreas, bienes y servicios comunes, así como por las cláusulas del contrato celebrado.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
-
-ARTICULO 63 BIS.- Cuando varias personas hayan celebrado un contrato con multivacaciones, mediante el cual han adquirido los créditos civiles, denominados puntos, podrán constituir el Sistema Multivacaciones.
-
-Podrán adquirir los créditos civiles, denominados puntos, las personas físicas o morales, que puedan adquirir derechos reales y en tratándose de personas físicas o morales extranjeras con las limitaciones previstas en el artículo 27 de la Constitución General de la República y demás leyes aplicables, en todos los casos el derecho real de multivacaciones.
-
-Se inscribirán en el Registro Público de la Propiedad y del Comercio, para que surta sus efectos frente a terceros, siendo aplicables todas las reglas del Sistema de Tiempo Compartido, en cuanto a su constitución y organización.
-
-Los derechos y obligaciones de los tiempocompartidarios, son aplicables a los multivacacionistas, quienes gozarán el derecho de uso total, exclusivo y absoluto sobre todo el bien, únicamente por el período de tiempo determinado en el calendario de uso.
-
-COMISION DE DERECHOS.- Cada multivacacionista podrá libremente enajenar los puntos de que sea titular, siempre que su precio haya sido íntegramente pagado. La sesión requerirá la autorización expresa y por escrito de multivacaciones.
-
-PERIODO DE ACREDITAMIENTO.- Los puntos, serán acreditables durante el período que la empresa desee constituirse.
-
-El multivacacionista, tiene absoluta libertad para acreditar los puntos, tipo de módulo y período que decida, por lo que podrá acreditar todos sus puntos en un solo año, en varios años o hasta la expiración del plazo, fijado en la constitución del propio sistema.
+ARTICULO 63 BIS.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 1994)
 
 ### CAPITULO DECIMO TERCERO. DE LAS SANCIONES Y LAS CONTROVERSIAS
 
@@ -828,3 +808,9 @@ Los casos no previstos por la Ley de Regulación y Fomento del Sistema de Tiempo
 ###### ARTICULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE MARZO DE 1994.
+
+PRIMERO.- El presente Decreto empezará a surtir sus efectos tres días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se deroga cualquier disposición que se oponga al presente ordenamiento.
