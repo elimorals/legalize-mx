@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2004-02-20"
+last_updated: "2004-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -643,13 +643,17 @@ XI. Acción Social y Cultural;
 
 XII. Juventud y Deporte;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
-XIII. Rastros, Mercados y Centrales de Abasto; y
+XIII. De Equidad, Género y Familia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
-XIV. De concertación Política.
+XIV. Rastros, Mercados y Centrales de Abasto; y
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+XV. De Concertación Política.
 
 Las Comisiones Permanentes tendrán la competencia que se derive de su denominación, en relación a las áreas respectivas de la administración pública municipal y en su caso, a la materia de su conocimiento.
 
@@ -1307,7 +1311,7 @@ Es dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Culiacán 
 
 El Gobernador Constitucional del Estado
 
-Juan S. Millán Lizárraga
+Juan S. Millan Lizárraga
 
 El Secretario General de Gobierno
 
@@ -1334,6 +1338,12 @@ P.O. 4 DE FEBRERO DE 2004.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 20 DE FEBRERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE AGOSTO DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
