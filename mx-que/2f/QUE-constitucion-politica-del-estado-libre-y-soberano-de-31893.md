@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1933-03-09"
+last_updated: "1934-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 1933.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 1934.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -341,9 +341,11 @@ V.- No ser Presidente de la República, Secretario o Subsecretario del Estado, M
 
 IV.- No ser ministro de ninguna religión o secta.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1934)</small>
+
 ###### Art. 35.
 
-El cargo de Diputado propietario, o suplente en ejercicio, es legalmente incompatible con cualquier otro cargo, empleo o comisión federal, del Estado y del Municipio, por el que se disfrute remuneración, exceptuándose los de Instrucción Pública o de Beneficencia.
+El cargo de Diputado propietario o suplente en ejercicio es legalmente incompatible con cualquier otro cargo, empleo o comisión federal, del Estado y del Municipio, por el cual se disfrute remuneración, exceptuándose los de Educación Pública, los del Ramo Agrario o los de Beneficencia.
 
 ###### Art. 36.
 
@@ -1580,3 +1582,7 @@ Todo el personal que integra la Administración de Justicia en el Estado, a exce
 P.O. 9 DE MARZO DE 1933
 
 N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 18 DE OCTUBRE DE 1934
+
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
