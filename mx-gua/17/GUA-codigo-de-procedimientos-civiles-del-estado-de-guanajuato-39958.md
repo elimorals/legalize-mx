@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1996-07-30"
+last_updated: "1996-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1996.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -525,9 +525,13 @@ Secretario.
 
 En todo acto de que deba dejarse constancia en autos, intervendrá el secretario y lo autorizará con su firma; hecha excepción de los encomendados a otros funcionarios y de las audiencias de conciliación en los asuntos de divorcio, en las cuales intervendrá sólo en el momento de levantarse el acta respectiva, para asentar el resultado de aquélla.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1996)</small>
+
 ###### Art. 63.
 
-El secretario hará constar el día y la hora en que se presente un escrito, y dará cuenta con él dentro de las veinticuatro horas siguientes, sin perjuicio de hacerlo desde luego, cuando se trata de un asunto urgente.
+El secretario hará constar el día y la hora en que se presente un escrito, y dará cuenta con él dentro de las veinticuatro horas siguientes, sin perjuicio de hacerlo de inmediato, cuando se trata de un asunto urgente.
+
+En los partidos judiciales en donde exista oficialía de partes común, la recepción de las demandas y promociones iniciales de procedimiento, estará a cargo de los oficiales adscritos a esta; quienes las entregará el mismo día, a las once y a las quince horas, al secretario del juzgado al que se turnen.
 
 ###### Art. 64.
 
@@ -557,15 +561,21 @@ Nunca, ni por orden judicial, entregará el secretario los expedientes a las par
 
 La frase "dar vista" o "correr traslado" sólo significa que los autos quedan en la secretaría para que se impongan de ellos los interesados, o que se entreguen las copias.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 1996)</small>
+
 #### SECCION TERCERA.
 
-Ministro Ejecutor.
+Actuario.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1996)</small>
 
 ###### Art. 68.
 
-La cumplimentación de las resoluciones judiciales que deba tener lugar fuera del local del juzgado, cuando no este encomendada especialmente a otro funcionario, estará a cargo de un ministro ejecutor, que lo será el secretario o empleado del tribunal que el juez designe.
+En los partidos judiciales donde sólo exista un Juzgado del ramo, la cumplimentación de las resoluciones judiciales que deba tener lugar fuera del local del Juzgado, estará a cargo de un actuario que el Juez designe.
 
-En el desempeño de su cometido, observará las disposiciones legales aplicables, absteniéndose de resolver toda cuestión de fondo, pero debiendo, sin embargo, hacer constar las oposiciones y promociones de los interesados, relativas a la diligencia.
+En los partidos judiciales en los que exista oficial central de actuarios, la cumplimentación de las resoluciones judiciales, estará a cargo del actuario al que por turno corresponda.
+
+Los actuarios tendrán fe pública en todo lo relativo de su cargo, debiendo observar las disposiciones legales aplicables, absteniéndose de resolver toda cuestión de fondo, pero haciendo constar las oposiciones y promociones de los interesados, relativos a la diligencia.
 
 ###### Art. 69.
 
@@ -1797,6 +1807,8 @@ Si una diligencia se inició en día y hora hábiles, puede llevarse hasta su fi
 
 Siempre que deba tener lugar un acto judicial en día y hora señalados, y, por cualquier circunstancia, no se efectuare, el secretario hará constar, en los autos, la razón por la cual no se practicó.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 290.
 
 Los términos judiciales, salvo disposición, diversa de la Ley, empezarán a correr el día siguiente al en que surta efectos el emplazamiento, citación o notificación, y se contará en ellos el día de su vencimiento.
@@ -1804,8 +1816,6 @@ Los términos judiciales, salvo disposición, diversa de la Ley, empezarán a co
 ###### Art. 291.
 
 Cuando fueren varias las partes, el término se contará desde el día siguiente a aquél en que todas hayan quedado notificadas, si el término fuere común a todas ellas.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 292.
 
@@ -2865,7 +2875,9 @@ Embargos.
 
 Decretado el embargo, si el deudor no fuere encontrado en su domicilio para hacerle el requerimiento de pago, se le dejará citatorio para que espere a hora fija del siguiente día hábil, y, si no espera, se practicará la diligencia con la persona que se encuentre en la casa o con el vecino más inmediato.
 
-Cuando se encuentre cerrada la casa o se impidiere el acceso a ella, el ejecutor judicial requerirá el auxilio de la policía para hacer respetar la determinación judicial, y hará que, en su caso sean rotas las cerraduras para poder practicar el embargo de bienes muebles que se hallen dentro de la casa.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1996)</small>
+
+Cuando se encontrare cerrado el domicilio o se impidiere el acceso al mismo, si estuviere ordenado por el Juez, el actuario requerirá el auxilio de la policía para hacer respetar la determinación judicial, y hará que, en su caso sean rotas las cerraduras para poder practicar el embargo de bienes muebles que se hallen dentro del domicilio.
 
 ###### Art. 474.
 
@@ -2951,9 +2963,11 @@ X.- Créditos no realizables en el acto.
 
 El derecho de designar los bienes que han de embargarse en el orden establecido en el artículo anterior, corresponde al deudor; y sólo que éste se rehuse a hacerlo o que esté ausente, podrá ejercerlo el actor, según el conocimiento que tenga de los bienes.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1996)</small>
+
 ###### Art. 480.
 
-Cualquier dificultad suscitada en la diligencia no impedirá el embargo; el ejecutor judicial la allanará prudentemente, a reserva de lo que determine el juez.
+Cualquier dificultad suscitada en la diligencia no impedirá el embargo; el actuario la allanará prudentemente, a reserva de lo que determine el Juez.
 
 ###### Art. 481.
 
@@ -2991,7 +3005,9 @@ La ampliación del embargo no suspende el recurso de la ejecución.
 
 De todo secuestro se tendrá como depositario o interventor, según la naturaleza de los bienes que sean objeto de él, a la persona o institución de crédito que, bajo su responsabilidad, nombre el ejecutante, salvo lo dispuesto en los artículos 487, 490 y primero y último párrafos del 491.
 
-El depositario o interventor recibirá los bienes bajo inventario formal, previa aceptación y protesta de desempeñar el cargo, ante el juez o ante el ministro ejecutor, en el acto de la diligencia.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1996)</small>
+
+El depositario o interventor recibirá los bienes bajo inventario formal, previa aceptación y protesta de desempeñar el cargo, ante el Juez o ante el actuario, en el acto de la diligencia.
 
 ###### Art. 487.
 
@@ -3771,9 +3787,11 @@ Dentro de diez días de haber aceptado su cargo el albacea debe proceder a la fo
 
 El inventario y el avalúo se practicarán simultáneamente, siempre que no fuere imposible por la naturaleza de los bienes.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1996)</small>
+
 ###### Art. 618.
 
-El inventario se practicará por el ministro ejecutor del juzgado o por un notario nombrado por la mayoría de los herederos, cuando ésta la constituyan menores de edad o cuando los establecimientos de beneficencia o el fisco tuvieren interés en la sucesión como herederos o legatarios.
+El inventario se practicará por el actuario designado en los términos de este Código o por un notario nombrado por la mayoría de los herederos, cuando ésta la constituyan menores de edad o cuando los establecimientos de beneficencia o el fisco tuvieren interés en la sucesión como herederos o legatarios.
 
 ###### Art. 619.
 
@@ -5006,3 +5024,21 @@ En los procedimientos de adopción en trámite, a la entrada en vigor del presen
 ###### ARTICULO CUARTO.
 
 El Sistema Estatal para el Desarrollo Integral de la Familia, se coordinará con los ayuntamientos de la entidad, a efecto de que la Procuraduría en Materia de Asistencia Social, tenga la intervención que le señala este Decreto en los procedimientos de adopción.
+
+P.O. 19 DE NOVIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, excepto en lo que se refiere a la modificación y adición al artículo 25 de la Ley Orgánica del Poder Judicial del Estado, que entrará en vigor cuando se instale el Juzgado de primera instancia de Comonfort.
+
+###### ARTICULO SEGUNDO.
+
+La función de actuario se seguirá desempeñando por el secretario o empleado del tribunal que el Juez decida aún cuando no reúna los requisitos del artículo 38-B que se adiciona a la Ley Orgánica del Poder Judicial, en tanto el pleno del Supremo Tribunal de Justicia acuerde los nombramientos de actuarios de conformidad con dicho dispositivo.
+
+###### ARTICULO TERCERO.
+
+Será optativa la creación de la oficina central de actuarios y de oficialía de partes común, hasta el 31 de diciembre de 1996; la creación de la oficina y oficialía de referencia, será obligatoria a partir del 1º de enero de 1997.
+
+###### ARTICULO CUARTO.
+
+Una vez que se instale el Juzgado mixto de primera instancia de nueva creación, los juzgados civil y penal de primera instancia de San Miguel de Allende le remitirán los expedientes de su competencia por territorio.
