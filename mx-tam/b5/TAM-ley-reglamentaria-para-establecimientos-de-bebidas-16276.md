@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2000-04-05"
+last_updated: "2001-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHOLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -93,7 +93,7 @@ XIV.- Casa-habitación: Inmueble, cuarto, departamento, aposento, edificio o lug
 
 XV.- Casino, círculo o club social: Lugar que proporciona servicio exclusivamente a sus socios e invitados, en el que se puede enajenar bebidas alcohólicas para su consumo;
 
-XVI.- Centro comercial: Conjunto de locales o espacios en los que pueden operar, en forma individual, diversos establecimientos comerciales, incluyendo tiendas departamentales, en los que se pueden enajenar bebidas alcohólicas;
+XVI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
 XVII.- Centro de espectáculos: Lugar en el que se presentan espectáculos artísticos, deportivos o culturales, cuyo acceso se controla mediante boletos de distribución gratuita u onerosa, en el que se puede enajenar bebidas alcohólicas, que serán servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
 
@@ -151,7 +151,9 @@ XLIII.- Secretaría: La Secretaría de Finanzas y Administración;
 
 XLIV.- Secretario: El titular de la Secretaría de Finanzas y Administración;
 
-XLV.- Supermercado: Establecimiento comercial organizado por departamentos con sistema de autoservicio, con venta de bebidas alcohólicas al menudeo en envase cerrado, para su consumo en lugar distinto;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XLV.- Supermercado: Establecimiento comercial organizado por departamentos con sistema de autoservicio, con enajenación complementaria de bebidas alcohólicas al menudeo en envase cerrado, para su consumo en lugar distinto;
 
 XLVI.- Venta: Toda actividad relacionada con la enajenación de bebidas alcohólicas;
 
@@ -160,6 +162,10 @@ XLVII.- Venta al mayoreo: Enajenación de bebidas alcohólicas en cartón o caja
 XLVIII.- Venta al menudeo: Enajenación de bebidas alcohólicas en envase o botella cerrada o abierta o al copeo; y,
 
 XLIX.- Visitador: Servidor Público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de esta ley.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+Para los efectos de esta ley se considera que la actividad se realiza de manera complementaria cuando el importe de la enajenación por concepto de bebidas alcohólicas no exceda del 40% del total de las enajenaciones efectuadas en un mes de calendario.
 
 ###### ARTICULO 6o.
 
@@ -205,7 +211,7 @@ X.- Cantina o taberna;
 
 XI.- Casino, círculo o club social;
 
-XII.- Centro comercial;
+XII.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
 XIII.- Centro de espectáculos;
 
@@ -335,41 +341,55 @@ Los establecimientos a que se refiere esta ley, se regirán, para la distribuci�
 
 La enajenación de bebidas alcohólicas al público podrá realizarse solo en los días y horarios siguientes:
 
-I.- Los abarrotes, expendios o depósitos, licorerías, minisuper y supermercados, de lunes a sábado, de las diez a las veintidos horas, y los domingos de las diez a las diecieséis hora;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-II.- Las agencias, subagencias, distribuidoras, almacenes, envasadoras y bodegas de lunes a sábado de las siete a las diecinueve horas;
+I.- Los abarrotes, expendios o depósitos, licorerías, minisuper y supermercados, de lunes a sábado, de las diez a las veinticuatro horas, y los domingos de las diez a las veinte horas;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+II.- Las agencias, subagencias, distribuidoras, almacenes, envasadoras y bodegas de lunes a domingo de las siete a las diecinueve horas;
 
 III.- Las cantinas o tabernas y cervecerías, de lunes a sábado de las diez a las veinticuatro horas;
 
-IV.- Las loncherías, fondas, coctelerías, taquerías, comedores, cenadurías y otros establecimientos similares que tengan por actividad la enajenación y consumo de alimentos, todos los días de las doce a las veinticuatro horas.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IV.- Las loncherías, fondas, coctelerías, taquerías, comedores, cenadurías y otros establecimientos similares que tengan por actividad la enajenación y consumo de alimentos, todos los días de las diez a las veinticuatro horas;
 
 V.- Los billares o boliches, de lunes a sábado de las doce a las veinticuatro horas, y los domingos de las doce a las veintidós horas;
 
 VI.- Los centros recreativos, deportivos o clubes, centros de espectáculos, casinos, círculos o clubes sociales, café cantantes, de lunes a sábado de las doce a las dos horas del día siguiente, y los domingos de las doce a las veinticuatro horas;
 
-VII.- Los cabarets o centros nocturnos y discotecas, de lunes a sábado de las veinte a las dos horas del día siguiente, y los domingos de las veinte a las veinticuatro horas;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VIII.- Los bares, bares de hotel y motel, restaurantes y restaurantes-bar, de lunes a sábado de las doce a las dos horas del día siguiente, y los domingos de las doce a las veinticuatro horas y
+VII.- Los cabarets o centros nocturnos y discotecas, de domingo a jueves de las veinte a las dos horas del día siguiente, y los viernes y sábados de las veinte a las cuatro horas del día siguiente;
 
-IX.- Los salones de recepciones, de lunes a sábado de las doce a las dos horas del día siguiente, y los domingos de las doce a las veinticuatro horas.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+VIII.- Los bares, bares de hotel y motel, restaurantes y restaurantes-bar, de lunes a sábado de las diez a las dos horas del día siguiente, y los domingos de las diez a las veinticuatro horas; y
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IX.- Los salones de recepciones, de lunes a sábado de las diez a las cuatro horas del día siguiente, y los domingos de las diez a las veinticuatro horas.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+En los días 15 de septiembre, 24 y 31 de diciembre se podrá optar por observar el horario aplicable a sábado.
 
 ###### ARTICULO 20.
 
-Independientemente de los señalados en otros ordenamientos legales, el Ejecutivo del Estado, por conducto de la Secretaría, señalará los días en que, en los establecimientos a que se refiere la presente ley, no podrán enajenarse ni consumirse bebidas alcohólicas. En este caso, la Secretaría dará a conocer éstos días a través de los medios de comunicación que estime convenientes.
+Independientemente de los señalados en otros ordenamientos legales, el Ejecutivo del Estado, por conducto de la Secretaría, señalará los días en que, en los establecimientos a que se refiere la presente ley, no podrán enajenarse ni consumirse bebidas alcohólicas, En este caso, la Secretaría dará a conocer éstos días a través de los medios de comunicación que estime convenientes.
 
 ###### ARTICULO 21.
 
-Los titulares de las licencias de bar, cabaret o centro nocturno, centro de espectáculos, casino, círculos o clubes social, discoteca y restaurant-bar, podrán solicitar a la Secretaría la ampliación de sus horarios de funcionamiento por un período de tiempo determinado, el cual no deberá exceder de treinta días, en un año de calendario.
-
-Para este efecto deberá presentar la solicitud ante la Oficina Fiscal que corresponda al domicilio del establecimiento, en las formas aprobadas por la Secretaría, en la que señalarán los días en los que solicita la ampliación de horario.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 22.
 
-La solicitud a que se refiere el artículo anterior, deberá realizarse por escrito, especificando las causas que la motivan, por lo menos con diez días hábiles de anticipación a la fecha en que se pretende ampliarlo, debiéndose además, acompañar la mencionada solicitud, con la opinión favorable por escrito del Presidente Municipal correspondiente al domicilio del establecimiento.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 23.
 
-La Secretaría considerará, para el otorgamiento de la ampliación de horario, las sanciones impuestas al establecimiento o titular, el cumplimiento de las mismas, el pago de sus impuestos, la frecuencia de las violaciones a la presente ley y las razones esgrimidas por el mismo, notificando su resolución en un plazo no mayor a cinco días hábiles posteriores a la fecha en que se presentó la solicitud.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 ### CAPITULO V. DE LA EXPEDICION DE LAS LICENCIAS
 
@@ -397,13 +417,15 @@ VII.- Croquis o plano en que se indique, en forma clara y precisa, la ubicación
 
 VIII.- Licencia o constancia expedida por la autoridad sanitaria de la jurisdicción que corresponda, en la que se acredite que el local reúne los requisitos sanitarios en vigor;
 
-IX.- Oficio de opinión favorable expedida por el Presidente Municipal correspondiente al domicilio del establecimiento;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IX.- Constancia expedida por el Ayuntamiento, respecto al cumplimiento de los requisitos en materia del uso de la construcción o edificación del establecimiento y de las distancias a que se refiere la fracción XII de éste Artículo;
 
 X.- Constancia de no adeudos fiscales, expedida por la Oficina Fiscal del Estado, así como de estar inscrito en el Registro Estatal de Contribuyentes;
 
 XI.- Dos fotografías, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones sanitarias;
 
-XII.- Los establecimientos que expendan bebidas alcohólicas, con excepción de restaurantes, casinos, círculos o clubes sociales, bares de hoteles, discotecas, restaurant-bar y supermercados, deberán estar ubicados a una distancia fuera de un perímetro de doscientos metros de otro similar, de planteles educativos, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, centros de trabajo con más de cien empleados, templos religiosos, centros de convivencia o instalaciones deportivas, edificios públicos o de asistencia social, así como en zonas residenciales, exceptuando sus áreas comerciales;
+XII.- Los establecimientos que expendan bebidas alcohólicas, con excepción de restaurantes, casinos, círculos o clubes sociales, bares de hoteles, discotecas, restaurant bar y supermercados, deberán estar ubicados a una distancia fuera de un perímetro de doscientos metros de otro similar, de planteles educativos, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, centros de trabajo con más de cien empleados, templos religiosos, centros de convivencia o instalaciones deportivas, edificios públicos o de asistencia social, así como en zonas residenciales, exceptuando sus áreas comerciales;
 
 XIII.- Cubrir el pago de los derechos correspondientes que señala la Ley de Hacienda del Estado;
 
@@ -411,15 +433,17 @@ XIV.- Copia de la solicitud de inscripción en el Registro Federal de Contribuye
 
 XV.- Los demás requisitos que fijen las leyes o sus reglamentos, así como los que determine la Secretaría para cada tipo de establecimiento.
 
-La Secretaría podrá dispensar la entrega de alguno de los documentos señalados en el presente artículo, cuando estos obren en sus archivos, y el interesado declare que dicho documento no ha tenido cambio alguno.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 26.
 
 Recibida la solicitud y los anexos a que se refiere el artículo anterior, en la Oficina Fiscal del Estado que corresponda a la ubicación del establecimiento, dentro de los treinta días de calendario siguientes a la recepción de la solicitud, se ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta ley, independientemente de lo que señalan las demás leyes aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 27.
 
-Una vez practicada la inspección, y comprobado que el establecimiento reúne los requisitos de ley, el Ejecutivo del Estado, por conducto de la Secretaría, dentro de los treinta días siguientes, resolverá si es de otorgarse o no la licencia correspondiente. Si después de concluido este plazo no se hubiere otorgado la licencia, se considerará como rechazada la solicitud del interesado.
+Una vez practicada la inspección, y comprobado que el establecimiento reúne los requisitos de ley, el Ejecutivo del Estado, por conducto de la Secretaría, dentro de los treinta días siguientes, resolverá si es de otorgarse o no la licencia correspondiente. Si después de concluido este plazo no se hubiere otorgado la licencia, se considerará como rechazada la solicitud del interesado, empezando a correr a partir de entonces el término para que el solicitante interponga el recurso de reconsideración al que se refiere el capítulo XI de la presente ley.
 
 ###### ARTICULO 28.
 
@@ -469,21 +493,23 @@ El establecimiento con actividades diversas en un mismo local, queda sujeto a di
 
 Queda prohibido utilizar una licencia para amparar más de un establecimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 36.
 
-Para obtener la nueva licencia a que se refiere el artículo 34, se requiere:
+Para obtener la nueva licencia a que se refiere el artículo 34, se requiere comprobar que se continúa cumpliendo con los requisitos señalados con el Artículo 25 de la presente ley. Para este efecto, bastará con la declaratoria que hará el solicitante bajo protesta de decir verdad. En caso de que se hubiere modificado alguno de los requisitos exigidos, el interesado deberá comprobarlo con el documento correspondiente.
 
-I.- Presentar por escrito la solicitud correspondiente, formulada bajo protestad de decir verdad, en las formas aprobadas por la Secretaría;
+I.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
-II.- Probar que el establecimiento continúe reuniendo los requisitos exigidos por esta ley;
+II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
-III.- Que el propietario de la licencia se encuentre al corriente en el pago de sus obligaciones fiscales, tanto estatales como municipales;
+III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
-IV.- Copia fotostática de la licencia con la que está operando;
+IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
-V.- Oficio de opinión favorable del Presidente Municipal correspondiente al domicilio del establecimiento, expedido durante el año de que se trate; y
+V.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
-VI.- Que el establecimiento o negociación de que se trate no tenga registradas más de tres infracciones a la presente ley en el año inmediato anterior al que se solicita al licencia.
+VI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
 Al recibir la nueva licencia, deberá devolverse el original de la licencia del año inmediato anterior.
 
@@ -493,25 +519,23 @@ Se considerará vigente la licencia o constancia sanitaria estatal, en tanto la 
 
 ###### ARTICULO 38.
 
-La Secretaría, para el otorgamiento de la nueva licencia, considerará las sanciones impuestas al titular, su cumplimiento, el pago de sus impuestos y la frecuencia de las violaciones a la presente ley.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-Si el titular no obtuviere respuesta de la Secretaría, transcurrido el plazo a que se refiere el artículo 27 de esta ley, se considerará como rechazada su solicitud, empezando a correr a partir de entonces el término para que el titular de la licencia interponga el recurso de reconsideración a que se refiere el Capítulo XI de la presente ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 39.
 
-La Secretaría podrá autorizar el cambio de domicilio o clasificación del establecimiento, cuando se reúnan los requisitos siguientes:
+La Secretaría podrá autorizar el cambio de domicilio o clasificación del establecimiento, cuando se compruebe el cumplimiento de los requisitos señalados en el Artículo 25 de esta ley, observándose lo dispuesto en los Artículos 26 y 27 de la misma.
 
-I.- Que el interesado presente su solicitud por escrito dirigida a al Secretaría, cuando menos con treinta días de anticipación a la fecha que pretenda realizar el cambio de domicilio o giro;
+I.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
-II.- Se acredite que el nuevo local reúna los requisitos establecidos en el artículo 25 de la presente ley; y
+II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
-III.- Se anexe el oficio de opinión favorable del Presidente Municipal correspondiente al domicilio del establecimiento.
+III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 40.
 
-La Secretaría, dentro de los veinte días hábiles siguientes a la fecha en que se haya presentado la solicitud de cambio de domicilio o giro, podrá concederla o negarla conforme a lo dispuesto en la presente ley, atendiendo en todo caso al orden público e interés social.
-
-Si el titular no obtuviere respuesta de la Secretaría, transcurrido el plazo citado, se considerará como rechazada su solicitud, empezando a correr a partir de entonces el término para que el titular de la licencia interponga el recurso de reconsideración a que se refiere el Capítulo XI de la presente ley.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 41.
 
@@ -543,7 +567,7 @@ La vigilancia, para el cumplimiento de las disposiciones a que esta ley se refie
 
 Los visitadores, en el ejercicio de sus funciones, tendrán libre acceso a los establecimientos a que esta ley se refiere, debiendo identificarse previamente con su credencial expedida por la Secretaría, ante la persona con quien entienda la diligencia.
 
-Los propietarios, sus representantes legales o los encargados del establecimiento objeto de la visita domiciliaria estarán obligados a permitir el acceso inmediato a los visitadores, a darles las facilidades e informes necesarios para el desarrollo de su labor y, en general, a proporcionar todos los elementos y datos que éstos requieran para la comprobación del cumplimiento de las disposiciones que a esta ley se refiere, así como a los que se señalen en la licencia o permiso respectivo. Igualmente, estarán obligados a no entorpecer las labores de inspección.
+Los propietarios, sus representantes legales o los encargados del establecimiento objeto de la visita domiciliaria estarán obligados a permitir el acceso inmediato a los visitadores, a darles las facilidades e informes necesarios para el desarrollo de su labor y, en general, a proporcionar todos los elementos y datos que estos requieran para la comprobación del cumplimiento de las disposiciones que a esta ley se refiere, así como a los que se señalen en la licencia o permiso respectivo. Igualmente, estarán obligados a no entorpecer las labores de inspección.
 
 El incumplimiento de las disposiciones contenidas en éste artículo, traerá como consecuencia la imposición de la sanción prevista en la fracción VII del artículo 48 de ésta ley.
 
@@ -581,7 +605,9 @@ El Secretario resolverá la inconformidad dentro del término de quince días h�
 
 Transcurrido el plazo a que se refiere la fracción VI del artículo anterior, el Secretario o la persona que éste designe, calificará las actas y aplicará, en su caso, la sanción correspondiente.
 
-### CAPITULO VII. DE LAS CAUSAS Y PROCEDIMIENTO ADMINISTRATIVO DE CANCELACION DE LICENCIAS DE FUNCIONAMIENTO
+### CAPITULO VII
+
+DE LAS CAUSAS Y PROCEDIMIENTO ADMINISTRATIVO DE CANCELACION DE LICENCIAS DE FUNCIONAMIENTO.
 
 ###### ARTICULO 48.
 
@@ -671,7 +697,7 @@ c).- Cuando se permita, dentro del establecimiento, conductas que tiendan a alen
 
 d).- Cuando se enajenen, o en el establecimiento se permita el consumo de bebidas alcohólicas a menores de edad, a personas que no estén en pleno goce de sus facultades mentales, a personas armadas o bajo los efectos de psicotrópicos, elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones;
 
-e).- Cuando se transfiera la licencia o permiso respectivo en contravención a lo dispuesto en el Artículo 30 de esta ley, así como cuando sea utilizada en algún establecimiento por persona distinta a su propietario;
+e).- Cuando se transfiera la licencia o permiso respectivo en contravención a lo dispuesto en el Articulo 30 de esta ley, así como cuando sea utilizada en algún establecimiento por persona distinta a su propietario;
 
 f).- Cuando el establecimiento carezca de la licencia o permiso correspondiente o cuando el establecimiento continúe operando después de haberse notificado la cancelación de la licencia;
 
@@ -741,7 +767,9 @@ Se prohibe la venta de bebidas alcohólicas en casa habitación, así como utili
 
 Se prohibe el almacenamiento, distribución y enajenación de bebidas alcohólicas en:
 
-I.- Lugares públicos, tales como la vía (sic), parques, plazas y centros deportivos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+I.- Lugares públicos, tales como la vía pública, parques y plazas;
 
 II.- El interior de los planteles educativos de todo nivel académico, templos, cementerios, kermesses infantiles y en los establecimientos de readaptación social;
 
@@ -913,9 +941,11 @@ Cuando no se acompañe el documento a que se refiere la fracción I del presente
 
 Cuando no se acompañen los documentos señalados en las fracciones II y III de este artículo se requerirá al recurrente para que los presente en un plazo de tres días hábiles; transcurrido dicho término, y el promovente no los presentare, se tendrá por no interpuesto el recurso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 77.
 
-En el supuesto señalado en el segundo párrafo del artículo 38 de la presente ley, el recurrente deberá acompañar la copia de la solicitud presentada, en la que conste la fecha en que fue recibida por la Secretaría.
+En el supuesto señalado en el artículo 27 de la presente ley, el recurrente deberá acompañar la copia de la solicitud presentada, en la que conste la fecha en que fue recibida por la Secretaría.
 
 En este caso, la Secretaría expresará en un término no mayor a diez días hábiles, la causa por la que no fue aceptada su solicitud, y una vez hecho esto se abrirá un plazo de cinco días hábiles para que el afectado ofrezca las pruebas que estime pertinentes, en relación a la causa expresada por la autoridad.
 
@@ -962,3 +992,15 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 ATENTAMENTE "Sufragio Efectivo. No Reelección"
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- EL SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.-
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 25 DE DICIEMBRE DE 2001
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto en el Artículo 36 de esta ley, la declaratoria de cumplimiento para aquellos establecimientos que cuenten con licencia vigente para el ejercicio 2001, se referirá a que las condiciones de operación no ha sido objeto de modificación o cambio alguno con respecto a ese mismo año.
