@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fondos-de-inversion-antes-ley-de-sociedades-de-21343"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-04"
-last_updated: "2001-06-04"
+last_updated: "2004-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21343&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-31"
 
 LEY DE SOCIEDADES DE INVERSION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de junio de 2001.
 
@@ -983,17 +983,45 @@ I. Omitan registrar en los términos del artículo 76 de esta Ley, las operacion
 
 II. Inscriban u ordenen que se inscriban datos falsos en la contabilidad o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionarse a la Comisión.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 91.
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las sociedades de inversión, en las sociedades operadoras de sociedades de inversión y en las sociedades distribuidoras de acciones de sociedades de inversión, actos u operaciones, que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, incluyendo la obligación de presentar a la Secretaría, por conducto de la citada Comisión, reportes sobre las operaciones y servicios que realicen con sus accionistas, por los montos y en los supuestos que en dichas disposiciones de carácter general se establezcan.
+Las sociedades operadoras de sociedades de inversión, distribuidoras de acciones de sociedades de inversión y, en su caso, las sociedades de inversión, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
 
-Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los accionistas de las sociedades de inversión, que consideren sus condiciones específicas y actividad económica o profesional; los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de éstos; las plazas en que operen, y las prácticas comerciales y bursátiles que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias sociedades de inversión. El cumplimiento de la obligación de presentar reportes previstos en tales disposiciones no implicará transgresión a lo establecido en el artículo 55 de esta Ley.
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
 
-Las disposiciones señaladas deberán ser observadas por las sociedades de inversión, sociedades operadoras de sociedades de inversión y sociedades distribuidoras de acciones de sociedades de inversión, así como por los miembros de los consejos de administración, comisarios, auditores externos, directivos, apoderados para celebrar operaciones con el público y empleados de las citadas entidades; la violación de dichas disposiciones será sancionada por la Comisión Nacional Bancaria y de Valores con multa de 200 a 100,000 días de salario o del diez al cien por ciento del monto de la operación de que se trate, conforme al procedimiento establecido en el artículo 84 de esta Ley.
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión, reportes sobre:
 
-Las mencionadas multas podrán ser impuestas tanto a las sociedades operadoras de sociedades de inversión y las sociedades distribuidoras de acciones de sociedades de inversión, como a las personas físicas y morales que en razón de sus actos hayan ocasionado o intervenido para que dichos intermediarios incurrieran en la irregularidad o resulten responsables de la misma.
+a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y
 
-Las sociedades de inversión, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión, servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión y los miembros de los consejos de administración, comisarios, auditores externos, directivos, apoderados para celebrar operaciones con el público y empleados de las entidades a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+b. Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administrador, directivo, funcionario, empleado o apoderado.
+
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y bursátiles que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+
+Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las sociedades operadoras de sociedades de inversión, distribuidoras de acciones de sociedades de inversión y, en su caso, las sociedades de inversión, deberán observar respecto de:
+
+a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
+
+b. La información y documentación que dichas sociedades y distribuidoras deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
+
+c. La forma en que las mismas instituciones y sociedades y distribuidoras deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+d. Los términos para proporcionar capacitación al interior de las sociedades y distribuidoras sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+Las sociedades operadoras de sociedades de inversión, distribuidoras de acciones de sociedades de inversión y, en su caso, las sociedades de inversión, deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+
+La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto de la Comisión, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las sociedades operadoras de sociedades de inversión, distribuidoras de acciones de sociedades de inversión y, en su caso, las sociedades de inversión, estarán obligadas a proporcionar dicha información y documentación relacionada con los actos, operaciones y servicios a que se refiere este artículo. La Secretaría de Hacienda y Crédito Público estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
+
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en el artículo 55 de esta Ley.
+
+Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las sociedades operadoras de sociedades de inversión, distribuidoras de acciones de sociedades de inversión y, en su caso, las sociedades de inversión, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 84 de la presente Ley, con multa de hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal.
+
+Las mencionadas multas podrán ser impuestas, tanto a las sociedades operadoras de sociedades de inversión, distribuidoras de acciones de sociedades de inversión y, en su caso, las sociedades de inversión, como a los miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, ocasionen o intervengan para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 80 de esta Ley.
+
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión, las sociedades operadoras de sociedades de inversión, distribuidoras de acciones de sociedades de inversión y, en su caso, las sociedades de inversión, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 ###### ARTICULO 92.
 
@@ -1058,3 +1086,9 @@ SEXTO. Los nombramientos de consejeros, director general y directivos con la jer
 México, D.F., a 28 de abril de 2001.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ricardo Francisco García Cervantes, Presidente.- Sen. Yolanda González Hernández, Secretario.- Dip. Manuel Medellín Milán, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 28 DE ENERO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
