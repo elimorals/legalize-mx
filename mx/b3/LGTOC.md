@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1983-12-30"
+last_updated: "1984-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1984.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -1356,7 +1356,7 @@ II.- Desde el día siguiente a aquél en que paguen el cheque, las de los endosa
 
 El librador de un cheque presentado en tiempo y no pagado, por causa imputable al propio librador, resarcirá al tenedor los daños y perjuicios que con ello le ocasione. En ningún caso, la indemnización será menor del veinte por ciento del valor del cheque.
 
-El librador sufrirá además la pena de fraude, si el cheque no es pagado por no tener el librador fondos disponibles al expedirlo, por haber dispuesto de los fondos que tuviere antes de que transcurra el plazo de presentación o por no tener autorización para expedir cheques a cargo del librado.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 194.
 
@@ -2955,6 +2955,16 @@ D.O.F. 30 DE DICIEMBRE DE 1983.
 ###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1984.
+
+D.O.F. 13 DE ENERO DE 1984.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
+
+...
 
 ## TRANSITORIO
 
