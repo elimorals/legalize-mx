@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-social-para-las-fuerzas-535"
 country: "mx"
 rank: "ley"
 publication_date: "1976-06-29"
-last_updated: "1981-11-27"
+last_updated: "1982-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=535&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación el martes 29 de junio de 1976.
 
@@ -35,8 +35,6 @@ Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 DECRETO:
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
-
-:
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS.
 
@@ -112,7 +110,13 @@ II. El Director General.
 
 La Junta Directiva se compondrá de nueve miembros, tres designados por la Secretaría de la Defensa Nacional, tres por la de Marina, dos por la de Programación y Presupuesto y uno por la de Hacienda y Crédito Público.
 
-El Ejecutivo Federal designará un Presidente dentro de los miembros señalados por la Secretaría de la Defensa Nacional, y un Vicepresidente dentro de los designados por la de Marina.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+El ejecutivo federal designará un presidente y un vicepresidente de los propuestos por la Secretaría de la Defensa Nacional o de Marina.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+Cuando el Presidente sea de los Propuestos por la Secretaría de la Defensa Nacional, el vicepresidente será de los propuestos por la Secretaría de Marina o viceversa.
 
 Por cada uno de los miembros de la Junta Directiva y en los términos del primer apartado de este artículo, se designarán los suplentes respectivos, sin que ellos puedan desempeñar, por suplencia, los cargos de Presidente o Vicepresidente de dicha Junta.
 
@@ -122,9 +126,15 @@ Por cada uno de los miembros de la Junta Directiva y en los términos del primer
 
 Los miembros de la Junta Directiva durarán en sus funciones, el tiempo que subsista su designación. Sus nombramientos podrán ser revocados libremente por quienes los hayan expedido.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 7o.
 
-El Ejecutivo Federal designará al Director General, al Subdirector General y a los Subdirectores que estime necesarios para el eficaz funcionamiento del Instituto, debiendo tener el primero de preferencia, la jerarquía de General de División.
+El Ejecutivo Federal designará al Director General y al Subdirector General, así como a los Subdirectores que estime necesarios para el eficaz funcionamiento del Instituto, debiendo tener el primero, de preferencia, la jerarquía de General de División o Almirante. El Subdirector General y los Subdirectores podrán ser tanto de la Secretaría de la Defensa Nacional como de la de Marina.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+Cuando el Director General sea de los propuestos por la Secretaría de la Defensa Nacional, el Subdirector General será de los propuestos por la Secretaría de Marina, o viceversa. En ningún caso podrán pertenecer los dos simultáneamente a la misma Secretaría.
 
 Los demás funcionarios y empleados serán designados por la Junta Directiva, a propuesta del Director del Instituto.
 
@@ -450,9 +460,11 @@ d).- Al tiempo en el grado ostentado en la permanencia anterior en el activo, se
 
 e).- Si se hubiere concedido compensación en el primer retiro y su importe no haya sido reintegrado totalmente, se deducirá lo que corresponda de la nueva compensación, o en su caso, se harán descuentos quincenales de un 25% en sus haberes de retiro hasta la total reintegración.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 29.
 
-Para calcular el monto de los haberes de retiro, de las compensaciones o de las pensiones, se sumarán al haber del grado con el que vayan a ser retirados o les hubiere correspondido en caso de retiro, las asignaciones de técnico, de vuelo o las especiales de los paracaidistas, cuando las estén percibiendo los militares en el momento en que ocurra alguna de las causales de retiro señaladas en las fracciones I, II, III y IV del artículo 22, o bien al cumplirse el plazo de seis meses a que se refiere la fracción V, o a la fecha en que se formuló la solicitud mencionada en la fracción VI del mismo precepto o el fallecimiento.
+Para calcular el monto de los haberes de retiro, de las compensaciones o de las pensiones, se sumarán al haber del grado con el que vayan a ser retirados o les hubiere correspondido en caso de retiro, las primas complementarias de ese haber por condecoraciones de perseverancia ya otorgadas, así como las asignaciones de técnico de vuelo o las especiales de los paracaidístas, cuando las estén percibiendo los militares en el momento en que ocurra alguna de las causales de retiro señaladas en las fracciones I, II, III y IV del Artículo 22, o bien al cumplirse el plazo a que se refiere la fracción V, o a la fecha en que se formulóla (sic) solicitud mencionada en la fracción VI del mismo precepto o el fallecimiento. A los militares que pasen a situación de retiro con más de cuarenta y cinco años de servicios efectivos, se les fijará el haber de retiro que ya se indicó en este párrafo, aumentado en un diez por ciento.
 
 Para los efectos del párrafo anterior, los haberes y las asignaciones que deban servir de base en el cálculo, serán los fijados en el Presupuesto de Egresos de la Federación, vigente en la fecha en que el militar cause baja en el activo.
 
@@ -1626,7 +1638,7 @@ IV. A falta de los documentos a que se refieren las tres fracciones anteriores, 
 
 V. En caso de que haya habido hospitalización después de recibidas las lesiones, se recabará, además el certificado médico del hospital.
 
-Mientras se recabe la documentación a que se refieren las fracciones anteriores y sólo por un lapso de tres meses, el 100% de los haberes del militar será entregado a los familiares que señale la Secretaría de la Defensa Nacional y la de Marina; en su caso, sin que esta prestación impida que, en su oportunidad, se otorguen los beneficios que correspondan a los familiares que resulten con derecho a ella y que en caso de que el beneficio sea de pensión, ésta se pague a partir del día siguiente de la muerte del militar.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 177.
 
@@ -1832,17 +1844,21 @@ Para la comprobación de la causa de retiro voluntario y la cuantificación del 
 
 Esta ineficacia no invalidará los actos derivados de tales cómputos ajenos al trámite de retiro actual. Sólo se les reconocerá plena eficacia dentro del trámite de retiro y de beneficio de retiro, a los cómputos de tiempo de servicios que hayan servido de base a retiros anteriores; en tales casos, los cómputos anteriores no podrán ser modificados por ningún motivo, sumándose su resultado al tiempo posterior a la fecha de reingreso al activo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 201.
 
-Los familiares de militares que se consideren con derecho a beneficio, solicitarán el otorgamiento de compensación o pensión directamente al Instituto, acompañando la documentación comprobatoria necesaria y éste, de inmediato, turnará el escrito petitorio y sus anexos a la Secretaría de la Defensa Nacional o de Marina, en su caso, para que previo estudio del expediente militar y de las pruebas aportadas por los interesados, determinen la personalidad militar, la jerarquía y la situación que guardaba como miembro de las Fuerzas Armadas, en el momento de su muerte, la persona de quien deriven sus derechos los peticionarios. Estos podrán, después de presentada la solicitud, aportar directamente a la Secretaría de que se trate, las pruebas que estimen pertinentes.
+Los familiares de Militares que se consideren con derecho a beneficio, solicitarán el otorgamiento de compensación o pensión directamente al Instituto, acompañando la documentación comprobatoria necesaria y éste, en un término que no exceda de 5 días hábiles, turnará el escrito petitorio y sus anexos a la Secretaría de la Defensa Nacional o de Marina, en su caso, misma que dentro de los siguientes 60 días hábiles resolverá lo concerniente previo estudio del expediente militar y de las pruebas aportadas por los interesados, determinen la personalidad militar, la jerarquía y la situación que quedaba como miembro de las fuerzas armadas, en el momento de su muerte, la persona de quien deriven sus derechos los peticionarios. Estos podrán, después de presentada la solicitud, aportar directamente a la Secretaría correpondiente (sic) de que se trate las pruebas que estimen pertinentes.
 
 Reunidos los elementos de convicción necesarios, la Secretaría declarará la existencia o inexistencia de la personalidad militar de la persona señalada por los interesados y, en su caso, si al morir se encontraba en el activo o en situación de retiro. Esta declaración y el cómputo de servicios militares, si los hubiere prestado la persona aludida, se notificarán a los peticionarios para los efectos de su manifestación de conformidad o de inconformidad, y en este último caso, para que ofrezcan y rindan pruebas, en la misma forma y términos mencionados en esta Ley.
 
 Las objeciones sólo podrán referirse a la inexistencia de personalidad militar y la jerarquía o cómputo de servicios, en su caso, de la persona señalada por los familiares.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 202.
 
-En los casos en que los militares y los familiares de éstos hubieren formulado objeciones a las declaraciones pronunciadas por la Secretaría que corresponda, o a los cómputos de servicios, dicha Secretaría formulará su declaración definitiva, en la cual resolverá las objeciones, aceptándolas o rechazándolas, y haciendo pormenorizada valorización de las pruebas y cuestiones alegadas. También será notificada a los interesados esta declaración.
+En los casos en que los militares y los familiares de éstos hubieran formulado objeciones a las declaraciones pronunciadas por la Secretaría que corresponda, o a los cómputos de servicios, dicha Secretaría formulará dentro de los 45 días hábiles siguientes, su declaración definitiva en la cual resolverá las objeciones aceptándolas o rechazándolas, y haciendo pormenorizada valorización de las pruebas y cuestiones alegadas. También será notificada a los interesados esta declaración.
 
 > <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1976)</small>
 
@@ -1854,17 +1870,27 @@ Si los militares o los familiares manifestaren su conformidad a las declaracione
 
 Cuando en las declaraciones de las Secretarías se reconociere la procedencia del retiro del militar interesado, o se tuviere por probada la personalidad militar de la persona de que hacen derivar sus derechos los peticionarios, y el hecho de que su muerte haya ocurrido en el activo o en situación de retiro, se remitirá el incidente de retiro y el expediente militar al Instituto. En los casos en que la declaración fuere adversa, se notificará ésta a los interesados, dando aviso al Instituto y a la Secretaría de Programación y Presupuesto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 204.
 
-Al recibir el Instituto la documentación proveniente de la Secretaría de que se trate, realizará el estudio de los antecedentes y formulará un dictamen sobre la procedencia del beneficio, su naturaleza y su monto, pudiendo solicitar los datos aclaratorios necesarios a la Secretaría remitente, a la autoridad que corresponda o al militar o familiares peticionarios. En caso de que el Instituto advierta que la Secretaría remitente ha omitido formalidades de procedimiento que le correspondan y que pudieran dar lugar a reclamaciones ante los Tribunales, devolverá la documentación del caso a su lugar de origen para que se proceda legalmente.
+Al recibir el Instituto la documentación proveniente de la Secretaría de que se trate, realizará el estudio de los antecedentes y formulará un dictamen, dentro de los 45 días hábiles siguientes sobre la procedencia del beneficio, su naturaleza y su monto, pudiendo solicitar los datos aclaratorios necesarios a la Secretaría remitente, a la autoridad que corresponda o al militar o familiares peticionarios. En caso de que el Instituto advierta que la Secretaría remitente ha omitido formalidades de procedimiento que le corresponda y que pudieran dar lugar a reclamaciones ante los tribunales, devolverá la documentación del caso a dicha Secretaría para que se proceda legalmente.
 
-La Junta Directiva, con vista del dictamen y de toda la documentación relativa, dictará resolución, concediendo o negando el beneficio, especificando en el primer caso, su naturaleza, su cuantía y demás particularidades del mismo. El otorgamiento o la negativa se basarán en los hechos y circunstancias que aparezcan probados, hubieran sido o no alegados o impugnados por los promoventes; pero se hará referencia a todas las cuestiones planteadas y se valorará cada una de las pruebas presentadas por los interesados.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+La junta directiva, con vista del dictamen y toda la documentación relativa, dictará resolución dentro de los 45 días hábiles siguientes concediendo o negando el beneficio, especificando en el primer caso, su naturaleza, su cuantía y demás particularidades del mismo. El otorgamiento o la negativa se basaránen (sic) los hechos y circunstancias que aparezcan probados, hubieran sido o no alegados o impugnados por los promoventes; pero se hará referencia a todas las cuestiones planteadas y se valorará cada una de las pruebas presentadas por los interesados.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1981)</small>
 
 La Junta del Instituto, en sus resoluciones, acatará las declaraciones definitivas de las Secretarías de la Defensa Nacional o de Marina, en cuanto reconozcan personalidad militar, determinen jerarquías en el activo o para efectos del retiro, precisen específicamente la causa o causas de retiro acreditadas y fijen situaciones dentro del activo o de retiro. También se sujetará a los cómputos de servicios formulados en dichas Secretarías.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+###### ARTICULO 204 Bis.
+
+En tanto se llevan a cabo los trámites a que se refieren los artículos anteriores, la Secretaría de Programación y Presupuesto, indicará a la oficina pagadora correspondiente, se continúen cubriendo el 50 por ciento de los haberes o haberes de retiro que percibía el militar fallecido, a los familiares que se acrediten con la credencial de afiliación respectiva, sin perjuicio de que posteriormente se establezca en definitiva a quienes corresponde este derecho, de acuerdo a lo dispuesto por el articulado de esta Ley.
+
+Una vez dictada la resolución definitiva; al efectuarse la liquidación correspondiente, de la cantidad que debe percibirse, se descontará la cantidad que les ha sido cubierta.
 
 > <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1976)</small>
 
@@ -3039,3 +3065,23 @@ SEGUNDO.- Se derogan el segundo párrafo del Artículo 152 y la fracción III de
 D.O.F. 27 DE NOVIEMBRE DE 1981.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 11 DE ENERO DE 1982.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE ENERO DE 1982.
+
+DECRETO QUE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 29 DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+A todos los militares que hayan sido retirados con más de 45 años de servicios efectivos, conforme a lo dispuesto por el decreto número 424 de fecha primero de agosto de 1977, y que a la fecha no estén percibiendo la prima complementaria de haber por condecoraciones de perseverancia, gozarán de este beneficio desde el primero de enero de 1981.
