@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-comunicaciones-y-transportes-para-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "1987-04-30"
-last_updated: "1995-12-30"
+last_updated: "1998-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, COMUNICACIONES Y TRANSPORTES PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de abril de 1987.
 
@@ -911,6 +911,10 @@ I.- Utilizar la vía pública para realizar toda clase de juegos o actividades n
 
 II.- Utilizar las aceras o banquetas para ejercer el comercio o practicar la mendicidad.
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 1998)</small>
+
+III.- Consumir bebidas alcohólicas en la vía pública, parques, plazas públicas y en el interior y exterior de los vehículos estacionados en la vía pública o en estacionamientos públicos, así como en aquellos vehículos que se encuentren en circulación.
+
 Cuando la infracción de estas disposiciones provengan de menores de edad, la responsabilidad recaerá en sus padres o tutores.
 
 ###### Art. 109.
@@ -1488,6 +1492,10 @@ V.- El agente no podrá despojar de placas al vehículo del infractor ni a éste
 VI.- La circulación de un vehículo sólo puede impedirse deteniéndolo en los siguientes casos:
 
 a). Cuando su conductor se encuentre en notorio estado de ebriedad o influjo de drogas;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 1998)</small>
+
+a) bis. Cuando, o aunque su conductor y/o acompañantes no se encuentren en notorio estado de ebriedad o bajo el influjo de drogas se encuentren consumiendo bebidas alcohólicas;
 
 b). Cuando su conductor no acredite, exhibiendo la licencia o permisos respectivos, estar facultados para conducir vehículos o aquellos no lo autoricen a manejar ese tipo de vehículo o la licencia o permiso se encuentren cancelados o suspendidos;
 
@@ -2158,3 +2166,9 @@ Primero.- El Presente decreto entrará en vigor el día primero de Enero de mil 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las contenidas en el presente decreto.
 
 Tercero.- Se faculta al Ejecutivo del Estado para que, en su oportunidad, expida la reglamentación que determine los procedimientos a que deberá sujetarse la comisión aludida en el segundo párrafo del artículo 253.
+
+P.O. 30 DE OCTUBRE DE 1998.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
