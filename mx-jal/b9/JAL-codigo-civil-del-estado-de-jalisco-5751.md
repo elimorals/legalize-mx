@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2001-12-29"
+last_updated: "2002-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -291,9 +291,23 @@ III. Surtirá efectos la declaración que se haga en forma expresa ante las auto
 
 La autoridad respectiva deberá percatarse que se cumplieron los requisitos antes indicados y entregará el cuerpo u órgano al beneficiario, recabando previamente la opinión de un médico legista.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2002)</small>
+
 ###### Art. 40.
 
-La disposición de órganos con fines terapéuticos de personas fallecidas, podrá también consentirse por quienes sean sus familiares y hubieren convivido con la persona fallecida durante los dos últimos años que hayan precedido a su fallecimiento.
+La disposición de órganos con fines terapéuticos, puede consentirse también por quienes sean sus familiares o convivieron con la persona fallecida durante los dos años que precedieron a su fallecimiento, en el siguiente orden:
+
+I. El cónyuge, o el concubinario o concubinaria en su caso;
+
+II. Los descendientes o adoptados capaces;
+
+III. Los ascendientes o adoptantes;
+
+IV. Los demás colaterales dentro del cuarto grado;
+
+V. En caso de concurrencia entre dos o más sujetos de los considerados en las fracciones anteriores y de existir conflicto para otorgar el consentimiento decidirá quien tenga prelación en su derecho, conforme al libro sexto del Código Civil. Si se trata de sujetos con el mismo derecho, se suspenderá el trámite de la donación de órganos, levantándose constancia para todos los fines legales correspondientes;
+
+VI. En caso de no existir ninguno de los familiares señalados, la solicitud de autorización para la disposición de órganos, deberá efectuarse al Consejo Estatal de Trasplante de Organos y Tejidos, quien podrá delegar por escrito esta función al Secretario Técnico del Consejo.
 
 ### CAPITULO III. Del patrimonio
 
@@ -17086,3 +17100,7 @@ DECRETO 19432
 Primero.- El presente decreto entrará en vigor al día primero de enero del año 2002, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE ENERO DE 2002.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
