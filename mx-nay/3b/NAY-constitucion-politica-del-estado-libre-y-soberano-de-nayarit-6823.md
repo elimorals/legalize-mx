@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1995-04-26"
+last_updated: "1995-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -323,27 +323,27 @@ La capital del Estado de Nayarit, es la ciudad de Tepic, y en ella residirán ha
 
 El Poder Legislativo del Estado se depositará en una asamblea que se denominará: CONGRESO DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se integrará con dieciocho Diputados electos por Mayoría Relativa y hasta doce Diputados asignados por Representación Proporcional.
+El Congreso del Estado se integrará por dieciocho diputados electos por mayoría relativa y hasta doce diputados electos por representación proporcional.
 
-La Demarcación Territorial de los dieciocho Distritos Electorales, será la que resulte de dividir la población total del Estado, entre el número de los Distritos Electorales señalados, considerando regiones geográficas de la Entidad.
+La demarcación territorial de los dieciocho distritos electorales, será la que resulte de dividir la población total del Estado, entre el número de los distritos señalados, considerando regiones geográficas de la Entidad.
 
-Las elecciones de Diputados serán calificadas por un Colegio Electoral, que se integrará con todos los presuntos Diputados electos por Mayoría Relativa y todos los presuntos Diputados asignados por Representación Proporcional.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### Art. 27.
 
-La asignación de los Diputados por Representación Proporcional, se efectuará mediante lista de candidatos que presentarán los Partidos Políticos, por la Comisión Electoral del Estado, quien después de haber realizado el cómputo de la votación obtenida por cada Partido Político en la totalidad de los Distritos Electorales, hará la asignación iniciando por el Candidato que tenga mayor votación y en el orden señalado por los Partidos Políticos en la lista registrada, siguiendo en forma decreciente con los demás partidos políticos, observando las siguientes reglas:
+Para la asignación de los diputados por el principio de representación proporcional, se observarán las reglas siguientes:
 
-I.- Tendrán derecho a concurrir en la asignación de Diputados de Representación Proporcional, los Partidos Políticos que hayan registrado fórmulas para elección de Diputados de Mayoría Relativa, en cuando menos seis Distritos Electorales de la Entidad.
+I. Que los partidos políticos hayan registrado fórmulas para la elección de diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos electorales, y
 
-II.- Tendrán derecho a concurrir en la asignación de Diputados de Representación Proporcional, los Partidos Políticos que hayan obtenido un mínimo de 1.5 por ciento de la votación total.
+II. Los partidos políticos que hayan obtenido un mínimo de 1.5 por ciento de la votación total, tendrán derecho a concurrir a la asignación.
 
-La Ley Electoral del Estado, determinará el procedimiento a que se sujetará la asignación de Diputados de Representación Proporcional.
+La Ley Electoral determinará el procedimiento y requisitos a que se sujetará la asignación de diputados de representación proporcional.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1943)</small>
 
@@ -359,11 +359,11 @@ II. Tener 18 años cumplidos al día de la elección.
 
 III. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el Distrito que vaya a representar.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### Art. 29.
 
-No pueden ser Diputados: el Gobernador del Estado, los titulares de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia en ejercicio, los miembros del Consejo de la Judicatura, los Jueces del Poder Judicial, los miembros del Ejército Nacional, los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos en sus respectivas demarcaciones, a menos que se separen de su cargo o servicio 90 días antes de su elección, excepto los Magistrados y Consejeros, en cuyo caso el término será de un año antes.
+No pueden ser Diputados: el Gobernador del Estado, los Titulares de las dependencias y entidades de la administración pública centralizada y paraestatal, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia en ejercicio, los miembros del Consejo de la Judicatura, los Jueces del Poder Judicial, los Magistrados del Organo Jurisdiccional Electoral; el Presidente y Consejeros del Organo Electoral del Estado; los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos en sus respectivas demarcaciones, a menos que se separen de su cargo o servicio 90 días antes de su elección, excepto los Magistrados y Consejeros del Poder Judicial, así como los integrantes del Tribunal Electoral y del Consejo Electoral del Estado indicados, en cuyo caso el término será de un año antes. Los ministros de cultos religiosos se ajustarán a lo dispuesto por la ley de la materia.
 
 ###### Art. 30.
 
@@ -407,17 +407,17 @@ El Congreso del Estado se renovará cada tres años contados desde el 18 de Agos
 
 La Legislatura del Estado celebrará anualmente dos Períodos de Sesiones Ordinarias: Uno que contará desde el 18 de Agosto hasta el 17 de Diciembre y otro que comenzará el 18 de Marzo terminando el 17 de Mayo. En los Recesos del Congreso podrán verificarse Períodos de Sesiones Extraordinarias por el tiempo y objeto que así lo exija la importancia de los asuntos, en los términos de las Convocatorias respectivas.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### Art. 37.
 
-Durante el Primer Periodo Ordinario de Sesiones de cada año, la Legislatura se ocupará preferentemente del examen y votación de las Leyes de Ingresos y Presupuestos de Egresos del Estado y Municipios para el año siguiente, decretando las contribuciones para cubrirlos.
+Durante el primer período ordinario de sesiones de cada año la Legislatura se ocupará preferentemente del examen y votación de las leyes de ingresos del Estado y de los Municipios, así como del presupuesto de egresos del Estado que se aplicarán para el año siguiente, decretando las contribuciones para cubrirlos.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### Art. 38.
 
-En el Segundo Período de Sesiones Ordinarias de cada año, se hará la revisión de la cuenta de caudales públicos del año anterior, que habrá de presentar el Ejecutivo dentro de los primeros 30 días de este Periodo.
+La revisión y en su caso aprobación de la cuenta de todos los caudales del Estado, se hará trimestralmente en los términos que al efecto señale la ley de la materia.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -527,9 +527,9 @@ VI. Fijar anualmente, a propuesta del Gobernador del Estado, los gastos de la Ad
 
 VII. Dar la resolución correspondiente, aprobando, reformando o reprobando las Leyes de Ingresos de los Municipios y revisar su cuenta pública.
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 1925)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-VIII. Convocar a elecciones, hacer el escrutinio de los votos emitidos para Gobernador; calificar dicha elección y declarar electo al que haya tenido mayoría de sufragios válidos.
+VIII. Constituirse en Colegio Electoral para designar al gobernador provisional, interino o sustituto según lo establece esta Constitución; y convocar a elecciones ordinarias y extraordinarias en los términos previstos por la ley.
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -565,9 +565,9 @@ XVII. Suspender o declarar desaparecidos Ayuntamientos o suspender o revocar el 
 
 XVIII. Formar y expedir la Ley Orgánica del Poder Legislativo y sus disposiciones Reglamentarias.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-XIX. Decidir acerca de las elecciones de Ayuntamientos cuando se reclame la nulidad total de aquellas, y consignar al Ministerio Público para los fines de su representación, a los que resulten responsables de algún fraude y otros delitos.
+XIX. Designar a los Magistrados del Organo Jurisdiccional en materia electoral en los términos previstos por la ley.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -591,7 +591,7 @@ XXV. Expedir Leyes de expropiación por causa de utilidad pública.
 
 XXVI. Examinar y aprobar las cuentas de todos los caudales del Estado. La revisión no se limitará a investigar si las cantidades están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar.
 
-Para tales efectos, las Instituciones de Educación Superior dotadas de autonomía, deberán presentar anualmente su informe correspondiente. Dicho informe deberá ser evaluado por la Legislatura en atención a los planes y programas que en ejercicio de su autonomía, las propias Instituciones de Educación hubiesen aprobado, de conformidad con sus fines y las Leyes que lo rigen.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -619,9 +619,9 @@ XXXIII. Ejercer las facultades que le correspondan conforme a la Constitución G
 
 XXXIV.- Conceder el revalúo de cualquiera finca urbana o rústica con sujeción a las leyes de la materia.
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-XXXV.- Erigirse en Colegio Electoral para calificar la elección de sus propios miembros.
+XXXV. Designar al Presidente y a los Consejeros del Organo Electoral del Estado en los términos de la ley de la materia.
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1989)</small>
 
@@ -699,11 +699,11 @@ Todo proyecto de ley o decreto que fuere desechado por el Congreso, no podrá vo
 
 (DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1941)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### Art. 58.
 
-El Ejecutivo no podrá hacer observaciones a las resoluciones que dicte la Legislatura erigida en gran jurado o en Colegio Electoral y a las que se refieren a la aplicación de la Ley de Responsabilidades de servidores públicos. Tampoco podrá hacerlas a las convocatorias para Sesiones Extraordinarias que expida la Diputación Permanente.
+El Ejecutivo no podrá hacer observaciones a las resoluciones que dicte la Legislatura erigida en Gran Jurado, y a las que se refieren a la aplicación de la Ley de Responsabilidades de Servidores Públicos. Tampoco podrá hacerlas a las convocatorias para sesiones extraordinarias que expida el Congreso del Estado o la Diputación Permanente, así como a la Legislación Orgánica del Congreso ni a sus reglamentos, las que no serán vetadas, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
 
 ###### Art. 59.
 
@@ -721,17 +721,17 @@ I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso, y proveer 
 
 II. Nombrar al Gobernador Provisional que deba sustituir al que esté en funciones.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia y ratificar el nombramiento del Procurador General de Justicia que haga el Gobernador conforme a esta Constitución.
+III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia, del Organo Jurisdiccional Electoral y del Organo Electoral del Estado; y ratificar el nombramiento del Procurador General de Justicia que haga el Gobernador conforme a esta Constitución.
 
-Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador, a los Magistrados del Tribunal Superior de Justicia, y a los empleados dependientes de la Legislatura.
+Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador, a los Magistrados del Tribunal Superior de Justicia a los miembros del Organo Jurisdiccional Electoral, a los Diputados y a los empleados dependientes de la legislatura.
 
 IV. Remover libremente a los empleados de su Secretaría y Contador Mayor de Hacienda.
 
 V. Admitir las renuncias de los funcionarios y empleados nombrados por sí o por el Congreso.
 
-VI. Recibir los expedientes relativos a las elecciones de Diputados y Gobernador del Estado, para los efectos que señala el Artículo 47 en sus fracciones VIII y XXXV de esta Constitución.
+VI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 VII. Conceder amnistía, de acuerdo con la fracción XX del Artículo 47 de esta misma Constitución.
 
@@ -761,9 +761,9 @@ I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del E
 
 II. Tener 30 años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-III. No ser Secretario del Despacho del Poder Ejecutivo o Federal, Presidente Municipal, Magistrado del Tribunal Superior de Justicia o Juez de Primera Instancia, Ministro de la Corte, Magistrado o Juez del Poder Judicial de la Federación, miembro del Consejo de la Judicatura Estatal o Federal, y Procurador General de Justicia, ni estar en servicio activo en el Ejército Nacional, salvo que se hubieren separado de sus cargos o del servicio lo menos 90 días antes de la elección. En el caso de los servidores públicos integrantes del Poder Judicial y Consejo de la Judicatura Estatal y Federal, señalados anteriormente, el término de su separación se computará un año antes de la elección.
+III. No ser Secretario del Despacho del Poder Ejecutivo o Federal, Presidente Municipal, Magistrado del Tribunal Superior de Justicia o Juez de Primera Instancia, Ministro de la Corte, Magistrado o Juez del Poder Judicial de la Federación, miembro del Consejo de la Judicatura Estatal o Federal, Procurador General de Justicia, Presidente del Organo Jurisdiccional Electoral ni Presidente del Organo Electoral del Estado; ni estar en servicio activo en el Ejército Nacional, salvo que se hubieren separado de sus cargos o del servicio lo menos 90 días antes de la elección. En el caso de los servidores públicos integrantes del Poder Judicial y Consejo de la Judicatura Estatal y Federal, señalados anteriormente, el término de su separación se computará un año antes de la elección.
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -841,9 +841,9 @@ III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes 
 
 IV.- Conducir y promover el desarrollo integral del Estado, de conformidad con los objetivos, niveles de participación y prioridades del sistema de planeación;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-V.- (A). Presentar a la Legislatura el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+V.- (A). Presentar a la legislatura el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo, y en los términos que previene esta Constitución, remitirle la cuenta de todos los caudales del Estado.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 1994)</small>
 
@@ -851,7 +851,7 @@ V.- (A). Presentar a la Legislatura el presupuesto de gastos del año siguiente,
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-(C). Visitar o hacer visitar las Oficinas de su dependencia y dictar los acuerdos que procedan, haciendo las consignaciones pertinentes al Ministerio Público;;
+(C). Visitar o hacer visitar las Oficinas de su dependencia y dictar los acuerdos que procedan, haciendo las consignaciones pertinentes al Ministerio Público;
 
 VI.- Fomentar por todos los medios posibles, la educación popular y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras morales y materiales que interesen a la colectividad.
 
@@ -869,7 +869,9 @@ IX.- Tomar parte sin voto en la discusión de las Leyes o Decretos o comisionar 
 
 X.- Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-XI.- Impartir a los Tribunales el auxilio que demanden para el desempeño de sus funciones.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+
+XI.- Proponer a la Legislatura, las ternas de ciudadanos que reúnan los requisitos establecidos por la ley, para la designación del Presidente del Organo Jurisdiccional Electoral y del Presidente del Organo Estatal Electoral. La ley establecerá los procedimientos y requisitos que deberán observarse para la total integración de esos organismos.
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -887,7 +889,9 @@ XIV.- Dispensar el pago de las fianzas carcelarias, cuando lo estime de justicia
 
 XV.- Castigar correccionalmente a los que le falten al respeto o desobedezcan sus disposiciones gubernamentales, en los términos que establece el artículo 21 de la Constitución General de la República.
 
-XVI.- Hacer que las elecciones sean libres e impedir que alguno ejerza presión en ellas.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+
+XVI.- Coadyuvar con las autoridades y órganos electorales a que las elecciones sean libres e impedir que alguno ejerza presión en ellas.
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
@@ -1277,8 +1281,6 @@ Los Defensores de Oficio serán nombrados y removidos por el Ejecutivo del Estad
 
 Los defensores de oficio deberán reunir los mismos requisitos que se exigen a los agentes del ministerio público.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
-
 ## TITULO SEXTO
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
@@ -1603,11 +1605,19 @@ IV. Es responsabilidad del Gobierno del Estado y de los sectores social y privad
 
 V. El sistema de planeación de los municipios se sujetará a los principios, estrategias y bases establecidas por esta Constitución.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### Art. 135.
 
-Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los Organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los Partidos Políticos y de los Ciudadanos; además, establecerá los medios de impugnación para garantizar que los actos de los Organismos Electorales se ajusten a lo dispuesto por esta Constitución y las Leyes que de ella emanen e instituirá un Tribunal que tendrá la competencia que determine la Ley; las resoluciones del Tribunal serán obligatorias y solo podrán ser modificadas por el Colegio Electoral que será la última instancia en la calificación de las elecciones y por tanto, sus resoluciones tendrán el carácter de definitivas e inatacables.
+Los partidos políticos son entidades de interés público. La ley determinará las formas específicas de su intervención en el proceso electoral y se regirán conforme a los principios y finalidades que establece la Constitución General de la República.
+
+La organización, preparación, desarrollo y vigilancia de los procesos electorales locales a que se refiere la ley, es una función del Estado que se ejercerá a través de un organismo público dotado de autonomía, con personalidad jurídica y patrimonio propio, cuya integración y funciones se determinará en la Ley de la materia.
+
+Dicho organismo tendrá facultad para conferir definitividad a las distintas etapas del proceso electoral, calificando y declarando la validez de las elecciones de Gobernador, Diputados y Ayuntamientos. Al efecto, otorgará las constancias a los candidatos que hubiesen obtenido mayoría de votos y hará las asignaciones de Diputados y Regidores de Representación Proporcional.
+
+La ley establecerá un sistema de medios de impugnación de los que conocerá el Organo Electoral Estatal, sus órganos y el Tribunal Electoral del Estado en sus respectivas competencias. El Tribunal resolverá en forma definitiva e inatacable las impugnaciones que se presenten sobre la declaratoria de validez de la elección, otorgamiento de constancias y asignación de Diputados y Regidores por el principio de Representación Proporcional.
+
+El Tribunal Electoral del Estado se integrará y funcionará conforme lo disponga la ley de la materia y sus disposiciones reglamentarias.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1677,7 +1687,7 @@ P.O. 30 DE MARZO DE 1919.
 
 Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 
-P.O. 24 DE JULIO DE 1919
+P.O. 24 DE JULIO DE 1919.
 
 Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 
@@ -2188,3 +2198,31 @@ Por esta única vez y para los efectos del Artículo 85 de la reforma, los Conse
 3.- Los Magistrados nombrados por las Salas como Consejeros ejercerán por un término de tres años, sin que puedan ser ratificados para otro período, y
 
 4.- El juez y el Secretario serán designados como Consejeros por y ante el Pleno del Tribunal Superior de Justicia mediante insaculación, para un período de cuatro años, sin que puedan ser ratificados para otro período. Al efecto, el Presidente del Tribunal Superior de Justicia, formulará una lista de Jueces y Secretarios actuales que reúnan los requisitos, de entre los cuales se hará el sorteo.
+
+P.O. 18 DE NOVIEMBRE DE 1995.
+
+DECRETO 7885 QUE REFORMA ARTS-37, 38 Y 69.
+
+PRIMERO.- El presente decreto de reformas entrará en vigor, previos los trámites a que se refiere el artículo 131 de la Constitución Política, el día primero de enero de mil novecientos noventa y seis.
+
+SEGUNDO.- Remítase el expediente y la minuta del presente decreto a los ayuntamientos del Estado, a efecto de que tramite y cumpla el procedimiento a que se refiere el artículo 131 de la Constitución Política, y a su término, recíbase y compútese los resultados para expedir el decreto promulgatorio correspondiente.
+
+P.O. 18 DE NOVIEMBRE DE 1995.
+
+DECRETO 7886, QUE REFORMA ARTS. 26, 27, 29, 47 FR.VIII,XIX Y XXXV, 58, 60 FR. III Y VI.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor, previos trámites constitucionales, al día siguiente de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Remítase la minuta aprobada a los Honorables Ayuntamientos Constitucionales del Estado, para los efectos a que alude el Artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, a cuyo término deberán computarse los resultados y tramitarse el Decreto promulgatorio respectivo para su turno al Periódico Oficial.
+
+P.O. 18 DE NOVIEMBRE DE 1995.
+
+DECRETO 7887, QUE DEROGA EL SEGUNDO PARRAFO DE LA FRACCION XXVI DEL ART. 47.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+SEGUNDO.- En cumplimiento a lo dispuesto por el artículo 131 de la Constitución Política, remítase el expediente y la Minuta Proyecto de Decreto relativa a los Honorables Ayuntamientos del Estado para los efectos a que alude el mencionado ordenamiento.
