@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-7824"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-11-21"
-last_updated: "1997-04-30"
+last_updated: "1998-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de noviembre de 1990.
 
@@ -325,7 +325,9 @@ XXVI.- Tramitar los asuntos de competencia del Pleno, hasta dejarlos en estado d
 
 XXVII.- Dar cuenta al Pleno del Estado que guardan las partidas del presupuesto del Poder Judicial y de los cortes de caja que rinda la Tesorería;
 
-XXVIII.- Vigilar el cumplimiento de las normas de control presupuestal que dicte el Pleno y rendir los informes correspondientes a la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+XXVIII.- Vigilar el cumplimiento de las normas de control del presupuesto que dicte el Pleno y enviar mensualmente, dentro de los treinta días siguientes del mes que corresponda, a la Contaduría Mayor de Hacienda, el avance financiero y presupuestal. Asimismo, remitir trimestralmente a la mencionada Contaduría, dentro de los treinta días siguientes al trimestre respectivo, la cuenta pública del Poder Judicial para su revisión y calificación trimestral;
 
 XXIX.- Presidir la Comisión Editorial, vigilando la publicación de la Revista Jurídica y del Boletín Judicial;
 
@@ -907,7 +909,9 @@ Son obligaciones del Tesorero:
 
 I.- Efectuar puntualmente los pagos de nóminas y demás erogaciones que acuerde el Tribunal;
 
-II.- Verificar que en la información contable y presupuestal estén aplicados todos los movimientos que correspondan y afecten a las partidas de que se trate;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+II.- Elaborar mensualmente el informe relativo al avance financiero y presupuestal y, en representación del Presidente del Tribunal, remitirlo dentro de los siguientes treinta días del mes correspondiente, a la Contaduría Mayor de Hacienda. Asimismo, enviar trimestralmente a la citada Contaduría dentro de los treinta días siguientes del trimestre respectivo, la cuenta pública del Poder Judicial, para su revisión y calificación trimestral;
 
 III.- Practicar las retenciones, descuentos y multas que ordene el Tribunal;
 
@@ -1596,3 +1600,9 @@ Las presentes reformas y adiciones entrarán en vigor el día primero de mayo de
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
+
+P.O. 8 DE AGOSTO DE 1998.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
