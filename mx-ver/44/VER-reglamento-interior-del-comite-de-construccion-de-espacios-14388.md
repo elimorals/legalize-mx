@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-comite-de-construccion-de-espacios-1438
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-04"
-last_updated: "1999-06-01"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DEL COMITE DE CONSTRUCCION DE ESPACIOS EDUCATIVOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -ANTES VERACRUZ-LLAVE-
 
-REGLAMENTO INTERIOR DEL COMITE DE CONSTRUCCION DE ESPACIOS EDUCATIVOS DEL ESTADO DE VERACRUZ-LLAVE
+REGLAMENTO INTERIOR DEL COMITE DE CONSTRUCCION DE ESPACIOS EDUCATIVOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 4 de diciembre de 1997.
 
 El Consejo Directivo del Comité de Construcción de Espacios Educativos del Estado de Veracruz-Llave, en ejercicio de la facultad que le otorga el artículo 6o. fracción IV, del Decreto de creación de dicho organismo, y con fundamento en el artículo 16o. del propio ordenamiento, tiene a bien expedir el presente:
 
-REGLAMENTO INTERIOR DEL COMITÉ DE CONSTRUCCIÓN DE ESPACIOS EDUCATIVOS DEL ESTADO DE VERACRUZ-LLAVE
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO 547, PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003, PARA LOS EFECTOS CONSTITUCIONALES Y LEGALES PROCEDENTES TODAS LAS LEYES, DECRETOS, CODIGOS U ORDENAMIENTOS ESTATALES QUE EN SU DENOMINACION CONTENGAN LA EXPRESION "ESTADO DE VERACRUZ-LLAVE", SE ENTENDERAN REFERIDAS AL "ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2003)</small>
+
+REGLAMENTO INTERIOR DEL COMITÉ DE CONSTRUCCIÓN DE ESPACIOS EDUCATIVOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO I. Disposiciones generales
 
@@ -261,10 +265,28 @@ TRANSITORIOS (SIC)
 
 Único. En tanto se expide el Manual de Organización el Director del Comité queda facultado para resolver las cuestiones que dicho Manual debe regular.
 
-Dado en la ciudad de Xalapa-Enríquez, Veracruz, a los 9 días del mes de Julio de mil novecientos noventa y siete.
+Dado en la ciudad de Xalapa-Enríquez, Veracruz, a los 9 días del mes de Julio de mil novecientos noventa y siete
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 1 DE JUNIO DE 1999.
 
 Único. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional se añadirá la expresión: "... Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... Estado de Veracruz - Llave", se entenderán referidas al "... Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto cantaren con recursos materiales y técnicos con la leyenda "... del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gacela Oficial, órgano del Gobierno del Estado.
