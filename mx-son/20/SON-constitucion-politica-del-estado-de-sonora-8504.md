@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1977-01-22"
+last_updated: "1977-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE ENERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE FEBRERO DE 1977.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -585,7 +585,9 @@ XV. Para computar y calificar los votos emitidos en las elecciones de Gobernador
 
 XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
 
-XVII. Para constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador en sus faltas absolutas y en sus faltas temporales cuando éstas excedan de un mes.
+> <small>(REFORMADA, B.O. 2 DE FEBRERO DE 1977)</small>
+
+XVII. Para constituirse en Colegio Electoral y elegir al ciudadano que debe substituir al Gobernador en sus faltas absolutas, temporales o definitivas y en sus ausencias temporales cuando éstas excedan de noventa días.
 
 > <small>(REFORMADA, B.O. 22 DE ENERO DE 1977)</small>
 
@@ -811,11 +813,17 @@ Si por cualquier motivo el Congreso no pudiere hacer el nombramiento a que se re
 
 En el caso previsto en el párrafo anterior, el encargado del Poder Ejecutivo convocará inmediatamente a elecciones tanto de Gobernador como de diputados, las que se verificarán en un período de tiempo que en ningún caso excederá de tres meses y sólo dejará de hacerlo en lo que respecta a la de Gobernador cuando falten seis meses o menos para que se verifique la renovación de Poderes, conforme a las disposiciones relativas de esta Constitución.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 2 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 77.
 
-El Gobernador podrá ausentarse del territorio del Estado o separarse de su cargo hasta por quince días, dando aviso al Congreso o a la Diputación Permanente. Por un término mayor que no exceda de treinta días, necesitará permiso del Congreso o de la Diputación Permanente. En uno y otro caso asumirá las funciones de Gobernador interino el Secretario de Gobierno o quien haga sus veces. Cuando la ausencia o la separación del cargo exceda de treinta días, se procederá en los términos de las fracciones XVII del artículo 64 y V del 66 de esta Constitución.
+En las ausencias o faltas temporales del Gobernador del Estado, se observarán las siguientes disposiciones:
+
+I. Podrá ausentarse hasta por treinta días, sin necesidad de dar aviso y sin perder su carácter de Gobernador.
+
+II. Si la ausencia excede de treinta días, pero no de noventa, el Gobernador deberá dar aviso al Congreso o a la Diputación Permanente, en cuyo caso quedará encargado del Despacho el Secretario de Gobierno.
+
+III. Si la ausencia o separación es mayor de noventa días, el Gobernador deberá recabar la licencia o permiso correspondiente del Congreso o de la Diputación Permanente, según el caso, quienes designarán a la persona que asumirá las funciones de Gobernador Interino o Provisional, para que supla durante el tiempo de la ausencia, en términos de las fracciones XVII del artículo 64 y V del artículo 66.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1889,7 +1897,7 @@ Para el presente período gubernamental, que terminará el día 31 de agosto de 
 
 ###### ARTICULO SEGUNDO.
 
-Por esta sola ocasión, el Congreso del Estado, designará a un Gobernador Provisional para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 de del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
+Por esta sola ocasión, el Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
 
 ###### ARTICULO TERCERO.
 
@@ -1936,6 +1944,10 @@ Esta Ley entrará en vigor tres días después de su publicación en el Boletín
 B.O. 22 DE ENERO DE 1977.
 
 UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 2 DE FEBRERO DE 1977.
+
+UNICO.- Esta ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
