@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2000-09-30"
+last_updated: "2002-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2002.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -479,6 +479,12 @@ Se formará un inventario de los objetos que se recojan relacionados con el deli
 
 Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para que los reconozca y se levantará el acta correspondiente en la que pondrá su firma o rúbrica, si puede y sabe hacerlo, y si no supiere firmar o tuviere impedimento físico, sus huellas digitales. En cualquier caso, se unirán a ellos una tira de papel que se sellará en la juntura de los dos extremos y se invitará al inculpado a que firme o ponga sus huellas digitales. En todos los casos se hará constar esta circunstancia así como si no pudiere firmar o poner sus huellas digitales, o se negare a ello.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 76 Bis.
+
+En caso de que la pérdida de la vida del donante de órganos y tejidos esté relacionada con la averiguación del delito, el Ministerio Público acudirá a la autoridad judicial competente solicitando su presencia durante la extracción de los mismos, en los términos del artículo 328 de la Ley General de Salud. Al término de ella levantará acta circunstanciada en presencia del Ministerio Público, de los profesionales de las disciplinas para la salud que intervinieron y de los donadores secundarios, en su caso.
+
 ### CAPITULO VIII. TERMINOS
 
 ###### ARTICULO 77.
@@ -915,13 +921,17 @@ También están obligados los funcionarios y agentes de la policía ministerial 
 
 Si el que inicia una investigación no tiene a su cargo la función de proseguirla, dará inmediata cuenta al que corresponda legalmente practicarla.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 145.
 
-Es necesaria la querella del ofendido en los casos en que así lo determine el Código Penal o la ley aplicable.
+Es necesaria la querella del ofendido o la víctima en los casos en que así lo determine el Código Penal o la ley aplicable.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 146.
 
-En los casos en que el ofendido sea menor de edad o mayor incapacitado, la querella será presentada por conducto de quien ejerza la patria potestad o la tutela. En los casos de menores de edad pero, mayores de dieciséis años, lo podrá hacer por sí mismo.
+En los casos en que el ofendido sea menor de edad o mayor incapacitado, la querella será presentada por conducto de quien ejerza la patria potestad o la tutela o por quien tenga el carácter de víctima del delito. En los casos de menores de edad pero, mayores de dieciséis años, lo podrá hacer por sí mismo.
 
 ###### ARTICULO 147.
 
@@ -2985,17 +2995,29 @@ El incidente sobre separación de autos se substanciará por separado, en la mis
 
 Cuando varios jueces conocieren de procesos cuya separación no hubiere decretado, el que primero pronuncie sentencia ejecutoria procederá en los términos del artículo 459 de este Código.
 
-### CAPITULO V. REPARACION DE DAÑO EXIGIBLE A TERCERAS PERSONAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JUNIO DE 2002)</small>
+
+### CAPITULO V. REPARACION DE DAÑO
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 471.
 
-La acción para exigir la reparación del daño a personas distintas del inculpado, debe ejercitarse por quien tenga derecho a ello ante el juez que conozca del procedimiento penal; pero deberá intentarse y seguirse ante los tribunales civiles, cuando haya recaído sentencia irrevocable en la causa penal, sin haberse intentado dicha acción. Esto último se observará también cuando concluida la instrucción, no hubiere lugar al juicio en materia penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
+El Juez, de oficio debe ordenar la substanciación del incidente de reparación de daño exigible al inculpado, exhortando al ofendido o a la víctima para que comparezcan al mismo, a hacer valer sus derechos y a aportar los elementos de prueba tendientes a comprobar la procedencia de la reparación del daño; pero además de tomarse en cuenta las pruebas que se aporten, la autoridad judicial deberá recabar de oficio todas aquellas que puedan beneficiar a la víctima o al ofendido; y acordar las diligencias que estime necesarias para precisar sus derechos.
 
-Cuando promovido el incidente de reparación de daño exigible a terceros, hubiere concluido el procedimiento penal, sin que tal incidente se encuentre en estado de sentencia, continuará conociendo del mismo el Juez ante quien se inició.
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 471 Bis.
+
+La acción para exigir la reparación del daño a personas distintas del inculpado, debe ejercitarse por quien tenga derecho a ello ante el juez que conozca del procedimiento penal; pero deberá intentarse y seguirse ante los tribunales civiles cuando haya recaído sentencia irrevocable en la causa penal, sin haberse intentado dicha acción. Esto último se observará también cuando concluida la instrucción, no hubiere lugar al juicio en materia penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
+
+Cuando promovido el incidente de reparación de daño exigible al inculpado o a terceros, hubiere concluido el procedimiento penal, sin que tal incidente se encuentre en estado de sentencia, continuará conociendo del mismo el juez ante quien se inició.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 472.
 
-Todos los incidentes sobre reparación de daño exigible a terceras personas que se sigan ante los tribunales, se tramitarán y decidirán conforme a lo que disponga el Código de Procedimientos Civiles.
+Todos los incidentes sobre reparación de daño exigible al inculpado o a terceras personas que se sigan ante los tribunales, se tramitarán y se decidirán conforme a lo que disponga el Código de Procedimientos Civiles.
 
 ###### ARTICULO 473.
 
@@ -3162,3 +3184,11 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 1 DE JUNIO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
