@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1983-12-31"
+last_updated: "1985-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1985.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -39,6 +39,8 @@ LEY DE HACIENDA DEL ESTADO
 
 ## TITULO I. DE LOS IMPUESTOS
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ### CAPITULO I. DEL IMPUESTO SOBRE LA PROPIEDAD URBANA
 
 SUBURBANA Y RUSTICA
@@ -47,9 +49,13 @@ SUBURBANA Y RUSTICA
 
 DEL OBJETO
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 1o.
 
 Son objeto de este impuesto: Los predios urbanos, suburbanos y rústicos localizados dentro del territorio del Estado de Tamaulipas.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 2o.
 
@@ -76,6 +82,8 @@ VI.- Son construcciones y mejoras que se destinan a la guarda del predio: bodega
 > <small>N. DE E. POR DECRETO No. 178 ES DEROGADO EL DECRETO No. 127, Y POR CONSIGUIENTE LOS ARTICULOS REFORMADOS QUEDAN INTACTOS.</small>
 
 DE LOS SUJETOS
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 3o.
 
@@ -113,6 +121,8 @@ a).- Los empleados de la Tesorería General del Estado y de las Oficinas Fiscale
 
 DE LA BASE
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 1982. DECRETO No. 178)</small>
 
 ###### ARTICULO 4o.
@@ -120,6 +130,8 @@ DE LA BASE
 La base del impuesto será el valor catastral de los predios urbanos, suburbanos, sus construcciones, mejoras materiales e inversiones y en los predios rústicos, el valor catastral del terreno y de las construcciones y mejoras, siempre que estas no se destinen a su guarda. El valor catastral se determinará de conformidad con lo que dispone la Sección II de este capítulo.
 
 El valor catastral se fijará cada dos años, de acuerdo con los valores unitarios de tierra y de construcción a proposición de la Junta Central de Catastro, y requerirá la aprobación del Ejecutivo del Estado para regir en los ejercicios fiscales correspondientes.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 5o.
 
@@ -145,17 +157,23 @@ IX.- Cuando las construcciones de un predio sean demolidas o hubieren quedado en
 
 Las causas de modificación de las bases impositivas que se señalen en las fracciones I a IX del presente artículo, deberán ser notificadas por los causantes en las formas aprobadas por la Tesorería General del Estado. En caso de incumplimiento a estas disposiciones, el Departamento Catastral aplicará lo dispuesto en la Sección II de este capítulo, pudiendo utilizar los medios administrativos que considere más adecuados.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 6o.
 
 El valor catastral que resulte de la aplicación de las Tarifas de Valores Catastrales, expedidas por la Junta Central de Catastro, debidamente aprobadas por el Ejecutivo, será notificado a los propietarios o poseedores. El impuesto predial que resulte se causará a partir de que entren en vigor las Tarifas de Valores Catastrales.
 
 DE LA TASA
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 > <small>N. DE E. POR DECRETO No. 178 ES DEROGADO EL DECRETO No. 127, Y POR CONSIGUIENTE LOS ARTICULOS REFORMADOS QUEDAN INTACTOS.</small>
 
 ###### ARTICULO 7o.
 
 VEASE TABLA ANEXA
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 1982. DECRETO No. 178)</small>
 
@@ -169,6 +187,8 @@ II.- La cuota asignada por contribución a los ejidos, no podrá exceder del 5% 
 
 III.- Tratándose de predios urbanos en ejidos y comunidades, en proceso de regularización al valor de las construcciones permanentes se aplicará la cuota íntegra del impuesto predial que le corresponda.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 > <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
 
 ###### ARTICULO 9o.
@@ -181,19 +201,25 @@ II.- Para el resto de los Municipios, la base por año no podrá ser menor de $ 
 
 DEL PAGO
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1982, DECRETO 178)</small>
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 10o.
 
 La cuota del impuesto es anual, pero su importe se dividirá en 6 partes iguales que se pagarán los primeros quince días de lo meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre de cada año, en la Oficina Fiscal en cuya jurisdicción se encuentra ubicado el predio. Sin embargo los pagos podrán hacerse por anualidad anticipada. El primer pago deberá hacerse en el bimestre correspondiente a la fecha de aviso o manifiesto.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 11o.
 
 El pago realizado por anualidad anticipada no impide el cobro de diferencias por cambio en las bases gravables o modificación en las cuotas del impuesto.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 12o.
 
 Las construcciones, mejoras e inversiones afectas al impuesto, se considerarán garantía real por adeudos prediales.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 13o.
 
@@ -201,21 +227,31 @@ La Tesorería General del Estado tendrá acción real para el cobro del impuesto
 
 Toda estipulación privada, relativa al pago del impuesto predial que se oponga a lo dispuesto en este capítulo se tendrá como inexistente fiscalmente y, por lo tanto, no producirá efecto legal alguno.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 14o.
 
 El Departamento de Catastro del Estado es la Autoridad competente para ordenar las visitas de inspección a los predios rústicos, urbanos y suburbanos, cuando ello resulte necesario para la comprobación de los datos consignados en las declaraciones que, de acuerdo con lo prescrito por el presente capítulo, estén obligados a presentar los causantes. Según lo exijan las necesidades del servicio, podrá requerir la exhibición de las escrituras de propiedad, así como los comprobantes relativos al pago del impuesto.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 15o.
 
 El pago del impuesto deberá hacerse por el o los propietarios del predio o representantes autorizados; no obstante, si fueren desconocidos o estuviesen ausentes, las gestiones del cobro se entenderán con el usufructuario o detentador del predio, quien para este sólo efecto, se considerará representante del propietario.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 16o.
 
 Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estará a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 17o.
 
 El pago de este impuesto no implica en forma alguna, el reconocimiento legal de la propiedad.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 18o.
 
@@ -225,9 +261,13 @@ I.- El doble de la tasa de intereses que fija la Ley de Ingresos sobre el import
 
 II.- Cobranza del 10% sobre el importe del adeudo, si fue promovido oficialmente el cobro.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 19o.
 
 La condonación de las sanciones impuestas, sólo podrá autorizarse por el Tesorero General del Estado y su otorgamiento dependerá de que lo solicite por escrito el propietario, detentador o representante.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 20o.
 
@@ -243,13 +283,19 @@ IV.- A manifestar a las Autoridades Fiscales cualquier modificación que se efec
 
 V.- A presentar en las Oficinas Fiscales que correspondan la manifestación de sus predios, cada dos años.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 21o.
 
 Los sujetos del impuesto estarán obligados a manifestar a la Tesorería General del Estado, los cambios de su domicilio dentro de los quince días siguientes a aquel en que efectúen. Si no lo hicieren, se tendrá como domicilio para todos los efectos, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 22o.
 
 Las manifestaciones de alta y los avisos de baja deberán hacerse en las formas que apruebe la Tesorería General del Estado y presentarse ante las Oficinas Fiscales que correspondan; pero en los casos en que así lo determine la Tesorería serán aceptadas por su Departamento de Catastro en Cd. Victoria.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 23o.
 
@@ -259,31 +305,45 @@ Transcurrido dicho plazo si no se expresan los datos o presentan los documentos 
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 24o.
 
 Las personas que adquieran bienes urbanos, suburbanos o rústicos que estén regidos por este capítulo serán solidariamente responsables de los adeudos o gravámenes fiscales que afecten a los mismos, debiendo poner al corriente los adeudos respectivos en el acto de traslación de dominio de propiedad del bien inmueble, verificando lo conducente la Oficina Fiscal correspondiente.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 25o.
 
 Las Autoridades Judiciales y Administrativas del Estado y las de los Municipios, que tengan conocimiento de alguna infracción al impuesto predial, lo harán saber de inmediato a las Autoridades Fiscales.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 26o.
 
 El Director del Registro Público de la Propiedad no podrá inscribir ninguna escritura pública o privada sin comprobar que los impuestos correspondientes han sido pagados en su totalidad; que existe una prórroga legalmente concedida o que, por disposición de la Ley, los otorgantes están exentos del impuesto predial.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 27o.
 
 Los funcionarios y empleados fiscales del Estado, los de la Junta Central y Municipal del Catastro, los del Tribunal Fiscal y todas las Autoridades auxiliares, están obligados a guardar secreto sobre las situaciones de los expedientes del impuesto predial, en actos que conozcan dentro de sus facultades. Esta obligación y la responsabilidad proveniente de su incumplimiento, no se extinguen con la separación del cargo o empleo.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 28o.
 
 La Dirección General de Obras y Servicios Públicos del Estado y las Direcciones de Obras Públicas de los Municipios, tendrán obligación de comunicar a la Tesorería General o a las Oficinas Fiscales que corresponda, las fechas de terminación de construcciones o ampliaciones permanentes, así como las fechas que éstas se ocupen o aprovechen sin estar terminadas. En los Municipios donde no existan Direcciones de Obras Públicas serán los Presidentes Municipales quienes deban rendir ese informe.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 29o.
 
 Las comunicaciones a que se refiere el artículo anterior, se harán por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
 
 DE LAS EXENCIONES
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 30o.
 
@@ -295,11 +355,13 @@ II.- Los bienes inmuebles destinados al culto religioso, cuando sean controlados
 
 III.- Los bienes inmuebles propiedad del Gobierno del Estado y de los Municipios.
 
-IV.- Los que son propiedad de particulares y se destinan exclusivamente a fines de beneficiencia (sic) o de educación, siempre que se demuestre que dichos fines han sido autorizados por el Gobierno del Estado o por la Secretaría de Educación Pública o Salubridad y Asistencia, en su caso, que los propietarios concedieron el uso del predio a título gratuito y que se presten también gratuitamente los servicios de beneficiencia (sic) o educación.
+IV.- Los que son propiedad de particulares y se destinan exclusivamente a fines de beneficiencia(sic) o de educación, siempre que se demuestre que dichos fines han sido autorizados por el Gobierno del Estado o por la Secretaría de Educación Pública o Salubridad y Asistencia, en su caso, que los propietarios concedieron el uso del predio a título gratuito y que se presten también gratuitamente los servicios de beneficiencia (sic) o educación.
 
 V.-. Los predios y construcciones en que se encuentran establecidos consulados, cuando sean propiedad de sus respectivo gobiernos, siempre que exista reciprocidad del trato fiscal con nuestro país.
 
 VI.- Los predios propiedad de la Universidad Autónoma de Tamaulipas que se dediquen a los fines propios del objeto de la misma.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 31o.
 
@@ -313,13 +375,19 @@ Los beneficiarios de las exenciones deberán manifestar a la Tesorería General 
 
 DISPOSICIONES GENERALES
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 32o.
 
 Catastro es el censo analítico de la propiedad raíz ubicada en el territorio del Estado de Tamaulipas.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 33o.
 
 El Catastro tiene por objeto: lograr el conocimiento exacto de las características de la propiedad raíz mediante su descripción, localización y valuación, mediante la formación y conservación de registros catastrales que permitan su uso como medio para obtener, a través de él los elementos técnicos, estadísticos, fiscales, económicos, jurídicos y sociales que los constituyen.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 1982. DECRETO No. 178)</small>
 
@@ -327,19 +395,27 @@ El Catastro tiene por objeto: lograr el conocimiento exacto de las característi
 
 La valuación catastral servirá de base para fijar el impuesto que grava la propiedad raíz.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 35o.
 
 El Catastro de la propiedad raíz del Estado, se considera de utilidad pública.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 36o.
 
 El Catastro se integra con los siguientes registros: Gráfico, Numérico, Alfabético, de Ubicación, Estadístico y de Exenciones.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 37o.
 
 Para los efectos catastrales, la propiedad raíz comprende: predios urbanos, suburbanos y rústicos.
 
 DE LAS AUTORIDADES
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 38o.
 
@@ -359,9 +435,13 @@ Son autoridades auxiliares:
 
 La Comisión local Agraria del Estado, las Oficinas Fiscales y en general, las autoridades de la Tesorería General del Estado, las Autoridades Judiciales, la Dirección del Registro Público de la Propiedad y demás autoridades administrativas del Estado y Municipios, las instituciones de Servicio Público que disfruten de una concesión del Estado, y todas las demás que, con el carácter señalado y cuya cooperación sea requerida, sean auxiliares de las autoridades enunciadas en los trabajos de catastración, en los términos que previene este capítulo.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 39o.
 
 Los propietarios de bienes inmuebles estarán representados en las juntas Consultivas y Municipales, en la forma en que señala este capítulo.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 40o.
 
@@ -397,6 +477,8 @@ XIV.- Suplir las declaraciones de los interesados, en los casos y términos de e
 
 XV.- Examinar las declaraciones que deban presentar las personas a que se refieren los artículos 61 y 62 de este capítulo, las que servirán de base para establecer el valor catastral, no determinados en forma técnica.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 41o.
 
 La Junta Central de Catastro se establecerá en Ciudad Victoria y estará integrada por tres miembros que tendrán carácter de representantes oficiales como sigue:
@@ -408,6 +490,8 @@ La Junta Central de Catastro se establecerá en Ciudad Victoria y estará integr
 3.- El Secretario de la Comisión Local Agraria del Estado.
 
 El Tesorero General del Estado, tendrá el carácter de presidente de la Junta Central de Catastro. El Jefe del Departamento de Catastro será el encargado de la función administrativa de la Junta.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 42o.
 
@@ -435,17 +519,25 @@ X.- Resolver el recurso de revisión que promueven los causantes contra las reso
 
 XI.- Las demás que señala este capítulo.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 43o.
 
 La Junta Central de Catastro tendrá, en el Municipio de Victoria, el carácter de Junta Municipal.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 44o.
 
 Una vez aprobadas por el Ejecutivo del Estado las tarifas de Valores Catastrales, la Junta Central de Catastro las hará del conocimiento de las Juntas Municipales, ordenando su publicación en el Periódico Oficial del Estado y en los estrados de las Oficinas Fiscales correspondientes.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 45o.
 
 La Tarifa General de Valores aprobada por la Junta Central de Catastro y por el Ejecutivo del Estado, tendrá una vigencia de dos años y no podrá ser modificada en ese lapso, salvo el caso que sea preciso crear una nueva categoría no prevista en la tarifa.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 46o.
 
@@ -475,6 +567,8 @@ XI.- Remitir a la Junta Central de Catastro, los proyectos de valores aprobados.
 
 XII.- Solicitar los informes que le sean necesarios a las oficinas públicas del Estado y a las demás fuentes de información oficiales o particulares de su jurisdicción.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 47o.
 
 La Junta Municipal de Catastro, se establecerá en cada uno de los municipios del Estado que estará integrada por cinco miembros de la manera siguiente:
@@ -495,6 +589,8 @@ Las faltas de asistencia, temporales o absolutas de los miembros propietarios se
 
 La ausencia injustificada a tres sesiones consecutivas dará lugar a la separación del cargo, cuando se trate del representante de los causantes, y a la imposición de multas que les fijarán sus superiores inmediatos, cuando se trate de los representantes Oficiales.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 48o.
 
 Los miembros de la Junta Municipal cumplirán con los siguientes requisitos:
@@ -507,9 +603,13 @@ I.- Ser ciudadano mexicano, mayor de edad y con honorabilidad reconocida.
 
 4.- Presentar, los datos, proyectos y dictámenes que se les encomienden, así como asistir con puntualidad a las reuniones propias de sus funciones, para los cuales sean citados.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 49o.
 
 Las Juntas Municipales, deberán remitir a la Junta Central de Catastro, los proyectos de valores los que una vez estudiados, revisados, modificados y aprobados por la Junta Central de Catastro, se publicarán con aprobación del Ejecutivo del Estado, dándose a conocer en el Municipio de que se trata, por medio del Periódico Oficial y en los estrados de la Oficina Fiscal a que corresponda.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 50o.
 
@@ -523,15 +623,21 @@ III.- Cuando existen motivos fundados la Junta Municipal de Catastro podrá soli
 
 IV.- Por su conducto someterán a la consideración de la Junta Central de Catastro, las inconformidades que los causantes lleguen a presentar.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 > <small>(F.DE E., P.O. 29 DE ENERO DE 1977)</small>
 
 ###### ARTICULO 51o.
 
 Las observaciones que los interesados formulen a los proyectos de avalúo, de acuerdo con el artículo anterior, deberán presentarse ante la Junta Consultiva del lugar dentro del término de cinco días, para que dicha junta, previo estudio, las someta a la consideración de la Junta Central de Catastro, cuya decisión será definitiva.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 52o.
 
 Si la Junta Consultiva no presentare las observaciones de los interesados, dentro del plazo de cinco días, se tendrán por no aceptadas las observaciones de los interesados y por conformes con el proyecto de avalúo respectivo.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 53o.
 
@@ -544,6 +650,8 @@ II.- Las Autoridades de Tránsito del Estado auxiliarán a la Tesorería General
 III.- Las Direcciones de Obras Públicas Municipales prestarán auxilio a las Autoridades Catastrales proprocionándoles copias de los planos de las construcciones que se inicien, así como la fecha de su terminación.
 
 IV.- Las Autoridades Fiscales del Estado prestarán la cooperación que se les solicite proporcionando los datos necesarios, haciendo efectivas las sanciones impuestas a los infractores.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 54o.
 
@@ -559,15 +667,21 @@ IV.- Valuación.
 
 V.- Notificación.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 > <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
 
 ###### ARTICULO 55o.
 
 La localización y el levantamiento de predios, comprende las operaciones y trabajos necesarios para determinar las características de los mismos, tales como ubicación y uso, y los datos jurídicos, socio-económicos y estadísticos, que requiera el Catastro.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 56o.
 
 Con la base en los elementos fiscales del predio y los datos obtenidos según el artículo anterior, se elaborarán los planos catastrales técnicos que presten mayor garantía de exactitud, para un conocimiento objetivo de las áreas y características del terreno y la construcción, en su caso.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 57o.
 
@@ -579,13 +693,19 @@ La ausencia de los interesados citados legalmente, no será motivo para suspende
 
 En caso de no obtener la conformidad plena de los propietarios de los predios colindantes, se hará constar en el acta y se dejarán a salvo los derechos de los interesados para que los ejerciten en la vía y forma que determinen las leyes de la materia.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 58o.
 
 Para determinar el valor catastral de cada predio se aplicarán los valores unitarios para el terreno y para los diferentes tipos de construcción que, al efecto, autorice el Ejecutivo del Estado.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 59o.
 
 En aquellos casos en que no se pueda determinar el valor catastral aplicable al predio, el Departamento de Catastro, con base en los elementos de que disponga, determinará un valor provisional, asignando un valor al terreno y a las construcciones, lo más aproximado posible al que sería su valor catastral.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 60o.
 
@@ -593,15 +713,21 @@ Los avalúos practicados y las resoluciones que se dicten deberán comunicarse a
 
 DE LAS OBLIGACIONES
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 61o.
 
 Todo propietario, usufructuario, poseedor o detentador de bienes inmuebles ubicados en el Estado, tienen la obligación de manifestarlos en los términos y en las formas oficiales aprobadas por la Tesorería General del Estado.
 
 No se exime de la obligación anterior a los predios que, por disposiciones de las Leyes de la materia, estén exentos del pago del impuesto predial.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 62o.
 
 Los propietarios, usufructuarios, poseedores o detentadores por cualquier titulo o sus representantes, están obligados a manifestar al Departamento de Catastro cualquier modificación que se haga a los elementos que caracterizan al predio, tales como construcciones, reconstrucciones, ampliaciones, demoliciones, fusión o división de predios o cualquier otra contemplada por este capítulo y dentro de un plazo de quince días contados a partir de la fecha en que se hubiere afectado la modificación.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 63o.
 
@@ -637,6 +763,8 @@ XIV.- Si la vía publica a que tiene frente o acceso el predio cuenta con servic
 
 XV.- Todos los demás datos, que a juicio del Departamento de Catastro, sirvan para obtener, mediante esta manifestación las características sociales, económicas, jurídicas, fiscales o estadísticas que requiera el Catastro.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 64o.
 
 A la solicitud de registro o manifestación, deberá anexarse los siguientes documentos:
@@ -650,6 +778,8 @@ a).- Si es urbano, las dimensiones del predio, su localización dentro de la man
 b) Si es suburbano, las dimensiones del predio, y su localización con respecto a predios colindantes y la distancia a la vía de comunicación principal.
 
 c).- Si es rústico, el cróquis deberá contener como mínimo las dimensiones del predio, su localización con respeto a los colindantes, expresando orientación, medidas de los linderos y nombres de los propietarios o poseedores colindantes; y localización general del predio en relación a centros poblados, vías de comunicación corrientes permanentes y cualquier dato significativo que pudiera servir para la identificación del predio anotando las distancias respectivas.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 65o.
 
@@ -675,21 +805,31 @@ IX.- Derivadas de actos judiciales o,
 
 X.- De aquellas que, por cualquier motivo, modifiquen las características físicas, jurídicas o económicas que alteren su valor.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 66o.
 
 Las Delegaciones de Catastro tendrán la obligación de remitir a el Departamento de Catastro, los expedientes que se tramiten en su jurisdicción, dentro del término de cinco días a partir de la fecha en que se hubiere concluído la tramitación correspondiente.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 67o.
 
 El Departamento de Catastro, o sus Delegaciones, al recibir una solicitud de registro o manifestación deberá ordenar la ratificación o rectificación de los datos manifestados. El resultado de dichos trabajos será comunicado a los interesados; y, en su caso, ordenará el avalúo correspondiente.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 68o.
 
 Los datos verificados por el Departamento de Catastro o sus Delegaciones, constituirán los datos catastrales y darán origen a la expedición de la Cédula Catastral del predio.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 69o.
 
 La Cédula Catastral constituye el documento que comprueba que un predio está registrado en el Departamento de Catastro de la Entidad.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 70o.
 
@@ -699,21 +839,31 @@ Los propietarios o poseedores que por cualquier clase de contratos pretendan tra
 
 Para este fin, obtendrán una constancia de revalidación de la Cédula, ante el Departamento de Catastro, que tendrá vigencia de treinta días a partir de la fecha en que se expida, salvo el caso que ésta haya sido expedida dentro de ese lapso.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 71o.
 
 Para cualquier tramitación que se realice ante el Departamento de Catastro, será necesaria la presentación de la Cédula Catastral vigente, la cual será cancelada por cualquier motivo que dé origen a la expedición de una nueva. Sin embargo, aún cuando no se pudiese contar con la Cédula Catastral correspondiente, la expedición de una nueva, deja sin efecto las expedidas anteriormente.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 72o.
 
 Cuando en las manifestaciones exigidas por este capítulo no se expresen los datos completos o no se acompañen los documentos o planos también requeridos, el Departamento de Catastro dará un plazo de diez días hábiles para que se corrija la omisión, a partir de la fecha en que los interesados reciban el requerimiento; si transcurrido dicho plazo no se cumpliera con lo exigido, el Departamento de Catastro obtendrá lo omitido a costa del interesado, sin perjuicio de imponer al infractor las sanciones que procedan.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 73o.
 
 El propietario o poseedor del predio está obligado según este capítulo a entregar la solicitud del registro o manifestación, pero en caso de no hacerlo, el Departamento de Catastro tendrá la obligación de suplirlo, mediante investigación directa que realice en los términos y procedimientos que fije la propia Autoridad Catastral.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 74o.
 
 Cuando en las manifestaciones que se hagan al Departamento de Catastro aparezca que las dimensiones de un predio son diferentes a las expresadas en el título de propiedad correspondiente, el propio Departamento, ordenará el deslinde Catastral del predio, con cargo al interesado.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 75o.
 
@@ -721,9 +871,13 @@ El Departamento de Catastro, expedirá a solicitud del propietario, representant
 
 OBLIGACIONES DE LOS TERCEROS
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 76o.
 
 Los Notarios Públicos, Jueces o cualquier otro funcionario que tenga fé pública y que intervenga en el otorgamiento de contratos que pretendan modificar o transmitir el dominio directo de un predio, tienen la obligación de manifestar por escrito en las formas oficiales respectivas, dentro de los quince días hábiles siguientes a la fecha de los contratos, disposiciones o resoluciones, y de las operaciones que, se realicen sobre la propiedad raíz.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 77o.
 
@@ -731,15 +885,21 @@ Todas las autoridades, dependencias o instituciones que intervengan o autoricen 
 
 Esta obligación se constriñe especialmente para aquellas oficinas que por la índole de autorización de Obras Públicas o licencias de construcción, la ausencia de manifestación oportuna, podría impedir la conservación del Catastro.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 78o.
 
 Las Oficinas que intervengan en la autorización de fraccionamientos, están obligadas a manifestar todo lo relativo al Departamento de Catastro, en los términos a que alude este capítulo.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 79o.
 
 Las personas físicas o morales que exploten giros denominados fraccionamientos o soliciten al Ejecutivo del Estado directamente o por conducto de la dependencia que este señale para aprobarlo, autorización para fraccionar un terreno, deberán presentar copia de dicha autorización al Departamento de Catastro.
 
 La copia indicada deberá presentarse en la misma fecha en que se hubiere presentado la solicitud del fraccionamiento, y con ella deberá solicitarse a el propio Departamento, al deslinde catastral del terreno por fraccionar, anexando copia del plano conjunto y la lotificación pretendida, así como los demás documentos relacionados con el fraccionamiento.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 80o.
 
@@ -753,11 +913,15 @@ III.- Determinar los valores catastrales aplicables a cada lote del fraccionamie
 
 IV.- Analizar la lotificación propuesta y determinar si satisface los requisitos establecidos por el Catastro, para la zona o región catastral donde se encuentre ubicado, ajustándose a los Lote Tipo y de Unidad Tipo, en su caso, de las mismas zonas o regiones.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 > <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
 
 ###### ARTICULO 81o.
 
 Además del procedimiento que deberán cumplir los fraccionadores, están obligados a manifestar mensualmente al Departamento de Catastro, todas las operaciones que impliquen modificación del dominio directo de los lotes que forman parte del fraccionamiento.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 82o.
 
@@ -765,9 +929,13 @@ El Registro Público de la Propiedad y del Estado no podrá inscribir en sus reg
 
 Asimismo no podrá inscribir en sus registros ninguna operación que pretenda subdividir, fraccionar o realizar la fusión de un predio, sin contar con la autorización por escrito para éste fin.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 83o.
 
 El Registro Público de la Propiedad del Estado tendrá la obligación de enviar mensualmente al Departamento de Catastro, una relación de los predios objeto de contratos o cualquier otra operación que afecte la propiedad de bienes inmuebles, que le hayan sido presentados para su registro, dentro de un plazo máximo de 15 días posteriores a la terminación del mes que corresponda.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 84o.
 
@@ -775,11 +943,15 @@ La Dirección General de Obras Públicas y las Autoridades Municipales, en su ca
 
 Asimismo, deberán de manifestar al Departamento de Catastro los avisos de iniciación y terminación de construcciones; su aprobación a proyectos de urbanización indicando el inicio y terminación de éstas, la aprobación o instalación de servicios públicos realizados por las propias autoridades o por particulares; o cualquier otra obra que implique la modificación de las características de la propiedad raíz y de sus servicios dentro de un plazo que no excederá a 15 días a la fecha de la terminación de dichas obras y servicios, o de su aprovechamiento en cualquier forma, sin estar terminados.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 85o.
 
 Las Autoridades Federales, Estatales o Municipales, Dependencias o Instituciones Públicas o Privadas, que intervengan, administren, construyan o realicen cualquier otra operación que afecte o sea susceptible de afectar a la propiedad raíz en la entidad, tendrán la obligación de proporcionar al Departamento de Catastro los informes, datos y a manifestar las operaciones que realicen, dentro de un plazo que no excederá de quince días de la fecha en que se hubiesen efectuado dichas operaciones o que se les hubiesen solicitado la información.
 
 DE LOS RECURSOS ADMINISTRATIVOS
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 > <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
 
@@ -787,47 +959,69 @@ DE LOS RECURSOS ADMINISTRATIVOS
 
 Si las declaraciones de los interesados presentaren o contuvieren datos falsos u omisiones, el avalúo se hará sobre las bases de las declaraciones que formulen en defecto el Departamento de Catastro, de acuerdo con los datos, informes y dictámenes periciales obtenidos.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 87o.
 
 La Tesorería General del Estado y las Oficinas Fiscales, están facultadas para solicitar la rectificación de los avalúos Catastrales de los predios, que determine el propio Departamento de Catastro o la Junta Central de Catastro cuando, a su juicio, el valor determinado no se ajuste al real.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 88o.
 
 El recurso de revisión que se concede a los causantes del impuesto predial, solamente podrá fundarse en que la calificación del Departamento de Catastro adolezca de errores en cuanto a la superficie, ubicación y calidad del terreno, tratándose del predio, y por cuanto a las construcciones se refiere, en lo tocante a la calidad y superficie edificada.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 89o.
 
 El recurso de revisión se deberá interponer dentro de los cinco días hábiles siguientes a partir de la fecha que se notifique la calificación aplicada por el Departamento de Catastro.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 90o.
 
 No serán revisables los avalúos del Departamento de Catastro que se funden en las declaraciones suplidas, rectificadas o reformadas, en los casos previstos en la fracción XIV del artículo 40o. de éste capítulo.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 91o.
 
 El recurso de revisión se presentará por los interesados ante la Junta Consultiva de su jurisdicción, que para estos fines tendrá como domicilio el mismo de la oficina fiscal correspondiente.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 92o.
 
 La admisión del recurso de revisión suspenderá el procedimiento de cobro sobre la calificación impugnada siempre que el recurrente garantice el interés fiscal mediante fianza o depósito ante las oficinas correspondientes de las autoridades fiscales del Estado.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 93o.
 
 No procederá la inconformidad de los interesados prevista en este capítulo, cuando los fundamentos de la misma se refieran al valor establecido a cada unidad, de acuerdo con la tarifa propuesta por la Junta Central aprobada por el Ejecutivo del Estado.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 ###### ARTICULO 94o.
 
 La Junta Central de Catastro al resolver el recurso de revisión previsto, valorará los argumentos expuestos y las pruebas rendidas y conforme a su resultado dictará resolución que confirme, revoque o modifique el acto impugando. La resolución se emitirá dentro de los tres días siguientes contados a partir de la fecha en que se reciba el recurso. Si el acto impugnado por su propia naturaleza requiere el desahogo de la prueba de inspección ocular, el término para dictar resolución será de quince días. Si al promoverse el recurso resulta notorio que se interpuso con el sólo propósito de dilatar el pago, sin que el interesado aporte ninguna prueba en que funde su demanda o que el contenido de la misma sea temerario, la Junta Central desechará el recurso en forma definitiva.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 ###### ARTICULO 95o.
 
 Las resoluciones que dicte la Junta Central de Catastro, al resolver el recurso de revisión a que se refieren los artículos anteriores, tendrán el carácter de definitivas.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 > <small>(REFORMADA SU DENOMINACION. P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO II. IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
 DEL OBJETO
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -838,6 +1032,8 @@ Están obligados al pago del impuesto sobre adquisición de inmuebles las person
 Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
 
 DE LOS SUJETOS
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -856,6 +1052,8 @@ IV.- En las adquisiciones por los partidos y asociaciones políticas para su pro
 V.- En las adquisiciones realizadas por el Instituto del Fondo Nacional para la Vivienda de los Trabajadores, por el Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular, por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, por el Departamento de Previsión Social y Pensiones de los Trabajadores del Estado, por el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, por el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, así como los organismos descentralizados de los Estados y Municipios que realicen estas mismas funciones.
 
 DE LA BASE
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -887,6 +1085,8 @@ En las permutas se considerará que se efectúan dos adquisiciones.
 
 DE LA TASA
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 (REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 1983)(F. DE E. P.O. 5 DE FEBRERO DE 1983)
 
 ###### ARTICULO 99.
@@ -907,6 +1107,8 @@ Para los fines de este impuesto se considera que el usufructo y la nuda propieda
 
 DEL PAGO
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 100o.
@@ -925,6 +1127,8 @@ V.- En los casos no previstos en las fracciones anteriores, cuando los actos de 
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 101.
@@ -935,11 +1139,15 @@ Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en e
 
 El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 102.
 
 Para efectuar la reducción a que se refiere el Artículo 96 se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el Artículo 100.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -955,15 +1163,21 @@ III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá d
 
 IV.- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aun cuando se utilicen para otros fines.
 
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
+
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO II BIS. IMPUESTO SOBRE PLUSVALIA Y MEJORIA DE LA PROPIEDAD PARTICULAR
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 104.
 
 Se causará el impuesto sobre Plusvalía y Mejoría de la propiedad particular, según Decreto número 407, publicada en el Periódico Oficial número 104, de fecha 28 de diciembre de 1977.
+
+N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -2669,7 +2883,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -2749,9 +2963,9 @@ VEASE TABLA ANEXA
 
 Para la determinación y cobro de los derechos que establece el artículo anterior se observarán las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
 
-I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, el declarado por los otorgantes en los documentos o contratos respectivos o, en su caso, por quien solicite la inscripción; pero cuando dicho valor fuere inferior al catastral, será este último el que se tomará como base para determinar el importe de los derechos que deban pagarse.
+I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del impuesto sobre adquisición de bienes inmuebles sin deducción alguna.
 
 II.- En los contratos de arrendamiento servirá de base para determinar los derechos, la suma del alquiler pactado y de todas las demás prestaciones adicionales que estuvieren a cargo del arrendatario. Los contratos del subarrendamiento causarán los mismos derechos que los de arrendamiento.
 
@@ -3114,3 +3328,13 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 31 DE DICIEMBRE DE 1983
 
 UNICO.- El presente Decreto entrará en vigor a partir del 1o. de enero de 1984.
+
+P.O. 28 DE DICIEMBRE DE 1985
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 1986.
+
+###### ARTICULO SEGUNDO.
+
+Cuando en este Decreto se haga referencia a días de salario mínimo como sistema para señalar la tarifa cobrable que corresponda, deberá entenderse por dicha expresión, el salario mínimo diario vigente en la capital del Estado, en la fecha en que se efectúe el pago.
