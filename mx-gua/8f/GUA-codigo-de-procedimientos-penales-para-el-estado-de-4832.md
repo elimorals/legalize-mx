@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1983-01-04"
+last_updated: "1986-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 1986.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -309,7 +309,9 @@ I.- Apercibimiento;
 
 II.- Multa de cinco a doscientos pesos;
 
-III.- Arresto hasta de quince días; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1986)</small>
+
+III.- Arresto hasta por treinta y seis horas;
 
 IV.- Suspensión hasta por un mes.
 
@@ -329,7 +331,9 @@ I.- Multa de cinco a doscientos pesos.
 
 II.- Auxilio de la fuerza pública; y
 
-III.- Arresto hasta de quince días.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1986)</small>
+
+III.- Arresto hasta por treinta y seis horas.
 
 ### CAPITULO VI.
 
@@ -3512,3 +3516,9 @@ P.O. 4 DE ENERO DE 1983.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el tercer día al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
