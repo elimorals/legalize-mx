@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-3949"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-26"
-last_updated: "1982-12-25"
+last_updated: "1984-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 1984.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1981.
 
@@ -45,19 +45,21 @@ DISPOSICIONES GENERALES.
 
 (SIC)
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 1.
 
-La Hacienda Pública del Estado de Colima, para cubrir los gastos de su Administración y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los impuestos, derechos, productos, aprovechamientos y contribuciones de mejoras y derechos de cooperación que anualmente establezcan las Leyes fiscales correspondientes, así como las participaciones en ingresos federales y municipales.
+La Hacienda Pública del Estado de Colima, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos públicos derivados de los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que autoricen las leyes fiscales estatales correspondientes, así como las participaciones que en ingresos federales les correspondan, de conformidad a las leyes respectivas y a los Convenios celebrados por el Gobierno del Estado y el Gobierno Federal.
 
 ###### ARTICULO 2.
 
 Los ingresos se dividen en ordinarios y extraordinarios.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 3.
 
-Son ingresos ordinarios los establecidos común y moralmente para cubrir los gastos regulares del Estado.
-
-Son ingresos extraordinarios aquellos cuya percepción se autoriza excepcionalmente para proveer el pago de gastos accidentales o imprevisibles.
+Son ingresos ordinarios los impuestos, derechos, contribuciones especiales, productos, aprovechamientos y las participaciones.
 
 ###### ARTICULO 4.
 
@@ -67,9 +69,11 @@ Las obligaciones fiscales derivadas de la Ley de Ingresos o de otras Leyes, se o
 
 En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscales, no legitimará esos hechos o circunstancias.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 5.
 
-Los impuestos, derechos, aprovechamientos, contribuciones de mejoras y derechos de cooperación se regularán por las Leyes Fiscales respectivas o, en su defecto, por este Código y supletoriamente por el derecho común.
+Los impuestos, derechos y aprovechamientos se regulan por las leyes fiscales respectivas o, en su defecto por este Código y supletoriamente por el derecho común,
 
 Los productos se regularán por las disposiciones indicadas anteriormente o por lo que en su caso prevengan los contratos o concesiones respectivos.
 
@@ -85,21 +89,27 @@ Son derechos las contraprestaciones establecidas por el Poder Público, conforme
 
 Son productos los ingresos que percibe el Estado por actividades que no corresponden al desarrollo de sus funciones propias de Derecho Público o por la explotación de sus bienes patrimoniales.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 9.
 
-Son aprovechamientos, los recargos, las multas y los demás ingresos de Derecho Público, no clasificables como impuestos, derechos, derechos de cooperación y contribuciones de mejoras.
+Son aprovechamientos, los recargos, las multas y los demás ingresos de derecho público no clasificables como impuestos, derechos y productos, participaciones federales y derechos de cooperación.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
 
 ###### ARTICULO 10.
 
-Son participaciones los porcentajes que corresponden al Estado en el rendimiento de la recaudación de determinados impuestos federales y municipales de conformidad con las Leyes respectivas.
+Son participaciones los ingresos que el Gobierno del Estado tiene derecho a percibir de los ingresos federales, conforme a las leyes respectivas y a los convenios de coordinación que se hayan suscrito o se suscriban para tales efectos.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
 
 ###### ARTICULO 11.
 
-Derechos de cooperación, son las aportaciones en dinero o en especie que la Hacienda Pública percibe de los particulares o de cualquier entidad pública o privada, para la realización de los programas de obras previamente convenidas.
+Derechos de Cooperación son las aportaciones en dinero o en especie que la hacienda pública recibe de los particulares o de cualquier entidad pública o privada, para la realización de los programas de obras, autorizados por el Congreso del Estado mediante la expedición del decreto respectivo.
 
 ###### ARTICULO 12.
 
-Las contribuciones de mejoras para los efectos de este Código, son tributos que fija la Ley a quienes, independientemente de la utilidad general colectiva, obtengan beneficios diferenciales particulares derivados de obras públicas.
+(DEROGADO, P.O. 2 DE JUNIO DE 1984)
 
 ###### ARTICULO 13.
 
@@ -133,9 +143,11 @@ Sólo mediante Ley podrá afectarse un ingreso estatal a un fin especial.
 
 ARTICULO 16 BIS.- Son autoridades Fiscales del Estado, el Titular del Poder Ejecutivo; el Tesorero General del Estado, el Director de Ingresos; los Receptores de Rentas, así como el Director de Catastro dependientes de la propia Tesorería General del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 17.
 
-Las leyes y demás disposiciones fiscales de carácter general, entrarán en vigor en todo el Estado tres días después de su publicación en el Periódico Oficial, salvo que en ellas se establezca una vigilancia (sic) distinta con tal de que la publicación haya sido anterior. En los plazos sobre vigencia de leyes y demás disposiciones a que este artículo se refiere se computarán los días inhábiles.
+Las leyes y demás disposiciones fiscales de carácter general, entrarán en vigor en todo el Estado tres días después de su publicación en el Periódico Oficial, salvo que en ellas se establezca una vigencia distinta con tal de que la publicación haya sido anterior. En los plazos sobre vigencia de las leyes y demás disposiciones a que este artículo se refiere se computarán los días inhábiles.
 
 ###### ARTICULO 18.
 
@@ -143,13 +155,17 @@ Las controversias que surjan entre el fisco estatal y los fiscos municipales sob
 
 I.- Los créditos fiscales por gravámenes sobre la propiedad Raíz, serán preferentes tratándose de los frutos de los bienes inmuebles respectivos, o del producto de la venta de éstos.
 
-II.- En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+II.- En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante, siempre y cuando tenga inscrito el gravamen.
 
 ###### ARTICULO 19.
 
 Para determinar la preferencia respecto de los créditos fiscales, en casos diversos de los previstos en el Artículo anterior, se estará a las reglas siguientes:
 
-I.- Los créditos del Gobierno Estatal provenientes de impuestos, derechos, productos, derechos de cooperación, aprovechamientos o contribuciones de mejoras, son preferentes a cualquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros, de acuerdo con la Ley Federal del Trabajo.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+I.- Los créditos del Gobierno Estatal provenientes de impuestos, derechos, productos, derechos de cooperación, aprovechamientos, son preferentes a cualquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los trabajadores de acuerdo con la Ley Federal del Trabajo.
 
 Para que sea aplicable la excepción a que se refiere el párrafo anterior, será requisito indispensable que las garantías hipotecarias y, en su caso, las prendarias, se encuentren debidamente inscritas en el Registro Público que corresponda y, respecto de los créditos por alimentos, que se haya presentado la demanda ante las autoridades competentes, antes de que se hubiere notificado al deudor el crédito fiscal, y
 
@@ -211,13 +227,47 @@ VI.- Los legatarios y los donatarios a título particular respecto de los crédi
 
 VII.- Los terceros que para garantizar obligaciones fiscales de otros, constituyan depósitos, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los datos en garantía;
 
-VIII.- Los funcionarios públicos y notarios que autoricen algún acto jurídico o den trámite a algún documento si no se cercioran de que se han cubierto los impuestos, derechos o contribuciones de mejoras, respectivos, o no den cumplimiento a las disposiciones correspondientes que regulan el pago del gravamen.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+VIII.- Los funcionarios o empleados públicos así como notarios y corredores que autoricen algún acto jurídico, expidan testimonios o den trámite a algún documento en que se consignen actos, convenios, contratos u operaciones, si no se cercioran de que sea cubierto total o parcialmente los impuestos, contribuciones especiales, o derechos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulen el pago de gravámenes se harán acreedores a la imposición de sanciones previstas por este Código, en razón de las infracciones en que hubieren incurrido.
 
 IX.- Las empresas porteadoras que transporten productos gravados con algún impuesto por elaboración o de venta de primera mano, si no cumplen los requisitos que señalen los ordenamientos respectivos;
 
 X.- Las instituciones de créditos autorizadas para llevar a cabo operaciones fiduciarias respecto de los créditos fiscales que se hubieren causado por los ingresos derivados de la actividad objeto del fideicomiso, hasta donde alcancen los bienes fideicomitidos, así como por los avisos y declaraciones que deban presentar los causantes con quienes operen en erlación (sic) con dichos bienes fideicomitidos, y
 
-XI.- Las demás personas que señalen las leyes.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XI.- Respecto del pago de créditos fiscales derivados de la propiedad o posesión de bienes muebles o inmuebles o de operaciones de cualquier naturaleza relativas a los mismos:
+
+a).- El deudor, el transmitente, el adquiriente, el comisionista o el constructor, según se trate.
+
+b).- Los promitentes vendedores, así como quienes vendan con reserva de dominio o sujeto a condición.
+
+c).- Los nudo-propietarios.
+
+d).- Los Fiduciarios.
+
+e).- Los concesionarios o quienes no siendo propietarios tengan la explotación de las plantas de beneficio de los establecimientos mineros o metalúrgicos.
+
+f).- Los propietarios cuando otorguen el uso temporal para la explotación de espectáculos públicos, salvo de que den aviso a la Tesorería de la celebración del contrato.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XII.- Los comisionistas, respecto de los créditos fiscales a cargo de sus comitentes, derivados de operaciones motivo del contrato de comisión y los comitentes por los créditos fiscales a cargo de los comisionistas, por las operaciones relativas al mismo contrato.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XIII.- Los representantes legales de los sujetos de gravámenes excepto los apoderados para pleitos y cobranzas.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XIV.- Quienes adquieran por cualquier título, establecimientos comerciales o industriales afectos al pago de impuestos estatales.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XV.- Las demás personas que señalen las leyes.
+
+En los casos de responsabilidad solidaria, los responsables quedan obligados a cubrir la totalidad de los créditos fiscales y por lo tanto el fisco puede exigir de cualquiera de ellos simultánea o separadamente el cumplimiento de las obligaciones fiscales.
 
 ###### ARTICULO 24.
 
@@ -243,23 +293,21 @@ III.- Si se trata de sucursales o agencias, de negociaciones establecidas fuera 
 
 IV.- Tratándose de personas físicas o morales, residentes fuera del Estado, que realicen actividades gravadas dentro del territorio del mismo a través de representantes, se considerará como su domicilio el del representante.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
 
 ###### ARTICULO 25.
 
-Estarán exentos de Impuestos, salvo lo que las Leyes especiales señalen expresamente:
+Están exentos de impuestos, salvo lo que las leyes fiscales determinen:
 
-I.- La Federación y los Municipios, a menos que su actividad no corresponda a sus funciones de derecho público en caso de reciprocidad;
+I.- La Federación, los estados y los Municipios, a menos que su actividad no corresponda a sus funciones de derecho público.
 
-II.- Las nacionales extranjeras, en caso de reciprocidad;
+II.- Las demás personas físicas o morales que de modo general señalen las leyes fiscales del Estado.
 
-III.- Las instituciones y asociaciones de beneficencia privada;
+III.- (DEROGADA, P.O. 2 DE JUNIO DE 1984)
 
-IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1982)
+IV.- (DEROGADA, P.O. 2 DE JUNIO DE 1984)
 
-V.- La trasmisión de Vivienda de interés social, efectuada a través de Organismos Federales, Estatales y Municipales, (ISSSTE, INFONAVIT, etc.);
-
-Para gozar de la exención a que se refiere el párrafo anterior será requisito indispensable que el interesado compruebe ante la Tesorería General del Estado, que no es propietario de ningún otro inmueble.
+V.- (DEROGADA, P.O. 2 DE JUNIO DE 1984)
 
 ### CAPITULO II
 
@@ -327,9 +375,17 @@ III.- Cuando en su caso, deje de cubrirse alguna de las parcialidades.
 
 Cuando no se pague un crédito fiscal en la fecha o dentro de plazo señalado en las disposiciones respectivas, deberán cubrirse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
-Los recargos se causarán por cada mes o fracción que transcurra, a partir de la fecha de la exigibilidad hasta que se efectúe el pago. Los recargos no excederán el importe del crédito del que se trate.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
 
-Los recargos solo podrán ser reducidos o condonados cuando, a juicio del Ejecutivo, se justifiquen las causas de fuerza mayor que impidieron a los causantes efectuar los pagos con toda oportunidad.
+Los recargos se calcularán sobre el total del crédito fiscal excluyendo los propios recargos y demás accesorios legales, no excediendo del 150% del monto de dicho crédito. Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+Cuando el contribuyente pague en forma espontanea los créditos omitidos, sin que medie gestión de cobro por parte de la Autoridad fiscal, los recargos no excederán del 100% del monto de los créditos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+En los casos en que un contribuyente demuestre que la falta de pago de un crédito fiscal obedece a causas imputables a la Tesorería General, no habrá lugar a la causación de recargos. En estos caso el contribuyente deberá cubrir el crédito o créditos determinados, dentro de los quince días siguientes al de su notificación.
 
 ###### ARTICULO 33.
 
@@ -357,7 +413,7 @@ Podrá hacerse el pago de créditos fiscales, "bajo protesta" cuando la persona 
 
 La protesta quedará sin efecto y el pago se considerará definitivo si a los cinco días de efectuado este, no se promueve recurso alguno o el interesado o su representante legal no lo manifestaren por escrito ante la oficina recaudadora correspondiente, o directamente ante la Tesorería General del Estado.
 
-También quedará sin efecto la protesta cuando iniciado el medio de defensa, éste fuera a juicio de la autoridad competente rechazado, sobreseido o declarado improcedente en cuyos casos el pago quedará firme.
+También quedará sin efecto la protesta cuando iniciado el medio de defensa, éste fuera a juicio de la autoridad competente rechazado, sobreseido o declarado improcedente en cuyos casos el pago quedará firme
 
 ###### ARTICULO 36.
 
@@ -391,9 +447,9 @@ IV.- Que lo solicite el interesado por escrito.
 
 Cuando se pida la devolución ésta deberá efectuarse dentro del plazo de 90 días siguientes a la fecha en que quede reconocido el derecho del peticionario.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
 
-Si no se efectúa la devolución dentro de dicho plazo, el fisco estatal deberá pagar intereses del 9% anual, computado desde que se constituyó en mora, hasta la fecha en que se devuelva la cantidad respectiva.
+Si dentro de dichos plazos no se efectúa la devolución el fisco estatal deberá pagar intereses conforme a una tasa que será igual a la prevista para los recargos en los términos de la Ley de Ingresos. Los intereses se calcularán sobre las cantidades que proceda devolver, excluyendo los propios intereses y se computarán desde que se inició el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
 
 ###### ARTICULO 39.
 
@@ -415,17 +471,19 @@ El Ejecutivo Estatal, y mediante disposiciones de carácter general, podrá cond
 
 Las disposiciones que al respecto se dicten determinarán los créditos que se condonen, o en su caso se eximan, el importe o proporción de los beneficios, los sujetos que gozarán de los mismos, la región o la rama de actividad en las que producirán sus efectos, los requisitos que deben satisfacerse y el período al que se apliquen.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
 
 ###### ARTICULO 42.
 
-Las multas cuya imposición hubiere quedado firme, deberán ser condonadas totalmente si, por pruebas diversas de las presentadas ante autoridades administrativas o jurisdiccionales, en su caso, se demuestra que no se cometió la infracción o que la persona a la que se atribuya no es la responsable.
+La Tesorería General no impondrá multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales o cuando se haya incurrido en infracción por causas de fuerza mayor o de caso fortuito. No se considerará que el entero es expontáneo (sic) cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita excitativa o cualquier otra gestión de cobro efectuada por los mismos.
 
-Las multas por infracción a las disposiciones fiscales podrán, ser condonadas parcial o totalmente por el Tesorero General del Estado, o por el Director de Ingresos, quienes apreciarán discrecionalmente los motivos que tuvo la Autoridad que impuso la sanción y las demás circunstancias del caso.
+Cuando las multas impuestas por las autoridades fiscales se paguen dentro del plazo establecido en la fracción I del Artículo 28 de este Código la sanción se reducirá en un 20% de su monto sin necesidad de que la autoridad que le impuso dicte nueva resolución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 1984)</small>
 
 ###### ARTICULO 43.
 
-Las obligaciones ante el fisco estatal y los créditos a favor de éste por impuesto, derechos, productos, aprovechamientos o por contribuciones de mejoras se extinguen por prescripción en el término de cinco años. En el mismo plazo se extinguen, también por prescripción, la obligación del fisco de devolver las cantidades pagadas indebidamente.
+Las obligaciones ante el fisco estatal y los créditos a favor de éste por impuestos, derechos, productos y aprovechamiento, se extinguen por prescripción en el término de cinco años. En el mismo plazo se extinguen, también por prescripción, la obligación del fisco de devolver las cantidades pagadas indebidamente.
 
 La prescripción del crédito principal extingue simultáneamente los recargos, los gastos de ejecución y, en su caso, los intereses.
 
@@ -475,7 +533,9 @@ Si la infracción se cometiere por inexactitud o falsedad de los datos proporcio
 
 IX.- Cuando la liquidación de alguna prestación fiscal esté encomendada a funcionarios o Empleados del Estado, o de los Municipios, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que correspondan, quedando únicamente obligados los causantes a pagar la prestación omitida, excepto en los casos que este Código o alguna Ley Fiscal disponga que no se podrá exigir al causante dicho pago;
 
-X.- La Tesorería General del Estado se abstendrá de imponer sanciones, cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito o cuando se enteren en forma espontánea los impuestos y derechos no cubiertos dentro de los plazos, señalados por las disposiciones fiscales. No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+X.- La Tesorería General del Estado se abstendrá de imponer sanciones, cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito o cuando se entere en forma espontánea los impuestos y derechos no cubiertos dentro de los plazos señalados por las disposiciones fiscales. No se considerará que el entero es expontáneo (sic) cuando la omisión sea cubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas y:
 
 XI.- La Tesorería General del Estado dejará de imponer sanciones cuando se haya incurrido en infracción por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de la mencionada Tesorería.
 
@@ -501,11 +561,15 @@ VII.- Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, 
 
 VIII.- Destruir o inutilizar los libros cuando no haya transcurrido el plazo durante el cual, conforme a la Ley, los deben conservar, multa de $100.00 a $10,000.00;
 
-IX.- No presentar para su autorización, o hacerlo extemporáneamente, los libros o sistemas de contabilidad cuando lo exijan las disposiciones fiscales multa de $25.00 a $1,000.00;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+IX.- No presentar para su autorización, o hacerlo extemporáneamente, los libros o sistemas de contabilidad cuando lo exijan las disposiciones fiscales multa de $100.00 a $1,000.00;
 
 X.- Faltar a la obligación de extender recibos, facturas o cualesquiera otros documentos que señalen las leyes fiscales. No exigirlos cuando tengan obligación de hacerlo. No consignar por escrito los actos, convenios o contrato que de acuerdo con las disposiciones fiscales deban constar en esa forma, multa de $100.00 a $10,000.00;
 
-XI.- No presentar, o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos o aclararlos cuando las autoridades fiscales lo soliciten multa de $100.00 a $10,000.00;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XI.- No presentar, o no proporcionar o hacerlo extemporaneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No presentarlos o aclararlos cuando las autoridades fiscales lo soliciten, multa de $100.00 a $1,000.00;
 
 XII.- Presentar los avisos declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal, multa de $100.00 a $10,000.00;
 
@@ -513,9 +577,9 @@ XIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias
 
 XIV.- Declarar ingresos menores de los percibidos, ocultar u omitir bienes o existencias que deben figurar en los inventarios, o listarlos a precios inferiores de los reales; no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que estas dispongan, multa de $100.00 a $10,000.00;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
 
-XV.- No pagar en forma total o parcial los impuestos, derechos o contribuiciones (sic) de mejoras dentro de los plazos señalados por las leyes fiscales, multa de $ 50.00 a $ 3,000.00;
+XV.- No pagar en forma total o parcial los impuestos o derechos dentro de los plazos señalados por las leyes fiscales, multa hasta del 40% sobre el monto del crédito insoluto;
 
 XVI.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras, multa de $100.00 a $10,000.00;
 
@@ -523,11 +587,13 @@ XVII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscal
 
 XVIII.- Resistirse por cualquier medio, a las visitas de inspección; no suministrar los datos o informes que legalmente pueden exigir los inspectores; no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquier otra dependencia, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado en relación con el objeto de la visita, multa de $100.00 a $10,000.00;
 
-XIX.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositario, por los visitadores, al estarse practicando visitas domiciliarias, multa de $50.00 a $5,000.00;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1982)</small>
+XIX.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositario, por los visitadores, al estarse practicando visitas domiciliarias multa de $100.00 a $5,000.00;
 
-XX.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de $100.00 a $1,000.00.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XX.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de $100.00 a $10,000.00
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1982)</small>
 
@@ -549,27 +615,39 @@ V.- Autorizar actos o contratos de enajenación o traspaso de negociaciones; de 
 
 VI.- Inscribir o registrar documentos o instrumentos que carezcan de la constancia de pago del gravamen correspondiente, multa de $50.00 a $5,000.00;
 
-VII.- No proporcionar informes o datos o no exhibir documentos cuando deben hacerlo, en el plazo que fijen las disposiciones fiscales, o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos, multa de $10.00 a $1,000.00;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+VII.- No proporcionar informes o datos o no exhibir documentos cuando deben hacerlo, en el plazo que fijen las disposiciones fiscales, o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos, multa de $10,000.00 a $100,000.00;
 
 VIII.- Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de $100.00 a $10,000.00;
 
-IX.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento, multa de $10.00 a $1,000.00;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+IX.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento, multa de $100.00 a $10,000.00 ;
 
 X.- Cooperar con los infractores o facilitarles en cualquiera otra forma la omisión total o parcial del gravamen, mediante alteraciones, ocultaciones u otros hechos y omisiones, multa de $100.00 a $10,000.00;
 
 XI.- No destinar el pago del gravamen, las cantidades ministradas por los causantes para ese efecto, cuando exista obligación para ello, independientemente de las responsabilidades en que incurran en otra materia, multa de $50.00 a $5,000.00;
 
-XII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos, multa de $10.00 a $1,000.00.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
 
-XIII.- Resistirse por cualquier medio a las visitas de inspección. No suministrar los datos o informes que legalmente puedan exigir los inspectores. No mostrarles los libros, documentos, registros, y en general los elementos necesarios para la práctica de la visita, multa de $50.00 a $5,000.00, y
+XII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos, multa de $1,000.00 a $5,000.00;
 
-XIV.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de $10.00 a $1,000.00.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XIII.- Resistirse por cualquier medio a las visitas de inspección. No suministrar los datos o informes que legalmente puedan exigir los inspectores. No mostrarles los libros, documentos, registros, y en general los elementos necesarios para la práctica de la visita, multa de $100.00 a $10,000.00;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XIV.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de $100.00 a $10,000.00.
 
 ###### ARTICULO 51.
 
 Son infracciones cuya responsabilidad corresponda a los funcionarios y empleados públicos del Estado y a los de sus Municipios, así como de los encargados de servicios públicos u órganos oficiales, de conformidad con lo siguiente:
 
-I.- Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general no cuidar el cumplimiento de tales disposiciones, multa de $10.00 a $1,000.00.
+> <small>(REFORMADA [N. DE E. REFORMADO PRIMER PARRAFO], P.O. 2 DE JUNIO DE 1984)</small>
+
+I.- Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general no cuidar el cumplimiento de tales disposiciones, multa de $100.00 a $1,000.00;
 
 Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo;
 
@@ -581,7 +659,9 @@ IV.- No exigir el pago total de las prestaciones fiscales; recaudar, permitir u 
 
 V.- No presentar ni proporcionar, o hacerlo extemporáneamente los informes, avisos, datos o documentos que exijan las disposiciones fiscales, o presentarlos incompletos o inexactos. No prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias, multa de $50.00 a $5,000.00;
 
-VI.- Presentar los informes avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de $50.00 a $5,000.00;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+VI.- Presentar los informes avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de $100.00 a $10,000.00;
 
 VII.- Alterar documentos fiscales que tengan en su poder, multa de $100.00 a $10,000.00;
 
@@ -589,13 +669,17 @@ VIII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscal
 
 IX.- No practicar las visitas de inspección cuando tengan obligación de hacerlo, multa de $10.00 a $1,000.00;
 
-X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales, multa de $50.00 a $5,000.00;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales, multa de $100.00 a $10,000.00;
 
 XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozca; revelar los datos declarados por los causantes o aprovecharse de ellos, multa de $100.00 a $10,000.00.
 
 Para los efectos de esta infracción los representantes de los causantes que integren juntas que califiquen, tabulen o aprueben en su caso determinaciones para efectos fiscales, o los organismos fiscales autónomos, se asimilan a los empleados o funcionarios públicos;
 
-XII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento. Cooperar en cualquier forma para que se eludan las prestaciones fiscales, multa de $50.00 a $5,000.00;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento. Cooperar en cualquier forma para que se eludan las prestaciones fiscales, multa de $100.00 a $10,000.00;
 
 XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos multa de $10.00 a $1,000.00;
 
@@ -603,7 +687,9 @@ XIV.- Resistirse por cualquier medio a las visitas de inspección; no suministra
 
 XV.- Exigir bajo el título de cooperación o colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la Ley, aún cuando se aplica a la realización de las funciones propias de su cargo, multa de $1,000.00 a $100,000.00
 
-XVI.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, multa de $10.00 a $1,000.00.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XVI.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, multa de $50.00 a $5,000.00.
 
 ###### ARTICULO 52.
 
@@ -615,7 +701,9 @@ II.- No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el
 
 III.- Presentar los avisos, informes, datos y documentos de que se habla en la fracción anterior incompletos o inexactos, multa de $10.00 a $1,000.00;
 
-IV.- Proporcionar los avisos, informes, datos o documentos a que se refieren las fracciones anteriores, alterados o falsificados, multa de $10.00 a $1,000.00;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+IV.- Proporcionar los avisos, informes, datos o documentos a que se refieren las fracciones anteriores, alterados o falsificados, multa de $100.00 a $10,000.00;
 
 V.- Autorizar o hacer constar documentos, inventarios, balances, o datos falsos, cuando actúen como contadores, peritos o testigos, multa de $100.00 a $10,000.00;
 
@@ -631,13 +719,17 @@ X.- Adquirir, ocultar, retener o enajenar, productos, mercancías o artículos, 
 
 XI.- Hacer pagos y aceptar documentos que los comprueben cuando derivándose de hechos que generen el gravamen no se haya cumplido con el pago de la prestación fiscal, o no se acredite su regular cumplimiento de acuerdo con las disposiciones fiscales, multa de $10.00 a $1,000.00;
 
-XII.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales, multa de $10.00 a $1,000.00;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XII.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales, multa de $100.00 a $10,000.00;
 
 XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos, multa de $100.00 a $10,000.00.
 
 XIV.- Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o a la de los causantes con quienes haya efectuado operaciones, en relación con el objeto de la visita, multa de $100.00 a $10,000.00.
 
-XV.- Infringir disposiciones fiscales en forma distinta de la prevista en las fracciones precedentes, multa de $10.00 a $1,000.00.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+XV.- Infringir disposiciones fiscales en forma distinta de la prevista en las fracciones precedentes, multa de $100.00 a $10,000.00.
 
 ### CAPITULO IV
 
@@ -813,7 +905,9 @@ En estos casos, el inspector deberá estar facultado expresamente y por escrito,
 
 VI.- Emplear cualquiera de los siguientes medios de apremio que juzguen eficaces, para hacer cumplir sus determinaciones;
 
-a).- La multa desde $25.00 hasta $500.00.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+a).- La multa de $500.00 a $5,000.00 que se duplicará en caso de reincidencia.
 
 b).- El auxilio de la fuerza pública.
 
@@ -821,7 +915,15 @@ c).- La clausura temporal del negocio.
 
 d).- La denuncia respectiva por desobediencia a un mandato legítimo de autoridad competente, y
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+e).- Embargar precautoriamente los bienes a la negociación cuando el contribuyente no atienda tres requerimientos de la autoridad por una misma omisión; el embargo quedará sin efecto cuando el contribuyente cumpla con la obligación de que se trata o dos meses después de practicado el embargo si la obligación no es cumplida y la autoridad fiscal no inicia el ejercicio de sus facultades de comprobación.
+
 VII.- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique la Tesorería General del Estado tendrán el mismo valor probatorio que el que la Ley relativa concede a las actas de la Policía Judicial; y la propia Tesorería, a través de los agentes hacendarios que designe, será coadyuvante del Ministerio Público, en los términos de este Código y del de Procedimientos Penales del Estado.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+VIII.- Tratándose de la omisión en la presentación de una declaración para el pago de impuestos, podrán hacer efectiva al sujeto pasivo o responsable solidario que haya incurrido en la omisión, una cantidad igual al impuesto que hubiere determinado en la última o cualquiera de las seis últimas declaraciones de que se trate o en la que resulte para dichos periodos de la determinación formulada por la autoridad según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente, para el pago de impuestos propios o retenidos. Este impuesto provisional podrá ser rectificado por las propias autoridades fiscales y su pago no libera a los obligados de presentar la declaración omitida.
 
 ###### ARTICULO 72.
 
@@ -919,13 +1021,27 @@ Los interesados directamente en situaciones reales y concretas, que planteen con
 
 Las instancias o peticiones que se formulen a las autoridades fiscales, deberán ser resueltas en el término que la ley fija o, a falta de término establecido, en noventa días. El silencio de las autoridades fiscales se considerará como resolución negativa cuando no den respuesta en el término que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 81.
 
-Los sujetos pasivos que habitualmente causen impuestos estatales, deberán inscribirse en el Registro o Registros de Causantes de la Tesorería General; igual obligación tendrán los retenedores habituales, aún cuando no causen directamente algún impuesto estatal.
+Los personas físicas, así como las morales establecidas en el territorio del Estado, que habitualmente realicen actividades objeto de impuestos estatales, no obstante que estos se encuentren suspendidos por efectos del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado, deberán de solicitar su inscripción en el Registro Estatal de contribuyentes de la Tesorería General del Estado. Igual obligación tendrán los retenedores habituales aún cuando no causen directamente algún impuesto estatal.
 
-Quedan exceptuados de la obligación de inscribirse, los causantes de impuestos cuya recaudación se haga por organismos o empresas que exploten concesiones de servicio público y quienes no estén obligados, según disposiciones fiscales.
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 1984)</small>
 
-Quienes deban inscribirse en el registro o registros fiscales, presentarán declaración en las formas aprobadas por la Tesorería General, además del domicilio en las que, expresarán:
+Los contribuyentes que se encuentren inscritos en dicho registro están obligados a poner a disposición de las autoridades fiscales en su domicilio, los registros o documentos relativos a su negociación.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+Las personas físicas o morales que teniendo sus matrices fuera del Estado, establezcan dentro del territorio del mismo despachos, oficinas, salas de exhibición, depósitos, locales o representaciones de cualquier índole aún cuando no realicen operaciones gravadas por impuestos, estatales, tendrán para efectos de control obligación de registrarse en los términos de este Código y presentar los avisos que en su caso corresponden.
+
+> <small>(N. DE E. ES DE OBSERVARSE QUE EL PRESENTE PARRAFO FUE OMITIDO DENTRO DE LA TRANSCRIPCION DE REFERENCIA QUE UTILIZA EL LEGISLADOR EN LAS REFORMAS A ESTE ARTICULO, ASIMISMO, QUE NO SE ENCUENTRA SEÑALADO EN EL EXTRACTO DEL DECRETO DE REFORMAS, POR LO QUE SE PRESUME QUE SE ENCUENTRA VIGENTE; SITUACION QUE SE HACE DEL CONOCIMIENTO DEL USUARIO)</small>
+
+Quedan exceptuados de la obligación de inscribirse los causantes de impuestos cuya recaudación se haga por organismos o empresas que exploten concesiones de servicio público y quienes no estén obligados, según disposiciones fiscales.
+
+> <small>(N. DE E. EL PRESENTE PARRAFO NO SE ENCUENTRA SEÑALADO EN EL EXTRACTO DEL DECRETO DE REFORMAS, POR LO QUE SE PRESUME QUE EL LEGISLADOR SOLAMENTE LO TRANSCRIBIO COMO REFERENCIA DENTRO DEL TEXTO DEL DECRETO)</small>
+
+Quienes deban inscribirse en el registro o registros fiscales, presentarán declaración en las formas aprobadas por la Tesorería General, además del domicilio en las que expresarán:
 
 I.- Las personas físicas, la fecha de su nacimiento; y las personas morales, la de su constitución, y
 
@@ -1035,6 +1151,10 @@ Se consideran días hábiles sólo, aquellos en que se encuentren abiertas al p�
 
 Las autoridades fiscales, podrán habilitar mediante acuerdo escrito, horas o días inhábiles para la práctica de actuaciones determinadas o para recibir pagos.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+En los casos en que la obligación fiscal sea exigible en un día inhábil, se considera exigible el crédito al siguiente día hábil de aquel en que feneció el término. Lo anterior es aplicable inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones.
+
 ### CAPITULO IV
 
 DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION.
@@ -1051,9 +1171,11 @@ No satisfecho un crédito fiscal dentro del plazo que para el efecto señalen la
 
 Los vencimientos que ocurran durante el procedimiento, incluso recargos gastos de ejecución y cualquiera otros, se harán efectivos, conjuntamente con el crédito inicial, sin necesidad de notificación ni de otras formalidades especiales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 98.
 
-En el caso del Artículo 96 se ordenará requerir al deudor para que efectúe el pago dentro de los tres días siguientes a dicha notificación, apercibido de que de no hacerlo, se le embargarán bienes suficientes para hacer efectivo el crédito fiscal y sus accesorios legales.
+En el caso del Artículo 96 de este Código, la autoridad ejecutora ordenará requerir al deudor para que efectúe el pago y en caso de no hacerlo en el acto, se le embargarán bienes suficientes para hacer efectivo el crédito fiscal y sus accesorios legales.
 
 El requerimiento de no pago se notificará, según el caso en los términos de las fracciones I o II del Artículo 86.
 
@@ -1079,17 +1201,25 @@ SECUESTRO ADMINISTRATIVO.
 
 El aseguramiento de bienes en la vía administrativa de ejecución procederá:
 
-I.- Transcurrido el plazo de tres días del requerimiento de pago, si el deudor no ha cubierto totalmente el crédito a su cargo;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+I.- Cuando en el momento de requerimiento de pago, el deudor no cubra totalmente el crédito a su cargo;
 
 II.- A petición del interesado para garantizar un crédito fiscal;
 
-III.- Cuando a juicio de la autoridad fiscal hubiere peligro de que el obligado se ausente, enajene u oculte sus bienes o realice cualquier maniobra tendiente a dejar insoluto el crédito.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+III.- Cuando a juicio de la autoridad fiscal hubiere peligro de que el obligado se ausente, enajene u oculte sus bienes o realice cualquier maniobra tendiente a dejar insoluto el crédito u otras obligaciones fiscales;
 
 IV.- Cuando al realizarse actos de inspección se descubran negociaciones u objetos, cuya tenencia, producción, explotación o transporte deba ser manifestada a las autoridades fiscales o autorizada por ellas, sin que se hubiere cumplido con la obligación respectiva, y
 
-V.- En los demás casos que prevengan las leyes respectivas.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
 
-En los casos de las fracciones III y IV la autoridad deberá iniciar el procedimiento tendiente a determinar y liquidar el crédito fiscal en un plazo que no excederá de tres días.
+V.- En los demás casos que prevengan las Leyes respectivas.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+En los casos de las fracciones III y IV la autoridad deberá iniciar el procedimiento tendiente a determinar y liquidar el crédito fiscal en un plazo que no excederá de 3 días; en estos casos si el crédito fiscal se cubre en el momento de la notificación del crédito, el deudor no estará obligado a pagar gastos de ejecución.
 
 ###### ARTICULO 101.
 
@@ -1133,13 +1263,17 @@ a).- Bienes ubicados fuera de la circunscripción de la Receptoría de Rentas ej
 
 b).- Bienes que ya reportaren cualquier gravamen real.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 104.
 
-Si al estarse practicando la diligencia de embargo el deudor hiciere pago del adeudo y sus accesorios, el ejecutor suspenderá dicha diligencia y expedirá recibo de entero por el importe del pago, concentrando inmediatamente las cantidades que reciba a la Tesorería del Estado o ante la Receptoría de Rentas que corresponda. En este caso, el deudor no estará obligado a pagar gastos de ejecución por la diligencia de embargo.
+Si al estarse practicando la diligencia de embargo el deudor hiciere el pago del crédito y de los accesorios causados, el ejecutor suspenderá dicha diligencia y lo acompañará a la Oficina Recaudadora correspondiente, haciendo constar el pago en acta entregándole copia para constancia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 1984)</small>
 
 ###### ARTICULO 105.
 
-Si al designarse bienes para el secuestro administrativo, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo, si se demuestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor. La resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación, en todos los casos por la Receptoría de Rentas a la que deberá allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la ejecutora las pruebas no son suficientes, ordenará al ejecutor que continúe con el embargo y notificará al interesado que puede hacer valer la tercería en los términos de este Código.
+Si al designarse bienes para el secuentro (sic) administrativo, se opusiera un tercero fundándose en el dominio de ellos, no se practicará el embargo de estos, si se demuestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor, debiendo este asentar en el acta respectiva los elementos de juicio que motivaron la resolución, la resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación en todos los casos por la Receptoría de Rentas a la que deberá allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la ejectuora (sic) las pruebas no son suficientes, ordenará al ejecutor que continúe con el embargo y notificará al interesado que puede hacer valer la tercería en los términos de este Código.
 
 En todo momento, los opositores podrán ocurrir ante la Receptoría de Rentas haciéndole saber la existencia de otros bienes propiedad del deudor del crédito fiscal libres de gravamen y suficientes para responder de las prestaciones fiscales exigidas. Esas informaciones no obligarán a la ejecutora a levantar el embargo sobre los bienes a que se refiere la tercería.
 
@@ -1263,6 +1397,12 @@ El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier
 
 Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, por conducto de la Receptoría de Rentas Ejecutora, por instrucciones de la Tesorería General del Estado cuando esta estime que los bienes embargados no sean suficientes para cubrir las prestaciones fiscales insolutas o los vencimientos inmediatos.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+###### ARTICULO 119.
+
+1.- Los gastos de ejecución y de embargo se harán efectivos por las Receptorías de Rentas conjuntamente con el crédito fiscal en los porcentajes que señale la Ley de ingresos.
+
 #### SECCION III
 
 DE LOS REMATES.
@@ -1273,7 +1413,9 @@ El procedimiento para el remate de bienes embargados, se iniciará:
 
 I.- Al décimo sexto día de practicado el embargo, si en contra de éste no hubiere objeción o cuando quedare firme, al resolverse la que se hubiere hecho valer, y
 
-II.- En los casos de las fracciones II, III y IV del Artículo 100, cuando los créditos se hagan exigibles y no se paguen dentro del requerimiento.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1984)</small>
+
+II.- En los casos de las fracciones II, III y IV del Artículo 100 cuando los créditos se hagan exigibles.
 
 ###### ARTICULO 121.
 
@@ -1497,15 +1639,21 @@ En caso de conflicto, las cantidades de dinero o valores que constituyan el rema
 
 DE LA SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 151.
 
-Se suspenderá el procedimiento administrativo de ejecución durante la tramitación del recurso administrativo de reconsideración cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en algunas de las formas señaladas por el artículo 21 de este Código.
+Se suspenderá el procedimiento de ejecución durante la tramitación del recurso administrativo de reconsideración o de los medios de defensa establecidos en este Código, cuando lo solicite el interesado y garantice el crédito fiscal de que se trata y los posibles recargos en algunas de las formas señaladas por el artículo 21 de este Código.
 
 La suspensión podrá ser solicitada en cualquier tiempo ante la Receptoría de Rentas ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo de reconsideración. La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de quince días para el otorgamiento de la garantía.
 
-Constituida ésta la ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso de reconsideración.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
 
-No se exigirá garantía adicional si en el procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando el recurso. El superior o las autoridades correspondientes según el caso, pedirán a la autoridad ejecutora un informe que deberá rendir en un plazo de tres días y se resolverá de inmediato la cuestión.
+Constituida ésta, ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al Tesorero General quien pedirá informe a la autoridad ejecutora que deberá rendir en un plazo de tres días y se resolverá de inmediato la cuestión.
 
 ### CAPITULO VI. DEL RECURSO DE RECONSIDERACION
 
@@ -1528,6 +1676,10 @@ c).- Cuando los bienes secuestrados estén exceptuados de embargo.
 II.- En los casos en que las notificaciones se hicieren en contravención a las disposiciones legales.
 
 La declaratoria de nulidad de notificaciones, traerá, como consecuencia la de las actuaciones posteriores a la notificación anulada y que tengan relación con ellas.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+A través de este recurso no podrá discutirse la validez de la resolución en que se haya determinado el crédito fiscal, misma que solo podrá impugnarse ante otras autoridades competentes.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
 
@@ -1583,7 +1735,9 @@ Las resoluciones que se dicten en materia de condonación parcial, no podrán se
 
 Los particulares podrán solicitar que se declare que ha prescrito algún crédito fiscal a su cargo o que se han extinguido las facultades de las autoridades para determinarlo o liquidarlo.
 
-Si la autoridad determina el crédito o realiza el cobro, sólo podrá ejercitarse el recurso de reconsideración establecido en este Código.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+
+Si la autoridad determina el crédito o realiza el cobro sólo podrá ejercitarse el recurso de reconsideración o los medios de defensa establecidos en este Código.
 
 TRANSITORIO:
 
@@ -1608,3 +1762,7 @@ PALACIO DE GOBIERNO, Colima, Colima, a los 24 días del mes de diciembre de 1981
 P.O. 25 DE DICIEMBRE DE 1982.
 
 UNICO.- El presente Decreto surtirá sus efectos a partir del día primero de Enero de mil novecientos ochenta y tres.
+
+P.O. 2 DE JUNIO DE 1984.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su Publicación en el Periódico Oficial "El Estado de Colima".
