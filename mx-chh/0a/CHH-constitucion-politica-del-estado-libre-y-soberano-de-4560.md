@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1988-07-13"
+last_updated: "1988-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1988.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -171,7 +171,7 @@ Los chihuahuenses serán preferidos, en igualdad de circunstancias, a los que no
 
 DE LA ORGANIZACION DEL CONGRESO.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
 ###### Art. 20.
 
@@ -255,6 +255,14 @@ DEL PODER PUBLICO.
 
 La soberanía del Estado reside originariamente en el pueblo, y en nombre de éste la ejercen los Poderes establecidos en esta Constitución.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+
+Los partidos políticos son entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuyendo a la integración de la recuperación local y municipal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
 ###### Art. 28.
 
 El ejercicio del Poder Público se limita a las facultades expresamente consignadas en esta Constitución, en la Federal y en las demás leyes generales y del Estado.
@@ -285,9 +293,11 @@ La Administración Municipal se ejercerá por los Ayuntamientos, en la forma que
 
 Nunca podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un sólo individuo.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+
 ###### Art. 32.
 
-Los Supremos Poderes del Estado deben residir en la Capital del mismo, que es la Ciudad de Chihuahua, y no podrán trasladarse a otro lugar, ni a un provisionalmente, sino por acuerdo de las dos terceras partes del número total de Diputados que integren la Legislatura.
+Los Supremos Poderes del Estado deben residir en la Capital del mismo, que es la ciudad de Chihuahua y no podrán trasladarse a otro lugar, ni aún provisionalmente, sino por acuerdo de las dos terceras partes de los diputados presentes.
 
 ###### Art. 33.
 
@@ -349,29 +359,13 @@ DE LA INSTALACION DEL CONGRESO, PERIODOS DE SUS SESIONES Y CARACTER DE SUS DISPO
 
 ###### Art. 40.
 
-El Congreso se integrará con representantes populares electos en su totalidad cada tres años. Por cada diputado propietario de mayoría se elegirá un suplente; en relación a los diputados de minoría se estará a lo dispuesto en la fracción II del inciso F de este artículo.
+El Congreso se integrará con representantes populares electos en su totalidad cada tres años. Por cada diputado propietario se elegirá un suplente.
 
-El Congreso se compondrá por catorce diputados electos en distritos electorales según el principio de votación mayoritaria relativa y hasta cuatro, electos por el principio de diputados de minoría.
+El Congreso se compondrá por dieciocho diputados electos en distritos electorales uninominales según el principio de votación mayoritaria relativa y hasta diez electos por el principio de representación proporcional.
 
-La elección se sujetará a las bases generales siguientes y a las particulares que fije el Código Administrativo del Estado:
+La elección se sujetará a los procedimientos que establezca el Código Electoral del Estado de Chihuahua.
 
-I.- La demarcación territorial de los catorce distritos electorales será la que resulte de dividir la población total del Estado, conforme al último censo general de población, entre el número de los distritos señalados, teniendo en cuenta para su distribución los factores geografico y socio-económico.
-
-II.- La asignación de diputados de minoría, se sujetará a lo siguiente:
-
-A.- El partido político deberá participar con candidatos a diputados de mayoría relativa por lo menos en la mitad de los catorce distritos electorales.
-
-B.- El partido político tendrá derecho a que le sea atribuido diputado de minoría, siempre que no haya obtenido ninguna constancia de mayoría y que alcance el 5% o más de la votación total en el Estado en la elección de diputados respectiva.
-
-C.- El partido político que reúna los requisitos señalados en los incisos anteriores, tendrá derecho a acreditar un diputado de minoría, por riguroso orden de acuerdo con el número decreciente de sufragios que haya logrado, en relación a los demás candidatos a diputados propietarios de mayoría del mismo partido en todo el Estado.
-
-D.- Si más de cuatro partidos políticos satisfacen los requisitos establecidos en los incisos anteriores, los diputados de minoría se acreditarán a aquéllos cuatro que obtengan el mayor número de sufragios en la votación respectiva.
-
-E.- Si sólo un partido político reúne los requisitos establecidos en los incisos A, B y C y obtiene además un 5% más en la votación respectiva, tendrá derecho a acreditar hasta dos diputados de minoría.
-
-F.- La suplencia en los diputados de minoría se acreditará entre los candidatos suplentes registrados por el partido, por riguroso orden de acuerdo con el número decreciente de sufragios que haya logrado en relación a los demás candidatos a diputados suplentes del mismo partido en todo el Estado.
-
-III.- Los diputados de mayoría y los de minoría tendrán la misma categoría e iguales derechos y obligaciones.
+Los diputados de mayoría y los de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -393,9 +387,9 @@ III.- Ser originario del distrito en que se haga la elección o vecino de él co
 
 IV.- No haber sido condenado en los últimos diez años por delito que no sea político, a una pena mayor de un año de prisión.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
-V.- No ser funcionario o empleado federal, estatal o municipal.
+V.- No ser funcionario federal, estatal o municipal.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -409,7 +403,9 @@ VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1983)
 
 IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1983)
 
-Los funcionarios y empleados comprendidos en las fracciones V, VI, VII y VIII, podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos dos meses de estar separados definitivamente de sus Cargos o empleos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+
+Los funcionarios comprendidos en la fracción V podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos dos meses de estar separados definitivamente de sus cargos.
 
 ###### Art. 42.
 
@@ -467,7 +463,9 @@ Ni la Junta Preparatoria ni la Legislatura, podrán funcionar sin la concurrenci
 
 Si no hubiere la mayoría requerida para la instalación del Congreso, o para que pueda funcionar una vez instalado, se llamará desde luego a los suplentes para que desempeñen su cargo durante el término señalado a los propietarios.
 
-Para la discusión y votación de todo proyecto de ley, se requiere la concurrencia de los dos tercios del número total de Diputados que integren la Legislatura.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+
+Para la discusión y votación de todo proyecto de ley o decreto, se requiere la concurrencia de más de la mitad del número total de diputados que integren la Legislatura.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -557,9 +555,9 @@ También incurrirán en responsabilidad que la misma ley señale, los partidos p
 
 Sólo desaparecerá la Legislatura:
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 1976)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
-I.- Cuando llegado el treinta de septiembre, no hubiere electos más de la mitad del número total de Diputados que deban integrar la que ha de instalarse en esa fecha, ya sean Propietarios o sus respectivos Suplentes.
+I.- Cuando llegado el 30 de septiembre, no hubiere electos más de la mitad del número total de diputados que deban integrar la que ha de instalarse en esa fecha, ya sean propietarios o sus respectivos suplentes.
 
 II.- Cuando dividida en grupos sin que alguno de ellos tenga quórum legal de Diputados Propietarios, o de éstos y Suplentes de quienes no figuraren en alguno de los grupos y que hayan sido llamados legalmente antes de la división, se prolongue ésta por un mes sin obtenerse el quórum expresado.
 
@@ -643,9 +641,9 @@ X.- Fijar y modificar la división territorial, política, administrativa, judic
 
 XI.- Resolver las cuestiones de límites entre los Municipios del Estado.
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
-XII.- Por el voto de los dos tercios del número total de diputados que formen el Congreso y atendiendo a factores demográficos, geográficos y socio-económicos, erigir nuevos municipios dentro de los límites de los existentes, suprimir alguno o algunos de éstos, previos los informes que rendirán, dentro del término que se les fije, el Ejecutivo del Estado y los Ayuntamientos de los Municipios de cuyo territorio se trata.
+XII.- Por el voto de los dos tercios de los diputados presentes y atendiendo a factores demográficos, geográficos y socioeconómicos, erigir nuevos municipios dentro de los límites de los existentes, suprimir alguno o algunos de éstos previos los informes que rindieran, dentro del término que se les fije el Ejecutivo del Estado y los Ayuntamiento (sic) de los Municipios de cuyo territorio se trata.
 
 XIII.- Reglamentar el funcionamiento del Municipio Libre, como base de la división territorial y de la organización política y administrativa del Estado.
 
@@ -685,9 +683,9 @@ XVIII.- Convocar para elecciones extraordinarias de Gobernador en los casos que 
 
 XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al Gobernador, Diputados y Magistrados del Supremo Tribunal de Justicia, cuando la de estos dos últimos sea por más de diez días.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
-XX.- Declarar, en calidad de gran jurado y por el voto de dos tercios del número total de sus miembros, si hay o no lugar a la formación de causa por delitos, tanto oficiales como comunes, de que sean acusados el Gobernador del Estado, los Diputados al mismo Congreso, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia, Menores y de Paz, el Secretario de Gobierno, el Procurador General de Justicia y los Directores Generales, no siendo revisables las resoluciones del Congreso en este caso.
+XX.- Declarar en calidad de Gran Jurado y por el voto de los dos tercios de los presentes, si ha o no lugar a la formación de causas por delitos, tanto oficiales como comunes, de que sean acusados los funcionarios que menciona esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado, no siendo revisables las resoluciones del Congreso en este caso.
 
 XXI.- Dirimir los conflictos que se susciten entre los Poderes Ejecutivo y Judicial del Estado, salvo el caso en que deba intervenir el Senado o la Suprema Corte de Justicia de la Nación.
 
@@ -975,9 +973,13 @@ Las faltas temporales o absolutas del Gobernador se suplirán en la siguiente fo
 
 I.- En caso de falta temporal que no exceda de 60 días, el Secretario de Gobierno asumirá el cargo de Gobernador Interino, previa protesta que deberá rendir ante el Congreso del Estado o la Diputación Permanente, si la falta excediere de dicho plazo, el Congreso o la citada Diputación nombrará un Gobernador Interino, si la falta temporal se convirtiere en absoluta, se estará a lo dispuesto en la Fracción IV de este precepto.
 
-II.- En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso, por mayoría absoluta de votos y con asistencia de los dos tercios del número total de Diputados, o la Diputación Permanente en su caso, nombrará un Gobernador Provisional y convocará inmediatamente a elecciones de Gobernador, las que deberán efectuarse en un término que no exceda de tres meses. El Congreso, al entrar en sesiones, podrá modificar el nombramiento de Gobernador Provisional hecho por la Diputación Permanente.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
-III.- Si la falta ocurriere durante los cuatro últimos años del período, el Congreso por el voto de los dos tercios del número total de Diputados nombrará un Gobernador Substituto que desempeñe el cargo hasta la conclusión del período; y, en caso de receso, la Diputación Permanente hará el nombramiento convocando desde luego a sesiones al Congreso para que éste lo ratifique o haga otro nuevo.
+II.- En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso por mayoría absoluta de votos o la Diputación Permanente en su caso; nombrará un Gobernador Provisional y convocará inmediatamente a elecciones, las que deberán efectuarse en un término que no exceda de tres meses. El Congreso, al entrar en sesiones, podrá modificar el nombramiento de Gobernador Provisional hecho por la Diputación Permanente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+
+III.- Si la falta absoluta ocurriere durante los cuatro últimos años del período, el Congreso por mayoría absoluta de votos, nombrará un Gobernador Sustituto que desempeñe el cargo hasta la conclusión del período y, en caso de receso, la Diputación Permanente hará el nombramiento convocando desde luego a sesiones al Congreso para que éste lo ratifique o haga otro nuevo.
 
 En los casos de esta fracción y de la próxima anterior la Diputación Permanente funcionará integrada conforme lo establecido en la fracción IX del artículo 82.
 
@@ -1421,41 +1423,21 @@ El territorio del Estado se dividirá en los Municipios que determine la Ley Org
 
 La Administración Municipal estará a cargo:
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
-I.- De los Ayuntamientos, los que serán electos popular y directamente, según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que administren, durarán en su encargo tres años y estarán integrados por un Presidente y el número de regidores que determine la ley, con sus respectivos suplentes.
+I.- De los ayuntamientos, los que serán electos popular y directamente según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que administren, durarán en su encargo tres años y estarán integrados por un Presidente y el número de Regidores que determine la ley, con sus respectivos suplentes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+Los ayuntamientos se integrarán, además, con el número de Regidores electos según el principio de representación proporcional que determine la ley, la cual regulará el procedimiento para realizar las asignaciones correspondientes.
 
-En los municipios cuya población sea de trescientos mil o más habitantes, los ayuntamientos tendrán adicionalmente hasta dos regidores electos según el principio de representación proporcional y uno en los demás.
+El número de Regidores de representación proporcional se fijará por la ley tomando en cuanta el índice demográfico y las condiciones socioeconómicas de cada municipio.
 
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un regidor el partido político que satisfaga los siguientes requisitos.
+Los Regidores electos según el principio de votación mayoritaria relativa y los designados según el principio de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
 
-A.- Que hubiere registrado fórmula de candidatos en las elecciones municipales repectivas.
+Los miembros del ayuntamiento, ya sean propietarios o suplentes, no podrán ser reelectos en sus cargos para el período siguiente. Los que tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el cargo de suplentes, pero los que tengan el cargo de suplentes si podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio. El presidente, cualquiera que sea el carácter con que desempeñe el cargo, no podrá ser electo regidor propietario ni suplente y los regidores propietarios o los suplentes que hayan estado en ejercicio, no podrán ser electos para el cargo de presidente. Las prohibiciones anteriores comprenden también a los miembros de un ayuntamiento que hayan sido nombrados por el Congreso en ejercicio de sus funciones.
 
-B.- Que no haya alcanzado el triunfo por mayoría relativa en la misma elección.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
-C.- Que alcance por lo menos el 10% del total de la votación emitida en el Municipio correspondiente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-D.- En los municipios de trescientos mil o más habitantes el otro regidor se atribuirá al partido político que hubiere obtenido el segundo porcentaje en votación minoritaria y tenga por lo menos más de la mitad de los sufragios que el partido triunfador minoritario haya alcanzado, pues de lo contrario se atribuirá el segundo regidor al partido triunfador minoritario.
-
-E.- Serán regidores, propietarios o suplentes según el principio de representación proporcional, los que aparezcan en primer término, con el carácter señalado, en la boleta electoral que se autorice para la elección según el principio de votación mayoritaria relativa.
-
-En el caso del inciso D de la fracción I de este artículo, lo serán los que ocupen el segundo lugar en la boleta mencionada.
-
-Si los regidores, propietarios y suplentes, electos según el principio de representación proporcional no se presentan a tomar posesión de su cargo en la fecha en que deban efectuarlo, se declarará vacante el cargo e incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley señale.
-
-También incurrirán en responsabilidad que la misma ley señale los partidos políticos que habiendo postulado candidatos en una elección municipal, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
-
-F.- Los regidores electos según el principio de votación mayoritaria relativa y los designados según el principio de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
-
-G.- La Ley reglamentará los procedimientos que se observarán en dichas asignaciones.
-
-Los miembros del ayuntamiento, ya sean propietarios o suplentes, no podrán ser reelectos en sus cargos para el período siguiente. Los que tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el cargo de suplentes, pero los que tengan el cargo de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio. El presidente cualquiera que sea el carácter con que desempeñe el cargo no podrá ser electo regidor propietario ni suplente y los regidores propietarios o los suplentes que hayan estado en ejercicio, no podrán ser electos para el cargo de presidente. Las prohibiciones anteriores, comprenden también a los miembros de un ayuntamiento que hayan sido nombrados por el Congreso en ejercicio de sus funciones.
-
-II.- De las Juntas Municipales, las que residirán en la cabecera de la Sección Municipal respectiva, durarán en su encargo tres años y serán integradas por los miembros que la ley establezca, los que serán designados por el Ayuntamiento correspondiente tomando en consideración la opinión de la mayoría de los ciudadanos residentes en la Sección de que se trate. Los miembros de las Juntas Municipales serán removidos por el Ayuntamiento cuando lo soliciten la mayoría de los ciudadanos residentes en la Sección respectiva.
+II.- De las juntas municipales, las que residirán en la cabecera de la sección municipal respectiva, durarán en su encargo tres años y serán integradas por los miembros que la ley establezca y de acuerdo con los procedimientos que en la misma se regulen.
 
 III.- De los Comisarios de Policía, los que residirán en las poblaciones de categoría menor, durarán en su encargo tres años y serán electos y removidos en los términos indicados en la fracción anterior.
 
@@ -1469,13 +1451,13 @@ Para poder ser electo miembro de un ayuntamiento o junta municipal o comisario d
 
 I.- Ser ciudadano chihuahuense en pleno ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
-II.- Tener veintiún años cumplidos el día de la elección.
+II.- Tener dieciocho años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
-III.- Tener residencia habitual durante los últimos seis meses en la municipaidad correspondiente.
+III.- Tener residencia habitual durante los últimos seis meses en la municipalidad correspondiente, salvo la ausencia por el desempeño de cargos públicos.
 
 IV.- Ser del estado seglar.
 
@@ -1485,7 +1467,9 @@ V.- No haber sido condenado en los últimos diez años, por delito alguno intenc
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-VI.- No tener cargo, empleo o comisión del gobierno federal o del Estado que sea incompatible con el cumplimiento de su encargo; y
+VI.- No ser funcionario federal, estatal o municipal.
+
+Podrán ser electos siempre que al efectuarse la elección tengan cuando menos dos meses de estar separados definitivamente de sus cargos o empleos; y
 
 VII.- No haber actuado como autoridad municipal en los términos de los artículos 126 y 128.
 
@@ -1899,11 +1883,11 @@ III.- Del Poder Judicial, los Magistrados del Supremo Tribunal de Justicia del E
 
 La licencia suspende el fuero y demás prerrogativas inherentes al cargo. Si durante el período de licencia, las autoridades competentes procedieran penalmente contra un servidor público, éste no podrá ocupar el cargo hasta en tanto no se resuelva su situación jurídica.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
 ###### Art. 181.
 
-De los delitos oficiales en que incurran los servidores públicos mencionados en el artículo 179, conocerá el Congreso del Estado erigido en Gran Jurado, mediante juicio político, de conformidad con la Ley de Responsabilidades de los Servidores Públicos, resolviendo por el voto de las dos terceras partes del total de sus miembros.
+De los delitos oficiales en que incurran los servidores públicos mencionados en el Artículo 179, conocerá el Congreso del Estado erigido en Gran Jurado, mediante juicio político, de conformidad con la Ley de Responsabilidades de los Servidores Públicos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1911,13 +1895,17 @@ De los delitos oficiales en que incurran los servidores públicos mencionados en
 
 El procedimiento de juicio político sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en el período no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
 ###### Art. 183.
 
-Para proceder penalmente en contra de los servidores públicos que mencionan en el artículo 179 por la comisión de delitos comunes durante el tiempo de su cargo, el Congreso del Estado declarará por el voto de las dos terceras partes del número total de sus miembros si ha o no lugar a ejercitar la acción persecutoria correspondiente.
+Para proceder penalmente en contra de los servidores públicos que menciona el Artículo 179 por la comisión de delitos comunes durante el tiempo de su cargo, el Congreso del Estado declarará por el voto de más de la mitad de los presentes, si ha o no lugar a ejercitar la acción persecutoria correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito común continúe su curso cuando el inculpado haya concluído el ejercicio de su cargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 Si la Cámara declara que ha lugar a proceder, el funcionario quedará separado de su cargo y a disposición de las autoridades competentes para que actúen con arreglo a la ley. Si de acuerdo con ésta se dictase sentencia absolutoria, el inculpado podrá reasumir su cargo. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de sus funciones, no se concederá al reo la gracia del indulto. Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico y cause daños y perjuicios patrimoniales, deberán graduarse de acuerdo con el logro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
@@ -1959,6 +1947,8 @@ De los delitos que cometan los servidores públicos que no gozan de fuero conoce
 
 DE LAS REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+
 ###### Art. 189.
 
 Los cargos y empleos públicos del Estado durarán el tiempo señalado por las leyes y las personas que los obtengan, por ningún motivo podrán conservarlos después de la expiración del término legal; salvo lo dispuesto para casos especiales.
@@ -1967,13 +1957,17 @@ Los cargos y empleos públicos del Estado durarán el tiempo señalado por las l
 
 Ningún ciudadano podrá desempeñar ni conservar dos o más cargos de elección popular; pero el electo podrá optar por el que le conviniere entendiéndose renunciado uno con la aceptación del otro.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
+
 ###### Art. 191.
 
-Todo cargo es incompatible con cualquier función o empleo federal, de este o de otro Estado o de los Municipios, cuando por ambos se perciba sueldo, exceptuándose los de enseñanza, beneficencia y salubridad pública, salvo lo dispuesto para casos especiales y cuando el Congreso otorgue licencia expresa para ello al interesado.
+Todo cargo es incompatible con cualquier ocupación o empleo federal, de éste o de otro Estado o de los Municipios, cuando por ambos se perciba sueldo, exceptuándose los de enseñanza y beneficencia, salvo lo dispuesto para casos especiales y cuando el Congreso otorgue licencia expresa para ello al interesado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1988)</small>
 
 ###### Art. 192.
 
-Nunca podrán reunirse en una persona, varios empleos por los que se disfrute sueldo; exceptuándose únicamente los de enseñanza, siempre que no concurran con alguno de otro ramo. La infracción de este artículo y de los dos próximos anteriores será motivo de responsabilidad para los funcionarios y empleados que, en sus respectivos casos, ordenen o reciban los pagos indebidos. Sin embargo, el Congreso o en su receso la Diputación Permanente, podrán conceder permiso por término señalado a empleados de otros ramos, para que puedan desempeñar empleos en los Ramos de Enseñanza, Salubridad y Beneficencia, necesitándose permiso especial en cada caso.
+Nunca podrán reunirse en una persona varios empleos por los que se disfrute sueldo; exceptuándose únicamente los de enseñanza y beneficencia, siempre que no concurran con alguno de otro ramo. La infracción de este artículo y de los dos próximos anteriores será motivo de responsabilidad para los funcionarios y empleados que, en sus respectivos casos, ordenan o reciban los pagos indebidos.
 
 ###### Art. 193.
 
@@ -2017,7 +2011,7 @@ No habrá en el Estado otros títulos ni distinciones que los que decrete el Con
 
 ###### Art. 202.
 
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere: que se acuerden por el voto de dos tercios del número total de Diputados de dos legislaturas distintas e inmediatas, o de una misma, en dos distintas discusiones y con intervalo de seis meses entre una y otra.
+Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que se acuerde por más de la mitad del número de diputados presentes de dos Legislaturas distintas e inmediatas, o de un misma, en dos discusiones con intervalo de seis meses entre un y otra.
 
 ###### Art. 203.
 
@@ -2148,3 +2142,7 @@ Los Jueces de Primera Instancia que se encuentren en ejercicio, concluirán su e
 ###### ARTICULO QUINTO.
 
 Los Jueces de Primera Instancia que se encuentren en ejercicio y que hayan sido designados con posterioridad al 4 de octubre de 1986, concluirán su encargo el día en que cumplan 3 años de ejercicio a partir de la fecha de su designación, a cuyo término, si son ratificados, adquiridrán (sic) inamovilidad.
+
+P.O. 24 DE DICIEMBRE DE 1988.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
