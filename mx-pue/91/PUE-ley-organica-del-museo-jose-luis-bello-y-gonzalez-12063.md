@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-museo-jose-luis-bello-y-gonzalez-12063"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1944-03-28"
-last_updated: "1944-03-28"
+last_updated: "2004-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY ORGANICA DEL MUSEO "JOSE LUIS BELLO Y GONZALEZ"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO 1 DEL DECRETO POR EL QUE SE ABROGA LA LEY ORGANICA DEL MUSEO JOSE LUIS BELLO Y GONZALEZ, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2004., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 28 de marzo de 1944.
 
@@ -246,3 +248,19 @@ La presente Ley entrará en vigor el día de su publicación en el "Periódico O
 El Gobernador hará publicar y cumplir la presente disposición.- Dada en el Palacio del Departamento Legislativo, en Puebla de Zaragoza, a los dieciséis días del mes de marzo de mil novecientos cuarenta y cuatro.- Carlos León, D. V. P.- Teobaldo Sosa.- Gerardo Rojas M.- Rúbricas.
 
 Por tanto, mando se imprima, publique y circule para sus efectos.- Palacio del Departamento Ejecutivo, en Puebla de Zaragoza, a los veintiún días del mes de marzo de mil novecientos cuarenta y cuatro.- El Gobernador Constitucional del Estado, GONZALO BAUTISTA.- El Secretario General de Gobierno, Lic. GUSTAVO DIAZ ORDAZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Cultura realizará las actividades tendientes a elaborar, actualizar y registrar el inventario de los bienes muebles a los que se refiere el presente Decreto, en términos de la legislación y normatividad aplicable.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto todas aquellas disposiciones que contravengan a lo dispuesto en el presente Decreto.
