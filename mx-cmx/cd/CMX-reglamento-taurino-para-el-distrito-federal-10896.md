@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-taurino-para-el-distrito-federal-10896"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-05-20"
-last_updated: "1997-05-20"
+last_updated: "2004-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10896&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1997-05-16"
 
 REGLAMENTO TAURINO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2004.
 
-Reglamento publicado en la Gaceta Oficial el martes 20 de mayo de 1997.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 1997.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -34,9 +34,15 @@ REGLAMENTO TAURINO PARA EL DISTRITO FEDERAL
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento tiene por objeto regular la celebración de los espectáculos taurinos en el Distrito Federal.
+El presente Reglamento tiene por objeto regular la celebración de espectáculos taurinos en el Distrito Federal, con base en dos principios fundamentales:
+
+I. La preservación y fomento de la tradición cultural taurina en el Distrito Federal, y
+
+II. La protección de los derechos del público asistente y de los demás actores que intervienen en el espectáculo.
 
 ###### ARTÍCULO 2.
 
@@ -54,7 +60,11 @@ V. Ley, la Ley para la Celebración de Espectáculos Públicos en el Distrito Fe
 
 VI. Reglamento, el presente Reglamento Taurino para el Distrito Federal, y
 
-VII. Tesorería, la Tesorería del Distrito Federal.
+VII. Tesorería, la Tesorería del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2004)</small>
+
+VIII. Libro de Registro de Tenedores del derecho de apartado, aquel documento cuyas especificaciones técnicas determinarán la Delegación y la Comisión Taurina y que contendrá como mínimo los nombres, direcciones y firmas de las personas con derechos de apartado para una localidad específica en el recinto o inmueble en el que se desarrolle el espectáculo taurino.
 
 ###### ARTÍCULO 3.
 
@@ -150,7 +160,9 @@ VII. Presentarse en la plaza con una hora de anticipación al inicio del festejo
 
 VIII. Dar las órdenes necesarias para el cumplimiento del programa anunciado;
 
-IX. Amonestar públicamente a quienes infrinjan el Reglamento dentro de la plaza de toros y sugerir a la Delegación la aplicación de las sanciones que resulten procedentes;
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2004)</small>
+
+IX. Señalar las violaciones o contravenciones al presente Reglamento y amonestar públicamente, dentro de la Plaza de Toros a quienes lo infrinjan. El informe de los señalamientos efectuados por el Juez de Plaza, deberá ser considerado por la Delegación en la aplicación de las medidas de seguridad y sanciones correspondientes;
 
 X. Ordenar la suspensión del festejo en los casos en que proceda, cuidando preferentemente los intereses del público;
 
@@ -236,9 +248,25 @@ Para celebrar espectáculos taurinos en el Distrito Federal, en cosos que no cue
 
 Cuando se trate de cosos con licencia de funcionamiento, sólo se requerirá la presentación de un aviso en los términos señalados por la Ley.
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 13.
 
-La venta del derecho de apartado deberá sujetarse a lo establecido en la Ley.
+El proceso de venta del derecho de apartado deberá observar además de las disposiciones emanadas de la Ley y del presente Reglamento, aquellas disposiciones que protejan los derechos de su tenedor como espectador del evento taurino y como consumidor del servicio relacionado con el espectáculo público que se presta.
+
+Con relación a lo dispuesto por la fracción IV del artículo 43 de la Ley, los criterios a que se sujetará la venta del derecho de apartado serán los siguientes:
+
+I. La empresa presentará a la Delegación antes de 45 días naturales al 7 de noviembre de cada año, los contratos originales celebrados con las ganaderías, debidamente registrados ante la Asociación de Criadores de Toros de Lidia y ante la Comisión Taurina;
+
+II. La empresa presentará a la Delegación antes de 20 días naturales al 7 de noviembre de cada año, los contratos originales celebrados con los toreros, rejoneadores y demás prestadores de servicio, debidamente registrados ante la Asociación de Matadores;
+
+III. La empresa presentará a la Delegación los Libros de Registro de los Tenedores de los Derechos de Apartado originales, mismos que permanecerán en custodia de dicha autoridad, para efectos de revisión y verificación administrativa del cumplimiento de los datos y obligaciones en ellos consignados;
+
+IV. Al término del período de venta del derecho de apartado, que será antes de 10 días naturales al día del inicio de la temporada, la empresa dispondrá para venta al público general, las localidades en las que no se cubrió el monto del derecho de apartado para la temporada autorizada; y
+
+V. El tenedor de la tarjeta del derecho de apartado, que no cubra el monto correspondiente a la temporada autorizada perderá el apartado de la localidad pero mantendrá dicho derecho en los siguientes periodos de canje, a través de la tarjeta correspondiente.
+
+Los contratos a que hace referencia este artículo deberán de acompañarse con las copias de las identificaciones oficiales de quienes los suscriben, así como de carta en donde el representante legal de la empresa manifieste bajo protesta de decir verdad, que dichos contratos se apegan a las disposiciones aplicables y que los datos y firmas contenidos en los mismos son verídicos.
 
 ###### ARTÍCULO 14.
 
@@ -256,15 +284,15 @@ Las taquillas deberán tener fácil acceso y letreros claramente visibles que in
 
 La empresa podrá enviar a las agencias de viajes que lo requieran, hasta 250 boletos en total de sol y sombra, para atender al turismo que visita la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 17.
 
-En caso de suspensión total o parcial de una temporada o corrida, la empresa está obligada a devolver a las personas que presenten su derecho de apartado o el boleto respectivo, la cantidad que señale la Delegación.
+En caso de suspensión total o parcial de una temporada o corrida la empresa está obligada a devolver a las personas que presenten su derecho de apartado o el boleto respectivo, el monto en dinero que corresponda a la parte proporcional no cumplida de la temporada o la corrida que se suspenda.
 
-En caso de incumplimiento de los compromisos contraídos al anunciar el elenco del derecho de apartado, la empresa, con aprobación de la Delegación, devolverá el importe correspondiente a la parte proporcional incumplida. La devolución se hará a partir del día siguiente de celebrado el festejo y durante un periodo de tres días hábiles.
+En caso de incumplimiento de los compromisos contraídos en el elenco del derecho de apartado, la empresa, previa resolución de la Delegación, devolverá el importe proporcional correspondiente a dicho incumplimiento durante los siguientes 30 días hábiles a la conclusión de la temporada autorizada en términos del artículo 43, fracción V, de la Ley.
 
-Igualmente, la empresa tendrá la obligación de devolver el importe íntegro del boleto cuando alguna persona no esté conforme con la alteración que sufra un cartel determinado. La devolución se hará dentro de las cuarenta y ocho horas siguientes a la celebración del festejo contra la simple entrega del boleto o contraseña respectiva.
-
-Si la corrida se suspende por cualquier causa, una vez muerto el primer toro, se devolverá la mitad del importe del boleto; muerto el segundo, no habrá lugar a devolución alguna.
+En el supuesto de incumplimiento de un festejo dentro de la temporada, la devolución del importe total del boleto de dicho evento se hará a partir del día hábil siguiente de la fecha programada para su celebración.
 
 ###### ARTÍCULO 18.
 
@@ -460,7 +488,11 @@ Cuando se trate de un mano a mano o festejo en el que actúen sólo dos espadas,
 
 XVIII. En las plazas de primera y segunda categorías se trazarán en el piso del redondel, con color blanco visible, dos círculos concéntricos, interrumpidos frente a la puerta de toriles, a una distancia de siete metros contados a partir de la barrera para el primer círculo y de nueve para el segundo. En las plazas de tercera categoría, salvo pacto en contrario, conforme a los usos y costumbres, y
 
-XIX. Cualquier innovación que se pretenda introducir en los espectáculos taurinos deberá ser estudiada y, en su caso, autorizada por el Jefe de Gobierno.
+XIX. Cualquier innovación que se pretenda introducir en los espectáculos taurinos deberá ser estudiada y, en su caso, autorizada por el Jefe de Gobierno;
+
+> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2004)</small>
+
+XX. Queda prohibida la publicidad de cualquier tipo en las pizarras de aviso al público, atuendos y avíos de los participantes, incluyendo muletas, banderillas, rejones y en todo instrumento que se localice dentro del ruedo.
 
 ### CAPÍTULO V. DE LAS GANADERÍAS
 
@@ -1100,21 +1132,43 @@ La contravención a las disposiciones de este Reglamento dará lugar a la imposi
 
 Sin perjuicio de la aplicación de las sanciones establecidas en la ley, se aplicarán las siguientes:
 
-I. Amonestación pública, que corresponde al Juez de Plaza, y
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2004)</small>
 
-II. Suspensión hasta por un año, que corresponde a la Delegación.
+I. Amonestación Pública, que corresponde al Juez de Plaza;
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2004)</small>
+
+II. Suspensión, que corresponde a la Delegación, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE FEBRERO DE 2004)</small>
+
+III. Sanción Económica, que corresponde a la Delegación.
 
 ###### ARTÍCULO 119.
 
 La amonestación pública procederá a juicio del Juez de Plaza cuando en el transcurso de la lidia cualquiera de los participantes infrinja lo dispuesto en los Capítulos VI, VII, IX o X del presente Reglamento, según sea el caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 120.
 
-La suspensión hasta por un año se aplicará a los lidiadores o cuadrillas que ofendan a la autoridad o a los espectadores o bien cuando su actuación provoque escándalo grave.
+La suspensión hasta por un año se aplicará a los lidiadores o cuadrillas que ofendan o desacaten a la autoridad, u ofendan a los espectadores o bien cuando su actuación provoque un escándalo grave.
 
 La persona que como espontáneo ingrese al ruedo y que sea miembro de alguna agrupación taurina, se le suspenderá por el término de un año el derecho de actuar en cualquier plaza del Distrito Federal y la Comisión hará las gestiones conducentes ante la agrupación taurina a que esté afiliado el espontáneo para que se le apliquen las sanciones previstas en el Estatuto de ella. Asimismo y para el caso de que, con motivo del ingreso al ruedo del espontáneo, algún ejecutante taurino que participe en el espectáculo resulte lesionado, el Inspector Autoridad hará del conocimiento de la autoridad investigadora tal circunstancia para los efectos legales a que haya lugar.
 
 En las infracciones de que trata este artículo, se podrá aplicar, además, la multa máxima prevista en la Ley.
+
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2004)</small>
+
+ARTÍCULO 120 BIS. De conformidad a lo previsto a los artículos 8, fracción VI y 75 de la Ley, la Delegación impondrá las siguientes sanciones económicas:
+
+I. El equivalente de hasta 50 veces el salario mínimo general vigente en el Distrito Federal, cuando se infrinja lo dispuesto en los artículos 53, 57, 61, 65, 66 y 74 del presente Reglamento;
+
+II. El equivalente de 50 a 100 veces el salario mínimo general vigente en el Distrito Federal, cuando se infrinja lo dispuesto en los artículos 70 y 76 del presente Reglamento;
+
+III. El equivalente de 100 a 200 veces el salario mínimo general vigente en el Distrito Federal, cuando se infrinja lo dispuesto en los artículos 61 y 70 del presente Reglamento; y
+
+IV. El equivalente de 200 a 400 veces el salario mínimo general vigente en el Distrito Federal, cuando se infrinja lo dispuesto en los artículos 54, 56, 57 y 120 del presente Reglamento.
 
 ###### ARTÍCULO 121.
 
@@ -1141,3 +1195,11 @@ QUINTO. El Jefe de Gobierno del Distrito Federal dispondrá de un término de qu
 SEXTO. Las menciones que en este Reglamento se efectúan al Jefe de Gobierno del Distrito Federal, se entenderán referidas al Jefe del Departamento del Distrito Federal, hasta en tanto entra en funciones aquél.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de mayo de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Óscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 26 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente en la Gaceta Oficial del Distrito Federal.
