@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "1994-11-30"
+last_updated: "2000-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2000.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -396,6 +396,14 @@ IX.- La promoción del mejoramiento de la nutrición;
 X.- La asistencia social a los grupos más vulnerables; y
 
 XI.- Las demás que establezca esta Ley y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+Los adultos mayores tendrán derecho a recibir atención médica especializada, preventiva, curativa y de rehabilitación en los hospitales y demás establecimientos asistenciales del estado.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+La Secretaría de Fomento Social, el Instituto Chihuahuense de Salud y el Organismo Servicios de Salud de Chihuahua, coordinarán sus esfuerzos con énfasis en la prevención y combate de las enfermedades crónico-degenerativas y demás propias de la edad avanzada.
 
 ###### ARTICULO 28.
 
@@ -2186,3 +2194,13 @@ P.O. 30 DE NOVIEMBRE DE 1994.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MAYO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, deberá expedir el reglamento correspondiente en un término de noventa días contados apartir (sic) del siguiente día en que se publique en el Periódico Oficial del Estado.
