@@ -4,7 +4,7 @@ identifier: "COL-ley-sobre-el-sistema-estatal-de-asistencia-social-de-colima-210
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-30"
-last_updated: "1986-08-30"
+last_updated: "2001-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de agosto de 1986.
 
@@ -453,77 +453,51 @@ IV.- Formulación de sugerencias para mejorar los servicios de asistencia social
 
 V.- Otras actividades que coadyuven a la protección de salud.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)</small>
+
 ### CAPITULO CUARTO
 
 DE LA ASISTENCIA PRIVADA.
 
 ###### ARTICULO 43o.
 
-La asistencia privada será aquella que presten las instituciones creadas con bienes de propiedad particular, desarrollando las acciones a que alude el Artículo tercero de esta Ley, como entidades con personalidad moral y capacidad para tener un patrimonio propio, destinado a la realización de estos fines, los que serán sin propósito de lucro y sin designar individualmente a los beneficiados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)
 
 ###### ARTICULO 44o.
 
-Las instituciones de asistencia privada, pueden ser fundaciones o asociaciones.
-
-Son fundaciones las personas morales que se constituyan mediante la afectación de bienes de propiedad privada destinados a la realización de asistencia.
-
-Son asociaciones las personas morales que por voluntad de las (sic) particulares se constituyen en los términos de esta Ley y cuyos miembros aporten cuotas periódicas para el sostenimiento de la Institución, sin perjuicio de que pueda pactar que los asociados contribuyan además con servicios personales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)
 
 ###### ARTICULO 45o.
 
-Cuando para satisfacer necesidades producidas por casos de desastre, se organicen asociaciones transitorias, estas se denominarán Juntas de Socorro de Asistencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)
 
 ###### ARTICULO 46o.
 
-Las instituciones de asistencia privada, no podrán aceptar o repudiar los bienes que se les asignen, sin la autorización previa de la Junta de Asistencia Privada. Pero en ningún caso se podrán adquirir más bienes raíces que los indispensables, de conformidad con la fracción tercera del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)
 
 ###### ARTICULO 47o.
 
-La constitución de las instituciones de asistencia privada, los estatutos que la regirán, sus funciones, los ingresos, los egresos y la contabilidad y administración en general, así como la representación de los fundadores, patrones, juntas o consejos, estará normado por el Código Civil vigente en la Entidad y por el reglamento que se expida sobre el particular, que además contemplará las disposiciones para la modificación y extinción de las Instituciones, y cuya vigilancia y cumplimiento se ejercerá por el Organismo a través de la Junta de Asistencia Privada.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)
 
 ###### ARTICULO 48o.
 
-La Junta de Asistencia Privada estará integrada por el Secretario de Salud y Bienestar Social, el Presidente del Patronato, el Director del Organismo y cuatro miembros más, designados entre personas de reconocida honorabilidad y solvencia moral, mexicanos por nacimiento y padres de familia. La designación de estos vocales será hecha por el Ejecutivo del Estado y de entre ellos al Presidente de la Junta.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)
 
 ###### ARTICULO 49o.
 
-Las personas nombradas para desempeñar el cargo de miembro de la Junta de Asistencia Privada, durarán en su encargo todo el tiempo que el Ejecutivo del Estado estime conveniente, y sólo podrán renunciar o separarse de sus cargos por causas graves justificadas a juicio del Ejecutivo Estatal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)
 
 ###### ARTICULO 50o.
 
-La Junta de Asistencia Privada celebrará sesiones cada mes y cuantas veces sea convocada por su Presidente, pudiéndose celebrar cuando concurran por lo menos cinco vocales y las determinaciones se tomarán por mayoría de votos de los miembros de la Junta, teniendo el Presidente voto de calidad en los casos de empate.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)
 
 ###### ARTICULO 51o.
 
-De todas las sesiones de la Junta se levantará un acta circunstanciada por cuenta de un Secretario que será elegido por la Junta cada año.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)
 
 ###### ARTICULO 52o.
 
-Son facultades de la Junta de Asistencia Privada:
-
-I.- Formar su reglamento interior que se someterá a la aprobación del Ejecutivo del Estado por conducto del organismo;
-
-II.- Prestar asesoría técnica y los apoyos conducentes a las instituciones de asistencia privada conforme lo determine el Organismo;
-
-III.- Hacer los estudios y formular los informes que le encomiende el Organismo así como presentar las propuestas que estime conveniente para la asistencia privada;
-
-IV.- Presentar anualmente al Organismo, un informe general de los trabajos realizados durante el año;
-
-V.- Promover la creación y ampliación de los servicios de asistencia, incrementado el número de asociaciones y grupos que presten la asistencia privada;
-
-VI.- Opinar sobre toda consulta que las autoridades, el Organismo o las instituciones le propongan en relación con la asistencia privada;
-
-VII.- Auxiliar a los Patronatos a la buena administración de los bienes de las Instituciones y vigilar que los capitales productivos de las mismas se impongan de acuerdo con la presente Ley y con los requisitos que establezcan sus estatutos;
-
-VIII.- Cuidar que los Patronatos cumplan con las disposiciones de esta Ley y los estatutos, así como de que se empleen los ingresos con estricto apego a lo que disponga el presupuesto de egresos debidamente aprobado por la Junta;
-
-IX.- Revisar los estatutos de las instituciones de asistencia privada, a fin de que los mismos se ajusten a la presente Ley y que no vayan en contra de la voluntad de los fundadores;
-
-X.- Vigilar el cumplimiento de las normas técnicas a que se deben sujetar todas las instituciones de asistencia privada;
-
-XI.- Comparecer y hacerse representar ante los tribunales y cualquier autoridad en defensa de su patrimonio o el de las instituciones de asistencia privada, cualquiera que sea el juicio o acciones por ejercitar en su calidad de actora, demandada o denunciante.
-
-La representación de la Junta o de las instituciones que regula la Junta, será hecha por persona designada para cada caso, acreditándose por oficio firmado por el Presidente y Secretario de actas de la Junta de Asistencia Privada.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA, P.O. 16 DE JUNIO DE 2001)
 
 ## TRANSITORIOS
 
@@ -544,3 +518,17 @@ Diputado Presidente, LIC. JOSE GILBERTO GARCIA NAVA.- Rúbirca (sic).- Diputado 
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Colima, a 27 de agosto de 1986.- El Gobernador Const. del Estado, LIC. ELIAS ZAMORA VERDUZCO.- Rúbrica.- EL Secretario, General de Gobierno, LIC. HECTOR DUEÑAS GONZALEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JUNIO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan el Capitulo Cuarto, denominado "De la Asistencia Privada", de la Ley sobre el Sistema Estatal de Asistencia Social de Colima, aprobada por el H. Congreso del Estado mediante Decreto no. 57 del 21 de agosto de 1986, publicado en el Periódico Oficial el 27 del mismo mes y año así como las demás disposiciones que se opongan al presente ordenamiento.
