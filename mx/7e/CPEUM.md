@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1980-06-09"
+last_updated: "1980-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1980.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1224,9 +1224,11 @@ IV.- Expedir convocatoria para elecciones extraordinarias, con el fin de cubrir 
 
 DE LA COMISION PERMANENTE.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1980)</small>
+
 ###### Art. 78.
 
-Durante el receso del Congreso habrá una Comisión Permanente compuesta de veintinueve miembros, de los que quince serán Diputados, y catorce Senadores, nombrados por sus respectivas Cámaras la víspera de la clausura de las sesiones.
+Durante el Receso del Congreso habrá una Comisión Permanente compuesta de 29 miembros, de los que 15 serán Diputados y 14 Senadores, nombrados por sus respectivas Cámaras la víspera de la Clausura de las Sesiones. Para cada titular las Cámaras nombrarán, de entre sus miembros en ejercicio, un substituto.
 
 ###### Art. 79.
 
@@ -3183,3 +3185,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 9 DE JUNIO DE 1980.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 1980.
+
+###### ARTICULO UNICO.
+
+Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
