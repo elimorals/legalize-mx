@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1973-12-23"
+last_updated: "1974-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1974.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -545,9 +545,9 @@ IX. Nombrar y remover libremente a sus empleados y concederles toda clase de lic
 
 X. Nombrar a las personas que formen las juntas reguladoras de jornales.
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1974)</small>
 
-XI. Formar los Presupuestos de Ingresos y Egresos correspondientes al siguiente año económico y remitirlos, para su aprobación, a la Legislatura, en los primeros diez días del mes de noviembre.
+XI. Formar los Presupuestos de Egresos correspondientes al siguiente año económico y remitirlos, para su aprobación, a la Legislatura, en los primeros diez días del mes de noviembre.
 
 XII. Formar sus cuerpos de policía y cuidar de ésta en sus diversos ramos.
 
@@ -743,7 +743,9 @@ XV. Premiar a los que hayan prestado eminentes servicios al Estado, a la Patria 
 
 XVI. Examinar y aprobar las cuentas municipales.
 
-XVII. Aprobar los presupuestos Municipales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1974)</small>
+
+XVII. Expedir anualmente la Ley de Ingresos para los Municipios del Estado, y aprobar sus respectivos Presupuestos de Egresos.
 
 XVIII. Crear y suprimir empleos y fijar sus dotaciones.
 
@@ -1237,7 +1239,7 @@ P.O. 11 DE MAYO DE 1944.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
 
-P.O. 3 DE JUNIO DE 1945.
+P. O. 3 DE JUNIO DE 1945.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
 
@@ -1257,7 +1259,7 @@ P.O. 23 DE JULIO DE 1959.
 
 Unico.- Este Decreto entrará en vigor, a partir del día de su publicación en el Periódico Oficial del Estado.
 
-P.O. 28 DE DICIEMBRE DE 1961.
+P. O. 28 DE DICIEMBRE DE 1961.
 
 ###### Artículo 1o.
 
@@ -1334,3 +1336,13 @@ P.O. 23 DE DICIEMBRE DE 1973.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1974.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones de las leyes secundarias que se opongan a las contenidas en este decreto.
