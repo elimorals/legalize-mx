@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1993-08-04"
+last_updated: "1994-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1994.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -177,37 +177,37 @@ Cuando alguna dependencia necesite informes, datos o la cooperación técnica de
 
 Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo del Estado contará con las siguientes dependencias:
 
-Secretaría de Gobierno
+Secretaría de Gobierno.
 
-Dirección General de Finanzas y Administración
+Dirección General de Finanzas y Administración.
 
-Dirección General de Fomento Económico
+Dirección General de Fomento Social.
 
-Dirección General de Desarrollo Social
+Dirección General de Fomento Económico.
 
-Dirección General de Comunicaciones y Obras Públicas
+Dirección General de Educación y Cultura.
 
-Dirección General de Desarrollo Urbano y Ecología
+Dirección General de Comunicaciones y Obras Públicas.
 
-Dirección General de Desarrollo Rural
+Dirección General de Desarrollo Urbano y Ecología.
 
-Procuraduría General de Justicia
+Dirección General de Desarrollo Rural.
 
-Adscritas directamente al Ejecutivo, existirán las siguientes unidades de apoyo y asesoría:
+Procuraduría General de Justicia.
 
-Coordinación de Planeación y Evaluación
+Adscritas directamente al Ejecutivo existirán las siguientes unidades de apoyo y asesoría:
 
-Coordinación de Fortalecimiento Municipal
+Coordinación de Planeación y Evaluación.
 
-Coordinación de Comunicación Social
+Coordinación de Fortalecimiento Municipal.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+Coordinación de Comunicación Social.
 
-Contraloría del Estado
+Contraloría del Estado.
 
 ### CAPITULO II. DE LA COMPETENCIA DE LA SECRETARIA DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA Y DIRECCIONES GENERALES
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 25.
 
@@ -309,9 +309,33 @@ XXV.- Dirigir y vigilar el cumplimiento de las Leyes y sus Reglamentos en relaci
 
 XXVI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 27.
 
-(DEROGADO, P.O. 21 DE JULIO DE 1993)
+A la Dirección General de Fomento Social corresponde el despacho de los siguientes asuntos:
+
+I.- Ejercer las funciones que en materia de Salubridad Pública correspondan al Estado;
+
+II.- Ejercer las funciones que al Estado señala la Ley General de Salud, así como las que sean descentralizadas por la Secretaría de Salud al Gobierno del Estado.
+
+III.- Planear, desarrollar, dirigir, vigilar y evaluar los servicios estatales de salud, deportivos y asistencia social;
+
+IV.- Coordinar el Sistema Estatal de Salud;
+
+V.- Organizar, coordinar y fomentar la enseñanza y la práctica extraescolar de los deportes;
+
+VI.- Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación en las tareas nacionales estableciendo para ello sistemas de servicios social, centros de estudio, programas de recreación y de atención a los problemas de la juventud;
+
+VII.- Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los indígenas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de las administraciones públicas federal, estatal, municipal, sectores social o privado, cuando así se requiera.
+
+VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de salud, de fomento deportivo y de asistencia social, así como vigilar la organización y funcionamiento de los organismos que ejerzan las atribuciones anteriores;
+
+IX.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este Artículo;
+
+X.- Otorgar a instituciones y particulares becas y subsidios para el deporte, conforme a los montos y límites previstos en el Presupuesto de Egresos y
+
+XI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -337,41 +361,43 @@ VIII.- Dirigir y vigilar el cumplimiento de las leyes, reglamentos y demás disp
 
 IX.- Las demás que le fijen expresamente las leyes y sus reglamentos.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 29.
 
-A la Dirección General de Desarrollo Social corresponde el despacho de los siguientes asuntos:
+A la Dirección General de Educación y Cultura corresponde el despacho de los siguientes asuntos:
 
-I.- Planear, desarrollar, dirigir y vigilar la educación a cargo de los gobiernos estatal y municipal y de los particulares incorporados al estado, en todos los tipos, niveles y modalidades;
+I.- Ejercer las funciones que al estado correspondan en materia educativa;
 
-II.- Coordinar los planes y programas de estudio de las instituciones de enseñanza estatal y municipal con los establecidos por la Secretaría de Educación Pública y ejecutar las acciones derivadas de los convenios de coordinación que en materia educativa celebre el Gobierno del Estado;
+II.- Planear, desarrollar, dirigir y vigilar a la educación a cargo de los Gobiernos Estatal y Municipal y de los particulares autorizados por el Estado, en todos los tipos de niveles y modalidades;
 
-III.- Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparte en el Estado, en los términos de la ley de la materia;
+III.- Coordinar los planes y programas de estudios de las instituciones de enseñanza estatales y municipales con los establecidos por la Secretaría de Educación Pública y ejecutar las acciones derivadas de los Convenios de Coordinación que en materia educativa celebre el Gobierno del Estado, así como ejercer las atribuciones que otorga al Estado la Ley General de Educación;
 
-IV.- Coordinar con las universidades e instituciones de educación superior lo relativo al servicio social de pasantes y demás aspectos educativos que se acuerden con ellas;
+IV.- Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparte en el estado, en los términos de Ley de la Materia;
 
-V.- Impulsar las actividades de difusión y fomento de la cultura;
+V.- Coordinar con las universidades e instituciones de educación superior lo relativo al servicio social de pasantes y demás aspectos educativos que se acuerden con ellas;
 
-> <small>(REFORMADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA, P.O. 19 DE ENERO DE 1991)</small>
+VI.- Impulsar actividades de difusión y fomento a la cultura;
 
-VI.- Coordinar y evaluar el funcionamiento de los organismos y entidades estatales dedicados a actividades culturales, deportivas y de recreación;
+VII.- Otorgar a instituciones y particulares becas y subsidios educativos y culturales, conforme a los montos y límites previstos en el Presupuesto de Egresos;
 
-VII.- Coordinar, organizar y fomentar la enseñanza y la práctica extraescolar de los deportes;
+VIII.- Coordinar y evaluar el funcionamiento de los organismos y entidades estatales dedicados a actividades culturales;
 
-VIII.- Otorgar becas y subsidios a las instituciones educativas, deportivas y culturales;
+IX.- Llevar un Registro de profesionistas que ejerzan en el Estado;
 
-IX.- Llevar el registro de los profesionistas que ejerzan en el Estado;
+X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones educativas y de fomento cultural, así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores;
 
-X.- Organizar y controlar los trabajos de servicio social;
+XI.- Organizar, coordinar y apoyar las actividades cívico-sociales, para fomentar el civismo y valores entre la población;
 
-XI.- Coordinar el sistema estatal de salud;
+XII.- Organizar y dirigir las actividades de los centros de cultura del estado en lo referente a teatros, bibliotecas y museos, entre otros;
 
-XII.- Ejercer las funciones que al Estado señala la Ley General de Salud, así como las que sean descentralizadas por la Secretaría de Salud al Gobierno del Estado,
+XIII.- Impulsar y apoyar obras materiales para fortalecer el patrimonio cultural;
 
-XIII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
+XIV.- Fomentar y apoyar las actividades relacionadas con la ciencia y tecnología;
 
-XIV.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones educativas, de salud y de fomento cultural y deportivo así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores; y
+XV.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este artículo, y
 
-XV.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+XVI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 ###### ARTICULO 30.
 
@@ -529,7 +555,7 @@ III.- Captar y compilar la información noticiosa publicada, que se relacione co
 
 IV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1992)</small>
 
 ARTICULO 36 BIS.- La Contraloría del Estado tiene las siguientes atribuciones:
 
@@ -750,3 +776,15 @@ El cambio de la "Contraloría" a "Contraloría del Estado", se hará incluyendo 
 ###### ARTICULO CUARTO.
 
 Los asuntos que atiende la Contraloría, continuarán en su trámite por la Contraloría del Estado.
+
+P.O. 29 DE ENERO DE 1994.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para organizar la estructura de la Dirección General de Educación y Cultura y de la Dirección General de Fomento Social y redistribuir las partidas del Presupuesto de Egresos que fueran asignados a la Dirección General de Desarrollo Social sin excederse del monto total autorizado para el presente Ejercicio Fiscal.
+
+TERCERO.- Se transfieren a la Dirección General de Educación y Cultura y a la Dirección General de Fomento Social según corresponda, los bienes muebles, documentos y, en general, archivos que tenían destinados para su servicio y manejo de la Dirección de Desarrollo Social.
+
+CUARTO.- El trámite de los asuntos iniciados ante la Dirección General de Desarrollo Social será continuado, según corresponda en razón de la materia, por la Dirección General de Educación y Cultura o por la Dirección General de Fomento Social.
+
+QUINTO.- Las funciones establecidas a cargo de la Dirección General de Desarrollo Social en la ley que se modifica mediante este Decreto o en cualquier otra Ley o reglamento así como en convenios o acuerdos celebrados con dependencias o entidades de la Administración Centralizada o Paraestatal o con Entidades de la Administraciión (sic) Pública Federal, serán asumidas según sea el caso y atendiendo a la materia, por la Dirección General de Educación y Cultura o por la Dirección General de Fomento Social, según corresponda.
