@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-3486"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-10-19"
-last_updated: "1993-08-31"
+last_updated: "1993-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de octubre de 1990.
 
@@ -503,13 +503,19 @@ II.- La omisión haya sido corregida por el contribuyente después de que las au
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de éstos.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 50.
 
-Sólo mediante acuerdo del Gobernador del Estado podrán condonarse, de manera general y en beneficio de una o varias categorías de contribuyentes, los impuestos, derechos, contribuciones especiales, productos o recargos previstos en las disposiciones fiscales, cuando concurran circunstancias de orden público o interés social, que a juicio del titular del Ejecutivo, así lo ameriten.
+El Ejecutivo del Estado, mediante resolución de carácter general podrá:
 
-No se otorgará condonación total ni parcial de impuestos, derechos, contribuciones especiales, productos o recargos a favor de una o más personas determinadas. Quien incumpla con esta disposición cubrirá de su peculio el importe de lo condonado, independientemente de que se apliquen las sanciones previstas en la ley.
+I.- Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del estado, una rama de actividad, la producción o venta de productos o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+
+II.- Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
+
+III.- Conceder subsidios o estímulos fiscales.
+
+Las resoluciones que conforme a este artículo dicte el ejecutivo estatal, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, y los requisitos que deban cumplirse por los beneficiados.
 
 ###### ARTICULO 51.
 
@@ -619,7 +625,13 @@ I.- El Gobernador del Estado;
 
 II.- El Secretario de Finanzas;
 
-III.- Los Titulares de las Unidades Administrativas de la Secretaría de Finanzas legalmente autorizadas, en los términos que establezca el Reglamento interior de la propia Dependencia.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+III.- El Director General de Ingresos de la Secretaría de Finanzas;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+IV.- Los titulares de las unidades administrativas de la Secretaría de Finanzas legalmente autorizados, en los términos que establezca el Reglamento Interior de la propia Dependencia.
 
 ###### ARTICULO 63.
 
@@ -1007,9 +1019,53 @@ XII.- Alterar o destruir los cordones, envolturas o sellos oficiales; y
 
 XIII.- Resistirse por cualquier medio a las visitas domiciliarias; no suministrar los datos e informes que legalmente puedan exigir los visitadores; no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal de los contribuyentes con quienes haya efectuado operaciones, en relación con el objeto de la visita.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+ARTICULO 94 BIS.- Las infracciones señaladas en los artículos 91, 92, 93 y 94 de este capítulo, se sancionarán con las siguientes multas:
+
+I.- De uno a diez salarios mínimos, en los casos contenidos en los artículos:
+
+91.- Fracciones llI, IV y XIl.
+
+92.- Fracción l;
+
+93.- Fracciones I, II, IV, V y IX;
+
+II.- De diez a sesenta salarios mínimos, en los casos contenidos en los artículos:
+
+91.- Fracciones V, VI, VIII y IX;
+
+92.- Fracciones II, III, IV, V y VIII;
+
+93.- Fracciones III, VI, VII, VIII, X y XI;
+
+94.- Fracciones l, II, V, VI, VII, VIII, X y XI;
+
+III.- De sesenta a cien salarios mínimos, en los casos contenidos en los artículos:
+
+91.- Fracciones X, XI y XIV;
+
+92.- Fracciones VI, VII y XII;
+
+94.- Fracciones III, IV, IX, XII y XIII;
+
+IV.- De cien a trescientos salarios mínimos, en los casos contenidos en los artículos:
+
+91.- Fracciones XIII y XV;
+
+92.- Fracciones IX, X y XI;
+
+V.- De cien a doscientos salarios mínimos, en los casos contenidos en el artículo 91, fracciones l, II y VII, cuando no pueda precisarse el monto de la prestación fiscal omitida; de lo contrario, la multa será de uno a tres tantos del importe de la prestación fiscal omitida.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+ARTICULO 94 TER.- A las personas físicas o morales en cuyos establecimientos se expendan bebidas alcohólicas sin contar con la licencia en vigor o debidamente refrendada, se les impondrá una multa por el equivalente a tres veces el salario mínimo vigente en la entidad elevado al año.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 95.
 
-Dentro de los límites fijados por las Leyes de Ingresos, las autoridades fiscales al imponer multas por la comisión de las infracciones señaladas en las leyes fiscales, deberán fundar y motivar su resolución y tener en cuenta lo siguiente:
+Las autoridades fiscales al imponer multas por la comisión de las infracciones señaladas en las leyes fiscales, deberán fundar y motivar su resolución y tener en cuenta lo siguiente:
 
 I.- Se considerará como agravante el hecho de que el infractor sea reincidente. Se da la reincidencia:
 
@@ -1031,7 +1087,7 @@ b).- En un 20% del monto de las contribuciones omitidas o del beneficio indebido
 
 ###### ARTICULO 96.
 
-El monto de la sanción correspondiente a cada una de las infracciones establecidas en los artículos 91 a 94 de este Código, lo será el que se establezca anualmente en la Ley de Ingresos del Estado.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 1993)
 
 ### CAPITULO SEGUNDO. DE LOS DELITOS FISCALES
 
@@ -1533,9 +1589,11 @@ IV.- Los impuestos, derechos, productos, contribuciones especiales y aprovechami
 
 V.- Los vencimientos ocurridos durante el procedimiento de ejecución fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 159.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indica.
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y morales estarán obligadas a pagar por concepto de gastos de ejecución lo que resulte mayor entre el 2% del crédito fiscal o el equivalente a dos días del salario mínimo vigente en la entidad, por cada una de las diligencias que a continuación se indica.
 
 I.- Por el requerimiento;
 
@@ -1788,3 +1846,13 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
