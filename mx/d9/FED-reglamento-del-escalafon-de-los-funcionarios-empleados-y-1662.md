@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-escalafon-de-los-funcionarios-empleados-y-1662"
 country: "mx"
 rank: "reglamento"
 publication_date: "1942-01-15"
-last_updated: "1942-01-15"
+last_updated: "1943-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1662&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ issue_date: "1942-01-15"
 
 REGLAMENTO DEL ESCALAFÓN DE LOS FUNCIONARIOS, EMPLEADOS Y TRABAJADORES QUE DEPENDEN DIRECTAMENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA APROBADA POR EL TRIBUNAL PLENO: 23 DE FEBRERO DE 1943.
 
 Reglamento expedido por el Pleno de la Suprema Corte de Justicia de la Nación, México, D.F., a 15 de enero de 1942.
 
@@ -440,19 +440,25 @@ La Comisión Mixta de Escalafón procederá desde luego a formar el Escalafón N
 
 El Escalafón Nominal así formado y aprobado por el Pleno de la Suprema Corte, servirá de b… (sic) para todos los movimientos de personal que se hagan en los casos de que ocurran vacantes, corriendo dicho escalafón en sentido ascendente de categorías.
 
+> <small>(REFORMADO, 23 DE FEBRERO DE 1943)</small>
+
 ###### Artículo 13.
 
-Las vacantes de empleos en la Rama de Abogados, se llenarán moviendo automáticamente el escalafón dentro de dicha Rama, sin otro requisito que la propuesta hecha al Pleno por la Comisión Mixta de Escalafón y la aprobación por parte del propio Pleno.
+Las vacantes de empleados en la Rama de Abogados se llenarán con los empleados de la categoría inmediata inferior que demuestren mayor competencia en un concurso de tésis escritas que resuelvan problemas concretos relativos a la actividad del empleo a que se aspire, tésis --- (sic) que se distribuirán por sorteo entre los concursantes y que se calificarán de conformidad con los términos de la convocatoria que al efecto expida el Presidente de la Suprema Corte. La Comisión de Escalafón hará la propuesta del caso, informando ampliamente al Pleno de la Corte sobre las particularidades del concurso y sobre los antecedentes y conducta (sic) oficiales de los concursantes.
+
+> <small>(REFORMADO, 23 DE FEBRERO DE 1943)</small>
 
 ###### Artículo 14.
 
-Las vacantes de los otros empleos se llenarán en su respectiva Rama, conforme a estas reglas:
+Las vacantes de los otros empleos se cubrirán en su respectiva Rama, conforme a estas reglas:
 
-A).- Al ocurrir la vacante, al Presidente de la Suprema Corte convocará al empleado o empleados de la categoría inmediata inferior, para que voluntariamente sustenten examen individual o colectivo de competencia, según los casos, ante un jurado compuesto de tres personas, que el propio Presidente nombrará.
+a).- Al ocurrir una vacante, el Presidente de la Suprema Corte convocará al empleado o empleados de la categoría inmediata inferior, para que voluntariamente sustenten examen individual o colectivo de competencia, según los casos, ante un jurado compuesto de tres personas, que el propio Presidente nombrará. En la misma forma se procederá con los empleados de las siguientes categorías inferiores de la Rama en que haya ocurrido la vacante, para hacer el movimiento escalafonario en la propia Rama, a fin de cubrir las sucesivas vacantes que resulten con motivo de la primera.
 
-B).- Si el resultado del examen es desfavorable al sustentante o sustentantes, lo mismo se procederá a examinar, en los términos de la regla anterior, el empleado o empleados de la categoría siguiente. En el caso de que este segundo examen tampoco sea favorable, el Pleno de la Corte nombrará a la persona que deba cubrir la vacante.
+b).- Si el resultado del examen es desfavorable al sustentante o sustentantes, lo mismo que cuando los empleados avocados no deseen ascender, se procederá a examinar, en los términos de la regla anterior, al empleado o empleados de la categoría siguiente. En el caso de que este segundo examen tampoco sea favorable el Pleno de la Corte nombrará a la persona que deba cubrir la vacante.
 
-C).- Las actas de los exámenes se turnarán a la Comisión Mixta de Escalafón, para que haga al Pleno las propuestas respectivas.
+c).- Los resultados de los exámenes que sustenten los empleados, regirán durante todo el semestre del año en que se efectúen, cualquiera que sea la fecha de su recepción, considerados tales semestres comprendidos: el primero entre el primero de enero y el treinta de junio y el segundo entre el primero de julio y el treinta y uno de diciembre. De conformidad con dichos resultados se formará una relación de precedencias de los empleados examinados en cada categoría, precedencia que será la que regirá durante el semestre, sólo por lo que se refiere a los datos de competencia.
+
+d).- Las actas de los exámenes se turnarán a la Comisión Mixta de Escalafón, para que haga al Pleno las propuestas respectivas.
 
 ###### Artículo 15.
 
@@ -466,11 +472,11 @@ El Presidente de la Corte señalará, de modo general o en cada caso, las materi
 
 Recibidos por la Comisión Mixta de Escalafón las actas de los exámenes de competencia, la propia Comisión hará al Pleno las propuestas respectivas, acompañándolos de un informe amplio y justificado acerca de la conducta que funcionarios, empleados o trabajadores, hayan observado de quienes estén evocados (sic) a los ascensos y de los datos relativos a su antigüedad.
 
+> <small>(REFORMADO, 23 DE FEBRERO DE 1943)</small>
+
 ###### Artículo 18.
 
-Los empleados no profesionales podrán pasar de la Rama en que están a otra cualquiera, para para (sic) lograrlo, deberán presentar examen de competencia en los términos de los artículos relativos de este Reglamento.
-
-Si el examen aprobatorio, la Comisión Mixta de Escalafón inscribirá al interesado en la categoría de empleos de la Rama a que desee pasar, que corresponda, por sueldo, al empleo que está desempeñando, y en el lugar que le toque por la antigüedad que tenga en éste último, a fin de tomarlo en cuenta para que sustente examen de competencia cuando se presente vacante en la nueva Rama.
+Los empleados profesionales que desempeñen puestos para los que se requiere título, y que desean pasar a la Rama de Abogados, sustentarán la prueba a que se refiere el artículo 13 de este Reglamento y se procederá con ellos en la misma forma establecida para los empleados no profesionales.
 
 ###### Artículo 19.
 
@@ -484,9 +490,11 @@ Mientras no se presente vacante en la Rama o Servicio a que quiera pasar el serv
 
 Hecho un movimiento de escalafón, el Pleno de la Suprema Corte nombrará a la persona que deba desempeñar el último empleo que quede vacante en cada Rama o Servicio.
 
+> <small>(REFORMADO, 23 DE FEBRERO DE 1943)</small>
+
 ###### Artículo 22.
 
-Tratándose de las vacantes de la última categoría de la Rama de Abogados, el Pleno de la Corte las cubrirá con los empleados de cualquiera de las Ramas de no profesionales que tenga, el título profesional respectivo. A falta de estos, las llenará libremente.
+Tratándose de las vacantes de las últimas categorías de la Rama de Abogados, y del Servicio Foráneo de Defensoría el Pleno de la orte (sic) las cubrirá con los empleados de cualquiera de las Ramas de no profesionales, que tengan el título profesional respectivo, siempre que demuestren su competencia en la forma que establece el artículo 13. Afalta (sic) de éstos, al Pleno las llenará libremente.
 
 ###### Artículo 23.
 
@@ -497,3 +505,11 @@ Los funcionarios empleados y trabajadores a que se refiere este Reglamento, cual
 UNICO.- Este Reglamento regirá a partir de la fecha de su expedición por el Pleno de la Suprema Corte de Justicia.
 
 México, D. F., a 15 de enero de 1942.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+23 DE FEBRERO DE 1943.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS Y ADICIONES AL REGLAMENTO DEL ESCALAFÓN DE LOS FUNCIONARIOS EMPLEADOS Y TRABAJADORES QUE DEPENDEN DIRECTAMENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, APROBADOS POR EL TRIBUNAL PLENO EL DÍA 23 DE FEBRERO DE 1943”.]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.]</small>
