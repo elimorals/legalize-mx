@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1998-11-28"
+last_updated: "2000-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2000.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -459,7 +459,9 @@ De las causas de exclusión del delito.
 
 I.- El hecho se realice sin intervención de la voluntad del agente;
 
-II.- Falte alguno de los elementos del tipo penal del delito de que se trate;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
+
+II. No se encuentra comprobado el cuerpo del delito;
 
 III.- Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
 
@@ -471,7 +473,13 @@ c).- Que el consentimiento sea expreso o tácito y sin que medie algún vicio; o
 
 IV.- Se repela una agresión real, actual o inminente, y sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
 
-Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trate de penetrar, sin derecho, al hogar del agente, al de su familia, a sus dependencias, o a los de cualquier persona que tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
+
+Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trate de penetrar sin derecho, al hogar del Agente, al de su familia, a sus dependencias, o a los de cualquier persona que tenga la obligación de defender o a los de vecinos, al sitio donde se encuentren bienes propios o ajenos, respecto de los que exista la misma obligación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE FEBRERO DE 2000)</small>
+
+También se presumirá legítima defensa cuando se trate de impedir o se impida la comisión de un delito a bordo de vehículos destinados al transporte público o privado; así mismo, cuando se produzca un daño en contra de quien esté obstaculizando un camino o carretera con el objeto de cometer un delito; y en general cuando se actúe contra quién se encuentre en algún lugar y en circunstancias tales que revelen la probabilidad de una agresión;
 
 V.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
 
@@ -479,7 +487,9 @@ VI.- La acción o la omisión se realicen en cumplimiento de un deber jurídico 
 
 VII.- Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el agente hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico siempre y cuando lo haya previsto o le fuera previsible;
 
-Cuando la capacidad a que se refiere el párrafo anterior, solo se encuentre considerablemente disminuida, se estará a lo dispuesto por el artículo 72 A de este Código;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
+
+Cuando la capacidad a que se refiere el párrafo anterior, sólo se encuentre considerablemente disminuida, se estará a lo dispuesto por el artículo 62 de este Código;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -927,13 +937,21 @@ XIII.- Publicación especial de sentencia;
 
 XIV.- Sujeción a la vigilancia de la Policía;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
 
-XV.- Tratamiento de inimputables, en internamiento o en libertad; y
+XV.- Tratamiento de inimputables, en internamiento o en libertad;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
 
-XVI.- Trabajo en favor de la comunidad.
+XVI.- Trabajo en favor de la comunidad;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2000)</small>
+
+XVII.- Arraigo domiciliario; y
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2000)</small>
+
+XVIII.- Prohibición de abandonar una demarcación geográfica sin autorización judicial.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1577,13 +1595,17 @@ I.- Respecto de las cosas decomisadas:
 
 a).- Si son de uso prohibido, nocivas o peligrosas ordenará su destrucción, salvo que estime conveniente conservarlas para fines de docencia o investigación;
 
-b).- Si las cosas no tienen las características señaladas en el inciso anterior, determinará su destino, según su utilidad, para beneficio de la administración de justicia;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
+
+b).- Si las cosas no tienen las características señaladas en el inciso anterior, determinará su destino, según su utilidad, para beneficio de la procuración o administración de justicia según corresponda;
 
 II.- Respecto de objetos o valores no decomisados en la sentencia, ordenará su entrega a quien acredite tener derecho a ellos, pero si éste no comparece en un lapso de noventa días a partir de la notificación personal que se le haga, se enajenará en subasta pública. Hecha esta se le notificará personalmente que el producto de la venta queda a su disposición por el plazo de seis meses, apercibido que de no presentarse, el producto de la venta se destinará al mejoramiento de la administración de justicia, previas las deducciones de los gastos ocasionados.
 
-III.- Respecto de bienes que no puedan conservarse o sean de costoso mantenimiento, durante la averiguación previa o el proceso, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien acredite tener derecho al mismo por un plazo de seis meses a partir de la notificación que se le haga, transcurrido el cual se depositará en la recaudación de rentas en caso de que la venta se hubiere verificado durante la averiguación previa, y en el Fondo para la Administración de Justicia si lo fue durante el proceso.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
 
-Cuando no se conozca la persona que tenga derecho a los objetos a que se refieren las fracciones II y III, la notificación se hará por medio de edictos que se publicarán por tres veces consecutivas de siete en siete días en el Periódico Oficial del Estado y por una vez en otro periódico de los de mayor circulación en el Estado.
+III.- Respecto de bienes que, durante la averiguación previa no puedan conservarse o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública según acuerdo del Procurador General de Justicia del Estado y el producto se dejará a disposición de quien acredite tener derecho al mismo por un plazo de seis meses contados a partir de la notificación que se le haga, transcurrido el cual, sino es recogido, se destinará al fondo para la procuración de justicia.
+
+Lo mismo se observará tratándose de objetos o valores a disposición de la autoridad judicial, con la circunstancia de que el producto de la venta se destinará al fondo para la administración de justicia.
 
 ###### Artículo 77.
 
@@ -2321,7 +2343,9 @@ a).- Cuando el sujeto activo fuere operador de un vehículo destinado al servici
 
 b).- Al que encontrándose en estado de ebriedad o bajo el influjo de alguna droga, causare más de un homicidio o concurra éste con lesiones previstas en los artículos 275 o 276;
 
-c).- A quien en estado de ebriedad o bajo el influjo de alguna droga, reitere la comisión del delito de homicidio o lesiones graves, en grado culposo.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
+
+c).- A quién en estado de ebriedad o bajo el influjo de alguna droga, reitere la comisión culposa de homicidio o lesiones graves.
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
@@ -4407,7 +4431,9 @@ Calumnia.
 
 I.- Al que impute a otro un hecho determinado y calificado como delito por la Ley, si este hecho es falso, o es inocente la persona a quien se impute;
 
-II.- Al que presente denuncia, quejas o acusaciones calumniosas, entendiéndose por tales, aquellas en que su autor impute un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido; y
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
+
+II.- Al que presente denuncia o quejas calumniosas, entendiéndose por tales, aquéllas en que su autor impute un delito o persona determinada sabiendo que ésta es inocente o que aquél no se ha cometido; y
 
 III.- Al que, para hacer que un inocente aparezca como autor de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
 
@@ -4507,15 +4533,25 @@ III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
 
 I.- Al que altere, modifique o cambie de cualquier forma los datos o partes de identificación de un vehículo, o de la documentación que lo identifique o acredite su propiedad;
 
-II.- El que omitiendo realizar los actos tendientes a verificar y obtener la constancia que acredite la legal procedencia de un vehículo y la autenticidad de sus documentos ante la Procuraduría General de Justicia del Estado, detente, posea, enajene o trafique de cualquier forma un vehículo robado; y
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
+
+II.- Al que enajene o trafique de cualquier forma un vehículo robado;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
 
 III.- Al que desmantele algún vehículo robado o comercialice conjunta o separadamente sus partes.
 
+> <small>(REFORMADO (N. DE E. REPUBLICADO], P.O. 26 DE FEBRERO DE 2000)</small>
+
 En el caso de que cualquiera de las conductas anteriores se realice sobre dos o más vehículos robados, la pena se incrementará de una tercera parte de la mínima hasta una tercera parte de la máxima aplicable.
 
-Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, investigación, persecución o sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión hasta en una mitad y se le inhabilitará para desempeñar cualquier empleo, cargo, o comisión públicos por un período de igual a la pena de prisión impuesta.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
 
-Si con alguna de las conductas previstas en este Artículo resulta la comisión de otro ilícito, se aplicarán las reglas del concurso de delitos.
+Si en los actos mencionados participara un servidor público que tenga a su cargo funciones de prevención, investigación, persecución o sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo se le aumentará la pena de prisión hasta en una mitad y se le inhabilitará para desempeñar cualquier empleo, cargos o comisión públicos por un período igual a la pena de prisión impuesta.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
+
+Si con alguna de las conductas prevista(sic) en este artículo resulta la comisión de otro ilícito, se aplicarán las reglas del concurso de delitos.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -5200,6 +5236,20 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
 
 TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 1998.
+
+DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTICULOS DEL CODIGO PENAL.
+
+PRIMERO.- El presente decreto entrará en vigor diez días después de su publicación en el periódico oficial.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
+
+P.O. 26 DE FEBRERO DE 2000.
+
+UNICO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
 
 ###### Artículo 10.
 
