@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1993-08-20"
+last_updated: "1993-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE AGOSTO DE 1993 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1993.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 23 DE AGOSTO DE 1993.</small>
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -498,8 +498,6 @@ La ley establecerá un órgano para la procuración de justicia agraria, y
 
 XX.- El Estado promoverá las condiciones para el desarrollo rural integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo nacional, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, considerándolas de interés público.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE AGOSTO DE 1993 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 ###### Art. 28.
@@ -520,9 +518,9 @@ El Estado contará con los organismos y empresas que requiera para el eficaz man
 
 El Estado tendrá un banco central que será autónomo en el ejercicio de sus funciones y en su administración. Su objetivo prioritario será procurar la estabilidad del poder adquisitivo de la moneda nacional, fortaleciendo con ello la rectoría del desarrollo nacional que corresponde al Estado. Ninguna autoridad podrá ordenar al banco conceder financiamiento.
 
-> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 1993)</small>
+(ADICIONADO, D.O.F. 20 DE AGOSTO DE 1993) (F. DE E., D.O.F. 23 DE AGOSTO DE 1993)
 
-No constituyen monopolios las funciones que el Estado ejerza de manera exclusiva, a través del banco central en las áreas estratégicas de acuñación de moneda y emisión de billetes. El banco central, en los términos que establezcan las leyes y con la intervención que corresponda a las autoridades competentes, regulará los cambios, así como la intermediación y los servicios financieros, contando con las atribuciones de autoridad necesarias para llevar a cabo dicha regulación y proveer a su observancia. La conducción del banco estará a cargo de personas cuya designación será hecha por el Presidente de la República con la aprobación de la Cámara de Senadores o de la Comisión Permanente, en su caso; desempeñarán su encargo por períodos cuya duración y escalonamiento provean al ejercicio autónomo de sus funciones; sólo podrán ser removidas por causa grave y no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en la representación del banco y de los no renumerados (sic) en asociaciones docentes, científicas, culturales o de beneficiencia (sic). Las personas encargadas de la conducción del banco central, podrán ser sujetos de juicio político conforme a lo dispuesto por el artículo 110 de esta Constitución.
+No constituyen monopolios las funciones que el Estado ejerza de manera exclusiva, a través del banco central en las áreas estratégicas de acuñación de moneda y emisión de billetes. El banco central, en los términos que establezcan las leyes y con la intervención que corresponda a las autoridades competentes, regulará los cambios, así como la intermediación y los servicios financieros, contando con las atribuciones de autoridad necesarias para llevar a cabo dicha regulación y proveer a su observancia. La conducción del banco estará a cargo de personas cuya designación será hecha por el Presidente de la República con la aprobación de la Cámara de Senadores o de la Comisión Permanente, en su caso; desempeñarán su encargo por períodos cuya duración y escalonamiento provean al ejercicio autónomo de sus funciones; sólo podrán ser removidas por causa grave y no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos que actúen en representación del banco y de los no remunerados en asociaciones docentes, científicas, culturales o de beneficiencia (sic). Las personas encargadas de la conducción del banco central, podrán ser sujetos de juicio político conforme a lo dispuesto por el artículo 110 de esta Constitución.
 
 No constituyen monopolios las asociaciones de trabajadores formadas para proteger sus propios intereses y las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan o que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo vigilancia o amparo del Gobierno Federal o de los Estados, y previa autorización que al efecto se obtenga de las legislaturas respectivas en cada caso. Las mismas Legislaturas, por sí o a propuesta del Ejecutivo podrán derogar, cuando así lo exijan las necesidades públicas, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
 
