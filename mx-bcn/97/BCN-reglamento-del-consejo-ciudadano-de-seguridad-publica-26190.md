@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-consejo-ciudadano-de-seguridad-publica-26190"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-11"
-last_updated: "1999-06-11"
+last_updated: "2002-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2002.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 11 de junio de 1999.
 
@@ -181,17 +181,21 @@ El Gobernador del Estado eligirá por insaculación a tres de los consejeros ciu
 
 El cabildo de cada uno de los municipios del Estado, elegirá por insaculación a un consejero ciudadano. Estos consejeros deberán de satisfacer los requisitos establecidos en el artículo 8 de este reglamento, además de ser residentes del Municipio respectivo.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2002)</small>
+
 ###### Artículo 11.
 
-El Titular del Poder Ejecutivo, para la designación de los consejeros ciudadanos a que hace referencia el primer párrafo del artículo que antecede, convocará públicamente de manera trianual, en el Periódico Oficial del Estado, y cuando menos en un diario de circulación estatal, dentro de los primeros 15 días naturales del mes de Enero del año correspondiente, a las asociaciones, organismos y agrupaciones e instituciones mencionadas en el artículo 8, fracción IX, de este reglamento, a efecto de que por escrito presenten sus propuestas y acrediten la satisfacción de los requisitos mencionados en el antedicho artículo.
+El Titular del Poder Ejecutivo, para la designación de los consejeros ciudadanos a que hace referencia el primer párrafo del Artículo que antecede, convocará públicamente de manera trianual, en el Periódico Oficial del Estado, y cuando menos en un diario de circulación estatal, dentro de los primeros 15 días naturales del mes de Julio del año correspondiente, a las asociaciones, organismos y agrupaciones e instituciones mencionadas en el Artículo 8 Fracción IX, de este reglamento, a efecto de que por escrito presenten sus propuestas y acrediten la satisfacción de los requisitos mencionados en el antedicho Artículo.
 
-El plazo para la presentación de propuestas será de treinta días naturales, contados a partir del día siguiente a aquel en que se lance la convocatoria.
+El plazo para la presentación de las propuestas será de 20 días naturales, contados a partir del día siguiente a aquel en que se lance la convocatoria.
 
 ###### Artículo 12.
 
 Los consejeros ciudadanos a que hace referencia el artículo 10, primer párrafo, de este reglamento, serán elegidos por insaculación por el Titular de Poder Ejecutivo, de entre las propuestas recibidas, dentro de los quince días naturales siguientes al vencimiento del plazo señalado en el segundo párrafo del artículo anterior. La insaculación se hará de tal forma que los electos no sean de un mismo género de asociación u organismo empresarial ó agrupación profesional.
 
-Los cabildos municipales elegirán a sus consejeros ciudadanos, a más tardar el primero de marzo del año que corresponda. De no efectuar tal elección en el plazo mencionado, la misma la realizará el Titular del Poder Ejecutivo Estatal, por insaculación, de entre las propuestas y en los términos a que alude en el primer párrafo de este artículo, y dentro de los cinco días naturales posteriores al primero de Marzo del año que corresponda.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2002)</small>
+
+Los cabildos municipales elegirán a sus consejeros ciudadanos, a más tardar el primero de agosto del año que corresponda para su integración. De no efectuar tal elección en el plazo mencionado, la misma la realizará el Titular del Poder Ejecutivo Estatal, por insaculación, de entre las propuestas y en los términos a que alude en el primer párrafo de este Artículo.
 
 ###### Artículo 13.
 
@@ -199,13 +203,15 @@ El Consejo deberá de instalarse con la totalidad de los consejeros dentro de lo
 
 Para la designación del secretario técnico, el Consejo presentará una terna al Gobernador del Estado, dentro de los cinco días hábiles siguientes a su instalación. El Ejecutivo deberá de efectuar tal designación, de entre los candidatos propuestos, dentro de los cinco días hábiles siguientes a la presentación de las propuestas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JULIO DE 2002)</small>
+
 ###### Artículo 14.
 
-Los Consejeros ciudadanos serán elegidos por un período de tres años, y podrán ser insaculados para un segundo período, siempre y cuando sean nuevamente propuestos por las asociaciones, organismos, agrupaciones, o instituciones mencionadas en el artículo 8, fracción IX, de este reglamento, y sigan satisfaciendo los requisitos que para ser electos establece este reglamento.
+Los Consejeros ciudadanos serán elegidos por un período de tres años, y no podrán ser reelectos, ni insaculados para un período inmediato posterior.
 
-El secretario técnico será designado por un período de tres años, y no estará impedido para ser nuevamente propuesto.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2002)</small>
 
-En ningún caso, los consejeros ciudadanos y el secretario técnico podrán permanecer más de seis años en el cargo para el cual fueron nombrados.
+El secretario técnico será designado por un período de tres años y no estará impedido para ser nuevamente propuesto, que en ningún caso podrá permanecer más de seis años en el cargo para el cual fue nombrado.
 
 El Consejero Presidente será electo de entre los consejeros ciudadanos, con la aprobación de las dos terceras partes de éstos, a más tardar el día de la instalación del Consejo.
 
@@ -482,3 +488,11 @@ LIC. ALEJANDRO GONZALEZ ALCOCER
 EL SECRETARIO DE GOBIERNO
 
 C.P. JORGE RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE JULIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Las presentes modificaciones al Reglamento de (sic) Consejo Ciudadano de Seguridad Pública entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
