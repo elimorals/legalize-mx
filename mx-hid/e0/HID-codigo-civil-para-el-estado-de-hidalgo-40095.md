@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "1940-10-08"
+last_updated: "1945-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1945.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -1125,7 +1125,7 @@ Los gastos que se hubieren causado para hacer efectivo el título, serán a carg
 
 ###### Art. 196.
 
-Son propios los bienes adquiridos por compra o permuta de las raíces que pertenezcan a los cónyuges, para adquirir otros también raíces que se sustituyan en lugar de los vendidos o permutados.
+Son propios los bienes adquiridos por compra o permuta de los raíces que pertenezcan a los cónyuges, para adquirir otros también raíces que se sustituyan en lugar de los vendidos o permutados.
 
 ###### Art. 197.
 
@@ -8331,6 +8331,8 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Ca
 
 De la Sucesión de la Beneficencia Pública del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1945)</small>
+
 ###### Art. 1616.
 
 La mujer con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
@@ -8357,7 +8359,7 @@ De las Precauciones que deben Adoptarse cuando la Viuda quede Encinta.
 
 ###### Art. 1617.
 
-A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Beneficencia Pública del Estado de Hidalgo. Esta norma se aplicará también respecto de bienes situados dentro del Estado de Hidalgo, aun cuando la sucesión se radique fuera del mismo Estado.
+A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Junta General de Asistencia del Estado de Hidalgo. Esta norma se aplicará también respecto de bienes situados dentro del Estado de Hidalgo, aunque la sucesión se radique fuera del mismo Estado. Todas las veces que la Ley Civil haga referencia a la Beneficencia Pública, deberá entenderse que se refiere a la Junta General de Asistencia del Estado de Hidalgo, que tiene funciones de Asistencia Pública y Privada.
 
 ###### Art. 1618.
 
@@ -15794,3 +15796,9 @@ Gobernador Constitucional del Estado.
 LIC. MANUEL YAÑEZ.
 
 Srio. Gral. de Gobierno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 1 DE ENERO DE 1945.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
