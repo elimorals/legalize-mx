@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1944-10-11"
+last_updated: "1946-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 1946.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -271,13 +271,17 @@ El cargo de Diputado es incompatible con cualquiera otra comisión o empleo de l
 
 De la instalación, duración y labores del Congreso.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
+
 ###### Art. 27.
 
-El Congreso se renovará en su totalidad cada dos años y comenzará a funcionar el día primero de abril posterior a las elecciones.
+El Congreso del Estado se renovará en su totalidad cada tres años y comenzará a funcionar el día 1° de diciembre inmediato posterior a la elección.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
 
 ###### Art. 28.
 
-Los ciudadanos a quienes las Juntas Computadoras de las Cabeceras de Distrito Electoral, expidan credenciales declarando que han tenido mayoría de votos para Diputados, de acuerdo con las disposiciones del Reglamento interior del Congreso y de la Ley Electoral respectiva, se intalarán (sic) en Colegio Electoral para calificar a la elección y declarar quienes son Diputados. Esta declaratoria y todos los demás actos del Congreso en funciones del Colegio Electoral, son irrevocables.
+Los ciudadanos a quienes los organismos expresamente facultados para ello en la Ley Electoral, expidan credenciales declarando que han obtenido mayoría de votos para Diputados de acuerdo con las disposiciones del Reglamento Interior del Congreso y de la citada Ley, se instalarán en Colegio Electoral para calificar la elección y declarar quienes son Diputados. Esta declaratoria y todos los demás actos del Congreso en funciones del Colegio Electoral son irrevocables.
 
 ###### Art. 29.
 
@@ -287,35 +291,49 @@ Si por cualquier circunstancia no hubiere Comisión Permanente al instalarse el 
 
 El Congreso no puede abrir sus sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse los días señalados por la Ley y compeler a los ausentes a que concurran bajo las penas que la misma Ley desige (sic), y en su caso llamar a los respectivos suplentes a fin de que funcionen mientras se presentan los propietarios.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
 
 ###### Art. 31.
 
-El Congreso tendrá cada año dos períodos de sesiones ordinarias, prorrogables por el tiempo que acuerde, en vista de la importancia de los asuntos pendientes de resolución. El primero comenzará el primero de abril y terminará el último de junio, y el segundo comenzará el primero de octubre y terminará el último de diciembre.
+El Congreso tendrá cada año un período de sesiones ordinarias y durará cuatro meses, comenzando el día 1° de diciembre.
 
-Fuera de los períodos que señala el párrafo anterior, el Congreso sólo celebrará Sesiones Extraordinarias cuando para ellas fuere convocado por el Ejecutivo o por la Diputación Permanente, ocupándose entonces de los asuntos para los cuales se hizo la Convocatoria.
+Fuera del período que señala el párrafo anterior, el Congreso solo celebrará sesiones extraordinarias cuando para ello fuere convocado por el Ejecutivo o por la Diputación Permanente, ocupándose entonces únicamente de los asuntos para los cuales se hizo la Convocatoria.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1946)</small>
 
 ###### Art. 32.
 
-Es deber de los Diputados, a lo menos una vez durante su Período Constitucional, visitar en los recesos del Congreso los pueblos del Distrito que representen para informarse:
+Es deber de los Diputados en ejercicio, a lo menos una vez al año, visitar en los recesos del Congreso, los pueblos del Distrito que representen para informarse:
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
 I.- Del estado o en que se encuentre la Educación Pública.
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
 II.- De cómo los Funcionarios y Empleados públicos cumplen con sus respectivas obligaciones.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
 III.- Del estado en que se encuentren la Industria, el Comercio, la Agricultura y la Minería.
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
 IV.- De los obstáculos que se opongan al adelantamiento y progreso del Distrito y de las medidas más apropiadas para promover ante quien corresponda los medios para favorecer el desarrollo de todos o algunos de los ramos de la riqueza pública.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
 Para que los Diputados puedan cumplir con lo dispuesto en las fracciones anteriores, las Oficinas Públicas les facilitarán todos los datos que pidieren a no ser que conforme a la Ley deban permanecer en secreto.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+
 Los Diputados, al abrirse el Período de Sesiones Ordinarias siguiente a la visita que hayan hecho a los pueblos que representan, presentarán al Congreso una Memoria que contenga las observaciones que hayan hecho, proponiendo a la vez las medidas que estimen conducentes para llenar el objeto que expresa la fracción IV de este artículo.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
 
 ###### Art. 33.
 
-El Gobernador del Estado asistirá a la apertura del primer período de sesiones de cada año y rendirá al Congreso un informe acerca del estado que guarden los diversos Ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
+El Gobernador del Estado asistirá a la apertura del período de sesiones de cada año y rendirá al Congreso un informe acerca del estado que guardan los diversos ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
 
 ###### Art. 34.
 
@@ -359,9 +377,11 @@ Toda Ley devuelta por el Ejecutivo, con observaciones, volverá a sujetarse a di
 
 Todo proyecto de Ley o Decreto que fuere desechado por el Congreso, no podrán volver a presentarse en el mismo período de sesiones.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
+
 ###### Art. 41.
 
-El Ejecutivo no podrá hacer observaciones al Decreto de Convocatoria que expida la Diputación permanente para sesiones extraordinarias, a los Acuerdos del Congreso y resoluciones que dictare para abrir, prorrogar o cerrar sus sesiones, ni a las que diere en funciones del Colegio Electoral o de Jurado en los casos que determina esta Constitución.
+El Ejecutivo no podrá hacer observaciones al Decreto de Convocatoria que expida la Diputación Permanente para sesiones extraordinarias, a los Acuerdos del Congreso y resoluciones que dictare para abrir o cerrar sus sesiones, ni a las que diere en funciones de Colegio Electoral o de Jurado en los casos que determina esta Constitución.
 
 ###### Art. 42.
 
@@ -389,7 +409,9 @@ VI. Convocar a elecciones de Ayuntamientos cuando fuere necesario, y resolver la
 
 VII. En caso de falta absoluta de un Ayuntamiento, nombrar tres personas que se hagan cargo provisionalmente del Municipio, mientras se hacen las nuevas elecciones y toman posesión de sus cargos los electos, o se resuelve acerca de las reclamaciones presentadas.
 
-VIII.- Examinar la cuenta general del Estado y de los Municipios en el primer período de sesiones ordinarias; y en el segundo, decretar los Presupuestos anuales de Ingresos y Egresos del Estado y de las Municipalidades, previa iniciativa del Ejecutivo y de los Ayuntamientos.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
+
+VIII. Examinar la cuenta general del Estado y de los Municipios y decretar las Leyes de Ingresos y Presupuestos de Egresos del Estado y de las Municipalidades, previa iniciativa del Ejecutivo y de los Ayuntamientos.
 
 IX. Condonar contribuciones.
 
@@ -417,7 +439,9 @@ XX. Calificar las elecciones de sus miembros y hacer la declaratoria correspondi
 
 XXI. Erigirse en Colegio Electoral para hacer el escrutinio y la declaración respecto a la elección de Gobernador del Estado y Senadores al Congreso de la Unión.
 
-XXII.- Elegir a los Magistrados del Tribunal Superior de Justicia, obrando como Colegio Electoral.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
+
+XXII.- Nombrar a los Magistrados del Tribunal Superior de Justicia a propuesta que haga el Ejecutivo del Estado.
 
 XXIII. Recibir la protesta de Ley a los Diputados, al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, a los substitutos y a los empleados que él nombrare.
 
@@ -455,7 +479,7 @@ XXXIX. Nombrar y remover libremente a los empleados dependientes de su Secretar�
 
 XL. Nombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación Permanente que ha de funcionar durante el receso del Congreso.
 
-XLI. Prorrogar sus sesiones ordinarias por el tiempo que juzgue pertinente.
+XLI. (DEROGADA, P.O. 16 DE OCTUBRE DE 1946)
 
 XLII. Formar su Reglamento interior.
 
@@ -611,11 +635,17 @@ XV. Conceder, conforme a las Leyes, indulto de pena ordinaria, reducción o conm
 
 XVI. Suplir el consentimiento paterno para el contrato civil del matrimonio en los casos de irracional disenso.
 
-XVII. Asistir a la apertura del primer período de sesiones ordinarias, informando por escrito sobre el Estado General que guarde la Administración Pública.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
 
-XVIII. Presentar en los primeros quince días del segundo período de sesiones ordinarias del Congreso, los proyectos de Presupuestos de Ingresos y Egresos que han de regir en el año siguiente.
+XVII.- Asistir a la apertura del período de sesiones ordinarias, informando por escrito sobre el estado general que guarde la Administración Pública.
 
-XIX. Cuidar de la recaudación e inversión de los caudales del Estado con arreglo a las Leyes, y remitir al Congreso la Cuenta general, en los primeros quince días del primer período de sesiones ordinarias.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
+
+XVIII.- Presentar al Congreso en los primeros quince días del mes de octubre, los proyectos de Ley de Ingresos y Presupuesto de Egresos que han de regir en el año siguiente.
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
+
+XIX.- Cuidar de la recaudación o inversión de los caudales del Estado con arreglo a las Leyes y remitir al Congreso la cuenta general en los primeros quince días del mes de abril de cada año.
 
 XX. Cuidar de la conservación del orden público, disponiendo al efecto de la fuerza armada del Estado y de la del Municipio donde resida habitual o transitoriamente.
 
@@ -623,7 +653,9 @@ XXI. Establecer y fomentar por todos los medios posibles la Educación Pública 
 
 XXII. Visitar todos los pueblos del Estado para conocer sus necesidades, remediar sus males y promover sus mejoras.
 
-XXIII. Los demás que le confiere la Ley.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
+
+XXIII.- Enviar al Congreso dentro de los diez días siguientes al en que tome posesión de su cargo, las propuestas para integrar el Tribunal Superior de Justicia.
 
 ### CAPITULO I.
 
@@ -637,9 +669,11 @@ El Ejercicio del Poder Judicial del Estado se Deposita en un Tribunal Superior d
 
 El Tribunal Superior de Justicia funcionará en Acuerdo Pleno o en Salas, con el número de Magistrados propietarios y suplentes que fije la Ley.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
+
 ###### Art. 62.
 
-Los Magistrados serán electos por el Congreso, constituido en Colegio Electoral, por mayoría absoluta de votos y en escrutinio secreto; y durará en su encargo cuatro años contados del primero de mayo posterior a su elección.
+Los Magistrados a propuesta del Ejecutivo, serán nombrados por el Congreso, por mayoría absoluta de votos y durarán en su encargo, seis años contados del 1° de febrero inmediato posterior a la fecha en que tome posesión el Gobernador.
 
 ###### Art. 63.
 
@@ -713,11 +747,11 @@ De los Municipios.
 
 Cada Municipio será administrado por un Ayuntamiento y no habrá ninguna Autoridad intermediaria entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1926)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
 
 ###### Art. 73.
 
-Los Ayuntamientos se compondrán de Munícipes nombrados cada dos años en elección popular directa, calificada por ellos mismos, en los términos que prescriba la Ley Electoral, y no podrán ser reelectos para el período inmediato al en que hubieren ejercido su encargo.
+Los Ayuntamientos se compondrán de Munícipes nombrados cada tres años en elección popular directa, calificada por ellos mismos, en los términos que prescriba la Ley Electoral, tomarán posesión el día 1° de enero posterior a la elección y no podrán ser reelectos para el período inmediato al en que hubieren ejercido su encargo.
 
 ###### Art. 74.
 
@@ -735,9 +769,11 @@ IV. No estar en servicio activo en el Ejército Federal ni tener mando de fuerza
 
 Los Municipios tienen personalidad jurídica para todos los efectos legales.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
+
 ###### Art. 76.
 
-Los Ayuntamientos administrarán libremente su hacienda, la cual se formará de las contribuciones que en cantidad suficiente para atender a sus necesidades les señalare la Legislatura, debiendo remitir a ésta sus cuentas a más tardar treinta días después de terminado el año, y en los primeros quince del segundo período de sesiones ordinarias, el Proyecto de Presupuesto de Ingresos y Egresos de su Municipio.
+Los Ayuntamientos administrarán libremente su hacienda, la cual se formará de las contribuciones que en cantidad suficiente para atender a sus necesidades les señalare la Legislatura, debiendo remitir a ésta, sus cuentas, a más tardar treinta días después de terminado el año y en los primeros quince días del mes de octubre, el proyecto de Presupuesto de Egresos de su Municipio.
 
 ###### Art. 77.
 
@@ -954,3 +990,23 @@ Las reformas que anteceden entrarán en vigor a partir del día primero de septi
 P.O. 11 DE OCTUBRE DE 1944.
 
 El presente Decreto surtirá sus efectos a partir de esta fecha.
+
+P.O. 16 DE OCTUBRE DE 1946.
+
+###### ARTICULO 1°.
+
+Estas reformas surtirán sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO 2°.
+
+Para el efecto de regularizar el ejercicio del Congreso, de acuerdo con las reformas anteriores, la próxima Legislatura comenzará a funcionar el día 1° de abril de 1947 y terminará su ejercicio el día 30 de Noviembre de 1950.
+
+En el próximo año de 1947, iniciará el 1° de Abril un período ordinario de sesiones de cuatro meses y otro el 1° de Diciembre también de cuatro meses, para ajustarse a lo dispuesto por el artículo 31 reformado de la Constitución Local.
+
+###### ARTICULO 3°.
+
+En el año de 1947, el C. Gobernador informará de su gestión en la apertura de cada uno de los períodos de sesiones ordinarias; el 1° de Abril y el 1° de Diciembre.
+
+###### ARTICULO 4°.
+
+El Congreso del Estado designará Magistrados en el año de 1949 para que funcionen del 1° de Mayo del mismo año hasta el 31 de Enero de 1951.
