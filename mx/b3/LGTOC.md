@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1984-01-13"
+last_updated: "1985-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -199,6 +199,14 @@ De los títulos nominativos
 ###### ARTICULO 23.
 
 Son títulos nominativos, los expedidos a favor de una persona cuyo nombre se consigna en el texto mismo del documento.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+En el caso de títulos nominativos que llevan adheridos cupones, se considerará que son cupones nominativos, cuando los mismos estén identificados y vinculados por su número, serie y demás datos con el título correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+Unicamente el legítimo propietario del título nominativo o su representante legal podrán ejercer, contra la entrega de los cupones correspondientes, los derechos patrimoniales que otorgue el título al cual estén adheridos.
 
 ###### ARTICULO 24.
 
@@ -1452,11 +1460,11 @@ Las sociedades anónimas pueden emitir obligaciones que representen la participa
 
 Las obligaciones serán bienes muebles aun cuando estén garantizadas con hipoteca.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 209.
 
-Las obligaciones serán nominativas y deberán emitirse en denominaciones de cien pesos o de sus múltiplos, excepto tratándose de obligaciones que se inscriban en la Comisión Nacional de Valores y se coloquen en el extranjero entre el gran público inversionista, en cuyo caso podrán emitirse al portador.
+Las obligaciones serán nominativas y deberán emitirse en denominaciones de cien pesos o de sus múltiplos, excepto tratándose de obligaciones que se inscriban en el Registro Nacional de Valores e Intermediarios y se coloquen en el extranjero entre el gran público inversionista, en cuyo caso podrán emitirse al portador. Los títulos de las obligaciones llevarán adheridos cupones.
 
 Las obligaciones darán a sus tenedores, dentro de cada serie, iguales derechos. Cualquier obligacionista podrá pedir la nulidad de la emisión hecha en contra de lo dispuesto en este párrafo.
 
@@ -1776,9 +1784,9 @@ ARTICULO 228 j.- Los certificados amortizables darán a sus tenedores, además d
 
 ARTICULO 228 k.- Tratándose de certificados de participación no amortizables, la sociedad emisora no está obligada a hacer pago del valor nominal de ellos a sus tenedores en ningún tiempo. Al extinguirse el fideicomiso base de la emisión y de acuerdo con las resoluciones de la asamblea general de tenedores de certificados, la sociedad emisora procederá a hacer la adjudicación y venta de los bienes fideicometidos (sic) y la distribución del producto neto de la misma, en los términos del artículo 228 a.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985) (F. DE E., D.O.F. 3 DE ABRIL DE 1985)
 
-ARTICULO 228 l.- Los certificados serán nominativos con cupones también nominativos y deberán emitirse por series, en denominaciones de cien pesos o de sus múltiplos.
+ARTICULO 228 l.- Los certificados serán nominativos, tendrán cupones y deberán emitirse por series, en denominaciones de cien pesos o de sus múltiplos.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
 
@@ -2963,6 +2971,16 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
+
+...
+
+D.O.F. 8 DE FEBRERO DE 1985.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor 90 días naturales después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones de carácter general vigentes, dictadas con anterioridad a la fecha en que entre en vigor este Decreto, seguirán observándose en lo que no se opongan al mismo.
 
 ...
 
