@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1981-12-30"
+last_updated: "1982-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 1982.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -73,6 +73,8 @@ V.- Valor Catastral, el que fija de cada predio la Tesorería General del Estado
 
 VI.- Son construcciones y mejoras que se destinan a la guarda del predio: bodegas para almacenaje de productos agrícolas e implementos, talleres, silos, presas, cercas, y casas habitación para trabajadores y campesinos, establos, comedores, y en general las que tiendan a incrementar y facilitar la productividad del mismo.
 
+> <small>N. DE E. POR DECRETO No. 178 ES DEROGADO EL DECRETO No. 127, Y POR CONSIGUIENTE LOS ARTICULOS REFORMADOS QUEDAN INTACTOS.</small>
+
 DE LOS SUJETOS
 
 ###### ARTICULO 3o.
@@ -111,6 +113,8 @@ a).- Los empleados de la Tesorería General del Estado y de las Oficinas Fiscale
 
 DE LA BASE
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1982. DECRETO No. 178)</small>
+
 ###### ARTICULO 4o.
 
 La base del impuesto será el valor catastral de los predios urbanos, suburbanos, sus construcciones, mejoras materiales e inversiones y en los predios rústicos, el valor catastral del terreno y de las construcciones y mejoras, siempre que estas no se destinen a su guarda. El valor catastral se determinará de conformidad con lo que dispone la Sección II de este capítulo.
@@ -147,9 +151,13 @@ El valor catastral que resulte de la aplicación de las Tarifas de Valores Catas
 
 DE LA TASA
 
+> <small>N. DE E. POR DECRETO No. 178 ES DEROGADO EL DECRETO No. 127, Y POR CONSIGUIENTE LOS ARTICULOS REFORMADOS QUEDAN INTACTOS.</small>
+
 ###### ARTICULO 7o.
 
 VEASE TABLA ANEXA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 1982. DECRETO No. 178)</small>
 
 ###### ARTICULO 8o.
 
@@ -172,6 +180,8 @@ I.- La base por año no podrá ser menor de $ 6.00 bimestrales en los Municipios
 II.- Para el resto de los Municipios, la base por año no podrá ser menor de $ 8.00 bimestrales.
 
 DEL PAGO
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1982. DECRETO No. 178)</small>
 
 ###### ARTICULO 10o.
 
@@ -245,7 +255,7 @@ Las manifestaciones de alta y los avisos de baja deberán hacerse en las formas 
 
 Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos respectivos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomarán en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
+Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
@@ -271,7 +281,7 @@ La Dirección General de Obras y Servicios Públicos del Estado y las Direccione
 
 ###### ARTICULO 29o.
 
-Las comunicaciones a que se refiere el artículo anterior, se harán por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
+Las comunicaciones a que se refiere el artículo anterior, se hará por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
 
 DE LAS EXENCIONES
 
@@ -310,6 +320,8 @@ Catastro es el censo analítico de la propiedad raíz ubicada en el territorio d
 ###### ARTICULO 33o.
 
 El Catastro tiene por objeto: lograr el conocimiento exacto de las características de la propiedad raíz mediante su descripción, localización y valuación, mediante la formación y conservación de registros catastrales que permitan su uso como medio para obtener, a través de él los elementos técnicos, estadísticos, fiscales, económicos, jurídicos y sociales que los constituyen.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1982. DECRETO No. 178)</small>
 
 ###### ARTICULO 34o.
 
@@ -2761,7 +2773,7 @@ IX.- En los casos en que los servicios que preste el Registro Público de la Pro
 
 No se causarán los derechos a que se refieren los Artículos 263 y 266, en los siguientes casos:
 
-I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios cuando dichas Entidades las soliciten.
+I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios; cuando dichas Entidades las soliciten.
 
 II.- Las certificaciones o informes que soliciten el Gobierno Federal, el del Estado o los Municipios, cuando el pago de los derechos no correspondan a particulares.
 
@@ -3060,3 +3072,21 @@ PRIMERO.- Las obligaciones derivadas de los artículos que se reforman o derogan
 SEGUNDO.- Tratándose de los contratos de promesa a que se refiere el Artículo 98, fracción III, de la Ley de Hacienda, celebrados con anterioridad al 1º. de enero de 1982, causarán el impuesto establecido en el Capítulo II, Título I, del citado ordenamiento, al celebrarse el contrato prometido.
 
 TERCERO.- El presente decreto surtirá sus efectos a partir del 1º. de enero de 1982.
+
+P.O. 3 DE ABRIL DE 1982
+
+DECRETO No. 127
+
+UNICO.- El presente Decreto entrará en vigor el 1º. de enero de 1982.
+
+P.O. 3 DE ABRIL DE 1982
+
+DECRETO No. 178
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto surtirá retroactivamente sus efectos a partir del primero de enero de mil novecientos ochenta y dos, fecha en la que iniciará su vigencia.
+
+###### ARTICULO SEGUNDO.
+
+Para conocimiento y aplicación, publíquese este Decreto en el Periódico Oficial del Estado.
