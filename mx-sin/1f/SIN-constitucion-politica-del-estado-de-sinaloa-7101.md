@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1989-08-11"
+last_updated: "1990-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1990.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -437,13 +437,13 @@ VI. Ratificar los arreglos concertados entre las Municipalidades con motivo de l
 
 VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, siendo necesario para el efecto:
 
-A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
+(A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
 
-(B.) Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
+(B). Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
 
-C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
+(C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
 
-(D.) Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
+(D). Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -971,7 +971,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1990)</small>
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
@@ -1011,7 +1011,7 @@ Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenuncia
 
 ###### Art. 94.
 
-El Supremo Tribunal de Justicia se compondrá de 10 magistrados Propietarios y funcionará en pleno y dividido en tres salas, integrada cada una de éstas por 3 magistrados. Uno de los Magistrados, quien no integrará las Salas, será el Presidente del Supremo Tribunal. Habrá además 5 magistrados suplentes, quienes sólo integrarán el pleno o las salas cuando substituyan a un Magistrado Propietario.
+El Supremo Tribunal de Justicia se compondrá de once Magistrados Propietarios y funcionará en Pleno y dividido en cuatro Salas. Una de las Salas será unitaria, y las otras se integrarán por tres Magistrados cada una. Uno de los Magistrados, quien no integrará las Salas será el Presidente del Supremo Tribunal. Habrá además cinco Magistrados Suplentes, quienes sólo integrarán el Pleno o las Salas cuando substituyan a un Magistrado Propietario.
 
 Los Magistrados del Supremo Tribunal serán electos por el Congreso o por la Diputación Permanente, de una terna que le presente el Consejo de la Judicatura. La elección se hará en escrutinio secreto.
 
@@ -2397,105 +2397,17 @@ P.O. 11 DE AGOSTO DE 1989.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "EL ESTADO DE SINALOA".
 
-###### ARTÍCULO PRIMERO.
+P.O. 22 DE ENERO DE 1990.
 
-Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+###### ARTICULO PRIMERO.
 
-###### ARTÍCULO SEGUNDO.
+Mientras se instale la Cuarta Sala el Supremo Tribunal de Justicia seguirá compuesto de diez Magistrados Propietarios y continuará funcionando en Pleno y dividido en tres Salas como lo ha venido haciendo hasta la fecha.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+Los asuntos de la competencia familiar que al día de la instalación de la Cuarta Sala se encuentren en las otras Salas, continuará en éstas hasta su conclusión.
 
-G.G. 27 DE JUNIO DE 2014.
+###### ARTICULO SEGUNDO.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
-
-G.G. 28 DE JUNIO DE 2014.
-
-PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
-
-TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
-
-CUARTO. El personal del Instituto Electoral del Estado de México, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
-
-QUINTO. Los servidores del Instituto Electoral del Estado de México que sean incorporados al Servicio Profesional Electoral Nacional estarán sujetos a las determinaciones que en su momento expida el Instituto Nacional Electoral.
-
-SEXTO. El Consejo General del Instituto Electoral del Estado de México deberá adecuar sus documentos y demás reglamentación interna a lo previsto en este Decreto y en las demás disposiciones legales aplicables, a más tardar a los 90 días posteriores a la entrada en vigor del presente Decreto, salvo los plazos que establezcan otras disposiciones.
-
-SÉPTIMO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con los partidos políticos, así como de sus militantes o simpatizantes, que el Instituto Electoral Estado de México y el Tribunal Electoral del Estado de México hayan iniciado o se encuentren en trámite a la entrada en vigor de este Decreto, se seguirán atendiendo de conformidad con las disposiciones jurídicas y administrativas que hayan estado vigentes al momento de su inicio.
-
-OCTAVO. El Ejecutivo del Estado y la Legislatura Local proveerán lo necesario para la ampliación del Presupuesto de Egresos del ejercicio fiscal corriente, en la esfera de su competencia, para el exacto cumplimiento de este Decreto.
-
-NOVENO. Se abroga la Ley Reglamentaria del Artículo 14 de la Constitución Política del Estado Libre y Soberano de México, publicada el 30 de agosto de 1995 en el periódico oficial "Gaceta del Gobierno".
-
-DÉCIMO. Se abroga el Código Electoral del Estado de México, publicado el 2 de marzo de 1996 en el periódico oficial "Gaceta del Gobierno".
-
-DÉCIMO PRIMERO. Las averiguaciones previas, carpetas administrativas, procesos, recursos y sentencias que se refieran a hechos ocurridos antes de la entrada en vigor del presente Decreto, se sujetarán hasta su conclusión definitiva, a las disposiciones legales vigentes a la fecha en que acontecieron los hechos.
-
-DÉCIMO SEGUNDO. En tanto se expida la Ley en materia de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución Federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma contraviene a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables. El titular del derecho de réplica deberá agotar primeramente la instancia ante el medio de comunicación respectivo, o demostrar que lo solicitó a su favor y le fue negado. Las autoridades electorales deberán velar oportunamente por la efectividad del derecho de réplica durante los procesos electorales, y en caso de ser necesario deberá instaurar el procedimiento especial sancionador previsto en el Código Electoral del Estado de México.
-
-DÉCIMO TERCERO. Se dejan sin efecto las disposiciones de igualo menor jerarquía que se opongan a este Decreto.
-
-DÉCIMO CUARTO. La estructura, personal, recursos administrativos y financieros del Órgano Técnico de Fiscalización del Instituto Electoral del Estado de México formarán parte de la Unidad Técnica de Fiscalización del mismo, a partir de la entrada en vigor del presente Decreto.
-
-DÉCIMO QUINTO. El Procurador General deberá nombrar al Titular de la Fiscalía Especializada en Materia de Delitos Electorales de la Procuraduría General de Justicia del Estado de México, dentro los treinta días siguientes, contados a partir de la entrada en vigor del presente Decreto, mediante el acuerdo correspondiente.
-
-Los servidores públicos adscritos a la fiscalía mencionada conocerán de manera exclusiva de las carpetas investigación relacionadas con delitos electorales.
-
-Los Servidores Públicos adscritos a la Fiscalía Especializada en Materia de Delitos Electorales deberán regirse por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos fijados por las Leyes.
-
-Para el próximo ejercicio fiscal, la Legislatura proveerá la partida presupuestal para que la fiscalía citada cuente los elementos materiales y humanos que permitan su adecuado funcionamiento.
-
-El Fiscal especializado en Materia de Delitos Electorales deberá rendir un informe a la Legislatura del Estado a los noventa días siguientes de concluido el proceso electoral para el período constitucional 2015-2018.
-
-Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia Delitos Electorales y de los servidores públicos adscritos a ella recaigan en las personas que garanticen los principios enunciados en este artículo.
-
-DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las funciones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
-
-DÉCIMO SÉPTIMO. Por única ocasión los procesos electorales ordinarios locales correspondientes a las elecciones que tendrán lugar el primer domingo de junio del año 2015, el proceso electoral iniciará en la primera semana del mes de octubre de 2014.
-
-G.G. 16 DE OCTUBRE DE 2014.
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 23 DE OCTUBRE DE 2014.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 28 DE NOVIEMBRE DE 2014.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-> <small>(F. DE E. G.G. 19 DE DICIEMBRE DE 2014)</small>
-
-SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales en el Estado de México; con excepción de las reformas y adiciones a diversas disposiciones del Código Penal del Estado de México, en materia de operaciones con recursos de procedencia ilícita, las cuales entrarán en vigor a los treinta días posteriores a la publicación del presente Decreto.
-
-TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
-
-CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
-
-QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
-
-G.G. 15 DE DICIEMBRE DE 2014.
-
-DECRETO NÚMERO 346, POR EL QUE SE REFORMAN LOS ARTÍCULOS 58 PÁRRAFO CUARTO, 69 PÁRRAFO PRIMERO, 217 FRACCIÓN III, 218 PÁRRAFO PRIMERO, Y 238 FRACCIONES VII Y VIII DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
-
-SEGUNDO. El presente Decreto entrará en vigor a los cinco días siguientes al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
-
-G.G. 15 DE DICIEMBRE DE 2014.
-
-DECRETO NÚMERO 347, POR EL QUE SE REFORMA EL ARTÍCULO 268 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
