@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1989-10-31"
+last_updated: "1991-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1991.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -326,9 +326,11 @@ Cuando haya temor fundado de que el obligado a la reparación del daño oculte o
 
 Para que el juez pueda dictar el embargo precautorio, bastará la petición relativa y la prueba de la necesidad de la medida. A menos que el acusado otorgue fianza suficiente, a juicio del juez, éste decretará el embargo bajo su responsabilidad.
 
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 36.
 
-En las causas en que se encuentre agotada la averiguación correspondiente, y no existan méritos bastantes conforme al artículo 16 Constitucional para la aprehensión del acusado, el juez decretará la cesación del procedimiento a petición del Ministerio Público y mandará archivar lo actuado.
+Cuando se encuentre agotada la averiguación correspondiente y no se reúnan los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos para decretar la aprehensión del inculpado, el juez, de oficio o a petición del Ministerio Público, decretará la cesación del procedimiento y mandará archivar el expediente.
 
 ###### ARTICULO 37.
 
@@ -466,6 +468,22 @@ Todas las audiencias serán públicas, pudiendo entrar libremente a ellas todos 
 
 En los casos en que se trate de un delito contra la moral o cuando en el proceso sea ésta atacada, la audiencia tendrá lugar a puerta cerrada, sin que puedan entrar al lugar en que se celebre más que las personas que intervienen oficialmente en ella
 
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
+Las audiencias se llevarán a cabo, concurran o no las partes salvo el Ministerio Público, que no podrá dejar de asistir a ellas. En la diligencia de declaración preparatoria comparecerá el inculpado asistido de su defensor y en su caso, la persona de su confianza que el inculpado pueda designar, sin que esto último implique exigencia procesal.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
+En la audiencia final del juicio también será obligatoria la presencia del defensor quien podrá hacer la defensa oral del acusado, sin perjuicio del alegato escrito que quiera presentar.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
+En el supuesto a que se refiere el artículo 183 de este Código no podrán llevarse a cabo las audiencias en que deba participar el inculpado sin el traductor a que dicho precepto se refiere.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
+No podrá consignarse a ninguna persona, si existe como única prueba la confesión. La Policía Judicial podrá rendir informes, pero no obtener confesiones; si lo hace, éstas carecerán de todo valor probatorio.
+
 ###### ARTICULO 60.
 
 Todos los que asistan a la audiencia estarán con la cabeza descubierta, con respeto y en silencio, quedando prohibido dar señales de aprobación o desaprobación y externar o manifestar opiniones sobre la culpabilidad o inocencia del acusado, sobre las pruebas que rindan o sobre la conducta de algunos de los que intervienen en el juicio. El transgresor será amonestado; si reincidiere, se le expulsará del local donde la audiencia se celebre, y si se resiste a salir o vuelve al lugar, se le impondrá como corrección disciplinaria multa hasta de doscientos pesos.
@@ -546,7 +564,9 @@ Las sentencias contendrán:
 
 I. El lugar en que se pronuncien;
 
-II. Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el lugar de su nacimiento, su edad, su estado civil, su residencia o domicilio y su profesión;
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1991)</small>
+
+II. Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el lugar de su nacimiento, nacionalidad, edad, estado civil, en su caso, el grupo étnico indígena al que pertenezca, idioma, residencia o domicilio, ocupación oficio o profesión;
 
 III. Un extracto breve de los hechos exclusivamente conducentes a los puntos resolutivos de la sentencia;
 
@@ -604,9 +624,11 @@ Todas las personas que por algún motivo legal intervengan en un proceso, deber�
 
 Si no cumplieren con esta prevención, las notificaciones, citaciones, requerimientos o emplazamientos se tendrán por bien hechos por publicación en lugar visible del tribunal, sin perjuicio de las medidas que éste tome para que pueda llevarse adelante el procedimiento.
 
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 83.
 
-Los funcionarios a quienes la ley encomiende hacer las notificaciones, las practicarán personalmente, asentando el día y hora en que se verifiquen, leyendo íntegra la resolución al notificarla, y dando copia al interesado, si la pidiere.
+Los funcionarios a quienes la ley encomiende hacer las notificaciones, las practicarán personalmente, asentando el día y hora en que se verifiquen, leyendo íntegra la resolución al notificarla, y asistiéndose del traductor si la persona por notificarse no habla o no entiende suficientemente el idioma castellano. Se dará copia de la resolución al interesado, si la pidiere.
 
 ###### ARTICULO 84.
 
@@ -784,23 +806,27 @@ En todos los casos de robo, el cuerpo del delito se justificará por alguno de l
 
 I.- Por la comprobación de los elementos materiales del delito;
 
-II.- Por la confesión del indiciado, aún cuando se ignore quien es el dueño de la cosa, materia del delito
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1991)</small>
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+II.- Por la prueba de que el acusado ha tenido en su poder alguna cosa que, por sus circunstancias personales, no hubiere podido adquirir legítimamente, si no justifica su procedencia;
 
-III.- Por la prueba de que el acusado ha tenido en su poder alguna cosa que, por sus circunstancias personales, no hubiere podido adquirir legítimamente, si no justifica su procedencia;
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1991)</small>
 
-IV.- Por la prueba de la preexistencia, propiedad y falta posterior de la cosa, materia del delito; y
+III.- Por la prueba de la preexistencia, propiedad y falta posterior de la cosa materia del delito; y
 
-V.- Por la prueba de que la persona ofendida se hallaba en situación de poseer la cosa, materia del delito; que disfruta de buena opinión y que hizo alguna gestión judicial o extrajudicial, para recobrar la cosa robada.
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1991)</small>
 
-Estas pruebas serán preferidas en el orden numérico en que se están colocadas, aceptándose las posteriores solo a falta de las anteriores.
+IV.- Por la prueba de que la persona ofendida se halla en situación de poseer la cosa materia del delito, que disfruta de buena opinión y que hizo alguna gestión judicial o extrajudicial para recobrar la cosa robada.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
+Estas pruebas serán referidas en el orden numérico en que están colocadas, aceptándose las posteriores sólo a falta de las anteriores.
+
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 116.
 
-El cuerpo del delito en el fraude, abuso de confianza y peculado, se comprobará por cualquiera de los medios expresados en las fraccines(sic) I y II del artículo anterior, observándose lo que dispone su inciso final. Además para el delito de peculado es necesario que se demuestren, por cualquier medio de prueba, los requisitos que acerca del sujeto activo prevenga la ley penal.
+El cuerpo del delito en el fraude, abuso de confianza y peculado, se comprobará por el medio expresado en la fracción I del artículo anterior, observándose lo que dispone su párrafo final. Además para el delito de peculado es necesario que se demuestren, por cualquier medio de prueba, los requisitos que acerca del sujeto activo prevenga la ley penal.
 
 ###### ARTICULO 117.
 
@@ -886,6 +912,10 @@ I. Que el Ministerio Público haya solicitado la detención; y
 
 II. Que se reúnan los requisitos fijados por el artículo 16 de la Constitución Federal.
 
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
+Queda prohibido detener a cualquier persona, sin orden de aprehensión librada por tribunal competente, excepto cuando se trate de delito flagrante o de casos urgentes en que no haya en el lugar alguna autoridad judicial, tratándose de delitos que se persiguen de oficio, conforme a lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos. Sólo el Ministerio Público puede, con sujeción a este precepto, determinar qué personas quedarán en calidad de detenidas, sin perjuicio de las facultades que correspondan al juez o tribunal de la causa. La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario de policía judicial que decrete la detención. La persona detenida en contravención a lo previsto en este artículo será puesta inmediatamente en libertad.
+
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 133.
@@ -899,6 +929,10 @@ La orden de comparecencia y la de detención a que se refiere el precepto anteri
 ###### ARTICULO 134.
 
 Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, quien la hubiere ejecutado deberá poner al aprehendido, sin demora alguna, a disposición del tribunal respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó, y dando a conocer al aprehendido el derecho que tiene para designar defensor.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
+En caso de que la detención de una persona exceda los términos señalados en los artículos 16 y 107 fracción XVIII, de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que estuvo incomunicada y las declaraciones que haya emitido el detenido no tendrán validez.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -920,11 +954,15 @@ Los detenidos, desde el momento de su aprehensión, podrán nombrar abogado o pe
 
 ### CAPITULO V. Confesión judicial
 
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 135.
 
 La ley reconoce como medios de prueba:
 
-I. La confesión judicial;
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1991)</small>
+
+I. La confesión;
 
 II. Los documentos públicos y los privados;
 
@@ -936,13 +974,15 @@ V. Las declaraciones de testigos, y
 
 VI. Las presunciones.
 
-También se admitirá como prueba todo aquello que se presente como tal, siempre que a juicio del funcionario que practique la averiguación pueda constituirla. Cuando éste lo juzgue necesario podrá por cualquier medio legal establecer la autenticidad de dicho medio de prueba.
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
+Se admitirá como prueba en los términos del artículo 20, fracción V de la Constitución Política de los Estados Unidos Mexicanos, todo aquello que se ofrezca como tal, siempre que pueda ser conducente, a juicio del juez o tribunal. Cuando la autoridad judicial lo estime necesario, podrá por algún otro medio de prueba, establecer su autenticidad.
 
 ### CAPITULO VI. Inspección judicial y reconstrucción de hechos
 
 ###### ARTICULO 136.
 
-La confesión judicial es la que se hace ante el tribunal o juez de la causa o ante el funcionario de la policía judicial que haya practicado las primeras diligencias.
+La confesión es la declaración voluntaria hecha por persona no menor de dieciocho años, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el juez o tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación, emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 137.
 
@@ -1018,9 +1058,11 @@ Este mandamiento se hará con la debida anterioridad, a fin de que sean citadas 
 
 Para practicar ésta, el personal del juzgado se trasladará al lugar de los hechos juntamente con las personas que deban concurrir; tomará a testigos y peritos la protesta de producirse con verdad; designará a la persona o personas que sustituyan a los agentes del delito que no estén presentes, y dará fe de las circunstancias y pormenores que tengan relación con éste. En seguida leerá la declaración del acusado y hará que éste explique prácticamente las circunstancias del lugar, tiempo y forma en que se desarrollaron los hechos. Lo mismo se hará con cada uno de los testigos presentes. Entonces los peritos emitirán su opinión en vista de las declaraciones rendidas y de las huellas o indicios existentes, atendiendo a las indicaciones y preguntas que haga el juez, el que procurará que los dictámenes versen sobre puntos precisos.
 
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 151.
 
-Cuando alguna de las partes solicite la diligencia de reconstrucción, deberá precisar cuáles hechos o circunstancias desea esclarecer y expresará su petición en proposiciones concretas.
+Cuando alguna de las partes solicite la reconstrucción, deberá precisar cuáles son los hechos y circunstancias que desea esclarecer, pudiéndose repetir la diligencia cuantas veces sea necesario, a juicio del inculpado, de su defensor, del Ministerio Público, del juez o del Tribunal.
 
 ### CAPITULO VIII. Peritos
 
@@ -1096,6 +1138,12 @@ Cada una de las partes tendrá derecho a nombrar hasta dos peritos, a los que se
 
 Cuando se trate de lesión proveniente de delito y la persona lesionada se encontrare en algún hospital público, los médicos de éste se tendrán por peritos nombrados, sin perjuicio de que el juez nombre otros, si lo creyere conveniente, para que, juntos con los primeros, dictaminen sobre la lesión y hagan su clasificación legal.
 
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
+###### ARTICULO 165 Bis.
+
+Cuando el inculpado pertenezca a un grupo étnico indígena, se procurará allegarse dictámenes periciales a fin de que el juzgador ahonde en el conocimiento de su personalidad y capte su diferencia cultural respecto a la cultura media nacional.
+
 ###### ARTICULO 166.
 
 La autopsia de los cadáveres de personas que hayan fallecido en un hospital público la practicarán los médicos de éste, salvo la facultad del juez para encomendarla a otros.
@@ -1120,19 +1168,21 @@ Si a pesar del primer apremio, el perito no presentare su dictamen, será proces
 
 Siempre que los peritos nombrados discordaren entre sí, el juez los citará a una junta, en la que se decidirán los puntos de diferencia. En el acta de la diligencia se asentará el resultado de la discusión.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 171.
 
-Los peritos deberán tener título oficial en la ciencia o arte a que se refiere el punto sobre el cual deben dictaminar, si la profesión o arte están legalmente reglamentados; en caso contrario, el juez nombrará a personas prácticas.
+Los peritos deberán tener título oficial en la ciencia o arte a que se refiere el punto sobre el cual deben dictaminar, si la profesión o arte están legalmente reglamentadas; en caso contrario, el juez nombrará a personas prácticas. Cuando el inculpado pertenezca a un grupo étnico indígena, podrán ser peritos prácticos, personas que pertenezcan a dicho grupo étnico indígena.
 
 ###### ARTICULO 172.
 
 También podrán ser nombrados peritos prácticos, cuando no hubiere titulados en el lugar en que se siga la instrucción; pero en este caso se librará exhorto o requisitoria al juez del lugar en que los haya, para que, en vista de la declaración de los prácticos, emitan su opinión.
 
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 173.
 
-Los peritos deberán ser citados en la misma forma que los testigos; reunirán, además, las propias condiciones de éstos y estarán sujetos a iguales causas de impedimento. Serán preferidos los que hablen el idioma español.
+Los peritos deberán ser citados en la misma forma que los testigos; reunirán, además, las propias condiciones de éstos y estarán sujetos a iguales causas de impedimento.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -1178,9 +1228,11 @@ Cuando los peritos que gocen sueldo del Erario emitan su dictamen sobre puntos d
 
 El juez, cuando lo crea conveniente, podrá ordenar que asistan los peritos a alguna diligencia y que se impongan de todo el proceso o de parte de él.
 
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 183.
 
-Cuando el acusado, el ofendido o el acusador, los testigos o los peritos no hablen el idioma español, el juez nombrará uno o dos intérpretes mayores de edad que protestarán traducir fielmente las preguntas y respuestas que deben transmitir. Sólo cuando no pueda encontrarse un intérprete mayor de edad, podrá nombrarse uno de quince años cumplidos, cuando menos.
+Cuando el inculpado, el ofendido, el denunciante, los testigos o los peritos no hablen o no entiendan suficientemente el idioma castellano, el juez nombrará uno o dos traductores mayores de edad, que protestarán traducir fielmente las preguntas y respuestas que deben transmitir. Sólo cuando no pueda encontrarse un traductor mayor de edad, podrá nombrarse uno de quince años cumplidos cuando menos.
 
 ###### ARTICULO 184.
 
@@ -1506,7 +1558,7 @@ Las presunciones o indicios son las circunstancias y antecedentes que, teniendo 
 
 ### CAPITULO I. Iniciación del procedimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 246.
 
@@ -1522,17 +1574,23 @@ No podrá condenarse a un acusado sino cuando se pruebe que cometió el delito q
 
 El que afirma está obligado a probar. También lo está el que niega, cuando su negación es contraria a una presunción legal o cuando envuelve la afirmación expresa de un hecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 249.
 
-La confesión judicial hará prueba plena, cuando concurran las siguientes circunstancias:
+La confesión ante el Ministerio Público y ante el juez deberá reunir los siguientes requisitos:
 
 I.- Que esté plenamente comprobada la existencia del delito, salvo lo dispuesto en los artículos 115 y 116;
 
-II.- Que se haga por persona mayor de catorce años, en su contra, con pleno conocimiento, y sin coacción ni violencia;
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1991)</small>
+
+II.- Que sea hecha por persona no menor de dieciocho años, en su contra, con pleno conocimiento, y sin coacción ni violencia física o moral;
 
 III.- Que sea de hecho propio;
 
-IV.- Que se haga ante el juez o tribunal de la causa, o ante el funcionario de la policía judicial que haya practicado las primeras diligencias; y
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1991)</small>
+
+IV.- Que sea hecha ante el Ministerio Público, juez o tribunal de la causa y en presencia del defensor o persona de su confianza y que esté el inculpado debidamente enterado del procedimiento y del proceso.
 
 V.- Que no vaya acompañada de otras pruebas o presunciones que la hagan inverosímil, a juicio del juez.
 
@@ -1620,7 +1678,7 @@ Los jueces y tribunales, según la naturaleza de los hechos, la prueba de ellos 
 
 ###### ARTICULO 262.
 
-Los funcionarios y agentes de policía judicial, así como los auxiliares del Ministerio Público, están obligados a proceder de oficio a la investigación de los delitos del orden común de que tengan noticia, dando cuenta inmediata al Ministerio Público, si la investigación no se ha iniciado directamente por éste. La averiguación previa no podrá iniciarse de oficio en los casos siguientes:
+Los funcionarios del Ministerio Público y sus auxiliares, de acuerdo con las órdenes que reciban de aquéllos, están obligados a proceder de oficio a la investigación de los delitos del orden común que tengan noticia. La averiguación previa no podrá iniciarse de oficio en los casos siguientes:
 
 II (SIC). Cuando se trate de delitos en los que sólo se puede proceder por querella necesaria, si no se ha presentado ésta; y
 
@@ -1654,13 +1712,11 @@ Al iniciar sus procedimientos el Ministerio Público, o la policía judicial, se
 
 (DEROGADO, D.O.F. 4 DE ENERO DE 1984)
 
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 266.
 
-El Ministerio Público y la policía judicial del Distrito y Territorios Federales, están obligados, sin esperar a tener orden judicial, a proceder a la detención de los responsables de un delito:
-
-I.- En caso de flagrante delito; y
-
-II.- En caso de notoria urgencia, cuando no haya en el lugar autoridad judicial
+El Ministerio Público y la Policía Judicial a su mando, están obligados a detener al responsable, sin esperar a tener orden judicial, en el caso del delito flagrante o de notoria urgencia, cuando no haya en el lugar autoridad judicial.
 
 ###### ARTICULO 267.
 
@@ -1670,17 +1726,35 @@ Se entiende que el delincuente es aprehendido en flagrante delito: no solo cuand
 
 Se entiende que no hay autoridad judicial en el lugar y existe notoria urgencia para la aprehensión del delincuente: cuando por la hora o por la distancia del lugar en que se practica la detención, no hay ninguna autoridad judicial que pueda expedir la orden correspondiente y existan serios temores de que el responsable se sustraiga a la acción de la justicia.
 
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 269.
 
-Cuando el presunto responsable fuere aprehendido, se hará constar la hora en que lo haya sido, y se le recibirá su declaración.
+Cuando el inculpado fuere aprehendido, detenido o se presentare voluntariamente, se procederá inmediatamente de la siguiente forma:
 
-También se le recogerán los objetos que se relacionen con el delito y aquellos que no deban dejarse en su poder, por temor de que se pierdan o porque se estime inconveniente que los tenga en su posesión; pero en todo caso se entregará al detenido un recibo en que se especifiquen los objetos recogidos, agregándose al acta un duplicado de este recibo que deberá llevar la firma y conformidad del indiciado.
+I.- Se hará constar el día, hora y lugar de su detención, en su caso, así como el nombre y cargo de quienes la practicaron;
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+II.- Se le hará saber la imputación que existe en su contra y, en su caso, el nombre del denunciante, así como los siguientes derechos:
+
+a).- El de comunicarse inmediatamente con quien estime conveniente;
+
+b).- El de designar sin demora persona de su confianza para que lo defienda o auxilie, quien tendrá derecho a conocer la naturaleza y causa de la acusación, y
+
+c).- El de no declarar en su contra y de no declarar si así lo desea.
+
+Para los incisos a) y b) se le permitirá utilizar el teléfono o cualquier otro medio de comunicación.
+
+III.- Cuando el detenido fuere un indígena que no hable castellano, se le designará un traductor, quien le hará saber los derechos a que se refiere la fracción anterior. Si se tratare de un extranjero, la detención se comunicará de inmediato a la representación diplomática o consular que corresponda;
+
+IV.- La autoridad que decrete la detención, la comunicará de inmediato al servicio público de localización telefónica del Distrito Federal, asentando en autos su cumplimiento, con indicación del día y hora en que se verificó, y
+
+V.- En todo caso, se mantendrán separados los hombres y mujeres en los lugares de detención.
+
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 270.
 
-Antes de trasladar al presunto reo a la cárcel preventiva, se le tomarán sus generales y se le identificará debidamente, haciéndole saber el derecho que tiene para nombrar defensor. Este podrá, previa la propuesta otorgada ante los funcionarios del Ministerio Público o de la policía que intervengan, entrar al desempeño de su cometido.
+Antes de trasladar al presunto responsable a la cárcel preventiva, se le tomarán sus generales y se le identificará debidamente: el Ministerio Público recibirá las pruebas que el detenido o su defensor aporten dentro de la averiguación previa y para los fines de ésta, que se tomarán en cuenta como legalmente corresponda, en el acto de la consignación o de libertad del detenido, en su caso. Cuando no sea posible el desahogo de pruebas ofrecidas por el detenido o su defensor, el juzgador resolverá sobre la admisión y práctica de las mismas.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
@@ -1806,9 +1880,19 @@ En los casos de rapto, calumnia y, en general, en todos aquellos en que la ley e
 
 Los funcionarios del Ministerio Público y de la Policía Judicial, asentarán en el acta que levanten todas las observaciones que puedan recoger acerca de las modalidades empleadas al cometer el delito.
 
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 285.
 
-Los mismos funcionarios asentarán también en dicha acta: todas las observaciones que acerca del carácter del delincuente hubieren recogido, ya sea en el momento de cometer el delito, ya durante la detención del presunto responsable, o bien durante la práctica de las diligencias en que hubieren intervenido.
+Los mismos funcionarios asentarán también en dicha acta todas las observaciones que acerca del carácter del delincuente hubieren recogido, ya sea en el momento de cometer el delito, ya durante la detención del presunto responsable, o bien durante la práctica de las diligencias en que hubieren intervenido, incluyendo el grupo étnico indígena al que pertenece en su caso.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
+
+###### ARTICULO 285 Bis.
+
+En la averiguación previa en contra de alguna persona que no hable o no entienda suficientemente el idioma castellano, se le nombrará un traductor desde el primer día de su detención, quien deberá asistirla en todos los actos procedimentales sucesivos en los que debe intervenir el inculpado y en la correcta comunicación que haya de tener con su defensor.
+
+El juez, en su caso, de oficio o a petición de parte, verificará que perdure ese canal de comunicación; y si lo estimare prudente, podrá nombrar el traductor que mejore dicha comunicación.
 
 ###### ARTICULO 286.
 
@@ -1840,21 +1924,25 @@ Esta diligencia se practicará en un local en que el público pueda tener libre 
 
 En ningún caso, y por ningún motivo, podrá el juez emplear la incomunicación ni ningún otro medio coercitivo para lograr la declaración del detenido.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 290.
 
-El juez tendrá la obligación de hacer saber al detenido, en este acto:
+La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere, el grupo étnico indígena al que pertenezca, en su caso, y si habla y entiende suficientemente el idioma castellano y sus demás circunstancias personales. Acto seguido se le hará saber el derecho que tiene para defenderse por sí o por persona de su confianza, advirtiéndole que si no lo hiciere, el juez le nombrará un defensor de oficio.
 
-I.- El nombre de su acusador si lo hubiere, el de los testigos que declaren en su contra, la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo;
+Si el inculpado no hubiere solicitado su libertad provisional bajo caución, se le hará nuevamente conocedor de ese derecho en los términos del artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y del artículo 556 de este código.
 
-II.- La garantía de la libertad caucional en los casos en que proceda y el procedimiento para obtenerla; y
+A continuación se le hará saber en qué consiste la denuncia, acusación o querella; así como los nombres de sus acusadores y de los testigos que declaren en su contra; se le preguntará si es su voluntad declarar y en caso de que así lo desee se le examinará sobre los hechos consignados. Si el inculpado decidiere no declarar, el juez respetará su voluntad dejando constancia de ello en el expediente.
 
-III.- El derecho que tiene para defenderse por sí mismo o para nombrar persona de su confianza que lo defienda, advirtiéndole que si no lo hiciere, el juez le nombrará un defensor de oficio.
+Igualmente se le harán saber todas las siguientes garantías que le otorga el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos:
+
+Que se le recibirán todos los testigos y las pruebas que ofrezca, en los términos legales, ayudándole para obtener la comparecencia de las personas que solicite, siempre y cuando estén domiciliadas en el lugar del juicio; así como que será sentenciado antes de cuatro meses, si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, o antes de un año si la pena máxima excediere de ese tiempo; y que le serán facilitados todos los datos que solicite para su defensa y consten en el proceso.
+
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 291.
 
-En caso de que el acusado desee declarar, la declaración preparatoria comenzará por sus generales, incluyendo los apodos que tuviere. Será examinado sobre los hechos que se le imputen para lo cual el juez adoptará la forma, términos y demás circunstancias que estime convenientes y adecuadas al caso, a fin de esclarecer el delito y las circunstancias de tiempo y lugar en que se concibió y ejecutó.
+En caso de que el inculpado desee declarar, será examinado sobre los hechos que se le imputen para lo cual el juez adoptará la forma, términos y demás circunstancias que estime conveniente y adecuadas al caso, a fin de esclarecer el delito y las circunstancias de tiempo y lugar en que se concibió y ejecutó.
 
 ###### ARTICULO 292.
 
@@ -1868,11 +1956,11 @@ El acusado podrá redactar sus contestaciones; si no lo hiciere, las redactará 
 
 Terminada la declaración u obtenida la manifestación del detenido de que no desea declarar, el juez nombrará al acusado un defensor de oficio, cuando proceda, de acuerdo con la fracción III del artículo 290.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 295.
 
-Recibida la declaración preparatoria, o en su caso, la manifestación del reo de que no desea declarar, si fuere posible, el juez careará al acusado con todos los testigos que depongan en su contra.
+El juez interrogará al inculpado sobre su participación en los hechos imputados, y practicará careos entre el inculpado y los testigos que hayan declarado en su contra y estuvieren en el lugar del juicio, para que aquél y su defensor puedan hacerles todas las preguntas conducentes a su defensa, mismo derecho que también corresponde al Ministerio Público.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -1880,13 +1968,17 @@ Recibida la declaración preparatoria, o en su caso, la manifestación del reo d
 
 Todo acusado tendrá derecho a ser asistido en su defensa por sí o por la persona o personas de su confianza. Si fueren varios los defensores, estarán obligados a nombrar un representante común o en su defecto lo hará el juez.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 296
 
-Bis.- Durante la instrucción, el tribunal que conozca del proceso deberá observar las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condicones(sic) económicas y las especiales en que se encontraba en el momento de la comisión del delito; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
+Bis.- Durante la instrucción, el juez que conozca del proceso deberá observar las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 El tribunal deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias de hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 La misma obligación señalada en los párrafos precedentes tiene el Ministerio Público durante la averiguación previa y en el curso de la instrucción, para el efecto de hacer, fundadamente, los señalamientos y peticiones que correspondan al ejercitar la acción penal o al formular conclusiones.
 
@@ -2760,6 +2852,10 @@ II. Por no haberse hecho saber al acusado durante la instrucción ni al celebrar
 
 III. Por no haberse permitido al acusado nombrar defensor, en los términos que establece la ley, o por no haberse cumplido con lo dispuesto en los artículos 294, 326, 338 y 339;
 
+> <small>(ADICIONADA, D.O.F. 8 DE ENERO DE 1991)</small>
+
+III bis.- Por haber omitido la designación del traductor al inculpado que no hable o no entienda suficientemente el idioma castellano, en los términos que señala esta ley;
+
 IV. Por no haberse practicado las diligencias pedidas por alguna de las partes;
 
 V. Por haberse celebrado el juicio sin asistencia del Juez que debe fallar, del Agente del Ministerio Público que pronuncie la requisitoria o del Secretario respectivo;
@@ -2778,7 +2874,7 @@ X. Por no haberse permitido al Ministerio Público, al acusado o a su defensor, 
 
 XI. Por haberse declarado en el caso del artículo 325 que el acusado o su defensor habían alegado sólo la inculpabilidad, si no había transcurrido el término señalado en este artículo;
 
-XII. Por haberse omitido en el interrogatorio alguna de las preguntas que conforme a este Código debieron hacerse al Jurado, o por haberse suprimido todo un interrogatorio en el caso de la fracción IV del artículo 363.
+XII. Por haberse omitido en el interrogatorio alguna de las preguntas que conforme a este Código debieron hacerse al Jurado, o por haberse suprimido todo un interrogatorio en el caso de la fracción IV del artículo 363;
 
 XIII. Por no haberse formado el Jurado del número de personas que este Código dispone, o porque a alguna de ellas le faltare un requisito legal;
 
@@ -3512,7 +3608,7 @@ En el caso de la fracción I del artículo 547, la resolución que concede la li
 
 ### CAPITULO III. Libertad provisional bajo caución
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 552.
 
@@ -3558,7 +3654,19 @@ II. Cuando habiéndose pronunciado sentencia condenatoria en Primera Instancia, 
 
 ###### ARTICULO 556.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, cuando el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado no exceda de cinco años de prisión. El juez atenderá para este efecto a las modalidades y calificativas del delito cometido. En caso de acumulación se atenderá al delito cuya pena sea mayor.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, si no excede de cinco años el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado, incluyendo sus modalidades. En caso de acumulación se atenderá al delito cuya pena sea mayor.
+
+En los casos en que la pena del delito imputado rebase el término medio aritmético de cinco años de prisión y no se trate de los delitos señalados en el siguiente párrafo de este artículo, el juzgador concederá la libertad provisional en resolución fundada y motivada, siempre que se cumpla con los siguientes requisitos:
+
+I.- Que se garantice debidamente, a juicio del juez, la reparación del daño;
+
+II.- Que la concesión de la libertad no constituya un grave peligro social;
+
+III.- Que no exista riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia, y
+
+IV.- Que no se trate de personas que por ser reincidentes o haber mostrado habitualidad, la concesión de la libertad haga presumir fundadamente que evadirían la acción de la justicia.
+
+Para los efectos del párrafo anterior, no procederá la libertad provisional cuando se trate de los delitos previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: 60, 139, 140, 168, 170, 265, 266, 266-bis, 287, 302, 307, 315-bis, 320, 323, 324, 325, 326, 366 y 370 segundo y tercer párrafos cuando se realice en cualesquiera de las circunstancias señaladas en los artículos 372, 381 fracciones VIII, IX y X y 381-bis.
 
 ###### ARTICULO 557.
 
@@ -4182,7 +4290,9 @@ II. Dirigir los debates del jurado; y
 
 III. Proponer o dictar los fallos que corresponda, con arreglo al veredicto del jurado, observándose lo dispuesto en el artículo 408.
 
-### CAPITULO VIII. Del Tribunal de Menores
+### CAPITULO VIII. Sobreseimiento
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 645.
 
@@ -4288,7 +4398,7 @@ Los Presidentes de Debates de la ciudad de México, tendrán bajo sus órdenes u
 
 Cuando se efectúe un jurado el tribunal dispondrá la manera de atender el servicio taquigráfico.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ### CAPITULO IX. De los delitos y faltas oficiales
 
@@ -4296,35 +4406,67 @@ Cuando se efectúe un jurado el tribunal dispondrá la manera de atender el serv
 
 ###### ARTICULO 660.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+El sobreseimiento procederá en los casos siguientes:
+
+I. Cuando el Procurador General de Justicia del Distrito Federal confirme o formule conclusiones no acusatorias;
+
+II. Cuando aparezca que la responsabilidad penal está extinguida;
+
+III. Cuando no se hubiere dictado auto de formal prisión o de sujeción a proceso y aparezca que el hecho que motiva la averiguación no es delictuoso o, cuando estando agotada ésta, se compruebe que no existió el hecho delictuoso que la motivo;
+
+IV. Cuando habiéndose decretado la libertad por desvanecimiento de datos, esté agotada la averiguación y no existan elementos posteriores para dictar nueva orden de aprehensión, o se esté en el caso previsto por el artículo 546;
+
+V. Cuando esté plenamente comprobado que en favor del inculpado existe alguna causa eximente de responsabilidad;
+
+VI. Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado, y
+
+VII. Cuando así lo determine expresamente este Código.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 661.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+El procedimiento cesará y el expediente se mandará archivar en los casos de la fracción III del artículo anterior, o cuando esté plenamente comprobado que los únicos presuntos responsables se hallan en alguna de las circunstancias a que se refieren las fracciones I, II, IV, V, VI y VII del mismo; pero si alguno no se encontrare en tales condiciones, el procedimiento continuará por lo que a él se refiere, siempre que no deba suspenderse en términos de este Código.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 662.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Cuando se siga el procedimiento por dos o más delitos y por lo que toca a alguno, exista causa de sobreseimiento, éste se decretará por lo que al mismo se refiere y continuará el procedimiento en cuanto a los demás delitos, siempre que no deba suspenderse.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 663.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+El sobreseimiento puede decretarse de oficio o a petición de parte, en los casos de las fracciones I a III del artículo 660, y en la última forma en los demás.
+
+Cuando el sobreseimiento sea a petición de parte, será el juez el que decida si procede o no.
+
+En ningún caso procederá el sobreseimiento en segunda instancia.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 664.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+El sobreseimiento se resolverá de plano cuando se decrete de oficio. Si fuere a petición de parte, se tramitará por separado y en forma de incidente no especificado.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 665.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+No podrá dictarse auto de sobreseimiento después de que hayan sido formuladas conclusiones por el Ministerio Público, excepto en los casos a que se refieren las fracciones I, II y VII del artículo 660.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 666.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+El inculpado a cuyo favor se haya decretado el sobreseimiento será puesto en absoluta libertad respecto al delito por el que se decretó el auto de formal prisión.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 667.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+El auto de sobreseimiento que haya causado estado, surtirá los efectos de una sentencia absolutoria con valor de cosa juzgada.
 
 ### CAPITULO X. De la Dirección General de Servicios Coordinados de Prevención y Readaptación Social y otras Dependencias
 
@@ -4605,3 +4747,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se deroga el artículo 611 del Código de Procedimientos Penales para el Distrito Federal y las demás disposiciones que se opongan al presente Decreto.
+
+D.O.F. 8 DE ENERO DE 1991.
+
+UNICO.- El presente decreto entrará en vigor a partir del primero de febrero de 1991.
