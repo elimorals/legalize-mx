@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1969-07-19"
+last_updated: "1969-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1969.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -1005,15 +1005,11 @@ V.- Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 Los Magistrados del Tribunal Superior de Justicia, al entrar a ejercer su encargo, prestarán ante el Congreso o ante la Comisión Permanente la protesta siguiente: Presidente: ¿"Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado"? -Magistrado: "Sí protesto" -Presidente: "Si no lo hiciereis así, la Nación o el Estado os lo demande".
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 1960)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1969)</small>
 
 ###### Art. 100.
 
-Será Presidente del Tribunal el Magistrado Propietario que resulte electo por la misma corporación; será renovado cada año y sus faltas temporales serán suplidas precisamente por uno de los otros Magistrados Propietarios designados en la misma forma que el anterior. El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el día 16 de septiembre de cada año y rendirá ante la representación popular, un informe acerca de la situación que guarde la administración de justicia en el Estado. El Presidente del Congreso contestará en términos breves.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
-
-Las faltas temporales de los Magistrados Propietarios serán cubiertas por los suplentes que designe el Tribunal. Igual procedimiento se seguirá para cubrir las absolutas, entre tanto se designa al propietario que deba cubrir la vacante.
+Será Presidente del Tribunal el Magistrado Propietario que resulte electo por la misma corporación; será renovado cada año y sus faltas temporales serán suplidas precisamente por uno de los otros Magistrados propietarios, designados en la misma forma que el anterior. El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el día 16 de diciembre de cada año y rendirá ante la representación popular, un informe acerca de la situación que guarde la administración de justicia en el Estado. El Presidente del Congreso contestará el documento antes citado.
 
 ## Título Sexto.
 
@@ -1602,3 +1598,7 @@ Este Decreto comenzará a surtir sus efectos legales desde la fecha de su public
 P.O. 19 DE JULIO DE 1969.
 
 UNICO.- Este Decreto surte sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE AGOSTO DE 1969.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
