@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obras-publicas-del-estado-de-jalisco-5851"
 country: "mx"
 rank: "ley"
 publication_date: "1990-04-19"
-last_updated: "1991-12-07"
+last_updated: "2004-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1991.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LEY DE OBRA PUBLICA DEL ESTADO DE JALISCO, PUBLICADA EN EL PARIODICO OFICIAL EL 7 DE FEBRERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 1990.
 
@@ -696,3 +698,29 @@ Lic. Enrique Romero González
 P.O. 7 DE DICIEMBRE DE 1991.
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 7 DE FEBRERO DE 2004.
+
+PRIMERO. La presente ley entra en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el decreto número 13901 que contiene la Ley de Obras Públicas del Estado de Jalisco, publicado en el Periódico Oficial "El Estado de Jalisco" el 19 de abril de 1990, y los decretos posteriores que la reforman, adicionan o derogan.
+
+TERCERO. Se derogan todas las disposiciones que contravengan la presente ley.
+
+CUARTO. El Ejecutivo Estatal debe expedir las disposiciones reglamentarias correspondientes dentro de los sesenta días siguientes a la entrada en vigor de la presente ley.
+
+En tanto se expiden los reglamentos correspondientes debe aplicarse las disposiciones reglamentarias vigentes en lo que sean procedentes.
+
+QUINTO. El Ejecutivo Estatal debe expedir el Manual de Gastos Indirectos dentro de los sesenta días siguientes a la entrada en vigor de la presente ley.
+
+En tanto se expiden el Manual de Gastos Indirectos debe estarse a las disposiciones reglamentarias o administrativas correspondientes vigentes, o incluso en su caso a los usos y costumbres.
+
+SEXTO. Los registros de las personas físicas y jurídicas en el Padrón de Contratistas del Estado inscritas a la fecha de entrada en vigor de esta ley son válidos, y deben sujetarse en lo sucesivo a lo dispuesto en esta ley.
+
+SÉPTIMO. Los procedimientos de licitación pública, concurso por invitación o adjudicación directa, así como la ejecución de obra pública por contrato o por administración directa, que se encuentren en proceso al momento de entrar en vigor la presente ley, continúan rigiéndose por la ley de su inicio hasta la terminación de la obra.
+
+Las inconformidades y demás asuntos que se encuentren en trámite o pendientes de resolución al momento de la entrada en vigor de la presente ley siguen rigiéndose por las disposiciones vigentes al momento que iniciaron.
+
+OCTAVO. Los ayuntamientos deberán expedir reglamentos e (sic) obra publica dentro de los 180 días siguientes a la entrada en vigor de la presente ley, en caso de no hacerlo deberán de aplicar la presente Ley en la realización de obra pública.
+
+Hasta en tanto no se cumpla el plazo establecido en el párrafo anterior se aplicarán las disposiciones vigentes.
