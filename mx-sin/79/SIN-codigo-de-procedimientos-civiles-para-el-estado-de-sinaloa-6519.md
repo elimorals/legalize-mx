@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1943-07-31"
+last_updated: "1944-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1944.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -687,11 +687,11 @@ Cuando se trate de requerimientos, no encontrándose a la primera busca la perso
 
 La segunda y ulteriores notificaciones se harán personalmente se harán personalmente por el secretario o juez a los interesados o procuradores si concurren al tribunal respectivo con ese objeto, ya sea el mismo día en que se dicten las resoluciones que hayan de practicarse o al día siguiente.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1942)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
 ###### Artículo 115.
 
-Si las partes o procuradores no concurrieren al Tribunal o Juzgado como se previene en el artículo anterior, la notificación se dará por hecha y surtirá todos sus efectos al día siguiente de dictada la resolución siempre que se haya dejado al interesado, en la casa que tengan designada al efecto, copia autorizada del acuerdo respectivo, y publicado éste en la puerta del Tribunal o en su tabla de avisos, y en la propia fecha del acuerdo, de lo que se pondrá razón en autos, expresándose el nombre de la persona que hubiere recibido la copia y su firma o haciéndose constar la circunstancia de que no puede o no sabe firmar o se rehusa a hacerlo; si no se hubieren satisfecho estos requisitos, se dará por hecha y surtirá sus efectos la notificación desde que se cumplimenten.
+Si las partes o procuradores no concurren al tribunal o juzgado como se previene en el Artículo anterior, la notificación se dará por hecha y surtirá todos sus efectos al día siguiente de dictada la resolución, siempre que se haya publicado el acuerdo respectivo en la puerta del tribunal o en su tabla de avisos y en la propia fecha del acuerdo. Si no se hubiere hecho la publicación en la misma fecha del acuerdo, la notificación surtirá sus efectos y empezarán a contarse los términos desde el día siguiente al en que la publicación se hiciere.
 
 ###### Artículo 116.
 
@@ -2897,11 +2897,11 @@ En el caso previsto en el segundo párrafo del artículo 2797 del Código Civil,
 
 Del Juicio Sumario de Desahucio.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1943)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
 ###### Artículo 475.
 
-La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará el documento en que conste el contrato de arrendamiento.
+La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades, y se acompañará precisamente el documento en que conste el contrato de arrendamiento.
 
 ###### Artículo 476.
 
@@ -6342,3 +6342,13 @@ Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fe
 P.O. 31 DE JULIO DE 1943.
 
 Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE ABRIL DE 1944.
+
+Artículo Primero.- Todos los contratos de arrendamiento de fincas urbanas para habitación vigentes o vencidos a la fecha de la publicación del presente decreto quedarán prorrogados por el tiempo que dure el actual estado de guerra con los países del Eje.
+
+Artículo Segundo.- Los juicios sumarios de desocupación por terminación de contratos de arrendamiento de fincas urbanas para habitación que estén tramitándose a la vigencia de este decreto, quedarán suspensos en su procedimiento hasta que cese el estado actual de emergencia y sin que pare perjuicio al demandante la caducidad de la instancia.
+
+Artículo Tercero.- Quedan congeladas las rentas de fincas urbanas para habitación por el tiempo que dure el estado actual de guerra y en los términos que regían a la fecha de la publicación del presente decreto.
+
+Artículo Cuarto.- Este decreto empezará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial del Estado.
