@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-10296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-13"
-last_updated: "1996-09-20"
+last_updated: "2001-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2001.
 
 Ley Publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el 13 de septiembre de 1995.
 
@@ -675,11 +675,11 @@ Son Comisiones de investigación las que se integran para tratar los asuntos a q
 
 Las Comisiones especiales tendrán la competencia en el asunto que se les atribuya en el acto de su designación.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 64.
 
-Las Comisiones y Subcomisiones tomarán sus decisiones por mayoría simple de sus miembros. Sus Presidentes tendrán voto de calidad en caso de empate. Cuando alguno de sus miembros disienta de la resolución adoptada podrá firmar el dictamen y expresar su voto particular por escrito firmado y dirigido al Presidente de la Comisión o Subcomisión respectiva y al coordinador de su grupo parlamentario.
-
-Los votos particulares serán declarativos y su fin es el dejar asentada una determinada posición con algún punto particular del dictamen o con el dictamen general del proyecto.
+Las Comisiones y Subcomisiones tomarán sus decisiones por mayoría simple de sus miembros presentes. Sus Presidentes tendrán voto de calidad en caso de empate. Cuando alguno de los miembros disienta de la resolución adoptada firmará el dictamen y podrá expresar su voto particular por escrito firmado y dirigido al Presidente de la Comisión o Subcomisión respectiva.
 
 ###### ARTICULO 65.
 
@@ -1091,9 +1091,11 @@ VI.- Conclusiones o puntos resolutivos, y
 
 VII.- Fecha y espacio para la firma de los Diputados.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 130.
 
-Una vez firmados los dictámenes, a favor o en contra, por mayoría simple de los miembros de la Comisión o Comisiones encargadas de una iniciativa o asunto, se remitirán a los Diputados en los términos de la fracción VII del Artículo 11 de esta Ley y, se imprimirán y adjuntarán los votos particulares si los hubiera para su conocimiento.
+Una vez firmados los dictámenes, a favor o en contra, por mayoría simple de los miembros presentes de la Comisión o Comisiones encargadas de una iniciativa o asunto, se remitirán a los Diputados en los términos de la fracción VII del Artículo 11 de esta Ley y, se imprimirán y adjuntarán los votos particulares si los hubiera para su conocimiento.
 
 ### CAPITULO VI. De los Debates
 
@@ -1536,3 +1538,9 @@ P.O. 20 DE SEPTIEMBRE DE 1996.
 ###### ARTICULO UNICO.
 
 Las reformas a que se refiere el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 11 DE MAYO DE 2001.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
+
+SEGUNDO.- Envíese al Ejecutivo del Estado para su publicación.
