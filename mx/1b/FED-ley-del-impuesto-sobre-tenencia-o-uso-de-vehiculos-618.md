@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2003-12-31"
+last_updated: "2004-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -115,9 +115,9 @@ a) El que se enajena por primera vez al consumidor por el fabricante, ensamblado
 
 b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva, y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-II. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos, al consumidor, incluyendo el equipo opcional común o de lujo, el impuesto al valor agregado y las demás contribuciones que se deban cubrir por la enajenación o importación, sin disminuir el monto de descuentos, rebajas o bonificaciones.
+II. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -157,21 +157,21 @@ Los contribuyentes comprobarán el pago del impuesto con la copia de la forma po
 
 Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
 
-> <small>(REFORMADA, D.O.F.30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
 
-(VEASE TABLA)
+(VER TABLA ANEXA)
 
 Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
 
-Los montos de las cantidades establecidas en la tarifa a que se refiere esta fracción, se actualizarán en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de noviembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación, durante el mes de diciembre de cada año.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 II. (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 III. (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F.30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 IV. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
 
@@ -297,51 +297,19 @@ En este capítulo se establecen las disposiciones aplicables a las aeronaves, em
 
 Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00, para aeronaves de reacción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-###### ARTICULO 13.
+###### Artículo 13.
 
-Tratándose de embarcaciones nuevas, el impuesto se calculará conforme a lo siguiente:
+Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-I. Veleros.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-a) A la de eslora expresada en metros se le restarán cuatro metros; el resultado se multiplicará por sí mismo.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-b) La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad de $230.00; el producto será el impuesto a pagar.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II. Esquí acuático motorizado, motocicletas acuática y tablas de oleaje con motor, el impuesto será la cantidad de $520.00.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-III. Embarcaciones distintas a las anteriores.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-a) La cantidad que se obtenga de restar en 0.2 el factor que corresponda. El resultado se multiplicará por sí mismo. El factor a que se refiere este inciso, se calculará multiplicando la eslora expresada en metros, por el cociente obtenido de dividir los caballos de fuerza entre mil.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-b) La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad de $1,039.00; el producto será el impuesto a pagar.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $66.00, ni superior a $66,000.00, salvo que tratándose de la fracción III el factor sea igual o mayor a 0.2. Las cantidades a que se refiere este párrafo se incrementarán aplicando el factor de actualización a que se refiere el artículo 14-C de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-###### ARTICULO 14.
+###### Artículo 14.
 
 Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
 
-(VEASE TABLA ANEXA)
+(VER TABLA ANEXA)
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -363,35 +331,9 @@ Reacción 3,583.00
 
 HELICOPTEROS 551.00
 
-VELEROS 69.00
+> <small>(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-EMBARCACIONES:
-
-Con factor fiscal
-
-de hasta 0.5000 14.00
-
-De 0.5001 A 1.0000 42.00
-
-De 1.0001 A 2.0000 84.00
-
-De 2.0001 A 3.0000 123.00
-
-De 3.0001 A 5.0000 165.00
-
-De 5.0001 A 10.0000 276.00
-
-De 10.0001 A 20.0000 414.00
-
-De 20.0001 A 30.0000 827.00
-
-De 30.0001 A 40.0000 1,241.00
-
-De 40.0001 A 60.0000 1,653.00
-
-De 60.0001 A 100.0000 2,204.00
-
-De 100.0001 En Adelante 3,032.00
+> <small>(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -401,21 +343,19 @@ El monto de las cuotas establecidas en este artículo se actualizarán con el fa
 
 Tratándose de motocicletas de más de diez años modelo anteriores al de aplicación de esta Ley, el impuesto se pagará a la tasa del 0%.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-###### ARTICULO 14-B.
+###### Artículo 14-B.
 
-Tratándose de automóviles eléctricos nuevos el impuesto será la cantidad que resulte de multiplicar el valor total del automóvil por 0.16%.
+Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos, que además cuenten con motor de combustión interna nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del automóvil el 0.16%.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+Para los efectos de este artículo, el impuesto únicamente será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación expedidas por las autoridades estatales o del Distrito Federal.
 
-Para los efectos de este artículo, el impuesto para automóviles eléctricos únicamente será aplicable a aquellas unidades que para su circulación requieren de placas y tarjeta de circulación expedidas por las autoridades estatales o del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+###### Artículo 14-C.
 
-###### ARTICULO 14-C.
-
-Para los efectos de lo dispuesto en los artículos 12, 13, 14, y 14-A, de esta Ley, las cantidades que en los mismos se señalan se actualizarán en el mes de enero de cada año aplicando el factor correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de noviembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
+Para los efectos de lo dispuesto en los artículos 5o., 12, 14 y 14-A, de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación.
 
 ###### ARTICULO 15.
 
@@ -423,9 +363,9 @@ No se pagará el impuesto en los términos de este Capítulo por la tenencia o u
 
 I.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-II. Los importados temporalmente en los términos de la Ley Aduanera, salvo las aeronaves y embarcaciones que presten servicios turísticos con fines comerciales, conforme se establece en dicha ley.
+II. Los importados temporalmente en los términos de la Ley Aduanera.
 
 III.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
@@ -457,11 +397,13 @@ Las autoridades competentes para expedir los certificados de aeronavegabilidad o
 
 ### Capítulo III-A. Vehículos Usados
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 15-B.
+
+Tratándose de vehículos de fabricación nacional o importados, a que se refieren los artículos 5o., fracción IV y 14-B de esta Ley, así como de aeronaves y motocicletas, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-###### ARTICULO 15-B.
-
-Tratándose de vehículos de fabricación nacional o importados, a los que se refieren los artículos 5o., fracción IV y 11, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de ajuste. Dicho factor será el que resulte de multiplicar el factor de actualización por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
 
 TABLA
 
@@ -485,13 +427,25 @@ Años de antigüedad Factor
 
 9 0.500
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 14-C de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
 Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "taxis", el impuesto sobre tenencia o uso de vehículos se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
 
-I. El valor total del automóvil establecido en la factura original o carta factura que hubiese expedido el fabricante, ensamblador, distribuidor autorizado o empresas comerciales que cuenten con registro ante la Secretaría de Economía como empresa para importar autos usados, según sea el caso, se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este artículo, y
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-II. La cantidad obtenida conforme a la fracción anterior se multiplicará por el factor de actualización a que se refiere este artículo; el resultado obtenido se multiplicará por 0.245%.
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este artículo, y
 
-El factor de actualización a que se refiere este artículo, será el correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de noviembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de ajuste en el Diario Oficial de la Federación, durante el mes de diciembre de cada año.
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 14-C de esta Ley; el resultado obtenido se multiplicará por 0.245%.
+
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
@@ -501,9 +455,9 @@ Para los efectos de este artículo, los años de antigüedad se calcularán con 
 
 Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de esta Ley, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-a) El valor total del automóvil establecido en la factura original o carta factura que hubiese expedido el fabricante, ensamblador, distribuidor autorizado o comerciantes en el ramo de vehículos, según sea el caso, se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+a) El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
 TABLA
 
@@ -529,17 +483,67 @@ antigüedad depreciación
 
 9 0.075
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b) La cantidad obtenida conforme al inciso anterior, se multiplicará por el factor de actualización a que se refiere este artículo, y al resultado se le aplicará la tarifa a que hace referencia el artículo 5o. de esta Ley.
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el artículo 14-C de esta Ley; al resultado se le aplicará la tarifa a que hace referencia el artículo 5o. de esta Ley.
 
-El factor de actualización será el correspondiente al periodo comprendido desde el último mes del año inmediato anterior a aquél en que se adquirió el automóvil de que se trate, hasta el último mes del año inmediato anterior a aquél por el que se debe efectuar el pago, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el citado factor en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-###### ARTICULO 15-D.
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
+###### Artículo 15-D.
+
+Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Antigüedad Factor de depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el artículo 14-C de esta Ley; al resultado se le aplicará la tasa a que hace referencia el artículo 13 de la misma.
+
+Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
 ### CAPITULO IV. Participaciones a las Entidades Federativas
 
@@ -1791,6 +1795,14 @@ IV. Tratándose de automóviles de servicio público de transporte denominados "
 
 En el caso de automóviles de servicio público de transporte denominados "taxis", de año modelo 1991 a 1994, en lugar de considerar el valor total del automóvil establecido en la factura original o carta factura a que se refiere el inciso a) del artículo 15-C de esta Ley, podrán considerar el precio promedio de enajenación a que se refiere la fracción II de este artículo.
 
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1o. de enero de 2005.
+
+###### ARTÍCULO SEGUNDO.
+
+Los montos de las cantidades establecidas en los artículos 5o. y 14 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, se encuentran actualizados al 31 de diciembre de 2004.
+
 ## TRANSITORIO
 
 Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
@@ -1806,3 +1818,5 @@ D.O.F. 31 DE DICIEMBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero de 2004.
 
 SEGUNDO. Para los efectos de lo dispuesto en el artículo 2-C de la Ley del Impuesto al Valor Agregado, los pagos correspondientes a los meses de enero, febrero, marzo y abril del 2004, se pagarán durante el mes de mayo de dicho año.
+
+D.O.F. 1 DE DICIEMBRE DE 2004.
