@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1979-01-03"
+last_updated: "1979-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1979.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -511,9 +511,11 @@ Si por no haberse verificado las elecciones o por cualquiera otra causa el Congr
 
 Tiene la iniciativa de ley todo Diputado, Autoridad Pública en el Estado y cualquier Ciudadano Nuevoleonés.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
+
 ###### Art. 69.
 
-No podrán dejarse de tomar en consideración las iniciativas de los Poderes Ejecutivo y Judicial del Estado, las que se presenten firmadas por tres Diputados y las que dirigiere algún Ayuntamiento sobre asuntos privados de su Municipalidad.
+No podrán dejar de tomarse en consideración las Iniciativas de los Poderes Ejecutivo y Judicial del Estado, las que se presenten firmadas por cuatro Diputados y las que dirigiere algún Ayuntamiento sobre asuntos privados de su municipalidad.
 
 ###### Art. 70.
 
@@ -967,23 +969,11 @@ Los Municipios administrarán libremente su Hacienda, la cual se formará aparte
 
 Quedan investidos los Municipios de personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
 ###### Art. 121.
 
-Una Ley Reglamentaria establecerá el número de Regidores y Síndicos que juntamente con el Presidente Municipal, todos con voz y voto compongan los Ayuntamientos, que además, se integrarán en Municipios de población que exceda de doce mil habitantes y en su caso, con Regidores de Representación proporcional, quienes tendrán las mismas facultades y obligaciones que los demás.
-
-I.- Los Regidores de Representación proporcional serán en la cantidad que corresponda al veinticinco por ciento del total de integrantes del Ayuntamiento de que se trate, incluyéndolos. Para determinar el total de componentes de un Cabildo, la base será el número de ediles señalado en la Ley Orgánica de los Municipios, al que se sumará su cuarta parte. Si de las operaciones que implican estas reglas resultan fracciones de la mitad de la unidad o mayores, se elevará el número al entero siguiente.
-
-II.- Para asignar las Regidurías a que se refiere la fracción anterior, se establecerá un cociente electoral, dividiendo la votación global de la elección obtenida por los partidos distintos al que hubiere logrado mayoría, entre el número de Regidurías a atribuirse por representación proporcional.
-
-III.- Hecho el recuento de la votación recibida a favor de cada uno de los Partidos cuyas planillas no hayan sido la elegida, se dividirá el número de votos de cada uno de ellos entre el cociente electoral
-
-Las Regidurías se acreditarán a los partidos políticos en igual número de veces que la votación a favor de cada uno de ellos contenga el cociente electoral en forma entera.
-
-IV.- La asignación a que se refiere este procedimiento recaerá en los ciudadanos que en las planillas correspondientes ocupen, en su orden, las candidaturas de Regidores.
-
-V.- Si cumplido este procedimiento faltaren regidurías por asignar, una de ellas será atribuída al partido que tenga el mayor número o resto de votos válidos y no utilizados en el recuento para la asignación inicial.
+Una Ley Reglamentaria establecerá el número de Regidores y Síndicos que juntamente con el Presidente Municipal, todos con voz y voto, compongan los Ayuntamientos. Los municipios con población de trescientos mil habitantes o más, tendrán Regidores de Representación proporcional, en la forma y términos que la propia Ley determine.
 
 ###### Art. 122.
 
@@ -1191,6 +1181,8 @@ Las escuelas primarias particulares sólo podrán establecerse sujetándose a la
 
 En los establecimientos oficiales se impartirá gratuitamente la enseñanza primaria.
 
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
+
 ###### Art. 3o.
 
 El censo electoral a que se refiere el art. 45 se levantará desde la próxima elección de Gobernador.
@@ -1252,6 +1244,8 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 11 DE JUNIO DE 1927.
 
 ###### Art. 4o.
+
+Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto se promoverán la creación de empleos y la organización social para el trabajo, conforme a las leyes.
 
 A ninguna persona podrá impedirse que se dedique a a (sic) profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de ésta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
 
@@ -1626,3 +1620,19 @@ UNICO:- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 3 DE ENERO DE 1979.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial; y a partir de esa fecha la antigua Congregación de Colombia quedará integrada al Municipio de Anáhuac.
+
+P.O. 14 DE SEPTIEMBRE DE 1979.
+
+DECRETO NUMERO 254
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1979.
+
+DECRETO NUMERO 255
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1979.
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
