@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "2001-10-31"
+last_updated: "2001-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2001.
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes17 de abril de 1998.
 
 HECTOR TERAN TERAN.
 
@@ -53,15 +53,17 @@ II.- Velar por la legalidad y el respeto a los derechos humanos en la esfera de 
 
 III.- Proteger los derechos e intereses de los menores, incapaces, ausentes y ancianos, así como también los de carácter individual o social en general, en los términos que determinen las leyes y reglamentos aplicables;
 
-IV.- Realizar estudios y análisis para la formulación y ejecución de los lineamientos de política e información criminal, para promover y ejecutar programas que tengan por objeto eficientar la función de la procuración de justicia, difundiendo procedimientos de trámites del Ministerio Público, y fortaleciendo los principios de eficacia y honestidad en la institución;
+IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-V.- Crear programas mediante el desarrollo de estudios para la prevención del delito y combate a la delincuencia en el ámbito de su competencia, promoviendo la participación y concientización ciudadana;
+V.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
 VI.- Proporcionar atención a las víctimas u ofendidos por la comisión de algún delito, y facilitar su coadyuvancia;
 
 VII.- Auxiliar a otras autoridades en la persecución de los delitos que sean de su competencia, en los términos de los convenios, bases y demás instrumentos de colaboración celebrados al efecto;
 
-VIII.- Celebrar y coordinar programas y sistemas con la Federación, Estado y Municipios en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos sobre seguridad pública y procuración de justicia;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+VIII.- Celebrar y coordinar programas y sistemas con la Federación, Estado y Municipios en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos sobre procuración de Justicia;
 
 IX.- Exigir responsabilidad penal a los servidores públicos que en el ejercicio de sus funciones incurran en cualquier falta, conducta u omisión, solicitando la aplicación de las leyes penales; en caso de que se trate de comisión de delitos, y
 
@@ -155,23 +157,23 @@ I.- Intervenir en los casos en que legalmente proceda, en su carácter de repres
 
 II.- Coordinarse con instituciones públicas y privadas que tengan por objeto la asistencia social de menores e incapaces, para brindarles la atención debida e intervenir en los procedimientos judiciales conforme a las disposiciones legales aplicables, o cuando se encuentren en situaciones de daño o peligro.
 
-E) En la realización y aplicación de estudios, propuestas y lineamientos de política e información criminal y prevención del delito, comprenden:
+E).- (DEROGADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)
 
-I.- Recabar, sistematizar y analizar la información generada en materia de incidencia delictiva;
+I.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-II.- Promover las reformas jurídicas en el ámbito de su competencia, y las medidas convenientes para el mejoramiento de la seguridad pública y de la procuración de justicia;
+II.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-III.- Investigar y determinar las causas que dan origen a los delitos, precisar los lugares de su comisión, desarrollar estadísticas criminales y conocer el impacto social del delito y su costo;
+III.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-IV.- Promover la formación profesional y el mejoramiento de instrumentos administrativos y tecnológicos para la investigación y la eficaz persecución de los delitos;
+IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-V.- Estudiar y analizar las medidas de política criminal adoptadas en otras entidades de la República Mexicana, así como del extranjero, e intercambiar experiencia sobre esta materia;
+V.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-VI.- Establecer programas de evaluación para verificar el avance en la procuración de justicia en la entidad;
+VI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-VII.- Coadyuvar con la Secretaría Jurídica y Prevención Social en el desarrollo de estrategias para la prevención del delito, promoción de valores, prevención de conductas infractoras de menores y en la formulación e instrumentación de programas específicos que atiendan aquellos factores sociales relacionados con la violencia delictiva; promoviendo en todos los casos la participación ciudadana, y
+VII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-VIII.- Inducir acciones conjuntas y de coordinación con las autoridades del sector salud, educación, desarrollo social, familiar y con la Secretaría Jurídica y Prevención Social, dirigidas a la prevención integral del delito y la violencia intrafamiliar.
+VIII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
 F) En materia de atención a víctimas u ofendidos por el delito:
 
@@ -187,13 +189,19 @@ V.- Dictar las medidas y providencias pertinentes para proporcionar ayuda y auxi
 
 G) En materia de servicios a la comunidad:
 
-I.- Promover y desarrollar programas de colaboración comunitaria, para mejorar el desempeño de la institución;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-II.- Implementar los programas pertinentes para proporcionar orientación jurídica a la población en general, para el mejor ejercicio de sus deberes y obligaciones;
+I.- Promover, desarrollar y ejecutar programas de colaboración con la comunidad, a fin de mejorar el servicio de la institución;
 
-III.- Promover acciones que mejoren la atención a la comunidad por parte de los servidores públicos de la Procuraduría;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-IV.- Organizar programas de acopio de información de la población en torno a la procuración de justicia, para el mejoramiento de la calidad en el servicio, y
+II.- Poner a disposición de la ciudadanía los programas necesarios a fin de proporcionar orientación jurídica a la población en general, para el mejor ejercicio de sus deberes y obligaciones;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+III.- Promover, desarrollar y ejecutar acciones que mejoren la atención por parte de los servidores públicos de la Procuraduría a la comunidad;
+
+IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
 V.- En general, todas aquellas atribuciones que de acuerdo a las leyes y reglamentos, corresponda a la institución del Ministerio Público.
 
@@ -207,63 +215,97 @@ Para el ejercicio de sus atribuciones, funciones y despacho de los asuntos de su
 
 I.- Procurador General de Justicia;
 
-II.- Subprocuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-III.- Subprocuraduría Jurídica;
+II.- Dirección Jurídica;
 
-IV.- Dirección General de Asuntos Internos y Contraloría;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-V.- Dirección General Administrativa;
+III.- Dirección de Asuntos Internos y Contraloría;
 
-VI.- Dirección de Análisis y Diseño de Estrategias;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-VII.- Dirección de Comunicación y Promoción Social;
+IV.- Dirección Administrativa;
 
-VIII.- Subprocuradurías de Zona;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-IX.- Dirección de Averiguaciones Previas;
+V.- Dirección del Instituto de Capacitación Profesional;
 
-X.- Dirección de Agentes del Ministerio Público adscritos a Juzgados;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-XI.- Subdirección de Averiguaciones Previas;
+VI.- Dirección de Servicios Periciales;
 
-XII.- Comandancia Auxiliar de la Policía Ministerial;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-XIII.- Dirección de Servicios Periciales;
+VII.- Dirección Estatal de la Policía Ministerial;
 
-XIV.- Instituto de Capacitación y Formación Profesional;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-XV.- Agencias del Ministerio Público;
+VIII.- Dirección de Averiguaciones Previas;
 
-XVI.- Comandancias de Zona de la Policía Ministerial;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-XVII.- Jefaturas de Grupo de la Policía Ministerial;
+IX.- Dirección de Atención a Víctimas del Delito;
 
-XVIII.- Agencias de la Policía Ministerial, y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+X.- Dirección de Control de Procesos;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XI.- Unidad de Control y Seguimiento;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XII.- Subprocuradurías de Zona de la Policía Ministerial;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XIII.- Comandancias de Zona de la Policía Ministerial;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XIV.- Agencias del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XV.- Jefaturas de Grupo de la Policía Ministerial;
+
+XVI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+
+XVII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+
+XVIII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
 XIX.- Las demás unidades y servidores públicos que legalmente establezca el Procurador, y asimismo los que señale esta ley y su reglamento, el cual precisará las atribuciones que le correspondan.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 5.
 
-Operarán bajo el régimen de desconcentración, pero directamente subordinadas al Procurador y a la Subprocuraduría General de Justicia, tres Subprocuradurías de Zona con sus respectivas jurisdicciones territoriales; asentadas en los Municipios de Mexicali; de Tijuana; que comprenderá los Municipios de Tecate y Playas de Rosarito; y en el Municipio de Ensenada. Cada Subprocuraduría de Zona contará con una Dirección y una Subdirección de Averiguaciones Previas, una Dirección de Agentes del Ministerio Público adscritos a los Juzgados, una Dirección Administrativa y una Jefatura de Informática. La Dirección de Averiguaciones Previas contará a su vez con una Jefatura de Servicios Periciales, las Agencias del Ministerio Público necesarias, una Comandancia de Zona de Policía Ministerial, Jefatura de Grupo de la Policía Ministerial, Agencias de la Policía Ministerial, Secretarías de Acuerdos, Secretarías de Acuerdos en materia Conciliatoria y Canalizadoras. La Dirección de Agentes del Ministerio Público adscritos a los Juzgados, contará con el número suficiente de Agentes del Ministerio Público. De igual forma cada Subprocuraduría de zona contará con un Departamento de Promoción y Participación Ciudadana.
+Operarán bajo el régimen de desconcentración pero directamente subordinadas al Procurador, tres Subprocuradurías de Zona con sus respectivas jurisdicciones territoriales; asentadas en los Municipios de Mexicali; de Tijuana que comprenderá los Municipios de Tecate y Playas de Rosarito; y en el Municipio de Ensenada. Cada Subprocuraduría de Zona contará con una Dirección de Averiguaciones Previas, una Dirección de Control de Procesos, un Comandante de Zona de la Policía Ministerial. La Dirección de Averiguaciones Previas contará a su vez con una Unidad de Servicios Periciales, Agencias del Ministerio Público necesarias, Agencias del Ministerio Público Iniciadoras Conciliadoras tantas como sean necesarias, Secretarías de Acuerdo, Secretarías de Acuerdo en materia Conciliadora y Canalizadores. La Dirección de Control de Procesos, contará con una Unidad de Ejecución de Ordenes de Aprehensión, una Unidad de Servicios Periciales y con el número suficiente de Agentes del Ministerio Público Adscritos a Juzgados.
 
-En cada Subprocuraduría de Zona operarán las Agencias del Ministerio Público Especializadas, en el número y clasificación que se requieran, conforme a la incidencia delictiva.
+En cada Subprocuraduría de Zona operarán las Agencias del Ministerio Público Investigadoras por razón de la materia, en el número y clasificación que se requieran, conforme a la incidencia delictiva.
 
-De conformidad con las necesidades del servicio, el Procurador podrá establecer oficinas de la Procuraduría que se requieran de acuerdo con las disponibilidades presupuestales.
+De conformidad con las necesidades del servicio, el Procurador podrá establecer oficinas de la Procuraduría y Agencias del Ministerio Público, que se requieran de acuerdo con las disponibilidades presupuestales.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 6.
 
-Son auxiliares del Ministerio Público:
+Son Auxiliares del Ministerio Público:
 
 I.- La Policía Ministerial;
 
-II.- La Dirección de Servicios Periciales;
+II.- Las Unidades de Servicios Periciales;
 
-III.- Los Cuerpos de Seguridad Pública en el Estado, y
+III.- Los Cuerpos de Seguridad Estatal;
 
-IV.- Las autoridades investigadoras y persecutoras de los demás Estados y la Federación, en los términos de los convenios de cooperación que se celebren.
+IV.- Las autoridades investigadoras y persecutoras de los demás Estados y la Federación, en los términos de los convenios de cooperación que se celebren;
 
-La Policía Ministerial actuará bajo la autoridad y mando inmediato del Ministerio Público, en los términos del artículo 21 de la Constitución General de la República, al igual que la Dirección de Servicios Periciales; sin perjuicio de la autonomía técnica e independencia de criterio que le corresponde en el estudio de los asuntos que se sometan a su dictamen.
+V.- Los Médicos Legistas, del Servicio Médico Forense.
+
+La Policía Ministerial actuará bajo la autoridad y mando inmediato del Ministerio Público, en los términos del artículo 21 de la Constitución General de la República, al igual que la Unidad de Servicios Periciales; sin perjuicio de la autonomía técnica e independencia de criterio que le corresponde en el estudio de los asuntos que se sometan a su dictamen.
 
 ### CAPITULO III. DE LOS NOMBRAMIENTOS
 
@@ -321,61 +363,87 @@ El Gobernador podrá remover libremente al Procurador.
 
 El Procurador residirá en la Capital del Estado, pero realizará en el desempeño de sus funciones, cuantas visitas estime necesarias a las distintas dependencias de la Procuraduría.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 10.
 
-Para ocupar los cargos de Subprocurador General de Justicia, Subprocurador Jurídico, Director General de Asuntos Internos y Contraloría y Subprocurador de Zona, se deberán cubrir los requisitos señalados en el artículo 7º de esta Ley. El Director de Averiguaciones Previas y Director de Agentes del Ministerio Público adscritos a Juzgados, deberán satisfacer lo señalado en el artículo 7º de esta Ley, con excepción de los requisitos contenidos en las fracciones II y III, debiendo contar con una edad mínima de 30 años y cinco años de ejercicio profesional.
+Para ocupar el cargo de Subprocurador de Zona, Director de Asuntos Internos y Contraloría y Director Jurídico, se deberán cubrir los requisitos señalados en el artículo 7 en sus fracciones I, IV, V y VIII de esta Ley, deberá contar además con una edad mínima de treinta años, diez años de ejercicio profesional y poseer el día de la designación con antigüedad mínima de 10 años, título profesional de Licenciado en derecho expedido por la autoridad o institución legalmente facultada para ello debidamente registrado en el Departamento de Profesiones.
 
-Todos estos servidores públicos serán nombrados y removidos por el Gobernador a propuesta del Procurador, con excepción de los Directores de Averiguaciones Previas y de Agentes del Ministerio Público adscritos a Juzgados, quienes serán nombrados y removidos libremente por el Procurador.
+Todos estos servidores públicos serán nombrados y removidos por el Gobernador a propuesta del Procurador, con excepción de los Directores de Averiguaciones Previas y Directores de Control de Procesos, quienes serán nombrados y removidos libremente por el Procurador.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 11.
 
-Para ocupar el cargo de Director General Administrativo, además de los requisitos señalados en las fracciones I, IV y V del artículo 7º de esta Ley, deberá contar con una edad mínima de 30 años y poseer con antigüedad mínima de cinco años título de Contador Público, Licenciado en Administración, o carrera afín, expedido por la autoridad facultada para ello, y debidamente registrado.
+Para ocupar el cargo de Director Administrativo, además de los requisitos (sic) I, IV, V, VI y VIII del artículo 7 de esta Ley, deberá contar con una edad mínima de treinta años y poseer con antigüedad mínima de cinco años título de Contador Público o carrera afín, expedido por la autoridad facultada para ello, y debidamente registrado ante el departamento de Profesiones.
 
-La Dirección General Administrativa para el despacho de los asuntos que sean de su competencia, contará con los siguientes unidades:
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-I.- Dirección de Informática;
+La Dirección Administrativa para el despacho de los asuntos que sean de su competencia, contará con las siguientes unidades:
 
-II.- Dirección de Recursos Humanos;
+I.- Jefatura de Informática;
 
-III.- Dirección de Recursos Financieros y Materiales, y
+II.- Jefatura de Recursos Humanos;
 
-IV.- Instituto de Capacitación y Formación profesional.
+III.- Jefatura de Recursos Materiales;
 
-Los titulares de estas unidades serán nombrados y removidos por el Procurador, tomando en consideración las propuestas del Director General Administrativo.
+IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+Los titulares de estas unidades serán nombrados y removidos por el procurador, tomando en consideración las propuestas del Director Administrativo.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 12.
 
-Para ocupar el cargo de Director de Comunicación y Promoción Social, deberán cubrirse las condiciones establecidas en las fracciones I, IV y V del artículo 7º de esta Ley, contar por lo menos con 25 años de edad, y poseer con antigüedad mínima de tres años al día de su designación título de Licenciado en Comunicación o carrera afín, expedido por la autoridad facultada para ello, y debidamente registrado.
+La Unidad de Control y Seguimiento, estará a cargo de un Director, quien deberá reunir los requisitos de las fracciones I, IV, V, VI y VIII del Artículo 7 de esta Ley; deberá tener estudios profesionales con el grado de Licenciatura y un mínimo de treinta años, y tres años de ejercicio profesional, además ejercerá las siguientes atribuciones:
 
-La Dirección de Comunicación y Promoción Social se integrará con los siguientes departamentos:
+I.- Dar control y seguimiento a las demandas ciudadanas, por lo que hace a los servicios de atención al público;
 
-I.- Departamento de Comunicación y Difusión;
+II.- Implementar los programas de actividades de la Procuraduría para el debido cumplimiento de acuerdos y resoluciones en materia de procuración de justicia;
 
-II.- Departamento de Promoción Social y Atención a la Ciudadanía, y
+III.- Establecer proyectos de modernización, mejora continua y automatización de procesos;
 
-III.- Departamento de Promoción y Participación Ciudadana.
+IV.- Participar en el diseño de instrumentos de planeación, para cada una de las Unidades de la Procuraduría, con el objeto de lograr la eficiencia en procuración de justicia; y,
 
-Los titulares de éstos departamentos serán nombrados y removidos libremente por el Procurador, tomando en consideración la opinión del Director de Comunicación y Promoción Social.
+V.- Las demás que le señale el Reglamento Interior de la Procuraduría.
+
+Para el despacho de los asuntos de su competencia contará con el personal técnico y administrativo que se requiera.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 13.
 
-Para el despacho de los asuntos de su competencia, la Dirección General de Asuntos Internos y Contraloría se apoyará de un Área de Responsabilidades y un Área de Contraloría Administrativa, y asimismo, de una Dirección adscrita a cada Subprocuraduría, cuyos titulares tendrán el carácter de Agentes del Ministerio Público exclusivamente para efectos del desempeño de sus funciones, y serán nombrados y removidos libremente por el Procurador; oyendo las sugerencias del Director General de Asuntos Internos y Contraloría. Las Direcciones adscritas a las Subprocuradurías tendrán las atribuciones que les señale el Reglamento correspondiente.
+Para el despacho de los asuntos de su competencia, la Dirección de Asuntos Internos y Contraloría, se apoyará en un Área de Responsabilidades, asimismo con un Jefe adscrito a cada Subprocuraduría de Zona, quienes serán nombrados y removidos libremente por el Procurador; a sugerencia del Director de Asuntos Internos y Contraloría. Los Jefes, adscritos a las Subprocuradurías de Zona, tendrán las atribuciones que les señale el Reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 14.
 
-Para ser Director de Análisis y Diseño de Estrategias, se deben reunir los requisitos señalados en las fracciones I, IV y V del Artículo 7º de esta Ley, y además poseer con antigüedad mínima de tres años al día de su designación, título de Licenciado en Criminología, Licenciado en Derecho, en Sociología u otra carrera afín, y por lo menos cinco años de ejercicio profesional.
+El Director de Servicios Periciales, deberá cumplir con los requisitos (sic) I, IV, V, VI y VIII del Artículo 7 de la presente Ley, tener un mínimo de treinta años, título profesional de Licenciatura debidamente registrado en el Departamento de Profesiones y por lo menos tres años de ejercicio profesional.
 
-La Dirección de Análisis y Diseños de Estrategias, se integrará de los siguientes departamentos:
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-I.- Departamento de Enlace de Cuerpos Policiacos y de Seguridad Pública Municipal, Estatal, Federal y del Extranjero, y
+###### ARTÍCULO 14 Bis.
 
-II.- Departamento de Análisis e Investigación.
+Para ser Director Estatal de la Policía Ministerial, se deberán de cumplir los requisitos (sic) I, IV, V, VI y VIII del artículo 7, de esta Ley, tener título profesional con grado de Licenciatura en Derecho debidamente registrado en el Departamento de Profesiones, un mínimo de treinta años y por lo menos tres años de ejercicio profesional.
 
-Los titulares de dichos departamentos deberán ser nombrados y removidos libremente por el Procurador, tomando en consideración la opinión del Director de Análisis y Diseño de Estrategias.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 15.
 
-El Director General Administrativo, Director de Comunicación y Promoción Social y el Director de Análisis y Diseño de Estrategias, serán nombrados y removidos libremente por el Procurador.
+Para ser, Director de averiguaciones previas se deberán de cumplir los requisitos (sic) I, IV, V, VI y VIII del artículo 7, de esta Ley, tener título profesional con grado de Licenciatura en Derecho debidamente registrado en el Departamento de Profesiones, un mínimo de treinta años y por lo menos tres años de ejercicio profesional.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 15 Bis.
+
+El Director Administrativo, Director del Instituto de Capacitación Profesional, Director de Servicios Periciales, Director de la Unidad de Control y Seguimiento y el Director de Atención a Víctimas del Delito serán nombrados y removidos libremente por el Procurador, previo acuerdo del Gobernador.
+
+Debiendo el Director de Control de Procesos, Director del Instituto de Capacitación Profesional y el Director de atención a Víctimas del delito, cumplir con los requisitos (sic) I, IV, V, VI y VIII del Artículo 7 de esta Ley, tener un mínimo de treinta años, título profesional de Licenciatura y por lo menos cinco años de ejercicio profesional, y poseer el día de la designación con antigüedad mínima de diez años título profesional de Licenciado en Derecho expedido por la autoridad o institución legalmente facultada para ello, debidamente registrado ante el Departamento de Profesiones.
+
+Para ocupar el cargo de las Comandancias de Zona de la Policía Ministerial y de las Agencias del Ministerio Público se deberán cubrir los requisitos señalados en el artículo 7 en sus fracciones I, IV, V, VI y VIII de esta Ley, debiendo contar con una edad mínima de veinticinco años, Título profesional de Licenciado en Derecho expedido por la autoridad o institución legalmente facultada para ello, debidamente registrado ante el Departamento de Profesiones y contar por lo menos con tres años de ejercicio profesional.
 
 ###### ARTÍCULO 16.
 
@@ -419,7 +487,7 @@ VIII.- Poner en conocimiento del Consejo de la Judicatura del Poder Judicial del
 
 IX.- Emitir dictamen en los casos en que el Ministerio Público formule conclusiones no acusatorias, y en los casos previstos en el Código de Procedimientos Penales para el Estado;
 
-X.- Ordenar y vigilar la elaboración de la estadística criminal en el Estado;
+X.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
 XI.- Rendir los informes necesarios para su intervención en los juicios de amparo;
 
@@ -435,69 +503,49 @@ XVI.- Participar con voz y voto en el Consejo Interno de la Procuraduría, y
 
 XVII.- Las demás que le encomiende el Gobernador y le señalen las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 18.
 
-Compete al Subprocurador General de Justicia del Estado:
+Compete a la Dirección Jurídica, el ejercicio de las siguientes atribuciones:
 
-I.- Suplir las ausencias del Procurador General de Justicia en los términos que establezca el Reglamento;
+I.- Formular y poner a consideración del Procurador, los informes previos y justificados, así como toda clase de promociones y recursos que deban presentarse e interponerse en los juicios de amparo, tramitados contra actos de los servidores de la Procuraduría en ejercicio de sus funciones;
 
-II.- Auxiliar al Procurador en las funciones que le sean conferidas;
+II.- Vigilar que los pedimentos que se hagan a la institución se realicen con apego a derecho, y que las vistas se desahoguen dentro de los plazos y términos legales;
 
-III.- Acordar con el Procurador los asuntos relacionados con las unidades orgánicas de la Procuraduría, y los demás que aquel le encomiende;
+III.- Revisar las determinaciones de no ejercicio de la acción penal y de archivo definitivo, por delegación del Procurador;
 
-IV.- Coordinar, supervisar y regular las unidades orgánicas de la Procuraduría, en los términos que establece la Ley y sus reglamentos;
+IV.- Realizar dictámenes sobre asuntos de carácter jurídico que se reciban para su revisión y consulta;
 
-V.- Someter a la aprobación del Procurador, los estudios y proyectos de trascendencia que se elaboren en el área de su responsabilidad;
+V.- Mantener informado al Procurador, del estado que guardan los asuntos que por su importancia y trascendencia requieran de su atención personal;
 
-VI.- Mantener la coordinación y comunicación entre las Subprocuradurías, con el fin de garantizar el eficaz cumplimiento de los objetivos, políticas y programas establecidos por el Procurador y las leyes de la materia;
+VI.- Realizar proyectos de conclusiones ministeriales por delegación de Procurador, en los casos y términos que establece el Código de Procedimientos Penales del Estado; y,
 
-VII.- Conceder audiencias al público que lo solicite, para tratar asuntos relativos a la procuración de justicia;
+VII.- Las demás que señale el Reglamento Interior de esta Ley.
 
-VIII.- Ejecutar en la esfera de su competencia, los convenios, bases y otros instrumentos de coordinación celebrados por la institución;
-
-VIII (sic).- Verificar el cumplimiento de funciones de los Subprocuradores de Zona;
-
-IX.- Establecer y aplicar normas y criterios en materia estatal, con la aprobación del Procurador General de Justicia;
-
-X.- Participar con voz y voto en el Consejo Interno de la Procuraduría;
-
-XI.- Fungir como Secretario en el Consejo Interno de la Procuraduría, y
-
-XII.- Las demás que le sean asignadas o se deriven de las leyes y reglamentos aplicables.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 19.
 
-Al Subprocurador Jurídico, le compete:
+La Dirección de Atención a Víctimas del Delito, tendrá las siguientes atribuciones:
 
-I.- Suplir las ausencias del Procurador General de Justicia, a falta del Subprocurador General en los términos previstos en el Reglamento;
+I.- Proporcionar orientación y asesoría legal, a víctimas del delito, así como propiciar su eficaz coadyuvancia en los procesos penales;
 
-II.- Realizar estudios jurídicos comparativos y de análisis, presentándolos al Procurador, para que en lo que corresponda sean aplicados a la función de la Procuraduría, eficientando el servicio público y elevando su calidad;
+II.- Promover que se garantice y se haga efectiva la reparación del daño;
 
-III.- Formular y poner a consideración del Procurador, los informes previos y justificados, así como toda clase de promociones y recursos que deban presentarse e interponerse en los juicios de amparo, tramitados contra actos de los servidores de la Procuraduría en ejercicio de sus funciones;
+III.- Concertar acciones con instituciones de asistencia médica, social, públicas o privadas, para efectos de cumplimentar lo dispuesto en el Artículo 20 de la Constitución General de la República; y,
 
-IV.- Vigilar que los pedimentos que se hagan a la institución se realicen con apego a derecho, y que las vistas se desahoguen dentro de los plazos y términos legales;
+IV.- Las demás que señale el Reglamento Interior de esta Ley.
 
-V.- Interponer los recursos que la Ley concede, y formular los agravios correspondientes;
-
-VI.- Revisar las determinaciones de no ejercicio de la acción penal y de archivo definitivo, por delegación del Procurador;
-
-VII.- Realizar dictámenes sobre asuntos de carácter jurídico que se reciban para su revisión y consulta;
-
-VIII.- Formular proyectos de instructivos, acuerdos y circulares para facilitar el desempeño de las funciones del Ministerio Público, por indicaciones del Procurador, o que considere debe expedir para ser sometido a la aprobación de este;
-
-IX.- Coordinar y dirigir el desempeño de los Agentes del Ministerio Público adscritos a la Subprocuraduría Jurídica y a las Salas del Tribunal Superior de Justicia del Estado;
-
-X.- Mantener informado al Procurador del estado que guardan los asuntos que por su importancia y trascendencia requieran de su atención personal;
-
-XI.- Realizar proyectos de conclusiones ministeriales por delegación del Procurador, en los casos y términos que establece el Código de procedimientos Penales del Estado, y
-
-XII.- Las demás funciones y actividades inherentes a su cargo, aquellas que le sean encomendadas por el Procurador, y las que se deriven de esta Ley, su Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 20.
 
-El Director General de Asuntos Internos y Contraloría tendrá el mismo nivel jerárquico que el Subprocurador General, por lo que deberá contar para su designación con los mismos requisitos que éste, asimismo, dependerá directamente del Procurador o de quien lo sustituya legalmente, auxiliándose para el ejercicio de sus funciones, del personal técnico y administrativo que se determine por acuerdo del Procurador, y conforme a las necesidades del servicio.
+El Director de Asuntos Internos y Contraloría, dependerá directamente del Procurador, auxiliándose del personal técnico y administrativo que se determine por acuerdo del Procurador, y conforme a las necesidades del servicio.
 
-Compete al titular de la Dirección General de Asuntos Internos y Contraloría:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+Compete al titular de la Dirección de Asuntos Internos y Contraloría:
 
 I.- Realizar a petición de parte o de manera oficiosa, visitas de inspección y revisión a las distintas unidades orgánicas de la institución; verificando desde el punto de vista legal, técnico y administrativo, que los servidores públicos de la institución cumplan con las políticas operativas, ordenamientos en vigor y criterios normativos establecidos para mejorar el servicio, informando al Procurador de las observaciones y recomendaciones conducentes, y en su caso, estableciendo las medidas adecuadas para su cumplimiento;
 
@@ -519,17 +567,27 @@ VIII.- Las demás que le sean encomendadas por el Procurador, y le señalen las 
 
 Compete a los Subprocuradores de Zona:
 
-I.- Acordar con el Procurador, y en su caso, con el Subprocurador General; el despacho de los asuntos de su competencia y de las unidades administrativas a su cargo;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-II.- Desempeñar las funciones y comisiones que el Procurador o el Subprocurador General les encomiende, informando sobre el desarrollo de las mismas;
+I.- Acordar con el Procurador, el despacho de los asuntos de su competencia y de las unidades administrativas a su cargo;
 
-III.- Planear, coordinar y evaluar las actividades de las unidades administrativas a su cargo, de conformidad con los lineamientos que determine para este caso, el Procurador y el Subprocurador General en su caso, esta Ley, su Reglamento, y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-IV.- Someter a consideración del Procurador y en su caso del Subprocurador General, la organización interna de las unidades administrativas de su adscripción, así como los procedimientos administrativos y las normas de coordinación y operación, de conformidad con las disposiciones legales y reglamentarias;
+II.- Desempeñar las funciones y comisiones que el Procurador le encomiende, informando sobre el desarrollo de las mismas;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+III.- Planear, coordinar y evaluar las actividades de las unidades administrativas a su cargo, de conformidad con los lineamientos que determine para este caso, el Procurador, esta Ley, su Reglamento, y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Someter a consideración del Procurador, la organización interna de las unidades administrativas de su adscripción, así como los procedimientos administrativos y las normas de coordinación y operación, de conformidad con las disposiciones legales y reglamentarias;
 
 V.- Transmitir al personal a su cargo, las instrucciones generales y especiales para el cumplimiento de sus atribuciones y funciones, para lograr la unidad de acción del Ministerio Público, vigilando su debido cumplimiento;
 
-VI.- Rendir mensualmente al Procurador y al Subprocurador General, un informe de las actividades desarrolladas en la Subprocuraduría a su cargo;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+VI.- Rendir mensualmente al Procurador, un informe de las actividades desarrolladas en la Subprocuraduría a su cargo;
 
 VII.- Opinar y dictaminar sobre los asuntos que se reciben para su revisión y consulta;
 
@@ -579,11 +637,15 @@ XV.- Practicar visitas a las Agencias del Ministerio Público y oficinas de su a
 
 XVI.- Vigilar la secuela de las averiguaciones previas hasta su determinación, verificando permanentemente el seguimiento de las averiguaciones en las que se haya dictado reserva en trámite, para su debida continuación;
 
-XVII.- Solicitar de la Dirección General de Asuntos Internos y Contraloría, inspecciones y revisiones cuando lo estime conveniente;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XVII.- Solicitar a la Dirección de Asuntos Internos y Contraloría, inspecciones y revisiones cuando lo estime conveniente;
 
 XVIII.- Investigar y hacer cesar las detenciones arbitrarias e ilegales que se cometan, solicitando la aplicación de sanciones a los responsables;
 
-XIX.- Ordenar a la Policía Ministerial y Preventiva, y a la Dirección de Servicios Periciales, las diligencias y dictámenes que se requieran para el debido esclarecimiento de los hechos;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XIX.- Ordenar a la Policía Ministerial y a la Unidad de Servicios Periciales, las diligencias y dictámenes que se requieran para el debido esclarecimiento de los hechos;
 
 XX.- Llevar un control de las averiguaciones previas iniciadas en la zona de su adscripción, así como el avance y seguimiento que se le ha dado a las mismas, rindiendo informe mensual al respecto a la Subprocuraduría de Zona a la cual se encuentra adscrito;
 
@@ -597,13 +659,19 @@ XXIV.- Vigilar que en todos los casos en los que se dicte el no ejercicio de la 
 
 XXV.- Las demás inherentes al cargo, aquellas que le sean encomendadas por la Subprocuradoría (sic) de Zona de su adscripción, y las que determinen las Leyes, Reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 23.
 
-La Dirección de Agentes del Ministerio Público adscritos a Juzgados, tiene como función esencial cumplir con las atribuciones que las leyes le confieren al Ministerio Público en los procesos instaurados en los Juzgados Penales, Civiles, Familiares, de Paz Penal, de Paz Civil, de Paz y Mixtos de Paz en el Estado. Cada Dirección de Agentes del Ministerio Público adscritos a Juzgados, están subordinados de manera directa a la Subprocuraduría de Zona de su adscripción.
+La Dirección de Control de Procesos, tendrá como función esencial cumplir con las atribuciones que las leyes le confieren al Ministerio Público en los procesos instaurados en el Tribunal Superior de Justicia, los Juzgados Penales, Civiles, Familiares, de Paz Penal, de Paz Civil, de Paz y Mixtos de Paz en el Estado, por conducto de los Agentes del Ministerio Público adscritos a Juzgados. La Dirección de Control de Procesos, está subordinada de manera directa a la Subprocuraduría de Zona de su adscripción.
 
-Son atribuciones de la Dirección de Agentes del Ministerio Público adscritos a Juzgados en el ámbito de su adscripción, las siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-I.- Vigilar y coordinar el desempeño de los Agentes del Ministerio Público adscritos a los Juzgados Penales, Civiles, Familiares, de Paz Penales, de Paz Civiles, de Paz y Mixtos de Paz;
+Son atribuciones de la Dirección de Control de Procesos en el ámbito de su adscripción, las siguientes:
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+I.- Vigilar y Coordinar el desempeño de los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, a los Juzgados Penales, Civiles, Familiares, de Paz Penales, de Paz Civiles, de Paz y Mixtos de Paz;
 
 II.- Intervenir en los procesos penales en primera instancia, promoviendo las diligencias tendientes a comprobar los elementos del tipo penal y la responsabilidad de los inculpados, así como para exigir el pago y la garantía de la reparación del daño;
 
@@ -645,19 +713,29 @@ XX.- Desistirse de la acción penal con aprobación del Procurador General de Ju
 
 XXI.- Las demás que le sean encomendadas por el Subprocurador de su adscripción, le establezca esta Ley, su Reglamento, y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 24.
 
-La Dirección de Servicios Periciales fungirá como un auxiliar de la institución del Ministerio Público, con el fin de examinar personas, objetos u hechos que requieran conocimientos especiales de determinadas ciencias, técnicas o artes, para llegar al esclarecimiento de la comisión de delitos; dependerá directamente del Subprocurador General de Justicia, y estará integrada por:
+Las Unidades de Servicios Periciales dependientes de su Dirección, fungirán como un auxiliar de la institución del Ministerio Público, con el fin de examinar personas, objetos o hechos que requieran conocimientos especiales de determinadas ciencias, técnicas o artes, para llegar al esclarecimiento de la comisión de delitos; dependerán las unidades directamente de la Dirección de Averiguaciones Previas ó de la Dirección de Control de Procesos de cada Subprocuraduría de Zona, según el caso; y estará integrada por:
 
-I.- Un Director;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+I.- Un Jefe de la Unidad de Servicios Periciales;
 
 II.- Peritos, especialistas en las áreas necesarias;
 
-III.- Jefatura de Servicios Periciales, y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-IV.- Personal técnico y administrativo que requieran las necesidades del servicio.
+III.- El Personal Técnico y Administrativo que requieran las necesidades del servicio.
 
-En cada Zona operará una Jefatura de Servicios Periciales.
+IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+En cada Zona operarán dos Unidades de Servicios Periciales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 25.
 
@@ -679,35 +757,13 @@ VII.- Las demás que le sean encomendadas por esta Ley, sus disposiciones reglam
 
 ###### ARTÍCULO 26.
 
-La Dirección de Análisis y Diseño de Estrategias es la unidad orgánica de la Procuraduría encargada de establecer los vínculos con otras organizaciones policiales, y analizar e investigar estrategias de combate a la delincuencia y prevención del delito; quien tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2001)
 
-I.- Representar a la Procuraduría ante autoridades federales, municipales y del extranjero en materia policial;
-
-II.- Recabar, sistematizar y analizar información generada en materia de incidencia delictiva;
-
-III.- Promover las medidas convenientes para el mejoramiento de la seguridad pública y la procuración de justicia;
-
-IV.- Investigar y determinar las causas que dan origen a los delitos, precisar los lugares de su comisión, desarrollar estadísticas criminales y conocer el impacto social del delito y su costo;
-
-V.- Promover el mejoramiento de los instrumentos administrativos y tecnológicos, para la investigación y la eficaz persecución de delitos;
-
-VI.- Estudiar y analizar las medidas de política criminal adoptadas en otras entidades de la República Mexicana, así como del extranjero;
-
-VII.- Establecer programas de evaluación para la verificación del avance en la procuración de justicia en la entidad;
-
-VIII.- Desarrollar estrategias para la prevención del delito y para combatir la delincuencia;
-
-IX.- Promover programas para la prevención de conductas infractoras de menores;
-
-X.- Desarrollar alternativas y programas para el uso del tiempo libre, como medio para combatir la delincuencia y mejorar la seguridad pública;
-
-XI.- Fungir como órgano asesor de la Procuraduría en materia de política e información criminal, y
-
-XII.- Las demás que le sean conferidas por el Procurador, esta Ley, su Reglamento, y demás disposiciones aplicables.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 27.
 
-La Dirección General Administrativa tendrá las siguientes atribuciones:
+La Dirección Administrativa tendrá las siguientes atribuciones:
 
 I.- Ejercer el presupuesto de la Procuraduría a través de las partidas correspondientes, administrar los gastos, y llevar la contabilidad general de la institución;
 
@@ -731,7 +787,9 @@ X.- Llevar un inventario pormenorizado de los recursos materiales de la instituc
 
 XI.- Tramitar todo lo relativo a nombramientos, ascensos, renuncias, remociones, cambios de adscripción, licencias, vacaciones y dotación de documentos de identificación para el personal de la Procuraduría;
 
-XII.- Proponer a la Dirección General de Asuntos Internos y Contraloría, la imposición de sanciones administrativas a que se haga acreedor el personal de la Procuraduría, por violaciones a las disposiciones legales de la institución;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XII.- Proponer a la Dirección de Asuntos Internos y Contraloría, la imposición de sanciones administrativas a que se haga acreedor el personal de la Procuraduría, por violaciones a las disposiciones legales de la institución;
 
 XIII.- Analizar y estudiar los programas de trabajo de la institución, y sugerir las medidas técnicas administrativas que procedan;
 
@@ -759,7 +817,9 @@ XXIV.- Buscar nuevas áreas de oportunidad dentro de la Procuraduría para el us
 
 XXV.- Asegurar que los recursos de informática sean utilizados de acuerdo a los objetivos establecidos;
 
-XXVI.- Coordinar el sistema de información y estadística de la institución, procesando en ellos la información pertinente que obligatoriamente deberán proporcionarle las diversas unidades institucionales; de acuerdo a las normas, procedimientos e indicadores que la unidad establezca y actualice, en coordinación con la respectivas áreas informantes, en relación a: información criminal, identificación de delincuentes, inventario de vehículos robados y en depósito, información sobre ordenamientos jurídicos y tesis jurisprudenciales, sistemas de identificación o modo de operación de los delincuentes, seguimiento a la integración de averiguaciones, y consignación y control de procesos, cumplimiento de órdenes dictadas por autoridad judicial o ministerial, y los demás que le sean necesarios para la procuración de justicia; remitiendo toda esta información mediante sistemas de informática a la Dirección General de Asuntos Internos y Contraloría;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XXVI.- Coordinar el sistema de información y estadística de la institución, procesando en ellos la información pertinente que obligatoriamente deberán proporcionarle las diversas unidades institucionales; de acuerdo a las normas, procedimientos e indicadores que la unidad establezca y actualice, en coordinación con las respectivas áreas informantes, en relación a: información criminal, identificación de delincuentes, inventario de vehículos robados y en depósito, información sobre ordenamientos jurídicos y tesis jurisprudenciales, sistemas de identificación o modo de operación de delincuentes, seguimiento a la integración de averiguaciones, consignación y control de procesos, cumplimiento de órdenes dictadas por autoridad judicial o ministerial, y los demás que le sean necesarios para la procuración de justicia; remitiendo toda esta información mediante sistemas de informática a la Dirección de Asuntos Internos y Contraloría;
 
 XXVII.- Generar la información estadística que requieran las diversas unidades de la institución, así como integrar para su difusión pública; aquella información institucional de interés general, y
 
@@ -769,7 +829,9 @@ XXVIII.- Las demás que le sean encomendadas por el Procurador, o que le señale
 
 Son atribuciones de los Agentes del Ministerio Público del orden común las siguientes:
 
-A) De los titulares de las Agencias del Ministerio Público investigadora de delitos y especializadas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+A) De los titulares de las Agencias del Ministerio Público investigadoras de delitos, Iniciadoras conciliadoras y por razón de la materia:
 
 I.- Recibir las denuncias de hechos que presuntivamente constituyen uno o más delitos;
 
@@ -789,9 +851,13 @@ VIII.- Desahogar los exhortos que reciba el Ministerio Público;
 
 IX.- Practicar las visitas a las comandancias y delegaciones de la Policía Preventiva Municipal de la jurisdicción, pasando revisión sobre las personas que se encuentran detenidas en las mismas y ordenando su libertad cuando proceda, o que sean turnadas de inmediato a la autoridad competente;
 
-Los Agentes del Ministerio Público rendirán informe por escrito de las visitas al Subprocurador cuando éste lo determine; dichas visitas se harán independientemente de las practicadas por los Agentes del Ministerio Público que forman parte de la Dirección General de Asuntos Internos y Contraloría o bien solicitando la intervención de éstos;
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-X.- Tener el control del personal técnico y administrativo a sus órdenes, y rendir un informe mensual al Director de Averiguaciones Previas, con copia al Subprocurador y al Procurador, en todos los asuntos en que intervenga con motivo de su cargo;
+Los Agentes del Ministerio Público rendirán informe por escrito de las visitas al Subprocurador de Zona cuando este lo determine, dichas visitas se harán independientemente de las practicadas por la Dirección de Asuntos Internos y Contraloría o bien solicitando la intervención de estos;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+X.- Tener el control de personal técnico y administrativo a sus órdenes, y rendir un informe mensual al Director de Averiguaciones Previas, con copia al Subprocurador de Zona y al Procurador, en todos los asuntos en que intervenga con motivo de su cargo;
 
 XI.- Rendir los informes necesarios para su intervención en los juicios de amparo;
 
@@ -801,7 +867,9 @@ XIII.- Restituir al ofendido en forma provisional, siempre y cuando la medida se
 
 XIV.- Asegurar los bienes, instrumentos, objetos y valores relacionados con los hechos delictivos en los casos que corresponda, para ponerlos a disposición del órgano jurisdiccional o de la autoridad que compete;
 
-XV.- Rendir informe diario al Director de Averiguaciones Previas de sus actividades, haciendo constar la información sobre las actas iniciadas y el avance de las mismas;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XV.- Rendir informe diario al Director de Averiguaciones Previas de sus actividades, haciendo constar la información sobre las actas iniciadas y el avance de las mismas; dicha información se hará llegar por conducto de la Coordinación de Agencias del Ministerio Público;
 
 XVI.- Supervisar el debido registro y custodia de los objetos, valores e instrumentos asegurados y relacionados con hechos denunciados motivo de las indagatorias, informando de ello a su superior jerárquico;
 
@@ -829,9 +897,13 @@ IV.- Cuidar que los procesos se sigan con toda regularidad;
 
 V.- Desistirse de la acción penal ejercitada, en los casos en que proceda y de conformidad a lo establecido en el Código de Procedimientos Penales para el Estado;
 
-VI.- Solicitar la sanción correspondiente contra el procesado cuando se hayan reunido los requisitos para imponerle una pena, o bien; solicitar la libertad del inculpado, sea porque el delito no exista o porque existiendo no sea imputable al acusado, o concurran en favor de éste algunas excluyentes del delito o de extinción de la acción persecutora prevista en el Código Penal del Estado; en estos casos, antes de formular su pedimento para que se dicte la libertad del inculpado, deberá recabarse la autorización del Procurador por conducto del Subprocurador de Zona o del Director de Agentes del Ministerio Público adscritos a Juzgados, en su caso;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-VII.- En los casos en que deban formularse conclusiones inacusatorias, deberá recabarse previamente la autorización del Procurador por conducto del Subprocurador de Zona, o en su caso del Director de Agentes del Ministerio Público adscrito a Juzgados;
+VI.- Solicitar la sanción correspondiente con el proceso cuando se hayan reunido los requisitos para imponerles una pena, a bien, solicitar la libertad del inculpado, sea porque el delito no exista o porque existiendo no sea imputable al acusado, o concurran a favor de este algunas excluyentes del delito o de extinción de la acción persecutora prevista en el Código Penal del Estado; en estos casos, antes de formular su pedimento para que se dicte libertad del inculpado, deberá recabarse la autorización del Procurador por conducto del Subprocurador de Zona o del Director de Control de Procesos, en su caso;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+VII.- En los casos en que deban formularse conclusiones inacusatorias, deberá recabarse previamente la autorización del Procurador por conducto del Subprocurador de Zona, o en su caso del Director de Control de Procesos;
 
 VIII.- Pedir la reparación del daño causado por el delito, en los casos en que proceda;
 
@@ -845,15 +917,21 @@ XII.- Concurrir a las visitas de Centros de Readaptación Social que practique e
 
 XIII.- Remitir inmediatamente a la Policía Ministerial las órdenes de aprehensión de su adscripción para su cumplimiento;
 
-XIV.- Rendir al Director de Agentes del Ministerio Público adscritos a Juzgado, con copia al Subprocurador de Zona, el informe semanal del estado que guardan los procesos en que intervengan, así como todas las actividades inherentes al cargo;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-XV.- Informar al Director de Agentes del Ministerio Público adscritos a Juzgados, con copia al Subprocurador de Zona, de las irregularidades que se adviertan en la administración de justicia en los juzgados de su adscripción;
+XIV.- Rendir al Director de Control de Procesos, con copia al Subprocurador de Zona, un informe semanal del estado que guardan los procesos en que intervengan, así como todas las actividades inherentes al cargo;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XV.- Informar al Director de Control de Procesos, con copia al Subprocurador de Zona, de las irregularidades que se adviertan en la administración de justicia en los juzgados de su adscripción;
 
 XVI.- Visitar las Notarias y oficinas del Registro Público de la Propiedad y del Comercio, y del Registro Civil del Partido Judicial de su adscripción, cuando así se le ordene;
 
 XVII.- Formar parte del personal docente honorífico del Instituto de Capacitación y Formación Profesional de la Procuraduría, cuando lo determine el Procurador;
 
-XVIII.- Plantear las consultas que estime necesarias al Director de Agentes del Ministerio Público adscritos a Juzgados, y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XVIII.- Plantear las consultas que estime necesarias al Director de Control de Procesos, y
 
 XIX.- Las demás que le señalen las Leyes, Reglamentos y demás disposiciones legales aplicables.
 
@@ -865,11 +943,15 @@ II.- Demandar, contestar demandas y formular los pedimentos que proceda, rendir 
 
 III.- Recibir notificaciones de las resoluciones dictadas en los negocios en que intervengan, y concurrir a las audiencias y demás diligencias que con su intervención deban practicarse;
 
-IV.- Dar cuenta al Procurador, por conducto del Director de Agentes del Ministerio Público adscritos a Juzgados y del Subprocurador de Zona de su adscripción, o directamente cuando sean llamados por aquél, de todos los negocios en que se estime necesaria su consulta, y proceder de acuerdo a sus instrucciones;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Dar cuenta al Procurador, por conducto del Director de Control de Procesos, y del Subprocurador de Zona de su adscripción, o directamente cuando sean llamados por aquél, de todos los negocios en que se estime necesaria su consulta, y proceder de acuerdo a sus instrucciones;
 
 V.- Desahogar las vistas en los incidentes criminales promovidos en los juicios civiles, recabando copias de las actuaciones, solicitando la suspensión del procedimiento cuando proceda; y remitiendo al Director de Averiguaciones Previas, la documentación que obre en su poder cuando se haga necesaria la integración de una averiguación previa;
 
-VI.- Rendir al Director de Agentes del Ministerio Público de su adscripción, informe semanal del estado que guardan los procesos en que intervengan, así como de todas las actuaciones inherentes a su cargo, y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+VI.- Rendir al Director de Control de Procesos, informe semanal del estado que guardan los procesos en que intervengan, así como de todas las actuaciones inherentes a su cargo, y
 
 VII.- Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables.
 
@@ -903,7 +985,9 @@ VIII.- Las demás que establezcan las leyes, reglamentos, circulares, acuerdos y
 
 Son atribuciones del personal de la Policía Ministerial del Estado las siguientes:
 
-A) De la Comandancia Auxiliar de la Policía Ministerial:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+A) De la Dirección Estatal de la Policía Ministerial:
 
 I.- Dirigir, supervisar y coordinar las actividades de los Comandantes de Zona;
 
@@ -911,15 +995,23 @@ II.- Orientar técnicamente el desarrollo de las actividades de la Policía Mini
 
 III.- Llevar a cabo mensualmente, reuniones con los Comandantes de Zona, a fin de que las funciones y actividades de la Policía Ministerial en el Estado se realicen en forma unitaria, eficaz y congruente con las políticas establecidas para la institución;
 
-IV.- Poner en conocimiento del Subprocurador General de Justicia, las anomalías que observe en las actividades que realicen los Comandantes de Zona;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Poner en conocimiento del Procurador, las anomalías que observe en las actividades que realicen los Comandantes de Zona;
 
 V.- Vigilar que todas las actuaciones y diligencias de la Policía Ministerial del Estado, se realicen con respeto a la dignidad e integridad de las personas, y con absoluto apego a las disposiciones en materia de derechos humanos;
 
-VI.- Someter a la aprobación del Subprocurador General de Justicia, los estudios y proyectos que se elaboren en la Comandancia a su cargo;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-VII.- Coordinarse previo acuerdo con el Subprocurador General de Justicia, con otras dependencias, direcciones y unidades de la Procuraduría, así como con otras de carácter federal, estatal o municipal, para el mejor desempeño de la Policía Ministerial en el Estado;
+VI.- Someter a la aprobación del Procurador los Estudios y proyectos que se elaboren en las Comandancias de Zona de la Policía Ministerial, a su cargo;
 
-VIII.- Rendir informe semanal al Subprocurador General, de las actividades desarrolladas por la Policía Ministerial en el Estado, y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+VII.- Coordinarse con el Procurador, con otras dependencias, direcciones y unidades de la Procuraduría, así como con otras de carácter federal, estatal o municipal, para el mejor desempeño de la Policía Ministerial en el Estado;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+VIII.- Rendir Informe semanal al Procurador, de las actividades desarrolladas por la Policía Ministerial en el Estado;
 
 IX.- Las demás que le sean encomendadas por el Procurador o en su caso, el Subprocurador General, y le señalen las Leyes y Reglamentos.
 
@@ -927,7 +1019,9 @@ B) De las Comandancias de Zona de la Policía Ministerial:
 
 I.- Dirigir, supervisar y coordinar las actividades de sus subalternos, en las zonas o investigaciones específicas que se le asignen;
 
-II.- Llevar el registro, distribución, control y trámite de las órdenes de presentación, comparecencia, aprehensión, reaprehensión y cateo que giren los órganos jurisdiccionales, las de detención, presentación e investigación que emita el Ministerio Público en ejercicio de sus funciones; rindiendo un informe semanal al Director de Averiguaciones Previas de la adscripción;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+II.- Llevar el registro, distribución, control y trámite de las órdenes de presentación, comparecencias, aprehensión, reaprehensión y cateo que giren los órganos jurisdiccionales, las de detención, presentación e investigación que emita el Ministerio Público en ejercicio de sus funciones; rindiendo un informe semanal al Director de Averiguaciones Previas a la Dirección de Control de Procesos de su adscripción según corresponda;
 
 III.- Acordar e informar diariamente al Director de Averiguaciones Previas de su adscripción, los asuntos concernientes al servicio, las diligencias o actuaciones que en ejercicio de sus deberes le hayan solicitado el Ministerio Público, así como de aquellas otras en que hubiera participado directamente o a través del personal bajo su mando;
 
@@ -959,9 +1053,13 @@ XVI.- Someter a la aprobación del Director de Averiguaciones Previas de la adsc
 
 XVII.- Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de las actividades y acciones encomendadas al personal de la Comandancia a su cargo;
 
-XVIII.- Coordinarse previo acuerdo con el Director de Averiguaciones Previas, con otras Direcciones y unidades de la Procuraduría, así como con otras dependencias federales, estatales y municipales, para el mejor desempeño de las funciones de la Policía Ministerial;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-XIX.- Desempeñar las funciones y comisiones que el Procurador o el Director de Averiguaciones previas les encomiende, e informarle sobre el desarrollo de las mismas;
+XVIII.- Coordinarse previo acuerdo de los Directores de Averiguaciones Previas y Control de Procesos, con otras Direcciones y unidades de la Procuraduría, así como con otras dependencias federales, estatales y municipales, para el mejor desempeño de las funciones de la Policía Ministerial;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XIX.- Desempeñar las funciones y comisiones que el Procurador o los Directores de Averiguaciones Previas y Control de Procesos les encomienden, e informarles sobre el desarrollo de las mismas;
 
 XX.- Vigilar bajo su estricta responsabilidad, que en el desempeño de las actividades asignadas al personal bajo su mando, no intervengan personas ajenas a la corporación;
 
@@ -971,7 +1069,9 @@ XXII.- Someterse a los exámenes que se ordenen, incluyendo las que se practique
 
 XXIII.- Participar en los cursos que señale la institución;
 
-XXIV.- Rendir informe semanal al Director de Averiguaciones Previas y al Comandante Auxiliar, de las actividades desarrolladas en su zona, y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XXIV.- Rendir informe semanal a los Directores de Averiguaciones Previas, Control de Procesos y al Director Estatal de la Policía Ministerial, de las actividades desarrolladas en su zona, y
 
 XXV.- Las demás que le sean conferidas por las leyes, reglamentos y demás disposiciones aplicables.
 
@@ -1031,25 +1131,35 @@ XIV.- Las demás que legalmente le sean encomendadas.
 
 ### CAPITULO V. DEL INSTITUTO DE CAPACITACIÓN Y FORMACIÓN PROFESIONAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 31.
 
-Se crea el Instituto de Capacitación y Formación Profesional, el cual tendrá objetivos esencialmente académicos, para fomentar la investigación científica y para fungir como un medio auxiliar en la implementación de programas de profesionalización, superación, formación, especialización y actualización para los servidores públicos de la Procuraduría. El Instituto para su funcionamiento estará integrado por un Director, y por el personal técnico y administrativo que se requiera según las necesidades del servicio.
+Se crea el Instituto de Capacitación Profesional, el cual tendrá objetivos esencialmente académicos, para fomentar la investigación científica y para fungir como medio auxiliar en la implementación de programas de profesionalización, superación, especialización y actualización para los servidores públicos de la Procuraduría. El Instituto para su funcionamiento estará integrado por un Director, y por el personal técnico y administrativo que se requiera según las necesidades del servicio.
 
-La Dirección del Instituto estará directamente subordinada a la Dirección General Administrativa, y su organización y funcionamiento se regirá por las disposiciones del presente ordenamiento, normas reglamentarias y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+La Dirección del Instituto estará directamente subordinada al Procurador, y su organización y funcionamiento se regirá por las disposiciones del presente ordenamiento, normas reglamentarias y demás disposiciones aplicables.
 
 Es obligación de todos los servidores públicos de la Procuraduría asistir a los diferentes cursos de capacitación, conferencias y eventos de carácter académico que se impartan en la Institución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 32.
 
-El Instituto de Capacitación y Formación Profesional tendrá las siguientes atribuciones:
+El Instituto de Capacitación Profesional tendrá las siguientes atribuciones:
 
 I.- Participar en la formulación de los planes y programas de estudio, en los términos de las normas reglamentarias y disposiciones aplicables;
 
 II.- Vigilar que los planes y programas de estudio tengan como objetivo el desarrollo integral de aptitudes, de acuerdo a cada área para el mejoramiento del servicio;
 
-III.- Someter a la aprobación del Consejo Interno de la Procuraduría, los planes y programas de estudio de capacitación, formación, profesionalización, actualización y especialización;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-IV.- Proponer la celebración de convenios, bases, intercambios y otros instrumentos de coordinación, con instituciones similares o de educación superior del país o del extranjero para el desarrollo profesional; de común acuerdo con el Subprocurador General de Justicia;
+III.- Someter a la aprobación del Procurador, los planes y programas de estudio de capacitación, formación, profesionalización, actualización y especialización;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Proponer la celebración de convenios, bases, intercambios y otros instrumentos de coordinación, con instituciones similares o de educación superior del país o del extranjero para el desarrollo profesional, de común acuerdo con el Procurador;
 
 V.- Realizar cursos, seminarios, conferencias, mesas redondas y demás actividades para la actualización del personal de la institución, en el área que a cada uno le corresponde, y
 
@@ -1063,45 +1173,21 @@ Se establece el Servicio de Carrera en la Procuraduría General de Justicia del 
 
 Para el ingreso de los servidores públicos de la Procuraduría, los responsables de las unidades administrativas de la institución deberán consultar previamente el Registro Nacional del Personal de Seguridad Pública, cuya información se tomará en cuenta por el Comité de Reclutamiento, Selección e Ingreso, para adoptar la determinación que corresponda, y asimismo, deberán de dar cumplimiento a los requisitos establecidos por Oficialía Mayor de Gobierno del Estado.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
 ### CAPITULO VII. DEL CONSEJO INTERNO
 
 ###### ARTÍCULO 34.
 
-El Consejo Interno de la Procuraduría como cuerpo colegiado, se integrará de la siguiente manera:
-
-I.- Procurador General de Justicia del Estado;
-
-II.- Subprocurador General de Justicia;
-
-III.- Director General de Asuntos Internos y Contraloría;
-
-IV.- Subprocurador Jurídico;
-
-V.- Director General Administrativo, y
-
-VI.- Director de Análisis y Diseño de Estrategias.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2001)
 
 ###### ARTÍCULO 35.
 
-El Consejo Interno tiene las siguientes atribuciones:
-
-I.- Proponer criterios generales para unificar la actuación del Ministerio Público;
-
-II.- Asesorar al Procurador en las materias que este lo requiera;
-
-III.- Proponer las medidas necesarias para elevar la calidad en el servicio;
-
-IV.- Sesionar por lo menos una vez al mes y en forma privada, a fin de tratar, discutir, proponer o en su caso, resolver asuntos relacionados con la procuración de justicia o de gran importancia para esta institución, y
-
-V.- Conocer del recurso de inconformidad en base a lo establecido en el reglamento de esta Ley, en los casos de impugnación que promuevan los servidores públicos de la institución que hayan sido sancionados por la Dirección General de Asuntos Internos y Contraloría.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2001)
 
 ###### ARTÍCULO 36.
 
-El Consejo Interno será presidido por el Procurador y como Secretario fungirá el Subprocurador General de Justicia.
-
-Cada integrante del Consejo tendrá derecho a voz y voto. El Presidente del Consejo Interno en caso de empate en las votaciones; tendrá voto de calidad. Los acuerdos que se tomen se resolverán por mayoría simple de sus miembros.
-
-El Presidente del Consejo por su propia determinación o a propuesta de los integrantes del Consejo, podrá invitar a las sesiones a otras personas cuya presencia se requiera, las cuales únicamente tendrán derecho a voz en el desarrollo de estas sesiones.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2001)
 
 ### CAPITULO VIII. DE LAS CAUSAS DE RESPONSABILIDAD Y DE LAS SANCIONES
 
@@ -1177,13 +1263,17 @@ II.- Suspensión de empleo hasta por treinta días sin goce de sueldo, y
 
 III.- Cese o destitución en el empleo.
 
-La facultad para imponer las sanciones previstas en este artículo corresponde al Procurador General de Justicia del Estado o al Director General de Asuntos Internos y Contraloría, quienes aplicarán la sanción dependiendo de la gravedad de la falta o reincidencia, y hacerlo del conocimiento de la Dirección de Control y Evaluación Gubernamental.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+La facultad para imponer las sanciones previstas en este artículo corresponde al Procurador, o al Director de Asuntos Internos y Contraloría, quienes aplicarán la sanción dependiendo de la gravedad de la falta o reincidencia, y hacerlo del conocimiento de la Dirección de Control y Evaluación Gubernamental.
 
 Las sanciones previstas en el presente capítulo se aplicarán además, sin perjuicio del ejercicio de la acción penal en contra del presunto responsable, cuando la falta cometida constituya delito.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 40.
 
-Las resoluciones en las que se determine sancionar a cualquier servidor público de la Procuraduría, podrán impugnarse mediante el Recurso de Inconformidad ante el Consejo Interno de la Procuraduría, siguiendo los lineamientos establecidos en el reglamento de la presente Ley.
+Las resoluciones en la que se determine sancionar a cualquier servidor público de la Procuraduría, podrán impugnarse mediante Recurso de Inconformidad ante el Procurador, siguiendo los lineamientos establecidos en el reglamento de la presente Ley.
 
 ### CAPITULO IX. DE LAS NOTIFICACIONES
 
@@ -1223,21 +1313,25 @@ Tendrán fe pública los siguientes servidores públicos de la Procuraduría:
 
 I.- El Procurador General de Justicia;
 
-II.- El Subprocurador General de Justicia;
+II.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-III.- El Subprocurador Jurídico;
+III.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
 IV.- Los Subprocuradores de Zona;
 
-V.- El Director General de Asuntos Internos y Contraloría;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-VI.- Los Directores adscritos a la Dirección General de Asuntos Internos y Contraloría;
+V.- El Director de Asuntos Internos y Contraloría;
+
+VI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
 VII.- Los Directores de Averiguaciones Previas de cada Zona;
 
-VIII.- Los Directores de Agentes del Ministerio Público adscritos a Juzgados;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-IX.- Los Subdirectores de Averiguaciones Previas;
+VIII.- Los Directores de Control de Procesos;
+
+IX.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
 X.- Los Agentes del Ministerio Público, y
 
@@ -1342,3 +1436,9 @@ RODOLFO VALDEZ GUTIERREZ.
 P.O. 31 DE OCTUBRE DE 2001.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se otorgará un plazo de noventa días a partir de la entrada en vigor de las presentes reformas, a efecto de que se elabore el reglamento correspondiente y se adecuen todas aquellas normas jurídicas que impliquen impacto alguno en su contenido.
