@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-y-fomento-a-la-construccion-de-viviendas-5090
 country: "mx"
 rank: "ley"
 publication_date: "1964-07-19"
-last_updated: "1964-07-19"
+last_updated: "1970-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCION Y FOMENTO A LA CONSTRUCCION DE VIVIENDAS DE INTERES SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1970.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 19 de julio de 1964.
 
@@ -61,19 +61,23 @@ Asimismo no causarán los derechos de Registro Público de la Propiedad, las ins
 
 En cuanto a los Impuestos Prediales, las personas que adquieran o construyan casas destinadas a la vivienda de Interés Social, pagarán sobre el valor del terreno; en caso de reparación de una finca que se destine para el mismo objeto, se pagará sobre el valor fiscal anterior de la finca.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1970)</small>
+
 ###### ARTICULO CUARTO.
 
 Las anteriores prerrogativas surtirán sus efectos siempre que se cumplan los siguientes requisitos:
 
-a).- Que las casas y terrenos se adquieran o construyan con apoyo en financiamiento que concedan las autoridades, Instituciones Oficiales, Instituciones de Crédito, Empresas de Participación Estatal o Particulares y en general aquellas que cumplan los fines del Programa de Construcción de Viviendas de Interés Social.
+a).- Que las casas se construyan con apoyo en financiamiento que concedan las Autoridades, Instituciones Oficiales, Instituciones de Crédito, Empresas de participación Estatal o particulares, y en general aquellas que cumplan los fines del programa de construcción de viviendas de interés social.
 
-b).- Que las fincas que sean reconstruidas o reparadas, sean precisamente con fondos procedentes de los financiamientos detallados en el inciso anterior.
+b).- Que las fincas sean construidas precisamente con fondos procedentes de los financiamientos detallados en el inciso anterior.
 
-c).- Que sea precisamente el propietario quien ocupe toda la casa objeto del beneficio.
+c).- Que el propietario sea el que ocupe toda la casa objeto del beneficio, y carezca por completo de otra u otras fincas o terrenos en propiedad e igualmente carezcan de éstos su esposa e hijos que dependan económicamente de él.
 
-d).- Que el valor total de la finca, incluyendo terreno y construcción, no exceda de la cantidad de $ 80,000.00.
+d).- Que el valor total de la finca incluyendo terreno y construcción, no exceda de la cantidad de: $ 80,000.00.
 
 e).- Que la Institución que otorgue el financiamiento respectivo presente una manifestación a la Tesorería General del Estado.
+
+f).- Que formule su solicitud ante el Ejecutivo del Estado en el término de 30 días a partir de la fecha que obtenga el crédito, acompañando los documentos justificativos en que se apoye, para que se resuelva lo procedente, previos los datos que se juzgue necesario recabar en cada caso, comunicándoselo para su cumplimiento a la Tesorería General del Estado.
 
 ###### ARTICULO QUINTO.
 
@@ -93,4 +97,10 @@ Por tanto mando se imprima, publique, circule y comunique a quienes corresponda 
 
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los diecisiete días del mes de julio del año de mil novecientos sesenta y cuatro.
 
-El Gobernador Constitucional del Estado, ING. ENRIQUE DUPRE CENICEROS.- El Secretario General de Gobierno, LIC. ENRIQUE FERNANDEZ DE CASTRO.- Rúbricas.
+El Gobernador Constitucional del Estado, ING. ENRIQUE DUPRE CENICEROS. El Secretario General de Gobierno, LIC. ENRIQUE FERNANDEZ DE CASTRO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE ENERO DE 1970.
+
+UNICO.- El presente Decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial del Estado.
