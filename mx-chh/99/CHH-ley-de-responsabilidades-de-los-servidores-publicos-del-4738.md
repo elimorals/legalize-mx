@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2003-07-19"
+last_updated: "2004-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -493,7 +493,9 @@ La Coordinación llevará el registro y control de las declaraciones de situaci�
 
 Tienen la obligación de presentar declaración de situación patrimonial ante la Coordinación, en los términos y plazos señalados por la presente Ley y bajo protesta de decir verdad:
 
-I.- En el Poder Ejecutivo Estatal: Todos los servidores públicos, desde el nivel de Jefe de Oficina o puesto equivalente hasta el Gobernador del Estado; así como aquellos que manejen, recauden, vigilen o administren fondos y recursos estatales;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2004)</small>
+
+I.- En el Poder Ejecutivo Estatal: Todos los servidores públicos, desde el nivel de Jefe de Oficina o puesto equivalente hasta el Gobernador del Estado, así como aquellos que manejen, recauden, vigilen o administren fondos y recursos estatales, así como los miembros de los cuerpos de Seguridad Pública del Estado;
 
 II.- En las Entidades de la Administración Pública Paraestatal del Estado: Desde Directores o Titulares de las mismas y demás servidores públicos hasta el nivel de Jefes de Oficina o puestos equivalentes a éstos, y
 
@@ -650,6 +652,12 @@ El presente decreto entrará en vigor sesenta días después de su publicación 
 En lo relativo al artículo 6, fracción IV, primer párrafo, de la Ley de Catastro del Estado, la obligación de actualización entrará en vigor el 1 de enero del 2003.
 
 P.O. 19 DE JULIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
