@@ -4,7 +4,7 @@ identifier: "GUA-ley-reglamentaria-de-la-contaduria-mayor-de-hacienda-del-5330"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-29"
-last_updated: "2001-06-12"
+last_updated: "2003-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY REGLAMENTARIA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIODICO OFICIAL EL 11 DE NOVIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 29 de agosto de 1995.
 
@@ -301,27 +303,27 @@ III.- ESTABLECER CRITERIOS GENERALES DE APLICACIONES E INTERPRETACION, CUANDO SE
 
 IV.- ELABORAR, EN LOS JUICIOS DE AMPARO, LOS INFORMES PREVIOS Y JUSTIFICADOS QUE DEBA RENDIR LA CONTADURIA MAYOR DE HACIENDA, ASI COMO TODAS LAS PROMOCIONES QUE SE REFIERAN DICHOS JUICIOS; Y DAR SEGUIMIENTO A LOS MISMOS;
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DEL 2001)</small>
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2001)</small>
 
 V.- PRACTICAR Y COADYUVAR EN LAS REVISIONES, AUDITORÍAS, VISITAS E INSPECCIONES, A FIN DE COMPROBAR SI LAS ENTIDADES, EN EL ÁMBITO DE SU COMPETENCIA, EJERCIERON SUS FUNCIONES EN MATERIA DE HACIENDA PÚBLICA CON ESTRICTO APEGO A LA NORMATIVIDAD APLICABLE;
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DEL 2001)</small>
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2001)</small>
 
 VI.- FORMULAR Y COADYUVAR, EN SU CASO, EN LA ELABORACIÓN DE LOS INFORMES, PLIEGOS DE OBSERVACIONES Y RECOMENDACIONES QUE SE ORIGINEN DE LA REALIZACIÓN DE AUDITORÍAS O REVISIONES;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DEL 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2001)</small>
 
 VII.- PRESTAR ASESORÍA EN EL LEVANTAMIENTO DE LAS ACTAS ADMINISTRATIVAS QUE PROCEDAN, COMO RESULTADO DE LAS VISITAS, INSPECCIONES Y AUDITORÍAS QUE PRACTIQUE LA CONTADURÍA MAYOR DE HACIENDA;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DEL 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2001)</small>
 
 VIII.- PREVIA SOLICITUD DE LOS AYUNTAMIENTOS, ASESORAR AL PERSONAL DE LAS TESORERÍAS Y CONTRALORÍAS MUNICIPALES, EN RELACIÓN AL EJERCICIO DE SUS ATRIBUCIONES QUE LES COMPETAN LEGALMENTE;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DEL 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2001)</small>
 
 IX.- DAR SEGUIMIENTO A LAS AUTORIZACIONES DE ACTOS DE DOMINIO DECRETADAS POR EL CONGRESO; Y
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DEL 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2001)</small>
 
 X.- LAS DEMÁS QUE LE SEÑALE ESTA LEY Y OTRAS DISPOSICIONES LEGALES APLICABLES.
 
@@ -519,13 +521,13 @@ VIII.- EN CASO DE DETECTAR IRREGULARIDADES DURANTE EL PROCESO DE FISCALIZACIÓN 
 
 IX.- LOS INFORMES DE LOS PROCESOS DE FISCALIZACIÓN, PODRÁN SERVIR DE BASE PARA LA ELABORACIÓN DE DICTÁMENES, QUE SERÁN PRESENTADOS AL PLENO DEL CONGRESO, PARA QUE RESUELVA Y ACUERDE LO CONDUCENTE.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P. O. 12 DE JUNIO DEL 2001)</small>
 
 ### CAPÍTULO OCTAVO
 
 DE LAS NOTIFICACIONES.
 
-> <small>(ADICIONADO, P. O. 12 DE JUNIO DEL 2001)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2001)</small>
 
 ###### ARTÍCULO 26-F.
 
@@ -668,3 +670,35 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACI�
 ###### ARTICULO SEGUNDO.
 
 LOS TITULARES O EX TITULARES DE LAS ENTIDADES PUBLICAS, A QUIENES LA CONTADURÍA MAYOR DE HACIENDA HUBIESE REQUERIDO PARA CONTESTAR OBSERVACIONES Y ATENDER LAS RECOMENDACIONES, EN LOS TERMINOS DE LOS ARTICULOS 23 Y 24 DE LA LEY REGLAMENTARIA DE LA CONTADURÍA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO, SE SUJETARAN A LOS PLAZOS VIGENTES AL MOMENTO DE LA NOTIFICACIÓN.
+
+P.O. 11 DE NOVIEMBRE DE 2003.
+
+Artículo Primero.- La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley Reglamentaria de la Contaduría Mayor de Hacienda del Congreso del Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado número 69, de fecha 29 veintinueve de agosto de 1995 mil novecientos noventa y cinco; así como cualquier otra disposición general que se oponga a la presente Ley.
+
+Artículo Tercero.- Los asuntos que se encuentran en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor esta Ley, continuarán tramitándose, por el Órgano de Fiscalización Superior, en los términos de la Ley Reglamentaria de la Contaduría Mayor de Hacienda del Congreso del Estado de Guanajuato.
+
+Artículo Cuarto.- El procedimiento para designar Auditor General del Órgano de Fiscalización Superior, por esta única ocasión se realizará bajo los siguientes términos:
+
+I.- El Órgano de Gobierno del Congreso del Estado, emitirá convocatoria para la designación del Auditor General, al día siguiente de la entrada en vigor del presente decreto, misma que será publicada en el Periódico Oficial de Gobierno del Estado y en el diario de mayor circulación en el Estado, a efecto de recibir durante un periodo de cinco días naturales contados a partir de la fecha de su publicación, las propuestas y solicitudes para ocupar el cargo de Auditor General; mismas que se acompañarán con la documentación que acredite el cumplimiento de los requisitos señalados en el artículo 66 de la Constitución Política para el Estado y en el artículo 54 de esta Ley;
+
+II.- Concluido el plazo anterior, dentro de los tres días naturales siguientes, el Órgano de Gobierno procederá a la revisión y análisis de las solicitudes, para determinar cuáles de éstas cumplen con los requisitos que señala esta Ley;
+
+III.- Agotado el plazo señalado en la fracción anterior, dentro de los cinco días naturales siguientes, el Órgano de Gobierno entrevistará por separado a los aspirantes que cumplan con los requisitos; y
+
+IV.- Con base en la evaluación de la documentación y del resultado de las entrevistas, el Órgano de Gobierno procederá a emitir, en un plazo que no excederá de tres días naturales, una terna que deberá presentarse al Pleno del Congreso.
+
+El Congreso designará de entre los integrantes de la terna, a quien deba desempeñar el cargo de Auditor General.
+
+En caso de que ninguno de los candidatos obtenga la votación requerida, el Congreso instruirá al Órgano de Gobierno para que presente una nueva terna en la que no podrán formar parte los integrantes de la terna anterior, el Órgano de Gobierno hasta en tanto sea aprobado el nombramiento referido, podrá presentar nuevas ternas en cualquier momento.
+
+Artículo Quinto.- La revisión de las cuentas públicas conforme a las disposiciones de esta Ley, se efectuará a partir de las cuentas públicas correspondientes al ejercicio fiscal del año dos mil cuatro.
+
+Artículo Sexto.- En todas las disposiciones legales o administrativas, resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la entrada en vigor de la presente Ley, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos al Órgano de Fiscalización Superior del Congreso del Estado.
+
+Artículo Séptimo.- Todos los bienes, archivos y recursos presupuestales asignados a la Contaduría Mayor de Hacienda, pasarán a formar parte del patrimonio del Órgano de Fiscalización Superior, del Congreso del Estado. Dicho Órgano se subroga en todos los derechos y obligaciones de la primera.
+
+Artículo Octavo.- La caducidad a que se refiere esta Ley operará en los procesos de fiscalización que se inicien con motivo de su entrada en vigor.
+
+Articulo Noveno.- El Órgano de Fiscalización Superior, contará con un plazo de noventa días, contados a partir del 1º primero de enero del año 2004 dos mil cuatro, para expedir el reglamento interior.
