@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1987-07-01"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE JULIO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -127,9 +127,11 @@ En ningún caso el impuesto predial anual será inferior a un día salario míni
 
 El impuesto sobre la Propiedad Ejidal se ajustará a las disposiciones relativas de la Ley Federal de Reforma Agraria, sin que su monto pueda exceder el 5% de su producción anual.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 9o.
 
-El Impuesto sobre plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causará sobre el valor de la finca y la maquinaria.
+El impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causarán sobre el valor de la finca a razón del 8 al millar.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -197,11 +199,13 @@ Los causantes no quedarán liberados de la obligación de presentar las manifest
 
 IMPUESTO SOBRE ADQUISICION DE INMUEBLES.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 14.
 
-Están obligados al pago del impuesto sobre adquisición de inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicado en el territorio de los Municipios, así como los derechos relacionados con los mismos, a que este Capítulo se refiere. El impuesto se calculará, aplicando la tasa del 10% al valor del inmueble, después de reducirlo en cinco veces al salario mínimo general de la zona, elevado al año. En el caso de adquisición de casas habitación de interés social, ya sean las construidas por Instituciones Oficiales, Particulares o Banca Nacionalizada, siempre que su valor no exceda de los dos primeros cajones que determinen las Instituciones Bancarias. El impuesto se calculará aplicando la tasa del 10% al valor del inmueble después de reducirlo en 8 veces al salario mínimo general de la zona, elevada al año.
+Están obligados al pago del impuesto sobre adquisición de inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, o en el suelo y las construcciones adheridas a él, ubicado en el territorio de los Municipios, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se calculará aplicando la tasa del 10% al valor del inmueble, después de reducirlo en cinco veces al salario mínimo general de la zona, elevado al año. En el caso de adquisición de casas habitación de interés social, cuando se trate de la primera operación, ya sean las construidas por instituciones oficiales, particulares o banca nacionalizada, siempre que su valor no exceda de los dos primeros cajones que determinen las instituciones bancarias. El impuesto se calculará aplicando la tasa del 10% al valor del inmueble después de reducirlo en 8 veces al salario mínimo general de la zona, elevada al año.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 Cuando del inmueble forman parte departamentos habitacionales la reducción se hará por cada uno de ellos, lo dispuesto en este párrafo no es aplicable a hoteles.
 
@@ -215,9 +219,9 @@ No se causará este impuesto en las adquisiciones de inmuebles del dominio públ
 
 Para los efectos de esta Ley, se entiende por adquisición la que se derive de:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-I.- Todo acto por el que se transmite una propiedad; incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal.
+I.- Todo acto por el que se transmite una propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación de toda clase de asociaciones o sociedades, a excepción de los que se realicen al constituir o dividir la sociedad conyugal y al dividir la copropiedad.
 
 II.- La compra-venta en la que el vendedor se resarce la propiedad aún cuando la transferencia de ésta opere con posterioridad.
 
@@ -233,7 +237,9 @@ VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad a
 
 VIII.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
 
-IX.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+IX.- Enajenación a través de fideicomiso, la aportación del inmueble en la que la fiduciaria adquiera el dominio o lo transfiera.
 
 X.- La prescripción positiva.
 
@@ -245,15 +251,21 @@ XI.- La división de la copropiedad y la disolución de la sociedad conyugal, po
 
 XII.- La elaboración de contratos de arrendamiento financiero y la cesión de derechos de arrendamiento financiero.
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+XIII.- La transmisión de derechos fideicomisarios, en fideicomisos, cuya propiedad de inmueble la conserva la fiduciaria.
+
 En las permutas se considerará que se efectúan dos adquisiciones.
 
 ###### ARTICULO 17.
 
 El valor del inmueble que se considerará para los efectos del Artículo 14 de esta Ley, será el siguiente:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-I.- El valor más alto entre el estipulado en el contrato, el valor catastral fiscal o el del avalúo comercial pericial, entendiéndose como avalúo comercial pericial los documentos valuatorios practicados por peritos con autorización oficial. Los peritajes tendrán una vigencia de 6 meses contados a partir de la fecha de su expedición.
+I.- El valor más alto entre el estipulado en el contrato, el valor catastral o fiscal o el avalúo comercial pericial.
+
+Entendiéndose como avalúo comercial pericial los dictámenes valuatorios practicados por peritos con autorización municipal. Los peritajes tendrán una vigencia no mayor de 90 días naturales, contados a partir de la fecha de su expedición.
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -325,9 +337,17 @@ DIVERSIONES Y ESPECTACULOS PUBLICOS.
 
 Por espectáculo público debe entenderse toda función o acto de esparcimiento, sea teatral, cinematográfico, deportivo o de cualquier otra índole que se verifiquen en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas pagando por ello cierta cantidad de dinero.
 
-Son causantes de este impuesto, las personas físicas, morales o unidades económicas sin personalidad jurídica, que ordinaria o accidentalmente organicen o exploten espectáculos públicos.
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-Los sujetos pagarán por concepto de este impuesto del 10 al 20% de la entrada bruta que genere el espectáculo correspondiente.
+Debe entenderse por diversiones los juegos mecánicos, juegos electrónicos tragamoneda o cualquier otra actividad similar que se verifique en locales abiertos o cerrados o en la vía pública.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+Son causantes de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que ordinaria o accidentalmente organicen o exploten espectáculos públicos o diversiones, con excepción de patronatos o sociedades de las instituciones educativas que promuevan estas actividades avaladas por la Dirección de la Institución correspondiente.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+Los sujetos por concepto de diversiones, cubrirán el impuesto de la siguiente manera: los eventuales pagarán una cuota por día equivalente al importe de 3 a 10 días de salario mínimo general, a juicio de la autoridad municipal.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -337,11 +357,15 @@ El impuesto será pagado en la forma siguiente:
 
 I.- Si puede determinarse previamente el monto del impuesto por adelantado, a más tardar el mismo día en que se inicie o celebre el espectáculo.
 
-II.- Si no puede determinarse previamente el monto del impuesto el representante de la autoridad, al finalizar el espectáculo, formulará por triplicado la liquidación del impuesto para que sea pagado el día hábil siguiente o de inmediato al interventor; un ejemplar de la liquidación se entregará al empresario y los otros dos a la Tesorería Municipal.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+II.- Si no puede determinarse previamente el monto del impuesto el representante de la autoridad, al finalizar el evento, formulará por triplicado la liquidación del impuesto para que sea pagado el día hábil siguiente o de inmediato al interventor; un ejemplar de la liquidación se entregará al empresario y los otros dos a la Tesorería Municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 24.
 
-Los empresarios de diversiones públicas enumeradas en las Fracciones I a la VII del Artículo 22, tendrán las siguientes obligaciones:
+Los empresarios a que se refiere el Artículo 22 tendrán las siguientes obligaciones:
 
 I.- Obtener la licencia respectiva antes de anunciar una función o serie de éstas.
 
@@ -465,9 +489,11 @@ III.- Banqueta: Acera construida de mampostería o concreto o de una combinació
 
 IMPUESTO ADICIONAL.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 38.
 
-Sobre el monto de los impuestos y derechos que establece esta Ley, deberá cubrirse el 20% adicional que será pagado junto con el impuesto o derecho principal. Este ingreso adicional se aplicará preferentemente a la ejecución de obras y servicios públicos.
+Sobre el monto de los impuestos y derechos que establece esta Ley, deberá cubrirse el 30% adicional que será pagado junto con el impuesto o derecho principal. Este ingreso adicional se aplicará preferentemente a la ejecución de obras y servicios públicos.
 
 ## TITULO SEGUNDO
 
@@ -592,6 +618,14 @@ XXI.- La cancelación de las inscripciones en los casos a que se refiere la Frac
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
 XXII.- Anotaciones marginales relativas a inscripciones principales 1 día salario mínimo.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+XXIII.- Inscripción o registro de los contratos sobre transmisión de derechos de fideicomisario a que se refiere la Fracción XIII, del Artículo 16 de esta Ley.
+
+a).- Cuota fija para toda clase de inscripción 2 días salario mínimo.
+
+b).- Por el valor de la operación 5 al millar.
 
 ###### ARTICULO 40.
 
@@ -817,6 +851,14 @@ Para obtener la licencia a que se refiere el Artículo anterior, se deberá pres
 
 La expedición o refrendo de las licencias causarán derechos del 7 al millar sobre el valor de la construcción según el costo de las obras que se vayan a ejecutar. El pago se hará cuando hayan sido aprobados los planos a que debe ajustarse la obra y previamente a la expedición o refrendo de las licencias.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+La expedición de autorización por uso del suelo, causará un derecho de uno a 20 días salario mínimo.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+La expedición de licencia de urbanización para los desarrollos urbanos tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominiales, industriales o una combinación de los anteriores, causará un derecho del 7 al millar sobre el valor total de las obras de urbanización.
+
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 47.
@@ -849,77 +891,81 @@ La prestación del servicio de agua potable y alcantarillado a que se refiere es
 
 #### SECCION I. AGUA POTABLE
 
-I.- Tarifas para el cobro del sistema de agua potable en el Municipio de La Paz;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-a).- Tarifa para aparatos medidores:
+A).- Tarifas para el cobro del sistema de agua potable en los Municipios de La Paz, Comondú, Mulegé y Los Cabos.
 
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1986)</small>
+a).- Tarifas para aparatos medidores:
 
-SERVICIO DOMESTICO
+SERVICIO DOMESTICO.
+
+Consumo mensual en metros cúbicos:
+
+Hasta 35 M3, (cuota mínima) 71% salario mínimo diario.
+
+Los metros que excedan a 35 M3 3% del salario mínimo diario.
+
+Hasta 50 M3 por cada metro cúbico.
+
+Los metros que excedan a 50 M3 4% del salario mínimo diario.
+
+Hasta 80 M3 por cada metro cúbico.
+
+Los metros que excedan a 80 M3 5% del salario mínimo diario.
+
+Hasta 100 M3 por cada metro cúbico.
+
+Cada metro que exceda de 100 M3 6% del salario mínimo diario por cada metro cúbico.
+
+SERVICIO COMERCIAL.
 
 Consumo mensual en metros cúbicos.
 
-Hasta 35 M3 $ 661.50 (cuota mínima).
+Hasta 35 M3 (cuota mínima) 1 día ¼ del salario mínimo diario.
 
-Hasta 50 M3 37.50 M3.
+Los metros que excedan a 35 M3 6% del salario mínimo diario.
 
-Hasta 80 M3 51.00 M3.
+Hasta 50 M3 por cada metro cúbico.
 
-Hasta 100 M3 70. 50 M3.
+Los metros que excedan a 50 M3 7% del salario mínimo diario.
 
-Más de 100 M3 97.50 M3.
+Hasta 80 M3 por cada metro cúbico.
 
-Si en un mes el consumo de agua es menor de 35 M3, se cobrará la cuota mínima de $ 661.50.
+Los metros que excedan a 80 M3 8% del salario mínimo diario.
 
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1986)</small>
+Hasta 100 M3 por cada metro cúbico.
 
-SERVICIO COMERCIAL
+Cada metro que exceda a 100 M3 11% del salario mínimo diario por cada metro cúbico.
 
-Hasta 35 M3 $ 1,189.50 (cuota mínima).
+SERVICIO INDUSTRIAL Y TURISTICO.
 
-Hasta 50 M3 54.00 M3.
+Consumo mensual en metros cúbicos.
 
-Hasta 80 M3 70.50 M3.
+Hasta 100 M3 (cuota mínima) 7 ½ días de salario mínimo diario.
 
-Hasta 100 M3 81.00 M3.
+Los metros que excedan a 100 M3 9% del salario mínimo diario.
 
-Más de 100 M3 108.00 M3.
+Hasta 125 M3 por cada metro cúbico.
 
-Si en un mes el consumo de agua es menor de 35 M3, se cubrirá la cuota mínima de $ 1,189.50.
+Los metros que excedan a 125 M3 11% del salario mínimo diario.
 
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1986)</small>
+Hasta 150 M3 por cada metro cúbico.
 
-SERVICIO INDUSTRIAL
+Los metros que excedan a 150 M3 12% del salario mínimo diario.
 
-Hasta 100 M3 $ 7,167.00 (cuota mínima).
+Hasta 250 M3 por cada metro cúbico.
 
-Hasta 125 M3 84.00 M3.
+Los metros que excedan a 250 M3 14% del salario mínimo diario.
 
-Hasta 150 M3 100.50 M3.
+Hasta 500 M3 por cada metro cúbico.
 
-Hasta 250 M3 114.00 M3.
+Cada metro que exceda de 500 M3 16% del salario mínimo diario por cada metro cúbico.
 
-Hasta 500 M3 132.00 M3.
+b).- Tarifa cuando no existan medidores.
 
-Más de 500 M3 148.50 M3.
+Consumo mensual únicamente en servicio doméstico 71% del salario mínimo diario.
 
-Si en el mes el consumo de agua es menor de 100 M3, se cubrirá la cuota mínima de $ 7,167.00.
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1986)</small>
-
-b).- Tarifa cuando no existen aparatos medidores en los sistemas urbanos y rurales.
-
-Servicio Doméstico $ 850.50.
-
-Servicio Comercial 2,700.00.
-
-Servicio Industrial 8,100.00.
-
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 1986)</small>
-
-c).- Las tarifas que se indican con antelación, dentro del presente Capítulo, se incrementarán en un 8 por ciento mensual a partir del mes de junio del presente año hasta el mes de abril de 1987.
-
-d).- (DEROGADO, B.O. 10 DE JUNIO DE 1986)
+c).- El usuario pagará el costo del medidor, accesorios, materiales y trabajos extraordinarios por la conexión del servicio de agua potable.
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -1123,9 +1169,207 @@ a).- Por el servicio de alcantarillado en los municipios de la Entidad, se cubri
 
 b).- El usuario pagará los accesorios, materiales y trabajados extraordinarios por la conexión del servicio de alcantarillado.
 
-#### SECCION I
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-DERECHOS POR SERVICIOS DE CONTROL VEHICULAR.
+II.- Municipio de Comondú, Mulegé y Los Cabos.
+
+a).- Tarifa para aparatos medidores.
+
+SERVICIO DOMESTICO
+
+Consumo mensual en metros cúbicos.
+
+Hasta 35 M3 50% salario mínimo diario.
+
+Los metros que excedan de 35 M3 hasta 50 M3 3% del salario mínimo diario por cada M3.
+
+Los metros que excedan de 50 M3 hasta 80 M3 4% del salario mínimo diario por cada M3.
+
+Los metros que excedan de 80 M3 hasta 100 M3 5% del salario mínimo diario por cada M3.
+
+Cada metro que exceda de 100 M3 6% del salario mínimo diario por cada M3.
+
+SERVICIO COMERCIAL
+
+Consumo mensual en metros cúbicos.
+
+Hasta 35 M3 1 día salario mínimo.
+
+Los metros que excedan de 35 M3 hasta 50 M3 4% del salario mínimo diario por cada M3.
+
+Los metros que excedan de 50 M3 hasta 80 M3 5% del salario mínimo diario por cada M3.
+
+Los metros que excedan de 80 M3 hasta 100 M3 6% del salario mínimo diario por cada M3.
+
+Cada metro que exceda de 100 M3 7% del salario mínimo diario por cada M3.
+
+SERVICIO INDUSTRIAL Y TURISTICO
+
+Consumo mensual en metros cúbicos.
+
+Hasta 100 M3 5 días salario mínimo.
+
+Los metros que excedan de 100 M3 hasta 125 M3 8% del salario mínimo diario por cada M3.
+
+Los metros que excedan de 125 M3 hasta 150 M3 9% del salario mínimo diario por cada M3.
+
+Los metros que excedan de 150 M3 hasta 250 M3 10% del salario mínimo diario por cada M3.
+
+Los metros que excedan de 250 M3 hasta 500 M3 11% del salario mínimo diario por cada M3.
+
+Cada metro que exceda de 500 M3 12% del salario mínimo diario por cada M3.
+
+b).- Tarifa cuando no existen medidores.
+
+Servicio Doméstico 50% salario mínimo diario.
+
+Servicio Comercial 4 días salario mínimo.
+
+Servicio Industrial y Turístico 7 días salario mínimo.
+
+El usuario pagará el costo del medidor, accesorios, materiales y trabajos extraordinarios por la conexión del servicio de agua potable.
+
+III.- Tarifas para el cobro de los sistemas de agua potable en el Municipio de Los Cabos: San José del Cabo, Buena Vista, Las Cuevas, Santa Cruz, La Ribera, Santiago, La Laguna, Santa Bárbara, San Jorge, El Zacatal, Agua Caliente, Boca de la Sierra, Miraflores, El Ranchito, Las Casitas, Caduaño, Santa Anita, Las Veredas, San Bernabé, Santa Catarina, San José Viejo, Guaymitas, Santa Rosa, El Rosario, Las Animas Altas, Las Animas Bajas, La Choya, San Vicente, La Playa, Cabo San Lucas, La Candelaria y El Zacatal, B.C.S.
+
+a).- Si existe aparato medidor.
+
+SERVICIO DOMESTICO.
+
+Consumo mensual en metros cúbicos.
+
+0 hasta 35 M3 $ 441.00 (cuota mínima).
+
+36 hasta 50 M3 $ 25.00 M3.
+
+51 hasta 80 M3 $ 34.00 M3.
+
+81 hasta 100 M3 $ 47.00 M3.
+
+Más de 100 M3 $ 65.00 M3.
+
+Si en un mes el consumo de agua es menor de 35 M3, se cubrirá, la cuota mínima de $ 441.00.
+
+SERVICIO COMERCIAL.
+
+0 hasta 35 M3 $ 793.00 (cuota mínima).
+
+36 hasta 50 M3 $ 36.00 M3.
+
+51 hasta 80 M3 $ 47.00 M3.
+
+81 hasta 100 M3 $ 54.00 M3.
+
+Más de 100 M3 $ 72.00 M3.
+
+Si en un mes el consumo de agua es menor de 35 M3, se cubrirá la cuota mínima de $ 793.00.
+
+SERVICIO INDUSTRIAL.
+
+0 hasta 100 M3 $ 4,788.00 (cuota mínima).
+
+101 hasta 125 M3 $ 56.00 M3.
+
+126 hasta 150 M3 $ 67.00 M3.
+
+151 hasta 250 M3 $ 76.00 M3.
+
+251 hasta 500 M3 $ 88.00 M3.
+
+Más de 500 M3 $ 99.00 M3.
+
+Si en un mes el consumo de agua es menor de 100 M3 se cubrirá la cuota mínima de $ 4,788.00.
+
+b).- Si no existe aparato medidor, en los sistemas urbanos.
+
+CUOTA FIJA MENSUAL.
+
+Servicio doméstico $ 504.00 /toma.
+
+Servicio comercial $ 1,800.00 /toma.
+
+Servicio industrial $ 5,400.00 /toma.
+
+c).- Tarifa cuando no existen aparatos medidores de los sistemas del medio rural.
+
+MUNICIPIO DE LOS CABOS: Buena Vista, Las Cuevas, Santa Cruz, La Ribera, Santiago, La Laguna, Santa Bárbara, San Jorge, El Zacatal, Agua Caliente, Boca de la Sierra, Miraflores, El Ranchito, Las Casitas, Caduaño, Santa Catarina, Las Animas Altas, Las Animas Bajas, La Choya, San Vicente, La Playa, y la Candelaria, B.C.S.
+
+Uso doméstico $ 500.00 /toma.
+
+IV.- Tarifa para el cobro de los sistemas de agua potable en el Municipio de Mulegé: Santa Rosalía, Guerrero Negro, Laguneros, Benito Juárez, Francisco J. Mújica, Guillermo Prieto, Vizcaino, Emiliano Zapata, Alfredo V. Bonfil, San Lino, San Ignacio, San Bruno, Santa Agueda, San Lucas, San José de Magdalena, Palo Verde, Mulegé, La Misión, El Cacheno, San José de Gracia y Gustavo Días (sic) Ordaz, B.C.S.
+
+a).- Tarifa para aparatos medidores.
+
+Consumo mensual en metros cúbicos.
+
+0 hasta 35 M3 $ 441.00 (cuota mínima).
+
+36 hasta 50 M3 $ 25.00 M3.
+
+51 hasta 80 M3 $ 34.00 M3.
+
+81 hasta 100 M3 $ 47.00 M3.
+
+Más de 100 M3 $ 65.00 M3.
+
+Si en un mes el consumo de agua es menor de 35 M3, se cubrirá la cuota mínima de $ 441.00.
+
+SERVICIO COMERCIAL.
+
+0 hasta 35 M3 $ 793.00 (cuota mínima).
+
+36 hasta 50 M3 $ 36.00 M3.
+
+51 hasta 80 M3 $ 47.00 M3.
+
+81 hasta 100 M3 $ 54.00 M3.
+
+Más de 100 M3 $ 72.00 M3.
+
+Si en un mes el consumo de agua es menor de 35 M3, se cubrirá la cuota mínima de $ 793.00.
+
+SERVICIO INDUSTRIAL.
+
+0 hasta 100 M3 $ 4,788.00 (cuota mínima).
+
+101 hasta 125 M3 $ 56.00 M3.
+
+126 hasta 150 M3 $ 67.00 M3.
+
+151 hasta 250 M3 $ 76.00 M3.
+
+251 hasta 500 M3 $ 88.00 M3.
+
+Más de 500 M3 $ 99.00 M3.
+
+Si en un mes el consumo de agua es menor de 100 M3, se cubrirá la cuota mínima de $ 4,788.00.
+
+2.- Si no existe aparato medidor.
+
+CUOTA FIJA MENSUAL.
+
+Servicio doméstico $ 504.00 /toma.
+
+Servicio comercial $ 1,800.00 /toma.
+
+Servicio industrial $ 5,400.00 /toma.
+
+c).- Tarifa cuando no existen aparatos medidores de los sistemas del medio rural.
+
+MUNICIPIO DE MULEGE: Laguneros, Benito Juárez, Francisco J. Mújica, Guillermo Prieto, Emiliano Zapata, Alfredo V. Bonfil, San Lino, San Ignacio, San Bruno, Santa Agueda, San Lucas, San José de Magdalena, Palo Verde, Mulegé, La Misión, El Cacheno, San José de Gracia y Gustavo Díaz Ordaz, B.C.S.
+
+Uso doméstico $ 500.00 /toma.
+
+#### SECCION II
+
+ALCANTARILLADO.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
+a).- Por el servicio de alcantarillado en los municipios de la Entidad, se cubrirá el 20% del valor de consumo de agua potable.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
+b).- El usuario pagará los accesorios, materiales y trabajados extraordinarios por la conexión del servicio de alcantarillado.
 
 ### CAPITULO QUINTO
 
@@ -1271,6 +1515,10 @@ IV.- Actas de supervivencia levantadas a domicilio 1 día salario mínimo.
 
 V.- Cualquier otro acto del Registro Civil 1 día salario mínimo.
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+VI.- Expedición de actas de nacimiento 50% día salario mínimo.
+
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 59.
@@ -1353,9 +1601,13 @@ T A R I F A :
 
 I.- Por exhumación 4 días salario mínimo.
 
-II.- Por traslado de cadáveres o restos 0.5% salario mínimo.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-a).- Dentro del Municipio 2 días salario mínimo.
+II.- Por traslado de cadáveres o restos:
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+a).- Dentro del Municipio 50% día salario mínimo.
 
 b).- Fuera del Municipio 2 días salario mínimo.
 
@@ -1385,11 +1637,11 @@ Las personas que posean fosa a perpetuidad en los panteones municipales, podrán
 
 El Ayuntamiento solo concederá licencias para la exhumación y traslado de cadáveres o restos, siempre que se satisfagan previamente los requisitos de salubridad y se hayan pagado los derechos del Artículo 66 de esta Ley.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO NOVENO
 
-SERVICIOS DE RASTROS.
+SERVICIO DE RASTRO.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -1406,6 +1658,10 @@ II.- Ganado porcino, por cada uno 2 días salario mínimo.
 III.- Ganado caprino y lanar, por cada uno 1.5 días salario mínimo.
 
 IV.- Aves y otros 8% día salario mínimo.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+V.- Por uso de frigorífico por canal, diario 50% día salario mínimo a partir del segundo día.
 
 Cuando no exista rastro, se pagará por cada animal 50% salario mínimo diario.
 
@@ -1447,7 +1703,11 @@ El alineamiento de predios sobre vía pública y expedición de número oficial,
 
 T A R I F A :
 
-I.- Hasta 20 metros lineales 1 día salario mínimo en adelante.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+I.- Hasta 20 metros lineales 1 día salario mínimo.
+
+Por metro lineal adicional 10% día salario mínimo.
 
 II.- Por la expedición del número oficial 50% día salario mínimo.
 
@@ -1489,9 +1749,9 @@ II.- De morada conyugal 1 día salario mínimo.
 
 SERVICIO DE SEGURIDAD Y TRANSITO.
 
-#### SECCION II
+#### SECCION I
 
-LICENCIA PARA CONDUCIR VEHICULOS DE MOTOR Y SUS RESELLOS.
+DERECHOS POR SERVICIOS DE CONTROL VEHICULAR.
 
 ###### ARTICULO 81.
 
@@ -1545,6 +1805,10 @@ I.- Camiones, automóviles y remolques 2 días salario mínimo.
 
 II.- Motocicletas, bicicletas y vehículos de tracción manual 50% salario mínimo diario.
 
+#### SECCION II
+
+LICENCIA PARA CONDUCIR VEHICULOS DE MOTOR Y SUS RESELLOS.
+
 ###### ARTICULO 84.
 
 No se podrá conducir vehículos de motor sin obtener previamente la licencia de manejo respectiva, ésta se otorgará después de que la persona interesada haya sido aprobada en el examen médico que practique cualquier profesional legalmente autorizado para ejercer la medicina y en el de competencia que efectúen las autoridades de tránsito, que serán realizados previo pago de los derechos contenidos en la siguiente
@@ -1563,21 +1827,31 @@ IV.- Permiso provisional por mes 1 día salario mínimo.
 
 Por el resello anual se causará el 10% de la tarifa anterior.
 
-### CAPITULO PRIMERO
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-VENTAS O EXPLOTACION DE BIENES INMUEBLES.
+### CAPITULO DECIMO QUINTO
+
+RECOLECCION DE BASURA.
+
+> <small>(REFORMADO Y REUBICADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 87.
 
-Con los mismos requisitos señalados en el Artículo 85, se podrá dar en pago de crédito u obligaciones a cargo del Municipio los bienes pertenecientes a la Hacienda Municipal.
-
-###### ARTICULO 88.
+Con los mismos requisitos señalados en el Artículo 86 se podrá dar en pago de crédito u obligaciones a cargo del Municipio, los bienes pertenecientes a la hacienda municipal.
 
 En todos los casos en que se autorice la enajenación de bienes del Municipio y se estipule, entre las condiciones, conforme a las cuales ha de llevarse a cabo, que el precio o parte de él se pague a plazos, es requisito indispensable, sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
 
-###### ARTICULO 89.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 88.
 
 Los bienes de uso común o destinados al servicio del Municipio, no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización del Congreso del Estado.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 89.
+
+Los propietarios de los vehículos que sean almacenados, en los terrenos de los corralones de depósito, pagarán la cantidad equivalente a la décima parte de un día de salario mínimo general, por cada día de almacenaje a partir del onceavo día.
 
 ###### ARTICULO 90.
 
@@ -1599,31 +1873,37 @@ Por la venta de papel para copias de actas de Registro Civil, se cobrará una cu
 
 El papel para copias de actas del Registro Civil, será impreso en los términos del Artículo 10 de la Ley del Registro Civil para el Estado de Baja California Sur.
 
+### CAPITULO PRIMERO
+
+VENTAS O EXPLOTACION DE BIENES INMUEBLES.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 85.
+
+Los comercios, hoteles, restaurantes, hospitales privados oficinas administrativas e industrias, deberán contratar individualmente los servicios de recolección de basura o comprobar la eliminación de estos desperdicios o residuos en forma tal que no afecten la salud o contaminen el medio ambiente y pagarán una cuota mensual o anual que será convenida con la autoridad municipal correspondiente.
+
 ### CAPITULO SEGUNDO
 
 BIENES MOSTRENCOS.
 
-###### ARTICULO 85.
+###### ARTICULO 86.
 
-La venta de bienes muebles e inmuebles pertenecientes al Municipio, solo podrá llevarse a cabo en subasta pública al mejor postor, la postura deberá ascender como mínimo a las dos terceras partes del valor comercial del bien fijado por avalúo pericial ordenado por el Ayuntamiento.
+La venta de bienes muebles e inmuebles pertenecientes al Municipio, solo podrá llevarse a cabo en subasta pública al mejor postor, la postura deberá ascender como mínimo las dos terceras partes del valor comercial del bien fijado por avalúo pericial ordenado por el Ayuntamiento.
+
+Solo se podrán explotar los bienes muebles e inmuebles del Municipio por concesión o contrato legalmente otorgado y el producto se fijará y se cobrará de conformidad con el contrato o la concesión respectiva.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+## TITULO TERCERO
+
+PRODUCTOS.
 
 ### CAPITULO TERCERO
 
 VENTA DE SOLARES DEL FUNDO LEGAL.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
-
-###### ARTICULO 86.
-
-Solo se podrán explotar los bienes muebles e inmuebles del Municipio por concesión o contrato legalmente otorgado y el producto se fijará y se cobrará de conformidad con el contrato o la concesión respectiva.
-
-## TITULO TERCERO
-
-PRODUCTOS.
-
-### CAPITULO CUARTO
-
-PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL.
 
 ###### ARTICULO 94.
 
@@ -1641,6 +1921,12 @@ El Ayuntamiento señalará las formalidades que deban observar para la destrucci
 
 Los Oficiales del Registro Civil extenderán las certificaciones y copias certificadas exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la Ley. En caso de que les sean presentadas hojas sin los requisitos indicados en el Artículo 93, las recogerán y harán la consignación ante el Ministerio Público.
 
+#### SECCION SEGUNDA (SIC)
+
+ALMACENAJE DE VEHICULOS EN CORRALONES DE DEPOSITO.
+
+> <small>(REFORMADO Y REUBICADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 97.
 
 Por la ocupación de la vía pública o de otros bienes de uso común, será pagada una renta de acuerdo a la siguiente
@@ -1649,17 +1935,21 @@ T A R I F A :
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-I.- Automóviles de sitios o táxis por metro lineal anualmente 1 día salario mínimo.
+I.- Automóviles de sitios o táxis (sic) por metro lineal anualmente 1 día salario mínimo.
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
 II.- Estacionamiento para particulares que vivan frente al estacionamiento solicitado, por metro lineal, anualmente 50% día salario mínimo.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-III.- Estacionamiento exclusivos (sic) para uso comercial, anual por metro lineal 1 día salario mínimo.
+III.- Estacionamiento exclusivo para uso comercial anual por metro lineal 3 días salario mínimo general.
 
-IV.- Por estacionarse en las calles dotadas de estacionómetros de las 8:00 a las 20:00 horas, diariamente a excepción de los domingos y días feriados o festivos, por cada hora $ 20.00.
+Para sitios de taxis 1 día salario mínimo general.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+IV.- Por estacionarse en las calles dotadas de estacionómetros de las 8:00 a las 20:00 horas, diariamente, a excepción de los domingos, días feriados o festivos, por cada hora $ 300.00.
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -1673,9 +1963,11 @@ VI.- Vehículos automotores con amplificador de sonido, diariamente 1 día salar
 
 VII.- Cualquier otro estacionamiento o uso de la vía pública de carácter comercial no especificado, diariamente 1 día salario mínimo.
 
-VIII.- Cuota anual por vehículo para estacionarse en lugares de estacionómetros sin el pago estipulado $ 2,500.00.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-Estos ingresos se controlarán por medio de calcomanías adheridas al parabrisas del vehículo.
+VIII.- Cuota anual por vehículo para estacionarse en lugares de estacionómetros, sin el pago estipulado $ 50,000.00.
+
+Estos ingresos se controlarán por medio de calcomanías adheridas al parabrisa (sic) del vehículo.
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -1685,9 +1977,9 @@ IX.- Por cada carro-casa autopropulsado o de tracción de cualquier tipo, que oc
 
 Los pagos anuales se harán por adelantado en el mes de Enero.
 
-### CAPITULO QUINTO
+### CAPITULO CUARTO
 
-OCUPACION DE LA VIA PUBLICA.
+PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL.
 
 ###### ARTICULO 98.
 
@@ -1705,17 +1997,17 @@ b).- Servicio de frigoríficos por metro cuadrado, diariamente 10% día salario 
 
 c).- Servicio de almacenamiento por metro cuadrado 10% día salario mínimo.
 
-### CAPITULO SEPTIMO (SIC)
+### CAPITULO QUINTO
 
-PRODUCTOS DIVERSOS.
+OCUPACION DE LA VIA PUBLICA.
 
 ###### ARTICULO 99.
 
 Productos diversos son todos aquellos productos no considerados en los términos de los Artículos anteriores.
 
-### CAPITULO PRIMERO
+### CAPITULO SEPTIMO (SIC)
 
-RECARGOS.
+PRODUCTOS DIVERSOS.
 
 ###### ARTICULO 100.
 
@@ -1739,9 +2031,9 @@ Son rezagos los adeudos por concepto de impuestos, derechos y productos que pase
 
 Los rezagos serán cubiertos en las oficinas en que debieron pagarse los impuestos, derechos y productos de los cuales provengan.
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
-MULTAS.
+RECARGOS.
 
 ###### ARTICULO 105.
 
@@ -1771,9 +2063,9 @@ VI.- Otros no especificados.
 
 DISPOSICIONES GENERALES.
 
-### CAPITULO TERCERO
+### CAPITULO SEGUNDO
 
-APROVECHAMIENTOS DIVERSOS.
+MULTAS.
 
 ###### ARTICULO 107.
 
@@ -1783,9 +2075,9 @@ El gasto de la energía eléctrica y fuerza motriz de los locales arrendados en 
 
 APROVECHAMIENTOS.
 
-### CAPITULO CUARTO
+### CAPITULO TERCERO
 
-REZAGOS.
+APROVECHAMIENTOS DIVERSOS.
 
 ###### ARTICULO 108.
 
@@ -1799,15 +2091,19 @@ La ocultación de fuentes gravadas por esta Ley, que motiven omisión del pago d
 
 Las personas que se dediquen a la venta de bienes raíces, Notarios Públicos, Jueces, Fraccionadores y en general, quienes directa o indirectamente intervengan en la celebración de contratos o convenios preparatorios o definitivos que implique la trasmisión de la propiedad de inmuebles, deberán manifestarlo a la autoridad municipal en un plazo de treinta días; de no hacerlo, sin perjuicio de ser solidario responsable de pago del impuesto y de sus recargos, se les impondrá una sanción hasta de 5 veces el importe de los mismos.
 
-### CAPITULO QUINTO
+### CAPITULO CUARTO
 
-PARTICIPACIONES.
+REZAGOS.
 
 ###### ARTICULO 110.
 
 Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón Municipal, siempre que llenen los requisitos de registro que establecen las Leyes y Reglamentos respectivos y obtener antes de iniciar sus actividades, la licencia correspondiente, misma que deberá obtenerse dentro de los 30 días siguientes a la fecha de inicio y la revalidación anual deberá realizarse dentro del mes de enero de cada año.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
+### CAPITULO QUINTO
+
+PARTICIPACIONES.
 
 ###### ARTICULO 111.
 
@@ -1877,6 +2173,12 @@ En los casos a que se refieren los párrafos que anteceden no se causarán recar
 
 Todas las liquidaciones de créditos fiscales se elevarán a múltiples de $ 1.00.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 123.
+
+El Tesorero Municipal tendrá todas las facultades para requerir a los contribuyentes el cumplimiento de los créditos y obligaciones fiscales, aplicar el procedimiento económico coactivo e imponer sanciones y todas las atribuciones que para el Secretario de Finanzas del Gobierno del Estado establece el Código Fiscal para el Estado y Municipios de Baja California Sur y demás Leyes tributarias.
+
 T R A N S I T O R I O S :
 
 ###### ARTICULO 1o.
@@ -1938,3 +2240,9 @@ Para la aplicación del Impuesto sobre Adquisición de Inmueble (sic) y pago de 
 ###### ARTICULO 3o.
 
 Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día primero de enero de 1989.
