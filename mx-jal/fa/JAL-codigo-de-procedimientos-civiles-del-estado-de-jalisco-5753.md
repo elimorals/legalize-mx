@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1973-03-15"
+last_updated: "1975-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1975.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -1078,7 +1078,7 @@ En ningún caso se promoverán de oficio las cuestiones de competencia, pero el 
 
 ###### ARTICULO 169.
 
-Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declaratoria (sic) se ha sometido a la jurisdicción del tribunal que conoce del negocio, se desechará de plano, continuando su curso el juicio.
+Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declaratoria, se ha sometido a la jurisdicción del tribunal que conoce del negocio, se desechará de plano, continuando su curso el juicio.
 
 También se desechará de plano cualquiera competencia promovida que no tenga por objeto decidir cuál haya de ser el juez o tribunal que deba conocer de un asunto.
 
@@ -1476,41 +1476,45 @@ Podrá también prepararse el juicio ejecutivo con el reconocimiento, ante notar
 
 El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que reconoce es apoderado del deudor y la cláusula relativa.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE JULIO DE 1975)</small>
+
 ### CAPITULO III.
 
-El Depósito de Personas como Acto Prejudicial.
+De la Separación de Personas como Acto Prejudicial.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 221.
 
-La mujer casada puede pedir su depósito, cuando viviendo al lado del marido, intente demandarlo o acusarlo; también podrá el marido pedir el depósito de aquélla cuando vivan juntos e intente a su vez demandarla o acusarla.
+Cuando alguno de los cónyuges intente demanda, querella o denuncia, en contra de otro si viven juntos, puede solicitar su separación al Juez. Dicha autoridad, desde luego, dispondrá las medidas necesarias para que el cónyuge que tuviere el cuidado del hogar y de los hijos siga habitando la casa conyugal y prevendrá al otro cónyuge que señale el domicilio donde deberá habitar durante el curso del procedimiento respectivo.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 222.
 
-Sólo los Jueces de Primera Instancia, podrán decretar el depósito de que habla el artículo anterior, a no ser que, por circunstancias especiales no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar donde el cónyuge se encuentre podrá decretar el depósito provisionalmente, remitiendo las diligencias al competente y poniendo la persona a su disposición.
+Sólo los Jueces de Primera Instancia, podrán decretar la separación de que habla el artículo anterior, a no ser que, por circunstancias especiales no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar donde el cónyuge se encuentre podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 223.
 
-Presentada la solicitud, el Juez hará que se le ratifique sin que esté presente el otro cónyuge. Hecha la ratificación designará desde luego la persona que haya de encargarse del depósito y, trasladándose al domicilio del marido, dispondrá que en el acto se entregue a la mujer la cama y toda su ropa. Si hubiese cuestión sobre cuáles ropas deban entregarse, el Juez, teniendo en cuenta las circunstancias de las personas, resolverá de plano y sin ulterior recurso, las que haya de llevar la interesada.
+La solicitud debe ser presentada al Juez competente en forma escrita o verbal, debiendo contener las causas en que se funda y el domicilio que habitará el cónyuge. Hecho lo anterior, se procederá en los términos del artículo 221.
 
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 1938)</small>
-
-La mujer podrá presentar solicitud de depósito verbalmente y si la urgencia del caso lo amerita, el Juez deberá proceder con toda rapidez.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 224.
 
-Practicado todo lo que queda prevenido en los artículos anteriores; el Juez personalmente extraerá a la mujer de la casa del marido y la llevará a la casa del depositario.
+El Juez deberá intervenir personalmente en el cumplimiento de las medidas que disponga para la separación.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 225.
 
-En el mismo acto de la diligencia intimará el Juez al marido que no moleste a su mujer ni al depositario, bajo apercibimiento de proceder contra él a lo que hubiere lograr.
-
-Independientemente de lo anterior, el Juez puede dictar las medidas que estime prudentes a efecto de evitar las molestias contra la mujr (sic) y el depositario.
-
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 1938)</small>
+El Juez dictará las medidas necesarias que estime procedentes para evitar que los cónyuges se ocasionen molestias bajo apercibimiento de proceder en contra del desobediente.
 
 ###### ARTICULO 226.
 
-La casa donde se deposite a la mujer casada será en todo caso designada por el Juez y debe ser depositario persona de notoria honorabilidad y buenas costumbres.
+(DEROGADO, P.O. 31 DE JULIO DE 1975)
 
 ###### ARTICULO 227.
 
@@ -1518,31 +1522,35 @@ Si los consortes tuvieren hijos menores de edad, se pondrán éstos al cuidado d
 
 Cualquiera reclamación de los consortes sobre el depósito de los hijos se sustanciará y decidirá en forma incidental, sin ulterior recurso.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+
 ###### ARTICULO 228.
 
-Al día siguiente de constituido el depósito mandará el Juez intimar al marido o a la mujer en su caso, apercibiéndoles de que si dentro de diez días no acreditaren haber intentado la demanda o la acusación, se levantará el depósito y será restituida la mujer a la casa del marido.
-
-Esta providencia se notificará en forma legal a la mujer y al marido.
+La resolución que decreta la separación de personas, señalará además, un término de 10 días hábiles contados a partir del siguiente en que se efectúe la separación para que el solicitante presente la demanda o denuncia o querella. Transcurrido dicho término sin que se haya precedido (sic) en consecuencia, quedará sin efecto la providencia decretada, lo cual deberá hacerse dentro de las 24 horas siguientes de que haya fenecido el término.
 
 ###### ARTICULO 229.
 
-Al depositario se dará copia certificada de la constitución del depósito para su resguardo.
+(DEROGADO, P.O. 31 DE JULIO DE 1975)
 
 ###### ARTICULO 230.
 
-El término señalado para la duración del depósito podrá prorrogarse si se acreditare que por causa no imputable a la mujer, cuando ésta lo solicitó, ha sido imposible intentar la acción contra el marido.
+(DEROGADO, P.O. 31 DE JULIO DE 1975)
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 231.
 
-Las peticiones que puedan formularse por la mujer, por el marido o por el depositario sobre variación del depósito, o cualesquiera otros incidentes a que éste puede dar lugar, se sustanciarán como se previene para la tramitación de los incidentes.
+La inconformidad de algunos de los cónyuges sobre las disposiciones decretadas, se tramitará como se previene en el Capítulo de los Incidentes y la resolución no admitirá más recurso que el de responsabilidad.
 
 ###### ARTICULO 232.
 
-Si no se acredita haber intentando la demanda o la acusación dentro del término señalado, levantará el Juez el depósito y restituirá a la mujer a la casa del marido.
+(DEROGADO, P.O. 31 DE JULIO DE 1975)
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 233.
 
-Si el Juez que decretó el depósito no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al competente, quien confirmará el nombramiento de depositario o hará otro, siguiendo el procedimiento su curso legal.
+Si el Juez que decretó la separación no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al competente, quien continuará el procedimiento.
 
 ### CAPITULO IV.
 
@@ -4720,9 +4728,11 @@ El juez examinará la solicitud y el convenio y si encuentra que ésta reúne lo
 
 Si el convenio no contiene todos los puntos enumerados en el artículo 327 del Código Civil o no están expresados claramente, el juez prevendrá a los solicitantes que los precisen y aclaren en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no lo hacen de común acuerdo se les tendrá por desistidos de su solicitud de divorcio.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+
 ###### ARTICULO 767.
 
-Llenados los requisitos de que se habla en los artículos anteriores, el Juez después de dictar las medidas convenientes para asegurar la situación de los hijos menores o incapacitados, de la mujer y de los alimentos de aquellos, y los que un cónyuge deba dar al otro mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al ciudadano Agente del Ministerio Público, mandando entregarle copias simples, para que dentro de un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
+Llenados los requisitos de que se habla en los artículos anteriores, el Juez después de dictar las medidas convenientes para asegurar la situación de los hijos menores o incapacitados, para la separación de los cónyuges, y los alimentos de los hijos y los que un cónyuge debe dar al otro en su caso, mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al ciudadano Agente del Ministerio Público, mandando entregarle las copias simples necesarias, para que dentro de un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
 
 ###### ARTICULO 768.
 
@@ -6246,6 +6256,8 @@ La venta de los bienes indivisos pertenecientes a mayores y menores de edad, se 
 
 Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+
 ###### ARTICULO 1027.
 
 El que pretenda adoptar a alguna persona deberá acreditar:
@@ -6334,7 +6346,9 @@ I.- De menores o incapacitados sujetos a patria potestad, a tutela, si son maltr
 
 II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren;
 
-III.- De mujer menor de edad que deseando contraer matrimonio necesite acudir a al autoridad judicial para que supla el consentimiento de sus padres o tutores.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1975)</small>
+
+III.- Del menor de edad que deseando contraer matrimonio necesite acudir a al autoridad judicial para que supla el consentimiento de sus padres o tutores.
 
 ###### ARTICULO 1041.
 
@@ -6368,19 +6382,23 @@ Verificado el depósito, en el caso de los artículos que preceden, se hará sab
 
 Inmediatamente que tuviera noticia un Juez de que algún huérfano, menor o incapacitado, se hallare en el caso de que habla la fracción II del artículo 1040, procederá a depositarlo donde estime conveniente, adoptando respecto de sus bienes, las precauciones oportunas para evitar abusos de todo género y dispondrá que se provea al interesado de tutor, conforme a derecho.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+
 ###### ARTICULO 1047.
 
-En el caso de la fracción III del artículo 1040, recibida la solicitud del depósito, que deberá ser hecha por escrito, el Juez se trasladará al domicilio de la menor, y si éste ratifica la solicitud, se prevendrá al ascendiente o tutor para que designe depositario. Sobre esta designación se oirá a la menor y si no se opone o el Juez estima infundada la oposición confirmará el nombramiento. Si considera fundada la oposición hará el Juez el nombramiento de la persona que estime conveniente.
+En el caso de la fracción III del artículo 1040, recibida la solicitud del depósito, que deberá ser hecha por escrito, el Juez se trasladará al domicilio del menor, y si éste ratifica la solicitud, se prevendrá al ascendiente o tutor para que designe depositario del menor. Sobre esta designación se oirá al interesado y si éste no se opone o el Juez estima infundada la oposición confirmará el nombramiento. Si considera fundada la oposición el Juez nombrará a la persona que estime conveniente para que actúe como depositario.
 
 ###### ARTICULO 1048.
 
 Hecho el nombramiento del depositario el Juez practicará el depósito como se dispone en los artículos 1043 y 1044.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+
 ###### ARTICULO 1049.
 
-Durará el depósito hasta que se verifique el matrimonio, salvo que el Juez niegue la autorización para contraerlo o que la depositada desista de sus pretensiones.
+Durará el depósito hasta que se verifique el matrimonio, salvo que el Juez niegue la autorización para contraerlo o que el menor depositado desista de sus pretensiones.
 
-En los dos últimos casos el Juez volverá a la mujer a casa de las personas bajo cuya potestad se encontraba, extendiéndose la correspondiente diligencia en el expediente formado para el depósito.
+En los dos últimos casos el Juez volverá al menor a casa de las personas bajo cuya potestad se encontraba. El acta de la diligencia deberá obrar en el expediente del depósito.
 
 ###### ARTICULO 1050.
 
@@ -6490,7 +6508,7 @@ Los gastos del apeo se harán a prorrata por el que lo promueva y los propietari
 
 ###### ARTICULO 1064.
 
-Se tramitarán como está prevenido para los incidentes, oyendo precisamente a los interesados con derecho a oponerse y al Ministerio Público, las autorizaciones o dispensas a que se refieren los artículos 138, 141, 145 último párrafo, 148, 152, 160, 162, 163, 164, 172, 177, 199, 229 y 230 del Código Civil.
+Se tramitarán como está prevenido para los incidentes, oyendo precisamente a los interesados con derecho a oponerse y al Ministerio Público, las autorizaciones o dispensas a que se refieren los artículos 138, 141, 145, último párrafo, 148, 152, 162, 163, 172, 177, 199, 228 y 230 del Código Civil.
 
 La resolución que se dicte será apelable en ambos efectos.
 
@@ -6771,3 +6789,7 @@ UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Pe
 P.O. 15 DE MARZO DE 1973.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE JULIO DE 1975.
+
+UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
