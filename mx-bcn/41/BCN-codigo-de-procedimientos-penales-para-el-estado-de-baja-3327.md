@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1999-04-09"
+last_updated: "1999-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1999.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -837,15 +837,25 @@ Después de oír al interesado, el funcionario que hubiese impuesto la correcci�
 
 Derecho a no ser privado de la libertad.- Nadie podrá ser privado de su libertad, sino en los casos señalados en la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### Artículo 106.
 
-Detención en caso de flagrante delito.- En caso de flagrancia delictiva, cualquier persona podrá detener al inculpado poniéndolo sin demora a disposición de la autoridad mas cercana y ésta, con la misma prontitud, a la del Ministerio Público componente.
+Detención en Caso de Flagrante Delito.- En caso de flagrancia delictiva, cualquier persona podrá detener al inculpado poniéndolo sin demora a disposición de la autoridad más cercana y ésta, con la misma prontitud, a la del Ministerio Público competente.
 
-Se entiende que un delincuente es aprehendido en flagrante delito, no solo cuando es detenido en el momento de estarlo cometiendo sino, también cuando después de ejecutado el hecho delictuoso, es perseguido y detenido materialmente, o cuando inmediatamente después de realizado, alguien lo señala como autor o partícipe del mismo y se encuentra en su poder el objeto, el instrumento del delito o cualquier huella o indicio que hagan presumir, fundadamente, su intervención en la comisión del mismo.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
+Se entiende que un delincuente es aprehendido en flagrante delito, no sólo cuando es detenido en el momento de estarlo cometiendo sino, también, cuando después de ejecutado el hecho delictuoso, es perseguido y detenido materialmente, o cuando inmediatamente después de realizado, alguien lo señala como autor o partícipe del mismo y se encuentra en su poder el objeto, el instrumento del delito o cualquier huella o indicio que hagan presumir, fundadamente, su intervención en la comisión del mismo.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 1999)</small>
+
+En el caso de delitos graves, podrán ser detenidos dentro de las setenta y dos horas posteriores a la comisión del hecho delictuoso, cuando sean señalados como responsables por la víctima, por algún testigo o quien hubiese participado con ellos en el delito y se encuentre en su poder el instrumento o producto del delito, o aparezcan huellas o indicios que indiquen su participación en el mismo delito.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 Al recibir el Ministerio Público a una persona detenida, calificará inmediatamente la legalidad de la detención y, si resulta injustificada, ordenará su libertad. En caso contrario, integrará la averiguación y resolverá sobre el ejercicio de la acción penal en el término legal.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 La violación de esta disposición hará penalmente responsable al funcionario que decrete indebidamente el aseguramiento, así como al ministerio Público que no ordene la libertad del sujeto.
 
@@ -3334,3 +3344,7 @@ P.O. 9 DE ABRIL DE 1999.
 PRIMERO.- Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para los efectos de dar cumplimiento al artículo 208.quater, se otorga al Poder Ejecutivo del Estado, un plazo no mayor de treinta días hábiles, a partir de la entrada en vigor del presente, para que remita a este H. Congreso del Estado, Iniciativa de Decreto que adicione en la Ley Orgánica de la Procuraduría General de Justicia, la facultad de expedir constancias de no existencia de reporte o denuncia de robo de vehículo motor.
+
+P.O. 7 DE MAYO DE 1999.
+
+UNICO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial del Estado.
