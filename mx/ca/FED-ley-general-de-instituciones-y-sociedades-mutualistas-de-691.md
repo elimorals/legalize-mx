@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1947-12-31"
+last_updated: "1949-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE FEBRERO DE 1949.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -865,17 +865,19 @@ Para el cálculo de la reserva de previsión en los términos del párrafo anter
 
 La reserva así constituída deberá incrementarse cada año hasta completar una suma igual a la mitad del capital mínimo o al 15% de las primas netas correspondientes a las pólizas emitidas durante el año, si el importe de éstas es mayor que la suma antes citada.
 
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949)</small>
+
 ## TITULO II. De las reservas y de su inversión
 
 ### CAPITULO I. Informes y cuentas
 
 ###### ARTICULO 78.
 
-En las instituciones de seguros, la suma del capital, las reservas estatutarias, la reserva de previsión y sobrantes, nunca deberá ser menor que el 10% de la reserva de riesgos en curso, si se trata de seguros comprendidos en los incisos a) y b) de la fracción II del artículo 1°., ni menor del 15% de las primas brutas cobradas durante el año para los demás ramos de seguros. Cuando a juicio de la Secretaría de Hacienda y Crédito Público, tales proporciones no sean suficientes para garantizar las posibles pérdidas por desviaciones estadísticas, la propia Secretaría, determinará que sean aumentados el capital, las reservas estatutarias o de previsión, en los términos y condiciones que estime prudente.
+En las Instituciones de Seguros, la suma de capital, las reservas estatutarias, la reserva de previsión y sobrantes, nunca deberán ser menor que el 10% de la reserva de riesgos en curso si se trata de seguros comprendidos en los incisos a) y b) de la fracción II del artículo 1°. y si la institución tiene hasta $10.000.000.00 de reservas técnicas; del 9% en el caso de reservas técnicas que vayan de $10.000.000.00 a $25.000.000.00; del 8% si las reservas son de $25.000.000.00 a $50.000.000.00; del 7% si las reservas son de $50.000.000.00 a $75.000.000.00; del 6% si las reservas son de $75.000.000.00 a $100.000.000.00 y del 5% cuando las reservas alcancen a $100.000.000.00 o más; ni menor del 15% de las primas brutas cobradas durante el año para los demás ramos de seguros.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+Cuando a juicio de la Comisión Nacional de Seguros, tales proporciones no sean suficientes para garantizar las posibles pérdidas por desviaciones estadísticas, la propia Comisión determinará que sean aumentados el capital y las reservas estatutarias o de previsión, en los términos y condiciones que estime prudentes.
 
-La falta de cumplimiento a lo dispuesto por este artículo, dará lugar a que la sociedad de que se trate sea declarada en estado de disolución.
+La falta de cumplimiento a lo dispuesto por este artículo dará lugar a que la sociedad de que se trate sea declarada en estado de disolución.
 
 ###### ARTICULO 79.
 
@@ -913,59 +915,77 @@ Las instituciones de seguros estarán obligadas a constituir las reservas que co
 
 Las reservas técnicas constituídas al 31 de diciembre de cada año de acuerdo con el Capítulo anterior, deberán encontrarse íntegramente invertidas a más tardar el día último de marzo del año siguiente, y quedar afectas al ramo de seguros a que correspondan.
 
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949)</small>
+
 ###### ARTICULO 85.
 
 El importe total de las reservas técnicas deberá invertirse precisamente en los siguientes bienes, créditos o valores:
 
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1949)</small>
 
 I.- Bonos o títulos emitidos por el Gobierno Federal, por el del Distrito Federal y por Instituciones Nacionales de Crédito, en los términos del siguiente artículo 86.
 
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
-
 II.- Bonos hipotecarios, bonos de caja, cédulas hipotecarias y obligaciones, emitidas o garantizadas en su caso, por instituciones de crédito debidamente autorizadas, así como los valores mobiliarios garantizados por el Fondo Nacional de Garantía.
 
-> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1949)</small>
 
-III.- Acciones y obligaciones de compañías mexicanas, que no sean mineras, petroleras o de seguros, aprobadas por la Comisión Nacional de Valores, por medio de acuerdos generales, o acciones de sociedades que se organicen exclusivamente con objeto de adquirir el dominio y administrar edificios en los que sea accionista alguna institución de seguros, y siempre que, además, en el edificio propiedad de esas sociedades, tenga su oficina principal la institución de seguros accionista.
+III.- Acciones y obligaciones de compañías mexicanas, que no sean mineras, petroleras o de seguros, aprobadas por la Comisión Nacional de Valores, por medio de acuerdos generales, o acciones de sociedades que se organicen exclusivamente con el objeto de adquirir el dominio y administrar edificios en los que sea accionista alguna institución de seguros, y siempre que, además, en el edificio propiedad de esas sociedades, tenga su oficina principal la institución de seguros accionistas.
 
-IV.- Préstamos con garantía prendaria de los bonos o títulos a que se refieren las tres fracciones anteriores. El importe de la operación no excederá del 99% del valor de la prenda, estimada de acuerdo con esta Ley.
+IV.- Préstamos con garantía prendaria de los bonos o títulos a que se refieren las tres fracciones anteriores.
 
-V.- Préstamos con garantía de las reservas medias de primas siempre que el importe del préstamo no exceda de la reserva terminal correspondiente;
+El importe de la operación no excederá del 80% del valor de la prenda, estimado de acuerdo con esta ley.
 
-VI.- En préstamos hipotecarios sobre inmuebles urbanos reembolsables en amortizaciones iguales anuales, semestrales o de más frecuente periodicidad y a plazos no mayores de diez años, siempre que el importe del préstamo no exceda del 50% del valor total de las fincas que queden afectadas en garantía hipotecaria, ni del 30% de su valor, cuando las construcciones de carácter especial, la maquinaria y otros muebles inmovilizados representen más de la mitad del valor de los bienes afectos en garantía. Las construcciones y los muebles inmovilizados que en la garantía se comprendan deberán estar asegurados contra incendio por una cantidad que baste, cuando menos, para cubrir el valor del crédito. Los valores a que se refiere esta fracción se fijarán en los términos del avalúo que se practique de acuerdo con el artículo 92;
+V.- Préstamos con garantía de las reservas medias de primas, siempre que el importe del préstamo no exceda de la reserva terminal correspondiente.
 
-VII.- Adquisición en la República de bienes inmuebles urbanos de productos regulares, que deberán siempre estar asegurados contra incendio por su valor destructible;
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1949)</small>
 
-VIII.- Reservas de riesgos en curso y de obligaciones pendientes de cumplir en otras instituciones autorizadas conforme a esta ley, en la parte que de sus riesgos hubiere reasegurado;
+VI.- En préstamos hipotecarios sobre inmuebles urbanos, reembolsables en amortizaciones iguales anuales, semestrales o demás frecuente periodicidad y a plazos no mayores de diez años, siempre que el importe del préstamo no exceda del 50% del valor total de las fincas que queden afectas en garantía hipotecaria, ni del 30% de su valor, cuando las construcciones de carácter especial, la maquinaria y otros muebles inmovilizados representen más de la mitad del valor de los bienes afectos en garantía. Las construcciones y muebles inmovilizados que en la garantía se comprendan, deberán estar asegurados contra incendio por una cantidad que baste cuando menos, para cubrir el valor del crédito. Los valores a que se refiere esta fracción se fijarán en los términos del avalúo que se practique de acuerdo con el artículo 92.
 
-IX.- Depósitos a la vista de Bancos de concesión federal;
+VII.- Adquisición en la República de bienes inmuebles urbanos de productos regulares, que deberán siempre estar asegurados contra incendio, explosión y terremoto por su valor destructible.
 
-X.- Inversiones correspondientes a las reservas por pólizas expedidas en países extranjeros por sus sucursales o agencias conforme a las leyes que en éstos sean aplicables. Estas inversiones solo se computarán para los efectos de las operaciones realizadas por la sucursal correspondiente.
+VIII.- Reservas de riesgos en curso y de obligaciones pendientes de cumplir en otras instituciones autorizadas conforme a esta Ley, en la parte que de sus riesgos hubiere reasegurado.
 
-XI.- Primas netas pendientes de cobro que no tengan más de 30 días de vencidas en la fecha del balance de la estimación, cuando se trate de instituciones que practiquen el ramo de vida. No podrán considerarse como inversiones de las reservas los intereses vencidos y pendientes de cobro de bonos, préstamos o rentas de bienes raíces.
+IX.- Depósitos a la vista en Bancos de concesión Federal.
+
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1949)</small>
+
+X.- Inversiones correspondientes a las reservas por pólizas expedidas en países extranjeros por sucursales o agencias conforme a las leyes que en éstos sean aplicables. Estas inversiones sólo se computarán por los efectos de las operaciones realizadas por la sucursal correspondiente.
+
+XI.- Primas netas pendientes de cobro que no tengan más de 30 días de vencidas en la fecha del balance o de la estimación, cuando se trate de instituciones que practiquen el ramo de la vida. No podrán considerarse como inversiones de las reservas los intereses vencidos y pendientes de cobro de bonos, préstamos o rentas de bienes raíces.
 
 Las inversiones de las reservas técnicas estarán afectas a las obligaciones contraídas por la institución por las pólizas emitidas, y no podrán disponer de ellas, total ni parcialmente, sino para cumplir las obligaciones contraídas y las que resulten por virtud de sentencia ejecutoriada de los Tribunales de la República, a favor de los asegurados o beneficiarios, de acuerdo con esta Ley.
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949)</small>
 
 ###### ARTICULO 86.
 
-Por lo demás, el veinte por ciento de las reservas técnicas de las instituciones de seguros, estarán precisamente invertidas en certificados de participación y bonos hipotecarios de instituciones nacionales de crédito, en bonos del Gobierno Federal o del Distrito Federal, para obras de servicios públicos, garantizados con la afectación en fideicomiso de algún impuesto, cuota de servicio, etc., suficiente a juicio de la Secretaría de Hacienda y Crédito Público para el servicio de amortización e intereses, siempre que el fideicomiso en favor de los tenedores de bonos se constituya en una institución nacional de crédito, o que se otorgue mandato irrevocable en favor del representante común de los tenedores de bonos para los cobros de las cuotas o percepción de los ingresos.
+Por lo menos el 30% de las reservas técnicas de las Instituciones de Seguros, estarán precisamente invertidas en certificados de participación o bonos hipotecarios de las Instituciones Nacionales de Crédito, en valores en serie del Gobierno Federal o del Distrito Federal, emitidos para obras de servicios públicos, garantizados con la afectación en fideicomiso de algún impuesto, cuota de servicio o ingreso suficiente a juicio de la Secretaría de Hacienda y Crédito Público para el servicio de amortización e intereses, siempre que el fideicomiso en favor de los tenedores de valores se constituya en una Institución Nacional de Crédito, o que se otorgue mandato irrevocable en favor del representante común de los tenedores de valores para los cobros de las cuotas de percepción de los ingresos.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+La Secretaría de Hacienda, por medio de acuerdos generales, oyendo a la Comisión Nacional de Seguros y a la Comisión Nacional de Valores, podrá admitir que se invierta un 5% de su capital y reservas de capital y técnicas dentro del 30% referido, en valores de la Deuda Pública Titulado a Cargo del Gobierno Federal, de características distintas a las señaladas en el párrafo anterior.
+
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1949)</small>
+
+Las inversiones que hagan las Instituciones de Seguros en obras de utilidad social, calidad que determinará la Secretaría de Hacienda, con opinión de la Comisión Nacional de Seguros, podrán ser asimiladas a la inversión en valores del Estado, para los efectos del cómputo del 30% que exige este artículo, hasta un 5% de su capital y reservas de capital y técnicas y siempre que las instituciones inviertan en dichas obras cuando menos otro tanto igual al que se les considere, que se afectará a otros renglones de inversión.
+
+Para los efectos de su inversión en los valores a que se refiere este precepto, previo estudio de las deducciones procedentes, la Comisión Nacional de Seguros determinará el monto total de las reservas técnicas de las Instituciones de Seguros.
+
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949)</small>
 
 ###### ARTICULO 87.
 
-Las inversiones que del importe total de las reservas técnicas haga una misma institución en cualquiera de los siguientes bienes o valores, se limitará a las proporciones, respecto a dicho total, que a continuación se indican:
+Las inversiones que del importe total de las reservas técnicas haga un (sic) misma institución en cualquiera de los siguientes bienes o valores, se limitarán a las proporciones, respecto a dicho total que a continuación se indican:
 
-I.- Hasta en un 50% en bienes inmuebles urbanos o en derechos reales, con garantía de los mismos;
+I.- Hasta un 50% en bienes inmuebles urbanos o en derechos reales con garantía de los mismos. La Comisión Nacional de Seguros en vista de casos concretos podrá fijar la proporción de bienes inmuebles y de derechos reales que dentro de este 50% deban tener las instituciones.
 
-II.- Hasta un 10% en efectivo o en depósito a la vista;
+II.- Hasta un 10% en efectivo o en depósitos a la vista.
 
-III.- Hasta un 10% en acciones de sociedades anónimas.
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1949)</small>
 
-Los créditos, títulos o valores de que sea responsable un mismo deudor o emisor, no excederán del 10% de las reservas, excepto cuando se trate de inversiones hechas en los términos del artículo 86.
+III.- Hasta un 10% en acciones de Sociedades Anónimas o préstamos prendarios con garantía de las mismas, sin que esta inversión de su capital y reservas de capital y técnicas pueda exceder del 30% del capital de la emisora.
+
+Del 10% fijado en la fracción anterior, las Instituciones de Seguros no podrán invertir sino un 5% de su capital y reservas de capital y técnicas en acciones de Instituciones de Crédito o préstamos prendarios, con garantía de dichos títulos, sin que esta inversión pueda exceder del 30% del capital de la emisora.
+
+Los créditos, títulos o valores de que sea responsable un mismo deudor o emisor, no excederán del 10% de las reservas de capital y técnicas excepto cuando se trate de inversiones hechas en los términos del artículo 86.
 
 ###### ARTICULO 88.
 
@@ -1271,9 +1291,11 @@ Todas las instituciones de seguros deberán publicar en el "Diario Oficial" y en
 
 La inspección y vigilancia de las instituciones de seguros, de sus sucursales y agencias, quedará confiada a la Secretaría de Hacienda y Crédito Público.
 
+(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949) (F. DE E., D.O.F. 16 DE MARZO DE 1949)
+
 ###### ARTICULO 115.
 
-Los funcionarios o empleados encargados de la inspección y vigilancia de las instituciones de seguros, no podrán ser consejeros, administradores, funcionarios, empleados o agentes de las instituciones o establecimientos que conforme a esta ley están sujetas a la inspección y vigilancia de la Secretaría de Hacienda.
+Los funcionarios o empleados encargados de la inspección y vigilancia de las instituciones de seguros, no podrán ser consejeros, administradores, funcionarios, empleados o agentes de las instituciones o establecimientos que conforme a esta Ley están sujetos a la inspección y vigilancia de la Secretaría de Hacienda. Se exceptúan de la regla anterior a los Vocales de la Comisión Nacional de Seguros.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -1320,6 +1342,20 @@ XIII.- Tendrá las más amplias facultades para interpretar administrativamente 
 XIV.- Ejercerá la inspección y vigilancia de las instituciones, directamente o por medio de algún organismo descentralizado, auxiliar de la Secretaría, en los términos del reglamento respectivo.
 
 XV.- Realizará todo aquello que en su concepto sea necesario para la estabilidad de la institución del seguro en México, siempre que tales actos no contravengan lo dispuesto en esta ley.
+
+(ADICIONADO, D.O.F. 16 DE FEBRERO DE 1949) (F. DE E., D.O.F. 16 DE MARZO DE 1949)
+
+ARTICULO 118 bis.- Cuando una Institución de Seguros deje de cumplir reiteradamente las disposiciones dictadas por la Secretaría de Hacienda o la Comisión Nacional de Seguros, para regularizar su situación dentro de la ley, o bien cuando se vea afectada por una inestabilidad económica que haga necesario limitar sus actividades o reducirlas dentro de un marco técnico y económico que permita remediar la situación creada por una mala administración o por malos negocios de la Sociedad, la Secretaría de Hacienda, podrá a través de la Comisión Nacional de Seguros, decretar la intervención de la Institución de Seguros de que se trate.
+
+En el momento de la intervención se podrá suspender temporalmente la contratación de nuevos negocios por parte de la Institución afectada.
+
+El interventor se encargará del manejo de los negocios sociales; dentro de un plazo no mayor de 45 días a contar de la fecha de la aceptación de su cargo, presentará un plan detallado de regularización de la empresa. La Comisión Nacional de Seguros, al aprobar su plan anterior, señalará el plazo de duración de la intervención. En todo caso, la empresa quedará sometida al plan aprobado y a la autoridad del interventor encargado de la realización del mismo.
+
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1949)</small>
+
+El interventor será designado por la Comisión Nacional de Seguros, y podrá ser una persona física, una institución fiduciaria o un Consejo, no mayor de tres personas de las cuales una actuará como ejecutor y las demás como consejeros. Sus honorarios serán fijados por la propia Comisión, a cargo de la institución afectada. Las faltas temporales o definitivas de los interventores, serán cubiertas por designación inmediata hecha por la Comisión Nacional de Seguros. En cualquier momento, la designación de los interventores podrá ser revocada por la mencionada Comisión exigiendo el cumplimiento de las responsabilidades en que hubiere incurrido con motivo de su cargo.
+
+Si a la terminación del plazo señalado por la intervención, o antes, la sociedad ha regularizado sus operaciones, cesará la intervención; en su caso contrario, la Comisión Nacional de Seguros propondrá a la Secretaría de Hacienda alguna de las otras medidas previstas por la ley.
 
 ## TITULO IV. De la disolución de las instituciones de seguros
 
@@ -1692,3 +1728,13 @@ En tanto se establezca el organismo a que se refiere el artículo 8°. los segur
 ###### ARTICULO II.
 
 El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE FEBRERO DE 1949.
+
+###### ARTICULO PRIMERO.
+
+Se concede un plazo de un año, contado a partir de la vigencia de esta Ley, para que las Instituciones de Seguros se ajusten a lo dispuesto en el artículo 87 de la misma.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes reformas y adiciones entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
