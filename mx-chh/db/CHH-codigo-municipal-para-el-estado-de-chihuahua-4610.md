@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1999-04-24"
+last_updated: "1999-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -557,7 +557,9 @@ XII.- Representar al Municipio, con todas las facultades de un apoderado general
 
 XIII.- Formular y someter a la aprobación del Ayuntamiento el anteproyecto de ley de ingresos y el proyecto de presupuesto de egresos;
 
-XIV.- Administrar por conducto de las dependencias competentes, la hacienda pública municipal, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y el gasto público;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+XIV.- Administrar por conducto de las dependencias competentes, la hacienda pública municipal, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y el gasto público, siendo aplicable en lo conducente lo dispuesto por el Capítulo Único del Título Quinto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto público del Estado de Chihuahua;
 
 XV.- Vigilar la recaudación de los ingresos municipales y que la inversión de dichos fondos se aplique con apego al presupuesto de egresos;
 
@@ -1231,7 +1233,7 @@ VIII.- Las demás que le otorguen las leyes, reglamentos y manuales de organizac
 
 ###### ARTICULO 69.
 
-La Policía Municipal se instituye para proveer a la seguridad, tranquilidad, moralidad y orden públicos en la comunidad y a la preservación de los derechos del individuo y en consecuencia:
+La Policia Municipal se instituye para proveer a la seguridad, tranquilidad, moralidad y orden públicos en la comunidad y a la preservación de los derechos del individuo y en consecuencia:
 
 I.- Estará organizada y funcionará conforme a su propia Ordenanza y Bando aprobados por el Ayuntamiento y tendrá como normas reguladoras de su actuación la disciplina interna y externa, la organización jerárquica, el espíritu de cuerpo y la vocación de servicio;
 
@@ -2886,3 +2888,9 @@ P.O. 24 DE ABRIL DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
