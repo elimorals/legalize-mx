@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2003-07-19"
+last_updated: "2003-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -252,6 +252,10 @@ Secretaría de la Contraloría.
 Procuraduría General de Justicia.
 
 Coordinación de Comunicación Social.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+Coordinación de Desarrollo Administrativo y Modernización.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -661,7 +665,7 @@ V.- Supervisar la ejecución de las obras con el objeto de que éstas se realice
 
 VI.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
-VII.- Operar y mantener los servicios de telefonía, radiotelefonía y otros relacionados con las comunicaciones, que preste el Gobierno Estatal;
+VII.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
 VIII.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
@@ -805,23 +809,25 @@ VIII.- Practicar auditorías a las entidades paraestatales y a los municipios cu
 
 IX.- Seleccionar, con la opinión del Secretario de Finanzas y Administración, los despachos externos de auditores que, con base en su solvencia moral, capacidad atribuida y reconocimiento profesional, puedan ser contratados para que practiquen las auditorías a que se refiere la fracción anterior;
 
-X.- Operar y evaluar los mecanismos destinados a proporcionar a los ciudadanos un servicio eficaz y oportuno de orientación e información, así como de atención de sus quejas y denuncias;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-XI.- Promover el establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados, planeando y diseñando integralmente las modificaciones que deban hacerse a la administración pública estatal.
+X.- Operar y evaluar los mecanismos destinados a proporcionar a los ciudadanos la atención de sus quejas y denuncias.
 
-Asimismo, dictaminar sobre los proyectos que elaboren las dependencias y entidades para efectuar modificaciones a sus estructuras de organización, y acordar cualquier cambio a las mismas con el Gobernador del Estado;
+XI.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
-XII.- Formular y difundir la normatividad para la elaboración de manuales de organización, de procedimientos y de servicios al público, de las dependencias y entidades del Ejecutivo;
+XII.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
-XIII.- Impulsar ordenadamente en las dependencias y entidades del Ejecutivo, el desarrollo de sistemas de información a través de equipos de procesamiento electrónico de datos, proporcionando asesoría y apoyo técnico, para el desarrollo y la implantación de sistemas administrativos y de proceso electrónico, y expedir la normatividad de la materia;
+XIII.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
-XIV.- Garantizar las condiciones operativas del sistema central de cómputo, al nivel de confiabilidad y productividad requeridos para dar el servicio de procesamiento centralizado, mediante la conservación de los recursos informáticos en condiciones óptimas de funcionamiento, capacidad y actualización;
+XIV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
-XV.- Dictaminar sobre la justificación de la compra de equipos y sistemas de cómputo electrónico, así como sobre la configuración, la selección y el mantenimiento de los mismos, que requieran las dependencias y entidades del Ejecutivo;
+XV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
 XVI.- Representar, salvo disposición expresa del Gobernador, ante toda clase de autoridades, por sí o por conducto de apoderado, a la administración pública estatal, en aquellos casos en que puedan ser afectados los intereses del Estado y formular denuncias, querellas o demandas y otorgar perdón, así como ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo, pudiendo, en su caso, conferir y revocar poderes generales y especiales, respecto de las responsabilidades penales o de carácter civil en que incurran los servidores de la administración pública;
 
-XVII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de auditoría interna, organización e informática, así como vigilar el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+XVII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de auditoría interna, así como vigilar el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
 
 XVIII.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
 
@@ -860,6 +866,34 @@ II.- Diseñar y mantener un proceso dinámico de consulta de opinión ciudadana 
 III.- Captar y compilar la información noticiosa publicada, que se relacione con las actividades del Poder Ejecutivo, para mantener enterados oportunamente a los funcionarios;
 
 IV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 36 BIS.- A la Coordinación de Desarrollo Administrativo y Modernización corresponde el despacho de los siguientes asuntos:
+
+I.- Normar, promover y coordinar el desarrollo y la modernización de las dependencias y entidades del Poder Ejecutivo, a través de la administración de proyectos que mejoren los servicios públicos y demás procesos que realizan en beneficio de la población;
+
+II.- Rediseñar los sistemas y procesos a nivel del gobierno en su conjunto, para hacer más eficiente su operación, considerando a la tecnología de información como eje del cambio y aplicando soluciones de vanguardia;
+
+III.- Asesorar y apoyar las iniciativas de desarrollo y modernización de las dependencias y entidades del Poder Ejecutivo, mediante la administración de los proyectos respectivos, la investigación de las mejores prácticas, el diagnóstico de los procesos sustantivos, el diseño de soluciones para los procesos y los sistemas, la adecuación de sus estructuras de organización y la capacitación a los operarios de los métodos de trabajo;
+
+IV.- Procurar el desarrollo organizacional de las dependencias y entidades del Poder Ejecutivo, mediante la evaluación permanente de su desempeño y, en su caso, la facilitación de los cambios que mejoren sus resultados;
+
+V.- Formular y difundir la normatividad para la elaboración de manuales de organización, de procedimientos y de servicios, así como de reglamentos interiores y demás instrumentos administrativos que formalizan la estructura y el funcionamiento de las dependencias y entidades del Poder Ejecutivo;
+
+VI.- Evaluar y, en su caso, rediseñar y autorizar técnicamente los cambios a las estructuras organizacionales que propongan las dependencias y entidades;
+
+VII.- Evaluar permanentemente la calidad, cobertura, pertinencia y satisfacción del usuario en la entrega de todos los servicios que le presta el Ejecutivo y, en su caso, promover las transformaciones o mejoras de procesos, sistemas, tecnologías de información y comunicación, físicas y conductuales que corresponda, efectuando una adecuada administración del cambio;
+
+VIII.- Planear, promover, desarrollar y mantener una infraestructura de tecnología de información y comunicaciones de punta y robusta, así como una plataforma de desarrollo de sistemas basada en un modelo integral de datos que permitan la dinámica optimización del funcionamiento del Ejecutivo, de acuerdo con las demandas de la sociedad;
+
+IX.- Diseñar, actualizar y vigilar la aplicación de la normatividad y las políticas relativas a la adquisición de equipos, programas y servicios informáticos;
+
+X.- Promover la efectiva administración de las unidades de informática de las dependencias y entidades del Poder Ejecutivo;
+
+XI.- Desarrollar, administrar, operar y mantener el equipo central de computación, las redes estatales de datos y telefonía y los demás servicios informáticos cuyo funcionamiento resulte más eficiente de manera centralizada; y
+
+XII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -1180,3 +1214,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para dar cumplimiento al presente Decreto se autoriza al Ejecutivo del Estado a llevar a cabo las transferencias de partidas presupuestales necesarias.
+
+P.O. 24 DE DICIEMBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil cuatro.
+
+###### ARTICULO SEGUNDO.
+
+Cuando en otras disposiciones normativas se haga referencia a las funciones que en virtud del presente Decreto son asumidas por la Coordinación de Desarrollo Administrativo y Modernización, se entenderá referida ésta para efectos del desempeño de aquéllas.
