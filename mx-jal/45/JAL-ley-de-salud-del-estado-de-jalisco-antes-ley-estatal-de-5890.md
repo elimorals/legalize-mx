@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2001-03-13"
+last_updated: "2001-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -57,7 +57,9 @@ III. La protección y el enriquecimiento de los valores que coadyuven a la creac
 
 IV. La extensión de actitudes solidarias y responsables de la población, en la preservación, conservación y restauración de la salud;
 
-V. El acceso a los servicios de salud y de asistencia social que satisfagan eficaz y oportunamente, las necesidades de la población;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+V. El acceso a los servicios de salud que satisfagan eficaz y oportunamente, las necesidades de la población;
 
 VI. El conocimiento de los servicios de salud para su adecuado aprovechamiento y uso; y
 
@@ -105,7 +107,7 @@ XIV. La prevención y el control de las enfermedades no transmisibles y accident
 
 XV. La prevención de la invalidez y la rehabilitación de los inválidos;
 
-XVI. La asistencia social, y
+XVI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 XVII. Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia;
 
@@ -287,9 +289,9 @@ I. Proporcionar servicios de salud a toda la población del Estado y mejorar la 
 
 II. Contribuir al adecuado desarrollo demográfico del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-III. Contribuir al bienestar social de la población mediante la prestación de servicios de atención médica y la coordinación de los servicios de asistencia social, para fomentar el desarrollo físico, mental y social de grupos vulnerables;
+III. Contribuir al bienestar social de la población mediante la prestación de servicios de atención médica para lograr el desarrollo físico, mental y social de grupos vulnerables;
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -399,11 +401,15 @@ Se consideran servicios de salud todas aquellas acciones realizadas en beneficio
 
 Los servicios de salud se clasifican en:
 
-I. De atención médica;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-II. De salud pública; y
+I. De atención médica; y
 
-III. De asistencia social.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+II. De salud pública;
+
+III. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -435,9 +441,7 @@ VII. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
 VIII. La promoción del mejoramiento de la nutrición;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
-
-IX. La asistencia social a los grupos vulnerables;
+IX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 X. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
@@ -945,11 +949,11 @@ Se consideran acciones de salud pública, entre otras, el saneamiento del medio,
 
 ###### Art. 79.
 
-Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2001)
 
 ###### Art. 80.
 
-El Gobierno del Estado contará con un organismo que tendrá entre sus objetivos, en coordinación con el organismo federal encargado de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2001)
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3350,3 +3354,23 @@ TERCERO.- Las autorizaciones expedidas con anterioridad a la vigencia de esta le
 CUARTO.- En tanto se expiden los reglamentos de la presente ley y los criterios y lineamientos técnicos sobre salubridad local, se aplicarán el Reglamento de la Ley Estatal de Salud en Materia de Festividades Populares y los Reglamentos de la Ley Estatal de Salud en materia de Salubridad Local, publicados con fecha 26 de marzo de 1988 y 4 de octubre de 1990 en el Periódico Oficial El Estado de Jalisco.
 
 QUINTO.- Al Ejecutivo Estatal le corresponderá hacer la primera convocatoria al Consejo de la Comisión de Arbitraje Médico del Estado de Jalisco dentro de los treinta días siguientes a la publicación del presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2001.
+
+Primero.- El presente decreto entrará en vigor el día primero de enero del año 2002, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- Se autoriza al Titular del Poder Ejecutivo para que, por conducto de la Secretaría de Finanzas, incorpore una unidad presupuestal destinada a la Secretaría de Desarrollo Humano que se crea, dentro del Presupuesto de egresos para el ejercicio fiscal del año 2002.
+
+Cuarto.- Para la debida integración y estructura de la Secretaría de Desarrollo Humano, las Secretarías de Finanzas y Administración, así como las demás dependencias que resulten involucradas, deberán prestar el auxilio y apoyo técnico que se les requiera, conforme a las disposiciones legales aplicables y los programas y presupuestos vigentes.
+
+Quinto.- En el proceso de creación e instalación de la Secretaría de Desarrollo Humano, se preservarán íntegramente los derechos laborales de los servidores públicos que deban ser transferidos de una dependencia o entidad a otra, debiendo sujetarse a lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+Sexto.- Se autoriza a la Secretaría General de Gobierno, de Finanzas y de Administración para que determinen los recursos humanos, materiales y financieros que tengan asignados la subsecretaría de Participación Social, que deban pasar a formar parte de la Secretaría de Desarrollo Humano y a que realicen los trámites que correspondan para transferirlos.
+
+Séptimo.- Los asuntos que correspondan y que se estén tramitando en la Subsecretaría de Participación Social a la fecha de entrada en vigor del presente Decreto, y que se acuerde en los términos del artículo octavo transitorio, serán asumidos por la Secretaría de Desarrollo Humano, así mismo la Subsecretaría de Participación Social, se subroga respecto de dichos asuntos, todos los derechos y obligaciones que hasta la fecha haya contraído la Secretaría General de Gobierno por conducto de la referida Subsecretaría.
+
+Octavo.- Aquellas funciones que legalmente le han sido atribuidas a la Subsecretaría de Participación Social, a partir de la entrada en vigor del presente Decreto, serán competencia de la Secretaría de Desarrollo Humano, previo acuerdo con la Secretaría General de Gobierno.
+
+Noveno.- El Ejecutivo del Estado expedirá el Reglamento Interno de la Secretaría de Desarrollo Humano en un plazo no mayor de noventa días.
