@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-11634"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-09"
-last_updated: "2001-06-16"
+last_updated: "2001-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 16 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 29 DE DICIEMBRE DE 2001.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 9 de noviembre de 1996.
 
@@ -795,7 +795,11 @@ Los PARTIDOS POLITICOS deberán tener un órgano interno encargado de la obtenci
 
 El financiamiento público anual a que se refiere la fracción I del artículo anterior, aprobado en el Presupuesto de Egresos del Estado, se otorgará de conformidad con las siguientes disposiciones:
 
-I.- Solamente tendrán derecho de recibir esta prerrogativa, los PARTIDOS POLITICOS que hayan participado con candidatos propios en la elección inmediata anterior para Diputados locales por el principio de mayoría relativa, cubriendo cuando menos el 50% de los distritos electorales y el 1.5% de la votación total;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+I.- Solamente tendrán derecho de recibir esta prerrogativa, los PARTIDOS POLITICOS que hayan participado con candidatos propios en la elección inmediata anterior para Diputados Locales por el principio de mayoría relativa, cubriendo cuando menos el 50% de los distritos electorales y el 1.5% de la votación total. Los partidos políticos que hubieren obtenido su registro o inscripción con fecha posterior a la última elección, tendrán derecho a que se les otorgue a cada uno como financiamiento público, el equivalente al 1.5% del monto que por financiamiento total de la parte igualitaria les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes;
+
+El financiamiento a que se refiere esta fracción se determinará anualmente y las cantidades que en su caso se fijen para cada partido político, serán entregadas en ministraciones mensuales.
 
 II.- Los partidos políticos nacionales deberán exhibir ante el CONSEJO GENERAL, dentro de los 30 días siguientes a la calificación de la elección, constancia actualizada de la vigencia de su registro, sin la cual no gozarán de esta prerrogativa;
 
@@ -803,11 +807,15 @@ III.- El monto del financiamiento público se calculará multiplicando el númer
 
 El CONSEJO GENERAL aprobará el financiamiento durante el mes de septiembre del año de la elección;
 
-IV.- El CONSEJO GENERAL distribuirá la mitad de dicho monto en partes iguales a los partidos y la mitad restante en proporción al número de votos logrados por cada uno en la elección respectiva;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+IV.- El CONSEJO GENERAL distribuirá la mitad de dicho monto en partes iguales a los partidos y la mitad restante en proporción al número de votos logrados por cada uno en la elección respectiva, en los términos de la fracción I de este artículo;
 
 V.- La cantidad que resulte a cada uno de los partidos según la fórmula anterior, les será entregada en ministraciones mensuales, a partir del mes de octubre del año de la elección. El CONSEJO GENERAL actualizará anualmente, durante el mes de enero, la cantidad señalada en la fracción III de este artículo, en proporción al aumento de la inflación registrada en el año anterior, de conformidad con los índices del Banco de México;
 
-VI.- En el año de la elección, cada partido recibirá una cantidad igual al monto del financiamiento público que le corresponda en ese año, de conformidad con la fracción IV de este artículo, que será destinada para apoyar las actividades tendientes a la obtención del voto durante el proceso electoral de sus candidatos a Diputados locales, Ayuntamientos y Gobernador del Estado, en su caso;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+VI.- En el año de la elección, cada partido recibirá una cantidad igual al monto del financiamiento público que le corresponda en ese año, de conformidad con las fracciones I y IV de este artículo, que será destinada para apoyar las actividades tendientes a la obtención del voto durante el proceso electoral de sus candidatos a Diputados Locales, Ayuntamientos y Gobernador del Estado, en su caso;
 
 VII.- Los PARTIDOS POLITICOS deberán rendir al CONSEJO GENERAL, en el mes de febrero, un informe anual justificado del empleo del financiamiento recibido en el ejercicio inmediato anterior. Los partidos deberán acompañar al mismo, una copia del acta en la que conste que su comité estatal u órgano equivalente conoció de dicho informe. Una comisión de Consejeros Electorales se encargará de la vigilancia y revisión de los informes de financiamiento de los PARTIDOS POLITICOS, para ser presentados al CONSEJO GENERAL. El CONSEJO GENERAL suspenderá el financiamiento al partido que no cumpla con esta obligación; y
 
@@ -4295,9 +4303,7 @@ Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hech
 
 El que afirma está obligado a probar. También lo está el que niega cuando su negación envuelva la afirmación expresa de un hecho.
 
-### CAPITULO II. DE LOS DELITOS ELECTORALES
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1999)</small>
+### CAPITULO I. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 372.
 
@@ -4353,9 +4359,11 @@ El TRIBUNAL sólo podrá declarar la nulidad de la votación recibida en una o v
 
 ## TITULO SEGUNDO. DE LAS INFRACCIONES, SANCIONES ADMINISTRATIVAS Y DELITOS ELECTORALES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1999)</small>
 
-### CAPITULO I. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
+### CAPITULO II. DE LOS DELITOS ELECTORALES
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 377.
 
@@ -4439,6 +4447,8 @@ El CONSEJO GENERAL aplicará al PARTIDO POLITICO la sanción económica que le h
 
 Las multas impuestas por infracciones a este CODIGO, contenidas en el presente Título, deberán ser pagadas en la Secretaría Ejecutiva del INSTITUTO, en un plazo improrrogable de 15 días contados a partir su notificación. En caso de que el infractor se oponga al pago se podrá solicitar a la Secretaría de Finanzas del Gobierno del Estado el cobro de la misma, aplicando para ello el procedimiento económico coactivo.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 390.
 
 Se considerará como delito electoral todo acto u omisión doloso que contravenga lo dispuesto por el presente Código y se encuentre previsto en la Ley Penal, ya sea que se cometa antes, durante o después de la jornada electoral.
@@ -4448,8 +4458,6 @@ Se considerará como delito electoral todo acto u omisión doloso que contraveng
 ###### ARTICULO 391.
 
 A los servidores públicos, funcionarios electorales y ciudadanos en general que incurran en algún delito electoral, se les aplicarán las penas establecidas en el capítulo X, denominado "De los Delitos Electorales", del Título Primero, Sección Segunda, del Código Penal para el Estado de Colima. A los servidores públicos, además de las sanciones ya mencionadas, se les podrán aplicar las establecidas por la Ley de Responsabilidades de los Servidores Públicos.
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1999)</small>
 
 ## TRANSITORIOS
 
@@ -4510,3 +4518,7 @@ TERCERO.- Para que los partidos políticos normalicen y tengan la disponibilidad
 P.O. 16 DE JUNIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el periódico Oficial El Estado de Colima.
