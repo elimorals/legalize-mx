@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "1996-12-07"
+last_updated: "1999-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -937,7 +937,11 @@ X Ter.- Despojo de cosas inmuebles o aguas, autoría intelectual y/o dirección 
 
 XI.- Tortura previsto en el artículo 3 de la Ley para Prevenir y Sancionar la Tortura en el Estado; y
 
-XII.- El previsto en la fracción VI del artículo 194 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado.
+XII.- El previsto en la fracción VI del artículo 194 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 1999)</small>
+
+XIII.- Pornografía infantil prevista en el artículo 175 Bis del Código Penal del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1994)</small>
 
@@ -3298,3 +3302,9 @@ P.O. 7 DE DICIEMBRE DE 1996.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan, en lo que se opongan al contenido del presente decreto, todas las disposiciones legales y reglamentarias que conforman el marco jurídico propio de esta Entidad Federativa.
+
+P.O. 14 DE ABRIL DE 1999.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
