@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-policia-y-transito-del-estado-de-michoacan-6471"
 country: "mx"
 rank: "ley"
 publication_date: "1978-03-30"
-last_updated: "1978-03-30"
+last_updated: "1982-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE POLICIA Y TRANSITO DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1982
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 30 de marzo de 1978.
 
@@ -71,11 +71,11 @@ IV.- A las demás personas e instituciones que, con carácter oficial, reconoce 
 
 El Titular del Ejecutivo del Estado, dictará las medidas necesarias para lograr los objetivos de esta Ley; contra sus acuerdos no cabe recurso alguno. Para los efectos de este artículo, se entiende por acuerdo, toda disposición que tienda a:
 
-I.- Otorgar, modificar o cancelar, con sujeción a esta Ley y su Reglamento, concesiones o permisos a particulares para la prestación de servicio público de autotransportes urbanos y foráneos;
+I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
-II.- Determinar el número y la extensión de las rutas en que se dividirán los caminos estatales, así como la clase o clases y el número de unidades de servicio público, que en cada ruta deberán funcionar;
+II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
-III.- Aprobar y modificar las tarifas para el uso de las vías públicas estatales en el servicio de autotransportes;
+III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 IV.- Dictar medidas para guardar el orden y dar seguridad a las personas, sus derechos y sus bienes; y
 
@@ -83,15 +83,15 @@ V.- Los demás que esta Ley y su Reglamento señalen.
 
 ###### ARTICULO 7o.
 
-Son vías públicas estatales, las carreteras, caminos, avenidas, calzadas, plazas, calles y parques, destinados al tránsito de vehículos y peatones, que no sean de jurisdicción del Gobierno Federal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 8o.
 
-El derecho de vía en los caminos estatales, será fijado por la Dirección de Obras Públicas, en coordinación con la Dirección de Policía y Tránsito. Se entiende por derecho de vía, la extensión de terreno ubicado en las márgenes de los caminos, para la seguridad del tránsito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 9o.
 
-El aprovechamiento de vías públicas o de servicios conexos, únicamente podrán autorizarse a mexicanos y a sociedades mexicanas constituidas legalmente, siempre y cuando el capital de éstas esté representado por acciones nominativas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ### CAPITULO II. DE LA DIRECCION DE POLICIA Y TRANSITO DEL ESTADO
 
@@ -117,7 +117,7 @@ VIII.- ordenar y regular el tránsito de peatones y vehículos, mediante disposi
 
 IX.- Expedir la documentación que autorice a las personas a conducir vehículos automotores y ampare el tránsito de los mismos;
 
-X.- Admitir en trámite y resolver sobre concesiones, permisos y otros derechos previstos en esta Ley y su Reglamento; así como revocarlos, anularlos o suspenderlos;
+X.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 XI.- Promover la formación de comisiones mixtas de seguridad y educación vial;
 
@@ -777,299 +777,199 @@ Las marcas en el pavimento, se utilizarán como señales para indicar la separac
 
 ###### ARTICULO 126.
 
-Teniendo el transporte como objeto la satisfacción de una necesidad de interés social, corresponde al Ejecutivo del Estado la facultad de otorgar concesiones y permisos a los particulares para la prestación de dicho servicio, en las condiciones y con las restricciones y modalidades que dicte el interés público.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 127.
 
-Para los efectos de esta Ley, se considera servicio público el transporte de personas, equipajes y carga, por calles y caminos de jurisdicción estatal, mediante el pago de una retribución en numerario y con el uso de vehículos autorizados por esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 128.
 
-Concesión de servicio público de transporte, es el acto unilateral y de Derecho Público, por medio del cual el Ejecutivo del Estado otorga autorización a una persona física o moral, para prestar, mediante el pago de una remuneración autorizada, el servicio de transporte de personas o cosas en las vías públicas del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 129.
 
-Permiso de ruta, para los efectos de esta Ley, es la autorización que se otorga por acuerdo expreso del Jefe del Ejecutivo, en cuanto concesión de servicio público de transporte, para la explotación de una ruta determinada, especificando con precisión horario, itinerario y tarifas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 130.
 
-Toda concesión para la presentación del servicio público de transporte en calles y caminos de jurisdicción estatal, emanada del Ejecutivo del Estado, se otorgará previa tramitación de solicitud en la oficina correspondiente de la Dirección de Policía y Tránsito, conforme al procedimiento previsto en esta Ley y su reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 131.
 
-Para los efectos del artículo 128, podrán establecerse modalidades a las concesiones, permisos de ruta, fijación de itinerarios, tarifas, horarios y estacionamientos terminales, de acuerdo con las necesidades del público y congruentes con el desarrollo social y económico de la Entidad, en los términos de la presente Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 132.
 
-Todas las resoluciones que dicte el Ejecutivo del Estado sobre otorgamiento, restricción y cancelación de concesiones para la explotación del servicio de transporte, tendrán carácter definitivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 133.
 
-Las concesiones para utilización de las calles y caminos de jurisdicción estatal, en la explotación de los servicios públicos de transporte, podrán otorgarse para cualquiera de los servicios siguientes:
-
-I.- Transporte de personas:
-
-a) Urbano, suburbano y foráneo de primera y segunda clase;
-
-b) Servicio de autos de alquiler;
-
-c) Servicio colectivo urbano; y
-
-d) Servicio exclusivo de turismo.
-
-II.- Transporte de carga:
-
-a) Servicio de carga en general;
-
-b) Servicio de materiales para construcción;
-
-c) Servicio destinado a vender líquidos;
-
-d) Servicio de express urbano y foráneo; y
-
-e) Servicio especial.
-
-III.- Transporte mixto (de pasajeros, equipaje y carga en general).
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 134.
 
-El servicio de transporte público de personas, urbano, suburbano y foráneo, será aquel que se preste en vehículos cerrados y en condiciones óptimas de seguridad, higiene y rapidez, a juicio de la Dirección de Policía y Tránsito. Podrá ser de primera o de segunda clase, atendiendo a sus condiciones de comodidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 135.
 
-El servicio de autos de alquiler, será el que se preste en vehículos cerrados, en buenas condiciones de uso, higiene, seguridad y rapidez, con cupo hasta para cinco personas como máximo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 136.
 
-Formarán un "Sitio" de automóviles, los vehículos de esta denominación general hasta de cinco asientos útiles que, establecidos en los lugares de las vías públicas que señale la concesión respectiva, se destinen al transporte de personas, sin itinerarios fijos, con ofertas al público, mediante la aplicación de tarifas previamente aprobadas por el Ejecutivo del Estado, a través de la Dirección de Policía y Tránsito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 137.
 
-El servicio colectivo urbano, será el que se preste en vehículos cerrados con ruta fija y tarifa determinada con cupo adecuado al tipo de unidad que se utilice.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 138.
 
-Por transporte exclusivo de turismo, se entenderá aquel que se preste a pasajeros cuya finalidad exclusiva o fundamental sea el esparcimiento, el recreo o el estudio de los lugares de interés turístico que existan en la Entidad.
-
-El transporte de turismo se realizará sólo en viajes redondos, en vehículos acondicionados específicamente para esta finalidad, con cuotas especiales, operados por personal especializado, y no estará sujeto a horarios fijos ni a rutas determinadas. Sólo podrá ser concesionado a personas físicas o morales registradas en la Dirección de Turismo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 139.
 
-Se entenderá por servicio público de carga, el destinado al transporte de mercancías, materiales para construcción, animales y de otros objetos, en los términos y condiciones que señala esta Ley y su Reglamento.
-
-Los propietarios de camiones de carga y volteo, deberán transportar específicamente materiales y productos del negocio que, debidamente registrado, acrediten ante la Dirección de Policía y Tránsito, al solicitar las placas correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 140.
 
-El servicio público de transporte express, será el que se realice con bultos y paquetes de mercancías en general, en vehículos cerrados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 141.
 
-El servicio especial de transporte público de carga, será aquel que requiera equipo adicional del vehículo, en virtud de las precauciones necesarias que, según el tipo de carga, deberán tomarse a juicio de la Dirección de Policía y Tránsito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 142.
 
-Servicio mixto de pasajeros, equipaje y carga en general, será el que se preste para el transporte de personas y cosas en el mismo vehículo, acondicionado con compartimiento para las personas para su equipaje y para carga. En ningún caso, el peso máximo deberá rebasar la capacidad que técnicamente señale el fabricante para el vehículo de que se trate.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 143.
 
-Las concesiones que se otorguen para la prestación del servicio público de transporte de personas o de cosas, tendrán una vigencia de un año a partir de la autorización. Podrán renovarse por períodos iguales por acuerdo del Ejecutivo, pero acreditarán haber cubierto el pago anual de la revalidación, de conformidad con lo establecido por la Ley de Ingresos del Estado.
-
-En caso de terminación de la vigencia de la concesión, tendrán preferencia para obtenerla de nuevo los antiguos concesionarios en igualdad de circunstancias.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 144.
 
-Las concesiones para la explotación del servicio público sujeto a itinerarios y honorarios fijos, sean éstas de servicio urbano, urbano colectivo, suburbano o foráneo otorgadas a personas físicas, no podrán exceder de 3; cada concesión autorizará un permiso de ruta y el uso de un vehículo; en los demás casos se observará lo previsto por el artículo 219 de esta Ley.
-
-Con relación a las concesiones que se otorguen a las personas morales, se estará a lo dispuesto por los artículos 145 y 146 de este Ordenamiento Legal. Respecto a los que se otorguen a las entidades jurídicas de interés social con la finalidad de proporcionarles medios económicos, el Titular del Poder Ejecutivo fijará el número de concesiones que se les autoricen y el número de vehículos necesarios para la prestación del servicio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 145.
 
-El número de concesiones en cada ruta estará sujeto a las necesidades del servicio, según estudio socioeconómico y técnico que se realice.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 146.
 
-El Titular del Ejecutivo fijará el número de concesiones que deben autorizarse en cada una de las rutas y determinará el número de vehículos necesarios para prestar, en forma eficiente, el servicio público de transporte.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 147.
 
-Las solicitudes de concesión individual para la explotación del servicio público de transporte se harán por cuadruplicado y contendrán los siguientes datos:
-
-I.- Nombre completo, edad, nacionalidad y domicilio;
-
-II.- Comprobación de su calidad de mexicano, ya sea con copia certificada del acta de nacimiento o en su defecto con el acta de bautismo debidamente cotejada y certificada por Notario Público o la Carta de Naturalización.
-
-III.- Declaración bajo protesta de ser o no titular de otra u otras concesiones de transporte público en el Estado y si lo es en otra Entidad Federativa, expresando la clase de servicio que tiene concesionado;
-
-IV.- Señalar los nombres de los puntos extremos de la ruta que se pretende explotar, con la expresión de los municipios a que pertenezca, así como los puntos intermedios que toque, el recorrido que se desee cubrir con el servicio solicitado, indicando número y características de los vehículos que se pretenden utilizar;
-
-V.- Mención de la clase de servicio que se desee utilizar;
-
-V.- Mención de la clase de servicio que se desee utilizar;
-
-VI.- Situación de los demás requisitos geográficos de que se trata: y
-
-VII.- Anexar planos de la ruta y localización, previstos en la Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 148.
 
-Las solicitudes de concesión para personas morales o entidades jurídicas a que se hace referencia en el artículo 144, en relación con el 146 de la Ley, deberá satisfacer los requisitos señalados en el artículo anterior y los siguientes:
-
-I.- Presentarse por conducto de la sociedad o entidad jurídica;
-
-II.- Acompañar copia certificada del acta de asamblea en que la sociedad o agrupación haya acordado tramitar la solicitud.
-
-III.- Acreditar la existencia legal de la sociedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 149.
 
-El otorgamiento de las concesiones se sujetará a las siguientes disposiciones:
-
-I.- Su expedición se hará en favor de personas físicas o morales de nacionalidad mexicana legalmente constituidas;
-
-II.- Se hará a favor de personas de buena conducta y que no hayan sido condenadas por delito preterintencional o doloso;
-
-III.- En igualdad de circunstancias respecto de otras solicitudes, se preferirá a personas oriundas del Estado o a sociedades constituídas por michoacanos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 150.
 
-Tendrán preferencia para obtener concesiones de servicio público, las personas que hubiesen atendido regularmente el sitio de alquiler, ruta o circuito, en carreteras, caminos o arterias urbanas del Estado, sobre las demás que lo soliciten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 151.
 
-Cuando haya falsedad en los informes o documentos que se anexen a la solicitud, no se otorgará la concesión o se cancelará, sin perjuicio de consignar al responsable a la autoridad competente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 152.
 
-Aceptada la solicitud de concesión, el Gobernador del Estado tomando en cuenta la importancia de la explotación del servicio público a que se hace referencia, a través de la Dirección de Policía y Tránsito ordenará la publicación en el Periódico Oficial del Estado y en uno de los de mayor circulación de la Entidad; además exigirá al interesado un depósito en efectivo hasta de $1,000.00 (Un Mil Pesos 00/100 M.N.), que deberá depositar en la Tesorería General del Estado, como garantía de que continuará los trámites de su solicitud hasta resolución definitiva, el cual será devuelto una vez que concluya el trámite, pero que se perderá a favor del Fisco del Estado, en caso de que por causas imputables al solicitante el trámite permanezca suspendido por más de 3 meses.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 153.
 
-Una persona física no podrá ser titular de concesiones que, en conjunto y bien sea para una misma ruta o una misma clase de servicio o para diferentes rutas y diversas clases de servicio, autoricen el uso de más de tres vehículos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 154.
 
-Cuando dos o más personas pretendan obtener conjuntamente una concesión, deberán asociarse previamente a la solicitud.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 155.
 
-El Ejecutivo del Estado podrá otorgar mediante convocatoria, concesiones de servicio público de transporte, cuando no existiendo solicitud, previa se requiera establecer un servicio, o bien cuando lo estime conveniente para el interés público.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 156.
 
-Para otorgar una concesión de servicio público de transporte, que no se haya solicitado, deberá el Ejecutivo convocar a los interesados, a través de las inserciones que se consideren necesarias en el Periódico Oficial y en uno de los de mayor circulación en la Entidad, especificando el tipo de servicio que se desee, el modelo de vehículo con que se deba explotar el permiso de ruta, así como la ubicación donde se deberá prestar el servicio señalando los puntos que deben tocarse, en su caso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 157.
 
-Para los efectos señalados en el artículo anterior, la Dirección de Policía y Tránsito realizará los estudios socioeconómicos y técnicos que justifiquen el establecimiento del servicio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 158.
 
-Justificada la necesidad del establecimiento del servicio por medio de los correspondientes estudios socioeconómicos y técnicos, se ordenará una búsqueda en la oficina correspondiente de la Dirección de Policía y Tránsito con el objeto de determinar si dicho servicio con las características que se desean no está solicitado, en cuyo caso se seguirá el procedimiento correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 159.
 
-Una vez otorgada la concesión de servicio público en cualquiera de sus modalidades, el concesionario se obligará en un término no mayor de 15 días a presentar ante la Dirección de Policía y Tránsito el o los vehículos de su propiedad necesarios para la prestación del servicio concesionado, los que no deberán tener más de 3 años de uso; asimismo se obligará en un plazo que no excederá de 3 meses a prestar el servicio correspondiente; de no hacerlo, sin causa justificada la concesión se cancelará sin que contra esa resolución proceda recurso alguno.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 160.
 
-Cuando el interés público lo requiera el Ejecutivo podrá autorizar la fusión de varios concesionarios para que se constituyan en sociedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 161.
 
-Cuando en una ruta se requiera aumentar el número de vehículos corresponderá al Ejecutivo del Estado, previo estudio socioeconómico, resolver lo procedente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 162.
 
-Los permisos de ruta contendrán los siguientes datos:
-
-I.- Nombre completo del concesionario o permisionario, propietario del vehículo o vehículos;
-
-II.- Retrato del concesionario o permisionario, tamaño credencial;
-
-III.- Domicilio;
-
-IV.- Número de placas que porte el vehículo;
-
-V.- Marca del vehículo;
-
-VI.- Modelo del vehículo;
-
-VII.- Número del motor;
-
-VIII.- Número de serie en el registro federal de automóviles;
-
-IX.- Servicio a que se destine la unidad;
-
-X.- Capacidad de vehículo en pasajeros si es para este servicio y en toneladas si es para carga, o ambos, en caso de concesión mixta;
-
-XI.- Nombre de la ruta;
-
-XII.- Organización a la que pertenece el concesionario o permisionario, en su caso, expresando la concesión de la cual emana el permiso de ruta; y,
-
-XIII.- Especificación del lugar y fecha en que se expida.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 163.
 
-Los concesionarios de los vehículos autorizados en la expedición del servicio público de transporte, que transiten sin portar el permiso de ruta correspondiente se harán acreedores a las sanciones respectivas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 164.
 
-La Dirección de Policía y Tránsito llevará una relación de las rutas y tramos en que se divida el sistema vial de la Entidad, con expresión de las necesidades satisfechas respecto de cada uno de los servicios establecidos y con indicación del nombre de los concesionarios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 165.
 
-Los concesionarios de cualquiera de los servicios públicos que autoriza la Ley, estarán obligados:
-
-I.- A cumplir con las estipulaciones que para la prestación de los servicios que fije el título concesión respectivo, de acuerdo con la Ley y disposiciones que, por causa de interés público, dicte el Ejecutivo del Estado;
-
-II.- A no cobrar por el transporte de personas o cosas un precio distinto del establecido en las tarifas aprobadas previamente por el Ejecutivo;
-
-III.- A respetar los horarios e itinerarios fijados para la ruta, cuya explotación les haya sido autorizada, debiendo implantar medidas disciplinarias para el personal, operador de los vehículos, a efecto de cumplir con esta obligación;
-
-IV.- A mantener los vehículos destinados al servicio en las condiciones de higiene, capacidad y seguridad viales que fije para cada caso la Dirección de Policía y Tránsito;
-
-V.- A prestar servicios de emergencia cuando así lo requiera el Ejecutivo del Estado, en los casos de catástrofes y calamidades de que sean víctimas regiones y poblaciones situadas dentro de la zona donde los concesionarios presten sus servicios regulares; y,
-
-VI.- A cumplir con las disposiciones que sobre el caso dicte el Ejecutivo del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 166.
 
-Los concesionarios de transporte tendrán la obligación de remitir, semestralmente, a la Tesorería General del Estado, así como a la Dirección de Policía y Tránsito, estadísticas mensuales sobre el número de pasajeros y volumen de carga que movilicen; de no hacerlo, se harán acreedores a la sanción que se establece en el capítulo correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 167.
 
-Los concesionarios de transporte en el Estado, deberán contar con estaciones intermedias y terminales que reúnan los requisitos señalados en esta Ley y su Reglamento.
-
-En relación con el servicio de transporte público de personas, se denominarán estaciones o terminales los lugares en que los autobuses de una ruta inicien y terminen su recorrido; estaciones intermedias, los sitios donde reglamentariamente se detengan los autobuses; y paradas, los permitidos para el ascenso y descenso de pasajeros a lo largo de la ruta.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 168.
 
-En los vehículos del servicio público de transporte de pasajeros, no serán admitidas personas que estensiblemente (sic) padezcan enfermedades infecto-contagiosas, o que estén bajo la influencia de bebidas embriagantes, estupefacientes o substancias que alteren la normalidad de su conducta; ni las que con sus palabras o acciones ofendan al decoro de los pasajeros o alteren el orden.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 169.
 
-Todo concesionario estará obligado a prestar el servicio público de transporte, mediante la correspondiente retribución, de acuerdo con las tarifas aprobadas, con excepción de los casos establecidos por esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 170.
 
-El Ejecutivo del Estado autorizará los lugares o estaciones para los vehículos, en las concesiones del servicio público de transporte en que se preste servicio foráneo, oyendo previamente a los interesados. En los centros de importancia, cuando lo requieran las necesidades del servicio, se establecerán centrales camioneras, terminales y paradas para el ascenso y descenso de pasajeros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 171.
 
-Las personas, que por concesión del Gobierno del Estado exploten el servicio público de transporte, estarán obligadas a asegurar a los pasajeros que utilicen dichos servicios, contra los riesgos por accidentes ocurridos con motivo o a consecuencia del transporte, contratando seguros de cobertura amplia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 172.
 
-La obligación de contratar el seguro del viajero por accidentes, se impondrá a los concesionarios de servicio público de transporte en todo permiso de ruta que haya sido autorizado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 173.
 
-Las personas físicas o morales, que hayan obtenido concesiones y permisos de ruta para la prestación del servicio público de transporte, deberán contratar el seguro del viajero, con instituciones legalmente autorizadas por el Gobierno Federal y de reconocida probidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 174.
 
-El seguro del viajero cubrirá toda lesión orgánica o perturbación funcional, inhabilitación total o parcial, permanente o transitoria, o la muerte causada por medios externos y accidentales que sufran los pasajeros, independientemente de quien resulte responsable del accidente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 175.
 
@@ -1077,125 +977,67 @@ En casos de emergencia, todos los propietarios de vehículos, tanto particulares
 
 ###### ARTICULO 176.
 
-En la concesión, el titular del derecho podrá designar beneficiarios, por su orden, a los hijos menores y esposa, hijos mayores de edad, concubina o persona que dependa económicamente de él. En caso de que los beneficiarios sean menores de edad, éstos jercerán (sic) sus derechos por conducto de su representante legal o de su tutor, en los términos de las leyes civiles. Si se omite la designación de beneficiario, la transferencia de la concesión se hará según lo dispuesto por el Código Civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 177.
 
-Los derechos sobre las concesiones otorgadas por el Gobierno del Estado, no podrán enajenarse, embargarse, arrendarse, hipotecarse o gravarse, total ni parcialmente, salvo el caso de incapacidad física o mental del titular en que la Dirección podrá autorizar el arrendamiento. En consecuencia, se tendrán como nulos de pleno derecho, las operaciones, actos o contratos que se hayan ejecutado en contravención a este precepto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 178.
 
-Los derechos derivados de una concesión para la explotación del servicio público de transporte sólo podrán transmitirse previa autorización expresa del Ejecutivo del Estado, oyendo la opinión de la Dirección de Policía y Tránsito. Además de los anteriores requisitos, se deberán llenar los siguientes:
-
-I.- Comprobar que se está al corriente en el pago de los derechos correspondientes y que se ha cumplido con las obligaciones derivadas de la concesión;
-
-II.- Acreditar que se actúa con el consentimiento expreso de la mayoría de los socios de la sociedad a que pertenezcan, en su caso;
-
-III.- Que el nuevo beneficiario reúna los requisitos que establece esta Ley y su Reglamento para la explotación de la concesión respectiva; y,
-
-IV.- Las demás que la Ley y el Reglamento le señalen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ### CAPITULO II. DE LA SUSPENSION O CANCELACION DE LAS CONCESIONES
 
 ###### ARTICULO 179.
 
-El Ejecutivo del Estado tendrá facultad para cancelar, en cualquier momento, las concesiones y permisos de ruta, entre otras, por las siguientes causas:
-
-I.- Por realizar un servicio distinto al expresamente concesionado; por prestarlo en forma notoriamente deficiente o por carecer los vehículos de los requisitos de seguridad señalados en la presente Ley y su Reglamento.
-
-II.- Por arrendarlos a terceros sin autorización expresa de la Dirección;
-
-III.- Por prestar el servicio fuera de la ruta que expresa la concesión;
-
-IV.- Por suspensión del servicio sin causa justificada ni autorización previa;
-
-V.- Por reincidencia en tercera ocasión, en el incumplimiento de su horario o violación de tarifas autorizadas.
-
-VI.- Por falta de Seguro del Viajero, en los casos de Servicio Público de Pasajeros o Mixto;
-
-VII.- Por la comisión dolosa por parte del concesionario de algún hecho delictuoso, con motivo del servicio que presta;
-
-VIII.- Por falta de liquidación oportuna, dentro de los 60 sesenta días hábiles siguientes a aquel en que sean exigibles los derechos fiscales, correspondientes a la revalidación anual de las concesiones y permisos de ruta;
-
-IX.- Por transportar bebidas alchólicas (sic) sin la autorización correspondiente;
-
-X.- Por transportar sin autorización materiales que requieran permiso especial;
-
-XI.- Por transportar estupefacientes; y
-
-XII.- Por exigirlo así el interés público.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 180.
 
-El Estado oyendo a los concesionarios y permisionarios cuando así lo exija el interés social podrá:
-
-I.- En todo tiempo hacerse cargo definitivamente del servicio público de transporte en una ruta o zona, directamente o a través de empresas descentralizadas, estén o no concesionadas las rutas o zonas en que se vaya a operar;
-
-II.- Provisionalmente en las formas y condiciones previstas en la fracción anterior en los siguientes casos;
-
-a).- Cuando los concesionarios y permisionarios se nieguen a prestar o suspendan el servicio sin causa justificada;
-
-b).- Cuando exista una grave alteración al orden y la paz social que impida u obstaculice seriamente, la normal prestación del servicio público de transporte. La intervención del Estado en este caso, cesará cuando se restablezca el orden y la paz social alterados.
-
-Cuando el Estado se haga cargo provisionalmente del Servicio público de transporte en una ruta o zona, utilizando el equipo de los concesionarios o permisionarios en los términos de este inciso, deberá destinar los ingresos obtenidos por la prestación del servicio, a la operación y mantenimiento del equipo respectivo, a los gastos de administración y el remanente se entregará al concesionario o permisionario.
-
-Cuando el Estado se haga cargo definitivamente de la prestación del servicio público de transporte en una ruta o zona, utilizando el equipo de los concesionarios o permisionarios, deberá indemnizar a éstos tomando en cuenta el costo de la inversión en equipo, el tiempo en que fue explotado el permiso o concesión, realizando a este efecto un estudio socioeconómico y técnico que sirva de base para determinar el monto justo de la indemnización.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 181.
 
-El procedimiento que se debe seguir para decretar la suspensión o cancelación de una concesión y permiso de ruta del servicio público de transporte, es el siguiente:
-
-I.- A todo infractor el agente de la policía y tránsito o inspector de la oficina de transportes, levantará un acta por cuadruplicado en la que se haga constar los hechos que traduzcan cualquier violación a los preceptos respectivos, en presencia de dos testigos.
-
-En dicha acta constarán las declaraciones del infractor, si éste estima pertinente que se hagan constar;
-
-II.- En caso de que el permisionario o concesionario o chofer se niegue a proporcionar los testigos, el inspector o agente de policía y tránsito los nombrará de entre los pasajeros que viajen en la unidad o bien llamando para tal efecto a agentes de policía y tránsito, municipal o judicial;
-
-III.- Se prevendrá al infractor que dispone de un término de quince días para presentar las pruebas y alegar lo que a su derecho convenga en relación con los hechos que se hagan constar en la mencionada acta; dichas pruebas y alegatos deberán presentarse ante la oficina correspondiente de la Dirección de Policía y Tránsito.
-
-El acta, de la que se dejará copia el concesionario o chofer, debe ser firmada por el inspector o agente de la policía y tránsito y el infractor; en caso de que este último se negare a hacerlo se harán constar los motivos que tuvo para la negativa;
-
-IV.- Transcurrido el término, el Ejecutivo dictará resolución definitiva, tomando en cuenta los hechos anotados en el acta de infracción así como los alegatos y pruebas que hubiere rendido el concesionario o permisionario, debiendo citar en la resolución respectiva los preceptos de la ley que hayan sido violados y que funden la suspensión o cancelación de la concesión y permiso de ruta correspondiente y el monto de la multa aplicable, en su caso;
-
-V.- Al notificar la resolución al concesionario o permisionario, se le requerirá para que en un plazo de cinco días cumpla con la resolución y cubra el importe de la multa que le hubiere sido impuesta en su caso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ### CAPITULO III. DE LOS HORARIOS, ITINERARIOS Y TARIFAS
 
 ###### ARTICULO 182.
 
-La autorización por el Ejecutivo del Estado para la implantación de horarios, itinerarios y tarifas, se regirá por las disposiciones de esta Ley y su Reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 183.
 
-El Ejecutivo del Estado autorizará los horarios de ruta, que recabará el concesionario, en los cuales se precisará la hora de salida y llegada respecto a cada uno de los puntos de la misma. Esta disposición será obligatoria para el servicio urbano y suburbano de pasajeros, y para el servicio foráneo de pasaje y mixto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 184.
 
-Las tarifas de las diferentes clases de servicio deberán estar aprobadas por el Ejecutivo del Estado. Se entenderá por tarifa, el precio que se fije por la prestación del servicio autorizado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 185.
 
-Los itinerarios a cumplir por los concesionarios deberán autorizarse por el Ejecutivo del Estado, al otorgar la concesión y permisos de ruta correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 186.
 
-Los itinerarios, horarios y tarifas, aprobados por el Ejecutivo del Estado, no podrán modificarse sin su autorización.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 187.
 
-En la formación y aplicación de las tarifas, horarios e itinerarios, se observará, siempre, igualdad de tratamiento para todos los que se encuentren en igualdad de condiciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 188.
 
-La vigencia de las tarifas, horarios e itinerarios, se definirán de acuerdo con la concesión o permiso de ruta; pero el Ejecutivo del Estado podrá, en cualquier tiempo, modificarlas por razones de interés público, con base en estudios socioeconómicos que acrediten la necesidad de la medida; en tal caso, el derecho de audiencia lo ejercerán los interesados en un plazo que no exceda de tres días hábiles, a partir del momento en que se le notifique la pretensión de hacer las modificaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 189.
 
-No habiendo transporte específico de turismo, el Ejecutivo del Estado, a través de la Dirección de Policía y Tránsito, podrá autorizarlo y fijará las tarifas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 190.
 
-Los concesionarios harán un descuento en tarifas, hasta del 50% a estudiantes e indigentes, cuando lo soliciten así la Dirección de Policía y Tránsito. Los pases expedidos así, en ningún caso exederán (sic) de dos personas en un solo vehículo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 191.
 
@@ -1207,37 +1049,21 @@ El servicio de carga no estará sujeto a itinerarios ni a horario.
 
 ###### ARTICULO 193.
 
-Para la prestación del servicio público de transporte de pasajeros o carga, con vehículos denominados de sitio o taxis, serán aplicables en lo conducente las disposiciones que rigen a otros tipos de servicio público de transporte, regulados por esta Ley y su Reglamento. El lugar de ubicación del sitio para automóviles de alquiler, deberá fijarse al momento de otorgar la concesión y tendrá como máximo la longitud que señale la dirección, la cual también determinará la forma de estacionamiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ### CAPITULO IV. DERECHOS DE LOS USUARIOS DEL SERVICIO PUBLICO DEL TRANSPORTE
 
 ###### ARTICULO 194.
 
-Todo usuario, al cubrir la tarifa autorizada, recibirá en las rutas foráneas, un boleto en el que conste la clase de servicio, su precio del pasaje y el número económico de la unidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 195.
 
-En el texto del boleto se asentará el nombre de la compañía con la que se hubiere contratado el seguro del viajero, y en rutas foráneas se precisarán los derechos del pasajero en caso de accidente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 196.
 
-Los pasajeros tendrán derecho:
-
-I.- A ocupar hasta el término de su viaje, los asientos que les sean asignados, aún cuando los abandonen momentáneamente en las terminales, tratándose de servicio foráneo;
-
-II.- A exigir de los operadores o concesionarios que se cumpla con lo dispuesto por esta Ley;
-
-III.- A ser tratados con decoro y cortesía, y a exigir del conductor los mínimos requisitos de seguridad, de acuerdo con las disposiciones establecidas;
-
-IV.- A conservar en su poder los bultos que, por su volumen o naturaleza, no ocasionen molestias o daños a los demás pasajeros;
-
-V.- A exigir un recibo o contraseña que ampare su equipaje, en rutas foráneas;
-
-VI.- A llevar en vehículos de servicio foráneo, un máximo de veinte kilogramos como equipaje y libre de porte por cada boleto;
-
-VII.- A exigir, en caso de pérdida comprobada, el pago del valor de su equipaje, conforme a las disposiciones de la materia. A elección del usuario, deberá intervenir la autoridad de tránsito que corresponda, en la vía conciliatoria; y
-
-VIII.- A denunciar ante las autoridades de tránsito, las autoridades de tránsito, las violaciones cometidas a las disposiciones de esta Ley o su Reglamento por los operadores de vehículos, que presten un servicio público.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 197.
 
@@ -1247,7 +1073,7 @@ El pasajero que no pueda presentar el recibo que le hubiera sido expedido al ent
 
 ###### ARTICULO 198.
 
-Las unidades destinadas a la prestación del servicio público de transporte, en tanto no satisfagan los requisitos que señalan la presente Ley y su Reglamento, no podrán ser autorizados para prestar dicho servicio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ### CAPITULO VI
 
@@ -1261,13 +1087,13 @@ I.- Vigilar el cumplimiento de horarios, itinerarios y tarifas autorizadas;
 
 II.- Vigilar las condiciones de seguridad, comodidad e higiene, de terminales y de vehículos destinados a la prestación del servicio público de transporte;
 
-III.- Investigar e informar sobre las posibles transacciones respecto de concesiones y permisos de ruta;
+III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
-IV.- Realizar las actividades necesarias para el control, cumplimiento y mejoramiento en la prestación de todo tipo de servicio;
+IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 V.- Levantar las actas de infracción, haciendo constar las violaciones que, en materia de transportes de servicio publico. se hayan cometido; y
 
-VI.- Realizar los estudios socioeconómicos exigibles en materia de transportes.
+VI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982
 
 ### CAPITULO VII. DEL TRANSPORTE DE BEBIDAS ALCOHOLICAS
 
@@ -1291,7 +1117,7 @@ II.- El transporte de líquidos o gases, en vehículos especiales;
 
 III.- El transporte de personas en vehículos por empresas fúnebres, en el desempeño de sus actividades;
 
-IV.- El transporte de vehículos por unidades dotadas de grúa;
+IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 V.- El transporte de productos o artículos propios o conexos a las actividades agrícolas, minera e industrial.
 
@@ -1307,87 +1133,77 @@ Los agricultores, mineros, empresas constructoras, comerciales e industriales, d
 
 ###### ARTICULO 205.
 
-En la prestación del servicio de transporte para el turismo, se requerirá la concesión de servicio público de transporte correspondiente.
-
-Para obtener la concesión en la prestación del servicio exclusivo de turismo, se observarán los mismos requisitos establecidos para las demás clases de servicio público.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 206.
 
-El servicio de transporte de turismo, sólo se prestará a lugares catalogados como ce interés histórico o turístico.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 207.
 
-El personal, operadores y ayudantes en la prestación de este servicio, además de los requisitos establecidos por esta Ley, deberán satisfacer lo que al efecto señal (sic) la Dirección de Policía y Tránsito. Cuando por exceso de demanda, el servicio exclusivo de turismo resulte insuficiente, o cuando no lo hubiere en determinados puntos que lo ameriten, el Ejecutivo del Estado podrá autorizar a los concesionarios de otros servicios que dispongan del equipo adecuado, para que lo realicen de acuerdo con las condiciones que, en cada caso, establezca la Dirección de Policía y Tránsito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ### CAPITULO X. DE LOS AUTOMOVILES DE ALQUILER
 
 ###### ARTICULO 208.
 
-Se considerará de alquiler, el automóvil de pasajeros que se ofrezca en servicio público, sujeto a tarifas autorizadas y sin ruta fija.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 209.
 
-Los automóviles de alquiler deberán llevar inscrito, en lugar visible, el número económico que les sea asignado por la Dirección de Policía y Tránsito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 210.
 
-También deberán llevar inscritos, en lugar visible, la denominación del sitio a que pertenecen y el nombre de la población en que prestan su servicio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 211.
 
-Los automóviles de alquiler deberán ser pintados con colores, que para su fácil identificación, determine la Dirección de Policía y Tránsito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 212.
 
-Los vehículos particulares no usarán los colores autorizados para los automóviles de alquiler; la inobservancia a esta disposición será motivo de sanción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 213.
 
-Los automóviles de alquiler deberán llevar en lugar visible, las tarifas autorizadas por la Dirección.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 214.
 
-El concesionario conservará el automóvil de alquiler en buen estado electromecánico, de presentación y aseo; será responsable, además, de la higiénica y correcta presentación del operador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 215.
 
-Todo operador de un automóvil de alquiler, tratará con comedimiento a las personas que utilicen sus servicios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 216.
 
-El pasajero podrá indicar al operador del autom6vil (sic) de alquiler, que circule a velocidad reglamentaria.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 217.
 
-El operador de todo automóvil de alquiler en servicio, deberá traer moneda fraccionaria suficiente, para dar el cambio correcto a los pasajeros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 218.
 
-Será motivo de la suspensión temporal de la concesión de automóviles de alquiler, entre otros:
-
-I.- La alteración de la tarifa autorizada;
-
-II.- La realización de un servicio fuera de su jurisdicción; y
-
-III.- El mal trato a los pasajeros.
-
-En los supuestos anteriores, tratándose de operadores asalariados, también se les suspenderá la licencia para manejar, por el tiempo que determine esta Ley y su Reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 219.
 
-Ningún ciudadano podrá explotar, por sí o por interpósita persona, más de un vehículo de servicio público sin itinerario fijo. En caso de que algún concesionario violare esta disposición, mediante comprobación fehaciente del hecho, le serán cancelados definitivamente todas la concesiones que se le hayan otorgado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 220.
 
-Todo automóvil de alquiler deberá estar protegido por un seguro, que ampare a los ocupantes del mismo, así como los daños a terceros. La falta de seguro ocasionará la cancelación de la concesión.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 221.
 
-El titular de la concesión y el operador, estarán obligados a entregar en la Dirección de Policía y Tránsito los objetos olvidados en el vehículo por los pasajeros, para que éstos puedan gestionar su devolución.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 222.
 
-No se podrá prestar cualquier servicio público, en ninguna de sus modalidades sin la concesión correspondiente. Los que lo hagan, serán sancionados en los términos de esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ## TITULO SEXTO. DE LAS SANCIONES
 
@@ -1395,23 +1211,23 @@ No se podrá prestar cualquier servicio público, en ninguna de sus modalidades 
 
 ###### ARTICULO 223.
 
-Las violaciones a lo dispuesto a los artículos de esta Ley, relativas a la explotación del servicio público de transportes, se sancionará con multa, suspensión o cancelación de la concesión y de los permisos de ruta correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 224.
 
-La violación, por parte de los concesionarios de servicio público y transporte de pasajeros; de horarios y tarifas autorizadas, se sancionará con multa de mil a cinco mil pesos. Podrá suspenderse el uso de los permisos de ruta, hasta en tanto se cubra el importe de la infracción cometida.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 225.
 
-Los propietarios de vehículos particulares que, sin autorización, realicen el servicio público de transporte, serán sancionados con multa de quinientos a cinco mil pesos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 226.
 
-Quienes sin concesión exploten regularmente vías estatales de comunicación, serán sancionados con multa de mil a dos mil pesos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 227.
 
-Los reincidentes, en lo previsto por los artículos anteriores, podrán ser consignados a las autoridades competentes, y sus vehículos suspendidos en su registro para circular, hasta por tres meses.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ###### ARTICULO 228.
 
@@ -1419,7 +1235,7 @@ Las faltas en que incurran los operarios y demás empleados que laboren en vehí
 
 ###### ARTICULO 229.
 
-Los concesionarios del servicio público de transporte, que no cumplan con lo dispuesto por el artículo 166 se harán acreedores a una multa de quinientos a mil pesos, que se duplicará en caso de reincidencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN, P.O. 19 DE JULIO DE 1982)
 
 ### CAPITULO II. SANCIONES EN GENERAL
 
@@ -1518,3 +1334,11 @@ El Ejecutivo del Estado dispondrá se publique y observe.
 PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán, a 14 de marzo de 1978.- DIPUTADO PRESIDENTE.- Lorenzo Escobar Béjar.- DIPUTADO SECRETARIO.- Lic. Jorge Mendoza Alvarez.- DIPUTADO SECRETARIO.- Javier Sánchez Degollado. (Firmados).
 
 Por tanto, mando se publique y observe.- PALACIO DEL PODER EJECUTIVO.- Morelia, Michoacán, 17 de marzo de 1978.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Lic. Carlos Torres Manzo.- EL SECRETARIO GENERAL DE GOBIERNO.- Lic. Ausencio Chávez Hernández.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 1982
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+SEGUNDO. Se derogan los artículos 6 en sus fracciones I, II y III, 7 a 10 en su fracción X, 126 a 149, 150 a 174, 176 a 190, 192 a 196, 198, 199 en sus fracciones III, IV, y VI, 202 en su fracción IV, 205 a 227 y 229 de la Ley de Policía y Tránsito.
