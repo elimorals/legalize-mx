@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-comision-estatal-de-los-derechos-humanos-antes-11881"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-26"
-last_updated: "2002-11-27"
+last_updated: "2003-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2003.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de septiembre de 1992.
 
@@ -54,6 +54,10 @@ LA COMISION ESTATAL DE DERECHOS HUMANOS ES UN ORGANISMO DESCENTRALIZADO CON PERS
 ###### ARTICULO 3o.
 
 LA COMISION ESTATAL DE DERECHOS HUMANOS TENDRA COMPETENCIA PARA CONOCER DE QUEJAS RELACIONADAS CON PRESUNTAS VIOLACIONES A LOS DERECHOS HUMANOS CUANDO ESTAS FUEREN IMPUTADAS A AUTORIDADES Y SERVIDORES PUBLICOS DE CARACTER ESTATAL Y MUNICIPAL, SALVO LO DISPUESTO POR EL ARTICULO 60 DE LA LEY DE LA COMISION NACIONAL DE DERECHOS HUMANOS.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2003)</small>
+
+PARA EFECTOS DE ESTA LEY SE ENTENDERA COMO VIOLACION DE LOS DERECHOS HUMANOS, EL PERJUICIO O LESION DE LOS DERECHOS FUNDAMENTALES DE LAS PERSONAS, DERIVADO DE LOS ACTOS U OMISIONES PROVENIENTES DE SERVIDORES PUBLICOS, QUE CONOCIENDO DE UN ASUNTO DE SU COMPETENCIA, NO PROCEDAN CONFORME A LAS DISPOSICIONES QUE SEÑALAN LAS LEYES EN LA MATERIA O ACTUEN FUERA DE ELLA.
 
 ###### ARTICULO 4o.
 
@@ -556,3 +560,7 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2003.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
