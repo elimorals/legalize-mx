@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-banco-del-bienestar-antes-ley-organica-del-213
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-06-01"
-last_updated: "2001-06-01"
+last_updated: "2002-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21311&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-30"
 
 LEY ORGANICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 1 de junio de 2001.
 
@@ -75,7 +75,7 @@ Las operaciones y servicios de la Institución, se regirán por lo dispuesto en 
 
 La Secretaría interpretará a efectos administrativos la presente Ley.
 
-### CAPÍTULO III. Capital Social
+### CAPÍTULO II. Objetivos y operaciones
 
 ###### Artículo 7.
 
@@ -127,6 +127,14 @@ VIII. Realizar sorteos conforme a las reglas generales de operación que autoric
 
 IX. Realizar las demás operaciones y servicios de naturaleza análoga o conexa que autorice y regule la Secretaría.
 
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Artículo 8 bis.- La institución podrá ser depositaria de los títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas, o judiciales de la Federación y por o ante las autoridades administrativas del Distrito Federal, así como de las sumas en efectivo, títulos o valores, que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas del Distrito Federal.
+
+Las autoridades mencionadas estarán obligadas a entregar a la institución dichos bienes en su indicado carácter de depositaria.
+
+También podrán realizar en la institución, los depósitos para el otorgamiento de la suspensión del acto reclamado en el juicio de amparo y, en general, los depósitos de garantía que deban constituirse conforme a las disposiciones de las leyes federales, y en su caso, del Distrito Federal o por órdenes o contratos de autoridades de la Federación, y en su caso, del Distrito Federal.
+
 ###### Artículo 9.
 
 La Secretaría, como excepción a lo dispuesto por los artículos 48 de la Ley de Instituciones de Crédito y 26 de la Ley del Banco de México, determinará mediante disposiciones de carácter general las características de las operaciones activas, pasivas que no impliquen captación de recursos del público y de servicios, excepto lo relativo a fideicomisos, mandatos y comisiones, que realice la Institución para cumplir el objetivo y ejercer las facultades que se le han encomendado en su carácter de banca de desarrollo en esta Ley.
@@ -145,7 +153,7 @@ II. De las operaciones concertadas por la Institución con instituciones del ext
 
 En adición a lo dispuesto en el penúltimo párrafo del artículo 383 de la Ley General de Títulos y Operaciones de Crédito, y como excepción a lo dispuesto en el inciso a) de la fracción XIX del artículo 106 de la Ley de Instituciones de Crédito, en los contratos de fideicomiso que celebre la Institución, inclusive en aquellos que constituya para cumplir obligaciones laborales a su cargo, ésta podrá actuar en el mismo negocio como fiduciaria y como fideicomisaria y realizar operaciones con la propia Institución en el cumplimiento de fideicomisos.
 
-### CAPÍTULO II. Objetivos y operaciones
+### CAPÍTULO III. Capital Social
 
 ###### Artículo 12.
 
@@ -189,7 +197,9 @@ En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de 
 
 II. Dos consejeros propietarios de la serie "B" designados en asamblea por las personas físicas o morales mexicanas tenedoras de los certificados de aportación patrimonial de esta serie y por el Ejecutivo Federal, a través de la Secretaría, para el caso de que el Gobierno Federal suscriba certificados de esta serie. Los consejeros de la serie "B" no tendrán suplentes, y
 
-III. Dos consejeros independientes, designados de común acuerdo por los consejeros propietarios de las series "A" y "B". Los nombramientos de consejeros independientes deberán recaer en personas que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos.
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+III. Dos consejeros independientes designados de común acuerdo por los consejeros propietarios de las series "A" y "B". Los nombramientos de consejeros independientes deberán recaer en personas de nacionalidad mexicana que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos.
 
 Los consejeros independientes no tendrán suplentes y deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio, y en caso contrario, podrán ser designados otros con las mismas características en su lugar, siempre que las ausencias no se justifiquen en opinión del Consejo Directivo.
 
@@ -215,7 +225,9 @@ La documentación e información relacionada con los temas a tratar en las corre
 
 En ningún caso podrán ser consejeros:
 
-I. Las personas que se encuentren en los supuestos señalados en el artículo 23 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+I. Las personas que se encuentren en los supuestos señalados en el penúltimo párrafo del artículo 41 de la Ley de Instituciones de Crédito;
 
 II. Las personas que ocupen un puesto de elección popular o de dirigencia partidista, mientras se encuentren en el ejercicio del mismo, y
 
@@ -233,9 +245,11 @@ c) Las personas que tengan conflicto de intereses con la Institución por ser cl
 
 d) Las personas que tengan un vínculo laboral o la representación de asociaciones, gremios, federaciones, confederaciones de trabajadores, patrones, o de los Organismos de Integración y Entidades del Sector, o sean miembros de sus órganos directivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 ###### Artículo 20.
 
-Son causas de remoción de los consejeros de la serie "B", de los consejeros independientes y del Director General:
+Son causas de remoción de los consejeros de la serie "B" y de los consejeros independientes:
 
 I. La incapacidad mental, así como la incapacidad física que impida el correcto ejercicio de sus funciones durante más de seis meses;
 
@@ -244,6 +258,10 @@ II. No cumplir los acuerdos del Consejo Directivo o actuar deliberadamente en ex
 III. Utilizar, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, así como divulgar la mencionada información sin la autorización del Consejo Directivo, y
 
 IV. Someter a sabiendas, a la consideración del Consejo Directivo información falsa.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Además de las causas de remoción señaladas en este precepto, a los consejeros de la serie "A" y al Director General, se les removerá de su cargo cuando se determine su responsabilidad mediante resolución definitiva dictada por autoridad competente, por ubicarse en alguno de los supuestos contenidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
 ###### Artículo 21.
 
@@ -263,31 +281,41 @@ III. Autorizar la adquisición y uso de tecnología a que se refiere la fracció
 
 IV. Aprobar los demás programas específicos y reglamentos internos de la Institución que le presente el Director General;
 
-V. Expedir con sujeción a los criterios de carácter general señalados en el artículo 134 constitucional las bases, procedimientos, reglas, requisitos, políticas, lineamientos y las normas conforme a las cuales la Institución deba contratar las adquisiciones, enajenaciones de bienes, arrendamientos, realización de obra inmobiliaria y prestaciones de servicios de cualquier naturaleza, que acreditarán la economía, eficacia, imparcialidad y honradez, que aseguren las mejores condiciones para la Institución, cuando las licitaciones públicas no sean idóneas para asegurar dichas condiciones;
+V. (DEROGADO, D.O.F. 24 DE JUNIO DE 2002)
 
 VI. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Institución, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría;
 
-VII. Aprobar los tabuladores e incrementos de sueldos, pensiones o jubilaciones y demás prestaciones de carácter económico y de seguridad social que corresponda previa opinión y recomendación que en su caso emita el comité de sueldos y prestaciones, y
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+VII. Aprobar, a propuesta del director general, la estructura orgánica, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la institución, previa opinión y recomendación que en su caso emita el comité de recursos humanos y desarrollo institucional, y
 
 VIII. Las demás que prevea el Reglamento Orgánico de la Institución, así como aquellas que señalen otras leyes, reglamentos, decretos, acuerdos y disposiciones administrativas aplicables.
 
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 ###### Artículo 23.
 
-La Institución tendrá un comité de sueldos y prestaciones, que estará integrado de la siguiente forma:
+La institución tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma:
 
-Dos representantes de la Subsecretaría de Hacienda y Crédito Público;
+Dos representantes de la Secretaría de Hacienda y Crédito Público: el Subsecretario de Egresos y el Subsecretario de Hacienda y Crédito Público;
 
-Un representante del Banco de México;
+Una persona que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos;
 
-Un miembro del consejo directivo que tenga el carácter de independiente y el Director General, y
+Un representante de la Secretaría de Contraloría y Desarrollo Administrativo que será el Subsecretario de Desarrollo y Simplificación Administrativa;
+
+Un miembro del Consejo Directivo que tenga el carácter de independiente;
+
+El Director General de la Institución, y
 
 Un representante de la Comisión Nacional Bancaria y de Valores con voz, pero sin voto.
 
-El comité contará con un secretario técnico de la institución con voz y sin voto.
+El Director General de la Institución se abstendrá de participar en las sesiones del Comité, que tengan por objeto emitir opiniones o recomendaciones con respecto a su sueldo, prestaciones económicas y de seguridad social.
 
-Este comité opinará y propondrá en términos de las condiciones generales de trabajo, el pago, modificación, tabulación o incremento de sueldos, salarios, pensiones, jubilaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren para la Institución. El Director General se abstendrá de participar en las sesiones del comité que tengan por objeto emitir opiniones o recomendaciones con respecto a sus prestaciones económicas y de seguridad social.
+Este Comité opinará y propondrá en términos de las condiciones generales de trabajo, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la institución.
 
-Este comité sesionará a petición del director general de la Institución, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión.
+Este Comité sesionará a petición del Director General de la Institución, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión. De entre los miembros del Comité se designará a un presidente y sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero sin voto.
+
+Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de director general.
 
 ###### Artículo 24.
 
@@ -349,11 +377,15 @@ Los depósitos que se entreguen a la Institución, se documentarán en los recib
 
 Cuando se cumplan los requisitos especificados en el contrato respectivo, para la emisión del estado de cuenta autorizado de las cantidades depositadas y retiradas, los asientos que figuren en la contabilidad de la Institución, harán fe, salvo prueba en contrario, en el juicio respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 ###### Artículo 32.
 
-La Institución formulará anualmente sus programas operativos y financieros, así como las estimaciones de ingresos, de acuerdo a los lineamientos, medidas y mecanismos que al efecto establezca la Secretaría.
+La institución formulará anualmente sus programas financieros, presupuestos generales de gastos e inversiones, así como sus programas operativos, de acuerdo a los lineamientos, medidas y mecanismos que al efecto establezca la Secretaría.
 
-A la Secretaría compete coordinar, evaluar y vigilar la actuación de la Institución en los términos del artículo 31 de la Ley de Instituciones de Crédito.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+A la Secretaría compete coordinar, evaluar y vigilar la actuación de la institución, así como autorizar las modalidades en la asignación de recursos, en los términos del artículo 31 de la Ley de Instituciones de Crédito.
 
 La Institución, en el marco de la autonomía de gestión requerida para su eficaz funcionamiento, de conformidad con las disposiciones legales aplicables, procurará el mejor aprovechamiento y la canalización más adecuada de sus recursos.
 
@@ -386,6 +418,10 @@ III. Las operaciones que correspondan a prestaciones de carácter laboral otorga
 IV. Las operaciones realizadas con el gobierno federal, las entidades paraestatales, las entidades federativas y los municipios;
 
 V. Los financiamientos a proyectos de infraestructura, capacitación, tecnología, o cualquier otro servicio requerido por las Entidades de Ahorro y Crédito Popular o los Organismos de Integración regulados por la Ley de Ahorro y Crédito Popular;
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Los financiamientos a que se refiere esta fracción, se podrán otorgar a los intermediarios financieros antes referidos, siempre y cuando se trate de proyectos relacionados a su objeto en forma mayoritaria.
 
 VI. Los financiamientos conjuntos a que se refiere la fracción VII del artículo 7 de esta Ley, y
 
@@ -462,3 +498,43 @@ Artículo Octavo.- Para los efectos del artículo 27 de esta Ley, en tanto no se
 México, D.F., a 30 de abril de 2001.- Dip. Ricardo García Cervantes, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Manuel Medellín Milán, Secretario.- Sen. Yolanda González Hernández, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE JUNIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Hacienda y Crédito Público dará a conocer las reglas para determinar las cuotas a que se refiere el artículo 55 bis de la Ley de Instituciones de Crédito, así como el régimen de inversión de los fideicomisos, que deberán constituir las instituciones de banca de desarrollo dentro de los siguientes noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las instituciones de banca de desarrollo, se sujetarán a las Condiciones Generales de Trabajo vigentes, hasta en tanto no se emitan las nuevas y éstas entren en vigor.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a las leyes que se reforman, adicionan y derogan en el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+Los procedimientos que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, conforme a las leyes que se reforman, adicionan y derogan continuarán rigiéndose por las disposiciones vigentes en la fecha de publicación de este Decreto.
+
+###### ARTICULO SEXTO.
+
+El comité de planeación de recursos humanos y desarrollo institucional, deberá integrarse y entrar en funciones en un plazo no mayor de noventa días naturales contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+El comité de administración integral de riesgos deberá integrarse y entrará en funciones dentro de los 60 días hábiles siguientes a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTICULO OCTAVO.
+
+Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas o judiciales de la Federación o por o ante las autoridades administrativas del Distrito Federal, así como las sumas en efectivo, títulos o valores que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas del Distrito Federal, se constituyan en Nacional Financiera, Sociedad Nacional de Crédito, deberá entenderse que los mismos podrán constituirse en las sociedades nacionales de crédito, instituciones de banca de desarrollo que estén autorizadas por ley para tal efecto.
+
+###### ARTICULO NOVENO.
+
+Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto.
