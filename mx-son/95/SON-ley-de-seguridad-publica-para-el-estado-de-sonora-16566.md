@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-16566"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-30"
-last_updated: "1996-12-30"
+last_updated: "2003-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2003.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1996.
 
@@ -173,7 +173,9 @@ XII.- El Representante de la Secretaría de Gobernación en el Estado;
 
 XIII.- El Comandante de Región de la Policía Federal de Caminos;
 
-XIV.- Los Presidentes de los municipios que sean cabecera de Distrito judicial; y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+XIV.- Los presidentes municipales de cada uno de los municipios del Estado, y
 
 XV.- El Secretario Ejecutivo del Consejo Estatal.
 
@@ -221,7 +223,9 @@ El Consejo Estatal impulsará las acciones necesarias para que las autoridades d
 
 El Consejo Estatal promoverá que tanto el Estado, como los municipios, establezcan un servicio de comunicación que reciba los reportes de la comunidad sobre las emergencias, faltas y delitos de que tenga conocimiento, así como las quejas contra los encargados de la seguridad pública, los cuales se canalizarán de acuerdo a la normatividad que corresponda.
 
-El servicio aludido en el párrafo anterior tendrá comunicación directa con las instituciones de seguridad pública, salud, protección civil y las demás asistenciales, públicas y privadas.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
+El servicio aludido en el párrafo anterior tendrá comunicación directa con las instituciones de seguridad pública, salud, protección civil, la Secretaría de la Contraloría General del Estado de Sonora, el Órgano de Control y Evaluación Gubernamental correspondiente y las demás instituciones asistenciales, públicas y privadas.
 
 ###### ARTICULO 19.
 
@@ -287,17 +291,41 @@ X.- Todas las demás que le confieran esta ley, los reglamentos, convenios, acue
 
 #### SECCION SEGUNDA. DE LOS CONSEJOS MUNICIPALES E INTERMUNICIPALES
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 23.
 
-En el Estado se establecerán Consejos Municipales, encargados de la coordinación, planeación y supervisión del Sistema de Seguridad Pública en sus respectivos ámbitos de gobierno, en cada uno de los municipios que operen como cabeceras de distrito judicial.
+En cada uno de los municipios del Estado se establecerán Consejos Municipales encargados de la coordinación, planeación y supervisión del Sistema de Seguridad Pública en sus respectivos ámbitos de gobiernos.
 
-También podrán constituirse Consejos Municipales en los demás municipios, cuando así lo exija la seguridad pública, y lo soliciten los Ayuntamientos respectivos al Consejo Estatal.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 24.
 
-Los Consejos Municipales serán presididos por el Presidente Municipal o el Secretario del Ayuntamiento, en suplencia del primero, y estarán integrados por el Agente del Ministerio Público de más antigüedad en el puesto, en su caso, el Jefe de Grupo de la Base de la Policía Judicial, el Delegado del Consejo Tutelar para Menores y el Director del Centro de Readaptación Social, radicados en el municipio respectivo, así como el Jefe de la Policía Preventiva y de Tránsito en el Ayuntamiento correspondiente, el Comandante del resguardo militar, el Comandante de la Policía Judicial Federal y el Comandante de la Policía Federal de Caminos, en la plaza, además de un Secretario Ejecutivo, designado por el Presidente del Consejo Municipal y, en su caso, el Delegado Regional de la Procuraduría General de Justicia del Estado.
+Los Consejos Municipales estarán integrados por:
 
-El titular o titulares de los Juzgados Penal o Mixto, así como el Diputado representante del Distrito en que se ubique el Consejo Municipal, y los Magistrados de los Tribunales Regionales de Circuito Locales, podrán ser invitados a las reuniones del Consejo Municipal, sin perjuicio de convocar a otros invitados a reuniones específicas.
+I.- El Presidente Municipal, quien lo presidirá, o el Secretario del Ayuntamiento en ausencia de aquél.
+
+II.- El Jefe de la Policía Preventiva en el Ayuntamiento correspondiente;
+
+III.- El comandante de unidad o miembro con mayor grado de la corporación policiaca municipal, debiendo recaer la designación que efectúe el Presidente Municipal en alguno de los oficiales de policía que formen parte de la Junta de Honor y Selección en el Municipio de que se trate;
+
+IV.- El regidor que presida la Comisión de Seguridad Pública en el Ayuntamiento;
+
+V.- El Agente del Ministerio Público de más antigüedad en el puesto, en su caso, el Jefe de Grupo de la Base de la Policía Judicial;
+
+VI.- El Delegado del Consejo Tutelar para Menores;
+
+VII.- El Director del Centro de Readaptación Social, radicado en el Municipio respectivo;
+
+VIII.- El Comandante del resguardo militar;
+
+XI.- Un representante de la Agencia Federal de Investigaciones, en la plaza;
+
+X.- Un representante de la Policía Federal Preventiva, en la plaza;
+
+XI.- El Secretario Ejecutivo, designado por el Presidente del Consejo Municipal y, en su caso, el Delegado Regional de la Procuraduría General de Justicia del Estado.
+
+El titular o titulares de los juzgados Penal o Mixto, así como el Diputado Propietario representante del distrito electoral en que se ubique el Consejo Municipal y los Magistrados de los Tribunales Regionales de Circuito Locales, podrán ser invitados a las reuniones del Consejo Municipal, sin perjuicio de convocar a otros invitados a reuniones especificas.
 
 ###### ARTICULO 25.
 
@@ -377,7 +405,9 @@ Se consideran miembros de dichas instituciones, a los servidores del Estado o lo
 
 El Registro Estatal del Personal de Seguridad Pública contendrá, por lo menos:
 
-I.- Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes laborales, así como su trayectoria en los servicios de seguridad pública;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+I.- Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes laborales, así como su trayectoria en el ejercicio de la función de Seguridad Pública;
 
 II.- Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público; y
 
@@ -437,9 +467,11 @@ El reglamento señalará los instrumentos de acopio de datos que permitan analiz
 
 Las normas generales para la recepción de la información serán establecidas de conformidad con la Ley de Información Estadística y Geográfica.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 50.
 
-La estadística de seguridad pública sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, sistemas de prisión preventiva, de ejecución de sentencias y de tratamiento de menores e inimputables por defecto mental, así como de los factores asociados al delito y a las conductas antisociales que afectan la seguridad pública.
+La estadística de seguridad pública sistematizará los datos y cifras relevantes sobre funciones de seguridad pública, policía preventiva, procuración y administración de justicia, sistemas de prisión preventiva, de ejecución de sentencias y de tratamiento de menores e inimputables por defecto mental, así como de los factores asociados al delito y a las conductas antisociales que afectan la seguridad pública.
 
 #### SECCION CUARTA. DE LA INFORMACION PARA LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
@@ -495,119 +527,181 @@ No se proporcionará al público la información que ponga en riesgo la segurida
 
 Cualquier interesado que estime falsa o errónea alguna información, podrá solicitar la investigación correspondiente con el objeto de que, en su caso, se anote la corrección que proceda conforme al procedimiento que establezca el reglamento.
 
-# LIBRO SEGUNDO. DE LA PRESTACION DEL SERVICIO DE SEGURIDAD PUBLICA MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
 
-## TITULO UNICO. DE LA PRESTACION DEL SERVICIO DE SEGURIDAD PUBLICA MUNICIPAL
+# LIBRO SEGUNDO. DEL EJERCICIO DE LA FUNCION DE SEGURIDAD PUBLICA MUNICIPAL
 
-### CAPITULO I. DE LA PRESTACION EN CONCURSO, POR LOS MUNICIPIOS Y EL ESTADO, DEL SERVICIO DE SEGURIDAD PUBLICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
+
+## TITULO UNICO. DEL EJERCICIO DE LA FUNCION DE SEGURIDAD PUBLICA MUNICIPAL
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
+
+### CAPITULO I. DEL EJERCICIO DE LA FUNCION DE SEGURIDAD PUBLICA
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 58.
 
-En los términos de este ordenamiento y de sus disposiciones reglamentarias, corresponde a los municipios, con el concurso del Estado, la eficaz prestación en sus respectivas jurisdicciones, del servicio de seguridad pública, sin perjuicio de la coordinación que en el marco de los sistemas nacional y estatal de seguridad pública, se dé entre los tres niveles de gobierno.
+Corresponde a los municipios, en sus respectivas jurisdicciones, el ejercicio de la función de seguridad pública, sin perjuicio de la coordinación que en el marco de los sistemas nacional y estatal de seguridad pública se de entre los tres niveles de gobierno.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 59.
 
-El servicio de seguridad pública municipal, deberá prestarse en forma contínua y uniforme y tendrá como objetivos:
+El ejercicio de la función de seguridad pública municipal tendrá como objetivos:
 
 I.- Asegurar, mantener o restablecer, el orden y la tranquilidad públicos, protegiendo los intereses de la sociedad; y
 
-II.- Prevenir la comisión de delitos y de las faltas de policía y buen gobierno, así como reprimir, mediante la aplicación de las sanciones administrativas que corresponda, la comisión de estas últimas.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+II.- Prevenir la comisión de delitos y de faltas al Bando de Policía y Gobierno, así como combatir, mediante la aplicación de las sanciones administrativas que correspondan, la comisión de éstas últimas.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 60.
 
-El servicio de seguridad pública, con las excepciones que señalen las leyes, será prestado en forma gratuita a todos los habitantes del Estado, sin incurrir en distinciones o en el otorgamiento de prerrogativas.
+La función de seguridad pública, con las excepciones que señalen las leyes, será prestada en forma gratuita a todos los habitantes del Estado, sin incurrir en distinciones o en el otorgamiento de prerrogativas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 61.
 
-En la prestación del servicio de seguridad pública compete al Gobernador del Estado:
+En el ejercicio de la función de seguridad pública compete al Gobernador del Estado:
 
 I.- Establecer, en el Plan Estatal de Desarrollo y en el programa respectivo, las orientaciones, los lineamientos y las políticas que correspondan en materia de seguridad pública;
 
 II.- Ejercer, en los términos de la presente ley, las atribuciones que le confiere la fracción XX del artículo 79, de la Constitución Política del Estado de Sonora;
 
-III.- Evaluar la prestación del servicio de seguridad pública, a efecto de determinar si la misma se lleva a cabo conforme a las orientaciones, a los lineamientos y a las políticas establecidas en los Planes de Desarrollo Estatal y Municipales, así como en los programas relativos;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
-IV.- Asumir temporalmente, previa resolución del Congreso del Estado y bajo las condiciones y términos que éste determine, la prestación en forma exclusiva del servicio de seguridad pública, en los casos de perturbaciones graves del orden y de la tranquilidad públicos;
+III.- Evaluar la función de seguridad pública, a efecto de determinar si la misma se lleva a cabo conforme a las orientaciones, a los lineamientos y a las políticas establecidas en el Plan Estatal de Desarrollo, así como en los programas derivados de éste;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+IV.- En los términos de las Constituciones Federal y Local, ejercer el mando supremo de las fuerzas del Estado y movilizarlas según las necesidades públicas; así como transmitir a la policía preventiva municipal las órdenes necesarias en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público;
 
 V.- Presidir el Consejo Estatal y realizar las funciones que le otorga esta ley; y
 
-VI.- Los demás que señalen los ordenamientos jurídicos aplicables
+VI.- Los demás que señalen los ordenamientos jurídicos aplicables.
 
 ###### ARTICULO 62.
 
-El Gobernador del Estado, en los términos de las Constituciones Nacional y Local, así como del presente ordenamiento, ejercerá el mando supremo de las policías preventivas municipales, para movilizarlas de acuerdo con las necesidades y requerimientos públicos. Asimismo, dispondrá de la policía preventiva del municipio donde residiere habitual o transitoriamente.
+(DEROGADO, P.O. 2 DE MAYO DE 2003)
 
 ###### ARTICULO 63.
 
-El Gobernador del Estado, tendrá la facultad de nombrar, con sujeción a la presente ley, al Jefe y al Subjefe de la Policía Preventiva y Tránsito de la capital del Estado, así como la de removerlos libremente.
+(DEROGADO, P.O. 2 DE MAYO DE 2003)
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 64.
 
-Los Presidentes Municipales de cada Ayuntamiento serán los jefes inmediatos de las Policías Preventivas Municipales, sin perjuicio de lo establecido en la fracción XX del artículo 79 de la Constitución Local.
+Las policías preventivas municipales estarán bajo el mando de los presidentes municipales de cada Ayuntamiento, sin perjuicio de lo establecido en la fracción XX del artículo 79 de la Constitución Local.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 65.
 
-Corresponde a los Ayuntamientos de los municipios del Estado, en la prestación del servicio de seguridad pública:
+Corresponde a los ayuntamientos de los municipios del Estado, en el ejercicio de la función de seguridad pública:
 
-I.- Establecer, en sus Planes Municipales de Desarrollo y en los programas relativos, en congruencia con lo que se haya definido en los ámbitos estatal y nacional, las estrategias y las prioridades para alcanzar, dentro de sus respectivas jurisdicciones, los objetivos del servicio de seguridad pública;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
-II.- Organizar y prestar, con sujeción a este ordenamiento y a sus disposiciones reglamentarias, el servicio de seguridad pública;
+I.- Establecer, en sus Planes Municipales de Desarrollo y en los programas relativos, en congruencia con lo que se haya definido en los ámbitos estatal y nacional, las estrategias y las prioridades para alcanzar, dentro de sus respectivas jurisdicciones, los objetivos de la función de seguridad pública;
 
-III.- Emitir, conforme a las bases normativas establecidas en la presente ley, los Bandos de Policía y Buen Gobierno, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+II.- Organizar y ejercer, con sujeción a este ordenamiento y a sus disposiciones reglamentarias, la función de seguridad pública;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+III.- Aprobar, conforme a las bases generales establecidas en la presente Ley y dentro de sus respectivas jurisdicciones, los Bandos de Policía y Gobierno, las circulares y las demás disposiciones administrativas de observancia general, en materia de seguridad pública;
 
 IV.- Integrar el Registro Municipal de Personal de Seguridad Pública y coadyuvar a la integración del Registro Estatal correlativo;
 
 V.- Realizar campañas educativas permanentes que induzcan a reducir la posesión, portación y uso de armas de fuego de cualquier tipo;
 
-VI.- Evaluar y vigilar la prestación del servicio de policía preventiva, a efecto de determinar si la misma se lleva a cabo conforme a las orientaciones, a los lineamientos y a las políticas establecidas en los Planes Municipales de Desarrollo y en los programas relativos, así como para verificar si dicho servicio se presta eficaz y adecuadamente;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
-VII.- Mantener los bienes destinados a prestar el servicio de seguridad pública en condiciones óptimas de aprovechamiento y ejecutar en forma sistemática, para tal efecto, las acciones de conservación y mantenimiento que resulten necesarias;
+VI.- Evaluar y vigilar la función de policía preventiva, a efecto de determinar si la misma se lleva a cabo conforme a las orientaciones, a los lineamientos y a las políticas establecidas en los Planes Municipales de Desarrollo y en los programas relativos, así como para verificar si dicha función se presta eficaz y adecuadamente;
 
-VIII.- Elaborar y mantener permanentemente actualizados, el catálogo y el inventario de los bienes muebles e inmuebles destinados a la prestación del servicio de seguridad pública en el municipio y remitir los mismos, al titular del Poder Ejecutivo Estatal, por conducto de la Coordinación Estatal de Seguridad Pública y Tránsito;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
-IX.- Llevar a cabo un proceso sistemático de captación y tratamiento de datos respecto a la comisión, en sus respectivas jurisdicciones, de faltas de policía y buen gobierno;
+VII.- Mantener los bienes destinados a la función de seguridad pública en condiciones óptimas de aprovechamiento y ejecutar en forma sistemática, para tal efecto, las acciones de conservación y mantenimiento que resulten necesarias;
 
-X.- Describir en su presupuesto de egresos, en Capítulo especial, el gasto destinado a la prestación del servicio de seguridad pública;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
-XI.- Celebrar convenios con autoridades estatales y, en los términos de la Ley Orgánica de Administración Municipal, con autoridades federales, para alcanzar los objetivos de los programas de seguridad pública;
+VIII.- Elaborar y mantener permanentemente actualizados el catálogo y el inventario de los bienes muebles e inmuebles destinados a la función de Seguridad Pública en el Municipio y remitir los mismos al titular del Poder Ejecutivo Estatal, por conducto de la Coordinación Estatal de Seguridad Pública y Tránsito;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+IX.- Llevar a cabo un proceso sistemático de captación y tratamiento de datos respecto a la comisión, en sus respectivas jurisdicciones, de faltas al Bando de Policía y Gobierno;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+X.- Relacionar y describir, en forma pormenorizada y en capítulo especial del Presupuesto de Egresos del Municipio, el gasto destinado a la función de seguridad pública;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+XI.- Celebrar convenios con autoridades estatales y federales, para alcanzar los objetivos de los programas de seguridad pública;
 
 XII.- Instalar el Consejo Municipal de Seguridad Pública y, por su conducto, vincularse a los sistemas estatal y nacional de seguridad pública; y
 
 XIII.- Los demás que señalen los ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 66.
 
-Para los efectos de los nombramientos, el Presidente Municipal propondrá al Ayuntamiento una terna de candidatos para los puestos de Jefe y Subjefe de las Policías Preventivas que correspondan.
+Para los efectos de los nombramientos, el Presidente Municipal propondrá una terna de candidatos para los puestos de Jefe y Subjefe de las Policías Preventivas que correspondan, los cuales deberán reunir los siguientes requisitos:
 
-Al inicio de una administración municipal, las ternas deberán de proponerse dentro de los diez días siguientes a la fecha de la sesión en la que se declaren solemnemente instalados los Ayuntamientos.
+I.- Ser ciudadano mexicano en ejercicio de sus derechos y contar, cuando menos, con 21 años de edad el día de la propuesta;
+
+II.- Acreditar haber terminado estudios de educación media superior, con excepción de los que hayan sido egresados de las diferentes corporaciones policiales existentes en el Estado;
+
+III.- No tener antecedentes penales;
+
+IV.- Aprobar el examen médico sobre el estado de salud física, el cual considerará, además, el rendimiento físico-atlético y la verificación del no consumo de sustancias prohibidas.
 
 ###### ARTICULO 67.
 
 Si el Ayuntamiento considera que ninguno de los miembros de las ternas a que se refiere el artículo anterior, reúne los requisitos legales o personales para desempeñar los puestos respectivos, solicitará al Presidente Municipal que envíe una nueva terna, en los siguientes cinco días. Si ninguno de los miembros de la nueva terna reúne los requisitos antes señalados, el Presidente Municipal hará la designación provisional, repitiéndose el procedimiento de la presentación de ternas. Si en la tercera ocasión no se alcanza la aprobación respectiva, el nombramiento provisional será definitivo.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 68.
 
-En ningún caso y bajo ninguna circunstancia, los Presidentes Municipales podrán dictar órdenes o acuerdos que contravengan u obstruyan las disposiciones dictadas directamente por el Gobernador del Estado, en uso de la facultad que le concede esta ley y la Constitución del Estado.
+En ningún caso y bajo ninguna circunstancia los presidentes municipales podrán dictar órdenes o acuerdos que contravengan u obstruyan las disposiciones que el Gobernador del Estado transmita a la policía preventiva, en uso de la facultad que le concede el artículo 79 fracción XX de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 69.
 
-Las policías preventivas serán las corporaciones destinadas a prestar el servicio de seguridad pública en los municipios del Estado, sin perjuicio de la coordinación con otras instituciones de seguridad pública.
+Las policías preventivas serán las corporaciones destinadas a ejercer la función de seguridad pública en los municipios del Estado, sin perjuicio de la coordinación con otras Instituciones de Seguridad Pública.
 
-### CAPITULO II. DEL PROCESO DE PLANEACION EN LA PRESTACION DEL SERVICIO DE SEGURIDAD PUBLICA MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
+
+### CAPITULO II. DEL PROCESO DE PLANEACION DE LA FUNCION DE SEGURIDAD PUBLICA MUNICIPAL
 
 ###### ARTICULO 70.
 
 Los Ayuntamientos del Estado deberán conducir sus actividades en materia de seguridad pública, con sujeción a las orientaciones, a los lineamientos y a las políticas establecidas en sus planes municipales de desarrollo y, en congruencia con éstos, deberán de elaborar sus programas de seguridad pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 71.
 
-Los Programas Municipales de Seguridad Pública constituirán compromisos que deberán alcanzar los Ayuntamientos en la prestación de este servicio, en términos de metas y resultados. Dichos programas deberán contener, enunciativamente:
+Los Programas Municipales de Seguridad Pública constituirán compromisos que deberán alcanzar los Ayuntamientos en el ejercicio de esta función, en términos de metas y resultados. Dichos programas deberán contener, enunciativamente:
 
-I.- El diagnóstico de la prestación del servicio de seguridad pública Municipal;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+I.- El diagnóstico del ejercicio de la función de seguridad pública municipal;
 
 II.- La definición de metas, estrategias y prioridades;
 
-III.- Las previsiones respecto a las eventuales modificaciones de la estructura administrativa, de las corporaciones destinadas a prestar el servicio de seguridad pública municipal;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+III.- Las previsiones respecto a las eventuales modificaciones de la estructura administrativa de las corporaciones que ejercen la función de seguridad pública municipal;
 
 IV.- Las bases para la participación de la comunidad en la ejecución de los programas;
 
@@ -615,19 +709,23 @@ V.- Los mecanismos para evaluar las acciones que se lleven a cabo; y
 
 VI.- La previsión de recursos que resulte necesaria.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 72.
 
-Los datos e informes que se utilicen para la elaboración de los Programas a que se refiere el artículo anterior, así como los que se deriven de la prestación del servicio de seguridad pública municipal, serán manejados bajo la observancia de los principios de confidencialidad y reserva.
+Los datos e informes que se utilicen para la elaboración de los programas a que se refiere el artículo anterior, así como los que se deriven del ejercicio de la función de seguridad pública municipal, serán manejados bajo la observancia de los principios de confidencialidad y reserva.
 
-Los Ayuntamientos determinarán, en cada caso, qué información se podrá incorporar a los Programas antes señalados y cuál puede difundirse entre los particulares, tomando en cuenta que dicha divulgación no vaya en detrimento de la eficaz prestación del servicio.
+Los Ayuntamientos determinarán, en cada caso, qué información se podrá incorporar a los programas antes señalados y cuál puede difundirse entre los particulares, tomando en cuenta que dicha divulgación no vaya en detrimento del ejercicio de la función de seguridad pública, en los términos de la legislación aplicable.
 
 ### CAPITULO III. DE LA FUNCION, COORDINACION, DIRECCION, FORMACION Y CAPACITACION DE LA POLICIA PREVENTIVA MUNICIPAL
 
 #### SECCION PRIMERA. DE LA POLICIA PREVENTIVA
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 73.
 
-En cada municipio del Estado, deberá existir una corporación de seguridad pública municipal que se denominará Policía Preventiva. A través de dicha corporación, los Ayuntamientos prestarán el servicio de seguridad pública.
+En cada Municipio del Estado deberá existir una corporación de Seguridad Pública municipal que se denominará Policía Preventiva. A través de dicha corporación, los Ayuntamientos ejercerán la función de seguridad pública.
 
 ###### ARTICULO 74.
 
@@ -661,7 +759,9 @@ VII.- Auxiliar a las autoridades federales, estatales y municipales en los casos
 
 VIII.- Coadyuvar en la ejecución de las medidas asistenciales y protectoras de menores, que señala la Ley que crea el Consejo Tutelar para Menores para el Estado de Sonora;
 
-IX.- Llevar el control estadístico de las faltas de policía y buen gobierno;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+IX.- Llevar el control estadístico de las faltas al Bando de Policía y Gobierno;
 
 X.- Retirar de los lugares señalados en la fracción III de este artículo, a las personas privadas de inteligencia por locura, idiotismo o imbecilidad, así como a los ebrios consuetudinarios y a los que habitualmente hagan uso de drogas enervantes, cuando alteren el orden o la tranquilidad públicos, canalizándolas a las instituciones correspondientes;
 
@@ -671,7 +771,9 @@ XII.- Reportar cualquier deficiencia existente en la prestación de los servicio
 
 XIII.- Respetar y proteger los derechos humanos; y
 
-XIV.- En general, cumplir y hacer cumplir la presente ley, el Bando de Policía y Buen Gobierno, las circulares y demás disposiciones relativas a la seguridad pública que sean de observancia general en su jurisdicción.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+XIV.- En general, cumplir y hacer cumplir la presente Ley, el Bando de Policía y Gobierno, las circulares y demás disposiciones relativas a la seguridad pública que sean de observancia general en su jurisdicción.
 
 ###### ARTICULO 78.
 
@@ -685,9 +787,13 @@ El Jefe de la policía preventiva se auxiliará, en los asuntos de su competenci
 
 Son atribuciones de los Jefes de las policías preventivas de los municipios del Estado:
 
-I.- Organizar la corporación de tal manera que se preste eficazmente el servicio de seguridad pública municipal;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
-II.- Vigilar la eficaz prestación del servicio de seguridad pública;
+I.- Organizar la corporación de tal manera que se ejerza eficazmente la función de seguridad pública municipal;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+II.- Vigilar el desempeño eficaz de la función de seguridad pública;
 
 III.- Rendir diariamente el Presidente Municipal, un parte pormenorizado de los hechos relevantes ocurridos en su jurisdicción;
 
@@ -697,7 +803,9 @@ V.- Practicar, diariamente, revistas para comprobar el estado de los bienes dest
 
 VI.- Organizar la preparación física, técnica y académica de los miembros de la policía, pudiendo delegar esta función en el Subjefe o en el Comandante de Unidad que juzgue pertinente;
 
-VII.- Vigilar que se proporcione el debido cuidado y mantenimiento de los bienes destinados a la prestación del servicio de seguridad pública;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+VII.- Vigilar que se proporcione el debido cuidado y mantenimiento de los bienes destinados al ejercicio de la función de seguridad pública;
 
 VIII.- Procurar que exista una constante aplicación y renovación de las técnicas de educación policial, tanto individuales como de conjunto;
 
@@ -705,9 +813,17 @@ IX.- Llevar a cabo cursos de capacitación y actualización, a fin de mejorar el
 
 X.- Estimular a los elementos de la corporación que se distingan en el cumplimiento de sus deberes, o se esfuercen por la superación de sus conocimiento (sic);
 
-XI.- Impedir las discusiones o actividades de carácter político o religioso entre los integrantes de la corporación, cuando los mismos se encuentren en servicio; y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
-XII.- En general, cumplir y hacer cumplir la presente ley, el Bando de Policía y Buen Gobierno y las circulares y demás disposiciones de observancia general en su jurisdicción, en materia de seguridad pública municipal.
+XI.- Impedir las discusiones o actividades de carácter político o religioso entre los integrantes de la corporación, cuando los mismos se encuentren en servicio;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2003)</small>
+
+XII.- Procurar que, periódicamente, se preste asistencia psicológica a los integrantes de la corporación; y
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+XIII.- En general, cumplir y hacer cumplir la presente Ley, el Bando de Policía y Gobierno y las circulares y demás disposiciones de observancia general en materia de Seguridad Pública municipal dentro de su jurisdicción.
 
 ###### ARTICULO 81.
 
@@ -731,19 +847,27 @@ V.- Proponer mecanismos para que el ejecutivo estatal se coordine con los Ayunta
 
 VI.- Coordinar la realización de campañas educativas permanentes que induzcan a reducir la posesión, portación y uso de armas de fuego de cualquier tipo;
 
-VII.- Integrar el inventario de los bienes muebles e inmuebles destinados por los municipios del Estado a la prestación del servicio de seguridad pública y tránsito, procurando su permanente actualización;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
-VIII.- Llevar a cabo un proceso sistemático para la obtención y tratamiento de datos, en relación a la comisión de faltas de policía y buen gobierno que se produzcan en el Estado;
+VII.- Integrar el inventario de los bienes muebles e inmuebles destinados por los municipios del Estado a la función de seguridad pública y tránsito, procurando su permanente actualización;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+VIII.- Llevar a cabo un proceso sistemático para la obtención y tratamiento de datos, en relación a la comisión de faltas al Bando de Policía y Gobierno que se produzcan en el Estado;
 
 IX.- Estudiar y proponer medidas para mejorar las condiciones económicas y laborales de los miembros de las policías preventivas y de tránsito municipales, a efecto de dignificar su tarea mediante una adecuada retribución y un sistema de estímulos;
 
-X.- Asesorar a los Ayuntamientos del Estado, en la elaboración y actualización de sus Bandos de Policía y Buen Gobierno y en la organización y funcionamiento de sus juzgados calificadores;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+X.- Asesorar a los ayuntamientos del Estado en la elaboración y actualización de sus Bandos de Policía y Gobierno y en la organización y funcionamiento de sus juzgados calificadores;
 
 XI.- Disponer del personal que realice funciones de inspección y vigilancia en los bienes del dominio público del Estado, para evitar daños o deterioros;
 
 XII.- Proponer al Presidente del Consejo la coordinación de acciones entre las Policías Judicial y Preventiva, y tomar las medidas necesarias para hacer efectiva la coordinación y preservación de la seguridad pública conforme a los acuerdos del Consejo Estatal;
 
-XIII.- Operar los diversos registros relacionados con los cuerpos de seguridad pública municipal y coordinarse con la Secretaría Ejecutiva del Consejo Estatal, para la institución y funcionamiento del Subsistema Estatal de Información de Seguridad Pública;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+XIII.- Operar los diversos registros relacionados con los cuerpos de policía municipal y estatal y coordinarse con la Secretaría Ejecutiva del Consejo Estatal, para la institución y funcionamiento del Subsistema Estatal de Información de Seguridad Pública;
 
 XIV.- Supervisar, en los términos de la presente ley, la operación de las empresas que presten servicios privados de seguridad; y
 
@@ -755,9 +879,11 @@ XV.- Las demás que las disposiciones legales y reglamentarias le atribuyan, as�
 
 El Instituto de Seguridad Pública del Estado, en lo sucesivo el Instituto, será un organismo descentralizado con personalidad jurídica y patrimonio propios, con sede en la ciudad de Hermosillo, Sonora.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 84.
 
-El Instituto tendrá como objeto el constituirse en la instancia estatal adecuada y responsable para la formación y capacitación profesionales de los elementos integrantes de los cuerpos de seguridad pública y tránsito municipales, conforme a los términos de esta ley, su reglamento general, y demás normatividad aplicable. Se ocupará también de la formación y capacitación profesionales del personal penitenciario y del Consejo Tutelar para Menores.
+El Instituto tendrá como objeto el constituirse en la instancia estatal adecuada y responsable para la formación y capacitación profesional de los elementos integrantes de los cuerpos estatal y municipales de seguridad pública y tránsito municipales, conforme a los términos de esta ley, su reglamento general y demás normatividad aplicable. Se ocupará también de la formación y capacitación profesional del personal penitenciario y el del Consejo Tutelar para Menores. Lo anterior, sin perjuicio de que las actividades de capacitación puedan desarrollarse de manera permanente a través de la corporación en que los elementos policiacos presten sus servicios.
 
 ###### ARTICULO 85.
 
@@ -773,7 +899,9 @@ El Consejo Directivo del Instituto se integrará por:
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- El Secretario de Gobierno, quien será Vicepresidente y sustituirá al Presidente en sus ausencias;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+II.- El Secretario de Gobierno y el Procurador General de Justicia en el Estado quienes serán Vicepresidentes y sustituirán al Presidente en sus ausencias;
 
 III.- En calidad de vocales:
 
@@ -783,7 +911,9 @@ b) El Secretario de Educación y Cultura.
 
 c) El Coordinador Estatal de Seguridad Pública y Tránsito.
 
-d) Tres Presidentes Municipales a invitación del Presidente del Consejo.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
+d).- Siete presidentes municipales a invitación del presidente del Consejo.
 
 e) Dos representantes, respectivamente, de los sectores social y privado, a invitación del Presidente del Consejo; y
 
@@ -811,9 +941,11 @@ III.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que l
 
 IV.- En general, con los ingresos que obtenga por cualquier otro título legal.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 90.
 
-Para el alcance de su objeto, corresponderá al Instituto proponer las bases del servicio profesional policial municipal, formar y capacitar a los elementos de los diversos cuerpos de seguridad pública municipal, de acuerdo con las disposiciones de esta ley y su reglamento, y proponer modelos y mecanismos de selección, formación, actualización y evaluación, tanto de los aspirantes como de los miembros activos de dichas corporaciones, conforme a los principios de legalidad, eficiencia, profesionalismo y honradez.
+Para el alcance de su objeto, corresponderá al Instituto proponer las bases del servicio profesional policial estatal y municipal, formar y capacitar a los elementos de los diversos cuerpos de policía estatal y municipal, de acuerdo con las disposiciones de esta ley y sus reglamentos y proponer modelos y mecanismos de selección, formación, actualización y evaluación, tanto de los aspirantes como de los miembros activos de dichas corporaciones, conforme a los principios de legalidad. eficiencia, profesionalismo y honradez.
 
 ###### ARTICULO 91.
 
@@ -831,17 +963,23 @@ La formación para la promoción es el proceso de capacitación que permite a lo
 
 La formación destinada a la preparación de mandos medios y superiores, tendrá por objeto desarrollar integralmente al personal en la administración y organización policiales.
 
-Los programas de formación policial en sus diferentes niveles, además de las materias propias de la función policial, tenderán a mantener actualizados en materias legislativas y científicas a los elementos de los cuerpos de seguridad pública municipal. La formación será teórica y práctica.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
+Los programas de formación policial en sus diferentes niveles, además de las materias propias de la función policial, tenderán a mantener actualizados, en materias legislativas y científicas, a los elementos de los cuerpos de seguridad pública estatal y municipal. La formación será teórica y práctica.
 
 El Instituto solicitará, en su caso, el registro ante la autoridad competente de sus programas de estudio para obtener el reconocimiento y validez oficiales correspondientes.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 92.
 
-La formación continua y actualización de conocimientos, serán obligatorias para todos los elementos de los cuerpos policiacos municipales, atendiendo a la necesidad de desarrollar nuevas funciones y destrezas, ante las necesidades cambiantes del servicio.
+La formación continua y actualización de conocimientos, serán obligatorias para todos los elementos de los cuerpos policiacos municipales, atendiendo a la necesidad de desarrollar nuevas funciones y destrezas, ante las necesidades cambiantes de la función de seguridad pública.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 93.
 
-Los cursos para formación de mandos que impartirá el Instituto, estarán dirigidos a policías con formación inicial y tendrá por objeto la capacitación en la organización y manejo de los grupos policiales municipales.
+Los cursos para formación de mandos que impartirá el Instituto, estarán dirigidos a policías con formación inicial y tendrán por objeto la capacitación en la organización y manejo de los grupos policiales estatales y municipales.
 
 ###### ARTICULO 94.
 
@@ -859,7 +997,9 @@ I.- Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos;
 
 II.- Ser de buena conducta y reconocida solvencia moral;
 
-III.- Poseer el grado de escolaridad mínimo de secundaria y, en su caso, el que corresponda a los diversos niveles o modalidades de preparación;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+III.- Poseer el grado de escolaridad mínimo de preparatoria y, en su caso, el que corresponda a los diversos niveles o modalidades de preparación;
 
 IV.- No tener antecedentes penales ni estar sujeto a proceso penal por delito doloso;
 
@@ -881,9 +1021,11 @@ El Gobernador del Estado expedirá el Reglamento General del Instituto.
 
 #### SECCION PRIMERA. DE LA JUNTA DE HONOR, SELECCION Y PROMOCION
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 97.
 
-En cada municipio del Estado deberá establecerse una Junta de Honor, Selección y Promoción, en lo sucesivo la Junta, integrada por el Presidente Municipal, el Regidor Presidente de la Comisión de Seguridad Pública nombrado por el Ayuntamiento, así como por el Jefe de Policía Preventiva del municipio que corresponda y por tres miembros de la corporación que ostenten los grados de Comandante de Unidad y de Oficial Primero, de existir estas jerarquías o, en su caso, los más altos grados, fungiendo como presidente de la Junta el mismo Presidente Municipal y como secretario el Regidor respectivo.
+En cada municipio del Estado deberá establecerse una Junta de Honor, Selección y Promoción, en lo sucesivo la Junta, que será integrada por el regidor presidente de la Comisión de Seguridad Pública nombrado por el Ayuntamiento, por el Jefe de Policía Preventiva del Municipio que corresponda, por un Comandante de Unidad y por el presidente del Comité de Consulta y Participación Ciudadana de la Comunidad. Fungirá como presidente de la Junta el regidor presidente de la Comisión de Seguridad Pública y como secretario el Jefe de Policía Preventiva respectivo.
 
 ###### ARTICULO 98.
 
@@ -899,9 +1041,11 @@ IV.- Conocer y resolver los recursos de rectificación que ante ella se hagan va
 
 V.- En general velar por la honorabilidad de los cuerpos de seguridad pública municipal y combatir, conforme a sus atribuciones, las conductas de sus miembros lesivas para la comunidad o para la corporación misma.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 99.
 
-En todo caso, la Junta al establecer sus dictámenes deberá tomar en cuenta los siguientes factores: conducta, antigüedad en el grado, eficiencia en el servicio, créditos acumulados y examen de promoción. Los reglamentos establecerán los conceptos y la importancia que respectivamente deba corresponderles.
+En todo caso, la Junta al emitir sus dictámenes deberá tomar en cuenta los siguientes factores: conducta, antigüedad en el grado, eficiencia en el servicio, créditos acumulados y examen de promoción. Los reglamentos establecerán los conceptos y la importancia que respectivamente deba corresponderles, así como la estructura del personal de apoyo para el funcionamiento de la Junta y su forma de operación.
 
 ###### ARTICULO 100.
 
@@ -909,15 +1053,23 @@ Corresponderá al Presidente Municipal, la ejecución y cumplimiento de las reso
 
 #### SECCION SEGUNDA. DEL SERVICIO PROFESIONAL POLICIAL
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 101.
 
-La capacitación profesional, previa y contínua, la estabilidad laboral y el salario digno, así como un esquema permanente de selección y promoción, que permita el ingreso y ascenso del personal en función de su escolaridad y formación policial, antigüedad, desempeño en el servicio, disciplina y ética, constituyen los elementos básicos del servicio profesional policial, del personal de los cuerpos de seguridad pública municipal.
+La capacitación profesional, previa y continua, la estabilidad laboral y el salario digno, así como un esquema permanente de selección y promoción que permita el ingreso y ascenso del personal en función de su escolaridad y formación policial, antigüedad, desempeño en el servicio, disciplina y ética, constituyen los elementos básicos del servicio profesional policial del personal de los cuerpos de policía estatales y municipales.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 102.
 
-En cada uno de los cuerpos de seguridad pública municipal se establecerá un servicio profesional policial, conforme al cual se determinarán las jerarquías y niveles que lo componen, los requisitos para acceder a ellos y su forma de acreditación. La operación de este servicio profesional, quedará a cargo de la Junta que se establecerá en cada uno de los cuerpos de seguridad pública municipal, la cual será autónoma en su funcionamiento y gozará de las más amplias facultades para examinar a los elementos, sus expedientes y hojas de servicio.
+En cada uno de los cuerpos de policía municipal se establecerá un servicio profesional policial, conforme al cual se determinarán las jerarquías y niveles que lo componen, los requisitos para acceder a ellos y su forma de acreditación. La operación de este servicio profesional quedará a cargo de la Junta que se establecerá en cada uno de los cuerpos de seguridad pública municipal, debiendo ser autónoma en su funcionamiento y gozando de las más amplias facultades para examinar a los elementos, sus expedientes y hojas de servicio.
 
-Para permanecer dentro del servicio profesional policial, los integrantes de los cuerpos de seguridad pública deberán participar en los programas de formación y capacitación profesional y en los concursos de promoción a que se convoque.
+Para permanecer dentro del servicio profesional policial, los integrantes de los cuerpos de policía municipal deberán participar en los programas de formación y capacitación profesional y en los concursos de promoción a que se convoque.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2003)</small>
+
+ARTICULO 102 BIS.- En cada Municipio, el Ayuntamiento podrá contar con una Academia de Policía Municipal que se encargará de ejecutar los cursos relativos a los programas de capacitación referidos en la última parte del artículo 102 y los señalados en el artículo 80, fracción IX de esta ley.
 
 ###### ARTICULO 103.
 
@@ -925,9 +1077,11 @@ Quienes formen parte del servicio profesional policial serán ascendidos previa 
 
 Los ascensos por promoción, dictaminados por la Junta podrán efectuarse hasta el grado jerárquico de Comandante de Unidad, y serán definitivos; estos ascensos resultarán de la creación de nuevas plazas y los que deriven de renuncia, cese, jubilación, pensión o muerte de alguno de los integrantes de las policías preventivas.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 104.
 
-Los reglamentos para la selección e ingreso y para la promoción de los cuerpos de seguridad pública municipal señalarán el sistema de puntos o créditos acumulables por cada mérito, a fin de establecer quiénes están en aptitud de acceder a los concursos correspondientes.
+Los reglamentos para la selección e ingreso y para la promoción de los cuerpos de policía municipal señalarán el sistema de puntos o créditos acumulables por cada mérito, a fin de establecer quiénes están en aptitud de acceder a los concursos correspondientes.
 
 ###### ARTICULO 105.
 
@@ -941,9 +1095,11 @@ Los resultados del proceso de selección para el ingreso al servicio profesional
 
 Cuando algún Comandante de Unidad sea nombrado Jefe o Subjefe de la Policía Preventiva, al concluir el desempeño de este cargo retomará, sin necesidad de ningún trámite, las funciones que le correspondan en la corporación como Comandante de Unidad.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 107.
 
-El Instituto podrá proponer a la Junta que corresponda, requisitos, formas y procedimientos para llevar a cabo los procesos de selección, ingreso y promoción del personal de los cuerpos de seguridad pública municipal al servicio profesional policial.
+El Instituto podrá proponer a la Junta que corresponda, requisitos, formas y procedimientos para llevar a cabo los procesos de selección, ingreso y promoción del personal de los cuerpos de policía municipal al servicio profesional policial.
 
 ###### ARTICULO 108.
 
@@ -1227,41 +1383,55 @@ Los trámites relativos al registro, a la manifestación, posesión y portación
 
 ### CAPITULO V. DE LOS DEBERES DISCIPLINARIOS, OBLIGACIONES Y PROHIBICIONES DE LA POLICIA PREVENTIVA
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 148.
 
-El estricto apego a la legalidad, el servicio a la comunidad y la disciplina, así como el respeto a los derechos humanos, son principios normativos que los cuerpos de seguridad pública municipal deberán observar invariablemente.
+El estricto apego a la legalidad, el servicio a la comunidad y la disciplina, así como el respeto a los derechos humanos, son principios normativos que los cuerpos de policía municipal deberán observar invariablemente.
 
-Los deberes de disciplina tienen por objeto formar y mantener entre el personal de los cuerpos de seguridad pública municipal, un alto sentido de lealtad institucional, de orden, responsabilidad, respeto y obediencia.
+Los deberes de disciplina tienen por objeto formar y mantener entre el personal de los cuerpos de policía municipal, un alto sentido de lealtad institucional, de orden, responsabilidad, respeto y obediencia.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 149.
 
-Los jefes y oficiales superiores de los cuerpos de seguridad pública municipal, deberán proceder en forma justa y enérgica en el cumplimiento de sus obligaciones, a fin de obtener la estimación y obediencia de sus subordinados. Sólo deberán servirse de la fuerza de su mando para mantener la disciplina, haciendo que se obedezcan sus órdenes en actos de servicio.
+Los jefes y oficiales superiores de los cuerpos de policía municipal, deberán proceder en forma justa y enérgica en el cumplimiento de sus obligaciones, a fin de obtener la estimación y obediencia de sus subordinados. Sólo deberán servirse de la fuerza de su mando para mantener la disciplina, haciendo que se obedezcan sus órdenes en actos de servicio.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 150.
 
-Se entiende por actos del servicio, los que ejecuten los integrantes de los cuerpos de seguridad pública municipal, aislada o colectivamente, en cumplimiento de las órdenes que reciban o en el desempeño de sus funciones, según su jerarquía.
+Se entiende por actos del servicio, los que ejecuten los integrantes de los cuerpos de policía municipal, aislada o colectivamente, en cumplimiento de las órdenes que reciban o en el desempeño de sus funciones, según su jerarquía.
 
 ###### ARTICULO 151.
 
 Los integrantes de los cuerpos policiales deben cumplir las órdenes de sus superiores en la forma y términos que les sean comunicadas, siempre y cuando no fueren constitutivas de delito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 152.
 
-Son obligaciones de los integrantes de los cuerpos de seguridad pública municipal o policía preventiva:
+Son obligaciones de los integrantes de los cuerpos de policía municipal:
 
-I.- Ejecutar el servicio de vigilancia en los lugares públicos señalados en esta ley;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+I.- Ejercer la función de vigilancia en los lugares públicos señalados en esta ley;
 
 II.- Tomar las medidas necesarias de protección y auxilio, conduciendo a donde corresponda a las personas que lo soliciten o lo ameriten.
 
 En caso de daños por incendio, derrumbe, inundaciones o explosiones y, en general, cualquier acontecimiento natural o del hombre, los integrantes de la policía preventiva deberán comunicarse inmediatamente con la Unidad Municipal de Protección Civil o, en su caso, con el personal de bomberos o la institución de auxilio que proceda, para que acudan al lugar del siniestro a combatirlo tomando, mientras tanto, las medidas de emergencia para impedir que se estacionen o transiten por el lugar personas cuyas vidas pudieran peligrar por tal motivo;
 
-III.- Detener y remitir al Ministerio Público a los delincuentes sorprendidos en flagrante delito y a la autoridad correspondiente a los infractores del Bando de Policía y Buen Gobierno, cuando así lo amerite la falta, poniendo a su disposición las pruebas, objetos o instrumentos respectivos;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+III.- Detener y remitir al Ministerio Público a los delincuentes sorprendidos en flagrante delito y, a la autoridad correspondiente, a los infractores del Bando de Policía y Gobierno, cuando así lo amerite la falta, poniendo a su disposición las pruebas, objetos o instrumentos respectivos;
 
 IV.- Proporcionar información en forma diligente y amable sobre lugares y servicios de interés;
 
 Los integrantes de la policía preventiva deberán estar instruidos respecto de la ubicación de los sanatorios u hospitales y de las boticas o farmacias de guardia;
 
-V.- Utilizar adecuadamente los bienes destinados a la prestación del servicio de seguridad pública municipal, para asegurar su conservación, específicamente, las armas, vehículos, municiones, equipo y uniforme a su cargo, que deberán ser destinadas exclusivamente al servicio;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+V.- Utilizar adecuadamente los bienes destinados a la función de seguridad pública municipal para asegurar su conservación, específicamente las armas, vehículos, municiones, equipo y uniforme a su cargo, que deberán ser destinadas exclusivamente a dicha función;
 
 VI.- Evitar cualquier acto que pueda ocasionar peligro para las personas;
 
@@ -1279,7 +1449,13 @@ XII.- Respetar las reglas de tránsito y abstenerse de utilizar la sirena, las l
 
 XIII.- Manejar discretamente los datos e informes de que tenga conocimiento en el ejercicio de sus funciones, pudiéndolos revelar sólo mediante orden superior o judicial;
 
-XIV.- Asistir a los programas de formación y capacitación profesional y actualización policial a fin de adquirir los conocimientos teóricos y prácticos que conlleven a su profesionalización; y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+XIV.- Asistir a los programas de formación y capacitación profesional y actualización policial a fin de adquirir los conocimientos teóricos y prácticos que conlleven a su profesionalización;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2003)</small>
+
+XIV BIS.- Someterse a los exámenes toxicológicos antidoping que ordene la Junta de Honor, Selección y Promoción, los cuales serán con cargo al presupuesto municipal; y
 
 XV.- Las demás que les confieran los ordenamientos jurídicos.
 
@@ -1301,7 +1477,9 @@ Los integrantes de los cuerpos de seguridad pública municipal no deberán:
 
 I.- Exigir o recibir regalos o dádivas de cualquier especie, así como aceptar ofrecimientos o promesas, por cualquier acción u omisión del servicio o con motivo de sus funciones;
 
-II.- Presentarse a desempeñar sus funciones en estado de embriaguez, con aliento alcohólico o bajo la influencia de narcóticos o drogas enervantes, salvo que exista prescripción médica en éste último caso;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+II.- Presentarse a desempeñar sus funciones en estado de embriaguez, con aliento alcohólico o bajo la influencia de sustancias psicotrópicas, estupefacientes o drogas enervantes, salvo que exista prescripción médica en estos últimos casos; así como consumirlas durante el servicio o en su centro de trabajo;
 
 III.- Entrar uniformados en cantinas o establecimientos similares, salvo requerimientos del servicio;
 
@@ -1335,7 +1513,9 @@ XVII.- Realizar cualquier acto de disposición indebida de armamento, vehículos
 
 XVIII.- Tomar parte activa, en su carácter de integrantes de los cuerpos de seguridad pública, en manifestaciones, mítines y otras reuniones de carácter político o religioso;
 
-XIX.- Hacer peticiones en grupo, tendientes a contrariar o retardar la prestación del servicio de seguridad pública; y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+XIX.- Hacer peticiones en grupo, tendientes a contrariar o retardar el ejercicio de la función de seguridad pública; y
 
 XX.- Las demás que señalen los ordenamientos jurídicos.
 
@@ -1373,7 +1553,9 @@ III.- Cambio de adscripción o de comisión.
 
 La amonestación es el acto por el cual el superior advierte al subalterno la omisión o falta en el cumplimiento de sus deberes, invitándolo a corregirse. La amonestación será de palabra y constará por escrito.
 
-El arresto es la reclusión que sufre un subalterno por haber incurrido en faltas considerables o por haber acumulado cinco amonestaciones en un año calendario. En todo caso, la orden de arresto deberá hacerse por escrito, especificando el motivo y duración del mismo.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
+El arresto es la reclusión en los separos específicamente designados para los agentes o los oficiales de rango que sufre el miembro de la corporación policiaca por haber incurrido en las faltas considerables o por haber acumulado cinco amonestaciones en un año calendario, en todo caso, la orden de arresto deberá hacerse por escrito, especificando el motivo del arresto, duración del mismo y separo designado donde se cumplirá con el arresto.
 
 El cambio de adscripción o de comisión, se decretará cuando el comportamiento del elemento afecte la disciplina y buena marcha del grupo al que está adscrito, o bien sea necesario para mantener una buena relación e imagen con la comunidad donde se desempeña.
 
@@ -1449,7 +1631,9 @@ V.- Por portar el arma asignada fuera del servicio;
 
 VI.- Por poner en peligro a los particulares a causa de imprudencia, descuido, negligencia o abandono del servicio;
 
-VII.- Por asistir a sus labores en estado de ebriedad, o bajo el influjo de sustancias psicotrópicas o estupefacientes, o por consumirlas durante el servicio o en su centro de trabajo; en su caso, salvo prescripción médica;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+VII.- Por asistir a sus labores en estado de embriaguez, con aliento alcohólico o bajo la influencia de sustancias psicotrópicas, estupefacientes o drogas enervantes salvo que exista prescripción médica; o por consumirlas durante el servicio o en su centro de trabajo; así como por resultar positivo en el examen toxicológico antidoping ordenado por la Junta;
 
 VIII.- Por desacato injustificado a las órdenes de sus superiores;
 
@@ -1461,9 +1645,13 @@ XI.- Por aplicar a sus subalternos en forma dolosa o reiterada, correctivos disc
 
 XII.- Por obligar a sus subalternos a entregarle dinero o cualquier otro tipo de dádivas, a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho.
 
-El cambio de mandos no constituirá una causa para destituir a un elemento de los cuerpos de seguridad pública municipal.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
-Los cuerpos de seguridad pública municipal elaborarán un registro de los elementos que hayan sido destituidos, especificando además, la causa de la destitución.
+En el caso de actualizarse los supuestos previstos en la fracción VII de este artículo, el Jefe de Policía Preventiva estará facultado para decretar la destitución en forma inmediata, debiendo informar de ello a la Junta a más tardar dentro de las 48 horas siguientes para que ésta confirme o revoque la decisión tomada.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
+Los cuerpos de policía municipal elaborarán un registro de los elementos que hayan sido destituidos, especificando además, la causa de la destitución.
 
 ###### ARTICULO 168.
 
@@ -1495,13 +1683,19 @@ Interpuesto el recurso de inconformidad, el órgano autor de la resolución lo r
 
 Las resoluciones que correspondan, se agregarán al expediente u hoja de servicio correspondiente.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2003)</small>
+
+ARTICULO 170 BIS.- En todo lo no previsto para la tramitación del procedimiento ante la Junta de Honor, en la tramitación del recurso de inconformidad ante la misma o el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo, así como en la admisión, desahogo y valoración de las pruebas, se aplicará supletoriamente el procedimiento administrativo y las disposiciones contenidas en el Código de Procedimientos Civiles para el Estado de Sonora, en lo que no se opongan a lo previsto en el presente ordenamiento.
+
 ### CAPITULO UNICO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
 
 # LIBRO TERCERO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
 
 ## TITULO UNICO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
 
-### CAPITULO I. DE LOS BANDOS DE POLICIA Y BUEN GOBIERNO, DE LAS CIRCULARES Y DE LAS DEMAS DISPOSICIONES DE OBSERVANCIA GENERAL EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL
+### CAPITULO I. DE LOS BANDOS DE POLICIA Y GOBIERNO, DE LAS CIRCULARES Y DE LAS DEMAS DISPOSICIONES DE OBSERVANCIA GENERAL EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 171.
 
@@ -1521,7 +1715,9 @@ Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y E
 
 Corresponde al Gobernador del Estado, por conducto de la Secretaría de Gobierno:
 
-I.- Autorizar el funcionamiento de las empresas o particulares que presten servicios privados de seguridad y llevar su registro;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+I.- Autorizar, previa opinión del Consejo Estatal de Seguridad Pública, el funcionamiento de las empresas o particulares que presten servicios privados de seguridad y llevar su registro;
 
 II.- Evaluar, previo pago de los derechos respectivos, el funcionamiento de los servicios privados de seguridad y la capacidad de sus empleados para prestar el servicio, determinando el tipo de capacitación que requieran;
 
@@ -1599,61 +1795,81 @@ Los prestadores del servicio privado de seguridad que sean sancionados conforme 
 
 ## TITULO PRIMERO. DE LA FACULTAD REGLAMENTARIA DE LOS AYUNTAMIENTOS EN MATERIA DE SEGURIDAD PUBLICA
 
-### CAPITULO II. DE LAS FALTAS DE POLICIA Y BUEN GOBIERNO
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
+
+### CAPITULO II. DE LAS FALTAS AL BANDO DE POLICIA Y GOBIERNO
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 182.
 
-Los Ayuntamientos expedirán, con sujeción a la presente ley, los Bandos de Policía y Buen Gobierno, las circulares y las demás disposiciones de observancia general en materia de seguridad pública, dentro de sus respectivas jurisdicciones.
+Los Ayuntamientos expedirán, dentro de sus respectivas jurisdicciones, con sujeción a la presente ley, los Bandos de Policía y Gobierno, las circulares y las demás disposiciones de observancia general en materia de seguridad pública.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 183.
 
-Los Bandos de Policía y Buen Gobierno, las circulares y las demás disposiciones de observancia general que emitan los Ayuntamientos, deberán tener como base normativa las normas contenidas en la presente ley.
+Los Bandos de Policía y Gobierno, las circulares y las demás disposiciones de observancia general que emitan los Ayuntamientos, deberán tener como base general las normas contenidas en la presente ley.
 
-Los Bandos de Policía y Buen Gobierno deberán establecer, atendiendo a las circunstancias sociales, económicas, políticas y culturales de cada municipio, las faltas de policía y buen gobierno, así como las sanciones previstas en esta ley.
+Los Bandos de Policía y Gobierno deberán establecer, atendiendo a las circunstancias sociales, económicas, políticas y culturales de cada municipio, las faltas al Bando de Policía y Gobierno, así como las sanciones previstas en esta ley.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 184.
 
-Corresponde al Presidente Municipal, al Síndico y a los Regidores, el derecho de proponer al Ayuntamiento los Bandos de Policía y Buen Gobierno, las circulares y las demás disposiciones de observancia general a que se refiere este capítulo.
+Corresponde al Presidente Municipal, al Síndico, a los Regidores y a los ciudadanos que residan en el Municipio, el derecho de proponer al Ayuntamiento los Bandos de Policía y Gobierno, las circulares y las demás disposiciones de observancia general a que se refiere este Capítulo.
 
 ###### ARTICULO 185.
 
-Toda solicitud respetuosa de los ciudadanos que residan en el municipio, en relación a la aprobación, reforma, derogación o abrogación de los Bandos de Policía y Buen Gobierno, de las circulares y demás disposiciones de observancia general a que se refiere este Capítulo, deberá ser analizada por el Ayuntamiento y respondida adecuadamente y en breve término.
+(DEROGADO, P.O. 2 DE MAYO DE 2003)
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 186.
 
-El procedimiento para la aprobación, reforma, abrogación o derogación de los Bandos de Policía y Buen Gobierno, las circulares y las demás disposiciones a que se refiere este capítulo, se llevarán a cabo conforme el procedimiento que establezca el Reglamento Interior del Ayuntamiento.
+El procedimiento para la aprobación, reforma, abrogación o derogación de los Bandos de Policía y Gobierno, las circulares y las demás disposiciones a que se refiere este Capítulo, se llevarán a cabo conforme al procedimiento que se establece en la Ley de Gobierno y Administración Municipal y el Reglamento Municipal respectivo.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 187.
 
-Los Bandos de Policía y Buen Gobierno, las circulares y las demás disposiciones de observancia general que emitan los Ayuntamientos en materia de seguridad pública municipal, serán promulgados y publicados por el Presidente Municipal, conforme a la normatividad existente al respecto y previo el refrendo que, en los términos de la fracción VII del artículo 62 de la Ley Orgánica de Administración Municipal, realice el Secretario del Ayuntamiento.
+Los Bandos de Policía y Gobierno, las circulares y las demás disposiciones de observancia general que emitan los Ayuntamientos en materia de seguridad pública municipal serán promulgados y publicados por el Presidente Municipal, conforme a la normatividad existente al respecto y previo el refrendo que, en los términos de la Ley de Gobierno y Administración Municipal, realice el Secretario del Ayuntamiento.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. DE LAS SANCIONES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 188.
 
-Se consideran como faltas de policía y buen gobierno, las acciones u omisiones que, sin ser constitutivas de delito, alteren el orden y la tranquilidad públicas, realizadas en los lugares públicos señalados en el artículo 77, fracción III de esta ley, o que tengan efectos en esos lugares.
-
-No se considerará como falta de policía y buen gobierno, el legítimo ejercicio de las garantías individuales y sociales, previstas en la Constitución Política de los Estados Unidos Mexicanos y en los demás ordenamientos jurídicos aplicables.
+Se consideran como faltas al Bando de Policía y Gobierno, las acciones u omisiones que, sin ser constitutivas de delito, alteren el orden y la tranquilidad públicas, realizadas en los lugares públicos señalados en el artículo 77, fracción III de esta ley, o que tengan efectos en esos lugares.
 
 ### CAPITULO I. DE LOS JUZGADOS CALIFICADORES
 
 ###### ARTICULO 189.
 
-Corresponde a los Ayuntamientos de los municipios del Estado, por conducto de los Juzgados Calificadores y dentro del ámbito de su competencia territorial, sancionar las faltas de policía y buen gobierno.
+Corresponde a los ayuntamientos de los municipios del Estado, por conducto de los Juzgados Calificadores y dentro del ámbito de su competencia territorial, sancionar las faltas al Bando de Policía y Gobierno.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 190.
 
-Los Bandos de Policía y Buen Gobierno que expidan los Ayuntamientos, conforme a las bases normativas establecidas en la presente ley, determinarán las sanciones exactamente aplicables a cada una de las faltas, atendiendo a su naturaleza y gravedad.
+Los Bandos de Policía y Gobierno que expidan los ayuntamientos, conforme a las bases normativas establecidas en la presente ley, determinarán las sanciones exactamente aplicables a cada una de las faltas, atendiendo a su naturaleza y gravedad.
 
 Las sanciones a que se refiere el artículo anterior consistirán en amonestación, multa o arresto del infractor.
 
-Las sanciones por violación de los Bandos de Policía y Buen Gobierno, podrán ser conmutadas por simple amonestación o suspendidas en la forma prevista por esta ley.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
+Las sanciones por violación de los Bandos de Policía y Gobierno, podrán ser conmutadas por simple amonestación o suspendidas en la forma prevista por esta ley.
 
 En todo caso, si el infractor no pagare la multa, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 191.
 
-Para los efectos de esta ley y de los Bandos de Policía y Buen Gobierno que expidan los Ayuntamientos, se considerará como:
+Para los efectos de esta ley y de los Bandos de Policía y Gobierno que expidan los Ayuntamientos, se considerará como:
 
 I.- Amonestación: la reconvención pública o privada que el Juez Calificador haga al infractor;
 
@@ -1673,39 +1889,53 @@ Si el infractor es menor de edad, el Juez Calificador ordenará inmediatamente q
 
 Cuando con una sola conducta el infractor trasgreda varios preceptos, o con diversas conductas infrinja distintas disposiciones, el Juez Calificador podrá acumular las sanciones aplicables, sin exceder los límites máximos previstos por esta ley para las sanciones de que se trate.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 195.
 
-Si las acciones u omisiones en que consisten las faltas, se hayan previstas y sancionadas en otras leyes, no se aplicará el Bando de Policía y Buen Gobierno.
+Si las acciones u omisiones en que consisten las faltas se hayan previstas y sancionadas en otras leyes, no se aplicará el Bando de Policía y Gobierno.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 196.
 
-Cuando de la falta cometida deriven daños o perjuicios reclamables por la vía civil, el Juez Calificador se limitará a imponer las sanciones administrativas que correspondan y, oficiosamente, propondrá a las partes conciliar el conflicto mediante convenio.
+Cuando de la falta cometida deriven daños o perjuicios reclamables por la vía civil, el juez calificador se limitará a imponer las sanciones administrativas que correspondan, y, oficiosamente, propondrá a las partes conciliar o someter a mediación el conflicto. En caso de que en la conciliación o en la mediación se llegue a convenio, éste tendrá carácter de título ejecutivo. En el supuesto de que no se llegue a convenio, quedarán expeditos los derechos para hacerlos valer ante la autoridad que corresponda.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 197.
 
-El Juez Calificador determinará la sanción aplicable en cada caso concreto, tomando en cuenta la naturaleza y las consecuencias individuales y sociales de la falta, las condiciones en que ésta se hubiese cometido, las circunstancias personales del infractor y los antecedentes de éste, pudiendo suspender la aplicación de las sanciones, cuando se trate de ancianos, enfermos o personas afectadas de sus facultades mentales, analfabetas o indígenas que, por su cultura, no sean capaces de responder a los Bandos de Policía y Buen Gobierno.
+El Juez Calificador determinará la sanción aplicable en cada caso concreto, tomando en cuenta la naturaleza y las consecuencias individuales y sociales de la falta, las condiciones en que ésta se hubiese cometido, las circunstancias personales del infractor y los antecedentes de éste, pudiendo suspender la aplicación de las sanciones cuando se trate de ancianos, enfermos o personas afectadas de sus facultades mentales, analfabetas o indígenas que, por su cultura, no sean capaces de responder a los Bandos de Policía y Gobierno.
 
 ###### ARTICULO 198.
 
 Las faltas sólo se sancionarán cuando se hubieren consumado.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 199.
 
-La potestad pública para castigar las infracciones al Bando de Policía y Buen Gobierno, prescribe en seis meses, contados a partir de que se cometió la falta y únicamente se interrumpirá por la primer diligencia que, dentro de este término, realice el Juez Calificador. El plazo para que opere la prescripción, en ningún caso, excederá de un año.
+La potestad pública para castigar las infracciones al Bando de Policía y Gobierno prescribe en seis meses, contados a partir de que se cometió la falta y únicamente se interrumpirá por la primer diligencia que, dentro de este término, realice el Juez Calificador. El plazo para que opere la prescripción, en ningún caso, excederá de un año.
 
 ## TITULO SEGUNDO. DE LA JUSTICIA DE BARANDILLA
 
-### CAPITULO II. DEL PROCEDIMIENTO POR INFRACCIONES A LOS BANDOS DE POLICIA Y BUEN GOBIERNO
+### CAPITULO II. DEL PROCEDIMIENTO POR INFRACCIONES A LOS BANDOS DE POLICIA Y GOBIERNO
 
 ###### ARTICULO 200.
 
 En todos los municipios del Estado deberán existir Juzgados Calificadores, con las siguientes atribuciones:
 
-I.- Conocer de las faltas de policía y buen gobierno, dentro de la circunscripción territorial que les corresponda, poniendo a disposición de las autoridades competentes, en los casos de flagrancia, a los probables responsables;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
-II.- Resolver sobre la responsabilidad de los presuntos infractores de faltas de policía y buen gobierno, que sean puestos a su disposición;
+I.- Conocer de las faltas al Bando de Policía y Gobierno, dentro de la circunscripción territorial que les corresponda, poniendo a disposición de las autoridades competentes, en los casos de flagrancia, a los probables responsables;
 
-III.- Aplicar las sanciones establecidas en la presente ley y en los Bandos de Policía y Buen Gobierno o suspenderlas, en su caso;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+II.- Resolver sobre la responsabilidad de los presuntos infractores por faltas al Bando de Policía y Gobierno, que sean puestos a su disposición;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+
+III.- Aplicar las sanciones establecidas en la presente ley y en los Bandos de Policía y Gobierno o suspenderlas, en su caso;
 
 IV.- Ejercitar de oficio las funciones conciliatorias cuando de la falta cometida deriven daños y perjuicios que deban reclamarse por la vía civil y, cuando no se obtenga la reparación, dejar a salvo los derechos del ofendido;
 
@@ -1715,13 +1945,17 @@ VI.- Tener a su disposición a los miembros de la policía preventiva adscritos 
 
 VII.- Las demás que le confieran esta ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 201.
 
-Para el conocimiento de las faltas de policía y buen gobierno y para la aplicación de las sanciones administrativas, los Jueces Calificadores tendrán la competencia territorial que determinen los Ayuntamientos, pudiendo designarse a más de un juez, siempre que se delimiten claramente sus funciones y sus áreas de competencia.
+Para el conocimiento de las faltas al Bando de Policía y Gobierno y para la aplicación de las sanciones administrativas, los Jueces Calificadores tendrán la competencia territorial que determinen los Ayuntamientos, pudiendo designarse a más de un juez, siempre que se delimiten claramente sus funciones y sus áreas de competencia.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 202.
 
-Será competente para conocer de las faltas de policía y buen gobierno, el Juez Calificador del lugar donde se hayan cometido.
+Será competente para conocer de las faltas al Bando de Policía y Gobierno, el Juez Calificador del lugar donde se hayan cometido.
 
 ###### ARTICULO 203.
 
@@ -1749,9 +1983,13 @@ Corresponde a los Ayuntamientos, a propuesta de sus Presidentes Municipales, la 
 
 Los Ayuntamientos emitirán las disposiciones de observancia general, a las que los Juzgados Calificadores, deberán sujetar su actuación.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 207.
 
-Cuando los Ayuntamientos de los municipios del Estado lo determinen, las funciones que la presente ley y sus disposiciones reglamentarias confieran a los Jueces Calificadores, podrán ser desempeñadas por el Secretario del Ayuntamiento.
+Las funciones que la presente ley y sus disposiciones reglamentarias confieran a los Jueces Calificadores, podrán ser desempeñadas por el Secretario del Ayuntamiento o por los Comisarios y Delegados Municipales, en sus respectivas jurisdicciones, en los términos de la Ley de Gobierno y Administración Municipal.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. DE LOS RECURSOS CONTRA LAS RESOLUCIONES DE LOS JUECES CALIFICADORES
 
@@ -1799,9 +2037,11 @@ El procedimiento ante el Juez Calificador se substanciará oralmente, en una aud
 
 En todos los casos, se hará saber fehacientemente al ofendido y al presunto infractor del derecho que tienen de que se les oiga en el procedimiento, por si o por persona de su confianza.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 213.
 
-El juicio en materia de faltas de policía y buen gobierno, se substanciará en una sola audiencia, que sólo podrá posponerse por una sola vez, a fin de permitir al presunto infractor la presentación de pruebas de descargo. En la audiencia, el juez oirá primeramente a la parte afectada o al que la represente y posteriormente al presunto infractor o a quien lo defienda.
+El juicio en materia de faltas al Bando de Policía y Gobierno se substanciará en una sola audiencia, misma que sólo podrá posponerse por una sola vez, a fin de permitir al presunto infractor la presentación de pruebas de descargo. En la audiencia, el Juez escuchará primeramente a la parte afectada o al que la represente y, posteriormente, al presunto infractor o a quien lo defienda.
 
 Las partes podrán, en su comparecencia, ofrecer las pruebas que estimen necesarias, las que serán admitidas y desahogadas por el Juez Calificador, cuando sean trascendentes para los fines del procedimiento.
 
@@ -1920,3 +2160,19 @@ Comuníquese al Ejecutivo para su sanción y promulgación.-
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 26 de Diciembre de 1996.- DIPUTADO PRESIDENTE.- C. SERGIO CUELLAR YESCAS.- RUBRICA.- DIPUTADO SECRETARIO.- C. JOSE RUBEN MORENO VALDEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. JULIA ASTRID TAPIA GRANILLO.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, a treinta de diciembre de mil novecientos noventa y seis.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE MAYO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en le (sic) Boletín oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los procedimientos en trámite ante las instancias mencionadas en esta Ley se seguirán conforme a las disposiciones vigentes al momento de su iniciación.
+
+###### ARTICULO TERCERO.
+
+Dentro de los siguientes 60 días, contados a partir de la entrada en vigor del presente Decreto, el Consejo Estatal y los Consejos Municipales de Seguridad Pública, el Consejo del Instituto de Seguridad Pública del Estado y las Juntas de Honor, Selección y Promoción, deberán integrarse conforme lo dispone la presente reforma.
