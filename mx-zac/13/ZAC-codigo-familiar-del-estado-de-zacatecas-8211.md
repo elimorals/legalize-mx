@@ -1,0 +1,4094 @@
+---
+title: "CODIGO FAMILIAR DEL ESTADO DE ZACATECAS"
+identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
+country: "mx"
+rank: "codigo"
+publication_date: "1986-05-10"
+last_updated: "1986-05-10"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-zac"
+scjn_id: "8211"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "CODIGO"
+original_gazette_section: "38 SUPLEMENTO"
+reform_count: "37"
+scjn_last_update: "2026-08-22"
+issue_date: "1986-05-05"
+state: "ZAC"
+---
+# CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
+
+CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
+
+TEXTO ORIGINAL.
+
+Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
+
+JOSE GUADALUPE CERVANTES CORONA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
+
+Que los CC. Diputados Secretarios de la H. Quincuagésima Primera Legislatura del Estado se han servido dirigirme el siguiente
+
+DECRETO Núm. 237
+
+LA H. QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS:
+
+CONSIDERANDO PRIMERO.- Que el derecho de familia es el conjunto de normas que tiene por objeto estructurar la organización, funcionamiento y disolución de esa sociedad primera, y que su regulación ha estado tradicionalmente comprendida en nuestros códigos civiles no obstante que para ello se carece de una verdadera fundamentación científica, de modo que no se separan adecuadamente las cuestiones relativas a personas de las que corresponden a bienes y obligaciones, ha llegado el momento de integrar lo que en justicia ha de ser un derecho autónomo de familia.
+
+CONSIDERANDO SEGUNDO.- Que en nuestro país los códigos civiles de 1870 y 1884 reglamentan no sólo los derechos de familia, sino algunas áreas del derecho que ahora son estimadas como derecho público y derecho social, que constituyen nuevas ramas del derecho, como lo son el agrario, el laboral, el forestal, el de aguas federales, el de minas, y otras. De esta manera, el viejo y robusto tronco del derecho privado, del derecho civil, ha sido objeto, no de mutilaciones que pudieran aniquilarlo, de atinadas podas que le han dado consistencia, que lo han hecho reverdecer para que el legislador se preocupe por la reglamentación adecuada de lo que es esencialmente derecho civil. Este marco no implica una separación definitiva del tronco común, como los hombres no podemos separarnos definitivamente de nuestra alma mater, a la que seguimos ligados con lazos invisibles permanentes. Estas separaciones son irreversibles, como la del derecho mercantil, agrario y laboral, que cada día se enriquecen, crecen, se profundizan en la reglamentación adecuada de todas las cuestiones concernientes a sus respectivas áreas.
+
+CONSIDERANDO TERCERO.- Que entendemos como derecho social el conjunto de normas que rigen los derechos y obligaciones de los miembros de la comunidad humana. Podemos afirmar que, en México, las primeras manifestaciones del derecho social se objetivan en la Ley del Divorcio de 1914, en la primera Ley Agraria de 1915, en la Ley sobre Relaciones Familiares del 1o. de mayo de 1917, que estuvo vigente en nuestra entidad, desde 1919 hasta 1966, año en que entró en vigor el actual Código Civil al que fueron incorporados los derechos de familia.
+
+CONSIDERANDO CUARTO.- Que debe estimarse que la Ley de Relaciones Familiares, promulgada por Venustiano Carranza, fue la primera en determinar la separación de los derechos de familia del Código Civil. Su aplicación trajo beneficios al pueblo de México en cuestiones básicas para la familia. Por eso, México no debe perder la vanguardia en esta materia.
+
+CONSIDERANDO QUINTO.- Que existen fundadas discrepancias en la doctrina respecto de si los derechos de familia son normas de derecho público, de derecho privado, o si es un derecho social, pero los derechos de familia constituyen una forma autónoma del derecho civil porque tienen autonomía científica, desde el momento en que están constituidos por instituciones privativas, instituciones que le son innegablemente propias; porque tienen autonomía jurisdiccional, por cuanto la Suprema Corte de Justicia se ha reservado la competencia para la solución de los principales problemas planteados en amparos directos por cuestiones familiares.
+
+En conclusión, estimamos que resulta congruente aspirar a la autonomía legislativa mediante la promulgación de los Códigos de Derechos de Familia.
+
+CONSIDERANDO SEXTO.- Que, en un futuro no lejano, no solamente cada entidad federativa tendrá su Código de Derechos de Familia, sino que habrá un Código Federal de Derechos de Familia que incorpore el sentir, las necesidades y la idiosincrasia del complejo mosaico que constituye la realidad nacional. La existencia del Código Federal de Derechos de Familia puede darse, sin perjuicio de que su aplicación sea de jurisdicción concurrente, como acontece con el Código de Comercio.
+
+CONSIDERANDO SÉPTIMO.- Que la elaboración de un Código de Derechos de Familia en forma autónoma no significa que se quiera cambiar a través de una ley la estructura de la familia mexicana, sino que sus principales instituciones prevalecen. Sólo se trata de adecuar a la realidad social la legislación familiar. En ese contexto, se modificaron a fondo, en esta iniciativa, las instituciones del registro civil, las capitulaciones matrimoniales y sus gananciales, el concubinato, la adopción, el patrimonio de familia, los esponsales, la tutela, los alimentos, y otras.
+
+CONSIDERANDO OCTAVO.- Que se relacionan a continuación algunas de las más importantes modificaciones que contiene la iniciativa:
+
+Por Decreto número 195, publicado en el suplemento al número 5 del Periódico Oficial, órgano del Gobierno del Estado, de fecha 16 de enero de 1982, se separó del Código Civil todo lo referente al registro civil de las personas. Estimamos que dicho organismo en el que se asientan los datos relativos al estado civil de las personas, es la institución que nos individualiza, que permite que nos identifiquemos respecto de los demás, pues se refiere a los actos trascendentes del hombre desde su nacimiento hasta la muerte o su presunción; que constituye un registro del estado familiar, con proyección social y política. Por tanto creemos adecuado que todas las disposiciones relativas al registro civil queden insertas en este Código Familiar. Como novedad en esta materia se establece que cuando el registro civil no se verifique dentro del término de noventa días que la ley señala al efecto, el registro pueda hacerse sin trámite alguno si el menor no hubiese cumplido seis años, incurriendo los que deben hacer el oportuno registro sólo en una sanción pecuniaria equivalente de uno a tres días del salario mínimo, a juicio del oficial del registro civil.
+
+En lo concerniente a las capitulaciones matrimoniales, el Código Civil de 1884 preceptuaba que todo matrimonio, salvo pacto en contrario, se entendía celebrado bajo el régimen de sociedad conyugal; la ley sobre relaciones familiares de 1917 establecía que todo matrimonio, salvo pacto en contrario, se entiende celebrado bajo el régimen de separación de bienes; el vigente Código no soluciona el problema sino mediante el precepto específico que establece que los contrayentes en la solicitud de matrimonio expresen bajo cual régimen patrimonial quieren vivir, prevaleciendo, como en las legislaciones anteriores en esta materia, el principio de la autonomía de la voluntad. Este proyecto de ley resuelve el problema con toda claridad en el capítulo quinto de su libro segundo al establecer los regímenes patrimoniales bajo los cuales puede celebrarse el matrimonio.
+
+En relación con las gananciales del matrimonio y del concubinato, debe estimarse equitativo y justo que cuando se obtienen con el esfuerzo común y sólo uno de los cónyuges aparece como titular de ese patrimonio, el otro tiene derecho al cincuenta por ciento de aquéllas, debiendo ocurrir lo mismo respecto de los concubinos. Por idénticas razones, cuando la mujer vive dedicada únicamente a la atención de su hogar, haya o no haya hijos, y no trabaje o colabore con el marido, tiene derecho a esos gananciales.
+
+Conviene reglamentar en forma apropiada el concubinato, para desaparecer la idea generalizada de que se trata de una institución inmoral, deshonesta, inconveniente para la sociedad. El concubinato, como institución del derecho familiar, no puede ser otro que el matrimonio de hecho, no formalizado, o matrimonio por comportamiento. Estos conceptos fundamentales se incorporaron a la presente iniciativa de ley.
+
+Se establece en el proyecto que, a discreción del juez, según lo considere más conveniente para el incapacitado, puede determinar, en los casos de los hijos naturales, que ejerza la patria potestad el padre que reconoció en segundo término, pues actualmente el Código Civil preceptúa que el primero que reconozca a su hijo tendrá derecho al ejercicio de la patria potestad, y, en frecuentes ocasiones, resulta que no es lo más conveniente para el menor.
+
+Se introdujeron modificaciones en la adopción para resolver la problemática que presenta en la práctica esta institución; la innovación más importante consiste en establecer que los parientes del o de los adoptantes lo son del adoptado, con todas las obligaciones y derechos inherentes al parentesco consanguíneo.
+
+También resulta urgente adecuar la reglamentación del patrimonio de familia, que es una institución obsoleta en nuestro medio, debido a la ridícula suma que como monto del mismo señala el Código Civil.
+
+El mayor defecto en que incurre la legislación en vigor consiste en que limita el patrimonio de familia a la casa y a la parcela cultivable; que no se establece si se constituye para la explotación agropecuaria la parcela que sirve de patrimonio de familia; se omiten el menaje de casa, las herramientas de los artesanos, los aperos o maquinaria de labranza, la maquinaria para el uso normal, industrial o agropecuario y, en general, todos aquellos objetos, bienes y derechos cuyos frutos o productos proporcionan a los acreedores alimentistas los elementos materiales necesarios para atender sus necesidades de subsistencia.
+
+La legislación actual incurre en el absurdo de establecer que el terreno que junto con la casa constituye el patrimonio de familia debe distar, inexplicablemente, cuando mucho un kilómetro de la casa habitación.
+
+El monto del valor de los bienes afectos al patrimonio de familia señalado por la ley vigente lo torna inoperante en la práctica, por lo que debe adecuarse al sistema adoptado por el código Distrito Federal y los de casi todas las entidades federativas, señalando como monto máximo del patrimonio de familia el equivalente a tres mil seiscientos cincuenta días del salario mínimo vigente en el momento y en el lugar en que se constituya, valor que será susceptible de incremento periódico en la medida en que aquél lo sea.
+
+La mayoría de las legislaciones, como la del Distrito Federal y otras, no definen el patrimonio de familia, y por este motivo se consigna en la iniciativa una definición incluyendo en ella la posibilidad de que se constituya sobre bienes fungibles, como depósitos en efectivo o a plazo, y acciones, ya que estos bienes en muchos casos constituyen el acervo que sirve al sostenimiento de los miembros de una familia.
+
+En materia de alimentos se determina que las pensiones alimenticias decretadas por sentencia ejecutoria aumenten ipso-jure en la medida y proporción en que haya aumentado el monto del salario mínimo general del lugar en que se tenga que cumplir la obligación.
+
+Se optó por suprimir el capítulo relativo a los esponsales, en atención a que es una institución anacrónica, y a que las partes interesadas muy rara vez optan por sujetarse a su celebración en los términos de ley. Los esponsales constituyen la promesa del matrimonio que se hace por escrito y es aceptada. De ahí que los esponsales no constituyan sino un contrato preparatorio, una promesa de contrato, y esta clase de actos jurídicos están consignados en el Código Civil en el título que se denomina "de los contratos preparatorios. La promesa". De esta manera, aun cuando se supriman los esponsales como promesa de matrimonio, la institución prevalece en las normas relativas a los contratos preparatorios.
+
+Se redujo de dieciséis a catorce años la edad en que el menor puede nombrar su tutor.
+
+Se toman estrictas medidas precautorias para proteger la administración, buen aprovechamiento y conservación de los bienes de los menores que se encuentran en custodia de los que ejerzan la patria potestad o de los tutores.
+
+Fueron disminuidos los términos para la declaración de ausencia y presunción de muerte; sin dejar de tomar todas las providencias necesarias para salvaguardar el patrimonio del ausente, se pretende que haya mayor agilidad en el procedimiento, ya que debido a los largos plazos existentes en el Código Civil es muy raro encontrar la tramitación de esta clase de juicio.
+
+Se incorporan normas para regular el nombre que la mujer elegirá al celebrarse el matrimonio.
+
+Se define a la familia y se determina su naturaleza jurídica.
+
+Se crean los consejos de familia como órganos auxiliares de la administración de la justicia familiar. Sirven para orientar e instruir el criterio judicial, fundando sus opiniones en los dictámenes técnicos de sus miembros.
+
+Se estatuye que el sistema estatal para el desarrollo integral de la familia deberá encargarse de la protección de los inválidos, niños y ancianos cuando estén desamparados.
+
+Se determina el establecimiento de centros de planificación familiar y control de la natalidad, para instruir sobre estas cuestiones a las personas que lo soliciten; se enfatiza el concepto de la paternidad responsable; se establece categóricamente que el control de la natalidad es un derecho inviolable de la pareja interesada, ya que debe ser orientada respecto a los procedimientos permitidos por la ley que deben emplearse para evitar la concepción; se señala que estos procedimientos son confidenciales y que los expedientes personales que se formen al efecto podrán ser destruidos a petición del interesado.
+
+Por lo anteriormente expuesto, en nombre del pueblo es de decretarse y se
+
+DECRETA:
+
+CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
+
+# LIBRO PRIMERO
+
+## TITULO PRIMERO
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+###### ARTICULO 1.
+
+Las normas del derecho de familia son de carácter social y tutelares substancialmente de la mujer, de los menores, de los mayores incapacitados y de los ancianos.
+
+###### ARTICULO 2.
+
+Se reconoce a la familia como base en la integración de la sociedad y del Estado.
+
+###### ARTICULO 3.
+
+La familia es una institución político-social, permanente, constituida por un conjunto de personas, unidas por el vínculo del parentesco, del matrimonio o del concubinato, a la que se le reconoce personalidad jurídica.
+
+###### ARTICULO 4.
+
+El Estado garantiza y protege la constitución, organización, funcionamiento y autoridad de la familia como el mejor medio de lograr el orden y la paz sociales.
+
+###### ARTICULO 5.
+
+El Estado promoverá la organización social y económica de la familia, mediante el vínculo del matrimonio, o del concubinato, al que se reconoce como institución del derecho familiar.
+
+###### ARTICULO 6.
+
+El hombre y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia. Toda persona tiene derecho a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos, tal como lo establece el artículo 4º de la Constitución Federal, sin que por ello se autorice el aborto, salvo en los casos señalados expresamente por la ley. Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores o incapacitados, a cargo de las instituciones públicas.
+
+###### ARTICULO 7.
+
+Las disposiciones de esta ley son de orden público e irrenunciables, y los derechos y obligaciones en ella consignados no pueden ser objeto de convenio, salvo las excepciones señaladas por la ley.
+
+###### ARTICULO 8.
+
+Los extranjeros casados o que contraigan matrimonio o vivan en concubinato, domiciliados en el Estado, quedan sujetos a las disposiciones de esta ley por lo que toca a los bienes que posean y a los efectos que en relación con los mismos producen el matrimonio y el concubinato.
+
+## TITULO SEGUNDO
+
+### CAPITULO UNICO. DEL REGISTRO CIVIL
+
+DISPOSICIONES GENERALES
+
+###### ARTICULO 9.
+
+El Registro Civil es la institución de carácter público y de interés social, por la cual el Estado inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas físicas o individuales en lo que corresponde a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del Estado; así como la inscripción de las sentencias ejecutorias que ordenen la rectificación de los asientos, declaren la ausencia, la presunción de muerte o la pérdida de la capacidad para administrar bienes, y los demás actos que así lo exijan las leyes.
+
+###### ARTICULO 10.
+
+El Registro Civil, mediante la inscripción de los actos constitutivos o modificativos del estado civil de las personas, al darles publicidad, hará que surtan efectos contra terceros y que hagan prueba plena en todo lo que el oficial del registro civil, en el desempeño de sus funciones, dé fe de haber pasado en su presencia, sin perjuicio de las acciones que en contrario concedan las leyes.
+
+Las declaraciones de los comparecientes hechas en cumplimiento de lo mandado por este Código hacen fe hasta que se pruebe lo contrario.
+
+###### ARTICULO 11.
+
+El Registro Civil está constituido por la Dirección del mismo, su archivo estatal y las oficialías que determine el reglamento respectivo.
+
+###### ARTICULO 12.
+
+La titularidad de las Oficialías del Registro Civil, estará a cargo de los Oficiales que designen los Ayuntamientos Municipales; tendrán fe pública en el desempeño de las labores propias de su cargo.
+
+###### ARTICULO 13.
+
+En el asentamiento de las actas del Registro Civil, intervendrán: el Oficial encargado del mismo, que autoriza y da fe, los particulares que solicitan el acto o hecho, o sus representantes legales, así como los testigos que corroboren el dicho de aquéllos, debiendo firmarlas en el espacio correspondiente junto con las demás personas. El acta deberá ser sellada por la Oficialía.
+
+###### ARTICULO 14.
+
+Las actas del Registro Civil se referirán exclusivamente a los hechos y circunstancias concernientes al estado civil de las personas, establecerán el principio o la extinción de la vida jurídica y acreditarán las relaciones a que se refiere el artículo 9° de esta ley.
+
+###### ARTICULO 15.
+
+No podrá asentarse en las actas por vía de nota marginal o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieran y lo que esté expresamente prevenido por la Ley.
+
+###### ARTICULO 16.
+
+Las actas del Registro Civil, se asentarán en formatos especiales, en los términos que establezca el Reglamento correspondiente. La infracción de esta disposición producirá la inexistencia del acta. Las inscripciones se harán por quintuplicado sin emplear abreviaturas, efectuar raspaduras o borrar lo escrito. Cuando sea necesario testar una palabra ésta quedará legible. En todo lo demás se ajustará a las reglas que establece el Reglamento de esta ley.
+
+###### ARTICULO 17.
+
+Para asentar las actas del Registro Civil, se dispondrá de los formatos adecuados para los siguientes hechos o actos jurídicos: nacimiento, reconocimiento de hijos, matrimonio, divorcio, defunción. Asimismo, la inscripción de las resoluciones ejecutorias que declaren la ausencia, la presunción de muerte, la adopción, la tutela o la emancipación y la pérdida o limitación de la capacidad legal para administrar bienes.
+
+###### ARTICULO 18.
+
+Los formatos del Registro Civil serán expedidos por la Secretaría de Finanzas y Tesorería, que los hará llegar con toda oportunidad a las Recaudaciones de Rentas para su entrega a los interesados.
+
+###### ARTICULO 19.
+
+Una vez asentada el acta, los Oficiales del Registro Civil remitirán dos ejemplares al Archivo Estatal del mismo, otro a la Dirección General de Población de la Secretaría de Gobernación y un ejemplar al interesado; el original quedará en el archivo de la Oficialía.
+
+###### ARTICULO 20.
+
+Si se perdiera o destruyera alguno de los formatos en que se encuentra asentada un acta, se obtendrá copia de alguno de los otros ejemplares, bajo la responsabilidad del Oficial, del Director o del encargado del archivo estatal del Registro Civil. El titular de la oficina en que ocurra la pérdida dará aviso al superior en la forma que establezca el Reglamento respectivo.
+
+###### ARTICULO 21.
+
+Los Oficiales integrarán con las actas del Registro Civil libros por cada institución y por año, separadamente, y formarán los apéndices respectivos.
+
+###### ARTICULO 22.
+
+Toda persona puede solicitar copia certificada de los actos del Registro Civil o de los documentos del apéndice; el Director, los Oficiales y el Jefe del archivo están obligados a expedirla.
+
+###### ARTICULO 23.
+
+El estado civil de las personas sólo se comprueba con las actas del Registro Civil, sus copias certificadas o los documentos del apéndice; ningún otro medio de prueba es admisible para ese objeto, salvo los casos expresamente consignados en esta ley o en el Código Civil vigente en el Estado.
+
+###### ARTICULO 24.
+
+Cuando no hayan existido registros, se hubieren perdido, fueren ilegibles o faltare el acta en que se suponga se encontraba la inscripción, sólo podrá probarse el acto en la forma y términos que establezca el Código de Procedimientos Civiles. El asentamiento del acta sólo procederá por sentencia firme.
+
+###### ARTICULO 25.
+
+Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil, podrán solicitar de éste que acuda al lugar en que se encuentren o podrán hacerse presentar por mandatario especial para el acto, mediante instrumento privado otorgado ante dos testigos. En el caso de matrimonio o de reconocimiento de hijos será necesario el otorgamiento del poder, en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos, ratificadas las firmas y el texto ante el Notario Público, el Juez competente o el Juez Municipal por faltar, en su orden.
+
+###### ARTICULO 26.
+
+Los testigos que intervengan en los actos del Registro Civil deberán ser mayores de edad y se preferirá a los parientes de los interesados. Asentándose en el acta su nacionalidad, sus nombres, edades, domicilios, estado civil y demás generales.
+
+###### ARTICULO 27.
+
+La falsedad del acto inscrito y la nulidad de las actas del Registro Civil deberán declararse judicialmente y, en su caso, causarán la destitución del Oficial del Registro Civil o del funcionario que lo supla; sin perjuicio de las penas correspondientes al delito de falsedad, así como del pago de la indemnización por daños y perjuicios causados.
+
+###### ARTICULO 28.
+
+Los Oficiales del Registro Civil serán suplidos en sus faltas temporales por los Presidentes Municipales, y cuando éstos ejerzan por ministerio de ley las funciones de aquéllos la suplencia la harán las personas que los sustituyan legalmente.
+
+###### ARTICULO 29.
+
+Para acreditar el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se inscriban en cualquiera oficina del Registro Civil de la República, conforme a las leyes del lugar en que se efectúe tal registro, y a lo dispuesto por la fracción X del artículo 283 del Código de Procedimientos Civiles vigente en el Estado.
+
+###### ARTICULO 30.
+
+La Dirección del Registro Civil supervisará las actuaciones de los Oficiales, ejerciendo las facultades que señale el Reglamento.
+
+###### ARTICULO 31.
+
+Las anomalías que haya en las actas sujetan al Oficial del Registro a las correcciones disciplinarias que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto a menos que se pruebe judicialmente la falsedad de éstos.
+
+###### ARTICULO 32.
+
+Para la inscripción de los actos del Registro Civil dispondrán los interesados del plazo que esta ley señala en forma específica para cada caso.
+
+###### ARTICULO 33.
+
+En las actas del Registro Civil se asentarán las anotaciones que relacionen el acto con los demás que estén inscritos en relación con la misma persona, y las demás que establezca la ley.
+
+###### ARTICULO 34.
+
+Los actos y actas del estado civil del propio Oficial, de su cónyuge o concubino, ascendientes y descendientes de cualquiera de ellos no podrán autorizarse por el citado Oficial; se asentarán en las formas correspondientes, que serán autorizadas por el Oficial de la adscripción más próxima.
+
+## TITULO TERCERO. DE LAS ACTAS
+
+### CAPITULO PRIMERO. DE LAS ACTAS DE NACIMIENTO
+
+###### ARTICULO 35.
+
+Las declaraciones de nacimiento se harán presentando a la persona ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél.
+
+###### ARTICULO 36.
+
+Tienen obligación de declarar el nacimiento el padre y la madre conjunta o separadamente, dentro del término de noventa días siguientes a la fecha en que haya ocurrido.
+
+Si el registro no se hiciere dentro del término a que se refiere el párrafo que antecede y se tratare de un menor de seis años podrá hacerse extemporáneamente y el solicitante será sancionado con una multa de uno a tres días de salario mínimo vigente en el lugar y la fecha en que se pretenda hacer el registro. En los demás casos se estará a lo dispuesto en el artículo veinticuatro de esta Ley.
+
+###### ARTICULO 37.
+
+El acta de nacimiento contendrá la hora, día, mes, año y lugar en que ocurrió, así como el sexo, la impresión digital del pulgar derecho o en su caso, del pie derecho en su integridad sin que por motivo alguno pueda omitirse. Igualmente se asentará si es presentado vivo o muerto; nombre, edad, domicilio, estado civil y nacionalidad de los padres, de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos. Si la presentación la realiza una persona distinta a los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
+
+###### ARTICULO 38.
+
+Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres, se asentarán los nombres propios, salvo sentencia judicial ejecutoriada en contrario.
+
+###### ARTICULO 39.
+
+En los lugares en que no haya Oficial del Registro Civil el niño será presentado al Agente del Registro Civil o a la persona que ejerza la autoridad política y ésta dará la constancia respectiva, que los interesados llevarán al Oficial Registrador que corresponda, para que asiente el acta. La constancia sólo acreditará la presentación oportuna del niño.
+
+###### ARTICULO 40.
+
+Cuando no se presente la copia certificada del acta de matrimonio, sólo se asentará el nombre del padre o de la madre, o el de ambos si concurrieren. La madre no tiene derecho de dejar de reconocer a su hijo, tiene obligación de que su nombre figure en el acta de nacimiento de éste. Si al hacerse la presentación son se da el nombre de la madre se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ente los Tribunales de acuerdo con las disposiciones de este Código.
+
+###### ARTICULO 41.
+
+Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, podrán proceder de acuerdo con lo dispuesto por el artículo veinticinco de esta ley. En el lugar en que se levante el acta se recibirá la petición de que se mencionen el o los nombres de los interesados.
+
+###### ARTICULO 42.
+
+En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testarán de oficio dichas palabras por quien tenga a su cargo el levantamiento.
+
+###### ARTICULO 43.
+
+Se prohíbe absolutamente al Oficial del Registro Civil y a los testigos que conforme a este ley deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deban declarar las personas que presenten al niño, bajo protesta de decir verdad.
+
+###### ARTICULO 44.
+
+Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Registro Civil, con los vestidos, valores o cualesquiera otros objetos encontrados en él y declarará la hora, el día, mes y año en que lo hubiere hallado, dándose la debida intervención al Ministerio Público.
+
+###### ARTICULO 45.
+
+La misma obligación tienen los Jefes, Directores o Administradores de los establecimientos penitenciarios, o de cualquiera casa de comunidad, especialmente de los hospitales, casas de maternidad y casas de cuna respecto de los niños expuestos en ellos.
+
+###### ARTICULO 46.
+
+En las actas que se levanten en estos casos, se expresarán las circunstancias que indica el artículo cuarenta y cuatro, la edad aparente del niño, el nombre y apellidos que se le pongan y el nombre de la persona o institución que se encargue de él.
+
+###### ARTICULO 47.
+
+Si con el expósito se hubieren encontrado papeles, alhajas y otros objetos que puedan conducir a su identificación, el Oficial del Registro Civil ordenará su depósito, ante el Ministerio Público respectivo, en la institución que corresponda, mencionando todo ello en el acta que asiente, y dando formal recibo de ellos al que lo recoja.
+
+###### ARTICULO 48.
+
+Si al dar aviso de un nacimiento se comunicara también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción.
+
+###### ARTICULO 49.
+
+Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, haciéndose constar las particularidades que los distingan y quién nació primero según las noticias que sean comunicadas al Registro Civil por el médico, el cirujano o las personas que hayan asistido al parto.
+
+### CAPITULO SEGUNDO. DE LAS ACTAS DE RECONOCIMIENTO
+
+###### ARTICULO 50.
+
+El acta de nacimiento surte sus efectos de reconocimiento del hijo en relación a los progenitores que hubieren comparecido al levantamiento de la misma.
+
+###### ARTICULO 51.
+
+En el reconocimiento hecho con posterioridad al registro del nacimiento de un hijo, es necesario recabar previamente su consentimiento, si es mayor de edad; si es menor de edad pero mayor de catorce años, su consentimiento y el de la persona que lo tenga bajo su custodia y lo represente legalmente; si es menor de catorce años, sólo el consentimiento expreso de quienes ejerzan sobre él la custodia o representación legal.
+
+###### ARTICULO 52.
+
+El acta de reconocimiento contendrá: Nombre, apellidos, fecha y lugar de nacimiento; domicilio y nacionalidad de quien lo formule; nombre, apellidos, nacionalidad de los abuelos, padres del reconocedor; nombre, apellidos, estado civil, domicilio, nacionalidad y parentesco de la persona o personas que otorguen el consentimiento, en su caso; nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
+
+###### ARTICULO 53.
+
+Si el reconocimiento se hace por alguno de los otros medios establecidos por este Código se presentará copia certificada del documento al Oficial del Registro Civil, para que inserte la parte relativa del mismo en el acta, observándose las demás prescripciones de este Capítulo.
+
+###### ARTICULO 54.
+
+Si el reconocimiento se hiciere en Oficialía diferente de aquella en que se levantó el acta de nacimiento, se enviará copia certificada de la misma al Oficial correspondiente para que haga su anotación.
+
+###### ARTICULO 55.
+
+La omisión del registro en el caso del artículo cincuenta y tres, no quita los efectos legales al reconocimiento conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en la sanción que imponga el Juez ante quien se haga valer el reconocimiento.
+
+### CAPITULO TERCERO. DE LAS ACTAS DE ADOPCION
+
+###### ARTICULO 56.
+
+Dictada la resolución judicial definitiva que autoriza la adopción, el Juez que conoció del procedimiento remitirá a los Oficiales del Registro Civil de los domicilios del o de los adoptantes y del adoptado copia certificada de la misma, a efecto de que asiente el acta respectiva. La remisión deberá hacerse dentro del término de cinco días en que se ha declarado la resolución definitiva.
+
+###### ARTICULO 57.
+
+La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable a lo dispuesto por el artículo veintisiete de este Código.
+
+###### ARTICULO 58.
+
+El acta de adopción contendrá el nombre, apellidos, edades y domicilios del adoptante o adoptantes y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+
+###### ARTICULO 59.
+
+Extendida el acta de la adopción, se anotará la del nacimiento del adoptado y se archivará la copia de las diligencias relativas, bajo el mismo número del acta de adopción.
+
+###### ARTICULO 60.
+
+El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirán dentro del término de ocho días contados desde la fecha en que causó estado, copias certificadas de su resolución a los Oficiales del Registro Civil del domicilio del o de los adoptantes y del adoptado, para que cancelen las actas de adopción y anoten en la de nacimiento del adoptado.
+
+### CAPITULO CUARTO. DE LAS ACTAS DE LA TUTELA Y EMANCIPACION
+
+###### ARTICULO 61.
+
+Pronunciado el auto de discernimiento de la tutela y cumplidas las formalidades que prevenga el Código de Procedimientos Civiles, el Juez que la confirió lo hará saber, al Oficial del Registro Civil que corresponda para que asiente el acta respectiva.
+
+###### ARTICULO 62.
+
+El acta insertará en su integridad la resolución por la que se confirió la tutela. Contendrá además:
+
+I. La clase de incapacidad por la que se haya deferido la tutela;
+
+II. Los nombres y demás generales de las personas que hayan tenido al incapacitado bajo su patria potestad, antes del discernimiento de la tutela;
+
+III. El nombre, apellido, edad, profesión y domicilio del tutor; y
+
+IV. La garantía que hubiere dado el tutor, con la expresión del nombre, apellidos y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes si consiste en hipoteca o prenda.
+
+###### ARTICULO 63.
+
+Asentada el acta de tutela, se anotará en la de nacimiento del incapacitado, observándose para el caso lo dispuesto en el artículo cincuenta y cuatro de este Código.
+
+###### ARTICULO 64.
+
+Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del Juez que la autorizó. Se anotará el acta de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la misma, el número y la foja del acta respectiva. Si la resolución que decreta la emancipación no se registrase se estará a lo dispuesto por el artículo cincuenta y cinco de esta Ley.
+
+### CAPITULO QUINTO. DE LAS ACTAS DE MATRIMONIO
+
+###### ARTICULO 65.
+
+Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del lugar del domicilio de cualesquiera de ellas, en el que expresarán:
+
+I. Los nombres, apellidos, nacionalidad, edades, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos, cuando alguno de los pretendientes o los dos hayan sido casados, se expresarán también el nombre y apellidos de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+
+II. Que no tienen impedimento legal para casarse;
+
+III. Que es su voluntad unirse en matrimonio; y
+
+IV. Bajo qué régimen matrimonial desean celebrar su matrimonio.
+
+###### ARTICULO 66.
+
+Al escrito a que se refiere el artículo anterior se acompañarán:
+
+I. El acta de nacimiento de los pretendientes o en su defecto, un dictamen médico que compruebe su edad cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+
+II. La constancia de que prestan su consentimiento para que el matrimonio se formalice, las personas que, en su caso ejerzan sobre ellos la patria potestad o los tengan bajo su custodia;
+
+III. La declaración de dos testigos mayores de edad, que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos por cada uno de ellos;
+
+IV. Un certificado suscrito por un médico titulado que asegure bajo protesta de decir verdad, que los pretendientes no padecen sífilis, ni enfermedad alguna crónica incurable y que sea, además contagiosa y hereditaria.
+
+Para los indigentes, tienen obligación de extender gratuitamente este certificado los médicos encargados de la salud, de carácter oficial;
+
+V. El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio; en el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio aún so pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio.
+
+Al formalizarse el convenio se tendrá en cuenta lo que dispongan las leyes que regulen las capitulaciones matrimoniales, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber al efecto.
+
+Si fuere necesario conforme a derecho que el convenio conste en escritura pública, se acompañará el testimonio notarial de la misma.
+
+VI. Copia certificada del acta de defunción del cónyuge fallecido, si alguno de los cónyuges es viudo; o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en el caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
+
+VII. Copia certificada de la dispensa de impedimentos si los hubo.
+
+###### ARTICULO 67.
+
+En el caso de que los pretendientes, por falta de conocimiento no puedan redactar el convenio a que se refiere la fracción quinta, del artículo anterior lo redactará el Oficial del Registro Civil con los datos que los mismos pretendientes le suministren.
+
+###### ARTICULO 68.
+
+El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores hará que los pretendientes y ascendientes o tutores que deban prestar su consentimiento reconozcan ante él, por separado, sus firmas. Las declaraciones de los testigos a que se refiere la fracción tercera del artículo sesenta y seis serán ratificadas, bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de las firmas que calcen el certificado médico, ordenando la ratificación correspondiente ante su presencia.
+
+###### ARTICULO 69.
+
+El matrimonio se celebrará dentro de los ocho días siguientes en el lugar, día y hora que señale el Oficial del Registro Civil de acuerdo con los pretendientes.
+
+###### ARTICULO 70.
+
+En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes ante el Oficial del Registro Civil los pretendientes o sus apoderados, constituidos en la forma prevenida por el artículo veinticinco y dos testigos por cada uno de ellos que acrediten su identidad.
+
+Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud del matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio con el otro; si están conformes los declarará unidos en nombre de la ley y de la sociedad, dirigiéndoles una exhortativa acerca de las finalidades del matrimonio.
+
+###### ARTICULO 71.
+
+Se levantará luego el acta de matrimonio en la cual se hará constar:
+
+I. Los nombres, apellidos, nacionalidad, edades, ocupaciones, domicilios y lugares de nacimiento de los contrayentes;
+
+II. Si son mayores o menores de edad;
+
+III. Los nombres, apellidos, nacionalidad, ocupación y domicilio de los padres;
+
+IV. El consentimiento de estos últimos, de los abuelos o tutores en su caso, o el de las autoridades que deban suplirlos;
+
+V. Que no hubo impedimento para el matrimonio o que, habiéndolo, se dispensó;
+
+VI. La declaración de los pretendientes de que es su voluntad unirse en matrimonio. El Oficial, en nombre del Estado y de la sociedad hará, a su vez, la declaración de haber quedado unidos los contrayentes;
+
+VII. La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
+
+VIII. Los nombres, apellidos, nacionalidad, edades, estado civil, ocupación y domicilio de los testigos su declaración sobre si son parientes de los contrayentes; si lo son, en qué grado y en qué línea; y
+
+IX. Que se cumplieron las formalidades exigidas por el artículo anterior.
+
+El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si supiesen o pudiesen hacerlo; en caso de que alguno de ellos no supiere o no pudiere hacerlo, se asentará tal circunstancia.
+
+Finalmente, se imprimirán las huellas digitales de los contrayentes.
+
+###### ARTICULO 72.
+
+La celebración conjunta de matrimonio no exime al Oficial del cumplimiento estricto de las solemnidades y formalidades que esta Ley exige para la validez del acto.
+
+###### ARTICULO 73.
+
+Sólo por denuncia firme de la existencia de algún impedimento legal para contraer matrimonio, respecto de uno u otro de los pretendientes, o de ambos, hecha por escrito y en la presencia de dos testigos podrá suspenderse el acto, en este caso se levantará acta en la que se asiente el nombre, edad, estado civil, ocupación y domicilio del denunciante insertándose al pie de la letra la denuncia que firmarán los testigos y se remitirá original al Juez de Primera Instancia competente para que se haga la calificación del impedimento.
+
+###### ARTICULO 74.
+
+Si ante el Juez se demostrare la falsedad de la imputación el denunciante quedará sujeto a las sanciones que señale el Código Penal vigente en el Estado.
+
+###### ARTICULO 75.
+
+Antes de remitir el acta al Juez competente, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el problema cause ejecutoria y le sea notificada.
+
+###### ARTICULO 76.
+
+Denunciado el impedimento del matrimonio éste no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+
+###### ARTICULO 77.
+
+Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuviere noticia de que alguno de los pretendientes o ambos carecen de aptitud legal para celebrarlo.
+
+###### ARTICULO 78.
+
+El Oficial del Registro Civil que reciba una solicitud de matrimonio está plenamente autorizado para exigir a los pretendientes, bajo protesta de decir verdad todas las declaraciones que estime pertinentes a fin de asegurarse de su autenticidad, de la identidad de quienes las producen y de su aptitud para contraer matrimonio.
+
+También podrá exigirse declaración bajo protesta a los testigos que los interesados presenten; o a las personas que figuren como padres o tutores de los pretendientes y a los médicos que suscriban el certificado exigido en la fracción cuarta del artículo sesenta y seis de esta Ley.
+
+### CAPITULO SEXTO. DE LAS ACTAS DE DIVORCIO
+
+###### ARTICULO 79.
+
+Ejecutoriada la sentencia de divorcio, el Juez remitirá copia certificada de la misma al Director y al Oficial del Registro Civil que corresponda, quien levantará el acta respectiva.
+
+###### ARTICULO 80.
+
+El acta de divorcio contendrá nombres, apellidos, edades, domicilios y nacionalidades de los divorciados, así como los datos de situación de las actas de nacimiento y matrimonio de los mismos, los puntos resolutivos de la sentencia judicial, fecha de la misma, Autoridad que la dictó y fecha en que causó ejecutoria.
+
+###### ARTICULO 81.
+
+Extendida el acta se anotarán en las de nacimiento y matrimonio de los divorciados. La copia de la sentencia se archivará con el mismo número del acta de divorcio.
+
+### CAPITULO SEPTIMO. DE LAS ACTAS DE DEFUNCION
+
+###### ARTICULO 82.
+
+Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil que corresponda, quien se asegurará suficientemente del fallecimiento, recabándose el certificado expedido por el médico legalmente autorizado para ello. No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto los casos en que se ordene otra cosa por la Autoridad competente.
+
+###### ARTICULO 83.
+
+En el acta de defunción se asentarán los datos que el Oficial del Registro Civil reciba, así como de las declaraciones que se hagan, la cual será firmada por dos testigos, prefiriéndose para el caso a los parientes si los hay, o a los vecinos de la persona fallecida. Esta disposición también se aplicará a los fallecidos en el extranjero.
+
+###### ARTICULO 84.
+
+El acta de defunción contendrá:
+
+I. El nombre, apellido, edad, nacionalidad, sexo y domicilio del difunto;
+
+II. El estado civil de éste, si era casado o viudo, el nombre, apellidos y nacionalidad de su cónyuge o concubino;
+
+III. Los nombres de los padres del difunto;
+
+IV. La causa o motivo que determinó la muerte, el destino del cadáver, nombre y ubicación del panteón o crematorio;
+
+V. La hora, día, mes, año y lugar de la muerte y todos los informes que se tengan en caso de muerte violenta;
+
+VI. Nombre, apellidos, número de cédula profesional y domicilio del médico que certifica la defunción;
+
+VII. Nombre, apellidos, edad, nacionalidad y domicilio del declarante, y grado de parentesco, en su caso, con el difunto; y
+
+VIII. Los nombres, apellidos, edades, nacionalidad y domicilio de los testigos; si fueren parientes del difunto, el grado en que lo sean.
+
+###### ARTICULO 85.
+
+Los que habiten la casa en que ocurra el fallecimiento; los directores o administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad; los encargados de los hoteles, mesones o casas de vecindad, tienen la obligación de dar aviso al Oficial del Registro Civil que corresponda, dentro de las veinticuatro horas siguientes a la en que tenga noticia de la muerte.
+
+###### ARTICULO 86.
+
+Si el fallecimiento ocurriere en un lugar o población donde no existiere Oficialía del Registro Civil, el Agente del Registro Civil o el Delegado Municipal extenderá la constancia respectiva, que tendrá los datos a que se refiere el artículo ochenta y cuatro de esa Ley, y la remitirá al Oficial del Registro Civil que corresponda para que asiente el acta de ley.
+
+###### ARTICULO 87.
+
+Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta dará parte al Ministerio Público comunicándole todos los informes que tenga para que proceda a instaurar la averiguación previa, conforme a derecho.
+
+###### ARTICULO 88.
+
+Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Oficial del Registro Civil correspondiente, para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que se hubieren encontrado con él, y, en general, todo lo que pueda conducir a identificarlo. Si posteriormente se obtienen mayores datos se comunicarán al Oficial del Registro Civil para que los anote.
+
+###### ARTICULO 89.
+
+En los casos de siniestro que haga imposible la identificación de un cadáver, o si se establece la presunción fundada de muerte de alguna persona, el acta contendrá el mayor número de datos posibles que decidieron su levantamiento, considerando lo dispuesto por el artículo 84 de esta Ley.
+
+###### ARTICULO 90.
+
+Cuando una persona falleciere en un lugar que no sea el de su nacimiento se remitirá al Oficial del Registro Civil del lugar que lo sea, copia certificada del acta de defunción para que se haga la anotación en el acta de nacimiento y en las demás que estén relacionadas con la misma.
+
+###### ARTICULO 91.
+
+El Jefe de cualquier puesto o destacamento militar tiene la obligación de dar parte al Oficial del Registro Civil que corresponda, de los muertos que haya habido en campaña o en otro acto del servicio, especificando la filiación de los mismos.
+
+###### ARTICULO 92.
+
+En todos los casos de muerte violenta en los establecimientos de reclusión, no se hará en los registros mención de las circunstancias en que ocurrió. Las actas sólo contendrán los requisitos que prescribe el artículo ochenta y cuatro.
+
+### CAPITULO UNICO
+
+## TITULO CUARTO. DE LA INSCRIPCION DE LAS EJECUTORIAS JUDICIALES RELATIVAS
+
+A LA INCAPACIDAD LEGAL DE ADMINISTRAR BIENES, A LA AUSENCIA O PRESUNCION DE MUERTE
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+###### ARTICULO 93.
+
+Las Autoridades Judiciales que declaren perdida la capacidad legal de alguna persona para que administre bienes, la ausencia o presunción de muerte, remitirán al Oficial del Registro Civil donde exista alguna acta relacionada con el estado civil de la persona referida, testimonio de la resolución ejecutoria para que haga las anotaciones marginales del caso y archive el instrumento con el mismo número del acta.
+
+## TITULO QUINTO. DE LA RECTIFICACION, MODIFICACION Y ACLARACION
+
+DE ACTAS DEL REGISTRO CIVIL
+
+###### ARTICULO 94.
+
+La rectificación o modificación de un acta del Estado Civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un progenitor de su hijo, el cual se sujetará a las prescripciones de este Código.
+
+###### ARTICULO 95.
+
+Ha lugar a pedir la rectificación:
+
+I. Por falsedad, cuando se alegue que el suceso registrado no ocurrió;
+
+II. Por enmienda, cuando se solicite variar un nombre u otra circunstancia esencial.
+
+###### ARTICULO 96.
+
+Pueden pedir la rectificación de un acta del Registro Civil:
+
+I. Las personas de cuyo estado se trate;
+
+II. Las que se mencionan en el acta como relacionadas con el estado civil de alguno;
+
+III. Los herederos de las personas comprendidas en las dos fracciones anteriores;
+
+IV. Las que puedan intentar alguna acción, continuarla o apersonarse en la substanciación de un juicio sucesorio.
+
+###### ARTICULO 97.
+
+El juicio de rectificación de acta se seguirá en la forma y términos que establezca el Código de Procedimientos Civiles.
+
+###### ARTICULO 98.
+
+La sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil y éste hará una referencia de ella al calce del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+
+###### ARTICULO 99.
+
+La aclaración de las actas del estado civil procede cuando en el registro existan errores mecanográficos, ortográficos, o de otra índole que no afecten a los datos esenciales de aquéllas, y podrán tramitarse ante el Oficial del Registro Civil, pero su aprobación por éste no produce efecto alguno sino hasta que notificado el Director, la confirme expresa y fundadamente.
+
+# LIBRO SEGUNDO
+
+## TITULO PRIMERO. GENERALIDADES DEL MATRIMONIO
+
+### CAPITULO SEGUNDO. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
+
+###### ARTICULO 100.
+
+El matrimonio es la unión legítima de un solo hombre con una sola mujer, para procurar la procreación de los hijos y ayudarse mutuamente.
+
+###### ARTICULO 101.
+
+El matrimonio es un acto solemne, debe celebrarse ante el Oficial del Registro Civil y con las formalidades que establece esta Ley.
+
+###### ARTICULO 102.
+
+Es una institución social, derivada de la relación conyugal para crear la familia.
+
+###### ARTICULO 103.
+
+El Estado establece el matrimonio como uno de los medios morales reconocidos por el derecho para fundar la familia. Cualquier condición contraria a los fines esenciales del matrimonio, se tendrá por no puesta.
+
+###### ARTICULO 104.
+
+El que sin causa grave a juicio del Juez rehuse cumplir su promesa de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado, sin perjuicio de que igualmente esté obligado a cubrir la indemnización correspondiente al daño moral y material causado.
+
+###### ARTICULO 105.
+
+La acción a que se refiere el artículo que precede, prescribe dentro de un año, contado desde el día en que debió celebrarse el matrimonio.
+
+### CAPITULO TERCERO. DE LOS IMPEDIMENTOS PARA CONTRAER MATRIMONIO
+
+###### ARTICULO 106.
+
+Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce, el Juez de lo Familiar de la residencia de los interesados puede conceder dispensas de edad, por causas graves y justificadas.
+
+###### ARTICULO 107.
+
+Los menores de edad, no pueden contraer matrimonio sin consentimiento del que o de los que ejerzan la patria potestad. Este derecho lo tiene además la madre, aunque haya contraído segundas nupcias, y si el hijo vive con ella. A falta o por imposibilidad de los padres se necesita el consentimiento de los abuelos que ejerzan la patria potestad, en el orden señalado por la Ley.
+
+###### ARTICULO 108.
+
+Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de lo Familiar de la residencia del menor suplirá el consentimiento.
+
+###### ARTICULO 109.
+
+Los interesados pueden ocurrir a la Autoridad Política superior respectiva cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido; la Autoridad mencionada, después de levantar una información sobre el particular, suplirá o no el consentimiento.
+
+###### ARTICULO 110.
+
+Si el Juez se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados ocurrirán ante el Supremo Tribunal de Justicia del Estado, en los términos que disponga el Código de la materia.
+
+###### ARTICULO 111.
+
+El ascendiente o tutor que ha prestado su consentimiento para que se celebre un matrimonio, firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo a menos que haya causa justa para ello.
+
+###### ARTICULO 112.
+
+Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, a menos que exista justa causa para ello.
+
+###### ARTICULO 113.
+
+El Juez que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento una vez que lo haya otorgado, sino por causa superviniente.
+
+### CAPITULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN
+
+DEL MATRIMONIO
+
+###### ARTICULO 114.
+
+Impedimento es todo hecho que legalmente prohíbe la celebración del matrimonio.
+
+Son impedimentos para contraer matrimonio:
+
+I. La falta de edad requerida por la Ley, cuando no haya sido dispensada;
+
+II. La falta de consentimiento, del que o de los que ejerzan la patria potestad, del tutor o de la autoridad política;
+
+III. El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+
+IV. El parentesco de afinidad en línea recta, sin limitación alguna;
+
+V. El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+
+VI. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
+
+VII. La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+
+VIII. La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes; la esterilidad o impotencia incurable para la cópula; la sífilis incurable y transmisible, la locura y las enfermedades crónicas e incurables que sean además contagiosas o hereditarias;
+
+IX. El idiotismo y la imbecilidad;
+
+X. El matrimonio subsistente con persona distinta de aquella con quien se pretende contraer.
+
+De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en la línea colateral desigual.
+
+###### ARTICULO 115.
+
+El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, mientras dure el lazo jurídico de la adopción.
+
+###### ARTICULO 116.
+
+La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese lapso diere a luz un hijo. En los casos de nulidad o de divorcio se contará ese tiempo desde que se interrumpió la cohabitación.
+
+###### ARTICULO 117.
+
+El tutor no puede contraer matrimonio con la persona que ha estado bajo su guarda, o con la que lo esté todavía a no ser que obtenga dispensa, la que no se concederá por la Autoridad Política Superior respectiva del lugar, sino cuando hayan sido aprobadas las cuentas de la tutela. Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
+
+###### ARTICULO 118.
+
+Si el matrimonio se celebra en contravención de lo dispuesto en el artículo anterior, el Juez nombrará inmediatamente a un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+
+###### ARTICULO 119.
+
+Tratándose de zacatecanos que se casan en el extranjero, dentro de tres meses de su llegada al Estado, se transcribirá el acta de la celebración del matrimonio en la oficina del Registro Civil en que se domicilien los consortes.
+
+Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebró el matrimonio; si se hace después, sólo producirá efectos desde el día en que se hizo la transcripción.
+
+### CAPITULO QUINTO
+
+DEL CONTRATO DE MATRIMONIO CON RELACION A LOS BIENES.
+
+DISPOSICIONES GENERALES
+
+DE LOS REGIMENES PATRIMONIALES, MATRIMONIALES Y CONCUBINARIOS
+
+###### ARTICULO 120.
+
+El matrimonio crea la familia y establece entre los esposos igualdad de derechos y obligaciones.
+
+###### ARTICULO 121.
+
+El matrimonio impone a los cónyuges deberes recíprocos de cohabitación, de fidelidad, asistencia y comunidad de vida.
+
+###### ARTICULO 122.
+
+Por el matrimonio los cónyuges adquieren la obligación de alimentar, mantener, educar, criar y proteger a los hijos.
+
+###### ARTICULO 123.
+
+Los cónyuges tienen derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, en los términos establecidos por la Ley.
+
+###### ARTICULO 124.
+
+Los cónyuges vivirán juntos en el domicilio conyugal. Los Tribunales, con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la Patria, en servicio público o social, o cuando se establezca en un lugar insalubre o indecoroso.
+
+###### ARTICULO 125.
+
+Los cónyuges contribuirán económicamente al sostenimiento de la familia, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos establecidos por la Ley, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a estos gastos.
+
+Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
+
+###### ARTICULO 126.
+
+Los cónyuges deben contribuir con el producto de sus ingresos al sustento de la familia, cualquiera que sea su régimen matrimonial.
+
+###### ARTICULO 127.
+
+Cada uno podrá dedicarse a la profesión u oficio que posean cuando no sea perjudicial a los intereses o estructura familiares, fundamentalmente a la formación de los hijos.
+
+###### ARTICULO 128.
+
+Los cónyuges y los hijos, en materia de alimentos tendrán derecho preferente sobre los ingresos y los bienes de quien tenga a su cargo el sostenimiento económico de la familia. Podrán demandar el aseguramiento de los bienes para hacer efectivos éstos.
+
+###### ARTICULO 129.
+
+El marido y la mujer tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+
+###### ARTICULO 130.
+
+El marido y la mujer menores de edad tendrán la administración de sus bienes, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos, y un tutor para sus negocios judiciales. Cada cónyuge puede disponer libremente de los frutos de su trabajo cumpliendo previamente la obligación de contribuir a los gastos de la familia.
+
+###### ARTICULO 131.
+
+Los cónyuges requerirán autorización judicial para contratar entre ellos, excepto cuando el contrato sea de mandato para pleitos y cobranzas, o para actos de administración.
+
+###### ARTICULO 132.
+
+Se requiere autorización judicial para que el cónyuge sea fiador o aval de su consorte o se obligue solidariamente con él en asuntos de interés exclusivo de cada uno de ellos, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
+
+###### ARTICULO 133.
+
+El contrato de compraventa sólo podrá celebrarse entre los cónyuges, cuando el matrimonio esté sujeto a régimen de separación de bienes.
+
+###### ARTICULO 134.
+
+El marido y la mujer durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+
+### CAPITULO SEXTO. DE LA SOCIEDAD CONYUGAL
+
+###### ARTICULO 135.
+
+El matrimonio puede celebrarse bajo el régimen de sociedad conyugal, bajo el de separación de bienes, o bien régimen mixto.
+
+###### ARTICULO 136.
+
+El hombre y la mujer, al celebrar el matrimonio, conservarán la propiedad y administración de los bienes que respectivamente les pertenezcan; por consiguiente todos los frutos y accesiones de dichos bienes, no serán comunes sino del dominio exclusivo de la persona a quien aquéllos correspondan, salvo lo establecido por esta Ley respecto a los gananciales matrimoniales.
+
+###### ARTICULO 137.
+
+Se llaman capitulaciones matrimoniales a los pactos o acuerdos que los esposos celebren respecto de los bienes que aporten al matrimonio, los que adquieran con motivo de éste o durante su vigencia.
+
+###### ARTICULO 138.
+
+El Oficial del Registro Civil ante quien se celebre el matrimonio, debe asentar en el tenor del acta con toda claridad, el régimen patrimonial por el que opten los esposos; su omisión, determinará que se considere que el matrimonio se celebra bajo el régimen de separación de bienes; sin embargo, salvo pacto en contrario, los cónyuges y concubinos tienen derecho en igual proporción a los gananciales del matrimonio según se establece en este Capítulo.
+
+###### ARTICULO 139.
+
+Se llaman gananciales matrimoniales o concubinarios, a los frutos y provechos que se obtienen con el esfuerzo común de los esposos, en la administración de los bienes comunes o personales, que sirven para el sostenimiento del hogar, y cuidado y educación de los hijos, sin perjuicio de que la propiedad y posesión de tales bienes la conserve quien tiene derecho a ello.
+
+###### ARTICULO 140.
+
+La comunidad de gananciales empieza el día en que se celebre el matrimonio o se inicie el concubinato, salvo convenio en contrario.
+
+###### ARTICULO 141.
+
+Se presume que forman parte de la comunidad legal de gananciales:
+
+I. Los frutos de cualquier especie de los bienes comunes, o de los bienes personales, en los que haya habido administración y trabajo comunes;
+
+II. Las mejoras que los bienes de la comunidad hayan experimentado durante la vida en común. Las donaciones hechas a ambos o a cada uno de ellos en consideración al matrimonio o al concubinato;
+
+III. Los bienes adquiridos con fondos o bienes comunes, o que sean el resultado del trabajo y esfuerzo de ambos.
+
+La esposa o concubina que se dedicare al cuidado o administración de los bienes de cuyos frutos se obtiene lo necesario para el sostenimiento de la familia, pero se dedique a la atención del hogar, hubiere o no hijos, tendrá derecho a los gananciales o utilidades de dichos bienes en un cincuenta por ciento, descontando lo que hubiere sido necesario invertir para el sostenimiento de la familia, educación y atención de ella.
+
+Las disposiciones generales contenidas en este Capítulo son aplicables en lo conducente a los concubinos.
+
+###### ARTICULO 142.
+
+El marido puede conceder a la mujer, de los productos que obtuviere por su trabajo o con sus bienes, una proporción mayor que la que le conceda la mujer respecto de los suyos.
+
+###### ARTICULO 143.
+
+El marido también puede conceder a la mujer, una parte de los productos de su trabajo como profesión, comercio, industria, o de sus bienes, aunque la mujer no desempeñe trabajo alguno ni ejerza determinada profesión, comercio o industria, o carezca de bienes propios.
+
+###### ARTICULO 144.
+
+Los pactos a que se refieren los artículos anteriores, sólo surtirán efectos con relación a tercero si consta en escritura pública, debidamente registrada, si se tratare de bienes raíces y no comprendan más de la mitad de los frutos o productos.
+
+###### ARTICULO 145.
+
+El cónyuge que faltare a lo convenido, dará derecho al otro para pedir el cumplimiento del contrato o su rescisión para lo sucesivo, y el cumplimiento del mismo hasta la fecha de la demanda.
+
+###### ARTICULO 146.
+
+La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios u honorarios, para pagarse de las cantidades que correspondan los alimentos de ella y de sus hijos. También tendrá derecho preferente para igual objeto sobre los bienes propios del marido después de que se paguen con el valor de éstos los créditos hipotecarios o prendarios legalmente establecidos.
+
+###### ARTICULO 147.
+
+El marido tendrá el derecho que a la mujer confiere el artículo anterior, cuando ésta tenga que contribuir en todo o en parte para los gastos de la familia y del hogar.
+
+###### ARTICULO 148.
+
+Si los cónyuges celebraron su matrimonio fuera del Estado de Zacatecas, pero dentro de la República, y adquieren bienes ubicados en el Estado de Zacatecas, la propiedad y administración de estos bienes, estén los consortes domiciliados o no en territorio del Estado, se regirán por lo que dispongan las capitulaciones expresas; o, en su defecto, por las disposiciones de este Código.
+
+### CAPITULO SEPTIMO. DE LA SEPARACION DE BIENES
+
+###### ARTICULO 149.
+
+El régimen de la sociedad conyugal consiste en la formación y administración de un patrimonio común, diferente de los patrimonios propios de los consortes. La sociedad conyugal se rige por las capitulaciones matrimoniales que la constituyan y por las siguientes disposiciones:
+
+I. La sociedad conyugal es una persona jurídica cuya capacidad nace desde el momento de la celebración del matrimonio, cuando las capitulaciones matrimoniales se otorgaron con anterioridad a éste o desde el otorgamiento de tales capitulaciones, si se pactaron con posterioridad;
+
+II. Mientras la sociedad conyugal subsista le corresponde a ella el dominio y posesión de los bienes que formen su patrimonio;
+
+III. Las capitulaciones matrimoniales que se establezcan en la sociedad conyugal, deben contener:
+
+a) El inventario de los bienes que cada consorte lleve a la sociedad, con la expresión de su valor y gravámenes;
+
+b) Nota pormenorizada de las deudas que tenga cada esposo al otorgarse las capitulaciones con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante la sociedad por ambos consortes o por cualquiera de ellos;
+
+c) La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, expresando en este último caso cuáles son los bienes que hayan de entrar en la sociedad;
+
+d) La declaración sobre si los bienes que adquieran ambos cónyuges o uno de ellos después de iniciada la sociedad, pertenecerán a ambos en copropiedad, si serán propios de cada uno de ellos o si entrarán a formar parte del patrimonio de la sociedad, así como la manera de probar su adquisición. Si se omite esta declaración, todos los bienes que existan en poder de cualquiera de ellos al concluir la sociedad se presumen gananciales mientras no se pruebe lo contrario;
+
+e) La declaración de si la sociedad es sólo de ganancias, expresándose pormenorizadamente la parte que a cada uno de ellos ha de corresponder;
+
+f) La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto a otro consorte y en qué proporción;
+
+g) Las reglas para la administración de la sociedad y las bases para su liquidación. Es nula toda la capitulación en la que se establezca que sólo uno de los consortes tendrá derecho a todas las utilidades. No puede renunciarse anticipadamente a las ganancias.
+
+###### ARTICULO 150.
+
+Todo pacto que importe cesión de una parte de los bienes será considerada como donación y quedará sujeto a las disposiciones que rijan este contrato.
+
+###### ARTICULO 151.
+
+La administración de la sociedad corresponde a ambos cónyuges; pero puede convenirse que sólo uno de ellos sea el administrador.
+
+###### ARTICULO 152.
+
+Los actos de dominio sólo podrán realizarse por ambos cónyuges de común acuerdo.
+
+###### ARTICULO 153.
+
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos, pero si éstos o alguno de ellos son menores de edad, el convenio relativo no podrá celebrarse sin autorización judicial.
+
+###### ARTICULO 154.
+
+Puede también terminar la sociedad conyugal durante el matrimonio, a petición de alguno de los cónyuges o por los siguientes motivos:
+
+I. Si el socio administrador por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes;
+
+II. Cuando el socio administrador hace cesión de bienes a sus acreedores o es declarado en quiebra;
+
+III. La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los consortes, por sentencia que declare la presunción de muerte del cónyuge ausente.
+
+###### ARTICULO 155.
+
+En los casos de nulidad, la sociedad se considera subsistente hasta que se pronuncie sentencia ejecutoria si los dos cónyuges procedieron de buena fe.
+
+###### ARTICULO 156.
+
+Cuando sólo uno de los cónyuges tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario, se considerará nula desde el principio.
+
+###### ARTICULO 157.
+
+Si los dos cónyuges procedieron de mala fe, la sociedad se considerará nula desde la celebración del matrimonio o desde la constitución de la sociedad, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
+
+###### ARTICULO 158.
+
+Si la disolución de la sociedad procede de nulidad del matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades. Estas se aplicarán a los hijos y si no los hubiere al cónyuge inocente.
+
+###### ARTICULO 159.
+
+Si los dos procedieron de mala fe, las utilidades se aplicarán a los hijos, y si no los hubiere se repartirán en proporción de lo que cada consorte llevó al matrimonio.
+
+###### ARTICULO 160.
+
+Disuelta la sociedad, se procederá a formar inventario en el cual no se incluirán el lecho, los vestidos ordinarios y los objetos de uso personal de los consortes, que serán de éstos o de sus herederos.
+
+###### ARTICULO 161.
+
+Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social, se devolverán a cada cónyuge los que llevó al matrimonio y el sobrante, si lo hubiere, se dividirá entre los dos consortes en la forma convenida. En caso de que hubiere pérdidas, el importe de éstas se deducirá del haber de cada consorte en proporción a las utilidades que debían corresponderles, y si uno sólo llevó capital, de éste se deducirá la pérdida total.
+
+###### ARTICULO 162.
+
+Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición.
+
+###### ARTICULO 163.
+
+Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes se regirá por lo que dispone el Código de Procedimientos Civiles.
+
+### CAPITULO OCTAVO. DE LAS DONACIONES ANTENUPCIALES
+
+###### ARTICULO 164.
+
+En el régimen de separación de bienes, los cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenecen y los frutos y accesiones de dichos bienes son del dominio exclusivo del dueño de ellos.
+
+###### ARTICULO 165.
+
+La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrarse el matrimonio sino también los que adquieran después. La separación de bienes puede ser absoluta o parcial.
+
+###### ARTICULO 166.
+
+Durante el matrimonio la separación de bienes puede terminar para ser sustituida por la sociedad conyugal, pero si son los consortes menores de edad se precisará autorización judicial.
+
+###### ARTICULO 167.
+
+No será necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes antes de la celebración del matrimonio.
+
+###### ARTICULO 168.
+
+Si se pacta durante el matrimonio, se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
+
+###### ARTICULO 169.
+
+Las capitulaciones que establezcan separación de bienes, siempre contendrán un inventario de los que pertenezcan a cada consorte al celebrar el matrimonio y nota específica de las deudas que al casarse tenga cada uno de los consortes.
+
+###### ARTICULO 170.
+
+En este régimen corresponden a cada propietario, todos los productos y accesiones, salarios, sueldos, emolumentos y ganancias que obtuvieren por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
+
+###### ARTICULO 171.
+
+Los bienes que los cónyuges adquieran en lo personal por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro, pero en este caso el que administre será considerado como mandatario.
+
+###### ARTICULO 172.
+
+Ni el marido podrá cobrar a la mujer ni ésta a aquél retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y el resultado que produjere.
+
+###### ARTICULO 173.
+
+El marido y la mujer que ejerzan la patria potestad se dividirán entre sí por partes iguales la mitad del usufructo que la ley les conceda.
+
+###### ARTICULO 174.
+
+El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+
+### CAPITULO NOVENO. DE LAS DONACIONES ENTRE CONSORTES
+
+###### ARTICULO 175.
+
+Son donaciones antenupciales:
+
+I. Las donaciones que antes del matrimonio hace un prometido a otro; y
+
+II. Las donaciones que un extraño hace a alguno de los prometidos o a ambos, en consideración al futuro matrimonio.
+
+###### ARTICULO 176.
+
+Los prometidos menores de edad pueden hacer donaciones antenupciales; pero sólo con la intervención de sus padres o tutores o con aprobación judicial. Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a lo dispuesto por esta ley.
+
+###### ARTICULO 177.
+
+Las donaciones antenupciales no necesitan, para su validez, de aceptación expresa; pero quedarán sin efecto, si el matrimonio dejare de verificarse.
+
+###### ARTICULO 178.
+
+Las donaciones antenupciales entre los prometidos, aunque fueren varias, no podrán exceder, reunidas, de la sexta parte de los bienes del donante. En el exceso las donaciones serán inoficiosas.
+
+Para calcular si las donaciones antenupciales entre prometidos son inoficiosas, tienen el donatario y sus herederos la facultad de elegir la época en que se hizo la donación o la del fallecimiento del donante; pero si al hacerse la donación no se formó inventario de los bienes del donador, no podrá elegirse la época en que aquélla se otorgó.
+
+Las donaciones antenupciales hechas por un extraño serán inoficiosas en el término que lo fueren las comunes.
+
+###### ARTICULO 179.
+
+Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
+
+Las donaciones antenupciales no son revocables por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a los dos prometidos y que ambos sean ingratos.
+
+###### ARTICULO 180.
+
+Las donaciones antenupciales son revocables por el adulterio o el abandono injustificado del hogar conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
+
+### CAPITULO DECIMO. DE LOS MATRIMONIOS NULOS E ILICITOS
+
+###### ARTICULO 181.
+
+Los consortes pueden hacerse donaciones, si no son contrarias a las reglas que en su caso rijan la sociedad conyugal y si no perjudican el derecho de los ascendientes o descendientes a recibir alimentos.
+
+###### ARTICULO 182.
+
+Son aplicables a las donaciones entre consortes las siguientes disposiciones:
+
+I. Pueden ser revocadas libremente y en todo tiempo por los donantes;
+
+II. Los cónyuges no necesitan autorización judicial para revocarlas;
+
+III. Estas donaciones no se anularán por la superveniencia de hijos, pero se reducirán cuando sean inoficiosas en los mismos términos que las comunes; y
+
+IV. Sólo se confirmarán con la muerte del donante.
+
+### CAPITULO DECIMO PRIMERO. DEL DIVORCIO
+
+###### ARTICULO 183.
+
+Son causa de nulidad de un matrimonio:
+
+I. El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra; o cuando no conociéndolo personalmente, en el caso de la celebración del matrimonio por apoderado, haya sido engañado un cónyuge acerca de la edad o circunstancias personales de su consorte;
+
+II. Que el matrimonio se haya celebrado concurriendo algunos de los impedimentos señalados por la ley;
+
+III. Que se haya celebrado en contravención a las solemnidades y formalidades señaladas para celebrar un matrimonio.
+
+###### ARTICULO 184.
+
+La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error dentro del término de treinta días después de conocerlo, se tiene por ratificado el consentimiento, y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
+
+###### ARTICULO 185.
+
+El ser menor de dieciséis años el hombre y de catorce la mujer, al contraer matrimonio, dejará de ser causa de nulidad:
+
+I. Cuando haya habido hijos;
+
+II. Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años, y ni él ni el otro cónyuge hubieran intentado la nulidad.
+
+###### ARTICULO 186.
+
+La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tenga conocimiento del matrimonio.
+
+###### ARTICULO 187.
+
+Cesa esta causa de nulidad:
+
+I. Si han pasado los treinta días sin que se haya pedido;
+
+II. Si dentro de este término el ascendiente ha consentido expresamente en el matrimonio, o tácitamente haciendo donaciones a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del Juez sean tan conducentes al efecto como los expresados.
+
+###### ARTICULO 188.
+
+La nulidad por falta de consentimiento del tutor o del Juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda, se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+
+###### ARTICULO 189.
+
+El parentesco de consanguinidad no dispensado anula el matrimonio, pero si después se hubiere dispensado y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
+
+###### ARTICULO 190.
+
+La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
+
+###### ARTICULO 191.
+
+La acción de nulidad que nace del adulterio habido entre las personas que pretendan contraer matrimonio, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si éste matrimonio se ha disuelto por muerte del cónyuge ofendido.
+
+En uno y en otro casos, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+
+###### ARTICULO 192.
+
+La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que queda libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
+
+###### ARTICULO 193.
+
+El miedo y la violencia serán causa de nulidad del matrimonio si concurrieren las circunstancias siguientes:
+
+I. Que uno y otra impliquen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
+
+II. Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que lo tuvieren bajo su patria potestad o tutela al celebrarse el matrimonio;
+
+III. Que uno u otra haya subsistido al tiempo de celebrarse el matrimonio.
+
+La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
+
+###### ARTICULO 194.
+
+La nulidad que se funde en la embriaguez habitual, la farmacodependencia, la impotencia o esterilidad, las enfermedades contagiosas o hereditarias o la eteromanía, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+
+###### ARTICULO 195.
+
+Tienen derecho a pedir la nulidad en los casos de idiotismo e imbecilidad, el otro cónyuge o el tutor del incapacitado.
+
+###### ARTICULO 196.
+
+El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste aunque se contraiga de buena fe, creyendo fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio; por sus hijos o herederos y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+
+###### ARTICULO 197.
+
+La nulidad que se funde en la falta de elementos esenciales para la existencia del matrimonio, puede ser alegada por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
+
+###### ARTICULO 198.
+
+No se admitirá demanda de nulidad por falta de formalidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
+
+###### ARTICULO 199.
+
+El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquier otra manera; sin embargo, los herederos podrán continuar el procedimiento de nulidad seguido por aquel a quien hereden.
+
+###### ARTICULO 200.
+
+Ejecutoriada la sentencia que declare la nulidad, el Tribunal, de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste la parte resolutiva de la sentencia, su fecha, el Tribunal que la pronunció y el número con que marcó la copia, la cual será depositada en el archivo.
+
+###### ARTICULO 201.
+
+El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+
+###### ARTICULO 202.
+
+Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
+
+###### ARTICULO 203.
+
+El matrimonio contraído de buena fe, aun cuando sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dura; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
+
+###### ARTICULO 204.
+
+Si ha habido buena fe de parte de uno sólo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
+
+Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
+
+###### ARTICULO 205.
+
+La buena fe se presume; para destruir esta presunción se requiere, prueba plena si la demanda de nulidad fuere entablada por uno sólo de los cónyuges, desde luego se dictarán las medidas provisionales necesarias para separar a los cónyuges, asegurar alimentos de los acreedores, y poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges. De no llegarse a un acuerdo lo decidirá el Juez.
+
+###### ARTICULO 206.
+
+Luego que la sentencia sobre la nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos, y el Juez resolverá según su criterio, de acuerdo con las circunstancias del caso, quien puede modificar su determinación si posteriormente lo considera conveniente a los incapacitados.
+
+###### ARTICULO 207.
+
+Declarada la nulidad del matrimonio, se procederá a la división de los bienes comunes. Los productos y gananciales repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos y gananciales. Si ha habido mala fe de parte de ambos consortes, dichos productos y gananciales se aplicarán a favor de los hijos, y si no los hubiere, se repartirán entre los dos cónyuges en la forma convenida.
+
+###### ARTICULO 208.
+
+Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
+
+I. Las hechas por un tercero a los cónyuges, podrán ser revocadas;
+
+II. Las que haga el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueren objeto de ellas se devolverán al donante con todos sus productos;
+
+III. Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
+
+IV. Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
+
+###### ARTICULO 209.
+
+Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones necesarias para garantizar los derechos del hijo, si naciere viable.
+
+###### ARTICULO 210.
+
+Es ilícito pero no nulo el matrimonio:
+
+I. Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
+
+II. Cuando no se ha otorgado la previa dispensa al tutor para celebrar matrimonio con el pupilo, y cuando se celebre sin que haya transcurrido respecto de la mujer el término de trescientos días contados a partir de la disolución de un matrimonio anterior, o el término que como sanción, se señalare en una sentencia de divorcio al cónyuge culpable.
+
+###### ARTICULO 211.
+
+Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin la autorización de los padres de éste, del tutor o del Juez en sus respectivos casos, y los que autoricen estos matrimonios, incurrirán en las penas que señale el Código de la materia.
+
+### CAPITULO DECIMO SEGUNDO
+
+###### ARTICULO 212.
+
+El matrimonio se disuelve:
+
+I. Por muerte de uno de los cónyuges;
+
+II. Por divorcio legalmente decretado en sentencia ejecutoriada;
+
+III. Por nulidad.
+
+###### ARTICULO 213.
+
+El divorcio disuelve el vínculo del matrimonio y deja a los ex-cónyuges en aptitud de contraer otro, con las restricciones establecidas por esta ley.
+
+###### ARTICULO 214.
+
+Hay dos formas de divorcio:
+
+I. Por mutuo consentimiento;
+
+II. Por alguna de las causas señaladas en esta ley.
+
+###### ARTICULO 215.
+
+No se podrá pedir divorcio voluntario ante el Juez de Primera Instancia y de lo Familiar, sino cuando los cónyuges tengan su domicilio conyugal en la jurisdicción de dicho Juez por lo menos seis meses antes de la fecha de la demanda; para entablar divorcio necesario, el actor deberá tener igualmente su domicilio dentro de la jurisdicción del Juez ante quien se presente la demanda.
+
+###### ARTICULO 216.
+
+En todo juicio de divorcio las audiencias serán secretas.
+
+###### ARTICULO 217.
+
+La muerte de uno de los cónyuges, acaecida durante el procedimiento de divorcio, sea voluntario o necesario, pone fin a él, y en todo caso, los herederos del fallecido tienen los mismos derechos y obligaciones que tendrían si no se hubiese promovido el divorcio.
+
+###### ARTICULO 218.
+
+La reconciliación de los cónyuges pone término al procedimiento de divorcio voluntario y necesario en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoriada. Los interesados deben denunciar su reconciliación ante el Juez sin que la omisión de esta noticia destruya los efectos producidos por aquélla.
+
+###### ARTICULO 219.
+
+La ley presume la reconciliación después de promovido el divorcio, al haber cohabitación entre los cónyuges.
+
+###### ARTICULO 220.
+
+Cuando los cónyuges dejaren pasar más de seis meses sin continuar el procedimiento de divorcio, ya se trate del voluntario o del necesario, el Tribunal declarará de oficio la caducidad del mismo y mandará archivar el expediente.
+
+###### ARTICULO 221.
+
+En los procedimientos de divorcio el Juez de oficio, deberá tomar todas las medidas necesarias para proteger el interés que el Estado tiene en garantizar el sustento de los hijos y lo relativo a la protección de la mujer que se encontrare encinta.
+
+###### ARTICULO 222.
+
+Ejecutoriada una sentencia de divorcio, el Juez que lo decretó remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución durante quince días, en las tablas destinadas a este efecto.
+
+### CAPITULO DECIMO TERCERO. DEL DIVORCIO NECESARIO
+
+#### SECCION PRIMERA. DEL DIVORCIO VOLUNTARIO
+
+###### ARTICULO 223.
+
+El divorcio por mutuo consentimiento no procede sino pasado un año de la celebración del matrimonio.
+
+###### ARTICULO 224.
+
+Los cónyuges que pidan de conformidad su divorcio deberán acompañar en todo caso en su demanda, un convenio en el que se fijen los siguientes puntos:
+
+I. A quién se confían los hijos de los cónyuges, tanto durante el procedimiento, como después de ejecutoriado el divorcio;
+
+II. El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento, como después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe darse para asegurarlo;
+
+III. La casa que servirá de habitación a cada uno de los esposos durante el procedimiento;
+
+IV. La cantidad que a título de alimentación debe pagar el cónyuge deudor, al cónyuge acreedor, durante el procedimiento, así como la forma de hacer el pago y la garantía que debe darse para asegurarlo;
+
+V. Si alguno de los ex-cónyuges tendrá derecho a pensión alimenticia, después de decretado el divorcio;
+
+VI. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio.
+
+A este efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad.
+
+###### ARTICULO 225.
+
+El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+
+###### ARTICULO 226.
+
+Presentada la demanda, el Juez de Primera Instancia citará a los peticionarios a una junta para que la ratifiquen por sí mismos ante su presencia. En esta junta procurará el Juez avenir a los cónyuges; si no logra avenirlos aprobará provisionalmente, oyendo al Ministerio Público, los puntos del convenio relativo a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos, de los que un cónyuge debe dar al otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento. Si no insistieren los cónyuges, se dará por terminada la instancia.
+
+###### ARTICULO 227.
+
+Si el Juez tuviera motivos suficientes, a su juicio, para dudar de la firmeza de la decisión en los solicitantes, citará a éstos a una segunda junta, en la cual procurará restablecer entre ellos la concordia y cerciorarse de la completa libertad de ambos para solicitar el divorcio. Si insistieren los cónyuges en su propósito de divorciarse, citará el Juez a las partes para oír sentencia, la que se dictará dentro del término legal, y en ella volverá a estudiar la situación de los hijos, debiendo oír el parecer del Ministerio Público sobre todos los puntos del convenio.
+
+###### ARTICULO 228.
+
+Los cónyuges no pueden hacerse representar por procurador en las juntas de avenimiento, sino que deben comparecer personalmente, y en su caso acompañados del tutor especial.
+
+###### ARTICULO 229.
+
+El Juez presidirá personalmente las juntas de avenimiento en los divorcios voluntarios.
+
+###### ARTICULO 230.
+
+Si el convenio no fuere aprobado, no podrá decretarse el divorcio.
+
+### CAPITULO DECIMO CUARTO. DEL CONCUBINATO
+
+###### ARTICULO 231.
+
+Son causas de divorcio:
+
+I. El adulterio de alguno de los cónyuges;
+
+II. El hecho de que la mujer dé a luz durante el matrimonio un hijo concebido antes de celebrarse aquél, y que judicialmente se declare que no es del marido;
+
+III. La propuesta del marido para prostituir a su mujer;
+
+IV. La incitación o la violencia hecha por un cónyuge a otro para cometer algún delito, aunque no sea de incontinencia carnal;
+
+V. Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
+
+VI. Ser cualquiera de los cónyuges incapaz para llenar los fines del matrimonio o padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable, que sea, además, contagiosa o hereditaria, y la impotencia incurable o la esterilidad de la mujer que sobrevengan después de celebrado el matrimonio;
+
+VII. Padecer enajenación mental incurable. El divorcio por esta causa sólo puede demandarse después de dos años de haberse manifestado la enajenación mental;
+
+VIII. El abandono injustificado de la casa conyugal por cualquiera de los consortes por más de seis meses consecutivos con abandono absoluto de las obligaciones inherentes al matrimonio;
+
+IX. La separación del hogar conyugal por desavenencia entre los cónyuges, si se prolonga por más de un año; en este caso puede pedirlo el que no haya dado lugar o motivo a tal separación;
+
+X. La declaración de ausencia legalmente hecha o la presunción de muerte, en los casos de excepción en que no se necesite para que se haga que preceda la declaración de ausencia;
+
+XI. La sevicia, las amenazas, la difamación o injurias graves, o los malos tratamientos de un cónyuge para el otro, siempre que tales actos hagan imposible la vida conyugal, a juicio del Juez;
+
+XII. La negativa injustificada de los cónyuges a cumplir con las obligaciones relativas a la contribución económica para el sostenimiento del hogar y la alimentación de los hijos, o el incumplimiento de la sentencia que condene al pago de tal obligación;
+
+XIII. La acusación calumniosa hecha por un cónyuge contra el otro por delito que merezca pena mayor de dos años de prisión;
+
+XIV. Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
+
+XV. Los hábitos de juego, de embriaguez o de uso indebido persistente, no terapéutico, de enervantes, estupefacientes o psicotrópicos, o de cualquiera otra substancia que altere la conducta del individuo y produzca farmacodependencia, y esta situación amenace con causar la ruina o desintegración de la familia, o constituya un continuo motivo de desavenencia conyugal;
+
+XVI. Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
+
+XVII. La extorsión moral de un cónyuge por el otro, siempre que implique crueldad mental y haga imposible la vida conyugal, a juicio del Juez.
+
+###### ARTICULO 232.
+
+Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio que no haya justificado, o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio, pero no puede hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+
+###### ARTICULO 233.
+
+El cónyuge ofendido por una causal de divorcio necesario deberá ejercitar la acción correspondiente dentro del término de un año contado a partir de la fecha en que tuvo conocimiento del hecho, o causa que lo motiva, salvo las excepciones señaladas por esta ley.
+
+###### ARTICULO 234.
+
+Mientras que se decreta el divorcio, el Juez, al admitir la demanda, de oficio dictará provisionalmente las siguientes medidas:
+
+I. La separación de los cónyuges;
+
+II. Señalar y asegurar los alimentos que debe dar el deudor alimenticio al cónyuge acreedor y a los hijos;
+
+III. Las que estime convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes, ni en los de la sociedad conyugal;
+
+IV. Dictar, en su caso, las medidas precautorias para proteger a la mujer que quede encinta;
+
+V. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pide el divorcio propondrá la persona a cuyo cuidado deben quedar provisionalmente los hijos. El Juez, con audiencia del otro cónyuge, resolverá inmediatamente designando la persona que crea conveniente en caso de no ser aceptada la propuesta;
+
+VI. En la sentencia que decrete el divorcio, el Juez determinará los derechos y obligaciones derivadas de la patria potestad que conservará cada uno de los cónyuges, respecto de la persona y bienes de sus hijos, teniendo en cuenta el interés particular de los menores, su salud, costumbres, educación y conservación de su patrimonio. Para tal efecto, deberá el Tribunal oír al Ministerio Público, a los cónyuges, y en caso de estimarlo necesario, a los abuelos, tíos o hermanos mayores, pudiendo además discrecionalmente acordar de oficio cualquiera providencia que considere benéfica para los hijos;
+
+VII. Los hijos quedarán bajo la custodia del cónyuge no culpable; sin embargo el Juez, en protección a los derechos de los menores, podrá disponer lo que considere más beneficioso para ellos, tomando en cuenta lo dispuesto en el Artículo que precede. Si los dos cónyuges fueran culpables, los hijos quedarán al cuidado de los ascendientes a quienes corresponda la patria potestad en defecto de los padres; y si no los hubiere se les nombrará un tutor.
+
+###### ARTICULO 235.
+
+El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+
+###### ARTICULO 236.
+
+El cónyuge que diere causa al divorcio perderá todo lo que hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+
+###### ARTICULO 237.
+
+Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, de los gananciales, y se tomarán las precauciones necesarias para asegurar el cumplimiento de las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayoría de edad, o recuperen su salud, si se tratare de incapacitados.
+
+###### ARTICULO 238.
+
+En los casos de divorcio, el Juez, tomando en cuenta las circunstancias del caso y, entre ellas, la situación económica de los cónyuges, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias ni obtenga otros medios de subsistencia. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor.
+
+###### ARTICULO 239.
+
+En virtud del divorcio los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
+
+###### ARTICULO 240.
+
+El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de un año a contar desde que se decretó el divorcio.
+
+Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer matrimonio, es indispensable que hayan transcurrido seis meses después que obtuvieron el divorcio.
+
+### CAPITULO PRIMERO. DEL PARENTESCO
+
+### CAPITULO SEGUNDO. DE LOS ALIMENTOS
+
+### CAPITULO PRIMERO. DE LA PATERNIDAD Y FILIACION
+
+###### ARTICULO 241.
+
+El concubinato es un matrimonio de hecho; es la unión entre un hombre y una mujer libres de matrimonio y sin los impedimentos que la Ley señala para celebrarlo, que de manera pública y permanente, hacen vida en común, como si estuvieran casados, si tal unión perdura durante más de cinco años o procrearen hijos.
+
+###### ARTICULO 242.
+
+El concubinato producirá, respecto de los hijos habidos en esta unión, los siguientes efectos:
+
+I. Llevar los apellidos del padre y de la madre;
+
+II. El derecho a alimentos;
+
+III. El derecho a heredar en los términos señalados en el Código Civil;
+
+IV. En general los mismos derechos y obligaciones que tienen los hijos del matrimonio.
+
+###### ARTICULO 243.
+
+La ruptura del concubinato, cesación de la vida en común, no origina derecho a reclamación alguna entre los concubinos.
+
+###### ARTICULO 244.
+
+La concubina no tiene derecho a usar el apellido del concubino, aun cuando los hijos lleven el apellido de ambos.
+
+## TITULO SEGUNDO
+
+### CAPITULO SEGUNDO. DE LAS PRESUNCIONES DE PATERNIDAD
+
+###### ARTICULO 245.
+
+La Ley no reconoce más parentesco que los de consanguinidad, afinidad y civil.
+
+###### ARTICULO 246.
+
+El parentesco de consanguinidad es el que existe entre personas que descienden de un tronco común.
+
+###### ARTICULO 247.
+
+El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
+
+Disuelto el matrimonio desaparece el parentesco por afinidad.
+
+###### ARTICULO 248.
+
+Se asimila al parentesco por afinidad la relación que resulta del concubinato, entre el concubinario y los parientes de la concubina y entre los parientes de éste con aquélla. Esta asimilación sólo comprende los parientes consanguíneos en línea recta ascendiente o descendiente sin limitación de grado; y su único efecto es constituir un impedimento para el matrimonio.
+
+###### ARTICULO 249.
+
+El parentesco civil es el que nace de la adopción y sólo existe entre él o los adoptantes y el adoptado.
+
+###### ARTICULO 250.
+
+Cada generación forma un grado, y la serie de los grados constituye lo que se llama línea de parentesco.
+
+###### ARTICULO 251.
+
+La línea es recta o transversal: la recta se compone de la serie de grados entre personas que descienden unas de otras; la transversal se compone de la serie de grados entre personas que, sin descender unas de otras, proceden de un progenitor o tronco común.
+
+###### ARTICULO 252.
+
+La línea recta es ascendente o descendente: ascendente es la que liga a una persona con su progenitor o tronco común de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atiende.
+
+###### ARTICULO 253.
+
+En la línea recta los grados se cuentan por el número de generaciones, o por el de las personas, excluyendo al progenitor.
+
+###### ARTICULO 254.
+
+En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideren, excluyendo la del progenitor o tronco común.
+
+### CAPITULO TERCERO. DE LOS HIJOS DE MATRIMONIO
+
+###### ARTICULO 255.
+
+La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
+
+###### ARTICULO 256.
+
+Es acreedor alimentista todo aquel que no puede bastarse a sí mismo, y es deudor alimentista el obligado a proporcionar alimentos, en los términos establecidos en este Capítulo.
+
+###### ARTICULO 257.
+
+Los cónyuges deben darse alimentos en las circunstancias y condiciones señaladas en esta ley.
+
+###### ARTICULO 258.
+
+El concubinario y la concubina se deben mutuamente alimentos en los mismos casos y proporciones que los señalados para los cónyuges, en consecuencia: tienen el derecho de preferencia que a los cónyuges concede la ley para el pago de alimentos.
+
+###### ARTICULO 259.
+
+Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximas en grado.
+
+###### ARTICULO 260.
+
+Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+
+###### ARTICULO 261.
+
+A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
+
+###### ARTICULO 262.
+
+Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
+
+###### ARTICULO 263.
+
+Los hermanos y demás parientes colaterales a que se refieren las disposiciones que anteceden, tienen obligación de dar alimentos a los menores mientras éstos llegan a la edad de dieciocho años.
+
+También deben dar alimentos a los parientes dentro del grado mencionado, que fueren incapaces para allegarse medios de sustento.
+
+###### ARTICULO 264.
+
+El adoptante y el adoptado tienen obligación de darse alimentos, en los casos que la tienen los padres y los hijos.
+
+###### ARTICULO 265.
+
+Los alimentos comprenden: la comida, el vestido, la habitación y la asistencia en caso de enfermedad.
+
+###### ARTICULO 266.
+
+Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista, y para proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales.
+
+###### ARTICULO 267.
+
+El obligado a dar alimentos cumple la obligación asignando una pensión suficiente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+
+###### ARTICULO 268.
+
+El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
+
+###### ARTICULO 269.
+
+Los alimentos han de ser proporcionales a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+
+###### ARTICULO 270.
+
+Si fueren varios los que deben dar alimentos y además tuvieren posibilidad para hacerlo, el Juez repartirá el importe entre ellos, en proporción a sus haberes.
+
+###### ARTICULO 271.
+
+Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de los alimentos; y si uno solo la tuviere, él cumplirá únicamente la obligación.
+
+###### ARTICULO 272.
+
+La obligación de dar alimentos no comprende la de proveer de capital a los hijos para ejercer el oficio, arte o profesión a que se hubieren dedicado.
+
+###### ARTICULO 273.
+
+Tienen acción para pedir el aseguramiento de los alimentos:
+
+I. El acreedor alimentario;
+
+II. El ascendiente que lo tenga bajo su patria potestad;
+
+III. El tutor del acreedor alimentario;
+
+IV. Los hermanos y demás parientes colaterales dentro del quinto grado; y
+
+V. El Ministerio Público.
+
+###### ARTICULO 274.
+
+Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el Juez un tutor interino.
+
+###### ARTICULO 275.
+
+El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos.
+
+###### ARTICULO 276.
+
+El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
+
+###### ARTICULO 277.
+
+En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será por cuenta de los que ejerzan la patria potestad.
+
+###### ARTICULO 278.
+
+Cesa la obligación de dar alimentos:
+
+I. Cuando el que la tiene carece de medios para cumplirla;
+
+II. Cuando el alimentista deje de necesitar los alimentos;
+
+III. Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+
+###### ARTICULO 279.
+
+También cesa la obligación, cuando la necesidad de los alimentos depende de una conducta viciosa o falta de aplicación al trabajo del alimentista, mientras subsistan estas causas.
+
+###### ARTICULO 280.
+
+El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción, y es imprescriptible, por lo que se refiere a los alimentos actuales y futuros.
+
+###### ARTICULO 281.
+
+Cuando el deudor alimentario no estuviere presente, o estándolo rehusare entregar lo necesario para los alimentos de los miembros de la familia con derecho a recibirlos, será responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo. Este artículo es aplicable al concubinario y a la concubina cuando éstos estén en los supuestos previstos para los cónyuges.
+
+###### ARTICULO 282.
+
+Las pensiones alimenticias decretadas por sentencia ejecutoria, aumentarán ipso-jure periódicamente, en la proporción en que se aumentare el salario mínimo general, en el lugar en que deba cumplirse la obligación.
+
+###### ARTICULO 283.
+
+Por lo tanto, bastará con que el interesado acredite ante el Juez del conocimiento el incremento del salario mínimo, para que aquél, de plano requiera al obligado aumente la pensión alimenticia decretada en los términos señalados en el artículo que antecede.
+
+### CAPITULO CUARTO. DE LAS PRUEBAS DE LA FILIACION DE
+
+LOS HIJOS NACIDOS DE MATRIMONIO
+
+### CAPITULO QUINTO. DE LA LEGITIMACION
+
+## TITULO TERCERO
+
+### CAPITULO SEXTO. DEL RECONOCIMIENTO DE LOS HIJOS NACIDOS
+
+FUERA DE MATRIMONIO
+
+###### ARTICULO 284.
+
+La filiación confiere e impone a los hijos, al padre y a la madre, respectivamente, y a los demás ascendientes los derechos, deberes y obligaciones establecidos por la ley.
+
+###### ARTICULO 285.
+
+La filiación resulta de las presunciones legales, o del nacimiento, o del reconocimiento o por virtud de una sentencia ejecutoriada que la declare. Resulta también de la adopción. La ley no hace ninguna distinción en los derechos de los hijos, basada en la diversa forma de probar la filiación.
+
+###### ARTICULO 286.
+
+El Estado, a través de la autoridad y organismos que la ley señale, debe instruir sobre los deberes y derechos inherentes a la filiación a quienes hayan llegado a la pubertad.
+
+### CAPITULO SEPTIMO. DE LA ADOPCION
+
+###### ARTICULO 287.
+
+Se presumen hijos de los cónyuges:
+
+I. Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
+
+II. Los hijos nacidos dentro de los trescientos días siguientes a la terminación del matrimonio, ya provenga ésta de la muerte del marido, de la nulidad o de divorcio. Este término se contará en los casos de divorcio o nulidad, después que de hecho quedaren separados los cónyuges.
+
+###### ARTICULO 288.
+
+Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+
+###### ARTICULO 289.
+
+No basta el dicho de la madre para excluir de la paternidad al marido. Mientras éste viva, únicamente él podrá reclamar contra la filiación del hijo favorecido por las presunciones de paternidad.
+
+###### ARTICULO 290.
+
+El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare contra la paternidad de aquél, a no ser que el nacimiento se le haya ocultado o que demuestre que durante los diez meses que precedieron al nacimiento no hubiere tenido acceso carnal con su esposa.
+
+###### ARTICULO 291.
+
+El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho tuvo lugar la separación; pero la mujer, el hijo o el tutor de éste, pueden sostener en tales casos que el marido es el padre.
+
+###### ARTICULO 292.
+
+El marido no podrá desconocer a un hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
+
+I. Si se probare que supo antes de casarse el embarazo de su futura consorte;
+
+II. Si asistió al levantamiento del acta de nacimiento y ésta fue firmada por él, o si contiene su declaración de no saber firmar;
+
+III. Si ha reconocido expresamente por suyo el hijo de su mujer;
+
+IV. Si el hijo no nació capaz de vivir.
+
+###### ARTICULO 293.
+
+Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
+
+###### ARTICULO 294.
+
+En todos los casos en que el marido tenga derecho de contradecir la paternidad del hijo, deberá deducir su acción dentro de sesenta días contados desde el nacimiento, si estuviere presente; desde el día en que llegue al lugar, si estaba ausente; o desde el día en que descubre el engaño, o que se le ocultó el nacimiento.
+
+###### ARTICULO 295.
+
+Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejercido por el tutor. Si éste no lo ejerciere, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declaró haber cesado el impedimento.
+
+###### ARTICULO 296.
+
+Cuando el marido teniendo o no tutor, haya muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+
+###### ARTICULO 297.
+
+Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto, sin hacer la reclamación dentro del término hábil, los herederos tendrán para proponer la demanda sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se ven turbados por el hijo en la posesión de la herencia.
+
+###### ARTICULO 298.
+
+Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajera nuevas nupcias dentro del periodo prohibido por esta ley, o hayan pasado trescientos días, la filiación del hijo que naciera después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+
+I. Se presume que el hijo es del primer marido, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio, y antes de ciento ochenta días de la celebración del segundo;
+
+II. Se presume que el hijo es del segundo marido, si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
+
+El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
+
+III. El hijo se presume nacido fuera de matrimonio, si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+
+###### ARTICULO 299.
+
+El desconocimiento de un hijo, de parte del marido o de sus herederos, se hace por demanda en forma ante Juez competente.
+
+Todo acto de desconocimiento practicado de otra manera es nulo.
+
+###### ARTICULO 300.
+
+Si el hijo no nace vivo o viable, nadie puede entablar demanda sobre la paternidad.
+
+###### ARTICULO 301.
+
+En el juicio de contradicción de la paternidad serán oídos la madre y el hijo, a quien, si fuere menor, se proveerá de un tutor interino.
+
+###### ARTICULO 302.
+
+Para los efectos legales, sólo se reputa nacido el feto que, desprendido del seno materno, vive veinticuatro horas o es presentado vivo ante el Oficial del Registro Civil.
+
+###### ARTICULO 303.
+
+No puede haber sobre la filiación transacción o compromiso de árbitros.
+
+###### ARTICULO 304.
+
+Puede haber transacción o arbitraje sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran derivarse, sin que las concesiones que se hagan al que se dice hijo, importen la condición de estado de hijo de matrimonio.
+
+###### ARTICULO 305.
+
+Se presumen hijos del concubinario y de la concubina:
+
+I. Los nacidos después de ciento ochenta días contados desde que empezó el concubinato;
+
+II. Los nacidos dentro de los trescientos días siguientes al en que cesó, la vida en común entre el concubinario y la concubina.
+
+### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
+
+###### ARTICULO 306.
+
+La filiación de los hijos de los cónyuges se prueba con la partida de nacimiento de aquéllos y con el acta de matrimonio de éstos.
+
+###### ARTICULO 307.
+
+A falta de actas o si éstas fueran defectuosas, incompletas, o si hubiese en ellas omisión en cuanto a los nombres y apellidos o fueren judicialmente declaradas falsas, la filiación puede probarse con la posesión de estado de hijo de los cónyuges.
+
+###### ARTICULO 308.
+
+En defecto de esa posesión de estado son admisibles todos los medios ordinarios de prueba que la ley autoriza; la sola prueba testimonial no será suficiente para probarlo, si no hubiere un principio de prueba por escrito indicios o presunciones resultantes de hechos ciertos, que se consideren bastantes para determinar su admisión.
+
+Si uno solo de los registros fuere o estuviere inutilizado y exista duplicado, de éste deberá tomarse la prueba, sin admitirse de otra clase.
+
+### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
+
+###### ARTICULO 309.
+
+Si hubiere hijos nacidos de dos personas que hubieren vivido públicamente como marido y mujer, y ambos hubieren fallecido, o por ausencia o enfermedad les fuere imposible manifestar el lugar en que se casaron, no puede disputarse a esos hijos su filiación por la sola falta de presentación del acta de matrimonio, siempre que se pruebe esa filiación en los términos preceptuados en los artículos precedentes.
+
+###### ARTICULO 310.
+
+Si un individuo ha sido reconocido constantemente como hijo de matrimonio por la familia del marido o de la esposa, quedará probada la posesión de estado de hijo de matrimonio, si además concurren algunas de las siguientes circunstancias:
+
+I. Que el hijo haya usado constantemente el apellido del que es su padre, con anuencia de éste;
+
+II. Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyendo a su subsistencia, educación y establecimiento;
+
+III. Que el presunto padre tenga la edad exigida para contraer matrimonio, más la edad del presunto hijo.
+
+###### ARTICULO 311.
+
+Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
+
+###### ARTICULO 312.
+
+La acción que compete al hijo para reclamar su estado es imprescriptible para él y sus descendientes.
+
+###### ARTICULO 313.
+
+Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
+
+I. Si el hijo ha muerto antes de cumplir veintidós años;
+
+II. Si el hijo cayó en demencia antes de cumplir veintidós años y murió después en el mismo estado;
+
+III. Los herederos podrán continuar la acción intentada por el hijo, a no ser que éste se hubiere desistido formalmente de ella o nada hubiere promovido judicialmente durante un año contado desde la última diligencia;
+
+IV. También podrán contestar toda demanda que tenga por objeto disputarle tal condición de hijo nacido de matrimonio;
+
+V. Los acreedores, legatarios y donatarios tendrán los mismos derechos que la Ley concede a los herederos, si el hijo no deja bienes suficientes para pagarlos.
+
+Las acciones a que se refieren los párrafos precedentes, prescriben a los cuatro años contados desde el fallecimiento del hijo.
+
+###### ARTICULO 314.
+
+La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia ejecutoriada, la cual admitirá los recursos que den las leyes en los juicios de mayor interés.
+
+###### ARTICULO 315.
+
+Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio sin que preceda sentencia por la cual deba perderlos, podrá usar de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
+
+### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
+
+###### ARTICULO 316.
+
+El matrimonio subsecuente de los padres determina que se tengan como nacidos de matrimonio los hijos concebidos o habidos antes de su celebración.
+
+###### ARTICULO 317.
+
+Para justificar el hecho a que se refiere el artículo que precede, los padres deben reconocerlo expresamente antes de la celebración del matrimonio, en el acto mismo de celebrarlo o durante él, haciendo en todo caso el reconocimiento ambos padres, junta o separadamente.
+
+###### ARTICULO 318.
+
+Si el hijo fue reconocido por el padre y en el acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales, tampoco se necesita reconocimiento del padre si ya se expresa el nombre de éste en el acta de nacimiento.
+
+###### ARTICULO 319.
+
+Aunque el reconocimiento sea posterior, los hijos adquieren todos sus derechos desde el día en que se celebre el matrimonio de sus padres.
+
+###### ARTICULO 320.
+
+Pueden gozar también del derecho de la legitimación, los hijos que ya hayan fallecido al celebrarse el matrimonio de sus padres, si dejaren descendientes.
+
+###### ARTICULO 321.
+
+Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está encinta, o que lo reconoce si aquélla estuviere encinta.
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+###### ARTICULO 322.
+
+La filiación de los hijos cuyos padres no fueren cónyuges resulta, con relación a la madre, del sólo hecho del nacimiento. Para justificar este hecho son admisibles todos los medios de prueba, y en los juicios de intestado o de alimentos, se justificará la filiación respecto de la madre dentro del mismo procedimiento.
+
+###### ARTICULO 323.
+
+Respecto del padre, la filiación se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad; y en el caso de concubinato, se podrá justificar la filiación respecto del padre en el mismo juicio de intestado o de alimentos y será suficiente probar los extremos legales señalados por la ley para demostrar el concubinato. Esta acción es transmisible por herencia e imprescriptible.
+
+###### ARTICULO 324.
+
+Pueden reconocer a sus hijos los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+
+###### ARTICULO 325.
+
+El menor de edad puede reconocer a un hijo sólo con el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encontrare, a falta de éste, con autorización judicial.
+
+###### ARTICULO 326.
+
+No obstante, el reconocimiento hecho por un menor es revocable si se prueba que sufrió engaño al hacerlo, pudiendo entablar la revocación hasta cuatro años después de la mayoría de edad.
+
+###### ARTICULO 327.
+
+Puede reconocerse al hijo que aún no ha nacido y al que ha muerto si ha dejado descendientes; pero en este último caso el que reconoce no tiene derecho a heredar por intestado al reconocido y a sus descendientes ni a recibir alimentos de éstos.
+
+###### ARTICULO 328.
+
+Los padres pueden reconocer a su hijo conjunta o separadamente.
+
+###### ARTICULO 329.
+
+El reconocimiento hecho por el padre puede ser contradicho por un tercero que a su vez pretenda tener ese carácter. El reconocimiento hecho por la madre puede ser contradicho por una tercera persona que a su vez pretenda tener ese carácter.
+
+###### ARTICULO 330.
+
+El reconocimiento no es revocable por el que lo hace; y si se ha hecho en testamento, aunque éste se revoque no se tiene por revocado aquél.
+
+###### ARTICULO 331.
+
+El reconocimiento de un hijo nacido fuera de matrimonio deberá hacerse de alguno de los modos siguientes:
+
+I. En la partida de nacimiento ante el Oficial del Registro Civil;
+
+II. Por acta especial ante el mismo Oficial;
+
+III. Por escritura pública;
+
+IV. Por testamento;
+
+V. Por confesión judicial directa y expresa.
+
+###### ARTICULO 332.
+
+Cuando el padre o la madre reconocen separadamente a un hijo, no podrán revelar en el acta del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla puede ser reconocida. Las palabras que contengan esta revelación, se testarán de oficio, de modo que queden absolutamente ilegibles.
+
+###### ARTICULO 333.
+
+El Oficial del Registro Civil, el Juez de Primera Instancia, en su caso, y el Notario que consienta en la violación del artículo que precede, serán castigados con una multa equivalente a treinta días del salario mínimo vigente.
+
+###### ARTICULO 334.
+
+Un cónyuge podrá reconocer, sin el consentimiento del otro cónyuge, al hijo habido antes de su matrimonio, pero no tendrá derecho de llevarlo a vivir al domicilio conyugal, si no es con la anuencia expresa de éste.
+
+###### ARTICULO 335.
+
+Si ambos padres se hubieren casado, en el acta de reconocimiento que haga uno de ellos, podrá asentarse el nombre del otro consorte como su progenitor. En este caso quedará probada la filiación del hijo respecto de ambos, aunque al contraer matrimonio no hubieren cumplido con el deber de reconocer a su hijo.
+
+###### ARTICULO 336.
+
+La mujer casada puede reconocer sin consentimiento del esposo, a un hijo habido con persona distinta a éste antes de su matrimonio.
+
+###### ARTICULO 337.
+
+El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto al marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+
+###### ARTICULO 338.
+
+El hijo mayor de edad no puede ser reconocido sin su consentimiento.
+
+###### ARTICULO 339.
+
+Para el reconocimiento de un hijo menor de edad no se requiere el consentimiento de su tutor; pero el hijo reconocido puede reclamar el reconocimiento cuando llegue a la mayor edad.
+
+###### ARTICULO 340.
+
+El término para deducir esta acción será de dos años, que comenzará a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo conocimiento del reconocimiento; y si no lo tenía, desde la fecha en que tuvo noticia del reconocimiento.
+
+###### ARTICULO 341.
+
+La mujer que cuida o ha cuidado de la lactancia de un niño a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia; podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo, o fuere condenada a ello por sentencia ejecutoria. El término para contradecir el reconocimiento será de seis meses contados desde que tuvo conocimiento de él.
+
+###### ARTICULO 342.
+
+Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
+
+###### ARTICULO 343.
+
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá sobre él la patria potestad, y en caso de que no lo hicieren, el Juez de Primera Instancia, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+
+###### ARTICULO 344.
+
+En el caso de que el reconocimiento se efectúe sucesivamente por los padres que no vivan juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres y siempre que el Juez de Primera Instancia no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público. El Juez competente, velando por los intereses del hijo reconocido, si considera inconveniente que ejerza la patria potestad quien primero lo reconoció, podrá determinar que quede bajo la custodia de quien lo reconoció en segundo término.
+
+###### ARTICULO 345.
+
+La investigación de la paternidad de los hijos nacidos fuera de matrimonio está permitida:
+
+I. En los casos de rapto, estupro, o violación, cuando la época del delito coincida con la de la concepción;
+
+II. Cuando el hijo esté o haya estado en posesión de estado de hijo respecto del presunto padre;
+
+III. Cuando el hijo haya sido concebido durante un tiempo en que la madre hacía vida marital con el presunto padre;
+
+IV. Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre;
+
+V. Cuando el hijo haya recibido alimentos del presunto padre.
+
+###### ARTICULO 346.
+
+Está permitido al hijo nacido fuera de matrimonio y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios, pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+
+###### ARTICULO 347.
+
+El hecho de dar alimentos constituye por sí solo una presunción juris-tantum de paternidad o maternidad que debe relacionarse con las demás pruebas.
+
+###### ARTICULO 348.
+
+Las acciones de investigación de paternidad o maternidad sólo pueden intentarse en vida de los padres. Si los padres hubieren fallecido durante la menor edad de los hijos, éstos tienen derecho de intentar la acción en todo tiempo, siendo imprescriptible para ellos y sus herederos.
+
+###### ARTICULO 349.
+
+El hijo reconocido por el padre, por la madre o por ambos, así como el que haya acreditado su filiación en los términos de esta Ley, tiene derecho:
+
+I. A llevar el apellido del que lo reconoce, o respecto del cual haya acreditado su filiación;
+
+II. A ser alimentado por éste;
+
+III. A percibir la porción hereditaria que fije la ley en caso de intestado, o los alimentos correspondientes si no fuere instituido heredero, en el caso de la sucesión testamentaria.
+
+###### ARTICULO 350.
+
+La acción que compete al hijo nacido fuera de matrimonio para reclamar su estado puede ser intentada por éste o sus herederos, si murió antes de cumplir veinticinco años, o si cayó en estado de incapacidad antes de esa edad, muriendo después en el mismo estado.
+
+### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
+
+###### ARTICULO 351.
+
+La adopción es un parentesco civil resultante del acto jurídico mediante el cual una o más personas asumen respecto de un menor de edad o de un incapacitado los derechos y obligaciones inherentes a la filiación de sangre.
+
+###### ARTICULO 352.
+
+Para adoptar se necesita ser mayor de veinticinco años de edad, en pleno ejercicio de sus derechos. Aunque sean mayores de edad deben tener el o los presuntos adoptantes diecisiete años más que el adoptado y la adopción debe ser benéfica a éste.
+
+###### ARTICULO 353.
+
+El marido y la mujer podrán adoptar conjuntamente cuando los dos estén conformes en considerar al adoptado como hijo. La adopción hecha sólo por uno de los cónyuges, no puede tener lugar sin el consentimiento del otro y, en caso de incapacidad, por su representante legal.
+
+###### ARTICULO 354.
+
+Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
+
+###### ARTICULO 355.
+
+Con la adopción, el adoptado se integra plenamente como miembro de la familia del o de los adoptantes y tiene todos los derechos y obligaciones inherentes a un hijo biológico. El parentesco derivado de ella, existe entre él y los adoptantes; entre el adoptado y las familias del o de los que lo adopten.
+
+###### ARTICULO 356.
+
+El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
+
+###### ARTICULO 357.
+
+El menor o incapacitado que hayan sido adoptados podrán impugnar la adopción dentro del año siguiente a la mayor edad, o a la fecha en que haya desaparecido la incapacidad.
+
+###### ARTICULO 358.
+
+La adopción produce los siguientes efectos legales:
+
+I. Permite al adoptado llevar los apellidos de los adoptantes;
+
+II. Darse alimentos recíprocamente, entre el o los adoptantes, adoptado y la familia o familias de aquéllos;
+
+III. Atribuir la patria potestad, al adoptante;
+
+IV. En general, todos los derechos y obligaciones existentes entre padres e hijos.
+
+###### ARTICULO 359.
+
+Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
+
+I. El o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
+
+II. El tutor del que se va a adoptar;
+
+III. Las personas que hayan acogido al que se pretende adoptar y lo traten como a hijo, cuando no hubiere quien ejerza la patria potestad sobre él, ni tenga tutor;
+
+IV. El Ministerio Público del lugar del domicilio del adoptado cuando éste no tenga padres conocidos, ni tutor, ni personas que ostensiblemente le impartan su protección y lo hayan acogido como hijo.
+
+Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+
+###### ARTICULO 360.
+
+Si el tutor o el Ministerio Público, sin causa justificada, se oponen a la adopción, podrá suplir el consentimiento el Gobernador del Estado o el funcionario a quien éste comisione para ello, debiendo considerar lo más conveniente para los intereses morales y materiales del presunto adoptado.
+
+###### ARTICULO 361.
+
+El procedimiento para hacer la adopción es el señalado en el Código de Procedimientos Civiles.
+
+###### ARTICULO 362.
+
+Se considerará consumada la adopción a partir del momento en que cause ejecutoria la resolución judicial que la decretó.
+
+###### ARTICULO 363.
+
+El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+
+###### ARTICULO 364.
+
+La adopción procede aun cuando el adoptante o adoptantes tengan hijos, si se acredita plenamente que tienen la solvencia moral y material para formarlos, educarlos y cuidarlos. Aunque sobrevengan hijos al o a los adoptantes, ésta subsistirá.
+
+### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
+
+### CAPITULO CUARTO. DE LA TUTELA LEGITIMA DE LOS DEMENTES, IDIOTAS, IMBECILES, SORDOMUDOS, EBRIOS CONSUETUDINARIOS Y DE LOS FARMACODEPENDIENTES
+
+###### ARTICULO 365.
+
+La adopción puede revocarse:
+
+I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, en los términos establecidos por esta Ley;
+
+II. Por ingratitud del adoptado.
+
+###### ARTICULO 366.
+
+Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
+
+I. Si comete algún delito que merezca pena de dos años de prisión, contra la persona, la honra o los bienes del o de los adoptantes, de sus ascendientes o descendientes;
+
+II. Si el adoptado acusa judicialmente al o a los adoptantes de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, concubina, concubinario, sus ascendientes o descendientes;
+
+III. Si el adoptado rehusa dar alimentos al adoptante, cuando éste tenga el carácter de acreedor alimentista, de acuerdo con las disposiciones contenidas en esta ley.
+
+Para revocar la adopción cuando los interesados convengan en ella, el Juez sólo podrá decretarla, si convencido de la espontaneidad con que se solicitó, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+
+###### ARTICULO 367.
+
+La sentencia del Juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+
+###### ARTICULO 368.
+
+En el caso de revocación por ingratitud, ésta deja de producir efectos desde que se comete el acto ingrato, aunque la resolución que la declare sea posterior.
+
+###### ARTICULO 369.
+
+Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+
+### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS
+
+EN ESTABLECIMIENTOS DE BENEFICENCIA
+
+## TITULO CUARTO. DE LA PATRIA POTESTAD
+
+### CAPITULO SEXTO. DE LA TUTELA DATIVA
+
+###### ARTICULO 370.
+
+Los descendientes, cualesquiera que sean su estado, edad o condición, deben honrar y respetar a sus ascendientes.
+
+###### ARTICULO 371.
+
+Los menores de edad no emancipados están bajo la patria potestad, mientras exista alguno de los ascendientes a quienes corresponde aquélla, según la ley.
+
+###### ARTICULO 372.
+
+La patria potestad se ejerce sobre la persona y los bienes de los hijos.
+
+###### ARTICULO 373.
+
+Su ejercicio quedará sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las Leyes aplicables.
+
+Salvo circunstancias excepcionales, no deberá separarse al niño menor de diez años de su madre.
+
+###### ARTICULO 374.
+
+La patria potestad se ejerce:
+
+I. Por el padre y la madre conjuntamente;
+
+II. Por el abuelo y abuela paternos;
+
+III. Por el abuelo y abuela maternos;
+
+###### ARTICULO 375.
+
+Cuando los dos progenitores han reconocido al hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad; si vivieren separados, por el primero que lo reconoció, a juicio del Juez, según lo dispuesto en esta Ley en el Capítulo relativo a la Filiación Natural.
+
+###### ARTICULO 376.
+
+Si el hijo es adoptivo y la adopción la hizo un matrimonio, ambos cónyuges conjuntamente ejercerán la patria potestad sobre él.
+
+###### ARTICULO 377.
+
+Si sólo fue adoptado por una persona, a ésta corresponde ejercer la patria potestad.
+
+###### ARTICULO 378.
+
+Solamente por falta o impedimento del padre y de la madre, la patria potestad corresponde al abuelo y a la abuela paternos y maternos.
+
+###### ARTICULO 379.
+
+Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejerzan sin permiso de ellos o decreto de la Autoridad competente.
+
+###### ARTICULO 380.
+
+Las personas que tienen al hijo bajo la patria potestad deben educarlo convenientemente y tienen la facultad de corregirlo y castigarlo mesuradamente.
+
+###### ARTICULO 381.
+
+Las Autoridades, en caso necesario, auxiliarán a los titulares de la patria potestad en el ejercicio de ésta y de las demás facultades que la Ley les concede, haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
+
+###### ARTICULO 382.
+
+Cuando llegue al conocimiento del Juez que quienes ejercen la patria potestad no cumplen con los deberes que ella les impone, lo hará saber al Ministerio Público, quien promoverá lo que corresponda en interés del sujeto a la patria potestad. El Ministerio Público deberá hacer esta promoción cuando los hechos lleguen a su conocimiento por otro medio distinto a la información del Juez.
+
+###### ARTICULO 383.
+
+El que está sujeto a la patria potestad no puede comparecer en Juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho.
+
+### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
+
+###### ARTICULO 384.
+
+Los que ejerzan la patria potestad son legítimos representantes de los que están sujetos a ella y tienen la administración legal de los bienes que pertenecen a éstos, conforme a las prescripciones de esta ley.
+
+El que está sujeto a la patria potestad es el administrador de los bienes que adquiere por su trabajo.
+
+###### ARTICULO 385.
+
+Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, los dos conjuntamente serán los representantes legales del menor y los administradores de los bienes de éste. En caso de que hubiere desacuerdo entre ellos, el Juez procurará avenirlos, y si no lo lograre, resolverá lo que considere más conveniente a los intereses del menor.
+
+###### ARTICULO 386.
+
+Las personas que ejerzan la patria potestad representarán también a los menores en juicio.
+
+###### ARTICULO 387.
+
+Si dentro del juicio se nombrare representante común a alguno de ellos, no podrá celebrar ningún arreglo para terminarlo sin el consentimiento expreso de su consorte y con la autorización judicial cuando la ley lo requiera expresamente.
+
+###### ARTICULO 388.
+
+Los que ejerzan la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles ni los muebles preciosos que correspondan al hijo, sino por causa de absoluta necesidad o de evidente beneficio y previa autorización del Juez.
+
+Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de renta, acciones, frutos y ganados por menor valor del que se cotiza en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos, ni dar fianzas en representación de los hijos.
+
+###### ARTICULO 389.
+
+Siempre que el Juez conceda licencia a los que ejerzan la patria potestad para enajenar un bien inmueble o un bien mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca o inversión bancaria; al efecto, el precio de la venta se depositará en una Institución Bancaria, y la persona que ejerce la patria potestad no podrá disponer de él sin autorización judicial.
+
+###### ARTICULO 390.
+
+Los bienes del hijo, mientras esté en la patria potestad, se dividen en dos clases:
+
+I. Bienes que adquiere por su trabajo;
+
+II. Bienes que adquiere por cualquier otro título.
+
+###### ARTICULO 391.
+
+Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al hijo.
+
+###### ARTICULO 392.
+
+En los bienes de segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo.
+
+La administración y la otra mitad del usufructo pertenecen a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto.
+
+###### ARTICULO 393.
+
+Los padres pueden renunciar su derecho a la mitad del usufructo, haciendo constar su renuncia por escrito o de cualquier otro modo que no deje lugar a dudas. Esta renuncia se considera como donación.
+
+###### ARTICULO 394.
+
+Los réditos y rentas que se hayan vencido antes de que los padres, abuelos y adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo, pertenecen a éste, y en ningún caso serán frutos del que deba gozar la persona que ejerza la patria potestad.
+
+###### ARTICULO 395.
+
+Los usufructuarios de bienes del menor tienen todas las obligaciones que el Código Civil señala a los usufructuarios.
+
+###### ARTICULO 396.
+
+El derecho de usufructo que se concede a los que ejerzan la patria potestad se extingue:
+
+I. Por la emancipación o mayor edad del hijo;
+
+II. Por la pérdida de la patria potestad;
+
+III. Por renuncia.
+
+###### ARTICULO 397.
+
+Las personas que ejerzan la patria potestad, tienen la obligación de dar cuenta de la administración de los bienes de los hijos.
+
+###### ARTICULO 398.
+
+En los casos en que las personas que ejerzan la patria potestad tengan un interés opuesto al de los hijos, serán éstos representados en juicio y fuera de él, por un tutor nombrado por el Juez para cada caso.
+
+###### ARTICULO 399.
+
+Los Jueces tienen facultad para tomar las medidas necesarias para impedir que, por la mala administración de quienes ejerzan la patria potestad, los bienes del hijo se derrochen o disminuyan. Estas medidas se tomarán a instancia de persona interesada, del menor cuando hubiere cumplido catorce años, o del Ministerio Público.
+
+###### ARTICULO 400.
+
+Las personas que ejerzan la patria potestad, deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
+
+### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
+
+###### ARTICULO 401.
+
+La patria potestad acaba:
+
+I. Por la muerte del que la ejerce, si no hay otra persona en quien recaiga;
+
+II. Con la emancipación del hijo;
+
+III. Por la mayor edad del hijo.
+
+###### ARTICULO 402.
+
+La patria potestad se pierde:
+
+I. Cuando el que la ejerce es condenado expresamente a la pérdida de ese derecho, o cuando es condenado por delito intencional a pena privativa de libertad mayor de cinco años;
+
+II. En los casos de divorcio, teniendo en cuenta lo establecido al efecto por esta ley;
+
+III. Cuando por las costumbres depravadas de quienes la ejerzan, malos tratamientos o abandono de sus deberes, pueda comprometerse la seguridad o la salud física o mental de los menores, aun cuando estos hechos no cayeren bajo la sanción de la Ley penal;
+
+IV. La exposición por los que la ejercen; o los dejen abandonados por más de seis meses, si quedaran a cargo de alguna persona.
+
+###### ARTICULO 403.
+
+La madre o la abuela que pase a segundas nupcias no pierde por este hecho la patria potestad.
+
+###### ARTICULO 404.
+
+El nuevo marido no ejercerá la patria potestad sobre los hijos o nietos del matrimonio anterior.
+
+###### ARTICULO 405.
+
+La patria potestad se suspende:
+
+I. Por incapacidad declarada judicialmente;
+
+II. Por la ausencia declarada en forma;
+
+III. Por sentencia condenatoria que imponga como pena esa suspensión.
+
+###### ARTICULO 406.
+
+Los Jueces pueden privar de la patria potestad al que la ejerce, o modificar su ejercicio, si trata a los que están en ella con excesiva severidad, no los educa o les impone preceptos que dañan su salud física o moral, o les da ejemplo o consejos corruptores.
+
+###### ARTICULO 407.
+
+La patria potestad no es renunciable; pero aquellos a quienes corresponda ejercerla, pueden excusarse:
+
+I. Cuando tengan setenta años cumplidos;
+
+II. Cuando por su mal estado habitual de salud, no puedan atender debidamente a su desempeño.
+
+## TITULO QUINTO. DE LA TUTELA
+
+### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES
+
+PARA ASEGURAR SU MANEJO
+
+###### ARTICULO 408.
+
+La tutela es la institución de derecho de familia que tiene por objeto la guarda de la persona y bienes de los que, no estando sujetos a patria potestad, tienen incapacidad natural y legal, o solamente la segunda para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapacitado en los casos especiales que señala la Ley. En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las Leyes aplicables.
+
+###### ARTICULO 409.
+
+Tienen incapacidad natural y legal:
+
+I. Los menores de edad;
+
+II. Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+
+III. Los sordomudos que no saben leer ni escribir;
+
+IV. Los ebrios consuetudinarios y los que habitualmente hagan uso inmoderado de drogas enervantes.
+
+###### ARTICULO 410.
+
+Los menores de edad emancipados por razón del matrimonio tienen incapacidad legal para los actos relativos a la disposición de sus derechos sobre inmuebles.
+
+###### ARTICULO 411.
+
+La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
+
+###### ARTICULO 412.
+
+El que se rehusa sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
+
+###### ARTICULO 413.
+
+La tutela se desempeñará por el tutor con intervención del curador, en los términos establecidos por esta Ley.
+
+###### ARTICULO 414.
+
+Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
+
+###### ARTICULO 415.
+
+El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de tres incapacitados. Si éstos son hermanos o son coherederos o legatarios de la misma persona, puede nombrarse un sólo tutor y un curador a todos ellos aunque sean más de tres.
+
+###### ARTICULO 416.
+
+Cuando los intereses de alguno o algunos de los incapacitados sujetos a la misma tutela fueren opuestos, el tutor lo pondrá en conocimiento del Juez, quien nombrará un tutor especial que defienda los intereses de los incapacitados, que él mismo designará, mientras se resuelve el punto de oposición.
+
+###### ARTICULO 417.
+
+Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco de cualquier grado de la línea recta o dentro del cuarto grado de la colateral.
+
+###### ARTICULO 418.
+
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y, en caso de intestado, los parientes y personas con quienes haya vivido, o el denunciante de la sucesión, bajo la pena de multa equivalente a treinta días del salario mínimo, están obligados a dar parte del fallecimiento al Agente del Ministerio Público, dentro del término de ocho días, a fin de que promueva lo necesario para que se provea a la tutela del incapacitado.
+
+Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen la obligación de dar aviso al mismo funcionario para igual efecto, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+
+###### ARTICULO 419.
+
+La tutela es testamentaria, legítima o dativa.
+
+###### ARTICULO 420.
+
+Ninguna tutela puede conferirse sin que previamente se declare, en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+
+###### ARTICULO 421.
+
+Los tutores y curadores no pueden ser removidos de su cargo, sin que previamente hayan sido oídos y vencidos en Juicio.
+
+###### ARTICULO 422.
+
+El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o que habitualmente haga uso de drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayoría de edad.
+
+Sí al cumplir ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+
+###### ARTICULO 423.
+
+Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se le proveerá de tutor.
+
+###### ARTICULO 424.
+
+El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercido por los descendientes o por los ascendientes. El cónyuge solo tendrá obligación de desempeñar ese cargo mientras conserva su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+
+###### ARTICULO 425.
+
+La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
+
+###### ARTICULO 426.
+
+El Juez de Primera Instancia del domicilio del incapacitado, y si no lo hubiere, el Juez Municipal cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor. En ambos casos intervendrá el Ministerio Público.
+
+###### ARTICULO 427.
+
+El Juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
+
+### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
+
+###### ARTICULO 428.
+
+El ascendiente que sobreviva de los dos que en cada grado debe ejercer la patria potestad, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquél sobre quien la ejerza, con inclusión del hijo póstumo.
+
+###### ARTICULO 429.
+
+El nombramiento de tutor testamentario, hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
+
+###### ARTICULO 430.
+
+Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
+
+###### ARTICULO 431.
+
+El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapacitado que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarlo tutor solamente para la administración de los bienes que le deje.
+
+###### ARTICULO 432.
+
+Si fueren varios los menores, podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos.
+
+###### ARTICULO 433.
+
+El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario si la madre ha fallecido o no puede legalmente ejercer la tutela.
+
+La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
+
+###### ARTICULO 434.
+
+En ningún otro caso hay lugar a la tutela testamentaria del incapacitado.
+
+###### ARTICULO 435.
+
+Siempre que se nombren varios tutores, desempeñará la tutela el primeramente nombrado, a quien substituirán los demás, por el orden de su nombramiento, en los casos de muerte, incapacidad, excusa o remoción.
+
+###### ARTICULO 436.
+
+Lo dispuesto en el artículo anterior, no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
+
+###### ARTICULO 437.
+
+Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que el Juez, oyendo al tutor y al curador, las estime dañosas a los menores, en cuyo caso podrá dispensarlas o modificarlas.
+
+###### ARTICULO 438.
+
+Si por un nombramiento condicional de tutor, o por cualquier otro motivo, faltare temporalmente el tutor testamentario, el Juez proveerá de tutor interino al menor conforme a las reglas sobre nombramiento de tutores.
+
+###### ARTICULO 439.
+
+El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicando a esta tutela lo dispuesto en los artículos anteriores.
+
+### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
+
+###### ARTICULO 440.
+
+Ha lugar a la tutela legítima:
+
+I. En los casos de suspensión o pérdida de la patria potestad, o de impedimento o falta absoluta del que o de los que deben ejercerla;
+
+II. Cuando deba nombrarse tutor por causa de divorcio.
+
+###### ARTICULO 441.
+
+La tutela legítima corresponde:
+
+I. A los hermanos, prefiriendo a los que lo sean por ambas líneas;
+
+II. Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado, inclusive.
+
+###### ARTICULO 442.
+
+Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que le parezca más apto para el cargo; si el menor hubiere cumplido catorce años, él hará la elección.
+
+###### ARTICULO 443.
+
+La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
+
+### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
+
+###### ARTICULO 444.
+
+El cónyuge capaz es tutor legítimo y forzoso del consorte incapacitado.
+
+###### ARTICULO 445.
+
+Los hijos mayores de edad son tutores de su padre o madre, viudos o libres de matrimonio, que estén incapacitados.
+
+###### ARTICULO 446.
+
+Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o la madre; y siendo varios los que estén en el mismo caso, el Juez elegirá de entre ellos al que le parezca más apto.
+
+###### ARTICULO 447.
+
+Los padres son de derecho tutores de sus hijos, solteros o viudos, que no tengan hijos que puedan desempeñar la tutela, debiendo ponerse de acuerdo respecto de cual de los dos ejercerá el cargo. Y si no se ponen de acuerdo, el Juez elegirá al que le parezca más apto para el cargo. Faltando uno de ellos, ejercerá la tutela el otro.
+
+###### ARTICULO 448.
+
+A falta de tutor testamentario y de persona que con apego a los artículos anteriores debe desempeñar la tutela, serán llamados sucesivamente los ascendientes y los colaterales dentro del cuarto grado; a falta de parientes dentro de este grado, los administradores del establecimiento en que se encuentre el incapacitado que carezca de bienes.
+
+###### ARTICULO 449.
+
+El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquél derecho.
+
+### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
+
+###### ARTICULO 450.
+
+La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades, restricciones y deberes establecidos para los demás tutores.
+
+###### ARTICULO 451.
+
+Los directores de los hospitales y demás instituciones de beneficencia, donde se reciban niños, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+
+###### ARTICULO 452.
+
+En el caso del artículo anterior, no es necesario el discernimiento del cargo.
+
+### CAPITULO DECIMO CUARTO. DEL CURADOR
+
+###### ARTICULO 453.
+
+Habrá lugar a la tutela dativa:
+
+I. Cuando no haya tutor testamentario ni persona a quien, conforme a la ley, corresponda la tutela legítima;
+
+II. Cuando el tutor testamentario o legítimo es coheredero o tiene cualquier otra oposición de intereses, y sólo para representar al incapaz en esos casos.
+
+###### ARTICULO 454.
+
+El tutor dativo será nombrado por el Juez si el menor no ha cumplido catorce años.
+
+###### ARTICULO 455.
+
+Si el menor tiene más de catorce años, él mismo nombrará el tutor y el Juez confirmará el nombramiento, si no tiene justa causa en contrario. Para reprobar los ulteriores nombramientos que haga el menor, se oirá, a más del Ministerio Público, a un defensor que el mismo menor elegirá.
+
+###### ARTICULO 456.
+
+Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+
+###### ARTICULO 457.
+
+El tutor dativo para asuntos judiciales tendrá el honorario que señale el arancel a los procuradores.
+
+###### ARTICULO 458.
+
+Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+
+###### ARTICULO 459.
+
+A los menores de edad que no están sujetos a la patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Ministerio Público, del mismo menor, y aún de oficio, por el Juez de Primera Instancia y de lo Familiar.
+
+###### ARTICULO 460.
+
+En el caso del artículo anterior, tienen obligación de desempeñar la tutela, mientras duren en los cargos que a continuación se numeran:
+
+I. El Presidente Municipal del domicilio del menor;
+
+II. Los Regidores del Ayuntamiento;
+
+III. Las personas que desempeñen la Autoridad Administrativa en los lugares en que no hubiere Ayuntamiento;
+
+IV. Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde viva el menor;
+
+V. Los miembros de las juntas de beneficencia pública o privada que disfruten sueldo por sus servicios;
+
+VI. Los directores de establecimientos de beneficencia pública.
+
+Los Jueces nombrarán, en cada caso, al que debe desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores otras personas por el Juez, cuando sea más conveniente para los intereses de los incapacitados, y estén conformes en desempeñar gratuitamente la tutela de que se trata.
+
+###### ARTICULO 461.
+
+Si el menor sujeto a tutela dativa en los términos establecidos en este Capítulo, adquiere bienes, el tutor nombrado se encargará también del cuidado de éstos, debiendo cumplirse con las reglas legales sobre el nombramiento del tutor, si al designarse éste no se hubiere cumplido con todos ellos.
+
+###### ARTICULO 462.
+
+Siempre que por cualquier circunstancia, no existiere tutela ni quien ejerciere la patria potestad, en tanto se provee a la tutela que corresponda, le será nombrado un tutor dativo por el Juez de Primera Instancia del lugar.
+
+### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
+
+###### ARTICULO 463.
+
+No pueden ser tutores, aunque estén anuentes en desempeñar tal cargo:
+
+I. Los menores de edad;
+
+II. Los mayores de edad que se encuentren bajo tutela;
+
+III. Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+
+IV. Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
+
+V. El que haya sido condenado por robo, abuso de confianza, fraude o por delitos sexuales;
+
+VI. Los que no tengan oficio o modo de vivir lícito, o sean notoriamente de mala conducta;
+
+VII. Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
+
+VIII. Los deudores del incapacitado, en cantidad considerable, a juicio del Juez; a no ser que el que nombre el tutor testamentario lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento;
+
+IX. Los Jueces, Magistrados y demás funcionarios o empleados de la administración de justicia;
+
+X. El que no esté domiciliado en el lugar en que deba ejercer la tutela;
+
+XI. Los empleados públicos de hacienda, que por razón de su destino tengan responsabilidad pecuniaria actual, o la hayan tenido y no la hubieren cubierto;
+
+XII. El que padezca enfermedad crónica contagiosa;
+
+XIII. Los tahúres de profesión;
+
+XIV. Los demás a quienes lo prohíba la Ley.
+
+###### ARTICULO 464.
+
+Serán separados de la tutela:
+
+I. Los que sin haber caucionado su manejo, conforme a la Ley, ejerzan la administración de la tutela;
+
+II. Los que se condujeren mal o con negligencia en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado.
+
+III. Los tutores que no rindan sus cuentas dentro del término que le señale esta ley;
+
+IV. Los comprendidos en el artículo anterior, después que sobrevenga o se averigüe su incapacidad;
+
+V. El tutor que pretenda contraer matrimonio con su pupilo;
+
+VI. El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
+
+###### ARTICULO 465.
+
+No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
+
+###### ARTICULO 466.
+
+Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y farmacodependientes.
+
+###### ARTICULO 467.
+
+El Ministerio Público y los parientes del pupilo tienen derecho a promover la separación de los tutores que se encuentren en los casos de inhabilidad o de los que han de ser separados de ella. La separación será siempre con su audiencia y por sentencia judicial.
+
+###### ARTICULO 468.
+
+El tutor que fuere procesado por cualquier delito, quedará suspendido en el ejercicio de su cargo desde que se provea el auto de formal prisión, hasta que se pronuncie sentencia irrevocable.
+
+###### ARTICULO 469.
+
+En el caso de que se trata en el artículo anterior, se proveerá a la tutela conforme a la ley.
+
+###### ARTICULO 470.
+
+Absuelto un tutor, volverá al ejercicio de su cargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de dos años de prisión.
+
+### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
+
+###### ARTICULO 471.
+
+Pueden excusarse de ser tutores:
+
+I. Los empleados y funcionarios públicos, a excepción de aquellos a los que la ley impone la obligación del desempeño de la tutela dativa;
+
+II. Los militares en servicio activo;
+
+III. Los que tengan bajo su patria potestad tres o más descendientes;
+
+IV. Los que fueren tan pobres, que no puedan atender a la tutela sin menoscabo de su subsistencia;
+
+V. Los que por el mal estado habitual de su salud, o por su rudeza e ignorancia, no puedan atender debidamente la tutela;
+
+VI. Los que tengan setenta años de edad cumplidos;
+
+VII. Los que tengan a su cargo otra tutela o curaduría.
+
+###### ARTICULO 472.
+
+El que teniendo excusa legítima para ser tutor aceptare el cargo, renuncia por ese solo hecho a la excusa que le concede la ley.
+
+###### ARTICULO 473.
+
+Los impedimentos y excusas para la tutela deben proponerse ante el Juez competente dentro de los quince días hábiles siguientes a la fecha en que se tenga conocimiento del nombramiento. Cuando transcurra este término sin ejercitarse el derecho de excusa, se entiende por renunciado.
+
+###### ARTICULO 474.
+
+Si el tutor tuviere dos o más excusas, las propondrá simultáneamente dentro del plazo respectivo; y si propone una sola se tendrán por renunciadas las demás.
+
+###### ARTICULO 475.
+
+Mientras se califica el impedimento o la excusa, el Juez nombrará un tutor interino.
+
+###### ARTICULO 476.
+
+El tutor testamentario, que se excusare de la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
+
+###### ARTICULO 477.
+
+El tutor que, sin excusa o desechada la que hubiere propuesto, no desempeña la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y es responsable de los daños y perjuicios que por no desempeñarla haya sobrevenido al mismo incapacitado. En igual pena incurrirá la persona a quien corresponda la tutela legítima, si, legalmente citada, no se presenta al Juez manifestando su parentesco con el incapacitado.
+
+###### ARTICULO 478.
+
+Muerto el tutor que está desempeñando la tutela, sus herederos o ejecutores testamentarios deberán dar aviso al Juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
+
+### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
+
+###### ARTICULO 479.
+
+El tutor, antes de que se le discierna el cargo, prestará garantía para asegurar su manejo. Esta garantía consistirá:
+
+I. En hipoteca o prenda;
+
+II. En fianza;
+
+La garantía prendaria que preste el tutor se constituye depositando las cosas dadas en prenda en una institución de crédito autorizada para recibir depósitos, y si no la hubiere en el lugar, se depositará en poder de persona de notoria solvencia y honorabilidad, que designe el Juez.
+
+Puede también constituirse prenda sin desposesión, en los términos de las disposiciones legales que reglamentan este contrato.
+
+###### ARTICULO 480.
+
+Cuando los bienes que tenga el tutor no alcancen a cubrir la cantidad que ha de asegurarse en alguna de las formas citadas, la garantía podrá consistir parte en hipoteca, parte en prenda, parte en fianza, o sólo en fianza, a juicio del Juez.
+
+###### ARTICULO 481.
+
+La hipoteca, la prenda y la fianza, en su caso, se darán:
+
+I. Por el importe de las rentas que deban producir los bienes raíces en dos años y los réditos de los capitales impuestos durante el mismo tiempo;
+
+II. Por el de los bienes muebles y el de los enseres y semovientes de las fincas rústicas;
+
+III. Por el de los productos de las mismas fincas, valuadas por peritos o por un término medio de un quinquenio, a elección del Juez;
+
+IV. Por el importe de las utilidades en dos años de las negociaciones mercantiles o industriales, calculadas por los libros si están llevados en debida forma; a juicio de peritos.
+
+###### ARTICULO 482.
+
+Si los bienes del incapacitado aumentan o disminuyen durante la tutela, podrán aumentarse o disminuirse proporcionalmente las garantías, a pedimento de parte interesada.
+
+###### ARTICULO 483.
+
+Si el tutor, dentro de tres meses después de aceptado su nombramiento no pudiere dar la garantía, se procederá al nombramiento de nuevo tutor.
+
+###### ARTICULO 484.
+
+Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario solemne.
+
+El tutor nombrado conforme al artículo anterior no podrá ejecutar otros actos de administración que los que le sean expresamente determinados por el Juez y siempre con intervención del curador.
+
+###### ARTICULO 485.
+
+Están exceptuados de la obligación de dar garantía:
+
+I. Los tutores testamentarios, cuando expresamente los haya relevado de esta obligación el testador;
+
+II. El tutor que no administre bienes;
+
+III. El padre, la madre y los abuelos, el cónyuge y los hijos del incapacitado cuando son llamados a la tutela de éste;
+
+IV. Los que acojan a un menor abandonado, lo alimenten y eduquen convenientemente por más de cinco años, a no ser que hayan recibido pensión para cuidar de él.
+
+###### ARTICULO 486.
+
+Los comprendidos en la fracción primera del artículo anterior, sólo están obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que haga necesaria aquélla, a juicio del Juez.
+
+###### ARTICULO 487.
+
+La garantía que presten los tutores no impedirá que el Juez de Primera Instancia, a petición del Ministerio Público, o de parte interesada, o del incapacitado, si ha cumplido dieciséis años, dicte las providencias que estime útiles para la conservación de los bienes del pupilo.
+
+###### ARTICULO 488.
+
+Siempre que el tutor sea también coheredero del incapaz, y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor dar más garantía que la de su misma porción hereditaria; a no ser que esa porción no iguale a la mitad de la del incapaz, pues en tal caso se integrará la garantía con hipoteca, prenda o fianza.
+
+###### ARTICULO 489.
+
+Al presentar el tutor su cuenta anual, el curador debe promover información de supervivencia e idoneidad, de los fiadores dados por aquél. El curador podrá promover esta información siempre que la estime conveniente. El Ministerio Público tiene igual facultad.
+
+###### ARTICULO 490.
+
+Es también obligación del curador vigilar el estado de los bienes hipotecados o de los dados en prenda, informando al Juez de los deterioros y menoscabos que en ellos hubiere, para que, si es notable la disminución del precio, se exija al tutor que asegure con otros los intereses que administra.
+
+###### ARTICULO 491.
+
+Si los tutores son varios, sólo se exigirá, a cada uno de ellos, garantía por la parte que corresponde a su representante.
+
+###### ARTICULO 492.
+
+El Juez responde subsidiariamente con el tutor de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
+
+### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
+
+###### ARTICULO 493.
+
+El menor debe respetar a su tutor. Este tiene respecto de aquél las mismas facultades que a los ascendientes concede esta ley.
+
+###### ARTICULO 494.
+
+Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador.
+
+###### ARTICULO 495.
+
+El tutor que entre a la administración de los bienes sin que haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado, y además, separado de la tutela; pero ningún tercero pueda negarse a tratar con él judicial o extrajudicialmente alegando la falta de curador.
+
+###### ARTICULO 496.
+
+El tutor está obligado:
+
+I. A alimentar y a educar al incapacitado;
+
+II. A destinar, de preferencia, los recursos del incapacitado a la curación de sus enfermedades o a su regeneración, si es un ebrio consuetudinario o un farmacodependiente;
+
+III. A formar inventario solemne y circunstanciado de cuanto constituye el patrimonio del incapacitado, dentro del término que el Juez designe, con intervención del curador y del mismo incapacitado, si goza de discernimiento y ha cumplido dieciséis años.
+
+El término para formar el inventario no podrá ser mayor de seis meses;
+
+IV. A administrar el caudal de los incapacitados. El pupilo será consultado por los actos importantes de la administración, cuando es capaz de discernimiento y mayor de dieciséis años.
+
+La administración de los bienes que el pupilo ha adquirido con su trabajo le corresponde a él y no al tutor;
+
+V. A representar al incapacitado en juicio y fuera de él, en todos los actos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
+
+VI. A solicitar oportunamente la autorización judicial para todo lo que legalmente no puede hacer sin ella.
+
+###### ARTICULO 497.
+
+Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+
+###### ARTICULO 498.
+
+Cuando el tutor entre en ejercicio de su cargo, el Juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor, sin perjuicio de modificarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones, podrá el Juez alterar la cantidad que el que nombró el tutor haya señalado para dicho objeto.
+
+###### ARTICULO 499.
+
+El tutor destinará el menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, el Juez dictará las medidas convenientes, a petición de parte interesada o de la representación social.
+
+###### ARTICULO 500.
+
+Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del Juez, quien decidirá este punto prudentemente oyendo en todo caso al mismo menor, al curador y al Ministerio Público.
+
+###### ARTICULO 501.
+
+Si las rentas del menor no alcanzan a cubrir los gastos de alimentación y educación, el Juez decidirá si ha de ponérsele a aprender algún oficio o adoptarse otro medio para evitar la enajenación de sus bienes y, si fuere posible, sujetará a las rentas de éstos los gastos de alimentación.
+
+###### ARTICULO 502.
+
+Si los pupilos fueren indigentes o carecieren de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador o el Ministerio Público ejercitarán la acción a que este Artículo se refiere
+
+###### ARTICULO 503.
+
+Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+
+###### ARTICULO 504.
+
+Los incapacitados indigentes que no puedan ser alimentados y educados por los medios propuestos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Estado; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionales alimentación, el Ministerio Público deducirá la acción correspondiente para que se reembolsen al Gobierno los gastos que hubiese hecho en cumplimiento de lo dispuesto por este artículo.
+
+###### ARTICULO 505.
+
+El tutor de los incapacitados sujetos a interdicción está obligado a presentar al Juez de Primera Instancia y de lo Familiar, en el mes de Enero de cada año un certificado de dos facultativos que declararán acerca del estado del individuo sujeto a interdicción, a quien, para ese efecto, reconocerán en presencia del curador. El Juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+
+###### ARTICULO 506.
+
+Las rentas y, si fuera necesario, aún los bienes de los incapacitados de que se trata en el Artículo anterior se aplicarán de preferencia a su curación; pero el Juez, el Ministerio Público, y el curador vigilarán el uso que se dé a las sumas dedicadas a este fin. Su incumplimiento los hará responsables de daños y perjuicios.
+
+###### ARTICULO 507.
+
+Para la seguridad, alivio y mejoría de tales incapacitados, el tutor adoptará las medidas que juzgue oportunas, previa autorización judicial. Las medidas que fueren muy urgentes podrán ser ejecutadas por el tutor, quien dará cuenta inmediata al Juez, para obtener, si procede, su aprobación.
+
+La obligación de hacer inventarios no puede ser dispensada ni aún por los que tienen derecho a nombrar tutor testamentario.
+
+###### ARTICULO 508.
+
+Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
+
+###### ARTICULO 509.
+
+El tutor está obligado a inscribir en el inventario el crédito que tenga contra el incapacitado; si no lo hace, se extingue el crédito.
+
+###### ARTICULO 510.
+
+Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades que se siguieron para formarlo.
+
+###### ARTICULO 511.
+
+Hecho el inventario, no se admite al tutor rendir prueba contra él en perjuicio del incapacitado, ni antes ni después de la mayor edad de éste, ni durante la interdicción ni después que por sentencia ejecutoria haya cesado ésta, ya sea que litigue en nombre propio o con la representación del incapacitado.
+
+Se exceptúan de lo dispuesto en el párrafo anterior; los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
+
+###### ARTICULO 512.
+
+Si se hubiere omitido listar algunos bienes en el inventario, el mismo menor o cualquier pariente de éste o del sujeto a interdicción, pueden ocurrir al Juez pidiendo que los bienes omitidos se listen; el Juez, oído el parecer del tutor determinará lo que proceda.
+
+Cuando el pupilo llegue a la mayor edad, o tratándose del sujeto a interdicción, cuando sea declarado por sentencia ejecutoriada que ha cesado tal estado, la promoción a que se refiere el párrafo anterior puede ser hecha por cualquiera de ellos.
+
+###### ARTICULO 513.
+
+El tutor, dentro del primer mes de ejercer el cargo, fijará con aprobación judicial la cantidad que haya de invertirse en gastos de administración, y el número y sueldo de los dependientes necesarios para ella. El número de los empleados no podrá aumentarse después sino con aprobación judicial.
+
+Para todos los gastos extraordinarios que no sean de conservación o reparación, necesita el tutor autorización del Juez.
+
+###### ARTICULO 514.
+
+Esta aprobación no libera al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
+
+###### ARTICULO 515.
+
+Si el padre o la madre del menor ejercían algún comercio o industria, el Juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente, a juicio del Juez.
+
+###### ARTICULO 516.
+
+El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones de capitales y el que se adquiera de cualquier otro modo, será semanalmente depositado por el tutor en una Institución de Crédito, haciendo su inversión en ella, de manera que ésta produzca el rédito mayor correspondiente a los depósitos a la vista o a plazo. El tutor no podrá disponer de este depósito sino con autorización judicial.
+
+###### ARTICULO 517.
+
+El tutor que no haga las inversiones citadas dentro de los plazos señalados en el artículo que precede pagará los réditos legales mientras los capitales no sean impuestos.
+
+###### ARTICULO 518.
+
+Excepto en los casos de venta en los establecimientos industriales o comerciales propiedad del incapacitado administrados por el tutor, ninguna enajenación de los bienes de aquél podrá llevarse a cabo sin valuarse previamente y sin autorización judicial.
+
+Otorgada ésta, se ajustará la venta a lo que dispone al respecto el presente Capítulo.
+
+###### ARTICULO 519.
+
+La autorización judicial a que se refiere el artículo anterior sólo se concederá por causa de absoluta necesidad o evidente utilidad del incapacitado, debidamente justificada.
+
+###### ARTICULO 520.
+
+Los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previas la conformidad del curador y la autorización judicial.
+
+###### ARTICULO 521.
+
+Cuando la enajenación se haya permitido, para cubrir con su producto el valor de algún objeto determinado, el Juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras no se haga la inversión, deberá hacer el depósito a que se refiere este Capítulo en una institución de crédito, dentro del término de ocho días siguientes a la fecha en que el tutor recibió las cantidades pertenecientes al incapacitado. Este depósito será a la vista.
+
+###### ARTICULO 522.
+
+El tutor que no haga los depósitos o inversiones dentro de los plazos señalados en esta ley, pagará los réditos que debieran haber producido los capitales mientras no fueren impuestos. Para obtener que el tutor haga el depósito, debe el Juez proceder en su contra en la vía de apremio.
+
+###### ARTICULO 523.
+
+La venta de bienes raíces del incapacitado es nula si no se hace judicialmente en subasta pública; pero el Juez decidirá si convienen o no la almoneda pudiendo dispensarla, acreditada la utilidad que resulte al incapacitado, por lo que se refiere a la venta de valores comerciales, industriales, títulos de rentas, acciones, frutos y ganado, alhajas y muebles preciosos el Juez decidirá si conviene o no la almoneda, pero su venta no podrá ser por cantidad menor del valor que se cotiza en la plaza el día de la venta.
+
+###### ARTICULO 524.
+
+Cuando se trate de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapacitado como copropietario, la operación se practicará si así lo determina la mayoría de los copartícipes calculada por cantidades, no sujetándose a las reglas establecidas para bienes de incapacitados, sino cuando dicha mayoría estuviere representada por una o más personas sujetas a tutela.
+
+###### ARTICULO 525.
+
+Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el Juez.
+
+###### ARTICULO 526.
+
+Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado.
+
+Los actos de dominio que llevare a cabo el tutor sin la autorización judicial, así como la transacción o compromiso en árbitros que celebre respecto de bienes inmuebles, sin dicha licencia, serán inexistentes y, en consecuencia, las autoridades no otorgarán valor alguno a tales actos, ni en Juicio ni fuera de él.
+
+###### ARTICULO 527.
+
+El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación judicial.
+
+###### ARTICULO 528.
+
+Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su consorte, concubina, hijos o hermanos. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+
+###### ARTICULO 529.
+
+Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, partícipes o socios del incapacitado.
+
+###### ARTICULO 530.
+
+El tutor no podrá hacer pago de sus créditos contra el incapacitado, sin la conformidad del curador y la aprobación judicial.
+
+###### ARTICULO 531.
+
+El tutor no puede aceptar para sí mismo, a título gratuito u oneroso, la cesión de ningún derecho o crédito contra el incapacitado. Sólo puede adquirir esos derechos por herencia.
+
+###### ARTICULO 532.
+
+El tutor no puede dar en arrendamiento los bienes del incapacitado por más de dos años, sino en caso de necesidad o utilidad, previa autorización judicial.
+
+###### ARTICULO 533.
+
+El arrendamiento hecho de conformidad con el artículo anterior subsistirá por el tiempo convenido, aun cuando se acabe la tutela, pero será nula toda anticipación de rentas o alquileres por más de un año. La anticipación de rentas deberá ser autorizada por el Juez, y en su caso dichas rentas deberán ser depositadas e invertidas en una Institución Bancaria.
+
+###### ARTICULO 534.
+
+Sin autorización judicial no puede el tutor recibir dinero prestado en nombre del incapacitado. La autorización judicial, si se concede, fijará las estipulaciones y garantías del préstamo.
+
+###### ARTICULO 535.
+
+El tutor tiene el deber de admitir las donaciones, legados y herencias dejadas al incapacitado.
+
+###### ARTICULO 536.
+
+El tutor no puede hacer donaciones a nombre del incapacitado.
+
+###### ARTICULO 537.
+
+El tutor tiene respecto del menor la facultad de corregirlo y la obligación de observar una conducta que sirva a éste de ejemplo.
+
+###### ARTICULO 538.
+
+Durante la tutela no corre la prescripción entre el tutor y el incapacitado.
+
+###### ARTICULO 539.
+
+La expropiación por causa de utilidad pública de bienes de incapacitados, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las Leyes de la materia.
+
+###### ARTICULO 540.
+
+Cuando uno de los cónyuges sea tutor del otro, que está incapacitado, en los casos en que conforme a derecho fuera necesario el consentimiento de ambos para la realización de un acto jurídico, el Juez, si lo creyere conveniente, suplirá el consentimiento del incapacitado.
+
+###### ARTICULO 541.
+
+El cónyuge incapacitado en los casos en que pueda querellarse de su consorte, denunciarlo o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino. Es deber del curador y del Ministerio Público promover este nombramiento; en caso contrario, aquél será responsable de los perjuicios que se causen al incapacitado.
+
+###### ARTICULO 542.
+
+El tutor tiene derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento; en defecto de ellos, y para los tutores legítimos y dativos la fijará el Juez.
+
+###### ARTICULO 543.
+
+En ningún caso bajará la retribución del cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
+
+###### ARTICULO 544.
+
+Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinticinco por ciento de los productos líquidos. La calificación del aumento será hecha por el Juez.
+
+###### ARTICULO 545.
+
+En caso de maltratamiento, de negligencia en las cuotas debidas al incapacitado o de mala administración de sus bienes, podrá el tutor ser relevado de la tutela a petición del curador, de los parientes del incapacitado o del Ministerio Público.
+
+###### ARTICULO 546.
+
+Para que pueda hacerse en la retribución de los tutores, el aumento extraordinario que permite el artículo 544, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
+
+### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
+
+###### ARTICULO 547.
+
+El tutor debe rendir al Juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
+
+###### ARTICULO 548.
+
+El Juez puede, en cualquier momento, exigir al tutor que le rinda cuenta de su administración, aun cuando hubiere cumplido el tutor lo que le impone el artículo anterior.
+
+###### ARTICULO 549.
+
+La cuenta de administración comprenderá no sólo las cantidades en numerario que hubiere recibido el tutor como producto de los bienes y la aplicación que les haya dado, sino en general todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos y de un balance del estado de los bienes.
+
+###### ARTICULO 550.
+
+El tutor es responsable del valor de los créditos activos si dentro de sesenta días contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
+
+###### ARTICULO 551.
+
+Si el incapacitado no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de sesenta días, contados desde que tuvo noticia del derecho del incapacitado, no entabla a nombre de éste judicialmente las acciones conducentes para recobrarlos.
+
+###### ARTICULO 552.
+
+Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabilidad que, después de intentadas las acciones, pueda resultar al tutor por culpa o negligencia en el desempeño de su encargo.
+
+###### ARTICULO 553.
+
+Las cuentas deben rendirse en el lugar en que se desempeña la tutela.
+
+###### ARTICULO 554.
+
+Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ellos no haya resultado utilidad al menor, si esto ha sido sin culpa del primero.
+
+###### ARTICULO 555.
+
+Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el Juez.
+
+###### ARTICULO 556.
+
+No tiene derecho el tutor a ser indemnizado del daño que haya sufrido, por causa de la tutela y en el desempeño necesario de ella, cuando haya intervenido de su parte culpa o negligencia.
+
+###### ARTICULO 557.
+
+La obligación de dar cuenta no puede ser dispensada en contrato o última voluntad, ni aún por el mismo menor; y si esa dispensa se pusiere como condición, en cualquier acto se tendrá por no puesta.
+
+###### ARTICULO 558.
+
+El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
+
+###### ARTICULO 559.
+
+El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses contados desde el día en que fenezca la tutela. El Juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+
+###### ARTICULO 560.
+
+La obligación de dar cuenta pasa a los herederos del tutor; y si alguno de ellos sigue administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
+
+###### ARTICULO 561.
+
+La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas y todos los bienes del incapacitado entregados a quien corresponda.
+
+###### ARTICULO 562.
+
+Hasta pasado un mes de la rendición y aprobación definitiva de las cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+
+### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
+
+###### ARTICULO 563.
+
+La tutela se extingue:
+
+I. Por la muerte del pupilo o porque desaparezca la incapacidad;
+
+II. Cuando el incapacitado sujeto a tutela entre a la patria potestad.
+
+###### ARTICULO 564.
+
+La muerte, incapacidad del tutor o ausencia declarada legalmente termina la tutela con relación al tutor. Tan pronto como llegue a conocimiento del Juez que un tutor ha muerto, o ha sido declarado incapaz o ausente, promoverá de inmediato el nombramiento del nuevo tutor.
+
+### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
+
+###### ARTICULO 565.
+
+Concluida la tutela, el tutor está obligado a dar cuenta de su administración a quien estuvo bajo su tutela o al representante de éste.
+
+###### ARTICULO 566.
+
+Acabada la tutela, el tutor está obligado a entregar todos los bienes del incapaz y todos los documentos que le pertenezcan, conforme al balance que se hubiere presentado en la última cuenta aprobada.
+
+###### ARTICULO 567.
+
+La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas.
+
+###### ARTICULO 568.
+
+La entrega deberá ser hecha durante el mes siguiente a la terminación de la tutela; cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el Juez puede fijar un término prudente para su conclusión; pero en todo caso deberá comenzarse en el plazo antes señalado.
+
+###### ARTICULO 569.
+
+El tutor que entre al cargo, sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido o en su caso a los herederos de éste. Si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al menor.
+
+###### ARTICULO 570.
+
+La entrega de los bienes y la cuenta de la tutela se efectuarán a expensas del incapacitado. Si para realizarlas no hubiere fondos disponibles del incapacitado, el Juez podrá autorizar al tutor a fin de que se le proporcionen los necesarios para la primera, y el tutor adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
+
+###### ARTICULO 571.
+
+Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los gastos.
+
+###### ARTICULO 572.
+
+El saldo que resulte en favor o en contra del tutor, producirá intereses legales. En el primer caso correrán desde que, previa entrega de los bienes, se haga el requerimiento legal para el pago; y en el segundo desde la rendición de cuentas, si hubiesen sido dadas dentro del término designado por la ley; y si no, desde que expire el mismo término.
+
+###### ARTICULO 573.
+
+Cuando en la cuenta resulte alcance contra el tutor, aunque por un arreglo con el menor o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán vivas las hipotecas, u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+
+###### ARTICULO 574.
+
+Si la caución fuere de fianza, el convenio que conceda nuevos plazos al tutor se hará saber al fiador; si éste consiente, permanecerá obligado hasta la solución; si no consiente, no habrá espera, y se podrá exigir el pago inmediato o la subrogación del fiador por otro igualmente idóneo que acepte el convenio.
+
+###### ARTICULO 575.
+
+Si no se hiciere saber el convenio al fiador, éste no permanecerá obligado.
+
+###### ARTICULO 576.
+
+Todas las acciones por hechos relativos a la administración de la tutela que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedan extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad o desde el momento en que se hayan recibido los bienes y la cuenta de la tutela, o desde que haya cesado la incapacidad en los demás casos prevenidos por la Ley.
+
+###### ARTICULO 577.
+
+Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
+
+### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO
+
+DE LOS DERECHOS EVENTUALES DEL AUSENTE
+
+###### ARTICULO 578.
+
+Todos los sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, salvo los casos en que se trate de tutores de expósitos, abandonados, o de incapacitados que no tengan bienes.
+
+###### ARTICULO 579.
+
+El Juez oirá al curador en todas las cuestiones relativas a la tutela.
+
+###### ARTICULO 580.
+
+Cuando se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halle impedido.
+
+###### ARTICULO 581.
+
+También se nombrará un curador interino en el caso de oposición de intereses entre tutor y pupilo.
+
+###### ARTICULO 582.
+
+Igualmente se nombrará curador interino en los casos de impedimento, separación o excusa del nombrado, mientras se decide el punto. Luego que se decida, se nombrará nuevo curador conforme a derecho.
+
+###### ARTICULO 583.
+
+Lo dispuesto sobre impedimentos y excusas de los tutores, regirá igualmente respecto de los curadores.
+
+###### ARTICULO 584.
+
+Los que tienen derecho a nombrar tutor, lo tienen también para nombrar curador.
+
+###### ARTICULO 585.
+
+Nombrarán por sí mismos al curador con aprobación judicial, en los casos a que se refieren los siguientes artículos.
+
+###### ARTICULO 586.
+
+El menor que hubiere cumplido catorce años si tiene discernimiento.
+
+###### ARTICULO 587.
+
+Los menores de edad emancipados por razón del matrimonio.
+
+###### ARTICULO 588.
+
+El curador de todos los demás sujetos a tutela será nombrado por el Juez.
+
+###### ARTICULO 589.
+
+El curador está obligado:
+
+I. A defender los derechos del incapacitado, en Juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
+
+II. A exigir judicialmente que se garantice el manejo de la tutela;
+
+III. A vigilar la conducta del tutor y a poner en conocimiento del Juez todo aquello que considere que pueda ser dañoso al incapacitado;
+
+IV. A dar aviso al Juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela;
+
+V. A cumplir con las demás obligaciones que la Ley le señala.
+
+###### ARTICULO 590.
+
+El curador que no cumpla los deberes inherentes a su cargo y que le impone la Ley, será responsable de los daños y perjuicios que resultaren al incapacitado.
+
+###### ARTICULO 591.
+
+Las funciones del curador cesarán cuando el incapacitado salga de la tutela; si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+
+###### ARTICULO 592.
+
+El curador tiene derecho a ser relevado de la curaduría, pasados diez años desde que se encargó de ella.
+
+###### ARTICULO 593.
+
+En los casos en que conforme a esta ley tenga que intervenir un curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo se le cubrirán conforme a derecho.
+
+### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
+
+###### ARTICULO 594.
+
+Son nulos los actos de administración ejecutados y los contratos celebrados por los menores de edad sujetos a patria potestad, salvo que quien o quienes la ejerzan autoricen tales actos.
+
+###### ARTICULO 595.
+
+Son nulos los actos de administración ejecutados y los contratos celebrados por los menores no sujetos a patria potestad y por los demás incapacitados, antes del nombramiento del tutor si la menor edad o la causa de interdicción eran patentes y notorias en la época en que se ejecutó el acto de administración o en que se celebró el contrato.
+
+Después del nombramiento del tutor, los actos a que se refiere el párrafo anterior son nulos, sean o no patentes y notorias la menor edad o la causa de interdicción, salvo que el tutor autorice tales actos.
+
+###### ARTICULO 596.
+
+La nulidad que establecen los dos artículos anteriores no comprende los actos de administración que ejecute el menor respecto de los bienes que adquiera por su trabajo.
+
+###### ARTICULO 597.
+
+Son nulos los actos realizados por el emancipado sin la autorización judicial o del tutor, respectivamente, cuando se trate de gravamen o hipoteca.
+
+###### ARTICULO 598.
+
+La nulidad a que se refieren las disposiciones que anteceden, sólo puede ser alegada sea como acción, sea como excepción, por el mismo incapacitado, o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al tiempo de otorgarse la obligación, ni por los solidarios de ella.
+
+###### ARTICULO 599.
+
+La acción para pedir la nulidad prescribe en tres o cinco años, según se trate de derechos personales o de derechos reales, respectivamente.
+
+###### ARTICULO 600.
+
+Los menores de edad no pueden alegar la nulidad en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos. Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+
+## TITULO SEXTO
+
+### CAPITULO UNICO
+
+###### ARTICULO 601.
+
+El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se extinga, el cónyuge emancipado que sea menor, no recaerá en la patria potestad.
+
+###### ARTICULO 602.
+
+El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante la menor edad:
+
+I. De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
+
+II. De un tutor para los negocios judiciales;
+
+III. Del consentimiento del que lo emancipó para contraer nuevo matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad ha muerto, o está incapacitado legalmente, necesita el consentimiento del ascendiente a quien corresponda darlo, y en su defecto el del Juez.
+
+###### ARTICULO 603.
+
+Las personas físicas que no hayan cumplido dieciocho años son menores de edad.
+
+###### ARTICULO 604.
+
+Es de orden público la atención del ser humano durante la gestación, su nacimiento y minoría de edad.
+
+###### ARTICULO 605.
+
+El interés del Estado a que se refiere el artículo anterior, comprende la salud física y mental de los menores, así como su protección, instrucción y preparación.
+
+###### ARTICULO 606.
+
+La patria potestad, la adopción, la tutela y la curaduría son instituciones que tienen por objeto la atención de los incapacitados, el cumplimiento de los deberes que la ley impone a los ascendientes, adoptantes, tutores y curadores.
+
+El funcionamiento de tales instituciones queda sujeto a las modalidades que le impongan las resoluciones que se dicten de acuerdo con las leyes aplicables.
+
+###### ARTICULO 607.
+
+Las providencias protectoras del incapaz, que esta ley establece, y las que juzguen pertinentes los Tribunales, se dictarán por ellos de oficio, o a petición del Ministerio Público, de los parientes del incapaz, de éste mismo si ya hubo cumplido catorce años, de su tutor o de su curador.
+
+###### ARTICULO 608.
+
+La mayor edad comienza a los dieciocho años cumplidos.
+
+###### ARTICULO 609.
+
+El mayor de edad dispone libremente de su persona y de sus bienes.
+
+## TITULO SEPTIMO. DE LOS AUSENTES E IGNORADOS
+
+### CAPITULO PRIMERO
+
+###### ARTICULO 610.
+
+El que se hubiere ausentado del lugar de su residencia y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcanzare el poder.
+
+###### ARTICULO 611.
+
+Cuando una persona haya desaparecido y se ignore el lugar en que se halle y quien la represente, el Juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, la citará por dos edictos publicados con intervalos de quince días, en el Periódico Oficial, Organo del Gobierno, y en uno de los de mayor circulación en el Estado, señalándose, para que se presente un término que no bajará de tres ni pasará de seis meses, y dictará las providencias necesarias para asegurar los bienes.
+
+###### ARTICULO 612.
+
+Si se tuvieren motivos fundados para creer que el ausente se halla en algún lugar de un país extranjero, el Juez remitirá copia del edicto al Cónsul Mexicano de aquel lugar o de ese País, a fin de que le dé publicidad de la manera que crea conveniente.
+
+###### ARTICULO 613.
+
+Si el ausente tiene hijos menores que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la ley, ni tutor testamentario ni legítimo, el Ministerio Público pedirá que se nombre un tutor dativo y se designará un depositario de sus bienes.
+
+###### ARTICULO 614.
+
+Las obligaciones y facultades del depositario serán las que la ley asigne a los depositarios judiciales.
+
+###### ARTICULO 615.
+
+Se nombrará depositario:
+
+I. Al cónyuge del ausente;
+
+II. A uno de los hijos mayores de edad que resida en el lugar; si hubiere varios, el Juez elegirá al que considere más apto;
+
+III. Al ascendiente más próximo en grado del ausente;
+
+IV. A falta de los anteriores o cuando sea inconveniente que éstos por su notoria mala conducta o por su ineptitud sean nombrados depositarios, el Juez nombrará al heredero presuntivo y si hubiere varios, el Juez los convocará para que se pongan de acuerdo; si no se lograre, el Juez preferirá al que a su juicio pueda tener mayor interés y responsabilidad en la conservación de los bienes.
+
+###### ARTICULO 616.
+
+Si cumplido el término del llamamiento, el citado no compareciere por sí, ni por apoderado legítimo ni por medio de tutor o de pariente que pudiera representarlo, se procederá al nombramiento de representante.
+
+###### ARTICULO 617.
+
+Lo mismo se hará cuando en iguales circunstancias caduque el poder conferido por el ausente, o sea insuficiente para el caso.
+
+###### ARTICULO 618.
+
+Tienen acción para pedir el nombramiento de depositario o representante, el Ministerio Público o cualquier otro a quien interese tratar o litigar con el ausente o defender los intereses de éste.
+
+###### ARTICULO 619.
+
+En el nombramiento de representante del ausente se seguirá el orden señalado para el nombramiento de depositario.
+
+###### ARTICULO 620.
+
+El cónyuge ausente será representado por el presente; los ascendientes por los descendientes y éstos por aquéllos.
+
+###### ARTICULO 621.
+
+Si el ausente está casado bajo el régimen de sociedad conyugal, ésta continuará siendo administrada por el cónyuge presente, quien tendrá derecho a que sus servicios le sean remunerados; los interesados podrán convenir en el monto de tal remuneración, y, en caso contrario, éste será señalado por el Juez.
+
+###### ARTICULO 622.
+
+Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos del matrimonio o matrimonios anteriores, el Juez dispondrá que el cónyuge presente y los hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes en su caso, nombren de acuerdo al depositario representante; mas si no estuvieren conformes, el Juez lo nombrará libremente dentro de los que representen el mayor interés jurídico.
+
+###### ARTICULO 623.
+
+A falta de cónyuge, de descendientes o de ascendientes, será representante el heredero presuntivo. Si hubiere iguales con igual derecho, ellos mismos elegirán al que deba ser representante. Si no se ponen de acuerdo en la elección, la hará el Juez, prefiriendo al que en su concepto tenga mayor interés en la conservación de los bienes.
+
+###### ARTICULO 624.
+
+El representante del ausente es el legítimo administrador de los bienes de éste, y tiene, respecto de ellos, las mismas obligaciones, facultades y restricciones que los tutores.
+
+No entrará a la administración de los bienes sin que previamente forme inventario y avalúo de ellos y si dentro de un mes no presenta garantía para sus manejos, se nombrará otro representante.
+
+###### ARTICULO 625.
+
+El representante del ausente disfrutará de la conveniente remuneración por sus servicios, la que se fijará en los términos señalados en este Capítulo para la remuneración de los depositarios.
+
+###### ARTICULO 626.
+
+No pueden ser representantes de un ausente los que no pueden ser tutores.
+
+###### ARTICULO 627.
+
+Pueden excusarse los que puedan hacerlo de la tutela.
+
+###### ARTICULO 628.
+
+Será removido del cargo de representante el que deba serlo del de tutor.
+
+###### ARTICULO 629.
+
+El cargo de representante acaba:
+
+I. Con el regreso del ausente;
+
+II. Con la presentación del apoderado legítimo;
+
+III. Con la muerte del ausente;
+
+IV. Con la posesión provisional.
+
+###### ARTICULO 630.
+
+Cada seis meses, en el día correspondiente al que hubiere sido nombrado el representante, se publicará un nuevo edicto llamando al ausente; en él constará el nombre y dirección del representante y el tiempo que falta para que se cumpla el plazo señalado por esta ley para la declaración de ausencia.
+
+###### ARTICULO 631.
+
+El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante de los daños y perjuicios que siga el ausente, y es causa legítima de remoción.
+
+### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
+
+###### ARTICULO 632.
+
+Pasado un año, desde el día en que haya sido nombrado el representante, procede pedir la declaración de ausencia.
+
+###### ARTICULO 633.
+
+En el caso en que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados dos años, que se contarán desde la desaparición del ausente, y si en ese período no se tuvieren noticias suyas o desde la fecha en que se hayan tenido las últimas.
+
+###### ARTICULO 634.
+
+Lo dispuesto en el artículo anterior, se observará aun cuando el poder se haya conferido por más de dos años.
+
+###### ARTICULO 635.
+
+Pasado un año contado a partir de la desaparición del ausente, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice el desempeño de sus funciones, en los términos que debe hacerlo el representante.
+
+###### ARTICULO 636.
+
+Pueden pedir la declaración de ausencia:
+
+I. Los presuntos herederos legítimos del ausente;
+
+II. Los herederos instituidos en testamento abierto;
+
+III. Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente;
+
+IV. El Ministerio Público.
+
+Si el Juez encuentra fundada la demanda, dispondrá que se publiquen dos edictos con intervalos de quince días en el Periódico Oficial del Estado y en otro de mayor circulación, y remitirá copia del mismo al Cónsul en el extranjero al que se le hubiese remitido el edicto llamando al ausente.
+
+###### ARTICULO 637.
+
+Pasados dos meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el Juez declarará en forma la ausencia.
+
+###### ARTICULO 638.
+
+Si hubiere algunas noticias u oposición, el Juez no declarará la ausencia sin repetir las publicaciones señaladas en el procedimiento de declaración de ausencia y hacer la averiguación por los medios que el oponente proponga, y por los que el mismo Juez crea oportunos.
+
+###### ARTICULO 639.
+
+La declaración de ausencia se publicará por una vez en el Periódico Oficial y en uno de mayor circulación en el Estado, remitiéndose copia al Cónsul al que se le hubiesen enviado los edictos mencionados en este Capítulo. Cada seis meses, hasta que se declare la presunción de muerte, se publicará un edicto en la misma forma.
+
+###### ARTICULO 640.
+
+El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá las mismas instancias que el Código de Procedimientos Civiles asigne a los negocios de mayor interés.
+
+### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
+
+###### ARTICULO 641.
+
+Declarada la ausencia, si hubiere testamento público cerrado u ológrafo, la persona en cuyo poder se encuentre lo presentará al Juez dentro de quince días contados desde la primera publicación que se hubiere hecho con motivo de la declaración de ausencia.
+
+###### ARTICULO 642.
+
+El Juez, de oficio, o a instancia de cualquiera que se crea interesado en el testamento, abrirá éste en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia y con las demás solemnidades prescritas por el Código Civil para la apertura de los testamentos cerrados.
+
+###### ARTICULO 643.
+
+Los herederos testamentarios, y en su defecto, los que fueren legítimos al tiempo de la desaparición del ausente, o al tiempo en que se hayan recibido las últimas noticias, serán puestos en posesión provisional de los bienes, dando garantía que asegure las resultas de la administración, si fueren mayores. Si estuvieren bajo la patria potestad o la tutela, se procederá conforme a derecho.
+
+###### ARTICULO 644.
+
+Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte que le corresponda.
+
+###### ARTICULO 645.
+
+Si los bienes no admiten cómoda división, los herederos elegirán entre ellos mismos un administrador general; si no se pusieren de acuerdo, el Juez lo nombrará, escogiéndolo de entre los mismos herederos.
+
+###### ARTICULO 646.
+
+Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta, se nombrará al administrador general.
+
+###### ARTICULO 647.
+
+Los herederos que no administren, podrán nombrar un interventor, que tendrá las facultades y obligaciones señaladas a los curadores. Su honorario será el que le fijen los que lo nombren y se pagará por éstos.
+
+###### ARTICULO 648.
+
+El que entre en la posesión provisional tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+
+###### ARTICULO 649.
+
+En el caso en que varios herederos fueren administradores cuando los bienes admiten cómoda división, cada uno de ellos dará la garantía que corresponda a la parte de bienes que administra. En caso contrario, el administrador general será quien dé la garantía legal.
+
+###### ARTICULO 650.
+
+Los legatarios, los donatarios y todos los que tengan sobre los bienes del ausente derechos que dependan de la muerte o presunción de ésta, podrán ejercitarlos dando la garantía correspondiente a la parte a que tengan derecho.
+
+###### ARTICULO 651.
+
+Los que tengan con relación al ausente, obligaciones que deban cesar a la muerte de éste, podrán también suspender su cumplimiento si otorgaren las garantías correspondientes.
+
+###### ARTICULO 652.
+
+Si dentro de tres meses no se otorgaren las garantías señaladas en los artículos que preceden, el Juez, según las circunstancias de las personas y de los bienes, podrá disminuir el importe de aquéllas pero de modo que no baje de la tercera parte del importe de las rentas que los bienes raíces de los dos últimos años y de los réditos de los capitales impuestos durante este tiempo, por el valor de los bienes muebles, por el de los enseres o semovientes, así como por el producto de las fincas rústicas en dos años calculados por peritos; y respecto de los negocios mercantiles e industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles calculados por los libros, si están llevados en debida forma o a juicio de los peritos.
+
+###### ARTICULO 653.
+
+Mientras no se dé la expresada garantía, no cesará la administración del representante.
+
+###### ARTICULO 654.
+
+No están obligados a dar garantía:
+
+I. El cónyuge que, como heredero, entre en la posesión de los bienes del ausente, por la parte que en ellos le corresponda;
+
+II. Los descendientes y los ascendientes que como herederos entren en la posesión de los bienes del ausente, también en la parte que en ellos les corresponda;
+
+III. El ascendiente que entre en la posesión como heredero, o que administre los bienes de sus descendientes menores en ejercicio de la patria potestad. Si hubiese legatarios, el ausente y el cónyuge darán la garantía legal, por la parte que a éste corresponda, si no hubiere división ni administrador general.
+
+###### ARTICULO 655.
+
+Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y rendirá cuentas dentro del término de tres meses contados a partir del día en que el heredero haya sido declarado con derecho a la referida posesión.
+
+###### ARTICULO 656.
+
+Si hecha la declaración de ausencia no se presentaren herederos del ausente, el Ministerio Público pedirá, o la continuación del representante, o la elección de otro que, en nombre de la Hacienda Pública, entre en la posesión provisional conforme a los Artículos que anteceden.
+
+###### ARTICULO 657.
+
+Muerto el que haya obtenido la posesión provisional, le sucederán sus herederos en la parte que le haya correspondido, bajo las mismas condiciones y con iguales garantías.
+
+###### ARTICULO 658.
+
+Si el ausente se presenta o si prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes, con deducción de la mitad de los frutos y rentas, que quedarán a beneficio de los que han tenido la posesión provisional.
+
+### CAPITULO CUARTO. DE LA PROTECCION DE LOS INVALIDOS, NIÑOS Y ANCIANOS
+
+###### ARTICULO 659.
+
+Declarada la ausencia, se procederá con citación de los herederos presuntivos, al inventario de los bienes y a la separación de los que correspondan al cónyuge ausente. La declaración de ausencia interrumpe la sociedad conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
+
+###### ARTICULO 660.
+
+Si el cónyuge presente entrare como heredero en la posesión provisional, hará suyos todos los frutos y ventas de los bienes que haya administrado.
+
+###### ARTICULO 661.
+
+Si no hubiere sociedad conyugal y el cónyuge presente no fuere heredero ni tuviere bienes propios, tendrá derecho a alimentos y podrá nombrar un interventor que se pagará por los herederos presuntivos.
+
+###### ARTICULO 662.
+
+Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
+
+### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
+
+###### ARTICULO 663.
+
+Cuando hayan transcurrido tres años desde la declaración de ausencia, el Juez, a instancias de parte interesada, declarará la presunción de muerte.
+
+###### ARTICULO 664.
+
+Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de cualquier medio de transporte que sufra un siniestro, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en estos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por este Título.
+
+###### ARTICULO 665.
+
+Hecha la declaración de presunción de muerte se abrirá el testamento del ausente, si no estuviere ya publicado conforme a las disposiciones de esta ley; los poseedores provisionales darán cuenta de su administración en los términos prevenidos en este Título; y los herederos y demás interesados entrarán en posesión definitiva de los bienes, sin garantía alguna. La que según la ley se hubiere dado, quedará cancelada.
+
+###### ARTICULO 666.
+
+Si se llega a comprobar la muerte del ausente, la herencia se defiere a los que debieran recibirla al tiempo de aquélla; pero el poseedor o poseedores de los bienes hereditarios, al restituirlos, se reservarán los frutos correspondientes a la época de la posesión provisional y definitiva.
+
+###### ARTICULO 667.
+
+Si el ausente se presentare o si probare su existencia, después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados, o los que se hubieren adquirido con el mismo precio; pero no podrá reclamar frutos ni rentas.
+
+###### ARTICULO 668.
+
+Cuando hecha la declaración de ausencia o la presunción de muerte de una persona, se hubieren aplicado sus bienes a los que por testamento o sin él se tuvieren por herederos, y después se presentaren otros pretendiendo que ellos deben ser preferidos en la herencia, y así se declarare por sentencia ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos que se establecen, como si tuvieran que reintegrarse al ausente que regresare.
+
+###### ARTICULO 669.
+
+Los poseedores definitivos darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, o desde aquél en que por sentencia que cause ejecutoria, se haya deferido la herencia.
+
+###### ARTICULO 670.
+
+La posesión definitiva termina:
+
+I. Con el regreso del ausente;
+
+II. Con la noticia cierta de su existencia;
+
+III. Con la certidumbre de su muerte;
+
+IV. Con la sentencia ejecutoria que declarare la presunción de muerte.
+
+###### ARTICULO 671.
+
+En el caso de la fracción segunda del artículo que precede, los poseedores definitivos serán considerados como provisionales desde el día en que se tenga noticia cierta de la existencia del ausente.
+
+###### ARTICULO 672.
+
+La sentencia que declare la presunción de muerte de un ausente casado, interrumpe sólo para el ausente, la sociedad conyugal, la que será administrada por el presente y en beneficio de éste hasta que termine por la declaración de presunción de muerte.
+
+La sentencia que declare la presunción de muerte de uno de los cónyuges, termina la sociedad conyugal.
+
+###### ARTICULO 673.
+
+En el caso en que el cónyuge presente no fuere heredero, tendrá derecho a alimentos.
+
+###### ARTICULO 674.
+
+Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, deberá probar que esta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
+
+###### ARTICULO 675.
+
+Si se defiere una herencia en la que sea llamado un individuo declarado ausente, o respecto del cual se haya hecho la declaración de presunción de muerte, entrarán sólo en ella los que debían ser coherederos de aquél o suceder por su falta; pero deberán hacer inventario en forma de los bienes que reciban.
+
+###### ARTICULO 676.
+
+En este caso, los coherederos o sucesores se considerarán como poseedores provisionales o definitivos de los bienes que por la herencia debían corresponder al ausente, según la época en que la herencia se defiera.
+
+###### ARTICULO 677.
+
+Lo dispuesto en los artículos anteriores, debe entenderse sin perjuicio de las acciones de petición de herencia y de otros derechos que podrían ejercitar el ausente, sus representantes, acreedores o legatarios, y que no se extinguirán sino por el lapso fijado para la prescripción.
+
+###### ARTICULO 678.
+
+Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, o sus acciones no sean ejercitadas por sus representantes o por sus causahabientes.
+
+###### ARTICULO 679.
+
+El Representante y los poseedores provisionales y definitivos, en sus respectivos casos, tienen la legítima procuración del ausente en juicio y fuera de él.
+
+###### ARTICULO 680.
+
+Por causa de ausencia no se suspenden los términos que fija la Ley para la prescripción.
+
+###### ARTICULO 681.
+
+El ausente y sus herederos tienen acción para reclamar los daños y perjuicios que el representante o los poseedores hayan causado por abuso en el ejercicio de sus facultades, culpa o negligencia.
+
+###### ARTICULO 682.
+
+El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+
+## TITULO OCTAVO. DEL PATRIMONIO DE FAMILIA
+
+###### ARTICULO 683.
+
+Patrimonio de familia es el conjunto de bienes y derechos susceptibles de valoración económica, que están destinados a que por sí y con sus frutos o productos, se obtengan los medios económicos necesarios para satisfacer las necesidades fundamentales de los integrantes de la familia, tales como habitación, alimentación, vestido, educación y otras.
+
+###### ARTICULO 684.
+
+Serán principalmente objeto del patrimonio de familia:
+
+I. La casa-habitación de la familia y su menaje;
+
+II. La parcela para explotación agropecuaria;
+
+III. Los muebles o máquinas de uso comercial, industrial o agropecuario, de cuya explotación obtenga la familia lo indispensable para satisfacer sus necesidades de subsistencia.
+
+También puede constituirse por bienes fungibles, valores, o acciones, cuando del producto, rendimientos o dividendos de éstos, se obtenga lo necesario para la satisfacción de las necesidades cotidianas.
+
+La constitución del patrimonio de familia, no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria, salvo que se pactare expresamente lo contrario. Tales bienes deben satisfacer las necesidades económicas de los acreedores alimentistas, mientras tengan este carácter. En caso de muerte del constituyente, continuará la masa de bienes sirviendo para la satisfacción de esta primordial necesidad de subsistencia, salvo las expresas disposiciones señaladas en el derecho sucesorio, llegado el caso en que se liquide el patrimonio total del de cujus.
+
+###### ARTICULO 685.
+
+El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público de la Propiedad, los bienes que van a quedar afectos.
+
+Además comprobará lo siguiente:
+
+I. Que es mayor de edad o que está emancipado;
+
+II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
+
+III. La existencia de la familia a cuyo favor se va a constituír el patrimonio. La comprobación de los vínculos familiares se hace con las copias certificadas del Registro Civil;
+
+IV. Que son propiedad del constituyente los bienes destinados al patrimonio y que no reportan gravámenes;
+
+V. Que el valor de los bienes que van a constituir el patrimonio, tasado por peritos, no exceda del valor fijado por esta Ley.
+
+Si se llenan las condiciones exigidas en este artículo, el Juez, previos los trámites que fije el Código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público.
+
+###### ARTICULO 686.
+
+Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas y, si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de la familia hasta el valor fijado por la Ley.
+
+###### ARTICULO 687.
+
+Con el objeto de favorecer la formación del patrimonio de la familia, se venderán a las personas que tengan capacidad legal para constituirlo y que quieran hacerlo, las propiedades raíces que a continuación se expresan:
+
+I. Los terrenos pertenecientes al Estado y a los Municipios que no estén destinados a un servicio público ni sean de uso común;
+
+II. Los terrenos que el Gobierno adquiera por expropiaciones de acuerdo con las disposiciones de la Ley de Expropiación para el Estado de Zacatecas;
+
+III. Los terrenos que el Gobierno adquiera por cualquier otro medio para dedicarlos a la formación del patrimonio de las familias que cuenten con escasos recursos económicos.
+
+###### ARTICULO 688.
+
+En los casos previstos en el artículo que precede, la Autoridad vendedora fijará la forma y el plazo en que debe pagarse el precio de los bienes vendidos, teniendo en cuenta la capacidad económica del comprador.
+
+###### ARTICULO 689.
+
+El que desee constituir el patrimonio de familia con la clase de bienes que menciona el artículo seiscientos ochenta y cuatro, deberá comprobar:
+
+I. Ser mexicano;
+
+II. Su aptitud o la de sus familiares para desempeñar algún oficio, profesión, industria o comercio;
+
+III. Que él o sus familiares poseen los instrumentos y demás objetos indispensables para ejercer la ocupación a que se dedique;
+
+IV. El promedio de sus ingresos, a fin de que se pueda calcular, con probabilidades de acierto, la posibilidad de pagar el precio del terreno que se le vende;
+
+V. Que carece de bienes. Si el que tiene interés legítimo demuestra que quien constituyó el patrimonio era propietario de bienes raíces al constituirlo, se declarará nula la constitución del patrimonio.
+
+###### ARTICULO 690.
+
+Siendo la familia una persona colectiva y teniendo los esposos y concubinos igualdad de derechos, a éstos corresponde señalar quién tiene la representación legal para el ejercicio de todos los derechos y de las defensas de los intereses de dicho patrimonio.
+
+En iguales términos determinará a quién le corresponde la administración de dichos bienes.
+
+###### ARTICULO 691.
+
+Los bienes afectados al patrimonio de familia son:
+
+I. Inalienables;
+
+II. Inembargables;
+
+III. Imprescriptibles sólo por lo que se refiere a los miembros del núcleo familiar;
+
+IV. Gravables solamente por deudas al fisco por concepto de impuestos prediales.
+
+###### ARTICULO 692.
+
+Sólo puede constituirse el patrimonio de familia con bienes sitos en el lugar del domicilio del que lo constituye o de los miembros de su familia.
+
+###### ARTICULO 693.
+
+Cada familia sólo puede constituir un patrimonio.
+
+###### ARTICULO 694.
+
+El valor máximo de los bienes afectados al patrimonio de familia será la cantidad que resulte de multiplicar por tres mil seiscientos cincuenta días, el importe del salario mínimo general vigente en el lugar y en la época en que se constituya el patrimonio. El que será susceptible de incremento periódicamente en la medida en que se aumente el salario mínimo.
+
+###### ARTICULO 695.
+
+La constitución del patrimonio de familia, cuando se haga con bienes adquiridos del Estado, se sujetará a la tramitación administrativa que fijen los reglamentos respectivos. Aprobada la constitución del patrimonio, se harán las anotaciones correspondientes en el Registro Público.
+
+###### ARTICULO 696.
+
+La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
+
+###### ARTICULO 697.
+
+Constituido el patrimonio de la familia, ésta tiene la obligación de habitar la casa, de usufructuar la parcela o los bienes afectos del patrimonio de familia, con el propósito de que realmente con este rendimiento la familia atienda sus necesidades de subsistencia.
+
+###### ARTICULO 698.
+
+El patrimonio de familia se extingue:
+
+I. Cuando todos los beneficiarios cesen de tener derechos de percibir alimentos;
+
+II. Cuando sin causa justificada la familia deje de usar o explotar los bienes afectos al patrimonio de familia, con cuyos frutos debió atender sus necesidades de subsistencia, y esta actitud se prolongue por dos años;
+
+III. Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia de que el patrimonio quede extinguido;
+
+IV. Cuando por causa de utilidad pública se expropien los bienes que lo forman;
+
+V. Cuando tratándose del patrimonio formado con bienes vendidos por las Autoridades mencionadas en este Capítulo, se declare nula o rescindida la venta de esos bienes.
+
+###### ARTICULO 699.
+
+La declaración de que queda extinguido el patrimonio de familia, la hace el Juez competente, mediante el procedimiento fijado en el Código respectivo, y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
+
+Cuando el patrimonio se extinga por expropiación de los bienes que lo constituyan, queda extinguido sin necesidad de declaración judicial debiendo hacerse en el Registro Público las cancelaciones que procedan.
+
+###### ARTICULO 700.
+
+El precio del patrimonio expropiado y la indemnización proveniente del pago del seguro a consecuencia del siniestro sufrido por los bienes afectos al patrimonio de familia, se depositará en una Institución de Crédito a fin de dedicarlo a la constitución de un nuevo patrimonio de familia. Durante dos años son inembargables el precio depositado, el importe del seguro y los intereses que produzcan.
+
+Si el dueño de los bienes vendidos no lo constituye dentro del plazo de seis meses, los miembros de la familia tienen derecho de exigir judicialmente su constitución.
+
+Transcurridos dos años desde que se hizo el depósito sin que se hubiere promovido la constitución del patrimonio, la cantidad depositada podrá entregarse al dueño.
+
+###### ARTICULO 701.
+
+Puede disminuirse el patrimonio de la familia;
+
+I. Cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia;
+
+II. Cuando el patrimonio de familia, por casos posteriores a su constitución, ha rebasado en más de un cien por ciento el valor máximo que autoriza la Ley.
+
+###### ARTICULO 702.
+
+El Ministerio Público será oído en la extinción y en la reducción del patrimonio de la familia.
+
+###### ARTICULO 703.
+
+Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, o pasan a sus herederos si aquél hubiere fallecido.
+
+## TITULO NOVENO. DEL NOMBRE DE LA MUJER CASADA, SOLTERA, VIUDA O DIVORCIADA
+
+###### ARTICULO 704.
+
+Al celebrarse el matrimonio, la mujer elegirá el nombre que como casada usará.
+
+###### ARTICULO 705.
+
+La mujer puede optar por los siguientes nombres:
+
+I. Conservar su apellido de soltera;
+
+II. Agregar al suyo el de su marido.
+
+###### ARTICULO 706.
+
+En caso de no haber declaración expresa, la mujer adoptará el apellido del marido.
+
+###### ARTICULO 707.
+
+Asentado en el acta de matrimonio el nombre por el que optare la mujer, solo podrá modificarse por disolución del mismo.
+
+###### ARTICULO 708.
+
+Cuando un matrimonio se disuelva por divorcio o nulidad, ejecutoriada la sentencia respectiva, la mujer tiene obligación de usar nuevamente su nombre de soltera. El Juez Instructor del Divorcio así lo ordenará en la sentencia correspondiente.
+
+###### ARTICULO 709.
+
+Si a la muerte del esposo, la viuda llevaba el apellido de él, podrá seguir usándolo si así lo desea.
+
+###### ARTICULO 710.
+
+Si la viuda usaba su apellido de soltera, continuará con éste, sin tener derecho a cambiarlo por el de su difunto esposo.
+
+###### ARTICULO 711.
+
+La madre soltera continuará con su mismo nombre, aunque sus hijos sean reconocidos por su padre y lleven el apellido de éste.
+
+###### ARTICULO 712.
+
+El Estado reconoce a la familia personalidad jurídica, es una persona moral, titular de derechos y obligaciones.
+
+###### ARTICULO 713.
+
+La familia está investida de personalidad jurídica para ejercitar en su nombre y representación, cualquier derecho de sus miembros, y cumplir con las obligaciones individual o colectivamente consideradas.
+
+###### ARTICULO 714.
+
+La familia ejercitará sus derechos por medio del Representante designado por la mayoría de sus miembros, que tengan plena capacidad jurídica.
+
+###### ARTICULO 715.
+
+Cuando la persona designada para representar a la familia esté imposibilitada o incapacitada, se designará un nuevo representante.
+
+###### ARTICULO 716.
+
+El representante de la familia, acreditará su personalidad para ejercer cualquier derecho, con un acta simple, levantada en el seno familiar, suscrita por todos los que hubieren intervenido. Respecto de los menores firmarán el documento los que ejerzan la patria potestad o la tutela.
+
+###### ARTICULO 717.
+
+La familia es una institución político-social permanente, de acuerdo con lo establecido por el artículo tercero del Capítulo Primero de esta Ley que contiene las disposiciones generales.
+
+###### ARTICULO 718.
+
+La naturaleza jurídica del representante de la familia, es la de un mandatario para pleitos, cobranzas y para actos de administración, y como tal, queda sujeto a todos los derechos y obligaciones, así como a las responsabilidades señaladas en el Código Civil.
+
+###### ARTICULO 719.
+
+Cuando alguno de los miembros de la familia integre otra, dejará de formar parte de la primera.
+
+###### ARTICULO 720.
+
+Se decreta el establecimiento de Consejos de Familia, cuya competencia es sólo familiar. Actuarán como auxiliares de la administración de la justicia, en la medida técnica que a cada miembro corresponda, sólo en las cuestiones de índole familiar. Las funciones de los Consejos de Familia, serán: orientar e instruir el criterio judicial, basados en el conocimiento del medio social y en la educación de los miembros de la familia, para conocer las causas ignoradas de los problemas suscitados en el ambiente familiar.
+
+###### ARTICULO 721.
+
+Habrá un Consejo de Familia adscrito al Juzgado de lo Familiar de la Capital, y uno en cada uno de los Distritos Judiciales de la Entidad Federativa.
+
+###### ARTICULO 722.
+
+Los Consejos de Familia, están obligados a entregar al Juez Familiar, un reporte de cada juicio ventilado en su Juzgado, el cual contendrá:
+
+I. Descripción detallada del medio ambiente de las partes en conflicto;
+
+II. Una relación del nivel educativo de la familia;
+
+III. Estudio sobre las posibles causas del problema familiar;
+
+IV. De ser posible pruebas psicológicas y psiquiátricas de las partes contendientes;
+
+V. Una vez entregado el reporte, el Juez Familiar, citará a las partes a una plática con el Consejo de Familia, a fin de que expongan su problema y considerarlo desde el punto de vista social y humano;
+
+VI. Lo anterior tendrá por objeto, evitar una posible ruptura en las relaciones familiares, procurando la avenencia de las partes.
+
+###### ARTICULO 723.
+
+Los Consejos de Familia estarán integrados por cinco profesionales, de las siguientes especialidades:
+
+I. Un Licenciado en Derecho, quien será el Presidente del Consejo;
+
+II. De ser posible, por un Psicólogo, que fungirá como Secretario del Consejo;
+
+III. Un Trabajador o Trabajadora Social;
+
+IV. Un Médico General;
+
+V. Un Pedagogo.
+
+###### ARTICULO 724.
+
+Son objetivos del Consejo de Familia, considerar la posibilidad de estar en contacto directo con la familia, para resolver sus problemas y evitar concurrir a juicio.
+
+###### ARTICULO 725.
+
+Los Consejos de Familia adscritos a los Juzgados Familiares tendrán las siguientes funciones:
+
+I. Proponer al Juez Familiar los nombres de dos parientes o conocidos del incapacitado dispuestos a desempeñar la tutela en la forma más conveniente para el pupilo;
+
+II. Vigilar que los tutores cumplan con sus deberes especialmente en la educación de los menores, dando aviso al Juez en los casos de incumplimiento;
+
+III. Avisar al Juez Familiar, si los bienes del incapacitado están en peligro de ser mal administrados;
+
+IV. Investigar y poner en conocimiento del Juez Familiar, cuando los incapacitados carezcan de tutores, para que se hagan los respectivos nombramientos;
+
+V. Ejercitar las acciones de responsabilidad del tutor por el mal manejo de los bienes del pupilo;
+
+VI. Intervenir cuando tengan conocimiento de ello, en los casos de mala administración de los bienes de los hijos sujetos a patria potestad;
+
+VII. Intervenir cuando los titulares de la patria potestad, no cumplan con la obligación de cuidar a los hijos;
+
+VIII. Organizar conferencias de orientación a todos los miembros de las familias de la comunidad, en cuanto a sus funciones, derechos y obligaciones;
+
+IX. Vigilar a los incapaces que realicen conductas antisociales, para tratar de readaptarlos a la sociedad;
+
+X. Recoger a los niños expósitos, abandonados o huérfanos, para internarlos en las instituciones públicas, en los términos de esta Ley;
+
+XI. Todas las demás funciones señaladas en este Código.
+
+###### ARTICULO 726.
+
+Cuando los Consejos de Familia tengan conocimiento, de que un cónyuge abandonó a otro y a sus hijos, sin recursos económicos para satisfacer sus necesidades, pondrán este hecho en conocimiento del Ministerio Público para que éste ejercite las acciones correspondientes.
+
+###### ARTICULO 727.
+
+Los Consejos de Familia vigilarán la integración familiar, mediante programas de orientación, dando a conocer a las autoridades competentes la existencia de algún problema.
+
+###### ARTICULO 728.
+
+Los inválidos, niños y ancianos, tienen derecho a la protección integral por cuenta y a cargo de su familia.
+
+###### ARTICULO 729.
+
+El Gobierno del Estado, deberá dar protección social y asistencia a los niños, enfermos, desvalidos y ancianos.
+
+###### ARTICULO 730.
+
+Todo niño abandonado por sus padres, por enfermedad, prisión o responsabilidad, será entregado en el Sistema Estatal para el Desarrollo Integral de la Familia, para su protección y cuidado.
+
+###### ARTICULO 731.
+
+En esta materia, el Sistema Estatal para el Desarrollo Integral de la Familia, tiene las siguientes funciones:
+
+I. Custodiar temporalmente a los menores;
+
+II. Cuidar a los niños por medio de las Instituciones respectivas instaladas en la Entidad;
+
+III. Procurar, en coordinación con Instituciones Públicas o Privadas, disminuir el abandono, explotación e invalidez del menor.
+
+###### ARTICULO 732.
+
+La protección de ancianos e inválidos desamparados, se llevará a cabo por el Sistema Estatal para el Desarrollo Integral de la Familia.
+
+###### ARTICULO 733.
+
+El Sistema Estatal para el Desarrollo Integral de la Familia, para cumplir con los fines de esta Ley, procurará crear instituciones, en donde los ancianos e inválidos vivan, cuando carezcan de familia que les brinde protección o no posean los medios necesarios para hacerlo, procurarles atención médica; y procurar la construcción de Centros de Rehabilitación necesarios para lograr el restablecimiento de los enfermos.
+
+###### ARTICULO 734.
+
+Para los efectos de la interpretación y aplicación de este Código, se autoriza a las personas encargadas de los Centros de Planificación Familiar y Control de la Natalidad, para instruir sobre la misma a las personas que lo soliciten.
+
+###### ARTICULO 735.
+
+Se considera paternidad responsable la conducta consciente y deliberada de los padres, conociendo su situación social, económica y cultural, para determinar el número y espaciamiento de hijos que quisieren tener.
+
+###### ARTICULO 736.
+
+Planificación Familiar es una concepción clara y actitud consciente sobre el número y espaciamiento de hijos que quieren tener, usando para el control de la fecundación de las medidas anticonceptivas que permita la ley.
+
+###### ARTICULO 737.
+
+Toda familia tiene derecho a un nivel de vida adecuado para garantizar la salud, educación, bienestar y alimentos.
+
+###### ARTICULO 738.
+
+La planificación familiar y el control de la natalidad, deberán hacerse técnicamente con programas complementarios de desarrollo agropecuario, económico, industrial, social y cultural, de cada lugar o región del Estado.
+
+###### ARTICULO 739.
+
+La planificación familiar y el control de la natalidad, se harán respetando en forma absoluta, la libertad individual y la vida privada de las parejas.
+
+###### ARTICULO 740.
+
+Los Centros de Planificación y Control referidos, suministrarán gratuitamente información anticonceptiva a los que la soliciten.
+
+###### ARTICULO 741.
+
+Los médicos de los centros de planificación de la maternidad y paternidad, al hacer los estudios de planificación familiar y control de la natalidad de cada familia, tratarán confidencialmente toda esa información, incluyendo la historia económico-social de cada interesado; a petición de éste, podrá destruirse su expediente personal.
+
+###### ARTICULO 742.
+
+Los Programas de Planificación Familiar y Control de la Natalidad, deben también buscar los medios, para prolongar la vida de los habitantes del Estado y ayudar a resolver los problemas de las parejas que por infertilidad femenina o masculina no puedan engendrar hijos.
+
+###### ARTICULO 743.
+
+La Planificación Familiar y Control de la Natalidad, tendrán un sentido educativo y orientador, en todos los órdenes y niveles de las familias. La referida planificación tiene carácter educativo, convincente y consciente. En ningún caso coercible.
+
+## TRANSITORIOS
+
+PRIMERO.- Las disposiciones de esta ley, no son renunciables, ni pueden modificarse por convenio.
+
+SEGUNDO.- Las disposiciones de este Código serán aplicables en todas las cuestiones familiares anteriores a su vigencia en los términos del primer párrafo del artículo catorce Constitucional.
+
+TERCERO.- Quedan derogadas todas las disposiciones contenidas en la Ley del Registro Civil para el Estado de Zacatecas, promulgada en Decreto número ciento noventa y cinco y publicada en el Suplemento al número cinco del Periódico Oficial, Organo del Gobierno del Estado de fecha dieciséis de Enero de mil novecientos ochenta y dos; asimismo, los Títulos Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Décimo Primero y Décimo Segundo del Libro Segundo, artículos del doscientos veintinueve al ochocientos treinta y tres del Código Civil vigente en el Estado, publicado como Suplemento al Periódico Oficial del Estado, de fecha dos de Marzo de mil novecientos sesenta y seis, y todas las leyes que se opongan a lo dispuesto en este Código.
+
+CUARTO.- Esta legislación entrará en vigor en todo el Estado, sesenta días después de la fecha de su publicación.
+
+QUINTO.- La capacidad jurídica de las personas se rige por lo dispuesto en este Código, aun cuando modifique o quite la que antes gozaba; pero los actos consumados por personas capaces quedan firmes, aun cuando se vuelvan incapaces conforme a la presente ley.
+
+SEXTO.- Los tutores ya nombrados, garantizarán su manejo de acuerdo con las disposiciones de esta ley, dentro del plazo de seis meses contados desde que entre en vigor, so pena de que sean removidos de su cargo si no lo hicieren.
+
+SEPTIMO.- Las disposiciones de este Código se aplicarán a los plazos que estuvieren corriendo para prescribir, hacer declaraciones de ausencia, presunción de muerte, o para cualquier otro acto jurídico, pero el tiempo transcurrido se computará aumentándolo o disminuyéndolo en la misma proporción que se haya aumentado o disminuido el nuevo término por la presente legislación.
+
+OCTAVO.- La dote ya constituida será regida por las disposiciones de la ley bajo la que se constituyó y por las estipulaciones del contrato relativo.
+
+Comuníquese al Ejecutivo del Estado para su promulgación y publicación.
+
+D A D O en la Sala de Comisiones de la H. Quincuagésima Primera Legislatura del Estado, a los veinticuatro días del mes de abril de mil novecientos ochenta y seis.- Diputado Presidente.- Profr. Leobardo Martínez Gallegos.- Rúbrica.- Diputado Secretario.- Martha Veyna de García.- Rúbrica.- Diputado Secretario .- Felipe de Jesús Ortiz H.- Rúbrica.
+
+Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
+
+Dado en el Despacho del Poder Ejecutivo del Estado a los cinco días del mes de Mayo de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- José Guadalupe Cervantes Corona.- Rúbrica.- El Secretario de Gobierno.- Roberto Almanza Félix.- Rúbrica.
