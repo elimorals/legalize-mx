@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1994-06-01"
+last_updated: "1995-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -133,9 +133,15 @@ VII. La libertad de externar el pensamiento sin más limitaciones que el respeto
 
 VIII. La libertad de asociarse o reunirse para cualquier objeto lícito, pero con las restricciones y prerrogativas a que se refiere el artículo 9º de la Constitución General de la República.
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
-IX. Los demás derechos a que se refiere el Título I, Capítulo I, de la Constitución General.
+IX. La seguridad pública como función del Estado y de los Municipios en sus respectivas competencias señaladas por esta Constitución. La actuación de las instituciones policiales se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
+
+El Estado y los Municipios en los términos que la ley de la materia señale, establecerán un sistema de seguridad pública y se coordinarán con la Federación con ese fin.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 1995)</small>
+
+X. Los demás derechos a que se refiere el Título Primero, Capítulo I, de la Constitución General.
 
 ###### Art. 8.
 
@@ -353,11 +359,11 @@ II. Tener 18 años cumplidos al día de la elección.
 
 III. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el Distrito que vaya a representar.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 29.
 
-No pueden ser diputados: El Gobernador del Estado, los titulares de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia en funciones, los jueces de Primera Instancia o Menores, los miembros del Ejército Nacional, los Presidentes Municipales, los Regidores y Síndicos de los Ayuntamientos en sus respectivas jurisdicciones, a menos que se separen de su cargo o servicio 90 días antes de su elección.
+No pueden ser Diputados: el Gobernador del Estado, los titulares de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia en ejercicio, los miembros del Consejo de la Judicatura, los Jueces del Poder Judicial, los miembros del Ejército Nacional, los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos en sus respectivas demarcaciones, a menos que se separen de su cargo o servicio 90 días antes de su elección, excepto los Magistrados y Consejeros, en cuyo caso el término será de un año antes.
 
 ###### Art. 30.
 
@@ -413,11 +419,11 @@ Durante el Primer Periodo Ordinario de Sesiones de cada año, la Legislatura se 
 
 En el Segundo Período de Sesiones Ordinarias de cada año, se hará la revisión de la cuenta de caudales públicos del año anterior, que habrá de presentar el Ejecutivo dentro de los primeros 30 días de este Periodo.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 39.
 
-Al clausurarse el Periodo de Sesiones Ordinarias, se nombrará por el Congreso del Estado, una Diputación Permanente, integrada por un Presidente, un Vicepresidente, dos Secretarios, dos Vocales con sus Suplentes. El Vicepresidente auxiliará en el funcionamiento de dicho Organo y suplirá las ausencias del Presidente, y los Secretarios y Vocales ejercerán las atribuciones que son propias a la denominación de sus cargos los Suplentes sustituirán en su caso, a los Secretarios o Vocales. Invariablemente, la actuación de la Diputación Permanente será colegiada.
+Al clausurarse el Periodo de Sesiones Ordinarias, se nombrará por el Congreso una Diputación Permanente integrada por diez Diputados, de entre los cuales se elegirá una mesa directiva compuesta por un Presidente, un Vicepresidente, un Secretario y un Vocal, los dos últimos con sus respectivos suplentes. Invariablemente, la actuación de la Diputación Permanente será colegiada.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -525,9 +531,9 @@ VII. Dar la resolución correspondiente, aprobando, reformando o reprobando las 
 
 VIII. Convocar a elecciones, hacer el escrutinio de los votos emitidos para Gobernador; calificar dicha elección y declarar electo al que haya tenido mayoría de sufragios válidos.
 
-> <small>(REFORMADA, 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
-IX. Aprobar los nombramientos de los Magistrados numerarios y supernumerarios del Tribunal Superior de Justicia del Estado, que hará el Gobernador en los términos del Artículo 83 de esta Constitución.
+IX. Designar a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado; y otorgar o negar su ratificación a la designación del Procurador General de Justicia, que haga el Gobernador en los términos de esta Constitución.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -543,9 +549,9 @@ XIII. Elegir quien deba sustituir al Gobernador en sus faltas.
 
 XIV. Autorizar al Ejecutivo para gravar, enajenar y ceder los bienes del Estado, así como contraer obligaciones a nombre del mismo.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
-XV. Declarar a pedimento del Procurador General de Justicia cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Tribunal Superior de Justicia y el Secretario General de Gobierno, tanto por delitos del orden común, como por delitos y faltas oficiales, erigiéndose para el caso en Gran Jurado. Tratándose del Procurador General de Justicia, la petición deberá hacerla el Agente del Ministerio Público Adscrito a la Procuraduría.
+XV. Declarar a pedimento del Procurador General de Justicia cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, el Secretario General de Gobierno y los demás secretarios del despacho, tanto por delito de orden común, como por delitos o faltas oficiales, erigiéndose para el caso en Gran Jurado. Tratándose del Procurador General de Justicia, la petición deberá hacerla el Agente del Ministerio Público adscrito a la Procuraduría.
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
@@ -715,9 +721,11 @@ I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso, y proveer 
 
 II. Nombrar al Gobernador Provisional que deba sustituir al que esté en funciones.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
-III. Conceder licencias con goce de sueldo o sin él al Gobernador del Estado, a los Diputados, a los Magistrados del Tribunal Superior de Justicia y a los Empleados dependientes de la Legislatura.
+III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia y ratificar el nombramiento del Procurador General de Justicia que haga el Gobernador conforme a esta Constitución.
+
+Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador, a los Magistrados del Tribunal Superior de Justicia, y a los empleados dependientes de la Legislatura.
 
 IV. Remover libremente a los empleados de su Secretaría y Contador Mayor de Hacienda.
 
@@ -729,9 +737,13 @@ VII. Conceder amnistía, de acuerdo con la fracción XX del Artículo 47 de esta
 
 VIII. Verificar, de acuerdo con el Ejecutivo el cambio de residencia temporal de los Poderes del Estado en los casos de suma urgencia.
 
+(REUBICADO, P.O. 26 DE ABRIL DE 1995)
+
 ## TITULO CUARTO
 
-### CAPITULO VI. Del Poder Ejecutivo
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+
+### CAPITULO I. Del Poder Ejecutivo
 
 ###### Art. 61.
 
@@ -749,15 +761,17 @@ I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del E
 
 II. Tener 30 años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
-III. No ser Secretario General de Gobierno, Magistrado del Tribunal Superior de Justicia, Procurador General de Justicia, Juez de Primera Instancia o Presidente Municipal; ni estar en servicio activo en el Ejército Nacional, salvo que se hubieren separado de sus cargos o del servicio lo menos 90 días antes de la elección.
+III. No ser Secretario del Despacho del Poder Ejecutivo o Federal, Presidente Municipal, Magistrado del Tribunal Superior de Justicia o Juez de Primera Instancia, Ministro de la Corte, Magistrado o Juez del Poder Judicial de la Federación, miembro del Consejo de la Judicatura Estatal o Federal, y Procurador General de Justicia, ni estar en servicio activo en el Ejército Nacional, salvo que se hubieren separado de sus cargos o del servicio lo menos 90 días antes de la elección. En el caso de los servidores públicos integrantes del Poder Judicial y Consejo de la Judicatura Estatal y Federal, señalados anteriormente, el término de su separación se computará un año antes de la elección.
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 1943)</small>
 
 IV. No pertenecer al estado eclesiástico ni ser Ministro de algún culto.
 
-V. No haber sufrido condena alguna impuesta por los Tribunales que hubiere excedido de un mes de arresto.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
+
+V. No haber sufrido condena alguna impuesta por los tribunales por delito intencional.
 
 VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo, motín o asonada.
 
@@ -805,7 +819,9 @@ El cargo de Gobernador del Estado solo es renunciable por causa grave que califi
 
 El Gobernador no podrá salir del Territorio del Estado ni separarse del ejercicio de sus funciones sin permiso de la Cámara o Diputación Permanente en su caso, salvo que su ausencia no exceda de 20 días.
 
-### CAPITULO VII. De las facultades y obligaciones del Gobernador
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+
+### CAPITULO II. De las facultades y obligaciones del Gobernador
 
 ###### Art. 69.
 
@@ -835,7 +851,7 @@ V.- (A). Presentar a la Legislatura el presupuesto de gastos del año siguiente,
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-(C). Visitar o hacer visitar las Oficinas de su dependencia y dictar los acuerdos que procedan, haciendo las consignaciones pertinentes al Ministerio Público;
+(C). Visitar o hacer visitar las Oficinas de su dependencia y dictar los acuerdos que procedan, haciendo las consignaciones pertinentes al Ministerio Público;;
 
 VI.- Fomentar por todos los medios posibles, la educación popular y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras morales y materiales que interesen a la colectividad.
 
@@ -855,9 +871,11 @@ X.- Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos e
 
 XI.- Impartir a los Tribunales el auxilio que demanden para el desempeño de sus funciones.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
-XII.- Nombrar y remover libremente al Secretario General de Gobierno, al Procurador General de Justicia, a los Encargados de las Dependencias señaladas en la Ley Orgánica del Poder Ejecutivo y a los demás servidores públicos cuyo nombramiento no esté encomendado a otras autoridades.
+XII.- Nombrar y remover libremente a los titulares de las dependencias señaladas en la Ley Orgánica del Poder Ejecutivo y a los demás servidores públicos cuyo nombramiento no esté encomendado a otras autoridades.
+
+Designar, con ratificación del Congreso, al Procurador General de Justicia.
 
 XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
 
@@ -949,7 +967,7 @@ El Gobernador del Estado durante el tiempo de sus funciones, será responsable p
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JUNIO DE 1994)</small>
 
-### CAPITULO III (sic). De la Organización del Poder Ejecutivo
+### CAPITULO III. De la Organización del Poder Ejecutivo
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
@@ -1021,65 +1039,99 @@ El Secretario General de Gobierno substituirá al Gobernador en las faltas no pr
 
 El Secretario General de Gobierno, en unión del Procurador General de Justicia, del Presidente del Supremo Tribunal, del Director General de Rentas, Jueces de Primera Instancia y Presidente del Ayuntamiento de la Capital del Estado, constituyen el Consejo de Gobierno, cuya Presidencia será asumida por el primero. El Consejo dará dictamen al Gobernador, siempre que éste lo pida, procurando fundarlo en la Ley.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+
 ## TITULO QUINTO
 
 ### CAPITULO I. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 81.
 
-El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en Jueces de Primera Instancia y Jueces Menores.
+El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, en el Consejo de la Judicatura y en los Juzgados que la ley determine.
 
-El Tribunal Superior de Justicia se integrará de cinco Magistrados Numerarios y funcionará en Pleno o en Salas, se podrán nombrar hasta tres Magistrados Supernumerarios.
+El Tribunal Superior de Justicia se integrará por siete Magistrados Numerarios y funcionará en Pleno o en Salas. Se podrán nombrar hasta tres Magistrados Supernumerarios.
 
-En los términos en que la ley disponga las Sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
+En los términos en que la ley disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
 
-La competencia del Tribunal Superior de Justicia, su funcionamiento en Pleno o en Salas, la competencia de los Juzgados de Primera Instancia y los Menores y las responsabilidades en que incurran los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las Leyes, de conformidad con las bases que esta Constitución establece.
+El Consejo de la Judicatura determinará el número, división, especialización por materia y competencia territorial de los Juzgados que la ley establezca, salvo los asuntos en que por disposición legal deba conocer el Pleno del Tribunal Superior de Justicia.
 
-El Poder Judicial del Estado determinará el número, división, jurisdicción territorial y especialización por materia de los Juzgados de Primera Instancia y los Menores, en la correspondiente Ley Orgánica.
+El Pleno del Tribunal Superior de Justicia estará facultado para emitir acuerdos generales, a fin de lograr, mediante una adecuada distribución entre las salas de los asuntos competentes, la mayor prontitud en su despacho.
 
-La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y los Menores, no podrá ser disminuida durante su encargo.
+La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y Jueces no podrá ser disminuida durante su encargo.
 
-Los Magistrados del Tribunal Superior de Justicia, sólo podrán ser privados de sus puestos en los términos del Título Octavo de esta Constitución.
+Los Magistrados del Tribunal Superior de Justicia durarán en su encargo diez años y sólo podrán ser removidos del mismo en los términos del Título Octavo de esta Constitución y, al vencimiento de su período, tendrán derecho a un haber por retiro.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+Ninguna persona que haya sido Magistrado podrá ser nombrada para un nuevo período, salvo el caso de los Supernumerarios que hubieren ejercido el cargo por un período no mayor de dos años ininterrumpidos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 82.
 
-Para ser electo Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
+Para ser designado Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
 I. Ser Ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
-II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
-III. Poseer el día de la elección, con antigüedad mínima de cinco años, Título Profesional de Abogado, expedido por Autoridad o Corporación legalmente facultada para ello.
+II. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
+
+III. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente autorizada para ello
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-V. Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en servicio de la República por un tiempo menor de seis meses.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+V. Haber residido en el país durante los dos años anteriores al día de la designación, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 1995)</small>
+
+VI. No haber sido Secretario del Despacho del Poder Ejecutivo, Procurador General de Justicia o Diputado local, durante el año previo al día de la designación.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 83.
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia serán hechos por el Gobernador Constitucional y sometidos a la aprobación del Congreso del Estado, quien otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si éste no resolviere dentro de dicho término se tendrán por aprobados los nombramientos.
+Para designar a cada uno de los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado someterá una terna a consideración de la Cámara de Diputados la cual, previa comparecencia de las personas propuestas elegirá al Magistrado que deba cubrir la vacante. La elección se hará por el voto de las dos terceras partes de los diputados presentes en la sesión, dentro del improrrogable término de treinta días. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
 
-Sin la aprobación de la Legislatura no podrán tomar posesión los Magistrados del Tribunal Superior de Justicia nombrados por el Gobernador Constitucional. En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador del Estado hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Asamblea Legislativa en el siguiente Periodo Ordinario de Sesiones; dentro de los primeros diez días el Poder Legislativo deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si desecha el nombramiento cesará desde luego de sus funciones el Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento a la aprobación de la Legislatura en los términos señalados.
+Si la Legislatura rechazare la totalidad de la terna propuesta, el Gobernador del Estado, someterá a su consideración una nueva, en los términos del párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de esa terna designe el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 84.
 
-Los Magistrados del Tribunal Superior de Justicia durarán en sus funciones seis años, contados a partir de la fecha en que rindan su Protesta de Ley, al término de los cuales si fueren reelectos por el Gobernador con la aprobación del Congreso del Estado, sólo podrán ser removidos de sus puestos en los términos del Título Octavo de esta Constitución.
+Los Magistrados del Tribunal Superior de Justicia son inviolables por las opiniones que emitan en el desempeño de sus cargos, y jamás podrán ser reconvenidos por ellas.
 
-Los Magistrados y Jueces de Primera Instancia del Poder Judicial, al cumplir setenta años deberán retirarse de su encargo, para cuyo efecto, el Pleno del Tribunal Superior de Justicia, a instancia del interesado o de oficio, hará la declaratoria correspondiente.
+Los titulares de los Juzgados deberán satisfacer los requisitos que exija la ley y sólo podrán ser removidos de sus puestos en los términos del Título Octavo de esta Constitución. La ley reglamentará en su caso la duración y los derechos de retiro de los jueces.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 85.
 
-Los Jueces de Primera Instancia y los Menores, serán designados por el Pleno del Tribunal Superior de Justicia, deberán satisfacer los requisitos que exija la Ley y durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren reelectos, sólo podrán ser privados de sus puestos en los términos del Título Octavo de esta Constitución.
+La administración, vigilancia y disciplina del Poder Judicial del Estado, estará a cargo del Consejo de la Judicatura en los términos que, conforme a las bases que señala esta Constitución, establezca la ley.
+
+El Consejo se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; un Magistrado designado preferentemente por cada una de las Salas, un Juez y un Secretario que serán asignados mediante insaculación. Invariablemente, los dos últimos Consejeros deberán reunir los requisitos señalados en el Artículo 82 de esta Constitución.
+
+Los cargos anteriores serán compatibles únicamente cuando los Consejeros designados se encuentren en el ejercicio de sus funciones jurisdiccionales que dieron origen a su nombramiento, a cuya separación del cargo se hará nueva designación.
+
+El Consejo funcionará en Pleno o en Comisiones. El Pleno resolverá sobre la designación, adscripción y remoción de Jueces, Secretarios y demás servidores públicos y empleados del Poder Judicial, así como los demás asuntos que la ley determine.
+
+Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo y serán sustituidos de manera escalonada, sin que por ningún motivo puedan ser nombrados para un nuevo período.
+
+Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Octavo de esta Constitución.
+
+La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
+
+Los conflictos entre el Poder Judicial y sus servidores serán resueltos por el Consejo de la Judicatura Local.
+
+Las decisiones del Consejo serán definitivas e inatacables, salvo las que se refieren a la designación, adscripción y remoción de jueces, las cuales podrán ser revisadas a petición de parte interesada por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la Ley Orgánica respectiva.
+
+El Consejo de la Judicatura elaborará el presupuesto del Poder Judicial del Estado y lo remitirá para su inclusión en el proyecto de presupuesto de egresos del Estado.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
@@ -1095,19 +1147,19 @@ Magistrado "SÍ PROTESTO".
 
 Presidente "SI NO LO HICIEREIS ASÍ, LA NACION Y NAYARIT OS LO DEMANDE".
 
-Los Jueces de Primera Instancia y los Menores, protestarán ante el Pleno del Tribunal Superior de Justicia, n la forma que determine la Ley Orgánica respectiva.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+El Secretario General de Acuerdos, los Jueces y demás servidores que la ley señale, protestarán ante el Consejo de la Judicatura, en los mismos términos.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 87.
 
-Los Magistrados Numerarios del Tribunal Superior de Justicia, serán suplidos en sus faltas temporales por los Supernumerarios.
+Los Magistrados Numerarios del Tribunal Superior de Justicia, serán suplidos en sus faltas temporales por los Supernumerarios, en la forma y términos que la ley determine.
 
-Si la falta excediere de hasta noventa días, el Gobernador del Estado someterá el nombramiento de un Magistrado Provisional a la aprobación del Congreso del Estado o en su receso a la de la Diputación Permanente, observándose, en su caso, lo dispuesto en la parte final del Artículo 83 de esta Constitución.
+Si la falta fuere definitiva, entrará provisionalmente en funciones el Magistrado Supernumerario que determine el Pleno del Consejo de la Judicatura, en tanto el Congreso o la Diputación Permanente en su caso, resuelve, de entre los Supernumerarios, la designación del Magistrado sustituto, observándose en cuanto a la vacante el procedimiento dispuesto por el Artículo 83 de esta Constitución
 
-Si faltare un Magistrado por Defunción o por cualquiera causa de separación definitiva, el Gobernador someterá nuevo nombramiento a la aprobación del Congreso del Estado. Si el Congreso no estuviere en funciones, la Diputación Permanente dará su aprobación, mientras se reúne aquél y da la aprobación definitiva.
-
-Los Magistrados Supernumerarios que suplan a los Numerarios, permanecerán en el desempeño del cargo hasta que tome posesión el Magistrado nombrado por el Gobernador del Estado, ya sea con carácter provisional o definitivo.
+Si el nombramiento estuviere ratificado y el titular no aceptara el cargo, se hará nueva designación.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
@@ -1123,13 +1175,19 @@ Las licencias de los Magistrados, cuando no excedan de hasta noventa días, ser�
 
 Los nombramientos de los Magistrados y Jueces del Poder Judicial del Estado, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de acuerdo al procedimiento establecido por esta Constitución y en la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 90.
 
-Los Magistrados, el Procurador de Justicia, Agentes del Ministerio Público, Jueces de Primera Instancia, Menores y sus respectivos Secretarios, no podrán ejercer la profesión de Abogados, ni por sí ni por interpósita persona, sino en sus negocios propios, en el de su esposa y en los de sus hijos.
+Los Magistrados del Tribunal Superior de Justicia, los Jueces y Secretarios, así como los Consejeros de la Judicatura, en ejercicio, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, del Estado, Municipios o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficiencia (sic).
 
-Asimismo, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, del Estado, Municipios o de Particulares, salvo los cargos en Asociaciones Científicas, docentes, literarias o de beneficencia. La infracción de estas disposiciones serán castigadas por la pérdida del cargo.
+Quienes hubieren ocupado el cargo de Magistrados o Consejeros no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, excepto tratándose de negocios propios, de su cónyuge y sus descendientes.
+
+Durante dicho plazo, las personas que se hayan desempeñado como Magistrados, salvo que lo hubieren hecho con el carácter de Supernumerarios, no podrán ocupar los cargos señalados en la fracción VI del Artículo 82 de esta Constitución.
+
+Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia.
+
+La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
@@ -1147,15 +1205,19 @@ El Ministerio Público es el representante legítimo de los intereses sociales a
 
 Ejerce las funciones de Ministerio Público en el Estado, el Procurador General de Justicia que será el jefe nato de aquél y los agentes que determine la ley.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 94.
 
 Para ser Procurador General de Justicia del Estado, se necesitan los mismos requisitos que para ser Magistrado del Tribunal Superior de Justicia.
 
+La propuesta y ratificación respectivas, se harán dentro del plazo de diez días naturales conforme las bases estipuladas en esta Constitución. El Procurador podrá ser removido libremente por el Gobernador.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+
 ###### Art. 95.
 
-Para ser Agente del Ministerio Público, se necesitan los mismos requisitos que para ser Juez Menor.
+No podrá ser Procurador General de Justicia del Estado quien haya ocupado el cargo de Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura, durante el año previo al día de la designación.
 
 ###### Art. 96.
 
@@ -1215,11 +1277,13 @@ Los Defensores de Oficio serán nombrados y removidos por el Ejecutivo del Estad
 
 Los defensores de oficio deberán reunir los mismos requisitos que se exigen a los agentes del ministerio público.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+
 ## TITULO SEXTO
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 106.
 
@@ -1305,9 +1369,9 @@ El Congreso del Estado determinará por el Código para la Administración Munic
 
 La Hacienda Pública del Estado y de los Municipios, se formará de impuestos, contribuciones, derechos, productos y aprovechamientos diversos que fije la Legislatura del Estado en las respectivas Leyes de Ingresos. En todo caso, las contribuciones que se asignen a los Ayuntamientos, deberán ser suficientes para las necesidades de sus respectivos Municipios, conforme a lo establecido por el Artículo 115 de la Constitución General de la República y quedarán facultados para celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la Administración de esas contribuciones.
 
-## TITULO OCTAVO(SIC)
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
+## TITULO SEPTIMO
 
 ### CAPITULO UNICO. De la Inviolabilidad y Reformas de esta Constitución
 
@@ -1375,11 +1439,15 @@ El año Fiscal queda comprendido del primero de Enero al treinta y uno de Diciem
 
 > <small>(REFORMADA SU NUMERACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-## TITULO NOVENO
+## TITULO OCTAVO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 122.
 
-Para los efectos de las responsabilidades a que alude este título, se reputarán como Servidores Públicos, a los Representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios, empleados y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública del Estado, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos, a los representantes de elección popular, a los miembros del Poder Judicial, a los Consejeros de la Judicatura, a los funcionarios, empleados y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública del Estado, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 También se reputarán como servidores públicos a quienes desempeñen cargo de representación popular, empleo, cargo o comisión en los Ayuntamientos de la Entidad.
 
@@ -1403,15 +1471,15 @@ Las Leyes determinarán casos y circunstancias en los que se deba sancionar pena
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 124.
 
-Podrán ser sujetos de juicio político los diputados al Congreso del Estado, los magistrados del Tribunal Superior de Justicia, los Secretarios de despacho y los servidores públicos de la estructura básica centralizada, el Procurador General de Justicia, los jueces de Primera Instancia, los directores generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de fideicomisos públicos, los coordinadores generales, presidentes, regidores y síndicos de los Ayuntamientos de la Entidad, así como el secretario, tesorero, directores, jefes de departamentos y oficinas de los mismos.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Secretarios de Despacho y los Servidores Públicos de la estructura básica centralizada, el Procurador General de Justicia, los Jueces de Primera Instancia, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de Fideicomisos Públicos, los Coordinadores Generales, Presidentes, Regidores y Síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamento y oficinas de los mismos.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
-El Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados del Tribunal Superior de Justicia, sólo podrán ser sujetos de juicio político por violaciones graves a la Constitución General de la República, a la Particular del Estado, a las Leyes Federales y Locales que de ellas emanen, así como por el manejo indebido de fondos y recursos.
+El Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y los miembros del Consejo de la Judicatura, sólo podrán ser sujetos de juicio político por violaciones graves a la Constitución General de la República, a la particular del Estado, a las leyes federales y locales que de ellas emanen, así como por el manejo indebido de fondos y recursos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -1441,7 +1509,9 @@ Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposició
 
 Por lo que toca al Gobernador del Estado, solo habrá lugar a acusarlo ante el Congreso del Estado en los términos del artículo 124. En este supuesto, el Congreso resolverá con base en la Legislación penal aplicable.
 
-La Legislatura Local, en ejercicio de sus atribuciones, procederá como corresponda por los delitos federales que procedieren penalmente contra del Gobernador del Estado, los Diputados Locales y Magistrados del Tribunal Superior de Justicia una vez que se haya declarado la procedencia del procedimiento por el Congreso de la Unión o de sus Cámaras.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+
+La Legislatura Local, en ejercicio de sus atribuciones, intervendrá en definitiva por la comisión de delitos federales en contra del Gobernador, Diputados Locales, Magistrados del Tribunal Superior de Justicia y, en su caso, Consejeros de la Judicatura, una vez que el Congreso de la Unión o cualesquiera de sus Cámaras, emitan la declaratoria de procedencia respectiva.
 
 El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separado de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
@@ -1483,7 +1553,7 @@ En demandas del orden civil no habrá fuero, ni inmunidad para ningún servidor 
 
 > <small>(REFORMADA SU NUMERACION, P.O. 9 DE ABRIL DE 1988)</small>
 
-## TITULO DECIMO
+## TITULO NOVENO
 
 ###### Art. 130.
 
@@ -1500,6 +1570,8 @@ Esta Constitución puede ser adicionada o reformada. Las proposiciones que tenga
 Las proposiciones de reforma o adición, que no fueren admitidas por la Legislatura, no podrán repetirse en el mismo período de sesiones.
 
 > <small>(ADICIONADA SU NUMERACION, P.O. 9 DE ABRIL DE 1988)</small>
+
+## TITULO DECIMO
 
 ###### Art. 133.
 
@@ -1605,7 +1677,7 @@ P.O. 30 DE MARZO DE 1919.
 
 Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 
-P.O. 24 DE JULIO DE 1919.
+P.O. 24 DE JULIO DE 1919
 
 Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 
@@ -2051,7 +2123,7 @@ P.O. 14 DE MAYO DE 1994.
 
 UNICO.- Seguidos los trámites a que se refiere el Artículo 131 de la Constitución Política, el presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
 
-P.O. 1 DE JUNIO DE 1994
+P.O. 1 DE JUNIO DE 1994.
 
 DECRETO 7763, QUE REFORMA ART. 42.
 
@@ -2065,8 +2137,54 @@ Para todos los efectos prevenidos en la Ley Orgánica del Poder Legislativo y el
 
 P.O. 1 DE JUNIO DE 1994.
 
-DECRETO NUM. 7766, QUE REFORMA LOS ARTS. 29 Y 124.
+DECRETO NUM. 7766, QUE REFORMA LOS ARTS. 29 Y 124, Y DEL 72 AL 79.
 
 ###### ARTICULO UNICO.
 
 Con fundamento a los trámites a que se refiere el Artículo 131 de la Constitución Política, el presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 26 DE ABRIL DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor, de conformidad al procedimiento establecido en el Artículo 131 de la Constitución Política, al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Lo dispuesto en los Artículos 81 y 83, en lo relativo a la duración del cargo y al procedimiento de elección de los Magistrados, respectivamente, entrarán en vigor el día 24 de septiembre de 1999. Para el efecto de la nueva integración del Tribunal Superior de Justicia, el Gobernador por única vez hará el nombramiento de los dos nuevos Magistrados con la aprobación del Congreso por el voto afirmativo de las dos terceras partes de los miembros presentes en sesión, durando los designados en el cargo hasta el 23 de septiembre de 1999.
+
+Para la integración del Pleno del Tribunal Superior de Justicia que se instale precisamente el día 24 de septiembre de 1999, conforme las bases previstas en el presente Decreto, se deberá proveer un sistema de escalonamiento con duración y vencimiento diferenciados del cargo, en los términos siguientes:
+
+A.- Los tres primeros Magistrados Numerarios serán designados para un período que vencerá el 23 de septiembre del 2003;
+
+B.- Los siguientes dos nombramientos de Magistrados Numerarios ejercerán para un período que concluirá el 23 de septiembre del 2005;
+
+C.- Los dos últimos nombramientos de Magistrados Numerarios designados serán para un término que finalizará el 23 de septiembre del 2009, y
+
+D.- Las designaciones de los Magistrados Supernumerarios se harán de entre las propuestas en terna que haga el Gobernador para un periodo de cinco años, a partir del día 24 de septiembre de 1999.
+
+Los Magistrados actuales que no fueren ratificados, y los que se encuentren comprendidos en los apartados A y B de este artículo, independientemente de los derechos laborales que les asistan, no tendrán los impedimentos a que se refieren los Artículos 29, 62 fracción III y 90 en la parte conducente al ejercicio libre de su profesión.
+
+###### ARTICULO TERCERO.
+
+El Gobernador que tome posesión del cargo el 19 de septiembre de cada seis años, hará nombramiento provisional del Procurador General de Justicia, hasta en tanto se surte el nombramiento y ratificación correspondiente, que no deberá exceder del término de diez días naturales.
+
+###### ARTICULO CUARTO.
+
+El Pleno del Tribunal Superior de Justicia continuará a cargo de los asuntos administrativos hasta en tanto quede constituido el Consejo de la Judicatura Estatal, a cuya instalación se formularán las minutas de entrega-recepción correspondientes.
+
+###### ARTICULO QUINTO.
+
+Al entrar en vigor las presentes reformas y adiciones, deberán implementarse las enmiendas y adecuaciones a la Ley Orgánica del Poder Judicial del Estado y, en su caso, se expedirán los reglamentos respectivos, en los términos de esta Constitución y la ley. Los derechos laborales de los servidores públicos del Poder Judicial serán respetados íntegramente.
+
+###### ARTICULO SEXTO.
+
+Por esta única vez y para los efectos del Artículo 85 de la reforma, los Consejeros de la Judicatura Estatal que se designen, a excepción del Presidente que lo será el Magistrado Presidente del Tribunal Superior de Justicia, se arreglarán al procedimiento y términos que siguen:
+
+1.- El Consejo quedará integrado en un plazo que no excederá de los treinta días naturales, a partir de la entrada en vigor de este Decreto;
+
+2.- La reunión solemne de instalación del Consejo será convocada, en su fecha, por el Pleno del Tribunal Superior de Justicia.
+
+3.- Los Magistrados nombrados por las Salas como Consejeros ejercerán por un término de tres años, sin que puedan ser ratificados para otro período, y
+
+4.- El juez y el Secretario serán designados como Consejeros por y ante el Pleno del Tribunal Superior de Justicia mediante insaculación, para un período de cuatro años, sin que puedan ser ratificados para otro período. Al efecto, el Presidente del Tribunal Superior de Justicia, formulará una lista de Jueces y Secretarios actuales que reúnan los requisitos, de entre los cuales se hará el sorteo.
