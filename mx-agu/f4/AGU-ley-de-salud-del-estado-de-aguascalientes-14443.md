@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2001-11-26"
+last_updated: "2004-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 6 de junio de 1999.
 
@@ -65,9 +65,11 @@ VI.- El conocimiento para el adecuado aprovechamiento y utilización de los serv
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 3º.
 
-En los términos de la Ley General de Salud y la presente Ley, corresponde al Gobierno del Estado de Aguascalientes planear, ejecutar, coordinar, organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general en los términos de los Artículos 1º, 3º, 9º y 13 de la Ley General de Salud.
+En los términos de la Ley General de Salud y la presente Ley, corresponde al Gobierno del Estado de Aguascalientes planear, ejecutar, coordinar, organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad local en los términos de los Artículos 1º, 3º, 9º y 13 de la Ley General de Salud.
 
 ###### ARTICULO 4º.
 
@@ -79,15 +81,19 @@ II.- El Instituto de Salud del Estado de Aguascalientes; y
 
 III.- Los Ayuntamientos en el ámbito de su respectiva competencia.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 5º.
 
 Para efectos de esta Ley, se entiende por:
 
-a).- Ley General: La Ley General de Salud;
+I.- Ley General: La Ley General de Salud;
 
-b).- Organismo: Al Organismo Público Descentralizado rector del Sistema Estatal de Salud; y
+II.- Ley Estatal: La Ley de Salud del Estado de Aguascalientes;
 
-c).- Sistema de Salud: Al Sistema Estatal de Salud.
+III.- Organismo: Al Organismo Público Descentralizado rector del Sistema Estatal de Salud; y
+
+IV.- Sistema de Salud: Al Sistema Estatal de Salud.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -101,6 +107,8 @@ El Sistema Estatal de Salud está constituido por las dependencias y entidades p
 
 El Sistema Estatal de Salud, con la intervención que corresponda a la Secretaría de Planeación, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, y del Estado con los Municipios.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 7º.
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
@@ -111,7 +119,7 @@ II.- Contribuir al desarrollo demográfico armónico del Estado;
 
 III.- Colaborar al bienestar social de la población del Estado de Aguascalientes, mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
-IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al sano y buen crecimiento físico y mental de la niñez;
+IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al sano y buen funcionamiento físico y mental de la niñez;
 
 V.- Apoyar al mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
 
@@ -119,19 +127,25 @@ VI.- Impulsar, en el ámbito estatal un sistema racional de administración y de
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
 
-VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
+VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
+
+IX.- Fomentar la integración, organización y funcionamiento de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado, apoyándolos para la realización de programas de capacitación y actualización, a efecto de que coadyuven más eficazmente con el sistema estatal de salud; y
+
+X.- Implementar el régimen estatal de protección social en Salud.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 8º.
 
 La coordinación del Sistema Estatal de Salud estará a cargo del Instituto de Salud del Estado de Aguascalientes, a quien le corresponderá lo siguiente:
 
-I.- Asumir y mantener la rectoría, organizando y operando en el Estado de Aguascalientes, los servicios de salud a la población abierta en materia de salubridad general y de regulación, control y fomento sanitarios, conforme a lo establecido por esta Ley, la Ley General de Salud, por los Acuerdos de Coordinación suscritos con la Federación y otros ordenamientos aplicables;
+I.- Asumir y mantener la rectoría, organizando y operando en el Estado de Aguascalientes, los servicios de salud a la población abierta en materia de salubridad estatal y de regulación, control y fomento sanitarios, conforme a lo establecido por la Ley Estatal, la Ley General, los Acuerdos de Coordinación suscritos con la Federación y los municipios y otros ordenamientos aplicables;
 
 II.- Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes del Estado;
 
 III.- Proponer y fortalecer la participación de la comunidad en los servicios de salud;
 
-IV.- Conocer y aplicar la normatividad general en materia de salud, tanto nacional como internacional, a fin de proponer adecuaciones a la normatividad estatal y esquemas que logren su cabal cumplimiento;
+IV.- Supervisar que en la prestación de los servicios de salud se aplique la normatividad vigente en la materia tanto nacional como internacional;
 
 V.- Realizar todas aquellas acciones necesarias para mejorar la calidad en la prestación de los servicios de salud;
 
@@ -149,19 +163,31 @@ XI.- Ejecutar todas las acciones contempladas en el presente ordenamiento y sus 
 
 XII.- Impulsar en el ámbito estatal las actividades científicas y tecnológicas en el campo de la salud;
 
-XIII.- Apoyar la coordinación entre las instituciones de salud y las educativas estatales y federales para formar y capacitar recursos humanos para la salud;
+XIII.- Apoyar la coordinación entre las instituciones de salud y educativas estatales, municipales y federales, así como los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado, para formar y capacitar recursos humanos para la salud;
 
-XIV.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud; y
+XIV.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
-XV.- Las demás que esta Ley y otras disposiciones aplicables le confieran para el cumplimiento de su objeto.
+XV.- Llevar el registro de los profesionales, técnicos y auxiliares de la salud, que ejerzan sus actividades en el Estado y supervisar su ejercicio profesional;
+
+XVI.- Promover la constitución de colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, fomentando e incentivando la afiliación;
+
+XVII.- Llevar el registro de los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado;
+
+XVIII.- Regular, desarrollar, coordinar, evaluar y supervisar las acciones de protección social en salud en la Entidad; y
+
+XIX.- Las demás que esta Ley y otras disposiciones aplicables le confieran para el cumplimiento de su objeto.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 9º.
 
-El Organismo promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+El Organismo promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, federales, estatales y municipales, de los trabajadores y de los usuarios de los mismos, así como de los colegios, asociaciones y organismos de profesionales técnicos y auxiliares de salud del Estado en términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 10.
 
@@ -179,17 +205,17 @@ IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan l
 
 La competencia de las autoridades sanitarias en la planeación, regulación, presupuestación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por lo establecido en esta Ley y demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 12.
 
-El titular del Ejecutivo del Estado con la participación que corresponda al Instituto de Salud del Estado de Aguascalientes, a la Secretaría de Planeación y los Ayuntamientos, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
+El titular del Ejecutivo del Estado con la participación que corresponda al Instituto de Salud del Estado de Aguascalientes, al Comité de Planeación para el Desarrollo del Estado, los Ayuntamientos, y escuchando la opinión de los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado y demás instituciones del sector social y privado, elaborará el Programa Estatal de Salud de manera sexenal y/o con cada cambio de administración, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
 
 ###### ARTICULO 13.
 
-La estructura administrativa a que se refieren los Artículos 19 y 20 de la Ley General de Salud, se denominará "Instituto de Salud del Estado de Aguascalientes". Este Instituto es un organismo público descentralizado, con personalidad jurídica, patrimonio propio y funciones de autoridad, que tiene como objetivo la prestación de servicios de salud a la población abierta en el Estado de Aguascalientes, en cumplimiento a lo dispuesto por la Ley General de Salud, por esta Ley, sus Reglamentos, y de conformidad con lo establecido en los Acuerdos de Coordinación y Descentralización que suscriba el Gobierno del Estado sobre la materia.
+La estructura administrativa a que se refieren los Artículos 19 y 20 de la Ley General de Salud, se denominará "Instituto de Salud del Estado de Aguascalientes". Este Instituto es un organismo público descentralizado, con personalidad jurídica, patrimonio propio y funciones de autoridad, que tiene como objetivo la prestación de servicios de salud a la población abierta en el Estado de Aguascalientes, en cumplimiento a lo dispuesto por la Ley General de Salud, por esta Ley, sus Reglamento (sic), y de conformidad con lo establecido en los Acuerdos de Coordinación y Descentralización que suscriba el Gobierno del Estado sobre la materia.
 
-Su domicilio oficial será en el Municipio de Aguascalientes, en el Estado de Aguascalientes.
+Su domicilio oficial será el Municipio de Aguascalientes.
 
 ###### ARTICULO 14.
 
@@ -225,6 +251,8 @@ I.- Al Consejo Interno; y
 
 II.- Al Director General del Organismo.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 17.
 
 El Consejo Interno quedará integrado de la siguiente forma:
@@ -251,11 +279,13 @@ X.- Por un representante del Colegio de Cirujanos Dentistas;
 
 XI.- Por un representante del Colegio de Optometría;
 
-XII.- Por un representante del Colegio de Enfermería; y
+XII.- Por un representante del Colegio de Enfermería;
 
-XIII.- Por un representante del Congreso del Estado.
+XIII.- Por un representante del Congreso del Estado; y
 
-El Presidente del Consejo Interno podrá invitar a las sesiones de dicho órgano al Director del Organismo, a los representantes de instituciones públicas federales, estatales o municipales, o representantes sindicales que guarden relación con el objeto del Organismo, quienes tendrán voz pero no voto en la sesión.
+XIV.- Por un representante de los municipios del Estado.
+
+El Presidente del Consejo Interno podrá invitar a las sesiones de dicho órgano al Director del Organismo, a los representantes de instituciones públicas federales, estatales o municipales, representantes sindicales que guarden relación con el objeto del Organismo, y representantes de los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, cuando se traten asuntos que correspondan a la materia de éstos, los cuales tendrán voz pero no voto en la sesión.
 
 Por cada miembro propietario habrá un suplente, con excepción del Presidente. El Presidente tendrá voto de calidad.
 
@@ -697,11 +727,15 @@ Las cuotas de recuperación se fundarán en principios de solidaridad social y g
 
 Son servicios de derechohabientes, los prestados por la institución a que se refiere la fracción II del Artículo 45 de esta Ley a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus leyes y a sus beneficiarios, los que con sus propios recursos o por encargo del Ejecutivo Estatal preste dicha institución a otros grupos de usuarios.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 49.
 
-Son servicios de salud privados los que presten personas físicas o morales en las condiciones que convengan con los usuarios, y sujetadas a los ordenamientos legales, civiles y mercantiles. En materia de tarifas, se estará a lo dispuesto por la Secretaría de Salud y la Secretaría de Comercio y Fomento Industrial.
+Son servicios de salud privados los que presten personas físicas o morales en las condiciones que convengan con los usuarios, y sujetadas a los ordenamientos legales, civiles y mercantiles.
 
-Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos en un mínimo del cinco por ciento de su capacidad hospitalaria.
+Los servicios de salud de carácter social y privado, con excepción del servicio personal independiente, estarán sujetos a las tarifas que establezca la Secretaría de Economía, oyendo la opinión del Instituto de Salud y de los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado.
+
+Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos en un mínimo del cinco por ciento de su capacidad.
 
 ###### ARTICULO 50.
 
@@ -719,13 +753,43 @@ Los trabajadores de los establecimientos estatales de salud podrán participar e
 
 El Gobierno del Estado y los Municipios podrán convenir con las Instituciones Federales de Seguridad Social, la prestación de servicios de salud para sus trabajadores.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 54.
 
 El Gobierno del Estado y la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la Salud, en la prestación de los servicios respectivos.
 
+Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, orientarán con las autoridades de salud en la supervisión del ejercicio profesional de sus agremiados.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 55.
 
 El organismo coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud; asimismo estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+
+Es obligatorio que los profesionales, técnicos y auxiliares de la salud que ejerzan en el Estado de Aguascalientes, estén debidamente registrados ante el Instituto de Salud del Estado.
+
+El registro y su refrendo, se llevará a cabo en las oficinas del Instituto de Salud del Estado y se solicitará junto con los siguientes documentos:
+
+a).- Solicitud de Registro;
+
+b).- Original y copia del Título que acredite el nivel académico de conocimientos;
+
+c).- Original y copia de la Cédula Profesional;
+
+d).- Constancia del domicilio en donde se presentarán los servicios médicos;
+
+e).- Original y copia de la constancia de grado de especialidad, en su caso; y
+
+f).- Original y copia de la cédula de especialidad, en su caso.
+
+El refrendo del registro será cada tres años, y para su trámite se deberán presentar los siguientes documentos:
+
+a).- Solicitud de Refrendo;
+
+b).- Copia de la constancia de haber tomado como mínimo un curso por año de actualización y/o capacitación en el área médica de su competencia.
+
+Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, informarán al Instituto de Salud acerca de las altas y bajas de sus integrantes, así como de los datos generales de cada asociado, de la misma forma podrán gestionar los registros y refrendos de sus integrantes ante el Instituto sin cobro alguno.
 
 ### CAPITULO V. Atención Materno-Infantil
 
@@ -745,9 +809,13 @@ Los usuarios deberán ajustarse a las reglamentaciones internas de las instituci
 
 El Organismo establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y los servicios sociales y privados en el Estado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 60.
 
 Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los profesionales de la salud.
+
+Los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, podrán coadyuvar con las autoridades sanitarias, mediante la recepción de quejas y denuncias, la investigación de las mismas y la presentación de propuestas de solución. Asimismo, tratándose de miembros, tomarán las medidas internas, conforme a sus propios estatutos.
 
 ###### ARTICULO 61.
 
@@ -785,9 +853,13 @@ VIII.- En otras actividades que coadyuven a la protección de la salud.
 
 El Instituto de Salud del Estado de Aguascalientes y demás Instituciones de Salud Estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de discapacidad y de rehabilitación de personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 66.
 
-Para los efectos del artículo anterior, en las cabeceras municipales, se constituirán Comités de Salud con carácter de honoríficos, que podrán ser integrados por núcleos de población urbana o rural, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica y social y mantenimiento de unidades.
+Para los efectos del artículo anterior, en las cabeceras municipales, se constituirán Comités de Salud con carácter de honoríficos que podrán ser integrados por núcleos de población urbana o rural, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica y social y mantenimiento de unidades.
+
+Asimismo, se podrán constituir subcomités para la atención de programas específicos en el ámbito municipal, de carácter temporal o permanente.
 
 ###### ARTICULO 67.
 
@@ -811,9 +883,11 @@ II.- La atención del niño y la vigilancia de su nutrición, crecimiento y desa
 
 III.- La promoción de la integración y del bienestar familiar.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 70.
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+En los servicios de salud se promoverá la organización institucional de comités de carácter estatal o municipal de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes, en todo el estado, en alguna región, municipio o sector específico.
 
 ###### ARTICULO 71.
 
@@ -829,15 +903,17 @@ II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia
 
 III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 73.
 
-Las autoridades sanitarias estatales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+Las autoridades sanitarias estatales, municipales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
 I.- Los programas para padres destinados a promover la atención materno-infantil;
 
 II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+III.- La vigilancia de actividades ocupaciones (sic) que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
 IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de escretas; y
 
@@ -851,7 +927,9 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ### CAPITULO VII. Salud Mental
 
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
+### CAPITULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 75.
 
@@ -877,31 +955,39 @@ V.- La participación en el establecimiento de mecanismos idóneos para la deter
 
 VI.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 77.
 
-Los Comités de Salud a que se refiere el Artículo 66 de esta Ley, promoverán que en sus poblaciones y localidades se impartan pláticas de orientación en materia de planificación familiar y educación sexual, que estén de acuerdo a la dignidad humana y a los valores familiares de nuestra sociedad, sin menoscabo del ejercicio de la paternidad responsable. Las instituciones de Salud y educativas brindarán, al efecto, el apoyo necesario.
+Los Comités y subcomités de Salud a que se refiere el Artículo 66 de esta Ley, promoverán que en sus poblaciones y localidades se impartan pláticas de orientación en materia de planificación familiar y educación sexual, que estén de acuerdo a la dignidad humana y a los valores familiares de nuestra sociedad, sin menoscabo del ejercicio de la paternidad responsable. Las instituciones de Salud y educativas brindarán, al efecto, el apoyo necesario.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 78.
 
-El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales de salud.
+El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales y municipales de salud.
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+### CAPITULO II. De los Beneficiarios
 
-### CAPITULO III. Formación, Capacitación y Actualización del Personal
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
 ###### ARTICULO 79.
 
 La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores de riesgo que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 80.
 
-Para la promoción de la salud mental, el Organismo y las Instituciones de Salud en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental, el Organismo y las Instituciones de Salud en coordinación con las autoridades federales, estatales y municipales competentes en cada materia, fomentarán y apoyarán:
 
 I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III.- La realización de programas para prevención del abuso del alcohol y del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o adiciones; y
+III.- La realización de programas para prevención del abuso del alcohol y del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o adiciones (sic); y
 
 IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
@@ -925,21 +1011,217 @@ El Organismo conforme a la normatividad vigente, prestará atención a los enfer
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO II. Servicio Social de Pasantes y Profesionales
+
+## TITULO QUINTO BIS. REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO III. Formación, Capacitación y Actualización del Personal
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ## TITULO SEXTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
 ### CAPITULO UNICO
 
+###### ARTICULO 83 Bis 1.
+
+El Régimen Estatal de Protección Social en Salud es un mecanismo por el cual el Estado garantizará el acceso efectivo, oportuno, de calidad, sin desembolso al momento de utilización y sin discriminación a los servicios médico-quirúrgicos, farmacéuticos y hospitalarios que satisfagan de manera integral las necesidades de salud, mediante la combinación de intervenciones de promoción de la salud, prevención, diagnóstico, tratamiento y de rehabilitación, seleccionadas en forma prioritaria según criterios de seguridad, eficacia, costo, efectividad, adherencia a normas éticas profesionales y aceptabilidad social.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 2.
+
+El Régimen Estatal de Protección Social en Salud se establecerá mediante la implementación de un seguro popular, que beneficie a las familias y personas que no sean derechohabientes de las instituciones de seguridad social o no cuenten con algún otro mecanismo de previsión social en salud.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 3.
+
+Como mínimo se deberán contemplar los servicios de consulta externa en el primer nivel de atención, así como de consulta externa y hospitalización para las especialidades básicas de: medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, en el segundo nivel de atención.
+
+Asimismo el Régimen Estatal de Protección Social en Salud deberá considerar, al menos, los aspectos siguientes:
+
+I.- Prestaciones orientadas a la prevención y el fomento del autocuidado de la salud;
+
+II.- Aplicación de exámenes preventivos;
+
+III.- Programación de citas para consultas;
+
+IV.- Atención personalizada;
+
+V.- Integración de expedientes clínicos;
+
+VI.- Continuidad de cuidados mediante mecanismos de referencia y contrarreferencia;
+
+VII.- Prescripción y surtimiento de medicamentos; y
+
+VIII.- Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 4.
+
+Atendiendo a la disponibilidad presupuestal corresponde al Instituto de Salud del Estado, a través del Régimen Estatal de Protección Social en Salud:
+
+I.- Proveer los servicios de salud en los términos de este Título, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
+
+II.- Identificar e incorporar a beneficiarios al Régimen Estatal de Protección Social en Salud, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en su entidad, conforme a los lineamientos establecidos para tal efecto por la Secretaría de Salud;
+
+III.- Aplicar de manera transparente y oportuna los recursos que sean transferidos por la Federación y las aportaciones propias, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para el efecto se celebren;
+
+IV.- Programar los recursos que sean necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento conforme a las prioridades que se determinen en la Entidad, en congruencia con el plan maestro que se elabore en el ámbito nacional por la Secretaría de Salud;
+
+V.- Recibir, administrar y ejercer las cuotas familiares de los beneficiarios del Régimen Estatal de Protección Social en Salud, así como los demás ingresos que en razón de frecuencia en uso de los servicios o especialidad o para el surtimiento de medicamentos asociados, se impongan de manera adicional en los términos de la Ley General;
+
+VI.- Realizar el seguimiento operativo de las acciones del Régimen Estatal de Protección Social en Salud y la evaluación de su impacto, proveyendo a la Federación la información que para el efecto le solicite;
+
+VII.- Adoptar esquemas de operación que mejoren la atención, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la certificación de establecimientos de atención médica;
+
+VIII.- Proporcionar a la Secretaría de Salud la información relativa al ejercicio de recursos transferidos, así como la correspondiente a los montos y rubros de gasto; y
+
+IX.- Promover la participación de los municipios mediante la suscripción de convenios, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO UNICO
+
+###### ARTICULO 83 Bis 5.
+
+Gozarán de los beneficios del Régimen Estatal de Protección Social en Salud las familias cuyos miembros en lo individual satisfagan los siguientes requisitos:
+
+I.- Ser residentes en el Estado;
+
+II.- No ser derechohabientes de la seguridad social;
+
+III.- Contar con Clave Unica de Registro de Población;
+
+IV.- Cubrir las cuotas familiares correspondientes, en los términos establecidos por esta Ley; y
+
+V.- Cumplir con las obligaciones establecidas en este Título.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 6.
+
+Los beneficiarios del Régimen Estatal de Protección Social en Salud participarán en su financiamiento con cuotas familiares que se determinarán con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en la forma y fechas que determine el organismo, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema de Protección Social en Salud.
+
+Las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse a períodos subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
+
+La carencia de ingresos no podrá ser limitantes (sic) para el acceso al Régimen Estatal de Protección Social en Salud.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 7.
+
+El Régimen Estatal de Protección Social en Salud proveerá de manera integral los servicios de salud y los medicamentos asociados, sin exigir cuotas distintas a las establecidas, siempre que los beneficiarios cumplan con sus obligaciones y se cuente con suficiencia presupuestal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 8.
+
+Los beneficiarios del Sistema de Protección Social en Salud tienen derecho a recibir bajo ningún tipo de discriminación los servicios de salud, los medicamentos y los insumos esenciales requeridos para el diagnóstico y tratamiento de los padecimientos, en las unidades médicas acreditadas de su elección del Régimen Estatal de Protección Social en Salud.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 9.
+
+Los beneficiarios del Régimen Estatal de Protección Social en Salud tendrán además de los derechos establecidos en el artículo anterior, condicionada a la disponibilidad presupuestal, los siguientes:
+
+I.- Recibir servicios integrales de salud;
+
+II.- Acceso igualitario a la atención;
+
+III.- Trato digno, respetuoso y atención de calidad;
+
+IV.- Recibir los medicamentos que sean necesarios y que correspondan a los servicios de salud;
+
+V.- Recibir información suficiente, clara, oportuna y veraz, así como la orientación que sea necesaria respecto de la atención de su salud y sobre los riesgos y alternativas de los procedimientos diagnósticos, terapéuticos y quirúrgicos que se le indiquen o apliquen;
+
+VI.- Contar con su expediente clínico;
+
+VII.- Decidir libremente sobre su atención;
+
+VIII.- Otorgar o no su consentimiento válidamente informado y a rechazar tratamientos o procedimientos;
+
+IX.- Ser tratado con confidencialidad;
+
+X.- Contar con facilidades para obtener una segunda opinión;
+
+XI.- Recibir atención médica en urgencias;
+
+XII.- Recibir información sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y obtención de servicios de atención médica;
+
+XIII.- No cubrir cuotas de recuperación específicas por cada servicio que reciban;
+
+XIV.- Presentar quejas ante los Regímenes Estatales de Protección Social en Salud o ante los servicios estatales de salud, por la falta o inadecuada prestación de servicios establecidos en este Título, así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas, y
+
+XV.- Ser atendido cuando se inconforme por la atención médica recibida.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 10.
+
+Los beneficiarios del Régimen Estatal de Protección Social en Salud tendrán las siguientes obligaciones:
+
+I.- Adoptar conductas de promoción de la salud y prevención de enfermedades;
+
+II.- Hacer uso de la credencial que los acredite como beneficiarios como documento de naturaleza personal e intransferible y presentarla siempre que se requieran servicios de salud;
+
+III.- Informarse sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y servicios de atención médica;
+
+IV.- Colaborar con el equipo de salud, informando verazmente y con exactitud sobre sus antecedentes, necesidades y problemas de salud;
+
+V.- Cumplir las recomendaciones, prescripciones, tratamiento o procedimiento general al que haya aceptado someterse;
+
+VI.- Informarse acerca de los riesgos y alternativas de los procedimientos terapéuticos y quirúrgicos que se le indiquen o apliquen, así como de los procedimientos de consultas y quejas;
+
+VII.- Cubrir oportunamente las cuotas familiares y reguladoras que, en su caso, se le fijen;
+
+VIII.- Dar un trato respetuoso al personal médico, auxiliar y administrativo de los servicios de salud, así como a los otros usuarios y sus acompañantes;
+
+IX.- Cuidar las instalaciones de los establecimientos de salud y colaborar en su mantenimiento;
+
+X.- Hacer uso responsable de los servicios de salud; y
+
+XI.- Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 11.
+
+La cobertura del Régimen Estatal de Protección Social en Salud será suspendida de manera temporal a cualquier familia beneficiaria en los siguientes casos:
+
+I.- Cuando no cubra las cuotas familiar o reguladora en la forma y fechas que determine la instancia competente, en su caso; y
+
+II.- Cuando el principal sostén de la familia beneficiaria se incorpore a alguna institución de seguridad social federal o estatal.
+
+La cuota familiar amparará a los beneficiarios en el caso de que suceda la suspensión y la reincorporación a los beneficios del Régimen Estatal de Protección Social en Salud en un mismo ejercicio presupuestal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 12.
+
+Se cancelarán los beneficios del Régimen Estatal de Protección Social en Salud y la posibilidad de reincorporación, cuando cualquier miembro de la familia beneficiaria:
+
+I.- Realice acciones en perjuicio de los propósitos que persiguen el Régimen Estatal de Protección Social en Salud o afecte los intereses de terceros;
+
+II.- Haga mal uso de la identificación que se le haya expedido como beneficiario; y
+
+III.- Proporcione información falsa sobre su nivel de ingreso en el estudio socioeconómico para determinar su cuota familiar y sobre su condición laboral o derechohabiencia de la seguridad social.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 83 Bis 13.
+
+En los casos en que se materialicen los supuestos a que se refieren los artículos anteriores, los interesados conservarán los beneficios del Régimen Estatal de Protección Social en Salud hasta por un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiendo transcurrido este plazo, podrán acceder a los servicios de salud disponibles en los términos y condiciones que establece esta Ley.
+
 ## TITULO SEPTIMO. INVESTIGACION PARA LA SALUD
 
 ### CAPITULO I. Disposiciones Comunes
-
-### CAPITULO II. Educación para la Salud
-
-## TITULO OCTAVO. INFORMACIÓN PARA LA SALUD
-
-### CAPITULO III. Nutrición
 
 ###### ARTICULO 84.
 
@@ -955,11 +1237,17 @@ IV.- Los convenios que al efecto se suscriban entre el Gobierno del Estado y la 
 
 V.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 85.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, salud pública, optometría, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina alópata y homeópata, salud pública, optometría, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, podología, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio, clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, podología, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+
+Los profesionales, técnicos y auxiliares de la salud deben registrarse en el Instituto de Salud del Estado e informar a éste del domicilio en donde ejerzan sus actividades y de los cambios del mismo.
+
+Los colegios y asociaciones de profesionales, técnicos y auxiliares de la salud deberán registrarse ante el Instituto de Salud del Estado, informando a éste del padrón de integrantes de los agremiados, manteniendo actualizada la información acerca de las altas y bajas.
 
 ###### ARTICULO 86.
 
@@ -967,13 +1255,15 @@ Las autoridades educativas del Estado proporcionarán a las autoridades sanitari
 
 En el caso que exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 87.
 
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público su título, certificado o diploma y, en su caso, el número de la cédula profesional respectiva. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que de sus servicios realicen.
+Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán poner a la vista del público su título, certificado o diploma y el número de la cédula profesional y de especialidad, en su caso. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que de sus servicios realicen, pudiendo incorporar además, el colegio o asociación a la que pertenecen.
 
 Asimismo se deberá atender a lo establecido en la Ley General de Salud, al Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica y demás disposiciones legales aplicables.
 
-### CAPITULO IV. Efectos del Ambiente en la Salud
+### CAPITULO II. Educación para la Salud
 
 ###### ARTICULO 88.
 
@@ -999,25 +1289,31 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 El Gobierno del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Aguascalientes, de conformidad con las disposiciones legales del Estado aplicables al ejercicio profesional.
 
-### CAPITULO V. Salud Ocupacional
+### CAPITULO III. Nutrición
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 93.
 
-Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
+Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, recomendarán normas y criterios para la formación de recursos humanos para la salud.
 
 Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 94.
 
 Corresponde al Gobierno del Estado, sin perjuicio de las atribuciones de las autoridades educativas en la materia y en coordinación con éstas:
 
-I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de salud;
+I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de Salud;
 
 II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
 
-III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros; y
+III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
 
-IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
+IV.- Promover la participación voluntaria, a través de los colegios o asociaciones, o de manera individual, de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas; y
+
+V.- Apoyar a los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, en sus programas de capacitación, formación y actualización.
 
 ###### ARTICULO 95.
 
@@ -1037,9 +1333,9 @@ Los aspectos docentes del internado de pregrado y de las residencias de especial
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
 
-## TITULO NOVENO. PROMOCION DE LA SALUD
+## TITULO OCTAVO. INFORMACIÓN PARA LA SALUD
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO IV. Efectos del Ambiente en la Salud
 
 ###### ARTICULO 98.
 
@@ -1097,13 +1393,15 @@ Quien realice investigación en seres humanos en contravención a lo dispuesto e
 
 En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
 
+## TITULO NOVENO. PROMOCION DE LA SALUD
+
+### CAPITULO V. Salud Ocupacional
+
 ## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO II. Enfermedades Transmisibles
+### CAPITULO I. Disposiciones Comunes
 
-## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
-
-### CAPITULO III. Enfermedades no Transmisibles
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 105.
 
@@ -1121,9 +1419,9 @@ III.- Recursos materiales, humanos y financieros disponibles para la protección
 
 Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud del Estado, llevarán a cabo estadísticas que en materia de salud les señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
 
-## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
+## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
 
-### CAPITULO IV. Accidentes
+### CAPITULO II. Enfermedades Transmisibles
 
 ###### ARTICULO 107.
 
@@ -1143,7 +1441,7 @@ IV.- Salud ocupacional; y
 
 V.- Fomento sanitario.
 
-### CAPITULO I. De la Asistencia Social
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 109.
 
@@ -1159,17 +1457,17 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 
 Las autoridades sanitarias estatales y municipales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-### CAPITULO II. De la Discapacidad
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 111.
 
-El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos así como de los sectores social y privado.
+El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos, de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los comités y subcomités municipales y los sectores social y privado.
 
 ###### ARTICULO 112.
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPITULO I. De la Asistencia Social
 
 ###### ARTICULO 113.
 
@@ -1205,27 +1503,31 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 El Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO II. Programa Contra el Tabaquismo
+### CAPITULO II. De la Discapacidad
 
 ###### ARTICULO 118.
 
 El Organismo tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 119.
 
-El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre y la mujer.
+El Gobierno del Estado, en coordinación con las dependencias y entidades municipales y federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre y la mujer.
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
-## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO II. Mercados y Centros de Abasto
+## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
+
+### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 120.
 
-Corresponde al Organismo en coordinación con las autoridades federales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
+Corresponde al Organismo en coordinación con las autoridades federales y municipales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
-### CAPITULO III. De las Construcciones
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 121.
 
@@ -1339,7 +1641,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos u objetos.
 
-### CAPITULO IV. Servicios Funerarios
+### CAPITULO II. Mercados y Centros de Abasto
 
 ###### ARTICULO 135.
 
@@ -1363,7 +1665,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO V. Limpieza Pública
+### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 138.
 
@@ -1387,13 +1689,13 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
+## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
+
+### CAPITULO IV. Servicios Funerarios
+
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO VI. Agua Potable y Alcantarillado
-
-## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
-
-### CAPITULO VII. Prostitución
+### CAPITULO V. Limpieza Pública
 
 ###### ARTICULO 140.
 
@@ -1473,7 +1775,7 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 El patrimonio de la beneficencia pública será administrado por el organismo creado para ello, correspondiéndole entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
 
-### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
+### CAPITULO VI. Agua Potable y Alcantarillado
 
 ###### ARTICULO 153.
 
@@ -1501,25 +1803,29 @@ VII.- La promoción de la educación y la capacitación para el trabajo, así co
 
 Los servicios de rehabilitación que proporcionen los establecimientos del Sector Salud en el Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el Organismo a que se refiere la Ley de Asistencia Social del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 156.
 
-El Gobierno del Estado, a través del Organismo a que se refiere la Ley de Asistencia Social del Estado de Aguascalientes, y en coordinación con las dependencias y entidades federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+El Gobierno del Estado, a través del Organismo a que se refiere la Ley de Asistencia Social del Estado de Aguascalientes, y en coordinación con las dependencias y Entidades Federales y municipales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
 
 ###### ARTICULO 157.
 
 El Organismo en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con discapacidad.
 
-## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO IX. Baños Públicos
+### CAPITULO VII. Prostitución
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 158.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales y municipales para la ejecución en el Estado del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
-II.- La educación sobre los efectos del alcohol en el organismo, el daño a la salud por el abuso del mismo y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
+II.- La educación sobre los efectos del alcohol en el organismo, el daño a la salud por el abuso del mismo en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
 
 III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
 
@@ -1535,7 +1841,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO X. Centros de Reunión y Espectáculos
+### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 160.
 
@@ -1553,27 +1859,35 @@ I.- La investigación de las causas del tabaquismo y de las acciones para contro
 
 II.- La educación a la familia para prevenir el consumo del tabaco por parte de niños y adolescentes.
 
+### CAPITULO IX. Baños Públicos
+
+### CAPITULO X. Centros de Reunión y Espectáculos
+
+## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
 ### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
-
-### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
-
-### CAPITULO XIII. Establecimientos para el Hospedaje
 
 ###### ARTICULO 162.
 
 Compete al Organismo en los términos de esta Ley y de las demás disposiciones legales aplicables, el control sanitario de las materias a que se refiere el Artículo 28, Apartado "B" de esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 163.
 
-Para los efectos de este Título, se entiende por control sanitario, el conjunto de actos que lleva a cabo la autoridad a fin de prevenir riesgos y daños a la salud de la población, y comprende acciones de orientación, educación, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejerce en materia de salubridad local el Organismo en base a lo que establecen las normas técnicas y otras disposiciones legales aplicables.
+Para los efectos de este Título, se entiende por control sanitario, el conjunto de actos que lleva a cabo la autoridad a fin de prevenir riesgos y daños a la salud de la población, y comprende acciones de orientación, educación, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejerce en materia de salubridad local el Organismo con fundamento en lo dispuesto por la Ley General, la presente ley y los reglamentos y normas legales vigentes en la materia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 164.
 
-Se entenderá por norma técnica el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por el Organismo, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
+El Gobernador del Estado expedirá los reglamentos correspondientes, en los que se establezcan las reglas científicas o tecnológicas, que señalen los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, mediante las cuales se uniformen los principios, criterios, políticas y estrategias, a efecto de que éstas sean obligatorias.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 165.
 
-El Organismo emitirá las normas técnicas a que quedará sujeto el control sanitario en las materias de salubridad local, debiendo ser publicadas en el Periódico Oficial del Estado.
+El control sanitario en las materias de salubridad local, quedará sujeto a lo dispuesto por la Ley General, la Ley Estatal y sus reglamentos.
 
 ###### ARTICULO 166.
 
@@ -1603,9 +1917,7 @@ VI.- Número de cédula profesional, en su caso, del responsable sanitario.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
-
-ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
+### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
 
 ###### ARTICULO 169.
 
@@ -1623,7 +1935,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 Los establecimientos ubicados dentro de los mercados o centros de abasto, catalogados como de salubridad general, serán verificados por la autoridad sanitaria competente.
 
-### CAPITULO XV. Transporte Estatal y Municipal
+### CAPITULO XIII. Establecimientos para el Hospedaje
 
 ###### ARTICULO 172.
 
@@ -1659,7 +1971,9 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO XVI. Prevención y Control de la Rabia en Animales
+### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
+
+ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
 
 ###### ARTICULO 180.
 
@@ -1683,7 +1997,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
 
-### CAPITULO XVII. De la Medicina Alternativa
+### CAPITULO XV. Transporte Estatal y Municipal
 
 ###### ARTICULO 184.
 
@@ -1715,11 +2029,13 @@ VII.- El cumplimiento de las demás medidas y requisitos que establezcan las ley
 
 Las autoridades municipales fijarán lugares especiales para depositar la basura, tomando en cuenta, al efecto, la legislación aplicable en materia de contaminación ambiental.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 188.
 
-El Gobierno del Estado, por conducto de sus Municipios, proveerá de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública que estén dentro de su jurisdicción, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
+El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XVI. Prevención y Control de la Rabia en Animales
 
 ###### ARTICULO 189.
 
@@ -1729,13 +2045,17 @@ Los Gobiernos Estatal y Municipales, en sus respectivos ámbitos de competencia,
 
 Los proyectos de abastecimiento de agua potable deberán ser sometidos a la consideración de las autoridades competentes, para la aprobación del sistema adoptado y para el análisis minucioso de las aguas.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 191.
 
-La autoridad sanitaria competente realizará periódicamente análisis de la potabilidad del agua, conforme a esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
+El organismo realizará periódicamente el análisis de la calidad microbiológica y físico-química del agua, para determinar su potabilidad, conforme a esta Ley y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 192.
 
-En los Municipios que carezcan del sistema de agua potable y alcantarillado, se deberán proteger las fuentes de abastecimiento para prevenir su contaminación, conforme a la normatividad aplicable.
+En los Municipios que carezcan del sistema de agua potable y alcantarillado, se deberán proteger las fuentes de abastecimiento para prevenir su contaminación, conforme a la normatividad sanitaria aplicable en la materia.
 
 ###### ARTICULO 193.
 
@@ -1761,11 +2081,11 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños sean verti
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO XVII. De la Medicina Alternativa
 
 ###### ARTICULO 199.
 
-Para los efectos de esta Ley, se entiende por prostitución la actividad que realizan las personas utilizando sus funciones sexuales como medio de vida.
+Para los efectos de esta Ley, se entiende por prostitución la actividad de las personas que tienen relaciones sexuales a cambio de dinero o cualquier otra prestación.
 
 ###### ARTICULO 200.
 
@@ -1787,7 +2107,9 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La Autoridad Municipal en coordinación con el Organismo, determinarán los lugares en donde se permitirá el ejercicio de la prostitución, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO III. Certificados
+### CAPITULO I. Autorizaciones
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 205.
 
@@ -1807,7 +2129,9 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 122 de esta Ley.
 
-### CAPITULO UNICO
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 209.
 
@@ -1817,9 +2141,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 El agua que se utilice en los baños públicos deberá ser potable y cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPITULO I
-
-Medidas de Seguridad Sanitaria.
+### CAPITULO III. Certificados
 
 ###### ARTICULO 211.
 
@@ -1829,7 +2151,7 @@ Para efectos de esta Ley, se entiende por centros de reunión y espectáculos, l
 
 El funcionamiento de los establecimientos a que se refiere el artículo anterior, deberá acatar a lo dispuesto por las disposiciones legales aplicables y contar con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO UNICO
 
 ###### ARTICULO 213.
 
@@ -1839,7 +2161,9 @@ Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza,
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO I
+
+Medidas de Seguridad Sanitaria.
 
 ###### ARTICULO 215.
 
@@ -1855,7 +2179,7 @@ III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independi
 
 Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 217.
 
@@ -1865,15 +2189,19 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
 
-### CAPITULO V. Prescripción
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 220.
 
 Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
 
+### CAPITULO IV. Recurso de Inconformidad
+
 ###### ARTICULO 221.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
+
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 222.
 
@@ -1913,7 +2241,7 @@ Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, 
 
 ###### ARTICULO 227.
 
-La autorización sanitaria es el acto administrativo mediante el cual la Autoridad Sanitaria competente, permite a una persona pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones aplicables. Las autorizaciones sanitarias tendrán el carácter de licencias, permisos, tarjetas de control sanitario y registros.
+La autorización sanitaria es el acto administrativo mediante el cual la Autoridad Sanitaria competente, permite a una persona pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones aplicables. Las autorizaciones sanitarias tendrán el carácter de licencias, permisos y registros.
 
 ###### ARTICULO 228.
 
@@ -1935,9 +2263,11 @@ En el caso de las licencias sanitarias, la solicitud de revalidación deberá pr
 
 Cuando cambien de ubicación los establecimientos requerirán de nueva licencia sanitaria.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 231.
 
-Los establecimientos que no requieran de autorización sanitaria, deberán presentar el aviso de funcionamiento a que se refiere el Artículo 200 Bis de la Ley General de Salud.
+Los establecimientos que no requieran de autorización sanitaria, deberán presentar aviso de funcionamiento de conformidad con lo dispuesto por el artículo 167 de la presente ley.
 
 ###### ARTICULO 232.
 
@@ -1957,7 +2287,7 @@ Los derechos a que se refiere esta Ley se regirán por lo que disponga la legisl
 
 ###### ARTICULO 236.
 
-La autoridad sanitaria local competente podrá provocar las autorizaciones que haya otorgado, en los siguientes casos:
+La autoridad sanitaria local competente podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
 
 I.- Cuando por causas supervenientes, se comprueba que los productos o el ejercicio de las actividades que hubieren autorizado, constituyan riesgo o daño para la salud humana;
 
@@ -2077,9 +2407,11 @@ Las demás dependencias y entidades públicas en el Estado coadyuvarán a la vig
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 254.
 
-La vigilancia sanitaria se realizará mediante visitas de verificación a cargo del personal expresamente autorizado por la autoridad sanitaria estatal competente, el cual deberá realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás disposiciones legales aplicables.
+La vigilancia sanitaria se realizará mediante visitas de verificación a cargo del personal expresamente autorizado por la autoridad sanitaria estatal o municipal competente, el cual deberá realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás disposiciones legales aplicables.
 
 ###### ARTICULO 255.
 
@@ -2211,9 +2543,11 @@ II.- En caso de epidemia grave, y
 
 III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 269.
 
-El Gobierno del Estado podrá ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+Los gobiernos del Estado o de los municipios podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
 ###### ARTICULO 270.
 
@@ -2277,9 +2611,11 @@ IV.- La calidad de reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 278.
 
-Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículo 61, 62, 87, 104, 106, 127, 129, 137, 167, 168, 174, 176, 186, 192, 194, 210, 218, 221, 224, 233, 247, 248 y 250 de esta Ley.
+Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículo (sic) 49, 61, 62, 85, 87, 92, 104, 106, 127, 129, 137, 167, 168, 174, 176, 186, 192, 194, 210, 218, 221, 224, 233, 247, 248 y 250 de esta Ley.
 
 ###### ARTICULO 279.
 
@@ -2371,91 +2707,55 @@ Cuando del contenido de un acta de verificación se desprenda la posible comisi�
 
 ###### ARTICULO 296.
 
-Contra actos y resoluciones que dicten las autoridades sanitarias en el Estado que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de inconformidad.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 297.
 
-El plazo para interponer el recurso será de quince días hábiles, contados a partir del día siguiente a aquel en que se hubiere notificado la resolución o acto que se recurra.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 298.
 
-El recurso se interpondrá ante la unidad administrativa que hubiere dictado la resolución o acto combatido, directamente o por correo certificado con acuse de recibo. En este último caso, se tendrá como fecha de presentación la del día de su depósito en la oficina de correos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 299.
 
-El escrito de interposición del recurso deberá satisfacer los siguientes requisitos:
-
-I.- Debe contener el nombre, denominación o razón social de quien promueva;
-
-II.- El domicilio del promovente;
-
-III.- La fecha en que se conoció el acto impugnado o resolución;
-
-IV.- Los agravios que le cause la resolución o acto impugnado;
-
-V.- Citar la autoridad que dictó, ordenó, o ejecutó el acto;
-
-VI.- El ofrecimiento de las pruebas que considere pertinentes.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 300.
 
-Al escrito de interposición del recurso deberá acompañarse la siguiente documentación:
-
-I.- El documento en que acredite su personalidad cuando se actúe a nombre de otro o de persona moral;
-
-II.- El documento en que conste el acto impugnado;
-
-III.- La constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió la constancia de notificación; y
-
-IV.- Las pruebas documentales que ofrezca, y dictamen pericial en su caso.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 301.
 
-En la tramitación del recurso se admitirá toda clase de medios probatorios, excepto la confesional.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 302.
 
-Al recibir el recurso, la unidad respectiva verificará si éste es procedente, si cumplió con los requisitos a que se refieren los Artículos 299 y 300 de esta Ley, y si fue interpuesto en tiempo, caso en que se debe admitir y proceder a su substanciación y resolución.
-
-En caso de que falte alguno de los requisitos a que se refieren los Artículos 299 y 300 de esta Ley, se requerirá al promovente para que lo aclare o cumpla con los requisitos omitidos, concediéndole al efecto un término de cinco días hábiles, y en caso de no atender el requerimiento en término, se tendrá por no presentado el recurso.
-
-En el caso que la unidad citada considere, previo estudio de los antecedentes respectivos, que procede su desechamiento, emitirá opinión técnica en tal sentido.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 303.
 
-En la substanciación del recurso sólo procederán las pruebas que se hayan ofrecido y acompañado en la instancia o expediente que concluyó con la resolución o acto impugnado y las supervenientes.
-
-Las pruebas ofrecidas que procedan se admitirán por el área competente que deba continuar el trámite del recurso y para su desahogo, en su caso, se dispondrá de un término de treinta días hábiles contados a partir de la fecha en que hayan sido admitidas.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 304.
 
-En el caso de que el recurso fuere admitido, la unidad respectiva, sin resolver en lo relativo a la admisión de las pruebas que se ofrezcan, emitirá una opinión técnica del asunto dentro de un plazo de treinta días hábiles contados a partir del auto admisorio, y de inmediato remitirá el recurso y el expediente que contenga los antecedentes del caso, al área competente de la autoridad sanitaria que corresponda y que deba continuar el trámite del recurso.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 305.
 
-El Director General del Organismo y los titulares de los Ayuntamientos, en el ámbito de su competencia, resolverán los recursos que se interpongan de conformidad con esta Ley, y al efecto, podrán confirmar, modificar o revocar el acto o resolución que se haya combatido.
-
-Dichas autoridades, en uso de las facultades que les confiere la Legislación aplicable, podrán delegar dicha atribución, debiéndose publicar en acuerdo respectivo en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 306.
 
-A solicitud de los particulares que se consideren afectados por alguna resolución o acto de las autoridades sanitarias, éstas los orientarán sobre el derecho que tienen de recurrir la resolución o acto de que se trate, y sobre la tramitación del recurso.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 307.
 
-La interposición del recurso suspenderá la ejecución de las sanciones pecuniarias, si el infractor garantiza el interés fiscal.
-
-Tratándose de otro tipo de actos o resoluciones, la interposición del recurso suspenderá su ejecución siempre y cuando se satisfagan los siguientes requisitos:
-
-I.- Que lo solicite el recurrente;
-
-II.- Que no se siga perjuicio al interés social, ni se contravengan disposiciones de orden público; y
-
-III.- Que fueren de difícil reparación los daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 308.
 
-En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Aguascalientes.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 309.
 
@@ -2522,3 +2822,9 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 26 DE NOVIEMBRE DE 2001.
 
 UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
