@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1936-12-13"
+last_updated: "1946-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1946.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -546,7 +546,7 @@ E.- Cuando lo pida el Ejecutivo del Estado.
 
 F.- Para conocer la legalidad de elecciones en todos los casos.
 
-VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, subscrito (sic por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días.
+VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, subscrito (sic) por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días.
 
 VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su encargo, procurando que no falte el "quórum" legal, y llamar a los suplentes respectivos.
 
@@ -578,11 +578,11 @@ II.- Haber cumplido treinta años de edad.
 
 III.- Residir habitualmente en el territorio del Estado dos años inmediatamente anteriores a la elección.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1946)</small>
 
 ###### Artículo 59.
 
-La elección de Gobernador será popular directa, en los términos que disponga la Ley; entrará a ejercer sus funciones el día 18 de mayo posterior a las elecciones y durará en su encargo cuatro años.
+La elección de Gobernador será popular, directa en los términos que disponga la Ley; entrará a ejercer sus funciones el día dieciocho de mayo posterior a las elecciones y durará en su encargo seis años, y en ningún caso y por ningún motivo podrá volver a ocupar ese cargo ni aún con el carácter de Interino, Provisional, Substituto o Encargado del Despacho.
 
 ###### Artículo 60.
 
@@ -1293,3 +1293,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 13 DE DICIEMBRE DE 1936.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 28 DE ABRIL DE 1946.
+
+PRIMERO.- Esta reforma surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase al Ejecutivo del Estado para los efectos de la fracción I del artículo 71 de la Constitución Política Local.
