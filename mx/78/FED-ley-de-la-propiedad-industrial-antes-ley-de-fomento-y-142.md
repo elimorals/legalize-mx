@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "1997-12-26"
+last_updated: "1999-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -2339,21 +2339,31 @@ Son delitos:
 
 I.- Reincidir en las conductas previstas en las fracciones II a XXII del artículo 213 de esta Ley, una vez que la primera sanción administrativa impuesta por esta razón haya quedado firme;
 
-II.- Falsificar marcas en forma dolosa y a escala comercial;
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-III.- Revelar a un tercero un secreto industrial, que se conozca con motivo de su trabajo, puesto, cargo, desempeño de su profesión, relación de negocios o en virtud del otorgamiento de una licencia para su uso, sin consentimiento de la persona que guarde el secreto industrial, habiendo sido prevenido de su confidencialidad, con el propósito de obtener un beneficio económico para sí o para el tercero o con el fin de causar un perjuicio a la persona que guarde el secreto;
+II.- Falsificar, en forma dolosa y con fin de especulación comercial, marcas protegidas por esta Ley;
 
-IV.- Apoderarse de un secreto industrial sin derecho y sin consentimiento de la persona que lo guarde o de su usuario autorizado, para usarlo o revelarlo a un tercero, con el propósito de obtener un beneficio económico para sí o para el tercero o con el fin de causar un perjuicio a la persona que guarde el secreto industrial o a su usuario autorizado, y
+> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-V.- Usar la información contenida en un secreto industrial, que conozca por virtud de su trabajo, cargo, puesto, ejercicio de su profesión o relación de negocios, sin consentimiento de quien lo guarde o de su usuario autorizado, o que le haya sido revelado por un tercero, a sabiendas que éste no contaba para ello con el consentimiento de la persona que guarde el secreto industrial o su usuario autorizado, con el propósito de obtener un beneficio económico o con el fin de causar un perjuicio a la persona que guarde el secreto industrial o su usuario autorizado.
+III.- Producir, almacenar, transportar, introducir al país, distribuir o vender, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley, así como aportar o proveer de cualquier forma, a sabiendas, materias primas o insumos destinados a la producción de objetos que ostenten falsificaciones de marcas protegidas por esta Ley;
+
+IV.- Revelar a un tercero un secreto industrial, que se conozca con motivo de su trabajo, puesto, cargo, desempeño de su profesión, relación de negocios o en virtud del otorgamiento de una licencia para su uso, sin consentimiento de la persona que guarde el secreto industrial, habiendo sido prevenido de su confidencialidad, con el propósito de obtener un beneficio económico para sí o para el tercero o con el fin de causar un perjuicio a la persona que guarde el secreto;
+
+V.- Apoderarse de un secreto industrial sin derecho y sin consentimiento de la persona que lo guarde o de su usuario autorizado, para usarlo o revelarlo a un tercero, con el propósito de obtener un beneficio económico para sí o para el tercero o con el fin de causar un perjuicio a la persona que guarde el secreto industrial o a su usuario autorizado, y
+
+VI.- Usar la información contenida en un secreto industrial, que conozca por virtud de su trabajo, cargo o puesto, ejercicio de su profesión o relación de negocios, sin consentimiento de quien lo guarde o de su usuario autorizado, o que le haya sido revelado por un tercero, a sabiendas que éste no contaba para ello con el consentimiento de la persona que guarde el secreto industrial o su usuario autorizado, con el propósito de obtener un beneficio económico o con el fin de causar un perjuicio a la persona que guarde el secreto industrial o su usuario autorizado.
 
 Los delitos previstos en este artículo se perseguirán por querella de parte ofendida.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Artículo 223 bis.- Se impondrá de dos a seis años de prisión y multa de cien a diez mil días de salario mínimo general vigente en el Distrito Federal, al que venda a cualquier consumidor final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley. Si la venta se realiza en establecimientos comerciales, o de manera organizada o permanente, se estará a lo dispuesto en los artículos 223 y 224 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### Artículo 224.
 
-Se impondrán de dos a seis años de prisión y multa por el importe de cien a diez mil días de salario mínimo general diario vigente en el Distrito Federal, a quien cometa los delitos que se señalan en el artículo anterior.
+Se impondrán de dos a seis años de prisión y multa por el importe de cien a diez mil días de salario mínimo general vigente en el Distrito Federal, a quien cometa alguno de los delitos que se señalan en las fracciones I, IV, V o VI del artículo 223 de esta Ley. En el caso de los delitos previstos en las fracciones II o III del mismo artículo 223, se impondrán de tres a diez años de prisión y multa de dos mil a veinte mil días de salario mínimo general vigente en el Distrito Federal.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2526,3 +2536,11 @@ D.O.F. 26 DE DICIEMBRE DE 1997.
 PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 1998.
 
 SEGUNDO.- Lo dispuesto en este Decreto se aplicará a todos los esquemas de trazado de circuitos integrados cuya primera explotación comercial ordinaria, en forma separada o incorporados en un circuito integrado, en cualquier parte del mundo, se realice a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 17 DE MAYO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal y de la Ley de la Propiedad Industrial vigentes en el momento en que se haya cometido.
