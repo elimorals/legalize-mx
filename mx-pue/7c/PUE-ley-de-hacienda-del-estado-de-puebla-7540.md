@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1997-12-24"
+last_updated: "1998-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -559,9 +559,13 @@ ARTICULO 26 S.- Las infracciones al presente capítulo serán sancionadas de con
 
 ARTICULO 26 T.- El Estado distribuirá entre sus Municipios, parte de la recaudación del impuesto estatal sobre loterías, rifas, sorteos y concursos de conformidad con las siguientes bases:
 
-I.- Una vez que la Secretaría de Finanzas recaude el impuesto estatal sobre loterías, rifas, sorteos y concursos, separará un porcentaje igual al que corresponde recibir a los Municipios del Fondo General de Participaciones, de conformidad con el Decreto del H. Congreso del Estado, por el que se apruebe el Sistema para la Distribución de Participaciones a los Municipios del Estado de Puebla.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1998)</small>
 
-II.- El monto que resulte incrementará el Fondo de Desarrollo Municipal y se distribuirá de conformidad con lo previsto en el Decreto del H. Congreso del Estado, por el que se apruebe el Sistema para la Distribución de Participaciones a los Municipios del Estado de Puebla.
+I.- Una vez que la Secretaría de Finanzas recaude el Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos, separará un porcentaje igual al que corresponde recibir a los Municipios del Fondo General de Participaciones, a que se refiere la Ley para el Federalismo Hacendario del Estado de Puebla.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1998)</small>
+
+II.- El monto que resulte incrementará el Fondo de Desarrollo Municipal y se distribuirá de conformidad con lo previsto en la Ley para el Federalismo Hacendario del Estado de Puebla.
 
 ### CAPITULO UNICO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO
 
@@ -603,17 +607,21 @@ Los contratos de arrendamiento de bienes muebles e inmuebles, propiedad del Gobi
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 30.
 
 Son aprovechamientos los ingresos ordinarios del Estado, no clasificables como impuestos, derechos y productos. Estos se pagarán de acuerdo a lo que establecen la Ley de Ingresos y el Código Fiscal del Estado vigentes.
 
-## TITULO QUINTO. DE LAS PARTICIPACIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1998)</small>
+
+## TITULO QUINTO. DE LAS PARTICIPACIONES, APORTACIONES, REASIGNACIONES Y DEMAS INGRESOS
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 31.
 
-Las participaciones que corresponden al Estado en ingresos federales, se recaudarán con arreglo a las disposiciones y cuotas de las leyes que las establezcan y en su caso, la Ley de Coordinación Fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal Federal y a los Convenios de Colaboración Administrativa en materia de Fiscal Federal y Municipal y la Ley de Coordinación Fiscal del Estado de Puebla.
+Las participaciones, aportaciones, reasignaciones y demás ingresos que corresponden al Estado, se recibirán y ejercerán con arreglo a las disposiciones legales aplicables.
 
 ## TITULO SEXTO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -742,3 +750,13 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primero de enero de mil novecientos noventa y nueve.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
