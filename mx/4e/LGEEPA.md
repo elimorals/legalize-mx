@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2003-02-25"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -212,7 +212,7 @@ X. La evaluación del impacto ambiental de las obras o actividades a que se refi
 
 > <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-XI. La regulación del aprovechamiento sustentable, la protección y la preservación de las aguas nacionales, la biodiversidad, la fauna y los demás recursos naturales de su competencia.
+XI. La regulación del aprovechamiento sustentable, la protección y la preservación de las aguas nacionales, la biodiversidad, la fauna y los demás recursos naturales de su competencia;
 
 XII. La regulación de la contaminación de la atmósfera, proveniente de todo tipo de fuentes emisoras, así como la prevención y el control en zonas o en caso de fuentes fijas y móviles de jurisdicción federal;
 
@@ -402,7 +402,7 @@ Los requerimientos que establezca la Secretaría y las evaluaciones que se reali
 
 II. Establecerán con precisión su objeto, así como las materias y facultades que se asumirán, debiendo ser congruente con los objetivos de los instrumentos de planeación nacional de desarrollo y con la política ambiental nacional;
 
-III. Determinarán la participación y responsabilidad que corresponda a cada una de las partes, así como los bienes y recursos aportados por las mismas, especificando su destino y forma de administración. Además precisarán qué tipo de facultades se pueden asumir de forma inmediata a la firma del convenio o acuerdo y cuáles en forma posterior.
+III. Determinarán la participación y responsabilidad que corresponda a cada una de las partes, así como los bienes y recursos aportados por las mismas, especificando su destino y forma de administración. Además precisarán qué tipo de facultades se pueden asumir de forma inmediata a la firma del convenio o acuerdo y cuáles en forma posterior;
 
 IV. Establecerán el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, incluyendo las de evaluación, así como el cronograma de las actividades a realizar;
 
@@ -515,6 +515,10 @@ Las entidades federativas y los municipios en el ámbito de sus competencias, ob
 En la planeación nacional del desarrollo se deberá incorporar la política ambiental y el ordenamiento ecológico que se establezcan de conformidad con esta Ley y las demás disposiciones en la materia.
 
 En la planeación y realización de las acciones a cargo de las dependencias y entidades de la administración pública federal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno Federal para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Nacional de Desarrollo y los programas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+ARTICULO 17 BIS.- La Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, expedirán los manuales de sistemas de manejo ambiental, que tendrán por objeto la optimización de los recursos materiales que se emplean para el desarrollo de sus actividades, con el fin de reducir costos financieros y ambientales.
 
 ###### ARTICULO 18.
 
@@ -2226,7 +2230,7 @@ II. La operación de los sistemas de limpia y de disposición final de residuos 
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-III. La generación, manejo y disposición final de residuos sólidos, industriales y peligrosos, así como en las autorizaciones y permisos que al efecto se otorguen.
+III. La generación, manejo y disposición final de residuos sólidos, industriales y peligrosos, así como en las autorizaciones y permisos que al efecto se otorguen;
 
 IV. El otorgamiento de todo tipo de autorizaciones para la fabricación, importación, utilización y en general la realización de actividades relacionadas con plaguicidas, fertilizantes y sustancias tóxicas.
 
@@ -3183,3 +3187,9 @@ D.O.F. 25 DE FEBRERO DE 2003.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
