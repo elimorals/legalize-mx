@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-proteccion-a-la-mujer-en-el-estado-3751
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-08-20"
-last_updated: "1973-08-20"
+last_updated: "1981-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE PROTECCION A LA MUJER EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NUMERO 60, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 1981, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 20 de agosto de 1973.
 
@@ -604,3 +606,9 @@ EL OFICIAL MAYOR DE GOBIERNO ENC. DE LA SECRETARIA GRAL. POR M. DE L.
 ING. OSCAR BAYLON CHACON
 
 (Firmado).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 1981
+
+UNICO.- El presente Decreto entrará en vigor a los sesenta días de su publicación en el Periódico Oficial, Organo del Gobierno del Estado, durante cuyo plazo se celebrarán los Convenios entre el Gobierno del Estado, Ayuntamientos y Servicios Coordinados de Salud Pública en la Entidad a fin de que funcionen los dispensarios médicos gratuitos que dependan de los Municipios.
