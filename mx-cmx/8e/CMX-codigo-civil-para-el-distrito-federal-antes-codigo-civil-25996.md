@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1974-12-31"
+last_updated: "1975-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1975.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -7935,19 +7935,15 @@ ARTICULO 1,913.- Cuando una persona hace uso de mecanismos, instrumentos, aparat
 
 ARTICULO 1,914.- Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
-(REFORMADO, D.O.F. 20 DE ENERO DE 1940)(F. DE E., D.O.F. 30 DE ABRIL DE 1940)
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
-ARTICULO 1,915.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios:
+ARTICULO 1,915.- La reparación del daño debe consistir a elección del ofendido, en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
 
-I.- Cuando el daño se cause a las personas y produzca la muerte o incapacidad total, parcial o temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando por base la utilidad o salario que perciba.
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
 
-II.- Cuando la utilidad o salario exceda de veinticinco pesos diarios, no se tomará en cuenta sino esa suma para fijar la indemnización.
+Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
-III.- Si la víctima no percibe utilidad o salario, o no pudiere determinarse éste, el pago se acordará tomando como base el salario mínimo.
-
-IV.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en forma de pensión o pagos sucesivos.
-
-V.- Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
+Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
 
 ARTICULO 1,916.- Independientemente de los daños y perjuicios, el juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará al responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1928.
 
@@ -12096,3 +12092,7 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 1975.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
