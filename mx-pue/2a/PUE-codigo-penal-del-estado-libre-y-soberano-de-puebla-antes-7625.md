@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1998-09-02"
+last_updated: "1999-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1999.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3561,9 +3561,11 @@ Se equipara al delito de difamación, y se sancionará como tal, la presentació
 
 Tratándose de delitos cometidos contra servidores públicos que presten el servicio de seguridad pública y tránsito, en el ejercicio de sus funciones las sanciones se aumentarán hasta en un tanto.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1999)</small>
+
 ###### Artículo 439.
 
-Las sanciones de los delitos cometidos por servidores públicos que presten el servicio de seguridad pública y tránsito, contra particulares, y no comprendidos en este Capítulo, se aumentarán en un tanto de lo establecido para cada caso.
+Cuando en la comisión de cualquier delito intervenga quien pertenezca o haya pertenecido a un cuerpo de seguridad pública, se duplicará la sanción prevista para el delito cometido.
 
 ###### Artículo 440.
 
@@ -3900,3 +3902,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 26 DE MARZO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
