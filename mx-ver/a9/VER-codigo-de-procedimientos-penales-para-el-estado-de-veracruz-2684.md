@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1992-02-01"
+last_updated: "1994-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE SEPTIEMBRE DE 1994.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -815,17 +815,19 @@ Cuando una autoridad distinta del Ministerio Público practique diligencias de a
 
 Cuando se presentare al funcionario o agente que hubiere iniciado una averiguación, un funcionario del Ministerio Público, éste continuará por sí mismo la averiguación, en cuyo caso el primero cerrará el acta en el estado en que se encuentre y la entregará a dicho funcionario, así como los detenidos y los objetos que se hayan recogido, comunicándole todos los demás datos de que tenga noticia; pero si el Ministerio Público lo estima conveniente para el éxito de la averiguación, podrá encomendar a quien la haya iniciado, que la continué bajo su dirección, debiendo el funcionario o agente comisionado acatar sus instrucciones y hacer constar esa intervención en el acta.
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 128.
 
-Los funcionarios que practiquen diligencias de averiguación previa, determinarán en cada caso qué personas quedarán en calidad de detenidas y en que lugar, haciéndolo constar en el acta respectiva.
+El Ministerio Público determinará qué persona o personas quedarán retenidas; y realizará, cuando así proceda, la consignación ante los tribunales, dentro del término de cuarenta y ocho horas, contadas a partir de que hayan sido puestas a su disposición. Cuando se trate de delincuencia organizada, dicho término podrá duplicarse.
 
-El indiciado podrá nombrar persona de su confianza que lo defienda desde el momento en que sea detenido y puesto a disposición del Ministerio Público o de la Policía Judicial en los casos de flagrante delito, o se presente voluntariamente, o sin estar detenido, desde el inicio de la averiguación previa. Tendrá derecho a que el defensor esté presente y lo asista en todos los actos del procedimiento. Si no ejercita tal derecho, el funcionario que practique las diligencias respectivas le nombrará uno de oficio.
+Se considera que existe delincuencia organizada cuando tres personas o más se reúnan para cometer, de modo violento o reiterado o con fines predominantemente lucrativos, alguno de los delitos señalados en el Código Penal. El Ministerio Público, bajo su absoluta responsabilidad, dentro de las cuarenta y ocho horas, dictará acuerdo fundado y motivando la duplicación del término.
 
-El defensor a que se refiere el párrafo anterior y el artículo 126 podrá impugnar las preguntas que se hagan al declarante si éstas son inconducentes o contra derecho, pero no puede producir ni inducir las respuestas de su asistido.
+El inculpado podrá nombrar persona de su confianza que lo defienda, desde el momento en que sea detenido y puesto a disposición del Ministerio Público, o sin estar detenido, desde el inicio de la averiguación previa. Tendrá derecho a que el defensor esté presente y lo asista en todos los actos del procedimiento. Si no ejercita tal derecho, el funcionario que practique las diligencias respectivas le nombrará uno de oficio.
 
-El personal de las Agencias del Ministerio Público y del de la Policía Judicial, en ningún caso ni por motivo alguno mantendrán incomunicados a los detenidos, ni permitirán que se les incomunique durante el período de averiguación previa. La violación de esta norma es causa de responsabilidad, para quien la infrinja, de conformidad con lo dispuesto en el Código Penal.
+El defensor a que se refieren el párrafo anterior y el artículo 126 de este Código, podrá impugnar las preguntas que se hagan al declarante, si éstas son inconducentes o contra derecho; pero no podrá producir ni inducir las respuestas de su asistido.
+
+El personal de las Agencias del Ministerio Público y de la Policía Judicial, en ningún caso ni por motivo alguno mantendrán incomunicados a los detenidos, ni permitirán que se les incomunique durante el período de averiguación previa. La violación de esta norma es causa de responsabilidad para quien la infrinja, de conformidad con lo dispuesto en el Código Penal.
 
 > <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
@@ -2037,7 +2039,7 @@ INCIDENTES
 
 ### CAPITULO I. Libertad provisional bajo caución
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 #### SECCION PRIMERA. INCIDENTE DE LIBERTAD
 
@@ -2045,17 +2047,21 @@ INCIDENTES
 
 ###### ARTICULO 324.
 
-Para el otorgamiento de la libertad provisional bajo caución, los tribunales se sujetarán a:
+Durante el proceso, todo inculpado tendrá derecho a ser puesto en libertad provisional bajo caución, inmediatamente que lo solicite, si se reúnen los siguientes requisitos:
 
-I.- Todo inculpado tendrá derecho a ser puesto en libertad de caución, si no excede de cinco años el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado, incluyendo sus modalidades; de conformidad con las reglas siguientes:
+I.- Que garantice el pago del monto estimado de la reparación del daño. Si se trata de delitos que afecten la vida o la integridad corporal, el monto de la reparación no podrá ser menor de lo que resulte de aplicar las disposiciones relativas de la Ley Federal del Trabajo;
 
-a) En caso de acumulación se atenderá al delito cuya pena sea mayor.
+II.- Que garantice las sanciones pecuniarias que en su caso puedan imponérsele;
 
-b) La caución se fijará atendiendo a las circunstancias personales del inculpado y la gravedad del delito que se le impute.
+III.- Que caucione el cumplimiento de las obligaciones a su cargo que la Ley establece en razón del proceso; y
 
-II.- Cuando se trate de personas que por el delito cometido no tengan derecho a la libertad provisional y mediante sentencia que no haya causado estado, se les imponga sanción privativa de libertad, tendrán derecho a que se les otorgue este beneficio, siempre y cuando la pena impuesta no exceda de tres y sea computable o con derecho a la suspensión condicional.
+IV.- Que no se trate de alguno de los delitos señalados como graves en el artículo 13 del Código Penal.
 
-La violación a las reglas anteriores, será motivo de suspensión del juzgador hasta por un mes, independientemente de la responsabilidad penal en que haya incurrido.
+La caución a que se refiere la fracción III, y las garantías a que se refieren las fracciones I y II, podrán consistir en depósito en efectivo, fianza, prenda, hipoteca o fideicomiso formalmente constituido.
+
+Durante la averiguación previa, el Ministerio Público fijará la caución en términos de lo dispuesto por el artículo 129, fracción I, de este Código.
+
+Cuando se trate de personas que por el delito cometido de naturaleza grave, no tengan derecho a la libertad provisional bajo caución y mediante sentencia que no haya causado estado, se les imponga sanción privativa de la libertad, tendrán derecho a que se les otorgue este beneficio siempre y cuando la pena impuesta no exceda de tres años y sea conmutable o con derecho a la suspensión condicional.
 
 ###### ARTICULO 325.
 
@@ -2882,3 +2888,9 @@ El presente ordenamiento entrará en vigor al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 1 DE SEPTIEMBRE DE 1994.
+
+PRIMERO.-El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz-Llave.
+
+SEGUNDO.-Se derogan todas las disposiciones que se opongan al presente.
