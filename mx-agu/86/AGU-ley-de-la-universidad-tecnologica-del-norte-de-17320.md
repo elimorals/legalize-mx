@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-tecnologica-del-norte-de-17320"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-26"
-last_updated: "2000-06-26"
+last_updated: "2004-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de junio de 2000.
 
@@ -113,21 +113,27 @@ V. Los órganos colegiados que señale el Reglamento Interior.
 
 ### CAPITULO II. Del Consejo Directivo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 5o.
 
-El Consejo Directivo estará integrado por once miembros, de la siguiente forma:
+El Consejo Directivo estará integrado por los siguientes miembros, de la siguiente forma:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. Tres representantes designados por el titular del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2004)</small>
+
+II. Dos representantes del Gobierno del Estado, designados por el titular del Poder Ejecutivo Estatal;
 
 III. Tres representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
 
-IV. Un representante del Gobierno del Municipio de Rincón de Romos, designado por el Honorable Ayuntamiento; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2004)</small>
 
-V. Tres representantes del Sector Productivo del Estado, a invitación del titular del Ejecutivo Estatal.
+IV. Un representante del Ayuntamiento de cada uno de los Municipios en donde se encuentre ubicado un campus de la Universidad Tecnológica del Norte de Aguascalientes, los cuales serán designados por cada uno de los respectivos cabildos; y
 
-El Presidente del Consejo Directivo tendrá voto de calidad, en caso de empate; y en sus ausencias podrá designar a un suplente con las mismas atribuciones que le otorguen esta Ley y el Reglamento Interior.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2004)</small>
+
+V. Dos representantes del sector productivo y uno del sector social del Estado, a invitación del titular del Poder Ejecutivo Estatal.
 
 ###### ARTICULO 6o.
 
@@ -448,3 +454,11 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
