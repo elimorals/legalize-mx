@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1979-05-10"
+last_updated: "1981-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1981.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -415,7 +415,13 @@ VII.- Examinar y en su caso aprobar las cuentas consiguientes a la administraci�
 
 VIII.- Crear y suprimir empleos públicos del Estado que no estén señalados en esta Constitución, lo mismo que aumentar o disminuir su dotación;
 
-IX.- Contraer deudas sobre el crédito del Estado y señalar fondos para pagarlas;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1981)</small>
+
+IX.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que sean para la ejecución de obras que dirtectamente (sic) produzcan beneficio a la colectividad, salvo los que se contraten en caso de emergencia por causa de desastre, señalando en todo caso los recursos con que deben cubrirse.
+
+Autorizar al Gobernador del Estado para avalar los empréstitos o financiamientos que obtengan los Ayuntamientos del Estado siempre y cuando, de los estudios que se practiquen al efecto, aparezca demostrada la necesidad y utilidad de la obra para la cual los haya gestionado la Autoridad Municipal.
+
+En el Convenio que celebre el Gobierno Local con el Ayuntamiento correspondiente se estipulará la recuperación de lo que aquel pague como avalista, garantizándole en base de las participaciones de los impuestos que reciba el Ayuntamiento, ya sea estos federales o locales;
 
 X.- Crear y suprimir municipalidades y congregaciones Municipales, con arreglo a lo dispuesto a esta Constitución;
 
@@ -677,7 +683,11 @@ XXII.- Organizar el sistema penal en el Estado sobre la base del trabajo y de la
 
 XXIII.- Tener el mando de la policía, urbana y rural, en todo el Estado, y
 
-XXIV.- Nombrar visitadores de los municipios, quienes tendrán facultad para visitar sus oficinas y pedir toda clase de informes a las autoridades municipales; pero en ningún caso tendrán facultades de mando ni podrán disponer en asuntos propios de dichas autoridades.
+XXIV.- Nombrar visitadores de los municipios, quienes tendrán facultad para visitar sus oficinas y pedir toda clase de informes a las autoridades municipales; pero en ningún caso tendrán facultades de mando ni podrán disponer en asuntos propios de dichas autoridades;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 1981)</small>
+
+XXV.- Concertar empréstitos y avalar los que soliciten los Ayuntamientos en los términos de la Fracción IX del Artículo 34 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1220,5 +1230,9 @@ P.O. 4 DE JUNIO DE 1978.
 UNICO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
 
 P.O. 10 DE MAYO DE 1979.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 1981.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
