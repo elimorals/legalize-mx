@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-3238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-31"
-last_updated: "1997-05-23"
+last_updated: "1997-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1997.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de enero de 1984.
 
@@ -123,7 +123,13 @@ VIII.- Las violaciones sistemáticas o graves a los planes, programas y presupue
 
 IX.- Por violación grave a la Ley Orgánica Municipal y sus Reglamentos, que altere la estabilidad política y administrativa del Municipio, atenta contra su patrimonio e interfiera la prestación de los servicios públicos municipales.
 
-X.- No procede el juicio político por la mera expresión de ideas.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 1997)</small>
+
+X.- Los titulares de los Poderes Legislativo y Judicial, y los miembros de los Ayuntamientos, estarán impedidos para recibir compensaciones por el término de su gestión, cualquiera que sea la denominación que se les dé.
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 1997)</small>
+
+XI.- No procede el juicio político por la mera expresión de ideas.
 
 ###### ARTICULO 8o.
 
@@ -772,3 +778,7 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se deroga la fracción VI del artículo 72 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, así como todas las disposiciones vigentes que se opongan y contravengan el contenido del presente decreto.
+
+P.O. 25 DE JULIO DE 1997.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
