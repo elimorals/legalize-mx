@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "1999-12-24"
+last_updated: "2000-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE SEPTIEMBRE DEL 2000.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -239,11 +239,7 @@ XIV. Las demás que les señale la Constitución, la ley y el reglamento.
 
 ###### Artículo 30.
 
-La Legislatura erigida en Colegio Electoral, calificará la elección de gobernador, declarando electo al ciudadano que hubiere obtenido la mayoría de votos en las elecciones que al efecto se hayan celebrado.
-
-La declaración relativa a la calificación de la elección de Gobernador deberá emitirse a más tardar el 31 de julio del año de la elección.
-
-La resolución de la Legislatura erigida en Colegio Electoral, es definitiva e inatacable.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 31.
 
@@ -327,7 +323,7 @@ Los órganos de la Legislatura serán integrados por diputados de diversas fracc
 
 ### CAPITULO IV. DE LA GRAN COMISION
 
-> <small>(REFORMADO, G.G. 12 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.G. 12 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 42.
 
@@ -515,11 +511,13 @@ En el ejercicio de sus funciones, la Directiva de la Diputación Permanente obse
 
 ###### Artículo 60.
 
-La Gran Comisión funcionará por todo el ejercicio constitucional y estará integrada por un Presidente, un Secretario y siete Vocales.
+La Gran Comisión funcionará para todo el ejercicio constitucional y estará integrada por un Presidente, un Secretario y diez vocales.
+
+> <small>(REFORMADO, G.G. 12 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 61.
 
-En la segunda sesión del primer período de sesiones ordinarias de su ejercicio constitucional, la Legislatura elegirá en votación nominal y por mayoría absoluta de votos a los integrantes de la Gran Comisión.
+En la segunda sesión del primer período de sesiones ordinarias de su ejercicio constitucional, la Legislatura elegirá en votación nominal y por mayoría simple de votos a los integrantes de la Gran Comisión. El Presidente y el Secretario durarán en su encargo un año, al término del cual, la Asamblea elegirá, en la segunda sesión ordinaria del primer período de sesiones del año que corresponda, de entre los integrantes de la Gran Comisión, a quienes deberán ocupar dichos cargos.
 
 ###### Artículo 62.
 
@@ -545,13 +543,17 @@ IX.- Conocer y resolver sobre las responsabilidades administrativas en que incur
 
 X.- Las demás que le confieran la ley, el reglamento o la Asamblea.
 
+> <small>(REFORMADO, G.G. 12 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 63.
 
-La Gran Comisión se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar presentes cuando menos cinco de sus integrantes, entre quienes deberá estar el presidente. Sus acuerdos se tomarán por mayoría de votos de los presentes; el presidente tendrá voto de calidad.
+La Gran Comisión se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar presentes cuando menos siete de sus integrantes, entre quienes deberá estar el presidente. Sus acuerdos se tomarán por mayoría de votos de los presentes; el presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, G.G. 12 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 64.
 
-En las faltas temporales del presidente, lo sustituirá el secretario. Las faltas del secretario serán cubiertas por los vocales en su orden. Si la falta de cualquiera de los integrantes fuere definitiva se procederá a nueva elección en votación nominal y por mayoría absoluta de votos de los miembros de la Asamblea.
+En las faltas temporales del presidente, lo sustituirá el secretario. Las faltas del secretario serán cubiertas por los vocales en su orden. Si la falta de cualquiera de los integrantes fuere definitiva se procederá a nueva elección, por mayoría simple de la Asamblea, de entre los miembros de la fracción legislativa de la cual el diputado formara parte.
 
 ###### Artículo 65.
 
@@ -1010,3 +1012,13 @@ PRIMERO.- Procédase a la declaratoria de aprobación de las reformas.
 SEGUNDO.- Publíquese en la Gaceta del Gobierno.
 
 TERCERO.- Este decreto entrará en vigor al día siguiente de su publicación.
+
+G.G. 12 DE SEPTIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
