@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-ccno-10-2000-de-la-comision-de-creacion-de-62824
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-12-07"
-last_updated: "2000-12-07"
+last_updated: "2001-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-23"
 
 ACUERDO NUMERO CCNO/10/2000 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION TEMPORAL DEL TURNO DE NUEVOS ASUNTOS AL PRIMER TRIBUNAL COLEGIADO DEL DECIMOSEPTIMO CIRCUITO, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de diciembre de 2000.
 
@@ -49,6 +49,8 @@ En consecuencia, con fundamento en los preceptos legales y en el Acuerdo General
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/6/2001 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 6 DE ABRIL DE 2001, SE PRORROGA POR UN MES EL PLAZO ESTABLECIDO EN EL PRESENTE PUNTO, DEL 2 DE ABRIL AL 1 DE MAYO DE 2001.</small>
+
 PRIMERO.- Se excluye por el lapso de tres meses al Primer Tribunal Colegiado del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua, del turno de nuevos asuntos que comprende del dos de enero al uno de abril del dos mil uno; por tanto, los nuevos asuntos que se reciban en la Oficialía de Partes Común a los Tribunales Colegiados del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua, durante el periodo que se indica, serán distribuidos entre los restantes tribunales colegiados con la misma residencia.
 
 SEGUNDO.- Una vez transcurrido el plazo señalado en el punto anterior, los nuevos asuntos que se presenten en la propia oficialía de partes, se distribuirán normalmente entre los tres tribunales colegiados del circuito en la residencia mencionada.
@@ -62,3 +64,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO JEAN CLAUDE TRON PETIT, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/10/2000 relativo a la exclusión temporal del turno de nuevos asuntos al Primer Tribunal Colegiado del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua fue aprobado por la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en sesión privada ordinaria celebrada el veintitrés de noviembre de dos mil, por los señores Consejeros: Presidente Manuel Barquín Alvarez y José Guadalupe Torres Morales.- México, Distrito Federal, a veintitrés de noviembre de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE ABRIL DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y en un periódico de los de mayor circulación en el Estado de Chihuahua.
