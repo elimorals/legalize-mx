@@ -1,0 +1,396 @@
+---
+title: "LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE SONORA"
+identifier: "SON-ley-organica-de-la-contaduria-mayor-de-hacienda-del-8508"
+country: "mx"
+rank: "ley_organica"
+publication_date: "1985-03-04"
+last_updated: "1985-03-04"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8508&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-son"
+scjn_id: "8508"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "18 I SECCION"
+reform_count: "3"
+scjn_last_update: "2008-07-14"
+issue_date: "1985-02-15"
+state: "SON"
+---
+# LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE SONORA
+
+LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE SONORA
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 4 de marzo de 1985.
+
+EL C. DR. SAMUEL OCAÑA GARCIA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE SONORA, a sus habitantes sabed:
+
+Que el H. Congreso del Estado, se ha servido dirigirme la siguiente LEY
+
+N U M E R O 102
+
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
+
+L E Y
+
+ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE SONORA.
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 1o.
+
+La presente Ley tiene por objeto normar la organización, estructura y funcionamiento de la Contaduría Mayor de Hacienda del Congreso del Estado.
+
+###### ARTÍCULO 2o.
+
+La Contaduría Mayor de Hacienda es el órgano técnico del Congreso del Estado, por medio del cual se revisarán anualmente la cuenta pública del Estado que deberá presentar el Ejecutivo y las cuentas públicas de los Municipios que deberán presentar los Ayuntamientos. Asimismo, se revisarán los estados financieros que los Ayuntamientos presenten trimestralmente al Congreso del Estado.
+
+###### ARTÍCULO 3o.
+
+La revisión de las cuentas públicas y de los estados financieros a que se refiere el artículo anterior, tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos aprobados y analizar el cumplimiento de los objetivos y metas contenidos en los programas, a cuya ejecución se hayan asignado los recursos presupuestados.
+
+La revisión de las cuentas públicas comprenderá del ejercicio fiscal del 1o. de enero al 31 de diciembre del año anterior al de su presentación. La revisión de los estados financieros comprenderá al ejercicio del trimestre correspondiente.
+
+###### ARTÍCULO 4o.
+
+La Contaduría Mayor de Hacienda en el desempeño de sus funciones, estará bajo el control del Congreso del Estado a través de la Comisión de Vigilancia, que tendrá el carácter de permanente. Los integrantes de esta Comisión serán nombrados en los términos del Decreto que reglamenta el funcionamiento y gobierno interior del Congreso del Estado de Sonora.
+
+###### ARTÍCULO 5o.
+
+El Congreso del Estado es la autoridad suprema de la Contaduría Mayor de Hacienda, por lo que:
+
+I.- Nombrará y removerá, a propuesta de la Comisión de Vigilancia, al personal de la mencionada Contaduría; e
+
+II.- Interpretará, aclarará y resolverá, las consultas que se susciten con motivo de la aplicación de esta Ley.
+
+###### ARTÍCULO 6o.
+
+Para los efectos de esta ley, las cuentas públicas deberán comprender:
+
+I.- La del Gobierno del Estado: los Poderes Legislativo y Judicial, las dependencias directas del Ejecutivo, los organismos descentralizados, fondos, fideicomisos y empresas de participación estatal mayoritarias, Tribunal de lo Contencioso Administrativo y Junta Local de Conciliación y Arbitraje, cuyos presupuestos detallados hayan sido incorporados al Presupuesto de Egresos del Gobierno del Estado.
+
+II.- La de los Ayuntamientos: Las dependencias de la Administración Pública Directa y las entidades paramunicipales.
+
+### CAPITULO II. DE LA CONTADURIA MAYOR DE HACIENDA
+
+###### ARTÍCULO 7o.
+
+Al frente de la Contaduría Mayor de Hacienda, con carácter de autoridad, estará un Contador Mayor de Hacienda designado por el Congreso del Estado, de terna propuesta por la Comisión de Vigilancia, el cual será auxiliado en sus funciones por el personal técnico y administrativo que autorice anualmente el presupuesto de egresos del Gobierno del Estado.
+
+###### ARTÍCULO 8o.
+
+La Contaduría Mayor de Hacienda tendrá las siguientes atribuciones:
+
+I.- Establecer coordinación con la Secretaría de Planeación del Desarrollo, la Tesorería General del Estado, la Secretaría de la Contraloría General del Estado y los Ayuntamientos, a fin de unificar las normas, procedimientos, métodos y sistemas de contabilidad y las normas de auditoría gubernamental y de archivo contable de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público.
+
+II.- Fijar las normas, procedimientos, métodos y sistemas internos para la revisión de las cuentas públicas del Estado y de los Municipios.
+
+III.- Verificar si el Gobierno del Estado y los Gobiernos Municipales, en sus cuentas públicas:
+
+a) Realizaron sus operaciones con apego a las leyes de ingresos y a los presupuestos de egresos del Estado y de los Municipios, respectivamente.
+
+b) Ejecutaron los programas de inversión y de gasto corriente, ajustándose a los montos y términos aprobados.
+
+c) Aplicaron los recursos provenientes de financiamientos, con la periodicidad y forma establecidos en los decretos respectivos.
+
+IV.- Revisar los estados financieros a que se refiere el Artículo 136, Fracción XXIII de la Constitución Política Local, pudiendo ordenar visitas e inspecciones, practicar auditorías, solicitar informes y, en general, recabar los elementos de información necesarios para cumplir con sus funciones.
+
+V.- Elaborar y rendir a la Comisión de Vigilancia, los informes sobre los resultados de la revisión a que se refiere la fracción anterior de este Artículo.
+
+VI.- Ordenar visitas e inspecciones, practicar auditorías, solicitar informes y revisar libros y documentos, para comprobar si la recaudación de los ingresos, se ha realizado de conformidad con las leyes aplicables en la materia.
+
+VII.- Ordenar visitas e inspecciones, practicar auditorías, solicitar informes y revisar libros y documentos, para comprobar si las inversiones y gastos autorizados, se han aplicado eficientemente al logro de los objetivos y metas de los programas y subprogramas aprobados y, en general, realizar las investigaciones necesarias para el cabal cumplimiento de sus atribuciones.
+
+VIII.- Solicitar a los auditores externos de las entidades de la Administración Pública Paraestatal o Paramunicipal, copias de los informes o dictámenes de las auditorías por ellos practicadas y las aclaraciones, en su caso, que se estimen pertinentes.
+
+IX.- Elaborar y rendir al Congreso, a través de la Comisión de Vigilancia, los informes sobre el resultado de las revisiones de las cuentas públicas del Estado y de los Municipios, durante el mes de mayo del año de la presentación de las mismas. Estos informes contendrán, enunciativamente;
+
+a) La calificación acerca de si las cuentas públicas están presentadas de acuerdo con las normas y procedimientos de contabilidad generalmente aceptados.
+
+b) Los resultados de la gestión financiera.
+
+c) La comprobación de si el Gobierno del Estado y los Gobiernos Municipales, se ajustaron a las disposiciones contenidas en las leyes de ingresos y en los presupuestos de egresos.
+
+d) La apreciación acerca del cumplimiento de los objetivos y metas de los principales programas y subprogramas aprobados.
+
+e) El análisis de las variaciones presupuestales.
+
+f) El señalamiento de las irregularidades que, en su caso, se hayan advertido.
+
+X.- Promover, previa autorización del Congreso, ante las autoridades competentes, el fincamiento de responsabilidades.
+
+XI.- Establecer coordinación y colaboración con órganos de fiscalización superior dependientes de las demás entidades federativas para lograr el mejor cumplimiento de sus respectivas atribuciones, teniendo facultades para celebrar todo tipo de convenios de coordinación en materia de cooperación técnica o administrativa y en materia de capacitación de su personal.
+
+De igual manera podrá coordinarse y colaborar con la Contaduría Mayor de Hacienda de la Federación para el mismo fin señalado en el párrafo anterior.
+
+XII.- Convenir con las entidades fiscalizadas las medidas, acciones o compromisos tendentes a la implantación de las recomendaciones a que se refiere la presente ley; y
+
+XIII.- Las demás que le correspondan de acuerdo con esta ley y su reglamento.
+
+###### ARTÍCULO 9o.
+
+Para ser Contador Mayor de Hacienda, deberán reunirse los siguientes requisitos:
+
+I.- Ser mexicano, mayor de treinta años y en pleno ejercicio de sus derechos.
+
+II.- Poseer título expedido y legalmente registrado en: Contaduría pública, derecho, economía, administración o profesión afín a las funciones que realiza la Contaduría, y acreditar experiencia y conocimientos en contabilidad y auditoría gubernamentales.
+
+III.- Ser de reconocida honorabilidad en el ejercicio de su profesión y en el desempeño de las funciones públicas que le hayan sido encomendadas.
+
+IV.- No desempeñar puesto de elección popular durante el ejercicio del cargo.
+
+V.- No prestar servicios profesionales a las dependencias y entidades de la administración pública federal, estatal o municipal, durante el desempeño del puesto, a excepción de cargos docentes u honoríficos.
+
+VI.- No estar al servicio de instituciones, organismos, empresas privadas o particulares, durante el desempeño del cargo; y
+
+VII.- No ser ministro de culto religioso alguno.
+
+###### ARTÍCULO 10.
+
+El Contador Mayor de Hacienda será inamovible durante el término de seis años. el Congreso del Estado a propuesta motivada y fundada de la Comisión de Vigilancia, podrá prorrogar su nombramiento hasta por seis años más.
+
+El Contador Mayor de Hacienda será suplido en sus ausencias temporales, siempre que no excedan de tres meses por la persona que designe la comisión de vigilancia. Si la ausencia fuere mayor, dará cuenta al Congreso del Estado para que resuelva lo procedente. Durante el receso del Congreso del Estado, la persona designada por la comisión ejercerá el cargo en tanto el Congreso designe al Contador Mayor de Hacienda en el siguiente período de sesiones.
+
+###### ARTÍCULO 11.
+
+Procederá la remoción del Contador Mayor de Hacienda, aunque no haya transcurrido el término de seis años a que se refiere el artículo anterior, cuando en el desempeño de su cargo incurriere en falta de honradez, notoria ineficiencia, incapacidad física o mental, o sea procesado por la comisión de algún delito intencional. En cualquiera de estos casos, la Comisión de Vigilancia propondrá motivada y fundadamente su remoción al Congreso del Estado, el que resolverá previo conocimiento de lo que en su defensa hubiere alegado ante dicha comisión.
+
+Durante el receso del Congreso del Estado, la Comisión de Vigilancia, podrá suspenderlo en el ejercicio de sus funciones, para que aquél resuelva en el siguiente período ordinario.
+
+###### ARTÍCULO 12.
+
+El Contador Mayor de Hacienda tendrá las siguientes funciones:
+
+I.- Ejercer las atribuciones señaladas en esta ley, a la Contaduría Mayor de Hacienda.
+
+II.- Representar a la Contaduría Mayor de Hacienda ante toda clase de autoridades, entidades y personas físicas y morales.
+
+III.- Elaborar el presupuesto anual de la Contaduría Mayor de Hacienda y someterlo a la consideración del Congreso del Estado, por conducto de la Comisión de Vigilancia.
+
+IV.- Proponer, para su aprobación el ejercicio del presupuesto mensual de la Contaduría a su cargo, a la Comisión de Vigilancia.
+
+V.- Administrar y ejercer el presupuesto mensual y dar cuenta comprobada de su aplicación, dentro de los diez primeros días del mes siguiente al que corresponda su ejercicio, a la Comisión de Vigilancia.
+
+VI.- Informar a la Comisión de Vigilancia dentro de los treinta días siguientes al término del ejercicio del presupuesto anual, acerca de su aplicación.
+
+VII.- Formular y ejecutar los programas de trabajo de la Contaduría Mayor de Hacienda.
+
+VIII.- Formular los pliegos de observaciones que procedan.
+
+IX.- Integrar las comisiones que sean necesarias y seleccionar al personal capacitado, a fin de practicar las visitas, inspecciones y auditorías a que se refiere el artículo 8o. de esta ley.
+
+X.- Promover, previo acuerdo del Congreso del Estado y ante las autoridades competentes, el fincamiento de las responsabilidades que resulten.
+
+XI.- Proponer en los términos de ley, a la Comisión de Vigilancia, el nombramiento y remoción del personal de la Contaduría a su cargo, para que sea sometido a la aprobación del Congreso del Estado; y
+
+XII.- En general, todas las que deriven de esta ley y su reglamento.
+
+###### ARTÍCULO 13.
+
+El Reglamento Interior de la Contaduría Mayor de Hacienda fijará las facultades y obligaciones que correspondan al personal técnico y administrativo adscrito a la misma.
+
+###### ARTÍCULO 14.
+
+El personal de la Contaduría Mayor de Hacienda se integrará exclusivamente con trabajadores de confianza.
+
+### CAPITULO III. DE LA COMISION DE VIGILANCIA
+
+###### ARTÍCULO 15.
+
+Son atribuciones de la Comisión de Vigilancia:
+
+I.- Turnar a la Contaduría Mayor de Hacienda para su revisión las cuentas públicas y demás informes que reciba.
+
+II.- Proponer a la Contaduría Mayor de Hacienda, cuando lo estime conveniente para los efectos de esta ley, la práctica de visitas, inspecciones y auditorías a los órganos comprendidos en las cuentas públicas.
+
+III.- Analizar los informes sobre los resultados de la revisión a que se refiere el artículo 8o, fracción V y proceder en los términos de las leyes relativas.
+
+IV.- Presentar al Congreso del Estado, dentro de los diez primeros días del mes de junio, el dictamen de las cuentas públicas que le presente la Contaduría Mayor de Hacienda.
+
+V.- Someter a la consideración del Congreso del Estado el presupuesto anual de la Contaduría Mayor de Hacienda.
+
+VI.- Estudiar y aprobar, en su caso, el ejercicio del presupuesto anual y revisar las cuentas anual y mensual de la Contaduría Mayor de Hacienda.
+
+VII.- Establecer la organización y expedir el Reglamento Interior de la Contaduría Mayor de Hacienda.
+
+VIII.- Proponer al Congreso del Estado, en los términos de esta ley:
+
+a) La terna para el nombramiento del Contador Mayor de Hacienda.
+
+b) El nombramiento y la remoción del personal de la Contaduría Mayor de Hacienda.
+
+IX.- Ser el conducto de comunicación entre el Congreso del Estado y la Contaduría Mayor de Hacienda.
+
+X.- Interpretar, aclarar y resolver las consultas sobre la aplicación del Reglamento Interior de la Contaduría Mayor de Hacienda; y
+
+XI.- Dictar las medidas que estime necesarias para que la Contaduría Mayor de Hacienda cumpla las funciones que le corresponden en los términos de esta ley y su reglamento.
+
+### CAPITULO IV. DE LAS CUENTAS PUBLICAS DEL GOBIERNO DEL ESTADO Y DE LOS
+
+GOBIERNOS MUNICIPALES
+
+###### ARTÍCULO 16.
+
+La cuenta pública del Gobierno del Estado que presente anualmente el Ejecutivo, y las cuentas públicas de los Municipios que presenten anualmente los Ayuntamientos, estarán constituidas por:
+
+I.- Los estados financieros que comprenderán la balanza de comprobación, el balance general, el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos y el estado de origen y aplicación de recursos.
+
+II.- El informe de los efectos económicos y sociales que se obtuvieron con la aplicación de los recursos asignados y el avance en la ejecución del Plan de Desarrollo respectivo.
+
+III.- La descripción clara del avance físico-financiero de los programas de inversión, señalando en cada uno objetivos, metas, costos y unidades responsables de su ejecución.
+
+IV.- El análisis de los ingresos y gastos reales del ejercicio fiscal a que se refiere la cuenta, comparándolos con los del ejercicio fiscal anterior.
+
+V.- El resumen sobre alcance de metas, programas, subprogramas o proyectos especiales, especificando, en caso de variaciones, las causas que los originaron.
+
+VI.- El informe sobre la ejecución de los recursos por transferencias y aportaciones, especificando importe, causas y la finalidad de las erogaciones, así como el destino último de su aplicación.
+
+VII.- La información sobre la situación de la deuda pública al finalizar el ejercicio; y
+
+VIII.- En general, toda la información que se considere útil para mostrar las acciones realizadas en forma clara y concreta.
+
+###### ARTÍCULO 17.
+
+Los estados financieros a que alude el Artículo 136, Fracción XXIII de la Constitución Política Local, además del balance general y el estado de resultados que contenga el ejercicio presupuestario de ingresos y egresos que se lleva a la fecha, deberán contener las relaciones analíticas o auxiliares.
+
+###### ARTÍCULO 18.
+
+El Gobierno del Estado y los Gobiernos Municipales conservarán en su poder, los libros y registros de contabilidad y la información financiera correspondiente, así como los documentos justificativos y comprobatorios de las cuentas públicas, mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas.
+
+La Contaduría Mayor de Hacienda conservará indefinidamente en su poder, las Leyes de Ingresos y los Presupuestos de Egresos del Gobierno del Estado y de los Gobiernos Municipales, así como sus modificaciones y los pliegos de observaciones que formule y los documentos que contengan las responsabilidades que finque.
+
+### CAPITULO V. DE LA REVISION DE LA CUENTA PUBLICA DEL GOBIERNO DEL ESTADO Y DE LAS CUENTAS PUBLICAS DE LOS GOBIERNOS MUNICIPALES
+
+###### ARTÍCULO 19.
+
+La Contaduría Mayor de Hacienda, para el cumplimiento de las atribuciones que le confiere el Artículo 8o. de esta Ley, goza de facultades para practicar visitas, inspecciones y auditorías y, en general, para recabar todos los elementos de información necesarios para cumplir con sus funciones.
+
+###### ARTÍCULO 20.
+
+La revisión de la cuenta pública del Gobierno del Estado y de las cuentas públicas de los Gobiernos Municipales, precisará el ingreso y el gasto público, dictaminará el resultado de la gestión financiera, verificará si el ingreso deriva de la aplicación de la Ley de Ingresos del Estado y de las Leyes de Ingresos y Presupuestos de los Municipios, comprobará si el gasto público se ajustó a los Presupuestos de Egresos del Estado y de los Municipios y si se han cumplido los programas y subprogramas aprobados.
+
+Si de la revisión aparecieren discrepancias entre las cantidades ejercidas, las partidas aprobadas y las metas alcanzadas, o no existiera exactitud y justificación de los gastos hechos, se determinarán las responsabilidades de acuerdo con la ley y se promoverá su fincamiento ante las autoridades competentes.
+
+###### ARTÍCULO 21.
+
+Las visitas, inspecciones y auditorías ordenadas por la Contaduría Mayor de Hacienda se efectuarán por auditor y personal expresamente comisionado para el efecto. El auditor tendrá el carácter de representante del Contador Mayor de Hacienda en lo concerniente a la comisión conferida.
+
+La Contaduría Mayor de Hacienda podrá contratar los servicios profesionales de personal especializado, para el mejor desempeño de sus funciones.
+
+###### ARTÍCULO 22.
+
+El Gobierno del Estado y los Gobiernos Municipales, están obligados a proporcionar a la Contaduría Mayor de Hacienda, la información que le solicite y a permitir la práctica de visitas, inspecciones y auditorías necesarias para el esclarecimiento de los hechos.
+
+Igual obligación tienen los funcionarios y empleados de las administraciones públicas paraestatal y paramunicipal, así como las instituciones privadas o los particulares; a los que el Gobierno del Estado o los Gobiernos Municipales les hubiere concedido apoyos, subsidios o transferencias.
+
+###### ARTÍCULO 23.
+
+Cuando a la Contaduría Mayor de Hacienda no se le proporcionare la información que solicite o no se le permitiere la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso o del gasto público, así como la práctica de visitas, inspecciones o auditorías, ésta lo hará del conocimiento del Congreso por conducto de la Comisión de Vigilancia para que se resuelva lo procedente.
+
+### CAPITULO VI. DE LAS RESPONSABILIDADES
+
+###### ARTÍCULO 24.
+
+Para los efectos de esta ley, incurre en responsabilidad, toda persona física o moral, que cause daño o perjuicio a la Hacienda Pública Estatal, al patrimonio o a la Hacienda de los Ayuntamientos.
+
+###### ARTÍCULO 25.
+
+Incurren en responsabilidades:
+
+I.- Los servidores públicos del Gobierno del Estado o de los Gobiernos Municipales, por la aplicación indebida de las partidas presupuestales o por la falta de documentos justificativos y comprobatorios del gasto.
+
+II.- Los servidores públicos de la Contaduría Mayor de Hacienda, cuando al revisar las cuentas públicas no formulen las observaciones sobre las irregularidades que detectaren.
+
+III.- Los servidores públicos del Gobierno del Estado o de los Gobiernos Municipales que dentro del término de treinta días a que se refiere el Artículo 30 de esta Ley, no rindan o dejen de rendir los informes acerca de la solventación de los pliegos de observaciones formulados y remitidos por la Contaduría Mayor de Hacienda; y
+
+IV.- Las empresas privadas y los particulares que en relación con el gasto del Gobierno del Estado o de los Gobiernos Municipales hayan incurrido en incumplimiento de las obligaciones contraidas por actos efectuados, convenios o contratos celebrados con éstos.
+
+###### ARTÍCULO 26.
+
+Las responsabilidades que conforme a esta ley se finquen, tienen por objeto cubrir a la Hacienda Pública Estatal, al Patrimonio o a la Hacienda de los Ayuntamientos, el monto de los daños y perjuicios estimables en dinero.
+
+Las responsabilidades administrativas se fincarán independientemente de las que procedan por otras leyes y de las sanciones de carácter penal que imponga la autoridad judicial.
+
+###### ARTÍCULO 27.
+
+Las entidades que componen las administraciones públicas paraestatal o paramunicipal, los servidores públicos de éstas, las empresas privadas o los particulares son solidariamente responsables con los servidores públicos de las dependencias que integran la administración pública directa estatal o municipal o con los de la contaduría mayor de hacienda, por su coparticipación en actos u omisiones sancionados por la ley.
+
+Las responsabilidades que se constituyan a cargo de los servidores públicos de las dependencias directas de las administraciones publicas estatal y municipal, o de la Contaduría Mayor de Hacienda, no eximen a las entidades de la administración pública paraestatal o paramunicipal, ni a sus servidores públicos, ni a las empresas privadas o particulares, de sus obligaciones, cuyo cumplimiento se les exigirá aún cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
+
+###### ARTÍCULO 28.
+
+Si de la revisión de la cuenta pública del Gobierno del Estado y de las cuentas públicas de los Gobiernos Municipales se determinaren responsabilidades, el Contador Mayor de Hacienda promoverá el ejercicio de las acciones que correspondan, en los términos que señalen las leyes.
+
+###### ARTÍCULO 29.
+
+El Contador Mayor de Hacienda, atento y en los términos del Artículo 12, fracción X de esta ley, formulará directamente los pliegos de observaciones derivados de la revisión de las cuentas públicas, así como los relacionados con las empresas privadas o con los particulares que hayan coparticipado en el ingreso o en el gasto público.
+
+De estos hechos, el Contador Mayor de Hacienda informará a la Secretaría de la Contraloría General del Estado o a los Ayuntamientos, según el caso.
+
+###### ARTÍCULO 30.
+
+Las entidades, dentro de un plazo improrrogable de treinta días hábiles, contados a partir de la fecha de recibido de los pliegos de observaciones, informarán a la Contaduría Mayor de Hacienda, a la Secretaría de la Contraloría General del Estado o a los Ayuntamientos, según corresponda, sobre su trámite y medidas dictadas para hacer efectivo el cobro de las cantidades no percibidas por la Hacienda Pública Estatal o las Haciendas Públicas Municipales, el resarcimiento de los daños y perjuicios causados y el fincamiento de las responsabilidades en que hayan incurrido sus empleados o funcionarios, así como los organismos de la administración pública paraestatal o paramunicipal y sus funcionarios o empleados, las empresas privadas o los particulares, que hubieren intervenido en el ingreso o en el gasto público, dando noticia, en su caso, de las penas impuestas, de su monto cuando sea de carácter económico y el Nombre de los sancionados.
+
+Cuando los informes no se rindan o dejen de rendirse dentro del plazo señalado, los empleados o funcionarios responsables serán sancionados de acuerdo con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+###### ARTÍCULO 31.
+
+Las responsabilidades a que se refiere esta ley, que resulten por actos u omisiones, prescribirán en los términos que señalen los ordenamientos jurídicos aplicables.
+
+Cualquier gestión de cobro que haga la autoridad competente, interrumpe el término de prescripción.
+
+T R A N S I T O R I O S
+
+###### ARTÍCULO PRIMERO.
+
+La Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la ley que establece con carácter permanente la Oficina de Glosa y reglamenta la organización y funcionamiento y el Reglamento de la Sección Mayor de Glosa; asimismo, se derogan cualesquiera otras disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+La comisión de vigilancia que se crea por disposición de esta ley, se constituirá en el segundo período de sesiones ordinarias, en los términos del Decreto que reglamenta el funcionamiento y Gobierno Interior del Congreso del Estado de Sonora, mientras tanto la Sección Mayor de Glosa ejercerá las atribuciones que a la referida Comisión otorga este Ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+La revisión de la cuenta pública del Estado y de las cuentas públicas de los Municipios del ejercicio fiscal de 1984, se ajustará a las disposiciones de este ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Por esta única vez el nombramiento del Contador Mayor de Hacienda comprenderá un período de siete años.
+
+Comuníquese al Ejecutivo
+
+Para su sanción y promulgación.
+
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.
+
+Hermosillo, Sonora, 13 de febrero de 1985.
+
+LIC. JOSE OSCAR GONZALEZ ASTORGA.
+
+DIPUTADO PRESIDENTE.
+
+ALICIA B. DE GONZALEZ.
+
+DIPUTADO SECRETARIO.
+
+ALFONSO HUERTA HOYOS.
+
+DIPUTADO SECRETARIO.
+
+POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.
+
+PALACIO DE GOBIERNO, Hermosillo, Sonora, a quince de febrero de mil novecientos ochenta y cinco.
+
+Dr. Samuel Ocaña García.
+
+EL SECRETARIO DE GOBIERNO.
+
+Lic. Carlos Gámez Fimbres.
