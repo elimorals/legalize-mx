@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1981-02-13"
+last_updated: "1982-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -469,9 +469,11 @@ III.- Conceder ni abrogarse en ningún caso facultades extraordinarias.
 
 IV.- Consentir en que funcionen como Autoridades las que debiendo ser electas popularmente según esta Constitución, no tengan tal origen.
 
+> <small>(REFORMADO, P.O. 1o. DE ENERO DE 1982)</small>
+
 ###### Art. 65.
 
-La víspera de su receso, en cada período de sesiones ordinarias, la Legislatura nombrará a pluralidad absoluta de votos una Diputación Permanente compuesta de tres Diputados Propietarios y un Suplente.
+La víspera de su receso, en cada período de sesiones ordinarias, la Legislatura nombrará a pluralidad absoluta de votos una Diputación Permanente compuesta de cuatro Diputados en ejercicio.
 
 ###### Art. 66.
 
@@ -1684,3 +1686,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE FEBRERO DE 1981.
 
 UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ENERO DE 1982.
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
