@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1998-01-24"
+last_updated: "1998-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 1998.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -168,6 +168,10 @@ XIX.-El enriquecimiento ilícito, a que se refiere el artículo 261;
 XX.-La evasión de presos, a que se refiere el segundo párrafo del artículo 276, y 277, en su segundo párrafo;
 
 XXI.-El fraccionamiento indebido y la venta o promesa de venta indebida, a que se refieren los artículos 285 y 286.
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+XXII. La corrupción de menores a que se refiere el Capítulo II, del Título XI de este Código.
 
 ### CAPITULO II. DOLO, CULPA Y PRETERINTENCIONALIDAD
 
@@ -421,7 +425,9 @@ La reparación del daño comprende:
 
 I.- La restitución de la cosa obtenida por el delito, así como sus frutos existentes y si no fuere posible, el pago del precio correspondiente; y
 
-II.-La indemnización del daño material y moral causado, así como el perjuicio ocasionado.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+II. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra la libertad y seguridad sexual y de violencia familiar, comprenderá además el pago de los tratamientos psicoterapéuticos indicados como necesarios para la víctima.
 
 > <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1059,13 +1065,31 @@ Al que entregue un niño menor de siete años de edad que se le hubiere confiado
 
 Al que padeciendo alguna enfermedad grave y transmisible, ponga en peligro de contagio a otro, violando un deber de cuidado, será sancionado con multa hasta de cincuenta veces el salario mínimo y recluido en el establecimiento adecuado hasta obtener su curación.
 
-### CAPITULO I. PRIVACION DE LA LIBERTAD FISICA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+### CAPÍTULO VI. Violencia Familiar
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+ARTÍCULO 138 BIS. Se considera violencia familiar el uso de la fuerza física o moral que, de manera recurrente, se ejerce contra un miembro de la familia por otro integrante de la misma en agravio de su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones.
+
+Cometerá el delito de violencia familiar el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta sin limitación de grado, pariente colateral consanguíneo hasta el cuarto grado, o afines, adoptante o adoptado, que habite en la misma casa de la víctima.
+
+A quien cometa el delito de violencia familiar se le impondrán de seis meses a cuatro años de prisión, perderá el derecho de pensión alimenticia respecto a la víctima y se le sujetará a tratamiento psicoterapéutico correspondiente.
+
+Este delito se perseguirá por querella de parte ofendida, salvo que la víctima sea menor de edad o incapaz, caso en el que se perseguirá de oficio.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+ARTÍCULO 138 TER. Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que esté unida fuera del matrimonio, de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquiera otra que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+ARTÍCULO 138 QUATER. En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable a que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos el Ministerio Público está obligado a solicitar las medidas precautorias que considere pertinentes.
 
 ## TITULO III. DELITOS CONTRA LA LIBERTAD
 
-### CAPITULO II. PRIVACION DE LA LIBERTAD LABORAL
+### CAPITULO I. PRIVACION DE LA LIBERTAD FISICA
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1073,17 +1097,17 @@ Al que padeciendo alguna enfermedad grave y transmisible, ponga en peligro de co
 
 Al particular que ilegítimamente prive a otro de su libertad física, se le impondrán de uno a cuatro años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
-### CAPITULO III. SECUESTRO
+### CAPITULO II. PRIVACION DE LA LIBERTAD LABORAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 140.
 
 Al que obligue a otro a prestar servicios laborales, se le impondrán de uno a cuatro años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
-### CAPITULO IV. RAPTO
+### CAPITULO III. SECUESTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 141.
 
@@ -1119,9 +1143,9 @@ IV. Aconseje o disuada para no presentar la denuncia del secuestro cometido o bi
 
 V. Intimide a la víctima, a sus familiares o a sus gestores para no colaborar con las autoridades competentes.
 
-### CAPITULO V. ASALTO
+### CAPITULO IV. RAPTO
 
-> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 143.
 
@@ -1143,9 +1167,9 @@ Cuando el raptor contraiga matrimonio con la mujer ofendida, si ésta prestó su
 
 No se procederá contra el raptor, si no por queja de la persona ofendida o de su cónyuge o combinario (sic), pero si la raptada fuere menor de edad o se estuviere en el caso del artículo 144, se procederá por querella de quien ejerza la patria potestad, la tutela, la custodia, o en su defecto de la misma menor.
 
-### CAPITULO VI. COACCION Y AMENAZAS
+### CAPITULO V. ASALTO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 147.
 
@@ -1155,11 +1179,9 @@ A quienes asalten, haciendo uso de la violencia física o moral, a los habitante
 
 Si de la violencia resultare la comisión de otro delito, se aplicarán las reglas del concurso.
 
-### CAPITULO VII. ATAQUES A LA LIBERTAD DE REUNION Y DE
+### CAPITULO VI. COACCION Y AMENAZAS
 
-EXPRESION
-
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 148.
 
@@ -1167,17 +1189,19 @@ Al que mediante violencia física o moral obligue a otro a hacer, omitir, o tole
 
 Las mismas sanciones se aplicarán al que amenace a otro con causarle un daño en su persona, o derechos, o en la de otra con la que esté ligado con algún vínculo.
 
-### CAPITULO VIII. ALLANAMIENTO DE MORADA
+### CAPITULO VII. ATAQUES A LA LIBERTAD DE REUNION Y DE
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+EXPRESION
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 149.
 
 Al que ilegítimamente turbe o disuelva una reunión o impida a otro la expresión de sus ideas o creencias, se le impondrán de seis meses a tres años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
-### CAPITULO IX. REVELACION DE SECRETOS
+### CAPITULO VIII. ALLANAMIENTO DE MORADA
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 150.
 
@@ -1189,9 +1213,9 @@ Las mismas sanciones se aplicarán al que permanezca en una morada o sus depende
 
 No se procederá contra los autores de este delito, sino por querella de los ofendidos o de sus legítimos representantes.
 
-### CAPITULO I. VIOLACION
+### CAPITULO IX. REVELACION DE SECRETOS
 
-> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 151.
 
@@ -1203,23 +1227,35 @@ Las sanciones serán de seis meses a tres años de prisión y multa hasta de cua
 
 Y LA SEGURIDAD SEXUAL
 
-### CAPITULO II. ESTUPRO
+### CAPITULO I. VIOLACION
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
-###### ARTICULO 152.
+###### ARTÍCULO 152.
 
-A quien por medio de la violencia física o moral tenga cópula con una persona sea cual fuere su sexo, se le impondrán de seis a ocho años de prisión y multa hasta de doscientas veces el salario mínimo.
+A quien por medio de la violencia física o moral tenga cópula con una persona sea cual fuere su sexo, se le impondrán de seis a doce años de prisión y multa hasta de doscientas veces el salario mínimo.
 
-> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
+Si la víctima es cónyuge o mantiene relaciones de concubinato con quien lo agrede, además de las sanciones establecidas en el párrafo anterior, éste perderá el derecho de percibir alimentos de aquélla.
 
-###### ARTICULO 153.
+Para los efectos de este artículo se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por la vía vaginal, anal u oral, independientemente de su sexo.
 
-Al que tenga cópula con persona menor de catorce años de edad o que no tenga capacidad de comprender o que por cualquier causa no pueda resistir se le impondrán de seis a nueve años de prisión y multa hasta de doscientas veces el salario mínimo.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+###### ARTÍCULO 153.
+
+Al que tenga cópula con persona menor de catorce años o que no tenga capacidad de comprender o que por cualquier causa no pueda resistir, se le impondrán de seis a trece años de prisión y multa hasta de doscientas veces el salario mínima.
 
 > <small>(ADICIONADO, G.O. 23 DE JULIO DE 1991)</small>
 
 Cuando se tenga cópula con persona mayor de doce y menor de catorce años de edad, con su consentimiento y el responsable sea menor de veintiún años y contraiga matrimonio con la persona ofendida, previa autorización de sus padres o quien deba otorgarla, la sanción será de dos a ocho años de prisión y multa hasta cien veces el salario mínimo.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+Se considerará también como violación y se sancionará de igual manera, al que introduzca por la vía vaginal o anal cualquier cosa distinta al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo de víctima.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+Si la introducción referida en el párrafo anterior se hace sin violencia en una persona menor de catorce años, o en alguna incapacitada para comprender el alcance de tal hecho, o que por cualquier causa no pueda resistirse, se considerará como violación y se sancionará como tal; pero si se hace uso de ésta, sea física o moral, el mínimo y el máximo de las penas se aumentará hasta en una mitad.
 
 > <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
@@ -1227,17 +1263,19 @@ Cuando se tenga cópula con persona mayor de doce y menor de catorce años de ed
 
 Cuando la violación sea cometida por dos o más personas, la prisión será de seis a quince años y la multa hasta de trescientas veces el salario mínimo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+###### ARTÍCULO 155.
+
+Cuando el delito de violación fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por parientes colaterales hasta el cuarto grado, por quien ejerce la tutela contra su pupilo, por el padrastro o la madrastra de la víctima, el concubinario o la concubina de la madre o del padre, además de las sanciones ya indicadas, la pena corporal podrá aumentarse hasta en cinco años y el responsable perderá la patria potestad o la tutela según el caso, y el derecho de percibir alimentos y el de heredar al ofendido.
+
 > <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
-
-###### ARTICULO 155.
-
-Cuando el delito de violación fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por el tutor en contra de su pupilo, o por el padrastro de la víctima, además de las sanciones que señalan los artículos que anteceden, la sanción de prisión podrá aumentarse hasta en cinco años. El culpable perderá la patria potestad o la tutela, en su caso, así como el derecho de heredar al ofendido.
 
 Cuando el violador hubiere cometido el delito utilizando los medios o circunstancias que le proporcionen el cargo o empleo públicos que desempeñe o la profesión que ejerza, será destituido definitivamente del cargo o empleo y suspendido por el término de cinco años en el ejercicio de su profesión, independientemente de las sanciones que conforme a los artículos anteriores le correspondan.
 
-### CAPITULO III. ABUSOS DESHONESTOS
+### CAPITULO II. ESTUPRO
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 156.
 
@@ -1251,27 +1289,39 @@ No se procederá contra el estuprador sino por querella de la mujer ofendida o d
 
 Si el delincuente contrae matrimonio con la mujer ofendida, se extinguirá la acción penal o la sanción impuesta.
 
-### CAPITULO I. INJURIAS
+### CAPITULO III. ABUSOS DESHONESTOS
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 158.
 
-Al que sin el consentimiento de una persona púber o impúber, o con el consentimiento de esta última, ejecute en ella o la haga ejecutar un acto erótico sin el propósito de llegar a la cópula, se le aplicarán de un mes a un año de prisión y multa hasta de treinta veces el salario.
+Al que sin el propósito de llegar a la cópula ejecute o haga ejecutar un acto erótico a una persona menor de catorce años, mayor de catorce sin su consentimiento o que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, se le aplicarán de seis meses a tres años de prisión y multa hasta de cincuenta veces el salario mínimo.
 
-Si se hiciere uso de la violencia física o moral, la sanción será de tres meses a cuatro años de prisión y multa hasta de cincuenta veces el salario mínimo.
+Si se hiciere uso de la violencia física o moral, la sanción será de seis meses a cinco años de prisión y multa hasta de cien veces el salario mínimo en la forma indicada.
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 159.
 
-El delito de abusos deshonestos será perseguido por querella de parte ofendida o de sus representantes legítimos.
+El delito de abusos deshonestos será perseguido a querella de la parte ofendida o de sus representantes legítimos; pero cuando la parte ofendida sea menor de catorce años o medie violencia, el delito se perseguirá de oficio.
 
-### CAPITULO II. DIFAMACIÓN
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+### CAPÍTULO IV. ACOSO SEXUAL
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+ARTÍCULO 159 BIS. A quien con fines lascivos acose reiteradamente a una persona de cualquier sexo, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas, o cualquier otra que implique subordinación, se le impondrá como sanción multa hasta de cien veces el salario mínimo. Si el acosador fuere servidor público y utilizase los medios y circunstancias que su encargo le proporcione, será destituido de su empleo y se le inhabilitará para ocupar otro, de carácter público, hasta por tres años.
+
+Solamente será punible el acoso sexual, cuando se cause a la persona acosada perjuicio o daño.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+ARTÍCULO 159 TER. El delito de acoso sexual será perseguido por querella de la parte ofendida o de sus representantes legítimos.
 
 ## TITULO V. DELITOS CONTRA EL HONOR
 
-### CAPITULO III. CALUMNIA
-
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+### CAPITULO I. INJURIAS
 
 ###### ARTICULO 160.
 
@@ -1281,11 +1331,9 @@ El delito de abusos deshonestos será perseguido por querella de parte ofendida 
 
 (DEROGADO, G.O. 9 DE ABRIL DE 1988)
 
-### CAPITULO IV. DISPOSICIONES COMUNES PARA LOS
+### CAPITULO II. DIFAMACIÓN
 
-DELITOS CONTRA EL HONOR
-
-> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 162.
 
@@ -1299,9 +1347,9 @@ I.- Si la imputación hubiere tenido por objeto defender o garantizar un interé
 
 II.-Si el hecho imputado está declarado cierto por sentencia firme y al acusado obra por interés legítimo.
 
-### CAPITULO I. ROBO
+### CAPITULO III. CALUMNIA
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 164.
 
@@ -1315,9 +1363,11 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia ni se lib
 
 Cuando esté pendiente el proceso que se instruya por el delito imputado, se suspenderá el ejercicio de la acción de calumnia hasta que se dicte resolución irrevocable que ponga fin a dicho proceso.
 
-### CAPITULO II. ABIGEATO
+### CAPITULO IV. DISPOSICIONES COMUNES PARA LOS
 
-> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+DELITOS CONTRA EL HONOR
+
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
 ###### ARTICULO 167.
 
@@ -1353,9 +1403,9 @@ No servirá de excusa en la difamación o en la calumnia, que el hecho imputado 
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO I. ROBO
 
-> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 173.
 
@@ -1459,7 +1509,7 @@ II.-Si el valor de lo robado, excediere de cien veces el salario, con prisión d
 
 > <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
 
-ARTICULO 177 BIS.- Al que se apodere de mercancías u objetos que se transporten en vehículos que circulen por carreteras o caminos, o bienes que sean de propiedad o lleven consigo pasajeros que en ellos se transporten, se le impondrá de diez a veinte años de prisión y multa hasta de quinientas veces el salario mínimo. Cuando el robo se realice con violencia se aumentará un tercio del máximo de la pena de prisión establecida.
+ARTICULO 177 BIS. Al que se apodere de mercancías u objetos que se transporten en vehículos que circulen por carreteras o caminos, o bienes que sean de propiedad o lleven consigo pasajeros que en ellos se transporten, se le impondrá de diez a veinte años de prisión y multa hasta de quinientas veces el salario mínimo. Cuando el robo se realice con violencia se aumentará un tercio del máximo de la pena de prisión establecida.
 
 Al que sin tomar las medias indispensables para cerciorarse de su procedencia legítima, adquiera o comercie mercancía o bienes procedentes de robos realizados a vehículos que circulen en carreteras o caminos, se le impondrá de uno a cinco años de prisión y multa hasta de trescientas veces el salario mínimo.
 
@@ -1479,7 +1529,7 @@ Para la aplicación de las sanciones, se tendrá por consumado el robo aún cuan
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO IV. FRAUDE
+### CAPITULO II. ABIGEATO
 
 > <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1519,7 +1569,7 @@ V.-A los que expidan certificados falsos para obtener guías simulando ventas o 
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO V. ADMINISTRACION FRAUDULENTA
+### CAPITULO III. ABUSO DE CONFIANZA
 
 > <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1541,7 +1591,7 @@ El delito de abuso de confianza se perseguirá por querella del ofendido o de su
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO VI. EXTORSION
+### CAPITULO IV. FRAUDE
 
 > <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1561,7 +1611,7 @@ III.-Cuando el valor de la cosa excediere de quinientas veces el salario, la san
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO VII. USURA
+### CAPITULO V. ADMINISTRACION FRAUDULENTA
 
 > <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1573,7 +1623,7 @@ Cuando el monto del perjuicio que se cause sea superior a quinientas veces el sa
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO VIII. DESPOJO
+### CAPITULO VI. EXTORSION
 
 > <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1583,7 +1633,7 @@ Al que obligue a otro a hacer, tolerar o dejar de hacer algo contra sus propios 
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO IX. DAÑOS
+### CAPITULO VII. USURA
 
 > <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1593,7 +1643,7 @@ Al que aprovechándose de la necesidad apremiante, ignorancia o inexperiencia en
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO X. ENCUBRIMIENTO POR RECEPTACION
+### CAPITULO VIII. DESPOJO
 
 > <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1629,7 +1679,9 @@ Cuando el delito de despojo se cometa en el área rural, sin violencia, se trate
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO XI. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
+### CAPITULO IX. DAÑOS
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 194.
 
@@ -1649,11 +1701,9 @@ El delito de daños sólo se perseguirá a petición del legitimado para hacerlo
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO I. IMCUMPLIMIENTO DE LA OBLIGACION DE DAR ALIMENTOS Y
+### CAPITULO X. ENCUBRIMIENTO POR RECEPTACION
 
-ABANDONO DE FAMILIARES
-
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 197.
 
@@ -1669,9 +1719,7 @@ Se equipara al encubrimiento por receptación, el borrar, modificar o de cualqui
 
 > <small>(ADICIONADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES
-
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+### CAPITULO XI. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
 
 ###### ARTICULO 198.
 
@@ -1699,13 +1747,19 @@ Lo dispuesto en este artículo no procederá cuando el responsable sea reinciden
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO III. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL
+### CAPITULO I. IMCUMPLIMIENTO DE LA OBLIGACION DE DAR ALIMENTOS Y
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+ABANDONO DE FAMILIARES
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 201.
 
 Al que sin motivo justificado deje de cumplir con la obligación de dar alimentos a sus hijos, se le impondrán de uno a seis años de prisión, multa hasta de doscientas veces el salario mínimo y si el Juez lo estima conveniente, suspensión o privación de derechos de familia.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+Las anteriores sanciones se aumentarán hasta en tres años de prisión y multa hasta de cien veces el salario mínimo, cuando el deudor alimentario se coloque dolosamente en estado de insolvencia, con el objeto de eludir sus obligaciones de deudor alimentista conforme a la ley correspondiente.
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1731,15 +1785,15 @@ Para que el perdón concedido por el ofendido o por su representante legítimo, 
 
 No procederá el perdón, para quien habiendo sido perdonado anteriormente por la comisión de los delitos previstos en este Capítulo, vuelva a ser procesado por los mismos.
 
-### CAPITULO IV. BIGAMIA
+### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
-###### ARTICULO 206.
+###### ARTÍCULO 206.
 
-Al familiar de un menor de doce años de edad o de un incapacitado de comprender, o al que por instrucciones de aquél, lo sustraiga de la custodia o guarda de quien legítimamente la tenga, o bien lo retenga sin la voluntad de éste, se le impondrán de uno a seis años de prisión y multa hasta de cuarenta veces el salario mínimo.
+Al familiar de un menor de doce años de edad o de un incapacitado de comprender, o al que por instrucciones de aquél lo sustraiga de la custodia o guarda de quien la tenga de hecho o por derecho, o bien lo retenga sin la voluntad de éste, se le impondrán de uno a seis años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
-### CAPITULO V. MATRIMONIOS ILEGALES
+### CAPITULO III. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1755,17 +1809,17 @@ III.-Mediante ocultación, sustitución o exposición de un recién nacido, pret
 
 IV.-Usurpe el estado civil o la filiación de otro con el fin de adquirir derechos de familia que no le corresponden.
 
-### CAPITULO VI. INCESTO
+### CAPITULO IV. BIGAMIA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 208.
 
 Al que contrajere nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrán de seis meses a cinco años de prisión y multa hasta de ochenta veces el salario mínimo. Las mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio.
 
-### CAPITULO I. CONTRA EL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
+### CAPITULO V. MATRIMONIOS ILEGALES
 
-> <small>(REFORMADO, G.O. 26 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 209.
 
@@ -1773,9 +1827,9 @@ Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la exi
 
 Las mismas sanciones se impondrán al encargado del Registro Civil que teniendo conocimiento del impedimento, autorice la celebración del matrimonio.
 
-### CAPITULO II. ESTRAGOS
+### CAPITULO VI. INCESTO
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 210.
 
@@ -1793,9 +1847,9 @@ SEGURIDAD COLECTIVA
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 26 DE MAYO DE 1990)</small>
 
-### CAPITULO III. ASOCIACION DELICTUOSA
+### CAPITULO I. CONTRA EL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 26 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 211.
 
@@ -1805,11 +1859,7 @@ Las mismas sanciones se impondrán , al que sin contar con autorización de la a
 
 Este delito se perseguirá por querella de la autoridad estatal o municipal que sea competente para conocer del asunto en los términos de la Ley Estatal de Ecología y la Protección al Ambiente. La autoridad podrá otorgar el perdón judicial, cuando se acredite haber pagado la reparación del daño y las multas impuestas.
 
-### CAPITULO IV
-
-PROVOCACION A COMETER UN DELITO,
-
-APOLOGIA DE ESTE O DE ALGUN VICIO
+### CAPITULO II. ESTRAGOS
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1817,7 +1867,7 @@ APOLOGIA DE ESTE O DE ALGUN VICIO
 
 Al que mediante incendio, explosión, inundación o por cualquiera otra causa, creare un peligro común para los bienes o para las personas, se le impondrán prisión de uno a siete años y multa hasta de ciento cincuenta veces el salario mínimo.
 
-### CAPITULO I. DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE
+### CAPITULO III. ASOCIACION DELICTUOSA
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1825,9 +1875,13 @@ Al que mediante incendio, explosión, inundación o por cualquiera otra causa, c
 
 Al que de manera permanente formare parte de una asociación o banda de tres o más personas, destinada a delinquir, se le impondrán de uno a siete años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
-### CAPITULO II. VIOLACION DE CORRESPONDENCIA
+### CAPITULO IV
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+PROVOCACION A COMETER UN DELITO,
+
+APOLOGIA DE ESTE O DE ALGUN VICIO
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 214.
 
@@ -1837,9 +1891,9 @@ Al que provoque públicamente a cometer un delito o haga la apología de éste o
 
 DE TRANSPORTE Y DE LAS VIAS DE COMUNICACION
 
-### CAPITULO III. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
+### CAPITULO I. DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 215.
 
@@ -1863,7 +1917,7 @@ Al que ponga en movimiento un vehículo de motor o maquinaria similar y su despl
 
 Al que destruya, inutilice, quite o cambie un dispositivo o señal de seguridad de una vía de comunicación estatal, se le aplicarán las sanciones del artículo anterior.
 
-### CAPITULO I. FALSIFICACION DE SELLOS, LLAVES, MARCAS Y CONTRASEÑAS
+### CAPITULO II. VIOLACION DE CORRESPONDENCIA
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1879,7 +1933,7 @@ II.-Al que indebidamente intercepte una comunicación escrita que no le esté di
 
 No se impondrá sanción a los que ejerciendo la patria potestad o la tutela, abran o intercepten las comunicaciones escritas o dirigidas a sus hijos menores de edad o a las personas que se hallen bajo su tutela o guarda.
 
-### CAPITULO II. FALSIFICACION DE DOCUMENTOS
+### CAPITULO III. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1897,9 +1951,9 @@ Si este delito se comete por conductores de vehículos de transporte público de
 
 ## TITULO X. DELITOS DE FALSEDAD Y CONTRA LA FE PUBLICA
 
-### CAPITULO III. USO DE DOCUMENTO FALSO
+### CAPITULO I. FALSIFICACION DE SELLOS, LLAVES, MARCAS Y CONTRASEÑAS
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 222.
 
@@ -1913,9 +1967,9 @@ III.-Enajene o a sabiendas haga uso de llaves, sellos, contraseñas o marcas fal
 
 IV.-Al que procurándose los verdaderos sellos, contraseñas, marcas o estampillas haga uso indebido de ellos.
 
-### CAPITULO IV. USURPACION DE PROFESION
+### CAPITULO II. FALSIFICACION DE DOCUMENTOS
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 223.
 
@@ -1945,7 +1999,7 @@ IV.-Al médico que certifique falsamente que una persona tiene una enfermedad u 
 
 Cuando alguno de los delitos previstos en este Capítulo, sea ejecutado por un funcionario público, éste será sancionado además con privación del empleo o cargo.
 
-### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
+### CAPITULO III. USO DE DOCUMENTO FALSO
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1953,7 +2007,7 @@ Cuando alguno de los delitos previstos en este Capítulo, sea ejecutado por un f
 
 Al que a sabiendas hiciere uso de un documento falso o alterado, se le impondrán prisión de seis meses a cuatro años y multa hasta de cuarenta veces el salario mínimo.
 
-### CAPITULO II. CORRUPCION DE MENORES
+### CAPITULO IV. USURPACION DE PROFESION
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1963,7 +2017,7 @@ Al que ejerza actos propios de una profesión sin tener el título correspondien
 
 ## TITULO XI. DELITOS CONTRA LA MORAL PUBLICA
 
-### CAPITULO III. LENOCINIO
+### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1971,17 +2025,19 @@ Al que ejerza actos propios de una profesión sin tener el título correspondien
 
 Al que fabrique, publique, reproduzca, transporte o posea escritos, dibujos, grabados, pinturas, impresos, imágenes, anuncios, emblemas, fotografías, películas cinematográficas u otros objetos obscenos, con el fin de distribuirlos o exponerlos públicamente y, al que ejecute o haga ejecutar en público exhibiciones obscenas, se le aplicarán de seis meses a un año de prisión y multa hasta de cuarenta veces el salario mínimo.
 
-### CAPITULO I. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
+### CAPITULO II. CORRUPCION DE MENORES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
-###### ARTICULO 229.
+###### ARTÍCULO 229.
 
-Al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciséis años de edad, se le impondrán de seis meses a cinco años de prisión y multa hasta de ciento cincuenta veces el salario mínimo y se le inhabilitará para ser tutor o curador.
+Al que procure o facilite la corrupción de cualquier naturaleza de un menor de dieciséis años, se le impondrán de tres a ocho años de prisión y multa hasta de ciento cincuenta veces el salario mínimo vigente en la región geográfica donde y cuando se cometió el delito y se le inhabilitará para ser tutor o curador.
 
-###### ARTICULO 230.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
-Si el corruptor es ascendiente o ejerce autoridad sobre el menor, además de las sanciones señaladas en el artículo anterior, se le privará de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
+###### ARTÍCULO 230.
+
+Si el corruptor es ascendiente, tiene parentesco por consanguinidad, por afinidad o de carácter civil, o habite en el mismo domicilio de la víctima aun cuando no tengan parentesco, o ejerza autoridad sobre ésta, se duplicarán las sanciones señaladas en el artículo anterior. Además se le privará de todo derecho a los bienes del ofendido y de la patria potestad sobre sus propios descendientes.
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -1995,9 +2051,9 @@ Al que emplee menores de dieciséis años en cantinas o algún centro de vicio, 
 
 Al empleado que permita el acceso de menores de edad a salas en que se exhiban películas o se monten espectáculos clasificados de no aptos para aquéllos, se le sancionará con prisión de uno a seis meses y multa hasta de diez veces el salario mínimo.
 
-### CAPITULO II. DELITOS CONTRA EL RESPETO A LOS MUERTOS
+### CAPITULO III. LENOCINIO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 233.
 
@@ -2015,9 +2071,9 @@ En caso de que el explotado sea menor de edad, se aumentarán las sanciones prev
 
 ## TITULO XII. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPITULO I. CONSPIRACION
+### CAPITULO I. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 236.
 
@@ -2033,7 +2089,7 @@ III.-Al que exhume un cadáver sin observar los requisitos legales o con violaci
 
 IV.-Al que sustraiga o esparza las cenizas de un cadáver o restos humanos ilegalmente.
 
-### CAPITULO II. REBELION
+### CAPITULO II. DELITOS CONTRA EL RESPETO A LOS MUERTOS
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2049,17 +2105,17 @@ III.-Al que viole o vilipendie el lugar donde repose un cadáver, restos humanos
 
 ## TITULO XIII. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPITULO III. SEDICION
+### CAPITULO I. CONSPIRACION
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 238.
 
 Siempre que dos o más personas resuelvan de concierto, cometer alguno de los delitos de que tratan los capítulos II, III y IV de este Título, y acuerden los medios para producirlos, se les impondrán de uno a siete años de prisión, multa hasta de ochenta veces el salario mínimo y suspensión de sus derechos políticos hasta por tres años.
 
-### CAPITULO IV. MOTIN
+### CAPITULO II. REBELION
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 239.
 
@@ -2123,9 +2179,9 @@ Los rebeldes no serán responsables de los homicidios o de las lesiones inferida
 
 No se aplicará sanción a los rebeldes que depongan las armas antes de ser tomados prisioneros.
 
-### CAPITULO V. TERRORISMO
+### CAPITULO III. SEDICION
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 247.
 
@@ -2139,15 +2195,17 @@ III.-Abolir o reformar la Constitución Política del Estado o las instituciones
 
 IV.-Separar o impedir el desempeño de su cargo a algún funcionario público, estatal o municipal.
 
-### CAPITULO VI. SABOTAJE
+### CAPITULO IV. MOTIN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 248.
 
 A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimento de una Ley, se reúnan tumultuariamente y perturben el orden público, con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar alguna determinación, se les impondrán de seis meses a tres años de prisión, multa hasta de cuarenta veces el salario mínimo y suspensión de derechos políticos hasta por dos años.
 
-### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+### CAPITULO V. TERRORISMO
+
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 249.
 
@@ -2155,7 +2213,7 @@ Al que utilizando explosivos, substancias tóxicas, armas de fuego o por incendi
 
 Al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades, se le impondrán de uno a nueve años de prisión y multa hasta de ciento cincuenta veces el salario mínimo.
 
-### CAPITULO I. EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
+### CAPITULO VI. SABOTAJE
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2169,9 +2227,7 @@ II.-Elementos fundamentales de instituciones de docencia o investigación; o
 
 III.-Recursos esenciales que el Estado destine para el mantenimiento del orden público.
 
-### CAPITULO II. ABUSO DE AUTORIDAD O INCUMPLIMIENTO DEL DEBER LEGAL
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
 
 ###### ARTICULO 251.
 
@@ -2185,9 +2241,9 @@ La suspensión de derechos políticos, para efectos de los delitos de este Títu
 
 ## TITULO XIV. DELITOS CONTRA LA FUNCION PUBLICA
 
-### CAPITULO III. COALICION
+### CAPITULO I. EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 253.
 
@@ -2209,9 +2265,9 @@ III.-Que ejerza funciones públicas distintas de aquellas para las que fue desig
 
 IV.-Que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada y con perjuicio del servicio, si el abandono ocurre dentro de los treinta días posteriores a la presentación de la renuncia.
 
-### CAPITULO IV. COHECHO
+### CAPITULO II. ABUSO DE AUTORIDAD O INCUMPLIMIENTO DEL DEBER LEGAL
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 254.
 
@@ -2253,17 +2309,17 @@ VII.-Valiéndose de la información que posea por razón de su empleo, cargo o c
 
 VIII.-Intimide, torture o incomunique a un inculpado, para obligarlo a declarar.
 
-### CAPITULO V. PECULADO
+### CAPITULO III. COALICION
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 255.
 
 Se impondrán prisión de seis meses a 6 años y multa hasta de doscientas veces el salario mínimo, a los servidores públicos que se coaliguen para tomar medidas contrarias a una Ley, Reglamento o disposición de carácter general para impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la función pública, en cualquiera de sus niveles de gobierno.
 
-### CAPITULO VI. EXACCION ILEGAL
+### CAPITULO IV. COHECHO
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 256.
 
@@ -2277,7 +2333,7 @@ Cuando el dinero o dádivas de que se trate, sea inferior al equivalente de cien
 
 El dinero o dádivas entregadas, en su caso, se aplicarán en beneficio de la Asistencia Pública del Estado.
 
-### CAPITULO VII. INTIMIDACION
+### CAPITULO V. PECULADO
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2297,9 +2353,9 @@ I.-El servidor público que a título personal e indebidamente utilice fondos p�
 
 II.-Cualquier persona que sin tener el carácter del servidor público y estando obligado legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
-### CAPITULO VIII. TRAFICO DE INFLUENCIA
+### CAPITULO VI. EXACCION ILEGAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 258.
 
@@ -2309,7 +2365,7 @@ No se sancionarán a los servidores públicos municipales que, otorgando el comp
 
 > <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO IX. ENRIQUECIMIENTO ILICITO
+### CAPITULO VII. INTIMIDACION
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2327,9 +2383,9 @@ II.-Que con motivo de la querella, denuncia o información a que hace referencia
 
 > <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO X. USURPACION DE FUNCIONES
+### CAPITULO VIII. TRAFICO DE INFLUENCIA
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 260.
 
@@ -2345,9 +2401,9 @@ II.-Sin estar autorizado para ello y aprovechando el empleo, cargo o comisión q
 
 > <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO XI. VARIACION DE NOMBRE O DOMICILIO
+### CAPITULO IX. ENRIQUECIMIENTO ILICITO
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 261.
 
@@ -2361,7 +2417,7 @@ Se aplicará la misma sanción a quien haga figurar como suyos bienes que el ser
 
 Además de las sanciones establecidas en este artículo, se decomisarán en beneficio del Estado aquellos bienes, cuya procedencia no logre acreditarse de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPITULO XII. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPITULO X. USURPACION DE FUNCIONES
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2369,7 +2425,7 @@ Además de las sanciones establecidas en este artículo, se decomisarán en bene
 
 Se impondrán de seis meses a seis años y multa hasta de doscientas veces el salario mínimo, a quien indebidamente se atribuyere y ejerciere funciones públicas.
 
-### CAPITULO XIII. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO XI. VARIACION DE NOMBRE O DOMICILIO
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2379,7 +2435,7 @@ Se impondrán de seis meses a un año de prisión y multa hasta de veinte veces 
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO XIV. ULTRAJES A LA AUTORIDAD
+### CAPITULO XII. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2389,17 +2445,15 @@ Se impondrán de seis meses a un año de prisión y multa hasta de veinte veces 
 
 Se aplicarán de seis meses a dos años de prisión y multa hasta de cuarenta veces el salario mínimo, al que impida que la autoridad ejerza sus funciones o resista el cumplimiento de una orden legítima, cuya ejecución se lleve a cabo en forma legal. De emplearse violencia física o moral, la sanción se agravará hasta de un año.
 
-### CAPITULO XV. DISPOSICIONES COMUNES PARA LOS DELITOS
+### CAPITULO XIII. QUEBRANTAMIENTO DE SELLOS
 
-DE ESTE TITULO
-
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 265.
 
 Se aplicarán de seis meses a dos años de prisión y multa hasta de cuarenta veces el salario mínimo, al que quebrante los sellos puestos por orden de la autoridad competente.
 
-### CAPITULO I. FALSEDAD ANTE LA AUTORIDAD
+### CAPITULO XIV. ULTRAJES A LA AUTORIDAD
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2409,9 +2463,11 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta ve
 
 > <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO XV. DISPOSICIONES COMUNES PARA LOS DELITOS
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
+DE ESTE TITULO
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 267.
 
@@ -2423,7 +2479,7 @@ Se impondrán las mismas sanciones previstas para el delito de que se trate o cu
 
 ## TITULO XV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO III. FALSAS DENUNCIAS Y SIMULACION DE PRUEBAS
+### CAPITULO I. FALSEDAD ANTE LA AUTORIDAD
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2449,7 +2505,7 @@ Al que se retracte espontáneamente de sus falsas declaraciones rendidas ante la
 
 Las sanciones serán de dos a diez años de prisión y multa hasta de cien veces el salario mínimo para el testigo falso, cuando al imputado se le imponga sanción privativa de libertad no siendo responsable del delito por el que se le juzgó y, en el testimonio falso, se hubiese fundado principalmente la sentencia.
 
-### CAPITULO IV. EVASION DE PRESOS
+### CAPITULO II. FRAUDE PROCESAL
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2457,7 +2513,7 @@ Las sanciones serán de dos a diez años de prisión y multa hasta de cien veces
 
 Al que simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrá de seis meses a cinco años de prisión y multa hasta de cuarenta veces el salario mínimo.
 
-### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO III. FALSAS DENUNCIAS Y SIMULACION DE PRUEBAS
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2473,9 +2529,7 @@ No se procederá contra el delincuente sino después de que haya pronunciado sen
 
 Las disposiciones relativas al delito de calumnia son aplicables, en lo conducente, a la falsa denuncia o querella calumniosa que reglamenta este capítulo.
 
-### CAPITULO VI
-
-QUEBRANTO DE LA SANCION DE PRIVACION, SUSPENSION O INHABILITACION DE DERECHOS.
+### CAPITULO IV. EVASION DE PRESOS
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
@@ -2507,9 +2561,9 @@ Si la reaprehensión del evadido se lograre por gestiones del responsable de la 
 
 Al evadido no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas o en las cosas, en cuyo caso la sanción será de seis meses a tres años de prisión y multa hasta de veinte veces el salario mínimo.
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 281.
 
@@ -2525,27 +2579,19 @@ b).-El cónyuge, concubina o concubinario y parientes colaterales por consanguin
 
 c).-Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad.
 
-### CAPÍTULO VIII. PRESERVACION DEL LUGAR DE LOS HECHOS
+### CAPITULO VI
 
-> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+QUEBRANTO DE LA SANCION DE PRIVACION, SUSPENSION O INHABILITACION DE DERECHOS.
 
-ARTICULO 284 BIS. Al que altere, modifique, cambie, obstruya o destruya, mueva o manipule de cualquier forma los vestigios, huellas, objetos, instrumentos o cadáveres que se encuentren en el lugar de los hechos como resultado de la acción u omisión delictivas, se le impondrá de seis meses a tres años de prisión y multa hasta de cincuenta veces el salario mínimo.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 24 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 283.
 
 Al que quebrante una sanción de privación, suspensión o inhabilitación de derechos, se le impondrá hasta de ciento cincuenta veces el salario mínimo. En caso de reincidencia se duplicará la multa y se impondrá prisión de seis meses a dos años.
 
-### CAPÍTULO IX. DELITOS DE LOS SERVIDORES PUBLICOS
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
-> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
-
-ARTICULO 284 TER. Al servidor público que, por cualquier medio, facilite información sobre mandamientos expedidos por la autoridad judicial y ello tenga como consecuencia que se evada de la acción aquél contra el que vaya dirigido, se le impondrán de seis meses a tres años de prisión y multa hasta de cincuenta veces el salario mínimo, además será destituido de su empleo.
-
-Igual sanción se aplicará al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obren en la averiguación previa.
-
-> <small>(ADICIONADO CON LOS CAPITULO Y ARTICULOS QUE LO INTEGRAN, 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 284.
 
@@ -2563,21 +2609,31 @@ V.-Pida términos para probar lo que notoriamente no puede demostrar o no ha apr
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 24 DE ENERO DE 1998)</small>
 
-### CAPITULO I. FRACCIONAMIENTO INDEBIDO
+### CAPÍTULO VIII. PRESERVACION DEL LUGAR DE LOS HECHOS
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
 
-### CAPITULO II. VENTA O PROMESA DE VENTA INDEBIDA
+ARTICULO 284 BIS. Al que altere, modifique, cambie, obstruya o destruya, mueva o manipule de cualquier forma los vestigios, huellas, objetos, instrumentos o cadáveres que se encuentren en el lugar de los hechos como resultado de la acción u omisión delictivas, se le impondrá de seis meses a tres años de prisión y multa hasta de cincuenta veces el salario mínimo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 24 DE ENERO DE 1998)</small>
+
+### CAPÍTULO IX. DELITOS DE LOS SERVIDORES PUBLICOS
+
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 1998)</small>
+
+ARTICULO 284 TER. Al servidor público que, por cualquier medio, facilite información sobre mandamientos expedidos por la autoridad judicial y ello tenga como consecuencia que se evada de la acción aquél contra el que vaya dirigido, se le impondrán de seis meses a tres años de prisión y multa hasta de cincuenta veces el salario mínimo, además será destituido de su empleo.
+
+Igual sanción se aplicará al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obren en la averiguación previa.
+
+> <small>(ADICIONADO CON LOS CAPITULO Y ARTICULOS QUE LO INTEGRAN, 23 DE SEPTIEMBRE DE 1986)</small>
 
 ## TITULO XVI. DELITOS CONTRA EL DESARROLLO URBANO Y EL DERECHO A LA VIVIENDA
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+### CAPITULO I. FRACCIONAMIENTO INDEBIDO
 
-> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 285.
 
@@ -2585,9 +2641,9 @@ Se impondrá de tres a diez años de prisión y multa hasta de mil veces el sala
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO I. DE LOS DELITOS ELECTORALES
+### CAPITULO II. VENTA O PROMESA DE VENTA INDEBIDA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 286.
 
@@ -2603,9 +2659,9 @@ II.-Venda o prometa vender construcciones ubicadas en conjuntos habitacionales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-### CAPITULO II. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+### CAPITULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 287.
 
@@ -2616,6 +2672,10 @@ Estos delitos se perseguirán a querella del particular afectado o de la autorid
 ## TITULO XVII. DELITOS CONTRA LA FUNCION ELECTORAL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 4 DE ABRIL DE 1992)</small>
+
+### CAPITULO I. DE LOS DELITOS ELECTORALES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 288.
 
@@ -2781,6 +2841,10 @@ Se impondrá sanción de suspensión de sus derechos políticos hasta por seis a
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 4 DE ABRIL DE 1992)</small>
 
+### CAPITULO II. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 293.
 
 Para los efectos de este Título se entiende por:
@@ -2900,5 +2964,9 @@ PRIMERO.-El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO.-Se derogan las disposiciones que se opongan al presente.
 
 G.O. 24 DE ENERO DE 1998.
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 8 DE SEPTIEMBRE DE 1998.
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
