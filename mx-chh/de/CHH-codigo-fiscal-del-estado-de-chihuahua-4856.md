@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1983-09-14"
+last_updated: "1983-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -373,7 +373,9 @@ Cuando se omita la presentación de declaraciones para el pago de impuestos prop
 
 En los casos a que se refiere este precepto deberá garantizarse el interés fiscal, salvo que proceda dispensar la garantía.
 
-Durante los términos concedidos se causarán intereses hasta del 3% mensual, a juicio del Tesorero.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+Durante los términos concedidos se causarán intereses hasta de 3.5% mensual, a juicio del Tesorero.
 
 47.- Vencerán anticipadamente los términos y la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible:
 
@@ -397,9 +399,11 @@ Las autoridades, a solicitud del interesado expresada en el momento de hacer el 
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan dentro del término legal los recursos o medios de defensa o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; la tasa será a razón del 4.5% por cada mes o fracción que transcurra, a partir de la fecha de exigibilidad hasta que se efectúe el pago. En ningún caso los recargos excederán el importe del crédito fiscal omitido.
+50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; la tasa será de un 5.25% por cada mes o fracción que transcurra, a partir de la fecha de exigibilidad, hasta que se efectúe el pago. Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales y no excederán del 250% del monto de dicho crédito.
+
+Cuando el contribuyente pague en forma espontánea las contribuciones omitidas y los recargos, en los términos del artículo 87 fracción IX de este Código, dichos recargos no excederán del 100% del monto de las contribuciones.
 
 51.- El fisco estatal está obligado a devolver las cantidades que se le paguen indebidamente, conforme a las reglas que siguen:
 
@@ -977,89 +981,29 @@ b).- Al que viola, deteriore o destruya los sellos o marcas colocados con finali
 
 ### CAPITULO I. IMPUESTO PREDIAL
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 #### SECCION PRIMERA. OBJETO, SUJETO Y DOMICILIO
 
-100.- Es objeto de este impuesto:
+100.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-I.- La propiedad de predios urbanos;
+101.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-II.- La propiedad de predios rústicos o plantas de beneficio y establecimientos metalúrgicos;
+102.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-III.- La posesión de predios urbanos o rústicos o plantas de beneficio y establecimientos metalúrgicos en los casos siguientes:
-
-a).- Cuando no exista propietario, o existiendo el bien sea poseído a título de dueño por persona distinta;
-
-b).- Cuando los predios que se mencionan en el artículo 105 fracción I, se den en explotación por cualquier título a personas distintas de la Federación, Entidades Federativas o los Municipios;
-
-c).- Cuando exista desmembración de la propiedad, de manera que una persona tenga la nuda propiedad y otra el usufructo;
-
-IV.- Tratándose de predios rústicos el objeto del impuesto incluye además del valor de la tierra, las mejoras que se incorporen a la misma. Están exentas las construcciones que por propio destino se dediquen a fines agrícolas, ganaderos, forestales, etc., o industrialización de los productos del mismo predio, quedando gravadas las construcciones que se dediquen a fines distintos al anterior.
-
-101.- Son sujetos del Impuesto Predial:
-
-I.- Por deuda propia y con responsabilidad directa:
-
-a).- Los propietarios de predios urbanos, rústicos o plantas de beneficio y establecimiento metalúrgicos;
-
-b).- Los poseedores de predios urbanos, rústicos o plantas de beneficio y establecimientos metalúrgicos, en los casos a que se refiere la fracción III del artículo 100;
-
-c).- Los fideicomitentes, mientras el fiduciario no trasmita la propiedad del predio al fideicomisario o a otras personas, en cumplimiento del fideicomiso;
-
-d).- Los propietarios de predios que hubiesen prometido en venta o hubieren vendido con reserva de dominio, mientras estos contratos estén en vigor y no se traslade el dominio del predio;
-
-II.- Por deuda ajena y responsabilidad objetiva, los adquirentes, por cualquier título, de predios urbanos, rústicos o plantas de beneficio y establecimientos metalúrgicos así como el fiduciario mientras no trasmita la propiedad en cumplimiento del fideicomiso.
-
-102.- Los sujetos del impuesto estarán obligados a manifestar a la Tesorería General del Estado los cambios de su domicilio, dentro de los quince días siguientes a aquél en que lo verificaren.
-
-Si no lo hicieren se tendrá como domicilio, para los efectos de este Capítulo, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION SEGUNDA. BASE
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+103.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-103.- El valor catastral es el valor real del predio y se determinará:
+104.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-I.- Por declaración del causante sujeta a aprobación por la Tesorería General del Estado;
-
-II.- Por avalúos practicados por la Tesorería General del Estado, en los casos previstos por este Capítulo y disposiciones relativas.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-104.- La base del impuesto será el valor catastral:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-I.- Tratándose de predios urbanos, el impuesto se causará conforme a las tasas de la siguiente
-
-TARIFA:
-
-VALOR CATASTRAL TASA ANUAL
-
-Hasta 14,500.00 Exento
-
-" 50,000.00 7.5 al millar
-
-" 100,000.00 8.0 al millar
-
-" 250,000.00 9.0 al millar
-
-" 500,000.00 10.5 al millar
-
-" 1´000,000.00 12.5 al millar
-
-más de 1´000,000.00 15.0 al millar
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 1982)</small>
-
-II.- Tratándose de predios rústicos se aplicará una cuota de 6.25 al millar anual sobre el valor catastral.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
-
-III.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, la base del impuesto será el valor catastral, conforme al avalúo que practique la Tesorería General del Estado, aplicándose una cuota de 7.5 al millar anual sobre el valor catastral.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO II. IMPUESTO SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
@@ -1211,99 +1155,27 @@ El correspondiente a años anteriores, se comprobará con las copias de las mani
 
 #### SECCION TERCERA. EXENCIONES
 
-105.- Están exentos del pago de este impuesto:
+105.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-I.- Los bienes propiedad de la Federación, del Estado y de los Municipios;
+106.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-II.- Los bienes destinados a servicios públicos, previa comprobación de que no son motivo del lucro;
+107.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-III.- Los predios que se destinen exclusiva y gratuitamente a fines de beneficencia o de educación, ya sea que estos fines se cumplan directamente por el propietario del predio o por terceros.
-
-Esta exención se concederá si se prueba:
-
-1o.- Que dichos fines fueron autorizados por el Estado;
-
-2o.- Que los propietarios de los predios, en su caso, cedieron el uso de éstos a título gratuito;
-
-3o.- Que los servicios de beneficencia se prestan gratuitamente y en cuanto a los de educación que son gratuitos o bien cobrándose por ellos la Institución que los presta no persigue fines de lucro demostrando que opera sin utilidades y en todo caso que admiten cuando menos un 10% de sus alumnos gratuitamente;
-
-IV.- Los predios y edificios en que se encuentran establecidos consulados, cuando sean propiedad de sus respectivos gobiernos y siempre que exista reciprocidad de trato fiscal con nuestro país;
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-V.- Los inmuebles que los derechohabientes de la Dirección de Pensiones Civiles del Estado adquieran o construyan por conducto de dicha Institución en los términos de la Ley de la materia, sobre las bases siguientes:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-a).- Se concederá por una sola vez a cada beneficiario. Cada casa será objeto de la exención por una sola vez;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
-
-b).- La exención queda sin efecto aún cuando no haya transcurrido el lapso de la misma si se dá alguna de las circunstancias que la Ley de Pensiones Civiles establece para el vencimiento anticipado del acto jurídico que le dió origen, sin que por situación posterior tenga derecho nuevamente a la exención. Se considera vencimiento anticipado el hecho de que el beneficiario cubra el total de su adeudo antes del plazo que le haya concedido para tal efecto;
-
-c).- El acuerdo de exención queda sin efecto de pleno derecho en el momento en que el derechohabiente realice cualquiera de los actos de vencimiento anticipado, haciéndose exigible el crédito fiscal y sus accesorios por concepto de este impuesto desde la fecha en que se haya dado la circunstancia que motivó la cancelación de la exención;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
-
-d).- La exención sólo opera cuando los inmuebles adquiridos o construídos tengan un valor igual al del préstamo otorgado por la Dirección de Pensiones Civiles del Estado o por su conducto; la exención será por un término igual al del préstamo concedido.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-VI.- Los predios pertenecientes a Instituciones descentralizadas, estatales y Municipales;
-
-VII.- Los predios que sean propiedad de la Universidad Autónoma de Chihuahua y del Instituto Tecnológico Regional de Chihuahua;
-
-VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1975)
-
-IX.- Los predios construidos o en que se construyan habitaciones tipo vivienda popular, en la forma y términos de las disposiciones legales respectivas;
-
-X.- Los terrenos destinados a cementerios, exclusivamente por la parte que ya hubiere sido afectada para ese fin;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-XI.- Los predios y edificios se destinan exclusivamente a fines deportivos, si se demuestra lo siguiente:
-
-1o.- Que los propietarios de los predios o fincas cedieron el uso de éstos a título gratuito.
-
-2o.- Que los usuarios no persigan fines de lucro.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-3o.- Que los ingresos que obtengan se destinen exclusivamente al mantenimiento de dichos predios y edificios y a la realización de sus finalidades deportivas.
-
-106.- Las exenciones se solicitarán por escrito a la Tesorería General del Estado, debiéndose acompañar todas las pruebas que demuestren su procedencia o, en su caso, ofrecer dichas pruebas.
-
-La vigencia de las exenciones que se concedan de acuerdo con lo dispuesto por este Código, se iniciará a partir del bimestre siguiente a la fecha en que se resuelva la solicitud correspondiente.
-
-107.- Los beneficiarios de las exenciones deberán manifestar a la Tesorería General del Estado cualquier modificación de los requisitos en que se hubieren fundado dichas franquicias. En este caso la autoridad competente dictará resolución modificando o nulificando la exención a partir del momento en que hubiere desaparecido total o parcialmente el fundamento de la misma y ordenará, si así procede, el cobro de los impuestos cuyo pago se hubiese omitido, así como los recargos, multas y accesorios que corresponda.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION CUARTA. PAGO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+108.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-108.- El impuesto se pagará dentro del bimestre correspondiente. Deberá enterarse en las oficinas recaudadoras de rentas de la demarcación en que se ubica el inmueble.
+109.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-Para los efectos de este artículo, el año se entiende dividido en seis bimestres: enero-febrero, marzo-abril, mayo-junio, julio-agosto, septiembre-octubre y noviembre-diciembre.
+110.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
-
-109.- En el caso de terrenos no empadronados o construcciones no manifestadas ante la Tesorería General del Estado por causa imputable al sujeto del impuesto, se harán efectivos cinco años de impuestos anteriores a la fecha del descubrimiento de la omisión, aplicándose las sanciones correspondientes, salvo que el interesado compruebe que el lapso es menor.
-
-110.- Toda estipulación privada relativa al pago del impuesto que se oponga a lo dispuesto en el presente Capítulo, se tendrá como inexistente y por lo tanto, para los efectos fiscales, no producirá efecto legal alguno.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION QUINTA. AVALUOS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-111.- La valuación catastral de los predios será practicada en la forma y términos que señale este capítulo y los reglamentos e instructivos correspondientes. Este valor se fijará cada dos años, de acuerdo con los valores unitarios de tierra y de construcción que la propia Tesorería apruebe para regir en el ejercicio fiscal correspondiente.
-
-Para la actualización bienal de los valores catastrales de predios ya valuados, que no hayan sufrido modificación, no se requerirá valuación de los peritos valuadores de la Tesorería, pues bastará fijar los nuevos valores unitarios que menciona el párrafo anterior. Las notificaciones de los valores catastrales en estos casos, podrán hacerse mediante dos publicaciones en el Periódico Oficial del Estado y dos más en los periódicos de mayor circulación en el lugar en que se encuentre ubicado el predio y en su defecto, en los de la Ciudad de Chihuahua.
-
-En los casos de reavalúos a que se refiere la Sección de Catastro, el nuevo valor entrará en vigor a partir del bimestre siguiente a la fecha del traslado de dominio, de la terminación de nuevas construcciones, de las ampliaciones de las construcciones ya existentes o de la notificación del avalúo en los demás casos, con excepción de lo relativo a avalúos provisionales.
-
-(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983) (F. DE E., P.O. 9 DE NOVIEMBRE DE 1983)
-
-En poblaciones de más de 50,000 habitantes, tratándose de predios no edificados o cuya construcción tenga un valor inferior a la tercera parte del valor del terreno, el valor catastral será de un tanto más al que correspondería si estuviese edificado, salvo que se trate de propietarios o poseedores de un solo terreno con extensión hasta de 500 metros cuadrados.
+111.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 ### CAPITULO IV. IMPUESTO SOBRE NOMINAS
 
@@ -1713,167 +1585,51 @@ X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u
 
 A la manifestación anterior deberá adjuntarse plano catastral, permiso de construcción de la Dirección de Obras Públicas Municipales y copia del aviso de terminación de obra presentado ante el Instituto Mexicano del Seguro Social.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION PRIMERA. OBJETO, SUJETO, BASE Y TASA
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+132.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-132.- Es objeto del impuesto que establece este capítulo la adquisición del dominio de bienes inmuebles ubicados en el Estado.
+133.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+134.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-133.- Son sujetos de este impuesto las personas físicas o morales que adquieran inmuebles ubicados en el Estado, así como los derechos relacionados con los mismos, a que se refiere el artículo siguiente.
+135.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+136.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-134.- Para los efectos de este impuesto, se entiende por adquisición la que derive de:
+137.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación, la herencia y la aportación a toda clase de asociaciones o sociedades.
-
-II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
-
-III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él antes de que se celebre el contrato prometido.
-
-IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente.
-
-V.- Fusión de sociedades.
-
-VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
-
-VII.- Constitución del usufructo, trasmisión de éste o de la nuda propiedad así como la extinción del usufructo temporal.
-
-VIII.- Prescripción positiva.
-
-IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
-
-X.- Enajenación a través de fideicomiso, en los términos de la fracción III del artículo 138.
-
-Tratándose de permutas se observará lo dispuesto en la fracción III del artículo siguiente.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-135.- Será base gravable del impuesto:
-
-I.- El valor del inmueble cuyo dominio se adquiere y que se determine por medio del avalúo que practique la Tesorería General del Estado o una institución de crédito si aquélla así lo dispone.
-
-Los interesados podrán inconformarse ante la Recaudación de Rentas respectiva, dentro de los diez días siguientes a la notificación, con el resultado del peritaje, pudiendo aportar las pruebas que estimen procedentes para que se emita nuevo dictamen, que tendrá el carácter de definitivo.
-
-II.- El valor catastral o el precio del inmueble señalado en el acto de adquisición, si son mayores al del avalúo a que se refiere la fracción anterior.
-
-III.- En las permutas, la base del impuesto será el valor más alto entre los que correspondan a loe bienes permutados.
-
-IV.- Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor total de la propiedad.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
-
-136.- La base gravable se reducirá con la cantidad que resulte de multiplicar por cinco el salario mínimo general elevado al año, de la zona económica en que se encuentre ubicado el inmueble.
-
-Tratándose exclusivamente de casa habitación la reducción se incrementará en un 50%.
-
-Cuando del inmueble formen parte construcciones distintas a la casa habitación, la reducción se hará proporcionalmente conforme a los factores previstos en este artículo, salvo que la parte relativa a casa habitación tenga un valor inferior a la mitad del valor total del inmueble, en cuyo caso sólo se tendrá derecho a la prevista en el primer párrafo.
-
-Cuando del inmueble formen parte departamentos habitacionales, la reducción será por cada uno de ellos, siempre que los adquieran personas distintas. Lo dispuesto en este párrafo no es aplicable a hoteles.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-137.- La tasa del impuesto es del 10% sobre la base gravable determinada conforme a los artículos anteriores, sin que en ningún caso pueda incrementarse con impuestos adicionales o contribuciones especiales.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION SEGUNDA. PAGO DEL IMPUESTO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+138.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-138.- El pago del impuesto deberá hacerse dentro del mes siguiente a aquél en que se realice cualquiera de los supuestos que a continuación se señalan:
+139.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+140.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-II.- A la adquisición de los bienes de la sucesión o a los 3 años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiere llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación independientemente del que se cause por el cesionario o por el adquirente.
+141.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-III.- Tratándose de adquisiciones efectuadas a través de fideicomisos:
+142.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-a).- Si en el acto de la constitución del fideicomiso se designa fideicomisario diverso del fideicomitente y siempre que éste no tenga derecho a readquirir del fiduciario los bienes.
+143.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-b).- Cuando el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si al constituírse el fideicomiso se hubiere establecido tal derecho.
+144.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-c).- Al designarse fideicomisario, si éste no se designó al constituírse el fideicomiso, siempre que dicha designación no recaiga en el propio fideicomitente.
+145.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-d).- Cuando el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que trasmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o dar dichas instrucciones.
-
-e).- En el acto en el que el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se trasmitan a su favor.
-
-IV.- Cuando se notifique al interesado la sentencia definitiva en que se declare que ha adquirido por prescripción.
-
-V.- Cuando la adquisición deba constar en escritura pública, se estará al plazo más amplio que resulte de aplicar este precepto o lo dispuesto en el artículo 82 de este Código.
-
-El contribuyente podrá pagar el impuesto por anticipado.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-139.- En las adquisiciones que se hagan constar en escritura pública, los notarios y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda a su domicilio. En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda a su domicilio fiscal. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto a enterar.
-
-Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado aquel y acompañen copia del comprobante de pago.
-
-El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
-
-Cuando por el avalúo practicado, ordenado o tomado en consideración por la Tesorería General del Estado, resulte liquidación de diferencia de impuesto, los fedatarios no serán responsables solidarios por las mismas.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-140.- La declaración a que se refiere el primer párrafo del artículo anterior, la efectuarán los notarios en las formas que al efecto autorice expresamente la Tesorería. A la declaración se acompañará plano del inmueble objeto de la operación.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-141.- Cuando no se efectúe el pago dentro de los términos fijados en el artículo 138, los notarios, en los casos en que los actos de adquisición se hagan constar en escritura pública, podrán revalidar ésta siempre y cuando se paguen el impuesto omitido y las sanciones. El término para la revalidación no podrá exceder de seis meses contados a partir de la fecha del otorgamiento.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-142.- Los actos por virtud de los cuales se adquiera el dominio, celebrados en la República pero fuera del Estado, con relación a inmuebles ubicados en el territorio de éste, causarán el impuesto a que este Capítulo se refiere conforme a las disposiciones del mismo, exceptuando lo relativo al plazo para el pago que será de 75 días hábiles contados a partir de la fecha de la autorización definitiva de la escritura o de la fecha del contrato privado.
-
-Cuando la adquisición se opere por virtud de resoluciones de autoridades de la República pero de fuera del Estado, el pago se hará dentro del plazo que señala el párrafo anterior, contado a partir de la fecha en que haya causado ejecutoria la resolución respectiva.
-
-Cuando se trate de actos de adquisición otorgados o celebrados fuera del territorio de la República, o de resoluciones dictadas por autoridades extranjeras, por virtud de las cuáles se adquiera el dominio de bienes inmuebles ubicados en el territorio del Estado de Chihuahua, el pago del impuesto deberá hacerse dentro del término de 90 días hábiles contados a partir de la fecha en que surtan efectos legales en la República los citados actos o resoluciones.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-143.- Los plazos que establecen los artículos anteriores se interrumpirán únicamente por consulta formulada por escrito a la Tesorería General cuando exista duda sobre la procedencia del impuesto, o por inconformidad con el avalúo practicado. Los plazos continuarán corriendo a partir de la fecha en que se notifique al causante la resolución.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
-
-144.- Para efectuar la reducción a que se refiere el artículo 136, se considerará el salario mínimo general vigente en la fecha en que se efectúe la adquisición. Tratándose de adquisiciones que consten en escritura pública se estará a la fecha de la misma.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-145.- La reducción a que se refiere el artículo 136, se realizará conforme a lo siguiente:
-
-I.- Se considerarán como un solo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la adquisición colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto de la reducción y pagará en su caso, las diferencias de impuesto que correspondan. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
-
-II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el artículo 134, la reducción se hará en la proporción que corresponda a dicha parte.
-
-III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-IV.- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aún cuando se utilicen para otros fines.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. EXENCIONES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+146.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-146.- Están exentas del pago de este impuesto:
+147.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-I.- Las adquisiciones que hagan las instituciones de asistencia o de beneficiencia (sic), autorizadas por las leyes de la materia; instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares que funcionen con autorización o reconocimiento de validez oficial de estudios en los términos de las Leyes Federal de Educación y Estatales de la materia, si los bienes van a ser destinados exclusivamente a los fines educativos o asistenciales propios de las instituciones aludidas.
-
-II.- Las adquisiciones que se realicen al constituirse o disolverse la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales. No queda incluída en esta fracción la trasmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
-
-III.- Las adquisiciones por los Partidos y Asociaciones Políticas para su propio uso.
-
-IV.- Las adquisiciones realizadas por los organismos descentralizados del Estado y Municipios, por el Instituto del Fondo Nacional para la Vivienda de los Trabajadores, por el Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular, por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, por el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y por el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
-
-147.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
-
-148.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+148.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 21 DE OCTUBRE DE 1978.
 
@@ -4149,6 +3905,8 @@ Interpuesto en tiempo el recurso el Tribunal suspenderá la ejecución del auto 
 
 ### CAPITULO UNICO. FOMENTO A LA VIVIENDA
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 #### SECCION OCTAVA. AUDIENCIA Y FALLO
 
 428.- En el mismo auto en que se dé entrada a la demanda se citará para la audiencia del juicio, que deberá celebrarse dentro de un término que no excederá de un mes.
@@ -4323,141 +4081,51 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 480.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-481.- Se declara de interés público la construcción de viviendas populares destinadas a la habitación de personas.
+481.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-482.- Se considerarán viviendas populares las casas y apartamientos (sic) cuyo valor no exceda de los límites fijados en este Capítulo.
+482.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-483.- Se harán acreedores a las franquicias:
+483.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-I.- Las empresas que construyan viviendas para el uso exclusivo de sus trabajadores, siempre que el precio del arrendamiento no exceda del 10% del salario mensual del trabajador que las ocupe;
+484.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-II.- Las personas físicas que construyan o adquieran viviendas destinadas a su propia habitación, cuyo valor no exceda de los límites señalados en el artículo siguiente, y siempre que el interesado o su familia carezcan de otras fincas urbanas. En el caso de adquisición será indispensable que la vivienda esté recién construida y no haya sido habitada por persona distinta al peticionario;
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-III.- El Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-IV.- Los derechohabientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores con financiamiento de dicha Institución.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-484.- Para los efectos de este capítulo las viviendas populares se clasifican como sigue:
-
-I.- De precio mínimo, aquellas cuyo valor no exceda de $150,000.00.
-
-II.- De precio bajo, aquellas cuyo valor no exceda de $250,000.00
-
-III.- De precio medio, aquellas cuyo valor no exceda de $300,000.00.
-
-Los valores anteriormente citados, incluyen el costo del terreno donde se edifique la habitación.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION SEGUNDA. EXENCIONES
 
-485.- A los sujetos que señala el artículo 483, se les otorgarán franquicias sobre todas o algunas de las siguientes contribuciones:
+485.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-I.- Impuesto Predial;
+486.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
+487.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+488.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-III.- Impuesto sobre Actos Jurídicos;
+489.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-IV.- Derechos por inscripción en el Registro Público de la Propiedad.
-
-486.- Las empresas que construyan viviendas para el uso exclusivo de sus trabajadores, disfrutarán de las siguientes franquicias:
-
-I.- Exención del 50% del Impuesto Predial, por un término de cinco años;
-
-II.- Exención del 50% de los derechos que cause en el Registro Público de la Propiedad, la inscripción de los inmuebles que se destinen a los fines indicados.
-
-La vigencia de estas franquicias quedará sujeta a la comprobación de que los usuarios de las viviendas son trabajadores de la empresa y del monto de la renta autorizada como máximo. Si no se acreditaren estos extremos, el fisco hará efectivas las contribuciones de que se había eximido.
-
-487.- Las personas físicas que construyan o adquieran viviendas para su propia habitación, gozarán de las siguientes franquicias:
-
-I.- Exención por cinco años del Impuesto Predial en la siguiente forma:
-
-a).- Por el 75% si el valor de la vivienda es mínimo;
-
-b).- Por el 65% si valor de la vivienda es bajo;
-
-c).- Por el 50% si el valor de la vivienda es medio.
-
-II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-III.- Exención total del Impuesto sobre Actos Jurídicos;
-
-IV.- Exención del 50% de los derechos por inscripción en el Registro Público de la Propiedad.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-488.- El Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular disfrutará de las siguientes exenciones:
-
-I.- Exención del 75% del Impuesto Predial, respecto de los terrenos o construcciones que formen parte de su patrimonio y estén dedicados al fín para el que fué creado;
-
-II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-III.- 75% de los derechos de inscripción en el Registro Público de la Propiedad, en relación a operaciones efectuadas con inmuebles que se destinen a los citados fines.
-
-489.- La Dirección de Pensiones Civiles del Estado y sus derechohabientes disfrutarán de las franquicias que señala su Ley Especial.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. PROCEDIMIENTO
 
-490.- Las personas físicas que deseen acogerse a las franquicias establecidas en este capítulo, deberán solicitarlo dentro de un plazo máximo de tres meses siguientes a la fecha de terminación de la construcción o de la compra, comprobando directamente ante la Tesorería General del Estado los requisitos que menciona la fracción II del artículo 483.
+490.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-Para determinar el costo real de construcción, se atenderá a los valores comerciales vigentes en el momento en que se presente el aviso dando de alta la nueva edificación. El Departamento de Catastro realizará el avalúo relativo y la Tesorería General del Estado dictaminará en definitiva.
+491.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+492.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-491.- Los sujetos a que se refieren las fracciones I y III del artículo 483, deberán presentar ante la Tesorería General del Estado una solicitud, por triplicado, que contenga los siguientes datos:
+493.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-I.- Nombre del solicitante o razón social, así como su domicilio;
+494.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-II.- Localización y descripción de los terrenos donde se proyecta edificar las viviendas;
+495.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-III.- Programas generales de trabajo y monto del capital que se pretende invertir;
+496.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-IV.- Plazos en que se iniciarán y terminarán las viviendas;
-
-V.- Precios en que se proyecta vender o dar en arrendamiento las viviendas;
-
-VI.- Declaración, bajo protesta de decir verdad, en el sentido de que las casas que se construyan para su venta o arrendamiento, en ningún caso excederán en su valor de los límites máximos establecidos por este ordenamiento y que, en su caso, las rentas no excederán del monto establecido en la fracción I del artículo 483.
-
-492.- A la solicitud a que se refiere el artículo anterior, deberá acompañarse, por triplicado, la siguiente documentación:
-
-I.- Si el solicitante es persona moral, copia certificada de la escritura constitutiva de la sociedad debidamente registrada o el proyecto definitivo de los estatutos sociales en su caso.
-
-II.- Proyectos, presupuestos y planos de las viviendas que se pretenden edificar, debidamente aprobados por las autoridades correspondientes.
-
-III.- Constancia de las autoridades competentes autorizando, en su caso, el fraccionamiento.
-
-IV.- Una relación de los empleados y obreros que prestan sus servicios de la empresa, señalando el importe de los salarios mensuales que se les paga.
-
-493.- Para comprobar el precio del arrendamiento, los peticionarios presentarán ante la Tesorería General del Estado copia auténtica de los contratos relativos, dentro de los quince días siguientes a la fecha de celebración de los mismos.
-
-Si se llegare a comprobar que en los contratos existe simulación y que el precio del arrendamiento es superior a los límites legales, se cancelará la franquicia y se impondrá al causante una sanción de hasta tres tantos del impuesto o derecho de que se había eximido.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-494.- La Tesorería General del Estado tramitará de inmediato las solicitudes que se presenten, pero no rendirá su dictamen hasta el momento en que los solicitantes proporcionen todos los datos, documentos e informes que les sean pedidos, dentro de los plazos que al efecto se fijen. El plazo puede ser prorrogado a solicitud del interesado y por causas que lo justifiquen.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-495.- Los términos para disfrutar de las franquicias principiarán a contarse a partir del día en que se firme el acuerdo por el Gobernador del Estado o por el Tesorero General.
-
-496.- Si en cualquier momento se comprobare que los beneficiarios de las franquicias establecidas por este Capítulo, han dejado de cumplir con alguno de los requisitos que el mismo previene como condición para el otorgamiento y subsistencia de aquellas, la Tesorería General del Estado hará efectivos todos los impuestos y derechos omitidos, imponiéndose además al causante una sanción que en ningún caso será inferior a otro tanto de la tributación cuya exención se concedió.
-
-497.- Se prohíbe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
+497.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 ## TRANSITORIOS.
 
@@ -4618,3 +4286,25 @@ ARTICULO TRANSITORIO.- La presente Ley entrará en vigor el día 1o. de Enero de
 P.O. 14 DE SEPTIEMBRE DE 1983.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+DECRETO No. 91-83
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+DECRETO No. 93-83
+
+###### ARTICULO PRIMERO.
+
+En tanto no opere la prescripción, los registradores públicos, notarios públicos y demás fedatarios tendrán la obligación de seguir cumpliendo con los requisitos de comprobación del pago correcto de los impuestos predial y sobre traslación de dominio de bienes inmuebles, en los términos de los artículos 82 y 83 del Código Fiscal del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las autoridades judiciales, los encargados de los Registros Públicos de la Propiedad y los Ayuntamientos están obligados a dar aviso escrito de toda resolución o acto en que intervengan, mediante el cual cambien los titulares de los derechos de la propiedad o posesión; del mismo modo, comunicarán al Departamento de Catastro toda construcción, ampliación o modificación respecto de inmuebles ubicados en sus respectivas jurisdicciones, dentro de los quince días siguientes a la realización del evento.
+
+###### ARTICULO TERCERO.
+
+Publíquese en el Periódico Oficial del Estado y entrará en vigor el primero de enero de mil novecientos ochenta y cuatro.
