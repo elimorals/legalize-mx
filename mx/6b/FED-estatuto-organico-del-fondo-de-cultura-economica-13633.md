@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-fondo-de-cultura-economica-13633"
 country: "mx"
 rank: "estatuto"
 publication_date: "1995-10-06"
-last_updated: "1995-10-06"
+last_updated: "1998-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13633&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-09-13"
 
 ESTATUTO ORGANICO DEL FONDO DE CULTURA ECONOMICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 1998.
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 6 de octubre de 1995.
 
@@ -125,7 +125,11 @@ IV. Gerencias:
 
 4. Administrativa y Financiera;
 
-5. De Sistemas.
+5. De Sistemas;
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1998)</small>
+
+6. De obras para Niños y Jóvenes.
 
 V. Coordinaciones Generales:
 
@@ -151,7 +155,9 @@ VII. Comisiones y Comités Internos:
 
 4. Comité Interno de Adquisiciones, Arrendamientos y Servicios, y Obra Pública;
 
-5. Comité Interno de Desincorporación de Bienes Muebles;
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1999)</small>
+
+5. Comité de Enajenación de Bienes Muebles.
 
 6. Comité de Control y Auditoría.
 
@@ -373,6 +379,18 @@ V. Someter a la autorización del Director General la reimpresión de las obras 
 
 VI. Colaborar en la publicación de los catálogos de obras publicadas por el Fondo de Cultura Económica, manteniéndolos actualizados y organizando su distribución.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1998)</small>
+
+De las facultades y obligaciones señaladas para la Gerencia Editorial, se excluyen las relacionadas con obras para Niños y Jóvenes, que se asignan a la gerencia correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1998)</small>
+
+Artículo 20 BIS. La Gerencia de Obras para Niños y Jóvenes tendrá las facultades y obligaciones que se señalan en el artículo anterior en lo referente a su especialidad editorial y, adicionalmente, las siguientes:
+
+I. Elaborar los programas de promoción lectora y participar en la elaboración de los programas de ventas, promoción y difusión de obras para niños y jóvenes.
+
+II. Proponer políticas para fijación de precios de obras para niños y jóvenes.
+
 ###### Artículo 21.
 
 La Gerencia de Producción Industrial tiene las siguientes facultades y obligaciones:
@@ -537,37 +555,25 @@ La Junta Directiva y la Dirección General deberán proporcionar oportunamente a
 
 El Fondo de Cultura Económica tendrá un Organo de Control Interno, que será parte integrante de su estructura, el cual tendrá por objeto apoyar la función directiva y promover el mejoramiento de gestión del Organismo.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 32.
 
-Al frente del Organo de Control Interno habrá un Contralor, quien será auxiliado por el personal que las necesidades del servicio requieran y cuyos puestos figuren en la estructura y el presupuesto del Organismo.
+El titular del Organo de Control Interno será el Contralor Interno designado con fundamento en lo establecido por el artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, la cual para el debido ejercicio de sus atribuciones, se auxiliará por los titulares de las áreas de Responsabilidades, así como de Auditoría y Quejas.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 33.
 
-El Contralor Interno deberá reunir los requisitos que para el desempeño de este cargo recomiende la Secretaría de Contraloría y Desarrollo Administrativo y no tener ninguno de los impedimentos que para ser miembro del órgano de gobierno señalan las fracciones II, III, IV y V del Artículo 19 de la Ley Federal de las Entidades Paraestatales.
+Los servidores públicos a que hace referencia el artículo anterior del presente Estatuto, ejercerán las funciones establecidas en la Ley Orgánica de la Administración Pública Federal, la Ley de Responsabilidades de los Servidores Públicos, y demás legislación jurídica y ordenamientos de carácter administrativo que resulten aplicables, conforme a lo dispuesto por el artículo 26 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 34.
 
-El Contralor Interno, de conformidad con los lineamientos y bases del Artículo 62 de la Ley Federal de Entidades Paraestatales y 34 del Reglamento correspondiente, tendrá las siguientes facultades y obligaciones:
+El Fondo de Cultura Económica proporcionará al Contralor Interno y a los Titulares de las áreas mencionadas en el artículo 32 del presente Estatuto Orgánico, los recursos humanos y de carácter material que sean necesarios para el cumplimiento de los asuntos que tienen conferidos.
 
-I. Organizar, instrumentar y coordinar el Sistema de Control y Evaluación del Fondo de Cultura Económica, que permita apoyar al Director General para vigilar que las disposiciones legales, políticas, programas, presupuestos, normas, lineamientos, procedimientos y demás instrumentos de control y evaluación se apliquen y utilicen eficiente y eficazmente por sus gerencias, coordinaciones generales, órganos colegiados, empresas subsidiarias nacionales y extranjeras, delegaciones, y representaciones nacionales y extranjeras;
-
-II. Vigilar y comprobar el cumplimiento en el Fondo de Cultura Económica de las obligaciones, normas y lineamientos en materia de programación, presupuestación, información, estadística, contabilidad, organización y procedimientos, ingresos, financiamiento, inversión y administración de recursos humanos, materiales y financieros, patrimonio, y fondos y valores de la propiedad o al cuidado del Organismo;
-
-III. Proponer al Director General, de conformidad con las normas y lineamientos expedidos por la Secretaría de Contraloría y Desarrollo Administrativo y por la Secretaría de Hacienda y Crédito Público, el establecimiento o la modificación de la estructura orgánica del Fondo de Cultura Económica y de las subsidiarias nacionales y extranjeras;
-
-IV. Proponer al Director General, con base en la normatividad vigente y cuando así lo amerite, la supresión de contralorías internas o unidades de auditoría interna en empresas subsidiarias nacionales y extranjeras, delegaciones y representaciones nacionales y extranjeras, así como someter a consideración del Director General el nombramiento o remoción de los titulares de dichos órganos;
-
-V. Programar y llevar a cabo auditorías, revisiones y evaluación de sistemas operativos y de información, y supervisión de los sistemas de control de las áreas que integran la estructura orgánica del Fondo de Cultura Económica y la de las subsidiarias nacionales y extranjeras, así como coadyuvar a la Secretaría de la Contraloría y Desarrollo Administrativo en la evaluación del desempeño de los Auditores Externos tanto del Fondo de Cultura Económica como de las subsidiarias nacionales y extranjeras;
-
-VI. Formular, con base en los resultados de las auditorías, revisiones y supervisiones que realice, las observaciones y recomendaciones tendientes a incrementar la eficiencia y eficacia de las actividades del Fondo de Cultura Económica y de las subsidiarias nacionales y extranjeras, y establecer el seguimiento correspondiente de aplicación de las mismas;
-
-VII. Proporcionar, previo acuerdo del Director General, a las secretarías de Contraloría y Desarrollo Administrativo y de Hacienda y Crédito Público, y a la Contraloría Interna de la Coordinadora de Sector, la información y elementos que requieran para el desempeño de sus atribuciones; asimismo, atender las observaciones y recomendaciones que formulen la Contaduría Mayor de Hacienda, derivadas de la Cuenta Pública, el Comisario Público y los Auditores Externos;
-
-VIII. Atender las quejas, sugerencias y denuncias en contra de servidores públicos que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con el Fondo de Cultura Económica y las subsidiarias nacionales y extranjeras;
-
-IX. Integrar los expedientes relativos a las quejas y denuncias que se presenten por conductas imputables a servidores públicos del Organismo y en su caso de las subsidiarias nacionales y extranjeras, dando la intervención pertinente a la Unidad de Contraloría Interna de la Coordinadora de Sector. En su caso, aplicar las sanciones que correspondan a los servidores públicos del Fondo de Cultura Económica y de subsidiarias nacionales y extranjeras, cuando incurran en responsabilidad y de conformidad con la Ley Federal de Responsabilidades de los Servidores Públicos.
-
-En los actos, omisiones y conductas de los servidores públicos que pudieran implicar responsabilidad penal, previo acuerdo con el Director General, el Contralor Interno invariablemente lo hará del conocimiento de la Secretaría de Contraloría y Desarrollo Administrativo, y deberá dar vista al Ministerio Público.
+Los servidores públicos del Fondo de Cultura Económica proporcionarán el auxilio y la cooperación que requieran los funcionarios arriba mencionados, para el correcto desempeño de sus atribuciones.
 
 ###### Artículo 35.
 
@@ -613,9 +619,11 @@ V. Las demás funciones que se requieran para cumplir con las anteriores y las q
 
 El Comité Interno de Selección de Obras es un órgano colegiado que permite al Fondo de Cultura Económica una adecuada evaluación de las obras susceptibles de publicación, con base en criterios de pertinencia cultural, grado de complejidad de producción de cada obra, capacidad presupuestal y diagnóstico comercial, con el fin de estructurar y actualizar los programas editorial, de producción, promoción y comercialización del Fondo de Cultura Económica y de sus empresas subsidiarias nacionales y extranjeras.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 40.
 
-El Comité Interno de Selección de Obras lo integran el Director General, quien lo preside; el Coordinador General de Planeación y Seguimiento, como secretario; y el Gerente General, el Contralor Interno y los Titulares de las gerencias Editorial, de Producción Industrial y Comercial. El Director General podrá convocar a otros invitados.
+El Comité Interno de Selección de Obras lo integran el Director General, quien lo preside; el Coordinador General de Planeación y Seguimiento, como Secretario; el Gerente General y los Titulares de las gerencias Editorial, de Obras para Niños y Jóvenes, de Producción Industrial, y de Comercialización, quienes fungirán como vocales, y el Contralor Interno como Asesor. El Director General podrá convocar a otros miembros.
 
 ###### Artículo 41.
 
@@ -657,17 +665,25 @@ III. Proponer las políticas internas, bases y lineamientos en materia de adquis
 
 IV. Analizar los resultados generales de las adquisiciones, arrendamientos y servicios, así como los dictámenes y fallos emitidos por servidores públicos responsables de ello.
 
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1999)</small>
+
 ###### Artículo 47.
 
-El Comité Interno de Desincorporación de Bienes Muebles es un órgano colegiado, que en apego a lo establecido por el Capítulo VI de la Ley General de Bienes Nacionales tiene por objeto instrumentar y aplicar las disposiciones que regulan los actos de enajenación, baja, destino final, donación, transferencia, permuta o dación en pago, y destrucción de aquellos bienes muebles del Fondo de Cultura Económica que por su uso, aprovechamiento o estado de conservación no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando.
+El Comité de Enajenación de Bienes Muebles es un órgano colegiado, que en apego a lo establecido por el Capítulo VI de la Ley General de Bienes Nacionales tiene por objeto instrumentar y aplicar las disposiciones que regulan los actos de enajenación, baja, destino final, donación, transferencia, permuta o dación en pago, y destrucción de aquellos bienes muebles del Fondo de Cultura Económica que por su uso, aprovechamiento o estado de conservación no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 48.
 
-El Comité Interno de Desincorporación de Bienes Muebles lo integran el Gerente General, quien lo preside; el titular de la Gerencia Administrativa y Financiera, quien suple al Presidente en su ausencia; el Contralor Interno o su representante, quien fungirá como Secretario Técnico, y los titulares de las Gerencias y Coordinaciones Generales que convoque el Director General.
+El Comité de Enajenación de Bienes Muebles lo integran el Gerente General, quien lo preside; el Titular de la Gerencia Administrativa y Financiera, quien suple al Presidente en su ausencia; el Subgerente de Recursos Materiales y Servicios Generales, quien fungirá como Secretario Ejecutivo; los titulares de las gerencias y coordinaciones generales que convoque el Director General, quienes fungirán como vocales, y el Contralor Interno, el Titular de la Coordinación General de Asuntos Jurídicos y un representante de la Secretaría de Contraloría y Desarrollo Administrativo quienes tendrán el carácter de asesores.
+
+Los miembros titulares del Comité podrán nombrar a sus respectivos suplentes, los cuales deberán tener un nivel inmediato inferior al del titular. El Director General y el Gerente General podrán convocar a otros asesores.
+
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 1999)</small>
 
 ###### Artículo 49.
 
-Corresponde al Comité Interno de Desincorporación de Bienes Muebles:
+Corresponde al Comité de Enajenación de Bienes Muebles:
 
 I. Conocer del inventario de los bienes muebles no utilizados, en desuso o de escaso movimiento que presente a su consideración el Gerente Administrativo y Financiero;
 
@@ -720,3 +736,9 @@ Primero. El presente Estatuto Orgánico entrará en vigor al día siguiente de s
 Segundo. Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto por este Estatuto Orgánico.
 
 Aprobado por la Junta Directiva del Fondo de Cultura Económica, en su sesión celebrada el día 13 de septiembre de 1995.- El Presidente de la Junta Directiva del Fondo de Cultura Económica, Miguel Limón Rojas.- Rúbrica.- El Secretario de la Junta Directiva del Fondo de Cultura Económica, Alejandro de la Canal Knapp.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 18 DE DICIEMBRE DE 1998.
+
+La Junta Directiva del Fondo de Cultura Económica acordó, asimismo, que las presentes reformas y adiciones surtirán sus efectos a partir del día 14 de julio de 1998, debiendo publicarse en el Diario Oficial de la Federación.
