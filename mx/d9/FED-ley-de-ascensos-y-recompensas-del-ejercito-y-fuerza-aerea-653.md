@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-y-fuerza-aerea-653"
 country: "mx"
 rank: "ley"
 publication_date: "1956-01-07"
-last_updated: "1956-01-07"
+last_updated: "1971-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=653&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1955-12-31"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA NACIONALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MARZO DE 1971.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 7 de enero de 1956.
 
@@ -139,9 +139,11 @@ La Secretaría de la Defensa Nacional determinará las fechas de los concursos d
 
 En igualdad de competencia profesional determinada por las puntuaciones obtenidas en el concurso, será ascendido el de mayor antigüedad, de acuerdo con las normas establecidas en el artículo 38 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 15.
 
-Para participar en los concursos de selección, los oficiales deberán satisfacer los requisitos siguientes:
+Para participar en los concursos de selección, los oficiales deberán satisfacer los siguientes requisitos:
 
 I.- Tener como mínimo el tiempo de servicios que a continuación se expresa:
 
@@ -155,13 +157,13 @@ Capitanes 1os. 15 años.
 
 II.- Tener cuando menos tres años de antigüedad con el grado que ostenten;
 
-III.- Haber servido con dicho grado durante ese lapso, en la forma siguiente:
+III.- Haber servido con dicho grado durante ese lapso en la forma, siguiente:
 
 a).- Los subtenientes de guerra tres años como mínimo en las unidades de su Arma del Servicio Activo en Cuarteles.
 
 b).- Los tenientes de guerra, tres años como mínimo en las unidades de sus armas, del Servicio Activo en Cuarteles o en las Unidades Orgánicas de las Escuelas Militares, ejerciendo el mando.
 
-c).- Los capitanes de guerra, como mínimo dos años en las unidades de sus armas del Servicio Activo en cuarteles, o en unidades orgánicas de las Escuelas Militares, ejerciendo el mando; y un año, en su caso, en los cuarteles de los mandos territoriales de las grandes unidades, en las dependencias de su Arma, como profesores en las Escuelas Militares, o estudiando en cursos de perfeccionamiento o superiores.
+c).- Los capitanes de guerra, como mínimo dos años en las unidades de sus armas del Servicio Activo en Cuarteles, o en Unidades Orgánicas de las Escuelas Militares, ejerciendo el mando; y un año, en su caso, en los Cuarteles de los mandos territoriales de las Grandes Unidades, en las dependencias de su arma, como profesores en las Escuelas Militares, o estudiando en cursos de perfeccionamiento o superiores.
 
 > <small>(F. DE E., D.O.F. 24 DE ENERO DE 1956)</small>
 
@@ -175,7 +177,13 @@ f).- Los de los Servicios de Intendencia, Sanidad, Transmisiones y Materiales de
 
 g).- Los Pagadores, Oficinistas, Cirujanos Dentistas, Personal Administrativo del Servicio de Justicia Militar y Especialistas de los distintos servicios, tres años como mínimo en funciones propias de su especialidad.
 
-h) Los Ayudantes del Presidente de la República, Secretario, Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, un año como mínimo en las unidades de sus armas o servicios del Servicio Activo, en cuarteles o en unidades orgánicas de las Escuelas Militares ejerciendo el mando, y el resto, en la comisión asignada o estudiando en cursos de capacitación o superiores.
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 1971)</small>
+
+h) Los ayudantes del Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, un año como mínimo en las unidades de sus Armas o Servicios del Servicio Activo, en cuarteles o en unidades orgánicas de las Escuelas Militares ejerciendo el mando, y el resto, en la comisión asignada o estudiando en cursos de capacitación o superiores.
+
+(ADICIONADO, D.O.F. 4 DE MARZO DE 1971)(F. DE E., D.O.F. 10 DE MARZO DE 1971)
+
+El personal perteneciente a la planta del Estado Mayor Presidencial, el de Ayudantes del Presidente de la República y Secretario de la Defensa Nacional, los profesores e instructores de planta de los establecimientos de Educación Militar y el personal de planta en los cuarteles generales de las grandes unidades, podrán participar en los concursos de selección, sin haber prestado, el personal de guerra, servicios en unidades ejerciendo el mando y el personal de servicio, sin haberlo hecho en funciones de su especialidad.
 
 IV.- Tener buena salud y estar capacitados físicamente para el desempeño de las funciones propias del grado inmediato superior.
 
@@ -201,9 +209,11 @@ d).- Pasar la prueba de capacidad de mando los oficiales de arma y de capacidad 
 
 e).- No encontrarse en alguna de las situaciones previstas en el artículo 30.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 17.
 
-Para participar en los concursos de selección de mayores a tenientes coroneles, será necesario satisfacer los requisitos siguientes:
+Para participar en los concursos de selección de Mayores a Tenientes Coroneles, será necesario satisfacer los requisitos siguientes:
 
 I.- Tener como mínimo 19 años de servicios en el Ejército;
 
@@ -223,7 +233,13 @@ e).- Los de Intendencia, Sanidad, Trasmisiones y Materiales de Guerra, dos años
 
 f).- Los de los demás Servicios, cuatro años como mínimo en funciones propias de su especialidad;
 
-g).- Los Ayudantes del Presidente de la República, Secretario, Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, un año como mínimo en las Unidades de sus Armas o Servicios del Servicio Activo, en Cuarteles o en Unidades Orgánicas de las Escuelas Militares ejerciendo el mando y el resto, en la comisión asignada o estudiando en cursos de Capacitación o Superiores.
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 1971)</small>
+
+g).- Los Ayudantes del Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, un año como mínimo en las Unidades de sus Armas o Servicios del Servicio Activo, en Cuarteles o en Unidades Orgánicas de las Escuelas Militares ejerciendo el mando y el resto, en la Comisión asignada o estudiando en cursos de capacitación o superiores.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 1971)</small>
+
+El personal perteneciente a la planta del Estado Mayor Presidencial, el de Ayudantes del Presidente de la República y Secretario de la Defensa Nacional, los profesores e instructores de planta de los establecimientos de Educación Militar y el personal de planta en los cuarteles generales de las grandes unidades, podrán participar en los concursos de selección, sin haber prestado, el personal de guerra, servicios en unidades ejerciendo el mando y el personal de servicio, sin haberlo hecho en funciones de su especialidad.
 
 IV.- Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
 
@@ -598,3 +614,9 @@ La presente Ley entrará en vigor en la fecha de su publicación en el "Diario O
 Fausto Acosta Romo, S. V. P.- Carlos Valdés Villarreal, D. P.- Roberto A. Cortés, S. S.- Félix Dauajare Torres, D. S.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos cincuenta y cinco.- Adolfo Ruiz Cortines.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Carrillo Flores.- Rúbrica.- El Secretario de la Defensa Nacional, Matías Ramos.- Rúbrica.- El Secretario de Marina, Roberto Gómez Maqueo.- Rúbrica.- El Secretario de Gobernación, Angel Carvajal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 4 DE MARZO DE 1971.
+
+UNICO.- Este decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones que se opongan al mismo.
