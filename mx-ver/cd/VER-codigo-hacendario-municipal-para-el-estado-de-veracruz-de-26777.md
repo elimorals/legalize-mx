@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2003-02-19"
+last_updated: "2003-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ LLAVE
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RIO, ESTADO DE VERACRUZ-LLAVE, EN TERMINOS DEL ARTICULO 1 DEL CODIGO NUMERO 302 HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ-LLAVE, PUBLICADO EN LA G.O. DE 22 DE NOVIEMBRE DE 2002, QUEDARA SIN APLICACION DICHO ORDENAMIENTO EN EL MUNICIPIO DE BOCA DEL RIO, VERACRUZ, A PARTIR DE LA VIGENCIA DEL CITADO CODIGO.</small>
+> <small>N. DE E. SE REPUBLICA EL DECRETO 540, QUE REFORMA DIVERSOS ARTICULOS DEL PRESENTE CODIGO, PUBLICADO EN LA G.O. DE 14 DE FEBRERO DE 2003.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -1823,7 +1823,7 @@ El Cabildo podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea
 
 ### CAPÍTULO V. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+(REFORMADO, G.O. 14 DE FEBRERO DE 2003) (REPUBLICADO, G.O. 28 DE FEBRERO DE 2003)
 
 ###### Artículo 161.
 
@@ -2031,7 +2031,7 @@ Son sujetos de este derecho las personas físicas o morales que soliciten del Ay
 
 El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+(REFORMADO, G.O. 14 DE FEBRERO DE 2003) (REPUBLICADO, G.O. 28 DE FEBRERO DE 2003)
 
 En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para el otorgamiento de aquéllos señalen los reglamentos municipales y cubrirán, en su caso, el pago de las formas valoradas que correspondan, que no podrá exceder de un salario mínimo.
 
@@ -2039,11 +2039,11 @@ Se exceptúan de la no causación los giros comerciales que enajenen o expendan 
 
 #### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### Artículo 200.
 
-Las licencias, o permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos sin la autorización previa del cabildo, en términos de las disposiciones reglamentarias correspondientes.
+Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos sin la autorización previa del cabildo, en términos de las disposiciones reglamentarias correspondientes.
 
 ###### Artículo 201.
 
@@ -2053,7 +2053,7 @@ Los permisos o autorizaciones de carácter temporal, para giros comerciales que 
 
 La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+(REFORMADO, G.O. 14 DE FEBRERO DE 2003) (REPUBLICADO, G.O. 28 DE FEBRERO DE 2003)
 
 Por la expedición de licencias a que este artículo se refiere se pagarán las cuotas siguientes:
 
@@ -3871,17 +3871,17 @@ Las personas que utilicen espacios en mercados, así como en tianguis, deberán 
 
 Los derechos por la ocupación de espacios, se calcularán y pagarán de conformidad con las cuotas siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2003)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2003) (REPUBLICADA, G.O. 28 DE FEBRERO DE 2003)
 
 I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, de 0.01 a 0.05 salarios mínimos;
 
 Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2003)</small>
+(REFORMADA, G.O. 14 DE FEBRERO DE 2003) (REPUBLICADA, G.O. 28 DE FEBRERO DE 2003)
 
 II. La ocupación de espacios en vía pública o áreas municipales, exceptuando las áreas verdes, se pagará diariamente, por metro cuadrado o fracción, previa autorización correspondiente, a razón de 0.01 a 0.05 salarios mínimos;
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2003)</small>
+(REFORMADA, G.O. 14 DE FEBRERO DE 2003) (REPUBLICADA, G.O. 28 DE FEBRERO DE 2003)
 
 III. La ocupación temporal de la vía pública o áreas municipales, exceptuando las áreas verdes, por vehículos, aparatos mecánicos o electromecánicos, por tianguis, ferias o similares, se pagará diariamente, por metro cuadrado o fracción de 0.05 a 0.125 salarios mínimos; y
 
@@ -4853,7 +4853,7 @@ Corresponde a las entidades consolidar la información contable, financiera, pre
 
 #### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+(REFORMADO, G.O. 14 DE FEBRERO DE 2003) (REPUBLICADO, G.O. 28 DE FEBRERO DE 2003)
 
 ###### Artículo 378.
 
@@ -4871,7 +4871,7 @@ La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la con
 
 El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación, la cuenta pública del ejercicio presupuestal inmediato anterior, en los plazos establecidos en la ley de la materia.
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+(REFORMADO, G.O. 14 DE FEBRERO DE 2003) (REPUBLICADO, G.O. 28 DE FEBRERO DE 2003)
 
 De no presentar en tiempo la cuenta pública al Congreso, el presidente, los integrantes de la Comisión de Hacienda y el tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
@@ -5789,7 +5789,7 @@ Sexto. Las disposiciones relativas a la clasificación de predios suburbanos, de
 
 Séptimo. Por esta única y exclusiva vez, y sin que siente precedente, previo acuerdo de la Comisión Permanente de Vigilancia del Congreso del Estado, se autoriza a los Ayuntamientos a cubrir, con recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios del año 2002, la deuda pública documentada, aprobada por el Cabildo, siempre que ésta no haya excedido del cuarenta por ciento de aquel Fondo.
 
-> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2003)</small>
+(ADICIONADO, G.O. 14 DE FEBRERO DE 2003) (REPUBLICADO, G.O. 28 DE FEBRERO DE 2003)
 
 Octavo.- En la aplicación de lo dispuesto por el artículo 202 de este Código, los Ayuntamientos cobrarán a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
 
@@ -5799,7 +5799,7 @@ Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica. Natalio Alejandro
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
-G.O. 14 DE FEBRERO DE 2003.
+G.O. 14 DE FEBRERO DE 2003. (REPUBLICADO, G.O. 28 DE FEBRERO DE 2003)
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
@@ -5814,3 +5814,9 @@ TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del 
 CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el Artículo Sexto Transitorio de la Ley de Catastro del Estado de Veracruz-Llave, entrarán en vigor a partir del 1 de enero del año 2004.
 
 QUINTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
+
+G.O. 28 DE FEBRERO DE 2003.
+
+> <small>N. DE E. SE REPUBLICA EL DECRETO NUMERO 540 PUBLICADO EN LA G.O. DE 14 DE FEBRERO DE 2003.</small>
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
