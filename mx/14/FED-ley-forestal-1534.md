@@ -4,7 +4,7 @@ identifier: "FED-ley-forestal-1534"
 country: "mx"
 rank: "ley"
 publication_date: "1926-04-24"
-last_updated: "1934-01-15"
+last_updated: "1934-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1926-04-05"
 
 LEY FORESTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE ENERO DE 1934.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 1934.
 
 Ley publicada en el Número 45 del Diario Oficial, el sábado 24 de abril de 1926
 
@@ -65,15 +65,23 @@ Quedan sujetos a las disposiciones de esta Ley, los terrenos forestales baldíos
 
 Se entiende por vegetación forestal, la que al desarrollarse en un terreno, es capaz de formar una cubierta que proteja al suelo contra los agentes de degradación y desecación.
 
-### CAPITULO II. De las reservas forestales
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 1934)</small>
+
+### CAPITULO II. De las Reservas Forestales
+
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 1934)</small>
 
 ###### ARTICULO 6o.
 
-Se consideran reservas forestales:
+Se consideran Reservas Forestales:
 
-I.- Todos los terrenos forestales comprendidos en los baldíos o nacionales; y
+I.- Los terrenos baldíos o nacionales con monte alto que tengan existencias de más de 50 árboles por hectárea, en promedio.
 
-II.- Los terrenos forestales de propiedad particular que la Federación o los Estados expropien para ese fin, de acuerdo con el artículo 27 constitucional.
+II.- Los terrenos baldíos o nacionales con praderas arboladas que tengan existencias de más de 40 árboles por hectárea en promedio, comprendidos en las zonas accidentadas de las Cuencas Superiores de los ríos.
+
+III.- Los terrenos baldíos o nacionales comprendidos dentro de las mismas zonas accidentadas de las Cuencas Hidrográficas, por encontrarse desforestados deben destinarse a tal fin, previo decreto presidencial.
+
+IV.- Los terrenos de propiedad particular comprendidos en las mismas zonas accidentadas, que por encontrarse desforestados se expropien para recuperar las reservas forestales en los términos establecidos en los artículos 24 y 25 de esta ley.
 
 ###### ARTICULO 7o.
 
@@ -452,3 +460,11 @@ D.O. 15 DE ENERO DE 1934.
 ###### ARTICULO 2o.
 
 Las presentes reformas surtirán sus efectos desde el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O. 26 DE ABRIL DE 1934.
+
+> <small>[N. DE E. SE TRANSCRIBE EL ARTÍCULO TERCERO DEL "DECRETO QUE REFORMA EL ARTÍCULO 6o. DE LA LEY FORESTAL VIGENTE, Y EL 3o. DE SU REGLAMENTO" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTICULO TERCERO.
+
+Las reformas antes mencionadas surtirán sus efectos desde el día de su publicación en el "Diario Oficial" de la Federación.
