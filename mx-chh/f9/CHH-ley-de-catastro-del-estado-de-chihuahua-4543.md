@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2003-06-21"
+last_updated: "2003-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2003.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -171,9 +171,9 @@ IV. Auxiliar a las Autoridades Fiscales Municipales en la determinación de las 
 
 V. Apoyar a los Municipios en el cumplimiento por parte de los Municipios, de la normatividad del Sistema de Información Catastral; y
 
-VI. Las demás que le determinen esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2003)</small>
 
-Las atribuciones previstas en las fracciones III a la VI, se ejercerán por la Dirección General de Desarrollo Urbano y Ecología.
+VI. Las demás que le determinen esta Ley y otras disposiciones aplicables. Las atribuciones previstas en las fracciones III a la V, se ejercerán por la Secretaría de Desarrollo Municipal.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2002)</small>
 
@@ -189,7 +189,9 @@ III. Formular y actualizar la zonificación catastral correspondiente a los pred
 
 IV. Formular y proponer al Ayuntamiento las tablas de valores unitarios para suelo y construcción y su actualización.
 
-La autoridad catastral municipal debe remitir mensualmente a la Secretaría de Desarrollo Urbano y Ecología la información necesaria de los movimientos catastrales y actualizaciones que se determinen en el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2003)</small>
+
+La autoridad catastral municipal deberá remitir mensualmente a la Secretaría de Dearrollo (sic) Municipal la información de los movimientos catastrales y de las actualizaciones que se determinen en el reglamento de la presente Ley.
 
 El incumplimiento de cualquiera de las anteriores obligaciones genera responsabilidad administrativa, dando lugar a la iniciación del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que se establecen en la Ley de Responsabilidades de los Servidores Públicos y en el Código Municipal, ambos del Estado de Chihuahua.
 
@@ -522,3 +524,13 @@ P.O. 21 DE JUNIO DE 2003.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para dar cumplimiento al presente Decreto se autoriza al Ejecutivo del Estado a llevar a cabo las transferencias de partidas presupuestales necesarias.
