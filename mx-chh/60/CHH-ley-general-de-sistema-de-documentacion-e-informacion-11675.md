@@ -4,7 +4,7 @@ identifier: "CHH-ley-general-de-sistema-de-documentacion-e-informacion-11675"
 country: "mx"
 rank: "ley_general"
 publication_date: "1997-07-19"
-last_updated: "1999-12-25"
+last_updated: "2005-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY GENERAL DEL SISTEMA DE DOCUMENTACION E INFORMACION PUBLICA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de julio de 1997.
 
@@ -413,9 +413,17 @@ La administración del organismo estará a cargo de un Consejo Directivo y de un
 
 I. El Gobernador Constitucional del Estado o la persona en quien delegue su representación, quien presidirá el Consejo;
 
-II. El Director General de Educación y Cultura;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-III. El Director General de Finanzas y Administración;
+II. El Secretario de Educación y Cultura;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III. El Secretario de Administración;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III Bis. El Secretario de Finanzas;
 
 IV. El Rector de la Universidad Autónoma de Chihuahua;
 
@@ -592,3 +600,27 @@ Las facultades y obligaciones contenidas en otros ordenamientos se entenderán r
 ###### ARTÍCULO SEXTO.
 
 Las obligaciones que a la entrada en vigor del presente decreto haya contraído el Centro de Información del Estado de Chihuahua, se entenderán contraídas por el Instituto Chihuahuense de la Cultura.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
