@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-beneficencia-publica-del-estado-de-oaxaca-6969"
 country: "mx"
 rank: "ley"
 publication_date: "1936-06-27"
-last_updated: "1936-06-27"
+last_updated: "1936-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA BENEFICENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1936.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 27 de Junio de 1936.
 
@@ -281,9 +281,11 @@ Los patronos tendrán como remuneración por el ejercicio de su encargo la que l
 
 Para la creación, desarrollo y fiel observancia de sus finalidades, el Estado ejercerá el control, vigilancia e inspección de la Beneficencia, tanto pública como Privada.
 
-###### Artículo 46.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE AGOSTO DE 1936)</small>
 
-Para el efecto se establece una Junta de Beneficencia de la que será presidente nato el Ejecutivo del Estado y se compondrá de cinco personas más, nombradas por el propio Ejecutivo y de las que fungirá como Presidente Efectivo la primera designada y como Secretario la última y los tres restantes tendrán el carácter de consejeros.
+###### ARTICULO 46.
+
+El Ejecutivo podrá delegar temporalmente, la representación del Presidente nato de la Junta de Beneficencia que se le confiere, en el Consejero o persona que lo estime conveniente a los intereses de la Beneficencia y a su control, vigilancia e inspección.
 
 ###### Artículo 47.
 
@@ -410,3 +412,9 @@ Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplim
 Y lo comunico a usted para su conocimiento y efectos. Sufragio Efectivo. No Reelección. Carreteras y Escuelas. Oaxaca de Juárez, a 24 de junio de 1936.- El Secretario General del Despacho.- Lic. R. Márquez Toro.- Rúbrica.
 
 Al C.......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
