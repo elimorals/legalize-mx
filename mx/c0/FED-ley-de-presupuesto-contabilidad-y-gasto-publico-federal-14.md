@@ -4,7 +4,7 @@ identifier: "FED-ley-de-presupuesto-contabilidad-y-gasto-publico-federal-14"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1977-12-30"
+last_updated: "1979-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1976
 
@@ -131,9 +131,15 @@ El Presupuesto de Egresos de la Federación comprenderá las previsiones de gast
 
 El Presupuesto de Egresos de la Federación comprenderá también, en capítulo especial, las previsiones de gasto público que habrán de realizar las entidades relacionadas en las Fracciones VI a VIII del propio Artículo 2o. de esta Ley, que se determine incluir en dicho presupuesto.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 17.
 
-Para la formulación del Proyecto del Presupuesto de Egresos de la Federación, las entidades que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos y los remitirán a la Secretaría de Programación y Presupuesto, de acuerdo con las normas, montos y plazos que el Ejecutivo establezca por medio de esta Secretaría.
+Para la formulación del Proyecto de Presupuesto de Egresos de la Federación, las entidades que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos.
+
+Las entidades con excepción del Poder Judicial, remitirán su respectivo anteproyecto a la Secretaría de Programación y Presupuesto, con sujeción a las normas, montos y plazos que el Ejecutivo establezca por medio de la propia Secretaría.
+
+El Poder Judicial, a través de su órgano competente formulará su respectivo Proyecto de Presupuesto y lo enviará oportunamente al Presidente de la República para que ordene su incorporación al Proyecto de Presupuesto de Egresos de la Federación, atendiendo a las previsiones del ingreso y del gasto público federal.
 
 ###### Artículo 18.
 
@@ -396,3 +402,9 @@ Se abroga la Ley Orgánica de la Contaduría de la Federación y se derogan toda
 ###### ARTICULO TERCERO.
 
 El Ejecutivo Federal por conducto de la Secretaría de Programación y Presupuesto fincará las responsabilidades conforme a lo dispuesto en la Ley Orgánica de la Contaduría de la Federación, en caso de actos de funcionarios, empleados y agentes de la Federación, así como por los correspondientes a los particulares que hayan participado deliberadamente en la comisión de los actos que originen responsabilidad, cuando los daños y perjuicios se hayan ocasionado al Erario Federal con anterioridad al 1o. de enero de 1978 y que resulten de la revisión de la contabilidad de la Federación, independientemente de la fecha en que se descubran o se comprueben.
+
+D.O.F. 31 DE DICIEMBRE DE 1979.
+
+PRIMERO.- Este Decreto entrará en vigor el día 1o. de enero de 1980.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente.
