@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1962-12-29"
+last_updated: "1963-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1963.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -1710,6 +1710,10 @@ c).- O bien el derecho a una parte alícuota del producto neto que resulte de la
 
 En el caso de los incisos b) y c), el derecho total de los tenedores de certificados de cada emisión será igual al porcentaje que represente en el momento de hacerse la emisión el valor total nominal de ella en relación con el valor comercial de los bienes, derechos o valores correspondientes fijado por el peritaje practicado en los términos del artículo 228 h. En caso de que al hacerse la adjudicación o venta de dichos bienes, derechos o valores, el valor comercial de éstos hubiere disminuído, sin ser inferior al importe nominal total de la emisión, la adjudicación o liquidación en efectivo se hará a los tenedores hasta por un valor igual al nominal de sus certificados; y si el valor comercial de la masa fiduciaria fuere inferior al nominal total de la emisión, tendrán derecho a la aplicación íntegra de los bienes o producto neto de la venta de los mismos.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
+ARTICULO 228 a bis.- Los "certificados de vivienda" son títulos que representan el derecho, mediante el pago de lo (sic) totalidad de las cuotas estipuladas, a que se transmita la propiedad de una vivienda, gozándose entretanto del aprovechamiento directo del inmueble; y en caso de incumplimiento o abandono, a recuperar una parte de dichas cuotas de acuerdo con los valores de rescate que se fijen.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
 
 ARTICULO 228 b.- Los certificados serán bienes muebles aun cuando los bienes fideicometidos (sic), materia de la emisión, sean inmuebles.
@@ -2859,6 +2863,10 @@ La presente Ley entrará en vigor diez días después de su publicación en el "
 D.O.F. 29 DE DICIEMBRE DE 1962.
 
 UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1963.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
 ## TRANSITORIO
 
