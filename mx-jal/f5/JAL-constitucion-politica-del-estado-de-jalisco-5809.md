@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2000-04-01"
+last_updated: "2000-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -431,11 +431,13 @@ Los diputados son inviolables por la manifestación de sus ideas en el ejercicio
 
 El Congreso del Estado se instalará cada tres años, el día primero de febrero del año posterior al de la elección, conforme al procedimiento que se determine en su Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2000)</small>
 
 ###### Art. 25.
 
-El Congreso sesionará por lo menos dos veces por semana durante los períodos comprendidos del primero de febrero al quince de abril y del quince de agosto al quince de diciembre de cada año, fuera de los cuales sesionará al menos cuatro veces por mes.
+El Congreso sesionará por lo menos dos veces por semana durante los períodos comprendidos del primero de febrero al treinta y uno de marzo y del quince de septiembre al quince de diciembre de cada año, fuera de los cuales sesionará al menos dos veces por mes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Para el conocimiento de los dictámenes relativos a la materia de responsabilidad de los servidores públicos, deberá convocarse a la celebración de sesiones extraordinarias.
 
@@ -1093,17 +1095,15 @@ El Consejo General estará facultado para determinar el número y competencia de
 
 Las decisiones del Consejo General serán definitivas e inatacables.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2000)</small>
 
-### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
+### CAPITULO III. Del Tribunal de Arbitraje y Escalafón
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 65.
 
-El Tribunal de lo Administrativo tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, de los municipios y de los organismos descentralizados de ambos, con los particulares, además de las que surjan entre el Estado y los municipios, o de éstos entre sí.
-
-El Tribunal de lo Administrativo resolverá además, los conflictos laborales que se susciten con sus propios trabajadores.
+El Tribunal de lo Administrativo tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, las municipales y de los organismos descentralizados de aquéllas, con los particulares. Igualmente de las que surjan de entre dos o más entidades públicas de las citadas en el presente artículo. El Tribunal de lo Administrativo resolverá además, los conflictos laborales que se susciten con sus propios trabajadores.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1123,7 +1123,7 @@ El pleno del Tribunal elegirá, de entre sus miembros, en los términos y bajo l
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO III. De la hacienda y del patrimonio municipal
+### CAPITULO I. Del gobierno municipal
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1179,9 +1179,9 @@ La Sala Superior se integrará por cinco magistrados, de entre los que será ele
 
 Una vez decretada la conclusión de algún proceso electoral, se instalará la sala permanente, que se integrará por tres magistrados y de acuerdo a las disposiciones de las leyes aplicables.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO III. Del Tribunal de Arbitraje y Escalafón
+### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1193,11 +1193,9 @@ La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, est
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-## TITULO SEPTIMO
+## TITULO SEPTIMO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
-
-### CAPITULO I. Del gobierno municipal
+### CAPITULO III. De la hacienda y del patrimonio municipal
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1261,7 +1259,7 @@ Los concejos municipales y sus integrantes tendrán las mismas facultades y obli
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. Del juicio político
+### CAPITULO I. De las responsabilidades de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1437,9 +1435,9 @@ El Congreso no podrá establecer exenciones o subsidios respecto de contribucion
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-## TITULO OCTAVO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
+## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. De las reformas a la Constitución
+### CAPITULO III. De la inviolabilidad de esta Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1491,9 +1489,9 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 En los juicios del orden civil no hay fuero ni inmunidad.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO I. De las responsabilidades de los servidores públicos
+### CAPITULO II. Del juicio político
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1501,7 +1499,9 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 El procedimiento del juicio político se regirá conforme a las siguientes prevenciones:
 
-I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, vicepresidentes, regidores o concejales; los tesoreros, secretarios y síndicos de los ayuntamientos; así como los titulares de organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2000)</small>
+
+I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, el Procurador Social y el Contralor del Estado; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, vicepresidentes, regidores o concejales; los tesoreros, secretarios y síndicos de los ayuntamientos; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
 
 II. Se determinará la responsabilidad de los servidores públicos mediante juicio político, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
@@ -1525,9 +1525,9 @@ IX. El Congreso, erigido en Jurado de Sentencia, con audiencia del inculpado, de
 
 Contra las resoluciones de juicio político no procede juicio o recurso alguno.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO III. De la responsabilidad penal de los servidores públicos
+### CAPITULO IV. Del procedimiento administrativo
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1587,9 +1587,9 @@ Contra las declaraciones de procedencia penal no procede juicio o recurso alguno
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO III. De la responsabilidad penal de los servidores públicos
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 106.
 
@@ -1607,15 +1607,17 @@ La autoridad encargada de recibir las declaraciones de situación patrimonial, d
 
 La ley señalará los términos de prescripción para exigir la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia el artículo anterior. Cuando dichos actos u omisiones fuesen graves, los términos de prescripción no serán inferiores a tres años y tres meses.
 
-### CAPITULO IV. Del procedimiento administrativo
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+### CAPITULO II. De las reformas a la Constitución
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO III. De la inviolabilidad de esta Constitución
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 1994)</small>
 
-## TITULO NOVENO
+## TITULO OCTAVO
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1626,6 +1628,14 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 ###### Art. 108.
 
 Todos los servidores públicos del Estado y de los municipios, antes de asumir el desempeño de sus cargos, rendirán protesta formal de cumplir y vigilar el cumplimiento de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y todas las leyes que de ellas emanen.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2000)</small>
+
+Corresponde al Congreso del Estado tomar protesta a los servidores públicos que con arreglo a esta Constitución deban ser nombrados o ratificados por éste, en el recinto oficial del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2000)</small>
+
+El Gobernador al tomar posesión de su cargo rendirá protesta ante el Congreso del Estado en el Recinto oficial del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1702,8 +1712,6 @@ Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndu
 ###### Art. 118.
 
 Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite.
-
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ###### Art. 119.
 
@@ -2062,3 +2070,35 @@ DECRETO NUMERO 17990.
 PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamiento del estado, con el Diario de los Debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponde.
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE MAYO DE 2000.
+
+DECRETO NUMERO 18039.
+
+Primero.- Envíese copia certificada del presente dictamen de decreto de ley a los 124 ayuntamientos del estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor procedan conforme a derecho corresponda.
+
+Segundo.- Se derogan las disposiciones legales en el ámbito estatal o municipal, en lo que se opongan a lo previsto en el presente decreto.
+
+Tercero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE MAYO DE 2000.
+
+DECRETO NUMERO 18211.
+
+UNICO.- Una vez que se agote el procedimiento que establecen los artículos 117 y 118 de la Constitución Política de Estado, publíquese el presente decreto en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE MAYO DE 2000.
+
+DECRETO NUMERO 18228.
+
+PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del estado, con el diario de los debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE MAYO DE 2000.
+
+DECRETO NUMERO 18255.
+
+PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de los debates, en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+SEGUNDO.- El presente decreto que contiene la reforma de los artículos 25 de la Constitución Política del Estado y 58 de la Ley Orgánica del Poder Legislativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
