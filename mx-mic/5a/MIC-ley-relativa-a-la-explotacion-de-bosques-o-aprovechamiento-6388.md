@@ -4,7 +4,7 @@ identifier: "MIC-ley-relativa-a-la-explotacion-de-bosques-o-aprovechamiento-6388
 country: "mx"
 rank: "ley"
 publication_date: "1945-02-15"
-last_updated: "1945-02-15"
+last_updated: "2004-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY RELATIVA A LA EXPLOTACION DE BOSQUES O APROVECHAMIENTO DE PRODUCTOS FORESTALES EN TERRITORIO DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA EL PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 22 DE NOVIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el jueves 15 de febrero de 1945.
 
@@ -98,3 +100,29 @@ Palacio del Poder Legislativo.- Morelia, Mich., a 2 de febrero de 1945.- Diputad
 Por lo tanto mando se imprima, publique, circule y observe.
 
 Palacio del Poder Ejecutivo.- Morelia, Mich., a 10 de febrero de 1945.- Lic. José Ma. Mendoza Pardo.- El Secretario de Gobierno, Lic. Luis M. Moreno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE NOVIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir de los treinta días siguientes al día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Relativa a la Explotación de Bosques o Aprovechamiento de Productos Forestales en Territorio del Estado de Michoacán de Ocampo del 15 de febrero de 1945.
+
+###### ARTÍCULO TERCERO.
+
+Al momento de entrar en vigor el presente Decreto la Comisión determinará el destino de los bienes incautados que obran en su poder, con una antigüedad mayor a tres años.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Ejecutivo deberá expedir el Reglamento de la Ley de Desarrollo Forestal Sustentable del Estado de Michoacán de Ocampo en un término de 180 días, contados a partir de la entrada en vigor del presente Decreto.
+
+Hasta en tanto el Titular del Ejecutivo expida el Reglamento que se señala en el párrafo anterior; continuará vigente y se aplicará el Reglamento en materia forestal de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Michoacán, publicado en el Periódico Oficial del Estado de Michoacán de Ocampo con fecha 7 de junio de 2001.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto los Ayuntamientos dicten sus Reglamentos o bandos para regular las materias que les correspondan conforme a las disposiciones de esta Ley, el Ejecutivo del Estado la aplicará supletoriamente en el ámbito municipal debiendo coordinarse para ello con sus autoridades, con pleno respeto a su autonomía.
