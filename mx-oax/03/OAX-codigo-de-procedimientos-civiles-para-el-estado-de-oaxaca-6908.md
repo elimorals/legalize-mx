@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1950-07-14"
+last_updated: "1961-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1961.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -5471,9 +5471,11 @@ TITULO DECIMOSEXTO
 
 Del procedimiento en los negocios de la competencia de los alcaldes
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1961)</small>
+
 ###### Artículo 931.
 
-Los alcaldes, en los negocios de su competencia, o sean aquellos cuyo interés no exceda de cien pesos, procederán con sujeción a las disposiciones especiales de este título y, en lo previsto, observarán las reglas generales y disposiciones de este Código, para el juicio ordinario.
+Los alcaldes, en los negocios de su competencia, o sean aquellos cuyo interés no exceda de quinientos pesos, procederán con sujeción a las disposiciones especiales de este título y, en lo no previsto, observarán las reglas generales y disposiciones de este Código para el juicio ordinario.
 
 ###### Artículo 932.
 
@@ -5481,9 +5483,11 @@ Para estimar el interés del negocio se atenderá a lo que el actor demande. Los
 
 Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se trate de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1961)</small>
+
 ###### Artículo 933.
 
-Si el alcalde en cualquier estado del juicio encuentra que éste no es de su competencia, por exceder su interés de cien pesos, o en razón de corresponder su conocimiento a alcalde de distinta jurisdicción, suspenderá de plano el procedimiento y remitirá lo actuado al tribunal correspondiente.
+Si el alcalde en cualquier estado del juicio encuentra que éste no es de su competencia, por exceder su interés de quinientos pesos, o en razón de corresponder su conocimiento a alcalde de distinta jurisdicción, suspenderá de plano el procedimiento y remitirá lo actuado al tribunal correspondiente.
 
 ###### Artículo 934.
 
@@ -5692,3 +5696,9 @@ UNICO.- El presente decreto entrará en vigor a partir de su publicación en el 
 P.O. 14 DE JULIO DE 1950.
 
 Unico.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 1961.
+
+Primero.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La substanciación de los negocios de jurisdicción contenciosa que estén pendientes al entrar en vigor el presente decreto, se sujetarán a las disposiciones anteriores al presente decreto hasta pronunciarse sentencia definitiva.
