@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-los-municipios-del-estado-de-yucatan-10848"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-25"
-last_updated: "1993-04-22"
+last_updated: "1995-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 1995.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 25 de octubre de 1988.
 
@@ -1081,7 +1081,7 @@ Los Ayuntamientos deberán de expedir sus reglamentos para la organización y fu
 
 Los Municipios son autónomos entre sí y ejercerán sus atribuciones dentro de los límites de su territorio. Se administrarán por un Ayuntamiento de elección popular directa y en su caso, por quienes los sustituyan en los términos de la Ley, el cual se compondrá por regidores y de entre los mismos uno será electo con el carácter de Presidente.
 
-El número de Regidores de Mayoría Relativa y de Representación Proporcional se determinará por el Congreso del Estado, en el mes de febrero del año de la elección, considerando los fenómenos demográficos establecidos por los Censos Nacionales de Población y Vivienda actualizados, en los términos de lo dispuesto por la fracción III del Artículo 76 de la Constitución Política del Estado y el Artículo 86 del Código Electoral del Estado.
+El número de Regidores de Mayoría Relativa y de Representación Proporcional se determinará por el Congreso del Estado, en el mes de febrero del año de la elección, considerando los fenómenos demográficos establecidos por los Censos Nacionales de Población y Vivienda actualizados, en lo términos de lo dispuesto por la fracción III del Artículo 76 de la Constitución Política del Estado y el Artículo 86 del Código Electoral del Estado.
 
 El Congreso del Estado, para determinar el número total de Regidores de los Ayuntamientos, considerados tanto los de Mayoría Relativa como los de Representación Proporcional, tomará en cuenta las circunstancias poblacionales de los Municipios de la manera siguiente:
 
@@ -1553,9 +1553,11 @@ Los Comisarios, Subcomisarios y Jefes de Manzana serán nombrados en la forma pr
 
 Los Jefes de Manzana además de las atribuciones que le señale el Ayuntamiento, tendrán la obligación de elaborar, revisar y tener actualizado un censo de población de su manzana.
 
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 60.
 
-Para ser Delegado, Comisario, Subcomisario, o Jefe de manzana se requiere tener veintiún años de edad, saber leer y escribir, tener modo honesto de vivir y estar domiciliado en la respectiva circunscripción.
+Para ser Delegado, Comisario, Subcomisario, o Jefe de Manzana se requiere tener 18 años de edad, saber leer y escribir, tener modo honesto de vivir y estar domiciliado en la respectiva circunscripción.
 
 Para lo no previsto en esta Ley, se estará a lo que dispongan los reglamentos correspondientes.
 
@@ -2308,6 +2310,12 @@ PRIMERO.- Se derogan las disposiciones que se opongan a lo dispuesto en el prese
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
 
 D.O. 22 DE ABRIL DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 12 DE JUNIO DE 1995.
 
 ###### ARTICULO UNICO.
 
