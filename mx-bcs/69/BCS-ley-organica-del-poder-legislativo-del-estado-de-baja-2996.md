@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2000-06-20"
+last_updated: "2000-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -693,7 +693,7 @@ b).- Las demás que establezca la directiva del Congreso y la Gran Comisión.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-XIX.- DE LA COMISIÓN DE EQUIDAD Y GÉNERO:
+XIX.- DE LA COMISIÓN DE EQUIDAD Y GéNERO:
 
 a).- Los que tengan relación con la problemática específica de mujeres y hombres en razón de su género.
 
@@ -1211,11 +1211,11 @@ Estos hechos se harán constar en las actas de las sesiones correspondientes.
 
 Salvo acuerdo en contrario de la Asamblea, las comisiones dictaminadoras y el pleno conocerá de las iniciativas, negocios o dictámenes, atendiendo al orden cronológico en el que inicialmente se hubieren recibido.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 118.
 
-Los dictámenes relativos a Proyectos de Ley o Decreto deberán recibir dos lecturas en Sesiones distintas. La segunda de ellas, se hará en la Sesión en la que se vayan a discutir.
-
-Sólo podrá dispensarse este requisito en los asuntos que por acuerdo expreso del Congreso se califiquen de urgente o de obvia resolución.
+Los dictámenes relativos a proyectos de Ley o Decreto deberán de recibir dos lecturas en sesiones distintas. La segunda de ellas se hará a mas tardar en la tercera sesión siguiente a la de su primera lectura y será en esta en la que se discuta y en su caso se apruebe o se rechace la iniciativa de Ley o Decreto.
 
 ###### ARTICULO 119.
 
@@ -1942,3 +1942,9 @@ DECRETO NUMERO 1275.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
