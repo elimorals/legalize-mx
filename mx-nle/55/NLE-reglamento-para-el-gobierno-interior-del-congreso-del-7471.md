@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2002-08-02"
+last_updated: "2002-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -375,7 +375,7 @@ a) Los relacionados con la extensión territorial y límites municipales;
 
 b) Las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia, así como los conflictos entre autoridades del Estado;
 
-c) Las renuncias y licencias del Titular del Poder Ejecutivo y de los Diputados;
+c) Las renuncias y licencias del Titular del Poder eEjecutivo y de los Diputados;
 
 d) La designación de Comisionados Ciudadanos de la Comisión Estatal Electoral y de los Magistrados del Tribunal Electoral del Estado;
 
@@ -521,9 +521,27 @@ f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 VII.- Comisión de Ecología:
 
-a) La legislación relativa a la protección y preservación del equilibrio ecológico; y
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2002)</small>
 
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+a) La legislación relativa a la protección y preservación del equilibrio ecológico y la promoción del desarrollo sustentable;
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+b) La legislación relativa al agua potable, saneamiento y procesamiento de desechos sólidos;
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+c) La legislación relativa a la protección de los animales y al aprovechamiento racional de las especies ganaderas y avícolas;
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+d) Lo referente al cumplimiento de la Ley de Ordenamiento Territorial de los Asentamiento Humanos y de Desarrollo Urbano, en lo concerniente al aspecto ambiental;
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+e) Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo; y
+
+f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -1828,5 +1846,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Archívese como asunto totalmente concluido.
 
 P.O. 2 DE AGOSTO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
