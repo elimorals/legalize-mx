@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2002-12-31"
+last_updated: "2003-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 2003.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -1780,7 +1780,13 @@ Notas de subpartida.
 
 1. En las subpartidas 4804.11 y 4804.19, se considera papel y cartón para caras (cubiertas) (“Kraftliner”), el papel y cartón alisados en ambas caras o satinados en una cara, presentados en bobinas (rollos) en los que el contenido de fibras de madera obtenidas por el procedimiento químico al sulfato o a la sosa (soda) sea superior o igual al 80% en peso del contenido total de fibra, de peso superior a 115 g/m² y con una resistencia mínima al estallido Mullen igual a los valores indicados en el cuadro siguiente o, para cualquier otro peso, sus equivalentes interpolados o extrapolados linealmente.
 
-Peso Resistencia mínima al estallido Mullen
+Peso Resistencia
+
+mínima al
+
+estallido
+
+Mullen
 
 g/m² KPa
 
@@ -1996,11 +2002,11 @@ c) con torsión final "Z".
 
 6. En esta Sección, se entiende por hilados de alta tenacidad, los hilados cuya tenacidad, expresada en cN/tex (centinewton por tex), exceda de los límites siguientes:
 
-hilados sencillos de nailon o demás poliamidas o de poliésteres...................................60 cN/tex.
+hilados sencillos de nailon o demás poliamidas o de poliésteres..........60 cN/tex.
 
-hilados retorcidos o cableados de nailon o demás poliamidas o de poliésteres ............53 cN/tex.
+hilados retorcidos o cableados de nailon o demás poliamidas o de poliésteres..........53 cN/tex.
 
-hilados sencillos, retorcidos o cableados de rayón viscosa ...........................................27 cN/tex.
+hilados sencillos, retorcidos o cableados de rayón viscosa..........27 cN/tex.
 
 7. En esta Sección, se entiende por confeccionados:
 
@@ -3080,9 +3086,7 @@ los productos que pasen por un tamiz con abertura de malla de 1 mm en proporció
 
 ij) Productos intermedios
 
-los productos de sección maciza obtenidos por colada continua, incluso con un laminado grosero en caliente; y
-
-los demás productos de sección maciza simplemente laminados groseramente en caliente o simplemente desbastados por forjado, incluidos los desbastes de perfiles.
+los productos de sección maciza obtenidos por colada continua, incluso con un laminado grosero en caliente; y los demás productos de sección maciza simplemente laminados groseramente en caliente o simplemente desbastados por forjado, incluidos los desbastes de perfiles.
 
 Estos productos no se presentan enrollados.
 
@@ -3236,7 +3240,9 @@ Zr Zirconio 0.3
 
 Los demás
 
-elementos *,cada uno 0.3
+elementos *,
+
+cada uno 0.3
 
 * Los demás elementos, por ejemplo: Al, Be, Co, Fe, Mn, Ni, Si.
 
@@ -4607,3 +4613,11 @@ D.O.F. 31 DE DICIEMBRE DE 2002.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El arancel ad-valorem establecido en el artículo 1o. de este Decreto, para la fracción arancelaria 9806.00.04, entrará en vigor cuando la Secretaría de Economía dé a conocer, mediante publicación en el Diario Oficial de la Federación, la lista de artículos que tendrán el beneficio de esta fracción arancelaria.
+
+D.O.F. 14 DE ENERO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El arancel establecido en el artículo 1o. de este Decreto para las fracciones arancelarias 1513.11.01, 1513.19.99, 1513.21.01 y 1513.29.99, estará vigente hasta el 31 de diciembre de 2003. A partir del 1o. de enero de 2004 y hasta el 30 de junio del mismo año, el arancel ad-valorem para las mencionadas fracciones arancelarias será de 35%. A partir del 1o. de julio de 2004 y hasta el 31 de diciembre del mismo año, el arancel ad-valorem para las fracciones arancelarias indicadas será de 25%. A partir del 1o. de enero de 2005 las fracciones arancelarias 1513.11.01 y 1513.21.01 estarán sujetas al pago de un arancel ad-valorem de 10%, mientras que las fracciones arancelarias 1513.19.99 y 1513.29.99 estarán sujetas al pago de un arancel ad-valorem de 20%.
+
+TERCERO.- El arancel establecido en el artículo 2o. de este Decreto para las fracciones arancelarias 0804.30.01 y 2008.20.01, estará vigente hasta el 30 de septiembre de 2003. A partir del 1o. de octubre de 2003, dichas fracciones arancelarias estarán sujetas al pago de un arancel ad-valorem de 23%.
