@@ -4,7 +4,7 @@ identifier: "FED-ley-que-autoriza-la-organizacion-y-funcionamiento-de-828"
 country: "mx"
 rank: "ley"
 publication_date: "1945-03-28"
-last_updated: "1945-03-28"
+last_updated: "1945-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=828&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1945-02-02"
 ---
 # LEY QUE AUTORIZA LA ORGANIZACION Y FUNCIONAMIENTO DE MATERNIDADES Y SERVICIOS DE MATERNIDAD
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL D.O.F. 22 DE MAYO DE 1945, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE AUTORIZA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE MATERNIDADES Y SERVICIOS DE MATERNIDAD
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 22 DE MAYO DE 1945.]</small>
 
 Ley publicada en la Sección Segunda del Diario Oficial, el 28 de marzo de 1945.
 
@@ -39,13 +39,17 @@ Que la disminución de la mortalidad y de la morbilidad materna, de la morti-nat
 
 Que especialmente en el Distrito Federal un número elevado de madres son atendidas durante el parto en instituciones particulares, privadas y oficiales;
 
-Que esas instituciones necesitan satisfacer requisitos para las garantías de la vida y de la salud de las madres y de los niños allí atendidos, requisitos que es urgente establecer en forma detallada y contratarlos de manera efectiva para realizar las finalidades a que se refiere el considerando primero, con fundamento en el decreto de 1° de junio de 1942, he tenido a bien expedir la siguiente
+> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1945)</small>
+
+Que esas instituciones necesitan satisfacer requisitos para la garantía de la vida y de la salud de las madres y de los niños allí atendidos, requisitos que es urgente establecer en forma detallada y contratarlos de manera efectiva para realizar las finalidades a que se refiere el considerando primero, con fundamento en el decreto de 1° de junio de 1942, he tenido a bien expedir la siguiente
 
 L E Y
 
 ### CAPITULO I. Maternidades y servicios de maternidad
 
-Autorización para su organización y fundamento
+> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1945)</small>
+
+Autorización para su organización y funcionamiento.
 
 ###### ARTICULO 1°.
 
@@ -133,7 +137,11 @@ Las Maternidades y Servicios de Maternidad dispondrán de las Enfermeras necesar
 
 Las Maternidades y Servicios de Maternidad acatarán, en todo caso, las disposiciones técnicas que dicte sobre su organización y funcionamiento la Secretaría de Salubridad y Asistencia.
 
+> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1945)</small>
+
 ### CAPITULO III
+
+Disposiciones generales.
 
 ###### ARTICULO 18.
 
@@ -175,17 +183,27 @@ Los reglamentos de esta ley señalarán el número máximo de visitantes permiti
 
 Los reglamentos de esta ley determinarán los requisitos técnicos que en forma básica deben cumplir las Maternidades y Servicios de Maternidad.
 
-ARTICULO 26 (SIC).- Las Maternidades tendrán una sala de operaciones, una sala de recién nacidos normales, una pieza para la preparación de fórmulas para la alimentación del recién nacido, un cuarto de aislamiento para niños infectados o sospechosos de estarlo y un servicio de Rayos X, de acuerdo con lo señalado al respecto por los reglamentos de esta ley y por las disposiciones administrativas de la Secretaría de Salubridad y Asistencia.
+> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1945)</small>
+
+###### ARTICULO 25.
+
+Las Maternidades tendrán una sala de operaciones, una sala de recién nacidos normales, una pieza para la preparación de fórmulas para la alimentación del recién nacido, un cuarto de aislamiento para niños infectados o sospechosos de estarlo y un servicio de Rayos X, de acuerdo con lo señalado al respecto por los reglamentos de esta ley y por las disposiciones administrativas de la Secretaría de Salubridad y Asistencia.
 
 ### CAPITULO IV. Sanciones y medidas de seguridad
 
-###### ARTICULO 27.
+> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1945)</small>
+
+###### ARTICULO 26.
 
 Las infracciones a la presente ley se sancionarán con multa de uno a cinco mil pesos, o en su defecto, con arresto que no excederá de quince días.
 
-Independientemente de las penas anteriores, podrá suspenderse o clausurarse una Maternidad o Servicio Maternidad, cuando a juicio de la Secretaría de Salubridad y Asistencia sean indispensables estas medidas de seguridad sanitaria.
+> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1945)</small>
 
-###### ARTICULO 28.
+Independientemente de las penas anteriores, podrá suspenderse o clausurarse una Maternidad o Servicio de Maternidad, cuando a juicio de la Secretaría de Salubridad y Asistencia sean indispensables estas medidas de seguridad sanitaria.
+
+> <small>(F. DE E., D.O.F. 22 DE MAYO DE 1945)</small>
+
+###### ARTICULO 27.
 
 La Secretaría de Salubridad y Asistencia podrá clausurar una Maternidad o Servicio de Maternidad, cuando la morbilidad o la mortalidad que se registren, sean índices de una técnica defectuosa o de una amenaza a la vida y a la salud de las madres o de los niños atendidos.
 
