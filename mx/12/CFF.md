@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1993-12-22"
+last_updated: "1993-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 1993.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 3 DE NOVIEMBRE DE 1993.
 
@@ -282,45 +282,29 @@ Se considera que la enajenación se efectúa en territorio nacional, entre otros
 
 Cuando de conformidad con este artículo se entienda que hay enajenación, el adquirente se considerará propietario de los bienes para efectos fiscales.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 14-A.
 
 Se entiende que no hay enajenación en los siguientes casos:
 
-I. En escisión, siempre que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un periodo de cuatro años contado a partir del primer año anterior a aquél en que se efectúe la escisión.
+I. En escisión, siempre que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un periodo de dos años contados a partir del año inmediato anterior a la fecha en que se presente el aviso correspondiente ante la autoridad fiscal en los términos del reglamento de este Código.
 
-No se incumple lo dispuesto en el párrafo anterior cuando se enajenen acciones a alguien que era propietario de alguna de las acciones con derecho a voto al inicio del periodo.
+No se incumple lo dispuesto en el párrafo anterior en el caso en que se enajenen acciones a personas que hayan sido propietarias de acciones con derecho a voto de la sociedad escindente al momento de la escisión, siempre que dichas personas no varíen su tenencia accionaria como porcentaje del capital social de las escindidas, en más de un 20% del que tenían en el capital social de la sociedad escindente al momento de la escisión.
 
-II. En fusión, siempre que los accionistas propietarios de las acciones con derecho a voto de la sociedad que surge con motivo de la misma, no las enajenen durante un periodo de tres años contado a partir del momento en que se efectúe la fusión.
+II. En fusión, siempre que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto de la sociedad que subsista o, en su caso, de la que surja con motivo de la misma, no las enajenen durante un periodo de un año contado a partir de la fecha en que se presente el aviso correspondiente ante la autoridad fiscal en los términos del reglamento de este Código.
 
-Cuando se realicen varias fusiones o escisiones sucesivas, los periodos señalados para cada fracción concluyen tres años después de efectuado el último acto.
+Para los efectos de las fracciones I y II de este artículo no se consideran como acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la legislación mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que no lo tengan limitado.
 
-Para efectos de este artículo no se consideran como acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la legislación mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que no lo tengan limitado.
+No se incumple con el requisito de permanencia accionaria previsto en las fracciones I y II de este artículo cuando la transmisión de propiedad de acciones sea por causa de muerte, liquidación, adjudicación judicial o donación, siempre que en este último caso se cumplan los requisitos establecidos en la fracción XXIV del artículo 77 de la Ley del Impuesto sobre la Renta. Para determinar el porcentaje del 51% a que se refieren las fracciones I y II de este artículo, se deberá considerar el total de las acciones con derecho a voto emitidas por la sociedad a la fecha de inicio del periodo, para el caso de escisión y, para el caso de fusión, a la fecha en la que la misma se efectúe, excluyendo las que se consideran colocadas entre el gran público inversionista y que hayan sido enajenadas a través de bolsa de valores autorizada o mercados de amplia bursatilidad, de acuerdo con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
 
-Lo dispuesto en este artículo no es aplicable a los establecimientos en México de sociedades extranjeras.
+III. En las operaciones de préstamos de títulos o valores por la entrega de los bienes prestados al prestatario y por la restitución de los mismos al prestamista, siempre que efectivamente se restituyan los bienes a más tardar al vencimiento de la operación y las mismas se realicen de conformidad con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 15.
 
-Arrendamiento financiero es el contrato por el cual se otorga el uso o goce temporal de bienes tangibles, siempre que se cumpla con los siguientes requisitos:
-
-I. Que se establezca un plazo forzoso que sea igual o superior al mínimo para deducir la inversión en los términos de las disposiciones fiscales o cuando el plazo sea menor, se permita a quien recibe el bien, que al término del plazo ejerza cualquiera de las siguientes opciones:
-
-a). Transferir la propiedad del bien objeto del contrato mediante el pago de una cantidad determinada, que deberá ser inferior al valor de mercado del bien al momento de ejercer la opción.
-
-b). Prorrogar el contrato por un plazo cierto durante el cual los pagos serán por un monto inferior al que se fijó durante el plazo inicial del contrato.
-
-c). Obtener parte del precio por la enajenación a un tercero del bien objeto del contrato.
-
-II. Que la contraprestación sea equivalente o superior al valor del bien al momento de otorgar su uso o goce.
-
-III. Que se establezca una tasa de interés aplicable para determinar los pagos y el contrato se celebre por escrito.
-
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-IV. Consignar expresamente en el contrato el valor del bien objeto de la operación y el monto que corresponda al pago de intereses.
+En las operaciones de arrendamiento financiero, el contrato respectivo deberá celebrarse por escrito y consignar expresamente el valor del bien objeto de la operación y la tasa de interés pactada o la mecánica para determinarla.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -353,6 +337,16 @@ V. Las de pesca que incluyen la cría, cultivo, fomento y cuidado de la reproduc
 VI. Las silvícolas que son las de cultivo de los bosques o montes, así como la cría, conservación, restrauración (sic), fomento y aprovechamiento de la vegetación de los mismos y la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
 
 Se considerará empresa la persona física o moral que realice las actividades a que se refiere este artículo y por establecimiento se entenderá cualquier lugar de negocios en el que se desarrollen, parcial o totalmente, las citadas actividades empresariales.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+
+###### Artículo 16-A.
+
+Se entiende por operaciones financieras derivadas aquéllas que se realizan en mercados reconocidos en las cuales una de las partes adquiere el derecho o la obligación a adquirir o enajenar a futuro mercancías, acciones, títulos, valores, divisas u otros bienes a un precio establecido al celebrarlas o a recibir o a pagar la diferencia entre dicho precio y el que tengan esos bienes a su vencimiento, o bien, el derecho o la obligación a celebrar una de estas operaciones. También se considerarán operaciones financieras derivadas aquellas que se realizan en mercados reconocidos en las que se liquidan diferencias entre los precios, índices o canastas de precios o tasas de interés convenidos al inicio de la operación y cuyo resultado depende de las fluctuaciones que tengan en el mercado a una fecha determinada los precios, índices o canastas de precios o tasas de interés pactadas.
+
+Asimismo, se consideran operaciones financieras derivadas, aquéllas en las que se enajenen en el mercado secundario los títulos de crédito en los que se contengan las operaciones antes mencionadas.
+
+Las operaciones financieras derivadas a que se refiere este artículo serán las que se efectúen con los instrumentos, en los mercados y con las condiciones que al efecto establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 > <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -452,9 +446,9 @@ IV. La indemnización a que se refiere el antepenúltimo párrafo del artículo 
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
-Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad del peso inmediata superior.
+Para determinar las contribuciones se considerarán, inclusive, las fracciones del nuevo peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -1312,7 +1306,7 @@ En el caso de que con motivo de sus facultades de comprobación, las autoridades
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-(SIC)Se tendrán los siguientes plazos para su presentación:
+(SIC) Se tendrán los siguientes plazos para su presentación:
 
 a). Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
 
@@ -1448,7 +1442,9 @@ I. El importe determinado de adquisición, incluyendo el precio pactado y las co
 
 II. La cantidad resultante se sumará al importe determinado de adquisición y la suma será el valor de la enajenación.
 
-El por ciento de utilidad bruta se obtendrá de los datos contenidos en la declaración del impuesto sobre la renta del contribuyente en el ejercicio de que se trate o de la última que hubiera presentado para ese efecto, y se determinará dividiendo la utilidad bruta declarada entre el costo declarado. A falta de declaración se entenderá que la utilidad bruta es de 50%.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+
+El porciento de utilidad bruta se obtendrá de los datos contenidos en la contabilidad del contribuyente en el ejercicio de que se trate y se determinará dividiendo dicha utilidad bruta entre el costo que determine o se le determine al contribuyente. Para los efectos de lo previsto por esta fracción, el costo se determinará según los principios de contabilidad generalmente aceptados. En el caso de que el costo no se pueda determinar se entenderá que la utilidad bruta es de 50%.
 
 La presunción establecida en este artículo no se aplicará cuando el contribuyente demuestre que la falta de registro de las adquisiciones fue motivada por caso fortuito o fuerza mayor.
 
@@ -1493,12 +1489,6 @@ Las copias o reproducciones que deriven del microfilm o disco óptico de documen
 ###### Artículo 64.
 
 Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas:
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-I. Determinarán, en primer lugar, las contribuciones omitidas en los ejercicios terminados en 1990, 1991 y 1992, por los que se hubiera o debió haber sido presentada la declaración, a más tardar el día anterior a aquél en que se ejerzan la (sic) facultades de comprobación, así como las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación del último ejercicio y el momento en que se ejerzan la (sic) citadas facultades.
-
-> <small>N. DE E. EL PRESENTE PARRAFO FUE REFORMADO POR EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 17 DE DICIEMBRE DE 1990 Y PUBLICADO EN EL D.O.F. SEÑALADO, PARA INICIAR SU VIGENCIA A PARTIR DEL 1 DE ENERO DE 1994.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -2470,9 +2460,7 @@ El delito de contrabando se sancionará con pena de prisión:
 
 I. De tres meses a seis años, si el monto de los impuestos omitidos no excede de $30,000,000.00.
 
-> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 1993)</small>
-
-La misma pena se aplicará en los casos en que no se realice la declaración a que se refiere la fracción X del artículo 105 de este Código.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 > <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
@@ -2516,13 +2504,15 @@ VIII. Enajene o adquiera por cualquier título, vehículos importados definitiva
 
 IX. Retire de la aduana, envases que contengan bebidas alcohólicas que no tengan adheridos los marbetes a que obligan las disposiciones legales.
 
-> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 1993)</small>
-
-X. No declare en la aduana a la entrada al país, que lleva consigo cantidades en efectivo o en cheques, o una combinación de ambos, superiores a los N$60,000.00, o su equivalente en moneda extranjera.
+X. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1993)
 
 > <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 1993)</small>
 
 XI. Introduzca mercancías a otro país desde el territorio nacional omitiendo el pago total o parcial de los impuestos al comercio exterior que en ese país correspondan.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+
+La persona que no declare en la aduana a la entrada al país que lleva consigo cantidades en efectivo o en cheques, o una combinación de ambas, superiores al equivalente en la moneda o monedas de que se trate a veinte mil dólares de los Estados Unidos de América se le sancionará con pena de prisión de tres meses a seis años. En caso de que dicte sentencia condenatoria por autoridad competente respecto de la comisión del delito a que se refiere este párrafo, el excedente de la cantidad antes mencionada pasará a ser propiedad del fisco federal.
 
 ###### Artículo 106.
 
@@ -3852,7 +3842,7 @@ La demanda deberá indicar:
 
 > <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
-I. El nombre, domicilio fiscal y en su caso, clave en el registro federal de contribuyentes y domicilio para recibir notificaciones del demandante
+I. El nombre, domicilio fiscal y en su caso, clave en el registro federal de contribuyentes y domicilio para recibir notificaciones del demandante.
 
 II. La resolución que se impugna.
 
@@ -4454,7 +4444,7 @@ II. La que mande citar a los testigos o a un tercero.
 
 III. El requerimiento a la parte que debe cumplirlo.
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADa, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 IV. El auto de la Sala Regional que dé a conocer a las partes que el juicio será resuelto por la Sala Superior.
 
@@ -4608,7 +4598,7 @@ La presente Ley entrará en vigor en toda la República el día 1o. de enero de 
 
 ARTICULO DECIMOCUARTO.- En tanto se expide el Reglamento del Código Fiscal de la Federación para determinar los gastos de ejecución a que se refiere el artículo 150 de dicho Código, se estará a lo establecido en el Reglamento para el Cobro y Aplicación de Gastos de Ejecución y Pago de Honorarios por Notificación de Créditos.
 
-..
+...
 
 ARTICULO CUADRAGESIMO.- A partir del año de 1983 la Secretaría de Hacienda y Crédito Público iniciará un programa de comprobación permanente del cumplimiento de las obligaciones fiscales de los contribuyentes más importantes del país, incluyendo tanto a las empresas públicas como a las privadas. Para este efecto la Secretaría de Hacienda realizará visitas domiciliarias continuas o periódicas, según amerite la situación fiscal del contribuyente y su importancia en relación con la recaudación.
 
@@ -5073,3 +5063,15 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
 
 SEGUNDO.- La reforma al inciso (b) de la fracción I del Artículo 52 del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1996.
+
+D.O.F. 29 DE DICIEMBRE DE 1993.
+
+DISPOSICIONES TRANSITORIAS DEL CODIGO FISCAL DE LA FEDERACION
+
+###### ARTICULO PRIMERO
+
+BIS.- Lo dispuesto en el artículo 14-A podrá aplicarse desde el 1o. de enero de 1993, siempre que la fusión o escisión de que se trate se haya realizado durante 1993 y se haya presentado el aviso respectivo.
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
