@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-tramitacion-de-los-procedimientos-para-23276
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-12"
-last_updated: "2002-08-16"
+last_updated: "2003-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23276&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-12"
 
 REGLAMENTO PARA LA TRAMITACION DE LOS PROCEDIMIENTOS PARA EL CONOCIMIENTO DE LAS FALTAS Y APLICACION DE SANCIONES ADMINISTRATIVAS ESTABLECIDAS EN EL TITULO QUINTO DEL LIBRO QUINTO DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MARZO DE 2003.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de febrero de 2002.
 
@@ -97,13 +97,19 @@ REGLAMENTO DEL CONSEJO GENERAL PARA LA TRAMITACION DE LOS PROCEDIMIENTOS PARA EL
 
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 1
 
-El presente Reglamento tiene por objeto regular el procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas del Libro Quinto del Título Quinto y demás disposiciones relativas del Código Federal de Instituciones y Procedimientos Electorales. Su interpretación se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución.
+1. El presente Reglamento tiene por objeto regular el procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas del Libro Quinto del Título Quinto y demás disposiciones relativas del Código Federal de Instituciones y Procedimientos Electorales. Su interpretación se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 2
 
-El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas, tiene por finalidad determinar la existencia de dichas faltas y la responsabilidad en materia administrativa mediante la valoración de los medios de prueba e indicios que obren en el expediente y, en su caso, de la investigación oportuna e imparcial de los hechos que originaron el procedimiento.
+1. El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas, tiene por finalidad determinar la existencia de dichas faltas y la responsabilidad en materia administrativa mediante la valoración de los medios de prueba e indicios que obren en el expediente y, en su caso, de la investigación oportuna e imparcial de los hechos que originaron el procedimiento.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 3
 
@@ -111,9 +117,11 @@ Artículo 3
 
 2. Son órganos competentes para la aplicación del procedimiento el Consejo General, la Comisión de Proyectos de Resolución o Devolución, la Junta General Ejecutiva, la Secretaría Ejecutiva, las Juntas Locales y Distritales Ejecutivas, y los Vocales Ejecutivos Locales y Distritales, en sus respectivos ámbitos de competencia. Los Vocales Secretarios correspondientes auxiliarán a los Vocales Ejecutivos en las tareas respectivas.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 4
 
-Para los efectos del presente Reglamento, se entenderá:
+1. Para los efectos del presente Reglamento, se entenderá:
 
 a) Por cuanto a los ordenamientos jurídicos:
 
@@ -139,7 +147,7 @@ IV. Comisión: Comisión de Proyectos de Resolución o Devolución;
 
 V. Junta: Junta General Ejecutiva;
 
-VI. Secretario: Secretario Ejecutivo;
+VI. Secretario: Secretario de la Junta General Ejecutiva;
 
 VII. Juntas Locales: Juntas Locales Ejecutivas;
 
@@ -159,17 +167,21 @@ III. Quejoso o denunciante: Persona que formula el escrito de queja o denuncia, 
 
 IV. Denunciado: Persona que se señale como probable responsable de los actos u omisiones motivo del procedimiento.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 5
 
-Para efectos del presente Reglamento, el cómputo de los plazos se hará tomando solamente en cuenta los días laborables, debiendo entenderse por tales, todos los días a excepción de los sábados, los domingos, los no laborables en términos de ley y aquéllos en los que no haya actividades en el Instituto. Los plazos se computarán de momento a momento, y si están señalados por días, éstos se entenderán de veinticuatro horas. Durante el proceso electoral federal, todos los días y horas se considerarán laborables.
+1. Para efectos del presente Reglamento, el cómputo de los plazos se hará tomando solamente en cuenta los días laborables, debiendo entenderse por tales, todos los días a excepción de los sábados, los domingos, los no laborables en términos de ley y aquellos en los que no haya actividades en el Instituto. Los plazos se computarán de momento a momento, y si están señalados por días, éstos se entenderán de veinticuatro horas. Durante el proceso electoral federal, todos los días y horas se considerarán laborables.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 6
 
-1. En cada sesión ordinaria del Consejo, el Secretario rendirá un informe de las quejas o denuncias recibidas, así como una síntesis de los trámites realizados para la sustanciación de las mismas.
+1. En cada sesión ordinaria del Consejo, el Secretario del Consejo rendirá un informe de las quejas o denuncias recibidas, así como una síntesis de los trámites realizados para la sustanciación de las mismas.
 
 2. Los Vocales Ejecutivos rendirán un informe mensual a la Secretaría Ejecutiva sobre la recepción y trámite de las quejas o denuncias presentadas en sus respectivos ámbitos de competencia.
 
-3. En proceso electoral, en cada sesión ordinaria de los Consejos, los presidentes informarán sobre la recepción y trámite de las quejas o denuncias presentadas en sus respectivos ámbitos de competencia.
+3. En proceso electoral, en cada sesión ordinaria de los Consejos, los presidentes informarán sobre la recepción y trámite de las queja (sic) o denuncias presentadas en sus respectivos ámbitos de competencia.
 
 4. En los informes se incluirán los procedimientos administrativos iniciados de oficio.
 
@@ -179,17 +191,25 @@ DEL PROCEDIMIENTO PARA EL CONOCIMIENTO DE LAS FALTAS COMETIDAS POR PARTIDOS POLI
 
 ### CAPITULO PRIMERO. DEL TRAMITE INICIAL
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 7
 
-El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas cometidas por partidos políticos, agrupaciones políticas nacionales, observadores electorales y organizaciones a las que pertenezcan los observadores, a que se refieren los artículos 264, párrafos 1 y 2, así como 269 del Código, iniciará a petición de parte o de oficio. Será de parte cuando el quejoso o denunciante haga del conocimiento del Instituto la presunta comisión de una falta administrativa, y de oficio cuando algún órgano o servidor del Instituto, en ejercicio de sus funciones, conozca de la presunta falta e informe de ello al Secretario o cuando éste lo haya iniciado.
+1. El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas cometidas por partidos políticos, agrupaciones políticas nacionales, observadores electorales y organizaciones a las que pertenezcan los observadores, a que se refieren los artículos 264, párrafos 1 y 2, así como 269 del Código, iniciará a petición de parte o de oficio. Será de parte cuando el quejoso o denunciante haga del conocimiento del Instituto la presunta comisión de una falta administrativa, y de oficio cuando algún órgano o servidor del Instituto, en ejercicio de sus funciones, conozca de la presunta falta e informe de ello al Secretario Ejecutivo o cuando éste lo haya iniciado.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 8
 
-Toda persona podrá presentar quejas o denuncias por presuntas violaciones a la normatividad electoral ante los órganos centrales, delegacionales o subdelegacionales del Instituto; las personas jurídicas lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable, y las personas físicas lo harán por su propio derecho.
+1. Toda persona podrá presentar quejas o denuncias por presuntas violaciones a la normatividad electoral ante los órganos centrales, delegacionales o subdelegacionales del Instituto; las personas jurídicas lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable, y las personas físicas lo harán por su propio derecho.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 9
 
-La autoridad electoral orientará a la ciudadanía sobre el trámite de las quejas o denuncias, para lo cual facilitará formatos para la presentación de las mismas.
+1. La autoridad electoral orientará a la ciudadanía sobre el trámite de las quejas o denuncias, para lo cual facilitará formatos para la presentación de las mismas.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 10
 
@@ -203,51 +223,39 @@ II. Domicilio para oír y recibir notificaciones;
 
 III. Los documentos que sean necesarios para acreditar la personería. Tratándose de partidos o agrupaciones políticas no será necesario el cumplimiento de este requisito si tienen acreditada su personería ante los órganos del Instituto;
 
-IV. Narración expresa y clara de los hechos en que se basa la queja o denuncia y, de ser posible, los preceptos presuntamente violados, y
+IV. En el caso de que la queja o denuncia verse sobre presuntas violaciones a la normatividad interna de un partido político o agrupación política, el quejoso o denunciante deberá acreditar su pertenencia a éste o su interés jurídico, en el escrito con el que comparezca;
 
-V. Ofrecer o aportar las pruebas o indicios con que se cuente.
+V. Narración expresa y clara de los hechos en que se basa la queja o denuncia y, de ser posible, los preceptos presuntamente violados, y
 
-b) Al presentarse una queja o denuncia en forma oral, el servidor del Instituto que tome conocimiento de su interposición deberá hacerla constar en un acta, misma que, una vez concluido su levantamiento, deberá ser ratificada en todos sus términos por el quejoso.
+VI. Ofrecer o aportar las pruebas o indicios con que se cuente.
 
-c) Las quejas o denuncias presentadas por medios de comunicación eléctricos o electrónicos, deberán ratificarse por escrito en un plazo no mayor de 5 días contados a partir de su presentación.
+b) El servidor del Instituto que tome conocimiento de la interposición de una queja o denuncia en forma oral deberá hacerla constar en un acta, misma que, una vez concluido su levantamiento, deberá ser ratificada en todos sus términos por el quejoso. Invariablemente los partidos políticos y agrupaciones políticas deberán presentar las quejas o denuncias por escrito.
 
-2. En caso de que los representantes partidistas, agrupaciones políticas o personas jurídicas no acrediten su personería, la queja o denuncia se tendrá como presentada por su propio derecho.
+2. En caso de que los representantes no acrediten su personería, la queja o denuncia se tendrá como presentada por su propio derecho.
 
 3. El escrito inicial de queja o denuncia será considerado por la Junta para determinar si del mismo se desprenden indicios suficientes de conformidad con el artículo 21 del presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 11
 
-Recibida la queja o denuncia por cualquier órgano del Instituto, deberá ser remitida de inmediato al Secretario para su trámite. En los casos en que se requiera de la ratificación por parte del quejoso, la queja o denuncia será remitida una vez ratificada o, en su caso, cuando haya concluido el plazo para ello.
+1. Recibida la queja o denuncia por cualquier órgano del Instituto, deberá ser remitida de inmediato al Secretario Ejecutivo para su trámite. En los casos en que se requiera de la ratificación por parte del quejoso, la queja o denuncia será remitida una vez ratificada o, en su caso, cuando haya concluido el plazo para ello.
 
-Los órganos desconcentrados del Instituto que reciban una queja o denuncia, sin perjuicio de su remisión inmediata al Secretario, deberán tomar todas las medidas pertinentes en aquellos casos en que de los hechos narrados en la queja, se desprendan situaciones que pueden ser resueltas por éstos dentro del ámbito de sus atribuciones. En ningún caso, estas medidas implicarán inicio de la investigación antes de que lo ordene el Secretario Ejecutivo.
+2. Los órganos desconcentrados del Instituto que reciban una queja o denuncia, en materia de propaganda, sin perjuicio de su remisión inmediata al Secretario Ejecutivo, deberán tomar todas las medidas pertinentes en aquellos casos en que de los hechos narrados en la queja, se desprendan situaciones que puedan ser resueltas por éstos conforme a las atribuciones que les confiere el artículo 189, párrafo 3 y demás disposiciones del Código.
+
+3. Adicionalmente, los órganos desconcentrados que reciban una queja o denuncia sobre cualquier materia, deberán realizar todas aquellas acciones necesarias para constatar hechos, impedir el ocultamiento, menoscabo o destrucción de indicios o pruebas, así como para allegarse de elementos probatorios adicionales.
+
+4. En ningún caso, estas medidas implicarán inicio de la investigación antes de que lo ordene el Secretario Ejecutivo.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 12
 
-La Secretaría Ejecutiva podrá prevenir al quejoso para que aclare la queja o denuncia presentada, señalando las omisiones de ésta en aquellos casos en que no se cumpla con lo dispuesto por la fracción IV, inciso a), párrafo 1, del artículo 10 del presente Reglamento, con el apercibimiento de que si no cumple en el término de 3 días contados a partir de la notificación del requerimiento respectivo, la queja o denuncia será desechada.
+1. El Secretario podrá prevenir al quejoso para que aclare la queja o denuncia presentada, señalando las omisiones de ésta en aquellos casos en que no se cumpla con lo dispuesto por el párrafo 1, inciso a), fracciones IV o V del artículo 10 del presente Reglamento, con el apercibimiento de que si no cumple en el término de 3 días contados a partir de la notificación del requerimiento respectivo, la queja o denuncia será desechada.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 13
-
-La queja o denuncia será desechada cuando:
-
-a) El escrito no cuente con la firma autógrafa o huella digital del quejoso;
-
-b) Presentada oralmente o por cualquier medio de comunicación eléctrico o electrónico, no se hubiese ratificado por escrito en el plazo que se establece para tal efecto en el presente Reglamento;
-
-c) Resulte frívola, es decir, los hechos o argumentos resulten intrascendentes, superficiales, pueriles o ligeros;
-
-d) No se hubiesen ofrecido o aportado pruebas ni indicios en términos del artículo 10 del presente Reglamento;
-
-e) El denunciado sea un partido o agrupación política que, con fecha anterior a la presentación de la queja o denuncia, hubiese perdido su registro, sin perjuicio de las investigaciones que se pudieran llevar a cabo para deslindar responsabilidades;
-
-f) El denunciado no se encuentre dentro de los sujetos previstos dentro del Libro Quinto del Título Quinto del Código.
-
-Artículo 14
-
-1. En caso de existir alguna de las causales que establece el artículo anterior, el Secretario dictará un acuerdo por el que se proponga a la Junta el desechamiento de la queja o denuncia.
-
-2. De no existir alguna causal de desechamiento, el Secretario procederá a emitir el acuerdo de Admisión de la queja o denuncia.
-
-Artículo 15
 
 1. Recibida la queja o denuncia por la Secretaría Ejecutiva, procederá a:
 
@@ -257,45 +265,89 @@ b) Su análisis para determinar la admisión o desechamiento de la misma, y
 
 c) En su caso, determinar y solicitar las diligencias necesarias para el desarrollo de la investigación.
 
-2. Para efecto de lo dispuesto en el párrafo anterior, la Secretaría contará con un plazo de 5 días para emitir el acuerdo de admisión o propuesta de desechamiento. Dicho plazo se computará a partir de la recepción de la queja o denuncia en la Secretaría Ejecutiva, o en el caso de que se hubiese prevenido al quejoso, a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
+2. Para efecto de lo dispuesto en el párrafo anterior, el Secretario contará con un plazo de 5 días para emitir el acuerdo de admisión o propuesta de desechamiento. Dicho plazo se computará a partir de la recepción de la queja o denuncia en la Secretaría Ejecutiva, o en el caso de que se hubiese prevenido al quejoso, a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
+Artículo 14
+
+1. Admitida la queja o denuncia, el Secretario procederá a emplazar al denunciado, así como a iniciar, en su caso, la investigación correspondiente.
+
+2. En el escrito de contestación al emplazamiento deberá cumplirse con los mismos requisitos que prevén, para el caso del escrito de queja o denuncia, las fracciones I, II, III y VI, párrafo 1, inciso a) del artículo 10 del presente Reglamento.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MARZO DE 2003)</small>
+
+### CAPITULO SEGUNDO. DE LA IMPROCEDENCIA, DESECHAMIENTO Y SOBRESEIMIENTO
+
+(REUBICADO Y REFORMADO, D.O.F. 10 DE MARZO DE 2003)
+
+Artículo 15
+
+1. La queja o denuncia será desechada de plano, por notoria improcedencia cuando:
+
+a) El escrito no cuente con el nombre, la firma autógrafa o huella digital del quejoso;
+
+b) Presentada oralmente o por cualquier medio de comunicación eléctrico o electrónico, no se hubiese ratificado por escrito en el plazo que se establece para tal efecto en el presente Reglamento;
+
+c) El denunciado sea un partido o agrupación política que, con fecha anterior a la presentación de la queja o denuncia, hubiese perdido su registro, sin perjuicio de las investigaciones que se pudieran llevar a cabo para deslindar responsabilidades;
+
+d) El denunciado no se encuentre dentro de los sujetos previstos dentro del Libro Quinto del Título Quinto del Código, y
+
+e) Resulte frívola, es decir, los hechos o argumentos resulten intrascendentes, superficiales, pueriles o ligeros.
+
+2. La queja o denuncia será improcedente cuando:
+
+a) No se hubiesen ofrecido o aportado pruebas ni indicios en términos del artículo 10 del presente Reglamento;
+
+b) Tratándose de quejas o denuncias que versen sobre presuntas violaciones a la normatividad interna de un partido político o agrupación política, el quejoso o denunciante no acredite su pertenencia a éstos o su interés jurídico;
+
+c) El quejoso o denunciante no agote previamente las instancias internas del partido o agrupación política denunciado si la queja versa sobre presuntas violaciones a su normatividad interna;
+
+d) Por actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia que cuente con resolución del Consejo respecto al fondo y ésta no se haya impugnado ante el Tribunal Electoral del Poder Judicial de la Federación o habiendo sido impugnada, hubiese sido confirmada por el mismo Tribunal;
+
+e) Por la materia de los actos o hechos denunciados, aun y cuando se llegaran a acreditar, o por los sujetos denunciados, el Instituto resulte incompetente para conocer de los mismos; o cuando los actos, hechos u omisiones no constituyan violaciones al Código, y
+
+f) De las faltas denunciadas o de los hechos narrados por el quejoso o denunciante se desprendan únicamente presuntas violaciones a la legislación electoral de las entidades federativas.
+
+(REUBICADO Y REFORMADO, D.O.F. 10 DE MARZO DE 2003)
 
 Artículo 16
 
-Admitida la queja o denuncia, el Secretario procederá a emplazar al denunciado, así como a iniciar, en su caso, la investigación correspondiente.
+1. En caso de existir alguna de las causales que establece el artículo anterior, el Secretario elaborará un proyecto de dictamen por el que se proponga a la Junta el desechamiento de la queja o denuncia.
 
-En el escrito de contestación al emplazamiento deberá cumplirse con los mismos requisitos que prevén, para el caso del escrito de queja o denuncia, las fracciones I, II, III y V, párrafo 1, inciso a) del artículo 10 del presente reglamento.
+2. En caso de no actualizarse lo dispuesto en el párrafo anterior, el Secretario procederá a emitir el acuerdo de Admisión de la queja o denuncia.
 
-### CAPITULO SEGUNDO. DE LA IMPROCEDENCIA Y SOBRESEIMIENTO
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 17
 
-La queja o denuncia será improcedente:
+1. Procederá el sobreseimiento de la queja o denuncia, cuando:
 
-a) Contra actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia que cuente con resolución del Consejo respecto al fondo y ésta no se haya impugnado ante el Tribunal Electoral del Poder Judicial de la Federación o habiendo sido impugnada, hubiese sido confirmada por el mismo Tribunal, y
+a) Habiendo sido admitida la queja, sobrevenga alguna de las causales de improcedencia en términos del artículo 15;
 
-b) Cuando por la materia de los actos o hechos denunciados, aun y cuando se llegaran a acreditar, o por los sujetos denunciados, el Instituto resulte incompetente para conocer de los mismos; o cuando los actos, hechos u omisiones no constituyan violaciones al Código.
+b) El denunciado sea un partido o agrupación política que, con posterioridad a la admisión de la queja o denuncia, hubiese perdido su registro, y
+
+c) El denunciante presente escrito de desistimiento, siempre y cuando dicho escrito se presente antes de la aprobación del dictamen por parte de la Junta, y que a juicio de ésta, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
+
+d) Durante su tramitación se acredite que los actos o resoluciones emitidos por el partido o agrupación política denunciado respecto de su vida interna, se encuentren apegados al debido proceso establecido en su normatividad interna.
+
+2. El Secretario Ejecutivo en los casos señalados en los incisos b), c) y d) del párrafo anterior, valorará si, independientemente del correspondiente sobreseimiento, ha de iniciar oficiosamente un nuevo procedimiento disciplinario.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 18
 
-1. Procederá el sobreseimiento de la queja o denuncia cuando:
+1. Cuando se actualice alguno de los supuestos de sobreseimiento a que se refiere el artículo anterior, el Secretario elaborará el proyecto de dictamen proponiendo lo conducente, el cual será sometido a la aprobación de la Junta.
 
-a) Exista una de las causales de improcedencia en términos del artículo anterior;
-
-b) El denunciado sea un partido o agrupación política que, con posterioridad a la admisión de la queja o denuncia, hubiese perdido su registro;
-
-> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2002)</small>
-
-c) El denunciante presente escrito de desistimiento, siempre y cuando dicho escrito se presente antes de la aprobación del dictamen por parte de la Junta y que a juicio de ésta, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
-
-2. En los casos señalados en los incisos b) y c) del párrafo anterior, la autoridad competente valorará si, independientemente del correspondiente sobreseimiento, el Instituto ha de iniciar oficiosamente un nuevo procedimiento disciplinario.
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 19
 
-1. Cuando se actualice alguno de los supuestos de improcedencia o sobreseimiento a que se refieren los artículos anteriores, el Secretario elaborará el proyecto de dictamen proponiendo lo conducente, el cual será sometido a la aprobación de la Junta.
-
-2. Las causales de improcedencia, sobreseimiento y desechamiento deberán ser examinadas de oficio.
+1. Las causales de improcedencia que produzcan el desechamiento o sobreseimiento de la queja deberán ser examinadas de oficio.
 
 ### CAPITULO TERCERO. DE LA ACUMULACION
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 20
 
@@ -307,17 +359,23 @@ b) Conexidad, entendida como la relación entre dos o más procedimientos por pr
 
 c) La vinculación de dos o más expedientes de procedimientos porque existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma cosa y provengan de una misma causa.
 
-2. De oficio o a petición de parte, el Secretario podrá determinar la acumulación de expedientes desde el momento de acordar la admisión y hasta antes de la aprobación del dictamen por parte de la Junta, debiendo notificar al denunciado y, en su caso, al quejoso, para que dentro del plazo de 3 días manifiesten lo que a su derecho convenga.
+2. De oficio o a petición de parte, el Secretario podrá determinar la acumulación de expedientes desde el momento de acordar la admisión y hasta antes de la aprobación del dictamen por parte de la Junta. Previamente a la emisión del acuerdo de acumulación, el Secretario deberá notificar dicha posibilidad al denunciado y, en su caso, al quejoso, para que dentro del plazo de 3 días manifiesten lo que a su derecho convenga.
 
 ### CAPITULO CUARTO. DE LAS PRUEBAS
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 21
 
-Con el escrito de queja o denuncia se ofrecerán o aportarán las pruebas o indicios con que se cuente. Cuando la Junta considere que de la relación de hechos se desprenden indicios suficientes, admitirá la queja o denuncia y procederá a emplazar al denunciado y a iniciar la investigación correspondiente.
+1. Con el escrito de queja o denuncia se ofrecerán o aportarán las pruebas o indicios con que se cuente. Cuando la Junta considere que de la relación de hechos se desprenden indicios suficientes, admitirá la queja o denuncia y procederá a emplazar al denunciado y a iniciar la investigación correspondiente.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 22
 
-El escrito de contestación al emplazamiento deberá acompañarse de las pruebas con que se cuente, de conformidad con el artículo 271 del Código.
+1. El escrito de contestación al emplazamiento deberá acompañarse de las pruebas con que se cuente, de conformidad con el artículo 271 del Código.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 23
 
@@ -327,15 +385,17 @@ Artículo 23
 
 3. Para ambos efectos, el oferente deberá identificar con toda precisión dichas pruebas.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 24
 
 1. El quejoso o el denunciado podrá aportar pruebas supervenientes, es decir, aquellas cuya existencia se dio después del plazo legal en que deban ofrecerse pruebas, o las existentes desde entonces, pero que el denunciado o, en su caso, el quejoso, no pudieron ofrecer o aportar por desconocerlas o por existir obstáculos que no estaban a su alcance superar; siempre y cuando se aporten las pruebas supervenientes antes del cierre de la instrucción de acuerdo con lo señalado en el artículo 42, párrafo 2, de este Reglamento.
 
 2. Admitida una prueba superveniente, se dará vista al quejoso o denunciado, según corresponda, para que en el plazo de 5 días manifieste lo que a su derecho convenga.
 
-3. El Consejo podrá admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que
+3. El Consejo podrá admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del dictamen y se aporten hasta 24 horas antes del inicio de la sesión respectiva. Asimismo, el Consejo podrá admitir aquellos elementos que, habiendo sido solicitados por los órganos del Instituto dentro de la investigación correspondiente, no se hubiesen recibido sino hasta 24 horas antes de la sesión respectiva. En estos casos el Consejo ordenará la devolución del expediente a la Junta para los efectos del artículo 42 del presente Reglamento.
 
-se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del dictamen y se aporten hasta 24 horas antes del inicio de la sesión respectiva. Asimismo, el Consejo podrá admitir aquellos elementos que, habiendo sido solicitados por los órganos del Instituto dentro de la investigación correspondiente, no se hubiesen recibido sino hasta 24 horas antes de la sesión respectiva. En estos casos el Consejo ordenará la devolución del expediente a la Junta para los efectos del artículo 42 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 25
 
@@ -345,13 +405,17 @@ Artículo 25
 
 3. Tanto la Junta como el Consejo podrán invocar los hechos notorios aunque no hayan sido alegados por el denunciado o por el quejoso.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 26
 
-Las pruebas deben ofrecerse expresando con toda claridad cuál es el hecho o hechos que se tratan de acreditar con las mismas, así como las razones por las que se estima que demostrarán las afirmaciones vertidas.
+1. Las pruebas deben ofrecerse expresando con toda claridad cuál es el hecho o hechos que se tratan de acreditar con las mismas, así como las razones por las que se estima que demostrarán las afirmaciones vertidas.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 27
 
-Sólo serán admitidas las siguientes pruebas:
+1. Sólo serán admitidas las siguientes pruebas:
 
 a) Documentales públicas;
 
@@ -365,6 +429,8 @@ e) Presuncional legal y humana, y
 
 f) Instrumental de actuaciones.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 28
 
 1. Serán documentales públicas:
@@ -377,23 +443,33 @@ c) Los documentos expedidos por quienes estén investidos de fe pública de acue
 
 2. Podrán ser ofrecidas documentales que contengan declaraciones que consten en acta levantada ante Fedatario Público que las haya recibido directamente de los declarantes, siempre y cuando estos últimos queden debidamente identificados y asentada la razón de su dicho. Su valoración se realizará en términos del artículo 35, párrafo 3 del presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 29
 
-Serán documentales privadas todos los demás documentos que no reúnan los requisitos señalados en el artículo anterior.
+1. Serán documentales privadas todos los demás documentos que no reúnan los requisitos señalados en el artículo anterior.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 30
 
-1. Preferentemente se aportarán las pruebas junto con el escrito en el que se comparezca al procedimiento, señalándose aquellas que obren en poder de otras autoridades o particulares, a efecto de que sean requeridas por el Instituto e integradas al expediente.
+1. Se aportarán las pruebas junto con el escrito en el que se comparezca al procedimiento. Aquellas que obren en poder de otras autoridades o particulares, deberán señalarse a efecto de que sean requeridas por el Instituto e integradas al expediente siempre que acredite que solicitó oportunamente por escrito al órgano competente y no le fue entregada.
 
 2. En aquellos casos en que se ofrezcan copias simples de documentales públicas o privadas, y cuando esto sea posible, deberá señalarse el lugar donde se localiza el original, con el objeto de que la autoridad instructora ordene su cotejo, solicite los originales o la certificación de las mismas, cuando sea necesario para generar convicción de los hechos materia de la investigación.
 
+3. El párrafo anterior no será aplicable si las pruebas documentales obran en poder del oferente, en cuyo caso deberán ser aportadas en original o en copia certificada, mismas que serán devueltas previo su cotejo a solicitud del oferente.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 31
 
-Se considerarán pruebas técnicas las fotografías, los medios de reproducción de audio y video, así como todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogados sin necesidad de peritos o instrumentos, accesorios, aparatos o maquinaria que no estén al alcance de la Junta. En todo caso, el quejoso o denunciante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
+1. Se considerarán pruebas técnicas las fotografías, los medios de reproducción de audio y video, así como todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogados sin necesidad de peritos o instrumentos, accesorios, aparatos o maquinaria que no estén al alcance de la Junta. En todo caso, el quejoso o denunciante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 32
 
-La prueba pericial contable podrá ser ofrecida y admitida, en su caso, cuando sean necesarios conocimientos especiales en la materia y cuando su desahogo sea posible en los plazos establecidos. Para su ofrecimiento deberán cumplirse los siguientes requisitos:
+1. La prueba pericial contable podrá ser ofrecida y admitida, en su caso, cuando sean necesarios conocimientos especiales en la materia y cuando su desahogo sea posible en los plazos establecidos. Para su ofrecimiento deberán cumplirse los siguientes requisitos:
 
 a) Ser ofrecida junto con el escrito de queja o denuncia o contestación;
 
@@ -403,17 +479,23 @@ c) Especificar lo que se pretenda acreditar con la misma, y
 
 d) Señalar el nombre del perito que se proponga y acreditar que cuenta con título profesional en materia contable o en área afín.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 33
 
-Las presunciones son los razonamientos y valoraciones de carácter deductivo o inductivo por los cuales la autoridad llega al conocimiento de hechos primeramente desconocidos a partir de la existencia de un hecho conocido y pueden ser:
+1. Las presunciones son los razonamientos y valoraciones de carácter deductivo o inductivo por los cuales la autoridad llega al conocimiento de hechos primeramente desconocidos a partir de la existencia de un hecho conocido y pueden ser:
 
 a) Legales: las establecidas expresamente por la ley, o
 
 b) Humanas: las que no se encuentran previstas legalmente y se infieran de razonamientos lógicos.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 34
 
-La instrumental de actuaciones es el medio de convicción que se obtiene al analizar el conjunto de las constancias que obran en el expediente.
+1. La instrumental de actuaciones es el medio de convicción que se obtiene al analizar el conjunto de las constancias que obran en el expediente.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 35
 
@@ -421,9 +503,7 @@ Artículo 35
 
 2. Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
 
-3. Las pruebas documentales privadas, técnicas, periciales, presuncionales e instrumental de actuaciones, así como las citadas en el artículo 28, párrafo 2 del presente Reglamento sólo harán prueba plena cuando a juicio del órgano competente para resolver, generen convicción sobre la veracidad de los hechos alegados, con los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan
-
-entre sí.
+3. Las pruebas documentales privadas, técnicas, periciales, presuncionales e instrumental de actuaciones, así como las citadas en el artículo 28, párrafo 2 del presente Reglamento sólo harán prueba plena cuando a juicio del órgano competente para resolver, generen convicción sobre la veracidad de los hechos alegados, con los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí.
 
 4. En caso de que se necesiten conocimientos técnicos especializados, el Secretario podrá solicitar el dictamen de un perito.
 
@@ -431,25 +511,35 @@ entre sí.
 
 ### CAPITULO QUINTO. DE LA INVESTIGACION
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 36
 
-La investigación para el conocimiento cierto de los hechos, se realizará por el Instituto de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
+1. La investigación para el conocimiento cierto de los hechos, se realizará por el Instituto de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 37
 
-Una vez que el Secretario tenga conocimiento de los hechos denunciados, en su caso, dictará de inmediato las medidas necesarias para dar fe de los mismos; para impedir que se pierdan, destruyan o alteren las huellas o vestigios y en general, para evitar que se dificulte la investigación.
+1. Una vez que el Secretario Ejecutivo tenga conocimiento de los hechos denunciados, en su caso, dictará de inmediato las medidas necesarias para dar fe de los mismos; para impedir que se pierdan, destruyan o alteren las huellas o vestigios y en general, para evitar que se dificulte la investigación.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 38
 
 1. Admitida la queja o denuncia por el Secretario, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, solicitará mediante oficio a los órganos centrales o desconcentrados del Instituto, que lleven a cabo las investigaciones o recaben las pruebas necesarias.
 
-2. El plazo para llevar a cabo la investigación no podrá exceder de 40 días, contados a partir de la recepción del escrito de queja o denuncia en la Secretaría o del inicio de oficio del procedimiento por parte del Secretario.
+2. El plazo para llevar a cabo la investigación no podrá exceder de 40 días, contados a partir de la recepción del escrito de queja o denuncia en la Secretaría o del inicio de oficio del procedimiento por parte del Secretario Ejecutivo.
 
 3. Vencido el plazo a que se refiere el párrafo anterior, el Secretario podrá ampliarlo en forma excepcional, mediante acuerdo que señale las causas derivadas de la investigación a que alude el propio párrafo 2.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 39
 
-El Secretario para los fines de los artículos 2, 131 y 240 del Código, podrá girar oficio al Presidente del Consejo, para que solicite a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados.
+1. El Secretario para los fines de los artículos 2, 131 y 240 del Código, podrá girar oficio al Presidente del Consejo, para que solicite a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 40
 
@@ -457,23 +547,29 @@ Artículo 40
 
 2. Excepcionalmente, los Vocales Ejecutivos podrán designar a alguno de los Vocales de las Juntas para que lleven a cabo dichas diligencias. En todo caso, los Vocales Ejecutivos serán los responsables del debido ejercicio de la función indagatoria.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 41
 
-Si del trámite de la queja o denuncia presentada, de la contestación al emplazamiento o del desarrollo de la investigación se desprendieran elementos que hagan presumir la existencia de violaciones diversas a las denunciadas, el Secretario iniciará un procedimiento diverso por éstas.
+1. Si del trámite de la queja o denuncia presentada, de la contestación al emplazamiento o del desarrollo de la investigación se desprendieran elementos que hagan presumir la existencia de violaciones diversas a las denunciadas, el Secretario Ejecutivo iniciará un procedimiento diverso por éstas.
 
 ### CAPITULO SEXTO. DE LA ELABORACION DEL PROYECTO DE DICTAMEN
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 42
 
 1. Una vez agotado el desahogo de las pruebas y, en su caso, llevada a cabo la investigación, el Secretario pondrá el expediente a la vista del quejoso y del denunciado para que, en el plazo de 5 días, manifiesten lo que a su derecho convenga.
 
-2. Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría procederá a elaborar el proyecto de dictamen correspondiente en un término no mayor a 10 días contados a partir del desahogo de la última vista.
+2. Transcurrido el plazo a que se refiere el párrafo anterior, el Secretario procederá a elaborar el proyecto de dictamen correspondiente en un término no mayor a 10 días contados a partir del desahogo de la última vista, mismo que deberá presentarse a consideración de la Junta en la siguiente sesión ordinaria que celebre, siempre y cuando se hubiese recibido por ésta con la suficiente antelación para hacerlo del conocimiento de sus integrantes, en términos del reglamento de la materia.
 
 3. Vencido el plazo a que se refiere el párrafo anterior, el Secretario podrá ampliarlo mediante acuerdo en el que se señalen las causas que lo motiven. La ampliación no podrá exceder de 10 días.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 43
 
-El dictamen deberá contener:
+1. El dictamen deberá contener:
 
 a) PREAMBULO en el que se señale:
 
@@ -513,27 +609,41 @@ f) Tipo de sesión;
 
 g) Fecha de la aprobación, y
 
-h) Firmas del Presidente y del Secretario de la Junta.
+h) Firmas del Presidente y del Secretario.
 
-### CAPITULO SEPTIMO. DE LA ELABORACION DEL PROYECTO DE RESOLUCION O ACUERDO DE DEVOLUCION
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 10 DE MARZO DE 2003)</small>
+
+### CAPITULO SEPTIMO. DE LA ELABORACION DEL PROYECTO DE RESOLUCION O DEVOLUCION
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 44
 
-Una vez que la Junta haya aprobado el dictamen, el Secretario lo remitirá en un plazo no mayor de 3 días a los integrantes de la Comisión.
+1. Una vez que la Junta haya aprobado el dictamen, el Secretario lo remitirá en un plazo no mayor de 5 días a los integrantes de la Comisión.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 45
 
-1. El Presidente de la Comisión, a más tardar al día siguiente de la recepción del dictamen, convocará a sesión por lo menos 5 días antes de la fecha que se señale en la convocatoria, con la finalidad de que dicho órgano colegiado analice y valore el dictamen e instruya a la Secretaría Técnica sobre el sentido del anteproyecto de resolución o de acuerdo de devolución.
+1. El Presidente de la Comisión, a más tardar al día siguiente de la recepción del dictamen, convocará a sesión por lo menos 5 días antes de la fecha que se señale en la convocatoria, con la finalidad de que dicho órgano colegiado analice y valore el dictamen e instruya a la Secretaría Técnica sobre el sentido del anteproyecto de resolución o de acuerdo de devolución, atendiendo a lo siguiente:
 
-2. La Secretaría Técnica contará con un plazo de 10 días para elaborar el anteproyecto de resolución o el de acuerdo de devolución respectivo, conforme con la instrucción de la Comisión.
+a) Si la Comisión está de acuerdo con el sentido del dictamen emitido por la Junta, el Secretario Técnico elaborará el anteproyecto de resolución, tomando en cuenta, en su caso, los argumentos, consideraciones y razonamientos expresados por la mayoría de los integrantes de la propia Comisión para reforzar los argumentos contenidos en el dictamen.
 
-3. Una vez que la Secretaría Técnica elabore el anteproyecto correspondiente, el Presidente de la Comisión convocará a sesión, remitiendo el anteproyecto a los miembros de dicho órgano colegiado por lo menos 3 días antes de la fecha de la sesión, para su discusión y eventual aprobación.
+b) Si la Comisión no está de acuerdo con el sentido o con los razonamientos que sustentan el dictamen emitido por la Junta; o considera que la Junta omitió realizar determinadas diligencias de investigación necesarias para el conocimiento de los hechos denunciados, ordenará se elabore un proyecto de acuerdo de devolución.
 
-4. Aprobado el proyecto de resolución o el de acuerdo de devolución por la Comisión, éste deberá presentarse junto con el dictamen aprobado por la Junta, a la consideración del Consejo en la siguiente sesión que celebre.
+2. La Secretaría Técnica contará con un plazo de 10 días para elaborar el anteproyecto o proyecto respectivo, conforme con la instrucción de la Comisión.
+
+3. Una vez que la Secretaría Técnica elabore el anteproyecto o proyecto correspondiente, el Presidente de la Comisión convocará a sesión, remitiendo el mismo a los integrantes de dicho órgano colegiado por lo menos 3 días antes de la fecha de la sesión, para su discusión y eventual aprobación.
+
+4. Aprobado el acuerdo de devolución por la Comisión, el expediente será turnado a la Junta para los efectos procedentes.
+
+5. Aprobado el proyecto de resolución por la Comisión, éste deberá presentarse junto con el dictamen aprobado por la Junta, a la consideración del Consejo en la siguiente sesión que celebre.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 46
 
-La resolución deberá contener:
+1. La resolución deberá contener:
 
 a) PREAMBULO en el que se señale:
 
@@ -561,7 +671,7 @@ II. La apreciación y valoración del expediente: los hechos, las pruebas admiti
 
 III. La acreditación o no de los hechos motivo de la queja o denuncia;
 
-IV. Los preceptos legales que tienen relación con los hechos y si aquéllos se consideran violados;
+IV. Los preceptos legales que tienen relación con los hechos y si aquellos se consideran violados;
 
 V. Las causas, razonamientos y fundamentos legales que sustenten el sentido de la resolución, y
 
@@ -585,9 +695,11 @@ h) Firmas del Presidente y Secretario del Consejo, y
 
 i) Los términos de su notificación.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 47
 
-El acuerdo de devolución deberá contener:
+1. El acuerdo de devolución deberá contener:
 
 a) DENOMINACION DEL ACUERDO.
 
@@ -601,23 +713,23 @@ III. La fecha en que la Junta aprobó el dictamen;
 
 IV. La fecha en que le fue turnado el dictamen a la Comisión;
 
-V. La fecha de la sesión de la Comisión en la que se instruyó a la Secretaría Técnica elaborar el anteproyecto de acuerdo, y
+V. La fecha de la sesión de la Comisión en la que se instruyó a la Secretaría Técnica elaborar el proyecto de acuerdo, y
 
-VI. La fecha en la que se aprobó el proyecto de acuerdo en Comisión.
+VI. La fecha en la que se aprobó el acuerdo en Comisión.
 
 c) CONSIDERANDOS que establezcan:
 
 I. Los preceptos que fundamenten la competencia;
 
-II. Las causas, razonamientos y fundamentos legales que sustenten la no conformidad con el dictamen, sin entrar al fondo del asunto, y
+II. Las causas, razonamientos y fundamentos legales que sustenten la no conformidad con el dictamen, y
 
 III. En su caso, las diligencias necesarias que la Junta deberá llevar a cabo para contar con mayores elementos para la integración del expediente, así como para la elaboración de un nuevo dictamen.
 
 d) PUNTOS DE ACUERDO que determinen:
 
-I. Las modificaciones que se deban efectuar al dictamen y, en su caso, la instrucción a la Junta para la realización de nuevas diligencias de investigación;
+I. Las modificaciones que se deban efectuar al dictamen y, en su caso, la instrucción a la Junta para la realización de nuevas diligencias de investigación, incluida la posibilidad de dar vista a las partes para que manifiesten lo que a su derecho corresponda;
 
-II. La instrucción al Secretario para que se devuelva el expediente a la Junta para los fines que señale el Consejo, y
+II. La instrucción al Secretario para que se devuelva el expediente a la Junta para los fines que señale la Comisión, y
 
 III. La determinación del plazo para que la Junta apruebe el nuevo dictamen.
 
@@ -627,21 +739,15 @@ f) Tipo de sesión;
 
 g) Fecha de aprobación, y
 
-h) Firmas del Presidente y del Secretario del Consejo.
+h) Firmas del Presidente y del Secretario de la Comisión.
 
-### CAPITULO OCTAVO. DE LOS EFECTOS DEL ACUERDO DE DEVOLUCION Y DE LA RESOLUCION
+> <small>(REFORMADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 10 DE MARZO DE 2003)</small>
+
+### CAPITULO OCTAVO. DE LOS EFECTOS DE LA RESOLUCION
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 48
-
-En la sesión en que se ponga a consideración del Consejo el proyecto de acuerdo de devolución, éste determinará:
-
-a) Aprobar el proyecto de acuerdo de devolución en los términos en que se le presente;
-
-b) Modificar el sentido del proyecto dentro de la misma sesión, procediendo a su aprobación, o
-
-c) Rechazar el proyecto de acuerdo de devolución y ordenar a la Comisión que elabore el proyecto de resolución en el sentido del dictamen.
-
-Artículo 49
 
 1. En la sesión en que se tenga conocimiento del proyecto de resolución, el Consejo determinará:
 
@@ -651,41 +757,51 @@ b) Aprobar el proyecto de resolución ordenando al Secretario del Consejo realiz
 
 c) Modificar el sentido del proyecto de resolución procediendo a aprobarlo dentro de la misma sesión, siempre y cuando se considere que puede hacerse y que no contradice lo establecido en el cuerpo del dictamen, o
 
-d) Rechazar el proyecto de resolución y ordenar al Secretario elaborar el acuerdo de devolución en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría, así como ordenar sea turnado a la Junta para la elaboración de un nuevo dictamen.
+d) Rechazar el proyecto de resolución y ordenar al Secretario del Consejo elaborar el acuerdo de devolución en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría, así como ordenar sea turnado a la Junta para la elaboración de un nuevo dictamen.
 
 2. Rechazado el proyecto de resolución se entiende que se aprueba un acuerdo de devolución.
 
 ### CAPITULO NOVENO. DE LA VOTACION
 
+(REUBICADO Y REFORMADO, D.O.F. 10 DE MARZO DE 2003)
+
+Artículo 49
+
+1. En caso de empate en la votación de los miembros del Consejo, prevalecerá la posición que en mayor medida beneficie al denunciado, misma que será determinada por el propio Consejo.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 50
-
-En caso de empate en la votación de los miembros del Consejo, prevalecerá la posición que en mayor medida beneficie al denunciado, misma que será determinada por el propio Consejo.
-
-Artículo 51
 
 1. El miembro de la Junta que disienta de la mayoría podrá formular voto particular, el cual se insertará en el dictamen respectivo si se remite al Secretario dentro de los 2 días siguientes a la fecha de su aprobación.
 
 2. El Consejero Electoral miembro de la Comisión que disienta de la mayoría podrá formular voto particular, el cual se insertará en el proyecto de resolución o acuerdo de devolución respectivo, si se remite al Secretario dentro de los 2 días siguientes a la fecha de su aprobación.
 
-3. El miembro del Consejo con derecho a voto que disienta de la mayoría podrá formular voto particular, el cual se insertará en la resolución respectiva o acuerdo de devolución si se remite al Secretario dentro de los dos días siguientes a la fecha de su aprobación.
+3. El miembro del Consejo con derecho a voto que disienta de la mayoría podrá formular voto particular, el cual se insertará en la resolución respectiva o acuerdo de devolución si se remite al Secretario del Consejo dentro de los dos días siguientes a la fecha de su aprobación.
 
-4. El Secretario ordenará la inserción del voto particular que le sea remitido en la resolución o acuerdo de devolución correspondiente y lo pondrá a disposición de los integrantes del Consejo.
+4. El Secretario del Consejo ordenará la inserción del voto particular que le sea remitido en la resolución o acuerdo de devolución correspondiente y lo pondrá a disposición de los integrantes del Consejo.
 
 ### CAPITULO DECIMO. DE LAS SANCIONES
 
-Artículo 52
+(REUBICADO Y REFORMADO, D.O.F. 10 DE MARZO DE 2003)
+
+Artículo 51
 
 1. Los partidos políticos y las agrupaciones políticas, independientemente de las responsabilidades en que incurran sus dirigentes, miembros o simpatizantes, podrán ser sancionados:
 
-a) Con multa de 50 a 5 mil días de salario mínimo general vigente para el Distrito Federal;
+a) Con amonestación pública;
 
-b) Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
+b) Con multa de 50 a 5 mil días de salario mínimo general vigente para el Distrito Federal;
 
-c) Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda, por el periodo que señale la resolución;
+c) Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
-d) Con la suspensión de su registro como partido político o agrupación política, y
+d) Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda, por el periodo que señale la resolución;
 
-e) Con la cancelación de su registro como partido político o agrupación política.
+e) Con la negativa del registro de las candidaturas;
+
+f) Con la suspensión de su registro como partido político o agrupación política, y
+
+g) Con la cancelación de su registro como partido político o agrupación política.
 
 2. Las sanciones a que se refiere el párrafo anterior, podrán ser impuestas cuando:
 
@@ -699,63 +815,85 @@ c) Incurran en cualquier otra falta de las previstas en el Código.
 
 4. De conformidad con el artículo 264, párrafo 2 del Código, las organizaciones a las que pertenezcan los observadores electorales podrán ser sancionadas con multa de 50 a 200 días de salario mínimo general vigente para el Distrito Federal.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
+Artículo 52
+
+1. El Consejo, para fijar la sanción correspondiente, tomará en cuenta las circunstancias de tiempo, modo y lugar, así como la gravedad de la falta. En caso de reincidencia se aplicará una sanción
+
+más severa.
+
+### CAPITULO UNDÉCIMO. DE LAS NOTIFICACIONES
+
+(REUBICADO Y REFORMADO, D.O.F. 10 DE MARZO DE 2003)
+
 Artículo 53
-
-El Consejo, para fijar la sanción correspondiente, tomará en cuenta las circunstancias de tiempo, modo y lugar, así como la gravedad de la falta. En caso de reincidencia se aplicará una sanción más severa.
-
-CAPITULO DECIMOPRIMERO
-
-DE LAS NOTIFICACIONES
-
-Artículo 54
 
 1. Las notificaciones podrán hacerse de manera personal directamente con el interesado en el domicilio que señale para tal efecto, o bien por cédula que se dejará en el domicilio del interesado con cualquier persona que en él se encuentre y surtirán sus efectos el mismo día en que se realicen. En los casos en que el Consejo lo considere pertinente, podrá ordenar la publicación de una resolución en el Diario Oficial de la Federación.
 
-2. Todas las resoluciones serán notificadas personalmente al denunciante y denunciado, en un plazo no mayor a cinco días hábiles computados a partir de su aprobación por el Consejo General.
+2. Todas las resoluciones serán notificadas personalmente al denunciante y denunciado, en un plazo no mayor a 10 días hábiles computados a partir de su aprobación por el Consejo General.
 
-3. Si el quejoso o denunciado es un partido político, se entenderá hecha la notificación al momento de su aprobación por el Consejo, salvo que se haya acordado el engrose del expediente, en cuyo caso la notificación se hará de manera personal en un plazo no mayor a cinco días hábiles computados a partir de la formulación del engrose.
+3. Si el quejoso o denunciado es un partido político, se entenderá hecha la notificación al momento de su aprobación por el Consejo, salvo que se haya acordado el engrose del expediente, en cuyo caso la notificación se hará de manera personal en un plazo no mayor a 5 días hábiles computados a partir de la formulación del engrose.
 
 4. Cuando los quejosos no señalen o indiquen dirección para oír y recibir notificaciones ésta se realizará en los estrados del Instituto.
 
+5. Si el domicilio señalado para oír y recibir notificaciones se encuentra ubicado fuera del Distrito Federal, la notificación será realizada a través de los órganos desconcentrados del Instituto. El plazo señalado en el párrafo 2 se computará a partir de que el órgano desconcentrado reciba la resolución de la queja.
+
 ## TITULO TERCERO. OTROS PROCEDIMIENTOS ADMINISTRATIVOS PARA EL CONOCIMIENTO DE FALTAS AL CODIGO
+
+(REUBICADO Y REFORMADO, D.O.F. 10 DE MARZO DE 2003)
+
+Artículo 54
+
+1. El presente Título tiene por objeto regular el procedimiento para el conocimiento de las presuntas faltas cometidas por autoridades federales, estatales y municipales, notarios públicos, extranjeros, ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta, a que se refieren los artículos 264, párrafo 3; 266; 267 y 268 del Código.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 55
 
-El presente Título tiene por objeto regular el procedimiento para el conocimiento de las presuntas faltas cometidas por autoridades federales, estatales y municipales, notarios públicos, extranjeros, ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta, a que se refieren los artículos 264, párrafo 3; 266; 267 y 268 del Código.
+1. Cuando alguno de los servidores del Instituto, en ejercicio de sus funciones, tenga conocimiento de hechos por los que se presuman faltas a que se refiere el artículo anterior, lo hará del conocimiento por escrito del Secretario Ejecutivo y, en su caso, remitirá las constancias con que cuente.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 56
 
-Cuando alguno de los servidores del Instituto, en ejercicio de sus funciones, tenga conocimiento de hechos por los que se presuman faltas a que se refiere el artículo anterior, lo hará del conocimiento por escrito del Secretario y, en su caso, remitirá las constancias con que cuente.
-
-Artículo 57
-
-1. El Secretario será el responsable de integrar el expediente a que se refiere este capítulo y remitirlo mediante oficio a la autoridad competente.
+1. El Secretario Ejecutivo será el responsable de integrar el expediente a que se refiere este capítulo y remitirlo mediante oficio a la autoridad competente.
 
 2. Para tal efecto, una vez que tenga conocimiento de una presunta infracción, procederá a integrar el expediente respectivo con las constancias que tenga a su alcance y señalará, en su caso, las constancias que obren en otros archivos.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
+Artículo 57
+
+1. El Secretario Ejecutivo procederá de inmediato, de conformidad a lo señalado en el artículo anterior, con la sola presunción de la existencia de una conducta que se considere violatoria de las disposiciones del Código.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
 Artículo 58
-
-El Secretario procederá de inmediato, de conformidad a lo señalado en el artículo anterior, con la sola presunción de la existencia de una conducta que se considere violatoria de las disposiciones del Código.
-
-Artículo 59
 
 1. Transcurridos 15 días sin que las personas a que se refieren los artículos 264, párrafo 3, inciso b) y 266, párrafo 3 del Código, hubiesen comunicado al Instituto las medidas adoptadas, el Presidente del Consejo girará oficio de insistencia.
 
-2. Transcurridos los 15 días posteriores a aquél en que se formuló la insistencia sin que se haya recibido respuesta, el Presidente del Consejo ordenará al Secretario integre un nuevo expediente y proceda conforme al artículo 56 de este Reglamento, informando al Consejo en la próxima sesión que celebre, para que éste determine lo conducente.
+2. Transcurridos los 15 días posteriores a aquel en que se formuló la insistencia sin que se haya recibido respuesta, el Presidente del Consejo ordenará al Secretario Ejecutivo integre un nuevo expediente y proceda conforme al artículo 56 de este Reglamento, informando al Consejo en la próxima sesión que celebre, para que éste determine lo conducente.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+
+Artículo 59
+
+1. El Presidente del Consejo girará oficio a la Secretaría de Gobernación o a la Secretaría de Relaciones Exteriores, según corresponda, a efecto de que dichas dependencias le comuniquen las medidas adoptadas en aquellos casos de presuntas infracciones de las que se les hubiese informado.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
 Artículo 60
-
-El Presidente del Consejo girará oficio a la Secretaría de Gobernación o a la Secretaría de Relaciones Exteriores, según corresponda, a efecto de que dichas dependencias le comuniquen las medidas adoptadas en aquellos casos de presuntas infracciones de las que se les hubiese informado.
-
-Artículo 61
 
 1. El informe a que se refiere el artículo 6, párrafo 1 de este Reglamento, deberá incluir todos aquellos casos a que se refiere el presente título.
 
 2. Dentro del informe deberán incluirse las respuestas y comunicaciones, así como la mención de aquellas solicitudes que no hayan sido atendidas.
 
-Artículo 62
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
-Se considerará que las autoridades federales, estatales y municipales han incumplido su obligación de proporcionar información al Instituto en tiempo y forma cuando girado un oficio de insistencia:
+Artículo 61
+
+1. Se considerará que las autoridades federales, estatales y municipales han incumplido su obligación de proporcionar información al Instituto en tiempo y forma cuando girado un oficio de insistencia:
 
 a) No respondan en los plazos establecidos en la solicitud de información;
 
@@ -763,9 +901,13 @@ b) No informen en los términos solicitados, o
 
 c) Nieguen la información solicitada.
 
-Artículo 63
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
-Las infracciones a las disposiciones del Código que cometan los funcionarios electorales del Instituto, se tramitarán en los términos que señale el Estatuto, con independencia de lo establecido en otros ordenamientos legales aplicables.
+Artículo 62
+
+1. Las infracciones a las disposiciones del Código que cometan los funcionarios electorales del Instituto, se tramitarán en los términos que señale el Estatuto, con independencia de lo establecido en otros ordenamientos legales aplicables.
+
+Artículo 63 (DEROGADO, D.O.F. 10 DE MARZO DE 2003)
 
 ## TRANSITORIOS
 
@@ -794,3 +936,15 @@ D.O.F. 16 DE AGOSTO DE 2002.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
 
 SEGUNDO.- LA MODIFICACION SEÑALADA EN EL PUNTO ANTERIOR ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL DIARIO OFICIAL DE LA FEDERACION.
+
+D.O.F. 10 DE MARZO DE 2003.
+
+Primero.- Las reformas a que se refiere el presente Acuerdo entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos administrativos presentados antes de la entrada en vigor de las presentes reformas, serán tramitados, sustanciados y resueltos conforme al presente Reglamento, a excepción de lo dispuesto por los artículos 10, párrafo 1, inciso a), fracción IV e inciso b); 15, párrafos 1, inciso a), y 2, incisos b), c), y f); 17, párrafo 1, inciso d) y 30, párrafos 1 y 3, relativos a los requisitos de procedencia y a la materia probatoria, en que les resultará aplicable el Reglamento anterior.
+
+SEGUNDO.- La Junta General Ejecutiva contará con 30 días para aprobar las modificaciones correspondientes a los Lineamientos respectivos, contados a partir de la aprobación del presente acuerdo.
+
+TERCERO.- El Secretario Ejecutivo ordenará la edición conjunta y completa del Reglamento aprobado mediante el presente acuerdo y de los Lineamientos que emita la Junta General Ejecutiva.
+
+CUARTO.- Publíquese en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
