@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obras-publicas-del-estado-de-campeche-3602"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-31"
-last_updated: "1984-08-31"
+last_updated: "1993-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1993.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
 
@@ -45,15 +45,39 @@ DISPOSICIONES GENERALES
 
 La presente Ley es de orden público e interés social y tiene por objeto regular el gasto y las acciones relativas a la planeación, programación, presupuestación, ejecución, conservación, mantenimiento, demolición y control de la Obra Pública que realicen:
 
-I.- El Gobierno del Estado por conducto de la Secretaría de Desarrollo Urbano y Obras Públicas y todas las dependencias facultadas para ello;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
 
-II.- Los Ayuntamientos;
+I.- La Secretaría de Obras Públicas y Comunicaciones y las demás Secretarías que conforman la Administración Pública Estatal centralizada, incluidas la Procuraduría General de Justicia y la Oficialía Mayor;
 
-III.- Los organismos descentralizados del Estado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
 
-IV.- Las empresas de participación estatal en las que el Gobierno del Estado o los Ayuntamientos sean socios mayoritarios, y
+II.- Las Direcciones de Obras Públicas Municipales;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+
+III.- Los organismos descentralizados de la Administración Pública, estatal y municipal;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+
+IV.- Las empresas en las que el Gobierno, estatal o municipal, sean socios mayoritarios;
 
 V.- Los fideicomisos en los que el fideicomitente sea el Gobierno del Estado o los Ayuntamientos o cualquiera de las entidades a que se refieren las fracciones III y IV de este artículo.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
+
+Para los efectos de la presente ley se entenderá por:
+
+a). SEDESO: La Secretaría de Desarrollo Social del Ejecutivo del Estado;
+
+b). CONTRALORIA: La Secretaría de la Contraloría del Ejecutivo del Estado;
+
+c). SEOPC: La Secretaría de Obras Públicas y Comunicaciones del Ejecutivo del Estado;
+
+d). OFICIALIA: La Oficialía Mayor del Ejecutivo del Estado;
+
+e). DEPENDENCIAS: Las señaladas en las fracciones I y II de este artículo;
+
+f). ENTIDADES: Los organismos, empresas y fideicomisos señalados en las fracciones III, IV y V de este mismo artículo.
 
 ###### ARTICULO 2o.
 
@@ -69,19 +93,35 @@ III.- Todos aquellos de naturaleza análoga.
 
 La incorporación de bienes muebles que deban destinarse a un inmueble, necesarios para la realización de las obras públicas, se regirá por las disposiciones de esta Ley, sin perjuicio de que su adquisición se regule por las disposiciones de la materia.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 3o.
 
-El gasto de la obra pública se sujetará a lo previsto en el presupuesto de egresos del Estado, así como a las disposiciones de la Ley de Control Presupuestal y Gasto Público del Estado del Campeche.
+El gasto de la obra pública se sujetará a lo previsto en los correspondientes presupuestos de egresos del Gobierno del Estado y de los gobiernos municipales, así como, en su caso, a las disposiciones de la ley de Control Presupuestal y Gasto Público del Estado.
 
 ###### ARTICULO 4o.
 
 Estarán sujetos también a las disposiciones de esa Ley, en los términos que la misma establece, los contratos de servicios relacionados con la obra pública, que requieran celebrar las dependencias y entidades mencionadas en el artículo 1o. de esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 5o.
 
-El Ejecutivo Estatal aplicará la presente Ley por conducto de la Dirección de Contraloría, sin perjuicio de la intervención de otras dependencias del propio Ejecutivo conforme a ésta u otras disposiciones legales.
+El Ejecutivo Estatal aplicará la presente ley por conducto de la SEDESO, sin perjuicio de la intervención de otras dependencias del propio Ejecutivo, conforme a ésta u otras disposiciones legales.
 
-La Dirección de Contraloría queda facultada para interpretar las disposiciones de esta Ley para efectos administrativos, pero no podrá variarla en su esencia o espíritu.
+La SEDESO queda facultada para interpretar las disposiciones de esta Ley para efectos administrativos, pero no podrá variarla en su esencia o espíritu.
+
+En lo no previsto por esta ley serán aplicables, supletoriamente, los Códigos Civil y de Procedimientos Civiles del Estado.
+
+Los titulares de las dependencias y entidades, a los que en los términos del presente artículo compete la aplicación de la ley, serán responsables de que en la adopción e instrumentación de los sistemas y procedimientos para la realización de las acciones, actos y contratos, que deban llevar a cabo en cumplimiento de esta ley, se observen los siguientes criterios:
+
+I.- Proveer a la simplificación administrativa, reducción, agilización y transparencia de los procedimientos y trámites;
+
+II.- Ejecutar las acciones tendientes a descentralizar las funciones que realicen, con objeto de procurar que los trámites se lleven a cabo y resuelvan en los mismos lugares en que se originen las operaciones; y
+
+III.- Racionalizar y simplificar las estructuras con que cuentan a efecto de utilizar los recursos estrictamente indispensables para llevar a cabo sus operaciones.
+
+La Contraloría vigilará y comprobará la aplicación de los criterios a los que se refiere este artículo.
 
 ###### ARTICULO 6o.
 
@@ -93,11 +133,15 @@ Cuando por las condiciones especiales de la obra se requiera la intervención de
 
 Previamente a la ejecución de las obras a que se refiere este artículo, se deberán establecer convenios donde se especifiquen los términos para la coordinación de las acciones de las dependencias y entidades que intervengan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 8o.
 
-Las dependencias y entidades a que se refiere el artículo 1o. de esta Ley, deberán formular un inventario de la maquinaria y equipo de construcción, a su cuidado o de su propiedad y lo mantendrán actualizado, debiéndolo remitir a la Dirección de Contraloría en la forma y términos que ésta establezca.
+Las dependencias y entidades deberán formular un inventario de la maquinaria y equipo de construcción a su cuidado, o de su propiedad, y lo mantendrán actualizado, debiendo remitir copias del mismo a la Contraloría, a la Oficialía y a la SEOPC en la forma y términos que éstas establezcan.
 
-Las dependencias y entidades llevarán el catálogo y archivo de los estudios y proyectos que realicen sobre la obra pública, y lo remitirán a la Dirección de Contraloría en la forma y términos que ésta establezca.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+Las dependencias y entidades llevarán el catálogo y archivo de los estudios y proyectos que realicen sobre la obra pública y lo remitirán a la SEDESO, a la Contraloría y a la SEOPC, en la forma y términos que éstas establezcan.
 
 Lo anterior será sin perjuicio de las facultades que en materia de inventarios corresponda a otras dependencias del Ejecutivo Estatal.
 
@@ -113,17 +157,37 @@ II.- Considerar de manera jerarquizada las necesidades estatales, regionales y d
 
 III.- Respetar las disposiciones legales y reglamentarias y tomar en consideración los planes de desarrollo urbano, económico y social del Estado y Municipios;
 
-IV.- Prever los requerimientos de áreas y predios para la obra pública, previa consulta con la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, para que ésta, en el ejercicio de sus atribuciones, determine su conveniencia y viabilidad. Asimismo, observar las declaratorias de provisiones, usos, reservas y destinos de áreas y predios que se hubieran hecho conforme a lo dispuesto por las Leyes de la materia;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+
+IV.- Prever los requerimientos de áreas y predios para la obra pública, previa consulta con la SEDESO y la SEOPC para que éstas, en el ejercicio de sus atribuciones, determinen su conveniencia y viabilidad. Asimismo, observar las declaratorias de provisiones, usos, reservas y destinos de áreas y predios que se hubieran hecho conforme a lo dispuesto por las leyes de la materia;
 
 V.- Considerar la disponibilidad de recursos con relación a las necesidades de la obra pública;
 
 VI.- Prever las obras principales, así como las complementarias o accesorias y las acciones necesarias para poner aquellas en servicio, estableciendo las etapas que se requieran para su terminación;
 
-VII.- Considerar la tecnología aplicable, en función de la naturaleza de las obras;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
 
-VIII.- Tomar en cuenta, preferentemente, el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras; y
+VII.- Prever y considerar los avances tecnológicos aplicables en función de la naturaleza de las obras y la selección de materiales, productos, equipos y procedimientos de tecnología estatal, regional y municipal, que satisfagan los requerimientos técnicos y económicos del proyecto;
 
-IX.- Tomar en cuenta preferentemente en igualdad de circunstancias a los contratistas de la localidad.
+VIII.- Tomar en cuenta, preferentemente, el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras; y (sic)
+
+IX.- Tomar en cuenta preferentemente en igualdad de circunstancias a los contratistas de la localidad;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
+
+X.- Ajustarse a los objetivos, metas y previsiones de recursos establecidos en los correspondientes presupuestos de egresos, estatal y municipales, y, en su caso, a las disposiciones de la Ley de Control Presupuestal y Gasto Público del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
+
+XI.- Prever y considerar las acciones a realizar, antes, durante y después de su ejecución;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
+
+XII.- Prever y considerar la coordinación con otras dependencias y entidades que realicen obras en las mismas áreas; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
+
+XIII.- Prever y considerar los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse. Los proyectos deberán incluir, si ello fuere posible, lo necesario para que se preserven o restauren las condiciones ambientales y los procesos ecológicos.
 
 ###### ARTICULO 10.
 
@@ -139,7 +203,9 @@ IV.- Las unidades responsables de su ejecución.
 
 Asimismo, los programas y presupuestos deberán incluir las acciones y recursos para llevar a cabo el proceso de planeación, programación y presupuestación de las obras a que se refiere este capítulo.
 
-Las dependencias y entidades mencionadas deberán remitir sus programas de obra pública a la Secretaría de Desarrollo Urbano y Obras Públicas en la fecha que ésta señale, a efecto de integrarlas a la planeación del desarrollo del Estado.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+Las dependencias y entidades deberán remitir sus programas y presupuestos de obra pública a la SEDESO, en la fecha que ésta señale, a efecto de integrarlos a la planeación del desarrollo del Estado.
 
 ###### ARTICULO 11.
 
@@ -155,7 +221,9 @@ El programa de la obra pública indicará las fechas previstas de iniciación y 
 
 Dentro de su programa, las dependencias y entidades a que se refiere el Artículo 1o. de esta Ley elaborarán los presupuestos de cada una de las obras públicas que deban realizar, distinguiendo las que se han de ejecutar por contrato o por administración directa. Los presupuestos incluirán, según el caso, los costos correspondientes a:
 
-I.- Las investigaciones, asesorías, consultorías y estudios que se refieran;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+
+I.- Las investigaciones, asesorías, consultorías y estudios que se requieran;
 
 II.- Los proyectos arquitectónicos y de ingeniería necesarios;
 
@@ -165,7 +233,9 @@ IV.- La ejecución, que deberá incluir el costo estimado de la obra que se real
 
 V.- Las obras de infraestructura complementarias que requiera la obra;
 
-VI.- Las obras relativas a la preservación, restauración y mejoramiento de las condiciones ambientales, y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+
+VI.- Los trabajos de conservación y mantenimiento ordinario, preventivo y correctivo de los bienes inmuebles a su cargo; así como las obras relativas a la preservación, restauración y mejoramiento de las condiciones ambientales; y
 
 VII.- Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
 
@@ -177,79 +247,31 @@ En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá de
 
 ###### ARTICULO 15.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas, llevará el padrón de contratistas de obra pública y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica.
-
-Las dependencias y entidades que menciona el Artículo 1o. de esta Ley sólo podrán celebrar contratos de obra pública o de servicios relacionados con los mismos con las personas inscritas en el padrón cuyo registro esté vigente.
-
-La clasificación a que se refiere el Párrafo Primero de este Artículo deberá de considerarse por las dependencias y entidades, en la convocatoria y contratación de la obra pública.
-
-La Secretaría de Desarrollo Urbano y Obras Públicas hará del conocimiento de las dependencias y entidades y del público en general, las personas registradas en el padrón.
+(DEROGADO, P.O. 14 DE JULIO DE 1993)
 
 ###### ARTICULO 16.
 
-Las personas interesadas en inscribirse en el padrón de contratistas de obra pública, deberán solicitarlo por escrito ante la Secretaría de Desarrollo Urbano y Obras Públicas, acompañando, según su naturaleza jurídica y características, la siguiente información y documentos:
-
-I.- Datos generales de la interesada;
-
-II.- Señalamiento de domicilio en la capital del Estado;
-
-III.- Escritura constitutiva y modificaciones en su caso;
-
-IV.- Constancia de su registro en el padrón de contratistas ante la Secretaría de Programación y Presupuesto;
-
-V.- Experiencia y especialidad;
-
-VI.- Capacidad, recursos técnicos, económicos y financieros;
-
-VII.- Maquinaria y equipos disponibles;
-
-VIII.- Inscripción en el Registro Federal de Contribuyentes y en la Cámara Nacional de la Industria de la Construcción que le corresponda;
-
-IX.- Cédula profesional, para el caso de prestación de servicios;
-
-X.- Registro en el Instituto Mexicano del Seguro Social;
-
-XI.- Registro en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; y
-
-XII.- Los demás documentos e información que la (dependencia encargada de la aplicación de la Ley), consideren pertinentes.
-
-La Secretaría de Desarrollo Urbano y Obras Públicas, podrá verificar en cualquier tiempo la información a que se refiere este Artículo.
+(DEROGADO, P.O. 14 DE JULIO DE 1993)
 
 ###### ARTICULO 17.
 
-El registro en el padrón de contratistas de obra pública tendrá vigencia de un año a partir del primero de enero al treinta y uno de diciembre.
-
-Los contratistas que tengan interés en continuar inscritos, en el padrón de contratistas de obra pública presentarán, ante la Secretaría de Desarrollo Urbano y Obras Públicas, dentro de los treinta días hábiles anteriores al vencimiento de su registro, su solicitud de revalidación, acompañando la información y documentos que procedan en los términos del Artículo anterior.
+(DEROGADO, P.O. 14 DE JULIO DE 1993)
 
 ###### ARTICULO 18.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas, dentro de un término que no excederá de treinta días contados a partir de la fecha de recepción de la solicitud resolverá sobre la inscripción o revalidación. Transcurrido este plazo sin que haya respuesta, se tendrá por registrado al solicitante o por revalidado el registro.
+(DEROGADO, P.O. 14 DE JULIO DE 1993)
 
 ###### ARTICULO 19.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas está facultada para suspender el registro de los contratistas cuando:
-
-I.- Se les declare en estado de quiebra o, en su caso, sujetos a concurso de acreedores;
-
-II.- Incurran en cualquier acto u omisión que les sea imputable y que perjudique los intereses de la contratante;
-
-III.- Hayan celebrado contratos en contravención a lo dispuesto por esta Ley, por causas que les sean imputables; y
-
-IV.- Se les declara incapacitados legalmente para contratar.
+(DEROGADO, P.O. 14 DE JULIO DE 1993)
 
 ###### ARTICULO 20.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas está facultada para cancelar el registro de los contratistas cuando:
-
-I.- La información que hubieren proporcionado para la inscripción o revalidación resultase falsa, o hayan actuado con dolo o mala fe en una subasta o ejecución de una obra;
-
-II.- No cumplan en sus términos con algún contrato por alguna causa imputable a ellos y perjudique gravemente los intereses de la contratante, o el interés general; y
-
-III.- Se declare su quiebra fraudulenta.
+(DEROGADO, P.O. 14 DE JULIO DE 1993)
 
 ###### ARTICULO 21.
 
-Las resoluciones que nieguen las solicitudes de inscripción o revalidación, o determinen la suspensión o la cancelación del registro en el padrón de contratistas de obra pública se notificarán personalmente o por correo certificado con acuse de recibo en el domicilio que el interesado haya señalado. Contra esas resoluciones el interesado podrá interponer recurso de revocación en los términos de esta Ley.
+(DEROGADO, P.O. 14 DE JULIO DE 1993)
 
 ### CAPITULO IV. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
 
@@ -271,6 +293,14 @@ No quedan comprendidos dentro de los servicios a que se refiere el Artículo ant
 
 La obra pública podrá realizarse por contrato o por administración directa.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
+
+Las dependencias y entidades que realicen obras y los contratistas con quienes aquéllas contraten, observarán las disposiciones que en materia de construcción rijan en los ámbitos estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
+
+La violación de esta disposición, independientemente de la responsabilidad penal y administrativa a que diere lugar para los servidores públicos y contratistas, originará la nulidad de pleno derecho del contrato celebrado para la ejecución de la obra de que se trate.
+
 ###### ARTICULO 25.
 
 A efecto de que se esté en posibilidades de contratar y ejecutar obra pública se requiere:
@@ -285,7 +315,9 @@ III.- Se cumplan los trámites o gestiones complementarias que se relacionen con
 
 Los contratos de obra pública se adjudicarán o llevarán a cabo a través de licitaciones públicas, mediante convocatoria, para que libremente se presenten proposiciones en sobre cerrado, que será abierto en junta pública, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
 
-Las dependencias y entidades enviarán a la Dirección de Contraloría la convocatoria en el momento en que aquélla sea expedida y remitirán además los documentos de apoyo que se requieran.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+Se exceptúan de lo dispuesto en el párrafo anterior, aquellos casos en que el contrato sólo pueda celebrarse con una determinada persona, por ser el titular de la o las patentes necesarias para realizar la obra.
 
 ###### ARTICULO 27.
 
@@ -297,15 +329,31 @@ II.- El lugar y descripción general de la obra que se desea ejecutar;
 
 III.- Los requisitos que deberán cumplir los interesados;
 
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
+
+III Bis.- Información sobre los anticipos;
+
 IV.- La fecha límite para la inscripción en el proceso de licitación que deberá fijarse en un plazo no menor de diez días hábiles contados a partir de la fecha de publicación de la convocatoria;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
+
+IV Bis.- La experiencia o capacidad técnica que se requiera para participar en el concurso, de acuerdo con las características de la obra;
 
 V.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposiciones, y
 
 VI.- Los criterios conforme a los cuales se decidirá la adjudicación.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
+
+En el ejercicio de sus respectivas atribuciones, la Contraloría y la SEOPC, en su caso, intervendrán en el proceso de adjudicación del contrato.
+
 ###### ARTICULO 28.
 
 Todo interesado que satisfaga los términos de la convocatoria tendrá derecho a presentar proposiciones.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
+
+Para tal efecto, las dependencias y entidades no podrán exigir requisitos adicionales a los previstos en el artículo anterior y en el Reglamento de esta ley.
 
 ###### ARTICULO 29.
 
@@ -317,7 +365,9 @@ La opción que las dependencias y entidades ejerzan en los términos del párraf
 
 Cuando por razón del monto de la obra resulte inconveniente llevar a cabo el procedimiento a que se refiere el Artículo 26 por el costo que éste represente, las dependencias y entidades podrán contratar sin ajustarse a dicho procedimiento, siempre que el monto objeto del contrato no exceda de los límites a que se refiere este Artículo y se satisfagan los requisitos que el mismo señala.
 
-Para los efectos del párrafo anterior, en el presupuesto de egresos del Estado se establecerán los montos máximos de las obras que las dependencias y entidades podrán contratar directamente.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+Para los efectos del párrafo anterior, en los correspondientes presupuestos de egresos se establecerán los montos máximos de las obras que las dependencias y entidades podrán contratar directamente.
 
 Si el importe de la obra supera los montos máximos a que se refiere el párrafo anterior, pero no excede los límites que igualmente establecerá el mencionado presupuesto, el contrato relativo podrá adjudicarse a la persona que reúna las condiciones necesarias para la realización de la obra, previa convocatoria que se extenderá a, cuando menos, tres personas que cuenten con la capacidad de respuesta y los recursos técnicos, económicos, financieros y demás que sean necesarios para la ejecución de la obra.
 
@@ -329,9 +379,11 @@ Los montos máximos y límites se fijarán atendiendo a la cuantía de las obras
 
 Los interesados deberán garantizar la seriedad de las proposiciones en los procedimientos de adjudicación, el cumplimiento de los contratos y de la correcta inversión en la obra de los anticipos que, en su caso, reciban.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 32.
 
-Las garantías que deban otorgar los contratistas serán a favor de la Secretaría de Finanzas.
+Las garantías que deban otorgar los contratistas serán a favor de la Secretaría de Finanzas o de la respectiva Tesorería Municipal, según corresponda.
 
 ###### ARTICULO 33.
 
@@ -343,7 +395,13 @@ Si una vez considerados los criterios anteriores, resultare que dos o más propo
 
 Las convocantes no adjudicarán el contrato cuando las posturas presentadas no fueren aceptables y procederán a expedir una nueva convocatoria.
 
-Contra la resolución que contenga el fallo no procederá recurso alguno.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+Contra la resolución que contenga el fallo no procederá recurso alguno, pero los contratistas o licitantes que hubieran participado podrán inconformarse por escrito, indistintamente, ante la dependencia o entidad convocante o ante la Contraloría, dentro de los diez días hábiles siguientes al fallo del concurso, o, en su caso, al del día siguiente a aquél en que se haya emitido el acto relativo a cualquier etapa o fase del mismo, incluyendo actos posteriores al fallo que impliquen la imposición de condiciones diferentes a las de la convocatoria. Transcurridos dichos plazos precluye para los contratistas o licitantes el derecho a inconformarse, sin perjuicio de que las dependencias o entidades, o la Contraloría, puedan actuar en cualquier tiempo y en los términos de este artículo y de los artículos 40 y 68.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
+
+La resolución que contenga el fallo, dictada en contravención de los requisitos establecidos en este precepto, será nula de pleno derecho.
 
 ###### ARTICULO 34.
 
@@ -363,7 +421,9 @@ La adjudicación del contrato obligará a la convocante y a la persona en quien 
 
 Si el interesado no firmare el contrato perderá en favor de la convocante la garantía que hubiere otorgado y ésta podrá sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante siguiente, en los términos del Artículo 33 y de su propuesta, y así sucesivamente.
 
-La adjudicación y firma del contrato se comunicará a la Dirección de Contraloría en la forma y términos que ésta establezca.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+La adjudicación y firma del contrato se comunicará a la Contraloría en la forma y términos que ésta establezca.
 
 ###### ARTICULO 36.
 
@@ -377,27 +437,35 @@ Formarán parte del contrato la descripción pormenorizada de la obra que se deb
 
 La ejecución de la obra contratada deberá iniciarse en la fecha señalada y para ese efecto, la contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deba llevarse a cabo.
 
-Dentro de los diez días hábiles siguientes a la fecha de iniciación de los trabajos, ya sea que éstos se realicen por contrato o administración directa, la representante ejecutora lo comunicará a la Dirección de Contraloría.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+Dentro de los diez días hábiles siguientes a la fecha de iniciación de los trabajos, ya sea que éstos se realicen por contrato o administración directa, la dependencia o entidad lo comunicará a la Contraloría, a la SEDESO y a la SEOPC, en su caso.
 
 ###### ARTICULO 38.
 
 La contratante podrá dentro del programa de inversión aprobado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obras públicas o de servicios relacionados con las mismas, mediante convenios, siempre y cuando éstos considerados, conjunta o separadamente, no rebasen el 25% del monto o del plazo pactados en el contrato ni impliquen variaciones sustanciales en el proyecto original.
 
-Las circunstancias a que se refiere el párrafo anterior se informará a la Dirección de Contraloría en un plazo que no exceda de treinta días hábiles contados a partir de la fecha en que hubiere formalizado la modificación.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+De las modificaciones a que se refiere este artículo, el titular de la dependencia o entidad informará a la SEDESO, a la Contraloría y, en su caso, a la SEOPC, en un plazo no mayor de diez días hábiles, contados a partir de la fecha en que se hubiere formalizado la modificación.
 
 Si las modificaciones exceden del porcentaje indicado o varían sustancialmente el proyecto, se deberá celebrar, por una sola vez, convenio adicional entre las partes respecto de las nuevas condiciones, en los términos del Artículo 25 de esta Ley, las que no podrán en modo alguno afectar las que se refieren a la naturaleza y características esenciales de la obra objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley. Este convenio adicional deberá ser autorizado por el titular de la dependencia o entidad de que se trate.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 39.
 
-La contratante podrá suspender temporalmente en todo o en parte la obra contratada, por cualquier causa justificada, notificando de ello a la Dirección de Contraloría.
+Las dependencias y entidades podrán suspender temporalmente, en todo o en parte, la obra contratada, por cualquiera causa justificada.
 
 ###### ARTICULO 40.
 
 La contratante podrá rescindir administrativamente los contratos de obra por razones de interés general o por contravención de los términos del contrato o de las disposiciones de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 41.
 
-La contratante comunicará la suspensión o rescisión del contrato al contratista y a la Dirección de Contraloría, dentro de los diez días hábiles siguientes a la fecha en que se emita la respectiva resolución.
+Las dependencias y entidades comunicarán la suspensión, o rescisión del contrato al contratista, a la Contraloría, a la SEDESO y, en su caso, a la SEOPC, dentro de los diez días hábiles siguientes a la fecha en que se emita la resolución respectiva.
 
 En el contrato se estipularán las diversas consecuencias de la suspensión y de la rescisión.
 
@@ -415,7 +483,9 @@ El contratista comunicará a la contratante la terminación de los trabajos que 
 
 La recepción de los trabajos se hará dentro de los treinta días hábiles siguientes a la fecha en que se haya constatado la terminación de los trabajos en los términos del párrafo anterior.
 
-La contratante comunicará a la Dirección de Contraloría la terminación de los trabajos y, con anticipación no menor de diez días hábiles, informará la fecha señalada para su recepción, a fin de que, si lo estiman conveniente, nombren representantes que asistan al acto.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+La dependencia o entidad comunicará a la SEDESO, a la Contraloría, a la Oficialía y, en su caso, a la SEOPC, la terminación de los trabajos y, con anticipación no menor de diez días hábiles, informará la fecha señalada para su recepción, a fin de que, si lo estiman conveniente, nombren representantes que asistan al acto.
 
 En la fecha señalada la contratante bajo su responsabilidad recibirá los trabajos y levantará el acta correspondiente con o sin comparecencia de los representantes a que se refiere el párrafo anterior.
 
@@ -425,7 +495,7 @@ Concluida la obra, no obstante su recepción formal, el contratista quedará obl
 
 ###### ARTICULO 46.
 
-Los contratistas con quienes celebren contratos de obra pública y de servicios en los que participe económicamente la Federación cubrirán el cinco al millar sobre el importe de cada una de las estimaciones de trabajo, como derechos por el servicio de vigilancia, inspección y control que corresponde a la Secretaría de la Contraloría General de la Federación.
+(DEROGADO, P.O. 14 DE JULIO DE 1993)
 
 ###### ARTICULO 47.
 
@@ -441,15 +511,19 @@ Las controversias que se susciten con motivo de la interpretación o aplicación
 
 Las dependencias y entidades podrán ejecutar obras por administración directa sin intervención de contratistas, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto.
 
-Previamente a la ejecución de estas obras, el titular de la dependencia o entidad emitirá el acuerdo respectivo y lo hará del conocimiento de la Dirección de Contraloría a la que se le comunicará periódicamente sobre el avance físico, los gastos efectuados y la terminación de las obras.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+Previamente a la ejecución de estas obras, el titular de la dependencia o entidad emitirá el acuerdo respectivo y lo hará del conocimiento de la SEDESO, de la Contraloría y, en su caso, de la SEOPC, a las que se les comunicará periódicamente sobre el avance físico, los gastos efectuados y la terminación de las obras.
 
 Formarán parte integrante del acuerdo a que se refiere este Artículo: La descripción pormenorizada de la obra que se deba ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro y el presupuesto correspondiente.
 
 En la ejecución de estas obras son aplicables, en lo conducente, las disposiciones contenidas en los Artículos 38, 39, 43, 44 y 55.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 50.
 
-La dependencia o entidad deberá enviar a la Secretaría de Recursos Humanos y Materiales y a la Dirección de Contraloría, copia de los títulos de propiedad si los hubiere, y los datos sobre localización y construcción de las obras públicas, a efecto de que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado y, en su caso, para su inscripción en el Registro Público de la Propiedad del Estado.
+La dependencia o entidad deberá enviar a la SEDESO, a la Oficialía y a la Contraloría copia de los títulos de propiedad, si los tuviere, y los datos sobre localización y construcción de las obras públicas, a efecto de que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado y, en su caso, para su inscripción en el Registro Público de la Propiedad correspondiente.
 
 ###### ARTICULO 51.
 
@@ -483,59 +557,85 @@ VI.- Cuando se trate de trabajos que requieran, fundamentalmente, de mano de obr
 
 Para los casos previstos en las fracciones anteriores se convocará a la o las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás que sean necesarios.
 
-Al titular de la dependencia o entidad, en un plazo que no excederá de diez días hábiles, contados a partir de la fecha de iniciación de los trabajos, deberá informar de estos hechos a la Dirección de Contraloría.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+El titular de la dependencia o entidad, en un plazo que no excederá de diez días hábiles, contados a partir de la fecha de iniciación de los trabajos, deberá informar de estos hechos a la Contraloría.
 
 ### CAPITULO VI. DE LA INFORMACION Y VERIFICACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 55.
 
-Las dependencias deberán rendir a la Dirección de Contraloría en la forma y términos que ésta señale, la información relativa a las obras que realice o contraten.
+Las dependencias y entidades deberán rendir a la SEDESO y a la Contraloría, y en su caso a la SEOPC, en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten.
 
-La Dirección de Contraloría podrá requerir en todo tiempo la documentación específica relativa a cualquier obra.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
+La SEDESO y la Contraloría, y en su caso la SEOPC, podrán requerir en todo tiempo la documentación específica relativa a cualquier obra.
 
 Para tal efecto, las dependencias y entidades conservarán en forma ordenada y sistemática toda la documentación comprobatoria del gasto en dichas obras cuando menos por un lapso de cinco años, contados a partir de la fecha de su recepción.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 56.
 
-La Dirección de Contraloría establecerá los procedimientos de información que se requieran para el seguimiento y control del gasto que realicen las dependencias y entidades por concepto de adquisiciones de materiales, equipo y maquinaria o cualquier otro accesorio relacionado con la obra pública.
+La Contraloría, en consulta con la Oficialía, establecerá los procedimientos de información que se requieran para el seguimiento y control del gasto que realicen las dependencias y entidades por concepto de adquisiciones de materiales, equipo y maquinaria, o cualquier otro accesorio, relacionado con la obra pública.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 57.
 
-Las dependencias y entidades controlarán todas las fases de la obra pública a su cargo. Para este efecto, establecerán en consulta con la Dirección de Contraloría y de conformidad con los lineamentos que dicte el Ejecutivo del Estado, las normas y procedimientos de supervisión y control que se requieran.
+Las dependencias y entidades controlarán todas las fases de las obras públicas a su cargo. Para este efecto, establecerán en consulta con la Contraloría, y de conformidad con los lineamentos que dicte el Ejecutivo del Estado, las normas y procedimientos de supervisión y control que se requieran.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 58.
 
-La Dirección de Contraloría en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que las obras y los servicios relacionados con ellas se realicen conforme a lo establecido en esta Ley y a los programas y presupuestos autorizados.
+La Contraloría, en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que las obras y los servicios relacionados con ellas, se realicen conforme a lo establecido en esta Ley y a los programas y presupuestos autorizados.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 59.
 
-Las dependencias y entidades, a que se refiere el Artículo 1o. de esta Ley, proporcionarán todas las facultades necesarias a fin de que la Dirección de Contraloría pueda realizar el control de la obra pública.
+Las dependencias y entidades, proporcionarán todas las facilidades necesarias a fin de que la SEDESO, la SEOPC y la Contraloría, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las obras públicas.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 60.
 
-Cuando la Dirección de Contraloría tenga conocimiento de que una dependencia o entidad no se hubiere ajustado a las disposiciones de esta Ley y demás aplicables procederá como sigue:
+Las dependencias y entidades y la Contraloría, de oficio o en atención a las inconformidades a que se refiere el artículo 33, realizarán las investigaciones correspondientes, en un plazo que no excederá de 45 días hábiles, contados a partir de la fecha en que se inicien, y resolverán lo conducente para los efectos de los artículos 33, 40 y 68 de esta ley.
 
-I.- La Dirección de Contraloría solicitará las aclaraciones que estime pertinentes, o le comunicará la existencia de la violación, precisándole en qué consiste y podrá indicar las medidas que la dependencia o la entidad deberá tomar para corregirla y fijará el plazo dentro del cual deberá subsanarla;
+Durante la investigación de los hechos a que se refiere el párrafo anterior, podrá suspenderse el cumplimiento de las obligaciones pendientes por parte de las dependencias o entidades. Procederá la suspensión:
 
-II.- Dentro del plazo que se hubiere señalado, la dependencia o entidad responsable dará cuenta a la Dirección de Contraloría del cumplimiento que hubiere hecho.
+I.- Cuando se advierta que existan o pudieran existir las situaciones a que se refieren los artículos 33, 40 y 68; y
+
+II.- Cuando con ello no se siga perjuicio al interés social y no se contravengan disposiciones de orden público y siempre que, de cumplirse las obligaciones, pudieran producirse daños o perjuicios a la dependencia o entidad de que se trate.
+
+Tomada la resolución a que se refiere el primer párrafo de este artículo y sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido, las dependencias y entidades deberán proceder en los términos de los artículos 33 y 54 fracción III.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 61.
 
-La Dirección de Contraloría en el ejercicio de sus funciones que le otorga esta Ley, podrá realizar las visitas, inspecciones y verificaciones que estime pertinentes a la dependencia o entidad que realice obra pública, así como solicitar de los funcionarios y empleados de las mismas y de los contratistas en su caso, todos los datos e informes relacionados con las obras.
+La SEDESO, la Contraloría y, en su caso, la SEOPC, en el ámbito de sus respectivas atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las dependencias y entidades que realicen obra pública, así como solicitar de los servidores públicos de las mismas y de los contratistas, en su caso, todos los datos e informes relacionados con las obras.
 
 ### CAPITULO VII. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 62.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base en ellas se dicten, podrán ser sancionados por la Dirección de Contraloría con multa equivalente de diez a mil veces el salario mínimo diario vigente en el Estado en la fecha de la infracción.
+Quienes infrinjan las disposiciones contenidas en esta Ley, o las normas que con base en ellas se dicten, serán sancionados por la SEDESO, con multa equivalente a la cantidad de ciento cincuenta a nueve mil veces el salario mínimo general diario vigente en el Estado, en la fecha de la infracción. La misma sanción se aplicará a quienes interpongan inconformidad o revocación con el doloso propósito de obstaculizar la ejecución de una obra pública, independientemente del pago de los daños y perjuicios que su proceder ocasione.
 
-Sin perjuicio de lo anterior, los contratistas que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados con la suspensión o cancelación del registro en el Padrón de Contratistas de Obra Pública.
+Cuando proceda, la Contraloría y, en su caso, la SEOPC podrán proponer a la SEDESO la imposición de multas a los contratistas, en los términos del párrafo anterior, o a la dependencia o entidad contratante la rescisión administrativa del contrato en que incida la infracción.
 
-A los funcionarios y empleados que infrinjan las disposiciones de esta Ley, la Dirección de Contraloría los amonestará por escrito; y si la gravedad de la infracción lo amerita, el titular de la dependencia o entidad, según el caso, con base en la información de la Dirección de Contraloría, podrá suspender o remover de su cargo al funcionario o empleado responsable.
+Si el infractor es un servidor público la Contraloría lo sancionará conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 63.
 
-Tratándose de multas, la Dirección de Contraloría las impondrá conforme a los siguientes criterios:
+Tratándose de multas, la SEDESO las impondrá conforme a los siguientes criterios:
 
 I.- Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de destruir prácticas tendientes a infringir, en cualquier forma las disposiciones de esta Ley o las que se dicten con base en ella;
 
@@ -559,9 +659,11 @@ II.- Transcurrido el término a que se refiere la fracción anterior, se resolve
 
 III.- La resolución será debidamente fundada y motivada, y se comunicará por escrito al afectado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 66.
 
-Los funcionarios y empleados de las dependencias y entidades que, en el ejercicio de sus funciones, tengan conocimiento de infracciones a esta Ley o de las normas que de ellas se deriven deberán comunicarlo a la Dirección de Contraloría.
+Los servidores públicos de las dependencias o entidades que, en el ejercicio de sus funciones, tengan conocimiento de infracciones a esta ley o a las normas que de ellas se deriven deberán comunicarlas a las autoridades que resulten competentes conforme a la ley.
 
 La omisión a lo dispuesto en el párrafo anterior será sancionada administrativamente.
 
@@ -577,9 +679,11 @@ ARTICULO (SIC) VIII
 
 DE LOS RECURSOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 69.
 
-Cuando sea procedente la interposición del recurso de revocación en los términos de esta Ley, el interesado lo interpondrá ante la Dirección de Contraloría dentro del término de quince días hábiles, contados a partir del día hábil siguiente al de la notificación de la resolución respectiva.
+En contra de las resoluciones que dicten la SEDESO o la Contraloría, en los términos de esta ley, el interesado podrá interponer el recurso de revocación, ante la dependencia que hubiere emitido la resolución, dentro de los quince días hábiles contados a partir del siguiente día hábil al de la notificación de la resolución respectiva.
 
 La tramitación del recurso se sujetará a las normas siguientes:
 
@@ -595,11 +699,29 @@ IV.- Se tendrán por no ofrecidas las pruebas de documentos si éstos no se acom
 
 V.- La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente. De no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta;
 
-VI.- La Dirección de Contraloría podrá pedir que se le rindan los informes que estime pertinentes por parte de quienes hayan intervenido en el acto reclamado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
 
-VII.- La Dirección de Contraloría acordará lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas. La Dirección de Contraloría ordenará el desahogo de las mismas dentro del plazo de quince días hábiles, en el que será improrrogable; y
+VI.- La SEDESO o la Contraloría podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado;
 
-VIII.- Vencido el plazo para rendición de las pruebas, la Dirección de Contraloría dictará resolución en un término que no excederá de treinta días hábiles.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+
+VII.- La SEDESO o la Contraloría acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas. Las pruebas se desahogarán dentro del improrrogable plazo de quince días hábiles; y
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+
+VIII.- Vencido el plazo anterior, la SEDESO o la Contraloría, en su caso, dictarán resolución en un término no mayor de treinta días hábiles.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
+
+###### ARTICULO 70.
+
+Los acuerdos y resoluciones, que se dicten en cumplimiento de esta ley, se notificarán mediante oficio al que se anexará copia de aquéllos. Si los interesados residen en la población en que se encuentre la autoridad que dicte el acuerdo o resolución; la notificación se hará por estafeta o, de no ser así, por correo certificado con acuse de recibo.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
+
+###### ARTICULO 71.
+
+Las facultades y obligaciones que en esta ley se atribuyen a la SEDESO, SEOPC, CONTRALORIA y OFICIALIA, corresponderán a sus homólogas municipales cuando la obra pública se ejecute exclusivamente con recursos propios del Municipio. Las mencionadas dependencias estatales podrán asesorar y apoyar a las municipales a petición de las mismas, en el ejercicio de esas facultades y obligaciones. Cuando la obra pública se ejecute con recursos mixtos, el ejercicio de las referidas atribuciones se ajustará a lo pactado en los respectivos convenios de coordinación de acciones.
 
 T R A N S I T O R I O S
 
@@ -616,3 +738,13 @@ Dado en el Palacio del Poder Legislativo del Estado, de Campeche, a los treinta 
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado de Campeche, a los treinta y un días del mes de agosto del año de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado, ING. EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE JULIO DE 1993.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se faculta al Gobernador del Estado para expedir el Reglamento de la Ley de Obras Públicas del Estado de Campeche.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este decreto.
