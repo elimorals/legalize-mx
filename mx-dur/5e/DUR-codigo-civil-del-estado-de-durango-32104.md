@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1982-07-04"
+last_updated: "1986-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1986.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -5673,7 +5673,7 @@ ART. 1777.- La acción para repetir lo pagado indebidamente prescribe en un año
 
 ART. 1778.- El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral, no tiene derecho de repetir.
 
-ART. 1779.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buena (sic) costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Fisco del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
+ART. 1779.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las bue (sic) na costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Fisco del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
 
 ### CAPITULO IV.
 
@@ -9209,9 +9209,11 @@ ART. 2894.- El registrador que haga una inscripción sin cumplir con lo dispuest
 
 ART. 2895.- El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-ART. 2896.- Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces, o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio, o se ha constituido, transmitido, modificando (sic) o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El Registrador, con el aviso del Notario y sin cobro de deercho (sic) alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura, se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el Registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1986)</small>
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que éste artículo se refiere, las autoridades de que habla la fracción III del artículo 2889, y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
+ART. 2896.- Una vez que se firme una escritura en que se adquiera transmita, modifique o extinga la propiedad o posesión de bienes raíces, o en que se haga constar un crédito que tenga preferencia desde que sea registrado, el Notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio, o se ha constituído, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número tomo y sección en que estuviere inscrita la propiedad en el Registro. El Registrador, con el aviso del Notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro de los ciento veinte días siguientes a la fecha en que se hubiere firmado la escritura, se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que éste Artículo se refiere, las autoridades de que habla la Fracción III del Artículo 2889, y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
 
 ART. 2897.- Los encargados del Registro son responsables además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
 
@@ -9402,5 +9404,9 @@ P.O. 31 DE DICIEMBRE DE 1981.
 UNICO.- El presente Decreto entrará en vigor el día 1° de Enero del año de 1982.
 
 P.O. 4 DE JULIO DE 1982.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 1986.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
