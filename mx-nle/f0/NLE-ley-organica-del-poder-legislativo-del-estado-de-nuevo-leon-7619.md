@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "1994-10-21"
+last_updated: "1994-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -269,6 +269,10 @@ La misma declaratoria se hará en la apertura del segundo y tercer año.
 
 Si se tratara del período de excepción a que se refiere el segundo párrafo del artículo 55 de la Constitución Política del Estado se hará constar esta circunstancia.
 
+> <small>(ADICIONADO, P. O. 21 DE NOVIEMBRE DE 1994)</small>
+
+En esta Sesión se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
+
 ###### Artículo 37.
 
 Si por falta del quórum establecido en el Artículo 56 de la Constitución Política del Estado, el Congreso no queda instalado para la fecha indicada en el Artículo anterior, de conformidad con el Artículo 67 Constitucional, la Legislatura cuyo ejercicio termina, continuará en funciones hasta que deje instalada a la nueva.
@@ -280,6 +284,10 @@ Cuando se trate de iniciación de Período Extraordinario de Sesiones se hará l
 ###### Artículo 39.
 
 En la Sesión Solemne en la que el C. Gobernador Constitucional del Estado haya de rendir el Informe a que se refiere el Artículo 57 de la Constitución Política del Estado, serán invitados los CC. Magistrados del Tribunal Superior de Justicia, Presidente Municipal de Monterrey, la Primera Autoridad Militar en el Estado y demás personas que se estime conveniente como invitados de honor.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1994)</small>
+
+En esta Sesión se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
 
 ## TITULO TERCERO
 
@@ -740,3 +748,7 @@ UNICO: El presente Decreto entrará en vigor al día siguiente de su publicació
 P.O. 21 DE OCTUBRE DE 1994.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
