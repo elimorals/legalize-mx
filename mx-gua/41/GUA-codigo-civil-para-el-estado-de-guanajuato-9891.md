@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2002-11-19"
+last_updated: "2005-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2005.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -3173,7 +3173,7 @@ II. Por falta o incapacidad de los hermanos, a los de más colaterales dentro de
 
 ###### Art. 538.
 
-Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que le parezca más apto para el cargo, oyendo al Ministerio Público; pero si el menor hubiere cumplido catorce años el hará la elección.
+Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que le parezca más apto para el cargo, oyendo al Ministerio Público; pero si el menor hubiere cumplido catorce años él hará la elección.
 
 ###### Art. 539.
 
@@ -3193,7 +3193,7 @@ Los hijos mayores de edad son tutores de su padre o madre viudos.
 
 ###### Art. 542.
 
-Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el Juez elegirá al que le parezca más-apto.
+Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el Juez elegirá al que le parezca más apto.
 
 ###### Art. 543.
 
@@ -3571,7 +3571,7 @@ El tutor está obligado a inscribir en el inventario, el crédito que tenga cont
 
 ###### Art. 605.
 
-Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él con las mismas formalidades prescritas en la fracción lII del artículo 591.
+Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él con las mismas formalidades prescritas en la fracción III del artículo 591.
 
 ###### Art. 606.
 
@@ -3977,7 +3977,7 @@ II. De un tutor para negocios judiciales.
 
 (DEROGADO, P.O. 16 DE JULIO DE 1970)
 
-### Capítulo lII. De los efectos de la declaración de ausencia
+### Capítulo III. De los efectos de la declaración de ausencia
 
 ###### Art. 694.
 
@@ -4287,7 +4287,7 @@ Cuando hecha la declaración de ausencia o la de presunción de muerte de una pe
 
 ###### Art. 758.
 
-Los poseedores definitivos darán cuenta al ausente y a su herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, o desde aquél en que por sentencia que cause ejecutoria se haya deferido la herencia.
+Los poseedores definitivos darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, o desde aquél en que por sentencia que cause ejecutoria se haya deferido la herencia.
 
 ###### Art. 759.
 
@@ -4351,7 +4351,7 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 ## Título Duodécimo. Del patrimonio familiar
 
-### Capítulo lII. De los bienes considerados según las personas a quienes pertenecen
+### Capítulo III. De los bienes considerados según las personas a quienes pertenecen
 
 ###### Art. 771.
 
@@ -4415,7 +4415,7 @@ Si se llenan las condiciones exigidas en el artículo anterior, el Juez, previos
 
 ###### Art. 781.
 
-Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al maximum fijado en el artículo 778, podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento señalado para su constitución.
+Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximum fijado en el artículo 778, podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento señalado para su constitución.
 
 ###### Art. 782.
 
@@ -5511,7 +5511,7 @@ d) En general, las cosas que no se encuentren afectadas al uso exclusivo de cual
 
 Las cosas necesarias o convenientes para la seguridad, salubridad y conservación de determinadas partes privativas, o para permitir o facilitar su uso o goce, serán comunes solamente a los propietarios de dichas unidades privativas, siempre que se acuerde expresamente así, por la totalidad de los dueños de los locales que integran el edificio, o bien que así conste en la escritura constitutiva del régimen de condominio.
 
-Los techopisos entre dos plantas del edificio y los muros u otras divisiones que separen entre si unidades privativas se considerarán de propiedad común de los dueños de dichas localidades.
+Los techopisos entre dos plantas del edificio y los muros u otras divisiones que separen entre sí unidades privativas se considerarán de propiedad común de los dueños de dichas localidades.
 
 ###### Art. 997.
 
@@ -5601,7 +5601,7 @@ De la asamblea y del administrador
 
 ###### Art. 1010.
 
-La asamblea es la máxima autoridad del consorcio de propietarios. Constituída válidamente, sus resoluciones son de cumplimiento obligatorio, aún para los ausentes o disidentes, siempre que hubieren sido adoptadas por las mayorías exigidas en esta parte quinta.
+La asamblea es la máxima autoridad del consorcio de propietarios. Constituida válidamente, sus resoluciones son de cumplimiento obligatorio, aún para los ausentes o disidentes, siempre que hubieren sido adoptadas por las mayorías exigidas en esta parte quinta.
 
 ###### Art. 1011.
 
@@ -5927,7 +5927,7 @@ El poseedor que haya adquirido la posesión por algún hecho delictuoso, está o
 
 ###### Art. 1063.
 
-Las mejoras voluntarias no son abonables a ningún poseedor, pero el de buena fe puede retirarlas conforme a lo dispuesto en el artículo 1058, fracción lII.
+Las mejoras voluntarias no son abonables a ningún poseedor, pero el de buena fe puede retirarlas conforme a lo dispuesto en el artículo 1058, fracción III.
 
 ###### Art. 1064.
 
@@ -6115,7 +6115,7 @@ El usufructuario goza del derecho del tanto y en su caso del de retracto salvo q
 
 El usufructuario antes de entrar en el goce de los bienes, está obligado:
 
-I. A formar a sus expensas, concitación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallen los inmuebles;
+I. A formar a sus expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallen los inmuebles;
 
 II. A dar la correspondiente fianza de que disfrutará de las cosas con moderación y las restituirá al propietario con sus accesiones al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia salvo lo dispuesto en el artículo 487.
 
@@ -6311,7 +6311,7 @@ El usufructo no se extingue por el mal uso que haga el usufructuario de la cosa 
 
 Terminado el usufructo, los contratos que respecto de él haya celebrado el usufructuario no obligan al propietario y éste entrará en posesión de la cosa, sin que contra él tengan derecho los que contrataron con el usufructuario, para pedirle indemnización por la terminación de sus contratos, ni por las estipulaciones de éstos, que sólo pueden hacer valer contra el usufructuario y sus herederos, salvo lo dispuesto en el artículo 1088.
 
-### Capítulo lII. De la servidumbre legal de desagüe
+### Capítulo III. De la servidumbre legal de desagüe
 
 ###### Art. 1146.
 
@@ -6353,7 +6353,7 @@ Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas
 
 La servidumbre es un gravamen real impuesto sobre un inmueble en beneficio de otro perteneciente a distinto dueño.
 
-El inmueble a cuyo favor está constituída la servidumbre se llama predio dominante; el que la sufre, predio sirviente.
+El inmueble a cuyo favor está constituida la servidumbre se llama predio dominante; el que la sufre, predio sirviente.
 
 ###### Art. 1155.
 
@@ -6385,7 +6385,7 @@ Las servidumbres son inseparables del inmueble a que activa o pasivamente perten
 
 ###### Art. 1162.
 
-Si los inmuebles mudan de dueño la servidumbre continua, ya activa, ya pasivamente, en el inmueble en que estaba constituída, hasta que legalmente se extinga.
+Si los inmuebles mudan de dueño la servidumbre continua, ya activa, ya pasivamente, en el inmueble en que estaba constituida, hasta que legalmente se extinga.
 
 ###### Art. 1163.
 
@@ -6633,7 +6633,7 @@ Si el dueño del predio sirviente se hubiere obligado en el título constitutivo
 
 ###### Art. 1218.
 
-El dueño del predio sirviente no podrá menoscabar de modo alguno la servidumbre constituída sobre éste.
+El dueño del predio sirviente no podrá menoscabar de modo alguno la servidumbre constituida sobre éste.
 
 ###### Art. 1219.
 
@@ -6655,7 +6655,7 @@ Si el dueño del predio dominante se opone a las obras de que trata el artículo
 
 Cualquier duda sobre el uso y extensión de la servidumbre se decidirá en el sentido menos gravoso para el predio sirviente, sin imposibilitar o hacer difícil el uso de la servidumbre.
 
-### Capítulo lII. De la prescripción negativa
+### Capítulo III. De la prescripción negativa
 
 ###### Art. 1224.
 
@@ -6947,7 +6947,7 @@ La interrupción de la prescripción a favor de alguno de los acreedores solidar
 
 El efecto de la interrupción es inutilizar, para la prescripción, todo el tiempo corrido antes de ella.
 
-### Capítulo lII. Del enriquecimiento ilegítimo
+### Capítulo III. Del enriquecimiento ilegítimo
 
 ###### Art. 1274.
 
@@ -7349,7 +7349,7 @@ El contratante afectado podrá solicitar la modificación o resolución del cont
 
 ###### Art. 1352.
 
-En los casos de los artículos 1349, fracción IV, 1350 y 1351, fracciones II y lII, para que opere la terminación del contrato será necesaria la resolución judicial
+En los casos de los artículos 1349, fracción IV, 1350 y 1351, fracciones II y III, para que opere la terminación del contrato será necesaria la resolución judicial
 
 ###### Art. 1353.
 
@@ -7477,7 +7477,7 @@ El que de buena fe hubiere aceptado un pago indebido tiene derecho a que se le a
 
 ###### Art. 1379.
 
-Queda libre de la obligación de restituir el que, creyendo de buena fe que se hacia el pago por cuenta de un crédito legítimo y subsistente, hubiese inutilizado el título, dejado de prescribir la acción, abandonado las prendas o cancelado las garantías de su derecho. El que paga indebidamente sólo podrá dirigirse contra el verdadero deudor o los fiadores, respecto de los cuales la acción estuviere viva.
+Queda libre de la obligación de restituir el que, creyendo de buena fe que se hacía el pago por cuenta de un crédito legítimo y subsistente, hubiese inutilizado el título, dejado de prescribir la acción, abandonado las prendas o cancelado las garantías de su derecho. El que paga indebidamente sólo podrá dirigirse contra el verdadero deudor o los fiadores, respecto de los cuales la acción estuviere viva.
 
 ###### Art. 1380.
 
@@ -7561,7 +7561,7 @@ Cuando sin consentimiento del obligado a prestar alimentos los diese un extraño
 
 Los gastos funerarios proporcionados a la condición de la persona y a los usos de la localidad deberán ser satisfechos al que los haga, aunque el difunto no hubiere dejado bienes, por aquellos que hubieren tenido la obligación de alimentarlo en vida.
 
-### Capítulo lII. De las obligaciones conjuntivas y alternativas
+### Capítulo III. De las obligaciones conjuntivas y alternativas
 
 ###### Art. 1399.
 
@@ -7645,9 +7645,7 @@ En los casos previstos por los artículos 1413, 1414 y 1415, el que sufra el da�
 
 El que paga el daño causado por sus trabajadores, sirvientes, aprendices, puede repetir de ellos lo que hubiere pagado.
 
-###### Art. 1418.
-
-El Estado y los Municipios tienen obligación de responder de los daños causados por sus funcionarios y empleados en el ejercicio de las funciones que les estén encomendadas. Esta responsabilidad es subsidiaria y sólo podrá hacerse efectiva contra el Estado y los Municipios cuando los funcionarios y empleados directamente responsables no tengan bienes, o los que tengan no sean suficientes para responder del daño causado.
+ART. 1418. (DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 7 DE ENERO DE 2005)
 
 ###### Art. 1419.
 
@@ -8027,7 +8025,7 @@ Las obligaciones divisibles en que haya más de un deudor o acreedor se regirán
 
 Cada uno de los que han contraído conjuntamente una deuda indivisible, está obligado por el todo, aunque no se haya estipulado solidaridad.
 
-Lo mismo tiene lugar respecto de los herederos de aquél que haya contaído una obligación indivisible.
+Lo mismo tiene lugar respecto de los herederos de aquél que haya contraído una obligación indivisible.
 
 ###### Art. 1495.
 
@@ -8155,7 +8153,7 @@ III. Cuando la obligación sea indivisible;
 
 IV. Cuando por contrato se ha determinado otra cosa.
 
-### Capítulo lII. De la subrogación
+### Capítulo III. De la subrogación
 
 ###### Art. 1515.
 
@@ -8909,7 +8907,7 @@ Si el acreedor que pide nulidad, para acreditar la insolvencia del deudor, prueb
 
 Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores
 
-### Capítulo lII. De la remisión de la deuda
+### Capítulo III. De la remisión de la deuda
 
 ###### Art. 1671.
 
@@ -9071,7 +9069,7 @@ Habiendo varios fiadores solidarios, el perdón que fuere concedido solamente a 
 
 La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
 
-### Capítulo lII. De los que pueden vender y comprar
+### Capítulo III. De los que pueden vender y comprar
 
 ###### Art. 1704.
 
@@ -9583,7 +9581,7 @@ El derecho adquirido por el pacto de preferencia no puede cederse, ni pasa a los
 
 ###### Art. 1807.
 
-Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el Capítulo lII Título Décimosegundo relativo a la compra de esperanza.
+Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el Capítulo III Título Décimosegundo relativo a la compra de esperanza.
 
 ###### Art. 1808.
 
@@ -9607,7 +9605,7 @@ Las convenciones que impongan al comprador obligaciones más onerosas que las ex
 
 Puede pactarse validamente que el vendedor se reserva la propiedad de la cosa vendida hasta que su precio haya sido pagado.
 
-Cuando los bienes vendidos sean de los mencionados en las fracción (sic) I y II del artículo 1808, el pacto de que se trate produce efectos contra tercero, si se inscribe en el Registro Público. Cuando los bienes sean de la clase a que se refiere la fracción lII del artículo que se acaba de citar, se aplicará lo dispuesto en esta fracción.
+Cuando los bienes vendidos sean de los mencionados en las fracción (sic) I y II del artículo 1808, el pacto de que se trate produce efectos contra tercero, si se inscribe en el Registro Público. Cuando los bienes sean de la clase a que se refiere la fracción III del artículo que se acaba de citar, se aplicará lo dispuesto en esta fracción.
 
 ###### Art. 1811.
 
@@ -9643,7 +9641,7 @@ La venta de bienes raíces no producirá efectos contra tercero sino después de
 
 La venta de un mueble enajenado con las limitaciones señaladas en el artículo 1808 deberá hacerse en escritura privada, por triplicado que firmarán las partes y ratificarán ante Notario Público o quien haga sus veces para que pueda inscribirse en el Registro Público de la Propiedad. El Notario tomará razón en su protocolo de la ratificación, del día y la hora en que tenga lugar y así lo hará constar en la escritura privada relativa.
 
-### Capítulo lII. De la revocación y reducción de las donaciones
+### Capítulo III. De la revocación y reducción de las donaciones
 
 ###### Art. 1818.
 
@@ -9779,7 +9777,7 @@ Si la donación se hace con la carga de pagar las deudas del donante, sólo se e
 
 ###### Art. 1849.
 
-Si la donación fuere de ciertos y determinados bienes, el donatario no responderá de las deudas del donante, pero cuando sobre los bienes donados estuviere constituída alguna hipoteca o prenda responderá solamente por el crédito hipotecario o prendario hasta el límite del valor de los bienes donados y en caso de fraude en perjuicio de los acreedores el donatario también responderá hasta por el importe de dichos bienes.
+Si la donación fuere de ciertos y determinados bienes, el donatario no responderá de las deudas del donante, pero cuando sobre los bienes donados estuviere constituida alguna hipoteca o prenda responderá solamente por el crédito hipotecario o prendario hasta el límite del valor de los bienes donados y en caso de fraude en perjuicio de los acreedores el donatario también responderá hasta por el importe de dichos bienes.
 
 ###### Art. 1850.
 
@@ -9987,7 +9985,7 @@ En el caso de haberse pactado que la restitución se hará cuando pueda o tenga 
 
 No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-### Capítulo lII. De los derechos y obligaciones del arrendatario
+### Capítulo III. De los derechos y obligaciones del arrendatario
 
 ###### Art. 1893.
 
@@ -10059,7 +10057,7 @@ Se prohíbe a los magistrados, a los jueces y a cualesquiera otros empleados pú
 
 ###### Art. 1907.
 
-Se prohíbe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
+Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
 
@@ -10143,7 +10141,7 @@ III. Cuando el contrato fuere por tiempo indeterminado, si el arrendador autoriz
 
 ###### Art. 1922.
 
-Las mejoras a que se refieren las fracciones II y lII del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
+Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
 
 ### Capítulo VI. Del arrendamiento de los bienes muebles
 
@@ -10483,7 +10481,7 @@ Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día pref
 
 En los contratos de arrendamientos por tiempo determinado, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Para ese fin el arrendatario deberá notificar al arrendador su deseo de prorrogar el contrato antes de llegar al término de su vencimiento. Podrá el arrendador incrementar la renta en la misma proporción que haya aumentado el salario mínimo durante el tiempo de vigencia del contrato.
 
-Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que vayan a ocupar el inmueble, para su propio uso o de su cónyuge o parientes en primer grado. También quedan exceptuados de dicha prórroga los propietarios que pretendan reconstruir la finca cuando ésta amenaza ruina o que pretendan hacerle modificaciones o mejoras con un costo no menor del veinticinco por ciento de su valor comercial, prevía la aprobación de la obra por la oficina respectiva.
+Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que vayan a ocupar el inmueble, para su propio uso o de su cónyuge o parientes en primer grado. También quedan exceptuados de dicha prórroga los propietarios que pretendan reconstruir la finca cuando ésta amenaza ruina o que pretendan hacerle modificaciones o mejoras con un costo no menor del veinticinco por ciento de su valor comercial, previa la aprobación de la obra por la oficina respectiva.
 
 ###### Art. 1993.
 
@@ -10497,7 +10495,7 @@ Si posteriormente no ocupare la casa, cultivare la finca, o llevare a cabo la re
 
 ###### Art. 1995.
 
-Si después de terminado el arrendamiento y su prórroga, si la hubo, continua el arrendatario sin oposición en el goce y uso del predio, y éste es rústico, se entenderá renovado el contrato por otro año.
+Si después de terminado el arrendamiento y su prórroga, si la hubo, continúa el arrendatario sin oposición en el goce y uso del predio, y éste es rústico, se entenderá renovado el contrato por otro año.
 
 ###### Art. 1996.
 
@@ -10517,7 +10515,7 @@ El arrendador puede exigir la rescisión del contrato:
 
 I. Por falta de pago de la renta, en los términos prevenidos en los artículos 1953 y 1955; pero en el caso de fincas urbanas destinadas para habitación se requiere que el inquilino deje de pagar dos mensualidades consecutivas;
 
-II. Por usarse la cosa en contravención a lo dispuesto en la fracción lII del artículo 1923;
+II. Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 1923;
 
 III. Por subarriendo de la cosa en contravención a lo dispuesto en el artículo 1984.
 
@@ -10697,7 +10695,7 @@ Cuando no se ha estipulado tiempo, el depositario puede devolver el depósito al
 
 ###### Art. 2041.
 
-El depositante está obligado a indemnizar al depositario de todos los gastos que haya hecho en la conservación del depósito y de los perjuicios que por él haya sufrido .
+El depositante está obligado a indemnizar al depositario de todos los gastos que haya hecho en la conservación del depósito y de los perjuicios que por él haya sufrido.
 
 ###### Art. 2042.
 
@@ -10723,7 +10721,7 @@ El hostelero no se exime de la responsabilidad que le imponen los dos artículos
 
 Las fondas, cafés, casas de baño y otros establecimientos semejantes no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-### Capítulo lII. De las obligaciones del mandante con relación al mandatario
+### Capítulo III. De las obligaciones del mandante con relación al mandatario
 
 ###### Art. 2048.
 
@@ -11049,7 +11047,7 @@ El procurador que ha sustituido un poder puede revocar la sustitución si tiene 
 
 La parte puede ratificar, antes de que se dicte sentencia ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
-### Capítulo lII. De los porteadores y alquiladores
+### Capítulo III. De los porteadores y alquiladores
 
 ###### Art. 2108.
 
@@ -11407,7 +11405,7 @@ El contrato de transporte se resolverá de hecho antes de emprenderse el viaje, 
 
 En el caso previsto en el artículo anterior, cada uno de los interesados perderá los gastos que hubiere hecho si el viaje no se ha verificado; si está en curso, el porteador tendrá derecho a que se le pague del porte la parte proporcional al camino recorrido, y la obligación de presentar los efectos, para su depósito, a la autoridad judicial del punto en que ya no le sea posible continuarlo, comprobando y recabando la constancia relativa de hallarse en el estado consignado en la carta de porte, de cuyo hecho dará conocimiento oportuno al cargador, a cuya disposición deben quedar.
 
-### Capítulo lII. De la administración de la sociedad
+### Capítulo III. De la administración de la sociedad
 
 ###### Art. 2185.
 
@@ -11771,7 +11769,7 @@ Para que las asociaciones y sociedades extranjeras de carácter civil puedan eje
 
 Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el Registro los estatutos de las asociaciones y sociedades extranjeras.
 
-### Capítulo lII. De la compra de esperanza
+### Capítulo III. De la compra de esperanza
 
 ###### Art. 2255.
 
@@ -11815,7 +11813,7 @@ El que hubiere firmado una obligación que en realidad tenía por causa de una d
 
 ###### Art. 2263.
 
-Si a una obligación de juego o de apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscritor debe pagarla al portador de buena fe, y tendrá derecho de repetir contra el primitivo acreedor en los términos del artículo 2257.
+Si a una obligación de juego o de apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscriptor debe pagarla al portador de buena fe, y tendrá derecho de repetir contra el primitivo acreedor en los términos del artículo 2257.
 
 ###### Art. 2264.
 
@@ -11903,7 +11901,7 @@ El pensionista sólo puede demandar las pensiones justificando su supervivencia 
 
 Si el que paga la renta vitalicia ha causado la muerte del acreedor o la de aquél sobre cuya vida había sido constituida, debe devolver el capital al que la constituyó o a sus herederos.
 
-### Capítulo lII. De los efectos de la fianza entre el fiador y el deudor
+### Capítulo III. De los efectos de la fianza entre el fiador y el deudor
 
 ###### Art. 2285.
 
@@ -12001,7 +11999,7 @@ No tendrá lugar la responsabilidad del artículo anterior, si el que dio la car
 
 ###### Art. 2306.
 
-Quedan sujetas a las disposiciones de este título las fianzas otorgadas por individuos o compañías accidentalmente en favor de determinadas personas, siempre que no las extiendan en forma de póliza; que no las anuncien públicamente por la prensa o por cualquier otro rnedio, y que no empleen agentes que las ofrezcan.
+Quedan sujetas a las disposiciones de este título las fianzas otorgadas por individuos o compañías accidentalmente en favor de determinadas personas, siempre que no las extiendan en forma de póliza; que no las anuncien públicamente por la prensa o por cualquier otro medio, y que no empleen agentes que las ofrezcan.
 
 ### Capítulo V. De la extinción de la fianza
 
@@ -12025,7 +12023,7 @@ La excusión consiste en aplicar todo el valor libre de los bienes del deudor al
 
 La excusión no tendrá lugar:
 
-I. Cuando el fiador renuncio expresamente a ella;
+I. Cuando el fiador renunció expresamente a ella;
 
 II. En los casos de concurso o de insolvencia probada del deudor.
 
@@ -12063,7 +12061,7 @@ El acreedor que, cumplidos los requisitos del artículo 2312, hubiere sido negli
 
 ###### Art. 2317.
 
-Cuando el fiador haya renunciado el beneficio de orden, pero no el de excusión, el acreedor puede perseguir en un mismo juicio al deudor principal y al fiador; más éste conservará el beneficio de excusión, aun cuando se de sentencia contra los dos.
+Cuando el fiador haya renunciado el beneficio de orden, pero no el de excusión, el acreedor puede perseguir en un mismo juicio al deudor principal y al fiador; más éste conservará el beneficio de excusión, aun cuando se dé sentencia contra los dos.
 
 ###### Art. 2318.
 
@@ -12169,7 +12167,7 @@ III. Cuando alguno o algunos de los fiadores son concursados o se hallan insolve
 
 IV. En el caso de la fracción IV del artículo 2311;
 
-V. Cuando alguno o algunos de los fiadores se encuentren en alguno de los casos señalados para el deudor en las fracciones lII y V del mencionado artículo 2311.
+V. Cuando alguno o algunos de los fiadores se encuentren en alguno de los casos señalados para el deudor en las fracciones III y V del mencionado artículo 2311.
 
 ###### Art. 2335.
 
@@ -12213,7 +12211,7 @@ El fiador que se ha obligado por tiempo determinado, queda libre de su obligaci�
 
 Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, cuando la deuda principal se vuelva exigible, de pedir al acreedor que promueva judicialmente, dentro del plazo de un mes, el cumplimiento de la obligación. Si el acreedor no ejercita sus derechos dentro del plazo mencionado, o si en el juicio entablado deja de promover, sin causa justificada, por más de tres meses, el fiador quedará libre de su obligación.
 
-### Capítulo lII. De la hipoteca necesaria
+### Capítulo III. De la hipoteca necesaria
 
 ###### Art. 2345.
 
@@ -12537,7 +12535,7 @@ Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, 
 
 ###### Art. 2410.
 
-La hipoteca constituída a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses y de que se haya tomado razón de esta estipulación en el Registro Público.
+La hipoteca constituIda a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses y de que se haya tomado razón de esta estipulación en el Registro Público.
 
 ###### Art. 2411.
 
@@ -12547,7 +12545,7 @@ Puede también convenir con el deudor en que se le adjudique en el precio que se
 
 ###### Art. 2412.
 
-La hipoteca puede ser constituída, tanto por el deudor como por otro a su favor.
+La hipoteca puede ser constituida, tanto por el deudor como por otro a su favor.
 
 ###### Art. 2413.
 
@@ -12561,7 +12559,7 @@ El predio común no puede ser hipotecado sino con consentimiento de todos los pr
 
 ###### Art. 2415.
 
-La hipoteca sólo puede ser constituída en escritura pública o en los títulos a que se refiere el segundo párrafo del artículo 1815 de este Código.
+La hipoteca sólo puede ser constituida en escritura pública o en los títulos a que se refiere el segundo párrafo del artículo 1815 de este Código.
 
 ###### Art. 2416.
 
@@ -12587,7 +12585,7 @@ Cuando se contraiga la obligación futura o se cumplan las condiciones de que tr
 
 El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2415, se dé conocimiento al deudor y sea inscrita en el Registro.
 
-Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
+Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
 
@@ -12651,7 +12649,7 @@ V. El Estado, los Municipios y los establecimientos públicos, sobre los bienes 
 
 ###### Art. 2430.
 
-La constitución de hipoteca en los casos a que se refieren las fracciones II y lII del artículo anterior, puede ser pedida:
+La constitución de hipoteca en los casos a que se refieren las fracciones II y III del artículo anterior, puede ser pedida:
 
 I. En el caso de bienes de que fueren meros administradores los padres, por los herederos legítimos del menor;
 
@@ -12669,9 +12667,9 @@ Los que conforme al artículo 2429, tienen el derecho de exigir la constitución
 
 ###### Art. 2433.
 
-Si el responsable de la hipoteca designada en las fracciones II, lII y IV del artículo 2429, no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 2486, salvo lo dispuesto en el Capítulo IX, Título Noveno, Libro Primero.
+Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2429, no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 2486, salvo lo dispuesto en el Capítulo IX, Título Noveno, Libro Primero.
 
-### Capítulo lII. De algunos acreedores preferentes sobre determinados bienes
+### Capítulo III. De algunos acreedores preferentes sobre determinados bienes
 
 ### Capítulo IV. Acreedores de primera clase
 
@@ -12813,7 +12811,7 @@ Los capitales debidos serán pagados en el orden establecido en este título y s
 
 ###### Art. 2459.
 
-El deudor puede celebrar con sus acreedores los convenios que estime oportunos, pero esos convenios se harán precisamente en junta de acreedores debidamente constituída.
+El deudor puede celebrar con sus acreedores los convenios que estime oportunos, pero esos convenios se harán precisamente en junta de acreedores debidamente constituida.
 
 Los pactos particulares entre el deudor y cualquiera de sus acreedores serán nulos.
 
@@ -12989,7 +12987,7 @@ VI. La reparación del daño o la responsabilidad civil en la parte que comprend
 
 Pagados los créditos antes mencionados, se pagarán:
 
-I. Los créditos de las personas comprendidas en las fracciones II, lII y IV del artículo 2429, que no hubieren exigido la hipoteca necesaria;
+I. Los créditos de las personas comprendidas en las fracciones II, III y IV del artículo 2429, que no hubieren exigido la hipoteca necesaria;
 
 II. Los créditos del erario que no estén comprendidos en el artículo 2471 y los créditos a que se refiere la fracción V del artículo 2429, que no hayan sido garantizados en la forma allí prevenida;
 
@@ -13153,7 +13151,7 @@ En caso de resultar incristo (sic) o anotado ese derecho a favor de persona dist
 
 Cuando se trate de fincas no inscritas, la inscripción primaria sólo podrá hacerse por resolución judicial especialmente razonada.
 
-### Capítulo lII. De la capacidad para heredar
+### Capítulo III. De la capacidad para heredar
 
 ###### Art. 2506.
 
@@ -13207,7 +13205,7 @@ Toda inscripción que se haga en el Registro expresará las circunstancias sigui
 
 I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título o la referencia al registro anterior en donde consten estos datos; asimismo, constará la mención de haberse agregado el plano o croquis al legajo respectivo;
 
-II. La naturaleza, extensión, condiciones suspensivas o resultorias, cargas y demás modalidades del derecho que se constituya, transmita, modifique o extinga;
+II. La naturaleza, extensión, condiciones suspensivas o resolutorias, cargas y demás modalidades del derecho que se constituya, transmita, modifique o extinga;
 
 III. El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, podrán los interesados fijar en el título la estimación que le den;
 
@@ -13923,7 +13921,7 @@ Si el legatario muere antes de aceptar un legado y deja varios herederos, puede 
 
 ###### Art. 2655.
 
-Si se dejaren dos legados y uno fuere oneroso, el legatorio no podrá renunciar éste y aceptar el que no lo sea. Si los dos son onerosos o gratuitos, es libre para aceptarlos todos o repudiar el que quiera.
+Si se dejaren dos legados y uno fuere oneroso, el legatario no podrá renunciar éste y aceptar el que no lo sea. Si los dos son onerosos o gratuitos, es libre para aceptarlos todos o repudiar el que quiera.
 
 ###### Art. 2656.
 
@@ -14181,7 +14179,7 @@ El obligado a la entrega del legado responderá en caso de evicción, si la cosa
 
 ###### Art. 2716.
 
-En el legado de especie, el heredero debe entregar la misma cosa legada; en caso de pérdida se observará lo dispuesto para las obligaciones de dar cosa determinada .
+En el legado de especie, el heredero debe entregar la misma cosa legada; en caso de pérdida se observará lo dispuesto para las obligaciones de dar cosa determinada.
 
 ###### Art. 2717.
 
@@ -14227,7 +14225,7 @@ Sólo duran veinte años los legados de que trata el artículo anterior, si fuer
 
 Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
 
-### Capítulo lII. Del testamento público cerrado
+### Capítulo III. Del testamento público cerrado
 
 ###### Art. 2728.
 
@@ -14367,7 +14365,7 @@ I. Público abierto;
 
 II. Público cerrado; y
 
-lII. Ológrafo.
+III. Ológrafo.
 
 ###### Art. 2757.
 
@@ -14415,7 +14413,7 @@ En el caso del artículo que precede, no tendrá validez el testamento mientras 
 
 ###### Art. 2763.
 
-Se prohíbe a los notarios y a cualquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar espacios en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los notarios y de la mitad a los que no lo fueren.
+Se prohibe a los notarios y a cualquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar espacios en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los notarios y de la mitad a los que no lo fueren.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
 
@@ -16008,3 +16006,25 @@ P.O. 19 DE NOVIEMBRE DE 2002.
 Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Las reformas y adiciones del presente Decreto, solo serán aplicables respecto de los créditos que se contraten posteriormente a la entrada en vigor del mismo.
+
+P.O. 7 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los noventa días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En los procedimientos de responsabilidad patrimonial iniciados durante el ejercicio fiscal del 2004, en los que se determine una indemnización a cargo de los sujetos obligados, deberá atenderse en lo conducente, lo dispuesto en los artículos 7 y 20 del presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Los sujetos obligados referidos en la presente Ley, a partir del ejercicio fiscal del 2005 incluirán en sus respectivos presupuestos una partida que haga frente a su responsabilidad patrimonial.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga el artículo 1418 del Código Civil para el Estado de Guanajuato.
+
+###### ARTÍCULO QUINTO.
+
+Se deroga el segundo párrafo del artículo 7 de la Ley Orgánica Municipal para el Estado de Guanajuato.
