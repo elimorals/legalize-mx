@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2004-06-04"
+last_updated: "2004-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -179,33 +179,35 @@ IX.- Secretaría de Desarrollo Agropecuario;
 
 X.- Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XI.- Secretaría de Desarrollo Metropolitano;
+XI. Secretaría de Turismo y Desarrollo Artesanal;
 
-> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XII.- Secretaría de la Contraloría;
+XII. Secretaría de Desarrollo Metropolitano;
 
-> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XIII.- Secretaría de Comunicaciones;
+XIII. Secretaría de la Contraloría;
 
-> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XIV.- Secretaría de Transporte;
+XIV. Secretaría de Comunicaciones;
 
-> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XV.- Secretaría de Ecología;
+XV. Secretaría de Transporte;
 
-XVI.- (DEROGADA, G.G. 31 DE OCTUBRE DE 2003)
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+XVI. Secretaría de Ecología;
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
-> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-Las secretarías a que se refieren las fracciones II a XV de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+Las Secretarias a las que se refieren las fracciones II a XVI de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -1081,43 +1083,95 @@ La Secretaría de Desarrollo Económico es la dependencia encargada de regular, 
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
-I.- Proponer al Gobernador las políticas y programas relativos al fomento de las actividades industriales, mineras, artesanales, turísticas y comerciales;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-II.- Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción económica para el desarrollo de la Entidad;
+I. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades industriales, mineras y comerciales;
 
-III.- Fomentar la creación de fuentes de empleo impulsando el establecimiento de mediana y pequeña industria en el Estado, así como la creación de parques industriales y centros comerciales;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-IV.- Organizar, promover y coordinar las actividades necesarias para lograr un mejor aprovechamiento de los recursos turísticos del Estado;
+II. Participar en la planeación y programación de las obras e inversiones tendientes a promover la racional explotación de los recursos minerales del Estado;
 
-V.- Explotar directamente, otorgar y revocar concesiones para la explotación de los recursos turísticos del Estado, así como, para la creación de centros, establecimientos y la prestación de servicios turísticos en el Estado;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-VI.- Controlar y supervisar, de acuerdo a las leyes y reglamentos de la materia, la prestación de los servicios turísticos que se realicen en el Estado;
+III. Servir de órgano de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
 
-VII.- Participar en la planeación y programación de las obras e inversiones tendientes a promover la racional explotación de los recursos minerales del Estado;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-VIII.- Servir de órganos de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
+IV. Asesorar técnicamente a los Ayuntamientos, a los sectores sociales y privados que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos;
 
-IX.- Asesorar técnicamente a los Ayuntamientos, a los sectores sociales y privados que los soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-X.- Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industria rural;
+V. Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industrial rural;
 
-XI.- Apoyar los programas de investigación tecnológica industrial y fomentar su divulgación;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XII.- Promover la realización de ferias, exposiciones y congresos industriales y comerciales;
+VI. Apoyar los programas de investigación tecnológica, industrial y fomentar su divulgación;
 
-XIII.- Participar en la creación y administración de parques, corredores y ciudades industriales en el Estado;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XIV.- Formular y promover el establecimiento de medidas para el fomento y protección del comercio de primera mano en el Estado;
+VII. Promover la realización de ferias, exposiciones y congresos industriales y comerciales;
 
-XV.- Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, turística y comercial contengan los convenios firmados entre él mismo y la administración pública federal;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XVI.- Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos ventajosos para los artesanos;
+VIII. Participar en la creación y administración de parques, corredores y ciudades industriales en el Estado;
 
-XVII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+IX. Formular y promover el establecimiento de medidas para el fomento y protección del comercio de primera mano en el Estado;
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+X. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial y comercial contengan los convenios firmados entre el mismo y la administración publica federal;
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+XI. Las demás que señalen las leyes y reglamentos vigentes en el Estado;
+
+XII.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+
+XIII.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+
+XIV.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+
+XV.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+
+XVI.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+
+XVII.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 36 Bis.
 
-(DEROGADO, G.G. 31 DE OCTUBRE DE 2003)
+La Secretaría de Turismo y Desarrollo Artesanal es la dependencia encargada de regular, promover y fomentar el desarrollo turístico y artesanal del Estado.
+
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+I.- Proponer al Gobernador las políticas y programas relativos al fomento de las actividades turísticas y artesanales;
+
+II.- Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción turística y artesanal para el desarrollo de la Entidad;
+
+III.- Fomentar la comercialización, promoción y difusión de las artesanías que se producen en el Estado;
+
+IV.- Organizar, promover y coordinar las actividades necesarias para lograr un mejor aprovechamiento de los recursos turísticos del Estado;
+
+V.- Explotar directamente, otorgar y revocar concesiones para la explotación de los recursos turísticos del Estado, así como, para la creación de centros, establecimientos y la prestación de los servicios turísticos en el Estado;
+
+VI.- Controlar y supervisar, de acuerdo a las leyes y reglamentos de la materia, la prestación de los servicios turísticos que se realicen en el Estado;
+
+VII.- Actualizar el inventario de atractivos turísticos y el directorio de servicios que se prestan en este ramo en el Estado;
+
+VIII.- Asesorar técnicamente a los Ayuntamientos, a los sectores sociales, privados o públicos que los soliciten, en la promoción y fomento del desarrollo turístico y artesanal;
+
+IX.- Apoyar los programas de investigación, capacitación y cultura turística y fomentar su divulgación;
+
+X.- Promover la realización de ferias, exposiciones y congresos artesanales;
+
+XI.- Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia turística y comercial artesanal contengan los convenios firmados entre él mismo y la administración pública federal;
+
+XII.- Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos ventajosos para los artesanos;
+
+XIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
 
@@ -1544,6 +1598,22 @@ Todas aquellas disposiciones legales y reglamentarias que refieran a la Ley para
 ###### ARTICULO OCTAVO.
 
 El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Planeación y Administración, deberá informar a la Legislatura del Estado a través del Comité especial a que se refiere el punto 13 del artículo sexto del presente decreto, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en dicho artículo sexto del presente decreto, una vez formalizado (sic) dichos actos jurídicos.
+
+G.G. 16 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Las secretarías de Finanzas, Planeación y Administración, y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento de la Secretaría de Turismo y Desarrollo Artesanal.
+
+CUARTO.- El Gobernador Constitucional del Estado deberá expedir los Reglamentos Interiores de la Secretaría de Turismo y Desarrollo Artesanal y de la Secretaría de Desarrollo Económico.
+
+QUINTO.- Se derogarán las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+SEXTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de la Secretaría de Desarrollo Económico, en materia de turismo y desarrollo artesanal, se entenderá que las mismas se encuentran reservadas a la Secretaría de Turismo y Desarrollo Artesanal.
+
+SÉPTIMO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor de este decreto en la Secretaría de Desarrollo Económico, se tramitarán y resolverán, según corresponda, por la Secretaría de Turismo y Desarrollo Artesanal.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
