@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-superior-de-justicia-del-12590
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-23"
-last_updated: "1998-10-23"
+last_updated: "1999-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 23 de octubre de 1998.
 
@@ -167,7 +167,7 @@ II) Las demás que se le encomienden.
 
 ###### ARTICULO 19.
 
-Una vez concluida la gestión de Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura, el Magistrado saliente, deberá, reincorporarse inmediatamente a la adscripción que tenía antes de su designación por el Pleno del Tribunal Superior de Justicia del Estado.
+(DEROGADO, P.O. 8 DE FEBRERO DE 1999)
 
 ###### ARTICULO 20.
 
@@ -204,3 +204,9 @@ LIC. JOSE ANTONIO BRETON MENA
 CONSEJERO
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE FEBRERO DE 1999.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
