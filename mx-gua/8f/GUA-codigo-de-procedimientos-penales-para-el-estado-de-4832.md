@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1980-01-17"
+last_updated: "1981-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1981.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -942,6 +942,28 @@ Cuando en un asunto penal sea necesario comprobar un derecho civil, se hará est
 ###### Art. 143.
 
 En los casos de la competencia de los jueces municipales, después de dictado el auto de formal prisión o el de sujeción a proceso, se procurará agotar la averiguación dentro de quince días. Una vez que el tribunal la estime agotada, dictará resolución citando a la audiencia a que se refiere el artículo 295.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1981)</small>
+
+###### Art. 143
+
+Bis.- Una vez que haya quedado firme el auto de formal prisión, o el de sujeción a proceso, sin más trámite se citará a la audiencia final del juicio, que se celebrará dentro de los 10 días siguientes, siempre que se reúnan las siguientes condiciones:
+
+I.- Que expresen su conformidad el inculpado y su defensor y que ambos y el Ministerio Público manifiesten que no tienen pruebas que ofrecer.
+
+II.- Que el inculpado se haya conformado con la acusación y se declare responsable de los hechos que se le imputen.
+
+III.- Que la confesión se haga ante el Juez de la causa y reúna los demás requisitos del Artículo 275 de este Código y que no pugne con otros elementos de prueba.
+
+IV.- Que la mitad de la suma del mínimo y el máximo de la pena corporal que proceda imponer al inculpado no sea superior a tres años de prisión, y
+
+V.- Que si el delito causó un daño material haya, a juicio del Juez, elementos para cuantificarlo, o que haya quedado satisfecho debidamente dicho daño.
+
+Una vez que haya quedado firme el auto de formal prisión, o el de sujeción a proceso, el Juez hará los requerimientos necesarios para averiguar los extremos que previene la fracción primera de este Artículo. Estos requerimientos podrán hacerse con posterioridad, en el momento en que se surtan los requisitos contenidos en las fracciones de la segunda a la quinta.
+
+El inculpado o su defensor podrán solicitar, en cualquier tiempo que se adopte este procedimiento.
+
+La audiencia final del juicio comenzará presentando el Ministerio Público sus conclusiones e inmediatamente se recibirán las de la defensa. Ambas pueden formularse por escrito u oralmente. El Juez dictará sentencia en la misma audiencia.
 
 ### CAPITULO III.
 
@@ -3422,3 +3444,13 @@ P.O. 17 DE ENERO DE 1980.
 ###### ARTICULO UNICO.
 
 Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE ENERO DE 1981.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor el día 15 de febrero de 1981.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
