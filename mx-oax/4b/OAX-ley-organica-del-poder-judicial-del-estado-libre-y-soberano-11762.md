@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-117
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-16"
-last_updated: "1999-10-16"
+last_updated: "1999-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de octubre de 1999.
 
@@ -577,37 +577,19 @@ La organización y estructura de la Dirección de Servicios Periciales, se estab
 
 ###### ARTICULO 48.
 
-La Defensoría de Oficio, para la asistencia jurídica de personas que carezcan de defensor en los procesos penales, se integrará por los Servidores Públicos que sean necesarios y que permita el presupuesto de egresos en los términos de la fracción IX del Artículo 20 de la Constitución General de la República y fracción IX del Artículo 8° de la particular del Estado y demás casos que señalen las Leyes.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 49.
 
-Para ser Defensor de Oficio se requiere:
-
-I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Tener cuando menos 25 años de edad en la fecha de su nombramiento, titulo y cédula profesional de Licenciado en Derecho, expedidos por la Institución Educativa y Autoridad legalmente facultada para ello;
-
-III. Tener al menos dos años de ejercicio profesional, al día de su nombramiento y aprobar el curso de especialización judicial; y
-
-IV. No haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículos, salvo que se haya cometido bajo los influjos del alcohol o de alguna droga o enervante.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 50.
 
-Son atribuciones de los Defensores de Oficio, las siguientes:
-
-I. Aceptar, dirigir y ejecutar, con base en sus conocimientos profesionales, la defensa de las personas que carezcan de defensor;
-
-II. Promover y desahogar la tramitación de juicios, procedimientos y recursos de primera y segunda instancia;
-
-III. Ofrecer y desahogar las pruebas pertinentes en los procesos penales que estén a su cargo;
-
-IV. Asesorar jurídicamente, ante las instancias del Poder Judicial del Estado, a cualquier persona, procesado o no que requiera de sus servicios; y
-
-V. Las demás que les señalen otras Leyes aplicables, el Reglamento de la presente ley y las que les sean encomendadas expresamente por la Presidencia del H. Tribunal Superior de Justicia.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 51.
 
-La Defensoría de Oficio dependerá directamente de la Secretaría General de Acuerdos del H. Tribunal Superior de Justicia.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 ## TITULO QUINTO
 
@@ -999,7 +981,7 @@ El Pleno del Tribunal Superior de Justicia, en cumplimiento a lo dispuesto en la
 
 ###### ARTICULO QUINTO.
 
-La Defensoría de Oficio se estructurará y funcionará, realizándose las adscripciones correspondientes, de conformidad con el presupuesto asignado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 Del decreto n° 99 (sic)
 
@@ -1052,3 +1034,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
