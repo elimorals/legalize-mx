@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2004-10-27"
+last_updated: "2004-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -127,11 +127,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 27 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; la delincuencia organizada, prevista en el artículo 178; los cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en los artículos 205 tercer párrafo y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el deterioro de área natural protegida, previsto en artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el delito de peligro de contagio previsto en el artículo 252 último párrafo; el de secuestro, señalado por el artículo 259, excepto el último párrafo; el de privación de la libertad de infante, previsto en el artículo 262 primer párrafo; la extorsión contenida en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de violación, señalado por los artículos 273, 273 BIS, y 274; el de robo, contenido en los artículos 289 fracción V, 290 fracciones I, II, III, IV, V y último párrafo y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de fraude a que se refieren los artículos 306 fracción VIII y 307 fracción V; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado por el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; la delincuencia organizada, prevista en el artículo 178; los cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en los artículos 205 tercer párrafo, el de pornografía de menores e incapaces contenido en el artículo 206 párrafos quinto y sexto y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el deterioro de área natural protegida, previsto en artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el delito de peligro de contagio previsto en el artículo 252 último párrafo; el de secuestro, señalado por el artículo 259, excepto el último párrafo; el de privación de la libertad de infante, previsto en el artículo 262 primer párrafo; la extorsión contenida en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de violación, señalado por los artículos 273, 273 bis y 274; el de robo contenido en los artículos 289 fracción V, 290 fracciones I, II, III, IV, V y último párrafo y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de fraude a que se refieren los artículos 306 fracción VIII y 307 fracción V; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado por el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -259,9 +259,13 @@ Existe concurso real, cuando con pluralidad de acciones u omisiones se cometen v
 
 ### CAPITULO VII. REINCIDENCIA Y HABITUALIDAD
 
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 19.
 
-Será reincidente quien cometa un nuevo delito después de haber sido condenado por sentencia ejecutoriada. Si ésta fue dictada por un órgano jurisdiccional del país o del extranjero, será menester que la condena sea por un delito que tenga ese carácter en este código. No habrá reincidencia si ha transcurrido desde la fecha de la sentencia ejecutoria un término igual al de la prescripción de la pena.
+Será reincidente quien cometa un nuevo delito después de haber sido condenado por sentencia ejecutoriada. Si esta fue dictada por un órgano jurisdiccional del país o del extranjero, será menester que la condena sea por un delito que tenga ese carácter en este código o leyes especiales. No habrá reincidencia si ha transcurrido desde la fecha de la sentencia ejecutoria o del indulto, un término igual al de la prescripción de la pena.
+
+No se aplicará cuando el agente haya obtenido el reconocimiento judicial de inocencia.
 
 ###### Artículo 20.
 
@@ -1689,7 +1693,9 @@ IV. Ante la autoridad diere una nacionalidad falsa o que sin derecho para ello s
 
 Al que incurra en este delito, se le impondrá prisión de uno a tres años y de treinta a sesenta días multa.
 
-### CAPITULO II. CORRUPCION DE MENORES
+### CAPITULO II. CORRUPCIÓN Y PORNOGRAFÍA DE MENORES E INCAPACES
+
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 176.
 
@@ -1735,7 +1741,7 @@ A quienes participen habitual u ocasionalmente en una agrupación de tres o más
 
 ### CAPITULO IV. INCUMPLIMIENTO DE OBLIGACIONES ALIMENTARIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 179.
 
@@ -1756,6 +1762,8 @@ A quien porte, fabrique, importe, regale, trafique, o acopie sin un fin lícito 
 Se entiende por acopio la reunión de tres o más armas de las mencionadas en el artículo anterior.
 
 ### CAPITULO V. MALTRATO FAMILIAR
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 181.
 
@@ -1824,6 +1832,8 @@ Al que incurra en la comisión de alguna de las conductas señaladas en la fracc
 Al que incurra en la comisión de alguna de las conductas señaladas en la fracción II de este artículo se le impondrán de uno a tres años de prisión y multa de cien a trescientos días multa.
 
 ### CAPITULO VII. EXPLOTACION DE PERSONAS
+
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 189.
 
@@ -1969,17 +1979,35 @@ III. Públicamente invite a otro al comercio carnal.
 
 Al responsable de este delito, se le impondrán de tres meses a dos años de prisión y de treinta a doscientos quince días multa.
 
-En el caso de que en las conductas a que se refieren las fracciones anteriores se utilice a menores de edad, la pena aplicable será de dos a cuatro años de prisión y de cincuenta a quinientos días multa.
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
+En el caso de que en las conductas a que se refieren las fracciones anteriores se utilice a menores de edad o incapaces, la pena aplicable será de cuatro a ocho años de prisión y de quinientos a mil días multa.
+
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
+Además de las sanciones señaladas, atendiendo al interés superior del menor o incapaz perderá los derechos inherentes a la patria potestad, tutela o custodia, quien teniendo el ejercicio de ésta cometa el delito sobre el menor o incapaz agraviado a que se refiere este artículo.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 205.
 
-Comete el delito de corrupción de menores el que procure o facilite su depravación sexual, si es púber, la iniciación en la vida sexual o la depravación de un impúber, o los induzca, incite o auxilie a la práctica de alguna conducta que pueda llegar a ser viciosa, pornografía infantil o a participar habitual u ocasionalmente en una agrupación de cualquier manera organizada con la finalidad de delinquir.
+Comete el delito de corrupción de menores e incapaces, al que inicie, induzca, procure, facilite u obligue a un menor o incapaz, a realizar o presenciar actos de exhibicionismo corporal, lascivos o sexuales, ebriedad, consumo de narcóticos, uso de sustancias tóxicas u otros que produzcan efectos similares, prácticas sexuales u homosexuales, pornografía infantil o a cometer hechos delictuosos. Al autor de este delito se le aplicarán de cinco a diez años de prisión y de quinientos a dos mil días multa.
 
-Al que facilite o procure la corrupción de un menor de dieciocho años de edad, se le impondrán de seis meses a cinco años de prisión y de cien a setecientos días multa.
+Se equipara a la corrupción de menores o de incapaces, la exhibición que se haga a los mismos de material pornográfico por cualquier medio.
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ellos éste adquiera los hábitos del alcoholismo, uso de sustancias tóxicas u otras que produzcan efectos similares, o que como consecuencia de aquéllos se dedique a la prostitución, a las prácticas homosexuales, pornografía infantil, se impondrán de cinco a diez años de prisión y de cien a mil días multa.
+Si además de los delitos previstos en este Capítulo resultase cometido otro, se aplicarán las reglas de concurso.
 
-Si además de los delitos previstos en este capítulo resultase cometido otro, se aplicarán las reglas de concurso.
+No se entenderá por corrupción de menores e incapaces los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
+
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 205 BIS.- A quienes empleen a menores de dieciocho años en cantinas, tabernas, centros de vicio o prostíbulos, se les impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa. Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
+
+Para los efectos de este precepto se considerará como empleado en la cantina, taberna y centro de vicio al menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, emolumento o gratuitamente, preste sus servicios en tal lugar.
+
+Cuando el inculpado sea ascendiente, padrastro o madrastra del menor de edad, se le impondrán de uno a cuatro años de prisión y de treinta a cien días multa, privándoseles además de todo derecho a los bienes del ofendido. Si fuere tutor o curador será privado del cargo y de los derechos que por ello le genere la ley.
+
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
 
@@ -1987,19 +2015,33 @@ Si además de los delitos previstos en este capítulo resultase cometido otro, s
 
 ###### Artículo 206.
 
-A quienes empleen a menores de dieciocho años en cantinas, tabernas, centros de vicio o prostíbulos, se les impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa. Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
+Se entiende por pornografía de menor o incapaz toda representación, por cualquier medio dedicado a actividades sexuales implícitas, reales, simuladas o toda representación de partes genitales de menor o incapaz con fines primordialmente sexuales.
 
-Para los efectos de este precepto se considerará como empleado en la cantina, taberna y centro de vicio al menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, emolumento o gratuitamente, preste sus servicios en tal lugar.
+Al que procure o facilite por cualquier medio a un menor o incapaz, con o sin su consentimiento, lo obligue o induzca a realizar actos de exhibicionismo corporal, lascivos o sexuales, mediante cualquier artefacto de comunicación visual o auditiva, con o sin el fin de obtener un lucro, se le impondrán de cinco a diez años de prisión y de mil a dos mil días multa.
 
-Cuando el inculpado sea ascendiente, padrastro o madrastra del menor de edad, se le impondrán de uno a cuatro años de prisión y de treinta a cien días multa, privándoseles además de todo derecho a los bienes del ofendido. Si fuere tutor o curador será privado del cargo y de los derechos que por ello le genere la ley.
+Al que fije, filme, grabe, imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores o incapaces, se le impondrá la pena de diez a catorce años de prisión y de quinientos a tres mil días multa. La misma pena se impondrá a quienes con fines de lucro o sin él, elabore, reproduzca, venda, compre, arriende, exhiba, publicite o transmita el material a que se refieren las acciones anteriores a través de cualquier medio.
+
+Se impondrá prisión de ocho a dieciséis años y de tres mil a cinco mil días multa, y destitución definitiva e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos, así como el decomiso de los objetos, instrumentos y productos del delito, a quien por sí o a través de terceros, dirija, administre o supervise cualquier tipo de asociación delictuosa con el propósito de que se realicen las conductas previstas en los párrafos anteriores con menores o incapaces.
+
+Si el delito de corrupción de menor o incapaz o el de pornografía infantil es cometido por quien se valiese de un cargo o comisión público, se le impondrá hasta una mitad más de las penas correspondientes, así como las que se refieren a los artículos 205 y 205 bis y destitución del empleo, cargo o comisión públicos e inhabilitación para el desempeño de cualquier cargo publico, hasta por un tiempo igual al de la pena impuesta.
+
+Las sanciones que señalan los artículos anteriores se duplicarán cuando el delincuente tenga parentesco consanguíneo en línea recta sin limitación de grado o consanguíneo colateral hasta el cuarto grado, por afinidad o civil o habite en el mismo domicilio con la víctima, aunque no existiera parentesco alguno, así como por el tutor o curador, asimismo perderá la patria potestad respecto al menor o incapaz agraviado por resolución judicial.
+
+Cuando el delito sea cometido por un miembro o miembros de la delincuencia organizada se aplicará, la pena de diez a quince años de prisión y de mil a cinco mil días multa.
 
 ###### Artículo 207.
 
 Los inculpados de que se trata en este capítulo quedarán inhabilitados para ser tutores o curadores, privándoseles además de todo derecho que con motivo de tal calidad tuvieren.
 
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 208.
 
-Al corruptor que trafique, consienta o permita el comercio carnal de menores de edad, se le impondrán de cinco a diez años de prisión y de cien a mil días multa.
+Comete el delito de prostitución de menor o incapaz el que explote habitual u ocasionalmente el cuerpo de un menor o incapaz por medio del comercio carnal, se mantenga de éste comercio u obtenga de él un lucro cualquiera. Al que cometa este delito se le impondrá pena de cinco a veinte años y de cien a mil días multa.
+
+La misma pena se impondrá al que promueva, publicite, invite, facilite, gestione, consiga o entregue a un menor o incapaz para que ejerza la prostitución dentro o fuera del territorio estatal.
+
+Si se emplease la violencia o el agente se valiese de la función pública que tuviere, la pena se aumentará hasta una mitad.
 
 ### CAPITULO I. PELIGRO DE CONTAGIO
 
@@ -2034,6 +2076,8 @@ SUBTITULO QUINTO
 DELITOS CONTRA LA FAMILIA
 
 ### CAPITULO III. ABANDONO DE INCAPAZ
+
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ### CAPITULO IV. OMISION DE AUXILIO A LESIONADOS
 
@@ -2075,25 +2119,35 @@ El término para la prescripción de la bigamia, empezará a correr desde que un
 
 ###### Artículo 217.
 
-Comete este delito, el que sin motivo justificado abandone a sus descendientes, ascendientes, cónyuge, concubinarios o acreedor alimenticio sin recursos para atender sus necesidades de subsistencia, aun cuando estos, con motivo del abandono, se vean obligados a allegarse por cualquier medio los recursos para satisfacer sus requerimientos indispensables. El delito se sancionará con prisión de dos a cinco años y de treinta a setenta días multa.
+Comete este delito, el que sin motivo justificado abandone a sus descendientes, ascendientes, cónyuge, concubina, concubino, o acreedor alimentario sin recursos para atender sus necesidades de subsistencia, aun cuando estos, con motivo del abandono se vean obligados a allegarse por cualquier medio de recursos para satisfacer sus requerimientos indispensables, independientemente de que se inicie o no la instancia civil. El delito se sancionará con prisión de dos a cinco años y de treinta a quinientos días multa.
 
-Este delito se perseguirá a petición del ofendido o del legítimo representante de los hijos y a falta de éste, la acción se iniciará por el Ministerio Público como representante legítimo de los menores. Para que el perdón concedido por el ofendido pueda extinguir la pretensión punitiva, deberá el inculpado pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos.
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
+Este delito se perseguirá a petición del ofendido o del legítimo representante de los hijos o de los Sistemas para el Desarrollo Integral de la Familia Estatal o Municipal, Instituciones de Asistencia Privada debidamente constituidas y a falta de estos, la acción se iniciará por el Ministerio Público como representante legítimo de los menores. Para que el perdón concedido por el ofendido pueda extinguir la pretensión punitiva, deberá el inculpado pagar todas las cantidades que hubiera dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos, por un término no menor a un año.
 
 Al que intencionalmente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrán de dos a siete años de prisión y de treinta a trescientos días multa. El órgano jurisdiccional determinará la aplicación del producto del trabajo que realice el inculpado, para satisfacer las obligaciones alimentarias a su cargo.
 
 Este delito se perseguirá de oficio si de él resultare algún peligro, lesión o la muerte, independientemente de las reglas de concurso.
 
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
+Al inculpado de este delito además de las sanciones señaladas se impondrá la pérdida (sic) los derechos inherentes a la patria potestad del menor o incapaz agraviado por resolución judicial.
+
 ### CAPITULO IV. SUSTRACCION DE HIJO
 
 ###### Artículo 218.
 
-Al integrante de un núcleo familiar que haga uso de la violencia física o moral, en contra de otro integrante de ese núcleo que afecte o ponga en peligro su integridad física, psíquica o ambas, se le impondrán de uno a cuatro años de prisión y de treinta a cien días multa, sin perjuicio de las penas que correspondan por los delitos que se consumen.
+Al integrante de un núcleo familiar que haga uso de la violencia física o moral, en contra de otro integrante de ese núcleo que afecte o ponga en peligro su integridad física, psíquica o ambas, se le impondrán de dos a cinco años de prisión y de cien a quinientos días multa, sin perjuicio de las penas que correspondan por los delitos que se consumen.
 
 Por núcleo familiar debe entenderse el lugar en donde habitan o concurran familiares o personas con relaciones de familiaridad en intimidad, o el vínculo de mutua consideración y apoyo que existe entre las personas con base en la filiación o convivencia fraterna.
 
 Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad o incapaces; en cuyo caso, se perseguirá de oficio.
 
 El inculpado de este delito, durante la investigación del mismo y al rendir su declaración, será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
+
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
+Si el inculpado de este delito lo cometiese de manera reiterada, se le impondrá la pérdida (sic) los derechos inherentes a la patria potestad, tutela o guarda y cuidado del menor o incapaz agraviado, a quien tenga el ejercicio de ésta, por resolución judicial.
 
 ### CAPITULO V. RAPTO
 
@@ -2111,7 +2165,11 @@ Además de las sanciones señaladas, se privará de los derechos de la patria po
 
 ###### Artículo 220.
 
-Al que para obtener un beneficio o lucro, obligue o induzca a la práctica reiterada de la mendicidad, a un menor de edad, a un mayor de setenta años, a un discapacitado o a un indígena, se le impondrán de uno a tres años de prisión y de treinta a cien días multa.
+Al integrante del núcleo familiar que para obtener un beneficio o lucro, obligue o induzca a la práctica reiterada de la mendicidad a un menor o incapaz, a un mayor de setenta años, a persona con capacidad diferente o a un indígena, que se encuentre bajo su patria potestad, tutela o custodia, se le impondrán de uno a cinco años de prisión y de treinta a cien días multa.
+
+Igual delito comete la persona que con el mismo fin, obligue a otra a realizar la conducta a que se refiere el párrafo anterior y se le impondrán de uno a tres años de prisión y de cincuenta a trescientos días multa.
+
+Además de las sanciones señaladas por la comisión de este delito, se impondrá la pérdida (sic) los derechos inherentes a la patria potestad, tutela o custodia sobre el menor o incapaz agraviado.
 
 ### CAPITULO VII. ASALTO
 
@@ -2317,7 +2375,9 @@ VI. Cuando las lesiones sean calificadas, se aumentará la pena de prisión de s
 
 VII. Cuando el ofendido sea ascendiente, descendiente, hermano, pupilo, tutor, cónyuge, concubina o concubinario del inculpado, se aumentarán de seis meses a dos años de prisión; y
 
-VIII. Cuando las lesiones se infieran a los menores o pupilos que se encuentren bajo la tutela o guarda del inculpado, se impondrá además de la pena correspondiente, la suspensión o privación de esos derechos.
+> <small>(REFORMADA, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
+VIII. Cuando las lesiones a que se refiere éste artículo se infieran a los menores, incapaces o pupilos que se encuentren bajo la patria potestad, tutela o custodia del inculpado, se impondrá además de la pena correspondiente, la suspensión o privación de esos derechos.
 
 ###### Artículo 239.
 
@@ -2495,7 +2555,7 @@ Este artículo sólo se aplicará cuando no causare daño, o los hechos no const
 
 ###### Artículo 254.
 
-Al que abandone a una persona incapaz de valerse por sí misma teniendo la obligación de cuidarla, se le impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa, privándolo además de la patria potestad o de la tutela, si fuere ascendiente o tutor del ofendido, así como del derecho a heredar si estuviere en aptitud legal para ello.
+Al que abandone a una persona incapaz de valerse por si misma teniendo la obligación de cuidarla, se le impondrán de seis meses a dos años de prisión y treinta a trescientos días multa, o trabajo a favor de la comunidad, perdiendo además los derechos inherentes a la patria potestad, custodia o tutela, si fuere ascendiente o tutor del ofendido, así como del derecho a heredar si estuviere en aptitud legal para ello.
 
 ### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
 
@@ -2661,6 +2721,10 @@ Si el ofendido es impúber, aun cuando otorgue su consentimiento, se impondrán 
 
 Si se hiciere uso de la violencia física o moral se impondrá además la pena de uno a cuatro años de prisión.
 
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
+Si los actos a que se refiere este artículo los cometiera un familiar consanguíneo directo y colaterales hasta el cuarto grado, en agravio de persona impúber se impondrá de cuatro a diez años de prisión y de cien a quinientos días multa.
+
 ###### Artículo 271.
 
 Al que tenga cópula con una mujer mayor de quince años y menor de dieciocho casta y honesta obteniendo su consentimiento por medio de seducción, se le impondrán de seis meses a cuatro años de prisión y de treinta a cien días multa.
@@ -2719,9 +2783,11 @@ A quien fuera de una contienda de obra o palabra y con ánimo de ofender, ejecut
 
 Al que públicamente y fuera de riña diere a otro un golpe que no cause lesión con intención de ofenderlo, se le impondrán de tres a seis meses de prisión o de treinta a sesenta días multa.
 
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 277.
 
-Cuando las injurias o los golpes que no causen lesión, se infieran a un ascendiente consanguíneo en línea recta, se le impondrán de tres meses a tres años de prisión o de treinta a setenta y cinco días multa.
+Cuando las injurias o los golpes que no causen lesiones, se infieran a un ascendiente o descendiente consanguíneo en línea recta, se le impondrán de tres meses a tres años de prisión, y multa de treinta a doscientos cincuenta días multa o trabajo a favor de la comunidad.
 
 ###### Artículo 278.
 
@@ -3393,7 +3459,7 @@ PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
-G.G. 3 DE SEPTIEMBRE DEL 2003.
+G.G. 3 DE SEPTIEMBRE DE 2003.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -3442,3 +3508,21 @@ G.G. 27 DE OCTUBRE DE 2004.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 26 DE NOVIEMBRE DE 2004.
+
+DECRETO 97 QUE REFORMA DIVERSOS ARTICULOS DEL CODIGO PENAL
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 26 DE NOVIEMBRE DE 2004.
+
+DECRETO 98 QUE REFORMA DIVERSOS ARTICULOS DEL CODIGO PENAL
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
