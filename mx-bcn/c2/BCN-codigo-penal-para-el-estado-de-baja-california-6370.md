@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2003-01-24"
+last_updated: "2003-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2497,6 +2497,8 @@ Uso de documentos falsos.- Las mismas penas se impondrán al que, a sabiendas y 
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2003)</small>
+
 ### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PUBLICO
 
 ###### Artículo 260.
@@ -2691,25 +2693,41 @@ Tipo y punibilidad.- Se impondrá de dos a seis años de prisión y hasta doscie
 
 Se aplicará sanción de tres meses a dos años de prisión y hasta cincuenta días multa al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS, COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
+### CAPITULO XIV. ENRIQUECIMIENTO ILICITO
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
 
 ###### Artículo 281.
 
 Tipo y punibilidad.- Se impondrá de dos meses a dos años de prisión y hasta cien días multa a quienes resuelvan, de concierto, cometer uno o varios de los delitos del presente título y acuerden los medios de llevar a cabo su determinación.
 
-### CAPITULO II. DESOBEDIENCIA DE PARTICULARES
+### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS, COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
+
+###### Artículo 307
+
+QUATER.- Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de las leyes de la materia.
+
+Asimismo incurre en responsabilidad penal y le aplicarán las mismas penas señaladas en el presente artículo, quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto por las leyes de la materia, a sabiendas de esta circunstancia.
+
+Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
+
+Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo a las leyes de la materia.
+
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el momento que sucedan los hechos, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente al momento de cometerse el delito.
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el momento que se cometieron los hechos, se impondrán de dos a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente al momento de cometerse el delito.
 
 ###### Artículo 282.
 
 Tipo y punibilidad.- Los ultrajes hechos al Congreso del Estado, a un Tribunal, a un cuerpo colegiado de la administración de justicia o a cualquier institución pública, se castigará con prisión de seis meses a dos años y hasta cien días multa.
 
-### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO II. DESOBEDIENCIA DE PARTICULARES
 
 ###### Artículo 283.
 
 Tipo y punibilidad.- Al que ultraje las insignias del Estado o del Municipio o de cualquiera de sus instituciones se le aplicará de seis meses a dos años de prisión y hasta cien días multa.
 
-### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
+### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
 
 ###### Artículo 284.
 
@@ -2729,19 +2747,21 @@ Clasificación.- Se consideran delitos contra la seguridad del Estado los de reb
 
 Agravación de pena para servidores públicos.- Se impondrá de dos a diez años de prisión y hasta trescientos días multa al funcionario o empleado del gobierno estatal, de los municipios, de organismos públicos descentralizados, de empresas de participación estatal o de servicios públicos, estatales o municipales, que incurran en alguno de los delitos previstos por este título.
 
-## TITULO SEGUNDO. DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR SERVIDORES PUBLICOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MARZO DE 2003)</small>
 
-### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS
+## TITULO SEGUNDO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
+
+### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
 
 ###### Artículo 288.
 
-Concepto.- Para los efectos de este Código, servidor público es toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza en la administración pública del Estado o sus municipios, organismos descentralizados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas o fideicomisos públicos.
+Concepto.- Para los efectos de éste Código, servidor público es toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza en la administración pública del Estado o sus municipios, en el Poder Legislativo, el Poder Judicial del Estado, en organismos descentralizados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas o fideicomisos públicos.
 
 ###### Artículo 289.
 
 Sanciones adicionales.- Los servidores públicos que cometan alguno de los delitos previstos en el presente título, además de las penas de prisión y multa que en cada caso se señalen, serán privados del cargo y quedarán inhabilitados para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad.
 
-### CAPITULO VI. USO INDEBIDO DE CONDECORACIONES
+### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS
 
 ###### Artículo 290.
 
@@ -2755,15 +2775,13 @@ III.- Al nombrado por tiempo limitado que continúe ejerciendo sus funciones des
 
 IV.- Al servidor público que suponga tener alguna otra comisión, empleo o cargo del que realmente tuviere.
 
-### CAPITULO VII. FALSEDAD ANTE LAS AUTORIDADES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+### CAPITULO VI. USO INDEBIDO DE CONDECORACIONES
 
 ###### Artículo 291.
 
 Abandono de funciones.- Las mismas penas del artículo anterior se impondrán al que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada.
 
-### CAPITULO VIII. VARIACION DEL NOMBRE O DEL DOMICILIO
+### CAPITULO VII. FALSEDAD ANTE LAS AUTORIDADES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
 
@@ -2797,9 +2815,9 @@ IX.- El servidor que teniendo conocimiento de una privación ilegal de libertad 
 
 Los delitos a que se refiere este capítulo producen acción popular.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO VIII. VARIACION DEL NOMBRE O DEL DOMICILIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 294.
 
@@ -2811,9 +2829,9 @@ Tipo.- Cometen el delito de coalición: los servidores públicos que se coaligue
 
 Punibilidad.- A los que cometan el delito de coalición se les impondrá de uno a cuatro años de prisión y hasta cien días de multa.
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO I. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 296.
 
@@ -2831,9 +2849,9 @@ Al servidor público responsable de cohecho se le destituirá e inhabilitará pa
 
 En ningún caso se devolverá al responsable del delito de cohecho, el dinero o dádiva entregadas, las que se aplicarán en beneficio del Estado.
 
-### CAPITULO III. EVASION DE PRESOS
+### CAPITULO II. FRAUDE PROCESAL
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 298.
 
@@ -2853,7 +2871,7 @@ III.- Cuando el monto de lo distraído exceda de dos mil veces el salario, se le
 
 Al servidor público responsable de peculado, se le destituirá e inhabilitará para desempeñar otro empleo, cargo o comisión públicos por un término igual a los señalados en los párrafos anteriores, según el que se haya aplicado.
 
-### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO III. EVASION DE PRESOS
 
 > <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
 
@@ -2887,6 +2905,8 @@ Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigad
 
 No se consideran como causas excluyentes de responsabilidad del delito de tortura el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en la investigación o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE MARZO DE 2003)</small>
+
 ###### Artículo 300.
 
 Tipo.- Comete el delito de concusión el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la Ley.
@@ -2895,9 +2915,9 @@ Tipo.- Comete el delito de concusión el servidor público que con el carácter 
 
 Punibilidad.- Al servidor público que cometa el delito de concusión se le aplicará de seis meses a dos años de prisión.
 
-### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 302.
 
@@ -2911,7 +2931,9 @@ Sub-tipo.- Al servidor público que indebidamente dé a conocer documento o noti
 
 Utilización indebida de descubrimiento científico, etc.- Igual pena se impondrá al servidor público que utilice en provecho propio o ajeno descubrimiento científico o técnico u otra información llegados a su conocimiento por razón de sus funciones, y que deba permanecer en secreto, siempre que el hecho no constituya otro delito.
 
-### CAPITULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 305.
 
@@ -2921,7 +2943,7 @@ I.- En el desempeño de su empleo, cargo o comisión, otorgue por sí o por inte
 
 II.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o alguna de las personas mencionadas en la fracción anterior.
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### Artículo 306.
 
@@ -2935,9 +2957,7 @@ II.- El servidor público que con motivo de la querella, denuncia o información
 
 Al que cometa el delito de intimidación se le impondrán de dos a seis años de prisión y de cincuenta a trescientos días multa.
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
 ###### Artículo 307.
 
@@ -2950,6 +2970,10 @@ I.- Promueva o gestione la tramitación o resolución de negocios públicos ajen
 II.- Indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que se hace referencia en la fracción I del artículo 305 de este Código.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 1992)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
 
 ### CAPITULO UNICO
 
@@ -3097,7 +3121,7 @@ XV.- Obtener cualquier cantidad o beneficio económico de los internos o sus fam
 
 ###### Artículo 324.
 
-Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años. En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
+Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
 
 ###### Artículo 325.
 
@@ -3658,3 +3682,17 @@ P.O. 25 DE OCTUBRE DE 2002.
 P.O. 24 DE ENERO DE 2003.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2003.
+
+DECRETO NUMERO 154.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 14 DE MARZO DE 2003.
+
+DECRETO NUMERO 155.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
