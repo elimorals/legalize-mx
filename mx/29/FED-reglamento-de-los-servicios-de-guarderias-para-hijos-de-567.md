@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-los-servicios-de-guarderias-para-hijos-de-567"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-07-13"
-last_updated: "1981-07-13"
+last_updated: "1995-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=567&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1981-06-19"
 
 REGLAMENTO DE LOS SERVICIOS DE GUARDERIAS PARA HIJOS DE ASEGURADAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1995.
 
-Reglamento publicado en el Diario Oficial de la Federación, el lunes 13 de julio de 1981.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 13 de julio de 1981.
 
 Instituto Mexicano del Seguro Social.- Acuerdo del H. Consejo Técnico 5704/81.
 
@@ -61,23 +61,31 @@ Se considerarán servicios de guardería no sólo la guarda y la custodia de los
 
 ARTICULO 6o (SIC).- Se consideran servicios de guardería no sólo la guardia y la custodia de los menores, sino además, el aseo, la alimentación, el cuidado de las salud, la educación y la recreación de los hijos de las trabajadoras aseguradas.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
+
 ###### ARTICULO 7o.
 
-La guardería infantil no es una unidad médica para los menores, sino un servicio especial a través del cual se cuida y fortalece al (sic) salud del niño y su buen desarrollo futuro. De acuerdo con lo anterior, el cuidado de las salud de los menores en sus aspectos biológico, psicológico y social será normado, prestado y apoyado por la Subdirección General de Servicios Institucionales del Instituto Mexicano del Seguro Social y consista en acciones que se enfocarán, fundamentalmente, a la obtención de los fines y propósitos que señala al Ley del Seguro Social.
+La Guardería Infantil no es una Unidad Médica para los menores, sino un servicio especial a través del cual se cuida y fortalece la salud del niño y su buen desarrollo futuro. De acuerdo con lo anterior, el cuidado de la salud de los menores en sus aspectos biológico, psicológico y social será normado, prestado y apoyado por la Subdirección General Administrativa del Instituto Mexicano del Seguro Social y consistirá en acciones que se enfocarán, fundamentalmente, a la obtención de los fines y propósitos que señala la Ley del Seguro Social.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 8o.
 
-En el caso en que se deba administrar algún medicamento el menor, durante su estancia en la guardería, la madre asegurada deberá presentar la receta médica correspondiente, expedida dentro de los siete días anteriores a su presentación, con el nombre, clave o número de cédula profesional y firma del médico responsable.
+En el caso en que se deba administrar algún medicamento al menor, durante su estancia en la Guardería, la madre asegurada deberá presentar la receta médica correspondiente, expedida dentro de los siete días anteriores a su presentación, con el nombre, clave o número de cédula profesional y firma del médico responsable.
 
-Cuando el personal de la guardería considere inadecuada la administración de algún medicamento, solicitará la opinión médica institucional para determinar lo procedente. En ningún caso se aplicarán inyecciones.
+Cuando el personal de la Guardería considere inadecuada la administración de algún medicamento, solicitará la opinión médica institucional para determinar lo procedente. Por ningún motivo se aplicarán medicamentos por vía ótica ni inyecciones.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 9o.
 
-El servicio de alimentación para los menores, durante su estancia en las guarderías, se proporcionará con base en las minutas o dietas preparadas por los servicios especializados de la Jefatura de Nuevos Programas.
+El servicio de alimentación para los menores, durante su estancia en las Guarderías, se proporcionará con base en el menú planeado por el área especializada de la Jefatura de Servicios de Guarderías y preparado por el personal del Servicio de Nutrición de cada Unidad Operativa.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 10.
 
-Los servicios de educación y recreación para los menores durante su estancia en la guarderías, serán normados, prestados y apoyados por las dependencias responsables y, en su caso, por los servicios especializados del Instituto Mexicano del Seguro Social, y consistirán en acciones que se enfocarán, fundamentalmente, a la obtención de los fines o propósitos que señala la Ley del Seguro Social.
+Los servicios de educación y recreación para los menores durante su estancia en la Guardería, serán normados por la Jefatura de Servicios de Guarderías y prestados y apoyados por las áreas Delegacionales Operativas y consistirán en acciones que se enfocarán fundamentalmente a la obtención de los fines o propósitos que señala la Ley del Seguro Social.
 
 ### CAPITULO III. Del Ingreso de los Menores
 
@@ -85,13 +93,17 @@ Los servicios de educación y recreación para los menores durante su estancia e
 
 Para la prestación de los servicios, la madre asegurada o el padre asegurado, en el supuesto señalado en el artículo 3o., deberá inscribir personalmente a su hijo, previo cumplimiento de los requisitos que se señalan en el instructivo.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
+
 ###### ARTICULO 12.
 
-Para ser admitidos en las guarderías del Instituto, los menores deberán quedar sujetos al examen o exámenes médicos que en la clínica de adscripción se estimen necesarios.
+Para ser admitidos en las Guarderías del Instituto, los menores deberán quedar sujetos al examen o exámenes médicos que en la Unidad Médica Institucional correspondiente se estimen necesarios.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 13.
 
-La práctica de los exámenes médicos para la admisión de los menores, estará sujeta a las disposiciones y a las políticas que para el efecto señale la Subdirección General de Servicios Institucionales.
+La práctica de los exámenes médicos para la admisión de los menores, estará sujeta a las disposiciones y a las políticas que para el efecto señale la Subdirección General Administrativa.
 
 ###### ARTICULO 14.
 
@@ -109,53 +121,51 @@ La permanencia de los menores en las guarderías del Instituto estará determina
 
 La suspensión de derecho al servicio de guardería, podrá ser temporal o definitiva, y por causas médicas o administrativas.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
+
 ###### ARTICULO 17.
 
 Las causas médicas que originen una suspensión temporal del derecho al servicio son las siguientes:
 
-a) Padecer el menor una enfermedad infecciosa,
+a). Padecer el menor una enfermedad transmisible, ya sea infecciones o parasitaria.
 
-b) Padecer el menor una enfermedad parasitaria,
+b). Padecer el menor alguna enfermedad que, a criterio médico institucional, le impida permanecer en la Guardería por:
 
-c) Padecer el menor una enfermedad transmisible.
+Incapacidad para integrarse plenamente a los programas psicopedagógicos de la Guardería.
 
-d) Padecer el menor trastornos mentales agudos,
+Presentar algún trastorno físico o mental que ponga en peligro su integridad física o la de los menores con los que conviva en la Guardería.
 
-e) Padecer el menor alguna otra enfermedad que, a juicio del médico familiar de su clínica de adscripción, le impida permanecer en la guardería por poner en peligro su propia salud y la de los demás niños,
-
-f) No acatar la madre del menor los programas de inmunización,
-
-g) No cumplir la madre con la obligación de someter al menor a los exámenes médicos periódicos,
-
-h) En cumplimiento de la madre del menor respecto a cualquier indicación de tipo médico e,
-
-i) Detectar el personal de la guardería un padecimiento incierto del menor, en tanto el personal de salud del Instituto establece el diagnóstico definitivo.
-
-El resultado del estudio médico determinará la decisión consecuente.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 18.
 
-La suspensión temporal del derecho al servicio, derivada de causas médicas, cesará cuando las mismas hayan desaparecido.
+La suspensión temporal del derecho al servicio, derivada de causas médicas, cesará cuando las mismas hayan desaparecido en el caso de enfermedades transmisibles o se encuentren bajo control médico las no transmisibles.
 
 ###### ARTICULO 19.
 
 Las causas médicas que originen la suspensión definitiva del derecho al servicio son, en general, los padecimientos irreversibles que sufran los menores y que requieran manejo y técnicas especializados. Estas mismas causas impedirán el ingreso de un menor al servicio de guardería.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
+
 ###### ARTICULO 20.
 
-Son causas administrativas de suspensión temporal o definitiva del derecho al servicio de guardería, las que derivan del incumplimiento, por parte de las madres aseguradas o de las personas autorizadas, de las obligaciones que les imponen este reglamento y el Instructivo correspondiente.
+Son causas administrativas de suspensión temporal o definitiva del derecho al servicio de Guardería, las que se deriven del incumplimiento, por parte de las madres aseguradas o de las personas autorizadas, de las obligaciones que les imponen este Reglamento y el Instructivo correspondiente.
 
 Las suspensiones temporales serán de uno a diez días, en los términos del Instructivo.
 
-Las suspensiones definitivas se motivarán por la reincidencia en alguna de las causas que originaron una suspensión temporal.
+Las suspensiones definitivas se motivarán por la reincidencia en algunas de las causas que originaron una suspensión temporal.
 
-En todos los casos de suspensión, temporal o definitiva, la determinación que proceda será tomada por la administración de la guardería.
+En todos los casos de suspensión temporal, la suspensión que proceda será tomada por la Dirección de la Guardería.
+
+En los casos de suspensión definitiva, esta decisión será valorada por el Departamento Delegacional de Guarderías en consulta con la Jefatura Delegacional de Servicios Jurídicos.
 
 ### CAPITULO VI. De la Suspensión del Servicio
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1995)</small>
+
 ###### ARTICULO 21.
 
-La dependencia responsable de los servicios de guardería podrá ordenar la suspensión temporal o definitiva de los servicios que presta una guardería, cuando se den las causas médicas o administrativas o las circunstancias fortuitas que de un modo enunciativo se mencionan a continuación:
+La Dependencia responsable de los Servicios de Guardería en cada Delegación podrá ordenar la suspensión temporal o definitiva de los servicios que presta una Guardería, cuando se den las causas médicas o administrativas o las circunstancias fortuitas que de un modo enunciativo se mencionan a continuación:
 
 A).- Causas médicas:
 
@@ -165,7 +175,9 @@ En este caso las (sic) suspensión se levantará cuando así lo determinen los m
 
 B).- Causas administrativas:
 
-a) Cuando a juicio de la Subdirección General de Servicios Institucionales sea necesario ejecutar obras de ampliación, remodelación o reacondicionamiento, durante las cuales sea imposible la prestación del servicio en condiciones normales para los menores.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
+
+a).- Cuando a juicio de la Subdirección General Administrativa sea necesario ejecutar obras de ampliación, remodelación o reacondicionamiento, durante las cuales sea imposible la prestación del servicio en condiciones normales para los menores.
 
 b) Cuando se agote el cupo de una guardería, automáticamente se suspenderá el servicio de ésta en relación con los menores que pretendan ser inscritos.
 
@@ -183,13 +195,17 @@ c) Cuando sobrevengan causas que operativa y materialmente hagan imposible la pr
 
 ### CAPITULO VII. De las Obligaciones de las Madres Aseguradas
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
+
 ###### ARTICULO 22.
 
-Las madres aseguradas deberán cumplir estrictamente con las disposiciones del presente reglamento y con las de los instructivos y manuales que para el servicio de guardería apruebe la Subdirección General de Servicios Institucional, así como con las políticas que el Instituto establezca para la prestación de dicho servicio.
+Las madres aseguradas deberán cumplir estrictamente con las disposiciones del presente Reglamento y con las de los Instructivos y Manuales que para el Servicio de Guarderías apruebe la Subdirección General Administrativa, así como con las políticas que el Instituto establezca para la prestación de dicho servicio.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 23.
 
-Las madres aseguradas están obligadas a observar las indicaciones que se les hagan, a fin de que los menores sean sometidos a exámenes médicos, en la forma y en los plazos que establezca la Subdirección General de Servicios Institucionales. Igualmente se ajustarán al programa de vacunación de sus hijos, de acuerdo con las normas que dicte la propia Subdirección.
+Las madres aseguradas están obligadas a observar las indicaciones que se les hagan, a fin de que los menores sean sometidos a exámenes médicos en la forma y en los plazos que establezca la Subdirección General Administrativa, igualmente se ajustarán al programa de vacunación de sus hijos, de acuerdo con las normas que dicte la propia Subdirección.
 
 ###### ARTICULO 24.
 
@@ -201,12 +217,20 @@ En caso de incumplimiento, la dependencia responsable del servicio de guardería
 
 Contra el acuerdo que se emita con motivo de la aclaración, la madre asegurada podrá intentar el recurso de inconformidad a que se refiere el artículo 274 de la Ley Federal del Seguro Social, o podrá acudir ante la Junta Federal de conciliación y Arbitraje, como lo establece el artículo 275 de la propia Ley.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1995)</small>
+
 ###### ARTICULO 26.
 
-Cuando por alguna de las causas mencionadas se niegue la admisión de los menores, la administración de la guardería procederá de inmediato a tomar las medidas pertinentes para que los niños sean entregados a la persona autorizada para recogerlos.
+Cuando por alguna de las causas mencionadas se niegue la admisión de los menores, la Dirección de la Guardería procederá de inmediato a tomar las medidas pertinentes para que los niños sean entregados a la persona autorizada para recogerlos.
 
-En caso de suspensión del derecho al servicio por causas graves, se le notificará personalmente y por escrito a la madre asegurada o la persona autorizada, especificando si la suspensión es temporal o definitiva y las causas que la originaron.
+En caso de suspensión del derecho al servicio por causas graves, se le notificará personalmente y por escrito a la madre asegurada o a la persona autorizada, especificando si la suspensión es temporal o definitiva y las causas que la originaron.
 
 Distrito Federal, a 19 de junio de 1981.
 
 Lic. Fernando Zertuche Muñoz, Secretario General del IMSS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 5 DE ENERO DE 1995.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
