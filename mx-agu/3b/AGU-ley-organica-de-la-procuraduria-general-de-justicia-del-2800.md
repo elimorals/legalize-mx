@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-procuraduria-general-de-justicia-del-2800"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-29"
-last_updated: "1995-08-06"
+last_updated: "2001-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1995.
-
-> <small>N. DE E. LA PRESENTE LEY FUE REFORMADA POR EL LEGISLADOR Y REPUBLICADO SU TEXTO INTEGRAMENTE.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2001.
 
 Ley publicada en el Suplemento al No. 52 del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1991.
 
@@ -69,7 +67,7 @@ V.- Cuidar la correcta aplicación de las medidas de política criminal, en el �
 
 VI.- Las demás que las leyes y disposiciones aplicables le otorguen.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 3o.
 
@@ -79,7 +77,7 @@ A).- En la averiguación previa:
 
 I.- Recibir denuncias, acusaciones o querellas sobre acciones u omisiones que puedan constituir delito;
 
-II.- Investigar los delitos del orden común con el auxilio de la Policía Judicial, de la Dirección de Servicios Periciales y de la Policía Preventiva;
+II.- Investigar los delitos del orden común con el auxilio de la Policía Ministerial, de la Dirección de Servicios Periciales y de la Policía Preventiva;
 
 III.- Practicar las diligencias necesarias para la comprobación de los hechos constitutivos de los elementos del tipo penal, así como de la probable responsabilidad de quienes en ellos hubieren intervenido, para efectos de fundar, en su caso, el ejercicio de la acción penal;
 
@@ -89,7 +87,7 @@ V.- Solicitar a la autoridad jurisdiccional la medida precautoria de arraigo y l
 
 VI.- En casos urgentes, pedir a la autoridad jurisdiccional el aseguramiento precautorio de bienes para efectos de la reparación del daño; y
 
-VII.- No ejercitar la acción penal en los siguientes casos:
+VII.- No ejercitar 1a (sic) acción penal en los siguientes casos:
 
 a).- Cuando los hechos investigados no puedan ser relacionados con el contenido de alguna de las descripciones típicas contenidas en el Código Penal Estatal.
 
@@ -123,7 +121,7 @@ VII.- Pedir embargo precautorio de bienes con arreglo al Código de Procedimient
 
 VIII.- Aportar las pruebas pertinentes y promover en el proceso las diligencias conducentes a: el debido esclarecimiento de los hechos, a la comprobación del tipo penal relativo, a la determinación de la responsabilidad de quienes hayan intervenido en el delito, y de la existencia del daño y la fijación del monto de la reparación de éste;
 
-IX.- Formular las conclusiones relativas a cada proceso penal en los términos de ley, solicitando la imposición de las penas y las medidas que corresponda, así como al pago de la reparación del daño, o en su caso, planteando las circunstancias excluyentes de responsabilidad o las causas que extingan la acción penal;
+IX.- Formular las conclusiones relativas a cada proceso penal en los términos de ley, solicitando la imposición de las penas y las medidas que corresponda, así como al pago de la reparación del daño, o en su caso, planteando las circunstancias excluyentes de responsabilidad o las causas que extingan la acción penal,
 
 X.- Interponer los recursos contemplados en la ley y conducentes a cada caso, y expresar agravios;
 
@@ -173,11 +171,11 @@ Para el cumplimiento de sus atribuciones, el Ministerio Público podrá requerir
 
 ### CAPITULO II. Bases de Organización
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 9o.
 
-La Procuraduría General de Justicia del Estado, estará presidida por el Procurador, jefe de la institución del Ministerio Público y sus órganos auxiliares. Para el ejercicio de las atribuciones, funciones y despacho de los asuntos de su competencia, se integrará por los órganos siguientes:
+La Procuraduría General de Justicia del Estado estará presidida por el Procurador, jefe de la institución del Ministerio Público y sus órganos auxiliares. Para el ejercicio de las atribuciones, funciones y despacho de los asuntos de su competencia, se integrará por los órganos siguientes:
 
 1.- PROCURADOR GENERAL DE JUSTICIA;
 
@@ -187,59 +185,61 @@ La Procuraduría General de Justicia del Estado, estará presidida por el Procur
 
 4.- DIRECCION GENERAL DE AVERIGUACIONES PREVIAS;
 
-5.- DIRECCION GENERAL DE LA POLICIA JUDICIAL;
+5.- DIRECCION GENERAL DE LA POLICIA MINISTERIAL;
 
 6.- DIRECCION GENERAL DE ASUNTOS JURIDICOS;
 
 7.- DIRECCION GENERAL DE CONTROL DE PROCESOS;
 
-8.- DIRECCION GENERAL DE PARTICIPACION CIUDADANA Y SERVICIOS A LA COMUNIDAD;
+8.- DIRECCION GENERAL DE PARTICIPACION CIUDADANA Y SERVICIOS A
 
-9.- DIRECCION GENERAL DE SERVICIOS PERICIALES;
+LA COMUNIDAD;
 
-10.- DIRECCION GENERAL DEL INSTITUTO DE CAPACITACION;
+9.- DIRECCION GENERAL DE SERVICIOS. PERICIALES;
+
+10.- (DEROGADO, P.O. 29 DE ENERO DE 2001)
 
 11.- DIRECCION GENERAL DE ADMINISTRACION;
 
-12.- DIRECCION GENERAL DE INFORMATICA; Y
+12.- DIRECCION GENERAL DE INFORMATICA; y
 
 13.- DIRECCION GENERAL DE CONTRALORIA INTERNA.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 10.
 
-Los funcionarios públicos señalados en el artículo anterior, auxiliarán al Procurador en las funciones que esta Ley le encomiende y, por delegación que haga el titular mediante acuerdo, resolverán los casos en que se consulte, por parte de los interesados, la formulación de conclusiones no acusatorias, y el desistimiento de la acción penal, así como las consultas que el Agente del Ministerio Público formule a las prevenciones que la autoridad judicial acuerde, en los términos que la Ley establezca, a propósito de conclusiones presentadas en un proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie la sentencia.
+Los funcionarios públicos señalados en el Artículo anterior, auxiliarán al Procurador en las funciones que esta Ley le encomiende y, por delegación que haga el titular mediante acuerdo, resolverán los casos en que se consulte, por parte de los interesados, la formulación de conclusiones no acusatorias, y el desistimiento de la acción penal, así como las consultas que el Agente del Ministerio Público formule a las prevenciones que la autoridad judicial acuerde, en los términos que la Ley establezca, a propósito de conclusiones presentadas en un proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie la sentencia.
 
-Serán Agentes del Ministerio Público para todos los efectos legales que corresponda y con todas las atribuciones que esta Ley señala: el Procurador, los Subprocuradores, los Directores Generales de Asuntos Jurídicos, Averiguaciones Previas y Control de Procesos y los adscritos a la Policía Judicial, Agencias Integradoras y Jueces Civiles, Familiares y Penales, designados para tal efecto por el Gobernador del Estado.
+Serán Agentes del Ministerio Público para todos los efectos legales que corresponda y con todas las atribuciones que esta Ley señala: el Procurador, los Subprocuradores, los Directores Generales de Asuntos Jurídicos, Averiguaciones Previas y Control de Procesos y los adscritos a la Policía Ministerial, Agencias Integradoras y Jueces Civiles, Familiares y Penales, designados para tal efecto por el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 11.
 
-Son auxiliares directos del Ministerio Público del Estado de Aguascalientes:
+Son auxiliares directos del Ministerio Público del Estado de Aguascalientes.
 
-I.- La Dirección General de Policía Judicial; y
+I.- La Dirección General de Policía Ministerial; y
 
 II.- La Dirección de Servicios Periciales de la Procuraduría General de Justicia del Estado.
 
 Asimismo, será auxiliar del Ministerio Público, la Policía Preventiva, debiendo obedecer y ejecutar las órdenes que reciba del Ministerio Público, en el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 12.
 
-El Procurador General de Justicia del Estado, los Subprocuradores, los Directores Generales a que se refiere el Artículo 9o. del presente Ordenamiento Jurídico, los Agentes del Ministerio Público y de la Policía Judicial, así como los servidores públicos auxiliares del Procurador, serán nombrados y removidos libremente por el Gobernador Constitucional del Estado.
+El Procurador General de Justicia del Estado, los Subprocuradores, los Directores Generales a que se refiere el Artículo 9o. del presente Ordenamiento Jurídico, los Agentes del Ministerio Público y de la Policía Ministerial, así como los servidores públicos auxiliares del Procurador, serán nombrados y removidos libremente por el Gobernador Constitucional del Estado.
 
-El nombramiento del Procurador, de conformidad con lo previsto en el segundo párrago (sic) del Artículo 7o. de la Ley Orgánica del Poder Ejecutivo del Estado, en concordancia con la fracción XXXII del Artículo 27 de la Constitución Política Local, deberá ser ratificado por el H. Congreso del Estado, previa comparecencia del nominado en la forma que aquél determine.
+El nombramiento del Procurador, de conformidad con lo previsto en el segundo párrafo del Articulo 7o. de la Ley Orgánica del Poder Ejecutivo del Estado, en concordancia con la fracción XXXII del Artículo 27 de la Constitución Política Local, deberá ser ratificado por el H. Congreso del Estado, previa comparecencia del nominado en la forma que aquél determine.
 
 Para ser Procurador, se requiere reunir los requisitos establecidos en el Artículo 53 de la Constitución del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 13.
 
-En la designación del personal del Ministerio Público, de la Dirección General de la Policía Judicial y de la Dirección General de Servicios Periciales de la Procuraduría, se atenderá a las siguientes disposiciones:
+En la designación del personal del Ministerio Público, de la Dirección General de la Policía Ministerial y de la Dirección General de Servicios Periciales de la Procuraduría, se atenderá a las siguientes disposiciones:
 
 Para ser Agente del Ministerio Público se requiere:
 
@@ -255,9 +255,9 @@ V.- Presentar y aprobar el examen de oposición concerniente; y
 
 VI.- Presentar un examen anual de conocimientos generales.
 
-Para ser Agente de la Policía Judicial, se deberán reunir los requisitos previsores (sic) en las fracciones I y II y haber concluido cuando menos la enseñanza preparatoria o grado equivalente y ser mayor de 21 años y menor de 35.
+Para ser Agente de la Policía Ministerial, se deberán reunir los requisitos previsores en las fracciones I y II y haber concluido cuando menos la enseñanza preparatoria o grado equivalente y ser mayor de 21 años y menor de 35.
 
-Para ser Perito Oficial de la Procuraduría es preciso estar en pleno ejercicio de sus derechos, satisfacer el requisito de la fracción II y tener título legalmente expedido y registrado por la autoridad competente, o acreditar plenamente ante la Comisión que designe el Procurador, los conocimientos técnicos, científicos o artísticos correspondientes a la disciplina sobre la que debe dictaminar, cuando de acuerdo con la Ley Reglamentaria del Artículo 5o. Constitucional, relativa al ejercicio de las profesiones en el Estado, no se necesita título para su ejercicio.
+Para ser Perito Oficial de la Procuraduría es preciso estar en pleno ejercicio de sus derechos, satisfacer el requisito de la fracción II y tener título legalmente expedido y registrado por la autoridad competente, o acreditar plenamente ante la Comisión que designe el Procurador, los conocimientos técnicos, científicos o artísticos correspondientes a la disciplina sobre la que debe dictaminar, cuando de acuerdo con la Ley Reglamentada del Artículo 5o. Constitucional, relativa al ejercicio de las profesiones en el Estado, no se necesita título para su ejercicio.
 
 Lo anterior sin perjuicio de las normas complementarias contenidas en el Reglamento de esta Ley y en los acuerdos que expida el Procurador para tal efecto.
 
@@ -273,17 +273,19 @@ Todos los servidores señalados en el segundo párrafo del Artículo 9o. de esta
 
 El personal no citado en el artículo anterior, para ingresar o permanecer al servicio de la institución, deberá presentar y aprobar los exámenes de selección que se practiquen, así como proporcionar la información que se les requiera relativa a su persona y participar y aprobar todos y cada uno de los cursos que se impartan por la institución.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 16.
 
-El Procurador expedirá los acuerdos, circulares y los manuales de organización y procedimientos conducentes al buen despacho de las funciones de la Procuraduría y resolverá por sí o por conducto del funcionario que determine, sobre el ingreso, la promoción, la adscripción, las renuncias, las sanciones y los estímulos de sus subalternos, sin perjuicio de las disposiciones que regulen las relaciones laborales entre el Ejecutivo Estatal y quienes presten a éste sus servicios.
+El Procurador expedirá los acuerdos, circulares y los manuales de organización y procedimientos conducentes al buen despacho de las funciones de la Procuraduría y resolverá por si o por conducto del funcionario que determine, sobre el ingreso, la promoción, la adscripción, las renuncias, las sanciones y los estímulos de sus subalternos, sin perjuicio de las disposiciones que regulen las relaciones laborales entre el Ejecutivo Estatal y quienes presten a éste sus servicios.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+Será facultad indelegable del Procurador bajo su más estricta responsabilidad, decidir sobre el ingreso, la promoción, la adscripción, las renuncias, sanciones y estímulos a los Agentes del Ministerio Público, Especializados en Delitos Electorales, así como determinar el número de agentes que desempeñen tales funciones.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 17.
 
-El Procurador, o por delegación de éste, otros funcionarios públicos de la dependencia, facultados expresamente por el reglamento de esta Ley, podrán adscribir discrecionalmente al personal de la institución en el desempeño de las funciones que a ésta corresponde, y encomendar a sus subalternos, según su calidad, como Agentes del Ministerio Público, de la Policía Judicial, o como peritos de la institución en el estudio, dictamen y actuación que en casos especiales se estimen pertinentes.
+El Procurador, o por delegación de éste, otros funcionarios públicos de la dependencia, facultados expresamente por el reglamento de esta Ley, podrán adscribir discrecionalmente al personal de la institución en el desempeño de las funciones que a ésta corresponde, y encomendar a sus subalternos, según su calidad, como Agentes del Ministerio Público, de la Policía Ministerial, o como peritos de la institución en el estudio, dictamen y actuación que en casos especiales se estimen pertinentes.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
 
@@ -305,13 +307,17 @@ El Procurador ejercerá autoridad jerárquica sobre todo el personal de la insti
 
 Los auxiliares del Ministerio Público deberán dar aviso inmediato a éste en todos los casos, sobre los asuntos en que intervengan con ese carácter.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 21.
 
-La Policía Judicial actuará bajo la autoridad y el mandato inmediato del Ministerio Público, en los términos del Artículo 21 de la Constitución Federal, del Reglamento de esta Ley y del Reglamento Interior de la Policía Judicial del Estado, auxiliándolo en la investigación de los delitos del orden común. Para este efecto, podrá recibir denuncias y querellas sólo cuando por la urgencia del caso no sea posible la presentación directa de aquéllas ante el Ministerio Público, pero deberá dar cuenta sin demora a éste para que acuerde lo que legalmente proceda. Conforme a las instrucciones que se le dicten, la Policía Judicial desarrollará las diligencias que deben practicarse durante la averiguación previa, exclusivamente para los fines de ésta, cumplirá las citaciones, notificaciones y presentaciones que se le ordenen y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad jurisdiccional competente.
+La Policía Ministerial actuará bajo la autoridad y el mandato inmediato del Ministerio Público, en los términos del Artículo 21 de la Constitución Federal, del Reglamento de esta Ley y del Reglamento Interior de la Policía Ministerial del Estado, auxiliándolo en la investigación de los delitos del orden común.
 
-La actuación de la Policía Judicial se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez. En materia de seguridad pública, la Procuraduría establecerá una coordinación policíaca con la Federación, Estados, Distrito Federal y Municipios para establecer sistemas de comunicación e información ágil y oportuna en los términos que señalen las leyes y demás disposiciones aplicables.
+Para este efecto, podrá recibir denuncias y querellas sólo cuando por la urgencia del caso no sea posible la presentación directa de aquéllas ante el Ministerio Público, pero deberá dar cuenta sin demora a éste para que acuerde lo que legalmente proceda.
+
+Conforme a las instrucciones que se le dicten, la Policía Ministerial desarrollará las diligencias que deben practicarse durante la averiguación previa, exclusivamente para los fines de ésta, cumplirá las citaciones, notificaciones y presentaciones que se le ordenen y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad jurisdiccional competente.
+
+La actuación de la Policía Ministerial se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez. En materia de seguridad pública, la Procuraduría establecerá una coordinación policíaca con la Federación, Estados, Distrito Federal y Municipios para establecer sistemas de comunicación e información ágil y oportuna en los términos que señalen las leyes y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
 
@@ -337,25 +343,27 @@ El Secretario General de Gobierno calificará las excusas del Procurador y éste
 
 Los Agentes del Ministerio Público y sus secretarios no podrán desempeñar otro puesto oficial, salvo los que autorice el Procurador, que no sean incompatibles con sus funciones en la institución, y los de carácter docente. No podrán ejercer la abogacía, sino en causa propia, de su cónyuge o concubina, de sus ascendientes o descendientes, de sus hermanos, adoptante o adoptado. Tampoco podrán ejercer ni desempeñar las funciones de depositario o apoderado judicial, tutor, curador, albacea judicial a no ser que tengan carácter de heredero o legatario. El mismo impedimento habrá para ser síndico, administrador, interventor en quiebra o concurso, corredor, comisionista, árbitro o arbitrador.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 25.
 
-El Ministerio Público y la Policía Judicial sólo podrá expedir constancias o registros que obren en su poder, cuando exista mandamiento de autoridad competente que funde y motive su requerimiento; o cuando lo soliciten el denunciante o querellante, el inculpado o su defensor y quien tenga interés legitimo.
+El Ministerio Público y la Policía Ministerial sólo podrá expedir constancias o registros que obren en su poder, cuando exista mandamiento de autoridad competente que funde y motive su requerimiento; o cuando lo soliciten el denunciante o querellante, el inculpado o su defensor y quien tenga interés legítimo.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 26.
 
-La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público o de la Policía Judicial, dará lugar al empleo de medidas de apremio, o a la imposición de correcciones disciplinarias, según el caso, en los términos que previene el Código de Procedimientos Penales para el Estado. Cuando la desobediencia o resistencia constituya delito, se iniciará la averiguación previa, conforme a derecho.
+La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público o de la Policía Ministerial, dará lugar al empleo de medidas de apremio, o a la imposición de correcciones disciplinarias, según el caso, en los términos que previene el Código de Procedimientos Penales para el Estado.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
+Cuando la desobediencia o resistencia constituya delito, se iniciará la averiguación previa, conforme a derecho.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 27.
 
 Se impondrán al personal de la Procuraduría por las faltas en que incurran en el servicio, las sanciones administrativas previstas en la Ley de Responsabilidades de los Servidores Públicos, mediante el procedimiento que la misma previene.
 
-Tratándose del personal adscrito a la Policía Judicial, se aplicarán las mismas sanciones administrativas. Adicionalmente, el Procurador, el Director General de la corporación o el servidor público a cargo del mando de dicha policía, podrá imponer las sanciones administrativas de arresto hasta por treinta y seis horas, retención en el servicio, privación de permisos de salida hasta por 15 días, o en su caso la destitución del cargo, de acuerdo con la gravedad de la falta cometida y sin perjuicio de las sanciones que se deriven de otros ordenamientos jurídicos.
+Tratándose del personal adscrito a la Policía Ministerial, se aplicarán las mismas sanciones administrativas. Adicionalmente, el Procurador, el Director General de la corporación o el servidor público a cargo del mando de dicha policía, podrá imponer las sanciones administrativas de arresto hasta por treinta y seis horas, retención en el servicio, privación de permisos de salida hasta por 15 días, o en su caso la destitución del cargo, de acuerdo con la gravedad de la falta cometida y sin perjuicio de las sanciones que se deriven de otros ordenamientos jurídicos.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1995)</small>
 
@@ -480,3 +488,9 @@ Todos los Agentes del Ministerio Público del Estado serán sometidos a un exame
 ###### ARTICULO CUARTO.
 
 Publíquese el texto íntegro de la Ley Orgánica de la Procuraduría General de Justicia, tal como ha resultado de la presente reforma.
+
+P.O. 29 DE ENERO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente.
