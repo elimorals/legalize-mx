@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-898
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-08-24"
-last_updated: "2001-10-11"
+last_updated: "2003-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8986&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-08-23"
 
 ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE NOVIEMBRE DE 2003.
 
 Estatuto publicado en el Diario Oficial de la Federación el miércoles 24 de agosto de 1994.
 
@@ -449,7 +449,13 @@ VII. Las señaladas en el artículo 15 del Reglamento.
 
 Para el cumplimiento de sus atribuciones, la Procuraduría contará con las delegaciones, subdelegaciones y demás unidades que se requieran conforme a las necesidades del servicio, debiendo existir, al menos, una delegación por entidad federativa. Para su creación o supresión se atenderán criterios de densidad de población, actividad económica, ubicación geográfica, y recursos con que cuente la Procuraduría, entre otros.
 
-La denominación y sede de las delegaciones con que cuenta la Procuraduría, son las siguientes:
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2003)</small>
+
+Los servidores públicos adscritos a las delegaciones, conforme a su competencia, podrán ejercer sus atribuciones en forma concurrente en la circunscripción territorial de las delegaciones circunvecinas, conforme a los lineamientos que mediante acuerdos expida el Procurador y que se publiquen en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2003)</small>
+
+Las delegaciones con que cuenta la Procuraduría, son las siguientes:
 
 I.- En el Estado de Aguascalientes
 
@@ -607,29 +613,19 @@ XXXI.- En el Estado de Zacatecas
 
 Delegación Zacatecas, con sede en la ciudad de Zacatecas.
 
-XXXII.- En el Distrito Federal
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2003)</small>
 
-Delegación Alvaro Obregón, con sede en la Delegación Alvaro Obregón.
+XXXII.- En el Distrito Federal:
 
-Delegación Azcapotzalco, con sede en la Delegación Azcapotzalco.
+Delegación Norte, con sede en el territorio de cualquiera de las delegaciones políticas de Azcapotzalco y Gustavo A. Madero;
 
-Delegación Benito Juárez, con sede en la Delegación Benito Juárez.
+Delegación Sur, con sede en el territorio de cualquiera de las delegaciones políticas de Milpa Alta, Tláhuac, Tlalpan y Xochimilco.
 
-Delegación Cuauhtémoc, con sede en la Delegación Cuauhtémoc.
+Delegación Centro, con sede en el territorio de cualquiera de las delegaciones políticas de Benito Juárez, Coyoacán y Cuauhtémoc;
 
-Delegación Gustavo A. Madero, con sede en la Delegación Gustavo A. Madero.
+Delegación Poniente, con sede en el territorio de cualquiera de las delegaciones políticas de Alvaro Obregón, Cuajimalpa de Morelos, Magdalena Contreras y Miguel Hidalgo;
 
-Delegación Iztapalapa, con sede en la Delegación Iztapalapa.
-
-Delegación Magdalena Contreras, con sede en la Delegación La Magdalena Contreras.
-
-Delegación Miguel Hidalgo, con sede en la Delegación Miguel Hidalgo.
-
-Delegación Tláhuac, con sede en la Delegación Tláhuac.
-
-Delegación Venustiano Carranza, con sede en la Delegación Venustiano Carranza.
-
-Delegación Xochimilco, con sede en la Delegación Xochimilco.
+Delegación Oriente, con sede en el territorio de cualquiera de las delegaciones políticas de Iztacalco, Iztapalapa y Venustiano Carranza.
 
 > <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2001)</small>
 
@@ -658,3 +654,7 @@ México, D.F., a 23 de agosto de 1994.- El Procurador Federal del Consumidor, Al
 D.O.F. 11 DE OCTUBRE DE 2001.
 
 UNICO.- El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE NOVIEMBRE DE 2003.
+
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
