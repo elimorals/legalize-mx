@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2000-03-04"
+last_updated: "2001-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -139,49 +139,63 @@ Dependencias del Ejecutivo
 
 Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de la Administración Pública del Estado, auxiliarán al Titular del Ejecutivo, las siguientes dependencias:
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
-I. Secretaría de Gobierno.
+I. Secretaría General de Gobierno;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
-II. Secretaría de Finanzas y Planeación.
+II. Secretaría de Finanzas y Planeación;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
 III. Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
-IV. Secretaría del Trabajo y de la Previsión Social.
+IV. Secretaría del Trabajo y Previsión Social;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
 V. Secretaría de Educación, Cultura y Bienestar Social;
 
-VI. Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
-VII. Secretaría de Desarrollo Agropecuario;
+VI. Secretaría de Desarrollo Social;
 
-VIII. Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
-IX. Secretaría de Administración;
+VII. Secretaría de Desarrollo Urbano y Obras Públicas;
 
-> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
-X. Secretaría de la Contraloría;
+VIII. Secretaría de Desarrollo Agropecuario;
 
-> <small>(ADICIONADA, P.O. 24 DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
-XI. Secretaría de Comunicaciones y Transportes.
+IX. Secretaría de Desarrollo Económico;
 
-> <small>(ADICIONADA, P.O. 24 DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
-XII. Secretaría de Ecología.
+X. Secretaría de Administración;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+
+XI. Secretaría de la Contraloría;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+
+XII. Secretaría de Comunicaciones y Transportes;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+
+XIII. Secretaría de Ecología.
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-Las Secretarías a que se refieren las fracciones II a XII de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+Las secretarías a que se refieren las fracciones II a XIII de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -265,9 +279,55 @@ XXVIII. Administrar y publicar el periódico oficial «Gaceta del Gobierno».
 
 XXIX. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 22.
 
-(DEROGADO, P.O. 24 DE DICIEMBRE DE 1991)
+La Secretaría de Desarrollo Social es la dependencia encargada de planear, coordinar, dirigir y evaluar la política en materia de desarrollo social, desarrollo regional e infraestructura para el desarrollo, así como vincular las prioridades, estrategias y recursos para elevar el nivel de vida de la población más desprotegida en el Estado.
+
+A la Secretaría de Desarrollo Social le corresponde el despacho de los asuntos siguientes:
+
+I. Coordinar e integrar las acciones de la planeación estatal en materia de desarrollo social;
+
+II. Proponer al Gobernador del Estado políticas y programas de desarrollo social, para atender las necesidades básicas de la población más desprotegida de la entidad;
+
+III. Dirigir los programas y acciones de desarrollo social instrumentados por el Ejecutivo Estatal;
+
+IV. Concertar programas prioritarios para la atención de grupos indígenas y habitantes de zonas rurales y urbanas marginadas;
+
+V. Coordinar los programas y acciones de combate a la pobreza que se ejecuten en la Entidad;
+
+VI. Proponer e impulsar acciones y obras para el desarrollo regional en la Entidad, en coordinación con las dependencias y organismos auxiliares del Ejecutivo Estatal y los municipios;
+
+VII. Coordinar los programas y proyectos de desarrollo social en las regiones de la Entidad y establecer mecanismos de participación social para su ejecución;
+
+VIII. Fomentar en coordinación con los municipios, la construcción de obras de infraestructura y equipamiento urbano, para elevar el nivel de vida de la población con mayores necesidades;
+
+IX. Proponer y vigilar las acciones para el crecimiento social equilibrado de las comunidades y centros de población en la Entidad;
+
+X. Dirigir y evaluar los programas en materia de asistencia social en el Estado;
+
+XI. Promover el abastecimiento de productos de consumo básico entre población de escasos recursos;
+
+XII. Impulsar mecanismos de financiamiento para la ejecución de proyectos productivos orientados al desarrollo rural y urbano de las comunidades con mayores necesidades;
+
+XIII. Coordinar las acciones que deriven de los convenios suscritos con el gobierno federal y con los municipios, cuyo objeto sea el desarrollo social en las diversas regiones del Estado;
+
+XIV. Promover la participación y el apoyo de los sectores social y privado en la atención de las necesidades y demandas básicas de la población más desprotegida en la Entidad;
+
+XV. Promover acciones para incrementar la participación social en la ejecución de proyectos y obras instrumentadas por las instituciones públicas, mediante el fomento de una cultura de autogestión y coparticipación de la ciudadanía;
+
+XVI. Concertar y coordinar la participación de las organizaciones sociales y de la ciudadanía en general en la operación de los programas de desarrollo social;
+
+XVII. Formular, coordinar y evaluar estudios e investigaciones para identificar zonas marginadas y diseñar programas y estrategias para su desarrollo;
+
+XVIII. Supervisar, controlar y evaluar los programas y acciones de desarrollo social, verificando los resultados e impactos obtenidos;
+
+XIX. Proporcionar asesoría en materia de desarrollo social a las dependencias y organismos auxiliares de la administración pública estatal, a los municipios, a los sectores y grupos sociales y privados que lo soliciten;
+
+XX. Promover que los recursos públicos destinados a los programas sociales, se apliquen dando cobertura de prioridad a los municipios en este orden: de muy alta, alta, media, baja y muy baja marginalidad;
+
+XXI. Las demás que señalen otros ordenamientos legales.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
 
@@ -963,7 +1023,7 @@ Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a al
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno, -Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno,-Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -1082,6 +1142,16 @@ TERCERO.- El Ejecutivo del Estado expedirá dentro del término de 120 días, a 
 CUARTO.- Se derogan las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 QUINTO.- Las Secretarías de Finanzas y Planeación, de Administración y de la Contraloría proveerán lo conducente para el funcionamiento de la Secretaría de Salud.
+
+P.O. 13 DE DICIEMBRE DE 2001
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el primero de enero de dos mil dos.
+
+TERCERO.- Se derogan las disposiciones que se opongan a las del presente decreto.
+
+CUARTO.- Las Secretarías de Finanzas y Planeación, de Administración y de la Contraloría, en el ámbito de sus respectivas competencias, proveerá lo necesario para el cumplimiento del presente decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
