@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1977-12-15"
+last_updated: "1978-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 1977.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 1978.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -401,11 +401,11 @@ de sus sesiones.
 
 La Legislatura del Estado se instalará el día 14 de septiembre, y el 16 del mismo mes del año que corresponda, abrirá su período de sesiones. En los casos de sesiones extraordinarias, el día que se fije en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
 
 ###### Art. 42.
 
-La Legislatura llevará a cabo, cada año, dos períodos de sesiones: el primero comenzará el día 16 de septiembre y concluirá el 30 de noviembre; el segundo se iniciará el día 1° de abril y terminará el 31 de julio.
+La Legislatura llevará a cabo, cada año, dos períodos de sesiones: el primero comenzará el 16 de Septiembre y concluirá el 31 de Diciembre; el segundo se iniciará el día 1° de abril y terminará el 31 de julio.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 1975)</small>
 
@@ -1415,7 +1415,9 @@ XIII.- Pasar al Procurador General de Justicia todos los asuntos que deban venti
 
 XIV.- Excitar a la Diputación Permanente para que convoque a la Legislatura a sesiones extraordinarias, cuando lo juzgue conveniente, expresando el objeto de la reunión;
 
-XV.- Proponer a la Legislatura, cada año, las Leyes de Ingresos del año próximo, tanto del Estado, como de los Municipios y los Presupuestos de Egresos del primero, y presentarle la cuenta del año anterior para su revisión;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1978)</small>
+
+XV.- Proponer a la Legislatura cada año las Leyes de Ingresos del año próximo, tanto del Estado como de los Municipios y los Presupuestos de Egresos del primero y presentarle la cuenta del año en curso para su revisión; en el último año de ejercicio constitucional deberá presentar la cuenta pública ejercida hasta el 31 de julio del año de que se trate.
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 1973)</small>
 
@@ -1555,7 +1557,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
@@ -1760,3 +1762,11 @@ P.O. 15 DE DICIEMBRE DE 1977
 Primero.- La presente Ley deberá publicarse en el Periódico Oficial del Estado.
 
 Segundo.- La presente Ley comenzará a surtir sus efectos una vez que la mayoría de los Ayuntamientos la aprueben, en los términos del artículo 163 de la propia Constitución Política del Estado.
+
+P.O. 20 DE JULIO DE 1978
+
+PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente Ley surtirá sus efectos una vez que la mayoría de los Ayuntamientos la aprueben en los términos del Artículo 163 de la propia Constitución Política del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
