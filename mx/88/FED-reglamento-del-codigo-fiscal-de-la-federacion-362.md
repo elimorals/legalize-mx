@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-codigo-fiscal-de-la-federacion-362"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1988-06-30"
+last_updated: "1989-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 1989.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -1241,11 +1241,33 @@ Cuando el contribuyente solicite autorización en los términos de este artícul
 
 Cuando el contribuyente deje de pagar o pague fuera de plazo cualquiera de las parcialidades a que se refiere el párrafo anterior, se considerará, por ese solo hecho, que ha desistido de su solicitud, debiendo cubrirse el saldo insoluto con recargos, a partir de la fecha en que debió hacerse el pago, los que se causarán a la tasa prevista en el artículo 21 del Código.
 
-#### SECCION PRIMERA. De la Garantía del Interés Fiscal
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 21 DE ABRIL DE 1989)</small>
+
+#### SECCION TERCERA. De la Distribución de Multas por Infracción a las Disposiciones Fiscales
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 1989)</small>
+
+###### ARTICULO 59
+
+BIS.- La constitución y la distribución de los fondos a que se refiere el artículo 70-BIS del Código Fiscal de la Federación, se hará de conformidad con lo siguiente:
+
+I.- El Fondo de Productividad Directa se formará con el 60% de los ingresos que la Federación obtenga efectivamente, provenientes de multas que hayan quedado firmes, impuestas por infracción a las disposiciones fiscales distintas a las de las Leyes Aduanera y del Registro Federal de Vehículos, cuando dicha infracción se conozca con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales y hecha excepción de las multas que tengan otro destino especifico.
+
+Este fondo se distribuirá entre los servidores públicos de la Secretaría de Hacienda y Crédito Público que intervienen directamente, en cada caso, en el ejercicio de las facultades de comprobación, determinación, notificación y ejecución relativas a las multas que forman el citado fondo.
+
+II.- El Fondo de Productividad Indirecta se formará con el 40% restante de las multas a que se refiere la fracción anterior y con el 100% de las demás multas firmes que la Federación perciba efectivamente por infracción a las disposiciones fiscales distintas a las de las Leyes Aduanera y del Registro Federal de Vehículos, hecha excepción de aquéllas que tengan otro destino específico.
+
+Este fondo se distribuirá entre los servidores públicos de la Secretaría de Hacienda y Crédito Público que intervengan indirectamente respecto de las multas a que se refiere la fracción anterior, así como entre todos aquéllos que lo hagan en relación con las demás multas que constituyen este fondo.
+
+III.- El Fondo Complementario se formará con los remanentes que resulten de las cantidades no distribuidas durante el año, provenientes de los fondos previstos por las fracciones anteriores.
+
+Este fondo se distribuirá entre los servidores públicos a que se refiere las (sic) fracción anterior, así como entre aquéllos que se encuentren adscritos a las unidades administrativas centrales relacionadas con el ejercicio de las facultades señaladas en dicha fracción.
+
+La Secretaría de Hacienda y Crédito Público, de conformidad con lo dispuesto por este artículo y por las reglas de carácter general que al efecto dicte, determinará los límites máximos, porcentajes y montos de las participaciones, así como las categorías de los servidores públicos de la Secretaría de Hacienda y Crédito Público a que el mismo se refiere.
 
 ### CAPITULO IV. Del Procedimiento Administrativo de Ejecución
 
-#### SECCION SEGUNDA. De los Honorarios y Gastos de Ejecución
+#### SECCION PRIMERA. De la Garantía del Interés Fiscal
 
 ###### ARTICULO 60.
 
@@ -1359,7 +1381,7 @@ Para los efectos del artículo anterior el contribuyente o el tercero que tenga 
 
 La cancelación de las garantías en las que con motivo de su otorgamiento se hubiera efectuado inscripción en registro público, se hará mediante oficio de la autoridad recaudadora al registro público que corresponda.
 
-#### SECCION TERCERA. El Embargo, Intervención y Remate
+#### SECCION SEGUNDA. De los Honorarios y Gastos de Ejecución
 
 ###### ARTICULO 72.
 
@@ -1386,6 +1408,8 @@ La autoridad recaudadora vigilará que los gastos extraordinarios que se efectú
 ###### ARTICULO 74-A.
 
 No se cobrarán los gastos de ejecución a que se refiere el artículo 150 del Código, cuando los créditos fiscales respecto de los cuales se ejercitó el procedimiento' administrativo de ejecución que dio lugar a dichos gastos, hayan quedado insubsistentes en su totalidad mediante resolución o sentencia definitiva dictada por autoridad competente.
+
+#### SECCION TERCERA. El Embargo, Intervención y Remate
 
 ###### ARTICULO 75.
 
@@ -1450,3 +1474,7 @@ II.- Tratándose de ejercicios iniciados o que terminen durante la vigencia del 
 ###### ARTICULO QUINTO.
 
 Se libera a los contribuyentes de presentar a las autoridades fiscales de la entidad federativa coordinada en la que tengan establecido su domicilio fiscal, la copia del aviso de presentación del dictamen sobre sus estados financieros y el informe complementario sobre el impuesto al valor agregado, cuando dicha entidad federativa no tenga prevista la atribución de revisar el citado informe complementario en el convenio de colaboración administrativa que tenga celebrado con el Gobierno Federal.
+
+D.O.F. 21 DE ABRIL DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
