@@ -4,7 +4,7 @@ identifier: "FED-codigo-sanitario-de-los-estados-unidos-mexicanos-50076"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-31"
-last_updated: "1939-03-24"
+last_updated: "1941-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1934-08-20"
 ---
 # CODIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 1939.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE ENERO DE 1941.
 
 Código publicado en la Sección Segunda al Número 53, del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -897,9 +899,13 @@ Serán aplicables las disposiciones de este Título, en los puertos y poblacione
 
 #### SECCION PRIMERA. Enfermedades transmisibles
 
+> <small>(REFORMADO, D.O. 31 DE ENERO DE 1941)</small>
+
 ###### ARTICULO 137.
 
-Para los efectos de este Título y sus reglamentos, se consideran enfermedades transmisibles: blenorragia, cólera, dengue, difteria, disenterías amibiana o bacilar, erisipela, escarlatina, fiebre amarilla, fiebre ondulante, fiebres paratifoideas, fiebre recurrente, fiebre tifoidea, filariosis, granuloma venéreo, infección puerperal, kala-azar, lepra, leishmaniosis, meningitis cerebro espinal, oftalmia purulenta, orejones, paludismo, poliomielitis anterior aguda de la infancia, polioencefalitis aguda, psitacosis, pústula maligna, quiste hidatídico, rabia, rubeola, sarampión, sífilis, tétanos, tifo exantemático, tiña, tosferina, tracoma, tuberculosis, tularemia, uncinariasis, varicela, varioloide, viruela y las demás que determine expresamente el Consejo de Salubridad General o el Departamento de Salubridad Pública.
+Se declara de interés público la campaña contra las enfermedades transmisibles, la que se realizará mediante las disposiciones que en forma de reglamentos especiales dicte el Departamento de Salubridad.
+
+Para los efectos de este Título y sus reglamentos, se consideran enfermedades transmisibles: blenorragia, cólera, chancro blando, dengue, difteria, disenterías amibiana y bacilar, enfermedad de Nicolás y Favre, erisipela, escarlatina, fiebre amarilla, fiebre ondulante, fiebres paratifoideas, fiebre recurrente, fiebre tifoidea, filariosis, granuloma venéreo, infección puerperal, Kala-azar, lepra, leishmaniosis, meningitis cerebro-espinal, oftalmia purulenta, orejones, paludismo, peste, poliomielitis anterior aguda de la infancia, polioencefalitis aguda, psitacosis, pústula maligna, quiste hidatídico, rabia, rubiola, sarampión, sífilis, tétanos, tifo exantemático, tiña, tosferina, tracoma, tuberculosis, tularemia, uncinariasis, varicela, viruela y las demás que determine expresamente el Consejo de Salubridad General o el Departamento de Salubridad Pública.
 
 ###### ARTICULO 138.
 
@@ -1021,31 +1027,23 @@ Las instituciones públicas o privadas no podrán dar de alta ni autorizar el tr
 
 Cuando el Departamento de Salubridad o la autoridad sanitaria del lugar lo estimen conveniente, podrá ordenarse, en caso de epidemia, la clausura temporal de cualquier clase de establecimientos, locales, centros de reunión, de diversiones, etc.
 
+> <small>(REFORMADO, D.O. 31 DE ENERO DE 1941)</small>
+
 ###### ARTICULO 160.
 
-Todas las personas que ejerzan la medicina, deben llevar un registro privado de sus enfermos que padezcan sífiles (sic), blenorragia, chancro blando, granuloma venéreo, papilomas de la vulva, enfermedad de Nicilás I Pavre y tuberculosis vulvar, en el que constará:
+Las personas que ejerzan la medicina llevarán un registro privado de sus enfermos que padezcan sífilis, blenorragia, chancro blando, granuloma venéreo y enfermedad de Nicolás y Favre, con los datos que exige el reglamento respectivo.
 
-I.- El sexo del paciente;
-
-II.- El nombre y apellido del mismo;
-
-III.- Lugar del nacimiento;
-
-IV.- Su edad, estado, profesión u oficio;
-
-V.- Su domicilio; y
-
-VI.- Los demás datos que exija el reglamento respectivo.
-
-Las personas indicadas, remitirán a la Autoridad Sanitaria Federal del lugar de su residencia, inmediatamente que comiencen el tratamiento, un aviso que contenga: el sexo del paciente y la enfermedad que padezca.
+Inmediatamente que inicien un tratamiento lo comunicarán a la autoridad sanitaria, con los datos de su registro privado, menos el nombre y apellido del enfermo y su domicilio.
 
 ###### ARTICULO 161.
 
 El Consejo de Salubridad General y el Departamento de Salubridad Pública, podrán ampliar en cualquier tiempo, la enumeración contenida en el artículo anterior.
 
+> <small>(REFORMADO, D.O. 31 DE ENERO DE 1941)</small>
+
 ###### ARTICULO 162.
 
-Cuando un enfermo atacado por alguna de las enfermedades enumeradas en el artículo 160, sin haber sido dado de alta, abandone el tratamiento y cuidados del médico o persona que lo atienda, éstos deberán dar aviso inmediatamente a la Autoridad Sanitaria Federal, que contenga todos los datos a que se refiere el artículo 160, a efecto de que proceda en los términos que el mismo reglamento establezca.
+Cuando un enfermo atacado por alguna de las enfermedades enumeradas en el artículo 160, sin haber sido dado de alta, abandone el tratamiento y cuidados del médico o persona que lo atienda, éstos deberán participar a la Autoridad Sanitaria Federal, en los términos que señala el reglamento respectivo, el nombre y domicilio del paciente, a efecto de que se proceda en los términos que el mismo reglamento establece.
 
 ###### ARTICULO 163.
 
@@ -1053,23 +1051,27 @@ Todos los datos y constancias que obren en poder de las autoridades con motivo d
 
 ###### ARTICULO 164.
 
-Queda prohibido todo contacto sexual a las mujeres que hagan del comercio sexual un medio de vida, cuando padezcan alguna de las enfermedades comprendidas en las enumeraciones de los artículos 137 y 160, o cualesquiera de las siguientes: sarna, impético vulvar, moluscum contagioso, piorrea y las demás que el Consejo de Salubridad estime convenientes.
+(DEROGADO, D.O. 31 DE ENERO DE 1941)
 
 ###### ARTICULO 165.
 
 Los reglamentos de los Estados sobre prostitución no podrán oponerse a la realización de las medidas y a la observancia de las disposiciones dictadas por el Consejo o por el Departamento sobre enfermedades transmisibles y principalmente venéreas.
 
+> <small>(REFORMADO, D.O. 31 DE ENERO DE 1941)</small>
+
 ###### ARTICULO 166.
 
-El que padeciere alguna de las enfermedades comprendidas en el artículo 160, teniendo conocimiento de ello, tendrá la obligación de sujetarse a tratamiento de un médico con título registrado en el Departamento. Las personas que ejercieren la patria potestad, la tutela o la guarda de menores, tendrán la obligación de proveer lo necesario para que los sometidos a su cuidado que padecieren dichas enfermedades sean atendidos por un médico con título registrado.
+El que padeciere alguna de las enfermedades comprendidas en el artículo 160, tendrá la obligación de sujetarse al tratamiento de un médico con título registrado en el Departamento de Salubridad. Las personas que ejercieren la patria potestad, la tutela o la guarda de menores, tendrán la obligación de proveer lo necesario para que los sometidos a su cuidado que padecieren dichas enfermedades, sean atendidos por un médico con título registrado.
 
 ###### ARTICULO 167.
 
 El reglamento correspondiente determinará lo necesario para que los indigentes atacados de alguna de las enfermedades señaladas en el artículo 160, sean atendidos con cargo al Erario Público.
 
+> <small>(REFORMADO, D.O. 31 DE ENERO DE 1941)</small>
+
 ###### ARTICULO 168.
 
-Los enfermos venéreos y los sospechosos de difundir estas enfermedades, podrán ser sujetados a curación obligatoria en hospitales.
+Las personas que padezcan una enfermedad venérea serán hospitalizadas, en los casos que señale el reglamento respectivo.
 
 ###### ARTICULO 169.
 
@@ -1081,29 +1083,33 @@ II.- Dejar amamantar un infante que padezca alguna de las enfermedades citadas, 
 
 III.- Someter a cuidado ajeno a un niño que padezca cualesquiera de las enefermedades (sic) enumeradas en el artículo 160, sin informar a quien lo reciba de su enfermedad.
 
+> <small>(REFORMADO, D.O. 31 DE ENERO DE 1941)</small>
+
 ###### ARTICULO 170.
 
-El personal que por razón de las actividades a que se dedique, pueda transmitir alguna de las enfermedades enumeradas en los artículos 137, 160 y 164, deberá proveerse de una tarjeta sanitaria expedida en los términos que los reglamentos determinen.
+El personal que por razón de las actividades a que se dedique pueda transmitir alguna de las enfermedades enumeradas en los artículos 137 y 160, deberá proveerse de una tarjeta sanitaria, expedida en los términos que los reglamentos determinen.
 
 ###### ARTICULO 171.
 
-Un reglamento especial determinará las disposiciones a que deberá sujetarse la prostitución en el Distrito Federal, con objeto de impedir la propagación de enfermedades transmisibles y especialmente las venéreas.
+(DEROGADO, D.O. 31 DE ENERO DE 1941)
 
 ###### ARTICULO 172.
 
-El Departamento fijará para el Distrito Federal, los requisitos que deberán llenar y las condiciones higiénicas y los servicios médicos de que deberán estar dotados: las zonas de tolerancia, las casas de asignación, de citas, hoteles y, en general, todos los locales en que se ejerza el comercio sexual. El establecimiento de las zonas estará sujeto a las prescripciones del reglamento respectivo.
+(DEROGADO, D.O. 31 DE ENERO DE 1941)
 
 ###### ARTICULO 173.
 
-El ejercicio de la prostitución en el Distrito Federal, en cuanto afecte a la moral y orden públicos, estará sujeto a las disposiciones que dicten las autoridades políticas y administrativas del mismo Distrito, facultadas por la ley, oyendo previamente la opinión del Departamento de Salubridad, a efecto de que no contraríen, impidan o dificulten, la práctica de las medidas y la observancia de las disposiciones a que se refiere este capítulo.
+(DEROGADO, D.O. 31 DE ENERO DE 1941)
 
 ###### ARTICULO 174.
 
-El Consejo podrá derogar las disposiciones a que se refieren los tres artículos anteriores, cuando a su juicio el resultado obtenido en la campaña contra las enfermedades venéreas, así lo justifique.
+(DEROGADO, D.O. 31 DE ENERO DE 1941)
+
+> <small>(REFORMADO, D.O. 31 DE ENERO DE 1941)</small>
 
 ###### ARTICULO 175.
 
-Con las excepciones que determinan los reglamentos, los Oficiales del Registro Civil y los ministros de los cultos existentes en el país, no podrán autorizar la celebración de los matrimonios que pretendan contraerse si los interesados no acreditan, en los términos de los reglamentos respectivos, que no padecen ninguna de las enfermedades en ellos determinadas, así como que se les han hecho las reacciones de laboratorio que fueren necesarias, a juicio del Departamento.
+Con las excepciones que determinen los reglamentos, los oficiales del Registro Civil no podrán autorizar la celebración de los matrimonios que pretendan contraerse, si los interesados no acreditan en los términos de los reglamentos respectivos, que no padecen ninguna de las enfermedades en ellos determinadas, así como que se les han hecho las reacciones de laboratorio que fueren necesarias, a juicio del Departamento de Salubridad.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE MARZO DE 1939)</small>
 
@@ -3318,3 +3324,15 @@ D.O. 24 DE MARZO DE 1939.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
 Este decreto entrará en vigor a los tres días de su publicación en el “Diario Oficial” de la Federación.
+
+D.O. 31 DE ENERO DE 1941.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL CUAL SE REFORMAN Y DEROGAN VARIOS ARTÍCULOS DEL CÓDIGO SANITARIO”.]
+
+###### ARTICULO 1°.
+
+Este Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2°.
+
+Se derogan todas las demás disposiciones que se opongan a las presentes reformas.
