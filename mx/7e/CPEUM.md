@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1933-04-27"
+last_updated: "1933-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 1933.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -496,9 +496,11 @@ El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso 
 
 DE LA ELECCION E INSTALACION DEL CONGRESO.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+
 ###### Art. 51.
 
-La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada dos años, por los ciudadanos mexicanos.
+La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años, por los ciudadanos mexicanos.
 
 > <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -526,15 +528,27 @@ III.- Ser originario del Estado o Territorio en que se haga la elección, o veci
 
 IV.- No estar en servicio activo en el Ejército Federal ni tener mando en la policía o gendarmería rural en el Distrito donde se haga la elección, cuando menos noventa días antes de ella.
 
-V.- No ser secretario o subsecretario de Estado, ni magistrado de la Suprema Corte de Justicia de la Nación, a menos que se separe de sus funciones noventa días antes de la elección.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
-Los gobernadores de los Estados, sus secretarios, los magistrados y jueces federales o del Estado, no podrán ser electos en los distritos de sus respectivas jurisdicciones, si no se separan de sus cargos noventa días antes del de la elección.
+V. No ser Secretario o Subsecretario de Estado ni Magistrado de la Suprema Corte de Justicia de la Nación, a menos que se separe definitivamente de sus funciones noventa días antes de la elección.
 
-VI.- No ser ministro de algún culto religioso.
+Los Gobernadores de los Estados no podrán ser electos en las entidades de sus respectivas jurisdicciones durante el período de su encargo, aun cuando se separen definitivamente de sus puestos.
+
+Los Secretarios de Gobierno de los Estados, los Magistrados y Jueces Federales o del Estado, no podrán se electos en las entidades de sus respectivas jurisdicciones, sin no se separan definitivamente de sus cargos noventa días antes de la elección.
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+
+VI. No ser Ministro de algún culto religioso, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+
+VII. No estar comprendido en alguna de las incapacidades que señala el artículo 59.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 ###### Art. 56.
 
-La Cámara de Senadores se compondrá de dos miembros por cada Estado y dos por el Distrito Federal, nombrados en elección directa.
+La Cámara de Senadores se compondrá de dos miembros por cada Estado y dos por el Distrito Federal, electos directamente y en su totalidad cada seis años.
 
 La Legislatura de cada Estado declarará electo al que hubiese obtenido la mayoría de los votos emitidos.
 
@@ -542,13 +556,19 @@ La Legislatura de cada Estado declarará electo al que hubiese obtenido la mayor
 
 Por cada senador propietario se elegirá un suplente.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+
 ###### Art. 58.
 
-Cada senador durará en su encargo cuatro años. La Cámara de Senadores se renovará por mitad cada dos años.
+Para ser Senador se requieren los mismos requisitos que para ser Diputado, excepto el de la edad, que será la de treinta y cinco años cumplidos el día de la elección.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 ###### Art. 59.
 
-Para ser Senador se requieren los mismos requisitos que para ser Diputado, excepto el de la edad, que será la de treinta y cinco años cumplidos el día de la elección.
+Los Senadores y Diputados al Congreso de la Unión no podrán ser reelectos para el período inmediato.
+
+Los Senadores y Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Senadores y Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 ###### Art. 60.
 
@@ -776,9 +796,9 @@ XXV.- Para establecer, organizar y sostener en toda la República escuelas rural
 
 La Federación tendrá jurisdicción sobre los planteles que ella establezca, sostenga y organice, sin menoscabo de la libertad que tienen los Estados para legislar sobre el mismo ramo educacional. Los títulos que se expidan por los establecimientos de que se trata, surtirán sus efectos en toda la República.
 
-> <small>(DEROGADA [N. DE E. REUBICADA, ANTES FRACCION XXVIII], D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
-XXVI.- Para constituirse en Colegio Electoral y elegir al ciudadano que debe substituir al Presidente de la República, ya sea con carácter de substituto o de provisional en los términos de los artículos 84 y 85 de esta Constitución.
+XXVI.- Para conceder licencia al Presidente de la República y para constituirse en Colegio Electoral y designar al ciudadano que deba substituir al Presidente de la República, ya sea con el carácter de substituto, interino o provisional, en los términos de los artículos 84 y 85 de esta Constitución.
 
 (REUBICADA [N. DE E. ANTES FRACCION XXIX], D.O.F. 20 DE AGOSTO DE 1928)
 
@@ -892,6 +912,10 @@ IV.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o
 
 V.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprema Corte y Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, así como a las solicitudes de licencia de los Ministros de la Corte, que les someta el Presidente de la República.
 
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+
+VI.- Conceder licencia hasta por treinta días al Presidente de la República y nombrar el interino que supla esa falta.
+
 ### CAPITULO III.
 
 DEL PODER EJECUTIVO.
@@ -924,39 +948,33 @@ VI.- No ser secretario o subsecretario de Estado, ni gobernador de algún Estado
 
 VII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 ###### Art. 83.
 
-El Presidente entrará a ejercer su encargo, el primero de diciembre; durará en él seis años y nunca podrá ser reelecto para el período inmediato.
+El Presidente entrará a ejercer su encargo el 1º de diciembre y durará en él seis años. El ciudadano que haya desempeñado el cargo de Presidente de la República, electo popularmente, o con el carácter de interino, provisional o substituto, en ningún caso y por ningún motivo podrá volver a desempeñar ese puesto.
 
-El ciudadano que substituyere al Presidente Constitucional, en caso de falta absoluta de éste, no podrá ser electo Presidente para el período inmediato.
-
-Tampoco podrá ser electo Presidente para el período inmediato, el ciudadano que fuere nombrado Presidente Interino en las faltas temporales del Presidente Constitucional.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 ###### Art. 84.
 
-En caso de falta absoluta del Presidente de la República, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá en Colegio Electoral inmediatamente y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto, y por mayoría absoluta de votos, un Presidente; y el mismo Congreso expedirá la convocatoria a elecciones presidenciales, procurando que la fecha señalada para este caso, coincida en lo posible con la fecha de las próximas elecciones de Diputados y Senadores al Congreso de la Unión.
+En caso de falta absoluta del Presidente de la República, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un presidente interino; el mismo Congreso expedirá, dentro de los diez días siguientes al de la designación de presidente interino, la convocatoria para la elección del presidente que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de catorce meses, ni mayor de dieciocho.
 
-> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
+Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego un presidente provisional y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al presidente interino y expida la convocatoria a elecciones presidenciales en los términos del artículo (sic) anterior.
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Presidente provisional y convocará a sesiones extraordinarias del Congreso, para que éste, a su vez, expida la convocatoria a elecciones presidenciales, en los mismos términos del artículo anterior.
+Cuando la falta de presidente ocurriese en los cuatro últimos años del período respectivo, si el Congreso de la Unión se encontrase en sesiones, designará al presidente substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un presidente provisional y convocará al Congreso de la Unión a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección del presidente substituto.
 
-Cuando la falta del Presidente ocurriese en los dos últimos años del período respectivo, si el Congreso de la Unión, se encontrase en sesiones, elegirá al Presidente substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Presidente provisional y convocará al Congreso de la Unión a sesiones extraordinarias, para que se erija en Colegio Electoral y haga la elección del Presidente substituto.
-
-El Presidente provisional, podrá ser electo por el Congreso como substituto.
-
-El ciudadano que hubiese sido designado Presidente provisional para convocar a elecciones, en el caso de falta del Presidente en los dos primeros años del período respectivo, no podrá ser electo en las elecciones que se celebren con motivo de la falta del Presidente, para cubrir la cual fué designado.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 ###### Art. 85.
 
-Si al comenzar un período constitucional no se presentase el Presidente electo, o la elección no estuviere hecha y declarada, el primero de diciembre, cesará, sin embargo, el Presidente cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Presidente provisional, el que designe el Congreso de la Unión, o en su falta, la Comisión Permanente, y se procederá conforme a lo dispuesto en al (sic) artículo anterior.
+Si al comenzar un período constitucional no se presentase el presidente electo, o la elección no estuviera hecha y declarada el 1º de diciembre, cesará, sin embargo, el presidente cuyo período haya concluído y se encargará desde luego del Poder Ejecutivo, en calidad de presidente interino, el que designe el Congreso de la Unión, o en su falta con el carácter de provisional, el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en el artículo anterior.
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
+Cuando la falta del presidente fuese temporal, el Congreso de la Unión, si estuviese reunido, o en su defecto la Comisión Permanente, designará un presidente interino para que funcione durante el tiempo que dure dicha falta.
 
-Cuando la falta del Presidente fuese temporal, el Congreso de la Unión, si estuviere reunido, o en su defecto la Comisión Permanente, designará un Presidente interino para que funcione durante el tiempo que dure dicha falta. Si la falta, de temporal se convirtiere en absoluta, se procederá como dispone el artículo anterior.
+Cuando la falta del presidente sea por más de treinta días y el Congreso de la Unión no estuviere reunido, la Comisión Permanente convocará a sesiones extraordinarias del Congreso para que éste resuelva sobre la licencia y nombre, en su caso, al presidente interino.
 
-En el caso de licencia el Presidente de la República, no quedará impedido el interino para ser electo en el período inmediato, siempre que no estuviere en funciones al celebrarse las elecciones.
+Si la falta, de temporal se convierte en absoluta, se procederá como dispone el artículo anterior.
 
 ###### Art. 86.
 
@@ -1258,27 +1276,39 @@ En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario 
 
 DE LOS ESTADOS DE LA FEDERACION.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+
 ###### Art. 115.
 
-Los Estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, popular, teniendo como base de su división territorial, y de su organización política y administrativa, el Municipio Libre, conforme a las bases siguientes:
+Los Estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio Libre, conforme a las bases siguientes:
 
-I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-II.- Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que señalen las Legislaturas de los Estados y que en todo caso, serán las suficientes para atender a sus necesidades.
+Los presidentes municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
-III.- Los Municipios serán investidos de personalidad jurídica para todos los efectos legales.
+II. Los municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que señalen las Legislaturas de los Estados y que, en todo caso, serán las suficientes para atender a las necesidades municipales.
 
-El Ejecutivo Federal y los Gobernadores de los Estados tendrán el mando de la fuerza pública en los Municipios donde residieren habitual o transitoriamente. Los Gobernadores constitucionales no podrán ser reelectos ni durar en su encargo más de cuatro años.
+III. Los municipios serán investidos de personalidad jurídica para todos los efectos legales.
 
-Son aplicables a los Gobernadores, substitutos o interinos, las prohibiciones del artículo 83.
+El Ejecutivo Federal y los Gobernadores de los Estados tendrán el mando de la fuerza pública en los Municipios donde residieren habitual o transitoriamente.
 
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+Los Gobernadores de los Estados no podrán durar en su encargo más de cuatro años.
 
-El número de representantes en las Legislaturas de los Estados, será proporcional al de habitantes de cada uno; pero en todo caso no podrá ser menor de siete diputados en los Estados cuya población no llegue a cuatrocientos mil habitantes; de nueve en aquellos cuya población exceda de este número y no llega a ochocientos mil habitantes y de once en los Estados cuya población sea superior a esta última cifra.
+La elección de los Gobernadores de los Estados y de las Legislaturas Locales será directa y en los términos que dispongan las leyes electorales respectivas.
 
-En los Estados, cada distrito electoral nombrará un diputado propietario y un suplente.
+Los Gobernadores de los Estados, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrán volver a ocupar ese cargo ni aun con el carácter de interinos, provisionales, substitutos o encargados del despacho.
 
-Sólo podrá ser Gobernador constitucional de un Estado, un ciudadano mexicano por nacimiento y nativo de él, o con vecindad no menor de cinco años, inmediatamente anteriores al día de la elección.
+Nunca podrán ser electos para el período inmediato:
+
+a).- El Gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional aun cuando tenga distinta denominación.
+
+b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+
+Sólo podrá ser Gobernador Constitucional de un Estado, un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
+
+El número de representantes en las Legislaturas de los Estados será proporcional al de habitantes de cada uno; pero en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a cuatrocientos mil habitantes; de nueve en aquellos cuya población exceda de este número y no llegue a ochocientos mil habitantes y de once en los Estados cuya población sea superior a esta última cifra.
+
+Los diputados a las Legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán se electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 ###### Art. 116.
 
@@ -1691,3 +1721,9 @@ D.O.F. 27 DE ABRIL DE 1933.
 ###### ARTICULO UNICO.
 
 Esta Ley comenzará a regir desde la fecha de su publicación en el "Diario Oficial."
+
+D.O.F. 29 DE ABRIL DE 1933.
+
+###### ARTICULO UNICO.
+
+En las próximas elecciones ordinarias de Poderes Federales, se elegirán Senadores de número par por un período de seis años; en el año de 1936 deberán verificarse elecciones extraordinarias de Senadores de número impar, para un período de cuatro años, y en el año de 1940 se verificarán elecciones ordinarias de la totalidad de los miembros del Senado de la República.
