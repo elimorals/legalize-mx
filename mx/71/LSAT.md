@@ -4,7 +4,7 @@ identifier: "LSAT"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "1995-12-15"
+last_updated: "1999-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=727&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAT"
 
 LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -92,7 +92,9 @@ El Servicio de Administración Tributaria tendrá las atribuciones siguientes:
 
 I. Recaudar los impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos federales y sus accesorios de acuerdo a la legislación aplicable;
 
-II. Dirigir los servicios aduanales y de inspección, así como la Policía Fiscal de la Federación;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1999)</small>
+
+II. Dirigir los servicios aduanales y de inspección, así como la Unidad de Apoyo para la Inspección Fiscal y Aduanera;
 
 III. Representar el interés de la Federación en controversias fiscales;
 
@@ -285,3 +287,21 @@ Octavo. Los derechos de los trabajadores serán respetados y en ningún caso ser
 México, D.F., a 7 de diciembre de 1995.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Emilio Solórzano Solís, Secretario.- Sen. Jorge G. López Tijerina, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 4 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+
+...
+
+QUINTO.- ...
+
+Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamiento legal, se entenderán referidas a la Unidad de Apoyo para la Inspección Fiscal y Aduanera.
+
+...
+
+SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
