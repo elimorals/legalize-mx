@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1981-02-05"
+last_updated: "1981-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1981.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -175,15 +175,19 @@ El tribunal que resuelva la incompetencia declarará de oficio la nulidad.
 
 Competencia por materia.
 
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1981)</small>
 
 ###### Art. 23.
 
-Los jueces municipales son competentes para conocer exclusivamente de negocios contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar setenta y cinco veces el salario mínimo general diario obligatorio más alto vigente en el Estado de Guanajuato.
+Los jueces municipales son competentes para conocer exclusivamente de los negocios, contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar por setenta y cinco veces el salario mínimo general diario obligatorio más alto vigente en el Estado de Guanajuato.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 1968)</small>
 
 En ningún caso podrán conocer de reclamaciones contra la Federación, el Estado o los Municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 1981)</small>
+
+Cuando se modifique la competencia en razón de la cuantía, seguirán conociendo de los asuntos en trámite los jueces ante los que se plantearon.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1981)</small>
 
@@ -1471,11 +1475,11 @@ Cuando el auto contra el cual se haya admitido el recurso de apelación en ambos
 
 En los autos que queden en el tribunal no podrá nunca dictarse resolución alguna que modifique, revoque o en otra forma afecte lo acordado en la resolución apelada, entre tanto que el recurso este pendiente, para lo cual se dejará copia de ella.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1981)</small>
 
 ###### Art. 243.
 
-Sólo son apelables las sentencias dictadas por los jueces de partido.
+Sólo son apelables las sentencias dictadas, en primera instancia, por los jueces de partido.
 
 ###### Art. 244.
 
@@ -4726,3 +4730,13 @@ Cuando se modifique la competencia en razón de la cuantía seguirán conociendo
 ###### ARTICULO TERCERO.
 
 Este decreto entrará en vigor el día 15 de abril de 1981.
+
+P.O. 7 DE ABRIL DE 1981.
+
+###### ARTICULO PRIMERO.
+
+Se deroga el Artículo Transitorio Segundo del Decreto número 158, de fecha 14 de enero 1981.
+
+###### ARTICULO SEGUNDO.
+
+Estas reformas entrarán en vigor el día 15 de abril de 1981.
