@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1989-01-31"
+last_updated: "1989-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1989.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -973,25 +973,29 @@ Si fueren más de dos los litigantes, nombrarán un perito los que sostuvieren u
 
 Si los que deben nombrar un perito no pudieren ponerse de acuerdo, el tribunal designará uno de entre los que propongan los interesados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 1989)</small>
 
 ###### Art. 149.
 
-La parte que desee rendir prueba pericial, deberá promoverla dentro de los quince días del término ordinario o extraordinario, en su caso, por medio de un escrito en que formulará las preguntas o precisará los puntos sobre que debe versar; hará la designación del perito de su parte, y propondrá un tercero para el caso de desacuerdo.
+La parte que desee rendir prueba pericial, deberá promoverla dentro de los diez primeros días del término ordinario o extraordinario, en su caso, por medio de un escrito en que formulará las preguntas o precisará los puntos sobre que debe versar; hará la designación del perito de su parte, y propondrá un tercero para el caso de desacuerdo.
 
 El tribunal concederá a las demás partes el término de tres días para que adicionen el cuestionario con lo que les interese, previniéndoles que, en el mismo término, nombren el perito que les corresponda y manifiesten si están o no conformes con que se tenga como perito tercero al propuesto por el promovente.
 
 Si pasados los tres días no hicieren las demás partes el nombramiento que les corresponde, ni manifestaren estar conformes con la proposición de un perito tercero, el tribunal, de oficio, nombrará al uno y al otro, observándose lo dispuesto en la parte final del artículo 148, en su caso.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
+
 ###### Art. 150.
 
-Los peritos nombrados por las partes serán presentados por éstas al tribunal, dentro de las cuarenta y ocho horas de habérseles tenido como tales, a manifestar la aceptación y protesta de desempeñar su cargo con arreglo a la ley. Si no lo hicieren o no aceptaren, el tribunal hará, de oficio, desde luego, los nombramientos que a aquéllas correspondía. Los peritos nombrados por el tribunal serán notificados personalmente de su designación, para que manifiesten si aceptan y protestan desempeñar el cargo.
+Los peritos nombrados por las partes serán presentados por éstas al Tribunal, dentro de los tres días de habérseles tenido como tales, a manifestar la aceptación y protesta de desempeñar su cargo con arreglo a la Ley. Si no la hicieren o no aceptaren, el Tribunal hará de oficio, desde luego los nombramientos que a aquéllas correspondía, los peritos nombrados por el tribunal serán notificados personalmente de su designación, para que manifiesten si aceptan y protestan desempeñar el cargo.
 
 ###### Art. 151.
 
 El Juez señalará lugar, día y hora para que la diligencia se practique, si él debe presidirla.
 
-En cualquier otro caso, señalará a los peritos un término prudente para que presenten su dictamen.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
+
+En cualquier otro caso, los peritos deberán rendir su dictamen en el término de diez días de haber aceptado y protestado el cargo, a menos que el juez, atendiendo a las circunstancias les fije prudentemente otro término más amplio.
 
 El Juez deberá presidir la diligencia cuando así lo solicite alguna de las partes y lo permita la naturaleza del reconocimiento, pudiendo pedir a los peritos todas las aclaraciones que estime conducentes, y exigirles la práctica de nuevas diligencias.
 
@@ -1013,11 +1017,13 @@ Cuando el juez no asista a la diligencia, los peritos practicarán sus peritajes
 
 Si los peritos están conformes, extenderán su dictamen en un mismo escrito que presentarán, o en una acta que harán asentar por el secretario del tribunal, firmando los dos. Si no lo estuvieren, formularán su dictamen en escrito por separado, del que acompañarán una copia.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
+
 ###### Art. 155.
 
-Rendidos los dictámenes, dentro de las cuarenta y ocho horas del últimamente presentado, los examinará el tribunal, y, si discordaren en alguno o algunos de los puntos esenciales sobre que debe versar el parecer pericial, mandará, de oficio, que, por notificación personal, se hagan del conocimiento del perito tercero, entregándole las copias de ellos y previniéndole que, dentro del término que le señale, rinda el suyo. Si el término fijado no bastare, el tribunal podrá acordar, a petición del perito, que se le amplíe.
+Rendidos los dictámenes, dentro de las cuarenta y ocho horas del últimamente presentado, los examinará el Tribunal, y si discordaren en alguno o algunos de los puntos esenciales sobre que debe versar el parecer pericial, mandará de oficio, que, por notificación personal, se hagan del conocimiento del perito tercero, entregándole las copias de ellos y previniéndole que, dentro del término señalado en el artículo 151, rinda el suyo. Si dicho término no bastare, el Tribunal podrá acordar, a petición del perito, que se le amplíe.
 
-El perito tercero no está obligado a adoptar alguna de las opiniones de los otros peritos.
+El perito tercero emitirá libremente su dictamen sin estar obligado a adoptar alguna de las opiniones de los otros peritos.
 
 ###### Art. 156.
 
@@ -1031,9 +1037,11 @@ Los peritos se sujetarán, en su dictamen, a las bases que, en su caso, fije la 
 
 Si el objeto del dictamen pericial fuere la práctica de un avalúo, los peritos tenderán a fijar el valor comercial, teniendo en cuenta los precios de plaza, los frutos que en su caso produjere o fuere capaz de producir la cosa, objeto del avalúo, y todas las circunstancias que puedan influir en la determinación del valor comercial.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
+
 ###### Art. 159.
 
-El perito tercero que nombre el juez puede ser recusado dentro de las cuarenta y ocho horas siguientes a la en que se notifique su nombramiento a los litigantes, por las mismas causas que pueden serlo los jueces; pero si se tratare de perito nombrado en rebeldía de una de las partes, sólo esta podrá hacer uso de la recusación.
+El perito tercero que nombre el Juez puede ser recusado dentro de los tres días siguientes a que se notifique su nombramiento a los litigantes, por las mismas causas que pueden serlo, los jueces; pero si se tratare de perito nombrado en rebeldía de una de las partes, sólo esta podrá hacer uso de la recusación.
 
 ###### Art. 160.
 
@@ -2187,7 +2195,7 @@ Si en la audiencia no pronunciase el juez su sentencia, en ella misma se citará
 
 ###### Art. 357.
 
-Al pronunciarse la sentencia se estudiarán previamente las excepciones que no destruyan la acción, y, si alguna de éstas se declara procedente, se abstendrán los tribunales de entrar al fondo del negocio, dejando a salvo los derechos del actor. Si dichas excepciones no se declaran procedentes, se decidirá sobre el fondo del negocio condenando o absolviendo, en todo o en parte, según el resultado de la valuación de las pruebas que haga el juez.
+Al pronunciarse la sentencia se estudiarán previamente las excepciones que no destruyan la acción, y, si alguna de éstas se declara procedente, se abstendrán los tribunales de entrar al fondo del negocio, dejando a salvo los derechos del actor. Si dichas excepciones no se declaran procedentes, se decidirá sobre el fondo del negocio, condenando o absolviendo, en todo o en parte, según el resultado de la valuación de las pruebas que haga el juez.
 
 ###### Art. 358.
 
@@ -4880,3 +4888,13 @@ P.O. 31 DE ENERO DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE JULIO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Juicios Civiles que hayan sido abiertos a prueba antes de entrar en vigor el presente Decreto, en cuanto al ofrecimiento y desahogo de la prueba pericial se tramitarán conforme a las disposiciones vigentes al haber sido abiertos a prueba.
