@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "1996-12-31"
+last_updated: "1997-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -307,7 +307,19 @@ La prórroga o el plazo dentro del cual deban pagarse las parcialidades, no exce
 
 En los casos a que se refiere este Precepto, deberá garantizarse el interés fiscal salvo que, conforme a este Código, proceda su dispensa.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+Los créditos fiscales sujetos a prórroga para su pago, causarán recargos que se calcularán sobre el monto prorrogado, por los días transcurridos desde la fecha de su exigibilidad hasta el día en que se paguen.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+El pago en parcialidades de los créditos fiscales, causará recargos que se calcularán sobre los saldos insolutos por los días transcurridos desde la fecha de su exigibilidad hasta el día en que se paguen cada una de las parcialidades.
+
 Durante los plazos concedidos se causarán recargos conforme a la tasa que fije la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+Los recargos que se generen con motivo de los plazos concedidos, se calcularán conforme a la tasa que fije la Ley de Ingresos del Estado.
 
 ###### ARTICULO 26.
 
@@ -321,15 +333,15 @@ III.- Cuando deje de cubrirse una de las parcialidades, dentro de los quince dí
 
 IV.- Cuando el deudor incurra en los delitos previstos en este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 27.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos por concepto de indemnización al fisco estatal por falta de pago oportuno, conforme a la tasa que fije la Ley de Ingresos del Estado.
+Cuando no se paguen las contribuciones en la fecha límite o dentro del plazo fijado por las disposiciones fiscales, o cuando el pago hubiere sido menor al que corresponda; deberán pagarse recargos sobre los montos no cubiertos oportunamente, que se calcularán por los días transcurridos desde la fecha de su exigibilidad hasta el día en que se paguen.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal excluyendo los recargos, gastos de ejecución y multas por infracción a las disposiciones fiscales, a la tasa que anualmente disponga la Ley de Ingresos del Estado. Cuando el pago hubiere sido menor al monto del crédito, los recargos se calcularán sobre la diferencia, por cada mes o fracción que transcurra a partir de la fecha de exigibilidad, hasta que se efectúe el pago.
+Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los recargos, gastos de ejecución y multas por infracción a las disposiciones fiscales, conforme a la tasa que anualmente disponga la Ley de Ingresos del Estado.
 
 Cuando se paguen en forma espontánea las prestaciones omitidas y sus recargos, éstos no excederán del 100% del crédito omitido.
 
@@ -1011,7 +1023,7 @@ II.- Prenda o hipoteca.
 
 III.- Fianza otorgada por Compañía autorizada, la que no gozará de los beneficios de orden y excusión.
 
-IV.- Secuestro en la vía administrativa;
+IV.- Secuestro en la vía administrativa.
 
 V.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
 
@@ -1996,3 +2008,9 @@ El presente Decreto, entrará en vigor el día siguiente al de su publicación e
 P.O. 31 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor el día 1ro. de enero de 1998, previa su publicación en el Periódico Oficial del Estado.
