@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-05-03"
+last_updated: "2000-07-06"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -119,9 +119,9 @@ I.- PRIMER CIRCUITO:
 
 1.- Cuarenta y dos tribunales colegiados especializados: seis en materia penal, once en materia administrativa, trece en materia civil y doce en materia de trabajo; y, seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL NUMERO 23/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MARZO DE 2000)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 38/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2000)</small>
 
-2.- Treinta y seis juzgados de distrito especializados: doce en materia penal, diez en materia administrativa, doce en materia civil y dos en materia de trabajo, todos con sede en el Distrito Federal.
+2.- Treinta y siete juzgados de distrito especializados: doce en materia penal, diez en materia administrativa, doce en materia civil y tres en materia de trabajo, todos con sede en el Distrito Federal.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -455,9 +455,9 @@ CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguient
 
 I.- PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL NUMERO 23/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MARZO DE 2000)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 38/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2000)</small>
 
-Los treinta y seis juzgados de distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél.
+Los treinta y siete juzgados de distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -1000,3 +1000,11 @@ D.O.F. 3 DE MAYO DE 2000.
 PRIMERO.- Este Acuerdo entrará en vigor el día dos de mayo del año dos mil.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 6 DE JULIO DE 2000.
+
+PRIMERO.- Este Acuerdo entrará en vigor el diez de julio de dos mil.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
