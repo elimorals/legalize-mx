@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-66-2001-del-pleno-del-consejo-de-la-61143"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-10-31"
-last_updated: "2001-10-31"
+last_updated: "2003-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61143&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-10-24"
 
 ACUERDO GENERAL 66/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA OBLIGACION DE RENDIR INFORME SEMESTRAL DE ACTIVIDADES POR PARTE DEL DIRECTOR GENERAL DEL INSTITUTO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2003.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 31 de octubre de 2001.
 
@@ -61,7 +61,9 @@ En consecuencia, con fundamento en las citadas disposiciones constitucionales y 
 
 ACUERDO
 
-PRIMERO.- El Director General del Instituto de la Judicatura Federal rendirá ante el Pleno del Consejo de la Judicatura Federal un Informe Semestral de Actividades, relativo al Desempeño de sus Funciones, lo cual tendrá lugar el primer martes de junio y el primer martes de diciembre de cada año.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 27/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE JUNIO DE 2003)</small>
+
+PRIMERO.- El Director General del Instituto de la Judicatura Federal rendirá ante el Pleno del Consejo de la Judicatura Federal un informe anual de actividades, relativo al desempeño de sus funciones, lo cual tendrá lugar durante los primeros quince días de noviembre de cada año, en el salón de sesiones del Pleno del propio consejo.
 
 SEGUNDO.- El Informe semestral que rendirá el Director General del Instituto de la Judicatura Federal contendrá todas las actividades que dicho Instituto haya realizado en el ámbito nacional, en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste.
 
@@ -76,3 +78,11 @@ SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 TERCERO.- El informe de actividades que el Director General del Instituto de la Judicatura Federal, deberá rendir ante el Pleno del Consejo de la Judicatura Federal, correspondiente a las actividades realizadas en dos mil uno, tendrá lugar el martes veintisiete de noviembre del año en curso.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 66/2001, del Pleno del Consejo de la Judicatura Federal, que Establece la Obligación de Rendir Informe Semestral de Actividades por Parte del Director General del Instituto de la Judicatura Federal; fue aprobado por el propio Pleno, en sesión de veinticuatro de octubre de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro, Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a veinticuatro de octubre de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 5 DE JUNIO DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
