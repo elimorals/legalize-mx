@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1985-02-18"
+last_updated: "1985-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1985.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -869,7 +869,7 @@ El Secretario General de Gobierno, será el órgano por el cual el Ejecutivo com
 
 El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de las dependencias básicas del Poder Ejecutivo, a rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 65.
 
@@ -901,6 +901,10 @@ Procederá el recurso de revisión ante el Supremo Tribunal de Justicia contra l
 
 La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder Judicial, y ninguna otra autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
+
+La ley fijará los términos en que sea obligatoria la jurisprudencia que establezca el Supremo Tribunal de Justicia en ejercicio de la facultad a que se refiere este artículo, así como los requisitos para su interrupción y modificación.
+
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 69.
@@ -911,13 +915,13 @@ El Poder Judicial no podrá ejercer otras funciones que las de juzgar y hacer qu
 
 #### SECCION I. De la Integración y Funcionamiento del Supremo Tribunal
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1967)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 70.
 
-El Supremo Tribunal de Justicia estará integrado por un número no menor de siete Magistrados propietarios y funcionará en Tribunal Pleno o en Salas Unitarias, Civiles y Penales, en los términos que disponga la Ley. Habrá, además, el mismo número de Magistrados supernumerarios.
+El Supremo Tribunal de Justicia estará integrado por un número no menor de siete magistrados propietarios y funcionará en Tribunal Pleno o en Salas, en los términos que disponga la ley. Habrá además, el mismo número de magistrados supernumerarios.
 
-La Ley Orgánica del Poder Judicial fijará el número de Magistrados y distribuirá las competencias señalando las funciones que correspondan al Presidente, al Pleno y a las Salas Unitarias.
+La Ley Orgánica del Poder Judicial fijará el número de magistrados y distribuirá las competencias señalando las funciones que correspondan al Presidente, al Pleno y a las Salas.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1034,6 +1038,10 @@ Los magistrados continuarán en sus funciones aunque haya fenecido su período c
 ###### Artículo 81.
 
 La administración de justicia en primera instancia estará a cargo de jueces letrados. La Ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de llenar sus faltas absolutas o temporales.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
+
+El Supremo Tribunal de Justicia podrá nombrar jueces de Primera Instancia supernumerarios, que auxilien las labores de los juzgados donde hubiere recargo de negocios, a fin de obtener que la administración de justicia sea pronta y expedita.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
@@ -2068,3 +2076,17 @@ UNICO.- Este decreto entrará en vigor a los cinco días de su publicación en e
 P.O. 18 DE FEBRERO DE 1985.
 
 UNICO. Este Decreto entrará en vigor a los 5 cinco días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Las reformas y adiciones contenidas en el presente Decreto, son aprobadas por una sola Legislatura de conformidad con el artículo 164 fracción VII, de la Constitución Política del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En consecuencia, como lo dispone la fracción V del artículo 164 de la Constitución Política del Estado, estas reformas y adiciones deberán publicarse como ley constitucional.
+
+###### ARTICULO TERCERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
