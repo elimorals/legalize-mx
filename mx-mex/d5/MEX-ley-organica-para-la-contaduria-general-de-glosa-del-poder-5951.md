@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-para-la-contaduria-general-de-glosa-del-poder-5951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-15"
-last_updated: "1991-10-15"
+last_updated: "1994-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA PARA LA CONTADURIA GENERAL DE GLOSA DEL PODER LEGISLATIVO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 1994.
 
 Ley publicada en la Gaceta del Gobierno, el 15 de octubre de 1991.
 
@@ -99,7 +99,9 @@ III. Determinar la intervención de la Contaduría, cuando lo estime conveniente
 
 IV. Presentar a la Legislatura, el informe anual que rinda la Contaduría General de Glosa, sobre el resultado de la revisión de las cuentas públicas, respecto del año inmediato anterior, 15 días antes de que concluya el Segundo Período Ordinario de Sesiones.
 
-V. Informar a la Legislatura o a la Diputación Permanente de las conductas presuntamente delictivas detectadas por la Contaduría General de Glosa, para en su caso, proceder a su denuncia o querella, ante autoridad competente.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+
+V.- Informar a la Legislatura o a la Diputación Permanente de las conductas presuntamente delictivas conocidas por la Contaduría General de Glosa, para proceder a su denuncia ante la autoridad competente;
 
 VI. Proponer a la Legislatura el Reglamento de la Ley Orgánica de la Contaduría General de Glosa.
 
@@ -367,6 +369,18 @@ Los informes mensuales referidos en el artículo anterior serán remitidos a la 
 
 La Cuenta Pública Municipal y los informes mensuales deberán ser firmados por el Presidente Municipal, él o los Síndicos, el Tesorero y el Secretario del Ayuntamiento, quienes en su caso, asentarán al margen sus observaciones cuando estén en desacuerdo con los términos de dichos documentos.
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1994)</small>
+
+El Tesorero Municipal dentro de los primeros 5 días naturales del mes siguiente al del informe, pondrá a disposición de los servidores públicos mencionados en el párrafo anterior, en las oficinas de la Tesorería Municipal, la documentación correspondiente para que procedan a su revisión y firma o asentar las observaciones que estime pertinentes, comunicándoles que, en el caso de no hacerlo, se tendrán por aceptadas. Para la cuenta pública municipal, el plazo de revisión y firma o asentamiento de observaciones, será de 30 días naturales, posteriores al cierre del ejercicio anual operado.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1994)</small>
+
+Tratándose de las observaciones a que se refieren los párrafos anteriores, éstas deberán estar fundadas y motivadas, y presentarse ante la Contaduría General de Glosa, con los documentos y datos necesarios dentro del plazo de 5 días naturales contados a partir de la fecha en que ésta los requiera, con el apercibimiento de que en caso contrario se tendrán por no formuladas.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1994)</small>
+
+El Tesorero Municipal que no cumpla con la disposición contenida en el párrafo segundo de este artículo incurrirá en responsabilidad.
+
 ###### Artículo 45.
 
 Las observaciones que se formulen a los Servidores Públicos, derivadas de la revisión de la cuenta pública, de los informes mensuales y de las auditorías practicadas, deberán aclararse, justificarse o reintegrarse para quedar solventadas en un plazo de diez a treinta días naturales a criterio de la Contaduría General de Glosa.
@@ -423,9 +437,11 @@ Tratándose de Servidores Públicos Municipales, de elección popular o designad
 
 Las responsabilidades administrativas en que se incurra en los términos de esta Ley, son independientes de las que puedan configurarse del orden civil o penal, en cuyo caso se estará a lo previsto por las normas que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
+
 ###### Artículo 52.
 
-En el caso de responsabilidad penal el procedimiento, se iniciará por querella o denuncia de:
+En el caso de responsabilidad penal, el procedimiento se iniciará por denuncia de:
 
 I. La Legislatura del Estado o la Diputación Permanente en su caso, en contra de los Servidores Públicos de elección popular que se encuentren en funciones durante el período para el que fueron electos,
 
@@ -435,7 +451,7 @@ III. La Gran Comisión de la Legislatura del Estado, contra los Servidores Públ
 
 ###### Artículo 53.
 
-Cuando se trate de delitos perseguibles por querella y la Hacienda Pública haya sido resarcida de los daños y perjuicios causados, la Legislatura a través de sus órganos, podrá solicitar el sobreseimiento de la causa antes de que el Ministerio Público formule conclusiones.
+(DEROGADO, P.O. 5 DE ENERO DE 1994)
 
 ###### Artículo 54.
 
@@ -480,3 +496,15 @@ EL SECRETARIO DE GOBIERNO
 LIC. HUMBERTO LIRA MORA
 
 (Rúbrica)
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY
+
+P.O. 5 DE ENERO DE 1994
+
+PRIMERO.- Publíquese el presente Decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos y procesos iniciados con anterioridad a la vigencia de este Decreto, se sujetarán, hasta su conclusión, a las disposiciones que por el mismo se reforman o derogan.
+
+CUARTO.- Se derogan las disposiciones que se opongan a lo dispuesto por este Decreto.
