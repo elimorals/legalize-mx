@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-tribunal-electoral-del-estado-de-22817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-15"
-last_updated: "2001-06-15"
+last_updated: "2002-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2002.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 15 de junio de 2001.
 
@@ -453,6 +453,8 @@ El Tribunal contará con los auxiliares jurídicos y administrativos que requier
 
 ### CAPÍTULO I. DE LAS UNIDADES AUXILIARES DE PRESIDENCIA
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+
 ###### ARTÍCULO 22.
 
 Para el ejercicio de sus atribuciones, el Presidente contará con unidades auxiliares, a fin de establecer una organización administrativa que permita el tratamiento especializado y eficaz de los asuntos de su competencia. Estos órganos contarán con la estructura y el personal aprobados por el Pleno, de acuerdo con la disponibilidad presupuestaria y serán las siguientes:
@@ -463,9 +465,11 @@ II. Secretaría Particular;
 
 III. Unidad de Documentación y Estadística;
 
-IV. Unidad de Comunicación Social; y
+IV. Unidad de Comunicación Social;
 
-V. El Centro.
+V. El Centro; y
+
+VI. Contraloría Interna.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN ADMINISTRATIVA
 
@@ -697,9 +701,77 @@ XII. Proponer la adquisición de material legislativo, hemerográfico, bibliogr�
 
 XIII. Las demás que se le encomiende.
 
-### CAPÍTULO VIII. DE LAS ÁREAS DE APOYO DE LA SECRETARÍA GENERAL DE ACUERDOS
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
-### CAPÍTULO IX. DE LA SUBSECRETARÍA TÉCNICA
+### CAPÍTULO VIII. DE LA CONTRALORÍA INTERNA
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+
+ARTÍCULO 32 BIS. La Contraloría Interna estará a cargo de un Contralor, a quien corresponde originalmente la representación, trámite y resolución de los asuntos de la competencia de aquélla, mismo que tendrá las atribuciones siguientes:
+
+I. Vigilar el cumplimiento de las normas de control establecidas por la Dirección Administrativa del Tribunal;
+
+II. Comprobar el cumplimiento, por parte de las áreas administrativas, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+
+III. Revisar que las operaciones, informes contables y estados financieros, estén basados en los registros contables que se realizan por el Área Financiera y Contable del Tribunal;
+
+IV. Vigilar el adecuado ejercicio del presupuesto de egresos del Tribunal;
+
+V. Examinar la asignación y correcta utilización de los recursos humanos, financieros y materiales;
+
+VI. Revisar el cumplimiento de los objetivos y metas fijados en los programas presupuesta les a cargo, del Tribunal, con el propósito de recomendar las medidas pertinentes;
+
+VII. Sugerir correcciones de deficiencias o desviaciones detectadas y establecer el seguimiento de su implementación para la adecuada toma de decisiones;
+
+VIII. Analizar y evaluar los sistemas de procedimientos y control interno;
+
+IX. Realizar auditorías contables, operacionales y de resultados;
+
+X. Revisar que las adquisiciones de bienes, prestación de servicios, obra pública y servicios de obra pública, se ajusten a los procedimientos normativos y a los montos autorizados;
+
+XI. Elaborar el instructivo para la creación y manejo de fondos revolventes;
+
+XII. Informar al Presidente, sobre el resultado de las evaluaciones administrativas, de las visitas de auditoría a los órganos del Tribunal;
+
+XIII. Llevar a cabo el control y vigilancia del proceso presupuestal, así como verificar el cumplimiento de objetivos, metas, estrategias, líneas de acción y programas aprobados en el presupuesto de egresos del Tribunal;
+
+XIV. Inspeccionar y vigilar que la Dirección Administrativa cumpla con las normas y disposiciones en materia de registro y contabilidad, contratación y remuneraciones de los servidores públicos del Tribunal, contratación de adquisiciones, arrendamientos, servicios, ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles, almacenes y demás activos y recursos materiales del Tribunal;
+
+XV. Participar e intervenir en la formulación de los programas de modernización y desarrollo administrativo, simplificación de trámites y procedimientos, así como en los relativos a desconcentración y descentralización de la función administrativa que determine el Pleno, y evaluar su operación o avances;
+
+XVI. Realizar las auditorías, revisiones y visitas de inspección que se requieran, a los órganos del Tribunal;
+
+XVII. Vigilar el cumplimiento por parte de los órganos del Tribunal, de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, depósito por terceros, inversión, patrimonio, fondos y valores;
+
+XVIII. Practicar auditorías administrativas, de contabilidad y eficiencia a las diferentes áreas a fin de detectar anomalías y rezagos, formulando las recomendaciones respectivas;
+
+XIX. Establecer los tipos de auditoría, para verificar que los sistemas, procedimientos, métodos de contabilidad, registro contable de los libros y documentos comprobatorios del ingreso y gasto público, y de la cuenta pública, permitan comprobar el ejercicio del gasto público y su congruencia con el presupuesto de egresos del Tribunal;
+
+XX. Formular las observaciones y recomendaciones derivadas de las auditorías, revisiones o visitas, para efectuar el seguimiento sobre el cumplimiento de las medidas correctivas que se hubieren acordado para su solventación;
+
+XXI. Vigilar que el ejercicio del gasto por concepto de adquisiciones, arrendamientos, prestación de servicios de cualquier naturaleza y obras públicas que se realicen por parte del Tribunal, se ajusten a las disposiciones legales de la materia;
+
+XXII. Participar como órgano de control en los fideicomisos que establezca el Pleno, así como aquéllos en los que participe el Tribunal;
+
+XXIII. Verificar que la elaboración de la cuenta pública cumpla con la normatividad respectiva y se apegue a los principios de contabilidad aplicables al sector público, así como verificar también, que en los casos de contratación de obras o servicios, la información relacionada con la documentación justificativa y comprobatoria de la cuenta pública sea integrada;
+
+XXIV. Proponer al Pleno, la solicitud de auditar externamente la información financiera que se genere en el Tribunal;
+
+XXV. Someter a consideración del Pleno, la solicitud de contratación de auditorías técnicas externas en materia de obra, informática y de control de calidad en adquisiciones, que se consideren necesarias para el mejor desempeño de las funciones de revisión;
+
+XXVI. Recibir y registrar (as declaraciones patrimoniales que deben presentar los servidores públicos del Tribunal;
+
+XXVII. Llevar el registro y seguimiento de (a evolución de la situación patrimonial de los servidores públicos del Tribunal;
+
+XXVIII. Intervenir en los actos de entrega-recepción de los órganos del Tribunal, en los casos de cambios de titulares;
+
+XXIX. Establecer y mantener coordinación e intercambiar información y documentación con el órgano de Fiscalización Superior del Estado de Puebla, sobre las normas, procedimientos y sistemas de contabilidad y sobre los procedimientos de archivo contable de los libros o documentos justificatorios del ingreso y del gasto;
+
+XXX. Recibir del Congreso del Estado, los pliegos de observaciones y recomendaciones sobre comprobaciones de gastos en los procedimientos y sistemas de Contabilidad que dictamine al revisar la Cuenta Pública del Tribunal para preparar las medidas de solventación que correspondan y presentarlas al Pleno para su aprobación; y
+
+XXXI. Las demás que le confieran las disposiciones aplicables y las que le encomiende el Presidente.
+
+### CAPÍTULO VIII (SIC). DE LAS ÁREAS DE APOYO DE LA SECRETARÍA GENERAL DE ACUERDOS
 
 ###### ARTÍCULO 33.
 
@@ -713,7 +785,7 @@ III. Oficina de Actuarios; y
 
 IV. Archivo Judicial.
 
-### CAPÍTULO X. DE LA OFICIALÍA DE PARTES
+### CAPÍTULO IX. DE LA SUBSECRETARÍA TÉCNICA
 
 ###### ARTÍCULO 34.
 
@@ -731,7 +803,7 @@ V. Auxiliar al Secretario en la integración de las carpetas que contengan las c
 
 VI. Las demás que le encomiende el Presidente o el Secretario.
 
-### CAPÍTULO XI. DE LA OFICINA DE ACTUARIOS
+### CAPÍTULO X. DE LA OFICIALÍA DE PARTES
 
 ###### ARTÍCULO 35.
 
@@ -777,7 +849,7 @@ g) Libro de asuntos especiales.
 
 Así como los que determine el Pleno.
 
-### CAPÍTULO XII. DEL ARCHIVO JUDICIAL
+### CAPÍTULO XI. DE LA OFICINA DE ACTUARIOS
 
 ###### ARTÍCULO 38.
 
@@ -835,7 +907,7 @@ b) Libro de notificación de resoluciones; y
 
 c) Libro de registro de oficios a notificar.
 
-### CAPÍTULO XIII. DE LAS ÁREAS DE APOYO DE LA DIRECCIÓN ADMINISTRATIVA
+### CAPÍTULO XII. DEL ARCHIVO JUDICIAL
 
 ###### ARTÍCULO 43.
 
@@ -867,7 +939,7 @@ VIII. Las demás que le encomiende el Presidente o el Secretario.
 
 Los expedientes jurisdiccionales podrán ser consultados por las personas autorizadas para tal efecto, siempre que ello no obstaculice su pronta y expedita sustanciación y resolución; asimismo quienes tengan reconocida su calidad de partes, podrán solicitar copias certificadas a su costa, las que serán expedidas previo acuerdo del Presidente, siempre y cuando lo permitan las labores del Tribunal.
 
-### CAPÍTULO I. GENERALIDADES
+### CAPÍTULO XIII. DE LAS ÁREAS DE APOYO DE LA DIRECCIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 46.
 
@@ -1057,7 +1129,7 @@ XV. Las demás que se le encomienden.
 
 ## TÍTULO CUARTO. DEL SERVICIO PROFESIONAL DE CARRERA
 
-### CAPÍTULO II. DEL RECLUTAMIENTO, SELECCIÓN, INCORPORACIÓN, ADSCRIPCIÓN Y READSCRIPCIÓN
+### CAPÍTULO I. GENERALIDADES
 
 ###### ARTÍCULO 52.
 
@@ -1105,7 +1177,7 @@ Las categorías de los servidores públicos del Tribunal, son independientes de 
 
 Los servidores públicos del Tribunal, serán dados de baja del Servicio, cuando incurran en faltas graves a las disposiciones establecidas en el Código, en este Reglamento y el Estatuto, o cuando no acrediten los exámenes de los cursos y programas de evaluación establecidos previamente por el Pleno.
 
-### CAPÍTULO III. DEL PROGRAMA DE FORMACIÓN Y EVALUACIÓN
+### CAPÍTULO II. DEL RECLUTAMIENTO, SELECCIÓN, INCORPORACIÓN, ADSCRIPCIÓN Y READSCRIPCIÓN
 
 ###### ARTÍCULO 63.
 
@@ -1167,7 +1239,7 @@ Serán vacantes de urgente ocupación, las que se originen con la salida del tit
 
 La permanencia del personal del Servicio, se obtiene mediante el nombramiento otorgado al servidor público del Tribunal, que cumpla con los requisitos establecidos en el Código, en este Reglamento, en el Estatuto y por el Pleno.
 
-### CAPÍTULO IV. DE LA CAPACITACIÓN Y DE LA ACTUALIZACIÓN
+### CAPÍTULO III. DEL PROGRAMA DE FORMACIÓN Y EVALUACIÓN
 
 ###### ARTÍCULO 75.
 
@@ -1225,7 +1297,7 @@ La presentación de exámenes en la fecha y hora indicados, es obligatoria para 
 
 Los miembros del Servicio requeridos para sustentar exámenes, que por motivo de causa de fuerza mayor justificable, no puedan asistir el día y hora indicados, deberán acreditar ante la Dirección Administrativa dentro del plazo de tres días la existencia y justificación de dicha causa.
 
-### CAPÍTULO V. DE LA PROMOCIÓN
+### CAPÍTULO IV. DE LA CAPACITACIÓN Y DE LA ACTUALIZACIÓN
 
 ###### ARTÍCULO 86.
 
@@ -1251,7 +1323,7 @@ La participación de los miembros del Servicio en la capacitación y actualizaci
 
 El Pleno expedirá las constancias correspondientes a las evaluaciones de la capacitación y actualización.
 
-### CAPÍTULO VI. DE LOS REQUISITOS PARA OCUPAR EL CARGO
+### CAPÍTULO V. DE LA PROMOCIÓN
 
 ###### ARTÍCULO 92.
 
@@ -1269,7 +1341,7 @@ Los servidores públicos del Tribunal, para obtener la promoción a la categorí
 
 El Pleno aprobará las promociones necesarias, de acuerdo a la posibilidad presupuestal del Tribunal, o al número de vacantes existentes.
 
-### CAPÍTULO VII. DE LOS PERMISOS, LICENCIAS Y CERTIFICADOS DE INCAPACIDAD
+### CAPÍTULO VI. DE LOS REQUISITOS PARA OCUPAR EL CARGO
 
 ###### ARTÍCULO 96.
 
@@ -1415,9 +1487,11 @@ VIII. Someterse a la evaluación que para acreditar los requisitos de conocimien
 
 IX. No estar inhabilitado para desempeñar cargos o funciones públicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2002)</small>
+
 ###### ARTÍCULO 106.
 
-Para ser responsable de las Unidades de Documentación y Estadística, de Comunicación Social, de Docencia Electoral, de Desarrollo Administrativo y Planeación y de Sistemas y Soporte Técnico, se deberán cubrir los requisitos siguientes:
+Para ser responsable de las Unidades de Documentación y Estadística, de Comunicación Social, de Docencia Electoral, de Desarrollo Administrativo y Planeación, de Sistemas y Soporte Técnico y titular de la Contraloría Interna, se deberán cubrir los requisitos siguientes:
 
 I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
 
@@ -1425,7 +1499,11 @@ II. Contar con credencial para votar con fotografía;
 
 III. No haber desempeñado cargo de elección popular o de dirigencia de algún partido político o coalición en los últimos seis años;
 
-IV. Contar con título y cédula profesional en áreas o disciplinas vinculadas con la función que habrá de desempeñar, con una antigüedad profesional mínima de tres años anteriores a su nombramiento;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2002)</small>
+
+IV. Contar con titulo y cédula profesional en áreas o disciplinas vinculadas con la función que habrá de desempeñar, con una antigüedad profesional mínima de tres años anteriores a su nombramiento.
+
+Además de los requisitos señalados en este artículo el Contralor Interno deberá contar con título y cédula profesional de Licenciado en Administración Pública, o Administración de Empresas, o Contaduría Pública, o de Abogado o Licenciado en Derecho, legalmente expedidos con una antigüedad de tres años a la fecha de su nombramiento, así como contar con una experiencia comprobable como Auditor Contable mínima de dos años;
 
 V. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso;
 
@@ -1441,7 +1519,7 @@ IX. No estar inhabilitado para desempeñar cargos o funciones públicas.
 
 Para ser Auxiliar Administrativo se necesitan cubrir los mismos requisitos señalados para ser Oficial de Partes, excepto el establecido en la fracción II del artículo 100 de este Reglamento, y ser licenciado en Administración Pública, en Administración de Empresas, en Contaduría Pública o en carrera afín a las funciones que deba desempeñar.
 
-### CAPÍTULO VIII. DE LAS CORRECCIONES DISCIPLINARIAS Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO VII. DE LOS PERMISOS, LICENCIAS Y CERTIFICADOS DE INCAPACIDAD
 
 ###### ARTÍCULO 108.
 
@@ -1479,7 +1557,7 @@ No podrá ser autorizada la reincorporación de un servidor público al Tribunal
 
 Los certificados de incapacidad, deberán ser expedidos por Institución de Seguridad Social, con la que el Tribunal haya celebrado convenio para la prestación de servicios médicos.
 
-### CAPÍTULO IX. DE LOS ESTÍMULOS
+### CAPÍTULO VIII. DE LAS CORRECCIONES DISCIPLINARIAS Y SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 117.
 
@@ -1565,7 +1643,7 @@ IV. La reiteración en la comisión de infracciones o en el incumplimiento de la
 
 V. Los beneficios económicos obtenidos por el servidor público, así como los daños y perjuicios patrimoniales causados al Tribunal.
 
-### CAPÍTULO X. DE LAS BECAS Y AÑO SABÁTICO
+### CAPÍTULO IX. DE LOS ESTÍMULOS
 
 ###### ARTÍCULO 129.
 
@@ -1601,7 +1679,7 @@ VIII. Conducta irreprochable, esfuerzo constante, honradez y cortesía en el tra
 
 IX. Las demás que determine el Pleno.
 
-### CAPÍTULO I. DE LAS OBLIGACIONES Y DERECHOS DE LOS SERVIDORES DEL TRIBUNAL
+### CAPÍTULO X. DE LAS BECAS Y AÑO SABÁTICO
 
 ###### ARTÍCULO 133.
 
@@ -1725,7 +1803,7 @@ El Director Administrativo, llevará el registro de los años sabáticos otorgad
 
 ## TÍTULO QUINTO. DE LA ACTUACIÓN Y RESPONSABILIDAD DE LOS FUNCIONARIOS DEL TRIBUNAL
 
-### CAPÍTULO I. DE LA COMPETENCIA
+### CAPÍTULO I. DE LAS OBLIGACIONES Y DERECHOS DE LOS SERVIDORES DEL TRIBUNAL
 
 ###### ARTÍCULO 147.
 
@@ -1839,7 +1917,7 @@ Los prestadores del servicio social, no se considerarán servidores públicos de
 
 ## TÍTULO SEXTO. DEL PROCEDIMIENTO ADMINISTRATIVO DISCIPLINARIO
 
-### CAPÍTULO II. DE LA SUSTANCIACIÓN
+### CAPÍTULO I. DE LA COMPETENCIA
 
 ###### ARTÍCULO 151.
 
@@ -1847,7 +1925,7 @@ El Pleno es el órgano encargado de resolver las infracciones administrativas, q
 
 El Pleno investigará y determinará las responsabilidades y sanciones administrativas de los servidores públicos del Tribunal, en los términos establecidos por el Código, por este Reglamento, o por el Estatuto y aplicará supletoriamente las disposiciones legales relativas a la materia, respetando la garantía de audiencia del servidor público.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA SUSTANCIACIÓN
 
 ###### ARTÍCULO 152.
 
@@ -1913,7 +1991,7 @@ Una vez que el Pleno dicte la resolución que en derecho corresponda, ésta ser�
 
 ## TÍTULO SÉPTIMO. DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y SU PROCEDIMIENTO
 
-### CAPÍTULO II. DE LAS REGLAS DEL TURNO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 165.
 
@@ -1931,7 +2009,7 @@ Las actuaciones judiciales deberán ser autorizadas, con la firma de los servido
 
 Los requerimientos de cualquier informe o documento necesarios, para la sustanciación e integración de los expedientes en términos del artículo 339 fracción XII del Código, serán por conducto del Presidente, quien girará los oficios correspondientes.
 
-### CAPÍTULO III. DEL DESECHAMIENTO Y DEL SOBRESEIMIENTO
+### CAPÍTULO II. DE LAS REGLAS DEL TURNO
 
 ###### ARTÍCULO 169.
 
@@ -1947,7 +2025,7 @@ En caso de que se interponga un medio de impugnación establecido en la Ley Gene
 
 El informe circunstanciado y el oficio de remisión de documentación de algún medio de impugnación de los previstos en la Ley General del Sistema de Medios de Impugnación en materia Electoral serán signados por el Presidente y los oficios de aviso de interposición de estos medios de impugnación serán signados por el Secretario.
 
-### CAPÍTULO IV. DE LA SUSTANCIACIÓN
+### CAPÍTULO III. DEL DESECHAMIENTO Y DEL SOBRESEIMIENTO
 
 ###### ARTÍCULO 171.
 
@@ -1989,7 +2067,7 @@ Cuando se reciban las copias certificadas, de la resolución mediante la cual la
 
 Si no se reciben las copias certificadas a que se refiere el párrafo anterior, el Magistrado requerirá a la autoridad electoral responsable, para que las remita dentro del plazo de veinticuatro horas contadas a partir del momento en que reciba la notificación, con el apercibimiento de que en caso de no hacerlo, se continuará con el procedimiento.
 
-### CAPÍTULO V. DE LA ACUMULACIÓN DE LOS MEDIOS DE IMPUGNACIÓN
+### CAPÍTULO IV. DE LA SUSTANCIACIÓN
 
 ###### ARTÍCULO 174.
 
@@ -2033,7 +2111,7 @@ Si el organismo electoral responsable al remitir un recurso, no envía alguno de
 
 El Pleno, al resolver el último de los recursos de inconformidad que se hubieren promovido en contra de una misma elección, aun cuando en los mismos no se haya solicitado la nulidad de la elección y se actualicen en ellos los supuestos que establece el artículo 378 del Código, podrá modificar el cómputo final respectivo en los términos de la resolución emitida y lo hará en la sección de ejecución que para tal efecto se abra por cuerda separada, para dar cumplimiento a lo establecido en el artículo 380 del Código.
 
-### CAPÍTULO VI. DE LAS RESOLUCIONES
+### CAPÍTULO V. DE LA ACUMULACIÓN DE LOS MEDIOS DE IMPUGNACIÓN
 
 ###### ARTÍCULO 184.
 
@@ -2053,7 +2131,7 @@ III. El Secretario dará cuenta con la certificación y el informe al Pleno, qui
 
 Para los efectos de la acumulación, con relación al artículo 376 del Código, si el Pleno considera la existencia de conexidad de la causa, acumulará al expediente del recurso de inconformidad, el recurso de apelación que corresponda. Si a pesar de lo señalado por el actor en el recurso de inconformidad, no existió conexidad con el recurso de apelación, el Magistrado Ponente propondrá en el proyecto de resolución, archivarlo como asunto definitivamente concluido.
 
-### CAPÍTULO VII. DE LAS NOTIFICACIONES
+### CAPÍTULO VI. DE LAS RESOLUCIONES
 
 ###### ARTÍCULO 187.
 
@@ -2107,7 +2185,7 @@ IV. Cuando las autoridades responsables, notifiquen el cumplimiento de una resol
 
 Para el ingreso a las sesiones públicas, toda persona deberá identificarse plenamente, debiéndose registrar en el libro de control de recepción y registro de visitantes. Está prohibido entrar a la sesión pública en estado de ebriedad, o bajo el influjo de alguna droga o enervante, con alimentos o con cualquier tipo de armas.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. DE LAS NOTIFICACIONES
 
 ###### ARTÍCULO 197.
 
@@ -2201,13 +2279,15 @@ El arresto que se decrete se hará efectivo por conducto de la Procuraduría Gen
 
 ## TÍTULO NOVENO. DE LOS CRITERIOS RELEVANTES DEL TRIBUNAL
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE REFORMA
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 209.
 
 Los criterios sustentados por el Pleno, tendrán el carácter de relevantes, cuando se emitan tres resoluciones consecutivas de manera ininterrumpida en un mismo sentido.
 
 ## TÍTULO DÉCIMO. DE LAS REFORMAS AL REGLAMENTO
+
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE REFORMA
 
 ###### ARTÍCULO 210.
 
@@ -2234,3 +2314,13 @@ PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación
 SEGUNDO.- Quedan derogadas todas las disposiciones generales y acuerdos que se opongan al presente Reglamento.
 
 Dado en la Heroica Puebla de Zaragoza, a los doce días del mes de junio del año dos mil uno, por los Ciudadanos Magistrados que integran el Pleno del Tribunal Electoral del Estado de Puebla, en presencia del Ciudadano Secretario General de Acuerdos, quien autoriza y da fe.- Cuatro firmas ilegibles.- Rúbricas.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 9 DE OCTUBRE DE 2002.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente a aquél en que sea publicado en el Periódico Oficial del Estado.
+
+TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
