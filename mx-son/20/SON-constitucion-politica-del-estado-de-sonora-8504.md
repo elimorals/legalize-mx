@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1972-12-23"
+last_updated: "1975-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE DICIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1975.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -345,7 +345,9 @@ III. Haber residido en el Estado, cuando menos un año inmediatamente anterior a
 
 IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiese separado definitivamente de su puesto.
 
-V. No habr (sic) sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado, Presidente Municipal, ni ejercido mando militar alguno en el Distrito Electoral de la elección, dentro de los noventa días inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1975)</small>
+
+V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario o Subsecretario de Gobierno, Tesorero General del Estado, Presidente Municipal, ni ejercido mando militar alguno en el Distrito Electoral de la elección dentro de los noventa días inmediatamente anteriores al día de la elección.
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
@@ -747,9 +749,9 @@ III. Tener treinta años cumplidos, por lo menos, el día de la elección.
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1975)</small>
 
-V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado, ni militar en servicio activo, ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
+V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario o Subsecretario de Gobierno, Tesorero General del Estado, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en el año inmediatamente anterior al día de la elección.
 
 VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
 
@@ -875,7 +877,9 @@ XXII. Hacer observaciones por una sola vez en el improrrogable término de diez 
 
 XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-XXIV. Nombrar y remover libremente al Secretario de Gobierno, Procurador General de Justicia y Tesorero General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia, sometiéndola a la aprobación del Congreso.
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1975)</small>
+
+XXIV. Nombrar y remover libremente al Secretario y Subsecretario de Gobierno, Procurador General de Justicia y Tesorero General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia, sometiéndola a la aprobación del Congreso.
 
 XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
@@ -953,9 +957,11 @@ Para el despacho de los negocios que esta Constitución encomienda al Ejecutivo 
 
 Todas las leyes, decretos, reglamentos, circulares, acuerdos y órdenes que suscriba el Gobernador deberán en todo caso ser autorizados con la firma del Secretario de Gobierno y comunicados por éste. Los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, así como los despachos que expida, deberán ir refrendados por el Secretario de Gobierno y sin este requisito no surtirán efectos legales.
 
-> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1975)</small>
 
-Artículo 82 A. Para auxiliar al Secretario de Gobierno en sus funciones y para sustituirlo en sus faltas temporales, habrá un Oficial Mayor de la Secretaría con las atribuciones que le asigne el Reglamento Interior de la misma. El Oficial Mayor de la Secretaría deberá llenar los mismos requisitos que se exigen para el Secretario de Gobierno.
+Artículo 82 A. Para auxiliar al Secretario de Gobierno en sus funciones y para substituirlo en sus faltas temporales, habrá un Subsecretario de Gobierno con las atribuciones que le asigne la Ley Orgánica del Poder Ejecutivo del Estado. El Subsecretario deberá llenar los mismos requisitos que se exigen para el Secretario de Gobierno.
+
+Habrá además un Oficial Mayor de la Secretaría con las facultades que le asigne la propia Ley Orgánica del Poder Ejecutivo del Estado.
 
 #### SECCION I.
 
@@ -1499,13 +1505,17 @@ Todos los funcionarios y empleados del Estado y de los Municipios serán respons
 
 El Gobernador, durante el período de su encargo, sólo podrá ser encausado por traición a la Patria, por violación de esta Ley, ataque de la libertad electoral y delitos graves del orden común.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1975)</small>
+
+###### Articulo 144.
+
+El Gobernador, los Diputados, Magistrados, el Procurador General de Justicia, Secretario y Subsecretario de Gobierno y Tesorero General no podrán ser procesados por delitos comunes u oficiales sin declaración previa del Congreso, erigido en Gran Jurado, de haber lugar a formación de causa. Para que el Congreso haga esa declaración se requiere el voto de las dos terceras partes de sus miembros cuando se trate del Gobernador, y por mayoría absoluta respecto de los demás funcionarios. Tratándose de delitos comunes, hecha la declaración indicada, el acusado quedará separado desde luego de su encargo y sujeto a la acción de los tribunales. Tratándose de delitos oficiales, hecha la declaración quedará también separado de su cargo y a disposición del Supremo Tribunal, a fin de que se le instruya el proceso respectivo. El acusado y su defensor y el Procurador General de Justicia serán oídos en los términos de Ley.
+
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### Artículo 144.
-
-El Gobernador, los Diputados, Magistrados, el Procurador General de Justicia, Secretario de Gobierno y Tesorero General no podrán ser procesados por delitos comunes u oficiales, sin declaración previa del Congreso, erigido en Gran Jurado, de haber lugar a formación de causa. Para que el Congreso haga esa declaración se requiere el voto de las dos terceras partes de sus miembros cuando se trate del Gobernador, y por mayoría absoluta respecto de los demás funcionarios. Tratándose de delitos comunes, hecha la declaración indicada, el acusado quedará separado desde luego de su encargo y sujeto a la acción de los tribunales. Tratándose de delitos oficiales, hecha la declaración quedará también separado de su cargo y a disposición del Supremo Tribunal, a fin de que se le instruya el proceso respectivo. El acusado y su defensor y el Procurador General de Justicia serán oídos en los términos de Ley.
-
 Si la declaración del Congreso fuere en sentido negativo no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que pueda formularse acusación ante los tribunales cuando el funcionario haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 En los casos de este artículo las resoluciones del Gran Jurado y la declaración de la Cámara son inatacables.
 
@@ -1875,7 +1885,7 @@ Para el presente período gubernamental, que terminará el día 31 de agosto de 
 
 ###### ARTICULO SEGUNDO.
 
-Por esta sola ocasión, el Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
+Por esta sola ocasión, el Congreso del Estado, designará a un Gobernador Provisional para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 de del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
 
 ###### ARTICULO TERCERO.
 
@@ -1904,6 +1914,10 @@ Esta ley entrará en vigor tres días después de su publicación en el Boletín
 B.O. 23 DE DICIEMBRE DE 1972.
 
 UNICO.- Las presentes reformas entrarán en vigor el mismo día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 10 DE DICIEMBRE DE 1975.
+
+UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
