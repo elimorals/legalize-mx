@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1979-04-28"
+last_updated: "1979-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1979.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -193,7 +193,11 @@ XV.- Oficina Central del Registro Público de la Propiedad
 
 XVI.- Comisión Agraria Mixta
 
-XVII.- Oficina del Servicio Meteorológico y Geográfico del Estado.
+XVII.- Oficina del Servicio Meteorológico y Geográfico del Estado
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 1979)</small>
+
+XVIII.- Impulsora Estatal de la Pequeña y Mediana Minería.
 
 ### CAPITULO II. DEL PERSONAL
 
@@ -702,6 +706,22 @@ VI.- Dar debido cumplimiento a las disposiciones internacionales de intercambio 
 VII.- Cooperar con instituciones científicas nacionales e internacionales en la investigación y estudios sobre la meteorología y geografía en la Entidad;
 
 VIII.- Las demás atribuciones que le señalen las leyes, los reglamentos y el Gobernador.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE AGOSTO DE 1979)</small>
+
+DE LA IMPULSORA ESTATAL DE LA PEQUEÑA Y MEDIANA MINERIA
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1979)</small>
+
+ARTICULO 60 BIS.- Corresponde a la Impulsora Estatal de la Pequeña y Mediana Minería:
+
+I.- Asesorar al Ejecutivo del Estado en materia minera.
+
+II.- Estudiar y elaborar los proyectos de inversión en materia minera en los que participe el Gobierno del Estado.
+
+III.- Promover y fomentar la exploración, explotación y beneficio de los minerales.
+
+IV.- Las demás que le confieran las leyes.
 
 ### CAPITULO V. DEL DESPACHO Y FIRMA DE LOS ASUNTOS
 
@@ -10483,9 +10503,9 @@ ECONOMIA
 
 ## TITULO PRIMERO
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1452.
 
@@ -10505,9 +10525,9 @@ VI.- Fundar y mantener organismos coordinados, establecimientos públicos descen
 
 ## TITULO SEGUNDO
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1453.
 
@@ -10945,13 +10965,13 @@ VII.- Intervenir en los casos a que se refiere el artículo 1491 en lo que afect
 
 VIII.- Las demás que les otorgue el presente título y las disposiciones legales relativas.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11079,7 +11099,7 @@ Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11095,7 +11115,7 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11193,9 +11213,9 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11237,9 +11257,9 @@ II.- A la introducción de los servicios públicos.
 
 Una vez determinados los jefes de familia beneficiados, la presidencia municipal otorgará los títulos de propiedad correspondientes, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11283,9 +11303,9 @@ V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recol
 
 Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11327,11 +11347,7 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
-
-DECIMA PRIMERA PARTE
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION SEXTA. DEL MEJORAMIENTO
 
@@ -11383,7 +11399,7 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
@@ -11401,7 +11417,7 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO I. DE LAS COMPETENCIAS
 
@@ -11455,7 +11471,7 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LOS PROCEDIMIENTOS
 
@@ -11503,7 +11519,11 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
+
+DECIMA PRIMERA PARTE
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
 # LIBRO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -12556,3 +12576,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día s
 P.O. 28 DE ABRIL DE 1979.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 1979.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de la Entidad.
