@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1996-03-28"
+last_updated: "1996-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MARZO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 1996.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -155,35 +155,13 @@ Los Directores Generales y Directores podrán delegar facultades en empleados qu
 
 Las resoluciones por las que se deleguen facultades se publicarán en el Diario Oficial de la Federación.
 
+(REFORMADO, D.O.F. 24 DE MAYO DE 1996) (F. DE E., D.O.F. 27 DE MAYO DE 1996)
+
 ###### ARTICULO 12.
 
-La Dirección General de Operaciones de Banca Central tendrá las atribuciones que se señalan en los artículos 19 y 20, así como las siguientes:
+La Dirección General de Operaciones de Banca Central tendrá las atribuciones que se señalan en los artículos 19, 20 y 20 Bis.
 
-I. Atender y registrar las operaciones que ocasionen abonos o cargos en la cuenta corriente de la Tesorería de la Federación, así como elaborar los reportes que se entreguen al Gobierno Federal y a las entidades de la Administración Pública Federal que, conforme a las disposiciones aplicables, tengan cuenta en el Banco;
-
-II. Asentar los registros correspondientes en las cuentas que el Banco lleve a las instituciones de crédito y, en su caso, a las casas de bolsa, fideicomisos operados por el Banco, y demás entidades previstas legalmente como cuentahabientes;
-
-> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 1995)</small>
-
-III. Formalizar y operar sistemas y servicios relacionados con la transmisión de información y registro concernientes a las funciones señaladas en las fracciones I y II del presente artículo y en general, con el funcionamiento de los sistemas de pago;
-
-> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 1995)</small>
-
-IV. Formalizar y ejecutar las operaciones previstas en las disposiciones relativas a corresponsalía, compensación y en general a los sistemas de pago;
-
-V. Efectuar pagos y cobros derivados de la operación del Banco o de las disposiciones o compromisos relativos, así como solicitar la expedición de créditos documentarios;
-
-VI. Efectuar a nombre y por cuenta del Gobierno Federal, el registro y servicio de la Deuda Pública Externa;
-
-VII. Realizar los cargos en cuenta a que se refiere el artículo 67 de la Ley;
-
-VIII. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto a inversiones, cambios, metales y monedas, o aquéllas que se deriven de los convenios en los que el Banco sea parte o en los que actúe por cuenta del Gobierno Federal;
-
-IX. Administrar los servicios de depósito y custodia de valores, así como los relativos a las cajas de seguridad que lleva el Banco, y
-
-X. Desempeñar las funciones encomendadas al Banco en el Fideicomiso relativo al Centro de Cómputo Bancario.
-
-A esta Dirección General estarán adscritas la Dirección de Operaciones y la de Sistemas Operativos de Banca Central.
+A esta Dirección General estarán adscritas la Dirección de Operaciones, la de Sistemas Operativos de Banca Central y la de Trámite Operativo.
 
 > <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
 
@@ -300,6 +278,30 @@ II. Desarrollar sistemas y servicios relacionados con los procesos y mecanismos 
 III. Recabar información de los intermediarios financieros relativa a los sistemas que tengan establecidos para operar entre ellos y con el Banco, y
 
 IV. Contratar asesorías y demás servicios de carácter técnico y profesional relacionados con los procedimientos operativos en el mercado de dinero y en el de valores, en los que intervenga el Banco.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+ARTICULO 20 BIS.- La Dirección de Trámite Operativo tendrá las atribuciones siguientes:
+
+I. Atender y registrar las operaciones que ocasionen abonos o cargos en la cuenta corriente de la Tesorería de la Federación, así como elaborar los reportes que se entreguen al Gobierno Federal y a las entidades de la Administración Pública Federal que, conforme a las disposiciones aplicables, tengan cuenta en el Banco;
+
+II. Asentar los registros correspondientes en las cuentas que el Banco lleve a las instituciones de crédito y, en su caso, a las casas de bolsa, fideicomisos operados por el Banco, y demás entidades previstas legalmente como cuentahabientes;
+
+III. Formalizar y operar sistemas y servicios relacionados con la transmisión de información y registro concernientes a las funciones señaladas en las fracciones I y II del presente artículo y en general, con el funcionamiento de los sistemas de pago;
+
+IV. Formalizar y ejecutar las operaciones previstas en las disposiciones relativas a corresponsalía, compensación y en general, a los sistemas de pago;
+
+V. Efectuar pagos y cobros derivados de la operación del Banco o de las disposiciones o compromisos relativos, así como solicitar la expedición de créditos documentarios;
+
+VI. Efectuar a nombre y por cuenta del Gobierno Federal, el registro y servicio de la Deuda Pública Externa;
+
+VII. Realizar los cargos en cuenta a que se refiere el artículo 67 de la Ley;
+
+VIII. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto a inversiones, cambios, metales y monedas, o aquéllas que se deriven de los convenios en los que el Banco sea parte o en los que actúe por cuenta del Gobierno Federal;
+
+IX. Administrar los servicios de depósito y custodia de valores, así como los relativos a las cajas de seguridad que lleve el Banco, y
+
+X. Desempeñar las funciones encomendadas al Banco en el Fideicomiso relativo al Centro de Cómputo Bancario.
 
 ###### ARTICULO 21.
 
@@ -523,7 +525,7 @@ La Comisión de Responsabilidades realizará la investigación que proceda e int
 
 ### CAPITULO III. DE LA CONTABILIDAD Y DE LOS ESTADOS FINANCIEROS
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE MAYO DE 1996)</small>
 
 ### CAPITULO IV. DEL RECURSO DE RECONSIDERACION Y DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -567,7 +569,7 @@ Depósitos en Cuenta Corriente del Gobierno Federal.
 
 Otros Depósitos Bancarios.
 
-Depósitos de Fondos de Fomento.
+Depósitos de Fondos de Apoyo a Intermediarios Financieros.
 
 Otros Depósitos del Gobierno Federal.
 
@@ -582,6 +584,8 @@ En el Capital Contable:
 Capital.
 
 Reservas de Capital.
+
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 1995)</small>
 
 Además se presentarán enseguida del capital contable, los rubros de Remanente de Operación del Ejercicio Anterior, en tanto éste no se haya entregado al Gobierno Federal y Cuentas de Resultados del Ejercicio en Curso. Al calce de dichos estados se hará constar el monto de las Cuentas de Orden.
 
@@ -716,3 +720,7 @@ D.O.F. 28 DE MARZO DE 1996.
 ###### ARTICULO UNICO.
 
 Las presentes reformas, adición y derogación entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MAYO DE 1996.
+
+UNICO.- Las presentes reformas y adición entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
