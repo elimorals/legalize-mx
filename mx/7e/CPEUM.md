@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1969-12-22"
+last_updated: "1969-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1969.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -416,7 +416,9 @@ A).- Son mexicanos por nacimiento:
 
 I.- Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres.
 
-II.- Los que nazcan en el extranjero de padres mexicanos; de padre mexicano y madre extranjera, o de madre mexicana y padre desconocido.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1969)</small>
+
+II.- Los que nazcan en el extranjero de padres mexicanos; de padre mexicano o de madre mexicana.
 
 III.- Los que nazcan a bordo de embarcaciones o aeronaves mexicanas, sean de guerra o mercantes.
 
@@ -2635,3 +2637,7 @@ Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas 
 D.O.F. 22 DE DICIEMBRE DE 1969.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 1969.
+
+UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
