@@ -4,7 +4,7 @@ identifier: "LOBNCE"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1986-01-20"
+last_updated: "2002-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOBNCE"
 
 LEY ORGANICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 20 de enero de 1986.
 
@@ -74,11 +74,15 @@ II. Otorgar garantías de crédito y las usuales en el comercio exterior;
 
 III. Proporcionar información y asistencia financiera a los productores, comerciantes distribuidores y exportadores, en la colocación de artículos y prestación de servicios en el mercado internacional;
 
-IV. Cuando sea del interés el promover las exportaciones mexicanas, podrá participar en el capital social de empresas de comercio exterior, consorcios de exportación y en empresas que otorguen seguro de crédito al comercio exterior, en los términos del Artículo 32 de esta Ley;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+IV. Cuando sea del interés el promover las exportaciones mexicanas, podrá participar en el capital social de empresas de comercio exterior, consorcios de exportación y empresas que otorguen seguro de crédito al comercio exterior, en términos del artículo 31 de esta Ley. Asimismo, podrá participar en el capital social de sociedades de inversión y sociedades operadoras de éstas;
 
 V. Promover, encauzar y coordinar la inversión de capitales a las empresas dedicadas a la exportación;
 
-VI. Otorgar apoyos financieros a los exportadores indirectos, y en general, al aparato productivo exportador, a fin de optimizar la cadena productiva de bienes o servicios exportables;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+VI. Otorgar financiamiento a los exportadores indirectos y en general al aparato productivo exportador, a fin de optimizar la cadena productiva de bienes o servicios exportables, así como coadyuvar en el fomento del comercio exterior del país y realizar todos los actos y gestiones que permitan atraer inversión extranjera al país;
 
 VII. Cuando sea de interés promover las exportaciones mexicanas, podrá otorgar apoyos financieros a las empresas comercializadoras de exportación, consorcios y entidades análogas de comercio exterior;
 
@@ -120,6 +124,10 @@ V. Administrar por cuenta propia o ajena toda clase de empresas o, sociedades;
 
 VI. Otorgar garantías previas a la presentación de una oferta, sostenimiento de la oferta, de ejecución, de devolución y al exportador; y
 
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Garantizar obligaciones de terceros, ya sea a través de operaciones particulares o de programas masivos de garantías, sin que sean aplicables las limitantes previstas en el artículo 46 fracción VIII de la Ley de Instituciones de Crédito, y
+
 VII. Realizar las actividades análogas y conexas a sus objetivos en los términos que al efecto le señale la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 8o.
@@ -128,11 +136,13 @@ Como excepción a lo dispuesto en el último párrafo del artículo 348 de la Le
 
 La Sociedad, a solicitud expresa de los gobiernos de las entidades federativas, podrá realizar las mismas funciones de fiduciario, mandatario, depositario y administrador de los recursos que dichas entidades federativas establezcan en apoyo al comercio exterior.
 
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 9o.
 
-La Secretaría de Hacienda y Crédito Público, establecerá las bases para la determinación de las tasas de interés, comisiones, premios, descuentos y otros conceptos análogos, montos, plazos y demás características de las operaciones activas y de servicios que realice la Sociedad para cumplir el objetivo que se le ha encomendado en su carácter de banca de desarrollo, en los artículos 3o. y 6o. de esta Ley. Asimismo, corresponde a la propia Secretaría el establecimiento de las bases para la determinación de las características de las operaciones pasivas que no impliquen captación de recursos del público, como excepción de lo dispuesto en los artículos 32 de la Ley Reglamentaria del Servicio Público de Banca y Crédito y 14 de la Ley Orgánica del Banco de México.
+La Secretaría de Hacienda y Crédito Público, como excepción a lo dispuesto por los artículos 48 de la Ley de Instituciones de Crédito y 26 de la Ley del Banco de México, determinará mediante disposiciones de carácter general las características de las operaciones activas, pasivas que no impliquen captación de recursos del público y de servicios, excepto lo relativo a fideicomisos, mandatos y comisiones, que realice la Sociedad para cumplir el objetivo y ejercer las facultades que se le han encomendado en su carácter de banca de desarrollo en esta Ley.
 
-Corresponde al Banco de México, en los términos de su Ley Orgánica, la determinación de los conceptos señalados en el párrafo anterior, respecto a los recursos que capte del público que estén sujetos al régimen previsto en las fracciones I y VII del artículo 15 de la Ley Orgánica del Banco de México.
+Corresponde al Banco de México, en los términos de su Ley, regular mediante disposiciones de carácter general, las características de las operaciones pasivas que impliquen captación de recursos del público, los fideicomisos, mandatos y comisiones, las operaciones en el mercado de dinero, así como las operaciones financieras conocidas como derivadas que celebre la Sociedad.
 
 ###### ARTICULO 10.
 
@@ -174,29 +184,51 @@ La Secretaría de Hacienda y Crédito Público establecerá la forma, proporcion
 
 La administración del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, estará encomendada a un Consejo Directivo, a un Comité de Promoción y Apoyo al Comercio Exterior y a un Director General, en sus respectivas esferas de competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 16.
 
-El Consejo Directivo estará integrado por trece consejeros distribuidos de la siguiente forma:
+El Consejo Directivo estará integrado por quince consejeros designados de la siguiente forma:
 
-I. Nueve consejeros representarán a la serie "A" de certificados de aportación patrimonial que serán:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+I. Nueve consejeros representarán a la serie "A" de certificados de aportación patrimonial, que serán:
 
 a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo.
 
-b) El Secretario de Comercio y Fomento Industrial, quien tendrá el carácter de Vicepresidente.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-c) Los Titulares de las Secretarías de: Programación y Presupuesto; Agricultura y Recursos Hidráulicos; Relaciones Exteriores; y de Energía, Minas e Industria Paraestatal; y los subsecretarios de Hacienda y Crédito Público y de Comercio Exterior, así como el Director General del Banco de México.
+b) El Secretario de Economía, quien tendrá el carácter de vicepresidente.
 
-Cada consejero de la serie "A" titular de una Secretaría designará su suplente. En caso distinto se estará a lo dispuesto en el artículo 21 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+c) Los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Relaciones Exteriores; Energía; el Subsecretario de Hacienda y Crédito Público; el Subsecretario de Egresos; el Subsecretario de Comercio Exterior y el Gobernador del Banco de México.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Serán suplentes de los consejeros mencionados, preferentemente, los servidores públicos del nivel inferior inmediato siguiente.
 
 II. Cuatro consejeros de la serie "B" que serán designados en los términos que al efecto establezca el Reglamento Orgánico.
 
-Los consejeros de la serie "B" durarán en su cargo un año y podrán continuar hasta que sean sustituidos.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
 Por cada consejero propietario se nombrará un suplente, en la forma y términos en que lo sean los propietarios.
 
-Las renuncias de los consejeros serán presentadas a la Secretaría de Hacienda y Crédito Público a través del Consejo Directivo de la Sociedad.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-Los miembros que se designen para cubrir vacantes durarán en su cargo el tiempo que falte por transcurrir al consejero sustituido.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+III. Dos consejeros de la serie "B" designados por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que tendrán el carácter de consejeros independientes. Los nombramientos de consejeros independientes deberán recaer en personas de nacionalidad mexicana que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+El Consejo Directivo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con el objeto de la Sociedad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+En el orden del día de las sesiones del Consejo Directivo se deberán listar los asuntos a tratar y no deberán incluirse asuntos generales.
 
 ###### ARTICULO 17.
 
@@ -204,15 +236,57 @@ El Consejo Directivo se reunirá por lo menos una vez al mes, y sesionará váli
 
 Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad, en caso de empate.
 
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Los consejeros independientes no tendrán suplentes y deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio y en caso contrario podrán ser designados otros con las mismas características en su lugar, siempre que las ausencias no se justifiquen a juicio del Consejo Directivo.
+
 ###### ARTICULO 18.
 
 No podrán ser consejeros:
 
-I. Las personas que se encuentren en los casos señalados por el artículo 22 de la Ley Reglamentaria del Servicio Público de Banca y Crédito; y
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-II. Dos o más personas que tengan, entre sí, parentesco hasta el tercer grado por consaguinidad o por afinidad.
+I. Las personas que se encuentren en los casos señalados en el penúltimo párrafo del artículo 41 de la Ley de Instituciones de Crédito;
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+II. Dos o más personas que tengan entre sí, parentesco hasta el tercer grado de consanguinidad o por afinidad;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+III. Los que ocupen un puesto de elección popular, mientras estén en el ejercicio del mismo, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+IV. Adicionalmente, los consejeros independientes no deberán tener:
+
+a) Nexo o vínculo laboral con la Sociedad;
+
+b) Nexo patrimonial importante y/o vínculo laboral con persona física o moral que sea acreedor, deudor, cliente o proveedor de la Sociedad;
+
+c) Conflicto de intereses con la Sociedad, por ser clientes, proveedores, deudores, acreedores, importantes o de cualquier otra naturaleza, y
+
+d) La representación de asociaciones, gremios, federaciones, confederaciones de trabajadores o patrones, o sectores de atención que se relacionen con el objeto de la Sociedad o sean miembros de sus órganos directivos.
 
 Si alguno de los consejeros designados llegare a encontrarse comprendido durante el ejercicio de su cargo, en cualquiera de los supuestos anteriores, será sustituido por su suplente por todo el tiempo que dure el impedimento y no se haga designación del consejero propietario.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+Los consejeros deberán comunicar al presidente del Consejo Directivo sobre cualquier situación que pudiere derivar en un conflicto de intereses, así como abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Sociedad, incluyendo las deliberaciones del Consejo Directivo, mientras dicha información no se haya hecho del conocimiento del público.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+ARTICULO 18 bis.- Son causas de remoción de los consejeros de la serie "B" y de los consejeros independientes:
+
+I. La incapacidad mental, así como la incapacidad física que impida el correcto ejercicio de sus funciones durante más de seis meses;
+
+II. No cumplir los acuerdos del Consejo Directivo o actuar deliberadamente en exceso o defecto de sus atribuciones;
+
+III. Utilizar, en beneficio propio o de terceros la información confidencial de que disponga en razón de su cargo, así como divulgar la mencionada información sin la autorización del Consejo Directivo, y
+
+IV. Someter a sabiendas a la consideración del Consejo Directivo, información falsa.
+
+Además de las causas de remoción señaladas en este precepto, a los consejeros de la serie "A" y al Director General, se les removerá de su cargo cuando se determine su responsabilidad mediante resolución definitiva dictada por autoridad competente, por ubicarse en alguno de los supuestos contenidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
 ###### ARTICULO 19.
 
@@ -230,9 +304,21 @@ II. Autorizar el otorgamiento de las garantías a que se refieren las fracciones
 
 III. Aprobar las inversiones en capital de riesgo a que se refieren la fracción IV del artículo 6o., la fracción II del artículo 7o. y el artículo 32 de la presente Ley y su enajenación, estableciendo las modalidades que considere convenientes;
 
-IV. Aprobar los demás programas específicos y reglamentos internos de la Sociedad que le presente el Director General, previa autorización de la Secretaría de Hacienda y Crédito Público; y
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-V. Las demás que prevea el Reglamento Orgánico.
+IV. Aprobar los demás programas específicos y reglamentos internos de la Sociedad que le presente el director general, previa autorización de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+V. Las demás que prevea el reglamento orgánico;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+VI. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Sociedad, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría de Hacienda y Crédito Público, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+VII. Aprobar, a propuesta del director general, la estructura orgánica, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad, previa opinión y recomendación que en su caso emita el Comité de recursos humanos y desarrollo institucional.
 
 ###### ARTICULO 21.
 
@@ -270,7 +356,9 @@ El Director General será designado por el Ejecutivo Federal a través del Secre
 
 El Director General tendrá a su cargo la administración y representación legal del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, y sin perjuicio de las atribuciones que correspondan al Consejo Directivo al efecto tendrá las siguientes facultades y funciones:
 
-I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas aún de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos y revocarlos, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa, y no limitativa, podrán emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos, revocarlos y otorgar facultades de sustitución a los apoderados, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
 
 II. Ejecutar las resoluciones del Consejo Directivo;
 
@@ -288,7 +376,7 @@ La vigilancia de la Sociedad estará encomendada a dos comisarios designados, un
 
 ###### ARTICULO 27.
 
-En los términos del artículo 27 de la Ley Reglamentaria del Servicio Público de Banca y Crédito, el Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, tendrá una Comisión Consultiva.
+(DEROGADO, D.O.F. 24 DE JUNIO DE 2002)
 
 ###### ARTICULO 28.
 
@@ -304,11 +392,13 @@ La Secretaría de Hacienda y Crédito Público interpretará a efectos administr
 
 Las operaciones y servicios de la Sociedad, se regirán por lo dispuesto en la presente Ley, y supletoriamente por la Ley Reglamentaria del Servicio Público de Banca y Crédito, por la Ley Orgánica del Banco de México y por las demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 31.
 
-La Sociedad formulará anualmente sus programas financieros, presupuestos generales de gastos e inversiones y las estimaciones de ingresos, así como sus programas operativos de acuerdo con los lineamientos, medidas y mecanismos que la propia Secretaría de Hacienda y Crédito Público establezca.
+La Sociedad formulará anualmente sus programas financieros, presupuestos generales de gastos e inversiones, así como sus programas operativos de acuerdo a los lineamientos, medidas y mecanismos que la Secretaría de Hacienda y Crédito Público establezca.
 
-Las modalidades de autorizaciones en la asignación de recursos, así como la aprobación de los programas y presupuestos, corresponde a la Secretaría de Hacienda y Crédito Público, en los términos del artículo 10 de la Ley Reglamentaria del Servicio Público de Banca y Crédito; la que procurará el mejor aprovechamiento y la canalización más adecuada de los recursos de la Institución en el marco de la autonomía de gestión requerida para su eficaz funcionamiento, de conformidad con las disposiciones legales aplicables.
+Las modalidades en la asignación de recursos serán autorizadas por la Secretaría de Hacienda y Crédito Público, en los términos del artículo 31 de la Ley de Instituciones de Crédito; la que procurará el mejor aprovechamiento y la canalización más adecuada de los recursos de la institución en el marco de la autonomía de gestión requerida para su eficaz funcionamiento, de conformidad con las disposiciones legales aplicables.
 
 ###### ARTICULO 32.
 
@@ -321,6 +411,52 @@ Las inversiones a que se refiere este artículo, sólo computarán para consider
 Previa autorización de la Secretaría de Hacienda y Crédito Público, la Sociedad deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento del objeto que esta Ley le encomienda. Las cantidades que se hayan llevado a dichas reservas y fondos, no se considerarán remanentes de operación.
 
 Fijado el monto del remanente y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Institución, el saldo se aplicará en los términos previstos por el Reglamento Orgánico.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 34.
+
+La Sociedad tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma:
+
+Dos representantes de la Secretaría de Hacienda y Crédito Público, el Subsecretario de Egresos y el Subsecretario de Hacienda y Crédito Público;
+
+Una persona que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos;
+
+Un representante de la Secretaría de Contraloría y Desarrollo Administrativo que será el Subsecretario de Desarrollo y Simplificación Administrativa;
+
+Un miembro del Consejo Directivo que tenga el carácter de independiente;
+
+El Director General de la Sociedad, y
+
+Un representante de la Comisión Nacional Bancaria y de Valores con voz, pero sin voto.
+
+El Director General de la Sociedad se abstendrá de participar en las sesiones del Comité, que tengan por objeto emitir opiniones o recomendaciones con respecto a su sueldo, prestaciones económicas y de seguridad social.
+
+Este Comité opinará y propondrá en términos de las condiciones generales de trabajo, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad.
+
+Este Comité sesionará a petición del director general de la Sociedad, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión. De entre los miembros del Comité se designará a un presidente y sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero sin voto.
+
+Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de director general.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 35.
+
+La Sociedad otorgará sus financiamientos a través de las instituciones financieras privadas que asuman parcial o totalmente el riesgo de recuperación de estos apoyos.
+
+Lo dispuesto en el párrafo anterior no será aplicable a las operaciones siguientes:
+
+I. La inversión accionaria y las inversiones en el mercado de dinero;
+
+II. Los financiamientos por un monto total igual al que determine el Consejo Directivo con la previa autorización de la Secretaría de Hacienda y Crédito Público;
+
+III. Las operaciones que correspondan a prestaciones de carácter laboral otorgadas de manera general;
+
+IV. Las operaciones realizadas con el Gobierno Federal, las entidades del sector paraestatal, entidades federativas y los municipios, y
+
+V. Los financiamientos a proyectos de infraestructura y servicios públicos que se deriven de concesiones, contratos de prestación de servicios, de obra pública, de vivienda y de parques industriales, permisos y autorizaciones de las autoridades federales, entidades federativas y municipios, así como de sus entidades paraestatales y paramunicipales.
+
+Los financiamientos a que se refiere esta fracción, se podrán otorgar siempre y cuando se trate de proyectos relacionados con su objeto en forma mayoritaria.
 
 ## TRANSITORIOS
 
@@ -343,3 +479,43 @@ En tanto no se expida el Reglamento Orgánico a que se refiere el artículo ante
 México, D. F., a 19 de diciembre de 1985.- Fernando Ortiz Arana, Dip. Presidente.- Rúbrica.- Socorro Díaz Palacios, Sen. Presidenta.- Rúbrica.- Juan Moisés Calleja, Dip. Secretario.- Rúbrica.- Guillermo Mercado Romero, Sen. Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de mil novecientos ochenta y cinco.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- P. A. del Secretario de Hacienda y Crédito Público, el Subsecretario Encargado del Despacho, Francisco Suárez Dávila.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Francisco Labastida Ochoa.- Rúbrica.- P.A. del Secretario de Comercio y Fomento Industrial, el Subsecretario Encargado del Despacho, Mauricio de Maria y Campos.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Eduardo Pesqueira Olea.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE JUNIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Hacienda y Crédito Público dará a conocer las reglas para determinar las cuotas a que se refiere el artículo 55 bis de la Ley de Instituciones de Crédito, así como el régimen de inversión de los fideicomisos, que deberán constituir las instituciones de banca de desarrollo dentro de los siguientes noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las instituciones de banca de desarrollo, se sujetarán a las Condiciones Generales de Trabajo vigentes, hasta en tanto no se emitan las nuevas y éstas entren en vigor.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a las leyes que se reforman, adicionan y derogan en el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+Los procedimientos que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, conforme a las leyes que se reforman, adicionan y derogan continuarán rigiéndose por las disposiciones vigentes en la fecha de publicación de este Decreto.
+
+###### ARTICULO SEXTO.
+
+El comité de planeación de recursos humanos y desarrollo institucional, deberá integrarse y entrar en funciones en un plazo no mayor de noventa días naturales contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+El comité de administración integral de riesgos deberá integrarse y entrará en funciones dentro de los 60 días hábiles siguientes a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTICULO OCTAVO.
+
+Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas o judiciales de la Federación o por o ante las autoridades administrativas del Distrito Federal, así como las sumas en efectivo, títulos o valores que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas del Distrito Federal, se constituyan en Nacional Financiera, Sociedad Nacional de Crédito, deberá entenderse que los mismos podrán constituirse en las sociedades nacionales de crédito, instituciones de banca de desarrollo que estén autorizadas por ley para tal efecto.
+
+###### ARTICULO NOVENO.
+
+Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto.
