@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-indulto-y-reduccion-de-penas-para-el-estado-de-4918"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-16"
-last_updated: "1998-12-27"
+last_updated: "1999-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INDULTO Y REDUCCION DE PENAS PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 16 de noviembre de 1995.
 
@@ -63,9 +63,9 @@ II.- Que el delito por el que haya sido condenado no se encuentre exceptuado en 
 
 III.- Haber sido consignadas al Juez de la causa las diligencias de averiguación previa correspondiente al delito que se le imputa en una fecha posterior al día veinte de octubre de mil novecientos noventa y cuatro;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-IV.- Haber sido condenado por ese mismo delito por una sentencia irrevocable, dictada antes del día 14 de septiembre de 1999.
+IV.- Haber sido condenado por ese mismo delito por una sentencia irrevocable, dictada antes del día 14 de septiembre del 2000.
 
 V.- No encontrarse substraído a la acción de la justicia.
 
@@ -93,7 +93,7 @@ B).- El Indulto por Alfabetización a aquellos internos que hayan enseñado a le
 
 A manera de excepción, el beneficio al que se refiere el inciso A), podrá aplicarse a internos no comprendidos dentro de los supuestos del Artículo Primero de esta Ley cuando a juicio del Ejecutivo el caso que se proponga por la Comisión de Indulto, así lo requiera.
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY, PUBLICADO EN EL P.O. 27 DE DICIEMBRE DE 1998, SE DEJA EN SUSPENSO LA VIGENCIA DE ESTE ARTICULO, UNICA Y EXCLUSIVAMEMTE EN LO QUE RESPECTA AL DELITO DE ROBO CALIFICADO. [VEASE ARTICULO SEGUNDO DEL DECRETO No. 61, PUBLICADO EN P.O. 27 DE DICIEMBRE DE 1998]</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY, PUBLICADO EN EL P.O. 23 DE DICIEMBRE DE 1999, SE DEJA EN SUSPENSO LA VIGENCIA DE ESTE ARTICULO, UNICA Y EXCLUSIVAMEMTE EN LO QUE RESPECTA AL DELITO DE ROBO CALIFICADO. [VEASE ARTICULO SEGUNDO DEL DECRETO No. 220, PUBLICADO EN P.O. 23 DE DICIEMBRE DE 1999]</small>
 
 ###### ARTICULO CUARTO.
 
@@ -172,3 +172,15 @@ P.O. 27 DE DICIEMBRE DE 1998.
 DECRETO No. 61.
 
 UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1999.
+
+DECRETO No. 219.
+
+UNICO.- El presente Decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1999.
+
+DECRETO No. 220.
+
+UNICO.- El presente Decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
