@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-la-contraloria-del-2035
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-07"
-last_updated: "2001-03-07"
+last_updated: "2004-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial "Tierra y Libertad", el 7 de marzo de 2001.
 
@@ -562,3 +564,31 @@ SECRETARÍA DE LA CONTRALORÍA
 C.P. EMMA MARGARITA ALEMÁN OLVERA
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de la Contraloría del Estado de Morelos publicado el siete de marzo del dos mil uno en el Periódico Oficial "Tierra y Libertad" número cuatro mil ciento seis.
+
+TERCERO. Los titulares de las Contralorías Internas en las dependencias de la administración pública estatal, deberán efectuar su entrega recepción en los términos y condiciones que dispone la ley de la materia, con motivo de la reestructuración de la Secretaría de la Contraloría que se contiene en el presente reglamento.
+
+CUARTO. Los recursos humanos, materiales y financieros que se encontraban asignados a las Contralorías Internas de cada dependencia, serán transferidos en su totalidad a la Contraloría Interna encargada de la línea estratégica a la que la dependencia pertenezca, debiendo elaborarse para tal efecto por conducto de la Oficialía Mayor a más tardar dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente reglamento, un inventario de los bienes muebles que deberán entregarse a cada una de las cinco Contralorías Internas. Los recursos económicos se continuarán ejerciendo a través de la Secretaría de la Contraloría, informándose de la ejecución de los mismos a través de las cuentas públicas. Los recursos humanos se reasignarán por el Secretario de la Contraloría y la Oficialía Mayor de acuerdo con las nuevas necesidades y requerimientos de las cinco Contralorías Internas.
+
+QUINTO. La Secretaría de la Contraloría por conducto de la unidad administrativa correspondiente, contará con un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente reglamento para proponer al titular del Poder Ejecutivo Estatal las modificaciones y reformas a su Programa Operativo Anual.
+
+SEXTO. La Secretaría de la Contraloría en coordinación con la Secretaría de Finanzas y Planeación y previa aprobación de la Oficialía Mayor, realizará las gestiones legales que le correspondan dentro del ámbito de su competencia tendientes a crear y suprimir unidades de costo, de conformidad con la nueva estructura orgánica y funcional que se contempla en el presente reglamento, sin que se rebasen los montos autorizados en el Decreto por el que se aprueba el Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal de dos mil cuatro, en términos del artículo vigésimo segundo del mismo.
+
+SÉPTIMO. Los servidores públicos que anteriormente no estaban obligados a presentar declaración patrimonial y que conforme a este reglamento tengan la obligación de hacerlo, deberán presentarla dentro del mes de enero del año dos mil cinco, de lo contrario incurrirán en responsabilidad administrativa. Los formatos que deban utilizarse serán los mismos que para el resto de los servidores públicos que ya estaban obligados a presentar declaración anual de modificación patrimonial.
+
+OCTAVO. Los Manuales de Organización y de Políticas y Procedimientos, deberán expedirse en un plazo no mayor a sesenta días, y en tanto se expidan dichos Manuales de las unidades administrativas de la Secretaría de la Contraloría, el titular de la dependencia queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+NOVENO. El Secretario de la Contraloría contará con treinta días hábiles para designar mediante oficio a los servidores públicos que habrán de practicar las notificaciones dentro de las unidades administrativas de su dependencia, contando con el mismo plazo para expedir las credenciales oficiales que los identifiquen como servidores públicos designados para practicar notificaciones o en funciones de Actuario.
+
+DÉCIMO. Para el mejor funcionamiento del Comité de Solventación se expedirán los lineamientos que regulen su actuación.
+
+DÉCIMO PRIMERO. La Dirección General de Auditaría será responsable únicamente de las auditorías incluidas en el Programa Anual de Auditorías del año dos mil cuatro que se inicien una vez que entre en vigor el presente reglamento. Las auditorías iniciadas con anterioridad a la entrada en vigor de este ordenamiento estarán bajo la responsabilidad de las contralorías internas o comisarías públicas del área que corresponda.
+
+DÉCIMO SEGUNDO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Reglamento.
