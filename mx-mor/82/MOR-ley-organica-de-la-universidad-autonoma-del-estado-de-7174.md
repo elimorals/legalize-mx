@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-universidad-autonoma-del-estado-de-7174"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1967-11-22"
-last_updated: "1967-11-22"
+last_updated: "1974-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1974.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 22 de noviembre de 1967.
 
@@ -153,9 +153,13 @@ I.- El Rector.
 
 II.- Los Directores de Facultades, Escuelas, Institutos y Centros de Investigación.
 
-III.- Un consejero Profesor Representante de los Profesores de cada Facultad, Escuela o Instituto y un Consejero Alumno de cada Facultad, Escuela o Instituto.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1974)</small>
 
-IV.- Por un representante de los empleados de la Universidad.
+III.- Un Consejero Profesor Representante de los Profesores de cada Facultad, Escuela o Instituto, un Consejero Alumno de cada Facultad, Escuela o Instituto y dos Representantes de la Federación de Estudiantes Universitarios de la Universidad Autónoma de Morelos.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1974)</small>
+
+IV.- Por dos Representantes de los Empleados de la Universidad.
 
 ###### ARTICULO 10.
 
@@ -257,9 +261,11 @@ XIII.- Las demás que esta Ley, el Estatuto y los Reglamentos le confieran.
 
 El Rector podrá ser destituido cuando viole esta Ley o cometa delito intencional del orden común que amerite una pena de más de un año de prisión, de conformidad con lo dispuesto por la fracción IV del Artículo 13 de esta Ley; (sic)
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1974)</small>
+
 ###### ARTICULO 18.
 
-Los Consejos Técnicos de las Facultades o Escuelas serán presididos por el Director correspondiente y se integrarán con un Representante Profesor de cada año de estudios de las carreras que se impartan y por un Representante Alumno.
+Los Consejos Técnicos de las Facultades ó Escuelas serán presididos por el Director correspondiente, quien tendrá sólo voto de calidad, conservando este derecho aún en el caso del Artículo 16, Fracción XII de esta propia Ley. Se integrarán dichos Consejos con un Representante del Profesorado y uno del Alumnado de cada año de estudios de las Carreras (sic) que se impartan.
 
 ###### ARTICULO 19.
 
@@ -444,3 +450,11 @@ SECRETARIO GENERAL DE GOBIERNO.
 Lic. Fausto Galván Campos.
 
 (Rúbrica.)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE ENERO DE 1974.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se contrae la Fracción XVII del Artículo 70 de la Constitución Política Local.
