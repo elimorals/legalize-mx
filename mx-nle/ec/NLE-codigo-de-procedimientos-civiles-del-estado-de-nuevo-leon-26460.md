@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1998-06-24"
+last_updated: "1999-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -896,6 +896,10 @@ XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso d
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 1997)</small>
 
 XIII.- En la acción de alimentos, el Juez del domicilio del acreedor.
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
+
+XIV.- En los juicios especiales sobre pérdida de la patria potestad, el juez del domicilio de la Institución Pública de Asistencia Social que haya acogido al menor.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -4745,9 +4749,47 @@ Sea cual fuere la sentencia, contendrá siempre la expresión de que se dicta re
 
 Los documentos que se hubieren presentado en juicio deben devolverse a las partes, quedanlo (sic) en autos razón pormenorizada de ellos.
 
-### CAPITULO V I. DEL PROCEDIMIENTO ESPECIAL DE LAS CUESTIONES DE ARRENDAMIENTO
+### CAPÍTULO V BIS
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
+JUICIO ESPECIAL SOBRE PÉRDIDA DE LA PATRIA POTESTAD.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS.- Se tramitará el procedimiento a que se refiere este capítulo tratándose de menores acogidos por una Institución pública de Asistencia Social para el efecto de que se decrete la pérdida de la patria potestad, en los casos previstos por el artículo 444 fracciones II, III y IV del Código Civil, correspondiendo la acción al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS I. - Admitida que sea la demanda, se correrá traslado de ella a quienes ejerzan la patria potestad y a las personas a que se refiere el artículo 414 del Código Civil a fin de que en el plazo de cinco días produzcan su contestación.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS II.- Las notificaciones se ajustarán a lo dispuesto por el capítulo V del Título Primero del Libro Primero de este Código, y en caso de que se haga mediante edictos, éstos deberán ser publicados por tres veces consecutivas en el Periódico Oficial y en algún periódico de los que tengan mayor circulación, a juicio del juez; publicación que igualmente se hará en el Boletín Judicial. La notificación así hecha surtirá sus efectos a los tres días siguientes al de la última publicación.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS III.- Todas las excepciones deberán hacerse valer en la contestación.
+
+Los incidentes no suspenderán el procedimiento y todas las excepciones que se opongan y recursos que se interpongan se resolverán en la sentencia definitiva.
+
+Si la parte demandada no formula su contestación, se le tendrá por contestando en sentido negativo.
+
+En este juicio no es admisible la reconvención.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS IV.- Transcurrido el período de emplazamiento, dentro de los tres días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+
+Las pruebas deberán ofrecerse en los escritos de demanda o contestación. Las pruebas supervenientes se regirán por las reglas generales previstas en este Código.
+
+Si no fuere posible desahogar todas las pruebas, la audiencia podrá diferirse por una sola vez por un término no mayor de cinco días.
+
+Desahogadas las pruebas y concluida la fase de alegatos, la sentencia se dictará dentro de los cinco días siguientes.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS V.- Contra la sentencia que se dicte procede el recurso de apelación en ambos efectos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 712.
 
@@ -4809,15 +4851,15 @@ En el juicio de interdicto de que trata este Capítulo, se oirá al Ministerio P
 
 > <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 1997)</small>
 
+### CAPITULO V I. DEL PROCEDIMIENTO ESPECIAL DE LAS CUESTIONES DE ARRENDAMIENTO
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
+
 ### CAPITULO VII
 
 DEL JUICIO DE MENOR CUANTIA.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO I
-
-REGLAS GENERALES.
 
 ###### Artículo 724.
 
@@ -4895,15 +4937,15 @@ Las controversias que se promuevan sobre el importe de los alimentos se decidir�
 
 De este juicio solo conocerán los Jueces de lo Familiar. En donde no los haya, conocerán los Jueces de lo Civil o de jurisdicción mixta.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 1999)</small>
+
+### CAPITULO I
+
+REGLAS GENERALES.
 
 ### CAPITULO II
 
 DE LA RECTIFICACION Y GRADUACION DE CREDITOS.
-
-### CAPITULO III
-
-DE LA ADMINISTRACION DEL CONCURSO.
 
 ###### Artículo 733.
 
@@ -4979,9 +5021,9 @@ La impugnación contra las demás resoluciones que se dicten durante el procedim
 
 En todo lo aquí no previsto, se estará a las reglas de este Código, en cuanto no se opongan a lo dispuesto en el presente Capítulo.
 
-### CAPITULO IV
+### CAPITULO III
 
-REGLAS COMUNES DEL DEUDOR.
+DE LA ADMINISTRACION DEL CONCURSO.
 
 ###### Artículo 743.
 
@@ -5027,9 +5069,9 @@ DE LA JURISDICCION MIXTA.
 
 DE LOS CONCURSOS.
 
-### CAPITULO I
+### CAPITULO IV
 
-REGLAS GENERALES.
+REGLAS COMUNES DEL DEUDOR.
 
 ###### Artículo 749.
 
@@ -5087,9 +5129,9 @@ En este caso y en el previsto en el artículo anterior, la revocación se tramit
 
 El concursado en el caso de concurso forzoso deberá presentar al juzgado dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo, con nombres y domicilios de acreedores y deudores, privilegiados y valistas. Si no lo presentare lo hará el síndico.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LAS TESTAMENTARIAS.
+REGLAS GENERALES.
 
 ###### Artículo 755.
 
@@ -5181,9 +5223,9 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán las disposiciones contenidas en el Título Primero, Tercera Parte del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores y se observará lo dispuesto en los artículos precedentes.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LOS INTESTADOS.
+DE LAS TESTAMENTARIAS.
 
 ###### Artículo 771.
 
@@ -5225,9 +5267,9 @@ El síndico será removido de plano si dejare de rendir la cuenta mensual o deja
 
 Será removido mediante los trámites establecidos para los incidentes por mal desempeño de su cargo o por comprobarse alguno de los impedimentos a que se refiere el artículo 773.
 
-### CAPITULO IV
+### CAPITULO III
 
-DEL INVENTARIO Y AVALUO.
+DE LOS INTESTADOS.
 
 ###### Artículo 778.
 
@@ -5239,9 +5281,9 @@ Es también parte y podrá intervenir personalmente en las cuestiones relativas 
 
 JUICIOS SUCESORIOS.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LA ADMINISTRACION.
+DEL INVENTARIO Y AVALUO.
 
 ###### Artículo 779.
 
@@ -5437,9 +5479,9 @@ Si durante la tramitación de un intestado apareciere el testamento, se sobresee
 
 En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su formulación.
 
-### CAPITULO VI
+### CAPITULO V
 
-DE LA LIQUIDACION Y PARTICION DE LA HERENCIA.
+DE LA ADMINISTRACION.
 
 ###### Artículo 808.
 
@@ -5483,9 +5525,9 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevista por el artículo 808 podrán los herederos nombrar interventor conforme a la facultad que les concede al artículo 1625 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 1628 del mismo Código.
 
-### CAPITULO VI BIS. DEL PROCEDIMIENTO SUCESORIO ESPECIAL
+### CAPITULO VI
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1983)</small>
+DE LA LIQUIDACION Y PARTICION DE LA HERENCIA.
 
 ###### Artículo 817.
 
@@ -5527,9 +5569,9 @@ En la misma sentencia resolverá quien es el albacea que será nombrado por el j
 
 La sentencia a que se refifere (sic) el artículo anterior será apelable en ambos efectos y la de segunda instancia causará ejecutoria para los que hubieren sido parte en el juicio.
 
-### CAPITULO VII
+### CAPITULO VI BIS. DEL PROCEDIMIENTO SUCESORIO ESPECIAL
 
-DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 825.
 
@@ -5611,9 +5653,9 @@ Los gastos de inventario y avalúo, son a cargo de la herencia, salvo que el tes
 
 (DEROGADO, P.0. 21 DE JULIO DE 1997)
 
-### CAPITULO VIII
+### CAPITULO VII
 
-DE LA TRAMITACION POR NOTARIOS.
+DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
 
 ###### Artículo 841.
 
@@ -5721,9 +5763,9 @@ El auto que aprueba o reprueba la cuenta es apelable en ambos efectos.
 
 Concluído y aprobado el inventario el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO IX
+### CAPITULO VIII
 
-DEL TESTAMENTO PUBLICO CERRADO.
+DE LA TRAMITACION POR NOTARIOS.
 
 ###### Artículo 863.
 
@@ -5857,9 +5899,9 @@ La sentencia que apruebe o repruebe la partición es apelable en ambos efectos.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO X
+### CAPITULO IX
 
-DECLARACION DE SER FORMAL EL TESTAMENTO OLOGRAFO.
+DEL TESTAMENTO PUBLICO CERRADO.
 
 ###### Artículo 879 Bis.
 
@@ -5899,9 +5941,9 @@ La resolución que decida la oposición será apelable en ambos efectos.
 
 Cuando cause firmeza dicha resolución, se seguirá el procedimiento con sujeción a lo previsto en los párrafos anteriores.
 
-### CAPITULO XI
+### CAPITULO X
 
-DECLARACION DE SER FORMAL EL TESTAMENTO PRIVADO.
+DECLARACION DE SER FORMAL EL TESTAMENTO OLOGRAFO.
 
 ###### Artículo 880.
 
@@ -5923,9 +5965,9 @@ V.- El acta o actas en que consten las adjudicaciones pueden servir de título a
 
 VI.- Tratándose de la sucesión del patrimonio familiar, formado con los bienes a que se refiere el Artículo 734 del Código Civil del Estado, con la certificación de la defunción del autor de la herencia se acompañará el título que acredita la constitución del patrimonio de familia; y el Juez, de Oficio y sin más trámites que oír el parecer del Ministerio Público, dictará resolución en la que reconozca la calidad al heredero designado en la cláusula testamentaria y decrete la adjudicación en su favor de los bienes materia del patrimonio de familia. Dicha resolución servirá de título de propiedad al heredero y adjudicatario testamentario, ordenándose por la propia Autoridad Judicial su inscripción en el Registro Público de la Propiedad con las anotaciones que correspondan en el Título antecedente, todo lo cual se deberá efectuar en un plazo que nunca exceda de treinta días.
 
-### CAPITULO XII
+### CAPITULO XI
 
-DEL TESTAMENTO MILITAR.
+DECLARACION DE SER FORMAL EL TESTAMENTO PRIVADO.
 
 ###### Artículo 881.
 
@@ -5949,9 +5991,9 @@ Siempre que haya oposición de algún aspirante a la herencia o de cpualquier (s
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un Notario, de acuerdo con lo que se establece en este Capítulo. Esto se hará cuando no hubiere controversia alguna.
 
-### CAPITULO XIII
+### CAPITULO XII
 
-DEL TESTAMENTO MARITIMO.
+DEL TESTAMENTO MILITAR.
 
 ###### Artículo 886.
 
@@ -5971,9 +6013,9 @@ Será preferida para la protocolización de todo testamento cerrado, la notaría
 
 Si se presentaren dos o más testamentos de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos como se previene en este Capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 1391 y 1393 del Código Civil.
 
-### CAPITULO XIV
+### CAPITULO XIII
 
-EL TESTAMENTO HECHO EN PAIS EXTRANJERO.
+DEL TESTAMENTO MARITIMO.
 
 ###### Artículo 890.
 
@@ -5987,9 +6029,9 @@ Recibido el pliego, procederá el tribunal como se dispone en el artículo 1458 
 
 Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existen del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### CAPITULO I
+### CAPITULO XIV
 
-DISPOSICIONES GENERALES.
+EL TESTAMENTO HECHO EN PAIS EXTRANJERO.
 
 ###### Artículo 893.
 
@@ -6017,9 +6059,9 @@ Recibidas las declaraciones, el tribunal procederá conforme al artículo 1572 d
 
 De la resolución que niegue la declaración solicitada puede apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS.
+DISPOSICIONES GENERALES.
 
 ###### Artículo 897.
 
@@ -6031,19 +6073,17 @@ De la declaración judicial se remitirá copia autorizada al Secretario de Guerr
 
 En lo demás, se observará lo dispuesto en el Capítulo que antecede.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
+DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS.
 
 ###### Artículo 899.
 
 Hechas las publicaciones que ordena el artículo 1487 del Código Civil, podrán los interesados ocurrir al tribunal competente para que pida de la Secretaria de Relaciones Exteriores la remisión del testamento o directamente a éste que lo envíe.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA ADOPCION.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
 
 ###### Artículo 900.
 
@@ -6059,11 +6099,11 @@ DE LA JURISDICCION VOLUNTARIA.
 
 ## TITULO UNICO
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS INFORMACIONES AD-PERPETUAM.
+DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 902.
 
@@ -6125,9 +6165,11 @@ En los negocios de menores e incapacitados, intervendrán el juez de primera ins
 
 Los actos de jurisdicción voluntaria a que haga mención este Código, se sujetarán a lo dispuesto en este Capítulo.
 
-### CAPITULO VI
+### CAPITULO V
 
-APEO Y DESLINDE.
+DE LAS INFORMACIONES AD-PERPETUAM.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Artículo 914.
 
@@ -6247,9 +6289,9 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no pueden ser removidos por actos de jurisdicción voluntaria.
 
-### CAPITULO VII
+### CAPITULO VI
 
-DISPOSICIONES RELATIVAS A OTROS ACTOS DE JURISDICCIÓN VOLUNTARIA.
+APEO Y DESLINDE.
 
 ###### Artículo 927.
 
@@ -6307,11 +6349,9 @@ Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tut
 
 Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
 
-### CAPITULO UNICO
+### CAPITULO VII
 
-ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
+DISPOSICIONES RELATIVAS A OTROS ACTOS DE JURISDICCIÓN VOLUNTARIA.
 
 ###### Artículo 935.
 
@@ -6321,13 +6361,21 @@ I.- En la promoción inicial se deberá manifestar el nombre, apellidos, naciona
 
 II.- Si la adopción se hizo con anterioridad y faltaren datos del o los adoptantes o de los padres de éstos, se acreditarán por resolución pronunciada en jurisdicción voluntaria, o en procedimiento administrativo ante la Dirección del Registro Civil.
 
-III.- Cuando el menor hubiere sido acogido por institución pública o privada, el adoptante recabará constancia del tiempo de la exposición o abandono, para los efectos de la fracción IV del artículo 444 del Código Civil.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
-Si hubieren transcurrido menos de tres meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
+III.- Cuando el menor hubiere sido acogido por institución pública o privada, el adoptante recabará constancia del tiempo de la exposición, para los efectos de la fracción VI del artículo 444 del Código Civil.
 
-Si el menor abandonado no tuviere padres conocidos y no hubiere sido acogido por institución pública o privada, se decretará el depósito con el presunto adoptante, por el término de tres meses para los mismos efectos.
+Si hubieren transcurrido menos de tres meses de la exposición se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
 
-IV.- Cuando se trate de adopciones respecto a menores expuestos en instituciones protectoras de la niñez, el trámite de las mismas se hará a través de las instituciones oficiales sin costo alguno para los interesados.
+Si el menor expósito no hubiere sido acogido por institución pública o privada, se decretará el depósito con el presunto adoptante, por el término de tres meses para los mismos efectos.
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
+
+IV.- En los casos a que se refiere el artículo 732 Bis de este Código, deberá acreditarse la pérdida de la patria potestad de quienes por disposición de ley la tienen.
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Tratándose de adopciones de menores abandonados o expósitos acogidos en Instituciones públicas o privadas, la asesoría de las instituciones oficiales en la tramitación de las mismas, se hará sin costo alguno para los interesados.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6357,11 +6405,11 @@ Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en 
 
 La impugnación de la adopción y su revocación, en los casos de los artículos 401 y 405 fracciones II y III del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
 
-### CAPITULO I
+### CAPITULO UNICO
 
-DISPOSICIONES GENERALES.
+ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
 
 ###### Artículo 939.
 
@@ -6417,9 +6465,9 @@ Las informaciones se protocalizarán ante el Notario que designe el promovente, 
 
 En ningún caso se admitirá en jurisdicción voluntaria, la información de testigos sobre hechos que fueren materia de un juicio ya iniciado.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL ACUERDO DE ARBITRAJE.
+DISPOSICIONES GENERALES.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6479,9 +6527,9 @@ Los puntos respecto de los cuales hubiere oposición, no quedarán deslindados n
 
 Los gastos generales del apeo se harán por el que promueva. Los que importen la intervención de los peritos que designan y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
 
-### CAPITULO III
+### CAPITULO II
 
-COMPOSICION DEL TRIBUNAL ARBITRAL.
+DEL ACUERDO DE ARBITRAJE.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6511,9 +6559,9 @@ DE LOS ASUNTOS DEL ORDEN FAMILIAR.
 
 > <small>(ADICIONADO CON LOS, ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA COMPETENCIA DEL TRIBUNAL ARBITRAL.
+COMPOSICION DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6581,9 +6629,9 @@ DEL ARBITRAJE.
 
 > <small>(ADICIONADO CON SUS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS ACTUACIONES DEL TRIBUNAL ARBITRAL.
+DE LA COMPETENCIA DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6607,9 +6655,9 @@ Para los efectos del presente Capítulo se entenderá por arbitraje, el acuerdo 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
-PRONUNCIAMIENTO DEL LAUDO Y TERMINACION DE LAS ACTUACIONES.
+DE LAS ACTUACIONES DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6663,11 +6711,11 @@ Puede comprometerse en árbitros la responsabilidad civil que resulte de delito.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VII
+### CAPITULO VI
 
-IMPUGNACION DEL LAUDO.
+PRONUNCIAMIENTO DEL LAUDO Y TERMINACION DE LAS ACTUACIONES.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 964.
 
@@ -6727,11 +6775,11 @@ Los honorarios, gastos de funcionamiento y costas de los árbitros serán fijado
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VIII
+### CAPITULO VII
 
-RECONOCIMIENTO Y EJECUCION DE LOS LAUDOS.
+IMPUGNACION DEL LAUDO.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 971.
 
@@ -6742,6 +6790,12 @@ La excepción de incompetencia deberá oponerse a más tardar en el momento de p
 El árbitro o árbitros podrán decidir las excepciones a que se hace referencia en el párrafo anterior, desde luego o en el laudo sobre el fondo del asunto. Si antes de emitir laudo sobre el fondo, los árbitros se declaran competentes, cualquiera de las partes dentro de los treinta días siguientes a aquél en que se le notifique esa decisión podrá solicitar al Juez resuelva en definitiva, resolución que será inapelable. Mientras esté pendiente dicha solicitud, el árbitro o árbitros podrán proseguir sus actuaciones y dictar laudo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+### CAPITULO VIII
+
+RECONOCIMIENTO Y EJECUCION DE LOS LAUDOS.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 972.
 
@@ -7191,7 +7245,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -7390,3 +7444,9 @@ Las demandas presentadas, los juicios que estén en trámite en primera o segund
 P.O. 24 DE JUNIO DE 1998.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 1999.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
