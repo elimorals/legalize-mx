@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-14921"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-13"
-last_updated: "1999-09-13"
+last_updated: "2000-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14921&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-08-23"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE NOVIEMBRE DE 2000.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 13 de septiembre de 1999.
 
@@ -134,9 +134,11 @@ También se nombrará una comisión especial, para acompañar a los Diputados in
 
 #### SECCION 2. DE LOS GRUPOS PARLAMENTARIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 10.
 
-La constitución de los Grupos Parlamentarios se hará dentro de los cinco días siguientes a la apertura del primer período de sesiones ordinarias del primer año de cada Legislatura, mediante escrito dirigido por los integrantes a cada grupo a la Mesa Directiva, en el que se señalarán los nombres de los integrantes y la designación del coordinador del grupo.
+La constitución de los Grupos Parlamentarios se hará dentro de los cinco días siguientes a la apertura del primer período de sesiones ordinarias del primer año de cada Legislatura, con por lo menos tres Diputados y mediante escrito dirigido por los integrantes de cada grupo a la Mesa Directiva, en el que se señalarán los nombres de los integrantes y la designación del Coordinador del grupo.
 
 La Mesa Directiva hará del conocimiento del Pleno los Grupos Parlamentarios constituidos en la Asamblea.
 
@@ -634,15 +636,33 @@ IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
 La Comisión de Gobierno es el órgano interno de gobierno permanente de la Asamblea encargado de optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la misma y tendrá las facultades que la Ley Orgánica y el presente reglamento le otorguen.
 
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2000)</small>
+
+Cuando la Comisión de Gobierno se integre en términos de lo establecido por el párrafo segundo del Artículo 41 de la Ley Orgánica, las determinaciones se tomarán por mayoría de votos de sus integrantes presentes.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2000)</small>
+
+En caso de que la integración de la Comisión se haga en términos de lo previsto por el párrafo segundo del Artículo 42 de la Ley Orgánica, las determinaciones se tomarán por el voto de los coordinadores de los grupos parlamentarios; voto que será ponderado de acuerdo al numero de Diputados que posea cada Grupo Parlamentario en la Asamblea. En ausencia de alguno de los coordinadores en la Comisión de Gobierno, el otro integrante de su grupo parlamentario asumirá las atribuciones correspondientes.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2000)</small>
+
+En ambos supuestos, el Presidente de la Comisión de Gobierno tendrá voto de calidad en caso de empate.
+
 #### SECCION 2. DE LA DIPUTACION PERMANENTE
 
 ###### Artículo 62.
 
 La Diputación Permanente es el órgano deliberativo de la Asamblea que durante los recesos de ésta, desempeña las funciones que le señala la Ley Orgánica y este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 63.
 
-La Diputación Permanente se compone de 7 Diputados del Grupo Parlamentario mayoritario y los restantes 6 de acuerdo a la representación de cada uno de los Grupos Parlamentarios presentes en la Asamblea.
+La Diputación Permanente se compone de 7 Diputados del Grupo Parlamentario con mayoría absoluta y los restantes 6 de acuerdo a la representación de cada uno de los Grupos Parlamentarios presentes en la Asamblea.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2000)</small>
+
+En caso de que no se cumpla el supuesto que le otorga a un Grupo Parlamentario la mayoría absoluta, la conformación de la Diputación Permanente se hará con 13 Diputados, de acuerdo a la representación proporcional que cada grupo parlamentario tenga en el pleno.
 
 La designación se hará en la víspera de la clausura de sesiones ordinarias y sus integrantes durarán todo el periodo de receso aún y cuando haya sesiones extraordinarias.
 
@@ -910,9 +930,11 @@ Todo dictamen con proyecto de ley o decreto se discutirá primero en lo general 
 
 Todo dictamen con proyecto de ley o decreto que conste de más de treinta artículos, podrá ser discutido y aprobado por los libros, títulos, capítulos, secciones o párrafos en los que lo dividieren sus autores o las Comisiones encargadas de su despacho, siempre que así lo acuerde el Pleno a moción de uno o más de sus miembros; pero se votará separadamente cada uno de los artículos o fracciones del artículo o de la sección que esté al debate, si lo pide algún Diputado y el Pleno aprueba la petición.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 100.
 
-Para la discusión de cualquier dictamen, deberá haberse procedido a la distribución de copias del mismo a todos los miembros del Pleno con una anticipación mínima de setenta y dos horas a la sesión en la que habrá de discutirse. Los votos particulares que se hayan discutido en las Comisiones se deberán distribuir en los mismos términos. Con la misma anticipación deberá depositarse el dictamen ante la Secretaría de la Mesa Directiva.
+Para la discusión de cualquier dictamen, deberá haberse procedido a la distribución de copias del mismo a todos los miembros del Pleno con una anticipación mínima de cuarenta y ocho horas a la sesión en la que habrá de discutirse. Los votos particulares que se hayan discutido en las Comisiones se deberán distribuir en los mismos términos. Con la misma anticipación deberá depositarse el dictamen ante la Secretaría de la Mesa Directiva.
 
 Si no se cumple con este requisito, el dictamen no podrá ser discutido en la sesión respectiva, salvo que se dispense el procedimiento por el Pleno de la Asamblea.
 
@@ -1251,3 +1273,15 @@ Publíquese en la Gaceta Oficial del Distrito Federal para su debida aplicación
 Publíquese en el Diario Oficial de la Federación para su mayor difusión.
 
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a veintitrés de agosto de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA, DIP. ALFREDO HERNANDEZ RAIGOSA, PRESIDENTE.- DIP. LUCERITO DEL PILAR MARQUEZ, SECRETARIO.- DIP. MARIA DEL PILAR HIROISHI SUZUKI, SECRETARIO.- FIRMAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 9 DE NOVIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL DECRETO.
+
+SEGUNDO.- El artículo 10, primer párrafo, del presente Decreto entrará en vigor a partir del inicio de la III Legislatura de la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+CUARTO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
