@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "1990-12-26"
+last_updated: "1992-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -592,57 +592,229 @@ La Secretaría de Gobernación cooperará con la Secretaría de la Reforma Agrar
 
 La Secretaría de Gobernación propondrá a las dependencias oficiales y empresas particulares las medidas que estime pertinentes a fin de que se proporcione a los repatriados el mayor número de facilidades para el buen éxito de las labores a que se dediquen.
 
-### CAPITULO VI. Registro de Población e Identificación Personal
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JULIO DE 1992)</small>
+
+### CAPITULO VI. Registro Nacional de Población
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 85.
 
-La Secretaría de Gobernación tiene a su cargo el registro e identificación personal de todos los individuos residentes en el país y de los nacionales que residan en el extranjero.
+La Secretaría de Gobernación tiene a su cargo el registro y la acreditación de la identidad de todas las personas residentes en el país y de los nacionales que residan en el extranjero.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 86.
 
-El Registro de Población e Identificación Personal tiene como finalidad conocer los recursos humanos con que cuenta el país para elaborar los programas de la administración pública en materia demográfica.
+El Registro Nacional de Población tiene como finalidad registrar a cada una de las personas que integran la población del país, con los datos que permitan certificar y acreditar fehacientemente su identidad.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 87.
 
-El registro de la población comprende:
+En el Registro Nacional de Población se inscribirá:
 
-I. A los nacionales, y
+I. A los mexicanos, mediante el Registro Nacional de Ciudadanos y el Registro de Menores de Edad; y
 
-II. A los extranjeros.
+II. A los extranjeros, a través del Catálogo de los Extranjeros residentes en la República Mexicana.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 88.
 
-La Secretaría de Gobernación establecerá los métodos y procedimientos técnicos del registro, y organizará las unidades administrativas del Registro de Población e Identificación Personal que sean necesarias en el país.
+El Registro Nacional de Ciudadanos se integra con la información certificada de los mexicanos mayores de 18 años, que soliciten su inscripción en los términos establecidos por esta ley y su reglamento.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 89.
 
-El Registro de Población e Identificación Personal, tiene por objeto:
+El Registro de Menores de Edad, se conforma con los datos de los mexicanos menores de 18 años, que se recaben a través de los registros civiles.
 
-I. Recabar todos los datos relativos a la identificación de los habitantes de la República, mexicanos y extranjeros, para los efectos de la fracción V de este artículo;
-
-II. Clasificar los datos de los habitantes del país, de acuerdo con su nacionalidad, edad, sexo, ocupación, estado civil y lugar de residencia;
-
-III. Llevar el padrón de los mexicanos residentes en el extranjero;
-
-IV. Coordinar los métodos de identificación y registro actualmente en uso en las distintas dependencias de la administración pública, con el propósito de constituir un solo sistema elaborado científicamente; y
-
-V. Crear un documento que se denominará Cédula de Identificación Personal y que tendrá el carácter de instrumento público, probatorio de los datos que contenga en relación con el titular.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 90.
 
-Las autoridades de la Federación, de los Estados, de los Territorios, de los Municipios y los funcionarios y empleados del Servicio Exterior Mexicano, serán auxiliares de la Secretaría de Gobernación en las funciones que a ésta correspondan en el Registro de Población e Identificación Personal, lo mismo que en todas las demás materias reguladas por esta Ley y sus reglamentos.
+El Catálogo de los Extranjeros residentes en la República Mexicana se integra con la información de carácter migratorio existente en la propia Secretaría de Gobernación.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 91.
 
-Una vez hecho el registro dentro del plazo fijado por la Secretaría de Gobernación, el registro y la cédula de identidad que se expidan, tendrán la vigencia que señale el Reglamento de esta Ley.
+Al incorporar a una persona en el Registro Nacional de Población, se le asignará una clave que se denominará Clave Unica de Registro de Población. Esta servirá para registrarla e identificarla en forma individual.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 92.
 
-El registro de los nacionales residentes dentro y fuera del país es gratuito y obligatorio, el de los extranjeros es también obligatorio en los casos que señale esta Ley.
+La Secretaría de Gobernación establecerá las normas, métodos y procedimientos técnicos del Registro Nacional de Población. Asimismo, coordinará los métodos de identificación y registro de las dependencias de la administración pública federal.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 93.
+
+Las autoridades locales contribuirán a la integración del Registro Nacional de Población. Al efecto, la Secretaría de Gobernación celebrará con ellas, convenios con los siguientes propósitos:
+
+I. Adoptar la normatividad a que se refiere el artículo anterior;
+
+II. Recabar la información relativa a los nacimientos y defunciones de las personas a fin de integrar y mantener permanentemente actualizado el Registro Nacional de Población, y
+
+III. Incluir en el acta correspondiente la Clave Unica de Registro de Población al registrar el nacimiento de las personas.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 94.
+
+Las autoridades de la Federación, de los estados y de los municipios, serán auxiliares de la Secretaría de Gobernación en las funciones que a ésta correspondan en materia de registro de población.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 95.
+
+Las autoridades judiciales deberán informar a la Secretaría de Gobernación sobre las resoluciones que afecten los derechos ciudadanos, o que impliquen modificar los datos del registro de la persona.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 96.
+
+La Secretaría de Relaciones Exteriores informará a la de Gobernación, sobre la expedición y cancelación de cartas de naturalización, certificados de nacionalidad y renuncias a la nacionalidad que reciba. De igual manera, proporcionará la información necesaria para que los mexicanos residentes en el extranjero, queden incorporados al Registro Nacional de Población, en los términos establecidos por el reglamento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE JULIO DE 1992)</small>
+
+### CAPITULO VII. Registro Nacional de Ciudadanos y Cédula de Identidad Ciudadana
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 97.
+
+El Registro Nacional de Ciudadanos y la expedición de la Cédula de Identidad Ciudadana son servicios de interés público que presta el Estado, a través de la Secretaría de Gobernación.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 98.
+
+Los ciudadanos mexicanos tienen la obligación de inscribirse en el Registro Nacional de Ciudadanos y obtener su Cédula de Identidad Ciudadana.
+
+El Registro Nacional de Ciudadanos contará con el apoyo de un Comité Técnico Consultivo, en los términos que establezca el Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 99.
+
+Para cumplir con la obligación establecida en el artículo anterior los ciudadanos deben satisfacer los siguientes requisitos:
+
+I. Presentar la solicitud de inscripción correspondiente; y
+
+II. Entregar copia certificada del acta de nacimiento o, en su caso, del certificado de nacionalidad o de la carta de naturalización.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 100.
+
+En los casos en que por causas fundadas el ciudadano no pudiera entregar la copia certificada del acta de nacimiento, podrá ser sustituida por los documentos que garanticen fehacientemente la veracidad de los datos personales del interesado, conforme lo disponga el reglamento de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 101.
+
+La Secretaría de Gobernación podrá verificar los datos relativos a la identidad de las personas, mediante la confrontación de los datos aportados por los ciudadanos con los que consten en los archivos correspondientes de dependencias y entidades de la administración pública federal que, para el ejercicio de sus funciones, tengan establecidos procedimientos de identificación personal.
+
+Las dependencias y entidades que se encuentren en el supuesto anterior estarán obligadas a proporcionar la información que para este efecto solicite la Secretaría de Gobernación.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 102.
+
+Cuando la Secretaría de Gobernación encuentre alguna irregularidad en los documentos presentados por el interesado, suspenderá el registro correspondiente e informará por escrito las causas por las cuales no procede su trámite.
+
+Los ciudadanos que estén en el supuesto anterior, podrán solicitar ante la Secretaría de Gobernación la aclaración respectiva, en los términos establecidos en el reglamento correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 103.
+
+Una vez cumplidos los requisitos establecidos, la Secretaría de Gobernación deberá expedir y poner a disposición del ciudadano la respectiva Cédula de Identidad Ciudadana.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 104.
+
+La Cédula de Identidad Ciudadana es el documento oficial de identificación, que hace prueba plena sobre los datos de identidad que contiene en relación con su titular.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 105.
+
+La Cédula de Identidad Ciudadana tendrá valor como medio de identificación personal ante todas las autoridades mexicanas ya sea en el país o en el extranjero, y las personas físicas y morales con domicilio en el país.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 106.
+
+Ninguna persona podrá ser sancionada por la no portación de la Cédula de Identidad Ciudadana.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 107.
+
+La Cédula de Identidad Ciudadana contendrá cuando menos los siguientes datos y elementos de identificación:
+
+I. Apellido paterno, apellido materno y nombre (s);
+
+II. Clave Unica de Registro de Población;
+
+III. Fotografía del titular;
+
+IV. Lugar de nacimiento;
+
+V. Fecha de nacimiento; y
+
+VI. Firma y huella dactilar.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 108.
+
+Corresponde al titular de la Cédula de Identidad Ciudadana su custodia y conservación.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 109.
+
+La Cédula de Identidad Ciudadana deberá renovarse;(sic)
+
+I. A más tardar, noventa días antes de que concluya su vigencia; la cual no podrá exceder de 15 años;
+
+II. Cuando esté deteriorada por su uso; y
+
+III. Cuando los rasgos físicos de una persona cambien de tal suerte que no se (sic) correspondan con los de la fotografía que porta la cédula.
+
+En todos los casos, el portador deberá devolver la Cédula de Identidad Ciudadana anterior al momento de recoger la nueva.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 110.
+
+Cuando a un ciudadano se le extravíe o destruya su Cédula de Identidad Ciudadana deberá dar aviso a la Secretaría de Gobernación, dentro de los 30 días siguientes a que esto suceda, y tramitar su reposición.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 111.
+
+La Secretaría de Gobernación podrá expedir un documento de identificación a los mexicanos menores de 18 años, en los términos establecidos por el reglamento de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 112.
+
+La Secretaría de Gobernación proporcionará al Instituto Federal Electoral, la información del Registro Nacional de Ciudadanos que sea necesaria para la integración de los instrumentos electorales, en los términos previstos por la ley. Igualmente podrá proporcionarla a las demás dependencias y entidades públicas que la requieran para el ejercicio de sus atribuciones.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VII], D.O.F. 22 DE JULIO DE 1992)
+
+### CAPITULO VIII. Sanciones
+
+(REUBICADO [N. DE E. ANTES ARTICULO 93], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 113.
 
 Los empleados de la Secretaría de Gobernación serán sancionados con suspensión de empleo hasta por treinta días o destitución en caso grave, cuando:
 
@@ -652,115 +824,191 @@ II. Dolosamente o por grave negligencia entorpezcan el trámite normal de los as
 
 III. Por sí o por intermediarios intervengan en la gestión de los asuntos a que se refiere esta Ley o patrocinen o aconsejen la manera de evadir las disposiciones y trámites migratorios a los interesados;
 
-IV. No expidan la Cédula de Identidad a la persona que se presente con los documentos requeridos o retengan indebidamente dicha Cédula una vez expedida; y
+IV. No expidan la Cédula de Identidad a la persona que se presente con los documentos requeridos o retengan indebidamente dicha cédula una vez expedida; y
 
 V. Dolosamente hagan uso indebido o proporcionen a terceras personas documentación migratoria, sin autorización de la Secretaría de Gobernación.
 
-###### ARTICULO 94.
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
-Las autoridades federales, estatales o municipales que incurran en violaciones a la presente Ley o a las disposiciones que la reglamenten, que no constituyan delitos, serán sancionados con multa hasta de cinco mil pesos y destitución en caso de reincidencia.
-
-###### ARTICULO 95.
-
-Al que auxilie, encubra o aconseje a cualquier individuo para violar las disposiciones de esta Ley y su Reglamento en materia que no constituya delito, será castigado con multa hasta de un mil pesos o arresto hasta por treinta y seis horas. Si el infractor no pagare la multa impuesta, se permuta a ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
-
-###### ARTICULO 96.
-
-Al que en materia migratoria suscriba cualquier documento o promoción con firma que no sea la suya, se le impondrá multa hasta de dos mil pesos o arresto hasta por treinta y seis horas, sin perjuicio de las penas en que incurra cuando ello constituya un delito. Si el infractor no pagare la multa impuesta, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
-
-### CAPITULO VII. Sanciones
-
-###### ARTICULO 97.
-
-Se impondrá multa hasta de cinco mil pesos al extranjero que no haya cumplido la orden de la Secretaría de Gobernación para salir del territorio nacional dentro del plazo que para el efecto se le fijó, por haber sido cancelada su calidad migratoria.
-
-###### ARTICULO 98.
-
-Se impondrá pena hasta de diez años de prisión y multa hasta de cinco mil pesos al extranjero que habiendo sido expulsado se interne nuevamente al territorio nacional sin haber obtenido acuerdo de readmisión. Igual sanción se aplicará al extranjero que no exprese u oculte su condición de expulsado para que se le autorice y obtenga nuevo permiso de internación.
-
-###### ARTICULO 99.
-
-Se impondrá pena hasta de seis años de prisión y multa hasta de cinco mil pesos, al extranjero que habiendo obtenido legalmente autorización para internarse al país, por incumplimiento o violación de las disposiciones administrativas o legales a que se condicionó su estancia, se encuentre ilegalmente en el mismo.
-
-###### ARTICULO 100.
-
-Se impondrá multa hasta de tres mil pesos y pena hasta de dieciocho meses de prisión, al extranjero que realice actividades para las cuales no esté autorizado conforme a esta Ley o al permiso de internación que la Secretaría de Gobernación le haya otorgado.
-
-###### ARTICULO 101.
-
-Se impondrá pena hasta de dos años de prisión y multa hasta de diez mil pesos, al extranjero que, por la realización de actividades ilícitas o deshonestas, viola los supuestos a que está condicionada su estancia en el país.
-
-###### ARTICULO 102.
-
-Se impondrá pena hasta de cinco años de prisión y multa hasta de cinco mil pesos, al extranjero que dolosamente haga uso o se ostente como poseedor de una calidad migratoria distinta de la que la Secretaría de Gobernación le haya otorgado.
-
-###### ARTICULO 103.
-
-Se impondrá pena hasta de dos años de prisión y multa de trescientos a cinco mil pesos, al extranjero que se interne ilegalmente al país.
-
-###### ARTICULO 104.
-
-Al extranjero que para entrar al país o que ya internado, proporcione a las autoridades datos falsos con relación a su situación migratoria, se le impondrán las sanciones previstas en el Código Penal, sin perjuicio de lo dispuesto en el artículo siguiente.
-
-###### ARTICULO 105.
-
-Al extranjero que incurra en las hipótesis previstas en los artículos 95, 97, 98, 99, 100, 101, 102, 103, 104, 106, 107 y 118 de esta Ley, se le cancelará la calidad migratoria y será expulsado del país sin perjuicio de que se le apliquen las penas establecidas en dichos preceptos.
-
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
-
-###### ARTICULO 106.
-
-El que haya sido expulsado, solamente podrá ser readmitido por acuerdo expreso del Secretario o del Subsecretario de la Secretaría de Gobernación.
-
-###### ARTICULO 107.
-
-Se impondrá pena hasta de cinco años de prisión y multa hasta de cinco mil pesos al mexicano que contraiga matrimonio con extranjero sólo con el objeto de que éste pueda radicar en el país, acogiéndose a los beneficios que la Ley establece para estos casos. Igual sanción se aplicará al extranjero contrayente.
-
-###### ARTICULO 108.
-
-Son de orden público, para todos los efectos legales, la expulsión de los extranjeros y las medidas que dicte la Secretaría de Gobernación para el aseguramiento de los extranjeros en estaciones migratorias o en lugares habilitados para ello, cuando tengan por objeto su expulsión del país.
-
-###### ARTICULO 109.
-
-Los arraigos de extranjeros decretados por las autoridades judiciales o administrativas, no impedirán que se ejecuten las órdenes de expulsión que la Secretaría de Gobernación dicte contra los mismos.
-
-###### ARTICULO 110.
-
-Se impondrá multa hasta de tres mil pesos a las empresas de transportes marítimos, cuando permitan que los pasajeros o tripulantes bajen a tierra antes de que las autoridades migratorias den el permiso correspondiente.
-
-###### ARTICULO 111.
-
-El desembarco de personas de transportes procedentes del extranjero, efectuado en sitios y horas que no sean los señalados, se castigará con multa hasta de diez mil pesos, que se impondrá a las personas responsables, a la empresa correspondiente, a sus representantes o a sus consignatarios, salvo casos de fuerza mayor.
-
-###### ARTICULO 112.
-
-Las empresas navieras o aéreas que transporten al país extranjeros sin documentación migratoria vigente, serán sancionadas con multa hasta de cinco mil pesos sin perjuicio de que el extranjero de que se trate, sea rechazado y de que la empresa lo regrese, por su cuenta, al lugar de procedencia.
-
-###### ARTICULO 113.
-
-Cuando los capitanes de los transportes marítimos, o quienes hagan sus veces, desobedezcan una orden de conducir pasajeros extranjeros que hayan sido rechazados, ellos, la empresa propietaria, sus representantes o sus consignatarios, serán castigados con multa hasta de cinco mil pesos. A las empresas aeronáuticas se les impondrá la misma multa. En ambos casos se levantará un acta en la que se harán constar todas las circunstancias del caso.
+(REUBICADO [N. DE E. ANTES ARTICULO 94], D.O.F. 22 DE JULIO DE 1992)
 
 ###### ARTICULO 114.
 
-Se impondrá multa hasta de mil pesos, al que sin el permiso de la autoridad migratoria, autorice u ordene la partida de un transporte que haya de salir del Territorio Nacional.
+Las autoridades federales, estatales o municipales que incurran en violaciones a la presente Ley o a las disposiciones que la reglamenten, que no constituyan delitos, serán sancionados con multa hasta de cinco mil pesos y destitución en caso de reincidencia.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 95], D.O.F. 22 DE JULIO DE 1992)
 
 ###### ARTICULO 115.
 
-Se impondrá multa hasta de un mil pesos o arresto hasta por treinta y seis horas a los extranjeros que no cumplan con la obligación señalada por el artículo 26 de esta Ley. Si el infractor no pagare la multa impuesta, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+Al que auxilie, encubra o aconseje a cualquier individuo para violar las disposiciones de esta Ley y su Reglamento en materia que no constituya delito, será castigado con multa hasta de un mil pesos o arresto hasta por treinta y seis horas. Si el infractor no pagare la multa impuesta, se permutara ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 96], D.O.F. 22 DE JULIO DE 1992)
 
 ###### ARTICULO 116.
 
-La infracción al artículo 28 de esta Ley, será castigada con multa hasta de cinco mil pesos y, en caso de reincidencia, se dará a conocer a los Cónsules Mexicanos el nombre y la matrícula del barco infractor, a efecto de que no se le extiendan nuevos despachos para puertos mexicanos.
+Al que en materia migratoria suscriba cualquier documento o promoción con firma que no sea la suya, se le impondrá multa hasta de dos mil pesos o arresto hasta por treinta y seis horas, sin perjuicio de las penas en que incurra cuando ello constituya un delito. Si el infractor no pagare la multa impuesta, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 97], D.O.F. 22 DE JULIO DE 1992)
 
 ###### ARTICULO 117.
+
+Se impondrá multa hasta de cinco mil pesos al extranjero que no haya cumplido la orden de la Secretaría de Gobernación para salir del territorio nacional dentro del plazo que para el efecto se le fijó, por haber sido cancelada su calidad migratoria.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 98], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 118.
+
+Se impondrá pena hasta de diez años de prisión y multa hasta de cinco mil pesos al extranjero que habiendo sido expulsado se interne nuevamente al territorio nacional sin haber obtenido acuerdo de readmisión. Igual sanción se aplicará al extranjero que no exprese u oculte su condición de expulsado para que se le autorice y obtenga nuevo permiso de internación.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 99], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 119.
+
+Se impondrá pena hasta de seis años de prisión y multa hasta de cinco mil pesos, al extranjero que habiendo obtenido legalmente autorización para internarse al país, por incumplimiento o violación de las disposiciones administrativas o legales a que se condicionó su estancia, se encuentre ilegalmente en el mismo.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 100], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 120.
+
+Se impondrá multa hasta de tres mil pesos y pena hasta de dieciocho meses de prisión, al extranjero que realice actividades para las cuales no esté autorizado conforme a esta Ley o al permiso de internación que la Secretaría de Gobernación le haya otorgado.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 101], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 121.
+
+Se impondrá pena hasta de dos años de prisión y multa hasta de diez mil pesos, al extranjero que, por la realización de actividades ilícitas o deshonestas, viola los supuestos a que está condicionada su estancia en el país.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 102], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 122.
+
+Se impondrá pena hasta de cinco años de prisión y multa hasta de cinco mil pesos, al extranjero que dolosamente haga uso o se ostente como poseedor de una calidad migratoria distinta de la que la Secretaría de Gobernación le haya otorgado.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 103], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 123.
+
+Se impondrá pena hasta de dos años de prisión y multa de trescientos a cinco mil pesos, al extranjero que se interne ilegalmente al país.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 104], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 124.
+
+Al extranjero que para entrar al país o que ya internado, proporcione a las autoridades datos falsos con relación a su situación migratoria, se le impondrán las sanciones previstas en el Código Penal, sin perjuicio de lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO Y REUBICADO, [N. DE E. ANTES ARTICULO 105], D.O.F. 22 DE JULIO DE 1992)</small>
+
+###### ARTICULO 125.
+
+Al extranjero que incurra en las hipótesis previstas en los artículos 115, 117, 118, 119, 120, 121, 122, 123, 124, 126, 127 y 138 de esta Ley, se le cancelará la calidad migratoria y será expulsado del país, sin perjuicio de que se le apliquen las penas establecidas en dichos preceptos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 106], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 126.
+
+El que haya sido expulsado, solamente podrá ser readmitido por acuerdo expreso del Secretario o del Subsecretario de la Secretaría de Gobernación.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 107], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 127.
+
+Se impondrá pena hasta de cinco años de prisión y multa hasta de cinco mil pesos al mexicano que contraiga matrimonio con extranjero sólo con el objeto de que éste pueda radicar en el país, acogiéndose a los beneficios que la Ley establece para estos casos. Igual sanción se aplicará al extranjero contrayente.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 108], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 128.
+
+Son de orden público, para todos los efectos legales, la expulsión de los extranjeros y las medidas que dicte la Secretaría de Gobernación para el aseguramiento de los extranjeros en estaciones migratorias o en lugares habilitados para ello, cuando tengan por objeto su expulsión del país.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 109], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 129.
+
+Los arraigos de extranjeros decretados por las autoridades judiciales o administrativas, no impedirán que se ejecuten las órdenes de expulsión que la Secretaría de Gobernación dicte contra los mismos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 110], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 130.
+
+Se impondrá multa hasta de tres mil pesos a las empresas de transportes marítimos, cuando permitan que los pasajeros o tripulantes bajen a tierra antes de que las autoridades migratorias den el permiso correspondiente.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 111], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 131.
+
+El desembarco de personas de transportes procedentes del extranjero, efectuado en sitios y horas que no sean los señalados, se castigará con multa hasta de diez mil pesos, que se impondrá a las personas responsables, a la empresa correspondiente, a sus representantes o a sus consignatarios, salvo casos de fuerza mayor.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 112], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 132.
+
+Las empresas navieras o aéreas que transporten al país extranjeros sin documentación migratoria vigente, serán sancionadas con multa hasta de cinco mil pesos sin perjuicio de que el extranjero de que se trate, sea rechazado y de que la empresa lo regrese, por su cuenta, al lugar de procedencia.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 113], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 133.
+
+Cuando los capitanes de los transportes marítimos, o quienes hagan sus veces, desobedezcan una orden de conducir pasajeros extranjeros que hayan sido rechazados, ellos, la empresa propietaria, sus representantes o sus consignatarios, serán castigados con multa hasta de cinco mil pesos. A las empresas aeronáuticas se les impondrá la misma multa. En ambos casos se levantará un acta en la que se harán constar todas las circunstancias del caso.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 114], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 134.
+
+Se impondrá multa hasta de mil pesos, al que sin el permiso de la autoridad migratoria, autorice u ordene la partida de un transporte que haya de salir del Territorio Nacional.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 115], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 135.
+
+Se impondrá multa hasta de un mil pesos o arresto hasta por treinta y seis horas a los extranjeros que no cumplan con la obligación señalada por el artículo 26 de esta Ley. Si el infractor no pagare la multa impuesta, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 116], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 136.
+
+La infracción al artículo 28 de esta Ley, será castigada con multa hasta de cinco mil pesos y, en caso de reincidencia, se dará a conocer a los Cónsules Mexicanos el nombre y la matrícula del barco infractor, a efecto de que no se le extiendan nuevos despachos para puertos mexicanos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 117], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 137.
 
 La persona que visite un transporte marítimo extranjero, sin permiso de las autoridades migratorias, será castigada con multa hasta de quinientos pesos o arresto hasta por tres días.
 
 La misma sanción se impondrá a la persona que autorice sin facultades para ello, la visita a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+(REUBICADO [ N. DE E. ANTES ARTICULO 118], D.O.F. 22 DE JULIO DE 1992)
 
-###### ARTICULO 118.
+###### ARTICULO 138.
 
 Se impondrá pena de dos a diez años de prisión y multa hasta el equivalente a diez mil días de salario mínimo conforme al que esté vigente en el Distrito Federal, a quien por sí o por medio de otro u otros pretenda llevar o lleve nacionales mexicanos a internarse al extranjero en forma ilegal.
 
@@ -768,31 +1016,41 @@ Igual pena se impondrá a quien por sí o por medio de otro u otros, sin permiso
 
 A quien a sabiendas proporcione los medios, se preste o sirva para llevar a cabo las conductas descritas en los párrafos anteriores, se le impondrá pena de uno a cinco años de prisión y multa hasta el equivalente a cinco mil días de salario mínimo conforme al que esté vigente en el Distrito Federal.
 
-###### ARTICULO 119.
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 119], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 139.
 
 Al funcionario judicial o administrativo que dé trámite al divorcio o nulidad de matrimonio de los extranjeros sin que se acompañe la certificación expedida por la Secretaría de Gobernación de su legal residencia en el país y de que sus condiciones y calidad migratoria les permite realizar tal acto, o con aplicación de otras leyes distintas de las señaladas en el artículo 50 de la Ley de Nacionalidad y Naturalización, se le impondrá la destitución de empleo y prisión hasta de seis meses o multa hasta de diez mil pesos o ambas, a juicio del juez, quedando desde luego separado de sus funciones al dictarse el auto de sujeción a proceso.
 
-###### ARTICULO 120.
+(REUBICADO [N. DE E. ANTES ARTICULO 120], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 140.
 
 Toda infracción a la presente Ley o a sus reglamentos en materia migratoria, fuera de los casos señalados en este capítulo y de los que constituyan delitos de acuerdo con otras leyes, se sancionarán administrativamente con multa hasta de diez mil pesos, según la gravedad de las violaciones cometidas a juicio de la Secretaría de Gobernación o con arresto hasta por quince días, si el infractor no pagare la multa.
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 121], D.O.F. 22 DE JULIO DE 1992)
 
-###### ARTICULO 121.
+###### ARTICULO 141.
 
 Las sanciones administrativas a que esta Ley se refiere, se impondrán por las unidades administrativas que se señalan en el Reglamento Interior de la Secretaría de Gobernación.
 
-###### ARTICULO 122.
+(REUBICADO [N. DE E. ANTES ARTICULO 122], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 142.
 
 Para que una sanción administrativa sea revisable deberá solicitarse dentro de los quince días siguientes a la fecha de notificación de la multa impuesta.
 
-###### ARTICULO 123.
+(REUBICADO [N. DE E. ANTES ARTICULO 123], D.O.F. 22 DE JULIO DE 1992)
+
+###### ARTICULO 143.
 
 El ejercicio de la acción penal por parte del Ministerio Público Federal, en los casos de delito a que esta Ley se refiere, estará sujeto a la querella que en cada caso formule la Secretaría de Gobernación.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 124], D.O.F. 22 DE JULIO DE 1992)
 
-###### ARTICULO 124.
+###### ARTICULO 144.
 
 Los ingresos que la Federación obtenga efectivamente de multas por infracción a esta Ley, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que realice las funciones de servicios migratorios.
 
@@ -877,3 +1135,13 @@ D.O.F. 26 DE DICIEMBRE DE 1990.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, ...
+
+D.O.F. 22 DE JULIO DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La Secretaría de Gobernación mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación dará a conocer el Programa para el establecimiento e inicio de funciones del Registro Nacional de Ciudadanos.
+
+CUARTO.- En el establecimiento del Registro Nacional de Ciudadanos se utilizará la información que proporcionará el Instituto Federal Electoral proveniente del padrón electoral y de la base de datos e imágenes obtenidas con motivo de la expedición y entrega de la credencial para votar con fotografía prevista en el artículo 164 del Código Federal de Instituciones y Procedimientos Electorales. En tanto no se expida la cédula de identidad ciudadana, esta credencial podrá servir como medio de identificación personal en trámites administrativos de acuerdo a los convenios que para tal efecto suscriba la autoridad electoral.
