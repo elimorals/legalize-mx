@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1999-06-09"
+last_updated: "1999-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
+CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 1999.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE SEPTIMEBRE DE 1999.]
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -169,7 +171,9 @@ XIX.- CHINIPAS, con cabecera en el pueblo de Chínipas de Almada y las secciones
 
 XX.- DELICIAS, con cabecera en la ciudad del mismo nombre.
 
-XXI.- DR. BELISARIO DOMINGUEZ, con cabecera en el pueblo denominado San Lorenzo, y las secciones municipales de Santa María de Cuevas, Santa Rosalía de Cuevas, Tutoaca y Ciénega de Loya;
+> <small>(F. DE E., P.O. 8 DE SEPTIEMBRE DE 1999)</small>
+
+XXI.- DR. BELISARIO DOMINGUEZ, con cabecera en el pueblo denominado San Lorenzo, y las secciones municipales de Santa María de Cuevas, Santa Rosalía de Cuevas, Tutuaca y Ciénega de Loya;
 
 XXII.- EL TULE, con cabecera en el pueblo del mismo nombre y la sección municipal de Baqueteros;
 
