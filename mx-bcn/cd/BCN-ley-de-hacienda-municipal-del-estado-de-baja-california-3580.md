@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1998-11-06"
+last_updated: "1999-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1999.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -792,6 +792,10 @@ h).- Prescripción positiva.
 i).- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción de estos.
 
 j).- Enajenación a través de fideicomisos, en los términos del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, P.O 23 DE JULIO DE 1999)</small>
+
+k).- La escisión de sociedades, cuando no se cumplan los requisitos que señala el Artículo 14-A del Código Fiscal de la Federación.
 
 VIII.- Las partes que celebren alguno de los actos a que se refiere la Fracción anterior son responsables solidarios del pago de este impuesto, según sea el caso en los términos de la fracción I, de este artículo.
 
@@ -2250,3 +2254,17 @@ Las presentes reformas entrarán en vigor el día 1o de Enero de 1998, previa su
 P.O. 6 DE NOVIEMBRE DE 1998.
 
 UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A las operaciones de escisión de sociedades celebradas con anterioridad a la entrada en vigor de este Decreto, les serán aplicables los términos de la presente reforma.
+
+###### ARTICULO TERCERO.
+
+El impuesto pagado con anterioridad a la vigencia del presente Decreto, no da derecho a su devolución.
