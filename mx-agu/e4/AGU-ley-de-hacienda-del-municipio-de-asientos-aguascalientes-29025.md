@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-asientos-aguascalientes-29025"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1991-08-11"
+last_updated: "1994-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1994.
 
 Ley publicada en la Sección Segunda del Alcance del Periódico Oficial del Estado de Aguascalientes, el 31 de diciembre de 1985.
 
@@ -427,9 +427,19 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 #### SECCION NOVENA. De las Exenciones
 
+> <small>N. DE E. EL PRESENTE ARTICULO HABIA SIDO DEROGADO MEDIANTE DECRETO NUMERO 110, PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 1991, SIN EMBARGO, POR DECRETO NUMERO 123, PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 1994, ES ADICIONADO; MOTIVO POR EL CUAL, SE DEJA A CONSIDERACION DEL USUARIO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 1994)</small>
+
 ###### ARTICULO 40.
 
-(DEROGADO, P.O. 11 DE AGOSTO DE 1991)
+Se exceptúa del pago del pago de este impuesto:
+
+I.- (DEROGADA, P.O. 11 DE AGOSTO DE 1991)
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 1994)</small>
+
+II.- Las asociaciones constituidas conforme a la Ley de Asociaciones Religiosas y Culto Público, siempre y cuando las adquisiciones se realicen antes del 31 de diciembre de 1994.
 
 ### CAPITULO III. Del Impuesto sobre Incremento de Valor y Mejoría Específica de la Propiedad
 
@@ -808,3 +818,7 @@ Lic. Joaquín Cruz Ramírez.
 P.O. 11 DE AGOSTO DE 1991.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 30 DE OCTUBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
