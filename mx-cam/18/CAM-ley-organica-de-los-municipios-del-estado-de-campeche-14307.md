@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "2003-09-13"
+last_updated: "2004-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -173,7 +173,9 @@ c) Los ranchos de Altamira, Chichmuc, Chun-Chaká, Dolores, Nazarero, Pepenché,
 
 A la Sección Municipal de Bécal corresponden:
 
-a) El pueblo de Bécal, Cabecera de la Sección.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2004)</small>
+
+a) La Villa de Bécal, Cabecera de la Sección.
 
 b) Los pueblos de Isla Arena y Real de Salinas.
 
@@ -2948,3 +2950,11 @@ El H. Ayuntamiento del Municipio de Carmen procederá a suprimir la Comisaría M
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo su Artículo Primero el que entrará en vigor el día 1 de enero de 2004.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 23 DE ABRIL DE 2004.
+
+Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- En su oportunidad y en ceremonia cívica, ante la presencia del Gobernador del Estado y de los miembros del H. Ayuntamiento del Municipio de Calkiní, entréguese una copia en pergamino del presente decreto a la H. Junta Municipal de la Sección Municipal de Bécal. Para efecto de lo antes dispuesto, la directiva del Congreso en coordinación con las autoridades del Municipio y de la Sección Municipal en mención, adoptarán las providencias necesarias para realizar la indicada ceremonia.
