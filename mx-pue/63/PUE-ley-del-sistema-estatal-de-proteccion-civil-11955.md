@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-11955"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-18"
-last_updated: "1992-12-18"
+last_updated: "2000-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 18 de diciembre de 1992.
 
@@ -113,7 +113,9 @@ I.- Un Presidente, que será el Gobernador del Estado;
 
 II.- Un Coordinador General que será el Secretario de Gobernación;
 
-III.- Un Secretario Técnico y Director de la Unidad Operativa del Sistema Estatal, que será nombrado y removido por el propio Consejo, a propuesta de su Presidente;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
+
+III.- Un Secretario Técnico y Director de la Unidad Operativa del Sistema Estatal, que será el Subsecretario de Seguridad Pública y Protección Civil; y
 
 IV.- Por los Vocales siguientes:
 
@@ -301,7 +303,9 @@ La unidad Operativa se integrará por:
 
 I.- Un Director;
 
-II.- Los Subdirectores que sean necesarios; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
+
+II.- Los Directores Adjuntos que sean necesarios, entre los que deberán estar por lo menos, el Director Operativo de Protección Civil, el Director del Plan Popocatépetl y el Director del H. Cuerpo de Bomberos;
 
 III.- El Consejo Operativo.
 
@@ -321,17 +325,37 @@ V.- Ejecutar acciones de auxilio y rehabilitación inicial para atender las cons
 
 VI.- Proponer medidas que garanticen el mantenimiento o pronto restablecimiento de los servicios públicos fundamentales en los lugares por desastre;
 
-VII.- Planificar la protección civil en sus aspectos normativos, operativos, de coordinación y participación, con el objeto de consolidar un nuevo orden estatal de protección civil;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-VIII.- Organizar y desarrollar acciones de educación y capacitación a la sociedad en materia de simulacros y señalizaciones para la protección civil, impulsando la formación del personal que pueda ejercer dichas funciones;
+VII.- Servir de enlace entre el Ejecutivo Estatal y el Sistema;
 
-IX.- Promover la cultura de protección civil;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-X.- Coordinar a los grupos voluntarios;
+VIII.- Proponer al Ejecutivo del Estado, las estrategias y mecanismos necesarios, tendientes a propiciar en la sociedad una cultura de prevención y atención, a las situaciones derivadas de un desastre o siniestro;
 
-XI.- Proponer las medidas y los instrumentos que permitan el establecimiento de los más eficientes y oportunos canales de colaboración en el Estado y los Municipios en materia de protección civil, avocándose además a estudiar los desastres en los Municipios y sus efectos; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
 
-XII.- Las demás que le confieran otras Leyes, Decretos, Reglamentos y Acuerdos o que le asignen el Presidente o el Coordinador General del Consejo.
+IX.- Planificar la protección civil en sus aspectos normativos, operativos, de coordinación y participación, con el objeto de consolidar un nuevo orden estatal de protección civil;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
+
+X.- Organizar y desarrollar acciones de educación y capacitación a la sociedad en materia de simulacros y señalizaciones para la protección civil, impulsando la formación del personal que pueda ejercer dichas funciones;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
+
+XI.- Promover la cultura de protección civil;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
+
+XII.- Coordinar a los grupos voluntarios;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2000)</small>
+
+XIII.- Proponer las medidas y los instrumentos que permitan el establecimiento de los más eficientes y oportunos canales de colaboración en el Estado y los Municipios en materia de protección civil, avocándose además a estudiar los desastres en los Municipios y sus efectos; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2000)</small>
+
+XIV.- Las demás que le confieran otras Leyes, Decretos, Reglamentos y Acuerdos o que le asignen el Presidente o el Coordinador General del Consejo.
 
 ###### ARTICULO 13.
 
@@ -373,7 +397,13 @@ II.- Acordar con el Director de la Unidad Operativa, las funciones de su compete
 
 III.- Atender las consultas que se le formulen; y
 
-IV.- Las demás que les confieran el Reglamento Interios (sic), el Consejo y el Director de la Unidad Operativa.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2000)</small>
+
+IV.- Servir de instrumento de coordinación de las actividades que desarrollan las áreas bajo su respectiva responsabilidad y el Sistema Estatal de Protección Civil; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2000)</small>
+
+V.- Las demás que les confieran el Reglamento Interior, el Consejo y el Director de la Unidad Operativa.
 
 ###### ARTICULO 16.
 
@@ -512,3 +542,15 @@ CUARTO.- Los programas específicos de protección civil que establecen los art�
 EL GOBERNADOR hará publicar y cumplir la presente Ley, Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los diez días del mes de diciembre de mil novecientos noventa y dos. Diputado Presidente.- Lic. Rodolfo Budib Lichtle.- Rúbrica.- Diputado Secretario.- Héctor González Reyes.- Rúbrica.- Diputado Secretario.- Lic. Juan Miguel Madera López.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos, dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza a los diez días del mes de diciembre.- El C. Gobernador del Estado.- Lic. Mariano Piña Olaya.- Rúbrica.- El Secretario de Gobernación.- Lic. Héctor Jiménez y Meneses.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JUNIO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
