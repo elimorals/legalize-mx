@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2004-01-27"
+last_updated: "2004-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1070,7 +1070,7 @@ Aborto es la muerte del producto de la concepción en cualquier momento del emba
 
 Al que hiciere abortar a una mujer, se le impondrá de uno a tres años de prisión, sea cual fuere el medio que empleare, siempre que lo haga con consentimiento de ella.
 
-> <small>(REFORMADO, G.O. 27 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 27 ENERO DE 2004)</small>
 
 Cuando falte el consentimiento, la prisión será de cinco a ocho años. Si mediare violencia física o moral se impondrá de ocho a diez años de prisión.
 
@@ -1082,7 +1082,7 @@ Si el aborto lo causare un médico cirujano, comadrón o partera, enfermero o pr
 
 Se impondrá de uno a tres años de prisión a la mujer que voluntariamente practique su aborto o consienta en que otro la haga abortar. En este caso, el delito de aborto sólo se sancionará cuando se haya consumado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 ENERO DE 2004)</small>
 
 ###### ARTÍCULO 148.
 
@@ -2010,6 +2010,8 @@ A quienes cometan en forma reiterada despojo de inmuebles urbanos en el Distrito
 
 ### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 239.
 
 Al que destruya o deteriore una cosa ajena o una propia en perjuicio de otro, se le impondrán las siguientes penas:
@@ -2380,7 +2382,11 @@ Al particular que estando obligado legalmente a la custodia, deposito, administr
 
 Se le impondrán las sanciones previstas para el enriquecimiento ilícito, al que haga figurar como suyos, bienes que un servidor público adquiera o haya adquirido en contravención de lo dispuesto en la legislación sobre responsabilidades de los servidores públicos.
 
-### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y A LOS MEDIOS DE TRANSPORTE
+### CAPÍTULO VI. RESPONSABILIDAD DE LOS DIRECTORES RESPONSABLES DE OBRA O CORRESPONSABLES
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+ARTÍCULO 329 BIS. Al Director Responsable de Obra o Corresponsable de Obra que permita el desarrollo de la obra, en la que otorgó su responsiva, sin apego a la licencia, autorización, permiso, registro o conforme a las disposiciones aplicables, se le impondrá de dos a cinco años de prisión y de cuatrocientos a setecientos días multa, así como suspensión para desempeñar profesión u oficio hasta por un periodo igual a la pena de prisión impuesta.
 
 ###### ARTÍCULO 281.
 
@@ -2400,7 +2406,7 @@ La pena será de uno a cinco años, cuando la desobediencia o resistencia sea a 
 
 Cuando la ley autorice el empleo de medidas de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares, se producirá en el momento en que se agote el empleo de tales medidas de apremio.
 
-### CAPÍTULO II. DELITOS CONTRA LA SEGURIDAD DEL TRÁNSITO DE VEHÍCULOS
+### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y A LOS MEDIOS DE TRANSPORTE
 
 ###### ARTÍCULO 285.
 
@@ -2408,21 +2414,23 @@ Al que con actos materiales trate de impedir la ejecución de una obra o un trab
 
 Cuando el delito se cometa por varias personas de común acuerdo, se impondrá de tres meses a un año de prisión, si sólo se hiciere una simple oposición material sin violencia. En caso de existir violencia, la pena será de tres meses a dos años de prisión, sin perjuicio de las sanciones aplicables al delito que resulte cometido.
 
+### CAPÍTULO II. DELITOS CONTRA LA SEGURIDAD DEL TRÁNSITO DE VEHÍCULOS
+
+###### Artículo 286.
+
+Al que quebrante los sellos puestos por orden de la autoridad competente, se le impondrán de dos a siete años de prisión y de cien a quinientos días multa.
+
+Se equipara al delito de quebrantamiento de sellos y se sancionará con la misma pena, al titular, propietario o responsable de una construcción de obra, anuncio o establecimiento mercantil, en estado de clausura, que explote comercialmente, realice o promueva actos de comercio, construcción o prestación de un servicio, aún cuando los sellos permanezcan incólumes.
+
+Al titular o propietario de una casa habitación en construcción que quebrante los sellos de clausura, se aplicará pena de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+
 ### CAPÍTULO III. VIOLACIÓN DE CORRESPONDENCIA
-
-###### ARTÍCULO 286.
-
-Al que quebrante los sellos puestos por orden de la autoridad competente, se le impondrán de seis meses a dos años de prisión y de cien a quinientos días multa.
-
-Se equipara al delito de quebrantamiento de sellos y se sancionará con la misma pena, al titular, propietario o responsable de un establecimiento mercantil o de la construcción de obra que se encuentre en estado de clausura, que realice actos de comercio, construcción o prestación de un servicio, aún cuando los sellos permanezcan incólumes.
-
-### CAPÍTULO IV. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
 
 ###### ARTÍCULO 287.
 
 Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de noventa a ciento ochenta días de semilibertad.
 
-### CAPÍTULO I. FALSIFICACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
+### CAPÍTULO IV. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
 
 ###### ARTÍCULO 288.
 
@@ -2430,17 +2438,17 @@ Al que para hacer efectivo un derecho o pretendido derecho, que deba ejercitar, 
 
 En estos casos, sólo se procederá por querella de la parte ofendida.
 
-### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
+### CAPÍTULO I. FALSIFICACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
 
 ###### ARTÍCULO 289.
 
 Al que cometa un delito en contra de un servidor o agente de la autoridad en el acto de ejercer lícitamente sus funciones o con motivo de ellas, además de la pena que corresponda por el delito cometido, se le impondrá de uno a tres años de prisión.
 
-### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
 
 ## TÍTULO VIGÉSIMO. DELITOS EN CONTRA DEL ADECUADO DESARROLLO DE LA JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
-### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
+### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
 
 ###### ARTÍCULO 324.
 
@@ -2494,9 +2502,7 @@ III. Retarde o entorpezca indebidamente la administración de justicia; o
 
 IV. Bajo cualquier pretexto, se niegue injustificadamente a despachar, dentro del plazo legal, un asunto pendiente ante él.
 
-### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
-
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
 ###### ARTÍCULO 293.
 
@@ -2518,7 +2524,7 @@ VII. Practique cateos o visitas domiciliarias fuera de los casos autorizados por
 
 VIII. Fabrique, altere o simule elementos de prueba para incriminar a otro.
 
-### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -2550,7 +2556,7 @@ El servidor público que en el ejercicio de sus funciones conozca de un hecho de
 
 No se considerarán como causas excluyentes de responsabilidad del delito de tortura, el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
-### CAPÍTULO III. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN EL PRESENTE TÍTULO
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -2578,7 +2584,9 @@ VIII. Inicie un proceso penal contra un servidor público con fuero.
 
 Se impondrán de dos a ocho años de prisión y de cincuenta a trescientos días multa, al servidor público que durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte pruebas relativas a la comisión de un delito.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO III. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN EL PRESENTE TÍTULO
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 301.
 
@@ -2608,7 +2616,7 @@ d) El certificado definitivo con la indicación del tiempo que tardó la curaci�
 
 e) El certificado de defunción, en su caso.
 
-### CAPÍTULO I. REBELIÓN
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### ARTÍCULO 303.
 
@@ -2620,7 +2628,7 @@ II. Otorgue indebidamente privilegios a los internos; o
 
 III. Permita ilegalmente la salida de personas privadas de su libertad como procesadas o sentenciadas.
 
-### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
+### CAPÍTULO I. REBELIÓN
 
 ###### ARTÍCULO 304.
 
@@ -2652,9 +2660,13 @@ Al evadido no se le impondrá pena o medida de seguridad alguna, salvo que obre 
 
 Cuando un particular cometa o participe en alguno de los delitos previsto en este Capítulo, se le impondrá la mitad de las sanciones establecidas.
 
-## TÍTULO VIGÉSIMO PRIMERO. DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA COMETIDOS POR PARTICULARES
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE ENERO DE 2004)</small>
 
-### CAPÍTULO III. SABOTAJE
+## TÍTULO VIGÉSIMO PRIMERO
+
+DELITOS COMETIDO (SIC) POR PARTICULARES ANTE EL MINISTERIO PÚBLICO, AUTORIDAD JUDICIAL O ADMINISTRATIVA.
+
+### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
 
 ###### ARTÍCULO 310.
 
@@ -2662,7 +2674,7 @@ Al que para obtener un beneficio indebido para sí o para otro, simule un acto j
 
 Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de cinco mil veces el salario mínimo general vigente en el Distrito Federal, al momento de realizarse el hecho.
 
-### CAPÍTULO IV. MOTÍN
+### CAPÍTULO III. SABOTAJE
 
 ###### ARTÍCULO 311.
 
@@ -2692,11 +2704,13 @@ Al que aporte testigos falsos conociendo esta circunstancia, o logre que un test
 
 Además de las penas a que se refieren los artículos anteriores, se suspenderá hasta por tres años en el ejercicio de profesión, ciencia, arte u oficio al perito, intérprete o traductor, que se conduzca falsamente u oculte la verdad, al desempeñar sus funciones.
 
-### CAPÍTULO V. SEDICIÓN
+### CAPÍTULO IV. MOTÍN
 
 ###### ARTÍCULO 317.
 
 Se impondrá de seis meses a dos años prisión o de noventa a ciento cincuenta días de trabajo en favor de la comunidad, al que ante una autoridad judicial o administrativa en ejercicio de sus funciones, oculte o niegue su nombre o apellido o se atribuya uno distinto del verdadero, u oculte o niegue su domicilio o designe como tal uno distinto del verdadero.
+
+### CAPÍTULO V. SEDICIÓN
 
 ###### ARTÍCULO 318.
 
@@ -2781,6 +2795,8 @@ Al médico o enfermera que suministre un medicamento evidentemente inapropiado e
 ###### ARTÍCULO 329.
 
 A los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente señalada por otra que ponga en peligro la salud o cause daño, o sea evidentemente inapropiada al padecimiento para el que se prescribió, se les impondrán seis meses a dos años de prisión y de cincuenta a doscientos días multa.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 29 DE ENERO DE 2004)</small>
 
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VÍAS DE COMUNICACIÓN Y DE LOS MEDIOS DE TRANSPORTE
 
@@ -3317,3 +3333,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 G.O. 27 DE ENERO DE 2004.
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 29 DE ENERO DE 2004.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
