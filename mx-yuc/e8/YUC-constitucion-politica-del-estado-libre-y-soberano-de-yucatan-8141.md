@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1974-12-23"
+last_updated: "1975-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 1974.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MARZO DE 1975.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -455,9 +455,15 @@ XXXIX.- (DEROGADA, D.O.5 DE MARZO DE 1965)
 
 XL.- nombrar, en caso de renuncia colectiva de un Ayuntamiento, tres personas que se hagan cargo provisionalmente del municipio, mientras se hacen nuevas elecciones y toman posesión de sus cargos los electos;
 
-XLI.- revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, a los Diputados y a los Presidentes y Concejales de los Ayuntamientos. Esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los Diputados, en cuyos casos será necesaria la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados; y
+XLI.- revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, a los Diputados y a los Presidentes y Concejales de los Ayuntamientos. Esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los Diputados, en cuyos casos será necesaria la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados; y (sic)
 
-XLII.- las demás que le confiere esta Constitución.
+> <small>(REFORMADA, D.O.7 DE MARZO DE 1975)</small>
+
+XLII.- Hacer el cómputo de los votos emitidos en la elección de sus miembros, para resolver acerca de los Diputados de Partido en los términos del Artículo 21 reformado, de esta Constitución; y
+
+> <small>(ADICIONADA, D.O.7 DE MARZO DE 1975)</small>
+
+XLIII.- Las demás que le confiere esta Constitución.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1476,6 +1482,10 @@ D.O. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 7 DE MARZO DE 1975.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
