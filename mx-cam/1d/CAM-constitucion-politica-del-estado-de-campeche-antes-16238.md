@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1994-01-14"
+last_updated: "1994-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -329,7 +329,7 @@ La ley establecerá un sistema de medios de impugnación, de los que conocerán 
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
-El Tribunal Electoral del Estado tendrá la competencia y organización que determine la ley; funcionará en pleno, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquellas que se dicten con posterioridad a la jornada electoral podrán ser revisadas y en su caso modificadas por el Colegio Electoral, en los términos de los artículos 36 y 54, fracciones XVII y XVIII de esta Constitución. Para el ejercicio de sus funciones, contará con un cuerpo de magistrados y jueces instructores, los cuales serán independientes y responderán solo al mandato de la ley.
+El Tribunal Electoral del Estado tendrá la competencia y organización que determine la ley; funcionará en pleno, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquéllas que se dicten con posterioridad a la jornada electoral podrán ser revisadas y en su caso modificadas por el Colegio Electoral, en los términos de los artículos 36 y 54, fracciones XVII y XVIII, de esta Constitución. Para el ejercicio de sus funciones, contará con un cuerpo de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -567,25 +567,19 @@ Las sesiones del Congreso tendrán el carácter de públicas o reservadas, en lo
 
 ### CAPITULO XII. De la Iniciativa y Formación de las Leyes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ###### ARTICULO 46.
 
-El derecho de iniciar leyes o decretos compete:
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+El derecho de iniciar Leyes o Decretos compete:
 
 I.- Al Gobernador del Estado;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 II.- A los diputados al Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
-III.- A los Ayuntamientos en asuntos del Ramo Municipal.
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+III.- A los Ayuntamientos en asuntos del Ramo Municipal;
 
 IV.- Al Tribunal Superior de Justicia, en materia de su competencia.
 
@@ -759,7 +753,7 @@ XXXIII.- Nombrar, a propuesta del Gobernador, una Junta Municipal compuesta de t
 
 XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 XXXV.- Las demás que le asignen esta Constitución y la General de la República.
 
@@ -773,9 +767,13 @@ XXXV.- Las demás que le asignen esta Constitución y la General de la Repúblic
 
 Durante los períodos de receso del Congreso, su Gran Comisión funcionará como Diputación Permanente.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 56.
 
-(DEROGADO, P.O. 1 DE ABRIL DE 1992)
+Diez días antes de concluir el segundo período de receso, de cada uno de los años de ejercicio de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, al Gobernador del Estado y a los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas, en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el tercer párrafo del artículo 38 de esta Constitución.
+
+Cuando la celebración de la sesión prevista en el párrafo anterior coincida en fecha con la sesión previa que establece la Ley Orgánica del Congreso, esta última antecederá a la primera.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -861,7 +859,7 @@ II.- Los que tengan mando alguno de fuerza pública dentro de los 45 días antes
 
 III.- Los que tengan algún cargo o comisión del Gobierno Federal o de otro u otros Estados, dentro de los 45 días antes de la elección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 63.
 
@@ -1057,13 +1055,13 @@ Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despac
 
 ###### ARTICULO 74.
 
-Las faltas de los Secretarios de las dependencias de la Administración Pública serán suplidas en la forma que determine la correspondiente Ley Orgánica.
+Las faltas de los Secretarios de las dependencias de la Administración Pública hay dos espacios serán suplidas en la forma que determine la correspondiente Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 75.
 
-La Ley organizará el Ministerio Público del Estado cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, y estará presidido por un Procurador General de Justicia, el que deberá tener las mismas cualidades requeridas para ser Magistrado del Tribunal Superior de Justicia.
+La ley organizará el Ministerio Público del Estado cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, y estará presidido por un Procurador General de Justicia, el que deberá tener las mismas cualidades requeridas para ser Magistrado del Tribunal Superior de Justicia.
 
 Incumbe al Ministerio Público estatal la persecución, ante los tribunales locales, de todos los delitos del orden común; por lo mismo a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
 
@@ -1205,7 +1203,9 @@ El Gobernador del Estado, antes de pedir al Congreso la destitución de algún f
 
 Será Presidente del Tribunal Superior de Justicia el Magistrado numerario que anualmente sea electo para ese efecto por el Tribunal Pleno. En sus faltas temporales y accidentales será suplido por el Magistrado numerario que el Pleno designe.
 
-El Presidente del Tribunal Superior rendirá anualmente al Pleno, en la sesión anterior a la de elección, un informe escrito acerca de la situación que guarde la administración de justicia en el Estado.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1994)</small>
+
+El Pleno del Tribunal Superior de Justicia del Estado, cinco días antes de la Sesión de Elección, concurrirá ante el Congreso del Estado, quien se reunirá en sesión solemne, para rendir por escrito, por conducto de su presidente, un informe anual sobre el estado general que guarde la administración de justicia en el Estado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1357,7 +1357,7 @@ I.- Cada Municipio será administrado por un Ayuntamiento de elección popular d
 
 II.- Los Ayuntamientos de los Municipios de la Entidad, tendrán tantos Regidores y Síndicos como determine la Ley Orgánica respectiva, electos por el principio de mayoría relativa y adicionalmente hasta dos Regidores y Síndicos electos por el sistema de representación proporcional.
 
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
 
 a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
 
@@ -1807,7 +1807,7 @@ Artículo Segundo.- Serán Cabeceras de los ocho Distritos Electorales q (sic) s
 
 Artículo Tercero.- En cumplimiento de lo dispuesto por el artículo 6o., reformado de la Ley Electoral del Estado, cada Ayuntamiento procederá, en atención a la división que en ocho Distritos Electorales se hace en el artículo primero del presente Decreto, a dividir sus respectivas municipalidades en secciones numeradas, progresivamente, en los términos que dispone dicho artículo 6o.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
 
 P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957.
 
@@ -1936,3 +1936,11 @@ EL PRESENTE DECRETO INICIARA SU VIGENCIA AL DIA SIGUIENTE DE SU PUBLICACION EN E
 P.O. 14 DE ENERO DE 1994.
 
 Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MARZO DE 1994.
+
+Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
+
+Tercero.- El informe a que se contrae el artículo 56 Constitucional, por esta única ocasión deberá rendirse dentro de los ocho últimos días del Primer Período de Receso del Segundo Año de Ejercicio Constitucional de la LIV Legislatura del Congreso del Estado.
