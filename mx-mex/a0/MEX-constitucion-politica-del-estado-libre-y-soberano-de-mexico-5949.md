@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1975-04-15"
+last_updated: "1976-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE ABRIL DE 1975.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 1976.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -87,7 +87,7 @@ DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCIONES XI, XII, X
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-G.G. 4 DE JULIO DE 1942
+G.G. 4 DE JULIO DE 1942.
 
 El presente Decreto entrará en vigor a partir de su publicación en la "Gaceta del Gobierno". El Gobernador designado por esta Legislatura con el carácter de Interino con fecha 16 de marzo de 1942, continuará en el desempeño de su cargo, con el carácter de Substituto, hasta la terminación del periodo de 1941 a 1945.
 
@@ -929,7 +929,7 @@ VII. Presentar a la Legislatura, al terminar su período Constitucional, una mem
 
 VIII. Informar a la Legislatura por escrito, o verbalmente por conducto del Secretario de Gobierno o del Oficial Mayor en su caso, sobre cualquier ramo de la Administración, cuando la misma Legislatura lo solicite;
 
-IX. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes y acuerdos de la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia;
+IX. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes y acuerdos de la Legislatura del Estado, proveyendo en la esfera administrativa su exacta observancia;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1087,9 +1087,11 @@ El Secretario General, mientras esté en ejercicio de sus funciones, no podrá d
 
 ###### Artículo 101.
 
-El Tribunal Superior de Justicia, se compondrá de doce Magistrados numerarios y tres supernumerarios los que serán designados en la forma que previenen los Artículos 70, Fracción XI Bis y 89 Fracción XXVII de esta Constitución.
+El Tribunal Superior de Justicia, se compondrá de doce Magistrados Numerarios y tres Supernumerarios, los que serán designados en la forma que previenen los artículos 70 Fracción XI Bis y 89 Fracción XXVII de esta Constitución.
 
-Los Magistrados del Tribunal Superior de Justicia serán inamovibles, sólo podrán ser privados de sus puestos, por faltas u omisiones graves el ejercicio de sus funciones o cuando observen mala conducta, previo juicio de responsabilidad; o por estar incapacitado física o mentalmente para el desempeño de las mismas.
+Los Magistrados del Tribunal Superior de Justicia serán inamovibles transcurridos seis años de ejercicio. Sólo podrán ser privados de sus cargos por la Legislatura del Estado, a petición del Ejecutivo, por faltas u omisiones graves en el desempeño de sus funciones; porque observen mala conducta y estén incapacitados física o mentalmente.
+
+La Ley Reglamentaria correlativa determinará las causas de suspensión o cesación de los nombramientos de los Funcionarios Judiciales sujetos a la inamovilidad.
 
 ###### Art. 102.
 
@@ -1275,7 +1277,7 @@ En cada Distrito Judicial habrá un Juez, o los Jueces necesarios de Primera Ins
 
 El Ministerio Público es el órgano del Poder Ejecutivo a quien incumbe la persecución de los delitos, a cuyo fin contará con un cuerpo de Policía Judicial que estará bajo la autoridad y mando inmediato de aquel. El Ministerio Público debe velar además por la exacta observancia de las leyes de interés general e intervenir en todos aquellos asuntos que afecten a la Sociedad, al Estado, y en general, a las personas a quienes las leyes otorgan especial protección.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### Art. 120.
 
@@ -1299,7 +1301,7 @@ Para ser Procurador General, se requieren los mismos requisitos que para ser Mag
 
 #### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### Art. 101
 
@@ -1315,7 +1317,7 @@ Las Leyes del Estado podrán instituir Tribunales de lo contencioso-administrati
 
 #### SECCION TERCERA. DE LOS JUECES DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### Artículo 111.
 
@@ -1337,7 +1339,7 @@ En ningún caso podrán desempeñar los Ayuntamientos como cuerpos colectivos, l
 
 ###### Artículo 115.
 
-Los Jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia, serán inamovibles y sólo podrán ser privados de sus puestos cuando ocurra alguna de las causas señaladas en el segundo párrafo del Artículo 101 de esta propia Constitución.
+El Tribunal Superior de Justicia nombrará a los Jueces de Primera Instancia, los que serán inamovibles después de seis años de ejercicio; únicamente podrán ser privados de sus cargos por el propio Tribunal, en los términos del Artículo 101 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1628,6 +1630,10 @@ La compensación de que hablara el artículo anterior, solo tendrá lugar por lo
 ###### Art. 175.
 
 Los bienes raíces de beneficencia e instrucción pública que puedan conservar las corporaciones respectivas conforme a las leyes, así como los capitales impuestos y pertenecientes a los mismos, no podrán ser enajenados ni de algún modo gravados sin decreto especial de la Legislatura del Estado. La infracción de este artículo hace nulo el acto, quedando además responsables solidariamente por el capital, intereses y en general, daños y perjuicios que se ocasionan a dichas corporaciones, tanto la autoridad o funcionarios que disponga de dichos bienes como los que los reciban, cedan o trasmitan o de cualquiera manera intervengan en su enajenación, siendo también exigibles la cosa enajenada de cualquiera que sea su detentador.
+
+###### Artículo 120.
+
+El Ministerio Público estará a cargo de un Procurador General de Justicia, auxiliado en sus funciones por dos Sub-Procuradores y los Agentes que determine la Ley Orgánica Correlativa.
 
 ### CAPITULO PRIMERO. DE LA DIVISION GENERAL DE LAS CONTRIBUCIONES
 
@@ -2329,24 +2335,22 @@ G.G. 15 DE ABRIL DE 1975.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
+G.G. 31 DE ENERO DE 1976.
+
+DECRETO NUMERO 36, POR EL QUE SE REFORMAN LOS ARTICULOS 101 Y 115 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto será aplicable solamente a los nombramientos de Magistrados del H. Tribunal Superior de Justicia y Jueces de Primera Instancia del Estado de México, que se hagan a partir de la fecha de la vigencia de esta reforma.
+
 ###### ARTICULO SEGUNDO.
 
-El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 31 DE DICIEMBRE DE 1947.
+G.G. 31 DE ENERO DE 1976.
 
-DECRETO NUMERO 11, POR EL QUE SE REFORMA EL ARTICULO 159 REFORMADO, DE LA CONSTITUCION POLITICA LOCAL.
+DECRETO NUMERO 38, POR EL QUE SE REFORMA EL ARTICULO 120 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
 
-Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
+###### ARTICULO UNICO.
 
-G.G. 31 DE DICIEMBRE DE 1947.
-
-DECRETO NUMERO 12, POR EL QUE SE MODIFICAN LOS ARTICULOS 71, 72, 101, 102 FRACCION II, III, 158, 218 FRACCION III, SE DEROGA LA FRACCION IV DEL ARTICULO 218 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
-
-G.G. 15 DE SEPTIEMBRE DE 1948.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
-
-G.G. 4 DE ENERO DE 1950.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
