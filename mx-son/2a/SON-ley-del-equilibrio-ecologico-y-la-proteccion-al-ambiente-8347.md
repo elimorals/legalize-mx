@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-8347"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-03"
-last_updated: "1991-01-03"
+last_updated: "1993-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE NOVIEMBRE DE 1993.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 3 de enero de 1991.
 
@@ -983,6 +983,10 @@ En el caso de que de la verificación de emisiones contaminantes se determine qu
 
 La omisión de dicha verificación o la falta de cumplimiento de las medidas que para el control de emisiones se establezcan, serán objeto de sanción en los términos que prevengan esta Ley y otras disposiciones jurídicas.
 
+> <small>(ADICIONADO, B.O. 2 DE NOVIEMBRE DE 1993)</small>
+
+Lo dispuesto en este artículo se aplicará en aquellos municipios cuyo parque vehicular sea superior a los diez mil vehículos automotores.
+
 ###### ARTICULO 85.
 
 En relación con las emisiones de contaminantes de vehículos automotores, excepto los destinados al transporte público federal, corresponderá:
@@ -1041,7 +1045,7 @@ I.- Servicios médicos;
 
 II.- Seguridad pública;
 
-III.- Servicio público de transporte de pasajeros, en los sistemas que se determinen; y
+III.- (DEROGADA, B.O. 2 DE NOVIEMBRE DE 1993)
 
 IV.- Servicio de transporte de uso privado en los casos de emergencia.
 
@@ -1688,3 +1692,11 @@ RODOLFO FELIX VALDES.
 EL SECRETARIO DE GOBIERNO,
 
 HECTOR PARRA ENRIQUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 2 DE NOVIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
