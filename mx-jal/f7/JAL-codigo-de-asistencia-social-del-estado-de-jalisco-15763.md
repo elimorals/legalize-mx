@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "1999-12-09"
+last_updated: "1999-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1999.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -230,6 +230,10 @@ b) Promoción del servicio voluntario para la realización de tareas básicas de
 IV. Promoverán acciones tendientes a la obtención de recursos económicos y materiales en apoyo a los programas asistenciales; y
 
 V. Gestionarán estímulos fiscales para las personas físicas o jurídicas que apoyen los programas de asistencia social.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
+
+VI. Promoverán y gestionarán ante los municipios y demás entes públicos, de acuerdo a las posibilidades, estímulos y beneficios fiscales, en su caso, a favor de los sujetos de asistencia social.
 
 # LIBRO SEGUNDO. INSTITUCIONES DE ASISTENCIA SOCIAL PUBLICA
 
@@ -2598,3 +2602,7 @@ SEGUNDO. El Consejo Estatal para la Prevención y Atención de la Violencia Intr
 TERCERO. El reglamento del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar deberá expedirse dentro de los 30 días siguientes de su integración.
 
 CUARTO. El Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar deberá aprobarse dentro de los 60 días siguientes a la integración del Consejo.
+
+P.O. 16 DE DICIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
