@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-asistencia-social-14561"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-21"
-last_updated: "2001-09-12"
+last_updated: "2003-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de marzo de 1987.
 
@@ -63,9 +63,11 @@ I.- Asistencia Social, el conjunto de acciones tendientes a modificar y mejorar 
 
 II.- Familia, la cédula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 4.
 
-En los términos del Artículo anterior son sujetos a la recepción de los servicios de asistencia social los siguientes:
+En los términos del artículo anterior son sujetos a la recepción de los servicios de asistencia social los siguientes:
 
 I.- Menores, en estado de abandono, desamparo, desnutrición o sujetos a maltrato.
 
@@ -75,9 +77,13 @@ III.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
 
 IV.- Mujeres en período de gestación o lactancia;
 
-V.- Ancianos en desamparo, incapacidad, marginación o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-VI.- Inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje y otras;
+V.- Ancianos en desamparo, discapacitados, marginados o sujetos de maltrato;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VI.- Personas con discapacidad;
 
 VII.- Indigentes;
 
@@ -157,7 +163,9 @@ XI.- Las demás que le otorgan las leyes aplicables.
 
 Para los efectos de esta Ley, se entiende como servicios básicos de salud en materia de asistencia social, los siguientes:
 
-I.- La atención a personas que, por sus carencias socio-económicas o por problemas de invalidez, minusvalía o incapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+I.- La atención a personas que, por sus carencias socio-económicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
 II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo;
 
@@ -165,7 +173,9 @@ III.- La promoción del bienestar del senescente y el desarrollo de acción de p
 
 IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos, minusválidos o incapaces sin recursos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a personas con discapacidad, menores y ancianos sin recursos;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -173,7 +183,9 @@ VII.- El apoyo a la educación y capacitación para el trabajo de personas con c
 
 VIII.- La prestación de servicios funerarios;
 
-IX.- La prevención de invalidez, minusvalía o incapacidad y su rehabilitación en centros especializados.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+IX.- La prevención de discapacidades y su rehabilitación en centros especializados;
 
 X.- La orientación nutricional y la alimentación complementaria a personas de escasos recursos y a población de zonas marginadas;
 
@@ -235,9 +247,13 @@ V.- Coordinar las funciones realizadas con la beneficencia pública en el Estado
 
 VI.- Fomentar y apoyar las acciones de las instituciones del sector social y privado, cuyo objeto sea la prestación de servicios de asistencia social sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias o entidades;
 
-VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de minusválidos sin recursos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-VIII.- Llevar a cabo acciones en materia de prevención de invalidez, minusvalía o incapacidad y de rehabilitación de inválidos, en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
+VII.- Operar establecimientos de asistencia social en beneficio de personas con discapacidad, menores en estado de abandono y de ancianos desamparados sin recursos;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VIII.- Llevar a cabo acciones en materia de prevención de discapacidades y de rehabilitación de personas con discapacidad, en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
 
 IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación de las autoridades asistenciales de los municipios;
 
@@ -251,23 +267,33 @@ XIII.- Fomentar la organización de grupos de promotores voluntarios y coordinar
 
 XIV.- Proteger y representar a los menores ante toda clase de autoridades a través de la dependencia correspondiente;
 
-XV.- Prestar servicios de asistencia jurídica y de orientación social a menores, ancianos y minusválidos, inválidos o incapaces sin recursos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+XV.- Prestar servicios de asistencia jurídica y de orientación social a personas con discapacidad, menores y ancianos, sin recursos;
 
 XVI.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva;
 
-XVII.- Poner a disposición del ministerio público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+XVII.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de personas con discapacidad y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
 XVIII.- Realizar y promover la capacitación de recursos humanos para la asistencia social:
 
 XIX.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social a que se refiere la fracción XIII del Artículo 12 de esta Ley;
 
-XX.- Realizar estudios e investigaciones en materia de invalidez, minusvalía e incapacidad;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+XX.- Realizar estudios e investigaciones en materia de discapacidades;
 
 XXI.- Participar en programas de rehabilitación y educación especial;
 
-XXII.- Promover el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de invalidez, minusvalía o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-XXIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de los inválidos, minusválidos e incapaces;
+XXII.- Promover el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+XXIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de las personas con discapacidad;
 
 XXIV.- Promover ante los Sistemas Municipales para el Desarrollo Integral de la Familia, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de servicios básicos de salud en materia de asistencia social, para los grupos sociales vulnerables y coordinar su oportuna atención;
 
@@ -575,13 +601,17 @@ V.- Fortalecer el patrimonio de los Sistemas Municipales para el Desarrollo Inte
 
 Los actos que se realicen por las autoridades que suscriban los convenios a que se refiere este artículo, en contravención al contenido de los mismos, serán nulos de pleno derecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 43.
 
-La participación de la comunidad a que se refieren las Fracciones XXIX y XXX del Artículo 15 de esta Ley, tiene por objeto fortalecer su estructura, propiciando la solidaridad ante las necesidades reales de la población.
+La participación de la comunidad a que se refieren las fracciones XXIX y XXX del artículo 15 de esta Ley, tienen por objeto fortalecer su estructura, propiciando la solidaridad ante las necesidades reales de la población.
 
 Dicha participación, será a través de las siguientes acciones:
 
-I.- Promoción de hábitos de conducta y de valores que contribuyan a la protección de los grupos vulnerables, a su superación y a la prevención de invalidez;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+I.- Promoción de hábitos de conducta y de valores que contribuyan a la protección de los grupos vulnerables, a su superación y a la prevención de la discapacidad;
 
 II.- Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios de salud en materia de asistencia social, bajo la dirección y control de las autoridades correspondientes;
 
@@ -726,5 +756,9 @@ P.O. 31 DE MAYO DE 2000.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE SEPTIEMBRE DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
