@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1988-12-30"
+last_updated: "1989-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -45,47 +45,83 @@ LEY DE HACIENDA MUNICIPAL NUMERO 677
 
 Es objeto de este Impuesto:
 
-I.- La propiedad de predios urbanos.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+I.- La propiedad de predios urbanos y suburbanos y las construcciones adheridas a ellas, así como la propiedad de condominios, y del régimen de tiempo compartido y multipropiedad.
 
 II.- La propiedad de predios rústicos catastrados.
 
-III.- La posesión de predios urbanos o rústicos catastrados en los siguientes casos:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-a) Cuando no se conozca el propietario.
+III.- La posesión de predios urbanos, suburbanos y rústicos y las construcciones adheridas a ellos en los siguientes casos:
+
+a) Cuando no se conozca el propietario
 
 b) Cuando se derive de contratos de compraventa con reserva de dominio y certificados de participación inmobiliaria, mientras estos contratos estén en vigor y no se traslade el dominio del predio.
 
 c) Cuando se trate de predios propiedad de la Federación, del Estado o de sus municipios que estén en poder de instituciones descentralizadas con personalidad jurídica y patrimonios propios, o en poder de particulares, por contrato, concesión, permiso, o por cualquier otro título, para su uso, goce o explotación.
 
-IV.- La propiedad o la posesión de las construcciones permanentes ubicadas en predios urbanos, rústicos, ejidales y comunales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+IV.- Los derechos sobre la propiedad o posesión de terrenos ejidales y comunales, en los términos previstos en la Ley Federal de la Reforma Agraria, así como la posesión de construcciones permanentes en dichos terrenos.
 
 V.- La propiedad de bienes raíces donde se ubiquen plantas de beneficio y establecimientos metalúrgicos, así como sus instalaciones en los términos del artículo 23 de la Ley de Impuestos y Fomento a la Minería.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-VI.- Terrenos ejidales y comunales, en los términos previstos en la Ley Federal de Reforma Agraria.
+VI.- Los inmuebles que forman parte del patrimonio de los organismos públicos descentralizados que se utilicen para oficinas administrativas, o en general para propósitos distintos a los de su objeto.
 
 ###### ARTICULO 2o.
 
 Son sujetos de este impuesto:
 
-I.- Los propietarios de predios urbanos o rústicos catastrados.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-II.- Los poseedores de predios urbanos o rústicos catastrados.
+I.- Los propietarios de predios urbanos, suburbanos rústicos catastrados y los destinados al régimen de tiempo compartido y multipropiedad.
 
-III.- Los propietarios o poseedores de construcciones ubicadas en predios urbanos, rústicos, ejidales y comunales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+II.- Los poseedores de predios urbanos, suburbanos o rústicos catastrados.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+III.- Los propietarios o poseedores de construcciones ubicadas en predios urbanos, suburbanos, rústicos, ejidales y comunales.
 
 IV.- Los que se encuentren en las hipótesis previstas en el artículo 28 de la presente Ley.
 
 V.- Los propietarios de bienes raíces donde se ubiquen plantas de beneficio y establecimientos metalúrgicos, en los términos del artículo 23 de Fomento a la Minería.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+VI.- Los copropietarios y los coposeedores de bienes inmuebles sujetos a régimen de copropiedad o condominio y los titulares de certificados de participación inmobiliaria.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+VII.- Los concesionarios o quienes no siendo propietarios tengan la explotación de las empresas mineras o metalúrgicas.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+VIII.- El fideicomitente o en su caso el fiduciario en tanto no trasmitan la propiedad del predio al fideicomisario o a otras personas en cumplimiento del contrato del fideicomiso.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+IX.- Los organismos públicos descentralizados federales en términos de la Ley General de Bienes Nacionales, en los mismos términos los Estatales y Municipales.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+X.- Los titulares de derechos agrarios sobre la propiedad ejidal o comunal de conformidad con la legislación agraria federal.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 3o.
 
-Son sujetos por responsabilidad objetiva, los adquirientes por cualquier título, de predios urbanos o rústicos catastrados.
+Son sujetos por responsabilidad objetiva, los adquirentes por cualquier título, de predios urbanos, suburbanos, rústicos catastrados y los del régimen de tiempo compartido y multipropiedad.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 4o.
 
-Son sujetos por responsabilidad solidaria, los propietarios de predios que hubiesen prometido en venta o hubieren vendido con reserva de dominio.
+Son sujetos por responsabilidad solidaria, los propietarios de predios que hubiesen prometido en venta, vendido con reserva de dominio o hubieren vendido con régimen de tiempo compartido o multipropiedad.
 
 ###### ARTICULO 5o.
 
@@ -95,15 +131,21 @@ a) Los empleados del H. Ayuntamiento que dolosamente formulen certificados de no
 
 b) Los Notarios Públicos que otorguen escrituras sin cerciorarse previamente que el pago del impuesto se encuentre al corriente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 6o.
 
-Las personas que adquieran predios urbanos ó rústicos regidos por las disposiciones de esta Ley, serán solidariamente responsables de los adeudos fiscales que afecten a los mismos, los cuales deberán pagar antes de realizarse el traslado de dominio.
+Las personas que adquieran predios urbanos, suburbanos, rústicos o con el régimen de tiempo compartido y de multipropiedad regidos por las disposiciones de esta Ley, serán solidariamente responsables de los adeudos fiscales que afecten a los mismos, los cuales deberán pagar y dar el aviso de movimiento de propiedad de inmueble.
 
 ###### ARTICULO 7o.
 
 Se tendrá como base del impuesto:
 
-I.- El valor catastral del predio y de las construcciones, o apartamento o local en condominio determinado de acuerdo con los lineamientos previstos por la Ley del Catastro Municipal.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+I.- El valor catastral del predio y de las construcciones, apartamento o local en condominio, los del régimen de tiempo compartido y multipropiedad, determinado de acuerdo con los lineamientos previstos por la Ley de Catastro Municipal.
+
+La Ley de Ingresos de los Municipios del Estado fijará anualmente el porcentaje del valor catastral que servirá de base para el pago del impuesto.
 
 II.- El valor de la operación, en caso de que el predio sea objeto de contrato, convenio o de algún acto jurídico y siempre que el valor resulte superior a las bases registradas o determinadas conforme a la fracción anterior.
 
@@ -137,23 +179,43 @@ El impuesto se causará conforme a la tarifa factorizada que fije al efecto la L
 
 Quedan exentos del pago de este impuesto únicamente los bienes del dominio público de la Federación, del Estado o de los municipios.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 11
+
+BIS.- Cuando las autoridades catastrales tengan duda de que algún inmueble no sea del dominio público, solicitará a las autoridades competentes la comprobación de su propiedad.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 12.
 
-Las exenciones señaladas en el artículo anterior tendrán vigencia hasta en tanto no cambien las circunstancias que las originaron.
+Los beneficiarios de las exenciones deberán manifestar a la misma autoridad cualquier modificación de las circunstancias que hubieren fundado las mismas, la Tesosería Municipal dictará resolución nulificando la excención (sic) a partir del momento en que hubiere desaparecido el fundamento de la misma, y ordenará el recobro de los impuestos cuyo pago se hubiese omitido, así como los recargos, multas y accesorios que procedan.
 
 ###### ARTICULO 13.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1988)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 14.
 
-La Tesorería Municipal determinará el monto del impuesto a pagar, de conformidad con el avalúo asignado al inmueble y con aplicación a la tarifa factorizada que al efecto establezca la Ley de Ingresos de los Municipios.
+La Tesorería Municipal determinará el monto del impuesto a pagar, de conformidad con el avalúo asignado al inmueble y con aplicación de la base y de la tasa que establezca la Ley de Ingresos de los Municipios.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 15.
 
-En los casos de excedencia (sic) o de predios no empadronados, de construcciones, reconstrucciones o de ampliaciones no manifestadas, la liquidación comprenderá cinco años anteriores a la fecha de su descubrimiento por cualquier causa o motivo, salvo que el contribuyente compruebe que tales hechos u omisiones datan de fecha posterior.
+En los casos de excedencia (sic) o de predios no empadronados, de construcciones, reconstrucciones o de ampliaciones no manifestadas, la liquidación comprenderá cinco años anteriores a la fecha de su descubrimiento por cualquier causa o motivo, salvo que el contribuyente compruebe que tales hechos u omisiones datan de fecha posterior y la base para el cobro del impuesto se hará en la forma siguiente:
+
+a) Para el año inmediato anterior, el 70% del valor catastral actual determinado.
+
+b) Para el segundo año, el 60% del valor catastral actual determinado.
+
+c) Para el tercero año, el 50% del valor catastral actual determinado.
+
+d) Para el cuarto año, el 40% del valor catastral actual determinado.
+
+e) Para el quinto, el 30% del valor catastral actual determinado.
 
 ###### ARTICULO 16.
 
@@ -185,27 +247,57 @@ Los contribuyentes cuyos predios tengan asignado un valor catastrado o no catast
 
 Los sujetos de este impuesto tendrán las siguientes obligaciones:
 
-I.- Presentar los avisos y manifestaciones por cada uno de los predios urbanos o rústicos que sean de su propiedad o posean, en los términos que dispone la Ley del Catastro Municipal.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+I.- Los particulares y notarios públicos harán las manifestaciones y avisos que exija esta Ley y los ordenamientos relativos para efecto de este impuesto, en las formas oficiales que aprueben las autoridades fiscales y se presentarán en la Tesorería Municipal de la jurisdicción que le corresponda.
 
 II.- Proporcionar al personal debidamente autorizado los datos e informes que le soliciten, así como permitir el libre acceso a los predios para la realización de los trabajos catastrales.
 
-III.- Dar aviso de sus cambios de domicilio. Si no lo hicieren, se tendrá como tal el que hubieren señalado anteriormente y, en su defecto, el del predio mismo.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+III.- Dar aviso de sus cambios de domicilio dentro de los quince días siguientes a aquel en que se efectúe, si no lo hicieren, se tendrá como tal el que hubieren señalado anteriormente y, en su defecto el del predio mismo.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+IV.- Las manifestaciones a que alude esta sección y las disposiciones catastrales respecto de contratos de promesa de venta, de venta con reserva de dominio, así como de venta o cualesquiera otros contratos, resoluciones administrativas o judiciales, deberán presentarse dentro de los quince días siguientes a la fecha de autorización preventiva de la escritura pública correspondiente, de la celebración del contrato privado o de la fecha en que haya quedado firme la resolución administrativa o judicial o de la fecha del documento de que se trate.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+También se considerarán comprendidas en esta fracción las manifestaciones de división o fusión de predios en que no se opere traslado de dominio alguno, sea porque las porciones del predio dividido no salgan del dominio del propietario; los notarios públicos que autoricen dichas escrituras tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Tesorería Municipal, dentro del mismo término que establece el párrafo anterior, pudiendo emplear para el efecto las manifestaciones que formulen en relación con el impuesto sobre adquisición de bienes inmuebles y otras operaciones con bienes inmuebles.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 22.
 
-En el caso de apartamentos o locales sujetos al régimen de condominio, los propietarios o poseedores, en su caso, deberán empadronarse por separado.
+En el caso de apartamentos o locales sujetos a los regímenes de condominio, de tiempo compartido o de multipropiedad los propietarios o poseedores, en su caso, deberán empadronarse por separado.
 
 ###### ARTICULO 23.
 
 Los notarios, la Oficina del Registro Público, corredores y funcionarios autorizados por la Ley para dar fé pública, y los jueces que actúen en funciones de notario, no autorizarán ni inscribirán ningún cotrato (sic) o escritura de compra-venta, hipoteca, cesión o cualquier otro que tenga por objeto la enajenación de bienes inmuebles o derechos reales, si no se les demuestra por medio de los correspondientes recibos oficiales, que el predio está al corriente del pago del impuesto a que se refiere la presente Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+Los notarios deberán dar aviso a las autoridades fiscales cuando los predios de que se traten reporten adeudos fiscales por conceptos distintos del impuesto predial.
+
 ###### ARTICULO 24.
 
 Por lo que se refiere a la aplicación de las disposiciones relativas al impuesto predial y para conocer de las reclamaciones a que dé lugar dicha aplicación, es autoridad competente el Tesorero Municipal en la forma y términos que establezca el Código Fiscal Municipal.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 24
+
+BIS.- Cuando los Municipios celebren convenios con el Gobierno del Estado para la administración del impuesto a que se refiere esta sección, las atribuciones de las Tesorerías Municipales las ejercerá la Secretaría de Finanzas a través de sus dependencias.
+
 ###### ARTICULO 25.
 
 Cuando la Tesorería Municipal o alguna de sus Dependencias consideren que existe falsedad en las declaraciones o manifestaciones presentadas por los contribuyentes de este impuesto, podrán ordenar la práctica de una investigación, para fines de rectificación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 25
+
+BIS.- La Tesorería Municipal tendrá acción real para el cobro del impuesto y de las prestaciones, el procedimiento administrativo de ejecución que establece el Código Fiscal Municipal afectará a los predios directamente, quien quiera que sea el sujeto obligado al pago de este impuesto.
 
 ###### ARTICULO 26.
 
@@ -283,7 +375,11 @@ La base del impuesto será:
 
 I.- Tratándose de bienes inmuebles:
 
-a) El valor conforme avalúo bancario, catastral o de operación que resulte más alto, reducido en cinco veces el salario mínimo general, elevado al año, de la zona económica en la que se encuentre ubicado el inmueble.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+a) El valor conforme avalúo bancario, de operación o catastral, efectuado este último de acuerdo con lo previsto en el Artículo 33, inciso a) de la presente Ley aplicando los valores unitarios de suelo y construcción vigentes determinados y aprobados de acuerdo con la Ley de Catastro Municipal, el que resulte más alto, reducido en cinco veces el salario mínimo general, elevado al año, de la zona económica en la que se encuentre ubicado el inmueble.
+
+Tratándose de bienes inmuebles adquiridos con créditos de interés social, Fondo de la Vivienda del Banco de México, o construidos por créditos de INFONAVIT, FOVISSSTE, FONHAPO, Banco Nacional del Ejército y de la Armada o Instituciones similares, Federales, Estatales o Municipales, la reducción será de ocho veces el salario mínimo general, elevado al año, de la zona económica en la que se encuentre ubicado el inmueble.
 
 b) El 50 por ciento del valor determinado conforme al inciso a) cuando se transmita la nuda propiedad. El 50 por ciento restante, se pagará al ser transmitido el usufructo.
 
@@ -307,9 +403,11 @@ Para efectuar la reducción a que se refiere este artículo se aplicará el sala
 
 El impuesto se causará de conformidad con la tasa que establezca la Ley de Ingresos de los Municipios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 32.
 
-El contribuyente dará aviso de movimiento de propiedad inmueble a la oficina municipal correspondiente, y pagará el impuesto dentro de los 15 días siguientes a la fecha en que se firme la escritura pública o el contrato privado traslativo de dominio, si el título es otorgado en el Estado; dentro de los 30 días siguientes a la autorización, si la escritura es tirada en cualquier otro lugar de la República, y dentro de 90 días siguientes, si se otorga fuera de la misma, según los siguientes supuestos:
+Los contribuyentes y los notarios darán aviso de movimiento de propiedad inmueble a la oficina municipal correspondiente, y pagarán el impuesto dentro de los 15 días siguientes a la fecha en que los otorgantes firmen la escritura pública o el contrato privado traslativo de dominio, si el título es otorgado en el Estado; dentro de los 30 días siguientes a la autorización si la escritura es tirada en cualquier otro lugar de la República, y dentro de 90 días siguientes si se otorga fuera de la misma, según los siguientes supuestos:
 
 I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
@@ -325,7 +423,9 @@ V.- En los casos no previstos en las fracciones anteriores, cuando los actos de 
 
 Tratándose de operaciones con inmuebles se acompañarán con el aviso los siguientes documentos:
 
-a) Deslinde catastral con superficie, medidas y colindancias, así como el valor catastral respectivo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+a) Deslinde catastral con superficie, medidas y colindancias, así como el valor catastral respectivo determinado por las autoridades catastrales, mismas que aplicarán los valores unitarios de suelo y construcciones vigentes en la fecha de operación.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -334,6 +434,10 @@ b) Avalúo bancario tratándose de escrituras públicas.
 c) Certificado de no adeudo predial.
 
 d) Copia de escritura pública o privada.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+e) Plano de construcción si el terreno estuviere edificado.
 
 Los documentos de referencia incluirán hasta el mes en que los notarios o funcionarios que hagan sus veces, autoricen la escritura, o al mes que se produzca el contrato privado.
 
@@ -387,13 +491,29 @@ IV.- Cuando por sentencia o declaración judicial se rescinda o anule un contrat
 
 V.- Cuando previamente se haya cubierto el impuesto al efectuarse ventas con reserva de dominio o sujetas a condición.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 35.
 
-Los notarios públicos o funcionarios que hagan sus veces, no autorizarán ninguna escritura en la que se haga constar actos o contratos por los que se adquiera o se transmita la propiedad de bienes inmuebles y de derechos reales, si no se les exhibe el comprobante de pago del impuesto de la Tesorería Municipal en el sentido de que no se causa. En los testimonios se hará constar el número oficial del comprobante de pago y el monto del impuesto pagado o la declaración de exención.
+Los notarios públicos o funcionarios que hagan sus veces, no autorizarán ninguna escritura en la que se haga constar actos o contratos por los que se adquiera o se transmita la propiedad de bienes inmuebles y de derechos reales, si no se les exhibe el comprobante de pago del impuesto de la Tesorería Municipal o en su caso, la indicación por escrito en el sentido de que no se causa. En los testimonios se hará constar el número oficial del comprobante de pago y el monto del impuesto pagado o la declaración de exención.
 
 ###### ARTICULO 36.
 
 El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento que implique adquisición o transmisión de la propiedad de los bienes inmuebles o derechos reales, si no se comprueba el pago del impuesto o la declaración de exención.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 36
+
+BIS.- Son solidariamente responsables del pago de este impuesto y sus accesorios, los siguientes:
+
+I.- Los transmitentes, cuando el adquirente lo haya eludido.
+
+II.- Los notarios públicos, corredores y demás funcionarios encargados de llevar la fé pública, cuando autoricen algún documento que sea objeto de este impuesto sin que previamente se haya efectuado el pago correspondiente a la Tesorería Municipal donde se encuentre ubicado el inmueble.
+
+III.- Los demás funcionarios y empleados que inscriban o registren esta clase de documentos sin comprobar que se hayan cumplido las obligaciones inherentes a este gravamen, y
+
+IV.- Los peritos valuadores autorizados que no apliquen correctamente en la valuación de predios los valores unitarios aprobados, atendiendo a la clasificación del terreno y construcción de que se trate, por las cantidades dejadas de recaudar.
 
 ###### ARTICULO 37.
 
@@ -736,3 +856,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 30 DE DICIEMBRE DE 1988.
 
 UNICO.- Este Decreto entrará en vigor el día primero de enero de mil novecientos ochenta y nueve.
+
+P.O. 29 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día primero de enero de mil novecientos noventa.
