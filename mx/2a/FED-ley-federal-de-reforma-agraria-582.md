@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-reforma-agraria-582"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1971-04-16"
-last_updated: "1974-12-31"
+last_updated: "1975-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-03-22"
 
 LEY FEDERAL DE REFORMA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 1975.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 16 de abril de 1971.
 
@@ -55,7 +55,9 @@ I.- El Presidente de la República;
 
 II.- Los Gobernadores de los Estados y el Jefe del Departamento del Distrito Federal;
 
-III.- El Departamento de Asuntos Agrarios y Colonización;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+III.- La Secretaría de la Reforma Agraria;
 
 IV.- La Secretaría de Agricultura y Ganadería; y
 
@@ -63,35 +65,43 @@ V.- Las Comisiones Agrarias Mixtas.
 
 Todas las autoridades administrativas del país actuarán como auxiliares en los casos en que esta Ley determine.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 3o.
 
-El Departamento de Asuntos Agrarios y Colonización es la dependencia del Ejecutivo Federal encargada de aplicar ésta y las demás leyes agrarias, en cuanto las mismas no atribuyan expresamente competencia a otras autoridades. Su titular será nombrado y removido libremente por el Presidente de la República.
+La Secretaría de la Reforma Agraria es la dependencia del Ejecutivo Federal encargada de aplicar ésta y las demás leyes agrarias, en cuanto las mismas no atribuyan expresamente competencia a otras autoridades. Su titular será nombrado y removido libremente por el Presidente de la República.
 
 ###### ARTICULO 4o.
 
 Las comisiones Agrarias Mixtas, se integrarán por un Presidente, un Secretario y tres Vocales, y tendrán las atribuciones que se determinen en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 5o.
 
-El Presidente de la Comisión Agraria Mixta será el Delegado del Departamento de Asuntos Agrarios y Colonización que resida en la capital del Estado de que se trate o en el Distrito Federal.
+El Presidente de la Comisión Agraria Mixta será el Delegado de la Secretaría de la Reforma Agraria que resida en la capital del Estado de que se trate, o en el Distrito Federal.
 
-El Primer Vocal será nombrado y removido por el Jefe del Departamento de Asuntos Agrarios y Colonización; el Secretario y el Segundo Vocal lo serán por el Ejecutivo local, y el tercero, representante de los ejidatarios y comuneros, será designado y substituido por el Presidente de la República, de una terna que presente la liga de Comunidades Agrarias y Sindicatos Campesinos de la entidad correspondiente.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+El Primer vocal será nombrado y removido por el Secretario de la Reforma Agraria; el Secretario y el Segundo Vocal lo serán por el Ejecutivo Local, y el tercero, representante de los ejidatarios y comuneros, será designado y substituido por el Presidente de la República, de una terna que presente la Liga de Comunidades Agrarias y sindicatos campesinos de la entidad correspondiente.
 
 El Secretario y los Vocales de la Comisión Mixta, con excepción del representante de los campesinos, deberán reunir los requisitos exigidos para ser miembro del Cuerpo Consultivo Agrario. El representante de los campesinos durará en su cargo tres años y deberá ser ejidatario o comunero y estar en pleno goce de sus derechos ejidales, civiles y políticos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 6o.
 
-El reglamento interno de cada una de las Comisiones Agrarias Mixtas será expedido por el Gobernador de la Entidad respectiva, previa opinión del Departamento de Asuntos Agrarios y Colonización.
+El reglamento interno de cada una de las Comisiones Agrarias Mixtas será expedido por el Gobernador de la Entidad respectiva, previa opinión de la Secretaría de la Reforma Agraria.
 
 Las comisiones Agrarias Mixtas formularán sus presupuestos anuales de gastos para su eficiente funcionamiento, los cuales serán pagados por el Gobierno Federal y el local correspondiente conforme a los convenios que al efecto se celebren. La aportación del gobierno federal no será menor del cincuenta por ciento.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 7o.
 
-En cada entidad federativa habrá por lo menos una Delegación dependiente del Departamento de Asuntos Agrarios y Colonización. Para el despacho de los asuntos que le están encomendados, su titular tendrá bajo sus órdenes a dos Subdelegados, uno de procedimientos y controversias agrarias y otro de organización y desarrollo agrario. Además, la Delegación tendrá el personal necesario para el cumplimiento de las funciones a su cargo.
+En cada entidad federativa habrá por lo menos una Delegación dependiente de la Secretaría de la Reforma Agraria. Para el despacho de los asuntos que le están encomendados, su titular tendrá bajo sus órdenes a dos Subdelegados, uno de procedimientos y controversias agrarias y otro de organización y desarrollo agrario. Además, la Delegación tendrá el personal necesario para el cumplimiento de las funciones a su cargo.
 
-Los Delegados serán nombrados y removidos por el Presidente de la República y deberán llenar los mismos requisitos señalados para ser miembro del Cuerpo Consultivo. Los Subdelegados serán nombrados y removidos por el Jefe del Departamento de Asuntos Agrarios y Colonización y deberán ser profesionistas titulados con experiencia en materia agraria.
+Los Delegados serán nombrados y removidos por el Presidente de la República y deberán llenar los mismos requisitos señalados para ser miembro del Cuerpo Consultivo. Los Subdelegados serán nombrados y removidos por el Secretario de la Reforma Agraria y deberán ser profesionistas titulados con experiencia en materia agraria.
 
 ### CAPITULO SEGUNDO. Atribuciones de las autoridades agrarias
 
@@ -131,15 +141,21 @@ IV.- Nombrar y remover libremente a sus representantes en las Comisiones Agraria
 
 V.- Expedir los nombramientos a los miembros de los Comités Particulares Ejecutivos que elijan los grupos solicitantes;
 
-VI.- Poner en conocimiento del Departamento de Asuntos Agrarios y Colonización las irregularidades en que incurran los funcionarios y empleados dependientes de ésta; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+VI.- Poner en conocimiento de la Secretaría de la Reforma Agraria las irregularidades en que incurran los funcionarios y empleados dependientes de ésta; y
 
 VII.- Las demás que esta Ley y otras leyes y reglamentos les señalen.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 10.
 
-El Jefe del Departamento de Asuntos Agrarios y Colonización tiene la responsabilidad política, administrativa y técnica de la dependencia a su cargo ante el Presidente de la República.
+El Secretario de la Reforma Agraria tiene la responsabilidad política, administrativa y técnica de la dependencia a su cargo ante el Presidente de la República.
 
-Son atribuciones del Jefe del Departamento de Asuntos Agrarios y Colonización:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Son atribuciones del Secretario de la Reforma Agraria:
 
 I.- Acordar con el Presidente de la República los asuntos agrarios de su competencia;
 
@@ -177,7 +193,9 @@ XVII.- Informar al Presidente de la República, en los casos en que procedan, la
 
 XVIII.- Decidir sobre los conflictos de competencia territorial entre dos o más delegaciones agrarias;
 
-XIX.- Nombrar y remover al personal técnico y administrativo del Departamento, de acuerdo con las leyes de la materia; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+XIX.- Nombrar y remover al personal técnico y administrativo de la Secretaría, de acuerdo con las leyes de la materia; y
 
 XX.- Las demás que esta Ley y otras leyes y reglamentos le señalen.
 
@@ -187,7 +205,9 @@ Son atribuciones del Secretario de Agricultura y Ganadería:
 
 I.- Determinar los medios técnicos adecuados para el fomento, la explotación y el mejor aprovechamiento de los frutos y recursos de los ejidos, comunidades, nuevos centros de población y colonias, con miras al mejoramiento económico y social de la población campesina;
 
-II.- Incluir en los programas agrícolas, nacionales o regionales, las zonas ejidales que deban dedicarse temporal o definitivamente a los cultivos, que en virtud de las condiciones ecológicas, sean más apropiadas y remunerativos en colaboración con el Departamento de Asuntos Agrarios y Colonización;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+II.- Incluir en los programas agrícolas, nacionales o regionales, las zonas ejidales que deben dedicarse temporal o definitivamente a los cultivos, que en virtud de las condiciones ecológicas, sean más apropiadas y remunerativas en colaboración con la Secretaría de la Reforma Agraria;
 
 III.- Establecer en los ejidos o en las zonas aledañas, campos experimentales agrícolas de acuerdo con las posibilidades del lugar y sistemas de cultivo adecuados a las características de la tenencia de la tierra en las distintas regiones del país;
 
@@ -195,7 +215,9 @@ IV.- Fomentar la integración de la ganadería a la agricultura con plantas forr
 
 V.- Intervenir en la fijación de las reglas generales y determinar las particulares, en su caso, para la explotación de los recursos nacionales agropecuarios y silvícolas, aconsejando las prácticas más provechosas y las técnicas más adecuadas;
 
-VI.- Sostener una política sobre conservación de suelos, bosques y aguas y comprobar directamente o por medio de sus subalternos, la eficacia de los sistemas cuya aplicación se haya dispuesto en coordinación con el Departamento de Asuntos Agrarios y Colonización, a efecto de establecer como una de las obligaciones de los ejidatarios el constante cuidado que deben tener en la preservación y enriquecimiento de estos recursos;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+VI.- Sostener una política sobre conservación de suelos, bosques y aguas y comprobar directamente o por medio de sus subalternos, la eficacia de los sistemas cuya aplicación se haya dispuesto en coordinación con la Secretaría de la Reforma Agraria, a efecto de establecer como una de las obligaciones de los ejidatarios el constante cuidado que deben tener en la preservación y enriquecimiento de estos recursos;
 
 VII.- Coordinar las actividades de sus diversas dependencias en función de los programas agrícolas nacionales, a fin de que concurran a mejorar la agricultura de los ejidos, comunidades y nuevos centros de población y colonias, teniendo en cuenta todas sus particularidades; y
 
@@ -221,13 +243,17 @@ Son atribuciones de los Delegados Agrarios:
 
 A.- En materia de procedimientos y controversias agrarias:
 
-I.- Representar en el territorio de su jurisdicción al Departamento de Asuntos Agrarios y Colonización en los asuntos de la competencia de éste;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+I.- Representar en el territorio de su jurisdicción a la Secretaría de la Reforma Agraria en los asuntos de la competencia de ésta;
 
 II.- Tratar con el Ejecutivo local los problemas agrarios de la competencia de éste;
 
 III.- Presidir las Comisiones Agrarias Mixtas y vigilar que en su funcionamiento se ajusten estrictamente a esta Ley y a las disposiciones agrarias vigentes;
 
-IV.- Dar cuenta al Jefe del Departamento de Asuntos Agrarios y Colonización de las irregularidades en que incurren los miembros de las Comisiones Agrarias Mixtas;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+IV.- Dar cuenta al Secretario de la Reforma Agraria de las irregularidades en que incurren los miembros de las Comisiones Agrarias Mixtas;
 
 V.- Velar, bajo su estricta responsabilidad, por la exacta ejecución de las resoluciones presidenciales;
 
@@ -235,15 +261,21 @@ VI.- Intervenir en la elección, renovación y sustitución de autoridades ejida
 
 VII.- Intervenir en los términos de esta Ley, en las controversias que se susciten en los ejidos y comunidades;
 
-VIII.- Supervisar al personal técnico y administrativo que el Departamento de Asuntos Agrarios y Colonización comisione para la resolución de problemas especiales o extraordinarios, dentro de la jurisdicción de la Delegación;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+VIII.- Supervisar al personal técnico y administrativo que la Secretaría de la Reforma Agraria comisione para la resolución de problemas especiales o extraordinarios, dentro de la jurisdicción de la Delegación;
 
 IX.- Organizar y ordenar la distribución del personal técnico y administrativo de la Delegación; y
 
-X.- Informar periódica y regularmente al Departamento de Asuntos Agrarios y Colonización de todos los asuntos que se tramiten en la Delegación y en todos aquellos que apliquen un cambio o modificación de los derechos ejidales o comunales y de las anomalías o de los obstáculos para la correcta explotación de los bienes, que ocurran en su circunscripción. El Delegado es personalmente responsable de la veracidad de los informes que remita al Departamento de Asuntos Agrarios y Colonización.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+X.- Informar periódica y regularmente a la Secretaría de la Reforma Agraria de todos los asuntos que se tramiten en la Delegación y en todos aquellos que impliquen un cambio o modificación de los derechos ejidales o comunales y de las anomalías de los obstáculos para la correcta explotación de los bienes, que ocurran en su circunscripción. El Delegado es personalmente responsable de la veracidad de los informes que remita a la Secretaría de la Reforma Agraria.
 
 B.- En materia de organización y desarrollo agrarios:
 
-I.- Realizar en su jurisdicción los estudios y las promociones de organización de los campesinos y de la producción agropecuaria regional, o de unidades ejidales y comunales que le encomiende el Departamento de Asuntos Agrarios y Colonización, en coordinación con otras dependencias federales y locales, para lo que dispondrá del número de promotores que se requiera para el cumplimiento de sus funciones;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+I.- Realizar en su jurisdicción los estudios y las promociones de organización de los campesinos y de la producción agropecuaria regional, o de unidas ejidales y comunales que le encomiende la Secretaría de la Reforma Agraria, en coordinación con otras dependencias federales y locales, para lo que dispondrá del número de promotores que se requiere para el cumplimiento de sus funciones
 
 II.- Intervenir en los asuntos correspondientes a la organización y el control técnico y financiero de la producción ejidal en los términos de esta Ley y de otras leyes y reglamentos que rijan en esta materia;
 
@@ -255,13 +287,17 @@ V.- Las demás que esta Ley y otras leyes y reglamentos le atribuyan.
 
 ### CAPITULO TERCERO. Cuerpo Consultivo Agrario
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 14.
 
-El Cuerpo Consultivo Agrario, cuyas funciones se determinan en esta Ley, estará integrado por cinco titulares y contará con el número de supernumerarios que a juicio del Ejecutivo Federal sea necesario. Dos de los miembros titulares del Cuerpo Consultivo actuarán como representantes de los campesinos, y la misma proporción se observará en el caso de los supernumerarios. El Jefe del Departamento de Asuntos Agrarios y Colonización lo presidirá y tendrá voto de calidad. Sólo en casos de ausencia por asuntos oficiales, enfermedad o licencia, podrá uno de los Secretarios Generales suplir al Jefe del Departamento en la Presidencia del Cuerpo Consultivo, en el orden establecido en el Reglamento interior.
+El Cuerpo Consultivo Agrario, cuyas funciones se determinan en esta Ley, estará integrado por cinco titulares y contará con el número de supernumerarios que a juicio del Ejecutivo Federal sea necesario. Dos de los miembros titulares del Cuerpo Consultivo actuarán como representantes de los campesinos, y la misma proporción se observará en el caso de los supernumerarios. El Secretario de la Reforma Agraria lo presidirá y tendrá voto de calidad. Sólo en caso de ausencia por asuntos oficiales, enfermedad o licencia, podrá el subsecretario suplir al Titular de la Secretaría de la Presidencia del Cuerpo Consultivo, en el orden establecido en el Reglamento Interior.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 15.
 
-El Jefe del Departamento de Asuntos Agrarios y Colonización propondrá el Presidente de la República el nombramiento y la remoción de los componentes del Cuerpo Consultivo, quienes deberán llenar los siguientes requisitos:
+El Secretario de la Reforma Agraria, propondrá al Presidente de la República el nombramiento y la remoción de los componentes del Cuerpo Consultivo, quienes deberán llenar los siguientes requisitos:
 
 I.- Ser de reconocida honorabilidad, titulados en una profesión relacionada con las cuestiones agrarias, y contar con una experiencia suficiente a juicio del Presidente de la República;
 
@@ -279,7 +315,9 @@ II.- Revisar y autorizar los planos proyectos correspondientes a los dictámenes
 
 III.- Opinar sobre los conflictos que se susciten con motivo y ejecución de las resoluciones presidenciales a que se refiere la fracción I, cuando haya inconformidad de los núcleos agrarios, procurando un acuerdo previo entre las partes;
 
-IV.- Emitir opinión, cuando el Jefe del Departamento de Asuntos Agrarios y Colonización lo solicite, acerca de las Iniciativas de Ley o los Proyectos de reglamentos que en materia agraria formule el Ejecutivo Federal, así como sobre todos los problemas que expresamente le sean planteados por aquél; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+IV.- Emitir opinión cuando el Secretario de la Reforma Agraria lo solicite, acerca de las iniciativas de la Ley o los Proyectos de reglamentos que en materia agraria formule el Ejecutivo Federal, así como sobre todos los problemas que expresamente le sean planteados por aquél; y
 
 V.- Las demás que esta Ley y otras leyes y reglamentos le señalen.
 
@@ -293,9 +331,11 @@ V.- Las demás que esta Ley y otras leyes y reglamentos le señalen.
 
 Cuando se inicie un expediente de restitución, de dotación de tierras, bosques y aguas, de ampliación de ejidos o de creación de un nuevo centro de población, se constituirá un Comité Particular Ejecutivo con miembros del núcleo de población o grupo solicitante, según el caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 18.
 
-Los Comités Particulares Ejecutivos estarán integrados por un Presidente, un Secretario y un Vocal, con sus respectivos suplentes miembros del grupo solicitante, quienes serán electos en la Asamblea General del núcleo, a la que deberá concurrir un representante de la Comisión Agraria Mixta, preferentemente el vocal Representante de los campesinos, o del Departamento de Asuntos Agrarios y Colonización, según el caso, quedando a cargo de las autoridades la expedición de los nombramientos y credenciales correspondientes, en el término de quince días.
+Los Comités Particulares Ejecutivos estarán integrados por un Presidente, un Secretario y un Vocal, con sus respectivos suplentes miembros del grupo solicitante, quienes serán electos en la Asamblea General del núcleo, a la que deberá concurrir un representante de la Comisión Agraria Mixta, preferentemente el Vocal Representante de los campesinos, o de la Secretaría de la Reforma Agraria, según el caso, quedado a cargo de las autoridades la expedición de los nombramientos y credenciales correspondientes, en el término de quince días.
 
 ###### ARTICULO 19.
 
@@ -447,7 +487,9 @@ I.- No cumplir los acuerdos de la Asamblea General;
 
 II.- Contravenir las disposiciones de esta Ley, las de sus reglamentos y todas aquellas que se relacionen con la tenencia, explotación y aprovechamiento de los Ejidos;
 
-III.- Desobedecer las disposiciones legalmente dictadas por la Secretaría de Agricultura y Ganadería y el Departamento de Asuntos Agrarios y Colonización;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+III.- Desobedecer las disposiciones legalmente dictadas por la Secretaría de Agricultura y Ganadería y la Secretaría de la Reforma Agraria.
 
 IV.- Malversar fondos;
 
@@ -495,9 +537,13 @@ I.- Formular y aprobar el reglamento interior del ejido el que deberá regular e
 
 II.- Elegir y remover los miembros del Comisariado y del Consejo de Vigilancia, de acuerdo con lo dispuesto en esta Ley, y acordar en favor de los mismos un estímulo o recompensa cuando lo considere conveniente, con aprobación del Delegado Agrario;
 
-III.- Formular los programas y dictar las normas necesarias para organizar el trabajo en el ejido, con el objeto de intensificar la producción individual o colectiva del mismo, mejorar los sistemas de comercialización y allegarse los medios económicos adecuados, a través de las instituciones que correspondan con la asistencia técnica y aprobación del Departamento de Asuntos Agrarios y Colonización;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
 
-IV.- Dictar los acuerdos relativos a la forma en que deben disfrutarse los bienes ejidales y de las comunidades, los que deberán ser aprobados y reglamentados, en su caso, por el Departamento de Asuntos Agrarios y Colonización;
+III.- Formular los programas y dictar las normas necesarias para organizar el trabajo en el ejido, con el objeto de intensificar la producción individual o colectiva del mismo, mejorar los sistemas de comercialización y allegarse los medios económicos adecuados, a través de las instituciones que correspondan con la asistencia técnica y aprobación de la Secretaría de la Reforma Agraria;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+IV.- Dictar los acuerdos relativos a la forma en que deben disfrutarse los bienes ejidales y de las comunidades, los que deberán ser aprobados y reglamentados, en su caso, por la Secretaría de la Reforma Agraria;
 
 V.- Promover el establecimiento dentro del ejido, de industrias destinadas a transformar su producción agropecuaria y forestal, así como la participación del mismo en aquéllas que se establezcan en otros ejidos y aprobar las bases de dicha participación;
 
@@ -531,7 +577,9 @@ IV.- Respetar y hacer que se respeten estrictamente los derechos de los ejidatar
 
 V.- Informar a las autoridades correspondientes de toda tentativa de invasión o despojo de terrenos ejidales o comunales por parte de particulares, y especialmente del intento de establecer colonias o poblaciones que pudieran contravenir la prohibición constitucional sobre adquisición, por extranjeros, del dominio de zonas fronterizas y costeras;
 
-VI.- Dar cuenta al Departamento de Asuntos Agrarios y Colonización de todos aquellos asuntos que impliquen un cambio o modificación de los derechos ejidales o comunales;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+VI.- Dar cuenta a la Secretaría de la Reforma Agraria de todos aquellos asuntos que impliquen un cambio o modificación de los derechos ejidales o comunales;
 
 VII.- Administrar los bienes ejidales en los casos previstos por esta Ley, con las facultades de un apoderado general para actos de dominio y administración, con las limitaciones que esta Ley establece; y realizar con terceros las operaciones y contraer las obligaciones previstas en esta Ley;
 
@@ -553,7 +601,9 @@ XV.- Formar parte del Consejo de Administración, y vigilancia de las sociedades
 
 XVI.- Dar cuenta a las asambleas generales de las labores efectuadas, del movimiento de fondos y de las iniciativas que se juzguen convenientes;
 
-XVII.- Dar cuenta al Departamento de Asuntos Agrarios y Colonización y a la Secretaría de Agricultura y Ganadería, cuando se pretenda cambiar el sistema de explotación, organización del trabajo y prácticas de cultivo, así como de los obstáculos que existan para la correcta explotación de los bienes;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+XVII.- Dar cuenta a la Secretaría de la Reforma Agraria y a la Secretaría de Agricultura y Ganadería, cuando se pretenda cambiar el sistema de explotación, organización del trabajo y prácticas de cultivo, así como de los obstáculos que existan para la correcta explotación de los bienes;
 
 XVIII.- Informar a la Asamblea General cuando un ejidatario deje de cultivar la unidad de dotación individual en un ciclo agrícola o durante dos años consecutivos, sin causa justificada;
 
@@ -575,7 +625,9 @@ III.- Contratar a cargo del ejido, los servicios de personas que lo auxilien en 
 
 IV.- Comunicar a la Delegación Agraria todos aquellos asuntos que impliquen un cambio o modificación de los derechos ejidales o comunales;
 
-V.- Informar al Departamento de Asuntos Agrarios y Colonización y a la Secretaría de Agricultura y Ganadería los obstáculos para la correcta explotación de los bienes, así como cuando se pretenda cambiar el sistema de explotación, prácticas de cultivo, etc., si el Comisariado no informa sobre tales hechos;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+V.- Informar a la Secretaría de la Reforma Agraria y la Secretaría de Agricultura y Ganadería los obstáculos para la correcta explotación de los bienes, así como cuando se pretenda cambiar el sistema de explotación, prácticas de cultivo, etc., si el Comisariado no informa sobre tales hechos.
 
 VI.- Convocar a Asamblea General cuando no lo haga el Comisariado y firmar de recibida la siguiente convocatoria en su caso;
 
@@ -583,9 +635,11 @@ VII.- Suplir automáticamente al Comisariado en el caso previsto por el artícul
 
 VIII.- Las demás que esta Ley y otras leyes y reglamentos le señalen.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 50.
 
-Son nulos los convenios y contratos que celebren los Comisariados y Consejos de Vigilancia cuando no sean aprobados por la Asamblea General y, en su caso, por el Departamento de Asuntos Agrarios y Colonización, así como los contratos prohibidos por la Ley.
+Son nulos los convenios y contratos que celebren los Comisariados y Consejos de Vigilancia cuando no sean aprobados por la Asamblea General y, en su caso, por la Secretaría de la Reforma Agraria, así como los contratos prohibidos por la Ley.
 
 Los legalmente realizados tienen plena validez y obligan al ejido o comunidad, aun cuando sus autoridades hayan sido removidas.
 
@@ -629,9 +683,13 @@ I.- La determinación de los volúmenes y gastos se hará teniendo en cuenta lo 
 
 II.- Las aguas se utilizarán de acuerdo con los preceptos que sobre su uso, distribución y aprovechamiento establece esta Ley;
 
-III.- Se cumplirán estrictamente los reglamentos interiores acordados por la Asamblea General y aprobados por el Departamento de Asuntos Agrarios y Colonización; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
 
-IV.- Se cumplirán igualmente las disposiciones generales que sobre distribución y reglamentación de corrientes dicte la Secretaría de Recursos Hidráulicos, así como las disposiciones y resoluciones dictadas por el Departamento de Asuntos Agrarios y Colonización.
+III.- Se cumplirán estrictamente los reglamentos interiores acordados por la Asamblea General y aprobados por la Secretaría de la Reforma Agraria; y
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+IV.- Se cumplirán igualmente las disposiciones generales que sobre distribución y reglamentación de corrientes dicte la Secretaría de Recursos Hidráulicos, así como las disposiciones y resoluciones dictadas por la Secretaría de la Reforma Agraria.
 
 ###### ARTICULO 57.
 
@@ -695,9 +753,11 @@ Igual criterio se seguirá en el caso de que un ejidatario no se presente a part
 
 Tratándose de nuevos centros de población, el plazo de espera será de seis meses.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 69.
 
-Los derechos de ejidatarios, sea cual fuere la forma de explotación que se adopte, se acreditarán con el respectivo certificado de derechos agrarios, que deberá expedirse por el Departamento de Asuntos Agrarios y Colonización en un plazo de seis meses contados a partir de la depuración censal correspondiente.
+Los derechos de ejidatarios, sea cual fuere la forma de explotación que se adopte, se acreditarán con el respectivo certificado de derechos agrarios, que deberá expedirse por la Secretaría de la Reforma Agraria en un plazo de seis meses contados a partir de la depuración censal correspondiente.
 
 ###### ARTICULO 70.
 
@@ -709,9 +769,13 @@ En caso de que ocurran cambios en las condiciones de los terrenos comprendidos d
 
 I.- Si el ejidatario ha mejorado por su propio esfuerzo la calidad de sus tierras, su unidad de dotación no podrá ser reducida y, en consecuencia, conservará todos sus derechos sobre la misma;
 
-II.- Si ha mejorado la calidad de las tierras por trabajos y aportaciones colectivas de los ejidatarios, la Asamblea General decidirá sobre la nueva distribución de las tierras ejidales con intervención y aprobación del Departamento de Asuntos Agrarios y Colonización; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
 
-III.- Si el cambio en la calidad de las tierras no es atribuible a los ejidatarios, el Departamento de Asuntos Agrarios y Colonización fijará la nueva extensión de las unidades de dotación, conforme a las disposiciones de esta Ley.
+II.- Si ha mejorado la calidad de las tierras, por trabajo y aportaciones colectivas de los ejidatarios, la Asamblea General decidirá sobre la nueva distribución de las tierras ejidales con intervención y aprobación de la Secretaría de la Reforma Agraria; y
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+III.- Si el cambio en la calidad de las tierras no es atribuible a los ejidatarios, la Secretaría de la Reforma Agraria fijará la nueva extensión de las unidades de dotación, conforme a las disposiciones de esta Ley.
 
 ###### ARTICULO 72.
 
@@ -791,9 +855,11 @@ Queda prohibido el acaparamiento de unidades de dotación por una sola persona. 
 
 Para los efectos de derechos agrarios, el matrimonio se entenderá celebrado bajo régimen de separación de bienes.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 79.
 
-Una unidad de dotación puede permutarse por otra. Cuando la permuta se efectúe dentro del mismo ejido, bastará la conformidad de los interesados, la aprobación de la Asamblea General, y su notificación al Departamento de Asuntos Agrarios y Colonización.
+Una unidad de dotación puede permutarse por otra. Cuando la permuta se efectúe dentro del mismo ejido, bastará la conformidad de los interesados, la aprobación de la Asamblea General y su notificación a la Secretaría de la Reforma Agraria.
 
 ###### ARTICULO 80.
 
@@ -877,17 +943,21 @@ La suspensión de los derechos de un ejidatario sólo podrá decretarse por reso
 
 ### CAPITULO TERCERO. Zona de Urbanización
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 90.
 
-Toda resolución presidencial dotatoria de tierras deberá determinar la constitución de la zona de urbanización ejidal, la que se localizará preferentemente en las tierras que no sean de labor. Cuando un poblado ejidal carezca de fundo legal constituido conforme a las leyes de la materia, o de zona de urbanización concedida por resolución agraria, y se asiente en terrenos ejidales, si el Departamento de Asuntos Agrarios y Colonización lo considera convenientemente localizado, deberá dictarse resolución presidencial a efecto de que los terrenos ocupados por el caserío queden legalmente destinados a zona de urbanización.
+Toda resolución presidencial dotatoria de tierras deberá determinar la constitución de la zona de urbanización ejidal, la que se localizará preferentemente en las tierras que no sean de labor. Cuando un poblado ejidal carezca de fundo legal constituido conforme a las leyes de la materia, o de zona de urbanización concedida por resolución agraria, y se asiente en terrenos ejidales, si la Secretaría de la Reforma Agraria lo considera convenientemente localizado, deberá dictarse resolución presidencial a efecto de que los terrenos ocupados por el caserío queden legalmente destinados a zona de urbanización.
 
 ###### ARTICULO 91.
 
 La extensión de la zona de urbanización se determinará conforme a los requerimientos reales al momento en que se constituya y previendo en forma prudente su futuro crecimiento. Será indispensable, en todo caso, justificar la necesidad efectiva de constituir la zona de urbanización para satisfacer necesidades propias de los campesinos, y no las de poblados o ciudades próximas a los ejidos.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 92.
 
-Las zonas de urbanización se deslindarán y fraccionarán reservándose las superficies para los servicios públicos de la comunidad, de acuerdo con los estudios y proyectos que apruebe el Departamento de Asuntos Agrarios y Colonización.
+Las zonas de urbanización se deslindarán y fraccionarán reservándose las superficies para los servicios públicos de la comunidad, de acuerdo con los estudios y proyectos que apruebe la Secretaría de la Reforma Agraria.
 
 ###### ARTICULO 93.
 
@@ -895,13 +965,17 @@ Todo ejidatario tiene derecho a recibir gratuitamente, como patrimonio familiar,
 
 El ejidatario o avecindado a quien se haya asignado un solar en la zona de urbanización y lo pierda o lo enajene, no tendrá derecho a que se le adjudique otro.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 94.
 
-Los ejidatarios tendrán la obligación de ocupar el solar y construir en él. Para este efecto, el Departamento de Asuntos Agrarios y Colonización por sí o en coordinación con los organismos oficiales correspondientes, deberá proporcionar proyectos de construcción adecuados a cada zona y la asistencia técnica necesaria.
+Los ejidatarios tendrán la obligación de ocupar el solar y construir en él. Para este efecto, la Secretaría de la Reforma Agraria por si o en coordinación con los organismos oficiales correspondientes, deberá proporcionar proyectos de construcciones adecuadas a cada zona y la asistencia técnica necesaria.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 95.
 
-Los contratos de arrendamiento o de compra venta de solares que el núcleo de población celebre, deberán ser aprobados en Asamblea General y por el Departamento de Asuntos Agrarios y Colonización, el cual vigilará el exacto cumplimiento de dichos contratos, de acuerdo con los preceptos contenidos en este capítulo.
+Los contratos de arrendamiento o de compraventa de solares que el núcleo de población celebre, deberán ser aprobados en Asamblea General y por la Secretaría de la Reforma Agraria, la cual vigilará el exacto cumplimiento de dichos contratos, de acuerdo con los preceptos contenidos en este capítulo.
 
 ###### ARTICULO 96.
 
@@ -921,9 +995,11 @@ Los compradores de solares que no llegaren a adquirir el dominio pleno sobre ell
 
 El solar que el ejidatario haya adquirido, que quede vacante por falta de heredero o sucesor legal, volverá a la propiedad del núcleo de población correspondiente, para que la Asamblea General lo adjudique a campesinos que carezcan de él, de conformidad con el artículo 72 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 100.
 
-El Departamento de Asuntos Agrarios y Colonización expedirá los certificados de derechos a solar que garantice la posesión, tanto a ejidatarios como a no ejidatarios, y cuando cumplan con todos los requisitos fijados en este capítulo se les expedirán los correspondientes títulos de propiedad; éstos se inscribirán en el Registro Agrario Nacional y en el Registro Público de la Propiedad de la entidad correspondiente.
+La Secretaría de la Reforma Agraria expedirá los certificados de derechos a solar que garantice la posesión, tanto a ejidatarios como a no ejidatarios, y cuando cumplan con todos los requisitos fijados en este capítulos se les expedirán los correspondientes títulos de propiedad; éstos se inscribirán en el Registro Agrario Nacional y en el Registro público de la Propiedad de la entidad correspondiente.
 
 ### CAPÍTULO CUARTO. Parcela Escolar
 
@@ -937,7 +1013,9 @@ Las escuelas rurales que no dispongan de parcela escolar, tendrán preferencia a
 
 La parcela escolar deberá destinarse a la investigación, enseñanza y prácticas agrícolas de la escuela rural a que pertenezcan. Deberá procurarse que en la misma se realice una explotación intensiva, que responda tanto a la enseñanza escolar, como a las prácticas agrícolas y científicas que se realicen en favor de los ejidatarios.
 
-La explotación y distribución de los productos que se obtengan de las parcelas escolares, deberán hacerse de acuerdo con el reglamento que dicte el Departamento de Asuntos Agrarios y Colonización, oyendo la opinión de las Secretarías de Educación Pública y de Agricultura y Ganadería, pero en todo caso los productos se destinarán preferentemente a satisfacer las necesidades de la escuela y a impulsar la agricultura del propio ejido.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+La explotación y distribución de los productos que se obtengan de las parcelas escolares, deberán hacerse de acuerdo con el reglamento que dicte la Secretaría de la Reforma Agraria, oyendo la opinión de la Secretaría de Educación Pública y de Agricultura y Ganadería, pero en todo caso los productos se destinarán preferentemente a satisfacer las necesidades de la escuela y a impulsar la agricultura del propio ejido.
 
 ### CAPITULO QUINTO. Unidad agrícola industrial para la mujer
 
@@ -1007,9 +1085,11 @@ I.- Que de acuerdo con los estudios técnicos que se realicen, se llegue a la co
 
 II.- Que los ejidos resultantes no queden constituidos por menos de veinte capacitados.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 111.
 
-Se concederá la fusión de varios ejidos cuando de los estudios técnicos y económicos que practique el Departamento de Asuntos Agrarios y Colonización de oficio o a petición de los núcleos interesados, y oyendo la opinión del Banco Oficial que los refaccione, se compruebe que es conveniente dicha fusión para la mejor organización de los ejidatarios y el desarrollo de un plan de explotación agropecuario benéfico para la economía ejidal.
+Se concederá la fusión de varios ejidos cuando los estudios técnicos y económicos que practiquen la Secretaría de la Reforma Agraria de oficio o a petición de los núcleos interesados, y oyendo la opinión del banco oficial que los refaccione, se compruebe que es conveniente dicha fusión para la mejor organización de los ejidatarios y el desarrollo de un plan de explotación agropecuario benéfico para la economía ejidal.
 
 ### CAPITULO OCTAVO. Expropiación de bienes ejidales y comunales
 
@@ -1037,9 +1117,11 @@ VIII.- La superficie necesaria para la construcción de obras hidráulicas, cami
 
 IX.- Las demás previstas por las leyes especiales.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 113.
 
-En ningún caso podrán expropiarse bienes ejidales o comunales sin la intervención del Jefe del Departamento de Asuntos Agrarios y Colonización.
+En ningún caso podrán expropiarse bienes ejidales o comunales sin la intervención del Secretario de la Reforma Agraria.
 
 ###### ARTICULO 114.
 
@@ -1069,7 +1151,9 @@ Las expropiaciones de bienes ejidales y comunales para obras de servicios social
 
 Las expropiaciones de bienes ejidales o comunales que tengan por objeto crear fraccionamientos urbanos o suburbanos, se harán indistintamente a favor del Banco Nacional de Obras y Servicios Públicos, S. A., del Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular, o del Departamento del Distrito Federal y, cuando el objeto sea la regularización de las áreas en donde existan asentamientos humanos irregulares se harán en su caso, en favor de la Comisión para la Regularización de la Tenencia de la Tierra, según se determine en el Decreto respectivo, el cual podrá facultar a dichas dependencias para efectuar el fraccionamiento y venta de los lotes urbanizados o regularizados. Hechas las deducciones por concepto de intereses y gastos de administración en los términos del artículo siguiente, las utilidades quedarán a favor del Fondo Nacional de Fomento Ejidal, el que entregará a los ejidatarios afectados la proporción dispuesta en el artículo 122.
 
-A cuenta de las utilidades previsibles del fraccionamiento, con autorización del Departamento de Asuntos Agrarios y Colonización, podrán entregarse a los ejidatarios o comuneros expropiados, anticipos en efectivo.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+A cuenta de la utilidades previsibles del fraccionamiento con autorización de la Secretaría de la Reforma Agraria, podrán entregarse a los ejidatarios o comuneros expropiados, anticipos en efectivo.
 
 Al realizar los fraccionamientos a que se refiere este artículo, el organismo de que se trate destinará las áreas convenientes para el incremento de la vivienda popular.
 
@@ -1087,9 +1171,11 @@ Cuando el Presidente de la República, atendiendo a las circunstancias que en ca
 
 Las expropiaciones para establecer empresas que aprovechen recursos naturales del ejido, sólo procederán cuando se compruebe que el núcleo agrario no puede por sí, con auxilio del Estado o en asociación con los particulares, llevar a cabo dicha actividad empresarial; en este caso sus integrantes tendrán preferencia para ser ocupados en los trabajos de instalación y operación de la empresa de que se trate.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 120.
 
-Las mismas reglas establecidas en el artículo anterior se aplicarán cuando el otorgamiento de una concesión de explotación de recursos naturales pertenecientes a la Nación obligue a expropiar, ocupar o inutilizar terrenos ejidales o comunales. En este caso, además de la indemnización correspondiente, el núcleo agrario tendrá derecho a percibir las regalías y demás prestaciones que deba otorgar el concesionario, quien estará obligado a celebrar los convenios que fijen las leyes, los cuales quedarán sujetos a la aprobación del Departamento de Asuntos Agrarios y Colonización.
+Las mismas reglas establecidas en el artículo anterior se aplicarán cuando el otorgamiento de una concesión de explotación de recursos naturales pertenecientes a la nación obligue a expropiar, ocupar o inutilizar, terrenos ejidales o comunales. En este caso, además de la indemnización correspondiente, el núcleo agrario tendrá derecho a percibir las regalías y demás prestaciones que deba otorgar el concesionario, quien estará obligado a celebrar los convenios que fijen las leyes, los cuales quedarán sujetos a la aprobación de la Secretaría de la Reforma Agraria.
 
 ###### ARTICULO 121.
 
@@ -1105,7 +1191,9 @@ La indemnización corresponderá en todo caso al núcleo de población.
 
 Si la expropiación es total y trae como consecuencia la desaparición del núcleo agrario como tal, la indemnización se sujetará a las siguientes reglas:
 
-I.- Si la causa de la expropiación es alguna de las señaladas en las fracciones I, II, III, IV, V, VII y VIII del artículo 112 el monto de la indemnización se destinará a adquirir tierras equivalentes en calidad y extensión a las expropiadas, donde se reconstituirá el núcleo agrario. Sin embargo, si las dos terceras partes de los ejidatarios decidieran en Asamblea General convocada al efecto, no adquirir tierras, sino crear en el mismo poblado fuentes de trabajo permanentes conectadas o no con la agricultura, la misma asamblea formulará un plan de inversiones que someterá a la aprobación del Departamento de Asuntos Agrarios y Colonización, cuya base será el importe de la indemnización; y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+I.- Si la causa de la expropiación es alguna de las señaladas en las fracciones I, II, III, IV, V, VII y VIII del Artículo 112 el monto de la indemnización se destinará a adquirir tierras equivalentes en calidad y extensión a las expropiadas, donde se reconstituirá el núcleo agrario. Sin embargo, si las dos terceras partes de los ejidatarios decidieran en Asamblea General convocada al efecto, no adquirir tierras, sino crear en el mismo poblado fuentes de trabajo permanentes conectadas o no con la agricultura, la misma asamblea formulará un plan de inversiones que someterá a la aprobación de la Secretaría de la Reforma Agraria, cuya base será el importe de la indemnización; y
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -1119,9 +1207,11 @@ Tratándose de las expropiaciones cuyo objeto sea la regularización de la tenen
 
 En cualquier caso la indemnización en efectivo deberá destinarse a los fines señalados y bajo las condiciones previstas en la fracción I de este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 123.
 
-Si la expropiación es parcial y recae en bienes que se explotaban colectivamente, o de uso común, la indemnización que reciba el núcleo se destinará a la adquisición de tierras para completar el ejido o para inversiones productivas directas, dentro de un programa de desarrollo agropecuario que formule la Asamblea General y apruebe el Departamento de Asuntos Agrarios y Colonización.
+Si la expropiación es parcial y recae en bienes que se explotaban colectivamente, o de uso común la indemnización que reciba el núcleo se destinará a la adquisición de tierras para completar el ejido o para inversiones productivas directas, dentro de un programa de desarrollo agropecuario que formule la Asamblea General y apruebe la Secretaría de la Reforma Agraria.
 
 Si la superficie expropiada comprendía unidades de dotación trabajadas individualmente, la indemnización se aplicará a elección de los ejidatarios afectados, a adquirir tierras para reponer las superficies expropiadas o en inversiones productivas dentro o fuera del ejido, en los términos de la fracción primera del artículo 122. Cuando la expropiación a que se refiere este párrafo se realice para fines de urbanización, se estará a lo dispuesto en el artículo anterior.
 
@@ -1129,9 +1219,11 @@ Si la superficie expropiada comprendía unidades de dotación trabajadas individ
 
 En todo caso, el pago de indemnización por bienes distintos a la tierra, tales como casa habitación, huertos y corrales, se hará de inmediato a cada uno de los ejidatarios en lo individual.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 125.
 
-El Fondo Nacional de Fomento Ejidal está obligado a ejecutar en el término de un año los planes de inversiones individuales o colectivos que haya aprobado el Departamento de Asuntos Agrarios y Colonización; en caso contrario, los ejidatarios colectivamente o en lo individual podrán retirar en efectivo el importe de la indemnización.
+El Fondo Nacional de Fomento Ejidal está obligado a ejecutar en el término de un año los planes de inversiones individuales o colectivos que haya aprobado la Secretaría de la Reforma Agraria; en caso contrario, los ejidatarios colectivamente o en lo individual podrán retirar en efectivo el importe de la indemnización.
 
 En tanto se realizan los planes de inversión, el Fondo debe proporcionar a los ejidatarios de los intereses que produzca el monto de la indemnización, las sumas necesarias para su subsistencia.
 
@@ -1155,9 +1247,11 @@ Los titulares de las dependencias y organismos oficiales, que dentro de sus atri
 
 Las prerrogativas, derechos preferentes, formas de organización y garantías económicas y sociales que se establecen en este libro, se mencionen o no expresamente, se entenderán otorgados por igual a ejidatarios, comuneros y pequeños propietarios de predios equivalentes a la unidad mínima de dotación individual en los ejidos.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 130.
 
-Los ejidos provisionales o definitivos y las comunidades podrán explotarse en forma individual o colectiva. La explotación colectiva de todo un ejido sólo podrá ser acordada o revocada por el Presidente de la República, previa elaboración de los estudios técnicos necesarios por el Departamento de Asuntos Agrarios y Colonización; en todo caso deberá mediar solicitud de los núcleos interesados aprobada en Asamblea General por las dos terceras partes de sus integrantes con excepción de los casos a que se refiere el artículo 131.
+Los ejidos provisionales o definitivos y las comunidades podrán explotarse en forma individual o colectiva. La explotación colectiva de todo un ejido sólo podrá ser acordada o revocada por el Presidente de la República, previa elaboración de los estudios técnicos necesarios por la Secretaría de la Reforma Agraria; en todo caso deberá mediar solicitud de los núcleos interesados aprobada en Asamblea General por las dos terceras partes de sus integrantes con excepción de los casos a que se refiere el Artículo 131.
 
 ###### ARTICULO 131.
 
@@ -1171,11 +1265,13 @@ III.- Cuando se trate de ejidos que tengan cultivos cuyos productos están desti
 
 IV.- Cuando se trate de los ejidos forestales y ganaderos a que se refiere el artículo 225.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 132.
 
-El Departamento de Asuntos Agrarios y Colonización dictará las normas para la organización de los ejidos, de los nuevos centros de población y de los núcleos que de hecho o por derecho guarden estado comunal.
+La Secretaría de la Reforma Agraria dictará las normas para la organización de los ejidos, de los nuevos centros de población y de los núcleos que de hecho o por derecho guarden estado comunal.
 
-El Departamento de Asuntos Agrarios y Colonización podrá delegar la función de organización ejidal en las instituciones bancarias oficiales y los organismos descentralizados. En el acuerdo que con tal objeto se dicte, delimitarán las zonas ejidales cuya organización se encomiende; el Departamento estará obligado a vigilar estos trabajos.
+La Secretaría de la Reforma Agraria podrá delegar la función de organización ejidal en las instituciones bancarias oficiales y los organismos descentralizados. En el acuerdo que con tal objeto se dicte, delimitarán las zonas ejidales cuya organización se encomiende; la Secretaría estará obligada a vigilar estos trabajos.
 
 ###### ARTICULO 133.
 
@@ -1217,11 +1313,15 @@ a) Los ejidatarios podrán emplear libremente la madera muerta para usos domést
 
 b) Tratándose de maderas vivas que deban utilizarse en la construcción de habitaciones, edificios y, en general, en obras de beneficio colectivo, el Comisariado deberá obtener el permiso de las autoridades competentes; y
 
-c) La explotación comercial de los montes o bosques propiedad de ejidos o comunidades agrícolas o forestales, así como la transformación industrial de sus productos, deberá hacerse directamente por el ejido o comunidad, previo acuerdo de la Asamblea General. Cuando las inversiones que se requieran rebasen la capacidad económica del ejido o comunidad, si alguna empresa oficial o de participación estatal, en primer lugar, o alguna empresa privada, ofreciere condiciones ventajosas para el ejido o comunidad, podrá la Asamblea acordar la explotación, conforme a contratos debidamente autorizados por el Departamento de Asuntos Agrarios y Colonización, siempre que garanticen plenamente los intereses de ejidatarios o comuneros.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+c).- La explotación comercial de los montes o bosques propiedad de ejidos o comunidades agrícolas o forestales, así como la transformación industrial de sus productos, deberá hacerse directamente por el ejido o comunidad, previo acuerdo de la Asamblea General. Cuando las inversiones que se requieran rebasen la capacidad económica del ejido o comunidad, si alguna empresa oficial o de participación estatal, en primer lugar, o alguna empresa privada, ofreciere condiciones ventajosas para el ejido o comunidad, podrá la Asamblea acorda (sic) la explotación conforme a contratos debidamente autorizados por la Secretaría de la Reforma Agraria, siempre que garanticen plenamente los intereses de ejidatarios o comuneros.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 139.
 
-Cuando se resuelva la explotación colectiva, la Asamblea deberá dictar las disposiciones relativas a la forma como los ejidatarios deben trabajar y participar en la explotación de todos los recursos del ejido, acuerdos que deberán ser aprobados por el Departamento de Asuntos Agrarios y Colonización.
+Cuando se resuelva la explotación colectiva, la Asamblea deberá dictar las disposiciones relativas a la forma como los ejidatarios deben trabajar y participar en la explotación de todos los recursos del ejido, acuerdos que deberán ser aprobados por la Secretaría de la Reforma Agraria.
 
 De igual manera se establecerá que con las utilidades obtenidas se instalen reservas de capital de trabajo, y para fines de mutualidad, previsión social, servicios y obras de beneficio común.
 
@@ -1241,21 +1341,27 @@ Los ejidos o ejidatarios que exploten intensivamente en sus terrenos plantas for
 
 Los mismos beneficios tendrán aquellos que exploten intensivamente la agricultura, y sus sub-productos los destinen a la cría o engorda de ganado.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 143.
 
-En los ejidos colectivos los trabajadores agrícolas o de plantas industriales y los familiares de los ejidatarios que hayan trabajado de manera permanente por dos años consecutivos, podrán ser incluidos como ejidatarios, si la capacidad económica del ejido lo permite y si así lo acordara en Asamblea General extraordinaria por considerar que se logra la unidad del grupo productor, una mejor organización del trabajo o la distribución más conveniente de las utilidades. La solicitud se presentará ante el Departamento de Asuntos Agrarios y Colonización y el Jefe la llevará a acuerdo del Presidente de la República.
+En los ejidos colectivos los trabajadores agrícolas o de plantas industriales y los familiares de los ejidatarios que hayan trabajado de manera permanente por dos años consecutivos, podrán ser incluidos como ejidatarios, si la capacidad económica del ejido lo permite y así lo acordara en Asamblea General extraordinaria por considerar que se logra la unidad del grupo productor, una mejor organización del trabajo o la distribución más conveniente de las utilidades. La solicitud se presentará ante la Secretaría de la Reforma Agraria y el Secretario la llevará a acuerdo del Presidente de la República.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 144.
 
-La explotación industrial y comercial de los recursos no agrícolas, ni pastales, ni forestales de los ejidos o comunidades, especialmente aquellos que puedan aprovecharse para el turismo, la pesca o la minería, sólo podrá efectuarse por la administración del ejido en beneficio del núcleo de población, directamente o en asociación en participación con terceros, con sujeción a lo dispuesto por esta Ley y conforme a las autorizaciones que en cada caso acuerden la Asamblea General y el Departamento de Asuntos Agrarios y Colonización.
+La explotación industrial y comercial de los recursos no agrícolas, ni pastales, ni forestales de los ejidos o comunidades, especialmente aquellos que puedan aprovecharse para el turismo, la pesca o la minería, sólo podrá efectuarse por la administración del ejido en beneficio del núcleo de población, directamente o en asociación en participación con terceros, con sujeción a lo dispuesto por esta Ley y conforme a las autorizaciones que en cada caso acuerden la Asamblea General y al Secretaría de la Reforma Agraria.
 
 ###### ARTICULO 145.
 
 Los contratos que los ejidos celebren con terceras personas para la explotación de cualquier tipo de recursos de acuerdo con lo dispuesto por esta Ley; podrán formularse hasta por un año y ser prorrogados con las condiciones que fija el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 146.
 
-Dos o más ejidos podrán asociarse para el efecto de colaborar en la producción e integrar unidades agropecuarias que permitan la inversión regional de importantes volúmenes de capital. El Departamento de Asuntos Agrarios y Colonización y la Secretaría de Agricultura y Ganadería, así como los bancos oficiales, podrán implantar en estos casos programas especiales de organización, asistencia técnica y crédito para apoyar el desarrollo de las uniones de ejidos o comunidades.
+Dos o más ejidos podrán asociarse para el efecto de colaborar en la producción e integrar unidades agropecuarias que permitan la inversión regional de importantes volúmenes de capital. La Secretaría de la Reforma Agraria y la Secretaría de Agricultura y Ganadería, así como los bancos oficiales, podrán implantar en estos casos programas especiales de organización, asistencia técnica y crédito para apoyar el desarrollo de las uniones de ejidos o comunidades.
 
 ###### ARTICULO 147.
 
@@ -1269,15 +1375,19 @@ Las Leyes correspondientes y sus Reglamentos serán aplicables únicamente en lo
 
 Todo ejido, comunidad y pequeña propiedad cuya superficie no exceda la extensión de la unidad mínima individual de dotación ejidal, tienen derecho preferente a asistencia técnica, a crédito suficiente y oportuno, a las tasas de interés más bajas y a los plazos de pago más largos que permita la economía nacional y, en general, a todos los servicios oficiales creados por el Estado para la protección de los campesinos y el fomento de la producción rural.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 149.
 
-Los ejidos y comunidades tienen derecho preferente a la asistencia de profesionales y técnicos en producción agropecuaria y administración, que proporcionen el Departamento de Asuntos Agrarios y Colonización y otras dependencias oficiales.
+Los ejidos y comunidades tienen derecho preferente a la asistencia de profesionales y técnicos en producción agropecuaria y administración, que proporcionen la Secretaría de la Reforma Agraria y otras dependencias oficiales.
 
 Cuando la Asamblea General considere que la colaboración y servicios de los técnicos particulares contratados por el ejido o de los asesores residentes comisionados por el Gobierno han producido buenos resultados, podrá acordarles una remuneración adicional, a partir de cierta productividad superior a la obtenida por el ejido en ciclos inmediatamente anteriores. Este acuerdo podrá ser revocado en cualquier tiempo por la Asamblea.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 150.
 
-Los ejidos podrán establecer centrales de maquinaria, por sí o en asociación con otros ejidos, para proporcionar servicios a sus explotaciones; en ambos casos las operaciones serán reglamentadas por la Asamblea, con aprobación del Departamento de Asuntos Agrarios y Colonización. Cuando esto no sea posible, el Estado procurará su establecimiento y dará el servicio a través de alquileres o maquilas mediante tasas económicas.
+Los ejidos podrán establecer centrales de maquinaria, por si en asociación con otros ejidos, para proporcionar servicios a sus explotaciones; en ambos casos las operaciones serán reglamentadas por la Asamblea, con aprobación de la Secretaría de la Reforma Agraria. Cuando esto no sea posible, el Estado procurará su establecimiento y dará el servicio a través de alquiles o maquinas mediante tasas económicas.
 
 ###### ARTICULO 151.
 
@@ -1287,9 +1397,11 @@ Las instituciones y empresas productoras de semillas mejoradas están obligadas 
 
 Las empresas estatales o de participación estatal productoras de maquinaria e implementos agrícolas, fertilizantes, insecticidas, semillas, alimentos y medicamentos veterinarios y, en general, de productos que se usen o apliquen directamente en labores de explotación agropecuaria, estarán obligadas a canalizar directamente sus productos al ejido o a los ejidos asociados. Cuando la organización de los ejidos garantice los intereses fundamentales de la distribución, éstos tendrán preferencia para ser concesionarios.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 153.
 
-La Secretaría de Agricultura y Ganadería y el Departamento de Asuntos Agrarios y Colonización, darán atención preferente a los servicios de asistencia técnica, mejoramiento pecuario, fabricación o compra de alimentos concentrados, como corrales de engorda y aprovechamiento industrial que demande el desarrollo de la ganadería mayor y menor de ejidos y comunidades.
+La Secretaría de Agricultura y Ganadería y la Secretaría de la Reforma Agraria, darán atención preferente a los servicios de asistencia técnica, mejoramiento pecuario, fabricación o compra de alimentos concentrados, como corrales de engorda y aprovechamiento industrial que demande el desarrollo de la ganadería mayor y menor de ejidos y comunidades.
 
 ###### ARTICULO 154.
 
@@ -1301,7 +1413,9 @@ Los ejidos y comunidades estarán obligados a la conservación y cuidado de los 
 
 El crédito deberá proporcionarse a los ejidos preferentemente por los bancos del sistema nacional de crédito oficial y las demás instituciones similares que se lleguen a establecer, de acuerdo con sus respectivas leyes; por las financieras oficiales y el Fondo Nacional de Fomento Ejidal, cuando se les encomiende alguna actividad de organización de la producción agropecuaria o de industrias conexas con la producción ejidal y por las instituciones descentralizadas del Estado a las que se les encomiende el suministro de créditos.
 
-El Departamento de Asuntos Agrarios y Colonización en los ejidos que no operen con las instituciones indicadas, podrá intervenir y aprobar en su caso, las operaciones de préstamos no institucional que aquellos celebren, a fin de evitar tasas usurarias o condiciones perjudiciales para los ejidatarios.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+La Secretaría de la Reforma Agraria en los ejidos que no operen con las instituciones indicadas, podrán intervenir y aprobar, en su caso, las operaciones de préstamo no institucional que aquellos celebren, a fin de evitar tasas usuarias o condiciones perjudiciales para los ejidatarios.
 
 ###### ARTICULO 156.
 
@@ -1373,7 +1487,9 @@ I.- Trabajos de conservación de suelos y de aprovechamiento de aguas para obras
 
 II.- Adquisición de maquinaria, implementos de labranza, animales de trabajo o de cría, aperos, semillas y fertilizantes;
 
-III.- Constitución del capital de trabajo que acuerde el Departamento de Asuntos Agrarios y Colonización;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+III.- Constitución del capital de trabajo que acuerde la Secretaría de la Reforma Agraria
 
 IV.- Pago de las cuotas de cooperación que se establezcan para el sostenimiento y ampliación de los servicios oficiales de asistencia técnica y seguridad social; y
 
@@ -1381,9 +1497,11 @@ V.- Obras de asistencia social de emergencia.
 
 Queda absolutamente prohibido el empleo de fondos para fines religiosos o políticos. Sólo puede disponerse de recursos pertenecientes al fondo común, con acuerdo de la Asamblea y previa aprobación del Comité Técnico y de Inversión de Fondos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 166.
 
-El fondo común de los ejidos y comunidades deberá depositarse en las oficinas del Banco de México, S. A., o en sus corresponsales, para concentrarse al Fondo Nacional de Fomento Ejidal. El Comisariado lo depositará con intervención del Consejo de Vigilancia y dará aviso del depósito al Fondo Nacional de Fomento Ejidal y a la primera Asamblea General que se efectúe en el ejido después del depósito, notificándolo asimismo y por escrito al Departamento de Asuntos Agrarios y Colonización y a su Delegado en la Entidad.
+El fondo común de los ejidos y comunidades deberá depositarse en las oficinas del Banco de México, S. A., o en sus corresponsables, para concentrarse al Fondo Nacional de Fomento Ejidal. El Comisariado lo depositará con intervención del Consejo de Vigilancia y dará aviso del depósito al Fondo Nacional de Fomento Ejidal y a la primera Asamblea General que se efectúe en el ejido después del depósito, notificandolo asimismo y por escrito a la Secretaría de la Reforma Agraria y a su Delegado en la Entidad.
 
 Por su parte el Banco de México, S. A., informará diariamente al Fondo Nacional de Fomento Ejidal de los depósitos recibidos. Los depósitos que reciba el Banco de México, S. A., por conducto de sus oficinas o corresponsales, deberá acreditarlos debidamente a la Institución Tesorera, en un plazo no mayor de cinco días a partir de la fecha del depósito realizado en sus respectivas oficinas o corresponsales; a su vez, la Institución Tesorera dispondrá de un plazo no mayor de cinco días a partir de la fecha en que reciba el dinero del Banco, para acreditar los depósitos en la cuenta de cada ejido.
 
@@ -1435,23 +1553,29 @@ VIII.- Cuotas de solidaridad que acuerden los Sindicatos Obreros para el sector 
 
 IX.- Los demás recursos que obtenga por cualquier otro concepto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 169.
 
-Se constituye el Comité Técnico y de Inversión de Fondos, para el manejo exclusivo y permanente del Fondo Nacional de Fomento Ejidal, integrado con representantes del Departamento de Asuntos Agrarios y Colonización y de las Secretarías de Agricultura y Ganadería, Hacienda y Crédito Público, Industria y Comercio, de la Nacional Financiera, S. A., y del sector campesino ejidal, este último nombrado por el Ejecutivo Federal.
+Se constituye el Comité Técnico y de Inversión de Fondos, para el manejo exclusivo y permanente del Fondo Nacional de Fomento Ejidal, integrado con representantes de la Secretaría de la Reforma Agraria y de las Secretarías de Agricultura y Ganadería, Hacienda y Crédito Público, industria y Comercio, de la Nacional Financiera, S. A., y del sector campesino ejidal, este último nombrado por el Ejecutivo Federal.
 
 El Comité Técnico y de Inversión de Fondos, estará presidido por el Delegado Fiduciario Especial, designado por la Nacional Financiera, S. A., como Institución Fiduciaria, previo acuerdo del Ejecutivo Federal, mismo que fungirá como Director General del Fondo Nacional de Fomento Ejidal.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 170.
 
-El Fondo Nacional de Fomento Ejidal se entregará en fideicomiso a la Nacional Financiera, S. A., para que esta institución lo represente en los términos de su Reglamento, del contrato de fideicomiso que se celebre y de las normas de operación que formule el Comité Técnico y de Inversión de Fondos, con aprobación del Departamento de Asuntos Agrarios y Colonización y la Secretaría de Hacienda y Crédito Público, así como a lo dispuesto por esta Ley.
+El Fondo Nacional de Fomento Ejidal se entregará en fideicomiso a la Nacional Financiera, S. A., para que esta institución lo represente en los términos de su Reglamento, del contrato del fideicomiso que se celebre y de las normas de operación que formule el Comité Técnico y de Inversión de Fondos, con aprobación de la Secretaría de la Reforma Agraria y la Secretaría de Hacienda y Crédito Público, así como a lo dispuesto por esta Ley.
 
 Asimismo, la Nacional Financiera, S. A., actuará como institución tesorera y agente financiero del Fondo, teniendo la obligación de rendir cuentas mensualmente al Fondo Nacional de Fomento Ejidal por conducto del Comité Técnico y de Inversión de Fondos, el que a su vez informará de la realización de los programas que haya autorizado y de los estados de cuenta a los ejidos depositantes.
 
 ### CAPITULO SEXTO. Comercialización y distribución
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 171.
 
-Los ejidos y las comunidades podrán por sí o agrupados en unión de sociedades de carácter regional, estatal o nacional, hacer la comercialización de uno o varios de sus productos agropecuarios. Dichas entidades se constituirán con intervención del Departamento de Asuntos Agrarios y Colonización y tendrán plena capacidad para realizar las operaciones y contraer las obligaciones relacionadas con su objeto social, ajustándose a lo dispuesto en esta Ley y en los demás ordenamientos que regulen la producción y el comercio de los productos del campo.
+Los ejidos y las comunidades podrán por si agrupados en unión de sociedades de carácter regional, estatal o nacional, hacer la comercialización de uno o varios de sus productos agropecuarios. Dichas entidades se constituirán con intervención de la Secretaría de la Reforma Agraria y tendrán plena capacidad para realizar las operaciones y contraer las obligaciones relacionadas con su objeto social, ajustándose a lo dispuesto en esta Ley y en los demás ordenamientos que regulen la producción y el comercio de los productos del campo.
 
 ###### ARTICULO 172.
 
@@ -1493,13 +1617,17 @@ Todas las dependencias gubernamentales y organismos descentralizados fomentarán
 
 Las industrias rurales a que se refiere el artículo anterior, independientemente de su tipo de producción, se consideran como necesarias y gozarán de todas las garantías y preferencias que establece para éstas la Ley de Industrias Nuevas y Necesarias y las demás disposiciones legales relativas.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 180.
 
-El Departamento de Asuntos Agrarios y Colonización en coordinación con la Secretaría de Industria y Comercio, elaborará planes locales y regionales de desarrollo industrial para el campo, y promoverá la colaboración de las demás dependencias que por la naturaleza de sus funciones puedan coadyuvar a la realización de dichos planes.
+La Secretaría de la Reforma Agraria en coordinación con la Secretaría de Industria y Comercio elaborará planes locales y regionales de desarrollo industrial para el campo, y promoverá la colaboración de las demás dependencias que por la naturaleza de sus funciones puedan coadyuvar a la realización de dichos planes.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 181.
 
-En las regiones donde hayan de ejecutarse los planes a que se refiere el artículo anterior, el Departamento de Asuntos Agrarios y Colonización promoverá ante las autoridades federales y estatales competentes, la realización con carácter preferente, de las obras de infraestructura necesarias.
+En las regiones donde hayan de ejecutarse los planes a que se refiere el artículo anterior, la Secretaría de la Reforma Agraria promoverá ante las autoridades federales y estatales competentes, la realización con carácter preferente, de las obran de infraestructura necesarias.
 
 ###### ARTICULO 182.
 
@@ -1535,13 +1663,17 @@ El Ejecutivo Federal, en coordinación con los gobiernos de los Estados, por con
 
 Las cooperativas de esta naturaleza podrán integrar uniones y federaciones en cada una de las entidades, y gozarán de las mismas prerrogativas que los gobiernos estatales y federal hayan acordado a otras asociaciones de interés social.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 189.
 
-Los ejidos y comunidades tienen derecho preferente a recibir los servicios de los pasantes de carreras universitarias y técnicas que presten servicio social. Las instituciones de enseñanza superior y las dependencias oficiales que intervengan en la prestación de dicho servicio, formarán sus respectivos programas de acción teniendo en cuenta esta prioridad. El Departamento de Asuntos Agrarios y Colonización gestionará la implantación de esta preferencia ante las Universidades; Institutos Tecnológicos y Centros de Enseñanza Superior del País.
+Los ejidos y comunidades tienen derecho preferente a recibir los servicios de los pasantes de carreras universitarias y técnicas que presten servicio social. Las instituciones de enseñanza superior y las dependencias oficiales que intervengan en la prestación de dicho servicio, tomarán sus respectivos programas de acción teniendo en cuenta esta prioridad. La Secretaría de la Reforma Agraria gestionará la implantación de esta preferencia ante las Universidades, Institutos, Tecnológicos y Centros de Enseñanza Superior del país.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 190.
 
-Independientemente de la instrucción primaria que es obligatorio impartir en las escuelas rurales, en los ejidos y comunidades deberán establecerse centros regionales de formación para impartir enseñanza sobre administración rural, agropecuaria, ganadería y otras técnicas relacionadas con el campo; quienes cursen dicha instrucción tendrán, en igualdad de condiciones, preferencia para ser becados en estudios agropecuarios del nivel superior. En los ejidos de cierta importancia se establecerán escuelas prácticas de oficios y artesanías. La Secretaría de Educación Pública coordinará la realización de estos programas con el Departamento de Asuntos Agrarios y Colonización.
+Independientemente de la instrucción primaria que es obligatorio impartir en las escuelas rurales, en los ejidos y comunidades deberán establecer centros regionales de formación para impartir enseñanza sobre administración rural, agropecuaria, ganadería y otras técnicas relacionadas con el campo; quienes cursen dicha instrucción, tendrán en igualdad de condiciones, preferencia para ser becados es estudios agropecuarios de nivel superior. En los ejidos de cierta importancia se establecerán escuelas prácticas de oficios y artesanías. La Secretaría de Educación Pública coordinará la realización de estos programas con la Secretaría de la Reforma Agraria.
 
 En las secundarias técnicas agropecuarias y en las escuelas normales rurales, serán inscritos preferentemente los hijos de campesinos y de maestros rurales que radiquen en las comunidades agrarias.
 
@@ -1695,11 +1827,15 @@ La división y el fraccionamiento así como la transmisión íntegra por cualqui
 
 I.- No producirán efectos los realizados con posterioridad a la fecha de la publicación de la solicitud de restitución, ampliación, dotación, ni de las relativas a nuevos centros de población en las que se señalen los predios afectables, o de la publicación del acuerdo que inicie el procedimiento de oficio, ni los que se realicen con posterioridad a la notificación a que se refiere el artículo 332.
 
-Los propietarios de los predios señalados como afectables en las solicitudes de creación de nuevos centros de población agrícola, podrán ocurrir ante el Departamento de Asuntos Agrarios y Colonización dentro de un plazo de diez días, contados a partir de la fecha en que sean notificados, a exhibir sus títulos de inafectabilidad o bien rendir las pruebas que a juicio de esta autoridad sean bastantes para desvirtuar la afectabilidad atribuida a esos predios, en cuyo caso se mandará tildar la inscripción, de acuerdo con lo dispuesto en el último párrafo del artículo 328.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Los propietarios de los predios señalados como afectables en las solicitudes de creación de nuevos centros de población agrícola, podrán ocurrir ante la Secretaría de la Reforma Agraria dentro de un plazo de días, contados a partir de la fecha en que sean notificados a exhibir sus títulos de inafectabilidad o bien rendir las pruebas que a juicio de esta autoridad sean bastantes para desvirtuar la afectabilidad atribuida a esos predios, en cuyo caso se mandará tildar la inscripción, de acuerdo con lo dispuesto en el último párrafo del Artículo 328.
 
 II.- Si se hubieran hecho con anterioridad a la fecha indicada en la fracción I, se considerarán válidos en los casos siguientes:
 
-a).- Cuando la traslación de dominio en favor de los adquirentes, se haya inscrito en el Registro Público de la Propiedad antes de la fecha indicada, aún mediando autorización del Departamento de Asuntos Agrarios y Colonización para la realización del fraccionamiento.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+a).- Cuando la traslación de dominio en favor de los adquirentes, se hayan inscrito en el Registro Público de la Propiedad antes de la fecha indicada, aun mediando autorización de la Secretaría de la Reforma Agraria para la realización del fraccionamiento.
 
 b).- Cuando sin haberse operado la traslación de dominio en favor de los adquirentes, éstos posean, como dueños, sus fracciones en los términos del artículo 252;
 
@@ -1709,7 +1845,9 @@ a).- Cuando no haya deslinde o señalamiento efectivo sobre el terreno, o cuando
 
 b).- Cuando haya una concentración del provecho o acumulación de beneficios provenientes de la explotación de diversas fracciones, en favor de una sola persona;
 
-c).- Cuando se realice el fraccionamiento de una propiedad afectable, sin la autorización correspondiente del Departamento de Asuntos Agrarios y Colonización; y
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+c).- Cuando se realice el fraccionamiento de una propiedad afectable, sin la autorización correspondiente de la Secretaría de la Reforma Agraria; y
 
 d).- Cuando se fraccione una propiedad afectable, en ventas con reserva de dominio.
 
@@ -1719,11 +1857,15 @@ También se considerará simulado el fraccionamiento cuando el usufructo de dos 
 
 Surtirá efectos en materia agraria la división de una finca, como consecuencia de la aplicación de los bienes de una sucesión a los herederos, si la muerte del autor de la herencia es anterior a la publicación de la solicitud agraria, o a la del acuerdo que inicie de oficio un expediente, y la inscripción de los títulos relativos en el Registro Público de la Propiedad y en el Registro Agrario Nacional se efectúa antes de la fecha de la resolución presidencial, excepto en el caso que se prevé en el artículo 252.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 212.
 
-Para que puedan efectuarse válidamente fraccionamientos de los excedentes, deberá recabarse autorización previa del Departamento de Asuntos Agrarios y Colonización y, si los Estados han legislado sobre el particular, ajustarse a los preceptos que contenga.
+Para que puedan efectuarse válidamente fraccionamientos de los excedentes, deberá recabarse autorización previa de la Secretaría de la Reforma Agraria y, si los Estados han legislado sobre el particular, ajustarse a los preceptos que contenga.
 
-El Departamento sólo otorgará la autorización si el predio está inscrito en el Registro Nacional y han quedado satisfechas las necesidades agrarias de los núcleos de población en cuyo favor puedan afectarse los terrenos objeto del fraccionamiento.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+La Secretaría sólo otorgará la autorización si el predio está inscrito en el Registro Nacional y han quedado satisfechas las necesidades agrarias de los núcleos de población en cuyo favor afectarse los terrenos objeto del fraccionamiento.
 
 En este último caso se tramitarán y resolverán de oficio, en el menor tiempo posible, los expedientes de los referidos núcleos de población.
 
@@ -1843,7 +1985,9 @@ Al dotarse a un núcleo de población con tierras de riego, se fijarán y entreg
 
 Las aguas de propiedad nacional y las de propiedad privada son afectables con fines dotatorios, en los términos de esta ley.
 
-El Departamento de Asuntos Agrarios y Colonización, en coordinación con la Secretaría de Recursos Hidráulicos, tramitará la expedición de resoluciones presidenciales dotatorias de aguas, o las accesiones en su caso, a cada uno de los núcleos de población ejidal localizados o acomodados en los nuevos distritos de riego, con el volumen necesario y suficiente para regar la superficie de cultivo del ejido, calculando dicho volumen con base en el coeficiente de riego neto autorizado por la Secretaría de Recursos Hidráulicos por cada cultivo, conforme al plan de riegos del ciclo agrícola de que se trate.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+La Secretaría de la Reforma Agraria, en coordinación con la Secretaría de Recursos Hidráulicos, tramitará la expedición de resoluciones presidenciales dotatorias de aguas, o las accesiones en su caso, a cada uno de los núcleos de población ejidal localizados o acomodados en los nuevos distritos de riego, con el volumen necesario y suficiente para regar la superficie de cultivo del ejido, calculando dicho volumen con base en el coeficiente de riego neto autorizado por la Secretaría de Recursos Hidráulicos por cada cultivo, conforme al plan de riegos del ciclo agrícola de que se trate
 
 Los derechos del riego a que se refiere la fracción anterior quedan sujetos a lo dispuesto por el artículo 52 de esta Ley.
 
@@ -1851,7 +1995,9 @@ Conforme lo dispone el artículo 59 de esta Ley, el sujeto de derecho en materia
 
 En los ciclos agrícolas en que, por causas de fuerza mayor, los recursos hidráulicos sean insuficientes para atender la demanda del distrito de riego, la distribución de las aguas disponibles se hará en forma equitativa, considerando al núcleo constituido por tantos usuarios como ejidatarios figuren en el censo depurado del propio poblado.
 
-Tratándose de núcleos ejidales de los distritos de riego ya establecidos, el Departamento de Asuntos Agrarios y Colonización se coordinará con la Secretaría de Recursos Hidráulicos, y procederá a consolidar el derecho agrario en materia de aguas, conforme a lo dispuesto en este artículo.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Tratándose de núcleos ejidales de los distritos de riego ya establecidos la Secretaría de la Reforma Agraria se coordinará con la Secretaría de Recursos Hidráulicos, y procederá a consolidar el derecho agrario en materia de aguas, conforme a los dispuesto en este artículo.
 
 ###### ARTICULO 231.
 
@@ -1885,9 +2031,11 @@ En los demás casos, fuentes y obras quedarán en poder de sus dueños, quienes 
 
 Se respetarán las servidumbres de uso y de paso que existan, haya o no expropiación de las fuentes y obras hidráulicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 236.
 
-La conservación y el mantenimiento de las obras hidráulicas y los gastos de distribución del agua serán costeados por los ejidatarios y los propietarios, en proporción a los volúmenes que unos y otros utilicen, y se ajustarán a lo que se establezca en los reglamentos expedidos por la Secretaría de Recursos Hidráulicos, y a las disposiciones que ésta dicte, oyendo el parecer del Departamento de Asuntos Agrarios y Colonización.
+La conservación y el mantenimiento de las obras hidráulicas y los gastos de distribución del agua serán costeados por los ejidatarios y los propietarios, en proporción a los volúmenes que unos y otros utilicen, y se ajustarán a lo que se establezca en los reglamentos expedidos por la Secretaría de Recursos Hidráulicos, y a las disposiciones que ésta dicte oyendo el parecer de la Secretaría de la Reforma Agraria.
 
 La aportación de los ejidatarios para conservación y mantenimiento podrá consistir en mano de obra, salvo el caso de que su condición económica u otra causa plenamente justificada no lo permita.
 
@@ -2017,7 +2165,9 @@ II.- Que la propiedad o posesión se encuentre en explotación y se le haya expe
 
 III.- Que el propietario no tenga otra extensión de tierras además de la amparada con el certificado, y si la tiene, que la extensión de la misma sumada a la superficie amparada con el certificado de inafectabilidad no exceda de los límites señalados en el artículo 249; y
 
-IV.- Que se haya dado aviso al Departamento de Asuntos Agrarios y Colonización y al Registro Agrario Nacional de la iniciación y conclusión de las obras de mejoramiento, presentando los planos, proyectos o documentos necesarios.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+IV.- Que se haya dado aviso a la Secretaría de la Reforma Agraria y al Registro Nacional de la iniciación y conclusión de las obras de mejoramiento presentando los planos, proyectos o documentos necesarios.
 
 El Registro Agrario Nacional anotará la nueva clasificación de las tierras de la propiedad inafectable y expedirá, a solicitud y a costa de los interesados, las constancias correspondientes.
 
@@ -2047,7 +2197,9 @@ No se considerará en este último caso, a quienes conservando el ganado que se�
 
 El área de la pequeña propiedad ganadera inafectable se determinará por los estudios técnicos de campo que se realicen de manera unitaria en cada predio por la Delegación Agraria, con base en los de la Secretaría de Agricultura y Ganadería por regiones y en cada caso. Para estos estudios, se tomará en cuenta la capacidad forrajera necesaria para alimentar una cabeza de ganado mayor o su equivalente en ganado menor, atendiendo los factores topográficos, climatológicos y pluviométricos.
 
-Los estudios señalados se confrontarán con los que haya proporcionado el solicitante y con base en todo lo anterior el Departamento de Asuntos Agrarios y Colonización formulará proyecto de acuerdo de inafectabilidad que someterá al C. Presidente de la República.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Los estudios señalados se confrontarán con lo que haya proporcionado el solicitante y con base en todo lo anterior la Secretaría de la Reforma Agraria formulará proyecto de acuerdo de inafectabilidad que someterá al C. Presidente de la República.
 
 ###### ARTICULO 260.
 
@@ -2105,7 +2257,9 @@ IV.- Las aguas procedentes de plantas de bombeo, en la inteligencia de que las c
 
 V.- Las aguas destinadas al abastecimiento de ferrocarriles y demás sistemas de transporte, cuando no haya otra fuente de abastecimiento económicamente utilizable para los mismos; y
 
-VI.- Las aguas destinadas a usos industriales o a generación de fuerza motriz en el volumen indispensable para la existencia de las industrias que abastezcan, según opinión de la Secretaría de Industria y Comercio y del Departamento de Asuntos Agrarios y Colonización.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+VI.- Las aguas destinadas a usos industriales o a generación de fuerza motriz en el volumen indispensable para la existencia de las industrias que abastezcan, según opinión de la Secretaría de Industria y Comercio y de la Secretaría de la Reforma Agraria.
 
 ## TITULO TERCERO. Nulidad de fraccionamientos de bienes comunales y ejidales
 
@@ -2137,9 +2291,11 @@ Para los efectos del uso y aprovechamiento de las aguas, los núcleos que guarde
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 269.
 
-El Departamento de Asuntos Agrarios y Colonización, de acuerdo con los datos a que se refiere el artículo 456, señalará las zonas del país en las que sea necesario llevar a cabo planes de rehabilitación agraria de los ejidos y comunidades.
+La Secretaría de la Reforma Agraria, de acuerdo con los datos a que se refiere el Artículo 456, señalará las zonas del país en las que sea necesario llevar a cabo plan de rehabilitación agraria de los ejidos y comunidades
 
 ###### ARTICULO 270.
 
@@ -2167,7 +2323,9 @@ Las solicitudes de restitución, dotación o ampliación de tierras, bosques o a
 
 Dentro de las cuarenta y ocho horas siguientes a la presentación de la solicitud, el Ejecutivo Local la mandará publicar en el periódico oficial de la entidad, turnará el original a la Comisión Agraria Mixta en un plazo de diez días y en ese lapso expedirá los nombramientos de los miembros del Comité Particular Ejecutivo electos por el núcleo de población solicitante.
 
-Si el Ejecutivo local no realiza estos actos, la Comisión iniciará el expediente con la copia que le haya sido entregada, hará la publicación correspondiente en uno de los periódicos de mayor circulación de la localidad, la que surtirá idénticos efectos que la realizada en el periódico oficial, y notificará el hecho al Departamento de Asuntos Agrarios y Colonización.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Si el Ejecutivo local no realiza estos actos la Comisión iniciará el expediente con la copia que le haya sido entregada, hará la publicación correspondiente en uno de los periódicos de mayor circulación de la localidad, la que surtirá idénticos afectos que la realizada en el periódico oficial y notificará el hecho de la Secretaría de la Reforma Agraria.
 
 ###### ARTICULO 273.
 
@@ -2211,9 +2369,11 @@ Si la solicitud enumera los predios o terrenos que sean objeto de la demanda, ad
 
 Cuando la solicitud no enumere los predios o terrenos que sean objeto de la demanda, la Comisión Agraria Mixta hará de oficio la investigación que corresponda; una vez que se identifiquen los predios, notificará por oficio a los presuntos afectados y el plazo de cuarenta y cinco días comenzará a contarse a partir de tal notificación.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 280.
 
-La Comisión Agraria Mixta enviará desde luego al Departamento de Asuntos Agrarios y Colonización, los títulos y documentos a que se refiere el artículo anterior, a fin de que estudie su autenticidad, dentro de un plazo improrrogable de treinta días. El Departamento los devolverá de inmediato a la Comisión con el dictamen paleográfico correspondiente y la opinión que acerca de la autenticidad formule, e iniciará el procedimiento que debe seguirse para satisfacer las necesidades agrarias del núcleo de población solicitante.
+La Comisión Agraria Mixta enviará desde luego a la Secretaría de la reforma Agraria, los títulos y documentos a que se refiere el artículo anterior a fin de que estudie su autenticidad, dentro de un plazo improrrogable de treinta días. La Secretaría los devolverá de inmediato a la Comisión con el dictamen paleográfico correspondiente y la opinión que acerca de la autenticidad formule e iniciará el procedimiento que debe seguirse para satisfacer las necesidades agrarias del núcleo de población solicitante.
 
 ###### ARTICULO 281.
 
@@ -2225,9 +2385,11 @@ II.- Formación del censo agrario correspondiente. La junta censal, en este caso
 
 III.- Informe escrito que explique los datos a que se refieren las fracciones anteriores, con un capítulo especial destinado a precisar la extensión y la clase de los bienes que por restitución se reclamen y, en su caso, indicará las fracciones que hayan pasado a formar parte de ejidos o nuevos centros de población agrícola.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 282.
 
-En caso de que el Departamento de Asuntos Agrarios y Colonización opine que no procede la restitución, la Comisión Agraria Mixta deberá continuar de oficio los trámites de la dotación.
+En caso de que la Secretaría de la Reforma Agraria opine que no procede la restitución, la Comisión Agraria Mixta deberá continuar de oficio los trámites de la dotación.
 
 ###### ARTICULO 283.
 
@@ -2239,11 +2401,15 @@ Si el Ejecutivo local no dicta su mandamiento en el plazo indicado, se tendrá p
 
 Cuando la Comisión no emita dictamen dentro del plazo señalado, el Ejecutivo local recogerá desde luego el expediente de la Comisión Agraria Mixta, dictará el mandamiento que juzgue procedente en el término de cinco días y ordenará su ejecución. Una vez resuelto lo enviará al Delegado Agrario para que éste continúe con el trámite del expediente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 284.
 
-El Delegado Agrario completará el expediente, en caso necesario, en el plazo de quince días. Inmediatamente después formulará el resumen del procedimiento, y con su opinión, lo turnará dentro de tres días, junto con el expediente al Departamento de Asuntos Agrarios y Colonización.
+El Delegado Agrario completará el expediente, en caso necesario en el plazo de quince días. Inmediatamente después formulará el resumen del procedimiento, y con opinión, lo turnará dentro de tres días junto con el expediente a la Secretaría de la Reforma Agraria.
 
-Una vez que el Departamento Agrario reciba el expediente lo revisará y en el plazo de quince días lo turnará al Cuerpo Consultivo Agrario, el cual, en pleno emitirá su dictamen o acuerdo para completar el expediente en el plazo de sesenta días. El dictamen se someterá a la consideración del Presidente de la República para su resolución definitiva.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Una vez que la Secretaría de la Reforma Agraria reciba el expediente lo revisará y en el plazo de quince días lo turnará al Cuerpo Consultivo Agrario el cual, en pleno emitirá su dictamen o acuerdo para completar el expediente en el plazo de sesenta días. El dictamen se someterá a la consideración del Presidente de la República para su resolución definitiva.
 
 ###### ARTICULO 285.
 
@@ -2275,9 +2441,11 @@ Los representantes del núcleo de población en la junta censal podrán hacer la
 
 Las Comisiones Agrarias Mixtas o las Delegaciones Agrarias ordenarán, al efectuarse los trabajos relativos al censo y planificación, que se incluyan todos los núcleos de población de una región, a fin de que se recaben los datos relativos a los poblados que hayan solicitado ejidos, y a la vez se recojan los datos correspondientes a los núcleos que existan dentro de ella y no hayan presentado solicitud, con el objeto de que se dicte el acuerdo de iniciación de oficio.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 290.
 
-Cuando durante la tramitación de esta primera instancia se plantee un problema relativo a la nulidad o invalidez de la división o fraccionamiento de una propiedad, la Comisión Agraria Mixta, antes de emitir su dictamen, informará al Departamento sobre el problema proporcionándole todos los datos de que disponga para que, conforme al procedimiento establecido en esta Ley resuelva lo procedente.
+Cuando durante la tramitación de esta primera instancia se plantee un problema relativo a la nulidad o invalidez de la división o fraccionamiento de una propiedad, la Comisión Agraria Mixta, antes de emitir su dictamen, informará a la Secretaría sobre el problema proporcionándole todos los datos de que disponga para que, conforme al procedimiento establecido en esta Ley resuelva lo precedente.
 
 ###### ARTICULO 291.
 
@@ -2319,17 +2487,21 @@ La diligencia de posesión deberá practicarse dentro de los dos meses siguiente
 
 Si el mandamiento es negativo, se notificará al Comité Particular Ejecutivo y a los propietarios que hubiesen sido señalados como afectables, y se publicará en el periódico oficial de la entidad.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 299.
 
-La ejecución de los mandamientos del Gobernador se hará citándose previamente a todos los interesados a la diligencia en que se dará a conocer el contenido del mandamiento, se deslindarán los terrenos objeto de la restitución o dotación y se nombrará, en caso de que no exista, el Comisariado Ejidal que recibirá la documentación correspondiente incluyendo un instructivo de organización y funcionamiento del ejido, hecho por el Departamento de Asuntos Agrarios y Colonización, y los bienes concedidos por el mandamiento. Asimismo, asignará, en su caso, las unidades de dotación que provisionalmente deban corresponder a cada ejidatario.
+La ejecución de los mandamientos del Gobernador se hará citándose previamente a todos los interesados a la diligencia en que se dará a conocer el contenido del mandamiento, se deslindarán los terrenos objeto de la restitución o dotación y se nombrará, en caso de que no exista, el Comisariado Ejidal que recibirá la documentación correspondiente incluyendo un instructivo de organización y funcionamiento del ejido, hecho por la Secretaría de la Reforma Agraria y los bienes concedidos por el mandamiento. Así mismo, asignará, en su caso, las unidades de dotación que provisionalmente deban corresponder a cada ejidatario.
 
 ###### ARTICULO 300.
 
 A partir de la diligencia de posesión provisional, se tendrá al núcleo de población ejidal, para todos los efectos legales, como legítimo poseedor de las tierras, bosques y aguas concedidos por el mandamiento, y con personalidad jurídica para disfrutar de todas las garantías económicas y sociales que esta Ley establece, así como para contratar el crédito de avío respectivo.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 301.
 
-Practicada la diligencia de posesión, la Comisión Agraria Mixta informará inmediatamente al Departamento de Asuntos Agrarios y Colonización y a la Secretaría de Agricultura y Ganadería sobre la ejecución del mandamiento, y remitirá éste para su publicación en el periódico oficial de la entidad. Si las tierras o aguas afectadas están comprendidas en varias entidades federativas, la publicación se hará en los periódicos oficiales de cada una de ellas.
+Practicada la diligencia de posesión la Comisión Agraria Mixta informará inmediatamente a la Secretaría de la Reforma Agraria y la Secretaría de Agricultura y Ganadería sobre la ejecución del mandamiento, y remitirá éste para su publicación en el periódico oficial de la entidad. Si las tierras o aguas afectadas están comprendidas en varias entidades federativas, la publicación se hará en los periódicos oficiales de cada una de ellas.
 
 ###### ARTICULO 302.
 
@@ -2347,13 +2519,17 @@ Todos los afectados con aprovechamiento de aguas por virtud de esta Ley, tendran
 
 Segunda instancia para dotación de tierras.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 304.
 
-Una vez que el Departamento de Asuntos Agrarios y Colonización reciba el expediente que le envíe el Delegado, lo revisará, y en el plazo de quince días lo turnará al Cuerpo Consultivo Agrario, el cual, en pleno, emitirá su dictamen o acuerdo para completar el expediente en el plazo de sesenta días. El dictamen no sólo contendrá los considerandos técnicos y los puntos resolutivos que proponga, sino que se referirá a la forma como se desarrolló la primera instancia, al cumplimiento de los plazos y términos señalados en esta Ley y a las fallas observadas en el procedimiento.
+Una vez que la Secretaría de la Reforma Agraria reciba el expediente que le envía el Delegado, lo revisará, y en el plazo de quince días lo turnará al Cuerpo Consultivo Agrario, el cual, en pleno, emitirá su dictamen o acuerdo para completar el expediente en el plazo de sesenta días. El dictamen no sólo contendrá los considerandos técnicos y los puntos resolutivos que proponga, sino que se referirá a la forma como se desarrolló la primera instancia, el cumplimiento de los plazos y términos señalados en esta Ley y a las fallas observadas en el procedimiento.
 
 De acuerdo con los términos del dictamen se formulará un proyecto de resolución que se elevará a la consideración del Presidente de la República.
 
-El Cuerpo Consultivo Agrario se cerciorará de que en los expedientes que se le turnen, los propietarios o poseedores de predios presuntamente afectables hayan sido debidamente notificados en los términos de los artículos 275 y 329, y en caso de que se llegare a encontrar alguna omisión a este respecto, lo comunicará al Jefe del Departamento de Asuntos Agrarios y Colonización, para que éste mande notificarlos, a fin de que en un plazo de 45 días, a partir de la notificación correspondiente, presenten sus pruebas y aleguen lo que a su derecho convenga.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+El Cuerpo Consultivo Agrario se cerciorará de que los expedientes que se le turnen, los propietarios o poseedores de predios presuntamente afectables hayan sido debidamente notificados en los términos de los artículos 275 y 329, y en caso de que se llegare a encontrar alguna omisión a este respecto, lo comunicará al Secretario de la Reforma Agraria, para que éste mande notificarlos, a fin de que en un plazo de 45 días, a partir de la notificación correspondiente, presenten sus pruebas y aleguen lo que a su derecho convenga.
 
 ###### ARTICULO 305.
 
@@ -2409,17 +2585,21 @@ IX.- Entretanto se efectúa el fraccionamiento definitivo de las tierras de cult
 
 No se fraccionará aquellos ejidos en los cuales, de efectuarse el fraccionamiento, hubieran de resultar unidades de dotación menores a lo dispuesto por la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 308.
 
-Las resoluciones de dotación se tendrán por ejecutadas al recibir los campesinos las tierras, bosques o aguas que se les hayan concedido. Este hecho se hará constar mediante el acta de posesión y deslinde correspondiente, en la que firmarán y pondrán su huella digital los miembros del Comisariado, sin requerir ulterior procedimiento de aprobación, salvo inconformidad de los núcleos agrarios. En este caso, el Departamento de Asuntos Agrarios y Colonización ordenará la investigación, recibirá las pruebas de los interesados y entregará sus resultados al Cuerpo Consultivo; con estos elementos se formulará un dictamen en el plazo de noventa días, que se someterá a acuerdo del Jefe del Departamento de Asuntos Agrarios y Colonización, quien resolverá lo conducente en el término de quince días.
+Las resoluciones de dotación se tendrán por ejecutadas al recibir los campesinos las tierras, bosques o aguas que se les hayan concedido. Este hecho se hará constar mediante el acta de posesión y deslinde correspondiente, en la que se firmarán y pondrán su huella digital los miembros del Comisariado, sin requerir ulterior procedimiento de aprobación, salvo inconformidad de los núcleos agrarios. En este caso, la Secretaría de la Reforma Agraria ordenará la investigación, recibirá las pruebas de los interesados y entregará sus resultados al Cuerpo Consultivo Agrario; con estos elementos se formulará un dictamen en el plazo de noventa días, que se someterá a acuerdo del Secretario de la Reforma Agraria, quien resolverá lo conducente en el término de quince días.
 
 En todos los casos deberá también levantarse plano de ejecución, y de no haber inconformidad de los núcleos agrarios, deberá tenerse por aprobado para los efectos del artículo 305.
 
 Esta disposición será aplicable a la ejecución de las demás resoluciones presidenciales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 309.
 
-Cuando la resolución presidencial fuese negativa al núcleo agrario solicitante y éste, en virtud de mandamiento del Gobernador de la entidad, se encontrara en posesión provisional de las tierras, el Departamento de Asuntos Agrarios y Colonización estará obligado, en primer término, a negociar con los propietarios del o los predios la compra en favor de esos campesinos de la superficie que se encuentren ocupando en posesión provisional; de no conseguirlo, a localizar a su favor, con prelación a los demás núcleos o grupos de población, otras tierras de semejante calidad y extensión a las cuales trasladar a los campesinos afectados, preferentemente en la misma entidad, y dentro de un plazo que no exceda a los establecidos en el párrafo siguiente.
+Cuando la resolución presidencial fuese negativa al núcleo agrario solicitante y éste, en virtud de mandamiento del Gobernador de la entidad, se encontrará en posesión provisional de las tierras, la Secretaría de la Reforma Agraria estará obligada, en primer término, a negociar con los propietarios del o los predios la compra en favor de esos campesinos de la superficie que se encuentren ocupando en posesión provisional; de no conseguirlo, a localizar a su favor, con relación a los demás núcleos o grupos de población, otras tierras de semejante calidad y extensión a las cuales trasladar a los campesinos afectados, preferentemente en la misma entidad, y dentro de un plazo que no exceda a los establecidos en el párrafo siguiente.
 
 Siempre que la ejecución de una resolución presidencial negativa o el cumplimiento de una sentencia ejecutoriada implique la desocupación de terrenos que los campesinos tengan en virtud de una posesión provisional o definitiva, los plazos a que se refieren los artículos 302 y 303 se duplicarán a favor de los ejidatarios.
 
@@ -2447,19 +2627,25 @@ Estas mismas disposiciones se observarán en las posesiones provisionales conced
 
 Cuando se trate de la ejecución de resoluciones presidenciales dictadas con apego a las leyes que autorizaban la concesión de parcelas en terrenos no laborables, si éstos se han mantenido como de uso común y las tierras susceptibles de cultivo se han dividido económicamente entre todos los beneficiados, se reconocerá equitativamente a éstos, sin excepción, el derecho sobre tales tierras, siguiendo aquellos terrenos destinados al uso común.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 315.
 
-Hecha la asignación de las unidades de dotación en los términos del artículo 72 de esta Ley, el Delegado Agrario, acompañado del Comisariado Ejidal, hará entrega material de ellas en los términos aprobados por el propio Departamento y por la asamblea general de ejidatarios, recorriendo las colindancias de cada una, con lo que se tendrá por consumada la posesión definitiva de las unidades de dotación. De la diligencia de posesión se levantará un acta general que suscribirán un funcionario del Departamento de Asuntos Agrarios y Colonización, el Comisariado y los beneficiados, quienes además pondrán su huella digital.
+Hecha la asignación de las unidades de dotación en los términos del Artículo 72 de esta Ley, el Delegado Agrario, acompañado del Comisariado Ejidal, hará entrega material de ellas en los términos aprobados por la propia Secretaría y por la asamblea general de ejidatarios, recorriendo las colindancias de cada una, con la que se tendrá por consumada la posesión definitiva de las unidades de dotación. De la diligencia de posesión se levantará un acta general que suscribirán un funcionario de la Secretaría de la Reforma Agraria, el Comisariado y los beneficiados, quienes además pondrán su huella digital.
 
 Si los titulares de las parcelas no estuvieren conformes con la asignación que de ellas se hubiere hecho, podrán interponer el recurso de nulidad previsto por esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 316.
 
-El Departamento de Asuntos Agrarios y Colonización procederá a expedir los certificados correspondientes, de acuerdo con el acta mencionada en el artículo anterior, y los entregará a los interesados por conducto del Comisariado Ejidal, después de haber sido inscritos en el Registro Agrario Nacional.
+La Secretaría de la Reforma Agraria procederá a expedir los certificados correspondientes, de acuerdo con el acta mencionada en el artículo anterior, y los entregará a los interesados por conducto del Comisariado Ejidal, después de haber sido inscritos en el Registro Agrario Nacional.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 317.
 
-La Delegación Agraria informará de inmediato al Departamento de la ejecución y cumplimiento de las diligencias de posesión, deslinde, entrega de certificados y títulos y, en general, de todos aquellos actos que tengan por efecto crear, definir, modificar o extinguir derechos de los núcleos de población o de los ejidatarios en particular.
+La Delegación Agraria informará de inmediato a la Secretaría de la ejecución y cumplimiento de las diligencias de posesión, deslinde, entrega de certificados y títulos y, en general, de todos aquellos actos que tengan por efecto crear, definir, modificar o extinguir derechos de los núcleos de población o de los ejidatarios en particular.
 
 ### CAPITULO QUINTO. Dotación y accesión de aguas
 
@@ -2501,13 +2687,17 @@ Una vez recibido el informe que contenga los resultados de la inspección a que 
 
 Los mandamientos pronunciados por los Ejecutivos locales en materia de aguas, después de ejecutados, se notificarán a las Secretarías de Recursos Hidráulicos y de Agricultura y Ganadería, para el reajuste provisional de los aprovechamientos y la expedición de los reglamentos respectivos y para que se ordene la ejecución de las obras limitadoras de carácter provisional que permitan realizar los aprovechamientos otorgados.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 323.
 
-Pronunciada la resolución presidencial, la Secretaría de Recursos Hidráulicos, en coordinación con el Departamento de Asuntos Agrarios y Colonización, hará el reajuste definitivo de los aprovechamientos afectados y ordenará la ejecución de las obras hidráulicas necesarias.
+Pronunciada la resolución presidencial, la Secretaría de Recursos Hidráulicos, en coordinación con la Secretaría de la Reforma Agraria, hará el reajuste definitivo de los aprovechamientos afectados y ordenará la ejecución de las obras hidráulicas necesarias.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 324.
 
-Los casos de accesiones de agua no previstos en los mandamientos de los Ejecutivos locales o en las resoluciones presidenciales que hayan concedido tierras de riego, serán dictaminados por el Delegado Agrario. El Departamento de Asuntos Agrarios y Colonización revisará el dictamen y el acuerdo respectivo será firmado por el Jefe del Departamento de Asuntos Agrarios y Colonización y publicado en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad correspondiente.
+Los casos de accesiones de agua no previstos en los mandamientos de los Ejecutivos locales o en las resoluciones presidenciales que hayan concedido tierras de riego, serán dictaminados por el Delegado Agrario. La Secretaría de la Reforma Agraria revisará el dictamen y el acuerdo respectivo será firmado por el Secretario de la Reforma Agraria y publicado en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad correspondiente.
 
 Los datos necesarios para su resolución serán los que indica el artículo 319 de esta Ley.
 
@@ -2517,7 +2707,9 @@ Los datos necesarios para su resolución serán los que indica el artículo 319 
 
 Si al ejecutarse una resolución presidencial de restitución o dotación, se comprueba que las tierras entregadas son insuficientes para satisfacer íntegramente las necesidades del poblado, se tramitará de oficio el expediente de dotación complementario o ampliación. El procedimiento se sujetará a lo prevenido para la dotación de tierras, en lo que fuere aplicable.
 
-La entrega de tierras en unidades individuales de dotación ejidal se realizará de oficio por el Departamento de Asuntos Agrarios y Colonización en única instancia y se otorgarán por Resolución Presidencial, con los derechos y obligaciones que para los ejidatarios dispone esta Ley. Cada unidad individual de dotación ejidal deberá ser inscrita en el Registro Agrario Nacional.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+La entrega de tierras en unidades individuales de dotación ejidal se realizará de oficio por la Secretaría de la Reforma Agraria en única instancia y se otorgará por Resolución presidencial con los derechos y obligaciones que para los ejidatarios dispone esta Ley. Cada unidad individual de dotación ejidal deberá ser inscrita en el Registro Nacional.
 
 ### CAPITULO SEPTIMO. Nuevos centros de población ejidal
 
@@ -2529,35 +2721,45 @@ Si la resolución presidencial que recaiga en un procedimiento de dotación fues
 
 Los expedientes relativos a creación de nuevos centros de población se tramitarán en única instancia. Se iniciarán de oficio conforme al artículo anterior o a solicitud de los interesados, quienes podrán señalar el o los predios presuntamente afectables y declararán su conformidad expresa de trasladarse al sitio donde sea posible establecerlo y su decisión de arraigarse en él. La solicitud se presentará ante el Delegado Agrario de cuya jurisdicción sean vecinos los solicitantes.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 328.
 
-El Delegado Agrario, el mismo día que reciba la solicitud u obtenga la conformidad de los campesinos interesados, enviará aquella o el acta en que ésta conste, al Departamento de Asuntos Agrarios y Colonización. Simultáneamente, si en la solicitud o en la declaración los campesinos señalan los predios presuntamente afectables, el Delegado notificará este hecho al Registro Público de la Propiedad que corresponda mediante oficio que le dirija por correo certificado, para que haga las anotaciones a que se refiere el artículo 449. Dentro de los treinta días siguientes hará un estudio pormenorizado acerca de las posibilidades de que el nuevo centro de población se establezca en la entidad de que sean vecinos los solicitantes; dicho estudio se enviará de inmediato al Departamento.
+El Delegado Agrario, el mismo día que reciba la solicitud u obtenga la conformidad de los campesinos interesados, enviará aquélla, o el acta en que ésta conste, a la Secretaría de la Reforma Agraria. Simultáneamente, si en la solicitud o en la declaración los campesinos señalan los predios presuntamente afectables, el Delegado notificará este hecho al Registro Público de la Propiedad que corresponda mediante oficio que le dirija por correo certificado, para que haga las anotaciones a que se refiere el Artículo 449. Dentro de los treinta días siguientes hará un estudio pormenorizado acerca de las posibilidades de que el nuevo centro de población se establezca en la entidad de que sean vecinos los solicitantes; dicho estudio se enviará de inmediato a la Secretaría.
 
-Si el propietario del predio afectable justifica su inafectabilidad en los términos del artículo 210 de esta Ley, el Departamento de Asuntos Agrarios y Colonización librará oficio al Delegado, para que éste a su vez, de inmediato, disponga la cancelación de la anotación preventiva en el Registro Público de la Propiedad, sin perjuicio de lo que la Resolución Presidencial definitiva establezca para cada caso.
+Si el propietario del predio afectable justifica su inafectabilidad en los términos del Artículo 210 de esta Ley, la Secretaría de la Reforma Agraria, librará oficio al Delegado, para que éste a su vez de inmediato disponga la cancelación de la anotación preventiva en el Registro Público de la Propiedad, sin perjuicio de lo que la resolución presidencial definitiva establezca para cada caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 329.
 
-Tan pronto reciba la solicitud, el Departamento de Asuntos Agrarios y Colonización mandará publicarla en el "Diario Oficial" de la Federación, en el periódico oficial de la entidad de donde sean vecinos los solicitantes y en el de aquella donde esté ubicado el predio o predios que se señalen como afectables.
+Tan pronto reciba la solicitud, la Secretaría de la Reforma Agraria mandará publicarla en el "Diario Oficial" de la Federación, en el periódico oficial de la entidad de donde sean vecinos los solicitantes y en el de aquella donde esté ubicado el predio o predios que se señalen como afectables.
 
 Si la solicitud contiene el señalamiento expreso del predio o predios presuntamente afectables, la sola publicación de la misma surtirá efectos de notificación para los propietarios o poseedores, en los términos de lo dispuesto en el artículo 210.
 
-Sin perjuicio de lo establecido en dicho artículo, el Departamento, dentro de los 15 días siguientes a la publicación, mandará notificar a los poseedores o propietarios, por medio del oficio a que se refiere el segundo párrafo del artículo 275, para que en un plazo de 45 días expresen por escrito lo que a su derecho convenga.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Sin perjuicio de los establecido en dicho artículo, la Secretaría dentro de los 15 días siguientes a la publicación, mandará notificar a los poseedores o propietarios, por medio del oficio a que se refiere el segundo párrafo del Artículo 275, para que en un plazo de 45 días expresen por escrito lo que a su derecho convenga.
 
 ###### ARTICULO 330.
 
 Cuando en el caso del artículo 326 los solicitantes expresen su conformidad ante el Delegado Agrario, éste levantará de inmediato un acta en la que conste dicha conformidad, la cual se tendrá como solicitud para todos los efectos procesales establecidos por esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 331.
 
-Al recibir la solicitud, el Departamento de Asuntos Agrarios y Colonización estudiará la ubicación del nuevo centro de población, prefiriendo para localizarlo los predios señalados por los solicitantes, si son afectables, y las tierras de la entidad federativa en que resida el núcleo peticionario. Determinará en un plazo de sesenta días la cantidad y calidad de las tierras, bosques y aguas que deba comprender y las fincas que puedan afectarse, los proyectos de urbanización, de saneamiento y de servicios sociales que deban establecerse y los costos de transporte, traslado e instalación de los beneficiarios.
+Al recibir la solicitud, la Secretaría de la Reforma Agraria estudiará la ubicación del nuevo centro de población, prefiriendo para localizarlo los predios señalados por los solicitantes, si son afectables, y las tierras de la entidad federativa en que resida el núcleo peticionario. Determinará en un plazo de sesenta días la cantidad y calidad de las tierras, bosques y aguas que deba comprender y las fincas que puedan afectarse, los proyectos de urbanización, de saneamiento y de servicios sociales que deban establecerse y los costos de transporte, traslado e instalación de los beneficiarios.
 
 ###### ARTICULO 332.
 
 Los estudios y proyectos formulados se enviarán al Ejecutivo Local y a la Comisión Agraria Mixta de la entidad en cuya jurisdicción se proyecte el centro, a fin de que en un plazo de quince días expresen su opinión. Simultáneamente se notificará por oficio a los propietarios afectados que no hubiesen sido señalados en la solicitud agraria y a los campesinos interesados, para que en un plazo de cuarenta y cinco días expresen por escrito lo que a sus derechos convenga.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 333.
 
-Transcurridos los plazos a que se refiere el artículo anterior, y previo dictamen del Cuerpo Consultivo Agrario, el Jefe del Departamento de Asuntos Agrarios y Colonización elevará a la consideración del Presidente de la República el asunto, para que éste dicte la resolución correspondiente.
+Transcurridos los plazos a que se refiere el artículo anterior, y previo dictamen del Cuerpo Consultivo Agrario, el Secretario de la Reforma Agraria elevará a la consideración del Presidente de la República el asunto para que éste dicte la resolución correspondiente.
 
 ###### ARTICULO 334.
 
@@ -2581,9 +2783,11 @@ Los expedientes relativos a permutas entre ejidos se iniciarán a solicitud de l
 
 La conformidad de los permutantes se recabará en las asambleas generales de ejidatarios que para el efecto se convoquen, por un representante de la Delegación Agraria, el que deberá comprobar, de acuerdo con los censos legalmente aprobados, la aceptación de la permuta por las dos terceras partes de los miembros del ejido.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 338.
 
-Recabada legalmente la conformidad de los ejidos interesados, la Delegación Agraria, oyendo previamente al banco oficial que opere con alguno de ellos, hará un resumen del caso en el término de quince días, fijando la extensión y calidad de las tierras y los volúmenes de agua que deban permutarse, y lo remitirá junto con el expediente al Departamento de Asuntos Agrarios y Colonización, para que éste lo someta a resolución presidencial.
+Recabada legalmente la conformidad de los ejidos interesados, la Delegación Agraria, oyendo previamente al banco oficial que opere con alguno de ellos, hará un resumen del caso en el término de quince días, fijando la extensión y calidad de las tierras y los volúmenes de aguas que deban permutarse, y lo remitirá, junto con el expediente, a la Secretaría de la Reforma Agraria para que ésta lo someta a resolución presidencial.
 
 ### CAPITULO SEGUNDO. Fusión y división de ejidos
 
@@ -2595,9 +2799,11 @@ Los expedientes para resolver sobre la fusión o la división de ejidos se inici
 
 El Delegado Agrario deberá oír la opinión de la institución oficial de crédito que refaccione al ejido, y obtener la conformidad de las dos terceras partes de los ejidatarios en la o las asambleas que al efecto convoque.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 341.
 
-El Delegado Agrario deberá dictaminar dentro de los cuarenta y cinco días siguientes a la iniciación del procedimiento y enviará el expediente con su opinión al Departamento de Asuntos Agrarios y Colonización para que éste someta el asunto a resolución del Presidente de la República.
+El Delegado Agrario deberá dictaminar dentro de los cuarenta y cinco días siguientes a la iniciación del procedimiento y enviará el expediente con su opinión a la Secretaría de la Reforma Agraria para que ésta someta el asunto de resolución del Presidente de la República.
 
 ###### ARTICULO 342.
 
@@ -2605,9 +2811,11 @@ La ejecución de las resoluciones relativas a división o fusión de ejidos comp
 
 ### CAPITULO TERCERO. Expropiación de bienes ejidales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 343.
 
-Las autoridades o instituciones oficiales competentes, según el fin que se busque con la expropiación, o la persona que tenga un interés lícito en promoverla, deberán presentar solicitud escrita ante el Jefe del Departamento de Asuntos Agrarios y Colonización, e indicarán en ella:
+Las autoridades o instituciones oficiales competentes, según el fin que se busque con la expropiación, o la persona que tenga un interés lícito en promoverla, deberán presentar solicitud escrita ante el Secretario de la Reforma Agraria, e indicarán en ella:
 
 I.- Los bienes concretos que se proponen como objeto de la expropiación;
 
@@ -2619,27 +2827,37 @@ IV.- La indemnización que se proponga; y
 
 V.- Los planos y documentos probatorios y complementarios que se estimen indispensables para dejar establecidos los puntos anteriores.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 344.
 
-El Departamento de Asuntos Agrarios y Colonización notificará al Comisariado Ejidal del núcleo afectado, por oficio y mediante publicación en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad, y pedirá las opiniones del Gobernador, de la Comisión Agraria Mixta de la entidad donde los bienes se encuentren ubicados y del banco oficial que opere con el ejido, las que deberán rendirse en un plazo de 30 días, transcurrido el cual, si no hay respuesta, se considerará que no hay oposición y se proseguirá con los trámites. Al mismo tiempo, mandará practicar los trabajos técnicos informativos y la verificación de los datos consignados en la solicitud y pedirá a la Secretaría del Patrimonio Nacional que realice el avalúo correspondiente. Los trámites a que se refiere este precepto se concluirán dentro de los noventa días de iniciados.
+La Secretaría de la Reforma Agraria notificará al Comisariado Ejidal del núcleo afectado, por oficio y mediante publicación en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad, y pedirá las opiniones del Gobernador, de la Comisión Agraria Mixta de la entidad donde los bienes se encuentran ubicados y del banco oficial que opere con el ejido, las que deberán rendirse en un plazo de 30 días, transcurrido el cual, si no hay respuesta, se considerará que no hay oposición y se proseguirá con los trámites. Al mismo tiempo, mandará practicar los trabajos técnicos informativos y la verificación de los datos consignados en la solicitud y pedirá a la Secretaría del Patrimonio Nacional que realice el avalúo correspondiente. Los Trámites a que se refiere este precepto se concluirán dentro de los noventa días de iniciados.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 345.
 
-Integrado el expediente con los documentos a que se refieren los dos artículos anteriores, y con aquéllos otros que el Departamento de Asuntos Agrarios y Colonización juzgue necesario recabar, será sometido a consideración del Presidente de la República para que resuelva en definitiva.
+Integrado el expediente con los documentos a que se reviere los dos artículos anteriores, y con aquellos otros que la Secretaría de la Reforma Agraria juzgue necesario recabar, será sometido a consideración del Presidente de la República para que resuelva en definitiva.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 346.
 
-El Decreto en que se resuelva sobre la expropiación será publicado en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad donde se encuentren ubicados los bienes ejidales que se expropien, y el Departamento de Asuntos Agrarios y Colonización procederá a ejecutarlo en sus términos.
+El Decreto en que se resuelva sobre la expropiación será publicado en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad donde se encuentren ubicados los bienes ejidales que se expropien y la Secretaría de la Reforma Agraria procederá a ejecutarlo en sus términos.
 
-En la diligencia posesoria se practicará el deslinde de las tierras expropiadas y de las que se hubieren concedido en compensación, en su caso; se pondrá en posesión de ellas a quienes deben recibirlas, y se levantará el acta correspondiente. Antes de dictar la orden de ejecución, el Departamento debe tener la seguridad de que la indemnización fijada sea debidamente cubierta, o su pago garantizado en los términos del decreto presidencial, así como de que se aplique conforme a las disposiciones de esta Ley.
+En la diligencia posesoria se practicará el deslinde de las tierras expropiadas y de las que se hubieren concedido en compensación, en su caso; se pondrá en posesión de ellas a quienes deben recibirlas, y se levantará el acta correspondiente. Antes de dictar la orden de ejecución, la Secretaría debe tener la seguridad de que la indemnización fijada sea debidamente cubierta, o su pago garantizado en los términos del decreto presidencial, así como de que se aplique conforme a las disposiciones de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 347.
 
-Una vez satisfechos los extremos del artículo anterior, el Departamento de Asuntos Agrarios y Colonización expedirá los títulos correspondientes, en los que se incluirá una cláusula que contenga las prevenciones del artículo 126. Los títulos se inscribirán en el Registro Agrario Nacional.
+Una vez satisfechos los extremos del artículo anterior, la Secretaría de la Reforma Agraria expedirá los títulos correspondientes, en los que se incluirá una cláusula que contenga las prevenciones del Artículo 126. Los títulos se inscribirán en el Registro Agrario Nacional.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 348.
 
-Si la expropiación hubiese recaído sobre derechos ejidales o comunales al aprovechamiento de aguas, a moción del Departamento de Asuntos Agrarios y Colonización, la Secretaría de Agricultura y Ganadería practicará el reajuste procedente en los aprovechamientos y reglamentará el derecho de quienes en adelante hubieren de usarlos, conforme a la legislación particular en la materia.
+Si la expropiación hubiese recaído sobre derechos ejidales o comunales al aprovechamiento de aguas, la moción de la Secretaría de la Reforma Agraria, la Secretaría de Agricultura y Ganadería practicará el reajuste procedente en los aprovechamientos y reglamentará el derecho de quienes en adelante hubieren de usarlos , conforme a la legislación particular en la materia.
 
 ###### ARTICULO 349.
 
@@ -2657,23 +2875,31 @@ Los propietarios de fincas afectables agrícolas o ganaderas en explotación que
 
 La Comisión Agraria Mixta abrirá el expediente respectivo, estudiará las solicitudes agrarias que existan sobre el predio y comisionará personal capacitado para que, en el plazo de treinta días, localice y ratifique sobre el terreno el señalamiento de la pequeña propiedad y rinda, bajo la responsabilidad de quien encabece dicho personal, informe respecto de la extensión real de la superficie señalada por el peticionario como inafectable, y las diversas calidades y fracciones que la componen, así como las condiciones de explotación en que se encuentran.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 352.
 
-La Comisión Agraria Mixta, al recibir la información del Comisionado, notificará a los núcleos agrarios ubicados dentro del radio legal de afectación y a los propietarios colindantes de la finca, para que en un plazo de veinte días expongan lo que a su derecho convenga. Transcurrido este plazo formulará un resumen del caso con su opinión, el cual enviará junto con el expediente al Departamento de Asuntos Agrarios y Colonización, dentro de los quince días siguientes.
+La Comisión Agraria Mixta, al recibir la información del Comisariado, notificará a los núcleos agrarios ubicados dentro del radio legal de afectación y a los propietarios colindantes de la finca, para que en un plazo de veinte días expongan lo que a su derecho convengan. Transcurrido ese plazo formulará un resumen del caso con su opinión, el cual enviará junto con el expediente a la Secretaría de la Reforma Agraria, dentro de los quince días siguientes.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 353.
 
-El Departamento de Asuntos Agrarios y Colonización se cerciorará de que el solicitante no tiene inscrita en el Registro Agrario Nacional la propiedad de otros terrenos que, sumados a aquellos cuya inafectabilidad solicita, rebasen la extensión de la pequeña propiedad; revisará el expediente y con base en los documentos que obran en él, lo turnará al Cuerpo Consultivo Agrario quien deberá elaborar su dictamen en el término de treinta días, para que sea sometido a la consideración del Presidente de la República. Si ésta fuese favorable, ordenará que se publique en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad correspondiente, y la inscribirá además en el Registro Agrario Nacional.
+La Secretaría de la Reforma Agraria se cerciorará de que el solicitante no tiene inscrita en el Registro Agrario Nacional la propiedad de otros terrenos que, sumados a aquellos cuya inafectabilidad solicita, rebasen la extensión de la pequeña propiedad, revisará el expediente y con base en los documentos que obran en él, lo turnará al Cuerpo consultivo Agrario, quien deberá elaborar su dictamen en el término de treinta días, para que sea sometido a la consideración del Presidente de la República. Si está fuese favorable, ordenará que se publique en el "Diario Oficial" de la Federación y en el Periódico oficial de la entidad correspondiente, y la inscribirá además en el Registro Agrario Nacional.
 
 ###### ARTICULO 354.
 
 Los dueños de predios que conforme a esta Ley sean inafectables podrán solicitar la expedición del certificado de inafectabilidad correspondiente. La solicitud se presentará ante el Delegado Agrario con los documentos conducentes: dentro de los diez días siguientes, el Delegado mandará inspeccionar el predio para el efecto de comprobar la veracidad de las pruebas aportadas, y especialmente la circunstancia de que la propiedad está en explotación. Transcurrido el plazo, citará a los núcleos agrarios ubicados dentro del radio legal de afectación y a los propietarios colindantes de la finca, para que en un plazo de veinte días expongan lo que a su derecho convenga.
 
-Con los documentos y alegatos presentados en el plazo indicado formará un expediente que remitirá, con su opinión, al Departamento de Asuntos Agrarios y Colonización, dentro de los quince días siguientes, para que se realicen los trámites a que se refiere el artículo 353.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Con los documentos y alegatos presentados en el plazo indicado formará un expediente que remitirá con su opinión, a la Secretaría de la Reforma Agraria dentro de los quince días siguientes, para que se realicen los trámites a que se refiere el Artículo, 353.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 355.
 
-Siempre que el Departamento de Asuntos Agrarios y Colonización, al revisar un expediente relativo a la tramitación del mismo, encuentre que se han cometido irregularidades que puedan entrañar la comisión de un delito, consignará el caso al Ministerio Público Federal de la Entidad Federativa correspondiente.
+Siempre que la Secretaría de la Reforma Agraria, al revisar un expediente relativo a la tramitación del mismo, encuentre que se ha cometido irregularidades que puedan entrañar la comisión de un delito, consignará el caso al Ministerio Público Federal de la entidad federativa correspondiente.
 
 ## TITULO CUARTO. Reconocimiento, titulación y deslinde de bienes comunales
 
@@ -2683,11 +2909,15 @@ Siempre que el Departamento de Asuntos Agrarios y Colonización, al revisar un e
 
 La Delegación Agraria, de oficio o a petición de parte, iniciará los procedimientos para reconocer, o titular correctamente, los derechos sobre bienes comunales, cuando no haya conflictos de linderos, siempre que los terrenos reclamados se hallen dentro de la entidad de su jurisdicción.
 
-Cuando estos terrenos se encuentren dentro de los límites de dos o más entidades, el Departamento de Asuntos Agrarios y Colonización señalará en cuál de las dos Delegaciones deberán realizarse los trámites. En cualquiera de los dos casos el Departamento podrá avocarse directamente al conocimiento del asunto.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Cuando estos terrenos se encuentren dentro de los límites de dos o más entidades, la Secretaría de la Reforma Agraria señalada en cuál de las dos Delegaciones deberán realizarse los trámites. En cualquiera de los dos casos la Secretaría podrá abocarse (sic) directamente al conocimiento del asunto.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 357.
 
-Recibida la solicitud o iniciado el procedimiento de oficio, la autoridad agraria que intervenga procederá en el plazo de diez días, a publicar la solicitud o el acuerdo de iniciación del expediente en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad donde se encuentren los bienes que señalen las comunidades. Para cumplir con esta obligación, los Delegados que hayan iniciado el procedimiento enviarán de inmediato copia de la solicitud o del acuerdo al Departamento de Asuntos Agrarios y Colonización.
+Recibida la solicitud o iniciando el procedimiento de oficio, la autoridad agraria que intervenga procederá, en el plazo de diez días, a publicar la solicitud o el acuerdo de iniciación del expediente en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad donde se encuentren los bienes que señalen las comunidades. Para cumplir con esta obligación, los Delegados, que hayan iniciado el procedimiento enviarán de inmediato copia de la solicitud o del acuerdo a la Secretaría de la Reforma Agraria.
 
 ###### ARTICULO 358.
 
@@ -2707,13 +2937,17 @@ c) Verificar en el campo los datos que demuestren la posesión y demás actos de
 
 Hecha la publicación y realizados los trabajos a que se refiere el artículo anterior, se pondrán a la vista de los interesados durante un plazo de treinta días, para que expongan lo que a sus derechos convenga. Dentro del mismo plazo se recabará la opinión del Instituto Nacional Indigenista.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 361.
 
-Si los trabajos que se indican han estado a cargo del Delegado éste enviará desde luego, el expediente con un resumen del caso y con su opinión al Departamento de Asuntos Agrarios y Colonización, para la prosecución del trámite.
+Si los trabajos que se indican han estado a cargo del Delegado éste enviará desde luego, el expediente con un resumen del caso y con su opinión a la Secretaría de la Reforma Agraria, para la prosecución del trámite.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 362.
 
-El Departamento de Asuntos Agrarios y Colonización dictaminará sobre la autenticidad de los títulos presentados y con este dictamen y los demás elementos de juicio que obren en el expediente, formulará en el término de treinta días el proyecto de acuerdo de reconocimiento y titulación que se llevará a resolución del Presidente de la República.
+La Secretaría de la Reforma Agraria dictaminará sobre la autenticidad de los títulos presentados y con este dictamen y los demás elementos de juicio que obren en el expediente, formulará en el término de treinta días el proyecto de acuerdo de reconocimiento y titulación que se llevará a resolución del Presidente de la República.
 
 ###### ARTICULO 363.
 
@@ -2723,9 +2957,11 @@ La resolución presidencial se inscribirá en el Registro Agrario Nacional y en 
 
 La ejecución de las resoluciones presidenciales por las que se reconozca la propiedad de comunidades, se efectuará por la Delegación Agraria deslindando los terrenos reconocidos y señalando las fracciones que posean los comuneros en lo particular, haciéndose la designación del Comisariado y del Consejo de Bienes Comunales, en caso de que éstos no existan.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 365.
 
-El Departamento de Asuntos Agrarios y Colonización, dentro de los ciento veinte días posteriores a la ejecución de una resolución presidencial que reconozca la propiedad a las comunidades, realizará los estudios y trabajos siguientes:
+La Secretaría de la Reforma Agraria, dentro de los ciento veinte días posteriores a la ejecución de una resolución presidencial que reconozca la propiedad a las comunidades, realizará los estudios y trabajos siguientes:
 
 I.- Económico y social para el desarrollo rural y bienestar de la comunidad;
 
@@ -2737,23 +2973,29 @@ IV.- Para el establecimiento de la parcela escolar y de la unidad agrícola indu
 
 V.- Acerca de la producción, para determinar el porcentaje que dentro del límite legal les corresponda pagar como impuesto predial.
 
+> <small>(REFORMADO D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 366.
 
-Si surgieren durante la tramitación del expediente conflictos por límites respecto del bien comunal, se suspenderá el procedimiento, el cual se continuará en la vía de restitución, si el conflicto fuere con un particular o en la vía de conflicto por límites, si éste fuere con un núcleo de población ejidal o propietario de bienes comunales. Al efecto, el Departamento de Asuntos Agrarios y Colonización se avocará de oficio al conocimiento de los conflictos de límites entre los núcleos de población comprendidos entre los terrenos comunales o con los colindantes de la comunidad. Igualmente, procederá a hacer el levantamiento conjunto de las pequeñas propiedades que existan dentro de los terrenos, incluyendo su avalúo.
+Si surgieron durante la tramitación del expediente conflictos por límites respecto del bien comunal, se suspenderá el procedimiento, el cual se continuará en la vía de restitución, si el conflicto fuere con un particular o en la vía de conflicto por límites, si éste fuere con un núcleo de población ejidal o propietario de bienes comunales. Al efecto, la Secretaría de la Reforma Agraria se abocará de oficio al conocimiento de los conflictos de límites entre los núcleos de población comprendidos entre los terrenos comunales o con los colindantes de la comunidad. Igualmente procederá a hacer el levantamiento conjunto de las pequeñas propiedades que existan dentro de los terrenos, incluyendo se avalúo.
 
 ### CAPITULO SEGUNDO. Procedimientos en los conflictos por límites de bienes comunales
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 367.
 
-El Departamento de Asuntos Agrarios y Colonización se avocará de oficio o a petición de parte, al conocimiento de los conflictos que surjan sobre límites entre terrenos de comunidades o entre éstos y los de ejidos.
+La Secretaría de la Reforma Agraria se abocará de oficio o a petición de parte, al conocimiento de los conflictos que surjan sobre límites entre terrenos de comunidades o entre éstos y los de ejidos.
 
 ###### ARTICULO 368.
 
 El procedimiento se iniciará ante la Delegación Agraria ubicada en la capital de la entidad federativa en la que se localicen los terrenos sobre los que exista el conflicto, con la demanda de alguna de las partes, o con la orden de que se dirija a la Delegación Agraria.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 369.
 
-En caso de que los terrenos sobre los que exista disputa de límites se encuentren en dos o más entidades de la República, el Departamento de Asuntos Agrarios y Colonización designara a la Delegación ante la que habrá de radicarse el procedimiento o se avocará al conocimiento directo del asunto.
+En caso de que los terrenos sobre los que exista disputa de límites se encuentran en dos o más entidades de la República, la Secretaría de la Reforma Agraria designará a la Delegación ante la que habrá de radicarse el procedimiento o se abocará al conocimiento directo del asunto.
 
 ###### ARTICULO 370.
 
@@ -2767,13 +3009,17 @@ La Delegación Agraria, en el plazo de noventa días, hará el levantamiento top
 
 Concluidos los trabajos y los estudios anteriores, la Delegación Agraria los pondrá a la vista de las partes y abrirá un plazo de sesenta días improrrogables para que se presenten pruebas y alegatos.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 373.
 
-Concluido el plazo de prueba, la Delegación enviará desde luego el expediente al Departamento de Asuntos Agrarios y Colonización, con el resumen del caso y su opinión fundada sobre el mismo.
+Concluido el plazo de prueba, la Delegación enviará desde luego el expediente a la Secretaría de la Reforma Agraria, con el resumen del caso y su opinión fundada sobre el mismo.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 374.
 
-El Departamento de Asuntos Agrarios y Colonización dentro de los treinta días siguientes a la fecha en que reciba el expediente, oirá la opinión del Instituto Nacional Indigenista y elaborará el dictamen que se llevará a resolución del Presidente de la República.
+La Secretaría de la Reforma Agraria dentro de los treinta días siguientes a la fecha que reciba al expediente, oirá la opinión del instituto Nacional indigenista y elaborará el dictamen que se llevará a resolución del Presidente de la República.
 
 ###### ARTICULO 375.
 
@@ -2793,9 +3039,11 @@ V.- Las compensaciones que en su caso se otorguen.
 
 Formará parte de la resolución presidencial el plano definitivo de propiedad y límites de las tierras objeto del conflicto.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 377.
 
-El Departamento de Asuntos Agrarios y Colonización enviará copia autorizada de la resolución presidencial, incluyendo el plano definitivo, a la Delegación respectiva, a fin de que notifique a las partes y señale día y hora para su ejecución. Esta comprenderá la posesión de los bienes que a cada pueblo reconozca la resolución, mediante la localización y deslinde de las tierras de cada parte y la determinación de los volúmenes de agua. En la diligencia se levantará el acta de ejecución correspondiente.
+La Secretaría de la Reforma Agraria enviaría copia autorizada de la resolución presidencial, incluyendo en plano definitivo, a la Delegación respectiva, a fin de que notifique a las partes y señale día y hora para su ejecución. Esta comprenderá la posesión de los bienes que a cada pueblo reconozca la resolución, mediante la localización y deslinde de las tierras de cada parte y la determinación de los volúmenes de aguas. En la diligencia se levantará el acta de ejecución correspondiente.
 
 ###### ARTICULO 378.
 
@@ -2807,13 +3055,17 @@ Si los pueblos están de acuerdo con la proposición contenida en la resolución
 
 Si un poblado contendiente no acepta la resolución del Ejecutivo Federal, podrá ocurrir ante la Suprema Corte de Justicia de la Nación, promoviendo juicio de inconformidad, dentro de los quince días siguientes a la fecha en que se hubiere notificado la resolución. El juicio se iniciará por demanda que por escrito presentarán los representantes del poblado inconforme, haciendo constar en ella los puntos de inconformidad y las razones en que se fundan.
 
-A la demanda se acompañarán copias para las contrapartes y para el Departamento de Asuntos Agrarios y Colonización.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+A la demanda se acompañarán copias para las contrapartes y para la Secretaría de la Reforma Agraria.
 
 Las resoluciones del Ejecutivo Federal que no sean recurridas dentro del término que señala este artículo, causarán ejecutoria.
 
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 380.
 
-El Departamento de Asuntos Agrarios y Colonización, dentro de un plazo de quince días contados a partir de la fecha en que reciba la demanda, la contestará en nombre del Ejecutivo y remitirá el original del expediente a la Suprema Corte de Justicia de la Nación.
+La Secretaría de la Reforma Agraria dentro de un plazo de quince días contados a partir de la fecha en que reciba la demanda, la contestará en nombre del Ejecutivo y remitirá el original del expediente a la Suprema Corte de Justicia de la Nación.
 
 ###### ARTICULO 381.
 
@@ -2849,9 +3101,11 @@ La sentencia expresará cuáles son los puntos de la resolución presidencial qu
 
 La sentencia será notificada a las partes y remitida, en copia certificada, al juzgado de distrito respectivo, para que la ejecute en sus términos y la mande inscribir en el registro público de la propiedad correspondiente y en el Registro Agrario Nacional.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 388.
 
-La Corte remitirá copia certificada de la sentencia al Departamento de Asuntos Agrarios y Colonización que será el encargado de ejecutar los trabajos técnicos necesarios para el cumplimiento de la sentencia.
+La Corte remitirá copia certificada de la sentencia a la Secretaría de la Reforma Agraria que sea la encargada de ejecutar los trabajos necesarios para el cumplimiento de la sentencia.
 
 ###### ARTICULO 389.
 
@@ -2901,35 +3155,47 @@ La solicitud de nulidad deberá presentarse por escrito ante la Comisión Agrari
 
 La Comisión Agraria Mixta, dispondrá que se practique una investigación sobre el terreno, estudiará la documentación relacionada con la posesión y el fraccionamiento y oirá a las partes interesadas.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 398.
 
-La Comisión Agraria Mixta, realizará todas las diligencias a que se refiere el artículo anterior en el plazo de noventa días, transcurrido el cual emitirá su resolución en el plazo improrrogable de quince días y la comunicará a las partes y al Departamento de Asuntos Agrarios y Colonización.
+La Comisión Agraria Mixta realizará todas las diligencias a que se refiere el artículo anterior en el plazo de noventa días, transcurrido el cual emitirá su resolución en el plazo improrrogable de quince días y la comunicará a las partes y a la Secretaría de Reforma Agraria.
 
 ### CAPITULO TERCERO. Nulidad de fraccionamientos de propiedades afectables
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 399.
 
-El Departamento de Asuntos Agrarios y Colonización de oficio, o a solicitud del Ministerio Público Federal, de la Comisión Agraria Mixta en el caso del artículo 290, o de los campesinos interesados, podrá iniciar el procedimiento para declarar la nulidad de los fraccionamientos ilegales de propiedades afectables, y de los actos de simulación a que se refiere el artículo 210.
+La Secretaría de la Reforma Agraria de oficio, o a solicitud del Ministerio Público Federal, de la Comisión Agraria Mixta en el caso del Artículo 290, o de los campesinos interesados, podrá iniciar el procedimiento para declarar la nulidad de los fraccionamientos ilegibles de propiedades afectables, y de los actos de simulación a que se refiere al Artículo 210.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 400.
 
-La solicitud o el acuerdo que inicie de oficio el procedimiento, deberá publicarse en el periódico oficial de la entidad donde se encuentren ubicados los bienes objeto del procedimiento de nulidad; el Departamento de Asuntos Agrarios y Colonización deberá comunicar además a los propietarios la iniciación del procedimiento, por medio de oficio que les dirija a los cascos de las fincas.
+La solicitud o el acuerdo que inicie de oficio el procedimiento, deberá publicarse en el periódico oficial de la entidad donde se encuentran ubicados los bienes objetos del procedimiento de nulidad; la Secretaría de la Reforma Agraria deberá comunicar además a los propietarios la iniciación del procedimiento, por medio de oficio que les dirija a los cascos de las fincas.
 
 ###### ARTICULO 401.
 
 La solicitud se acompañará con los documentos y testimonios que la funde y hagan presumir la violación.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 402.
 
-El Departamento de Asuntos Agrarios y Colonización practicará las investigaciones y diligencias necesarias para comprobar los hechos en que se funda la pretensión de nulidad de los fraccionamientos.
+La Secretaría de la Reforma Agraria practicará las investigaciones y diligencias necesarias para comprobar los hechos en que se funda la pretensión de nulidad de los fraccionamientos.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 403.
 
-Los propietarios y demás afectados podrán ocurrir por escrito ante el Departamento dentro de los treinta días siguientes a la publicación de la solicitud, exponiendo lo que a su derecho convenga y rindiendo las pruebas y alegatos pertinentes.
+Los propietarios y demás afectados podrán ocurrir por escrito ante la Secretaría dentro de los treinta días siguientes a la publicación de la solicitud, exponiendo lo que a su derecho convenga y rindiendo las pruebas y alegatos pertenecientes.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 404.
 
-Transcurrido el plazo a que se refiere el artículo anterior, el Departamento formulará su dictamen en un término que no excederá de treinta días y lo someterá a la resolución del Presidente de la República. La resolución presidencial se publicará en el "Diario Oficial" de la Federación, y en el periódico oficial de la entidad donde se encuentren ubicados los predios.
+Transcurrido el plazo a que se refiere el artículo anterior, la Secretaría formulará su dictamen en un término que no excederá de treinta días y lo someterá a la resolución del Presidente de la República. La resolución presidencial se publicará en el "Diario Oficial" de la Federación, y en el periódico oficial de la entidad donde se encuentren ubicados los predios.
 
 ###### ARTICULO 405.
 
@@ -2973,19 +3239,25 @@ Cuando se trate de asambleas ejidales o comunales o de actos o documentos relaci
 
 ### CAPITULO QUINTO. Nulidad de Contratos y Concesiones
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 413.
 
-Por acuerdo del Presidente de la República el Departamento de Asuntos Agrarios y Colonización abrirá expediente para la nulificación de los contratos y concesiones a que se refiere la fracción XVIII, del párrafo séptimo del artículo 27 Constitucional.
+Por acuerdo del Presidente de la República la Secretaría de la Reforma Agraria abrirá expediente para la nulificación de los contratos y concesiones a que se refiere la fracción XVIII, del párrafo séptimo del artículo 27 Constitucional.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 414.
 
-En el acuerdo presidencial se especificará el contrato o concesión de que se trate y con base en esa especificación, el Departamento iniciará el procedimiento.
+En el acuerdo presidencial especificará el contrato o concesión de que se trate y con base en esa especificación la Secretaría iniciará el procedimiento.
 
 ###### ARTICULO 415.
 
 Con base en las investigaciones que se realicen, citará a los terceros poseedores de propiedades dentro del área afectada para, que en un plazo de noventa días, se presenten a alegar lo que a su derecho convenga.
 
-Desde que se inicie el procedimiento hasta que el Departamento de Asuntos Agrarios y Colonización declare cerrado el expediente, las partes interesadas podrán presentar toda clase de pruebas y alegatos.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Desde que se inicie el procedimiento hasta que la Secretaría de la Reforma Agraria declare cerrado el expediente, las partes interesadas podrán presentar toda clase de pruebas y alegatos.
 
 ###### ARTICULO 416.
 
@@ -3015,9 +3287,11 @@ III.- Tratándose de inafectabilidad ganadera o agropecuaria, dedique la propied
 
 IV.- En los demás casos que esta Ley señale.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 419.
 
-El Departamento de Asuntos Agrarios y Colonización cuando tome conocimiento de alguna o algunas de las causales señaladas anteriormente, iniciará el procedimiento de cancelación notificando a los titulares de los certificados de inafectabilidad que deban quedar sujetos al procedimiento, para que dentro de los treinta días que sigan a la notificación rindan sus pruebas y expongan lo que a su derecho convenga. Satisfecho lo anterior se dictará la resolución que corresponda, la cual, si manda cancelar el certificado, deberá notificarse al Registro Agrario Nacional para que se tilde la inscripción del título cancelado. Igual procedimiento se seguirá en los casos de nulidad.
+La Secretaría de la Reforma Agraria cuando tome conocimiento de alguna o algunas de las escuelas señaladas anteriormente, iniciará el procedimiento de cancelación notificando a los titulares de los certificados de inafectabilidad que deben quedar sujetos al procedimiento, para que dentro de los treinta días que sigan a la notificación rinda sus pruebas y expongan lo que a su derecho convenga. Satisfecho lo anterior se dictará la resolución que corresponda, la cual, si manda cancelar el certificado, deberá notificarse al Registro Agrario Nacional para que se tilde la inscripción del título cancelado, igual procedimiento se seguirá en los casos de nulidad.
 
 ## TITULO SEXTO. De la suspensión y privación de derechos agrarios
 
@@ -3079,17 +3353,23 @@ Si el o los ejidatarios afectados se ausentaron del ejido dejando abandonada la 
 
 El día y la hora señalados para la celebración de la audiencia, se escuchará a los interesados y se recibirán pruebas y alegatos.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 431.
 
-La Comisión Agraria Mixta, quince días después de celebrada la audiencia de pruebas y alegatos, emitirá opinión y enviará el expediente desde luego al Departamento de Asuntos Agrarios y Colonización, por conducto de su Delegado.
+La Comisión Agraria Mixta, quince días después de celebrada la audiencia de pruebas y alegatos, emitirá opinión y enviará el expediente desde luego a la Secretaría de la Reforma Agraria, por conducto de su Delegado.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 432.
 
-El Departamento de Asuntos Agrarios y Colonización, tan pronto reciba el expediente, hará un estudio del caso, valorizará escrupulosamente las pruebas recabadas y en el término de treinta días elaborará su dictamen, que deberá llevarse al Presidente de la República para la resolución definitiva que proceda.
+La Secretaría de la Reforma Agraria tan pronto reciba el expediente, hará un estudio del caso, valorizará escrupulosamente las pruebas recabadas y en el término de treinta días elaborará su dictamen, que deberá llevarse al Presidente de la República para la resolución definitiva que proceda.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 433.
 
-La resolución presidencial será enviada por el Departamento de Asuntos Agrarios y Colonización al Delegado correspondiente para su ejecución. A tal fin se notificará al Comisariado para que en el caso de que se haya decretado la privación de derechos y no se haya procedido a la nueva adjudicación, proceda a citar a Asamblea General con el objeto de adjudicar la o las unidades de dotación de que se trate, en los términos de esta Ley.
+La resolución presidencial será enviada por la Secretaría de la Reforma Agraria al Delegado correspondiente para su ejecución. A tal fin se notificara al Comisariado para que en el caso de que se haya decretado la privación de derechos y no se haya procedido a la nueva adjudicación, proceda a citar a Asamblea General con el objeto de adjudicar la o las unidades de dotación de que se trate, en los términos de esta Ley.
 
 ## TITULO SEPTIMO. Conflictos internos de los ejidos y comunidades
 
@@ -3125,9 +3405,11 @@ La Comisión Agraria Mixta notificará a las partes que disponen de un plazo de 
 
 Terminado el período de pruebas, las partes dispondrán de diez días para alegar lo que a su derecho convenga.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 440.
 
-Terminados los períodos de pruebas y alegatos, la Comisión Agraria Mixta dictará su resolución en el término de quince días. La resolución será irrevocable y se comunicará a las partes y al Departamento de Asuntos Agrarios y Colonización.
+Terminados los períodos de pruebas y alegatos, la Comisión Agraria Mixta dictará su resolución en el término de quince días. La resolución será irrevocable y se comunicará a las partes y a la Secretaría de la Reforma Agraria.
 
 ## TITULO OCTAVO. Reposición de Actuaciones
 
@@ -3225,29 +3507,37 @@ Los notarios públicos deberán tramitar, a cargo de los contratantes, la inscri
 
 El incumplimiento de las obligaciones que establecen los tres artículos anteriores por parte de empleados del registro público correspondiente o de los notarios, se sancionará respecto a los primeros con la destitución del cargo y respecto a los segundos con multa de mil a diez mil pesos; ambos casos sin perjuicio de las penas que ameriten conforme a las leyes locales.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 453.
 
-Para modificar o rectificar las inscripciones del Registro Agrario Nacional por error material o de concepto, se requerirá la resolución presidencial que así lo ordene, o convenio expreso de las partes interesadas. Cuando alguna de las partes fuere un núcleo de población o individuo integrante de él, sólo surtirá efectos el convenio si lo aprueba el Presidente de la República, a propuesta del Jefe del Departamento de Asuntos Agrarios y Colonización.
+Para modificar o rectificar las inscripciones del Registro Agrario Nacional por error material o de concepto, se requiera la resolución presidencial que así lo ordene, o convenio expresó de las partes interesadas. Cuando alguna de las partes fuere un núcleo de población o individuo integramente de él, solo surtirá efectos el convenio si lo aprueba el Presidente de la República, a propuesta del Secretario de la Reforma Agraria.
 
-Los errores debidamente comprobados, cuya corrección no modifique substancialmente el fondo de la inscripción, podrán corregirse por acuerdo del Jefe del Departamento de Asuntos Agrarios y Colonización y bajo su estricta responsabilidad.
+Los errores debidamente comprobados, cuya corrección no modifique substancialmente el fondo de la inscripción, podrán corregirse por acuerdo del Secretario de la Reforma Agraria y bajo su estricta responsabilidad.
 
 ## TITULO SEGUNDO. De la planeación Agraria
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 454.
 
-El Departamento de Asuntos Agrarios y Colonización organizará los servicios de análisis e investigación necesarios para formular los programas de rehabilitación agraria, diseñar los programas de organización y desarrollo ejidal y comunal, y, en general, realizar los estudios que le encomiende el Jefe del Departamento de Asuntos Agrarios para cumplir con las funciones que esta Ley le confiere.
+La Secretaría de la Reforma Agraria organizará los servicios de análisis de investigación necesarios para formular los programas de rehabilitación agraria, diseñar los programas de organización y desarrollo ejidal y comunal, y, en general, realizar los estudios que le encomiende el Secretario de la Reforma Agraria para cumplir con las funciones que esta Ley le confiere.
 
-Para los propósitos señalados en el párrafo anterior así como para el cumplimiento de las tareas que las leyes le atribuyen, el Departamento de Asuntos Agrarios y Colonización utilizará los recursos técnicos que resulten más aconsejables y, si no cuenta con ellos, realizará con terceras personas los contratos necesarios para disponer de ellos.
+Para los propósitos señalados en el párrafo anterior, así como para el cumplimiento de las tareas que las leyes le atribuyen, la Secretaría de la Reforma Agraria, utilizará los recursos técnicos que resulten más aconsejables y, si no cuenta con ellos, realizará con terceras personas los contratos necesarios para disponer de ellos.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 455.
 
-Se establecerán también los servicios de organización y métodos relacionados con el funcionamiento del propio Departamento y sus Delegaciones, Cuerpo Consultivo, Comisiones Agrarias Mixtas, Comisariados Ejidales y Consejos de Vigilancia y, en general, los de asesoría administrativa a toda clase de asociaciones, uniones y sociedades de las mencionadas en esta Ley.
+Se establecerán también los servicios de organización y métodos relacionados con el funcionamiento de la propia Secretaría y sus Delegaciones, Cuerpo Consultivo, Comisiones Agrarias Mixtas, Comisariados Ejidales y Consejos de Vigilancia y, en general, los de asesoría administrativa a toda clase de asociaciones, uniones y sociedades de las mencionadas en esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 456.
 
-El Departamento de Asuntos Agrarios y Colonización deberá recabar anualmente de cada ejido y comunidad la siguiente información:
+La Secretaría de la Reforma Agraria deberá recabar anualmente de cada ejido y comunidad la siguiente información:
 
 I.- Movimiento de la población ejidal con indicación de sexo y edad;
 
@@ -3277,11 +3567,15 @@ XIII.- Escuelas que existan o ampliaciones escolares realizadas durante el perí
 
 XIV.- Problemas agrarios pendientes de solución, con indicación de la autoridad que debe resolver.
 
-Independientemente de los datos anteriores, el Departamento podrá recabar todos los demás que considere útiles para conocer el desarrollo agropecuario e industrial de los ejidos y comunidades, y realizar la planeación económica y social correspondiente.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
+Independientemente de los datos anteriores, la Secretaría podrá recabar todos los demás que considere útiles para conocer el desarrollo agropecuario e industrial de los ejidos y comunidades, y realizar la planeación económica y social correspondiente.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 457.
 
-El Departamento de Asuntos Agrarios y Colonización realizará los estudios e investigaciones necesarias para prever la posible demanda de mano de obra asalariada regional o local, con motivo de la siembra, cultivo o cosecha de determinado producto; así como los actuales movimientos migratorios campesinos que con tal motivo se realizan, y la programación de las entidades o zonas que deban tener preferencia para que en ellas se contrate el mayor número de trabajadores, atendiendo a sus condiciones circunstanciales o permanentes.
+La Secretaría de la Reforma Agraria realizará los estudios e investigaciones necesarios para prever la posible demanda de mano de obra asalariada regional o local, con motivo de la siembra, cultivo cosecha de determinado producto; así como los actuales movimientos migratorios campesinos que con tal motivo se realizan y la programación de las entidades o zonas que deban tener preferencia para que en ellas se contrate el mayor número de trabajadores, atendiendo a sus condiciones circunstanciales o permanentes.
 
 # LIBRO SEPTIMO. RESPONSABILIDAD EN MATERIA AGRARIA
 
@@ -3307,9 +3601,11 @@ IV.- Por afectar ilegalmente las propiedades inafectables en los mandamientos de
 
 V.- Por las demás causas que especifique esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 460.
 
-El Jefe del Departamento de Asuntos Agrarios y Colonización incurrirá en responsabilidad:
+El Secretario de la Reforma Agraria incurrirá en responsabilidad:
 
 I.- Por informar falsamente al Presidente de la República, al someterle los proyectos de resolución a que esta Ley se refiere;
 
@@ -3319,9 +3615,11 @@ III.- Cuando proponga que se afecten, en una resolución presidencial, propiedad
 
 Los casos anteriores serán sancionados con pena de seis meses a dos años de prisión, según la gravedad de los hechos de que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 461.
 
-El Jefe del Departamento de Asuntos Agrarios y Colonización incurrirá también en responsabilidad:
+El Secretario de la Reforma Agraria incurrirá también en responsabilidad:
 
 I.- Por no informar al Presidente de la República de los casos en que proceda sancionar a funcionarios o empleados agrarios, en los casos de responsabilidad que a cada uno de ellos señale esta Ley.
 
@@ -3379,9 +3677,13 @@ II.- Por proponer se afecten las propiedades inafectables;
 
 III.- Por no tramitar, dentro de los términos que fija esta ley, los expedientes agrarios;
 
-IV.- Por no informar oportunamente al Departamento de las irregularidades que cometan las Comisiones Agrarias Mixtas;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
 
-V.- Por informar dolosamente al Departamento sobre los expedientes en que intervengan, en forma que origine o pueda originar resoluciones contrarias a esta Ley;
+IV.- Por no informar oportunamente a la Secretaría de las irregularidades que comentan las Comisiones Agrarias Mixtas.
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1975)</small>
+
+V.- Por informar dolorosamente a la Secretaría sobre expedientes en que intervengan, en forma que origine o pueda originar resoluciones contrarias a esta Ley.
 
 VI.- Por conceder a los propietarios afectados plazos mayores que los que señala esta Ley, para el levantamiento de cosechas, el desalojo de ganado o la extracción de productos forestales;
 
@@ -3397,9 +3699,11 @@ En los casos a que se refiere este artículo los Delegados y Subdelegados respon
 
 El personal administrativo y técnico federal y de las Comisiones Agrarias Mixtas, que intervengan en la aplicación de esta Ley, estará sujeto a las mismas causas de responsabilidad y sanciones establecidas para los Delegados, en lo que sea estrictamente aplicable conforme a las funciones que expresamente les confieren las leyes.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 468.
 
-En los casos de la fracción IV del artículo 41, hecha la remoción, el empleado o funcionario que haya intervenido en la asamblea enviará inmediatamente un ejemplar del acta y documentación respectiva al Ministerio Público que corresponda, dando cuenta al Departamento de Asuntos Agrarios y Colonización.
+En los casos de la fracción IV del Artículo 41, hecha la remoción, el empleado o funcionario que haya intervenido en la asamblea enviará inmediatamente un ejemplar del acta y documentación respectiva al Ministerio Público que corresponda, dando cuenta a la Secretaría de la Reforma Agraria.
 
 ###### ARTICULO 469.
 
@@ -3453,9 +3757,11 @@ El Presidente de la República expedirá los reglamentos que fueren necesarios p
 
 Las disposiciones de este capítulo no restringen, ni modifican, el alcance de las leyes penales aplicables a cualquier hecho u omisión de los funcionarios y empleados agrarios sancionados por ellas.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 475.
 
-Se concede acción popular para denunciar ante el Presidente de la República o el Jefe del Departamento de Asuntos Agrarios y Colonización, todos los actos u omisiones de los funcionarios y empleados agrarios que, conforme a esta ley y a sus, reglamentos, sean causa de responsabilidad.
+Se concede acción popular para denunciar ante el Presidente de la República o el Secretario de la Reforma Agraria, todos los actos u omisiones de los funcionarios y empleados agrarios que, conforme a esta Ley y sus reglamento, sean causa de responsabilidad.
 
 DISPOSICIONES GENERALES
 
@@ -3463,17 +3769,23 @@ DISPOSICIONES GENERALES
 
 El Ejecutivo de la Unión proveerá el exacto cumplimiento de los preceptos contenidos en esta Ley, dictando los reglamentos, circulares y demás disposiciones y formulando los instructivos que fueren necesarios.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 477.
 
-Sin perjuicio de la obligación que corresponde a otras dependencias del Ejecutivo Federal, el Departamento de Asuntos Agrarios y Colonización vigilará las condiciones de contratación, desplazamiento y trabajo de los campesinos, a que se refiere el artículo 457.
+Sin perjuicio de la obligación que corresponde a otras dependencias de Ejecutivo Federal, la Secretaría de la Reforma Agraria vigilará las condiciones de contratación, desplazamiento y trabajo de los campesinos, a que se refiere el Artículo 457.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 478.
 
-Se formará un Consejo Nacional de Desarrollo Agrario que dependerá del Jefe del Departamento de Asuntos Agrarios y Colonización y que se organizará conforme a lo que disponga el Reglamento respectivo. Estará compuesto por profesionistas y técnicos de distintas especialidades y que sean representantes de asociaciones, organizaciones obreras, colegios, instituciones de cultura y cámaras de comercio e industria, y su función será consultiva y de cooperación en la acción social y económica que el Departamento de Asuntos Agrarios y Colonización realice en materia de rehabilitación y promoción en los ejidos, comunidades y nuevos centros de población.
+Se formará un Consejo Nacional de Desarrollo Agrario que dependerá del Secretario de la Reforma Agraria y que organizará conforme a lo que disponga el Reglamento respectivo. Estará compuesto de profesionistas y técnicos de distintas especialidades y que sean representantes de asociaciones, organizaciones obreras, colegios instituciones de cultura y cámaras de comercio e industria, y su función será consultiva y de cooperación en la acción social y económica que la Secretaría de la Reforma Agraria realice en materia de rehabilitación y promoción en los ejidos, comunidades y nuevos centros de población.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 479.
 
-Se presentarán a la consideración del Consejo Nacional de Desarrollo Agrario, las planeaciones formuladas y aprobadas por el Departamento de Asuntos Agrarios y Colonización, para que se hagan las observaciones que se estimen convenientes y se procure la participación de las dependencias oficiales que intervienen en el desarrollo y realización de los trabajos correspondientes a cada una de las zonas señaladas en dichas planeaciones.
+Se presentará a la consideración del Consejo Nacional de Desarrollo Agrario, las planeaciones formuladas y aprobadas por la Secretaría de la Reforma Agraria, para que se hagan las observaciones que se estimen convenientes y se procure la participación de las dependencias oficiales que intervienen en el desarrollo y realización de los trabajos correspondientes a cada una de las zonas señaladas en dichas planeaciones.
 
 ###### ARTICULO 480.
 
@@ -3536,3 +3848,9 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 3 DE ENERO DE 1975.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
