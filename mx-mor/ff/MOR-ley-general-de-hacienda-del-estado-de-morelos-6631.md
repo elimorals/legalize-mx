@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2004-07-30"
+last_updated: "2004-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -3521,6 +3521,8 @@ Están exentos del pago de derechos, los profesores que ejerzan su actividad, ú
 
 Los servicios de control vehicular se causarán y pagarán conforme a la siguiente tarifa:
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
 I.- Licencias.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
@@ -3575,53 +3577,31 @@ b).- Automovilista $ 62.00
 
 c).- Motociclista $ 43.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA POR EL ARTICULO NOVENO DE LA LEY DE INGRESOS PARA EL GOBIERNO DEL ESTADO DE MORELOS, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-II.- POR EXPEDICIÓN DE PLACAS, TARJETAS DE CIRCULACIÓN Y ENGOMADO
+II.- Por la expedición de placas, tarjetas de circulación y engomado:
 
-A).- Servicio particular:
+A).- Servicio Particular:
 
-1.- Auto o camión particular:
+1.- Automóvil $320.00
 
-a).- Placas $120.00
+2.- Camión 550.00
 
-b).- Tarjeta de circulación $ 50.00
+3.- Remolque 550.00
 
-c).- Engomado $ 50.00
+4.- Antiguo 650.00
 
-2.- Demostradoras 500.00
+5.- Demostradora 700.00
 
-3.- Remolque:
+6.- Motocicleta 275.00
 
-a).- Placas $120.00
-
-b).- Engomado $ 50.00
-
-4.- Motocicletas:
-
-a).- Placas $120.00
-
-b).- Tarjeta de Circulación $50.00
-
-B).- Servicio Público:
-
-1.- Vehículos de servicio público:
-
-a).- Placa $250.00
-
-b).- Tarjeta de circulación $100.00
-
-2.- Remolque:
-
-a).- Placa $250.00
-
-b).- Engomado $100.00
-
-3.- Por reposición o sustitución de placas para el servicio público $250.00
+B).- Servicio Público $600.00
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 II-BIS.- Canje de Placas. $180.00
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 III.- Refrendo anual de tarjetas de circulación y engomado.
 
@@ -3683,6 +3663,8 @@ B).- Servicio público sin itinerario fijo 30
 
 C).- Servicio público de carga 37
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
 IV.- Otros servicios.
 
 1.- Expedición gafete de operador N$ 11.20
@@ -3692,6 +3674,8 @@ IV.- Otros servicios.
 3.- Cambio de vehículo de servicio público N$ 92.00
 
 4.- Depósito para trámite de baja de otro Estado N$ 230.00
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 V.- Tarjetones para el servicio público del transporte.
 
@@ -3731,6 +3715,8 @@ B) Camión materialista N$ 460.00
 
 C) Automóvil de servicio público N$ 611.20
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
 VI.- Vehículos.
 
 1.- Cambio de vehículos particulares N$ 36.80
@@ -3746,6 +3732,8 @@ Tercera vez N$ 60.00
 A) Local por diez días N$ 23.20
 
 B) Foráneo por tres días N$ 9.60
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 VII.- Servicio de control vehicular de carga, circular sin placas ni tarjeta de circulación y otros:
 
@@ -3797,6 +3785,8 @@ Para transporte de caña N$ 9.60
 
 Conversión N$ 23.20
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
 VIII.- Servicio de control vehicular anual para terminales de línea de servicio urbano e inter-urbano:
 
 1.- En Cuernavaca N$ 460.00
@@ -3804,6 +3794,8 @@ VIII.- Servicio de control vehicular anual para terminales de línea de servicio
 2.- En jojutla N$ 460.00
 
 3.- En otras poblaciones N$ 152.00
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 IX.- Servicio de control vehicular de ruta.
 
@@ -3821,17 +3813,23 @@ IX.- Servicio de control vehicular de ruta.
 
 7.- Para microbús con itinerario fijo N$ 878.40
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
 X.- Infracciones.
 
 De N$ 15.00 a N$ 3,500.00
 
 XI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
 XII.- Expedición de:
 
 1.- Duplicado de tarjeta de circulación N$ 22.40
 
 2.- Certificaciones N$ 9.60
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 XIII.- Depósito y arrastre de vehículos.
 
@@ -5230,3 +5228,9 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Tierra y Lib
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 TERCERO.- El presente Decreto no autoriza la expedición de nuevas concesiones, ni la reexpedición de concesiones que hayan sido canceladas o sobre las cuales no se hayan pagado oportunamente los derechos correspondientes para su renovación, si es que era necesario hasta antes de la fecha de entrada en vigor del presente.
+
+P.O. 15 DE DICIEMBRE DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad" e iniciará su aplicación a partir del 1º de enero del año 2005.
+
+SEGUNDO.- Se derogan todas las disposiciones que concedan subsidios o exenciones, con excepción de las previstas en la Ley general de Hacienda del Estado de Morelos, o las que con aprobación del Congreso del Estado se promulguen. Asimismo, se reforma la Fracción II del Artículo 424 de la Ley General de Hacienda del Estado de Morelos.
