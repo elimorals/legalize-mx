@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-28-2000-del-pleno-del-consejo-de-la-5913
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-05-23"
-last_updated: "2000-05-23"
+last_updated: "2004-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59132&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-05-03"
 
 ACUERDO GENERAL NUMERO 28/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DETERMINAN LOS DOCUMENTOS E INFORMACION QUE DEBEN CONTENER LOS EXPEDIENTES DE PERSONAL, ASI COMO LA OBLIGACION DE PROPORCIONARLOS QUE TIENEN LOS SERVIDORES PUBLICOS ADSCRITOS A LOS ORGANOS JURISDICCIONALES Y ADMINISTRATIVOS DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE OCTUBRE DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de mayo de 2000.
 
@@ -75,7 +75,9 @@ I. Documentación Personal:
 
 8.- Copia certificada de la Cédula de la Clave Unica de Registro de Población (de no contar con ella, deberá solicitarse el trámite en la Dirección General de Recursos Humanos);
 
-9.- Copia certificada de filiación ante la Secretaría de Hacienda y Crédito Público, (de no contar con ella, deberá solicitarse el trámite en la Dirección General de Recursos Humanos);
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+
+9.- Copia certificada de filiación ante la Secretaría de Hacienda y Crédito Público y/o Secretaría de la Función Pública, (de no contar con ella, deberá solicitarse el trámite en la Dirección General de Recursos Humanos);
 
 10.- Copia certificada del consentimiento para ser asegurado en el Seguro de Vida Institucional (Aseguradora Hidalgo) y de la designación de beneficiarios correspondiente;
 
@@ -85,13 +87,17 @@ I. Documentación Personal:
 
 13.- Certificado médico original, expedido por cualquier Institución de Salud Pública, con una antigüedad no mayor de tres meses respecto de la fecha de ingreso. En el caso de los servidores públicos domiciliados en el Distrito Federal el certificado también puede ser expedido por el Servicio Médico del Consejo de la Judicatura Federal; y,
 
-14.- Escrito en el que, bajo protesta de decir verdad, el servidor público manifieste encontrarse en pleno ejercicio de sus derechos y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+
+14.- Escrito en el que, bajo protesta de decir verdad, el servidor público manifieste encontrarse en pleno ejercicio de sus derechos y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, así como no haber sido sancionado por falta administrativa grave de conformidad con las disposiciones legales en la materia.
 
 II. Documentación Institucional:
 
 1.- Copia certificada de confirmación del aviso de alta al ISSSTE, así como los avisos de modificación de sueldo o de baja correspondientes;
 
-2.- Copia certificada de los acuses de recibo de las credenciales de identificación expedidas por el Consejo de la Judicatura Federal, y en caso de robo o extravío copia certificada de la denuncia penal o querella interpuesta ante la autoridad competente;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+
+2.- Original de los acuses de recibo de las credenciales de identificación expedidas por el Consejo de la Judicatura Federal; en caso de robo, copia certificada de la denuncia penal o querella interpuesta ante la autoridad competente; y en caso de extravío, original o copia certificada del escrito en el que, bajo protesta de decir verdad, el servidor público manifieste las causas y circunstancias en que se dio dicho extravío, cuando éstas no hayan sido producto de un acto constitutivo de delito en su perjuicio;
 
 3.- Formato original de solicitud de credenciales y constancias;
 
@@ -103,7 +109,9 @@ II. Documentación Institucional:
 
 7.- Constancias de percepciones y retenciones anuales expedidas por la Dirección General de Recursos Humanos (en su caso);
 
-8.- Constancias de descuentos aplicados con motivo de préstamos otorgados por el ISSSTE (en su caso);
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+
+8.- Constancias de descuentos aplicados con motivo de préstamos otorgados por el ISSSTE y/o FOVISSSTE (en su caso);
 
 9.- Copia autógrafa de las hojas únicas de servicios expedidas por Terceros Institucionales, para efectos de acumulación de antigüedad del personal (en su caso);
 
@@ -141,7 +149,9 @@ II. Documentación Institucional:
 
 26.- Autorización de licencia prejubilatoria, en su caso;
 
-27.- Dictamen de invalidez, en caso de que el ISSSTE hubiese otorgado incapacidad total y permanente;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+
+27.- Dictamen de invalidez o incapacidad, en caso de que el ISSSTE hubiese otorgado invalidez o incapacidad total y permanente;
 
 28.- Avisos de baja;
 
@@ -155,7 +165,9 @@ III. Documentación de Disciplina:
 
 2.- Copias de quejas administrativas (acuerdo inicial y acuerdo de resolución);
 
-3.- Copias de denuncias ante la Comisión Substanciadora (copia del dictamen de resolución y acuerdo del Pleno);
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+
+3.- Copias de denuncias ante la Comisión Substanciadora Unica del Poder Judicial de la Federación (copia del dictamen de resolución y acuerdo del Pleno);
 
 4.- Copias de sanciones aplicadas por responsabilidad (acuerdo de incoación y acuerdo resolutivo);
 
@@ -163,11 +175,17 @@ III. Documentación de Disciplina:
 
 6.- Copias certificadas de diversas sanciones impuestas por el Consejo de la Judicatura Federal y constancia de la notificación correspondiente; y,
 
-7.- Copias certificadas de las actas administrativas levantadas en contra del servidor público por los titulares o encargados de cada órgano jurisdiccional o administrativo.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
+
+7.- Copias certificadas de las actas administrativas y/o de hechos levantadas en contra del servidor público por los titulares o encargados de cada órgano jurisdiccional o administrativo.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 59/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 2o.
 
-Integración de los expedientes. Los servidores públicos adscritos a los Organos Jurisdiccionales y Administrativos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, tienen la obligación de proporcionar la documentación personal citada en el artículo anterior, en un plazo que no podrá exceder de treinta días naturales a partir de la fecha de su ingreso, en el entendido de que en caso de ser omisos serán sancionados en los términos establecidos en las leyes aplicables y en los Acuerdos emitidos por las Comisiones y el Pleno del Consejo de la Judicatura Federal.
+Integración de los expedientes. Los servidores públicos de nuevo ingreso adscritos a los Organos Jurisdiccionales y Administrativos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, tienen la obligación de proporcionar la documentación personal señalada en los numerales 1; 3; 4; 6; 8; 9; y 14 de la fracción I, artículo 1o., del presente Acuerdo, para efectos de autorización de su nombramiento; asimismo deberán proporcionar la documentación personal restante citada en el artículo anterior, en un plazo que no podrá exceder de treinta días naturales a partir de la fecha de su ingreso. Los servidores públicos que ya se encuentren en funciones, deberán proporcionar la documentación personal mencionada en el artículo anterior, que no hayan entregado previamente, en un plazo que no podrá exceder de noventa días naturales a partir de la fecha de publicación del presente Acuerdo.
+
+En ambos casos, de ser omisos serán sancionados en los términos establecidos en las leyes aplicables y en los Acuerdos emitidos por las Comisiones y el Pleno del Consejo de la Judicatura Federal.
 
 ###### Artículo 3o.
 
@@ -202,3 +220,13 @@ CUARTO.- Se derogan en lo conducente los Acuerdos y Circulares emitidos por el P
 QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 28/2000, del Pleno del Consejo de la Judicatura Federal, por el que se determinan los documentos e información que deben contener los expedientes de personal, así como la obligación de proporcionarlos que tienen los Servidores Públicos adscritos a los Organos Jurisdiccionales y Administrativos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de tres de mayo de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a cuatro de mayo de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 15 DE OCTUBRE DE 2004.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
