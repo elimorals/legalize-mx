@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1933-05-10"
+last_updated: "1934-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1933.
-
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO NUMERO 2 PUBLICADO EN EL PERIODICO OFICIAL DE 12 DE ABRIL DE 1933, NO HAN ENTRADO EN VIGOR LAS REFORMAS, ADICIONES Y SUPRESIONES HECHAS A LA CONSTITUCION POLITICA DEL ESTADO DE GUERRERO, DECRETADAS EL 27 DE DICIEMBRE DE 1932, Y TODAS LAS LEYES Y DISPOSICIONES EMANADAS DE LAS REFORMAS ALUDIDAS, POR LO QUE CONTINUAN EN VIGOR LOS ARTICULOS 45, 65 Y 111 DE LA CONSTITUCION POLITICA DEL ESTADO, COMO SE ENCONTRABAN INMEDIATAMENTE ANTES DE LA FECHA SEÑALADA.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1934.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -173,11 +171,9 @@ La Capital del Estado es la Ciudad de Chilpancingo de los Bravos, donde deben re
 
 ###### Artículo 16.
 
-El territorio del Estado comprende el que le señaló la ley de su creación, con la modificación contenida en el Decreto número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
+El Territorio del Estado comprende el que le señaló la Ley de su creación, con la modificación contenida en el Decreto Número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
-
-Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Toxtepec (sic), Teloloapan, Cuetzala del Progreso, Ixcateopan, Pedro Ascencio Alquisiras, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyu, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Atenango del Río, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Arcelia, La Unión, Coahuayutla de Guerrero, Tlapa, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomixtlahuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlauhac, Malinaltepec, Tenango Tepexi, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán; Cualac y Olinalá; Pilcaya.
+Se divide en las siguientes Municipalidades: Ciudad Bravos, Chichihualco, (Leonardo Bravo), Zumpango del Río, Tlacotepec, Mochitlán, Quechultenango, Acapulco, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Tixtla, Apango (Mártir de Cuilapan), Iguala, Cocula, Tepecoacuilco, Huitzuco, Copalillo, Atenango del Río, Teloloapan, Arcelia, San Miguel Totolapan, Cuetzala del Progreso, Apaxtla, Taxco de Alarcón, Itzcapuzalco, Ixcateopan, Tetipac, Pilcaya, Coyuca de Catalán, Tlalchapa, Cutzamala de Pinzón, Zirándaro, Pungarabato, Ajuchitlán, Tlapa, Tlacuapa, Zapotitlán Tablas, Tenango Tepexi, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Alcozauca de Guerrero, Metlatonoc, Xalpatlauhac, Malinaltepec, Huamuxtitlán, Xochihuehuetlán, Olinalá, Alpoyeca, Cualac, Ometepec, Tlacoachixtlahuaca, Ayutla, Cuautepec, Copala, Cruz Grande, San Marcos, Tecoanapa, Azoyú, Igualapa, Cuajinicuilapa, San Luis Acatlán, La Unión, Coahuayutla, Atoyac de Alvarez, Tecpan de Galeana, Coyuca de Benítez y Benito Juárez.
 
 Las Municipalidades expresadas, conservan la integridad territorial que hasta ahora han reconocido, a reserva de ampliarla o reducirla y de suprimir las que no tengan viabilidad, según lo exijan los intereses generales del Estado.
 
@@ -233,7 +229,9 @@ Alvarez, con las de Chilapa de Alvarez, Atlixtac, Ahuacuotzingo, Zitlala, Copali
 
 Bravos, con las de Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo y Tlacotepec; su Cabecera Chilpancingo de los Bravos.
 
-Galeana, con las de Tecpan de Galeana y Atoyac de Alvarez; su Cabecera Tecpan de Galeana.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1934)</small>
+
+Galeana, con las de Tecpan de Galeana, Atoyac de Alvarez y Benito Juárez; su Cabecera Tecpan de Galeana.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1926)</small>
 
@@ -1033,6 +1031,8 @@ De los derechos y obligaciones de los Ciudadanos del Estado, y casos en que se s
 
 Del Municipio como base de la división territorial del Estado, y su organización política y administrativa de los Distritos.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1934)</small>
+
 ### CAPITULO II.
 
 De los Distritos.
@@ -1228,3 +1228,15 @@ P.O. 12 DE ABRIL DE 1933.
 P.O. 10 DE MAYO DE 1933.
 
 Unico.- El presente Decreto principiará a regir, a partir de la fecha de su publicación.
+
+P.O. 17 DE ENERO DE 1934.
+
+DECRETO NUMERO 46.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 17 DE ENERO DE 1934.
+
+DECRETO NUMERO 47.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
