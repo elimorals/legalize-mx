@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "1999-06-06"
+last_updated: "2001-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 6 de junio de 1999.
 
@@ -93,11 +93,13 @@ c).- Sistema de Salud: Al Sistema Estatal de Salud.
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 6º.
 
-El Sistema Estatal de Salud está constituido por las dependencias y entidades públicas y sociales y las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado, así como por los mecanismos de coordinación de acciones a fin de dar cumplimiento al derecho a la protección de la salud en el territorio del Estado de Aguascalientes. Su misión es mejorar las condiciones de salud de la población del Estado con equidad, calidad y eficiencia.
+El Sistema Estatal de Salud está constituido por las dependencias y entidades públicas y sociales y las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado así como por los mecanismos de coordinación de acciones a fin de dar cumplimiento al derecho a la protección de la salud en el territorio del Estado de Aguascalientes. Su misión es mejorar las condiciones de salud de la población del Estado con equidad, calidad y eficiencia.
 
-El Sistema Estatal de Salud, con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado de Aguascalientes, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, y del Estado con los Municipios.
+El Sistema Estatal de Salud, con la intervención que corresponda a la Secretaría de Planeación, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, y del Estado con los Municipios.
 
 ###### ARTICULO 7º.
 
@@ -177,9 +179,11 @@ IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan l
 
 La competencia de las autoridades sanitarias en la planeación, regulación, presupuestación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por lo establecido en esta Ley y demás disposiciones normativas aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 12.
 
-El Titular del Ejecutivo del Estado con la participación que corresponda al Instituto de Salud del Estado de Aguascalientes, al Comité de Planeación para el Desarrollo del Estado y los Ayuntamientos, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
+El titular del Ejecutivo del Estado con la participación que corresponda al Instituto de Salud del Estado de Aguascalientes, a la Secretaría de Planeación y los Ayuntamientos, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
 
 ###### ARTICULO 13.
 
@@ -603,9 +607,11 @@ III.- De asistencia social.
 
 Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 39.
 
-Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como universalización de cobertura y de colaboración institucional, considerando lo que surgiera el Comité de Planeación para el Desarrollo del Estado de Aguascalientes.
+Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como universalización de cobertura y de colaboración institucional, considerando lo que surgiera la Secretaría de Planeación.
 
 ###### ARTICULO 40.
 
@@ -2145,7 +2151,7 @@ El procedimiento de muestreo no impide que la autoridad sanitaria dicte y ejecut
 
 En el caso de toma de muestras de productos perecederos deberá conservarse en condiciones óptimas para evitar su descomposición, su análisis deberá iniciarse dentro de las cuarenta y ocho horas siguientes a la hora en que se recogieron. El resultado del análisis se notificará en forma personal al interesado dentro de los quince días hábiles siguientes contados a partir de la fecha en que se hizo la verificación. El particular podrá impugnar el resultado del análisis en un plazo de tres días contados a partir de la notificación, en cuyo caso se procederá en los términos de las fracciones VI y VII del artículo anterior.
 
-Transcurrido este plazo, sin que se haya impugnado el resultado del análisis oficial, éste quedará firme.
+Transcurrido este plazo, sin que se haya impugnado el resultado del análisis oficial, éste quedará firme,
 
 ###### ARTICULO 262.
 
@@ -2510,3 +2516,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
