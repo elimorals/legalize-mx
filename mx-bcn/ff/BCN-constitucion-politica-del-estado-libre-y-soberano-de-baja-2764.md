@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1998-08-28"
+last_updated: "1998-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -477,9 +477,9 @@ XIII.- Vigilar por medio de una Comisión de su seno el funcionamiento de la Con
 
 XIV.- Nombrar y remover al Contador Mayor de Hacienda y a los empleados de esa dependencia;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
-XV.- Nombrar a tres Consejeros integrantes al Consejo de la Judicatura del Estado, y a los Magistrados del Tribunal de Justicia Electoral Numerarios y Supernumerarios en orden de prelación, del Poder Judicial;
+XV.- Elegir a tres Consejeros integrantes al Consejo de la Judicatura del Estado, a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia, así como a los Magistrados del Tribunal de Justicia Electoral Numerarios y Supernumerarios en orden de prelación, del Poder Judicial;
 
 XVI.- Designar, en los términos que previene esta Constitución, al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas;
 
@@ -487,9 +487,9 @@ XVI.- Designar, en los términos que previene esta Constitución, al ciudadano q
 
 XVII.- Convocar a elecciones, cuando fuere necesario conforme a lo establecido en la Ley;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
-XVIII.- Resolver acerca de las renuncias de los Diputados, del Gobernador, los Magistrados del Tribunal de Justicia Electoral del Poder Judicial, y de los representantes al Consejo de la Judicatura designados por el Congreso del Estado;
+XVIII.- Resolver acerca de las licencias definitivas de los Diputados, del Gobernador, y renuncia de los Magistrados del Tribunal de Justicia Electoral del Poder Judicial y de los integrantes del Consejo de la Judicatura del Estado electos por el Congreso; así como de la renuncia, remoción y oposición a la ratificacióm (sic) de los Magistrados del Tribunal Superior de Justicia;
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -873,41 +873,41 @@ Las audiencias serán públicas, excepto aquellas que la moral o el interés col
 
 Las Corporaciones Policíacas, están obligadas a garantizar la plena ejecución de las resoluciones judiciales.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 57.
 
-El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Tribunal de Justicia Electoral, Juzgados de Primera Instancia, Juzgados de Paz, Jurados y por el Consejo de la Judicatura del Estado de Baja California.
+El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Tribunal de Justicia Electoral, Juzgados de Primera Instancia, Juzgados de Paz y Jurados.
 
-La representación del Poder Judicial recae en el presidente del Tribunal Superior de Justicia, el cual se elegirá y desempeñará sus funciones en los términos y por el período que la Ley señale.
+Contará con un Consejo de la Judicatura, el cual ejercerá funciones de vigilancia, disciplina, supervisión y administración.
+
+La representación del Poder Judicial estará a cargo del Presidente del Tribunal Superior de Justicia del Estado, el cual se elegirá y desempeñará sus funciones en los términos y por el período que la Ley señale.
 
 La Ley garantizará la independencia de los Magistrados, Consejeros y Jueces en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
 
 Corresponde al Tribunal de Justicia Electoral como máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial garantizar el cumplimiento del principio de legalidad de los actos y resoluciones electorales.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
+La remuneración de los Magistrados del Poder Judicial a excepción de los Magistrados electorales, así como de los jueces de primera instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, no podrá ser disminuida durante el tiempo de su gestión.
 
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
-
-> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
-
-> <small>(DEROGADO OCTAVO PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
-
-La remuneración de los Magistrados del Poder Judicial a excepción de los Magistrados electorales, así como de los jueces de primera Instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, no podrá ser disminuida durante el tiempo de su gestión.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 58.
 
-El Tribunal Superior de Justicia estará integrado por trece Magistrados Propietarios como mínimo, y seis Suplentes. Funcionará en los términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará un año en su cargo, pudiendo ser reelecto.
+El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios como mínimo y tres Supernumerarios. Funcionará en los términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará un año en su cargo, pudiendo ser reelecto.
 
-El nombramiento de los Magistrados del Tribunal Superior de Justicia, será hecho por selección del Consejo de la Judicatura del Estado, previa convocatoria pública y examen de méritos a los aspirantes que cumplan los requisitos y los procedimientos establecidos por la Ley.
+Los Magistrados del Tribunal Superior de Justicia, serán electos por el Congreso del Estado por mayoría calificada de entre quienes integran la lista que le presente el Presidente del Tribunal Superior de Justicia del Estado de Baja California, que deberá incluir a todos los aspirantes que hayan resultado aprobados en el examen que practique el Consejo de la Judicatura conforme al reglamento respectivo.
 
-Los Magistrados del Tribunal Superior de Justicia, durarán en su encargo un período de seis años a partir de la fecha a que alude el Artículo 44 de esta Constitución, pudiendo ser ratificados, sin perjuicio de ser privados de sus cargos en los términos que determine la Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado. La terminación de la función de los Magistrados será automática al vencer el período por el cual fueron designados, su ratificación sólo procederá previo dictamen en ese sentido que emita el Consejo de la Judicatura del Estado.
+Los Magistrados del Tribunal Superior de Justicia, durarán en su cargo seis años a partir de su nombramiento, pudiendo ser ratificados por otro periodo de seis años.
+
+Seis meses antes de que concluya el período para el que fue nombrado un Magistrado, el Congreso del Estado, previa opinión del Consejo de la Judicatura del Estado, podrá ratificarlo. Al efecto resolverá en definitiva, oyendo al Magistrado en su defensa, fundando y motivando su resolución, la que se dictará en un término no mayor de treinta días.
+
+Si el Congreso del Estado resuelve la no ratificación, el Magistrado cesará en sus funciones a la conclusión del período para el que fue designado, y se procederá a realizar un nuevo nombramiento en los términos de este Artículo.
+
+De no existir oposición del Congreso del Estado, expresada en los términos antes señalados, el Magistrado se considerará, al cumplirse los seis años en el cargo, automáticamente ratificado.
 
 El Tribunal de Justicia Electoral se integrará con tres Magistrados Numerarios y hasta dos Supernumerarios, que desempeñarán su encargo por tres años, pudiendo ser ratificados, eligiéndose de entre ellos al Presidente, en sesión de Pleno.
 
-Los Magistrados Electorales serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado, previa convocatoria que éste emita; en la forma que determine su Ley Orgánica.
+Los Magistrados Electorales serán electos por el voto de las dos terceras partes de los integrantes el (sic) Congreso del Estado, previa convocatoria que éste emita; en la forma que determine su Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -931,53 +931,83 @@ III.- Poseer el día de la designación, con antigüedad mínima de diez años, 
 
 IV.- Haber realizado por lo menos durante tres años, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación de normas jurídicas;
 
-V.- Tener residencia mínima de cinco años en el Estado, anteriores al día de su designación;
+> <small>(REFORMADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
+
+V.- Haber residido en el Estado durante los diez años anteriores al día de su designación;
 
 VI.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 
 VII.- No haber ocupado el cargo de Gobernador del Estado, Titular en una Secretaría o Procurador de Justicia, durante el año previo al día de la designación.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 61.
 
-Cuando ocurra la falta definitiva de un Magistrado del Tribunal Superior de Justicia, el Consejo de la Judicatura procederá a hacer un nuevo nombramiento ajustándose a lo que establece esta Constitución y la ley respectiva. De igual forma se procederá en los casos de sus renuncias. Las licencias por más de dos meses, se someterán a la aprobación del Congreso del Estado.
+Cuando ocurra la falta absoluta de un Magistrado del Tribunal Superior de Justicia se estará a lo dispuesto por el artículo 58 de esta Constitución.
 
-Los Magistrados Suplentes del Tribunal Superior de Justicia, cubrirán las faltas temporales de los propietarios, de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+
+Los Magistrados Supernumerarios, cubrirán las faltas temporales de los Numerarios, de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 A la falta temporal de un Magistrado del Tribunal de Justicia Electoral, se llamará al Magistrado Supernumerario conforme al orden de prelación que haya señalado el Congreso del Estado al momento de la designación. En caso de ausencia definitiva se obrará de igual forma, hasta en tanto se proceda a la elección del Magistrado Numerario. En caso de ausencias definitivas, renuncias y licencias por más de dos meses, el Pleno del Tribunal acordará que por conducto de su Presidente se haga del conocimiento del Congreso Local, para su aprobación.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 62.
 
-Los Jueces de Primera Instancia y de Paz que autorice la Ley Orgánica del Poder Judicial, serán designados por el Consejo de la Judicatura del Estado; durarán tres años en el cargo, deberán tener treinta años de edad, como mínimo al día de la elección, Título Profesional de Abogado o Licenciado en Derecho, debidamente registrado, cinco años de ejercicio profesional, tener residencia mínima en el Estado de cinco años anteriores al día de su designación y aprobar el examen de méritos correspondiente. Sólo podrán ser reelectos, cuando se distingan en el ejercicio en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva, para el mejoramiento de la Administración de Justicia.
+Los Jueces de Primera Instancia y de Paz que autorice la Ley Orgánica del Poder Judicial, serán electos por el Pleno del Trbunal (sic) Superior de Justicia, en los términos del artículo 63 de esta Constitución; durarán tres años en el cargo, deberán tener treinta años de edad como mínimo al día de la elección, Título profesional de Abogado o Licenciado en Derecho, debidamente registrado, cinco años de ejercicio profesional, tener residencia mínima en el Estado de cinco años anteriores al día de su designación y aprobar los exámenes psicométricos, de oposición y de méritos correspondientes; sin perjuicio de nuevas designaciones cuando se distingan en el ejercicio de sus funciones para el mejoramiento de la administración de Justicia.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 63.
 
-Corresponde al Tribunal Superior de Justicia:
+Corresponde al Pleno del Tribunal Superior de Justicia:
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 I.- Conocer de los negocios civiles y penales del fuero común, como Tribunal de Apelación o de última instancia ordinaria;
 
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
 II.- Resolver las cuestiones de competencia y las de acumulación que se susciten entre los Jueces, de conformidad a las leyes respectivas;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 III.- Resolver sobre las recusaciones y excusas de Magistrados y Secretarios del Tribunal;
 
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
 IV.- Conocer de los juicios de responsabilidad que hayan de seguirse a los Funcionarios Públicos que gocen de fuero, previa declaración que se haga de haber lugar a formación de causa;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 V.- Consignar ante la autoridad competente a los jueces y demás funcionarios o empleados del Poder Judicial, por delitos comunes o responsabilidades oficiales en que incurran, y
 
-VI.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes Ordinarias.
+> <small>(REFORMADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+VI.- La elección de los jueces, secretarios de acuerdos y actuarios de entre quienes integren la lista que le presente el Consejo de la Judicatura en la cual deberá incluirse a todos los aspirantes que hayan resultado aprobados en los exámenes psicométricos de oposición y de méritos practicados conforme al reglamento respectivo, así como su adscripción, remoción y renuncia. Iguales facultados (sic) le corresponden en cuanto a los secretarios de estudio y cuenta, quienes serán propuestos por los Magistrados correspondientes.
+
+> <small>(ADICIONADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
+
+VII.- Conocer del recurso de revisión que interpongan en su defensa los jueces, secretarios, actuarios y demás personal del Poder Judicial con excepción de los Magistrados, cuando con motivo de una queja o visita de inspección se les pretenda imponer una sanción por parte del Consejo de la Judicatura.
+
+> <small>(ADICIONADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
+
+VIII.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes Ordinarias.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 64.
 
-La vigilancia, administración y disciplina del Poder Judicial del Estado, incluyendo al Tribunal Superior de Justicia estará a cargo del Consejo de la Judicatura del Estado en los términos que establezcan las leyes, y conforme a las bases que señale esta Constitución.
+Las funciones de la vigilancia, administración, supervisión y disciplina del Poder Judicial del Estado, excluyendo las facultades jurisdiccionales de Magistrados y Jueces, estará a cargo del Consejo de la Judicatura en los términos que establezcan las leyes conforme a las bases que señale esta Constitución.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 La vigilancia, administración, disciplina y carrera judicial del Tribunal de Justicia Electoral estará a cargo del Pleno del mismo Tribunal, auxiliado en los términos que la Ley establezca por la Comisión de Administración, órgano que se integra por los Magistrados del Tribunal de Justicia Electoral, presidido por el Presidente del mismo, y dos miembros del Consejo de la Judicatura, a estos últimos que se les denominará Comisionados.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 Esta Comisión tiene el carácter de permanente y sesionará válidamente con la presencia de sus integrantes, adoptando sus decisiones por mayoría de los miembros. En caso de empate el Presidente tiene voto de calidad.
 
@@ -991,11 +1021,23 @@ El Consejo de la Judicatura se integrará por siete miembros, de los cuales uno 
 
 El Consejo funcionará en Pleno o por Comisiones, el Pleno resolverá sobre la designación, adscripción, remoción y renuncia de Magistrados, Jueces, Secretarios de Acuerdos y Actuarios del Tribunal Superior de Justicia, así como de los demás asuntos que la ley determine. Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo a partir de su nombramiento y no podrán ser nombrados para un nuevo período.
 
-Los consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Octavo de esta Constitución.
+> <small>(ADICIONADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
 
-La Ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+En el caso de que el Juez que forma parte del Consejo de la Judicatura, no sea ratificado, se procederá al nombramiento de otro por el procedimiento que la misma ley prevé.
+
+> <small>(REFORMADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
+
+Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Octavo de esta Constitución.
+
+> <small>(REFORMADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
+
+La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(REFORMADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
 
 El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones de conformidad con lo que establezca la Ley.
+
+> <small>(REFORMADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
 
 El Consejo de la Judicatura del Estado elaborará el presupuesto global del Poder Judicial, que comprenderá el del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, de los Juzgados y demás órganos judiciales, remitiéndolo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
 
@@ -1471,11 +1513,11 @@ En el Estado las mujeres tienen los mismos derechos civiles y políticos que los
 
 Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del Servicio Civil que se sujetará a los siguientes principios:
 
-I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
+I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad.
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigüedad y antecedentes en el servicio.
 
-III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
+III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente.
 
 IX (sic).- La Ley fijará cuáles son los empleados de confianza y cuáles los de base.
 
@@ -1589,10 +1631,6 @@ Esta Constitución entrará en vigor el mismo día de su publicación.
 
 Dentro del término de 15 días, contados a partir de su vigencia, el Gobernador Provisional convocará a elecciones para Diputados a la Legislatura del Estado y para Gobernador Constitucional del mismo, las cuales tendrán verificativo el día 25 de octubre del presente año.
 
-###### ARTICULO CUARTO.
-
-Dichas elecciones se regirán por las disposiciones de esta Constitución y se sujetarán a las bases siguientes:
-
 I.- Se crea la Comisión Electoral del Estado que tendrá, para la Jurisdicción de la Entidad; las facultades que a la Comisión Federal Electoral y a las Comisiones Locales Electorales señala la Ley Electoral Federal, aplicando, en lo conducente, sus disposiciones.
 
 II.- La Comisión Electoral del Estado estará integrada por un presidente, un secretario y un vocal, que serán designados por el Gobernador Provisional, y por dos representantes de Partidos Políticos de los comprendidos en la Base IX que se designarán en los términos que señala el artículo 11 de la misma Ley Electoral Federal, aplicada en lo conducente. Por cada miembro propietario se designará un suplente. Los nombramientos de los miembros que debe designar el Gobernador recaerán en personas que reúnan los requisitos del artículo 16 de la propia Ley.
@@ -1632,6 +1670,14 @@ XVII.- El siguiente domingo, después de la elección el Comité Electoral Distr
 XVIII.- Las constancias a que se refiere la base anterior deberán ser registradas ante la Comisión Electoral del Estado, la que otorgará registro si no encontrare que se hayan cometido durante el proceso electoral o en la elección actos capaces de viciar su validez. Esta facultad concedida a la Comisión Electoral del Estado no impedirá que la Legislatura del Estado haga la calificación de la elección de sus miembros en los términos del artículo 20 de esta Constitución.
 
 XIX.- Los Partidos Políticos a que se refiere la base IX y los candidatos que hayan obtenido el registro, podrán nombrar representantes ante todos los organismos electorales que funcionen en el Estado, si tienen interés jurídico.
+
+###### ARTICULO CUARTO.
+
+Deberán prorrogarse los actuales nombramientos de los Jueces del Estado, hasta el treinta de Noviembre de 1989.
+
+P.O. 30 DE SEPTIEMBRE DE 1989.
+
+DECRETO No. 193
 
 ###### ARTICULO QUINTO.
 
@@ -1829,13 +1875,9 @@ Los Magistrados nombrados por el Ejecutivo del Estado el primero de Noviembre de
 
 Los Magistrados nombrados por el Ejecutivo del Estado, aprobados por el Congreso y que aún no han sido ratificados en términos del Artículo 59 de la Constitución Política Local, ahora reformado, deberán completar un período de seis años a partir de la fecha de su nombramiento, y si son ratificados, también se considerarán inamovibles, con base en lo dispuesto por el Artículo 60 que se reforma.
 
-###### ARTICULO CUARTO.
+###### ARTÍCULO CUARTO.
 
-Deberán prorrogarse los actuales nombramientos de los Jueces del Estado, hasta el treinta de Noviembre de 1989.
-
-P.O. 30 DE SEPTIEMBRE DE 1989.
-
-DECRETO No. 193
+A más tardar el día 11 de Diciembre de 1997, deberán ser nombrados los Consejeros Ciudadanos Numerarios y Supernumerarios, que sustituirán a los actuales Consejeros Ciudadanos, conforme a esta reforma Constitucional, mediante el voto de las dos terceras partes de los Diputados integrantes del Pleno del Congreso del Estado.
 
 ###### ARTICULO UNICO.
 
@@ -2018,3 +2060,13 @@ Aprobada que sea esta Iniciativa por la Honorable Asamblea, con el anexo del act
 ###### ARTICULO SEGUNDO.
 
 En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas al Ejecutivo Estatal para los efectos conducentes, las cuales entrarán en vigor, el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE 1998.
+
+###### ARTICULO PRIMERO.
+
+Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo Estatal el Dictamen de la presente Reforma Constitucional para los efectos conducentes, la cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
