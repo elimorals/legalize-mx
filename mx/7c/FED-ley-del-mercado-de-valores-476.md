@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1986-12-31"
+last_updated: "1990-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1990.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -54,13 +54,17 @@ b) Operaciones por cuenta propia, con valores emitidos o garantizados por tercer
 
 c) Administración y manejo de carteras de valores propiedad de terceros.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 5o.
 
-Toda propaganda o información dirigida al público sobre valores o sobre los servicios u operaciones de las casas de bolsa y bolsas de valores, estará sujeta a la previa autorización de la Comisión Nacional de Valores, exceptuando la propaganda que las instituciones de crédito así como las organizaciones auxiliares del crédito, pretendan efectuar sobre los valores que emitan o garanticen, la cual estará sujeta a las disposiciones legales que les sean aplicables.
+Toda propaganda o información dirigida al público sobre valores estará sujeta a la previa autorización de la Comisión Nacional de Valores.
 
-La aprobación de la Comisión Nacional de Valores podrá otorgarse mediante autorizaciones individuales o bien darse con carácter general, cuando la naturaleza de la propaganda o información así lo justifique, a juicio de la propia Comisión.
+La citada propaganda o información, así como la que concierne a los servicios u operaciones de las casas de bolsa, especialistas bursátiles, bolsas o valores e instituciones para el depósito de valores, cuando sea realizada por ellos, no requerirá la autorización prevista en el párrafo anterior, pero deberá sujetarse a los lineamientos y criterios que establezca la propia Comisión mediante disposiciones de carácter general. Tales disposiciones estarán dirigidas a procurar la veracidad y claridad de la información que se difunda; coadyuvar al desarrollo sano y equilibrado del mercado de valores, así como evitar una competencia desleal en el sistema financiero.
+
+La Comisión Nacional de Valores podrá ordenar, previa audiencia del interesado, la suspensión o rectificación de la propaganda o información que a su juicio se realice en contravención a lo señalado en este artículo.
+
+La propaganda que realicen las instituciones de crédito, así como las organizaciones auxiliares del crédito y las sociedades de inversión sobre los valores que emitan o garanticen, estará sujeta a las disposiciones legales que le sean aplicables.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -76,29 +80,35 @@ Los comisionistas o intermediarios que auxilien a las instituciones de crédito 
 
 Las leyes mercantiles, los usos bursátiles y mercantiles, y los Códigos Civil para el Distrito Federal y Federal de Procedimientos Civiles, serán supletorios de la presente Ley en el orden citado.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 8o.
 
 La Secretaría de Hacienda y Crédito Público será el órgano competente para interpretar, a efectos administrativos, los preceptos de esta Ley y para, mediante disposiciones de carácter general, proveer a todo cuanto se refiera a la aplicación de la misma.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+Las atribuciones que se confieren a la Secretaría de Hacienda y Crédito Público en este artículo, se ejercerán con la previa opinión de la Comisión Nacional de Valores.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 9o.
 
-Se reservan las expresiones agente de valores, casa de bolsa, bolsa de valores, u otras equivalentes en cualquier idioma, para ser utilizadas, respectivamente, por las personas que, de acuerdo con la presente Ley, gocen de la autorización o concesión correspondiente. La Comisión Nacional de Valores podrá ordenar la intervención administrativa del establecimiento infractor hasta que deje de usar la expresión indebidamente empleada.
+Se reservan las expresiones agente de valores, casa de bolsa, especialista bursátil, bolsa de valores, u otras equivalentes en cualquier idioma, para ser utilizadas, respectivamente, por las personas que, de acuerdo con la presente Ley, gocen de la autorización o concesión correspondiente. La Comisión Nacional de Valores podrá ordenar la intervención administrativa del infractor para que deje de usar la expresión indebidamente empleada.
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 1985)</small>
-
-Se exceptúa de la aplicación de lo dispuesto en el párrafo anterior, a las asociaciones de casas de bolsa, bolsas de valores u otras personas que sean autorizadas por la Secretaría de Hacienda y Crédito Público para estos efectos, siempre que no realicen operaciones de intermediación en el mercado de valores.
+Se exceptúa de la aplicación de lo dispuesto en el párrafo anterior, a las asociaciones de casas de bolsa, especialistas bursátiles, bolsas de valores u otras personas que sean autorizadas por la Comisión Nacional de Valores para estos efectos, siempre que no realicen las actividades que son propias a sus integrantes.
 
 ### CAPITULO SEGUNDO. Del Registro Nacional de Valores e Intermediarios
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 10.
 
-El Registro Nacional de Valores e Intermediarios será público y se formará con dos Secciones, la de Valores y la de Intermediarios, y estará a cargo de la Comisión Nacional de Valores, la cual lo organizará de acuerdo con lo dispuesto en esta Ley y en las reglas que al efecto dicte la propia Comisión.
+El Registro Nacional de Valores, e Intermediarios será público y se formará con tres Secciones: la de Valores, la de Intermediarios, así como la Especial, y estará a cargo de la Comisión Nacional de Valores, la cual lo organizará de acuerdo con lo dispuesto en esta Ley y en las reglas que al efecto dicte la propia Comisión.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 11.
 
-Sólo podrán ser materia de oferta pública los documentos inscritos en la Sección de Valores. La oferta pública en el extranjero, de valores emitidos en México o por personas morales mexicanas, estará sujeta a la inscripción de los valores respectivos en una sección especial.
+Sólo podrán ser materia de oferta pública los documentos inscritos en la Sección de Valores. La oferta pública en el extranjero, de valores emitidos en México o por personas morales mexicanas, estará sujeta a la inscripción de los valores respectivos en la Sección Especial.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -110,13 +120,19 @@ Las operaciones a que se refiere el inciso a) del artículo 4o. de esta Ley, que
 
 Las operaciones a que se refieren los incisos b) y c) del artículo 4o. de la presente Ley, se exceptúan del requisito establecido en el primer párrafo de este artículo, cuando las realicen personas facultadas para ello por ésta u otras leyes.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 13.
 
-Sólo podrán ser materia de intermediación en el mercado de valores los documentos inscritos en la Sección de Valores del Registro Nacional de Valores e Intermediarios.
+Sólo podrán ser materia de intermediación en el mercado de valores los documentos inscritos en las Secciones de Valores o Especial del Registro Nacional de Valores e Intermediarios.
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 Se exceptúan de esta disposición las operaciones con valores que, sin constituir oferta pública, tengan por objeto la suscripción de acciones, la fusión o transformación de sociedades, la transferencia de proporciones importantes del capital de empresas o la correduría de los documentos a que se refiere el segundo párrafo del artículo 3o. de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+Las casas de bolsa podrán operar con valores inscritos en la Sección Especial del citado Registro, de acuerdo a las disposiciones de carácter general que expida la Comisión Nacional de Valores y con sujeción a las leyes del país en que se realicen las transacciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -132,15 +148,21 @@ III.- Que los valores tengan o puedan llegar a tener una circulación amplia en 
 
 IV.- Que se prevea razonablemente que sus emisores tendrán solvencia y liquidez.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-V.- Que los emisores sigan políticas, respecto de su participación en el mercado de valores, congruentes con los intereses de los inversionistas, a cuyo efecto la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Valores, podrá expedir disposiciones de carácter general que deberán comprender:
+V.- Que los emisores sigan políticas, respecto de su participación en el mercado de valores, congruentes con los intereses de los inversionistas, a cuyo efecto la Comisión Nacional de Valores, expedirá disposiciones de carácter general relativas a:
 
-a) A las sociedades que dentro de sus actividades realicen la inversión en el capital de otras sociedades, si como mínimo el 20% de sus ingresos tuvo origen en tales inversiones durante el ejercicio social correspondiente al año anterior o a aquél en que pretendan obtener o mantener el registro al que se refiere este artículo, independientemente del número de acciones o partes sociales de que sean titulares o de que tenga facultad de determinar el manejo de las sociedades correspondientes.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+a) Las sociedades que amorticen acciones representativas de su capital social con utilidades repartibles, mediante su adquisición en bolsa.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
 b) A las sociedades de capital variable emisoras de valores, y
 
-c) A las sociedades controladoras, considerándose como tales, para efectos de esta Ley, aquéllas que realicen como actividad exclusiva o concurrente la inversión en acciones o partes sociales de otras sociedades que les permita, directa o indirectamente, ser titulares del 50% o más del capital de dichas sociedades o que por cualquier título tengan la facultad de determinar el manejo de las mismas, siempre que dicha inversión sea igual o superior al 20% del capital pagado y de las reservas de la controladora.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+c) Las sociedades controladoras, considerándose como tales, para efectos de esta Ley, aquéllas que realicen como actividad exclusiva o concurrente la inversión en acciones o partes sociales de otras sociedades que les permita, directa o indirectamente, ser titulares del 50% o más de su capital social o que por cualquier título tengan la facultad de determinar el manejo de las mismas, siempre que dicha inversión sea igual o superior al 20% del capital contable, según el último estado de posición financiera de la controladora.
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -168,17 +190,31 @@ d) La continuidad de una organización con altos niveles de eficiencia técnica 
 
 La inscripción en el Registro Nacional de Valores e intermediarios no implica certificación sobre la bondad del valor o la solvencia del emisor. Esta mención deberá figurar en los documentos a través de los que se haga oferta pública de valores.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 14 Bis.
+
+A las sociedades que hayan obtenido la inscripción de sus acciones en la Sección de Valores del Registro Nacional de Valores e Intermediarios, les serán aplicables las siguientes normas:
+
+I.- Podrán adquirir temporalmente las acciones representativas de su capital social, previo acuerdo del consejo de administración, a través de la bolsa de valores, al precio corriente en el mercado, sin que sea aplicable la prohibición establecida en el primer párrafo del artículo 134 de la Ley General de Sociedades Mercantiles y siempre que la recompra se realice con cargo a una reserva proveniente de las utilidades netas, denominadas reserva para recompra de acciones, que en su caso deberá reconstituirse con el producto de la recolocación de dichos títulos entre el público inversionista. En tanto pertenezcan las acciones a la sociedad no podrán ejercerse los derechos corporativos que confieren y se registrarán a costo de adquisición en una cuenta especial de activo denominada acciones propias, debiéndose revelar por separado las pérdidas o ganancias provenientes de su posterior enajenación que se hará necesariamente en bolsa.
+
+La adquisición temporal de las acciones, el plazo para colocarlas nuevamente en el público o, en su defecto, proceder a la consiguiente reducción del capital social, así como la forma y términos en que estas operaciones sean dadas a conocer a la Comisión Nacional de Valores, a la bolsa de valores correspondiente y al público inversionista, estarán sujetas a las disposiciones de carácter general que expida la Comisión Nacional de Valores.
+
+Queda prohibido a las sociedades que mantengan recompradas sus acciones, anunciar su capital pagado sin consignar el valor de mercado de dichas acciones.
+
+II.- Podrán constituir órganos intermedios de administración distintos a los previstos en la Ley General de Sociedades Mercantiles, debiéndose sujetar su creación, estructura y régimen de funcionamiento a las disposiciones de carácter general que expida la Comisión Nacional de Valores.
+
+III.- Podrán emitir acciones sin derecho a voto, a las que no será aplicable lo dispuesto en el artículo 198 de la Ley General de Sociedades Mercantiles, al igual que con la limitante de otros derechos corporativos cuando así lo autorice la Comisión Nacional de Valores.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 15.
 
-Los valores emitidos o garantizados por el Gobierno Federal, por las instituciones de crédito y de seguros, por las organizaciones auxiliares de crédito y por las sociedades de inversión, se inscribirán en la Sección de Valores, para lo cual bastará la comunicación correspondiente a la Comisión Nacional de Valores.
+Los valores emitidos o garantizados por el Gobierno Federal, por las instituciones de crédito, de seguros y de fianzas, por las organizaciones auxiliares del crédito y por las sociedades de inversión, se inscribirán en la Sección de Valores, para lo cual bastará la comunicación correspondiente a la Comisión Nacional de Valores.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+Cuando se trate de acciones o de certificados de aportación patrimonial de instituciones de crédito así como de acciones de instituciones de seguros, de fianzas y de organizaciones auxiliares del crédito, deberá cumplirse con lo señalado en las fracciones l, III, VI, VII y VIII del artículo 14 de este ordenamiento.
 
-Cuando se trate de acciones o de certificados de aportación patrimonial de sociedades nacionales de crédito, deberá cumplirse con lo señalado en las fracciones I, III, V, VI y VIII del artículo 14.
-
-Asimismo, se inscribirá en la Sección de Valores y sin que para ello sea necesario el cumplimiento de ningún requisito de los consignados en el artículo 14, cualquier otro título suscrito o emitido por una institución de crédito, representativo de un pasivo a cargo de ésta y susceptible, a juicio del Banco de México, S. A., de alcanzar amplia circulación.
+Asimismo, se inscribirá en la Sección de Valores y podrá ser ofrecido al público, sin que para ello sea necesario el cumplimiento de ninguno de los requisitos exigibles en esta Ley, cualquier otro título suscrito o emitido por una institución de crédito, representativo de un pasivo a cargo de ésta y susceptible, a juicio del Banco de México, de alcanzar amplia circulación.
 
 ###### ARTICULO 16.
 
@@ -190,85 +226,163 @@ Tratándose de emisores de valores registrados que soliciten la cancelación de 
 
 La Comisión, para dictar la resolución que corresponda, deberá oír previamente al emisor de los valores de que se trate. Este último requisito no será necesario cuando la propia Comisión, tan pronto considere que se ha realizado alguno de los supuestos previstos en el presente artículo, suspenda, como medida precautoria, en forma temporal y por un plazo no mayor de 60 días, los efectos de la inscripción en el Registro.
 
-Sin perjuicio de la medida precautoria a que se refiere el párrafo inmediato anterior, la Comisión Nacional de Valores, deberá recabar previamente la opinión de la Comisión Nacional Bancaria y de Seguros para resolver sobre la suspensión o cancelación del registro de valores emitidos o garantizados por instituciones u organizaciones auxiliares de crédito o instituciones de seguros.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+Sin perjuicio de la medida precautoria a que se refiere el párrafo inmediato anterior, la Comisión Nacional de Valores deberá recabar previamente la opinión de la Comisión Nacional Bancaria, o de la Comisión Nacional de Seguros y Fianzas para resolver sobre la suspensión o cancelación del registro de valores emitidos o garantizados por instituciones u organizaciones auxiliares del crédito o instituciones de seguros y fianzas.
 
-###### ARTICULO 16
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-Bis.- Las personas que por su posición respecto de sociedades emisoras de valores inscritos en el Registro Nacional de Valores e Intermediarios, o del mercado de valores en general, tengan acceso a información privilegiada relativa a una de dichas sociedades en particular, deberán abstenerse de efectuar operaciones con cualquier clase de valores emitidos por la misma sociedad, en beneficio propio o de terceros, mientras la citada información no sea divulgada entre el público inversionista.
+###### ARTICULO 16 Bis.
 
-Las citadas personas y emisoras se ajustarán al siguiente régimen:
+Las personas que tengan información privilegiada relativa a una sociedad emisora de valores inscritos en el Registro Nacional de Valores e Intermediarios, deberán abstenerse de efectuar operaciones en beneficio propio o de terceros, con cualquier clase de valores emitidos por la misma sociedad, mientras la citada información tenga el carácter indicado.
 
-I.- Se entiende por información privilegiada la relativa a una sociedad emisora de valores inscritos en el citado Registro, que en los términos de la presente Ley debe proporcionarse a la Comisión Nacional de Valores, al público inversionista y, en su caso, a la bolsa de valores correspondiente, conforme a los criterios de carácter general que emita la citada Comisión, aún no divulgada entre el público inversionista y cuyo conocimiento, por su naturaleza, pueda influir en los precios de cotización de los valores emitidos por dicha sociedad.
+Se entiende por información privilegiada la que proceda del emisor y a la cual el público no tenga acceso, cuyo conocimiento por éste pueda influir en los precios de los valores emitidos por la misma sociedad u otra.
 
-II.- Quedan incluidos en lo dispuesto en el primer párrafo de este artículo:
+La Secretaría de Hacienda y Crédito Público, a propuesta de la Comisión Nacional de Valores, expedirá las disposiciones y criterios relativos a este artículo.
 
-a) Los administradores, funcionarios y comisarios de las sociedades con valores inscritos en el Registro Nacional de Valores e Intermediarios;
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-b) Los accionistas de las indicadas sociedades que detenten el control del 10% o más de acciones representativas de su capital social;
+###### ARTICULO 16 Bis 1.
 
-c) Los cónyuges de las personas a que se refieren los incisos a) y b) de esta fracción;
+Para los efectos de esta Ley se presume que puede tener acceso a información privilegiada relativa a las emisoras de que se trate:
 
-d) Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de las entidades de la Administración Pública Paraestatal por ella coordinadas, cuyas actividades los relacionen directamente con la promoción, regulación y control del mercado de valores;
+I.- Los administradores, directivos, gerentes, factores, comisarios y secretarios de órganos colegiados de las sociedades con valores inscritos en el Registro Nacional de Valores e Intermediarios;
 
-e) Los vocales y secretarios de la Junta de Gobierno de la Comisión Nacional de Valores y los servidores públicos de la misma;
+II.- Los accionistas de las indicadas sociedades que detenten el control del 10% o más de acciones representativas de su capital social;
 
-(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)(F. DE E., D.O.F. 3 DE ABRIL DE 1985)
+III.- Los prestadores de servicios independientes a dichas sociedades y sus asesores en general, así como los factores de las empresas y negocios de publicidad e impresión, cuando hayan participado, asesorado o colaborado con una sociedad emisora, en cualquier evento que pueda influir en los precios de cotización de los valores emitidos por dicha sociedad;
 
-f) Los accionistas que detenten el control del 10% o más de las acciones representativas del capital social de las casas de bolsa, así como los administradores, funcionarios, empleados y apoderados para celebrar operaciones con el público de estas últimas;
+IV.- Los accionistas que detenten el control del 10% o más del capital social de las casas de bolsa y de los especialistas bursátiles, así como los administradores de ambos y de las sociedades operadoras de sociedades de inversión, cuando se ubiquen en cualquiera de los casos previstos en las fracciones I a III respecto de sociedades emisoras; y
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+V.- Los administradores de las bolsas de valores y de las instituciones para el depósito de valores, cuando se ubiquen en cualquiera de los casos previstos en las fracciones I a III respecto de sociedades emisoras.
 
-g) Los administradores, funcionarios y empleados de las bolsas de valores y de las instituciones para el depósito de valores.
+Las personas a que se refiere la fracción II de este artículo, deberán informar a la Comisión Nacional de Valores respecto de las variaciones en el porcentaje de su tenencia accionaria, que impliquen la adquisición o pérdida de control de acciones que representen 10% o más del capital de la sociedad de que se trate, dentro de los 10 días hábiles siguientes a la fecha en que dichos eventos se produzcan.
 
-III.- Tendrán como obligaciones complementarias:
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-a) Las personas a que se refieren los incisos a) al c) de la fracción anterior informarán a la Comisión Nacional de Valores de las operaciones que realicen con valores emitidos por la sociedad a que se encuentren vinculados en los términos de los propios incisos.
+###### ARTICULO 16 Bis 2.
 
-b) Las personas señaladas en los incisos b) al g) de dicha fracción informarán a dicha Comisión de todas las operaciones que realicen con valores inscritos en el Registro Nacional de Valores e Intermediarios.
+Las personas a que se refiere el artículo anterior, sin perjuicio de lo dispuesto por el artículo 16 bis, se abstendrán de realizar directamente o a través de interpósita persona, la adquisición de cualquier clase de valores emitidos por la sociedad con la que se encuentren relacionados en virtud de su cargo o vínculo, durante un plazo de tres meses contado a partir de la última enajenación que hayan realizado respecto a cualquier clase de valores emitidos por la misma sociedad. Igual abstención deberá observarse cuando se trate de la enajenación y posterior adquisición de valores emitidos por la sociedad de que se trate.
 
-c) Las sociedades emisoras informarán a la propia Comisión Nacional de Valores de cualquier cambio en la composición de su consejo de administración, así como de las renuncias y nuevas designaciones de funcionarios y comisarios, dentro de los diez días hábiles siguientes a la fecha en que dichos eventos se produzcan. La misma obligación tendrán los accionistas respecto de las variaciones en el porcentaje de su tenencia accionaria, que impliquen la adquisición o pérdida de control de acciones que representen 10% o más del capital de la sociedad de que se trate.
+Lo dispuesto en este artículo no será aplicable a las operaciones con valores que realicen las sociedades de inversión, las instituciones de crédito, así como las instituciones de seguros y las de fianzas.
 
-La Comisión, mediante disposiciones de carácter general, determinará la forma y términos en que deberán proporcionarse las informaciones a que se refieren los incisos anteriores.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-IV.- Las operaciones celebradas en contravención a lo dispuesto en este artículo, aprovechando la información privilegiada, darán lugar a que:
+###### ARTICULO 16 Bis 3.
 
-a) Estén afectadas de nulidad relativa y a que la contraparte perjudicada por su celebración pueda demandar ante los tribunales competentes su anulación y el pago de los perjuicios causados.
+La Comisión Nacional de Valores estará facultada para investigar presuntas infracciones a lo dispuesto en los artículos 16 bis y 16 bis 2.
 
-Dicha acción prescribirá a los seis meses, contados a partir de que la información privilegiada haya sido divulgada entre el público inversionista.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-b) La Secretaría de Hacienda y Crédito Público imponga a cada un de los infractores, multa hasta por dos veces el monto del beneficio que origine la operación de que se trate.
+###### ARTICULO 16 Bis 4.
 
-La imposición de la multa no libera a los infractores de las acciones que procedan y de las demás responsabilidades que sean a su cargo.
+La (sic) infracciones a lo dispuesto por los artículos 16 bis y 16 bis 2, darán lugar a:
 
-c) Las personas a que se refieren los incisos f) y g) de la fracción II, queden inhabilitados para desempeñar actividades en el mercado de valores. La Comisión Nacional de Valores dictará las medidas que aseguren la efectiva inhabilitación de que se trata.
+I.- Tratándose del artículo 16 bis, a la imposición de una multa administrativa a la persona que utilizó indebidamente información privilegiada, que será aplicada por la Comisión Nacional de Valores, hasta por el importe de dos veces el beneficio obtenido en la operación de que se trate, más la cantidad que resulte de aplicar a dicho beneficio una tasa igual a la del rendimiento promedio aritmético que hayan generado las acciones de sociedades de inversión de renta fija, durante los seis meses anteriores a la fecha de la operación;
 
-Además de las obligaciones señaladas en las disposiciones anteriores, las personas a que se refieren los incisos d) y e) de la fracción II, sólo podrán invertir en acciones inscritas en el Registro Nacional de Valores e Intermediarios, por conducto de fideicomisos constituidos para ese único fin en instituciones o sociedades nacionales de crédito, o en acciones representativas del capital de sociedades de inversión, absteniéndose de realizar cualquiera otra inversión directa, por sí o a través de interpósita persona. El incumplimiento de esta disposición será sancionado con la destitución del puesto en los términos del Capítulo II del Título Tercero de la Ley Federal de Responsabilidades de los Servidores Públicos.
+II.- Tratándose del artículo 16 bis 2, a la imposición de una multa administrativa a la persona que haya realizado la operación indebida, que será aplicada por la Comisión Nacional de Valores, hasta por el monto del beneficio obtenido. En caso de no existir beneficio, la multa será por el importe de 200 a 3,000 veces el salario mínimo general vigente en el Distrito Federal, según la gravedad de la infracción, a juicio de la Comisión Nacional de Valores. La multa establecida en esta fracción se aplicará conjuntamente con la prevista en la fracción I, cuando se infrinjan ambos preceptos.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+Sin perjuicio de lo establecido en la fracción I, la parte afectada, en su caso, podrá demandar ante los tribunales competentes la indemnización correspondiente, que no podrá exceder de dos veces el importe del beneficio obtenido, sin que la infracción dé lugar a la nulidad de la operación celebrada.
 
-### CAPITULO TERCERO. De las Casas de Bolsa
+La Comisión Nacional de Valores sólo estará obligada ante la autoridad judicial a rendir los informes que le solicite en casos concretos.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 16 Bis 5.
+
+El procedimiento administrativo de la Comisión Nacional de Valores en cuanto a la imposición de las multas previstas en el artículo anterior, se sujetará a las siguientes normas:
+
+I.- La Comisión Nacional de Valores otorgará previa audiencia al presunto infractor, quien en un plazo de quince días hábiles a partir de la notificación correspondiente deberá manifestar lo que a sus intereses convenga;
+
+II.- La Comisión Nacional de Valores, de constatar las infracciones, impondrá la multa administrativa correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 16 Bis 6.
+
+La acción prevista en el artículo 16 bis 4 de esta Ley, prescribirá a los seis meses contados a partir de la fecha en que se realizó la operación correspondiente. En el mismo plazo caducará la facultad de la Comisión Nacional de Valores para imponer las multas establecidas en dicho precepto.
+
+Los plazos de prescripción y caducidad establecidos en este artículo se interrumpirán al iniciarse los procedimientos relativos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 16 Bis 7.
+
+Solamente podrán invertir en acciones y certificados de aportación patrimonial inscritos en el Registro Nacional de Valores e Intermediarios, por conducto de fideicomisos constituidos para ese único fin en instituciones de crédito, o bien en acciones representativas de capital de sociedades de inversión, absteniéndose de realizar cualquier otra inversión directa en acciones y certificados de aportación patrimonial inscritos en el Registro citado, por sí o a través de terceros, las siguientes personas:
+
+I.- Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de las entidades de la Administración Pública Federal por ella coordinadas, cuyas actividades los relacionen directamente con la promoción, regulación y control del mercado de valores, según clasificación que establezca mediante Acuerdo dicha Secretaría;
+
+II.- Los vocales y secretario de la Junta de Gobierno de la Comisión Nacional de Valores y los servidores públicos de la misma;
+
+III.- Los directivos, empleados, o apoderados para celebrar operaciones con el público y apoderados operadores de las casas de bolsa, especialistas bursátiles y sociedades operadoras de sociedades de inversión, que no tengan el carácter de administradores de dichos intermediarios; y
+
+IV.- Los directivos y empleados de las bolsas de valores e instituciones para el depósito de valores.
+
+Los servidores públicos que contravengan esta disposición serán sancionados con la destitución del puesto en los términos del Capítulo II del Título Tercero de la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+En los demás casos, la infracción a este artículo será sancionada con el veto temporal de tres meses hasta cinco años para desempeñar actividades en el mercado de valores que requieran ser autorizadas conforme a esta Ley, correspondiendo dictar la resolución a la Comisión Nacional de Valores, previa audiencia del interesado.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 16 Bis 8.
+
+Se exceptúan de lo dispuesto por el artículo 16 bis de esta Ley, las operaciones de compraventa de valores realizadas conforme a planes de opción de compra de acciones o certificados de aportación patrimonial para empleados y trabajadores de sociedades cuyas acciones estén inscritas en el Registro Nacional de Valores e Intermediarios y para empleados y trabajadores de sus subsidiarias, cuando hayan sido previamente aprobados por una asamblea general de accionistas, o bien por el consejo directivo cuando se trate de sociedades nacionales de crédito. Esta excepción será aplicable siempre que las fechas de adquisición y venta de los valores se encuentren preestablecidas en los planes correspondientes.
+
+Tampoco será aplicable lo dispuesto por el artículo 16 bis a las operaciones de compraventa sobre acciones representativas del capital de sociedades de inversión, ni sobre títulos de renta fija a cargo de las instituciones de crédito.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+### CAPITULO TERCERO. De las Casas de Bolsa y los Especialistas Bursátiles
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 17.
 
-Las sociedades que deseen ser inscritas en el Registro Nacional de Valores e Intermediarios, deberán reunir a satisfacción de la Comisión Nacional de Valores, los requisitos siguientes:
+Las sociedades que pretendan ser inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, deberán reunir los requisitos siguientes:
 
-I.- Estar constituidas como sociedades anónimas con régimen de acciones ordinarias y utilizar en su denominación, o en seguida de ésta, la expresión casa bolsa, así como tener íntegramente pagado el capital mínimo que determine la Comisión Nacional de Valores mediante disposiciones de carácter general.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+I.- Estar constituidas como sociedades anónimas con régimen de acciones y utilizar en su denominación, o enseguida de ésta, la expresión casa de bolsa o especialista bursátil, según sea el caso, así como tener íntegramente pagado el capital mínimo que determine la Secretaría de Hacienda y Crédito Público, a propuesta de la Comisión Nacional de Valores mediante disposiciones de carácter general, lo que corresponderá a la citada Comisión tratándose de los especialistas bursátiles.
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 Cuando se trate de sociedades de capital variable, el capital mínimo obligatorio con arreglo a la Ley estará integrado por acciones sin derecho a retiro.
 
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 El monto del capital variable en ningún caso podrá ser superior al del capital pagado sin derecho a retiro.
+
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 II.- En ningún momento podrán participar en su capital social, directamente o a través de interpósita persona:
 
-a) Casas de Bolsa;
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+a) Casas de bolsa o especialistas bursátiles;
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 b) Extranjeros que no tengan el carácter de inmigrados, y
 
-c) Personas morales, excepto el Gobierno Federal con arreglo a lo previsto por el artículo 21 de esta Ley.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+c) Instituciones de crédito, salvo cuando lo hagan con el carácter de fiduciarias en fideicomisos cuyos beneficiarios sean personas que puedan ser accionistas de los intermediarios en el mercado de valores con arreglo a esta Ley, siempre y cuando la fiduciaria no pueda determinar el sentido del voto relativo a las acciones fideicomitidas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+d) Instituciones de seguros o de fianzas, organizaciones auxiliares del crédito, casas de cambio, ni sociedades de inversión.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+e) Otras personas morales, con excepción de las sociedades controladoras a que se refiere el artículo 18 de esta Ley y las demás personas morales de nacionalidad mexicana que autorice la Comisión Nacional de Valores mediante disposiciones de carácter general, las cuales tendrán por objetivo prevenir conflictos de intereses y fortalecer la capitalización de los intermediarios.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+f) Accionistas que sean propietarios del 10% o más del capital de los emisores cuyos valores operen con carácter de especialistas así, como los administradores y factores de los propios emisores.
+
+La inversión de personas morales prevista en el inciso e) de esta fracción, no será aplicable a los especialistas bursátiles.
+
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 III.- Tener por administradores, funcionarios y apoderados para celebrar operaciones con el público exclusivamente a personas que satisfagan, a juicio de la propia Comisión, los requisitos siguientes:
 
@@ -282,11 +396,17 @@ Se considera que las personas a que se refiere esta fracción no tienen solvenci
 
 c) Garantizar su manejo mediante fianza que se expida con las características que la Comisión Nacional de Valores determine, mediante disposiciones de carácter general, y
 
-d) No realizar aquellas actividades que la Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional de Valores, declare incompatibles con las propias de la función que desempeñen para las casas de bolsa.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 1985)</small>
+d) No realizar aquellas actividades que la Comisión Nacional de Valores declare incompatibles con las propias de la función que desempeñen para los intermediarios en el mercado de valores.
+
+La Comisión Nacional de Valores podrá suspender o revocar las autorizaciones otorgadas conforme a esta fracción, así como imponer veto de 3 meses hasta 5 años a las personas que se desempeñen como sus administradores, funcionarios y apoderados para celebrar operaciones con el público cuando se dejen de satisfacer cualquiera de los requisitos previstos en los incisos a) a d) anteriores, o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven. Antes de dictar la resolución correspondiente, la citada Comisión deberá oír a los interesados.
+
+(REFORMADA,D.O.8 DE FEBRERO DE 1985)(F.DE E.,D.O.3 DE ABRIL DE 1985)
 
 IV.- El número de sus administradores no será inferior a cinco y actuarán constituídos en Consejo de Administración.
+
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 V.- Presentar un programa general de funcionamiento que incluya por lo menos:
 
@@ -294,45 +414,109 @@ a) El estudio de viabilidad de la sociedad en el contexto general del mercado de
 
 b) Los planes de trabajo con los objetivos a corto y mediano plazo, que sean acordes a las condiciones del mercado.
 
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 VI.- Adquirir una acción de bolsa de valores, conforme a lo dispuesto por el artículo 32 de esta Ley.
 
-(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1985)(F. DE E., D.O.F. 30 DE DICIEMBRE DE 1985)(REPUBLICADA F. DE E., D.O.F. 23 DE ENERO DE 1987)
+(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1985)(F. DE E., D.O.F. 23 DE ENERO DE 1987)
 
 VII.- Participar en el fondo de apoyo y garantía previsto en el artículo 89 de la Ley.
 
-La fusión de dos o más casas de bolsa deberá ser aprobada por la Comisión Nacional de Valores y tendrá efectos en el momento de inscribirse en el Registro Público correspondiente a su domicilio social.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-Dentro de los noventa días naturales siguientes a la publicación del acuerdo de fusión, en el Diario Oficial de la Federación y en uno de los periódicos de mayor circulación del domicilio de las sociedades que intervengan en la fusión, los acreedores podrán oponerse judicialmente para el único efecto de obtener el pago de sus créditos, sin que esta oposición suspenda la fusión.
+La fusión de dos o más casas de bolsa deberá ser aprobada por la Secretaría de Hacienda y Crédito Público, a propuesta de la Comisión Nacional de Valores, atribución que corresponderá a la propia Comisión tratándose de los especialistas bursátiles. En todo caso, las fusiones tendrán efecto en el momento de inscribirse en el Registro Público correspondiente a su domicilio social. Dentro de los noventa días naturales siguientes a la publicación del acuerdo de fusión en el Diario Oficial de la Federación y en uno de los periódicos de mayor circulación del domicilio de las sociedades que intervengan en la fusión, los acreedores podrán oponerse judicialmente para el único efecto de obtener el pago de sus créditos, sin que esta oposición suspenda la fusión.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+La autorización para la inscripción de las casas de bolsa la otorgará discrecionalmente la Secretaría de Hacienda y Crédito Público, a propuesta de la Comisión Nacional de Valores y, para la inscripción de los especialistas bursátiles, la autorización corresponderá discrecionalmente a la propia Comisión Nacional de Valores.
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 La escritura constitutiva y estatutos de las sociedades de que se trata, así como sus modificaciones, deberán ser aprobadas por la Comisión Nacional de Valores. Obtenida esta aprobación, la escritura o sus reformas podrán ser inscritas en el Registro de Comercio, sin que sea necesario mandamiento judicial. En todo caso, deberán proporcionar a dicha Comisión copia certificada de las actas de sus asambleas y, cuando proceda, testimonio notarial en el que conste la protocolización de las mismas.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 18.
 
-Las casas de bolsa en ningún momento podrán seguir ante el público políticas operativas y de servicios comunes con instituciones de seguros, de fianzas, o con organizaciones auxiliares del crédito, ni ostentarse como grupo con ellas.
+Las casas de bolsa no podrán utilizar denominaciones iguales o semejantes a las de otros intermediarios financieros, ni ostentarse de cualquier manera como integrantes de grupos financieros, salvo cuando éstos se encuentren constituidos y funcionen conforme a las bases siguientes:
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+I.- Sólo podrán estar integrados con casas de bolsa, almacenes generales de depósito, arrendadoras financieras, casas de cambio, empresas de factoraje financiero, instituciones de fianzas, instituciones de seguros, sociedades operadoras de sociedades de inversión, así como con cualquier otra clase de sociedades que determine la Secretaría de Hacienda y Crédito Público.
+
+Cada grupo deberá contar por lo menos con tres de los intermediarios financieros antes citados que no sean sociedades operadoras de sociedades de inversión.
+
+No podrán participar en un mismo grupo dos o más intermediarios financieros de una misma clase, salvo sociedades operadoras de sociedades de inversión. También podrán participar dos o más instituciones de seguros, cuando se trate de instituciones autorizadas para operar en ramos distintos.
+
+Los intermediarios financieros en cuyo capital participen instituciones de crédito, sólo podrán participar en un grupo financiero con autorización de la Secretaría de Hacienda y Crédito Público;
+
+II.- Las acciones con derecho a voto, que representen por lo menos el cincuenta y uno por ciento del capital pagado de cada uno de los integrantes del grupo, deberán ser propiedad de una misma sociedad anónima controladora que tenga por objeto adquirir tales acciones;
+
+III.- Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de más del quince por ciento del capital pagado de una sociedad controladora.
+
+Este límite también se aplicará a las personas que, de acuerdo con las disposiciones de carácter general que expida la Secretaría de Hacienda y Crédito Público mencionadas en la fracción X siguiente, deban considerarse para estos efectos como una sola persona;
+
+IV.- En ningún momento podrán participar en forma alguna en el capital de las sociedades controladoras, directamente o a través de interpósita persona:
+
+a) Gobiernos o dependencias oficiales extranjeros ni, en general personas extranjeras físicas o morales;
+
+b) Instituciones de crédito, ni cualquier otro intermediario financiero, incluso los que formen parte del respectivo grupo, ni
+
+c) Personas morales mexicanas, salvo las que autorice la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, las cuales se dictarán con vistas a favorecer la capitalización de las sociedades controladoras y siempre que dichas personas morales no participen simultáneamente en el capital de intermediarios financieros, ni éstos en el capital de las personas morales de referencia.
+
+V.- Salvo la excepción señalada en el párrafo siguiente, los intermediarios financieros que formen parte de uno de estos grupos, deberán abstenerse de participar en el capital de otros intermediarios financieros, incluso en el capital de los otros integrantes del grupo.
+
+Las instituciones de seguros y las instituciones de fianzas podrán participar, de conformidad con las disposiciones aplicables, en el capital de otras de estas instituciones;
+
+VI.- Las personas que adquieran acciones en contravención de lo dispuesto en las fracciones III a V anteriores deberán venderlas dentro de los diez días hábiles siguientes a la fecha en que así lo requiera la Secretaría de Hacienda y Crédito Público.
+
+Si transcurrido el plazo citado no se regulariza la inversión, la sociedad emisora procederá a reembolsar las acciones adquiridas en contravención, al cincuenta por ciento de su valor en libros según el último estado financiero aprobado. Las acciones así reembolsadas deberán recolocarse dentro del plazo que para tal efecto determine la propia Secretaría;
+
+VII.- La sociedad controladora y cada uno de los intermediarios financieros participantes deberán suscribir un convenio conforme al cual la primera responderá subsidiaria, solidaria e ilimitadamente por las pérdidas de todos y de cada uno de dichos intermediarios financieros. La referida responsabilidad deberá estar prevista expresamente en los estatutos de la sociedad controladora.
+
+En el convenio citado también deberá señalarse expresamente que cada uno de los intermediarios financieros del grupo no responderán por las pérdidas de la sociedad controladora, ni de las de los demás participantes del grupo;
+
+VIII.- La escritura constitutiva de la sociedad controladora, los convenios respectivos, así como las modificaciones a dichos documentos, deberán someterse a la previa aprobación de la Secretaría de Hacienda y Crédito Público, a efecto de revisar si los mismos se ajustan a los señalado (sic) en el presente artículo y a las disposiciones generales mencionadas en la fracción X siguiente.
+
+Una vez otorgada dicha aprobación, la escritura constitutiva y, en su caso, sus reformas deberán ser inscritas en el Registro de Comercio, sin que sea preciso mandamiento judicial ni de alguna otra autoridad;
+
+IX.- Las sociedades controladoras previstas en la fracción II anterior, estarán sujetas a la inspección y vigilancia de la Comisión Nacional de Valores; y
+
+X.- La Secretaría de Hacienda y Crédito Público expedirá las reglas generales que regulen, de conformidad con las bases señaladas en el presente artículo, la constitución y operación de grupos financieros no bancarios.
+
+Al ejercer las facultades que le confiere este artículo, la propia Secretaría escuchará la previa opinión del Banco de México y de las Comisiones Nacionales Bancaria, de Seguros y Fianzas y de Valores.
+
+Las casas de bolsa también podrán prestar servicios complementarios con instituciones de crédito, así como seguir frente al público políticas operativas y de servicios comunes, y utilizar denominaciones iguales o semejantes, con sociedades de inversión, sociedades operadoras de estas últimas y con casas de cambio.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 19.
 
-La adquisición del control del 10% o más de acciones representativas del capital de una casa de bolsa, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, deberá someterse a la previa autorización de la Comisión Nacional de Valores, la que la otorgará o negará discrecionalmente.
+La adquisición del control del 10% o más de acciones representativas del capital de una casa de bolsa o de un especialista bursátil, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, deberá someterse a la previa autorización de la Comisión Nacional de Valores, la que la otorgará o negará discrecionalmente.
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 1985)</small>
+(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)(F. DE E., D.O.F. 3 DE ABRIL DE 1985)
 
 Ninguna persona física o moral podrá ser propietaria, directa o indirectamente, del 15% o más del capital social de una casa de bolsa, excepto:
 
-I.- La adquisición de acciones que realice el Gobierno Federal;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+I.- La adquisición de acciones que realicen las sociedades controladoras previstas en el artículo 18 de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 II.- Los accionistas de casas de bolsa fusionantes o fusionadas, siempre y cuando la participación de cada uno de ellos en el capital de la sociedad fusionante o que resulte de la fusión, no exceda de la participación porcentual que a esos mismos accionistas les corresponda en el capital consolidado de las casas de bolsa involucradas en la función respectiva, de conformidad con lo que para la valuación y el canje de acciones se pacte en el convenio de fusión, y
 
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 III.- Las personas que adquieran acciones conforme a lo previsto en programas aprobados por la Comisión Nacional de Valores, conducentes a la fusión de casas de bolsa, a quienes excepcionalmente la citada Comisión podrá otorgarles la autorización relativa, con carácter temporal, por un plazo no mayor de cinco años, sin que la participación total de cada uno de ellos exceda del 30% del capital social de la casa de bolsa de que se trate.
 
-Las personas que en los términos de este artículo, lleguen a ser propietarias de más del 15% del capital social de una casa de bolsa, deberán obtener certificado de la Comisión Nacional de Valores, en el que se hará constar el porcentaje correspondiente.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+Las personas que en los términos de este artículo, lleguen a ser propietarias de más del 15% del capital social de un intermediario en el mercado de valores, deberán obtener certificado de la Comisión Nacional de Valores, en el que se hará constar el porcentaje correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 20.
 
-La Comisión Nacional de Valores podrá suspender o cancelar el registro de los agentes de valores cuando a juicio de dicha Comisión:
+La Comisión Nacional de Valores podrá suspender la inscripción en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, cuando a juicio de dicha Comisión:
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -340,13 +524,19 @@ I.- Dejen de satisfacer en cualquier tiempo los requisitos señalados en el art�
 
 II.- Incurran en violaciones a lo dispuesto en esta Ley o en sus disposiciones reglamentarias.
 
-III.- Intervengan en operaciones que no se ajusten a las sanas prácticas del mercado de valores.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+III.- Realicen operaciones que impliquen conflictos de intereses, o intervengan en aquéllas que no se ajusten a los usos y sanas prácticas del mercado de valores.
 
 IV.- Dejen de realizar las funciones de intermediación que le son propias, en forma significativa.
 
-V.- Intervengan en operaciones con valores no inscritos en el Registro Nacional de Valores e Intermediarios, salvo lo previsto en el artículo 13.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-VI.- Cierren sus oficinas sin autorización de la Comisión.
+V.- Tratándose de casas de bolsa, intervengan en operaciones con valores no inscritos en el Registro Nacional de Valores e Intermediarios, salvo lo previsto en el artículo 13 de esta Ley.
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+VI.- Tratándose de especialistas bursátiles, realicen operaciones con valores fuera de bolsa, a menos que se cumpla con lo dispuesto en el artículo 31, fracción VIII, inciso f) de esta Ley.
 
 VII.- Falten por causa imputable a ellos al cumplimiento de obligaciones derivadas de las operaciones contratadas.
 
@@ -354,15 +544,23 @@ VII.- Falten por causa imputable a ellos al cumplimiento de obligaciones derivad
 
 VIII.- Asimismo, si son disueltas o entran en procedimientos de suspensión de pagos o quiebra, salvo que el procedimiento respectivo termine por el levantamiento o la rehabilitación y la Comisión Nacional de Valores resuelva favorablemente el mantenimiento del registro.
 
-> <small>(F. DE E., D.O.F. 23 DE ENERO DE 1987)</small>
+(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1985)(F. DE E., 23 DE ENERO DE 1987)
 
 La disolución y liquidación se regirá por lo dispuesto en los Capítulos X y XI de la Ley General de Sociedades Mercantiles o, tratándose de la suspensión de pagos, y de la quiebra por la Sección Primera del Capítulo I del Título Séptimo de la Ley de Quiebras y Suspensión de Pagos, debiendo observarse lo siguiente:
 
-a) La Comisión Nacional de Valores tendrá las mismas atribuciones que tiene la Comisión Nacional Bancaria y de Seguros en la suspensión de pagos o quiebra de las instituciones de crédito;
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+a) La Comisión Nacional de Valores tendrá las mismas atribuciones que tiene la Comisión Nacional Bancaria en la suspensión de pagos o quiebra de las instituciones de crédito.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
 b) El cargo de síndico y liquidador siempre corresponderá a una institución de crédito;
 
-c) La Comisión Nacional de Valores ejercerá, respecto a los síndicos y liquidadores, las funciones de vigilancia que tiene atribuidas en relación a las propias casas de bolsa, y
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+c) La Comisión Nacional de Valores ejercerá respecto a los síndicos y liquidadores, las funciones de vigilancia que tiene atribuidas en relación a los propios intermediarios en el mercado de valores, y
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
 d) La Comisión Nacional de Valores podrá solicitar la suspensión de pagos y la declaratoria de quiebra, en los términos de la Ley de Quiebras y Suspensión de Pagos.
 
@@ -370,27 +568,21 @@ IX.- Proporcionen o hagan a la Comisión Nacional de Valores informaciones o dec
 
 X.- Pierdan la mitad o más del capital social exhibido o reduzcan su capital social a una suma inferior a la que tenían cuando se inscribieron en el Registro Nacionales (sic) de Valores e Intermediarios.
 
-En cualquiera de los casos señalados en este artículo, la Comisión Nacional de Valores deberá oír al agente de valores de que se trate, antes de dictar la resolución correspondiente.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+Cuando la gravedad de las infracciones a lo dispuesto en este artículo así lo amerite, la Secretaría de Hacienda y Crédito Público a propuesta de la Comisión Nacional de Valores, podrá ordenar la cancelación de la inscripción en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios de la casa de bolsa infractora, atribución que corresponderá directamente a la propia Comisión Nacional de Valores, en el caso de los especialistas bursátiles. Antes de dictar la resolución correspondiente, se deberá oír a la sociedad de que se trate.
 
-La cancelación del registro de una casa de bolsa, será causa de disolución de la sociedad.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE FEBRERO DE 1985)</small>
+En ambos supuestos, la cancelación del registro será causa de disolución de la sociedad.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 21.
 
-La inscripción de una sociedad en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, da a ésta la calidad de casa de bolsa. Dicha inscripción no implica certificación sobre la solvencia del intermediario.
+La inscripción de una sociedad en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, da a ésta la calidad de intermediario en el mercado de valores. Dicha inscripción no implica certificación sobre la solvencia del intermediario.
 
-Las casas de bolsa tendrán el carácter de nacionales cuando satisfagan alguno de los siguientes requisitos:
-
-I.- Que el Gobierno Federal directamente o a través de organismos descentralizados o empresas de participación estatal, a excepción de instituciones de crédito, aporte o sea propietario del 50% o más del capital social;
-
-II.- Que en la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas directamente por el Gobierno Federal, o
-
-III.- Que al Gobierno Federal directamente corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, designar al director general o cuando tenga facultades para vetar los acuerdos de la asamblea general de accionistas o del consejo de administración.
-
-La organización y el funcionamiento de las casas nacionales de bolsa se regirán por la presente Ley, sin perjuicio de las disposiciones que deban observar como entidades de la administración pública federal paraestatal.
+Los intermediarios en el mercado de valores tendrán el carácter de casas de bolsa o de especialistas bursátiles, según sea el caso.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -400,17 +592,17 @@ Las casas de bolsa sólo podrán realizar las actividades siguientes:
 
 I.- Actuar como intermediarios en el mercado de valores, en los términos de la presente Ley, sujetándose a las disposiciones de carácter general que dicte la Comisión Nacional de Valores.
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-II.- Recibir fondos por concepto de las operaciones con valores que se les encomienden. Cuando, por cualquier circunstancia no puedan aplicar esos fondos al fin correspondiente, el mismo día de su recibo deberán, si persiste impedimento para su aplicación, depositarlos en institución de crédito a más tardar el día hábil siguiente, en cuenta distinta de las que deben formar parte de su activo.
+II.- Recibir fondos por concepto de las operaciones con valores que se les encomienden. Cuando por cualquier circunstancia no puedan aplicar esos fondos al fin correspondiente, el mismo día de su recibo deberán, si persiste impedimento para su aplicación, depositarlos en institución de crédito a más tardar el día hábil siguiente, o bien adquirir acciones representativas del capital de alguna sociedad de inversión de renta fija, depositándolas en la cuenta del cliente respectivo. En ambos casos los fondos se registrarán en cuenta distinta de las que forman parte del activo de la casa de bolsa.
 
 III.- Prestar asesoría en materia de valores.
 
 IV.- Con sujeción a las disposiciones de carácter general que dicte el Banco de México:
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-a) Recibir préstamos o créditos de instituciones de crédito o de organismos oficiales de apoyo al mercado de valores, para la realización de las actividades que le sean propias.
+a) Recibir préstamos o créditos de instituciones de crédito o de organismos de apoyo al mercado de valores para la realización de las actividades que les sean propias.
 
 b) Conceder préstamos o créditos para la adquisición de valores con garantía de éstos.
 
@@ -430,9 +622,13 @@ a) Realizar operaciones por cuenta propia que faciliten la colocación de valore
 
 b) Proporcionar servicio de guarda y administración de valores, depositando los títulos en una institución para el depósito de valores o, en su caso, depositándolos en la institución que señale la Comisión Nacional de Valores cuando se trate de títulos que por su naturaleza no puedan ser depositados en las instituciones primeramente señaladas.
 
-c) Realizar operaciones con cargo a su capital pagado y reservas de capital.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-d) Realizar operaciones con valores con sus accionistas, administradores, funcionarios y apoderados para celebrar operaciones con el público.
+c) Realizar inversiones con cargo a su capital global, cuyo concepto será determinado en las citadas disposiciones.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+d) Realizar operaciones con valores con sus administradores y accionistas.
 
 > <small>(F. DE E., D.O.F. 3 DE ABRIL DE 1985)</small>
 
@@ -440,9 +636,11 @@ e) Llevar a cabo actividades de las que le son propias a través de oficinas, su
 
 f) Invertir en acciones de otras sociedades que les presten servicios o cuyo objeto sea auxiliar o complementario de las actividades que realicen estas casas de bolsa, que señale la propia Comisión. Dichas sociedades estarán sujetas a las disposiciones de carácter general que expida la Comisión Nacional de Valores, así como a la inspección y vigilancia de la misma.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-Las operaciones a que se refieren los incisos a) y c) anteriores, sólo podrán tener por objeto valores aprobados para tal efecto por la mencionada Comisión, con la salvedad de que dichas casas de bolsa no podrán comprar ni vender por cuenta propia los valores que les hubieren sido confiados para su venta o que les hubieren sido pedidos en compra. Esta misma salvedad se aplicará a las personas comprendidas en el inciso d) en relación a las operaciones por cuenta ajena y por cuenta propia, en este orden, que realicen las casas de bolsa.
+g) Actuar como especialistas bursátiles, sujetándose en la realización de las operaciones que efectúen con este carácter a lo dispuesto por el artículo 22 bis 1 de esta Ley.
+
+Las operaciones e inversiones a que se refieren los incisos a) y c) anteriores, sólo podrán tener por objeto valores aprobados para tal efecto por la mencionada Comisión.
 
 VI.- Actuar como representantes comunes de obligacionistas y tenedores de otros valores.
 
@@ -450,17 +648,45 @@ VII.- Administrar las reservas para fondos de pensiones o jubilaciones de person
 
 VIII.- Las análogas o complementarias de las anteriores, que les sean autorizadas por la Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional de Valores, mediante disposiciones de carácter general que podrán referirse a determinados tipos de operaciones.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 22 Bis.
 
-Los reportos sobre valores que celebren las casas de bolsa se sujetarán a las disposiciones aplicables a esa clase de operaciones, así como a las siguientes:
+Los especialistas bursátiles sólo podrán realizar las actividades siguientes:
 
-I.- Se formalizarán de la manera que, mediante reglas de carácter general, determine el Banco de México.
+I.- Actuar como intermediarios por cuenta propia, respecto de los valores en que se encuentren registrados como especialistas en la bolsa de valores de que sean socios, en los términos de la presente Ley, sujetándose a las disposiciones de carácter general que dicte la Comisión Nacional de Valores, o a lo previsto en el reglamento interior de la bolsa de valores correspondiente.
 
-II.- Si el plazo del reporto vence en un día que no fuere hábil, se entenderá prorrogado al primer día hábil siguiente; y
+Al realizar estas operaciones, los especialistas bursátiles únicamente podrán contratar con casas de bolsa, otros especialistas bursátiles y con el público inversionista, en este último caso cuando así lo autorice mediante disposiciones de carácter general la citada Comisión, en las que se establecerán los montos y márgenes de cotizaciones conforme a los que estarán obligados a realizar dichas operaciones.
 
-III.- Si el día en que el reporto deba liquidarse el reportado no liquida la operación ni ésta es prorrogada, se tendrá por abandonada y el reportador podrá exigir desde luego al reportado el pago de las diferencias que resulten a su cargo.
+Cuando celebren operaciones con el público, los especialistas bursátiles deberán observar las previsiones establecidas en el Capítulo Octavo de esta Ley, en cuanto a la forma de su contratación.
+
+II.- Con sujeción a las disposiciones de carácter general que dicte el Banco de México, recibir préstamos o créditos de instituciones de crédito o de organismos de apoyo al mercado de valores, para la realización de las actividades que les sean propias así como celebrar reportos sobre valores. La Comisión Nacional de Valores, oyendo la opinión del Banco de México, podrá ordenar a especialistas bursátiles la suspensión de las operaciones que infrinjan las disposiciones a que se refiere esta fracción.
+
+III.- De conformidad con las disposiciones de carácter general que dicte la Comisión Nacional de Valores:
+
+a) Realizar operaciones por cuenta propia respecto de los valores en que sean especialistas, para facilitar la colocación de dichos valores o coadyuvar a la mayor estabilidad de los precios de éstos y reducir los márgenes entre cotizaciones de compra y de venta de los propios títulos, favoreciendo condiciones de liquidez en su mercado;
+
+b) Mantener en guarda y administración sus valores, depositando los títulos en una institución para el depósito de valores o, en su caso, depositándolos en la institución que señale la Comisión Nacional de Valores cuando se trate de títulos que por su naturaleza no puedan ser depositados en las instituciones primeramente señaladas;
+
+c) Realizar inversiones con cargo a su capital global, cuyo concepto será determinado en las citadas disposiciones, y
+
+d) Invertir en acciones de otras sociedades que les presten servicios o cuyo objeto sea auxiliar o complementario de las actividades que realicen estos especialistas bursátiles, que señale la propia Comisión. Dichas sociedades estarán sujetas a las disposiciones de carácter general que expida la Comisión Nacional de Valores, así como a la inspección y vigilancia de la misma.
+
+Las operaciones e inversiones a que se refieren los incisos a) y c) anteriores, sólo podrán tener por objeto valores aprobados para tal efecto por la mencionada Comisión.
+
+IV.- Las análogas o complementarias de las anteriores, que les sean autorizadas por la Comisión Nacional de Valores, mediante disposiciones de carácter general que podrán referirse a determinados tipos de operaciones.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 22 Bis 1.
+
+Los especialistas bursátiles deberán abstenerse de realizar las siguientes actividades:
+
+I.- Realizar operaciones respecto de los valores que manejen con tal carácter, con sus emisores, así como con los administradores y factores de tales emisores;
+
+II.- Realizar operaciones con valores con sus accionistas;
+
+III.- Denegar sus servicios respecto de los valores que manejen con tal carácter, dentro de los montos y márgenes de cotizaciones conforme a los que estén obligados a operar en el mercado, de acuerdo con las disposiciones de carácter general expedidas por la Comisión Nacional de Valores o el reglamento interior general de la bolsa de valores correspondiente.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -544,13 +770,17 @@ La revisión que la Comisión Nacional de Valores realice no tendrá efectos de 
 
 Los auditores externos que dictaminen los estados financieros de las casas de bolsa, deberán reunir los requisitos que determine la Comisión Nacional de Valores y suministrarle, a su requerimiento, los informes y demás elementos de juicio, en los que se sustenten sus dictámenes y conclusiones.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 26 Bis 6.
 
-Las casas de bolsa no podrán pagar los dividendos decretados por las asambleas generales de accionistas, antes de quedar concluida la revisión de los estados financieros que realice la Comisión Nacional de Valores, la cual no deberá exceder de treinta días naturales, contados a partir de la fecha en que se haya iniciado. Transcurrido este plazo sin que se notifique la resolución correspondiente, se considerará que no existe impedimento para proceder al pago de dichos dividendos.
+Las casas de bolsa no podrán pagar los dividendos decretados por las asambleas generales de accionistas, antes de quedar concluida la revisión de los estados financieros que realice la Comisión Nacional de Valores, la cual no deberá exceder de treinta días hábiles, contados a partir de la fecha en que le hayan sido entregados. Transcurrido este plazo sin que se notifique la resolución correspondiente, se considerará que no existe impedimento para proceder al pago de dichos dividendos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
 Cuando se requiera a la casa de bolsa que cumpla los requisitos omitidos o proporcione los elementos necesarios para concluir la revisión, el plazo comenzará a correr desde que el requerimiento haya sido cumplido.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
 Los pagos de dividendos efectuados en contravención a lo dispuesto en el presente artículo, deberán ser restituidos a la sociedad en un plazo no mayor de treinta días hábiles. Serán solidariamente responsables de esta restitución, los accionistas que los hayan percibido y los administradores y funcionarios que los hayan pagado.
 
@@ -562,13 +792,25 @@ La Comisión Nacional de Valores señalará, mediante disposiciones de carácter
 
 I.- Los valores y documentos inscritos en la Sección de Valores del Registro Nacional de Valores e Intermediarios, se estimarán a su valor de mercado.
 
-II.- Las acciones representativas del capital de las sociedades que les presten servicios o cuyo objeto sea auxiliar o complementario de las actividades que realicen, se valuarán de acuerdo al método de participación, cuando las casas de bolsa sean propietarias del 25% o más de sus acciones ordinarias, o al costo, cuando sean propietarias de menos del 25% de dichas acciones, respectivamente.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+II.- Las acciones representativas del capital de las sociedades que les prestan servicios o cuyo objeto sea auxiliar o complementario de las actividades que realicen, se valuarán conforme al método de participación cuando sean propietarias del 25% o más de las acciones, o al costo cuando sean propietarias de menos del 25% de dichas acciones. Cuando sean propietarias de más del 50% de las acciones deberán de reflejarse en estados financieros consolidados.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 III.- Las acciones de las bolsas de valores y las de las instituciones para el depósito de Valores, se valuarán de acuerdo a su valor contable, determinado en los últimos estados financieros dictaminados de la Bolsa de Valores o de la Institución para el depósito de valores, correspondiente.
 
 IV.- Los demás activos fijos se estimarán a su precio de adquisición y, en su caso, a su valor actualizado conforme avalúo realizado por valuador independiente autorizado por la citada Comisión.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 26 Bis 8.
+
+Las casas de bolsa deberán llevar un sistema automatizado para la recepción, registro, ejecución y asignación de operaciones con valores, el cual deberá reunir los requisitos mínimos que establezca la Comisión Nacional de Valores mediante disposiciones de carácter general, propendiendo al logro de un mejor servicio y trato equitativo a su clientela inversionista.
+
+La documentación relativa a la recepción, registro, ejecución y asignación de operaciones podrá ser destruida, previa microfilmación según lo dispuesto en el segundo párrafo del artículo 26 bis de esta Ley, después de transcurrido dos años de haber sido realizadas las operaciones que les dieron origen.
+
+Los negativos originales de cámara de los documentos microfilmados, así como las constancias técnicas correspondientes al uso de medios electrónicos, de cómputo o de telecomunicaciones de las casas de bolsa, deberán conservarse por un plazo de cinco años posteriores a la fecha de las operaciones relativas.
 
 ###### ARTICULO 27.
 
@@ -578,15 +820,29 @@ I.- Dar periódicamente información estadística a la Comisión sobre las activ
 
 II.- Proporcionar a la misma Comisión sus estados financieros.
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-III.- Obtener la previa autorización de la Comisión Nacional de Valores para la apertura, cambio o clausura de oficinas, así como del Presidente de dicho Organismo para el cambio de su ubicación en la misma plaza. En caso de que las casas de bolsa abran o cambien oficinas sin las autorizaciones exigidas por esta fracción, la Comisión Nacional de Valores podrá proceder a la clausura de las mismas.
+III.- Dar aviso por escrito a la Comisión, por lo menos con treinta días hábiles de anticipación, de la apertura, cambio de ubicación y cierre de sus oficinas, cuya operación y funcionamiento estará sujeto a lo que, en su caso, se determine en dichas disposiciones.
 
-> <small>(F. DE E., D.O.F. 10 DE FEBRERO DE 1975)</small>
+En el supuesto de que las casas de bolsa abran o cambien sus oficinas sin dar el aviso relativo, o bien en su operación y funcionamiento contravengan lo dispuesto en este artículo, la Comisión Nacional de Valores podrá proceder a la clausura de las mismas, cuidando que queden cubiertos de manera adecuada los servicios que reciba la clientela. Previamente a que dicte su resolución, la Comisión Nacional de Valores deberá oír a la casa de bolsa de que se trate.
+
+Para el cierre de oficinas, junto con el aviso a que se refiere el primer párrafo de esta fracción, se deberá informar de las medidas adoptadas para asegurar la continuidad de servicios a la clientela. La Comisión Nacional de Valores podrá oponerse dentro del plazo de treinta días citado al cierre de la oficina de que se trate, en caso de que no presente y le sea acreditada la realización satisfactoria de este programa.
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+IV.- Llevar a cabo programas de auditoría legal, debiendo proporcionar a la citada Comisión el dictamen de su auditor legal externo.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 28.
 
-Las remuneraciones por los servicios de los agentes de valores se ajustarán a los aranceles, generales o especiales, que formule la Comisión Nacional de Valores y apruebe la Secretaría de Hacienda y Crédito Público. Los aranceles aplicables a las operaciones que se realicen en bolsa se fijarán oyendo a éstas.
+Las remuneraciones por los servicios de las casas de bolsa se ajustarán a los aranceles, generales o especiales, que autorice la Comisión Nacional de Valores. Los aranceles aplicables a las operaciones que se realicen en bolsa se fijarán oyendo a ésta.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 28 Bis.
+
+Los especialistas bursátiles estarán sujetos a las previsiones establecidas en los artículos 24, 25, 26 y 26 bis a 26 bis 8, así como 27 y 28 de la presente Ley.
 
 ### CAPITULO CUARTO. De las Bolsas de Valores
 
@@ -628,13 +884,13 @@ II.- El capital social sin derecho a retiro deberá estar íntegramente pagado y
 
 III.- El capital autorizado no será mayor del doble del capital pagado.
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-IV.- Las acciones sólo podrán ser suscritas por las casas de bolsa.
+IV.- Las acciones sólo podrán ser suscritas por casas de bolsa o especialistas bursátiles.
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-V.- Cada casa de bolsa sólo podrá tener una acción.
+V.- Cada socio sólo podrá tener una acción.
 
 > <small>(F. DE E., D.O.F. 10 DE FEBRERO DE 1975)</small>
 
@@ -648,7 +904,9 @@ VIII.- Los estatutos de las bolsas de valores deberán establecer que:
 
 a).- El derecho de operar en bolsa será exclusivo e intransferible de sus socios.
 
-b).- No podrán efectuar operaciones en bolsa los socios que pierdan su calidad de agentes de valores.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+b).- No podrán efectuar operaciones en bolsa los socios que pierdan su calidad de casas de bolsa o especialistas bursátiles.
 
 c).- La bolsa deberá llevar un registro de accionistas, reconociendo como tales únicamente a quienes figuren en el mismo y en los títulos respectivos.
 
@@ -656,13 +914,27 @@ c).- La bolsa deberá llevar un registro de accionistas, reconociendo como tales
 
 d).- Las operaciones en bolsa de los socios deberán ser efectuadas por apoderados que satisfagan el requisito a que se refiere la fracción III, incisos a) y b) del artículo 17 y los que exija el reglamento interior de la bolsa respectiva. No podrán actuar en una misma operación de remate, dos o más apoderados de una sociedad.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+La Comisión Nacional de Valores podrá suspender o revocar las autorizaciones otorgadas a los socios de las bolsas de valores respecto a los apoderados a que se refiere este inciso, así como imponer veto de tres meses hasta cinco años para el desempeño de dicha función a las personas que dejen de satisfacer los requisitos previstos en la fracción III, incisos a) y b) del artículo 17 de esta Ley, o incurran de manera grave o reiterada en infracciones a la misma y a las disposiciones de carácter general que de ella derivan. Antes de dictar la resolución correspondiente la citada Comisión deberá oír a los interesados.
+
 e).- Las acciones deberán mantenerse depositadas en la propia bolsa, en garantía de la gestión del socio correspondiente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-f).- Los socios de las bolsas no deberán operar fuera de éstas los valores inscritos en ellas. La Secretaría de Hacienda y Crédito Público podrá determinar las operaciones que, sin ser concertadas en bolsa, deban considerarse como realizadas a través de la misma.
+f).- Los socios de las bolsas no deberán operar fuera de éstas los valores inscritos en ellas. La Comisión Nacional de Valores podrá determinar las operaciones que, sin ser concertadas en bolsa, deban considerarse como realizadas a través de la misma.
 
-El ejercicio de esta facultad queda sujeto a que en las operaciones respectivas sean registradas en bolsa y dadas a conocer al público conforme a las disposiciones de carácter general que expida dicha Secretaría, oyendo la opinión de la Comisión Nacional de Valores.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+El ejercicio de esta facultad queda sujeto a que las operaciones respectivas sean registradas en bolsa y dadas a conocer al público conforme a las disposiciones de carácter general que expida dicha Comisión.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+El requisito previsto en este inciso no será exigible a las operaciones con valores que celebren las casas de bolsa en mercados del exterior, con arreglo a lo señalado en el último párrafo del artículo 13 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+Las bolsas de valores quedarán sujetas, en lo conducente, a lo establecido en el artículo 26 bis 7 del presente ordenamiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -700,7 +972,9 @@ Las bolsas de valores estarán facultadas para suspender la cotización de valor
 
 Las bolsas de valores también podrán, previa autorización de la Comisión Nacional de Valores, suspender o cancelar la inscripción de los valores, cuando éstos o sus emisores dejen de satisfacer los requisitos a que se refieren las fracciones I y III del artículo 33. Para dictar la resolución que corresponda, dicha Comisión deberá oír al emisor de los títulos de que se trate.
 
-Tratándose de valores emitidos o garantizados por instituciones u organizaciones auxiliares de crédito o instituciones de seguros, la Comisión Nacional de Valores deberá oír previamente a la Comisión Nacional Bancaria y de Seguros para resolver sobre las suspensiones o cancelaciones a que se refiere este artículo.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+Tratándose de valores emitidos o garantizados por instituciones u organizaciones auxiliares del crédito o instituciones de seguros y fianzas, la Comisión Nacional de Valores deberá oír previamente a la Comisión Nacional Bancaria o a la Comisión Nacional de Seguros y Fianzas, según corresponda, para resolver sobre las suspensiones o cancelaciones a que se refiere este artículo.
 
 ###### ARTICULO 36.
 
@@ -722,6 +996,10 @@ IV.- Los derechos y obligaciones de los emisores de valores inscritos.
 
 V.- Los términos en que deberán realizarse las operaciones, la manera en que deberán llevar sus registros y los casos en que proceda la suspensión de cotizaciones respecto de valores determinados.
 
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+VI.- Las normas de autorregulación aplicables a sus socios y el procedimiento para hacerlas efectivas.
+
 El reglamento interior deberá someterse por la bolsa respectiva a la previa aprobación de la Comisión Nacional de Valores.
 
 ###### ARTICULO 38.
@@ -736,9 +1014,11 @@ Cuando a pesar de la intervención de la Comisión Nacional de Valores no logren
 
 La cancelación de la concesión, será causa de disolución de la sociedad. La Comisión Nacional de Valores podrá solicitar ante juez competente dicha disolución. El nombramiento de liquidador deberá recaer en institución fiduciaria.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 39.
 
-Cada bolsa formulará el arancel al que deberán ajustarse las remuneraciones que perciba por sus servicios, sometiéndolo a la Secretaría de Hacienda y Crédito Público para su aprobación, la que resolverá oyendo a la Comisión Nacional de Valores.
+Cada bolsa formulará el arancel al que deberán ajustarse las remuneraciones que perciba por sus servicios, sometiéndolo a la Comisión Nacional de Valores para su aprobación.
 
 ### CAPITULO SEXTO. De las Instituciones para el Depósito de Valores
 
@@ -752,9 +1032,9 @@ La Comisión Nacional de Valores es el organismo encargado, en los términos de 
 
 La Comisión Nacional de Valores tendrá, además de las facultades que se le atribuyen en otros artículos de la presente Ley, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-I.- Inspeccionar y vigilar el funcionamiento de las casas de bolsa y bolsas de valores.
+I.- Inspeccionar y vigilar el funcionamiento de las casas de bolsa, especialistas bursátiles y bolsas de valores.
 
 II.- Inspeccionar y vigilar a los emisores de valores inscritos en el Registro Nacional de Valores e Intermediarios, solo respecto de las obligaciones que les impone la presente Ley.
 
@@ -780,27 +1060,29 @@ La autorización a que se refiere este precepto es independiente de las que, par
 
 III.- Investigar actos que hagan suponer la ejecución de operaciones violatorias de esta Ley, pudiendo al efecto ordenar visitas de inspección a los presuntos responsables.
 
-IV.- Dictar medidas de carácter general a los agentes y bolsas de valores para que ajusten sus operaciones a la presente Ley y a sus disposiciones reglamentarias, así como a sanos usos o prácticas del mercado.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1985)(F. DE E., D.O.F. 23 DE ENERO DE 1987)
+IV.- Establecer criterios de aplicación general acerca de los actos u operaciones que se consideren contrarios a los usos bursátiles o sanas prácticas del mercado, y dictar las medidas necesarias para que las casas de bolsa, especialistas bursátiles y las bolsas de valores, ajusten sus actividades y operaciones a la presente Ley, las disposiciones de carácter general que de ella deriven y a los referidos usos y sanas prácticas del mercado.
 
-V.- Dictar las disposiciones de carácter general relativas al establecimiento de índices que relacionen la estructura administrativa y patrimonial de las casas de bolsa, con su capacidad máxima para revisar las operaciones que les autoriza la presente Ley, tomando en cuenta el volumen y el riesgo de dichas operaciones, los intereses del público inversionista y las condiciones prevalecientes en el mercado.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+V.- Dictar las disposiciones de carácter general relativas al establecimiento de índices que relacionen la estructura administrativa y patrimonial de las casas de bolsa y especialistas bursátiles, con su capacidad máxima para realizar las operaciones que les autoriza la presente Ley, tomando en cuenta el volumen y riesgo de dichas operaciones, los intereses del público inversionista y las condiciones prevalecientes en el mercado.
 
 VI.- Ordenar la suspensión de cotizaciones de valores, cuando en su mercado existan condiciones desordenadas o se efectúen operaciones no conformes a sanos usos o prácticas.
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-VII.- Intervenir administrativamente a las casas de bolsa o bolsas de valores, con objeto de suspender, normalizar o resolver las operaciones que pongan en peligro su solvencia, estabilidad o liquidez, o aquellas violatorias de la presente Ley o de las disposiciones de carácter general que de ella deriven.
+VII.- Intervenir administrativamente a las casas de bolsa, especialistas bursátiles y bolsas de valores, con objeto de suspender, normalizar o resolver las operaciones que pongan en peligro su solvencia, estabilidad o liquidez, o aquellas violatorias de la presente Ley o de las disposiciones de carácter general que de ella deriven.
 
 VIII.- Ordenar la suspensión de operaciones e intervenir administrativamente a las personas o empresas que, sin la autorización correspondiente, realicen operaciones de intermediación en el mercado de valores o efectúen operaciones de oferta pública respecto de valores no inscritos en el Registro Nacional de Valores e Intermediarios.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-IX.- Inspeccionar y vigilar el funcionamiento de las instituciones para el depósito de valores, así como autorizar y vigilar sistemas de compensación, de información centralizada y otros mecanismos tendientes a facilitar las operaciones o a parfeccionar (sic) el mercado de valores.
+IX.- Inspeccionar y vigilar el funcionamiento de las instituciones para el depósito de valores, así como autorizar y vigilar sistemas de compensación, de información centralizada, calificación de valores y otros mecanismos tendientes a facilitar las operaciones o a perfeccionar el mercado de valores.
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-X.- Dictar las disposiciones generales a las que deberán ajustarse las casas de bolsa y las bolsas de valores, en la aplicación de su capital pagado y reservas de capital.
+X.- Dictar las disposiciones generales, a las que deberán sujetarse las casas de bolsa y especialistas bursátiles en la aplicación de su capital global, así como las bolsas de valores en la aplicación de su capital contable.
 
 XI.- Formar la estadística nacional de valores.
 
@@ -810,35 +1092,45 @@ XIII.- Ser órgano de consulta del Gobierno Federal y de los organismos descentr
 
 XIV.- Certificar inscripciones que obren en el Registro Nacional de Valores e Intermediarios.
 
-XV.- Dictar las normas de registro de operaciones a las que deberán ajustarse los agentes y bolsas de valores.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+XV.- Dictar normas de registro de operaciones a las que deberán ajustarse las casas de bolsa, especialistas bursátiles y bolsas de valores.
 
-XVI.- Determinar los días en que las casas de bolsa y bolsas de valores, deben cerrar sus puertas y suspender sus operaciones.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+XVI.- Determinar los días en que las casas de bolsa, especialistas bursátiles y bolsa de valores, deberán cerrar sus puertas y suspender sus operaciones.
 
-XVII.- Actuar como conciliador o árbitro en conflictos originados por operaciones que hayan contratado las casas de bolsas con su clientela, conforme a esta Ley.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-XVIII.- Proponer a la Secretaría de Hacienda y Crédito Público la imposición de sanciones por infracciones a la presente Ley o a sus disposiciones reglamentarias.
+XVII.- Actuar como conciliador y proponer la designación de árbitros en conflictos originados por operaciones que hayan contratado las casas de bolsa y, en su caso, los especialistas bursátiles con su clientela, con arreglo a esta Ley.
 
-XIX.- Las que señalen otros ordenamientos.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-Las facultades a que se refieren las fracciones II, III y VIII no comprenden atribuciones respecto a instituciones de crédito, organizaciones auxiliares de crédito e instituciones de seguros, cuya inspección y vigilancia corresponde a la Comisión Nacional Bancaria y de Seguros.
+XVIII.- Imponer sanciones por infracciones a la presente Ley o a las disposiciones de carácter general expedidas conforme a la misma.
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+XIX.- Participar en organismos internacionales en la materia de su competencia y celebrar convenios con dichos organismos, así como con entidades reguladoras de mercados de valores en otros países, con sujeción a las normas legales aplicables y la aprobación de las autoridades correspondientes.
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+XX.- Las que señalan otros ordenamientos.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+Las facultades a que se refieren las fracciones II, III y VIII no comprenden atribuciones respecto a instituciones de crédito, organizaciones auxiliares del crédito e instituciones de seguros y fianzas cuya inspección y vigilancia corresponde a la Comisión Nacional Bancaria y a la Comisión Nacional de Seguros y Fianzas, según el ámbito de su competencia.
 
 ###### ARTICULO 42.
 
 Son órganos de la Comisión Nacional de Valores: la Junta de Gobierno, la Presidencia de la Comisión y el Comité Consultivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 43.
 
-La Junta de Gobierno estará integrada por once vocales. La Secretaría de Hacienda y Crédito Público designará cuatro vocales, uno de los cuales será Presidente de la Comisión. La Secretaría de Comercio y Fomento Industrial, el Banco de México, la Comisión Nacional Bancaria y de Seguros y Nacional Financiera, S. A., designarán un vocal.
+La Junta de Gobierno estará integrada por once vocales. La Secretaría de Hacienda y Crédito Público designará cinco vocales, uno de los cuales será Presidente de la Comisión. El Banco de México designará dos vocales; la Secretaría de Comercio y Fomento Industrial, la Comisión Nacional Bancaria, la Comisión Nacional de Seguros y Fianzas y Nacional Financiera, S.N.C., designarán cada una un vocal.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
-
-La propia Secretaría designará además a los tres vocales restantes, cuyos nombramientos deberán recaer en personas con conocimientos en materia bursátil, financiera, industrial o comercial, que no sean servidores públicos de las entidades citadas.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 Por cada representante propietario se nombrará un suplente.
 
@@ -862,15 +1154,15 @@ III.- Examinar y, en su caso, aprobar los informes generales y especiales que de
 
 IV.- Dictar las disposiciones generales que, conforme a esta Ley, compete expedir a la Comisión Nacional de Valores.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-V.- Aprobar los nombramientos del personal directivo a propuesta de su Presidente. La Secretaría de la Contraloría General de la Federación designará el auditor o auditores externos.
+V.- Aprobar los nombramientos de vicepresidentes, personal directivo y árbitros a propuestas de su Presidente. La Secretaría de la Contraloría General de la Federación designará el auditor o auditores externos.
 
 VI.- Aprobar los reglamentos, instructivos y disposiciones a que se refiere la fracción VIII del artículo 45.
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-VII.- Establecer los criterios a que se refieren los artículos 2o. y 16-Bis, fracción I.
+VII.- Establecer los criterios a que se refieren los artículos 2o. y 41, fracción IV, así como procedimientos para que se resuelvan de manera expedita todos los asuntos que son competencia de la Comisión.
 
 VIII.- Designar a su secretario.
 
@@ -906,7 +1198,9 @@ VIII.- Presentar a la Junta de Gobierno proyectos de: reglamento interior, instr
 
 IX.- Proveer lo necesario para el cumplimiento de los programas y el correcto ejercicio de los presupuestos de gastos, aprobados por la Junta de Gobierno.
 
-X.- Proponer a la Junta de Gobierno el nombramiento del personal directivo de la Comisión, y nombrar al personal técnico y administrativo de la misma, señalándoles sus atribuciones y remuneraciones, con sujeción a los reglamentos, instructivos y presupuestos en vigor.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+X.- Proponer a la Junta de Gobierno el nombramiento de vicepresidentes y personal directivo de la Comisión, así como árbitros y nombrar al personal técnico y administrativo de la misma, señalándoles sus atribuciones y remuneraciones, con sujeción a los reglamentos, instructivos y presupuestos en vigor.
 
 XI.- Las demás que le delegue la Junta de Gobierno y las que le fijen esta Ley y los reglamentos respectivos.
 
@@ -944,71 +1238,97 @@ Las resoluciones de la Comisión Nacional de Valores que afecten al mercado de t
 
 La Comisión Nacional de Valores deberá informar al Banco de México, S. A., las resoluciones que adopte en las materias referidas, antes de proceder a su ejecución. Se entenderá que no se interpone veto cuando el Banco de México, S. A., no lo comunique a la Comisión dentro de los tres días hábiles siguientes a la fecha en que el propio Banco haya recibido la información respectiva. Dicha Comisión enviará a este último copia de las actas correspondientes a todas las sesiones de la Junta de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 50.
 
-Los procedimientos de autorización, registro, inspección y vigilancia, intervención, suspensión y cancelación de autorizaciones y registros, a que se refiere esta Ley, son de interés público.
+Los procedimientos de autorización, registro, inspección y vigilancia, imposición de multas administrativas, intervención, suspensión y cancelación de autorizaciones y registro, a que se refiere esta Ley, son de interés público.
 
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+Los afectados podrán acudir en defensa de sus intereses, interponiendo recursos de revocación ante la autoridad responsable, dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento del acto o actos que se reclaman, sin que ello suspenda tales procedimientos. En caso de que se ofrezcan pruebas, éstas se desahogarán en un plazo de veinte días hábiles. La autoridad competente dictará resolución oyendo previamente a la bolsa de valores respectiva, si se tratare de uno de sus socios.
 
-Los afectados podrán ocurrir en defensa de sus intereses ante la Secretaría de Hacienda y Crédito Público, dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento del acto o actos que reclamen, sin que ello suspenda tales procedimientos. En caso de que se ofrezcan pruebas, éstas se desahogarán en el término de diez días hábiles. Dicha Secretaría dictará resolución, oyendo previamente a la Comisión Nacional de Valores, así como a la bolsa respectiva si se tratare de uno de sus socios.
+El recurso de revocación establecido por este precepto deberá agotarse por el interesado, previamente a la interposición de cualquier otro medio de defensa legal.
 
-Salvo en los casos a que se refiere el párrafo anterior, las resoluciones que dicte la Secretaría de Hacienda y Crédito Público en ejercicio de las facultades que le confiere la presente Ley, podrán ser recurridas, ante la propia Secretaría, por los afectados, en los términos señalados en este artículo.
-
-Los tribunales federales no iniciarán el juicio de garantías correspondiente si el quejoso no acredita haber agotado previamente los procedimientos anteriores.
-
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 51.
 
-Las infracciones a esta Ley o a las disposiciones de carácter general que de ella deriven, serán sancionadas con multa que impondrá administrativamente la Secretaría de Hacienda y Crédito Público, a razón de días de salario mínimo general vigente en el Distrito Federal en la fecha en que se realice la infracción, siempre que no se establezca otra forma de sanción, conforme a lo siguiente:
+Las infracciones a esta ley o a las disposiciones de carácter general que de ella deriven, serán sancionadas con multa administrativa que impondrá la Comisión Nacional de Valores, a razón de días de salario mínimo general vigente en el Distrito Federal, en la fecha en que se realice la infracción, siempre que no se establezca otra forma de sanción, conforme a lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 I.- Multa de 2,000 a 4,000 días de salario, a las personas que empleen las expresiones a que se refiere el artículo 9o. de esta Ley, sin gozar de la autorización o concesión correspondiente.
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-II.- Multa de 200 a 2,000 días de salario, a los emisores de valores inscritos en el Registro Nacional de Valores e Intermediarios que no cumplan con las obligaciones señaladas en las fracciones V, VI, VII, VIII y IX del artículo 14 de esta Ley, o cuando proporcionen informaciones falsas o que induzcan a error, sobre su situación económica o sobre los valores que emitan.
+II.- Multa de 200 a 3,000 días de salario a los emisores de valores inscritos en el Registro Nacional de Valores e Intermediarios que no cumplan con las obligaciones señaladas en las fracciones V, VI, VII, VIII y IX del artículo 14 de esta Ley, o cuando proporcionen informaciones falsas o que induzcan a error, sobre su situación económica o sobre los valores que emitan, así como a los especialistas bursátiles que infrinjan las obligaciones que les impone el artículo 22 Bis 1 del presente ordenamiento.
 
-III.- Multa de 8,000 a 10,000 días de salario, a las casas de bolsa que den noticia de las operaciones que realicen o en las que intervengan o no guarden reserva acerca de los servicios que presten, en contravención a lo dispuesto por el artículo 25 de esta Ley.
+En el caso de sociedades que adquieran acciones representativas de su capital social en contravención a lo establecido en el artículo 14-BIS, fracción I de la presente Ley, los administradores que sean responsables de la infracción, serán sancionados con multa que podrá ser equivalente al importe de la operación.
 
-IV.- Multa de 400 a 4,000 días de salario, a las casas de bolsa que no cumplan con las obligaciones previstas en las fracciones I y II del artículo 27 de esta Ley, o que incurran en alguno de los supuestos a que se refieren las fracciones III, V, VI, VII y IX del artículo 20 del mismo ordenamiento.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+III.- Multa de 8,000 a 10,000 días de salario, a las casas de bolsa y especialistas bursátiles que den noticia de las operaciones que realicen o en las que intervengan, en contravención a lo dispuesto por el artículo 25 de esta Ley.
 
-V.- Multa de 2,000 a 4,000 días de salario, a las personas que dirijan propaganda o información al público sobre valores, o sobre los servicios u operaciones de las casas de bolsa y bolsas de valores, en contravención a lo dispuesto por el artículo 5o. de esta Ley, así como a los administradores o funcionarios de casas de bolsa que hayan pagado dividendos, en contravención a lo ordenado por el artículo 26 Bis 6 del mismo ordenamiento.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-VI.- Multa equivalente al valor de adquisición de las acciones representativas del capital social de una casa de bolsa, a las personas a que se refieren los artículos 17, fracción II inciso a) y c) de esta Ley.
+IV.- Multa de 400 a 4,000 días de salario, a las casas de bolsa o especialistas bursátiles que no cumplan con las obligaciones previstas en las fracciones I, II y IV del artículo 27 de esta Ley, o que incurran en alguno de los supuestos a que se refieren las fracciones III, V, VI, VII y IX del artículo 20 del mismo ordenamiento.
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-VII.- Multa equivalente al valor contable de las acciones que excedan los porcentajes señalados en el artículo 19, primero y segundo párrafos de esta Ley, a las personas que infringiendo lo dispuesto en el citado artículo, lleguen a ser propietarias de acciones de una casa de bolsa.
+V.- Multa de 1,000 a 4,000 días de salario, a las personas que dirijan propaganda o información al público sobre valores, o sobre los servicios u operaciones de las casas de bolsa, especialistas bursátiles, bolsas de valores e instituciones para el depósito de valores, en contravención a lo dispuesto por el artículo 5o. de esta Ley, así como a los administradores o funcionarios de casas de bolsa que hayan pagado dividendos en contravención a lo ordenado por el artículo 26 Bis 6 del mismo ordenamiento.
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+VI.- Multa equivalente al valor de adquisición de las acciones representativas del capital social de una casa de bolsa o de un especialista bursátil, a las personas a que se refiere el artículo 17, fracción II, inciso a), c), d), e) y f) de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+VII.- Multa equivalente al valor contable de las acciones que excedan los porcentajes señalados en el artículo 19, primero y segundo párrafos de esta Ley a las personas que infringiendo lo dispuesto en el citado artículo, sean propietarios de acciones de una casa de bolsa o especialista bursátil.
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 Sin perjuicio de la sanción prevista en esta fracción y en la anterior, las acciones indebidamente adquiridas deberán ser liquidadas en el plazo de treinta días a partir de su adquisición, vencido el cual, si no se ha efectuado la venta, la Comisión Nacional de Valores ordenará la disminución de capital necesaria para amortizar dichas acciones y el procedimiento para su pago.
 
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 VIII.- Pérdida de las acciones adquiridas por extranjeros que no tengan el carácter de inmigrados, en beneficio de la nación, cuando se infrinja lo dispuesto por el artículo 17, fracción II inciso b) de esta Ley.
 
-IX.- Las infracciones que consistan en realizar operaciones no autorizadas o en exceder los porcentajes máximos o no mantener los mínimos previstos por esta Ley y que se exijan respecto a determinados elementos del activo, pasivo o capital contable, serán sancionadas con multa cuyo monto se determinará sobre el importe de la operación y sobre el exceso o defecto de los porcentajes fijados, respectivamente, con arreglo a la siguiente escala:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-a) Hasta un 1% cuando la transgresión sea del 1% al 3% del importe del elemento del estado de posición financiera de la casa de bolsa, cuando el porcentaje esté fijado en relación a dicho elemento, o del capital pagado cuando se trate de operaciones no autorizadas.
+IX.- Las infracciones que consistan en realizar operaciones prohibidas o no autorizadas o en exceder los porcentajes máximos o no mantener los mínimos previstos por esta Ley y que se exijan respecto a determinados elementos del activo, pasivo o capital contable, serán sancionadas con multa hasta por el importe de la operación prohibida o no autorizada y sobre el exceso o defecto de los porcentajes fijados, respectivamente, con arreglo a la siguiente escala:
 
-b) Hasta el 3% cuando la transgresión exceda del 3% y no llegue al 6%, y
+a) Hasta un 1% cuando la transgresión sea del 1% al 10% del importe del elemento del estado de posición financiera de la casa de bolsa, especialista bursátil o bolsa de valores, cuando el porcentaje esté fijado en relación a dicho elemento;
 
-c) Hasta un 4% cuando la transgresión sea del 6% o exceda este último porcentaje.
+b) Hasta el 2% cuando la transgresión exceda del 10% y no llegue al 20%, y
 
-Las infracciones que no puedan determinarse de este modo, por tratarse de disposiciones que no se refieran a la composición del estado de posición financiera, se castigarán con multa hasta del 1% del capital pagado de la casa de bolsa infractora.
+c) Hasta un 3% cuando la transgresión sea del 20% o exceda este último porcentaje.
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 El importe de estas multas se determinará con base en las cifras que arroje el estado mensual de contabilidad correspondiente al periodo en que la infracción sea cometida.
 
-X.- Multa de 100 a 3,000 días de salario, a los infractores de cualquiera otra disposición de esta Ley o de las disposiciones de carácter general que de ella deriven, distintas de las anteriores y que no tengan sanción especialmente señalada en este ordenamiento.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+X.- Multa de 200 a 4,000 días de salario a las casas de bolsa y, en su caso, especialistas bursátiles que infrinjan lo previsto en los artículos 91, 94, 95, 97, 98 segundo párrafo y 99 primer párrafo de esta Ley, así como a las casas de bolsa que omitan presentar o presenten extemporáneamente los avisos a que se refiere el artículo 27, fracción III de la misma.
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+XI.- Multa de 200 a 3,000 días de salario, a los infractores de cualquiera otra disposición de esta Ley o de las disposiciones de carácter general que de ella deriven, distinta de las anteriores y que no tengan sanción especialmente señalada en este ordenamiento.
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente.
 
+> <small>(REFORMADO, D.O.F. 8 DE FEBERERO DE 1985)</small>
+
 En el caso de personas morales, las multas podrán ser impuestas tanto a dichas personas como a sus administradores, funcionarios, empleados o apoderados que sean responsables de la infracción.
 
-Para la imposición de las multas correspondientes, la Secretaría de Hacienda y Crédito Público deberá oír previamente al presunto infractor.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-Tratándose de sociedades emisoras de valores inscritos en el Registro Nacional de Valores e Intermediarios, casas de bolsa o bolsas de valores que infrinjan lo dispuesto por los artículos 14; 20 y 87, fracción VII o 38; antepenúltimo párrafo de esta Ley, respectivamente, la Comisión Nacional de Valores, considerando la gravedad de la infracción, podrá proponer a la Secretaría de Hacienda y Crédito Público la imposición de las multas establecidas en este artículo, o bien proceder a la suspensión o cancelación de la autorización registral, o a proponer a la citada Secretaría que revoque la concesión de la bolsa de valores correspondiente.
+Para la imposición de las multas correspondientes, la Comisión Nacional de Valores deberá oír previamente al presunto infractor y tener en cuenta los antecedentes personales y condición económica del mismo, así como la naturaleza y gravedad de la infracción.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+Tratándose de sociedades emisoras de valores inscritos en el Registro Nacional de Valores e Intermediarios, casas de bolsa, especialistas bursátiles o bolsas de valores que infrinjan o se ubiquen en lo dispuesto por los artículos 14, 20 ó 38, segundo párrafo de esta Ley, la Comisión Nacional de Valores, considerando la gravedad de la infracción podrá imponer las multas establecidas en este artículo, o bien proceder a la suspensión registral o a proponer a la Secretaría de Hacienda y Crédito Público que revoque la autorización o concesión de la casa de bolsa o bolsa de valores correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
@@ -1066,7 +1386,7 @@ En caso de que las operaciones a que se refiere el párrafo anterior se lleven a
 
 ### CAPITULO SEPTIMO. De los Procedimientos Para Proteger los Intereses del Público Inversionista
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 54.
 
@@ -1090,7 +1410,9 @@ I.- La duración de la sociedad podrá ser indefinida;
 
 II.- El capital social sin derecho a retiro deberá estar íntegramente pagado y no podrá ser inferior al que establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general;
 
-III.- Sólo podrán ser socios y tienen derecho serlo, las casas de bolsa, bolsas de valores, instituciones de crédito, compañías de seguros y de fianzas;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+III.- Sólo podrán ser socios las casas de bolsa, especialistas bursátiles, bolsas de valores, instituciones de crédito, compañías de seguros y de fianzas;
 
 IV.- Cada socio sólo podrá se (sic) propietario de una acción;
 
@@ -1112,7 +1434,9 @@ La Comisión Nacional de Valores podrá, en todo tiempo, ordenar los aumentos de
 
 VIII.- La disolución y liquidación de estas instituciones se regirá por lo dispuesto en los Capítulos X y XI de la Ley General de Sociedades Mercantiles o, según el caso, por el Capítulo I del Título Séptimo de la Ley de Quiebras y suspensión de Pagos, teniendo la Comisión Nacional de Valores las siguientes atribuciones:
 
-a) Las facultades que, conforme a la ley, tiene la Comisión Nacional Bancaria y de Seguros en la suspensión de pagos o quiebra de las instituciones de crédito;
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+a) Las facultades que, conforme a la ley, tiene la Comisión Nacional Bancaria en la suspensión de pagos o quiebra de las instituciones de crédito;
 
 b) Las funciones de vigilancia, respecto de los síndicos y liquidadores, que tienen atribuidas en relación con las instituciones para el depósito de valores;
 
@@ -1130,7 +1454,9 @@ X.- La concesión, así como sus modificaciones, se publicarán en el Diario Ofi
 
 Las Instituciones para el depósito de valores tendrán por objeto la prestación de:
 
-I.- El servicio de depósito de valores, títulos y documentos a ellos asimilables, que reciban de casas de bolsa, bolsas de valores, instituciones de crédito, de seguros, de fianzas, y de sociedades de inversión y de títulos o documentos de personas o entidades distintas a las antes citadas, cuando lo señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+I.- El servicio de depósito de valores, títulos y documentos a ellos asimilables, que reciban de casas de bolsa, especialistas bursátiles, bolsas de valores, instituciones de crédito, de seguros, de fianzas, y de sociedades de inversión y de títulos o documentos de personas o entidades distintas a las antes citadas, cuando lo señale la Comisión Nacional de Valores mediante reglas de carácter general;
 
 II.- La administración de los valores que se les entreguen en depósito, sin que puedan ejercitar otros derechos que no sean los señalados en el artículo 75 de esta ley;
 
@@ -1156,25 +1482,27 @@ Las instituciones para el depósito de valores estarán sujetas a la inspección
 
 En el ejercicio de sus facultades de inspección y vigilancia, la citada Comisión deberá:
 
-I.- Autorizar el catálogo de cuentas, así como dictar normas de agrupación de cuentas y de registro de operaciones, siendo aplicables a tales instituciones para el depósito de valores las disposiciones establecidas por los artículos 26-Bis a 26-Bis-6 de esta ley;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-II.- Dictar las reglas de carácter general a las que deberán sujetarse las instituciones para el depósito de valores en la aplicación de su capital y reservas de capital;
+I.- Autorizar el catálogo de cuentas, así como dictar normas de agrupación de cuentas y de registro de operaciones, siendo aplicables a tales instituciones para el depósito de valores las disposiciones establecidas por los artículos 26 bis a 26 bis 6, así como las fracciones I y IV del artículo 26 Bis 7 de esta Ley.
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+II.- Dictar las reglas de carácter general a las que deberán sujetarse las instituciones para el depósito de valores en la aplicación de su capital contable;
 
 III.- Ordenar visitas de inspección a las instituciones para el depósito de valores, y en su caso, intervenirlas administrativamente, con objeto de suspender, normalizar o liquidar las operaciones que pongan en peligro su solvencia, estabilidad o liquidez, o aquellas violatorias de la presente ley o de las disposiciones de carácter general que de ella deriven;
 
-IV.- Aprobar previamente toda clase de propaganda o información dirigida al público por las instituciones para el depósito de valores;
+IV.- (DEROGADA, D.O.F. 4 DE ENERO DE 1990)
 
-V.- Aprobar previamente los modelos de contratos a través de los que se formalice la relación jurídica de las instituciones para el depósito de valores, con los usuarios de sus servicios; y
+V.- (DEROGADA, D.O.F. 4 DE ENERO DE 1990)
 
 VI.- Ejercer las demás facultades que se le atribuyen en este ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 59.
 
-Las instituciones para el depósito de valores requerirán previa autorización de la Secretaría de Hacienda y Crédito Público para el establecimiento, cambio de ubicación o clausura de sucursales u oficinas.
-
-La citada Secretaría otorgará o denegará discrecionalmente las autorizaciones a que se refiere este artículo, oyendo la opinión de la Comisión Nacional de Valores.
+Las instituciones para el depósito de valores se sujetarán a lo previsto en la fracción III del artículo 27 de esta Ley, en lo que concierne a la apertura, cambio de ubicación y cierre de sus oficinas.
 
 ###### ARTICULO 60.
 
@@ -1290,13 +1618,11 @@ El emisor deberá cumplir frente a las instituciones para el depósito de valore
 
 II.- Cuando para el ejercicio de los derechos a que se refiere la fracción anterior, se requiera que los titulares de los valores custodiados por las instituciones para el depósito de valores aporten recursos en efectivo, éstos les deberán ser entregados con una anticipación no menor de 2 días hábiles al vencimiento del plazo decretado por el emisor para dicho ejercicio. En caso de que no se hagan las ministraciones respectivas dentro del plazo mencionado, las instituciones para el depósito de valores no estarán obligadas a ejercer los derechos correspondientes, por lo que no tendrán responsabilidad si no realizan los actos de administración referidos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 77.
 
-Cuando se den en prenda valores depositados, dicha garantía se constituirá y formalizará mediante contrato que debe constar por escrito, sin que sea necesario hacer entrega o endoso de los títulos materia del contrato, ni en su caso, la anotación en el registro respectivo. El contrato deberá ser remitido a la institución para el depósito de valores correspondiente, junto con la solicitud para abrir la cuenta de valores depositados en prenda.
-
-En este caso, se podrá convenir expresamente la venta extrajudicial de los valores dados en prenda cuando sea exigible de la obligación garantizada y el deudor no satisfaga su importante (sic) al primer requerimiento; así como cuando el deudor incumpla, antes del vencimiento, la obligación de mantener el margen de garantía pactado con el acreedor.
+Cuando se den en prenda valores depositados, independientemente de la persona o entidad depositante, se estará a lo señalado por el artículo 99 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -1324,39 +1650,65 @@ Las instituciones para el depósito de valores y los depositantes deberán lleva
 
 El depositante será responsable de la autenticidad de los valores materia del depósito y de la validez de las transacciones que les sean inherentes; por lo tanto, las instituciones para el depósito de valores no tienen responsabilidad por los defectos, legitimidad o nulidad de los propios valores o transacciones.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 81.
 
-Previa autorización expresa de la comisión Nacional de Valores y cuando así lo prevengan los estatutos, las sociedades anónimas de capital fijo podrán emitir acciones no suscritas, para su colocación entre el público, siempre que se mantengan en custodia por una institución para el depósito de valores y que se cumplan las siguientes condiciones:
+Previa autorización expresa de la Comisión Nacional de Valores y cuando así lo prevengan los estatutos, las sociedades anónimas podrán emitir acciones no suscritas, para su colocación en el público, siempre que se mantengan en custodia en una institución para el depósito de valores y se cumplan las siguientes condiciones:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 I.- La emisión debe hacerse con propósito de oferta pública, de conformidad con lo dispuesto en esta ley;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 II.- El depósito de las acciones ante las instituciones para el depósito de valores se realizará por conducto de casas de bolsa, en los términos de esta ley;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 III.- La emisora, previamente a la celebración de la Asamblea Extraordinaria correspondiente, deberá presentar a la Comisión Nacional de Valores un proyecto de emisión, con todos los datos y documentos que la misma le solicite, incluyendo la información financiera, minuta de prospecto para información del público, así como el programa de colocación y el proyecto de los acuerdos de aumento de capital y de emisión de acciones que habrán de presentarse a dicha asamblea;
 
-IV.- Al otorgar la autorización respectiva la Comisión Nacional de Valores señalará las condiciones y requisitos a que deberán someterse la emisora y la casa de bolsa colocadora, tanto para le emisión, cuanto para la colocación de acciones;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-V.- El importe de las acciones no suscritas podrá ser hasta por un monto igual al capital pagado, debiendo señalar la Comisión Nacional de Valores, dentro de dicho límite, el monto de acciones no suscritas que pueden emitirse tomando en cuenta la importancia y características de la sociedad emisora y las condiciones del mercado;
+IV.- Al otorgar la autorización respectiva, la Comisión Nacional de Valores señalará las condiciones y requisitos a que deberán someterse la emisora y la casa de bolsa colocadora, tanto para la emisión, cuanto para la colocación de acciones;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+V.- El importe de las acciones no suscritas podrá ser hasta por el monto que autorice la Comisión Nacional de Valores, la que señalará el número de acciones no suscritas que pueden emitirse tomando en cuenta la importancia y características de la sociedad emisora y las condiciones del mercado;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 VI.- La sociedad emisora al dar publicidad al capital autorizado, tendrá la obligación de mencionar el importe del capital pagado a esa fecha;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 VII.- Las acciones se acreditarán en cuenta a la casa de bolsa colocadora, contra el pago del precio de las mismas.
 
 Las instituciones para el depósito de valores llevarán cuenta de las acciones que, por haber sido suscritas y pagadas, pueden ser materia de transferencia y de otras operaciones previstas en esta ley;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 VIII.- Las acciones que no se suscriban y paguen en el plazo que señale la Comisión Nacional de Valores se considerarán anuladas, sin que se requiera declaración judicial y se procederá a su cancelación. La emisora procederá a reducir el capital social autorizado en la misma proporción;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 IX.- La Comisión Nacional de Valores sólo aprobará emisiones de acciones no suscritas, cuando se trate de sociedades que mantengan políticas congruentes de colocación de sus valores en el público y de protección a los derechos de la minoría;
 
-X.- Para facilitar la oferta pública de valores, en la Asamblea Extraordinaria de Accionistas en las que se decrete la emisión de acciones no suscritas, deberá hacerse renuncia expresa al derecho de preferencia a que se refiere el artículo 132 de la Ley General de Sociedades Mercantiles. Habiendo quórum, en los términos de los estatutos sociales, el acuerdo que se tome producirá todo sus efectos, alcanzando a los accionistas que no hayan asistido a la asamblea, por lo que la sociedad quedará en libertad de colocar las acciones entre el público, sin hacer la publicación a que se refiere el artículo antes citado. Cuando una minoría, que represente cuando menos el 25% del capital social, vote en contra de la emisión de acciones no suscritas, dicha emisión no podrá llevarse a cabo;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+X.- Para facilitar la oferta pública de valores, en la Asamblea Extraordinaria de Accionistas en la que se decrete la emisión de acciones no suscritas, deberá hacerse renuncia expresa al derecho de preferencia a que se refiere el artículo 132 de la Ley General de Sociedades Mercantiles. Habiendo quórum, en los términos de los estatutos sociales, el acuerdo que se tome producirá todo sus efectos, alcanzando a los accionistas que no hayan asistido a la asamblea, por lo que la sociedad quedará en libertad de colocar las acciones entre el público, sin hacer la publicación a que se refiere el artículo antes citado. Cuando una minoría, que represente cuando menos el 25% del capital social, vote en contra de la emisión de acciones no suscritas, dicha emisión no podrá llevarse a cabo;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 XI.- En la convocatoria en la que se cite a Asamblea Extraordinaria se deberá hacer notar expresamente que se reúne para los fines precisados en este precepto, haciendo mención especial de lo establecido en la fracción anterior;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 XII.- Cualquier accionista que vote en contra de las resoluciones durante la asamblea, tendrá derecho a exigir de la sociedad la colocación de sus acciones, al mismo precio en el que se ofrezcan al público las acciones materia de la emisión.
 
 La sociedad tendrá obligación de colocar en primer lugar las acciones pertenecientes a los accionistas inconformes; y
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 XIII.- La Comisión Nacional de Valores estará facultada para concurrir a estas asambleas, a fin de vigilar el cumplimiento de los requisitos señalados para la emisión de las acciones.
 
@@ -1394,11 +1746,15 @@ La revocación de la concesión producirá la disolución y la liquidación de l
 
 Las instituciones para el depósito de valores no podrán suspender sus labores sino en los días previamente establecidos en el calendario que apruebe la Comisión Nacional de Valores. Dicho calendario deberá publicarse en el Diario Oficial de la Federación a más tardar el mes de diciembre del año anterior a aquel que deba regir.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 85.
 
-Los cargos por los servicios que las instituciones para el depósito de valores presten se cubrirán de acuerdo con la tarifa que autorice la Secretaría de Hacienda y Crédito Público, previa opinión de la Comisión Nacional de Valores.
+Los cargos por los servicios que las instituciones para el depósito de valores presten se cubrirán de acuerdo con la tarifa que autorice la Comisión Nacional de Valores.
+
+### CAPITULO OCTAVO. De la Contratación Bursátil
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 86.
 
@@ -1408,117 +1764,339 @@ Los cargos por los servicios que las instituciones para el depósito de valores 
 
 ###### ARTICULO 87.
 
-En caso de reclamación contra una casa de bolsa, con motivo de la contratación de operaciones con su clientela, deberá observarse lo siguiente:
+En caso de controversias entre una casa de bolsa y sus clientes con motivo de la contratación de servicios u operaciones, quedará a elección del inversionista acudir en vía de reclamación ante la Comisión Nacional de Valores, previamente al ejercicio de la acción que proceda ante los tribunales competentes. Las casas de bolsa estarán obligadas, invariablemente, a acudir a la vía de reclamación antes de ejercitar cualquier acción procesal en contra de su clientela, salvo el caso de reconvención. El procedimiento conciliatorio y el arbitraje previstos en este artículo se sujetarán a las reglas que a continuación se señalan:
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-I.- Se deberá agotar el procedimiento conciliatorio, de conformidad con las reglas que a continuación se señalan:
+I.- El procedimiento conciliatorio en la vía de reclamación se deberá agotar, de conformidad con las reglas que a continuación se señalan:
 
-a) El reclamante presentará mediante escrito ante la Comisión Nacional de Valores su reclamación, y de la misma se correrá traslado a la casa de bolsa de que se trate. La presentación de esta reclamación, interrumpirá la prescripción a que se encuentren sujetas las acciones de carácter mercantil o civil que sean procedentes.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-b) La casa de bolsa, dentro del término de cinco días hábiles, contado a partir de aquél en que sea notificada, rendirá un informe por escrito a la Comisión Nacional de Valores, en el que contestará en forma detallada todos y cada uno de los hechos a que se refiere la reclamación, y que deberá presentar por conducto de un representante legítimo.
+a) El reclamante presentará mediante escrito por duplicado ante la Comisión Nacional de Valores su reclamación, precisando los actos u operaciones que impugna y las razones que tiene para hacerlo. Con la copia del escrito de reclamación se correrá traslado a la otra parte.
+
+La Comisión Nacional de Valores podrá solicitar que la reclamación sea aclarada, cuando se presente de manera vaga, general o confusa.
+
+La presentación de la reclamación interrumpirá la prescripción a que se encuentran sujetas las acciones de carácter mercantil o civil que sean procedentes.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+b) La otra parte, dentro del término de nueve días hábiles, contado a partir de aquél en que sea notificado, rendirá un informe por escrito y en duplicado a la Comisión Nacional de Valores, en el que contestará en forma detallada todos y cada uno de los hechos a que se refiere la reclamación y que deberá ser suscrito en lo personal o por conducto de un representante legítimo.
+
+La Comisión Nacional de Valores podrá solicitar que cuando el informe no satisfaga lo dispuesto en el párrafo anterior, cumpla con el requisito de que se contesten en forma detallada todos y cada uno de los hechos reclamados.
+
+La falta del informe cuando corresponda rendirlo al inversionista, se entenderá como no aceptación de la conciliación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 c) La Comisión citará a las partes a una junta de avenencia, que se realizará dentro de los treinta días contados a partir de la fecha de presentación de la reclamación; si por cualquier circunstancia la junta no puede celebrarse en la fecha indicada, se verificará dentro de los ocho días siguientes.
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-Si no comparece el reclamante, sin causa justificada, se entenderá que no desea la conciliación y que es su voluntad no someter sus diferencias al arbitraje de la Comisión, quedando imposibilitado para presentar nueva reclamación sobre el mismo caso. Si no comparece la casa de bolsa, se aplicarán las sanciones previstas en la fracción VI de este artículo.
+Si no comparece el inversionista reclamante, sin causa justificada, se entenderá que no desea la conciliación y que es su voluntad no someter sus diferencias a juicio arbitral, siendo improcedente presentar nueva reclamación sobre el mismo caso.
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 1985)</small>
+(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)(F. DE E., D.O.F. 3 DE ABRIL DE 1985)
 
 d) El procedimiento conciliatorio se tendrá por agotado si cualquiera de las partes no concurre a la junta de avenencia, si al concurrir a la junta relativa argumentan su voluntad de no conciliar, o bien, si concilian sus diferencias. La Comisión Nacional de Valores levantará acta en la que se hará constar cualquiera de estas circunstancias y la terminación del procedimiento de conciliación.
 
-e) En la junta de avenencia se exhortará a las partes a conciliar sus intereses, y si esto no fuere posible, la Comisión las invitará a que voluntariamente y de común acuerdo la designen árbitro sea en amigable composición o en juicio arbitral de estricto derecho, a elección de las mismas. El compromiso correspondiente se hará constar en el acta a que se refiere el inciso anterior.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+e) En la junta de avenencia se exhortará a las partes a conciliar sus intereses, y si esto no fuera posible, la Comisión las invitará a que voluntariamente y de común acuerdo designen para resolver su controversia a alguno de los árbitros que les proponga la Comisión, quedando a elección de las mismas que el juicio arbitral sea en amigable composición o en juicio arbitral de estricto derecho.
 
-II.- En el juicio arbitral en amigable composición de manera breve y concisa, se fijarán las cuestiones que deberán ser objeto de arbitraje.
+El compromiso arbitral se hará constar en el acta a que se refiere el inciso anterior.
 
-La Comisión resolverá en conciencia y a buena fe guardada, sin sujeción a formalidades especiales, pero observando las esenciales del procedimiento. No habrá incidentes y la resolución sólo admitirá aclaración de la misma, a instancia de parte, presentada dentro de los tres días siguientes al de la notificación.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+II.- En el juicio arbitral en amigable composición de manera breve y concisa, se fijarán ante el árbitro las cuestiones que deberán ser objeto de arbitraje, las que deberán corresponder a los hechos controvertidos en la respectiva reclamación e informe presentados a la Comisión.
 
-III.- El juicio arbitral de estricto derecho se apegará al procedimiento que convencionalmente determinen las partes en acta ante la Comisión, fijando las reglas para tal efecto; aplicándose supletoriamente el Código de Comercio, con excepción de sus artículos 1235, 1247 y 1296, a falta de disposición de dicho Código, el Código de Procedimientos Civiles para el Distrito Federal salvo lo dispuesto por el artículo 617.
+El árbitro propondrá a las partes las reglas para la substanciación del juicio, respecto de las cuales las partes deberán manifestar su conformidad. No habrá incidentes y la resolución sólo admitirá aclaraciones de la misma, a instancia de parte, presentada dentro de los tres días hábiles siguientes al de la notificación.
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 1985)</small>
+El árbitro resolverá en conciencia, a verdad sabida y buena fe guardada, sin sujeción a formalidades especiales, pero observando las esenciales del procedimiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+III.- El juicio arbitral de estricto derecho se apegará al procedimiento que convencionalmente determinen las partes mediante pacto celebrado ante el árbitro, fijando las reglas para tal efecto; aplicándose supletoriamente el Código de Comercio, salvo su artículo 1419; a falta de disposición de dicho Código, el Código de Procedimientos Civiles para el Distrito Federal.
+
+(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)(F. DE E., D.O.F. 3 DE ABRIL DE 1985)
 
 Las notificaciones relativas al traslado de la reclamación, a la citación a la junta de avenencia, de la demanda y del laudo, deberán hacerse personalmente o por correo certificado con acuse de recibo y surtirán efectos al día siguiente de su notificación.
 
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 Con independencia de lo anterior, en el compromiso arbitral de estricto derecho regirán los siguientes términos:
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 a) Nueve días tanto para la presentación de la demanda, a partir del día siguiente de la celebración del compromiso, así como para producir la contestación a partir del día siguiente del emplazamiento a juicio.
 
-b) La Comisión dentro de los nueve días siguientes al vencimiento del último plazo señalado en el inciso anterior, dictará acuerdo fijando el término que crea suficiente para el ofrecimiento, admisión, recepción y desahogo de las pruebas, no pudiendo exceder de cuarenta días.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+b) El árbitro dentro de los nueve días siguientes al vencimiento del último plazo señalado en el inciso anterior, dictará acuerdo fijando el término que crea suficiente para el ofrecimiento, admisión, recepción y desahogo de las pruebas, no pudiendo exceder de cuarenta días.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 c) Diez días comunes a las partes para formular alegatos.
 
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 d) Diez días para los demás casos.
 
-Los términos serán improrrogables y se computarán en días hábiles y las notificaciones que no sean personales se harán a las partes por medio de lista que se fijará en los estrados de la Comisión, y empezarán a surtir sus efectos al día siguiente de que sean fijadas.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+Los términos serán improrrogables y se computarán en días hábiles y las notificaciones que no sean personales se harán a las partes en la forma convenida en el pacto arbitral, y empezarán a surtir sus efectos al día siguiente de que se realicen.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 Una vez concluidos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el procedimiento su curso y se tendrá por perdido el derecho que, dentro de ellos, debió ejercitarse.
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-IV.- La Comisión tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido a arbitraje.
+IV.- El árbitro tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido a arbitraje. Para el ejercicio de esta facultad, podrá solicitar información documental sobre el caso concreto a la Comisión Nacional de Valores, sin que esto afecte el principio consagrado por el artículo 25 de esta Ley.
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-V.- El proyecto de laudo deberá someterse a la consideración de la Junta de Gobierno de la Comisión Nacional de Valores. para su aprobación.
+V.- En el juicio arbitral de estricto derecho, el laudo sólo admitirá aclaración a instancia de parte, presentada dentro de los tres días hábiles siguientes al de la notificación.
 
-El laudo que se dicte sólo admitirá como medio de defensa, el juicio de amparo.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-Todas las demás resoluciones en el juicio arbitral de estricto derecho, admitirán como única recurso el de revocación.
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+Todas las demás resoluciones en el juicio arbitral de estricto derecho, admitirán como único recurso el de revocación.
 
-VI.- El incumplimiento por parte de una casa de bolsa a los acuerdos o resoluciones dictados por la Comisión en los procedimientos establecidos en el presente artículo, se castigará con multa administrativa que impondrá la Secretaría de Hacienda y Crédito Público, de mil a tres mil días de salario mínimo general vigente en el Distrito Federal.
+VI.- (DEROGADA, D.O.F. 4 DE ENERO DE 1990)
 
-(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985) (F. DE E., D.O.F. 3 DE ABRIL DE 1985)
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-VII.- El laudo que condene a una casa de bolsa, le otorgará para su cumplimiento un plazo de quince días hábiles a partir de su notificación; si no lo efectuare, la Secretaría de Hacienda y Crédito Público impondrá a la sociedad una multa hasta por el importe de lo condenado; en caso de incumplimiento reiterado, la Comisión Nacional de Valores podrá suspender o cancelar la inscripción en la Sesión de Intermediarios del Registro Nacional de Valores e Intermediarios.
+VII.- El laudo que condene a una casa de bolsa, le otorgará para su cumplimiento un plazo de quince días hábiles a partir de su notificación. Cuando sea impugnado conforme a la legislación aplicable y la resolución judicial que lo confirme haya causado estado, persistiéndose en su incumplimiento, la Comisión Nacional de Valores impondrá a la casa de bolsa una multa hasta por el importe de lo condenado; en caso de incumplimientos reiterados, la propia Comisión podrá suspender o proponer a la Secretaría de Hacienda y Crédito Público que se cancele la inscripción en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios.
 
 > <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 VIII.- Cuando se faltare al cumplimiento voluntario de lo convenido en la conciliación, o al laudo en la amigable composición o en el juicio arbitral de estricto derecho, la parte afectada deberá acudir a los tribunales competentes, para efectos de la ejecución de una u otra resolución.
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-IX.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión el reclamante podrá ocurrir desde luego ante los tribunales competentes.
+IX.- Si alguna de las partes no estuviere de acuerdo en designar árbitro conforme a este artículo, el reclamante podrá ocurrir desde luego a los tribunales competentes.
 
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+X.- La Comisión Nacional de Valores, en todo lo no previsto expresamente por la fracción I de este precepto, proveerá las medidas necesarias para el mejor desarrollo del procedimiento conciliatorio.
+
+El incumplimiento por parte de una casa de bolsa a los acuerdos dictados por la Comisión Nacional de Valores dentro del procedimiento conciliatorio, se sancionará por la propia Comisión con multa administrativa de cien a tres mil días de salario mínimo general vigente en el Distrito Federal.
+
+Lo dispuesto en este artículo será igualmente aplicable a las controversias por las operaciones que llegaren a contratar los especialistas bursátiles con el público inversionista.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 88.
 
-Los tribunales no darán entrada a demanda alguna contra una casa de bolsa, si el actor en ella no afirma bajo protesta de decir verdad que se agotó el procedimiento conciliatorio.
+Para ser designado árbitro por la Comisión Nacional de Valores, se requiere:
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+
+II.- No tener menos de treinta y cinco años cumplidos el día de su designación;
+
+III.- Poseer título profesional de licenciado en derecho, registrado ante la autoridad competente;
+
+IV.- Tener cuando menos cinco años de práctica legal en el mercado de valores;
+
+V.- Haber residido en el país, durante los últimos tres años anteriores a su designación y
+
+VI.- Gozar de buena reputación y de honorabilidad comprobada.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 89.
 
-Las bolsas de valores y las casas de bolsa, deberán establecer un fondo de apoyo preventivo para preservar su estabilidad financiera y garantizar el cumplimiento de las obligaciones contraídas por las casas de bolsa con su clientela, provenientes de operaciones y servicios propios de su actividad profesional.
+Las bolsas de valores y los intermediarios en el mercado de valores, deberán constituir en el Banco de México un fondo de apoyo preventivo para preservar su estabilidad financiera y garantizar el cumplimiento de las obligaciones contraídas por las casas de bolsa y los especialistas bursátiles con su clientela, provenientes de operaciones y servicios propios de su actividad profesional.
 
-La Comisión Nacional de Valores, previa aprobación de la Secretaría de Hacienda y Crédito Público, señalará mediante disposiciones de carácter general, las bases para la constitución, organización, integración patrimonial y funcionamiento del citado fondo, así como los términos y condiciones en que podrá otorgar su apoyo y garantía de acuerdo a lo dispuesto en el párrafo anterior, considerando los siguientes lineamientos:
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-I.- Las bolsas de valores y las casas de bolsa, estarán obligadas a cubrir al fondo aportaciones ordinarias y extraordinarias para el cumplimiento de su objeto.
+La Comisión Nacional de Valores, mediante disposiciones de carácter general, señalará las bases para la organización, integración patrimonial y funcionamiento del citado fondo, así como los términos y condiciones en que se podrá otorgar su apoyo y garantía, considerando los siguientes lineamientos:
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+I.- Las bolsas de valores, las casas de bolsa y los especialistas bursátiles, estarán obligados a cubrir al fondo aportaciones ordinarias y extraordinarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
 Las aportaciones ordinarias y extraordinarias serán por los importes resultantes de aplicar al monto de las operaciones autorizadas por esta Ley, que se manejen con intervención de dichos aportantes, la proporción correspondiente para cada tipo de aportaciones que fije la citada Comisión.
 
-La proporción relativa a las aportaciones ordinarias se determinará semestralmente, considerando los antecedentes que se tengan acerca de los apoyos y garantías requeridos por las casas de bolsa, las condiciones del mercado valores y, en su caso, el saldo de los financiamientos a que se refiere la fracción siguiente.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-Cuando los recursos del fondo no permitan hacer frente, tanto a los apoyos o garantías que se requiera otorgar, como a las amortizaciones de los financiamientos a que se refiere la fracción siguiente, las bolsas de valores y las casas de bolsa deberán cubrir aportaciones extraordinarias para solventarlos.
+La proporción relativa a las aportaciones ordinarias se determinará, considerando los antecedentes que se tengan acerca de los apoyos y garantías requeridos por las casas de bolsa y los especialistas bursátiles, las condiciones del mercado de valores y, en su caso, el saldo de los financiamientos a que se refiere la fracción siguiente.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+Cuando los recursos del fondo no permitan hacer frente, tanto a los apoyos o garantías que se requiera otorgar, como a las amortizaciones de los financiamientos a que se refiere la fracción siguiente, las bolsas de valores, las casas de bolsa y los especialistas bursátiles deberán cubrir aportaciones extraordinarias para solventarlos;
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
 Las aportaciones ordinarias y extraordinarias correspondientes a un semestre natural, no excederán de uno al millar para cada tipo de dichas aportaciones;
 
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
+
 II. En caso de que el fondo necesite recursos adicionales a los previstos en la fracción anterior, podrá obtenerlos de financiamientos;
 
-III. El fondo podrá recibir aportaciones de terceros distintos a las bolsas de valores y casas de bolsa;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
-IV.- En la administración del fondo participarán representantes de las dependencias y organismos que se señalen en las disposiciones a que se refiere el segundo párrafo de este artículo, en el número y términos que en las mismas se establezca. En todo caso, deberán estar representados la Secretaría de Hacienda y Crédito Público, la Comisión Nacional de Valores, el Banco de México, Nacional Financiera, S.N.C., las bolsas de valores y la Asociación Mexicana de Casas de Bolsa, A. C.;
+III.- El fondo podrá recibir aportaciones de terceros distintos a las bolsas de valores, casas de bolsa y especialistas bursátiles;
 
-V.- El fondo, en cumplimiento de su objeto, podrá adquirir acciones representativas del capital social de casas de bolsa, aún con exceso del límite establecido en el segundo párrafo del artículo 19 de esta Ley, pero deberá proceder a su venta tan pronto como las circunstancias sean propias para ello. Al efecto, el fondo deberá someter a la previa autorización de la Comisión Nacional de Valores las adquisiciones y ventas de dichas acciones que lleve a cabo, y
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+IV.- El fideicomiso deberá contar con la existencia de un Comité Técnico, en el que participarán representantes de las dependencias y organismos que se señalen en las disposiciones a que se refiere el segundo párrafo de este artículo, en el número y términos que en las mismas se establezcan. En todo caso, deberán estar representados la Secretaría de Hacienda y Crédito Público, la Comisión Nacional de Valores, el Banco de México, Nacional Financiera, S. N. C., las bolsas de valores y la Asociación Mexicana de Casas de Bolsa, A. C.
+
+En todo caso, las bolsas de valores y la Asociación Mexicana de Casas de Bolsa, A. C., designarán como representantes a quienes no sean administradores, funcionarios o empleados de casas de bolsa o especialistas bursátiles.
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+
+V.- El fondo, en cumplimiento de su objeto, podrá adquirir acciones representativas del capital social de casas de bolsa o especialistas bursátiles, aún con exceso del límite establecido en el segundo párrafo del artículo 19 de esta Ley, pero deberá proceder a su venta tan pronto como las circunstancias sean propicias para ello. Al efecto, el fondo deberá someter a la previa autorización de la Comisión Nacional de Valores las adquisiciones y ventas de dichas acciones que lleve a cabo, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
 VI.- El fondo estará sujeto a la inspección vigilancia de la Comisión Nacional de Valores debiendo proporcionar a ésta toda la información y documentación que, en ejercicio de dichas funciones, le sea solicitada en relación con las operaciones que celebre.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 90.
+
+Las operaciones que las casas de bolsa celebren con su clientela inversionista y por cuenta de la misma, se regirán por las previsiones contenidas en los contratos de intermediación bursátil que al efecto celebren por escrito, salvo que, como consecuencia de lo dispuesto en ésta u otras leyes, se establezca una forma de contratación distinta.
+
+Por medio del contrato de intermediación bursátil, el cliente conferirá un mandato general para que, por su cuenta, la casa de bolsa realice las operaciones autorizadas por esta Ley, a nombre de la misma casa de bolsa, salvo que, por la propia naturaleza de la operación, deba convenirse a nombre y representación del cliente, sin que en ambos casos sea necesario que el poder correspondiente se otorgue en escritura pública.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 91.
+
+Como consecuencia del contrato de intermediación bursátil:
+
+I.- La casa de bolsa en el desempeño de su encargo actuará conforme a las instrucciones del cliente que reciba el apoderado para celebrar operaciones con el público designado por la propia casa de bolsa, o el que en su ausencia temporal la misma casa de bolsa designe, excepto que en el contrato se pacte el manejo discrecional de la cuenta, sin que sea necesaria, salvo que expresamente se pacte lo contrario, la ratificación de las instrucciones correspondientes. Cualquier sustitución definitiva del apoderado designado para manejar la cuenta será comunicada al inversionista asentando el nombre y en su caso el número del nuevo facultado, en el estado de cuenta del mes en que se produzca la sustitución.
+
+II.- A menos que en el contrato se pacte el manejo discrecional de la cuenta, las instrucciones del cliente para la ejecución de operaciones concretas o movimientos en la cuenta del mismo, podrán hacerse de manera escrita, verbal o telefónica, debiéndose precisar en todo caso el tipo de operación o movimiento, así como el género, especie, clase, emisor, cantidad, precio y cualquiera otra característica necesaria para identificar los valores materia de cada operación o movimiento en la cuenta.
+
+Las partes podrán convenir libremente el uso de carta, telégrafo, télex, telefax o cualquier otro medio electrónico, de cómputo o de telecomunicaciones para el envío, intercambio o en su caso confirmación de las órdenes de la clientela inversionista y demás avisos que deban darse conforme a lo estipulado en el contrato, así como los casos en que cualquiera de ellas requiera cualquiera otra confirmación por esas vías.
+
+III.- Las instrucciones del cliente para la celebración de operaciones por cuenta del mismo, serán ejecutadas por la casa de bolsa de acuerdo al sistema de recepción y asignación de operaciones que tenga establecido conforme a las disposiciones de carácter general que al efecto expida la Comisión Nacional de Valores.
+
+IV.- La casa de bolsa elaborará un comprobante de cada operación realizada en desempeño de las instrucciones del cliente, que contendrá todos los datos necesarios para su identificación y el importe de la operación. Este comprobante y el número de su registro contable quedará a disposición del inversionista en la oficina de la casa de bolsa, con independencia de que cada operación se vea reflejada en el estado de cuenta que deba enviarse al inversionista conforme a lo previsto en esta Ley.
+
+V.- En caso de que las partes convengan el uso de medios electrónicos, de cómputo o de telecomunicaciones para el envío, intercambio y en su caso confirmación de las órdenes y demás avisos que deban darse, habrán de precisar las claves de identificación recíproca y las responsabilidades que conlleve su utilización.
+
+Las claves de identificación que se convenga utilizar conforme a este artículo sustituirán a la firma autógrafa, por lo que las constancias documentales o técnicas en donde aparezcan, producirán los mismos efectos que las leyes otorguen a los documentos suscritos por las partes y, en consecuencia, tendrán igual valor probatorio.
+
+VI.- La casa de bolsa quedará facultada para suscribir en nombre y representación del cliente, los endosos y cesiones de valores nominativos expedidos o endosados a favor del propio cliente, que éste confiera a la casa de bolsa en guarda y administración.
+
+VII.- En ningún supuesto la casa de bolsa estará obligada a cumplir las instrucciones que reciba para el manejo de la cuenta, si el cliente no la ha provisto de los recursos o valores necesarios para ello, o si no existen en su cuenta saldos acreedores por la cantidad suficiente para ejecutar las instrucciones relativas.
+
+VIII.- Cuando en el contrato se convenga expresamente el manejo discrecional de la cuenta, las operaciones que celebre la casa de bolsa por cuenta del cliente serán ordenadas por el apoderado para celebrar operaciones con el público designado por la casa de bolsa para dicho objeto, sin que sea necesaria la previa autorización o ratificación del cliente para cada operación.
+
+Se entiende que la cuenta es discrecional, cuando el cliente autoriza a la casa de bolsa para actuar a su arbitrio, conforme la prudencia le dicte y cuidando el negocio como propio.
+
+El inversionista podrá limitar la discrecionalidad a la realización de determinadas operaciones o al manejo de valores específicos, pudiendo en cualquier tiempo revocar dicha facultad, surtiendo efectos esta revocación desde la fecha en que haya sido notificada por escrito a la casa de bolsa, sin afectar operaciones pendientes de liquidar.
+
+IX.- Todos los valores y efectivo propiedad del cliente que estén real o virtualmente en poder de la casa de bolsa, se entenderán especial y preferentemente destinados al pago de las remuneraciones, gastos o cualquier otro adeudo que exista en favor de la casa de bolsa con motivo del cumplimiento de la intermediación bursátil que le fue conferida, por lo que el cliente no podrá retirar dichos valores o efectivo sin satisfacer sus adeudos.
+
+X.- Las partes deberán pactar en los contratos de intermediación bursátil de manera clara las tasas de interés ordinario y moratorio que puedan causarse con motivo de los servicios y operaciones materia del contrato, así como las fórmulas de ajuste a dichas tasas y la forma en que se notificarán sus modificaciones. Las tasas pactadas se aplicarán por igual a los adeudos que sean exigibles tanto a la casa de bolsa como al cliente.
+
+A falta de convenio expreso la tasa aplicable será igual al rendimiento promedio aritmético que generen las acciones de las sociedades de inversión de renta fija.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 92.
+
+En los contratos que celebren las casas de bolsa con su clientela, el inversionista que sea titular de la cuenta podrá en cualquier tiempo designar o cambiar beneficiario.
+
+En caso de fallecimiento del titular de la cuenta, la casa de bolsa entregará al beneficiario que haya señalado de manera expresa y por escrito, el saldo registrado en la cuenta que no exceda el mayor de los límites siguientes:
+
+I.- El equivalente a diez veces el salario mínimo general diario del Distrito Federal elevado al año, o
+
+II.- El equivalente al 50% del saldo registrado en la cuenta.
+
+El beneficiario tendrá derecho de elegir la entrega de determinados valores registrados en la cuenta o el importe de su venta en bolsa, con sujeción a los límites señalados.
+
+El excedente en su caso deberá devolverse de conformidad con la legislación común.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 93.
+
+En el manejo de las cuentas de sus clientes, las casas de bolsa deberán actuar profesionalmente, sin asumir ninguna obligación de garantizar rendimientos, ni ser responsable de las pérdidas que el inversionista pueda sufrir como consecuencia de las operaciones concertadas conforme a la Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 94.
+
+Las casas de bolsa deberán enviar a sus clientes dentro de los primeros cinco días hábiles posteriores al corte mensual, un estado autorizado con la relación de todas las operaciones realizadas con él o por su cuenta, y que refleje la posición de valores de dicho cliente al último día hábil del corte mensual, así como la posición de valores del corte mensual anterior.
+
+Este documento hará las veces de factura global respecto de las operaciones en él consignadas.
+
+Los citados estados de cuenta deberán ser remitidos precisamente al último domicilio del cliente notificado por éste a la casa de bolsa y, en su caso, los asientos que aparezcan en los mismos podrán ser objetados por escrito o a través de cualquier medio convenido por las partes, de acuerdo a lo previsto en el segundo párrafo de la fracción II del artículo 91 de esta Ley, dentro de los veinte días hábiles siguientes a la fecha de su envío.
+
+El cliente, para hacer las objeciones respectivas en tiempo, tendrá a su disposición y podrá recoger en las oficinas de la casa de bolsa, una copia de dicho estado desde el día siguiente hábil del corte de la cuenta.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 95.
+
+Las casas de bolsa no podrán comprar ni vender por cuenta propia los valores que les hubieren sido confiados para su venta o que les hubieren sido pedidos en compra por su clientela, excepto cuando conforme al artículo 22 fracción V, inciso g) de esta Ley, operen como especialistas bursátiles, o bien cuando por las características de los valores y los mecanismos de su operación, así lo autorice mediante disposiciones de carácter general la Comisión Nacional de Valores.
+
+Salvo lo dispuesto en la última parte del párrafo anterior, las operaciones por cuenta propia que celebren las casas de bolsa sólo podrán hacerse después de que se hayan satisfecho en su totalidad las órdenes de su clientela.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 96.
+
+Las casas de bolsa deberán observar lo establecido en las leyes y disposiciones de carácter general expedidas por las autoridades competentes, respecto a la ejecución de las instrucciones que reciban de la clientela inversionista, por lo que estarán obligadas a excusarse de darles cumplimiento, sin causa de responsabilidad, cuando dichas instrucciones contravenan (sic) tales ordenamientos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 97.
+
+Los reportos sobre valores que celebren las casas de bolsa se sujetarán a las disposiciones aplicables a esta clase de operaciones, así como a las siguientes:
+
+I.- Se formalizarán de la manera que, mediante reglas de carácter general, determine el Banco de México;
+
+II.- Si el plazo del reporto vence en un día que no fuere hábil, se entenderá prorrogado al primer día hábil siguiente;
+
+III.- El plazo del reporto podrá ser pactado libremente por las partes sin extenderse a más de ciento ochenta días. La operación podrá ser prorrogada en la forma que determine el Banco de México conforme a la fracción I de este artículo, sin que una misma operación con sus prórrogas pueda ser mayor de trescientos sesenta días; y
+
+IV.- Salvo pacto en contrario, si el día en que el reporto deba liquidarse el reportado no liquida la operación ni ésta es prorrogada, se tendrá por abandonada y el reportador podrá exigir desde luego al reportado el pago de las diferencias que resulten a su cargo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 98.
+
+En los préstamos de valores que se celebren con la intervención de casas de bolsa, se transferirá la propiedad al deudor, quien quedará obligado a restituir otros tantos títulos del mismo emisor, valor nominal, especie y clase, o el equivalente que sea expresamente pactado.
+
+Estas operaciones podrán concertarse fuera de bolsa, en cuyo caso deberán registrarse en la misma para los efectos previstos en el artículo 31, fracción VIII, inciso f) de la presente Ley y sólo podrán realizarse respecto de los valores que autorice mediante disposiciones de carácter general la Comisión Nacional de Valores, las cuales deberán dictarse con miras a lograr la transparencia de este tipo de transacciones y el desarrollo ordenado del mercado de valores.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 99.
+
+Cuando por virtud de las operaciones que celebren las casas de bolsa se deba constituir prenda sobre valores que aquéllas mantengan en guarda y administración conforme al artículo 22, fracción V, inciso b) de este ordenamiento dicha garantía se constituirá y formalizará mediante contrato que debe constar por escrito, sin que sea necesario hacer entrega o endoso de los títulos materia del contrato, ni en su caso la anotación en el registro respectivo.
+
+El contrato en cuestión deberá ser remitido por la casa de bolsa a la institución encargada del depósito de los títulos, junto con la solicitud para la apertura o incremento de la cuenta de valores depositados en prenda.
+
+Se podrá convenir en los contratos la venta extrajudicial de los valores dados en prenda cuando sea exigible la obligación garantizada y el deudor no satisfaga su importe al primer requerimiento que se le haga por cualquier medio convenido por las partes, de acuerdo a lo previsto en el segundo párrafo de la fracción II del artículo 91 de esta Ley, así como cuando el deudor incumpla, antes del vencimiento, la obligación de mantener el margen de garantía pactado con el acreedor.
+
+En los estados de cuenta que deben enviar las casas de bolsa a sus clientes, se destacarán los elementos correspondientes a las prendas constituidas por éstos, con los datos necesarios para identificación de los valores pignorados. El estado de cuenta servirá de resguardo de los valores, hasta la terminación del contrato de prenda.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 100.
+
+La falta de la forma escrita exigida por esta ley o por convenio de las partes, respecto de los actos o las operaciones que sean contratadas entre las casas de bolsa y su clientela inversionista, produce la nulidad relativa de dichos actos u operaciones.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 101.
+
+Las casas de bolsa constatarán que en sus programas de auditoría legal se verifique el funcionamiento de los sistemas de contratación de servicios y operaciones con su clientela inversionista, con la obligación de adjuntar al informe que deben presentar anualmente a la asamblea ordinaria de accionistas, el dictamen que emita su auditor legal externo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1990)</small>
+
+###### ARTICULO 102.
+
+La Comisión Nacional de Valores, en cualquier tiempo podrá verificar que los modelos de contratos que utilicen las casas de bolsa se apeguen a lo dispuesto por esta Ley y a los lineamientos generales que expida para establecer condiciones uniformes de contratación con la clientela inversionista.
 
 TRANSITORIOS:
 
@@ -1608,9 +2186,9 @@ Son valores las acciones, obligaciones y demás títulos de crédito que se emit
 
 El régimen que establece la presente Ley para los valores y las actividades realizadas con ellos, también será aplicable a los títulos de crédito y a otros documentos que sean objeto de oferta pública o de intermediación en el mercado de valores, que otorguen a sus titulares derechos de crédito, de propiedad o de participación en el capital de personas morales.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-La Secretaría de Hacienda y Crédito Público, a propuesta de la Comisión Nacional de Valores, podrá establecer mediante disposiciones de carácter general, las características a que se deberá sujetar la operación con los valores y documentos a que se refiere este artículo.
+La Comisión Nacional de Valores podrá establecer, mediante disposiciones de carácter general, las características a que se debe sujetar la emisión y operación de los valores y documentos sujetos al régimen de esta Ley, con miras a procurar certidumbre respecto a los derechos y obligaciones que corresponden a los tenedores de los títulos, seguridad y transparencia a las operaciones, así como la observancia de los sanos usos y prácticas del mercado.
 
 Se prohibe la oferta pública de cualquier documento que no sea de los mencionados en este artículo.
 
@@ -1701,3 +2279,21 @@ La Secretaria de Hacienda y Crédito Público tomará las providencias necesaria
 ###### ARTICULO SEXTO.
 
 Las referencias que en la presente Ley del Mercado de Valores o en alguna otra ley, reglamento, decreto, acuerdo, circular o concesión se hagan acerca del Instituto para el Depósito de Valores, se entenderán formuladas a las instituciones para el depósito de valores.
+
+D.O.F. 4 DE ENERO DE 1990.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto la Comisión Nacional de Valores expide las disposiciones de carácter general a que se refiere este Decreto, seguirán aplicándose las dictadas con anterioridad a su vigencia, en las materias correspondientes.
+
+TERCERO.- Las personas a que se refieren las fracciones III y IV del artículo 16 bis 7, podrán conservar las acciones y certificados de aportación patrimonial de su propiedad que se encuentren inscritos en el Registro Nacional de Valores e Intermediarios, debiendo observar lo dispuesto en dicho artículo para realizar nuevas inversiones.
+
+Además, deberán informar a la Comisión Nacional de Valores dentro de los tres meses siguientes a la fecha en que entre en vigor el presente Decreto, acerca de la tenencia de acciones y certificados de aportación patrimonial que hayan adquirido con anterioridad. La falta de este informe, dará lugar a que la tenencia de los títulos quede sometida a las disposiciones de este Decreto.
+
+CUARTO.- Las casas de bolsa que no cuenten con sistemas automatizados de registro y asignación de operaciones, tendrán un plazo de seis meses contado a partir de que inicie su vigencia este Decreto, para sujetarse a lo previsto en el artículo 26 Bis 8, quedando facultada la Comisión Nacional de Valores para establecer los plazos que sean necesarios para la automatización en las fases de recepción y de ejecución de operaciones.
+
+QUINTO.- Las casas de bolsa deberán redocumentar los contratos que tienen celebrados con su clientela inversionista, en un plazo de seis meses a partir de que entre en vigor el presente Decreto, a fin de sujetarlos a lo establecido en el Capítulo Octavo.
+
+SEXTO.- Las casas de bolsa y la Bolsa Mexicana de Valores, S.A. de C.V., realizarán los actos necesarios para instruir el fiduciario en el fondo de apoyo preventivo para establecer la estabilidad financiera y garantizar el cumplimiento de las obligaciones contraídas por las casas de bolsa con su clientela, que a la fecha del presente Decreto se encuentra constituido, para que entregue el patrimonio de éste al Banco de México como fiduciario en el nuevo fondo de apoyo preventivo a que se refiere el artículo 89 de la Ley del Mercado de Valores una vez reformado, con el objeto de que pase a formar parte del patrimonio de este último fondo.
+
+SEPTIMO.- Las infracciones cometidas antes de la vigencia de este Decreto y los juicios arbitrales que se encuentren en trámites en la Comisión Nacional de Valores, se sancionarán y serán concluidos, según el caso, conforme a lo previsto en los textos anteriormente aplicables en la Ley del Mercado de Valores.
