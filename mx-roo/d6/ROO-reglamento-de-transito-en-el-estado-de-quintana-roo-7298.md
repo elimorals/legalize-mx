@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transito-en-el-estado-de-quintana-roo-7298"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-01-18"
-last_updated: "1991-01-18"
+last_updated: "1998-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 1998.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 19 de enero de 1991.
 
@@ -737,13 +737,17 @@ II.- Los vehículos particulares que estén registrados en otras Entidades Feder
 
 III.- Cuando se trate de un vehículo de procedencia extranjera en tramite dé introducción, su propietario solicitará permiso para operar el vehículo hasta por 90 días, previa demostración de haber iniciado dicho trámite ante la Autoridad Federal correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 36.
 
-Para efectuar el tránsito de vehículos por vías y carreteras del Estado, será necesario que estos cuenten con los siguientes documentos y efectos:
+Para efectuar el tránsito de vehículos por vías y carreteras del Estado, será necesario que éstos cuenten con los documentos y efectos vigentes siguientes:
 
 I.- Tarjeta de circulación.
 
-II.- Placas vigentes.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1998)</small>
+
+II.- Placas
 
 III.- Calcomanía identificadora.
 
@@ -816,6 +820,12 @@ Cuando el propietario del vehículo registrado transfiera la propiedad de su veh
 Todos los vehículos deberán portar placas o el documento que las sustituya (permiso provisional) en un lugar visible.
 
 Los vehículos de transporte de carga así como las camionetas y camiones del servicio particular, deberán tener pintando en ambos costados una razón social, que indique el tipo de servicio, el nombre y domicilio del propietario.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1998)</small>
+
+###### ARTICULO 44
+
+BIS.- El canje de placas se hará, en las fechas y con los requisitos que al efecto señale la Dirección de Tránsito en el Estado, mediante el pago de los derechos correspondientes previo acuerdo con la Secretaría de Hacienda y la Secretaría de Comunicaciones y Transportes.
 
 ###### ARTICULO 45.
 
@@ -2273,7 +2283,7 @@ El Servicio Público de Carga Regular, es el transporte de productos de material
 
 ###### ARTICULO 225.
 
-El Servicio Público de Carga Especializado, es el transporte de productos y materiales que requieren de mayor especialización del conductor y del vehículo, tales como pipas, grúas, plataformas, maquinaria, tolvas y remolques especializados.
+El Servido Público de Carga Especializado, es el transporte de productos y materiales que requieren de mayor especialización del conductor y del vehículo, tales como pipas, grúas, plataformas, maquinaria, tolvas y remolques especializados.
 
 ###### ARTICULO 226.
 
@@ -2548,3 +2558,11 @@ MIGUEL BORGE MARTIN.
 El C. Secretario de Gobierno.
 
 JUAN MANUEL MERCADER RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE FEBRERO DE 1998.
+
+PRIMERO.- Dentro de los tres primeros meses del año de 1998, todos los tenedores o usuarios de vehículos matriculados en el Estado, deberán canjear la placa de su unidad.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
