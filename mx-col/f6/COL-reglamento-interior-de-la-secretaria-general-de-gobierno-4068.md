@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-general-de-gobierno-4068"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-03-21"
-last_updated: "1992-03-21"
+last_updated: "1994-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 21 de marzo de 1992.
 
@@ -60,6 +60,10 @@ DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 > <small>(F. DE E., P.O. 28 DE MARZO DE 1992)</small>
 
 DIRECCION DEL TRABAJO
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 1994)</small>
+
+DIRECCION DE REGISTRO CIVIL
 
 DE LAS ATRIBUCIONES DEL SECRETARIO
 
@@ -161,7 +165,9 @@ XIlI.- Auxiliar al Secretario en aquellas funciones no delegables a fin de facil
 
 XIV.- Representar y sustituir en sus ausencias al Titular de la Secretaría;
 
-XV.- Coordinar y supervisar las funciones de las Direcciones de: Asuntos Jurídicos y Consultoría, Trabajo y Registro Público de la Propiedad; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 1994)</small>
+
+XV.- Coordinar y supervisar las funciones de las Direcciones de: Asuntos Jurídicos y Consultoría, del Trabajo, del Registro Público de la propiedad y del Registro Civil;
 
 XVI.- Las demás que le confieran las autoridades superiores y le señalen las leyes y disposiciones reglamentarias aplicables.
 
@@ -279,7 +285,7 @@ XI.- Señalar, previa valoración técnica de los sentenciados, el lugar donde d
 
 a).- La participación de todo interno en las actividades terapéuticas, laborales, educativas, deportivas, de recreación y aprovechamiento del tiempo libre que se realicen en los centros respectivos;
 
-b).- Que se le practiquen los estudios técnico-criminológicos y se actualicen y evalúen con oportunidad los mismos, a fin que demuestren el esfuerzo del interno y la evolución de su tratamiento;
+b).- Que se le practiquen los estudios técnico-criminológicos y se actualicen y evaluen con oportunidad los mismos, a fin que demuestren el esfuerzo del interno y la evolución de su tratamiento;
 
 c).- Que se mantenga y refuerce la relación social, moral y económica de la familia;
 
@@ -323,7 +329,7 @@ La Dirección del Trabajo tendrá las siguientes facultades:
 
 I.- Coordinar la observancia y aplicación de las disposiciones en el Artículo 123 y demás relativos de la Constitución General de la República, de la Ley Federal del Trabajo y sus reglamentos, en el ámbito local;
 
-II.- Impulsar la procuración e impartición de la justicia laboral; supervisar el funcionamiento administrativo y coordinar las actividades de las Juntas Locales de Conciliación y Arbitraje, así como las Procuradurías de la Defensa del Trabajo y la Coordinación de Inspección del Trabajo;
+II.- Impulsar la procuración e impartición de la justicia laboral; supervisar el funcionamiento administrativo y coordinar las actividades de las Juntas Locales de Conciliación y Arbitraje, así como las Procuradurías de la Defensa del Trabajo y la Coordinación de Inspección del Trabajo.
 
 III.- Cuidar la observancia de las leyes, reglamentos y demás disposiciones de carácter laboral en las diversas empresas comerciales, industriales y de servicios de jurisdicción local y auxiliar a las autoridades federales en la inspección del cumplimiento de las normas de capacitación y adiestramiento, seguridad e higiene, tratándose de empresas o establecimientos que estén sujetos a la jurisdicción local;
 
@@ -365,6 +371,42 @@ XXI.- Proponer y elaborar anteproyectos de reglamentos, instructivos, circulares
 
 XXII.- Las demás que le confieran las autoridades superiores y les señalen las leyes y disposiciones reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 1994)</small>
+
+###### ARTICULO 14.
+
+la Dirección del Registro Civil, tendrá las siguientes facultades:
+
+I.- Coordinar, inspeccionar y supervisar los trabajos de las oficialías del Registro Civil en el Estado de Colima;
+
+II.- Autorizar y distribuir los formatos oficiales que se utilizarán para consignar los actos del Registro Civil;
+
+III.-Tener a su cargo la dirección y coordinación del Archivo del Registro Civil;
+
+IV.- Proponer el procedimiento que deba implementarse para la guarda y distribución de las copias del respaldo informático de los documentos que consignen actos del Registro Civil;
+
+V.- Visar y autorizar los libros del Registro Civil que se utilicen en las diversas oficialías en el Estado;
+
+VI.- Autorizar los actos y actas del Registro Civil relativos a los Oficiales del Registro, sus consortes, ascendientes o descendientes;
+
+VII.- Determinar, en términos del Reglamento de la materia, el servidor público que deba suplir en sus faltas a los oficiales del Registro Civil, coordinadamente con los Presidentes Municipales correspondientes;
+
+VIII.- Delimitar la jurisdicción de las oficialías, coordinadamente con los Ayuntamientos respectivos; y supervisar la organización y funcionamiento de las mismas;
+
+IX.- Autorizar con su firma los acuerdos correspondientes, cuando así proceda, relativos a la aclaración o complementación de actas, o a divorcios administrativos;
+
+X.- Dictar la normatividad a que deberán sujetarse los Oficiales del Registro Civil, en el ejercicio de sus funciones;
+
+XI.- Promover campañas de difusión de los servicios del Registro Civil y la regularización del estado civil de las personas;
+
+XII.- Vigilar el estricto cumplimiento de asignación de la clave única del registro de población y la remisión oportuna de información del Registro Civil a las dependencias correspondientes;
+
+XIII.- Autorizar con su firma las copias certificadas y los documentos del apéndice que se encuentren en el archivo a su cargo;
+
+XIV.- Comunicar a los Presidentes Municipales respectivos de las faltas en que incurran los Oficiales del Registro Civil, y promover el cese de aquéllos que infrinjan grave o reiteradamente las disposiciones respectivas; y
+
+XV.- las demás que le confieran las leyes, reglamentos, circulares y acuerdos.
+
 T R A N S I T O R I O
 
 UNICO.- El presente Reglamento entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Colima.
@@ -372,3 +414,9 @@ UNICO.- El presente Reglamento entra en vigor a partir del día siguiente de su 
 Por lo tanto mando se imprima, publique, circule y observe.
 
 Dado en la residencia del Poder Ejecutivo Estatal, en la Ciudad de Colima, Colima, a los 18 días del mes (sic) marzo de 1992.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE NOVIEMBRE DE 1994.
+
+UNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
