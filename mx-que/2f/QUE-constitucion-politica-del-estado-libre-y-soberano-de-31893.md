@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1969-09-25"
+last_updated: "1972-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 1969.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 1972.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -333,7 +333,9 @@ I.- Ser mexicano por nacimiento;
 
 II.- Ser ciudadano queretano en el pleno ejercicio de sus derechos políticos y civiles;
 
-III.- Tener veinticinco años cumplidos el día de la elección;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1972)</small>
+
+III.- Ser mayor de 21 años el día de la elección;
 
 IV.- No estar en servicio activo en el Ejército Nacional, ni tener mando en la Policía o Gendarmería Rural, en el Distrito donde se haga la elección, cuando menos noventa días antes verificarse ésta;
 
@@ -1523,7 +1525,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
@@ -1680,3 +1682,7 @@ UNICO.- Aprobadas que fuesen las reformas propuestas por la mayoría de los Ayun
 P.O. 25 DE SEPTIEMBRE DE 1969
 
 UNICO.- La presente Ley principiará a surtir sus efectos a partir de su publicación en el Periódico Oficial de esta Entidad.
+
+P.O. 27 DE ABRIL DE 1972
+
+UNICO.- La presente Ley surtirá efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
