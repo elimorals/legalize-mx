@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-36-de-responsabilidades-de-los-servidores-9079"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-09"
-last_updated: "2003-03-18"
+last_updated: "2004-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 36 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LLAVE
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003, EN TODAS LAS LEYES, DECRETOS,. SE AÑADIRA LA EXPRESION ".ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
 
-> <small>N. DE E. CONFORME AL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA GACETA OFICIAL DEL 18 DE MARZO DE 2003, LA DENOMINACION " . . . ESTADO DE VERACRUZ LLAVE", DEBERA ENTENDERSE COMO " . . . ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE AGOSTO DE 2004.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 9 de febrero de 1984.
 
@@ -39,13 +39,17 @@ LEY:
 
 LEY NUMERO 36
 
-DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
+> <small>(REFORMADA SU DENOMINACION POR ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
+
+DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TITULO PRIMERO
 
 ### CAPITULO UNICO
 
 DISPOSICIONES GENERALES.
+
+> <small>(REFORMADO, G.O. 30 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 1º.
 
@@ -85,15 +89,15 @@ f).- Los Arbitros.
 
 ###### ARTICULO 1.
 
-Esta Ley tiene por objeto reglamentar el Título Sexto de la Constitución Política del Estado.
+Esta Ley tiene por objeto reglamentar el Título Quinto de la Constitución Política del Estado.
 
 ###### ARTICULO 2.
 
 Son sujetos de esta Ley:
 
-> <small>(REFORMADA, G.O. 29 DE MAYO DE 1990)</small>
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2004)</small>
 
-I.- Los servidores públicos, entendiéndose como tales, a los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, los Jueces Menores, los Magistrados del Tribunal de lo Contencioso Administrativo, los Funcionarios y Empleados de los Poderes Legislativo, Ejecutivo y Judicial y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los Poderes del Estado; y
+I.- Los servidores públicos, entendiéndose como tales, a los Diputados el Gobernador, los Secretarios del Despacho, el Procurador General de Justicia, el Contralor General; los Magistrados; los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo del Instituto Electoral Veracruzano y el Presidente de la Comisión Estatal de los Derechos Humanos; los titulares o sus equivalentes, de las entidades de la administración pública estatal y municipal y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los Poderes del Estado; y
 
 II.- Todas aquellas personas que manejen o apliquen recursos económicos estatales.
 
@@ -137,6 +141,8 @@ PROCEDIMIENTOS ANTE LA LEGISLATURA Y EL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
 
 SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES.
 
+> <small>(REFORMADO, G.O. 30 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 6º.
 
 Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes que, en ejercicio de sus atribuciones legales, les dirijan los Magistrados y Jueces:
@@ -177,7 +183,7 @@ Los tribunales del Estado estarán expeditos para administrar justicia, que impa
 
 ###### ARTICULO 5.
 
-En los términos del primer párrafo del artículo 123 de la Constitución Política del Estado, son sujetos de juicio político los servidores públicos que en él se mencionan.
+En los términos del primer párrafo del artículo 77 de la Constitución Política del Estado, podrán ser sujetos de juicio político los servidores públicos que en él se mencionan.
 
 ###### ARTICULO 6.
 
@@ -311,9 +317,11 @@ Para que una sentencia condenatoria tenga validez se requerirá el voto aprobato
 
 PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 25.
 
-Para proceder penalmente en contra de alguno de los servidores a que se refiere el artículo 124 párrafo primero de la Constitución Política del Estado y el artículo 111 párrafo quinto, de la Constitución General de la República, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante la Legislatura del Estado. En este caso, la Comisión Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y probable responsabilidad del inculpado, así como la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, dictaminará si ha lugar a proceder penalmente en contra del inculpado.
+Para proceder penalmente en contra de alguno de los servidores a que se refiere el artículo 78 párrafo primero de la Constitución Política del Estado y el artículo 111 párrafo quinto de la Constitución General de la República, salvo disposición legal específica, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante la Legislatura del Estado. En este caso, la Comisión Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y probable responsabilidad del inculpado, así como la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, dictaminará si ha lugar a proceder penalmente en contra del inculpado.
 
 Si a juicio de la Comisión, la imputación fuese notoriamente improcedente, lo hará saber de inmediato a la Legislatura, para que ésta resuelva si se continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 
@@ -331,9 +339,11 @@ El día designado, previa declaración del Presidente de la Legislatura, ésta c
 
 Si la Legislatura declara, por el voto aprobatorio de las dos terceras partes de sus integrantes, que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá lugar a procedimiento ulterior, mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso, cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
 
+> <small>(REFORMADO, G.O. 30 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 29.
 
-Cuando se siga proceso penal a un servidor público de los mencionados en el artículo 124 constitucional, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, la Secretaría de la Legislatura o la Comisión Permanente, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
+Cuando se siga proceso penal a un servidor público de los mencionados en el artículo 78 de la Constitución Política del Estado, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, el Secretario de la Mesa Directiva del Congreso o de la Diputación Permanente, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
 
 ### CAPITULO IV
 
@@ -407,9 +417,11 @@ En todo lo no previsto por esta Ley, en las discusiones y votaciones se observar
 
 En el juicio político al que se refiere esta Ley, los acuerdos y determinaciones de la Legislatura y del Tribunal Superior se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando las buenas costumbres o el interés en general exijan que la audiencia sea secreta.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 42.
 
-Cuando en el curso del procedimiento a un servidor público de los mencionados en los artículos 123 y 124 de la Constitución, se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procedimental.
+Cuando en el curso del procedimiento a un servidor público de los mencionados en los artículos 77 y 78 de la Constitución, se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procedimental.
 
 Si la acumulación fuese procedente la Comisión formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
@@ -1900,3 +1912,7 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 30 DE AGOSTO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
