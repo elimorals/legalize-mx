@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "1989-07-06"
+last_updated: "1991-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -527,7 +527,7 @@ III.- Arresto hasta de treinta y seis horas, y
 
 IV.- Las demás que establezca este Código.
 
-ARTICULO 101 (Imposición de corrección disciplinarias [sic]).- Siempre que se cometa una falta, el secretario del Juzgador deberá dar fe del hecho, antes de imponerse la corrección disciplinaria.
+ARTICULO 101 (Imposición de corrección disciplinarias[sic]).- Siempre que se cometa una falta, el secretario del Juzgador deberá dar fe del hecho, antes de imponerse la corrección disciplinaria.
 
 ARTICULO 102 (Medios de apremio).- El Ministerio Público en las diligencias de preparación del ejercicio de la acción penal y el Juzgador, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
 
@@ -589,15 +589,11 @@ ARTICULO 118 (Cómputo de la prisión preventiva en sentencia).- En toda pena pr
 
 ### CAPITULO III. LIBERTAD ADMINISTRATIVA
 
-ARTICULO 119 (Libertad Administrativa).- Durante las diligencias de preparación del ejercicio de la acción penal el acusado podrá obtener su inmediata libertad conforme a las siguientes reglas:
+> <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 1991)</small>
 
-A).- Que se trate de delitos culposos derivados del tránsito de vehículos,
+ARTICULO 119 (Libertad Administrativa).- Durante las diligencias de preparación del ejercicio de la acción penal, el Ministerio Público está obligado a conceder al indiciado la libertad inmediatamente que éste la solicite, si el delito que se le imputa, incluyendo sus modalidades, no exceda en su penalidad del término medio aritmético de cinco años de prisión.
 
-B).- Que el inculpado no conduzca el vehículo bajo la influencia de estupefacientes, psicotrópicos, bebidas embriagantes o cualquier otra sustancia tóxica;
-
-C).- Que el imputado no haya abandonado a la víctima, y
-
-D).- Que otorgue ante el Ministerio Público garantía de no sustraerse a la acción de la justicia.
+El Ministerio Público fijará la caución suficiente para garantizar que el detenido no se sustraiga de la acción de la justicia, ni del pago de la reparación de daños y perjuicios que pudieran serle exigidos.
 
 ARTICULO 120 (Obligaciones y consecuencias).- El juez del conocimiento calificará la garantía otorgada, a fin de aceptarla, revocarla o modificarla.
 
@@ -609,7 +605,21 @@ La garantía se cancelará y en su caso se devolverá cuando se resuelva el no e
 
 ### CAPITULO IV. LIBERTAD PROVISIONAL BAJO CAUCION
 
-ARTICULO 121 (Derecho a la libertad provisional bajo caución).- Todo imputado tendrá derecho a ser puesto en libertad bajo caución, si no excede de cinco años el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado, incluyendo las modalidades acreditadas cuando se resuelva sobre dicha libertad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 121 Todo imputado tendrá derecho a ser puesto en libertad provisional bajo caución, si no excede de cinso(sic) años el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado, incluyéndose sus modalidades. En caso de acumulación se atenderá al delito cuya pena sea mayor.
+
+En los casos en que la pena del delito imputado, rebase el término medio aritmético de cinco años de prisión, y no se trate de los delitos señalados en este mismo artículo, el Juzgador podrá conceder la libertad condicional bajo caución en resolución razonada, siempre que se cumplan con los siguientes requisitos:
+
+I. Que se haga el pago o se garantice debidamente a juicio del órgano jurisdiccional, la liquidación de daños y perjuicios al o los ofendidos.
+
+II. Que no exista riesgo fundado de que el imputado pueda sustraerse a la acción de la justicia, y
+
+III. Que no se trate de personas que hayan sido consideradas con anterioridad con sentencia ejecutoriada.
+
+No procederá la libertad provisional bajo caución, cuando se trate de los delitos previstos en los artículos 125, 150, 157 , 160 , 161, 162, 163, 182 fracción II, cuando se cometa en cualquiera de las circunstancias señaladas en el artículo 183 fracciones I, III, V y VI.
+
+La Concesión de la libertad provisional bajo caución en los casos en que el delito imputado exceda de cinco años de prisión en su término medio aritmético y a que se refiere el presente artículo, no constituye un derecho del imputado, sino una facultad potestativa del órgano jurisdiccional.
 
 ARTICULO 122 (Otorgamiento de la libertad caucional).- Cuando se solicite la libertad caucional, inmediatamente el Juzgador deberá resolver de plano lo conducente.
 
@@ -1195,7 +1205,9 @@ ARTICULO 247 (La probable responsabilidad).- La probable responsabilidad del imp
 
 Para los efectos de este Código, la probable participación reprochable se demuestra cuando, habiéndose acreditado el cuerpo del delito, no se comprueba plenamente a favor del imputado alguna causa de las previstas en el artículo 25 del Código Penal para el Estado.
 
-## TITULO SEGUNDO. REGLAS APLICABLES A LAS DILIGENCIAS DE PREPARACION DEL EJERCICIO DE LA ACCION PENAL
+## TITULO TERCERO. CUERPO DEL DELITO Y
+
+PROBABLE RESPONSABILIDAD
 
 ### CAPITULO I. EJERCICIO DE LA ACCION PENAL
 
@@ -1235,9 +1247,15 @@ V.- Cuando se haya extinguido la pretensión punitiva del Estado, en los términ
 
 ARTICULO 255 (Definitividad del no ejercicio de la acción penal).- Las resoluciones que se dicten en los casos a que se refieren los dos artículos anteriores, producirán el efecto de impedir el ejercicio de la acción penal respecto de los hechos que las motiven, salvo que se recaben con posterioridad datos que destruyan la hipótesis de no ejercicio de la acción penal a que se refiere el artículo anterior.
 
-## TITULO TERCERO. CUERPO DEL DELITO Y
+## TITULO CUARTO. DETERMINACIONES CON LAS
 
-PROBABLE RESPONSABILIDAD
+QUE CONCLUYEN LAS
+
+DILIGENCIAS DE PREPARACION
+
+DEL EJERCICIO DE LA ACCION
+
+PENAL
 
 ### CAPITULO III. RESERVA
 
@@ -1259,15 +1277,7 @@ b) Librar orden de comparecencia en todos los demás casos.
 
 # LIBRO TERCERO. PREPARACION DEL PROCESO
 
-## TITULO CUARTO. DETERMINACIONES CON LAS
-
-QUE CONCLUYEN LAS
-
-DILIGENCIAS DE PREPARACION
-
-DEL EJERCICIO DE LA ACCION
-
-PENAL
+## TITULO UNICO. PREPARACION DEL PROCESO
 
 ### CAPITULO III. DECLARACION PREPARATORIA
 
@@ -1357,7 +1367,7 @@ ARTICULO 283 (Revocación de conclusiones no acusatorias).- Si el Procurador Gen
 
 # LIBRO CUARTO. PROCESO
 
-## TITULO UNICO. PREPARACION DEL PROCESO
+## TITULO PRIMERO. INSTRUCCIÓN
 
 ### CAPITULO II. CONCLUSIONES DEL DEFENSOR
 
@@ -1367,7 +1377,7 @@ Cuando los acusados fueren varios, el término será común para todos.
 
 ARTICULO 285 (No presentación de conclusiones por la defensa).- Si, al concluir el plazo concedido al acusado y a su defensor, éstos no hubieren presentado conclusiones, el juez tendrá por formuladas las de no responsabilidad.
 
-## TITULO PRIMERO. INSTRUCCIÓN
+## TITULO SEGUNDO. PREPARACION DEL JUICIO
 
 ### CAPITULO III. AUDIENCIA DE VISTA
 
@@ -1413,7 +1423,7 @@ IV.- Cuando se declare desierto el recurso interpuesto.
 
 ARTICULO 295 (Ejecutoriedad de las sentencias de segunda instancia).- Causan ejecutoria por ministerio de ley las sentencias dictadas en segunda instancia.
 
-## TITULO SEGUNDO. PREPARACION DEL JUICIO
+## TITULO TERCERO. JUICIO
 
 ### CAPITULO I. SUSPENSION DEL PROCEDIMIENTO
 
@@ -1455,7 +1465,7 @@ III.- En los demás casos que señale la Ley.
 
 ARTICULO 302 (Oportunidad del sobreseimiento).- El auto de sobreseimiento se dictará tan pronto como se pruebe la causa que lo origine.
 
-## TITULO TERCERO. JUICIO
+## TITULO CUARTO. SUSPENSION Y EXTINCION DEL PROCEDIMIENTO
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -1525,7 +1535,7 @@ Se resolverá de plano cuando se decrete de oficio. Si fuere a petición de part
 
 (Efectos del sobreseimiento).- El auto de sobreseimiento que haya causado estado, surtirá los efectos de una sentencia absolutoria, con valor de cosa juzgada.
 
-## TITULO CUARTO. SUSPENSION Y EXTINCION DEL PROCEDIMIENTO
+## TITULO QUINTO. IMPUGNACION
 
 ### CAPITULO IV. DENEGADA APELACION
 
@@ -1739,15 +1749,13 @@ ARTICULO 369 (Acumulación durante la preparación del proceso).- Las disposicio
 
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
 
-ARTICULO 370 (Separación de expedientes).- Procederá la separación de expedientes, únicamente, cuando, siguiéndose un proceso, por uno o varios delitos, en contra de varios inculpados, alguno o algunos de ellos renuncien al plazo a que se refiere el artículo 274 de este Código para ser juzgados, en tanto que otro u otros exijan se les respete dicho plazo.
+ARTICULO 370 (Separación de expedientes).- Procederá la separación de expedientes, únicamente, cuando, siguiéndose un proceso, por uno o varios delitos, en contra de varios inculpados, alguno o algunos de ellos renuncien al plazo a que se refiere el artículo 274 de este Código para ser juzgados, en tanto que otro u otros exijan se les respete dicho plazo
 
 # LIBRO QUINTO. PROCEDIMIENTO ESPECIAL
 
 PARA INIMPUTABLES E
 
 INCIDENTES
-
-## TITULO QUINTO. IMPUGNACION
 
 ## TITULO PRIMERO. PROCEDIMIENTO ESPECIAL
 
@@ -1782,6 +1790,8 @@ La suspensión del procedimiento no será obstáculo para que se continúen veri
 En caso de que el imputado recobre la salud, el procedimiento ordinario será reanudado, y si al dictar sentencia se impone pena privativa de la libertad, se computará el tiempo de la internación.
 
 ARTICULO 346 (Sobreseimiento por determinación del trastorno mental transitorio).- En cualquier momento en que se determine por el Juzgador, tomando en consideración los dictámenes periciales respectivos, que el procesado superó el estado de anormalidad en que se hallaba al momento de realizar el hecho típico, el asunto se dará por terminado, sobreseyéndose el proceso especial y el ordinario que lo hubiere motivado, luego de lo cual se declararán sin efecto las medidas de seguridad que provisionalmente se hubieren determinado.
+
+## TITULO SEGUNDO. INCIDENTES
 
 ### CAPITULO V. REPARACION DE DAÑOS Y PERJUICIOS EXIGIBLES A TERCEROS
 
@@ -1888,3 +1898,15 @@ LIC. MARIANO PALACIOS ALCOCER.
 EL C. SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 31 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente.
