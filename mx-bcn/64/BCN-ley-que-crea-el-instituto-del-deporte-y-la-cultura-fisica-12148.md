@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-instituto-del-deporte-y-la-cultura-fisica-12148
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-08"
-last_updated: "2002-01-11"
+last_updated: "2003-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FISICA DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 8 de agosto de 1997.
 
@@ -105,7 +105,15 @@ XVI. Procurar entre instituciones públicas, privadas, organismos deportivos y d
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2002)</small>
 
-XVII. Procurar aportaciones estatales, federales, o privadas para la adquisición o distribución de material y apoyo para el fomento del deporte popular y escolar en las poblaciones rurales y urbanas, a través de los comités deportivos, de las delegaciones del deporte en cada municipio y los consejos para el desarrollo del deporte extraescolar (CONDEBA Y CONADEMS), respectivamente, o en su caso, a través de los Municipios.
+XVII. Procurar aportaciones estatales, federales, o privadas para la adquisición o distribución de material y apoyo para el fomento del deporte popular y escolar en las poblaciones rurales y urbanas, a través de los comités deportivos, de las delegaciones del deporte en cada municipio y los consejos para el desarrollo del deporte extraescolar (CONDEBA Y CONADEMS), respectivamente, o en su caso, a través de los Municipios,
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+XVIII. Promover programas tendientes a fomentar el deporte popular y de alto rendimiento para discapacitados en el Estado; y,
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+XIX. Fomentar la adecuación de infraestructura, para la práctica del Deporte para discapacitados.
 
 ### CAPITULO TERCERO. ESTRUCTURA ORGANICA DEL INSTITUTO
 
@@ -278,3 +286,9 @@ P.O. 11 DE ENERO DE 2002.
 PRIMERO.- Las presentes modificaciones y reformas entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Para todos los efectos legales correspondientes, la denominación del Instituto de la Juventud y el Deporte de Baja California, se entenderá como Instituto del Deporte y la Cultura Física de Baja California, una vez que entren en vigor estas modificaciones y reformas.
+
+P.O. 6 DE JUNIO DE 2003.
+
+###### ARTICULO UNICO
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
