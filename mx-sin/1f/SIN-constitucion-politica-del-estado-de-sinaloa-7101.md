@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1998-01-23"
+last_updated: "1998-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1998.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -661,9 +661,11 @@ Las leyes y decretos son obligatorios desde el día siguiente al de su promulgac
 
 #### SECCION IV. DE LA DIPUTACION PERMANENTE
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+
 ###### Art. 49.
 
-Durante los recesos del Congreso del Estado, habrá una Diputación Permanente compuesta de cinco miembros, de los cuales funcionarán tres como propietarios y dos como suplentes. Los miembros de la Diputación Permanente serán elegidos por mayoría de votos, de los Diputados presentes, en la víspera de la clausura del período de sesiones, o de su prórroga en su caso.
+Durante los recesos del Congreso del Estado, habrá una Diputación Permanente compuesta de once miembros, de los cuales funcionarán siete como propietarios y cuatro como suplentes generales. Los miembros de la Diputación Permanente serán elegidos por mayoría de votos, de los Diputados presentes, en la víspera de la clausura del período de sesiones, o de su prórroga en su caso.
 
 ###### Art. 50.
 
@@ -799,9 +801,11 @@ El cargo de Gobernador del Estado sólo es renunciable por causa grave que calif
 
 El Gobernador no podrá ausentarse del territorio del Estado, por más de treinta días sin permiso del Congreso o de la Diputación Permanente en su caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+
 ###### Art. 65.
 
-Son facultades y obligaciones del Gobernador del Estado, las siguientes:
+Son facultades y obligaciones del Gobernador Constitucional del Estado, las siguientes:
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -811,9 +815,9 @@ I. Sancionar, promulgar, reglamentar y ejecutar las leyes y decretos que expida 
 
 II. Nombrar y remover a los servidores públicos de su dependencia cuyo nombramiento y remoción no estén determinados de otro modo en la Constitución y demás leyes, así como concederles licencias y admitirles sus renuncias.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1998)</small>
 
-III. Tener el mando de la fuerza pública en el Estado y en los Municipios donde residiera habitual o transitoriamente, pudiendo en estos casos remover y nombrar Inspectores y demás miembros de la Policía.
+III. Tener el mando de la fuerza pública en el Estado y en el Municipio donde residiera habitual o transitoriamente, pudiendo en estos casos nombrar al titular de la seguridad pública municipal, a propuesta del Presidente Municipal que corresponda; y podrá removerlo con causa justificada.
 
 En los casos de perturbación grave de la tranquilidad pública en alguno o varios lugares de uno o más Municipios, el Gobernador del Estado nombrará y removerá libremente al Inspector y demás miembros de la Policía del Municipio o Municipios donde hubiere causas de intranquilidad.
 
@@ -867,13 +871,17 @@ XX. Otorgar concesiones en los términos que establezcan las leyes o sobre las b
 
 XXI. Otorgar avales, previa autorización del Congreso del Estado, para garantizar empréstitos concedidos a organismos públicos legalmente instituidos, a que se refiere el Artículo 84 de esta Constitución. Asimismo, bajo las mismas condiciones señaladas anteriormente, el Ejecutivo podrá constituirse en aval de organismos sociales legalmente instituidos, que tengan por objeto obtener créditos para la realización de obras de interés social, cuando existan garantías de la recuperación del financiamiento.
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADA P.O. 13 DE NOVIEMBRE DE 1998)</small>
 
-XXII. Nombrar y remover libremente al Procurador de Justicia y Agentes del Ministerio Público.
+XXII. Designar, con la ratificación del Congreso del Estado o de su Diputación Permanente, al Procurador General de Justicia, ratificación sin la cual no surtirá efecto la designación.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
 XXIII. Condonar adeudos fiscales a favor del Estado, en los términos de la Ley relativa que expida el Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+
+XXIII Bis. Formalizar toda clase de acuerdos, contratos y convenios.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -931,31 +939,53 @@ Las Secretarías y demás organismos y dependencias de la Administración Públi
 
 #### SECCION II. DEL MINISTERIO PUBLICO
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+
 ###### Art. 73.
 
-Habrá en el Estado la institución del Ministerio Público, cuya misión será velar por el cumplimiento de las leyes de interés general, para lo cual ejercerá las acciones que procedan contra los violadores de dichas leyes; hará efectivos los derechos del Estado e intervendrá en los juicios que afecten a las personas a quienes la ley otorga especial protección.
+El Ministerio Público es una institución de buena fe, dependiente del Poder Ejecutivo, con autonomía técnica para realizar las funciones de su competencia.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+La actuación del Ministerio Público y de su policía auxiliar se regirá por los principios de unidad de actuación, legalidad, protección social, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
 
 ###### Art. 74.
 
-Ejercerán las facultades del Ministerio Público, un Procurador General de Justicia y los Agentes que la ley determine.
+El Ministerio Público tiene a su cargo velar por la legalidad como principio rector de la convivencia social, investigar y perseguir los delitos del orden común, la defensa de los derechos del Estado, participar en los procedimientos que afecten a personas a quienes las leyes otorguen especial protección, así como las facultades y obligaciones establecidas en su Ley Orgánica y otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
 
 ###### Art. 75.
 
-Para ser Procurador General de Justicia, se requiere ser ciudadano sinaloense, mayor de 30 años, Licenciado en Derecho y haber observado buena conducta. Para ser Agente del Ministerio Público, se requiere ser ciudadano mexicano por nacimiento, mayor de 25 años, licenciado en derecho y haber observado buena conducta.
+El Ministerio Público estará presidido por un Procurador General de Justicia, quién se auxiliará con los Agentes del Ministerio Público y demás personal que determine la Ley Orgánica de la institución, misma que fijará sus respectivas atribuciones y determinará su organización.
+
+Para la investigación de los delitos y persecución de los delincuentes, la Procuraduría General de Justicia contará con un cuerpo policiaco de investigación, que estará bajo el manto directo e inmediato del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
 
 ###### Art. 76.
 
-El Procurador General de Justicia no podrá desempeñar ningún otro cargo, empleo o comisión por el que se perciban emolumentos, ni litigar más que en asuntos propios, bajo pena de destitución.
+El Procurador General de Justicia será designado por el titular del Ejecutivo Estatal, con ratificación del Congreso del Estado o de su Diputación Permanente, según corresponda. El Procurador podrá ser removido por causa justificada por el Ejecutivo. El Subprocurador General y los Subprocuradores Regionales serán nombrados y removidos por el Procurador General de Justicia, previo acuerdo con el Gobernador del Estado. Los Agentes del Ministerio Público y demás Servidores Públicos de la Procuraduría General de Justicia serán nombrados y removidos libremente por el Procurador General de Justicia.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
 
 ###### Art. 77.
 
-La Ley Orgánica de la Procuraduría General de Justicia, reglamentará tanto a este órgano como a la Institución del Ministerio Público.
+Para ser Procurador General de Justicia se requiere:
+
+I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+
+II. Ser Licenciado en Derecho con título legalmente expedido;
+
+III. Tener más de treinta años de edad;
+
+IV. Acreditar ejercicio profesional de diez años, por lo menos;
+
+V. Ser de honradez y probidad notorias; y
+
+VI. No haber sido condenado por delitos dolosos.
+
+El Procurador General de Justicia no podrá desempeñar otro cargo, empleo o comisión por el que perciba emolumentos, excepto de enseñanza, ni litigar mas que en asuntos propios. En caso de incumplimiento a esta disposición, será destituido.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE ENERO DE 1993)</small>
 
@@ -1385,13 +1415,15 @@ El cargo de Presidente Municipal y de Regidor será obligatorio pero no gratuito
 
 Para ser Regidor se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
-II.- Ser originario o vecino de la municipalidad en que se elija cuando menos con un año antes de la elección.
+II. Ser originario o vecino de la municipalidad en que se elija cuando menos con un año antes de la elección.
 
 Para este efecto, la vecindad no se pierde por ausencia en el desempeño de cualquier cargo de elección popular o de designación en los Poderes Legislativo, Ejecutivo o Judicial; y,
 
-III.- No tener empleo, cargo o comisión del Gobierno Federal, Estatal o Municipal, ni ser titular, director, sus equivalentes, de sus respectivos organismos públicos paraestatales, por lo menos 90 días antes de la elección.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+
+III. No tener empleo, cargo o comisión del Gobierno Federal, Estatal o Municipal, ni ser titular, director o su equivalente de sus respectivos organismos públicos paraestatales. Los ciudadanos antes referidos, podrán ser electos siempre que se separen de sus cargos cuando menos noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2640,6 +2672,12 @@ P.O. 23 DE ENERO DE 1998.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE NOVIEMBRE DE 1998.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
