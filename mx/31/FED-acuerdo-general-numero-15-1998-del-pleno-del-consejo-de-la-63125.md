@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-15-1998-del-pleno-del-consejo-de-la-6312
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-05-26"
-last_updated: "1998-05-26"
+last_updated: "1998-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63125&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-05-20"
 
 ACUERDO GENERAL NUMERO 15/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES DEL TERCER CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE NOVIEMBRE DE 1998.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de mayo de 1998.
 
@@ -161,10 +161,18 @@ DECIMO CUARTO.- Las situaciones no previstas en la ley, en este Acuerdo o en la 
 
 ## TRANSITORIOS
 
-PRIMERO.- Se determina que aquellos participantes en el Tercer Concurso Interno de Oposición para la Designación de Magistrados de Circuito que no obtengan una calificación mínima de 75 puntos en su primera etapa, estarán impedidos para participar en el siguiente concurso interno de oposición para la designación de magistrados de Circuito.
+PRIMERO.- (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 41/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE NOVIEMBRE DE 1998)
 
 SEGUNDO.- Este Acuerdo entrará en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 15/1998, que fija las bases del Tercer Concurso Interno de Oposición para la Designación de Magistrados de Circuito, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de veinte de mayo de mil novecientos noventa y ocho, por unanimidad de votos de los señores Consejeros: Presidente ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Rodolfo Héctor Lara Ponte, María Concepción Elisa Martín de Zúñiga, Mario Melgar Adalid, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a veinte de mayo de mil novecientos noventa y ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE NOVIEMBRE DE 1998.
+
+PRIMERO.- Este Acuerdo entrará en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
