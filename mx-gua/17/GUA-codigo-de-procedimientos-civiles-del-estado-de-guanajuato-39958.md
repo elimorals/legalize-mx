@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1952-06-19"
+last_updated: "1958-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1958.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -175,11 +175,11 @@ El tribunal que resuelva la incompetencia declarará de oficio la nulidad.
 
 Competencia por materia.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1952)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1958)</small>
 
 ###### Art. 23.
 
-Los Jueces Municipales son competentes para conocer exclusivamente de los negocios, valuables en dinero, cuya cuantía no exceda de $1,000.00 UN MIL PESOS, hecha excepción de los casos que interesen al Estado o a una entidad de derecho público.
+Los jueces municipales son competentes para conocer exclusivamente de los negocios, valuables en dinero, cuya cuantía no exceda de dos mil pesos, hecha excepción de los casos que interesen al Estado o a una Entidad de Derecho Público.
 
 ###### Art. 24.
 
@@ -1451,9 +1451,11 @@ Cuando el auto contra el cual se haya admitido el recurso de apelación en ambos
 
 En los autos que queden en el tribunal no podrá nunca dictarse resolución alguna que modifique, revoque o en otra forma afecte lo acordado en la resolución apelada, entre tanto que el recurso este pendiente, para lo cual se dejará copia de ella.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1958)</small>
+
 ###### Art. 243.
 
-Sólo son apelables las sentencias que recaigan en negocios cuyo valor exceda de mil pesos y en aquellos cuyo interés no sea susceptible de valuarse.
+Sólo son apelables las sentencias que recaigan en negocios cuyo valor exceda de dos mil pesos y en aquellos cuyo interés no sea susceptible de valuarse en dinero.
 
 ###### Art. 244.
 
@@ -3289,9 +3291,11 @@ Sucesiones.
 
 Disposiciones generales.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1958)</small>
+
 ###### Art. 564.
 
-Los jueces municipales son competentes para conocer de toda clase de juicios sucesorios, cuyo caudal no exceda de un mil pesos; de los que excedan de dicha cantidad conocerán los jueces de Partido, así como de aquellos en que sea heredero o legatario el Estado o la Beneficencia.
+Los jueces municipales son competentes para conocer de toda clase de juicios sucesorios cuyo caudal no exceda de dos mil pesos; de los que excedan de dicha cantidad conocerán los jueces de partido, así como de aquellos en que sea heredero o legatario el Estado o la Beneficencia.
 
 ###### Art. 565.
 
@@ -3949,9 +3953,11 @@ Siempre que haya oposición de algún aspirante a la herencia o de cualquier acr
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este capítulo.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 1958)</small>
+
 ### CAPITULO IX.
 
-Disposiciones sobre testamentarías e intestados cuyo caudal aparente no exceda de mil pesos.
+Disposiciones sobre testamentarías e intestados cuyo caudal aparente no exceda de dos mil pesos.
 
 ###### Art. 676.
 
@@ -4472,3 +4478,9 @@ Este decreto entrará en vigor treinta días después de su publicación en el P
 ###### ARTICULO SEGUNDO.
 
 Los juicios civiles en tramitación antes de la fecha a que se refiere el artículo que antecede, no quedarán afectos a la presente reforma.
+
+P.O. 4 DE DICIEMBRE DE 1958
+
+Primero.- Los jueces de partido seguirán conociendo de los negocios que al entrar en vigor este decreto hayan sido de su competencia, si ya se hubiere admitido la demanda o promoción inicial o se hubiere hecho la consignación correspondiente y las sentencias que recaigan en los mismos serán apelables de conformidad con el artículo 243 del Código de Procedimientos Civiles y el 368, fracción I, del Código de Procedimientos Penales, antes de entrar en vigor la reforma.
+
+Segundo.- Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
