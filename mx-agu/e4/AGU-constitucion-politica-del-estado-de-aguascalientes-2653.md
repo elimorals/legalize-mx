@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2003-07-21"
+last_updated: "2003-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -391,7 +391,7 @@ I.- Legislar para el Estado, sobre todas las materias que no sean de la competen
 
 II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
 
-En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipios.
+En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipios;
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
 
@@ -843,9 +843,13 @@ Al vencimiento del período para el que fueron designados, tendrán derecho a un
 
 Durante los dos años siguientes a la fecha de su retiro, las personas que hayan ocupado el cargo de Magistrados Numerarios del Supremo Tribunal de Justicia del Estado, quedarán impedidos de actuar como patronos, abogados o representantes, en todo tipo de procedimientos tramitados ante los órganos del Poder Judicial del Estado.
 
-Los Jueces de Primera Instancia, salvo que sean removidos por causa de mala conducta debidamente comprobada conforme a los lineamientos conducentes del segundo párrafo de este artículo, durarán diez años en el ejercicio de su encargo, al término de los cuales, atendiendo a los procedimientos de evaluación establecidos en la Ley Orgánica del Poder Judicial, podrán ser ascendidos en la carrera judicial.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE AGOSTO DE 2003)</small>
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo y los Jueces de Primera Instancia, no podrán ser nombrados para un nuevo período; estos últimos no podrán ser ascendidos en casos de mala conducta debidamente comprobada o hayan sido removidos del cargo.
+Los Jueces de Primera Instancia, salvo que sean removidos por causa de mala conducta debidamente comprobada, conforme a los lineamientos conducentes del segundo párrafo de este artículo, durarán diez años en el ejercicio de su encargo al término de los cuales, atendiendo a los procedimientos de evaluación establecidos en la Ley Orgánica del Poder Judicial, podrán ser ratificados o ascendidos en la carrera judicial.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE AGOSTO DE 2003)</small>
+
+Los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, no podrán ser nombrados para un nuevo período; los jueces de Primera Instancia no podrán ser ratificados o ascendidos en caso de mala conducta debidamente comprobada o hayan sido removidos del cargo.
 
 Los Magistrados del Tribunal de lo Contencioso Administrativo percibirán el haber por retiro que establece la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Estado.
 
@@ -1009,7 +1013,7 @@ El objeto de las Leyes de competencia municipal, será establecer:
 
 I.- Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
 
-II.- Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento.
+II.- Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamient.
 
 III.- Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del Artículo 115, como el segundo párrafo de la fracción VII del Artículo 116, de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1527,11 +1531,11 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 31 DE AGOSTO DE 1975.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE NOVIEMBRE DE 1975.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 17 DE ABRIL DE 1977.
 
@@ -1549,7 +1553,7 @@ UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su 
 
 P.O. 10 DE ENERO DE 1982.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 25 DE SEPTIEMBRE DE 1983.
 
@@ -1854,3 +1858,9 @@ P.O. 21 DE JULIO DE 2003.
 DECRETO NÚMERO 101 QUE REFORMA LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
 
 UNICO.- El presente Decreto entrará en vigencia el día primero de enero del año 2004.
+
+P.O. 25 DE AGOSTO DE 2003.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La aprobación de la reforma constitucional implicará necesariamente la adecuación a la Ley Orgánica del Poder Judicial del Estado.
