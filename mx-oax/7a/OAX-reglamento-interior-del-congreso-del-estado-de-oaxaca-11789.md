@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2000-05-06"
+last_updated: "2002-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -303,7 +303,11 @@ XXVI.- De Ecología;
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
 
-XXVII.- De Equidad y Género.
+XXVII.- De Equidad y Género;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2002)</small>
+
+XXVIII.- De Asuntos Migratorios.
 
 ###### ARTICULO 26.
 
@@ -425,7 +429,11 @@ XXVI.- La Comisión de Ecología; conocerá de los asuntos relacionados con la p
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
 
-XXVII.- La Comisión de Equidad y Género, opinará en los estudios relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, la familia, personas con discapacidad y los menores, y vigilará su aplicación así como la de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas. Esta Comisión se integrará preferentemente por las Diputadas que integren el Congreso.
+XXVII.- La Comisión de Equidad y Género, opinará en los estudios relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, la familia, personas con discapacidad y los menores, y vigilará su aplicación así como la de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas. Esta Comisión se integrará preferentemente por las Diputadas que integren el Congreso;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2002)</small>
+
+XXVIII.- La Comisión Permanente de Asuntos Migratorios, tendrá a su cargo la elaboración de iniciativas de reformas a las leyes que correspondan, tendientes a la creación de instituciones o programas de desarrollo económico, social en materia de migración, tendientes a mejorar el fenómeno de emigración en el Estado de Oaxaca; vigilar y dictaminar todos los asuntos relativos a la procuración e impartición de justicia para los migrantes oaxaqueños, dentro y fuera del país; coadyuvar para que se respeten los derechos de todos los migrantes establecidos en la Constitución y demás leyes.
 
 ### CAPITULO V. DE LA OFICIALIA MAYOR
 
@@ -1320,3 +1328,7 @@ P.O. 6 DE MAYO DE 2000.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- La Comisión Permanente de Equidad y Género de la LVII Legislatura del Estado, se integra con las Diputadas y Diputados que integran la actual Comisión Especial de Equidad y Género.
+
+P.O. 27 DE ABRIL DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
