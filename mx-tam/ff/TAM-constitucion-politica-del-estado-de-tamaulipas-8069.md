@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1980-07-23"
+last_updated: "1981-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1980.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 23 DE JULIO DE 1980 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 4 DE JUNIO DE 1980.]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1981.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -353,7 +351,7 @@ La Legislatura requiere para el ejercicio de sus funciones, la asistencia de doc
 
 ###### Art. 38.
 
-Los Diputados pueden faltar a cinco sesiones consecutivas con simple aviso, y sólo con licencia concedida por el Congreso a mayor número de sesiones. El Diputado que no observe las formalidades prescriptas (sic), se presume que falta sin causa justificada y no se le admitirá prueba en contrario; además perderá el derecho de asistir al período respectivo de sesiones, si no se desintegrare el quorum por su falta, cuando deje de concurrir a treinta sesiones consecutivas.
+Los Diputados pueden faltar a cinco sesiones consecutivas con simple aviso, y sólo con licencia concedida por el Congreso a mayor número de sesiones. El Diputado que no observe las formalidades prescritas, se presume que falta sin causa justificada y no se le admitirá prueba en contrario; además perderá el derecho de asistir al período respectivo de sesiones, si no se desintegrare el quorum por su falta, cuando deje de concurrir a treinta sesiones consecutivas.
 
 ###### Art. 39.
 
@@ -523,7 +521,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -597,7 +595,7 @@ LI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 1946)
 
 LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
-LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
+LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus sus límites y suprimir alguna o algunas de ellas.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -819,11 +817,11 @@ V.- Los Magistrados del Supremo Tribunal, Procurador General de Justicia, y Secr
 
 VI.- Los que estén sujetos a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1943)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1981)</small>
 
 ###### Art. 80.
 
-El día cinco de febrero inmediato a la elección entrará el C. Gobernador a ejercer sus funciones por seis años y nunca podrá volver a desempeñar ese cargo ni por nueva elección ni con el carácter de provisional o interino.
+El día 3 de febrero de 1981, entrará el C. Gobernador a ejercer sus funciones por seis años y nunca podrá volver a desempeñar ese cargo ni por nueva elección ni con el carácter de provisional o interino.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 1962)</small>
 
@@ -1994,5 +1992,9 @@ PRIMERO.- Se deroga la fracción XVI del Artículo 91 de esta Constitución.
 SEGUNDO.- Este decreto inicia su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 19 DE JULIO DE 1980.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ENERO DE 1981.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
