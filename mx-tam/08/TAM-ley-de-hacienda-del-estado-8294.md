@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "2001-10-25"
+last_updated: "2001-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -2839,15 +2839,19 @@ h) Las aportaciones de seguridad social.
 
 i).- El ahorro, cuando se integre por depósito de cantidad igual del trabajador y de la empresa, y las cantidades otorgadas por el patrón para fines sociales y sindicales.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-j).- La alimentación y la habitación cuando no se proporcione gratuitamente al trabajador, así como las despensas.
+j).- La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores. Se entiende que son onerosas estas prestaciones, cuando el cobro de cada una de ellas represente, como mínimo, el 20% de un día de salario mínimo, por cada día de trabajo.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+k).- Las despensas en especie. No se considerarán incluidos los vales, bonos u otros de naturaleza análoga.
+
+Para que las erogaciones mencionadas en esta fracción se excluyan de la base gravable, deberán estar debidamente comprobadas y registradas en la contabilidad del patrón.
 
 II.- Las Erogaciones que efectúen:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-a).- La Federación, Estados y Municipios.
+a).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 b).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
 
@@ -2858,8 +2862,6 @@ c).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
 d).- Instituciones que impartan gratuitamente la educación, las federales por cooperación y las asociaciones civiles que impartan educación en cualquiera de sus niveles y que cuenten con autorización o reconocimiento de validez oficial y con los planes de estudio autorizados por las autoridades competentes.
 
 e).- Clubes de servicio.
-
-> <small>(DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO XIV. IMPUESTO PARA LA EDUCACION UNIVERSITARIA
 
@@ -3593,9 +3595,9 @@ Las personas físicas o morales que adquieran vehículos que no cuenten con plac
 
 II.- Por la expedición de placas de demostración, dieciséis días de salario mínimo. Estas placas sólo podrán expedirse a empresas que demuestren operar como comercializadoras habituales de vehículos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-III.- Concesiones de vehículos de servicio público estatal y cesiones de derechos de las mismas;
+III.- Concesiones de vehículos de servicio público estatal, cesiones de derechos de las mismas, y autorización de cambio de características;
 
 1.- Servicios de ruta de pasajeros:
 
@@ -3793,7 +3795,11 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 Por la expedición de licencias para el funcionamiento de establecimientos o locales que enajenan total o parcialmente al público en general bebidas alcohólicas, se causarán conforme a lo siguiente:
 
-I.- Restaurantes, bares de hoteles y moteles, restaurantes bar, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de recepción, billares y boliches, con el importe de 300 días de salario mínimo. Los cabarets, centros nocturnos y discotecas, con el importe de 600 días de salario mínimo.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+I.- Restaurantes, bares de los hoteles y moteles, restaurantes bar, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de recepción, billares y boliches, con el importe de 300 días de salario mínimo.
+
+Los cabarets, centros nocturnos y discotecas, con el importe de 1200 días de salario mínimo.
 
 II.- Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de 100 días de salario mínimo.
 
@@ -3803,29 +3809,67 @@ IV.- Minisupers, abarrotes, licorerías, depósitos, agencias, subagencias, expe
 
 V.- Bares, cantinas, tabernas, cervecerías y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe de 200 días de salario mínimo.
 
-VI.- Permisos para eventuales, como los que se instalan en ferias, bailes, kermesses, salones de baile y eventos deportivos, con el importe de 10 días de salario mínimo, por fecha.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VII.- Por la expedición de autorización, de hasta por treinta días en un año de calendario, para el funcionamiento en horario extraordinario, con el importe del 50% de los derechos señalados en las fracciones de la I a la V, por cada hora.
+VI.- Permisos para eventuales, como los que se instalan en ferias, bailes, kermesses, salones de baile y eventos deportivos, con el importe de 30 días de salario mínimo por fecha.
 
-###### ARTICULO 288o.
+VII.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 289o.
+###### ARTICULO 288.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+Por los servicios para el control en el sistema estatal de información geográfica para el ordenamiento territorial y la planeación del desarrollo urbano, se pagará el 1.50% de un día de salario mínimo, por metro cuadrado o fracción del área del predio.
 
-###### ARTICULO 290o.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+###### ARTICULO 289.
 
-###### ARTICULO 291o.
+Por el levantamiento geográfico y posicionamiento satelital en la red geodésica estatal de cualquier predio en la entidad, se pagarán ciento veinte días de salario mínimo, por cada vértice georeferenciado.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 292o.
+###### ARTÍCULO 290.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+Por la expedición de los documentos siguientes:
+
+I.- Compendios de planes que componen el Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano, en archivos digitales, se pagarán doscientos diez días de salario mínimo.
+
+II.- Plan que forme parte del Sistema Estatal de Ordenamiento Territorial y de Desarrollo Urbano, en archivos digitales, se pagarán catorce días de salario mínimo. Si se proporciona en impresión a color, en papel especial, tamaño .90 x 1.20 m.; se pagarán setenta días de salario mínimo por hoja o cara impresa.
+
+III.- Los que Integran el Registro Estatal de Edificios, Infraestructura Histórica, Monumentos Conmemorativos y Murales, con Valor Histórico, Artístico y Cultural, versión estatal completa, en archivos digitales, se pagarán doscientos diez días de salario mínimo.
+
+IV.- Los que Integran el Registro Estatal de Edificios, Infraestructura Histórica, Monumentos Conmemorativos y Murales, con Valor Histórico, Artístico y Cultural, en archivos digitales, de cada municipio, se pagarán catorce días de salario mínimo.
+
+V.- Impresión a color de cartografía con valor histórico, artístico y cultural en papel especial, tamaño .90 x 1.20 m., se pagarán sesenta días de salario mínimo por hoja o cara impresa.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 291.
+
+Los servicios proporcionados en materia de protección civil y de seguridad privada, causarán derechos conforme a lo siguiente:
+
+I.- Por la prestación de servicios por la elaboración de estudios y/o manifestaciones de:
+
+a).- Impacto ambiental, treinta días de salario mínimo;
+
+b).- Análisis de riesgo ambiental, treinta días de salario mínimo, y
+
+II.- Por la emisión de dictámenes y/o resoluciones de análisis de riesgo, de treinta hasta trescientos días de salario mínimo.
+
+III.- Por la certificación de los programas de seguridad de los establecimientos en que se reúnan personas que puedan correr riesgos por eventos de emergencia, de cincuenta, hasta trescientos días de salario mínimo.
+
+IV.- Capacitación a empresas privadas, de cincuenta hasta trescientos días de salario mínimo.
+
+V.- Por la capacitación, actualización, especialización y profesionalización de integrantes de empresas privadas de protección y vigilancia se pagarán, diariamente por cada elemento, el importe equivalente a seis días de salario mínimo.
+
+VI.- Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 292.
+
+Por la expedición de constancia de cumplimiento de requisitos para la celebración de eventos de regulación especial, el importe equivalente a sesenta días de salario mínimo.
 
 ###### ARTICULO 293o.
 
@@ -4005,7 +4049,7 @@ SEGUNDO.- Tratándose de los contratos de promesa a que se refiere el Artículo 
 
 TERCERO.- El presente decreto surtirá sus efectos a partir del 1º. de enero de 1982.
 
-P.O. 3 DE ABRIL DE 1982
+P.O. 3 DE ABRIL DE 1982|
 
 DECRETO No. 127
 
@@ -4134,3 +4178,9 @@ P.O. 25 DE OCTUBRE DE 2001
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DICIEMBRE DE 2001
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
