@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1990-01-22"
+last_updated: "1992-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1992.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -103,7 +103,9 @@ III. Desempeñar las funciones electorales y los cargos de elección popular y l
 
 Son prerrogativas del ciudadano sinaloense:
 
-I. Votar en las elecciones populares, siempre que esté en el pleno ejercicio de sus derechos y no sea ministro de algún culto.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+
+I. Votar en las elecciones populares, siempre que estén en pleno ejercicio de sus derechos.
 
 II. Poder ser votado para los cargos de elección popular, siempre que reuna los requisitos siguientes, sin los cuales toda elección será nula:
 
@@ -112,6 +114,12 @@ A. Estar en pleno uso de sus derechos.
 B. No ser ministro de culto alguno.
 
 C. (DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
+
+(1.) Para Síndicos y Comisarios Municipales, cuando menos saber leer y escribir, comprobado ante quien califique la elección.
+
+(2.) Para Diputados y Regidores Municipales, cuando menos, poseer los conocimientos que comprende la instrucción primaria elemental, acreditados debidamente ante quien califique la elección.
+
+(3.) Para Gobernador del Estado, poseer los conocimientos que comprende la instrucción primaria superior, acreditados debidamente ante la Legislatura que califique la elección.
 
 III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos sinaloenses en toda clase de empleos, cargos, comisiones y concesiones del Gobierno del Estado y Municipios.
 
@@ -157,13 +165,17 @@ Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobr
 
 ### CAPITULO III. DE LAS ELECCIONES
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### Art. 14.
 
-Las elecciones populares serán directas, se resolverán a mayoría de sufragios y conforme al principio de representación proporcional y se verificarán con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
+Las elecciones populares serán directas, se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán el segundo domingo del mes de noviembre del año que corresponda y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
 
-Los Partidos Políticos son entidades de interés público. La Ley determinará las formas específicas y condiciones de su intervención en el proceso electoral.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+
+Los Partidos Políticos son entidades de interés público. La Ley determinará las formas específicas y condiciones de su intervención en el proceso electoral, así como las prerrogativas que les correspondan.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
 
 Los Partidos Políticos Nacionales que hayan obtenido su registro definitivo podrán participar en las elecciones estatales y municipales.
 
@@ -239,23 +251,33 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 El Congreso del Estado se compondrá de representantes electos popularmente cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### Art. 24.
 
-La Legislatura del Estado se integrará con 23 Diputados electos por el sistema de mayoría relativa en distritos electorales uninominales y hasta con 6 Diputados electos, de acuerdo con el principio de representación proporcional, mediante el sistema de listas estatales votadas en una sola circunscripción plurinominal.
+La Legislatura del Estado se integrará con 23 diputados electos por el sistema de mayoría relativa en distritos electorales uninominales y con 16 Diputados electos, de acuerdo con el principio de representación proporcional, mediante el sistema de listas estatales votadas en una sola circunscripción plurinominal.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1989)</small>
 
 La demarcación territorial de los Distritos electorales uninominales se fijará teniendo en cuenta la población total del Estado. En todo caso, cada Municipio tendrá cuando menos un distrito electoral uninominal.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1989)</small>
+
 En la elección de los Diputados de representación proporcional, la circunscripción plurinominal corresponderá al total del territorio del Estado.
 
-Para que un partido político obtenga el registro de su lista estatal en la elección de Diputados de representación proporcional, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en por lo menos siete de los distritos uninominales.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
-Sólo tendrán derecho a que se les asignen Diputados de representación proporcional, los partidos que no hayan obtenido 4 o más constancias de mayoría y que como mínimo alcancen el 1.5 por ciento del total de la votación recibida por todas las listas estatales.
+Para que un partido político obtenga el registro de su lista estatal en la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos 10 de los distritos uninominales.
 
-Cuando dos o más partidos con derecho a participar en la distribución de Diputados de representación proporcional obtengan en su conjunto seis o más constancias de mayoría, sólo serán objeto del reparto tres de las curules que deban asignarse por el sistema de representación proporcional.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
-El número de Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos obtenidos en la circunscripción, mediante la aplicación de las fórmulas electorales y procedimientos de asignación que señala la ley. En todo caso, la asignación se hará siguiendo el orden que tuvieren los candidatos en las listas correspondientes.
+Sólo tendrán derecho a que se les asignen diputados de representación proporcional, los partidos que como mínimo alcancen el 1.5 por ciento del total de la votación recibida por todas las listas estatales.
+
+> <small>(DEROGADO PARRAFO SEXTO, P.O. 1 DE ABRIL DE 1992)</small>
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+
+El número de diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos en la circunscripción, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señala la Ley. En todo caso la asignación se hará siguiendo el orden que tuvieren los candidatos en las listas correspondientes.
 
 ###### Art. 25.
 
@@ -387,11 +409,11 @@ En los últimos tres casos, la convocatoria se hará por conducto de la misma Di
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### Art. 40.
 
-El día 15 de noviembre de cada año, el Gobernador del Estado rendirá ante el Congreso instalado en sesión solemne, un informe por escrito sobre la situación que guarde la administración pública. El Presidente de la Legislatura contestará dicho informe en términos generales.
+El día 16 de Octubre de cada año, el Gobernador del Estado rendirá ante el Congreso instalado en Sesión Solemne, un informe por escrito sobre la situación que guarde la administración pública. El Presidente de la Legislatura contestará dicho informe en términos generales.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
@@ -467,7 +489,9 @@ XIII. Elegir al ciudadano que deba substituir al Gobernador del Estado, con el c
 
 XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado en la forma que esta Constitución precise.
 
-XV. Elegir Regidores Municipales substitutos en los casos que esta Constitución designe.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+
+XV. Elegir Presidente Municipal y Regidores sustitutos en casos de vacante.
 
 XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Poderes Federales.
 
@@ -615,7 +639,9 @@ I. Recibir y despachar la correspondencia del Congreso, resolviendo sólo los as
 
 II. Abrir dictamen sobre todos los asuntos que hubieren quedado sin resolución en los expedientes y sobre los que en el receso del Congreso se presentaren, para dar a éste cuenta con ellos en el próximo período de su reunión.
 
-III. Nombrar Regidores substitutos en los casos que esta Constitución designa.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+
+III. Elegir Presidente Municipal y Regidores sustitutos en casos de vacante.
 
 IV. Convocar al Congreso a sesiones extraordinarias cuando proceda.
 
@@ -1207,21 +1233,29 @@ Los Municipios tendrán personalidad jurídica y patrimonio propios y serán rep
 
 Los Municipios se dividirán en Sindicaturas y éstas en Comisarías, en cuyas jurisdicciones ejercerán las funciones ejecutivas y administrativas los Síndicos y Comisarios Municipales, respectivamente. Unos y otros serán nombrados cada tres años por el Ayuntamiento de la Municipalidad que corresponda y removidos libremente por el mismo.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### Art. 111.
 
-Compete a los Ayuntamientos el ejercicio de la función municipal, con las facultades y limitaciones establecidas en esta Constitución y las leyes que de ella emanen, correspondiendo al Primer Regidor Presidente Municipal ejercer las atribuciones ejecutivas y representativas, llevar la jefatura política y administrativa de la municipalidad y presidir las sesiones del Cabildo.
+Compete a los Ayuntamientos el ejercicio de la función municipal, con las facultades y limitaciones establecidas en esta Constitución y las leyes que de ellas (sic) emanen, correspondiendo al Presidente Municipal ejercer las atribuciones ejecutivas y representativas, llevar la jefatura política y administrativa de la municipalidad y presidir las sesiones del Cabildo.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### Art. 112.
 
-La elección directa del Presidente Municipal, tanto Propietario como Suplente y de los demás Regidores, se verificará cada tres años y entrará en funciones el día 1o. de Enero, previa protesta que otorgarán ante el Ayuntamiento saliente. Por cada Regidor Propietario se eligirá (sic) un Suplente.
+La elección directa de Presidente Municipal y de los Regidores, se verificará cada 3 años y entrará en funciones el día 1 de enero, previa protesta que otorgarán ante el Ayuntamiento saliente.
 
-Los Municipios, cualquiera que sea su número de habitantes, integrarán sus Ayuntamientos con Regidores de Mayoría Relativa y Representación Proporcional. En consecuencia, los partidos políticos que no hubiesen logrado mayoría en la elección municipal, tendrán derecho a que se les acrediten Regidores en proporción a la votación recibida.
+Por cada Regidor Propietario se elegirá un suplente.
 
-La Ley determinará las bases, normas y procedimientos para la asignación de Regidores de Representación Proporcional.
+Los Municipios, cualquier (sic) que sea su número de habitantes, integrarán sus Ayuntamientos de conformidad con lo siguiente:
+
+I.- Los de Ahome, Guasave, Salvador Alvarado, Culiacán y Mazatlán, con un Presidente Municipal 11 Regidores de Mayoría Relativa y 7 Regidores de Representación Proporcional.
+
+II.- Los de El Fuerte, Sinaloa, Mocorito, Navolato, Rosario y Escuinapa, con un Presidente Municipal, 8 Regidores de Mayoría Relativa y 5 Regidores de Representación Proporcional.
+
+III.- Los de Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia, con un Presidente Municipal, 6 Regidores de Mayoría Relativa y 4 Regidores de Representación Proporcional.
+
+La Ley determinará forma y procedimiento para la asignación de Regidores de Representación Proporcional.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1229,11 +1263,11 @@ La Ley determinará las bases, normas y procedimientos para la asignación de Re
 
 Los Ayuntamientos, en unión de un representante por cada partido político con voz pero sin voto, constituidos en Colegio Electoral, harán la calificación de las elecciones municipales en su jurisdicción, formulando la declaratoria correspondiente, la que será revisable por el Congreso del Estado en el caso de la fracción XXXIII Bis del Artículo 43 de la presente Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### Art. 114.
 
-El cargo de Regidor será obligatorio pero no gratuito, y sólo será renunciable por causa justificada a juicio del Ayuntamiento.
+El cargo de Presidente Municipal y de Regidor será obligatorio pero no gratuito, y sólo será renunciable por causa justificada a juicio del Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1263,11 +1297,13 @@ II. Ser originario de la municipalidad que lo elija o vecino de ella cuando meno
 
 (DEROGADO, P.O. 27 DE ENERO DE 1984)
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### Art. 117.
 
-Los Presidentes Municipales y demás Regidores de los Ayuntamientos, de elección popular directa, no podrán ser reelectos para el período inmediato.
+Los Presidentes Municipales y Regidores de los Ayuntamientos, de elección popular directa, no podrán ser reelectos para el período inmediato.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Quienes por elección indirecta, por nombramiento o designación de parte de alguna autoridad, desempeñen las funciones propias de dichos cargos, independientemente de la denominación que se les dé, no podrán ser electos para el período inmediato. Igualmente los servidores públicos mencionados, cuando tengan el carácter de propietarios no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de Suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
@@ -1285,15 +1321,17 @@ En caso de declararse desaparecido un Ayuntamiento o de renuncia o falta absolut
 
 Las faltas temporales del Presidente Municipal cuando no excedan de diez días serán cubiertas por el Secretario del Ayuntamiento con el carácter de Encargado del Despacho, bastando solamente el aviso respectivo que dará el Presidente Municipal al propio Ayuntamiento.
 
-Cuando la ausencia excediere del tiempo señalado en el párrafo anterior, el Presidente Municipal sólo podrá separarse de su puesto mediante licencia previamente concedida por el Ayuntamiento y lo substituirá el Presidente Municipal Suplente, y a la falta de éste el Ayuntamiento elegirá de entre sus miembros a un Presidente Municipal Provisional.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+
+Cuando la ausencia excediere del tiempo señalado en el párrafo anterior, el Presidente Municipal solo podrá separarse de su puesto mediante licencia previamente concedida por el Ayuntamiento, quien designará de entre sus miembros a un Presidente Municipal provisional.
 
 En ningún caso podrá un Presidente Municipal ausentarse del territorio del Estado salvo causa de fuerza mayor debidamente comprobada, sin la previa autorización del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### Art. 120.
 
-Cuando algún miembro del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su Suplente, pero tratándose de ausencia definitiva éste sólo durará en su encargo mientras se designa el sustituto.
+Cuando algún Regidor dejare de desempeñar su cargo, será sustituído por su suplente. Las vacantes serán cubiertas por designación que haga el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1575,7 +1613,9 @@ II. La protesta se pide y se dá por interpelación entre los siguientes servido
 
 (4).- A los Secretarios y demás servidores públicos del Supremo Tribunal de Justicia y de las Salas, así como a los Jueces de Primera Instancia, les tomará la protesta el Presidente de aquel alto cuerpo, ante el Tribunal en Pleno. A los Jueces Menores les tomará la protesta el de Primera Instancia de su Jurisdicción.
 
-(5).- A los Regidores del Ayuntamiento que va a instalarse, les tomará la protesta en grupo el Presidente del Ayuntamiento saliente en sesión plena de éste. A los Regidores que se presenten después y a los Suplentes que entren en ejercicio, el Presidente en funciones, en la sesión que corresponda.
+> <small>(REFORMADO, P.O. 01 DE ABRIL DE 1992)</small>
+
+(5).- Al Presidente Municipal y a los Regidores del Ayuntamiento que va a instalarse, les tomará la protesta en grupo, el Presidente del Ayuntamiento saliente en sesión plena de éste. A los Regidores que se presenten después y a los suplentes que entren en ejercicio, el Presidente en funciones, en la sesión que corresponda.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -1607,11 +1647,11 @@ VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
 Todo servidor público, recibirá una remuneración adecuada, equitativa e irrenunciable por el desempeño de su cargo, empleo o comisión, la cual será fijada anualmente en el presupuesto de egresos del Estado, de los Municipios o de las Entidades Paraestatales, según sea el caso.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### Art. 146.
 
-Al expedir y reformar el Congreso la Ley de Ingresos y Presupuesto de Egresos, podrán aumentarse o disminuirse los sueldos de los servidores públicos, según las condiciones del Erario, pero todo aumento que decrete las dietas de sus propios miembros no tendrá efecto sino hasta la próxima Legislatura. Esta misma prevensión (sic) se observará por los Ayuntamientos en su respectiva relación con los Regidores.
+Al expedir y reformar el Congreso de (sic) Ley de Ingresos y Presupuesto de Egresos, podrán aumentarse o disminuirse los sueldos de los servidores públicos según las condiciones del erario, pero todo aumento que decreta las dietas de sus propios miembros no tendrá efecto sino hasta la próxima Legislatura. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con el Presidente Municipal y los Regidores.
 
 ###### Art. 147.
 
@@ -2394,3 +2434,9 @@ Los asuntos de la competencia familiar que al día de la instalación de la Cuar
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE ABRIL DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
