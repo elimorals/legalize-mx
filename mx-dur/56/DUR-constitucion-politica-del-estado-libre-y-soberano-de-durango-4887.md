@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1992-03-19"
+last_updated: "1993-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1993.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -361,7 +361,7 @@ III.- Al partido que se encuentre dentro de los supuestos señalados en las frac
 
 La demarcación territorial de los quince distritos electorales uninominales, será la que resulte de dividir la población total del Estado entre los distritos señalados y será fijada en el Código Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 #### SECCION C.- DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
@@ -369,17 +369,27 @@ La demarcación territorial de los quince distritos electorales uninominales, se
 
 ###### ARTICULO 32.
 
-Para ser Diputado Propietario y Suplente se requiere:
+Para ser Diputado Propietario y Suplente, se requiere:
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
 I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos, o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de seis años inmediatamente anteriores al día de la elección. Si es nativo del Estado, tener cuando menos dos años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección;
 
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
+
 II.- Saber leer y escribir;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
 III.- Tener para el día de la elección una edad mínima de veintiún años cumplidos;
 
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
+
 IV.- No haber sido condenado a más de un año de prisión, excepto el caso de delito de culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
 
-V.- No ser servidor público de la Federación, del Estado o del municipio, a menos que se separe de sus funciones noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+
+V.- No ser Secretario o Subsecretario del Despacho en el Poder Ejecutivo del Estado, Procurador o Subprocurador General de Justicia del Estado; Directores Generales de la Administración Estatal, Presidentes, Síndicos y Regidores Municipales, servidor público de mando superior de la Federación, ni militar en servicio activo, salvo que se hubiera separado de su cargo noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -495,17 +505,15 @@ Los Diputados son defensores de los derechos sociales de los habitantes que repr
 
 Los Diputados de Mayoría Relativa tienen la obligación de rendir ante sus representados un informe de sus gestiones e intervenciones en beneficio de los habitantes de los Municipios comprendidos en sus respectivos Distritos Electorales. Dicho informe será rendido durante la segunda quincena del mes de Julio de cada año.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
-
 ###### ARTICULO 47.
 
-El día último de Julio de cada año, en Sesión Solemne, comparecerá, ante el Congreso del Estado, el Presidente del Supremo Tribunal de Justicia y rendirá un informe sobre el estado que guarda la administración de la justicia y sobre el movimiento de ingresos y egresos del Fondo Auxiliar para la Administración de Justicia. El Presidente del Congreso contestará ese Informe.
+(DEROGADO, P.O. 27 DE JUNIO DE 1993)
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 48.
 
-El Congreso del Estado, en sesión solemne ordinaria que tendrá verificativo el día 8 de julio de cada año, recibirá la comparecencia del Gobernador del Estado, quien informará sobre el estado que guarda la administración pública. El Presidente del Congreso contestará ese informe.
+El Primero de Septiembre de cada año, al inicio de las sesiones del Congreso, el Gobernador del Estado enviará por escrito un informe de la situación que guarda la Administración Pública, y podrá comparecer a dicha sesión solemne para dirigir un mensaje, en cuyo caso, el Presidente del Congreso podrá hacer las apreciaciones correspondientes.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -571,11 +579,11 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 55.
 
-El Congreso del Estado tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
+El Congreso tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
@@ -671,9 +679,9 @@ XXII.- Tomarles la protesta de ley al Gobernador y a los Magistrados del Supremo
 
 XXIII.- Erigirse en Jurado de Acusación en los casos de presunta responsabilidad política y penal;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
 
-XXIV.- Conceder en los términos de la ley licencia al Gobernador, a los Diputados y a los Magistrados del Supremo Tribunal de Justicia;
+XXIV.- Recibir los avisos de ausencia del Gobernador y conceder, en los términos de esta Constitución y de la Ley, las autorizaciones, o en su caso, licencias al Gobernador, Diputados y Magistrados del Supremo Tribunal de Justicia;
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -737,11 +745,11 @@ XXXVI.- Recibir las declaraciones y resoluciones de las Cámaras de Diputados y 
 
 SECCION E.- DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 56.
 
-Durante los recesos del Congreso, habrá una Comisión Permanente que se compondrá de tres diputados propietarios y dos suplentes. En la víspera de la clausura de cualesquiera de los periodos de sesiones será nombrada por la Legislatura, instalándose al día siguiente.
+Durante los recesos del Congreso, habrá una Comisión Permanente que se compondrá de cinco Diputados Propietarios y cinco Suplentes. En la víspera de la clausura de cualquiera de los períodos de sesiones, será nombrada por la Legislatura, instalándose al día siguiente.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -753,7 +761,9 @@ I.- Llevar la correspondencia;
 
 II.- Recibir la protesta al Gobernador y Magistrados, en los casos prescritos por esta Constitución;
 
-III.- Conceder las licencias que solicite el Gobernador del Estado y los Magistrados del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+
+III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones, o, en su caso, licencias que solicite el Gobernador y los Magistrados del Supremo Tribunal de Justicia;
 
 IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
 
@@ -793,7 +803,7 @@ b).- El Gobernador provisional cuando hubiere desempeñado el cargo en los dos �
 
 c).- El Gobernador interino cuando haya desempeñado el cargo en los dos últimos años del período, o del ciudadano que con cualquier denominación desempeñe el cargo en ese período por más de tres meses continuos.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ## TITULO CUARTO
 
@@ -805,25 +815,41 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 SECCON A.- DE SU ORGANIZACION
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 60.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernador del Estado, se requiere:
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 I.- Tener la ciudadanía duranguense por nacimiento y ser hijo de padres mexicanos;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 II.- Estar en pleno ejercicio de sus derechos ciudadanos;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 III.- Tener treinta años cumplidos para el día de la elección;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 IV.- Tener cuando menos dos años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 V.- No pertenecer al estado eclesiástico, ni ser ministro de culto alguno;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 VI.- Saber leer y escribir;
 
-VII.- No haber sido Secretario General de Gobierno, Procurador General de Justicia, Tesorero General del Estado, Magistrado del Supremo Tribunal de Justicia, Funcionario de la Federación ni militar en servicio activo, salvo que se haya dejado el cargo desde los noventa días anteriores a la elección; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+
+VII.- No ser Secretario o Subsecretario del Despacho en el Poder Ejecutivo del Estado, Procurador o Subprocurador de Justicia en el Estado, Magistrado del Supremo Tribunal de Justicia del Estado, Directores Generales de la Administración Estatal, Presidentes, Síndicos y Regidores Municipales, servidor público de mando superior de la Federación, ni militar en servicio activo, salvo que se hubiera separado de su cargo noventa días antes de la elección;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 VIII.- No haber sido condenado a más de un año de prisión excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya misión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
 
@@ -877,7 +903,7 @@ En el caso de que el Gobernador Interino no pueda ser designado por la nueva Leg
 
 Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por trastornos graves del orden público en la mayor parte del Estado, el Congreso designará Gobernador Interino, pero si el orden público quedare restablecido antes de un año, el Congreso convocará a elecciones, de lo contrario designará al Gobernador Substituto que deba terminar el período constitucional, no pudiendo ser quien haya fungido como Interino.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ### CAPITULO UNICO. PREVENCIONES GENERALES
 
@@ -885,15 +911,15 @@ Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por t
 
 #### SECCION C.- DE LOS JUECES
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 66.
 
-Cuando el Gobernador se ausente del Estado por un término que exceda de tres días pero no mayor de quince, debe dar aviso al Congreso o a la Comisión Permanente.
+Cuando el Gobernador se ausente del Estado por un término que exceda de siete días, pero no mayor de quince, debe dar aviso al Congreso o a la Comisión Permanente.
 
-Para que el Gobernador se pueda ausentar del Estado por más de quince días se requiere licencia del Congreso o de la Comisión Permanente, en su caso.
+Para que el Gobernador se pueda ausentar del Estado por más de quince días, se requiere autorización del Congreso o de la Comisión Permanente.
 
-Para que el Gobernador pueda salir fuera de la República necesita en todo caso, licencia del Congreso o de la Comisión Permanente.
+Para que el Gobernador pueda salir del territorio de la República necesita autorización del Congreso o de la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -911,11 +937,11 @@ El cargo de Gobernador no es renunciable y solo por causa justificada el Congres
 
 En este caso se procederá en los términos que señala el Articulo 63 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 69.
 
-Las licencias para las faltas temporales del Gobernador solo serán concedidas por causa justificada, a juicio del Congreso o de la Comisión Permanente, en su caso.
+Las autorizaciones para las ausencias temporales y de las licencias del Gobernador, sólo serán concedidas por causa justificada, a juicio del Congreso o de la Comisión Permanente.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -949,7 +975,9 @@ X.- Facilitar al Poder Judicial los auxilios que requiera para el ejercicio exp�
 
 XI.- Solicitar a la comisión permanente que convoque al Congreso a períodos extraordinarios de sesiones cuando lo considere necesario;
 
-XII.- Presentar ante el Congreso, el día 8 de julio de cada año un informe sobre el estado de la administración pública;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+
+XII.- Enviar al Congreso, el día primero de septiembre de cada año, al inicio de sus sesiones, un informe por escrito sobre el estado que guarda la Administración Pública;
 
 XIII.- Presentar al Congreso dentro de los últimos quince días de su mandato una memoria por escrito, en la que expondrá la situación del Estado en todos los ramos administrativos;
 
@@ -985,9 +1013,9 @@ XXVI.- Cuidar de que las elecciones se efectuen en el tiempo señalado por las l
 
 XXVII.- Promover el desarrollo económico del Estado en forma integral y equilibrada, conforme a los principios de justicia social;
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
 
-XXVIII.- Crear por derecho, organismos descentralizados, empresas de participación estatal, fideicomisos, comités y comisiones y asignarles las funciones que estime convenientes;
+XXVIII.- Crear por Decreto, Organismos Descentralizados, empresas de participación estatal, fideicomisos, comités, direcciones y departamentos dependientes del Titular del Poder Ejecutivo;
 
 > <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
 
@@ -1001,17 +1029,17 @@ XXX.- Celebrar convenios con la Federación o Municipios con respecto a la Admin
 
 XXXI.- Las demás que expresamente le confiere esta Constitución y las Leyes reglamentarias respectivas.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 1993)</small>
 
-SECCION D.- DEL SECRETARIO GENERAL DE GOBIERNO
+SECCION D.- DE LAS SECRETARIAS DEL DESPACHO DEL EJECUTIVO
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 71.
 
-Para el auxilio en el despacho de los asuntos competencia del Poder Ejecutivo, sin que sea limitativo, habrá un Secretario General de Gobierno, una Secretaría de Finanzas; Secretaría de Desarrollo Urbano y Obras Públicas; Secretaría de Desarrollo Económico; Secretaría de Educación, Cultura y Promoción Social; Secretaría de Salud Pública; Secretaría de la Contraloría; un Procurador General de Justicia y un Oficial Mayor de Gobierno.
+Para el auxilio en el despacho de asuntos, competencia del Poder Ejecutivo, sin que sea limitativo, habrá las siguientes Secretarías: General de Gobierno; Finanzas; Administración; Comunicaciones y Obras Públicas; Desarrollo Industrial y Comercial; Desarrollo Social; Desarrollo Rural; Salud; Educación; Cultura y Deportes; Contraloría así como una Procuraduría General de Justicia; además de las Subsecretarías que determine la Ley Orgánica de la Administración Pública del Estado.
 
-Las Sub-Secretarías no previstas en este Capítulo, y las unidades administrativas que se consideren necesarias, así como las facultades generales de los funcionarios a que se refiere este Artículo, se determinarán en la Ley Orgánica de la Administración Pública.
+Las facultades de los funcionarios a que se refiere este artículo, excepto las del Secretario General de Gobierno, que se determinan en el Artículo 73 de esta constitución, se fijarán en la Ley Orgánica de la Administración Pública del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -1057,11 +1085,11 @@ II.- Encargarse del despacho del Poder Ejecutivo durante las faltas temporales d
 
 III.- Desempeñar las comisiones y cargos que las leyes expresamente le confieran.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 74.
 
-Para ser Oficial Mayor de Gobierno se exigirán los mismos requisitos que para ser Secretario General de Gobierno.
+Los requisitos para ocupar las Secretarías, excepto las especificadas en esta Constitución, se determinarán en la Ley Orgánica de la Administración Pública del Estado.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1097,15 +1125,11 @@ Las contribuciones serán decretadas por el Congreso en cantidad suficiente para
 
 Los habitantes del Estado y quienes residiendo en él tuvieren bienes en su territorio o ejecuten actos que deben surtir efectos en él mismo, estan obligados a contribuir para los gastos públicos de la Entidad de la manera que señalen las leyes relativas.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 78.
 
-La coordinación, planeación y control de la Hacienda Pública del Estado, estará a cargo de un Secretario de Finanzas, dependiente del Ejecutivo, cuyas atribuciones determinará la Ley Orgánica de la Administración Pública del Estado.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
-
-El Secretario y el Sub-Secretario de Finanzas deberán satisfacer los requisitos establecidos en el Artículo 72, excepto los señalados en sus fracciones III y V.
+La coordinación, planeación y control de la Hacienda Pública, estará a cargo del Secretario de Finanzas, dependiente del Ejecutivo, cuyas atribuciones determinará la Ley Orgánica de la Administración Pública del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
@@ -1229,23 +1253,41 @@ Para ocupar los cargos a que se refiere el Artículo anterior, se deben satisfac
 
 ###### ARTICULO 90.
 
-El Poder Judicial del Estado en el ejercicio de sus funciones actuará con absoluta independencia y sólo estará sujeto a las normas Constitucionales y Leyes que de ellas emanen. Se deposita para su ejercicio, en:
+El Poder Judicial del Estado en el ejercicio de sus funciones, actuará con absoluta independencia y sólo estará sujeto a las normas Constitucionales y Leyes que de ellas emanen. Se deposita para su ejercicio en:
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
 1o.- El Supremo Tribunal de Justicia del Estado;
 
-2o.- Los Juzgados Civiles;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+
+2o.- Los Juzgados Civiles y Mercantiles;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
 3o.- Los Juzgados Familiares;
 
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
+
 4o.- Los Juzgados Penales;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
 5o.- Los Juzgados de Primera Instancia con jurisdicción mixta;
 
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
+
 6o.- Los Juzgados Auxiliares;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
 7o.- Los Juzgados Municipales; y
 
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
+
 8o.- Los Funcionarios y Auxiliares de la Administración de Justicia en los términos que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
 
 Los Magistrados y Jueces percibirán una remuneración adecuada que les proporcione una total entrega a sus funciones.
 
@@ -1287,11 +1329,11 @@ Para ser Magistrado se requiere:
 
 I.- Ser Ciudadano Duranguense por nacimiento, en pleno ejercicio de sus derechos; o ciudadano duranguense, en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de la ratificación de su nombramiento por el Congreso del Estado. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la ratificación de su nombramiento por el Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
 
-II.- No tener más de 65 años de edad ni menos de 35 el día de la elección;
+II.- No tener más de 65 años de edad, y menos de 35, el día de su nombramiento;
 
-III.- Tener cuando menos dos años de residencia en el Estado inmediatamente anteriores al día de la elección;
+III.- (DEROGADA, P.O. 27 DE JUNIO DE 1993)
 
 IV.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de Licenciado en Derecho; y
 
@@ -1303,13 +1345,15 @@ V.- Ser de reconocida probidad y no haber sido condenado a más de un año de pr
 
 Los Magistrados del Supremo Tribunal de Justicia durarán 6 años en sus cargos y rendirán la protesta de Ley ante el Congreso del Estado o su Comisión Permanente. Podrán ser nombrados nuevamente y si lo fueren para el periodo inmediato, sólo podrán ser privados de sus puestos en los términos que determina la Constitución Política del Estado y la Ley de Responsabilidades de los Funcionarios y Empleados del Estado y de los Municipios.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 96.
 
-El Supremo Tribunal de Justicia tendrá un Presidente que será el Magistrado electo cada año por mayoría de votos de sus miembros.
+El Supremo Tribunal de Justicia, tendrá un Presidente, que será el Magistrado electo cada año por mayoría de votos de sus miembros.
 
-El Magistrado Presidente no integrará Sala y sus actividades se dirigirán a vigilar el estricto cumplimiento de las determinaciones del Tribunal Pleno, a representar oficialmente al Supremo Tribunal y a cuidar de la Administración de Justicia, conforme las obligaciones que además le fijan las Leyes.
+El Magistrado Presidente, no integrará Salas y sus actividades se dirigirán a vigilar el estricto cumplimiento de las determinaciones del Tribunal Pleno, a representar oficialmente al Poder Judicial y cuidar de la administración de justicia, conforme a las obligaciones que le fijen las leyes.
+
+El Magistrado Presidente, deberá rendir durante la primera quincena del mes de diciembre de cada año, ante el Tribunal Pleno, un informe por escrito por el que dé cuenta del estado que guarda la administración de justicia, mismo que inmediatamente enviará al Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1335,9 +1379,7 @@ VIII.- Formular su Reglamento Interior;
 
 IX.- Dirimir los conflictos que surjan entre los Ayuntamientos y los Poderes del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
-
-X.- Rendir ante el Congreso el día treinta y uno de Julio de cada año, por voz de su Presidente, un Informe anual sobre el estado de la Administración de Justicia y sobre los movimientos de Ingresos y Egresos del Fondo Auxiliar para la Administración de Justicia;
+X.- (DEROGADA, P.O. 27 DE JUNIO DE 1993)
 
 XI.- Las demás que le confieren esta Constitución y las leyes;
 
@@ -1347,15 +1389,13 @@ XII.- (DEROGADA, P.O. 24 DE ABRIL DE 1988)
 
 ###### ARTICULO 98.
 
-Los Jueces Civiles, Familiares, Penales, de Primera Instancia con jurisdicción Mixta y Auxiliares serán nombrados por el Supremo Tribunal de Justicia, dichos nombramientos se harán preferentemente a favor de aquellas personas que hayan prestado sus servicios con eficiencia y probidad, en la Administración de Justicia; o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica. En los casos que el Pleno del Supremo Tribunal lo estime pertinente podrá hacer la designación por exámen de oposición, siendo el Pleno quien deberá calificar esos exámenes.
+Los Jueces Civiles, Mercantiles, Familiares, Penales, de Primera Instancia con Jurisdicción Mixta y Auxiliares, serán nombrados por el Supremo Tribunal de Justicia; dichos nombramientos se harán preferentemente a favor de aquellas personas que hayan prestado sus servicios con eficiencia y probidad, en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica. En los casos que el Pleno del Supremo Tribunal lo estime pertinente podrá hacer la designación por examen de oposición, siendo el Pleno quien deberá calificar esos exámenes.
 
-Los Jueces Municipales serán designados por el Supremo Tribunal de Justicia a propuesta en terna del C. Juez de Primera Instancia del Distrito Judicial respectivo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 99.
 
-Para ser Juez Civil, familiar, penal, de primera instancia con jurisdicción mixta y auxiliar, se requiere:
+Para ser Juez Civil, Mercantil, Familiar, Penal, de Primera Instancia con Jurisdicción Mixta y Auxiliar, se requiere:
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1379,11 +1419,11 @@ IV.- Ser de reconocida probidad y no haber sido condenado a más de un año de p
 
 Para ser juez municipal deben satisfacerse los requisitos del Artículo anterior, excepto el que se refiere al título profesional, pero los nombrados deberán tener conocimientos generales de derecho, a juicio del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 101.
 
-Los jueces civiles, familiares, penales, de primera instancia con jurisdicción mixta, auxiliares y municipales, durarán en su encargo tres años y conocerán de los asuntos que las leyes les fijen.
+Los Jueces Civiles, Mercantiles, Familiares, Penales, de Primera Instancia con Jurisdicción Mixta, Auxiliares y Municipales, serán nombrados para períodos de tres años y su permanencia en los cargos se determinará en la Ley Orgánica del Poder Judicial. Los Jueces tendrán la competencia que las leyes les fijen.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1429,19 +1469,27 @@ El número de Regidores, que juntamente con el Síndico y Presidente Municipal c
 
 Los Ayuntamientos se integrarán con munícipes electos popular y directamente, según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 108.
 
-Para ser electos Presidente, Síndico o Regidor de un Ayuntamiento, se requiere:
+Para ser electos Presidentes, Síndicos o Regidores de un Ayuntamiento, se requiere:
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
 I.- Ser ciudadano duranguense, en pleno ejercicio de sus derechos y nativo del municipio, o ciudadano duranguense con residencia efectiva dentro del territorio del municipio que no sea menor de seis años inmediatamente anteriores al día de la elección. Si es nativo del municipio, tener cuando menos dos años de residencia efectiva dentro del territorio del municipio inmediatamente anterior al día de la elección.
 
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
+
 II.- Ser mayor de 21 años de edad;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
 III.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo independientemente de la pena impuesta; y
 
-IV.- No haber sido servidor de la Federación, del Estado o del Municipio en los 90 días anteriores a la fecha de la elección.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+
+IV.- No ser Secretario o Subsecretario del Despacho del Poder Ejecutivo del Estado, Procurador o Subprocurador General de Justicia del Estado, Diputado en ejercicio ante el Congreso del Estado, Magistrado del Supremo Tribunal de Justicia del Estado, funcionario municipal, servidor público de mando superior de la Federación, ni militar en servicio activo, salvo que se hubiera separado de su cargo noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -1619,13 +1667,13 @@ El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores P
 
 La Constitución General de la República, ésta Constitución y las leyes que de ellas emanen son las leyes supremas del Estado Libre y Soberano de Durango.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 125.
 
-Los Diputados, el Gobernador, el Secretario General de Gobierno, el Oficial Mayor de Gobierno, el Tesorero General del Estado, el Procurador General de Justicia, el Subprocurador, los Agentes del Ministerio Público, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia y los Menores y los Presidentes de los Ayuntamientos, durante el período de sus respectivos encargos, no podrán desempeñar otra comisión o empleo por el que se disfrute sueldo o remuneración, ni ejercer profesión alguna. Se exceptúan de ésta prohibición los cargos o comisiones de oficio o de índole educativa.
+Los Diputados, el Gobernador, los Secretarios del Despacho, el Procurador y Subprocurador General de Justicia, los Agentes del Ministerio Público, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia, los Jueces Menores, los Presidentes y los Síndicos Municipales, durante el período de sus respectivos encargos, no podrán desempeñar otra comisión o empleo por el que se disfrute sueldo o remuneración, ni ejercer profesión alguna. Se exceptúan de esta prohibición, los cargos o comisiones de oficio o de índole educativa.
 
-El Gobernador y los Magistrados del Supremo Tribunal de Justicia podrán desempeñar otra comisión o empleo de la Federación, del Estado y de los Municipios por los cuales se disfrute sueldo, con licencia previa del Congreso o de su Comisión Permanente, pero entonces cesarán en sus funciones mientras dure la nueva ocupación.
+El Gobernador y los Magistrados del Supremo Tribunal de Justicia, podrán desempeñar otra comisión o empleo de la Federación, del Estado o de los Municipios, por los cuales se disfrute sueldo, con licencia previa del Congreso o de la Comisión Permanente, pero entonces cesarán en sus funciones mientras dure la nueva ocupación.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1659,7 +1707,7 @@ Queda estrictamente prohibida la formación de toda clase de agrupaciones polít
 
 La residencia señalada como requisito de elegibilidad o de nombramiento para cargos públicos, no se pierde por ausencia debida al desempeño de cargos públicos de elección popular, o de cargos y comisiones encomendados por la Federación o por el Estado.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ## TITULO QUINTO
 
@@ -1667,11 +1715,15 @@ La residencia señalada como requisito de elegibilidad o de nombramiento para ca
 
 ###### ARTICULO 130.
 
-La presente Constitución podrá ser reformada o adicionada en todo tiempo, pero con la condición precisa de que no han de ser atacados en manera alguna los principios consignados y que se consignen en la Carta Fundamental de la República, debiendo observarse las formalidades siguientes:
+La presente Constitución podrá ser reformada o adicionada en todo tiempo con la condición precisa que no han de ser atacadas de manera alguna los principios establecidos en la Carta Fundamental de la República, debiendo observarse el procedimiento y tiempos determinados en este artículo:
 
-I.- La reforma, reformas o adiciones, se presentarán en cualquiera de los períodos ordinarios de sesiones, pero durante él no se hará otra cosa que mandarlas publicar por la prensa y comunicarlas directamente al Ejecutivo, Tribunal de Justicia y cada uno de los Ayuntamientos del Estado, a fin de que emitan su juicio por escrito, dirigiéndolo al Congreso o Diputación Permanente, quienes formarán un expediente con todas las constancias que recibieren; y
+I.- Las iniciativas de reforma o adición a esta Constitución se darán a conocer ampliamente a la ciudadanía a través de la prensa, por el Congreso del Estado, quien además solicitará al Titular del Poder Ejecutivo del Estado y al Supremo Tribunal de Justicia que emitan su opinión por escrito. Lo mismo hará con los Ayuntamientos para que emitan su voto que será computado por la Legislatura en funciones;
 
-II.- Este expediente se pasará a la Comisión de Puntos Constitucionales en el sexto día de haberse abierto las sesiones del período ordinario que siga al en que se propusieron las reformas o adiciones. La Comisión presentará dictamen a la Cámara a más tardar dentro de un mes de haberse recibido el expediente y se procederá a la discusión conforme al Reglamento, para que las adiciones o reformas formen parte de la Constitución, se requiere que el Congreso, por el voto de las dos terceras partes de los diputados que deban integrarlo, las acuerde, y que sean aprobadas por la mayoría de los Ayuntamientos, conceptuándose mayoría la mitad más uno de los existentes en el Estado. El Congreso hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las reformas o adiciones.
+II.- Cumplidos los requisitos anteriores, el Congreso del Estado discutirá, y en su caso aprobará las reformas o adiciones con las modificaciones que considere pertinentes, con el voto de las dos terceras partes de los Diputados que lo integran y la mayoría de los votos de los Ayuntamientos;
+
+III.- Una vez aprobadas las iniciativas, el Congreso emitirá el decreto correspondiente y lo remitirá al Poder Ejecutivo para los efectos de su promulgación y publicación en el Periódico Oficial del Estado; y
+
+IV.- La iniciación, difusión, discusión y aprobación de las reformas o adiciones a la Constitución Política del Estado de Durango, previstas en este artículo, se efectuarán en un plazo no menor de noventa días y siempre dentro de los Períodos Ordinarios del Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -2062,3 +2114,21 @@ Se derogan todas las leyes que se opongan al presente Decreto.
 ###### ARTICULO TERCERO.
 
 Una vez que las presentes reformas constitucionales hayan sido aprobadas por las dos terceras partes del H. Congreso del Estado de Durango, envíese copia del Acuerdo correspondiente a los HH. Ayuntamientos integrantes de nuestro Estado para su aprobación; una vez recibidas las aprobaciones de los Ayuntamientos, efectúese el cómputo especificado en la fracción II del Artículo 130 de nuestra Constitución Política Local y si del cómputo referido se obtiene la aprobación por la mayoría de los Ayuntamientos, hágase la declaración de que las reformas contenidas en este Decreto han sido aprobadas. Hecho lo anterior, envíese el Decreto correspondiente al Titular del Poder Ejecutivo del Estado para que se le dé el trámite legal correspondiente.
+
+P.O. 27 DE JUNIO DE 1993.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO
+
+- Por esta sola ocasión, el Presidente del Supremo Tribunal de Justicia, conforme lo dispone el Artículo 96 párrafo tercero, informará del estado que guarda su encargo, por el lapso comprendido del 15 de septiembre de 1992, fecha en que protestó su cargo, al mes de diciembre de 1993.
+
+###### ARTICULO CUARTO
+
+- Una vez que las presentes reformas constitucionales hayan sido aprobadas por las dos terceras partes del H. Congreso del Estado de Durango, envíese copia del Acuerdo correspondiente a los HH. Ayuntamientos, integrantes de nuestro Estado, para su aprobación; y una vez recibidas las aprobaciones de los Ayuntamientos, efectúese el cómputo especificado en la Fracción II del Artículo 130 de nuestra Constitución Política Local, y si del cómputo referido se obtiene la aprobación por la mayoría de los Ayuntamientos, hágase la declaración de que las reformas contenidas en este Decreto han sido aprobadas. Hecho lo anterior, envíese el Decreto correspondiente al Titular del Poder Ejecutivo del Estado para que se le dé el trámite legal correspondiente.
