@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-7509
 country: "mx"
 rank: "ley"
 publication_date: "1993-10-13"
-last_updated: "1993-12-24"
+last_updated: "1999-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de octubre de 1993.
 
@@ -253,11 +253,15 @@ Tratándose de las pensiones a que se refieren las fracciones IV y V del artícu
 
 Todo servidor público comprendido en el artículo 3 de esta Ley, deberá cubrir al Instituto una cuota obligatoria del 12.25% sobre el total del salario base de cotización a que se refiere el artículo anterior. Dicha cuota se aplicará en la siguiente forma:
 
-I.- 4% para el seguro señalado en la fracción I del artículo 7;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+I.- 4.50% para el seguro señalado en la fracción I del artículo 7;
 
 II.- 6% para la prestación señalada en la fracción III del artículo 7;
 
-III.- 1.50% para las prestaciones señaladas en las fracciones IV y V del artículo 7;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+III.- 1% para las prestaciones señaladas en las fracciones IV y V del artículo 7;
 
 IV.- 0.50% para el seguro que se menciona en la fracción VI del artículo 7, y
 
@@ -289,21 +293,31 @@ Cuando el Instituto hubiese realizado un pago indebido, por omisión o error en 
 
 Lo dispuesto en los párrafos anteriores, será sin perjuicio de las sanciones que resulten aplicables a los responsables de las situaciones previstas en este precepto. La imposición de estas sanciones no eximirá a las entidades públicas de la obligación de resarcir al Instituto por los daños causados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 25.
 
-Las entidades públicas entregarán al Instituto como aportaciones, el equivalente al 13.75% del salario base de cotización de cada servidor público incorporado al régimen de esta Ley. Dichas aportaciones se aplicarán en la siguiente forma:
+Las entidades públicas entregarán al Instituto como aportaciones, el equivalente al 18.75% del salario base de cotización de cada servidor público incorporado al régimen de esta Ley. Dichas aportaciones se aplicarán en la siguiente forma:
 
-I.- 5% para el seguro señalado en la fracción I del artículo 7;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+I.- 5.50% para el seguro señalado en la fracción I del artículo 7;
 
 II.- 0.50% para el seguro señalado en la fracción II del artículo 7;
 
 III.- 6% para la prestación señalada en la fracción III del artículo 7;
 
-IV.- 1.50% para las prestaciones señaladas en las fracciones IV y V del artículo 7;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+IV.- 1% para las prestaciones señaladas en las fracciones IV y V del artículo 7;
 
 V.- 0.50% para el seguro señalado en la fracción VI del artículo 7, y
 
-VI.- 0.25% para la prestación que se menciona en la fracción VII del artículo 7.
+VI.- 0.25% para la prestación que se menciona en la fracción VII del artículo 7;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+VII.- 5% para la prestación señalada en el Capítulo II del Título VIII.
 
 Los porcentajes señalados en las fracciones I, II, IV y VI de este artículo incluyen los gastos de administración del Instituto, que correspondan al respectivo seguro o prestación.
 
@@ -1053,7 +1067,9 @@ En caso de que al ocurrir el fallecimiento del servidor público no existan los 
 
 ## TITULO OCTAVO. PRESTAMOS A CORTO Y LARGO PLAZO
 
-### CAPITULO I. FUNCIONES
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO I. PRESTAMOS A CORTO PLAZO
 
 ###### Artículo 116.
 
@@ -1073,7 +1089,7 @@ Los préstamos se otorgarán de tal manera que los abonos que deba hacer el serv
 
 ###### Artículo 118.
 
-Los servidores públicos que tengan quince años o más de cotizar, tendrán derecho a obtener un préstamo hasta el 30% del saldo de los recursos de su cuenta personal cuando compruebe que serán destinados a la adquisición, construcción o remodelación de su casa habitación.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1999)
 
 ###### Artículo 119.
 
@@ -1087,11 +1103,35 @@ El préstamo sólo podrá renovarse cuando haya transcurrido el plazo por el cua
 
 Los adeudos por concepto de préstamos a corto plazo, que no fuesen cubiertos por los servidores públicos después de un año de su vencimiento, se cargarán al Fondo de Garantía; sin embargo subsistirá el crédito contra el deudor, pudiendo el Instituto acudir a los medios legales de cobro y abonar a dicho fondo las cantidades que se recuperen.
 
-### CAPITULO II. ORGANOS DE GOBIERNO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO II. PRESTAMOS PARA VIVIENDA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 120 bis.- Los servidores públicos que tengan quince años o más de cotizar, tendrán derecho a obtener un préstamo hasta el 30% del saldo de los recursos de su cuenta personal cuando compruebe que serán destinados a la adquisición, construcción o remodelación de su casa habitación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+Artículo 120 bis-1.- Con base en el presupuesto anual que establezca el Consejo Directivo, el Instituto podrá otorgar créditos para la adquisición, construcción o remodelación de vivienda, solamente a los servidores públicos con un tiempo mínimo de cotización de diez años. Para regular esta prestación el Reglamento establecerá las reglas para el otorgamiento de Préstamos de Vivienda.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+Artículo 120 bis-2.- Para el sostenimiento de esta prestación las entidades públicas entregarán al Instituto como aportaciones para la prestación de créditos para vivienda, el equivalente al 5% del salario base de cotización de cada servidor público incorporado al régimen de cotización de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+Artículo 120 bis-3.- Los créditos para vivienda otorgados a los servidores públicos estarán cubiertos por un seguro para los casos de muerte o incapacidad total permanente o incapacidad parcial permanente del 50% o más o de invalidez definitiva, liberando al servidor público o sus beneficiarios del adeudo, gravámenes o limitaciones de dominio derivados de los mismos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+Artículo 120 bis-4.- Para el cumplimiento de los fines del presente Capítulo, las aportaciones que se hagan para el fondo de la vivienda ingresarán a las reservas que para este fin se constituyan, mismas que se destinarán exclusivamente a cubrir la prestación que se señala para los mismos. Lo anterior con excepción de las aportaciones que se realicen por los servidores públicos participantes en el Sistema Certificado Para Jubilación, las que serán depositadas en una subcuenta de vivienda dentro del mismo sistema que se regulará en los términos que señala esta Ley y el reglamento que se expida al efecto. El capital constitutivo de la subcuenta de vivienda se aplicará como pago inicial a los créditos otorgados, aplicándose las aportaciones que realice la Entidad Pública correspondiente, a reducir el saldo insoluto a cargo del propio servidor público durante todo el tiempo que subsista el crédito.
+
+Los ingresos y egresos de esta prestación se contabilizarán por separado, regulándose su administración y los gastos derivados de la misma, de acuerdo a los lineamientos que establezca el Consejo Directivo.
 
 ## TITULO NOVENO. FUNCIONES Y ESTRUCTURA ORGANICA
 
-### CAPITULO III. PATRIMONIO INSTITUCIONAL
+### CAPITULO I. FUNCIONES
 
 ###### Artículo 121.
 
@@ -1121,7 +1161,7 @@ XI.- Autorizar la celebración y revocación de los convenios de subrogación qu
 
 XII.- Las demás funciones que le confieran esta Ley y sus reglamentos.
 
-### CAPITULO IV. RESERVAS E INVERSIONES
+### CAPITULO II. ORGANOS DE GOBIERNO
 
 ###### Artículo 122.
 
@@ -1137,11 +1177,11 @@ IV.- El Comité de Vigilancia.
 
 #### SECCION 1. Consejo Directivo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 123.
 
-El Consejo Directivo se compondrá de once miembros: el Secretario de Finanzas y Tesorero General del Estado, el Secretario de Desarrollo Social del Estado, el Secretario del Trabajo del Estado, el Coordinador de Administración del Estado, el Director General del Instituto, dos representantes del Sindicato Nacional de Trabajadores de la Educación, un representante del Sindicato de Trabajadores al Servicio del Estado, y un representante de los trabajadores de los organismos paraestatales afiliados.
+El Consejo Directivo se compondrá de once miembros: el Secretario de Finanzas y Tesorero General del Estado, el Secretario de Salud, el Secretario del Trabajo del Estado, el Subsecretario de Administración de la Secretaría de Finanzas y Tesorería General del Estado, el Director General del Instituto, dos representantes del Sindicato Nacional de Trabajadores de la Educación, un representante del Sindicato Único de Servidores Públicos del Estado, y un representante de los trabajadores de los organismos paraestatales afiliados.
 
 Participarán también en el Consejo Directivo dos representantes uno del Poder Judicial y otro del Poder Legislativo, quienes tendrán voz pero no voto en las decisiones del Consejo.
 
@@ -1349,6 +1389,8 @@ El Comité sesionará cuantas veces sea convocado por su Presidente o a petició
 
 El Comité presentará un informe anual al Consejo Directivo sobre el ejercicio de sus atribuciones. Los integrantes del Comité podrán solicitar concurrir a las reuniones del Consejo, para tratar asuntos urgentes relacionados con las atribuciones del Comité.
 
+### CAPITULO III. PATRIMONIO INSTITUCIONAL
+
 ###### Artículo 143.
 
 El patrimonio del Instituto lo constituirán:
@@ -1386,6 +1428,8 @@ Dentro de los primeros veinte días de cada mes el Instituto formulará los esta
 ###### Artículo 145.
 
 Los servidores públicos, los pensionistas y sus beneficiarios, no adquieren derecho alguno, individual o colectivo, sobre el patrimonio del Instituto, sino sólo a disfrutar de los beneficios que esta Ley les concede.
+
+### CAPITULO IV. RESERVAS E INVERSIONES
 
 ###### Artículo 146.
 
@@ -1578,3 +1622,11 @@ ING. LEOPOLDO ESPINOSA BENAVIDES
 P.O. 24 DE DICIEMBRE DE 1993.
 
 UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos de lograr la plena vigencia de los artículos 25 fracción VII y 120 bis-2 las entidades públicas entregarán el 1% el primer año a partir de Enero de 1999, y se aumentará en un 0.5% cada año hasta completar el 5% a que se refieren dichos artículos.
+
+TERCERO.- Para el debido cumplimiento de los artículos que se adicionan, el Consejo Directivo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, deberá expedir el Reglamento de Préstamos para Vivienda, en un plazo de 30 días contados a partir de la entrada en vigor el presente Decreto, debiendo publicar dicho reglamento en el Periódico Oficial del Estado.
