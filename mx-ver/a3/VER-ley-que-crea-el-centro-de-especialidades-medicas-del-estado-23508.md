@@ -4,7 +4,7 @@ identifier: "VER-ley-que-crea-el-centro-de-especialidades-medicas-del-estado-235
 country: "mx"
 rank: "ley"
 publication_date: "1989-07-22"
-last_updated: "1989-07-22"
+last_updated: "1997-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "VER"
 
 LEY QUE CREA EL CENTRO DE ESPECIALIDADES MEDICAS DEL ESTADO DE VERACRUZ 'DR. RAFAEL LUCIO'
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY NO. 54 QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO SERVICIOS DE SALUD DE VERACRUZ, PUBLICADA EN LA G.O. DE 6 DE MARZO DE 1997.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 22 de julio de 1989.
 
-Al margen de un sello que dice: Estados Unidos Mexicanos.-Gobernador del Estado de Veracruz-Llave.
+Al margen de un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
 
 DANTE DELGADO, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed;
 
@@ -256,3 +258,33 @@ Para los efectos del tercer párrafo del artículo 5° de esta Ley, los integran
 DADA en el salón de sesiones de la H. Legislatura del Estado, en la ciudad de Xalapa- Enríquez, Veracruz a primero de junio de mil novecientos ochenta y nueve.- JOSE LUIS ENRIQUEZ GONZALEZ.- Diputado Presidente.- BENITO CASTELLANOS MARIN.- Rúbrica.- Diputado Secretario."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 y primer párrafo del artículo 93 de la Constitución Política del Estado Libre y Soberano de Veracruz- Llave, y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Estatal, en la Ciudad de Xalapa- Enríquez, Veracruz a primero de junio de mil novecientos ochenta y nueve.- DANTE DELGADO.- Rúbrica.- El Secretario General de Gobierno, MIGUEL ANGEL DIAZ PEDROZA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 6 DE MARZO DE 1997.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+SEGUNDO. Los recursos humanos, financieros y materiales de la Secretaría de Salud y Asistencia que sean necesarios para el ejercicio de las funciones del organismo público descentralizado serán adscritos e incorporados a Servicios de Salud de Veracruz.
+
+TERCERO. Se abroga el Decreto N° 353 que creó el Hospital Regional de Río Blanco, publicado en la 'Gaceta Oficial' del Estado del 23 de septiembre de 1986. Los recursos humanos, financieros y materiales de este organismo se transfieren e incorporan a Servicios de Salud de Veracruz.
+
+CUARTO. Se abroga el Decreto N° 354 que creó el Hospital Regional de Coatzacoalcos, publicado en la 'Gaceta Oficial' del Estado del 23 de septiembre de 1986. Los recursos humanos, financieros y materiales de este organismo se adscriben e incorporan a Servicios de Salud de Veracruz.
+
+QUINTO. Se abroga la Ley N° 456 que creó el Centro de Especialidades Médicas del Estado de Veracruz "Dr. Rafael Lucio", publicada en la 'Gaceta Oficial' del Estado del 22 de julio de 1989. Los recursos humanos, financieros y materiales de este organismo se adscriben e incorporan a Servicios de Salud de Veracruz.
+
+SEXTO. Se abroga la Ley N° 37 de Asistencia Pública del Estado, publicada en la 'Gaceta Oficial' del Estado del 31 de mayo de 1969. Los bienes de cualquier naturaleza que hayan pertenecido a la Dirección General de Asistencia Pública del Estado se incorporan al patrimonio del Gobierno del estado y se destinan al servicio del organismo público descentralizado Servicios de Salud de Veracruz.
+
+Los recursos humanos y financieros de la Dirección General de Asistencia Pública del Estado se adscriben e incorporan a Servicios de Salud de Veracruz.
+
+SEPTIMO. El Gobierno del estado recibirá los recursos humanos, financieros y materiales que el Gobierno federal por conducto de la Secretaría de Salud le transfiera, los incorporará a su patrimonio y los destinará a Servicios de Salud de Veracruz.
+
+OCTAVO. A efecto de llevar a cabo la transferencia de bienes muebles e inmuebles y recursos financieros, así como para garantizar los derechos de los trabajadores, Servicios de Salud de Veracruz se sujetará a las disposiciones comprendidas en los capítulos IV y V del Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud en la entidad suscrito por el Gobierno federal y el Ejecutivo del estado el 20 de agosto de 1996.
+
+NOVENO. Servicios de Salud de Veracruz respetará los tabuladores salariales que cubren íntegramente las actuales jornadas laborales establecidas para el personal médico y administrativo a fin de garantizar una eficiente prestación de los servicios, así como los procedimientos de actualización salarial, convenidos en la cláusula décimo sexta del Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud en la entidad.
+
+Los salarios y prestaciones vigentes en los tabuladores correspondientes a cada categoría fijados para cubrir íntegramente todos los beneficios que se derivan de la relación laboral, se actualizarán siguiendo los mecanismos establecidos en el Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud en la entidad.
+
+DECIMO. Servicios de Salud de Veracruz deberá expedir en un plazo de seis meses a partir de que esta ley entre en vigor los reglamentos para su organización interna y para el ejercicio de sus funciones.
+
+UNDECIMO. Se derogan todas las disposiciones legales que se opongan a la presente ley.
