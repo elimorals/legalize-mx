@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2004-08-28"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -1593,9 +1593,11 @@ El procedimiento para la elección de Gobernador interino, provisional o sustitu
 
 La designación del Presidente de la Comisión Estatal de Derechos Humanos la hará el Congreso de entre una terna propuesta por la Junta de Coordinación Parlamentaria. La remoción la hará a propuesta del (sic) cualquier diputado aprobada por la mayoría de los diputados presentes.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### Art. 150.
 
-La designación de los magistrados del Supremo Tribunal de Justicia y el nombramiento de munícipes se sujetara a lo establecido en la Constitución Política del Estado y demás leyes de la materia.
+La designación de los magistrados del Supremo Tribunal de Justicia, del Procurador General de Justicia y el nombramiento de munícipes se sujetara a lo establecido en la Constitución Política del Estado y demás leyes de la materia.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
@@ -1964,3 +1966,7 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
