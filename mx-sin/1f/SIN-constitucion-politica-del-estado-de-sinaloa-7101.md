@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1953-05-21"
+last_updated: "1953-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1953.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -595,11 +595,11 @@ En caso de falta absoluta de Gobernador del Estado, ocurrida dentro de los dos p
 
 Siempre que por cualquier motivo no pudiera por de pronto el Congreso o la Diputación Permanente, hacer la designación de que tratan los artículos anteriores, entrará a ocupar el cargo, provisionalmente, el Presidente del Supremo Tribunal de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1948)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1953)</small>
 
 ###### Art. 61.
 
-La persona que haya fungido como Gobernador en los casos previstos por los Artículos 59 y 60, no podrá ser electa popularmente en ningún tiempo y por ningún motivo Gobernador Constitucional del Estado.
+La persona que haya fungido como Gobernador en los casos previstos por los artículos 59 y 60, no podrá ser electa popularmente Gobernador Constitucional del Estado para el período inmediato.
 
 ###### Art. 62.
 
@@ -1706,5 +1706,9 @@ Las presentes reformas entrarán en vigor el día 16 de abril de 1953.
 En tanto se expiden y entran en vigencia las nuevas Leyes Orgánicas relativas conforme a estas reformas, regirán las Leyes Orgánicas de la Secretaría General de Gobierno y de la Tesorería General del Estado de Sinaloa y sus Dependencias expedidas la primera por decreto número 265 de fecha 22 de mayo de 1942 y por decreto número 586 de 5 de junio de 1939, la segunda, con sus adiciones y reformas hasta el día 31 de diciembre de 1950, en cuanto sean aplicables.
 
 P.O. 21 DE MAYO DE 1953.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE AGOSTO DE 1953.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
