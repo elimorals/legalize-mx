@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1992-02-01"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 01 DE FEBRERO DE 1992
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1992
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -889,35 +889,47 @@ No causarán los derechos a que se refiere este Artículo, la legalización de f
 
 Por los servicios prestados por la Secretaría General de Gobierno, a través del Registro Público de la Propiedad, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-I.- Por la inscripción de documentos que contengan actos jurídicos relativos, a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base el mayor valor que resulte de comparar el catastral asignado por la Oficina correspondiente, con el consignado en la operación, por cada $ 100.00 o fracción.
+I.- Por la inscripción de documentos que contengan datos jurídicos relativos a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base el mayor valor que resulte de comparar el valor catastral asignado por la oficina correspondiente con el consignado en la operación, por cada N$ 10.00 o fracción;
 
-$ 0.40
+N$0.04
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 250 salarios mínimos.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 a) Por la inscripción de documentos donde de consten lotificaciones, subdivisiones, fraccionamientos y servidumbres.
 
 4 salarios mínimos
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
 b) Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos.
 
 4 salarios mínimos
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 c) Por inscripción de capitulaciones matrimoniales, fusión de predios y disolución de sociedad conyugal.
 
 10 salarios mínimos
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
 d) Por la inscripción de constitución de régimen de propiedad de condominio.
 
 Por cada vivienda o local: 2 salarios mínimos
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II.- Por la inscripción de documentos relativos a fianzas, hipotecas, reconocimientos de adeudos, créditos refaccionarios, de habilitación o avío, mutuo con interés simple y arrendamiento financiero garantizados con prenda o hipoteca en el Registro Publico de la Propiedad y del Comercio, por cada $ 100.00 o fracción.
+II.-Por la inscripción de documentos relativos a fianzas hipotecas, reconocimientos, de adeudos, créditos refaccionarios de habilitación o avío mutuo con interés simple y arrendamiento financiero garantizados con prenda e hipoteca, en el Registro Público de la Propiedad y del Comercio, por cada N$ 10.00 o fracción.
 
-$ 0.20
+N$0.02
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos, ni mayor de 500 salarios mínimos.
 
@@ -927,13 +939,23 @@ III.- Por el registro de catas y demás diligencias relativas a embargos o cédu
 
 $ 0.50
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IV.-Por la inscripción de arrendamientos hasta por cinco años, sobre el importe total de la renta durante el tiempo estipulado en el contrato, por cada $ 100.00 o fracción. $ 1.00
+IV.- Por la inscripción de arrendamientos hasta por cinco años, sobre el importe total de la renta durante el tiempo estipulado en el contrato, por cada N$10.00 o fracción.
 
-a).-Si excede de cinco años, además de pagar la cuota señalada anteriormente se cobrará sobre el monto de las rentas de los años siguientes, por cada $ 100.00 o fracción. $ 0.50
+N$0.10
 
-b).-Si el arrendamiento es por tiempo indefinido, sobre el importe total de la renta correspondiente a dos años, por cada $ 100.00 o fracción. $ 2.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
+a).- Si excede de cinco años, además de pagar la cuota señalada anteriormente se cobrará sobre el monto de las rentas de los años siguientes, por cada N$10.00 o fracción.
+
+N$0.05
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
+b).- Si el arrendamiento es por tiempo indefinido, sobre el importe total de la renta correspondiente a dos años por cada N$10.00 o fracción.
+
+N$0.20
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -947,31 +969,25 @@ VI.- Por la inscripción de cualquier tipo de testamentos, contratos de depósit
 
 4 salarios mínimos
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VII.-Por la inscripción de escritura constitutivas de sociedades civiles o mercantiles o de aumento de capital sobre el importe del capital o su aumento. 2 salarios mínimos
+VII.- Por la inscripción de escrituras constitutivas de sociedades civiles o mercantiles o de aumento de capital sobre el importe del capital o su aumento.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-a).- Hasta $ 1,000,000.00
+a).-Hasta N$1,000.00 6 Salarios Mínimos.
 
-6 salarios mínimos
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+b).-Por lo que exceda de N$1,000.00 por cada N$100.00 o fracción. N$0.02
 
-b).-Por lo que exceda de $ 1,000,000.00 por cada $ 1000,00 o fracción.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-$ 0.20
+c).- Inscripción de actas y estatutos, de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa sobre el capital social, por cada N$10.00 o fracción. N$0.015
 
-c).-Por la inscripción de actas y estatutos, de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste la Ley Federal relativa sobre el capital social, por cada __________ $ 100.00 o fracción. $ 0. 15
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-d).- Por la inscripción de documentos cuando se modifique el capital de sociedades de capital variable que se deseen inscribir a petición del interesado.
-
-6 salarios mínimos
-
-Además sobre el monto de capital variable, por cada $100.00 o fracción. $ 0.05
+d).- Además sobre el monto de capital variable, por cada N$10.00 o fracción. N$0.005
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -997,6 +1013,8 @@ h).-Por la inscripción de poderes y su cancelación.
 
 4 salarios mínimos
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
 i).-Por la inscripción de documentos relativos a la enajenación de bienes muebles por cada $ 100.00 o fracción.
 
 $ 0.45
@@ -1005,17 +1023,25 @@ $ 0.45
 
 Si no tienen valor señalado y éste no puede determinarse se causará. 4 salarios mínimos
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VIII.- Por la inscripción de la constitución del fideicomiso traslativo de dominio o transmisión de dominio en ejecución de fideicomiso sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación por cada $ 100.00 o fracción. $ 0.75
+VIII.- Por la inscripción de la constitución de fideicomiso traslativo de dominio o transmisión de dominio en ejecución de fideicomiso sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación por cada N$10.00 o fracción. N$0.075
 
-Por la inscripción de la constitución del fideicomiso no traslativo de dominio cuando se determine su valor por cada $ 100.00 o fracción. $ 0.35
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Por la inscripción de la constitución del fideicomiso no traslativo de dominio cuando se determine su valor por cada N$10.00 o fracción. N$0.035
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 Cuando en el acto inscribible no se determine su valor. 4 salarios mínimos
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 Por la inscripción de documentos donde se haga constar la sustitución fiduciaria.
 
 4 salarios mínimos
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 La cancelación de cualquiera de los actos anteriores causará el 25% de la cantidad pagada por su inscripción.
 
@@ -1123,13 +1149,17 @@ Por los servicios que presta la Editora de Gobierno del Estado, se causarán y p
 
 I.- Publicaciones:
 
-a).- Edicto de interés pecuniario, como: las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos. Palabra por inserción.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-$ 150.00
+a).-Edicto de interés pecuniario, como las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos. N$0.15
 
-b).-Edicto de Interés Social, como: cambio de nombre, póliza de defunción. Palabra por inserción.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-$ 100.00
+b).- Palabra por inserción
+
+Edicto de interés social, como cambio de nombre, póliza de defunción.
+
+Palabra por inserción N$0.10
 
 c) Cortes de caja, balances o cualquier documento de formación especial. Por plana.
 
@@ -1229,45 +1259,45 @@ DEPARTAMENTO DE TELECOMUNICACIONES
 
 Por los servicios prestados por la Dirección General de Tránsito y Transporte, se causarán y cobrarán los derechos siguientes:
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 I.-Expedición de Licencia de chofer, tipo "A" para conducir vehículos de motor dedicados al Servicio Público de Pasajeros, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
 
-8 salarios mínimos
+12 Salarios Mínimos.
 
-Canje Bianual
+Canje Trianual
 
-3 salarios mínimos
+4.5 Salarios Mínimos.
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 II.-Expedición de Licencia de Chofer, tipo "B" para conducir toda clase de vehículos de motor de Servicio Público de Carga y Particular, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
 
-7 salarios mínimos
+10.5 Salarios Mínimos.
 
-Canje Bianual
+Canje Trianual
 
-3 salarios mínimos
+4.5 Salarios Mínimos.
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 III.-Expedición de Licencia de Automovilista, tipo "C" para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico pericial.
 
-6 salarios mínimos
+9 Salarios Mínimos.
 
-Canje Bianual
+Canje Trianual
 
-2 salarios mínimos
+3 Salarios Mínimos.
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 IV.-Expedición de Licencia de Motociclista, tipo "D" para conducir vehículos de dos o tres ruedas, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
 
-4 salarios mínimos
+6 Salarios Mínimos.
 
-Canje Bianual
+Canje Trianual
 
-2 salarios mínimos
+3 Salarios Mínimos.
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
@@ -1525,67 +1555,87 @@ Por los servicios telegráficos telefónicos y radiotelefónicos que preste la S
 
 I.- Conferencias telefónicas:
 
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
 a).- Casetas telefónicas en un hilo.
 
-3 minutos $350.00
+3 Minutos N$0.30
 
-Minuto excedente $150.00
+Minuto excedente N$0.15
 
-b).- Casetas telefónicas en dos hilos.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-3 minutos $600.00
+b).- Castas telefónicas en dos hilos.
 
-Minuto excedente $200.00
+3 Minutos N$0.60
 
-c).- Casetas radiotelefónicas de Gobierno.
+Minuto excedente N$0.20
 
-3 minutos $750.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Minuto excedente $250.00
+c).- Caseta radiotelefónica de Gobierno.
 
-d).- Caseta Radiotelefónica de S.O.S
+3 Minutos N$0.75
 
-3 minutos $700.00
+Minuto excedente N$0.25
 
-Minuto excedente $250.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
+d).- Caseta telefónica S.O.S.
+
+3 Minutos N$0.70
+
+Minuto excedente N$0.25
 
 II.-Telegramas:
 
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
 a).- Ordinarios y urbanos.
 
-10 palabras $1,500.00
+10 Palabras N$1.50
 
-Palabra excedente $150.00
+Palabra excedente N$0.15
 
-b).-Urgentes.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-10 palabras $3,000.00
+b).- Urgentes.
 
-Palabra excedente $300.00
+10 Palabras N$3.00
+
+Palabra excedente N$0.30
 
 III.-Abonados:
 
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
 a).- Telefónicos en un hilo comunal, mensualmente:
 
-Oficina $3,000.00
+Oficina N$3.00
 
-Particular 4,000.00
+Particular N$4.00
 
-b).- Telefónicos en dos hilos comunal, mensualmente:
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Oficina $5,000.00
+b).- Telefónico de dos hilos comunal, mensualmente:
 
-Particular $7,000.00
+Oficina N$5.00
 
-c).- Telefónicos en dos hilos directos:
+Particular N$7.00
 
-Mensualmente $8,000.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-d).-Suscriptores Urbanos:
+c).- Telefónicos en dos hilos directo:
 
-Anualmente $24,000.00
+Mensualmente N$8.00
 
-Depósito $10,000.00
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
+d).- Suscriptores urbanos:
+
+Anualmente N$24.00
+
+Depósito N$10.00
 
 ### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA
 
@@ -3176,3 +3226,13 @@ El presente Ordenamiento entrará en vigor al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 31 DE DICIEMBRE DE 1992
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor el día 1 de Enero de 1993, previa publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento
