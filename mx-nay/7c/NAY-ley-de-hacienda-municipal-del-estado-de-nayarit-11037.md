@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "1993-10-13"
+last_updated: "1994-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -461,9 +461,11 @@ Están obligadas al pago del Impuesto sobre adquisición de Inmuebles establecid
 
 No se pagará este Impuesto en las adquisiciones de inmuebles que realicen la Federación, el Estado de Nayarit y los Municipios, para formar parte del dominio público y, los partidos Políticos, siempre y cuando dichos inmuebles sean para su propio uso.
 
-> <small>(ADICIONADA, P. O. 13 DE OCTUBRE DE 1993)</small>
+II(sic).- (DEROGADA, P.O. 9 DE JULIO DE 1994)
 
-II(sic).- Tampoco se pagará el Impuesto establecido en este capítulo en las adquisiciones que realicen las asociaciones religiosas constituidas en los términos de la Ley de la materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
+
+III.- Tampoco se pagará el Impuesto establecido en este Capítulo en las Adquisiciones de Inmuebles que hagan los Arrendatarios Financieros al ejercer la opción de compra en términos del Contrato de Arrendamiento Financiero.
 
 ###### ARTICULO 42.
 
@@ -699,6 +701,12 @@ La presente Ley entrará en vigor el día primero de enero de 1984.
 
 Se abroga la Ley de Hacienda Municipal que por decreto No. 6180 se publicó en el Periódico Oficial del Estado, de Fecha miércoles 26 de septiembre de 1979, sus posteriores modificaciones, reformas y adiciones, así como todas las disposiciones fiscales que contravengan lo dispuesto por la presente Ley.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+###### ARTICULO TERCERO.
+
+Las asociaciones religiosas constituidas en los términos de la Ley de asociaciones religiosas y culto público, no pagarán el Impuesto sobre Adquisición de Inmuebles establecido en esta Ley, por las adquisiciones que realicen hasta el 31 de diciembre de 1994.
+
 Dado En la Sala de Sesiones "Benito Juárez" del H. Congreso del Estado Libre y Soberano de Nayarit, en Tepic su Capital a los veintisiete días del mes de Diciembre de mil novecientos ochenta y tres.
 
 DIP. PRESIDENTE.
@@ -729,6 +737,14 @@ Lic. Sigfrido de la Torre Miramontes
 
 P.O. 29 DE JUNIO DE 1991.
 
+###### ARTICULO PRIMERO.
+
+Durante los años de 1991, 1992 y 1993, se aplicarán las tasas del 8%, 6% y 4% respectivamente, en el lugar de la tasa establecida en el Artículo 40 de la ley de Hacienda Municipal para el Estado de Nayarit.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes disposiciones derogan todas aquellas que se opongan a los términos expresamente contenidos en este Decreto.
+
 ###### ARTICULO TERCERO.
 
 Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
@@ -741,11 +757,11 @@ P.O. 26 DE DICIEMBRE DE 1992
 
 ###### ARTICULO PRIMERO.
 
-Durante los años de 1991, 1992 y 1993, se aplicarán las tasas del 8%, 6% y 4% respectivamente, en el lugar de la tasa establecida en el Artículo 40 de la ley de Hacienda Municipal para el Estado de Nayarit.
+El presente Decreto entrará en vigor el día 1º de Enero de 1993, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Las presentes disposiciones derogan todas aquellas que se opongan a los términos expresamente contenidos en este Decreto.
+Por lo que concierne al Impuesto sobre Adquisición de Bienes Inmuebles, en tratándose de operaciones traslativas de dominio de predios suburbanos o ubicadas en zonas turísticas, la autoridad competente mandará se practiquen avalúos especiales para los efectos procedentes.
 
 ###### ARTICULO TERCERO.
 
@@ -755,16 +771,12 @@ P.O. 13 DE OCTUBRE DE 1993.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día 1º de Enero de 1993, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Por lo que concierne al Impuesto sobre Adquisición de Bienes Inmuebles, en tratándose de operaciones traslativas de dominio de predios suburbanos o ubicadas en zonas turísticas, la autoridad competente mandará se practiquen avalúos especiales para los efectos procedentes.
-
-###### ARTICULO PRIMERO.
-
 El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
 Envíese un ejemplar del Periódico Oficial a la Coordinación General con Entidades Federativas dependiente de la Secretaría de Hacienda y Crédito Público.
+
+P.O. 9 DE JULIO DE 1994
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.
