@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2004-03-15"
+last_updated: "2004-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE OCTUBRE DE 2004.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -2007,7 +2007,7 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-(REFORMADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
+(REFORMADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
 
 Sólo podrán ser sujetos a Juicio Político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Consejeros Estatales Electorales, el Secretario del Consejo Estatal Electoral, los Magistrados y Secretario General del Tribunal Estatal Electoral, Presidentes Municipales, Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
 
@@ -2115,7 +2115,7 @@ Artículo 150 A. En el Estado las mujeres tienen los mismos derechos civiles y p
 
 En los procesos electorales distritales y municipales que se rigen por el principio de mayoría relativa, los partidos políticos promoverán, en términos de equidad, que se postule una proporción paritaria de candidatos de ambos géneros, lo que será aplicable para candidatos propietarios y suplentes. Se exceptúa de lo anterior el caso de que las candidaturas de mayoría relativa sean resultado de un proceso de elección interna de democracia directa.
 
-(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
+(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
 
 Las listas de representación proporcional a cargos de elección popular a nivel estatal y municipal de propietarios y suplentes, se conformarán y asignarán en fórmulas y planillas, bajo el principio de alternancia de ambos géneros, hasta agotar el derecho de cada partido político.
 
@@ -2157,7 +2157,7 @@ Quienes teniendo la residencia y vecindad se ausentaren del lugar de su residenc
 
 ###### Artículo 157.
 
-Todo funcionario o empleado público, tiene el deber de protestar antes de encargarse de sus funciones, en la forma siguiente: La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer guardar la Constitución de los Estados Unidos Mexicanos, la Constitución del Estado, las leyes que de ella emanen, y cumplir leal y patrióticamente el cargo de ………. que el pueblo (o la autoridad que lo confiere) os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?" -El interpelado contestará: "Sí protesto". Acto contínuo dirá la persona ante quien se otorga la protesta: "Si no lo hiciéreis así la Nación y el Estado os lo demanden".
+Todo funcionario o empleado público, tiene el deber de protestar antes de encargarse de sus funciones, en la forma siguiente: La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer guardar la Constitución de los Estados Unidos Mexicanos, la Constitución del Estado, las leyes que de ellas emanen, y cumplir leal y patrióticamente el cargo de ………. que el pueblo (o la autoridad que lo confiere) os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?" -El interpelado contestará: "Sí protesto". Acto contínuo dirá la persona ante quien se otorga la protesta: "Si no lo hiciéreis así la Nación y el Estado os lo demanden".
 
 ###### Artículo 158.
 
@@ -2892,6 +2892,12 @@ C).- En virtud de la nueva estructura del Tribunal Estatal Electoral que plantea
 Los ciudadanos Luis Enrique Pérez Alvidrez y María Teresa González Saavedra, deberán rendir protesta del cargo a la entrada en vigor de esta Ley, ante el Pleno o la Diputación Permanente de este Congreso, según sea el caso.
 
 A fin de culminar la integración del Tribunal Estatal Electoral, el Congreso del Estado emitirá convocatoria pública para designar al tercer Magistrado Propietario y a los dos Magistrados Suplentes Comunes, cuyos periodos para el ejercicio de su encargo será de nueve años. En la designación de los Magistrados Suplentes Comunes se respetará el principio de equidad y paridad de género.
+
+B.O. 4 DE OCTUBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación, en su caso, que emitan la mitad más uno de los Ayuntamientos del Estado, a todos los cuales se les deberá notificar lo que corresponda para los efectos del artículo 163 de la Constitución Política Local.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
