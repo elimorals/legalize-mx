@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-462
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-01-08"
-last_updated: "2000-05-31"
+last_updated: "2002-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002 Y REPUBLICADO EL 25 DE MAYO DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 8 de enero de 1992.
 
@@ -62,6 +62,10 @@ II.- Investigar directamente los delitos del orden común y, si lo considera per
 III.- Practicar las diligencias necesarias y allegarse las pruebas pertinentes para la comprobación del cuerpo del delito y la probable responsabilidad de los inculpados para fundar y motivar, en su caso, el ejercicio de la acción penal;
 
 IV.- Recabar de cualquier oficina pública los informes y datos que estime necesarios para la integración de la averiguación previa, así como de otras autoridades y entidades, en la medida que puedan ministrar elementos para el debido ejercicio de sus atribuciones;
+
+(ADICIONADO, P.O. 22 DE MAYO DE 2002) (REPUBLICADO, P.O. 25 DE MAYO DE 2002)
+
+La autoridad que sin causa justificada se niegue a proporcionar los informes o datos que sele soliciten, incurrirá en responsabilidad administrativa en los términos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
 
 V.- Citar a cuanta persona pueda aportar datos para la investigación de los delitos y, en caso de no comparecer, ordenar su localización y presentación por conducto de la policía judicial o de los cuerpos de seguridad pública que actúen en su auxilio, sujetándose en todo momento al principio de respeto a los derechos de los individuos;
 
@@ -538,3 +542,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado, deberá expedir el reglamento correspondiente en un término de noventa días contados a partir del siguiente día en que se publique en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2002.
+
+REPUBLICADO, P.O. 25 DE MAYO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
