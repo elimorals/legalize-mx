@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1987-12-31"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -37,7 +37,7 @@ DECRETO:
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-> <small>N. DE E. EL PRESENTE TEXTO LEGAL NO SUFRIO REFORMAS, UNICAMENTE CONTIENE DISPOSICIONES CON VIGENCIA ANUAL PARA EL AÑO DE 1988.</small>
+> <small>N. DE E. EL PRESENTE TEXTO LEGAL NO SUFRIO REFORMAS, UNICAMENTE CONTIENE DISPOSICIONES CON VIGENCIA ANUAL PARA EL AÑO DE 1989.</small>
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -541,7 +541,7 @@ I.- Vehículos a que se refiere el artículo 5o. apartados A, fracción I, y B d
 
 II.- Vehículos comprendidos en el artículo 5o. apartado A, fracciones II y III, así como los veleros .......... 4,000.00
 
-III.- Embarcaciones distintas de las comprendidas en la fracción II.......... 18,000.00
+III.- Embarcaciones distintas de las comprendidas en la fracción II .......... 18,000.00
 
 IV.- Aeronaves .......... 115,000.00
 
@@ -721,7 +721,7 @@ La presente Ley entrará en vigor el día 1o. de enero de 1985, ...
 
 D.O.F. 31 DE DICIEMBRE DE 1985.
 
-Disposiciones de Vigencia Anual durante el año de 1986.
+Disposiciones de Vigencia Anual durante el año de 1986
 
 ARTICULO DECIMOSEPTIMO.- Durante el año de 1986 se aplicarán en materia del Impuesto sobre Tenencia o Uso de Vehículos, las siguientes disposiciones:
 
@@ -771,7 +771,7 @@ La presente Ley entrará en vigor el día 1o. de enero de 1986.
 
 D.O.F. 31 DE DICIEMBRE DE 1986.
 
-Disposiciones con vigencia durante el año de 1987.
+Disposiciones con vigencia durante el año de 1987
 
 ###### ARTICULO DECIMO SEGUNDO.
 
@@ -872,3 +872,55 @@ III.- Después de aplicar lo dispuesto en el artículo 5o. Apartado A, fracción
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1988.
+
+D.O.F. 31 DE DICIEMBRE DE 1988.
+
+Disposición de Vigencia Anual
+
+###### ARTICULO DECIMO NOVENO.
+
+Durante el año de 1989 se aplicarán en materia del impuesto sobre tenencia o uso de vehículos, las siguientes disposiciones:
+
+I.- Para los efectos del cálculo del impuesto, se dan a conocer las siguientes cantidades:
+
+a).- Vehículos a que se refiere el artículo 5o., Apartado A, fracciones II y III de la Ley de la materia .......... $ 50,100.00
+
+b).- Vehículos a que se refiere el artículo 5o., Apartado B, de la Ley de la materia .......... $ 53,300.00
+
+c).- Veleros .......... $ 66.900.00
+
+d).- Embarcaciones y los vehículos a que se refiere el artículo 13, fracción III de la Ley de la materia .......... $ 302.000.00
+
+e).- Aeronaves .......... $ 1'933,700.00
+
+f).- Motocicletas .......... $ 420,500.00
+
+II.- El precio de la unidad típica de los vehículos del año modelo de aplicación de la Ley, así como de los años modelos anteriores a que hace referencia el artículo 6o., Apartado A, fracción I, inciso b) de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, será la que resulte de aplicar los siguientes factores:
+
+1989 1.00
+
+1988 1.18
+
+1987 3.10
+
+1986 6.04
+
+1985 10.32
+
+1984 17.10
+
+1983 40.89
+
+1982 71.31
+
+1981 88.99
+
+1980 115.51
+
+III.- Para los efectos de lo dispuesto en el artículo 12, último párrafo del artículo 13 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, el factor aplicable a las cantidades que en los mismos se señala es de 3.0.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1989.
