@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1991-01-05"
+last_updated: "1991-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1991.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -231,13 +231,15 @@ El cargo de Diputado es renunciable por causa que calificará el Congreso y por 
 
 El Congreso se instalará el día Primero de Octubre de cada año, tendrá un Primer periodo de Sesiones Ordinarias que principiará en la fecha expresada y concluirá el 15 de Enero del año siguiente, durante este período se ocupará:
 
-I.- Del examen y aprobación de las cuentas públicas del anterior.
+I.- (DEROGADA, P.O. 26 DE ENERO DE 1991)
 
 II.- Del examen, discusión y aprobación del Presupuesto fiscal siguiente.
 
 III.- De estudiar, discutir y votar las iniciativas de Leyes que se le remitan con carácter de urgente, así como de resolver toda clase de negocios, de esta índole.
 
-Tendrá el Congreso un Segundo Período de Sesiones Ordinarias de dos meses contados a partir del día 15 de Marzo de cada año, en el que se ocupará del estudio, discusión y votación de las iniciativas de Ley que se presenten, y de resolver los demás asuntos que le corresponda conforme a ésta Constitución.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1991)</small>
+
+Tendrá el Congreso un Segundo Período de Sesiones Ordinarias de 3 meses, contados a partir del día 15 de marzo de cada año, en el que se ocupará del estudio, discusión y votación de las Iniciativas de Ley que se presenten; del examen y aprobación de las Cuentas Publicas del año anterior y de resolver los demás asuntos que le correspondan conforme a esta Constitución.
 
 > <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
 
@@ -289,9 +291,9 @@ II.- Legislar sobre todos los Ramos de Administración o gobierno interiores que
 
 III.- Aprobar anualmente, los Presupuestos de Ingresos y Egresos del Estado, y decretar en todo tiempo las contribuciones que basten a cubrir los Egresos de los Municipios.
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 1991)</small>
 
-IV.- Aprobar o reprobar las cuentas de los caudales públicos, que deberá presentar la Secretaría de Programación y Finanzas dentro de los treinta días siguientes a la apertura del Periodo de Sesiones Ordinarias de cada año. En caso de que fueren reprobadas dichas cuentas, consignar al Ministerio Público a los presuntos delincuentes para la averiguación correspondiente y aplicación del castigo a los responsables.
+IV.- Aprobar o reprobar las cuentas de los caudales públicos, que deberá presentar la Secretaría de Programación y Finanzas del Gobierno del Estado, dentro de los sesenta días siguientes a la apertura del Segundo Periodo Ordinario de Sesiones de cada año, en caso de que fueren reprobadas dichas cuentas, consignar al Ministerio Público a los presuntos delincuentes para la averiguación correspondiente y aplicación del castigo a los responsables.
 
 (REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -2046,3 +2048,7 @@ P.O. 5 DE ENERO DE 1991.
 DECRETO No. 136, QUE REFORMA EL ARTICULO 86 BIS DE LA CONSTITUCION DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE ENERO DE 1991.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
