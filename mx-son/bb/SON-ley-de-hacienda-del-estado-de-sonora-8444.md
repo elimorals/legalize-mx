@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1987-12-10"
+last_updated: "1989-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -87,7 +87,7 @@ IV. (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL D
 
 ###### Artículo 10.
 
-El Impuesto se causará aplicando las bases mencionadas en el artículo anterior, la siguiente tarifa:
+El impuesto se causará:
 
 I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
@@ -97,9 +97,9 @@ III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL
 
 IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1989)</small>
 
-V.- Tratándose de predios rústicos ejidales o comunales, aprovechados para la producción agropecuaria, la tarifa será del 2%. En los casos de posesión provisional se estará a lo dispuesto por la fracción IV del Artículo 106 de la Ley Federal de Reforma Agraria. Cuando se desconozcan los precios rurales de venta, éstos serán fijados por el Ejecutivo a través de la Tesorería General del Estado;
+V.- Tratándose de predios rústicos ejidales o comunales, aprovechados para la producción agropecuaria, la tarifa será del 3%, en los casos de posesión provisional se estará a lo dispuesto en la fracción IV del Artículo 106 de la Ley Federal de Reforma Agraria. Cuando se desconozcan los precios de venta, éstos serán fijados por el ejecutivo a través de la Tesorería General del Estado;
 
 VI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
@@ -153,25 +153,25 @@ IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL 
 
 V.- Los empleados de la Tesorería General del Estado que dolosamente expidan certificados de no adeudo del Impuesto Predial;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1989)</small>
 
-VI.- Los adquirentes de productos ejidales o comunales y los intermediarios entre adquirentes y productores de los mismos están obligados:
+I (SIC).- Los adquirentes de productos ejidales o comunales y los intermediarios incluyendo a aquellos que procesen, empaquen o proporcionen tipo de maquila relacionados con dichos productos, así como a los que realicen trámites para efectos de su explotación, quienes estarán obligados además a:
 
-a).- A empadronarse en la oficina exactora de su Jurisdicción.
+A).- Registrarse en el Padrón Estatal de Contribuyentes en las oficinas recaudadoras de su jurisdicción.
 
-b).- A cerciorarse, al recibir el producto, de que se ha pagado el Impuesto y, de no acreditarse ello, a recaudarlo expidiendo el recibo de acuerdo con las normas establecidas; y;
+B).- Verificar de que se ha cubierto el impuesto y de no acreditarse dicho pago, retenerlo y enterarlo en la oficina recaudadora de su jurisdicción.
 
-c).- a presentar a la oficina exactora de su jurisdicción, dentro de los días 1o. al 20 de cada mes, una manifestación por cuadruplicado de los productos recibidos durante el mes anterior, enterando el importe del impuesto recaudado.
+C).- Presentar en dicha oficina recaudadora, dentro de los días 1º al 20 de cada mes, una manifestación por cuadruplicado, enterando el importe del impuesto retenido, en su caso.
 
 Esta manifestación deberá contener los siguientes datos:
 
-1).- Fecha en que se recibieron los productos gravados.
+1.- Fecha en que se recibieron los productos gravados o se realizó la prestación del servicio.
 
-2).- Nombre del propietario del producto.
+2.- Nombre del propietario del producto.
 
-3).- Cantidad de kilogramos del producto recibido.
+3.- Cantidad de kilogramo o unidad de medida que corresponda al producto.
 
-4).- Nombre y ubicación de los predios ejidales o comunales del que procedan, con expresión del Municipio en el que estén ubicados.
+4.- Nombre y ubicación de los predios ejidales o comunales del que proceden, con expresión del Municipio en el que estén ubicados.
 
 ###### Artículo 14.
 
@@ -221,7 +221,7 @@ a).- El valor de la producción anual comercializada, si se trata de terrenos ej
 
 b).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE JULIO DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1989)</small>
 
 #### Sección Cuarta. Definiciones
 
@@ -1817,9 +1817,13 @@ La base del Impuesto es el importe de la nomina mensual.
 
 Son sujetos del impuesto quienes realicen los pagos por remuneración al trabajo personal bajo la dirección y dependencia de un tercero y responsables solidarios quienes perciban dichos pagos, cuando quien los realiza resida fuera del Estado.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1989)</small>
+
 ###### Artículo 216.
 
-La tasa del impuesto será de 1% sobre el monto total de las remuneraciones pagadas en un mes o parte de él.
+La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones pagadas en un mes o parte de él, será del 2%.
+
+Cuando el pago por concepto de remuneraciones se realice por contribuyentes dedicados a actividades agrícolas y ganaderas, la tasa aplicable será del 1% siempre y cuando los productos no hayan sido objeto de transformación industrial.
 
 ###### Artículo 217.
 
@@ -4708,3 +4712,9 @@ B.O. 10 DE DICIEMBRE DE 1987.
 PRIMERO.- Esta Ley entrara en vigor en todo el Estado, el día 1o. de enero de 1988, previa su Publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los derechos causados conforme a las disposiciones vigentes con anterioridad a la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
+
+B.O. 26 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor previa su publicación en el Boletín Oficial del Gobierno del Estado el día 1º de enero de 1990.
