@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1920-02-26"
+last_updated: "1920-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE FEBRERO DE 1920.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE JULIO DE 1920.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -827,7 +827,7 @@ El Estado no tiene límites en lo relativo a modificar la propiedad privada en b
 
 ## TITULO UNDECIMO. REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 
-> <small>(REFORMADO, D.O. 6 DE ENERO DE 1920)</small>
+> <small>(REFORMADO, D.O. 2 DE JULIO DE 1920)</small>
 
 ###### Artículo 97.
 
@@ -875,7 +875,7 @@ Todos los contratos que el Gobierno o los municipios tengan que celebrar para la
 
 ###### Artículo 108.
 
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la Constitución, se requiere que el Congreso del Estado las apruebe por el voto de las dos terceras partes del número total de Diputados.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a formar parte de la Constitución, es indispensable que el Congreso del Estado las apruebe por el voto de las dos terceras partes del número total de Diputados.
 
 ###### Artículo 109.
 
@@ -930,3 +930,7 @@ D.O. 6 DE FEBRERO DE 1920.
 D.O. 26 DE FEBRERO DE 1920.
 
 Este Decreto comenzará a surtir sus efectos desde el día primero de marzo del año en curso.
+
+D.O. 2 DE JULIO DE 1920.
+
+Artículo Segundo.- Esta reforma entrará en vigor desde la fecha de su publicación en el DIARIO OFICIAL del Estado.
