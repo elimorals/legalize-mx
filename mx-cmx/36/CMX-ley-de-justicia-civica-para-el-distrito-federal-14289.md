@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-civica-para-el-distrito-federal-14289"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-01"
-last_updated: "2000-06-01"
+last_updated: "2004-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14289&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-05-07"
 
 LEY DE JUSTICIA CIVICA PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2000.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL, PUBLICADA EN LA GACETA OFICIAL EL 31 DE MAYO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 1° de junio de 1999.
 
@@ -1039,3 +1041,15 @@ En cumplimiento de lo dispuesto en el articulo 122, apartado C, Base Segunda, fr
 G.O. 1 DE JUNIO DE 2000.
 
 UNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O.. 31 DE MARZO DE 2004.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La presente Ley entrará en vigor a los sesenta días siguientes de su publicación.
+
+TERCERO.- Se abroga la Ley de Justicia Cívica para el Distrito Federal, a la entrada en vigor de la presente Ley.
+
+CUARTO.- En tanto se disponga de los medios informáticos necesarios, la Consejería establecerá el procedimiento para el Registro de Infractores.
+
+QUINTO.- El Consejo de Justicia Cívica se instalará dentro de los treinta días siguientes a la entrada en vigor de esta Ley, para cuyo efecto el Jefe de Gobierno y la Asamblea Legislativa del Distrito Federal designarán a los integrantes previstos en las fracciones VII y VIII del artículo 79, según corresponda, antes de dicha instalación.
