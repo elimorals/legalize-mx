@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-periodico-oficial-del-estado-de-nuevo-leon-10641"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-10"
-last_updated: "1996-07-10"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL PERIODICO OFICIAL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de julio de 1996.
 
@@ -77,9 +77,11 @@ El Periódico Oficial será editado con un tiraje suficiente de ejemplares para 
 
 ### CAPITULO II. DE LA DIRECCION DEL PERIODICO OFICIAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 8.
 
-La Secretaría General de Gobierno, es la encargada del Periódico Oficial, que será editado, publicado y conducido por un Responsable, que será nombrado por el Secretario General de Gobierno.
+La Secretaría General de Gobierno es la Dependencia del Poder Ejecutivo encargada de dirigir y ordenar la edición y publicación del Periódico Oficial del Estado de Nuevo León, así como de la organización y administración de la Imprenta de Gobierno.
 
 ###### Artículo 9.
 
@@ -155,9 +157,11 @@ Para los efectos de la venta del Periódico Oficial, la autoridad competente fij
 
 Para proceder a la publicación de los documentos a que se refiere el artículo 10 de esta Ley, deberán pagarse los derechos que establezca la Ley de Hacienda del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 17.
 
-Todos los documentos que deban ser publicados, deberán hacerse llegar a la Dirección del Periódico Oficial, a más tardar a las 12:00 horas, del día anterior al que se realizará la publicación.
+Todos los documentos que deban ser publicados deberán presentarse por los interesados en la Unidad Administrativa de la Secretaría General de Gobierno que sea responsable del Periódico Oficial del Estado, en original o copia certificada, a más tardar a las 18:00 del día anterior al en que deba realizarse la publicación. Sólo en casos de urgencia y a petición expresa de los interesados el titular de la unidad administrativa responsable del Periódico Oficial del Estado podrá habilitar un período adicional para la recepción de documentos.
 
 ### CAPITULO IV. DE LAS FE DE ERRATAS
 
@@ -202,3 +206,13 @@ BENJAMIN CLARIOND REYES-RETANA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JUAN FRANCISCO RIVERA BEDOYA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero.- La Secretaría General de Gobierno, la Secretaría de Finanzas y Tesorería General del Estado, la Oficialía Mayor y la Secretaría de Seguridad Pública, se coordinarán para la realización de los trámites conducentes para el debido cumplimiento del artículo 8 reformado en virtud de este Decreto.
