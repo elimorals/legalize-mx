@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1976-01-24"
+last_updated: "1977-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE ENERO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE ENERO DE 1977.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -587,7 +587,9 @@ XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador
 
 XVII. Para constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador en sus faltas absolutas y en sus faltas temporales cuando éstas excedan de un mes.
 
-XVIII. Para aprobar o rechazar los nombramientos de los Magistrados al Supremo Tribunal de Justicia, que sean hechos por el Ejecutivo.
+> <small>(REFORMADA, B.O. 22 DE ENERO DE 1977)</small>
+
+XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, que sean hechos por el Ejecutivo.
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
@@ -638,6 +640,10 @@ XLI. Para conceder permiso al Gobernador del Estado a fin de que pueda asumir el
 XLII. Para extender credenciales de senadores al Congreso de la Unión, por el Estado, a los ciudadanos que obtuvieren la mayoría de votos.
 
 XLIII. Para expedir leyes o reglamentos concernientes a la recta aplicación de la Ley Federal del Trabajo, en las materias que ésta encomienda a las autoridades estatales.
+
+> <small>(ADICIONADA, B.O. 22 DE ENERO DE 1977)</small>
+
+XLIII Bis. Para instituir Tribunales de lo Contencioso Administrativo dotados de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la administración pública y los particulares, estableciendo las normas para su organización, funcionamiento, procedimiento, y los requisitos que deben reunir el o los Magistrados
 
 XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
@@ -877,9 +883,9 @@ XXII. Hacer observaciones por una sola vez en el improrrogable término de diez 
 
 XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, B.O. 22 DE ENERO DE 1977)</small>
 
-XXIV. Nombrar y remover libremente al Secretario y Subsecretario de Gobierno, Procurador General de Justicia y Tesorero General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia, sometiéndola a la aprobación del Congreso.
+XXIV. Nombrar y remover libremente al Secretario y Subsecretario de Gobierno, Procurador General de Justicia y Tesorero General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo, sometiéndola a la aprobación del Congreso.
 
 XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
@@ -921,7 +927,9 @@ Le está prohibido al Gobernador:
 
 I. Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso del Congreso, o en su receso, de la Diputación Permanente.
 
-II. Recomendar asuntos a las autoridades judiciales; contrariar en cualquier forma las resoluciones dictadas por éstas, y disponer de los reos durante los procesos.
+> <small>(REFORMADA, B.O. 22 DE ENERO DE 1977)</small>
+
+II. Recomendar asuntos a las autoridades judiciales y a las autoridades del Tribunal de lo Contencioso Administrativo; contrariar en cualquier forma las resoluciones dictadas por éstas, y disponer de los reos durante los procesos.
 
 III. Oponerse y hacer observaciones a los acuerdos del Congreso en que se le pidan informes sobre asuntos públicos.
 
@@ -1505,19 +1513,15 @@ Todos los funcionarios y empleados del Estado y de los Municipios serán respons
 
 El Gobernador, durante el período de su encargo, sólo podrá ser encausado por traición a la Patria, por violación de esta Ley, ataque de la libertad electoral y delitos graves del orden común.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, B.O. 22 DE ENERO DE 1977)</small>
 
-###### Articulo 144.
+###### Artículo 144.
 
-El Gobernador, los Diputados, Magistrados, el Procurador General de Justicia, Secretario y Subsecretario de Gobierno y Tesorero General no podrán ser procesados por delitos comunes u oficiales sin declaración previa del Congreso, erigido en Gran Jurado, de haber lugar a formación de causa. Para que el Congreso haga esa declaración se requiere el voto de las dos terceras partes de sus miembros cuando se trate del Gobernador, y por mayoría absoluta respecto de los demás funcionarios. Tratándose de delitos comunes, hecha la declaración indicada, el acusado quedará separado desde luego de su encargo y sujeto a la acción de los tribunales. Tratándose de delitos oficiales, hecha la declaración quedará también separado de su cargo y a disposición del Supremo Tribunal, a fin de que se le instruya el proceso respectivo. El acusado y su defensor y el Procurador General de Justicia serán oídos en los términos de Ley.
+El Gobernador, los Diputados, Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia, Secretario y Subsecretario de Gobierno, y Tesorero Gral. no podrán ser procesados por delitos comunes u oficiales sin declaración previa del Congreso, erigido en Gran Jurado, de haber lugar a formación de causa. Para que el Congreso haga esa declaración se requiere el voto de las dos terceras partes de sus miembros cuando se trate del Gobernador, y por mayoría absoluta respecto de los demás funcionarios. Tratándose de delitos comunes, hecha la declaración indicada, el acusado quedará separado desde luego de su encargo y sujeto a la acción de los tribunales. Tratándose de delitos oficiales, hecha la declaración quedará también separado de su cargo y a disposición del Supremo Tribunal, a fin de que se le instruya el proceso respectivo, el acusado y su defensor y el Procurador General de Justicia serán oídos en los términos de ley.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Si la declaración del Congreso fuere en sentido negativo no habrá lugar a procedimiento ulterior, pero tal declaración no será obstáculo para que pueda formularse acusación ante los tribunales cuando el funcionario haya dejado de tener fuero, pues la resolución de Congreso no prejuzga absolutamente sobre los fundamentos de la acusación.
 
-Si la declaración del Congreso fuere en sentido negativo no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que pueda formularse acusación ante los tribunales cuando el funcionario haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
-
-En los casos de este artículo las resoluciones del Gran Jurado y la declaración de la Cámara son inatacables.
+En los casos de este artículo las resoluciones del Gran Jurado y la declaración de la Cámara son inafectables.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1885,7 +1889,7 @@ Para el presente período gubernamental, que terminará el día 31 de agosto de 
 
 ###### ARTICULO SEGUNDO.
 
-Por esta sola ocasión, el Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
+Por esta sola ocasión, el Congreso del Estado, designará a un Gobernador Provisional para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 de del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
 
 ###### ARTICULO TERCERO.
 
@@ -1928,6 +1932,10 @@ Por esta única vez se prorroga el término para que el Gobernador sustituto del
 ###### ARTICULO SEGUNDO.
 
 Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 22 DE ENERO DE 1977.
+
+UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
