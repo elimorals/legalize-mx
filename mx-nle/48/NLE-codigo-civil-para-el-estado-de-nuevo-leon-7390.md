@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1982-12-29"
+last_updated: "1982-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1982.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -349,7 +349,7 @@ Los testigos que intervengan en las actas del Registro Civil deberán ser cuando
 
 ###### Art. 51.
 
-La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán probarse judicialmente.
+La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán probarse judicilamente.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -14739,9 +14739,11 @@ Los interesados deberán presentar para su registro los documentos por duplicado
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
 ###### Art. 2910.
 
-Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituído, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro solo surtirá efectos desde la fecha de la presentación.
+Una vez que se firme una escritura en que se adquiera, trasmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha trasmitido o modificado su dominio o se ha constituído, trasmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y previo pago de los derechos correspondientes, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el Registro definitivo. Si el testimonio se presenta después, su registro solo surtirá efectos desde la fecha de la presentación.
 
 Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, las autoridades de que habla la fracción III del artículo 2903, y el mencionado aviso producirá los mismos efectos que el dado por el notario.
 
@@ -15080,3 +15082,13 @@ P.O. 29 DE DICIEMBRE DE 1982.
 ###### ARTICULO SEGUNDO
 
 - Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 31 DE DICIEMBRE DE 1982.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de enero de 1983.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que contraríen o se opongan al contenido de este Decreto.
