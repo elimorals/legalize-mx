@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-proteccion-civil-16135"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-05-12"
-last_updated: "2001-12-29"
+last_updated: "2003-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16135&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPC"
 
 LEY GENERAL DE PROTECCION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el viernes 12 de mayo de 2000.
 
@@ -80,7 +80,9 @@ III.- Programa Nacional: Al Programa Nacional de Protección Civil.
 
 IV.- Protección Civil: Conjunto de disposiciones, medidas y acciones destinadas a la prevención, auxilio y recuperación de la población ante la eventualidad de un desastre.
 
-V.- Prevención: Acciones dirigidas a controlar riesgos, evitar o mitigar el impacto destructivo de los desastres sobre la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+V. Prevención: Conjunto de acciones y mecanismos tendientes a reducir riesgos, así como evitar o disminuir los efectos del impacto destructivo de los fenómenos perturbadores sobre la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente;
 
 VI.- Auxilio: Acciones destinadas primordialmente a salvaguardar la vida de las personas, sus bienes y la planta productiva y a preservar los servicios públicos y el medio ambiente, ante la presencia de un agente destructivo.
 
@@ -118,11 +120,13 @@ XXII.- Secretaría de Gobernación: La Secretaría de Gobernación del Gobierno 
 
 ###### Artículo 4o.
 
-Corresponde al Poder Ejecutivo Federal:
+Corresponde al Ejecutivo Federal:
 
 I.- Dictar los lineamientos generales para inducir y conducir las labores de protección civil, a fin de lograr la participación de los diferentes sectores y grupos de la sociedad.
 
-II.- Incluir en el Proyecto de Presupuesto de Egresos de la Federación el Fondo de Desastres, y los montos para su operación, conforme a las disposiciones aplicables, cuya coordinación será responsabilidad de la Secretaría de Gobernación;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+II. Incluir en el proyecto de Presupuesto de Egresos de la Federación, el Fondo de Desastres y el Fondo para la Prevención de Desastres, estableciendo los montos para la operación de cada uno de ellos, conforme a las disposiciones aplicables, cuya coordinación será responsabilidad de la Secretaría de Gobernación;
 
 III.- Emitir declaratorias de emergencia o de desastre, en los términos del Capítulo VI de esta Ley; y
 
@@ -499,3 +503,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para efecto de la realización de acciones preventivas, con cargo al remanente del fondo de desastres, este mecanismo operará a partir del año 2002, de los recursos asignados al mismo en el Presupuesto de Egresos de la Federación para el ejercicio del año 2001.
 
 TERCERO.- En tanto se expiden las disposiciones administrativas que regulan la asignación de recursos del fondo de desastres pera acciones preventivas a que se refiere el presente Decreto, se aplicarán en lo conducente las Reglas de Operación del Fondo del Desastres.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- El Ejecutivo Federal expedirá las Reglas Relativas al Fondo de Prevención de Desastres, en un plazo no mayor a 90 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
