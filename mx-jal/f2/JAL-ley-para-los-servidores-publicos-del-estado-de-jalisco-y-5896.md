@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2004-08-26"
+last_updated: "2004-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -757,7 +757,7 @@ Los servidores públicos que otorguen o reciban estímulos o compensaciones en c
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-Art. 54 bis 1. Son irrenunciables los salarios devengados, indemnizaciones y demás prestaciones otorgados en los términos de la ley que se deriven de los servicios prestados.
+Art. 54 bis 1.- Son irrenunciables los salarios devengados, indemnizaciones y demás prestaciones otorgados en los términos de la ley que se deriven de los servicios prestados.
 
 Queda prohibido para todo servidor público, otorgar o recibir prestaciones distintas a las establecidas en esta ley y demás disposiciones legales aplicables.
 
@@ -1117,11 +1117,15 @@ Tratándose de sindicatos nacionales o federales reconocidos por el Gobierno del
 
 En los casos de violación a lo dispuesto por el Art. 81, el Tribunal de Arbitraje y Escalafón determinará la cancelación del Registro del Comité Ejecutivo Sindical o la del propio Sindicato.
 
-###### Art. 86.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
-Los Sindicatos formarán una Federación de Sindicatos de servidores públicos. El Estado no podrá reconocer sino una sola Federación.
+###### Artículo 86.
 
-Los Directivos designados por elección directa de los Sindicatos agremiados, durarán en su encargo un término que no excederá de tres años.
+Los sindicatos formarán una Federación de Sindicatos de Servidores Públicos. El Estado reconocerá las federaciones que cumplan con los requisitos mínimos de ley.
+
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2004)</small>
+
+Los directivos designados por elección directa de los Sindicatos agremiados, durarán en su cargo un término que no excederá de tres años.
 
 ###### Art. 87.
 
@@ -1655,9 +1659,33 @@ Si no obstante la sanción prevista en el párrafo segundo y subsecuentes, se pe
 
 Los magistrados del Tribunal de Arbitraje y Escalafón tendrán la responsabilidad de hacer cumplir los laudos. La negativa de decretar la suspensión temporal de algún servidor público que incurriere en alguna de las causas señaladas en el presente artículo, será motivo para que a dichos funcionarios se les aplique la sanción que corresponda en acatamiento a la Ley de Responsabilidades de los Servidores Públicos, salvo que se trate de servidores públicos de otros poderes, niveles de gobierno o municipios, en cuyo caso remitirán las constancias de las actuaciones que se hubieren efectuado al servidor o servidores públicos encargados de aplicar la sanción correspondiente.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Art. 144.
 
-Los conflictos que surjan entre la Federación de Sindicatos de Servidores Públicos y los Sindicatos que la integren, o sólo entre éstos, se resolverán por el Tribunal de Arbitraje y Escalafón, mediante el procedimiento que se establece en este Capítulo.
+Los conflictos que surjan entre las federaciones de sindicatos de servidores públicos, los sindicatos que las integren o sólo entre éstos, se resolverán por el Tribunal de Arbitraje y Escalafón, mediante el procedimiento que se establece en este capítulo.
+
+Resolverá en cuanto a las condiciones generales de trabajo, la determinación de la pérdida de la mayoría de los servidores públicos y la titularidad del mismo, así como la administración de las condiciones generales de trabajo, que corresponderá al que represente el mayor número de servidores públicos. La pérdida de la mayoría de trabajadores producirá la titularidad de la administración.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 144 bis. El procedimiento se iniciará con la presentación del escrito de demanda, en el cual el actor podrá ofrecer sus pruebas ante el Tribunal de Arbitraje y Escalafón, citando a una Audiencia de Conciliación, Demanda y Excepciones, Pruebas y Resolución, la que deberá efectuarse dentro de los quince días hábiles siguientes a la fecha en que se haya presentado la demanda.
+
+El Tribunal al citar al demandado, lo apercibirá que de no concurrir a la audiencia dará por admitidas las peticiones de la parte actora, en dicha audiencia el Tribunal procurará avenir a las partes, de no ser posible cada parte expondrá lo que juzgue conveniente, formularán peticiones y ofrecerán y rendirán las pruebas que hayan sido admitidas, y si se ofrece el recuento de los servidores públicos se estará a lo siguiente:
+
+I. El Tribunal solicitará a la entidad pública a la que pertenezcan los sindicatos en conflicto, el listado que contenga la totalidad de la plantilla de los trabajadores de base, debiendo remitir dicho listado en un término no mayor de cinco días hábiles al Tribunal de Arbitraje y Escalafón.
+
+En caso de incumplimiento en la entrega del listado de la plantilla de trabajadores, que se le solicite, el Tribunal de Arbitraje y Escalafón aplicará una multa a la entidad pública de que se trate, de mil a tres mil días de salario mínimo vigente de la zona metropolitana del Estado de Jalisco y, en caso de reincidir en incumplimiento de lo que se le requiere, se suspenderá al titular de la dependencia que se trate, hasta por quince días en el cargo;
+
+II. El Pleno del Tribunal de Arbitraje y Escalafón por conducto de su Secretario General emitirá certificación respecto de la totalidad de los trabajadores afiliados a cada uno de los sindicatos con base a la plantilla proporcionada por la entidad pública de que se trate de trabajadores en activo, debiendo asentar el número de miembros afiliados a cada uno de los sindicatos registrados que pertenezcan a la multicitada entidad pública de que se trate;
+
+III. En caso de que uno o varios de los trabajadores en activo se encuentren registrados en más de un sindicato se tomarán como votos nulos;
+
+(F. DE E., P.O. 2 DE NOVIEMBRE DE 2004)(F. DE E., P.O. 7 DE DICIEMBRE DE 2004)
+
+IV. No computarán los votos de los servidores públicos de confianza, ni de los servidores públicos que hayan ingresado al trabajo con posterioridad a la fecha de presentación del escrito de titularidad; y
+
+V. Las objeciones de los servidores públicos que concurran al recuento, deberán hacerse en el acto mismo de la audiencia de ofrecimiento y rendición de pruebas.
 
 ###### Art. 145.
 
@@ -2254,3 +2282,9 @@ P.O. 26 DE AGOSTO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Publíquese el presente decreto en uno de los periódicos de mayor circulación en el Estado, de conformidad a lo establecido en los artículos 15 y 16 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
