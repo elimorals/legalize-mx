@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-transito-del-estado-de-puebla-7742"
 country: "mx"
 rank: "reglamento"
 publication_date: "1976-09-30"
-last_updated: "1984-10-19"
+last_updated: "1989-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "PUE"
 
 REGLAMENTO DE TRANSITO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1989.
 
 Reglamento promulgado por el Poder Ejecutivo del Estado de Puebla, el jueves 30 de septiembre de 1976.
 
@@ -594,189 +594,173 @@ De los conductores de vehículos.
 
 De las Licencias Para Conducir.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
+
 ###### ARTÍCULO 60.
 
-Ninguna persona podrá conducir vehículos que son materia de este Reglamento, con excepción de las bicicletas, triciclos, carros de mano y vehículos de tracción animal, si no cuenta con la licencia que le será expedida por la Dirección de Tránsito del Estado, cuando el interesado haya satisfecho los requisitos que señala este ordenamiento.
+Ninguna persona podrá conducir vehículos que son materia de este Reglamento, con excepción de las bicicletas, triciclos, carros de mano y vehículos de tracción animal, si no cuenta con la licencia que le será expedida por la Dirección de Tránsito, cuando el interesado haya satisfecho los requisitos que señala este ordenamiento.
 
-La misma Dirección podrá autorizar a las Delegaciones de Tránsito para tramitar las solicitudes, pero siempre será aquella la que las expida.
+La Dirección podrá autorizar a las Delegaciones de Tránsito, para tramitar las solicitudes de licencias, pero siempre será aquella la que las expida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 61.
 
-Para los efectos de este Reglamento, los conductores de vehículos se clasifican en: Automovilistas, choferes, operadores de servicio público, motociclistas, motonetistas y ciclistas.
+Los conductores de vehículos se clasifican en automovilistas, choferes, motociclistas, motonetistas y ciclistas:
 
-I.- AUTOMOVILISTAS.- Son los conductores de automóviles o vehículos análogos (Pik- Up y panel) de su pertenencia o de propiedad ajena, que no presten servicio al público y que por consiguiente no reciban retribución alguna. Si el vehículo a conducir excede de su capacidad de mil kilos, requiere el conductor licencia de chofer.
+I.- Automovilistas.- Son los conductores de automóviles propios o ajenos destinados al uso privado.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+II.- Choferes.- Son los conductores de automóviles, camiones o autobuses propios o ajenos, destinados al servicio público de transporte o de vehículos que excedan de la capacidad de mil kilos.
 
-II.- CHOFERES.-Son los conductores de automóviles, camiones o camionetas destinados al servicio de transporte público o particular de carga.
+II.- Motociclistas.- Son los conductores de vehículos de dos o tres ruedas de combustión interna.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+IV.- Motonetistas.- Son los conductores de motonetas o bicicletas con motor que no excedan de 2.5 caballos de potencia.
 
-III.- OPERADORES DEL SERVICIO PÚBLICO.- Son los conductores de autobuses, camionetas, o automóviles destinados al servicio público para el transporte de pasajeros, ya sea en vehículos de su propiedad o de otra persona, quien los remunerará por esa actividad que desempeñan.
+V.- Ciclistas.- Son los conductores de bicicletas sin motor.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
-
-IV.- MOTOCICLlSTAS.-Son los conductores de vehículos de dos o tres ruedas, de combustión interna, pudiendo ser de cualquier capacidad o tamaño.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1984)</small>
-
-V.- MOTONETISTAS.-Son los conductores de motonetas o bicicletas con motor que no excedan de 2.5 caballos de potencia.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1984)</small>
-
-VI.- CICLISTAS.-Son los conductores de bicicletas sin motor.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 62.
 
-La autorización para automovilistas, motociclistas, (vehículos de más de 2.5 caballos de potencia), se expedirá a quienes satisfagan los requisitos siguientes:
+Las licencias para automovilistas, motociclistas y motonetistas se expedirán a quienes satisfagan los siguientes requisitos:
 
-I.- Tener cuando menos 17 años de edad cumplidos, lo que se comprobará por medio de la copia certificada del acta de nacimiento, o en su defecto, por los medios que conceda el derecho común.
+l.- Haber cumplido 17 años. Lo que se acreditará por cualquier medio legal.
 
-II.- Formular la solicitud conforme al modelo que se adquirirá en las Cajas de la Secretaría de Finanzas adscritas a la Dirección de Transito, así como acompañar cinco retratos de frente y uno de perfil, de 3.5 por 4.5 centímetros, sin retoque y en fondo blanco. En la solicitud se contendrán las causas por las que proceda la suspensión o cancelación de la licencia
+II.- Presentar solicitud. El modelo se adquirirá en la Secretaria de Finanzas.
 
-III.- Autorización del que ejerza la patria potestad o tutela, en su caso, mediante la cual se responsabilice por el menor en las violaciones al presente Reglamento y daños a terceros.
+III.- Retratos. Si la solicitud se presentare en una Delegación de Tránsito.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+IV.- Acompañar escrito en el que se declare bajo protesta:
 
-IV.- Presentar la cartilla del Servicio Militar Nacional, debidamente liberada, cuando se encuentren en edad militar, o en su defecto, certificado de la Autoridad, Militar correspondiente.
+a).- Que se está apto física y mentalmente para conducir vehículos.
 
-V.- Sujetarse a examen del médico adscrito a la Dirección de tránsito, y en caso de las Delegaciones, del Titular del Centro de Salud, para comprobar su aptitud física y mental, así como ser identificado por medio de los sistemas adoptados por la Dirección de Transito.
+b).- Que se tiene la enseñanza y experiencia necesaria.
 
-VI.- Sustentar examen para acreditar su pericia en el manejo del vehículo respectivo y conocimiento de los artículos fundamentales de esta Reglamento.
+c).- Que se carece de antecedentes penales, abarcando un período no menor de cinco años.
 
-VII.- Efectuar el pago de los derechos correspondientes.
+V.- Ratificación del documento anterior. Con el apercibimiento al solicitante del contenido del artículo 254 fracción I del Código de Defensa Social.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+VI.- Comprobar documental mente lo relativo al Servicio Militar Nacional.
 
-VIII.- Presentar constancia de antecedentes no penales, de las autoridades de Policía del lugar de su residencia, comprendiendo un período de 5 años anteriores a la fecha de su solicitud.
+VII.- Comprobar la estancia legal en el país si se es extranjero.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+VIII.- Los menores de edad exhibirán la autorización de quien ejerza la patria potestad o la tutela, quienes se harán solidarios de la responsabilidad civil en que aquellos incurran.
 
-IX.- Tratándose de extranjeros, tendrán que comprobar su legal estancia en el País, quedando exentos del requisito señalado en la fracción IV.
+IX.- Efectuar el pago de los derechos correspondientes.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
-
-Los solicitantes que radiquen fuera de la capital del Estado deberán presentar además, una constancia de antecedentes no penales extendida por el Ciudadano Presidente Municipal del lugar de su residencia.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 63.
 
-Para obtener licencia de chofer, el interesado tendrá que satisfacer los requisitos del artículo anterior, en lo conducente, y además, los siguientes:
+Para obtener la licencia de chofer, el interesado tendrá que satisfacer los requisitos del artículo anterior, en lo conducente, y además, los siguientes:
 
-I.- Ser mexicano por nacimiento o naturalización.
+l.- Ser mexicano por nacimiento o naturalización.
 
-II.- Tener cuando menos 18 años de edad cumplidos, lo que comprobará con la copia certificada del acta de nacimiento expedida por el Juzgado del Registro del Estado Civil, o en su defecto, por el medio legal previsto por el Código Civil vigente en el Estado.
+Il.- Haber cumplido 18 años. Lo que se acreditará por cualquier medio legal.
 
-III.- Formular solicitud con los datos que expresa el modelo que adquirirá en las Cajas de la Secretaría de Finanzas adscritas a la Oficina de Tránsito y acompañar cinco retratos de frente y uno de perfil, de 3.5 y 4.5 centímetros, en fondo blanco y sin retoque. En la solicitud se contendrán las causas por las que proceda la suspensión o cancelación de la licencia.
+III.- Saber leer y escribir.
 
-IV.- Presentar certificado de Instrucción Primaria o en su caso, demostrar que sabe leer y escribir.
+IV.- Sujetarse al examen médico para que se determine su estado de salud física y mental y además para saber si el aspirante es víctima de una enfermedad crónica, incurable, contagiosa o venérea y si es afecto a las bebidas embriagantes o drogas enervantes. Con lo que se resolverá lo concerniente a la licencia solicitada.
 
-V.- Sujetarse al examen médico prevenido para los automovilistas y además, para saber si el aspirante es víctima de una enfermedad crónica, incurable, contagiosa o venérea, y si es afecto a las bebidas embriagantes o drogas enervantes. En estos casos se negará la autorización solicitada.
+V.- Presentar examen especial relacionado con el funcionamiento de motores de combustión interna y de partes esenciales de automóviles y camiones, así como nomenclatura de la ciudad, disposiciones y señalamientos del presente Reglamento.
 
-VI.- Presentar examen especial relacionado con el funcionamiento de motores de combustión interna y de partes esenciales de automóviles y camiones, así como nomenclatura de la ciudad, disposiciones y señalamientos del presente Reglamento.
+VI.- Acompañar a la solicitud dos cartas de recomendación de personas de reconocida honorabilidad y solvencia moral.
 
-VII.- Acompañar a la solicitud dos cartas de recomendación de personas de reconocida honorabilidad y solvencia moral.
+VII.- Constituir el interesado un depósito en efectivo ante la Secretaría de Finanzas del Gobierno del Estado, por la cantidad de dos mil pesos.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+VIII.- Aprobar el curso de relaciones humanas que impartirá el instituto de capacitación y educación vial de la Dirección de Tránsito.
 
-VIII.- Constituir el interesado un depósito en efectivo ante la Secretaría de Finanzas del Gobierno del Estado, por la cantidad de DOS Mil PESOS.
-
-IX.- Efectuar el pago por los derechos correspondientes.
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 64.
 
-Para obtener licencia de operador del servicio público, el aspirante deberá acreditar ante la Dirección de Tránsito tener licencia de chofer, con antigüedad de dos años por lo menos, expedida por cualquier Entidad Federativa, y además:
+Para la conducción de autobuses y camiones de carga, de servicio privado o público, y automóviles de alquiler, el aspirante acreditará tener licencia de chofer con antigüedad de dos años, por lo menos. El propietario del vehículo que emplee a un chofer que no tenga la antigüedad a la que se refiere este precepto, será sancionado, sin perjuicio de la responsabilidad que pudiera resultar para ambos en caso de accidente.
 
-I.- Presentar certificado médico expedido por algún Centro de Salud Oficial que acredite que el aspirante se encuentra física y mentalmente apto.
-
-II.- Presentar constancia de antecedentes no penales.
-
-III.- Aprobar un curso de educación vial, según programa que determine la Dirección de Tránsito.
-
-IV.- Acreditar tener conocimientos de mecánica automotriz.
-
-V.- Otorgar un depósito en efectivo, ante la Secretaria de Finanzas del Gobierno del Estado, por la cantidad de $3,000.00.
-
-VI.- Efectuar el pago de los derechos correspondientes.
-
-Esta licencia tendrá vigencia de tres años contados a partir de su expedición y podrá ser renovada, siempre y cuando se cumpla con los requisitos señalados.
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 65.
 
-Los operadores de maquinaria móvil de construcción y de tractores, deberán obtener licencia de chofer de la Dirección de Tránsito con iguales derechos para manipular aparatos de combustión interna en carreteras y caminos vecinales.
+Los conductores de maquinaria móvil de construcción deben obtener licencia de chofer de la Dirección de Tránsito.
+
+Los conductores de tractores, conocidos como tractoristas, requerirán licencia de chofer o automovilista.
 
 ###### ARTÍCULO 66.
 
-En cuanto a permisos para manejar motonetas, éstos se expedirán a quienes satisfagan los requisitos del Artículo 62 fracciones II, IV, VI, VIII, y IX, quedando sujetos además a las siguientes obligaciones:
+(DEROGADO, P.O. 25 DE AGOSTO DE 1989)
 
-I.- Comprobar ser mayor de 16 años, en términos del Código Civil.
-
-II.- Presentar autorización por escrito del padre o tutor, en caso de ser menor de edad, en la que se responsabilice por la violaciones al presente Reglamento y daños a terceros.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 67.
 
-Es facultad discrecional del Director de Tránsito otorgar permisos para conducir motonetas, motocicletas y automóviles particulares a menores con 16 años cumplidos, siempre y cuando reúnan los siguientes requisitos:
+Es facultad discrecional del Director de Tránsito otorgar permisos para conducir motonetas, motocicletas y automóviles particulares a menores de 17 años y mayores de 16, siempre y cuando reúnan los siguientes requisitos:
 
-I.- Exhibir acta de nacimiento.
+I.- Formular solicitud por escrito, acompañando dos fotografías.
 
-II.- Autorización del que ejerza la patria potestad o tutela, mediante la cual se responsabilice por las violaciones a este Reglamento y daños a terceros.
+II.- Exhibir acta de nacimiento.
 
-III.- Sustentar examen para acreditar su pericia en el manejo del vehículo respectivo y conocimiento de los Artículos fundamentales de este Reglamento.
+III.- Presentar autorización de quien ejerza la patria potestad o tutela, con la manifestación de hacerse solidarios de la responsabilidad en que incurran los menores.
 
-IV.- Formular solicitud por escrito, acompañando dos fotografías.
+IV.- Sustentar examen para acreditar su pericia en la conducción del vehículo respectivo y conocimiento de los artículos fundamentales de este Reglamento.
 
-V.- Hacer el pago de los derechos respectivos en términos de la Ley de Ingresos del Estado.
+V.- Hacer el pago de los derechos correspondientes.
 
-Los permisos a que se refiere esta disposición deberán refrendarse bimestralmente y su omisión será sancionada como “falta de licencia”.
+Los permisos a que se refiere esta disposición deberán refrendarse bimestralmente y su omisión será sancionada como falta de licencia.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 68.
 
-Para el manejo de bicicletas no se requiere autorización especial, pero los interesados deberán estar instruidos en las disposiciones conducentes de este Reglamento y sus sanciones; circunstancias que demostrarán, en caso necesario, ante la Dirección de Tránsito o Delegación que corresponda.
+Para la conducción de bicicletas no se requiere licencia, pero los ciclistas deberán estar instruidos en las disposiciones conducentes de este Reglamento y sus sanciones; circunstancias que demostrarán en caso necesario, ante la Dirección de Tránsito o Delegación que corresponda.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 69.
 
-Las licencias serán válidas por tres años, debiendo ser refrendadas al cumplirse este término.
-
-Cuando se conduzca con licencias no refrendadas, se aplicará a sus titulares la sanción como “falta de licencia”.
+Las licencias deberán ser refrendadas cada tres años, no hacerlo implicará, conducir sin licencia.
 
 ###### ARTÍCULO 70.
 
 Los conductores de vehículos que por disposiciones del servicio médico de la Dirección de Tránsito, necesiten usar anteojos, deberán llevarlos permanentemente consigo, haciéndose esta anotación en su licencia.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
+
 ###### ARTÍCULO 71.
 
-Los poseedores de licencias para manejar que a juicio de la Dirección o Delegación de Tránsito correspondiente, se encuentren rotas o deterioradas o ilegibles, están obligados a solicitar su reposición.
+Los poseedores de licencias para conducir que se encuentren rotas, deterioradas o ilegibles, están obligados a solicitar su reposición.
 
-La Dirección de Tránsito expedirá una nueva licencia al solicitante, previo pago de los derechos respectivos, recogiendo el original deteriorado.
+La Dirección de Tránsito expedirá una nueva licencia al solicitante, previo pago de los derechos respectivos, recogiendo el original deteriorado; el incumplimiento de esta obligación implicará conducir sin licencia.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 72.
 
-Se expedirán permisos provisionales para el manejo de vehículos, en los casos de pérdida o deterioro de la licencia legalmente expedida, previa la comprobación de que no le ha sido recogida al solicitante, por infracción. En todo caso, esta clase de permisos sólo serán válidos por diez días y podrán concederse si el interesado solicita el duplicado de la licencia y reúne los requisitos establecidos en este Reglamento.
+Se expedirán permisos para conducir vehículos, en los casos de pérdida o deterioro de la licencia, previa la comprobación de que no le ha sido recogida al solicitante, por infracción. Esta clase de permisos sólo serán válidos por diez días y podrán concederse si el interesado, solicita el duplicado de la licencia y reúne los requisitos establecidos en este Reglamento.
 
-En casos excepcionales y bajo la responsabilidad del Director de Tránsito, podrán expedirse permisos hasta por 30 días, mientras el interesado satisface los requisitos reglamentarios para obtener su licencia, previo el pago de los derechos respectivos.
+En casos excepcionales y bajo la responsabilidad del Director de Tránsito, podrán expedirse permisos hasta por treinta días, mientras el interesado satisface los requisitos reglamentarios para obtener su licencia, previo el pago de los derechos respectivos.
 
 ###### ARTÍCULO 73.
 
 La Dirección de Tránsito o sus Delegaciones, en su caso, podrán expedir permiso de aprendizaje de automovilista o chofer, siempre que el interesado llene los requisitos que establecen las fracciones I, II, IV y V del Artículo 67, pero el aprendizaje sólo podrá realizarse durante el día, fuera de las zonas de intenso tránsito y bajo la vigilancia de personas con licencia autorizada. Estos permisos serán válidos hasta por sesenta días, previo el pago de los derechos respectivos, de conformidad con las disposiciones de la Ley de Ingresos del Estado. Tratándose de permisos de aprendizaje de chofer, deberán tener los solicitantes cuando menos dieciocho años cumplidos.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
+
 ###### ARTÍCULO 74.
 
-Las licencias y permisos que expidan las oficinas de Tránsito son intransferibles. Las licencias llevarán anexas la identificación del titular.
+Las licencias y permisos que expidan las oficinas de Tránsito son intransferibles.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 75.
 
-Queda prohibido a los conductores y propietarios de vehículos, permitir que éstos sean conducidos por personas que carezcan de licencia o permiso. Serán indistintamente responsables de la infracción de este Artículo y de los daños y perjuicios que se causen por el conductor.
+Queda prohibido a los conductores y propietarios de vehículos, permitir que éstos sean conducidos por personas que carezcan de licencia o permiso. Serán indistintamente responsables de la infracción de este artículo y de los daños y perjuicios que se causen por el conductor.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1989)</small>
 
 ###### ARTÍCULO 76.
 
-Las personas que tengan licencia para manejar expedidas por autoridades de Tránsito de otra Entidad Federativa, podrán conducir vehículos particulares en el Estado de Puebla que se encuentren inscritos a su nombre.
+Las personas que tengan licencia para conducir expedida por autoridades de Tránsito de otra entidad federativa, podrán conducir vehículos particulares en el Estado de Puebla que se encuentren Inscritos a su nombre.
 
-Tratándose de extranjeros, sólo podrán conducir vehículos registrados en el lugar donde les fue expedida su licencia.
+Los extranjeros, sólo podrán conducir vehículos registrados en el lugar donde les fue expedida su licencia.
 
 ### CAPITULO II
 
@@ -1332,7 +1316,7 @@ El servicio foráneo de segunda clase del transporte público de personas, es aq
 
 ###### ARTÍCULO 148.
 
-El servicio urbano de transporte de pasajeros, es aquel que se presta dentro del perímetro urbanizado de las poblaciones del Estado, en vehículos cerrados con asientos en condiciones aceptables de comodidad, higiene y rapidez, a juicio de la Dirección de Tránsito.
+EI servicio urbano de transporte de pasajeros, es aquel que se presta dentro del perímetro urbanizado de las poblaciones del Estado, en vehículos cerrados con asientos en condiciones aceptables de comodidad, higiene y rapidez, a juicio de la Dirección de Tránsito.
 
 El servicio suburbano de transporte de pasajeros, es aquel que se presta a poblaciones menores, colonias y barrios localizados fuera del perímetro urbanizado, pero dentro del Municipio, en vehículos cerrados, con asientos, en las mismas condiciones señaladas en el párrafo anterior, a juicio de la Dirección de Tránsito.
 
@@ -2829,3 +2813,21 @@ Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 ###### ARTICULO TERCERO.
 
 Las personas que tengan licencia de chofer vigente, podrán canjearla gratuitamente por la de Operador del Servicio Público, previo el cumplimiento de los requisitos que para tal efecto se exigen, contando para ello con un plazo de 90 días a partir de la fecha en que entre en vigor el presente Reglamento.
+
+P.O. 25 DE AGOSTO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+###### ARTICULO TERCERO.
+
+Las licencias en vigor al llegar a su término de vigencia, se refrendarán o canjearán en los términos del artículo 69 del presente Reglamento, siguiendo el procedimiento establecido. Asimismo se repondrán conforme a este sistema las que se encuentren en el supuesto del artículo 71 de este ordenamiento.
+
+###### ARTICULO CUARTO.
+
+Si algún conductor quisiera cambiar su licencia por el nuevo modelo antes de su vencimiento, previos los pagos establecidos podrá hacerlo considerándose refrendo y en la nueva autorización se le fijarán tres años de vigencia a partir de la fecha de exedición (sic) del nuevo documento.
