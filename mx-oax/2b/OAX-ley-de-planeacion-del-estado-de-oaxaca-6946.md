@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-planeacion-del-estado-de-oaxaca-6946"
 country: "mx"
 rank: "ley"
 publication_date: "1985-08-17"
-last_updated: "1985-08-17"
+last_updated: "2004-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PLANEACION DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 17 de agosto de 1985.
 
@@ -51,23 +51,33 @@ I.- Las normas y principios básicos de acuerdo a los cuales se planeará el des
 
 II.- Las bases de integración y funcionamiento del Sistema Estatal de Planeación Democrática;
 
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 III.- Las bases para que el Ejecutivo Estatal coordine sus actividades de Planeación con la Federación, de acuerdo a la legislación aplicable;
 
 IV.- Las bases para que el Ejecutivo Estatal coordine sus actividades de planeación con los municipios de la Entidad de acuerdo con la legislación aplicable;
 
-V.- Las bases para promover y garantizar la participación democrática de los diversos grupos sociales, a través de sus organizaciones representativas, en la elaboración de los planes y programas a que se refiere esta Ley; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+V.- Las bases para promover y garantizar la participación democrática de los particulares, y de las mujeres y hombres de los diversos grupos sociales, en la elaboración de los planes y programas a que se refiere esta Ley;
 
 VI.- Las bases para que las acciones de los particulares contribuyan a lograr los objetivos y metas de los planes y programas a que se refiere esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 2o.
 
-La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Gobierno del Estado sobre el desarrollo integral de la Entidad y deberá tender a la consecución de los fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución General de la República y en la particular del Estado, para ello, estará basada en los siguientes principios:
+La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Gobierno del Estado sobre el desarrollo integral de la Entidad y deberá tender a la consecución de los fines y objetivos sociales, culturales, económicos y políticos contenidos en la Constitución General de la República y en la Constitución Política del Estado Libre y Soberano de Oaxaca, incorporando la perspectiva de género, para ello, estará basada en los siguientes principios:
 
 I.- El fortalecimiento de la soberanía y la ampliación del régimen de garantías individuales y sociales del Estado dentro del pacto federal en lo político, lo económico y lo cultural;
 
-II.- La preservación y el perfeccionamiento del régimen republicano, democrático, representativo y popular establecido por las normas constitucionales federal y local, y la consolidación de la democracia como sistema de vida, fundada en el constante mejoramiento económico, social y cultural del pueblo, impulsando su participación activa en la planeación y ejecución de las actividades del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría en todos los aspectos de la calidad de vida, para lograr una sociedad más igualitaria;
+II.- La preservación y el perfeccionamiento del régimen republicano, democrático, representativo y popular establecido por las normas constitucionales, federal y local, y la consolidación de la democracia como sistema de vida, fundada en el constante mejoramiento social, económico y cultural del pueblo así como de hombres y mujeres de esos pueblos, impulsando su participación activa en la planeación y ejecución de las actividades del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+III.- La igualdad de derechos de libertad para mujeres y hombres, la atención de las necesidades específicas de unas y otros y la mejoría en todos los aspectos de la calidad de vida, para lograr una sociedad justa y equitativa;
 
 IV.- El respeto irrestricto de las garantías individuales y de las libertades y derechos sociales y políticos;
 
@@ -75,11 +85,13 @@ V.- El fortalecimiento del pacto federal y del municipio libre, para lograr un d
 
 VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo en un marco de estabilidad económica y social.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se entiende por Planeación Estatal del Desarrollo, la ordenación racional y sistemática de acciones que en base al ejercicio de las atribuciones del Ejecutivo local, en materia de regulación y promoción de la actividad económica, social, política y cultural, tiene como propósito la transformación de la realidad del Estado, de conformidad con las normas, principios y objetivos que las Constituciones Federal y Estatal y las leyes correspondientes establecen.
+Para los efectos de esta ley se entiende por planeación estatal del desarrollo con equidad de género, la ordenación racional y sistemática de acciones que con base en el ejercicio de las atribuciones del Ejecutivo Local, en materia de regulación y promoción de la actividad social, económica, política y cultural, tiene como propósito la transformación de la realidad del Estado y la igualdad de oportunidades entre hombres y mujeres, de conformidad con las normas, principios y objetivos que las constituciones federal y estatal y las leyes correspondientes establecen.
 
-A través de la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán resultados.
+A través de la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones, se garantizará información desagregada por sexo, grupos de edad y tipos de localidad y se evaluarán resultados.
 
 ###### ARTICULO 4o.
 
@@ -113,17 +125,21 @@ En su caso explicarán las desviaciones ocurridas y las medidas que se adopten p
 
 Los Servidores Públicos a que se alude en el primer párrafo de este Artículo y los directores de las entidades paraestatales, a través del Secretario correspondiente, que sean citados por la Cámara cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiera entre el proyecto de ley o negocio de que se trate y los objetivos de la planeación estatal relativos a la dependencia o entidades a su cargo.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 11.
 
-Las dependencias de la Administración Pública Centralizada y las entidades del Sector Paraestatal deberán planear y coordinar sus actividades con sujeción a los objetivos y prioridades de la planeación estatal de desarrollo.
+Las dependencias de la Administración Pública Centralizada y las entidades del Sector Paraestatal, deberán planear y coordinar sus actividades con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo; asimismo, éstas deberán incorporar la perspectiva de género en la planeación y coordinación de sus actividades.
 
 ###### ARTICULO 12.
 
 Los proyectos de iniciativas de leyes y los reglamentos, decretos y acuerdos que formule el Ejecutivo Estatal señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y el plan y los programas respectivos.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 13.
 
-En caso de duda sobre la interpretación de esta ley se estará a lo que resuelva, el Ejecutivo Estatal, por conducto de la Secretaría de Programación y Presupuesto.
+En caso de duda sobre la interpretación de esta ley se estará a lo que resuelva el Ejecutivo Estatal, por conducto del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
 
 ### CAPITULO SEGUNDO.
 
@@ -145,9 +161,11 @@ Las disposiciones reglamentarias de esta Ley establecerán las normas de organiz
 
 Para efectos de la planeación y programación definidos en el Sistema Estatal de Planeación Democrática, el Estado se dividirá territorialmente de acuerdo a la regionalización determinada para el establecimiento de los Subcomités Regionales del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 17.
 
-La Secretaría de Programación y Presupuesto tendrá las siguientes atribuciones:
+La Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, tendrá las siguientes atribuciones:
 
 I.- Coordinar las actividades de la Planeación Estatal del Desarrollo;
 
@@ -217,7 +235,9 @@ Dentro del Sistema Estatal de Planeación Democrática, tendrá lugar la partici
 
 Las organizaciones representativas de los obreros, campesinos y grupos populares; de las instituciones académicas, profesionales y de investigación; de los organismos empresariales; y de otras agrupaciones sociales, participarán como órganos de consulta permanente en los aspectos de la planeación democrática relacionados con su actividad, a través de foros de consulta popular que al efecto se convoquen. Asimismo, participarán en los mismos foros los diputados a la Legislatura del Estado y los integrantes de los Ayuntamientos del mismo.
 
-Para tal efecto, y conforme a la legislación aplicable, en el Sistema deberán preverse la organización y funcionamiento, las formalidades, prioridades y términos a que se sujetarán la participación y consulta para la Planeación Estatal de Desarrollo.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+Para tal efecto, y conforme a la legislación aplicable, en el sistema deberán preverse la organización y funcionamiento, las formalidades, prioridades y términos a que se sujetarán la participación y consulta de mujeres y hombres para la planeación estatal de desarrollo. La ciudadanía oaxaqueña de forma individual y mediante representación grupal, o institucional participará en condiciones de equidad de género.
 
 ### CAPITULO CUARTO.
 
@@ -227,7 +247,9 @@ PLANES Y PROGRAMAS.
 
 El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse, en un plazo de seis meses contado (sic) a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo.
 
-El Plan Estatal de Desarrollo, partiendo de la consulta popular, precisará los objetivos generales, estrategias y prioridad del desarrollo integral del Estado; contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica y social, y regirá el contenido de los planes y programas que se generen en el Sistema Estatal de Planeación Democrática.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+Se elaborará con base en las necesidades específicas de mujeres y hombres detectadas y propuestas emitidas, la consulta popular, precisará los objetivos generales, estrategias y prioridades del desarrollo integral del Estado; contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y regional. Sus previsiones se referirán al conjunto de la actividad económica y social, y regirá el contenido de los planes y programas que se generen en el Sistema Estatal de Planeación Democrática, asimismo tendrá como marco de referencia la incorporación de la perspectiva de género en su diseño, garantizando los principios de equidad, justicia, transparencia y honestidad.
 
 ###### ARTICULO 24.
 
@@ -263,11 +285,15 @@ Los programas especiales se referirán a las prioridades del desarrollo integral
 
 Los planes y programas a que se refieren los Artículos anteriores, especificarán las acciones que serán objeto de coordinación entre los Gobiernos de los Municipios, del Estado, y de la Federación, así como de inducción o concertación con los grupos sociales interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 30.
 
-Los planes Estatal y Regional y los programas especiales serán sometidos a la consideración del Gobernador del Estado, por la Secretaría de Programación y Presupuesto.
+Los planes estatal y regional y los programas especiales serán sometidos a la consideración del Gobernador del Estado por la Coordinación General del Comité de Planeación para el Desarrollo de Oaxaca.
 
-Los programas anuales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, por la Secretaría correspondiente, previo dictamen de la Secretaría de Programación y Presupuesto.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+Los programas anuales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, por la Secretaría correspondiente, previo dictamen de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
 
 Los programas anuales de las entidades paraestatales deberán ser sometidos, por sus directores a la aprobación del Secretario del ramo o titular de la dependencia coordinadora de sector.
 
@@ -307,9 +333,11 @@ Los contratos y convenios que se celebren conforme a este capítulo, se consider
 
 Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos contratos y convenios, serán resueltos por los tribunales estatales competentes.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 38.
 
-El proyecto de presupuesto anual de egresos, la iniciativa anual de Ley de Ingresos y la aplicación de instrumentos de política económica y social deberán ser congruentes con los objetivos y prioridades de los planes y programas a que se refiere esta Ley.
+El proyecto de Presupuesto anual de Egresos, la iniciativa anual de Ley de Ingresos y la aplicación de instrumentos de política económica y social deberán ser congruentes con los objetivos y prioridades de los planes y programas con equidad de género a que se refiere esta Ley.
 
 ### CAPITULO SEXTO.
 
@@ -339,13 +367,17 @@ De las controversias que surjan con motivo de los mencionados convenios conocer�
 
 Esta ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Las Dependencias de la Administración Pública Estatal comunicarán a la Secretaría de Programación y Presupuesto, la dseignación (sic) de su área responsable de los aspectos de la planeación que le corresponden o el establecimiento exprofeso de una unidad para el cumplimiento de dichas funciones.
+Las dependencias de la Administración Pública Estatal comunicarán a la Coordinación de Planeación para el Desarrollo Estatal, la designación de su área responsable de los aspectos de la planeación que le corresponden o el establecimiento exprofeso de una unidad para el cumplimiento de dichas funciones.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO TERCERO.
 
-El Gobernador del Estado por conducto de la Secretaría de Programación y Presupuesto, comunicará a los Secretarios los términos que considere oportunos, para la presentación de sus proyectos de los planes y programas que les correspondan.
+El Gobernador del Estado por conducto de la Coordinación de Planeación para el Desarrollo Estatal, comunicará a los secretarios los términos que considere oportunos, para la presentación de sus proyectos de los planes y programas que le correspondan.
 
 ###### ARTICULO CUARTO.
 
@@ -372,3 +404,9 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. JUSTINIANO CARBALLIDO GONZALEZ.- Rúbrica.
 
 Al C. .....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
