@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-de-la-convencion-de-viena-56574"
 country: "mx"
 rank: "otro"
 publication_date: "1980-09-18"
-last_updated: "1983-08-17"
+last_updated: "1986-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56574&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,166 +19,184 @@ issue_date: "1980-08-08"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DE LA CONVENCION DE VIENA SOBRE RELACIONES DIPLOMATICAS (MULTILATERAL 1961)
 
-ACUERDO POR EL QUE SEÑALAN LAS REGLAS QUE HABRAN DE CUMPLIRSE PARA EL OTORGAMIENTO DEL SUBSIDIO RESPECTO DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS DE FABRICACION NACIONAL QUE SE ENAJENEN A LOS GOBIERNOS EXTRANJEROS Y PERSONAL DIPLOMATICO Y CONSULAR ACREDITADOS EN EL PAIS, ASI COMO LOS ORGANISMOS INTERNACIONALES REPRESENTADOS O CON SEDE EN MEXICO
+ACUERDO QUE SEÑALA LAS REGLAS EN MATERIA DE AUTOMOVILES ADQUIRIDOS EN EL PAIS CON SUBSIDIO O IMPORTADOS MEDIANTE FRANQUICIA DIPLOMATICA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO QUE SEÑALA LAS REGLAS EN MATERIA DE AUTOMOVILES ADQUIRIDOS EN EL PAIS CON SUBSIDIO O IMPORTADOS MEDIANTE FRANQUICIA DIPLOMATICA, PUBLICADO EN EL D.O.F. DE 30 DE OCTUBRE DE 1987, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO POR EL QUE SE ESTABLECEN LAS DISPOSICIONES DE CARACTER GENERAL PARA LA IMPORTACION DE VEHICULOS EN FRANQUICIA, PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2007, SE PODRA AUTORIZAR LA ENAJENACION DE LOS VEHICULOS IMPORTADOS EN FRANQUICIA DIPLOMATICA AL AMPARO DEL PRESENTE ORDENAMIENTO.</small>
 
-Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 17 de agosto de 1983.
+Acuerdo publicado en el Diario Oficial de la Federación, el jueves 27 de febrero de 1986.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.- Secretaría Particular.- Of.: 101-491.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.- Secretaría Particular.- Of.: 101.- 360.
 
-ACUERDO por el que señalan las reglas que habrán de cumplirse para el otorgamiento del subsidio respecto del Impuesto Sobre Automóviles Nuevos de fabricación nacional que se enajenen a los gobiernos extranjeros y personal diplomático y consular acreditados en el país, así como los organismos internacionales representados o con sede en México.
+ACUERDO que señala las reglas en materia de automóviles adquiridos en el país con subsidio o importados mediante franquicia diplomática.
 
-JESUS SILVA HERZOG, Secretario de Hacienda y Crédito Público, en ejercicio de las facultades que me confiere la fracción IV del Artículo 31 de la Ley Orgánica de la Administración Pública Federal y XVII del Artículo 5o. del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, y
+JESUS SILVA HERZOG, Secretario de Hacienda y Crédito Público, con fundamento en los artículos 31, fracción IV de la Ley Orgánica de la Administración Pública Federal, 12 fracción I, 30, 37 y 38 de la Ley del Registro Federal de Vehículos, 13 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 1986, y previa opinión del Titular de la Secretaría de Relaciones Exteriores, y
 
 CONSIDERANDO
 
-Que esta Secretaría publicó en el Diario Oficial de la Federación el 18 de septiembre de 1980, el "Acuerdo por el que se señalan las reglas para la importación en franquicia de automóviles para uso de los Gobiernos Extranjeros, Personal Diplomático y Consular acreditado en el país, así como para el otorgamiento de un subsidio respecto del Impuesto Sobre Automóviles Nuevos que se enajenen a Gobiernos y Personal citados y a los Organismos Internacionales representados o con sede en México".
+Que previa aprobación del H. Senado de la República y el depósito del instrumento de ratificación respectivo, entraron en vigor para los Estados Unidos Mexicanos, el 16 de junio de 1965, y el 19 de marzo de 1967 respectivamente, las Convenciones de Viena sobre Relaciones Diplomáticas, de 1961 y sobre Relaciones Consulares de 1963.
 
-Que actualmente los automóviles fabricados en el país alcanzan precios de venta que se ubican al mismo nivel o por debajo de los precios que en sus países de origen tienen automóviles extranjeros iguales o similares.
+Que los Estados Unidos Mexicanos han celebrado, igualmente, distintos Convenios y Acuerdos bilaterales con otros Estados extranjeros en materia de relaciones diplomáticas y consulares.
 
-Que resulta conveniente estimular la adquisición de automóviles de fabricación nacional por parte de los Gobiernos Extranjeros y el Personal Diplomático y Consular acreditados en el país, así como por los Organismos representados o con sede en México, a fin de que los automóviles que actualmente importan sean substituidos por automóviles de fabricación nacional.
+Que los Estados Unidos Mexicanos han celebrado distintos convenios y acuerdos con organismos internacionales para tener su sede u oficinas de representación en el país.
 
-Que es propósito de la Administración Pública Federal el hacer más ágiles los procedimientos establecidos para el cumplimiento de las disposiciones fiscales.
+Que en las anteriores convenciones, convenios y acuerdos bilaterales y multilaterales, se establecen los compromisos jurídicos internacionales del país en materia de privilegios e inmunidades diplomáticas y consulares, que incluyen la adquisición y la entrada al país de automóviles para uso de las misiones de los gobiernos extranjeros y de las oficinas de los organismos internacionales y de su personal respectivo.
 
-Que en tal virtud y con fundamento en los artículos 3o., fracción II y 12o. de la Ley de Ingresos de la Federación para el ejercicio fiscal de 1983, y previa consulta con los titulares de las Secretarías de Relaciones Exteriores y Comercio y Fomento Industrial, he tenido a bien expedir el siguiente
+Que el Gobierno de los Estados Unidos Mexicanos ha tenido a bien considerar, como privilegio adicional, un subsidio respecto del Impuesto sobre Automóviles Nuevos que cause la compra de automóviles nuevos de manufactura nacional que realicen las misiones de los gobiernos extranjeros y las oficinas de los organismos internacionales citados y su personal respectivo, he tenido a bien expedir el siguiente:
 
 ACUERDO
 
 ###### ARTICULO 1o.
 
-Se concederá a las empresas automotrices o a sus distribuidores, según sea el caso, un subsidio equivalente al 100% del Impuesto Sobre Automóviles Nuevos que cause la enajenación de automóviles de fabricación nacional a los Gobiernos Extranjeros y Personal Diplomático y Consular acreditados en nuestro país, así como a Organismos Internacionales representados o con sede en México, siempre y cuando tal beneficio sea trasladado a los adquirentes.
+El presente Acuerdo tiene por objeto señalar las reglas aplicables a las misiones diplomáticas y consulares extranjeras y su personal, debidamente acreditadas ante el Gobierno de los Estados Unidos Mexicanos, así como a las oficinas de los organismos internacionales y su personal representados o con sede en territorio mexicano en materia de:
+
+I. Adquisición con subsidio del Impuesto sobre Automóviles Nuevos y su enajenación en territorio nacional.
+
+II. Importación de automóviles mediante franquicia diplomática.
+
+III. Plazos para la obtención del registro y placas para dichos automóviles.
 
 ###### ARTICULO 2o.
 
-La Secretaría de Relaciones Exteriores determinará el número de automóviles que requieran para el adecuado cumplimiento de sus funciones los Gobiernos, Organismos y Personal a que hace referencia el artículo anterior.
+Podrán beneficiarse del presente Acuerdo:
+
+I. Las misiones diplomáticas y consulares de Estados Extranjeros, acreditadas ante el Gobierno de los Estados Unidos Mexicanos.
+
+II. Los miembros extranjeros del personal de dichas misiones, en los términos de las Convenciones de Viena sobre Relaciones Diplomáticas y sobre Relaciones Consulares de 1961 y 1963, que estén debidamente acreditados ante la Secretaría de Relaciones Exteriores.
+
+III. Las oficinas de los organismos internacionales representados o con sede en el país, acreditadas ante el Gobierno de los Estados Unidos Mexicanos.
+
+IV. Los miembros extranjeros del personal de dichas oficinas que estén debidamente acreditados ante la Secretaría de Relaciones Exteriores.
 
 ###### ARTICULO 3o.
 
-Para que sea autorizado el subsidio a que se refiere el artículo 1o., el interesado deberá solicitarlo por conducto de la Secretaría de Relaciones Exteriores, la que acreditará la personalidad del interesado y turnará la solicitud a la Secretaría de Hacienda y Crédito Público quién será la encargada de otorgar el subsidio. Dentro de los ocho días naturales siguientes a la recepción de la solicitud, la Secretaría de Hacienda y Crédito Público entregará al solicitante comunicación dirigida a la empresa automotriz o al distribuidor que corresponda, autorizando la aplicación del subsidio en la adquisición del automóvil.
+Se concederá a las empresas automotrices o a sus distribuidores, según sea el caso, un subsidio equivalente al cien por ciento del Impuesto sobre Automóviles Nuevos que cause la enajenación de automóviles de manufactura nacional a las misiones y oficinas y a su personal extranjero a los que se aplique el presente Acuerdo, siempre y cuando tal beneficio sea trasladado a los adquirentes y el precio de la venta sea como máximo igual al de distribuidor. Las empresas automotrices darán aviso a la Secretaría de Hacienda y Crédito Público de la aplicación que hagan del beneficio, precisando a quien se le trasladó.
 
 ###### ARTICULO 4o.
 
-Al presentar su declaración mensual correspondiente a Impuesto Sobre Automóviles Nuevos, la empresa que haya vendido automóviles a los Gobiernos, Organismos y Personal a que hace referencia el artículo 1o., entregará ante la oficina autorizada la comunicación que le haya dirigido la Secretaría de Hacienda y Crédito Público, así como la constancia de que el automóvil ha sido vendido al beneficiario de este subsidio. La oficina autorizada aplicará el subsidio correspondiente.
+Las misiones y oficinas a las que se aplica el presente Acuerdo, podrán adquirir, con subsidio del Impuesto sobre Automóviles Nuevos en el país, los automóviles nuevos de manufactura nacional que a juicio de la Secretaría de Relaciones Exteriores, y escuchando previamente la opinión de la Secretaría de Hacienda y Crédito Público, requieran para el desempeño de sus funciones oficiales. Dichos automóviles sólo podrán ser enajenados en territorio nacional tres años después de la fecha de su adquisición o antes, en caso de retiro de la misión u oficina. Si no se lleva a cabo la enajenación en cualquiera de los supuestos anteriores, la misión u oficina en cuestión deberá cubrir a la Secretaría de Hacienda y Crédito Público el subsidio del Impuesto sobre Automóviles Nuevos conforme a los porcentajes que se establecen en el artículo 13o.
 
 ###### ARTICULO 5o.
 
-Los automóviles adquiridos con subsidio por los Gobiernos Extranjeros, Personal Diplomático y Consular y Organismos Internacionales acreditados o con sede en el país, no podrán venderse libres de los impuestos subsidiados, sino hasta que haya transcurrido un plazo de tres años contados a partir de su fecha de adquisición. Su venta sólo podrá realizarse antes de cumplirse el plazo mencionado, si se presentan cualquiera de las siguientes circunstancias:
-
-I.- Que la Embajada acreditada o el Organismo Internacional representado o con sede en el país, haya retirado su representación.
-
-En este caso la autorización para la enajenación de los automóviles será otorgada libre de impuestos no solo a los Organismos y a la Embajada referidos, sino también a sus miembros.
-
-II.- Que fallezca el propietario del automóvil.
+Las misiones y oficinas a las que se aplica el presente Acuerdo, podrán importar a territorio nacional mediante franquicia diplomática los automóviles de manufactura extranjera que a juicio de la Secretaría de Relaciones Exteriores, y escuchando previamente la opinión de la Secretaría de Hacienda y Crédito Público, requieren para el desempeño de sus funciones oficiales. Dichos automóviles no podrán ser enajenados en territorio nacional, por lo que deberán salir del mismo cuando ya no vayan a utilizarse para el desempeño de sus funciones oficiales, salvo que sean traspasados de conformidad con el artículo 12o. del presente Acuerdo, o en caso de destrucción total calificada por autoridad competente, o abandonados expresamente a favor de la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 6o.
 
-Las Secretarías de Hacienda y Crédito Público y de Relaciones Exteriores podrán autorizar el traspaso de automóviles comprados con subsidio entre Gobiernos Extranjeros, Personal Diplomático y Consular y Organismos representados o con sede en el país que tengan derecho a los mismos. La resolución favorable de esta solicitud, dependerá de que la Secretaría de Relaciones Exteriores considere que el adquirente no dispone de un número de automóviles mayor al que requiere para el cumplimiento de sus funciones. De ser autorizada la transferencia, la antigüedad del automóvil para efectos de venta a terceros, será preservada.
+Los automóviles a los que se refieren los artículos 4o. y 5o. del presente Acuerdo, se sujetarán a las siguientes disposiciones:
+
+I. Guardarán una relación razonable, en cuanto a su número, con la dimensión de cada misión u oficina, a juicio de la Secretaría de Relaciones Exteriores.
+
+II. Sólo podrán circular en territorio nacional para el desempeño de funciones oficiales de las propias misiones y oficinas.
+
+III. Sólo podrán ser conducidos por:
+
+a). El personal extranjero de las misiones y oficinas debidamente acreditado ante la Secretaría de Relaciones Exteriores. Los miembros de su familia no podrán conducir dichos automóviles.
+
+b). El personal de servicio contratado por las misiones u oficinas para tales efectos, y que esté debidamente registrado para los mismos, ante la Secretaría de Relaciones Exteriores.
 
 ###### ARTICULO 7o.
 
-La Secretaría de Hacienda y Crédito Público podrá autorizar la venta de los automóviles adquiridos con subsidio, previa comunicación a la Secretaría de Relaciones Exteriores, antes de que hayan transcurrido tres años de su fecha de adquisición y en condiciones que no corresponden a las descritas en los artículos 5o., fracción I y II y 6o., siempre y cuando se demuestre haber cubierto el porcentaje del subsidio otorgado que se describe en la siguiente tabla:
-
-PLAZO TRANSCURRIDO DESDE PORCENTAJE DE IMPUESTOS
-
-La Fecha de Adquisición: A pagar:
-
-De 0 a 12 meses 100%
-
-De 12 a 18 meses 75%
-
-De 18 a 24 meses 50%
-
-De 24 a 36 meses 25%
-
-De más de 36 meses Exento.
+Cada uno de los miembros del personal extranjero de las misiones y oficinas a las que se refiere el presente Acuerdo podrán adquirir automóviles de manufactura nacional con subsidio del Impuesto sobre Automóviles Nuevos en el país. Dichos automóviles sólo podrán ser enajenados en territorio nacional tres años después de la fecha de su adquisición o antes, en caso de fallecimiento del propietario. Si no se lleva a cabo la enajenación en cualquiera de los supuestos anteriores, deberán cubrir a la Secretaría de Hacienda y Crédito Público el subsidio del Impuesto sobre Automóviles Nuevos conforme a los porcentajes que se establecen en el artículo 13o.
 
 ###### ARTICULO 8o.
 
-La empresa automotriz que venda automóviles con subsidio, deberá asentar en la factura correspondiente la siguiente leyenda: "Este automóvil ha sido subsidiado con el 100% del Impuesto sobre Automóviles Nuevos. Su enajenación requiere autorización previa de la Secretaría de Hacienda y Crédito Público. De efectuarse la enajenación dentro del plazo de tres años, contados a partir de la fecha de adquisición, y sin la autorización requerida, tal enajenación no será válida y no podrán efectuarse los trámites administrativos correspondientes". Copia fiel de la factura, en la que se haga constar la leyenda anterior, deberá presentarse, junto con la autorización de la Secretaría de Hacienda y Crédito Público ante la Oficina autorizada al efectuar la declaración provisional del Impuesto Sobre Automóviles Nuevos. Esta última enviará la copia recibida a la Dirección General del Registro Federal de Vehículos.
+Cada uno de los miembros del personal extranjero de las misiones y oficinas a las que se refiere al presente Acuerdo, salvo los del personal administrativo y técnico o de servicio, podrán importar mediante franquicia diplomática a territorio nacional un automóvil de manufactura extranjera, para su uso personal y de los miembros extranjeros de su familia debidamente acreditados ante la Secretaría de Relaciones Exteriores. Dichos automóviles no podrán ser enajenados en territorio nacional, por lo que deberán salir del mismo al término de la adscripción del beneficiario, salvo que el automóvil sea traspasado de conformidad con el artículo 12o. del presente Acuerdo, o en caso de destrucción total calificada por autoridad competente, o abandonado expresamente a favor de la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 9o.
 
-La Secretaría de Hacienda y Crédito Público podrá autorizar la substitución de los automóviles nacionales adquiridos con subsidio en el Impuesto Sobre Automóviles Nuevos, siempre que:
-
-I.- Haya transcurrido un plazo de tres años, contados a partir de la fecha de su adquisición y el automóvil haya sido vendido.
-
-II.- No habiendo transcurrido el plazo de tres años contados a partir de la fecha de su adquisición, se demuestre que el automóvil ha sido vendido y que se ha cubierto el Impuesto originalmente subsidiado en los términos del artículo 7o.
-
-III.- Que se demuestre fehacientemente ante la Dirección General del Registro Federal de Vehículos que el automóvil ha quedado totalmente destrozado o que ha desaparecido.
+Los miembros extranjeros del personal administrativo y técnico o, en caso de reciprocidad, los de servicio de las misiones y oficinas a las que se refiere el presente Acuerdo, podrán importar a territorio nacional, mediante franquicia diplomática, un automóvil de manufactura extranjera para su uso personal y de los miembros extranjeros de su familia debidamente acreditados ante la Secretaría de Relaciones Exteriores. Dichos automóviles serán iguales o similares a los de fabricación nacional y deberán estar comprendidos en las listas que para tal efecto publique anualmente la Secretaría de Comercio y Fomento Industrial. Tales automóviles no podrán ser enajenados en territorio nacional, por lo que deberán salir del mismo al término de la adscripción del beneficiario, salvo que sea traspasado de conformidad con el artículo 12o. del presente Acuerdo, o en caso de destrucción total calificada por autoridad competente o abandonado expresamente a favor de la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 10.
 
-Las sustituciones de los automóviles importados en franquicia, a los de Categoría "C”, se harán conforme a las bases siguientes:
+Los automóviles a los que se refieren los artículos 7o., 8o., y 9o., del presente Acuerdo, se sujetarán a las siguientes disposiciones:
 
-I.- Que haya transcurrido un plazo mínimo de tres años contados a partir de la fecha de importación, adquisición o exportación definitiva.
+I. Solo podrán ser conducidos por:
 
-II.- Que considerados los automóviles importados en franquicia por los gobiernos extranjeros acreditados, embajadores, personal diplomático o consular, no excedan del número autorizado conforme a las disposiciones de este Acuerdo.
+a). El miembro del personal extranjero de las misiones y oficinas a cuyo nombre estén registrados.
 
-III.- Que en caso de la destrucción total del vehículo, lo que calificará la Dirección General del Registro Federal de Vehículos, éste sea abandonado expresamente en favor de la Hacienda Pública Federal; o que se exporte de manera definitiva si el vehículo hubiere sido importado en franquicia, o que se paguen los impuestos que se hubieran causado en su importación. En este caso los plazos de tres a cinco años se contarán a partir de la fecha en que se llevó a cabo la importación del vehículo que se sustituye.
+b). Los miembros extranjeros de su familia debidamente acreditados ante la Secretaría de Relaciones Exteriores.
+
+c). El personal de servicio que contrate para tales efectos, y que esté debidamente registrado para los mismos, ante la Secretaría de Relaciones Exteriores.
+
+II. Ningún miembro del personal extranjero de las misiones y oficinas a las que se refiere el presente Acuerdo, podrá simultáneamente introducir al territorio nacional, con permiso de importación temporal o en franquicia diplomática, más de un automóvil de manufactura extranjera.
 
 ###### ARTICULO 11.
 
-El traspaso de vehículos importados en franquicia, o comprados con subsidio, entre gobiernos extranjeros, personal diplomático o consular que tenga derecho a los mismos, se podrá autorizar conservándose la antigüedad del vehículo para efectos de venta a terceros, siempre que no excedan del número de vehículos que les corresponda. Los vehículos que sean traspasados podrán sustituirse por otros, transcurridos tres años de su importación al país o de su adquisición con subsidio.
+Ninguno de los automóviles importados mediante franquicia diplomática, a que se refiere el presente Acuerdo, podrán ser deportivos o convertibles distintos a los que se produzcan en el país.
 
 ###### ARTICULO 12.
 
-Las solicitudes de importación en franquicia; compra de automóviles de Categoría "C", enajenaciones; traspasos; sustituciones (sic); y exportaciones definitivas, se harán ante la Secretaría de Relaciones Exteriores la que las turnará a la Secretaría de Hacienda y Crédito Público quien resolverá lo conducente.
+Los automóviles materia del presente Acuerdo, podrán ser traspasados en sus términos a otras misiones y oficinas o a su personal que tenga derecho a los mismos y que estén debidamente acreditados ante la Secretaría de Relaciones Exteriores. Los automóviles a que se refieren los artículos 4o. y 7o. que se traspasen, conservarán su antigüedad para efectos de su enajenación a terceros.
 
 ###### ARTICULO 13.
 
-El derecho a la franquicia o a la compra señalado en las presentes reglas, no será acumulativo, por lo que sólo podrá volver a ejercerse cuando además de transcurrido el plazo que corresponda se haya enajenado el o los automóviles importados en franquicia o comprados conforme a estas reglas.
+La enajenación de los automóviles a los que se refieren los artículos 4o. y 7o. del presente Acuerdo, antes del término establecido por los mismos, obligarán al vendedor salvo lo establecido en el artículo 12., al pago a la Secretaría de Hacienda y Crédito Público del porcentaje de subsidio del Impuesto sobre Automóviles Nuevos, conforme a la siguiente tabla:
+
+Plazo Transcurrido
+
+Desde la Porcentaje de
+
+Fecha de Impuesto
+
+Adquisición a Pagar
+
+De más de 0 a 12 meses 100%
+
+De más de 12 a 18 meses 75%
+
+De más de 18 a 24 meses 50%
+
+De más de 24 a 36 meses 25%
+
+De más de 36 meses Exento
 
 ###### ARTICULO 14.
 
-Los automóviles importados en franquicia deberán ser inscritos ante la Dirección General de Registro Federal de Vehículos de la Secretaría de Hacienda y Crédito Público.
+Para que sea autorizado el subsidio a que se refiere el artículo 3o., el interesado deberá solicitarlo por conducto de la Secretaría de Relaciones Exteriores la que acreditará la personalidad del interesado y turnara la solicitud a la Secretaría de Hacienda y Crédito Publico, quien será la encargada de otorgar el subsidio. Dentro de los seis días hábiles siguientes a la recepción de la solicitud, La Secretaría de Hacienda y Crédito Público entregará al solicitante comunicación dirigida a la empresa automotriz o al distribuidor que corresponda, autorizando la aplicación del subsidio del Impuesto sobre Automóviles Nuevos en la adquisición del automóvil.
 
 ###### ARTICULO 15.
 
-La Secretaría de Hacienda y Crédito Público verificará el cumplimiento de los requisitos y condiciones a que estén sujetas conforme a este Acuerdo las autorizaciones que se concedan.
+Al presentar su declaración mensual correspondiente al Impuesto sobre Automóviles Nuevos, la empresa que haya vendido automóviles a los sujetos a que se hace referencia en el artículo 1o., entregará, ante la Oficina Federal de Hacienda, la comunicación que le haya dirigido la Secretaría de Hacienda y Crédito Público, así como la constancia de que el automóvil ha sido vendido al beneficiario de este subsidio.
+
+###### ARTICULO 16.
+
+Las solicitudes de subsidio al Impuesto sobre Automóviles Nuevos a que se refieren los artículos 4o. y 7o. y las de importación mediante franquicia diplomática señaladas en los artículos 5o., 8o., y 9o., así como las de traspaso y sustitución en caso de destrucción total y las de exportación definitiva, serán formuladas por los titulares de las misiones y oficinas a las que se aplica el presente Acuerdo ante la Secretaría de Relaciones Exteriores, quien las turnará a la Secretaría de Hacienda y Crédito Público para que resuelva lo conducente.
+
+###### ARTICULO 17.
+
+Los automóviles a que se refieren los artículos 5o., 8o. y 9o. del presente Acuerdo, sólo podrán circular en territorio nacional con placas extranjeras, si han ingresado al mismo con permiso de importación temporal, y sólo por el tiempo necesario para obtener la importación en franquicia diplomática correspondiente, su registro y las placas respectivas, que en ningún caso excederá de 120 días hábiles. Para tal efecto, las misiones y oficinas solicitarán la franquicia diplomática, el registro y las placas respectivas dentro de los siguientes 20 días hábiles de la obtención del permiso de importación temporal.
+
+###### ARTICULO 18.
+
+Los automóviles objeto de autorización para ser importados mediante franquicia diplomática, quedarán sujetos a inscripción provisional en el Registro Federal de Vehículos de la Secretaria de Hacienda y Crédito Público.
+
+###### ARTICULO 19.
+
+Queda prohibida toda actividad de comercialización inclusive la compraventa o renta a terceros de los automóviles materia del presente Acuerdo, así como cualquier otro acto, incluso gratuito, en contravención a sus disposiciones.
+
+###### ARTICULO 20.
+
+La Secretaría de Hacienda y Crédito Público en coordinación con la Secretaría de Relaciones Exteriores, verificará el cumplimiento de los requisitos, y condiciones dispuestos en el presente Acuerdo.
+
+###### ARTICULO 21.
+
+La Secretaría de Hacienda y Crédito Público, escuchando la opinión de la Secretaría de Relaciones Exteriores, podrá emitir las reglas generales que sean necesarias para la aplicación de este Acuerdo.
 
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
 
-Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Este Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO SEGUNDO.
 
-Se DEROGAN los artículos del "Acuerdo por el que se señalan las reglas para la importación en franquicia de automóviles para uso de los Gobiernos Extranjeros. Personal Diplomático y Consular acreditado en el país, así como para el otorgamiento de un subsidio respecto del Impuesto Sobre Automóviles Nuevos que se enajenen a los Gobiernos y Personal citados y a los Organismos Internacionales representados o con sede en México", en lo que se opongan al presente Acuerdo.
+Ninguna disposición del presente Acuerdo será aplicada retroactivamente en perjuicio de las misiones, oficinas y de su personal a las que el mismo se refiere.
 
 ###### ARTICULO TERCERO.
 
-Los automóviles adquiridos con subsidio del Impuesto Sobre Automóviles Nuevos conforme a reglas expedidas con anterioridad, se regirán por el régimen previsto en ellas. Sin embargo, la substitución de tales automóviles se regirá por lo dispuesto en este Acuerdo.
+Los automóviles de manufactura extranjera, propiedad de las misiones, oficinas y de su personal a los que se aplica el presente Acuerdo, que a la fecha de su entrada en vigor se encuentran en territorio nacional, seguirán rigiéndose hasta su salida del mismo por el Acuerdo en la materia, publicado en el Diario Oficial de la Federación el 18 de septiembre de 1980, mismo que para todos los demás efectos, queda abrogado.
 
-Atentamente.
+###### ARTICULO CUARTO.
 
-Sufragio Efectivo. No Reelección.
+Se abroga el Acuerdo por el que se señalan las reglas que habrán de cumplirse para el otorgamiento del subsidio respecto del Impuesto sobre Automóviles Nuevos de fabricación nacional que se enajenen a los gobiernos extranjeros y personal diplomático consular acreditados en el país, así como los organismos internacionales representados o con sede en México, publicado en el Diario Oficial de la Federación el 17 de agosto de 1983.
 
-México, D. F., a 3 de agosto de 1983.- El Secretario, Jesús Silva Herzog.- Rúbrica.
-
-SOLICITUD DE SUBSIDIO
-
-(VEASE ARCHIVO ANEXO)
-
-Para que se cumpla en sus términos por las autoridades correspondientes, a continuación se transcribe el Artículo primero del Acuerdo expedido por el C. Secretario de Hacienda y Crédito Público, el cual fue publicado en el "Diario Oficial" del (sic)
-
-PRIMERO.- Se concederá a las empresas automotrices o a sus distribuidores según sea el caso, un subsidio equivalente al 100% del Impuesto sobre Automóviles Nuevos que cause la enajenación de vehículos de fabricación nacional a los Gobiernos Extranjeros y Personal Diplomático y Consular acreditados en nuestro país, así como a Organismos Internacionales representados o con sede en México, siempre y cuando tal beneficio sea trasladado a los adquirentes.
-
-La compra de automóviles, enajenaciones, traspasos, sustituciones y exportaciones definitivas se tramitarán ante la Secretaría de Relaciones Exteriores, la que las turnará a la Secretaría de Hacienda y Crédito Público, quien resolverá lo conducente.
-
-Las solicitudes deberán presentarse ante la Dirección General del Protocolo, la cual las analizará, verificando la certeza de los datos asentados en las mismas y conservará una copia del documento.
-
-El original de la solicitud y las cuatro copias restantes serán turnadas a la Dirección General de Promoción Fiscal, la cual determinará la procedencia de las mismas.
-
-Si la Dirección General de Promoción Fiscal resuelve favorablemente las solicitudes de subsidios, entregará el original y copia al interesado, conservará una copia para su archivo, enviará una copia a la Dirección General del Registro Federal de Vehículos y turnará una copia a la Dirección General Técnica, autoridad administradora del Impuesto subsidiado.
-
-El interesado deberá entregar el original a la empresa automotriz y/o sus distribuidores en el momento de adquirir la unidad, para efecto de que no se le traslade el impuesto sobre automóviles nuevos que cause la enajenación del vehículo.
-
-Las empresas automotrices y/o sus distribuidores deberán anexar a sus declaraciones de impuestos el original de la autorización del subsidio; para que proceda su debida aplicación.
-
-El subsidio otorgado sólo podrá ser ejercido por el titular del mismo, será de carácter intransferible y amparará únicamente la unidad que en él se indique.
-
-El subsidio que se otorque (sic) no generará créditos en efectivo a cargo del Erario Federal y por tanto no dará lugar a devoluciones o compensaciones de impuestos que paguen o hubieren pagado los beneficiarios.
-
-Los beneficiarios del subsidio proporcionarán toda la información que requiera la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Relaciones Exteriores.
+El Secretario de Hacienda y Crédito Público, Jesús Silva-Herzog.- Rúbrica.
