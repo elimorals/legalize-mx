@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1975-07-10"
+last_updated: "1988-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -51,13 +51,17 @@ Las Autoridades Municipales no podrán recaudar ningún gravamen que no se encue
 
 Los Reglamentos, circulares y acuerdos que se dicten referentes a los arbitrios municipales, así como las concesiones, contratos, convenios y otros actos jurídicos que lleguen a efectuarse por el Ayuntamiento, cuando estén autorizados para ello, no podrán en ningún caso, derogar, modificar, ni desvirtuar o alterar en modo alguno su espíritu y aplicación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 4.
 
-Queda a cargo de las Autoridades Fiscales del Municipio la administración, Recaudación, control y en su caso determinación, respecto de cada causante, de los arbitrios Municipales. Se consideran Autoridades Fiscales, El Presidente Municipal, el Tesorero y los Colectores.
+Queda a cargo de las autoridades fiscales del Municipio la administración, recaudación, control y en su caso determinación, respecto de cada contribuyente, de los arbitrios municipales.
+
+Se considerarán Autoridades Fiscales, el Presidente Municipal, el Tesorero y los Recaudadores de Rentas Municipales.
 
 ###### ARTICULO 5.
 
-Con el objeto de evitar la concurrencia en las actividades gravables, los arbitrios Municipales no podrán recaer en ninguna actividad económica de las gravadas por el Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1967 Y 31 DE DICIEMBRE 1988)
 
 ###### ARTICULO 6.
 
@@ -143,9 +147,11 @@ Las Leyes, los decretos, sus reglamentos y demás disposiciones hacendarias de c
 
 Son de aplicación supletoria a la presente ley en cuánto no la contraríen, el derecho común y en su defecto, los principios generales de Derecho.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 21.
 
-El Presidente Municipal representará a la Hacienda Pública del Municipio y será la autoridad competente para interpretar las Leyes hacendarias y sus reglamentos del Municipio, así como para proveer en la esfera administrativa su exacta observancia.
+El Presidente Municipal representará a la Hacienda Pública del Municipio, directamente o por conducto del titular de esta dependencia, y serán las autoridades competentes para interpretar las Leyes Hacendarias y sus Reglamentos Municipales, así como proveer en la esfera administrativa su exacta observancia.
 
 ###### ARTICULO 22.
 
@@ -197,27 +203,33 @@ DE LA EXIGIBILIDAD DEL CREDITO FISCAL
 
 El Crédito fiscal nace en el momento en que se realizan las situaciones jurídicas o de hecho que, de acuerdo con las Leyes Fiscales dan origen a una obligación tributaria.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 32.
 
-A falta de disposición expresa, los enteros al fisco se harán dentro de los plazos que enseguida se indican:
+El Crédito Fiscal es la obligación determinada en cantidad líquida, y deberá pagarse en la fecha o dentro del plazo señalado en las disposiciones respectivas.
 
-I.- Los que tengan como origen una operación eventual deberán hacerse dentro de los diez días siguientes a la generación del crédito fiscal.
+La determinación de los créditos fiscales y de las bases para su liquidación; su fijación en cantidad líquida, su percepción y su cobro corresponderá a las Dependencias Hacendarias Municipales respectivas, las que ejercitarán esas funciones por conducto de las dependencias y órganos que las leyes señalen.
 
-II.- Los que deban cubrirse sobre liquidaciones mensuales, se harán dentro de los días 1o. al 20 del mes siguiente a aquel en que se genere el crédito fiscal.
+A falta de disposición, el pago deberá hacerse:
 
-III.- Los que se originen como consecuencia de una calificación previa y que deban cubrirse mensual o bimestralmente, se harán dentro de los días 1o. al 20 del mes o bimestre al que corresponda el pago.
+a).- Si es a las autoridades a las que corresponde formular la liquidación, dentro de los quince días siguientes a la fecha en que haya surtido efectos la notificación de la misma.
 
-IV.- Los que se originen como consecuencia de una calificación previa y que deban cubrirse anualmente, se harán en el transcurso del mes de enero del año de que se trate; con excepción del primer pago, el que se efctuará (sic) proporcionalmente, dentro del mes en que se inicien las actividades.
+b).- Si es a los sujetos pasivos o responsables solidarios a quienes corresponde determinar en cantidad líquida la prestación, dentro de los 20 días siguientes al nacimiento de la obligación fiscal, y
 
-V.- Los que para determinarse requieran la conclusión de un ejercicio deberán hacerse en el transcurso del mes siguiente a tal conclusión.
+c).- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, este deberá hacerse dentro de los 15 días siguientes a la fecha de su celebración u otorgamiento.
 
-VI.- Los que se deriven de actos o contratos consignados en escritura pública deberán cubrirse con anterioridad a su formalización.
+I.- El pago de los Créditos Fiscales deberá hacerse en la Recaudación de Rentas del Municipio respectivo, o en las Oficinas autorizadas por el Titular de Hacienda Municipal que corresponda, en efectivo, salvo que las disposiciones aplicables establezcan que se haga en especie. El pago podrá hacerlo.
 
-VII.- En los casos no comprendidos dentro de las fracciones anteriores:
+a).- El deudor o sus representantes.
 
-a).- Si incumbe a las autoridades determinar la realización de la situación jurídica o de hecho que venga a crear la obligación del causante, desde el décimo quinto día siguiente al de la fecha en que haya surtidos sus efectos la notificación del formulario de liquidación.
+b).- El responsable solidario, o cualquier persona que tenga interés en el cumplimiento de la obligación.
 
-b).- Si es a los deudores de una prestación fiscal a quienes corresponda determinar la cantidad o la fecha a partir del día en que de acuerdo con esta Ley u otras aplicables deban pagarla.
+c).- El tercero que sin ser interesado en el cumplimiento de la obligación, obre con el consentimiento expreso o tácito del deudor.
+
+Los giros postales, telegráficos o bancarios, los cheques personales del contribuyente salvo buen cobro, se admitirán como efectivo. Los cheques certificados se admitirán como efectivo.
+
+II.- La falta de pago de un Crédito Fiscal en la fecha o plazo establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
 ###### ARTICULO 33.
 
@@ -283,9 +295,47 @@ Las autoridades respectivas deberán cerciorarse bajo su responsabilidad de que 
 
 Cuando los bienes dados en garantía por medio de prenda o hipoteca pasen a la propiedad del fisco, éste quedará en libertad de venderlos, lo cual deberá hacer en subasta pública a la que se citará por medio de publicaciones en los diarios de mayor circulación, cuando menos con quince días de anticipación. El remanente que pueda obtenerse después de cubrirse los gastos y las prestaciones fiscales deberán ser entregados al causante.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 44.
 
-Podrán admitirse fianzas de particulares cuando éstos sean suficientemente solventes a juicio y responsabilidad de las autoridades fiscales, si el interés no excede de $1,000.00.- Si la garantía debe otorgarse por una cantidad superior a $1,000.00 el fiador deberá acreditar por medio de certificados del Registro Público de la Propiedad que tiene bienes raíces que superan en un 100% cuando menos, el valor de la garantía requerida. En todo caso el fiador deberá someterse expresamente al procedimiento administrativo de ejecución.
+Las obligaciones y los Créditos Fiscales a que este Código se refiere podrán garantizarse en algunas de las formas siguientes:
+
+a).- Depósito de dinero en la Recaudación de Rentas correspondiente.
+
+b).- Prenda o hipoteca.
+
+c).- Fianza otorgada por compañía autorizada, la que no gozará de los beneficios de orden y excusión.
+
+c).- (sic) Secuestro en la vía administrativa.
+
+d).- Obligación solidaria asumida por terceros que compruebe su idoneidad y solvencia.
+
+La garantía de un crédito fiscal deberá comprender la de los posibles recargos y gastos de ejecución, cuya vigencia será por el término de un año.
+
+El titular de la Hacienda Municipal, dictará las reglas sobre los requisitos que deban reunir las garantías, vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fuere, exigirá su cumplimiento o consideración como no garantizado el interé (sic) fiscal.
+
+El titular de la Hacienda Municipal podrá dispensar la garantía del intrerés (sic) fiscal, cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+
+I.- La devolución del depósito que se hubiere constituido para garantizar el interés fiscal sólo podrá hacerse por orden de la autoridad fiscal competente.
+
+II.- Cuando se trate de garantía prendaria o hipotecaria, el valor comercial de la misma, a juicio de peritos designados por la autoridad fiscal, deberán ser por lo menos el doble del importe del interés fiscal que trate de asegurarse.
+
+III.- Para la aplicación del artículo anterior, se tendrá como valor del inmueble el mismo que tenga en los padrones de Catastro.
+
+IV.- Cuando deba constituirse una garantía para asegurar el interés fiscal, y el obligado no la otorgue y manifieste ante la autoridad fiscal competente la imposibilidad de hacerlo, se asegurará el interés del Fisco mediante embargo, suspendiéndose el procedimiento de remate de los bienes hasta el momento en que legalmente deba exigirse el adeudo y no se efectúe el pago.
+
+V.- Cuando no se haya satisfecho un crédito a favor del Erario Municipal dentro del término o en la fecha en que sea exigible, se hará efectivo por medio del Procedimiento Administrativo de Ejecución.
+
+Las garantías constituidas para asegurar el interés fiscal se harán efectivas a través de este procedimiento, excepción hecha de las señaladas en los incisos a) y c) de este artículo, en cuyo caso se ordenará la aplicación del pago.
+
+Las garantías otorgadas por cualquier concepto a favor del Municipio, se harán efectivas cuando sean exigibles las obligaciones contraídas, por el obligado principal, de acuerdo con las disposiciones legales aplicables, convenios, concesiones, permisos y autorizaciones.
+
+En los casos legales de interposición de recursos legales, las garantías se harán efectivas cuando queden firmes las resoluciones adversas al deudor.
+
+La cancelación o devolución de las garantías otorgadas será procedente, cuando se hayan cumplido con la obligación principal o cuando le sean favorecidas las resoluciones definitivas que dicten las autoridades competentes.
+
+Las resoluciones que impliquen devolución de depósitos o la cancelación de fianzas o hipotecas, serán cumplidas cuando sean firmadas por los funcionarios titulares de las Dependencias a cuyo favor se otorgaron, previo acuerdo del titular de Hacienda Municipal.
 
 ###### ARTICULO 45.
 
@@ -535,6 +585,196 @@ El pago de los derechos anteriores podrá ser hecho por el beneficiado en exhibi
 
 La obligación de cubrir los derechos que establece este artículo nace desde el siguiente bimestre a aquel en que se inicien las obras, pudiendo interrumpirse la obligación del causante por la suspensión temporal o definitiva de ellas.
 
+> <small>(ADICIONADO, P.O 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 75 Bis-A.
+
+Se establece el Impuesto Predial:
+
+I.- Es objeto del Impuesto Predial:
+
+1.- La propiedad de predios urbanos y rústicos y las construcciones permanentes existentes en ellos.
+
+2.- La posesión de predios urbanos y rústicos y las construcciones permanentes existentes en ellos:
+
+a).- Cuando no exista propietario.
+
+b).- Cuando se derive de Contratos de Promesa de Venta o Venta de Certificados de Participación inmobiliaria, de vivienda de simple uso o de cualquier otro título similar que autorice la ocupación material del inmueble y que origine derechos posesorios, aún cuando los Contratos, Certificados o Títulos, se hayan celebrado u obtenido con motivo de operaciones de Fideicomiso.
+
+c).- Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo.
+
+d).- Cuando la ejerzan los particulares sobre inmuebles propiedad de la Federación, Estado, Municipios u Organismos Descentralizados y sujetos a exención.
+
+II.- Son sujetos del Impuesto:
+
+1.- Los propietarios de predios a que se refiere el Inciso 1 de la Fracción I de este Artículo.
+
+2.- Los poseedores de predios a que se refiere el Inciso 2 de la Fracción I de este Artículo.
+
+3.- Los fideicomitentes, mientras sean poseedores del predio objeto del Fideicomiso o los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les trasmita la propiedad a los terceros adquirentes por cualquier acto derivado de un Fideicomiso.
+
+III.- Son solidariamente responsables del pago del Impuesto Predial:
+
+1.- Los adquirentes por cualquier título de los predios mencionados en los Incisos 1 y 2 de la Fracción I de este Artículo.
+
+2.- Los propietarios de predios que hubieren prometido en venta o hubieren vendido con reserva de dominio en el caso a que se refiere el Inciso b) del número 2 de la Fracción I de este Artículo.
+
+IV.- La base del Impuesto es la siguiente:
+
+1.- Tratándose de predios urbanos o rústicos, el mayor de los siguientes valores:
+
+a).- El declarado por el contribuyente.
+
+b).- Valor Catastral.
+
+c).- Valor de la operación de transmisión de dominio.
+
+d).- El valor de avalúo que practique la autoridad Fiscal Municipal.
+
+2.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentra construido el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Oficina de Catastro determinará el valor catastral que le corresponda a cada uno y éste entrará en vigor a partir del mes siguiente a la fecha en que se haya autorizado, previamente la Escritura de Constitución del Condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron.
+
+En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
+
+V.- La tasa inicial del Impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos que la Ley de Catastro del Estado clasifica como no edificados o baldíos con servicio de agua, electricidad y drenaje, entre tanto conserven esa calidad, se enajenen o establezca en ellos alguna industria o comercio, será ascendente y aumentará automáticamente el 25% (veinticinco por ciento) cada año hasta completar diez años, al final de los cuales se interrumpe.
+
+Los efectos de esta Fracción no serán aplicables:
+
+1.- A los predios destinados para su venta o que vendan los fraccionamientos debidamente autorizados en tanto no sean recibidos por el Gobierno del Estado y Municipio.
+
+2.- Ni a los predios no edificados que formen parte de una unidad comercial o industrial.
+
+VI.- La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del mes siguiente a la fecha en que éstos se hayan notificado. En los casos mencionados en la Fracción IV, número 1, Inciso b) de éste Artículo, entrará en vigor a partir del mes siguiente a la fecha de celebración del contrato respectivo, aunque no se otorgue en Escritura Pública.
+
+VIII (sic).- El pago del Impuesto deberá cubrirse anualmente durante los dos primeros meses del año en la Oficina Recaudadora Municipal que corresponda, mediante declaración obligatoria que deberá presentar el contribuyente utilizando las formas que al efecto apruebe la Tesorería Municipal.
+
+El pago anticipado del Impuesto, no impide el cobro de diferencias que resulten por cambios en las bases gravables o variación de las cuotas del impuesto.
+
+IX.- Los inmuebles responden preferentemente del pago del Impuesto Predial, aún cuando pasen a propiedad o posesión de terceros.
+
+X.- Están exentos del pago del Impuesto Predial:
+
+1.- Los predios pertenecientes a la Federación, al Estado y a los Municipios a que se refiere el último párrafo de la Fracción IV del Artículo 115 de la Constitución Federal de la República.
+
+XI.- Los Notarios, Jueces y demás funcionarios autorizados por la Ley para dar Fé Pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del Impuesto Predial. Si por causas no imputables al enajenante, las autoridades fiscales del Estado, no han empadronado o catastrado el predio, la Tesorería Municipal, podrá permitir a los notarios que otorguen la mencionada autorización definitiva, sin que les sea exhibido el certificado a que se refiere este Artículo.
+
+XII.- Los Notarios o las autoridades ante quienes se celebren contratos o actos por virtud de los cuales se transmita la propiedad o la posesión de un predio, están obligados a dar aviso a la oficina de Catastro y a la Recaudación de Rentas del lugar de su ubicación, dentro del término de treinta días siguientes a la fecha de la celebración del acto o contrato respectivo.
+
+XIII.- En el plazo de 15 días, los contribuyentes deberán manifestar a la Recaudación de Rentas de la jurisdicción de los predios, la terminación de nuevas construcciones y de ampliaciones y de modificaciones a las construcciones que tenga cada predio, así como el valor de las mismas.
+
+Igualmente en el mismo plazo, los contratantes deberán manifestar a la Recaudación de Rentas correspondiente a la ubicación de los predios, la celebración de cualquier contrato en cuya virtud se cambie el poseedor o propietario.
+
+Tratándose de construcciones o de contratos no manifestados, se hará el recobro del impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
+
+XIV.- Para los efectos el Impuesto Predial, el contribuyente está obligado a manifestar su domicilio ante la Oficina Recaudadora de Rentas de la ubicación del predio dentro de los 15 días siguientes a la fecha en que se adquiera el carácter de contribuyente.
+
+En caso de no cumplir con esta obligación, se tendrá como su domicilio, para todos los efectos legales el lugar donde se localice y en defecto de este, el de la ubicación del predio si no es baldío; de serlo, será notificado por edictos.
+
+XV.- Las sociedades, agrupaciones, empresas o personas físicas que exploten bosques de comunidades agrarias o de sociedades cooperativas agrícolas, están obligadas a exhibir a las autoridades fiscales del Municipio, las guías contratos o documentos que sean necesarios para definir o establecer el Impuesto Predial correspondiente y su monto.
+
+XVI.- Para los efectos de este Impuesto se tomarán en cuenta las definiciones que sobre las distintas clases de predio y construcciones contiene la Ley de Catastro.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 75 Bis-B.
+
+Se establece el impuesto sobre adquisición de inmuebles y transmisión de dominio:
+
+I.- Están obligados al pago de este impuesto las personas físicas o morales que adquieran o enajenen inmuebles que consistan en el suelo o en el suelo (sic) y las construcciones adheridas a el, ubicados en el territorio del Eestado (sic), así como los derechos reales o posesorios independientemente del nombre que le asigne la Ley que regule el acto que les de origen.
+
+El objeto de este impuesto es la adquisición de inmuebles y los derechos sobre los mismos. Cuando por acuerdo expreso o tácito de las partes, por determinación de la Ley o por resolución de las autoridades de trabajo, judiciales o administrativas, el enajenante se ve obligado al pago, el objeto de este impuesto será la Transmisión de Dominio.
+
+En ningún caso se gravará dos veces una misma operación con el impuesto a que se refiere el presente artículo, por lo que si se paga por la adquisición no se gravará la transmisión o la inversa, a excepción del contrato de permuta, en virtud de que mediante el se realizan dos adquisiciones.
+
+II.- El impuesto sobre adquisición de inmuebles no se causará cuando los adquirentes sean la Federación, el Estado y los Municipios y sean de los clasificados como bienes del dominio público por el último párrafo de la Fracción IV del Artículo 115 de la Constitución Federal de la República.
+
+III.- La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el del precio pactado, el valor fiscal y el del avalúo que al efecto practique la autoridad Fiscal Municipal, después de deducirlo en 5 veces el salario mínimo general, elevado al año, que rija en el Estado en el momento en que realice el acto generador.
+
+Para los fines de este artículo, se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
+
+La deducción a que se refiere el párrafo anterior, se realizará conforme a lo siguiente:
+
+a).- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir la verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto de la deducción, y pagará en su caso, la diferencia de impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
+
+b).- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere la fracción VII de este Artículo, la deducción se hará en la proporción que corresponda a dicha parte.
+
+c).- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la deducción por cada uno de ellos.
+
+d).- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos aún cuando se utilicen para otros fines.
+
+Cuando del inmueble formen parte departamentos habitacionales, la deducción se hará sobre el valor de cada uno de ellos con excepción de los hoteles cuando por motivo de la adquisición el adquirente asuma la obligación de pagar una o mas deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique autoridad Fiscal Municipal. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiera pactado, sino el del avalúo a que se refiere este párrafo.
+
+IV.- El impuesto sobre adquisición de inmuebles, o transmisión de dominio a pagar, será el que resulten de aplicar a la base gravable la tasa que al efecto apruebe anualmente el Congreso del Estado en la Ley de Ingresos Municipal correspondiente.
+
+V.- Los sujetos obligados al pago de este impuesto, deberán enterarlo en la Recaudación de Rentas Municipal, en cuya jurisdicción se encuentre ubicado el inmueble, dentro de los 30 días siguientes de la fecha en que se realice el acto generador, mediante declaración utilizando las formas que al efecto apruebe la Tesorería Municipal, debiendo acompañar el avalúo practicado por perito autorizado.
+
+La falta de formas oficiales no exime al contribuyente de la obligación de enterar el pago en el plazo señalado en el párrafo que antecede.
+
+VI.- Los contribuyentes que estén obligados al pago de este impuesto no podrán ser sujetos de impuestos adicionales estatales, ni municipales, por lo que respecta al pago de dicho impuesto.
+
+VII.- Esta Ley reconoce como fuentes que origina la adquisición de inmuebles o transmisión de dominio, así como derechos sobre los mismos los siguientes actos:
+
+a).- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de sociedades y asociaciones.
+
+b).- La compraventa en la que el vendedor se reserve la propiedad aún cuando la transferencia de esta opere con posterioridad.
+
+c).- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de el, antes de que se celebre el contrato prometido.
+
+d).- La cesión de derechos del comprador o del futuro comprador en los casos de los incisos b) y c) que anteceden, respectivamente.
+
+e).- Fusión de sociedades.
+
+f).- La dación de pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
+
+g).- Constitución de usufructo, transmisión de este o de la nuda propiedad, así como la extinción del usufructo temporal.
+
+h).- Prescripción positiva.
+
+i).- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción de estos.
+
+j).- Enajenación a través de fideicomisos, en los términos del Código Fiscal de la Federación.
+
+VIII.- Las partes que celebren alguno de los actos a que se refiere la Fracción anterior son responsables solidarios del pago de este impuesto, según sea el caso en los términos de la fracción I, de este artículo.
+
+IX.- Este impuesto deberá pagarse dentro del plazo que establece la fracción V de este artículo, aún cuando el contrato se celebre con reserva de dominio o la venta sea a plazo.
+
+El pago del impuesto deberá hacerse dentro del mismo plazo cuando se realice cualquiera de los supuestos que a continuación se señalan:
+
+a).- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+
+b).- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se causo por el cesionario o por el adquirente.
+
+c).- Tratándose de adquisiciones efectuadas a través de fideicomisos, cuando se realicen los supuestos, de enajenación en los términos del Código Fiscal de la Federación.
+
+d).- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+
+e).- En los casos no previstos en los incisos anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
+
+El contribuyente podrá pagar el impuesto por anticipado.
+
+X.- Las autoridades judiciales, del trabajo o administrativas, están obligadas a dar aviso anticipado a la Recaudación de Rentas Municipal, que se verificará remate de inmuebles y practicado este, deberán remitirle copia certificada de la diligencia de remate o adjudicación.
+
+XI.- Los Notarios, Jueces, y toda persona que se encuentre investida de Fé Pública, así como los funcionarios del Registro Público de la Propiedad y de Comercio, no autorizará actos o contratos de transmisión de dominio o adquisición de propiedad raíz o de derechos reales o posesorios sobre los mismos, ni harán inscripción o anotación alguna de escrituras, actos o contratos sin que el solicitante compruebe lo siguiente:
+
+a).- Que se haya pagado el impuesto a que se refiere la fracción I de este artículo.
+
+b).- Que está al corriente en el pago de todas las obligaciones fiscales a que se encuentre sujeto el inmueble objeto de la operación, hasta el mes en que se realice la autorización o registro.
+
+c).- Que se ha efectuado el deslinde del predio.
+
+Las comprobaciones a que se refiere este artículo se harán, respeto (sic) del primer inciso, mediante la presentación de las declaraciones o recibos oficiales que las substituyan, debidamente legitimados por la Recaudación de Rentas Municipal que corresponda mismos que deberán contener la impresión de la máquina registradora en cuanto a la segunda por medio de Certificado de Libertad de Gravámenes Fiscales, debidamente firmado por el titular y sello de la dependencia correspondiente; en lo que se refiere a la tercera con el acta o plano expedido por la Dirección de Catastro y Control Urbano o por la dependencia u organismo descentralizado que legalmente lo substituya.
+
+XII.- Los Notarios, Jueces y demás funcionarios públicos que violen lo dispuesto en la Fracción XI, serán responsables solidarios del importe total de las prestaciones fiscales que dejaren de pagar los contribuyentes de este impuesto sin perjuicio de las sanciones administrativas y de la responsabilidad penal en que incurran.
+
+XIII.- Para los efectos del pago del impuesto, en caso de escrituras, adjudicaciones o contratos que se celebren fuera del municipio respectivo, de bienes ubicados en este, el adquirente dentro de los 60 días siguientes a la fecha de subscripción o protocolización de los mismos, deberán presentar su declaración ante la Recaudación de Rentas Municipal, en cuya jurisdicción se encuentra ubicado el o los inmuebles.
+
+XIV.- Para los efectos de la fracción I de este artículo, los contribuyentes del impuesto sobre adquisición de inmuebles y transmisión de dominio generado por las operaciones de adquisición o transmisión de inmuebles ubicados en el Estado, están obligados a presentar la declaración de la operación ante la Recaudación de Rentas del Ayuntamiento que corresponda, con quince días naturales de anticipación cuando menos a que concluya el plazo que señala la Fracción V de este Artículo.
+
+XV.- Las autoridades fiscales, de los Ayuntamientos del Estado tendrán la obligación de resolver la aprobación del avalúo presentado respecto de la adquisición o transmisión en el término de siete días naturales. En caso de que las autoridades fiscales no resuelvan en ese plazo se recibirá para los efectos del impuesto que se señala el avalúo de referencia, pudiendo revisarse posteriormente.
+
+XVI.- Los Peritos valuadores deberán presentar ante la Recaudación de Rentas Municipal del Ayuntamiento que corresponda la documentación oficial que los acredite como legalmente autorizados por la comisión Nacional Bancaria y de Seguros en los términos de su legislación y en base igualmente a los lineamientos establecidos por el Código de Comercio y el Reglamento de Corredores, para expedir los avalúos. En caso de que no se presenten a acreditar su autorización se rechazarán los avalúos practicados.
+
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
 
 ###### ARTICULO 76.
@@ -603,205 +843,437 @@ Las infracciones prevista (sic) en este capítulo se castigarán según el caso,
 
 Al aparecer en averiguaciones concernientes a infracciones fiscales, violaciones a leyes que deban ser castigadas por otras autoridades, deberán consignarse los hechos a éstas en un plazo no mayor de 10 días a contar de la fecha del descubrimiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 85.
 
-De todo ingreso proveniente de multas, percibido en definitiva con motivo de denuncia de particulares, corresponderá a éstos un 50% siempre que el esclarecimiento de las infracciones de que se trata obedezcan a datos concretos ministrados por el denunciante.
+La aplicación de las sanciones administrativas que proceda, se harán sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso, y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-En ningún caso podrá otorgarse a los denunciantes participación en ingresos por los impuestos, derechos, productos o aprovechamientos diversos de las multas, objeto de la denuncia.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 86.
 
-En ningún caso serán admitidas denuncias que no llenen los siguientes requisitos:
-
-I.- Que se hagan por escrito y vengan debidamente firmadas por el denunciante.
-
-II.- Que contengan relación precisa y exacta de la infracción o infracciones.
-
-III.- Que se identifique y localice el denunciante.
-
-IV.- No podrán ser denunciantes, los parientes consanguíneos del causante dentro del cuarto grado y los afines dentro del segundo.
+Los funcionarios o empleados ante quienes con motivo de sus funciones, se presente algún libro, objeto o documento que carezca total o parcialmente de los requisitos fiscales correspondientes, harán la denuncia respectiva a la autoridad fiscal para no incurrir en responsabilidad.
 
 ###### ARTICULO 87.
 
 Los empleados o dependientes de las autoridades fiscales, tienen la obligación de denunciar las infracciones fiscales que conozcan, pero lo harán en cumplimiento de sus deberes y no tendrán derecho de participación en las sanciones económicas que se impongan.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 88.
 
-Son infracciones cuya responsabilidad recae sobre los deudores o presuntos deudores de una prestación fiscal:
+En cada infracción de las señaladas en esta Ley, se aplicarán las sanciones correspondientes, conforme a las reglas siguientes:
 
-I.- Faltar a la obligación de presentar o proporcionar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos que exijan las leyes fiscales o presentarlos o proporcionarlos extemporáneamente.
+I.- La autoridad fiscal al imponer la sanción que corresponda, tomará en cuanta (sic) la importancia de la infracción, las condiciones del contribuyente y la conveniencia de destruir prácticas establecidas, tanto para evadir la prestación fiscal, cuánto para infringir, en cualquier otra forma, las disposiciones legales o reglamentarias.
 
-II.- Presentar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción anterior, alterados, falsificados, incompletos o con errores que traigan consigo la evasión de una prestación fiscal.
+II.- Al graduar la sanción, también se tendrá en cuenta la reincidencia, la condición de funcionario o empleado público que invista el infractor, su grado de cultura y el conocimiento que tuvo o debió tener de la obligación legal infringida; la conducta que asuma en el esclarecimiento de los hechos; el grado de dolo o culpa; la incapacidad relativa; las demás circunstancias que resulten de los procedimientos administrativos o jurisdiccionales y la presentación espontánea del crédito tributario.
 
-III.- Declarar ingresos menores, hacer deducciones falsas, ocultar u omitir bienes o existencias a precios inferiores de los reales.
+No se reputa espontánea la presentación motivada por una inspección o auditoría efectuada y ordenada por la autoridad fiscal.
 
-IV.- Faltar a la obligación de inscribirse o registrarse y de obtener las boletas o permisos respectivos, o de hacerlo fuera de los plazos legales.
+III.- La autoridad fiscal deberá fundar y motivar debidamente su resolución siempre que imponga sanciones.
 
-V.- Faltar a la obligación de comparecer ante las autoridades fiscales a presentar, comprobar o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción I, o con cualquier otro objeto, cuando dichas autoridades están facultadas por las leyes fiscales para requerir la comparecencia omitida.
+IV.- Cuando sean varios los responsables, cada uno deberá pagar el total de la multa que se le imponga.
 
-VI.- No hacer en los libros o documentos de su contabilidad, los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos o inexactos en perjuicio del fisco o hacerlo fuera de los plazos legales.
+V.- Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales, a las que señale esta Ley una sanción, sólo se aplicará la que corresponda a la infracción mas grave.
 
-VII.- Alterar, raspar o tachar en perjuicio del fisco, cualquier anotación, asiento o constancia en los libros o documentos de su contabilidad, hacer constar en ellos asientos, cuentas, nombres, cantidades o datos falsos, o mandar a hacer o consentir que se ejecuten en ellos alguna alteración, raspadura, tachadura o falsificación.
+VI.- En el caso de infracciones continuas y que no sea posible determinar el monto de la prestación evadida, se impondrá según la gravedad; una multa hasta el triple del máximo de la sanción que corresponda.
 
-VIII.- Destruir o inutilizar los libros o archivos para evitar una investigación fiscal.
+VII.- Exceptuando los casos de infracciones continuas, ninguna multa que se imponga en virtud de disposiciones de esta Ley podrá hacerse efectiva en cantidad que excederá de 100 días del importe del salario mínimo general vigente, pero esta restricción se refiere a cada una de las infracciones consideradas por separado, pues en el caso de que alguna persona sea responsable de diversas infracciones, aún cuando sean de la misma naturaleza; por cada una de ellas se le aplicará la multa respectiva, sea cual fuere la suma de todas las sanciones.
 
-IX.- No practicar los inventarios y balances que se les soliciten o practicarlos fuera de los plazos que las leyes dispongan.
+VIII.- Cuando se estime que la infracción cometida sea leve y que no ha tenido consecuencia la evasión de Impuesto, se impondrá el mínimo de la sanción que corresponda, apercibiéndose al infractor de que se le castigará como reincidente si volviera a incurrir en la infracción.
 
-X.- Faltar en todo o en parte al pago de un crédito fiscal como consecuencia de las omisiones, inexactitudes, simulaciones o falsificaciones de que se hablan en fracciones anteriores, así como cualquier otra maniobra encaminada a eludir el pago del adeudo.
+IX.- Cuando se omita una prestación fiscal que corresponda a los actos o contratos que se hagan constar en escrituras públicas o minutas extendidas ante corredor titulado, la sanción se impondrá exclusivamente a los notarios o corredores, y los otorgantes sólo quedarán obligados a pagar los gravámenes fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al notario o corredor, la sanción se aplicará entonces a los demás interesados.
 
-XI.- No hacer el pago de una prestación fiscal dentro de los plazos señalados por las leyes fiscales.
+X.- Cuando la liquidación de alguna prestación fiscal esté encomendada a funcionarios o empleados del Municipio, de la Federación o del Estado, éstos será (sic) responsables de las sanciones que correspondan quedando únicamente obligados los causantes a pagar la prestación omitida, excepto en los casos en que esta Ley o alguna Ley Fiscal disponga que no se podrá exigir al causante dicho pago.
 
-XII.- No tener en los lugares determinados por las leyes fiscales respectivas, las placas, boletas de registro, los libros o cualquier otro documento necesario para la determinación de la base gravable.
+XI.- Las autoridades fiscales se abstendrán de imponer sanciones, cuando se haya incurrido en infracciones a causa de fuerza mayor o de caso fortuito o cuando se enteren en forma espontánea en los plazos señalados por las disposiciones fiscales. No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas, salvo que el entero se efectúe dentro de los 5 días siguientes a su vencimiento aún cuando exista requerimiento.
 
-XIII.- No devolver oportunamente a las oficinas receptoras competentes los comprobantes de pago de una prestación fiscal, libros, placas, boletas o cualquier otro documento cuya devolución sea exigible por las leyes.
+XII.- Las autoridades fiscales dejarán de imponer sanciones cuando se haya incurrido en infracciones por hechos ajenos a la voluntad del infractor, circunstancias que éste deberá probar a satisfacción de las mencionadas autoridades.
 
-XIV.- Resistirse por cualquier medio, a las investigaciones o no suministrar los datos e informes que legalmente puedan exigirles los empleados fiscales, no mostrar los libros, documentos, registros, o impedir a los mismos empleados la entrada a los almacenes, depósitos, bodegas o cualquier otra dependencia de la negociación o empresa, o en general negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, en los casos en que se requiera comprobar la situación fiscal de la empresa o negociación interesada o de alguno o algunos de sus corresponsales.
-
-XV.- Producir, fabricar, transformar, almacenar o expender determinados artículos fuera de las zonas o lugares autorizados al efecto o emprender una explotación cualquiera sin tener el permiso correspondiente.
-
-XVI.- Vender productos o artículos afectos a cualquier prestación fiscal sin haber cumplido con las disposiciones que para el efecto establezcan las Leyes.
-
-XVII.- Vender bebidas embriagantes en los destacamentos militares, campamentos, de trabajadores, colonias o ejidos.
-
-XVIII.- Omitir la presentación para su registro del fierro quemador o declaración de la marca de su ganado.
-
-XIX.- Efectuar matanza clandestina de animales o no llenar los requisitos a que están obligados.
-
-XX.- Conducir sin licencia válida automóviles o motocicletas.
-
-XXI.- Ocupar la vía pública o señalar estacionamientos privados sin obtener el permiso correspondiente.
-
-XXII.- No cumplir con las disposiciones sobre diversiones y espectáculos públicos.
-
-XXIII.- Omitir o ejecutar extemporáneamente otras obligaciones a su cargo que emanen de las leyes fiscales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 89.
 
-Las infracciones comprendidas en el artículo anterior, se castigarán como sigue:
+Las infracciones y sanciones que no están expresamente determinadas en otra parte de esta Ley quedan sujetas a las disposiciones de este Capítulo.
 
-I.- Las señaladas en las Fracciones I, V, IX y XII, con una multa de $5.00 a $1,000.00 por cada infracción.
+I.- Son infracciones cuya responsabilidad recae sobre los sujetos pasivos o presuntos deudores de una prestación fiscal, y a cada uno corresponderá la sanción que en caso señala; en importe equivalente al ingreso del salario mínimo general vigente en el Estado.
 
-II.- Las señaladas en las fracciones II, VII, VIII y X, con multa de tres tantos del impuesto omitido, cuando éste pueda precisarse y, en caso contrario, con una multa de $50.00 a $10,000.00 por cada infracción.
+a).- No llevar los libros de contabilidad que según sus actividades están obligados; no presentar o proporcionar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que exijan las Leyes Fiscales o presentarlos o proporcionarlos extemporáneamente.
 
-III.- La señalada en la fracción III, independientemente del pago de la prestación fiscal omitida, con una multa de 100% sobre el monto de dicha prestación.
+Multa de 5 a 20 días.
 
-IV.- La señalada en la fracción IV, con una multa de $10.00 a 1,000.00 por cada infracción.
+b).- Presentar los avisos, declaraciones, manifestaciones, solicitudes, informes, copias, libros o documentos a que se refiere la fracción anterior, alterados, falsificados, incompletos o con errores que traigan consigo la evasión de una prestación fiscal. Multa de tres tantos del impuesto omitido cuando éste pueda precisarse, o de lo contrario.
 
-V.- La señalada en la fracción VI, con una multa de $10.00 a $10,000.00 por cada infracción.
+Multa de 8 a 40 días.
 
-VI.- La señalada en la fracción XI, con recargos computables por mes o fracción de mes, según la fecha de pago, sobre el monto del impuesto relativo o de los derechos en la forma prevista por esta Ley.
+c).- Declarar ingresos menores de los realmente obtenidos, hacer deducciones falsas, ocultar u omitir bienes o existencias que deban figurar en los inventarios o relaciones de inventarios, declarar bienes o existencias a precios inferiores de los reales. Multa de dos tantos del impuesto omitido. Cuando este pueda precisarse, o de lo contrario.
 
-VII.- La señalada en la fracción XIII, con una multa de $1.00 a $10.00 por cada infracción.
+Multa de 10 a 40 días.
 
-VIII.- La señalada en las fracciones XIV, XV, XVI, XVII, con multa de $100.00 a $10,000.00 por cada infracción.
+d).- No inscribirse o registrarse y obtener las boletas placas, o permisos, o hacerlo fuera de los plazos legales. No incluir en la solicitud para su inscripción en el Registro de Contribuyentes, todas las actividades por las que sea contribuyente habitual.
 
-IX.- La señalada en las fracciones XVIII, XX y XXII, con multa de $20.00 a $50.00.
+Multa de 10 días.
 
-X.- La señalada en la fracción XIX, con multa de $20.00 a $200.00.
+e).- No comparecer ante las autoridades fiscales a presentar, comprobar, o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos a que se refiere la fracción I, o con cualquier otro objeto cuando dichas autoridades estén facultadas por las leyes fiscales para requerir la comparecencia.
 
-XI.- La señalada en la fracción XXI, con multa de $5.00 a $500.00 por cada día que dure la infracción.
+Multa de 3 a 10 días.
 
-XII.- La señalada en la fracción XXIII se castigará de acuerdo con sus consecuencia e importancia; aplicando la fracción del artículo anterior que sea similar.
+f).- No hacer en los libros o documentos de su contabilidad, los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos en perjuicio del Fisco, o hacerlos fuera de los plazos legales. Multa de tres tanto del impuesto omitido cuando pueda precisarse o de lo contrario.
+
+Multa de 3 a 10 días.
+
+g).- Llevar doble juego de libros.
+
+Multa de 30 a 100 días.
+
+h).- Alterar, raspar o tachar, en perjuicio del Fisco, cualquier anotación, asiento o constancia en los libros o documentos de su contabilidad, hacer constar en ellos datos falsos o mandar hacer o consentir que se ejecuten en ellos alguna alteración, raspadura, tachadura o falsificación.
+
+Multa de 5 a 100 días.
+
+i).- Destruir o inutilizar los libros o archivos para evitar una investigación fiscal. Multa de tres tanto del impuesto omitido cuando éste pueda precisarse, o de lo contrario.
+
+Multa de 5 a 100 días.
+
+j).- No presentar los inventarios y balances que se les soliciten, o presentarlos fuera de los plazos que las leyes dispongan.
+
+Multa de 5 a 20 días.
+
+k).- Faltar en todo o en parte al pago de un crédito fiscal como consecuencia de las omisiones, inexactitudes, simulaciones o falsificaciones a que se refieren las fracciones anteriores, así como cualesquier otra maniobra encaminada a eludir el pago del adeudo. Multa de tres tantos del impuesto omitido cuando pueda precisarse o de lo contrario.
+
+Multa de 10 a 30 días.
+
+l).- No hacer el pago de una prestación fiscal dentro de los plazos señalados por las Leyes Fiscales.
+
+Multa de 2 a 75 días.
+
+m).- No tener en los lugares determinados por las leyes fiscales respectivas, las placas, boletas de registro, los libros o cualquier otro documento necesario para la determinación de la base gravable.
+
+Multa de 1 a 15 días.
+
+n).- No devolver oportunamente a las oficinas receptoras los comprobantes de pago de una prestación fiscal, libros, placas, boletas o cualquier otro documento cuya devolución sea exigible por las leyes.
+
+Multa de 1 a 10 días.
+
+o).- No presentar las facturas, recibos, notas de venta, y otros comprobantes de las compras efectuadas.
+
+Multa de 1 a 10 días.
+
+p).- No suministrar los datos e informes que legalmente los exijan las autoridades fiscales, no mostrar los libros, documentos, registros, o impedir a las mismas autoridades la entrada a los almacenes, depósitos, bodegas o cualquier otra dependencia de la negociación o empresa, o en general, negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal, para comprobar la situación de la empresa o negociación visitada.
+
+Multa de 5 a 15 días.
+
+q).- Emprender cualquier explotación sin obtener previamente el permiso exigido por los ordenamientos legales o producir, fabricar, transformar, almacenar o expender determinados artículos fuera de las zonas o lugares autorizados al efecto.
+
+Multa de 5 a 30 días.
+
+r).- No registrar los contratos que señalan las leyes fiscales.
+
+Multa de 1 a 10 días.
+
+s).- Destruir o remover sin estar facultados, los sellos oficiales.
+
+Multa de 1 a 10 días.
+
+t).- Faltar a la obligación de extender facturas, notas de venta o comprobantes de máquinas registradoras o cualquiera otros documentos que señalen las leyes fiscales.
+
+Multa de 5 a 20 días.
+
+u).- Traficar con los documentos o comprobantes, de pago de prestaciones fiscales o hacer uso ilegal de ellos.
+
+Multa de 5 a 40 días.
+
+v).- Infringir disposiciones fiscales en forma no prevista en fracciones anteriores.
+
+Multa de 1 a 5 días.
+
+II.- Son infracciones cuya responsabilidad recae sobre terceros y a cada una corresponderá la sanción que en cada caso se señala:
+
+a).- No proporcionar o no aclarar oportunamente los avisos, informes, datos o documentos que les fueren solicitados por las autoridades fiscales con apoyo de las facultades que sobre el particular le confieren las leyes, o no exhibirlos en los plazos fijados.
+
+Multa de 3 a 40 días.
+
+b).- Presentar los avisos, informes, datos y documentos a que se refiere la fracción anterior, incompletos o inexactos.
+
+Multa de 1 a 20 días.
+
+c).- Presentar los avisos, informes, datos o documentos a que se refiere el inciso a) de este artículo, alterados o falsificados.
+
+Multa de 1 a 20 días.
+
+d).- Autorizar o hacer constar, en calidad de contadores, peritos o testigos, documentos, inventarios, balances o asientos con datos falsos.
+
+Multa de 10 a 90 días.
+
+e).- Intervenir en cualquier forma no espeificada (sic), en la alteración de documentos, en inscripción de cuentas, asientos o datos falsos en libros o registros relativos a la contabilidad, o en algún hecho preparatorio de los apuntados.
+
+Multa de 4 a 40 días.
+
+f).- No enterar dentro de los plazos señalados, las cantidades retenidas o no presentar las declaraciones, informes o documentos necesarios para la liquidación o pago del adeudo fiscal. Multa de tres tantos del impuesto omitido cuando pueda precisarse o de lo contrario.
+
+Multa de 1 a 10 días.
+
+Por cada infracción.
+
+g).- Presentar declaraciones, informes o documentos alterados, falsificados, incompletos o con errores que traigan consigo la evasión total o parcial de una prestación fiscal.
+
+Multa de 5 a 30 días.
+
+h).- Asesorar o aconsejar al contribuyente para que aluda el pago de alguna prestación fiscal o para que infrinja las leyes fiscales.
+
+Multa de 5 a 80 días.
+
+i).- No suministrar los datos o informes que legalmente los exijan las autoridades fiscales; no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores, o, en general los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal.
+
+Multa de 5 a 30 días.
+
+j).- Adquirir, ocultar, retener o enajenar, productos, mercancías o artículos, a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se hubieran debido pagar.
+
+Multa de 5 a 20 días.
+
+k).- No presentar ayuda a las autoridades fiscales por la determinación y cobro de prestaciones fiscales en los casos en que tengan obligación de hacerlo conforme a las disposiciones de la materia.
+
+Multa de 5 a 15 días.
+
+l).- No cerciorarse, al transportar artículos gravados, del pago de los impuestos que se haya causado, cuando las disposiciones fiscales impongan esa obligación, o hacer el transporte sin la documentación que exijan las mismas disposiciones.
+
+Multa de 1 a 10 días.
+
+m).- Destruir o remover sin estar facultados, los sellos oficiales.
+
+Multa de 1 a 10 días.
+
+n).- Traficar con los documentos y comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos.
+
+Multa de 8 a 40 días.
+
+o).- Infringir disposiciones fiscales en forma no previstas en las fracciones anteriores.
+
+Multa de 1 a 10 días.
+
+III.- Son infracciones cuya responsabilidad recae sobre los notarios, corredores, encargados de los registros públicos y, en general sobre los funcionarios, encargados de llevar la fé pública, y a cada uno corresponderá la sanción que en cada caso se señala:
+
+a).- No hacer la manifestación de las escrituras, contratos o cualesquiera actos que se celebren y otorguen ante su fé, o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales.
+
+Multa de 5 a 10 días.
+
+b).- Autorizar actos o contratos de enajenación o transpaso (sic) de negociaciones, de disolución de sociedades u otros que sean fuente de ingresos gravados por el Fisco, sin cerciorarse previamente de que se está al corriente en el cumplimiento de las obligaciones fiscales relativas o sin dar los avisos que prevengan las leyes.
+
+Multa de 5 a 30 días.
+
+c).- Inscribir o registrar documentos que carezcan de la constancia de haberse pagado el impuesto o derecho correspondiente. Multa de tres tantos del impuesto omitido cuando éste se pueda precisar, o de lo contrario.
+
+d).- Autorizar documentos o contratos, que no estén debidamente requisitados de acuerdo con las leyes fiscales correspondientes.
+
+Multa de 5 a 20 días.
+
+e).- Cooperar con los infractores o facilitar en cualquier forma la omisión total o parcial del impuesto, mediante alteraciones, ocultaciones u otros hechos u omisiones.
+
+Multa de 10 a 30 días
+
+f).- Otorgar constancia de que se ha cumplido con las obligaciones fiscales cuando no proceda su otorgamiento.
+
+Multa de 10 a 40 días.
+
+g).- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo, en el plazo que exigen las disposiciones fiscales, o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos.
+
+Multa de 10 a 40 días.
+
+h).- Presentara los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados.
+
+Multa de 10 días.
+
+i).- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos.
+
+Multa de 10 a 30 días.
+
+j).- Infringir otras disposiciones fiscales en forma no prevista en las fracciones anteriores.
+
+Multa de 1 a 5 días.
+
+IV.- Son infracciones cuya responsabilidad recae sobre los funcionarios y empleados públicos de los municipios, así como sobre los encargados de servicios públicos u organismos oficiales y a cada una corresponderá la sanción que en cada caso se señala.
+
+a).- Dar entrada a documentos que carezcan de los requisitos especificados en las leyes o no requisitarlos debidamente cuando les corresponda hacerlo, y en general, no cuidar el cumplimiento de las disposiciones fiscales
+
+Multa de 5 a 30 días.
+
+Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo.
+
+b).- Expedir actas, certificados, legalizar firmas autorizar documentos, inscribirlos o registrarlos sin que exista constancia de que se pagó el gravamen.
+
+Multa de 5 a 30 días.
+
+c).- Recibir el pago de una prestación fiscal y no enterar su importe inmediatamente en la caja recaudadora.
+
+Multa de 5 a 50 días.
+
+d).- Exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e intereses fiscales.
+
+Multa de 5 a 50 días.
+
+e).- No presentar o proporcionar extemporáneamente los informes, avisos, datos o documentos que exijan las disposiciones fiscales, presentarlos incompletos, o inexactos. No prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias.
+
+Multa de 10 a 30 días.
+
+f).- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados.
+
+Multa de 10 a 50 días.
+
+g).- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento. Cooperar en cualquier forma para que se eludan las prestaciones fiscales.
+
+Multa de 10 a 50 días.
+
+h).- Asentar falsamente que se ha dado cumplimiento a las obligaciones fiscales o que se practicaron visitas de inspección; o incluir en las actas relativas, datos falsos.
+
+Multa de 10 a 50 días.
+
+i).- Alterar documentos fiscales.
+
+Multa de 10 a 50 días.
+
+j).- No efectuar las investigaciones administrativas que están obligados a hacer en materia fiscal.
+
+Multa de 5 a 25 días.
+
+k).- Incluir o asentar datos falsos, o bien ocultar los verdaderos en perjuicios del fisco, en las actas que levanten con motivo de las investigaciones administrativas que se efectúen.
+
+Multa de 5 a 25 días.
+
+l).- Intervenir en la tramitación o resolución de algún asunto, cuando tenga impedimento de acuerdo con las disposiciones fiscales.
+
+Multa de 5 a 25 días.
+
+m).- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos.
+
+Multa de 5 a 25 días.
+
+n).- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que ello sea obligatorio, de acuerdo con las leyes de la materia.
+
+Multa de 8 a 40 días.
+
+o).- Adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona.
+
+Multa de 5 a 20 días.
+
+p).- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos.
+
+Multa de 8 a 90 días.
+
+q).- No suministrar los datos o informes que legalmente les exijan las autoridades fiscales, negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal.
+
+Multa de 8 a 90 días.
+
+r).- Exigir o recibir bajo el título de cooperación, colaboración y otro semejante, cualquier prestación que no esté expresamente prevista en la Ley.
+
+Multa de 5 a 90 días.
+
+s).- Infringir disposiciones fiscales en forma no prevista en las fracciones anteriores.
+
+Multa de 1 a 8 días.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 90.
 
-Son infracciones cuya responsabilidad recae sobre los terceros:
+Sin perjuicio de las facultades que otorga esta Ley al titular de la Hacienda Municipal para la aplicación de sanciones, éste podrá clausurar temporal o definitivamente los giros mercantiles o industriales en los casos siguientes:
 
-I.- No proporcionar oportunamente los avisos, informes, datos o documentos a que estén obligados o que se les fueron solicitados por las autoridades fiscales con apoyo en las facultades que sobre el particular les confieren las leyes.
+a).- Cuando el contribuyente omita el pago de sus impuestos en tres meses consecutivos.
 
-II.- Presentar los informes, datos y documentos de que se habla en la fracción anterior, incompletos o inexactos.
+b).- Cuando el contribuyente oponga resistencia o no proporcione en el término que la autoridad fiscal lo solicite, la información y documentación requerida en la práctica de la auditoría fiscal.
 
-III.- No comparecer ante las autoridades fiscales a completar o aclarar los documentos de que hablan las fracciones anteriores, cuando dichas autoridades estén facultadas por las leyes fiscales para exigirlo.
+Para efectuar las clausuras que señala este artículo, deberá requerirse previamente al contribuyente, concediéndole un término de tres días para el cumplimiento de sus obligaciones, apercibiéndolo que de no hacerlo se procederá a clausurar sin más trámite.
 
-IV.- Autorizar o asentar, en calidad de contadores, peritos o testigos, documentos, inventarios, balances, asientos o datos falsos.
-
-V.- Intervenir en cualquier forma no especificada, en la alteración de documentos, en la inscripción de cuentas, asientos, o datos falsos en los libros o registros relativos a la contabilidad o en algún hecho preparatorio de los apuntados.
-
-VI.- No retener el importe de alguna prestación fiscal, en los casos en que las leyes les impongan la obligación de hacerlo.
-
-VII.- No enterar total o parcialmente dentro de los plazos señalados, las cantidades retenidas o no presentar las declaraciones, informes o documentos necesarios para la liquidación o pago de la deuda fiscal.
-
-VIII.- Presentar declaraciones, informes o documentos alterados, falsificados, incompletos o con errores que traigan consigo la evasión total o parcial de una prestación fiscal.
-
-IX.- Asesorar o aconsejar al causante para que eluda el pago de alguna prestación fiscal o para que infrinja las leyes fiscales.- Se presume que los contadores, tenedores de libros, agentes de negocios y en general cualquier persona que intervenga en algún acto encaminado a la determinación de una prestación fiscal ha asesorado o aconsejado al causante, cuando éste ha infringido las leyes fiscales o eludido el pago de la prestación fiscal, salvo prueba en contrario.
-
-X.- Resistirse, por cualquier medio a las investigaciones administrativas o no suministrar los datos o informes que legalmente puedan exigirles los empleados fiscales, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores o en general los elementos necesarios para el esclarecimiento de los hechos, en los casos en que se requieran para comprobar la situación fiscal de algún causante.
-
-XI.- Comprar o adquirir de cualquier otro modo, en beneficio propio, y ocultar o vender mercancía de las que se sepa, según se desprenda de las circunstancias, que son objeto de fraudes al fisco, así como retener en su poder objetos o productos sobre los que se haya omitido el pago de un gravamen fiscal.
-
-XII.- Faltar a la obligación de prestar auxilio a los funcionarios o empleados fiscales para el descubrimiento o castigo de infracciones fiscales.
-
-XIII.- Cooperar en cualquier forma no prevista en las fracciones anteriores a la comisión de infracciones fiscales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 91.
 
-Las infracciones comprendidas en el artículo anterior, se castigarán como sigue:
+Las sanciones y multas por infracciones a las Leyes o reglamentos fiscales, se fundarán y motivarán debidamente en proveído escrito, que formulará la autoridad fiscal.
 
-I.- Las señaladas en las fracciones I, II, III, V, XII y XIII, con multa de $10.00 a $500.00.
+Los proveídos a que se refiere el párrafo anterior deberán ser notificados a los infractores en la forma establecida en esta Ley, otorgando un plazo de 15 (quince) días para el pago de su importe. Transcurrido dicho plazo sin hacerse el pago, se iniciará el procedimiento de ejecución.
 
-II.- Las señaladas en las fracciones IV, VIII, IX y XI, con multa de $50.00 a $10,000.00 por cada infracción.
+Las multas que contituyen (sic) penas pecuniarias aplicadas por actos u omisiones de carácter personal, violatorios de disposicioens (sic) legales o reglamentarias, únicamente podrán afectar a las personas físicas o morales, que hubieran incurrido en tales actos u omisiones y a quienes la Ley señale como solidariamente responsables de las mismas.
 
-III.- Las señaladas en las fracciones VI y VII, con multa de tres tantos del impuesto omitido, cuando éste pueda precisarse y, de lo contrario, con multa de $10.00 a $1,000.00 por cada infracción.
+Las resoluciones que impongan multas a los notarios públicos y demás funcionarios, por infracciones a las disposiciones de esta Ley, serán dadas a conocer al Colegio de Notarios a que pertenezcan o al superior jerárquico, a efecto de que obren en consecuencia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 92.
 
-Son infracciones cuya responsabilidad recae sobre los funcionarios y empleados públicos del Estado, así como sobre los encargados de servicios públicos u órganos oficiales de los mismos:
+DE LOS DELITOS FISCALES.
 
-I.- Dar entrada o curso a documentos que en todo o en parte carezcan de los requisitos especificados en las leyes o no requisitarlos debidamente cuando les corresponda hacerlo o en general, descuidar la vigilancia del cumplimiento de obligaciones fiscales.
+I.- Para proceder penalmente por los delitos previstos en esta Ley, será necesario que el Titular de la Hacienda respectiva declare precisamente que el Fisco ha sufrido, o puede sufrir perjuicio.
 
-Se tendrá como responsable de este género de infracciones al funcionario o empleado que, por razón de su encargo, sea quien debe examinar si los documentos de que habla esta fracción llenan los requisitos legales.
+En cuanto a los delitos tipificados en las fracciones V, VI y VII de este Artículo se requerirá querella del Síndico Municipal.
 
-II.- Registrar documentos o instrumentos en los cuales no aparezca la constancia de haberse pagado el impuesto correspondiente.
+Los preceptos por delitos fiscales a que se refiere el párrafo anterior de este artículo serán sobreseídos si el Síndico Municipal los solicita antes de que el Ministerio Público formule conclusiones.
 
-III.- Recibir el pago de una prestación fiscal y no enterar su importe inmediatamente sin más demora que la que naturalmente demande el trámite administrativo.
+Así mismo el Síndico Municipal deberá solicitar el sobreseimiento si el procesado paga las prestaciones fiscales originadas por el hecho imputado, o si a juicio del mismo ha quedado garantizado el interés del Erario Municipal.
 
-IV.- Extender actas, expedir certificaciones, legalizar firmas o autorizar documentos o libros sin exigir el pago de la prestación fiscal que corresponda, o ser factor indirecto para que esto suceda.
+II.- En todo lo no previsto en el presente capítulo serán aplicables las reglas consignadas en los Códigos Penal, y de Procedimientos Penales del Estado.
 
-V.- Recaudar los impuestos por menor cantidad de la que corresponda o ser factor indirecto para que esto suceda.
+III.- En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas, con arreglo a las leyes fiscales harán efectivo los impuestos eludidos y las sanciones administrativas correspondientes.
 
-VI.- No rendir en tiempo oportuno, informes o avisos; no proporcionar noticias o datos ni exhibir documentos, cuando tengan obligación de hacerlo.
+IV.- Comete delito de uso de formas valoradas o numeradas, placas, tarjetones o cualquier otro medio de control fiscal falsificado y se le impondrá de uno a seis años de prisión:
 
-VII.- Presentar los informes, avisos, noticias, datos o documentos de cualquier clase, cuando tengan obligación de hacerlo, alterados, falsificados o con ocultaciones o inexactos.
+a).- Al particular o empleado público que a sabiendas de que fueron impuestos o grabados sin autorización del Titular de Hacienda Municipal, los posea, venda, ponga en circulación, o, en su caso, adhiera en documentos, objetos o libros, para ostentar el caso de alguna prestación fiscal.
 
-VIII.- Contribuir con los infractores a la alteración de declaraciones, avisos o cualquier otro documento necesario para la determinación de la cuota aplicable a facilitar en cualquier otra forma, que ocurran omisiones o actos tendientes al fraude fiscal.
+b).- El particular o empleado público que los posea, venda, ponga en circulación o los utilice, para el pago de alguna prestación fiscal, alterados en sus características, a sabiendas de esta circunstancia.
 
-IX.- Asentar falsamente que algún causante ha dado cumplimiento a sus obligaciones fiscales.
+c).- Quien venda, ponga en circulación o en alguna otra forma comercie con dichos objetos si son manufacturados con fragmentos o recortes de otros.
 
-X.- Alterar documentos fiscales que estén en su poder por razón de su encargo.
+d).- Quien utilice dichos objetos para pagar alguna prestación fiscal a sabiendas de que se trata de los manufacturados con fragmentos o recortes de otros.
 
-XI.- No efectuar las investigaciones administrativas que estén obligados a hacer en materia fiscal.
+V.- Se impondrá de tres a doce años de prisión a quien:
 
-XII.- Informar falsamente que en la dependencia en que presten sus servicios, se ha verificado y comprobado el cumplimiento de las leyes fiscales.
+a).- Grave o manufacture sin autorización del Titular de Hacienda Municipal, matrices, punzones, dedos, clichés o negativos, semejantes a los que la propia dependencia usa para imprimir, grabar o troquelar cualquier comprobante de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal.
 
-XIII.- Incluir o asentar datos falsos, o bien ocultar los verdaderos en perjuicio del fisco, en las actas que levanten con motivo de las investgaciones (sic) administrativas que efectúen.
+b).- Imprima, grave o troquele tarjetones o comprobantes de pago de prestaciones fiscales y objetos que se utilicen oficialmente como medio de control fiscal, sin la autorización del Titular de la Hacienda Municipal.
 
-XIV.- Conocer de un asunto cuando, conforme a las leyes fiscales, tuvieren impedimento expreso para ello.
+c).- Altere en sus características las formas valoradas o numeradas, placas, tarjetones o comprobantes de prestaciones fiscales y objetos que se utilicen oficialmente como medio de control fiscal.
 
-XV.- Faltar a la obligación de guardar el secreto que les impongan las leyes fiscales, en los negocios de que deban conocer; revelar los datos declarados por los causantes o aprovecharse personalmente de ellos en cualquier forma.
+d).- Forme algún comprobante de los mencionados anteriormente con los fragmentos de otros recortados o mutilados.
 
-En esta infracción incurren las personas que, como representantes de los causantes intervengan en trámites fiscales, para cuyo efecto se les asimilará a las autoridades.
+Esta sanción se aplicará aún cuando el falsario no se haya propuesto obtener algún provecho.
 
-XVI.- Cooperar con los infractores al fraude fiscal, en cualquier forma no prevista en las fracciones anteriores; facilitarles las maniobras y omisiones encaminadas a dicho propósito o dar lugar a que esas maniobras pongan en peligro una prestación fiscal.
+VI.- Comete el delito de defraudación fiscal quien haga uso de engaños, para omitir total o parcialmente el pago de algún impuesto.
 
-XVII.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que ello sea obligatorio, de acuerdo con las leyes de la materia.
+VII.- La pena que corresponde al delito de defraudación se impondrá también a quien:
 
-XVIII.- Adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, siempre que se trate de alguno de los funcionarios o particulares que intervengan oficial o formalmente en el procedimiento.
+a).- Mediante la simulación de actos jurídicos omita total o parcialmente el pago de los impuestos a su cargo.
+
+b).- Consigne en las declaraciones que presente para fines fiscales, ingresos o utilidades menores que los realmente obtenidos, o deducciones falsas.
+
+c).- Proporcione con falsedad a las autoridades fiscales que lo requieran, los datos que obren en su poder y que sean necesarios para determinar la producción, el ingreso gravable o los impuestos que cauce.
+
+d).- Oculte a las autoridades fiscales, total o parcialmente la producción sujeta a impuestos o el monto de las ventas.
+
+e).- No expida los documentos con los requisitos establecidos por las disposiciones fiscales para acreditar el pago de impuestos.
+
+f).- Como fabricante, porteador, comerciante o expendedor haga circular productos sin llegar a los requisitos de control a que obliguen las disposiciones fiscales.
+
+g).- No entere a las autoridades fiscales dentro del plazo del requerimiento de que se le haga, las cantidades que haya retenido o recaudado de los causantes, por concepto de impuestos.
+
+h).- Para registrar sus operaciones contables, fiscales o sociales, lleve dos o más libros similares con distintos asientos o datos.
+
+i).- Destruya, ordene o permita la destrucción total o parcial, dejándolos ilegibles, de los libros de contabilidad que prevengan las leyes aplicables.
+
+j).- Utilice pastas o encuadernaciones de los libros a que se refiere el inciso anterior, para sustituir o cambiar las páginas foliadas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 93.
 
-Las infracciones comprendidas en el artículo anterior, se castigarán como sigue, sin perjuicio a las sanciones que contengan las Leyes:
+El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto del impuesto defraudado es del equivalente al ingreso de 60 días de salario mínimo general a 100 días y con prisión de dos a nueve años si dicho monto es mayor del equivalente a 100 días de ingreso del salario mínimo general, vigente en el Estado.
 
-I.- Las señaladas en las fracciones I, II y XI, con multa de $10.00 a $500.00 por cada infracción.
+Cuando no se pueda determinar la cuantía del impuesto que se defraudó la pena será de tres meses a nueve años de prisión.
 
-II.- Las señaladas en las fracciones III, IV, V, VII, VIII, IX, X, XIII, XV, XVI y XVIII, con multa de $50.00 a $10,000.00 por cada infracción.
+No se impondrán las sanciones previstas en este artículo, si quien hubiere cometido el delito entera espontáneamente el impuesto omitido.
 
-III.- Las señaladas en la fracción VI, con multa de $10.00 a $100.00 por cada infracción.
-
-IV.- Las señaladas en las fracciones XII, XIV y XVII, con multa de $50.00 a 1,000.00 por cada infracción.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 94.
 
-Al tener conocimiento la Autoridad Fiscal de la colaboración de un profesionista en un acto de defraudación fiscal sea su intervención directa o indirecta, mediata o inmediata se consignarán los hechos al Ministerio Público para los efectos correspondientes.
+Para los fines del artículo que antecede se tomará en cuenta el monto del impuesto o impuestos defraudados, aún cuando se trate de impuestos diferentes, de diversas acciones u omisiones de las previstas en el artículo 92 fracción VII.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
 
@@ -809,75 +1281,37 @@ Al tener conocimiento la Autoridad Fiscal de la colaboración de un profesionist
 
 Sin perjuicio de que se apliquen los recargos y sanciones correspondientes, el Tesorero Municipal podrá clausurar temporalmente los giros Comerciales, Industriales o de Servicios que omitan o dejen de cubrir sus impuestos durante dos meses consecutivos, o dos meses de vencido el crédito fiscal.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 95.
 
-La imposición de sanciones administrativas de carácter fiscal queda encomendada al Tesorero y Recaudadores, como sigue:
+Comete el delito de rompimiento de sellos en materia fiscal quien sin autorización legal, altere o destruya los aparatos de control, sellos o marcas oficiales colocados con finalidad fiscal, o impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados.
 
-I.- Al Tesorero para multas definitivas sin más límite que el que para infracción se establezca en esta Ley.
-
-II.- A los recaudadores pra (sic) multas definitivas no mayores de $100.00.
-
-III.- A los mismos funcionarios de la fracción anterior para multas provisionales mayores de $100.00.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 96.
 
-Siempre que se descubriere y precisare alguna infracción fiscal:
+Al que cometa el delito de rompimiento de sellos se le impondrá la pena de dos meses a seis años de prisión.
 
-I.- Si la sanción fuere multa no mayor de cien pesos:
-
-a).- El Jefe de la oficina respectiva examinará en cada caso el expediente instruído y dictará dentro del término de cinco días el proveído definitivo que proceda conforme a la Ley.
-
-b).- Dentro de los 10 días siguientes a la fecha en que se dicte el proveído definitivo se notificará al infractor requiriéndolo de pago, y de no hacerse esto, se instaurará el procedimiento administrativo de ejecución.
-
-II.- Si la sanción fuere multa que exceda de cien pesos y que imponga el Tesorero Municipal, servirán las siguientes reglas señaladas en la fracción anterior.
-
-III.- Si se tratara de multas que excedan de $100.00 impuestas provisionalmente por los Recaudadores de Rentas:
-
-a).- Se estará a lo dispuesto en el inciso a) de la fracción I, pero los proveídos serán de carácter provisional.
-
-b).- Dentro de los diez días siguientes a la fecha en que se dicte el proveído, deberá notificarse ésta y asegurarse el interés fiscal.
-
-c).- Cumplidos los mandatos de los incisos anteriores, el jefe de la oficina informará al Tesorero Municipal dentro de los cinco días siguientes al aseguramiento, sobre la multa provisional impuesta y la garantía del interés fiscal.
-
-d).- El Tesorero Municipal examinará los informes de los funcionarios o empleados que hubieren practicado la investigación así como los producidos por la oficina receptora, y modificará o conformará el proveído provisional.
-
-e).- En el caso de que, al notificarse el proveído provisional, el interesado hubiere satisfecho las prestaciones consignadas a su cargo en dicha resolución, se considerará el entero como depósito en efectivo, en garantía del interés fiscal y por lo tanto, habrá lugar a restituir o exigir las diferencias que se originen del fallo del Tesorero, pero si fuere confirmado el proveído provisional, el pago se estimará hecho en la fecha del entero de garantía.
-
-f).- La resolución del Tesorero se notificará en la forma y términos de la Ley al multado y se comunicará por oficio a la oficina receptora para que, en su caso proceda en los términos del inciso b) de la fracción I.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 97.
 
-En cada infracción o delito de que trata esta Ley se aplicarán sanciones a que el infractor se haya hecho acreedor, observando las reglas siguientes:
+Se impondrá prisión hasta de tres años, a los funcionarios o empleados públicos que practiquen o pretendan practicar visitas domiciliarias sin mandamiento escrito de la autoridad fiscal competente.
 
-I.- Cuando los responsables de cualquier infracción o delito fuesen varios, cada uno de ellos pagará el total de la multa con que esté sancionado el delito o la infracción en que hubieren incurrido.
-
-II.- Exceptuando los casos de infracciones continuas, ninguna multa que se imponga en virtud de disposiciones de esta Ley podrá hacerse efectiva en cantidad que exceda de $10,000.00 pero esta restricción se refiere a cada una de las infracciones consideradas por separado, pues en el caso de que alguna persona sea responsable de diversas infracciones, aún cuando sean de la misma naturaleza, por cada una de ellas se le aplicará una multa respectiva, sea la cual fuere la suma de todas las sanciones.
-
-III.- Siempre que se imponga una multa, la autoridad fiscal deberá fundar su resolución en elementos de convicción bastantes para declarar la existencia y gravedad de la infracción que origine la sanción.
-
-IV.- Cuando se estime que las diversas infracciones, sin ser leves, consisten en hechos, omisiones o falta de requisitos de un mismo carácter que no traigan ni puedan traer consigo la evasión del impuesto, se considerará el conjunto como una sola infracción y se impondrá una sola multa que no podrá exceder de $200.00.
-
-V.- Cuando se estime que la infracción cometida es leve y no ha tenido como consecuencia la evasión del impuesto, no se impondrá sanción alguna y se darán al infractor las facilidades compatibles con esta Ley para que satisfaga el requisito omitido, apercibiéndolo de que se le castigará como reincidente si volviere a incurrir en la infracción.
-
-VI.- El importe de la prestación fiscal evadida no se considerará dentro del monto de las multas.
-
-VII.- Por omisión de una prestación fiscal que corresponda a los actos o contratos que se hagan constar en escritura pública o en minuta extendida ante corredor titulado, la sanción se impondrá exclusivamente a los notarios o corredores, pero si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al notario o corredor, la sanción recaerá en los mismos interesados.
-
-VIII.- Cuando la liquidación de alguna prestación fiscal esté encomendada a funcionarios o empleados, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que corresponda, quedando únicamente obligados los causantes a pagar la prestación omitida.
-
-IX.- Cuando un mismo acto u omisión implique diversas infracciones, se aplicará la sanción mayor aumentándose esta hasta en un 50%.
-
-X.- El Tesorero Municipal para fijar la multa que corresponda tomará en cuenta la importancia de la infracción, las condiciones económicas del infractor y la conveniencia de destruir prácticas establecidas, tanto para evadir la prestación cuanto para infringir en cualquier otra forma las disposiciones legales o reglamentarias.
-
-XI.- En el caso de infracciones continuas y de que no sea posible determinar el monto de las prestaciones evadidas, se impondrá según la gravedad, una multa hasta el triple del máximo de la sanción que corresponda.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 98.
 
-Las autoridades fiscales, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio:
+Las autoridades Fiscales, para hacer cumplir sus determinaciones, cualquiera que sea su naturaleza, podrán emplear los siguientes medios de apremio:
 
-a).- Multa desde $5.00 hasta $500.00.
+I.- Multa hasta de dos veces el equivalente al salario mínimo general vigente en el Estado.
 
-b).- El auxilio de la fuerza pública.
+II.- Auxilio de la fuerza pública.
+
+III.- Arresto hasta por treinta y seis horas.
+
+IV.- La denuncia respectiva por desobediencia al mandato legítimo de autoridad competente.
 
 ###### ARTICULO 99.
 
@@ -923,11 +1357,17 @@ DE LOS RECARGOS
 
 Independientemente de las responsabilidades y sanciones de que habla esta Ley, todo crédito fiscal proveniente de impuestos o derechos, que no fuere satisfecho dentro de los plazos que establezcan las leyes, causará un recargo mensual como indemnización debida al fisco por la falta de pago oportuno del adeudo respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 108.
 
-Este recargo será del dos por ciento por cada mes o fracción que se retrase el pago; pero sin que en ningún caso puedan exceder estos recargos del cuarenta y ocho por ciento del impuesto adeudado.
+Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos, en concepto de indemnización al Fisco Municipal respectivo por la falta de pago oportuno.
 
-De los pagos que a cuenta de impuestos hagan los causantes, serán cubiertos en primer término los recargos causados hasta esa fecha, aplicándose el remanente al impuesto mismo.
+La tasa de los recargos será la que fije la Ley de Ingresos del Municipio respectivo. Así mismo se cubrirán gastos de ejecución cuando no se cumpla con el requerimiento fiscal dentro del plazo señalado; en los términos de esta Ley.
+
+Los recargos se causarán por cada mes o fracción que transcurra, a partir de la fecha de la exigibilidad hasta que se efectúe el pago.
+
+La condonación parcial o total de los recargos se hará previo estudio y por acuerdo expreso que dicte el Presidente Municipal.
 
 ###### ARTICULO 109.
 
@@ -1011,9 +1451,11 @@ I.- Precisamente con el deudor si se trata de secuestro convencional.
 
 II.- En los demás casos con el deudor, o en su ausencia, con alguna de las personas a que se refiere el artículo 114. Si se le pidiera, el ejecutor entregará copia del acta de embargo a la persona con quien se entendiere la diligencia.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 122.
 
-Si el requerimiento se hizo por medio de edictos y el interesado no comparece, la diligencia de embargo se entenderá con la primera autoridad administrativa del lugar en donde se encuentren los bienes.
+En los casos en que se ignore el domicilio del deudor, se encuentre fuera del Municipio respectivo sin haber dejado representante legal acreditado ante las autoridades fiscales correspondientes, hubiere fallecido y no tenga representante legal de su sucesión, o se ignore quien es o donde tenga su domicilio, el requerimiento y, en su caso, el embargo, se entenderá con el vecino mas cercano o con la autoridad municipal del lugar. Esto sin perjuicio de las notificaciones que deban hacerse en los términos que disponen los artículos 49, 50 y 51.
 
 ###### ARTICULO 123.
 
@@ -1273,13 +1715,15 @@ III.- En caso de existir desacuerdo entre dichos peritos se designará un tercer
 
 IV.- Si el interesado no designa perito se tendrá por renunciado del derecho de que habla la fracción II y se estará al avalúo que practique el perito designado por la oficina.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 153.
 
 Se convocará para remate para una fecha fijada dentro de los treinta días siguientes a la determinación del precio que deberá servir de base.
 
-La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora en los lugares públicos que se juzgue conveniente.
+La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
-Cuando el valor de los bienes muebles e inmuebles exceda de $5,000.00, la convocatoria se publicará en el órgano oficial del Estado por una sola vez y en el periódico de mayor circulación de la localidad, dos veces con intermedio de siete días.
+Cuando el valor de los bienes muebles e inmuebles, exceda de 10 veces el salario mínimo, la convocatoria se publicará en el órgano oficial del Estado por una sola vez y en el periódico de mayor circulación de la localidad, dos veces con intermedio de siete días.
 
 En todo caso, a petición del deudor y previo pago del gasto, la autoridad ejecutora podrá ordenar una publicidad más amplia dentro del plazo señalado en el primer párrafo de este artículo.
 
@@ -1307,11 +1751,13 @@ I.- Si se trata de bienes raíces o derechos reales, la que cubra las dos tercer
 
 II.- Si de muebles, la que cubra la mitad.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 157.
 
-En toda postura deberá ofrecerse de contado, a lo menos, la parte suficiente para cubrir el interés fiscal si éste es a la base fijada para la venta, y la diferencia podrá reconocerse en favor del deudor ejecutado, con los intereses correspondites (sic), hasta por un año de plazo si la cantidad es menor de dos mil pesos y hasta un plazo de dos años de esa suma en adelante.
+En toda postura deberá ofrecerse de contado, a lo menos, la parte suficiente para cubrir el interés fiscal si este es a la bse (sic) fijada para la venta y la diferencia podrá reconocerse en favor del deudor ejecutado, con los intereses correspondientes, hasta por un año de plazo si la cantidad es menor de 150 veces el salario mínimo y hasta un plazo de dos años de esa suma en adelante.
 
-Los bienes, fracción o lote de bienes, cuya base para la venta es igual o inferior al fiscal sólo podrán rematarse de contado.
+Los bienes, fracción o lote de bienes, cuya base para la venta es igual o inferior al fiscal solo podrán rematarse de contado.
 
 ###### ARTICULO 158.
 
@@ -1686,3 +2132,7 @@ Este Decreto entrará en vigor, el día siguiente al de su publicación en el Pe
 P.O. 10 DE JULIO DE 1975.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación.
