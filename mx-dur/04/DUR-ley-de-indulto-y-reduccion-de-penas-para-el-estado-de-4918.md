@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-indulto-y-reduccion-de-penas-para-el-estado-de-4918"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-16"
-last_updated: "1996-12-19"
+last_updated: "1998-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INDULTO Y REDUCCION DE PENAS PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1998.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 16 de noviembre de 1995.
 
@@ -63,9 +63,9 @@ II.- Que el delito por el que haya sido condenado no se encuentre exceptuado en 
 
 III.- Haber sido consignadas al Juez de la causa las diligencias de averiguación previa correspondiente al delito que se le imputa en una fecha posterior al día veinte de octubre de mil novecientos noventa y cuatro;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1998)</small>
 
-IV.- Haber sido condenado por ese mismo delito, por sentencia irrevocable dictada antes del día treinta de junio de mil novecientos noventa y ocho;
+IV.- Haber sido condenado por ese mismo delito por una sentencia irrevocable dictada antes del día 14 de Septiembre de 1998; y
 
 V.- No encontrarse substraído a la acción de la justicia.
 
@@ -93,7 +93,7 @@ B).- El Indulto por Alfabetización a aquellos internos que hayan enseñado a le
 
 A manera de excepción, el beneficio al que se refiere el inciso A), podrá aplicarse a internos no comprendidos dentro de los supuestos del Artículo Primero de esta Ley cuando a juicio del Ejecutivo el caso que se proponga por la Comisión de Indulto, así lo requiera.
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY, PUBLICADO EN EL P.O. 19 DE DICIEMBRE DE 1996, SE DEJA EN SUSPENSO LA VIGENCIA DE ESTE ARTICULO, UNICA Y EXCLUSIVAMEMTE EN LO QUE RESPECTA AL DELITO DE ROBO CALIFICADO.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY, PUBLICADO EN EL P.O. 5 DE ABRIL DE 1998, SE DEJA EN SUSPENSO LA VIGENCIA DE ESTE ARTICULO, UNICA Y EXCLUSIVAMEMTE EN LO QUE RESPECTA AL DELITO DE ROBO CALIFICADO.</small>
 
 ###### ARTICULO CUARTO.
 
@@ -137,7 +137,7 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 
 DADO EN EL PALACIO DEL PODER LEGISLATIVO, en Victoria de Durango, Dgo., a los catorce días del mes de Noviembre de mil novecientos Noventa y cinco.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MAXIMILIANO SILERIO ESPARZA. Rúbrica.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MAXIMILIANO SIVERIO ESPARZA. Rúbrica.
 
 EL SECRETARIO GENERAL DE GOBIERNO. LIC ALFREDO BRACHO BARBOSA. Rúbrica.
 
@@ -148,3 +148,15 @@ P.O. 19 DE DICIEMBRE DE 1996.
 PRIMERO. - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Una vez que se cumplan los supuestos de la suspensión de la vigencia de que trata el presente Decreto, las disposiciones correspondientes recobrarán su pleno vigor en forma automática, sin que para ello se requiera declaración alguna del Congreso del Estado.
+
+P.O. 5 DE ABRIL DE 1998.
+
+DECRETO No. 428
+
+UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ABRIL DE 1998.
+
+DECRETO No. 429.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
