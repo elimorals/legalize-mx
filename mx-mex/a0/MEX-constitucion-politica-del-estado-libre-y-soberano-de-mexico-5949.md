@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1927-10-08"
+last_updated: "1929-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE OCTUBRE DE 1927.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 1929.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -50,6 +50,10 @@ El nuevo período de cuatro años, comenzará a contarse desde el día 1° de en
 G.G. 8 DE OCTUBRE DE 1927.
 
 Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación, y el período de dos años a que el mismo se refiere empezará a contarse desde el día 1° de enero de 1928.
+
+G.G. 25 DE SEPTIEMBRE DE 1929.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -247,9 +251,11 @@ Nunca podrán reunirse dos ni los tres Poderes del Estado en una persona o corpo
 
 El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denominará Legislatura del Estado, y que será integrada por Diputados electos directa y popularmente.
 
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 1929)</small>
+
 ###### Art. 38.
 
-Por cada cincuenta mil habitantes o fracción mayor de veinticinco mil, se elegirán un Diputado propietario y un suplente.
+Por cada ochenta mil habitantes o fracción mayor de cuarenta mil, se elegirán un Diputado propietario y un suplente.
 
 ###### Art. 39.
 
@@ -295,9 +301,11 @@ Durante los ocho días a que se refiere el artículo anterior, se tendrán las j
 
 La Legislatura se reunirá en sesiones ordinarias dos veces al año.
 
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 1929)</small>
+
 ###### Art. 48.
 
-El primer período de sesiones dará principio del día primero de septiembre y el segundo el primero de marzo del año siguiente. No podrán prorrogarse más que hasta el treinta de noviembre y el treinta y uno de mayo, respectivamente.
+El primer período de sesiones ordinarias se abrirá el día primero de septiembre; y el segundo, el primer día de marzo de año siguiente, sin que puedan prorrogarse uno y otro, más que hasta el treinta y uno de diciembre y treinta de junio, respectivamente.
 
 ###### Art. 49.
 
@@ -321,17 +329,17 @@ Los Diputados que no concurran a una sesión de la Legislatura sin permiso de el
 
 La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concurrencia de más de la mitad del número total de sus miembros.
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 1929)</small>
 
 ###### Art. 54.
 
-El primer período de sesiones ordinarias se destinará de preferencia, a la discusión y aprobación de los presupuestos de Ingresos y Egresos del Estado, que presente el Ejecutivo así como de los proyectos de presupuestos de Ingresos Municipales que formulen los Municipios y que remitan por conducto del mismo Ejecutivo.
+El primer período de sesiones se destinará de preferencia a la discusión y aprobación de los presupuestos de ingresos y egresos del Estado que formule el Ejecutivo, así como el estudio de los proyectos de presupuestos de ingresos municipales que formulen los Ayuntamientos y remitan por conducto del mismo Ejecutivo.
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 1929)</small>
 
 ###### Art. 55.
 
-El segundo período de sesiones se destinará de preferencia a la revisión y calificación de las cuentas de inversión de las rentas del Estado y de los Municipios, relativas al año anterior.
+El segundo período de sesiones se destinará de preferencia a la revisión y calificación de las cuentas de inversión de las rentas del Estado, relativas al año inmediato anterior.
 
 ###### Art. 56.
 
@@ -347,9 +355,11 @@ Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto,
 
 #### SECCION SEGUNDA. DE LA INSTALACION DE LA LEGISLATURA
 
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 1929)</small>
+
 ###### Art. 44.
 
-La Legislatura se renovará en su totalidad, cada dos años; el mandato por virtud del cual sus miembros funcionen, no podrán durar más que el período de dos años para el que fueron electos.
+La Legislatura se renovará en su totalidad cada cuatro años, sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros pueda prorrogarse más allá de ese período.
 
 ###### Art. 45.
 
