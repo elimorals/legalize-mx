@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2003-09-11"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -65,9 +65,9 @@ Son Contribuciones Especiales, las prestaciones que fije la Ley a quienes, indep
 
 Son Derechos, las contraprestaciones establecidas en la Ley, por los servicios que presten los Municipios en sus funciones de derecho público.
 
-###### Art. 6°.
+###### Art. 6.
 
-Son productos, los ingresos que perciben los Municipios por actividades que no correspondan a sus funciones propias de derecho público; así como por la explotación o venta de sus bienes patrimoniales, de dominio privado.
+° Son productos, los ingresos que perciben los Municipios por actividades que no correspondan a sus funciones propias de derecho público; así como por la explotación o venta de sus bienes patrimoniales, de dominio privado.
 
 ###### Art. 7°.
 
@@ -2261,11 +2261,11 @@ A toda proposición de creación de partida o aumento del gasto en el presupuest
 
 En los casos a que se refiere el artículo anterior, el Presidente Municipal, por conducto del Tesorero del Ayuntamiento, preparará las iniciativas de las modificaciones correspondientes, debiendo comunicar al Congreso del Estado dichos cambios, a más tardar, 5 días posteriores a la realización de los mismos.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 221.
 
-Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo de Ayuntamiento, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del Ayuntamiento sin perjuicio de la revisión, glosa y control que debe practicar el Poder Legislativo, a través de la Contaduría Mayor de Hacienda.
+Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo del Ayuntamiento, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del Ayuntamiento sin perjuicio de la revisión, glosa y control que debe practicar el Poder Legislativo, a través de la Auditoría Superior del Estado.
 
 ### CAPITULO V. De las Modificaciones
 
@@ -2285,9 +2285,11 @@ Para los efectos de esta Ley, la cuenta pública del Municipio está constituida
 
 La revisión de las cuentas anuales que deben presentar los Ayuntamientos de la Entidad, y la glosa de dichas cuentas, de acuerdo a lo dispuesto por los Arts. 23, frac. IV y el párrafo tercero, de la frac. III. del Art. 37, de la Constitución Política del Estado, estarán a cargo del Congreso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 224.
 
-El Congreso del Estado, a través de la Contaduría Mayor de Hacienda para el cumplimiento de las atribuciones que le confiere la Constitución Política Local, tiene facultades para revisar toda clase de libros, instrumentos, documentos y objetos, practicar visitas, inspecciones y auditorías y, en general, recabar los elementos de información necesarios, para cumplir con sus funciones.
+El Congreso del Estado, a través de la Auditoría Superior del Estado para el cumplimiento de las atribuciones que le confiere la Constitución Política Local, tiene facultades para revisar toda clase de libros, instrumentos, documentos y objetos, practicar visitas, inspecciones y auditorías y, en general, recabar los elementos de información necesarios, para cumplir con sus funciones.
 
 Para tal efecto, podrá servirse de cualquier medio lícito que conduzca al esclarecimiento de los hechos y aplicar, en el caso, técnicas y procedimientos de auditoría.
 
@@ -2309,15 +2311,19 @@ A solicitud del Congreso del Estado, el Tesorero Municipal informará de los act
 
 El Tesorero Municipal está obligado a proporcionar, al Congreso del Estado, la información que se le solicite y a permitir la práctica de visitas, inspecciones y auditorías necesarias, que éste determine, para el esclarecimiento de los hechos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 228.
 
-Si el Tesorero Municipal se negare a proporcionar la información solicitada por el Congreso del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público ni permitiera la práctica de visitas, inspecciones y auditorías, la Contaduría Mayor de Hacienda lo hará del conocimiento del Congreso del Estado, por conducto de la Comisión de Inspección, para que resuelva lo procedente.
+Si el encargado de la Hacienda Municipal se negare a proporcionar la información solicitada por el Congreso del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público ni permitiera la práctica de visitas, inspecciones y auditorías, la Auditoría Superior del Estado lo hará del conocimiento del Congreso del Estado, por conducto de la Comisión de Inspección, para que resuelva lo procedente.
 
 ### CAPITULO II. De la Contabilidad
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 229.
 
-Con objeto de uniformar los criterios en materia de contabilidad municipal y archivo contable, el Congreso del Estado, a través de la Contaduría Mayor de Hacienda, dará a conocer con toda oportunidad, el Catálogo de Cuentas de Ingresos y Egresos, las normas, procedimientos, métodos y sistemas que emita e implante con base en los Ordenamientos correspondientes.
+Con objeto de uniformar los criterios en materia de contabilidad municipal y archivo contable, el Congreso del Estado, a través de la Auditoría Superior del Estado, dará a conocer con toda oportunidad, el catálogo de cuentas de ingresos y egresos, las normas, procedimientos, métodos y sistemas que emita e implante con base en los ordenamientos correspondientes.
 
 ###### Art. 230.
 
@@ -2339,9 +2345,11 @@ El Tesorero Municipal suministrará al Congreso del Estado, la información cont
 
 El Congreso del Estado girará las instrucciones sobre la forma y términos en que el Tesorero Municipal deberá llevar sus registros auxiliares y contabilidad y, en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada Tesorería Municipal y podrá autorizar su modificación o simplificación.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 235.
 
-Los estados financieros y demás información financiera y contable que emanen de la contabilidad de las Tesorerías Municipales, serán consolidados por la Contaduría Mayor de Hacienda, y sometidos a la consideración del Congreso del Estado.
+Los estados financieros y demás información financiera y contable que emanen de la contabilidad de las tesorerías municipales, serán consolidados por la Auditoría Superior del Estado, y sometidos a la consideración del Congreso del Estado.
 
 ## TITULO CUARTO. De las Responsabilidades
 
@@ -2369,9 +2377,11 @@ II. A los particulares; sean personas físicas o morales, cuando aprovechándose
 
 Las responsabilidades que se constituyan a cargo de los servidores públicos, no eximen ni a las empresas privadas ni a los particulares, de sus obligaciones derivadas de la responsabilidad incurrida, cuyo cumplimiento se les exigirá, aún cuando la responsabilidad en que se hubiese incurrido fuese total o parcial.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 240.
 
-Si de la revisión de la cuenta pública de la Hacienda Municipal, se determinasen responsabilidades, la Contaduría Mayor de Hacienda dará cuenta al Congreso del Estado a través de la Comisión de Inspección, para el ejercicio de las acciones que correspondan.
+Si de la revisión de la cuenta pública de la Hacienda Municipal, se determinasen responsabilidades, la Auditoría Superior del Estado dará cuenta al Congreso del Estado a través de la Comisión de Inspección, para el ejercicio de las acciones que correspondan.
 
 # LIBRO QUINTO. De los Procedimientos y Recursos
 
@@ -3328,3 +3338,23 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
 
 CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La Auditoría Superior iniciará sus funciones a la entrada en vigor del presente decreto, y su titular será el actual Contador Mayor de Hacienda, hasta el 31 de julio del año 2004.
+
+CUARTO. La revisión de la cuenta pública, que incluye el informe de avance de gestión financiera, conforme a las disposiciones de la ley contenida en el artículo primero de este decreto, se efectuará a partir de la cuenta pública del año 2004. Las revisiones de las cuentas públicas de los años 1999, 2000, 2001, 2002 y 2003 se efectuarán conforme a las disposiciones vigentes en dichos ejercicios.
+
+QUINTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado; igualmente, cuando se haga referencia al Contador Mayor, se entenderá referido al Auditor Superior.
+
+SEXTO. Todos los inmuebles, equipos, archivos, expedientes, papeles y, en general, los bienes de la Contaduría Mayor de Hacienda, pasarán a la Auditoría Superior del Estado quedando destinados y afectos a su servicio. La Auditoría Superior del Estado igualmente se subroga en todos los derechos y obligaciones de aquella.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte de la Auditoría Superior del Estado, respetándose sus derechos en los términos de ley.
+
+SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
+
+OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
