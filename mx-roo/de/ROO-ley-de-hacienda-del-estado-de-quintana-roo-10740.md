@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2000-12-29"
+last_updated: "2001-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -619,7 +619,9 @@ El presente impuesto se causará y pagará a razón del 2% sobre la base gravabl
 
 Las personas Físicas y Morales deberán efectuar pagos mensualmente mediante declaración provisional en las formas aprobadas por la propia Secretaría, a más tardar el día 17 del mes siguiente a aquél en que se efectúo la erogación.
 
-EI pago deberá efectuarse bimestralmente cuando el número de trabajadores por los que se declara sean hasta cinco, a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre, y noviembre del mismo ejercicio fiscal y enero del siguiente. Los contribuyentes que al inicio de un Ejercicio Fiscal tengan la obligación de efectuar sus pagos mensuales, deberán continuar declarando en los mismos plazos hasta el término del ejercicio.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+
+EI pago deberá efectuarse bimestralmente cuando el número de trabajadores por los que se declara sean hasta cinco, a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente. Los contribuyentes que al inicio de un Ejercicio Fiscal tengan la obligación de efectuar sus pagos mensuales o bimestrales, deberán continuar declarando en los mismos plazos hasta el término del ejercicio.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -741,7 +743,9 @@ Las personas a que se refiere el artículo anterior, están obligadas a presenta
 
 BIS.- Las dependencias y organismos auxiliares de la Administración Pública Estatal y los Municipios que contraten obra pública con empresas foráneas o locales, tendrán la obligación de retener este impuesto a dichas empresas al efectuar el pago correspondiente de la obra y posteriormente deberán enterarlo en la Oficina Recaudadora de Rentas que corresponda a la ubicación de la obra.
 
-Para determinar la cantidad a retener tomará como base del Impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 42 de la misma ley, por cada anticipo que se otorgue a la empresa constructora a cuenta de pago final y hasta la terminación de la obra.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+
+Para determinar la cantidad a retener tomará como base del impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el Artículo 42, de la misma Ley, por cada anticipo o pago de estimaciones por trabajos ejecutados, que se otorgue a la empresa constructora a cuenta del pago final y hasta la terminación de la obra.
 
 EI pago del impuesto retenido, deberá efectuarse dentro del (sic) los 10 días siguientes del mes en que se efectuó la retención, mediante declaración provisional en las formas aprobadas por la propia Secretaría.
 
@@ -2035,9 +2039,9 @@ El pago provisional será la cantidad que resulte de aplicar la tasa del impuest
 
 La obligación de presentar declaraciones de pagos provisionales subsistirá aún cuando no hubiese cantidad a cubrir.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
-EI pago deberá efectuarse bimestralmente cuando el número de trabajadores que el contribuyente tengan (sic) sean hasta cinco, a más tardar a los 17 días de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente. Los contribuyentes que al inicio de un ejercicio fiscal tengan la obligación de efectuar sus pagos en forma mensual, deberán continuar declarando en los mismos plazos hasta el término del ejercicio.
+EI pago deberá efectuarse bimestralmente, siempre que el contribuyente se encuentre en el supuesto previsto en el segundo párrafo del artículo 43 de esta Ley, a mas tardar los días 17 de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente. Los contribuyentes que al inicio de un ejercicio fiscal tengan la obligación de efectuar sus pagos en forma mensual o bimestral, deberán continuar declarando en los mismos plazos hasta el término del ejercicio.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -3845,6 +3849,14 @@ VII.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado 
 
 Cuando en un mismo establecimiento se realicen varias actividades, deberán solicitar en el mismo plazo la expedición de las licencias de funcionamiento, por cada uno de los giros o actividades, a excepción de los giros comerciales denominados Super ó Minisupers.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+
+Las licencias a que se refiere este capítulo, tendrán, una vigencia a partir de la fecha de expedición y finalizará conforme a lo siguiente:
+
+a) Cuando se expida en un año par, será hasta el 31 de diciembre del año impar inmediato.
+
+b) Cuando se expida en un año impar, será hasta el 31 de diciembre de ese mismos (sic) año.
+
 ###### ARTICULO 173.
 
 Por la expedición de las licencias de funcionamiento se causará anualmente un derecho de acuerdo a la siguiente:
@@ -4419,11 +4431,11 @@ Los contribuyentes que no se hayan inscrito en el Padrón Estatal de contribuyen
 
 Simultánea o sucesivamente al requerimiento, la autoridad impondrá las sanciones que correspondan en los términos que para el efecto señala el Código Fiscal del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 175.
 
-Las licencias a que se refiere este capítulo, deberán tenerse en lugar visible en el establecimiento para la cual fueron expedidas y, tienen vigencia durante el ejercicio fiscal en que se expidan y el siguiente, debiendo renovarse dentro de los dos primeros meses del ejercicio fiscal a su vencimiento a excepción de las licencias a que se refiere, el Artículo 173-A de esta ley; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos:
+Las licencias a que se refiere este capítulo, deberán renovarse en cada año par y dentro de los dos primeros meses del mismo, con excepción a las licencias a que se refiere el artículo 173-A de esta Ley; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguiente (sic) documentos:
 
 I.- Licencia de funcionamiento del año inmediato anterior.
 
@@ -4434,6 +4446,10 @@ III.- Patente original y copia, si expenden bebidas alcohólicas.
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 IV.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+
+Las licencias deberán tenerse en lugar visible en el establecimiento o local para el cual fueron expedidas.
 
 ### CAPITULO VI-A. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -4769,7 +4785,7 @@ a) Servicio público de pasajeros en general:
 
 2.- Minibuses hasta 25 asientos, hasta 2,134 S.M,G.
 
-3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 4,488 S.M.G.
+3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros) , hasta 4,488 S.M.G.
 
 4.- Otros vehículos, hasta 2,489 S.M.G.
 
@@ -5209,9 +5225,9 @@ TARIFA
 
 TARIFA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
-a).- Por acta de nacimiento: 2.0 S.M.G.
+a).- Por acta de Nacimiento: 1.0 S.M.G.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -5386,6 +5402,12 @@ Los oficiales del Registro Civil que actúen sin que hayan sido cubiertos los de
 ###### ARTICULO 188-D.
 
 El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y 10% de los derechos cobrados conforme a las fracciones I y II incisos b), c), y d) del articulo 188-B.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 188-E.
+
+En los casos de desastres, ciclones, sismos o programas de regularización como matrimonios colectivos a solicitud oficial de las autoridades o instituciones competentes, la Dirección General del Registro Civil del Estado, a través de la Secretaría de Hacienda, podrán subsidiar hasta el 100% de los derechos que causen las actas del Registro Civil.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -6107,7 +6129,9 @@ c).- Por concepto de verificación de áreas, predios y obras: 54 S.M.G.
 
 d).- Por concepto de explotación y aprovechamiento de material pétreo: 0.1 S.M.G. por metro cúbico.
 
-### CAPITULO UNICO
+### CAPITULO XX. DE LOS DERECHOS QUE SE GENERAN POR EL CONTROL, VIGILANCIA, Y EVALUACION
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 207.
 
@@ -6115,7 +6139,7 @@ d).- Por concepto de explotación y aprovechamiento de material pétreo: 0.1 S.M
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+### CAPITULO UNICO
 
 ###### ARTICULO 207-A.
 
@@ -6167,7 +6191,7 @@ Las personas físicas o morales que requieran del servicio especial, lo solicita
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO II. REZAGOS
+### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
 
 ###### ARTICULO 207-H.
 
@@ -6281,87 +6305,19 @@ XXIII.- Reimpresión de formato de apoyo de control escolar: 0.40 S.M.G.
 
 XXIV.- Legalización de firmas 2.00 S.M.G.
 
-Por llevar a cabo el control, vigilancia y evaluación de los recursos que se reciban por convenios o de Programas Federales, se retendrá, hasta el equivalente al 0.5% del monto total de los recursos aportados en efectivo; importe que será ejercido conforme a los lineamientos convenidos.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO II. REZAGOS
 
 ### CAPITULO III. MULTAS
 
-### CAPITULO IV. CAUCIONES JUDICIALES
-
 ###### ARTICULO 207-I.
 
-Los particulares pagarán en concepto de derechos por la incorporación, ratificación del acuerdo de incorporación y otros servicios que preste el Sistema Educativo Quintanarroense, de conformidad con la siguiente:
+Por llevar a cabo el control, vigilancia y evaluación de los recursos que se reciban por convenios o de Programas Federales, se retendrá, hasta el equivalente de 5 al millar del monto total de los recursos aportados en efectivo; importe que será ejercido conforme a los lineamientos convenidos.
 
-TARIFA:
-
-I.- Autorización a particulares para impartir Educación Básica. ---300 S.M.G.
-
-II.- Autorización a particulares para impartir Educación Normal. ---500 S.M.G.
-
-III.- Reconocimiento de Validez Oficial de Estudios de Preescolar: --- 200 S.M.G.
-
-IV.- Ratificación del Acuerdo de Incorporación por cada ciclo escolar o semestre por alumno:
-
-a).- Preescolar ----0.80 S.M.G.
-
-b).- Primaria ----1.20 S.M.G.
-
-c).- Secundaria ----1.80 S.M.G.
-
-d).- Licenciaturas -----5.00 S.M.G.
-
-V.- Certificaciones de estudios por alumno:
-
-a).- Primaria ----0.80 S.M.G.
-
-b).- Secundaria ----1.20 S.M.G.
-
-c).- Bachillerato Pedagógico ----1.80 S.M.G.
-
-d).- Licenciaturas ----2.00 S.M.G.
-
-VI.- Exámenes extraordinarios por materia:
-
-a).- Secundaria --- 0.90 S.M.G.
-
-b).- Bachillerato Pedagógico ----1.20 S.M.G.
-
-c).- Licenciaturas ----2.20 S.M.G
-
-VII.- Exámenes globales o a título de suficiencia por grado de:
-
-a).- Primaria ---5.00 S.M.G.
-
-b).- Secundaria ----8.00 S.M.G.
-
-VIII.- Expedición de diplomas de secundarias técnicas por alumno: 1.20 S.M.G.
-
-IX.- Revalidación de estudios:
-
-a).- Primaria ----1.00 S.M.G.
-
-b).- Secundaria ----8.00 S.M.G.
-
-X.- Equivalencias de estudios de secundaria: ------8.00 S.M.G.
-
-XI.- Cotejo de documentos por hoja: -----0.27 S.M.G.
-
-XII.- Expedición de constancias de control escolar:---- 2.00 S.M.G.
-
-XIII.- Reposición de Boletas de Evaluación de Educación Básica: 0.40 S.M.G.
-
-XIV.- Reimpresión de cada Certificado de Educación Básica:---- 0.40 S.M.G.
-
-XV.- Reimpresión de cada formato de apoyo de control escolar: ---0.40 S.M.G.
-
-XVI.- Instructivo de incorporación por hoja:--- 3.00 S.M.G.
-
-XVII.- Registro de Instituciones educativas particulares autorizadas para expedir títulos profesionales: ---100 S.M.G.
-
-XVIII.- Registro de título profesional expedido por las escuelas particulares a cada alumno:---- 9.00 S.M.G.
-
-XIX.- Enmienda al registro de instituciones educativas particulares autorizadas para expedir títulos: ---- 9.00 S.M.G.
+### CAPITULO IV. CAUCIONES JUDICIALES
 
 ### CAPITULO V. DONACIONES DE PARTICULARES
 
@@ -6756,3 +6712,11 @@ P.O. 29 DE DICIEMBRE DE 2000.
 PRIMERO: EI presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil uno, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 14 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil dos, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+TERCERO.- Debido a las reformas realizadas a los artículos 172 y 175 de esta Ley, todas las personas físicas o morales que realicen actividades comerciales, industriales, de servicios, y de inversión de capitales, salvo disposición expresa en contrario deberán solicitar dentro de los meses de enero y febrero del año 2002, la renovación de su licencia de funcionamiento, para efecto de establecer el inicio de vigencia de la misma.
