@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1993-01-29"
+last_updated: "1994-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ENERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 1994.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -265,7 +265,7 @@ El Estado asume la representación jurídica del Municipio en todos los asuntos 
 
 # LIBRO SEGUNDO. DE LA ORGANIZACION POLITICA GENERAL DEL ESTADO DE MEXICO
 
-## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS DEL ESTADO
+## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
 (REFORMADO, P.O. 30 DE ABRIL DE 1984) (F. DE E., P.O. 7 DE JUNIO DE 1984)
 
@@ -1723,6 +1723,18 @@ La compensación de que hablara el artículo anterior, solo tendrá lugar por lo
 
 Los bienes raíces de beneficencia e instrucción pública que puedan conservar las corporaciones respectivas conforme a las leyes, así como los capitales impuestos y pertenecientes a los mismos, no podrán ser enajenados ni de algún modo gravados sin decreto especial de la Legislatura del Estado. La infracción de este artículo hace nulo el acto, quedando además responsables solidariamente por el capital, intereses y en general, daños y perjuicios que se ocasionan a dichas corporaciones, tanto la autoridad o funcionarios que disponga de dichos bienes como los que los reciban, cedan o trasmitan o de cualquiera manera intervengan en su enajenación, siendo también exigibles la cosa enajenada de cualquiera que sea su detentador.
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1994)</small>
+
+###### Art. 175 Bis.
+
+Los recursos económicos de que dispongan los Poderes del Gobierno del Estado y sus Ayuntamientos Municipales así como sus Organismos Descentralizados, Empresas de Participación y Fideicomisos Públicos, se administrarán con eficiencia, eficacia y honradez para cumplir los objetivos y programas a los que estén destinados.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se llevarán a cabo y se adjudicarán a través de licitaciones públicas mediante convocatoria pública, para que se presenten propuestas en sobre cerrado, que será abierto públicamente, a fin de asegurar al Gobierno del Estado y sus Municipios, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Las licitaciones a que hace referencia el párrafo anterior serán idóneas para asegurar dichas condiciones y las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el estado.
+
+El manejo de los recursos económicos estatales se sujetará a las bases de este artículo.
+
 ###### Artículo 120.
 
 El Ministerio Público estará a cargo de un Procurador General de Justicia, auxiliado en sus funciones por dos Sub-Procuradores y los Agentes que determine la Ley Orgánica Correlativa.
@@ -1767,7 +1779,7 @@ En el Estado de México la protección de los derechos humanos que otorga el ord
 
 El Organismo no será competente tratándose de asuntos electorales, laborales o jurisdiccionales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 1994)</small>
 
 ### CAPITULO SEGUNDO. BASES DE LA ORGANIZACION DE LA HACIENDA PUBLICA DEL ESTADO
 
@@ -2664,3 +2676,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Para los efectos previstos por el Artículo 38 que se reforma, de la Constitución Política del Estado, el plazo a que se refiere el artículo 63, fracción VII de la Ley de Organizaciones Políticas y Procesos Electorales del Estado de México, se extenderá por esta única vez hasta treinta días naturales posteriores al inicio de la vigencia de este Decreto.
+
+P.O. 5 DE ENERO DE 1994
+
+PRIMERO.- Publíquese el presente Decreto en la "Gaceta el Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
