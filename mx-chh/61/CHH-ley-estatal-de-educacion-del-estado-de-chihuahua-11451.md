@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2004-06-05"
+last_updated: "2004-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -99,9 +99,11 @@ En el Estado de Chihuahua, toda persona tiene derecho a recibir educación sin d
 
 El Estado, a través del Poder Ejecutivo, está obligado a impartir los servicios educativos del tipo básico; además promoverá y atenderá directamente, mediante sus organismos descentralizados, a través de apoyos financieros o bien, por cualquier otro medio, todos los tipos, niveles o modalidades educativos.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 5.
 
-La educación primaria y secundaria será obligatoria en los términos de los artículos 3o. de la Constitución Política de los Estados Unidos Mexicanos y 143 de la particular del Estado de Chihuahua.
+La educación preescolar, primaria y secundaria será obligatoria en los términos de los artículos 3° de la Constitución Política de los Estados Unidos Mexicanos y 143 de la particular del Estado de Chihuahua.
 
 ###### Artículo 6.
 
@@ -177,9 +179,11 @@ XXI.- Fomentar la igualdad entre el hombre y la mujer, respetando sus diferencia
 
 XXII.- Fomentar en los educandos el respeto a la familia y el conocimiento de sus fines.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 10.
 
-El criterio que orientará a la educación que el Estado, los municipios y sus organismos descentralizados impartan, así como toda la educación primaria, la secundaria, la normal y demás, para la formación de profesionales de la educación básica que los particulares impartan, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
+El criterio que orientará a la educación que el Estado, los municipios y sus organismos descentralizados impartan así como toda la educación preescolar, primaria, la secundaria, la normal y demás para la formación de profesionales de la educación básica que los particulares impartan, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres los fanatismos y los prejuicios.
 
 Además:
 
@@ -191,9 +195,11 @@ III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que ap
 
 IV.- Formará conciencia de lo positivo de vivir en una sociedad sin discriminación por razones de género.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 11.
 
-Todos los individuos del Estado de Chihuahua deberán cursar la educación primaria y secundaria. Quienes ejerzan la patria potestad o tutela tienen la obligación de hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para recibir la educación de esos niveles y, preferentemente, los padres o tutores procurarán que sus hijos o pupilos cursen el nivel de educación preescolar.
+Todos los individuos del Estado de Chihuahua deberán cursar la educación preescolar, primaria y secundaria. Quienes ejerzan la patria potestad o tutela tiene (sic) la obligación de hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para recibir la educación de esos niveles y, preferentemente, los padres o tutores procurarán que sus hijos o pupilos cursen el nivel de educación preescolar.
 
 ### CAPÍTULO II. FACULTADES Y OBLIGACIONES DEL ESTADO Y MUNICIPIOS EN MATERIA EDUCATIVA
 
@@ -529,7 +535,9 @@ B.- Modalidades: Escolar, Extraescolar y Mixta.
 
 Para el ingreso a los diferentes tipos educativos, se requiere haber acreditado el grado inmediato anterior, de acuerdo a lo siguiente:
 
-I.- La educación preescolar no constituye antecedente obligatorio para el grado inmediato superior;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
+I.- La educación primaria deberá tener como antecedente inmediato la educación preescolar;
 
 II.- Toda la educación secundaria deberá tener como antecedente inmediato la educación primaria;
 
@@ -2148,3 +2156,13 @@ P.O. 5 DE JUNIO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- Por lo que toca a la reforma constitucional, conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y en su oportunidad, hágase por el Congreso del Estado, el computo de votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitucional Local realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año ciclo 2008-2009.
+
+En los plazos señalados, el Estado mexicano habrá de universalizar en todo el país, con calidad, la oferta de este servicio educativo.
+
+TERCERO.- Una vez aprobado (sic) la reforma constitucional, en su caso, remítase al Ejecutivo Estatal el presente Decreto para su promulgación y publicación en el Periódico Oficial.
