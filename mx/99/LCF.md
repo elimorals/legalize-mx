@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1980-12-30"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LCF"
 ---
 # LEY DE COORDINACION FISCAL
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 1982 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -52,6 +54,10 @@ La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estad
 
 I.- El 13.0% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos que constituirá el Fondo General de Participaciones. Este fondo se incrementará con el por ciento que represente, en dichos ingresos de la Federación, la recaudación en un ejercicio de los gravámenes locales o municipales que las entidades convengan en derogar o dejar en suspenso al adherirse al Sistema Nacional de Coordinación Fiscal.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+El Fondo General de participaciones se adicionará con 0.5% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos, del cual participarán las Entidades Federativas y sus Municipios, cuando aquéllos se coordinen en materia de derechos.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 II.- El 0.50% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos, que constituirá el Fondo Financiero Complementario de Participaciones.
@@ -60,23 +66,33 @@ Adicionalmente, las entidades participarán en recargos sobre impuestos federale
 
 En los productos de la Federación relacionados con bienes o bosques, que las leyes definan como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de explotación de tales terrenos o de bosques nacionales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-No se incluirá entre los ingresos totales anuales que obtenga la Federación, para los efectos de este artículo, los impuestos adicionales de 3% sobre importaciones, 1% sobre el impuesto general en exportaciones de petróleo crudo, gas natural, y sus derivados y 2% en las demás exportaciones. A dichos impuestos, adicionales se les dará la aplicación a que se refiere el artículo 2o-A de esta Ley.
+No se incluirá entre los ingresos totales anuales que obtenga la Federación, para los efectos de este artículo, los impuestos adicionales de 3% sobre el impuesto general de importación, 3% sobre el impuesto general en exportaciones de petróleo crudo y gas natural y sus derivados, y 2% en las demás exportaciones. A dichos impuestos adicionales se les dará la aplicación a que se refiere el artículo 2o.-A de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 2o.-A.
 
-En los impuestos adicionales del 3% sobre el impuesto general de importación y de 2% sobre el impuesto general de exportación, se participará el 95% a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la importación o exportación.
+En el rendimiento de los impuestos adicionales a la importación y a la exportación participarán los Municipios, en la forma siguiente:
 
-Tratándose del impuesto adicional del 1% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados, se participará a los Municipios el 95%, en la siguiente forma:
+I.- 95% de los impuestos adicionales del 3% sobre el impuesto general de importación y 2% sobre el impuesto general de exportación, a aquellos donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la importación o exportación que los causen.
 
-I.- El 10% de la participación a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación.
+II.- 95% del impuesto adicional de 3% sobre el impuesto general en exportaciones de petróleo crudo y gas natural y sus derivados, a todos los Municipios del país, en la siguiente forma:
 
-II.- El 90% de la participación se destinará a formar un Fondo de Fomento Municipal que se distribuirá entre los Estados conforme a las mismas reglas aplicables al Fondo Financiero Complementario de Participaciones. Los Estados entregarán integramente a sus Municipios las cantidades que reciban conforme a lo dispuesto en esta fracción, de acuerdo con lo que establezcan las legislaturas locales.
+a).- La tercera parte del monto de la participación a que se refiere el párrafo anterior corresponderá:
 
-Las cantidades que correspondan a los Municipios en los términos del párrafo primero y fracción I de este artículo, se pagarán por la Federación directamente a dichos Municipios.
+I(sic).- El 10% a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por la que se efectúe la exportación que lo cause.
+
+2.- El 90% se destinará a formar un Fondo de Fomento Municipal que se distribuirá entre los Estados conforme a las mismas reglas aplicables al Fondo Financiero Complementario de Participaciones.
+
+b).- Las otras dos terceras partes incrementarán el Fondo de Fomento Municipal para ser distribuido conforme a las mismas reglas y en las proporciones que correspondan, entre los Estados que se coordinan en materia de derechos.
+
+Los Estados entregarán íntegramente a sus Municipios las cantidades que reciban del Fondo de Fomento Municipal, de acuerdo con lo que establezcan las legislaturas locales, garantizando que no sea menor a lo recaudado por los conceptos que se dejan de recibir.
+
+Si los gobiernos estatales retienen las cantidades a que tenga derecho el municipio, la Federación las entregará directamente descotándolas (sic) del monto total que corresdpondan (sic) al Estado, previa aprobación de la Comisión Permanente de Funcionarios Fiscales.
+
+Las cantidades que correspondan a los Municipios en los términos de las fracciones I y II inciso a, subinciso 1, se pagarán por la Federación directamente a dichos Municipios.
 
 ###### ARTICULO 3o.
 
@@ -96,13 +112,19 @@ En todos los casos en que este artículo menciona "recaudación federal", se ent
 
 El Fondo Financiero Complementario de Participaciones a que se refiere la fracción II del artículo 2o., se distribuirá entre las entidades de modo de favorecer a aquéllas en las que proporcionalmente hubiera sido menor la erogación por habitante, efectuada por la Federación por concepto de participaciones en impuestos federales y gasto corriente en educación primaria y secundaria y tomando en cuenta, además, la población de cada entidad, conforme al procedimiento que se establezca en el convenio que los Estados celebren con la Federación por conducto de la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 5o.
 
-Los cálculos de participaciones a que se refieren los artículos 3o. y 4o., se harán para todas las entidades aunque alguna o varias de ellas no se hubieran adherido al Sistema Nacional de Coordinación Fiscal. La parte que a ésta o éstas correspondiere serán deducidas de los Fondos General y Financiero Complementario de Participaciones.
+Los cálculos de participaciones a que se refieren los artículos 2o.-A, 3o. y 4o. se harán para todas las Entidades Federativas aunque alguna o varias de ellas no se hubieran adherido al Sistema Nacional de Coordinación Fiscal o no se hubieran coordinado en derechos. Las partes que corresponderían a las Entidades que no se hubieran adherido o coordinado serán deducidas del Fondo General, del Fondo Financiero Complementario de Participaciones o del Fondo de Fomento Municipal, según corresponda.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 6o.
 
-La proporción de las participaciones federales que recibirán los Municipios de los Fondos General y Financiero Complementario de participaciones nunca será inferior al 20% de las cantidades que correspondan al Estado, el cual habrá de cubrírselas. Las Legislaturas locales establecerán su distribución entre los Municipios.
+Las participaciones federales que recibirán los Municipios del total de los Fondos General y Financiero Complementario de Participaciones incluyendo sus incrementos, nunca serán inferiores al 20% de las cantidades que correspondan al Estado, el cual habrá de cubrirselas. Las legislaturas locales establecerán su distribución entre los Municipios mediante disposiciones de carácter general.
+
+Las Entidades Federativas informarán y pagarán a cada uno de sus Municipios el monto de las participaciones que les correspondan, incluyendo las relativas al Fondo de Fomento Municipal y cualquiera otra que se les otorgue, con la misma periodicidad con que la Federación lo haga respecto de ellas.
 
 > <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
 
@@ -114,19 +136,31 @@ Las entidades dentro del mismo mes en que se realice la afectación mencionada e
 
 A más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal de la Federación, ésta determinará la recaudación total por concepto de impuestos que hubiera obtenido en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los fondos y formulará de inmediato las liquidaciones que procedan.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 8o.
 
-Para los efectos de las participaciones a que esta Ley se refiere, las entidades y la Federación estarán al resultado de la determinación y cobro, que aquéllas o ésta hubieren efectuado, de los créditos fiscales derivados de la aplicación de leyes sobre ingresos federales.
+Para los efectos de las participaciones a que esta Ley se refiere, las Entidades, los Municipios y la Federación estarán al resultado de la determinación y cobro, que hubieren efectuado de créditos fiscales derivados de la aplicación de leyes sobre ingresos federales.
 
 Sólo la Federación otorgará estímulos fiscales en relación con los ingresos federales, los cuales afectarán exclusivamente la percepción neta de la Federación. Las entidades no otorgarán estímulos en relación con las participaciones que reciban en ingresos federales.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+La Federación por conducto de la Secretaría de Hacienda y Crédito Público informará bajo los lineamientos que se establezcan, del comportamiento de las participaciones a las partes beneficiadas.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 9o.
 
-Las participaciones que corresponden a las entidades son inembargables, no pueden afectarse a fines específicos, ni están sujetas a retención, salvo para el pago de deudas contraídas por las entidades, previamente registradas a petición de las entidades por la Secretaría de Hacienda y Crédito Público, a favor de las instituciones de crédito con concesión para operar en territorio nacional o de las instituciones nacionales de crédito, así como para pagar préstamos u otros financiamientos otorgados por la Federación.
+Las participaciones que correspondan a las Entidades y Muncipios (sic) son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por las Entidades o Municipios, con autorización de las legislaturas locales e inscritas a petición de dichas Entidades ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la Federación, de las Instituciones Nacionales de Crédito, de las Instituciones de Crédito, con concesión para operar en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
 
-La compensación entre el derecho de las entidades a recibir participaciones y las obligaciones que tengan con la Federación, sólo podrá llevarse a cabo si existe acuerdo entre las partes interesadas o cuando esta Ley así lo autorice.
+Las obligaciones de los Municipios se registrarán cuando cuenten con la garantía solidaria del Estado, salvo cundo (sic) a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes participaciones para responder a sus compromisos.
+
+La Secretaría de Hacienda y Crédito Público efectuará pagos de las obligaciones garantizadas con afectación de participaciones siguiendo el orden cronológico de su inscripción.
+
+La compensación entre el derecho de las Entidades y de los Municipios a recibir participaciones y las obligaciones que tengan con la Federación, sólo podrán llevarse a cabo si existe acuerdo entre las partes interesadas o cuando esta Ley así lo autorice. Las deudas del Estado derivadas de ajustes en participaciones no están sujetas a lo dispuesto en el primer párrafo de este artículo y serán objeto de compensación.
+
+En el reglamento que expida el Ejecutivo Federal se señalarán los requisitos para el registro de las obligaciones de Entidades y Municipios.
 
 ### CAPITULO II. Del Sistema Nacional de Coordinación Fiscal
 
@@ -141,6 +175,54 @@ La adhesión al Sistema Nacional de Coordinación Fiscal deberá llevarse a cabo
 El Distrito Federal queda incorporado al Sistema Nacional de Coordinación Fiscal.
 
 Los Estados que no deseen adherirse al Sistema Nacional de Coordinación Fiscal, participarán en los impuestos especiales a que se refiere el inciso 5o. de la fracción XXIX, del artículo 73 constitucional, en los términos que establecen las leyes respectivas.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 10-A.
+
+Las Entidade (sic) Federativas que opten por coordinarse en los términos del segundo párrafo de la fracción I del artículo 2o. de esta Ley, no mantendrán en vigor derechos estatales o municipales por:
+
+I.- Licencias y en general concesiones, permisos o autorizaciones, inclusive los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
+
+a).- Licencias de construcción.
+
+b).- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+c).- Licencias para fraccionar o lotificar terrenos.
+
+d).- Licencias para conducir vehículos.
+
+e).- Expedición de placas y tarjeta para la circulación de vehículos.
+
+II.- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+a).- Registro Civil.
+
+b).- Registro de la Propiedad y del Comercio.
+
+III.- Uso de las vías públicas o la tenencia de bienes sobre la misma, incluyendo cualquier tipo de derechos por el uso o tenencia de anuncios. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos.
+
+IV.- Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al e) de la fracción I y la fracción III.
+
+Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenencientes (sic) a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo se entenderá limitativo de la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.
+
+El Distrito Federal queda coordinado en esta materia.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 10-B.
+
+Los Estados podrán no coordinarse en derechos sin perjuicio de continuar adheridos al Sistema Nacional de Coordinación Fiscal.
+
+La Secretaría de Hacienda y Crédito Público hará la declaratoria de los Estados que no tienen establecido o suspendan el cobro de los derechos a que se refiere el artículo anterior y que, por lo tanto, están coordinados en esta materia, la cual se publicará en el Periódico Oficial del Estado y en el Diario Oficial de la Federación.
+
+Si posteriormente en la Entidad o en los Municipios se establecen derechos contrarios a lo dispuesto en el artículo que antecede, la citada Secretaría así lo declarará, dándolo a conocer mediante declaratoria que se publicará en el Diario Oficial de la Federación, la cual empezará a regir treinta días después de la fecha de esta publicación, quedando sin efectos la coordinación en materia de derechos; en el caso de que el Estado esté inconforme con esta declaratoria, se podrá ocurrir ante la Suprema Corte de Justicia de la Nación en los términos del artículo 12 de esta Ley.
 
 ###### ARTICULO 11.
 
@@ -397,3 +479,35 @@ I.- Durante 1981 el porcentaje a que se refiere la fracción I del artículo cit
 II.- Durante 1982, el porcentaje a que se refiere la fracción I será de 30% y el mencionado en la fracción II, será de 70%.
 
 Las participaciones señaladas en el párrafo inicial y en la fracción I del artículo 2o.- A de la Ley de Coordinación Fiscal, no se pagarán a los Municipios que no se hagan cargo de los servicios prestados por las Juntas Federales de Mejoras Materiales. Cuando se hagan cargo parcialmente, dichas participaciones les corresponderán proporcionalmente.
+
+D.O.F. 31 DE DICIEMBRE DE 1981.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1º. de enero de 1982.
+
+###### ARTICULO TERCERO.
+
+Se abroga el Decreto relativo al Registro de los Compromisos que Adquieran las Entidades Federativas con Garantía de sus Participaciones en Ingresos Federales de 20 de junio de 1935 con sus reformas y adiciones.
+
+Continuará vigente el registro de las obligaciones cuya inscripción se hubiera efectuado durante la vigencia del mencionado Decreto. En tanto se expide el Reglamento del Registro de Oblicaciones (sic) y Empréstitos de Entidades y Municipios, se seguirán aplicando las normas establecidas en el Decreto que se menciona.
+
+###### ARTICULO CUARTO.
+
+Se amplía al año de 1981, la vigencia del Artículo Quinto Transitorio de la Ley de Coordinación Fiscal y las participaciones por dicho año se liquidarán en la misma forma como se efectuó para el año de 1980.
+
+A partir del ejercicio de 1982, se aplicará en sus términos la fórmula del artículo 3o. de dicha Ley.
+
+###### ARTICULO QUINTO.
+
+Durante 1982, 1983 y 1984, la participación en el impuesto adicional del 3% sobre el impuesto general de exportación de petróleo crudo y gas natural y sus derivados, a que se refiere el artículo 2o. A de la Ley de Coordinación Fiscal se dividirá en la forma siguiente:
+
+I.- Una tercera parte corresponderá al Fondo de Fomento Municipal y a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación, en los siguientes por cientos conforme a los años que señalan:
+
+a).- En 1982, en un 50% al Fondo de Fomento Municipal y en un 50% a los Municipios donde estén ubicadas las aduanas.
+
+b).- En 1983 y 1984, en un 70% al Fondo de Fomento Municipal y en un 30% a los Municipios donde estén ubicadas las aduanas.
+
+II.- Las otras dos terceras partes incrementarán el Fondo de Fomento Municipal y se distribuirán a las entidades federativas que se coordinen en materia de derechos, en las proporciones que les correspondan.
