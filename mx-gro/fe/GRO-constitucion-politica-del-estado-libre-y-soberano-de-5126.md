@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1994-12-09"
+last_updated: "1996-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 1996.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -585,6 +585,10 @@ La infracción de esta disposición será sancionada con la pérdida del caráct
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 1996)</small>
+
+El Presidente del H. Congreso del Estado velará por el respeto al fuero constitucional de sus miembros y por la inviolabilidad del recinto oficial.
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO II. DE LOS REQUISITOS E IMPEDIMENTOS PARA SER DIPUTADO
@@ -621,13 +625,11 @@ Los diputados suplentes podrán ser electos para el período inmediato con el ca
 
 ### CAPITULO III. DE LA CALIFICACION DE LAS ELECCIONES DE DIPUTADOS DE MAYORIA Y ASIGNACION DE LOS DE REPRESENTACION PROPORCIONAL
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 38.
 
-Constituidos en Colegio Electoral, los presuntos diputados que hubieren obtenido constancias de mayoría otorgadas por el Comité Distrital Electoral correspondiente, debidamente registradas por la Comisión Electoral, o de ésta las constancias de asignación en el caso de diputados por minoría, se reunirán en la Capital del Estado el 1o. de noviembre del año de la elección.
-
-Para calificar las elecciones de Diputados de Mayoría y la asignación de los de Minoría, conforme al procedimiento que al efecto se establezca en la Ley Electoral del Estado y la Ley Orgánica del Poder Legislativo y su Reglamento.
+Constituidos en Colegio Electoral, los presuntos Diputados que hubieren obtenido Constancias de mayoría otorgadas por el Consejo Distrital Electoral correspondiente, debidamente registradas por el Consejo Estatal Electoral, o de éste las Constancias de asignación en el caso de Diputados Plurinominales, se reunirán en la Capital del Estado el 1o. de noviembre del año de la elección, para calificar elecciones de Diputados de mayoría y la asignación de las Diputaciones Plurinominales, conforme al procedimiento que al efecto se establezca en el Código Electoral del Estado de Guerrero y la Ley Orgánica del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -649,13 +651,13 @@ El mismo veinticuatro de marzo, después de instalada la Legislatura iniciará s
 
 Para que el Congreso pueda instalarse y ejercer sus funciones se necesita por lo menos la mayoría del número total de sus miembros, debiendo reunirse el día señalado en el artículo anterior y compeler a los ausentes para que concurran de inmediato, apercibiéndolos que de no hacerlo se llamará al suplente respectivo, salvo los casos de impedimento justificado. Si el suplente correspondiente tampoco se presentara a la brevedad requerida se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 41.
 
-Habrá en cada año dos períodos de sesiones ordinarias, el primero comenzará el 15 de noviembre y terminará el 30 de abril, y el segundo el 1o. de julio y terminará el 31 de agosto. Ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso de que por alguna circunstancia no pudieran abrirse o cerrarse las sesiones en los días señalados, estos actos se verificarán en la forma que acuerden los Diputados.
+Habrá en cada año dos períodos de sesiones ordinarias, el primero comenzará el 15 de noviembre y terminará el 15 de febrero, y el segundo el 1o. de abril y terminará el 30 de junio. Ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso de que por alguna circunstancia no pudieran abrirse o cerrarse los períodos de sesiones en los días señalados, estos actos se verificarán en la forma que acuerden los Diputados.
 
-La Ley Orgánica del Poder Legislativo señalará las formalidades con que deberán celebrarse la apertura y clausura de las sesiones.
+La Ley Orgánica del Poder Legislativo señalará las formalidades para la apertura y clausura de los períodos de sesiones.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -839,11 +841,11 @@ XLVII.- Expedir las leyes que sean necesarias, a fin de hacer efectivas las facu
 
 ### CAPITULO VI. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1987)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 48.
 
-En los períodos de receso del Congreso funcionará una Comisión Permanente que se elegirá el penúltimo día de cada período ordinario de sesiones, integrado por siete miembros que serán en su orden un Presidente, un Secretario y cinco Vocales.- Por cada Titular se nombrará un sustituto.
+En los períodos de receso del Congreso, funcionará una Diputación Permanente, que se elegirá el penúltimo día de cada período ordinario de sesiones, integrada por doce miembros que serán en su orden: Un Presidente, dos Vicepresidentes, dos Secretarios y siete Vocales. Por cada Secretario y Vocal Propietarios se nombrará un Suplente.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1557,7 +1559,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1641,7 +1643,7 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 Todo Funcionario Público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar caución en términos de Ley.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
@@ -1653,7 +1655,7 @@ La educación que proporcione el Estado será gratuita y lo puede hacer por sí 
 
 El sistema estatal de enseñanza ajustará sus planes y programas de estudio al sistema federal, estableciendo para el efecto la coordinación necesaria con las autoridades educativas federales. Tratándose de la educación superior, se procurará el desarrollo del Estado o la región, sin perjuicio de aprovechar los conocimientos, las experiencias o los medios de las instituciones federales o de otras entidades.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 110.
 
@@ -1871,7 +1873,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
+## TITULO NOVENO. DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1895,7 +1897,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO NOVENO. DEL PODER JUDICIAL
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1909,17 +1911,17 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 ## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
-
-### CAPITULO UNICO
-
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2638,3 +2640,7 @@ P.O. 9 DE DICIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 1996.
+
+UNICO.- El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
