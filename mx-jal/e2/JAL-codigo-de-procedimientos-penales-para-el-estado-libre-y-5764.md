@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "1995-02-02"
+last_updated: "1996-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -2839,6 +2839,10 @@ Las providencias precautorias que pudiere intentar quien tenga derecho a la repa
 
 Cuando este plenamente comprobado en autos el delito de que se trate, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratase de cosas, únicamente podrán retenerse, estén o no comprobados los elementos del tipo penal, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 1996)</small>
+
+Tratándose del delito de despojo, el Juez decretará de oficio, las providencias a que se refiere el párrafo anterior, en el Auto de formal Prisión en su caso.
+
 Si la entrega del bien pudiere lesionar derechos de tercero o del inculpado, la restitución se hará mediante la fianza bastante para garantizar los daños y perjuicios respectivos. En caso de delitos patrimoniales, el monto de la fianza para la restitución se fijará, previo avalúo del bien que ha de devolverse.
 
 ###### Art. 430.
@@ -3128,3 +3132,7 @@ El presente decreto entrará en vigor al día de su publicación en el Periódic
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE AGOSTO DE 1996.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
