@@ -1,0 +1,240 @@
+---
+title: "LEY DE DIVISION TERRITORIAL DEL ESTADO DE NAYARIT"
+identifier: "NAY-ley-de-division-territorial-del-estado-de-nayarit-9577"
+country: "mx"
+rank: "ley"
+publication_date: "1984-02-04"
+last_updated: "1984-02-04"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9577&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nay"
+scjn_id: "9577"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "10 SEGUNDA SECCION"
+reform_count: "6"
+scjn_last_update: "2022-07-11"
+issue_date: "1984-01-31"
+state: "NAY"
+---
+# LEY DE DIVISION TERRITORIAL DEL ESTADO DE NAYARIT
+
+LEY DE DIVISION TERRITORIAL DEL ESTADO DE NAYARIT
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de febrero de 1984.
+
+EMILIO M. GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
+
+Que el H. Congreso Local se ha servido dirigirme para su promulgación, el siguiente:
+
+DECRETO NUMERO 6789.
+
+El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XX Legislatura,
+
+D E C R E T A :
+
+LEY DE DIVISION TERRITORIAL DEL ESTADO DE NAYARIT.
+
+### CAPITULO PRIMERO. MATERIA Y OBJETO
+
+###### ARTICULO 1o.
+
+La base de la división territorial en el Estado de Nayarit, es el Municipio Libre.
+
+###### ARTICULO 2o.
+
+El Objeto de la presente Ley es señalar cómo se divide el Estado de Nayarit.
+
+### CAPITULO SEGUNDO. DE SU DIVISION
+
+###### ARTICULO 3o.
+
+Esta Ley tiene como fin determinar la forma de como se integran los municipios del Estado de Nayarit.
+
+###### ARTICULO 4o.
+
+Para erigir nuevos Municipios dentro de los límites ya existentes, modificar su territorio o suprimir aquellos que no reúnan las condiciones legales, se requiere:
+
+I.- Que sea conveniente para satisfacer las necesidades de sus habitantes.
+
+II.- Que la extensión territorial, recursos naturales y económicos, sean suficientes para atender a las necesidades comunes y permitan el desarrollo futuro, que incorporen a sus habitantes a un nivel de vida decorosa.
+
+III.- Que los recursos garanticen la autosuficiencia económica para cubrir un presupuesto mínimo necesario para el cumplimiento de sus funciones a juicio del Congreso del Estado.
+
+IV.- Que la población no sea menor de 25,000 habitantes.
+
+V.- Que la Cabecera Municipal cuente con un mínimo de 15,000 habitantes.
+
+VI.- Que su creación no afecte los recursos de los Municipios dentro de cuyo territorio se pretenda crear un nuevo Municipio.
+
+VII.- Se cuente con la aprobación de las dos terceras partes de la población.
+
+###### ARTICULO 5o.
+
+Cuando se satisfagan los requisitos que contemplan las fracciones I al V, del artículo anterior, podrá procederse a la supresión de Municipios, siempre que las dos terceras partes de los Municipios lo soliciten a la legislatura Local.
+
+###### ARTICULO 6o.
+
+El Gobernador del Estado podrá promover de común acuerdo con el o los Municipios respectivos, la fusión de comunidades que permitan integrar a los grupos aislados de población en los términos previstos por la Ley General de Asentamientos Humanos, las Leyes Locales de la Materia y los Planes de Desarrollo Derivados de las mismas.
+
+###### ARTICULO 7o.
+
+La división Constitucional del Estado de Nayarit , es en diecinueve Municipios, que son los que a continuación se expresan: Tepic, Capital de Estado, Acaponeta, Ahuacatlán, Amatlán de Cañas, Compostela; El Nayar; Huajicori; Ixtlán de Río; Jala; La Yesca; Rosamorada; Ruiz; Santiago Ixcuintla; San Blas; Santa María del Oro; San Pedro Lagunillas; Tecuala, Tuxpan y Xalisco.
+
+### CAPITULO TERCERO. DE SUS LIMITES Y EXTENSIONES
+
+###### ARTICULO 8o.
+
+Cada Municipio conservará la extensión y límites que actualmente tienen reconocidos.
+
+El caso de existir diferencias entre los Municipios, sobre las demarcaciones de su territorio, corresponderá al Congreso del Estado fijar sus límites, de conformidad con la Constitución Política del Estado de Nayarit.
+
+###### ARTICULO 9o.
+
+En caso de que surjan controversias sobre extensión y límites de los Municipios, se están a lo dispuesto por el Código para la Administración Municipal del Estado de Nayarit.
+
+El Estado de Nayarit se integra con las localidades de los Municipios señalados en el Artículo 7o.
+
+### CAPITULO CUARTO. DE SU INTEGRACION
+
+###### ARTICULO 10.
+
+El Municipio de Tepic, se integra con las siguientes localidades: Tepic, Atonalisco, Barranca Blanca, Benito Juárez, Bellavista, Buenos Aires, Calera de Cofrados, Camichín de Jauja, Carretones de Cerritos, Cinco de Mayo, Colonia Seis de Enero, Colonia Juanacaxtle, Colorado de la Mora, Crucero de San Blas, El Aguacate, El Floreño, El Duraznito, El Espino, El Jicote , Estación Mangos, El Izote, El Limón, El Limón de Barranca Blanca, El Pajuelazo, El Pichón, El Rayón, El Refugio, El Rincón, Francisco I. Madero, Huachines, Jesús María Cortez, Jumatán, La Cantera, La Escondida, La Esperanza, La Fortuna, La Herradura, La Nopalera, La Resolana, La Villita, La Yerba, Las Delicias, Las Peñitas, Las Pilas, Lo de García, Lo de Lamedo, Los Sabinos, Los Sauces, Meza de Picachos, Mora, Otates, Platanitos, Pochotitán, Puente de San Cayetano, Roseta, Salazares, San Andrés, San Cayetano, San Fernando, Santa Rosa, San Luis de Losada, Salvador Allende, Trapichillo Venustiano Carranza, Zapote de Picachos, Zapote de Tapozilema y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 11.
+
+El Municipio de Acaponeta se integra con las siguientes localidades: Acaponeta, Agua Caliente, Amado Nervo, Agua Caliente 2, Anamorita, Buena Vista, Casas Coloradas, Crucero del Resbalón, Chalpa, Esperanza, Espinoza, El Aguaje, El Alacrán, El Antigue, El Caimanero, El Camachín, El Cangrejo, El Cantón, El Carteño, El Carrizal, El Carrizalito, El Carrizo, El Centenario, El Cerro Bola, El Ciruelo, El Coatepetl, El Colomo, El Chalán, El Chico, El Duraznito, El Guayabo, El Llorón, El Mirador 1, El Mirador 2, El Molino 1, El Molino 2, El Motaje, El Muerto, El Naranjal, El Naranjo, El Oro, El Pantano, El Agengiobic, El Recodo, El Capulín, El Resbalón, El Jumay, El Salto, El Sobasco, El Tacote, El Tejón, El Pato, El Tigre, El Vigal, El Zapote 1, El Zapote 2,El Ixtle, La Agua Blanca, La Bayona, La Ceiba, La Ciénega, La Cofradía, La Cortez, La Cueva, La Cucaracha, La Guásima, La Haciendilla, La Haciendilla Vieja, La Hacienda de Mariquita, Higuera Nueva, La Higuera del Tigre, La Laguna 1, La Laguna 2, La Lagunita 1, La Lagunita 2, La Loma Larga, La Meza, La Mimbre, La Morita, La Palma, La Paloma, La Perrillita, La Piedra Ancha, La Ventana, La Papalota, La Calixta, Las Casitas, Las Pilas 1, Las Pilas 2, Las Grullas, Las Guitarras, Las Higueras Las Mariquitas, Las Arpas, Las Mesitas, Las Paredes, Las Pintadas, Las Piñas, Las Cebollas, Llano de las Mariquitas, Los Aguiares, Los Arrayanes, Los Coyotes, Los Sauces, Los González, Los Horcones, Los Murillos, Los Pesares, Los Sandovales, Los Suarines, Los Petates, Los Pinitos, Los Metates, Mesa de Malpais, Mesa de Pedro y Pablo, Mexiquillo, Ojo de Agua, Palmitas, Palo Chino, Paloma Nueva Reforma, Paloma Providencia, Rancho de Jiménez, Rancho de Pardo, Rancho de los Peraltas, Rancho Nuevo, Rancho Viejo, Rancho Regino Díaz, Rancho de Villalobos, San Antonio, San Blasito, San Diego de Alcalá, San Diego Del Naranjo, San Dieguito de Arriba, San Diegito de Abajo, San Francisco, San Gregado, San José de Gracia, San Miguel, San Pedro de Honor, Santa Cruz, San Laura, Sayamota, Saycota, Sayulita, Sonorita, Tapa de Caimán, Tezcaponsillo, Valle de la Urraca, Zavala, Savalilla, Zopilote y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 12.
+
+El Municipio de Ahuacatlán se integra con las siguientes localidades: Ahuacatlán, Amequita, El Ranchito, El Terrero, General Heriberto Jara, Huilotitán, La Berenjena, La Campana, La Caoba, La Ciénega, La Cuadrilla, La Pichancha, Las Cebollas, Las Golondrinas, Las Guásimas, Las Lagunitas, Las Palmas, Los Copales, Los Chiltes, Los Godines, Los Tepetates, Marquezado, Paso de San Juan, Picachos, Rancho de Curiel Rancho de Pineda, Rancho Viejo, Santa Cruz de Camotlán, Santa Isabel, Tetitlán, Uzeta, Valle Verde, Zoatlán, y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 13.
+
+El Municipio de Amatlán de Cañas se integra con las siguientes localidades: Amatlán de Cañas, Agua Escondida, Barranca del Oro, Copalillo, Cerritos, El Farito, Estancia de los López, El Naranjo, El Rosario, El Pilón, Jesús Maria, La Haciendita, La Máquina, Las Cuevas, La Lima, Los Agrios, Las Anonas, La Labor, Los Mezquites, Portezuelo, Pie de la Cuesta, San Blasito, San Valentín, Tepuzhuacán, Yerbabuena y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 14.
+
+El Municipio de Compostela se integra con las siguientes localidades: Compostela, Agua Azul, Agua Aceda, Agua Caliente, Agua Escondida, Agua Milpa, Agua Zarca, Altavista, Bella Unión, Boca del Naranjo, Bucerías, Buenavista, Campo de Abajo, Calexico, Cuatro Albillas, Carrillo Puerto, Cándido Salazar, Cerro de las Carboneras, Colimilla, Cuastecomatillo, Chacala, Charco Verde, Chula Vista, Devisadero, Estiladero, El Abrevadero, El Ahijadero, El Cajón, El Almacén, El Arrendatario, El Balastre, El Camalote, El Carrizal, El Carrizo, El Caporal, El Capomo, El Cuatante, El Colomo, El Cora, El Chino, El Embarcadero, El Guayabal, El Guerrereño, El Naranjo, El Negro, El Ocote, El Ocotillo, El Ojo de Agua, El Pantano, El Papayal, El Paranal, El Porvenir, El Progreso, El Puente, El Realito, El Refilión, El Sauza, El Soñador, El Tonino, El Tizate, Fortuna de Vallejo, Higuera Blanca, Ixtapa de la Concepción, Galtepec, Jarretadera, Juan Sánchez, La Bajada, La Calera, La Cascada, La Cebadilla, La Ceiba, La Cruz de Huanacaxtle, La Cuata, La Cucaracha, La Fortuna, La Higuerita, La Inzula, La Jalizal, La Laguna, La Lima, La Peñita de Jaltemba, La Quebrada, La Quemada La Sidra, La Tovara, Las Astas, Las Burras, Las Calabazas, Las Canoas, Las Cañadas, Las Coloradas, Las Conchas, Las Jícaras, Las Juntas, Las Lagunitas, Las Lomas, Las Manzanillas, Las Mesas, Las Piedras, Las Piñas, Las Varas, Las Víboras, Las Vigas Lo de Marcos, Loma Alta, Lomas de Monterrey, Los Ayala, Los Buiyas, Los Cafeces, Los Chicos, Los Limones, Los Mangos, Los Mezcados, Los Salates, Los Sauces, Lima de Abajo, Mamey Grande de Arriba, Mazatán, Mesa de Rodeo, Mezcalitos, Miravalles, Monte de Abajo, Otates, Cantarranas, Palos Marías, Palmaritos, Palo Herrado, Paso de Mesillas, Paso de las Palmas, Paso de Buey, Páscuaro, Piedra Gorda, Piedras Largas, Piedra China, Piedra Larga, Platanitos, Puerta de la Laguna, Puerta de Casillas, Punta de Mita, Punto Rosa, Rancho Verde, Rincón de Guayabitos, Rojas, San Antonio, Santiaguito, San Francisco, San Ignacio, San José del Valle, San Juan de Abajo, San Juan Papachula, Santa María de Jaltemba, San Miguel, San Quintín, Santa Rosa, San Vicente, Sayulita, Tapachula del Valle, Tepiqueños, Ursulo Galván, Valle de Banderas, Valle Juan Escutia, Valle Morelos, Vista al Mar, Vizcarra, Zacualpan, Zapotán y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 15.
+
+El Municipio de El Nayar, se integra con las siguientes localidades : Jesús María, Agua Caliente, Agua Milpa, Alta de Ventanas, Arroyo de Santiago, Arroyo de Camarones, Arroyo del Frayle, Arroyo del Carnaval, Arroyo de Perico Atonalisco, Cofrandía, Cofradía de Pericos, Comal de Peñitas, Coyultita de Jazmines, Coyultita de Mala Noche, Cuahutemoc, Dolores, El Arrayán, El Capomo, El Carrizal, El Colomo, El Colorín, El Coyunque, El Jazmín, El Limón, El Maguey, El Manquita, El Pinito, El plátano, El Roble, El Sabino, El Sanite, El Salitre, El Sauza, Guinea de Guadalupe, Guapinole, Guásima del Metate, Guásima del Caimán, Higuera Gorda, Guamiloya, Ixtalpa, Jazmines del Coquito, Jazmines de Coyultita, La Concepción, La Guerra, La Guilota, La Mesa, La Palmita, Las Estrellas, Las Higueras, Las Huertitas, Las Mesitas, Las Mojarras, Las Ranas, Los Sabinos, Linda Vista, Los Gavilanes, Los Limones, Los Mangos, Los Naranjitos de Copal, Peña Blanca, Paso de Alica, Playa de Golondrina, Rancho viejo, Rancho Viejo Peyotán, San Francisco, San Juan Peyotán, San Rafael, San Pablo, San Vicente, Santa Cruz del Guayabal, Santa Bárbara, Santa Rosa, Santa Teresa, Zoquipilla, Zoquipan y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 16.
+
+El Municipio de Huajicori se integra con las siguentes localidades: Huajicori, Acatita, Agua Caliente Agua Cerrada, Arroyo Hondo, Barbacoa, Caramota, Carrizo, Ciénegas, Comapa, Coropo, Corral de Piedras, Cocomatita, Cuesta China, El Ahuacate, El Arrayán, El Barranco, El Brinco, El Capulín, El Capomo, El Carrizo, El Carrizal, El Ciruelito, El Coco, El Colomo, El Colorado, El Corpus, El Cortadero, El Coatante, El Durazno, El Guayabito, El Huarache, El Huizache, El Indio, El Indito, El Infiernillo, El Limón, El Lunarcito, El Mimbre, El Muerto, El Pantano, El Parque, El Puyeque, El Reparo, El Rincón, El Rito, El Rodeo de Abajo, El Rodeo de Arriba El Salto, El Saucito, El Salitre, El Taiste, El Tepehuaje, El Terreno, El Tigre, El Tomate, El Toro, El Verano, El Trozado, El Zapote, El Zeiteco, Guadalajarita, Guamúchil, Guamuchilito, Guamuchilar, Guayabo, Guayabito, Guisilapan, Hutalopan, Ixtita, Jacochata, La Biznaga, La Cebolla, La Ciénega, La Cofradía La Escalera, La Escondida, La Estancia, La Guásima, La Laguna La Manga, La Mesita, La Mesa del Meguaje, La Majada, La Muralla, La Palma, La Palapa, La Quebrada, La Villita, Las Campanas, Las Cuevas, Las Grullas, Las Habas, Las Iguanas, Las Puntas, Las Patillas, Las Sillas, Las Tasajeras, Limencitos, Los Ciruelos, Los Horcones, Los Laureles, Loma Larga, Los Naros, Los Parajes, Los Robles, Los Toros, Los Vados, Los Zapotes, Llano Grande, Llano de Tenepantla, Mamalín, Mazatán, Mesa del Coco, Mesa del Perico, Mesa de los Ricos, Mexiquillo, Mineral de Cucharas, Mineral del Indio, Nanche Gacho, Navajillas, Nuevo León, Ojo de Agua, Palo Blanco, Palo Marías, Pachecos, Peña Colorada, Piedra Chorreada, Pino Redondo, Potrero Grande, Potrerillo, Providencia, Puerto de Potrerillo, Quiviquinta, Rancho Grande, San Antonio, San Francisco del Caimán, Santa María, Santa María de Picachos, Saucito, Soyata, Tachichilpa, Tamazole, Talegas, Tepehuaje, Tepezcoco, Terreno Blanco, Tierra Colorada, Vainilla, Valle Morelos, Villa Madero, Vizcuata, Zapata, Zapatilla y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 17.
+
+El Municipio de Ixtlán del Río se integra con las siguientes localidades: Ixtlán del Río , Amajac, Amarillo, Cacalután, Coyula Mexcitán, Coyulita, El Ahuacate, El Ciruelo, El Nogal, El Limón, El Platanilo, El Rincón, El Rancho Viejo, El Terreno, El Zapote, La Cuata, La Higerita, La Pupa, La Sidra, Los Sauces, Jacobino, Mazquite, Platanar, Rancho de Arriba, San Clemente, San Miguel, San José de Gracia y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 18.
+
+El Municipio de Jala se integra con las siguientes localidades: Jala, Agua Caliente, Ahuacate Verde, Arroyo Hondo, Bateas, Buenos Aires, Santa Fe, Coapan, Coapilla, Coyoacán, Cofradía, de Buenos Aires, Chipiteño, El Carrizal, El Ciruelo, El Charro, El Chivo, El Frayle, El Jarabe, El Lizo, El Mango, El Nogal, El Soquite, Francisco I. Madero Golondrinas, Jomulco, Las Haciendita, La Herradura, La Sábana, La Soledad, Los Coles, Las Juntas, Los Ahuacates, Los Bancos, Mecatán, Monte de la Vieja, Potrerillo, Rancho Viejo, Rincón de Copilla, Rosa Blanca, San José, San Miguel de Buenavista, Tailolpa, Tula, y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 19.
+
+El Municipio de la Yesca se integra con las siguientes localidades: La Yesca, Apozolco, Amatlán de Jora, Acatique, Agua Bendita, Agua Caliente, Ahuacate de Hermandad, Ahuacate de Flores, Ahuacate 2, Agua Mala, Agua Milpa, Agua Tibia, Agua Zarca, Alamos, Amastepec, Arroyo de las Vacas, Arroyo Verde, Arroyo del Muerto, Arroyo de Vicente, Arroyo Grande, Arroyo Hondo, Ayotita, Azucena, Bolitas, Banco de las Víboras, Banco de los Pozos, Banco de Tlaxcala, Barranca de Huichol, Barranca de la Osa, Barranca de las Minas, Barranca del Nogal, Barranca de Picachos, Barranca de Santa Cruz, Barranquillas, Barbería, Boquilla del Chivo, Buenavista, Cangrejitos, Cañada del Durazno, Capulín el Primero Capulín el Segundo, Carrizal Primero, Carrizal segundo, Carrizalillo Primero, Carrizalillo Segundo, Casa de Teja, Cebadilla, Cerritos de Lamas, Cerritos, Cerritos de Amatlán, Cerritos de Camotlán, Cerritos de los Flores, Cerrito de Trapiche, Cerrito de Huajimic, Cerro Ahuja, Cerro Prieto, Cerro Colorado, Ciénega de las Piedritas, Ciénega del Chivo, Ciénega de Pajaritos, Cocolmecas, Cocuazco, Cofradía, Cofradía de la Playa, Coamiles, Colimita, Colomo Primero, Colomo Segundo, Colomo de Colorado Chapalilla, Chocotique, El Aguarás, El Banco, El Batallón, El Bolladero, El Buro, El Cabildo, El Cajón, El Cuije, El Lalote, El Arrayán, El Limón Primero, El Limón Segundo, El Mirador Primero, El Mirador Segundo, El Majagual, El Muertito, El Muerto, El Naranjo, El Ocote, El Oso, El Pinal, El Pinito, El Platanar de Gómez, El Plátano, El Portezuelo, El Potrero, El Pueste, El Puerto de la Peña, El Pujido, El Purgatorio, El Quemado, El Ranchito Primero, El Ranchito Segundo, El Ranchito Tercero, El Refugio, El Reparo, El Rincón, El Roble, El Salitre, El Sapo, El Suspiro, El Tajo, El Tecolote, El Terreno Primero, El Terreno Segundo, El Tigre, El Trapiche, El Tule, El Varal, El Viejo, Fregoso, Fundiciones, Hacienda de Ambas Aguas, Horcones, Huajimic, Juanacaxtle, La Barranca, La Barrenada, La Calera, La Ciénega, La Cochinera, La Cuchilla, La Cuota, La Escondida, La Iguana, La Manga, La Manga Larga, La Margarita, La Minita, La Miseria, La Mojonera, La Playa, La Rosa de Castilla, La Salvia, La Soledad, La Cavernita, La Tinaja, La Tinajita, La Venada, La Yesca, Las Jaras, Las Manzanas, Las Margaritas, Las Minitas, Las Palmillas, Las Papas, Las Ranas, Las Salvias, Las Tablas, Las Tareas, Las Tortugas, Los Bancos, Los Cimientos, Los Manguitos, Los Morrales, Los Planes, Los Pochotes, Los Rosales, Los Tanques, Los Troncos, Los Timbos, Los Tlacuaches, Maravillas, Maravillas de Comatlán, Maravillas de Guzmán, Mata de Bule, Mecatillo, Mesa de Coyotes, Mesa de las Calabazas, Meza de Barro, Mesa de las Llamas, Mesa del Mezquite, Mesa de los Delgados, Mesa del Real, Mesa del Roble, Mesa de Pajaritos, Mesa de Pinos Altos, Mesa de Polanco, Mesa de Tonalá, Mesa de Mexcaltitan, Mexpan, Mezquite Primero, Mezquite Segundo, Monarca, Mono Primero, Mono Segundo, Mexpan, Nogales de Camotlán, Nogales de Pérez, Palo Blanco, Palmillas de Renterías, Palos Colorados, Palos Verdes, Paso del Macho, Paso de Macho Rusio, Paso de la Yesca, Paso de San Juan, Paso de Tonalá, Peña Amarilla, Peña Blanca, Picachos Primero, Picachos Segundo, Pié de la Cuesta, Piedra Bola, Piedras Grandes, Pinabetes de Montoya, Pinabete Mineral Pinal, Pinalillo, Pinole, Pinos Altos, Plan de Guadalupe, Planes de Franco, Planes de Berúmen, Platanar de los Herrera, Platanar de Meléndez, Platanar de Mendoza, Platanar de Pinabete, Popota, Potrero del Llano, Puente de Camotlán, Puerta de Adjuntas, Puerta de Benjamín, Puerta de Huaista, Puerto de Amastepec, Puerto de los Cardos, Puerto de Castañeda, Quelita, Ranchito de Godoy, Ranchito de los Martínez, Rancho del Padre Rancho Nuevo, Rancho Viejo, Rincón de la Tablas, Salto de Mojoneras, Salto de Saucedo, Savias del Burro, San Antonio Primero, San Antonio Segundo, San Isidro Primero, San Isidro Segundo, San José, San Juan Ixtapalapa, San Lorenzo, San Lucas, San Miguel, San Pelayo, Santa Clara Primera, Santa Clara Segunda, Santa Clara Tercera, Santa Cruz, Santa Cruz de Miramontes, Santa Fé, Santa Gertrudis, Santa Teresa, Sauces de Luna, Sauces de Plascencia, Sauces de Rivera, Sauces de Robles, Sauces Primero, Sauces Segundo, Saucillo, Saucito, Sauces Serrano, Talmacete, Tepeiste, Tempisque, Tepetate, Tepetate Segundo, Tepizuaque, Tierras Blancas Primera, Tierras Blancas Segunda, Tlacuaches, Totolpa, Tule de Mojoneras, Tulsa, Vara Dulce Primera, Vara Dulce Segunda, Vara Viejas, Viejotita, Vizcuata, Vizcairo, Yahualica, Yerbabuena, Zapote de Esperanza, Zapote de González, Zapote Primero, Zapote Segundo, Zapotito, Zopilote, Sarita y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 20.
+
+El Municipio de Rosamorada se integra con las siguientes localidades: Rosamorada, Abelardo L. Rodríguez , Agua Aceda, Bonita, Coyotes, Cofradía de Cuyutlán, Colonia 18 de Marzo, Chilapa, El Bálsamo, El Tamarindo, El Ochenta, El Limón, Francisco Villa No. 1 y 2, Los Medina, Los Arrayanes, La Loma, Lázaro Cárdenas, La Boquita, Las Pilas, Los Leandros, Llano del Tigre, Minitas, Mojocuautla, Paso Real del Bejuco, Pericos, Providencia, Paramita, Pescadero, Pimientillo, Puente del Bejuco, Rosarito, San Diego del Naranjo, San Miguel, San Juan Coropan, San Vicente, San Juan Bautista, Santa Fé, San Marcos, Cuyutlán, Teponahuaxtla, Vicente Guerrero, Zomatlán, y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 21.
+
+El Municipio de Ruiz se integra con las siguientes localidades: Ruiz, Agua Caliente, Cordón del Gilguero, El Banco, El Camichín, El Carrizal, El Carrizo, El Naranjo, El Refugio, El Sombrero, El Tempisque, El Bado, El Venado, El Sopilote, Huicot, Ixcatán de Pozolillo, Jarratadera, Juan Escutia, La Bolita, Laguna del Mar, Lagunitas de Ventanas, La Haciendita, La Noria, La Petaquilla, La Sanguijuela, La Yerbabuena, Las Majadas, Las Moras, Las Mojoneras, Limón de Abajo, Limón de Arriba, Los Arrayanes, Los Bueyes, Los Cuernos, Los Limos, Los Llanitos, Los Dos Pasos Juntos, Majada del Guamuchil, Mojonera, Planes de Guadalupe, Presidio de los Reyes, Puerta de Platanares, Río Escondido, San Lorenzo, Santo Domingo, San Pedro Ixcatán, Tenamache y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 22.
+
+El Municipio de Santiago Ixcuintla se integra con las siguientes localidades: Santiago Ixcuintlá, Acaponetilla, Acatán, de las Piñas, Amapa, Aztlán de las Garzas, Boca de Camichín, Botadero, Campo de los Limones, Cantón de Losada, Cañada Grande, Cañada del Tabaco, Capomal, Caramota, Colonia Emiliano Zapata, Cerritos, Corral de Piedra, El Carrizo, El Colomo, El Corte, El Famoso, El Limón, El Mezcal, El Papalote, El Puente, El Ranchito, El Sesteo, El Tambor, El Turco, Emerita, Gavilán Chico, Gavilán Grande, Hacienda Vieja, La Fortaleza, La Higuerita, La Presa, Las Higueras, Las Labores, Las Parejas, Loma Bonita, Los Corchos, Mayorquín, Mexcaltitán, Miguel Hidalgo, Mojarritas, Novillero, Ojo de Agua, Otates, Pantano Grande, Patroneño 1, Patroneño 2, Paso Real de Cauipa, Paredones, Palmar de Cuautla, Peñasquillo, Pozo de Ibarra, Pozo de Villa, Puerta Azul, Puerta de Mangos, Puerta de Palapares, Pueblo Nuevo, Rancho Nuevo, Redención, San Andrés, Santa Cruz, San Isidro, San Miguel, Santa Rosa, Sauta, Sentispac, Sinaloa, Solorceño, Tizate, Toro Mocho, Vado del Cora, Valle Lerma, Valle Zaragoza, Villa Hidalgo, Villa Juárez, Valle Morelos, Llano y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 23.
+
+El Municipio de San Blas se integra con las siguientes localidades: San Blas, Aticama, Aután, Colonia El Tepeyac, Chacalilla, Chiltera, El Cora, El Espino, El Capomo, El Carleño, El Limón, El Llano, Embarcadero de la Tovara, Guadalupe Victoria, Huaristemba, Huaynamota, Isla del Conde, Jalcocotán, Jolotemba, José María Mercado, La Bajada, La Boca del Asadero, El Culebra, Laureles y Góngora, La Chiripa, La Goma, La Libertad, La Palma, Las Islitas, Las Islas Marías, Las Palmas, Madrigaleño, Mecatán, Navarrete, Pintadeño, Pimientillo, Playa de los Cocos, Playa de Ramírez, Puerto Lindavista, Reforma Agraria, Santa Cruz, Singaita, Tecuitata y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 24.
+
+El Municipio de Santa María del Oro se integra con las siguientes localidades: Santa María de Oro, Acuitapilco de Baca Calderón, Ahualamo, Buckingan, Cantiles, Cerro Blanco, Cofradía de Acuitapilco, Colonia, Chapalilla, El Berro, El Buaruato, El Ciruelo, El Colomo, El Colorado, El Jazmín, El Limón, Gabriel López, Ermitaño, Juanacaxtle, La Brea, La Estanzuela, La Higuerita, La Joya, La Labor, La Laguna, La Mojonera, La Palma, La Peña, Las Cuevas, Las Moras, Los Horcones, Los Zanjones, Michapas, Miguel Hidalgo, Monte de los Cuartos, Ocotillo, Platanitos, Piedras Cargadas, Rancho Nuevo, Rincón de Colimayo, San Juanito, San José de Mojarras, San Leonel, Tequepexpan, Torreón, Zapotanito y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 25.
+
+El Municipio de San Pedro Lagunillas se integra de las siguientes localidades: San Pedro Lagunillas, Amado Nervo, Cuastecomate, Cerro Pelón, Las Guásimas, Las Higueras, Milpillas Bajas, Puerta del Río, Tequilita, Tepetiltic y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 26.
+
+El Municipio de Tecuala se integra con las siguientes localidades: Tecuala, Antonio R. Laureles, Arenitas, Arrayán, Arrastradero, Astillero, Atotonilco, Barra de Novillero, Camalotita, Calixta, Cofradía, Conchal, Chalpa, Chavín Chicochi, Chocata, El Carrizo, El Colorado, El Cuastecomate, El Espino, El Chorro, El Filo, El Guayabo, El Limón, El Macho, El Roblito, El Salado, El Salto de Agua Verde, Guadalupe Victoria, Guamuchilito, Guachotita, Huajuquilla, La Lima, La Magdalena, La Palma, La Presa, La Puntilla, Las Anonas Las Lumbres, Las Paredes, Los Esteros, Los Dientes, Los Laureles, Los Murillos, Los Remos, Mata de Palapa, Milpas Viejas, Novillero, Pajaritos, Palmar de Cuautla, Palos Blancos, Playa del Novillero, Paso Hondo, Pericos, Paso de Higuera, Río Viejo, San Antonio, San Cayetano, San Felipe, Tecomate, Tecualilla, Tierras Generosas, Vigías y los demás que en lo sucesivo sean creados.
+
+###### ARTICULO 27.
+
+El Municipio de Tuxpan, se integra con las siguientes localidades: Tuxpan, Coamiles, El Conejo, El Faisán, La Ladrillera, Las Agrias, Las Bombas, Las Peñitas, Los Renterias, Palma Grande, Puerta Azul, Tecomate, Unión de Corrientes y los demás que en los sucesivo sean creados.
+
+###### ARTICULO 28.
+
+El municipio de Xalisco se integra con las siguientes localidades: Xalisco, Adolfo López Mateos, Altavista, Aquiles Serdán, Arroyo Hondo, Arroyo del Limón, Carrizal, Cofradía de Chocolón, Cuarenteño, Emiliano Zapata, El Dragón, El Guayabo, El Italiano, El Malinal, El Pértigo, El Progreso, El Rebaje, El Refilión, El Tacote, El Taray, Granja de Juan Carlos, Juan Escutia, La Alcantarilla, La Calera, La Curva, La Mesa del Potrero, Las Lajas, Las Mesas, Lo de Felipe, Los Pueblitos, Los Sauces, Ocate del Rayo, Nuevo San Antonio, Pantanal, Palapitas, San José de Costilla, Testerazo, Tecolote, Tepozal, Trigomil y los demás que en los sucesivo sean creados.
+
+###### ARTICULO 29.
+
+Cada vez que se integre una nueva población el Ayuntamiento respectivo de cada Municipio deberá notificarlo al Titular del Poder Ejecutivo y a la Legislatura del Estado para su conocimiento y efectos.
+
+### CAPITULO QUINTO. DISPOSICIONES GENERALES
+
+###### ARTICULO 30.
+
+Cuando se erijan nuevas poblaciones deberán ser puestas del conocimiento del Ayuntamiento respectivo a efecto de que en Sesión de Cabildo lo reconozca y determine la denominación de la misma.
+
+###### ARTICULO 31.
+
+Si un núcleo de población propusiere el cambio de denominación de su localidad, se sujetará al siguiente procedimiento.
+
+I.- Celebrará una Asamblea General de Ciudadanos y habitantes, para conocer la opinión de la mayoría, a la que invitará a un Representante del Ayuntamiento.
+
+II.- Para tal efecto se levantará una acta circunstanciada que contenga el acuerdo adoptado y en todo caso deberá contener lo siguiente:
+
+A) Fecha y hora de la citación.
+
+B) Número de personas que concurran a la Asamblea previamente convocada.
+
+C) Autoridades Estatales y Municipales invitadas para tal efecto y presentes en la Asamblea.
+
+D) Un Extracto de las intervenciones.
+
+E) La forma en que se plantearon las propuestas y el resultado de la votación.
+
+F) La designación de una Mesa de Debates presidida por el Representante del Ayuntamiento y las firmas para certificar su legalidad.
+
+III.- Dicha Acta circunstanciada deberá ser turnada al Ayuntamiento para que dicte el Acuerdo correspondiente.
+
+###### ARTICULO 32.
+
+Los Ayuntamientos oportunamente y por los conductos establecidos por la Constitución Política del Estado, podrán iniciar reformas a la presente Ley para mantenerla actualizada.
+
+###### ARTICULO 33.
+
+Forman parte del Territorio del Estado todas aquellas islas sobre las que haya ejercido jurisdicción el Estado de Nayarit, de conformidad con los Artículos 47 y 48 de la Constitución Política de los Estados Unidos Mexicanos.
+
+TRANSITORIOS:
+
+###### ARTICULO PRIMERO.
+
+La presente Ley deja sin efecto todas aquellas disposiciones legales que la contravengan.
+
+###### ARTICULO SEGUNDO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Estado.
+
+D A D O en la Sala de Sesiones "Benito Juárez" del H. Congreso del Estado Libre y Soberano de Nayarit, en Tepic su Capital a los treinta y un días del mes de Enero de mil novecientos ochenta y cuatro.
+
+Dip. Presidente, Lic. Javier Carrillo Casas.- Dip. Primer Secretario, J. Jesús Elías Rodríguez Bañuelos.- Dip. Segundo Secretario, Victoria del Hoyo Rentería.- Rúbricas.
+
+Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su Capital, a los treinta y un días del mes de Enero de mil novecientos ochenta y cuatro.
+
+EMILIO M. GONZALEZ.- RUBRICA.
+
+El Secretario General de Gobierno.
+
+JOSE FELIX TORRES HARO.- RUBRICA.
