@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2003-10-17"
+last_updated: "2003-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -2379,7 +2379,9 @@ El Tribunal, para el cumplimiento de las atribuciones que la Ley le confiere, fu
 
 El Pleno del Tribunal tendrá las siguientes atribuciones:
 
-I.- Elegir de entre los Magistrados Electorales Numerarios a más tardar el día diez de Diciembre de cada año, al Presidente del Tribunal.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+I.- Elegir de entre los Magistrados Electorales Numerarios a más tardar el diecisiete de diciembre de cada año, al Presidente del Tribunal.
 
 II.- Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal, al Secretario General y al Tribunal del Organo Administrativo de la Comisión de Administración.
 
@@ -3164,3 +3166,13 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 17 DE OCTUBRE DE 2003.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE NOVIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Electoral del Poder Judicial del Estado, tendrá un plazo de 15 días, contados a partir de la entrada en vigor de la presente reforma, a efecto de que realice las adecuaciones correspondientes, a su reglamento interior.
