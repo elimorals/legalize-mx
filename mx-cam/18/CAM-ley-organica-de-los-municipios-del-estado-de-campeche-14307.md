@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1993-04-07"
+last_updated: "1993-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1993.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -845,7 +845,9 @@ XIV.- Autorizar las órdenes de pago a la Tesorería Municipal, que sean conform
 
 XV.- Informar al Ayuntamiento de la forma en que ha cumplido los acuerdos de éste;
 
-XVI.- Informar en la última semana de diciembre de cada año, en sesión solemne de cabildo del Ayuntamiento, del estado que guarda la administración municipal y de las labores realizadas durante el año;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1993)</small>
+
+XVI.- Informar en la primera quincena de Diciembre de cada año, en Sesión Solemne de Cabildo del Ayuntamiento, del estado que guarda la Administración Municipal y de las labores realizadas durante el año;
 
 XVII.- Nombrar al personal administrativo cuando así se requiera; y
 
@@ -1960,3 +1962,7 @@ Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispues
 P.O. 7 DE ABRIL DE 1993.
 
 El presente Decreto entrará en vigor el día veinticinco de abril de mil novecientos noventa y tres.
+
+P.O. 7 DE OCTUBRE DE 1993.
+
+Unico.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
