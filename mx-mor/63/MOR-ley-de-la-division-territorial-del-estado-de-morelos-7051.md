@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1952-12-31"
+last_updated: "1953-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1952.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 1953.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -57,9 +57,11 @@ Corresponden a la jurisdicción del Municipio de Atlatlahucan, los siguientes ce
 
 Corresponden a la jurisdicción del Municipio de Axochiapan, los siguientes centros de población: Ahuaxtla, Atlacahualoya, Axochiapan, Cabecera del Municipio, Cayehuacán, Quebrantadero, Marcelino Rodríguez, Joaquín Camaño, Telixtac y Tlalayo.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE DICIEMBRE DE 1953)</small>
+
 ###### Art. 6.
 
-Corresponden a la jurisdicción del Municipio de Ayala, los siguientes centros de población: Ahuehueyo, Anenecuilco, Chinameca, Salitre, Huitzililla, Jaloxtoc, Moyotepec, Apatlaco, Juárez, El Vergel, Tecomalco, Tenextepango, Tlayecac y Villa de Ayala, Cabecera del Municipio.
+Corresponden a la jurisdicción del Municipio de Ayala, los siguientes Centros de Población: AYALA, CABECERA DEL MUNICIPIO; AHUEHUEYO, APATLACO, CHINAMECA, ANENECUILCO DE LOS ZAPATA” (SIC), EL VERGEL, HUITZILILLA, JALOXTOC, JUAREZ, MOYOTEPE, RAFAEL MERINO, (antes San Antonio), SALITRE, TECOMALCO, TENEXTEPANGO Y TLAYECAC.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 1946)</small>
 
@@ -81,11 +83,11 @@ Corresponden a la jurisdicción del Municipio de Cuernavaca, los siguientes cent
 
 Corresponden a la jurisdicción del Municipio de Emiliano Zapata, los siguientes centros de población: Acatlipa, Emiliano Zapata Cabecera del Municipio, Tepetzingo, Tetecalita y Tezoyuca.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1934)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 11.
 
-Corresponden a la jurisdicción del Municipio de Huitzilac, los siguientes centros de población: Coajomulco, Fierro del Toro, Huitzilac Cabecera del Municipio y Tres Cumbres.
+Corresponden a la jurisdicción del Municipio de Huitzilac, los siguientes Centros de Población: COAJOMULCO, FIERRO DEL TORO, HUITZILAC, (Cabecera del Municipio) y TRES MARIAS, (antes Tres Cumbres).
 
 ###### Art. 12.
 
@@ -135,9 +137,11 @@ Corresponden a la jurisdicción del Municipio de Temixco, los siguientes centros
 
 Corresponden a la jurisdicción del Municipio de Tepoztlán, los siguientes centros de población: El Parque, Gabriel Mariaca, Amatlán, Ixcatepec, La Calera, Ocotitlán, Tepetlapa, Tepoztlán Cabecera del Municipio y Tlacotenco.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1953)</small>
+
 ###### Art. 22.
 
-Corresponden a la jurisdicción del Municipio de Tetecala, los siguientes centros de población: Actopan, Contlalco, Cuautlita y Tetecala Cabecera del Municipio.
+Corresponden a la jurisdicción del Municipio de Tepoztlán, los siguientes Centros de Población: AMATLAN, EL PARQUE, IXCATEPEC, LA CALERA, OCOTITLAN, SANTA CATARINA, (antes Gabriel Mariaca), TEPETLAPA, TEPOZTLAN, Cabecera del Municipio) (sic) y TLACOTENCO.
 
 > <small>N. DE E. ADICIONADO POR DECRETO NÚMERO 203, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 1937.</small>
 
@@ -153,11 +157,11 @@ Corresponden a la jurisdicción del Municipio de Tetecala los siguientes centros
 
 Corresponden a la jurisdicción del Municipio de Tlaltizapán, los siguientes centros de población: Acamilpa, Amador Salazar, Bonifacio García, Hidalgo, Huatecalco, Los Copales, Pueblo Nuevo, Temilpa, Temimilcingo, Ticumán, Tlaltizapan Cabecera del Municipio, Treinta y Zaragoza.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1938)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 25.
 
-Corresponden a la jurisdicción del Municipio de Tlaltizapán, los siguientes centros de población: Acamilpa, Amador Salazar, Barranca Honda, Bonifacio García, Hidalgo, Huatecalco, Los Copales, Pueblo Nuevo, Temilpa, Temimilcingo, Ticumán, Tlaltizapan, Cabecera del Municipio, Treinta y Zaragoza.
+Corresponden a la Jurisdicción del Municipio de Tlaltizapán, los siguientes Centros de Población: ACAMILPA, AMADOR SALAZAR, BARRANCA HONDA, BONIFACIO GARCIA, HIDALGO, HUATECALCO, LOS COPALES, PUEBLO NUEVO, TEMILPA, TEMIMILCINGO, TICUMAN, TLALTIZAPAN, CABECERA DEL MUNICIPIO, TREINTA, COLONIA VEINTE TREINTA Y ZARAGOZA.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1938)</small>
 
@@ -262,6 +266,20 @@ SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELAC
 PRIMERO.- El presente Decreto surtirá sus efects (sic) legales a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
+
+P.O. 9 DE DICIEMBRE DE 1953.
+
+DECRETO NÚMERO 8 POR EL QUE SE ADICIONA EL ARTÍCULO 25 DE LA LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO.
+
+UNICO:- Para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local, remítase el presente Decreto al Ejecutivo del Estado.
+
+P.O. 9 DE DICIEMBRE DE 1953.
+
+DECRETO NÚMERO 12 POR EL QUE SE ADICIONA EL ARTÍCULO 6o., Y SE REFORMAN LOS ARTÍCULOS 11 Y 22 DE LA LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO.
+
+PRIMERO.- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO:- Remítase al Ejecutivo del mismo, para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 555.- POR EL QUE SE ADICIONA Y MODIFICA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
 
