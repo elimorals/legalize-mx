@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2004-06-03"
+last_updated: "2004-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -301,9 +301,9 @@ A esta Dirección General estará adscrita la Dirección de Intermediarios Finan
 
 La Dirección General de Administración Interna tendrá las atribuciones señaladas en los artículos 26, 27 y 28 Bis de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2004)</small>
 
-A esta Dirección General estarán adscritas las Direcciones de Administración, Contabilidad y de Seguridad, así como las Gerencias de Inmuebles e Informática. La Gerencia de Inmuebles contará con las atribuciones relativas a la formalización de los actos, convenios y contratos relacionados con la adquisición, uso, mantenimiento, administración, enajenación, construcción, adaptación y demolición de bienes inmuebles, sus instalaciones y equipos, así como los bienes muebles que integran el mobiliario y equipo de oficina, ya sean propiedad del Banco o que ocupe bajo cualquier título, y administrar el almacén. La Gerencia de Informática operará y desarrollará los sistemas de informática de esta Dirección General y de las unidades administrativas adscritas a ésta, pudiendo realizar todos los actos necesarios para ese fin.
+A esta Dirección General estarán adscritas las Direcciones de Administración, Contabilidad y de Seguridad, así como las Gerencias de Inmuebles e Informática. La Gerencia de Inmuebles contará con las atribuciones relativas a la formalización de los actos, convenios y contratos relacionados con la adquisición, uso, mantenimiento, administración, enajenación, construcción, adaptación y demolición de bienes inmuebles, sus instalaciones y equipos, así como los bienes muebles que integran el mobiliario y equipo de oficina, ya sean propiedad del Banco o que ocupe bajo cualquier título, y administrar el almacén de bienes muebles en general. La Gerencia de Informática operará y desarrollará los sistemas de informática de esta Dirección General y de las unidades administrativas adscritas a ésta, pudiendo realizar todos los actos necesarios para ese fin.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2004)</small>
 
@@ -419,13 +419,27 @@ II. Evaluar, coordinar y opinar sobre la contribución de las diferentes áreas 
 
 III. Proponer normas de administración de la información institucional y apoyar la supervisión y verificación de su cumplimiento;
 
-IV. Participar en el análisis, evaluación y recomendación de herramientas de trabajo para optimizar el uso de la infraestructura informática;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
+
+IV. Participar en el análisis, evaluación y recomendación de herramientas de trabajo para optimizar el uso de la infraestructura informática, así como la organización y administración de la información;
 
 V. Analizar y proponer programas de capacitación del personal en el uso de nuevas tecnologías y evaluar sus resultados;
 
-VI. Investigar las redes de comunicación electrónica con objeto de identificar desarrollos susceptibles de ser aplicados en el Banco, y
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
 
-VII. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de su competencia.
+VI. Investigar las redes de comunicación electrónica con objeto de identificar desarrollos susceptibles de ser aplicados en el Banco;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
+
+VII. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de su competencia;"
+
+> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
+
+VIII. Administrar los archivos de concentración e históricos del Banco, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
+
+IX. Proporcionar a los órganos colegiados, a sus miembros y a las unidades del Banco, los servicios de apoyo para la organización y administración de la información.
 
 > <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
 
@@ -629,7 +643,7 @@ I. Establecer sistemas de procesamiento, manejo y diseminación de información 
 
 II. Comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las funciones de la Dirección General de Investigación Económica, y
 
-III. Tener a su cuidado el archivo histórico del Banco;
+III. (DEROGADA, D.O.F. 1 DE OCTUBRE DE 2004)
 
 > <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
 
@@ -1340,3 +1354,7 @@ UNICO. Las presentes reformas y adiciones, entrarán en vigor al día siguiente 
 D.O.F. 3 DE JUNIO DE 2004.
 
 UNICO. Las presentes reformas, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE OCTUBRE DE 2004.
+
+UNICO. Las presentes reformas y adiciones, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
