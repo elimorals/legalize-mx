@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1993-10-02"
+last_updated: "1997-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1997.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -95,9 +95,11 @@ Procederá la acción negatoria para obtener la declaración de libertad o la de
 
 Compete la acción confesoria al titular del derecho real inmueble (sic) y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen, para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 12.
 
-Se intentará la acción hipotecaria para constituir, ampliar y registrar una hipoteca, o bien para obtener el pago o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso, contra los otros acreedores. Cuando después de fijada y registrada la cédula hipotecaria y contestada la demanda cambiare el dueño y poseedor jurídico del predio, con éste continuará el juicio.
+Se intentará la acción hipotecaria para constituir, ampliar y registrar una hipoteca, o bien para obtener el pago o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y en su caso, contra los acreedores. Cuando después de anotada la demanda en el Registro Público de la Propiedad y contestada ésta, cambiare el dueño y poseedor jurídico del predio, con éste continuará el juicio.
 
 ###### Artículo 13.
 
@@ -233,9 +235,11 @@ VII. La excusión;
 
 VIII. Las demás a que dieren ese carácter las leyes.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 36.
 
-En los juicios ordinarios sólo formarán artículos de previo y especial pronunciamiento: La incompetencia, la litispendencia, la conexidad y la falta de personalidad. En los juicios sumarios sólo impiden el curso del juicio la incompetencia y la falta de personalidad.
+En los juicios ordinarios sólo formarán artículos de previo y especial pronunciamiento: la incompetencia, la litispendencia, la conexidad y la falta de personalidad. En los juicios sumarios, ninguna excepción suspenderá el curso del procedimiento, las que se resolverán en la sentencia definitiva.
 
 ###### Artículo 37.
 
@@ -2243,7 +2247,7 @@ El que tiene a su favor una presunción legal sólo está obligado a probar el h
 
 ###### Artículo 376.
 
-No se admite prueba contra la presunción legal cuando la ley lo prohíbe expresamente y cuando el efecto de la presunción es anular un acto o negar una acción, salvo el caso en que la ley haya reservado el derecho de probar.
+No se admite prueba contra la presunción legal cuando la ley lo prohibe expresamente y cuando el efecto de la presunción es anular un acto o negar una acción, salvo el caso en que la ley haya reservado el derecho de probar.
 
 Contra las demás presunciones legales y contra las humanas es admisible la prueba.
 
@@ -2406,6 +2410,10 @@ Reglas generales
 ###### Artículo 404.
 
 Los incidentes que surjan en los juicios, con excepción de los de acumulación y de conexidad, cualquiera que sea su naturaleza, se substanciarán con un escrito de cada parte. Si se promueve prueba deberá ofrecerse en los escritos respectivos, fijándose los puntos sobre que deba versar; el término probatorio no excederá de cinco días y concluido se citará para la audiencia de alegatos, con efectos de citación para sentencia. Dicha audiencia se verificará a más tardar dentro de los tres días siguientes y en ella se dictará la resolución que corresponda.
+
+(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1997) (F. DE E., P.O. 10 DE ENERO DE 1998)
+
+Lo previsto con anterioridad no será aplicable para la tramitación de los incidentes en el juicio sumario hipotecario, que se estará a lo ordenado en las reglas específicas.
 
 ###### Artículo 405.
 
@@ -2603,19 +2611,25 @@ Las reglas del juicio ordinario y en especial las de los capítulos III y IV del
 
 No puede concederse término extraordinario de prueba en estos negocios; tampoco proceden términos de gracia en ellos, a no ser en los juicios ejecutivo e hipotecario que tengan por objeto el pago de dinero, y en los casos previstos en la segunda parte del artículo 483.
 
-No son admisibles la reconvención o la compensación sino cuando las acciones en que se funden estuvieren también sujetas a juicio sumario.
+(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)(F. DE E., P.O. 10 DE ENERO DE 1998)
+
+No son admisibles la reconvención o la compensación si no cuando las acciones en que se funden estuviesen también sujetas al juicio sumario o cuando se funden en los mismos documentos base de la acción.
 
 Las resoluciones sobre alimentos que fueren apeladas se ejecutarán sin fianza, y las que recaigan en los casos de la fracción VII del artículo 424 son inapelables.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 432.
 
-Los incidentes que se susciten en los juicios sumarios se decidirán de plano, sin substanciar artículo, salvo el derecho de las partes de ser oídas en una audiencia. No quedan comprendidos en ésta reglas los incidentes sobre personalidad y competencia que se opongan como excepciones dilatorias, pues se ajustarán a lo prevenido en los artículos 404 y 405.
+Los incidentes que se susciten en los juicios sumarios se decidirán de plano, sin substanciar artículo, salvo el derecho de las partes de ser oídas en una audiencia.
 
 ###### Artículo 433.
 
 Las sentencias y autos que se dicten en estos juicios son apelables en el efecto devolutivo.
 
 ### CAPITULO III. Del juicio hipotecario
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 #### Sección Primera. Reglas generales
 
@@ -2793,49 +2807,37 @@ Para que procedan en vía ejecutiva las acciones a que se refieren los artículo
 
 ###### Artículo 457.
 
-Se tratará en la vía sumaria todo juicio que tenga por objeto la constitución, ampliación o división y registro de una hipoteca, así como su cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
+Se tramitará en la vía sumaria todo juicio que tenga por objeto la constitución, ampliación o división y registro de una hipoteca, así como su cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
 
-Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario, se siga sumariamente, según las reglas del presente capítulo, es requisito indispensable que el crédito conste en escritura debidamente registrada y que sea de plazo cumplido o que deba anticiparse conforme a lo prevenido en los artículos 1829 y 2789 del Código Civil.
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario, se siga sumariamente, según las reglas del presente capitulo, es requisito indispensable que el crédito conste en escritura debidamente registrada, que sea de plazo cumplido o que éste sea exigible en los términos pactados, o que deba anticiparse conforme a lo prevenido en los artículos 1829 y 2789 del Código Civil.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 458.
 
-Cuando se entable pleito entre los que contrataron la hipoteca procederá el juicio hipotecario sin necesidad del requisito del registro, siendo siempre condición indispensable para inscribir la cédula que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen a favor de tercero.
+Cuando se entable pleito entre los que contrataron la hipoteca procederá el juicio hipotecario sin necesidad del requisito del registro siendo siempre condición indispensable que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen a favor de tercero, con cuando menos 90 días anteriores a la presentación de la demanda en los términos del artículo 2808 segundo párrafo del Código Civil.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 459.
 
-Presentado el escrito de demanda, acompañado del instrumento respectivo, el juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, ordenará la expedición y fijación de la cédula hipotecaria y mandará se corra traslado de la demanda al deudor para que dentro de cinco días ocurra a contestarla y a oponer las excepciones que tuviere.
+Presentado el escrito de demanda, acompañado del instrumento respectivo, el Juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, dentro de los tres días siguientes admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y ordenará se corra traslado de ésta al deudor, para que dentro del término de cinco días la conteste y oponga las excepciones que tuviere.
+
+Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el Juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo resolver de acuerdo a las proposiciones de las partes; eximiendo al deudor del pago de gastos y costas que se hubiesen originado.
 
 ###### Artículo 460.
 
-Todo juicio hipotecario constará de dos secciones: la del principal conteniendo la demanda, la contestación y todas las actuaciones relativas al juicio hasta la sentencia. La segunda sección, o sea la de ejecución, se integrará con lo siguiente:
-
-I. Copia cotejada de la demanda que proporcionará el actor;
-
-II. Copia del mandamiento para la fijación de la cédula hipotecaria;
-
-III. Nombramiento de depositario y otorgamiento de fianza;
-
-IV. Avalúo de la finca hipotecada;
-
-V. Cuentas de los depositarios e incidentes relativos a la aprobación de ellas;
-
-VI. Remoción de depositarios y nombramiento de substitutos;
-
-VII. Permisos para arrendar o para vender frutos;
-
-VIII. Mandamientos de las subastas de los bienes hipotecados;
-
-IX. Remate, convocación y calificación de postores y fincamiento del remate;
-
-X. Posesión de los bienes rematados y otorgamiento de las escrituras correspondientes y demás actuaciones relativas a la ejecución.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1997)
 
 ###### Artículo 461.
 
-Terminada la sección de ejecución se agregará al cuaderno principal del juicio.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1997)
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 462.
 
-Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el juez mandará notificarles la cédula hipotecaria para que usen de sus derechos conforme a la ley.
+Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el Juez mandará notificarles la existencia del juicio, para que usen de sus derechos conforme a la Ley.
 
 ###### Artículo 463.
 
@@ -2843,23 +2845,29 @@ Si comenzado el juicio se presentan alguno o algunos acreedores hipotecarios, se
 
 ###### Artículo 464.
 
-La cédula hipotecaria contendrá una relación sucinta de la escritura y concluirá en estos términos: "en virtud de las constancias que preceden, queda sujeta la finca............................................de la propiedad de............................ a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. ............................................(aquí el nombre del actor)".
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1997)
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 465.
 
-La cédula hipotecaria se fijará en lugar visible de la finca y se inscribirá en el registro público correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula. Una copia quedará en el Registro y la otra, ya registrada, se agregará a los autos.
+La demanda se anotará en el Registro Público de la Propiedad, a cuyo efecto el actor exhibirá dos tantos más de dicha demanda, documentos base de la acción en su caso, de aquellos con que justifique su representación, para que, previo cotejo con sus originales se certifiquen por el secretario, haciendo constar que se expiden para efectos de que la parte interesada anote su demanda, a quien se la entregarán para tal fin, debiendo realizar las gestiones en el Registro Público de la Propiedad. Una copia quedará en el registro y la otra, ya anotada, se agregará a los autos.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 466.
 
-Si la finca no se halla en el lugar del juicio, se librará exhorto al juez de la ubicación, para que mande fijar la cédula y la haga publicar colocándola en las tablas de las casas municipales, procediendo en todo caso como se previene en la parte final del artículo anterior.
+Si la finca no se halla en el lugar del juicio, se librará exhorto al Juez de la ubicación, para que ordene la anotación de la demanda, procediendo en todo caso como se previene en la parte final del artículo anterior.
 
 ###### Artículo 467.
 
 Contra los procedimientos del ejecutor sólo procede el recurso de queja ante el juez, a no ser que la ley disponga otra cosa.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 468.
 
-Desde el día en que se fije la cédula hipotecaria, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y todos los objetos que, con arreglo a la escritura y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
+Desde el día en que se anote la demanda en el Registro Público de la Propiedad, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que, con arreglo en la escritura y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
 
 ###### Artículo 469.
 
@@ -2867,31 +2875,71 @@ El deudor que no quiera aceptar la responsabilidad de depositario entregará, de
 
 ###### Artículo 470.
 
-El secuestro de la finca hipotecada se regirá por lo dispuesto en el capítulo V de este título.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1997)
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 471.
 
-Expedida la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho.
+Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada toma de posesión o diligencia que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la anotación de la demanda o en razón de providencia precautoria solicitada ante el Juez por acreedor con mejor derecho.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+###### Artículo 471 Bis.
+
+Las pruebas que se admitan se desahogarán en la audiencia de pruebas y alegatos, la que será única e indiferible, salvo la prórroga concedida para el desahogo de la prueba pericial del perito tercero en discordia.
+
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentarse a los testigos, peritos y demás pruebas que les hayan sido emitidas bajo el apercibimiento que se tendrán por desiertas si no se desahogan éstas en la audiencia señalada para tal efecto, y sólo en caso de que existan periciales contradictorias de ambas partes, el Juez en auxilio de las mismas nombrará un perito tercero en discordia.
+
+En caso de allanamiento total de la demanda, si el deudor no hace valer defensas ni opone excepciones, o las opone fuera del término concedido para ello, o no realiza dentro del plazo el pago de la cantidad reclamada, se pronunciará inmediatamente sentencia definitiva.
+
+Con el escrito de contestación de la demanda y no encontrándose en ninguno de los supuestos del párrafo que antecede, se dará vista al actor para que manifieste lo que a su derecho convenga. En ese mismo acto, se señalará fecha y hora para la celebración de la audiencia, la que deberá llevarse a cabo dentro de los veinte días siguientes.
+
+Si hubiera reconvención se correrá traslado de ésta a la actora para que la conteste dentro de los tres días siguientes y en el mismo proveído se dará vista, en su caso, con las excepciones opuestas para que manifieste lo que a su derecho convenga, dentro de ese mismo término.
 
 ###### Artículo 472.
 
-Para el avalúo de la finca el actor exigirá que se pida certificado a la oficina de contribuciones o al Catastro del valor del bien hipotecado, valor que servirá de base para el remate. Si en la oficina de contribuciones o en el Catastro no hubiere la constancia respectiva, se observará lo prevenido en el capítulo III, sección IV, del título Sexto.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1997)
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 473.
 
-Si en la sentencia se resolviere no haber lugar al juicio hipotecario, se reservarán al actor sus derechos para que los ejercite en la vía y forma que corresponda.
+El Juez debe presidir la audiencia, desahogando las pruebas admitidas y preparadas, recibiendo los alegatos de las partes y acto continuo, dictará la sentencia que corresponda resolviendo los incidentes que se hubieren promovido y las excepciones que existan. Si en la sentencia se resolviere no haber lugar al juicio hipotecario se reservarán al actor sus derechos para que los ejercite en la vía y forma que corresponda.
 
 Si declara que procede el remate luego que se proponga la fianza para la ejecución si hubo apelación, o si causó ejecutoria la sentencia o hubiere de ejecutarse sin otorgamiento de fianza, se procederá a la ejecución de aquélla.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 474.
 
-Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al juzgado de su origen, se mandará quitar la cédula hipotecaria y en su caso se devolverá la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que le fije el juez, que no podrá exceder de treinta días. Si el remate se hubiere ya verificado, se hará efectiva la fianza en la vía de apremio.
+Salvo lo dispuesto por el artículo 2798 del Código Civil para el remate, se tendrá como precio de la finca hipotecada el que señale el avalúo practicado de acuerdo a las reglas de la prueba pericial, sujeto al procedimiento siguiente:
+
+I. Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la fina hipotecada, practicado por institución o persona especializada para ello o por perito valuador oficial del Tribunal Superior de Justicia, los cuales en ningún caso podrán tener el carácter de parte interesada en el juicio;
+
+II. En el caso de que alguna de las partes deje de exhibir el avalúo dentro del plazo señalado en la fracción anterior, se entenderá su conformidad con el avalúo que haya exhibido su contraria;
+
+III. En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+IV. Si las dos partes exhibiesen los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidiesen, se tomará como base para el remate el promedio de ambos avalúos; siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el Juez ordenará se practique nuevo avalúo por el corredor público o la Institución Bancaria que al efecto señale;
+
+V. La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un término mayor de seis meses se deberán actualizar los valores;
+
+VI. Obteniendo el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos de la Sección Tercera del capitulo V del título Séptimo de este ordenamiento, y
+
+VII. La resolución que recaiga al remate podrá apelarse en el efecto devolutivo.
 
 ###### Artículo 475.
 
 En el caso previsto en el segundo párrafo del artículo 2798 del Código Civil no habrá lugar al juicio, ni a las almonedas ni a la venta judicial; pero sí habrá avalúo para fijar el precio que corresponda a la cosa en el momento de exigirse el pago. La venta se hará de la manera que se hubiere convenido; y a falta del convenio, por medio de corredores. El deudor puede oponerse a la venta alegando las excepciones que tuviere y esta oposición se substanciará sumariamente.
 
 También pueden oponerse a la venta los hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+###### Artículo 475 Bis.
+
+Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al Juzgado de su origen, se mandará cancelar la anotación de la demanda, se devolverá la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que le fije el Juez que no podrá exceder de treinta días. Si el remate se hubiese ya verificado, se hará efectiva la fianza en la vía de apremio.
 
 ### CAPITULO V. De la vía de apremio
 
@@ -3395,9 +3443,11 @@ Es postura legal la que cubra las dos terceras partes del avalúo del bien, o de
 
 Cuando por el importe del avalúo no sea suficiente la parte de contado para cubrir el crédito o créditos y las costas, será postura legal las dos tercias partes del avalúo dadas al contado.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 560.
 
-Para tomar parte en la subasta deberán los postores consignar previamente en el Banco de México o, en su defecto, en casa comercial de reconocido crédito, fijada por el juez, una cantidad igual por lo menos al diez por ciento efectivo del valor de los bienes, que sirva de base para el remate, sin cuyo requisito no serán admitidos.
+Para tomar parte en la subasta deberán los postores consignar previamente al fondo de la administración de justicia, una cantidad igual por lo menos al veinte por ciento efectivo del valor de los bienes, que sirva de base para el remate, sin cuyo requisito no serán admitidos.
 
 Se devolverán dichas consignaciones a sus respectivos dueños acto continuo al remate, excepto la que corresponda al mejor postor, la cual se reservará en depósito como garantía del cumplimiento de su obligación y en su caso como parte del precio de la venta.
 
@@ -3613,7 +3663,7 @@ III. Las acciones de nulidad de matrimonio;
 
 IV. Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 352 del Código Civil;
 
-V. Los demás en que lo prohíba expresamente la ley.
+V. Los demás en que lo prohiba expresamente la ley.
 
 ###### Artículo 598.
 
@@ -3853,7 +3903,7 @@ II. El acreedor que sin tener derecho real no haya embargado el bien objeto de l
 
 III. El acreedor a quien el deudor señale bienes bastantes a solventar el crédito;
 
-IV. El acreedor a quien la ley lo prohíba en otros casos.
+IV. El acreedor a quien la ley lo prohiba en otros casos.
 
 ###### Artículo 644.
 
@@ -5791,7 +5841,7 @@ Son procedentes en materia de recursos, todos los previstos en este Código y su
 
 ###### Artículo 975.
 
-La recusación con causa o sin ella, no podrá impedir que el Juez adopte las medidas provisionales sobre depósito de persona, alimentos y menores.
+La recusación con causa o sin ella, no podrá impedir que el Juez adopte las medidas provisionales sobre deposito de persona, alimentos y menores.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
@@ -5948,3 +5998,11 @@ SEGUNDO.- Todos los asuntos civiles y mercantiles actualmente en trámite ante l
 P.O. 2 DE OCTUBRE DE 1993.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, y sólo surtirá sus efectos para aquellos contratos que se celebren a partir de la fecha de su vigencia.
+
+SEGUNDO.- Todos los juicios hipotecarios que actualmente se siguen, se continuarán conforme al procedimiento iniciado.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
