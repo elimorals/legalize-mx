@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2004-04-30"
+last_updated: "2004-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JULIO DE 2004.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1193,15 +1193,55 @@ El Tribunal de lo Contencioso Administrativo conocerá y resolverá las controve
 
 #### SECCION PRIMERA. Del Ejercicio de la Función Judicial
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2004)</small>
 
 ###### Artículo 88.
 
-El ejercicio del Poder Judicial del Estado se deposita en un órgano colegiado denominado Tribunal Superior de Justicia, en juzgados de primera instancia y de cuantía menor, que conocerán y resolverán las controversias que se susciten en el territorio de la Entidad, aplicando las leyes federales que establezcan jurisdicción concurrente y de las locales en materia penal, civil, familiar, así como de los tratados internacionales previstos en la Constitución Federal.
+El ejercicio del Poder Judicial del Estado se deposita en:
+
+a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcionará en Pleno, Sala Constitucional, Salas Colegiadas y Unitarias Regionales;
+
+b) En juzgados de primera instancia y de cuantía menor, que conocerán y resolverán las controversias que se susciten en el Territorio de la Entidad, aplicando las leyes federales que establezcan jurisdicción concurrente y de las locales en materia penal, civil, familiar, así como tratados internacionales previstos en la Constitución Federal.
 
 Las leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial .
 
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cuál se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(ADICIONADO, G.G. 12 DE JULIO DE 2004)</small>
+
+###### Artículo 88
+
+Bis.- Corresponde a la Sala Constitucional:
+
+I. Garantizar la supremacía y control de esta Constitución;
+
+II. Substanciar y resolver los procedimientos en materia de controversias que se deriven de esta Constitución, con excepción de las que se refieran a la materia electoral, surgidos entre:
+
+a) El Estado y uno o más Municipios;
+
+b) Un Municipio y otro;
+
+c) Uno o más Municipios y el Poder Ejecutivo o Legislativo del Estado;
+
+d) El Poder Ejecutivo y el Poder Legislativo del Estado.
+
+III. Conocer y resolver las acciones de inconstitucionalidad planteadas en contra de leyes, reglamentos estatales o municipales, bandos municipales o decretos de carácter general por considerarse contrarios a esta Constitución, y que sean promovidos dentro de los 45 días naturales siguientes a la fecha de publicación de la norma en el medio oficial correspondiente, por:
+
+a) El Gobernador del Estado;
+
+b) Cuando menos el treinta y tres por ciento de los miembros de la Legislatura;
+
+c) El equivalente al treinta y tres por ciento de los integrantes de un Ayuntamiento del Estado;
+
+d) El Comisionado de los Derechos Humanos del Estado de México, en materia de derechos humanos.
+
+Las resoluciones dictadas en los procesos a que se refiere este artículo, que declaren la invalidez de disposiciones generales del Poder Ejecutivo, del Poder Legislativo o de los Municipios, tendrán efectos generales cuando sean aprobados cuando menos por cuatro votos de los integrantes de la Sala Constitucional.
+
+Las resoluciones que no fueren aprobadas por cuatro de cinco votos, tendrán efectos particulares.
+
+Contra la resolución emitida por la Sala Constitucional en primera instancia, podrá interponer el recurso de revisión, mismo que será resuelto por la propia Sala, y para su aprobación se requerirá de unanimidad de votos.
+
+En caso de que la controversia o acción de inconstitucionalidad verse sobre la constitucionalidad de actos, o presunta violación o contradicción de preceptos constitucionales federales, se estará a lo dispuesto en la Constitución General de la Republica, así como a la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1247,13 +1287,11 @@ No podrán reunirse en el Tribunal Superior de Justicia dos o más magistrados q
 
 Aunque los magistrados no se presenten a tomar posesión de sus cargos en el término en que deban hacerlo, cesarán sin embargo los anteriores, entrando desde luego en funciones los que se presenten, y en lugar de aquéllos, los interinos conforme a las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2004)</small>
 
 ###### Artículo 94.
 
-El Tribunal Superior de Justicia funcionará en pleno y en salas colegiadas y unitarias regionales.
-
-El pleno estará integrado por todos los magistrados; las salas colegiadas por tres magistrados cada una y las unitarias por un solo magistrado.
+El Pleno estará integrado por todos los magistrados; la Sala Constitucional, por cinco magistrados; las Salas Colegiadas, por tres magistrados cada una; y las Unitarias, por un magistrado en cada Sala.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2520,3 +2558,13 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en otros ordenamientos legales, reglamentarios y demás disposiciones, se señalen funciones y atribuciones de "la Gran Comisión", o se haga referencia a la misma, se entenderá que corresponden a "la Junta de Coordinación Política".
+
+P.O. 12 DE JULIO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- La Sala Constitucional iniciará el ejercicio de sus funciones 90 días después de la entrada en vigor del presente decreto.
+
+CUARTO.- El Consejo de la Judicatura proveerá lo necesario para la instalación y funcionamiento de la Sala Constitucional.
