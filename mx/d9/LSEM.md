@@ -4,7 +4,7 @@ identifier: "LSEM"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-04"
-last_updated: "1994-01-04"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSEM"
 
 LEY DEL SERVICIO EXTERIOR MEXICANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 4 de enero de 1994.
 
@@ -184,9 +184,11 @@ A solicitud del interesado y previa recomendación de la Comisión de Personal, 
 
 Sin perjuicio de lo que disponen las fracciones II y III del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, la designación de embajadores y cónsules generales la hará el Presidente de la República, preferentemente entre los funcionarios de carrera de mayor competencia, categoría y antigüedad en la rama diplomático-consular.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 20.
 
-Para ser designado embajador o cónsul general se requiere: ser mexicano por nacimiento, estar en pleno goce de sus derechos civiles y políticos, ser mayor de 30 años de edad y reunir los méritos suficientes para el eficaz desempeño de su cargo.
+Para ser designado embajador o cónsul general se requiere: ser mexicano por nacimiento que no se adquiera otra nacionalidad, estar en pleno goce de sus derechos civiles y políticos, ser mayor de 30 años de edad y reunir los méritos suficientes para el eficaz desempeño de su cargo.
 
 ###### Artículo 21.
 
@@ -286,7 +288,9 @@ Transcurrido dicho año, la Comisión de Personal evaluará su desempeño en la 
 
 Los candidatos a ingresar a la rama diplomático-consular deberán cumplir con los siguientes requisitos:
 
-I. Ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I. Ser mexicanos por nacimiento que no adquieran otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Ser menores de 30 años de edad. En casos excepcionales, la Comisión de Ingreso podrá dispensar este requisito si a su juicio así lo ameritan el perfil académico y profesional del aspirante;
 
@@ -445,6 +449,10 @@ III. Desempeñar cualquier gestión diplomática o consular de otro país, sin a
 Los miembros del Servicio Exterior gozarán, durante su permanencia en comisión oficial en el extranjero, de los siguientes derechos y prestaciones:
 
 I. Conservarán, para los efectos de las leyes mexicanas, el domicilio de su último lugar de residencia en el país;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I BIS. Los hijos nacidos en el extranjero, de los miembros del Servicio Exterior cuando se encuentren acreditados en el extranjero, se considerarán nacidos en el domicilio legal de los padres.
 
 II. Tendrán las percepciones que fije el Presupuesto de Egresos de la Federación y las prestaciones que establezca esta Ley, su Reglamento y, en su caso, la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -667,3 +675,9 @@ Administrativo "C"
 México, D.F., a 16 de diciembre de 1993.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Demetrio Hernández Pérez, Presidente.- Sen. Antonio Melgar Aranda, Secretario.- Dip. Sergio González Santa Cruz, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
