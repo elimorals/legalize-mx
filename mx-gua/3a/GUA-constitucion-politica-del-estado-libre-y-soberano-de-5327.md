@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1924-06-08"
+last_updated: "1924-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1924.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1924.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -337,7 +337,9 @@ XVIII. Expedir los títulos profesionales que previene la ley de la materia.
 
 XIX. Conceder en asuntos matrimoniales las dispensas a que se refiere la ley civil, pudiendo delegar esta facultad en los Presidentes Municipales.
 
-XX. Expedir, con la aprobación de la Legislatura, las bases generales para la reglamentación en el ramo de Policía, a las cuales deberán sujetarse los Cuerpos Municipales en la formación de sus respectivos reglamentos; en la inteligencia de que la Policía estará bajo la dependencia del Gobernador del Estado.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1924)</small>
+
+XX. Expedir, con aprobación de la Legislatura, las bases generales para la reglamentación en el Ramo de Policía, a las cuales deberán sujetarse los Cuerpos Municipales en la formación de sus respectivos reglamentos; en la inteligencia de que el Gobernador del Estado tendrá el mando de la fuerza pública en los lugares en donde residiere habitual o transitoriamente.
 
 XXI. Mandar que se instruya y discipline la Guardia Nacional, conforme al reglamento que expida el Congreso de la Unión y a las prevenciones que determine el Congreso del Estado.
 
@@ -409,11 +411,11 @@ La libertad Municipal no tendrá más límites que los señalados en la Constitu
 
 Los Ayuntamientos administrarán colectivamente los asuntos de los Municipios y el Presidente de la Corporación dirigirá las deliberaciones de ésta y será el ejecutor de los acuerdos de la misma.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1924)</small>
 
 ###### Art. 76.
 
-Los Ayuntamientos se renovarán en totalidad cada año pudiendo sus miembros ser reelectos, con excepción del Presidente Municipal o quien lo substituya.
+Los Presidentes Municipales y Regidores durarán en sus funciones dos años. Los Presidentes Municipales no podrán ser reelectos en el período inmediato siguiente.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
 
@@ -627,7 +629,7 @@ VII. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y
 
 Cada presunta Legislatura calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e inatacable.
 
-VIII. Calificar toda clase de elecciones cuando se reclame contra ellas.
+VIII. (DEROGADA, P.O. 9 DE NOVIEMBRE DE 1924)
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 1924)</small>
 
@@ -751,7 +753,9 @@ V. Admitir las renuncias de los funcionarios y empleados nombrados conforme a su
 
 VI. Expeditar los trabajos pendientes al tiempo del receso y ejecutar en los nuevos, lo que fuere indispensable, dando cuenta a la Legislatura con unos y otros.
 
-VII. Conceder licencias, con goce de sueldo o sin él, al Gobernador del Estado, a los Diputados, a los Magistrados, a los Jueces de Partido y a los empleados dependientes de la Legislatura.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1924)</small>
+
+VII. Conceder licencias, con goce de sueldo o sin él, al Gobernador del Estado, a los Diputados, a los Magistrados y a los empleados dependientes de la Legislatura.
 
 #### SECCION PRIMERA.
 
@@ -1050,5 +1054,9 @@ P.O. 22 DE MAYO DE 1924.
 La presente reforma surtirá sus efectos desde la fecha de su promulgación.
 
 P.O. 8 DE JUNIO DE 1924.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 9 DE NOVIEMBRE DE 1924.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
