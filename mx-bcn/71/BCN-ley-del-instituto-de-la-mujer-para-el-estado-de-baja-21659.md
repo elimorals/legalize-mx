@@ -1,0 +1,458 @@
+---
+title: "LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA"
+identifier: "BCN-ley-del-instituto-de-la-mujer-para-el-estado-de-baja-21659"
+country: "mx"
+rank: "ley"
+publication_date: "2001-06-22"
+last_updated: "2001-06-22"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21659&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-bcn"
+scjn_id: "21659"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "26 SECCION I"
+reform_count: "9"
+scjn_last_update: "2025-07-21"
+issue_date: "2001-06-19"
+state: "BCN"
+---
+# LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
+
+LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
+
+ALEJANDRO GONZALEZ ALCOCER
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
+
+QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PUBLICACION, EL ORDENAMIENTO LEGAL QUE SIGUE:
+
+LA H. XVI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCION I DE LA CONSTITUCION POLITICA LOCAL, EXPIDE LA SIGUIENTE:
+
+LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 1.
+
+La presente Ley es de orden público, interés social y observancia general en el Estado de Baja California en materia de equidad de género entre hombres y mujeres e igualdad de derechos y oportunidades entre ambos sexos, en los términos consagrados en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+
+###### ARTÍCULO 2.
+
+Se crea el Instituto de la Mujer para el Estado de Baja California, como organismo descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propio, dotado de atribuciones, objetivos y fines, en los términos de esta Ley, el cual contará con la estructura administrativa que determinen el reglamento interior.
+
+El domicilio legal del Instituto de la Mujer para el Estado de Baja California, será la Ciudad de Mexicali, pudiéndose establecer oficinas representativas en otras localidades de la entidad.
+
+###### ARTÍCULO 3.
+
+Para los efectos de esta Ley se entenderá por:
+
+INSTITUTO: al Instituto de la Mujer para el Estado de Baja California;
+
+CONSEJO DIRECTIVO: al Consejo Directivo del Instituto de la Mujer para el Estado de Baja California;
+
+CONSEJO CONSULTIVO: al Consejo Consultivo del Instituto de la Mujer para el Estado de Baja California.
+
+TRANSVERSALIDAD: a la manera integradora en que deberá expresarse el Programa de la Mujer en los programas de las distintas dependencias de la administración Pública Estatal, como una de sus dimensiones.
+
+###### ARTÍCULO 4.
+
+El Instituto estará agrupado en el sector que determine el Titular del Poder Ejecutivo, en términos de lo dispuesto por el Artículo 55 de la Ley Orgánica de la Administración Pública del Estado de Baja California.
+
+### CAPÍTULO II. DEL OBJETO Y ATRIBUCIONES DEL INSTITUTO
+
+###### ARTÍCULO 5.
+
+El objeto del Instituto es promover y fomentar las condiciones que posibiliten la no discriminación, la equidad e igualdad de oportunidades y de trato entre hombres y mujeres, el ejercicio pleno de los derechos de las mujeres y su participación equitativa en la vida política, cultural, económica y social de la entidad, bajo el criterio de tranversalidad en las políticas públicas y con un enfoque que permita identificar y valorar la desigualdad, discriminación y violencia hacia las mujeres, para generar un cambio mediante estrategias y líneas de acción que propicien la equidad social.
+
+###### ARTÍCULO 6.
+
+El Instituto tendrá las siguientes atribuciones:
+
+I. Elaborar el Programa Estatal de la Mujer y coordinar las acciones en él contenidas;
+
+II. Apoyar la formulación de políticas públicas e impulsar las propuestas de la sociedad, para alcanzar la igualdad de derechos y oportunidades de desarrollo para la mujer en el ámbito político, social, cultural y económico, e incorporar este principio en la planeación del desarrollo.
+
+III. Impulsar la incorporación de los lineamientos del Programa Estatal de la Mujer en el programa anual de cada dependencia y entidad de la Administración Pública del Estado, así como en el de los sectores en general vinculados con estos instrumentos, para la ejecución de sus programas sectoriales o, en su caso, institucionales específicos;
+
+IV. Establecer y concertar acuerdos y convenios con las autoridades de los tres órdenes de gobierno para promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y subprogramas que se establezcan en el Programa Estatal de la Mujer;
+
+V. Promover ante los poderes públicos del Estado, acciones dirigidas a mejorar la condición social de las mujeres generando igualdad de oportunidades para su desarrollo y erradicando toda forma de discriminación en su contra;
+
+VI. Establecer y operar en coordinación con el Comité de Planeación del Desarrollo del Estado y otras dependencias del Ejecutivo, un sistema de seguimiento de los programas federales, estatales y municipales relacionados con la mujer, de conformidad con lo previsto en las leyes y convenios respectivos;
+
+VII. Establecer vínculos de colaboración con el Poder Legislativo y con los ayuntamientos del Estado, para promover acciones legislativas y reglamentarias que garanticen a las mujeres la igualdad de derechos y oportunidades de desarrollo;
+
+VIII. Establecer vínculos de colaboración con las instancias administrativas que se ocupen de los asuntos de las mujeres en los ayuntamientos para promover y apoyar, en su caso, las políticas, programas, y acciones en materia de igualdad de oportunidades y desarrollo para las mujeres;
+
+IX. Promover la prestación de servicios de seguridad social en apoyo a madres trabajadoras;
+
+X. Promover ante las autoridades competentes que los contenidos y materiales educativos estén libres de prejuicios discriminatorios contra las mujeres y que fomenten la igualdad de derechos y oportunidades;
+
+XI. Promover ante las autoridades competentes que se garantice el acceso de la mujer, y se aliente su permanencia o reingreso a las instituciones educativas en todos sus niveles, impulsando además a través del proceso de enseñanza-aprendizaje, la igualdad de oportunidades para hombres y mujeres;
+
+XII. Propiciar y fomentar el acceso de las mujeres de la tercera edad, discapacitadas y pertenecientes a minorías étnicas, a todo tipo de programas destinados a la mujer;
+
+XIII. Promover ante las autoridades Federales, Estatales y Municipales en materia de salud, el acceso de las mujeres a servicios integrales de atención a la salud, considerando las características particulares de su ciclo de vida y condición social;
+
+XIV. Promover en coordinación con otras dependencias del Ejecutivo, acciones de combate a la pobreza, marginación y exclusión de las mujeres de las actividades económicas, culturales y sociales de la entidad, especialmente en el medio rural e indígena;
+
+XV. Estimular y fomentar la participación activa de las organizaciones que actúan en la promoción y defensa de los derechos de la mujer, en las tareas de formulación, ejecución, seguimiento y evaluación de las políticas y acciones públicas orientadas al desarrollo integral de la mujer;
+
+XVI. Promover ante las autoridades competentes la realización de acciones tendientes a prevenir, sancionar, atender y erradicar la violencia contra la mujer;
+
+XVII. Promover acciones tendientes a reconocer las aportaciones de la mujer, derivadas de su participación en el desarrollo del Estado;
+
+XVIII. Impulsar en los medios de comunicación, una cultura de igualdad entre el hombre y la mujer, reconociendo y dignificando su imagen ante la sociedad;
+
+XIX. Servir de enlace con organizaciones locales, nacionales e internacionales que apoyen proyectos dirigidos a la mujer, para lograr la captación de recursos y su adecuada distribución;
+
+XX. Concertar y suscribir acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las mujeres;
+
+XXI. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública del Estado, así como de las municipales, y de los sectores social y privado, en materia de equidad e igualdad de derechos y oportunidades para las mujeres;
+
+XXII. Promover la ejecución de acciones para el reconocimiento público de las mujeres, así como para la difusión nacional e internacional de las actividades que las benefician;
+
+XXIII. Promover estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas , económicas y culturales de las mujeres en los distintos ámbitos de la sociedad;
+
+XXIV. Participar y organizar reuniones y eventos para el intercambio de experiencias e información en los ámbitos de su competencia sobre los temas de las mujeres;
+
+XXV. Promover, difundir y publicar obras relacionadas con las materias objeto de esta Ley;
+
+XXVI. Promover las aportaciones de recursos provenientes de dependencias e instituciones públicas, organizaciones privadas y sociales, interesadas en apoyar el logro de la equidad entre hombres y mujeres;
+
+XXVII. Impulsar la cooperación nacional e internacional, para el apoyo financiero y técnico en la materia de equidad entre hombres y mujeres, de conformidad con las disposiciones aplicables;
+
+XXVIII. Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Estatal de la Mujer;
+
+XXIX. Actualizar periódicamente el diagnóstico sobre la situación de las mujeres, en relación con los avances y operatividad del Programa Estatal de la Mujer, y
+
+XXX. Las demás que señale el reglamento de esta Ley.
+
+### CAPÍTULO III. DEL PROGRAMA ESTATAL DE LA MUJER
+
+###### ARTÍCULO 7.
+
+El Programa Estatal de la Mujer, es el documento que contiene las acciones que en forma planeada y coordinada, deberán realizarse en beneficio de la mujer en las dependencias y entidades de la Administración Pública del Estado y en los poderes legislativo y judicial.
+
+###### ARTÍCULO 8.
+
+El Programa Estatal de la Mujer se elaborará anualmente, en consulta con la sociedad y con base en programas relativos a la mujer que emanen de los Gobiernos Federal y Estatal en esta materia. En su elaboración se incluirá la coordinación y concertación con los sectores público, privado y social y de los municipios del Estado, de conformidad con el reglamento de esta Ley.
+
+###### ARTÍCULO 9.
+
+El Programa Estatal de la Mujer deberá contener las propuestas de los programas de los Comités de consulta municipal a que se refiere esta Ley.
+
+### CAPÍTULO IV. DE LA ESTRUCTURA ORGANICA DEL INSTITUTO
+
+###### ARTÍCULO 10.
+
+El Instituto contará con los siguientes órganos:
+
+I. El Consejo Directivo;
+
+II. La Dirección General, y
+
+III. El Consejo Consultivo.
+
+#### SECCIÓN PRIMERA. DEL CONSEJO DIRECTIVO
+
+###### ARTÍCULO 11.
+
+El Consejo Directivo será el órgano de gobierno del Instituto, integrado de la siguiente manera:
+
+I. Un Presidente, que será el titular del Poder Ejecutivo del Estado;
+
+II. Las o los Titulares de las dependencias del ejecutivo, siguientes:
+
+Secretaría de Desarrollo Social
+
+Secretaría de Educación y Bienestar Social
+
+Secretaría de Planeación y Finanzas
+
+Dirección de Trabajo y Previsión Social
+
+Sistema Estatal para el desarrollo Integral de la Familia
+
+Secretaría de Salud Pública del Estado de B.C.
+
+Procuraduría de los Derechos Humanos y Participación Ciudadana
+
+La o el Presidente del Consejo Consultivo
+
+III. Cinco Vocales municipales; y
+
+IV. Una Secretaría Técnica, que será la Directora o Director General del Instituto.
+
+###### ARTÍCULO 12.
+
+Los vocales municipales serán propuestos por los sectores privado y social, previa convocatoria pública de los ayuntamientos del Estado, en los términos previstos por el reglamento de esta ley.
+
+Concluido el procedimiento previsto en el reglamento, cada uno de los municipios propondrá a cuatro personas para ocupar el cargo de vocal del Consejo Directivo.
+
+Del total de las propuestas presentadas por los municipios, el Ejecutivo del Estado, mediante el procedimiento de insaculación por municipio, nombrará a los propietarios y sus respectivos suplentes.
+
+El cargo de vocal será de carácter honorífico y su duración en el cargo será por un período de tres años, no pudiendo ser propuesto para el siguiente.
+
+###### ARTÍCULO 13.
+
+Para ejercer el cargo de vocal se requiere:
+
+I. Ser mexicano o mexicana;
+
+II. Ser mayor de 18 años;
+
+III. Contar con residencia efectiva de cuando menos cinco años en el Estado;
+
+IV. Acreditar actividades de carácter productivo académico o social vinculados de manera directa con la problemática de la mujer;
+
+V. No haber sido condenado o condenada por sentencia ejecutoriada por delito doloso, y
+
+VI. No ejercer cargos directivos de un partido político o puesto de elección popular.
+
+###### ARTÍCULO 14.
+
+Los vocales propuestos por los ayuntamientos, constituirán los Comités de Consulta Municipal para promover la participación de los organismos no gubernamentales y ciudadanía en general en la elaboración del Programa Estatal de la Mujer y las demás acciones encaminadas a los fines y objetivos del mismo.
+
+###### ARTÍCULO 15.
+
+El Consejo Directivo sesionará en forma ordinaria cada cuatro meses y, en forma extraordinaria, cuantas veces sea necesario, a juicio de la presidencia o, de cuando menos, una tercera parte de sus integrantes. La convocatoria será notificada con una anticipación de cuando menos tres días hábiles, para sesiones ordinarias y de un día para las extraordinarias.
+
+Los vocales titulares del Consejo Directivo tendrán derecho a voz y voto. En su ausencia, este derecho corresponderá a sus suplentes.
+
+Para contar con quórum legal, las sesiones del Consejo Directivo deberán celebrarse con la mayoría de sus integrantes, entre ellos, el Presidente.
+
+Las resoluciones del Consejo Directivo se tomarán preferentemente por consenso y, en caso de que no se produzca, en el orden de prelación siguiente:
+
+a) Por las dos terceras partes de los asistentes;
+
+b) Por mayoría simple; en caso de empate, el Presidente del Consejo podrá emitir el voto de calidad.
+
+De cada sesión se levantará acta circunstanciada que deberá ser firmada por quien haya presidido la misma, así como por la Secretaría Técnica.
+
+###### ARTÍCULO 16.
+
+Las ausencias del Presidente del Consejo Directivo, serán suplidas por quien se determine en el reglamento de esta Ley.
+
+###### ARTÍCULO 17.
+
+El Consejo Directivo tendrá las siguientes atribuciones:
+
+I. Proponer al Ejecutivo del Estado, la terna para elegir al Director o Directora General, previa convocatoria pública que expida para su integración;
+
+II. Analizar y aprobar en su caso, los informes que rinda la Dirección General;
+
+III. Establecer en congruencia con las partidas presupuestales asignadas, los programas y acciones prioritarias para el cumplimiento de sus objetivos y atribuciones;
+
+IV. Proponer las bases conforme a las que deberá sujetarse el Instituto para la celebración de acuerdos, convenios y contratos; así como conocer y aprobar los convenios de colaboración que hayan de celebrarse con dependencias y entidades públicas;
+
+V. Aprobar el presupuesto de egresos del Instituto, informes de actividades y estados financieros anuales;
+
+VI. Otorgar a la Dirección General poderes generales y especiales necesarios para el cumplimiento del objeto del Instituto, con las limitaciones que establezcan las disposiciones legales aplicables, así como las que considere necesario determinar;
+
+VII. Promover las donaciones, legados y demás liberalidades que se otorguen a favor del Instituto, así como aprobar su aceptación;
+
+VIII. Aprobar el reglamento de esta Ley, así como el interior del Instituto y los manuales de procedimientos, y
+
+IX. Las demás que le confiere esta Ley.
+
+###### ARTÍCULO 18.
+
+El Presidente del Consejo Directivo, tendrá las siguientes atribuciones:
+
+I. Presidir las sesiones ordinarias o extraordinarias del Consejo Directivo y asumir la representación del mismo;
+
+II. Promover la participación de las dependencias y entidades del sector público que correspondan, dentro del Programa Estatal de la Mujer;
+
+III. Constatar los avances y resultados del Programa Estatal de la Mujer; y
+
+IV. Las demás que le confiera el Reglamento Interior.
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL
+
+###### ARTÍCULO 19.
+
+La Dirección General estará a cargo de un o una titular que durará tres años en su cargo y tendrá las siguientes facultades:
+
+I. Instrumentar y ejecutar los acuerdos del Consejo Directivo;
+
+II. Elaborar y emitir la convocatoria a sesiones ordinarias y extraordinarias del Consejo Directivo, y fungir como Secretaría Técnica de dicho órgano sólo con derecho a voz;
+
+III. Proponer ante el Consejo Directivo su proyecto de Programa;
+
+IV. Someter ante el Consejo Directivo para su aprobación, el anteproyecto de presupuesto de egresos del Instituto;
+
+V. Dirigir las actividades administrativas del Instituto y representarlo legalmente;
+
+VI. Proponer al Consejo Directivo los programas de financiamiento del Instituto;
+
+VII. Someter al Consejo Directivo el informe anual sobre el desempeño de las funciones del Instituto, así como presentar los demás informes de actividades que le sean requeridos por el mismo;
+
+VIII. Elaborar y presentar a consideración y aprobación del Consejo Directivo, el proyecto de reglamento de esta Ley, así como el interior del Instituto y demás ordenamientos que sean necesarios para su funcionamiento;
+
+IX. Realizar toda clase de actos inherentes al objeto del Instituto; la celebración de actos de dominio requerirá la aprobación previa del Consejo Directivo.
+
+X. Establecer mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe el Instituto y presentar al Consejo Directivo, una vez al año, la evaluación de gestión, con el detalle que se acuerde por el propio Consejo Directivo;
+
+XI. Suscribir en su caso, los contratos que regulen las relaciones laborales del Instituto con sus trabajadores;
+
+XII. Proponer el nombramiento y remoción del personal del Instituto ante el Consejo Directivo, y
+
+XIII. Las demás que le confiera esta Ley, el reglamento de la misma y demás disposiciones.
+
+###### ARTÍCULO 20.
+
+Para ser Director o Directora General se requiere:
+
+I. Ser ciudadano o ciudadana mexicana por nacimiento en ejercicio pleno de sus derechos políticos y civiles;
+
+II. Haber cumplido treinta años;
+
+III. Tener una residencia efectiva mínima de cinco años en el Estado;
+
+IV. Haber destacado por su labor social, académica o cultural en los sectores de la sociedad de la entidad, a favor de los derechos y participación de la mujer, así como en actividades relacionadas con las políticas, programas y acciones establecidas en la presente Ley;
+
+V. Tener experiencia en actividades relativas a la atención de la problemática de la mujer;
+
+VI. No haber sido condenada o condenado por sentencia ejecutoriada por delito doloso, ni estar inhabilitada o inhabilitado para ocupar cargo, comisión o empleo en el servicio público;
+
+VII. No formar parte, ni haber figurado en puestos directivos de un partido político o haber ocupado un puesto de elección popular, durante los últimos cinco años, y
+
+VIII. No formar parte del Consejo Directivo del Instituto.
+
+###### ARTÍCULO 21.
+
+Para conformar la terna que será propuesta al Gobernador del Estado, para ocupar el cargo de Director o Directora General, el Consejo Directivo emitirá convocatoria pública, debiéndola publicar en el Periódico Oficial del Estado y en los diarios de mayor circulación de la Entidad.
+
+La convocatoria deberá contener por lo menos, el plazo de la inscripción, requisitos a cubrir por los aspirantes, y procedimiento a que se sujetarán las comparecientes ante el Consejo Directivo. Las reglas necesarias para este procedimiento serán establecidas en el reglamento de esta Ley.
+
+#### SECCIÓN TERCERA. DEL CONSEJO CONSULTIVO
+
+###### ARTÍCULO 22.
+
+El Instituto contará con un Consejo Consultivo, que será un órgano asesor y de consulta en lo relativo al Programa Estatal de la Mujer y en los demás asuntos en materia de la problemática de la mujer.
+
+###### ARTÍCULO 23.
+
+El Consejo Consultivo estará integrado mayoritariamente por mujeres, en un número no menor de cinco ni mayor de diez miembros, representativos de los diferentes sectores de la sociedad, de organizaciones no gubernamentales, de asociaciones civiles, así como de instituciones académicas. Su designación recaerá en el Consejo Directivo, a propuesta de las organizaciones representativas de defensa de los derechos de las mujeres. Todo cargo en el Consejo Consultivo, será honorífico.
+
+El Consejo Directivo Determinará en el reglamento interior, la estructura, organización y funcionamiento del Consejo Consultivo, el cual será dirigido por una Presidencia, electa de entre los integrantes del propio Consejo, a propuesta de la Dirección General.
+
+###### ARTÍCULO 24.
+
+Las integrantes del Consejo Consultivo durarán en su encargo tres años y presentarán un informe anual al Consejo Directivo.
+
+###### ARTÍCULO 25.
+
+Son funciones del Consejo Consultivo:
+
+I. Proponer medidas para impulsar y favorecer la participación de los sectores interesados en las acciones relacionadas con el objeto de esta Ley;
+
+II. Promover vínculos de coordinación con las instancias responsables de las acciones a favor de la mujer, así como con los sectores y organizaciones de la sociedad en general;
+
+III. Apoyar el fortalecimiento de las organizaciones de mujeres y de las que trabajen a favor de ellas;
+
+IV. Proponer modificaciones a las políticas, estrategias, programas, proyectos y acciones derivadas de esta Ley;
+
+V. Dar seguimiento a las políticas, programas, proyectos y acciones que se emprendan en beneficio de las mujeres, de conformidad a esta Ley, y
+
+VI. Presentar al Consejo Directivo los informes de evaluación en las materias objeto de esta Ley.
+
+### CAPÍTULO V. DEL PATRIMONIO, VIGILANCIA Y RÉGIMEN LABORAL DEL INSTITUTO
+
+###### ARTÍCULO 26.
+
+El Instituto contará con patrimonio propio, que se integrará por:
+
+I. Los bienes y derechos que aporten los gobiernos federal, estatal y municipales;
+
+II. Los bienes muebles e inmuebles que adquiera con base en cualquier título legal;
+
+III. Los ingresos que obtenga por servicio que preste, los productos y rentas de sus bienes patrimoniales, y
+
+IV. Los que adquiera por otros conceptos.
+
+Dichos bienes y derechos deberán tener como propósito facilitar el cumplimiento del objeto del Instituto.
+
+###### ARTÍCULO 27.
+
+La vigilancia del Instituto estará a cargo de un Comisario cuyo titular será designado y removido libremente por el Gobernador del Estado, a propuesta del Director de Control y Evaluación Gubernamental del Estado.
+
+###### ARTÍCULO 28.
+
+El Comisario tendrá las siguientes atribuciones:
+
+I. Vigilar que la administración de los recursos y el funcionamiento del Instituto se hagan conforme a la Ley;
+
+II. Practicar la auditoría interna de los estados financieros y las de carácter administrativo que se requieran;
+
+III. Recomendar al Consejo Directivo las medidas correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento administrativo del Instituto;
+
+IV. Asistir a las sesiones del Consejo Directivo con derecho a voz exclusivamente;
+
+V. Brindar el apoyo técnico que la Dirección General requiera en cumplimiento de la Ley para el Control de los Organismos Públicos Descentralizados, Empresas de Participación Estatal y Fideicomisos del Estado, y
+
+VI. Las demás que en materia de control y vigilancia le confiera el Reglamento Interno del Instituto y las Leyes en la materia.
+
+###### ARTÍCULO 29.
+
+El Instituto queda sometido a las normas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública del Estado.
+
+###### ARTÍCULO 30.
+
+Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por el Apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá promover la creación de una partida presupuestal en la que se asigne al Instituto las aportaciones necesarias para su funcionamiento.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado expedirá las bases de la convocatoria para constituir el Consejo Consultivo en un término no mayor a treinta días naturales a partir de la aprobación de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Por esta única ocasión, el Consejo Directivo del Instituto, expedirá convocatoria pública para la integración de la terna que será propuesta al Gobernador del Estado, para ocupar el cargo de la Dirección General del Instituto, a más tardar dentro de los treinta días siguientes a su constitución.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo sancionará y publicará los reglamentos internos correspondientes que le envíe el Consejo Directivo del Instituto.
+
+###### ARTÍCULO SEXTO.
+
+Quedan derogadas las disposiciones contenidas en otras leyes que se opongan a lo prescrito por esta Ley.
+
+DADO en el Salón de Sesiones "Lic. Benito Juárez García" del Honorable Poder Legislativo, en la Ciudad de Mexicali, Baja California, a los siete días del mes de junio del año dos mil uno.
+
+DIP. GILBERTO FLORES MUÑOZ
+
+PRESIDENTE
+
+DIP. SERGIO AVITIA NALDA
+
+SECRETARIO
+
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA Y PUBLIQUE.
+
+MEXICALI, BAJA CALIFORNIA, A DIECINUEVE DIAS DEL MES DE JUNIO DEL AÑO DOS MIL UNO.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LIC. ALEJANDRO GONZALEZ ALCOCER
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+C.P. JORGE RAMOS
