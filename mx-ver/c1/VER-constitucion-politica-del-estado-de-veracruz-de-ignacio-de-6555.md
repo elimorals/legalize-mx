@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1979-01-18"
+last_updated: "1980-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE ENERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 1980.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -499,15 +499,15 @@ Las reuniones del Colegio Electoral que sean necesarias para calificar las elecc
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 1959)</small>
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
 
 ###### Artículo 60.
 
-El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia leerán, cada uno de ellos, ante la Legislatura, el 30 de noviembre, un informe anual, en el que expondrán, en términos generales, el desarrollo de las labores encomendadas a los Poderes Ejecutivo y Judicial.
+El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia leerán, cada uno de ellos, ante la Legislatura, el 31 de octubre, un informe anual, en el que expondrán, en términos generales, el desarrollo de las labores encomendadas a los Poderes Ejecutivo y Judicial.
 
 A dichos informes dará contestación el Presidente de la Legislatura.
 
-Si el Gobernador no pudiere concurrir por hallarse enfermo o por otra causa justificada, dará lectura a su informe el Secretario Gobierno.
+Si el Gobernador no pudiera concurrir por hallarse enfermo o por otra causa justificada, dará lectura a su informe el Secretario de Gobierno.
 
 > <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
@@ -1570,3 +1570,9 @@ G.O. 18 DE ENERO DE 1979.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+G.O. 24 DE JUNIO DE 1980.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor, al día siguiente de su publicación en la "Gaceta Oficial" órgano del Gobierno del Estado.
