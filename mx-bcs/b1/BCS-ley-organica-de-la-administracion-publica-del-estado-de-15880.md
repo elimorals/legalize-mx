@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-15880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-02-18"
-last_updated: "2000-02-18"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 18 de febrero de 2000.
 
@@ -73,9 +73,11 @@ III.- Los Representantes, agentes, inspectores o delegados designados para el ef
 
 La Delegación de facultades debe ser expresa, transitoria y limitada y no requiere más formalidad que la de una comunicación escrita, salvo que en atención a la materia, intereses o a la cuantía del asunto, las Leyes exijan formalidades especiales.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 6º.
 
-El Gobernador del Estado podrá convenir con el Ejecutivo Federal, con otras Entidades Federativas y con los Ayuntamientos de la Entidad, la prestación de servicios públicos, la administración de tributos, la ejecución de obras o la realización de cualquier otro propósito en beneficio colectivo, en los términos que establezcan la Constitución General de la República, la del Estado y demás disposiciones que de ellas emanen.
+El Gobernador del Estado podrá convenir con el Ejecutivo Federal, con otras entidades federativas y con los ayuntamientos de la entidad, la prestación en forma temporal de servicios públicos, la administración de tributos, la ejecución de obras o la realización de cualquier otro propósito en beneficio colectivo, en los términos que establezca la Constitución General de la República, la del Estado y demás disposiciones que de ellas emanen.
 
 ###### ARTICULO 7º.
 
@@ -680,3 +682,15 @@ LIC. LEONEL EFRAÍN COTA MONTAÑO.
 SECRETARIO GENERAL DE GOBIERNO
 
 LIC. VÍCTOR MANUEL GULUARTE CASTRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92 y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
