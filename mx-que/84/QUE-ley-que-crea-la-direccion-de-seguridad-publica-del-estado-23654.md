@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-la-direccion-de-seguridad-publica-del-estado-23654
 country: "mx"
 rank: "ley"
 publication_date: "1974-03-07"
-last_updated: "1976-12-30"
+last_updated: "2003-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY QUE CREA LA DIRECCION DE SEGURIDAD PUBLICA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1976.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUEERETARO Y DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE QUERETARO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 7 de Marzo de 1974.
 
@@ -123,8 +125,18 @@ El Secretario General de Gobierno,
 
 LIC. ALEJANDRO MALDONADO FRANCO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 30 DE DICIEMBRE DE 1976
+P.O. 30 DE DICIEMBRE DE 1976.
 
 UNICO.- La presente Ley comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2003.
+
+PRIMERO. Esta Ley entrará en vigor el día 1 de enero del año 2004, debiéndose publicar en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se abroga la "Ley que Crea la Dirección de Seguridad Pública del Estado de Querétaro" del 22 de febrero de 1974, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" con fecha 7 de marzo de 1974, y se derogan todas las demás disposiciones que se opongan a esta Ley. En consecuencia, las referencias que las leyes y demás disposiciones legales en el Estado tengan o hagan respecto de la Dirección de Seguridad Pública y/o Dirección de Tránsito y Transporte y/o sus titulares, se deberán entender hechas a favor de la Secretaría de Seguridad Ciudadana o su Titular.
+
+TERCERO. Las Unidades Administrativas que con motivo de esta Ley se transfieran de la Secretaría de Gobierno o de alguna otra a la Secretaría de Seguridad Ciudadana, incluirán al personal a su servicio, sin perjuicio de sus derechos adquiridos, así como el mobiliario, los vehículos, maquinaria, aparatos, instrumentos, archivos y el equipo que se haya venido usando. Los derecho laborales del personal que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra, se respetarán conforme a la disposición legal de la materia.
+
+CUARTO. Los juicios y procedimientos administrativos que se encuentren en trámite y que con motivo de esta Ley deban pasar al conocimiento de la Secretaría de Seguridad Ciudadana, continuarán con su desahogo por quien conozca, y para el caso de que no se hayan resuelto a la fecha de entrada en vigor de esta Ley, se remitirán a la Secretaría a efecto de que ella determine lo conducente. Tratándose de asuntos en litigio, la Secretaría asumirá la personalidad jurídica, ya sea activa o pasiva, hasta la total terminación de los mismos a partir de la entrada en vigor de esta Ley.
