@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-2691"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-01-15"
-last_updated: "2002-03-10"
+last_updated: "2002-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE JULIO DE 2002.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 15 de enero de 1991.
 
@@ -205,9 +205,9 @@ IX.- Violación, en sus modalidades previstas y sancionadas en los artículos 18
 
 X.- Atentado al pudor, conforme a la hipótesis prevista en el párrafo tercero del artículo 190, en relación con el 191.
 
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, B.O. 3 DE JULIO DE 2002)</small>
 
-XI.- Robo, previsto en el artículo 211, siempre que se cometa dentro de las hipótesis señaladas en los artículos 211-A, 211-B, 214, fracciones VI y VII, 215 y 217, con excepción de aquellos casos en los que el robo se persiga por querella, en términos del artículo 243.
+XI.- Robo, previsto en el artículo 211, siempre que se cometa dentro de las hipótesis señaladas en los artículos 211-A, 211-B y 214 fracciones I primer párrafo y VI, 215 y 217, con excepción de aquellos casos en los que el robo se persiga por querella, en términos del artículo 243.
 
 XII.- Abigeato, previsto en el artículo 221, siempre y cuando se cometa dentro de la primera hipótesis señalada por el artículo 222. Asimismo, en los supuestos de las fracciones I a la VI del propio artículo, siempre y cuando se trate de ganado mayor o sus crías.
 
@@ -3247,13 +3247,13 @@ Es ultraje el uso indebido de las insignias del Estado o de los Municipios, o la
 
 Al responsable de ultraje se impondrá de tres días a seis meses de prisión y multa hasta de noventa días salario.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ## TITULO VIGESIMO
 
 DE LOS DELITOS ELECTORALES.
 
-T R A N S I T O R I O S :
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ### CAPITULO UNICO
 
@@ -3399,7 +3399,7 @@ II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de la
 
 La pena a que se refiere este Artículo se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO.
 
@@ -3494,3 +3494,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 10 DE MARZO DE 2002.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 3 DE JULIO DE 2002.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
