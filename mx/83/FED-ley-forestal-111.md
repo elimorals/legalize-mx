@@ -4,7 +4,7 @@ identifier: "FED-ley-forestal-111"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-22"
-last_updated: "2001-12-31"
+last_updated: "2003-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1992-12-17"
 
 LEY FORESTAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2001.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 25 DE FEBRERO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el martes 22 de diciembre de 1992.
 
@@ -1108,3 +1110,29 @@ D.O.F. 31 DE DICIEMBRE DE 2001.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En un plazo no mayor de 90 días hábiles, a partir de la publicación de este decreto que reforma el artículo 7 de la Ley Forestal, la Secretaría efectuará una publicación oficial de la lista completa de los recursos forestales no maderables que hasta esa fecha, hayan sido identificados por dicha Secretaría.
+
+D.O.F. 25 DE FEBRERO DE 2003.
+
+ARTICULOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
+
+PRIMERO.- Se abroga la Ley Forestal publicada en el Diario Oficial de la Federación de fecha 22 de diciembre de 1992, con sus posteriores reformas; y se derogan todas las disposiciones que se opongan o contravengan a la presente Ley.
+
+SEGUNDO.- La presente Ley entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Hasta en tanto las Legislaturas de los Estados dictan las leyes, y los Ayuntamientos los reglamentos y bandos para regular las materias que según este ordenamiento son de su competencia, corresponderá a la Federación aplicar esta ley en el ámbito local, coordinándose para ello con las autoridades estatales y, con su participación, con los municipios que corresponda, según el caso.
+
+CUARTO.- Las autorizaciones expedidas con anterioridad a la publicación de la presente Ley deberán ajustarse a la autorización respectiva, y los procedimientos y solicitudes que se encuentren en trámite se continuarán tramitando en los términos de la Ley que se abroga.
+
+QUINTO.- La Secretaría, dentro de un plazo de cuatro meses, contados a partir de la entrada en vigor de la presente ley deberá transferir los recursos económicos, materiales y humanos a la Comisión que correspondan al ejercicio de las funciones que asume, a efecto de que ésta pueda cumplir con las atribuciones otorgadas en esta Ley.
+
+SEXTO.- En tanto no se expidan el estatuto orgánico, reglamentos y demás acuerdos de orden administrativo para el funcionamiento y operación de la Comisión, se continuarán aplicando los vigentes en lo que no se opongan a la presente Ley. La situación del personal de dicho organismo se regirá por las disposiciones relativas a los organismos descentralizados.
+
+SEPTIMO.- La Secretaría, en coordinación con la Comisión, formulará e implementará un programa especial para que los Estados y el Distrito Federal, previa solicitud, asuman las atribuciones a que se les asignan conforme esta Ley.
+
+OCTAVO.- El Servicio Nacional Forestal se instalará a convocatoria del titular de la Secretaría, dentro de un término que no exceda a los seis meses siguientes a la entrada en vigor de la presente Ley.
+
+NOVENO.- El Reglamento de esta Ley y las disposiciones relativas a la operación de las Promotorías de Desarrollo Forestal, así como de sistemas y esquemas de ventanilla única a que se refiere la presente Ley, deberán expedirse en un término que no exceda a los nueve meses contados a partir de la entrada en vigor de esta Ley.
+
+DECIMO.- En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídas previamente con terceros, así como los derechos de los trabajadores.
+
+DECIMO PRIMERO.- La Secretaría establecerá los mecanismos de evaluación y fortalecimiento institucional para promover la descentralización y federalización de funciones de acuerdo con las capacidades de los Estados y los Municipios y el Distrito Federal para ejercerlas.
