@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2000-12-21"
+last_updated: "2001-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2000.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ENERO DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -559,9 +559,13 @@ Sección 3a.
 
 De Comisiones Unidas
 
+> <small>(REFORMADO POR EL ACUERDO GENERAL 3/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE ENERO DE 2001)</small>
+
 ###### Artículo 47.
 
-Comisiones Unidas se integra por todos los Consejeros, a excepción del Presidente; es la instancia de coordinación del trabajo de las diversas Comisiones. Las propuestas de acuerdo y proyectos formulados por las Comisiones que deban someterse al Pleno, serán conocidas previamente, en sesión de Comisiones Unidas para su valoración y análisis técnico.
+Comisiones Unidas es la instancia de coordinación del trabajo de las diversas Comisiones. Por ello, las propuestas de acuerdos y proyectos formulados por las Comisiones que deban someterse al Pleno, serán conocidas previamente, en sesión de Comisiones Unidas para su valoración y análisis técnico.
+
+En las sesiones de Comisiones Unidas tendrán participación todos los Consejeros, incluyendo al Presidente, cuando éste lo estime conveniente.
 
 ###### Artículo 48.
 
@@ -943,9 +947,7 @@ De las Secretarías Ejecutivas en lo Particular
 
 ###### Artículo 79.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL
-
-5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE FEBRERO DE 2000)
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE FEBRERO DE 2000)
 
 ###### Artículo 80.
 
@@ -1625,7 +1627,7 @@ El examen del sustentante elegido y su resultado serán entregados por el Instit
 
 Los titulares de los órganos jurisdiccionales, con objeto de no afectar el funcionamiento del órgano, podrán nombrar de manera provisional, hasta por dos meses improrrogables, a los secretarios o actuarios de tribunal de Circuito o juzgado de Distrito, en las ausencias de los funcionarios públicos titulares, o para ocupar una plaza de adscripción temporal, en tanto se lleve el procedimiento para la práctica de los exámenes y se obtenga la autorización para el nombramiento respectivo por parte de la Comisión de Carrera Judicial. Las personas así nombradas deberán reunir los requisitos legales establecidos para el puesto y podrán presentar el examen de aptitud correspondiente.
 
-> <small>(REFORMADO POR EL ACUERDO GENERAL 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2000)</small>
+> <small>(REFORMADO POR EL ACUERDO GENERAL 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 06 DE JULIO DE 2000)</small>
 
 ###### Artículo 144.
 
@@ -2237,7 +2239,7 @@ Las comisiones de los servidores públicos deberán estar debidamente fundadas y
 
 Los periodos vacacionales a que se refiere el artículo 160 de la Ley deberán disfrutarse por los magistrados de tribunales colegiados de Circuito, durante la segunda quincena de los meses de julio y diciembre de cada año.
 
-> <small>(REFORMADO POR EL ACUERDO GENERAL 37/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2000)</small>
+> <small>(REFORMADO POR EL ACUERDO GENERAL 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 06 DE JULIO DE 2000)</small>
 
 ###### Artículo 267.
 
@@ -2460,5 +2462,11 @@ SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 D.O.F. 21 DE DICIEMBRE DE 2000.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE ENERO DE 2001.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
