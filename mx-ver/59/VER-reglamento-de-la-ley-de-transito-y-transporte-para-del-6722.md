@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-de-transito-y-transporte-para-del-6722"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-11-24"
-last_updated: "1991-03-23"
+last_updated: "1996-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "VER"
 
 REGLAMENTO DE LA LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 1996.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 24 de noviembre de 1988.
 
@@ -2240,6 +2240,10 @@ X.- Colocar en lugar visible a los usuarios, las tarifas y horario a que está s
 
 XI.- Las que resulten de otros ordenamientos.
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1996)</small>
+
+XII.- El pago de los derechos arancelarios previstos en la ley.
+
 ART. 111. Para dejar de No dar aviso de cierre de estacionamiento.
 
 prestar el servicio al público
@@ -2842,6 +2846,10 @@ Dirección General de Tránsito.
 
 Se prohibe el cambio de concesión de una jurisdicción a otra.
 
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1996)</small>
+
+Se prohíbe prestar el servicio de transporte público en sus diferentes modalidades en una jurisdicción distinta de aquella para la cual se otorgó la concesión.
+
 ART. 158. Sólo podrán otorgarse concesiones en las modalidades de servicios públicos de transporte que resulte necesario satisfacer, de acuerdo con los estudios que haga la Dirección General de Tránsito y Transporte.
 
 ART. 159. Para los efectos del artículo Anterior la Dirección General de Tránsito y Transporte realizará un estudio de las necesidades públicas de transporte, en el que se tomen en consideración las condiciones socioeconómicas de cada lugar y se escuche la opinión de los Comités Técnicos y de los Ayuntamientos.
@@ -2882,55 +2890,27 @@ ART. 163. En ningún caso, se otorgará a las personas físicas más de una conc
 
 ART. 164. La Dirección General de Tránsito llevará un registro y control de concesionarios.
 
-ART. 165. Las concesiones Transmitir concesión sin autorización.
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1996)</small>
 
-para prestar el servicio público
+ART. 165. Las concesiones para prestar el servicio público de transporte, en cualquiera de sus modalidades, podrán tranferirse a terceros, previa utorización de la Dirección General de Tránsito y Transporte.
 
-de transporte, en sus
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1996)</small>
 
-modalidades de taxi y colectivo
+ART. 166. Para que la Dirección General de Tránsito otorgue la autorización de transferencia de derechos a que se refiere el artículo anterior, se deberán satisfacer los siguientes requisitos:
 
-en automóvil, no podrán transmitirse
+I.- Que haya una solicitud por escrito del concesionario y del adquirente de los derechos derivados de la concesión;
 
-a terceros. En las además
+II.- Que los documentos del concesionario y del adquirente estén en regla;
 
-modalidades podrán ser transmisibles
+III.- Que el adquirente no haya sido sancionado anteriormente con la revocación de una concesión;
 
-entre concesionarios y previa
+IV.- Que el adquirente cubra los derechos arancelarios que al efecto establezca la ley; y
 
-autorización de la Dirección
+V.- Que la transferencia no infrinja ninguna otra disposición de este Reglamento.
 
-General de Tránsito y Transporte
+El adquirente de la concesión deberá comunicar a la Dirección General de Tránsito y Transporte, en un plazo de cinco días hábiles, la transferencia de los derechos.
 
-del Estado. En ambos casos
-
-se exceptúan las adquisiciones
-
-que se hagan por herencia.
-
-ART. 166. Para que la No satisfacer los requisitos exigidos, para la
-
-Dirección General de transmisión de concesión.
-
-Tránsito otorgue la autorización
-
-de transferencia de derechos a
-
-que se refiere el artículo anterior,
-
-se deberán satisfacer los requisitos
-
-siguientes:
-
-I.- Que haya una solicitud por escrito de ambos concesionarios;
-
-II.- Que los documentos de los concesionarios, estén en regla;
-
-III.- Que el concesionario adquirente no haya sido sancionado con la cancelación de una concesión;
-
-IV.- Que hecha la transmisión de derechos, en un plazo de cinco días hábiles lo comuniquen a la Dirección General de Tránsito y Transporte; y
-
-V.- Que la transmisión no viole alguna otra disposición de este Reglamento.
+El Gobierno del Estado no otorgará otra concesión al concesionario que haya transferido sus derechos.
 
 ART. 167. Cuando se No comunicar a la autoridad de Tránsito haber
 
@@ -3020,27 +3000,19 @@ IV.- Completo el expediente, la Dirección General de Tránsito y Transporte for
 
 V.- Otorgada la concesión, la autoridad de Tránsito y Transporte, vigilará que en un plazo de sesenta días, se cumpla con las disposiciones fiscales y reglamentarias que resulten aplicables.
 
-ART. 174. Se faculta al Solicitar más de tres permisos por año.
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1996)</small>
 
-Director General de Tránsito
+ART. 174. Las constancias de sustitución de vehículos de transporte público, se otorgarán, previo cumplimiento de los siguientes requisitos:
 
-y Transporte a otorgar permisos
+I. Que se cuente con concesión;
 
-para prestar el servicio público de
+II. Que el vehículo autorizado se encuentre en reparación; y
 
-transporte, a quienes teniendo
+III. Que el vehículo que sustituya al autorizado porte las placas de éste y la constancia de sustitución correspondiente.
 
-otorgada una concesión, no puedan
+Las constancias de sustitución temporal sólo podrán ser expedidas por el Director General de Tránsito y Transporte del Estado y por los delegados. Sólo se otorgarán 3 permisos por año de 20 días cada uno en relación a la concesión.
 
-prestar el servicio por la ausencia
-
-de cualquier requisito. Respecto
-
-de una misma concesión, sólo se
-
-podrán autorizar hasta tres permisos
-
-por año, de veinte días cada uno.
+Se prohíbe otorgar permisos provisionales para prestar servicio público de transporte a quienes carezcan de concesión.
 
 ###### Artículo 175.
 
@@ -3092,7 +3064,9 @@ h).- Colectivos:
 
 2º. En microbuses con capacidad de más de 20 pasajeros.
 
-Se prohibe prestar el servicio público de transporte colectivo, en vehículos que a juicio de la Dirección General de Tránsito y Transporte no reúna las condiciones técnicas que garanticen la seguridad de los pasajeros.
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1996)</small>
+
+Se prohíbe efectuar el servicio público de transporte, cualquiera que sea su modalidad, sin la concesión correspondiente, otorgada por la Secretaría General de Gobierno, con los requisitos y bajo las condiciones establecidas en la Ley de Tránsito y Transporte para el Estado de Veracruz y este Reglamento.
 
 ART. 178. En cada concesión que se otorgue para la prestación del servicio público de transporte se deberá especificar la modalidad a que éste queda sujeta, así como la o las jurisdicciones donde se dará el servicio.
 
@@ -3656,7 +3630,7 @@ durante el viaje, con excepción
 
 de los servicios de segunda clase.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE MARZO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 1991)</small>
 
 ART. 193. Los choferes A.- Falta de aseo y pulcritud en conductores de
 
@@ -4186,7 +4160,13 @@ II.- Categoría "B". Por la cantidad equivalente a dos días del salario mínimo
 
 III.- Categoría "C". Por la cantidad equivalente a cuatro días del salario mínimo, aplicable a las faltas contenidas en los artículos: 155; 156; 157; 174; 188; 189 notas D, E, F, N y P; 190; 191 notas A, B, D, E, H, I y J; 192 notas A y B; 193 notas B y D; 197 notas B, C y D; 201 notas A, B, C y D; 205; 206 notas A, B, C y D; 207; 214; 216 notas A y B; y
 
-IV.- Categoría "D". Por la cantidad equivalente a 20 días de salario mínimo, aplicable a las faltas contenidas en los Artículos: 165, 166, 167, 172 notas A y B, 177; 181 notas A y B, 185, 191 notas C y G, 202, 203, 209, 211, 215, 216 nota C, 220, 230.
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1996)</small>
+
+IV.- Categoría "D". Por la cantidad equivalente a 20 días de salario mínimo, aplicable a las faltas contenidas en los artículos: 165, 166, 167, 172 notas A y B, 181 notas A y B, 185, 191 notas C y G, 202, 203, 209, 211, 215, 216 nota C, 220, 230, y
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1996)</small>
+
+V.- Categoría "E". Por la cantidad equivalente a 1000 días de salario mínimo, aplicable a la falta contenida en el artículo 177.
 
 ART. 226. La Dirección General de Tránsito y Transporte podrá suspender hasta por tres meses los derechos amparados en una concesión cuando:
 
@@ -4208,15 +4188,25 @@ VIII.- Por falta de mantenimiento, el vehículo o una terminal o un servicio con
 
 ART. 227. No procederá la suspensión cuando el concesionario pruebe que adoptó medidas idóneas para impedir la causa que la origina; en este caso si el responsable es el chofer del vehículo, se le suspenderá por igual término la licencia de conducir.
 
-ART. 228. La Dirección General de Tránsito y Transporte, cancelará la concesión cuando:
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1996)</small>
+
+ART. 228. La Dirección General de Tránsito y Transporte, revocará la concesión cuando:
 
 I.- Se incurra por tercera ocasión en alguna de las causas de suspensión;
 
-II.- Se ampare a más de un vehículo con una misma concesión;
+II.- Se ejecuten actos para impedir a otros concesionarios o permisionarios la prestación de algún servicio público de transporte;
 
-III.- El concesionario tenga conocimiento de que el vehículo se utilizará o fue utilizado en la comisión de un delito y no lo informe a la autoridad correspondiente.
+III.- Se acredite la responsabilidad penal del concesionario o permisionario en la comisión de un delito, para cuya ejecución se hubiese utilizado el vehículo destinado al servicio;
 
-ART. 229. La suspensión o cancelación de una concesión, procederá sin perjuicio de la aplicación de otras sanciones.
+IV.- Se efectúe transporte distinto a aquél para el cual se haya expedido la concesión o permiso;
+
+V.- Se violen en más de tres ocasiones las condiciones establecidas en la concesión o permiso otorgado;
+
+VI.- Se niegue sin causa justificada, previo apercibimiento de la Dirección General, la prestación del servicio público a cualquier persona que lo solicite.
+
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1996)</small>
+
+ART. 229. La suspensión o revocación de una concesión, procederá sin perjuicio de la aplicación de otras sanciones.
 
 ART. 230. Los vehículos que, No acatar disposición al transitar con
 
@@ -4246,7 +4236,9 @@ ART. 234. El recurso se interpondrá:
 
 I.- En caso de multa, de acuerdo a lo dispuesto por la fracción I del artículo 147 de este Reglamento; y
 
-II.- Cuando se trate de suspensión o cancelación de concesiones, ante el Director General de Tránsito y Transporte.
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1996)</small>
+
+II.- Cuando se trate de suspensión o revocación de concesiones, ante el Director General de Tránsito y Transporte.
 
 ART. 235. Son aplicables a este Capítulo, las disposiciones contenidas en los Artículos 148 y 149 de este Reglamento.
 
@@ -4339,3 +4331,7 @@ El presente Decreto entrará en vigor, al día siguiente a su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+G.O. 4 DE ABRIL DE 1996.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
