@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1941-11-20"
+last_updated: "1941-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 1941.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 1941.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -321,11 +321,11 @@ XXIII. Revisar y aprobar las cuentas de los ingresos y egresos de cada Municipio
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1931)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1941)</small>
 
 ###### Art. 44.
 
-Durante el receso del Congreso habrá una Diputación Permanente compuesta de cinco Diputados nombrados por el Congreso la víspera de la clausura de sus sesiones a mayoría de votos de los ciudadanos presentes, se instalará el siguiente día y durará todo el tiempo del receso, aun cuando haya sesiones extraordinarias. Todos los demás Diputados serán suplentes de la Diputación Permanente y podrán ser llamados, al ser necesario de acuerdo con lo que sobre el particular disponga el Reglamento Interior del Congreso.
+Durante el receso del Congreso habrá una Diputación Permanente compuesta de tres Diputados nombrados por el Congreso la víspera de la clausura de sus sesiones ordinarias, por mayoría de votos por los presentes; se instalará el siguiente día y durará todo el tiempo del receso, aun cuando haya sesiones extraordinarias. Todos los demás Diputados serán suplentes de la Diputación Permanente y podrán ser llamados al ser necesario, de acuerdo con lo que sobre el particular disponga el Reglamento Interior del mismo H. Congreso.
 
 ###### Art. 45.
 
@@ -1032,3 +1032,7 @@ Artículo segundo. Publíquese por bando solemne en las cabeceras Municipales el
 P.O. 20 DE NOVIEMBRE DE 1941.
 
 UNICO. La presente reforma entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 1941.
+
+UNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
