@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2004-09-13"
+last_updated: "2005-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE ABRIL DE 2005.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -34,7 +34,7 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de las facultades extraordinarias que me fueron concedidas por Decreto del H. Congreso de la Unión de 31 de diciembre de 1931, he tenido a bien expedir el siguiente
 
-(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)(REPUBLICADA, D.O.F. 31 DE DICIEMBRE DE 1974)
+(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974) (REPUBLICADA, D.O.F. 31 DE DICIEMBRE DE 1974)
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
@@ -4722,7 +4722,7 @@ ARTICULO 603
 
 El juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor y en consecuencia no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(ADICIONADO Y SU DENOMINACION, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ### CAPITULO I. Procedimiento estando ausente el rebelde
 
@@ -5546,6 +5546,10 @@ En ningún caso la sentencia pronunciada en el juicio de responsabilidad civil a
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 27 DE ENERO DE 2004)</small>
 
+TITULO DECIMOSEGUNDO BIS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 27 DE ENERO DE 2004)</small>
+
 ### CAPITULO I. De la acción de nulidad de juicio concluido
 
 > <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
@@ -6154,7 +6158,7 @@ ARTICULO 831
 
 Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-#### SECCION I. De los Intestados
+#### SECCIÓN I. De los Intestados
 
 (REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
 
@@ -8244,4 +8248,10 @@ G.O. 13 DE SEPTIEMBRE DE 2004.
 
 PRIMERO.- Remítase al Jefe de Gobierno para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
-SEGUNDO.- Las presentes adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Federación.
+> <small>(REFORMADO, G.O. 6 DE ABRIL DE 2005)</small>
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 6 DE ABRIL DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
