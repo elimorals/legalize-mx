@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-deuda-publica-del-estado-de-michoacan-6021"
 country: "mx"
 rank: "ley"
 publication_date: "1981-06-11"
-last_updated: "1981-06-11"
+last_updated: "2003-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO DE MICHOACAN, PUBLICADO EN EL PERIODICO OFICIAL EL 17 DE ENERO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el jueves 11 de junio de 1981.
 
@@ -254,3 +256,19 @@ Por tanto, mando se publique y observe.
 PALACIO DEL PODER EJECUTIVO. Morelia, Michoacán 29 de mayo de 1981.
 
 Sufragio Efectivo. No Reelección.- El Gobernador Constitucional del Estado.- ING. CUAUHTEMOC CARDENAS SOLORZANO.- El Secretario de Gobierno, DR. ROBERTO ROBLES GARNICA.- Firmados.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 17 DE ENERO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Deuda Pública del Estado de Michoacán, expedida por el Congreso del Estado mediante el Decreto Número 37 de fecha 29 de mayo de 1981, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, Tomo CIV, número 23. Segunda Sección, del día 11 de junio de 1981.
+
+###### ARTICULO TERCERO.
+
+El pago de las obligaciones asumidas por las entidades a que se refiere el artículo 3º. de esta Ley, que hayan sido contratadas con anterioridad al 31 de diciembre del año 2002, se realizará de conformidad con las disposiciones aplicables en la fecha de su contratación, sin embargo, el saldo de éstas se deberá incluir en la publicación a que se refiere el artículo 21 de esta Ley.
