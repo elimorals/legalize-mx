@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-profesiones-del-estado-de-sinaloa-7359"
 country: "mx"
 rank: "ley"
 publication_date: "1955-05-03"
-last_updated: "1959-05-23"
+last_updated: "1967-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1959.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1967.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 3 de mayo de 1955.
 
@@ -119,11 +119,13 @@ Por ningún concepto se registrarán títulos ni se revalidarán estudios de aqu
 
 ### CAPITULO III.. DEL REGISTRO DE TITULOS PROFESIONALES
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1967)</small>
 
 ###### ARTICULO 11.
 
 Para el registro de Títulos Profesionales se crea una Oficina que se denominará Sección de Títulos Profesionales en el Estado, dependiente del Poder Ejecutivo a través de la Dirección General de Educación Pública, que se integrará por tres miembros designados respectivamente, uno por el Poder Ejecutivo del Estado, que será el Director de Educación Pública y que tendrá el carácter de Presidente, otro por el Supremo Tribunal de Justicia y otro por la Universidad de Sinaloa, los que tendrán el carácter de Vocales, debiendo ser todos profesionistas legalmente titulados.
+
+Las faltas temporales del C. Director de Educación Pública serán cubiertas por el Sub-Director.
 
 ###### ARTICULO 12.
 
@@ -642,3 +644,7 @@ UNICO.- El presente Decreto surte sus efectos legales correspondientes a partir 
 P.O. 23 DE MAYO DE 1959.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE AGOSTO DE 1967.
+
+UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha ds (sic) su publicación en el Periódico Oficial "El Estado de Sinaloa".
