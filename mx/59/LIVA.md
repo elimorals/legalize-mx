@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1982-09-30"
+last_updated: "1982-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,29 +20,27 @@ abbreviation: "LIVA"
 ---
 # LEY DEL IMPUESTO AL VALOR AGREGADO
 
-LEY DEL IMPUESTO AL VALOR AGREGADO
+LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 1982.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+EL C. RUBÉN IGNACIO MOREIRA VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
-JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
-Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+DECRETA:
 
-DECRETO
+NÚMERO.- 93
 
-"El Congreso de los Estados Unidos Mexicanos, decreta:
-
-LEY DEL IMPUESTO AL VALOR AGREGADO
+LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ## TÍTULO PRIMERO. DE LA LEY Y AUTORIDADES COMPETENTES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Objeto de la ley
 
 ###### ARTÍCULO 1.
 
@@ -56,11 +54,11 @@ III. Promover campañas de difusión encaminadas a prevenir y combatir el abuso 
 
 Ámbito de aplicación
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 2.
 
-Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las secretarias de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvarán en ello, la Procuraduría General de Justicia del Estado, las secretarías de Gobierno, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del estado.
+Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las secretarias de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvarán en ello, la Fiscalía General del Estado, las secretarías de Gobierno, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del estado.
 
 Supletoriedad
 
@@ -120,7 +118,9 @@ XXI. Miscelánea y tienda de abarrotes: Establecimiento donde se venden producto
 
 XXII. Permiso especial: Documento expedido por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza, con carácter provisional, hasta por treinta días naturales improrrogables, a personas físicas o morales, para llevar a cabo la venta al menudeo de bebidas alcohólicas en envase abierto y al copeo, en lugar determinado, el cual puede ser revocado por violaciones a esta ley o a otros ordenamientos aplicables o porque así lo requiera el interés público;
 
-XXIII. Procuraduría: La Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+XXIII. Fiscalía General: La Fiscalía General del Estado de Coahuila de Zaragoza;
 
 XXIV. Refrendo: Acto administrativo emitido por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza, mediante el cual se prorroga la vigencia de las licencias expedidas, por el término de un año;
 
@@ -155,6 +155,14 @@ Comercialización
 En el estado únicamente pueden vender, comprar, ofrecer, preparar, servir o consumir bebidas alcohólicas, las personas mayores de 18 años de edad.
 
 Para efectos de acreditar la mayoría de edad en relación con la venta, compra, expendio o consumo de bebidas alcohólicas, únicamente se considerarán válidos la credencial para votar con fotografía expedida por el Instituto Federal Electoral, pasaporte o cualquier otro documento oficial con fotografía que contenga la fecha de nacimiento del portador.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Quienes vendan y entreguen a domicilio bebidas alcohólicas, deberán cerciorarse que se realice a personas mayores de 18 años de edad, mediante los documentos señalados en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Quienes infrinjan lo dispuesto en el párrafo anterior entregando bebidas alcohólicas a menores de edad, se harán acreedores a las penas y sanciones establecidas en el Código Penal del Estado de Coahuila de Zaragoza.
 
 Autorización
 
@@ -316,11 +324,9 @@ El contribuyente que reciba la devolución de bienes enajenados u otorgue descue
 
 El contribuyente que reciba el descuento, la bonificación o devuelva los bienes enajenados, disminuirá el impuesto cancelado o restituido de las cantidades acreditables o que tuviere pendientes de acreditamiento. Si no tuviere impuesto pendiente de acreditar del cual disminuir el impuesto cancelado o restituido, lo pagará al presentar la declaración mensual que corresponda al mes en que reciba el descuento, la bonificación o efectúe la devolución.
 
-### CAPITULO II. DE LA ENAJENACION
+### CAPÍTULO SEGUNDO. AUTORIDADES COMPETENTES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+Competencia
 
 ###### ARTÍCULO 7.
 
@@ -334,7 +340,9 @@ III. La Secretaría de Gobierno;
 
 IV. (DEROGADA, P.O. 9 DE AGOSTO DE 2016)
 
-V. La Procuraduría General de Justicia, y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+V. La Fiscalía General del Estado; y
 
 VI. Los municipios del estado.
 
@@ -418,357 +426,343 @@ VII.- Partes sociales, documentos pendientes de cobro y títulos de crédito, co
 
 VIII.- Los que sin propósito de lucro enajenen en beneficio exclusivo de sus agremiados, miembros o trabajadores, según sea el caso, las tiendas que establezcan los sindicatos obreros, las organizaciones ejidales y comunales que operen en los términos de la Ley de Reforma Agraria, así como las dependencias y organismos públicos que señale la Secretaría de Hacienda y Crédito Público en disposiciones de carácter general.
 
-###### ARTICULO 10.
+###### ARTÍCULO 10.
 
-Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente y cuando, no habiendo envío, en el país se realiza la entrega material del bien por el enajenante. La enajenación de bienes sujetos a matrícula o registro mexicanos, se considerará realizada en territorio nacional aún cuando al llevarse a cabo se encuentren materialmente fuera de dicho territorio.
+Corresponde a la Secretaría de Salud el ejercicio de las siguientes atribuciones:
 
-Tratándose de bienes intangibles, se considera que la enajenación se realiza en territorio nacional cuando el adquirente y el enajenante residan en el mismo.
+I. Ejercer la verificación y control sanitario de los establecimientos en que se realice la venta o consumo de bebidas alcohólicas y en su caso, aplicar las medidas de seguridad y sanciones correspondientes, de conformidad con la Ley Estatal de Salud;
 
-###### ARTICULO 11.
+II. Implementar el Programa contra el Alcoholismo y Abuso de Bebidas Alcohólicas previsto en la Ley Estatal de Salud, en coordinación con las autoridades sanitarias federales;
 
-Se considera que se efectúa la enajenación de los bienes en el momento en que se realice cualquiera de los supuestos siguientes:
+III. Promover y realizar investigaciones científicas de los efectos del abuso en el consumo de bebidas alcohólicas;
 
-I.- Se envíe el bien al adquirente. A falta de envío, al entregarse materialmente el bien. No se aplicará esta fracción cuando la persona a la que se envíe o entregue el bien, no tenga obligación de recibirlo o de adquirirlo.
+IV. Coordinarse con las instituciones u organismos que brinden tratamiento contra el abuso en el consumo de bebidas alcohólicas, así como elaborar y mantener un registro de las mismas, y
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+V. Promover programas de capacitación dirigidos a personas cuya actividad se encuentre relacionada con la venta, expendio y consumo de bebidas alcohólicas.
 
-II.- Se pague parcial o totalmente el precio, salvo en los casos que esta Ley señale.
+La Secretaría de Salud deberá remitir un informe a las secretarías de Gobierno y de Finanzas, dentro de los diez días siguientes a la fecha en que tenga conocimiento de las irregularidades que se hayan observado con motivo de las inspecciones o verificaciones que realice en los establecimientos y lugares previstos en la presente ley, acompañando copia del dictamen que emita.
 
-III.- Se expida el documento que ampare la enajenación.
+Atribuciones de la Secretaría de Gobierno
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+###### ARTÍCULO 11.
 
-###### ARTICULO 12.
+Corresponde a la Secretaría de Gobierno el ejercicio de las siguientes atribuciones:
 
-Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio pactado, así como las cantidades que además se carguen o cobren al adquirente por otros impuestos, derechos, intereses normales o moratorios, penas convencionales o cualquier otro concepto. A falta de precio pactado se estará al valor que los bienes tengan en el mercado, o en su defecto al de avalúo.
+I. Establecer el número de licencias o permisos que se podrán autorizar como máximo en una localidad o zona geográfica, conforme a las disposiciones reglamentarias;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+II. Dar a conocer a los municipios y de las dependencias competentes, todas las irregularidades o violaciones a la presente ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen, y
 
-Los intereses moratorios y penas convencionales, darán lugar al pago del impuesto al valor agregado en el mes en que se paguen.
+III. Restringir en fechas o períodos específicos el horario de funcionamiento de los establecimientos a que se refiere la presente ley, por causas de interés público, así como cuando lo determine la Ley Federal del Trabajo, el Código Federal de Instituciones y Procedimientos Electorales o el Código Electoral para el Estado de Coahuila Zaragoza.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 5 DE OCTUBRE DE 2018)</small>
 
-En las enajenaciones a plazo con pago diferido o en parcialidades, cuando el plazo exceda de doce meses y se cubra más de la mitad del precio hasta después del sexto mes, se podrá diferir el impuesto, en los términos y en la forma que señale el Reglamento de esta Ley; en todo caso la traslación se hará en la medida en que se difiere el impuesto. Tratándose de arrendamiento financiero, al impuesto que corresponda a la operación, se le aplicará el por ciento que señala la Ley del Impuesto sobre la Renta para determinar el monto original de la inversión y la diferencia será el impuesto que podrá diferirse, en los términos que señale el Reglamento de esta Ley.
+Atribuciones de la Secretaría de Gobierno y de la Fiscalía General del Estado
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
 
-Tratándose de pagos anticipados que reciba el enajenante de bienes de capital, antes de enviar o entregar materialmente el bien, el impuesto se cubrirá en el momento en que se efectúe cada pago anticipado y sobre el monto del mismo; al enviarse o entregarse el bien, se pagará la diferencia de impuesto que resulte por el total de la operación.
+###### ARTÍCULO 12.
 
-###### ARTICULO 13.
+Corresponde a la Secretaría de Gobierno y a la Fiscalía General coadyuvar con las autoridades estatales y municipales en la vigilancia del cumplimiento de esta ley.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1980)
+Atribuciones de los municipios
+
+###### ARTÍCULO 13.
+
+Corresponde a los municipios del estado:
+
+I. Emitir las certificaciones para el otorgamiento de licencias y permisos especiales en el ámbito de su circunscripción territorial;
+
+II. Vigilar el cumplimiento de los días y horarios de funcionamiento de los establecimientos que regula esta ley;
+
+III. Clausurar de inmediato cualquier establecimiento en que se vendan o consuman bebidas alcohólicas sin contar con licencia o permiso especial expedido por la Secretaría de Finanzas o cuando el que tengan, no esté vigente;
+
+IV. Expedir y ejecutar órdenes de inspección y verificación de los establecimientos y lugares a que se refiere esta ley, con excepción de las relativas a materia de salud, cuyo ejercicio compete a las autoridades sanitarias estatales;
+
+V. Determinar e imponer las sanciones a que se refiere esta ley, por infracciones que se conozcan con motivo de los actos de inspección o verificación realizados por personal municipal;
+
+VI. Proceder a la clausura inmediata cuando de la inspección o verificación se observe que el establecimiento o lugar inspeccionado o verificado no cuente con las condiciones y medidas que prevé el presente ordenamiento y las disposiciones legales aplicables;
+
+VII. Hacer del conocimiento de las secretarías de Gobierno y de Finanzas, todas las irregularidades o violaciones a la presente ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen;
+
+VIII. Sancionar a los conductores, ocupantes y propietarios de vehículos automotores cuando en su interior se consuman bebidas alcohólicas;
+
+IX. Sancionar a los conductores de vehículos automotores que transporten bebidas alcohólicas en envase abierto el mismo habitáculo en que debe viajar el conductor; y
+
+X. Efectuar el cobro coactivo de las multas que impongan las autoridades municipales y que deriven de infracciones a la presente ley.
 
 ## TÍTULO SEGUNDO. DE LOS ESTABLECIMIENTOS EN DONDE SE EXPENDAN O CONSUMAN BEBIDAS ALCOHÓLICAS
 
-### CAPITULO III. DE LA PRESTACION DE SERVICIOS
+### CAPÍTULO PRIMERO. DE LOS HORARIOS
 
-###### ARTICULO 14.
+Horario autorizado
 
-Para los efectos de esta Ley se considera prestación de servicios independientes:
+###### ARTÍCULO 14.
 
-I.- La prestación de obligaciones de hacer que realice una persona a favor de otra, cualquiera que sea el acto que le dé origen y el nombre o clasificación que a dicho acto le den otras leyes.
+En los establecimientos a que se refiere esta ley, únicamente podrán expenderse o consumirse bebidas alcohólicas dentro de los siguientes horarios:
 
-II.- El transporte de personas o bienes.
+I. Los distribuidores y depósitos de cerveza, expendios de vinos y licores, misceláneas y tiendas de abarrotes, así como los supermercados para los efectos de la presente ley, de las 10:00 a las 23:00 horas de lunes a sábado.
 
-III.- El seguro, el reaseguro, el afianzamiento y el reafianzamiento.
+II. Los bares, cantinas y cervecerías, de las 11:30 de un día a las 2:00 horas del día siguiente de lunes a sábado.
 
-IV.- El mandato, la comisión, la mediación, la agencia, la representación, la correduría, la consignación y la distribución.
+III. Los ladies bar, cabarets, discotecas bar, clubes sociales y deportivos, hoteles y moteles, de las 11:30 horas de un día a las 2:00 horas del día siguiente de lunes a sábado.
 
-V.- La asistencia técnica y la transferencia de tecnología.
+IV. Los restaurantes y restaurants bar, de las 11:30 horas de un día a las 2:00 horas del día siguiente, todos los días de la semana.
 
-VI.- Toda otra obligación de dar, de no hacer o de permitir, asumida por una persona en beneficio de otra, siempre que no esté considerada por esta Ley como enajenación o uso o goce temporal de bienes.
+V. En los centros de espectáculos, deportivos o recreativos se podrá expender bebidas alcohólicas únicamente en vaso de desechable, durante el desarrollo del evento y en los horarios establecidos en la fracción anterior, pero la venta deberá suspenderse al término del evento,. (sic)
 
-No se considera prestación de servicios independientes la que se realiza de manera subordinada mediante el pago de una remuneración, ni los servicios por los que se perciban ingresos que la Ley del Impuesto sobre la Renta asimile a dicha remuneración.
+Días Domingo
 
-###### ARTICULO 15.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
 
-No se pagará el impuesto por la prestación de los siguientes servicios:
+###### ARTÍCULO 15.
 
-I.- Los prestados directamente por la Federación, Distrito Federal, Estados y Municipios que no correspondan a sus funciones de derecho público.
+La venta de bebidas alcohólicas en envase cerrado en los establecimientos a que se refiere la fracción I del artículo anterior, estará permitido los días domingo, de las 10:00 a las 14:00 horas.
 
-II.- Los prestados por instituciones públicas de seguridad social.
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Las casas productoras de vinos y licores y sus distribuidores de los municipios de Parras y Cuatro Ciénegas, quedan exceptuados del horario de venta de bebidas alcohólicas establecido en esta ley para el día domingo, permitiéndose su venta en el horario comprendido de las doce a las veinte horas, tratándose de restaurant bar y restaurantes se permitirá también el expendio en botella cerrada para llevar, única y exclusivamente en lo referente a vinos producidos en dichos municipios.
 
-III.- Los prestados en forma gratuita, excepto cuando los beneficiarios sean los miembros, socios o asociados de la persona moral que preste el servicio.
+Excepción
 
-IV.- Los de enseñanza, que presten los organismos descentralizados y los establecimientos de particulares que tengan autorización o reconocimiento de validez oficial de estudios, en los términos de la Ley Federal de Educación.
+###### ARTÍCULO 16.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Fuera del horario establecido en la presente ley, dichos establecimientos deberán permanecer cerrados, a excepción de aquellos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos, hoteles y moteles, misceláneas y abarrotes, supermercados y lugares públicos de reunión con variedad artística y similares; así como los establecimientos contratados para festejos privados, en los cuales los invitados no pagan la entrada ni consumo. En estos casos de excepción los establecimientos podrán permanecer abiertos, pero no se podrán expender o consumir bebidas alcohólicas en los mismos fuera del horario que dispone esta ley.
 
-V.- El transporte público terrestre de personas, excepto por ferrocarril, y el que requiera de concesión o permiso federal para operar.
+La Secretaría de Finanzas llevará un registro de los establecimientos que deberán permanecer cerrados fuera de los horarios establecidos y de los que se encuentren exceptuados de tal supuesto en los términos de esta disposición, y lo pondrá a disposición de las autoridades encargadas de la inspección y vigilancia de dichos establecimientos.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Reducción de Horarios
 
-VI.- El transporte marítimo de bienes efectuado por personas no residentes en el país.
+###### ARTÍCULO 17.
 
-VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
+El horario establecido en esta ley señala los límites máximos, por lo que la Secretaría de Finanzas o los Ayuntamientos, dentro de los parámetros establecidos en la presente ley, podrá reducir los horarios referidos de acuerdo a las circunstancias particulares, a través de disposiciones generales de tipo administrativo, cuando por razones de desarrollo económico, orden público o interés general estime necesarios.
 
-VIII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
+Clasificación
 
-IX.- El aseguramiento contra riesgos agropecuarios y los seguros de vida, ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes y los reaseguros, que correspondan a los seguros citados.
+###### ARTÍCULO 18.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+La clasificación de los establecimientos mencionados en el presente capítulo es enunciativa, no limitativa. Cualquier establecimiento, sea cual fuere su clasificación, por el solo hecho de vender o permitir el consumo de bebidas alcohólicas, se sujetará a lo dispuesto en esta ley.
 
-X.- Por los que deriven intereses y toda otra contraprestación distinta del principal que:
+Para tal efecto, dichos establecimientos, de acuerdo con el giro o actividad que exploten, serán equiparables a los mencionados en esta ley, según sea el caso.
 
-a).- Deriven de operaciones en las que el enajenante, el prestador del servicio o quien conceda el uso o goce temporal de bienes, proporcione financiamiento relacionado con actos o actividades por los que no se esté obligado al pago de este impuesto o a los que se les aplique la tasa del 0%.
+### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS EN QUE SE VENDAN O CONSUMAN BEBIDAS ALCOHÓLICAS
 
-b).- Reciban o paguen las instituciones de crédito y las uniones de crédito, en operaciones de financiamiento, para las que requieran de concesión o autorización y por concepto de descuento en documentos pendientes de cobro, así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
+Sujeción a la ley
 
-c).- Reciban las instituciones de fianzas, las de Seguros y las Sociedades mutualistas de seguros, en operaciones de financiamiento.
+### CAPÍTULO PRIMERO. DE LAS LICENCIAS Y PERMISOS ESPECIALES
 
-d) Paguen los trabajadores a sus patrones en operaciones de mutuo, así como los pagados por los derechohabientes a instituciones de seguridad social.
+Requisitos
 
-e).- Provengan de cajas de ahorro de los trabajadores, y de fondos de ahorro establecido por las empresas siempre que reúna los requisitos de deducibilidad en los términos de la Ley del Impuesto sobre la Renta.
+###### ARTÍCULO 19.
 
-f).- Deriven de obligaciones emitidas conforme a lo dispuesto en la Ley General de Títulos y Operaciones de Crédito.
+Las personas físicas y morales que se dediquen a las actividades mencionadas en este ordenamiento, se sujetarán, respecto de los establecimientos y lugares regulados por el mismo, a los horarios y ubicaciones que establezcan la presente ley, su reglamento, los reglamentos municipales y demás ordenamientos aplicables, así como, a las limitaciones que determinen las autoridades competentes.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XI.- Los prestados por bolsas de valores con concesión para operar y por casas de bolsa, así como las comisiones de agentes, corredores y promotores de bolsa.
+Los propietarios de los establecimientos regulados en esta ley, deberán además cuando así se les requiera, remitir a la Secretaría de Gobierno, una lista que contenga los datos de todo el personal que labora con ellos, incluyendo copia de identificación oficial.
 
-XII.- Los proporcionados a sus miembros como contraprestación normal por sus cuotas y siempre que los servicios que presten sean únicamente los relativos a los fines que les sean propios, tratándose de:
+El incumplimiento de las obligaciones señaladas en el párrafo que antecede será causa de clausura inmediata del establecimiento.
 
-a).- Partidos, asociaciones, coaliciones y frentes políticos legalmente reconocidos.
+Programas de prevención
 
-b).- Sindicatos obreros y organismos que los agrupen.
+###### ARTÍCULO 20.
 
-c).- Cámaras de comercio, industria, agricultura, ganadería o pesca, así como los organismos que las agrupen.
-
-d).- Asociaciones patronales y colegios de profesionales.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
-
-e).- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos y culturales, a excepción de aquellas que proporcionen servicios con instalaciones deportivas cuando el valor de éstas representen más del 50% del total de las instalaciones.
-
-XIII.- Los de espectáculos públicos por el boleto de entrada. No se consideran espectáculos públicos los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
-
-XIV.- Los de carácter profesional, cuando su prestación requiera título conforme a las leyes, siempre que sean prestados por personas físicas, organizaciones profesionales, asociaciones o sociedades civiles.
-
-XV.- Los prestados por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas.
-
-XVI.- Los prestados por autores, a que se refiere la Ley Federal de Derechos de Autor.
-
-###### ARTICULO 16.
-
-Para los efectos de esta Ley, se entiende que se presta el servicio en territorio nacional cuando en el mismo se lleva a cabo, total o parcialmente, por un residente en el país.
-
-En el caso de transporte internacional, se considera que el servicio se presta en territorio nacional independientemente de la residencia del porteador, cuando en el mismo se inicie el viaje, incluso si éste es de ida y vuelta.
-
-Tratándose de transportación aérea internacional, se considera que únicamente se presta el 25% del servicio en territorio nacional. La transportación aérea a las poblaciones mexicanas en las fronteras del país gozará del mismo tratamiento.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-###### ARTICULO 17.
-
-En la prestación de servicios se tendrá obligación de pagar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas. Entre dichas contraprestaciones quedan incluidos los anticipos que reciba el prestador de servicios. Tratándose de seguros y fianzas, las primas correspondientes darán lugar al pago del impuesto al valor agregado en el mes en que se paguen.
-
-Tratándose de obras de construcción de inmuebles provenientes de contratos celebrados con la Federación, el Distrito Federal, los Estados y los Municipios, se tendrá obligación de pagar el impuesto en el momento en que se paguen las contraprestaciones correspondientes al avance de la obra y cuando se hagan los anticipos.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
-
-###### ARTICULO 18.
-
-Para calcular el impuesto tratándose de prestación de servicios se considerará como valor el total de la contraprestación pactada, así como las cantidades que además se carguen o cobren a quien reciba el servicio por otros impuestos, derechos, viáticos, gastos de toda clase, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
-
-Tratándose de personas morales que presten servicios preponderantemente a sus miembros, socios o asociados, los pagos que éstos efectúen, incluyendo aportaciones al capital para absorber pérdidas, se considerarán como valor para efecto del cálculo del impuesto.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
-
-En el caso de mutuo y otras operaciones de financiamiento, se considerará como valor los intereses y toda otra contraprestación distinta del principal que reciba al acreedor.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
-
-### CAPITULO IV. DEL USO O GOCE TEMPORAL DE BIENES
-
-### CAPITULO V. DE LA IMPORTACION DE BIENES Y SERVICIOS
-
-###### ARTICULO 19.
-
-Para los efectos de esta Ley se entiende por uso o goce temporal de bienes, el arrendamiento, el usufructo y cualquier otro acto, independientemente de la forma jurídica que al efecto se utilice, por el que una persona permita a otra usar o gozar temporalmente bienes tangibles, a cambio de una contraprestación.
-
-###### ARTICULO 20.
-
-No se pagará el impuesto por el uso o goce temporal de los siguientes bienes:
-
-I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1981)
-
-II.- Inmuebles destinados o utilizados exclusivamente para casa-habitación. Si un inmueble tuviere varios destinos o usos, no se pagará el impuesto por la parte destinada o utilizada para casa-habitación. Lo dispuesto en esta fracción no es aplicable a los inmuebles o parte de ellos que se proporcionen amueblados o se destinen o utilicen como hoteles o casas de hospedaje.
-
-III.- Fincas dedicadas o utilizadas sólo a fines agrícolas o ganaderos.
-
-IV.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
-
-V.- Libros, periódicos y revistas.
+Las secretarías de Educación, de Salud y de Finanzas conjuntamente con los municipios del estado, las cámaras y organizaciones empresariales y de comerciantes, los propietarios u operadores de los establecimientos que regula esta ley, ciudadanos interesados y demás autoridades competentes, promoverán la implementación de programas de prevención de consumo de bebidas alcohólicas, de comisión de delitos y de accidentes automovilísticos que puedan ocasionarse por este motivo.
 
 ## TÍTULO TERCERO. DEL OTORGAMIENTO, CANCELACIÓN O REVOCACIÓN DE LAS LICENCIAS O PERMISOS ESPECIALES
 
-###### ARTICULO 21.
+###### ARTÍCULO 21.
 
-Para los efectos de esta Ley, se entiende que se concede el uso o goce temporal de un bien tangible en territorio nacional, cuando en éste se encuentre el bien en el momento de su entrega material a quien va a realizar su uso o goce.
+Para la venta de bebidas alcohólicas en cualquiera de las modalidades que señala esta ley es requisito indispensable contar, de manera previa y por escrito, con la licencia correspondiente expedida por la Secretaría de Finanzas, misma que tendrá que ser publicada en el padrón único y refrendada en el mes de enero de cada año para tener validez.
 
-###### ARTICULO 22.
+Tratándose de la licencia para el giro de miscelánea, ésta se expedirá exclusivamente a las personas físicas que tributen bajo el régimen de pequeños contribuyentes y cumplan con lo dispuesto en la presente ley.
 
-Cuando se otorgue el uso o goce temporal de un bien tangible, se tendrá obligación de pagar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien efectúa dicho otorgamiento y sobre el monto de cada una de ellas. Entre dichas contraprestaciones quedan incluidos los anticipos que reciba el contribuyente.
+Exhibición
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+###### ARTÍCULO 22.
 
-###### ARTICULO 23.
+Los propietarios u operadores de los establecimientos deberán exhibir en lugares visibles de su interior la licencia y el refrendo anual y fijar en lugar visible del exterior del local el número de la licencia o permiso especial.
 
-Para calcular el impuesto en el caso de uso o goce temporal de bienes, se considerará el valor de la contraprestación pactada a favor de quien los otorga, así como las cantidades que además se carguen o cobren a quien se otorgue el uso o goce por otros impuestos, derechos, gastos de mantenimiento, contrucciones (sic), reembolsos, intereses normales o moratorios, penas convencionales o cualquier otro concepto.
+Trámite
 
-### CAPITULO VI. DE LA EXPORTACION DE BIENES O SERVICIOS
+###### ARTÍCULO 23.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+Para la tramitación de la licencia referida en este capítulo, el interesado deberá:
 
-###### ARTICULO 24.
+I. Comparecer ante la Secretaría de Finanzas personalmente, o a través de su representante o apoderado legal, con identificación oficial, a realizar los trámites correspondientes;
 
-Para los efectos de esta Ley, se considera importación de bienes o de servicios:
+II. Presentar solicitud que contenga el giro específico que pretenda operar y que deberá ser congruente con la licencia de uso del suelo del inmueble;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+III. Croquis en el que se indique en forma clara y precisa la ubicación del local en que se pretenda establecer;
 
-I.- La introducción al país de bienes.
+IV. Copia de la cédula del registro federal de contribuyentes;
 
-II.- La adquisición por personas residentes en el país de bienes intangibles enajenados por personas no residentes en él.
+V. Copia certificada del testimonio de la escritura pública constitutiva y sus modificaciones si se trata de una sociedad mercantil, o del acta de nacimiento tratándose de personas físicas, así como el poder notariado de quien actúa en su nombre en caso de hacerse a través de representante legal;
 
-III.- El uso o goce temporal, en territorio nacional, de bienes intangibles proporcionados por personas no residentes en el país.
+VI. Certificación expedida por el municipio en cuyo territorio se pretende establecer;
 
-IV.- El uso o goce temporal, en territorio nacional, de bienes tangibles cuya entrega material se hubiera efectuado en el extranjero.
+VII. Original de la licencia de uso del suelo y de edificación, y demás licencias o permisos de orden municipal que corresponda según el giro del establecimiento;
 
-V.- El aprovechamiento en territorio nacional de los servicios a que se refiere el artículo 14, cuando se presten por no residentes en el país. Esta fracción no es aplicable al transporte internacional.
+VIII. Dictamen favorable emitido por la autoridad de protección civil competente, según corresponda;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+IX. Autorizaciones sanitarias que expidan las autoridades de la materia;
 
-Cuando un bien exportado temporalmente retorne al país habiéndosele agregado valor en el extranjero por reparación, aditamentos o por cualquier otro concepto que implique un valor adicional se considerará importación de bienes o servicios y deberá pagarse el impuesto por dicho valor en los términos del artículo 27 de esta Ley.
+X. Demás permisos especiales que requiera, debido a su ubicación o características, emitidos por autoridades que regulan el desarrollo urbano o el patrimonio histórico;
 
-###### ARTICULO 25.
+XI. Constancia de pagos actualizados de los derechos que señale la Ley de Hacienda para el Estado de Coahuila de Zaragoza y demás obligaciones fiscales estatales y municipales que correspondan;
 
-No se pagará el impuesto al valor agregado en las importaciones siguientes:
+XII. Comprobar no estar impedido para ejercer el comercio, de acuerdo a las disposiciones legales aplicables.
 
-I.- Las que, en los términos de la legislación aduanera, no lleguen a consumarse, sean temporales, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo. Si los bienes importados temporalmente son objeto de uso o goce en el país, se estará a lo dispuesto en el Capítulo IV de esta Ley.
+Tratándose de personas físicas o morales extranjeras, anexar la documentación con la cual acrediten estar autorizadas por las autoridades competentes en los términos de las disposiciones legales aplicables, para dedicarse a actividades comerciales en el país.
 
-II.- Las de equipajes y menajes de casa a que se refiere el Código Aduanero.
+XIII. Acreditar que se encuentra al corriente en el pago de sus obligaciones fiscales estatales y municipales, y
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+XIV. Los demás requisitos establecidos en esta ley y en cualquier otro ordenamiento.
 
-III.- Las de bienes cuya enajenación en el país y la de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado o se les aplique la tasa del 0%. No quedan comprendidos en esta fracción los bienes muebles usados.
+En caso de que se incumpla con alguno de los requisitos antes señalados, se requerirá al solicitante para que lo subsane en un plazo no mayor a diez días hábiles. En caso de no hacerlo, no se dará trámite a la solicitud. En estos casos la Secretaría de Finanzas devolverá al solicitante los documentos que integran el expediente.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Integración de expediente
 
-IV.- Las de bienes donados por residentes en el extranjero a la Federación, entidades federativas, municipios o a cualquier otra persona que mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público.
+### CAPÍTULO SEGUNDO. DE LAS CERTIFICACIONES MUNICIPALES
 
-###### ARTICULO 26.
+Requisito previo
 
-Se considera que se efectúa la importación de bienes o servicios:
+###### ARTÍCULO 24.
 
-I.- En el momento en que los bienes queden a disposición del importador en la aduana, recinto fiscal o fiscalizado.
+Recibida la solicitud de licencia con toda la documentación a que se refiere el artículo anterior, la Secretaría de Finanzas integrará el expediente administrativo correspondiente y corroborará los datos proporcionados por el solicitante, a fin de verificar que se cumpla con los requisitos legales.
 
-II.- En caso de importación temporal al convertirse en definitiva.
+Plazo para resolver
 
-III.- Tratándose de bienes intangibles adquiridos de personas residentes en el extranjero o de toda clase de bienes sobre los cuales dichas personas concedan el uso o goce, en el momento en que se realice alguno de los supuestos siguientes:
+###### ARTÍCULO 25.
 
-a).- Se aprovechen en territorio nacional.
+La Secretaría de Finanzas contará con un plazo de treinta días hábiles, contados a partir de la presentación de la solicitud, para pronunciarse sobre la expedición de la licencia, fundando y motivando el acuerdo que emita al efecto.
 
-b).- Se pague parcial o totalmente la contraprestación.
+Requisitos de las licencias
 
-c).- Se expida el documento que ampare la operación.
+###### ARTÍCULO 26.
 
-Cuando se pacten contraprestaciones periódicas, se atenderá al momento en que sea exigible la contraprestación de que se trate.
+Las licencias otorgadas por la Secretaría de Finanzas, deberán contener los siguientes datos:
 
-IV.- En el caso de aprovechamiento en territorio nacional de servicios prestados en el extranjero se estará a los términos del artículo 17 de esta Ley.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-###### ARTICULO 27.
+I. Nombre del titular. Cuando el titular de la licencia no sea quien enajene o preste los servicios objeto de esta ley, deberá registrar ante las secretarías de Finanzas y de Gobierno el nombre de la persona que en su lugar explota los derechos que le otorga la licencia mencionada;
 
-Para calcular el impuesto al valor agregado tratándose de importación de bienes tangibles, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de este último gravamen y de los demás que se tengan que pagar con motivo de la importación.
+II. Domicilio del establecimiento;
 
-El valor que se tomará en cuenta tratándose de importación de bienes o servicios a que se refieren las fracciones II a V del artículo 24 será el que les correspondería en esta Ley por enajenación de bienes, uso o goce de bienes o prestación de servicios, en territorio nacional, según sea el caso.
+III. Giro autorizado;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+IV. Número de licencia;
 
-Tratándose de bienes exportados temporalmente y retornados al país con incremento de valor, éste será el que se utilice para los fines del impuesto general de importación, con las adiciones a que se refiere el primer párrafo de este artículo.
+V. Folio de la certificación municipal;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+VI. Lugar y fecha de expedición;
 
-###### ARTICULO 28.
+VII. Sello de la Secretaría de Finanzas, y
 
-Tratándose de la importación de bienes tangibles, el pago tendrá el carácter de provisional y se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito, sin que contra dicho pago se acepte el acreditamiento o compensación.
+VIII. Los demás que señale esta ley, su reglamento y demás disposiciones aplicables.
 
-Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto que esta Ley establece, mediante declaración que presentarán ante la aduana correspondiente.
+Las solicitudes podrán presentarse simultáneamente, y la del Estado, sólo se autorizara, siempre y cuando se presente la del Municipio autorizada.
 
-El impuesto al valor agregado pagado al importar bienes dará lugar a acreditamiento en los términos y con los requisitos del artículo 4o. de esta Ley.
+Recurso
 
-No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponde conforme a esta Ley.
+###### ARTÍCULO 27.
 
-### CAPITULO VII. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+Contra la resolución que niegue la licencia podrá interponerse el recurso de revocación previsto en la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Padrón
 
-###### ARTICULO 29.
+###### ARTÍCULO 28.
 
-Las empresas residentes en el país calcularán el impuesto aplicando la tasa del 0% al valor de la enajenación de bienes o prestación de servicios, cuando unos u otros se exporten.
+La Secretaría de Finanzas contará con un padrón único de todas las licencias existentes, mismo que será publicado en la página de internet oficial del gobierno del estado y que deberá contener al menos los siguientes datos:
 
-Para los efectos de esta Ley, se considera exportación de bienes o servicios:
+I. Ubicación del establecimiento;
 
-I.- La que tenga el carácter de definitiva, en los términos de la legislación aduanera.
+II. Nombre comercial del establecimiento;
 
-II.- La enajenación de bienes intangibles realizada por persona residente en el país a quien resida en el extranjero.
+III. Giro del establecimiento;
 
-III.- El uso o goce temporal, en el extranjero, de bienes intangibles proporcionados por personas residentes en el país.
+IV. Número y fecha de expedición de la licencia y sus subsecuentes refrendos.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+V. Sanciones y reportes;
 
-IV.- El aprovechamiento en el extranjero de servicios prestados por residentes en el país, por concepto de:
+VI. Folio de la certificación municipal correspondiente, y
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+VII. Los demás que procedan conforme a la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza.
 
-a).- Asistencia técnica, servicios técnicos relacionados con ésta e informaciones relativas a experiencias industriales, comerciales o científicas.
+Será requisito indispensable de validez de la licencia el estar inscrito en el padrón único.
 
-b).- Operaciones de maquila para exportación en los términos del Reglamento del párrafo tercero del artículo 321 del Código Aduanero de los Estados Unidos Mexicanos para la industria maquiladora.
+Permiso Especial
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+### CAPÍTULO TERCERO. DE LOS CAMBIOS DE TITULAR, DOMICILIO Y GIRO, Y PÉRDIDA DE LA LICENCIA O PERMISO ESPECIAL
 
-c).- Publicidad.
+Autorización
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+###### ARTÍCULO 29.
 
-d).- Comisiones y mediaciones.
+Las personas físicas y morales con establecimientos temporales que con motivo de festividades regionales, ferias, verbenas, espectáculos públicos y espectáculos deportivos y recreativos de naturaleza análoga, pretendan enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general, deberán obtener permiso especial del Municipio, expedido por la Secretaría de Finanzas.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Solicitud
 
-e).- Seguros y reaseguros, así como afianzamientos y reafianzamientos.
+###### ARTÍCULO 30.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Para la expedición de los permisos especiales, el interesado, representante o apoderado legal deberá presentar solicitud por escrito a la Secretaría de Finanzas con un mínimo de veinte y un máximo de sesenta días hábiles de anticipación a la fecha de inicio del evento y acompañar los siguientes datos:
 
-f).- Operaciones de financiamiento.
+I. Nombre del solicitante y domicilio;
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+II. Lugar del evento. Éste deberá tener las medidas de seguridad que determine la ley u ordenamientos correspondientes y, en su caso, las autorizaciones que requieran de las demás autoridades;
 
-V.- La transportación internacional de bienes prestada por residentes en el país.
+III. Giros que se van a instalar;
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+IV. Área de venta, consumo o servicio de bebidas alcohólicas;
 
-VI.- La transportación aérea de personas, prestada por residentes en el país, por la parte del servicio que en los términos del último párrafo del artículo 16 no se considera prestada en territorio nacional.
+V. Croquis de ubicación de las áreas de venta, consumo o servicio;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+VI. Motivo del evento o celebración, días de duración y horario solicitado para la venta y consumo de bebidas alcohólicas;
 
-###### ARTICULO 30.
+VII. Dictamen favorable emitido por la autoridad de protección civil competente, según corresponda;
 
-Tratándose de los supuestos previstos en los artículos 9o. y 15 de esta Ley, el exportador de bienes o servicios calculará el impuesto aplicando la tasa del 0% al valor de la enajenación o prestación de servicios. También procederá el acreditamiento cuando las empresas residentes en el país exporten bienes tangibles para enajenarlos o para conceder su uso o goce en el extranjero.
+VIII. Copia de la credencial de elector, pasaporte o cualquier otra identificación oficial con fotografía del solicitante si es persona física o del acta constitutiva y el poder del representante legal, si se trata de una persona moral.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+Tratándose de personas físicas o morales extranjeras, anexar la documentación con la cual acrediten estar autorizadas por las autoridades competentes en los términos de las disposiciones legales aplicables, para dedicarse a actividades comerciales en el país;
 
-La devolución en el caso de exportación de bienes tangibles procederá hasta que la exportación se consume, en los términos de la legislación aduanera. En los demás casos, procederá hasta que sea exigible la contraprestación y en proporción a la misma.
+IX. Título de propiedad, contrato de arrendamiento o la documentación que ampare su derecho para utilizar el inmueble. En caso de no ser propietario del inmueble deberá contar con el consentimiento por escrito del propietario;
 
-###### ARTICULO 31.
+X. Acreditar que se encuentra al corriente en el pago de sus obligaciones fiscales estatales y municipales;
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+XI. Certificación municipal en favor del mismo solicitante, y
 
-### CAPITULO VIII. DE LAS FACULTADES DE LAS AUTORIDADES
+XII. Los demás que establezca la ley, su reglamento y otras disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
+En caso de que se incumpla con alguno de los requisitos antes señalados, se requerirá al solicitante para que lo subsane en un plazo no mayor a diez días hábiles. En caso de no hacerlo, no se dará trámite a la solicitud. En estos casos la Secretaría de Finanzas devolverá al solicitante los documentos que integran el expediente.
+
+Los trámites ante la Secretaría de Finanzas y los Ayuntamientos se podrán iniciar y realizar de manera simultánea, sin embargo, la Secretaría de Finanzas otorgará la licencia previa certificación municipal.
+
+Requisitos permisos especiales
+
+###### ARTÍCULO 31.
+
+Los permisos especiales que expida la Secretaría de Finanzas deberán contener lo siguiente:
+
+I. Nombre de las personas físicas o morales que los solicitan;
+
+II. Número de folio, duración del permiso, lugar y horario de funcionamiento;
+
+III. Delimitación del área específica donde se expenderán o consumirán las bebidas alcohólicas, su tipo y cantidad;
+
+IV. Las medidas de seguridad o condiciones específicas que deba cumplir su titular;
+
+V. Folio de la certificación municipal, y
+
+VI. Sello correspondiente.
+
+Tratándose de permisos especiales para eventos deportivos, artísticos o culturales que por sus características tengan especial interés regional y trascendencia a nivel federal, estatal o municipal, y cuya organización y planeación esté encomendada a comités ajenos al solicitante, la autoridad podrá recibir la solicitud al menos con 10 días hábiles de anticipación y otorgar dicho permiso especial, ajustándolo a las características de modo, tiempo y lugar propias del evento.
+
+Plazo para resolver sobre permiso especial
+
+### CAPÍTULO CUARTO. DEL REFRENDO, REVOCACIÓN Y CANCELACIÓN DE LAS LICENCIAS
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
+
+Requisitos
 
 ###### ARTÍCULO 45.
 
@@ -854,109 +848,67 @@ IV. Declarar subsistentes los derechos del titular de la licencia o permiso de q
 
 ## TÍTULO CUARTO. DE LA VIGILANCIA, OBLIGACIONES, PROHIBICIONES Y SANCIONES
 
-###### ARTICULO 32.
+###### ARTÍCULO 32.
 
-Los obligados al pago de este impuesto y las personas que realicen los actos y actividades a que se refiere el artículo 2o.-A tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
+La Secretaría de Finanzas contará con un plazo de quince días hábiles, contados a partir de la presentación de la solicitud, para pronunciarse sobre la expedición del permiso especial, fundando y motivando el acuerdo que emita al efecto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
+El permiso especial únicamente será válido por el tiempo y en el lugar para el cual fue expedido. En ningún caso el permiso especial podrá tener una vigencia superior a un mes, pudiendo la autoridad estatal en el ámbito de su competencia, inspeccionar y vigilar su funcionamiento. Cuando el establecimiento no cumpla con las normas que establecen las leyes, se procederá a la cancelación del permiso especial otorgado y a la clausura del establecimiento en su caso.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+Los Municipios, podrán otorgar permiso para la venta de bebidas en festividades locales hasta por un terminó máximo de 24 horas, dentro de los horarios establecidos en la presente ley.
 
-I.- Llevar de conformidad con el Código Fiscal de la Federación, su Reglamento de esta Ley, y efectuar conforme a este último la separación de los actos o actividades de las operaciones por las que deba pagarse el impuesto por las distintas tasas, de aquellos por los cuales esta Ley libera de pago.
+Criterios para otorgar o negar licencias
 
-II.- Realizar, tratándose de comisionistas, la separación en su contabilidad y registros de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta del comitente.
+###### ARTÍCULO 33.
 
-III.- Expedir documentos que comprueben el valor de la contraprestación pactada, señalando en los mismos, expresamente y por separado, el impuesto al valor agregado que se traslada a quien adquiera los bienes, los use o goce temporalmente, o reciba los servicios. Dichos documentos deberán entregarse o enviarse a quien efectúa o deba efectuar la contraprestación, dentro de los 15 días naturales siguientes a aquél en el que realicen los supuestos señalados en los artículos 11, 17 y 22 de esta Ley.
+La Secretaría de Finanzas podrá autorizar o negar las licencias y permisos especiales a que se refiere la presente ley tomando en cuenta su ubicación, el número de establecimientos existentes en cada municipio, la conveniencia de combatir el alcoholismo y las disposiciones de salubridad e higiene, así como de protección civil aplicables, tomando en cuenta la opinión del Ayuntamiento.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Nulidad
 
-La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, podrá establecer que se incluya en el valor de la contraprestación pactada el monto del impuesto al valor agregado, cuando se trate de actos o actividades que por su monto o por tratarse de determinadas ramas de actividades, considere conveniente otorgar estas facilidades.
+###### ARTÍCULO 34.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Las licencias, permisos especiales y refrendos que se expidan en contravención a las disposiciones establecidas en esta ley son nulos de pleno derecho. Los servidores públicos que hayan intervenido en la emisión de esos actos serán sujetos a lo establecido en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila y en el Código Penal para el Estado de Coahuila de Zaragoza, en caso de que la conducta constituya un delito.
 
-En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en forma expresa y por separado en la documentación a que se refiere esta fracción, cuando el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien, así lo solicite.
+###### ARTÍCULO 35.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Como requisito previo para la expedición de las licencias o los permisos especiales, cambio de titular, domicilio o giro, se requiere la obtención de la correspondiente certificación municipal.
 
-IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta ley. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, mensual o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
+Solicitud
 
-Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deba pagarse impuesto conforme a esta Ley, están obligados a formular a nombre de sus representadas las declaraciones correspondientes y pagar el impuesto respectivo, por el que tendrán responsabilidad solidaria.
+###### ARTÍCULO 36.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Para obtener la certificación municipal, los interesados deberán presentar ante la autoridad municipal respectiva, la solicitud correspondiente, acompañando la información y documentación siguiente:
 
-Los contribuyentes que tengan en copropiedad una negociación, designarán representante común previo aviso de tal designación ante las autoridades fiscales, y será éste quien a nombre de los copropietarios cumpla con las obligaciones establecidas en esta Ley.
+I. Comparecer personalmente, o a través de su representante o apoderado legal, con identificación oficial, a realizar los trámites correspondientes;
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+II. Copia certificada del testimonio de la escritura pública constitutiva y sus modificaciones si se trata de una sociedad mercantil, o del acta de nacimiento tratándose de personas físicas, así como el poder notariado de quien actúa en su nombre en caso de hacerse a través de representante legal;
 
-En el caso de que los ingresos deriven de actos o actividades que realice una sucesión, el representante legal de la misma pagará el impuesto presentando declaraciones mensuales y del ejercicio, por cuenta de los herederos o legatarios.
+III. Domicilio para oír y recibir notificaciones;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+IV. Clave del registro federal de contribuyentes;
 
-###### ARTICULO 33.
+V. La constancia de zonificación del uso del suelo, la licencia del uso del suelo y la licencia de edificación; con esta constancia y licencias se deberá acreditar que el uso del suelo está permitido para el giro que se llevará a cabo en el establecimiento de que se trate;
 
-Cuando se enajene un bien o se preste un servicio en forma accidental, por los que deba pagar impuesto en los términos de esta Ley, el contribuyente lo pagará mediante declaración que presentará en las oficinas autorizadas, dentro de los 15 días hábiles siguientes a aquél en el que obtenga la contraprestación, sin que contra dicho pago se acepte acreditamiento. En las importaciones ocasionales el pago se hará como lo establece el artículo 28 de esta Ley. En estos casos no formulará declaración anual ni mensual ni llevará contabilidad; pero deberá expedir los documentos que señala la fracción III del artículo anterior y conservar la documentación correspondiente durante 5 años.
+VI. Dictamen favorable de protección civil, expedido por la autoridad municipal competente;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+VII. Autorización sanitaria;
 
-Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en los términos de esta ley, consignada en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán dentro del mes siguiente a la fecha en que se firme la escritura en la oficina autorizada que corresponda a su domicilio.
+VIII. Acreditar que se encuentra al corriente en el pago de sus obligaciones fiscales estatales y municipales, y
 
-###### ARTICULO 34.
+IX. Acreditar que la ubicación cumpla con el mínimo de distancia respecto a las instituciones educativas, centros de salud, hospitales, templos, iglesias y centros religiosos legalmente acreditados, con base a los ordenamientos legales aplicables.
 
-Cuando la contraprestación que reciba el contribuyente no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o en su defecto el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en esta Ley.
+La certificación municipal tendrá una vigencia anual. El interesado deberá solicitar la revalidación en el mes de enero del año en curso, previo pago de derechos que corresponda.
 
-En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se trasmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste.
+Plazo para resolver
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+###### ARTÍCULO 37.
 
-###### ARTICULO 35.
+Recibida la solicitud, la autoridad municipal contará con un plazo de treinta días hábiles, contados a partir de la presentación de la solicitud, para otorgarla o negarla, fundando y motivando el acuerdo que emita al efecto.
 
-Las personas físicas que enajenen bienes o presten servicios, cuando sean contribuyentes menores conforme a la Ley del Impuesto sobre la Renta, pagarán el impuesto al valor agregado de conformidad con la estimación del valor de los actos o actividades por los que deban pagar el impuesto, que al efecto les practiquen las autoridades fiscales, debiéndose observar lo siguiente:
+Negativa
 
-I.- Llevar los registros simplificados de sus operaciones cuando lo determine la Secretaría de Hacienda y Crédito Público conforme a disposiciones de carácter general.
+### CAPÍTULO PRIMERO. DE LA INSPECCIÓN Y VIGILANCIA
 
-II.- Dichas personas no tendrán obligación de calcular ni declarar mensualmente el monto de las contraprestaciones que correspondan a sus actividades por las que deban pagar el impuesto. Las autoridades fiscales les estimarán el valor de los actos o actividades por los que están obligados a pagar el impuesto, excluyendo las actividades sujetas a la tasa de 0%; a esta estimación las autoridades aplicarán las tasas del 10% o del 6%, según corresponda, obteniéndose así el impuesto a cargo estimado.
-
-Del impuesto a cargo estimado se restará el impuesto acreditable, conforme a lo siguiente:
-
-a).- Tratándose de las actividades que mediante disposiciones de carácter general señale la Secretaría de Hacienda y Crédito Público, los contribuyentes podrán restar el impuesto acreditable a que se refiere el artículo 4o. de esta Ley.
-
-b).- En todos los demás casos, las autoridades fiscales estimarán el impuesto acreditable.
-
-La diferencia entre el impuesto a cargo estimado y el impuesto acreditable en los términos de los incisos a) o b) de esta fracción, según corresponda, será el monto del impuesto a pagar.
-
-Las estimaciones a que se refiere esta fracción se mantendrán hasta que las autoridades fiscales formulen otras.
-
-III.- Pagar bimestralmente el impuesto a que se refiere la fracción anterior. Este impuesto tendrá el carácter de definitivo y los contribuyentes no tendrán que presentar declaraciones del ejercicio.
-
-IV.- Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el valor de los actos o actividades por las que el contribuyente deba pagar el impuesto al valor agregado, es superior en más de un 20% a la última estimación practicada, se rectificará ésta y se cobrarán las diferencias de impuesto que procedan más lo (sic) recargos de ley y sanciones respectivas, salvo que el contribuyente solicite espontáneamente a las autoridades fiscales la rectificación de la estimación, en cuyo caso, pagará el impuesto que corresponda a partir del bimestre en que haya solicitado la rectificación, quedando liberado de pagar las diferencias correspondientes a bimestres anteriores.
-
-V.- Conservar los registros simplificados a que se refiere la fracción I de este artículo y los documentos que señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-###### ARTICULO 36.
-
-Los contribuyentes menores deberán expedir documentos que reúnan requisitos fiscales, cuando se lo solicite el adquirente de los bienes o el usuario del servicio, conservando copia de los mismos. En los documentos que expidan trasladarán el impuesto en forma expresa y por separado del precio, el que formará parte del monto del impuesto estimado.
-
-###### ARTICULO 37.
-
-Para los efectos de la estimación que realicen las autoridades fiscales, se tomará en cuenta:
-
-Importe de compras efectuadas; inventarios de mercancías, de maquinaria y equipo; monto de la renta del local en que estén establecidos los negocios; número de trabajadores que tengan a su servicio y sueldos de que disfruten; pagos de cuotas al Instituto Mexicano del Seguro Social; impuestos pagados a la Federación, Distrito Federal, Estados o Municipios; cantidades que hayan cubierto por concepto de energía eléctrica y teléfonos; retiros en efectivo y en especie efectuados por el propietario del negocio para la atención de sus necesidades personales y de su familia; zona comercial en que se encuentre ubicado el negocio; informaciones recabadas de terceros y, en general, todos los elementos de juicio que puedan utilizarse para la estimación del valor de las actividades por las que se deba pagar el impuesto.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Las autoridades fiscales podrán incrementar la estimación del valor de los actos o actividades por los que el contribuyente esté obligado a pagar impuesto, aplicando a la estimación efectuada en el año de calendario anterior, el factor que en su caso, señale anualmente el Congreso de la Unión.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Las estimaciones que realicen las autoridades fiscales se harán por ejercicios y se dividirán entre seis para los efectos del pago bimestral.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-La estimación del impuesto acreditable, se hará conforme a los por cientos de acreditamiento que en cada caso señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
-
-### CAPITULO IX. DE LAS PARTICIPACIONES A LAS ENTIDADES FEDERATIVAS
+Autoridades competentes
 
 ###### ARTÍCULO 53.
 
@@ -996,7 +948,7 @@ III. Señalar la autoridad que lo emite;
 
 IV. Señalar lugar y fecha de emisión;
 
-V. Estar fundado, motivado (sic) y señalar el objeto que persiga;
+V. Estar fundado, motivado y señalar el objeto que persiga;
 
 VI. El lugar o lugares donde debe efectuarse la inspección;
 
@@ -1086,23 +1038,51 @@ Informe
 
 De todo procedimiento administrativo realizado con motivo de la aplicación de la presente ley, la autoridad que lo lleve a cabo, deberá informar a las secretarías de Gobierno y de Finanzas, cinco días hábiles después de que haya quedado firme la resolución emitida.
 
-###### ARTICULO 38.
+###### ARTÍCULO 38.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+La autoridad municipal podrá negar la certificación municipal por alguna de las siguientes causas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
+I. El uso del suelo para las actividades que se pretenden efectuar, se encuentre prohibido en los planes de desarrollo urbano;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+II. Con base en los estudios de impacto social se desprenda que el otorgamiento de la certificación pudiera alterar el orden y la seguridad pública;
 
-###### ARTICULO 39.
+III. El ayuntamiento determine no incrementar el número de establecimientos en donde se expendan o consuman bebidas alcohólicas en un municipio o en un sector del mismo, o
 
-Al importe de la determinación presuntiva del valor de los actos o actividades por los que se deba pagar el impuesto en los términos de esta Ley, se aplicará la tasa del impuesto que corresponda conforme a la misma, y el resultado se reducirá con las cantidades acreditables que se comprueben.
+IV. Exista impedimento legal para la realización de las actividades reguladas por la presente ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
+Los ayuntamientos están facultados para elaborar y expedir los reglamentos que regulen el funcionamiento de los centros de producción, almacenamiento, distribución, expendio, venta y consumo de bebidas alcohólicas que se ubiquen en su demarcación territorial, en los términos de esta ley y demás disposiciones aplicables en la materia.
 
-###### ARTICULO 40.
+Asimismo, cuando el orden público se vea afectado por los centros ya mencionados, el Ayuntamiento podrá solicitar al Ejecutivo del Estado a través de la Secretaría de Finanzas, la reubicación de dichos centros o la cancelación de la licencia otorgada.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+###### ARTÍCULO 39.
+
+La Secretaría de Finanzas podrá autorizar o negar los cambios de titular, domicilio o de giro del establecimiento, cuando se reúnan los requisitos que señala la presente ley.
+
+Requisitos
+
+###### ARTÍCULO 40.
+
+Para la procedencia del cambio de titular de las licencias el solicitante deberá reunir los siguientes requisitos:
+
+I. Entregar solicitud oficial dirigida a la Secretaría de Finanzas que contenga los siguientes datos:
+
+a) Nombre del solicitante y domicilio;
+
+b) Domicilio del establecimiento, y
+
+c) Giro de establecimiento.
+
+II. Copia certificada de la credencial de elector de quien pretenda ser el nuevo titular si es persona física o del acta constitutiva si se trata de una persona moral;
+
+III. Entregar la licencia original o, en su caso, presentar la denuncia de robo ante las autoridades competentes, o la manifestación bajo protesta de decir verdad, pasada ante la fe notarial, del extravío de la licencia;
+
+IV. No encontrarse impedido por ley o resolución emitida por autoridad competente;
+
+V. Justificar estar al corriente en el pago de sus obligaciones fiscales estatales y municipales, y
+
+VI. Los demás que establezca la presente ley, su reglamento y otras disposiciones aplicables.
+
+Solicitud
 
 ### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES, PROHIBICIONES Y SANCIONES
 
@@ -1522,57 +1502,43 @@ HOMERO RAMOS GLORIA
 
 P.O. 16 DE SEPTIEMBRE DE 2014.
 
-###### ARTICULO 41.
+###### ARTÍCULO 41.
 
-La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal para recibir participaciones en los términos de la Ley de Coordinación Fiscal, conviniendo en no mantener impuestos locales o municipales sobre:
+La solicitud de cambio de domicilio y de giro del establecimiento, deberá cumplir con los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+I. Para cambio de domicilio:
 
-I.- Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto.
+a) Reunir los requisitos señalados en el artículo 23 de esta ley;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+b) Hacer la entrega de la licencia original o, en su caso de la denuncia de robo ante las autoridades competentes, o la manifestación bajo protesta de decir verdad, pasada ante la fe notarial, del extravío de la licencia, y
 
-II.- La enajenación de bienes o prestación de servicios cuando una u otra se exporten o sean de los señalados en el artículo 2o-A de esta Ley.
+c) Justificar estar al corriente en el pago de sus obligaciones fiscales estatales y municipales.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+II. Para cambio de giro:
 
-III.- Los bienes que integren el activo o sobre la utilidad o el capital de las empresas.
+a) Solicitud dirigida a la Secretaría de Finanzas;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+b) Original de la licencia de uso de suelo y edificación;
 
-IV.- Intereses, los títulos de crédito y los productos o rendimientos derivados de su propiedad o enajenación.
+c) Copia de la licencia y último refrendo;
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+d) Justificar estar al corriente en el pago de sus obligaciones fiscales estatales y municipales;
 
-V.- El uso o goce temporal de casa habitación.
+e) Dictamen de las autoridades competentes en materia de protección civil, y
 
-Tampoco mantendrán impuestos locales o municipales de carácter adicional sobre las participaciones en gravámenes federales que les correspondan.
+f) Certificación del municipio de que se trate.
 
-El Distrito Federal no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
+El solicitante deberá presentar el original y una fotocopia de la solicitud y de los documentos mencionados ante la Secretaría de Finanzas. Realizado el cotejo de los documentos, se devolverán los originales, excepto la licencia anterior.
 
-###### ARTICULO 42.
+Trámite
 
-Se exceptúan de lo dispuesto en el artículo anterior los impuestos que los Estados o el Distrito Federal tengan establecidos o establezcan sobre enajenación de construcciones por las que deba pagarse el impuesto al valor agregado.
+###### ARTÍCULO 42.
 
-En ningún caso lo dispuesto en el artículo anterior, se entenderá limitativo de la facultad de los Estados y del Distrito Federal para gravar con impuestos locales o municipales la propiedad o posesión del suelo o construcciones, o la trasmisión de propiedad de los mismos o sobre plusvalía o mejoría específica, siempre que no se discrimine en contra de los contribuyentes del impuesto al valor agregado.
+La información que se remita a la Secretaría de Finanzas con motivo de las solicitudes a que se refiere este capítulo, deberá ser formulada bajo protesta de decir verdad y los trámites deberán realizarse por el interesado o su representante legal, debidamente acreditado.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+No se dará trámite alguno a las solicitudes de cambio de titular, domicilio o giro que no reúnan los requisitos señalados, para lo cual la Secretaría de Finanzas está facultada para devolver al solicitante los documentos que integran el expediente de solicitud, cuando se compruebe que no reúne los requisitos o que no cumple con las demás disposiciones establecidas en este ordenamiento, dando por concluido y quedando sin efecto el trámite a la entrega de los mismos.
 
-Tratándose de energía eléctrica las entidades federativas no podrá (sic) decretar impuestos, contribuciones o gravámenes locales o municipales, cualquiera que sea su origen o denominación, sobre:
-
-I.- Producción, introducción, transmisión, distribución, venta o consumo de energía eléctrica.
-
-II.- Actos de organización de empresas generadoras o importadoras de energía eléctrica.
-
-III.- Capitales invertidos en los fines que expresa la fracción I.
-
-IV.- Expedición o emisión por empresas generadoras e importadoras de energía eléctrica, de títulos, acciones u obligaciones y operaciones relativas a los mismos.
-
-V.- Dividendos, intereses o utilidades que representan o perciban las empresas que señala la fracción anterior.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
-
-Se exceptúa de lo dispuesto en las fracciones anteriores, el impuesto a la propiedad privada que grava la tierra, pero no las mejoras y la urbana que pertenezca a las plantas productoras e importadoras.
+Plazo para resolver
 
 ###### ARTÍCULO 43.
 
@@ -1594,49 +1560,15 @@ Cuando se presuma que los hechos revisten carácter delictivo, se procederá a l
 
 ## TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-Esta Ley entrará en vigor, en toda la República, el día primero de enero de 1980.
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-Al entrar en vigor la presente Ley, quedarán abrogadas las leyes y decretos siguientes:
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-1.- Ley Federal del Impuesto sobre Ingresos Mercantiles.
-
-2.- Ley del Impuesto sobre Reventa de Aceites y Grasas Lubricantes.
-
-3.- Ley del Impuesto sobre Compraventa de Primera Mano de Alfombras, Tapetes y Tapices.
-
-4.- Ley del Impuesto sobre Despepite de Algodón en Rama.
-
-5.- Ley del Impuesto sobre Automóviles y Camiones Ensamblados.
-
-6.- Decreto por el cual se fija el impuesto que causarán el Benzol, Toluol, Xilol y Naftas de Alquitrán de Hulla, destinados al consumo interior del país.
-
-7.- Ley del Impuesto a la Producción del Cemento.
-
-8.- Ley del Impuesto sobre Cerillos y Fósforos.
-
-9.- Ley del Impuesto sobre Compraventa de Primera Mano de Artículos Electrónicos, Discos, Cintas, Aspiradoras y Pulidoras.
-
-10.- Ley del Impuesto sobre Llantas y Cámaras de Hule.
-
-11.- Ley del Impuesto a las Empresas que explotan Estaciones de Radio o Televisión.
-
-12.- Ley del Impuesto sobre Vehículos Propulsados por Motores Tipo Diesel y por Motores Acondicionados para uso de Gas Licuado de Petróleo.
-
-13.- Ley de Compraventa de Primera Mano de Artículos de Vidrio o Cristal.
-
-14.- Ley Federal del Impuesto sobre Portes y Pasajes.
-
-15.- Decreto relativo al impuesto del 10% sobre las entradas brutas de los Ferrocarriles.
-
-16.- Decreto que establece un Impuesto sobre Uso de Aguas de Propiedad Nacional en la Producción de Fuerza Motriz.
-
-17.- Ley del Impuesto sobre la Explotación Forestal.
-
-18.- Ley de Impuestos y Derechos a la Explotación Pesquera.
+P.O. 9 DE MAYO DE 2017.
 
 ###### ARTICULO TERCERO.
 
@@ -1660,47 +1592,13 @@ D.O.F. 31 DE DICIEMBRE DE 1979.
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos ochenta.
+El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-Al entrar en vigor la presente Ley, quedan abrogadas las leyes y decretos siguientes:
-
-1.- Ley de Impuestos sobre Aguamiel y Productos de su Fermentación.
-
-2.- Ley del Impuesto sobre Producción e Introducción de Energía Eléctrica.
-
-3.- Ley del Impuesto sobre Consumo de Gasolina.
-
-4.- Ley de Impuestos de Migración.
-
-5.- Ley de Impuestos al Petróleo y sus Derivados.
-
-6.- Ley que Reforma la del Impuesto sobre Productos del Petróleo y sus Derivados.
-
-7.- Ley del Impuesto sobre Fundos Petroleros.
-
-8.- Decreto que grava con un 15% los productos obtenidos por la Refinación de Petróleo Extranjero.
-
-9.- "Decreto que establece un impuesto especial sobre el Consumo de Algodón Despepitado, así como el que adquieran los industriales a partir del 1o. de septiembre del presente año", de 20 de junio de 1944.
-
-10.- Artículo 7o. de la Ley que Establece, Reforma y Adiciona las disposiciones relativas a diversos impuestos de 28 de diciembre de 1967, que estableció un Impuesto sobre Compraventa de Primera Mano de Artículos de Vidrio o Cristal.
-
-ARTICULO TRIGESIMO SEGUNDO.- No se pagará el impuesto al valor agregado cuando los ingresos del contribuyente hayan causado el impuesto federal sobre ingresos mercantiles o cuando la contraprestación fue exigible antes del 1o. de enero de 1980; si es exigible con posterioridad, en razón de que los actos o actividades fueren de carácter continuo; sólo se pagará el impuesto por la parte de la contraprestación correspondiente a los actos o actividades o los efectos de los mismos, que se realicen a partir de dicha fecha.
-
-En las importaciones de bienes tangibles, no se pagará el impuesto al valor agregado por los introducidos en el país con anterioridad al 1o. de enero de 1980 en los términos del Código Aduanero. Se pagará el impuesto al valor agregado en la importación temporal que se convierta en definitiva con posterioridad a dicha fecha.
-
-ARTICULO TRIGESIMO TERCERO.- El Distrito Federal y los Estados que se adhieran al Sistema Nacional de Coordinación Fiscal, mientras no se deba pagar el Impuesto al Valor Agregado respecto de la enajenación de los bienes que a continuación se indican, no establecerán impuestos locales o municipales sobre la enajenación de:
-
-I.- Embarcaciones, maquinaria y equipo que úni-únicamente (sic) sean susceptibles de ser utilizados en la explotación pesquera.
-
-II.- Alimentos balanceados para animales y las materias primas necesarias para producirlos, productos de medicina veterinaria, así como insecticidas, herbicidas y fungicidas.
-
-D.O.F. 30 DE DICIEMBRE DE 1980.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+Se derogan (sic) cualquier disposición contraria al presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
@@ -1758,9 +1656,11 @@ ARTICULO TRIGESIMO SEGUNDO.- Las disposiciones contenidas en las leyes del Impue
 
 D.O.F. 30 DE SEPTIEMBRE DE 1982.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor el 1o. de octubre de 1982.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
@@ -1791,3 +1691,15 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 5 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 62.- SE REFORMAN LOS ARTÍCULOS 2, 4, FRACCIÓN XXIII, 7, FRACCIÓN V Y 12 Y SU RESPECTIVO EPÍGRAFE TODOS ELLOS DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 270.- SE ADICIONAN UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 5 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
