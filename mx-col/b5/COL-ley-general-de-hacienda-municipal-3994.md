@@ -4,7 +4,7 @@ identifier: "COL-ley-general-de-hacienda-municipal-3994"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-04-16"
-last_updated: "1995-01-21"
+last_updated: "1996-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY GENERAL DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", sábado 16 de abril de 1994.
 
@@ -1167,17 +1167,65 @@ Los servicios médicos municipales y sanitarios causarán los derechos que al ef
 
 El Presidente Municipal podrá autorizar los servicios médicos municipales en forma gratuita a personas indigentes o carentes de recursos económicos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+### CAPITULO VIII BIS. DE LOS DERECHOS POR EL USO O TENENCIA DE LOS ANUNCIOS
+
+Y LA REALIZACION DE PUBLICIDAD
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 143 A.- Es objeto de estos derechos, el uso o tenencia de anuncios y carteles en la vía o sitios públicos o visibles desde las vías públicas, así como la realización de cualquier tipo de publicidad comercial, industrial o de servicios, excepto las que se realicen por el radio, televisión, periódicos y revistas.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 143 B.- Son sujetos de estos derechos las personas físicas o morales que realice la publicidad, así como los propietarios o poseedores de los bienes muebles e inmuebles sobre los cuales se fijen anuncios o carteles o se realice la publicidad.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 143 C.- Son responsables solidarios del pago de estos derechos, las personas físicas o morales a quienes se anuncien o a quienes cuyos productos o actividades sean anunciadas o publicitadas.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 143 D.- Es base para el cálculo de los derechos a que se refiere este capítulo, el número de metros cuadrados del espacio destinado a la colocación del anuncio, así como el tiempo de realización par (sic) el caso de publicidad sonora.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 143 E.- Los derechos (sic) que se refiere el presente capítulo se pagarán de conformidad con las tarifas que se señalen de las leyes de ingresos de los municipios.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 143 F.- Los derechos señalados en este capítulo deberán pagarse en la Tesorería Municipal, previamente a la expedición de licencias, la cual deberá refrendarse dentro de los dos primeros meses de cada año, en caso de que la tenencia del anuncio o la realización de la publicidad sea de carácter permanente.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 143 G.- No causarán estos derechos las entidades gubernamentales, ya sean centrales o paraestatales, ni las organizaciones e instituciones privadas, con fines no lucrativos, científicos o culturales, así como los partidos políticos. Tampoco los causarán los anuncios relativos a nombres, denominaciones o razón social de la (sic) personas físicas o morales, cuando están fijados en sus establecimientos o vehículos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+### CAPITULO VIII BIS 1
+
+DE LOS DERECHOS POR EXPEDICION DE LICENCIAS, PERMISOS Y AUTORIZACIONES PARA LA ENAJENACION DE BEBIDAS ALCOHOLICAS.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 143 H.- Causarán los derechos establecidos en este capítulo, las personas físicas o morales que soliciten y obtengan licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la venta de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúen total o parcialmente con el público en general.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 143 I.- Es base para el pago de estos derechos, el tipo de autorización, licencias o permiso que se otorgue, así como el período o número de horas cuando se trate de permisos eventuales o de funcionamiento en horario extraordinario.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 143 J.- Los derechos consignados en el presente capítulo se pagarán en la Tesorería Municipal, previo a la expedición de la licencia, autorización o permiso correspondiente, de conformidad con las tarifas que al efecto se señalen en las Leyes de Ingresos de los Municipios
+
 ### CAPITULO IX. DE LOS SERVICIOS DE TRANSITO
-
-### CAPITULO X. DE LOS SERVICIOS NO ESPECIFICADOS
-
-### CAPITULO UNICO. DE LOS DERECHOS DE COOPERACION
 
 ###### ARTICULO 144.
 
 Los derechos que por concepto de servicios de tránsito correspondan a los ayuntamientos, serán los que se establezcan en las leyes de ingresos de los municipios.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO X. DE LOS SERVICIOS NO ESPECIFICADOS
 
 ###### ARTICULO 145.
 
@@ -1185,7 +1233,7 @@ Causarán los derechos a que se refiere este capítulo, otros servicios que pres
 
 ## TITULO CUARTO. DE LOS DERECHOS DE COOPERACION
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DE LOS DERECHOS DE COOPERACION
 
 ###### ARTICULO 146.
 
@@ -1209,7 +1257,7 @@ Son solidariamente responsables del pago de los derechos de cooperación los adq
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
-### CAPITULO UNICO
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 151.
 
@@ -1231,7 +1279,7 @@ Para la determinación de los montos de los productos a que refiere este capítu
 
 ## TITULO SEXTO. DE LOS APROVECHAMIENTOS
 
-### CAPITULO I. DE LAS NOTIFICACIONES
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 154.
 
@@ -1263,7 +1311,7 @@ XII.- Otros no especificados.
 
 ## TITULO SEPTIMO. DE LAS PARTICIPACIONES
 
-### CAPITULO II. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+### CAPITULO UNICO
 
 ###### ARTICULO 155.
 
@@ -1271,7 +1319,7 @@ Los municipios tendrán derecho a participar del rendimiento de contribuciones f
 
 ## TITULO OCTAVO. DE LOS PROCEDIMIENTOS
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO I. DE LAS NOTIFICACIONES
 
 ###### ARTICULO 156.
 
@@ -1343,7 +1391,7 @@ Las autoridades fiscales podrán habilitar mediante acuerdo escrito y fundado, h
 
 Salvo que las disposiciones fiscales o resoluciones señalen una fecha para la iniciación de los plazos, éstos se computarán a partir del día hábil siguiente a aquel en que surta sus efectos la notificación o en que se realicen los hechos o las circunstancias que las disposiciones legales o resoluciones administrativas prevengan.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO II. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -1789,6 +1837,8 @@ No se exigirá garantía adicional si en el procedimiento administrativo de ejec
 
 ## TITULO NOVENO. DEL RECURSO ADMINISTRATIVO DE RECONSIDERACION
 
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
 ###### ARTICULO 222.
 
 Contra las resoluciones dictadas por las autoridades fiscales señaladas en el artículo 19 de la presente Ley, que determinen créditos fiscales, apliquen sanciones o que causen agravios en materia fiscal distintos de los anteriores, sólo procederá el recurso administrativo de reconsideración que establece este título.
@@ -1836,6 +1886,8 @@ IV.- Que sean conexos a otro que haya sido impugnado por algún recurso o medio 
 V.- Que hubieran sido revocados por la autoridad.
 
 ## TITULO DECIMO. DEL PROCEDIMIENTO DE REVOCACION DE LICENCIAS
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 225.
 
@@ -1900,3 +1952,7 @@ Dado en Palacio de Gobierno, a los 8 días del mes de abril 1994.- EL GOBERNADOR
 P.O. 21 DE ENERO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA"
+
+P.O. 30 DE NOVIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
