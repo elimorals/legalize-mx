@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-patrimonio-inmobiliario-del-estado-guanajuato-15640"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-24"
-last_updated: "1999-12-24"
+last_updated: "2002-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL PATRIMONIO INMOBILIARIO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 1999.
 
@@ -287,181 +287,77 @@ Los bienes inmuebles que ingresen al patrimonio del Estado por concepto de expro
 
 El Estado podrá recibir donaciones, legados y herencias de bienes muebles e inmuebles, siempre y cuando las mismas no resulten gravosas para su patrimonio.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO SEGUNDO. CONCESION DE LOS BIENES INMUEBLES DEL DOMINIO PUBLICO DEL ESTADO
 
 ###### Artículo 27.
 
-El Ejecutivo del Estado podrá otorgar a los particulares, mediante concesión, el derecho de usar, explotar o aprovechar los bienes inmuebles del dominio público. Los derechos derivados de la concesión no constituirán derechos reales sobre los bienes inmuebles de dominio público.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 28.
 
-El Ejecutivo del Estado podrá autorizar al concesionario para que subconcesione o realice cualquier otro acto o contrato por virtud del cual una persona distinta goce de los derechos derivados de la concesión, siempre y cuando a quien se le cedan los derechos reúna los mismos requisitos y condiciones que se tuvieron en cuenta para el otorgamiento de la misma.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 29.
 
-El Ejecutivo del Estado para otorgar una concesión para el uso, explotación o aprovechamiento de los bienes inmuebles del dominio público, deberá atender lo siguiente:
-
-I.- El beneficio social y económico que signifique para el Estado el uso, explotación o aprovechamiento del bien inmueble de dominio público, así como la necesidad o conveniencia de los mismos;
-
-II.- El monto de la inversión que el concesionario pretenda realizar;
-
-III.- El plazo de la concesión y de la amortización de la inversión; y
-
-IV.- El cumplimiento por parte del concesionario de los requisitos exigidos para otorgar la concesión, así como de las obligaciones a su cargo.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 30.
 
-El Ejecutivo del Estado para otorgar una concesión se sujetará a lo siguiente:
-
-I.- Emitir un acuerdo sobre la conveniencia del uso, explotación o aprovechamiento del bien inmueble de dominio público;
-
-II.- Publicar la convocatoria correspondiente en el Periódico Oficial del Gobierno del Estado y en los de mayor circulación en el Estado, misma que deberá contener:
-
-a) El objeto y duración de la concesión;
-
-b) La ubicación del bien inmueble del dominio público;
-
-c) La dependencia ante la cual se debe presentar la solicitud;
-
-d) La fecha límite para la presentación de las solicitudes;
-
-e) Los requisitos que deberán cumplir los interesados; y
-
-f) Los demás que sean necesarios, atendiendo a las circunstancias del bien inmueble del dominio público;
-
-III.- Verificar que los interesados cumplan con los requisitos que se hayan señalado en la convocatoria correspondiente y, en su caso, que acrediten la capacidad técnica y financiera requerida, así como su personalidad jurídica cuando se trate de personas morales; y
-
-IV.- Fijar las condiciones y forma en que deberá garantizarse el adecuado uso, explotación o aprovechamiento del bien inmueble de dominio público.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 31.
 
-Las personas interesadas deberán presentar su solicitud ante la dependencia que se indique en la convocatoria, dentro del plazo señalado en la misma.
-
-Concluido el periodo de recepción de solicitudes, el Ejecutivo del Estado procederá a analizar si las solicitudes presentadas cumplen con los requisitos técnicos, financieros y legales exigidos, a efecto de otorgar o negar la concesión correspondiente.
-
-El acuerdo referido se notificará tanto a las personas beneficiadas con la concesión como a aquéllas cuya solicitud fue descartada, indicando las razones y motivos de la procedencia o improcedencia según corresponda.
-
-Los puntos resolutivos del acuerdo se publicarán en el Periódico Oficial del Gobierno del Estado y en los de mayor circulación en el Estado.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 32.
 
-El título-concesión deberá contener los siguientes elementos:
-
-I.- Nombre y domicilio del concesionario;
-
-II.- Características del bien inmueble del dominio público concesionado;
-
-III.- Derechos y obligaciones del concesionario;
-
-IV.- Plazo de la concesión;
-
-V.- Causas de extinción de la concesión;
-
-VI.- Firma del Titular del Poder Ejecutivo; y
-
-VII.- Los demás que acuerde el Ejecutivo del Estado.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 33.
 
-La concesión se otorgará por un tiempo determinado que no podrá exceder de veinticinco años.
-
-El término de la concesión podrá ser prorrogado por quince años más, siempre y cuando lo solicite el concesionario y se sigan cumpliendo los requisitos y condiciones de los artículos 29 y 30 de esta Ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 34.
 
-Son obligaciones de los concesionarios:
-
-I.- Usar, explotar o aprovechar el bien inmueble del dominio público, sujetándose a lo dispuesto por esta Ley y por el título-concesión;
-
-II.- Iniciar el uso, explotación o aprovechamiento del bien inmueble del dominio público en el plazo establecido en el título-concesión;
-
-III.- Cubrir los derechos y refrendos que correspondan conforme a las leyes fiscales;
-
-IV.- Contar con el personal, equipo e instalaciones para el adecuado uso, explotación o aprovechamiento del bien inmueble del dominio público;
-
-V.- Conservar y, en su caso, renovar atendiendo a los adelantos técnicos, el equipo para el uso, explotación o aprovechamiento del bien inmueble del dominio público;
-
-VI.- Otorgar garantía en favor del Estado;
-
-VII.- Conservar las características esenciales del bien inmueble del dominio público; y
-
-VIII.- Las demás que acuerde el Ejecutivo del Estado.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 35.
 
-El Ejecutivo del Estado está facultado para:
-
-I.- Vigilar el cumplimiento de las obligaciones del concesionario;
-
-II.- Realizar las modificaciones que estime convenientes a los títulos concesión, cuando lo exija el interés público;
-
-III.- Dictar las resoluciones de extinción, cuando procedan conforme a esta Ley y al título-concesión; y
-
-IV.- Rescatar por causas de utilidad pública y mediante indemnización, el bien inmueble del dominio público objeto de la concesión.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 36.
 
-Son causas de extinción de la concesión:
-
-I.- Cumplimiento del plazo o de la prórroga;
-
-II.- Revocación;
-
-III.- Rescate; y
-
-IV.- Cualquier otra prevista en el título-concesión.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 37.
 
-La extinción de la concesión hará que los bienes inmuebles materia de la misma, regresen de pleno derecho al patrimonio del Estado, con todas sus accesiones y edificaciones.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 38.
 
-Son causas de revocación de la concesión, las siguientes:
-
-I.- Incumplimiento de las obligaciones del concesionario, establecidas en esta Ley y en el título-concesión;
-
-II.- Ceder o realizar cualquier otro acto o contrato por virtud del cual una persona distinta goce de los derechos derivados de la concesión, sin autorización del Ejecutivo del Estado;
-
-III.- Gravar la concesión o alguno de los derechos establecidos en ella;
-
-IV.- Interrumpir en todo o en parte el uso, explotación o aprovechamiento del bien inmueble del dominio público; y
-
-V.- Dejar de pagar en forma oportuna los derechos por la concesión para el uso, explotación o aprovechamiento del bien inmueble del dominio público; así como el refrendo anual de la misma.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 39.
 
-El procedimiento para la revocación de la concesión se substanciará ante la Secretaría de Gobierno y se sujetará a lo siguiente:
-
-I.- Se iniciará de oficio o a petición de parte con interés legítimo;
-
-II.- Se notificará al concesionario el inicio del procedimiento, otorgándole un plazo de cinco días hábiles para que exprese lo que a su interés convenga;
-
-III.- Se abrirá un periodo probatorio de diez días hábiles para desahogar las pruebas ofrecidas;
-
-IV.- Se dictará resolución dentro del plazo de diez días hábiles contados a partir de que concluyó el periodo probatorio; y
-
-V.- La resolución se notificará personalmente al concesionario, así como al Titular de la Secretaría de Planeación y Finanzas, para efecto de que realice las anotaciones correspondientes en el Padrón de la Propiedad Inmobiliaria Estatal.
-
-Los términos previstos en este artículo se computarán conforme a la Ley de Justicia Administrativa del Estado de Guanajuato.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 40.
 
-Una vez que quede firme la resolución de revocación de la concesión, el concesionario tendrá un plazo máximo de noventa días naturales para entregar el bien inmueble objeto de la concesión con todas sus accesiones y edificaciones.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 41.
 
-Las concesiones sobre bienes inmuebles del dominio público podrán rescatarse por causa de utilidad pública, mediante indemnización, cuyo monto será fijado por peritos.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 42.
 
-En la declaratoria de rescate se establecerán las bases generales que servirán para fijar el monto de la indemnización que haya de cubrirse al concesionario, tomando en consideración el monto de la inversión y su plazo de amortización, pero en ningún caso podrá tomarse como base para fijarlo el valor intrínseco de los bienes inmuebles concesionados.
-
-Si el afectado estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo. Si no estuviese conforme con el importe de la indemnización podrá impugnarlo ante el Tribunal de lo Contencioso Administrativo.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ###### Artículo 43.
 
-La resolución de extinción de la concesión se publicará en el Periódico Oficial del Gobierno del Estado y en los de mayor circulación en la Entidad.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ### CAPITULO TERCERO. ASIGNACION DE LOS BIENES INMUEBLES DEL DOMINIO PUBLICO
 
@@ -642,3 +538,13 @@ LIC. RAMON MARTIN HUERTA.
 EL SECRETARIO DE GOBIERNO
 
 LIC. ANTONIO OBREGON PADILLA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2002.
+
+Artículo Primero.- La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Titular del Poder Ejecutivo del Estado deberá emitir el Reglamento de esta Ley dentro de los noventa días naturales siguientes a la entrada en vigor de la misma.
+
+Artículo Tercero.- Se deroga el Capítulo Segundo, del Título Tercero, que contiene los artículos del 27 al 43 de la Ley del Patrimonio Inmobiliario del Estado.
