@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "1977-12-31"
+last_updated: "1985-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE JUNIO DE 1985.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -2603,161 +2603,87 @@ La vigilancia del recluído estará a cargo del órgano que designe el Ejecutivo
 
 ###### ARTICULO 451.
 
-Los tribunales para menores serán competentes para conocer de las infracciones a las leyes penales del Estado, cometidas por menores de dieciséis años.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 452.
 
-Los Consejos de Vigilancia tendrán a su cargo:
-
-I.- Vigilar que se dé cumplimiento a las resoluciones que el tribunal dicte respecto de un menor;
-
-II.- Visitar periódicamente los establecimientos en los que se hubiere recluído a los menores y recabar en ellos informes sobre su conducta. Su aprovechamiento y las señales que den de enmienda;
-
-III.- Observar a los menores que estuvieren en libertad vigilada y los que se les haya impuesto determinadas normas de conducta, extendiendo su observancia a las condiciones morales y pecuniarias de los padres del menor y el medio en que viven;
-
-IV.- Informar periódicamente al tribunal del resultado de vigilancia y de sus observaciones, proponiéndole las medidas que estimen necesarias;
-
-V.- Solicitar del tribunal que modifique las medidas adoptadas respecto a un menor o que decrete su libertad, cuando a su juicio haya modificado favorablemente su conducta y demostrado su enmienda efectiva; y
-
-VI.- Aconsejar y ayudar a los menores que hayan sido libertados por el tribunal, a fin de que obtengan un trabajo honesto que los aparte definitivamente del delito.
-
-Para los efectos de este artículo, el Presidente del Consejo designará en cada caso a aquel de sus miembros que deba representarlo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 453.
 
-Si el delito se cometiere por mayores de dieciséis años, y por menores, conocerá de él, y por lo que respecta a los primeros el tribunal penal correspondiente, y por lo que toca a los segundos, el de menores, debiendo una y otro remitirse copia de lo actuado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 454.
 
-La ley deja al recto criterio y a la prudencia de los tribunales para menores, la forma de investigar las infracciones penales imputadas a un menor de dieciséis años y la de estudiar la personalidad de éste, sin necesidad de sujetarse a procedimiento alguno similar al judicial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 455.
 
-La base del procedimiento que deberán seguir los tribunales para menores será el estudio del acto ejecutado por el menor y la observación de éste bajo sus aspectos social, médico, psicológico y pedagógico, a fin de determinar sus condiciones físicas y mentales, su educación e instrucción, si ha estado física o moralmente abandonado, si es pervertido o está en peligro de serlo, y determinar las medidas a que debe ser sometido para su educación y enmienda.
-
-El tribunal podrá acordar que el menor disfrute condicionalmente de libertad, siempre que hubiere demostrado su enmienda efectiva. Durante esa libertad, el órgano del Ejecutivo encargado de la ejecución de las sentencias cuidará del sostenimiento, educación y vigilancia del menor, cuando fuere necesario y de acuerdo con las normas fijadas por el tribunal.
-
-Si dentro de un año, a contar de la libertad, infringiere el menor las reglas de conducta impuestas o si de cualquier modo abusare de su libertad, el Consejo de Vigilancia lo pondrá en conocimiento del tribunal para que éste, previo el estudio del caso, ordene el reingreso de aquél al establecimiento correccional o determine la medida que deba aplicarse. En caso contrario, la libertad será definitiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 456.
 
-Tan luego como un menor de dieciséis años sea puesto a disposición del tribunal, el Presidente de éste, sin intervención del representante del Ministerio Público, procederá a practicar respecto al menor una investigación de carácter social, y ordenará que el juez médico y el juez maestro, respectivamente, estudien la personalidad de dicho menor bajo el punto de vista de médico y psico-pedagógico, y le rindan el informe correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 457.
 
-La investigación social deberá aportar los siguientes datos relacionados con el menor:
-
-I.- Sus generales y biografía;
-
-II.- Procedencia;
-
-III.- Causa de ingreso;
-
-IV.- Si realmente ejecutó el hecho que se le imputa y la forma en que lo hizo;
-
-V.- Si obró por propia voluntad o influído, aconsejado o ayudado por otras personas y quiénes son éstas, así como los datos que puedan servir para identificarlas;
-
-VI.- Conducta;
-
-VII.- Medio familiar y extrafamiliar; y
-
-VIII.- Diagnóstico.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 458.
 
-El informe que rinda el juez médico deberá contener los siguientes datos sobre el menor:
-
-I.- Antecedentes patológicos hereditarios;
-
-II.- Antecedentes patológicos personales;
-
-III.- Estado actual;
-
-IV.- Datos antropométricos o interpretación de ellos;
-
-V.- Diagnóstico;
-
-VI.- Pronóstico; y
-
-VII.- Indicaciones higiénicas y terapéuticas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 459.
 
-El informe psico-pedagógico contendrá los siguientes datos en relación con el menor:
-
-I.- Estudio cuantitativo de su inteligencia o sea su desenvolvimiento mental;
-
-II.- Estudio de sus aptitudes mentales;
-
-III.- Aptitudes especiales;
-
-IV.- Estudio de sus instintos afectivos y sus voliciones;
-
-V.- Carácter y conducta;
-
-VI.- Historia escolar;
-
-VII.- Normalidad, insuficiencia o carencia de estudios escolares;
-
-VIII.- Coeficiente de aprovechamiento;
-
-IX.- Causas que hayan influído en su insuficiencia o carencia de estudios escolares o en su retraso pedagógico; y
-
-X.- Educación vocacional.
-
-Cuando el juez maestro no pudiese por sí solo hacer el estudio psico-pedagógico, coadyuvarán con el los otros dos miembros del tribunal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 460.
 
-Concluído el estudio integral de la personalidad del menor, el Presidente del tribunal citará a una audiencia en la que reunidos los tres miembros determinarán, de acuerdo con el artículo 113 del Código Penal, las medidas que deban adoptarse en el caso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 461.
 
-Las resoluciones de los tribunales para menores relatarán sucintamente los hechos que las funden y expresarán con toda claridad las medidas que deban adoptarse respecto al menor, y en su caso, las normas de conducta a que será sujetado éste o el tratamiento a que deberá ser sometido. En contra de estas resoluciones no procede ningún recurso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 462.
 
-Siempre que las medidas adoptadas por el tribunal impliquen corrección, tratamiento, norma de conducta o vigilancia del menor, se remitirá copia de la resolución al Consejo de Vigilancia, a fin de que uno de sus miembros cuide de que se dé cumplimiento a tales medidas e informe periódicamente al tribunal.
-
-Cuando las medidas adoptadas consistan en reclusión en establecimientos educacionales, correccionales o de educación técnica, el tribunal remitirá al director de él copia de la resolución dictada y de los estudios practicados, a fin de que, de acuerdo con las indicaciones de estos, se oriente la vida del menor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 463.
 
-Si el estado del menor exigiere un tratamiento especial por ser enfermo mental, ciego, sordomudo, alcohólico o toxicómano, podrá el tribunal entregarlo a su familia o a una familia digna de confianza, siempre que se garantice ampliamente que se le someterá al tratamiento indicado, proporcionándole copia de los estudios que se hayan hecho acerca del menor. En caso contrario ordenará su ingreso a un establecimiento adecuado de Beneficencia local, o federal, si esto último fuere posible, remitiéndole copia de la resolución y de los estudios mencionados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 464.
 
-Si la medida adoptada fuere la de reclusión en un establecimiento que no exista en el lugar, podrá ser enviado al lugar más próximo que cuente con el establecimiento indicado por el tribunal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 465.
 
-Los tribunales para menores podrán variar sus resoluciones substituyendo la medida que hubieren dictado, por otra de las enumeradas en el artículo 113 del Código Penal, cuando las circunstancias del caso lo amerite.
-
-A propuesta de los Consejos de Vigilancia, también podrán suspender la duración de la reclusión y fijar un término de prueba de seis meses a un año, cuando el carácter del menor y su anterior conducta den esperanzas de que esta medida lo enmendará y lo apartará de la comisión de nuevos delitos. Si durante el período de prueba el menor quebrantare las reglas de conducta impuesta por el tribunal, o si de cualquier modo faltare a la confianza en él depositada se hará efectiva la reclusión; en caso contrario, se tendrá por no impuesta.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 466.
 
-En los casos de que un menor de doce años que no este pervertido se encuentre moralmente abandonado, el tribunal ordenará su ingreso a un establecimiento de educación de la Beneficencia local o federal, si esto último es posible.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 467.
 
-El Consejo de Vigilancia cuidará que los infractores menores de dieciséis años se encuentren siempre separados de los delincuentes adultos y en un lugar donde puedan ser observados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 468.
 
-Siempre que de la averiguación practicada respecto de un menor aparezca que fue influído, aconsejado o ayudado para que cometiera la infracción por uno o varios adultos el tribunal hará compulsa de todas las constancias relativas y remitirá el testimonio al representante del Ministerio Público que corresponda, a efecto de que este funcionario proceda de acuerdo con sus atribuciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 469.
 
-No será obstáculo para que un tribunal de menores continúe el procedimiento iniciado, el hecho del que el menor cumpla dieciséis años, debiendo seguir conociendo del caso hasta que se imponga la medida que sea procedente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 470.
 
-En el caso del segundo párrafo del artículo 115 del Código Penal, el jefe de la prisión a donde haya sido trasladado el menor que hubiere cumplido dieciséis años, deberá informar periódicamente y cuantas veces lo solicite el tribunal para menores o el Consejo de Vigilancia respectivos (sic), acerca de la conducta y demás particularidades; que observe en el menor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 ###### ARTICULO 471.
 
-El Ministerio Público no tendrá intervención alguna en los procedimientos de los tribunales para menores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA, B.O. 3 DE JUNIO DE 1985)
 
 TITULO DECIMOTERCERO
 
@@ -3168,3 +3094,29 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín O
 B.O. 31 DE DICIEMBRE DE 1977.
 
 UNICO.- La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 3 DE JUNIO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor treinta días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los Artículos 113, 114 y 115 del Código Penal para el Estado de Sonora, los Artículos del 451 al 471 del Código de Procedimientos Penales para el Estado de Sonora. Asimismo, se derogan la fracción III del Artículo 1o.; la fracción VI del Artículo 69 y los Artículos 84, 85, 86, 87, 88 y 89 de la Ley Orgánica del Poder Judicial del Estado de Sonora.
+
+###### ARTICULO TERCERO.
+
+Se abrogan la Ley Número 34 BIS que crea el Centro Regional de Readaptación para Menores del Sur del Estado, publicada en el Boletín Oficial del Gobierno del Estado con el número 10 de fecha 1o. de febrero de 1975, Tomo CXV, y la Ley Número 60 que crea el Centro de Readaptación para Menores del Norte del Estado, publicada en el Boletín Oficial del Gobierno del Estado con el número 25 de fecha 29 de marzo de 1978, Tomo CXXI, respectivamente.
+
+###### ARTICULO CUARTO.
+
+Se sujetarán a las previsiones de esta Ley, los procedimientos que se encuentren en trámite ante el Tribunal para Menores al construirse el Consejo Tutelar, los cuales se suspenderán y se remitirán a éste con todas las constancias respectivas. Igual circunstancia regirá respecto de las medidas que el Tribunal hubiere impuesto y que se hallen en proceso de ejecución.
+
+###### ARTICULO QUINTO.
+
+Una vez que la presente Ley entre en vigor, los Centros de Readaptación para Menores del Norte y del Sur del Estado, cuyas leyes se abrogan, se sujetarán al contenido del Título Cuarto de esta Ley. Funcionarán según lo dispuesto en dicho Título y se incorporarán al Consejo Tutelar para Menores y sus relaciones de trabajo se regirán por la Ley del Servicio Civil.
+
+###### ARTICULO SEXTO.
+
+Los Consejeros que se nombren al entrar en vigor la presente Ley, en los términos del Artículo 24, durarán en su cargo hasta el 13 de septiembre de 1985.
