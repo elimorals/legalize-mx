@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-2-1999-que-crea-la-unidad-de-gestion-410
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-02-16"
-last_updated: "1999-02-16"
+last_updated: "2000-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41027&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-02-11"
 
 ACUERDO GENERAL NUMERO 2/1999, POR EL QUE SE CREA LA UNIDAD DE GESTION Y DICTAMEN DE CUMPLIMIENTO DE SENTENCIAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO NUMERO 5/2000, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 4 DE JULIO DE 2000, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA PRIMERA SECCION DEL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 16 de febrero de 1999.
 
@@ -74,3 +76,11 @@ PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo General número 2/1999, que crea la Unidad de Gestión y Dictamen de Cumplimiento de Sentencias fue emitido por el Tribunal Pleno en sesión privada de once de febrero de mil novecientos noventa y nueve, por unanimidad de ocho votos de los señores Ministros: Presidente Genaro David Góngora Pimentel, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, José de Jesús Gudiño Pelayo, Olga María Sánchez Cordero y Juan N. Silva Meza.- México, Distrito Federal, a once de febrero de mil novecientos noventa y nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 4 DE JULIO DE 2000.
+
+PRIMERO. Este Acuerdo entrará en vigor el primero de agosto de dos mil.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
