@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2000-07-15"
+last_updated: "2001-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -1167,17 +1167,27 @@ Asimismo, el gobierno del Estado y los ayuntamientos podrán celebrar convenios 
 
 T R A N S I T O R I O S
 
-Primero. El Congreso del Estado y el Poder Ejecutivo deberán promover las iniciativas necesarias a efecto de adecuar a las leyes administrativas donde se defina un procedimiento administrativo conforme a las disposiciones del presente ordenamiento, en el plazo de un año a partir de la vigencia del presente decreto.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2001)</small>
 
-Segundo. El Ejecutivo del Estado deberá proveer dentro de su esfera administrativa, la adecuación de los reglamentos donde se prevea algún procedimiento administrativo, en los términos que se establezcan en las leyes estatales.
+Primero. El presente decreto entrará en vigor, el día siguiente de su publicación en el Diario Oficial "El Estado de Jalisco".
 
-Tercero. Los Gobiernos Municipales deberán expedir, reformar o adicionar sus reglamentos, a fin de conformar sus procedimientos administrativos a las disposiciones de esta Ley.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2001)</small>
 
-Cuarto. Las leyes y reglamentos que se expidan en cumplimiento a lo dispuesto en el artículo primero transitorio, precisarán los términos de vigencia y derogación simultáneas de esos ordenamientos y las disposiciones de esta Ley, en sus respectivas materias.
+Segundo. La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios, entrará en vigor en forma simultánea para las leyes y reglamentos que se adecuen en cumplimiento de lo establecido en los transitorios tercero y cuarto del presente decreto, en el plazo y los términos que para estos se establezcan.
 
-Quinto. La presente ley entrará en vigor, en relación con las leyes administrativas que se indican en el artículo 2 de la presente ley, a más tardar al año siguiente de su publicación, en el periódico oficial "El Estado de Jalisco".
+Para la generalidad de las leyes y reglamentos que no hayan sido adecuados conforme a los transitorios tercero y cuarto, esta ley entrará en vigor a partir del 22 de mayo de 2001.
 
-Sexto. Quedarán derogados todas las disposiciones administrativas que se opongan al presente ordenamiento.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2001)</small>
+
+Tercero. El Congreso del Estado y el Poder Ejecutivo deberán promover las iniciativas necesarias a efecto de adecuar las leyes administrativas, conforme a las disposiciones del presente ordenamiento, antes del 22 de mayo del 2001.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2001)</small>
+
+Cuarto. Los Gobiernos Municipales, deberán expedir, reformar, o adicionar sus reglamentos a fin de conformar sus procedimientos administrativos a las disposiciones de esta Ley, antes del 22 de mayo del 2001.
+
+Quinto. (DEROGADO, P.O. 6 DE FEBRERO DE 2001)
+
+Sexto. (DEROGADO, P.O. 6 DE FEBRERO DE 2001)
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -1206,3 +1216,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE FEBRERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
