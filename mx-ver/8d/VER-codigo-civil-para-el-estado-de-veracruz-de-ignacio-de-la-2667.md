@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1992-04-04"
+last_updated: "1997-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1997.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -583,17 +583,13 @@ ARTICULO 104
 
 Los cónyuges mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesiten el consentimiento del otro cónyuge; salvo lo que se estipule en las capitulaciones matrimoniales sobre la administración de los bienes y en aquellos para lo que estén impedidos de acuerdo con la Ley.
 
+> <small>(DEROGADO, G.O. 1 DE FEBRERO DE 1997)</small>
+
 ARTICULO 105
 
-Los cónyuges necesitan autorización judicial para contratar entre sí, excepto cuando el contrato que celebren sea el de mandato.
+> <small>(DEROGADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 106
-
-En los asuntos que sean del interés exclusivo de uno de los cónyuges, se requiere autorización judicial para que el otro pueda ser fiador de aquél, o para que se obligue solidariamente con el interesado.
-
-La autorización no se concederá ni en este caso, ni el del artículo anterior cuando notoriamente resulten perjudicados los intereses de la familia.
-
-Ninguno de los cónyuges necesita autorización judicial para otorgar fianza a fin de que el otro obtenga su libertad.
 
 ARTICULO 107
 
@@ -1009,9 +1005,13 @@ La sociedad conyugal se regirá por las capitulaciones matrimoniales que la cons
 
 A falta de capitulaciones, en el caso de presunción legal de la sociedad conyugal a que se refiere la parte final del artículo 166, ésta se regirá por los preceptos relativos de la sociedad o la copropiedad, en cuanto le sean aplicables, y en tanto los cónyuges no otorgan capitulaciones que fijen en definitiva y a su arbitrio el régimen de sociedad o el de separación de bienes.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
+
 ARTICULO 172
 
-La sociedad conyugal nace al celebrarse el matrimonio o durante él. Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
+La sociedad conyugal nace al celebrarse el matrimonio o durante él y comprenderá los bienes que adquieran los cónyuges a partir de la celebración del matrimonio y los adquiridos con anterioridad, si se aportan expresamente a ella.
+
+Salvo pacto en contrario, que conste en capitulaciones matrimoniales debidamente inscritas en el Registro Público, la sociedad no comprenderá los bienes que cada cónyuge adquiera por herencia, legado o donación de cualquier especie, los cuales serán de su exclusiva propiedad.
 
 ARTICULO 173
 
@@ -1073,9 +1073,11 @@ ARTICULO 181
 
 No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
+
 ARTICULO 182
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad.
+El dominio de los bienes y la titularidad de los derechos adquiridos de tercero simultáneamente por ambos cónyuges, son comunes y no podrán ser objeto de división mientras subsista la sociedad. Tampoco estos bienes o derechos podrá enajenarlos ninguno de los cónyuges sin la intervención del otro.
 
 ARTICULO 183
 
@@ -4297,7 +4299,7 @@ XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y tele
 
 ARTICULO 793
 
-Los bienes muebles por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles, cuando el mismo dueño los separe del edificio; salvo el caso de que en el valor de éste se haya considerado el de aquéllos para constituír algún derecho real a favor de un tercero.
+Los bienes muebles por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles, cuando el mismo dueño los separe del edificio; salvo el caso de que en el valor de éste se haya considerado el de aquéllos para constituir algún derecho real a favor de un tercero.
 
 ###### ARTICULO 760
 
@@ -7517,9 +7519,11 @@ VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o her
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
+
 ARTICULO 1436
 
-Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el notario, dos intérpretes nombrados por el mismo testador.
+Cuando el testador ignore el idioma del país, concurrirá al acto y firmará el testamento junto con un intérprete designado por el mismo testador.
 
 ARTICULO 1437
 
@@ -7551,49 +7555,63 @@ Si los interesados están ausentes o son desconocidos, la noticia se dará al ju
 
 ### CAPITULO II. Del testamento público abierto
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
+
 ARTICULO 1444
 
-Testamento público abierto, es el que se otorga ante notario y tres testigos, incluyendo en este número a los instrumentales.
+Testamento público abierto es el que se otorga ante notario.
+
+A petición del testador podrán intervenir dos testigos.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1445
 
-El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos, en su caso. El notario redactará las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmará el instrumento, asentándose el lugar, año, mes, día y hora en que hubiese sido otorgado.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1446
 
-Si alguno de los testigos no supiere escribir, firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
+Si uno de los testigos no pudiese o no supiese escribir, firmará el otro por él, lo que hará constar el notario.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1447
 
-Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, que firme a su ruego.
+Si el testador no puede o no sabe escribir, imprimirá las huellas de sus dedos pulgares y firmará a su ruego la persona que al efecto elija. Si le faltare uno de los pulgares, bastará la huella del restante, y si le faltaren ambos, bastará la firma de la persona que hubiere designado y la certificación que sobre el particular haga el notario.
+
+> <small>(DEROGADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1448
-
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose contar esta circunstancia.
 
 ARTICULO 1449
 
 El que fuere enteramente sordo; pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
+
 ARTICULO 1450
 
-Cuando sea ciego el testador, se dará lectura al testamento dos veces: una por el notario, como está prescrito en el artículo 1445, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+Cuando sea ciego el testador se dará lectura al testamento dos veces: una por el notario, como está prescrito en el artículo 1445, y otra en igual forma por la persona que el testador designe, la que firmará a su ruego y encargo, observándose las formalidades que señala el artículo 1447.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1451
 
-Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1436. La traducción se transcribirá como testamento en el protocolo respectivo y el original se archivará en el Apéndice correspondiente del notario que intervenga en el acto.
+Cuando el testador ignore el idioma del país, redactará el testamento en su propio idioma, que será traducido al español por el intérprete a que se refiere el artículo 1436. La traducción se transcribirá como testamento en el protocolo y el original se archivará en el apéndice.
 
-Si el testador no puede o no sabe escribir uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
+Si el testador no puede o no sabe escribir, el intérprete escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por el intérprete que debe concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior. Si el testador sabe firmar lo hará, en caso contrario, imprimirá las huellas de sus dedos pulgares y firmará a su ruego la persona que al efecto elija, con las formalidades que señala el artículo 1447.
 
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+Si el testador no puede o no sabe leer, dictará en su idioma el testamento al intérprete. Traducido por éste, se procederá como dispone el párrafo anterior.
+
+> <small>(DEROGADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1452
 
-Las formalidades se practicarán acto continuo y el notario dará fe de haberse llenado todas.
+> <small>(DEROGADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1453
-
-Faltando alguna de las referidas solemnidades quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
 ### CAPITULO III. Testamento notarial cerrado
 
@@ -7605,45 +7623,57 @@ ARTICULO 1455
 
 El testador debe rubricar todas las hojas y firmar al calce del testamento; pero si no supiere o no pudiere hacerlo, podrá rubricar y firmar por él otra persona a su ruego.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
+
 ARTICULO 1456
 
-En el caso del artículo que precede, la persona que haya rubricado y firmado por el testador, concurrirá con él a la presentación del pliego cerrado; en este acto, el testador declarará que aquella persona rubricó y firmó en su nombre y ésta firmará en la cubierta con los testigos y el notario.
+En el caso del artículo que precede, la persona que haya rubricado y firmado por el testador, concurrirá con él a la presentación del pliego cerrado; en este acto, el testador declarará que aquella persona rubricó y firmó en su nombre y firmará en la cubierta con el notario.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1457
 
-El papel en que esté escrito el testamento o el que le sirva de cubierta, deberá estar cerrado y sellado, o lo hará cerrar y sellar el testador en el acto del otorgamiento, y lo exhibirá al notario en presencia de tres testigos, incluyendo en este número a los instrumentales.
+El papel en que esté escrito el testamento o el que le sirva de cubierta se depositará en un sobre que lo hará cerrar y sellar el testador en el acto del otorgamiento y lo exhibirá al notario.
 
 ARTICULO 1458
 
 El testador, al hacer la presentación, declarará que en aquel pliego está contenida su última voluntad.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
+
 ARTICULO 1459
 
-El notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, que llevará las estampillas del timbre correspondientes, y deberá ser firmada por el testador, los testigos y el notario, quien, además, pondrá su sello.
+El notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento y deberá ser firmada por el testador y el notario, quien, además, pondrá su sello.
+
+> <small>(DEROGADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1460
 
-Si alguno de los testigos no supiere firmar, se llamará a otra persona que lo haga en su nombre y su presencia, de modo que siempre haya tres firmas.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1461
 
-Si al hacer la presentación del testamento no pudiere firmar el testador, lo hará otra persona en su nombre y en su presencia, no debiendo hacerlo ninguno de los testigos.
+Si al hacer la presentación del testamento no pudiere firmar el testador, lo hará otra persona en su nombre y en su presencia, observándose las formalidades del artículo 1447.
+
+> <small>(DEROGADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1462
-
-Sólo en casos de suma urgencia podrá firmar uno de los testigos, ya sea por el que no sepa hacerlo, ya por el testador. El notario hará constar expresamente esta circunstancia, bajo la pena de suspensión de oficio por tres años.
 
 ARTICULO 1463
 
 Los que no saben o no pueden leer, son inhábiles para hacer testamento cerrado.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
+
 ARTICULO 1464
 
-El sordomudo podrá hacer testamento cerrado con tal que esté todo él escrito, fechado y firmado de su propia mano, y que al presentarlo al notario ante cinco testigos, escriba a presencia de todos sobre la cubierta que en aquel pliego se contiene su última voluntad, y va escrita y firmada por él. El notario declarará en el acta de la cubierta que el testador lo escribió así, observándose, además, lo dispuesto en los artículos 1457, 1459 y 1460.
+El sordomudo podrá hacer testamento cerrado con tal que esté todo el escrito, fechado y firmado de su propia mano, y que al presentarlo al notario escriba en su presencia sobre la cubierta que en aquel pliego se contiene su última voluntad, y va escrita y firmada por él. El notario declarará en el acta de la cubierta que el testador lo escribió así, observándose, además, lo dispuesto en los artículos 1457 y 1459.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1465
 
-En el caso del artículo anterior, si el testador no puede firmar la cubierta, se observará lo dispuesto en los artículos 1461 y 1462 dando fe el notario de la elección que el testador haga de uno de los testigos para que firme por él.
+En el caso del artículo anterior, si el testador no puede firmar la cubierta, se observará lo dispuesto en el artículo 1461.
 
 ARTICULO 1466
 
@@ -7681,21 +7711,27 @@ ARTICULO 1474
 
 El poder para la entrega y para la extracción del testamento, debe otorgarse en escritura pública, y esta circunstancia se hará constar en la nota respectiva.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
+
 ARTICULO 1475
 
-Luego que el juez reciba un testamento cerrado, hará comparecer al notario y a los testigos que concurrieron a su otorgamiento.
+Luego que el juez reciba un testamento cerrado, hará comparecer al notario que concurrió a su otorgamiento.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1476
 
-El testamento cerrado no podrá ser abierto sino después de que el notario y los testigos instrumentales hayan reconocido ante el juez sus firmas, y la del testador o la de la persona que por éste hubiere firmado, y hayan declarado si en su concepto está cerrado y sellado como lo estaba en el acto de la entrega.
+El testamento cerrado no podrá ser abierto sino después de que el notario haya reconocido ante el juez su firma y la del testador o la de la persona que por éste hubiere firmado, y haya declarado si en su concepto está cerrado y sellado como lo estaba en el acto de la entrega.
+
+> <small>(DEROGADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1477
 
-Si no pudieren comparecer todos los testigos por muerte, enfermedad o ausencia, bastará el reconocimiento de la mayor parte y el del notario.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1478
 
-Si por iguales causas no pudieren comparecer el notario, la mayor parte de los testigos o ninguno de ellos, el juez lo hará constar así por información, como también la legitimidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar en que éste se otorgó.
+Si no pudiere comparecer el notario por muerte, enfermedad o ausencia, el juez lo hará constar así por información, como también la legitimidad de las firmas y que en la fecha que lleva el testamento se encontraba aquel en el lugar en que éste se otorgó.
 
 ARTICULO 1479
 
@@ -15047,13 +15083,21 @@ ARTICULO 2950
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, G.O. 28 DE ENERO DE 1965)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 2951
 
-Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el Notario que la autorice dará al Registro un aviso en el que conste la finca de que se trata, la indicación de que se ha transmitido o modificado su dominio o se ha constituído transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El Registrador, con el aviso del Notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro de los noventa días siguientes a la fecha en que se hubiere firmado la escritura, se presentare el testimonio respectivo, su inscripción surtirá efectos contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+Cuando alguna persona tenga interés en celebrar un acto jurídico por medio del cual declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o sin serle, sea inscribible, y dicho acto jurídico para su validez deba constar en escritura pública, el notario ante quien vaya a formalizarse, solicitará a la oficina del Registro Público de la Propiedad en el que se halle inscrito el bien o el derecho de que se trate, información sobre la situación jurídica vigente que aquél o éste guardan. En su solicitud el notario describirá el inmueble y su antecedente registral, mencionará a su titular y el negocio jurídico propalado. El registrador con esta solicitud que tendrá efectos de primer aviso preventivo y sin cobro de derechos por este concepto, procederá inmediatamente a:
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, las Autoridades de que habla la fracción III, del artículo 2944 y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
+a) Practicar un asiento al margen del antecedente registral de que se trate, estableciendo con ello la prelación registral de la pretendida operación jurídica y;
+
+b) Expedir al notario un certificado con los datos que solicitó, en el cual determinará la existencia o inexistencia de gravámenes, cargas y limitaciones de dominio que reporte el inmueble, aun las que, en su caso, estuviesen en trámite e incluirá la anotación marginal a que se refiere el inciso a) de este artículo.
+
+Los asientos que se practiquen y los certificados que se expidan conforme a los incisos anteriores, caducarán a los treinta días naturales a contar desde la fecha en que produjo efectos de prelación la solicitud del notario, a menos que el pretendido acto jurídico se hubiese formalizado dentro de su vigencia y el notario así lo comunique una vez autorizada su escritura mediante un segundo aviso preventivo que presentará a la misma oficina registradora, en el que consten los datos mencionados en el primer párrafo de este artículo, los nombres de los otorgantes, el número y fecha de la escritura y la de su autorización. El registrador con este segundo aviso y sin cobro de derecho alguno, practicará al margen del mismo antecedente registral, un nuevo y diverso asiento que tendrá vigencia noventa días naturales a contar desde la fecha de autorización de la escritura y sus efectos de prelación registral se retrotraerán a la fecha de presentación de la solicitud de información a la oficina registradora; pero si cuando fuere presentado el segundo aviso ya caducó el asiento practicado con motivo del primer aviso o éste nunca fue presentado por el notario, el nuevo asiento sólo producirá efectos de prelación contra terceros únicamente desde la hora y fecha de su presentación.
+
+Si el primer testimonio de la escritura autorizada por el notario, se presentase a la oficina registradora dentro de la vigencia del segundo asiento, la inscripción definitiva producirá efectos contra terceros desde la fecha en que, con arreglo a lo previsto en el párrafo precedente, debió ser efectiva su prelación registral. De haber caducado el segundo asiento o si éste nunca lo practicó el registrador porque el notario no presentó el aviso respectivo, la inscripción definitiva sólo surtirá efectos desde la fecha de presentación del primer testimonio en la correspondiente oficina registradora.
+
+Si el documento en que conste alguna de las operaciones mencionadas en el párrafo primero de este artículo fuere privado, el notario, la autoridad judicial o administrativa o el registrador ante quien se hubiesen certificado las firmas de los interesados en el acto jurídico en cuestión, sólo deberá dar el aviso preventivo a que se refiere el segundo párrafo de este artículo, el cual surtirá los mismos efectos allí previstos.
 
 ARTICULO 2952
 
@@ -15604,3 +15648,9 @@ Se derogan todas las disposiciones que se opongan al presente.
 ###### ARTICULO TERCERO.
 
 Los cónyuges que al momento de entrar en vigor el presente ordenamiento, hayan estado separados por más de dos años, si la separación continúa por un año, contado a partir de la fecha de iniciación de vigencia del mismo podrán pedir el divorcio con base en la causal que se adiciona en la fracción XVII del artículo 141 de este Código.
+
+G.O. 1 DE FEBRERO DE 1997.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente ley.
