@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2000-10-06"
+last_updated: "2001-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -243,7 +243,9 @@ Los derechos de ciudadanos se pierden y suspenden, respectivamente, en los casos
 
 ## TITULO SEGUNDO
 
-### CAPITULO UNICO.. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE ABRIL DE 2001)</small>
+
+### CAPITULO UNICO.. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 11.
 
@@ -254,6 +256,14 @@ El Gobierno del Estado se divide, para su ejercicio, en tres poderes: el Legisla
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
 
 Corresponde al Gobierno del Estado la rectoría del desarrollo estatal, garantizando que éste sea integral y sustentable, asegurando de manera simultánea, el crecimiento económico, la equidad y la sustentabilidad ambiental.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+
+El Municipio es el orden de gobierno representativo de la voluntad de los ciudadanos.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+
+Las relaciones entre el Municipio y el Gobierno del Estado, se conducirán por los principios de subsidiariedad y equidad, en los términos de esta Constitución, con el propósito de lograr el desarrollo social y humano tendientes a mejorar la calidad de vida de los habitantes del Estado.
 
 ### CAPITULO I.. DEL PODER LEGISLATIVO
 
@@ -465,7 +475,9 @@ Los diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 Son facultades del Congreso:
 
-I.- Legislar sobre todos los ramos de la Administración que sean de la competencia del Estado y reformar, abrogar y derogar las leyes y decretos que expidieren, así como participar en las reformas a esta Constitución, observando para el caso los requisitos establecidos;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
+
+I.- Legislar sobre todos los ramos que sean de la competencia del Estado y reformar, abrogar y derogar las leyes y decretos que expidieren, así como participar en las reformas a esta Constitución, observando para el caso los requisitos establecidos;
 
 II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como proponer la reforma o derogación de unas y de otras;
 
@@ -541,9 +553,9 @@ Conocer de las imputaciones que se hagan a los servidores públicos a que se ref
 
 XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
 
-XXVI.- Fijar y modificar la extensión del territorio que corresponda a los municipios, por voto de las dos terceras partes de los Diputados presentes. Con esa misma mayoría, suprimir o crear nuevos municipios, previa consulta que se haga a los ciudadanos residentes en ellos mediante Plebiscito, y tomando en cuenta los factores geográficos, demográficos y socioeconómicos de la región;
+XXVI.- Crear o suprimir municipios, en los términos de esta Constitución, así como fijar y modificar la extensión de sus territorios, por el voto de las dos terceras partes de los Diputados integrantes del Congreso;
 
 XXVII.- Conceder amnistía por delitos de carácter político de la competencia de los tribunales del Estado, cuando la pena no exceda de tres años de prisión, no se trate de reincidentes y siempre que sea acordada por dos tercias partes de los diputados presentes;
 
@@ -563,9 +575,13 @@ XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Munici
 
 XXXII.- Nombrar al Procurador General de Justicia del Estado, por el voto de las dos terceras partes de sus integrantes, en los términos de esta Constitución;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2001)</small>
+
+XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y
+
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1998)</small>
 
-XXXIII.- Formar su reglamento interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado.
+XXXIV.- Formar su reglamento interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado.
 
 ### CAPITULO IV.. DE LA COMISION PERMANENTE
 
@@ -603,11 +619,17 @@ II.- Discusión;
 
 III.- Votación.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DEL 2001)</small>
+
 ###### ARTICULO 30.
 
-Se anunciará al Ejecutivo con cinco días de anticipación cuando haya de discutirse un proyecto, a fin de que pueda enviar al Congreso, si lo juzga conveniente, un orador que, sin voto, tome parte en los debates. En los mismos términos se mandará anuncio al Tribunal Superior de Justicia, cuando la iniciativa se refiera a asuntos relativos a la organización y funcionamiento del ramo de Justicia.
+Las comisiones de dictamen legislativo anunciarán al Ejecutivo del Estado, cuando menos con cinco días de anticipación, la fecha de la sesión cuando haya de discutirse un proyecto, a fin de que pueda enviar un representante que, sin voto tome parte en los trabajos.
 
-Los Ayuntamientos al mandar su iniciativa podrán designar su orador.
+El mismo procedimiento se seguirá con:
+
+I.- El Poder Judicial, cuando la iniciativa se refiere a asuntos relativos a la organización, funcionamiento y competencia del ramo de la Administración de Justicia; y
+
+II.- Los ayuntamientos, cuando la Iniciativa se refiera a los asuntos de carácter municipal, en los términos de esta Constitución.
 
 ###### ARTICULO 31.
 
@@ -927,13 +949,17 @@ Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del 
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 1988)</small>
 
-### CAPITULO UNICO.. DE LOS MUNICIPIOS
+### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 55.
 
 La función jurisdiccional para resolver controversias de carácter administrativo y fiscal que se susciten entre los particulares y la Administración Pública Estatal o Municipal, así como entre el fisco estatal y los fiscos municipales sobre preferencia de créditos fiscales, estará a cargo del Tribunal de lo Contencioso Administrativo del Estado, que será autónomo en sus fallos e independiente de cualquier Autoridad Administrativa, dotado de plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
 
-### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
+### CAPITULO II.. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 56.
 
@@ -1005,7 +1031,7 @@ III.- Poseer el día de la designación, con antigüedad mínima de diez años, 
 
 IV.- Haber realizado por lo menos durante tres años, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación de normas jurídicas;
 
-> <small>(REFORMADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 V.- Haber residido en el Estado durante los diez años anteriores al día de su designación;
 
@@ -1027,13 +1053,13 @@ Los Magistrados Supernumerarios, cubrirán las faltas temporales de los Numerari
 
 A la falta temporal de un Magistrado del Tribunal de Justicia Electoral, se llamará al Magistrado Supernumerario conforme al orden de prelación que haya señalado el Congreso del Estado al momento de la designación. En caso de ausencia definitiva se obrará de igual forma, hasta en tanto se proceda a la elección del Magistrado Numerario. En caso de ausencias definitivas, renuncias y licencias por más de dos meses, el Pleno del Tribunal acordará que por conducto de su Presidente se haga del conocimiento del Congreso Local, para su aprobación.
 
-> <small>(REFORMADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 62.
 
 Los Jueces de Primera Instancia y de Paz que autorice la Ley Orgánica del Poder Judicial, serán electos por el Pleno del Trbunal (sic) Superior de Justicia, en los términos del artículo 63 de esta Constitución; durarán tres años en el cargo, deberán tener treinta años de edad como mínimo al día de la elección, Título profesional de Abogado o Licenciado en Derecho, debidamente registrado, cinco años de ejercicio profesional, tener residencia mínima en el Estado de cinco años anteriores al día de su designación y aprobar los exámenes psicométricos, de oposición y de méritos correspondientes; sin perjuicio de nuevas designaciones cuando se distingan en el ejercicio de sus funciones para el mejoramiento de la administración de Justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 63.
 
@@ -1071,7 +1097,7 @@ VII.- Conocer del recurso de revisión que interpongan en su defensa los jueces,
 
 VIII.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes Ordinarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 64.
 
@@ -1095,23 +1121,23 @@ El Consejo de la Judicatura se integrará por siete miembros, de los cuales uno 
 
 El Consejo funcionará en Pleno o por Comisiones, el Pleno resolverá sobre la designación, adscripción, remoción y renuncia de Magistrados, Jueces, Secretarios de Acuerdos y Actuarios del Tribunal Superior de Justicia, así como de los demás asuntos que la ley determine. Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo a partir de su nombramiento y no podrán ser nombrados para un nuevo período.
 
-> <small>(ADICIONADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 En el caso de que el Juez que forma parte del Consejo de la Judicatura, no sea ratificado, se procederá al nombramiento de otro por el procedimiento que la misma ley prevé.
 
-> <small>(REFORMADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Octavo de esta Constitución.
 
-> <small>(REFORMADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-> <small>(REFORMADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones de conformidad con lo que establezca la Ley.
 
-> <small>(REFORMADO, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 El Consejo de la Judicatura del Estado elaborará el presupuesto global del Poder Judicial, que comprenderá el del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, de los Juzgados y demás órganos judiciales, remitiéndolo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
 
@@ -1131,9 +1157,9 @@ Los Consejeros de la Judicatura, Magistrados, Jueces y demás funcionarios del P
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+### CAPITULO III.. DE LAS BASES GENERALES EN MATERIA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 68.
 
@@ -1159,7 +1185,9 @@ El Tribunal de Justicia Electoral, por conducto de su Presidente, presentará su
 
 El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
 
-### CAPITULO UNICO.. PREVENCIONES GENERALES
+### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 69.
 
@@ -1201,251 +1229,323 @@ La Defensoría de Oficio proporcionará la defensa necesaria en materia penal, a
 
 La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y deberes inherentes a su organización.
 
-## TITULO SEXTO
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
+## TITULO SEXTO. DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
+
+### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 76.
 
-El Gobierno de los Municipios se ejercerá por los Ayuntamientos que radicarán en las cabeceras de las Municipalidades.
+El Municipio es la base de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre administración de su hacienda. Su objeto consiste en organizar a la comunidad asentada en su territorio, para la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia Local, así como ejercer las funciones y prestar los servicios públicos de su competencia.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para reglamentar directa y libremente las materias de su competencia.
+
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa que radicará en la cabecera de cada municipalidad y no habrá ninguna autoridad intermedia entre éstos y el Gobierno del Estado.
+
+Para crear o suprimir un Municipio se requiere:
+
+I.- Delimitar previamente el territorio correspondiente;
+
+II.- Realizar consulta mediante plebiscito, a los ciudadanos del Municipio que se pretenda afectar;
+
+III.- Tomar en cuenta los factores geográficos, demográficos y socioeconómicos del territorio respectivo;
+
+IV.- Solicitar la opinión de los ayuntamientos afectados, la que deberá justificar la conveniencia o inconveniencia de la pretensión; y
+
+V.- Los demás requisitos que determine la Ley.
+
+En el caso de la fijación y modificación de los límites territoriales de los municipios, además de lo que establezca la Ley, se estará a lo dispuesto en las fracciones III y IV de este Artículo.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 77.
 
-Los Ayuntamientos se compondrán de munícipes, electos por el sufragio universal, libre, secreto, directo, personal e intransferible, y mediante los principios de mayoría relativa y de representación proporcional. No habrá ninguna autoridad intermedia entre estos organismos y el Gobierno del Estado.
+El Ayuntamiento es el órgano colegiado de representación popular, depositario de la competencia y atribuciones que le otorgan al Municipio la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DEL 2001)</small>
 
-### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
+### CAPITULO VI.. DE LOS CONCEJOS MUNICIPALES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 78.
 
-Los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y por Regidores de mayoría relativa y de representación proporcional, en el número que resulte de la aplicación a cada Municipio de las siguientes bases:
+Los ayuntamientos se compondrán de munícipes electos por el sufragio universal, libre, secreto, directo, personal e intransferible y mediante los principios de mayoría relativa y de representación proporcional.
 
-I.- El número de Regidores de mayoría relativa y de representación proporcional será:
+Los ayuntamientos iniciarán el ejercicio de sus funciones el día primero de diciembre que siga a su elección. Al efecto, el día inmediato anterior, se reunirán los munícipes electos, en sesión solemne con la finalidad de rendir protesta ante la comunidad e instalar los ayuntamientos.
 
-a).- Los Municipios cuya población sea menor de doscientos cincuenta mil habitantes, tendrán cinco Regidores electos según el principio de mayoría relativa y hasta cinco Regidores de representación proporcional;
+Los integrantes de los ayuntamientos durarán en su cargo tres años y no podrán ser reelectos para el período inmediato, de conformidad con lo dispuesto en el Artículo 115, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-b).- Los Municipios cuya población se encuentre en el rango comprendido de doscientos cincuenta mil a quinientos mil habitantes, tendrán siete Regidores electos según el principio de mayoría relativa y hasta seis de representación proporcional;
-
-c).- Los Municipios cuya población exceda de quinientos mil habitantes, tendrán ocho Regidores electos según el principios de mayoría relativa y hasta siete Regidores de representación proporcional;
-
-II.- Para que los partidos políticos o coaliciones tengan derecho a la asignación de Regidores por el principio de representación proporcional, deberán cumplir los siguientes requisitos:
-
-a).- Haber obtenido el registro de planilla completa de candidatos a munícipes en el Municipio que corresponda;
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-b).- Haber obtenido por lo menos el tres por ciento de la votación emitida en la elección de munícipes correspondiente; y
-
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-c).- No haber obtenido la constancia de mayoría respectiva, y
-
-III.- La asignación de Regidores mediante el principio de representación proporcional se sujetará, a lo que disponga la Ley respectiva y mediante el siguiente procedimiento:
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-a).- El Instituto Estatal Electoral determinará que partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-b).- Primeramente asignará un Regidor a cada partido político o coalición con derecho a la representación proporcional.
-
-En caso de que el número de partidos políticos sea mayor que el Regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
-
-c).- Si después de efectuada la operación indicada en el inciso anterior aún hubiera Regidurías por asignar, se realizarán las siguientes operaciones:
-
-1.- Se sumarán los votos de los partidos políticos o coaliciones con derecho a la representación proporcional, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el numeral siguiente;
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-2.- Se deberá obtener el nuevo porcentaje de cada partido político o coalición, que tenga derecho a la asignación mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político o coalición por cien, y dividiendo el resultado entre la suma de los votos de los partidos políticos o coaliciones participantes;
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-3.- Se obtendrá la expectativa de integración al Ayuntamiento de cada partido político o coalición, con derecho a ello mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el numeral anterior de cada partido político o coalición por el número de Regidurías de representación proporcional que corresponda, según la fracción I de este Artículo, dividiéndolo entre cien, y
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-4.- Se le restará de la expectativa de integración al Ayuntamiento a cada partido político o coalición, la asignación efectuada en los términos del inciso b) de esta fracción;
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-d).- Se asignará a cada partido político o coalición alternadamente, tantas Regidurías como números enteros se hayan obtenido de la operación realizada en el numeral 4 del inciso anterior;
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-e).- En caso de que aún hubieren más Regidurías por repartir, se asignarán a los partidos políticos o coaliciones que conserven los restos mayores, después de deducir las asignaciones efectuadas en el inciso anterior, y
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-f).- La asignación de las Regidurías de representación proporcional que correspondan a cada partido político o coalición, la hará el Instituto Estatal Electoral de la Lista de candidatos a Regidores que haya registrado cada partido político o coalición, en el orden que los mismos fueron registrados.
-
-Los integrantes de los Ayuntamientos contarán con sus respectivos suplentes.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-Los conceptos que señala el Artículo 15 de esta Constitución, serán aplicables para el desarrollo de la fórmula de asignación aquí prevista.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 79.
 
-Para ser miembro de un Ayuntamiento, con la salvedad de que el Presidente Municipal debe tener 25 años cumplidos el día de la elección, se requiere:
+Los ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y por regidores de mayoría relativa y de representación proporcional, en el número que resulte de la aplicación a cada Municipio de las siguientes bases:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+I.- El número de regidores de mayoría relativa y de representación proporcional será:
 
-I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.
+a).- Los municipios cuya población sean menor de doscientos cincuenta mil habitantes, tendrán cinco regidores electos según el principio de mayoría relativa y hasta cinco regidores de representación proporcional;
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+b).- Los municipios cuya población se encuentre en el rango comprendido de doscientos cincuenta mil a quinientos mil habitantes, tendrán siete regidores electos según el principio de mayoría relativa y hasta seis de representación proporcional;
 
-Aquellos ciudadanos candidatos a munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
+c).- Los municipios cuya población exceda de quinientos mil habitantes, tendrán ocho Regidores electos según el principio de mayoría relativa y hasta siete regidores de representación proporcional.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+II.- Para que los partidos políticos o coaliciones tengan derecho a la asignación de regidores por el principio de representación proporcional, deberán cumplir los siguientes requisitos:
 
-II.- Tener vecindad en el Municipio con residencia efectiva, de por lo menos diez años inmediatos anteriores al día de la elección;
+a).- Haber obtenido el registro de planilla completa de candidatos a munícipes en el Municipio que corresponda;
 
-La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección general de partido político, por motivo de estudios, o por causas ajenas a su voluntad, se tenga que residir fuera del Municipio;
+b).- Haber obtenido por lo menos el tres por ciento de la votación emitida en la elección de munícipes correspondientes; y
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+c).- No haber obtenido la constancia de mayoría respectiva, y
 
-III.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia;
+III.- La asignación de regidores mediante el principio de representación proporcional se sujetará, a lo que disponga la Ley respectiva y mediante el siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+a).- El Instituto Estatal Electoral determinará que partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
 
-IV.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, e Instituciones educativas; salvo que se separen en forma provisional noventa días antes del día de la elección.
+b).- Primeramente asignará un Regidor a cada Partido Político o coalición con derecho a la representación proporcional.
 
-No podrán ser electos miembros de un Ayuntamiento, el Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo, así como los Magistrados y Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección.
+En caso de que el número de partidos políticos sea mayor que el de regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
 
-Los Diputados Locales, Diputados y Senadores del Congreso de la Unión, los militares en servicio activo y Jefes de Policía, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección;
+c).- Si después de efectuada la operación indicada en el inciso anterior aún hubiera regidurías por asignar, se realizarán las siguientes operaciones:
 
-V.- Estar en pleno goce de sus derechos políticos.
+1.- Se sumarán los votos de los partidos políticos o coaliciones con derecho a la representación proporcional, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el numeral siguiente;
+
+2.- Se deberá obtener el nuevo porcentaje de cada Partido Político o coalición, que tenga derecho a la asignación mediante el cociente natural que se obtiene multiplicando la votación municipal de cada Partido Político o coalición por cien, y dividiendo el resultado entre la suma de los votos de los partidos políticos o coaliciones participantes;
+
+3.- Se obtendrá la expectativa de integración al Ayuntamiento de cada Partido Político o coalición, con derecho a ello mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el numeral anterior de cada Partido Político o coalición por el número de regidurías de representación proporcional que corresponda, según la fracción I de este Artículo, dividiéndolo entre cien, y
+
+4.- Se le restará de la expectativa de integración al Ayuntamiento a cada Partido Político o coalición, la asignación efectuada en los términos del inciso b) de esta fracción;
+
+d).- Se asignará a cada Partido Político o coalición alternadamente, tantas Regidurías como números enteros se hayan obtenido de la operación realizada en el numeral 4 del inciso anterior;
+
+e).- En caso de que aún hubieren más regidurías por repartir, se asignarán a los Partidos Políticos o coaliciones que conserven los restos mayores, después de deducir las asignaciones efectuadas en el inciso anterior, y
+
+f).- La asignación de las regidurías de representación proporcional que correspondan a cada Partido Político o coalición, la hará el Instituto Estatal Electoral de la lista de candidatos a Regidores que haya registrado cada Partido Político o coalición, en el orden que los mismos fueron registrados.
+
+Los integrantes de los ayuntamientos contarán con sus respectivos suplentes.
+
+Los conceptos que señala el Artículo 15 de esta Constitución, serán aplicables para el desarrollo de la fórmula de asignación aquí prevista.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 80.
 
-Los Ayuntamientos deberán instalarse en todo el Estado el día 1ro. de Diciembre que siga a su elección. Sus integrantes durarán en su cargo tres años, y de acuerdo con lo dispuesto en el artículo 115, Fracción I de la Constitución Política de los Estados Unidos Mexicanos, no podrán ser reelectos para el período inmediato.
+Para ser miembro de un Ayuntamiento, con la salvedad de que el Presidente Municipal debe tener 25 años cumplidos el día de la elección, se requiere:
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+I.- Ser ciudadano mexicano por nacimiento, hijo de madre o padre mexicanos.
+
+Aquellos ciudadanos candidatos a munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
+
+II.- Tener vecindad en el Municipio con residencia efectiva, de por lo menos diez años inmediatos anteriores al día de la elección.
+
+La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de Partido Político, por motivo de estudios, o por causas ajenas a su voluntad, se tenga que residir fuera del Municipio;
+
+III.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia;
+
+IV.- No tener empleo, cargo o comisión en el Gobierno federal, estatal o municipal, en los organismos descentralizados municipales o estatales, e instituciones educativas; salvo que se separen en forma provisional noventa días antes del día de la elección, y
+
+No podrán ser electos miembros de un Ayuntamiento, el Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo, así como los Magistrados y Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección.
+
+Los Diputados Locales, Diputados y Senadores del Congreso de la Unión, los militares en servicio activo y Jefes de Policía, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+
+### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
 
 ###### ARTICULO 81.
 
-Los Municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la Ley.
+La Ley en materia municipal deberá establecer las disposiciones generales sustantivas y adjetivas que le den un marco normativo común a los municipios, sin intervenir en las cuestiones específicas de los mismos; esta Ley tendrá por objeto;
 
-Los Ayuntamientos poseerán facultades para expedir de acuerdo con las bases normativas que deberá establecer la Legislatura del Estado los Bandos de Policía y Buen Gobierno y los Reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+I.- Establecer las bases generales bajo las cuales los ayuntamientos conducirán la administración pública municipal y a las que se sujetará el procedimiento administrativo que sus autoridades observarán para la conformación y emisión de sus actos;
 
-Los Municipios, con el concurso del Estado, cuando así fuera necesario y lo determinen las Leyes, tendrán a su cargo los siguientes servicios públicos:
+II.- Establecer las bases generales para instituir en la reglamentación municipal, los medios de impugnación y el órgano para dirimir las controversias entre la administración pública municipal y los particulares, con sujeción a los principios de igualdad, publicidad audiencia y legalidad;
 
-a).- Agua Potable y Alcantarillado;
+III.- Determinar los casos en que se requiera el voto de las dos terceras partes de los integrantes del Ayuntamiento, cuando:
 
-b).- Alumbrado Público;
+a).- Dicten resoluciones que afecten el patrimonio inmobiliario municipal; y
 
-c).- Limpia;
+b).- Autoricen la celebración de actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
 
-d).- Mercados y Centrales de Abasto;
+IV.- Establecer las normas de aplicación general que deberán de observarse cuando los ayuntamientos celebren actos que tengan por objeto:
 
-e).- Panteones;
+a).- La coordinación o asociación entre dos o más municipios para la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden;
 
-f).- Rastro;
+b).- La prestación temporal de un servicio o el ejercicio de una función de carácter municipal por el Estado, ya sea de manera directa o a través del organismo correspondiente, o bien de manera coordinada con el Estado; y
 
-g).- Calles, Parques y Jardines;
+c).- El que un Ayuntamiento se haga cargo del ejercicio de funciones, la ejecución de obras, la operación de instalaciones o la prestación de servicios públicos que le correspondan al Estado.
 
-h).- Seguridad Pública y Tránsito e
+V.- Establecer el procedimiento y condiciones para que el Estado asuma el ejercicio de una función o la prestación de un servicio público municipal, cuando el Municipio se encuentre imposibilitado y no exista convenio; al respecto, deberá mediar solicitud previa del Ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes y así lo apruebe el Congreso del Estado;
 
-i).- Los demás que la Legislatura Local determine según sus condiciones territoriales y socio-económicas de los Municipios, así como su capacidad administrativa y financiera.
+VI.- Determinar las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes; y
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+VII.- Establecer las normas que determinen los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos a que se refieren los artículos 84 y 85 fracción I, segundo párrafo, de esta Constitución, así como el segundo párrafo de la fracción VII del Artículo 116, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+
+### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 82.
 
-Los Municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca a su favor, y en todo caso:
+Para el mejor desempeño de las facultades que le son propias, así como para la prestación de los servicios públicos y el ejercicio de las funciones que le son inherentes, los ayuntamientos tendrán a su cargo las siguientes:
 
-a).- Percibirán las contribuciones, incluyendo tasas adicionales, que establezcan sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles;
+A. ATRIBUCIONES:
 
-Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;
+I.- Regular todos los ramos que sean competencia del Municipio y reformar, derogar o abrogar los ordenamientos que expida, así como establecer todas las disposiciones normativas de observancia general indispensables para el cumplimiento de sus fines;
 
-b).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determine por la Legislatura del Estado;
+II.- Expedir los bandos de policía y gobierno, así como los demás reglamentos, circulares y disposiciones administrativas, que regulen:
 
-c) Los ingresos derivados de la prestación de servicios públicos a su cargo;
+a).- La organización y funcionamiento interno del gobierno, del Ayuntamiento y la administración pública municipal, estableciendo los procedimientos para el nombramiento y remoción de los funcionarios, comisionados y demás servidores públicos;
 
-No se establecerán exenciones o subsidios respecto de las contribuciones a que se refieren los Incisos a) y c) en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Solo los bienes del Dominio Público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
+b).- Las materias, procedimientos, funciones y servicios públicos de su competencia;
 
-La Legislatura del Estado aprobará las Leyes de Ingresos de los Ayuntamientos y revisará sus Cuentas Públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+c).- La participación ciudadana y vecinal; y
+
+d).- La preservación del orden y la seguridad pública.
+
+III.- Participar en las reformas de esta Constitución, en los términos previstos por la misma;
+
+IV.- Establecer y organizar demarcaciones administrativas dentro del territorio municipal para el ejercicio de sus funciones, la prestación de los servicios públicos a su cargo y la atención de las necesidades de su población;
+
+V.- Resolver respecto a la afectación, uso y destino de los bienes muebles municipales;
+
+VI.- Resolver, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, respecto de la afectación, gravamen, enajenación, uso y destino de los bienes inmuebles municipales;
+
+VII.- Formular, dirigir e implementar la política de desarrollo social municipal; fomentar y regular el deporte y la cultura populares;
+
+VIII.- Regular, autorizar, controlar y vigilar el uso del suelo en sus competencias territoriales;
+
+IX.- Regular, autorizar, controlar y vigilar las construcciones, instalaciones y acciones de urbanización que se realicen dentro de sus competencias territoriales;
+
+X.- Ejercer la función de seguridad pública municipal, en coordinación con los órdenes de gobierno federal y estatal; y
+
+XI.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal.
+
+B. FUNCIONES Y SERVICIOS PUBLICOS:
+
+I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+II.- Alumbrado Público;
+
+III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+IV.- Mercados y centrales de abasto;
+
+V.- Panteones;
+
+VI.- Rastro;
+
+VII.- Calles, parques, jardines y su equipamiento;
+
+VIII.- Seguridad Pública Municipal, policía preventiva y tránsito; y
+
+IX.- Catastro y control urbano.
+
+El Congreso del Estado podrá establecer a favor de los municipios, la facultad de ejercer funciones o la prestación de servicios públicos de carácter supramunicipal, atendiendo a la eficacia de la gestión pública y tomando en consideración sus condiciones territoriales y socioeconómicas, así como su capacidad administrativa y financiera.
+
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto por las leyes federales y estatales.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 83.
 
-Cuando se cree un nuevo Municipio se cuidará de que en la extensión territorial que se le señale exista el número suficiente de habitantes que justifique la formación del Municipio, de acuerdo con la Ley respectiva.
+En los términos de las leyes federales y estatales relativas, corresponde a los municipios:
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+I.- Participar en la formulación de los planes de desarrollo regional. Cuando el Gobierno del Estado formule proyectos de planes o programas de desarrollo regional, asegurará la intervención de los municipios que deban involucrarse;
+
+II.- Participar en la creación y administración de sus reservas territoriales;
+
+III.- Intervenir en la regularización de la tenencia de la tierra urbana;
+
+IV.- Participar en la creación y administración de zonas de reservas ecológicas y, en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+V.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
+
+VI.- Formular y conducir la política ambiental dentro del territorio municipal, que garantice un medio ambiente adecuado para el bienestar y desarrollo de su población e incorpore la dimensión ambiental en sus planes y programas de desarrollo;
+
+VII.- Celebrar convenios para la administración y custodia de zonas federales;
+
+VIII.- Garantizar la sustentabilidad del desarrollo en su territorio, creando las condiciones para la adecuada prestación de los servicios sociales a su cargo y alentando la coordinación y concertación de acciones con los gobiernos federal y estatal, así como la participación social, a fin de elevar la calidad de vida de las personas;
+
+IX.- Prestar y regular en sus competencias territoriales el servicio de transporte público;
+
+X.- Regular, autorizar, controlar y vigilar en sus competencias territoriales, la venta, almacenaje y consumo público de bebidas con graduación alcohólica;
+
+XI.- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+XII.- Las demás que establezcan las Leyes.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 84.
 
-Procederá la designación de los Concejos Municipales por el Congreso, a propuesta del Gobernador del Estado, cuando fuere declarada la nulidad de las elecciones de los Ayuntamientos o las mismas no estuvieran hechas y declaradas; o sus integrantes, propietarios o suplentes, renunciaren colectivamente, faltaren en su totalidad o no se presentaren al iniciarse un período constitucional.
+Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden.
 
-Los Concejos Municipales podrán ser provisionales o substitutos, según lo disponga la Ley Orgánica Municipal, la que determinará su integración con el mismo número de miembros previsto por los Ayuntamientos y los casos en que proceda la elección de éstos.
+Tratándose de la asociación con municipios de otros estados, se deberá contar con la aprobación del Congreso del Estado.
 
-La designación de Munícipes procederá cuando renuncien o falten uno o varios de ellos, propietarios o suplentes, o no se presentaren en igual número al iniciarse el ejercicio de un período constitucional. Estos Munícipes serán nombrados en los mismos términos que dispone este Artículo para los Concejos Municipales.
+Cuando a juicio del Ayuntamiento respectivo resulte necesario, se podrá convenir con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y por el propio Municipio.
 
-La renuncia de los miembros de los Ayuntamientos de que trata este Artículo, solo será procedente si se funda en una causa grave.
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-La Legislatura por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, en la forma y términos establecidos en la Fracción IX del Artículo 27 de esta Constitución.
-
-Los miembros integrantes de los Concejos Municipales y los Munícipes que se designen conforme a este Artículo, deberán reunir los requisitos exigidos por esta Constitución, para la elección de los miembros de los Ayuntamientos y tendrán los facultades y obligaciones que aquéllas y las Leyes otorgan a dichos Ayuntamientos.
-
-Las personas integrantes de los Concejos Municipales o los Munícipes designados de acuerdo con lo que expresa este Artículo, no podrán ser miembros de los Ayuntamientos, para el período inmediato.
-
-Todo miembro de un Ayuntamiento, Concejo Municipal o Munícipe, electo o designado, conforme a lo que dispone el Capítulo Unico del Título Sexto de esta Constitución, cesará en su cargo, al concluir el período constitucional para el cual fue elegido o el término para el cual fué designado.
+### CAPITULO UNICO.. PREVENCIONES GENERALES
 
 ###### ARTICULO 85.
 
-Son facultades y obligaciones de los Ayuntamientos:
+El patrimonio de los municipios lo constituyen sus bienes del dominio público y del privado. Los bienes que integran el patrimonio municipal son inembargables; en consecuencia, no podrá emplearse la vía de apremio ni dictarse mandamiento de ejecución, ni hacerse efectivas por ejecución forzada, las resoluciones dictadas en contra del patrimonio municipal. En todo caso, los ayuntamientos deberán adoptar las adecuaciones presupuestales necesarias para satisfacer sus obligaciones. Las sentencias que se dicten contra el Ayuntamiento deberán ser incorporadas en el presupuesto de egresos correspondiente, a efecto de ser cumplidas.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+La Hacienda Municipal se formará de los rendimientos de los bienes que le pertenezcan, así como de las contribuciones y otros ingresos que el Congreso establezca a su favor, y en todo caso:
 
-I.- Remitir al Congreso para su revisión y aprobación, cada año, las cuentas del anterior.
+I.- Percibirá las contribuciones, incluyendo tasas adicionales, que se establezcan sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valores de los inmuebles.
 
-II.- Cuidar de la eficacia de los servicios públicos de su jurisdicción.
+Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de estas contribuciones;
 
-III.- Velar por la conservación del orden dentro del Municipio para lo cual tendrá su cuerpo de policía.
+II.- Las participaciones federales y estatales, que serán cubiertas por la Federación y el Estado respectivamente, con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado conforme a la Ley y bajo el principio de justicia distributiva;
 
-IV.- Reunirse en sesión pública el día de su instalación para repartir las comisiones que correspondan a los regidores.
+III.- Los ingresos derivados de la prestación de servicios públicos a su cargo; y
 
-V.- Nombrar al Secretario y Tesorero Municipales. Los demás nombramientos de empleados serán hechos por el Presidente Municipal con sujeción a lo que disponga la Ley del Servicio Civil.
+IV.- Los recursos públicos que se destinen en el presupuesto de egresos del Estado, para satisfacer el ejercicio de funciones o la prestación de servicios públicos exclusivos del Municipio.
 
-> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 1993)</small>
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa y exclusiva por los ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley.
 
-VI.- En los términos de las leyes federales y estatales relativas:
+No se establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III de este artículo, a favor de persona o institución alguna. Sólo estarán exentos los bienes del dominio público de la Federación, del Estado y de los municipios, salvo que sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-a).- Formular, aprobar y administrar la zonificación y Planes de Desarrollo Urbano Municipal;
+Los ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Los ayuntamientos, de manera exclusiva, tendrán la facultad de presentar al Congreso del Estado para su aprobación, la Iniciativa de la Ley de Ingresos y las modificaciones a la misma.
 
-b).- Participar en la creación y administración de sus reservas territoriales;
+Los ayuntamientos remitirán al Congreso para su revisión y fiscalización, cada año, las cuentas públicas del ejercicio anterior, dentro del término y conforme a las formalidades que señale la Ley.
 
-c).- Controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales;
+Los presupuestos de egresos serán aprobados por los ayuntamientos, con base en sus ingresos disponibles.
 
-d).- Intervenir en la regularización de la tenencia de la tierra urbana;
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-e).- Otorgar o negar licencias y permisos para construcciones, y
-
-f).- Participar en la creación y administración de zonas de reservas ecológicas;
-
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
-
-g).- Garantizar la sustentabilidad del desarrollo en su territorio, creando las condiciones para la adecuada prestación de los servicios sociales a su cargo y alentanto (sic) la coordinación y concertación de acciones con los gobiernos federal y estatal, así como la participación social, a fin de elevar la calidad de vida de las personas.
-
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1993)</small>
-
-VII.- Las demás que señale la Ley Orgánica de la Administración Pública Municipal.
+### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
 
 ###### ARTICULO 86.
 
-En las poblaciones que no sean cabeceras de municipalidad, según la importancia del poblado, los Ayuntamientos correspondientes nombrarán Delegado o Subd elegados (sic), con las facultades y obligaciones que se determinarán en la Ley Orgánica Municipal.
+El Congreso del Estado por acuerdo de las dos terceras partes de sus integrantes en los términos de la fracción IX, del artículo 27 de esta Constitución, podrá suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, procediendo a la designación de munícipes o de Concejos Municipales, a propuesta del Gobernador del Estado. La separación del cargo de los integrantes de los ayuntamientos, sólo procederá si se funda en una causa grave, conforme a la Ley.
+
+De igual forma se procederá cuando fuere declarada la nulidad de las elecciones de los ayuntamientos o las mismas no estuvieren hechas y declaradas; o sus integrantes, propietarios o suplentes, se separen colectivamente de manera voluntaria, faltaren en su totalidad o no se presentaren al iniciarse el período constitucional correspondiente.
+
+Los Concejos Municipales podrán ser provisionales o substitutos, según lo disponga la Ley, la que determinará su integración con el mismo número previsto para los ayuntamientos y los casos en que proceda la elección de éstos.
+
+En los términos de este artículo, el Congreso del Estado procederá a la designación de munícipes cuando éstos se separen de manera voluntaria y definitiva al cargo o falten uno o varios de ellos, propietarios o suplentes, o no se presentaren en igual número al iniciarse el ejercicio de un período constitucional. Estos munícipes serán nombrados en los mismos términos que dispone este artículo para los Concejos Municipales.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 87.
 
-La revisión de las cuentas anuales de los Ayuntamientos, será hecha por la Contaduría Mayor de Hacienda, que funcionará como dependencia del Congreso. La Contaduría Mayor de Hacienda, nombrará en casos especiales, inspectores con el objeto de examinar la contabilidad y verificar si son correctas las entradas y salidas de los fondos municipales.
+Los integrantes de los Concejos Municipales y los Munícipes que se designen conforme a este Capítulo, deberán cumplir los requisitos de elegibilidad establecidos para los regidores y munícipes respectivamente; tendrán las facultades y obligaciones que esta Constitución y las leyes otorgan a los ayuntamientos.
+
+Las personas integrantes de los Concejos Municipales o los Munícipes designados de acuerdo con lo que expresa este Capítulo, no podrán ser integrantes de los ayuntamientos, para el período inmediato.
 
 ## TITULO SEPTIMO
+
+### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
 
 ###### ARTICULO 88.
 
@@ -2286,3 +2386,25 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publi
 SEGUNDO.- En cumplimiento de los requisitos y trámites en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, envíese a los Ayuntamientos copia de la iniciativa y del acta de los debates que haya provocado.
 
 TERCERO.- Envíese al Ejecutivo para su publicación.
+
+P.O. 13 DE ABRIL DEL 2001.
+
+###### ARTICULO PRIMERO.
+
+Túrnese el presente Decreto a los ayuntamientos, de conformidad con el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Una vez agotado el proceso legislativo en los términos del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
+
+###### ARTICULO TERCERO.
+
+El Congreso del Estado, deberá expedir la Ley en materia municipal y realizará las adecuaciones a las leyes correspondientes, a más tardar noventa días posteriores a la entrada en vigor de las presentes reformas.
+
+###### ARTICULO CUARTO.
+
+Las presentes reformas iniciarán su vigencia una vez que se realicen las adecuaciones a que se refieren los presentes Artículos Transitorios, debiéndose en tanto, aplicar las disposiciones vigentes. Todos aquellos trámites, servicios, contrataciones o convenios relacionados con la prestación de servicios públicos municipales que hayan iniciado con anterioridad a la entrada en vigor de la presente reforma, y hasta en tanto no se concrete la adopción plena de servicios públicos por parte de los municipios, se seguirán llevando a cabo de conformidad con las disposiciones legales vigentes, en lo que no se oponga a lo establecido en el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+El Gobierno del Estado deberá realizar las acciones necesarias, a efecto de transferir en ejercicio de plenitud, la prestación de los servicios y funciones de naturaleza municipal, que esta Constitución atribuye a favor de los ayuntamientos, dentro del término de un año, contado a partir de la entrada en vigor de las presentes reformas.
