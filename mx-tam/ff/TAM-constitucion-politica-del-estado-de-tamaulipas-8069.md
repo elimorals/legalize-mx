@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1994-04-23"
+last_updated: "1995-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1995
+
+(DECRETO No. 333)
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -233,9 +235,45 @@ Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado c
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
+
 ###### Art. 20.
 
-La soberanía del Estado reside en el pueblo, y a nombre de este la ejerce el Poder Público del modo y en los términos que establece esta Constitución y la General de la República. El Estado no reconoce en los Poderes Supremos de la Unión ni en otro alguno, derecho para pactar o convenir entre ellos o con Nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia, salvo el caso a que se refiere la fracción III del artículo 73 de la Constitución General de la República.
+La Soberanía del Estado reside en el pueblo y éste la ejerce a través del Poder Público del modo y en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución. El Estado no reconoce en los Poderes Supremos de la Unión, ni en otro alguno, derecho para pactar o convenir entre ellos o con Nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia, salvo los supuestos a que se refiere la Constitución Política de los Estados Unidos Mexicanos.
+
+Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación Estatal y Municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
+
+El Estado garantizará que los partidos políticos cuenten en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades. La Ley determinará las formas específicas de su participación en los procesos electorales, sus derechos, prerrogativas y reglas de financiamiento, así como los topes a sus gastos de campaña, los partidos políticos deberán rendir informes financieros, mismos que serán públicos.
+
+La organización de las elecciones, es una función estatal que se realiza a través de un Organismo Público Autónomo, de los partidos políticos y de los ciudadanos según lo disponga la Ley. El Organismo Público Autónomo será funcionalmente independiente, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
+
+La certeza, legalidad, independencia, imparcialidad, definitividad, equidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+
+El Organismo Público Autónomo será autoridad en la materia; profesional en su desempeño; y autónomo en sus decisiones; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+
+La Ley establecerá los requisitos mínimos que deberán reunir los funcionarios de los órganos del Organismo Público Autónomo, para garantizar la eficacia del principio de imparcialidad, que conforme al quinto párrafo de este artículo es propio de la función electoral.
+
+El órgano de dirección, jerárquicamente superior, se integrará por Consejeros Ciudadanos, representantes de los partidos políticos, un Secretario y un representante del Registro Federal de Electores. Todos tendrán derecho a voz, pero sólo los Consejeros Ciudadanos derecho a voto. Los órganos ejecutivos y técnicos dispondrán del personal calificado, estrictamente necesario para prestar el servicio profesional electoral. Las mesas directivas de casillas estarán integradas por ciudadanos que serán insaculados del padrón electoral.
+
+Los Consejeros Ciudadanos del órgano de dirección, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los partidos políticos representados en la Legislatura. La Ley establecerá las reglas, requisitos y procedimientos para su designación.
+
+El Organismo Público Autónomo encargado de la organización de los procesos electorales, podrá celebrar convenios con la autoridad federal competente, para disponer de la infraestructura y apoyos necesarios para el cumplimiento de sus funciones, en los términos que determine la Ley.
+
+El Organismo Público Autónomo, en ejercicio de la función estatal electoral otorgará las constancias de mayoría y declarará la validez de las elecciones, de Ayuntamientos en cada uno de los Municipios de la Entidad, así como de Diputados al Congreso del Estado, ya sea de Mayoría Relativa o según el principio de Representación Proporcional y de los Regidores que no siendo de mayoría sean asignados según lo establece el artículo 131 de esta Constitución. El Congreso del Estado, erigido en Colegio Electoral, calificará la elección del Gobernador del Estado. Las sesiones de los Organos Electorales serán públicas, en los términos que disponga la Ley.
+
+Para dar definitividad y garantizar la legalidad de las distintas etapas de los procesos electorales, la Ley establecerá un sistema de medios de impugnación, de los que conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este artículo y el Tribunal Electoral.
+
+El Tribunal Estatal Electoral es el Organo Autónomo y máxima autoridad jurisdiccional electoral conformado por salas unitarias y una presidencia; se integrará con 4 Magistrados numerarios y uno supernumerario, mismos que serán designados por las dos terceras partes de los Diputados, a propuesta de los partidos políticos representados en el Congreso del Estado, y del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley.
+
+El Tribunal Estatal Electoral tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral y las diferencias laborales que se presenten entre las autoridades electorales y sus servidores públicos.
+
+Para el ejercicio de su competencia, el Tribunal Estatal Electoral contará con Magistrados, Jueces instructores y demás personal que requiera.
+
+Los Magistrados del Tribunal Estatal Electoral, deberán satisfacer los mismos requisitos que esta Constitución señala para ser Magistrado del Supremo Tribunal de Justicia en el Estado.
+
+El Pleno del Tribunal Estatal Electoral, será competente para resolver en segunda instancia los recursos que interpongan contra declaratoria de validez de las elecciones de Diputados y de Ayuntamientos y contra la expedición de la constancia de mayoría y de asignación que, en cada caso, emitan las autoridades electorales competentes en los términos de la Ley.
+
+La Ley garantizará que los Consejeros Ciudadanos que integrarán el Organismo Público Autónomo, a que se refiere este artículo, y los Magistrados del Tribunal Estatal Electoral, no tengan antecedentes de dirigencia partidaria.
 
 ###### Art. 21.
 
@@ -269,47 +307,37 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 
 El ejercicio de las funciones propias del Poder Legislativo se encomienda a una Asamblea que se denominará "Congreso del Estado Libre y Soberano de Tamaulipas". Los Diputados al Congreso serán electos en su totalidad cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se integrará por diecinueve Diputados electos según el principio de votación Mayoritaria Relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta con siete Diputados que serán electos según el principio de Representación Proporcional y el sistema de listas estatales, votadas en la circunscripción plurinominal que constituye la Entidad.
+El Congreso del Estado se integrará por 19 Diputados electos según el principio de votación Mayoritaria Relativa, mediante el sistema de Distritos Electorales Uninominales, y con 13 Diputados que serán electos según el principio de Representación Proporcional y el sistema de listas estatales, votadas en la circunscripción plurinominal que constituye la Entidad.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
+Al partido político que haya obtenido las dos terceras partes o más de las constancias de Mayoría Relativa, se le asignarán Diputados de Representación Proporcional hasta alcanzar el máximo establecido en el Artículo siguiente.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
 ###### Art. 27.
 
-La elección de los siete Diputados según el principio de Representación Proporcional y el sistema de listas estatales, se sujetará a las siguientes bases generales y a lo que en particular disponga la Ley:
+La elección de los 13 Diputados electos según el principio de Representación Proporcional y el sistema de asignación por listas estatales, se sujetará a las siguientes bases y a lo que disponga la Ley:
 
-I.- Para el registro de las listas de candidatos a Diputados que serán electos por el principio de Representación Proporcional, los Partidos Políticos deberán acreditar que previamente han registrado candidatos a Diputados que serán electos por el principio de Mayoría Relativa, por lo menos, en las dos terceras partes de los Distritos Electorales Uninominales;
+I.- Un partido político, para obtener el registro de sus listas estatales, deberá acreditar que participa con candidatos a Diputados por el principio de Mayoría Relativa en por lo menos las dos terceras partes de los Distritos Electorales Uninominales;
 
-II.- Para que un Partido Político tenga derecho a participar en la asignación de Diputados electos por el principio de Representación Proporcional mediante el sistema de listas estatales, es preciso que obtenga, por lo menos, el 1.5% del total de la votación emitida en el Estado para dicha elección;
+II.- El Partido político que haya obtenido las dos terceras partes o más de las Constancias de Mayoría Relativa, tendrá derecho a que se le asignen Diputados según el principio de Representación Proporcional, hasta que el número de Diputados por ambos principios sea igual al número máximo de Diputados con que puede contar un partido político en la integración del Congreso.
 
-III.- Las normas para la asignación de curules de representación Proporcional son las siguientes:
+III.- A todos los partidos políticos que hayan obtenido por lo menos el 1.5% del total de la votación estatal emitida, se les asignará una Diputación; y
 
-1a.- Todos los Partidos que hayan obtenido por lo menos el 1.5% de la votación total emitida, tendrán derecho a participar en la asignación de Diputados de representación Proporcional;
+IV.- Para la asignación de las Diputaciones de Representación Proporcional que resten, después de deducidas las utilizadas en los casos de las fracciones I y III, se estará a las reglas y fórmulas que la Ley establezca para tales efectos.
 
-2a.- Para ello, se hará la declaratoria de aquellos Partidos que hayan obtenido el 1.5% de la votación estatal, que constituye el porcentaje mínimo y consecuentemente tengan derecho a la asignación de un Diputado de representación Proporcional cada uno;
+En ningún caso un partido político podrá contar con más de 20 Diputados por ambos principios.
 
-3a.- Para distribuir las Diputaciones que quedaren, se utilizarán los elementos de la fórmula electoral, que son los siguientes:
+Los Diputados electos según el principio de Representación Proporcional se asignarán en el orden de que fueron registrados en las listas estatales de cada partido político.
 
-a).- Cociente electoral; y
-
-b).- Resto mayor.
-
-El cociente electoral se calcula dividiendo el total de votos obtenidos por los Partidos Políticos con derecho a participar en la asignación de curules de representación Proporcional, deducidos los votos del 1.5% entre el número de curules pendientes de repartir; y
-
-Resto mayor es el remanente de votos, deducidos los utilizados en la asignación de curules por los anteriores elementos de la fórmula electoral; y
-
-4a.- A cada uno de los Partidos que hayan obtenido más del porcentaje mínimo de la votación estatal, se les asignará una Diputación adicional, si sus votos deducidos los que representan el 1.5% de la votación estatal, son iguales o mayores que el cociente electoral. Si aún quedaran curules por repartir, se distribuirán utilizando los restos mayores.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
 ###### Art. 28.
 
-Las elecciones de los Diputados serán calificadas por el Congreso, constituido en Colegio Electoral, en los términos establecidos por el Artículo 58, fracciones XXX y XXXI de esta Constitución.
-
-De no erigirse en Colegio Electoral el Congreso del Estado, los presuntos Diputados, cinco días antes de que deban iniciar sus funciones, se constituirán en Colegio Electoral y en Sesión Permanente procederán a la calificación de sus elecciones.
+Las elecciones de los Diputados, serán calificadas por el Organismo Público Autónomo a que se refiere el Artículo 20 de esta Constitución, en los términos que fije la norma reglamentaria.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 9 DE SEPTIEMBRE DE 1978)
 
@@ -343,19 +371,21 @@ I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Suprem
 
 II.- Los militares que hayan estado en servicio dentro de los 90 días anteriores a la fecha de la elección.
 
-III.- (DEROGADA, P.O. 5 DE JULIO DE 1986)
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 1995)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1989)</small>
+III.- Los Ministros de cualquier culto religioso, salvo que se ciñan a lo dispuesto en el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria;
 
-IV.- Los miembros Propietarios de los Ayuntamientos, así como los Suplentes que hayan estado en ejercicio, por lo que se refiere a los Servidores Públicos del Estado y Municipios y los Jueces en su circunscripción, estarán también impedidos si no se separan de su cargo dentro de los tres meses anteriores a la elección.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+
+IV.- Los Servidores Públicos del Estado y los Municipios, y los Jueces en su circunscripción, estarán también impedidos si no se separan de su cargo 90 días antes de la elección;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 1989)</small>
 
 V.- Los Diputados Propietarios al Congreso local y los Suplentes que hayan estado en ejercicio para el período inmediato.
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
-VI.- Los miembros de la Comisión Estatal Electoral, de los Comités Distritales y de los Comités Municipales Electorales, a menos que se separen de su cargo noventa días antes de la elección.
+VI.- Los miembros de los Consejos Estatal, Distritales y Municipales Electorales, a menos que se separen de sus funciones 90 días antes de la elección.
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 1989)</small>
 
@@ -423,11 +453,11 @@ Los Diputados que no concurran a una sesión sin causa justificada, no tendrán 
 
 El Congreso se reunirá para celebrar sus sesiones en la forma y términos que le señala esta Constitución y la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
 ###### Art. 41.
 
-El 31 de diciembre del año de la elección, se dará lectura al informe del Colegio Electoral sobre la legitimidad de las credenciales y cualidades de los Diputados electos los que, en Sesión Solemne, otorgarán ese mismo día la protesta de Ley ante la Diputación Permanente, o la Mesa Directiva en caso de prórroga.
+El 31 de diciembre del año de la elección, en sesión solemne, los Diputados electos otorgarán la protesta de Ley ante la Diputación Permanente, o la Mesa Directiva en caso de prórroga.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -599,7 +629,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -607,7 +637,9 @@ XXIII. Nombrar el Gobernador Interino en los casos a que se refiere el artículo
 
 XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno.
 
-XXV. Decidir sobre las elecciones de los Ayuntamientos, cuando se reclame contra ellas.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+
+XXV. Elegir a los Consejeros Ciudadanos del Consejo Estatal Electoral y al Presidente del mismo; a los Magistrados del Tribunal Estatal Electoral y al Presidente del mismo;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -619,11 +651,13 @@ XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del
 
 XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le faculta el artículo 130 de la Constitución General de la República.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
-XXX. Erigirse en Colegio Electoral para calificar las elecciones de Ayuntamientos, Diputados Locales y Gobernador del Estado.
+XXX. Erigirse en Colegio Electoral para calificar la elección de Gobernador del Estado.
 
-XXXI. Resolver cualquiera duda que ocurra sobre la validez de las elecciones populares y cualidades de los elegidos. Las resoluciones del Congreso en funciones de Colegio Electoral son irrevocables.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+
+XXXI. Resolver cualquier duda que ocurra sobre la validez de la elección y calidad del candidato electo a Gobernador del Estado. La resolución del Congreso en funciones de Colegio Electoral es irrevocable.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -635,7 +669,7 @@ XXXIV. Solicitar del ciudadano Presidente de la República, conforme a lo dispue
 
 XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación.
 
-XXXVI. Convocar a elecciones extraordinarias de Diputados y Ayuntamientos en los casos que disponga la ley.
+XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -759,9 +793,9 @@ V. Admitir las renuncias de los altos funcionarios, mandando cubrir sus vacantes
 
 VI. Ejercer las atribuciones que le señalan la Ley Orgánica del Poder Legislativo y el Reglamento para el Gobierno Interior del Congreso.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
-VII.- Recibir los expedientes de elección de diputados al Congreso del Estado, Ayuntamientos y Gobernador.
+VII.- Recibir el expediente de elección de Gobernador del Estado.
 
 VIII. Recibir la protesta de los funcionarios en los casos en que deban rendirla ante el Congreso.
 
@@ -915,7 +949,9 @@ I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acue
 
 II.- Ser mexicano de nacimiento.
 
-III.- Ser nativo del Estado, con vecindad en el mismo, adquirida por lo menos cinco años antes del día de la elección.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+
+III.- Tener vecindad en el Estado, adquirida por lo menos 5 años antes del día de la elección.
 
 IV.- Ser mayor de treinta años de edad el día de la elección; y
 
@@ -927,7 +963,9 @@ V.- Poseer suficiente instrucción.
 
 No pueden obtener el cargo de Gobernador del Estado por elección:
 
-I.- Los Ministros de cualquier culto, aún cuando hayan renunciado su ministerio.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+
+I.- Los Ministros de cualquier culto religioso, salvo que se ciñan a lo dispuesto en el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -941,39 +979,39 @@ III.- Los militares que no se hayan separado del servicio activo por lo menos 90
 
 IV.- Los que desempeñen algún cargo o comisión de otro Estado o de la Federación, a menos que se separen de ellos noventa días antes de la elección, sean o no de elección popular;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
-V.- Los Magistrados del Supremo Tribunal, Procurador General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos cuando menos 90 días antes de la elección;
+V.- Los Magistrados del Supremo Tribunal, Diputados locales, Procurador General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos, cuando menos 90 días antes de la elección;
 
 VI.- Los que estén sujetos a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
 ###### Art. 80.
 
-El día 3 de febrero de 1981, entrará el C. Gobernador a ejercer sus funciones por seis años y nunca podrá volver a desempeñar ese cargo ni por nueva elección ni con el carácter de provisional o interino.
+El día 1 de enero inmediato a la elección entrará el Gobernador a ejercer sus funciones por 6 años y nunca podrá volver a desempeñar ese cargo ni por una nueva elección, ni con el carácter de provisional o interino.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1962)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
 ###### Art. 81.
 
-El Congreso, dentro del mes de Diciembre correspondiente a la elección, procederá erigido en Colegio Electoral, a hacer, conforme a la Ley respectiva, el escrutinio de los votos emitidos en la elección y hará la declaración del ciudadano que resulte electo para Gobernador, por medio de un Decreto.
+El Congreso, erigido en Colegio Electoral, dentro del mes de diciembre correspondiente al año de la elección, procederá conforme a la Ley respectiva a calificar la validez de la elección y cualidades del ciudadano electo Gobernador, por medio de un Decreto.
 
 ###### Art. 82.
 
 La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este cargo por causa grave, que calificará el Congreso.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
 ###### Art. 83.
 
-Si no hubiere habido elección de Gobernador, si se hubiere hecho y publicado para el día 4 de febrero o el nuevamente electo no se presentare a tomar posesión de su cargo cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente constitucional aquél o ésta, en su caso, en sesión permanente y secreta por doce del número total de sus miembros si se tratare del Congreso o por mayoría si se tratare de la Diputación Permanente.
+Si no hubiere habido elección de Gobernador, si se hubiere hecho esta y publicado el Decreto correspondiente para el día 31 de diciembre del año de la elección, pero el electo no se presentare a tomar posesión de su cargo, cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente, aquel o ésta, en su caso, en Sesión Permanente y Secreta por 17 del número total de sus miembros, si se tratare del Congreso, o por la mayoría si se tratare de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
 ###### Art. 84.
 
-En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del período, el Congreso Local, constituído en sesión permanente y secreta, nombrará, por el voto cuando menos de doce del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del artículo 58 de esta Constitución.
+En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y a las leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los 3 primeros años del período, el Congreso Local, constituído en Sesión Permanente y Secreta, nombrará por el voto de cuando menos 17 del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del artículo 58 de esta Constitución.
 
 El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
 
@@ -1327,9 +1365,9 @@ Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o 
 
 Son atribuciones del Pleno del Supremo Tribunal de Justicia:
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
-I.- Conocer, a través de la Presidencia, de las controversias del orden civil que se susciten entre los particulares y el Estado o los Ayuntamientos.
+I.- Conocer, a través de la Presidencia, de las controversias que se susciten entre los particulares y el Estado o los Ayuntamientos, así como de las que surjan entre Ayuntamientos, o entre estos y el Estado, conforme a las normas del juicio ordinario civil.
 
 II.- Dirimir las competencias que surjan entre las Autoridades Judiciales del Estado, en los términos de las Leyes respectivas.
 
@@ -1549,13 +1587,33 @@ V.- En los Municipios cuya población sea mayor de doscientos mil habitantes, el
 
 En todos los Municipios sus Ayuntamientos se complementarán con Regidores de Representación Proporcional;
 
-a).- En los Municipios cuya población no exceda de doscientos mil habitantes, con un Regidor de Representación Proporcional;
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
-b).- En aquellos cuya población exceda del número anterior pero no de trescientos mil habitantes, con dos Regidores de Representación Proporcional; y
+a).- En los Municipios con población hasta de 30,000 habitantes, hasta con 2 Regidores de Representación Proporcional;
 
-c).- En los de población superior a trescientos mil habitantes, hasta con tres Regidores de representación Proporcional.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
-Los Partidos Políticos con derecho de participar en la Entidad que no hubiesen logrado la mayoría en la elección Municipal correspondiente, podrán acreditar Regidores en relación a los votos recibidos, siempre que hayan obtenido cuando menos el 10% de la votación sufragada en favor del Partido que haya triunfado en la elección por mayoría en el Municipio de que se trate, pero en ninguna caso se asignará a un solo Partido más de dos de estos Regidores. La asignación de Regidores de Representación Proporcional atenderá al orden en que los candidatos a Regidores hayan sido postulados por sus respectivos Partidos y a los demás requisitos que disponga la Ley reglamentaria.
+b).- En los Municipios con población hasta de 50,000 habitantes, hasta con 3 Regidores de Representación Proporcional;
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
+
+c).- En aquellos Municipios con población hasta de 100,000 habitantes, hasta con 4 Regidores de Representación Proporcional;
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1995)</small>
+
+d).- En los Municipios con población hasta de 200,000 habitantes, hasta con 6 Regidores de Representación Proporcional;
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1995)</small>
+
+e).- En los Municipios con población superior a 200,000 habitantes, hasta con 7 Regidores de Representación Proporcional; y
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1995)</small>
+
+f).- La asignación de las Regidurías de Representación Proporcional a los partidos políticos, se ajustará a las bases que la Ley señale.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
+
+Los partidos políticos que no hubiesen logrado la mayoría en la elección municipal correspondiente, podrán participar en la asignación de Regidores en relación a los votos recibidos, siempre que hayan obtenido cuando menos el 10% de la votación sufragada en favor del partido que haya triunfado en la elección por mayoría en el Municipio de que se trate; pero en ningún caso, se asignarán a un solo partido más de 4 de estos Regidores. La asignación de Regidores de Representación Proporcional atenderá el orden en que los candidatos hayan sido registrados en la planilla por sus respectivos partidos y a los demás requisitos que disponga la Ley Reglamentaria.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O.1 DE ABRIL DE 1989)</small>
 
@@ -2697,21 +2755,25 @@ Se abrogan las disposiciones que se opongan al presente Decreto.
 
 En tanto se expida la disposición Reglamentaria del Artículo 148 de la Constitución Política del Estado, continuarán operando las actuales dependencias del Trabajo y vigentes los preceptos legales que las rigen.
 
+P.O. 10 DE JUNIO DE 1995.
+
+DECRETO No. 329.
+
 ###### ARTICULO PRIMERO.
 
-El Estado de Baja California Sur tendrá la extensión territorial y límites que comprende actualmente el Territorio de la Baja California Sur.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Los conflictos de naturaleza jurídica, individual o colectivos, los de naturaleza económica, los de procedimiento especial y los de huelga, que se susciten en las ramas incluidas en esta reforma y que se encuentren pendientes de solución, o se presenten ante los tribunales de jurisdicción local hasta el día de la publicación de este decreto, serán resueltos hasta su total terminación por los mismos.
+El Artículo 80 que mediante el presente Decreto se reforma surtirá efectos para el ciudadano electo Gobernador del Estado para el período 2005 al 2010, quien iniciará su encargo a partir del 1 de enero del año siguiente al de la elección correspondiente.
+
+P.O. 10 DE JUNIO DE 1995
+
+DECRETO No. 333.
 
 ###### ARTICULO UNICO.
 
-Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 17 DE NOVIEMBRE DE 1982.
-
-DECRETO QUE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 28, MODIFICA LA FRACCIÓN X Y XVIII DEL ARTÍCULO 73, Y ADICIONA LA FRACCIÓN XIII BIS DEL APARTADO B DEL ARTÍCULO 123.
+El presente Decreto inicia su vigencia a partir de su expedición.
 
 ###### ARTICULO UNICO.
 
