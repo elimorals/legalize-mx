@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2001-01-23"
+last_updated: "2001-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -41,13 +41,23 @@ CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 1º.
 
-El Estado de Coahuila de Zaragoza adopta para su régimen interior la forma de gobierno republicano, representativo y popular, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con su propia Constitución. Por lo anterior, la unidad básica de su división territorial, política y administrativa es el municipio libre.
+El Estado de Coahuila de Zaragoza adopta para su régimen interior la forma de gobierno republicano, representativo y popular, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado.
+
+El Municipio se constituirá, dentro del régimen interior del Estado, en un orden constitucional de gobierno municipal, libre, democrático, republicano, representativo y popular.
+
+El Municipalismo se instituye en el régimen interior del Estado como la fórmula política, orgánica y funcional, para que los Gobiernos Estatal y Municipal actúen, bajo el principio de fidelidad municipal, de manera constructiva, corresponsable y armónicamente en el desempeño de sus funciones exclusivas, concurrentes o coincidentes.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 2º.
 
-El municipio es la entidad político-jurídica local, integrada por una población asentada en un espacio geográfico determinado, en la cual se constituye el nivel de gobierno más próximo a los ciudadanos a fin de ser el cauce inmediato para su participación democrática en la toma de decisiones en lo que concierne al mejoramiento de las condiciones de vida y al fomento del desarrollo integral de las comunidades bajo su jurisdicción. Los elementos básicos del municipio son: su territorio, su población y su organización.
+El municipio es la entidad político-jurídica local, integrada por una población asentada en un espacio geográfico determinado, en la cual se constituye el orden de gobierno más próximo a la comunidad a fin de ser el cauce inmediato para su participación democrática en la toma de decisiones en lo que concierne al mejoramiento de las condiciones de vida y al fomento de su desarrollo integral.
+
+Los elementos que conforman el Municipio Libre son: su población, territorio, la organización y el funcionamiento de sus órganos de gobierno y su hacienda.
 
 ###### ARTÍCULO 3º.
 
@@ -67,25 +77,47 @@ Este código es de orden público y de interés social. Tiene por objeto normar 
 
 El territorio de cada municipio delimita la jurisdicción donde ejerce sus competencias.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 7°.
 
-A la fecha de la expedición de este código, son municipios del Estado de Coahuila de Zaragoza: Abasolo, Acuña, Allende, Arteaga, Candela, Castaños, Cuatrociénegas, Escobedo, Francisco I. Madero, Frontera, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Matamoros, Monclova, Morelos, Múzquiz, Nadadores, Nava, Ocampo, Parras, Piedras Negras, Progreso, Ramos Arizpe, Sabinas, Sacramento, Saltillo, San Buenaventura, San Juan de Sabinas, San Pedro, Sierra Mojada, Torreón, Viesca, Villa Unión y Zaragoza.
+Son municipios del Estado de Coahuila de Zaragoza: Abasolo, Acuña, Allende, Arteaga, Candela, Castaños, Cuatro Ciénegas, Escobedo, Francisco I. Madero, Frontera, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Matamoros, Monclova, Morelos, Múzquiz, Nadadores, Nava, Ocampo, Parras, Piedras Negras, Progreso, Ramos Arizpe, Sabinas, Sacramento, Saltillo, San Buenaventura, San Juan de Sabinas, San Pedro, Sierra Mojada, Torreón, Viesca, Villa Unión y Zaragoza.
 
 ###### ARTÍCULO 8°.
 
 Los municipios, tendrán el territorio comprendido dentro de los límites que hasta la actualidad se les ha reconocido en sus respectivos decretos de constitución o que históricamente se reconozcan entre sí.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 9°.
 
-Los conflictos relativos a límites territoriales que se susciten entre los ayuntamientos de dos o más municipios serán conocidos y resueltos por el Congreso del Estado, a solicitud de los ayuntamientos interesados o del Ejecutivo del Estado.
+Los conflictos relativos a límites territoriales que se susciten entre los ayuntamientos de dos o más municipios, podrán arreglarse por ellos de común acuerdo, sin embargo, éste no surtirá efecto hasta en tanto quede aprobado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros.
+
+El Congreso del Estado resolverá el conflicto de límites territoriales, con base en los decretos de constitución y antecedentes históricos de los Municipios, sin perjuicio de lo previsto por el artículo 158 de la Constitución Política Local.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 10.
 
-El Congreso del Estado tiene la facultad de modificar la extensión territorial de los municipios, suprimir municipios y crear otros mediante fusión o división cuando así lo requiera el interés público. El ejercicio de esta facultad se hará con apego a lo que disponga la Constitución Política del Estado.
+El Congreso del Estado podrá crear, fusionar y suprimir Municipios; así como modificar su extensión territorial, con base en las reglas siguientes:
+
+I. Se iniciará el procedimiento ante el Congreso del Estado sólo a instancia del ayuntamiento o ayuntamientos interesados o, en su caso, a través del Ejecutivo del Estado.
+
+II. En todo caso, el Congreso del Estado deberá oír a las partes interesadas y al Ejecutivo del Estado. Su resolución definitiva deberá tener el voto de las dos terceras partes de sus miembros.
 
 ###### ARTÍCULO 11.
 
 La creación de nuevos municipios sólo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados y siempre que los municipios resultantes cuenten con los recursos suficientes para el cumplimiento de sus competencias y no implique disminución en la calidad y cobertura en la prestación de los servicios públicos.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+En todo caso para la creación de un nuevo municipio deberán, por lo menos, satisfacerse los requisitos siguientes:
+
+I. Contar con una población de más de veinticinco mil habitantes;
+
+II. Comprobar que se cuenta con los recursos suficientes para crear la infraestructura administrativa necesaria; proveer a su sostenimiento, ejercer las funciones que le son propias y prestar los servicios públicos municipales que requiera la comunidad;
+
+III. Escuchar la opinión del ayuntamiento o los ayuntamientos involucrados, así como de la población. El Congreso del Estado definirá el mecanismo de consulta.
 
 ###### ARTÍCULO 12.
 
@@ -191,6 +223,14 @@ Para efectos de la promoción y gestión del desarrollo urbano y rural, así com
 
 En el Estado de Coahuila de Zaragoza, siendo los municipios entes autónomos locales, éstos depositarán la potestad de su gobierno y administración en un órgano colegiado al que se denominará Ayuntamiento. La autonomía, se traducirá en la capacidad de derechos y responsabilidades para regular y administrar los asuntos públicos bajo su competencia y en interés de su población.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+La competencia municipal se ejercerá por el ayuntamiento o, en su caso, por el Concejo Municipal y no podrá ser vulnerada o restringida por los Gobiernos Federal o Estatal. Sin perjuicio de su competencia municipal, los ayuntamientos deberán observar lo dispuesto por las leyes federales y estatales, siempre que estas leyes no contravengan la competencia municipal que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Local u otras disposiciones que emanen de ellas.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los Gobiernos Municipales, en la esfera de su competencia y de conformidad con las disposiciones aplicables, mantendrán con las partes integrantes de la Federación una relación de respeto y de colaboración mutua para el desarrollo político, económico, social y cultural del país. Los Municipios ejercerán de manera coordinada, en los términos de las disposiciones aplicables, las facultades coincidentes o concurrentes con la Federación o el Estado.
+
 ###### ARTÍCULO 25.
 
 El Ayuntamiento constituye la autoridad máxima en el municipio, es independiente, y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Como cuerpo colegiado, tiene carácter deliberante, decisorio, y representante del Municipio. Esta disposición se establece sin excluir formas de participación directa de los ciudadanos en los procesos de decisión permitidos por la ley.
@@ -207,17 +247,35 @@ El Ayuntamiento, dentro del ámbito de la ley, gozará de libertad plena para ej
 
 Cuando autoridades estatales o federales estén facultadas por las leyes para intervenir en asuntos cuya responsabilidad sea compartida por los ayuntamientos, éstos mantendrán su derecho de tomar iniciativas y decisiones sobre dichos asuntos.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 29.
 
-En caso de delegación de competencias por el Gobierno del Estado, los Ayuntamientos disfrutarán de la libertad de adaptar su ejercicio a las condiciones locales.
+En caso de delegación o transferencias de competencias por el Gobierno Federal o del Estado hacia los municipios, se realice ésta por ley o convenio, los ayuntamientos disfrutarán de la libertad de adaptar su ejercicio a las condiciones locales, siempre que no contravengan el pacto federal.
+
+En todo caso, la transferencia o delegación de funciones o servicios de la Federación o del Estado hacia los municipios, debe ir acompañada de la asignación de los recursos financieros necesarios para el cumplimiento de la función o servicio transferidos. En todos estos casos, la transferencia o la delegación deberá programarse de manera gradual, a efecto de que el municipio pueda asumir con responsabilidad la función o servicio de que se trate, bajo el principio de fidelidad municipal.
+
+En la ley o en el convenio se preverá la correspondiente transferencia de medios financieros, así como las formas de control que se reserva el Estado.
+
+En todo caso, toda transferencia o delegación de funciones, obra o servicios federales hacia los municipios deberán convenirse, en primer lugar, con el Ejecutivo del Estado de conformidad con la fracción VII del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, en relación con la fracción V del artículo 82 de la Constitución Política del Estado, para posteriormente asumir la función, obra o servicio federal el municipio que así lo convenga con el Ejecutivo del Estado.
 
 ###### ARTÍCULO 30.
 
 Los Ayuntamientos serán consultados con oportunidad y de forma apropiada en los procesos de planeación y de decisión, para todas las cuestiones que afectan directamente a los municipios.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los ayuntamientos participarán en la formulación de cualesquier plan de desarrollo regional que concierna a sus municipios.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El Estado asegurará la participación de los ayuntamientos cuando, al elaborar su plan de desarrollo, involucre a aquéllos.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 31.
 
-De las controversias que surjan entre los ayuntamientos y entre éstos y el Poder Ejecutivo o el Poder Judicial del Estado de Coahuila, resolverá el Congreso del Estado. Las controversias constitucionales se resolverán de conformidad con el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+De las controversias que surjan en el ámbito municipal, se resolverá en los términos previstos por el artículo 158 de la Constitución Política del Estado y la ley reglamentaria respectiva.
 
 ###### ARTÍCULO 32.
 
@@ -247,9 +305,13 @@ Los miembros del Ayuntamiento deberán cumplir con las funciones que les señala
 
 El cargo de munícipe, es obligatorio pero no gratuito. El Ayuntamiento, al elaborar su presupuesto de egresos, deberá señalar las partidas que correspondan a las dietas que deben los munícipes percibir por el desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 39.
 
-Los miembros de un ayuntamiento, desde el día de su toma de posesión, no podrán aceptar empleo, cargo o comisión de la Federación, de los Estados o de otros municipios, por el cual se disfrute de salario. Se exceptuarán los cargos honoríficos, de investigación y/o de docencia.
+Los miembros de un ayuntamiento, así como quienes tengan la condición de servidor público municipal, independientemente de la categoría, no podrán aceptar el desempeño de cualquier otro empleo, cargo o comisión de la Federación, de los Estados o de otros municipios. Se exceptúan los cargos honoríficos, de investigación y/o de docencia.
+
+Para desempeñar un cargo diferente, deberán separarse previamente del que desempeñen, en los términos que prevé este Código y demás disposiciones aplicables.
 
 ###### ARTÍCULO 40.
 
@@ -345,9 +407,15 @@ El Presidente entrante rendirá su protesta en los términos siguientes:
 
 A continuación, el nuevo Presidente tomará la protesta a los demás miembros del Ayuntamiento electo.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 57.
 
-Cuando el presidente municipal electo no se presente a rendir protesta, el Congreso, con la concurrencia de cuando menos las dos terceras partes del total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos de los presentes, un presidente municipal sustituto.
+Cuando el presidente municipal electo no se presente a tomar posesión del cargo o en caso de falta absoluta del presidente municipal, que ocurra durante los primeros seis meses del período correspondiente, el Congreso del Estado, con la concurrencia de cuando menos las dos terceras partes del total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un presidente municipal interino.
+
+El órgano electoral correspondiente, dentro de los 90 días siguientes al de la designación del presidente interino, expedirá la convocatoria para la elección del presidente municipal que deba concluir el período, debiendo precisar en la convocatoria, la fecha en que habrá de celebrarse dicha elección.
+
+Cuando la falta absoluta del presidente municipal ocurriere después de los seis meses del período correspondiente, el Congreso del Estado, con la concurrencia de cuando menos las dos terceras partes del total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, a un presidente municipal sustituto, quien se encargará de concluir el período.
 
 ###### ARTÍCULO 58.
 
@@ -363,13 +431,31 @@ En caso de que la vacante se presente con posterioridad a la toma de protesta de
 
 Los integrantes del Ayuntamiento electo que no hayan rendido protesta en la sesión de instalación y hayan justificado su ausencia, lo harán en la primera sesión de Ayuntamiento a la que asistan.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 61.
 
-Cuando por cualquiera circunstancia no se haya verificado la elección de munícipes antes del día señalado por la ley para la renovación del Ayuntamiento, o cuando fuere declarada nula, el Congreso del Estado designará, de entre los vecinos del Municipio de que se trate, un Consejo Municipal para que interinamente se haga cargo de la autoridad y, constituido el Ayuntamiento como se previene, dará inmediata cuenta al Ejecutivo, para que se convoque desde luego a elecciones.
+Cuando por cualquier circunstancia no se haya verificado la elección de munícipes antes del día señalado por la ley para la renovación del ayuntamiento, o cuando fuere declarada nula, o se hubiere declarado desaparecido un ayuntamiento, el Congreso del Estado constituirá un Concejo Municipal conforme a las bases siguientes:
+
+I. El Concejo Municipal se constituirá de entre los vecinos del Municipio de que se trate y serán designados por insaculación por el Congreso del Estado.
+
+II. Para realizar la designación, el Congreso del Estado por acuerdo de la mayoría de sus miembros presentes, presentará una terna de vecinos para cada cargo del Concejo Municipal. Para tal efecto, podrá recibir propuestas de la ciudadanía de los Municipios que correspondan, bajo los requisitos, condiciones y límites que se fijen en la convocatoria respectiva.
+
+III. Los vecinos del Municipio que formen parte de la terna que apruebe el Congreso del Estado, deberán cumplir, invariablemente, los requisitos de elegibilidad establecidos para los regidores; pero en todo caso, los vecinos deberán distinguirse por su honorabilidad, honestidad y compromiso ciudadano acreditados en la comunidad.
+
+IV. De entre la terna propuesta se realizará, en forma pública, transparente y al mismo tiempo, la insaculación para cada integrante del Concejo Municipal, sea propietario o suplente, respectivamente.
+
+V. El Concejo Municipal designado concluirá el período municipal correspondiente.
+
+VI. Si alguno de los miembros del Concejo Municipal dejare de desempeñar su cargo, será sustituido por su suplente o se procederá con apego a la ley.
+
+VII. En todo caso, el Congreso del Estado deberá tomar las medidas necesarias para asegurar la gobernabilidad del Municipio mientras realiza la designación de los miembros del Concejo Municipal.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 62.
 
-Los Consejos Municipales estarán integrados con el mismo número de miembros y cargos que establecen los ordenamientos legales para los ayuntamientos, excluyendo los de representación proporcional, y tendrán las mismas atribuciones que este Código les confiere.
+Los Concejos Municipales estarán integrados por un concejal presidente, un síndico y cinco concejales, propietarios y suplentes, designados en los términos previstos por la Constitución Política del Estado y este Código y tendrán las atribuciones y funciones que se otorgan a los miembros de los ayuntamientos, respectivamente.
 
 ###### ARTÍCULO 63.
 
@@ -431,9 +517,11 @@ Para lo anterior, el Ayuntamiento contará con un plazo de quince días naturale
 
 ### CAPÍTULO IV. DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO, Y DE LA DESAPARICIÓN DE AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 69.
 
-El Congreso del Estado, como lo establece el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 134 de la Constitución Política del Estado de Coahuila, por acuerdo de las dos terceras partes del total de sus integrantes, podrá suspender o revocar el mandato de alguno, de algunos o de todos los miembros de los ayuntamientos, o declarar su desaparición. Estas medidas se podrán aplicar asimismo a los consejos municipales, en su caso.
+El Congreso del Estado, como lo establece el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 158-L de la Constitución Política del Estado de Coahuila, por acuerdo de las dos terceras partes del total de sus integrantes, podrá suspender ayuntamientos o, en su caso, Concejos Municipales, declarar que éstos han desaparecido, suspender o revocar el mandato de alguno o algunos de sus miembros.
 
 ###### ARTÍCULO 70.
 
@@ -639,153 +727,209 @@ El secretario del ayuntamiento desempeñará, aparte de las funciones que le enc
 
 ### CAPÍTULO VI. FACULTADES Y COMPETENCIAS DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 102.
 
-Los Ayuntamientos tendrán las competencias, facultades y obligaciones siguientes, en materia de gobierno y régimen interior; administración pública municipal; desarrollo urbano y obra pública; servicios públicos, hacienda pública municipal; desarrollo económico y social; educación y cultura, asistencia y salud públicas; y participación ciudadana:
+El Municipio Libre tiene un ámbito de competencia exclusiva y distinta a los Gobiernos Federal o Estatal, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Local, este Código y demás leyes aplicables.
 
-A). Gobierno y régimen interior:
+La competencia municipal se ejercerá por el ayuntamiento o, en su caso, por el Concejo Municipal y no podrá ser vulnerada o restringida por los Gobiernos Federal o Estatal. Sin perjuicio de su competencia municipal, los ayuntamientos deberán observar lo dispuesto por las leyes federales y estatales, siempre que estas leyes no contravengan la competencia municipal que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Local y demás disposiciones que emanen de ellas.
 
-I. Formular, aprobar y publicar los bandos de policía y buen gobierno y demás reglamentos, circulares, acuerdos y disposiciones administrativas de carácter general, de conformidad con las bases normativas que el presente código establece.
+Los Gobiernos Municipales, en la esfera de su competencia y de conformidad con las disposiciones aplicables, mantendrán con las partes integrantes de la Federación una relación de respeto y de colaboración mutua para el desarrollo político, económico, social y cultural del país. Los Municipios ejercerán de manera coordinada, en los términos de las disposiciones aplicables, las facultades coincidentes o concurrentes con la Federación o el Estado.
 
-II. Intervenir en las reformas de la Constitución Política del Estado, de conformidad con la misma, e iniciar leyes ante el Congreso del Estado sobre asuntos de competencia municipal.
+En todo caso, los ayuntamientos tendrán las competencias, facultades y obligaciones siguientes:
 
-III. Promover ante la Suprema Corte de Justicia de la nación, las controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, conforme a la Ley reglamentaria correspondiente.
+I. En materia de gobierno y régimen interior:
 
-IV. Formular, aprobar, controlar y evaluar el Plan de Desarrollo Municipal, de conformidad con las bases normativas dispuestas en este mismo código.
+1. Formular, aprobar y publicar los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal, de conformidad con las bases generales que establezcan las leyes en materia municipal.
 
-V. Nombrar entre los munícipes, comisiones permanentes y temporales, para la atención de los asuntos públicos, de conformidad con lo que establece el presente código y la reglamentación respectiva.
+2. Intervenir en el proceso legislativo constitucional u ordinario de conformidad con los artículos 59, 62 y 196 de la Constitución Política local.
 
-VI. Nombrar y remover a los delegados o subdelegados municipales cuando por el tamaño del municipio sea necesaria su designación, al contralor, y a los apoderados y representantes generales o especiales que sean necesarios para ejercitar las acciones o derechos que competan al Municipio. Todo lo anterior, de conformidad con los términos de este código.
+3. Promover ante la Suprema Corte de Justicia de la Nación las controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
-VII. Actualizar la información demográfica, económica y social que coadyuve a la mejor toma de decisiones de gobierno y colaborar con las autoridades federales y estatales en la formación de censos y estadísticas de toda índole.
+4. Promover ante el Pleno del Tribunal Superior de Justicia las controversias constitucionales y acciones de inconstitucionalidad locales a que se refiere el artículo 158 de la Constitución Política local.
 
-VIII. Conceder licencias para separarse en lo individual de sus cargos, al presidente municipal, síndicos y regidores, así como autorizar al presidente municipal para ausentarse del municipio, por un término no mayor de quince días.
+5. Formular, aprobar, controlar y evaluar el Plan de Desarrollo Municipal, con arreglo a la ley.
 
-IX. Acordar el destino o uso de los bienes muebles e inmuebles y de toda propiedad municipal, y otorgar concesiones para el uso, aprovechamiento y explotación de los bienes inmuebles del dominio público municipal, así como el de los servicios públicos.
+6. Nombrar entre los munícipes, comisiones permanentes y temporales, para la atención de los asuntos públicos, de conformidad con lo que establezca la ley de la materia y la reglamentación respectiva.
 
-B). Administración Pública Municipal:
+7. Nombrar y remover a los delegados o subdelegados municipales cuando por el tamaño del municipio sea necesaria su designación, al contralor, y a los apoderados y representantes generales o especiales que sean necesarios para ejercitar las acciones o derechos que competan al Municipio. Todo lo anterior, de conformidad con los términos de este código.
 
-I. Crear las dependencias de la administración pública municipal centralizada, desconcentrada y paramunicipal. Solicitar al Congreso del Estado, la creación de organismos municipales de la administración descentralizada que juzgue necesarios.
+8. Actualizar la información demográfica, económica y social que coadyuve a la mejor toma de decisiones de gobierno y colaborar con las autoridades federales y estatales en la formación de censos y estadísticas de toda índole.
 
-II. Constituir y organizar en el reglamento correspondiente, los juzgados municipales, de conformidad con lo dispuesto en el título décimo de este código. Asimismo, designar a los titulares de dichos organismos, en los términos del citado título.
+9. Conceder licencias hasta por quince días para separarse en lo individual de sus cargos, al presidente municipal, síndicos y regidores. En el caso de que las ausencias excedan de los plazos señalados, se requerirá autorización del Congreso del Estado.
 
-III. Celebrar, con observancia de lo dispuesto en los ordenamientos legales aplicables, convenios y contratos que fueren favorables o necesarios en los distintos ramos de la administración pública municipal, con los gobiernos federal, estatal y otros gobiernos municipales de la entidad o de otras entidades.
+10. Dictar, con el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos, las resoluciones que afecten el patrimonio inmobiliario municipal, con arreglo a la ley.
 
-IV. Aprobar, cada año, el informe del estado que guarda la administración pública municipal, el cual será rendido por conducto del presidente municipal en sesión pública y solemne.
+11. Aprobar, con el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos, los actos o convenios que comprometan al Municipio por un plazo mayor al período del ayuntamiento, con arreglo a la ley.
 
-V. Nombrar y remover al secretario del Ayuntamiento, al tesorero municipal, y demás funcionarios de la administración pública municipal, a propuesta del Presidente Municipal y sin menoscabo de lo que este código disponga sobre el servicio civil de carrera en el municipio. Nombrar al titular del órgano de control interno municipal, el cual deberá ser electo por mayoría calificada del Ayuntamiento.
+12. Integrar un Comité Municipal de Seguridad Pública y organizar rondines de seguridad y tranquilidad social. Para tal efecto, el presidente municipal aprobará la designación y el funcionamiento del personal que integre los rondines de seguridad pública, los que tendrán el carácter de policía auxiliar.
 
-VI. Ordenar la comparecencia de cualquier servidor público municipal, para que informe sobre los asuntos de su competencia.
+13. Integrar un Comité de protección civil, para tal efecto el Presidente Municipal aprobará la designación y el funcionamiento del personal que integra el mismo.
 
-VII. Promover el desarrollo del personal, estableciendo los términos y condiciones para crear y asegurar la permanencia del servicio civil de carrera, así como el cumplimiento del régimen de seguridad social de los servidores públicos, empleados y trabajadores municipales.
+14. Turnar al Congreso del Estado o a la Diputación Permanente, en su caso, las renuncias y las solicitudes de licencia que le sean presentadas por los miembros de los ayuntamientos y de los Concejos Municipales, para que se resuelva sobre las mismas, conforme a lo dispuesto en la Constitución Política local y demás disposiciones aplicables. En estos casos, el ayuntamiento respectivo deberá dar aviso previamente al Ejecutivo del Estado.
 
-VIII. Organizar cursos, seminarios y programas tendientes a eficientar el cumplimiento de las funciones de los integrantes del Ayuntamiento y demás servidores públicos municipales.
+II. En materia de administración pública municipal:
 
-C). Desarrollo urbano y obra pública:
+1. Crear las dependencias y entidades de la administración pública municipal centralizada, desconcentrada y paramunicipal. En éste último caso, el ayuntamiento notificará al Congreso la creación de la entidad paramunicipal.
 
-I. Acordar la división territorial del municipio, determinando las unidades políticas y administrativas, y su denominación.
+El Congreso del Estado podrá crear entidades paramunicipales sólo a iniciativa del ayuntamiento interesado.
 
-II. Planificar y regular el desarrollo urbano y conurbado, así como los asentamientos humanos y la zonificación.
+2. Acordar el destino o uso de los bienes muebles e inmuebles y de toda propiedad municipal, así como otorgar concesiones para el uso, aprovechamiento y explotación de los bienes inmuebles del dominio público municipal, así como el de los servicios públicos.
 
-III. Planear y regular el desarrollo de manera conjunta y coordinada con municipios que formen una continuidad geográfica.
+3. Celebrar, con arreglo a la ley, convenios y contratos que fueren favorables o necesarios en los distintos ramos de la administración pública municipal, con los gobiernos federal, estatal y otros gobiernos municipales de la entidad o de otras entidades.
 
-IV. Intervenir de conformidad con la legislación respectiva en la regulación de la tenencia de la tierra urbana.
+4. Aprobar, cada año, el informe del estado que guarda la administración pública municipal, el cual será rendido por conducto del presidente municipal en sesión pública y solemne.
 
-V. Solicitar al Ejecutivo del Estado, la expropiación de bienes inmuebles por causa de utilidad pública.
+5. Nombrar y remover al secretario del ayuntamiento, al tesorero municipal y demás funcionarios de la administración pública municipal, a propuesta del presidente municipal y sin menoscabo del servicio profesional de carrera en el Municipio.
 
-VI. Participar en la creación y administración de las reservas territoriales del municipio, zonas ecológicas y áreas naturales protegidas de competencia local, así como controlar y vigilar la utilización del suelo en su jurisdicción territorial, en los términos de las leyes federales y estatales.
+6. Nombrar al titular del órgano de control interno municipal. Podrán establecerse contralorías sociales.
 
-VII. Preservar, conservar y restaurar el medio ambiente.
+7. Ordenar la comparecencia de cualquier servidor público municipal, para que informe sobre los asuntos de su competencia.
 
-VIII. Aprobar el programa municipal de obra pública; así como convenir y contratar su ejecución.
+8. Reglamentar el servicio profesional de carrera municipal.
 
-IX. Participar conjuntamente con los organismos y dependencias oficiales competentes, en la planeación y aplicación, en su caso, de inversiones públicas federales y estatales.
+9. Organizar cursos, seminarios y programas de educación y capacitación continua tendientes a eficientar el cumplimiento de las funciones de los integrantes del ayuntamiento y demás servidores públicos municipales.
 
-X. Otorgar concesiones, autorizaciones, permisos y licencias, respecto de obras y servicios públicos de su competencia, así como para construcciones de los particulares en los términos de los ordenamientos legales aplicables.
+10. Asegurar el régimen de seguridad social de los servidores públicos, empleados y trabajadores municipales.
 
-XI. Aprobar la apertura o ampliación de las vías públicas y decretar la nomenclatura de calles, plazas y jardines públicos, así como el alineamiento y numeración oficial de avenidas y calles, conforme al reglamento respectivo, dando aviso a los organismos correspondientes.
+III. En materia de desarrollo urbano y obra pública:
 
-D). Servicios públicos:
+1. Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
 
-I.- Proporcionar los servicios públicos a que se refiere el artículo 197 de este código, y en general todos los demás que determine el Congreso del Estado, porque se consideren de naturaleza municipal.
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
 
-II. Instrumentar los mecanismos necesarios para ampliar la cobertura y mejorar la calidad en la prestación de los servicios públicos.
+b) Participar en la creación y administración de las reservas territoriales municipales;
 
-III. Fijar las tarifas que correspondan a los derechos por la prestación de servicios públicos, en los términos de las leyes fiscales.
+c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional, en estos se deberá asegurar la participación de los Municipios;
 
-IV. Integrar un Comité Municipal de Seguridad Pública y organizar rondines de seguridad y tranquilidad social; para efectos de esta disposición el Presidente Municipal aprobará la designación y funcionamiento del personal que integre los rondines de seguridad pública, los que tendrán el carácter de policía auxiliar.
+d) Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia, en sus respectivas jurisdicciones territoriales;
 
-E). Hacienda Pública Municipal:
+e) Intervenir en la regularización de la tenencia de la tierra urbana;
 
-I. Administrar libremente su hacienda y controlar la aplicación del presupuesto de egresos del municipio, estableciendo un órgano o las funciones de control y evaluación del gasto público municipal.
+f) Otorgar licencias y permisos para construcciones;
 
-II. Discutir, analizar y someter a la aprobación del Congreso del Estado, a más tardar el 30 de noviembre de cada año, la iniciativa de Ley de Ingresos correspondiente a cada ejercicio fiscal.
+g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
-III. Discutir y analizar el Presupuesto de Egresos del Municipio y aprobarlo a más tardar el día 31 de diciembre del año anterior a su ejercicio y disponer su publicación en la gaceta oficial del municipio o en el Periódico Oficial del Gobierno del Estado y difundirlo por los medios más amplios de que se disponga.
+h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten el ámbito territorial de los Municipios;
 
-IV. Coordinar, supervisar y vigilar con toda oportunidad los ingresos municipales.
+i) Celebrar convenios para la administración y custodia de las zonas federales;
 
-V. Adquirir y poseer los bienes muebles e inmuebles necesarios para su funcionamiento y la prestación de los servicios públicos que le competen. Así como autorizar la enajenación o gravamen de bienes muebles.
+j) Expedir los reglamentos y disposiciones administrativas que fueren necesarios, en lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
-VI. Enviar al Congreso del Estado para su estudio y aprobación, los proyectos de contratación de créditos que afecten los ingresos de la administración municipal.
+2. Planear y regular, en el ámbito de sus competencias y dentro de sus jurisdicciones respectivas, el desarrollo de centros urbanos situados en territorios municipales que pertenezcan también a otras entidades federativas y que formen o tiendan a formar una continuidad demográfica, con apego a la ley federal de la materia y lo dispuesto por la fracción VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-VII. Aprobar los estados financieros mensuales que presente el tesorero municipal y publicarlos en la gaceta oficial municipal o en el Periódico Oficial del Estado, cada tres meses.
+3. Acordar la división territorial del municipio, determinando las unidades políticas y administrativas y su denominación.
 
-VIII. Presentar al Congreso del Estado la cuenta pública de la hacienda municipal, integrada por los informes trimestrales de origen y aplicación de los recursos públicos, mismos que deberán ser presentados dentro de los quince días siguientes al término del trimestre que corresponda; así mismo verificar la presentación de la cuenta pública del sector paramunicipal.
+4. Solicitar al Ejecutivo del Estado, la expropiación de bienes inmuebles por causa de utilidad pública.
 
-IX. Administrar prudentemente sus bienes muebles e inmuebles pudiendo dar en arrendamiento éstos últimos por un término que no exceda de su ejercicio legal, y si fuera mayor o si se tratara de enajenación, de permuta de cesión o de gravarlos, se requerirá la previa autorización del Congreso del Estado, en su caso. Los actos que se celebren sin este requisito, serán nulos y carecerán de valor jurídico.
+5. Preservar, conservar y restaurar el medio ambiente.
 
-X. Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo.
+6. Participar en la creación y administración de las zonas ecológicas y áreas naturales protegidas de competencia local.
 
-XI. Solicitar al Congreso del Estado la desafectación de bienes del dominio público municipal, cuando éstos dejen de destinarse al uso común o al servicio público y así convenga al interés público.
+7. Aprobar el programa municipal de obra pública; así como convenir y contratar su ejecución.
 
-XII. Solicitar al Congreso del Estado, la autorización para ejercer actos de dominio sobre los bienes inmuebles del Municipio.
+8. Participar conjuntamente con los organismos y dependencias oficiales competentes, en la planeación y aplicación, en su caso, de inversiones públicas federales y estatales.
 
-XIII. Aceptar herencias, legados o donaciones que se hagan al Municipio, siempre que no sean onerosas, y en caso contrario solicitar autorización al Congreso para aceptarlas.
+9. Aprobar la apertura o ampliación de las vías públicas y decretar la nomenclatura de calles, plazas y jardines públicos, así como el alineamiento y numeración oficial de avenidas y calles, conforme al reglamento respectivo, dando aviso a los organismos correspondientes.
 
-XIV. Ejercer la reversión de los bienes inmuebles donados, por incumplimiento de las condiciones establecidas en el decreto legislativo de autorización.
+IV. En materia de servicios públicos municipales:
 
-XV. Aprobar los movimientos de altas y bajas en el inventario de bienes muebles e inmuebles de propiedad municipal.
+1. Prestar los servicios públicos municipales siguientes:
 
-F). Desarrollo económico y social:
+a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
-I. Conceder subsidios, apoyos administrativos o estímulos fiscales; en los términos de la legislación de la materia, con la finalidad de impulsar la actividad económica del municipio, así como el establecimiento de nuevas empresas y la generación de empleos.
+b) Alumbrado público;
 
-II. Promover y apoyar los programas estatales y federales de desarrollo económico y de creación de empleos.
+c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 
-G). Educación y cultura, asistencia y salud públicas:
+d) Mercados y centrales de abasto;
 
-I. Fomentar las actividades educativas, científicas, tecnológicas, culturales, recreativas y deportivas.
+e) Panteones;
 
-II. Velar por el mantenimiento y conservación del patrimonio histórico, cultural y ecológico del Municipio.
+f) Rastro;
 
-III. Contar con un registro del acontecer histórico local y con el archivo de los documentos históricos municipales.
+g) Calles, parques y jardines y su equipamiento;
 
-IV. Promover y procurar la salud pública en el Municipio y auxiliar a las autoridades sanitarias estatales y municipales en la planeación y ejecución de sus disposiciones.
+h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, a través de la policía preventiva municipal;
 
-V. Prevenir y combatir los juegos prohibidos, la vagancia, el alcoholismo, la prostitución, la farmacodependencia y toda actividad que implique una conducta antisocial, con el apoyo de las distintas dependencias oficiales.
+i) Los demás que el Congreso del Estado determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
 
-VI. Cumplir y hacer cumplir las disposiciones legales en materia electoral, de cultos y de protección integral a menores.
+2. Instrumentar los mecanismos necesarios para ampliar la cobertura y mejorar la calidad en la prestación de los servicios públicos.
 
-VII. Organizar y promover la instrucción cívica que fomente entre los habitantes del Municipio, el conocimiento de sus derechos y obligaciones.
+3. Crear, con arreglo a la ley, los órganos operadores necesarios para prestar los servicios públicos municipales.
 
-H). Participación ciudadana:
+4. Aprobar, con arreglo a la ley, las concesiones a los particulares para que éstos presten los servicios públicos municipales.
 
-I. Formular programas de organización y participación social que permitan una mayor cooperación entre autoridades y habitantes del Municipio.
+V. En materia de hacienda pública municipal:
 
-II. Promover la participación de los diferentes sectores organizados del Municipio y de los habitantes interesados en la solución de la problemática municipal y en la formulación del Plan de Desarrollo Municipal.
+1. Administrar libremente su hacienda y controlar la aplicación del presupuesto de egresos del municipio, estableciendo un órgano de funciones de control y evaluación del gasto público municipal.
 
-III. Promover la organización de asociaciones de ciudadanos.
+2. Discutir, analizar y someter a la aprobación del Congreso del Estado, a más tardar el 30 de noviembre de cada año, la iniciativa de Ley de Ingresos correspondiente a cada ejercicio fiscal.
 
-IV. Reglamentar y establecer las bases que organicen la participación, colaboración y cooperación de los vecinos en la prestación, construcción y conservación de los servicios y obras públicas.
+3. Discutir y analizar el Presupuesto de Egresos del Municipio y aprobarlo a más tardar el día 31 de diciembre del año anterior a su ejercicio y disponer su publicación en el Periódico Oficial del Gobierno del Estado y difundirlo por los medios más amplios de que se disponga.
 
-V. Las demás que señalen las disposiciones legales aplicables.
+4. Coordinar, supervisar y vigilar con toda oportunidad los ingresos municipales.
+
+5. Enviar al Congreso del Estado para su estudio y aprobación, los proyectos de contratación de créditos que afecten los ingresos de la administración municipal.
+
+6. Aprobar los estados financieros mensuales que presente el tesorero municipal y publicarlos en el Periódico Oficial del Estado, cada tres meses.
+
+7. Presentar al Congreso del Estado la cuenta pública de la hacienda municipal, integrada por los informes trimestrales de origen y aplicación de los recursos públicos, mismos que deberán ser presentados dentro de los quince días siguientes al término del trimestre que corresponda; asimismo verificar la presentación de la cuenta pública del sector paramunicipal.
+
+8. Proponer al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de las leyes fiscales y conforme a los principios de equidad, proporcionalidad y capacidad contributiva.
+
+9. Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo.
+
+10. Aceptar herencias, legados o donaciones que se hagan al Municipio, siempre que no sean onerosas; en caso contrario solicitar autorización al Congreso para aceptarlas.
+
+11. Aprobar los movimientos de altas y bajas en el inventario de bienes muebles e inmuebles de propiedad municipal.
+
+VI. En materia de desarrollo económico y social:
+
+1. Conceder subsidios, apoyos administrativos o estímulos fiscales, en los términos de la legislación de la materia, con la finalidad de impulsar la actividad económica del municipio, así como el establecimiento de nuevas empresas y la generación de empleos.
+
+2. Promover y apoyar los programas estatales y federales de desarrollo económico y de creación de empleos.
+
+3. Coadyuvar con la federación y el estado para el desarrollo integral de sus comunidades.
+
+VII. En materia de educación y cultura, asistencia y salud públicas:
+
+1. Fomentar las actividades educativas, científicas, tecnológicas, culturales, recreativas y deportivas.
+
+2. Velar por el mantenimiento y conservación del patrimonio histórico, cultural y ecológico del Municipio.
+
+3. Contar con un registro del acontecer histórico local y con el archivo de los documentos históricos municipales.
+
+4. Promover y procurar la salud pública en el Municipio y auxiliar a las autoridades sanitarias estatales y municipales en la planeación y ejecución de sus disposiciones.
+
+5. Prevenir y combatir los juegos prohibidos, la vagancia, el alcoholismo, la prostitución, la farmacodependencia y toda actividad que implique una conducta antisocial, con el apoyo de las distintas dependencias oficiales.
+
+6. Cumplir y hacer cumplir las disposiciones legales en materia electoral, de cultos y de protección integral a menores.
+
+7. Organizar y promover la instrucción cívica que fomente entre los habitantes del Municipio, el conocimiento de sus derechos y obligaciones.
+
+VIII. En materia de participación ciudadana y vecinal:
+
+1. Formular programas de organización y participación social que permitan una mayor cooperación entre autoridades y habitantes del Municipio.
+
+2. Promover la participación de los diferentes sectores organizados del Municipio y de los habitantes interesados en la solución de la problemática municipal y en la formulación del Plan de Desarrollo Municipal.
+
+3. Promover la organización de asociaciones de ciudadanos.
+
+4. Reglamentar y establecer las bases que organicen la participación, colaboración y cooperación de los vecinos en la prestación, construcción y conservación de los servicios y obras públicas.
+
+5. Establecer e instrumentar mecanismos efectivos, funcionales y democráticos de participación comunitaria directa para la toma de decisiones fundamentales hacia el interior del gobierno municipal.
+
+IX. Las demás que señalen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 103.
 
 Se prohibe a los ayuntamientos:
 
-I. Enajenar o gravar bienes inmuebles del Municipio, sin autorización del Congreso del Estado.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I. Enajenar o gravar bienes inmuebles sin el acuerdo de las dos terceras partes de sus miembros o en contravención a las disposiciones aplicables.
 
 II. Gravar el tránsito o la salida de mercancías.
 
@@ -845,7 +989,9 @@ XV. Residir en la cabecera municipal durante el lapso de su período constitucio
 
 B). Administración Pública Municipal:
 
-I. Dirigir, coordinar, organizar, supervisar y evaluar a la administración pública municipal en la totalidad de sus órganos tanto centralizados como desconcentrados, descentralizados y paramunicipales.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I. Dirigir, coordinar, organizar, supervisar y evaluar a la administración pública municipal en la totalidad de sus órganos tanto centralizados como desconcentrados, descentralizados y entidades paramunicipales.
 
 II. Proponer al Ayuntamiento, las personas que deban ocupar los cargos de secretario, tesorero, jueces municipales y a los titulares de las dependencias y entidades de la administración pública municipal, a excepción del contralor.
 
@@ -863,7 +1009,9 @@ D). Servicios públicos:
 
 I. Asegurar y vigilar la eficacia y eficiencia de los servicios públicos municipales.
 
-II. Disponer de los elementos de la policía preventiva municipal, para la conservación del orden y la tranquilidad pública, con la salvedad que se establece en la Constitución General de la República.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II. Disponer de los elementos de la policía preventiva municipal, para la conservación del orden y la tranquilidad pública, con las salvedades que establece la Constitución General de la República y la particular del Estado.
 
 E). Hacienda Pública Municipal:
 
@@ -985,7 +1133,9 @@ La Comisión de Hacienda, Patrimonio y Cuenta Pública tendrá además de las qu
 
 I. Formular anualmente los proyectos de Ley de Ingresos y de Presupuesto de Egresos, presentándolos al Ayuntamiento, para su revisión y aprobación, en su caso, a más tardar, el día 15 del mes de septiembre del año anterior al de su ejercicio.
 
-II. Examinar, glosar y aprobar, las cuentas que rindiere la Tesorería Municipal, dentro de los primeros cinco días de cada mes.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II. Examinar, glosar y aprobar, las cuentas que rindiere la Tesorería Municipal, dentro de los primeros cinco días de cada mes. Para tal efecto, la Comisión o el Regidor del ramo emitirá un dictamen que se pondrá a la consideración del Ayuntamiento.
 
 III. Vigilar la exacta aplicación de las leyes fiscales.
 
@@ -1247,11 +1397,13 @@ IV. Cumplir con los demás requisitos que le señalen las leyes, o acuerde el Ay
 
 ### CAPÍTULO III. DE LA ADMINISTRACIÓN DESCENTRALIZADA
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ### CAPÍTULO IV. DE LA ADMINISTRACIÓN PARAMUNICIPAL
 
 ###### ARTÍCULO 135.
 
-Son organismos descentralizados municipales, las personas morales cuya creación apruebe el Congreso del Estado a propuesta del Ayuntamiento.
+Son organismos descentralizados municipales, las personas morales cuya creación apruebe el ayuntamiento o el Congreso del Estado a propuesta del ayuntamiento.
 
 ###### ARTÍCULO 136.
 
@@ -1294,6 +1446,16 @@ Son empresas de participación minoritaria las sociedades en las que el Municipi
 El Ayuntamiento podrá aprobar y autorizar la creación de fideicomisos públicos que promuevan e impulsen el desarrollo del Municipio o el beneficio colectivo de sus habitantes.
 
 La Tesorería Municipal fungirá como fideicomitente único de la Administración Pública Municipal, en los fideicomisos que constituya el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+###### ARTÍCULO 140
+
+BIS. Los ayuntamientos, cuando así lo acuerden, podrán solicitar al Congreso del Estado la creación de entidades paramunicipales. Para tal efecto, en la iniciativa motivarán las justificaciones correspondientes en función de las características socio-económicas de los municipios, de su capacidad económica y de las necesidades de la población.
+
+Cuando los ayuntamientos creen las entidades paramunicipales deberán notificar al Congreso del Estado el acuerdo de creación de las mismas.
+
+En el caso de que la entidad paramunicipal se cree por ley o decreto del Congreso del Estado, toda abrogación, derogación, reforma o adición deberá tramitarse ante la legislatura del estado.
 
 ## TÍTULO CUARTO. DE LA PLANEACIÓN DEL DESARROLLO MUNICIPAL
 
@@ -1549,6 +1711,8 @@ Cuando el Municipio lleve a cabo, obra de cualesquier tipo que sea de evidente b
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 172.
 
 Los municipios por acuerdo de los ayuntamientos, podrán coordinarse y asociarse para la formulación y aplicación de planes y programas comunes, así como para la creación de organismos o entidades de desarrollo regional que tengan por objeto, entre otros:
@@ -1575,21 +1739,27 @@ Los ayuntamientos aprobarán los convenios de asociación de los municipios corr
 
 ## TÍTULO QUINTO. DE LA LEGISLACIÓN MUNICIPAL
 
-### CAPÍTULO II. DE LAS BASES NORMATIVAS
+### CAPÍTULO II. DE LAS BASES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 173.
 
-Los ayuntamientos tienen facultades para formular, expedir, reformar y adicionar bandos de policía y buen gobierno; reglamentos para la organización política interior y el funcionamiento administrativo; circulares y otras disposiciones de carácter general y obligatorio en los municipios de conformidad con las bases normativas que establece este código.
+Los ayuntamientos tienen facultades para formular, expedir, reformar y adicionar los bandos de policía y gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal, de conformidad con las bases generales que establece este Código.
 
 ###### ARTÍCULO 174.
 
 La reglamentación municipal debe contener las normas de observancia general que requiera el gobierno y la administración municipal, basándose en las necesidades de cada municipio. Por lo mismo, cada ayuntamiento deberá evaluar sus necesidades sobre la base del tamaño de su territorio y población, así como de su desarrollo económico, social, urbano y de servicios.
 
-### CAPÍTULO III. DE LOS BANDOS DE POLICÍA Y BUEN GOBIERNO
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2001)</small>
+
+### CAPÍTULO III. DE LOS BANDOS DE POLICÍA Y GOBIERNO
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 175.
 
-Los bandos de policía y buen gobierno, los reglamentos interiores, las circulares y en general todas las disposiciones de observancia general y obligatoria en los municipios, deberán sujetarse a las siguientes bases normativas:
+Los bandos de policía y gobierno, los reglamentos, las circulares y en general todas las disposiciones de observancia general y obligatoria en los municipios, deberán sujetarse a las siguientes bases generales:
 
 I. El respeto absoluto a la Constitución Política de los Estados Unidos Mexicanos, a la particular del Estado de Coahuila y en general a la legislación ordinaria federal y local, con estricta y especial observancia de las garantías individuales.
 
@@ -1625,7 +1795,9 @@ III. Los reglamentos que sea necesario expedir para regular la intervención que
 
 IV. Para la expedición de cualesquier ordenamiento legal de observancia general y obligatoria en la jurisdicción municipal, el ayuntamiento deberá sesionar con la asistencia de por lo menos las dos terceras partes de sus integrantes. La secretaría del ayuntamiento deberá convocar a la sesión correspondiente con un mínimo de tres días hábiles de anticipación. El reglamento interior para la organización política del Municipio, regulará de conformidad con este código, todo lo relativo a las etapas legislativas de discusión y aprobación de los ordenamientos jurídicos de que se trata.
 
-V. La publicación deberá hacerse en la gaceta oficial del Municipio, o si esta no existe, en el periódico oficial del Gobierno del Estado y en alguno de los medios impresos de mayor circulación en el Municipio. Ninguna disposición normativa municipal tendrá vigencia sin la publicación correspondiente, la cual estará a cargo del presidente municipal, quien deberá además, disponer lo necesario para que la difusión sea lo más amplia posible, utilizando todos los medios que estime convenientes. Si la importancia de la materia así lo amerita, a juicio del ayuntamiento o del presidente municipal, deberá publicarse también, como preámbulo del ordenamiento jurídico de que se trate, una exposición de motivos, aprobada por el propio ayuntamiento, con el objetivo de lograr la interpretación y aplicación más correcta posible, del instrumento legal que se expide.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V. La publicación deberá hacerse siempre en el Periódico Oficial del Gobierno del Estado y, en su caso, en la gaceta oficial del Municipio siempre que se ordene publicarse expresamente. No obstante, para la vigencia del bando de policía y gobierno, los reglamentos, las circulares y las disposiciones de observancia general, bastará con la publicación en el Periódico Oficial del Gobierno del Estado. Si la importancia de la materia así lo amerita, a juicio del ayuntamiento o del presidente municipal, deberá publicarse también, como preámbulo del ordenamiento jurídico de que se trate, una exposición de motivos, aprobada por el propio ayuntamiento, con el objetivo de lograr la interpretación y aplicación más correcta posible, del instrumento legal que se expide.
 
 VI. La reforma o adición de los ordenamientos legales municipales, se podrá llevar a cabo en cualquier tiempo, siempre que se cumplan las anteriores bases normativas.
 
@@ -1639,15 +1811,19 @@ Los habitantes del Municipio que tengan, además la calidad de vecinos podrán, 
 
 La modificación de las condiciones socioeconómicas de los municipios en virtud de su crecimiento demográfico, surgimiento o desarrollo de actividades productivas o modificación de las condiciones políticas y otros aspectos de la vida comunitaria, obliga a los ayuntamientos a la adecuación de su normatividad interna, con el fin de preservar su autoridad institucional y propiciar el desarrollo armónico del Municipio.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2001)</small>
+
 ### CAPÍTULO IV. DE LOS REGLAMENTOS
 
 ###### ARTÍCULO 179.
 
-El bando de policía y buen gobierno es el ordenamiento legal que contiene las disposiciones que salvaguardan los valores comunitarios relativos a la seguridad general y al orden público, al civismo, a la salubridad, y al ornato públicos, a la propiedad y al bienestar colectivos; así mismo, contiene las normas obligatorias que protegen la integridad física y moral de los habitantes del municipio y las familias, su seguridad, tranquilidad y el disfrute legítimo de la propiedad privada.
+El bando de policía y gobierno es el ordenamiento legal que contiene las disposiciones que salvaguardan los valores comunitarios relativos a la seguridad general y al orden público, al civismo, a la salubridad, al ornato públicos, a la propiedad y al bienestar colectivos; así mismo, contiene las normas obligatorias que protegen la integridad física y moral de los habitantes del municipio y las familias, su seguridad, tranquilidad y el disfrute legítimo de la propiedad privada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 180.
 
-Los bandos de policía y buen gobierno, además de tomar en cuenta las bases normativas a que se refiere el capítulo II de este título, se sujetarán a las siguientes disposiciones:
+Los bandos de policía y gobierno, además de tomar en cuenta las bases generales a que se refiere el capítulo II de este título, se sujetarán a las siguientes disposiciones:
 
 I. Describirán con precisión las faltas en materia de salud y seguridad pública general, bienestar colectivo, urbanidad, ornato público y propiedad pública y particular.
 
@@ -1669,9 +1845,17 @@ IX. Regularán la prestación de auxilio policiaco a los particulares en su domi
 
 X. Organizarán el funcionamiento de la policía preventiva municipal.
 
-XI. Establecerán cualesquier otra disposición que se considere útil para cumplir los objetivos expresados en este artículo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2001)</small>
+
+XI. Regularán el uso, conservación y cuidado de las vías públicas, parques, jardines, lugares de esparcimiento, señalamientos viales y otros lugares públicos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MARZO DE 2001)</small>
+
+XII. Establecerán cualesquier otra disposición que se considere útil para cumplir los objetivos expresados en este artículo.
 
 ### CAPÍTULO V. DEL REGLAMENTO INTERIOR PARA LA ORGANIZACIÓN POLÍTICA DEL MUNICIPIO
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 181.
 
@@ -1723,7 +1907,9 @@ III. Los reglamentos que tiendan a asegurar la creación, funcionamiento y prest
 
 18). Agua potable.
 
-19). Alcantarillado, saneamiento y aprovechamiento de aguas residuales.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+19). Alcantarillado, drenaje, tratamiento y disposición de aguas residuales.
 
 20). Limpieza, recolección y aprovechamiento de basura.
 
@@ -1749,11 +1935,15 @@ III. Los reglamentos que tiendan a asegurar la creación, funcionamiento y prest
 
 31). Reglamento del Servicio Civil de Carrera.
 
-32). Reglamento interior de trabajo entre el municipio y sus trabajadores.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+32). Reglamento del Servicio Profesional de Carrera Municipal.
 
 33). Participación ciudadana en funciones de apoyo y gobierno municipal.
 
-34). Licencias para el funcionamiento de establecimientos comerciales.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+34). Participación comunitaria en funciones de apoyo y gobierno municipal.
 
 35). Apertura y cierre de establecimientos comerciales e industriales.
 
@@ -1769,11 +1959,19 @@ III. Los reglamentos que tiendan a asegurar la creación, funcionamiento y prest
 
 Los reglamentos en general, y especialmente los que regulan las actividades de los habitantes del Municipio, vecinos o transeúntes, respetarán invariablemente las garantías individuales, buscando siempre las condiciones que propicien la paz, la seguridad y tranquilidad públicas y el consiguiente logro de un desarrollo justo y armónico en la vida de las comunidades.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los Municipios deberán promover e instrumentar en sus reglamentos las garantías necesarias para que la libertad, la igualdad, la seguridad jurídica y la justicia social de todas las personas y de los grupos en que se integran, sean reales, efectivas y democráticas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todas las personas y de los grupos en la vida política, económica, cultural y social del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+En los reglamentos municipales deberán observarse, en el ámbito de su competencia, las leyes o decretos que apruebe el Congreso del Estado en materia municipal, así como las demás normas reglamentarias que expidan los poderes públicos del Estado para uniformar el régimen interno de la entidad.
+
 ### CAPÍTULO VI. DE LAS CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
 
 ###### ARTÍCULO 184.
 
-El reglamento interior para la organización política del Municipio tiene por objeto regular la estructura, la integración, la instalación y el funcionamiento del Ayuntamiento o Consejo Municipal, en su caso. Normará las sesiones del Ayuntamiento, los requisitos y protocolos para la discusión y aprobación de las disposiciones legislativas municipales; la organización y funcionamiento de las dependencias de la administración central del Municipio; las comisiones del Ayuntamiento y sus dependencias auxiliares.
+El reglamento interior para la organización política del Municipio tiene por objeto regular la estructura, la integración, la instalación y el funcionamiento del ayuntamiento o, en su caso, del Concejo Municipal. Normará las sesiones del ayuntamiento, los requisitos y protocolos para la discusión y aprobación de las disposiciones legislativas municipales; la organización y funcionamiento de las dependencias de la administración central del Municipio; las comisiones del ayuntamiento y sus dependencias auxiliares.
 
 ###### ARTÍCULO 185.
 
@@ -1800,6 +1998,8 @@ Las circulares administrativas no deberán ser de naturaleza legislativa autóno
 ## TÍTULO SEXTO. DE LOS SERVICIOS PÚBLICOS MUNICIPALES
 
 ### CAPÍTULO II. SERVICIOS PÚBLICOS, COMPETENCIA DEL MUNICIPIO
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 189.
 
@@ -1837,7 +2037,7 @@ En caso de catástrofes, calamidades o desastres en la comunidad, los servicios 
 
 ###### ARTÍCULO 197.
 
-Los ayuntamientos tendrán a su cargo los siguientes servicios públicos: agua potable; alcantarillado, saneamiento y aprovechamiento de aguas residuales; alumbrado público; limpieza, recolección y tratamiento de basura; mercados y centrales de abasto; rastros; calles, banquetas y pavimento; jardines, parques, áreas ecológicas y recreativas; seguridad pública; tránsito y vialidad; estacionamientos públicos; panteones; educación, cultura y deportes; bibliotecas públicas; asistencia y prevención social; salud pública; bomberos; transporte urbano; regulación urbana y construcción; conservación ecológica y protección ambiental; desarrollo urbano y rural; además, otros que correspondan a la naturaleza del servicio público municipal, que lo determine el Congreso del Estado según las condiciones territoriales y socioeconómicas de los municipios, así como su capacidad administrativa y financiera, o que se señalen en otros ordenamientos legales.
+Los ayuntamientos tendrán a su cargo los siguientes servicios públicos: agua potable; drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales; alumbrado público; limpia, recolección, traslado, tratamiento y disposición final de residuos; mercados y centrales de abasto; panteones; rastros; calles, parques y jardines y su equipamiento; banquetas y pavimento; áreas ecológicas y recreativas; seguridad pública; policía preventiva; tránsito y vialidad; protección civil, estacionamientos públicos; educación, cultura y deportes; bibliotecas públicas; asistencia y prevención social; salud pública; bomberos; transporte urbano y rural; regulación urbana y construcción; conservación ecológica y protección ambiental; desarrollo urbano y rural; además, otros que correspondan a la naturaleza del servicio público municipal, que lo determine el Congreso del Estado según las condiciones territoriales y socioeconómicas de los municipios, así como su capacidad administrativa y financiera, o que se señalen en otros ordenamientos legales.
 
 ###### ARTÍCULO 198.
 
@@ -1961,9 +2161,13 @@ La seguridad pública municipal consiste en las acciones para prevenir delitos y
 
 Para cumplir la función de seguridad pública municipal, en cada municipio se integrará un cuerpo denominado Policía Preventiva Municipal, que estará a cargo de un Director, designado por el Ayuntamiento, a propuesta del presidente municipal.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 211.
 
-El Presidente Municipal dispondrá de los elementos de la Policía Preventiva Municipal, excepto en los lugares en los que el Ejecutivo Federal y el Gobernador del Estado residan habitual o transitoriamente.
+El Presidente Municipal dispondrá de los elementos de la Policía Preventiva Municipal, excepto cuando, conforme a las disposiciones aplicables, el Presidente de la República, o en su caso el Gobernador del Estado, asuma el mando.
+
+Los cuerpos de seguridad pública municipales deberán acatar las órdenes que les transmita el Presidente Municipal o, en su caso, el Gobernador del Estado o el Presidente de la República, en los casos en que éste o aquéllos juzguen de fuerza mayor o de alteración grave del orden público.
 
 ###### ARTÍCULO 212.
 
@@ -2085,6 +2289,18 @@ Las atribuciones y obligaciones de los Consejos Municipales de Protección Civil
 
 La concurrencia del Estado en la prestación de los servicios públicos municipales, se llevará a cabo sólo cuando el municipio no disponga de los elementos técnicos, administrativos o financieros requeridos para que la prestación se haga en forma adecuada, en cantidad y calidad, a las necesidades a satisfacer, y en forma constante, permanente y equitativa. El municipio podrá recuperar la prestación directa de los servicios cuando se superen las deficiencias técnicas, administrativas o financieras.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El Congreso del Estado resolverá cuando el Gobierno Estatal asuma una función o servicio municipal en el caso de que no exista el convenio entre el Ejecutivo del Estado y el Ayuntamiento respectivo, por considerar que el Municipio de que se trate está imposibilitado para ejercer o prestar la función o servicio municipal en detrimento de su comunidad. En este caso, el procedimiento se sujetará a las bases siguientes:
+
+I. Será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes, para que el Congreso tenga competencia para resolver lo conducente.
+
+II. La resolución del Congreso podrá ser impugnada en los términos del artículo 158 de la Constitución Política del Estado.
+
+III. En el caso de que no exista la solicitud previa del ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes, el Ejecutivo del Estado o el equivalente al veinte por ciento de los integrantes de los ayuntamientos o Concejos Municipales, podrán acudir ante el Tribunal Superior de Justicia, en Pleno, para que por vía de controversia constitucional local resuelva si procede o no que el Gobierno Estatal asuma la función o servicio público municipal de que se trate.
+
+IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
+
 ###### ARTÍCULO 231.
 
 Para los servicios públicos que el municipio considere de una complejidad técnica o financiera que amerite su prestación a través de organismos públicos descentralizados, con personalidad jurídica propia, con o sin la concurrencia del Estado, el Ayuntamiento podrá solicitar la intervención del Ejecutivo del Estado, para que promueva ante el Congreso del Estado, la creación del organismo correspondiente.
@@ -2100,6 +2316,8 @@ Para la prestación de servicios públicos municipales que requieren la celebrac
 Para la prestación de los servicios públicos municipales que impliquen una coordinación legal necesaria entre el municipio y otros ordenes o niveles de gobierno, como es el caso de los servicios de seguridad pública y educación, el Ejecutivo del Estado concurrirá con la competencia preestablecida en la ley correspondiente, y los reglamentos municipales relativos a estos servicios regularán, en los marcos legales respectivos, la competencia y funciones del municipio.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 234.
 
@@ -2207,15 +2425,19 @@ El plazo de las concesiones que se otorguen conforme a las disposiciones de este
 
 ###### ARTÍCULO 242.
 
-La actividad financiera municipal comprende la obtención y administración de los ingresos, la presupuestación, el ejercicio y control del gasto, la administración del patrimonio, la concentración y ejercicio de la deuda, la contabilidad y cuenta pública, la coordinación intergubernamental, y los procedimientos administrativo-contenciosos que establece el Código Financiero para los Municipios del Estado de Coahuila.
+Los Municipios administrarán libremente su hacienda conforme a las bases previstas en la Constitución Local, este Código y demás disposiciones aplicables.
+
+La actividad financiera municipal comprende, dentro de otros, la obtención y administración de los ingresos, la presupuestación, el ejercicio y control del gasto, la administración del patrimonio, la concentración y ejercicio de la deuda, la contabilidad y cuenta pública, la coordinación intergubernamental y los procedimientos administrativo-contenciosos que establece el Código Financiero para los Municipios del Estado de Coahuila.
 
 ###### ARTÍCULO 243.
 
 En materia financiera corresponderá a las autoridades municipales, las atribuciones y obligaciones que les otorguen este código, y la legislación de la materia.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 244.
 
-En materia de obtención y administración de los ingresos, los Ayuntamientos formularán anualmente su presupuesto, determinando las cantidades que obtendrán por cada concepto en el ejercicio fiscal siguiente; durante el mes de octubre de cada año, el Ayuntamiento someterá el presupuesto de ingresos a la aprobación del Congreso del Estado.
+En materia de obtención y administración de los ingresos, los ayuntamientos formularán anualmente su presupuesto, determinando las cantidades que obtendrán por cada concepto en el ejercicio fiscal siguiente. Durante el mes de noviembre de cada año, acompañando a la iniciativa de ley de ingresos, el ayuntamiento someterá el presupuesto de ingresos a la consideración y opinión del Congreso del Estado.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -2229,9 +2451,11 @@ En materia de presupuestación, ejercicio y control del gasto, el presupuesto de
 
 El Presupuesto de Egresos Municipal comprenderá las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como el pago de pasivos o deuda pública que realizan los ayuntamientos y sus organismos descentralizados.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 247.
 
-El patrimonio municipal se constituirá con los bienes del dominio público y privado con que cuente de conformidad con las disposiciones aplicables del Código Financiero para los Municipios del Estado de Coahuila. Este ordenamiento jurídico establecerá el régimen de los bienes y su clasificación, así como las bases para su uso, enajenación, arrendamiento y en general su traslación de dominio.
+El patrimonio municipal se constituirá con los bienes del dominio público y privado con que cuente de conformidad con las disposiciones aplicables del Código Financiero para los Municipios del Estado de Coahuila. Este ordenamiento jurídico establecerá el régimen de los bienes y su clasificación, así como los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del ayuntamiento.
 
 ###### ARTÍCULO 248.
 
@@ -3173,6 +3397,8 @@ V. No haber sido condenados por delito intencional que se encuentre sancionado c
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 366.
 
 Se tramitaran conforme a lo dispuesto en este capítulo, todos aquellos asuntos que por mandato de ley, por su naturaleza o a solicitud de parte interesada requieran la intervención del Tribunal, sin que esté promovido jurisdiccionalmente conflicto alguno entre partes determinadas.
@@ -3185,19 +3411,23 @@ En los procedimientos paraprocesales las entidades públicas municipales, sindic
 
 Cuando tenga que otorgarse depósito o fianza, por mandato de la ley o por disposición de alguna autoridad o por acuerdo entre las partes, podrá el interesado concurrir ante el Presidente del Tribunal, el cual la recibirá y en su caso, la notificará a la parte interesada. Cuando se trate de cancelación de una fianza o de la devolución de un deposito, también podrá tramitarse ante el Presidente del Tribunal, quien acordará de inmediato con citación del beneficiario y previa comprobación de que cumplió las obligaciones que garantizan la fianza o el depósito, autorizará su cancelación y devolución.
 
-## TÍTULO NOVENO. DEL SERVICIO CIVIL DE CARRERA MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2001)</small>
+
+## TÍTULO NOVENO. DEL SERVICIO PROFESIONAL DE CARRERA MUNICIPAL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 369.
 
-Los Municipios del Estado que cuenten con más de 50,000 habitantes habrán de establecer el Servicio Civil de Carrera Municipal en sus respectivos Ayuntamientos, el cual es un sistema de administración del personal basado en los méritos profesionales y de servicio público que asegurará contratar, retener y promover a los funcionarios públicos municipales aplicando el criterio de calificación o idoneidad.
+Los Municipios del Estado que cuenten con más de 50,000 habitantes habrán de establecer el Servicio Profesional de Carrera Municipal en sus respectivos ayuntamientos, el cual es un sistema de administración del personal basado en los méritos profesionales y de servicio público que asegurará contratar, retener y promover a los funcionarios públicos municipales aplicando el criterio de calificación o idoneidad.
 
-El Servicio Civil de Carrera Municipal deberá contener las disposiciones para que funcionarios públicos municipales logren un plan de vida y de carrera que asegure su profesionalización. También deberá contener los criterios y parámetros para su ingreso, su desarrollo laboral y su retiro, lo que permitirá contar con recursos humanos especializados y permanentes, garantizando así la continuidad de los programas institucionales, independientemente de los relevos periódicos de las autoridades municipales establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+El Servicio Profesional de Carrera Municipal deberá contener las disposiciones para que funcionarios públicos municipales logren un plan de vida y de carrera que asegure su profesionalización. También deberá contener los criterios y parámetros para su ingreso, su desarrollo laboral y su retiro, lo que permitirá contar con recursos humanos especializados y permanentes, garantizando así la continuidad de los programas institucionales, independientemente de los relevos periódicos de las autoridades municipales establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 370.
 
-El Servicio Civil de Carrera tendrá como objetivos:
+El Servicio Profesional de Carrera tendrá como objetivos:
 
 I. Dotar a la administración pública municipal de servidores públicos profesionales, especializados, con aptitud, calidad, vocación de servicio, lealtad institucional y eficacia en la atención de los asuntos públicos.
 
@@ -3213,17 +3443,23 @@ VI. Propiciar el desarrollo integral de los Servidores Públicos.
 
 VII. Renovar la imagen de los servidores públicos municipales.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 371.
 
-Para el buen funcionamiento y desarrollo del Servicio Civil de Carrera Municipal, los ayuntamientos constituirán un Comité del Servicio Civil de Carrera, como un organismo desconcentrado con autonomía técnica y administrativa, el cual estará integrado por dos funcionarios de la Administración Pública Municipal, dos representantes de los Servidores Públicos Municipales que tengan una antigüedad no menor a los tres años, un representante del Ayuntamiento y por un especialista en materia de recursos humanos.
+Para el buen funcionamiento y desarrollo del Servicio Profesional de Carrera Municipal, los ayuntamientos constituirán un Comité del Servicio Profesional de Carrera, como un organismo desconcentrado con autonomía técnica y administrativa, el cual estará integrado por dos trabajadores de confianza, dos trabajadores de base que tengan una antigüedad no menor a los tres años, un representante del ayuntamiento y por un especialista en materia de recursos humanos.
 
-Los representantes ante este Comité serán nombrados de la siguiente manera: los dos funcionarios públicos serán nombrados por el ayuntamiento; los dos representantes de los servidores públicos municipales lo serán por votación de éstos; el representante del Ayuntamiento por éste y el especialista en materia de recursos humanos será propuesto por el Presidente Municipal y sujeto a la aprobación del ayuntamiento. Para cada titular se designará un suplente.
+Los representantes ante este Comité, serán nombrados de la siguiente manera: los dos trabajadores de confianza serán nombrados por el Ayuntamiento; los dos trabajadores de base lo serán por votación de éstos; el representante del Ayuntamiento por éste; y el especialista en materia de recursos humanos, será propuesto por el Presidente Municipal y sujeto a la aprobación del Ayuntamiento. Para cada titular, se designará un suplente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 372.
 
-Para la implementación del sistema, el Comité del Servicio Civil de Carrera deberá:
+Para la implementación del sistema, el Comité del Servicio Profesional de Carrera deberá:
 
-I. Determinar los Servidores Públicos Municipales que participarán en el sistema de Servicio Civil de Carrera Municipal, puestos iniciales y puestos tope; además, definir los puestos de base, eventuales y de confianza.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I. Determinar los Servidores Públicos Municipales y aquellos que sean de nuevo ingreso que participarán en el sistema de Servicio Profesional de Carrera Municipal, puestos iniciales y puestos tope; además, definir los puestos de base, eventuales y de confianza.
 
 II. Formular la descripción de puestos y definir los perfiles y requisitos que deben cubrir las personas que ocuparán estos puestos a fin de contar con una base sólida para la selección del personal.
 
@@ -3241,9 +3477,11 @@ VIII. Definir los criterios para un sistema de retiro digno.
 
 IX. Las demás que le determine su Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 373.
 
-Son atribuciones del Comité de Servicio Civil de Carrera Municipal las siguientes:
+Son atribuciones del Comité de Servicio Profesional de Carrera Municipal las siguientes:
 
 I. Formular y publicar las convocatorias para los candidatos a ocupar los puestos vacantes tanto de nueva creación, como los generados por otro tipo de movimiento en el personal, señalando los requisitos que deberán cubrir los aspirantes.
 
@@ -3257,9 +3495,11 @@ V. Dictar resolución dentro del sistema de retiro digno.
 
 VI. Las demás que le determine su Reglamento.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 374.
 
-El Comité del Servicio Civil de Carrera Municipal elaborará el Reglamento del Servicio Civil de Carrera Municipal, el cual deberá ser aprobado por el Cabildo. En el Reglamento se contendrán las disposiciones relativas al buen funcionamiento y desarrollo de cada uno de los componentes del modelo de Servicio Civil de Carrera Municipal; además, en este ordenamiento se regulará la actuación de los integrantes del Comité de Servicio Civil, así como la operación y funcionamiento del mismo.
+El Comité del Servicio Profesional de Carrera Municipal elaborará el Reglamento del Servicio profesional de Carrera Municipal, el cual deberá ser aprobado por el Cabildo. En el Reglamento se contendrán las disposiciones relativas al buen funcionamiento y desarrollo de cada uno de los componentes del modelo de Servicio Profesional de Carrera Municipal; además, en este ordenamiento se regulará la actuación de los integrantes del Comité de Servicio Profesional, así como la operación y funcionamiento del mismo.
 
 ###### ARTÍCULO 375.
 
@@ -3269,9 +3509,11 @@ I. De admisión, que se encargará del reclutamiento, selección, contratación 
 
 II. De Capacitación y Evaluación, que se encargará de la capacitación y evaluación permanente del personal, procesos que permitirán contar con los elementos para el reconocimiento al mérito en el desempeño laboral.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 376.
 
-El Comité del Servicio de Carrera Municipal llevará registro de cada uno de los procesos que componen la carrera funcionarial de los Servidores Públicos Municipales; para esto, estará facultado para solicitar información a la Administración Pública Municipal en todo lo relacionado con este capítulo. Asimismo, implementará un sistema de informática que permita el control, el buen desarrollo y seguimiento del Servicio Civil de Carrera.
+El Comité del Servicio Profesional de Carrera Municipal llevará registro de cada uno de los procesos que componen la carrera profesional de los Servidores Públicos Municipales; para esto, estará facultado para solicitar información a la Administración Pública Municipal en todo lo relacionado con este capítulo. Asimismo, implementará un sistema de informática que permita el control, el buen desarrollo y seguimiento del Servicio Profesional de Carrera.
 
 ###### ARTÍCULO 377.
 
@@ -3580,3 +3822,43 @@ PRIMERO. El presente decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Los ayuntamientos, en la esfera de su competencia, podrán constituir conforme a las disposiciones aplicables los organismos operadores que emiten necesarios para la prestación de los servicios públicos municipales a que se refiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 20 DE MARZO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en coordinación con todos los Ayuntamientos de la entidad, antes del inicio del ejercicio fiscal del año 2002, establecerán los criterios necesarios para que los valores unitarios de suelo y de construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las reformas o adiciones legales correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Para tal efecto, el Congreso del Estado a través de la Comisión de Finanzas coordinará, a partir de la entrada en vigor de este decreto, un programa con los municipios para definir los criterios proporcionales y equitativos que se deben establecer para fijar la base de las contribuciones sobre la propiedad inmobiliaria, de conformidad con las disposiciones aplicables.
+
+En este programa deberá participar el Instituto Coahuilense del Catastro y la Información Territorial como órgano de apoyo y asesoría necesaria.
+
+###### ARTÍCULO TERCERO.
+
+Los juzgados de conciliación deberán continuar con la denominación y competencia que actualmente tienen, hasta el treinta y uno de agosto del año dos mil uno, fecha en que concluirán sus funciones, quedando sin efecto los nombramientos de sus titulares. Consecuentemente, las disposiciones contenidas en los artículos de la Ley Orgánica del Poder Judicial que hagan referencia a los juzgados de conciliación estarán en vigor hasta la fecha señalada, con excepción de lo dispuesto en la fracción I del artículo 43.
+
+El personal que formaba parte de los Juzgados de Conciliación podrán integrar los juzgados municipales que establece el Código Municipal, según lo acuerde el Ayuntamiento respectivo.
+
+En todo caso, se deberán respetar los derechos laborales del personal que formaba parte de los Juzgados de Conciliación. Los ayuntamientos emitirán los acuerdos necesarios para regularizar su situación laboral y su reorganización dentro de la administración pública municipal.
+
+Hasta en tanto el Consejo de la Judicatura determine nuevos distritos judiciales, seguirán vigentes, para todos los efectos legales, los ocho distritos previstos en el texto anterior del artículo 5° de la Ley Orgánica del Poder Judicial, que ahora se reforma; y que tienen como cabecera las ciudades de: Saltillo, Monclova, Sabinas, Piedras Negras, Acuña, Torreón, San Pedro de las Colonia y Parras de la Fuente.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, deberán instalar las Unidades Municipales de Protección Civil, según sus necesidades, condiciones y particularidades socioeconómicas.
+
+Estas unidades formarán parte de la administración pública municipal, según el acuerdo que emita el Ayuntamiento.
+
+En aquellos municipios que no cuenten con estas unidades, el Ejecutivo del Estado a través de la instancia correspondiente podrá coadyuvar, colaborar o sustituir la función de las mismas hasta en tanto el municipio pueda asumir plenamente esta función.
+
+###### ARTÍCULO QUINTO.
+
+Dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, los ayuntamientos deberán adecuar su reglamentación, acuerdos, circulares y demás disposiciones generales.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario.
