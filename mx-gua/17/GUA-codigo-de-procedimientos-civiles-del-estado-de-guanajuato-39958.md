@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1999-06-01"
+last_updated: "1999-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1999.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -2725,6 +2725,10 @@ II.- Los documentos públicos que conforme a este Código hacen prueba plena, y
 
 III.- Los documentos privados reconocidos ante notario o ante autoridad judicial.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+IV.- Los Convenios o resoluciones que se dicten en el procedimiento previsto en la Ley de Atención a la Violencia Intrafamiliar en el Estado de Guanajuato.
+
 ###### Art. 449.
 
 El reconocimiento sólo puede pedirse de la persona obligada, del albacea de su sucesión, del representante legítimo del obligado, del representante de un ausente o ignorado, del gerente, presidente o director de una sociedad o asociación de hecho, del que lleva la firma social en las sociedades y del mandatario con poder bastante.
@@ -5086,3 +5090,7 @@ El presente decreto entrará en vigor el cuarto día siguiente al de su publicac
 ###### ARTICULO SEGUNDO.
 
 Para los efectos de los artículos reformados, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente decreto, continuarán substanciándose ante el tribunal que esté conociendo de los mismos.
+
+P.O. 24 DE DICIEMBRE DE 1999.
+
+Artículo Unico.- El presente Decreto entrará en vigor el Primero de Marzo del año 2000, previa su publicación en el Periódico Oficial del Gobierno del Estado.
