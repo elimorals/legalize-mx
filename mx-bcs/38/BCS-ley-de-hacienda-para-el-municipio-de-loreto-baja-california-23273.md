@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2003-12-31"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -38,8 +38,6 @@ D E C R E T O NUM. 1309
 EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
 
 D E C R E T A :
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NUMERO 1445, MODIFICARON DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA PRESENTE LEY, REESTRUCTURANDO LA MISMA, DANDO COMO RESULTADO UN CONTENIDO DIFERENTE , Y SI BIEN DIFERENTES ARTICULOS QUEDARON INTACTOS, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN EL B.O. DE31 DE DICIEMBRE DE 2003.</small>
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR.
 
@@ -117,7 +115,7 @@ El Impuesto Predial comprende la propiedad o posesión de terrenos y construccio
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-###### ARTÍCULO 7º.
+###### Artículo 7º.
 
 Son sujetos por deuda propia y con responsabilidad directa del Impuesto Predial:
 
@@ -269,7 +267,7 @@ I. Todo acto por el que se transmite una propiedad; incluyendo la donación, la 
 
 II. La compraventa en la que el vendedor se reserve la propiedad aun cuando la transferencia de esta opere con posterioridad.
 
-III. La promesa de adquirir, cuando se pacte que el futuro comprador entrara en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de el, antes de que se celebre el contrato prometido.
+III. La promesa de adquirir, cuando se pacte que el futuro comprador entrara en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido.
 
 IV. La cesión de derechos del comprador o del futuro comprador en los casos de las Fracciones II y III, que anteceden, respectivamente.
 
@@ -363,7 +361,7 @@ Las autoridades fiscales se reservan el derecho de ejercer sus facultades de com
 
 ###### Artículo 23.
 
-Para efectuar la reducción a que se refiere el Artículo 18 de esta Ley, se aplicará el Salario Mínimo correspondiente al año de calendario en que se este en los supuestos de pago del impuesto a que se refiere el Artículo 21 de esta Ley.
+Para efectuar la reducción a que se refiere el Artículo 18 de esta Ley, se aplicará el Salario Mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el Artículo 21 de esta Ley.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -817,21 +815,53 @@ Los servicios prestados por las oficinas catastrales, causarán un derecho que s
 
 T A R I F A :
 
-I. Por cada copia de planos...5 días de salario mínimo.
+I. Por cada copia de planos 5 días de salario mínimo.
 
-II. Avalúos periciales por cada predio sobre su valor. Sin que pueda ser inferior a...0.10 al millar.
+II. Avalúos periciales por cada predio sobre su valor. Sin que pueda ser inferior
 
-III. Certificados, por cada hoja o fracción...1 día de salario mínimo.
+a...0.10 al millar.
 
-IV. Otorgamiento de claves catastrales, por cada día...2.5 días de salario mínimo.
+III. Certificados, por cada hoja o fracción 1 día de salario mínimo.
 
-V. Por búsqueda de datos para proporcionar información económica y/o certificado...1 día salario por predio mínimo.
+IV. Otorgamiento de claves catastrales, por cada día 2.5 días de salario mínimo.
 
-VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en que se ejecuten los trabajos relativos...5 días salario mínimo en adelante.
+V. Por búsqueda de datos para proporcionar
 
-VII. Por expedición de coordenas (sic) UTM...5 días salario mínimo.
+información económica y/o certificado 1 día salario por predio mínimo.
 
-VIII. Registro anual de peritos valuadores...25 días de salario mínimo.
+VI. Por deslindes o levantamientos prediales que se
+
+realicen a solicitud de particulares, de acuerdo con el
+
+tiempo en que se ejecuten los trabajos relativos 5 días salario mínimo en
+
+adelante.
+
+VII. Por expedición de coordenas (sic) UTM 5 días salario mínimo.
+
+VIII. Registro anual de peritos valuadores 25 días de salario mínimo.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+IX.- Avalúos catastrales por cada predio 0.5 al millar.
+
+sobre su valor, sin que pueda ser inferior a un día de salario
+
+mínimo 25 días de salario mínimo
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+X.- Certificación de documentos 5 días de salario mínimo
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+XI.- Manifestación catastral 2 días de salario mínimo
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+XII.- Por autorización de fusión y subdivisión de
+
+Predios 1 día de salario mínimo
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -843,7 +873,9 @@ VIII. Registro anual de peritos valuadores...25 días de salario mínimo.
 
 Para edificar, reedificar, ampliar o reconstruir las fincas ubicada en las poblaciones del Municipio de Loreto se requiere licencia previa de la Dirección de Asentamientos Humanos, Obras Públicas y Ecología Municipal.
 
-La ejecución de las obras sin la licencia respectiva, se sancionará conforme al artículo 203, Fracción VIII de la Ley de Obras Públicas del Estado.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+La ejecución de las obras sin la licencia respectiva, se sancionará conforme al artículo 203, Fracción VIII del Reglamento de Construcciones para el Estado de Baja California Sur.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -871,7 +903,9 @@ T A R I F A :
 
 a). Registro anual de responsables de proyectos y obras...25 días salario mínimo.
 
-b). Autorización de fusión, división o relotificación de predios...1 día salario mínimo.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004) 1 día salario
+
+b). Autorización de lotificación y relotificación de predios. mínimo.
 
 c). Inspección de terminación de obras...2.5 días salario mínimo en adelante.
 
@@ -893,6 +927,8 @@ i). Supervisión técnica...15 días salario mínimo.
 
 Si la obra no se concluye en el plazo concedido, se podrá solicitar el refrendo de la licencia, que se otorgará previo pago de los derechos correspondientes, por el tiempo que sea necesario para la conclusión de la misma, quedando obligando (sic) el interesado a dejar expedita la vía pública una vez terminado el plazo que se haya concedido.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
 La ejecución de obras sin la licencia respectiva, se sancionará conforme al Artículo 203, Fracción VIII del Reglamento de construcciones para el Estado de Baja California Sur.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
@@ -909,11 +945,11 @@ Para la prestación y tarifas en el cobro de los servicios de agua potable, dren
 
 ### CAPITULO QUINTO. DEL REGISTRO CIVIL
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 56.
 
-Las actas del Registro Civil de nacimiento, matrimonio, adopción y defunción que se levantan en sus oficinas y en horas hábiles, quedarán exentan (sic) de pago.
+Las actas del Registro Civil de nacimiento y defunción que se levanten en sus oficinas y en horas hábiles, quedarán exentas de pago. Todo lo (sic) menores que deben ser presentados por el padre o la madre o ambos, ante el Oficial del Registro Civil, antes de los ciento ochenta días de nacidos, de conformidad con el artículo 24 de la Ley del Registro Civil para el Estado de Baja California Sur, en caso contrario, se impondrá una sanción de un día de salario mínimo.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -925,31 +961,67 @@ T A R I F A:
 
 I.- Registro de nacimientos:
 
-a). En horas inhábiles, en la oficina...2 días salario mínimo.
+a). En horas inhábiles, en la oficina 2 días salario mínimo.
 
-b). Fuera de la oficina...10 días salario mínimo.
+b). Fuera de la oficina 10 días salario mínimo.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 II.- Matrimonios:
 
-a). En horas inhábiles en la oficina...3 días de salario mínimo.
+a) En horas hábiles en oficina 1 día de salario mínimo
 
-b). Fuera de las oficinas...10 días salario mínimo.
+b). En horas inhábiles en la oficina 3 días de salario mínimo.
 
-c). Registro de matrimonios contraídos por mexicanos fuera de la República...3 días salario mínimo.
+c) Fuera de las oficinas 10 días de salario mínimo.
 
-d). Registro de matrimonios contraídos por extranjeros fuera de la República...5 días salario mínimo.
+d). Registro de matrimonios contraídos por
+
+mexicanos fuera de la República 3 días salario mínimo.
+
+e). Registro de matrimonios contraídos
+
+por extranjeros fuera de la República 5 días salario mínimo.
+
+f) Registro de matrimonio contraído por
+
+extranjeros en horas hábiles 10 días de salario mínimo
+
+g) Registro de matrimonio contraído por
+
+extranjero en horas inhábiles 10 días de salario mínimo
+
+h) Registro de nacimiento de hijos mexicanos
+
+nacidos en el extranjero 5 días de salario mínimo
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 III.- Divorcios:
 
-a). Por el divorcio administrativo contemplado en el Artículo 272 del Código Civil Vigente...10 días de salario mínimo.
+a) Por el divorcio administrativo contemplado en
 
-b). Por el registro de divorcio dictado por la Autoridad Judicial...10 días de salario mínimo.
+el artículo 278 del Código Civil vigente 10 días de salario mínimo
 
-IV.- Actas de supervivencia levantadas a domicilio...1 día de salario mínimo.
+b) Por el registro de divorcio dictado por la
 
-V. Cualquier otro acto del Registro Civil...1 día salario mínimo.
+Autoridad Judicial: 10 días de salario mínimo
 
-VI.- Expedición de actas de nacimiento...50% día salario mínimo.
+IV.- Actas de supervivencia levantadas
+
+a domicilio 1 día de salario mínimo.
+
+V. Cualquier otro acto del Registro Civil 1 día salario mínimo.
+
+VI.- Expedición de actas de nacimiento 50% día salario mínimo.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+VII.- Registro de Adopción
+
+a) En horas hábiles en la oficina 5 días de salario mínimo
+
+b) Reconocimientos días de salario mínimo.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -963,11 +1035,13 @@ Todas las certificaciones del Registro Civil que no estén contempladas en el ar
 
 Los Oficiales del Registro Civil percibirán respectivamente el 30% de los derechos cobrados cuando se realicen los actos matrimoniales fuera de sus oficinas en horas inhábiles.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 60.
 
-Los actos del Registro Civil se efectuarán previo de los derechos a que se refiere el Artículo 63.
+Los actos del Registro Civil, se efectuarán previo de los derechos a que se refiere el Artículo 57.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 Los Oficiales del Registro Civil que actúan sin que hayan sido cubiertos los derechos, serán responsables solidarios de su pago por dicha omisión.
 
@@ -1493,7 +1567,7 @@ Centros Nocturnos...5 S.M
 
 ###### Artículo 95.
 
-Los derechos por la expedición de licencia de giros comerciales a que se refiere el Artículo anterior se pagarán previamente al otorgamiento de las mismas, sin que ello implique la autorización para el funcionamiento del giro, entre tanto no se expedida la licencia correspondiente.
+Los derechos por la expedición de licencia de giros comerciales a que se refiere el Artículo anterior se pagarán previamente al otorgamiento de las mismas, sin que ello implique la autorización para el funcionamiento del giro, entre tanto no sea expedida la licencia correspondiente.
 
 Las licencias de revalidación se pagarán durante los meses de enero, febrero y marzo de cada año y tratándose de licencias eventuales se cubrirán los derechos al momento de la prestación al servicio.
 
@@ -1637,27 +1711,51 @@ La dotación y reposición de placas de identificación del servicio de control 
 
 T A R I F A :
 
-I. Camiones, automóviles y remolque...6 días salario mínimo.
+I. Camiones, automóviles y remolque 6 días salario mínimo.
 
-II. Motocicletas, bicicletas y vehículos de tracción manual...2 días salario mínimo.
+II. Motocicletas, bicicletas y vehículos de tracción
+
+Manual 2 días salario mínimo.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+III.- Baja de placas 1 día de salario mínimo
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+IV. Permiso para circular con una sola placa
+
+no mayor a diez días, por única ocasión 50% días de salario mínimo
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 109.
 
-No se podrá conducir vehículos de motor sin obtener previamente la licencia de manejo respectiva, esta se otorgara después de que la persona interesada haya sido aprobado en el examen médico que practique cualquier profesional legalmente autorizado para ejercer la medicina y en el de competencia que efectúen las autoridades de tránsito, que serán realizados previo pago de los derechos contenidos en la siguiente
+No se podrá conducir vehículos de motor sin obtener previamente la licencia de manejo respectiva, ésta se otorgara después de que la persona interesada haya sido aprobado en el examen médico que practique cualquier profesional legalmente autorizado para ejercer la medicina y en el de competencia que efectúen las autoridades de tránsito, que serán realizados previo pago de los derechos contenidos en la siguiente
 
 T A R I F A :
 
-I. Chofer ( 3 años )...6 días salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-II. Automovilista ( 3 años )...3 días salario mínimo.
+I. Chofer ( 3 años ) 8 días salario mínimo.
 
-III. Motociclista ( 3 años )...1 día salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-IV. Permiso provisional, por mes...1 día salario mínimo.
+II. Automovilista ( 3 años ) 4 días salario mínimo.
+
+III. Motociclista ( 3 años ) 1 día salario mínimo.
+
+IV. Permiso provisional, por mes 1 día salario mínimo.
 
 Por el resello anual se causarán el 10% de la tarifa anterior.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+V.- Permisos para conducir a menores Mayores de
+
+16 y menores de 18 años, Previo curso de manejo,
+
+con una vigencia máxima de 90 días 2 días de salario mínimo
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1667,291 +1765,331 @@ Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de T
 
 T A R I F A :
 
-CLAVE...DESCRIPCION...IMPORTE (SALARIO MINIMO)
+CLAVE DESCRIPCION IMPORTE (SALARIO MINIMO)
 
-1...Manejar sin licencia...8
+1 Manejar sin licencia 8
 
-2...Permitir manejar sin licencia...7
+2 Permitir manejar sin licencia 7
 
-3...Falta de resello anual a la licencia (cada uno)...3
+3 Falta de resello anual a la licencia (cada uno) 3
 
-4...Manejar en estado de ebriedad...30
+4 Manejar en estado de ebriedad 30
 
-5...Manejar con aliento alcohólico...15
+5 Manejar con aliento alcohólico 15
 
-6...Exceso de velocidad...20
+6 Exceso de velocidad 20
 
-7...Ir a más de 15 kilómetros frente a escuela...3
+7 Ir a más de 15 kilómetros frente a escuela 3
 
-8...Negarse a presentar licencia y tarjeta de circulación...3
+8 Negarse a presentar licencia y tarjeta de circulación...3
 
-9...No obedecer a las indicaciones del agente...5
+9 No obedecer a las indicaciones del agente 5
 
-10...Recurrir a la fuga...15
+10 Recurrir a la fuga 15
 
-11...Faltas al agente...10
+11 Faltas al agente 10
 
-12...Accidente por daños...30
+12 Accidente por daños 30
 
-13...Atropellamiento de persona...30
+13 Atropellamiento de persona 30
 
-14...Prestar servicios públicos sin autorización...10
+14 Prestar servicios públicos sin autorización 10
 
-15...Circular fuera de ruta...5
+15 Circular fuera de ruta 5
 
-16...Por estacionarse mal...3
+16 Por estacionarse mal 3
 
-17...Estacionarse en exclusivo...3
+17 Estacionarse en exclusivo 3
 
-18...Estacionarse en paraderos de ascenso y descenso exclusivos para personas con
+18 Estacionarse en paraderos de ascenso y
 
-discapacidad...18
+descenso exclusivos para personas con discapacidad 18
 
-19...Estacionarse en zona prohibida...5
+19 Estacionarse en zona prohibida 5
 
-20...Transportar pasaje en lugar de carga...3
+20 Transportar pasaje en lugar de carga 3
 
-21...Cortar cortejo fúnebre...5
+21 Cortar cortejo fúnebre 5
 
-22...Estacionarse en doble fila...4
+22 Estacionarse en doble fila 4
 
-23...Abandonar unidad en la vía pública...5
+23 Abandonar unidad en la vía pública 5
 
-24...No ceder el paso al peatón...10
+24 No ceder el paso al peatón 10
 
-25...No ceder el paso a vehículo de emergencia...10
+25 No ceder el paso a vehículo de emergencia 10
 
-26...Pasarse alto del agente...5
+26 Pasarse alto del agente 5
 
-27...Pasarse alto del semáforo...10
+27 Pasarse alto del semáforo 10
 
-28...Adelantar vehículo en bocacalle...5
+28 Adelantar vehículo en bocacalle 5
 
-29...Falta de luces en los faros delanteros...3
+29 Falta de luces en los faros delanteros 3
 
-30...Falta de luz posterior roja...3
+30 Falta de luz posterior roja 3
 
-31...Falta de luces laterales...2
+31 Falta de luces laterales 2
 
-32...Transitar con luz alta en la ciudad...5
+32 Transitar con luz alta en la ciudad 5
 
-33...Falta de razón social...2
+33 Falta de razón social 2
 
-34...Circular en sentido contrario...5
+34 Circular en sentido contrario 5
 
-35...Dar vuelta en "u" en zona prohibida...3
+35 Dar vuelta en "u" en zona prohibida 3
 
-36...Falta de precaución al manejar...8
+36 Falta de precaución al manejar 8
 
-37...Transitar sin placas...10
+37 Transitar sin placas 10
 
-38...Transitar con placas vencidas...10
+38 Transitar con placas vencidas 10
 
-39...Transitar con placas sobrepuestas...20
+39 Transitar con placas sobrepuestas 20
 
-40...Falta de tarjeta de circulación...3
+40 Falta de tarjeta de circulación 3
 
-41...Uso indebido de placas demostradoras...10
+41 Uso indebido de placas demostradoras 10
 
-42...Exceso de pasaje...3
+42 Exceso de pasaje 3
 
-43...Carecer de espacio para personas con discapacidad...5
+43 Carecer de espacio para personas con
 
-44...Falta de revista en la unidad...3
+discapacidad 5
 
-45...Seguir vehículo de emergencia...6
+44 Falta de revista en la unidad 3
 
-46...Obstruir paso de vehículo de emergencia...10
+45 Seguir vehículo de emergencia 6
 
-47...Circular con parabrisas estrellado...5
+46 Obstruir paso de vehículo de emergencia 10
 
-48...Falta de banderola en la carga...3
+47 Circular con parabrisas estrellado 5
 
-49...Efectuar falsa señal de direccional...2
+48 Falta de banderola en la carga 3
 
-50...Falta de espejo lateral...2
+49 Efectuar falsa señal de direccional 2
 
-51...Estacionarse sobre guarnición...3
+50 Falta de espejo lateral 2
 
-52...Transitar con escape ruidoso...3
+51 Estacionarse sobre guarnición 3
 
-53...No reportar cambio de colores...3
+52 Transitar con escape ruidoso 3
 
-54...No reportar cambio de propietario...5
+53 No reportar cambio de colores 3
 
-55...Obstruir paso del peatón...3
+54 No reportar cambio de propietario 5
 
-56...Estacionarse en sentido contrario...5
+55 Obstruir paso del peatón 3
 
-57...No reunir los requisitos de circulación...3
+56 Estacionarse en sentido contrario 5
 
-58...Olvido de licencia para manejar...5
+57 No reunir los requisitos de circulación 3
 
-59...Falta de casco protector...2
+58 Olvido de licencia para manejar 5
 
-60...Uso indebido de faros buscadores...5
+59 Falta de casco protector 2
 
-61...Emplear luces rojas al frente...5
+60 Uso indebido de faros buscadores 5
 
-62...Falta de luz en las placas...2
+61 Emplear luces rojas al frente 5
 
-63...Falta de luz roja al frente...2
+62 Falta de luz en las placas 2
 
-64...Falta de luz direccional...2
+63 Falta de luz roja al frente 2
 
-65...Frenos en malas condiciones...2
+64 Falta de luz direccional 2
 
-66...Falta de frenos a bicicletas...1
+65 Frenos en malas condiciones 2
 
-67...Uso indebido del claxon...3
+66 Falta de frenos a bicicletas 1
 
-68...Emisión excesiva de humo...5
+67 Uso indebido del claxon 3
 
-69...Falta de espejo retrovisor...2
+68 Emisión excesiva de humo 5
 
-70...Obstruir visibilidad en cristal traser0 (sic)...2
+69 Falta de espejo retrovisor 2
 
-71...Falta de limpiadores parabrisas...2
+70 Obstruir visibilidad en cristal trasero 2
 
-72...Falta de llanta extra, llave de tuerca, gato...2
+71 Falta de limpiadores parabrisas 2
 
-73...No dar aviso a cambio de domicilio...2
+72 Falta de llanta extra, llave de tuerca, gato 2
 
-74...No dar aviso a cambio de carrocería...2
+73 No dar aviso a cambio de domicilio 2
 
-75...Mala colocación de placas...3
+74 No dar aviso a cambio de carrocería 2
 
-76...Mala colocación de calcomanías...3
+75 Mala colocación de placas 3
 
-77...Usar tarjeta de circulación de otro vehículo...10
+76 Mala colocación de calcomanías 3
 
-78...Usar calcomanía de otro vehículo...10
+77 Usar tarjeta de circulación de otro vehículo 10
 
-79...Permitir manejar personas con incapacidad fisicomental...10
+78 Usar calcomanía de otro vehículo 10
 
-80...Arrojar objetos o basura en la vía pública...5
+79 Permitir manejar personas con incapacidad
 
-81...Llevar objetos que obstruyan la visibilidad...2
+fisicomental 10
 
-82...Cargar gasolina con el motor encendido...2
+80 Arrojar objetos o basura en la vía pública 5
 
-83...Cargar combustible con pasaje a bordo...3
+81 Llevar objetos que obstruyan la visibilidad 2
 
-84...Conducir personas en vehículo de remolque cada uno...2
+82 Cargar gasolina con el motor encendido 2
 
-85...Llevar carga mal sujeta...5
+83 Cargar combustible con pasaje a bordo 3
 
-86...Ocultar placa con carga...2
+84 Conducir personas en vehículo de remolque
 
-87...Conducir en malas condiciones fisicomentales...10
+cada uno 2
 
-88...Abandono de víctimas en accidente...10
+85 Llevar carga mal sujeta 5
 
-89...No prestar auxilio a accidentados...5
+86 Ocultar placa con carga 2
 
-90...Transportar pasaje en estribo...5
+87 Conducir en malas condiciones fisicomentales 10
 
-91...Remolcar vehículo sin autorización...5
+88 Abandono de víctimas en accidente 10
 
-92...Dar vuelta en lugar no permitido...3
+89 No prestar auxilio a accidentados 5
 
-93...Presentar tarjeta de circulación ilegible...3
+90 Transportar pasaje en estribo 5
 
-94...Transitar con una placa...5
+91 Remolcar vehículo sin autorización 5
 
-95...Transitar con placas ilegibles...3
+92 Dar vuelta en lugar no permitido 3
 
-96...Falta de permiso para transportar o conducir maquinaria pesada...5
+93 Presentar tarjeta de circulación ilegible 3
 
-97...Por alterar tarifas en servicio de transporte público...10
+94 Transitar con una placa 5
 
-98...No traer tarifas en lugar visible...5
+95 Transitar con placas ilegibles 3
 
-99...Permitir control de dirección a personas (sic) acompañan...3
+96 Falta de permiso para transportar o conducir
 
-100...Llevar personas o bultos en brazos al conducir...5
+maquinaria pesada 5
 
-101...Producir ruidos innecesarios (bocinas, otros)...5
+97 Por alterar tarifas en servicio de transporte
 
-102...No guarda distancia reglamentaria...3
+público 10
 
-103...Cambiar intempestivamente de carril...3
+98 No traer tarifas en lugar visible 5
 
-104...Efectuar reversa más de (sic) permitido...3
+99 Permitir control de dirección a personas
 
-105...Pasar sobre manguera de incendio...2
+acompañan(sic) 3
 
-106...Obstruir una intersección en crucero...3
+100 Llevar personas o bultos en brazos al conducir 5
 
-107...Frenar bruscamente sin precaución...3
+101 Producir ruidos innecesarios (bocinas, otros) 5
 
-108...Dar vuelta sin previa señal...3
+102 No guarda distancia reglamentaria 3
 
-109...Entablar competencia de velocidad en la vía pública...50
+103 Cambiar intempestivamente de carril 3
 
-110...Adelantar vehículo en la zona peatonal...3
+104 Efectuar reversa más de (sic) permitido 3
 
-111...Adelantar hilera de vehículos...3
+105 Pasar sobre manguera de incendio 2
 
-112...Impedir rebasar aumentando la velocidad...5
+106 Obstruir una intersección en crucero 3
 
-113...Adelantar vehículo por acotamiento...5
+107 Frenar bruscamente sin precaución 3
 
-114...Estacionarse sobre la acera...3
+108 Dar vuelta sin previa señal 3
 
-115...Estacionarse frente a cochera...3
+109 Entablar competencia de velocidad en la vía
 
-116...Estacionarse frente a hidratante...2
+pública 50
 
-117...Estacionarse frente a bomberos y ambulancia...5
+110 Adelantar vehículo en la zona peatonal 3
 
-118...No atender descuentos a estudiantes, uniformados oficiales, tercera edad y personas con
+111 Adelantar hilera de vehículos 3
 
-discapacidad...5
+112 Impedir rebasar aumentando la velocidad 5
 
-119...Transportar pasaje en autobús conduciendo ebrio/drogado...10
+113 Adelantar vehículo por acotamiento 5
 
-120...Transportar animales, bultos que molesten al pasaje...5
+114 Estacionarse sobre la acera 3
 
-121...Transportar más de 2 cargadores en camión de carga...3
+115 Estacionarse frente a cochera 3
 
-122...Transportar más de 2 personas en cabina, por cada uno...3
+116 Estacionarse frente a hidratante 2
 
-123...Transportar carga que no sea debidamente abanderada...3
+117 Estacionarse frente a bomberos y ambulancia 5
 
-124...Transitar con carrocería incompleta...3
+118 No atender descuentos a estudiantes,
 
-125...Pintar carrocería con colores de servicio oficial y de emergencia...5
+uniformados oficiales, tercera edad y personas con
 
-126...Causar muerte en accidente, por cada uno...A su criterio
+discapacidad 5
 
-127...Establecer sitio en lugar no autorizado...5
+119 Transportar pasaje en autobús conduciendo
 
-128...Derrapar quemando llanta...20
+ebrio/drogado 10
 
-129...Intento de soborno...5
+120 Transportar animales, bultos que molesten al
 
-130...Subir y bajar pasaje en doble fila...5
+pasaje 5
 
-131...Subir y bajar pasaje por puerta izquierda...5
+121 Transportar más de 2 cargadores en camión
 
-132...Realizar maniobras para introducirse a negocios obstruyendo la circulación...10
+de carga 3
 
-133...Realizar maniobras de carga sin permiso...5
+122 Transportar más de 2 personas en cabina,
 
-134...Efectuar vuelta a exceso de velocidad y derrapar innecesariamente...5
+por cada uno 3
 
-135...Estacionar camiones pesados en el primer cuadro de la ciudad...5
+123 Transportar carga que no sea debidamente
 
-136...Infracción foránea...2
+abanderada 3
 
-137...Ingerir bebidas embriagantes en vehículo...20
+124 Transitar con carrocería incompleta 3
 
-138...Pasarse alto de disco (señalamiento)...10
+125 Pintar carrocería con colores de servicio oficial
 
-139...No ceder paso a vehículo en preferencia...10
+y de emergencia 5
 
-140...No usar cinturón de seguridad...3 c/u
+126 Causar muerte en accidente, por cada uno A su criterio
+
+127 Establecer sitio en lugar no autorizado 5
+
+128 Derrapar quemando llanta 20
+
+129 Intento de soborno 5
+
+130 Subir y bajar pasaje en doble fila 5
+
+131 Subir y bajar pasaje por puerta izquierda 5
+
+132 Realizar maniobras para introducirse a negocios
+
+obstruyendo la circulación 10
+
+133 Realizar maniobras de carga sin permiso 5
+
+134 Efectuar vuelta a exceso de velocidad y
+
+derrapar innecesariamente 5
+
+135 Estacionar camiones pesados en el primer
+
+cuadro de la ciudad 5
+
+136 Infracción foránea 2
+
+137 Ingerir bebidas embriagantes en vehículo 20
+
+138 Pasarse alto de disco (señalamiento) 10
+
+139 No ceder paso a vehículo en preferencia 10
+
+140 No usar cinturón de seguridad 3 c/u
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+141 Transportar menores asomados por las
+
+ventanillas de los vehículos 8
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1979,7 +2117,7 @@ Solo se podrán explotar los bienes muebles e inmuebles del Municipio por conces
 
 Con los mismos requisitos señalados en el Artículo 85, se podrá dar en pago de crédito u obligaciones a cargo del Municipio los bienes pertenecientes a la Hacienda Municipal.
 
-En todos los casos en que se autorice la enajenación de bienes del Municipio y se estipule, entre las condiciones, conforme a las cuales ha de llevarse a cabo, que el precio o parte de el se pague a plazos, es requisito indispensable, sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
+En todos los casos en que se autorice la enajenación de bienes del Municipio y se estipule, entre las condiciones, conforme a las cuales ha de llevarse a cabo, que el precio o parte de él se pague a plazos, es requisito indispensable, sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2061,7 +2199,7 @@ Los propietarios de los animales depositados en los corrales pertenecientes al M
 
 ###### Artículo 120.
 
-Productos Diversos son todos aquello productos no considerados en los términos de los Artículos anteriores.
+Productos Diversos son todos aquellos productos no considerados en los términos de los Artículos anteriores.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2117,7 +2255,7 @@ Los aprovechamientos no especificados en este título se recaudarán de conformi
 
 ### CAPITULO PRIMERO. REDUCCIONES PARA PENSIONADOS, JUBILADOS Y PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 126.
 
@@ -2151,7 +2289,7 @@ Las aportaciones federales para fines específicos que a través de los diferent
 
 ###### Artículo 129.
 
-Son ingresos extraordinarios los que se originen de los organismos descentralizados, desconcentrados, de participación municipal, así como ingresos derivados de los convenio de colaboración administrativa con Entidades Federales.
+Son ingresos extraordinarios los que se originen de los organismos descentralizados, desconcentrados, de participación municipal, así como ingresos derivados de los convenios de colaboración administrativa con Entidades Federales.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2161,39 +2299,61 @@ Son ingresos extraordinarios los que se originen de los organismos descentraliza
 
 ###### Artículo 130.
 
-Para los efectos de este Capítulo se consideran Pensionados y Jubilados aquellas personas que acrediten dicha calidad con la documentación oficial correspondiente, expedida por las instituciones de seguridad social que a continuación se señalan:
+Para los efectos de este Capítulo se consideran Pensionados, Jubilados, discapacitados y personas de la tercera edad, aquellas personas que acrediten dicha calidad con la documentación oficial correspondiente, expedida por las instituciones de seguridad social que a continuación se señalan:
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado.
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 II. Instituto Mexicano del Seguro Social.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 III. Instituto de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos y de la Comisión Federal de Electricidad.
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 IV. Otras instituciones de Seguridad Social que presten estos servicios en las diversas Entidades Federativas del País.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 131.
 
-Se establece, a favor de los Pensionados y Jubilados, una reducción que será del 50% en el pago de las contribuciones que a continuación se indican:
+Se establece, a favor de los Pensionados y Jubilados, discapacitados y personas de la tercera edad, una reducción que será del 50% en el pago de las contribuciones que a continuación se indican:
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Impuesto Predial, únicamente sobre el inmueble donde viva el pensionado o jubilado y que sea de su propiedad.
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 II. Derechos causados por los servicios que presta el Registro Público de la Propiedad y del Comercio, únicamente por lo que se refiere a los servicios que preste en materia de propiedad sobre bienes del Pensionado o Jubilado.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 III. Derechos por servicios del Registro Civil, únicamente en actos relativos a la persona del Pensionado o Jubilado, así como de su cónyuge o sus descendientes menores de edad.
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 IV. Derechos por Legalización de Firmas, expedición de certificados y copias certificadas, únicamente en actos en los que exista interés directo del Pensionado o Jubilado.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 V. Derechos por servicio de control vehicular, únicamente en licencias de conducir para automovilista, placas o calcomanías de un solo vehículo, propiedad del Pensionado o Jubilado.
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 VI. Un 20% hasta un 50% de descuento en la entrada a todo evento deportivo, recreativo, musical, etc., convocado y organizado por el Ayuntamiento y en los permisos para eventos familiares expedidos por la Tesorería General Municipal.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 132.
 
-Se establece, a favor de los Pensionados y Jubilados, una reducción que será el 50% en el pago de los derechos causados por la prestación del servicio de Agua Potable y Alcantarillado.
+Se establece, a favor de los Pensionados y Jubilados, discapacitados y personas de la tercera edad, una reducción que será el 50% en el pago de los derechos causados por la prestación del servicio de Agua Potable y Alcantarillado.
+
+Se otorgarán las reducciones que se señalan en el presente título a aquellas personas pertenecientes la tercera edad y que acrediten tal condición previa identificación oficial expedida por al Instituto Nacional de la Senectud y por la instancia autorizada para la certificación y expedición de la misma.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2376,3 +2536,7 @@ El presente Decreto entrará en vigor, a partir de su Publicación en el Boletí
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
