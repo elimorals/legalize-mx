@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1989-12-30"
+last_updated: "1990-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MAYO DE 1990.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -841,13 +841,17 @@ LIII. Llevar el registro de la situación patrimonial de los servidores público
 
 LIV. Nombrar inspectores, interventores o auditores, con el objeto de examinar las funciones, los servicios públicos, la contabilidad y demás actos que realicen los ayuntamientos;
 
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 1990)</small>
+
+LV. Expedir las leyes que regulen el ámbito de competencia del Gobierno del Estado y de los Municipios en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico;
+
 > <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 1989)</small>
 
-LV. Instituir el Tribunal de lo Contencioso Administrativo, dotado de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y Municipal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+LVI. Instituir el Tribunal de lo Contencioso Administrativo, dotado de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y Municipal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones;
 
 > <small>(REFORMADA, G.O. 11 DE FEBRERO DE 1989)</small>
 
-LVI. Expedir las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución, la Federal y las leyes que de ellas emanen a los poderes del Estado y a los municipios de la Entidad.
+LVII. Expedir las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución, la Federal y las leyes que de ellas emanen a los poderes del Estado y a los municipios de la Entidad.
 
 ###### Artículo 69.
 
@@ -997,7 +1001,9 @@ i). Los demás que la Legislatura determine según las condiciones territoriales
 
 XI. Previo acuerdo entre sus ayuntamientos y con sujeción a la Ley, los municipios podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan;
 
-XII. Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencia y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarios; y
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 1990)</small>
+
+XII. Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencia y permisos para construcciones, y participar en materia de protección al ambiente y de preservación y restauración al equilibrio ecológico, así como en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fuesen necesarios; y
 
 XIII. Los municipios poseerán facultades para expedir, de acuerdo con las bases normativas que establezca la Legislatura, los bandos de policía, buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos de validez.
 
@@ -1015,7 +1021,9 @@ Para el despacho de los asuntos encomendados al Ejecutivo, habrá tantas Secreta
 
 Habrá un Secretario General de Gobierno, quien sustituirá al Gobernador en sus faltas que no excedan de un mes y estarán a su cargo, todos los negocios del Ejecutivo, sean cuales fueren.
 
-Para auxiliar en sus funciones a los Secretarios del Despacho y sustituirlos en sus faltas temporales, lo podrá hacer el Director General que éstos designen, al Secretario General de Gobierno lo sustituirá el Subsecretario.
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 1990)</small>
+
+Los Secretarios del Despacho serán sustituidos en sus faltas temporales por el funcionario de mayor jerarquía que de ellos dependa. Al Secretario General de Gobierno lo sustituirá el Subsecretario de Gobierno.
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
@@ -2102,3 +2110,13 @@ La presente Ley entrará en vigor al día siguiente de su publicación en la "Ga
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 3 DE MAYO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
