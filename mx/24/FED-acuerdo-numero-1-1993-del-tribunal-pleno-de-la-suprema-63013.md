@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1996-04-09"
+last_updated: "1996-05-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 1996.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -123,13 +123,17 @@ VII.- SEPTIMO CIRCUITO:
 
 2.- Dos tribunales colegiados en materia civil, con residencia en la ciudad de Xalapa, Veracruz;
 
-3.- Juzgado Primero de Distrito en el estado de Veracruz, con residencia en la ciudad de Xalapa;
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO No. XIX/94 DEL TRIBUNAL EN PLENO DEL DIA SEIS DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 14 DE SEPTIEMBRE DE 1994)</small>
+3.- Juzgados Primero y Segundo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Xalapa;
 
-4.- Juzgados Segundo, Tercero y Cuarto de Distrito en el estado de Veracruz, con residencia en Boca del Río;
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
 
-5.- Juzgados Quinto y Sexto de Distrito en el estado de Veracruz, con residencia en la ciudad de Tuxpan.
+4.- Juzgados Tercero, Cuarto y Quinto de Distrito en el Estado de Veracruz, con residencia en Boca del Río;
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
+
+5.- Juzgados Sexto y Séptimo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Tuxpan.
 
 VIII.- OCTAVO CIRCUITO:
 
@@ -157,7 +161,9 @@ X.- DECIMO CIRCUITO:
 
 2.- Juzgados Primero, Segundo y Tercero de Distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa;
 
-3.- Juzgado Séptimo de Distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
+
+3.- Juzgado Octavo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos.
 
 XI.- DECIMO PRIMER CIRCUITO:
 
@@ -401,15 +407,21 @@ IX.- Los Juzgados Séptimo y Octavo de Distrito en el estado de Sonora, con resi
 
 4.- Distrito de Navojoa, que comprende las siguientes municipalidades: Navojoa, con las comisarías de Rosales, Tesia, Camoa, San Ignacio, Bacabachi, Fundición y Masiaca; y Quiriego, con la comisaría de Batacosa. Cabecera: Navojoa;
 
-X.- El Juzgado Primero de Distrito en el estado de Veracruz, con residencia en la ciudad de Xalapa, ejercerá jurisdicción en los distritos judiciales locales de Xalapa, Coatepec, Misantla, Jalacingo y Huatusco;
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
 
-> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO No. XIX/94 DEL TRIBUNAL EN PLENO DEL DIA SEIS DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 14 DE SEPTIEMBRE DE 1994)</small>
+X.- Los Juzgados Primero y Segundo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Xalapa, ejercerán jurisdicción en los distritos judiciales locales de Xalapa, Coatepec, Misantla, Jalacingo y Huatusco;
 
-XI.- Los Juzgados Segundo, Tercero y Cuarto de Distrito en el estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción en el territorio del Estado, excepto en los Distritos Judiciales Locales comprendidos en las fracciones X, XII y XIII;
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
 
-XII.- El Juzgado Séptimo de Distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerá jurisdicción en los municipios de: Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Moloacán, Oteapán, Pajapan, Santa Lucrecia, Zaragoza, Mecayapan, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Acayucan, Minatitlán y Texistepec;
+XI.- Los Juzgados Tercero, Cuarto y Quinto de Distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción en el territorio del Estado, excepto en los Distritos Judiciales Locales comprendidos en las fracciones X, XII y XIII;
 
-XIII.- Los Juzgados Quinto y Sexto de Distrito en el estado de Veracruz, con residencia en la ciudad de Tuxpan, ejercerán jurisdicción en los municipios de Amatlán de Tuxpan, Castillo de Teayo, Chinampa de Gorostiza, Tamiahua, Tantoco, Temapache, Tepetzintla, Tihuatlán, Citlaltépetl, Pánuco, Pueblo Viejo, Tamalín, Tampico Alto, Tantima, Chiconamel, Chontla, Ixcatepec, Platón Sánchez, Tempoal, Huayacocotla, Amatlán de los Reyes, Ixhuatlán de Madero, Benito Juárez, Tlachichilco, Zacualpan, Zontecomatlán de López y Fuentes, Texcatepec, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Espinal, Gutiérrez Zamora, Mecatlán, Filomeno Mata, Ozuluama de Mascareñas, Tecolutla, Zozocolco de Hidalgo, Tantoyuca, Chicontepec, Tuxpan y Papantla, del estado de Veracruz;
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
+
+XII.- Los Juzgados Sexto y Séptimo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Tuxpan, ejercerán jurisdicción en los municipios de: Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Moloacán, Oteapán, Pajapan, Santa Lucrecia, Zaragoza, Mecayapan, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Acayucan, Minatitlán y Texistepec;
+
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
+
+XIII.- El Juzgado Octavo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerá jurisdicción en los municipios de Amatlán de Tuxpan, Castillo de Teayo, Chinampa de Gorostiza, Tamiahua, Tantoco, Temapache, Tepetzintla, Tihuatlán, Citlaltépetl, Pánuco, Pueblo Viejo, Tamalín, Tampico Alto, Tantima, Chiconamel, Chontla, Ixcatepec, Platón Sánchez, Tempoal, Huayacocotla, Amatlán de los Reyes, Ixhuatlán de Madero, Benito Juárez, Tlachichilco, Zacualpan, Zontecomatlán de López y Fuentes, Texcatepec, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Espinal, Gutiérrez Zamora, Mecatlán, Filomeno Mata, Ozuluama de Mascareñas, Tecolutla, Zozocolco de Hidalgo, Tantoyuca, Chicontepec, Tuxpan y Papantla, del estado de Veracruz;
 
 XIV.- Los Juzgados Primero y Segundo de Distrito en el estado de Coahuila, con residencia en la ciudad de Saltillo, ejercerán jurisdicción en los municipios de Saltillo, Ramos Arizpe, General Cepeda, Arteaga y Parras;
 
@@ -588,6 +600,18 @@ D.O.F. 9 DE ABRIL DE 1996.
 PRIMERO.- Este Acuerdo entrará en vigor el día veintidós de abril de mil novecientos noventa y seis.
 
 SEGUNDO.- Se modifican y adicionan los Acuerdos 1/1993 y 1/1994 del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero de mil novecientos noventa y tres y primero de febrero de mil novecientos noventa y cuatro, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+D.O.F. 16 DE MAYO DE 1996.
+
+PRIMERO.- Este Acuerdo entrará en vigor el tres de junio de mil novecientos noventa y seis.
+
+SEGUNDO.- Se modifican los Acuerdos 1/1993 y XIX/94 del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero de mil novecientos noventa y tres y seis de septiembre de mil novecientos noventa y cuatro, respectivamente, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
