@@ -4,7 +4,7 @@ identifier: "LEI"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-29"
-last_updated: "1994-01-10"
+last_updated: "1999-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEI"
 
 LEY DE EXTRADICION INTERNACIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de diciembre de 1975.
 
@@ -110,7 +110,7 @@ IV.- Que será oído en defensa y se le facilitarán los recursos legales en tod
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-V.- Que si el delito que se impute al reclamado es punible en su legislación hasta con la pena de muerte o alguna de las señaladas en el artículo 22 constitucional, sólo se impondrá la de prisión o cualquier otra de menor gravedad que esa legislación fije para el caso, ya sea directamente o por substitución o conmutación.
+V.- Que si el delito que se impute al reclamado es punible en su legislación hasta con la pena de muerte o alguna de las señaladas en el artículo 22 constitucional, sólo se impondrá la de prisión o cualquier otra de menor gravedad que esa legislación fije para el caso, ya sea directamente o por substitución o conmutación;
 
 VI.- Que no se concederá la extradición del mismo individuo a un tercer Estado, sino en los casos de excepción previstos en la segunda fracción de este artículo; y
 
@@ -152,11 +152,11 @@ La petición formal de extradición y los documentos en que se apoye el Estado s
 
 I.- La expresión del delito por el que se pide la extradición;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
 
-II.- La prueba que acredite los elementos del tipo del delito y la probable responsabilidad del reclamado. Cuando el individuo haya sido condenado por los Tribunales del Estado solicitante, bastará acompañar copia auténtica de la sentencia ejecutoriada.
+II.- La prueba que acredite el cuerpo del delito y la probable responsabilidad del reclamado. Cuando el individuo haya sido condenado por los Tribunales del Estado solicitante, bastará acompañar copia auténtica de la sentencia ejecutoriada;
 
-III.- Las manifestaciones a que se refiere el artículo 10, en los casos en que no exista tratado de extradición con el Estado solicitante.
+III.- Las manifestaciones a que se refiere el artículo 10, en los casos en que no exista tratado de extradición con el Estado solicitante;
 
 IV.- La reproducción del texto de los preceptos de la Ley del Estado solicitante que definan el delito y determinen la pena, los que se refieran a la prescripción de la acción y de la pena aplicable y la declaración autorizada de su vigencia en la época en que se cometió el delito;
 
@@ -313,3 +313,9 @@ SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la 
 TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+D.O.F. 18 DE MAYO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
