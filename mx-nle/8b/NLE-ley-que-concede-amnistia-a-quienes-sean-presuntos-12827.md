@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-concede-amnistia-a-quienes-sean-presuntos-12827"
 country: "mx"
 rank: "ley"
 publication_date: "1978-10-02"
-last_updated: "1978-10-02"
+last_updated: "1978-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 
 LEY QUE CONCEDE AMNISTIA A QUIENES SEAN, PRESUNTOS RESPONSABLES O RESPONSABLES DE LOS DELITOS DE REBELION, SEDICION, ASONADA O MOTIN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 1978.
 
 Ley publicada en el Periódico Oficial del estado de Nuevo León, el lunes 2 de octubre de 1978.
 
-EL CIUDADANO PEDRO G. ZORRILLA MARTINEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER :
+EL CIUDADANO PEDRO G. ZORRILLA MARTINEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
 Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
@@ -69,6 +69,10 @@ En igual forma y con la misma excepción que se señala en el artículo anterior
 
 Corresponde a las autoridades judiciales o al Procurador General de Justicia, resolver en cada caso si existe conexión entre los delitos cometidos o si, por lo contrario, tienen existencia propia y son independientes.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1978)</small>
+
+ARTICULO 8 BIS:- En el caso de delitos contra la vida, la integridad de las personas y secuestro a que se refiere el Artículo 7 de la presente Ley. Podrán extenderse los beneficios de la amnistía a las personas que hubieren incurrido en la comisión de estos delitos siempre y cuando no revelen alta peligrosidad, de acuerdo con valoración fundamentada que formulen la autoridad judicial, la Secretaría General de Gobierno y la Procuraduría General de justicia, según sea el caso.
+
 ###### ARTICULO 9.
 
 Se extiende, los beneficios de la amnistía en los términos de esta Ley a las personas que se encuentren actualmente sustraídas a la acción de la justicia por los delitos a que se refieren los Artículos 1, 7 y 8, a condición de que dentro del plazo de noventa días se presenten ante cualquiera de los Agentes del Ministerio Público del Estado y hagan entrega de los instrumentos empleados para la comisión de los delitos.
@@ -90,3 +94,9 @@ PEDRO G. ZORRILLA MARTINEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 FRANCISCO VALDES TREVIÑO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 25 DE OCTUBRE DE 1978
+
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
