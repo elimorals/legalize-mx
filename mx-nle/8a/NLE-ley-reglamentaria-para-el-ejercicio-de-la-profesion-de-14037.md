@@ -4,7 +4,7 @@ identifier: "NLE-ley-reglamentaria-para-el-ejercicio-de-la-profesion-de-14037"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-10"
-last_updated: "1932-12-10"
+last_updated: "1984-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,9 @@ DE LA PROFESION DE INGENIERO EN EL
 
 ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
+
+N. DE E., EN TERMINOS DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROFESIONES DEL ESTADO DE NUEVO LEON, SE DEROGAN EN LO QUE SE OPONGAN A DICHA LEY, LA LEY REGLAMENTARIA PARA EL EJERCICIO DE LA PROFESIÓN DE INGENIERO EN EL ESTADO DE NUEVO LEÓN, P.O. 25 DE JULIO DE 1984.
 
 Ley publicada en el Periódico Oficial, el 10 de diciembre de 1932.
 
@@ -82,3 +84,31 @@ T R A N S I T O R I O
 ###### ARTICULO UNICO
 
 - Esta Ley comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JULIO DE 1984
+
+LEY DE PROFESIONES DEL ESTADO DE NUEVO LEON
+
+###### ARTICULO PRIMERO
+
+- Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan en lo que se oponga a la presente Ley, la que reglamenta el ejercicio de la abogacía en el Estado de Nuevo León, publicada el 3 de diciembre de 1932; la Ley Reglamentaria para el Ejercicio de la Profesión de Ingeniero en el Estado de Nuevo León, publicada el 10 de diciembre de 1932; la Ley Reglamentaria para el Ejercicio de las Profesiones Médicas y sus Ramas en el Estado de Nuevo León, publicada el 10 de diciembre de 1932.
+
+###### ARTICULO TERCERO
+
+- Se deroga cualquier otra disposición que se oponga a la presente Ley, en cuanto a su contenido, términos y alcance.
+
+###### ARTICULO CUARTO
+
+- Los títulos profesionales legalmente expedidos y registrados con anterioridad a la fecha de vigencia de esta Ley, surtirán sus efectos sin perjuicio de lo establecido en ésta.
+
+###### ARTICULO QUINTO
+
+- Los Títulos profesionales legalmente expedidos pero no registrados en el Estado, al momento en que esta Ley entre en vigor, podrán registrarse en el Departamento de Profesiones conforme a los términos de esta Ley.
+
+###### ARTICULO SEXTO
+
+- Las agrupaciones profesionales que operen en el Estado y que a la fecha estén constituidas como Colegios Profesionales, a fin de facilitar su registro, presentarán ante la Secretaría Jurídica y Social, la documentación relativa a que se contrae este Ordenamiento; y una vez integrado el expediente se remitirá al Departamento de Profesiones, para su registro definitivo.
