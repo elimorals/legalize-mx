@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1971-03-13"
+last_updated: "1972-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE MARZO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE DICIEMBRE DE 1972.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -337,7 +337,9 @@ Para ser diputado propietario o suplente al Congreso del Estado se requiere:
 
 I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
 
-II. Tener veinticinco años cumplidos el día de la elección.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
+
+II. Tener veintiún años cumplidos, por lo menos, el día de la elección.
 
 III. Haber residido en el Estado, cuando menos un año inmediatamente anterior al día en que se haga la elección, tratándose de los nativos del mismo; y cinco años inmediatamente anteriores al día de la elección, en el caso contrario.
 
@@ -739,11 +741,15 @@ I. Ser mexicano por nacimiento e hijo de padres mexicanos, nativo del Estado y c
 
 II. Ser ciudadano del Estado en pleno ejercicio de sus derechos políticos.
 
-III. Tener treinta y cinco años cumplidos el día de la elección.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
+
+III. Tener treinta años cumplidos, por lo menos, el día de la elección.
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en el año inmediatamente anterior al día de la elección.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
+
+V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado, ni militar en servicio activo, ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
 
 VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
 
@@ -863,11 +869,11 @@ XIX. Representar a la Hacienda Pública, pudiendo, en los casos que lo estime co
 
 XX. Ejercer el mando supremo de las fuerzas del Estado, y movilizarlas según las necesidades públicas; así como disponer de la policía del municipio donde resida habitual o transitoriamente, y nombrar y remover, en los términos que establezca la ley reglamentaria, a los jefes y oficiales superiores de la policía urbana de los Municipios del Estado.
 
-XXI. Convocar al Congreso en sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
+XXI. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
 
-XXII. Hacer observaciones por una sola vez en el improrrogable término de diez días útiles, salvo el caso a que se refiere el artículo 59, a las leyes y decretos aprobados por el Congreso, y promulgarlos y hacerlos ejecutar desde luego, si el propio Congreso, después de haberlos reconsiderado los ratifica.
+XXII. Hacer observaciones por una sola vez en el improrrogable término de diez días útiles, salvo el caso a que se refiere el artículo 59, a las leyes y decretos aprobados por el Congreso, y promulgarlos y hacerlos ejecutar desde luego, si el propio Congreso, después de haberlos reconsiderado, los ratifica.
 
-XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la ley.
+XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
 XXIV. Nombrar y remover libremente al Secretario de Gobierno, Procurador General de Justicia y Tesorero General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia, sometiéndola a la aprobación del Congreso.
 
@@ -897,7 +903,7 @@ XXXVI. Turnar al Procurador General de Justicia los asuntos que deban ventilarse
 
 XXXVII. Cuidar de que las elecciones se efectúen en el tiempo señalado por las leyes relativas.
 
-XXXVIII. Organizar el sistema penal sobre la base del trabajo como medio de regeneración.
+XXXVIII. Organizar el sistema penal sobre la base de trabajo como medio de regeneración.
 
 XXXIX. Conceder, conforme a las Leyes, indulto necesario a los reos sentenciados por delitos de la competencia de los Tribunales del Estado.
 
@@ -1165,7 +1171,9 @@ Para ser magistrado se requiere:
 
 I. Ser mexicano por nacimiento; nativo del Estado, o no siéndolo tener residencia efectiva en él no menor de cinco años inmediatamente anteriores al día de la elección, y estar en pleno ejercicio de sus derechos políticos.
 
-II. Tener treinta años cumplidos el día de la elección.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
+
+II. Tener veinticinco años cumplidos, por lo menos, el día de la elección.
 
 III. No haber sido condenado en proceso por ningún delito.
 
@@ -1267,7 +1275,9 @@ Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Just
 
 Para ser juez de primera instancia se requiere:
 
-I. Ser mexicano en pleno ejercicio de sus derechos políticos, tener veinticinco años cumplidos el día del nombramiento y título de Licenciado en Derecho. Este último requisito podrá dispensarse por el Supremo Tribunal de Justicia sólo por imposibilidad y entre tanto haya persona titulada dispuesta a desempeñar el cargo.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
+
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y tener título de licenciado en derecho. Este último requisito podrá dispensarse por el Supremo Tribunal del Justicia sólo por imposibilidad y entre tanto haya persona titulada dispuesta a desempeñar el cargo.
 
 II. No haber sido condenado en proceso en ningún delito y ser de reconocida moralidad.
 
@@ -1283,7 +1293,9 @@ Los jueces locales y menores serán nombrados cada dos años por los jueces de p
 
 Para ser juez local o menor se requiere:
 
-I. Ser mexicano en pleno ejercicio de sus derechos políticos y tener veinticinco y veintiún años cumplidos, respectivamente, el día del nombramiento.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
+
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y tener 21 años cumplidos, por lo menos el día del nombramiento.
 
 II. No haber sido condenado en proceso por ningún delito y ser de reconocida moralidad.
 
@@ -1335,9 +1347,9 @@ Los cargos de Presidente Municipal y de concejal serán obligatorios, pero no gr
 
 Para ser Presidente Municipal o concejal de un Ayuntamiento se requiere:
 
-> <small>(REFORMADA, B.O. 18 DE ABRIL DE 1964)</small>
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
 
-I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
+I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos y tener veintiún años cumplidos, por lo menos, el día de la elección.
 
 > <small>(REFORMADA, B.O. 18 DE ABRIL DE 1964)</small>
 
@@ -1543,13 +1555,13 @@ El aumento de las dietas de los Diputados no tendrá efecto en el período de la
 
 Los cargos o empleos públicos no son, ni pueden ser en el Estado, propiedad o patrimonio de quien los ejerza, ni podrán desempeñarse por personas que no sepan leer y escribir.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 23 DE DICIEMBRE DE 1972)</small>
 
 ###### Artículo 156.
 
-La vecindad se adquiere durante dos años de residencia fija en algún lugar del territorio del Estado, o durante uno, para quienes adquieren bienes raíces, ejerzan alguna profesión, arte o industria dentro de la propia Entidad.
+La vecindad se adquiere durante dos años de residencia fija en algún lugar del territorio del Estado, o durante uno para quienes adquieran bienes raíces, ejerzan alguna profesión, arte o industria dentro de la propia entidad.
 
-La vecindad no se pierde por la ausencia en el desempeño de cargos públicos de elección popular o comisión conferida por el Gobierno de la Nación o del Estado. Tampoco se pierde por ausentarse prestando servicios en la milicia o en el caso de que se sigan estudios científicos o artísticos, salvo el caso de que esta Constitución requiera residencia efectiva.
+La vecindad, aún sin el requisito de la residencia efectiva, no se pierde por la ausencia en el desempeño de cargos públicos de elección popular o empleo o comisión conferidos por el Gobierno de la Nación o del Estado. Tampoco se pierde por ausentarse prestando servicios en la milicia o para seguir estudios científicos o artísticos, pero en estos casos si se perderá cuando esta Constitución exija el requisito de residencia efectiva.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1858,3 +1870,7 @@ Por excepción y sólo para el caso de las elecciones constitucionales de Gobern
 ###### ARTICULO SEGUNDO.
 
 Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 23 DE DICIEMBRE DE 1972.
+
+UNICO.- Las presentes reformas entrarán en vigor el mismo día de su publicación en el Boletín Oficial del Estado.
