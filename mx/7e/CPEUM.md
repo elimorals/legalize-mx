@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1960-01-20"
+last_updated: "1960-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,29 +20,27 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE DICIEMBRE DE 1960.
 
-Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
+Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
-Al margen un sello que dice "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Ejecutivo".- Secretaría General.
+El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
-EL CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTOU, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
 
-QUE LA QUINCUAGESIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO, en nombre del pueblo que representa se ha servido expedir el siguiente:
+Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
 
-DECRETO No. 410
-
-Que contiene el CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
-
-CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
 
 # LIBRO PRIMERO. PARTE GENERAL
 
-## TITULO PRIMERO. DE LA APLICACIÓN DE LA LEY PENAL
+## TITULO PRIMERO.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO I.
+
+DE LAS GARANTIAS INDIVIDUALES.
 
 ###### ARTICULO 1.
 
@@ -298,27 +296,27 @@ Las expropiaciones sólo podrán hacerse por causa de utilidad pública y median
 
 La Nación tendrá en todo tiempo el derecho de imponer a la propiedad privada las modalidades que dicte el interés público, así como el de regular el aprovechamiento de los elementos naturales susceptibles de apropiación, para hacer una distribución equitativa de la riqueza pública y para cuidar de su conservación. Con este objeto, se dictarán las medidas necesarias para el fraccionamiento de los latifundios; para el desarrollo de la pequeña propiedad agrícola en explotación; para la creación de nuevos centros de población agrícola con las tierras y aguas que les sean indispensables; para el fomento de la agricultura y para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad. Los núcleos de población que carezcan de tierras y aguas o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas, tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad agrícola en explotación.
 
-Corresponde a la Nación el dominio directo de todos los minerales o substancias que en vetas, mantos, masas o yacimientos, constituyan depósitos cuya naturaleza sea distinta de los componentes de los terrenos, tales como los minerales de los que se extraigan metales y metaloides utilizados en la industria; los yacimientos de piedras preciosas, de sal de gema y las salinas formadas directamente por las aguas marinas; los productos derivados de la descomposición de las rocas, cuando su explotación necesite trabajos subterráneos; los yacimientos minerales u orgánicos de materias susceptibles de ser utilizadas como fertilizantes; los combustibles minerales sólidos; el petróleo y todos los carburos de hidrógeno sólidos, líquidos o gaseosos.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1945)</small>
+Corresponde a la Nación el dominio directo de todos los recursos naturales de la plataforma continental y los zócalos submarinos de las islas; de todos los minerales o substancias que en vetas, mantos, masas o yacimientos, constituyan depósitos cuya naturaleza sea distinta de los componentes de los terrenos, tales como los minerales de los que se extraigan metales y metaloides utilizados en la industria; los yacimientos de piedras preciosas, de sal de gema y las salinas formadas directamente por las aguas marinas; los productos derivados de la descomposición de las rocas, cuando su explotación necesite trabajos subterráneos; los yacimientos minerales u orgánicos de materias susceptibles de ser utilizadas como fertilizantes; los combustibles minerales sólidos; el petróleo y todos los carburos de hidrógeno sólidos, líquidos o gaseosos; y el espacio situado sobre el territorio nacional, en la extensión y términos que fije el Derecho Internacional.
 
-Son también propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional; las de las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar; las de los lagos interiores de formación natural que estén ligados directamente a corrientes constantes; las de los ríos y sus afluentes directos o indirectos, desde el punto del cauce en que se inicien las primeras aguas permanentes, intermitentes o torrenciales, hasta su desembocadura en el mar, lagos, lagunas o esteros de propiedad nacional; las de las corrientes constantes o intermitentes y sus afluentes directos o indirectos, cuando el cauce de aquéllas, en toda su extensión o en parte de ella, sirva de límite al territorio nacional o a dos entidades federativas, o cuando pase de una entidad federativa a otra o cruce la línea divisoria de la República; la de los lagos, lagunas o esteros cuyos vasos, zonas o riberas estén cruzadas por líneas divisorias de dos o más entidades o entre la República y un país vecino, o cuando el límite de las riberas sirva de lindero entre dos entidades federativas o a la República con un país vecino; las de los manantiales que broten en las playas, zonas marítimas, cauces, vasos o riberas de los lagos, lagunas o esteros de propiedad nacional, y las que se extraigan de las minas. Las aguas del subsuelo pueden ser libremente alumbradas mediante obras artificiales, y apropiarse por el dueño del terreno, pero cuando lo exija el interés público, o se afecten otros aprovechamientos, el Ejecutivo Federal podrá reglamentar su extracción y utilización, y aún establecer zonas vedadas, al igual que para las demás aguas de propiedad nacional. Cualesquiera otras aguas no incluídas en la enumeración anterior, se considerarán como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, pero si se localizaren en dos o más predios, el aprovechamiento de estas aguas se considerará de utilidad pública, y quedará sujeto a las disposiciones que dicten los Estados.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 9 DE NOVIEMBRE DE 1940)</small>
+Son propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fije (sic) Derecho Internacional; las aguas marinas interiores; las de las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar; las de los lagos interiores de formación natural que estén ligados directamente a corrientes constantes; las de los ríos y sus afluentes directos o indirectos, desde el punto del cauce en que se inicien las primeras aguas permanentes, intermitentes o torrenciales, hasta su desembocadura en el mar, lagos, lagunas o esteros de propiedad nacional; las de las corrientes constantes o interminentes (sic) y sus afluentes directos o indirectos, cuando el cauce de aquéllas en toda su extensión o en parte de ellas, sirva de límite al territorio nacional o a dos entidades federativas, o cuando pase de una entidad federativa a otra o cruce la línea divisoria de la República; la de los lagos, lagunas o esteros cuyos vasos, zonas o riberas, estén cruzadas por líneas divisorias de dos o más entidades o entre la República y un país vecino, o cuando el límite de las riberas sirva de lindero entre dos entidades federativas o a la República con un país vecino; las de los manantiales que broten en las playas, zonas marítimas, cauces, vasos o riberas de los lagos, lagunas o esteros de propiedad nacional, y las que se extraigan de las minas; y los cauces, lechos o riberas de los lagos y corrientes interiores en la extensión que fija la ley. Las aguas del subsuelo pueden ser libremente alumbradas mediante obras artificiales y apropiarse por el dueño del terreno, pero cuando lo exija el interés público o se afecten otros aprovechamientos; el Ejecutivo Federal podrá reglamentar su extracción y utilización y aún establecer zonas vedadas, al igual que para las demás aguas de propiedad nacional. Cualesquiera otras aguas no incluidas en la enumeración anterior, se considerarán como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, pero si se localizaren en dos o más predios, el aprovechamiento de estas aguas se considerará de utilidad pública, y quedará sujeto a las disposiciones que dicten los Estados.
 
-En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible, y sólo podrán hacerse concesiones por el Gobierno Federal a los particulares o sociedades civiles o comerciales constituidas conforme a las leyes mexicanas, con la condición de que se establezcan trabajos regulares para la explotación de los elementos de que se trata y se cumpla con los requisitos que prevengan las leyes. Tratándose del petróleo y de los carburos de hidrógeno sólidos, líquidos o gaseosos, no se expedirán concesiones y la Ley Reglamentaria respectiva determinará la forma en que la Nación llevará a cabo las explotaciones de esos productos.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
+En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituídas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto; regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose del petróleo y de los carburos de hidrógeno sólido, líquidos o gaseosos, no se otorgarán concesiones ni contratos, ni subsistirán los que se hayan otorgado y la nación llevará a cabo la explotación de esos productos, en los términos que señale la ley reglamentaria respectiva.
 
-La capacidad para adquirir el dominio de las tierras y aguas de la nación, se regirá por las siguientes prescripciones:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 1960)</small>
 
-I.- Sólo los mexicanos por nacimiento o por naturalización y las sociedades mexicanas, tienen derecho para adquirir el dominio de las tierras, aguas y sus accesiones, o para obtener concesiones de explotación de minas, aguas o combustibles minerales en la República Mexicana. El Estado podrá conceder el mismo derecho a los extranjeros, siempre que convengan ante la Secretaría de Relaciones, en considerarse como nacionales respecto de dichos bienes y en no invocar, por lo mismo, la protección de sus Gobiernos por lo que se refiere a aquéllos; bajo la pena, en caso de faltar al convenio, de perder en beneficio de la Nación, los bienes que hubieren adquirido en virtud del mismo.
+La capacidad para adquirir el dominio de las tierras y aguas de la Nación, se regirá por las siguientes prescripciones:
 
-En una faja de cien kilómetros a lo largo de las fronteras y de cincuenta en las playas, por ningún motivo podrán los extranjeros adquirir el dominio directo sobre tierras y aguas.
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 1960)</small>
 
-> <small>(ADICIONADO, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
+I.- Sólo los mexicanos por nacimiento o por naturalización y las sociedades mexicanas tienen derecho para adquirir el dominio de las tierras, aguas y sus accesiones o para obtener concesiones de explotación de minas o aguas. El Estado podrá conceder el mismo derecho a los extranjeros, siempre que convengan ante la Secretaría de Relaciones en considerarse como nacionales respecto de dichos bienes y en no invocar por lo mismo la protección de sus gobiernos por lo que se refiere a aquéllos; bajo la pena, en caso de faltar al convenio, de perder en beneficio de la Nación, los bienes que hubieren adquirido en virtud del mismo. En una faja de cien kilómetros a lo largo de las fronteras y de cincuenta en las playas, por ningún motivo podrán los extranjeros adquirir el dominio directo sobre tierras y aguas.
 
-El Estado, de acuerdo con los intereses públicos internos y los principios de reciprocidad, podrá, a juicio de la Secretaría de Relaciones, conceder autorización a los Estados extranjeros para que adquieran, en el lugar permanente de la residencia de los Poderes Federales, la propiedad privada de bienes inmuebles necesarios para el servicio directo de sus embajadas o legaciones.
+El Estado de acuerdo con los intereses públicos internos y los principios de reciprocidad, podrá, a juicio de la Secretaría de Relaciones, conceder autorización a los Estados extranjeros para que adquieran, en el lugar permanente de la residencia de los Poderes Federales, la propiedad privada de bienes inmuebles necesarios para el servicio directo de sus embajadas o legaciones.
 
 II.- Las asociaciones religiosas denominadas iglesias, cualquiera que sea su credo, no podrán, en ningún caso, tener capacidad para adquirir, poseer o administrar bienes raíces, ni capitales impuestos sobre ellos; los que tuvieren actualmente, por sí o por interpósita persona, entrarán al dominio de la Nación, concediéndose acción popular para denunciar los bienes que se hallaren en tal caso. La prueba de presunciones será bastante para declarar fundada la denuncia. Los templos destinados al culto público son de la propiedad de la Nación, representada por el Gobierno Federal, quien determinará los que deben continuar destinados a su objeto. Los obispados, casas curales, seminarios, asilos o colegios de asociaciones religiosas, conventos o cualquier otro edificio que hubiere sido construído o destinado a la administración, propaganda o enseñanza de un culto religioso, pasarán desde luego, de pleno derecho, al dominio directo de la Nación, para destinarse exclusivamente a los servicios públicos de la Federación o de los Estados, en sus respectivas jurisdicciones. Los templos que en lo sucesivo se erigieren para el culto público serán propiedad de la Nación.
 
@@ -438,7 +436,11 @@ Tampoco constituyen monopolios las asociaciones o sociedades cooperativas de pro
 
 En los casos de invasión, perturbación grave de la paz pública, o de cualquiera otro que ponga a la sociedad en grande peligro o conflicto, solamente el Presidente de la República Mexicana, de acuerdo con el Consejo de Ministros, y con aprobación del Congreso de la Unión, y en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país, o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente, a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación. Si la suspensión se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
 
-### CAPITULO II. AMBITO ESPACIAL
+### CAPITULO II.
+
+DE LOS MEXICANOS.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
 
 ###### ARTICULO 3.
 
@@ -528,7 +530,9 @@ Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias,
 
 Para pertenecer a la Marina Nacional de Guerra o a la Fuerza Aérea, y desempeñar cualquier cargo o comisión en ellas, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en Capitanes, Pilotos, Patrones, Maquinistas, Mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria la calidad de mexicano por nacimiento para desempeñar los cargos de Capitán de Puerto, y todos los servicios de practicaje y Comandante de Aeródromo, así como todas las funciones de Agente Aduanal en la República.
 
-### CAPITULO III. AMBITO TEMPORAL
+### CAPITULO III.
+
+DE LOS EXTRANJEROS.
 
 ###### ARTICULO 8.
 
@@ -570,9 +574,11 @@ Son extranjeros los que no posean las calidades determinadas en el artículo 30.
 
 Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.
 
-### CAPITULO IV. AMBITO PERSONAL
+### CAPITULO IV.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+DE LOS CIUDADANOS MEXICANOS.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1953)</small>
 
 ###### ARTICULO 11.
 
@@ -664,9 +670,11 @@ VI.- Por sentencia ejecutoria que imponga como pena esa suspensión.
 
 La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
 
-## TITULO SEGUNDO. DEL DELITO
+## TITULO SEGUNDO.
 
-### CAPITULO I. FORMA, TIEMPO, LUGAR Y CULPABILIDAD
+### CAPITULO I.
+
+DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
 
 ###### ARTICULO 13.
 
@@ -688,7 +696,11 @@ Es voluntad del pueblo mexicano constituirse en una República representativa, d
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de los Estados, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
-### CAPITULO II. UNIDAD Y PLURALIDAD DE HECHOS DELICTUOSOS
+### CAPITULO II.
+
+DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
 ###### ARTICULO 15.
 
@@ -696,7 +708,19 @@ Atendiendo a la forma, el delito puede ser realizado por acción o por omisión.
 
 ###### Art. 42.
 
-El territorio nacional comprende el de las partes integrantes de la Federación y además el de las islas adyacentes en ambos mares. Comprende, asimismo, la isla de Guadalupe, y las de Revillagigedo, situadas en el Océano Pacífico.
+El territorio nacional comprende:
+
+I.- El de las partes integrantes de la Federación;
+
+II.- El de las islas, incluyendo los arrecifes y cayos en los mares adyacentes;
+
+III.- El de las islas de Guadalupe y las de Revillagigedo situadas en el Océano Pacífico;
+
+IV.- La plataforma continental y los zócalos submarinos de las islas, cayos y arrecifes;
+
+V.- Las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional y las marítimas interiores;
+
+VI.- El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional.
 
 > <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1952)</small>
 
@@ -722,15 +746,19 @@ Los Estados que tuviesen pendientes cuestiones de límites, las arreglarán o so
 
 El Estado del (sic) Nayarit tendrá la extensión territorial y límites que comprende actualmente el Territorio de Tepic.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
+
 ###### Art. 48.
 
-Las islas de ambos mares que pertenezcan al Territorio Nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
+Las islas, los cayos y arrecifes de los mares adyacentes que pertenezcan al territorio nacional, la plataforma continental, los zócalos submarinos de las islas, de los cayos y arrecifes, los mares territoriales, las aguas marítimas interiores y el espacio situado sobre el territorio nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas islas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
 
-## TITULO TERCERO. CAUSAS QUE EXCLUYEN EL DELITO Y LA RESPONSABILIDAD
+## TITULO TERCERO.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+### CAPITULO I.
 
-### CAPITULO III. TENTATIVA
+DE LA DIVISION DE PODERES.
+
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1951)</small>
 
 ###### ARTICULO 16.
 
@@ -748,9 +776,9 @@ El Supremo Poder de la Federación se divide para su ejercicio en Legislativo, E
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias al Ejecutivo de la Unión, conforme a lo dispuesto en el artículo 29. En ningún otro caso, salvo lo dispuesto en el segundo párrafo del artículo 131, se otorgarán facultades extraordinarias para legislar.
 
-### CAPITULO I. AUSENCIA DE CONDUCTA Y ATIPICIDAD
+### CAPITULO II.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+DEL PODER LEGISLATIVO.
 
 ###### ARTICULO 18.
 
@@ -772,7 +800,11 @@ Es doloso cuando se quiere o acepta el resultado previsto por la Ley.
 
 El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso general, que se dividirá en dos Cámaras, una de diputados y otra de senadores.
 
-#### Sección I. PRESCRIPCION DE LA ACCION
+#### SECCION I.
+
+DE LA ELECCION E INSTALACION DEL CONGRESO.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 ###### ARTICULO 17.
 
@@ -916,7 +948,9 @@ A la apertura de sesiones ordinarias del Congreso asistirá el Presidente de la 
 
 Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o decretos se comunicarán al Ejecutivo firmados por los presidentes de ambas Cámaras y por un secretario de cada una de ellas, y se promulgarán en esta forma: "El Congreso de los Estados Unidos Mexicanos decreta: (texto de la ley o decreto)".
 
-#### Sección II. PRESCRIPCION DE LA SANCION
+#### SECCION II.
+
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### ARTICULO 132.
 
@@ -1344,10 +1378,6 @@ II.- Al funcionario público que teniendo, por razón de su empleo o cargo el pl
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
 ###### ARTICULO 383.
 
 No se podrá proceder contra el responsable de los delitos de golpes y violencias físicas simples, sino por querella de la persona ofendida.
@@ -1369,10 +1399,6 @@ No se podrá proceder contra el responsable de los delitos de golpes y violencia
 ###### ARTICULO 387.
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
-
-## TITULO DECIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD EN EL GOCE DE GARANTIAS
-
-### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
 
 ###### ARTICULO 388.
 
@@ -1398,10 +1424,6 @@ II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO II. SECUESTRO
-
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
 ###### ARTICULO 391.
 
 Comete el delito de secuestro quien, por cualquier medio, prive de la libertad a otro, con alguno de los siguientes propósitos:
@@ -1418,38 +1440,6 @@ Al que cometa el delito de secuestro, se le aplicarán de quince a cuarenta año
 
 > <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-###### ARTICULO 391 Bis.
-
-Se impondrán de treinta a cincuenta años de prisión y multa de mil a tres mil días de salario y, en su caso, destitución e inhabilitación del servidor público por un tiempo igual al de la pena de prisión impuesta, cuando en la ejecución del delito de secuestro a que se hace referencia en el artículo 391 de éste Código, concurra alguna de las circunstancias siguientes:
-
-I.- Que el secuestrado sea menor de dieciocho o mayor de sesenta años o que tenga alguna discapacidad física o mental;
-
-II.- Que el secuestrador tenga o haya tenido vínculos de parentesco, amistad, gratitud, confianza o relación laboral con el secuestrado o persona relacionada con éste;
-
-III.- Que el secuestrador sea o haya sido servidor público o miembro de una corporación de seguridad privada;
-
-IV.- Que el secuestro se desarrolle en dos o más entidades federativas;
-
-V.- Que el secuestrador cause una mutilación física o extraiga alguno de los órganos del secuestrado;
-
-VI.- Que el secuestrador altere la salud del secuestrado o de los familiares de éste en forma permanente o grave;
-
-VII.- Que la víctima sea una mujer en estado de embarazo;
-
-VIII.- Que la víctima pierda la vida después de la cesación del delito, por una causa originada durante el mismo, o
-
-IX.- Que persona relacionada con el secuestrado por un vínculo de parentesco o afectivo pierda la vida como consecuencia del delito.
-
-En caso de que el secuestrado sea privado de la vida por sus secuestradores, la pena de prisión será de cuarenta y cinco a cincuenta años y multa de mil quinientos a tres mil quinientos días de salario.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-###### ARTÍCULO 391 Ter.
-
-Si el secuestrador deja en libertad de manera espontánea al secuestrado dentro de los tres días siguientes a la comisión del delito, sin haber logrado alguno de los propósitos previstos en el artículo 391, se le impondrán de cuatro a doce años de prisión y multa de trescientos a mil días de salario. Se aplicará la penalidad prevista en el artículo 391 cuando exista alguna de las circunstancias señaladas en el artículo 391 Bis de este Código.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
 ###### ARTICULO 392.
 
 Se impondrán de tres a diez años de prisión y multa de doscientos a quinientos días de salario al que, en relación con las conductas sancionadas en los artículos 391, 391 Bis y 391 Ter:
@@ -1463,22 +1453,6 @@ III.- Actúe como intermediario en las gestiones de libertad, sin la autorizaci�
 IV.- Actuando como asesor de quienes representan o gestionan a favor de la víctima, evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-###### ARTÍCULO 392 Bis.
-
-Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que éste tenga acceso, se le impondrá de cinco a quince años de prisión.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-###### ARTÍCULO 392 Ter.
-
-A quien simule encontrarse secuestrado, con amenaza de su vida o daño a su persona, con el propósito de obtener rescate o con la intención de que la autoridad o un particular realice o deje de realizar un acto cualquiera, se le impondrá de cuatro a diez años de prisión y multa de treinta a ciento cincuenta días de salario.
-
-La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-### CAPITULO III. RAPTO
 
 ###### ARTICULO 393.
 
@@ -1543,10 +1517,6 @@ Cometen el delito de asonada o motín los que para hacer uso de un derecho o pre
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-## TITULO DECIMO NOVENO. DELITOS CONTRA EL PATRIMONIO DE LAS PERSONAS
-
-### CAPITULO I. ROBO
 
 ###### ARTICULO 399.
 
@@ -1796,30 +1766,6 @@ Se entiende por pandilla, para los efectos de esta disposición, la reunión hab
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-###### ARTÍCULO 171 Bis.
-
-Cuando tres o más personas acuerden organizarse o se organicen para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras tengan como fin o resultado cometer alguno o algunos de los delitos siguientes previstos por este Código, serán considerados por ese solo hecho, como miembros de la delincuencia organizada:
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2010)</small>
-
-Evasión de presos, previsto en el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; corrupción de menores e incapaces, previsto en el artículo 192 y 193 segundo párrafo; pornografía infantil, previsto en el artículo 194 Bis; prostitución sexual de menores, previsto en el artículo 194 Ter; lenocinio, previsto por el artículo 199; homicidio calificado, previsto en los artículos 329 y 335; secuestro, previsto por el artículo 391; robo, previsto en el artículo 405 y 407 fracciones I, IX, X, XII, XIII, XIV, XV y XVI; robo de semovientes, previsto en los artículos 410 y 411; y, operaciones con recursos de procedencia ilícita, previsto en el artículo 443 Bis; así también el delito de Trata de Personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas..
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-###### ARTÍCULO 171 Ter.
-
-Sin perjuicio de las penas que correspondan por el delito o delitos que se cometan, al miembro de la delincuencia organizada se le aplicarán las penas siguientes:
-
-I.- A quien tenga funciones de administración, dirección o supervisión, de cinco a quince años de prisión y de quinientos a cuatro mil días de salario, o
-
-II.- A quien no tenga las funciones anteriores, de cuatro a ocho años de prisión y multa de doscientos cincuenta a dos mil días de salario.
-
-Las penas a que se refiere el párrafo anterior se aumentarán en una mitad más cuando:
-
-a) Se trate de cualquier servidor público que participe en la realización de los delitos previstos para la delincuencia organizada. Además se impondrán a dicho servidor público, destitución e inhabilitación para desempeñar cualquier cargo o comisión públicos, o;
-
-b) Se utilice a niños, niñas, adolescentes o a quienes no tienen la capacidad para comprender el significado del hecho, para cometer cualquiera de los delitos derivados de delincuencia organizada.
-
 ###### ARTICULO 172.
 
 Comete el delito de ataques a las vías de comunicación y utilización indebida de los sistemas de auxilio a la población:
@@ -1868,8 +1814,6 @@ Al que use para los fines que están destinados las señales, marcas o fierros d
 
 No se impondrá sanción al que sin emplear engaños ni medios violentos, se apodere por una sola vez de los objetos indispensables para satisfacer sus necesidades personales o familiares del momento.
 
-### CAPITULO II. ABUSO DE CONFIANZA
-
 ###### ARTICULO 414.
 
 Comete el delito de abuso de confianza, el que con perjuicio de alguien retenga ilícitamente o disponga para sí o para otro de cualquier cosa mueble, ajena, de la que se le haya transferido la tenencia y no el dominio.
@@ -1893,8 +1837,6 @@ I.- Cuando el dueño de una cosa disponga o substraiga la misma, si le ha sido e
 II.- Cuando el depositario judicial o el designado por o ante las autoridades administrativas o del trabajo, disponga de la cosa depositada o la substraiga; y
 
 III.- Cuando una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le corresponda la propiedad.
-
-### CAPITULO III. FRAUDE
 
 ###### ARTICULO 417.
 
@@ -1976,10 +1918,6 @@ Comete el delito de fraude laboral, el que valiéndose del engaño, de la ignora
 
 Al responsable del delito de fraude laboral se le impondrá una sanción de seis meses a seis años de prisión y multa de quince a ochenta días salario.
 
-### CAPITULO IV. USURA
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
 ###### ARTICULO 422.
 
 Comete el delito de usura, el que realizare cualquier préstamo, aún encubierto en otra forma contractual, con intereses superiores al bancario, u obtenga otras ventajas evidentemente desproporcionadas para sí o para otro.
@@ -2010,8 +1948,6 @@ Al responsable del delito previsto en el artículo anterior se le impondrá de s
 
 Igual sanción se aplicará al que procurase un préstamo cualquiera cobrando una comisión evidentemente desproporcionada para sí o para otro.
 
-### CAPITULO V. CHANTAJE
-
 ###### ARTICULO 424.
 
 Comete el delito de chantaje, el que con ánimo de conseguir un lucro o provecho, amenazare a otro con causarle daños morales, físicos o patrimoniales, que afecten al amenazado, o a persona física o moral con quien tuviera vínculos de cualquier orden que lo determinen a protegerlas.
@@ -2020,13 +1956,9 @@ Comete el delito de chantaje, el que con ánimo de conseguir un lucro o provecho
 
 Al responsable del delito de chantaje se le impondrá una sanción de dos a ocho años de prisión.
 
-### CAPITULO VI. EXTORSION
-
 ###### ARTICULO 426.
 
 Al que sin derecho obligue a otro hacer, tolerar o dejar de hacer algo, obteniendo un lucro para sí o para otro y causando un perjuicio patrimonial, se le aplicarán las penas previstas para el delito de robo.
-
-### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 ###### ARTICULO 427.
 
@@ -2075,10 +2007,6 @@ III.- Cuando el despojo se realice sobre terreno de labor preparado para siembra
 ###### ARTICULO 432.
 
 Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
-
-### CAPITULO VIII. DAÑO EN PROPIEDAD
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 433.
 
@@ -2152,15 +2080,9 @@ Al que cometa un delito en contra de un servidor público o agente de la autorid
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-###### ARTICULO 189 Bis.
-
-Se aplicarán las sanciones de tres a cinco años de prisión y multa de cien a quinientos días salario, al que surta o expenda bebidas alcohólicas sin la autorización correspondiente, o sin sujetarse a las formalidades de ésta, en los términos de la ley de la materia.
-
 ###### ARTICULO 436.
 
 Si además de los daños resulta consumado algún otro delito se observarán las reglas del concurso.
-
-### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 437.
 
@@ -2169,12 +2091,6 @@ Los delitos previstos en este título se perseguirán por querella de la parte o
 ###### ARTICULO 438.
 
 Los delitos de abuso de confianza, fraude, fraude laboral, chantaje, despojo de cosas inmuebles o de aguas y daño en propiedad, se perseguirán a instancia de parte ofendida.
-
-## TITULO VIGESIMO. ENCUBRIMIENTO
-
-> <small>(REFORMADA SU NUMERACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-### CAPITULO I. ENCUBRIMIENTO
 
 ###### ARTICULO 439.
 
@@ -2217,26 +2133,6 @@ II.- Su cónyuge o parientes colaterales o por consanguinidad hasta el cuarto gr
 III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amistad o afecto íntimo.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-###### ARTÍCULO 443 Bis.
-
-Al que por sí o por interpósita persona adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera recursos, derechos o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de mil a cinco mil días de salario.
-
-Las penas previstas en el párrafo anterior serán aumentadas en una mitad cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores, destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos, hasta por un tiempo igual al de la pena de prisión impuesta.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
-
-## TITULO VIGESIMO PRIMERO. DELITOS ELECTORALES
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
-
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 189.
 
@@ -2790,14 +2686,6 @@ Los responsables de los delitos contenidos en el presente Capítulo, por haber a
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
 
-## TITULO VIGESIMO SEGUNDO. DE LOS DELITOS COMETIDOS CONTRA EL ORDENAMIENTO TERRITORIAL Y EL DESARROLLO URBANO
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
-
-### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
-
 ###### ARTICULO 454.
 
 Comete el delito a que se refiere este Capítulo:
@@ -2872,18 +2760,6 @@ Los responsables de los delitos contenidos en el presente Capítulo por haber ac
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-## TITULO VIGESIMO TERCERO. DELITOS CONTRA EL MEDIO AMBIENTE Y LOS RECURSOS NATURALES
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
-
-### CAPITULO I. DAÑO AL MEDIO AMBIENTE
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
 ###### ARTICULO 459.
 
 Comete el delito a que se refiere este Capítulo, quien sin contar o haber obtenido previamente concesión, permiso o autorización; o en violación a los términos de los mismos:
@@ -2924,12 +2800,6 @@ III. Con motivo de auditorías, visitas de verificación o inspección, prevista
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO II. DELITO DE INCENDIOS
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
 ###### ARTICULO 462.
 
 Comete el delito a que se refiere este Capítulo, quien de manera dolosa, ocasione o provoque, uno o más incendios que dañen:
@@ -2958,12 +2828,6 @@ Cuando se afecte un área igual o mayor a cinco hectáreas, o recursos forestale
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO III. CONTAMINACION DE AGUAS
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
 ###### ARTICULO 464.
 
 Comete el delito de contaminación de aguas, quien sin la autorización correspondiente o sin aplicar las medidas de prevención o seguridad:
@@ -2988,12 +2852,6 @@ Al responsable de la comisión del delito de contaminación de aguas previsto en
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO IV. SUBSTRACCION DEL SUELO
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
 ###### ARTICULO 466.
 
 Se le impondrá una sanción de seis meses a cinco años de prisión y multa de quinientos a dos mil días de salario mínimo vigente en el Estado, a quien sin haber obtenido el permiso o autorización correspondiente, extraiga suelo o cubierta vegetal por un volumen igual o mayor a cinco metros cúbicos, de:
@@ -3009,12 +2867,6 @@ Se aplicará la misma sanción prevista en este artículo a quien independientem
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
-
-### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 467.
 
@@ -3568,8 +3420,6 @@ II.- El que ponga en circulación los documentos falsos a que se refiere la frac
 
 Al que cometa alguno de los delitos a que se refiere el artículo anterior se le impondrá una sanción de cuatro a diez años de prisión y multa de sesenta a ciento veinte días salario.
 
-### CAPITULO II. FALSIFICACION Y USO DE SELLOS, LLAVES, PUNZONES, MATRICES, MARCAS, SEÑALES, PLANCHAS, CONTRASEÑAS Y FIERROS
-
 ###### ARTICULO 246.
 
 Comete el delito a que se refiere este capítulo, el que:
@@ -3627,10 +3477,6 @@ IV.- Al que a sabiendas hiciere uso de alguno de los objetos falsos de que habla
 Se impondrá sanción de uno a cinco años de prisión y multa de treinta a setenta días salario, al que en cualquier forma altere las señales o falsifique los instrumentos para imponer las señales, marcas de sangre o de fuego, o de fierro de herrar, que se utilicen para distinguir el ganado, sin autorización de la persona que las tenga legalmente registradas ante la autoridad competente.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-### CAPITULO III. FALSIFICACION Y USO DE DOCUMENTOS PUBLICOS O PRIVADOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 250.
 
@@ -3696,10 +3542,6 @@ II.- Que resulte o pueda resultar perjuicio a la sociedad, al Estado o a un part
 
 III.- Que el falsario haga la falsificación sin consentimiento de la persona a quien resulte o pueda resultar perjuicio, salvo que éste se haya hecho extensivo a la sociedad, al Estado o a un tercero.
 
-### CAPITULO IV. FALSEDAD EN DECLARACIONES Y EN INFORMES DADOS A UNA AUTORIDAD
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 #### SECCION TERCERA. De la Intervención
@@ -3720,8 +3562,6 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, o municipio del Estado, o residir en él.
 
-### CAPITULO IV. INDUCCION Y AUXILIO AL SUICIDIO
-
 ###### ARTICULO 348.
 
 Al que prestare auxilio o indujere a otro para que se suicide hasta llegar a su consumación, se le impondrá una sanción de uno a cinco años de prisión; si el auxilio se prestare hasta el punto de ejecutar él mismo la muerte, la sanción será de cuatro a doce años de prisión.
@@ -3729,8 +3569,6 @@ Al que prestare auxilio o indujere a otro para que se suicide hasta llegar a su 
 ###### ARTICULO 349.
 
 Se impondrán las sanciones de homicidio calificado al que induzca o auxilie al suicidio a un menor de dieciséis años o a una persona que no tuviera capacidad de comprensión. Si el suicidio no se consuma y sólo se causan lesiones, se impondrá al activo la sanción que corresponda a lesiones calificadas.
-
-### CAPITULO V. PARRICIDIO
 
 ###### ARTICULO 350.
 
@@ -3741,8 +3579,6 @@ Comete el delito de parricidio el que dolosamente prive de la vida a cualquier a
 ###### ARTICULO 351.
 
 Al que cometa el delito de parricidio se le impondrá una sanción de treinta a cincuenta años de prisión.
-
-### CAPITULO VI. FILICIDIO
 
 ###### ARTICULO 352.
 
@@ -3794,12 +3630,6 @@ Al perito o intérprete que sea sancionado, ya sea porque se retracte de su dict
 
 La autoridad ante la cual se condujo falazmente el testigo, perito, o interprete deberá dar vista al órgano persecutor de los delitos para que inicie la indagatoria correspondiente, remitiendo las constancias necesarias para ello.
 
-###### ARTICULO 258 Bis.
-
-(DEROGADO, P.O. 10 DE JULIO DE 2003)
-
-### CAPITULO V. VARIACION DEL NOMBRE O DEL DOMICILIO
-
 #### SECCION CUARTA. Del Remate
 
 ###### ARTICULO 353.
@@ -3815,8 +3645,6 @@ Al responsable del delito de filicidio se le impondrá una sanción de treinta a
 ###### ARTICULO 355.
 
 Si en la comisión del delito de filicidio participara un médico, partero o enfermero, además de imponérseles las sanciones privativas de libertad por homicidio, se le suspenderá hasta por veinte años en el ejercicio de su profesión.
-
-### CAPITULO VII. ABORTO
 
 ###### ARTICULO 356.
 
@@ -3844,8 +3672,6 @@ III.- Al servidor público que en los actos propios de su cargo, atribuyere a un
 
 Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de tres días a seis meses de prisión y multa de uno a quince días salario.
 
-### CAPITULO VI. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
-
 #### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
 ###### ARTICULO 359.
@@ -3872,8 +3698,6 @@ II.- Cuando el embarazo haya sido resultado de una violación; y
 
 III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud a juicio del médico que la asista, oyendo éste la opinión de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO VIII. ABANDONO DE PERSONAS
-
 ###### ARTICULO 362.
 
 Comete el delito de abandono de personas, el que teniendo obligación de cuidarlos, abandone a un menor, a una persona enferma o a un anciano, incapaces de cuidarse a sí mismos.
@@ -3897,8 +3721,6 @@ Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a 
 El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete, que deje en estado de abandono, sin prestar o facilitar asistencia a la persona a quien atropelló por culpa o accidente, se le impondrá una sanción de dos meses a un año de prisión.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-### CAPITULO IX
 
 ###### ARTICULO 366.
 
@@ -3924,8 +3746,6 @@ Comete el delito de usurpación de profesión el que se atribuya el carácter de
 
 Al responsable de los delitos a que se refiere este capítulo se le impondrá una sanción de un mes a tres años de prisión y multa de tres a cincuenta días salario.
 
-### CAPITULO VII. USO INDEBIDO DE UNIFORMES, INSIGNIAS, DISTINTIVOS O CONDECORACIONES
-
 #### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
 
 ###### ARTICULO 368.
@@ -3933,38 +3753,6 @@ Al responsable de los delitos a que se refiere este capítulo se le impondrá un
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2008)</small>
-
-### CAPITULO X. VIOLENCIA FAMILIAR
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
-
-###### ARTICULO 368 Bis.
-
-Por violencia familiar se considera el uso de la fuerza física o moral, así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que produzcan o no lesiones.
-
-Comete el delito de violencia familiar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, asimismo, aquella persona que tenga una relación formal o informal, de afecto o amistad o la hubiera tenido con cualquier miembro de la familia.
-
-A quien comete el delito de violencia familiar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
-
-###### ARTICULO 368 Ter.
-
-Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
-
-###### ARTICULO 368 Quáter.
-
-En todos los casos previstos en los dos artículos precedentes, el Ministerio Público apercibirá al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
-
-## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL HONOR
-
-### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
 
 ###### ARTICULO 369.
 
@@ -4004,8 +3792,6 @@ En caso de que el psicólogo observe una conducta extremadamente peligrosa y vio
 
 En los casos en que no se cuente con servicios psicológicos o psiquiátricos, el Juez enviará al responsable del delito al municipio donde se pueda practicar dicho tratamiento y las costas que de esto se deriven, serán cubiertas en su totalidad por el sujeto tratado.
 
-### CAPITULO II. INJURIAS
-
 #### SECCIÓN IV. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
 
 ###### ARTICULO 372.
@@ -4015,8 +3801,6 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 ###### ARTICULO 373.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
-
-### CAPITULO III. DIFAMACION
 
 ###### ARTICULO 374.
 
@@ -4038,8 +3822,6 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO IV. CALUMNIA
-
 ###### ARTICULO 378.
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
@@ -4057,8 +3839,6 @@ Comete el delito a que se refiere este capítulo el que públicamente usare unif
 ###### ARTICULO 265.
 
 Al responsable del delito previsto en el artículo anterior se le impondrá una sanción de un mes a tres años de prisión y multa de tres a cincuenta días salario.
-
-### CAPITULO VIII. DISPOSICION COMUN A LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 266.
 
@@ -4088,10 +3868,6 @@ Al responsable del delito de impudicia se le impondrá una sanción de seis mese
 
 El delito de impudicia sólo se castigará cuando se haya consumado.
 
-### CAPITULO II. ESTUPRO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
 ###### ARTICULO 270.
 
 Comete el delito de estupro quien tenga cópula con persona mayor de doce y menor de dieciocho años de edad, obteniendo su consentimiento por medio de engaño o mediante alguna maquinación.
@@ -4115,8 +3891,6 @@ Si la víctima fuera mayor de dieciséis y menor de dieciocho años de edad, al 
 ###### ARTICULO 272.
 
 No se procederá contra el responsable del delito de estupro, sino por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus legítimos representantes.
-
-### CAPITULO III. VIOLACION
 
 ###### ARTICULO 273.
 
@@ -4168,36 +3942,6 @@ Si la violación fuere cometida con participación de dos o más personas, la sa
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-### CAPITULO IV. HOSTIGAMIENTO Y ACOSO SEXUAL
-
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
-
-ARTICULO 276 BIS.- Comete el delito de hostigamiento sexual quien, valiéndose de una posición jerárquica derivada de la relación laboral, docente, doméstica o cualquiera otra que genere subordinación, asedie a otra persona, emitiéndole propuestas, utilice lenguaje lascivo con este fin o le solicite ejecutar cualquier acto de naturaleza sexual.
-
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
-
-ARTICULO 276 TER.- Comete el delito de acoso sexual quien con respecto a una persona con la que no exista relación de subordinación, lleve a cabo conductas verbales, físicas o ambas, relacionadas con la sexualidad que la pongan en riesgo o la dejen en estado de indefensión.
-
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
-
-ARTICULO 276 QUATER.- Al responsable del delito de hostigamiento sexual se le impondrán de seis meses a dos años de prisión y multa de cincuenta a trescientos días de salario y será punible cuando se ocasione un daño o perjuicio en la posición laboral, docente, doméstica o de cualquier naturaleza que se derive de la subordinación de la persona agredida.
-
-Al responsable del delito de acoso sexual se le impondrá una pena de seis meses a un año de prisión y multa de cincuenta a trescientos días de salario.
-
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
-
-ARTICULO 276 QUINQUIES.- Si la persona que comete estos delitos fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento o el acoso sexual, además se le sancionará con la destitución e inhabilitación de seis meses a dos años para desempeñar cualquier empleo, cargo o comisión públicos.
-
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
-
-ARTICULO 276 SEXIES.- Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable, de tres a cinco años de prisión y multa de cien a quinientos días de salario.
-
-(REUBICADO, ANTES CAPITULO IV, P.O. 19 DE OCTUBRE DE 2010)
-
-### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
 ### CAPITULO VI. COHECHO
 
 ###### ARTICULO 277.
@@ -4221,28 +3965,6 @@ Los responsables a que se refiere el artículo anterior, quedarán privados de s
 La reparación del daño en los casos de estupro y violación, comprenderá el pago de alimentos a los hijos si los hubiere, y se hará en la forma y términos de la Ley Civil.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
-
-###### ARTICULO 279 Bis.
-
-La reparación del daño como consecuencia de la comisión de los delitos previstos en este Título comprenderá el pago de los gastos médicos originados por el ilícito y el pago del tratamiento psicoterapéutico para el sujeto pasivo, y los familiares de éste que así lo requieran.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2008)</small>
-
-###### ARTICULO 279 Ter.
-
-A quien divulgue la identidad, nombre, apellido de sus padres, que permita la identificación pública de mujeres, niños o adolescentes, que hayan sido objeto de violencia física, psicológica, moral o sexual, derivados de delitos de tipo sexual o violencia familiar, se le aplicará de dos a cinco años de prisión y multa de cien a quinientos días de salario mínimo vigente en la capital del Estado.
-
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2007)</small>
-
-Sí el delito establecido en este artículo es cometido por un Servidor Público, la sanción se aumentará hasta dos terceras partes más y la destitución de su cargo o puesto público.
-
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2007)</small>
-
-Las Autoridades garantizarán que la información que brinden no contravenga el derecho que prevé este artículo.
-
-## TITULO DECIMO TERCERO. DELITOS CONTRA LA FAMILIA Y EL ESTADO CIVIL
-
-### CAPITULO I. ALTERACION DEL ESTADO CIVIL
 
 ### CAPITULO VIII. CONCUSION
 
@@ -4268,8 +3990,6 @@ En los casos de la fracción I y en el segundo supuesto de la fracción II de é
 
 A los responsables del delito previsto en el artículo anterior, se les impondrá una sanción de uno a seis años de prisión y multa de treinta a ochenta días salario; además perderán el derecho de heredar que tuvieren respecto de las personas a quienes, por la comisión del delito, perjudiquen en sus derechos de familia.
 
-### CAPITULO II. BIGAMIA
-
 ###### ARTICULO 282.
 
 Comete el delito de bigamia el que estando unido en matrimonio no disuelto ni declarado nulo por sentencia firme contraiga otro con las formalidades legales.
@@ -4284,8 +4004,6 @@ A los responsables del delito de bigamia se les impondrá una sanción de uno a 
 
 A los testigos que intervengan en la celebración del nuevo matrimonio a sabiendas de la vigencia legal del anterior, se les impondrá una sanción de tres meses a dos años de prisión y multa de seis a cuarenta días salario. Igual sanción se aplicará a quienes ejerzan la patria potestad o la tutela, que a sabiendas dieren su consentimiento para la celebración del nuevo matrimonio.
 
-### CAPITULO III. INCESTO
-
 ###### ARTICULO 285.
 
 Cometen el delito de incesto los ascendientes que tengan cópula con sus descendientes y los hermanos que tengan cópula entre sí.
@@ -4293,8 +4011,6 @@ Cometen el delito de incesto los ascendientes que tengan cópula con sus descend
 ###### ARTICULO 286.
 
 A los ascendientes responsables del delito de incesto se les impondrá una sanción de tres a seis años de prisión y para los descendientes la sanción será de seis meses a tres años de prisión; esta última sanción se impondrá cuando el incesto se realice entre hermanos.
-
-### CAPITULO IV. ADULTERIO
 
 ###### ARTICULO 287.
 
@@ -4316,8 +4032,6 @@ A los ascendientes responsables del delito de incesto se les impondrá una sanci
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-### CAPITULO V. EXPOSICION DE MENORES
-
 ###### ARTICULO 292.
 
 Comete el delito a que se refiere este capítulo el que exponga en una casa de expósitos a un menor de siete años que se le hubiere confiado, o lo entregue en otro establecimiento de beneficencia o a cualquiera otra persona, sin anuencia de la que se lo confió o de la autoridad en su defecto.
@@ -4331,10 +4045,6 @@ A los responsables del delito de exposición de menores se les impondrá una san
 Los parientes o tutores que entreguen en una casa de expósitos a un niño que está bajo su potestad o custodia, perderá por ese sólo hecho los derechos que tenga sobre la persona y bienes del expósito.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-### CAPITULO VI. ABANDONO DE OBLIGACIONES ALIMENTICIAS
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 295.
 
@@ -4376,8 +4086,6 @@ Para que el perdón concedido por el ofendido pueda extinguir la acción o la sa
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
 
-### CAPITULO VII. SUSTRACCION Y RETENCION DE MENORES POR LOS PADRES
-
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
 ###### ARTICULO 300.
@@ -4392,14 +4100,6 @@ Sólo se procederá contra el responsable a petición de quien ejerza la patria 
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-###### ARTICULO 300 Bis.
-
-Comete el delito de retención de menores cualquiera de los padres que teniendo la custodia compartida de los hijos determinados días, se resista o se niegue a devolver a los menores al hogar en que ordinariamente habitan.
-
-Sólo se procederá a petición de quien ejerza el derecho de custodia.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
-
 ###### ARTICULO 301.
 
 A los responsables de los delitos a que se refieren los artículos anteriores se les impondrá una sanción de dos a seis años de prisión y multa de cien a quinientos días (sic) salario.
@@ -4407,10 +4107,6 @@ A los responsables de los delitos a que se refieren los artículos anteriores se
 Cuando el sujeto devuelva espontáneamente al menor o incapaz, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones señaladas.
 
 En caso que el menor, fuese sustraído y trasladado, retenido u ocultado fuera del territorio nacional, se aumentaran en una mitad las sanciones previstas en el primer párrafo de este artículo.
-
-## TITULO DECIMO CUARTO. DELITOS CONTRA LA SALUBRIDAD Y SEGURIDAD EN MATERIA DE INHUMACIONES Y EXHUMACIONES
-
-### CAPITULO UNICO. VIOLACIONES DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 302.
 
@@ -4431,12 +4127,6 @@ Se impondrá una sanción de seis meses a tres años de prisión y multa de quin
 I.- Al que viole un túmulo, un sepulcro, una sepultura o un féretro; y
 
 II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, obscenidad o brutalidad.
-
-## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
-
-### CAPITULO I. AMENAZAS
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 305.
 
@@ -4482,8 +4172,6 @@ Si el activo cumple su amenaza se acumulará la sanción de ésta y la del delit
 
 Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza la que le corresponda por su participación en el delito que resulte.
 
-### CAPITULO II. ALLANAMIENTO DE MORADA
-
 ###### ARTICULO 310.
 
 Comete el delito de allanamiento de morada el que sin estar en los supuestos que la ley lo permita, se introduzca furtivamente, con engaño, violencia o sin permiso expreso o tácito de la persona autorizada para darlo, a una casa habitada, departamento, vivienda, aposento o sus dependencias.
@@ -4495,8 +4183,6 @@ Al responsable del delito de allanamiento de morada se le impondrá una sanción
 ###### ARTICULO 312.
 
 Se impondrá la misma sanción prevista en el artículo anterior, al que permanezca en los lugares señalados en el artículo 310, con engaño o contra la voluntad expresa de la persona autorizada para ello.
-
-### CAPITULO III. ASALTO
 
 ## TITULO DECIMO. RESPONSABILIDAD PROFESIONAL
 
@@ -4518,8 +4204,6 @@ Al responsable del delito de asalto, se le impondrá sanción de cuatro a siete 
 
 Si un grupo de tres o más personas, atacare un lugar poblado, se impondrá una sanción de diez a veinte años de prisión a los cabecillas o jefes; y de ocho a quince años de prisión a los demás.
 
-### CAPITULO IV. DELITOS CON MOTIVO DEL TRANSITO DE VEHICULOS
-
 ###### ARTICULO 316.
 
 Se impondrá sanción de tres meses a tres años al que ponga en movimiento cualquier vehículo automotriz y lo abandone o de cualquier otro modo haga imposible el control de su dirección; si además resultaran otros delitos se observarán las reglas del concurso.
@@ -4539,24 +4223,6 @@ I.- Si se cometiere por conductores en estado de ebriedad o bajo el influjo de e
 II.- Si se cometiere por conductores de transporte de servicio público o escolar, a consecuencia de conducir con exceso de velocidad, o de acciones u omisiones graves, la sanción será de dos a ocho años de prisión, si del hecho resultan la muerte de una o más personas; de dos a seis años de prisión si del hecho resultan lesiones y de dos a cuatro años de prisión si sólo se causa daño en propiedad ajena.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
-
-### CAPITULO V. TRAFICO DE MENORES E INCAPACITADOS
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-###### ARTICULO 318 Bis.
-
-Se impondrá de seis a doce años de prisión y multa de cien a doscientos días salario y privación de los derechos de la patria potestad, tutela o custodia en su caso, y para adoptar, al que teniendo a su cargo o cuidado a un menor de edad o incapaz a virtud del ejercicio de la patria potestad, de la tutela, custodia o de otra situación legal o de hecho, lo entregue por sí o por interpósita persona a un tercero a cambio de un beneficio económico o de cualquier otro lucro.
-
-La misma sanción se le impondrá al intermediario y al tercero que reciba un beneficio económico o lucro cualquiera, en las condiciones a que se refiere el párrafo anterior.
-
-Si el intermediario es director, encargado o empleado de una institución médica pública o privada, de alguna casa-hogar, asilo o lugar donde se alberguen menores, la sanción que se imponga podrá aumentarse de dos a cuatro años mas de prisión.
-
-No eximirá de responsabilidad alguna a los participantes de éste delito aún cuando se haya seguido algún procedimiento legal para la entrega del menor, si se demuestra que quien lo entregó o el intermediario recibió a cambio un beneficio económico o lucro cualquiera.
-
-## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
-
-### CAPITULO I. LESIONES
 
 ###### ARTICULO 319.
 
@@ -4608,10 +4274,6 @@ IV.- Si cualquiera de las personas que participan en las lesiones obrase con pre
 
 ## TITULO DUODECIMO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUALES
 
-### CAPITULO I. IMPUDICIA
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
-
 ### CAPITULO I. FALSIFICACION Y CIRCULACION DE TITULOS Y DOCUMENTOS DE CREDITO PUBLICO
 
 ###### ARTICULO 325.
@@ -4633,12 +4295,6 @@ Si el ofendido fuere alguno de los parientes o personas a que se refieren los ar
 Al que ejerciendo la patria potestad o la tutela infiera lesiones a los menores o pupilos que estén bajo su guarda, además de la pena correspondiente a las lesiones se le suspenderá o privará en el ejercicio de sus derechos sobre aquéllos.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
-
-###### ARTICULO 328 Bis.
-
-Los propietarios o poseedores de animales que causen lesiones o muerte a personas, serán responsables a título de culpa. Si fueren a consecuencia de su acción, el delito se considerará doloso.
-
-### CAPITULO II. HOMICIDIO
 
 ###### ARTICULO 329.
 
@@ -4702,8 +4358,6 @@ El homicidio es calificado cuando se comete con premeditación, ventaja, alevos�
 
 Al autor de un homicidio calificado se le impondrá una sanción de veinte a cincuenta años de prisión.
 
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
-
 ###### ARTICULO 338.
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2010)
@@ -4766,7 +4420,9 @@ V.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprem
 
 VI.- Conceder licencia hasta por treinta días al Presidente de la República y nombrar el interino que supla esa falta.
 
-### CAPITULO II. CAUSAS DE JUSTIFICACION
+### CAPITULO III.
+
+DEL PODER EJECUTIVO.
 
 ###### ARTICULO 20.
 
@@ -4928,7 +4584,11 @@ Todos los reglamentos, decretos y órdenes del Presidente deberán estar firmado
 
 Los secretarios del Despacho, luego que esté abierto el período de sesiones ordinarias, darán cuenta al Congreso, del estado que guarden sus respectivos ramos. Cualquiera de las Cámaras podrá citar a los secretarios de Estado para que informen, cuando se discuta una ley o se estudie un negocio relativo a su secretaría.
 
-### CAPITULO III. CAUSAS DE INIMPUTABILIDAD
+### CAPITULO IV.
+
+DEL PODER JUDICIAL.
+
+(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
 
 ###### ARTICULO 23.
 
@@ -4971,20 +4631,6 @@ No se aplicará la pena correspondiente a la tentativa, cuando fuera absolutamen
 La ausencia de conducta y la atipicidad excluyen el delito.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-###### ARTICULO 31 Bis.
-
-No habrá conducta punible:
-
-I.- Si se obra impulsado por una fuerza física exterior irresistible; y
-
-II.- Si se causa un daño por mero accidente, sin dolo ni culpa, ejecutando un hecho lícito con todas las precauciones debidas.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-###### ARTICULO 31 Ter.
-
-Existe atipicidad cuando la acción u omisión no se adecue exactamente a la descripción legal del delito.
 
 ###### ARTICULO 32.
 
@@ -5266,7 +4912,9 @@ También será consignado a la autoridad o Agente de ella, el que, realizada una
 
 Si la detención se verificare fuera del lugar en que reside el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se efectuó la detención.
 
-## TITULO CUARTO. DE LAS PERSONAS RESPONSABLES DE DELITOS
+## TITULO CUARTO.
+
+DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS.
 
 ###### Art. 108.
 
@@ -5318,7 +4966,11 @@ La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante
 
 En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario público.
 
-## TITULO QUINTO. DE LAS SANCIONES
+## TITULO QUINTO.
+
+DE LOS ESTADOS DE LA FEDERACION.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE OCTUBRE DE 1953)</small>
 
 ###### Art. 115.
 
@@ -5450,7 +5102,11 @@ V.- Los títulos profesionales expedidos por las autoridades de un Estado, con s
 
 Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o trastorno interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
 
-## TITULO SEXTO. DE LA APLICACION DE LAS SANCIONES
+## TITULO SEXTO.
+
+DEL TRABAJO Y DE LA PREVISION SOCIAL.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 ### CAPITULO I. AUTORES O PARTICIPES
 
@@ -5732,7 +5388,11 @@ La sanción de prisión produce la suspensión de los derechos políticos y los 
 
 ###### Art. 123.
 
-El Congreso de la Unión, sin contravenir a las bases siguientes, deberá expedir leyes sobre el trabajo, las cuales regirán entre los obreros, jornaleros, empleados, domésticos y artesanos y de una manera general sobre todo contrato de trabajo:
+El Congreso de la Unión, sin contravenir a las bases siguientes deberá expedir leyes sobre el trabajo, las cuales regirán:
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
+A.- Entre los obreros, jornaleros, empleados domésticos, artesanos y de una manera general, todo contrato de trabajo:
 
 I.- La duración de la jornada máxima será de ocho horas.
 
@@ -5820,7 +5480,59 @@ XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativ
 
 XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales, en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera y azucarera, minería, hidrocarburos, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el Gobierno Federal; empresas que actúen en virtud de un contrato o concesión federal, y las industrias que le sean conexas; a empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o más entidades federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fija la ley respectiva.
 
-## TITULO SEPTIMO. DE LA EJECUCION DE SENTENCIAS
+> <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
+B.- Entre los Poderes de la Unión, los Gobiernos del Distrito y de los Territorios Federales y sus trabajadores:
+
+I.- La jornada diaria máxima de trabajo diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas;
+
+II.- Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro;
+
+III.- Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año;
+
+IV.- Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuída durante la vigencia de éstos.
+
+En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general;
+
+V.- A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo;
+
+VI.- Sólo podrán hacerse retenciones, descuentos, deducciones o embargos al salario, en los casos previstos en las leyes;
+
+VII.- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado organizará escuelas de Administración Pública;
+
+VIII.- Los trabajadores gozarán de derechos de escalafón a fin de que los ascensos se otorguen en función de los conocimientos, aptitudes y antigüedad;
+
+XI (sic).- Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la ley.
+
+En caso de separación injustificada tendrá derecho a optar por la reinstalación en su trabajo o por la indemnización correspondiente, previo el procedimiento legal. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente a la suprimida o a la indemnización de ley;
+
+X.- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la ley, respecto de una o varias dependencias de los Poderes Públicos, cuando se violen de manera general y sistemática los derechos que este artículo les consagra;
+
+XI.- La seguridad social se organizará conforme a las siguientes bases mínimas:
+
+a).- Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
+
+b).- En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la ley.
+
+c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante el período de lactancia, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos. Además, disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles.
+
+d).- Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la ley.
+
+e).- Se establecerán centros para vacaciones y para recuperación, así como tiendas económicas para el beneficio de los trabajadores y sus familiares.
+
+f).- Se proporcionarán a los trabajadores habitaciones baratas en arrendamiento o venta, conforme a los programas previamente aprobados;
+
+XII.- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal Federal de Conciliación y Arbitraje integrado según lo prevenido en la ley reglamentaria.
+
+Los conflictos entre el Poder Judicial de la Federación y sus servidores, serán resueltos por el Pleno de la Suprema Corte de Justicia de la Nación;
+
+XIII.- Los militares, marinos y miembros de los cuerpos de seguridad pública, así como el personal de servicio exterior se regirán por sus propias leyes;
+
+XIV.- La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
+
+## TITULO SEPTIMO.
+
+PREVENCIONES GENERALES.
 
 ### CAPITULO II. MEDIDAS DE SEGURIDAD
 
@@ -6024,7 +5736,9 @@ Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y tod
 
 Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicadas en subasta, mediante convocatoria, y para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
 
-## TITULO OCTAVO. DE LA EXTINCION PENAL
+## TITULO OCTAVO.
+
+DE LAS REFORMAS DE LA CONSTITUCION.
 
 ### CAPITULO V. CONCURSO
 
@@ -6035,14 +5749,6 @@ Las circunstancias que la Ley considere específicamente como descriptivas del d
 ###### ARTICULO 71.
 
 Si durante el juicio enloqueciera el procesado, el Juez suspenderá el proceso en los términos que se fijen en el Código Procesal Penal, durante el lapso en que subsista dicho estado, pero, al declararse el estado de remisión, deberá reanudarse de inmediato el proceso suspendido.
-
-###### ARTICULO 71 Bis.
-
-Cuando la orden de aprehensión o el auto de formal prisión se dicte en contra de una persona mayor de 70 años de edad, o de precario estado de salud permanente, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado o procesado bajo las medidas de seguridad que procedan de acuerdo con la representación social. La petición se tramitará incidentalmente.
-
-No gozarán de esta prerrogativa quienes, a criterio del juez, puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumir fundadamente que causarán daño al denunciante o querellante, a la víctima u ofendido o a quienes indirectamente participen o deban participar en el proceso.
-
-En todo caso, la valoración por parte del juez se apoyará en dictámenes de peritos.
 
 ### CAPITULO VI. SANCION PECUNIARIA
 
@@ -6109,10 +5815,6 @@ En caso de concurso real o material, se aplicará la pena prevista para el delit
 En los casos de concurso ideal o formal, se aplicará la pena que corresponda al delito de mayor sanción, la que se podrá aumentar hasta la mitad de la duración de la misma.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-###### ARTICULO 82 Bis.
-
-Si el delito es continuado la sanción se aumentará de una mitad del mínimo hasta las dos terceras partes del máximo de la pena que la ley prevea para el delito cometido, sin que exceda de cincuenta años.
 
 ### CAPITULO IX. REINCIDENCIA Y HABITUALIDAD
 
@@ -6182,7 +5884,9 @@ El importe del daño moral no podrá ser inferior al veinte por ciento de las in
 
 La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Unión, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas de los Estados. El Congreso de la Unión hará el cómputo de los votos de las legislaturas, y la declaración de haber sido aprobadas las adiciones o reformas.
 
-## TITULO I. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
+## TITULO NOVENO.
+
+DE LA INVIOLABILIDAD DE LA CONSTITUCION.
 
 ### CAPITULO XII. MEDIDAS DE VIGILANCIA
 
@@ -6205,10 +5909,6 @@ IV.- El Estado y los Municipios, subsidiariamente, por los delitos cometidos por
 V.- Las Aseguradoras que hubieren asumido el riesgo de la responsabilidad pecuniaria, previstas en sus contratos, respecto a las actividades de sus asegurados, que hubieren cometido hechos delictuosos.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
-
-###### ARTICULO 92 Bis.
-
-El Estado cubrirá una indemnización a quien hubiese obtenido el reconocimiento de su inocencia en los términos previstos en este Código o a sus derechohabientes. La reparación del daño será dispuesta de oficio por la autoridad que resuelva el reconocimiento de la inocencia, tomando en cuenta el salario mínimo general correspondiente a la zona en que se hubiese supuesto la comisión del delito, a razón de dos días de salario mínimo vigente en la fecha en que se haga el pago por cada día que la persona hubiere estado privada de su libertad durante el procedimiento y la ejecución de la pena o medida de seguridad.
 
 ### CAPITULO XIII. SUSTITUCION Y CONMUTACION DE SANCIONES
 
@@ -6444,12 +6144,6 @@ En caso de que el sentenciado incumpla sus obligaciones, independientemente de l
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-###### ARTICULO 108 Bis.
-
-Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa y restrictiva de la libertad, el Juez, de oficio o a petición de parte, motivando su resolución, podrá sustituirla por la de confinamiento y por medidas de seguridad. En todo caso el juzgador se apoyará en dictámenes de peritos.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
-
 ###### ARTICULO 109.
 
 Los Jueces, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las circunstancias del hecho, podrán a su prudente arbitrio, conmutar en la sentencia la pena de prisión, cuando ésta no exceda de dos años, por la multa que no podrá ser menor de veinte ni mayor de doscientos días de salario, según las condiciones económicas del delincuente y las circunstancias que antes se mencionan. En este caso quedará a elección del sentenciado compurgar la pena corporal o pagar la multa impuesta.
@@ -6607,12 +6301,6 @@ La rehabilitación quedará revocada de pleno derecho, si el rehabilitado comete
 ### CAPITULO VII. RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
-
-###### ARTICULO 142 Bis.
-
-Cualquiera que sea la pena o medida de seguridad impuesta en sentencia firme, ésta quedará sin efecto cuando se acredite que el sentenciado es inocente, en los términos del Código de Procedimientos Penales.
-
-Si la ha cumplido, da derecho a él o a sus herederos en sus respectivos casos, a obtener la declaratoria de su inocencia y la reparación del daño en los términos del Artículo 92 Bis.
 
 ###### ARTICULO 125.
 
@@ -6776,53 +6464,129 @@ LEY QUE REFORMA LOS ARTICULOS 73, 74, 76, 79, 89, 94, 96, 97, 98, 99, 100 Y 111.
 
 ###### ARTICULO 1o.
 
-Los ámbitos de validez para la aplicación de este Código, son el espacial, el temporal y el personal.
+Las reformas constitucionales a que se contrae la presente ley, entrarán en vigor el día 20 de diciembre del presente año.
 
 ###### ARTICULO 2o.
 
-Cuando se cometa un delito no previsto en este Código, pero sí en una ley especial local, se aplicará ésta, observando las disposiciones contenidas en este Código; igualmente cuando el hecho, por sus características propias, esté descrito también en una ley especial local, se aplicará ésta en las mismas condiciones fijadas en este artículo.
+Los actuales Ministros de la Suprema Corte de Justicia de la Nación quedarán sujetos a la ratificación de sus nombramientos por el Presidente de la República, con aprobación del Senado.
+
+Los actuales Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, quedarán sujetos a la ratificación de sus nombramientos por el Presidente de la República, con aprobación de la Cámara de Diputados. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Ministros y Magistrados.
 
 ###### ARTICULO 3o.
 
-Este Código se aplicará por los delitos cometidos en el territorio del Estado de Tamaulipas, que sean de la competencia de sus Tribunales.
+Los actuales Magistrados de Circuito y Jueces de Distrito quedarán sujetos a la ratificación de sus nombramientos por la Suprema Corte de Justicia de la Nación, que decidirá si los ratifica dentro del término de sesenta días a contar de la fecha en que la misma Suprema Corte quede integrada, de acuerdo con el presente Decreto. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Magistrados y Jueces.
 
 ###### ARTICULO 4o.
 
-Se aplicará, igualmente, por los delitos cuya ejecución se inicie fuera del territorio del Estado y se consumen o causen efectos dentro del mismo.
+Los actuales Jueces del Orden Común del Distrito Federal y de los Territorios, quedarán sujetos a la ratificación de sus nombramientos por el Tribunal Superior de Justicia del Distrito Federal, que decidirá si los ratifica dentro del término de sesenta días a contar de la fecha en que el mismo Tribunal Superior de Justicia quede integrado, de acuerdo con el presente Decreto. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Jueces.
+
+D.O.F. 20 DE AGOSTO DE 1928.
+
+LEY QUE REFORMA EL ARTICULO 52 Y EL PARRAFO CUARTO DE LA FRACCION III DEL ARTICULO 115.
+
+PRIMERO.- La reforma del artículo 52 constitucional entrará en vigor al verificarse las elecciones para integrar la Cámara de Diputados del XXXIV Congreso de la Unión, en el año de 1930.
+
+SEGUNDO.- La división territorial que servirá de base para la elección de los Diputados a la XXXIV Legislatura de la Unión, será con sujeción al presente Decreto.
+
+TERCERO.- Las reformas al párrafo cuarto de la fracción III del artículo 115 constitucional, surtirán sus efectos en las elecciones de diputados a las Legislaturas de los Estados, en las fechas en que, de conformidad con sus Constituciones Políticas locales y leyes electorales respectivas, se verifiquen, a partir de la promulgación de la presente ley.
+
+D.O.F. 20 DE AGOSTO DE 1928.
+
+LEY QUE REFORMA LAS BASES 1a., 2a., Y 3a. DE LA FRACCION VI DEL ARTICULO 73.
+
+Unico.- Esta ley entrará en vigor el día primero de enero de mil novecientos veintinueve.
+
+D.O.F. 6 DE SEPTIEMBRE DE 1929.
+
+LA LEY DE REFORMAS CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 7 DE FEBRERO DE 1931.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 19 DE DICIEMBRE DE 1931.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 27 DE ABRIL DE 1933.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial del Estado.
+Esta Ley comenzará a regir desde la fecha de su publicación en el "Diario Oficial."
 
-P.O. 27 DE MARZO DE 1993.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE NOVIEMBRE DE 1993.
+D.O.F. 29 DE ABRIL DE 1933.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor veinte días después de su publicación en el Periódico Oficial del Estado.
+En las próximas elecciones ordinarias de Poderes Federales, se elegirán Senadores de número par por un período de seis años; en el año de 1936 deberán verificarse elecciones extraordinarias de Senadores de número impar, para un período de cuatro años, y en el año de 1940 se verificarán elecciones ordinarias de la totalidad de los miembros del Senado de la República.
 
-P.O. 25 DE OCTUBRE DE 1995.
+D.O.F. 4 DE NOVIEMBRE DE 1933.
 
-###### ARTICULO PRIMERO
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-- El presente Código entrará en vigor el día primero de enero de mil novecientos ochenta y siete, previa su publicación en el Periódico Oficial del Estado.
+D.O.F. 10 DE ENERO DE 1934.
 
-###### ARTICULO SEGUNDO
+UNICO.- Se abroga la Ley de 6 de enero de 1915, sus reformas y demás disposiciones legales que se opongan a la vigencia de la presente reforma.
 
-- A partir de la entrada en vigor de este Código, se abroga el expedido mediante decreto de fecha veinticuatro de enero de mil novecientos cincuenta y seis, publicado en el Periódico Oficial del Estado el cuatro de febrero de dicho año, con sus respectivas reformas y adiciones.
+D.O.F. 18 DE ENERO DE 1934.
 
-###### ARTICULO TERCERO
+DECRETO QUE REFORMA EL ARTICULO 42.
 
-- El Código que se abroga y sus reformas y adiciones continuarán aplicándose únicamente para los hechos ejecutados durante su vigencia, bajo los términos establecidos en los dos siguientes artículos.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-###### ARTICULO CUARTO
+D.O.F. 18 DE ENERO DE 1934.
 
-- Todos los hechos ocurridos, procesos instruidos y sentencias pronunciadas conforme al Código que se abroga, se regirán por la ley más favorable al inculpado, procesado o sentenciado.
+DECRETO QUE REFORMA LOS ARTICULOS 30, 37, 73, FRACCION XVI Y 133.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 18 DE ENERO DE 1934.
+
+DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 18 DE ENERO DE 1934.
+
+DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
+
+###### ARTICULO UNICO.
+
+Los recursos de súplica que actualmente se encuentran en tramitación, habrán de seguirse y de sentenciarse de acuerdo con la legislación vigente cuando se promovieron.
+
+D.O.F. 22 DE MARZO DE 1934.
+
+UNICO.- La parte continental que anteriormente pertenecía al Territorio de Quintana Roo y que ha quedado anexada a los Estados de Yucatán y Campeche, queda libre de cualquier adeudo que pudiera existir a favor del comercio y empleados públicos que prestaron sus servicios en dicho Territorio hasta el 31 de diciembre de 1931, en que se anexó a los Estados de Yucatán y Campeche, pues la Federación liquidará y pagará dichos adeudos, debiendo quedar en consecuencia, a favor de la Federación, los créditos que hasta la fecha de la entrega de dicho Territorio existían por concepto de impuestos y demás aprovechamientos del Erario. En igualdad de circunstancias quedarán las islas y cayos que en lo futuro pertenecerán a Yucatán y Campeche.
+
+Los bienes muebles e inmuebles que estuvieron al servicio de las autoridades civiles, tanto en la parte continental como en las islas anteriormente mencionadas, pasarán a ser respectivas propiedades de las entidades federativas mencionadas.
+
+D.O.F. 13 DE DICIEMBRE DE 1934.
+
+UNICO.- Las presentes reformas constitucionales entrarán en vigor el día primero de diciembre del presente año.
+
+D.O.F. 15 DE DICIEMBRE DE 1934.
+
+DECRETO QUE REFORMA EL ULTIMO PARRAFO DE LA BASE 4ª DE LA FRACCION VI DEL ARTICULO 73, EL ARTICULO 94 Y LAS FRACCIONES II Y III DEL ARTICULO 95.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor el día 15 de diciembre del año en curso.
+
+###### ARTICULO SEGUNDO.
+
+Los ministros de la Suprema Corte de la Nación y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales, actualmente en ejercicio, cesarán en sus encargos el día 31 de diciembre del año en curso.
+
+###### ARTICULO TERCERO.
+
+Los ministros de la Suprema Corte de Justicia y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales que sean designados de acuerdo con la presente reforma, tomarán posesión el día 1º de enero del próximo año de 1935.
+
+###### ARTICULO CUARTO.
+
+La Suprema Corte de Justicia de la Nación designará a los nuevos magistrados de Circuito y jueces de Distrito, dentro de los diez primero días del mes de enero de 1935. Asimismo, el Tribunal Superior de Justicia del Distrito y Territorios Federales designará a los nuevos jueces del fuero común del Distrito y Territorios Federales dentro del mismo plazo.
+
+D.O.F. 15 DE DICIEMBRE DE 1934.
+
+DECRETO QUE REFORMA EL ARTICULO 32.
 
 ###### ARTICULO 1o.
 
@@ -6852,81 +6616,175 @@ Las deudas pendientes hasta la fecha en que entre en vigor esta reforma, y que h
 
 ###### ARTICULO 5o.
 
-La sentencia penal firme, pronunciada en el extranjero o en las distintas entidades de la República, tendrá en el Estado el valor de cosa juzgada para los efectos del Artículo 23 de la Constitución de la República.
+Los Estados de Yucatán y Campeche, una vez que entre en vigor esta reforma constitucional, harán entrega a las autoridades de la nueva entidad de los archivos y expedientes que obren en las Oficinas Administrativas y en los Tribunales del lugar.
+
+D.O.F. 18 DE ENERO DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 6 DE DICIEMBRE DE 1937.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 12 DE AGOSTO DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 31 DE DICIEMBRE DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 11 DE SEPTIEMBRE DE 1940.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 9 DE NOVIEMBRE DE 1940.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 14 DE DICIEMBRE DE 1940.
+
+DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 14 DE DICIEMBRE DE 1940.
+
+DECRETO QUE ADICIONA LA BASE SEGUNDA DE LA FRACCION VI DEL ARTICULO 73.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 24 DE OCTUBRE DE 1942.
+
+UNICO.- La presente Ley entrará en vigor el día 1º del mes siguiente al en que sea publicada en el "Diario Oficial" de la Federación.
+
+D.O.F. 17 DE NOVIEMBRE DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 18 DE NOVIEMBRE DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 30 DE DICIEMBRE DE 1942.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
 
-P.O. 15 DE FEBRERO DE 1997.
+D.O.F. 8 DE ENERO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 10 DE FEBRERO DE 1944.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 21 DE SEPTIEMBRE DE 1944.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día treinta de junio de mil novecientos noventa y nueve, previa su publicación en el Periódico Oficial del Estado.
+Dentro de los treinta días siguientes al en que entre en vigor esta reforma constitucional, el C. Presidente de la República hará, en los términos de la misma reforma, el nombramiento de los Ministros y Magistrados que deberán integrar la Suprema Corte de Justicia y el Tribunal Superior de Justicia del Distrito y Territorios Federales.
 
 ###### ARTICULO SEGUNDO.
 
-A las personas cuyo proceso judicial se encuentre en trámite a la fecha de iniciación de la vigencia de este Decreto, en la sentencia podrán aplicárseles las penas sustitutivas previstas en la presente reforma legislativa, en caso de ser procedente.
+La Suprema Corte y el Tribunal Superior de Justicia del Distrito y Territorios Federales harán, respectivamente, las designaciones de los funcionarios inamovibles a que se refiere esta ley, dentro del término de treinta días, que se contarán a partir de la fecha en que tales cuerpos judiciales queden constituídos con arreglo al artículo anterior.
+
+D.O.F. 21 DE ABRIL DE 1945.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 30 DE DICIEMBRE DE 1946.
+
+DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+Esta Ley entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
 
-P.O. 30 DE ENERO DE 1999.
+D.O.F. 30 DE DICIEMBRE DE 1946.
+
+DECRETO QUE REFORMA EL ARTICULO 3°.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 30 DE DICIEMBRE DE 1946.
+
+DECRETO QUE REFORMA LA FRACCION VIII DEL ARTICULO 73 Y ADICIONA LA FRACCION VIII DEL ARTICULO 117.
+
+UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 12 DE FEBRERO DE 1947.
+
+DECRETO QUE REFORMA LAS FRACCIONES X, XIV Y XV DEL ARTICULO 27.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 12 DE FEBRERO DE 1947.
+
+DECRETO QUE ADICIONA EL PARRAFO PRIMERO DE LA FRACCION I DEL ARTICULO 115.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 29 DE DICIEMBRE DE 1947.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 2 DE DICIEMBRE DE 1948.
+
+DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 20.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 2 DE DICIEMBRE DE 1948.
+
+DECRETO QUE ADICIONA LA FRACCION I DEL ARTICULO 27.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+La presente adición a la fracción I del artículo 27 de la Constitución General de la República entrará en vigor el día siguiente al de su publicación en el "Diario Oficial".
 
-P.O. 5 DE JUNIO DE 1999.
+D.O.F. 10 DE FEBRERO DE 1949.
 
-DECRETO No. 23
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 19 DE FEBRERO DE 1951.
+
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día primero de enero del año dos mil dos, previa su publicación en el Periódico Oficial del Estado.
+Las reformas a los artículos 94, 97, párrafo primero, 98 y 107, entrarán en vigor a los noventa días siguientes al de su publicación en el "Diario Oficial" de la Federación. Sin embargo, dentro de esos noventa días, deberá procederse al nombramiento de los Ministros Supernumerarios, de los nuevos Magistrados de los Tribunales Colegiados de Circuito y de todos los Magistrados de los Tribunales Unitarios de Circuito y de los Jueces de Distrito, con arreglo a las disposiciones que establece la Constitución y estas reformas.
 
 ###### ARTICULO SEGUNDO.
 
-Todos los hechos ocurridos, procesos instruidos y sentencias pronunciadas antes de la entrada en vigor de este Decreto, se regirán por la ley más favorable al reo.
+Cuando estas designaciones recaigan en Magistrados o Jueces del Poder Judicial de la Federación, que lleven actualmente más de cuatro años ininterrumpidos en el desempeño de su encargo, ya sea que se les reelija o que sean promovidos a cargos superiores, sólo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, ó previo el juicio de responsabilidad correspondiente.
 
 ###### ARTICULO TERCERO.
 
-Las personas que hubieren sido condenadas por sentencia ejecutoriada antes de la iniciación de vigencia de este Decreto y se encuentren en los supuestos de esta reforma legislativa, podrán promover la aplicación de penas sustitutivas mediante el incidente respectivo, en los términos del Código de Procedimientos Penales para el Estado.
+Los magistrados de Circuito y los Jueces de Distrito, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
 
-P.O. 5 DE JUNIO DE 1999.
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
 
-DECRETO No. 28
+###### ARTICULO CUARTO.
 
-###### ARTÍCULO CUARTO.
+Los Ministros Supernumerarios a que se refiere el artículo 94, constituídos temporalmente en la Sala Auxiliar resolverán, en el plazo que les fije el Pleno de la Suprema Corte de Justicia, el acervo de amparos civiles directos, cualesquiera que sean las violaciones alegadas, excepción hecha de los promovidos dentro de los tres meses anteriores a la fecha en que entren en vigor las presentes reformas o de los en que ya exista proyecto de resolución del Ministro relator correspondiente. Entretanto, aquellos Ministros no desempeñarán las funciones que como Supernumerarios les atribuyen estas reformas y las que les encomienden la Ley de Amparo o la Ley Orgánica del Poder Judicial de la Federación, y, no obstante lo dispuesto en el artículo 94 deberán integrar el Pleno en el caso del párrafo final de la fracción XIII del artículo 107 sólo cuando la contradicción haya surgido entre tesis sustentadas por la Sala Auxiliar y por alguna de las otras cuatro.
 
-Al entrar en vigor este ordenamiento, se decretará el sobreseimiento de los procedimientos penales relacionados con los hechos que sean competencia de los jueces de paz conforme a la misma, sin perjuicio del derecho de las víctimas u ofendidos por esos hechos de presentar su demanda ante el Juez de Paz competente. Tanto el ministerio público, como la autoridad judicial que vinieran conociendo de esos expedientes brindarán orientación a las víctimas u ofendidos sobre el contenido y alcances de la Ley de Justicia de Paz para el Estado y la forma de presentar el asunto al juez de paz competente.
+Los amparos en revisión, penales, civiles, administrativos o del trabajo, que actualmente radican en la Suprema Corte de Justicia y que conforme a estas reformas sean de la competencia de los Tribunales Colegiados de Circuito, pasarán al conocimiento del Tribunal Colegiado de Circuito que corresponda.
 
-P.O. 22 DE AGOSTO DE 2007.
+###### ARTICULO QUINTO.
 
-DECRETO No. LIX-964
+Las Salas correspondientes de la Suprema Corte de Justicia resolverán los amparos directos, penales o del trabajo, por violaciones cometidas durante la secuela del procedimiento, que se hayan promovido con anterioridad a la fecha en que entren en vigor las presentes reformas y que, en lo sucesivo, de acuerdo con la fracción VI del artículo 107, serán de la competencia de los Tribunales Colegiados de Circuito.
 
-###### ARTICULO QUINTO
+###### ARTICULO SEXTO.
 
-- Para los efectos del transitorio anterior, tratándose de procesos en los que no se hubiere emitido sentencia y de señalar este Código una sanción menor, se aplicará el presente ordenamiento. En caso de haberse dictado ya sentencia firme, si el presente Código deja subsistente la pena señalada al delito, pero disminuye su duración, a petición del reo, se reducirá la sanción impuesta, en la misma proporción en que esté el mínimo de la señalada en el Código que se abroga y la que prevea este ordenamiento, debiendo observarse para ello las reglas correspondientes del procedimiento.
+Queda facultada la Suprema Corte de Justicia de la Nación, para dictar todas las otras medidas transitorias que sean necesarias, para la efectividad e inmediato cumplimiento de las presentes reformas.
 
-###### ARTICULO SEXTO
+###### ARTICULO SEPTIMO.
 
-- Los procesos que se estén instruyendo por hechos que este Código no tipifique como delito, se sobreseerán, ordenándose la inmediata libertad del acusado; también se decretará dicha libertad a quienes hubieran sido sentenciados, bajo las condiciones anteriores.
+La reforma al artículo 73, fracción VI, Base Cuarta, párrafo último, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
 
-###### ARTICULO SEPTIMO
-
-- Las disposiciones de carácter penal que se encuentren previstas en leyes especiales y que no queden comprendidas en lo dispuesto por el presente Código, continúan vigentes en todos sus términos.
-
-"SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tamaulipas a 24 de Octubre de 1986.- Diputado Presidente, Dr. Carlos Romo Juárez.- Diputado Secretario, Profr. y Lic. Rigoberto García García.- Diputado Secretario, J. Guadalupe Puga García.- Rúbricas".
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-"Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los once días del mes de Noviembre de mil novecientos ochenta y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Dr. EMILIO MARTINEZ MANAUTOU.- EL SECRETARIO GENERAL DE GOBIERNO.- Lic. ROBERTO PERALES MELENDEZ.- Rúbricas".
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
-
-P.O. 22 DE JUNIO DE 1988.
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
 
 ###### ARTICULO OCTAVO.
 
@@ -6940,29 +6798,39 @@ D.O.F. 28 DE MARZO DE 1951.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+La adición al artículo 131 de la Constitución General de la República, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
 
-P.O. 7 DE JUNIO DE 2001.
+D.O.F. 11 DE JUNIO DE 1951.
+
+La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
+
+D.O.F. 16 DE ENERO DE 1952.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El Estado de Baja California tiene la extensión y límites que tenía el Territorio de Baja California Norte, y
 
 ###### ARTICULO SEGUNDO.
 
-Los procesados y sentenciados, que al momento de la comisión del delito hubiesen tenido menos de dieciocho años de edad, serán turnados a las autoridades competentes que establezcan las leyes del Sistema Integral de Justicia para Adolescentes, a fin de continuar con el proceso o ajustar la pena o medida de seguridad impuesta, según corresponda, de conformidad con lo que dispongan la ley especial reglamentaria de los párrafos cuarto, quinto y sexto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y los dispositivos correspondientes de la Constitución Política del Estado.
+La presente reforma entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
-Para determinas las medidas de tratamiento contenidas en la ley estatal de justicia juvenil, en su caso, se deberá computar el tiempo que estuvo privado de la libertad.
+D.O.F. 17 DE OCTUBRE DE 1953.
 
-P.O. 8 DE MARZO DE 2007.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-###### ARTÍCULO PRIMERO.
+D.O.F. 20 DE ENERO DE 1960.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+UNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
-###### ARTÍCULO SEGUNDO.
+D.O.F. 5 DE DICIEMBRE DE 1960.
 
-El Poder Judicial del Estado establecerá los juzgados de paz conforme a las disponibilidades de su presupuesto de egresos. En tanto se nombran y entran en funciones los jueces de paz, sus funciones serán desempeñadas por los jueces menores.
+###### ARTICULO PRIMERO.
+
+Esta reforma entrará en vigor al día siguiente de la publicación de esta ley en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Entretanto se expida la respectiva ley reglamentaria, continuará en vigor el Estatuto de los Trabajadores al Servicio de los Poderes de la Unión en cuanto no se oponga a la presente.
 
 ###### ARTICULO UNICO.
 
@@ -6981,12 +6849,6 @@ Si la sanción fuese modificada durante la realización del delito, se aplicará
 ###### ARTICULO 8o.
 
 Si la sanción fuere modificada durante el lapso comprendido de la realización del delito a la sentencia que debiera pronunciarse, se aplicará la más favorable al reo.
-
-###### ARTICULO 9o.
-
-Si pronunciada la sentencia firme, se dictare una ley que, dejando subsistente el delito, disminuya la sanción, se reducirá ésta en la misma proporción en que estén el mínimo de la señalada en la ley anterior y el de la fijada en la posterior.
-
-En el caso de que cambiare la naturaleza de la sanción, si el condenado lo solicita se substituirá la señalada en la ley anterior, por la fijada en la posterior.
 
 ###### ARTICULO PRIMERO.
 
@@ -7185,96 +7047,6 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE JULIO DE 2009.
 
 DECRETO No. LX-693, POR EL QUE SE REFORMA EL INCISO B) DEL ARTICULO 66 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 7 DE ENERO DE 2010.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 4 DE MAYO DE 2010.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 19 DE OCTUBRE DE 2010.
-
-DECRETO NUMERO LX-1134, POR EL QUE SE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 171 BIS DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 19 DE OCTUBRE DE 2010.
-
-DECRETO NUMERO LX-1135, POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 274, RECORRIENDOSE LOS ACTUALES PARA SER TERCERO, CUARTO Y QUINTO Y SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 275, DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 19 DE OCTUBRE DE 2010.
-
-DECRETO NUMERO LX-1136, POR EL QUE SE ADICIONA EL CAPITULO IV AL TITULO DUODECIMO DENOMINADO HOSTIGAMIENTO Y ACOSO SEXUAL, COMPRENDIDO POR LOS ARTICULO 276 BIS, 276 TER, 276 QUATER, 276 QUINQUIES, 276 SEXIES, RECORRIENDOSE EL ACTUAL CAPITULO IV PARA SER CAPITULO V, DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE NOVIEMBRE DE 2010.
-
-DECRETO NUMERO LX-1482, POR EL QUE SE ADICIONA LA FRACCION XVIII AL ARTICULO 418 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE NOVIEMBRE DE 2010.
-
-DECRETO NUMERO LX-1484, POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV, Y ADICIONA UNA V AL ARTICULO 400 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
-
-###### ARTICULO UNICO
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 2 DE DICIEMBRE DE 2010.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 16 DE DICIEMBRE DE 2010.
-
-DECRETO NUMERO LX-1137, POR EL QUE SE ADICIONAN LOS ARTICULOS 371 BIS Y 371 TER, AL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 16 DE DICIEMBRE DE 2010.
-
-DECRETO NUMERO LX-1138, POR EL QUE SE DEROGAN LOS ARTICULOS 338 Y 339, DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 16 DE DICIEMBRE DE 2010.
-
-DECRETO NUMERO LX-1562, POR EL QUE SE REFORMA EL ARTICULO 258 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 16 DE DICIEMBRE DE 2010.
-
-DECRETO NUMERO LX-1563, POR EL QUE SE ADICIONAN AL LIBRO SEGUNDO, TITULO SEXTO, LOS ARTICULOS 204 BIS; 204 TER; 204 QUATER; 204 QUINTUS Y 204 SEXTUS Y EL CAPITULO TERCERO DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 038. SE REFORMAN LOS ARTÍCULOS 126, PRIMER PÁRRAFO, Y 137, Y SE ADICIONA LOS ARTÍCULOS 27, CON UN TERCER PÁRRAFO, 48, CON UNA FRACCIÓN VII, 48 BIS, CON LAS FRACCIONES V Y VI Y 104, CON LA FRACCIÓN II; TODOS DEL CÓDIGO FISCAL DEL ESTADO”.]
 
