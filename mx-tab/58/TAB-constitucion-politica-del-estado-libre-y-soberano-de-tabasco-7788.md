@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1997-03-19"
+last_updated: "1997-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,37 +21,21 @@ state: "TAB"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-DECLARATORIA CONJUNTA PARA LA OPERACIÓN DE LA INTERCONEXIÓN ENTRE LOS SISTEMAS TECNOLÓGICOS DEL CONSEJO DE LA JUDICATURA FEDERAL Y DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PARA LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO DERIVADA DEL CONVENIO SUSCRITO EL UNO DE JUNIO DE DOS MIL DIECISIETE
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1997.
 
-Declaratoria publicada en el Diario Oficial de la Federación, el miércoles 24 de noviembre de 2021.
+Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+General Brigadier CARLOS GREENE, Gobernador Constitucional del Estado Libre y Soberano de Tabasco a sus habitantes hago saber:
 
-DECLARATORIA CONJUNTA PARA LA OPERACIÓN DE LA INTERCONEXIÓN ENTRE LOS SISTEMAS TECNOLÓGICOS DEL CONSEJO DE LA JUDICATURA FEDERAL Y DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PARA LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO DERIVADA DEL CONVENIO SUSCRITO EL UNO DE JUNIO DE DOS MIL DIECISIETE.
+LA H. XXVI LEGISLATURA DEL ESTADO DE TABASCO, erigida en Congreso Constituyente el día 10 de marzo último en la ciudad de Villahermosa, de conformidad con el artículo 64 de la Ley Orgánica Electoral de 23 de diciembre de 1918, expide la siguiente
 
-El Pleno del Consejo de la Judicatura Federal, con fundamento en los artículos 94, párrafo segundo; 100, párrafos primero y noveno, de la Constitución Política de los Estados Unidos Mexicanos; 73 y 86, fracciones II, XVII y XXXV, de la Ley Orgánica del Poder Judicial de la Federación, 1, 2, fracción VII, 12, 15 y 16 del Acuerdo General Conjunto 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico, 1 y 2 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los servicios de interconexión tecnológica entre los órganos jurisdiccionales con diversas instituciones públicas, así como 3, fracción IV, 20, 71, 72, 75 y 76 del Acuerdo General Conjunto 12/2020, del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo, y el Poder Judicial del Estado de San Luis Potosí, con fundamento en el artículo 116 párrafo segundo, fracción III de la Constitución Política de los Estados Unidos Mexicanos; artículos 3 y 90 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; artículo 1, 4, 17 y 96 de la Ley Orgánica del Poder Judicial del Estado de San Luis Potosí, y 39 del Reglamento Interior del Poder Judicial del Estado de San Luis Potosí, las intervinientes tienen a bien emitir las siguientes:
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-CONSIDERACIONES
+Constitución Política del Estado Libre y Soberano de Tabasco
 
-La Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el dos de abril de dos mil trece, establece en los artículos 3, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 70, 80, 88, 89, 90, 100, 101, 108, 110, 116, 123 y 177, el uso de las tecnologías de la información en el trámite del juicio constitucional, específicamente un sistema electrónico del Poder Judicial de la Federación a través del cual y con el uso de la firma electrónica, las partes tienen la opción de enviar y recibir promociones, documentos, comunicaciones y notificaciones oficiales, así como consultar acuerdos, resoluciones y sentencias, promover demandas, recursos y cualquier otro escrito u oficio que envíen las partes en un juicio de amparo o diverso juicio competencia de órganos jurisdiccionales del Poder Judicial de la Federación.
-
-Derivado de lo anterior, el ocho de julio de dos mil trece, se publicó en el Diario Oficial de la Federación el Acuerdo General Conjunto número 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico, mismo que establece en sus artículos 1, 2 fracción VII, 12, 15 y 16, las bases para la integración, consulta y almacenamiento del expediente electrónico en los órganos administrativos y jurisdiccionales del Poder Judicial de la Federación, a efecto de que, el sistema de integración de dichos expedientes electrónicos, permita a los servidores públicos encargados, la mayor diligencia y cuidado respecto de los datos personales de las partes en materia de información pública, y se generen los medios para su acceso y visualización.
-
-En los artículos 3, fracción IV, 20, 71, 72, 75 y 76 del Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo, se facultó al Consejo de la Judicatura Federal para celebrar convenios de interconexión tecnológica con otras instituciones públicas que figuren como partes en los juicios de amparo y que cuenten con sistemas tecnológicos de gestión, entre ellos los Tribunales Judiciales de los Estados a fin de que reciban electrónicamente demandas de amparo, rindan sus informes a través de esa vía y puedan consultar expedientes electrónicos o carpetas digitales, incluso se prevé como opción que el Consejo de la Judicatura Federal pueda compartir con estos los desarrollos tecnológicos con los que cuenta y, mediante declaratoria publicada en el Diario Oficial de la Federación, se haga del conocimiento de las y los justiciables que pueden presentar promociones y recursos por vía electrónica en los órganos jurisdiccionales con los que se hayan celebrado los convenios.
-
-El pasado uno de junio de dos mil diecisiete, el Consejo de la Judicatura Federal y el Poder Judicial del Estado de San Luis Potosí, tuvieron a bien suscribir el convenio de interconexión entre los sistemas tecnológicos de gestión jurisdiccional, el cual, en su cláusula Décimo Segunda prevé la publicación de la presente declaratoria en el Diario Oficial de la Federación y en el Periódico Oficial del Estado de San Luis Potosí, a fin de que opere plenamente la tramitación electrónica del juicio de Amparo entre los Juzgados de Distrito y Tribunales de Circuito que administra el Consejo de la Judicatura Federal y los órganos jurisdiccionales del Poder Judicial del Estado de San Luis Potosí; el cual, en una primera etapa, permitirá el trámite electrónico del juicio de amparo indirecto que se promueva en contra de las salas del Supremo Tribunal de Justicia y en una posterior etapa, ante los órganos jurisdiccionales de Primera Instancia del Poder Judicial del Estado, que tengan su sede en la ciudad de San Luis Potosí, San Luis Potosí, y más adelante, los órganos jurisdiccionales de los demás distritos judiciales que cuenten con el equipamiento tecnológico y la conectividad necesaria, así como el uso de firmas electrónicas, objeto de la presente declaratoria.
-
-Por lo expuesto y fundado, el Consejo de la Judicatura Federal y el Poder Judicial del Estado de San Luis Potosí, tienen a bien declarar lo siguiente:
-
-A partir del uno de diciembre dos mil veintiuno, inicia el trámite electrónico de interconexión tecnológica del juicio de amparo indirecto entre los Juzgados de Distrito y Tribunales de Circuito del Poder Judicial de la Federación y las Salas del Supremo Tribunal de Justicia del Poder Judicial del Estado de San Luis Potosí, en el que se hará uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), la Firma Electrónica Avanzada (e.firma) o de otros certificados digitales que sean reconocidos por ambas instituciones declarantes. La interconexión con los demás órganos jurisdiccionales del Poder Judicial del Estado de San Luis Potosí se realizará gradualmente y mediante un adenda a la presente declaratoria.
-
-Los servicios de interconexión tecnológica de las Salas del Supremo Tribunal de Justicia y los órganos jurisdiccionales del Poder Judicial del Estado de San Luis Potosí, funcionarán en días hábiles, de lunes a jueves de las ocho horas a las catorce horas con treinta minutos y de las ocho horas a las catorce horas los días viernes.
-
-En consecuencia, todos los escritos, oficios y determinaciones para trámite de los juicios de amparo indirecto del Poder Judicial de la Federación que sean recibidos a través de la interconexión tecnológica, serán atendidos en el horario antes señalado, por lo cual los plazos, surtirán efectos a partir de la primera hora hábil siguiente.
-
-Para el caso de días inhábiles o festivos, no se recibirán comunicaciones oficiales de los Juzgados de Distrito y Tribunales de Circuito del Poder Judicial de la Federación, con excepción de las Salas en materia penal y en su oportunidad los juzgados de primera instancia que conozcan de la materia penal y los especializados en justicia para adolescentes del Poder Judicial del Estado de San Luis Potosí, los cuales conocerán los trescientos sesenta y cinco días del año, y serán atendidos en el día hábil siguiente, a aquel en que se tengan por legalmente recibidas las comunicaciones de término o vencimiento.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ## TITULO I. DEL ESTADO Y SUS HABITANTES
 
@@ -565,9 +549,9 @@ XVII.- Conceder amnistías por delitos de la competencia de los Tribunales de la
 
 XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1997)</small>
 
-XIX.- Otorgar o negar su aprobación a los nombramientos de Magistrado del Tribunal Superior de Justicia, propuestos por el Gobernador del Estado; así como remitir a éste la terna para designar Procurador General de Justicia del Estado;
+XIX.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, y del Presidente de la Comisión Estatal de Derechos Humanos, propuestos por el Gobernador del Estado; así como remitir a éste la terna para designar Procurador General de Justicia del Estado;
 
 XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
 
@@ -601,7 +585,9 @@ XXVIII.- Expedir la Ley Orgánica Municipal y las bases de policía y Buen Gobie
 
 XXIX.- Autorizar la enajenación o gravamen de bienes de los Municipios y del Estado;
 
-XXX.- Recibir la protesta constitucional a los Diputados, al Gobernador y a los Magistrados del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1997)</small>
+
+XXX.- Recibir la protesta Constitucional a los Diputados, al Gobernador, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal de lo Contencioso Administrativo y al Presidente de la Comisión Estatal de Derechos Humanos;
 
 XXXI.- Crear y suprimir empleos públicos del Estado según los requerimientos del servicio público y señalar, aumentar o disminuir las respectivas partidas presupuestarias atendiendo a las circunstancias del Erario;
 
@@ -793,7 +779,7 @@ El cargo de Gobernador Constitucional del Estado solo es renunciable por causa g
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 51.
 
@@ -885,6 +871,8 @@ Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despac
 
 Los titulares de las Dependencias son responsables por el despacho de los asuntos de su competencia que autoricen actos contrarios a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, leyes federales o de esta Constitución.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ## TITULO V. PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
@@ -903,13 +891,17 @@ Los titulares de las Dependencias son responsables por el despacho de los asunto
 
 ###### ARTICULO 55.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia y en Juzgados Menores, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
+Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia, en el Consejo de la Judicatura, en Juzgados de Primera Instancia, en Juzgados de Paz y Arbitros, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1997)</small>
 
-El Tribunal Superior de Justicia del Estado, se integra por 10 Magistrados Numerarios y los Supernumerarios que se requieren, y funcionará en Pleno y en Salas.
+El Tribunal Superior de Justicia del Estado, se integrará de 15 Magistrados Numerarios y los Supernumerarios e Interinos que se requieran, y funcionarán en Pleno y en Salas.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
 
 En los términos que la Ley disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos que así lo exijan la moral o el interés público. Sus resoluciones se tomarán por mayoría de votos.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
 
 Los Magistrados Numerarios serán nombrados en los términos del Artículo 56 de la Constitución Política Local y los Supernumerarios por el Pleno del propio Tribunal.
 
@@ -1341,7 +1333,9 @@ El manejo de Recursos Económicos del Estado, de los Municipios y de sus respect
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
 
-Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del título séptimo de esta Constitución.(REFORMADO, P.O. 9 DE ABRIL DE 1983)
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del título séptimo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 77.
 
@@ -1399,13 +1393,7 @@ La presente Constitución puede ser adicionada o reformada. Para que las adicion
 
 Esta Constitución no perderá su vigencia, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados quienes hayan figurado en el Gobierno emanado de la rebelión, así como los que hubieren contribuido a ésta.
 
-## TRANSITORIOS
-
-PRIMERO. La presente declaratoria entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
-
-EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que esta Declaratoria conjunta para la operación de la interconexión entre los sistemas tecnológicos del Consejo de la Judicatura Federal y del Poder Judicial del Estado de San Luis Potosí, para la tramitación electrónica del juicio de amparo derivada del convenio suscrito el uno de junio de dos mil diecisiete, fue aprobada por el Pleno del Consejo de la Judicatura Federal, en sesión ordinaria de 10 de noviembre de 2021, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 17 de noviembre de 2021.- Conste.- Rúbrica.
+## TRANSITORIOS.
 
 ###### Art. 1°.
 
@@ -1850,3 +1838,15 @@ CUARTO.- En cumplimiento a lo dispuesto en el artículo 12, para las elecciones 
 QUINTO.- El Congreso del Estado, designará, a más tardar en la segunda semana del mes de marzo de 1997, a propuesta de los grupos parlamentarios, al Consejero Presidente y a los Consejeros Electorales del Instituto Electoral de Tabasco, hecho lo cual quedarán sin efecto los nombramientos de los actuales Consejeros Ciudadanos del Instituto Estatal Electoral.
 
 SEXTO.- El Congreso del Estado, designará, a más tardar la última semana de marzo de 1997, conforme al procedimiento que disponga la ley, a los Magistrados del Tribunal Electoral de Tabasco, para este efecto, previamente el Pleno del Tribunal Superior de Justicia deberá sesionar para elaborar la lista señalada en el artículo 63 bis hecho lo cual quedarán sin efecto los actuales nombramientos de los Magistrados del Tribunal Estatal Electoral.
+
+P.O. 19 DE MARZO DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrarán en vigor a partir del momento de su aprobación.
+
+P.O. 26 DE ABRIL DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrarán en vigor a partir de su aprobación.
