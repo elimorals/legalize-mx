@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-seguro-de-vida-para-los-servidores-del-gobierno-del-119
 country: "mx"
 rank: "ley"
 publication_date: "1952-03-14"
-last_updated: "1973-12-18"
+last_updated: "1974-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1974.
 
 Ley publicada en el periódico oficial del Estado de Puebla, el viernes 14 de marzo de 1952.
 
@@ -125,15 +125,15 @@ Para el eficaz funcionamiento del Seguro, la Tesorería General del Estado está
 
 Los gastos de administración, escritorio, y publicidad, serán cubiertos por el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1974)</small>
 
 ###### ARTICULO 20.
 
-Cuando el asegurado sufra incapacidad total o permanente, o sea la pérdida absoluta de facultades o de aptitudes que le imposibiliten para poder desempeñar cualquier trabajo por el resto de su vida, se le entregará al propio asegurado, la cantidad de $ 50,000.00 que se aportará en los términos que prescribe el Artículo 8° de esta Ley.
+Cuando el asegurado sufra incapacidad total o permanente, o sea la pérdida absoluta de facultades o de aptitudes que lo imposibiliten para poder desempeñar cualquier trabajo por el resto de su vida, se le entregará al propio asegurado, la cantidad de $ 50,000.00 que se aportará en los términos que prescribe el Artículo 8° de esta Ley.
 
-A efecto de que la Junta Administrativa esté en condición de acordar el pago de una póliza por incapacidad, es necesario que el derechohabiente obtenga dictamen de dos médicos designados por la Junta, y en el caso de que éstos no concuerden, se recabará la opinión de un tercero nombrado por la misma.
+A efecto de que la Junta Administrativa esté en condición de acordar el pago de una póliza por incapacidad, es necesario que el derechohabiente obtenga dictamen de dos médicos designados por la Junta, en el caso de que éstos no concuerden, se recabará la opinión de un tercero nombrado por la misma.
 
-La Incapacidad exime al asegurado del pago de la cuota a que se refiere el Artículo 3°, subsistiendo el beneficio del Seguro de Vida a su deseso.
+> <small>(F. DE E. 16 DE AGOSTO DE 1974)</small>
 
 La presente disposición no es aplicable a los pensionistas y socios voluntarios.
 
@@ -230,3 +230,7 @@ EL DECRETO DE REORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORI
 P.O. 18 DE DICIEMBRE DE 1973.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ABRIL DE 1974.
+
+Unico.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
