@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1994-09-02"
+last_updated: "1995-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1995.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -605,7 +605,7 @@ II.- El nombre, apellido y domicilio del citado si se supiere, o en caso contrar
 
 III.- El día, hora y lugar en que deba comparecer;
 
-IV.- Los datos de identificación del asunto que motiva la citación y el objeto preciso de ella;
+IV.- Los datos de identificación del asunto que motiva la citación y el objeto preciso de élla;
 
 V.- El medio de apremio que se empleará si no compareciere; y
 
@@ -763,7 +763,7 @@ En los casos en que el funcionario que presida se ausentare del local, la polic�
 
 Nulidad de actuaciones.- Las actuaciones serán nulas:
 
-I.- Cuando carezcan de alguna de las formalidades esenciales que prevenga la ley, si ello causa perjuicio a cualquiera de las partes; o
+I.- Cuando carezcan de alguna de las formalidades esenciales que prevenga la ley, si éllo causa perjuicio a cualquiera de las partes; o
 
 II.- Cuando la ley expresamente determine la nulidad.
 
@@ -967,13 +967,13 @@ III.- Que no se trate de alguno de los delitos calificados como graves por el ar
 
 Cuando se solicite la libertad caucional, el juzgador o el ministerio público en su caso, deberá resolver de plano lo conducente. Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervinientes.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1995)</small>
 
-###### Artículo 123.
+###### ARTICULO 123.
 
-Delitos graves.- Para todos los efectos legales, se clasifican como delitos graves los previstos en los siguientes artículos del Código Penal:
+Delitos graves.- Para todos los efectos legales, se clasifican como delitos graves los previstos en los siguientes Artículos del Código Penal:
 
-Homicidio por culpa, previsto en el artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el artículo 123, en su forma simple contemplado en el artículo 124; en su forma atenuada a que se refiere el artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; infanticidio descrito en el artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del artículo 131; secuestro previsto en los artículos 164 y 165; asalto agravado tipificado en el artículo 173; violación contemplada en el artículo 176, violación equiparada en el 177, violación impropia en el 178, así como las formas agravadas, a que se refiere el artículo 179; robo calificado en las hipótesis previstas por los artículos 203 y 208 fracciones I, II; abigeato descrito en el artículo 209, pero sólo cuando se trate de ganado vacuno; despojo agravado a que se refiere el tercer párrafo de la fracción III del artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del artículo 229; tráfico de menores descrito por el artículo 238 primero y segundo párrafos; corrupción de menores e incapaces tipificado en el artículo 261 párrafo segundo; lenocinio agravado del artículo 267; terrorismo descrito en el artículo 279 excepto su encubrimiento; tortura previsto en el artículo 307-bis primer párrafo y 307-ter segundo párrafo; evasión de presos, en la forma agravada del artículo 328.
+Homicidio por culpa, previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el Artículo 123, en su forma simple contemplado en el Artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en el Artículo 126 en relación con el 147, y sus formas agravadas previstas en los Artículos 127 y 128; infanticidio descrito en el Artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del Artículo 131; secuestro previsto en los Artículos 164 y 165; asalto agravado tipificado en el Artículo 173; violación contemplada en el Artículo 176, violación equiparada en el 177, violación impropia en el 178, así como las formas agravadas a que se refiere el Artículo 179; robo calificado en las hipótesis previstas por los Artículo (sic) 203 y 208 fracciones I, II y VIII; abigeato descrito en el Artículo 209, pero sólo cuando se trate de ganado vacuno; despojo agravado a que se refiere el tercer párrafo de la fracción III del Artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del Artículo 229; tráfico de menores descrito por el Artículo 238 primero y segundo párrafos; corrupción de menores e incapaces tipificado en el Artículo 261 párrafo segundo; lenocinio agravado del Artículo 267; terrorismo descrito en el artículo 279 excepto su encubrimiento; tortura previsto en el Artículo 279 excepto su encubrimiento; tortura previsto en el artículo 307-bis primer párrafo y 307-ter segundo párrafo; evasión de presos, en la forma agravada del Artículo 328.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1179,6 +1179,10 @@ VI.- Causare ejecutoria la sentencia que lo condene.
 
 Arraigo del indiciado.- Cuando de una averiguación previa no este concluida y existan datos de que el Ministerio Público solicitará al juzgador que decrete el arraigo, fundando y motivando su petición. si el juzgador considera suficientes para asegurar al indiciado, decretará el arraigo con vigilancia del Ministerio Público y mandará notificar en forma personal al arraigado, que no puede ausentarse de la ciudad sin autorización judicial, y que debe comparecer ante el Ministerio Público cuando se le requiera, apercibiéndole de que la violación de la medida será sancionada administrativamente con cincuenta a trescientos días multa.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1995)</small>
+
+Cuando se sorprenda a una persona con los instrumentos u objetos del delito, y no pueda detenerse con base en la flagrancia o la urgencia administrativa, la autoridad informará inmediatamente al Ministerio Público y éste ordenará, siempre que exista denuncia o querella y el instrumento u objeto se haya identificado plenamente, el arraigo provisional del indiciado, solicitando en las próximas veinticuatro horas la ratificación judicial o el levantamiento de la medida, según proceda.
+
 El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, prorrogables por un término igual a petición de la autoridad investigadora. El juzgador resolverá, escuchando a ésta y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
 
 ###### Artículo 141.
@@ -1227,7 +1231,7 @@ Se formará un inventario de los objetos que se recojan.
 
 ###### Artículo 148.
 
-Presencia del inculpado.- Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para que los reconozca y les ponga su firma o rúbrica, si fueren susceptible de ello; y si no supiere firmar, sus huellas digitales. En caso contrario, dicho (sic) objetos se unirán con una tira de papel que se sellará en la juntura de los extremos y se invitará al inculpado a que firme o ponga sus huellas digitales. En ambos casos se hará constar esta circunstancia, así como si no pudiera firmar o poner sus huellas digitales, o se negare a ello.
+Presencia del inculpado.- Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para que los reconozca y les ponga su firma o rúbrica, si fueren susceptible de ello; y si no supiere firmar, sus huellas digitales. En caso contrario, dicho (sic) objetos se unirán con una tira de papel que se sellará en la juntura de los extremos y se invitará al inculpado a que firme o ponga sus huellas digitales. En ambos casos se hará constar esta circunstancia, así como si no pudiera firmar o poner sus huellas digitales, o se negare a éllo.
 
 ###### Artículo 149.
 
@@ -1501,7 +1505,7 @@ A los menores de dieciocho años solo se les exhortará para que se conduzcan co
 
 ###### Artículo 191.
 
-Datos generales del testigo.- Después de protestarlo o exhortarlo, se preguntará al testigo su nombre, apellido, edad, lugar de origen, domicilio, estado civil, profesión u ocupación; si se halla ligado con el inculpado o el ofendido por vínculos de parentesco, amistad o cualesquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos.
+Datos generales del testigo.- Después de protestarlo o exhortarlo, se preguntará al testigo su nombre, apellido, edad, lugar de origen, domicilio, estado civil, profesión u ocupación; si se halla ligado con el inculpado o el ofendido por vínculos de parentesco, amistad o cualesquiera otros y si tiene algún motivo de odio o rencor contra alguno de éllos.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1809,7 +1813,7 @@ Ausencia de cadáver con testigos.- Cuando el cadáver no pueda ser encontrado s
 
 ###### Artículo 238.
 
-Ausencia de cadáver sin testigos.- Cuando no se encuentren testigos que hubieren visto el cadáver, pero si datos suficientes para suponer la comisión de homicidio, se comprobará la preexistencia de la persona, sus costumbres, su carácter, si padeció alguna enfermedad, lugar y fecha en que se le vio y la posibilidad de que el cadáver hubiere podido ser ocultado o destruido, expresando los testigos los motivos que tengan para suponer la comisión de un delito.
+Ausencia de cadáver sin testigos.- Cuando no se encuentren testigos que hubieren visto el cadáver, pero si datos suficientes para suponer la comisión de homicidio, se comprobará la preexistencia de la persona, sus costumbres, su carácter, si padeció alguna enfermedad, lugar y fecha en que se le vió y la posibilidad de que el cadáver hubiere podido ser ocultado o destruido, expresando los testigos los motivos que tengan para suponer la comisión de un delito.
 
 ###### Artículo 239.
 
@@ -3164,3 +3168,9 @@ P.O. 2 DE SEPTIEMBRE DE 1994.
 PRIMERO.- Las presentes Reformas y Adiciones al Código Penal y de Procedimientos Penales entrarán en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
+
+P.O. 16 DE JUNIO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado de Baja California.
