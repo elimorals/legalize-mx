@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1955-01-01"
+last_updated: "1966-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1° DE ENERO DE 1955.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 1966.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -547,9 +547,11 @@ VII.- (DEROGADA, G.G. 1 DE ENERO DE 1955)
 
 VIII.- (DEROGADA, G.G. 1 DE ENERO DE 1955)
 
-> <small>(REFORMADA, G.G. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1966)</small>
 
-IX.- Convocar a Elección de Gobernador y Diputados en los períodos Constitucionales o cuando por cualquiera causa hubiere falta absoluta de estos funcionarios, cuando menos cien días antes de la fecha de la elección.
+IX.- Convocar a elección de Gobernador, Diputados y miembros de los Ayuntamientos y Jueces Menores Municipales, en los períodos constitucionales o cuando por cualquiera causa hubiere falta absoluta de estos funcionarios.
+
+Para el caso de elecciones de Gobernador y Diputados la convocatoria deberá expedirse por lo menos cien días antes de la fecha de la elección y para la de miembros de los Ayuntamientos y Jueces Menores Municipales, sesenta días antes.
 
 X. Hacer la computación de votos en la elección de Gobernador y declarar electo al ciudadano que hubiere obtenido la mayoría;
 
@@ -849,9 +851,11 @@ XIII.- Rectificar en todo tiempo, los valores con que aparezcan registradas las 
 
 XIV.- Otorgar el fiat para el ejercicio de la función notarial.
 
+> <small>(REFORMADO PRIMER PARRAFO, 27 DE AGOSTO DE 1966)</small>
+
 ###### Art. 89.
 
-Son obligaciones del Gobernador.
+Son obligaciones de Gobernador:
 
 I. Cuidar del puntual cumplimiento de la Constitución General de la República y de las leyes y acuerdos de la Federación, expidiendo al efecto las órdenes correspondientes;
 
@@ -939,9 +943,9 @@ XXVIII.- Aceptar las renuncias de los Magistrados del Tribunal Superior de Justi
 
 XXIX.- Sujetar a la aprobación de la Legislatura la Ley Orgánica del Poder Ejecutivo.
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1966)</small>
 
-XXX.- Proponer a la Legislatura del Estado y en sus recesos a la Diputación Permanente la designación de Ayuntamientos substitutos, provisionales y de los miembros de los Cuerpos Edilicios en los casos previstos por las leyes Orgánicas respectivas.
+XXX.- Proponer a la Legislatura del Estado y en sus recesos a la Diputación Permanente, la designación de Ayuntamientos Substitutos, provisionales, de los miembros de los Cuerpos Edilicios y de Jueces Menores Municipales, en los casos previstos por esta Constitución y en las Leyes Orgánicas respectivas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1279,13 +1283,13 @@ Los Ayuntamientos se compondrán de: Un Jefe de la Asamblea, que se denominará 
 
 Cuando el número de miembros de un Ayuntamiento sea menor de nueve, formará parte de él un síndico Procurador; y cuando conste de nueve o más, serán dos los Síndicos que se elijan.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1966)</small>
 
 ###### Art. 138.
 
-Los Miembros de un Ayuntamiento serán designados en una sola elección distinguiéndose los Regidores lo mismo que los Síndicos cuando estos sean dos por el orden numérico en que fueren electos.
+Los miembros de un Ayuntamiento serán designados en una sola elección, distinguiéndose los Regidores lo mismo que los Síndicos cuando éstos sean dos, por el orden numérico en que fueron electos.
 
-Para conocer y resolver en última instancia de la elección a que se refiere este artículo se instituye un Consejo de Revisión Municipal que tendrá las funciones y el número de miembros que determine la Ley Orgánica Electoral respectiva.
+La Ley Electoral respectiva determinará el Organismo que debe conocer y resolver en última instancia de la elección a que se refiere este artículo.
 
 ###### Art. 139.
 
@@ -1395,7 +1399,7 @@ IV. Conceder licencias para juegos de azar.
 
 #### SECCION QUINTA. DE LOS JUECES MENORES MUNICIPALES
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1966)</small>
 
 ###### Art. 155.
 
@@ -1435,13 +1439,15 @@ III. Todas las demás que determinen las respectivas leyes reglamentarias.
 
 ###### Art. 157.
 
-La dministración (sic) de Justicia en cada Municipio estará a cargo de uno o más funcionarios de elección popular directa que se denominarán Jueces Menores Municipales, con residencia en la cabecera del mismo. La Ley Orgánica correlativa determinará el número de Jueces Menores Municipales que deba haber en cada Municipio.
+La Administración de Justicia en cada Municipio, estará a cargo de uno o más funcionarios de elección popular directa que se denominarán Jueces Menores Municipales, con residencia en la Cabecera Municipal cuando sólo sea un Juez y en la Cabecera y en las poblaciones que estime conveniente el Tribunal Superior de Justicia oyendo el parecer del respectivo Ayuntamiento, cuando sean más de uno.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+La Ley Orgánica relativa determinará el número de Jueces Menores Municipales que deba haber en cada municipio.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1966)</small>
 
 ###### Art. 158.
 
-Por cada Juez Menor Municipal Propietario habrá dos suplentes que llevarán su respectivo número de orden. Cuando ocurra falta absoluta o temporal del Juez Propietario y de los Jueces suplentes, será llamado el Juez Menor Municipal Propietario del período anterior y en su defecto sus suplentes en su orden numérico.
+Por cada Juez Menor Municipal Propietario habrá dos Suplentes que llevarán su respectivo número de orden. Cuando ocurra falta absoluta o temporal del Juez Propietario y de los Jueces Suplentes, la Legislatura o la Diputación Permanente hará la designación de un substituto a propuesta del Ejecutivo.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1449,11 +1455,13 @@ Por cada Juez Menor Municipal Propietario habrá dos suplentes que llevarán su 
 
 Los Jueces Menores Municipales Propietarios y Suplentes serán electos al mismo tiempo que los Ayuntamientos y durarán tres años en su encargo.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1966)</small>
 
 ###### Art. 160.
 
-Para ser Juez Menor Municipal se requiere: ser ciudadano mexicano y vecino del Municipio, en ejercicio de sus derechos; los Jueces Menores Municipales del Municipio de Toluca, deberán ser abogados o pasantes de derecho.
+Para ser Juez Menor Municipal se requiere:
+
+Ser Ciudadano Mexicano y vecino del municipio en ejercicio de sus derechos; los Jueces Menores Municipales de los municipios que sean Cabeceras Distritales Judiciales y los de Naucalpan y de Netzahualcóyotl, deberán ser Abogados o Pasantes de Derecho.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1745,7 +1753,7 @@ DISPOSICIONES FUNDAMENTALES DEL ENJUICIAMIENTO CIVIL DEL ESTADO.
 
 (DEROGADO, P.O. 9 DE NOVIEMBRE DE 1935)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1955)</small>
 
 ## TITULO QUINTO. DE LA LEGISLACION DE EDUCACION PUBLICA
 
@@ -2140,3 +2148,9 @@ N. DE E., EN TERMINOS DEL ARTICULO TERCERO DEL DECRETO NUMERO 20, PUBLICADO EN L
 ###### ARTICULO PRIMERO.
 
 Los Magistrados Supernumerarios, que sean designados el primero de enero de mil novecientos cincuenta y cinco, de acuerdo con lo dispuesto por el Artículo 101 de esta Constitución, ejercerán su cargo solamente por el propio año de mil novecientos cincuenta y cinco.
+
+G.G. 27 DE AGOSTO DE 1966.
+
+Artículo Primero.- La disposición del Artículo 160 en cuanto al requisito de que los Jueces Menores de las Cabeceras Distritales y de los Municipios de Naucalpan y Netzahualcóyotl, sean Abogados y Pasantes de Derecho, operará en la medida en que las circunstancias de cada lugar lo permitan.
+
+Artículo Segundo.- Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
