@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "1999-09-19"
+last_updated: "2004-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-> <small>N. DE E. EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS NUMERO 46, PUBLICADO EN EL P.O. 19 DE SEPTIEMBRE DE 1999, EL LEGISLADOR SEÑALA: "SE ABROGAN LOS ARTICULOS 40 BIS Y 42 BIS DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO", SIN EMBARGO, DICHOS ARTICULOS DENTRO DEL CONTEXTO DE LA LEY SON INEXISTENTES.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2004.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -441,17 +439,23 @@ Los servidores a quienes esta Ley no fije determinados requisitos, deberán llen
 
 ### CAPITULO VII. Organos Auxiliares
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 31.
 
-Para eficientar la administración de justicia, el Poder Judicial contará con los siguientes órganos auxiliares:
+El Poder Judicial contará con los siguientes órganos auxiliares, dependientes de la Presidencia del Supremo Tribunal de Justicia:
 
 I.- La Oficialía de Partes; y
 
-II.- El Centro de Cómputo.
+II.- La Dirección de Informática; y
+
+III.- El Centro de Mediación.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 32.
 
-El Supremo Tribunal de Justicia determinará donde habrá los órganos a que se refiere el artículo anterior, y dictará las medidas y normatividad conducentes para la correcta aplicación del turno, y el funcionamiento del Centro de Cómputo.
+La Presidencia del Supremo Tribunal de Justicia determinará donde habrá los órganos a que se refiere el artículo anterior, y dictará las medidas y normatividad conducentes para la correcta aplicación del turno, y el funcionamiento de los mismos.
 
 ###### ARTICULO 33.
 
@@ -765,7 +769,9 @@ Para ser Juez Menor Mixto, se requiere:
 
 I.- Ser ciudadano mexicano;
 
-II.- Tener la ilustración suficiente y competencia necesaria para el desempeño de sus funciones, a juicio del Supremo Tribunal;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
+
+II.- Ser licenciado en Derecho;
 
 III.- Tener buenos antecedentes de moralidad; y
 
@@ -777,7 +783,9 @@ Los Jueces Menores Mixtos serán competentes:
 
 I.- Para conocer en materia civil de los negocios cuya cuantía no exceda de dos meses de salario mínimo general;
 
-II.- Para conocer en materia penal de los delitos que tengan como sanción, apercibimiento, caución de no ofender, multas cuyo máximo sea el equivalente a cinco días de salario mínimo general; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
+
+II.- Para conocer en materia penal de los delitos cuya penalidad máxima señalada en la Legislación Penal, no exceda de seis mes de prisión;
 
 III.- Para diligenciar exhortos o despachos que reciban y que sean de su competencia, cuando las diligencias deban realizarse dentro de su jurisdicción.
 
@@ -1262,3 +1270,11 @@ El presente Decreto entrará en vigor a los cinco días del mes de enero del añ
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MAYO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor a los tres meses de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procesos que sean iniciados ante los Juzgados Penales y Mixtos de Primera Instancia, antes de la entrada en vigor de la presente reforma, continuarán su trámite hasta su conclusión en los juzgados que previnieron en su conocimiento.
+
+TERCERO.- En los municipios en que no exista Juzgado Menor Mixto, la competencia para conocer de los asuntos a que se refiere la fracción II del artículo 53, que se reforma, corresponderá a los de Primera Instancia del Partido Judicial respectivo.
