@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1996-12-30"
+last_updated: "1998-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -163,9 +163,9 @@ VI.- Los adquirentes de productos provenientes de terrenos ejidales o comunales 
 
 A).- Registrarse en el Padrón Estatal de Contribuyentes en las oficinas recaudadoras de su jurisdicción.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-B).- Verificar de que se ha cubierto el impuesto y de no acreditarse dicho pago, retenerlo y enterarlo en la oficina recaudadora de su jurisdicción.
+B).- Verificar que se ha cubierto el impuesto y de no acreditarse dicho pago, retenerlo y expedir al productor el Formato de Retención de Impuesto Predial Ejidal autorizado por la Secretaría de Finanzas, así como enterar dicho impuesto en la oficina recaudadora de su jurisdicción.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1989)</small>
 
@@ -182,6 +182,10 @@ Esta manifestación deberá contener los siguientes datos:
 3.- Cantidad de kilogramo o unidad de medida que corresponda al producto.
 
 4.- Nombre y ubicación de los predios ejidales o comunales del que proceden, con expresión del Municipio en el que estén ubicados.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+5.- Número de permiso de siembra de donde proviene el producto.
 
 ###### Artículo 14.
 
@@ -227,9 +231,9 @@ I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL D
 
 II.- Tratándose de predios rústicos:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-a).- El valor de la producción anual comercializada proveniente de terrenos ejidales o comunales aprovechados para la producción agropecuaria.
+a).- El valor de la producción comercializada por ciclo productivo, proveniente de terrenos ejidales o comunales aprovechados para la producción agropecuaria, silvícola o acuícola.
 
 b).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
@@ -823,7 +827,7 @@ IV.- Exhibir, cuando lo requiera la Tesorería General del Estado, la documentac
 
 V.- Dar aviso de clausura, traspaso y cambio de nombre, razón social o domicilio, dentro de los diez días siguientes a la realización de estos actos; y
 
-VI.- Las demás que impongan otras disposiciones fiscales.
+VI.- Los demás que impongan otras disposiciones fiscales.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1707,7 +1711,7 @@ No causan el impuesto las percepciones derivadas:
 
 I.- Del arrendamiento de inmuebles;
 
-II.- De valores mobiliarios o de Renta Fija expedidos por instituciones de créditos;
+II.- De valores mobiliarios o de Renta Fija expedidos por instituciones de crédito (sic);
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1981,11 +1985,11 @@ La base del impuesto es el monto total de los pagos realizados por concepto de r
 
 Son sujetos del impuesto quienes realicen los pagos por remuneración al trabajo personal bajo la dirección y dependencia de un patrón y responsables solidarios quienes perciban dichos pagos, cuando quien los realiza resida fuera del Estado.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 216.
 
-La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones pagadas en un mes o parte de él, será de 2%. Cuando el pago por concepto de remuneraciones se realice por contribuyentes dedicados a actividades agrícolas, ganaderas o de pesca, la tasa aplicable será del 1%, siempre y cuando los productos no hayan sido objeto de transformación industrial.
+La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones pagadas en un mes o parte de él, será del 2%. Cuando el pago por concepto de remuneraciones se realice por contribuyentes dedicados a actividades agrícolas, silvícolas, ganaderas o de pesca, la tasa aplicable será del 1%, siempre y cuando los productos no hayan sido objeto de transformación industrial.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2011,17 +2015,15 @@ II.- Los pagos por cualquier concepto de indemnización;
 
 III.- Los pagos por concepto de jubilaciones o pensiones, siempre que no excedan de cinco veces el salario mínimo general de la zona en que resida el preceptor de dichos conceptos;
 
-> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no lucrativas que promuevan o realicen asistencia social en cualquiera de sus formas, así como actividades sociales, deportivas o culturales, y
+IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como las que lleven a cabo gratuitamente actividades sociales, deportivas o culturales.
 
-> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-V.- Contraprestaciones cubiertas por contribuyentes que realicen actividades empresariales que tengan contratados hasta 5 trabajadores.
+V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados hasta 5 trabajadores.
 
-> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Para los efectos de este Capítulo se entenderá por actividades empresariales aquellas que al efecto señale el Código Fiscal de la Federación.
+Los contribuyentes a que se refiere el párrafo anterior, deberán inscribirse en el Registro Estatal de Contribuyentes y presentar anualmente, durante el mes de enero, la declaración correspondiente sin impuesto a cargo.
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2177,7 +2179,7 @@ inferior
 
 ###### Artículo 236.
 
-Es objeto de este impuesto, la percepción de ingresos derivados del ejercicio de una actividad profesional, cuando su prestación requiera título conforme a las Leyes; así como los percibidos por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas; y los obtenidos por corredores y agentes de bolsa y seguros.
+El objeto de este impuesto, la percepción de ingresos derivados del ejercicio de una actividad profesional, cuando su prestación requiera título conforme a las Leyes; así como los percibidos por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas; y los obtenidos por corredores y agentes de bolsa y seguros.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -3507,9 +3509,13 @@ los vehículos de propulsión mecánica para uso
 
 particular.
 
-A).- Por expedición, transferencia o canje. N$ 120.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-B).- Por revalidación anual. N$ 60.00
+A).- Por expedición, transferencia o canje. 250.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+B).- Por revalidación anual. 200.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3552,6 +3558,24 @@ y calcomanía, hasta por diez días. N$ 60.00
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 7.- Por reposición de tarjetas de circulación. N$ 60.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+8.- Por el traslado de vehículos mediante la
+
+utilización de grúas a los lugares previamente
+
+designados que efectúen las autoridades en el
+
+ejercicio de sus facultades. $ 200.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+9.- Por el almacenaje de vehículos derivado de las
+
+remisiones señaladas en la fracción que antecedente,
+
+diariamente. $ 6.00
 
 ###### Artículo 313.
 
@@ -3881,9 +3905,9 @@ b). Carga N$100.00 por cada período hasta 30 días.
 
 Por los servicios registrales que presta el Instituto Catastral y Registral del Estado de Sonora, se causarán los siguientes derechos que deberán pagarse previamente a la prestación del servicio:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-1.- Por las inscripciones relativas o los actos a que se refiere este punto, se causarán y pagarán los derechos conforme a la tasa del 3.5 al millar sirviendo como base el valor que resulte más alto entre el precio pactado en la operación, el consignado en el avalúo efectuado por una Institución de Crédito o corredor público, mismo que deberá tener vigencia no mayor de seis meses al momento de la solicitud de inscripción y el catastral que deberá ser certificado por la autoridad catastral correspondiente en las formas aprobadas, debiéndose anexar estos dos últimos al documento respectivo.
+1.- Por las inscripciones relativas a los actos a que se refiere este punto, se causarán y pagarán los derechos conforme a la tasa del 3.5 al millar sirviendo como base el valor que resulte más alto entre el precio pactado en la operación, el consignado en el avalúo efectuado por una Institución de Crédito, corredor público autorizado o perito valuador registrado ante el Instituto Catastral y Registral del Estado de Sonora, mismo que deberá tener una vigencia no mayor de doce meses al momento de la solicitud de inscripción y el catastral que deberá ser certificado por la autoridad catastral correspondiente en las formas aprobadas, debiéndose anexar este último y el avalúo correspondiente al documento respectivo.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3963,17 +3987,31 @@ k) Por inscripción de embargos judiciales y administrativos.
 
 l) Declaración unilateral o información Ad-perpetuam sobre la construcción.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+La tasa por los servicios a que se refieren los incisos b) a l) de este apartado, en ningún caso excederá de la cantidad equivalente a 1000 veces el salario mínimo general vigente correspondiente al área geográfica "A".
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 2.- La inscripción del documento en el que conste la
 
-constitución del patrimonio familiar. 3.5 al millar.
+constitución del patrimonio familiar. Exento.
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 3.- Los contratos de arrendamiento de bienes
 
 inmuebles, sobre el valor de la operación. 3.5 al millar.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+La tasa por el servicio a que se refiere este apartado,
+
+en ningún caso excederá de la cantidad equivalente
+
+a 1000 veces el salario mínimo general vigente
+
+correspondiente al área geográfica "A".
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4031,6 +4069,34 @@ y fianzas, celebrados entre particulares, sobre el
 
 importe de la operación. 3.5 al millar
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+La tasa por los servicios a que se refiere este apartado,
+
+no excederá de la cantidad equivalente a 1000 veces
+
+el salario mínimo general vigente correspondiente al
+
+geográfica "A".
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+En el caso de la inscripción de reconocimiento de
+
+adeudo de créditos ya inscritos en la misma oficina
+
+del Registro Público de la Propiedad, se causarán
+
+derechos por la diferencia que resulte entre el crédito
+
+inscrito y la suma de dinero que se reconozca adeudar.
+
+Si el cálculo de la cantidad a pagar por este concepto
+
+da cómo resultado una cuota menor a $ 193.00, deberá
+
+aplicarse este último.
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 8.- Por convenio modificatorio, judicial, rectificación
@@ -4041,17 +4107,21 @@ documentos o títulos públicos o privados no
 
 previstos se cobrará: N$150.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-9.- Por inscripciones de escrituras constitutivas
+9.- Por inscripciones de escrituras constitutivas de
 
-de sociedades mercantiles y las actas que contengan
+sociedades mercantiles y de sociedades civiles que
 
-aumentos de capital social, así como las escrituras
+señalen capital social se pagará. 3.5 al Millar
 
-constitutivas de las sociedades civiles que señalen
+La tasa por los servicios a que se refiere este apartado,
 
-capital social se pagará 3.5 al millar
+en ningún caos excederá de la cantidad equivalente
+
+a 1000 veces el salario mínimo general vigente
+
+correspondiente al área geográfica "A".
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4075,93 +4145,93 @@ en más de una entidad federativa, se cobrará el
 
 50 % de los derechos por el servicio solicitado.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-12.- La escritura constitutiva de asociaciones de
+12.- Las escrituras constitutivas de sociedades civiles
 
-fundaciones de beneficencia privada pagarán: N$ 75.00
+que no señalen capital social y cualquier modificación
 
-Las escrituras constitutivas de sociedades
-
-civiles que no señalen capital social y cualquier
-
-modificación a las mismas, pagarán: N$ 120.00
+a las mismas, pagarán. $193.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 13.- Por depósito de tratamiento Holográfico. N$ 120.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-14.- Los créditos hipotecarios o refaccionarios
+14.- Los créditos hipotecarios o refaccionarios de
 
-de habilitación o avío otorgados por instituciones
+habilitación o avío otorgados por instituciones de
 
-de crédito y organizaciones auxiliares, así como
+crédito y organizaciones auxiliares, así como el
 
-el registro de contratos de fideicomiso con
+registro de contratos de fideicomiso con garantía
 
-garantía hipotecaria causarán sobre el importe de
+hipotecaria causarán sobre el importe de la operación. 3.5 al millar
 
-operación. 3.5 al millar
+Para el cobro de los derechos que se establecen en
 
-Las inscripciones a que se refiere este apartado,
+este apartado, se observarán las siguientes reglas:
 
-en los casos en que se haga reacomodos de
+a) La tasa por los servicios a que se refiere el primer
 
-pasivos o se otorguen facilidades de pagos,
+párrafo de este apartado no excederá de la cantidad
 
-tratándose de créditos ya inscritos, del mismo
+equivalente a 1000 veces el salario mínimo general
 
-acreedor se pagará. N$ 120.00
+vigente correspondiente al área geográfica "A".
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+b) En los casos en que se haga reacomodos de
 
-Tratándose de créditos hipotecarios para la
+pasivos o se otorguen facilidades de pago,
+
+tratándose de créditos ya inscritos del mismo
+
+acreedor, se pagará. $120.00
+
+c) Tratándose de créditos hipotecarios para la
 
 adquisición de terrenos destinados a edificación
 
-de vivienda de interés social y popular cuyo
+de vivienda de interés social y popular cuyo valor
 
-valor al momento de la operación no exceda
+al momento de la operación no exceda de la suma
 
-de la suma que resulte de multiplicar por
+que resulte de multiplicar por 10 veces el salario
 
-10 veces el salario mínimo general elevado
+mínimo general elevado al año, vigente en el área
 
-al año, vigente en el área geográfica de que
+geográfica "A", la tasa a que se refiere este inciso
 
-se trate, la cuota a que se refiere este punto
+se reducirá en un 75%. En el caso de que el valor
 
-se reducirá en un 75%. En el caso de que el
+de las viviendas sea mayor a 10 veces y menor a
 
-valor de las viviendas sea mayor a 10 veces
+25 veces el salario mínimo general elevado al año,
 
-y menor a 25 veces el salario mínimo general
+vigente en el área geográfica "A", la tasa a que se
 
-elevado al año, vigente en el área geográfica
+refiere este inciso se reducirá en un 50%. 1.75 al millar
 
-de que se trate, la cuota a que se refiere este
+Para la aplicación de la tasa a que se refiere el párrafo
 
-punto se reducirá en un 50%. 1.75 Al Millar
+anterior, deberá presentarse copia de la licencia de uso
 
-> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+del suelo correspondiente, teniendo al solicitante del
 
-Para la aplicación de la tasa a que se refiere el
+servicio el plazo de un año contado a partir de la fecha
 
-párrafo anterior, deberá presentarse copia de la
+de inscripción, para edificar o desarrollar el predio, caso
 
-licencia de uso del suelo correspondiente, teniendo
+contrario deberá cubrir la diferencia que resulte de aplicar
 
-el solicitante del servicio el plazo de un año
+la tasa establecida en el primer párrafo de este apartado.
 
-contado a partir de la fecha de inscripción, para
+d) En los casos de fideicomiso irrevocables de garantía
 
-edificar o desarrollar el predio, caso contrario deberá
+en donde el fideicomitente se reserve el derecho a
 
-cubrir la diferencia que resulte de aplicar la tasa
-
-establecida en el primer párrafo de este apartado.
+readquirir los bienes del fiduciario, se pagará. $323.00
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
@@ -4172,8 +4242,6 @@ de becas, N$ 10.00.
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 16.- Certificados de no propiedad. N$ 40.00
-
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
@@ -4217,8 +4285,6 @@ o inmuebles, se pagarán por cada antecedente
 
 de las inscripciones. N$ 20.00
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 21.- Por cada anotación marginal que se
@@ -4227,17 +4293,15 @@ efectué al presentar cualquier documento
 
 público o privado para su registro. N$ 20.00
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 22.- Por anotación de segundo ejemplar cuando
 
 sea simultánea la inscripción del primer ejemplar. N$ 40.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-23.- Por registro de cédula hipotecaria se cobrará. N$ 80.00
+23.- Por registro de cédula hipotecaria se cobrará. $243.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4257,8 +4321,6 @@ registrales N$ 50.00
 
 26.- Todos los demás certificados N$ 60.00
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
-
 > <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
 27.- Por el examen o calificación de todo tipo de
@@ -4273,17 +4335,23 @@ por su resolución judicial o administrativa cada
 
 vez que se presente. N$ 50.00
 
-> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 28.- Por el registro e inscripción de patentes, sellos
 
-y firmas de notarios públicos, corredores, fedatarios,
+y firmas de notarios públicos, corredores públicos,
 
-acreditados o apoderados de instituciones bancarias,
+fedatarios, peritos valuadores, apoderados de
 
-peritos valuadores, acreditados o apoderados,
+instituciones bancarias, de instituciones auxiliares,
 
-uniones de crédito y otros similares. N$ 1,500.00
+uniones de crédito y otras similares. $1,500.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+29.- Por inscripciones de actas que contenga
+
+aumentos de capital social. $2,500.00
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4297,11 +4365,11 @@ Para la aplicación de las reducciones a que se refiere el párrafo anterior deb
 
 Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean especificadas o proporcionales, se aplicarán progresivamente y acumulativamente.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 323.
 
-Se exceptúan de los derechos a que se refiere este capitulo al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Instituto de Desarrollo Urbano y Rural, Instituto del Fondo Nacional de la Vivienda para los Trabajadores y Comisión para la Regularización de la Tenencia de la Tierra.
+Se exceptúan de los derechos a que se refiere este Capítulo, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Instituto de Desarrollo Urbano y Rural, Instituto del Fondo Nacional de la Vivienda para los Trabajadores, Comisión para la Regularización de la Tenencia de la Tierra e instituciones de asistencia privada autorizadas por la Junta de Asistencia Privada de la Secretaría de Salud.
 
 > <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -4669,6 +4737,70 @@ transporte concesionado por el Estado. N$ 3,000.00
 
 desarrollo urbano y usos de suelo 122.00
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+11.- Evaluación de cédula de operación. $775.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+12.- Por los servicios de evaluación y dictamen de
+
+estudio de impacto ambiental:
+
+a) Riesgo ambiental. $1,193.00
+
+b) Informe preventivo. 726.00
+
+c) Manifestación de impacto ambiental, modalidad
+
+general. 1,407.00
+
+d) Manifestación de impacto ambiental, modalidad
+
+intermedia. 2,463.00
+
+e).- Manifestación de impacto ambiental, modalidad
+
+específica. 3,870.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+13.- Por los servicios de evaluación de información
+
+y dictamen para:
+
+a) Otorgamiento de licencia de funcionamiento. 1, 447.00
+
+b) Actualización de la licencia de funcionamiento. 725.00
+
+c) Actualización de la autoridad en materia de
+
+impacto ambiental. 1,000.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+14.- Por la inscripción en el Registro Estatal de:
+
+a) Empresas generadoras de residuos sólidos
+
+no peligrosos. 132.00
+
+b) Prestadores de servicios de estudios de impacto
+
+ambiental. 1,500.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+15.- Por los servicios de estudio y certificación de
+
+emisiones o concentración de:
+
+a) Contaminantes a la atmósfera de fuentes fijas. 4,600.00
+
+b) Ruido y/o vibraciones de fuentes fijas. 2,300.00
+
+c) Contaminantes en aguas residuales. 750.00
+
 III.- Servicios Prestados por la Secretaría de Salud Pública del Estado.
 
 1.- Autorización de responsable en farmacia. N$ 80.00
@@ -4851,7 +4983,7 @@ Se deroga en lo que se oponga a la presente Ley, la Ley de Hacienda del Estado d
 
 ###### ARTICULO TERCERO.
 
-Queda autorizado el Poder Ejecutivo para que por conducto de la Tesorería General del Estado proceda a cancelar los créditos o liquidaciones pendientes de pago del Impuesto Predial, correspondientes a predios edificados con valor catastral hasta de $30,000.00.
+Queda autorizado el Poder Ejecutivo para que por conducto de la Tesorería General del Estado proceda a cancelar los créditos o liquidaciones pendientes de pago del Impuesto Predial, correspondientes a predios edificaciones con valor catastral hasta $30,000.00.
 
 > <small>(ADICIONADO, B.O. 4 DE JUNIO DE 1977)</small>
 
@@ -4859,11 +4991,11 @@ Asimismo, se faculta al Ejecutivo para que, a través de la Tesorería General d
 
 ###### ARTICULO CUARTO.
 
-Los contribuyentes o responsables solidarios que deban registrarse con motivo de las nuevas obligaciones fiscales que les impone esta Ley en sus diversos capítulos, lo harán durante el mes de Enero de 1977.
+Los contribuyentes o responsables solidarios que deban registrarse con motivos de las nuevas obligaciones fiscales que les impone esta Ley en sus diversos capítulos, lo harán durante el mes de Enero de 1977.
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
-Las solicitudes de registro se presentarán por cuadruplicado ante la Oficina Receptora de la jurisdicción del interesado, quien conservará una copia; remitirá el original y una copia a la Tesorería General del Estado y, la copia restante, la entregará al interesado
+Las solicitudes de registro se presentarán por cuadruplicado ante la Oficina Receptora de la jurisdicción del interesado, quien conservará una copia; remitirá el original y la copia a la Tesorería General del Estado y, la copia restante, la entregará al interesado
 
 ###### ARTICULO QUINTO.
 
@@ -5126,3 +5258,9 @@ La presente Ley entrará en vigor a partir del 1º de Enero de 1997, previa su p
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
+
+B.O. 31 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
