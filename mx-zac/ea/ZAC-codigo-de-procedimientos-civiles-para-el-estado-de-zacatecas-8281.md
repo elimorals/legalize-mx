@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "1975-08-16"
+last_updated: "1982-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1982.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -113,7 +113,7 @@ VI.- Toda persona física o jurídica puede demandar o ser demandada ante los Tr
 
 11.- Para hacer valer una acción en juicio se necesita la interposición de demanda ante juez competente.
 
-12.- Para interponer una demanda o contradecirla es necesario tener interés jurídico en la misma. El ejercicio de la acción que corresponde al Ministerio Público está sujeto a las disposiciones del estatuto legal de esta institución.
+12.- Para interponer una demanda o contradecirla es necesario tener interés jurídico en la misma. El ejercicio de la acción que corresponda al Ministerio Público está sujeto a las disposiciones del estatuto legal de esta institución.
 
 13.- Mediante el ejercicio de la acción podrá perseguirse:
 
@@ -1969,7 +1969,7 @@ Los documentos públicos procedentes del extranjero deberán presentarse legaliz
 
 I.- Siempre que uno de los litigantes pidiere copia o testimonio de parte de un documento o pieza que obre en los archivos judiciales, el contrario tendrá derecho a que, a su costa, se adicione con lo que crea conducente del mismo. Los documentos existentes en partido distinto del en que se siga el juicio, se compulsarán a virtud de exhorto que dirija el juez de los autos al del lugar en que aquellos se encuentren;
 
-II.- Los documentos privados se presentarán originales y cuando formen parte de un libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados. Si se encontraren en libros o papeles de casa de comercio o de algún otro establecimiento industrial, el que pide el documento o la constancia deberá fijar con precisión cuál sea. La copia se compulsará en el establecimiento sin que los directores de él estén obligados a llevar al tribunal los libros de cuentas, ni a más que a presentar las partidas o documentos designados;
+II.- Los documentos privados se presentarán originales y cuando formen parte de un libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados. Si se encontraren en libros o papeles de casa de comercio o de algún otro establecimiento industrial, el que pide el documento o la constancia deberá fijar con precisión cuál sea. La copia se compulsará en el establecimiento, sin que los directores de él estén obligados a llevar al tribunal los libros de cuentas, ni a más que a presentar las partidas o documentos designados;
 
 III.- Cuando las partes deban servirse de documentos en poder de terceros, solicitarán del juzgado se intime a los mismos la exhibición o entrega de copia fotográfica, fotostática o testimonio certificado de ellos, siendo los gastos que se originen a cargo del que pide la prueba. Los terceros pueden rehusarse a la entrega si tienen derechos exclusivos sobre los documentos u otra causa justificada, y en este caso se les oirá en la vía incidental, y
 
@@ -2945,9 +2945,9 @@ XII.- Las asignaciones a los pensionistas del Erario o de particulares o empresa
 
 XIII.- Los ejidos de los pueblos y la parcela individual que en fraccionamiento haya correspondido a cada ejidatario.
 
-433.- En cualquier momento anterior a la adjudicación, el deudor podrá pedir que se substituya a las cosas embargadas una suma de dinero igual al monto de las costas y de los créditos del acreedor embargante, y en su caso, de los acreedores intervenientes (sic). El juez fijará la suma que debe darse en substitución del embargo, después de oír a las partes y una vez entregada esta suma, ordenará que se liberen del embargo las cosas que comprende y se trabará el embargo en la suma entregada en su substitución depositándose ésta. Lo dispuesto en este artículo no tiene aplicación cuando el embargo se hubiere trabado sobre cosa cierta y determinada materia de la ejecución.
+433.- En cualquier momento anterior a la adjudicación, el deudor podrá pedir que se substituya a las cosas embargadas una suma de dinero igual al monto de las costas y de los créditos del acreedor embargante, y en su caso, de los acreedores intervenientes. El juez fijará la suma que debe darse en substitución del embargo, después de oír a las partes y una vez entregada esta suma, ordenará que se liberen del embargo las cosas que comprende y se trabará el embargo en la suma entregada en su substitución depositándose ésta. Lo dispuesto en este artículo no tiene aplicación cuando el embargo se hubiere trabado sobre cosa cierta y determinada materia de la ejecución.
 
-434.- Cuando el valor de los bienes embargados sea superior en un treinta por ciento al monto de los créditos reclamados y las costas, el juez podrá ordenar, a petición del deudor y aun de oficio, la reducción del embargo, debiendo oír previamente al acreedor embargante y a los acreedores intervenientes (sic), si los hubiere.
+434.- Cuando el valor de los bienes embargados sea superior en un treinta por ciento al monto de los créditos reclamados y las costas, el juez podrá ordenar, a petición del deudor y aun de oficio, la reducción del embargo, debiendo oír previamente al acreedor embargante y a los acreedores intervenientes, si los hubiere.
 
 435.- Para la guarda y custodia de los bienes embargados se seguirán las siguientes reglas:
 
@@ -3529,11 +3529,17 @@ VII.- Los conflictos sobre derechos de preferencia;
 
 VIII.- Las cuestiones de naturaleza análoga que se refieran a conflictos entre socios de personas jurídicas, con motivo del funcionamiento de éstas;
 
-IX.- Los asuntos que conforme a la ley deben ventilarse y decidirse en una sola audiencia y los que requieran celeridad o urgencia especiales; y
+IX.- Los asuntos que conforme a la ley deben ventilarse y decidirse en una sola audiencia y los que requieran celeridad o urgencia especiales; y (sic)
 
 X.- Los demás en que el juez lo estime conveniente por su naturaleza y siempre que los interesados estén de acuerdo que se siga el procedimiento oral.
 
-En los casos de los apartados III, IV, V, y VI, se observarán las modalidades a que se refiere el Capítulo Segundo, Título Tercero de este Libro.
+> <small>N. DE E. TODA VEZ QUE EL LEGISLADOR ES OMISO RESPECTO A ESTE PARRAFO, SE DEJA A CRITERIO DEL USUARIO SU VIGENCIA</small>
+
+En los casos de los apartados III, IV, V, y VI, se observarán las modalidades a que se refiere el Capítulo Segundo, Título Tercero de este Libro;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 1982)</small>
+
+XI.- La rectificación de actas del Registro Civil a que se refiere el Capítulo VIII del presente Título.
 
 501.- La demanda se formulará en los términos señalados para las del juicio en general. Dentro de las cuarenta y ocho horas siguientes a su entrada en el juzgado, se mandará dar traslado al demandado, emplazándolo para que conteste dentro de tres días, o produzca contestación en la audiencia, si el caso fuere urgente.
 
@@ -4117,29 +4123,27 @@ Si la revocación se pide por ingratitud del adoptado, el juez mandará substanc
 
 600.- Cuando el adoptado sea menor de edad o incapacitado, los procedimientos para autorizar la adopción o para impugnarla o revocarla, se seguirán con el Ministerio Público.
 
-### CAPITULO VIII. Rectificación de actas del estado civil
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ENERO DE 1982)</small>
 
-601.- La rectificación o modificación de un acta del estado civil no puede hacerse sino mediante sentencia que dicte la autoridad judicial, salvo el reconocimiento que voluntariamente haga un padre de su hijo, en los casos autorizados por el Código Civil.
+### CAPITULO VIII. Rectificación de actas del Registro Civil
 
-602.- Sólo habrá lugar a pedir la rectificación de actas del estado civil por falsedad, cuando se alega que el acto registrado no pasó, por enmienda, o cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1982)</small>
 
-Cuando sólo se trate de complementar o ampliar los datos que contenga una acta del estado civil; pero sin variar ni modificar el contenido de ésta, no se requerirá juicio contradictorio, pudiendo recibirse las pruebas a que haya lugar, de acuerdo con las reglas de la jurisdicción voluntaria.
+601.- El juicio que se instaure para obtener la rectificación de un Acta del Registro Civil se substanciará en la vía oral en los términos previstos por los artículos 86, 87, 88, y 90 de la Ley del Registro Civil para el Estado de Zacatecas. De la demanda inicial se correrá traslado al Oficial del Registro Civil que corresponda para que produzca su contestación dentro del término de tres días, bajo apercibimiento de que, si no lo hace, se tendrá por contestada en sentido negativo. Por el mismo término se dará vista al Ministerio Público para que manifieste lo que a su Representación convenga.
 
-603.- Pueden pedir la rectificación o modificación de una acta del estado civil:
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1982)</small>
 
-I.- Las personas de cuyo estado se trate;
+602.- Una vez contestada la demanda o dada por contestada en los términos previstos por el artículo anterior, se citará a las partes para el desahogo de las pruebas que hubieren ofrecido, sin perjuicio de las que deban prepararse con antelación. La audiencia deberá verificarse dentro del término de diez días hábiles siguientes a la notificación personal del auto correspondiente. En la misma audiencia se citará a las partes para oír sentencia y se dictará ésta dentro del término de cinco días.
 
-II.- Las que se mencionen en el acta como relacionadas con el estado civil de la persona cuya acta se pretenda rectificar;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1982)</small>
 
-III.- Los herederos de las personas comprendidas en las dos fracciones anteriores; y
+603.- La sentencia que se pronuncie deberá revisarse de oficio por el Supremo Tribunal de Justicia del Estado, al que se remitirán los autos con la premura que el caso amerita, y la resolución que deba pronunciarse recaerá dentro del término de diez días contados desde el siguiente en que se reciban dichos autos. Dentro de los tres días siguientes al pronunciamiento del fallo se remitirá testimonio al Juzgado de origen y se devolverá el expediente.
 
-IV.- Los que según los artículos 435, 438 y 440 del Código Civil puedan continuar o intentar la acción correspondiente.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1982)</small>
 
-604.- El juicio sobre rectificación se tramitará en la vía ordinaria con intervención del Ministerio Público, y aplicándose en lo conducente las reglas establecidas en los juicios sobre paternidad y filiación.
+604.- Recibidos los autos por el Juzgador, procederá en los términos que señala el artículo 90 de la Ley del Registro Civil.
 
-La sentencia que recaiga será revisable de oficio, aunque no la recurran las partes.
-
-Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+Cuando se trate de la autorización necesaria para la inscripción de un registro extemporáneo, se tramitará en vía de jurisdicción voluntaria, con citación del Ministerio Público. El juzgador, con vista en las pruebas que se rindan resolverá autorizando o negando la autorización de la inscripción solicitada. Esta resolución no admitirá recurso alguno.
 
 ### CAPITULO IX. Interdicción e inhabilitación
 
@@ -5583,7 +5587,7 @@ El Notario dará a reconocer estas declaraciones por medio de dos publicaciones 
 
 830.- La tramitación de intestado ante Notario no podrá iniciarse sino hasta que la autoridad judicial haya hecho la declaración de herederos, y siempre que todos los interesados sean mayores de edad, que lo pidan de común acuerdo y que no exista controversia alguna.
 
-831.- La tramitación ante Notario se hará del conocimiento del representante del Fisco para que tenga la intervención que le concede la ley.
+831.- La tramitación ante Notario se hará del conocimiento del representante Fisco para que tenga la intervención que le concede la ley.
 
 832.- Ya se trate de testamentarías o de intestados, practicado el inventario por el albacea y estando conformes con él todos los herederos, lo presentarán al Notario para que lo protocolice. Simultáneamente con el inventario se hará el avalúo, de acuerdo con las reglas establecidas en la Ley de Hacienda del Estado y en la Ley Federal del Impuesto sobre Herencias y Legados.
 
@@ -5631,9 +5635,9 @@ Si la intervención judicial no consiste en recibir información sino en practic
 
 842.- El juez, en los negocios de jurisdicción voluntaria, podrá variar o modificar las determinaciones que dictare sin sujeción a los términos y formas establecidos para la contenciosa.
 
-843.- Si mediare oposición del Ministerio Público, se substanciará en la forma establecida para los incidentes.
+843.- Si mediare oposición del Ministerio Público, se sustanciará en la forma establecida para los incidentes.
 
-En caso de oposición de un tercero que justifique ser parte legítima, el juez examinará en forma preliminar la procedencia de la misma. Si advierte que ella no obsta a la intervención judicial solicitada por el promovente, y la substanciará en la forma prevista para los incidentes y accederá o denegará a lo pedido en la demanda.
+En caso de oposición de un tercero que justifique ser parte legítima, el juez examinará en forma preliminar la procedencia de la misma. Si advierte que ella no obsta a la intervención judicial solicitada por el promovente, y la sustanciará en la forma prevista para los incidentes y accederá o denegará a lo pedido en la demanda.
 
 Si advierte que plantea una cuestión de importancia que obsta a todo pronunciamiento en la jurisdicción voluntaria, sobreseerá los procedimientos, disponiendo que los interesados promuevan el juicio contradictorio que corresponda.
 
@@ -6066,3 +6070,7 @@ Lic. Alejandro Borrego Acuña.
 P. O. 16 DE AGOSTO DE 1975.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE ENERO DE 1982.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
