@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "1999-12-31"
+last_updated: "2000-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2000.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -262,7 +262,7 @@ I. Impuestos. Son los que deben pagar las personas físicas y morales, que se en
 
 II. Contribuciones de mejoras. Son aquéllas a cargo de personas físicas o morales, privadas o públicas, cuyos inmuebles se beneficien directamente por la realización de obras públicas;
 
-III. Aportaciones de seguridad social. Son aquéllas a cargo de personas que se benefician en forma especial por servicios de seguridad social proporcionados por el Distrito Federal, y
+III. (DEROGADA, G.O. 19 DE MAYO DE 2000)
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -302,9 +302,9 @@ Los contribuyentes tendrán la obligación de presentar declaraciones para el pa
 
 Si los contribuyentes aceptan las propuestas de declaraciones a que se refiere el párrafo anterior, las presentarán como declaración y la autoridad ya no realizará determinaciones por el período que corresponda, si los datos conforme a los cuales se hicieron dichas determinaciones corresponden a la realidad al momento de hacerlas. Si los contribuyentes no reciben dichas propuestas podrán solicitarlas en las oficinas autorizadas.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-Las formas oficiales aprobadas que se mencionan en este Código deberán publicarse en la Gaceta Oficial del Distrito Federal; en tanto se publiquen, los contribuyentes presentarán sus declaraciones por escrito en el que se precise, por lo menos, el nombre o razón social según se trate, el número de cuenta, contribución a pagar, periodo o periodos a cubrir, así como su importe.
+Las formas oficiales aprobadas que se mencionan en este Código deberán publicarse en la Gaceta Oficial del Distrito Federal; en tanto se publiquen, los contribuyentes presentarán sus declaraciones por escrito firmado por el contribuyente o su representante legal, en el que se precise, por lo menos, el nombre, denominación o razón social según se trate, su domicilio fiscal, el número de cuenta, contribución a pagar, periodo o periodos a cubrir, así como su importe.
 
 ###### ARTICULO 31.
 
@@ -364,9 +364,9 @@ I. Instituciones de Crédito;
 
 II. Sociedades civiles o mercantiles cuyo objeto específico sea la realización de avalúos, las cuales deberán tener cuando menos el 51% de su capital suscrito por las personas físicas a que se refiere el presente artículo;
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2000)</small>
 
-III. La Comisión de Avalúos de Bienes del Distrito Federal, en los asuntos de su competencia, y
+III. La Dirección General de Avalúos de Bienes, en los asuntos de su competencia, y
 
 > <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -376,9 +376,9 @@ IV. Corredores públicos.
 
 Las instituciones de crédito, así como las sociedades civiles o mercantiles a que se hace mención, deberán auxiliarse para la realización de los avalúos de personas físicas registradas ante la autoridad fiscal, debiendo acreditar ante ella los siguientes requisitos, mismos que serán aplicables a los corredores públicos:
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-a). Que tengan registro como perito valuador ante la Comisión Nacional Bancaria y de Valores o la Comisión de Avalúos de Bienes del Distrito Federal o que figuren en la lista anual de peritos valuadores de bienes inmuebles, elaborada por el colegio profesional respectivo, en concordancia con la Ley de la Materia.
+a). Que tengan registro como perito valuador ante la Comisión Nacional Bancaria y de Valores o la Dirección General de Avalúos de Bienes o que figuren en la lista anual de peritos valuadores de bienes inmuebles, elaborada por el colegio profesional respectivo, en concordancia con la Ley de la Materia.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -416,9 +416,9 @@ Los avalúos a que se refiere este Código y las determinaciones de valor efectu
 
 La Federación, el Distrito Federal, los estados, los municipios, las entidades paraestatales, los prestadores de servicios públicos concesionados de carácter federal o local y, en general, cualquier persona o institución oficial o privada, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones o estén exentos de ellas, deberán cubrir las que establezca este Código, con las excepciones que en el mismo se señalan.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-Tratándose de las contribuciones relacionadas con la propiedad inmobiliaria, a que se refiere el segundo párrafo del inciso c) de la fracción IV del artículo 115 de la Constitución, la Federación y los organismos descentralizados, sólo quedan relevados de su pago cuando los bienes de que se trate sean considerados bienes del dominio público de la Federación, conforme a las disposiciones de las leyes respectivas.
+Tratándose de las contribuciones relacionadas con la propiedad inmobiliaria, a que se refiere el segundo párrafo del inciso c) de la fracción IV del artículo 115 de la Constitución, la Federación y los organismos descentralizados, sólo quedan relevados de su pago cuando los bienes de que se trate sean considerados bienes del dominio público de la Federación, conforme a las disposiciones de las leyes respectivas, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 Las personas que de acuerdo con la (sic) disposiciones fiscales no estén obligadas a pagar contribuciones únicamente tendrán las obligaciones de carácter formal que establezca este Código.
 
@@ -502,9 +502,9 @@ Para formalizar el otorgamiento de la garantía, el titular de la oficina recaud
 
 Para que un tercero asuma la obligación de garantizar por cuenta de otro con prenda, hipoteca o embargo en la vía administrativa, deberá cumplir con los requisitos que para cada caso se establecen en este artículo.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-En los casos previstos en este artículo en que se requiera de avalúos, la Secretaría podrá autorizar a la Comisión de Avalúos de Bienes del Distrito Federal para que los practique sobre determinados bienes.
+En los casos previstos en este artículo en que se requiera de avalúos, éstos podrán ser practicados por la Dirección General de Avalúos de Bienes.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -636,9 +636,9 @@ La falta de pago de un crédito fiscal en la fecha o plazo a que se refiere el a
 
 Los recargos se causarán hasta por cinco años por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe, excepto cuando el contribuyente pague en forma espontánea en términos del artículo 500 de este Código, los créditos fiscales omitidos, caso en el cual el importe de los recargos no excederá de los causados en los últimos doce meses.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-Los recargos se calcularán sobre el total del crédito fiscal previamente actualizado en términos del artículo 50 B de éste Código, excluyendo los propios recargos y cualquier otro accesorio.
+Los recargos se calcularán sobre el total de las contribuciones o aprovechamientos previamente actualizados en términos del artículo 50 B de este Código, excluyendo los propios recargos y cualquier otro accesorio. En los mismos términos se calcularán los recargos sobre otros créditos fiscales.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -764,6 +764,10 @@ XV. Los copropietarios, o los participantes en derechos mancomunados, respecto d
 
 XVI. Los valuadores, en relación a los avalúos que hayan emitido, siempre que con base en los mismos se hayan determinado contribuciones de manera incorrecta, en perjuicio del Distrito Federal, y
 
+> <small>(ADICIONADA, G.O. 19 DE MAYO DE 2000)</small>
+
+XVII. Quien exprese su voluntad por medio de un contrato o título de concesión, de pagar las contribuciones en lugar del sujeto directo obligado en la relación jurídico principal.
+
 XVII. Las demás personas físicas o morales que señale este Código y las leyes aplicables.
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por los actos u omisiones propios.
@@ -796,9 +800,11 @@ En ningún caso los intereses a cargo del Distrito Federal excederán de los que
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 58.
 
-El crédito fiscal se extingue por prescripción en el término de cinco años. El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
+El crédito fiscal se extingue por prescripción en el término de tres años. El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -840,7 +846,9 @@ La cancelación de créditos fiscales en las cuentas públicas, procederá cuand
 
 La Secretaría podrá condonar las multas por infracción a las disposiciones fiscales y administrativas, inclusive las determinadas por el propio contribuyente para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción. La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
 
-La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal. Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
+
+La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal. Sólo procederá la condonación de multas que hayan quedado firmes y siempre que la determinación del crédito principal no sea materia de impugnación o habiéndose impugnado el contribuyente se desista de la instancia intentada.
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -852,9 +860,9 @@ Las instancias o peticiones que se formulen a las autoridades fiscales deberán 
 
 Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcione los elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-No operará la resolución afirmativa ficta tratándose de la autorización de exenciones de créditos fiscales, la prescripción o condonación de créditos fiscales, el otorgamiento de subsidios y la devolución de cantidades pagadas indebidamente.
+No operará la resolución afirmativa ficta tratándose de la autorización de exenciones de créditos fiscales, la prescripción o condonación de créditos fiscales, el otorgamiento de subsidios, disminuciones en el monto del crédito fiscal, y la devolución de cantidades pagadas indebidamente.
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -904,9 +912,9 @@ g). Llevar un registro acorde con sus sistemas de contabilidad en el que se cons
 
 En el caso de que un contribuyente cuente con dos o más inmuebles donde se presten servicios de hospedaje, deberá llevar el registro a que se refiere el párrafo anterior respecto de cada uno de ellos, a excepción de los inmuebles colindantes por los que se llevará un sólo registro.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-h). Conservar la documentación y demás elementos contables y comprobatorios, en domicilio ubicado en el Distrito Federal, durante el periodo de cinco años;
+h). Conservar la documentación y demás elementos contables y comprobatorios, en domicilio ubicado en el Distrito Federal durante el periodo de tres años;
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -1164,9 +1172,9 @@ XV. Verificar el número de personas que ingresan a los espectáculos públicos,
 
 XVI. Presenciar la celebración de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase y verificar los ingresos que se perciban.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-La Secretaría en representación del Jefe de Gobierno del Distrito Federal, podrá celebrar convenios de colaboración administrativa con los Estados y municipios, en las materias de verificación, determinación y recaudación de las contribuciones.
+La Secretaría en representación del Jefe de Gobierno del Distrito Federal, podrá celebrar convenios de colaboración administrativa con los Estados y Municipios, en las materias de verificación, determinación y recaudación de las contribuciones, así como para la notificación de créditos fiscales y aplicación del procedimiento administrativo de ejecución.
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1516,7 +1524,9 @@ De toda visita de verificación o inspección se levantará acta circunstanciada
 
 Cuando con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales conozcan de la comisión de una o varias infracciones que originen la omisión total o parcial en el pago de las contribuciones establecidas en este Código, procederán a determinar el crédito fiscal que resulte a cargo del contribuyente, motivando la resolución con base en los hechos u omisiones consignadas en las actas u oficio de observaciones que al efecto se hayan levantado.
 
-Dicha resolución deberá emitirse dentro de 90 días contados a partir del siguiente al levantamiento del acta final, o del día siguiente al vencimiento del plazo previsto por la fracción V del artículo 84, de este Código, según corresponda.
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
+
+Dicha resolución deberá emitirse y notificarse dentro de 90 días contados a partir del día siguiente al levantamiento del acta final, o del día siguiente al vencimiento del plazo previsto por la fracción V del artículo 84, de este Código, según corresponda.
 
 En el caso de que concluida la visita domiciliaria, y una vez que la autoridad fiscal no conozca de la comisión de alguna infracción que origine la omisión total o parcial en el pago de las contribuciones establecidas en este Código, ésta comunicará por escrito al contribuyente esa situación, dentro de los cinco días hábiles siguientes.
 
@@ -1620,9 +1630,11 @@ a) Determinada la irregularidad, se le notificará por oficio al Contador Públi
 
 b) Agotada la fase anterior, con vista en los elementos que obren en el expediente, la Secretaría emitirá la resolución que proceda.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 89.
 
-Las facultades de las autoridades para determinar créditos fiscales derivados de contribuciones omitidas y sus accesorios; para imponer sanciones por infracciones a las disposiciones de este Código, así como determinar responsabilidades resarcitorias, se extinguirán en el plazo de cinco años contado a partir del día siguiente a aquél en que:
+Las facultades de las autoridades para determinar créditos fiscales derivados de contribuciones omitidas y sus accesorios; para imponer sanciones por infracciones a las disposiciones de este Código, así como determinar responsabilidades resarcitorias, se extinguirán en el plazo de tres años contados a partir del día siguiente a aquél en que:
 
 I. Se presentó la declaración del ejercicio, cuando se tenga obligación de hacerlo. En estos casos las facultades se extinguirán por ejercicios completos, incluyendo aquellas facultades relacionadas con la exigibilidad de obligaciones distintas de la de presentar la declaración del ejercicio. No obstante lo anterior, cuando se presenten declaraciones complementarias el plazo empezará a computarse a partir del día siguiente a aquél en que se presenten, por lo que hace a los conceptos modificados en relación a la última declaración de esa misma contribución en el ejercicio.
 
@@ -1636,9 +1648,9 @@ IV. Se hubiere cometido la conducta que causa el daño o perjuicio a la Hacienda
 
 El plazo señalado en éste artículo no estará sujeto a interrupción y sólo se suspenderá cuando se ejerza las facultades de comprobación de las autoridades fiscales.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal. La suspensión a que se refiere este párrafo estará condicionada a que, dentro de los ocho meses siguientes al inicio de las facultades de comprobación, se levante acta final, se emita oficio de observaciones o se dicte la resolución definitiva. De no cumplirse esta condición se entenderá que no hubo suspensión.
+El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal. La suspensión a que se refiere este párrafo estará condicionada a que dentro de los seis meses siguientes al inicio de las facultades de comprobación, se levante acta final, se emita oficio de observaciones o se dicte la resolución definitiva. De no cumplirse esta condición se entenderá que no hubo suspensión.
 
 Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido las facultades de las autoridades fiscales.
 
@@ -1660,9 +1672,11 @@ IV. Ostentar la firma autógrafa del funcionario competente que lo emite y, en s
 
 Si se trata de actos administrativos que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 92.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo que concierne a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señale este Código y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales del Distrito Federal, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo que concierne a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señale este Código y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales del Distrito Federal, a las autoridades judiciales en procesos del orden penal, a los tribunales competentes que conozcan de pensiones alimenticias o cuando la información deba proporcionarse en virtud de convenios de intercambio de información que la Secretaría suscriba.
 
 ###### ARTICULO 93.
 
@@ -1718,9 +1732,9 @@ VII. Realizar las demás actividades conducentes al logro de los fines señalado
 
 Para lograr lo anterior, las autoridades fiscales podrán promover que las organizaciones de los particulares y los colegios de profesionistas, designen delegados ante las mismas, para que se reúnan cada dos meses con el fin de que se resuelva la problemática operativa e inmediata que se presente en el cumplimiento de las obligaciones fiscales.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-ARTICULO 94 A.- La Secretaría mediante reglas de carácter general, podrá establecer programas de regularización fiscal para los contribuyentes en los que se podrán contemplar, en su caso, la condonación total o parcial de multas y recargos, así como facilidades administrativas.
+ARTICULO 94 A.- La Secretaría mediante reglas de carácter general, podrá establecer programas de regularización fiscal para los contribuyentes en los que se podrán contemplar, en su caso, la condonación total o parcial de multas, gastos de ejecución y recargos, así como facilidades administrativas.
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2494,11 +2508,13 @@ No se pagará el impuesto predial por los siguientes inmuebles:
 
 I. Los de propiedad del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2000)</small>
 
-I Bis. Los de propiedad de organismos descentralizados de la Administración Pública del Distrito Federal, utilizados en las actividades específicas que tengan encomendadas conforme a sus respectivos objetos, exceptuando aquellos que utilicen para oficinas administrativas o, en general, para propósitos distintos a los de su objeto;
+I Bis. Los de propiedad de organismos descentralizados de la Administración Pública del Distrito Federal, utilizados en las actividades específicas que tengan encomendadas conforme a sus respectivos objetos, exceptuando aquellos que sean utilizados por dichos organismos o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto;
 
-II. Los del dominio público de la Federación, incluyendo los de organismos descentralizados en los términos de la fracción VI del artículo 34 de la Ley General de Bienes Nacionales;
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2000)</small>
+
+II. Los del dominio público de la Federación, incluyendo los de organismos descentralizados en los términos de la fracción VI del artículo 34 de la Ley General de Bienes Nacionales, salvo que tales bienes sean utilizados por entidades paraestatales o particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto;
 
 III. Las pistas y predios accesorios, andenes y torres de control de los aeropuertos federales; los andenes y vías férreas;
 
@@ -2509,6 +2525,10 @@ V. Los predios que sean ejidos o constituyan bienes comunales, explotados totalm
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
 Anualmente deberá solicitarse a la autoridad fiscal la declaración de exención del impuesto predial.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+No se causará el impuesto predial respecto de los inmuebles propiedad de representaciones diplomáticas de Estados Extranjeros acreditadas en nuestro país en términos de la Convención de Viena sobre Relaciones Diplomáticas y, en su caso, de la Convención de Viena sobre Relaciones Consulares.
 
 ### CAPITULO III. Del Impuesto sobre Espectáculos Públicos
 
@@ -2858,9 +2878,9 @@ El impuesto sobre nóminas se determinará, aplicando la tasa del 2% sobre el mo
 
 El Impuesto sobre nóminas se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado y se pagará mediante declaración, en la forma oficial aprobada, que deberá presentarse a más tardar el día quince del mes siguiente.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-Los contribuyentes del impuesto sobre nóminas, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al padrón.
+Los contribuyentes del impuesto sobre nóminas, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al padrón o de suspensión temporal de actividades.
 
 ###### ARTICULO 181.
 
@@ -2990,9 +3010,9 @@ ARTICULO 186 C.- Los contribuyentes calcularán el impuesto a la prestación de 
 
 En el caso de que un contribuyente cuente con dos o más inmuebles para servicios de hospedaje, deberá presentar la declaración a que se refiere el párrafo anterior respecto de cada uno de ellos, a excepción de los inmuebles colindantes por los que se presentará una sola declaración.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-Los contribuyentes del impuesto por la prestación de servicios de hospedaje, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al padrón.
+Los contribuyentes del impuesto por la prestación de servicios de hospedaje, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al padrón o de suspensión temporal de actividades.
 
 ### CAPITULO VIII. De las Contribuciones de Mejoras
 
@@ -5380,13 +5400,13 @@ No se estará obligado al pago establecido en esta Sección, cuando se usen o go
 
 Quedan exceptuadas de esta Sección, las concesiones y permisos administrativos temporales revocables, que se otorguen y se cubran conforme a lo establecido en la Ley del Régimen Patrimonial y del Servicio Público.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
 #### Sección Décima. De los Derechos por Servicios de Almacenaje
 
 ###### ARTICULO 259.
 
-Para los efectos del artículo anterior, el valor del inmueble del Distrito Federal será el que determine la autoridad, mediante avalúo practicado por la Comisión de Avalúos de Bienes del Distrito Federal, conforme a las reglas generales de valuación que al efecto se emitan.
+Para los efectos del artículo anterior, el valor del inmueble del Distrito Federal será el que determine la autoridad, mediante avalúo practicado por la Dirección General de Avalúos de Bienes.
 
 #### Sección Décima Primera. De los Derechos por Servicio de Publicaciones
 
@@ -5726,6 +5746,8 @@ ARTICULO 256 C.- La revisión de datos y levantamientos topográficos, cartograf
 
 Se excluye de la prestación de estos servicios, la información respecto de la que el personal oficial debe guardar absoluta reserva, en los términos del artículo 92 de este Código.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 19 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 272.
 
 Dicha Secretaría deberá preparar los informes trimestrales y el informe anual sobre el ejercicio de los recursos crediticios, a efecto de presentar los informes correspondientes a la Asamblea y al Presidente de la República respectivamente, así como para la elaboración de las cuentas públicas.
@@ -5742,9 +5764,45 @@ Para determinar las necesidades de endeudamiento neto, tanto interno como extern
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-#### Sección Primera. De los Derechos por el Estacionamiento de Vehículos
+#### Sección Décima Novena. De los derechos por la prestación del servicio de valuación
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 256 D.- Las personas físicas y morales que requieran para el cumplimiento de sus obligaciones fiscales, del Avalúo de bienes muebles que practica la Dirección General de Avalúos de Bienes, pagarán derechos conforme a la siguiente tarifa:
+
+Rango según valor comercial
+
+Límite Límite Cuota o
+
+inferior superior factor a
+
+aplicar
+
+Hasta 200,000 $500
+
+200,001 1,000,000 0.0025
+
+1,000,001 1,250,000 $2,500
+
+1,250,001 3,000,000 0.002
+
+3,000,001 3,333,000 $6,000
+
+3,333,001 5,000,000 0.0018
+
+5,000.001 6,000,000 $9,000
+
+6,000,001 10,000,000 0.0015
+
+10,000,001 11,538,000 $15,000
+
+11,538,001 15,000,000 0.0013
+
+15,000,001 19,500,000 $19,500
+
+19,500,001 25,000,000 0.001
+
+25,000,001 En adelante 0.0009
 
 ###### ARTICULO 275.
 
@@ -5758,13 +5816,13 @@ Para efectos del artículo anterior, las entidades y dependencias de la Administ
 
 La Secretaría incluirá en el Presupuesto de Egresos del Distrito Federal, el monto de las partidas destinadas a satisfacer los compromisos derivados de la contratación de financiamientos.
 
-#### Sección Segunda. De los Derechos por el Uso o Aprovechamiento de Inmuebles
+#### Sección Primera. De los Derechos por el Estacionamiento de Vehículos
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO X. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
-#### Sección Tercera. Del derecho por el uso de los Centros de Transferencia Modal
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+#### Sección Segunda. De los Derechos por el Uso o Aprovechamiento de Inmuebles
 
 ###### ARTICULO 278.
 
@@ -5772,11 +5830,11 @@ La Secretaría llevará los registros de los financiamientos contratados, confor
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
+#### Sección Tercera. Del derecho por el uso de los Centros de Transferencia Modal
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+
 #### Sección Cuarta. Derechos de Descarga a la Red de Drenaje
-
-#### Sección Primera. De la Recepción y Concentración de Fondos y Valores
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 279.
 
@@ -5798,7 +5856,9 @@ Se considerarán como ingresos locales del Distrito Federal los derivados del Si
 
 Las multas que perciba el Distrito Federal como consecuencia de actos regulados por la Ley, Acuerdos o Convenios de Coordinación Fiscal, Acuerdos Administrativos y cualquier otro instrumento jurídico, podrán ser destinadas a los fines y en los montos que la Secretaría determine, mediante acuerdo de carácter administrativo para elevar la productividad.
 
-#### Sección Segunda. De la Custodia y Administración de Fondos y Valores
+#### Sección Primera. De la Recepción y Concentración de Fondos y Valores
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 282.
 
@@ -5807,6 +5867,10 @@ Los ingresos que perciba el Distrito Federal derivados del procedimiento adminis
 ###### ARTICULO 283.
 
 Los ingresos a que se refiere el artículo anterior deberán ser puestos dentro de los tres días siguientes a la recepción de los mismos por parte de la autoridad fiscal, a disposición de la víctima u ofendido señalado en la sentencia ejecutoriada. En caso de que dichos ingresos no se reintegren en el plazo señalado, la autoridad fiscal pagará intereses conforme a una tasa, que será igual a la prevista para recargos por la falta de pago oportuno, establecida en este Código, contados a partir de la fecha en que se percibió el ingreso y hasta el momento de su entrega.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 283 A.- La Secretaría dentro de los diez días siguientes a la recepción de los donativos en efectivo que se realicen a las dependencias, órganos desconcentrados o entidades, les entregará a éstas dichos donativos, según corresponda.
 
 ###### ARTICULO 284.
 
@@ -5830,9 +5894,7 @@ II. Los auxiliares a que se refiere el artículo siguiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 1995)</small>
 
-#### Sección Primera
-
-De los Anteproyectos de las Dependencias y Organos Desconcentrados.
+#### Sección Segunda. De la Custodia y Administración de Fondos y Valores
 
 ### CAPITULO XI. De las Reducciones
 
@@ -5866,13 +5928,19 @@ II. Que sean inmuebles ubicados dentro del área urbana del Distrito Federal des
 
 III. En el caso de construcciones de vivienda plurifamiliar que tengan más de dos niveles, además de cumplir con lo dispuesto en las fracciones I y II de este artículo, deberán presentar dictamen de seguridad estructural suscrito por un Director Responsable de Obra o por un Corresponsable en Seguridad Estructural, según corresponda de conformidad con el Reglamento de Construcciones para el Distrito Federal, acompañando dos juegos de los planos arquitectónicos (plantas, corte y fachada).
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2000)</small>
 
-ARTICULO 265 D.- Los propietarios o adquirentes de los inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia o por el Instituto Nacional de Bellas Artes, y que los sometan a una restauración o remodelación, tendrán derecho a una reducción equivalente al 100%, respecto de las contribuciones a que se refieren los artículos 148, 156, 204 B, 206, 208 y 246, así como los derechos establecidos en el Capitulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+ARTICULO 265 D.- Los propietarios o adquirentes de los inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia o por el Instituto Nacional de Bellas Artes, y que los sometan a una restauración o remodelación, tendrán derecho a una reducción equivalente al 100%, respecto de las contribuciones a que se refieren los artículos 148, 156, 204 B, 206, 207, 208 y 246, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 Para la obtención de la reducción contenida en este artículo, los contribuyentes deberán presentar el Certificado Provisional de Restauración o, en su caso, la prórroga del referido Certificado, emitidos previamente por la Secretaría de Desarrollo Urbano y Vivienda, y acreditar que el monto de la inversión es superior a $300,000.00.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+
 La reducción por concepto del Impuesto Predial, procederá sólo por el plazo que dure la remodelación o restauración del inmueble correspondiente.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 Las reducciones que se otorguen con base en este precepto, no excederán la tercera parte de la inversión realizada, y tendrán efectos provisionales hasta en tanto el contribuyente exhiba el Certificado Definitivo de Restauración, con el que se acredite el término de la restauración o remodelación respectiva.
 
@@ -5888,13 +5956,19 @@ II. Un comprobante a satisfacción de la autoridad, que acredite que el inmueble
 
 III. La declaración fiscal que corresponda.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2000)</small>
 
-ARTICULO 265 F.- Las personas que dentro de los perímetros "A" y "B" del Centro Histórico, tengan por objeto desarrollar nuevos proyectos inmobiliarios de servicios o comerciales, o la reparación de inmuebles para desarrollos inmobiliarios de servicios o comerciales, tendrán derecho a una reducción equivalente al 80%, respecto de las contribuciones a que se refieren los artículos 204, 204 B, 206, 207 A, 208, 244, 245 y 246, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+ARTICULO 265 F.- Las personas que dentro de los perímetros "A" y "B" del Centro Histórico, tengan por objeto desarrollar nuevos proyectos inmobiliarios preponderantemente de servicios o comerciales, o la reparación y rehabilitación de inmuebles para desarrollos inmobiliarios preponderantemente de servicios o comerciales, tendrán derecho a una reducción equivalente al 100%, respecto de las contribuciones a que se refieren los artículos 204, 204 B, 206, 207, 207 A, 208, 244, 245 y 246, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 Por lo que se refiere a los Derechos por los Servicios de Construcción y Operación Hidráulica, la reducción se aplicará únicamente por lo que hace a la instalación.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+
 Para la obtención de la reducción contenida en este artículo, los contribuyentes deberán presentar el Certificado que emita la Secretaría de Desarrollo Urbano y Vivienda, en el que conste el nombre de la persona que desarrolla el proyecto.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 La reducción a que se refiere este precepto, tendrá efectos provisionales, hasta en tanto el contribuyente exhiba la Constancia emitida por la Secretaría de Desarrollo Urbano y Vivienda, con la que se acredite que la construcción se realizó conforme a lo inicialmente manifestado.
 
@@ -5908,27 +5982,91 @@ Para la obtención de la reducción a que se refiere este artículo, los contrib
 
 ARTICULO 265 H.- Las empresas o instituciones que apoyen programas de mejoramiento de condiciones ambientales, tendrán derecho a una reducción equivalente al 50%, respecto del Impuesto sobre Nóminas.
 
-Las empresas o instituciones a que se refiere este artículo, deberán acreditar que ejecutan programas para el mejoramiento de las condiciones ambientales, con una constancia expedida por la Secretaría del Medio Ambiente, en la que se precise el tipo de programas que realizan y los beneficios que representan para mejorar el medio ambiente, así como la tecnología que aplican para fomentar la preservación, restablecimiento y mejoramiento ambiental del Distrito Federal.
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+Las empresas de servicios e industriales ubicadas en el Distrito Federal que adquieran, instalen y operen tecnologías, sistemas, equipos y materiales o realicen acciones que acrediten prevenir o reducir las emisiones contaminantes establecidos por las normas oficiales mexicanas y las ambientales para el Distrito Federal, podrán obtener una reducción de hasta el 25% del Impuesto Predial.
 
-ARTICULO 265 I.- Las empresas que acrediten que iniciaron operaciones empresariales, tendrán derecho a una reducción equivalente al 50%, respecto del Impuesto sobre Nóminas.
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-Para lo anterior, se deberá presentar una constancia de la Secretaría de Desarrollo Económico en la que se manifieste la creación de empleos productivos y su número.
+Las empresas o instituciones a que se refiere este artículo, para efectos de las reducciones, deberán presentar una constancia expedida por la Secretaría del Medio Ambiente, en la que se precise el tipo de programas que realizan y los beneficios que representan para mejorar el medio ambiente, así como la tecnología que aplican para fomentar la preservación, restablecimiento y mejoramiento ambiental del Distrito Federal, o bien, con la que se acredite que realizan las actividades a que se refiere el párrafo segundo de este artículo. Además para la reducción del Impuesto Predial se deberá presentar la evaluación de emisiones de contaminantes.
 
-La reducción a que se refiere este artículo, se aplicará sólo durante el primer ejercicio de actividades de la empresa, durante el cual deberán de llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará Impuestos sobre Nóminas y los conceptos por los que se efectuaron tales erogaciones.
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+La reducción por concepto del Impuesto sobre Nóminas se aplicará durante el periodo de un año, contado a partir de la fecha de expedición de la constancia respectiva, y la correspondiente al Impuesto Predial se aplicará durante el tiempo que se acredite la prevención o reducción de los niveles de contaminantes.
 
-ARTICULO 265 J.- Las empresas que establezcan relaciones laborales con personas con discapacidad, tendrán derecho a una reducción equivalente al 75%, respecto del Impuesto sobre Nóminas.
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 265 I.- Las empresas que anualmente incrementen en un 25% su planta laboral y las que inicien operaciones, tendrán derecho a una reducción equivalente al 50%, respecto del Impuesto sobre Nóminas.
+
+La reducción para las empresas que anualmente incrementen en un 25% su planta laboral, se aplicará a partir del ejercicio fiscal en que acrediten el incremento anual, y la reducción únicamente se aplicará respecto de las erogaciones que se realicen en virtud del 25% adicional de empleos.
+
+La reducción para las empresas que acrediten que iniciaron operaciones empresariales, se aplicará sólo durante el primer ejercicio de actividades de la empresa.
+
+Asimismo, las empresas que regularicen su inscripción al padrón del Impuesto sobre Nóminas, tendrán derecho a una reducción equivalente al 50%, respecto de ese Impuesto, por el período de un año a partir de que acrediten su regularización al referido padrón.
+
+Para la obtención de las reducciones contenidas en este artículo, las empresas deberán:
+
+I. Presentar una constancia expedida por la Secretaría de Desarrollo Económico, por la que se acredite el incremento anual del 25% de empleos o el inicio de operaciones, según sea el caso y tratándose de la regularización al padrón del Impuesto sobre Nóminas, se deberá presentar una constancia de la Tesorería del Distrito Federal.
+
+II. Llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los que se efectuaron tales erogaciones, y
+
+III. Acreditar, en el caso de las empresas que anualmente incrementen en un 25% su planta laboral, que los trabajadores que contraten no hayan tenido una relación laboral con la empresa de que se trate, con su controladora o con sus filiales.
+
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 265 J.- A las empresas que se ubiquen en los siguientes supuestos, se les aplicarán reducciones por los conceptos y porcentajes que se señalan a continuación:
+
+I. Las empresas que establezcan relaciones laborales con personas con discapacidad, tendrán derecho a una reducción equivalente al 75%, respecto del Impuesto sobre Nóminas.
 
 Las empresas que contraten a personas con discapacidad, para obtener la reducción, deberán acompañar a la primera declaración para pagar el Impuesto sobre Nóminas, que se cause con motivo de la contratación de las personas discapacitadas, lo siguiente:
 
-I. Una manifestación del contribuyente en el sentido de que tiene establecida una relación laboral con personas con discapacidad, expresando el nombre de cada una de ellas y las condiciones de dicha relación, y
+a). Una manifestación del contribuyente en el sentido de que tiene establecida una relación laboral con personas con discapacidad, expresando el nombre de cada una de ellas y las condiciones de dicha relación, y
 
-II. Certificado que acredite una incapacidad parcial permanente, expedido por el Instituto Mexicano del Seguro Social, o el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, conforme a sus respectivas leyes, o del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, tratándose de incapacidades congénitas o de nacimiento.
+b). Certificado que acredite una incapacidad parcial permanente, expedido por el Instituto Mexicano del Seguro Social, o el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, conforme a sus respectivas leyes, o del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, tratándose de incapacidades congénitas o de nacimiento.
 
-La reducción a que se refiere el primer párrafo de este artículo, se podrá incrementar a un 100%, en el caso de que la empresa, además de acreditar la contratación de personas con discapacidad, demuestre con la documentación correspondiente, que ha llevado a cabo adaptaciones, eliminación de barretas físicas o rediseño de sus áreas de trabajo.
+La reducción a que se refiere la fracción I de este artículo, se podrá incrementar a un 100%, en el caso de que la empresa, además de acreditar la contratación de personas con discapacidad, demuestre con la documentación correspondiente, que ha llevado a cabo adaptaciones, eliminación de barretas físicas o rediseño de sus áreas de trabajo.
+
+II. Las empresas industriales instaladas en el Distrito Federal que sustituyan al menos el 50% del valor de materias primas importadas por insumos de producción local, tendrán derecho a una reducción equivalente al 50% por concepto del Impuesto sobre Nóminas.
+
+Los contribuyentes para obtener la reducción, deberán presentar una constancia emitida por la Secretaría de Desarrollo Económico, con la que se acredite la sustitución de importaciones.
+
+La reducción a que se refiere esta fracción, se aplicará durante el periodo de un año, contado a partir del periodo siguiente a que se haya emitido la constancia, y además la empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los que se efectuaron tales erogaciones.
+
+III. Las empresas que realicen inversiones en equipamiento e infraestructura para la sustitución de agua potable por agua residual tratada en sus procesos productivos, incluyendo la instalación de la toma, tendrán derecho a una reducción equivalente al 100% de los Derechos por el Suministro de Agua a que se refiere el artículo 197 de este Código.
+
+Para la obtención de la reducción, los contribuyentes deberán presentar la constancia emitida por la Comisión de Aguas del Distrito Federal, en la que se haga constar la utilización del agua residual tratada.
+
+La reducción a que se refiere el párrafo anterior, se aplicará a partir del periodo de pago inmediato posterior a que se haya emitido la constancia y hasta por un año.
+
+IV. Las micro, pequeñas y medianas empresas industriales, que comprueben haber llevado a cabo la adquisición o arrendamiento de maquinaria y equipo que incremente la capacidad instalada de la empresa, tendrán derecho a una reducción equivalente al 25% por concepto del Impuesto Predial.
+
+Los contribuyentes para obtener la reducción a que se refiere esta fracción, deberán presentar una constancia emitida por la Secretaría de Desarrollo Económico, con la que se acredite, en el caso de las micro industrias, que realizaron una inversión adicional de por lo menos 3,500 días de salario mínimo general vigente en el Distrito Federal; en el caso de las pequeñas industrias, de por lo menos 5,200 días de salario mínimo general vigente en el Distrito Federal, y en el caso de industrias medianas, de por lo menos 7,000 días de salario mínimo general vigente en el Distrito Federal.
+
+La reducción del 25% por concepto del Impuesto Predial, se aplicará a partir del bimestre siguiente a que se haya emitido la constancia, y hasta por el periodo de un año.
+
+V. Las empresas de producción agropecuaria o agroindustrial que realicen inversiones adicionales en maquinaria o equipo de por lo menos 3,000 días de salario mínimo general vigente en el Distrito Federal, tendrán derecho a una reducción equivalente al 50% por concepto del Impuesto Predial, para lo cual deberán presentar una constancia emitida por (sic) Secretaría de Desarrollo Económico.
+
+La reducción se aplicará durante el periodo de un año contado a partir del bimestre siguiente a que se haya expedido la constancia.
+
+VI. Las empresas que acrediten que iniciaron operaciones en los sectores de alta tecnología, tendrán derecho a una reducción equivalente al 75% respecto del Impuesto sobre Nóminas, del 50% por concepto del Impuesto Predial y del 100% tratándose del Impuesto sobre Adquisición de Inmuebles.
+
+Para la obtención de la reducción a que se refiere esta fracción, las empresas deberán presentar una constancia de la Secretaría de Desarrollo Económico, con la que se acredite que la empresa de que se trate, tiene como objeto social la innovación y desarrollo de bienes y servicios de alta tecnología, en áreas como las relativas a desarrollo de procesos y productos de alta tecnología; incubación de empresas de alta tecnología; sistemas de control y automatización; desarrollo de nuevos materiales; tecnologías; informáticas; telecomunicaciones; robótica; biotecnología; nuevas tecnologías energéticas y energías renovables; tecnologías del agua; tecnología para el manejo de deshechos; sistemas de prevención y control de la contaminación y áreas afines.
+
+La reducción por concepto del Impuesto Predial e Impuesto sobre Nóminas, se aplicará durante el periodo de un año, contado a partir del periodo de pago siguiente a que se haya emitido la constancia, y tratándose de este último impuesto, además la empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los que se efectuaron tales erogaciones.
+
+A las empresas que se contemplan en esta fracción, ya no se les aplicará la reducción del Impuesto sobre Nóminas a que se refiere el artículo 265 I de este Código.
+
+VII. Las personas morales que se dediquen a la industria maquiladora de exportación y que adquieran un área de los espacios industriales construidos para tal fin por las entidades públicas o promotores privados, tendrán derecho a una reducción equivalente al 50%, respecto de Impuesto sobre Adquisición de Inmuebles y Derechos del Registro Público de la Propiedad y del Comercio.
+
+Los contribuyentes para obtener la reducción a que se refiere esta fracción, deberán acreditar mediante una constancia expedida por la Secretaría de Desarrollo Económico, que se dedican a la industria maquiladora de exportación y que pretenden adquirir un área de las que hace referencia el párrafo anterior.
+
+VIII. Las empresas que acrediten que realizan actividades de maquila de exportación, tendrán derecho a una reducción equivalente al 25% respecto del Impuesto sobre Nóminas.
+
+Para obtener la reducción a que se refiere esta fracción, los contribuyentes deberán presentar una constancia de la Secretaría de Desarrollo Económico, en la que se indique la actividad de maquila de exportación que se realiza.
+
+La reducción a la que se refiere este artículo, se aplicará durante un año, contado a partir de expedida la constancia, y la empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los cuales se efectuaron tales erogaciones.
+
+Las reducciones por concepto del Impuesto Predial que se regulan en este artículo, sólo se aplicarán respecto del inmueble donde se desarrollen las actividades motivo por el cual se reconoce la reducción.
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -6016,7 +6154,13 @@ La reducción por concepto de las contribuciones mencionadas en el primer párra
 
 ARTICULO 265 S.- Las entidades públicas y promotores privados que construyan espacios comerciales tales como plazas, bazares, corredores y mercados, o rehabiliten y adapten inmuebles para este fin en el Distrito Federal, cuyos locales sean enajenados a las personas físicas que en la actualidad ejerzan la actividad comercial en la vía pública de la Ciudad de México, tendrán derecho a una reducción equivalente al 50%, respecto de las contribuciones a que se refieren los artículos 156, 204 B, 206, 208 y 246, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
 
-Los contribuyentes a que se refiere este artículo, para obtener la reducción, deberán presentar una constancia expedida por la Secretaría de Desarrollo Económico, con la que se acredite la participación en el Programa de Mejoramiento del Comercio Popular, así como la constancia expedida por la Secretaría de Desarrollo Urbano y Vivienda, en la que se apruebe el proyecto de construcción del espacio comercial, y acreditar que los predios donde se pretende realizar el proyecto, se encuentran regularizados en cuanto a la propiedad de los mismos.
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+Las reducciones a que se refiere el párrafo anterior, también se aplicarán a las entidades públicas y promotores privados que construyan espacios industriales como miniparques y corredores industriales o habiliten y adapten inmuebles para este fin en el Distrito Federal, para enajenarlos a personas físicas o morales que ejerzan actividades de maquila de exportación.
+
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
+
+Los contribuyentes a que se refiere este artículo, para obtener la reducción deberán presentar una constancia expedida por la Secretaría de Desarrollo Económico, con la que se acredite la participación en el Programa de Mejoramiento del Comercio Popular, o bien, con la que se acredite la construcción de espacios industriales como miniparques y corredores industriales, o los habiliten y adapten para ese fin, así como la constancia expedida por la Secretaría de Desarrollo Urbano y Vivienda, en la que se apruebe el proyecto de construcción de que se trate, y acreditar que los predios donde se pretende realizar el proyecto, se encuentran regularizados en cuanto a la propiedad de los mismos.
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -6044,21 +6188,31 @@ IV. La donación que se realice no dará derecho a devolución de bienes.
 
 Asimismo, las personas físicas o morales que aporten recursos de su patrimonio para la realización de las obras a que se refiere este artículo o cualesquiera otras obras sociales en el Distrito Federal, deberán realizar la aportación por conducto de la Secretaría, la cual les entregará el comprobante correspondiente. Estos recursos se destinarán a las citadas obras, mismas que se especificarán en los convenios respectivos, en los cuales también se incluirán, en su caso, las aportaciones a que se comprometa el Gobierno del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2000)</small>
 
-ARTICULO 265 V.- Los organismos descentralizados, fideicomisos públicos, promotores públicos, sociales y privados, que desarrollen proyectos relacionados con vivienda de interés social o vivienda popular, tendrán derecho a una reducción equivalente al 100% y 80%, respectivamente, respecto de las contribuciones a que se refieren los artículos 156, 204, 204 B, 206, 207, 207 A, 208, 244, 245 y 253, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+ARTICULO 265 V.- Los organismos descentralizados, fideicomisos públicos, promotores públicos, sociales y privados, que desarrollen proyectos relacionados con vivienda de interés social o vivienda popular, tendrán derecho a una reducción equivalente al 100% y 80%, respectivamente, respecto de las contribuciones a que se refieren los artículos 156, 204, 204 B, 206, 207, 207 A, 208, 244, 245, 246 y 253, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 Por lo que se refiere a los Derechos por los Servicios de Construcción y Operación Hidráulica, contenidos en el artículo 204 de este Código, la reducción se aplicará únicamente por lo que hace a la instalación.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+
 Para obtener las reducciones a que refiere el párrafo primero de este artículo, los contribuyentes deberán presentar la Constancia emitida por la Secretaría de Desarrollo Urbano y Vivienda, en la que se indique su calidad de promotor de las referidas viviendas.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 Los organismos y fideicomisos públicos de vivienda del Distrito Federal, tendrán derecho a una reducción equivalente al 100% por concepto del impuesto predial, respecto de los inmuebles que hayan sido objeto de una expropiación, para destinarse a la realización de proyectos de vivienda de interés social o vivienda popular.
 
-> <small>(F. DE E., G.O. 21 DE ENERO DE 2000)</small>
+(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999) (F. DE E., G.O. 21 DE ENERO DE 2000)
 
 La reducción a que se refiere el párrafo anterior, sólo se aplicará a los adeudos anteriores a la expropiación, cuando no sea posible deducir el impuesto predial del pago indemnizatorio, por no existir un reclamante que acredite fehacientemente su derecho de propiedad.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+
 Para obtener la reducción por concepto del impuesto predial, los organismos y fideicomisos públicos de vivienda del Distrito Federal deberán acreditar esa circunstancia conforme a las disposiciones administrativas que se emitan al respecto.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 Las reducciones contenidas en este precepto, con excepción de la reducción al impuesto predial, tendrán efectos provisionales, hasta en tanto el contribuyente exhiba la Constancia emitida por la Secretaría de Desarrollo Urbano y Vivienda, con la que se acredite que los proyectos de construcción de vivienda de interés social y vivienda popular, se realizaron conforme a lo inicialmente manifestado.
 
@@ -6077,6 +6231,32 @@ Las personas a que se refiere este artículo, para obtener la reducción deberá
 (ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999) (F. DE E., G.O. 21 DE ENERO DE 2000)
 
 ARTICULO 265 Y.- Las reducciones contenidas en este Capítulo, se harán efectivas en las Administraciones Tributarias o, en su caso, ante la Comisión de Aguas del Distrito Federal, y se aplicarán sobre las contribuciones, en su caso, sobre el crédito fiscal actualizado, siempre que las contribuciones respectivas aún no hayan sido pagadas, y no procederá devolución respecto de las cantidades que se hayan pagado. Las reducciones también comprenderán los accesorios de las contribuciones en el mismo porcentaje.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 265 Z.- Las personas físicas y morales que adquieran un inmueble dentro de las zonas contempladas en los Programas Parciales, para ejecutar proyectos de desarrollo industrial, comercial, de servicios y de vivienda específicos, tendrán derecho a la reducción equivalente al 50% por concepto de Impuesto sobre Adquisición de Inmuebles e Impuesto Predial.
+
+Los contribuyentes para obtener la reducción, deberán presentar una constancia emitida por la Secretaría de Desarrollo Urbano y Vivienda, con la que se acredita la obtención de la autorización de uso de suelo correspondiente a una zona contemplada en los Programas Parciales. Asimismo, deberán presentar una constancia de la Secretaría de Desarrollo Económico, con la que se acredite el proyecto ejecutivo de inversión.
+
+La reducción por concepto del Impuesto Predial se aplicará durante el periodo de una año contado a partir del bimestre siguiente a la fecha de adquisición del inmueble de que se trate.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 265 A Bis.- Los propietarios de inmuebles que cuenten con árboles adultos y vivos en su superficie, tendrán derecho a una reducción equivalente al 25%, respecto del Impuesto Predial, siempre y cuando el arbolado ocupe cuando menos la tercera parte de la superficie de los predios edificados o la totalidad de los no edificados.
+
+Para la obtención de la reducción a que se refiere este artículo, los contribuyentes deberán presentar una constancia expedida por la Secretaría del Medio Ambiente con la que acredite que el predio objeto de la reducción cuenta con árboles adultos y vivos en su superficie y que éstos ocupan cuando menos la tercera parte de la superficie de los predios edificados o la totalidad de los no edificados.
+
+Esta reducción se aplicará a partir del bimestre siguiente a que se haya emitido la constancia, la cual tendrá vigencia de un año, por lo que cada año, en su caso, deberá presentarse una constancia para la aplicación de la reducción.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 265 B Bis.- Las personas físicas y morales que hayan enterado el Impuesto sobre Nóminas, en el ejercicio de 1999, y estén al corriente en su pagos en el año 2000, tendrán derecho a una reducción equivalente al 20% en el pago de los derechos establecidos en el artículo 212 A de este Código.
+
+Este beneficio podrá renovarse cada año y sólo podrá aplicarse durante el año siguiente al en que se pagó dicho impuesto.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 265 C Bis.- Las personas físicas y morales que en el Distrito Federal paguen dentro de los 30 días siguientes hábiles a la fecha de adquisición del vehículo, el Impuesto sobre la Adquisición de Vehículos Automotores Usados, mediante la declaración correspondiente a que se refiere el artículo 185 del propio Código, se les otorgará una reducción equivalente al 30% respecto (sic) los derechos por servicios de control vehicular, contemplados en el artículo 235, fracción VI, de este Código.
 
 ###### ARTICULO 287.
 
@@ -6126,9 +6306,37 @@ El servicio de recaudación consistirá en la recepción, custodia y concentraci
 
 La recaudación se efectuará en moneda nacional, dentro del territorio del Distrito Federal, aceptándose, únicamente como medios de pago, los previstos en este Código.
 
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 293.
 
-A fin de asegurar la recaudación de toda clase de créditos a favor del Distrito Federal, excepcionalmente la Secretaría podrá autorizar la dación en pago del producto de la venta de bienes, cuando sea la única forma que tenga el deudor para cumplir con sus obligaciones. La Secretaría mediante reglas de carácter general establecerá los requisitos para la aceptación de la dación en pago a que se refiere este artículo.
+A fin de asegurar la recaudación de toda clase de créditos a favor del Distrito Federal, la Secretaría podrá autorizar la dación en pago de bienes y servicios, cuando sea la única forma que tenga el deudor para cumplir con las obligaciones fiscales a su cargo.
+
+La aceptación de bienes o servicios suspenderá provisionalmente, a partir de la notificación de la resolución correspondiente, todos los actos tendientes al cobro del crédito respectivo, así como la actualización de éste y sus accesorios. Si no se formaliza la dación en pago o el deudor no presta los servicios ofrecidos en el plazo y condiciones establecidos, quedará sin efecto la suspensión del cobro del crédito, debiendo actualizarse las cantidades desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe.
+
+Tratándose de bienes muebles o inmuebles, se aceptará el valor del avalúo practicado por las personas autorizadas o autoridad fiscal competente, en los términos de lo dispuesto por el artículo 35 de este Código.
+
+En el caso de servicios, el deudor deberá promover que le sea adjudicada la contratación de los mismos, en apego a la Ley de Adquisiciones para el Distrito Federal, debiendo prestar el servicio en un plazo máximo de 18 meses contados a partir de la resolución de aceptación de la dación en pago.
+
+La dación en pago quedará formalizada y se tendrá por extinguido el crédito conforme a lo siguiente:
+
+I. Cuando se trate de bienes inmuebles, a la fecha de la firma de la escritura pública en que se transmita el dominio del bien al Gobierno del Distrito Federal, que se otorgará dentro de los 45 días hábiles siguientes a aquél en que se haya notificado la resolución de aceptación. Los gastos de escrituración y las contribuciones que origine la operación, serán por cuenta del deudor al que se le haya aceptado la dación en pago.
+
+II. Tratándose de bienes muebles, a la fecha de la firma del acta de entrega de los mismos que será dentro de los cinco días hábiles siguientes a aquél en que se haya notificado la aceptación.
+
+En el caso de que resulte algún gasto por la entrega del bien, corresponderá al deudor del crédito fiscal cubrirlo, así como las contribuciones que en su caso se generen.
+
+III. Respecto a los servicios, en la fecha que éstos sean efectivamente prestados. En caso de cumplimiento parcial se extinguirá proporcionalmente el crédito respectivo.
+
+Los bienes recibidos en dación en pago quedarán en custodia y administración de la Secretaría a partir de que ésta se formalice, a fin de que la misma, en su caso, los enajene por medio de licitación pública, subasta, remate o adjudicación directa, siempre que el precio no sea en cantidad menor a la del valor en que fueron recibidos, con adición de los gastos de administración o venta generados, excepto cuando el valor del avalúo actualizado sea menor, en cuyo caso éste será el precio mínimo de venta.
+
+Si en el plazo de 18 meses a partir de formalizada la dación en pago, no se han enajenado los bienes o determinado el destino de ellos, se pondrán a disposición de la autoridad correspondiente, con el objeto de incorporarlos al inventario de bienes del Patrimonio Inmobiliario del Distrito Federal, debiéndose tramitar la afectación en el Presupuesto de Egresos del Distrito Federal.
+
+El mismo procedimiento se llevará a cabo cuando se trate de adjudicaciones de bienes por créditos fiscales.
+
+Cuando por las características del inmueble dado en dación en pago, éste pueda ser ocupado para oficinas administrativas o por la naturaleza del bien raíz, exista la posibilidad de construir unidades habitacionales para los servidores públicos de la Secretaría, así como parques, unidades deportivas o centros de carácter social, para éstos, los bienes serán asignados a la Secretaría.
+
+La aceptación o negativa de la solicitud de dación en pago se emitirá en un término que no excederá de 30 días hábiles, cuando se haya integrado debidamente el expediente, de no emitirse la resolución en dicho término se tendrá por negada.
 
 ###### ARTICULO 294.
 
@@ -6628,11 +6836,9 @@ Si las garantías se otorgaron con motivo de obligaciones contractuales, concurs
 
 4.- Cualquier otro que motive la efectividad de la garantía de conformidad con las normas de carácter administrativo, que emita la Secretaría.
 
-#### Sección Segunda
+#### Sección Primera
 
-De los Anteproyectos de las entidades.
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
+De los Anteproyectos de las Dependencias y Organos Desconcentrados.
 
 ###### ARTICULO 352.
 
@@ -6672,9 +6878,11 @@ El programa es un instrumento para la ejecución del Programa General de Desarro
 
 El Programa precisará el diagnóstico, líneas de estrategia, objetivos específicos, acciones, metas y prioridades del gobierno de la ciudad de manera integral, para la realización de los objetivos globales del desarrollo.
 
-#### Sección Tercera. De los Proyectos de los Órganos Autónomos, de la Comisión y del Tribunal Contencioso
+#### Sección Segunda
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+De los Anteproyectos de las entidades.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 358.
 
@@ -7050,9 +7258,7 @@ ARTICULO 393 B.- Para constituir, modificar o extinguir fideicomisos públicos, 
 
 Cuando los fideicomisos no cuenten con la autorización y registro de la Secretaría de Finanzas, procederá su extinción o liquidación.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-La participación que las dependencias, órganos desconcentrados y entidades tengan en fideicomisos no públicos, se sujetarán a las reglas de carácter general que expida la Secretaría.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 19 DE MAYO DE 2000)</small>
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -7554,9 +7760,9 @@ La Secretaría concentrará, revisará, integrará y controlará la información
 
 ### CAPITULO II. De la Preparación y Elaboración del Proyecto de Presupuesto
 
-#### Sección Primera
+#### Sección Tercera. De los Proyectos de los Órganos Autónomos, de la Comisión y del Tribunal Contencioso
 
-Del Ejercicio Presupuestal de las Dependencias y Organos Desconcentrados.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 442.
 
@@ -7568,9 +7774,9 @@ La Secretaría y sus auxiliares rendirán cuenta del manejo y administración de
 
 Los cuentadantes que dependan directamente de la Secretaría, deberán rendir la cuenta comprobada de las operaciones que hayan realizado durante el mes inmediato anterior, dentro del plazo que establezca la misma Secretaría. Los auxiliares que funjan como cuentadantes, tendrán para los mismos efectos, el plazo que establezca la mencionada unidad administrativa y en su defecto, el de diez días hábiles posteriores al mes al que corresponda la cuenta comprobada.
 
-#### Sección Segunda
+#### Sección Primera
 
-Del Ejercicio Presupuestal de las Entidades.
+Del Ejercicio Presupuestal de las Dependencias y Organos Desconcentrados.
 
 ###### ARTICULO 444.
 
@@ -7602,31 +7808,9 @@ Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes 
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 1995)</small>
 
-#### Sección Tercera. Del ejercicio presupuestal de los órganos político-administrativo
+#### Sección Segunda
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
-
-ARTICULO 415 A.- En la iniciativa de Decreto de Presupuesto de Egresos, el Jefe de Gobierno, deberá proponer a la Asamblea Legislativa asignaciones presupuestales para que las Delegaciones cumplan con el ejercicio de las actividades a su cargo, considerando los siguientes criterios:
-
-I. Población;
-
-II. Marginación;
-
-III. Infraestructura, y
-
-IV. Equipamiento urbano.
-
-Las Delegaciones informarán al Jefe de Gobierno del ejercicio de sus asignaciones presupuestarias para los efectos de la Cuenta Pública, de conformidad con lo que establece el Estatuto y este Código.
-
-Las Delegaciones ejercerán con autonomía de gestión sus presupuestos, observando los acuerdos administrativos de carácter general de la Administración Pública Central, así como lo que se regule en materia de coordinación con las Delegaciones.
-
-Las transferencias presupuestarias que no afecten programas prioritarios, serán decididas por el Jefe Delegacional, informando del ejercicio de esta atribución al Jefe de Gobierno de manera trimestral por conducto de la Secretaría.
-
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
-
-ARTICULO 415 B.- Los Jefes Delegacionales de conformidad con los ordenamientos legales aplicables, propondrán al Jefe de Gobierno los proyectos de Programas Operativos Anuales y de Presupuesto de la Delegación, sujetándose a las estimaciones de ingresos para el Distrito Federal.
-
-(REFORMADA, G.O. 31 DE DICIEMBRE DE 1999) (F. DE E., G.O. 21 DE ENERO DE 2000)
+Del Ejercicio Presupuestal de las Entidades.
 
 ###### ARTICULO 448.
 
@@ -7804,11 +7988,31 @@ Las solicitudes que con tal motivo formulen las dependencias, órganos desconcen
 
 ### CAPITULO II. Del Ejercicio del Gasto Público
 
-#### Sección Cuarta
+#### Sección Tercera. Del ejercicio presupuestal de los órganos político-administrativo
 
-Del ejercicio presupuestal de los órganos autónomos, de la Comisión y del Tribunal Contencioso.
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+ARTICULO 415 A.- En la iniciativa de Decreto de Presupuesto de Egresos, el Jefe de Gobierno, deberá proponer a la Asamblea Legislativa asignaciones presupuestales para que las Delegaciones cumplan con el ejercicio de las actividades a su cargo, considerando los siguientes criterios:
+
+I. Población;
+
+II. Marginación;
+
+III. Infraestructura, y
+
+IV. Equipamiento urbano.
+
+Las Delegaciones informarán al Jefe de Gobierno del ejercicio de sus asignaciones presupuestarias para los efectos de la Cuenta Pública, de conformidad con lo que establece el Estatuto y este Código.
+
+Las Delegaciones ejercerán con autonomía de gestión sus presupuestos, observando los acuerdos administrativos de carácter general de la Administración Pública Central, así como lo que se regule en materia de coordinación con las Delegaciones.
+
+Las transferencias presupuestarias que no afecten programas prioritarios, serán decididas por el Jefe Delegacional, informando del ejercicio de esta atribución al Jefe de Gobierno de manera trimestral por conducto de la Secretaría.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 415 B.- Los Jefes Delegacionales de conformidad con los ordenamientos legales aplicables, propondrán al Jefe de Gobierno los proyectos de Programas Operativos Anuales y de Presupuesto de la Delegación, sujetándose a las estimaciones de ingresos para el Distrito Federal.
+
+(REFORMADA, G.O. 31 DE DICIEMBRE DE 1999) (F. DE E., G.O. 21 DE ENERO DE 2000)
 
 ###### ARTICULO 465.
 
@@ -8078,75 +8282,11 @@ Las áreas competentes de los órganos a que se refiere el artículo 385 de este
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-#### Sección Quinta. Del Gasto Público por Servicios Personales
+#### Sección Cuarta
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+Del ejercicio presupuestal de los órganos autónomos, de la Comisión y del Tribunal Contencioso.
 
-ARTICULO 418 A.- La Oficialía Mayor será responsable de que se lleve un registro del personal al servicio de las dependencias, órganos desconcentrados y entidades que realicen gasto público y para tal efecto estará facultada para dictar las reglas correspondientes.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-ARTICULO 418 B.- El ejercicio del gasto público por concepto de servicios personales comprenderá:
-
-I. El establecimiento de compromisos a través de la expedición y autorización de Constancias de Nombramiento y Asignación de Remuneraciones, Listas de Raya, Contratos de Honorarios, Contratos Colectivos o Individuales y los documentos que tengan este carácter, y
-
-II. Los pagos de remuneraciones ordinarias, extraordinarias, y de seguridad social.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-ARTICULO 418 C.- Para que las dependencias, órganos desconcentrados y entidades lleven a cabo la contratación o nombramiento del personal a que se refiere el artículo anterior, deberán cumplir con los siguientes requisitos:
-
-I. Ajustarse al número de plazas o empleos consignados en sus presupuestos aprobados;
-
-II. Apegarse a las necesidades de personal que requiera el desarrollo de sus programas;
-
-III. Tratándose de personal que desempeñe otro o más cargos en las dependencias, órganos desconcentrados y entidades, verificar que estos cargos sean compatibles;
-
-IV. Que la correspondiente asignación de remuneraciones se sujete en su caso a los catálogos, tabuladores, cuotas y tarifas que expida la Oficialía Mayor, y
-
-V. Llevar un registro de su personal con base en el nombramiento, filiación y las normas que dicte la Oficialía Mayor de conformidad con el artículo 418 A de este Código.
-
-> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-VI.- Tratándose de contratos de honorarios se deberá ajustar al número de contratos y monto de los mismos, autorizados por la Oficialía Mayor, en atención a los presupuestos aprobados.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-ARTICULO 418 D.- La Oficialía Mayor estará facultada para dictar reglas de carácter general en las que se establezca:
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1997)</small>
-
-I. Los casos en que proceda aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las dependencias, órganos desconcentrados y entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. Los interesados podrán optar por el empleo o comisión que les convenga cuando se dictamine que sus empleos no son compatibles;
-
-II. Los requisitos para efectuar el pago de las remuneraciones al personal y para el ejercicio y pago de viáticos, y
-
-III. Los casos en que proceda la creación de nuevas plazas. Las reglas a que se refiere esta fracción deberá expedirlas conjuntamente con la Secretaría.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1997)</small>
-
-ARTICULO 418 E.- Cuando algún funcionario o servidor público pertenciente (sic) a las dependencias y órganos desconcentrados, fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, quien se haga cargo de los gastos de inhumación, percibirá hasta el importe de cuatro meses de los sueldos, salarios y haberes que estuviere percibiendo en esa fecha. Cuando el funcionario o empleado fallecido estuviere reconocido, conforme a las disposiciones legales respectivas, como Veterano de la Revolución, el beneficio se aumentará hasta el importe de seis meses de las percepciones mencionadas.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Con excepción del personal docente, las pagas de defunción sólo se cubrirán en una sola plaza, aún cuando la persona fallecida hubiese ocupado dos o más de éstas, en cuyo caso se cubrirán con base en la que tenga una mayor remuneración.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Para que se tenga derecho a las pagas de defunción es indispensable que la persona fallecida no se encuentre disfrutando de licencia sin goce de sueldo superior a tres meses, excepto cuando se trate de licencia por enfermedad.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-ARTICULO 418 F.- La acción para exigir el pago de las remuneraciones del personal dependiente del Gobierno del Distrito Federal, que a continuación se indican, prescribirá en un año contado a partir de la fecha en que sean devengadas o se tenga derecho a percibirlas:
-
-I. Los sueldos, salarios, honorarios, emolumentos, sobresueldos, compensaciones y demás remuneraciones del personal, y
-
-II. Las recompensas a cargo del Erario del Distrito Federal.
-
-La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-ARTICULO 418 G.- Las reglas de carácter general de creación de nuevas plazas, deberán establecer como condiciones para la creación, que se cuente con suficiencia presupuestal, así como la ampliación real de los servicios o incrementos en la producción de bienes y servicios, de conformidad con las metas de los programas institucionales y los lineamientos presupuestarios que dicte la Secretaría.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 484.
 
@@ -8262,7 +8402,75 @@ La información que para efectos de formulación de la cuenta pública deban pro
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1997)</small>
 
-#### Sección Primera. De los Derechos por el Suministro de Agua
+#### Sección Quinta. Del Gasto Público por Servicios Personales
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 418 A.- La Oficialía Mayor será responsable de que se lleve un registro del personal al servicio de las dependencias, órganos desconcentrados y entidades que realicen gasto público y para tal efecto estará facultada para dictar las reglas correspondientes.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 418 B.- El ejercicio del gasto público por concepto de servicios personales comprenderá:
+
+I. El establecimiento de compromisos a través de la expedición y autorización de Constancias de Nombramiento y Asignación de Remuneraciones, Listas de Raya, Contratos de Honorarios, Contratos Colectivos o Individuales y los documentos que tengan este carácter, y
+
+II. Los pagos de remuneraciones ordinarias, extraordinarias, y de seguridad social.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 418 C.- Para que las dependencias, órganos desconcentrados y entidades lleven a cabo la contratación o nombramiento del personal a que se refiere el artículo anterior, deberán cumplir con los siguientes requisitos:
+
+I. Ajustarse al número de plazas o empleos consignados en sus presupuestos aprobados;
+
+II. Apegarse a las necesidades de personal que requiera el desarrollo de sus programas;
+
+III. Tratándose de personal que desempeñe otro o más cargos en las dependencias, órganos desconcentrados y entidades, verificar que estos cargos sean compatibles;
+
+IV. Que la correspondiente asignación de remuneraciones se sujete en su caso a los catálogos, tabuladores, cuotas y tarifas que expida la Oficialía Mayor, y
+
+V. Llevar un registro de su personal con base en el nombramiento, filiación y las normas que dicte la Oficialía Mayor de conformidad con el artículo 418 A de este Código.
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+VI.- Tratándose de contratos de honorarios se deberá ajustar al número de contratos y monto de los mismos, autorizados por la Oficialía Mayor, en atención a los presupuestos aprobados.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 418 D.- La Oficialía Mayor estará facultada para dictar reglas de carácter general en las que se establezca:
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1997)</small>
+
+I. Los casos en que proceda aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las dependencias, órganos desconcentrados y entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. Los interesados podrán optar por el empleo o comisión que les convenga cuando se dictamine que sus empleos no son compatibles;
+
+II. Los requisitos para efectuar el pago de las remuneraciones al personal y para el ejercicio y pago de viáticos, y
+
+III. Los casos en que proceda la creación de nuevas plazas. Las reglas a que se refiere esta fracción deberá expedirlas conjuntamente con la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1997)</small>
+
+ARTICULO 418 E.- Cuando algún funcionario o servidor público pertenciente (sic) a las dependencias y órganos desconcentrados, fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, quien se haga cargo de los gastos de inhumación, percibirá hasta el importe de cuatro meses de los sueldos, salarios y haberes que estuviere percibiendo en esa fecha. Cuando el funcionario o empleado fallecido estuviere reconocido, conforme a las disposiciones legales respectivas, como Veterano de la Revolución, el beneficio se aumentará hasta el importe de seis meses de las percepciones mencionadas.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Con excepción del personal docente, las pagas de defunción sólo se cubrirán en una sola plaza, aún cuando la persona fallecida hubiese ocupado dos o más de éstas, en cuyo caso se cubrirán con base en la que tenga una mayor remuneración.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Para que se tenga derecho a las pagas de defunción es indispensable que la persona fallecida no se encuentre disfrutando de licencia sin goce de sueldo superior a tres meses, excepto cuando se trate de licencia por enfermedad.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 418 F.- La acción para exigir el pago de las remuneraciones del personal dependiente del Gobierno del Distrito Federal, que a continuación se indican, prescribirá en un año contado a partir de la fecha en que sean devengadas o se tenga derecho a percibirlas:
+
+I. Los sueldos, salarios, honorarios, emolumentos, sobresueldos, compensaciones y demás remuneraciones del personal, y
+
+II. Las recompensas a cargo del Erario del Distrito Federal.
+
+La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 418 G.- Las reglas de carácter general de creación de nuevas plazas, deberán establecer como condiciones para la creación, que se cuente con suficiencia presupuestal, así como la ampliación real de los servicios o incrementos en la producción de bienes y servicios, de conformidad con las metas de los programas institucionales y los lineamientos presupuestarios que dicte la Secretaría.
 
 ###### ARTICULO 488.
 
@@ -8276,7 +8484,7 @@ Las entidades que lleven a cabo el registro de sus operaciones financieras y pre
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-#### Sección Segunda. De los Servicios de Prevención y Control de la Contaminación Ambiental
+#### Sección Primera. De los Derechos por el Suministro de Agua
 
 ###### ARTICULO 490.
 
@@ -8304,7 +8512,7 @@ I. Aquéllos que de conformidad con otras leyes tengan obligación de guardar re
 
 II. Los que participen en las tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
 
-#### Sección Tercera. De los Servicios de Construcción y Operación Hidráulica
+#### Sección Segunda. De los Servicios de Prevención y Control de la Contaminación Ambiental
 
 ###### ARTICULO 494.
 
@@ -8918,6 +9126,24 @@ Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositari
 
 La autoridad administrativa a la que corresponda la tramitación de los procedimientos administrativos, adoptará las medidas necesarias para la celeridad, economía y eficacia de los mismos.
 
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 532 A.- Los procedimientos administrativos que regula este Código se regirán por los principios de legalidad, sencillez, celeridad, eficacia, publicidad, gratuidad y buena fe, en consecuencia:
+
+I. Se ajustarán estrictamente a las disposiciones de este Código;
+
+II. Sus trámites serán sencillos, evitando formulismos innecesarios;
+
+III. Deberán tramitarse y decidirse de manera pronta y expedita;
+
+IV. Se cuidará que alcancen sus finalidades y efectos legales;
+
+V. Las actuaciones serán públicas, salvo que la moral o el interés general exija que sean secretas;
+
+VI. Serán gratuitos, sin que pueda condenarse al pago de gastos y costas, y
+
+VII. Las autoridades administrativas y las partes interesadas se conducirán, en las promociones y actuaciones, con honradez, trasparencia (sic) y respeto.
+
 ### CAPITULO III. De los Catálogos de Cuentas y de la Contabilización de las Operaciones
 
 ###### ARTICULO 533.
@@ -8952,6 +9178,18 @@ II. Tener enemistad manifiesta o amistad estrecha con el interesado.
 
 III. Tener interés personal en el asunto.
 
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 536 A.- La autoridad administrativa acordará la acumulación de los expedientes del procedimiento administrativo que ante ella se siga, de oficio o a petición de parte, cuando las partes o los actos administrativos sean iguales, se trate de actos conexos o resulte conveniente el trámite unificado de los asuntos, para evitar la emisión de resoluciones contradictorias. La misma regla se aplicará, en lo conducente, para la separación de lo expedientes.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 536 B.- Cuando se destruyan o extravíen los expedientes o alguna de sus piezas, la autoridad administrativa ordenará, de oficio o a petición de parte, su reposición.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 536 C.- Sólo una vez puede pedirse la aclaración o adición de la resolución que ponga fin al procedimiento ante la autoridad administrativa que la hubiera dictado, dentro de los tres días siguientes a la notificación correspondiente, indicando los puntos que lo ameriten. La autoridad formulará la aclaración sin modificar los elementos esenciales de la resolución. El acuerdo que decida la aclaración o adición de una resolución, se considerará parte integrante de ésta. Se tendrá como fecha de notificación de la resolución, la correspondiente al día de notificación del acuerdo que decida la aclaración o adición de la misma.
+
 ###### ARTICULO 537.
 
 Las promociones que se presenten ante las autoridades administrativas, deberán estar firmadas por el interesado o por su representante legal, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
@@ -8962,7 +9200,9 @@ Cuando no existan formas aprobadas, el documento que se formule deberá presenta
 
 I. Constar por escrito, en español y sin tachaduras ni enmendaduras.
 
-II. El nombre, la denominación o razón social del promovente.
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2000)</small>
+
+II. El nombre, número telefónico, la denominación o razón social del promovente.
 
 III. Señalar la autoridad a la que se dirige y el propósito de la promoción.
 
@@ -8978,9 +9218,9 @@ V. En caso de promover a nombre de otra persona, acompañar el documento con el 
 
 VI. Anexar, en original o copia certificada la documentación en que se sustente la promoción respectiva.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
 
-Cuando no se cumplan los requisitos a que se refieren las fracciones I a la VI y respecto a la forma oficial a que se refiere este artículo, las autoridades requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
+Cuando no se cumplan los requisitos a que se refieren las fracciones I a la VI y respecto a la forma oficial a que se refiere este artículo, las autoridades requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido, salvo que el requisito que se omitió haya sido el número telefónico. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
 
 Los requisitos que se mencionan en las fracciones de este artículo, también son aplicables a las quejas o denuncias que se presenten, con excepción del apercibimiento y de la no presentación por la omisión respectiva, pues la sola presentación de la denuncia bastará para que la autoridad ejercite sus facultades de verificación.
 
@@ -9106,7 +9346,9 @@ Todo escrito de interposición del recurso deberá ser firmado por el recurrente
 
 II. El promovente deberá acompañar al escrito de interposición del recurso, ya sea en original o copia certificada ante notario o corredor público:
 
-a). Los documentos que acrediten la personalidad cuando actúe en nombre de otro o de personas morales;
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2000)</small>
+
+a). Los documentos que acrediten la personalidad cuando actúe en nombre de otro o de personas morales o, en su caso, la constancia de inscripción en el registro de representantes legales que lleve la autoridad fiscal, en los términos del artículo 539 de este Código;
 
 b). El documento en el que conste el acto impugnado;
 
@@ -9158,11 +9400,7 @@ VII Bis 1. Que sean conexos a otro que haya sido impugnado por medio de algún r
 
 VIII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1996)</small>
-
-ARTICULO 549 A.- Procederá la declaratoria de caducidad, cualquiera que sea el estado del recurso, si transcurridos doscientos días naturales, incluyendo los inhábiles y contados a partir de la fecha en que se haya realizado el último acto procesal, no hubiera promoción del recurrente.
-
-El término de la caducidad sólo se interrumpirá por promociones del recurrente o su representante legal, o por actos de los mismos realizados ante otra autoridad administrativa diversa siempre que tengan relación inmediata y directa con la instancia.
+ARTICULO 549 A.- (DEROGADO, G.O. 19 DE MAYO DE 2000)
 
 ###### ARTICULO 550.
 
@@ -9178,13 +9416,15 @@ II. Cuando durante la tramitación del recurso aparezca o sobrevenga alguna de l
 
 III. Por muerte o extinción del recurrente, ocurrida durante la tramitación del recurso, si su pretensión es intransferible o si con tales eventos deja sin materia el medio de defensa, y
 
-> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1996)</small>
-
-IV. Por caducidad del procedimiento.
+IV. (DEROGADA, G.O. 19 DE MAYO DE 2000)
 
 > <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 V. Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución recurrida.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+ARTICULO 550 A.- Las resoluciones serán claras, precisas y congruentes con las cuestiones planteadas por las partes o las derivadas del expediente del procedimiento administrativo.
 
 ###### ARTICULO 551.
 
@@ -9240,7 +9480,9 @@ El recurrente tendrá un plazo de 15 días, a partir del siguiente al en que la 
 
 III. La Procuraduría Fiscal para resolver el recurso administrativo estudiará los argumentos expresados contra la notificación, previamente al examen de la impugnación que haya hecho del acto administrativo.
 
-IV. Si se resuelve que no hubo notificación o que fue ilegal, se tendrá al recurrente como sabedor del acto impugnado desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado con base en aquélla, y se procederá al estudio de la impugnación en contra del acto administrativo.
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2000)</small>
+
+IV. Si se resuelve que no hubo notificación o que fue ilegal, la autoridad declarará la improcedencia de la notificación.
 
 Si se resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, se desechará dicho recurso.
 
@@ -9278,7 +9520,7 @@ c). Mandar a reponer el procedimiento administrativo.
 
 d). Revocar el acto impugnado, total o parcialmente, según corresponda, en el caso de que la revocación sea parcial, se precisará el monto del crédito fiscal que se deja sin efectos y el que subsiste.
 
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses aun cuando haya transcurrido el plazo para el ejercicio de las facultades de la autoridad, de acuerdo con la disposición aplicable.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 19 DE MAYO DE 2000)</small>
 
 # LIBRO QUINTO. DE LAS INFRACCIONES Y SANCIONES, RESPONSABILIDADES RESARCITORIAS Y DELITOS EN MATERIA DE HACIENDA PUBLICA
 
@@ -9628,6 +9870,8 @@ CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
 ### CAPITULO VIII. De las Contribuciones de Mejoras
 
+#### Sección Tercera. De los Servicios de Construcción y Operación Hidráulica
+
 #### Sección Cuarta. De los Servicios de Expedición de Licencias
 
 #### Sección Quinta. Del Registro Público de la Propiedad o del Comercio y del Archivo General de Notarías
@@ -9662,17 +9906,15 @@ Delegacional
 
 #### Sección Segunda. De los Derechos por el Uso de Aprovechamiento de Inmuebles
 
-#### Sección Tercera. Del Derecho por el Uso de Vías y Areas Públicas para el Ejercicio de Actividades Comerciales
-
 ### CAPITULO IX. De los Derechos por la Prestación de Servicios
+
+#### Sección Tercera. Del Derecho por el Uso de Vías y Areas Públicas para el Ejercicio de Actividades Comerciales
 
 #### Sección Cuarta. Derechos de Descarga a la Red de Drenaje
 
 #### Sección Primera. De la Recepción y Concentración de Fondos y Valores
 
 #### Sección Segunda. De la Custodia y Administración de Fondos y Valores
-
-#### Sección Primera. De los Anteproyectos de las Dependencias y Organos Desconcentrados
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION DE FONDOS Y DE LOS PAGOS
 
@@ -9694,9 +9936,9 @@ Delegacional
 
 ### CAPITULO I. Disposiciones Generales
 
-#### Sección Segunda. De los Anteproyectos de las Entidades
+#### Sección Primera. De los Anteproyectos de las Dependencias y Organos Desconcentrados
 
-#### Sección Tercera. De los Proyectos de la Asamblea, Tribunal, Comisión y Consejos de Ciudadanos
+#### Sección Segunda. De los Anteproyectos de las Entidades
 
 ### CAPITULO II. De la Recaudación
 
@@ -9748,11 +9990,11 @@ Patrimonial
 
 ### CAPITULO I. Disposiciones Generales
 
+#### Sección Tercera. De los Proyectos de la Asamblea, Tribunal, Comisión y Consejos de Ciudadanos
+
 #### Sección Primera. Del Ejercicio Presupuestal de las Dependencias y Organos Desconcentrados
 
 #### Sección Segunda. Del Ejercicio Presupuestal de las Entidades
-
-#### Sección Tercera. Del Ejercicio Presupuestal de la Asamblea, Tribunal, Comisión y Consejos de Ciudadanos
 
 ### CAPITULO II. De la Preparación y Elaboración del Proyecto de Presupuesto
 
@@ -9761,6 +10003,8 @@ Patrimonial
 ### CAPITULO III. De la Iniciativa de Decreto de Presupuesto de Egresos
 
 ### CAPITULO I. Disposiciones Generales
+
+#### Sección Tercera. Del Ejercicio Presupuestal de la Asamblea, Tribunal, Comisión y Consejos de Ciudadanos
 
 ### CAPITULO II. Del Ejercicio del Gasto Público
 
@@ -9800,7 +10044,7 @@ Patrimonial
 
 ### CAPITULO IV. De las Infracciones y Sanciones Relacionadas con la Contabilidad
 
-### CAPITULO V. De la Infracciones y Sanciones Relacionadas con Usuarios de Servicios, Fedetarios y Terceros
+### CAPITULO V. De la Infracciones y Sanciones Relacionadascon Usuarios de Servicios, Fedetarios y Terceros
 
 ### CAPITULO VI. De las Infracciones y Sanciones Relacionadas con las Facultades de Comprobación
 
@@ -10434,7 +10678,7 @@ tenga una altura de 6.01 a 15.00 metros.
 
 RU Se aplica a edificaciones sin una clara
 
-Rango distinción de niveles talescomo naves
+Rango distinción de niveles tales como naves
 
 Unico industriales, bodegas galerones, centros
 
@@ -11152,7 +11396,7 @@ Dicha clasificación es la siguiente:
 
 9: Colonia catastral que corresponde a áreas ubicadas en el suelo de conservación, con usos agrícola, forestal, pecuario, de reserva ecológica y/o explotación minera entre otros, con nulos o escasos servicios y equipamiento urbano distante.
 
-b). Colonia catastral tipo corredor de valor: Conjunto de inmuebles que por las características de uso al que se destinan, principalmente no habitacional, (tales como comercial, industrial, servicios, oficinas, entre otros, y/o mixtos -incluyendo habitacional-), y cuyo frente o frentes colindan con una vialidad pública del Distrito Federal, independientemente de su acceso o entrada principal, sea convertido en un corredor de valor con mayor actividad económica y mayor valor comercial del suelo respecto del predominante de la zona. el valor por metro cuadrado de suelo del corredor de valor se encuentra contenido en el presente Código Financiero.
+b).- Colonia catastral tipo corredor de valor: Conjunto de inmuebles que por las características de uso al que se destinan, principalmente no habitacional, (tales como comercial, industrial, servicios, oficinas, entre otros, y/o mixtos -incluyendo habitacional-), y cuyo frente o frentes colindan con una vialidad pública del Distrito Federal, independientemente de su acceso o entrada principal, sea convertido en un corredor de valor con mayor actividad económica y mayor valor comercial del suelo respecto del predominante de la zona. el valor por metro cuadrado de suelo del corredor de valor se encuentra contenido en el presente Código Financiero.
 
 Cada corredor está identificado con la letra C, seguida de dos dígitos, que corresponden a la delegación, y una literal progresiva.
 
@@ -11334,6 +11578,10 @@ Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia
 
 El presente Decreto entrará en vigor a partir del día primero de enero del año 2000.
 
+###### ARTICULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
 ###### ARTICULO TERCERO.
 
 Para efectos del artículo 267 A de este Código, las zonas permitidas a ocupar por los establecimientos mercantiles, serán las determinadas por las Reglas de Carácter General que señalan las cuotas aplicables para el comercio en la vía pública, y determinan las zonas y giros comerciales, así como la superficie máxima permitida a ocupar por los establecimientos mercantiles, a que se refiere el artículo 267 A del Código Financiero del Distrito Federal, publicadas en la Gaceta Oficial del Distrito Federal el 20 de enero de 1999, modificadas por Acuerdo publicado en el mismo Organo de Difusión el 18 de marzo de 1999, hasta en tanto se establezcan las nuevas.
@@ -11363,3 +11611,37 @@ La autoridad fiscal determinará y publicará las zonas en que se aplicará dich
 ###### ARTICULO SEPTIMO.
 
 A partir de la fecha en que entre en vigor el presente Decreto, quedan sin efecto las disposiciones, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general que contravengan lo establecido en este Decreto.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+###### ARTICULO OCTAVO.
+
+La presentación de los dictámenes para el cumplimiento de obligaciones fiscales relativos al ejercicio fiscal de 1999, se regirán en lo conducente, por el texto vigente a partir del 1º de enero del año 2000, de los artículos 64, fracción I Bis y 67 A del Código Financiero del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+###### ARTICULO NOVENO.
+
+La reforma efectuada al artículo 83, fracción VII, del Código Financiero del Distrito Federal, en relación al término de seis meses para la conclusión de las visitas domiciliarias, no será aplicable respecto de las visitas domiciliarias que no se hayan concluido antes del 31 de diciembre de 1999, por lo que éstas deberán concluir dentro del término de 8 meses.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+###### ARTICULO DECIMO.
+
+En el caso de las visitas domiciliarias concluidas al 31 de diciembre, el término de 90 días a que se refiere el párrafo segundo del artículo 85, del Código Financiero del Distrito Federal, se ampliará por una sola vez hasta por 250 días más.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2000)</small>
+
+###### ARTICULO DÉCIMO PRIMERO.
+
+Para los efectos de lo dispuesto en el artículo 50 B del Código Financiero del Distrito Federal, se considerará como mes más antiguo del periodo el de diciembre de 1999, tratándose de contribuciones y aprovechamientos que se actualicen a partir del año 2000 y que hayan sido exigibles con anterioridad a dicho año.
+
+G.O. 19 DE MAYO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTICULO TERCERO.
+
+El plazo y término de tres años a que se refieren el párrafo primero del artículo 58; el inciso h) de la fracción I del artículo 63, y el párrafo primero del artículo 89 de este Código, será aplicable a partir del día 1º. de enero del año 2001, entre tanto se continuará aplicando el plazo y término de 5 años a que se refieren dichas disposiciones.
