@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1989-12-27"
+last_updated: "1990-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1990.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -55,7 +55,7 @@ P.O. 30 DE NOVIEMBRE DE 1926.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO PRIMERO. DEL CONGRESO DEL ESTADO, DE SU ELECCION E INSTALACION
+### CAPITULO PRIMERO (SIC). DEL CONGRESO DEL ESTADO, DE SU ELECCION E INSTALACION
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -169,7 +169,7 @@ A) Los mexicanos por nacimiento o naturalización conforme a las leyes del País
 
 Pierde el derecho de ciudadano del Estado el que deje de ser ciudadano mexicano.
 
-### CAPITULO PRIMERO. DEL GOBERNADOR DEL ESTADO
+### CAPITULO PRIMERO (SIC). DEL GOBERNADOR DEL ESTADO
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -531,7 +531,7 @@ XXXVII.- Otorgar o negar su aprobación a los nombramientos de Magistrados del T
 
 XXXVIII.- Decidir sobre la legalidad o ilegalidad de las elecciones de los Ayuntamientos, cuando estas sean impugnadas, poniendo en conocimiento del Procurador General de Justicia los hechos que pudieran ser constitutivos de algún ilícito electoral.
 
-XXXIX.- Suspender hasta por tres meses previa garantía de audiencia, a los miembros de los Ayuntamientos por sí o a petición del Ejecutivo cuando sea indispensable hacerlo para la práctica de alguna averiguación, y en su caso, separarlos del cargo previa formación de causa, cuando abusen de sus facultades;
+XXXIX.- Suspender hasta por tres meses previa garantía de audiencia, a los miembros de los Ayuntamientos por si o a petición del Ejecutivo cuando sea indispensable hacerlo para la práctica de alguna averiguación, y en su caso, separarlos del cargo previa formación de causa, cuando abusen de sus facultades;
 
 XL.- Conocer, como Jurado de acusación, de los procedimientos que por delitos oficiales se inicien contra los funcionarios a que se refiere esta constitución;
 
@@ -1189,13 +1189,19 @@ Las leyes o decretos, los reglamentos, y cualesquiera otras disposiciones obliga
 
 Para que las adiciones y reformas a la presente Constitución puedan ser parte de la misma, se requiere:
 
-I.- Que el Congreso, con la aprobación de las dos terceras partes del numero total de sus miembros, admitan a discusión el proyecto;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1990)</small>
+
+I.- Que el Congreso, con la aprobación de las dos terceras partes de los Diputados presentes admitan a discusión el proyecto;
 
 II.- Que el proyecto se publique en el Periódico Oficial del Estado.
 
-III.- Que la mayoría de los Ayuntamientos den su aprobación dentro de los sesenta días de recibida la comunicación en que se les pida. Su abstención significará aprobación.
+III.- (DEROGADA, P.O. 16 DE MAYO DE 1990)
 
-IV.- Que se apruebe en el siguiente período ordinario de sesiones por las dos terceras partes de la totalidad de los miembros del Congreso.
+IV.- (DEROGADA, P.O. 16 DE MAYO DE 1990)
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 1990)</small>
+
+La mayoría de los Ayuntamientos darán su aprobación dentro de los quince días de recibida la comunicación en que se les pida, entendiendo que su abstención significará aprobación.
 
 En caso de que se hagan observaciones a las adiciones o reformas propuestas, el Congreso decidirá si son o no de tomarse en consideración, sujetándose el proyecto a los trámites preceptuados en el Capítulo Segundo del Título Cuarto, con excepción de lo dispuesto en el Artículo 28.
 
@@ -1900,3 +1906,7 @@ P.O. 27 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MAYO DE 1990.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
