@@ -4,7 +4,7 @@ identifier: "GRO-ley-que-establece-las-bases-para-el-fomento-de-la-19667"
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-13"
-last_updated: "1987-05-13"
+last_updated: "1989-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY QUE ESTABLECE LAS BASES PARA EL FOMENTO DE PARTICIPACION DE LA COMUNIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 13 de mayo de 1987.
 
@@ -211,6 +211,52 @@ Los Delegados Municipales, en los términos del artículo 72 de la Ley del Munic
 
 El Gobierno del Estado, con la intervención de los respectivos Ayuntamientos y de las autoridades competentes, por lo menos una vez al año, celebrará reuniones estatales o regionales de Comisariados Ejidales y Comunales con el objeto de conocer su opinión sobre la legislación y los programas vinculados directamente con el desarrollo rural.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 1989)</small>
+
+### CAPITULO VII. DEL RECONOCIMIENTO A LA PARTICIPACION CIUDADANA
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1989)</small>
+
+###### ARTICULO 27o.
+
+El Gobierno del Estado y los respectivos ayuntamientos, podrán otorgar reconocimientos a nivel estatal o municipal, a personas físicas o morales, o bien a agrupaciones ciudadanas, por sus contribuciones dentro de proyectos de beneficio colectivo que eleven el bienestar social o la producción.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1989)</small>
+
+###### ARTICULO 28o.
+
+Los reconocimientos podrán adoptar las siguientes modalidades:
+
+I. Diploma;
+
+II. Medalla; y
+
+III. Imposición de nombre a vías o áreas públicas, así como a establecimientos gubernamenles (sic).
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1989)</small>
+
+###### ARTICULO 29o.
+
+Los reconocimientos se otorgarán preferentemente a quienes hayan colaborado en la atención de las siguientes prioridades sociales:
+
+I. Justicia y seguridad pública;
+
+II. Agua Potable;
+
+III. Educación;
+
+IV. Salud y asistencia social;
+
+V. Alimentación;
+
+VI. Caminos;
+
+VII. Electrificación; y
+
+VIII. Elevación de la producción.
+
+También se dará preferencia en el otorgamiento de reconocimientos a quienes hayan contribuído con su ejemplo y sus actividades al desarrollo cívico, o a la protección y auxilio a la Ciudadanía en caso de calamidades.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -250,3 +296,11 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 11 DE ABRIL DE 1989.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
