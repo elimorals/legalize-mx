@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2003-08-01"
+last_updated: "2003-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2003.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -655,13 +655,17 @@ XXII.- De Equidad, Género y Familia;
 
 XXIII.- De Protocolo y Régimen Orgánico Interior;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
 
-XXIV.- De Honor y Justicia; e
+XXIV.- De Honor y Disciplina Parlamentaria;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
 
-XXV.- Instructora.
+XXV.- De Justicia; e
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+XXVI.- Instructora.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -693,9 +697,9 @@ A las reuniones de las Comisiones asistirán sus miembros, las personas convocad
 
 Las Comisiones Permanentes presentarán en la última sesión de cada período ordinario de sesiones un informe escrito, por el que se dé cuenta del uso que hayan hecho de sus atribuciones y de los asuntos que les hayan sido turnados por la Mesa Directiva.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2003)</small>
 
-Las Comisiones Permanentes se reunirán, por lo menos, una vez al mes, con excepción de las Comisiones de Honor y Justicia e Instructora.
+Las Comisiones Permanentes se reunirán, por lo menos, una vez al mes, con excepción de las Comisiones de Honor y Disciplina Parlamentaria e Instructora.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -703,7 +707,9 @@ Las Comisiones Permanentes se reunirán, por lo menos, una vez al mes, con excep
 
 Las Comisiones Permanentes, además de lo establecido en el artículo anterior, tendrán las siguientes atribuciones:
 
-I.- La Comisión de Puntos Constitucionales y Gobernación atenderá todos los asuntos correspondientes a las reformas constitucionales, a la procuración y administración de justicia, a la seguridad pública, así como los relacionados con la expedición de Leyes;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+I.- La Comisión de Puntos Constitucionales y Gobernación atenderá todos los asuntos correspondientes a las reformas constitucionales, a la seguridad pública, así como los relacionados con la expedición de Leyes;
 
 II.- La Comisión de Glosa tendrá a su cargo el despacho de los negocios que le impone la Ley Orgánica de la Contaduría Mayor de Hacienda, respecto a la revisión de las cuentas públicas;
 
@@ -713,9 +719,17 @@ IV.- La Comisión de Protocolo y Régimen Orgánico Interior tendrá a su cargo 
 
 V.- La Comisión de Hacienda Pública y Tesorería tendrá a su cargo el despacho de los negocios que le señalen las Leyes en materia fiscal, así como los asuntos donde se ventile la situación de la Hacienda Pública estatal y de los municipios;
 
-VI.- La Comisión de Honor y Justicia funcionará cuando así lo acuerde la Asamblea y conocerá específicamente de los hechos en que se vean involucrados los Diputados en el desarrollo de sus funciones; y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
 
-VII.- La Comisión Instructora tendrá la competencia que le señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+VI.- La Comisión de Honor y Disciplina Parlamentaria funcionará cuando así lo acuerde la Asamblea y conocerá específicamente de los hechos en que se vean involucrados los Diputados en el desarrollo de sus funciones;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+VII.- La Comisión de Justicia se hará cargo de los asuntos relacionados con la procuración y la administración de justicia; y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+VIII.- La Comisión Instructora tendrá la competencia que le señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -1986,3 +2000,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 1 DE AGOSTO DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 6 DE AGOSTO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
