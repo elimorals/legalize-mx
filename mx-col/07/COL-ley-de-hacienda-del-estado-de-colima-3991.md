@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2000-09-09"
+last_updated: "2000-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -407,19 +407,19 @@ Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de u
 
 Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
-
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mensualmente mediante declaración definitiva que presentarán en la Receptoría de Rentas correspondiente a su domicilio o en las instituciones bancarias autorizadas, en las formas oficiales aprobadas para el efecto, a mas tardar el día 15 del mes siguiente a aquel en que se perciban las contraprestaciones.
 
 Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -563,7 +563,9 @@ X.- (DEROGADA, P.O. 5 DE ENERO DE 1999)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 199
 
 XI. Por autorización de Registros Extemporáneos 1,350
 
-XII.- Por autorización de "Inscripciones de" Actas del Registro Civil realizados en el extranjero con Nacionales 1,800
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XII.- Por autorización de ``Inscripciones de Actos del Registro Civil" realizados en el extranjero por nacionales 2.000
 
 XIII.- Por autorización de Matrimonio entre extranjeros 9,000
 
@@ -583,25 +585,25 @@ XVII.- Complementación de actas del Registro Civil 1,000
 
 XVIII.- Por solicitud de actas o constancias que obran en las oficinas registradoras de otras Entidades Federativas 2,700
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XIX.- Por la autorización y registro correspondiente para prestar servicios privados de seguridad 90.000
+XIX.- Por la autorización y registro correspondiente para prestar servicios privados de seguridad 100.000
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XX.- Por la revalidación anual de los servicios privados de seguridad 40.000
+XX.- Por la revalidación anual de los servicios privados de seguridad 400.000
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XXI.- Por trámite de permiso para constituir sociedades, asociaciones y modificaciones de estatutos 1.750
+XXI.- Por trámite de permiso para constituir sociedades, asociaciones y modificaciones de estatutos 2.500
 
 XXII.- (DEROGADA, P.O. 5 DE ENERO DE 1999)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 XXIII.- (DEROGADA, P.O. 5 DE ENERO DE 1999)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XXIV.- Anuencia para palenques de gallos 19.000
+XXIV.- Anuencia para palenques de gallos 75.000
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -633,23 +635,23 @@ salario mínimo
 
 I.- Almacenaje de vehículos en los depósitos de la Dirección, por día:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
 
 a).- Camiones con capacidad de carga de 3,000 Kg. en adelante y autobuses 0.550
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
 
 b).- Camiones con capacidad de carga menor a 3,000 Kg. 0.350
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
 
 c).- Automóviles 0.250
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
 
 d).- Motocicletas 0.100
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
 
 e).- Bicicletas 0.050
 
@@ -663,6 +665,8 @@ Más:
 
 2.- Por kilometro recorrido en camino de terracería o brecha 0.270
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
+
 3.- Por cada hora de maniobras 2.250
 
 III.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
@@ -671,7 +675,7 @@ IV.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
 V.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
-VI.- Por expedición de constancias, por cada una 1.350
+VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### Artículo 50.
 
@@ -685,7 +689,11 @@ mínimo
 
 I.- Expedición y reposición de licencia para manejar vehículos de motor con vigencia de cuatro años e identificaciones de choferes y conductores de vehículos de servicio público de pasajeros:
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 a).- Automovilista 8.000
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 b).- Chofer y conductor de servicios 5.830
 
@@ -693,9 +701,7 @@ c).- Motociclista 3.239
 
 d).- (DEROGADO, P.O. 5 DE ENERO DE 1999)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-e).- La reposición de licencias para manejar vehículos de motor, será del equivalente al 50% del costo de la expedición.
+e).- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2000)
 
 Los derechos consignados en el inciso d), deberán pagarse durante los meses de enero a junio.
 
@@ -703,9 +709,9 @@ Los derechos consignados en el inciso d), deberán pagarse durante los meses de 
 
 II.- Por la expedición de concesión, cesión o traspaso de derecho a vehículos de servicio público conforme a la siguiente clasificación:
 
-a).- De ruta, sitio, servicio turístico y sujetos a arrendamiento
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-puro 270.000
+a).- De ruta, sitio, servicio turístico y sujetos a arrendamiento puro 400.000
 
 b).- Materialistas, carga y turismo 129.600
 
@@ -715,21 +721,27 @@ d).- Servicio exclusivo funerario 97.170
 
 e).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 23,752
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+f).- De transporte de agua 50.000
+
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
 
 Los derechos que establece esta fracción deberán cubrirse dentro de los 30 días naturales siguientes a la fecha de autorización.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-En el caso de cesión o traspaso de la concesión, si ésta se realiza entre cónyuges y ascendientes o descendientes en línea recta en primer grado, se pagará el 30% de la cuota que corresponda a los incisos anteriores.
+En el caso de cesión o traspaso de la concesión, si ésta se realiza entre cónyuges y ascendientes o descendientes en línea recta en primer grado, se pagará el 20% de la cuota que corresponda a los incisos anteriores.
 
 III.- Por revalidación de concesión de vehículos de sitio, ruta y aquellos cuya prestación este sujeta a contrato de arrendamiento, anualmente:
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-a).- Por cada vehículo de sitio y escuelas de manejo 11.257
+a).- Por cada vehículo de sitio y escuelas de manejo 14.000
 
-b).- Por cada vehículo de ruta 11.900
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+b).- Por cada vehículo de ruta 15.000
 
 c).- Por cada vehículo cuya prestación este sujeta a contrato de arrendamiento puro 35.100
 
@@ -737,7 +749,13 @@ d).- Por cada vehículo que preste servicio de materialista, carga y turismo 15.
 
 e).- Por cada vehículo exclusivo funerario 16.200
 
-f).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 3.250
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+f).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 4.000
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+g).- Por cada vehículo de transporte de agua 10.000
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -757,7 +775,9 @@ d).- Remolques 9.700
 
 e).- Placas de demostración 40.500
 
-f).- Renovación anual de tarjeta de circulación de motocicletas o su reposición 1.000
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+f).- Renovación de tarjeta de circulación de motocicletas o su reposición 1.000
 
 g).- Reposición de tarjeta de circulación de automóviles y camiones 2.000
 
@@ -771,27 +791,27 @@ i).- Placas para vehículos antiguos 15.000
 
 Los derechos consignados en los incisos a), b), c), d), e), f), h) e i), tratándose de canje o renovación, por término del período de vigencia, deberán pagarse durante los meses de enero a marzo.
 
-V.- Por expedición de constancias, por cada una 1.000
+V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
 
 VI.- Por la expedición de permisos provisionales:
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-a).- Para manejar vehículos, por el primer permiso de 6 meses 1.600
+a).- Para manejar vehículos, por el primer permiso de dos meses 5.000
 
 1.- Por cada permiso subsiguiente, por el mismo concepto 3.200
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-b).- Para circular sin placas, por el primer permiso de 30 días 1.600
+b).- Para circular sin placas, por el primer permiso de 30 días 5.000
 
 1.- Por cada día adicional al anterior, por el mismo concepto 0.500
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-VII.- Certificaciones y constancias, cuando para su expedición no se requiera búsqueda en los archivos 1.500
+VII.- Certificaciones y constancias, cuando para su expedición no se requiera búsqueda en los archivos 2.000
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
 
@@ -801,19 +821,25 @@ VIII.- Certificaciones y constancias, cuando para su expedición se requiera bú
 
 IX.- Por la expedición de bajas de placas de otros Estados 6.000
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-X.- Por expedición de baja definitiva del padrón vehícular 1.600
+X.- Por expedición de baja definitiva del padrón vehicular 2.000
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
 XI.- Por la aplicación de exámenes para obtener licencia de manejo:
 
-a).- De conocimientos viales (incluye material didáctico) 0.900
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-b).- Para determinación de tipo sanguíneo 0.900
+a).- De conocimientos viales (incluye material didáctico) 1.000
 
-c).- De agudeza visual 0.900
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+b).- Para determinación de tipo sanguíneo 1.000
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+c).- De agudeza visual 1.000
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -833,19 +859,21 @@ XIII.- Por la aplicación de examen para determinar estado de ebriedad, en caso 
 
 Por los servicios prestados en la Dirección General de Prevención y Readaptación Social.
 
-I.- Por la expedición de certificado de no antecedentes penales. 0.900
+> <small>(REFORMADA, P.O 30 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+I.- Por la expedición de certificado de no antecedentes penales 1.000
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 52.
 
-Por los servicios prestados en la Dirección del Registro Público de la Propiedad y el Comercio.
+Por los servicios prestados en la Dirección del Registro Público de la Propiedad y del Comercio.
 
 Número de días de salario mínimo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, transmita, modifique o extinga la propiedad o posesión de inmuebles, o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre el de operación, el catastral y el de avalúo bancario:
+I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, trasmita, modifique o extinga la propiedad o posesión de inmuebles, o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre: el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo bancario actualizado:
 
 a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 5.000
 
@@ -874,6 +902,14 @@ IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto del adeudo o 
 Si el gravamen afecta propiedades inmuebles ubicadas también en otras entidades federativas, el derecho a pagar será proporcional al valor de los inmuebles ubicados en el estado. Cuando no se conozca el valor o la proporción real de éstos, la base para la determinación del derecho será el valor catastral de los inmuebles gravados ubicados en el estado de Colima, en cuyo caso se aplicará la tasa del 0.6%.
 
 V.- Por la inscripción de la escritura constitutiva de sociedades mercantiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se causará la tasa del 0.4%, sin que el mínimo sea inferior a Para las sucursales de las sociedades se tomará como base el capital asignado a ellas 5.000
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+Cuando se presente para su inscripción una escritura o protocolización de acta de asamblea general de accionistas, en la que se adviertan modificaciones al capital social realizadas con anterioridad sin que se hubiere efectuado el pago de los derechos correspondientes, será base para el pago de los derechos previstos en esta fracción, el monto del capital que resulte de restarle al capital social que aparezca consignado en el documento que se presente para su inscripción, la suma de los importes que aparezcan ya inscritos en el folio mercantil correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+Lo dispuesto en el párrafo anterior es aplicable también para la fracción siguiente.
 
 VI.- Por la inscripción de la escritura constitutiva de sociedades o asociaciones civiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se cobrará el 0.4%, sin que el mínimo sea inferior a 5.000
 
@@ -904,6 +940,10 @@ i).- Por los créditos de habilitación o avío destinados a fines Agropecuarios
 j).- Cuando se trate de reestructuración de créditos, el derecho a pagar se calculará sobre el total del crédito reestructurado, deduciendo del resultado el derecho pagado cuando se inscribió el crédito original
 
 k).- Además de los derechos de inscripción que correspondan de acuerdo con los incisos anteriores, se pagará por cada anotación que se requiera realizar para inscribir las garantías 1.000
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+En el caso de inscripción de créditos destinados a fraccionar, urbanizar o construir varios lotes a la vez, el pago se realizará por cada lote.
 
 IX.- Por la inscripción de la constitución del patrimonio de la familia y de las informaciones ad-perpetuam, se pagará la tasa del 0.4% sobre el valor que resulte mayor entre el catastral y el de avalúo bancario, sin que el mínimo sea sea (sic) inferior a 5.000
 
@@ -951,7 +991,9 @@ a).- Por la fusión, sobre el monto del capital fusionado, el 0.3%, sin que se p
 
 b).- Por la escición (sic), sobre el monto del capital social de las empresas escindidas, el 0.3%, sin que se pague menos de 5.000
 
-XVI.- Inscripción del otorgamiento de poderes, de la renovación o sustitución de los mismos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XVI.- Inscripción del otorgamiento de poderes, de la renovación, sustitución o revocación de los mismos:
 
 a).- Otorgamiento o sustitución de poderes:
 
@@ -969,7 +1011,9 @@ c).- Revocación de poderes, por cada apoderado 1.080
 
 XVII.- Inscripción de contratos de comisión y mediación mercantil, así como de seguros de toda especie 5.000
 
-XVIII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 2.609
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XVIII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 3.000
 
 XIX.- Inscripción de modificaciones o rectificaciones de superficie de predios, así como de las medidas y colindancias registradas en el folio o libro correspondiente:
 
@@ -985,21 +1029,35 @@ XIX, sobre el monto de la operación o del valor consignado, se cobrará la tasa
 
 XX BIS.- Por la corrección de folios respecto de errores cometidos en el documento inscrito, cuando no traiga consigo la modificación al valor que hubiera servido de base para la determinación de los derechos pagados por la inscripción, por cada dato que se corrija 0.500
 
-XXI.- Examen de cualquier documento público o privado presentado ante la Dirección para su inscripción, cuando se rechace por no ser inscribible 3.149
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XXI.- Examen de cualquier documento público o privado presentado ante la Dirección para su inscripción, cuando se rechace por no ser inscribible 3.500
 
 XXII.- Anotaciones en folios o libros, por cada una:
 
-a).- Anotación de un segundo o ulterior testimonio de cualquier acto jurídico 3.149
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+a).- Anotación de un segundo o ulterior testimonio de cualquier acto jurídico 3.500
 
 b).- Por la anotación de demandas judiciales 5.000
 
-c).- Anotaciones preventivas diversas a la prevista en el artículo 32 de la Ley del Notariado del Estado de Colima 3.149
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XXIII.- Cancelación de gravámenes en general y de anotaciones de todo tipo, por cada cancelación 3.149
+c).- Anotaciones preventivas diversas a la prevista en el artículo 32 de la Ley del Notariado del Estado de Colima 3.500
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XXIII.- Cancelación de gravámenes en general y de anotaciones de todo tipo, por cada cancelación o por cada inmueble 3.500
 
 Si se hubiesen otorgado en garantía varios inmuebles ubicados en un mismo fraccionamiento para una misma operación de crédito, a partir de la segunda cancelación el derecho a pagar será de 1.000
 
-XXIV.- Cancelación del registro de sociedades civiles, sobre el monto del capital social en la fecha de la cancelación, la tasa del 0.2%, sin que el mínimo sea inferior a 3.149
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+En el caso del párrafo anterior, se entenderá que a cada inmueble corresponderá una cancelación, aún cuando la inscripción del gravamen esté realizada en un solo folio.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XXIV.- Cancelación del registro de sociedades civiles, sobre el monto del capital social en la fecha de la cancelación, la tasa del 0.2%, sin que el mínimo sea inferior a 3.500
 
 XXV.- Depósito de cualquier documento:
 
@@ -1033,15 +1091,103 @@ e).- Expedición mecanografiada de constancias de registro, por cada hoja escrit
 
 f).- Expedición de constancias en copias fotostáticas certificadas:
 
-1.- Por la primera hoja 1.080
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-2.- Por cada hoja más 0.540
+1.- Escrituras privadas:
+
+1.1.- compraventa 5.000
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+2.- Escrituras públicas:
+
+2.1.- compraventa 6.500
+
+2.2.- compraventa e Hipoteca 12.500
+
+2.3.- Adjudicación de herencia 8.500
+
+2.4.- Donación 5.000
+
+2.5.- Condominio 60.500
+
+2.6.- Rectificación de escritura 2.500
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+3.- Documentos generales:
+
+3.1.- Embargo judicial 4.500
+
+3.2.- Contrato refaccionario 19.500
+
+3.3.- Contrato de sociedad mercantil 9.500
+
+3.4.- Contrato de sociedad civil 9.500
+
+3.5.- Protocolización de acta de asamblea 4.500
+
+3.6.- Contrato de mutuo 4.500
+
+3.7.- Contrato de apertura de crédito 8.500
+
+3.8.- Contrato de crédito simple 12.000
+
+3.9.- Contrato de crédito de habilitación o avío 5.500
+
+3.10.- Cancelación 2.500
+
+3.11.- Otros no especificados 5.000
 
 g).- Expedición de copias fotostáticas simples de constancias de registro:
 
-1.- Por la primera hoja 0.400
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-2.- Por cada hoja más 0.077
+1.- Escrituras privadas:
+
+1.1.- compraventa 1.000
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+2.- Escrituras públicas:
+
+2.1.- compraventa 1.000
+
+2.2.- compraventa e Hipoteca 2.000
+
+2.3.- Adjudicación de herencia 1.500
+
+2.4.- Donación 1.000
+
+2.5.- Condominio 9.000
+
+2.6.- Rectificación de escritura 0.500
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+3.- Documentos generales:
+
+3.1.- Embargo judicial 1.000
+
+3.2.- Contrato refaccionario 3.000
+
+3.3.- Contrato de sociedad mercantil 1.500
+
+3.4.- Contrato de sociedad civil 1.500
+
+3.5.- Protocolización de acta de asamblea 1.000
+
+3.6.- Contrato de mutuo 1.000
+
+3.7.- Contrato de apertura de crédito 1.000
+
+3.8.- Contrato de crédito simple 2.000
+
+3.9.- Contrato de crédito de habilitación o avío 1.000
+
+3.10.- Cancelación 0.500
+
+3.11.- Otros no especificados 2.000
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -1085,9 +1231,9 @@ d).- Pensión mensual, de motocicletas, por cada una y por mes de calendario ade
 
 e).- Pensión mensual de vehículos propiedad o al servicio del Gobierno del Estado, por cada uno 13.270
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-IV.- Por la renovación anual de la calcomanía fiscal vehicular o su reposición 7.000
+IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 8.000
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -1182,6 +1328,10 @@ n).- Por expedición de planos de predios urbanos con medidas, superficie y nomb
 1.- Sin nombres de colindantes 3.600
 
 2.- Con nombres de colindantes 4.600
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+ñ).- Por cada copia fotostática de planos de fraccionamiento 4.600
 
 II.- Certificaciones:
 
@@ -1345,15 +1495,21 @@ VI.- Por modificar registros manifestados erróneamente, a solicitud del interes
 
 VII.- Por cartografía a escala 1:1,000 en forma digital de la zona urbana de las cabeceras municipales de: Armería, Colima, Manzanillo, Tecomán y Villa de Alvarez
 
-a).- Archivos DXF (manzanas, predios y nomenclaturas) 67.000
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-b).- Archivos DXF (manzanas, predios, construcciones, nomenclatura, cotas fotogramétricas en coordenadas Universal Transversal de Mercator 110.000
+a).- Archivos DXF (manzanas, predios y nomenclaturas) 75.000
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+b).- Archivos DXF (manzanas, predios, construcciones, nomenclaturas, cotas fotogramétricas en coordenadas Universal Transversal de Mercator) 120.000
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 VIII.- Por cartografía a escala 1:10,000 en formato digital de la zona urbana de las cabeceras municipales de: Armería, Colima, Manzanillo, Tecomán y Villa de Alvarez
 
-a).- Archivos DXF (manzanas, predios, construcciones, nomenclatura de calles, hidrografía, vías de comunicación, cotas fotogramétricas en coordenadas Universal Transversal de Mercator) 133.000
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+a).- Archivos DXF (manzanas, predios, construcciones, nomenclatura de calles, hidrografía, vías de comunicación, cotas fotogramétricas en coordenadas Universal Transversal de Mercator) 145.000
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -1825,9 +1981,9 @@ más, por cada unidad que integre el condominio 35.000
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO IX. Otros Derechos
-
 ### CAPITULO VIII. Servicios Prestados en el Poder Judicial
+
+### CAPITULO IX. Otros Derechos
 
 ###### Artículo 56.
 
@@ -1867,21 +2023,27 @@ III.- Expedición de certificados originales y duplicados de academias incorpora
 
 IV.- Expedición de constancias 1.670
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 V.- Por incorporación:
 
-a).- Preescolar y primaria 35.990
+a).- Inicial 31.000
 
-b).- Secundaria 44.990
+b).- Preescolar 35.990
 
-c).- Academias comerciales, contador privado, secretaria ejecutiva, taquígrafa e idiomas 40.490
+c).- Primaria 35.990
 
-d).- Academias de belleza, corte y confección de ropa y alta costura 31.490
+d).- Secundaria 44.990
 
-e).- Institutos de computación 58.480
+e).- Academias comerciales, contador privado, secretaria ejecutiva, taquígrafa e idiomas 40.490
 
-f).- Bachillerato 62.980
+f).- Academias de belleza, corte y confección de ropa y alta costura 31.490
 
-g).- Licenciatura 71.980
+g).- Instituto de computación 58.480
+
+h).- Bachillerato 62.980
+
+i).- Licenciatura 71.980
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -1896,6 +2058,10 @@ c).- Secundaria y equivalente, por alumno inscrito 0.760
 d).- Primaria, por alumno inscrito 0.600
 
 e).- Preescolar, por alumno inscrito 0.550
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+f).- Educación inicial, por alumno inscrito 0.550
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -1955,49 +2121,87 @@ VI.- Por trámites de baja 0.450
 
 VII.- Por exámenes profesionales 17.994
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 59.
 
-Por el acceso a las unidades deportivas y uso de sus instalaciones, así como del Estadio Colima, se causarán los siguientes derechos:
+Por el acceso a las Unidades Deportivas y uso de sus instalaciones, así como del Estadio Colima, se causarán los siguientes derechos:
 
 Numero de días de salario mínimo
 
 UNIDADES DEPORTIVAS
 
-I.- Entrada general 0.045
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-II.- Cancha de frontenis, por persona 0.090
+I.- Entrada general 0.046
 
-III.- Cancha de voleibol y basquetbol con iluminación artificial, por hora 0.360
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000) (F. DE E., P.O. 13 DE ENERO DEL 2001)
 
-IV.- Alberca, por niño 0.045
+II.- Cancha de frontenis, por persona 0.100
 
-V.- Alberca, por adulto 0.180
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-VI.- Cancha de tenis, por hora y por persona adulta 0.225
+III.- Cancha de voleibol y basquetbol con iluminación artificial, por hora 0.430
 
-VII.- Cancha de tenis, por hora con iluminación artificial y por persona adulta 0.360
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-VIII.- Cancha de Squash, con iluminación artificial por persona adulta 0.360
+IV.- Alberca, por niño 0.046
 
-IX.- Cancha de squash, por hora y por persona adulta 0.225
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-X.- Campo de futbol, por partido con iluminación artificial 3.599
+V.- Alberca, por adulto 0.215
 
-XI.- Campo de futbol, por partido sin iluminación artificial 0.900
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XII.- Campo de beisbol, sin iluminación artificial, por partido 0.900
+VI.- Cancha de tenis, por hora y por persona adulta 0.305
 
-XIII.- Tenis de mesa, por hora y por persona 0.090
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XIV.- Auditorio, por partido de voleibol y basquetbol 2.699
+VII.- Cancha de tenis, por hora con iluminación artificial y por persona adulta 0.428
 
-XV.- Gimnasio de fisicoculturismo, por mes por persona 1.799
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XVI.- Gimnasio de fisicoculturismo, por día por persona 0.135
+VIII.- Cancha de Squash, con iluminación artificial por persona adulta 0.428
 
-XVII.- Baños de vapor, por mes por persona 1.799
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XVIII.- Baños de vapor, por día por persona 0.135
+IX.- Cancha de squash, por hora y por persona adulta 0.245
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+X.- Campo de futbol, por partido con iluminación artificial 3.970
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XI.- Campo de futbol, por partido sin iluminación artificial 1.070
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XII.- Campo de beisbol, sin iluminación artificial, por partido 1.070
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XIII.- Tenis de mesa, por hora y por persona 0.107
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XIV.- Auditorio, por partido de voleibol y basquetbol 3.699
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XV.- Gimnasio de fisicoculturismo, por mes por persona 2.140
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XVI.- Gimnasio de fisicoculturismo, por día por persona 0.152
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XVII.- Baños de vapor, por mes por persona 2.228
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XVIII.- Baños de vapor, por día por persona 0.171
 
 ESTADIO COLIMA
 
@@ -2005,25 +2209,21 @@ XIX.- Campo de futbol, por partido 1.799
 
 En el caso de las fracciones, VI, VII y IX, se cobrará a los menores un 50% de las cuotas establecidas.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 60.
 
 Por el acceso y uso de las instalaciones del Parque Regional Metropolitano "GRISELDA ALVAREZ", se pagarán los siguientes derechos:
 
 Numero de días de salario mínimo
 
-I.- Alberca, por niño 0.135
+I.- Alberca, por niño 0.202
 
-II.- Alberca, por adulto 0.180
+II.- Alberca, por adulto 0.214
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
+III.- Tobogán 0.225
 
-III.- Tobogán, por hora 0.225
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
-
-IV.- Lancha, por hora 0.225
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
+IV.- Lancha, por hora 0.244
 
 V.- Ingreso a la Zona de Bosque 0.045
 
@@ -2039,9 +2239,7 @@ V.- Ingreso a la Zona de Bosque 0.045
 
 (DEROGADO, P.O. 27 DE JULIO DE 1996)
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-### CAPITULO UNICO
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ### CAPITULO UNICO
 
@@ -2050,6 +2248,8 @@ V.- Ingreso a la Zona de Bosque 0.045
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
 
 Artículo 70 A.- Son recursos federalizados los que obtengan el Estado del Gobierno Federal, de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren.
+
+### CAPITULO UNICO
 
 ### CAPITULO UNICO
 
@@ -2080,6 +2280,8 @@ III.- Registro y diligencia de exhortos 0.720
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 IV.- Copias certificadas de sentencias 1.350
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO UNICO
 
@@ -2116,8 +2318,6 @@ b).- Por cada hoja más o fracción 0.270
 II.- Servicios de vigilancia e inspección de Obra Pública:
 
 a).- Los contratistas que celebren contratos de obra pública o de servicios relacionados con la misma con cualquier dependencia del Gobierno del Estado, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos a los contratistas, las cuales deberán enterar los importes retenidos a la Receptoría de Rentas correspondiente, dentro de los primero cinco días hábiles del mes siguiente a aquel en que se efectúe la retención
-
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -2160,6 +2360,8 @@ Para la determinación de los montos de los productos a que se refiere este tít
 Estarán exentas del pago de productos, las publicaciones que se hagan en el Periódico Oficial a solicitud de los Gobiernos Federal, Estatal o Municipales, siempre que se trate de asuntos oficiales que estén comprendidos dentro de la esfera de sus atribuciones.
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
 
 ###### Artículo 69.
 
@@ -2208,8 +2410,6 @@ XII.- Los contratistas y destajistas que realicen obras para el Gobierno del Est
 XIII.- Otros ingresos no especificados.
 
 ## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
 
 ###### Artículo 70.
 
@@ -2410,3 +2610,13 @@ P.O. 9 DE SEPTIEMBRE DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1° de octubre del año 2000, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+Los contribuyentes del Impuesto Sobre Ejercicio Profesiones no estarán obligados a presentar la declaración del ejercicio fiscal 2000, siendo por lo tanto, optativa su presentación.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día primero de enero del año 2001, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
