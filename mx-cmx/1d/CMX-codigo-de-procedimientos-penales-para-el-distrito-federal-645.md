@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1994-07-22"
+last_updated: "1996-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MAYO DE 1996.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -330,9 +330,11 @@ IV. Arresto hasta de treinta y seis horas.
 
 Las correcciones disciplinarias podrán imponerse de plano en el acto de cometerse la falta, o después, en vista de lo consignado en el expediente o en la certificación que hubiere extendido el secretario, por orden del tribunal, juez o Ministerio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 33.
 
-Los tribunales o jueces, para hacer cumplir sus determinaciones, podrán emplear cualquiera de los siguientes medios de apremio:
+El Ministerio Público, los tribunales o jueces, para hacer cumplir sus determinaciones, podrán emplear indistintamente, cualquiera de los siguientes medios de apremio:
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
 
@@ -348,9 +350,7 @@ III. Arresto hasta de treinta y seis horas.
 
 Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
-
-Los funcionarios a que se refiere el artículo 20 solamente podrán emplear como medios de apremio multa del importe de un día del salario mínimo general vigente en el Distrito Federal, arresto hasta de treinta y seis horas y el auxilio de la fuerza pública.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1918,35 +1918,45 @@ Al iniciar sus procedimientos el Ministerio Público, o la policía judicial, se
 
 El Ministerio Público y la Policía Judicial a su mando están obligados a detener al responsable, sin esperar a tener orden judicial, en delito flagrante o en caso urgente.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 267.
 
-Se entiende que existe delito flagrante, no solo cuando la persona es detenida en el momento de estarlo cometiendo, sino cuando, después de ejecutado el hecho delictuoso, el inculpado es perseguido materialmente o cuando en el momento de haberlo cometido, alguien lo señala como responsable del mismo delito, y se encuentra en su poder el objeto del mismo, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su culpabilidad.
+Se entiende que existe delito flagrante cuando la persona es detenida en el momento de estarlo cometiendo, o bien cuando el inculpado es perseguido material e inmediatamente después de ejecutado el delito.
 
-En esos casos el Ministerio Público iniciará desde luego la averiguación previa y bajo su responsabilidad, según proceda, decretará la retención del indiciado si están satisfechos los requisitos de procedibilidad y el delito merezca pena privativa de libertad, o bien, ordenará la libertad del detenido, cuando la sanción sea no privativa de libertad, o bien, alternativa.
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
-La violación de esta disposición hará penalmente responsable al Ministerio Público que decrete la indebida retención, y el indiciado deberá ser puesto en inmediata libertad.
+Se equiparará la existencia de delito flagrante cuando la persona es señalada como responsable por la víctima, algún testigo presencial de los hechos o quien hubiera participado con ella en la comisión del delito; o se encuentre en su poder el objeto, instrumento o producto del delito; o bien aparezcan huellas o indicios que hagan presumir fundadamente su participación en el delito; siempre y cuando se trate de un delito grave así calificado por la ley, no haya transcurrido un plazo de setenta y dos horas desde el momento de la comisión de los hechos delictivos, se hubiera iniciado la averiguación previa respectiva y no se hubiese interrumpido la persecución del delito.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
+En esos casos el Ministerio Público iniciará desde luego la averiguación previa y bajo su responsabilidad, según proceda, decretará la retención del indiciado si están satisfechos los requisitos de procedibilidad y el delito merezca pena privativa de libertad, o bien, ordenará la libertad del detenido, cuando la sanción sea no privativa de libertad, o bien, alternativa.
+
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
+
+La violación de esta disposición hará penalmente responsable a quien decrete la indebida retención, y el indiciado deberá ser puesto en inmediata libertad.
+
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 268.
 
-Habrá caso urgente cuando:
+Habrá caso urgente cuando concurran las siguientes circunstancias:
 
-a) Se trate de delito grave, así calificado por la ley;
+I.- Se trate de delito grave así calificado por la ley; y (sic)
 
-b) Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia; y
+II.- Exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, y
 
-c) Que el Ministerio Público no pueda ocurrir ante la autoridad judicial por razón de la hora, lugar u otras circunstancias.
+III.- El Ministerio Público no pueda ocurrir ante la autoridad judicial por razón de la hora, lugar u otras circunstancias.
 
-El Ministerio Público al emitir la orden de detención en caso urgente deberá hacerlo por escrito, fundando y expresando los indicios que acrediten los requisitos mencionados en los incisos anteriores.
+Existirá el riesgo fundado a que se refiere la fracción II anterior, en atención a las circunstancias personales del inculpado, a sus antecedentes penales, a sus posibilidades de ocultarse, a ser sorprendido al tratar de abandonar el ámbito territorial de jurisdicción de la autoridad que estuviera conociendo del hecho o, en general, a cualquier indicio que haga presumir fundadamente que puede sustraerse de la acción de la justicia.
 
-La orden mencionada será ejecutada por la Policía Judicial, quien deberá sin dilación alguna poner al detenido a disposición del Ministerio Público que la haya librado.
+El Ministerio Público ordenará la detención en caso urgente, por escrito, fundando y expresando los indicios que acrediten los requisitos mencionados en las fracciones anteriores.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+Salvo que el individuo se encuentre en presencia del Ministerio Público, las demás detenciones serán ejecutadas por la Policía Judicial, la que deberá sin dilación alguna poner al detenido a disposición del Ministerio Público.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se clasifican como delitos graves, los siguientes: Homicidio por culpa grave previsto en el artículo 60 párrafo tercero; terrorismo previsto en el artículo 139 párrafo primero; sabotaje previsto en el artículo 140 párrafo primero; evasión de presos previsto en los artículos 150 y 152; ataques a las vías de comunicación previsto en los artículos 168 y 170; corrupción de menores previsto en el artículo 201; trata de personas previsto en el artículo 205 segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal previsto en el artículo 208; violación previsto en los artículos 265, 266 y 266 bis; asalto previsto en los artículos 286 párrafo segundo y 287; homicidio previsto en los artículos 302 con relación al 307, 313, 315 bis, 320 y 323; secuestro previsto en el artículo 366 exceptuando los párrafos antepenúltimo y penúltimo; robo calificado previsto en los artículos 367 en relación con el 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381 fracción VIII, IX y X y 381 bis; extorsión previsto en el artículo 390; y despojo previsto en el artículo 395 último párrafo, todos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; así como el de tortura previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura.
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se clasifican como delitos graves los siguientes: Homicidio por culpa grave previsto en el artículo 60, párrafo tercero; terrorismo, previsto en el artículo 139, párrafo primero; sabotaje, previsto en el artículo 140, párrafo primero; evasión de presos, previsto en los artículos 150 y 152; ataques a las vías de comunicación, previsto en los artículos 168 y 170; corrupción de menores, previsto en el artículo 201; trata de personas, previsto en el artículo 205, segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208; violación, previsto en los artículos 265, 266 y 266 bis; asalto, previsto en los artículos 286, párrafo segundo y 287; homicidio, previsto en los artículos 302, con relación al 307, 313, 315 bis, 320 y 323; secuestro, previsto en el artículo 366 exceptuando el párrafo antepenúltimo; robo calificado, previsto en los artículos 367, en relación con el 370, párrafos segundo y tercero, cuando además se realice en cualquiera de las circunstancias señaladas en los artículos 372, 377, 381 fracciones VIII, IX, y X y 381 bis; robo, previsto en el artículo 371, párrafo último; extorsión, previsto en el artículo 390; y despojo, previsto en el artículo 395, último párrafo todos del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal. También lo será el delito de tortura, previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura.
+
+La tentativa punible de los ilícitos penales mencionados en el párrafo anterior, también se califica como delito grave.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -2252,9 +2262,9 @@ El juez interrogará al inculpado sobre su participación en los hechos imputado
 
 Si el inculpado tuviere varios defensores, estará obligado a nombrar un representante común o, en su defecto, lo hará el juez.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
-ARTICULO 296 bis.- Durante la instrucción, el juez que conozca del proceso deberá observar las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conducta anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena, y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las víctimas u ofendidos u ofendidos por el delito, y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
+ARTICULO 296 bis.- Durante la instrucción, el tribunal que conozca del proceso deberá tomar en cuenta las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse; así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión, que en su conjunto demuestren la gravedad del ilícito y el grado de culpabilidad del agente.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -5195,3 +5205,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente decreto, con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
 
 TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 13 DE MAYO DE 1996.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
