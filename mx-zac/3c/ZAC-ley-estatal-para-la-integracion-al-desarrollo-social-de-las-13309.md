@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-integracion-al-desarrollo-social-de-las-133
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-22"
-last_updated: "1996-06-22"
+last_updated: "1999-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ESTATAL PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1999.
 
 Ley publicada en el Periódico Oficial el Sábado 22 de Junio de 1996.
 
@@ -145,57 +145,65 @@ El Ejecutivo del Estado, por sí o a través de la Comisión, podrá celebrar co
 
 Se conformará una Comisión Estatal para la Integración Social de las Personas con Discapacidad, como una entidad de la administración pública paraestatal, con la figura de organismo descentralizado, con personalidad jurídica y patrimonio propios, que aplicará y vigilará el cumplimiento de esta Ley y coordinará a las instituciones públicas y a los organismos sociales que persigan los fines que de esta normatividad se derivan, en concordancia con los Sistemas Nacional y Estatal de Salud. Dicha Comisión se conocerá por las siglas CEISD.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 12.
 
-El órgano de Gobierno estará integrado de la siguiente manera:
+El órgano de gobierno estará integrado de la siguiente manera:
 
-I. Un presidente Honorario que será la Presidenta del Sistema para el Desarrollo Integral de la Familia en el Estado.
+I. Un presidente que será designado por los miembros del propio órgano de gobierno.
 
 II. Vocales que serán:
 
-El Jefe de Servicios Coordinados de Salud Pública;
-
-El Presidente Estatal de Personas con Discapacidad;
-
-El Secretario de Educación y Cultura del Estado;
-
-El Coordinador General del Centro de Rehabilitación (C.R.E.E.);
-
-El Director de Trabajo y Previsión Social del Estado;
-
-El Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas del Estado;
+La Presidenta del sistema Estatal para el Desarrollo Integral de la Familia;
 
 El Director del DIF Estatal;
 
-El Delegado de SEDESOL;
+El Presidente del Consejo Estatal de Personas con Discapacidad;
 
-El Rector de la Universidad Autónoma de Zacatecas o, en su caso, un representante;
+El titular de Servicios Coordinados de Salud Pública;
 
-El Delegado del Instituto Mexicano del Seguro Social (IMSS);
+El Secretario de Educación y Cultura;
+
+El Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas;
+
+El Coordinador General del Centro de Rehabilitación;
+
+El Director de Trabajo y Previsión Social;
+
+El Delegado del Instituto Mexicano del Seguro Social;
+
+El Delegado del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado;
 
 Un representante de los organismos de la iniciativa privada;
 
-El Delegado del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado (ISSSTE);
+Dos representantes de las organizaciones no Gubernmentales de personas con discapacidad;
 
-El Gobernador Constitucional del Estado expedirá los nombramientos correspondientes y la Comisión será apoyada por un equipo de profesionales en Medicina de Rehabilitación, Psicología, Trabajo Social y Educación.
+El Delegado de la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 13.
 
 El órgano de administración estará conformado de la siguiente manera:
 
-I. Un Director General que será designado por el Ejecutivo del Estado de una terna propuesta por el Colegio de Médicos de Zacatecas, misma que se buscará consensar con el Consejo Estatal de Discapacitados.
+I. Un Director General, de preferencia discapacitado, que designará por el Ejecutivo del Estado de una terna propuesta por el órgano de gobierno; y
 
-II. Un Secretario, designado por las organizaciones privadas de asistencia a los Discapacitados, debiendo recaer el nombramiento en padre o madre de discapacitado o en discapacitado, quien deberá tener un perfil administrativo.
+II. Un Secretario, designado por el Ejecutivo del Estado de una terna propuesta por el órgano de gobierno. Tal nombramiento deberá recaer en ascendiente o tutor de discapacitados o en discapacitado, quien deberá tener conocimientos para desarrollar labores administrativas.
 
-Ambos recibirán remuneración asignada en el presupuesto de la C.E.I.S.D.
+Ambos recibirán remuneración asignada en el presupuesto de la Comisión Estatal para la Integración Social de las Personas con Discapacidad.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 14.
 
-El órgano de vigilancia estará integrado por un comisario propietario y un suplente de la Contraloría General de Gobierno del Estado.
+El órgano de vigilancia estará integrado por un comisario propietario y un suplente, designados respectivamente, por las Secretarías de Planeación y Finanzas y de la Contraloría General del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 15.
 
-El órgano de gobierno de la Comisión Estatal para la Integración Social de las Personas con Discapacidad tendrá las siguientes funciones:
+El órgano de Gobierno de la Comisión Estatal para la Integración al Desarrollo Social de las Personas con Discapacidad tendrá las siguientes funciones:
 
 I. Aprobar, de acuerdo a los planes y programas del sector a que pertenezca, sus políticas generales, definiendo los trabajos prioritarios a los que deberá sujetarse la Comisión tanto en los servicios que prestará en el manejo de sus finanzas y en la administración general.
 
@@ -217,7 +225,9 @@ IX. Autorizar la creación de comités de apoyo y ser el alcance con el patronat
 
 X. Aprobar el monto de los sueldos y prestaciones de los servidores públicos que laboren en la Comisión, autorizar los aumentos o modificaciones de los mismos; conceder licencia y los demás que señale el reglamento al director de la misma.
 
-XI. Proponer al Colegio de Médicos de Zacatecas la remoción del Director General cuando esto se requiera y al Organismo Privado de Asistencia a Discapacitados al Secretario cuando esto convenga al funcionamiento de la Comisión.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1999)</small>
+
+XI. Proponer al Gobernador del Estado el nombramiento o la remoción del Director General y del Secretario del organo administrativo;
 
 XII. Analizar y aprobar los informes periódicos que rinda el Director General.
 
@@ -668,3 +678,9 @@ LIC. ARTURO ROMO GUTIERREZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ESAU HERNANDEZ HERRERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JULIO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
