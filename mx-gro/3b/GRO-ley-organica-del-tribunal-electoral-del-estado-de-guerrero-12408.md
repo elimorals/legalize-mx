@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-tribunal-electoral-del-estado-de-guerrero-1240
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-13"
-last_updated: "1998-02-13"
+last_updated: "2004-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NUMERO 145
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 1998.
 
@@ -94,6 +94,10 @@ VIII. Desarrollar tareas de formación, investigación, capacitación y difusió
 IX. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño; y
 
 X. Las demás que les señalen las leyes.
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XI. Las demás que les señalen las leyes.
 
 ### CAPITULO II. Del Pleno
 
@@ -773,9 +777,83 @@ Todos los servidores del Tribunal Electoral del Estado se conducirán con imparc
 
 Serán considerados de confianza todos los servidores del Tribunal, y sus percepciones serán determinadas de acuerdo al nombramiento y funciones que desempeñen en los términos del contrato que se celebre.
 
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+Los trabajadores que formen parte del Cuerpo del Servicio Profesional de Carrera se regirán por lo dispuesto en esta Ley y en el Estatuto correspondiente.
+
 ###### ARTICULO 62.
 
 Cuando existan conflictos o diferencias laborales entre los servidores y el Tribunal, para la resolución de los mismos, se estará a lo establecido en el Libro Tercero de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+### CAPITULO XIX. DEL SERVICIO PROFESIONAL DE CARRERA
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 63.
+
+El Tribunal Electoral del Estado establecerá el Servicio Profesional de Carrera de sus servidores públicos, atendiendo a la capacidad, idoneidad, rectitud, probidad, constancia y profesionalismo.
+
+El Servicio Profesional de Carrera tendrá como propósito garantizar la estabilidad y seguridad en el empleo, así como fomentar la vocación de servicio y promover la capacitación.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 64.
+
+El servicio Profesional de Carrera se integrará por un Cuerpo que estructurará por niveles o rangos propios, diferenciados de los cargos y puestos de la estructura orgánica del Tribunal Electoral. Los niveles o rangos permitirán la promoción de los miembros titulares del Cuerpo. En este se desarrollará la carrera de los miembros permanentes del Servicio, de manera que puedan colaborar en el Tribunal Electoral en su conjunto y no exclusivamente en un cargo o puesto.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 65.
+
+El ingreso al Cuerpo procederá cuando el aspirante acredite los requisitos personales, académicos y de buena reputación que para cada uno de ellos señale el Estatuto y además haya cumplido con los cursos de formación y capacitación correspondientes y realice las prácticas en los órganos del Tribunal. Serán vías de acceso al Cuerpo el examen o el concurso, según lo señale el Estatuto.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 66.
+
+La permanencia de los servidores públicos en el Tribunal Electoral estará sujeta a la acreditación e los exámenes de los programas de formación y desarrollo profesional electoral y del resultado de la evaluación anual que se realicen de conformidad con lo establecido en el Estatuto.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 67.
+
+El Cuerpo proveerá de sus rangos o niveles a los funcionarios que cubrirán los cargos de Secretario General de Acuerdos del Tribunal, Juez Instructor, Secretario General de Acuerdos de Sala, Secretario de Capacitación, Investigación y Difusión Electoral Proyectista, Actuario, así como de los demás cargos que se determinen en el Estatuto.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 68.
+
+Los miembros del Servicio Profesional de Carrera estarán sujetos al régimen de responsabilidad del os servidores públicos del Estado previsto en el Título Décimo Tercero de la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 69.
+
+El Tribual Electoral expedirá el Estatuto que deberá contener las normas para:
+
+I.- Definir los niveles o rangos del Cuerpo y los cargos o puestos a los que dan acceso;
+
+II.- Formar el Catálogo General de Cargos y Puestos del Tribunal electoral del Estado;
+
+III.- El reclutamiento y selección de los funcionarios y técnicos que accederán al Cuerpo;
+
+IV.- Otorgar la titularidad en un nivel o rango del Cuerpo o rama y para el nombramiento en un cargo o puesto;
+
+V.- La formación y capacitación profesional y los métodos para la evaluación del rendimiento;
+
+VI.- Los sistemas de ascenso, movimientos a los cargos o puestos y para la aplicación de sanciones administrativas o remociones. Los ascensos se otorgarán sobre las bases de mérito y rendimiento;
+
+VII.- La contratación de prestadores de servicios profesionales para programas específicos y la realización de actividades eventuales;
+
+VIII.- El sistema salarial y condiciones de trabajo;
+
+IX.- La organización de empleados administrativos y trabajadores auxiliares y eventuales;
+
+X.- El sistema de recontratación de los servidores del Tribunal Electoral, quienes tendrán preferencia para reingresar a los cargos y puestos en cada proceso electoral. La recontratación se basará en el mérito y rendimiento mostrado en la labor realizada en el proceso electoral anterior; y
+
+XI.- Las demás necesarias para la organización y buen funcionamiento del Tribunal Electoral del Estado.
 
 T R A N S I T O R I O S
 
@@ -820,3 +898,15 @@ El Secretario General de Gobierno.
 C. LIC. HUMBERTO SALGADO GOMEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Magistrados a elegirse en el año 2004 durarán en su encargo del 1o. de junio del año 2004 al 31 de mayo del año 2008.
+
+TERCERO.- El Tribunal Electoral del Estado, emitirá las disposiciones relativas a la organización, funcionamiento y desarrollo del servicio profesional de carrera electoral, en un plazo no mayor de 60 días a la entrada en vigor del presente Decreto para la aplicación del servicio de carrera a partir del próximo proceso electoral.
+
+CUARTO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
