@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1985-02-08"
+last_updated: "1986-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 1986.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -924,15 +924,23 @@ Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la le
 
 Los diputados y senadores que no concurran a una sesión, sin causa justificada o sin permiso de la Cámara respectiva, no tendrán derecho a la dieta correspondiente al día en que falten.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
 ###### Art. 65.
 
-El Congreso se reunirá a partir del día 1o. de septiembre de cada año para celebrar sesiones ordinarias, en las cuales se ocupará del estudio, discusión y votación de las iniciativas de ley que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución.
+El Congreso se reunirá a partir del 1o. de noviembre de cada año, para celebrar un Primer Período de Sesiones Ordinarias y a partir del 15 de abril de cada año para celebrar un Segundo Período de Sesiones Ordinarias.
+
+En ambos Períodos de Sesiones el Congreso se ocupará del estudio, discusión y votación de las Iniciativas de Ley que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución.
+
+En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica.
+
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
 ###### Art. 66.
 
-El período de sesiones ordinarias durará el tiempo necesario para tratar de todos los asuntos mencionados en el artículo anterior; pero no podrá prolongarse más que hasta el treinta y uno de diciembre del mismo año. Si las dos Cámaras no estuvieren de acuerdo para poner término a las sesiones antes de la fecha indicada, resolverá el Presidente de la República.
+Cada Período de Sesiones Ordinarias durará el tiempo necesario para tratar todos los asuntos mencionados en el Artículo anterior, pero el Primero no podrá prolongarse más que hasta el 31 de diciembre del mismo año, y el Segundo hasta el 15 de julio del mismo año.
+
+Si las dos Cámaras no estuvieren de acuerdo para poner término a las Sesiones antes de las fechas indicadas, resolverá el Presidente de la República.
 
 > <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
 
@@ -944,11 +952,11 @@ El Congreso o una sola de las Cámaras, cuando se trate de asunto exclusivo de e
 
 Las dos Cámaras residirán en un mismo lugar y no podrán trasladarse a otro sin que antes convengan en la traslación y en el tiempo y modo de verificarla, designando un mismo punto para la reunión de ambas. Pero si conviniendo las dos en la traslación, difieren en cuanto al tiempo, modo y lugar, el Ejecutivo terminará la diferencia, eligiendo uno de los dos extremos en cuestión. Ninguna Cámara podrá suspender sus sesiones por más de tres días, sin consentimiento de la otra.
 
-> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
 ###### Art. 69.
 
-A la apertura de sesiones ordinarias del Congreso asistirá el Presidente de la República y presentará un informe por escrito, en el que manifieste el estado general que guarde la administración pública del país. En la apertura de las sesiones extraordinarias del Congreso de la Unión o de una sola de las Cámaras, el Presidente de la Comisión Permanente informará acerca de los motivos o razones que originaron la convocatoria.
+A la apertura de Sesiones Ordinarias del Primer Período del Congreso asistirá el Presidente de la República y presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública del país. En la apertura de las sesiones extraordinarias del Congreso de la Unión, o de una sola de sus Cámaras, el Presidente de la Comisión Permanente, informará acerca de los motivos o razones que originaron la convocatoria.
 
 ###### Art. 70.
 
@@ -1714,33 +1722,31 @@ VI.- De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
 Corresponde sólo a la Suprema Corte de Justicia de la Nación conocer de las controversias que se susciten entre dos o más Estados, entre los Poderes de un mismo Estado sobre la constitucionalidad de sus actos y de los conflictos entre la Federación y uno o más Estados, así como de aquellas en que la Federación sea parte en los casos que establezca la ley.
 
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
+
 ###### Art. 106.
 
-Corresponde también a la Suprema Corte de Justicia dirimir las competencias que se susciten entre los tribunales de la Federación, entre éstos y los de los Estados, o entre los de un Estado y los de otro.
+Corresponde al Poder Judicial de la Federación en los términos de la Ley respectiva, dirimir las competencias que se susciten entre los Tribunales de la Federación, entre éstos y los de los Estados o entre los de un Estado y los de otro.
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
 ###### Art. 107.
 
-Todas las controversias de que habla el artículo 103 se sujetarán a los procedimientos y formas del orden jurídico que determine la ley, de acuerdo con las bases siguientes:
+Todas las controversias de que habla el Artículo 103 se sujetarán a los procedimientos y formas del orden jurídico que determine la ley, de acuerdo con las bases siguientes:
+
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 I.- El juicio de amparo se seguirá siempre a instancia de parte agraviada.
 
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 1986)</small>
+
 II.- La sentencia será siempre tal, que sólo se ocupe de individuos particulares, limitándose a ampararlos y protegerlos en el caso especial sobre el que verse la queja, sin hacer una declaración general respecto de la ley o acto que la motivare.
 
-Podrá suplirse la deficiencia de la queja, cuando el acto reclamado se funde en leyes declaradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia.
+En el juicio de amparo deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la Ley Reglamentaria de los Artículos 103 y 107 de esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+Cuando se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos o a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios o comuneros, deberán recabarse de oficio todas aquellas pruebas que puedan beneficiar a las entidades o individuos mencionados y acordarse las diligencias que se estimen necesarias para precisar sus derechos agrarios, así como la naturaleza y efectos de los actos reclamados.
 
-Podrá también suplirse la deficiencia de la queja en materia penal y la de la parte obrera en materia de trabajo, cuando se encuentre que ha habido, en contra del agraviado, una violación manifiesta de la ley que lo ha dejado sin defensa, y en materia penal, además, cuando se le haya juzgado por una ley que no es exactamente aplicable al caso.
-
-> <small>(ADICIONADO, D.O.F. 20 DE MARZO DE 1974)</small>
-
-Podrá suplirse la deficiencia de la queja en los juicios de amparo contra actos que afecten derechos de menores o incapaces, de acuerdo con lo que disponga la Ley Reglamentaria de los artículos 103 y 107 de esta Constitución.
-
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
-
-En los juicios de amparo en que se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos y a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios o comuneros, deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la Ley Reglamentaria de los artículos 103 y 107 de esta Constitución, y no procederán, en ningún caso, la caducidad de la instancia ni el sobreseimiento por inactividad procesal. Tampoco será procedente el desistimiento cuando se afecten derechos de los ejidos o núcleos de población comunal.
+En los juicios a que se refiere el párrafo anterior no procederán, en perjuicio de los núcleos ejidales o comunales, o de los ejidatarios o comuneros, el sobreseimiento por inactividad procesal ni la caducidad de la instancia, pero uno y otra sí podrán decretarse en su beneficio. Cuando se reclamen actos que afecten los derechos colectivos del núcleo tampoco procederán el desistimiento ni el consentimiento expreso de los propios actos, salvo que el primero sea acordado por la Asamblea General o el segundo emane de ésta.
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
@@ -1749,6 +1755,8 @@ III.- Cuando se reclamen actos de tribunales judiciales, administrativos o del t
 a).- Contra sentencias definitivas o laudos respecto de los cuales no proceda ningún recurso ordinario por el que puedan ser modificados o reformados, ya sea que la violación se cometa en ellos, o que, cometida durante el procedimiento afecte a las defensas del quejoso, trascendiendo al resultado del fallo; siempre que en materia civil haya sido impugnada la violación en el curso del procedimiento mediante el recurso ordinario establecido por la ley e invocada como agravio en la segunda instancia, si se cometió en la primera. Estos requisitos no serán exigibles en el amparo contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten al orden y a la estabilidad de la familia.
 
 b).- Contra actos en juicio cuya ejecución sea de imposible reparación, fuera de juicio o después de concluido, una vez agotados los recursos que en su caso procedan, y
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 c).- Contra actos que afecten a personas extrañas al juicio.
 
@@ -1798,6 +1806,8 @@ f).- Cuando en materia penal, se reclame solamente la violación del artículo 2
 
 En los casos no previstos en los incisos anteriores, así como en los amparos promovidos contra actos de las autoridades administrativas, constituidas conforme a la fracción VI, base primera del artículo 73 de esta Constitución, conocerán de la revisión los Tribunales Colegiados de Circuito y sus sentencias no admitirán recurso alguno.
 
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+
 IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución, caso en que serán recurribles ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
 
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
@@ -1832,17 +1842,31 @@ La resolución que pronuncien las Salas o el Pleno de la Suprema Corte en los ca
 
 XIV.- Salvo lo dispuesto en el párrafo final de la fracción II de este artículo, se decretará el sobreseimiento del amparo o la caducidad de la instancia por inactividad del quejoso o del recurrente, respectivamente, cuando el acto reclamado sea del orden civil o administrativo, en los casos y términos que señale la ley reglamentaria. La caducidad de la instancia dejará firme la sentencia recurrida.
 
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+
 XV.- El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
+
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 XVI.- Si concedido el amparo la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, será inmediatamente separada de su cargo y consignada ante el Juez de Distrito que corresponda.
 
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+
 XVII.- La autoridad responsable será consignada a la autoridad correspondiente, cuando no suspenda el acto reclamado debiendo hacerlo, y cuando admita fianza que resulte ilusoria o insuficiente, siendo en estos dos últimos casos, solidaria la responsabilidad civil de la autoridad con el que ofreciere la fianza y el que la prestare.
+
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 XVIII.- Los alcaides y carceleros que no reciban copia autorizada del auto de formal prisión de un detenido, dentro de las setenta y dos horas que señala el artículo 19, contadas desde que aquél esté a disposición de su juez, deberán llamar la atención de éste sobre dicho particular, en el acto mismo de concluir el término y si no reciben la constancia mencionada, dentro de las tres horas siguientes lo pondrán en libertad.
 
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+
 Los infractores del artículo citado de esta disposición serán consignados inmediatamente a la autoridad competente.
 
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+
 También será consignado a la autoridad o Agente de ella, el que, realizada una aprehensión, no pusiere al detenido a disposición de su juez, dentro de las veinticuatro horas siguientes.
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 Si la detención se verificare fuera del lugar en que reside el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se efectuó la detención.
 
@@ -2613,6 +2637,18 @@ Se faculta al C. Encargado del Poder Ejecutivo de la Unión para que expida la l
 ###### Art. 16.
 
 El Congreso Constitucional en el período ordinario de sus sesiones, que comenzará el 1o. de septiembre de este año, expedirá todas las leyes orgánicas de la Constitución que no hubieren sido ya expedidas en el período extraordinario a que se refiere el artículo 6o. transitorio, y dará preferencia a las leyes relativas a Garantías Individuales, y artículos 30, 32, 33, 35, 36, 38, 107 y parte final del artículo 111 de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 1986)</small>
+
+###### Art. 17.
+
+Los Diputados que se elijan a la LIV Legislatura del Congreso de la Unión, durarán en funciones del 1o. de septiembre de 1988 hasta el 31 de octubre de 1991.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 1986)</small>
+
+###### Art. 18.
+
+Los Senadores que se elijan a las LIV y LV Legislaturas del Congreso de la Unión, durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1994.
 
 > <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
 
@@ -3483,3 +3519,21 @@ D.O.F. 8 DE FEBRERO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE ABRIL DE 1986.
+
+DECRETO QUE REFORMA LOS ARTICULOS 65, 66 Y 69, Y ADICIONA LOS ARTICULOS DECIMO SEPTIMO Y DECIMO OCTAVO TRANSITORIOS.
+
+###### ARTICULO 1o.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y las Reformas a los Artículos 65, 66 y 69 surtirán sus efectos a partir del 1o. de septiembre de 1989.
+
+###### ARTICULO 2o.
+
+Los Artículos Transitorios Décimo Séptimo y Décimo Octavo de la Constitución surtirán sus efectos a partir del 1o. de septiembre de 1988.
+
+D.O.F. 7 DE ABRIL DE 1986.
+
+DECRETO QUE REFORMA LOS ARTICULOS 106 Y 107.
+
+UNICO.- El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Diario Oficial de la Federación.
