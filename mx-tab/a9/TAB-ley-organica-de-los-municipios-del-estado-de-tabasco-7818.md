@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-7818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-04"
-last_updated: "1984-02-04"
+last_updated: "1991-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 4 de febrero de 1984.
 
@@ -501,11 +501,15 @@ Al instalarse el nuevo Ayuntamiento, deberá comunicar los nombres de sus integr
 
 Los funcionarios municipales requieren licencia del Ayuntamiento para separarse del ejercicio de sus funciones.
 
-Las faltas de los funcionarios municipales podrán ser temporales o definitivas. Las primeras serán aquellas que no excedan de quince días.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1991)</small>
+
+Las faltas de los funcionarios municipales podrán ser temporales o definitivas. Las primeras serán aquellas que no excedan de noventa días.
 
 Las faltas temporales del Presidente Municipal serán suplidas por el Síndico de Hacienda, y en defecto de este por el que le siga en número.
 
-Las de los Regidores no se suplirán cuando no excedan de ochenta días y mientras haya suficientes miembros para que los actos del Ayuntamiento tengan validez legal, cuando no haya ese número o excedieren del plazo indicado, se llamará al suplente respectivo.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1991)</small>
+
+Las de los Regidores no se suplirán cuando no excedan de quince días y mientras hayan suficientes miembros para que los actos del Ayuntamiento tengan validez legal, cuando no haya ese número o excedieren del plazo indicado, se llamará al suplente respectivo.
 
 ###### Artículo 50.
 
@@ -705,9 +709,15 @@ Se considerará desaparecido un Ayuntamiento por las mismas causas graves establ
 
 Cuando la Legislatura del Estado declare suspendido o desaparecido un Ayuntamiento por las causas señaladas en el artículo anterior y no procediere que entraren en funciones los suplentes, ni que se celebren nuevas elecciones según lo dispuesto por las Leyes aplicables, la propia Legislatura designará entre los vecinos del Municipio el Concejo Municipal que concluirá el período respectivo.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1991)</small>
+
 ###### Artículo 65.
 
-Si alguno de los miembros propietarios de los Ayuntamientos dejara de desempeñar su cargo, será sustituido por su suplente. De no ser posible lo anterior, la Legislatura del Estado designara entre los vecinos al substituto, siempre que se trate de Regidores o del Sindico de Hacienda. Si se tratare del Presidente Municipal, lo substituirá el Sindico de Hacienda y a este lo substituirá su suplente y de no ser posible, la Legislatura declarará suspendido el Ayuntamiento, para proceder en los términos del artículo anterior. Para el primer caso, la situación será comunicada al Ayuntamiento por cualquiera de sus miembros y en los demás, a la Legislatura por el Presidente Municipal o por quien preside el Ayuntamiento, por el Gobernador del Estado o por los Diputados, según el caso.
+Si alguno de los miembros propietarios de los Ayuntamientos dejara de desempeñar su cargo, será sustituido por su suplente.
+
+Si el del Presidente no puede hacerlo, lo sustituirá uno de los Regidores a elección del propio Ayuntamiento y al elegido lo cubrirá su suplente.
+
+Cuando el número de Regidores en funciones, aún llamados los suplentes y que no se trate del Presidente Municipal, no sea suficiente para que los actos del Ayuntamiento tengan validez, la Legislatura del Estado designará de entre los vecinos a los sustitutos. De no ser posible lo señalado en los párrafos anteriores, la Legislatura declarará suspendido el Ayuntamiento, para proceder en los términos del Artículo que "precede". Para el primer caso, la situación será comunicada al Ayuntamiento por cualquiera de sus miembros y en los demás, a la Legislatura por el Presidente Municipal o por quien preside el Ayuntamiento, por el Gobernador del Estado o por los Diputados, según el caso.
 
 ###### Artículo 66.
 
@@ -1508,3 +1518,11 @@ ENRIQUE GONZÁLEZ PEDRERO
 LIC. JOSÉ EDUARDO BELTRAN HERNÁNDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE NOVIEMBRE DE 1991.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto surte sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
