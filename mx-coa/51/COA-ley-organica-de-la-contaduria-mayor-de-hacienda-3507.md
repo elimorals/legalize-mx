@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-contaduria-mayor-de-hacienda-3507"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-11-14"
-last_updated: "1989-11-14"
+last_updated: "1997-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de noviembre de 1989.
 
@@ -165,7 +165,9 @@ IV.- Fijar las normas técnicas y los procedimientos a que deban sujetarse las v
 
 V.- Informar a la Comisión de la Contaduría Mayor de Hacienda, o a la Diputación Permanente a más tardar en el último día del mes de mayo, sobre los trabajos ejecutados por la dependencia durante el ejercicio fiscal anterior, con la expresión que guardan las glosas de las cuentas;
 
-VI.- Fijar los plazos prudentes que no excederán de 30 días para que los tesoreros municipales remitan sus cuentas y contestaciones de glosa;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1997)</small>
+
+VI.- Fijar los plazos prudentes que no excederán de treinta días para que los tesoreros municipales remitan sus cuentas y contestaciones de glosa. El Gobernador del Estado, por conducto de la Secretaría de Finanzas deberá remitir el estado mensual de la cuenta de ingresos y egresos dentro de los noventa días siguientes del mes de que se trate;
 
 VII.- Requerir de las oficinas correspondientes, la información contable y financiera que sea necesaria para cumplir con los objetivos de la Contaduría Mayor de Hacienda;
 
@@ -420,3 +422,9 @@ EL SECRETARIO DE GOBIERNO:
 LIC. JOSE FUENTES GARCIA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE ABRIL DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
