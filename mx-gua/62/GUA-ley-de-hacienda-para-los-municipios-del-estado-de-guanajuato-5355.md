@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1999-12-28"
+last_updated: "2000-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -151,9 +151,11 @@ V.- Señalar la autoridad a la que se dirige y el propósito de la promoción.
 
 Cuando no se cumplan los requisitos a que se refiere este Artículo las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días, cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 10.
 
-Los sujetos pasivos y los retenedores deberán dar aviso a la Tesorería Municipal, de los siguientes cambios:
+Los sujetos pasivos y los retenedores deberán dar aviso a la Tesorería Municipal, dentro de un plazo de treinta días, de los siguientes cambios:
 
 I.- De domicilio;
 
@@ -537,7 +539,9 @@ Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado e
 
 Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el artículo 54 los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
-Cuando el contribuyente pague en forma espontánea en los términos del artículo 67 de esta Ley, las contribuciones omitidas y el importe de los recargos no excederá de los causados durante un año.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Cuando el contribuyente pague en forma espontánea las contribuciones omitidas, en los términos del artículo 67 de esta Ley, el importe de los recargos que se determinen, no deberá exceder de los causados durante un año.
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la Tesorería Municipal, ésta deberá aceptar el pago y proceder a exigir el remanente.
 
@@ -1503,6 +1507,10 @@ Están obligados al pago de éste impuesto las personas físicas o morales que s
 
 Los inmuebles del régimen ejidal y comunal, cuyo derecho de propiedad se confiere a sus titulares dentro del programa de certificación de derechos ejidales y titulación de solares urbanos, seguirán tributando en los mismos términos en que lo venían haciendo antes de la incorporación a dicho programa, sujetándose al pago de este impuesto en los términos de esta Ley, a partir del primer acto traslativo de dominio.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Quedan exentos del pago de este impuesto los bines del dominio público de la Federación, del Estado y de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales, o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
 ###### ARTICULO 162.
 
 La base del Impuesto Predial será el valor fiscal de los inmuebles, el cual se determinará:
@@ -1575,9 +1583,11 @@ Para los efectos de este artículo, se requiere solicitud por escrito del contri
 
 La solicitud con sus anexos, deberá presentarse a la Tesorería Municipal correspondiente, la que una vez analizada la misma, emitirá el dictamen respectivo; en todo caso, la cuota mínima surtirá sus efectos a partir del siguiente bimestre al en que se haya presentado la solicitud.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 165.
 
-Este Impuesto deberá pagarse bimestralmente dentro del primer mes que corresponda, hecha excepción de las cuotas mínimas a que se refiere la Ley de Ingresos para los Municipios del Estado, que se cubrirá anualmente durante el primer bimestre.
+Este Impuesto deberá cubrirse por anualidad en una sola exhibición durante el primer bimestre del año, o bien por bimestre dentro del primer mes que corresponda, a elección del contribuyente, hecha excepción de las cuotas mínimas a que se refiere la Ley de Ingresos para los Municipios del Estado, las cuales deberán cubrirse por anualidad durante el primer bimestre.
 
 ###### ARTICULO 166.
 
@@ -1605,13 +1615,17 @@ Todo inmueble deberá estar inscrito en los padrones fiscales. La violación de 
 
 El valor fiscal de los inmuebles, solo podrá ser modificado, por la manifestación del valor de los inmuebles de los contribuyentes; cuando se produzca un cambio en cuanto al nombre del contribuyente, a las características del inmueble; o por otra circunstancia que origine una alteración de su valor con motivo de la ejecución de obras públicas, así como en la reconstrucción o rehabilitación de dichas obras.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-No habiendo alguna de las causas anteriores, el valor fiscal solo podrá ser modificado por avalúo, que tendrá vigencia por dos años. Dicho avalúo entrará en vigor a partir del bimestre siguiente a la fecha en que se notifique.
+No habiendo alguna de las causas anteriores, el valor fiscal únicamente podrá ser modificado por avalúo, que tendrá vigencia por dos años, el cual se aplicará a partir del bimestre siguiente a la fecha en que se notifique. En este caso no podrá exigirse al contribuyente que cubra las diferencias que se deriven del nuevo valor fiscal y el anterior. Los bimestres posteriores a la notificación, deberán cubrirse conforme al nuevo valor fiscal.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 Al término de la vigencia establecida y en tanto se practica el nuevo avalúo, la base del impuesto predial seguirá siendo la del último valor fiscal.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Cuando el contribuyente cubra por anualidad el impuesto predial y posteriormente la autoridad municipal ordene la práctica de un avaluó, no podrá exigirse el pago de las diferencias que resulten del valor anterior y el que arroje el avaluó practicado, en el ejercicio fiscal en que se llevó a cabo el avaluó.
 
 ###### ARTICULO 169.
 
@@ -2488,3 +2502,9 @@ P.O. 28 DE DICIEMBRE DE 1999.
 Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero del año 2000 dos mil.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan la presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor el primero de enero del año 2001, previa publicación en el periódico oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
