@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1982-12-30"
+last_updated: "1983-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE MARZO DE 1983.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -1849,107 +1849,77 @@ Los sujetos de este impuesto deberán registrarse en la oficina recaudadora de s
 
 #### Sección Primera. Del Impuesto Sobre Traslación de Dominio
 
+> <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
+
 ###### Artículo 183.
 
-Es objeto de este impuesto, la traslación de dominio de bienes muebles e inmuebles, comprendida en las siguientes operaciones:
+En (sic) objeto de este impuesto, la traslación de dominio de bienes muebles e inmuebles, comprendida en las siguientes operaciones:
 
-I.- La enajenación de bienes;
+I.- La adquisición de bienes inmuebles que consistan en suelo o en el suelo y las construcciones adheridas a él, ubicados en el Territorio del Estado.
 
-II.- La promesa de enajenación de bienes;
+II.- La enajenación, adjudicación y permuta de bienes muebles usados, en operaciones realizadas por personas no constituidas como empresas.
 
-III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+III.- La donación de bienes muebles. En tratándose de empresas únicamente se gravará cuando el donativo sea deducible para los fines del Impuesto Sobre la Renta.
 
-IV.- La adquisición de bienes por prescripción;
-
-V.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
-
-VI.- La transmisión de la propiedad de bienes inmuebles que se haga a sociedad mercantil, asociación o sociedad civil, así como en los casos de fusión de sociedades;
-
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 1980)</small>
-
-VII.- La adjudicación o dación en pago de bienes inmuebles por liquidación de una sociedad mercantil, asociación o sociedad civil;
-
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-VIII.- La donación de bienes muebles e inmuebles. En tratándose de bienes muebles, ésta no se gravará cuando la realicen empresas para las cuales el donativo no sea deducible para los fines del impuesto sobre la Renta;
-
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-IX.- La cesión de derechos reales, incluyendo la que se realice en los casos de fusión de sociedades;
-
-X.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
-
-XI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
-
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-XII.- La adjudicación de bienes muebles e inmuebles en pago, y por remate a postor o fuera de subasta.
-
-Tratándose de bienes muebles sólo se observarán los usados, siempre y cuando el deudor no esté constituido como empresa;
-
-> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
-
-XIII.- El acto constitutivo de fideicomiso, cuando se afecte un bien inmueble o más de uno y la cesión, transmisión o aportación de derechos de fideicomitente o de fideicomisario, cuando en el fideicomiso el objeto del mismo sean bienes inmuebles;
-
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-XIV.- La permuta de bienes;
-
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-XV.- Constitución, transmisión y extinción de usufructo.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
 
 ###### Artículo 184.
 
-En las fracciones I, II y XIV del Artículo anterior, queda comprendido todo lo concerniente a bienes muebles usados en transmisiones realizadas por personas no constituidas como empresas, e inmuebles.
+Para los efectos de este Impuesto, se entiende por adquisición, la que derive de:
+
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación y la aportación a toda clase de asociaciones o sociedades.
+
+II.- La compra-venta en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
+
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él antes de que se celebre el contrato prometido.
+
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las Fracciones II y III que anteceden, respectivamente.
+
+V.- Fusión de Sociedades.
+
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
+
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
+
+VIII.- Prescripción Positiva.
+
+IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
+
+X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación.
+
+En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
 
 ###### Artículo 185.
 
-El impuesto se causa en el momento en que se realicen las operaciones gravadas, aún cuando sean a plazo o a crédito, sin incluir el sobreprecio, los intereses o cualquier otra prestación que lo aumente, lo cual queda gravado con el impuesto Sobre Capitales.
+El impuesto se causa en el momento en que se realicen las operaciones gravadas, aún cuando sean a plazo o a crédito, sin incluir los intereses.
+
+> <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
 
 ###### Artículo 186.
 
 Son sujetos de este impuesto:
 
-I.- Las partes en la enajenación o promesa de enajenación de bienes;
+I.- En operaciones sobre inmuebles:
 
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 1980)</small>
+a).- El adquirente, en el caso de la fracción I del Artículo 183.
 
-II.- El adjudicatario en la adjudicación o dación en pago;
+II.- En operaciones sobre muebles:
 
-III.- El adquirente, en la prescripción;
+a).- Las partes en la enajenación.
 
-IV.- El donatario, en la donación;
+b).- El adjudicatario, en la adjudicación.
 
-V.- El cesionario, en la cesión;
+c).- Cada uno de los permutantes, en la transmisión de bienes por permuta.
 
-VI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+d).- El donatario en la donación.
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-VII.- Quien transmita la propiedad, en los casos previstos en la fracción VI del Artículo 183;
-
-> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
-
-VIII.- El fideicomitente y el fideicomisario, en la constitución del fideicomiso;
-
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-IX.- Cada uno de los permutantes, en la transmisión de bienes por permuta;
-
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-X.- El usufructuario, en el usufructo.
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
 
 ###### Artículo 187.
 
-En tratándose de la Fracción I del Artículo Anterior, la exención que goce en el pago del Impuesto uno de los sujetos, no beneficia al otro.
+En tratándose de la Fracción II inciso a) del artículo anterior, la exención que goce en el pago del Impuesto uno de los sujetos, no beneficia al otro.
 
 ###### Artículo 188.
 
@@ -1957,11 +1927,21 @@ La base del impuesto, será la siguiente:
 
 I.- Para los bienes muebles: el valor mas alto entre el que tengan en el mercado y el de la factura o del acto o contrato del que derive la traslación de dominio; y
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, B.O. 3 DE MARZO DE 1983)</small>
 
-II.- Para los bienes inmuebles: El valor que resulte mayor entre el valor catastral, el valor de la operación y el avalúo hecho por una Institución de Crédito, el cual tendrá una vigencia no mayor de seis meses, contados a partir de la fecha de su expedición.
+II.- Para los bienes inmuebles, el valor que resulte mayor entre los siguientes:
 
-La Tesorería General del Estado a través de la Dirección de Catastro, se reserva la facultad de revisar los avalúos practicados por la Instituciones de crédito, los que podrán ser rechazados en caso de que no se apeguen a los precios reales del valor comercial del terreno y con los valores unitarios comerciales de construcción en el momento que se elabore el dictamen correspondiente;
+a).- El consignado en avalúo hecho por una institución de crédito, el cual deberá tener una vigencia no mayor de seis meses, contados a partir de la fecha de su expedición.
+
+La Tesorería General del Estado, a través de la Dirección de Catastro, se reserva la facultad de revisar los avalúos practicados por las Instituciones de crédito, los que podrán ser rechazados en caso de que no se apeguen a los precios reales del valor comercial del terreno y con los valores unitarios comerciales de construcción en el momento que se elabore el dictamen correspondiente.
+
+b).- El catastral, y
+
+c).- El que resulte de aplicar al precio pactado el factor que anualmente establezca el Congreso de la Unión, conforme al número de años transcurridos entre la fecha de adquisición y la fecha en que sea exigible el pago.
+
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar uno o más deudas o de perdonarlas el importe de ellas se considerará parte del precio pactado.
+
+Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad;
 
 > <small>(ADICIONADA, B.O. 4 DE JUNIO DE 1977)</small>
 
@@ -1979,23 +1959,33 @@ La tasa del impuesto, será:
 
 I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles, al realizarse la operación $1,000.00;
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, B.O. 3 DE MARZO DE 1983)</small>
 
-II.- Sobre el precio de la operación o al determinarse el valor de los bienes en las operaciones a que se refiere la fracción anterior: 4.0%;
+II.- Sobre la base determinada conforme a la fracción I del Artículo Anterior, el 4%;
 
-III.- En tratándose de bienes inmuebles, sobre el precio de la operación o valor de los mismos:
+> <small>(REFORMADA, B.O. 3 DE MARZO DE 1983)</small>
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+III.- En las operaciones sobre bienes inmuebles, el impuesto se calculará, aplicando la tasa del 8% a la base determinada, después de reducirla en cinco veces el salario mínimo general elevado al año, de la zona económica en la que se encuentre ubicado el inmueble, correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto.
 
-a).- Predios rústicos: 2.0% y
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-b).- Predios Urbanos: 2.5% y
+Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles;
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
+
+> <small>(ADICIONADO, B.O. 3 DE MARZO DE 1983)</small>
+
+###### Artículo 189 Bis.
+
+La reducción a que se refiere la Fracción III del Artículo anterior, se realizará conforme a lo siguiente:
+
+I.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto de la reducción y pagará en su caso, las diferencias del impuesto que corresponda.
+
+II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el Art. 184 de esta Ley, la reducción se hará en la proporción que corresponda a dicha parte.
+
+III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
+
+IV.- No se considerarán departamentos habitacionales, los que por sus características originales, destinen a servicios domésticos, portería o guarda de vehículos, aún cuando se utilicen para otros fines.
 
 ###### Artículo 190.
 
@@ -2007,39 +1997,27 @@ II.- Los notarios, corredores públicos, jueces y demás fedatarios que por disp
 
 III.- Los funcionarios públicos o empleados de la Federación, del Estado o de sus Municipios, por los gravámenes omitidos en escritos presentados ante ellos, donde consten actos, contratos o documentos que aludan a operaciones gravadas por este impuesto, si no los consignan a la Tesorería General del Estado dentro de los treinta días siguientes a la presentación.
 
+> <small>(REFORMADO, B.O. 3 DE MARZO DE 1983)</small>
+
 ###### Artículo 191.
 
-No causan este impuesto:
+No se pagará este impuesto en los siguientes casos:
 
-I.- Los ingresos, operaciones o actividades gravadas con otros impuestos establecidos en esta Ley;
+I.- En las adquisiciones por las Instituciones de asistencia o de beneficencia, autorizadas por leyes de la materia, Instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares, con autorización o con reconocimiento de validez oficial de estudios en los términos de las Leyes Federal y Estatal de Educación, por los bienes destinados exclusivamente a sus fines educativos.
 
-II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+II.- En las adquisiciones que se realicen al constituir o disolver la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales.
 
-III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+III.- En las adquisiciones por la Federación, Estados, Distrito Federal y Municipios y los estados extranjeros en caso de reciprocidad.
 
-IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
+IV.- En las adquisiciones por los partidos y asociaciones políticas para su propio uso.
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+V.- La adjudicaciones realizadas por organismos descentralizados de la Federación, del Distrito Federal, de los Estados y de los Municipios que promuevan la vivienda de interés social.
 
-V.- La partición de la copropiedad, siempre que las partes adjudicadas no excedan de las porciones que pro-indiviso correspondían a los sujetos;
+VI.- La adjudicación de bienes por sucesión.
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+VII.- La partición de la copropiedad siempre que en las partes adjudicadas no excedan de las partes que pro-indiviso corresponderían a los sujetos.
 
-VI.- Cuando se trate de la transmisión de derechos reales sobre inmuebles distintos del de dominio, copropiedad del de usufructo;
-
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
-
-VII.- La enajenación de bienes inmuebles que realicen las Instituciones de beneficencia privada, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, el Instituto de Desarrollo Urbano y Rural del Estado de Sonora, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado al Servicio de la Federación y el Instituto Nacional del Desarrollo de la Comunidad, siempre y cuando los bienes a que se refieren se apliquen efectivamente al cumplimiento de los fines propios de dichas Instituciones;
-
-VIII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
-
-> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
-
-IX.- La adjudicación de bienes por sucesión, así como por disolución de la Sociedad conyugal o legal;
-
-> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
-
-X.- Los actos constitutivos de fideicomiso de administración, de garantía o testamentario.
+VIII.- Las adquisiciones que reúnan los requisitos exigidos por la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
 ###### Artículo 192.
 
@@ -4322,3 +4300,9 @@ SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y
 B.O. 30 DE DICIEMBRE DE 1982.
 
 UNICO.- Esta Ley entrará en vigor en todo el Estado, el 1o. de Enero de 1983, previa su publicación, previa su publicación en el Boletín Oficial del Estado.
+
+B.O. 3 DE MARZO DE 1983.
+
+PRIMERO.- Esta Ley entrará en vigor en todo el Estado, el día siguiente de su publicación en el Boletín Oficial del Estado.
+
+SEGUNDO.- Los impuestos y contribuciones causados conforme a las disposiciones vigentes y con anterioridad a la fecha en que entre en vigor la presente reforma, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
