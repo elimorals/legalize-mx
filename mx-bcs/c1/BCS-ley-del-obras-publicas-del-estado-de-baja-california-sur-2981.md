@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-obras-publicas-del-estado-de-baja-california-sur-2981"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-12"
-last_updated: "1984-09-12"
+last_updated: "2004-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 2004.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 12 de septiembre de 1984.
 
@@ -315,7 +315,9 @@ I.- Nombre o denominación de la dependencia o entidad convocante.
 
 II.- El lugar y descripción general de la obra que se desee ejecutar.
 
-III. Los requisitos que deberán cumplir los interesados.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE AGOSTO DE 2004)</small>
+
+III. Los requisitos que deberán cumplir los interesados debiéndose exigir, por parte de la contratante, dentro de los mismos, el pago completo y puntual por los servicios prestados a los trabajadores contratados, por parte de la empresa contratada, para la obra pública.
 
 IV.- Información sobre los anticipos.
 
@@ -439,7 +441,13 @@ La recepción de los trabajos se hará dentro de los treinta días hábiles sigu
 
 La contratante comunicará a la Contraloría General del Estado o al Síndico Municipal en su caso, la terminación de los trabajos, y, con anticipación no menor de diez días hábiles, informará la fecha señalada para su recepción, a fin de que, si lo estiman conveniente, nombren representantes que asistan al acto.
 
-En la fecha señalada la contratante bajo su responsabilidad recibirá los trabajos y levantará el acta correspondiente con o sin la comparecencia de los representantes a que se refiere el párrafo anterior.
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+En la fecha señalada la contratante bajo su responsabilidad recibirá los trabajos y levantará el acta correspondiente con o sin la comparecencia de los representantes, a que se refiere el párrafo anterior donde deberá aparecer la constancia de no adeudos de la empresa contratada, a los prestadores de servicios en el ramo de la construcción, cuando lo sean: transportistas de materiales, albañiles, ladrilleros, peones y similares, acta que deberá de ser verificada por la Unidad de Control Gubernamental y Desarrollo Administrativo del Estado o su equivalente, o el síndico municipal, en su caso.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+En caso de no presentar los no adeudos a los prestadores de servicios cuando lo sean: transportistas de materiales, albañiles, ladrilleros, peones y similares, se declarará en mora la recepción de dicha obra por parte de la Unidad de Control Gubernamental y Desarrollo Administrativo del Estado hasta que sean presentados los no adeudos.
 
 ###### ARTICULO 45.
 
@@ -644,3 +652,11 @@ ALBERTO ANDRES ALVARADO ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ANTONIO B. MANRIQUEZ GULUARTE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan en su letra o en su espíritu a esta Ley.
