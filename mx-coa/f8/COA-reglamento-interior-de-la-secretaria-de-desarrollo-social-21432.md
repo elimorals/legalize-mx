@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-social-21432
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-18"
-last_updated: "2001-05-18"
+last_updated: "2004-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 18 de mayo de 2001.
 
@@ -566,3 +568,13 @@ LIC. RAÚL SIFUENTES GUERRERO
 EL SECRETARIO DE DESARROLLO SOCIAL
 
 LIC. HORACIO DEL BOSQUE DÁVILA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JULIO DE 2004.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interno de la Secretaría de Desarrollo Social publicado en el Periódico Oficial del Gobierno del Estado N°. 40 del 18 de Mayo de 2001 y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos pendientes al entrar en vigor este reglamento que, conforme al mismo, deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este reglamento.
