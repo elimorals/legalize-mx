@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-tribunal-electoral-de-quintana-roo-25782"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2002-08-27"
+last_updated: "2003-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL TRIBUNAL ELECTORAL DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -163,9 +163,11 @@ V. La designación de los Magistrados se mandará a publicar en el Periódico Of
 
 VI. Los designados deberán comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la protesta de ley.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 14.
 
-Los Magistrados Numerarios durarán en su encargo dos procesos electorales, pudiendo ser reelectos por uno más.
+Los Magistrados Numerarios durarán en su encargo seis años, y podrán ser ratificados de manera individual, hasta por un periodo más de tres años, con la misma votación requerida para su nombramiento.
 
 ###### Artículo 15.
 
@@ -818,3 +820,13 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ.
 EL SECRETARIO DE GOBIERNO.
 
 VÍCTOR M. ALCÉRRECA SÁNCHEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE DICIEMBRE DE 2003.
+
+Artículo Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Consejero Presidente y los Consejeros Electorales Propietarios y Suplentes del Consejo General del Instituto Electoral de Quintana Roo, así como los Magistrados Numerarios del Tribunal Electoral de Quintana Roo, que fueron electos el 31 de enero de 2003, durarán en su encargo seis años, contados a partir de esa propia fecha.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que contravengan a la presente.
