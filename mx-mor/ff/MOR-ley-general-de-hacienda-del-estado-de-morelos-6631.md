@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2001-05-09"
+last_updated: "2002-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DEL 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -2453,79 +2453,37 @@ D E R O G A D O (SIC)
 
 ### CAPITULO DECIMO TERCERO. IMPUESTO AL EJERCICIO DE LAS PROFESIONES QUE NO CAUSEN EL IMPUESTO AL VALOR AGREGADO
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
-
 ###### ARTICULO 370.
 
-Es objeto de este impuesto la percepción de ingresos dentro del territorio del Estado derivados de la prestación de servicios profesionales de medicina cuando para su ejercicio se requiera Título Médico, bajo cualquier especialidad o denominación con que se le designe inclusive aquellas ramas de atención bucodental y veterinaria.
-
-Para los efectos de este impuesto el ingreso se considera percibido en el Estado cuando el sujeto pasivo resida en el mismo o cuando residiendo fuera de este la fuente de ingreso se encuentre en la entidad.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2002)
 
 ###### ARTICULO 371.
 
-Son sujetos de este impuesto, las personas físicas que ejercen en forma independiente o cuando ejerzan organizadas en sociedades civiles y realicen actividades comprendidas en el artículo anterior.
-
-Para los efectos de este impuesto se considerará el ingreso exclusivamente de quien lo perciba.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2002)
 
 ###### ARTICULO 372.
 
-Es base del impuesto el ingreso bruto que mensualmente perciba la persona física que ejerza en forma independiente o que corresponda a cada persona cuando ejerza organizada en sociedades civiles.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2002)
 
 ###### ARTICULO 373.
 
-A la base del impuesto determinada conforme al artículo precedente, deberá aplicase la tasa del 2%.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2002)
 
 ###### ARTICULO 374.
 
-El pago de este impuesto deberá cubrirse mensualmente dentro de los primeros quince días del mes siguiente al de percepción de los ingresos, mediante una declaración que contenga los datos relativos a los ingresos objeto de este impuesto obtenido durante el mes anterior.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2002)
 
 ###### ARTICULO 375.
 
-Los sujetos de este impuesto están obligados a:
-
-I.- Empadronarse ante la Administración o Receptoría de Rentas correspondiente a su domicilio fiscal, dentro del mes siguiente a la fecha de inicio de operaciones, en las formas aprobadas por la Secretaría de Programación y Finanzas del Estado;
-
-II.- Presentar ante la Administración o Receptoría de Rentas correspondiente a su domicilio fiscal, en su caso, los avisos siguientes:
-
-Cambio de nombre, cambio de domicilio fiscal, cierre o apertura de sucursales o clausuras del establecimiento, dentro del mismo plazo establecido en la fracción anterior;
-
-III.- Llevar los libros y registros y expedir los recibos que establezcan las disposiciones fiscales federales que le sean aplicables; y
-
-IV.- Las demás que establezcan las leyes federales y locales.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2002)
 
 ###### ARTICULO 376.
 
-Están exentos de este impuesto las personas físicas cuyo ingreso bruto diario no exceda de dos veces el salario mínimo general y no realicen ninguna otra actividad gravada por esta Ley.
-
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2002)
 
 ###### ARTICULO 377.
 
-La Secretaría de Programación y Finanzas del Estado por conducto de la Dirección General de Ingresos, podrá determinar estimativamente el ingreso gravable de los sujetos de este impuesto, en los siguientes casos:
-
-I.- Cuando no se encuentren empadronados;
-
-II.- Cuando no se presenten declaraciones;
-
-III.- Cuando no lleven o no exhiban a requerimiento de la autoridad competente los libros o documentos que están obligados a llevar;
-
-IV.- Cuando los libros de contabilidad se encuentren en blanco o atrasados o no expidan los documentos que establecen las leyes fiscales que les sean aplicables.
-
-V.- Cuando se opongan u obstaculicen la iniciación o desarrollo de una visita domiciliaria ordenada por la Secretaría de Programación y Finanzas del Estado; y
-
-VI.- Cuando los signos externos de riqueza del contribuyente pongan de manifiesto un ingreso superior en más del 20% del declarado.
+(DEROGADO, P.O. 12 DE JUNIO DE 2002)
 
 ### CAPITULO DECIMO CUARTO. DEL IMPUESTO ADICIONAL
 
@@ -5208,3 +5166,13 @@ TERCERO.- El Fideicomiso Público de Administración, Inversión y Ejecución a 
 CUARTO.- La cantidad acumulada durante el ejercicio fiscal del año dos mil y lo que se acumule hasta el momento de la constitución del fideicomiso se integrará como primera aportación al patrimonio fideicomitido, deduciendo el ocho por ciento por gastos de recaudación y los gastos inherentes a su constitución.
 
 QUINTO.- Los recursos que constituyan el patrimonio del fideicomiso podrán destinarse a los fines que le sean propios a partir del momento de su constitución, previo acuerdo de su comité técnico y en base a sus reglas de operación.
+
+P.O. 12 DE JUNIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
