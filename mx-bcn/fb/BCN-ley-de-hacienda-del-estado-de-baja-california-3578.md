@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2000-02-25"
+last_updated: "2000-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -455,9 +455,11 @@ Los causantes y retenedores de este impuesto están obligados a presentar sus de
 
 La autoridad fiscal verificará la exactitud y veracidad de la declaración, exigiendo el pago que realmente corresponda e imponiendo las sanciones respectivas.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 69.
 
-Las declaraciones deberán hacerse en las formas aprobadas por la Secretaría de Finanzas y en ellas se consignarán todos los datos que las mismas exijan.
+Las declaraciones deberán hacerse en las formas aprobadas por la Secretaría de Planeación y Finanzas y en ellas se consignarán todos los datos que las mismas exijan.
 
 ###### ARTICULO 70.
 
@@ -537,9 +539,9 @@ Es obligación de las personas que obtengan los bienes o servicios consignados e
 
 En los casos de compras de mercancías facturadas en el extranjero, éstas deberán estar amparadas con la correspondiente relación aduanal de importación o boletas en su caso, a nombre del causante.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Secretaría de Finanzas del Estado, y en caso de no hacerlo será solidariamente responsable del impuesto omitido.
+En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Secretaría de Planeación y Finanzas del Estado, y en caso de no hacerlo será solidariamente responsable del impuesto omitido.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
@@ -625,9 +627,11 @@ Los contadores, al firmar o rendir dictamen sobre el balance de los contribuyent
 
 En el caso de translación de dominio, por cualquier título, de establecimientos en los cuales perciban ingresos gravados con este impuesto, con los mismos negocios se responderá objetivamente de los créditos fiscales insolutos.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 83.
 
-Las personas físicas o morales que tengan relaciones mercantiles con alguno o algunos de los causantes de este Impuesto, deberán auxiliar a la Secretaría de Finanzas y a sus Dependencias, suministrándoles los informes y datos que soliciten en relación con la aplicación de este mismo Impuesto.
+Las personas físicas o morales que tengan relaciones mercantiles con alguno o algunos de los causantes de este Impuesto, deberán auxiliar a la Secretaría de Planeación y Finanzas y a sus Dependencias, suministrándoles los informes y datos que soliciten en relación con la aplicación de este mismo Impuesto.
 
 ###### ARTICULO 84.
 
@@ -909,15 +913,11 @@ DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTA
 
 DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
-###### ARTICULO 119.- N.
-
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 119.
 
-Los causantes de este impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme al volumen despepitado en el mes inmediato anterior mediante la presentación de una declaración en las formas autorizadas por la Secretaría de Finanzas en la Recaudación de Rentas correspondiente, la que deberá contener el dato de los kilos de algodón en pluma despepitados y el tonelaje de la semilla de algodón obtenida.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+Los causantes de este impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme al volumen despepitado en el mes inmediato anterior mediante la presentación de una declaración en las formas autorizadas por la Secretaría de Planeación y Finanzas en la Recaudación de Rentas correspondiente, la que deberá contener el dato de los kilos de algodón en pluma despepitados y el tonelaje de la semilla de algodón obtenida.
 
 ###### ARTICULO 120.- N.
 
@@ -1005,15 +1005,17 @@ Cuando en los servicios de hospedaje, se incluyan servicios accesorios tales com
 
 Este impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa que al efecto señale la Ley de Ingresos del Estado.
 
-Este impuesto será destinado para la promoción y difusión de la actividad turística del Estado, en la forma y términos que se establezca anualmente en la Ley de Ingresos del Estado, y será determinado por el Ejecutivo Estatal, a través de la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+Este impuesto será destinado para la promoción y difusión de la actividad turística del Estado, en la forma y términos que se establezca anualmente en la Ley de Ingresos del Estado, y será determinado por el Ejecutivo Estatal, a través de la Secretaría de planeación y Finanzas.
 
 Cuando los servicios a que se refiere el Artículo 127 de esta Ley, se reciban con motivo de los actos jurídicos que realice el prestador del servicio con personas físicas o morales directamente o a través de agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y de cualquier tipo con el propósito de dar alojamiento o albergue a terceras personas, se tendrá obligación de enterar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje y sobre el monto de los mismos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 131.
 
-Quienes presten los servicios señalados en este capítulo, tendrán el carácter de retenedores y deberán enterarlo mensualmente en la Recaudación de Rentas correspondiente a su domicilio fiscal, a más tardar dentro del mes siguiente a aquel al que corresponda el impuesto causado, mediante las formas aprobadas por la Secretaría de Finanzas del Estado, debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de este impuesto, que se hayan realizado en el mes inmediato anterior.
+Quienes presten los servidos señalados en este capítulo, tendrán el carácter de retenedores y deberán enterarlo mensualmente en la Recaudación de Rentas correspondiente a su domicilio fiscal, a más tardar dentro del mes siguiente a aquel al que corresponda el impuesto causado, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado, debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de este impuesto, que se hayan realizado en el mes inmediato anterior.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1073,13 +1075,13 @@ Son sujetos de este impuesto las personas fisecias (sic) o morales que obtengan 
 
 Este impuesto se causará con base en los ingresos que se obtengan por la explotación de las actividades que señala el Artículo 137 de esta Ley, y se pagará conforme a las tarifas y cuotas que señala la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 140.
 
-El impuesto deberá pagarse al término de cada función, por conducto del Interventor que al efecto designe la Recaudación de Rentas del Estado. La liquidación del impuesto deberá hacerse en las formas aprobadas por la Secretaría de Finanzas.
+El Impuesto deberá pagarse al término de cada función, por conducto del Interventor que al efecto designe la Recaudación de Rentas del Estado. La liquidación del impuesto deberá hacerse en las formas aprobadas por la Secretaría de Planeación y Finanzas.
 
-La Secretaría de Finanzas podrá autorizar al contribuyente, para enterar el impuesto causado, ante la Oficina de Recaudación de Rentas de cuya jurisdicción corresponda, al siguiente día hábil de aquél en que se celebre la función o funciones.
+La Secretaría de Planeación y Finanzas podrá autorizar al contribuyente, para enterar el impuesto causado, ante la Oficina de Recaudación de Rentas de cuya jurisdicción corresponda, al siguiente día hábil de aquel en que se celebre la función o funciones.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1125,7 +1127,9 @@ I.- Presentar ante la Recaudación de Rentas de cuya jurisdicción corresponda, 
 
 II.- No vender boletos en tanto no estén resellados por las Autoridades Fiscales.
 
-III.- Permitir a los Interventores que designe la Secretaría de Finanzas o sus Oficinas de Recaudación de Rentas, la verificación y determinación del pago del impuesto, dándole las facilidades que requieran para su cumplimiento.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+III.- Permitir a los Interventores que designe la Secretaría de Planeación y Finanzas o sus Oficinas de Recaudación de Rentas, la verificación y determinación del pago del impuesto, dándole las facilidades que requieran para su cumplimiento.
 
 IV. - Los contribuyentes de este impuesto que exploten espectáculos en forma eventual, tendrán además las siguientes obligaciones:
 
@@ -1135,13 +1139,15 @@ B).- Dar el aviso a que se refiere el Artículo 142 de esta Ley, señalando adem
 
 C).- Dar el aviso correspondiente en los casos de ampliación del período de explotación, ante la Oficina de Recaudación de Rentas de su jurisdicción, a más tardar el día último que comprenda el aviso, cuya vigencia se vaya ampliar y,
 
-D).- Previamente a la iniciación de actividades, otorgar garantías a satisfacción de la Secretaría de Finanzas previstas en el Código Fiscal del Estado, que no será inferior al impuesto estimado correspondiente a un día de actividades, ni superior al que pudiera corresponder también estimativamente a tres días.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+D).- Previamente a la iniciación de actividades, otorgar garantías a satisfacción de la Secretaría de Planeación y Finanzas previstas en el Código Fiscal del Estado, que no será inferior al impuesto estimado correspondiente a un día de actividades, ni superior al que pudiera corresponder también estimativamente a tres días.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 143
 
-4.- Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la Fracción V Inciso D) del Artículo anterior, no hubieran cumplido con tal obligación, la Secretaría de Finanzas podrá suspender el espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual, el interventor que se designe solicitará el auxilio de la fuerza pública.
+4.- Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la Fracción V Inciso D) del Artículo anterior, no hubieran cumplido con tal obligación, la Secretaría de Planeación y Finanzas podrá suspender el espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual, el interventor que se designe solicitará el auxilio de la fuerza pública.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
 
@@ -1189,19 +1195,23 @@ Son sujetos de este impuesto, las personas físicas o morales que celebren las o
 
 Para los efectos de este impuesto la base gravable será:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-I.- Tratándose de vehículos automotores, los valores que señale al Tabulador Oficial de Valores mínimos que expida la Secretaría de Finanzas del Estado.
+I.- Tratándose de vehículos automotores, los valores que señale al Tabulador Oficial de Valores mínimos que expida la Secretaría de Planeación y Finanzas del Estado.
 
 II.- En los demás casos, el valor de la operación.
 
-Cuando el valor de la operación sea notoriamente bajo en relación con el precio comercial, la Secretaría de Finanzas procederá a efectuar avalúo pericial para determinar su valor real.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+Cuando el valor de la operación sea notoriamente bajo en relación con el precio comercial, la Secretaría de Planeación y Finanzas procederá a efectuar avalúo pericial para determinar su valor real.
 
 Tasas y Pago
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 147.
 
-El Impuesto se causará conforme las tasas que fije la Ley de Ingresos del Estado y deberá pagarse su importe en el momento de celebrarse la operación, en la Oficina Recaudadora correspondiente, mediante la presentación de una manifestación en las formas aprobadas por la Secretaría de Finanzas.
+El Impuesto se causará conforme las tasas que fije la Ley de Ingresos del Estado y deberá pagarse su importe en el momento de celebrarse la operación, en la Oficina Recaudadora correspondiente, mediante la presentación de una manifestación en las formas aprobadas por la Secretaría de Planeación y Finanzas.
 
 ###### ARTICULO 148.
 
@@ -1249,25 +1259,47 @@ DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTA
 
 5.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
-###### ARTICULO 151
-
-6.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 151
 
-7.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+6.- Cuando de las manifestaciones del arrendador se infiera que las rentas que produce el inmueble arrendado son inferiores a las que debe producir el predio objeto del contrato, la Secretaría de Planeación y Finanzas podrá proceder a determinarlas para fines fiscales a razón de 1% mensual del valor comercial que establezca para cada caso en particular la Dirección de Catastro del Estado o sus dependencias en cada Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 151
+
+7.- Los causantes de este impuesto están obligados a presentar las declaraciones correspondientes a su pago en la Oficina Recaudadora correspondiente a la ubicación de los inmuebles, en las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado.
 
 ###### ARTICULO 151
 
 8.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
+> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR FUE OMISO AL SEÑALAR EL TEXTO DEL PRESENTE ARTICULO, TODA VEZ QUE POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84 DE FECHA 31 DE DICIEMBRE DE 1981, FUE SUSPENDIDA TOTALMENTE SU APLICACION.</small>
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 151
 
-9.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+9.-... (Sic)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+I.- Empadronarse en la Secretaría de Planeación y Finanzas, por conducto de la Oficina Recaudadora correspondiente, dentro de los quince días siguientes a aquel en que celebre su primer contrato de arrendamiento, haciendo uso de las formas aprobadas.
+
+Cuando ... (Sic)
+
+II.-... (Sic)
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+III.- Adoptar las medidas de control que para el correcto pago del impuesto establezca la Secretaría de Planeación y Finanzas del Estado.
+
+> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 151
 
-10.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+10.- El arrendatario o subarrendatario que hubiese realizado obras de construcción a beneficio de inmuebles objeto del contrato deberá dar aviso a la Secretaría de Planeación y Finanzas al término de la obra y especificar el valor de la misma.
 
 ###### ARTICULO 151
 
@@ -1411,11 +1443,11 @@ En este caso, quienes efectúen los pagos están obligados a retener y enterar e
 
 24.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 151
 
-25.- El pago de este Impuesto se hará bimestralmente ante la Oficina Recaudadora de la jurisdicción del causante, dentro de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre de cada año, por los ingresos obtenidos en el bimestre inmediato anterior, haciendo uso de las formas aprobadas por la Secretaría de Finanzas del Estado.
+25.- El pago de este Impuesto se hará bimestralmente ante la Oficina Recaudadora de la jurisdicción del causante, dentro de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre de cada año, por los ingresos obtenidos en el bimestre inmediato anterior, haciendo uso de las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1423,7 +1455,9 @@ En este caso, quienes efectúen los pagos están obligados a retener y enterar e
 
 26.- Los sujetos de este Impuesto que habitualmente ejerzan las actividades a que se refiere el Artículo 151-21, están obligados a:
 
-I.- Empadronarse en la Secretaría de Finanzas por conducto de la Oficina Recaudadora de su jurisdicción, dentro de los diez días hábiles siguientes a aquél en que inicien sus actividades, utilizando las formas aprobadas por la misma Secretaría.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+I.- Empadronarse en la Secretaría de Planeación y Finanzas por conducto de la Oficina Recaudadora de su jurisdicción, dentro de los diez días hábiles siguientes a aquél en que inicien sus actividades, utilizando las formas aprobadas por la misma Secretaría.
 
 II.- Dar aviso a la Oficina Recaudadora correspondiente, en los casos de cambio de domicilio, así como en los de suspensión o cambio de actividades dentro de los diez días hábiles siguientes contados a partir de la fecha en que ocurra el cambio.
 
@@ -1433,11 +1467,11 @@ IV.- Recibir las visitas de inspección y proporcionar a las Autoridades Fiscale
 
 V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser prenumerada, señalando como mínimo, nombre, dirección, actividad y numero de registro.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 151
 
-27.- Las personas físicas, jurídicas o unidades económicas que hagan pagos a causantes que eventualmente sean sujetos de este Impuesto dentro del Territorio del Estado, deberán retenerlo y enterarlo en la Oficina Recaudadora correspondiente; utilizando, las formas aprobadas por la Secretaría de Finanzas del Estado, dentro de los tres días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
+27.- Las personas físicas, jurídicas o unidades económicas que hagan pagos a causantes que eventualmente sean sujetos de este Impuesto dentro del Territorio del Estado, deberán retenerlo y enterarlo en la Oficina Recaudadora correspondiente; utilizando, las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado, dentro de los tres días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1445,19 +1479,29 @@ V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser pre
 
 28.- De los ingresos que obtenga el causante mensualmente, se considerará ingreso exento para los efectos del pago de este Impuesto, la cantidad equivalente hasta el doble del salario mínimo general mensual vigente en el Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 151
 
-29.- La Secretaría de Finanzas podrá estimar los ingresos de los sujetos de este Impuesto en los siguientes casos:
+29.- La Secretaría de Planeación y Finanzas podrá estimar los ingresos de los sujetos de este Impuesto en los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 I.- Cuando no presenten sus declaraciones, o no expidan la documentación comprobatoria a que están obligados, y
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
 II.- Cuando por las pruebas que se obtengan, se ponga de manifiesto la percepción de un ingreso superior, cuando menos en un tres por ciento, al declarado por el causante, en cualquiera de los bimestres del período de revisión.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 Para practicar las estimaciones a que se refieren las fracciones I y II de este Artículo, se podrán tomar en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos y otros que puedan utilizarse.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
 Para practicar la estimación a que se refiere la Fracción II de este Artículo, se podrán tomar en cuenta los ingresos declarados por el causante, y el porcentaje de omisión que resulte entre éstos y los estimados se podrá (sic) aplicar a los manifestados, determinando la diferencia sobre la cual se calculará el impuesto respectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 El período a que debe referirse el por ciento, será como mínimo de un bimestre y se presumirá que el causante ha omitido ingresos en la misma proporción durante todo el período revisado.
 
@@ -1591,9 +1635,11 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 5.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 156
 
-6.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+6.- Los retenedores de éste impuesto deberán enterarlo en la Recaudación de Rentas del Estado correspondiente dentro de los días del 1ro. al 20 del mes siguiente a aquél en que haya sido retenido mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado.
 
 ###### ARTICULO 156
 
@@ -1669,9 +1715,11 @@ I.- Presentar declaraciones mensuales a más tardar dentro de los 10 días sigui
 
 II.- Llevar contabilidad conforme al Código Fiscal del Estado y un registro específico de las operaciones relativas a este impuesto.
 
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-III.- Presentar ante la autoridad fiscal, la licencia o permiso otorgado por las autoridades competentes y solicitar autorización de boletos ante la propia Secretaría de Finanzas, previamente a la iniciación de sus actividades o a la realización del evento, y
+III.- Presentar ante la autoridad fiscal, la licencia o permiso otorgado por las
+
+autoridades competentes y solicitar autorización de boletos ante la propia Secretaría de Planeación y Finanzas, previamente a la iniciación de sus actividades o a la realización del evento, y
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 1992)</small>
 
@@ -2178,3 +2226,7 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2000.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
