@@ -4,7 +4,7 @@ identifier: "SLP-ley-reglamentaria-del-articulo-11-de-la-constitucion-13208"
 country: "mx"
 rank: "ley"
 publication_date: "1949-12-22"
-last_updated: "1949-12-22"
+last_updated: "1996-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ORGANICA DEL ARTICULO 100 DE LA CONSTITUCION POLITICA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NO. 657 DE REFORMAS CONSTITUCIONALES, SE MODIFICA EL ARTICULO 100 QUE PASA A SER EL ARTICULO 11 DE LA CONSTITUCION DEL ESTADO DE SAN LUIS POTOSI, POR LO QUE SE TENDRA POR LEY ORGANICA DE DICHO ARTICULO HASTA EN TANTO LA MISMA SEA REFORMADA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1996.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 22 de diciembre de 1949.
 
@@ -120,3 +122,17 @@ ISMAEL SALAS
 El Secretario General de Gobierno,
 
 LIC. IGNACIO GOMEZ DEL CAMPO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE NOVIEMBRE DE 1996.
+
+DECRETO NUMERO 657.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+TERCERO.- Hasta en tanto se reformen los preceptos correspondientes de las leyes secundarias, éstas continuarán vigentes en los que no se opongan a este Decreto.
+
+La vigente Ley Orgánica del artículo 100 de la Constitución, precepto que el presente Decreto reforma, pasa a ser el artículo 11 del mismo. Se tendrá por Ley Orgánica de dicho artículo hasta en tanto la misma sea reformada.
+
+DECIMO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo cumplimiento a lo establecido en el artículo 120 de la Constitución Política del Estado que se reforma.
