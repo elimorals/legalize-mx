@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-comunicaciones-y-transportes-del-14074"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-04"
-last_updated: "1999-02-04"
+last_updated: "2004-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACÁN DE OCAMPO
+REGLAMENTO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 4 de febrero de 1999.
 
@@ -33,7 +33,7 @@ C O N S I D E R A N D O...
 
 Por lo anteriormente expuesto, tengo a bien expedir el siguiente Decreto que contiene el
 
-REGLAMENTO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACÁN DE OCAMPO
+REGLAMENTO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
 ### Capítulo Primero. Del objeto del reglamento
 
@@ -49,27 +49,41 @@ I. Ley: La Ley de Comunicaciones y Transportes del Estado.
 
 II. Reglamento: El presente Reglamento de la Ley de Comunicaciones y Transportes del Estado.
 
-III. Ejecutivo del Estado: Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
 
-IV. SCOP: Secretaría de Comunicaciones y Obras Públicas del Estado.
+III. Ejecutivo del Estado: El Poder Ejecutivo del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+IV. SUMA: La Secretaría de Urbanismo y Medio Ambiente;
 
 V. COCOTRA: Comisión Coordinadora del Transporte Público de Michoacán.
 
-VI. SEDUE: Secretaría de Desarrollo Urbano y Ecología del Estado.
+VI. (REFORMADA [N. DE E. DEROGADA], P.O. 18 DE FEBRERO DE 2004)
 
-VII. DGSPT: Dirección General de Seguridad Pública y Tránsito del Estado.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+VII. DSPT: La Dirección de Seguridad Pública y Tránsito del Estado;
 
 VIII. Vía Pública: Todo espacio terrestre de uso común que se encuentre destinado a tránsito de peatones y vehículos dentro de la jurisdicción estatal y municipal, exceptuando las vías o zonas de carácter federal.
 
 IX. Transporte: La acción de transportar de un sitio a otro personas y/o cosas, mediante el conjunto de diversos medios para lograr un fin.
 
-X. Concesión: Es el acto unilateral de derecho público, por medio del cual el titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, otorga autorización anual, con vigencia de un año fiscal susceptible de renovación, a una persona física o moral para prestar mediante una remuneración, el servicio de autotransporte de personas o cosas en las vías públicas de jurisdicción estatal, en vehículos autorizados de acuerdo a esta Ley y el presente Reglamento.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
 
-XI. Título de Concesión: Es el documento por el que se materializa la autorización anual susceptible de renovación, que otorga el titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, en favor de una persona física o moral, para prestar mediante una remuneración, el servicio de autotransporte de personas o cosas en las vías públicas de jurisdicción estatal, en vehículos autorizados de acuerdo a su modalidad.
+X. Concesión: Es el acto unilateral de derecho público, por medio del cual el Ejecutivo del Estado otorga autorización a una persona física o moral para prestar mediante una remuneración autorizada, el servicio de transporte de personas o cosas en las vías públicas de jurisdicción estatal en vehículos autorizados, de acuerdo a la Ley y al presente Reglamento;
 
-XII. Permiso: Es el acto unilateral por medio del cual el titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, otorga autorización hasta por un mes susceptible de renovación, a persona física o moral, para prestar mediante una remuneración, el servicio de autotransporte de personas o cosas en las vías públicas de jurisdicción estatal en vehículos autorizados, conforme a la Ley y el presente Reglamento.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
 
-XIII. Título de Permiso: Documento por el cual se materializa la autorización hasta por un mes, susceptible de renovación, que otorga el titular del Poder Ejecutivo del Estado a través de la COCOTRA, en favor de una persona física o moral, para la prestación del servicio público de transporte de personas o cosas.
+XI. Título de Concesión: Es el documento por el que se materializa la autorización susceptible de renovación, que otorga el Ejecutivo del Estado, a favor de una persona física o moral para prestar mediante una remuneración autorizada, el servicio de transporte de personas o cosas en las vías públicas de jurisdicción estatal en vehículos autorizados, de acuerdo a su modalidad;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+XII. Permiso: Es el acto unilateral por medio del cual, el Ejecutivo del Estado otorga autorización hasta por un mes susceptible de renovación, a una persona física o moral, para prestar mediante una remuneración autorizada, el servicio de transporte de personas o cosas en las vías públicas de jurisdicción estatal en vehículos autorizados, conforme a la Ley y el presente Reglamento;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+XIII. Título de Permiso: Es el documento por el cual se materializa la autorización hasta por un mes susceptible de renovación, que otorga el Ejecutivo del Estado a favor de una persona física o moral, para la prestación del servicio público de transporte de personas o cosas en las vías públicas de jurisdicción estatal, en vehículos autorizados de acuerdo a su modalidad;
 
 XIV. Modalidad: Son las diferentes formas en las que se presta el servicio público de transporte de pasajeros y carga, de acuerdo a lo que establece el artículo 24 de la Ley.
 
@@ -79,7 +93,9 @@ XVI. Arrendamiento: Es el acto administrativo mediante el cual el titular del Po
 
 XVII. Conductor: Es la persona autorizada mediante licencia de chofer de servicio público, para conducir cualquier vehículo de motor terrestre que preste servicio de transporte de pasajeros y carga, incluyendo transportes escolares y especializado.
 
-XVIII. Servicio especial de transporte de pasajeros: Es aquel que se presta por instituciones públicas o privadas, personas físicas o morales, previa expedición de concesión o permiso otorgados por el titular del Poder Ejecutivo del Estado a través de la COCOTRA, dedicadas al traslado de personal, de escolares y de personas en condiciones especiales de salud.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+XVIII. Servicio Especial de Transporte de Pasajeros: Es aquél que se presta por instituciones públicas y privadas, personas físicas o morales, previa expedición de concesión o permiso otorgados por el Ejecutivo del Estado, dedicadas al traslado de personas, de escolares y de personas en condiciones especiales de salud;
 
 XIX. Servicio de autotransporte mixto: Será el que se preste para transportar personas y cosas en el mismo vehículo, el cual deberá acondicionarse con compartimentos para los pasajeros, para el equipaje y para la carga. Este servicio deberá tener itinerario, tarifa y horario determinados, prestándose éste únicamente en camionetas hasta de tres toneladas como máximo o en unidades de doble cabina.
 
@@ -113,31 +129,43 @@ Son autoridades estatales en materia de transporte público:
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Comunicaciones y Obras Públicas;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
 
-III. La Comisión Coordinadora del Transporte Público de Michoacán; y,
+II. El Secretario de Urbanismo y Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+III. El Coordinador General de la Comisión Coordinadora del Transporte Público de Michoacán; y,
 
 IV. Los titulares de aquellas dependencias y entidades que la legislación de la materia así lo determine.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 4º.
 
-Son atribuciones de la COCOTRA las siguientes:
+Son atribuciones de la Secretaría de Urbanismo y Medio Ambiente:
 
-I. Fijar las políticas de concesión y operación del servicio público de transporte en todas sus modalidades, que el titular del Poder Ejecutivo determine para responder al interés de los usuarios;
+I. Participar en la determinación de las políticas estatales en materia de transporte público;
 
-II. Dictaminar en cada caso concreto que se presente a su consideración sobre vialidad, operación, control de servicio y otorgamiento de concesiones y permisos por acuerdo del Gobernador del Estado, preservando el interés público y el cumplimiento de la Ley de este Reglamento;
+II. Otorgar concesiones y permisos de transporte público;
 
-III. Integrar y formar parte del Comité Técnico Consultivo de Transporte, y de las Comisiones Municipales, necesarios para la mejor prestación del servicio público de transporte;
+III. Promover el mejoramiento del transporte público y la modernización de las unidades;
 
-IV. Otorgar la autorización respectiva en coordinación con las autoridades competentes, para que empresas de transportistas o instituciones educativas o particulares lleven acabo la capacitación a conductores de acuerdo con el programa diseñado y autorizado por ésta; y,
+IV. Establecer los requisitos y procedimientos para regular las emisiones contaminantes de los vehículos que prestan el servicio público de transporte en el Estado;
 
-V. Las demás que le asigne el Gobernador del Estado de conformidad con la Ley o este Reglamento, o que se establezcan en otras disposiciones jurídicas aplicables.
+V. Establecer y operar los centros de verificación vehicular o en su caso, otorgar permisos para la prestación de dicho servicio por particulares; y,
+
+VI. Las demás que le señale el Gobernador y otras disposiciones normativas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 5º.
 
-En materia de transporte público de carga, la COCOTRA además de las atribuciones contenidas en el artículo anterior, tendrá las siguientes:
+Son atribuciones de la COCOTRA:
 
-I. Planear, concesionar por acuerdo del titular del Poder Ejecutivo, autorizar, coordinar, controlar y supervisar los servicios del transporte de carga que se presten en el territorio y jurisdicción del Estado;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+I. Participar en el otorgamiento de concesiones y permisos de transporte público;
 
 II. Expedir las normas técnicas necesarias en materia de transporte de carga en el Estado;
 
@@ -153,9 +181,27 @@ VII. Establecer la señalización de carácter informativo, que defina y haga cl
 
 VIII. Dictar en todo tiempo las disposiciones administrativas para la presentación de las solicitudes relativas al otorgamiento de concesiones y permisos;
 
-IX. Vigilar, inspeccionar y verificar los servicios de transporte en la materia de este Reglamento, que proporcionen los concesionarios y permisionarios, sin perjuicio de las facultades que competan a otras autoridades; y,
+IX. Vigilar, inspeccionar y verificar los servicios de transporte en la materia de este Reglamento, que proporcionen los concesionarios y permisionarios, sin perjuicio de las facultades que competan a otras autoridades; y (sic),
 
-VI (sic). Las demás que le asigne el Gobernador del Estado de conformidad con la Ley o este Reglamento, o que se establezcan en otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+X. Fijar las políticas de concesión y operación, autorización, coordinación, control y supervisión del servicio público de transporte en todas sus modalidades;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+XI. Dictaminar en cada caso concreto que se presente a su consideración, sobre vialidad, operación, control de servicio y otorgamiento de concesiones y permisos, preservando el interés público y el cumplimiento de la Ley y del presente Reglamento;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+XII. Integrar y presidir el Comité Técnico Consultivo de Transporte, así como de las comisiones municipales, necesarias para la mejor prestación del servicio público de transporte;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+XIII. Otorgar la autorización respectiva en coordinación con las autoridades competentes, para que empresas de transportistas o instituciones educativas o particulares lleven a cabo la capacitación a conductores, de acuerdo con el programa diseñado y autorizado por ésta; y,
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+XIV. Las demás que le asigne el Gobernador del Estado, de conformidad con la Ley o este Reglamento, o que se establezcan en otras disposiciones jurídicas aplicables.
 
 ###### Artículo 6°.
 
@@ -205,9 +251,11 @@ El Consejo celebrará sesiones ordinarias cuando menos cuatro veces al año, y e
 
 ### Capítulo Tercero. De las concesiones y permisos
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 9º.
 
-Corresponde al titular del Poder Ejecutivo del Estado la prestación del servicio público de autotransporte por si o a través de los organismos públicos que estime pertinentes para tal efecto, así como también, el otorgamiento de concesiones y permisos a los particulares en los términos que establece la Ley y el presente Reglamento, cuando las necesidades del servicio así lo requieran.
+Corresponde al Ejecutivo del Estado la prestación del servicio público de transporte, por sí o a través de los organismos públicos que estime pertinentes para tal efecto, así como el otorgamiento de concesiones y permisos a los particulares en los términos que establece la Ley y el presente Reglamento, cuando las necesidades del servicio así lo requieran.
 
 ###### Artículo 10.
 
@@ -795,11 +843,27 @@ Existirá reincidencia cuando se comete la misma infracción en un período no m
 
 El infractor que cubra el importe de la multa que le imponga la COCOTRA, dentro de los cinco días siguientes a la fecha en que se cometió la infracción, tendrá derecho a que se le descuente el 50% del importe económico de la misma. Vencido este plazo no procederá descuento alguno.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 64.
 
-El titular del Poder Ejecutivo del Estado a través de la COCOTRA, decretará cuando proceda la suspensión o cancelación de la concesión o del permiso.
+El Ejecutivo del Estado a través de la COCOTRA, decretará cuando proceda la suspensión o cancelación de la concesión o del permiso.
 
-Declarada la suspensión o cancelación, o en su caso, confirmadas si fueron recurridas las resoluciones, el titular perderá todos los derechos y todas las obligaciones que se deriven de las mismas, y en consecuencia, el titular del Poder Ejecutivo del Estado, a través de la COCOTRA, podrá continuar por si o concesionando la prestación del servicio.
+El procedimiento de revocación de la concesión otorgada, se iniciara de oficio o a petición de cualquier persona interesada, el cual deberá notificarse en forma personal al concesionario, a efecto de que dentro del término de cinco días hábiles, contados a partir del día siguiente al de la notificación, manifieste lo que a su interés convenga.
+
+En el caso de que el procedimiento de revocación de la concesión sea a petición de persona interesada, el escrito de solicitud podrá interponerse ante la COCOTRA.
+
+Cuando el procedimiento sea iniciado a petición de un particular, éste deberá presentarse en un término no mayor de cinco días hábiles a ratificar su solicitud, ante la autoridad que la recibió, en caso de no hacerlo se tendrá por no presentada.
+
+En los escritos de solicitud de inicio del procedimiento de revocación de la concesión y con el que comparezca el concesionario, deberán ofrecerse las pruebas que acrediten, en cada caso, las causales de revocación y los hechos en que se funde la defensa.
+
+Dentro de los diez días hábiles siguientes al vencimiento del término a que se refiere el párrafo anterior, las pruebas que se hubieren ofrecido y que ameriten preparación, se desahogarán en el lugar, día y hora que fije la COCOTRA, previa notificación que se haga a los interesados.
+
+Una vez que se hubieren desahogado las pruebas ofrecidas, el Coordinador de la COCOTRA emitirá la resolución correspondiente, la cual deberá estar debidamente fundada y motivada y se notificará personalmente a los interesados.
+
+Declarada la suspensión o cancelación, o en su caso, confirmadas si fueren recurridas las resoluciones, el titular de la concesión perderá todos los derechos que se deriven de las mismas, y en consecuencia, el Ejecutivo del Estado, a través de la COCOTRA, podrá continuar la prestación del servicio por sí o a través de concesión o permiso.
+
+En la sustanciación de los procedimientos a que se refiere el presente Reglamento, a falta de disposición expresa, se estará a las prevenciones del Código de Procedimientos Civiles del Estado.
 
 ###### Artículo 65.
 
@@ -854,3 +918,15 @@ Se abroga el Decreto Administrativo que crea la Comisión Coordinadora del Trans
 Morelia, Michoacán a 6 de Enero de 1999.
 
 SUFRAGIO EFECTIVO. NO REELECCION. LIC. VICTOR MANUEL TINOCO RUBl.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.- SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE FEBRERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones administrativas en lo que se opongan al presente Decreto.
