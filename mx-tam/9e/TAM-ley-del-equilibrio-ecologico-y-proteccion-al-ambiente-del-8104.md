@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-8104"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-01"
-last_updated: "1992-02-01"
+last_updated: "2004-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el 1 de febrero de 1992.
 
@@ -1364,3 +1366,23 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Cd. Victoria, Tam., a 9 de octubre
 Por tanto, mando se imprima, publique, circule y se le de él debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas a los doce días del mes de diciembre de mil novecientos noventa noventa (sic) y uno.- El Gobernador Constitucional del Estado, ING. AMERICO VILLAREAL GUERRA.- El Secretario General de Gobierno, LIC ANIBAL PEREZ VARGAS.- Rubricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir de los 90 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abrogan la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Tamaulipas, expedida mediante Decreto número 162 de la LIV Legislatura del Congreso del Estado del 9 de octubre de 1991, publicada en el Anexo al Periódico Oficial del Estado número 10 del 1 de febrero de 1992, y el Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente en materia de Impacto Ambiental y Regulación con fines Ecológicos de los Minerales o Substancias de Competencia Estatal, expedido mediante Decreto del Ejecutivo del 7 de junio de 1995, publicado en el Anexo al Periódico Oficial del Estado número 53 del 5 de julio de 1995.
+
+###### ARTICULO TERCERO.
+
+Todos los asuntos que se encuentren en trámite al entrar en vigor la presente ley se desahogarán en los términos previstos por la misma. Los trámites que se hayan iniciado con la ley anterior deberán concluirse con dicha ley.
+
+###### ARTICULO CUARTO.
+
+Los Ayuntamientos que no hayan dictado reglamentos o normas generales para regular las materias que conforme a las disposiciones de esta Ley son competencia de los Municipios procederán a emitir las disposiciones necesarias para el cumplimiento de este ordenamiento en un término de 180 días posteriores a su publicación.
