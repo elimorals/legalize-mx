@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-de-la-ciudad-de-23675"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-11"
-last_updated: "2002-03-11"
+last_updated: "2002-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE LA CIUDAD DE SABINAS HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2002.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 11 de marzo de 2002.
 
@@ -197,7 +197,9 @@ II.- Extraordinarias
 
 III.- Solemnes
 
-ART. 26.- Son Ordinarias las sesiones que, en los términos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, se celebren los segundos y cuartos viernes de cada mes, comenzando por regla general a las 18:00 horas y terminando a las 20:00 horas pudiendo extenderse previo acuerdo de Cabildo, pudiendo cambiarse de fecha previo acuerdo de Cabildo, notificación y convocatoria realizadas con 24 horas de anticipación.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2002)</small>
+
+ART. 26.- Son Ordinarias las sesiones que, en los términos de la Ley Orgánica de la Administración Municipal del Estado de Nuevo León, se celebren los segundos y cuartos lunes de cada mes, comenzando por regla general a las 18:00 horas y terminando a las 20:00 horas, previa notificación y convocatoria con 24 horas de anticipación; pudiendo extenderse previo acuerdo de Cabildo, pudiendo cambiarse previo concenso (sic) en forma indubitable de los miembros del Ayuntamiento.
 
 ART. 27.- Serán extraordinarias las sesiones que se celebren cuando algún asunto urgente lo requiera. Para ello bastará la solicitud del Presidenta (sic) Municipal o, de cuando menos, la mitad más uno de los miembros del Ayuntamiento.
 
@@ -227,27 +229,27 @@ ART. 32.- Para instalar legalmente la sesión del Ayuntamiento, se requiere la m
 
 ART. 33.- El miembro del Ayuntamiento que no hubiere sido citado a una sesión, podrá solicitar dentro de las 24 horas siguientes, que se le informe de el o los acuerdos tomados en su ausencia haciéndose acreedor a una sanción el Secretario del Ayuntamiento por no haber citado.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2002)</small>
+
 ART. 34.- En la sesión, el Secretario del Ayuntamiento, dará cuenta de los asuntos en el orden siguiente:
 
-I.- Lista de Asistencia,
+I.- Lista de asistencia.
 
-II.- Declaración de quórum en su caso y de apertura de la sesión,
+II.- Declaración de quórum en su caso y de apertura de la sesión.
 
-III.- Lectura del acta anterior para su aprobación o corrección; si ocurriera discucción (sic) sobre esta, podrán hacer uso de la palabra dos miembros en pro y dos en contra, después se consultará la opinión de los demás sobre su aprobación o modificación; y en caso de empate el Presidente Municipal tendrá voto de calidad Aprobada se procederá a su firma por todos los que asistieron, una vez pasada a los libros respectivos, siendo indispensable la del presidente y Secretario,
+III.- Lectura del acta anterior para su aprobación o corrección.
 
-IV.- Lectura de la correspondencia expedida y recibida más importante,
+IV.- Informe del Secretario del R. Ayuntamiento.
 
-V.- Informe de Tesorería y Dictamen de la Comisión de Hacienda,
+V.- Informe del Presidente Municipal.
 
-VI.- Informe de Comisiones,
+VI.- Informe de Tesorería y Dictamen de la Comisión de Hacienda.
 
-VII.- Iniciativas o Reglamentos propuestos por los integrantes del Ayuntamiento,
+VII.- Informe de Comisiones.
 
-VIII.- Asuntos específicos a tratar por el presidente o las Comisiones,
+VIII.- Iniciativas o Reglamentos propuestos por los integrantes del Ayuntamiento.
 
-IX.- Asuntos Generales, con registro previo,
-
-X.- Clausura.
+IX.- Asuntos Generales, con registro previo de 30 minutos al inicio de la sesión.
 
 ART. 35.- Los integrantes del Ayuntamiento deben asistir a todas las sesiones desde el principio hasta el fin de estas. Se considerará ausente a una sesión al miembro del Ayuntamiento que no esté presente al tomarse lista de asistencia y en caso de que se presentara después, no podrá participar en las votaciones que lleven a efecto durante el desarrollo de la sesión.
 
@@ -502,3 +504,13 @@ PRESIDENTE MUNICIPAL CONSTITUCIONAL
 LIC. DANIEL OMAR GONZALEZ GARZA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE AGOSTO DE 2002.
+
+PRIMERO: Estas modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abrogan todas las disposiciones reglamentarias que contravengan el contenido de las presentes modificaciones.
+
+TERCERO: En base a lo ordenado en los referidos acuerdos del Ayuntamiento, publíquese el presente y difúndase para su conocimiento y observación.
