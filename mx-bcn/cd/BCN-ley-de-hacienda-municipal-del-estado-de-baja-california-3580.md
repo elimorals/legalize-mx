@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1953-12-31"
+last_updated: "1954-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1954.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -445,9 +445,25 @@ El Presidente Municipal podrá exceptuar del pago del impuesto de que se habla e
 
 Ninguna de las actividades que señala el artículo 66 aunque sean en forma eventual, podrá practicarse sin contar previamente con la licencia fiscal de que habla el artículo 57 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1954)</small>
+
+###### ARTICULO 69 Bis.
+
+El impuesto sobre producción ganadera, será pagado por los propietarios o poseedores de ganado y se causará en la forma y términos que al efecto establezca la Ley de Ingresos correspondiente.
+
+Son solidarios obligados del pago del impuesto sobre la producción ganadera, las personas físicas o morales que sacrifiquen ganado de cualquier especie, en rastros o sitios autorizados para ese efecto y, además, están obligadas a comprobar, previamente al sacrificio del ganado, el pago del impuesto. En caso de que no hay a (sic) sido cubierto, deberá retenerlo con una sobretasa de 100% sobre la tarifa establecida en la Ley de Ingresos respectiva, a fin de que quede garantizado el pago de los recargos correspondientes, enterándolo dentro de los tres días siguientes al en que lo haya retenido, en la Tesorería Municipal o en la Recaudación de Rentas de su jurisdicción.
+
+Ningún rastro o sitio autorizado sacrificará ganado sin previa comprobación del pago del gravamen correspondiente.
+
 ###### ARTICULO 70.
 
 Para la ocupación de la vía pública se requerirán permisos de la Presidencia Municipal debiendo cubrir los interesados el impuesto en la forma que establezca la Ley de Ingresos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1954)</small>
+
+###### ARTICULO 70 Bis.
+
+Para el señalamiento de sitios de estacionamiento exclusivo en la vía pública, se requerirán permisos del Departamento de Tránsito Municipal, debiendo cubrir los interesados el importe de las cuotas que al efecto fija la Ley de Ingresos correspondiente.
 
 ###### ARTICULO 71.
 
@@ -1554,3 +1570,11 @@ LIC. BRAULIO MALDONADO SANDEZ
 El Secretario General de Gobierno
 
 LIC. RAFAEL MORENO HENRIQUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1954.
+
+###### ARTICULO UNICO.
+
+El presente Ordenamiento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
