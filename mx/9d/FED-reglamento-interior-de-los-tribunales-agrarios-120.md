@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "1993-07-20"
+last_updated: "1994-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE FEBRERO DE 1994.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -30,8 +30,6 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 REGLAMENTO DE LOS TRIBUNALES AGRARIOS
 
 El Tribunal Superior Agrario, en uso de la facultad que le concede la fracción X del artículo 8º de la Ley Orgánica de los Tribunales Agrarios, ha tenido a bien aprobar el siguiente
-
-> <small>N. DE E. LAS REFORMAS APROBADAS POR EL TRIBUNAL SUPERIOR AGRARIO EN EL ACUERDO No. 93-81/81, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL REGLAMENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 13 DE MAYO DE 1992.</small>
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
@@ -83,7 +81,9 @@ Los magistrados supernumerarios practicarán visitas a los tribunales unitarios,
 
 Cada tribunal unitario estará a cargo de un magistrado numerario y contará con las siguientes unidades administrativas y servidores públicos.
 
-I.- Un secretario de acuerdos, y en caso de que el tribunal unitario tenga varias sedes, se podrá designar un secretario de acuerdos para cada una de ellas;
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 1994)</small>
+
+I.- Uno o varios secretarios de acuerdos, cuando así lo estime el Tribunal Superior, y en caso de que el Tribunal Unitario tenga varias sedes, se podrá designar uno o más secretarios de acuerdos para cada una de ellas, también por determinación del Tribunal Superior;
 
 II.- Secretarios de estudio y cuenta que acuerde el Tribunal Superior;
 
@@ -966,3 +966,11 @@ Las reformas del Reglamento Interior de los Tribunales Agrarios, aprobadas media
 ###### ARTICULO TERCERO.
 
 Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Boletín Judicial Agrario.
+
+D.O.F. 1 DE FEBRERO DE 1994.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+
+SEGUNDO.- La presente reforma entrará en vigor a partir de esta fecha.
+
+Publíquese en el Diario Oficial de la Federación.
