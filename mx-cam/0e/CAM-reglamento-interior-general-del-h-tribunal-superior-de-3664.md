@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-general-del-h-tribunal-superior-de-3664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "1991-08-30"
+last_updated: "1994-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE CAMPECHE, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el viernes 30 de agosto de 1991.
 
@@ -43,13 +43,17 @@ REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE 
 
 El Tribunal Superior de Justicia, se integra con la estructura determinada por la Ley Orgánica del Poder Judicial del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
+
 ###### Artículo 2º.
 
-El horario ordinario de las oficinas que integran el Poder Judicial será todos los días hábiles de la semana de las ocho a las catorce horas treinta minutos, incluida media hora de descanso.
+El horario ordinario de las oficinas que integran el Poder Judicial será todos los días hábiles de la semana de las 8:00 a las 15:00 horas incluída media hora de descanso.
 
-El Pleno del Tribunal podrá modificar el horario establecido, procurando que la jornada diaria de trabajo sea de seis horas.
+Los Titulares de los Tribunales o Dependencias Administrativas podrán ordenar que el personal labore en horas o días diferentes a las señaladas, en horario no mayor de ocho horas, por requerimiento de la Ley o necesidades del servicio.
 
-Los titulares de los tribunales o dependencias administrativas, podrán ordenar que el personal labore en horas o días diferentes a las señaladas, por requerimiento de la Ley o necesidades del servicio.
+El Pleno del Tribunal podrá modificar el horario establecido.
 
 ###### Artículo 3º.
 
@@ -1108,3 +1112,11 @@ LIC. JORGE LUIS PÉREZ CÁMARA
 EL SECRETARIO GENERAL DE ACUERDOS DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL EDO.
 
 LIC. WALDO RINCON RINCON
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE JULIO DE 1994.
+
+> <small>(F. DE E., P.O. 30 DE JULIO DE 1994)</small>
+
+Unico: Este Acuerdo entrará en vigor el día 1o. de Agosto del presente año de 1994, previa su publicación en el Periódico Oficial del Gobierno del Estado.
