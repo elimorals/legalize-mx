@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-17884"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2002-12-31"
+last_updated: "2003-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ENERO DE 2003 EN EL D.O., DEL ESTADO DE YUCATAN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2002.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE 8 DE ENERO DE 2003.</small>
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 30 de diciembre de 1999.
 
@@ -1451,8 +1451,6 @@ De un valor de $1,000,001.00 en adelante 40.0
 
 No causarán derecho alguno las divisiones o fracciones de terrenos en las zonas que sean destinadas plenamente a la producción agrícola o ganadera.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 87.
@@ -1465,9 +1463,11 @@ De 5000.01 a 10000 m2 80.0 más 0.012 por metro
 
 cuadrado que exceda de 5000 m2.
 
+> <small>(F. DE E., D.O. 8 DE ENERO DE 2003)</small>
+
 De 10000.01 m2 en adelante 14.0 más 0.002 por metro
 
-cuadrado que exceda de 1000 m2
+cuadrado que exceda de 10000 m2
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2002)</small>
 
