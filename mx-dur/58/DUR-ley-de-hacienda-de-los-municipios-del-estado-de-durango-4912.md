@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1992-01-26"
+last_updated: "1992-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -789,15 +789,23 @@ La Dirección General de Catastro podrá (sic) a solicitud de los Ayuntamientos,
 
 SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 63.
 
-Es objeto del Impuesto que establece este Capítulo la transmisión o adquisición del dominio de bienes inmuebles, ubicados en el Estado.
+Están obligados al pago del Impuesto sobre Traslación de Dominio de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, o bien, en el suelo y las construcciones adheridas a él, ubicados en el Estado, así como los derechos relacionados con los mismos a que esta Ley se refiere. El valor del inmueble podrá ser el valor de adquisición del mismo deducido el valor que se tomó como base para el pago del impuesto a que se refiere esta Ley al realizarse la última adquisición siempre que ésta se hubiere efectuado dentro de los tres años anteriores a la operación por la que se calcula el impuesto.
 
 Tratándose de fideicomisos irrevocables se cobrará el Impuesto al celebrarse esta operación, con cargo al fideicomitente, en la inteligencia de que al ejecutarse los fines del fideicomiso se reconocerá el pago anterior y por lo tanto no volverá a causarse el Impuesto, salvo que la tasa de éste haya aumentado, en cuyo caso se cobrará la diferencia entre la tasa anterior y la que esté vigente.
 
 Tratándose de fideicomisos revocables se causará con cargo al fideicomitente al otorgarse la escritura de enajenación correspondiente.
 
 En los fideicomisos en garantía sólo se causará el impuesto al transmitirse la propiedad por incumplimiento de la obligación garantizada.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1992)</small>
+
+ARTICULO 63 BIS.- No están obligados al pago del Impuesto establecido en esta Ley, las adquisiciones de inmuebles que realicen la Federación, el Estado y los Municipios, para formar parte del dominio público; los partidos políticos, siempre y cuando dichos inmuebles sean para su propio uso; los que adquieran los Estados extranjeros en caso de reciprocidad; y, las donaciones por parentesco entre ascendientes y descendientes en línea directa y en primer grado.
+
+Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 ###### ARTICULO 64.
 
@@ -835,11 +843,15 @@ V.- El fideicomitente en los casos de los párrafos segundo y tercero del Artíc
 
 En estos casos las declaraciones y pagos del impuesto los hará el fiduciario por cuenta del fideicomitente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 66.
 
-La base gravable del impuesto sobre traslación de dominio de bienes inmuebles será.
+La base gravable del Impuesto sobre Traslación de Dominio de Bienes Inmuebles, será:
 
-I.- El valor del inmueble conforme a la tabla de valores catastrales para construcción y terrero que anualmente establezca la Dirección General de Catastro en el Estado, o el valor de operación, el que resulte mayor de estos, con una reducción en la base gravable de siete veces el salario mínimo general en el Estado de Durango elevado al año;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1992)</small>
+
+I.- El valor del inmueble conforme a la tabla de valores catastrales para construcción y terreno que anualmente establezca la Dirección General de Catastro en el Estado, o el valor de operación, el que resulte mayor de estos, con una reducción en la base gravable de doce (12) veces el salario mínimo general en el Estado de Durango elevado al año;
 
 II.- Tratándose de contratos por los que se transmite la nuda propiedad, el valor mayor que resulte de conformidad con las reglas de la fracción I de este Artículo. En estos casos al transmitirse la nuda propiedad se causará el 75% del importe del impuesto que así resulte y al transmitirse el usufructo el 25% restante de dicho importe;
 
@@ -847,29 +859,17 @@ III.- Tratándose de contratos de compraventa o cualesquiera otros traslativos d
 
 IV.- Tratándose de contratos de permuta, aún cuando estén sujetos a condición suspensiva, el impuesto se causará por la transmisión de cada uno de los inmuebles que sean objeto del contrato, sobre el valor mayor que resulte para cada uno de ellos de conformidad con las reglas de la Fracción I de este Artículo.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 67.
 
-La tasa de impuesto sobre traslación de dominio para lo que exceda de la base gravada que corresponda en los términos del Artículo 66 de esta Ley, será progresiva como sigue:
+La tasa del Impuesto sobre Traslación de Dominio de bienes Inmuebles, para lo que exceda de la base gravada que corresponda en los términos del Artículo 66 de esta Ley, será como sigue:
 
-I.- Sobre los primeros $ 3'000,000.00 excedentes, en I (sic)%
+I.- En el período comprendido a partir de la publicación del presente Decreto en el Periódico Oficial hasta el 31 de Diciembre de 1992, se aplicará la tasa del 6%.
 
-II.- Por lo que exceda de $3'000,000.00 pero no de $6'000,000.00 el 2%
+II.- Durante el lapso comprendido del 1º de Enero al 31 de Diciembre de 1993, se aplicará la tasa del 4%.
 
-III.- Por lo que exceda de $6'000,000.00 pero no de $9'000,000.00 el 3%
-
-IV.- Por lo que exceda de $9,000.000.00 pero no de $12,000,000.00 el 4%
-
-V.- Por lo que excede de $12'000,000.00 pero no de $15'000,000.00 el 5%
-
-VI.- Por lo que excede de $15000,000.00 pero no de $18'000,000.00 el 6%
-
-VII.- Por lo que exceda de $18'000,000.00 pero no de $21'000,000.00 el 7%
-
-VIII.- Por lo que exceda de $21'000,000.00 pero no de $24'000,000.00 el 8%
-
-IX.- Por lo que exceda de $24'000,000.00 pero no de $ 27'000,000.00 el 9$ (sic)
-
-X.- Por lo que exceda de $27'000,000.00 el 10%.
+III.- Del 1º de Enero de 1994 en adelante, se aplicará la tasa del 2%.
 
 ###### ARTICULO 68.
 
@@ -2051,7 +2051,7 @@ Al establecer el servicio público de agua potable se notificará por medio de o
 
 La notificación, surtirá efectos a partir del día siguiente a aquel en que se haya recibido el oficio respectivo.
 
-CUOTAS PARA EL COBRO DEL SERVICIO DE AGUA POTABLE y ALCANTARILLADO.
+CUOTAS PARA EL COBRO DEL SERVICIO DE AGUA POTABLE y ALCANTARILLADO
 
 ###### ARTICULO 155.
 
@@ -3294,3 +3294,13 @@ P.O. 26 DE ENERO DE 1992.
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de Enero de 1992.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE JULIO DE 1992.
+
+###### ARTICULO PRIMERO
+
+- Se derogan todas las disposiciones legales que se opongan al presente.
+
+###### ARTICULO SEGUNDO
+
+- El presente Decreto entrará en vigor en todo el territorio del Estado de Durango, el día siguiente al de su publicación en el Periódico Oficial del Estado.
