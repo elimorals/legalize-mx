@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-expropiacion-del-estado-de-baja-california-3559"
 country: "mx"
 rank: "ley"
 publication_date: "1954-02-28"
-last_updated: "1995-10-13"
+last_updated: "2003-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE EXPROPIACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1995.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPTROPIACION PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL DEL 13 DE JUNIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 28 de febrero de 1954.
 
@@ -238,3 +240,11 @@ Las presentes reformas entrarán en vigor al día siguiente al de su publicació
 ###### ARTICULO SEGUNDO.
 
 Las expropiaciones realizadas hasta antes de la publicación del presente Decreto, que pudieran conllevar la finalidad de regularizar la tenencia de la tierra para uso habitacional, no requerirán autorización expresa del Congreso del Estado para su enajenación.
+
+P.O. 13 DE JUNIO DE 2003.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga la Ley de Expropiación del Estado de Baja California, publicada en el Periódico Oficial del Estado el 28 de febrero de 1954.
+
+TERCERO.- Todos los procedimientos de expropiación que se hayan iniciado con motivo de la aplicación de la Ley que se abroga, y que no se encuentren concluidos a la fecha de entrada de la presente Ley, se regirán por las disposiciones que se encontraban vigentes al momento de la publicación del Acuerdo Expropiatorio.
