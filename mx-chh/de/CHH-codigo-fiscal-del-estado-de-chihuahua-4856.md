@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2002-08-03"
+last_updated: "2002-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -73,27 +73,45 @@ Las Recaudaciones de Rentas serán dotadas de fondos fijos de caja para su admin
 
 10.- La cuenta general de ingresos y egresos del erario deberá publicarse mensualmente dentro de los primeros veinte días siguients (sic) al mes que corresponda. El Director General de Finanzas y Administración formulará trimestralmente la cuenta general para que se envíe oportunamente al Congreso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
-11.- Compete a la Dirección General de Finanzas:
+11.- Compete a la Secretaría de Finanzas y Administración:
 
-I.- Intervenir en toda clase de actos financieros y juicios, representando el interés de la Hacienda Pública Estatal por sí o por conducto de delegados. En este caso, siempre y cuando la función sea delegable;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+I.- Intervenir en toda clase de actos financieros y juicios, salvo disposición expresa del Gobernador, representando el interés de la Hacienda Pública Estatal por sí o por conducto de delegados. En este caso, siempre y cuando la función sea delegable;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 II.- Autorizar las erogaciones extraordinarias o imprevistas de recaudación y el pago por la adquisición de bienes o servicios que con carácter urgente sea necesario para el cumplimiento de las atribuciones, con cargo a las partidas que corresponda;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 III.- Declarar de oficio la caducidad de conformidad con las normas de este ordenamiento, y disponer de los depósitos que hubiere exigido por propia determinación, aplicando su importe en beneficio del erario estatal.
 
 Cuando no sea posible determinar la fecha en que legalmente pueda exigirse su devolución o aplicación, se tomará como base la de la constitución del depósito para los mismos efectos;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
 IV.- Cuidar, administrar, aplicar, destruír, rematar o vender, según proceda, conforme a las disposiciones legales aplicables, los bienes embargados o decomisados a favor del Gobierno Estatal por las autoridades judiciales o administrativas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 V.- Estudiar y formular los proyectos de leyes y disposiciones impositivas;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
 VI.- Practicar visitas, inspecciones y reconocimientos, con objeto de asegurar el cumplimiento de las disposiciones fiscales;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 VII.- Establecer y revisar los precios y tarifas de los bienes y servicios de la administración pública estatal, con la participación de las dependencias que corresponda;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
 VIII.- Cobrar los impuestos, derechos, contribuciones especiales, productos y aprovechamientos, en los términos de las leyes que los establezcan; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 IX.- Las demás que le atribuyan expresamente las leyes o reglamentos.
 
@@ -4674,3 +4692,17 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas disposiciones que se opongan al presente decreto.
