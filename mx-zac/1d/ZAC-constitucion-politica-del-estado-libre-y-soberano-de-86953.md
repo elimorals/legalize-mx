@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2002-01-30"
+last_updated: "2002-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2002.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -737,9 +737,13 @@ III. Al Tribunal Superior de Justicia del Estado;
 
 IV. A los Ayuntamientos Municipales;
 
-V. A los representantes del Estado ante el Congreso de la Unión; y
+V. A los representantes del Estado ante el Congreso de la Unión; y (sic)
 
 VI. A los ciudadanos zacatecanos radicados en el Estado.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2002)</small>
+
+VII. A la Comisión Estatal de Derechos Humanos, en el ámbito de su competencia.
 
 ###### Artículo 61.
 
@@ -1465,15 +1469,15 @@ IV. No tener parentesco de consanguinidad hasta el tercer grado con los Magistra
 
 V. Aprobar el examen de oposición respectivo.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 108.
 
-En cada cabecera municipal del Estado funcionará un Juez municipal.
+En los municipios del Estado, funcionará un servicio de Juzgado Municipal, en los términos que disponga la ley.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+Los jueces municipales serán designados por el Tribunal Superior de Justicia.
 
-Los Jueces municipales serán designados por el Tribunal Superior de Justicia.
-
-La remuneración de los Jueces municipales y los gastos que se requieran para el funcionamiento de los Juzgados de esta categoría, serán cubiertos por el erario respectivo.
+La remuneración de los jueces municipales y los gastos que se requieran para el funcionamiento de los Juzgados de esta categoría, serán cubiertos por el erario respectivo.
 
 ###### Artículo 109.
 
@@ -2460,3 +2464,15 @@ P.O. 30 DE ENERO 2002.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Dentro de los treinta días siguientes al inicio de vigencia del presente Decreto, deberán hacerse las reformas y adiciones correspondientes a la Ley Orgánica del Poder Legislativo.
+
+P.O. 10 DE JULIO DE 2002.
+
+DECRETO No. 94, POR EL QUE SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 60 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2002.
+
+DECRETO No. 95, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 108 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE ZACATECAS.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
