@@ -4,7 +4,7 @@ identifier: "SON-ley-para-el-fomento-de-las-asociaciones-agricolas-en-el-9566"
 country: "mx"
 rank: "ley"
 publication_date: "1932-07-13"
-last_updated: "1932-07-13"
+last_updated: "1933-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA EL FOMENTO DE LAS ASOCIACIONES AGRICOLAS EN EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 3 DE MAYO DE 1933.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el día miércoles 13 de julio de 1932.
 
@@ -87,6 +87,10 @@ IV.- Conseguir las debidas garantías para sus asociados en todas las operacione
 
 V.- Podrá constituirse la asociación que se forme conforme a las disposiciones de esta Ley, en sociedad cooperativa cuando lo crea conveniente, sujetándose a las disposiciones contenidas en la Ley General de Sociedades Cooperativas expedida por el Congreso de la Unión el 21 de enero de 1927, promulgada el 10 de febrero del mismo año, teniendo como capital social el que oportunamente se fije.
 
+> <small>(ADICIONADA, B.O. 3 DE MAYO DE 1933)</small>
+
+VI.- Mediante la autorización de la Confederación de Asociaciones, podrá obtener préstamos para el financiamiento de las operaciones que los agricultores asociados, garantizándolos con las cuotas que se fijen en los estatutos para cada región.
+
 ###### Artículo 9.
 
 Las asociaciones que se formen no podrán ocuparse de asuntos políticos o religiosos.
@@ -138,6 +142,12 @@ Los Estatutos fijarán los demás requisitos para la admisión de socios y las c
 ###### Artículo 19.
 
 Los que no hayan sido productores los últimos cinco años, pueden solicitar su ingreso a la Asociación, quedando a juicio de ésta, conforme a las disposiciones contenidas en este Capítulo, la superficie que puedan cultivar.
+
+> <small>(ADICIONADO, B.O. 3 DE MAYO DE 1933)</small>
+
+###### Artículo 19 Bis.
+
+Los miembros de una Asociación de Productores, responderán por las obligaciones que contraiga la Asociación dentro de sus fines, solamente hasta el importe de las cuotas que se fijen a cada asociado de acuerdo con los Estatutos y los convenios respectivos.
 
 ## TÍTULO SEGUNDO
 
@@ -223,9 +233,11 @@ Confederación de Asociaciones.
 
 Las asociaciones agrícolas del Estado que gocen de los beneficios de esta Ley y que tengan intereses comunes, deben agruparse formando una Confederación.
 
+> <small>(REFORMADO, B.O. 3 DE MAYO DE 1933)</small>
+
 ###### Artículo 36.
 
-El objeto de la Confederación a que se refiere el artículo anterior, será el de resolver en definitiva los acuerdos tomados por las asociaciones.
+El objeto de la Confederación a que se refiere el artículo anterior, será resolver en definitiva los acuerdos tomados por las Asociaciones y autorizar o rechazar los relativos a préstamos que soliciten de acuerdo con la fracción VI del Artículo 8º.
 
 ###### Artículo 37.
 
@@ -296,3 +308,9 @@ Rodolfo Elías CALLES.
 El Secretario de Gobierno,
 
 Ing. Ramón RAMOS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS QUE REFORMAN LA PRESENTE LEY.</small>
+
+B.O. 3 DE MAYO DE 1933.
+
+Unico.- Esta Ley entrará en vigor desde el día de su publicación en el Boletín Oficial del Estado.
