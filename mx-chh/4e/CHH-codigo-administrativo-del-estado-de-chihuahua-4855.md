@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1983-09-14"
+last_updated: "1984-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1984.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -4703,7 +4703,7 @@ En ningún caso servirán para identificar al elector credenciales o documentos 
 
 III.- El presidente de la mesa se cerciorará de que el nombre que aparece en la credencial de elector, figure en la lista nominal de electores;
 
-De esta regla se exceptuarán los ciudadanos que teniendo su credencial permanente de elector, estén comprendidos en los siguientes casos:
+De esta regla se excepturarán los ciudadanos que teniendo su credencial permanente de elector, estén comprendidos en los siguientes casos:
 
 a).- Que se encuentren transitoriamente en lugar distinto al de su sección electoral, por causas justificables, a satisfacción de los funcionarios de casilla. Para este caso se observará lo siguiente:
 
@@ -10573,9 +10573,9 @@ ECONOMIA
 
 ## TITULO PRIMERO
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1452.
 
@@ -10667,7 +10667,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10723,7 +10723,9 @@ II.- Determinar los destinos, usos y reservas de tierras y sus construcciones;
 
 III.- Celebrar convenios necesarios para el desarrollo urbano con el Gobierno Federal, Entidades Federativas, Ayuntamientos, organismos descentralizados, empresas de participación estatal y con particulares;
 
-IV.- Dictar y tomar las medidas necesarias para evitar la especulación con los terrenos urbanos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1984)</small>
+
+IV.- Dictar y tomar las medidas necesarias para evitar la especulación de los terrenos urbanos y proceder a la legalización de los asentamientos humanos;
 
 V.- Participar en la elaboración de los planes nacionales y regionales de desarrollo urbano;
 
@@ -10745,19 +10747,29 @@ Los notarios públicos y los funcionarios que actúen por receptoría sólo podr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO VII. DE LAS CONURBACIONES
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1466.
 
 El Ejecutivo será la autoridad competente para planear y ordenar los destinos, usos y reservas de las áreas urbanas y el desarrollo de las mismas y ejercerá éstas y las demás facultades que le confiere este Título y disposiciones jurídicas aplicables por conducto del Organismo Público descentralizado denominado Programa de Desarrollo Urbano del Estado de Chihuahua.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1467.
 
-El Programa de Desarrollo Urbano del Estado de Chihuahua es un Organismo Público descentralizado con personalidad y patrimonio propio y con atribuciones para adquirir y enajenar bienes.
+El Programa de Desarrollo Urbano del Estado de Chihuahua es un organismo público descentralizado con personalidad, competencia y patrimonio propios, con las siguientes atribuciones:
+
+I.- Adquirir y enajenar bienes para el cumplimiento de su objeto, particularmente reservas territoriales para ofrecer suelo urbano a la población de bajos ingresos;
+
+II.- Regularizar los asentamientos humanos y urbanizar los que sean susceptibles de ello;
+
+III.- Promover la vivienda progresiva, la participación de la comunidad en la autoconstrucción de viviendas y la integración de aquella para desarrollo urbano; y
+
+IV.- Las demás que le otorguen otras disposiciones jurídicas.
+
+En los casos de las fracciones I y II de este Artículo, el Programa de Desarrollo Urbano hará constar las operaciones comprendidas en las mismas, en documento privado ante dos testigos y ratificadas las firmas ante Notario Público o Registrador de la Propiedad.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10895,7 +10907,9 @@ Los planes previstos en este artículo tendrá (sic) vigencia indefinida y estar
 
 El Gobernador del Estado para realizar las funciones asignadas en el artículo anterior, tendrá las siguientes atribuciones:
 
-I.- Aprobar los diversos planes de desarrollo urbano en el Estado;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1984)</small>
+
+I.- Aprobar los planes de desarrollo urbano que sean de su competencia;
 
 II.- Regular el poblamiento en las áreas urbanas y suburbanas;
 
@@ -10953,17 +10967,23 @@ Aprobados los estudios y proyectos del plan estatal se publicarán en el Periód
 
 #### SECCION SEGUNDA. DE LOS PLANES MUNICIPALES
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1481.
 
-Los planes municipales serán propuestos por:
+El plan municipal se propondrá ante el Ayuntamiento que corresponda por:
 
-I.- Los Presidentes Municipales;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1984)</small>
+
+I.- El Presidente Municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
 
 II.- El Programa de Desarrollo Urbano del Estado de Chihuahua; y
 
-III.- Los Consejos de Planeación Municipales.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1984)</small>
+
+III.- El Consejo de Planeación y Desarrollo Municipal.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10971,11 +10991,11 @@ III.- Los Consejos de Planeación Municipales.
 
 Los organismos públicos y privados que tengan interés en el desarrollo urbano, podrán presentar proyectos ante los Presidentes Municipales.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1483.
 
-Aprobado el plan por el Gobernado del Estado, se publicará en el Periódico Oficial y se inscribirá en un plazo no mayor de diez días en la sección respectiva del Registro Público de la Propiedad que corresponda.
+Aprobado el plan por el Ayuntamiento, se turnará al Ejecutivo del Estado para su publicación en el Periódico Oficial y se mandará inscribir en un plazo no mayor de diez días en el Registro Público de la Propiedad.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11003,15 +11023,23 @@ III.- Surjan técnicas diferentes que permitan una realización más satisfactor
 
 IV.- Por cualquier otra causa que los afecte.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1487.
 
-La modificación o cancelación será solicitada por escrito al Gobernador del Estado por:
+La modificación o cancelación será solicitada por escrito al Ayuntamiento que corresponda por:
 
-I.- Las Presidencias Municipales cuya circunscripción territorial esté comprendida en el plan; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 1984)</small>
 
-II.- El Programa de Desarrollo Urbano del Estado de Chihuahua.
+I.- El Presidente Municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
+
+II.- El Programa de Desarrollo Urbano del Estado de Chihuahua;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 1984)</small>
+
+III.- El Consejo de Planeación y Desarrollo Municipal.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11033,15 +11061,33 @@ VI.- Recibir las opiniones de los grupos sociales que integran la comunidad, res
 
 VII.- Intervenir en los casos a que se refiere el artículo 1491 en lo que afecte a sus extensiones territoriales; y
 
-VIII.- Las demás que les otorgue el presente título y las disposiciones legales relativas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 1984)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+VIII.- De conformidad con lo establecido en la Ley General de Asentamientos Humanos, en este Título y demás disposiciones aplicables:
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+
+b) Participar en la creación y administración de sus reservas territoriales;
+
+c) Controlar y vigilar la utilización del suelo, en sus jurisdicciones territoriales;
+
+d) Intervenir en la regularización de la tenencia de la tierra urbana;
+
+e) Otorgar licencias y permisos para construcciones;
+
+f) Participar en la creación y administración de zonas de reserva ecológica; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE ENERO DE 1984)</small>
+
+IX.- Las demás que les otorguen las disposiciones legales relativas.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LA JUNTA CENTRAL DE AGUA Y SANEAMIENTO
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11169,7 +11215,7 @@ Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11185,7 +11231,7 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11283,19 +11329,23 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
-DECIMA PRIMERA PARTE
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1515.
 
-Se consideran fraccionamientos municipales los espacios adquiridos por los municipios que se destinen a dotar de lotes a los jefes de familia de escasos recursos y que no reciban los beneficios de cualquier otra institución que proporcione vivienda a sus agremiados.
+Es fraccionamiento de interés público aquel que el Estado o los Municipios destinen a dotar de lotes a los jefes de familia de escasos recursos que no reciban los beneficios de cualquier otra institución que proporcione vivienda a sus agremiados.
+
+Para su constitución se requiere:
+
+I.- Que en su trazo ninguna calle tenga una anchura menor de diez metros entre los alineamientos de las manzanas opuestas, permitiéndose sólo la existencia de calles cerradas cuando las condiciones físicas del predio por fraccionar lo requieran, en cuyo caso deberá establecerse una rotonda al final de la calle con un diámetro no menor de veinte metros;
+
+II.- Que previamente, se obtenga de la Junta Central de Agua y Saneamiento del Estado la autorización correspondiente; y
+
+III.- Que se destine el 15% de la superficie útil para los servicios a la comunidad dentro del fraccionamiento tales como escuelas, mercados, dispensarios, templos, parques, jardines y demás áreas públicas.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11325,15 +11375,15 @@ I.- A cubrir el importe del costo del fraccionamiento; y
 
 II.- A la introducción de los servicios públicos.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1520.
 
-Una vez determinados los jefes de familia beneficiados, la presidencia municipal otorgará los títulos de propiedad correspondientes, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
+Una vez determinados los jefes de familia beneficiados y cubierto el precio, la Presidencia Municipal otorgará los títulos de propiedad o el Programa de Desarrollo Urbano del Estado los documentos a que se refiere el Artículo 1467 de este Título, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11421,7 +11471,7 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11545,7 +11595,7 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO V. INSPECCION Y PAGO DE LOS SERVICIOS
 
@@ -11593,7 +11643,11 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -13129,7 +13183,7 @@ VI.- Todas las disposiciones normativas y reglamentarias, circulares y acuerdos 
 
 ###### ARTICULO TERCERO.
 
-Hasta en tanto que el Ejecutivo no expida los reglamentos de los Capítulos relativos a la Policía del Estado, Instituciones Penitenciarias, Salud Pública y Beneficencia Privada, continuarán en vigor pero con el carácter de disposiciones reglamentarias, en cuanto no se opongan a este Código, las contenidas en el Título Unico del Libro Quinto y Título Primero del Libro Séptimo de la Tercera Parte; Libros Primero y Tercero de la Sexta parte del Código Administrativo que se deroga.
+Hasta en tanto que el Ejecutivo no expida los reglamentos de los Capítulos relativos a la Policía del Estado, Instituciones Penitenciarias, Salud Pública y Beneficencia Privada, continuarán en vigor pero con el carácter de disposiciones reglamentarias, en cuanto no se opongan a este Código, las contenidas en el Título Unico del Libro Quinto y Título Primero del Libro Séptimo de la Tercera Parte; Libros Primero y Tercero de la Sexta Parte del Código Administrativo que se deroga.
 
 ###### ARTICULO CUARTO.
 
@@ -13262,3 +13316,7 @@ Estas adiciones entrarán en vigor el 30 de septiembre de 1982.
 P.O. 14 DE SEPTIEMBRE DE 1983.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 1984.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
