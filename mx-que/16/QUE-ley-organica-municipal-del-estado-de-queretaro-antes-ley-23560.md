@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2004-10-29"
+last_updated: "2005-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1965 +21,1721 @@ state: "QUE"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO -ANTES LEY PARA LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPIO LIBRE DEL ESTADO DE QUERETARO-
 
-ESTATUTOS TIEMPO X MÉXICO DEL ESTADO DE MICHOACÁN DE OCAMPO
+LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2005.
 
-Estatutos publicados en la Décima Sexta Sección del Número 27 del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 30 de junio de 2023.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
-ESTATUTOS TIEMPO X MÉXICO
+ING. IGNACIO LOYOLA VERA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-## TÍTULO I. DISPOSICIONES GENERALES
+LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
 
-### CAPÍTULO I. DENOMINACIÓN, EMBLEMA, SEDE Y COLORES
+LA QUINCUAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE LOS ARTICULOS 35 FRACCIONES V Y VII, 36, 41 FRACCIÓN I Y 57 FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-###### Artículo 1.
+...
 
-El partido político se denomina TIEMPO X MÉXICO y se identifica por las siglas en mayúscula TMX. Es un partido político estatal de centro izquierda regido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán y las leyes que de ellas y de los Congresos de la Unión y del Estado de Michoacán de Ocampo emanen, así como por los tratados internacionales de los que el estado mexicano sea parte, por los presentes Estatutos y su normatividad interna.
+Que por lo anterior, el Pleno de la Legislatura ha tenido a bien expide la siguiente:
 
-EMBLEMA
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-Los colores que caracterizan y diferencian al partido político TIEMPO X MÉXICO de otros partidos políticos, son los siguientes:
+## TÍTULO I. DE LOS MUNICIPIOS
 
-Morado, Pantone 92-8 U
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-Azul, Pantone 115-7 U
+###### ARTICULO 1.
 
-Magenta, Pantone 83-8 U
+La presente Ley es de orden público e interés social y tiene por objeto establecer las bases generales para la organización del ámbito municipal de gobierno conforme a lo señalado tanto en la Constitución Política de los Estados Unidos Mexicanos como en la propia de Estado Libre y Soberano de Querétaro Arteaga.
 
-Amarillo, Pantone 10-8 U
+###### ARTICULO 2.
 
-Gris, Pantone 179-11 U
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa. Es autónomo para organizar la administración pública municipal, contará con autoridades propias, funciones especificas y libre administración de su hacienda. Ejercerá sus atribuciones del ámbito de su competencia de manera exclusiva, y no existirá autoridad intermedia entre éste y el Gobierno del Estado.
 
-###### Artículo 2.
+Dentro de los límites de su territorio tiene la potestad para normar las materias, procedimientos, funciones y servicios públicos de su competencia, así como para establecer las autoridades y sus órganos de gobierno de conformidad con el orden constitucional y la presente Ley.
 
-TIEMPO X MÉXICO tiene los siguientes objetivos:
+###### ARTICULO 3.
 
-I. Construir una sociedad libre con condiciones de igualdad para todas las personas;
+Los municipios están investidos de personalidad jurídica y dotados de patrimonio propio. La representación legal corresponde al propio ayuntamiento, quien la ejercerá a través de uno o varios síndicos, asimismo podrá delegarla en el Presidente Municipal o en cualquiera de sus miembros a propuesta de aquel, por reglamento o mediante acuerdo expreso. La representación también podrá delegarse a favor de terceros para asuntos de carácter legal o jurisdiccional. El reglamento o acuerdo mediante el cual se haga la delegación de representación tendrá naturaleza de documento público y hará prueba plena en cualquier procedimiento de carácter administrativo o jurisdiccional, sin necesidad de ser inscrito en el Registro Público.
 
-II. Conformar principios democráticos sustentados en la participación social y la importancia de la ciudadanía en la consolidación de un sistema político-electoral;
+### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN TERRITORIAL
 
-III. Trabajar para que las personas alcancen sus proyectos de vida, construyendo un entorno normativo, político, social, cultural y económico que lo haga posible;
+###### ARTICULO 4.
 
-IV. Consolidar una plataforma de desarrollo político, democrático y social a partir de la inclusión, pluralidad, diversidad y colectividad, propiciando el debate riguroso de los principales temas de la agenda pública;
+Los Municipios conservarán los límites que tengan a la fecha de expedición de la presente Ley, según sus respectivos decretos de creación o los reconocimientos que al efecto existieren o bien los convenios que celebraren entre ellos y que hubieren sido ratificados por la Legislatura de conformidad con lo establecido en el inciso a) de la fracción XXXIII del Artículo 41 de la Constitución Local.
 
-V. Impulsar la prevención, buscando la erradicación de todas las formas de violencia, con énfasis en la violencia política por razón de género;
+###### ARTICULO 5.
 
-VI. Contribuir desde las buenas prácticas públicas con base en la probidad para lograr erradicar la corrupción y las concesiones vinculadas a los cargos de poder;
+Los Municipios del Estado, con sus respectivas cabeceras Municipales, son los siguientes:
 
-VII. Establecer relaciones y acuerdos con organizaciones sociales, agrupaciones y partidos políticos que estén comprometidos con promover la eficacia de las instituciones y organizaciones políticas del estado de Michoacán, así como con el mejoramiento de la calidad de vida de la ciudadanía; y,
+MUNICIPIO CABECERA MUNICIPAL
 
-VIII. Promover, respetar y defender los derechos humanos de las personas, con principal enfoque que en aquellas a quienes se les han vulnerado por razones de origen étnico, de género, de edad, de discapacidades, de su condición social, de salud, de su religión, de sus opiniones, de su orientación sexual, de su estado civil o de cualquier otra que atente contra la dignidad humana a través de la igualdad, equidad, transparencia, paridad y legalidad.
+AMEALCO DE BONFIL: AMEALCO DE BONFIL
 
-IX. Fortalecer, promover y defender el cuidado y trato digno a los animales.
+ARROYO SECO: ARROYO SECO
 
-###### Artículo 3.
+CADEREYTA DE MONTES: CADEREYTA DE MONTES
 
-TIEMPO X MÉXICO se establece bajo los siguientes fundamentos:
+COLON: COLON
 
-I. El respeto a la ley y a los derechos de las personas, como base del orden político y de la paz social;
+CORREGIDORA: EL PUEBLITO
 
-II. La igualdad de oportunidades para todas las personas, procurándolas a partir de la participación social y política;
+EL MARQUES: LA CAÑADA
 
-III. La competitividad y la innovación como intercambio libre del conocimiento, técnicas y mercancías que propician el desarrollo de la sociedad;
+EZEQUIEL MONTES: EZEQUIEL MONTES
 
-IV. La profesionalización de una oferta política que observe el privilegio a la evidencia sobre los dogmas;
+HUIMILPAN: HUIMILPAN
 
-V. La política como un instrumento para trabajar por el bien común, procurando las condiciones de garantía en los derechos humanos de las personas;
+JALPAN DE SERRA: JALPAN DE SERRA
 
-VI. La cultura de la paz como conjunto de valores, actitudes y comportamientos, con la finalidad de rechazar la violencia y prevenir los conflictos, privilegiando el diálogo y la exposición de argumentos;
+LANDA DE MATAMOROS: LANDA DE MATAMOROS
 
-VII. Agrupar a personas que busquen cambiar la vida y realidad de sus comunidades, partiendo de las necesidades locales más urgentes comunicadas por la propia voz de sus habitantes, para construir demandas sociales;
+PEDRO ESCOBEDO: PEDRO ESCOBEDO
 
-VIII. Competir para ocupar puestos de elección popular para que las comunidades puedan hacer realidad las soluciones a los problemas y demandas sociales que han construido, mediante una relación benéfica de rendición de cuentas, transparencia y trabajo conjunto;
+PEÑAMILLER: PEÑAMILLER
 
-IX. Tener candidatas y candidatos con la capacidad para ocupar espacios de elección popular electos de entre las comunidades locales siempre que sea posible, que cuenten con un fuerte arraigo en el municipio por el que buscan contender;
+PINAL DE AMOLES: PINAL DE AMOLES
 
-X. Reivindicar la idea del servicio y el deber cívico voluntario y desinteresado, buscando sumar voluntarias y voluntarios que puedan aportar sus conocimientos, recursos y energías para construir demandas sociales y ocupar espacios de elección popular;
+QUERÉTARO: SANTIAGO DE QUERÉTARO
 
-XI. Crear relaciones políticas libres de subordinación, intercambios de favores o de dependencia, para hacer política en libertad y con una lógica de interés mutuo;
+SAN JOAQUIN: SAN JOAQUIN
 
-XII. Ser una fuerza política honesta y directa siempre respecto de los alcances y capacidades de transformación del partido, comunicando de manera consciente que la transformación de Michoacán es un esfuerzo permanente, complejo y demanda estar en la lucha política todo el tiempo, buscando resultados sostenidos sin prometer victorias instantáneas o soluciones fáciles a problemas difíciles; y,
+SAN JUAN DEL RIO: SAN JUAN DEL RIO
 
-XIII. El irrestricto respeto a todas las convicciones y creencias personales de cada militante en un ambiente de respeto a la diferencia, pero jamás olvidando que lo que nos une son nuestros principios, ya que es eso lo que tenemos en común y que todo lo que hacemos como fuerza política gira alrededor de dichos principios.
+TEQUISQUIAPAN: TEQUISQUIAPAN
 
-### CAPÍTULO II. OBJETIVOS Y FUNDAMENTOS
+TOLIMAN: TOLIMAN
 
-###### Artículo 4.
+###### ARTICULO 6.
 
-El partido TIEMPO X MÉXICO está integrado por personas libres que de manera individual, personal y voluntaria participan cumpliendo con los requisitos que marcan estos Estatutos y refrendando los principios y valores constituidos en los Documentos Básicos.
+La residencia de los ayuntamientos será en las cabeceras municipales.
 
-Todas las personas con residencia en el estado de Michoacán que se comprometan a defender los principios y valores establecidos en los Documentos Básicos, podrán afiliarse e integrarse en sus diferentes modalidades.
+De forma temporal y de manera extraordinaria, mediante acuerdo de las dos terceras partes del total de los miembros del Ayuntamiento podrá habilitarse un lugar distinto, dentro de su territorio, para actos concretos o funciones determinadas en dicho acuerdo.
 
-###### Artículo 5.
+###### ARTICULO 7.
 
-La afiliación e integración se llevará a cabo bajo las siguientes modalidades de participación:
+Los centros de población de los municipios podrán tener las denominaciones de ciudad, villa, pueblo, ranchería y caserío, según el grado de concentración demográfica e importancia y eficiencia de los servicios públicos de los mismos.
 
-I. Militantes. Son las personas con ciudadanía mexicana que tengan residencia en el Estado de Michoacán y que pertenezcan al padrón de registro oficial bajo los compromisos que marca la normativa y los Documentos Básicos del partido;
+I. Se entenderá Ciudad aquel centro de población que sea cabecera municipal o aquél cuyo censo arroje un número mayor a 30,000 habitantes y tenga los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, limpia y recolección de basura, mercados, panteones, rastros, calles pavimentadas, parques y jardines, autoridad de seguridad pública, tránsito y transporte, unidad deportiva, servicios de salud, hospital, servicios asistenciales públicos, cárcel, planteles educativos de preescolar, primaria, secundaria y media superior;
 
-II. Simpatizantes. Son las personas con ciudadanía mexicana que tengan residencia en el Estado de Michoacán, que no pertenecen al registro del padrón del partido, sin embargo, participan activamente y contribuyen en la realización de los fines y objetivos del partido, involucrándose en sus actividades y colaborando con sus causas; y,
+II. Se denominará Villa aquel centro de población que tenga más de 7,000 y hasta 30,000 habitantes y los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, calles pavimentadas, servicios médicos, mercado, panteón, lugar de recreo y para la práctica del deporte cárcel y planteles educativos de preescolar, primaria, secundaria y media superior;
 
-III. Juventudes. Son las personas que no cumplen con la mayoría de edad, avecinados en el Estado de Michoacán, y que podrán integrarse con la finalidad de apoyar para que el partido alcance sus fines y objetivos propuestos, con los límites que la legislación electoral imponga.
+III. Se denominará Pueblo al centro de población cuyo censo arroje un número mayor de 2,000 habitantes y hasta 7,000 y tenga los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, mercados, panteones, policía, lugares de recreo y para la práctica del deporte, y centro de educación preescolar, primaria y secundaria;
 
-###### Artículo 6.
+IV. Se denominará Ranchería aquel centro de población cuyo censo arroje un número superior a 500 y hasta 2,000 habitantes y cuente con servicios de agua potable y/o alcantarillado, energía eléctrica, camino vecinal y escuela primaria; y
 
-Cualquier persona que goce de la ciudadanía mexicana, con residencia legal en Michoacán declarada ante la autoridad electoral, que sea mayor de edad y que no sea militante en activo de ningún partido político, o renuncie a este, puede registrarse para ser afiliada a TIEMPO X MÉXICO. Este registro y afiliación debe de ser de manera individual, personal, libre y sin coacción alguna y se entenderá como la expresión de afinidad y simpatía por los principios y estatutos de TIEMPO X MÉXICO.
+V. Se denominará Caserío al centro de población de hasta 500 habitantes en zona rural.
 
-###### Artículo 7.
+El Ayuntamiento de cada municipio reglamentará el procedimiento para las declaratorias de las categorías políticas a que se refiere este artículo, debiendo publicar la resolución correspondiente en el periódico oficial del Gobierno del Estado.
 
-Podrán afiliarse ordinariamente, en su lugar de residencia, las ciudadanas y ciudadanos que lo soliciten y cumplan con los principios de TIEMPO X MÉXICO, se comprometan al cumplimiento de los estatutos, y cumplan las condiciones descritas en el artículo anterior.
+### CAPÍTULO TERCERO. DE LA POBLACIÓN
 
-De manera extraordinaria, aquellas personas mexicanas, que no se encuentren en su lugar de origen, previa presentación de su credencial de elector que acredite su lugar de residencia en el estado de Michoacán, podrán afiliarse con arreglo a las disposiciones legales y reglamentarias aplicables, en todo momento, mediante los formatos y procesos que la autoridad electoral establezca para tal efecto. Su afiliación sirve como ratificación de su compromiso de cumplimiento de los estatutos y principios de TIEMPO X MÉXICO.
+###### ARTICULO 8.
 
-### CAPÍTULO I. DE LA MILITANCIA y AFILIACIÓN
+Son habitantes de un municipio las personas que tengan vecindad habitual o transitoria dentro de su territorio. Tendrán las prerrogativas, derechos y obligaciones señaladas en la Constitución Política del Estado y en los reglamentos municipales.
 
-###### Artículo 8.
+###### ARTICULO 9.
 
-La militancia de TIEMPO X MÉXICO tienen los siguientes derechos:
+Se considera vecino de un municipio a toda persona que establezca domicilio en su territorio, y se reconocerá como residente cuando su domicilio permanezca en él por más de seis meses.
 
-I. Participar personalmente y de manera directa o por medio de delegados en asambleas, consejos, convenciones o equivalentes, en las que se adopten decisiones relacionadas con la aprobación de los Documentos Básicos del partido político y sus modificaciones, la elección de dirigentes, candidatos y candidatas a puestos de elección popular, la fusión, coalición, formación de frentes y disolución del partido político;
+###### ARTICULO 10.
 
-II. Postularse dentro de los procesos internos de selección de candidatos y candidatas a cargos de representación popular, cumpliendo con los requisitos que se establezcan en las disposiciones aplicables y en los estatutos del partido;
+La calidad de residente se pierde por:
 
-III. Postularse dentro de los procesos de selección de dirigentes, así como para ser nombrado o nombrada en cualquier otro empleo o comisión al interior del partido político, cumpliendo con los requisitos establecidos por los estatutos;
+I. Renuncia expresa ante la autoridad municipal;
 
-IV. Pedir y recibir información pública sobre cualquier asunto del partido político en los términos de las leyes en materia de transparencia, independientemente de que tengan o no interés jurídico directo en el asunto respecto del cual solicitan la información;
+II. Establecer su domicilio, por más de seis meses, fuera de su territorio municipal;
 
-V. Solicitar la rendición de cuentas a la dirigencia, a través de los informes que, con base en la normatividad interna, se encuentren obligados a presentar durante su gestión;
+III. Declaración de Ausencia o Presunción de Muerte legalmente declarada.
 
-VI. Exigir el cumplimiento de los Documentos Básicos del partido político;
+###### ARTICULO 11.
 
-VII. Recibir capacitación y formación política e información para el ejercicio de sus derechos políticos y electorales;
+No se perderá la residencia cuando la persona se traslade a residir a otro lugar para desempeñar un cargo de elección popular; una comisión de carácter oficial no permanente o con motivo de estudios, actividades científicas, técnicas, artísticas y de trabajo, cuando estas no impliquen la intención de radicarse en el lugar en que se desempeñen.
 
-VIII. Tener acceso a la jurisdicción interna del partido político y, en su caso, a recibir orientación jurídica en el ejercicio y goce de sus derechos como militante cuando sean violentados al interior del partido político;
+Para los casos en que la residencia se considere un requisito de procedencia, ésta se probará ante la Secretaría del Ayuntamiento mediante documentos que acrediten la intención de la persona de establecer su domicilio en los términos de la legislación común y será esta autoridad quien expida las constancias correspondientes.
 
-IX. Impugnar ante el Tribunal o los tribunales electorales locales las resoluciones y decisiones de los órganos internos que afecten sus derechos político-electorales;
+### CAPÍTULO CUARTO. DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS
 
-X. Formarse y capacitarse a través de los programas de formación del partido político;
+###### ARTICULO 12.
 
-XI. Refrendar, en su caso, o renunciar a su condición de militante;
+En los municipios donde se encuentren asentados pueblos y comunidades indígenas, los ayuntamientos promoverán el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
-XII. Ser reconocidas y reconocidos como militantes, tras haber cubierto los requisitos y procedimientos previstos por medio de un documento que lo avale expedido por la Secretaría General del Comité Ejecutivo Estatal;
+Asimismo, promoverán que la educación básica que se imparta, sea tanto en idioma español como en la lengua indígena correspondiente.
 
-XIII. Expresar libremente sus opiniones al interior del partido, con estricto respeto a sus integrantes y privilegiando el consenso en el diálogo;
+Para los efectos de los párrafos anteriores, los ayuntamientos expedirán normas de carácter general, en el ámbito de su competencia.
 
-XIV. Acceder a la garantía sobre la protección de los datos personales como militancia, así como los derechos al acceso, rectificación, cancelación y oposición de estos, por parte del partido, a través de los procedimientos establecidos en las leyes y en la normativa secundaria; y,
+Los centros de población indígena podrán tener la denominación de categoría política de conformidad con sus usos y costumbres.
 
-XV. Los demás que señalen la legislación y normativa vigente, así como los Documentos Básicos del partido.
+###### ARTICULO 13.
 
-###### Artículo 9.
+Los planes de desarrollo municipal, deberán contener programas y acciones tendientes al crecimiento y bienestar de los pueblos y comunidades indígenas a que hace referencia el artículo anterior, respetando sus formas de producción y comercio.
 
-Son obligaciones de las personas militantes de TIEMPO X MÉXICO las siguientes:
+## TÍTULO II. DE LA CREACIÓN, ASOCIACIÓN, FUSIÓN Y SUPRESIÓN DE MUNICIPIOS
 
-I. Respetar y cumplir los estatutos y la normatividad partidaria;
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-II. Respetar y difundir los principios ideológicos y el programa de acción;
+###### ARTICULO 14.
 
-III. Contribuir a las finanzas del partido político en los términos previstos por las normas internas y cumplir con el pago de cuotas que el partido determine, dentro de los límites que establezcan las leyes electorales;
+Además de las facultades y obligaciones establecidas en el artículo 41 de la Constitución Política del Estado y su ley reglamentaria, la Legislatura conocerá y resolverá sobre las siguientes cuestiones de orden municipal:
 
-IV. Velar por la democracia interna y el cumplimiento de las normas partidarias;
+I. Creación y fusión de municipios;
 
-V. Cumplir con las disposiciones legales en materia electoral;
+II. Ratificación de los convenios sobre límites de territorios municipales;
 
-VI. Cumplir con las resoluciones internas que hayan sido dictadas por los órganos facultados para ello y con base en las normas partidarias;
+III. Cambios de residencia de las cabeceras municipales; y
 
-VII. Participar en las asambleas, convenciones y demás reuniones a las que le corresponda asistir;
+IV. Supresión de municipios cuando por insuficiencia de sus medios económicos no les sea factible atender eficientemente los servicios públicos indispensables.
 
-VIII. Formarse y capacitarse a través de los programas de formación del partido político;
+En la resolución del caso derivado de la fracción II del presente artículo, se requiere la aprobación de las dos terceras partes de los diputados integrantes de la Legislatura.
 
-IX. Socializar los principios y Estatutos del partido, con la finalidad de convocar y orientar a las personas que deseen afiliarse e integrarse;
+En la resolución de los casos derivados de las fracciones I, III y IV, el procedimiento respectivo se ajustará a lo que establece el artículo 103 de la Constitución Política del Estado.
 
-X. Fomentar la participación de la ciudadanía con la finalidad de fortalecer la estructura del partido, así como replicar los Principios ideológicos que construyan una mejor alternativa democrática para Michoacán;
+### CAPÍTULO SEGUNDO. DE LA CREACIÓN DE LOS MUNICIPIOS
 
-XI. Buscar consolidar la estructura de personas voluntarias por convicción y aumentar de forma sostenida la participación, en número de personas e intensidad de la participación;
+###### ARTICULO 15.
 
-XII. Atender las opiniones y demandas de las michoacanas y los michoacanos, con la finalidad de ser un instrumento para aportar mejoras en las necesidades que aquejan a sus habitantes;
+Para la creación de un municipio deberán satisfacerse los siguientes requisitos:
 
-XIII. Participar para consolidar demandas sociales y políticas que busquen la mejora de la calidad de vida en su localidad, así como disputar el poder político mediante las elecciones a puestos de elección popular que tendrán como principal objetivo cumplir las demandas sociales reconocidas mediante la actividad local y todas aquellas que social, constitucional o convencionalmente deban ser satisfechas;
+I. Contar con una población mayor a veinticinco mil habitantes;
 
-XIV. Contribuir a las finanzas del partido político de manera voluntaria, en los términos previstos por las normas internas dentro de los límites que establezcan las leyes electorales;
+II. Disponer de los medios y recursos necesarios para cubrir las erogaciones que demande la administración pública municipal, y
 
-XV. Velar por la democracia interna y el cumplimiento de las normas del partido;
+III. Contar con los servicios públicos municipales suficientes para la satisfacción de las necesidades de la comunidad en donde se pretende erigir el nuevo municipio.
 
-XVI. Cumplir con las disposiciones legales en materia electoral;
+Previamente a la resolución respectiva, el municipio o municipios cuyos territorios resultaren afectados por la creación de uno nuevo, expresarán por medio de sus ayuntamientos, la opinión fundada que convenga a sus intereses, la que harán por escrito ante la Legislatura en un término no mayor de sesenta días naturales, contados a partir de que recibieren la notificación correspondiente.
 
-XVII. Cumplir con las resoluciones internas que hayan sido dictadas por los órganos facultados para ello y con base en las normas del partido;
+Ante la creación de un nuevo Municipio sus autoridades serán electas en los próximos comicios de conformidad a la Ley Electoral del Estado. Durante el tiempo que transcurra entre la resolución que constituye el Municipio y la elección del Ayuntamiento, se elegirá un Consejo Municipal en los términos del párrafo cuarto del artículo anterior.
 
-XVIII. Participar en las asambleas, convenciones y demás reuniones a las que le corresponda asistir;
+### CAPÍTULO TERCERO. DE LA ASOCIACIÓN DE MUNICIPIOS
 
-XIX. Representar dignamente a TIEMPO X MÉXICO en todas las facetas de su vida pública, teniendo una conducta social honesta, diligente y respetuosa de los derechos humanos de todas las personas, en especial de las que se encuentran en mayor grado de vulnerabilidad;
+###### ARTICULO 16.
 
-XX. Abstenerse de realizar cualquier acto que vaya en detrimento del partido, de los presentes Estatutos, Declaración de Principios y Programa de Acción, de sus órganos estatutarios, militantes, simpatizantes o juventudes; y,
+Los municipios por acuerdo de los ayuntamientos, podrán coordinarse y asociarse para la formulación y aplicación de planes y programas comunes, así como para la creación de organizaciones o entidades de desarrollo regional que tengan por objeto, entre otros:
 
-XXI. Las demás que señale la legislación y normativa vigente, así como los Documentos Básicos del partido.
+I. El estudio y análisis de la problemática regional y las propuestas para superarla;
 
-###### Artículo 10.
+II. La elaboración y aplicación de programas de desarrollo común;
 
-Para que todos los órganos y espacios de representación de TIEMPO X MÉXICO se integren representando efectivamente la diversidad social del estado, se deberá dar prioridad para la conformación a los principios de paridad y representación de género y llevando a cabo esfuerzos orientados a la inclusión de sectores tradicionalmente subrepresentados en la política.
+III. La realización de programas de seguridad pública;
 
-###### Artículo 11.
+IV. La colaboración en la prestación de los servicios públicos;
 
-A fin de garantizar los relevos en cargos de dirigencia estatal y municipal, cualquier persona militante que haya ocupado un puesto de dirigencia podrá reelegirse siempre que se haya desempeñado con eficiencia y en estricto apego a los Estatutos. Nadie, bajo ninguna circunstancia, podrá ocupar dos cargos de dirigencia al mismo tiempo.
+V. La participación en la obra pública;
 
-### CAPÍTULO II. DERECHOS Y OBLIGACIONES DE LA MILITANCIA
+VI. La capacitación de los servidores públicos municipales;
 
-###### Artículo 12.
+VII. La elaboración y aplicación de planes de desarrollo urbano;
 
-TIEMPO X MÉXICO obtendrá su financiamiento público y privado, y en su caso, autofinanciamiento, en los términos que la legislación vigente y su reglamentación dicten y el destino de esos recursos atenderá también a lo establecido por la legislación y reglamentación aplicable, siempre atendiendo los parámetros constitucionales al respecto.
+VIII. La gestión de demandas comunes ante los gobiernos federal y estatal;
 
-###### Artículo 13.
+IX. La adquisición de equipo; y
 
-En términos de financiamiento de TIEMPO X MÉXICO el órgano estatutario de finanzas será auditado por el órgano interno de control para vigilar el cumplimiento de las obligaciones de fiscalización, contabilidad y transparencia que marca la ley. Lo anterior con el objetivo de garantizar la máxima transparencia de los ingresos y egresos del partido. La información generada se recolectará, pedirá, organizará, auditará y presentará a las instancias competentes y a la ciudadanía en general, toda la información pública que la legislación vigente aplicable le dicte y cuando sea posible, oportuno y legal, de manera proactiva, así como la demás información que resulte pertinente.
+X. Los demás que tiendan a promover el bienestar y progreso de su población.
 
-## TÍTULO II. DE LA INTEGRACIÓN DEL PARTIDO
+###### ARTICULO 17.
 
-### CAPÍTULO III. DE LOS PRINCIPIOS DE DEMOCRACIA DIRECTA Y LOCAL DE TIEMPO X MÉXICO
+Los ayuntamientos aprobarán los convenios de asociación de los municipios correspondientes y de común acuerdo podrán designar coordinadores operativos o crear la estructura que convenga.
 
-###### Artículo 14.
+Tratándose de la asociación de los municipios del Estado con otros pertenecientes a otras entidades, dichas asociaciones deberán contar con la aprobación de las Legislaturas de sus respectivos estados.
 
-El sistema de justicia interna del partido político tiene las siguientes características:
+### CAPÍTULO CUARTO. DE LA FUSIÓN DE MUNICIPIOS
 
-a) Cuenta con la Comisión de Honor y Justicia como única instancia de resolución de conflictos internos a efecto de que las resoluciones se emitan de manera pronta y expedita, aplicando la perspectiva de género y garantizando el acceso a la justicia;
+###### ARTICULO 18.
 
-b) Cuenta con plazos ciertos para la interposición, sustanciación y resolución de los medios de justicia interna;
+Los ayuntamientos de dos o más municipios podrán solicitar a la Legislatura la fusión de los mismos, debiendo cumplir los siguientes requisitos:
 
-c) Respeta todas las formalidades esenciales del procedimiento; y,
+I. Exponer por escrito los motivos en los que funden su petición;
 
-d) Ser eficaces formal y materialmente para, en su caso, restituir a las personas afiliadas en el goce de los derechos político-electorales en los que resientan un agravio.
+II. Acreditar que los municipios que pretendan fusionarse estén debidamente comunicados; y
 
-### CAPÍTULO I. DE LA JUSTICIA INTRAPARTIDARIA Y MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
+III. Señalar la cabecera municipal y el nombre que ha de adoptar el nuevo municipio.
 
-###### Artículo 15.
+###### ARTICULO 19.
 
-En congruencia con lo establecido en la Ley General de Partidos Políticos, la normatividad estatal y estatutos de TIEMPO X MÉXICO, asumimos la vía pacífica, democrática y el principio pro persona, la interpretación conforme, y los principios constitucionales y convencionales para garantizar el acceso a la justicia, así como los canales de solución de controversias que pudieran llegar a generarse en la vida institucional y pública en la que se involucre este partido.
+Una vez recibida la solicitud a que se refiere el Artículo anterior, la Legislatura determinará:
 
-### CAPÍTULO II. SANCIONES
+I. Que se tome en cuenta la opinión ciudadana de los habitantes de los municipios que pretendan fusionarse;
 
-###### Artículo 16.
+II. Que se tome en cuenta la opinión, expresada por escrito a la Legislatura por el Ejecutivo del Estado y de los ayuntamientos colindantes a los que pretendan fusionarse; quienes deberán emitirla dentro de los sesenta días naturales siguientes a la fecha en la que se les comunique la solicitud;
 
-Previo al inicio de un procedimiento disciplinario, en contra de una persona afiliada o de algún órgano del partido y siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos, se deberán privilegiar la solución del conflicto sobre los formalismos procedimentales señalados en estos estatutos.
+III. Que los municipios fusionantes presenten el proyecto de liquidación de pasivos y obligaciones a su cargo o bien se exprese el compromiso de cumplirlos y la forma para hacerlo; y
 
-###### Artículo 17.
+IV. Que se establezca formalmente la transmisión de las obligaciones de carácter laboral de los municipios fusionantes al municipio resultante de la fusión, y en su caso se garantice su cumplimiento de conformidad con lo que establezcan las leyes.
 
-La violación de los estatutos de TIEMPO X MÉXICO y/o a sus principios fundamentales, cometida por la persona o personas militantes del partido que incurran en dichos supuestos será sancionada conforme a lo dispuesto en los presentes Estatutos. El proceso disciplinario de justicia intrapartidaria se hará mediante las instancias y procedimientos aquí establecidos, en apego además a la legislación en materia electoral aplicable.
+###### ARTICULO 20.
 
-### CAPÍTULO III. MEDIACIÓN Y CONCILIACIÓN
+Verificados los requisitos a que se refieren los artículos anteriores, la Legislatura, previa valoración de la conveniencia de la fusión solicitada, procederá, en su caso, a decretar la desaparición de los Municipios y sus ayuntamientos solicitantes y la creación del nuevo municipio, señalando cuál será su cabecera municipal y el nombre correspondiente.
 
-###### Artículo 18.
+Asimismo procederá a designar conforme a la Constitución Política del Estado al Consejo Municipal que concluirá el periodo constitucional iniciado por los ayuntamientos fusionados.
 
-Se consideran faltas a los Estatutos y declaración de principios lo siguiente:
+###### ARTICULO 21.
 
-I. La inobservancia de los Estatutos y el incumplimiento de las obligaciones de la militancia;
+La Legislatura podrá por sí misma, decretar la fusión de dos o más municipios cuando lo considere conveniente, con base a las atribuciones que le otorga la Constitución Política del Estado, debiendo consultar en todo caso a los ciudadanos de los municipios afectados.
 
-II. Transgredir las obligaciones establecidas en los Documentos Básicos del partido y/o sus reglamentos;
+### CAPÍTULO QUINTO. DE LA SUPRESIÓN DE MUNICIPIOS
 
-III. Realizar cualquier conducta punible, actos de violencia, o discriminación, o que atenten contra la dignidad humana de cualquier persona;
+###### ARTICULO 22.
 
-IV. Llevar a cabo cualquiera de las acciones anteriores en el ámbito de la función pública o la vida electoral, siempre que estas involucren al partido, en cuyo caso TIEMPO X MÉXICO podrá deslindar responsabilidad en el momento oportuno e iniciar un procedimiento interno para la sanción a dicha conducta.
+El Titular del Poder Ejecutivo del Estado, el Ayuntamiento o los diputados locales podrán solicitar a la Legislatura la supresión de un municipio cuando exista probada incapacidad económica para el sostenimiento de su administración o la notoria disminución de sus habitantes.
 
-###### Artículo 19.
+###### ARTICULO 23.
 
-Se consideran faltas de conducta graves de cualquier persona afiliada a TIEMPO X MÉXICO, las siguientes:
+Al acordarse la supresión de un municipio, la Legislatura determinará a cual o cuáles de los municipios colindantes se agregarán los centros de población y territorio que lo formaban procurando su unidad social, cultural y geográfica.
 
-I. No acatar los Estatutos;
+Asimismo se determinará a quien corresponderá hacerse responsable de los pasivos y el cumplimiento de las obligaciones que estuvieren a cargo del municipio suprimido.
 
-II. Actuar en contra a lo establecido en el Programa de Acción y Declaración de Principios de TIEMPO X MÉXICO;
+De la misma forma, en el acuerdo respectivo deberá establecerse a quien corresponderá la titularidad de las relaciones laborales respecto de los trabajadores del municipio suprimido.
 
-III. Actuar ante las autoridades del Estado Mexicano, incluyendo las electorales, a nombre de TIEMPO X MÉXICO sin haber recibido tal encargo;
+## TÍTULO III. DE LOS AYUNTAMIENTOS
 
-IV. Ejercer funciones de vocería sin autorización de la dirigencia o de alguna de las asambleas de TIEMPO X MÉXICO;
+### CAPÍTULO PRIMERO. DE LA RENOVACIÓN E INSTALACIÓN DE LOS AYUNTAMIENTOS
 
-V. Usurpar funciones de una persona afiliada a TIEMPO X MÉXICO, particularmente una que ocupe algún cargo operativo o estatutario;
+###### ARTICULO 24.
 
-VI. Usurpar cargos de dirigencia de TIEMPO X MÉXICO;
+Los ayuntamientos se renovarán en su totalidad cada tres años y entrarán en funciones el primero de octubre.
 
-VII. En caso de detentar un cargo de dirigencia, estatutario u operativo, por abandono notable de deberes;
+En sesión ordinaria del año que corresponda, el Ayuntamiento saliente nombrará una comisión plural de regidores que fungirá como Comisión Instaladora del Ayuntamiento electo.
 
-VIII. Haber entregado información falsa respecto de los antecedentes penales, antecedentes de corrupción o de militancia activa en algún otro partido político;
+La comisión designada convocará a los integrantes del Ayuntamiento electo para que acudan a la sesión de instalación formal del mismo.
 
-IX. Divulgación dolosa de información errónea, confidencial o de datos personales respecto de TIEMPO X MÉXICO o sus afiliados o afiliadas;
+La Comisión Instaladora del Ayuntamiento electo, deberá citar a los integrantes propietarios del mismo con por lo menos 15 días de anticipación.
 
-X. Recibir resolución administrativa o sentencia condenatoria por actos de corrupción, violencia de género, sexual o por delitos patrimoniales; y,
+El Ayuntamiento se instalará con la presencia del Presidente y, cuando menos, la mitad de los Regidores Propietarios.
 
-XI. Reincidir en faltas a los presentes estatutos.
+En caso de que a la sesión de instalación no acuda cualquiera de los miembros del ayuntamiento electo, los presentes llamarán a los ausentes para que se presenten en el improrrogable plazo de tres días; sino se presentaren, se citará en igual plazo a los suplentes y se entenderá que los propietarios renuncian a su cargo. De no darse la mayoría exigida, los suplentes ausentes sufrirán los mismos efectos y se procederá en los términos del Artículo 30 fracción XVI y del párrafo segundo del Artículo 43 de esta Ley.
 
-###### Artículo 20.
+Si por el motivo que fuera la Comisión Instaladora no realizara su función, el Ayuntamiento Electo formará una de entre sus miembros para el mismo efecto. Si tampoco esta pudiera conformarse la Legislatura resolverá conforme a la legislación aplicable.
 
-Las personas militantes, simpatizantes y juventudes tienen derecho a acceder a los Mecanismos Alternativos de Solución de Controversias, cuando se vean afectados sus derechos al interior del Partido, en términos estatutarios y legales.
+De la sesión de instalación se levantará el acta correspondiente.
 
-###### Artículo 21.
+###### ARTICULO 25.
 
-El procedimiento de Mecanismos Alternativos de Solución de Controversias tiene por objeto conocer y resolver, a través de la mediación y conciliación los conflictos internos entre militantes del Partido, a petición de parte interesada, subsistiendo en todo caso la voluntad de las partes en términos de Ley.
+La protesta que el Presidente Municipal Electo debe realizar será la siguiente:
 
-La persona interesada deberá presentar su petición escrita dirigida a la Comisión de Honor y Justicia en un plazo máximo de tres días, debiendo expresar los antecedentes de la controversia que se pretenda resolver, la parte complementaria, terceros interesados, en su caso, y la declaración de someterse voluntariamente a resolver su asunto a través de los mecanismos de justicia alternativa.
+"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y TODAS LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO QUE EL PUEBLO ME HA CONFERIDO, POR EL BIEN Y PROSPERIDAD DEL ESTADO Y DE ESTE MUNICIPIO".
 
-### CAPÍTULO IV. MEDIOS DE IMPUGNACIÓN
+"SI ASI NO LO HICIERE, QUE ESTE MUNICIPIO Y LA NACIÓN ME LO DEMANDEN".
 
-###### Artículo 22.
+El Presidente Municipal una vez que haya rendido la protesta preguntará el texto anterior a los miembros del Ayuntamiento, a lo que deberán contestar: "SI, PROTESTO".
 
-Tanto el reglamento de justicia intrapartidaria como el protocolo de atención a casos de violencia de género deberán incluir las siguientes prerrogativas procesales y derechos de las personas denunciadas:
+###### ARTICULO 26.
 
-I. Derecho a conocer las acusaciones que se les formulen;
+Al término de su gestión, las administraciones municipales deberán entregar los recursos humanos, financieros, materiales y técnicos a quienes los releven en sus cargos, en los términos de la Ley que Establece las Bases para la Entrega Recepción Administrativa en el Estado de Querétaro.
 
-II. Derecho a contestar por escrito y/o verbalmente a las acusaciones que se les formulen;
+### CAPÍTULO SEGUNDO. FUNCIONAMIENTO Y COMPETENCIA DE LOS AYUNTAMIENTOS Y LA ORGANIZACIÓN ADMINISTRATIVA MUNICIPAL
 
-III. Garantizar en igualdad de oportunidades, y respetando la igualdad procesal con las denunciantes, el derecho de audiencia de las personas denunciadas;
+###### ARTICULO 27.
 
-IV. Derecho a ser representadas por un profesional del derecho o persona de su confianza;
+Cada Municipio será gobernado por un Ayuntamiento integrado por un Presidente Municipal, Síndicos y Regidores en los términos que lo señale la Ley Electoral del Estado.
 
-V. A respetar y salvaguardar todas las prerrogativas procesales y constitucionales de cualquier persona acusada; y,
+El Ayuntamiento es el órgano colegiado de representación popular depositario de la función pública municipal cuyo propósito será el de reunir y atender las necesidades colectivas y sociales dentro de sus respectivas jurisdicciones.
 
-VI. A resolver dentro de un plazo razonable, de forma oportuna y en estricto apego a la legalidad.
+Las sesiones del Ayuntamiento deberán realizarse de acuerdo al reglamento correspondiente. Siempre serán públicas y sólo privadas cuando lo acuerde el Ayuntamiento por las siguientes causas:
 
-###### Artículo 23.
+I. Cuando se trate de la acusación, el desahogo de diligencias y la imposición de sanciones a un servidor público municipal;
 
-Las personas militantes que violenten los documentos básicos y reglamentación del partido, o se cometa violencia política contra las mujeres en razón de género, serán sancionadas por la Comisión de Honor y Justicia, de la forma siguiente:
+II. Cuando se advierta un peligro para la seguridad, tranquilidad o la salud públicas; y
 
-I. Amonestación por escrito;
+III. Cuando no existan condiciones propicias para celebrar las sesiones en orden.
 
-II. Suspensión temporal del cargo que se estuviere desempeñando en TIEMPO X MÉXICO;
+El Ayuntamiento sesionará de manera ordinaria, extraordinaria y solemne, debiendo estar presentes la mayoría absoluta de sus miembros. Las sesiones ordinarias del Ayuntamiento tendrán lugar por lo menos dos veces por mes y las extraordinarias cuantas veces se considere necesario; Estas podrán ser convocadas por el Presidente Municipal o bien por escrito en que conste la firma de la mayoría de los miembros del Ayuntamiento.
 
-III. Separación definitiva o privación del cargo o comisión partidista;
+La ocasión en que la sesión sea solemne será definida por el Ayuntamiento y por esta Ley.
 
-IV. Suspensión temporal de tres a seis meses como militante del partido;
+Sus resoluciones se tomarán por el voto de la mayoría absoluta de sus integrantes, salvo cuando se requiera votación calificada por el reglamento respectivo a las leyes. En todo caso, los acuerdos que se tomen siempre se harán públicos.
 
-V. Cancelación de la precandidatura o candidatura;
+Para los efectos de esta Ley se entenderá por mayoría absoluta aquella que implique más de la mitad de los integrantes del cuerpo colegiado; mayoría calificada la que requiere cuando menos el voto de las dos terceras partes de los integrantes del cuerpo colegiado en un mismo sentido; y mayoría simple la que alcance el mayor número de votos pero no los suficientes para llegar a la mayoría absoluta antes mencionada.
 
-VI. Inhabilitación para ser candidato o candidata, así como, dirigente del partido hasta por tres años;
+Para la abrogación o derogación de cualquier proveído del Ayuntamiento se requerirá el mismo tipo de votación que para su aprobación.
 
-VII. Expulsión del partido;
+###### ARTICULO 28.
 
-VIII. Las establecidas en el protocolo de atención a casos de violencia de género de TIEMPO X MÉXICO; y,
+Los cargos municipales son incompatibles con cualquier otro de la Federación o del Estado, excepto los docentes y los asistenciales; el funcionario que asuma dos o más cargos incompatibles deberá optar por uno, dentro de los quince primeros días a que asuma el segundo de los cargos, en caso de no hacerlo se presumirá que renuncia al cargo municipal.
 
-IX. Denunciar ante las autoridades competentes cualquier acto de violencia contra las mujeres en razón de género.
+###### ARTICULO 29.
 
-## TÍTULO III. JUSTICIA INTRAPARTIDARIA Y MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
+La administración pública municipal depende del Presidente Municipal como órgano ejecutivo. Dicha administración pública podrá ser centralizada, desconcentrada y paramunicipal, conforme al reglamento correspondiente de cada municipio, en el cuál se distribuirán las competencias de las dependencias y entidades que la integren.
 
-### CAPÍTULO V. QUEJA
+###### ARTICULO 30.
 
-###### Artículo 24.
+Los ayuntamientos son competentes para:
 
-Las resoluciones que determinen una sanción disciplinaria surtirá (sic) efectos definitivos e inatacables al interior del partido, quedando expedito el derecho del inconforme para impugnar antes las autoridades electorales competentes.
+I. Aprobar los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, que regulen las materias, procedimientos, funciones y servicios públicos de su competencia y que aseguren la participación ciudadana y vecinal;
 
-La notificación de dichas resoluciones deberá ser conforme a lo dispuesto en la Ley de Justicia en Materia Electoral y de Participación Ciudadana del Estado de Michoacán de Ocampo.
+II. En los términos de las leyes federales y estatales relativas, estarán facultados para:
 
-###### Artículo 25.
+a) Aprobar la zonificación y planes de desarrollo urbano municipal;
 
-Las sanciones disciplinarias señaladas en estos estatutos se impondrán de manera proporcional a la gravedad y reincidencia de la falta. Toda resolución que dicte el órgano de justicia, deberá estar fundada, motivada y argumentada debida y suficientemente y sus resoluciones deberán siempre atender al principio pro persona, y realizarse con perspectiva de género y de derechos humanos.
+b) Participar en la creación y administración de sus reservas territoriales;
 
-###### Artículo 26.
+c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes estatales y federales de la materia;
 
-La mediación, es un mecanismo voluntario de solución de controversias, por medio del cual, las y los militantes pueden resolver un conflicto intrapartidario de forma extraprocesal, contribuyendo a la justicia ordinaria, solucionando controversias sobre asuntos internos que se deriven de la aplicación de los Documentos Básicos del partido político TIEMPO X MÉXICO.
+d) Autorizar y vigilar la utilización del suelo, en el ámbito de su competencia;
 
-Mediante este procedimiento, las y los militantes que tengan un conflicto entre sí, podrán solicitar la intervención de la Comisión de Honor y Justicia para que de manera conjunta y pacífica obtengan un acuerdo satisfactorio, evitando el proceso de justicia intrapartidaria, tal y como lo establecen las normas estatutarias.
+e) Intervenir en la regularización de la tenencia de la tierra urbana y rural;
 
-### CAPÍTULO VII (SIC). NULIDAD
+f) Otorgar licencias y permisos para construcciones;
 
-###### Artículo 27.
+g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
-La conciliación, es el mecanismo voluntario de solución de controversias mediante el cual las y los militantes del partido, en libre ejercicio de su autonomía, proponen opciones de solución a la controversia en que se encuentran involucrados. Además de propiciar la comunicación entre las y los intervinientes, la persona facilitadora que intervenga podrá sobre la base de criterios objetivos, presentar alternativas de solución diversas.
+h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; y
 
-###### Artículo 28.
+i) Celebrar convenios para la administración y custodia de las zonas federales.
 
-La conciliación se desarrollará en los mismos términos previstos para la mediación, sin embargo, a diferencia de ésta, quien intervenga como persona facilitadora tendrá la autorización para proponer soluciones basadas en escenarios posibles y discernir los más idóneos para las y los intervinientes, con respeto a los principios de las leyes aplicables. La persona facilitadora podrá proponer la alternativa que considere más viable para la solución de la controversia.
+III. Otorgar a los centros de población la categoría política que les corresponda, de conformidad con el procedimiento respectivo;
 
-###### Artículo 29.
+IV. Autorizar la contratación y concesión de obras y servicios públicos municipales, en los términos de sus reglamentos;
 
-La Comisión de Honor y Justicia es el órgano encargado de la justicia interna del partido. Estará integrado por el mínimo de tres personas y que deberán acreditar previo a su nombramiento, conocimientos jurídicos amplios y suficientes, así como preferentemente en materia de derechos humanos, perspectiva de género, justicia restaurativa y solución alternativa de conflictos, y que serán elegidas de acuerdo con los presentes estatutos.
+V. Crear las secretarías, direcciones y departamentos que sean necesarios para el despacho de los negocios del orden administrativo y la eficaz prestación de los servicios públicos municipales;
 
-###### Artículo 30.
+VI. Crear y suprimir las delegaciones y subdelegaciones municipales necesarias para el efectivo cumplimiento de sus funciones administrativas y la provisión de servicios;
 
-La Comisión de Honor y Justicia será la encargada de determinar el mecanismo alternativo de solución de controversia más adecuado para resolver la situación planteada, de ser procedente, se le notificará por escrito esta determinación a las personas involucradas dentro de los siguientes tres días hábiles, procediendo mediante una persona experta a continuar y concluir el procedimiento bajo las siguientes formalidades mínimas:
+VII. Aprobar y evaluar el cumplimiento de los planes y programas, municipales;
 
-I. Se llevará a cabo mediante un máximo de tres sesiones, en las que las partes podrán manifestar sus puntos de vista y se elaborará un resumen de los puntos destacados y acuerdos a los que se lleguen;
+VIII. Solicitar a través del Presidente Municipal la comparecencia de los servidores públicos de la administración municipal, así como la información necesaria para el proceso de evaluación y seguimiento de los planes y programas;
 
-II. Los acuerdos que se generen en las sesiones deberán ser viables, equitativos, legales y convenientes que serán examinados por las personas involucradas;
+IX. Solicitar al Ejecutivo del Estado la expropiación de bienes por causa de utilidad pública.
 
-III. Las partes podrán solicitar a la persona experta, un plazo de hasta tres días hábiles para tomar una decisión respecto de la aceptación, variación o rechazo del acuerdo propuesto en la sesión y aceptado éste último, se firmará el convenio final; y,
+X. Formular la iniciativa de Ley de Ingresos del municipio para cada año fiscal y remitirla, para su estudio y aprobación, a la Legislatura.
 
-IV. Se contará con un plazo máximo de un mes para el desarrollo del procedimiento y llegar a un convenio final o se dará por terminado.
+XI. Formular y aprobar el Presupuesto de Egresos del municipio para cada año fiscal, con base en sus ingresos disponibles y sujetándose para ello a las normas contenidas en ésta y las demás leyes aplicables;
 
-###### Artículo 31.
+XII. Administrar el patrimonio del municipio conforme a la Ley y vigilar, a través del Presidente municipal y de los órganos de control que se establezcan del propio ayuntamiento, la correcta aplicación del Presupuesto de Egresos;
 
-Será la Comisión de Honor y Justicia la encargada de recibir de manera directa o a través de cualquiera de los Comités, y substanciar el escrito de solicitud, que deberá contener la expresión de agravios que le cause al quejoso o quejosa, así como los elementos de prueba que justifiquen su dicho.
+XIII. Remitir cada tres meses a la Legislatura del Estado, a través de la Contaduría Mayor de Hacienda, la Cuenta Pública Municipal, a más tardar los días quince de los meses de enero, abril, julio y octubre, y en el caso del último año de ejercicio de la administración, el último trimestre de su administración deberá enviarse a más tardar el treinta de septiembre;
 
-Las resoluciones y acuerdos que emita la Comisión de Honor y Justicia tendrán efecto de cosa juzgada.
+XIV. Organizar el Registro Civil, de conformidad con las bases dictadas por la dependencia estatal del ramo y lo previsto en la legislación de la materia;
 
-En las resoluciones que emita la Comisión de Honor y Justicia y demás órganos colegiados, se deberán ponderar los derechos políticos de las ciudadanas y ciudadanos en relación con los principios de auto organización y auto determinación de que gozan el partido político para la consecución de sus fines.
+XV. Conocer de la solicitud de licencia de los miembros del ayuntamiento;
 
-Lo no previsto en este apartado para substanciar y resolver los asuntos correspondientes a este sistema alterno de solución de controversias, se solventará conforme a lo establecido en el Reglamento de la Comisión de Honor y Justicia.
+XVI. Designar, de entre los regidores propietarios, a quien deba suplir al Presidente Municipal en sus ausencias temporales y definitiva, en los términos del artículo 82 de la Constitución Política del Estado;
 
-###### Artículo 32.
+XVII. Citar a los Regidores Suplentes para que, en caso de ausencia temporal o definitiva de los propietarios, substituyan a éstos en sus funciones;
 
-La mediación y conciliación se rigen bajo los principios de voluntariedad, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad, honestidad y debido proceso.
+XVIII. Celebrar en los términos que señala esta ley, convenios con otros municipios, con el Estado y con los particulares, a fin de coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, o para cualquier otro aspecto de índole administrativo, que requiera de auxilio técnico u operativo;
 
-###### Artículo 33.
+XIX. Vigilar que se imparta la instrucción cívica y militar ordenada en la fracción II del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos;
 
-Los medios de impugnación que proceden son:
+XX. Participar con la Federación y el Estado, en la impartición de la educación primaria y secundaria, en los términos del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos;
 
-I. El recurso de queja;
+XXI. Ejercer sus atribuciones en materia de asociaciones religiosas y culto público en los términos de la Ley Reglamentaria respectiva;
 
-II. El recurso de inconformidad; y,
+XXII. Resolver sobre los recursos de revisión interpuestos en contra las resoluciones dictadas por el presidente y demás autoridades del municipio;
 
-III. El recurso de nulidad.
+XXIII. Aprobar la adquisición de bienes y valores que incrementen el patrimonio del municipio mediante cualquiera de las formas previstas por la Ley, de conformidad con el reglamento respectivo;
 
-Los citados medios de impugnación son independientes al derecho que tienen todas las personas militantes a impugnar ante las instancias legales competentes, las resoluciones y decisiones de los órganos internos del Partido que afecten los derechos político-electorales.
+XXIV. Aprobar la constitución y participación en empresas, asociaciones, sociedades y fideicomisos, siempre que el objeto sea el mejoramiento de los servicios públicos municipales;
 
-###### Artículo 34.
+XXV. Supervisar el ejercicio de las atribuciones que en materia de seguridad pública, policía preventiva y protección civil, corresponden al municipio;
 
-En cuanto a los procedimientos y plazos para la tramitación de los recursos de queja, inconformidad y nulidad que promuevan las personas quejosas, la Comisión de Honor y Justicia fundamentará, motivará y substanciará las resoluciones que recaigan a las acciones, en un plazo de tres días hábiles, a excepción de encontrarse en periodo electoral, en cuyo caso los días serán naturales, pudiendo ampliarlo hasta en un plazo de cinco días.
+XXVI. Supervisar el ejercicio de las atribuciones de tránsito, en los términos de la ley de la materia y los reglamentos municipales;
 
-Las resoluciones deberán contenerse en actas suscritas por sus integrantes, con base en los reglamentos e instrumentos normativos aplicables.
+XXVII. Promover el bienestar social y cultural de la población municipal mediante programas y acciones que propicien el desarrollo integral de la familia y la integración social de las distintas comunidades del municipio;
 
-###### Artículo 35.
+XXVIII. Proponer a la Legislatura del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejora y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-En ningún caso la interposición de los medios de impugnación previstos en estos Estatutos producirá efectos suspensivos sobre el acto o la resolución impugnada.
+XXIX. Iniciar leyes en materia municipal;
 
-### CAPÍTULO I. VIDA ORGÁNICA DE TIEMPO X MÉXICO
+XXX. Promover la participación de los habitantes del municipio en el ejercicio del gobierno municipal;
 
-###### Artículo 36.
+XXXI. Proponer y coordinar la celebración de consultas a la población cuando lo juzgue necesario para tomar decisiones que por su naturaleza afecten el interés de la comunidad;
 
-Los expedientes de los medios de impugnación interpuestos podrán ser consultados por las personas autorizadas para tal efecto, siempre que ello no obstaculice su pronta y expedita substanciación y resolución; asimismo, quienes tengan reconocida su calidad de partes, podrán solicitar copias simples o certificadas a su costa, las que serán expedidas en los tiempos que señalen las leyes aplicables de la materia.
+XXXII. Nombrar y remover a los Titulares de las Dependencias administrativas previstas en el Artículo 44 de la presente; y
 
-###### Artículo 37.
+XXXIII. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado y en las leyes que de ambas se deriven.
 
-Una vez presentados los recursos previstos en este capítulo, se deberá exhortar para llevar a cabo la mediación y conciliación.
+Los acuerdos, bandos, circulares y reglamentos municipales deberán ser aprobados por mayoría absoluta de los miembros del Ayuntamiento de conformidad con el reglamento respectivo. Para su entrada en vigor y correspondiente publicidad deberán ser publicados en la gaceta municipal correspondiente. En caso de que el municipio no cuente con gaceta municipal; se dará cumplimiento a esta disposición a través de Periódico Oficial del Gobierno del Estado.
 
-###### Artículo 38.
+En su caso, si el ayuntamiento lo juzga conveniente para informar a la población y fomentar la participación de los ciudadanos, podrán publicarse también los proyectos de reglamentos, una vez que éstos le hayan sido presentados y existan condiciones para recibir las opiniones que vierta la ciudadanía.
 
-La mediación y conciliación, se llevará a cabo por la persona y/o facilitador que se designe por la Comisión de Honor y Justicia, quien deberá acreditar que cuenta con la experiencia respectiva.
+###### ARTICULO 31.
 
-###### Artículo 39.
+Los presidentes municipales, como ejecutores de las determinaciones de los ayuntamientos, tienen las facultades y obligaciones siguientes:
 
-El recurso de queja procederá en contra de la negativa de recepción de solicitud de registro para participar en procesos internos, en los términos de la convocatoria respectiva y para garantizar la legalidad en la recepción de solicitud de registro, en los términos de la convocatoria respectiva.
+I. Dar publicidad a las leyes, reglamentos y decretos de carácter federal, estatal y municipal, y a las diversas disposiciones de observancia general que afecten la vida municipal;
 
-###### Artículo 40.
+II. Cumplir y hacer cumplir las disposiciones contenidas en las leyes, reglamentos y decretos federales, estatales y municipales, y aplicar, en su caso, las sanciones correspondientes;
 
-El recurso de queja podrá ser promovido por las personas militantes del Partido, aspirantes a cargos de dirigencia o candidaturas a cargos de elección popular o sus representantes; deberá presentarse dentro de las veinticuatro horas a partir del acto que dé lugar a la impugnación.
+III. Convocar por conducto del Secretario del Ayuntamiento a sesiones del mismo, coordinar su desarrollo y clausurarlas en los términos del reglamento respectivo;
 
-### CAPÍTULO II. ASAMBLEA GENERAL ESTATAL
+IV. Nombrar y remover libremente aquellos servidores públicos cuyo nombramiento o remoción no este determinado de otro modo;
 
-###### Artículo 41.
+AV. utorizar, (sic) mancomunadamente con el Titular de la Dependencia Encargada del las Finanzas Públicas Municipales, las erogaciones del Ayuntamiento, en los términos de las partidas en su Presupuesto de Egresos. Dicha autorización podrá delegarse en los términos del Acuerdo que emita el ayuntamiento y fije los montos, bases y mecanismos para la emisión de documentos y títulos de valor, así como las responsabilidades y sistemas de control para el ejercicio del gasto público;
 
-El recurso de inconformidad procederá en contra de los dictámenes de aceptación o negativa de registro, postulación de precandidaturas, candidaturas y en la elección de dirigentes.
+VI. Vigilar la correcta recaudación de los ingresos municipales y que su erogación se realice con estricto apego al Presupuesto de Egresos;
 
-### CAPÍTULO III. COMITÉ EJECUTIVO ESTATAL
+VII. Enviar a la Contaduría Mayor de Hacienda, dentro de los primeros quince días naturales de cada mes, el informe que contenga los estados financieros relacionados al ejercicio presupuestal del mes inmediato anterior. Asimismo realizar un informe por trimestre de la Cuenta Pública Municipal, el cual deberá presentarse en los mismos términos;
 
-###### Artículo 42.
+VIII. Celebrar a nombre y por acuerdo del ayuntamiento, los actos, convenios y contratos necesarios para el mejor desempeño de las funciones municipales y la eficaz prestación de los servicios, ajustándose a la normatividad aplicable;
 
-El recurso de inconformidad podrá ser promovido por las personas militantes del Partido aspirantes a cargos de dirigencia o a candidaturas a cargos de elección popular o sus representantes, deberá presentarse dentro de los tres días hábiles, a excepción de encontrarse en periodo electoral, en cuyo caso serán días naturales, a partir del día siguiente del acto que dé lugar a la impugnación.
+IX. Vigilar y verificar la actuación de las dependencias municipales para cerciorarse de su correcto funcionamiento y dictar las medidas pertinentes para el mejoramiento de la administración municipal;
 
-###### Artículo 43.
+X. Determinar las políticas para autorizar las órdenes de pago en los términos del Presupuesto de Egresos;
 
-El recurso de nulidad procederá para garantizar la legalidad de la declaración de validez de la elección en procesos internos de elección de dirigentes y postulación de precandidaturas y candidaturas.
+XI. Rendir a los habitantes del municipio, dentro de los últimos diez días del mes de septiembre en sesión pública y solemne del Ayuntamiento, el informe anual sobre el estado que guarda la administración pública municipal;
 
-## TÍTULO IV. DISOLUCIÓN DEL PARTIDO
+XII. Tener bajo su mando los cuerpos de seguridad pública y tránsito municipal en los términos que establezcan las leyes y dictar las medidas administrativas tendientes para mejorar su organización y funcionamiento, en los términos del reglamento correspondiente;
 
-### CAPÍTULO IV. CONSEJO CONSULTIVO
+XIII. Formular y proponer al ayuntamiento la política de planeación, desarrollo urbano y obras públicas del municipio de conformidad con la legislación aplicable;
 
-###### Artículo 44.
+XIV. Rendir la protesta de Ley y tomar la protesta a los integrantes del ayuntamiento que preside;
 
-Además de los requisitos generales establecidos en el presente Estatuto o Reglamento respectivo, el escrito mediante el que se promueva el recurso de nulidad deberá:
+XV. Comunicar a los Poderes del Estado la legal instalación del ayuntamiento;
 
-I. Señalar la elección que se impugna, manifestando expresamente si se objetan los resultados de la declaración de validez de la elección y por consecuencia, el otorgamiento de las constancias respectivas;
+XVI. Disponer de la fuerza pública municipal para preservar, mantener y restablecer la tranquilidad, la seguridad y la salubridad públicas;
 
-II. Mencionar de manera individualizada el acta que se solicita sea anulada y, en cada caso, las causales de nulidad que se invoque para cada uno de ellos; y,
+XVII. Avisar al Ayuntamiento su ausencia por mas de tres días consecutivos del territorio del municipio y solicitar al mismo su autorización para hacerlo por más de quince;
 
-III. En su caso, referir las consideraciones tendientes a motivar la solicitud de nulidad de la elección.
+XVIII. Ejercer el control y vigilancia sobre los servidores públicos de su administración, denunciando aquellas conductas que pudieren constituir un delito o desprender otras responsabilidades, así como aplicar o en su caso ejecutar las sanciones que deriven de ellas;
 
-###### Artículo 45.
+XIX. Participar en las sesiones del ayuntamiento, votar en las mismas y en caso de empate, ejercer el voto de calidad;
 
-El recurso de nulidad sólo podrá ser promovido por:
+XX. Coadyuvar con las autoridades federales y estatales en el ejercicio de su (sic) atribuciones;
 
-I. Las personas aspirantes a candidaturas a dirigentes o sus representantes que impugnen el resultado de la elección;
+XXI. Proponer al Ayuntamiento la persona o la terna en su caso, que habrá de ocupar la titularidad de las dependencias administrativas previstas en el Artículo 44 de esta Ley;
 
-II. Las personas precandidatas y candidatas a cargos de elección popular que impugnen los resultados de la elección; y,
+XXII. Integrar y promover los Consejos Municipales de Participación Social; y
 
-III. Por quien acredite tener derecho.
+Las demás que señalan esta Ley y las demás disposiciones aplicables.
 
-###### Artículo 46.
+###### ARTICULO 32.
 
-Las resoluciones en que procede recurso de nulidad podrán tener los siguientes efectos:
+Son derechos y obligaciones de los Regidores, los siguientes:
 
-I. Confirmar el acto impugnado;
+I. Asistir puntualmente a las sesiones que celebre el Ayuntamiento, con voz y voto;
 
-II. Declarar la nulidad de la votación emitida y, en consecuencia, modificar el acta respectiva;
+II. Formar parte de cuando menos una Comisión Permanente y cumplir con las encomiendas que le asigne el Ayuntamiento;
 
-III. Revocar la constancia de mayoría y otorgarla a la fórmula de candidaturas que resulten ganadoras como consecuencia de la inelegibilidad;
+III. Vigilar y evaluar el ramo de la administración municipal que les haya sido encomendado por el Ayuntamiento;
 
-IV. Declarar la nulidad de una elección y revocar las constancias expedidas; y,
+IV. Informar a éste de los resultados de sus trabajos y proponer las medidas que estime pertinentes;
 
-V. Hacer la corrección de las actas elaboradas por la Comisión de Elecciones y Procesos Internos, cuando sean impugnadas.
+V. Solicitar y obtener de los titulares de las dependencias y organismos municipales, la información y demás documentación relativa a la gestión municipal, necesaria para el cumplimiento de sus funciones;
 
-### CAPÍTULO V. COORDINACIÓN DE POLÍTICAS DISTRITALES Y MUNICIPALES
+VI. Concurrir a las ceremonias cívicas y demás actos oficiales;
 
-###### Artículo 47.
+VII. Abstenerse de realizar funciones ejecutivas en la administración municipal o aceptar cargo, empleo o comisión del gobierno federal o de los estados, a excepción de los académicos honorarios y asistenciales; y
 
-El recurso de nulidad podrá ser promovido por las personas militantes del Partido aspirantes a cargos de dirigencia o a candidaturas a cargos de elección popular o sus representantes, deberá presentarse dentro de los tres días hábiles, a excepción de encontrarse en periodo electoral, en cuyo caso serán días naturales, a partir del día siguiente del acto que dé lugar a la impugnación
+VIII. Las demás establecidas por el presente ordenamiento y reglamento respectivos.
 
-### CAPÍTULO VI. COMITÉS MUNICIPALES
+###### ARTICULO 33.
 
-###### Artículo 48.
+Los Síndicos tendrán las siguientes facultades y obligaciones:
 
-TIEMPO X MÉXICO se podrá disolver anticipadamente por los siguientes casos:
+I. Procurar la defensa y promoción de los intereses municipales;
 
-I. Por así decidirlo la Asamblea Estatal en sesión expresamente convocada para tal efecto, con una mayoría calificada de dos terceras partes;
+II. Representar legalmente al municipio ante toda clase de tribunales federales y estatales y delegar esta representación, por acuerdo del Ayuntamiento en los casos en que el Municipio tenga un interés;
 
-II. Por incapacidad para cumplir el fin u objetivos propuestos; y,
+III. Asistir con la representación del Ayuntamiento a los remates públicos en los que tenga interés el municipio;
 
-III. Por resolución firme de autoridad competente.
+IV. Vigilar con la Cuenta Pública Municipal se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo a la Legislatura del Estado;
 
-### CAPÍTULO VII. ASAMBLEAS MUNICIPALES
+V. Realizar visitas de inspección a las dependencias y entidades municipales y, en su caso, proponer al Ayuntamiento las medidas necesarias para su mejor funcionamiento;
 
-###### Artículo 49.
+VI. Intervenir, cada vez que el ayuntamiento lo juzgue conveniente, en la formulación y verificación del inventario general de los bienes muebles e inmuebles propiedad del municipio;
 
-En caso de disolución, la Coordinación Ejecutiva Estatal, sesionará para definir el patrimonio constituido hasta ese momento y solicitará a la Secretaría de Finanzas un informe que será presentado a la Asamblea Estatal para efecto de la disolución y tomar la decisión del destino de dicho patrimonio, la que será conforme a la norma vigente.
+VII. Promover la regularización de la propiedad de los bienes municipales;
 
-###### Artículo 50.
+VIII. Vigilar que los actos del Presidente Municipal y del Ayuntamiento se ejecuten en términos de estricta legalidad;
 
-En caso de disolución del partido se notificará al Instituto Electoral de Michoacán y al Instituto Nacional Electoral.
+IX. Presentar al Ayuntamiento, para su autorización y sellado en un plazo no mayor de quince días, contados a partir del inicio de su administración, los libros o registros electrónicos en donde se consignen los movimientos contables de la propia administración;
 
-### CAPÍTULO VIII. DELEGACIONES MUNICIPALES
+X. Verificar que los servidores públicos obligados a ello presenten sus respectivas declaraciones patrimoniales de manera oportuna y vigilar la ejecución de las sanciones correspondientes;
 
-###### Artículo 51.
+XI. Exigir al Titular de la Dependencia Encargada de las Finanzas Públicas y demás servidores públicos municipales que manejen fondos, el otorgamiento de fianzas previamente al inicio del desempeño de sus funciones;
 
-TIEMPO X MÉXICO tendrá, para el desarrollo de sus actividades, la siguiente estructura:
+XII. Asumir las funciones auxiliares de Ministerio Público en los términos de la ley de la materia;
 
-I. Asamblea General Estatal;
+XIII. Solicitar y obtener de los titulares de las dependencias y organismos municipales la información y demás documentación relativa a la gestión municipal, necesaria para el cumplimiento de sus funciones;
 
-II. Comisión Permanente Estatal;
+XIV. Las demás que les señale la Ley, los reglamentos municipales y el propio Ayuntamiento.
 
-III. Comité Ejecutivo Estatal;
+###### ARTICULO 34.
 
-IV. Comité de Administración y Finanzas;
+La representación conferida a los Síndicos se entiende sin más limitaciones que las consignadas en esta Ley y las que resulten de considerar dicha representación legal, sólo con las facultades del mandatario general para pleitos y cobranzas, con cláusulas para absolver posiciones e interponer o desistirse del juicio de amparo, en los términos del primer párrafo del artículo 2433 y demás relativos y aplicables del Código Civil para el Estado de Querétaro y la Ley de Amparo vigente.
 
-V. Comisión Electoral y de Procesos Internos;
+###### ARTICULO 35.
 
-VI. Comisión de Honor y Justicia;
+Los Síndicos no pueden desistirse, transigir, comprometer en árbitros ni hacer cesión de bienes municipales, salvo autorización expresa que en cada caso otorgue el Ayuntamiento.
 
-VII. Consejo Consultivo;
+### CAPÍTULO TERCERO. DE LAS COMISIONES PERMANENTES DE DICTAMEN
 
-VIII. Comisión de Transparencia, Acceso a la Información y Protección de Datos Personales;
+###### ARTICULO 36.
 
-IX. Instituto de Formación y Capacitación Política; y,
+Dentro de los primeros treinta días siguientes a la instalación del Ayuntamiento, sus miembros se constituirán en comisiones permanentes para el estudio, examen y resolución de los asuntos municipales, así como para vigilar la ejecución de las disposiciones y acuerdos del Ayuntamiento y para atender permanentemente los asuntos concernientes a la administración municipal. En caso de que uno o más de ellos incumplieren con sus obligaciones, podrán ser sustituidos por el Ayuntamiento.
 
-X. Comités Municipales.
+###### ARTICULO 37.
 
-### CAPÍTULO IX. COMISIONES ESPECIALES
+Las comisiones permanentes de dictamen, mencionadas en el artículo precedente, se integrarán con el número de miembros que determine el propio Ayuntamiento, siempre su número será impar. La elección de las personas que habrán de constituirlas se hará por votación nominal; uno de los miembros de cada comisión será designado como Presidente de la misma.
 
-###### Artículo 52.
+###### ARTICULO 38.
 
-La Asamblea General Estatal, es el órgano con suprema autoridad y la máxima instancia de decisiones.
+Las comisiones permanentes de dictamen, son cuerpos consultivos y de evaluación respecto a los distintos ramos de la administración pública municipal. En cada Municipio se deberán constituir como mínimo las siguientes:
 
-###### Artículo 53.
+I. DE GOBERNACIÓN.- Cuya competencia será: garantizar la seguridad y tranquilidad de las personas y de sus bienes dentro de su territorio; elecciones municipales; estadística municipal; legalización de firmas de servidores públicos municipales; registro civil; aplicación de sanciones por infracciones previstas en los reglamentos municipales; inspectoría municipal; asociaciones religiosas y culto público; supervisión de funciones, desarrollo y desempeño del cuerpo de protección civil y el otorgamiento de auxilios extraordinarios en casos de incendios, terremotos, inundaciones, escasez de víveres y demás sucesos de emergencia y rescate; y los demás asuntos que señalen las leyes y los reglamentos municipales.
 
-Sus resoluciones y acuerdos serán tomados de manera ordinaria por mayoría de votos de sus integrantes debidamente acreditados.
+II. DE HACIENDA, PATRIMONIO Y CUENTA PÚBLICA.- Cuya competencia será: presupuestos; iniciativas de reforma a la legislación hacendaría municipal; funcionamiento de las oficinas receptoras; examen de cuenta pública, y los demás asuntos señalados en las leyes y los reglamentos.
 
-Las personas delegadas electas por las asambleas estatales, durarán en su encargo cuatro años.
+III. DE OBRAS Y SERVICIOS PÚBLICOS.- Cuya competencia será: dotación, distribución y tratamiento de aguas; desagüe, drenaje y red de alcantarillado; calles, parques, jardines y su equipamiento, y alumbrado públicos; zonas y monumentos de valor arquitectónico e histórico; inspección de construcciones particulares; obras peligrosas; saneamiento, recolección, traslado, tratamiento y disposición final de residuos y limpia de las poblaciones; construcción, mantenimiento, reparación y conservación de edificios municipales, tales como panteones, rastros, mercados y escuelas; rótulos, letreros y carteleras, y los demás asuntos que le señalen las leyes y los reglamentos.
 
-###### Artículo 54.
+IV. DE SEGURIDAD PÚBLICA, TRÁNSITO Y POLICÍA PREVENTIVA.- Cuya competencia será: supervisión de funciones, desarrollo y desempeño del cuerpo de seguridad pública, policía preventiva y tránsito municipal; vigilar el funcionamiento de comisarías de correccionales; emitir opinión sobre los programas de seguridad pública y tránsito; velar por la preservación del orden público, y los demás que le señalen las leyes y los reglamentos.
 
-La Asamblea General Estatal estará integrada por:
+V. DE DESARROLLO RURAL Y ECONÓMICO.- Cuya competencia será: coadyuvar con las autoridades competentes en la regulación, promoción y fomento del desarrollo, comercial, industrial, agroindustrial, minero artesanal y de servicios turísticos; la inspección de asuntos relacionados con el orden y funcionamiento de fondas, figones, restaurantes, bares, cantinas, centros nocturnos, moteles, hoteles, casas de huéspedes, mesones, salas de espectáculos y bazares; y en los demás asuntos previstos en las leyes y los reglamentos.
 
-I. El Comité Ejecutivo Estatal;
+VI. DE SALUD PÚBLICA.- Cuya competencia será la higiene y la salubridad en el municipio, así como las demás que establezcan las leyes.
 
-II. La Comisión Permanente Estatal;
+VII. DE DESARROLLO SOCIAL Y DERECHOS HUMANOS.- Cuya competencia será asesoría, protección y auxilio a discapacitados, menores de edad y ancianos necesitados; protección y garantía de los derechos humanos y la equidad de género; y en general, las demás obligaciones que le señalen las leyes y los reglamentos.
 
-III. Delegados y/o Delegadas; y,
+VIII. DE DESARROLLO URBANO Y ECOLOGÍA.- Cuya competencia será: la formulación del Plan de Desarrollo Urbano Municipal; la zonificación y determinación de las reservas territoriales y áreas de protección ecológica, arqueológica, arquitectónica e histórica; y, en general, las facultades derivadas de lo previsto en la fracción V del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-IV. La Presidencia de los Comités Municipales.
+IX. DE EDUCACIÓN Y CULTURA.- Cuya competencia será: fomentar el desarrollo educativo y cultural de los habitantes del municipio; atender las necesidades educativas de las comunidades campesinas, indígenas y grupos marginados del municipio; realizar actividades tendientes a la defensa de nuestra identidad nacional preservando nuestras costumbres y tradiciones, y las demás obligaciones que le señalen las leyes y los reglamentos.
 
-Quienes deberán estar acreditados al día de la asamblea por el nombramiento debidamente expedido por quienes establezcan la normativa interna y los Documentos Básicos del partido.
+X. DE ASUNTOS DE LA JUVENTUD.- Tendrá a su cargo fomentar, contribuir e impulsar en las jóvenes y los jóvenes la promoción de los programas del Gobierno Municipal; la participación de las actividades cívicas, sociales, culturales y deportivas; de orientación vocacional, para el empleo; actividades científicas y tecnológicas, el sano esparcimiento; la realización de actividades tendientes a su formación y capacitación; y demás acciones encaminadas a lograr la superación y desarrollo integral.
 
-###### Artículo 55.
+XI. DE ASUNTOS INDÍGENAS.- En aquellos municipios en que existan pueblos o comunidades indígenas, deberá existir una Comisión que se encargue de los asuntos relacionados en el Capítulo Cuarto del Título I de la presente Ley.
 
-Sesionará de manera ordinaria y extraordinaria; las sesiones ordinarias se llevarán a cabo por lo menos dos veces al año y serán convocadas por el Comité Ejecutivo Estatal y las extraordinarias se realizarán cuando se requiera en razón de las circunstancias del partido o cuando exista una situación urgente. Las convocatorias se publicarán de acuerdo con la normativa establecida.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
 
-La Asamblea General Estatal podrá ser convocada de manera extraordinaria por solicitud de las dos terceras partes de quienes la integran.
+XII. DE TRABAJADORES MIGRANTES.- Tendrá a su cargo fomentar, contribuir e impulsar a los trabajadores migrantes; la participación de las actividades políticas, sociales y los servicios de información en materia de derechos de los trabajadores migrantes; procurará establecer garantías y mecanismos para que se respeten sus derechos para entrar y salir del país, garantizando y promoviendo su reintegración y contacto con sus familias, acciones para el empleo e incorporación al mercado laboral, así como los envíos de dinero que realicen; actividades científicas y tecnológicas; el sano esparcimiento; la realización de actividades tendientes a su formación y capacitación; y demás acciones encaminadas a lograr la superación y desarrollo integral de los trabajadores migrantes.
 
-###### Artículo 56.
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2004)</small>
 
-El quórum legal se declarará con la presencia de la mitad más uno de las personas integrantes y las resoluciones se determinarán por mayoría simple de los presentes, con excepción de que se establezca una votación especial en la normativa interna.
+XIII. Las demás permanentes o transitorias que a juicio del Ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
 
-Existiendo quórum, las resoluciones tomadas en asambleas u órganos equivalentes y adoptadas por la mayoría que se requiera, serán válidas para toda la militancia, incluidos los ausentes o disidentes.
+###### ARTICULO 39.
 
-###### Artículo 57.
+Si uno o más integrantes de cualesquiera comisión tuvieren interés personal en algún asunto de su competencia, darán inmediata cuenta al Ayuntamiento, a fin de que éste proceda a su sustitución para el sólo efecto del despacho de ese asunto.
 
-Para la coordinación de las sesiones de la Asamblea General Estatal, se instalará en cada caso, una mesa directiva que se integra de la forma siguiente:
+###### ARTICULO 40.
 
-I. La persona titular de la Presidencia de la Comisión Permanente Estatal;
+Los miembros de las comisiones carecerán de facultades ejecutivas.
 
-II. El Secretario o Secretaria General del Comité Ejecutivo Estatal; y,
+### CAPÍTULO CUARTO. DE LA INHABILITACIÓN, REVOCACIÓN Y SUSPENSIÓN DE LOS MIEMBROS DEL AYUNTAMIENTO
 
-III. Dos personas escrutadoras, que se elijan de entre las personas asistentes a cada Asamblea Estatal.
+###### ARTICULO 41.
 
-La Mesa Directiva de la Asamblea General Estatal conducirá los trabajos de la sesión para el desahogo y registro de los acuerdos de todos los puntos establecidos en la convocatoria.
+Para los efectos de lo establecido en la fracción XX del Artículo 41 de la Constitución del Estado, el Ayuntamiento dará aviso a la Legislatura cuando la conducta de alguno de sus miembros encuadre en alguno de los casos siguientes:
 
-La Secretaría General de la Asamblea General Estatal elaborará y someterá a la aprobación de todas las personas integrantes asistentes, el acta correspondiente de los trabajos realizados en cada sesión.
+I. Por abandono de sus funciones, sin causa justificada, por un período de treinta días consecutivos;
 
-### CAPÍTULO XI (SIC). COMISIÓN PERMANENTE ESTATAL
+II. Por inasistencia consecutiva a tres sesiones del Ayuntamiento, sin causa justificada;
 
-###### Artículo 58.
+III. Cuando existan entre ellos conflictos que hagan imposible el ejercicio de sus funciones y obstruyan los fines del Ayuntamiento;
 
-Son funciones, facultades y obligaciones de la Asamblea General Estatal las siguientes:
+IV. Cuando por resolución de autoridad competente le sean suspendidos sus derechos o prerrogativas como ciudadano;
 
-I. Elegir a las personas titulares de la Presidencia y Secretaria General del Comité Ejecutivo Estatal, previo registro de fórmulas en el procedimiento establecido en la normativa partidaria;
+V. Por quebrantar los principios del régimen federal y los de la Constitución Política del Estado;
 
-II. Aprobar la integración del Comité Ejecutivo Estatal conforme a los mecanismos establecidos por la Comisión Electoral y de Procesos Internos;
+VI. Por violar sistemáticamente las garantías individuales y sociales establecidas en la Constitución Política de los Estados Unidos Mexicanos y en la del Estado;
 
-III. Evaluar los organismos que la conforman, las comisiones instaladas y la administración;
+VII. Por promover o pretender adoptar formas de gobierno o bases de organización política distintas a las estipuladas en la Constitución General de la República y la del Estado;
 
-IV. Modificar y aprobar los Documentos Básicos del partido;
+VIII. Por conductas que alteren el orden público y la paz social;
 
-V. Aprobar las estrategias de acercamiento del partido con la comunidad;
+IX. Por la omisión reiterada en el cumplimiento de sus obligaciones;
 
-VI. Establecer el mecanismo de contribución a las finanzas del partido político en los términos previstos por las normas internas;
+X. Por llevar a cabo conductas ilícitas en contra del Ayuntamiento, y
 
-VII. Analizar y evaluar la situación política del estado de Michoacán para decidir el sentido del actuar del partido;
+XI. Los demás análogas (sic) igualmente graves que hagan imposible el desempeño de sus funciones.
 
-VIII. Elegir a las personas integrantes de la Comisión Permanente Estatal y de la Comisión de Honor y Justicia;
+La Legislatura por acuerdo de las dos terceras partes de sus miembros declarará la suspensión, inhabilitación o revocación de un miembro del Ayuntamiento, siempre y cuando este haya tenido la oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-IX. Nombrar y remover al Presidente o Presidenta y Secretario o Secretaria General del Comité Ejecutivo Estatal, bajo los mecanismos establecidos por la Comisión Electoral y de Procesos Internos;
+La Legislatura tendrá competencia para resolver los conflictos entre un Ayuntamiento y alguno de sus miembros.
 
-X. Aceptar o rechazar la renuncia de cualquier persona afiliada al partido;
+### CAPÍTULO QUINTO. DE LA DESAPARICIÓN DE AYUNTAMIENTOS
 
-XI. Decidir, cuando proceda de conformidad con los presentes Estatutos y la reglamentación interna, y lo decida por mayoría simple de la Asamblea, sobre las determinaciones de la Comisión de Honor y Justicia;
+###### ARTICULO 42.
 
-XII. Enterarse y dirimir sobre los asuntos de relevancia suficiente a consideración de la mayoría simple de las personas integrantes de la Asamblea General Estatal;
+Procede la declaración de desaparición de los Ayuntamientos cuando:
 
-XIII. Aprobar la demarcación de los municipios que atenderán cada región de las Coordinaciones Políticas Regionales;
+I. La mayoría de los regidores propietarios y suplentes abandonen su encargo;
 
-XIV. Aprobar la plataforma electoral para la elección correspondiente;
+II. La mayoría de los regidores propietarios y suplentes estén imposibilitados en forma definitiva para seguir desempeñando sus funciones; y
 
-XV. Validar los acuerdos y reglamentos propuestos por la Secretaría General para normar procedimientos internos y situaciones no previstas en estos Estatutos para el desarrollo de la organización; y,
+III. Se suscite entre los miembros del Ayuntamiento o entre éste y la comunidad conflicto que haga imposible el cumplimiento de los fines del mismo o el ejercicio de sus funciones.
 
-XVI. Las demás que señale la legislación y normativa vigente, así como los Documentos Básicos.
+La Legislatura declarará la desaparición del Ayuntamiento siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-###### Artículo 59.
+###### ARTICULO 43.
 
-En todos los casos, para ser integrante de la Asamblea Estatal, es condición obligatoria ser persona militante activa y no estar bajo ninguna restricción de sus derechos como militante.
+Los Diputados o el Titular del Poder Ejecutivo del Estado podrán solicitar a la Legislatura, la desaparición de los ayuntamientos cuando se den las causales señaladas en el artículo anterior.
 
-Las personas integrantes de la Asamblea General Estatal no recibirán remuneración alguna por pertenecer a este órgano, toda vez que el encargo conferido es de carácter honorario y de reconocimiento al mérito o por designación de los órganos de dirección del partido político.
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes, ni que se celebren nuevas elecciones, la Legislatura designará de entre los vecinos a los concejales que integrarán el Concejo Municipal. Estos Concejos estarán integrados por el número de miembros que para los ayuntamientos determina la Ley Electoral del Estado, quienes deberán cumplir los requisitos establecidos para los regidores.
 
-###### Artículo 60.
+Para el caso de que la desaparición haya sido motivada por la ausencia de los integrantes, propietarios o suplentes, del Ayuntamiento Electo a la sesión de instalación, la designación del Concejo Municipal deberá incorporar entre sus concejales a los que sí cumplieron con la instalación, en el cargo que les corresponda de conformidad con la elección de que trate.
 
-El Comité Ejecutivo Estatal será el depositario de la representación del partido y estará integrado de la siguiente manera:
+## TÍTULO IV. DE LA ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
-I. Una Presidencia;
+### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN ADMINISTRATIVA DE LOS MUNICIPIOS
 
-II. Una Secretaría General;
+###### ARTICULO 44.
 
-III. Una Secretaría de Finanzas;
+Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento, una Dependencia Encargada de las Finanzas Públicas Municipales; una Dependencia Encargada de la Administración de Servicios Internos, Recursos Humanos, Materiales y Técnicos del Municipio; una Dependencia Encargada de la Prestación de Servicios Públicos Municipales y otra de la Ejecución y Administración de Obras Públicas; así mismo habrá una Dependencia Encargada de la Seguridad Pública, Policía Preventiva y el Tránsito Municipal.
 
-IV. Una Secretaría de Organización y Enlace Territorial;
+La Dependencia Encargada de la Prestación de los Servicios Públicos Municipales así como la de Ejecución y Administración de Obras Públicas, tendrán las competencias que establecen el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos; el Artículo 85 de la Constitución Local, esta Ley, así como las que señalen los reglamentos que de ella deriven.
 
-V. Una Secretaría de Asuntos Jurídicos;
+###### ARTICULO 45.
 
-VI. Una Secretaría de Comunicación;
+El nombramiento de los titulares de la (sic) estructuras administrativas enunciadas en el artículo anterior, recaerá en la persona que el Presidente proponga al Ayuntamiento y este por mayoría absoluta de votos ratifique. Si la propuesta no fuera aceptada, el Presidente presentará una terna de la cual deberá elegirse a uno de sus integrantes.
 
-VII. Una Secretaría de la Mujer e Igualdad Sustantiva;
+El titular de la Dependencia Encargada de la Seguridad Pública, Policía Preventiva y el Tránsito Municipal, será nombrado y removido libremente por el Presidente Municipal.
 
-VIII. Una Secretaría de la Juventud, Diversidad y Deporte; y,
+###### ARTICULO 46.
 
-IX. Una Secretaría de Asuntos Electorales.
+Para ser titular de la Secretaría del Ayuntamiento o titular de cualquiera de las dependencias que se enuncian en el artículo anterior se requiere:
 
-Las y/o los integrantes del Comité Ejecutivo Estatal durarán en su encargo cuatro años con posibilidad de reelección siempre que se hayan desempeñado en su encargo con estricto apego a la legalidad y a los Documentos Básicos del partido.
+I. Ser ciudadano en pleno goce de sus derechos civiles y políticos;
 
-###### Artículo 61.
+II. Ser originario del municipio o vecino del lugar con residencia efectiva de tres años anteriores a la fecha de su designación, cuando menos;
 
-El partido podrá contar con otras Secretarías y coordinaciones especiales, como las siguientes:
+III. Acreditar los conocimientos y capacidad para poder desempeñar el cargo;
 
-I. Coordinaciones Políticas Distritales;
+IV. Ser de reconocida solvencia moral;
 
-II. Asambleas Estatales; y,
+V. No ser ministro de algún culto religioso; y
 
-III. Las demás comisiones que, para los efectos del cumplimiento de los objetivos del partido, se conformen de acuerdo con los mecanismos establecidos en los presentes estatutos y reglamentos correspondientes.
+VI. No haber sido sentenciado por delito intencional que merezca pena privativa de la libertad.
 
-En la integración de los órganos del partido, se garantizará la participación en igualdad de condiciones de mujeres y hombres.
+### CAPÍTULO SEGUNDO. DE LA SECRETARIA DEL AYUNTAMIENTO
 
-###### Artículo 62.
+###### ARTICULO 47.
 
-El partido podrá crear otras secretarías y coordinaciones especiales, con aprobación de la Comisión Permanente.
+La Secretaría del Ayuntamiento será la instancia auxiliar para el despacho de los asuntos del mismo. El titular de la dependencia, no podrá ser miembro del Ayuntamiento, y no podrá participar en las deliberaciones de aquél. Sólo en los casos en que se le requiera, podrá tener voz, pero no voto.
 
-###### Artículo 63.
+Para el desempeño de sus responsabilidades tendrá como facultades y obligaciones las siguientes:
 
-El Comité Ejecutivo Estatal deberá expedir con cinco días hábiles de anticipación, la convocatoria para la realización de las sesiones ordinarias y con cuarenta y ocho horas para las sesiones extraordinarias para la Asamblea Estatal, señalando lugar, fecha y hora de realización.
+I. Tener a su cargo el cuidado y dirección inmediata de la oficina y archivo del ayuntamiento;
 
-### CAPÍTULO XIII (SIC). COMISIÓN DE HONOR Y JUSTICIA
+II. Citar, previo acuerdo con el Presidente Municipal, a los miembros del ayuntamiento a las sesiones del mismo, mencionando en el citatorio, por lo menos, el lugar, día y hora de la sesión. Si la sesión fuera ordinaria la citación deberá hacerse con por los (sic) menos setenta y dos horas de anticipación y si fuera extraordinaria con veinticuatro horas;
 
-###### Artículo 64.
+III. Estar presente en todas las sesiones del ayuntamiento, sólo con voz informativa y levantar el acta correspondiente a fin de someterla a la firma de los participantes dentro de las veinticuatro horas siguientes;
 
-Las secretarías y las coordinaciones tendrán un enfoque de dirección política y coordinación para la operación, seguimiento y evaluación, en los términos de estos estatutos y el reglamento respectivo.
+IV. Expedir las copias, credenciales, nombramientos y demás certificaciones de los archivos municipales;
 
-Por cada Secretaría y Coordinación se podrá nombrar al menos una Subsecretaría y Subcoordinación, que brinden apoyo a las actividades estatutariamente encomendadas a la persona titular.
+V. Suscribir todos los documentos oficiales emanados del ayuntamiento, sin cuyo requisito no serán validos;
 
-###### Artículo 65.
+VI. Organizar y mantener actualizada la colección de leyes, decretos, reglamentos, periódicos oficiales del Estado, circulares y órdenes relativas a los distintos ramos de la administración pública municipal, debidamente ordenada;
 
-Las personas integrantes de cualquier otra Secretaría, Coordinación o Comisión, cuyo nombramiento no esté exclusivamente reservado a la Asamblea General Estatal, serán designadas por la Comisión Permanente Estatal.
+VII. Atender todo lo relativo a la remisión de acuerdos del Ayuntamiento que deban conocer la Legislatura o el Ejecutivo del Estado;
 
-###### Artículo 66.
+VIII. Cumplir y hacer cumplir los acuerdos, órdenes y circulares que el Ayuntamiento apruebe y que no estén encomendadas a otra dependencia.
 
-Las Comisiones serán permanentes o transitorias y les corresponde estudiar, examinar y proponer acciones tendientes a normar las actividades del partido sobre los asuntos que se les otorgue.
+IX. Elaborar y verificar el cumplimiento el calendario cívico municipal;
 
-###### Artículo 67.
+X. Organizar y administrar la publicación de la gaceta municipal; y
 
-La Presidencia del Comité Ejecutivo Estatal durará en su encargo cuatro años con derecho a reelección por un periodo igual, siempre que se haya desempeñado su encomienda con estricto apego a la legalidad y cumplido cabalmente con sus derechos y obligaciones, así como lo contenido en los presentes Estatutos y en la convocatoria que emita la Comisión Electoral y de Procesos Internos. Dicha Presidencia será renovada por la Asamblea General Estatal, en términos de las disposiciones de los presentes Estatutos y los reglamentos internos. Para ocupar este cargo, se requiere estar afiliado o afiliada y en pleno ejercicio de sus derechos político-electorales.
+XI. Las demás que le encomienden las leyes, reglamentos y manuales de organización respectivos.
 
-###### Artículo 68.
+### CAPÍTULO TERCERO. DE LA DEPENDENCIA ENCARGADA DE LAS FINANZAS PÚBLICAS
 
-Las personas integrantes del Comité Ejecutivo Estatal, con excepción de la Presidencia y la Secretaría General, serán designadas por la Comisión Permanente Estatal a propuesta de la Presidencia del Comité Ejecutivo Estatal.
+###### ARTICULO 48.
 
-La Secretaría General certificará la designación de los integrantes del Comité.
+La dependencia encargada de las finanzas públicas, tendrá a su cargo la recaudación de los ingresos municipales así como su erogación, de conformidad con los planes y programas aprobados. Esta dependencia, contará con las oficinas que requiera el cumplimiento de sus funciones, y con un titular que no podrá ser miembro del Ayuntamiento.
 
-El Comité Ejecutivo Estatal sesionará de manera ordinaria y extraordinaria cuando la importancia de los asuntos así lo requiera. Las decisiones serán tomadas por mayoría simple de votos y en caso de empate, la Presidencia decidirá su resolución final.
+Para el desempeño de sus responsabilidades tendrá como facultades y obligaciones las siguientes:
 
-### CAPÍTULO XIV. COMISIÓN ELECTORAL Y DE PROCESOS INTERNOS
+I. Elaborar y proponer al Presidente Municipal los proyectos de iniciativa de ley, reglamentos y demás disposiciones de carácter general que se requieran para el manejo de los asuntos financieros y tributarios del municipio, a efecto de su aprobación por el ayuntamiento y, en su caso, por la Legislatura;
 
-###### Artículo 69.
+II. Recaudar los impuestos, derechos, productos, aprovechamientos y contribuciones que correspondan al municipio;
 
-Una vez cumplidos los cuatro años del periodo establecido para el Comité Ejecutivo Estatal, se convocará a una asamblea ordinaria de elección para elegir al o a la persona titular de la Presidencia y Secretaría General.
+III. Ejercer las atribuciones en materia tributaria derivadas de los convenios celebrados con el Gobierno del Estado y con otros municipios;
 
-La convocatoria para la elección deberá de ser emitida por acuerdo de la Comisión Electoral y de Procesos Internos, al día siguiente de celebrada la asamblea en donde se designen a sus miembros, asimismo, se podrá convocar a una asamblea extraordinaria de elección en cualquier fecha si las circunstancias así lo requieren, como la ausencia permanente, renuncia o fallecimiento de las personas titulares de la Presidencia o Secretaría General.
+IV. Cuidar la puntualidad de los ingresos, exactitud de las liquidaciones, prontitud en el despacho de los asuntos de su competencia y del buen orden y debida comprobación de las cuentas de ingresos y egresos;
 
-En los casos de ausencia temporal de la persona titular de la Presidencia del Comité Ejecutivo Estatal, las funciones y la representación del partido político será ejercida por la persona titular de la Secretaría General del Comité Ejecutivo Estatal, previa aprobación de la Comisión Permanente Estatal.
+V. Tener al día los libros o registros electrónicos que consignen la información referente a caja, diario, cuentas corrientes, auxiliares y de registro necesarios para la debida comprobación de los ingresos y egresos;
 
-En tratándose de ausencia definitiva de la persona titular de la Presidencia del Comité Ejecutivo Estatal, la Secretaría General asumirá las funciones y la representación, en tanto la Asamblea General Estatal nombra a una nueva persona titular de la Presidencia para terminar el periodo de la Presidencia dimitente.
+VI. Realizar, en los términos de este ordenamiento, las acciones y trabajos previos a la elaboración de proyectos de iniciativa de Ley de Ingresos y Presupuesto de Egresos, para someterlos a la consideración del ayuntamiento;
 
-Las ausencias de las otras personas integrantes del Comité Ejecutivo Estatal serán suplidas mediante acuerdo de la Comisión Permanente Estatal a propuesta de la Presidencia del Comité Ejecutivo Estatal.
+VII. Cuidar que el monto de las multas impuestas por las autoridades municipales ingresen a la hacienda municipal;
 
-###### Artículo 70.
+VIII. Glosar oportunamente las cuentas del ayuntamiento;
 
-Son funciones, facultades y obligaciones del Comité Ejecutivo Estatal, las siguientes:
+IX. Proponer al ayuntamiento las medidas o disposiciones tendientes a mejorar la hacienda municipal;
 
-I. Elaborar, dirigir y ejecutar las políticas generales;
+X. Dar pronto y exacto cumplimiento a los acuerdos, órdenes y disposiciones del ayuntamiento, que le correspondan;
 
-II. Presentar y someter a consideración de la Asamblea General Estatal el plan de trabajo;
+XI. Elaborar mensualmente los estados financieros que el presidente debe presentar a la Legislatura del Estado;
 
-III. Asegurar el cumplimiento de los acuerdos y resoluciones de la Asamblea General Estatal;
+XII. Organizar el padrón municipal de contribuyentes;
 
-IV. Evaluar y dar seguimiento a las actividades del partido;
+XIII. Realizar oportunamente y en unión con el síndico, la gestión de los asuntos de interés para el erario municipal;
 
-V. Definir las actividades de carácter general;
+XIV. Establecer y ejecutar las medidas de control y vigilancia administrativa, contable y financiera de los organismos descentralizados, fideicomisos públicos y empresas de participación municipal;
 
-VI. Establecer las funciones de las personas militantes;
+XV. Intervenir en las operaciones de crédito público municipal y en los actos y contratos de los que resulten derechos y obligaciones de carácter económico para el municipio;
 
-VII. Nombrar y coordinar a las comisiones para auxiliar sus trabajos;
+XVI. Garantizar, antes del inicio de sus responsabilidades, el buen desempeño de su cargo mediante la fianza o la manera en que juzgue conveniente el Ayuntamiento; y
 
-VIII. Apoyar en la gestión ante las autoridades, las demandas de las comunidades y de las de las (sic) personas afiliadas;
+XVII. Las demás señaladas por las leyes y reglamentos correspondientes.
 
-IX. Formular y promover programas permanentes de carácter cívico, social, cultural y deportivo que fortalezca la convivencia comunitaria y familiar;
+### CAPÍTULO CUARTO. DE LA DEPENDENCIA ENCARGADA DE LA ADMINISTRACIÓN DE SERVICIOS INTERNOS, RECURSOS HUMANOS, MATERIALES Y TÉCNICOS DEL MUNICIPIO
 
-X. Impulsar la participación de las personas afiliadas en la solución de los problemas comunitarios;
+###### ARTICULO 49.
 
-XI. Elaborar y aplicar en coordinación con los Comités Municipales, la estrategia electoral en los distritos electorales y en los municipios;
+La Dependencia a que se refiere el presente capítulo será la encargada de la administración de los servicios internos, los recursos humanos, materiales y técnicos con que cuente el municipio; así como de realizar las adquisiciones, enajenaciones y la contratación de servicios de conformidad con el reglamento respectivo, para el buen funcionamiento de la administración pública municipal.
 
-XII. Observar, discutir y en su caso, aprobar la Política de Alianzas Electorales en los distritos electorales y en los municipios, a propuesta de los Comités Municipales;
+###### ARTICULO 50.
 
-XIII. Atraer la elección de candidatos o candidatas que le correspondan a los Comités Municipales cuando no se haya realizado la elección de candidato o candidata por el Comité correspondiente; y,
+A efecto de proporcionar el apoyo administrativo a las dependencias, organismos y unidades municipales, la dependencia tendrá el despacho de los siguientes asuntos:
 
-XIV. Las demás que señale la legislación y normativa vigente, así como los Documentos Básicos.
+I. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre el municipio y sus servidores públicos;
 
-###### Artículo 71.
+II. Seleccionar, contratar, capacitar y controlar al personal de la administración pública municipal;
 
-Son funciones, facultades y obligaciones de la Presidencia del Comité Ejecutivo Estatal, las siguientes:
+III. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos de la administración pública municipal;
 
-I. Proponer y en su caso, ejecutar los acuerdos y resoluciones que dicte el Comité Ejecutivo Estatal, así como cada una de las comisiones y coordinaciones;
+IV. Mantener al corriente el escalafón de los trabajadores al servicio de la administración pública municipal;
 
-II. Convocar y presidir las reuniones del Comité Ejecutivo Estatal, en las que tendrá voto de calidad en caso de empate;
+V. Adquirir los bienes y proporcionar los servicios requeridos para el buen funcionamiento de la administración pública municipal de conformidad con el reglamento respectivo;
 
-III. Proponer modificaciones a los Estatutos;
+VI. Proveer oportunamente a las dependencias, organismos y unidades municipales de los elementos y materiales necesarios para el desarrollo de sus funciones;
 
-IV. Presidir las sesiones de la Asamblea General Estatal;
+VII. Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles propiedad del municipio;
 
-V. Proponer los nombramientos y remociones de las personas que le correspondan de acuerdo a los Estatutos;
+VIII. Administrar y asegurar la conservación y mantenimiento del patrimonio municipal;
 
-VI. Crear coordinaciones de las diversas materias, de acuerdo con las propias necesidades del partido;
+IX. Coordinar, de conformidad con la ley de la materia los procedimientos de entrega recepción administrativa que se requieran;
 
-VII. Representar al partido, ante personas físicas o morales y toda clase de tribunales, autoridades e instituciones, con las más amplias facultades de un apoderado o apoderada general, para pleitos y cobranzas, actos de administración y de dominio, incluyendo las facultades especiales en los términos establecidos en las leyes y códigos correspondientes, así como la expedición de títulos de crédito y la autorización de egresos por parte del partido;
+X. Administrar, controlar y vigilar los almacenes generales del municipio;
 
-VIII. Nombrar apoderados o apoderadas y otorgarles facultades para representar al partido, con mandato especial, así como revocar los otorgados y determinar las sustituciones;
+XI. Coordinar y supervisar con las Dependencias interesadas, la emisión de publicaciones oficiales del municipio;
 
-IX. Mantener una estrecha coordinación con la estructura regional y/o distrital y municipal;
+XII. Organizar, dirigir y controlar la intendencia del gobierno municipal;
 
-X. Proponer ante la Asamblea General Estatal a las personas integrantes del Comité de Administración y Finanzas y de la Comisión Electoral y de Procesos Internos;
+XIII. Organizar y controlar la Oficialía del (sic) Partes;
 
-XI. Nombrar a los Comités Ejecutivos Municipales y a quien corresponda, de conformidad con los estatutos, en caso de que las asambleas municipales no lo hagan y/o conjuntamente con las mismas;
+XIV. Administrar el Archivo Histórico y el Archivo Administrativo municipal;
 
-XII. Expedir y firmar los nombramientos que acuerde el Comité Ejecutivo Estatal;
+XV. Elaborar y proponer programas de mejoramiento administrativo en coordinación con las demás dependencias, organismos y unidades, que permitan revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa a los programas de gobierno municipal;
 
-XIII. Expedir y firmar las credenciales y los nombramientos de las personas militantes, simpatizantes y de las juventudes del partido, en conjunto con la Secretaría General;
+XVI. Autorizar, previo acuerdo con el Presidente Municipal la creación de las nuevas unidades administrativas que se requieran y que no necesiten acuerdo del Ayuntamiento;
 
-XIV. Certificar, en ausencia de la Secretaría General, los documentos del partido;
+XVII. Elaborar, con el concurso de las demás dependencias de la administración pública municipal, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores;
 
-XV. Presentar el programa de trabajo anual y un informe de avances a la Comisión Permanente Estatal;
+XVIII. Coordinar funcionalmente las áreas de apoyo administrativo de las distintas dependencias, organismos y unidades de la administración pública municipal; y
 
-XVI. Dar seguimiento y evaluar periódicamente los avances de los programas del partido;
+XIX. Los demás que le señalan las leyes y los reglamentos vigentes.
 
-XVII. Aprobar y ejercer el programa anual de trabajo, así como crear los instrumentos necesarios para fortalecer las finanzas;
+### CAPÍTULO QUINTO. DE LA DEPENDENCIA ENCARGADA DE LA SEGURIDAD PÚBLICA, POLICÍA PREVENTIVA Y EL TRÁNSITO MUNICIPAL
 
-XVIII. Promover y coordinar las acciones para el cumplimiento del Programa de Acción;
+###### ARTICULO 51.
 
-XIX. Ejercer en caso de urgencia las atribuciones del Comité Ejecutivo Estatal y en sesión inmediata dar cuenta del uso que haya hecho de ellas;
+De conformidad con la fracción III inciso h) y VII del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la dependencia a la que se refiere el presente capítulo estará a cargo del Presidente Municipal, la cual delegará en una persona que no podrá ser miembro del ayuntamiento, cuya competencia será las que establezca el reglamento respectivo, pero que en todo caso serán:
 
-XX. Revisar los presupuestos de ingresos y egresos;
+I. Cumplir los planes y programas de seguridad pública, prevención y tránsito;
 
-XXI. Garantizar la correcta ejecución y cumplimiento del presupuesto financiero;
+II. Vigilar el funcionamiento de las comisarías y las correccionales;
 
-XXII. Revisar los informes financieros y la propuesta de aplicación de los recursos;
+III. Supervisar las funciones, desarrollo y desempeño del cuerpo de seguridad pública, policía preventiva y tránsito municipal;
 
-XXIII. Presentar los informes que sean solicitados por las autoridades electorales del Estado;
+IV. Emitir opinión respecto al mejoramiento de los planes de seguridad pública, prevención y tránsito;
 
-XXIV. Firmar los acuerdos de coincidencia y coordinación con organizaciones sociales y autoridades, acuerdos de participación política con agrupaciones políticas y coaliciones, frentes y candidaturas comunes con partidos políticos;
+V. Velar por la preservación del orden público;
 
-XXV. Tomar la protesta a quienes resulten titulares de los Comités Municipales, así como de los demás funcionarios;
+VI. Acatar las órdenes que el Gobernador del Estado le trasmita cuando éste juzgue que existe caso de fuerza mayor o alteración grave del orden público; y
 
-XXVI. Delegar la facultad anterior para que lo represente en la toma de protesta cuando se estime pertinente;
+VII. Las demás que le señalen los convenios, las leyes y los reglamentos aplicables.
 
-XXVII. Designar a la persona que coordinará la fracción parlamentaria en el Congreso de Michoacán de Ocampo y a quien coordinará cada una de las fracciones edilicias en cada municipio en el que se tenga representación;
+Cuando la realidad socioeconómica de un municipio lo haga necesario se podrán prestar los servicios de seguridad pública, policía preventiva y tránsito mediante estructuras administrativas independientes.
 
-XXVIII. Designar a las candidaturas del partido por el principio de representación proporcional, atendiendo las disposiciones normativas aplicables;
+### CAPÍTULO SEXTO. DE LAS AUTORIDADES MUNICIPALES AUXILIARES
 
-XXIX. Ejercer el derecho de veto conforme a las propuestas realizadas por la Comisión Electoral y de Procesos Internos sobre los dictámenes de requisitos de elegibilidad de las personas aspirantes a cargos de elección popular, de conformidad con el procedimiento establecido en los reglamentos internos;
+###### ARTICULO 52.
 
-XXX. Proponer e instalar a las personas integrantes y responsable del Consejo Consultivo; y,
+Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del Presidente Municipal, en la demarcación territorial que se les asigne. Durarán en su encargo tres años y podrán realizar la función por un periodo más.
 
-XXXI. Las demás que señale la legislación y normativa vigente, así como los Documentos Básicos.
+Dentro de los primeros treinta días siguientes a la instalación del Ayuntamiento los delegados y subdelegados serán nombrados por éste a propuesta del Presidente Municipal o por elección directa si así lo acordara el Ayuntamiento mediante el voto de las dos terceras partes de sus miembros.
 
-###### Artículo 72.
+La organización de la elección de delegados y subdelegados que en su caso se decidiera, se realizará por una Comisión Especial integrada por regidores en los términos que ordene el reglamento o los acuerdos dictados al efecto. Cualquier imprevisto será resuelto en el Ayuntamiento respectivo, solicitando el informe correspondiente a la Comisión Especial designada para tal efecto y sus resoluciones serán irrevocables.
 
-Son funciones, facultades y obligaciones de la Secretaría General del Comité Ejecutivo Estatal, las siguientes:
+La Comisión deberá informar al Ayuntamiento de las personas que hayan logrado la mayoría absoluta de votos.
 
-I. Suplir la Presidencia del Comité Ejecutivo Estatal, en la ausencia temporal de la persona titular hasta por sesenta días;
+Una vez concluido el procedimiento de elección, entrarán en funciones previa protesta de ley ante el Ayuntamiento respectivo, dentro del plazo de siete días.
 
-II. Proponer y coordinar los proyectos de investigación económica, política y social que realice anualmente el partido;
+Los delegados y subdelegados designados o electos que no accedieran al encargo de conformidad con lo establecido en este artículo terminarán su encargo cuando lo haga el Ayuntamiento que los designo y durante el tiempo que transcurra entre la instalación de nuevo ayuntamiento y la definición de los nuevos delegados el despacho de sus asuntos corresponderá a un encargado.
 
-III. Rendir ante la Asamblea General Estatal del partido un informe semestral de acuerdo con el plan de trabajo del área que se le designe;
+###### ARTICULO 53.
 
-IV. Asesorar en materia electoral a las personas militantes, simpatizantes y juventudes del partido;
+Para ser delegado o subdelegado municipal se requiere:
 
-V. Promover la participación de las personas afiliadas en los procesos electorales;
+I. No ser integrante del Ayuntamiento;
 
-VI. Coadyuvar en la coordinación, programación y evaluación de las actividades del partido;
+II. Tener residencia efectiva de 5 años anteriores en la demarcación territorial de que se trate; y
 
-VII. Realizar programas permanentes para fortalecer la presencia política del partido;
+III. Cumplir con los demás requisitos establecidos para ser miembro del ayuntamiento de conformidad con lo establecido en el Artículo 81 de la Constitución del Estado.
 
-VIII. Dar asesoría a los órganos de dirección que lo soliciten;
+###### ARTICULO 54.
 
-IX. Las demás que confiera la Presidencia del Comité Ejecutivo, la legislación y normativa vigente, así como los Documentos Básicos.
+Compete a los delegados y en su caso a los subdelegados municipales:
 
-X. Promover y suscribir con los partidos y agrupaciones políticas estatales instrumentos normativos de coordinación electoral, en conjunto con la Presidencia del Comité Ejecutivo Estatal;
+I. Ejecutar los acuerdos que expresamente les ordenen el Ayuntamiento y el Presidente Municipal, en la demarcación territorial de que se trate. La rebeldía a cumplir con las ordenes que reciba será causa de remoción;
 
-XI. Elaborar y proponer a la Presidencia del Comité Ejecutivo Estatal las convocatorias para la realización de las asambleas y resolver en cuanto a su controversia por las normas contenidas;
+II. Vigilar y mantener el orden público en su jurisdicción;
 
-XII. Realizar y actualizar el registro del padrón de personas afiliadas;
+III. Informar al Presidente Municipal de los acontecimientos que afecten el orden, la tranquilidad pública y la salud de su delegación o subdelegación, por conducto de la dependencia que coordine a los delegados;
 
-XIII. Orientar a la militancia en relación con sus derechos y obligaciones;
+IV. Promover el establecimiento y conservación de los servicios públicos en su jurisdicción;
 
-XIV. Fungir como Secretaría y elaborar las actas de las sesiones ordinarias y extraordinarias que efectúe el Comité Ejecutivo Estatal;
+V. Actuar como conciliador en los asuntos que sometan a su consideración los habitantes de su adscripción; y
 
-XV. Actualizar y legalizar con su firma y con la de la Presidencia, las actas de asamblea;
+VI. Las demás que le señalen esta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
-XVI. Recopilar y glosar expedientes previa clasificación adecuada, los acuerdos y resoluciones emanados de asambleas y reuniones del Comité Ejecutivo Estatal;
+###### ARTICULO 55.
 
-XVII. Organizar y actualizar el archivo general del partido;
+Los delegados municipales, podrán asesorarse en las dependencias y entidades correspondientes de la administración pública municipal, para la atención de los asuntos de su competencia.
 
-XVIII. Expedir y firmar las credenciales y los nombramientos de las personas militantes, simpatizantes y de las juventudes del partido, en conjunto con la Presidencia; y,
+###### ARTICULO 56.
 
-XIX. Las demás que confiera la Presidencia del Comité Ejecutivo Estatal, la legislación y normativa vigente, así como los Documentos Básicos.
+La coordinación de los delegados estará a cargo de la dependencia municipal que el Ayuntamiento acuerde.
 
-## TÍTULO V. DE LA ESTRUCTURA ORGÁNICA
+###### ARTICULO 57.
 
-### CAPÍTULO XV. COMISIÓN DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
+Los delegados municipales sólo podrán otorgar licencias, permisos o autorizaciones, por disposición expresa de la Ley, los reglamentos o acuerdos de Ayuntamiento.
 
-###### Artículo 73.
+### CAPÍTULO SÉPTIMO. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
-Las funciones, facultades y obligaciones de la Secretaría de Finanzas, son las siguientes:
+###### ARTICULO 58.
 
-I. Administrar, controlar y resguardar el patrimonio y los recursos del partido;
+Cuando el desarrollo económico y social lo hagan necesario, los municipios estarán facultados para crear mediante acuerdo del Ayuntamiento entidades paramunicipales con personalidad jurídica y patrimonio propios, tales como organismos descentralizados, empresas de participación municipal, fideicomisos públicos municipales y organismos asimilados, determinando las relaciones que se regirán entre éstos con el resto de la administración pública municipal.
 
-II. Proponer y en su caso, ejecutar acciones para el financiamiento del partido;
+Para la creación de organismos descentralizados se requerirá además, de la aprobación de la Legislatura.
 
-III. Presentar los informes financieros a la Asamblea Estatal como órgano supremo;
+###### ARTICULO 59.
 
-IV. La asamblea tendrá la facultad de aceptar, rechazar o proponer modificaciones a dichos informes;
+El Ayuntamiento por conducto del Presidente Municipal coordinará y supervisará las acciones que realicen las entidades paramunicipales, vigilando que cumplan con la función para la que fueron creadas.
 
-V. Cumplir con la legislación y normativa contable, administrativa, fiscal y financiera; así como observar las mejores prácticas contables en apoyo a las tareas de planeación financiera, control de recursos, análisis y fiscalización;
+###### ARTICULO 60.
 
-VI. Administrar y controlar el registro patrimonial, el recurso humano, material y financiero del partido;
+La creación de entidades paramunicipales, se sujetará a las siguientes bases:
 
-VII. Expedir y firmar la autorización de títulos de crédito junto con la Presidencia;
+I. Denominación del organismos (sic).
 
-VIII. Elaborar la información contable-financiera y su presentación ante las autoridades competentes en tiempo y forma;
+II. Domicilio Legal.
 
-IX. Elaborar y vigilar el cumplimiento de los presupuestos;
+III. Objeto Del organismo.
 
-X. Elaborar los informes financieros y la propuesta de la aplicación de recursos;
+IV. Integración de su patrimonio.
 
-XI. Presentar los informes de ingresos y egresos semestrales de acuerdo con lo establecido en la legislación electoral vigente;
+V. Integración y alcance del órgano de gobierno.
 
-XII. Asesorar, vigilar y auditar que la estructura estatal y municipal cumplan con su obligación fiscal y administrativa;
+VI. Duración en el cargo de sus miembros y sus causas de remoción.
 
-XIII. Tramitar ante instituciones bancarias lo relativo a la apertura, administración y cancelación de cuentas para el manejo de los recursos del partido; y,
+VII. Facultades y obligaciones del órgano de gobierno.
 
-XIV. Las demás que confiera la Presidencia del Comité Ejecutivo, la legislación y normativa vigente, así como los Documentos Básicos.
+VIII. Órganos de vigilancia y sus facultades.
 
-### CAPÍTULO XVI. COMISIÓN DE EDUCACIÓN Y CAPACITACIÓN CÍVICA
+IX. Vinculación con los planes y programas de desarrollo municipales.
 
-###### Artículo 74.
+X. Descripción de objetivos y metas.
 
-Las funciones, facultades y obligaciones de la Secretaría de Organización y Enlace Territorial del Comité Ejecutivo Estatal son las siguientes:
+XI. Las demás que se regulen en el reglamento o acuerdo del Ayuntamiento y que sean inherentes a su función.
 
-I. Integrar y administrar los registros de afiliación del Padrón de Personas Afiliadas al partido;
+###### ARTICULO 61.
 
-II. Realizar y promover los programas de afiliación;
+Las entidades paramunicipales deberán rendir informes trimestrales al Ayuntamiento sobre el ejercicio de sus funciones. Sin perjuicio de lo anterior, el Ayuntamiento a través del Presidente Municipal podrá solicitar información o la comparecencia del titular en cualquier tiempo.
 
-III. Presentar al Comité Ejecutivo Estatal, un análisis detallado de los fenómenos políticos locales y nacionales para hacer una posterior evaluación de acciones y rutas de procesamiento desde el partido político;
+###### ARTICULO 62.
 
-IV. Promover la discusión de las agendas públicas y la interacción entre las diversas coordinaciones, con el fin de fomentar un análisis complementario, interdisciplinar y transversal;
+Para los casos no previstos en esta Ley será aplicable en lo conducente la Ley de Entidades Paraestatales del Estado de Querétaro.
 
-V. Involucrarse en la planeación, implementación y seguimiento de los mecanismos institucionales y civiles de anticorrupción para poder incidir con un punto de vista técnico;
+###### ARTICULO 63.
 
-VI. Hacer un mapa de personas con liderazgo estratégico para su posterior vinculación con el partido;
+Para la asistencia social y el desarrollo integral de la familia, en cada municipio existirá un organismo público descentralizado, que presidirá la persona que designe el Presidente Municipal pudiendo ser el cónyuge.
 
-VII. Fungir como vinculación entre los distintos órganos, coordinaciones y comisiones del partido para facilitar el desarrollo de sus funciones;
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2005)</small>
 
-VIII. Construir las plataformas de vinculación con diferentes liderazgos políticos, económicos, académicos y de la sociedad civil, para lograr los objetivos del partido; y,
+Para la atención de los asuntos de los jóvenes, en cada municipio existirá un organismo público descentralizado, que presidirá la persona que designe el Ayuntamiento y que deberá ser un ciudadano no mayor de 25 años.
 
-IX. Las demás que confiera la Presidencia del Comité Ejecutivo, la legislación y normativa vigente, así como los Documentos Básicos.
+### CAPÍTULO OCTAVO. DEL SERVICIO CIVIL DE CARRERA
 
-###### Artículo 75.
+###### ARTICULO 64.
 
-Son funciones, facultades y obligaciones de la Secretaría de Asuntos Jurídicos:
+Los ayuntamientos institucionalizarán el servicio civil de carrera, por medio del reglamento correspondiente, el cual tendrá los siguientes propósitos:
 
-I. A solicitud de la Presidencia y/o las Secretarías, brindar la asesoría y su opinión jurídica; revisar, validar y registrar los contratos o convenios suscritos con personas físicas y/o morales, para su adecuado funcionamiento;
+I. Garantizar la estabilidad y seguridad en el empleo;
 
-II. Representar jurídicamente al partido político y promover los recursos y medios de defensa que corresponda ante los órganos judiciales; así como diseñar las estrategias legales necesarias para la adecuada defensa de los intereses del partido político;
+II. Fomentar la vocación de servicio, mediante una motivación adecuada;
 
-III. Solicitar a las diversas áreas del partido político la información y documentación que se requiera para implementar oportunamente las acciones y defensas en los juicios en los que el partido sea parte;
+III. Promover la capacitación permanente del personal;
 
-IV. Colaborar en la modificación de sus Documentos Básicos y normatividad interna;
+IV. Procurar la lealtad a las instituciones del Municipio;
 
-V. Elaborar los planes y programas de capacitación en materia de transparencia, acceso a la información y protección de datos;
+V. Promover la eficiencia y eficacia de los servidores públicos municipales;
 
-VI. Elaborar lineamientos y aplicar mecanismos para la clasificación, administración y conservación de los acervos documentales, digitales y electrónicos del partido, así como coordinar los mismos;
+VI. Mejorar las condiciones laborales de los servidores públicos municipales;
 
-VII. Requerir a los órganos o áreas internas del partido político la información que posean, vinculada con las obligaciones que legalmente le corresponde publicar en el portal de internet;
+VII. Garantizar promociones justas y otras formas de progreso laboral, con base en sus méritos;
 
-VIII. Elaborar un programa anual e informes de actividades de la Secretaría;
+VIII. Garantizar a los servidores públicos municipales, el ejercicio de los derechos que les reconocen las leyes y otros ordenamientos jurídicos; y
 
-IX. Las demás que confiera la Presidencia del Comité Ejecutivo, la legislación y normativa vigente, así como los Documentos Básicos.
+IX. Contribuir al bienestar de los servidores públicos municipales y sus familias, mediante el desarrollo de actividades educativas, de asistencia, culturales, deportivas, recreativas y sociales.
 
-###### Artículo 76.
+###### ARTICULO 65.
 
-Son funciones, facultades y obligaciones de la Secretaría de Comunicación:
+Para la institucionalización del servicio civil de carrera, los ayuntamientos establecerán:
 
-I. Definir y conducir las políticas de comunicación institucional del partido político;
+I. Las normas, políticas y procedimientos administrativos, que definirán qué servidores públicos municipales participarán en el servicio civil de carrera;
 
-II. Diseñar y normar la identidad gráfica institucional para la mejor proyección de la imagen pública del partido político;
+II. Un estatuto del personal;
 
-III. Promover y fortalecer las relaciones entre el Comité Ejecutivo Estatal y los medios de comunicación, a fin (sic) difundir las actividades partidistas;
+III. Un sistema de mérito para la selección, promoción, ascenso y estabilidad del personal;
 
-IV. Desarrollar los planes de trabajo y programas operativos anuales;
+IV. Un sistema de clasificación de puestos;
 
-V. Proponer las estrategias de información necesarias para difundir oportuna y objetivamente el quehacer institucional a través de los medios masivos de comunicación;
+V. Un sistema de plan de salarios y tabulador de puestos; y
 
-VI. Elaborar las estrategias promocionales necesarias para el mejor posicionamiento del partido político entre la opinión pública;
+VI. Un sistema de capacitación, actualización y desarrollo de personal.
 
-VII. Coadyuvar en la cobertura informativa de las campañas electorales, observando las reglas de operación establecidas por los lineamientos vigentes en materia electoral;
+###### ARTICULO 66.
 
-VIII. Coordinar la elaboración de documentos informativos sobre la actividad partidista para ser distribuidos en los medios masivos de comunicación;
+La institucionalización del Servicio Civil de Carrera será responsabilidad de la Dependencia Encargada de la Administración de Servicios, Recursos Humanos, Materiales y Técnicos del Municipio, a la cual estará adscrita una comisión integrada por quien el Ayuntamiento designe conforme al Artículo 68 de esta Ley.
 
-IX. Programar la cobertura informativa de los diversos eventos realizados por quienes integran el Comité Estatal para la generación oportuna de materiales comunicativos impresos y audiovisuales;
+###### ARTICULO 67.
 
-X. Establecer un vínculo permanente con las áreas de comunicación de comités municipales, a fin de coordinar la información sobre el trabajo partidista del Comité Ejecutivo Estatal;
+La Comisión del Servicio Civil de Carrera tendrá las siguientes funciones:
 
-XI. Diseñar campañas de comunicación para coadyuvar en el logro de objetivos del Partido;
+I. Promover ante las dependencias y entidades de la administración pública municipal, la realización de los programas específicos del servicio civil de carrera;
 
-XII. Coordinar el diseño de publicaciones impresas, electrónicas y digitales de naturaleza promocional para focalizar las tareas partidistas entre los diversos medios de comunicación;
+II. Promover mecanismos de coordinación entre las dependencias y entidades de la administración pública municipal, para uniformar y sistematizar los métodos de administración y desarrollo del personal, encaminados a instrumentar el servicio civil de carrera;
 
-XIII. Desarrollar productos y contenidos de comunicación interna que fortalezcan el sentido de pertenencia de la militancia, así como la unidad y el orgullo de pertenencia;
+III. Determinar y proponer los elementos que permitan la adecuación e integración del marco jurídico y administrativo que requiera la instauración del servicio civil de carrera;
 
-XIV. Monitorear y analizar la información que difunden los medios de comunicación sobre las actividades del partido político; y,
+IV. Promover mecanismos de participación permanente, para integrar y unificar los planteamientos de las dependencias y entidades de la administración pública municipal, así como los correspondientes a las representaciones sindicales, en la instrumentación del servicio civil de carrera;
 
-XV. Las demás que le otorguen los presentes Estatutos y las que expresamente le confiera la Presidencia del Comité Ejecutivo Estatal y sean ratificadas por la Comisión Permanente.
+V. Estudiar y emitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del servicio civil de carrera, con los instrumentos del plan de desarrollo municipal;
 
-### CAPÍTULO XVII. INSTITUTO DE EDUCACIÓN, CAPACITACIÓN CÍVICA Y FORMACIÓN POLÍTICA
+VI. Evaluar periódicamente los resultados de las acciones orientadas a la instrumentación del servicio civil de carrera; y
 
-###### Artículo 77.
+VII. Las demás que señale el Ayuntamiento, que le sean necesarias para el cumplimiento de su objeto.
 
-La Secretaría de la Mujer e Igualdad Sustantiva es la responsable de cumplir con las funciones, facultades y obligaciones en materia de igualdad sustantiva, paridad y equidad de género y en general de los derechos humanos de las mujeres, en los términos que marca la Constitución Política de los Estados Unidos Mexicanos, las leyes electorales, las demás que de ella emanen, así como los tratados y convenios internacionales.
+###### ARTICULO 68.
 
-Sus funciones, facultades y obligaciones serán las siguientes:
+En la aplicación del presente capítulo, se atenderá en lo conducente, lo dispuesto por la Ley de los Trabajadores al Servicio del Estado y Municipios.
 
-I. Fungir como órgano rector al interior del Partido en la observancia y protección de la igualdad sustantiva, la paridad y equidad de género y la no discriminación contra las mujeres;
+### CAPÍTULO NOVENO. DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACIÓN SOCIAL
 
-II. Impulsar la cultura por la igualdad sustantiva de las mujeres;
+###### ARTICULO 69.
 
-III. Velar por el cumplimiento del principio de paridad de género en la postulación a cargos de dirigencias partidistas y de elección popular;
+El Sistema de Consejos Municipales de Participación Social es el mecanismo que promueve e integra la participación plural y democrática de la sociedad, así como los esfuerzos de la administración pública en las acciones inherentes al Gobierno Municipal.
 
-IV. Promover los derechos políticos y electorales de las mujeres, así como adoptar y proponer medidas para fomentar su ejercicio;
+###### ARTICULO 70.
 
-V. Promover el empoderamiento de las mujeres;
+Los Consejos Municipales de Participación Social, tendrán como objetivo fundamental establecer espacios de participación de la comunidad para su propio desarrollo y la propuesta, validación y evaluación de los programas de acción que realice la administración municipal. Atenderán a la estructura sectorial, territorial e institucional y deberán integrar a miembros de las diversas organizaciones y agrupaciones civiles representativas de la comunidad y ciudadanos interesados; serán la instancia de participación a nivel local que presenta propuestas integrales de desarrollo comunitario ante el COPLADEM. Su integración y funcionamiento se regirán por los reglamentos que al efecto se emitan.
 
-VI. Implementar acciones para prevenir la violencia política por razones de género;
+###### ARTICULO 71.
 
-VII. Implementar mecanismos y procedimientos necesarios para garantizar la integración de liderazgos políticos de mujeres al interior del partido;
+Los Consejos a que se refiere este capítulo tendrán la competencia siguiente:
 
-VIII. Atender, someter y vigilar ante los órganos sancionadores correspondientes, las medidas contra la violencia política y equidad de género
+I. Participar en la conformación del Comité de Planeación para el Desarrollo, según lo establecen las leyes y reglamentos;
 
-IX. Fomentar la participación política, el desarrollo profesional y político de las mujeres e implementar programas de capacitación dirigidos en forma especial a mujeres jóvenes, indígenas, adultas mayores o con discapacidad;
+II. Analizar la problemática del sector, territorio o materia que les corresponda para proponer proyectos viables de ejecución;
 
-X. Prevenir y atender que no exista violencia política contra las precandidatas, candidatas y mujeres que ejerzan un cargo de elección popular;
+III. Asesorar al Ayuntamiento y a la Comisión Permanente en la formulación, aplicación y vigilancia del cumplimiento de las disposiciones legales aplicables en las materias de su competencia;
 
-XI. Proponer las sanciones por medio de los mecanismos y procedimientos internos con los que se cuente, todo acto relacionado con la violencia política contra las mujeres en razón de género;
+IV. Participar en el proceso y formulación de planes y programas municipales en los términos descritos anteriormente;
 
-XII. Promover, respetar, proteger, defender y conservar los derechos humanos de las mujeres;
+V. Coadyuvar en el cumplimiento eficaz de planes y programas municipales;
 
-XIII. Impulsar políticas para una vida libre de violencia hacia las mujeres;
+VI. Promover la consulta e integrar a la sociedad con las dependencias y entidades en los procesos de planeación, validación y evaluación;
 
-XIV. Promover, respetar y defender los derechos humanos con enfoque en materia de igualdad sustantiva y paridad de género;
+VII. Promover la participación y colaboración de los habitantes y vecinos en tareas de beneficio colectivo;
 
-XV. Vigilar que en las resoluciones de justicia intrapartidaria se aplique la perspectiva de género;
+VIII. Colaborar en el mejoramiento y supervisión de los servicios públicos municipales;
 
-XVI. Coadyuvar para que la organización, conducción y validación de procesos de elección de dirigencias y postulación de candidaturas a cargo de elección popular en el nivel que corresponda se observen los principios de igualdad sustantiva y se garantice la paridad de género en la integración de las propuestas;
+IX. Establecer y desarrollar un programa permanente y periódico de información, tanto hacia el Ayuntamiento como hacia la comunidad, sobre el avance e impacto de programas, y la participación del Consejo; y
 
-XVII. Emitir Recomendaciones técnicas cuando lo considere necesario, a la Comisión de Honor y Justicia, así como a los órganos directivos en los casos de violencia de género o de violencia política en razón de género;
+X. Las demás que señalen los reglamentos.
 
-XVIII. Proponer reformas, planes, programas, protocolos y políticas públicas para el fortalecimiento de los derechos humanos de las mujeres;
+###### ARTICULO 72.
 
-XIX. Elaborar el Protocolo de Equidad de Género e Igualdad Sustantiva del partido;
+El ayuntamiento podrá encomendar a los consejeros las recaudaciones económicas que deba aportar la comunidad cuando se trate de aportaciones para la realización concertada de obra pública; en este caso, los recibos serán autorizados por la dependencia encargada de las finanzas públicas municipales y a ésta se concentrarán tales fondos para ser aplicados a la obra respectiva.
 
-XX. Integrar el registro de las personas que hayan sido condenadas por actos de violencia política en razón de género; y,
+## TÍTULO V. DE LOS ACTOS ADMINISTRATIVOS MUNICIPALES
 
-XXI. Las que determinen las leyes en materia de igualdad sustantiva, equidad de género, violencia de género y violencia política en razón de género, así como los Documentos Básicos.
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-###### Artículo 78.
+###### ARTICULO 73.
 
-Las funciones, facultades y obligaciones de la Secretaría de la Juventud, Cultura, Diversidad y Deporte son las siguientes:
+Son elementos y requisitos del acto administrativo:
 
-I. Impulsar las candidaturas de personas jóvenes, tanto en los cargos de elección popular como de dirección interna del partido político;
+I. Ser expedido por órgano competente a través de un servidor público legalmente facultado, el cual deberá reunir las formalidades que establece esta Ley para emitirlo;
 
-II. Crear estrategias que permitan la incorporación de la juventud a la acción política del partido;
+II. Tener objeto que pueda ser materia del mismo; determinado o determinable; preciso en cuanto a las circunstancias de tiempo y lugar;
 
-III. Garantizar las políticas públicas que atiendan las demandas de la juventud mexicana;
+III. Cumplir con la finalidad de interés público regulado por las normas en que se concreta sin que puedan perseguirse otros fines distintos;
 
-IV. Promover la incorporación igualitaria de un mayor número de las y los jóvenes al Partido y sus tareas políticas;
+IV. Hacerse constar por escrito y con la firma autógrafa de quien lo expida, salvo en los casos en el que el Reglamento respectivo autorice otras formas de expedición;
 
-V. Impulsar la participación de las y los jóvenes en el trabajo partidario;
+V. Estar fundado y motivado
 
-VI. Impulsar su desarrollo para que accedan a cargos de dirigencia y de elección popular;
+VI. Ser expedido sin que medie error sobre el objeto, causa o motivo, o sobre el fin del acto;
 
-VII. Fomentar la cultura y bases histórico-culturales de nuestra nación al interior del partido, para lo cual podrá realizar cualquier tipo de eventos de carácter lúdico.
+VII. Ser expedido sin que medie dolo o violencia en su emisión;
 
-VIII. Concientizar a la comunidad partidista de los valores históricos de la democracia;
+VIII. Mencionar el órgano del cual emana;
 
-IX. Organizar y promover foros de carácter con la participación de la ciudadanía, así como de personas expertas en la materia para generar propuestas que contribuyan a la investigación, desarrollo de políticas públicas, proyectos, programas y normas jurídicas del deporte en el país;
+IX. Ser expedido sin que medie error en la identificación del expediente, documentos o nombre completo de las personas;
 
-X. Promover la cultura física y el deporte para todos los sectores de la sociedad, organizaciones deportivas y organizaciones de la sociedad civil, procurando el bienestar social y de salud de la comunidad de una forma transversal;
+X. Señalar lugar y fecha de expedición;
 
-XI. Generar y gestionar apoyos para organizaciones deportivas, atletas y sociedad civil, a través de la organización de eventos deportivos o actividades afines;
+XI. Tratándose de los actos administrativos que deban notificarse, hacerse mención de la oficina en que se encuentran para que pueda ser consultado el expediente respectivo;
 
-XII. Diseñar y promover acciones de concientización sobre la diversidad, la paz y la no violencia donde la presencia de las personas integrantes de esta comunidad sea significativa;
+XII. Tratándose de actos administrativos recurribles, deberá hacerse mención de los recursos que procedan; y
 
-XIII. Establecer mecanismos y procedimientos para impulsar las candidaturas de personas integrantes de la comunidad LGBTTTIQ+, tanto en los cargos de elección popular como de dirección interna del partido político;
+XIII. Ser expedido decidiendo expresamente todos los puntos propuestos por las partes o establecidos por la Ley.
 
-XIV. Promover acciones para que el partido político presente iniciativas de ley o reformas que pugnen por eliminar la discriminación laboral o social en contra de las personas integrantes de esta comunidad;
+### CAPÍTULO SEGUNDO. DE LA NULIDAD Y ANULABILIDAD DEL ACTO ADMINISTRATIVO
 
-XV. Las que determinen las leyes en materia de igualdad sustantiva, equidad de género, violencia de género y violencia política en razón de género, así como los Documentos Básicos.
+###### ARTICULO 74.
 
-### CAPÍTULO XVIII. RENOVACIÓN DE LOS ÓRGANOS INTERNOS
+La omisión o irregularidad en los elementos y requisitos exigidos por el artículo 73 de esta Ley, producirán según sea el caso nulidad o anulabilidad del acto administrativo.
 
-###### Artículo 79.
+###### ARTICULO 75.
 
-Las funciones, facultades y obligaciones de la Secretaría de Asuntos Electorales son las siguientes:
+La omisión o irregularidad de cualesquiera de los requisitos establecidos en las fracciones I a VIII del artículo 73 de la presente Ley, producirá la nulidad del acto administrativo, la cual deberá ser decretada en el dictamen del recurso que corresponda.
 
-I. Elaborar en coordinación con los Comités Municipales, el proyecto del Plan Estatal de Elecciones.
+El acto administrativo que se declare jurídicamente nulo será inválido; no se presumirá legítimo ni ejecutable; no será subsanable. Los particulares no tendrán obligación de cumplirlo, y los servidores públicos deberán hacer constar su oposición a ejecutarlo fundando y motivando tal negativa.
 
-II. Participar en la planeación, organización, supervisión y evaluación, en los términos de las leyes respectivas, de campañas de empadronamiento en todo el estado;
+La declaración de nulidad producirá efectos retroactivos.
 
-III. Verificar los requisitos de elegibilidad de las candidatas y los candidatos e integrar sus expedientes personales, desde el registro de las candidaturas hasta la calificación de las elecciones, por parte de los órganos competentes;
+En caso de que el acto se hubiere consumado, o bien sea de hecho o de derecho imposible de retrotraer sus efectos, sólo dará lugar a responsabilidad del servidor público que lo hubiere emitido u ordenado de conformidad con lo que estipula la ley aplicable.
 
-IV. Llevar a cabo el registro de las candidaturas del partido a cargos de elección popular ante los organismos electorales competentes, en los plazos y términos previstos por la ley;
+###### ARTICULO 76.
 
-V. Asesorar en materia electoral a candidatas, candidatos y a las personas dirigentes y representantes del Partido;
+La omisión o irregularidad de los elementos o requisitos señalados en las fracciones IX a XIII del artículo 73 de la presente Ley producirá la anulabilidad del acto administrativo, la cual deberá decretarse en la resolución del recurso correspondiente.
 
-VI. Dar seguimiento y evaluar las estrategias, directrices y acciones de campaña del Partido y de sus candidatas y candidatos a cargos de elección popular;
+El acto declarado anulable se considerará válido, gozará de presunción de procedibilidad y ejecutabilidad. Será subsanable por el órgano administrativo que lo emitió. Tanto de los servidores públicos como los particulares tendrán la obligación de cumplirlo.
 
-VII. Formular y promover en coordinación con la Secretaría de Organización, programas de movilización partidaria en las elecciones constitucionales;
+El saneamiento del acto anulable producirá efectos retroactivos y el acto se considerará como si siempre hubiera sido válido.
 
-VIII. Instrumentar una estructura jurídica electoral que deberá apoyar de manera permanente al partido, a sus candidatas y candidatos, así como a las personas militantes;
+### CAPÍTULO TERCERO. DE LA EFICACIA DEL ACTO ADMINISTRATIVO
 
-IX. Integrar y administrar el sistema de información electoral generado con motivo de los procesos electorales;
+###### ARTICULO 77.
 
-X. Diseñar estrategias para el posicionamiento político y la construcción de plataformas electorales de alto impacto social; y,
+El acto administrativo se presume válido en tanto su invalidez no haya sido resuelta.
 
-XI. Las demás que le otorguen los presentes Estatutos y las que expresamente le confiera la Presidencia del Comité Ejecutivo Estatal y sean ratificadas por la Comisión Permanente Estatal.
+###### ARTICULO 78.
 
-### CAPÍTULO I. DE LOS CARGOS DE ELECCIÓN POPULAR
+El acto administrativo válido será exigible a partir de que surta efectos la notificación legalmente efectuada, en los términos que establece el Código de Procedimientos Civiles del Estado de Querétaro.
 
-###### Artículo 80.
+Se exceptúa de lo dispuesto en el párrafo anterior, el acto administrativo por el cual se otorgue un beneficio al particular, caso en el cual su cumplimiento será exigible por éste al órgano administrativo que lo emitió desde la fecha en que se dictó o aquella que tenga señalada para iniciar su vigencia; así como los casos en virtud de los cuales se realicen actos de inspección, investigación o vigilancia conforme a las disposiciones de esta Ley y sus reglamentos, los cuales son exigibles a partir de la fecha en que la administración pública municipal los efectúe.
 
-El Consejo Consultivo es un órgano de participación, consulta, asesoría y opinión, auxiliar del Comité Ejecutivo Estatal, teniendo como una de sus principales funciones la de opinar, proponer y asesorar sobre política estatal, nacional e internacional, así como apoyar con información y análisis en la difusión de los objetivos y plan de acción del partido.
+### CAPÍTULO CUARTO. DE LA EXTINCIÓN DEL ACTO ADMINISTRATIVO
 
-###### Artículo 81.
+###### ARTICULO 79.
 
-Estará integrado por personas de notoria honestidad y reputación reconocida en los aspectos sociales, culturales, educativos y la vida pública. La función de quienes integren este consejo consultivo será apoyar con información y análisis en la difusión de los objetivos y plan de acción del partido en el estado y fungir como comisionados al inicio de los procesos electorales a nivel federal, estatal y local.
+El acto administrativo de carácter individual se extingue por las siguientes causas:
 
-El Consejo Consultivo estará integrado por:
+I. Cumplimiento de su finalidad;
 
-I. Un Presidente o Presidenta del Consejo;
+II. Expiración del plazo;
 
-II. Un Secretario o Secretaria Técnico;
+III. Cuando la formación del acto administrativo está sujeta a una condición o término suspensivo y éste no se realice dentro del plazo señalado en el propio acto;
 
-III. Una persona representante de la Secretaría de Finanzas;
+IV. Acaecimiento de una condición resolutoria;
 
-IV. Una persona representante de la Secretaría de Organización y Enlace Territorial;
+V. Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo beneficio de éste y no sea en perjuicio del interés público; y
 
-V. Una persona representante de la Secretaría de Asuntos Jurídicos;
+VI. Por revocación cuando ésta se determine.
 
-VI. Una persona representante de la Secretaría de Comunicación;
+### CAPÍTULO QUINTO. DE LOS CONTRATOS ADMINISTRATIVOS
 
-VII. Una persona representante de la Secretaría de la Mujer e Igualdad Sustantiva;
+###### ARTICULO 80.
 
-VIII. Una persona representante de la Secretaría de los Jóvenes, Diversidad y Deporte; y,
+Los ayuntamientos previo acuerdo de las dos terceras partes de sus integrantes, de conformidad con lo que establezcan las leyes, el reglamento respectivo y en su caso, previa autorización de la Legislatura, aprobarán los siguientes actos:
 
-IX. Una persona representante de la Secretaría de Asuntos Electorales.
+I. Gestionar empréstitos, cuando sus efectos temporales excedan el plazo de la administración municipal de que se trate;
 
-###### Artículo 82.
+II. Transmitir, por cualquier título, bienes muebles que por su valor cultural, histórico o económico, puedan considerarse de trascendental importancia para la vida municipal o el funcionamiento de la administración;
 
-Quienes integren el Consejo desempeñarán sus funciones en dicho órgano de manera honoraria y deberán contar con la disponibilidad necesaria para atender las consultas que les sean presentadas.
+III. Desafectar del dominio o cambiar el destino de los bienes inmuebles afectados a un servicio público o los muebles que con relación al mismo tengan las características de la fracción que antecede;
 
-###### Artículo 83.
+IV. Arrendar sus bienes por un término que exceda del término constitucional de la gestión municipal;
 
-En caso de ausencia de la persona Titular, esta podrá nombrar a una persona suplente para que asuma las responsabilidades que tiene en su carácter de integrante del Consejo. La designación de la persona suplente deberá recaer en un funcionario o funcionaria con un nivel jerárquico inmediato inferior a la persona titular.
+V. Celebrar contratos de administración de obras y de prestación de servicios públicos, cuyas obligaciones excedan el término constitucional de la gestión municipal;
 
-###### Artículo 84.
+VI. En general cualquier acto que implique obligaciones que deban ser cumplidas después de concluida la gestión municipal de que se trate.
 
-La Presidencia del Consejo durará en su encargo el mismo período que la persona titular del Comité Ejecutivo Estatal
+###### ARTICULO 81.
 
-### CAPÍTULO II. DE LA PLATAFORMA ELECTORAL
+La enajenación de bienes muebles e inmuebles propiedad de los municipios siempre se efectuará en subasta pública, siguiendo el procedimiento de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro y, en su caso, respetando el derecho del tanto.
 
-###### Artículo 85.
+###### ARTICULO 82.
 
-Corresponden al Consejo las siguientes funciones, facultades y obligaciones:
+En las solicitudes para cambio de destino o desafectación de bienes de uso común o de servicio público, se expresarán los motivos que para ello tenga el municipio solicitante, agregando el dictamen técnico correspondiente.
 
-I. Emitir opinión sobre los proyectos de los programas, acciones y estrategias del partido;
+###### ARTICULO 83.
 
-II. Proponer los temas y la información que el Comité Ejecutivo Estatal determine que habrán de considerarse de Interés;
+Los ayuntamientos están obligados, preferentemente, a adquirir predios circundantes a los centros de población de su Municipio, a fin de integrar el área de reserva urbana destinada a satisfacer las necesidades de expansión y desarrollo de éstos; lo anterior, sin perjuicio de poder solicitar su expropiación, para cuyo efecto las anteriores circunstancias serán consideradas como causas de utilidad pública.
 
-III. Elaborar propuestas y opinar sobre las acciones necesarias para el adecuado funcionamiento del partido;
+###### ARTICULO 84.
 
-IV. Asesorar y proponer actividades para orientar y mejorar el desarrollo de las funciones del partido, mediante la elaboración de recomendaciones específicas;
+Cuando la administración pública municipal no pueda ejecutar por si obras públicas municipales y deba contratar o concesionar su ejecución o administración a particulares, o requiera la elaboración de proyectos de obras por éstos, someterá las solicitudes a concurso público, observando las normas de las (sic) ley de la materia y el reglamento respectivo.
 
-V. Asesorar sobre los criterios generales de aplicación de las leyes y reglamentos electorales;
+### CAPÍTULO SEXTO. DE LAS CONCESIONES, LICENCIAS Y PERMISOS
 
-VI. Opinar sobre los proyectos de textos normativos relacionados con la actividad del partido, cuando el Comité Ejecutivo Estatal los someta a su consideración;
+###### ARTICULO 85.
 
-VII. Propiciar la participación de sus integrantes en asuntos relevantes para el desempeño de las funciones del Consejo; y,
+Los ayuntamientos podrán otorgar concesiones para la prestación de los servicios y la generación de bienes públicos. Estas no podrán transmitirse bajo ningún título, salvo en los caso (sic) en que el ayuntamiento lo apruebe expresamente por mayoría absoluta de sus integrantes.
 
-VIII. Opinar sobre cualquier otra cuestión que someta a su consideración el Comité Ejecutivo Estatal.
+No serán objeto de concesión los servicios públicos de seguridad, tránsito y vialidad.
 
-###### Artículo 86.
+###### ARTICULO 86.
 
-Son funciones, facultades y obligaciones de la Presidencia del Consejo:
+El otorgamiento de concesiones se sujetará al reglamento respectivo sobre las siguientes bases:
 
-I. Representar al Consejo cuando se requiera rendir algún informe relacionado con su actividad, dirigir su funcionamiento y presidir sus reuniones;
+I. El ayuntamiento acordará y publicará su determinación sobre la imposibilidad o inconveniencia de prestar directamente el servicio o efectuar la actividad de que se trate, por mejorar la eficiencia en la prestación o por afectar las finanzas municipales;
 
-II. Aprobar la agenda de las sesiones y convocar a sesión ordinaria o extraordinaria;
+II. Se fijarán condiciones que garanticen la generalidad, suficiencia, permanencia, regularidad, continuidad y uniformidad en el servicio público o la actividad por realizar;
 
-III. Opinar sobre los temas que se pondrán a consulta del Consejo, teniendo en cuenta las peticiones formuladas con antelación por las y los representantes del Comité Ejecutivo;
+III. Se determinarán los requisitos exigibles o el régimen a que se sujetarán las concesiones o actividad de que se trate, su término, mecanismos de vigilancia, causas de caducidad, prescripción, renuncia y revocación, así como las demás formas y condiciones necesarias para garantizar la adecuada prestación del servicio o actividad respectiva;
 
-IV. Invitar a las instancias cuya participación se considere conveniente de acuerdo con los temas a tratar;
+IV. Se establecerán los procedimientos para dirimir las controversias entre el ayuntamiento y el prestador del servicio o actividad por realizar;
 
-V. Publicar de manera oficial las actividades y recomendaciones del Consejo;
+V. Se fijarán condiciones en que se otorgarán fianzas y garantías a cargo del concesionario o peticionario y a favor del municipio para asegurar la prestación del servicio;
 
-VI. Revisar y evaluar periódicamente el funcionamiento operativo del Consejo y establecer los ajustes oportunos para el logro de sus objetivos;
+VI. Se fijarán las demás condiciones que fueren necesarias para una más eficaz prestación del servicio, la obra o la actividad que se concesiona;
 
-VII. Autorizar con su firma los acuerdos y actas del Consejo;
+VII. Se deberán además utilizar los procedimientos y métodos establecidos en la presente Ley y sus disposiciones reglamentarias, así como los mecanismos de actualización y demás responsabilidades que aseguren la atención del interés colectivo y la protección de la propiedad pública municipal;
 
-VIII. Abrir, suspender, levantar las sesiones y dirigir sus deliberaciones;
+VIII. En cualquier caso los ayuntamientos deberán establecer las condiciones para garantizar la equidad entre los interesados en ser concesionarios; Y
 
-IX. Poner a consideración del Consejo la aprobación del Acta de la Sesión;
+IX. Los requisitos que deberán reunir los concesionarios estarán contenidos en la convocatoria respectiva, de conformidad con el reglamento.
 
-X. Turnar las resoluciones del Consejo al Secretario Técnico o Secretaria Técnica para su seguimiento e integración de los reportes respectivos;
+###### ARTICULO 87.
 
-XI. Turnar al Comité Ejecutivo las opiniones del Consejo, las propuestas de temas e información; y,
+Las concesiones no podrán en ningún caso otorgarse a:
 
-XII. Las demás que le encomiende el Comité Ejecutivo y no estén atribuidas expresamente a otras u otros integrantes.
+I. Los integrantes del ayuntamiento.
 
-###### Artículo 87.
+II. Los titulares de las dependencias, organismos, unidades, delegaciones o representaciones de la administración pública federal estatal o municipal.
 
-Son obligaciones de quienes integren el Consejo:
+III. Los cónyuges, parientes consanguineos en línea directa sin limitación de grado, los colaterales y afines hasta el segundo grado y los civiles de las personas a que se refieren las fracciones I y II de este artículo.
 
-I. Asistir a las sesiones ordinarias y extraordinarias;
+IV. Las personas físicas o morales que en los últimos cinco años se les haya revocado otra concesión, así como empresas en que sean representantes o tengan intereses económicos las personas a que se refieren las fracciones anteriores.
 
-II. Intervenir en los debates y emitir opinión sobre los asuntos que se traten en las sesiones del Consejo;
+###### ARTICULO 88.
 
-III. Analizar la documentación que le sea entregada y entregar a la Secretaria Técnica o Secretario Técnico el resultado que se derive de dicho análisis;
+Los Ayuntamientos expedirán las licencias y permisos, sujetándose a las leyes y los reglamentos aplicables.
 
-IV. Participar en la elaboración de los reportes periódicos y en el informe anual sobre el resultado de sus actividades, dentro de su competencia;
+###### ARTICULO 89.
 
-V. Cumplir con los acuerdos que se tomen en las sesiones del Consejo; y,
+Las concesiones, licencias o permisos terminarán por las siguientes causas:
 
-VI. Las demás que le encomiende el Comité Ejecutivo y no estén atribuidas expresamente a otras u otros integrantes.
+I. Conclusión del plazo o del objeto para el que fueron otorgadas;
 
-###### Artículo 88.
+II. Mutuo acuerdo;
 
-La persona titular de la Secretaría Técnica tendrá las siguientes funciones, facultades y obligaciones:
+III. Renuncia, salvo en los casos en que esta no sea procedente;
 
-I. Apoyar a la Presidencia del Consejo;
+IV. Expropiación;
 
-II. Asistir a las sesiones ordinarias y extraordinarias;
+V. Rescate;
 
-III. Elaborar la agenda de la sesión y ponerla a consideración del Presidente o Presidenta del Consejo;
+VI. Destrucción, agotamiento o desaparición de los elementos necesarios para el ejercicio de la concesión, la licencia o el permiso;
 
-IV. Citar a quienes integren el Consejo a las sesiones y enviar la documentación relativa a cada sesión, previo acuerdo con el Presidente o Presidenta del Consejo;
+VII. Declaración de Ausencia, Presunción de Muerte o Muerte de la persona física; o liquidación, fusión o escisión de la persona moral sujeta de la concesión, la licencia o el permiso sin autorización expresa de la autoridad;
 
-V. Coordinar, preparar y distribuir oportunamente la documentación necesaria para cada una de las sesiones del Consejo;
+VIII. Revocación; y
 
-VI. Integrar las opiniones emitidas por el Consejo y turnar los asuntos para la atención de las instancias correspondientes;
+IX. Caducidad.
 
-VII. Elaborar el acta de cada sesión que celebre el Consejo;
+###### ARTICULO 90.
 
-VIII. Dar seguimiento a los acuerdos de las sesiones;
+Las concesiones, licencias o permisos, caducan cuando no se hayan ejercitado dentro del plazo fijado para tal efecto o cuando debiendo renovarse no se hubiera hecho.
 
-IX. Integrar y custodiar el archivo de la documentación del Consejo y elaborar el informe anual de las actividades de éste; y,
+###### ARTICULO 91.
 
-X. Cumplir con las demás funciones que le encomiende el Presidente o Presidenta del Consejo y no estén atribuidas expresamente a otras u otros integrantes.
+El procedimiento para la revocación y caducidad de las concesiones, las licencias y los permisos se substanciará y resolverá en los términos que establezca el reglamento respectivo, con sujeción a las siguientes normas:
 
-###### Artículo 89.
+I. Se iniciará de oficio o a petición de parte con interés legítimo.
 
-El Consejo se reunirá de manera ordinaria al menos una vez al año, y en forma extraordinaria cuando algún asunto de su competencia así lo exija.
+II. Se notificará la iniciación del procedimiento a quien sea sujeto de la licencia, el permiso o la concesión de que se trate, a efecto de que manifieste lo que a su interés convenga y ofrezca las pruebas que estime pertinentes.
 
-###### Artículo 90.
+III. Se practicarán los estudios respectivos y se formulará el dictamen que verse sobre la procedencia o improcedencia de la medida;
 
-El acta contendrá los siguientes aspectos: objetivo de la sesión, fecha, lugar y hora de celebración, orden del día, lista de asistentes, así como la descripción, seguimiento y firma de los acuerdos que se tomen.
+IV. Concluido lo anterior, el ayuntamiento dictará la declaratoria correspondiente debidamente fundada y motivada.
 
-###### Artículo 91.
+###### ARTICULO 92.
 
-Las Coordinaciones Políticas Distritales y Municipales estarán integradas por las personas representantes de los distritos y municipios de la demarcación geográfica electoral a la que pertenezcan y los trabajos serán encabezados por las personas titulares en funciones.
+La revocación de las concesiones, licencias o permisos podrá decretarse administrativamente y en cualquier tiempo por el ayuntamiento, en los siguientes casos:
 
-###### Artículo 92.
+I. Cuando no se cumplan las obligaciones derivadas de la concesión, licencia o permiso fijadas por el ayuntamiento, los reglamentos y las leyes respectivas;
 
-Las Coordinaciones tendrán funciones políticas, de vigilancia en el funcionamiento de la región a la que pertenezcan y de carácter electoral. Su demarcación será definida por el Comité Ejecutivo Estatal.
+II. Cuando no se preste suficiente, regular y eficientemente el servicio concesionado o la actividad para la cual se otorgó la licencia o permiso correspondiente, causando perjuicio a los usuarios;
 
-## TÍTULO VI. DE LA PLATAFORMA ELECTORAL Y POSTULACIÓN DE CANDIDATURAS
+III. Cuando se demuestre que se ha dejado de prestar la actividad o servicio respectivo, o se preste en forma distinta a lo establecido, a excepción del caso fortuito o fuerza mayor;
 
-### CAPÍTULO ÚNICO
+IV. Cuando quien deba prestar el servicio o actividad para el que obtuvo la licencia, el permiso o la concesión, no esté capacitado o carezca de los elementos materiales, técnicos y financieros para su prestación;
 
-###### Artículo 93.
+V. Cuando se demuestre que quien obtuvo la licencia, el permiso o la concesión no conserva ni mantiene los bienes e instalaciones en buen estado o cuando éstos sufran deterioro e impidan la prestación normal del servicio o actividad de que se trate, por su negligencia, descuido o mala fe;
 
-En todos los municipios de Michoacán se constituirá un Comité Municipal, conformado por una Presidencia en cada municipio, la cual se elegirá a través de la Comisión Permanente Estatal, el Comité Ejecutivo Estatal y la asamblea municipal.
+VI. Cuando el particular interesado no otorgue la garantía que le sea fijada con motivo de la prestación del servicio o actividad respectiva o incumpla con las obligaciones a su cargo;
 
-###### Artículo 94.
+VII. Cuando se transmitan por cualquier título; y
 
-Se celebrarán asambleas municipales en donde se elegirán a las dirigencias municipales y de estas asambleas darán fe la delegación municipal, la Presidencia del Comité Ejecutivo Estatal y la Secretaría General del partido a nivel estatal mediante el nombramiento expedido para estos fines por la Presidencia del Comité Ejecutivo Estatal y de la Comisión Permanente.
+VIII. Por cualquier otra causa análoga e igualmente grave que hagan imposible la actividad o la prestación del servicio a juicio del Ayuntamiento.
 
-###### Artículo 95.
+## TÍTULO VI. DEL PATRIMONIO Y HACIENDA MUNICIPALES
 
-La persona que sea electa para ser titular de la Presidencia de cada Comité Municipal formará parte de la Asamblea General Estatal.
+### CAPÍTULO PRIMERO. DE LOS BIENES MUNICIPALES
 
-###### Artículo 96.
+###### ARTICULO 93.
 
-El Comité Ejecutivo Municipal quedará integrado al menos con cinco integrantes análogos a la estructura estatal, siendo obligatorias la Presidencia, la Secretaría General, la Secretaría de Organización y la Secretaría de Finanzas, las Secretarías restantes podrán ser nombradas acorde a las necesidades del municipio.
+El patrimonio de los municipios lo constituyen los bienes de dominio público, los bienes de dominio privado; los derechos y obligaciones de la Hacienda Municipal, así como todas aquellas obligaciones y derechos que por cualquier concepto se deriven de la aplicación de las leyes, los reglamentos y la ejecución de convenios.
 
-Como instancia representativa tendrá la obligación de vincular su trabajo directamente con el Comité Ejecutivo Estatal.
+###### ARTICULO 94.
 
-La duración del cargo de las personas integrantes del Comité Municipal será de cuatro años.
+Los bienes de dominio público son:
 
-###### Artículo 97.
+I. Los de uso común;
 
-Para que las sesiones de los Comités Ejecutivos Municipales sean válidas, el quórum requerido se considerará con las personas integrantes que asistan, y los acuerdos que se adopten deberán suceder por mayoría simple para su validez.
+II. Los muebles e inmuebles propios destinados a un servicio público municipal o equiparados a éstos, conforme a la ley;
 
-###### Artículo 98.
+III. Los monumentos, históricos y artísticos de su propiedad;
 
-Los Comités Municipales tienen las siguientes funciones, facultades y obligaciones:
+IV. Los bienes inmuebles en reserva para equipamiento y demás predios declarados inalienables e imprescriptibles;
 
-I. La formulación del plan de trabajo en el municipio y presentación para su aprobación al Comité Ejecutivo Estatal;
+V. Las servidumbres, cuando el predio dominante sea alguno de los inmuebles señalados anteriormente;
 
-II. Informar periódicamente al Comité Ejecutivo Estatal de sus actividades;
+VI. Los muebles de propiedad municipal que por su naturaleza no sean normalmente substituibles, tales como los documentos y expedientes de las oficinas, manuscritos, ediciones, libros, publicaciones, periódicos, mapas, planos, folletos, grabados, pinturas, fotografías, películas, archivos y registros;
 
-III. Realizar sesiones plenarias, al menos cada seis meses;
+VII. Las pinturas murales, escrituras y cualquier obra artística incorporada permanentemente a los inmuebles del municipio o del patrimonio de los organismos descentralizados, cuya conservación sea de interés histórico o artístico; y
 
-IV. Presentar en las plenarias, la evaluación de sus actividades;
+VIII. Los que ingresen por disposiciones relativas al fraccionamiento de la tierra.
 
-V. La realización de publicaciones de acuerdo con el Comité Estatal;
+IX. Los demás considerados como tales por las leyes.
 
-VI. Ejercer la representación del partido ante las instancias correspondientes;
+###### ARTICULO 95.
 
-VII. Participar en las reuniones convocadas;
+Son bienes de uso común:
 
-VIII. Realizar las gestiones necesarias en beneficio de las personas militantes;
+I. Los caminos, calzadas y puentes y sus accesorios que no sean propiedad de la Federación o del Estado;
 
-IX. Promover la afiliación; y,
+II. Los canales, zanjas y acueductos construidos o adquiridos por los municipios, para uso de utilidad pública, existentes dentro de los territorios de cada uno de ellos, que no sean de la Federación o del Estado;
 
-X. Las demás que señale la legislación y normativa vigente, así como los Documentos Básicos.
+III. Las plazas, calles, avenidas, paseos, andadores y parques públicos existentes en cada municipio;
 
-###### Artículo 99.
+IV. Las construcciones efectuadas por el gobierno municipal en lugares públicos, para ornato o comodidad de quienes los visiten, y
 
-Las Asambleas Municipales estarán integradas por las personas registradas en el padrón de afiliados o afiliadas del partido residentes del municipio en cuestión, y validadas por la Presidencia del Comité Municipal y la Secretaría General Estatal, mediante el nombramiento expedido para estos fines.
+V. Los demás considerados como tales por las leyes.
 
-Las personas registradas en el padrón de afiliados o afiliadas del partido elegirán a una persona que ocupará la Presidencia de la Asamblea Municipal.
+###### ARTICULO 96.
 
-La Presidencia del Comité Municipal durará en su encargo cuatro años. Para ocupar este cargo, se requiere estar afiliado o afiliada y en pleno ejercicio de sus derechos político-electorales.
+Son bienes afectados a un servicio público los siguientes:
 
-###### Artículo 100.
+I. Inmuebles destinados a las dependencias y entidades paraestatales municipales;
 
-Para que las sesiones de las Asambleas Municipales sean válidas, el quórum se considerará con el número de integrantes que asistan, y los acuerdos que se adopten deberán suceder por mayoría simple para su validez.
+II. Inmuebles directamente destinados para a (sic) ello, como bibliotecas, museos, teatros, reclusorios, centros de rehabilitación para menores, dispensarios, hospitales, asilos, guarderías infantiles, lavaderos públicos y en general todos aquellos adquiridos con fondos municipales para tal efecto;
 
-###### Artículo 101.
+III. Inmuebles que constituyan el patrimonio de los (sic) entidades paramunicipales;
 
-La delegación municipal tendrá las funciones de la Presidencia de la Asamblea Municipal, así como del Comité Municipal, en tanto no se convoque a elección por parte de la Comisión Electoral y de Procesos Internos dirigida a las personas representantes de las secciones electorales que corresponda a cada Asamblea Municipal, conforme a la normativa interna.
+IV. Establecimientos fabriles administrados directamente por el gobierno municipal;
 
-En el caso de que las respectivas Asambleas Municipales convoquen y elijan a sus representantes, las Delegaciones Municipales tendrán funciones políticas, de vigilancia en el funcionamiento del municipio y de carácter electoral.
+V. Los inmuebles de propiedad municipal que sean parte del equipamiento urbano;
+
+VI. Los muebles afectos a los inmuebles de uso común, a la prestación de servicios públicos o a actividades equiparables; y
+
+VII. Otros adquiridos por procedimientos de derecho público.
+
+###### ARTICULO 97.
+
+Son bienes del dominio privado de los municipios los siguientes:
+
+I. Inmuebles cuyo poseedor no sea el posesionario legítimo o carezca del Título de propiedad y se encuentren comprendidos dentro del fundo legal de las poblaciones, aprobadas por la Legislatura y debidamente inscritos junto con el plano respectivo, en el Registro Público de la Propiedad, los cuales se destinarán preferentemente a la solución de necesidades sociales de vivienda;
+
+II. Los bienes muebles al servicio de las dependencias y oficinas municipales que no sean de uso común; y
+
+III. Los bienes mencionados en este precepto pasarán a formar parte del dominio público cuando se afecten al uso común, a un servicio público o a cualquiera de las actividades equiparadas a los servicios públicos o que de hecho se utilicen para esos fines, sin necesidad de una declaratoria al respecto.
+
+###### ARTICULO 98.
+
+Los bienes de dominio público del municipios (sic) son inalienables, imprescriptibles, inembargables, no se podrán ejercer acciones restitutorias respecto de los mismos y solo podrán ser objeto de gravamen de conformidad con lo establecido en las leyes y los reglamentos.
+
+Los derechos de tránsito, vistas, luces y otros semejantes, se regirán por las leyes y reglamentos administrativos; y los permisos o concesiones otorgadas por la autoridad municipal sobre esta clase de bienes, tendrán siempre el carácter de revocables.
+
+###### ARTICULO 99.
+
+El régimen jurídico de las concesiones para el aprovechamiento de los bienes de dominio municipal, su otorgamiento, ejecución, terminación, se regularán por las disposiciones de esta Ley y sus reglamentos.
+
+###### ARTICULO 100.
+
+No podrán enajenarse los bienes del dominio público de los municipios sino mediante decreto previo de desincorporación emitido por la Legislatura.
+
+###### ARTICULO 101.
+
+Los bienes inmuebles del dominio privado del municipio son imprescriptibles y podrán ser enajenados por acuerdo de las dos terceras partes de los integrantes del ayuntamiento siempre que su trasmisión (sic) implique la construcción de obras de beneficio colectivo o se incremente el patrimonio municipal.
 
 ### CAPÍTULO SEGUNDO. DE LA HACIENDA MUNICIPAL
 
-###### Artículo 102.
+###### ARTICULO 102.
 
-Son los organismos del partido político TIEMPO X MÉXICO para el cumplimiento de sus objetivos y se conforman de acuerdo con los mecanismos establecidos en los presentes Estatutos y reglamentos correspondientes.
+Son autoridades hacendarías las siguientes:
 
-Su integración se hará preferentemente por las secretarías o coordinaciones vinculadas a los temas sustanciales que atienden y se garantizará la participación en igualdad de condiciones de mujeres y hombres.
+I. El ayuntamiento;
 
-Las comisiones son enunciativas y no limitativas, y por ello, podrá solicitarse en su caso, la creación de alguna otra, en atención de los asuntos encomendados por el Comité Ejecutivo Estatal.
+II. El presidente municipal; y
 
-###### Artículo 103.
+III. La dependencia encargada de las finanzas públicas.
 
-La Comisión Permanente es el órgano encargado de la vigilancia, definición política, estratégica, operativa, electoral, normativa, de administración y de afiliación del partido político, y es la máxima autoridad en los recesos de la Asamblea General Estatal.
+###### ARTICULO 103.
 
-###### Artículo 104.
+La hacienda pública municipal se forma con los ingresos ordinarios y extraordinarios que determinen anualmente la Legislatura con base en los ordenamientos fiscales aplicables.
 
-La Comisión Permanente Estatal tendrá las siguientes funciones, facultades y obligaciones:
+###### ARTICULO 104.
 
-I. Dar seguimiento y verificar el buen cumplimiento de todos los acuerdos y directrices que se alcancen en el seno de las sesiones ordinarias o extraordinarias de la Asamblea Estatal;
+Los ingresos de los municipios se dividen en:
 
-II. Contribuir y auxiliar en todo momento a la Asamblea Estatal, al Comité Ejecutivo Estatal y las Comisiones e Instituto que conforman el partido político, así como establecer y supervisar que el Comité Ejecutivo Estatal, Directivos Estatales, Municipales y sus Comisiones e Instituto acaten y sigan las mismas acciones en el diseño e instrumentación de las acciones necesarias:
+I. Ordinarios: impuestos, derechos, productos, aprovechamientos, contribuciones especiales y participaciones en ingresos que establezcan las leyes respectivas así como los sistemas y convenios de coordinación suscritos para tal efecto; y
 
-A) Que fortalezcan el respeto a los Documentos Básicos y su debido cumplimiento;
+II. Extraordinarios: todos aquellos cuya percepción se autorice excepcionalmente para cubrir gastos eventuales o el importe de determinadas obras públicas, siempre y cuando estén previstas por la ley. Dentro de esta categoría quedan comprendidos los empréstitos o financiamientos adicionales.
 
-B) Que faciliten el cumplimiento de las directrices políticas definidas en la Asamblea Estatal; y,
+###### ARTICULO 105.
 
-C) Que establezca mecanismos para la toma de decisiones de coyuntura con la finalidad de adaptarse a los cambios rápidos en el contexto político nacional, local y regional.
-
-En los casos en los que la coyuntura política requiera de decisiones o acuerdos que signifiquen modificaciones a los Documentos Básicos o cambios sustanciales en las estrategias políticas adoptadas, se deberá convocar a una sesión extraordinaria de la Asamblea Estatal;
-
-III. Vigilar el desempeño del Comité Ejecutivo Estatal y de los Comités Directivos Municipales, acerca del Programa de Acción y del cumplimiento en materia de las obligaciones legales que imponen al partido político las leyes y la reglamentación de las autoridades administrativas electorales nacionales y locales;
-
-IV. Ordenar la realización de estudios especiales y evaluaciones sobre el desempeño del partido político, el posicionamiento de sus personas militantes y candidaturas y sobre la apreciación de sus dirigencias;
-
-V. Iniciar ante la Comisión de Honor y Justicia el procedimiento de remoción del cargo y, en su caso, expulsión del partido político, en contra de aquellas personas integrantes de los órganos de dirección estatal o municipal, por incumplimiento de sus obligaciones partidistas o no acatamiento de los acuerdos emitidos por la Asamblea Estatal o la propia Comisión Permanente Estatal;
-
-VI. Analizar y revisar los requisitos de elegibilidad de las personas aspirantes a cargos de elección popular haciendo llegar los dictámenes a la Presidencia para su consideración sobre su procedencia;
-
-VII. Solicitar, en su caso, al Instituto Electoral de Michoacán, la organización de la elección interna de la diligencia estatal del partido político o de sus órganos internos, en términos de la legislación aplicable;
-
-VIII. Nombrar a los Comités Ejecutivos Municipales y a quien corresponda de conformidad con los estatutos, en caso de que las asambleas municipales no lo hagan y/o conjuntamente con las mismas;
-
-IX. Determinar conjuntamente con el Comité Ejecutivo Estatal, la participación en los procesos electorales, mediante los acuerdos de participación y convenios de coalición, frentes y candidaturas comunes que se celebren con los partidos políticos y agrupaciones políticas; y,
-
-X. Las demás que expresamente le encomienden los presentes Estatutos o la Asamblea Estatal mediante acuerdo derivado de la celebración de Asambleas Ordinarias o Extraordinarias.
-
-###### Artículo 105.
-
-La Comisión Permanente Estatal se integrará por una Presidencia, una Secretaría Técnica y dos vocalías con sus respectivas suplencias, designadas por la Asamblea Estatal.
-
-La persona titular de la Secretaría Técnica de la Comisión Permanente Estatal, tendrá voz, pero no voto en las sesiones.
-
-La persona que ostente la Presidencia del Comité Ejecutivo Estatal podrá ser designada como integrante de la Comisión Permanente Estatal, pero existe incompatibilidad respecto de la Presidencia de ésta última, por lo que no podrá ostentar ambos cargos.
+La Dependencia Encargada de las Finanzas Públicas, efectuará la determinación, liquidación y recaudación de los ingresos municipales, de conformidad con lo establecido en la presente Ley, la General de Hacienda de los Municipios de Querétaro, el Código Fiscal del Estado y demás ordenamientos legales aplicables.
 
 ### CAPÍTULO TERCERO. DE LA LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS
 
-###### Artículo 106.
+###### ARTICULO 106.
 
-El nombramiento y duración de las personas integrantes de la Comisión Permanente se sujetarán a los siguientes lineamientos:
+El titular de la dependencia encargada de las finanzas públicas es el responsable de la elaboración de los proyectos de iniciativa de Ley de Ingresos y del Presupuesto de Egresos del municipio.
 
-Las personas designadas como comisionadas durarán en su encargo un período de cinco años y podrán ser ratificadas en su encargo hasta por un período más.
+###### ARTICULO 107.
 
-Las personas integrantes de la Comisión Permanente Estatal sólo podrán ser removidas de su encargo mediante determinación de la Comisión de Honor y Justicia por violaciones graves a las normas estatutarias, a través del procedimiento de la denuncia que formulen el resto de las personas integrantes del propio órgano.
+Para la elaboración de la Ley de Ingresos, el Titular de la dependencia encargada de las finanzas públicas presentará al Ayuntamiento, a más tardar el día primero de noviembre, un proyecto de iniciativa de Ley, en el cual hará acopio de la información económica y contable del ejercicio anterior, así como de los factores generales que reflejen la situación económica del municipio y la región.
 
-En caso de que alguna de las personas integrantes de esta Comisión renuncie de manera formal o tácita al partido político o a la Comisión, o en los casos de ausencia definitiva de las o los titulares y suplentes, se procederá en los términos de los presentes Estatutos a designar a quien le sustituya para ocupar el cargo por el período que corresponda.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2004)</small>
 
-###### Artículo 107.
+###### ARTICULO 108.
 
-Tendrán como atribuciones adicionales las siguientes:
+El Ayuntamiento deberá formular la iniciativa de Ley de Ingresos correspondiente, la cual se turnará a más tardar el 30 de Noviembre a la Legislatura. El Ayuntamiento que incumpla esta disposición será sancionado de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
-I. Definir la estrategia política, operativa, electoral, normativa, de administración y de afiliación del partido político en los períodos de receso de la Asamblea Estatal;
+La Legislatura del Estado resolverá lo conducente a más tardar el 15 de diciembre.
 
-II. Aprobar, modificar, derogar o abrogar, los reglamentos, normas complementarias y lineamientos que pudieran derivar de los presentes Estatutos; y una vez hecho lo anterior, se deberán aprobar ante Asamblea Estatal;
+###### ARTICULO 109.
 
-III. Cumplir y hacer cumplir todos los acuerdos y directrices que se dicten en el seno de la Asamblea Estatal;
+La estructura de la iniciativa de Ley de Ingresos para el municipio, contendrá:
 
-IV. Revisar los informes que le someta el Comité Ejecutivo Estatal y tomar acuerdos con este Comité sobre las acciones pertinentes para facilitar la solución de los problemas que se enfrenten, así como conocer de los informes que en su oportunidad presenten y/o las soluciones que, en su caso, se hubieran decidido y/o tomado los Comités Directivos Municipales;
+I. Clasificación de los ingresos municipales, siguiendo lo previsto en la Ley General de Hacienda de los Municipios;
 
-V. Aprobar los informes y dictámenes que emita y le deba remitir el Comité Ejecutivo Estatal, conforme a lo establecido en estos Estatutos;
+II. La determinación de la estimación de los ingresos por cada rubro y concepto en forma global;
 
-VI. Contribuir, auxiliar y supervisar en todo momento a los órganos de dirección y de apoyo del partido político en sus distintos niveles de organización, conforme a los Documentos Básicos y respecto del cumplimiento de las obligaciones que constitucional, legal y reglamentariamente les correspondan;
+III. El sistema de clasificación decimal para los diversos rubros;
 
-VII. Revisar y validar, en su caso, el informe sobre aspectos administrativos y de recursos financieros que en cada sesión ordinaria debe presentar el Comité Ejecutivo Estatal;
+IV. Los supuestos, claros y específicos de las fuentes de ingresos, y
 
-VIII. Establecer una agenda de revisión de avances con el Comité Ejecutivo Estatal, a fin de poder brindarle asistencia para el adecuado cumplimiento de sus tareas;
+V. Las normas de tasación flexibles entre un mínimo y un máximo.
 
-IX. Revisar, del Comité Ejecutivo Estatal, el informe sobre la situación general del partido político TIEMPO X MÉXICO, que se presentará por escrito de forma anual y que por lo menos contendrá:
+###### ARTICULO 110.
 
-A) Los informes sobre la situación del cumplimiento de los acuerdos y directrices establecidos en la Asamblea Estatal;
+Las diferentes dependencias y oficinas del gobierno municipal, previa solicitud de la dependencia encargada de las finanzas públicas, deberán turnar a ésta sus propuestas del Proyecto de Presupuesto de Egresos, a más tardar el día quince de noviembre. El titular de la dependencia aludida, presentará al ayuntamiento, a más tardar el día primero de diciembre, el Proyecto de Presupuesto de Egresos para su estudio, y en su caso aprobación con base en la estimación de los ingresos contenidos en la iniciativa de Ley de Ingresos.
 
-B) El cumplimiento por el Comité Ejecutivo Estatal y las y los Directivos Municipales, de sus respectivos Programas de Acción, que para el efecto remitan al Comité Ejecutivo Estatal, de acuerdo con estos Estatutos los demás Comités señalados;
+###### ARTICULO 111.
 
-C) El cumplimiento de las obligaciones legales que competen al partido político y a sus personas dirigentes;
+El ayuntamiento por conducto de su Secretario, tan pronto reciba el Proyecto de Presupuesto de Egresos, lo turnará a la Comisión de Hacienda Patrimonio y Cuenta Pública para que, en un plazo de ocho días, lo estudie y emita el dictamen respectivo.
 
-D) El informe administrativo y el de recursos financieros, que incluirá un apartado sobre el origen y aplicación de los recursos del partido político TIEMPO X MÉXICO, haciendo la distinción entre el financiamiento público y el financiamiento privado. Éste último deberá de ser por los montos establecidos en las normas estatales correspondientes, la Ley General de Partidos Políticos, lineamientos expedidos por el Instituto Electoral de Michoacán y derivará de las aportaciones de las personas militantes, simpatizantes, autofinanciamiento, rendimientos financieros, fondos o fideicomisos constituidos como inversiones por el propio partido político;
+###### ARTICULO 112.
 
-E) La situación de la competitividad política del partido político, sus liderazgos y sus personas dirigentes;
+En la formulación del Presupuesto de Egresos podrá observarse, en lo aplicable, las normas relativas de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado o los lineamientos siguientes:
 
-X. Aprobar y evaluar los trabajos tendientes a incrementar el número de las y los militantes del partido político en el estado; los programas de capacitación política y de divulgación editorial a cargo del comité encargado de la Formación y Capacitación Política, los programas de posicionamiento, imagen y comunicación del partido político y de sus activistas, así como verificar el alcance de las metas que se hayan establecido en los mismos, el plan de trabajo y el presupuesto que le presente el Comité Ejecutivo Estatal;
+I. La presupuestación del gasto público municipal deberá sujetarse a los objetivos y prioridades que señale el Plan de Desarrollo Municipal y sus programas atendiendo a los principios de racionalidad, austeridad y disciplina;
 
-XI. Acordar con las personas titulares de diputaciones locales, presidentes o presidentas municipales y con la comisión correspondiente que representen al partido político en la Legislatura que corresponda, la propuesta de las acciones a realizar para el cumplimiento de la Agenda Legislativa sugerida por la Asamblea Estatal,
+II. Sólo habrá un Presupuesto, las modificaciones de partidas, una vez aprobado aquél, deberán sujetarse a la aprobación del Ayuntamiento;
 
-XII. Acordar con las personas titulares del Poder Ejecutivo Estatal, emanados del partido político y con la comisión correspondiente, las acciones que, en su caso, pueden realizarse para acreditar la Agenda Social sugerida por la Asamblea estatal;
+III. Todos los gastos públicos deberán consignarse en el Presupuesto o en modificaciones al mismo;
 
-XIII. Verificar que las personas integrantes del Comité Ejecutivo Estatal, Comités Municipales, así como las personas militantes, adherentes y simpatizantes, trabajen de manera complementaria y coordinada, dando prioridad a la cercanía con la sociedad y realizando acciones efectivas de gestión social con apego a los principios y valores ideológicos del partido político;
+IV. Las autorizaciones presupuestales del gasto no se formularán en forma general, sino por partidas detalladas y específicas, sin perjuicio de agruparlas en partidas globales;
 
-XIV. Crear las Comisiones estatales especiales de actuación temporal que sean necesarias para realizar trabajos concretos en materia de:
+V. Preferentemente que el total de sueldos, salarios y prestaciones al personal, no exceda del 33% del total del presupuesto;
 
-A) Análisis del contexto político;
+VI. Preferente que la inversión en obra pública sea de por lo menos el equivalente al 30% del ingreso total;
 
-B) Auscultación política para identificar liderazgos fuertes;
+VII. Se clasificarán los gastos públicos para facilitar su formulación, ejecución, contabilización y evaluación; y
 
-C) Medición de la competitividad política de las personas integrantes del partido político;
+VIII. Clasificará como grupos fundamentales de la autorización del gasto público los capítulos de servicios personales y generales; materiales y suministros; maquinaria, mobiliario y equipo; adquisición de muebles e inmuebles; construcciones; transferencias; deuda pública, y asignaciones globales suplementarias. Estos capítulos se agruparán en forma de gasto corriente, de inversión y deuda pública.
 
-D) Conciliación de posturas entre las personas integrantes del partido político o en las relaciones con otras fuerzas políticas y sociales; y,
+###### ARTICULO 113.
 
-E) Otras que contribuyan al fortalecimiento de la competitividad política del partido político en una demarcación, región o zona de actividad.
+Aprobada la Ley de Ingresos por la Legislatura, el Ayuntamiento aprobará su Presupuesto de Egresos, el cual será publicado en los términos de la Presente Ley. Cuando por cualquier causa no se haya aprobado la Ley de Ingresos o el Presupuesto de Egresos que corresponda, continuará en vigor lo que se encuentre vigente en ese momento, hasta en tanto se aprueben los que correspondan a ese ejercicio fiscal.
 
-XV. Resolver respecto de la disolución de los órganos de dirección o de apoyo de las entidades federativas, previo procedimiento y dictamen de la Comisión de Honor y Justicia, en el que se garantice la audiencia y debido proceso, analizando de manera individual o conjunta la actualización de las siguientes hipótesis:
+###### ARTICULO 114.
 
-A) Disminución o falta de avance en los resultados electorales;
+Corresponde al presidente y al titular de la Dependencia Encargada de las Finanzas Públicas del municipio, la ejecución (sic) su Presupuesto de Egresos.
 
-B) Pugnas internas entre los órganos de dirección o apoyo, que generen hechos de violencia o conflictos que afecten la unidad entre las personas militantes del partido político;
+###### ARTICULO 115.
 
-C) Incumplimiento a las resoluciones, instrucciones o acuerdos que dicten los órganos de dirección y de apoyo nacional, o que perjudiquen las directrices establecidas en los planes de trabajo y programas de operación del partido político;
+El presupuesto de egresos será aprobado por el Ayuntamiento con base en sus ingresos disponibles.
 
-D) Ineficacia en la conducción y operación de los órganos de dirección y de apoyo que imposibiliten su normal funcionamiento, a solicitud de las dos terceras partes de los comités directivos municipales. El reglamento respectivo establecerá las exigencias que deba cumplir la solicitud y el procedimiento respectivo;
-
-E) Incurrir en actos deshonestos al hacer uso de sus atribuciones y facultades, que contraríen los principios de imparcialidad, equidad y paridad en los procesos de selección interna de candidaturas, atendiendo al cumplimiento de la normativa aplicable; e,
-
-F) Incumplir u obstaculizar la realización de las sesiones que como órganos de dirección o de apoyo deben de materializar en la periodicidad que la normativa partidista establezca.
-
-XVI. Asignar tareas políticas a las personas que se hubieran distinguido dentro del partido político para realizar acciones de acercamiento y búsqueda de convergencias políticas con otras fuerzas políticas o con agrupaciones sociales de alta presencia en la comunidad;
-
-XVII. Proponer a la Asamblea Estatal la necesidad de convocar al nombramiento de Delegadas o Delegados Especiales para acordar sobre temas específicos que requieran representación ampliada;
-
-XVIII. Proponer modificaciones a los Documentos Básicos para adecuarse a las modificaciones legales, estratégicas o funcionales del ejercicio democrático en el país;
-
-XIX. Solicitar, en su caso, al Instituto Electoral de Michoacán, la organización de la elección interna de la dirigencia estatal del partido político TIEMPO X MÉXICO, en conjunto son la comisión correspondiente;
-
-XX. Aprobar los nombramientos de las personas representantes del partido político ante los órganos electorales;
-
-XXI. En todo momento podrá proponer a la Asamblea Estatal el inicio del procedimiento de disolución de cualquiera de los órganos estatutarios, en atención a la evaluación del desempeño que se lleve a cabo de forma periódica o por faltas graves a los presentes estatutos o a la normativa partidista interna; y,
-
-XXII. Las demás que le confiera la Asamblea Estatal, se deduzcan de las anteriores o deriven de estos Estatutos.
-
-###### Artículo 108.
-
-Esta comisión es un órgano de decisión colegiada, responsable de la impartición de justicia interna del partido y deberá conducirse con independencia, imparcialidad y legalidad; asimismo deberá substanciar cualquier procedimiento con perspectiva de género, respetando los plazos previstos en estos estatutos.
-
-Asimismo, atenderá los asuntos de conducta y comportamiento de la militancia, y resolverá la aplicación de sanciones, salvo las que le corresponde a una instancia superior y hacer respetar los Documentos Básicos del partido, bajo los principios de independencia, imparcialidad, legalidad y objetividad.
-
-###### Artículo 109.
-
-Todas las controversias relacionadas con los asuntos internos del partido político serán resueltas por los órganos establecidos en sus estatutos para tales efectos, debiendo resolver en tiempo para garantizar los derechos de las y los militantes. Sólo una vez que se agoten los medios de defensa las y los militantes tendrán derecho de acudir ante el Tribunal.
-
-###### Artículo 110.
-
-La Comisión de Honor y Justicia será nombrada y sustituida parcial o totalmente por el Comité Ejecutivo Estatal para asegurar el correcto desarrollo del partido.
-
-La Comisión de Honor y Justicia estará integrada por una Presidencia, una Secretaría técnica y dos vocalías con sus respectivas personas suplentes, quienes emanarán de la Asamblea Estatal, y se ratificarán por la misma, todos sus acuerdos deberán de ser aprobados por dos terceras partes de sus integrantes.
-
-Se procurará que al menos una persona integrante conozca sobre los mecanismos alternativos de solución de controversias.
-
-###### Artículo 111.
-
-La Comisión de Honor y Justicia tendrá las siguientes funciones, facultades y obligaciones:
-
-I. Examinar los casos de faltas a la disciplina;
-
-II. Analizar los casos que por encargo de la Coordinación Ejecutiva Estatal deba instalarle procedimiento;
-
-III. Analizar las denuncias o quejas que por solicitud expresa realice alguna persona de la militancia;
-
-IV. Notificar a la persona de la militancia correspondiente, sobre algún procedimiento disciplinario;
-
-V. Otorgar garantía de audiencia;
-
-VI. Dar a conocer las acusaciones a la persona militante involucrada;
-
-VII. Recibir y analizar las pruebas y alegatos presentados;
-
-VIII. Aplicar las sanciones que al caso correspondan;
-
-IX. Atraer de oficio cualquier asunto que considere de importancia y dentro de su ámbito de competencia;
-
-X. Garantizar en sus resoluciones y en todas las etapas del proceso la igualdad, equidad, transparencia, paridad y legalidad;
-
-XI. Aplicar en todas sus resoluciones la perspectiva de género;
-
-XII. Sus decisiones serán inapelables e irrevocables, con independencia del derecho que tienen las personas militantes a impugnarlas ante el Tribunal Electoral del Estado cuando se afecten sus derechos político-electorales, y,
-
-XIII. La Comisión de Honor y Justicia responde de sus actos y decisiones solamente ante el Comité Ejecutivo Estatal y la militancia está obligada a colaborar con ella.
-
-###### Artículo 112.
-
-Esta comisión de decisión colegiada, democráticamente integrada, es la responsable de la organización de los procesos para la integración de los órganos internos del partido político y para la selección de candidaturas a cargos de elección popular.
-
-###### Artículo 113.
-
-La Comisión estará integrada por una Presidencia, una Secretaría Técnica y dos vocalías con sus respectivas suplencias, quienes emanarán de la Asamblea Estatal, y se ratificarán por la misma, todos sus acuerdos deberán de ser aprobados por dos terceras partes de sus integrantes. Quienes integren la Comisión durarán en su encargo un periodo de cinco años.
-
-Para la postulación de candidaturas a cargos internos y cargos de elección popular con respecto al nivel que corresponda, se realizarán asambleas electivas y se aplicarán los principios de igualdad sustantiva y se garantizará la paridad de género en la integración de las propuestas.
-
-###### Artículo 114.
-
-Los procedimientos internos para la integración de los órganos internos del partido político y para la postulación de sus candidatos o candidatas a cargos de elección popular, estarán a cargo de la Comisión Electoral y de Procesos Internos y se desarrollarán con base en los lineamientos siguientes:
-
-a) La Comisión Electoral y de Procesos Internos publicará la convocatoria en la forma que otorgue certidumbre y cumpla con las normas estatutarias, la cual contendrá, por lo menos, lo siguiente:
-
-I. Cargos o candidaturas a elegir;
-
-II. Requisitos de elegibilidad, entre los que se podrán incluir los relativos a la identificación de las y los precandidatos o las y los candidatos con los programas, principios e ideas del partido y otros requisitos, siempre y cuando no vulneren el contenido esencial del derecho a ser votado;
-
-III. Fechas de registro de precandidaturas o candidaturas;
-
-IV. Documentación a ser entregada;
-
-V. Periodo para subsanar posibles omisiones o defectos en la documentación de registro;
-
-VI. Reglas generales y topes de gastos de campaña para la elección de dirigentes y de precampaña para cargos de elección popular, en los términos que establezca el Instituto;
-
-VII. Método de selección, para el caso de voto de las personas militantes, éste deberá ser libre y secreto;
-
-VIII. Fecha y lugar de la elección;
-
-IX. Fechas en las que se deberán presentar los informes de ingresos y egresos de campaña o de precampaña, en su caso.
-
-###### Artículo 115.
-
-Son funciones, facultades y obligaciones de la Comisión Electoral y de Procesos Internos, con independencia de las demás previstas en los Estatutos, las siguientes:
-
-En asuntos electorales:
-
-I. Registrar a las y los precandidatos o a las y los candidatos y dictaminar sobre su elegibilidad;
-
-II. Garantizará la imparcialidad, igualdad, equidad, transparencia, paridad y legalidad de las etapas del proceso;
-
-III. Rendir semestralmente a la Comisión Estatal Permanente el informe anual de sus actividades;
-
-IV. Presentar a la Comisión Estatal Permanente un programa anual de trabajo;
-
-V. Diseñar estrategias para el posicionamiento político y la construcción de plataformas electorales de alto impacto social;
-
-VI. Proponer a la asamblea Estatal, la necesidad de convocar al nombramiento de personas que funjan como delegadas o delegados especiales para acordar sobre temas específicos que requieran representación ampliada;
-
-VII. Dirigir las estrategias electorales del partido político, en coordinación con la Secretaría de Asuntos Electorales, en el ámbito de sus funciones;
-
-VIII. Conocer y validar la plataforma electoral para los procesos electorales, acorde con los documentos básicos del partido;
-
-IX. Aprobar, cuando la ley de la materia así lo permita, todo lo relativo a la celebración de coaliciones con uno o más partidos políticos, en su caso, el convenio de las candidaturas comunes; la declaración de principios, programa de acción y estatutos de la coalición, el programa de gobierno de las candidaturas, planillas y fórmulas de las personas candidatas por ambos principios;
-
-X. Coadyuvar en la aprobación de la nominación de las candidaturas;
-
-XI. Coadyuvar en la aprobación de las fórmulas de candidaturas a diputaciones por los principios de mayoría relativa y de representación proporcional;
-
-XII. Conocer, aprobar y, en su caso, modificar la convocatoria para la selección y postulación de candidaturas a puestos de elección popular;
-
-XIII. Elaborar y aprobar las propuestas de convenios para apoyar candidaturas comunes, de coalición y formación de frentes;
-
-XIV. En los casos en los que la coyuntura política requiera de decisiones o acuerdos urgentes que signifiquen modificaciones a los documentos básicos, cambios sustanciales en las estrategias políticas adoptadas o se someta a aprobación la suscripción de convenios para apoyar candidaturas comunes, de coalición y formación de frentes, se deberá convocar a una sesión extraordinaria de la asamblea estatal; y
-
-En procesos internos:
-
-XV. Organizar, conducir y validar el proceso de elección de dirigencias y selección y postulación de aspirantes a candidaturas a cargos de elección popular, aplicando las normas que rigen el procedimiento, contenidas en estos Estatutos, el Reglamento de Procesos Internos, si lo hubiere, y en la convocatoria correspondiente;
-
-XVI. Establecer los mecanismos, formas y procedimientos para la selección interna de las candidaturas a participar en las contiendas electorales, cuando así corresponda;
-
-XVII. Elaborar las convocatorias para los procesos de elección de personas dirigentes y selección y postulación (sic) aspirantes a candidaturas, sometiéndolas a la aprobación de la Comisión Permanente Estatal para su publicación;
-
-XVIII. Las convocatorias a que hace referencia la fracción inmediata anterior, a fin de que otorguen certidumbre y cumplan con las normas estatutarias, contendrá, por lo menos, lo siguiente:
-
-1. Cargos o candidaturas a elegir.
-
-2. Requisitos de elegibilidad, entre los que se podrán incluir los relativos a la identificación de las precandidaturas o candidaturas con los programas, principios e ideas del partido políticos (sic) y otros requisitos, siempre y cuando no vulneren el contenido esencial del derecho a ser votado y votada.
-
-3. Fechas de registro de precandidaturas o candidaturas.
-
-4. Documentación requerida.
-
-5. Periodo para subsanar posibles omisiones en la documentación para el registro.
-
-6. Reglas generales y topes de gastos de campaña para la elección de personas dirigentes y de precampaña para cargos de elección popular, en los términos que establezca el Instituto Electoral de Michoacán u órgano electoral competente.
-
-7. Método de selección, para el caso de voto de las personas militantes, éste deberá ser libre y secreto.
-
-8. Fecha y lugar de la elección.
-
-9. Fechas en las que se deberán presentar los informes de ingresos y egresos de campaña o de precampaña, en su caso.
-
-XIX. Recibir, analizar y dictaminar sobre el registro de aspirantes a puestos de dirección y de elección popular y revisar los requisitos de elegibilidad;
-
-XX. Certificar la validez de la elección de las personas delegadas electas por la asamblea estatal;
-
-XXI. Calificar y validar los procesos de elección de personas dirigentes y selección y postulación de candidaturas;
-
-XXII. Elaborar los manuales de organización, formatos, documentación y material electoral que garanticen el desarrollo de procesos de elección de las personas dirigentes y selección y postulación de candidaturas, apegados a los principios de legalidad, equidad, transparencia, certeza, objetividad, imparcialidad y paridad;
-
-XXIII. Calificar la elección y anunciar las personas que fueron las triunfadoras en el proceso de que se trate, así como emitir las constancias que correspondan:
-
-1. En el caso de dirigencias, a las personas que resulten triunfadoras, a fin de continuar con el proceso de renovación.
-
-2. En el caso de candidaturas, a las personas aspirantes triunfadoras, a fin de que se les otorguen los registros ante las autoridades electorales.
-
-XXIV. Presentar a la Comisión Permanente Estatal el informe del desarrollo del proceso de la elección de personas dirigentes y postulación de candidaturas, así como el informe anual de actividades;
-
-XXV. Someter a la Comisión Permanente Estatal, a través de la Presidencia del Comité Ejecutivo Estatal, las adiciones o reformas que considere necesarias al Reglamento de la Comisión Estatal de Procesos Internos; y,
-
-XXVI. Las demás que le otorguen la Asamblea Estatal, la Comisión Permanente Estatal, los Estatutos y la normativa aplicable.
-
-## TÍTULO VII. DEL COMITÉ DE ADMINISTRACIÓN Y FINANZAS
+## TÍTULO VII. DEL DESARROLLO MUNICIPAL, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS
 
 ### CAPÍTULO PRIMERO. DEL DESARROLLO MUNICIPAL
 
-###### Artículo 116.
+###### ARTICULO 116.
 
-Cuando la Asamblea General Estatal, la comisión permanente o el Consejo Directivo Estatal, consideren que, para el pleno cumplimiento y respeto de las garantías y derechos político electoral de las personas afiliadas al partido, se requiera la intervención del órgano electoral, el partido político podrá solicitar al Instituto Electoral de Michoacán, que organice la elección de sus órganos de dirección, con base en sus estatutos, reglamentos, procedimientos, y con cargo a sus prerrogativas. Esto, dentro de los plazos y procedimientos previstos por la ley y normatividad aplicable.
+Para el cumplimiento de sus fines y aprovechamiento de sus recursos, los ayuntamientos formularán sus respectivos Planes Municipales de Desarrollo y sus programas sectoriales, territoriales y especiales, de acuerdo con lo dispuesto por la Ley de Planeación, el Código Urbano y los demás ordenamientos aplicables.
 
-Para la organización y el desarrollo de este proceso de elección, se aplicarán las reglas siguientes:
+###### ARTICULO 117.
 
-a) El órgano interno del partido facultado para llevar a cabo el precitado procedimiento y solicitud al Instituto Electoral, será la Comisión Electoral y de Procesos Internos;
+El Plan de Desarrollo Municipal es el instrumento para el desarrollo integral de la comunidad, el cual contendrá:
 
-b) El partido político presentará al Instituto la solicitud de apoyo por conducto del Comité Ejecutivo Estatal, cuatro meses antes del vencimiento del plazo para la elección del órgano de dirección que corresponda. En caso de que, por controversias planteadas ante tribunales, el plazo de renovación de un órgano de dirección se hubiere vencido, el partido político podrá solicitar al Instituto, organice la elección fuera del plazo señalado en el párrafo anterior;
+I. Los objetivos generales, estrategias, metas y prioridades de desarrollo integral del municipio.
 
-c) El partido sólo podrán (sic) solicitar la colaboración del Instituto durante periodos no electorales;
+II. Las previsiones sobre los recursos que serán asignados a tales fines.
 
-d) El partido político acordará con el Instituto los alcances de su participación, así como las condiciones para la organización y desarrollo del proceso, las cuales deberán estar apegadas a lo establecido en estos Estatutos y reglamentos del partido político;
+III. Los instrumentos, áreas responsables y plazos de ejecución.
 
-e) En el acuerdo se establecerán los mecanismos para que los costos de organización del proceso, en los cuales podrá incluirse la eventual contratación por obra determinada de personal por parte del Instituto para tal fin, sean con cargo a las prerrogativas del partido político;
+IV. Los lineamientos de política de carácter global sectorial y de servicios municipales.
 
-f) La Comisión Permanente se coordinará con el Instituto para el desarrollo del proceso;
+Previa consulta a la ciudadanía el Ayuntamiento expedirá el Plan de Desarrollo Municipal correspondiente a su gestión, dentro de los primeros tres meses de su ejercicio. Éste cuerpo colegiado y el Presidente Municipal serán responsables de la omisión a lo establecido en el presente artículo.
 
-g) La elección se realizará preferentemente con el apoyo de medios electrónicos para la recepción de la votación; y,
+###### ARTICULO 118.
 
-h) Si el Instituto rechaza la solicitud por imposibilidad material para organizar la elección interna, deberá prevenir su organización conforme a los demás métodos previstos en los Estatutos.
+El Plan de Desarrollo Municipal y los programas que de este se deriven serán obligatorios para las dependencias, organismos y unidades de la administración pública municipal. Cuando lo demande el interés social o lo requieran las circunstancias de tipo técnico o económico, los planes y programas podrán ser reformados o adicionados a través del mismo procedimiento que se siguió para su aprobación.
 
-###### Artículo 117.
+###### ARTICULO 119.
 
-Esta comisión es la responsable de cumplir con las obligaciones de transparencia y acceso a la información que la Constitución y las leyes de la materia imponen a los partidos políticos.
+Los planes y programas de los ayuntamientos se elaborarán por tiempo determinado y se ejecutarán con arreglo a la prioridad y urgencia de las necesidades por satisfacer. Cuando en la ejecución de tales Planes y Programas se llegaren a afectar bienes inmuebles propiedad del municipio, o se comprometa su erario por un término mayor al de la gestión constitucional de que se trate, se requerirá la aprobación de dos terceras partes del Ayuntamiento.
 
-###### Artículo 118.
+###### ARTICULO 120.
 
-La Comisión estará integrada por una Presidencia, una Secretaría Técnica y dos vocalías con sus respectivas suplencias, quienes emanarán de la Asamblea Estatal, y se ratificarán por la misma, todos sus acuerdos deberán ser aprobados por dos terceras partes de sus integrantes. Quienes integren la Comisión durarán en su encargo un periodo de cuatro años.
-
-###### Artículo 119.
-
-La Comisión de Transparencia, acceso a la información y protección de datos personales, tiene las siguientes funciones, facultades y obligaciones:
-
-I. Recibir y tramitar las solicitudes de información pública que se reciban en el partido, debiendo remitir mensualmente al Comité Ejecutivo Estatal un informe detallado de los asuntos tramitados;
-
-II. Establecer comunicación y coordinación permanente con los órganos y dependencias del Instituto Electoral de Michoacán, así como con el Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Michoacán e instituciones correspondientes;
-
-III. Auxiliar a los órganos y dependencias del partido en el proceso de clasificación y desclasificación de la información;
-
-IV. Requerir a los órganos del partido, la información pública fundamental y difundirla a través de la página de internet oficial;
-
-V. Proponer a la Secretaría General los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la legislación aplicable;
-
-VI. Hacer entrega en cualquier momento al Instituto Electoral de Michoacán, de la información, registros o documentos que esté, en ejercicio de sus funciones, le requiera;
-
-VII. Revisar, validar y registrar los contratos o convenios suscritos por las Secretarías, o la Comisión Permanente Estatal, con personas físicas o morales;
-
-VIII. Colaborar en la modificación de sus documentos básicos y normatividad interna;
-
-IX. Elaborar los planes y programas de capacitación en materia de transparencia, acceso a la información y protección de datos para el partido;
-
-X. Elaborar lineamientos y aplicar mecanismos para la clasificación, administración y conservación de los acervos documentales del partido;
-
-XI. Requerir a los órganos o áreas internas del partido la información que posean, vinculada con las obligaciones que legalmente le corresponde publicar en el portal de internet;
-
-XII. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información pública;
-
-XIII. Aplicar el Reglamento de la Comisión Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales, para atender las solicitudes de la ciudadanía;
-
-XIV. Recibir y dar trámite a las solicitudes de acceso a la información, efectuando los trámites internos necesarios para proporcionar la información que se le solicite y hacer las notificaciones pertinentes;
-
-XV. Establecer los modelos de formatos para la solicitud de información, apoyando a las personas particulares en todo lo que se le requiera para el correcto llenado de los mismos;
-
-XVI. Confirmar, modificar o revocar las determinaciones que, en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia realicen las personas titulares de las Secretarías y Comisiones del partido político;
-
-XVII. Solicitar a las Secretarías y/o Comisiones del partido político la información que posean para atender las solicitudes de acceso a la información pública;
-
-XVIII. Mantener actualizados sus sistemas de archivos y gestión documental, así como las bases de datos personales, conforme a la normatividad aplicable;
-
-XIX. Diseñar e implementar políticas y dar seguimiento a las obligaciones del partido político en materia de transparencia y acceso a la información y protección de datos personales, incluyendo los sitios de internet;
-
-XX. Instaurar medidas de seguridad y mecanismos para la protección de los datos personales de las personas militantes, incluyendo su acceso, rectificación, cancelación y oposición en los términos previstos en la ley de la materia;
-
-XXI. Garantizar la protección y resguardo de la información clasificada como reservada o confidencial;
-
-XXII. Coordinar, supervisar y realizar las acciones necesarias para garantizar el derecho a la protección de los datos personales en el partido político;
-
-XXIII. Solicitar y autorizar la ampliación del plazo de reserva de la información a que se refiera la normatividad correspondiente;
-
-XXIV. Notificar a la Presidencia del Comité Ejecutivo Estatal y a la Comisión Permanente Estatal de alguna presunta irregularidad en el cumplimiento de la normatividad en materia de transparencia, acceso a la información y protección de datos personales que realicen las personas funcionarias intrapartidarias, dirigentes y personal del partido político en casos relacionados con la declaración de inexistencia;
-
-XXV. Mantener actualizada la página de internet del partido conforme a las disposiciones de la materia, y realizar las acciones y gestiones necesarias, ante las distintas instancias del partido político y que les corresponda, para que así suceda;
-
-XXVI. Presentar al Comité Ejecutivo Estatal el informe anual de actividades;
-
-XXVII. Someter a la Comisión Permanente Estatal a través de la Presidencia del Comité Ejecutivo Estatal, las adiciones o reformas que consideren necesarias al Reglamento de la Comisión Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales; y,
-
-XXVIII. Las que determinen las leyes en materia de transparencia y en materia electoral, tanto generales como locales, los presentes estatutos y las que se deduzcan de sus funciones.
-
-###### Artículo 120.
-
-Esta comisión es el órgano encargado de la educación y capacitación cívica, a través de programas permanentes, de su militancia, personas afiliadas, juventud, simpatizantes y dirigencia, la Comisión forma parte de la estructura orgánica del Instituto de Educación, Capacitación Cívica y Formación Política.
-
-Asimismo, contribuye con la elaboración de los diseños de los cursos, talleres, diplomados y demás actividades académicas y profesionales, los cuales serán sometidos a la aprobación del Comité Ejecutivo Estatal.
+Los actos de elaboración, preparación, aprobación y ejecución de los planes y programas de referencia, estarán a cargo de los gobiernos municipales y de los órganos o funcionarios que determinen los ayuntamientos, en lo que no contravengan las disposiciones de esta Ley.
 
 ### CAPÍTULO SEGUNDO. DE LOS ASENTAMIENTOS HUMANOS
 
-###### Artículo 121.
+###### ARTICULO 121.
 
-La comisión estará integrada por una Presidencia, una Secretaría Técnica y dos vocalías con sus respectivas personas suplentes, quienes emanarán de la Asamblea Estatal, y se ratificarán por la misma, todos sus acuerdos deberán de ser aprobados por mayoría simple de sus integrantes. Las y los integrantes de la Comisión durarán en su encargo un periodo de cinco años.
+Los ayuntamientos concurrirán con los gobiernos federal y estatal en la ordenación y regulación de los asentamientos humanos, con base en los Planes Nacional, Estatal y Municipales de Desarrollo Urbano y en el de Ordenación de las Zonas Conurbadas, proveyendo en la esfera de su competencia lo necesario para la elaboración y cumplimiento de dichos Planes, así como al cumplimiento de las disposiciones del Código Urbano para el Estado.
 
-###### Artículo 122.
+###### ARTICULO 122.
 
-Esta comisión tiene como funciones, facultades y obligaciones, las de aprobar la gestión de convenios transitorios o permanentes con otras organizaciones, para desarrollar actividades complementarias como congresos, concursos, debates y demás eventos académico-políticos que se requieran para la formación de cuadros; expedir constancias de participación en las diferentes actividades que realiza; proponer y aprobar los manuales que sean necesarios para el desarrollo y funcionamiento del partido; elaborar y ejecutar programas permanentes para la educación y capacitación cívica, de las y los militantes del partido, las personas afiliadas, la juventud, simpatizantes y dirigencia; coadyuvar con las funciones y facultades del Instituto de Educación, Capacitación Cívica y Formación Política.
+Para la planeación y ordenación de los asentamientos humanos, de conformidad con el Código Urbano para el Estado, los ayuntamientos tendrán la siguiente competencia:
 
-###### Artículo 123.
+I. Participar de manera coordinada con la Secretaría de Desarrollo Urbano, Obras Públicas, en materia de Desarrollo Urbano y asentamientos humanos;
 
-El Instituto de Educación, Capacitación Cívica y Formación Política es el órgano responsable de formar y capacitar permanentemente a las personas afiliadas, militantes, dirigentes y candidatas del Partido.
+II. Participar en la planeación y regulación de las zonas conurbadas, en los términos que establezcan los convenios respectivos;
 
-###### Artículo 124.
+III. Celebrar convenios con la Federación, Entidades Federativas y otros municipios, para apoyar los objetivos y finalidades propuestas en los Planes de Desarrollo Urbano, conurbación, asentamientos humanos y los demás que se realicen dentro de sus municipios;
 
-La formación y capacitación del Instituto deberá incluir un enfoque con perspectiva de género, no discriminación y respeto a los derechos humanos.
+IV. Prever, en forma coordinada con la Secretaría de Desarrollo Urbano y Obras Públicas, lo relativo a inversiones y acciones tendientes a regular, conservar y mejorar el crecimiento y desarrollo de los centros de población;
 
-###### Artículo 125.
+V. Coadyuvar en la ejecución del Plan Estatal de Desarrollo Urbano;
 
-El Instituto se integrará por una persona titular que será designada de manera colegiada por el Comité Ejecutivo Estatal y la Comisión de Educación y Capacitación Cívica. La duración del encargo del o la titular, será de cuatro años.
+VI. Hacer del conocimiento de la comunidad a través de los consejos municipales de participación social y del Comité de Planeación para el Desarrollo sobre los Planes de Desarrollo Urbano, Asentamientos Humanos y demás relacionados con la población;
 
-###### Artículo 126.
+VII. Expedir el reglamento y las disposiciones administrativas tendientes a regular la operatividad del Plan de Desarrollo Urbano Municipal;
 
-Las funciones, facultades y obligaciones del Instituto de Formación Política de TIEMPO X MEXICO, son las siguientes:
+VIII. Recibir de los Consejos de Participación Social las opiniones respecto a la elaboración del Plan de Desarrollo Urbano Municipal;
 
-I. Llevar a cabo la educación y capacitación permanente de quienes integran el Partido, con base en las plataformas ideológicas, planes y programas que se expidan para tales efectos;
+IX. Promover y, en su caso, reconocer a las asociaciones de colonos en los fraccionamientos, en los términos de lo dispuesto en el Código Urbano del Estado y sus reglamentos; y
 
-II. Coadyuvar en la fomentación de la participación del pueblo michoacano en la vida democrática para alcanzar los objetivos de los partidos políticos;
+X. Las demás otorgadas en la presente Ley y el Código Urbano del Estado.
 
-III. Coadyuvar en la fomentación del principio de paridad de género, el acceso al ejercicio del poder público, de acuerdo, con los programas, principios del partido e ideas que se postulan y mediante el sufragio, universal, libre, secreto y directo;
+###### ARTICULO 123.
 
-IV. Coadyuvar en la formación, actualización, capacitación y educación gratuita en la democracia, a todas y todos los militantes;
+El Plan de Desarrollo Urbano Municipal contendrá, además de los requisitos establecidos en el Código Urbano del Estado, las disposiciones relativas a:
 
-V. Coadyuvar en la fomentación de la promoción y acceso de las mujeres a la actividad política del partido, así como la formación de liderazgos políticos;
+I. Las provisiones, usos, destinos y reservas del territorio, para cuyo efecto se dividirá el municipio en zonas, de acuerdo con sus características, destino de los predios y condiciones ambientales;
 
-VI. Coadyuvar en la formación ideológica y política de las y los militantes;
+II. Las políticas y procedimientos tendientes a que la propiedad en inmuebles cumplan con su función social;
 
-VII. Coadyuvar en la promoción y acceso de las mujeres a la actividad política del partido, así como la formación de liderazgos políticos;
+III. Las políticas encaminadas a lograr una relación conveniente entre la oferta y la demanda de viviendas de interés social;
 
-VIII. Preparar la participación activa de las u los militantes en los procesos electorales;
+IV. Los derechos de vía y de establecimientos correspondientes a los servicios públicos;
 
-IX. Desarrollar, en coordinación con la Secretaría de Asuntos Electorales, programas que promuevan la capacitación y actualización de las y los militantes del Partido en las tareas electorales y de activismo político.
+V. Los espacios destinados a las vías públicas, jardines y zonas de esparcimiento, así como las normas técnicas relativas a su diseño, operación y modificación;
 
-X. Realizar programas de capacitación para candidatas y candidatos a cargos de elección popular o dirigencia partidaria;
+VI. Las características de los sistemas de transporte de pasajeros y de carga;
 
-XI. Difundir el resultado de sus trabajos en libros, revistas, folletos, material audiovisual y diversas publicaciones;
+VII. Las zonas, edificaciones o elementos que formen el patrimonio cultural urbano para preservarlo, restableciendo y asignándole un uso conveniente;
 
-XII. Fomentar la participación activa de las personas afiliadas y militantes en foros, seminarios, talleres, mesas redondas y conferencias;
+VIII. Las zonas y edificaciones que deban ser mejoradas;
 
-XIII. Preservar, acopiar, ordenar, clasificar y poner a disposición de las personas afiliadas al Partido e investigadores, el acervo documental histórico del Partido.; (sic)
+IX. Las características a que deba sujetarse las construcciones privadas y públicas, a fin de obtener su seguridad, buen funcionamiento, mejoramiento estético y preservar, de ser necesario, los perfiles arquitectónicos de las poblaciones;
 
-XIV. Elaborar y proponer la expedición e implementación de un código de ética partidista, que fije las directrices de formación de los valores y principios de las personas ciudadanas militantes del partido político;
+X. Las características de la construcción y distribución de la infraestructura, servicios y equipos urbanos;
 
-XV. Diseñar y establecer los mecanismos para la implementación de los programas de educación, capacitación y formación política del partido, de manera presencial o mediante el aprovechamiento y uso de las tecnologías de la información y comunicación en el desarrollo de aulas virtuales;
+XI. Las características y especificaciones para la procedencia de las fusiones, subdivisiones, relotificaciones, fraccionamientos y demás modalidades de los terrenos;
 
-XVI. Formar, capacitar y adiestrar a las personas integrantes del partido político para el desempeño de cargos de elección popular con base a los principios partidarios;
+XII. La preservación, conservación, restablecimiento y mejoramiento del medio ambiente y erradicación de la contaminación del agua, suelo y atmósfera;
 
-XVII. Vincularse con las personas servidoras del partido, así como con los órganos de dirección del mismo, a efecto de cumplir con sus funciones de formación política y capacitación;
+XIII. La mejora del paisaje urbano;
 
-XVIII. Otorgar constancias, diplomas y certificados de las actividades que se deriven de los programas de educación, capacitación y formación del partido;
+XIV. La rectificación de cauces o lechos de ríos, canales, vasos de servicio o secados, de jurisdicción estatal; y
 
-XIX. Participar en la elaboración de modificaciones a los principios y elaboración de plataformas electorales, agendas legislativas, políticas públicas en el ámbito estatal y municipal;
+XV. La localización, rescate y conservación de zonas históricas, arqueológicas y turísticas.
 
-XX. Crear un plan anual de formación política y capacitación que deberá contemplar las necesidades presupuestales para someterlo a la Comisión Permanente Estatal;
+###### ARTICULO 124.
 
-XXI. Establecer las bases para los procesos de selección, contratación y valoración del personal que impartan los programas de educación, capacitación y formación política del partido;
+El Plan de Desarrollo Urbano Municipal tendrá como referencia la planeación nacional y estatal, y como elementos informativos complementarios los estudios concernientes a:
 
-XXII. Elaborar y presentar de manera anual al Comité Ejecutivo Estatal el informe de actividades y progreso de los programas; y,
+I. Las estructuras, condiciones y procesos demográficos, sociales, económicos y políticos de la región.
 
-XXIII. Las demás que le otorguen los órganos de dirección Estala (sic), los Estatutos y la normativa aplicable:
+II. Las condiciones geofísicas, ecológicas y ambientales de la región.
 
-a) La formación política y partidista respecto de los ejes rectores, valores y principios plasmados en los Documentos Básicos del partido;
+III. La tenencia y uso de bienes muebles e inmuebles, y
 
-b) La capacitación e instrucción de las normas y procedimientos que tengan relación con los derechos y obligaciones partidistas o de ejercicio de alguna función pública al interior; y,
+IV. Los elementos de acondicionamiento del espacio urbano, principalmente de su infraestructura, equipo y servicios públicos.
 
-c) Vincular y hacer participar a sus personas militantes, de una manera más activa y preparada, en la construcción de un país con altos valores democráticos, civiles y sociales.
+###### ARTICULO 125.
 
-###### Artículo 127.
+El Plan de Desarrollo Urbano Municipal contendrá los siguientes rubros:
 
-Para la postulación de candidaturas para integrar los órganos internos se emitirán por parte de la Comisión Electoral y de Procesos Internos convocatorias en los términos y plazos que estipulan los Documentos Básicos, así como los acuerdos, reglamentos y leyes en materia electoral.
+I. General, en el cual se determinen los objetivos, estrategias, procedimientos y programas a corto, mediano y largos plazos;
 
-La Comisión Electoral y de Procesos Internos Estatal, son los órganos encargados de:
+II. Especial, donde se determinen los programas específicos para la realización de algunos o varios de los objetivos generales del Plan y
 
-I. Organizar, conducir y validar el proceso de elección de dirigencias y postulación de candidaturas a cargo de elección popular en el nivel que corresponda, observando los principios de certeza, legalidad, independencia, imparcialidad, equidad, paridad de género y transparencia en el proceso de elección;
+III. Además, detallará el sistema considerado más adecuado para evaluar las acciones del Plan y Programas específicos, así como la incorporación de sus resultados al proceso de planeación. Respecto a la estructura, contenido y objetivos de los programas municipales, deberá estarse a lo dispuesto en el Código Urbano para el Estado de Querétaro y demás disposiciones aplicables.
 
-II. Proponer proyectos de reglamentos en torno a sus atribuciones, así como convocatorias al Comité Ejecutivo Estatal;
+###### ARTICULO 126.
 
-III. Recibir, analizar y dictaminar sobre el registro de las personas aspirantes a cargos internos y de elección popular y revisar sus requisitos de elegibilidad;
+Para la formulación del Plan de Desarrollo Urbano Municipal, el ayuntamiento deberá organizar los mecanismos de concertación que considere necesarios a efecto de incorporar las propuestas de la sociedad civil.
 
-IV. Validar la integración de las asambleas en las que se desarrollarán procesos de elección de dirigentes y postulación de candidaturas en todos los niveles;
+###### ARTICULO 127.
 
-V. Calificar la elección y declarar las candidaturas electas a quienes hayan obtenido el mayor número de votos, haciendo entrega de la respectiva constancia de mayoría, o en su caso, entregar la constancia de candidatura;
+Los planes y programas de desarrollo urbano serán inscritos en el Registro Público de la Propiedad en la forma en que lo establezca su reglamento. A partir de su inscripción la autoridad municipal expedirá licencias de construcción, reconstrucción, ampliación o cualquiera otra relacionada con las áreas y predios previstos en el Plan de Desarrollo Urbano Municipal, a fin de que las obras se ejecuten en congruencia con las disposiciones de dicho Plan.
 
-VI. La comisión tiene la facultad de atraer cualquier asunto que le competa en cualquiera de los niveles de organización del partido; y,
+###### ARTICULO 128.
 
-VII. Las demás que señale la legislación y normativa vigente, así como los Documentos Básicos.
+El Plan de Desarrollo Urbano Municipal podrá ser modificado o cancelado por las siguientes causas:
 
-###### Artículo 128.
+I. Variaciones sustanciales en las condiciones o circunstancias que le dieron origen;
 
-La Comisión Estatal Permanente a través de la Presidencia del Comité Ejecutivo Estatal, determinará la participación en los procesos electorales mediante los acuerdos de participación y convenios de coalición que se celebren con los partidos y agrupaciones políticas, en su caso.
+II. Cambios en los aspectos financieros que los hagan irrealizables o incosteables;
+
+III. Aplicación de nuevas técnicas que permitan una realización más satisfactoria;
+
+IV. No iniciarse en la fecha señalada o no cumplir con las etapas de realización, salvo caso fortuito o fuerza mayor; y
+
+V. Sobrevenir alguna causa de interés público prioritaria.
 
 ### CAPÍTULO TERCERO. DE LAS OBRAS PÚBLICAS
 
-###### Artículo 129.
+###### ARTICULO 129.
 
-El partido podrá constituir convenios de coalición, frentes y candidaturas comunes con partidos políticos nacionales y locales en los términos que establece la Ley General de Partidos Políticos, el Código Electoral de Michoacán, y las leyes reglamentarias electorales.
+Los municipios dentro de sus posibilidades presupuestales ejecutarán o contratarán la ejecución de obra pública de conformidad con los que establecen las leyes y las disposiciones reglamentarias aplicables.
 
-###### Artículo 130.
+###### ARTICULO 130.
 
-La persona que pretenda ser postulada a contender por un cargo de elección popular, deberá hacer manifiesto su interés por escrito, haber demostrado lealtad y compromiso con el partido, ser reconocida públicamente por su trabajo y tener presencia dentro de la localidad para la que pretende contender, de igual manera, es su obligación sostener y difundir la plataforma electoral durante la campaña electoral en la que participe.
+Se consideran obras públicas:
 
-## TÍTULO VIII. DE LA REFORMA DE LOS DOCUMENTOS BÁSICOS
+I. Los trabajos de construcción, instalación, preservación, conservación, protección, mantenimiento y demolición de bienes inmuebles propiedad del municipio;
+
+II. Las necesarias para la prestación de servicios públicos; y
+
+III. Las que por su naturaleza o destino sean consideradas de interés colectivo por el ayuntamiento.
+
+Los particulares de acuerdo con el programa respectivo y cumpliendo con la normatividad aplicable para la recaudación de contribuciones especiales o de mejora, podrán aportar en numerario o en especie para el desarrollo de obra pública. A cualquier aportación de este tipo deberá recaer un comprobante oficial en los términos que señala la legislación fiscal.
+
+En caso de que la aportación sea en especie esta deberá valuarse por peritos de la materia o bien de conformidad con los usos del lugar o la actividad de que se trate.
+
+## TÍTULO VIII. DE LA JUSTICIA ADMINISTRATIVA MUNICIPAL
 
 ### CAPÍTULO PRIMERO. DE LA JUSTICIA CÍVICA MUNICIPAL
 
-###### Artículo 131.
+###### ARTICULO 131.
 
-El procedimiento interno de elección de candidaturas a cargos de representación popular será el aprobado por la Comisión Estatal Permanente en conjunto con la Presidencia del Comité Ejecutivo Estatal, a propuesta de la Comisión Electoral y de Procesos Internos y reglamentado por la misma según el tipo de elección que se trate, debiendo cumplir con los requisitos que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Michoacán de Ocampo y los que las leyes electorales señalen, así como lo contenido en los acuerdos de participación con los partidos políticos.
+En cada Municipio funcionarán los Juzgados Cívicos necesarios a cargo de un Juez del mismo nombre y del número de agentes de policía requerido.
 
-Las modalidades de elección de candidaturas serán las siguientes:
+###### ARTICULO 132.
 
-I. Asamblea de delegados o delegadas;
+El juez cívico dependerá directamente del presidente municipal, quien lo nombrará y removerá libremente, debiendo aquél cubrir los siguientes requisitos:
 
-II. Elección abierta a la ciudadanía;
+I. Ser originario del municipio o tener residencia efectiva en el mismo no menor a tres años;
 
-III. Elección por encuesta;
+II. Ser ciudadano en pleno uso y goce de sus derechos civiles y políticos;
 
-IV. Elección por militantes; y,
+III. Tener los conocimientos jurídicos necesarios a juicio del Presidente Municipal;
 
-V. Por comisiones especiales.
+IV. No haber sido sentenciado por delito intencional que merezca pena privativa de la libertad;
 
-Quienes ocupen cargos de representación popular o se integren a los distintos niveles de la administración pública tienen la obligación de seguir participando con el partido y entregar un informe periódico de sus actividades al Comité Ejecutivo Estatal.
+V. No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso;
 
-Con excepción al procedimiento interno de elección de candidaturas a cargos de representación popular, se podrá utilizar el de designación directa, el cual se aplicará cuando por omisión no sean aplicables las reglas de igualdad de género; por denegación o cancelación de inscripción aprobada por las autoridades electorales ejecutivas o judiciales; por causas de inelegibilidad de algún candidato o candidata, pero que sobreviniera después del proceso interno; por fallecimiento, incapacidad para trabajar, renuncia o falta absoluta de candidatos o candidatas; por actos que resulten de un candidato o candidata que viole los documentos básicos o ponga en peligro la integridad y reputación del partido político TIEMPO X MEXICO; y por alguna otra situación análoga prevista en las normas sobre procedimientos de elecciones internas.
+VI. Ser honesto y tener notoria buena conducta; y
 
-###### Artículo 132.
+VII. Tener 25 años cumplidos al momento de su designación.
 
-El partido está obligado a presentar una plataforma electoral para cada elección en que participe, sustentada en la declaración de principios y programa de acción, y a su vez, sostener y difundir la plataforma durante la campaña, con el objetivo de cumplir sus fines.
+###### ARTICULO 133.
 
-###### Artículo 133.
+Los Jueces Cívicos serán los directamente responsables de la custodia de los detenidos y de la estricta observancia de las disposiciones que sobre el particular contenga el Reglamento respectivo y demás disposiciones legales aplicables.
 
-La plataforma electoral para la elección correspondiente deberá aprobarse por la Asamblea General Estatal y estará sustentada en los documentos básicos del partido. La plataforma electoral deberá contar con un enfoque de perspectiva y equidad de género.
+Los jueces determinarán sus sanciones de conformidad con lo que establece el Capítulo Segundo del Título IX de la presente Ley.
 
-###### Artículo 134.
+###### ARTICULO 134.
 
-Las candidatas y candidatos del partido, tendrán la obligación de sostener y difundir la plataforma electoral durante la campaña electoral en que participen.
+Las obligaciones de los jueces cívicos y el funcionamiento interno de sus oficinas se regirán por reglamentos internos que al efecto emitan los ayuntamientos.
 
 ### CAPÍTULO SEGUNDO. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
 
 ### CAPÍTULO PRIMERO. DE LA FACULTAD REGLAMENTARIA
 
-###### Artículo 135.
+###### ARTICULO 135.
 
-Las ciudadanas y ciudadanos postulados a candidaturas uninominales o por el principio de representación proporcional, tendrán la obligación de respaldar, sostener y difundir la Declaración de Principios, el Programa de Acción y la Plataforma Electoral respectiva, durante la campaña electoral en que participen, y durante el desempeño del cargo para que hayan sido elegidos, ello con estricto apego y respeto a la Ley.
+Los actos administrativos del Presidente u otras autoridades municipales podrán ser impugnados mediante los recursos de reconsideración y revisión.
 
-###### Artículo 136.
+El recurso de reconsideración es procedente contra actos administrativos emitidos por el Presidente Municipal u otras autoridades municipales; el de revisión contra la resolución dictada con motivo del recurso de reconsideración.
 
-Los candidatos y/o candidatas a cargos públicos que se postulen por el partido están obligados a promover y difundir durante la campaña electoral correspondiente la plataforma electoral y el voto a favor del partido.
+Ambos se interpondrán y resolverán en los términos establecidos en esta Ley, sin perjuicio de que el afectado pueda hacer valer cualquier otro recurso previsto por las demás leyes aplicables a la materia del acto que se impugna.
 
-###### Artículo 137.
+###### ARTICULO 136.
 
-El Comité de Administración y Finanzas, es el órgano del partido político TIEMPO X MEXICO, responsable de la administración del patrimonio y recursos financieros, en conjunto con la persona titular de la Secretaría de Finanzas, y se integrará por tres personas:
+Los actos o acuerdos dictados por el Presidente u otras autoridades municipales serán recurribles cuando existan cualquiera de las siguientes circunstancias:
 
-I. Una persona encargada de la Presidencia, que será la persona titular de la Presidencia de la Comisión Permanente Estatal;
+I. Falta de competencia para dictarlos;
 
-II. Una persona designada como Vocal, que será nombrada en sesión de la Comisión Permanente Estatal por mayoría simple de votos; y,
+II. Incumplimiento de las formalidades legales que deban revestir; y
 
-III. Una persona encargada de la Secretaría Técnica, cargo que recaerá en la persona que sea titular de la Secretaría de Finanzas del Comité Ejecutivo Estatal.
+III. La inexacta aplicación de la disposición o disposiciones en que se fundamenten.
 
-En los casos de ausencias temporales de la persona titular de la Presidencia del Comité de Administración y Finanzas, las funciones y la representación del órgano será ejercida por la persona encargada de la Vocalía.
+###### ARTICULO 137.
 
-La duración de su encargo será por un período de cuatro años, con posibilidad a su permanencia por dos periodos más por acuerdo de la propia Comisión Permanente Estatal.
+Los recursos se desecharán de plano cuando:
 
-###### Artículo 138.
+I. Se interpongan fuera del plazo previsto por esta Ley;
 
-El Comité de Administración y Finanzas es el órgano de administración y fiscalizador del partido político, es el responsable de la protección del patrimonio y recursos generales del partido político, así como su correcta administración, en conjunto con la persona titular de la Secretaría de Finanzas.
+II. No se acredite la personalidad de quien los promueve;
 
-###### Artículo 139.
+III. Quien lo interponga no acredite el interés jurídico o el legítimo y en el caso de que el promovente sea un miembro del ayuntamiento, no haya votado en contra de la resolución atacada; y
 
-Son funciones, facultades y obligaciones del Comité de Administración y Finanzas las siguientes:
+IV. El documento mediante el que se promueva no esté firmado por el recurrente, a menos que se exhiba antes del vencimiento del término para su interposición, en cuyo caso, la autoridad conocedora de la impugnación de que se trate prevendrá al recurrente para que firme dicho documento.
 
-I. Presentar cada cuatro años, a la Asamblea Estatal un informe en el que se detalle el estado que guarde la administración, patrimonio y recursos financieros del partido político en los últimos años, contados a partir del último informe presentado y hasta el que corresponda al año inmediato anterior al de la presentación del informe;
+###### ARTICULO 138.
 
-II. Presentar a la Comisión Permanente Estatal para su conocimiento y aprobación, un informe anual, en el que se detalle el estado que guarde la administración, patrimonio y recursos financieros del partido político en el año inmediato anterior al de la presentación del informe;
+El recurso de reconsideración deberá promoverse por escrito dentro del plazo de diez días hábiles siguientes al de la notificación o al en que se tenga conocimiento del acto impugnado, ante la autoridad que dictó el mismo, quien deberá resolver sobre dicha impugnación en un plazo máximo de tres días.
 
-III. Vigilar las funciones de la persona Titular de la Secretaría de Finanzas.
+###### ARTICULO 139.
 
-VI (SIC). Conocer y dictaminar los informes que presente la persona Titular de la Secretaría de Finanzas del Comité Ejecutivo Estatal y de los Comités Municipales;
+El recurso de revisión deberá interponerse por escrito ante el Ayuntamiento, dentro de los diez días hábiles siguientes al de la notificación de la resolución recaída a la reconsideración, quien resolverá en un término máximo de diez días hábiles siguientes al en que se promovió el recurso.
 
-V (SIC). Determinar y aprobar las cuotas anuales que deberán cubrir las personas militantes del partido político, de acuerdo con lo que establecen los presentes Estatutos.
+###### ARTICULO 140.
 
-VI. Vigilar que el financiamiento privado se realice con eficiencia, eficacia, transparencia y honradez, con el fin de satisfacer los objetivos a los cuales fueron destinados y apoyar la función directiva en sus esfuerzos para impulsar el mejoramiento de la gestión;
+El escrito mediante el cual se interponga el recurso deberá contener:
 
-VII. Establecer y operar los sistemas que permitan verificar el origen y destino de los recursos del partido político, apegándose a la normatividad aplicable;
+I. La autoridad ante la que se promueva;
 
-VIII. Vigilar la debida aplicación de las normas que dicte el Instituto Electoral de Michoacán, así como el Instituto Nacional Electoral y demás órganos electorales, en materia de financiamiento y fiscalización;
+II. Nombre del recurrente o representante legal, si lo hubiere;
 
-IX. Vigilar que la obtención y aplicación de recursos privados de las precampañas y campañas electorales, se apeguen a las disposiciones establecidas y no rebasen los topes que para cada elección se autoricen;
+III. El documento que acredite la personalidad del promovente o representante legal;
 
-X. Practicar auditorías y revisiones de acuerdo al programa anual de trabajo que autorice la Comisión Permanente Estatal; emitir las recomendaciones preventivas y correctivas y darles seguimiento; y, en su caso, adoptar acciones necesarias para su cumplimiento, así como dictar las medidas correspondientes;
+IV. Domicilio para oír notificaciones, ubicado dentro del Municipio;
 
-XI. Verificar y promover que los recursos financieros privados, humanos y materiales se administren y empleen con economía, eficiencia, eficacia y transparencia de acuerdo con el orden normativo vigente;
+V. El acto impugnado y los hechos en que se base el recurso respectivo;
 
-XII. Turnar a la Comisión de Honor y Justicia aquellos casos en los que existan elementos que indiquen presuntos actos u omisiones que contravengan la normatividad vigente, a fin de que emita la resolución procedente;
+VI. Exposición sucinta de los motivos de inconformidad; y
 
-XIII. Las demás que confiera la Presidencia del Comité Ejecutivo, la Comisión Permanente Estatal, la legislación y normativa vigente, así como los Documentos Básicos.
+VII. Relación de pruebas que ofrezca para justificar los hechos en que se apoya el recurso.
 
-###### Artículo 140.
+###### ARTICULO 141.
 
-En materia de financiamiento, el Comité aprobará y verificará los programas de captación de recursos para las actividades del partido político, de conformidad con las modalidades y reglas establecidas en la legislación de la materia.
+De no cumplirse con cualesquiera de los requisitos señalados en el artículo anterior, se prevendrá al recurrente para que en el plazo de tres días hábiles siguientes al de la notificación, cumpla con tal requerimiento y, en su caso de no hacerlo, se le desechará de plano el recurso intentado.
 
-Las modalidades de captación de recursos privados son los siguientes:
+###### ARTICULO 142.
 
-a) Financiamiento por la militancia;
-
-b) Financiamiento de las personas simpatizantes;
-
-c) Autofinanciamiento;
-
-d) Financiamiento por rendimientos financieros, fondos y fideicomisos; y,
-
-e) Todas aquellas que la legislación electoral permita.
-
-###### Artículo 141.
-
-La reforma de los Documentos Básicos del partido, la realizará la Asamblea General Estatal, mediante sesión ordinaria o extraordinaria, según sea el caso.
-
-###### Artículo 142.
-
-Para reformar los Documentos Básicos, así como los Reglamentos que de ellos emanen, se requiere de la aprobación de las dos terceras partes de las personas integrantes de la Asamblea General Estatal.
+Las notificaciones podrán hacerse personalmente, por cédula o por edicto, en los términos del Código de Procedimientos Civiles en el Estado.
 
 ###### ARTICULO 143.
 
 El ayuntamiento deberá tomar en cuenta para la resolución de los recursos, las pruebas que se aporten en los términos del Código de Procedimientos Civiles y los argumentos expuestos por el inconforme en la promoción respectiva.
 
-Si por naturaleza de las pruebas el término para la resolución del recurso interpuesto resulta insuficiente, se podrá ampliar en el lapso que se estime necesario, únicamente para el efecto de desahogar las pruebas sin que este pueda ser mayor a quince día hábiles.
+Si por naturaleza de las pruebas el término para la resolución del recurso interpuesto resulta insuficiente, se podrá ampliar en el lapso que se estime necesario, únicamente para el efecto de desahogar las pruebas sin que este pueda ser mayor a quince días hábiles.
 
 ###### ARTICULO 144.
 
@@ -2231,24 +1987,6 @@ La designación del Cronista Municipal deberá recaer en una persona destacada p
 
 ## TRANSITORIOS
 
-PRIMERO. Los presentes Estatutos comenzarán a tener vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán, en la forma en que lo mandate la resolución o disposiciones legales que emita el Consejo General del Instituto Electoral de Michoacán y leyes aplicables, por lo que, su cumplimiento será obligatorio para todas las personas militantes, adherentes y simpatizantes del partido político TIEMPO X MEXICO.
-
-SEGUNDO. La siguiente Asamblea Estatal, sea ordinaria o extraordinaria, que celebre TIEMPO X MEXICO, tendrá como objeto nombrar a las personas integrantes de la Comisión Permanente Estatal y demás nombramientos establecidos en los estatutos que conciernen a la asamblea.
-
-TERCERO. En tanto sucede lo precitado, se faculta de manera extraordinaria a quienes integran la Comisión Permanente Estatal que sean nombrados, para que realice las disposiciones necesarias para la debida integración y nombramiento de los órganos de dirección, así como para todo lo relacionado con el proceso estatal electoral.
-
-CUARTO. Por única ocasión y de manera extraordinaria, la asamblea estatal ha nombrado a quienes fungen como delegados municipales, en virtud de que dicho órgano deberá integrar la totalidad de los órganos estatales del partido. Una vez transcurrido el plazo correspondiente para los cuales fueron electos, la integración de este órgano, se estará a lo dispuesto por los Estatutos.
-
-QUINTO. La Comisión Permanente Estatal, deberá emitir las normas reglamentarias que sean necesarias para el funcionamiento del partido político. Asimismo, será la encargada de realizar todas las gestiones necesarias para la constitución e inicio de labores del partido político.
-
-SEXTO. Todos los casos no previstos en los presentes estatutos y artículos transitorios, así como aquellos requerimientos que realice el Instituto Nacional Electoral, el Instituto Electoral de Michoacán y/o cualquier otra autoridad electoral, serán resueltos de manera inmediata por la persona titular de la Presidencia de la Comisión Permanente Estatal, por lo que se le faculta para ese fin otorgándole facultades para modificar los documentos básicos. De lo anterior, la persona titular de la Presidencia de la Comisión Permanente Estatal deberá rendir un informe en la próxima Asamblea Estatal ordinaria que celebre el partido político.
-
-Morelia, Michoacán a 14 catorce de abril de 2023 dos mil veintitrés.
-
-C. KARLA ESTEFANIA MARTINEZ MARTINEZ,
-
-Representante legal de TIEMPO X MEXICO, A. C.
-
 ###### ARTICULO PRIMERO.
 
 Se abroga la Ley Orgánica Municipal del Estado de Querétaro, expedida con fecha veinticinco de junio de mil novecientos noventa y tres, publicada en el periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" de fecha quince de Julio de 1993 mil novecientos noventa y tres;
@@ -2320,3 +2058,23 @@ P.O. 8 DE OCTUBRE DE 2004.
 PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a la presente.
+
+P.O. 29 DE OCTUBRE DE 2004.
+
+Artículo Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 1 DE ABRIL DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos deberán presentar, dentro de los siguientes treinta días contados a partir de la entrada en vigor de la presente Ley, a la Legislatura del Estado para su aprobación, la iniciativa para crear los Institutos Municipales.
