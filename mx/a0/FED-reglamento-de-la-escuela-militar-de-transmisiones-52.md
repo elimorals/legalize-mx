@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-transmisiones-52"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2001-06-22"
+last_updated: "2004-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE TRANSMISIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -1337,31 +1337,37 @@ De los Reconocimientos Académicos.
 
 De los Títulos, Certificados y Patentes.
 
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 77.
 
-El personal en instrucción de la Escuela Militar de Transmisiones que termine satisfactoriamente sus estudios, recibirá según corresponda:
+El personal en instrucción de la Escuela Militar de Transmisiones que termine satisfactoriamente sus estudios, recibirá:
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+I. Del Curso de Formación de Subteniente de Transmisiones:
 
-I. Personal nacional:
+A. Certificado de Estudios;
 
-A. Título;
+B. Grado de Subteniente de Transmisiones;
 
-B. Certificado de estudios, y
+C. Patente, y
 
-C. Patente.
+D. Gafete distintivo del curso.
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+II. Del Curso de Formación de Subteniente de Transmisiones Técnico Superior en Comunicaciones:
 
-II. Personal de nacionalidad extranjera:
+A. Certificado de Estudios;
 
-A. Título;
+B. Título de Técnico Superior en Comunicaciones;
 
-B. Certificado de estudios, y
+C. Grado de Subteniente de Transmisiones;
 
-C. Diploma.
+D. Patente, y
 
-III. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
+E. Gafete distintivo del curso.
+
+III. Del Curso de Administración de los Sistemas de Comunicación del Ejército y Fuerza Aérea: Certificado de Estudios.
+
+Al personal militar de procedencia extranjera únicamente se le expedirá Certificado de Estudios, Título de Técnico Superior, en su caso, y Diploma.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1397,11 +1403,9 @@ IV. El personal en instrucción que obtenga un promedio mínimo de 9.0 en una ma
 
 V. Otros que determine la Secretaría de la Defensa Nacional.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
 ###### ARTICULO 80.
 
-El personal en instrucción que termine satisfactoriamente sus estudios, además de lo establecido en este Reglamento recibirá gafete distintivo del curso correspondiente.
+(DEROGADO, D.O.F. 16 DE AGOSTO DE 2004)
 
 ## TITULO NOVENO.
 
@@ -1500,3 +1504,9 @@ D.O.F. 22 DE JUNIO DE 2001.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
