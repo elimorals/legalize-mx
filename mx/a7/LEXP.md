@@ -4,7 +4,7 @@ identifier: "LEXP"
 country: "mx"
 rank: "ley"
 publication_date: "1936-11-25"
-last_updated: "1949-12-30"
+last_updated: "1993-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=366&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEXP"
 
 LEY DE EXPROPIACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 25 de noviembre de 1936.
 
@@ -72,17 +72,23 @@ XII.- Los demás casos previstos por leyes especiales.
 
 En los casos comprendidos en la enumeración del artículo 1o., previa declaración del Ejecutivo Federal, procederá la expropiación, la ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio para los fines del Estado o en interés de la colectividad.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 3o.
 
-El Ejecutivo Federal, por conducto de la Secretaría de Estado, Departamento Administrativo o Gobierno de los Territorios correspondiente, tramitará el expediente de expropiación, de ocupación temporal o de limitación de dominio, y en su caso hará la declaratoria respectiva.
+La Secretaría de Estado, departamento administrativo o Gobierno del Distrito Federal según corresponda, tramitará el expediente de expropiación, de ocupación temporal o de limitación de dominio y, en su caso, el Ejecutivo Federal hará la declaratoria en el Decreto respectivo.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 4o.
 
-La declaratoria a que se refiere el artículo anterior se hará mediante acuerdo que se publicará en el "Diario Oficial" de la Federación y será notificado personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del acuerdo en el "Diario Oficial" de la Federación.
+La declaratoria a que se refiere el Artículo anterior, se hará mediante Decreto que se publicará en el Diario Oficial de la Federación y será notificado personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del Decreto en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 5o.
 
-Los propietarios afectados podrán interponer, dentro de los quince días hábiles siguientes a la notificación del acuerdo, recurso administrativo de revocación contra la declaratoria correspondiente.
+Los propietarios afectados podrán interponer, dentro de los 15 días hábiles siguientes a la notificación del Decreto recurso administrativo de revocación contra la declaratoria correspondiente.
 
 ###### ARTICULO 6o.
 
@@ -96,13 +102,21 @@ Cuando no se haya hecho valer el recurso administrativo de revocación a que se 
 
 En los casos a que se refieren las fracciones V, VI y X del artículo 1o. de esta ley, el Ejecutivo Federal, hecha la declaratoria, podrá ordenar la ocupación de los bienes objeto de la expropiación o de la ocupación temporal o imponer la ejecución inmediata de las disposiciones de limitación de dominio, sin que la interposición del recurso administrativo de revocación suspenda la ocupación del bien o bienes de que se trate o la ejecución de las disposiciones de limitación de dominio.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 9o.
 
-Si los bienes que han originado una declaratoria de expropiación, ocupación temporal o de limitación de dominio, no fueren destinados al fin que dió causa a la declaratoria respectiva, dentro del término de cinco años, el propietario afectado podrá reclamar la reversión del bien de que se trate, o la insubsistencia del acuerdo sobre ocupación temporal o limitación de dominio.
+Si los bienes que han originado una declaratoria de expropiación, ocupación temporal o limitación de dominio no fueren destinados total o parcialmente al fin que dio causa a la declaratoria respectiva, dentro del término de cinco años, el propietario afectado podrá solicitar a la autoridad que haya tramitado el expediente, la reversión total o parcial del bien de que se trate, o la insubsistencia de la ocupación temporal o limitación de dominio, o el pago de los daños causados.
+
+Dicha autoridad dictará resolución dentro de los cuarenta y cinco días hábiles siguientes a la presentación de la solicitud. En caso de que se resuelva la reversión total o parcial del bien, el propietario deberá devolver únicamente la totalidad o la parte correspondiente de la indemnización que le hubiere sido cubierta.
+
+El derecho que se confiere al propietario en este Artículo, deberá ejercerlo dentro del plazo de dos años, contado a partir de la fecha en que sea exigible.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 10.
 
-El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no este fijado en las oficinas rentísticas.
+El precio que se fijará como indemnización por el bien expropiado, será equivalente al valor comercial que se fije sin que pueda ser inferior, en el caso de bienes inmuebles, al valor fiscal que figure en las oficinas catastrales o recaudadoras.
 
 ###### ARTICULO 11.
 
@@ -144,13 +158,19 @@ Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa
 
 Estas disposiciones se aplicarán, en lo conducente, a los casos de ocupación temporal o de limitación al derecho de dominio.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 20.
 
-La autoridad expropiante fijará la forma y los plazos en que la indemnización deberá pagarse, los que no abarcarán nunca un período mayor de diez años.
+La indemnización deberá pagarse dentro del término de un año a partir de la declaratoria de expropiación en moneda nacional, sin perjuicio de que se convenga su pago en especie.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 21.
 
-Esta Ley es de carácter federal en los casos en que se tienda a alcanzar un fin cuya realización competa a la Federación conforme a sus facultades constitucionales, así como cuando se trate de imponer limitaciones al dominio; y de carácter local para el Distrito y Territorios Federales.
+Esta Ley es de carácter federal en los casos en que se tienda a alcanzar un fin cuya realización competa a la Federación conforme a sus facultades constitucionales, y de carácter local para el Distrito Federal.
+
+La aplicación de esta Ley se entenderá sin perjuicio de lo dispuesto por los tratados internacionales de que México sea parte y, en su caso, en los acuerdos arbitrales que se celebren.
 
 N. DE E.: EL DECRETO DE PROMULGACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
 
@@ -163,3 +183,13 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 30 DE DICIEMBRE DE 1949.
 
 UNICO.- La presente Ley entrará en vigor a los 3 días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
+
+...
+
+TERCERO.- La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que se realicen a partir de la entrada en vigor del presente Decreto.
