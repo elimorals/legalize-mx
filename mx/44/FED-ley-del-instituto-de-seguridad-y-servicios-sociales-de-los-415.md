@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "2000-05-12"
+last_updated: "2001-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -664,9 +664,17 @@ La cuota mínima y máxima de las pensiones, con excepción de las concedidas po
 
 Asimismo, la cuota diaria máxima de pensión, será fijada por la Junta Directiva del Instituto, pero ésta no podrá exceder de hasta la suma cotizable en los términos del artículo 15 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-La cuantía de las pensiones se incrementará conforme aumente el salario mínimo general para el Distrito Federal, de tal modo que todo incremento porcentual a dicho salario se refleje simultáneamente en las pensiones que paga el Instituto.
+La cuantía de las pensiones se aumentará anualmente conforme al incremento que en el año calendario anterior hubiese tenido el Índice Nacional de Precios al Consumidor, con efectos a partir del día primero del mes de enero de cada año.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+En caso de que en el año calendario anterior el incremento del Índice Nacional de Precios al Consumidor resulte inferior a los aumentos otorgados a los sueldos básicos de los trabajadores en activo, las cuantías de las pensiones se incrementarán en la misma proporción que estos últimos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+De no ser posible la identificación del puesto, para el incremento que corresponde a la pensión respectiva, se utilizará el Índice Nacional de Precios al Consumidor como criterio de incremento.
 
 Los jubilados y pensionados tendrán derecho a una gratificación anual igual en número de días a las concedidas a los trabajadores en activo, según la cuota diaria de su pensión. Esta gratificación deberá pagarse en un cincuenta por ciento antes del quince de diciembre y el otro cincuenta por ciento a más tardar el quince de enero, de conformidad con las disposiciones que dicte la Junta Directiva. Asimismo, tendrán derecho en su proporción, a las prestaciones en dinero que les sean aumentadas de manera general a los trabajadores en activo siempre y cuando resulten compatibles a los pensionados.
 
@@ -702,35 +710,35 @@ El cómputo de los años de servicios se hará considerando uno solo de los empl
 
 El monto de la pensión de retiro por edad y tiempo de servicios se determinará de acuerdo con los porcentajes de la tabla siguiente:
 
-15 años de servicio....................... 50 %
+15 años de servicio 50 %
 
-16 años de servicio...................... 52.5%
+16 años de servicio 52.5%
 
-17 años de servicio....................... 55 %
+17 años de servicio 55 %
 
-18 años de servicio...................... 57.5%
+18 años de servicio 57.5%
 
-19 años de servicio ...................... 60 %
+19 años de servicio 60 %
 
-20 años de servicio ...................… 62.5%
+20 años de servicio 62.5%
 
-21 años de servicio....................... 65 %
+21 años de servicio 65 %
 
-22 años de servicio...................... 67.5%
+22 años de servicio 67.5%
 
-23 años de servicio....................... 70 %
+23 años de servicio 70 %
 
-24 años de servicio...................... 72.5%
+24 años de servicio 72.5%
 
-25 años de servicio ...................... 75 %
+25 años de servicio 75 %
 
-26 años de servicio ...................... 80 %
+26 años de servicio 80 %
 
-27 años de servicio........................ 85%
+27 años de servicio 85%
 
-28 años de servicio....................... 90 %
+28 años de servicio 90 %
 
-29 años de servicio....................... 95 %
+29 años de servicio 95 %
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
@@ -1336,7 +1344,7 @@ La Junta Directiva mediante disposiciones de carácter general que al efecto pub
 
 ###### Artículo 110.
 
-Los créditos que se otorguen con cargo al fondo deberán darse por vencidos anticipadamente si los deudores, sin el consentimiento del Instituto, enajenan las viviendas, gravan los inmuebles que garanticen el pago de los créditos concedidos o incurren en las causas de rescisión consignadas en los contratos respectivos .
+Los créditos que se otorguen con cargo al fondo deberán darse por vencidos anticipadamente si los deudores, sin el consentimiento del Instituto, enajenan las viviendas, gravan los inmuebles que garanticen el pago de los créditos concedidos o incurren en las causas de rescisión consignadas en los contratos respectivos.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
@@ -1974,7 +1982,7 @@ V. Presentar a la consideración de la Comisión Ejecutiva, un informe mensual s
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1993)</small>
 
-VI. Presentar a la Comisión Ejecutiva para su consideración y en su caso aprobación, los programas de financiamientos y créditos a que se refieren las fracciones I y II del artículo 103, a ser subastados y otorgados, según corresponda, por el Instituto.
+VI. Presentar a la Comisión Ejecutiva para su consideración y en su caso aprobación, los programas de financiamientos y créditos a que se refieren las fracciones I y II del artículo 103, a ser subastados y otorgados, según corresponda, por el Instituto;
 
 VII. Proponer al Director General los nombramientos y remociones del personal técnico y administrativo de la Comisión, dando la intervención al Sindicato del Instituto que en derecho corresponde; y
 
@@ -2297,3 +2305,11 @@ D.O.F. 23 DE ENERO DE 1998.
 D.O.F. 12 DE MAYO DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2001.
+
+PRIMERO.- Este Decreto entrará en vigor el 1o. de enero de 2002.
+
+SEGUNDO.- En el caso de trabajadores que se hayan jubilado o pensionado con más de una plaza, a la pensión que corresponda a la suma de las plazas se le aplicará lo dispuesto en el artículo 57.
+
+TERCERO.- Si en un plazo de tres meses a partir de que sea exigible el incremento no es posible hacer la identificación del puesto, se aplicará lo que establece el párrafo quinto.
