@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1925-05-03"
+last_updated: "1926-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1925.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1926.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -397,7 +397,9 @@ VII. Dar la resolución correspondiente, aprobando, reformando, o reprobando las
 
 VIII. Convocar a elecciones, hacer el escrutinio de los votos emitidos para Gobernador; calificar dicha elección y declarar electo al que haya tenido mayoría de sufragios válidos.
 
-IX. Constituirse en colegio electoral para elegir a los Magistrados del Supremo Tribunal de Justicia y al Procurador General de la misma en el Estado.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
+
+IX. Constituirse en Colegio Electoral para elegir a los Magistrados del Supremo Tribunal de Justicia en el Estado
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -407,9 +409,13 @@ XII. Resolver las competencias y dirimir las controversias que se susciten entre
 
 XIII. Elegir quien deba sustituir al Gobernador en sus faltas.
 
-XIV. Conceder licencias, resolver las renuncias de sus miembros, del Gobernador, de los Magistrados y Procurador General de Justicia.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
 
-XV. Declarar cuando ha lugar a formación de causa contra los funcionarios de que trata el inciso anterior, y además, contra el Director General de Rentas y Secretario General de Gobierno, tanto por los delitos comunes, como por delitos oficiales; erigiéndose para el caso en Gran Jurado.
+XIV. Conceder licencias, resolver las renuncias de sus miembros, del Gobernador y de los Magistrados del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
+
+XV. Declarar cuando ha lugar a formación de causa contra los funcionarios de que trata el inciso anterior y además contra el Director General de Rentas, Secretario General de Gobierno y Procurador General de Justicia, tanto por los delitos comunes como por los delitos oficiales; erigiéndose para el caso en Gran Jurado.
 
 XVI. Organizar el sistema penal sobre la base del trabajo como medio de regeneración,
 
@@ -537,9 +543,13 @@ I. Velar por la observancia de la Constitución y de las leyes, dando cuenta a l
 
 II. Dictaminar sobre todos los asuntos pendientes al tiempo del receso, y proveer en los nuevos lo que fuere indispensable para dar cuenta de unos y otros a la Legislatura.
 
-III. Nombrar al Gobernador Provisional que deba substituir al que esté en funciones y llamar a los suplentes de los magistrados del Supremo Tribunal y Procurador General de Justicia, en su caso, y tomarles la protesta de ley.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
 
-IV. Conceder licencias con goce de sueldo o sin él al Gobernador del Estado, a los Diputados, a los Magistrados del Supremo Tribunal, al Procurador General de Justicia y a los empleados dependientes de la Legislatura.
+III. Nombrar al Gobernador Provisional que deba substituir al que esté en funciones y llamar a los Suplentes de los Magistrados del Supremo Tribunal y tomarles la protesta de Ley.
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
+
+IV. Conceder licencias con goce de sueldo o sin él, al Gobernador del Estado, a los Diputados, a los Magistrados del Supremo Tribunal de Justicia y a los empleados dependientes de la Legislatura.
 
 V. Remover libremente a los empleados de su Secretaría y Contador Mayor de Hacienda.
 
@@ -645,9 +655,9 @@ X.- Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos e
 
 XI.- Impartir a los Tribunales el auxilio que demanden para el desempeño de sus funciones.
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
 
-XII.- Nombrar y remover libremente al Secretario General de Gobierno y a los demás empleados cuyo nombramiento no esté encomendado a otras autoridades.
+XII.- Nombrar y remover libremente al Secretario General de Gobierno, al Procurador General de Justicia y a los demás empleados cuyo nombramiento no esté encomendado a otras Autoridades.
 
 XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
 
@@ -805,9 +815,11 @@ IV.- Tener por lo menos treinta años cumplidos el día de la elección.
 
 Para ser Juez de Primera Instancia, se requiere: ser mexicano, mayor de edad, abogado con título oficial; pero en caso de falta absoluta de éste podrá serlo con carácter interino, un conocedor en derecho a juicio del Supremo Tribunal; y para ser Juez Menor o de Paz, sólo se requiere: ser ciudadano mexicano, mayor de edad, instruido en la ciencia del Derecho a juicio del mismo Tribunal.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1926)</small>
+
 ###### Art. 87.
 
-Los Jueces de Primera Instancia, los Menores y de Paz, y los demás empleados del Poder Judicial, serán nombrados por el Supremo Tribunal de Justicia del Estado. Los tres primeros no podrán ser removidos de sus cargos sin previo juicio de responsabilidad en el que se haya pronunciado sentencia condenatoria ejecutoriada; y los demás empleados podrán ser removidos con causa justificada a juicio del Tribunal.
+Los Jueces de Primera Instancia, los Menores y de Paz, y los demás empleados del Poder Judicial, serán nombrados por el Supremo Tribunal de Justicia del Estado, pudiendo ser removidos de sus cargos solamente con causa justificada a juicio del Tribunal.
 
 ###### Art. 88.
 
@@ -849,7 +861,7 @@ Los Agentes del Ministerio Público serán nombrados y removidos por el Procurad
 
 ###### Art. 97.
 
-El Procurador General de Justicia, debe rendir semestralmente a la Cámara, un informe detallado de las labores que hubiere desempeñado, de las deficiencias que haya notado en los distintos ramos de la Administración y de las reformas que a su juicio deban hacerse
+(DEROGADO, P.O. 17 DE ENERO DE 1926)
 
 ###### Art. 98.
 
@@ -1129,7 +1141,7 @@ P.O. 14 DE AGOSTO DE 1924
 
 Por esta sola vez, y de acuerdo con lo que estatuye el Reglamento Interior del H. Congreso en su artículo 5o, el día 15 de diciembre del año en curso, se hará la elección de los C.C. Magistrados Propietarios que faltan para que sea integrado el Tribunal Trinitario (sic); a cuyo efecto, la Comisión Permanente que funcione en aquella fecha, se encargará de hacer la convocatoria que procede. Los Ciudadanos electos rendirán la protesta de ley, el día 27 del propio diciembre ante la Diputación Permanente y se harán cargo de sus puestos, el 1o. de enero próximo.
 
-P.O. 3 DE MAYO DE 1925
+P.O. 3 DE MAYO DE 1925.
 
 ###### Art. 1o.
 
@@ -1146,3 +1158,7 @@ A fín de que no sea interrumpido o restado el presente período Constitucional,
 ###### Art. 3o.
 
 El presente decreto comenzará a surtir sus efectos legales, a partir del día de su promulgación.
+
+P.O. 17 DE ENERO DE 1926
+
+El presente Decreto empezará a surtir sus efectos a partir de la fecha de su promulgación.
