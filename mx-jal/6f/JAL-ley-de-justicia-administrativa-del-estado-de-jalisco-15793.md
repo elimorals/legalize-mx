@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2000-04-18"
+last_updated: "2000-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -793,19 +793,21 @@ Si la cantidad fijada como indemnización para el cumplimiento sustituto de la s
 
 #### Sección I. DE LA RECLAMACIÓN
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 89.
 
 El recurso de reclamación tendrá por objeto modificar o revocar la resolución impugnada. Podrá interponerse en contra de las resoluciones que:
 
 I. Admitan, desechen o tengan por no interpuesta la demanda, la contestación, la ampliación de demanda, su contestación o las pruebas;
 
-II. Decreten o nieguen el sobreseimiento del juicio;
+II. Decreten o nieguen el sobreseimiento del juicio, con excepción de cuando se trate de sentencias definitivas;
 
 III. Admitan o rechacen la intervención del coadyuvante o del tercero;
 
-IV. Concedan o nieguen la suspensión del acto o resolución impugnada, o contra las que fijen las garantías en el trámite de la suspensión;
+IV. Conceden o nieguen la suspensión del acto o resolución impugnada, o contra las que fijen las garantías en el trámite de la suspensión;
 
-V. Resuelvan sobre la posibilidad o imposibilidad de la autoridad para cumplir con la sentencia; o
+V. Resuelvan sobre la posibilidad o imposibilidad de la autoridad para cumplir con la sentencia;
 
 VI. Resuelvan sobre la procedencia o improcedencia del cumplimiento sustituto, o fijen en cantidad líquida la indemnización por tal concepto.
 
@@ -849,9 +851,15 @@ Las sentencias definitivas podrán ser impugnadas por las partes a través del r
 
 Procede el recurso de apelación:
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 I. Cuando el asunto al que corresponde la sentencia impugnada sea de una cuantía determinada o determinable que exceda de setecientos días de salario mínimo general vigente en el municipio de Guadalajara;
 
-II. Cuando el asunto sea de cuantía indeterminable; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+II. Cuando el asunto sea de cuantía indeterminable;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 III. Cuando la controversia que motivó el juicio sea entre entidades públicas.
 
@@ -952,3 +960,7 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 P.O. 18 DE ABRIL DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor el día 18 de abril de 2000, una vez publicado en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE DICIEMBRE DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
