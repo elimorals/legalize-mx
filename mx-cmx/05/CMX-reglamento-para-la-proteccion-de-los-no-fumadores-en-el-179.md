@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-proteccion-de-los-no-fumadores-en-el-179"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-08-20"
-last_updated: "1990-08-20"
+last_updated: "2004-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,9 @@ scjn_last_update: "2004-01-29"
 
 REGLAMENTO PARA LA PROTECCION DE LOS NO FUMADORES EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. ESTE REGLAMENTO FUE ABROGADO POR EL REGLAMENTO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES EN EL DISTRITO FEDERAL, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, EL 29 DE ENERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal el lunes 20 de agosto de 1990.
 
@@ -238,3 +240,35 @@ CUARTO.- Se derogan las disposiciones relativas a la aplicación de sanciones es
 QUINTO.- Publíquese en el Diario Oficial de la Federación, por ser de interés general.
 
 Salón de Sesiones de la Primera Asamblea de Representantes del Distrito Federal a 5 de julio de 1990.- Abraham Martínez Rivero.- Representante, Presidente.- Rúbrica.- Flavio González González.- Representante, Secretario.- Rúbrica.- Juan Jesús Flores Muñoz.- Representante, Secretario.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 29 DE ENERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Para la exacta observancia y aplicación de esta Ley el Jefe de Gobierno del Distrito Federal expedirá el o los reglamentos correspondientes, mismos que deberán expedirse y publicarse a más tardar dentro de los noventa días siguientes a la entrada en vigor de ésta.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Salud, contará con un plazo de sesenta días naturales, posteriores a la publicación de la Ley, para la elaboración y difusión del manual de señalamientos y avisos que deberán ser colocados en forma obligatoria, para los establecimientos, empresas, industrias y Órganos de Gobierno y Órganos Autónomos ha que hace referencia el presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Una vez establecido el manual de señalamientos y avisos, la Secretaría de Salud del Distrito Federal difundirá su contenido, a través de las cámaras empresariales e industriales, medios masivos de comunicación y Delegaciones.
+
+###### ARTÍCULO SEXTO.
+
+Todos los establecimientos mercantiles, empresas, industrias, Órganos de Gobierno del Distrito Federal y Órganos Autónomos del Distrito Federal a que se refiere la presente Ley, contarán con un plazo de ciento ochenta días naturales a partir de la publicación del presente ordenamiento, para cumplir con todos los requerimientos de éste.
+
+###### ARTÍCULO SEPTIMO.
+
+Se abroga el Reglamento para la Protección a los No Fumadores en el Distrito Federal.
