@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1976-12-29"
+last_updated: "1977-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1977.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -143,6 +143,20 @@ b) En predios con valor real catastral superior a $500,000.00 la base será el 7
 
 c) La que resulte mayor de entre el valor fiscal con que se encuentren empadronados y el valor de la operación de traslado de dominio, en aquellos casos en que los predios no tengan asignado valor catastral mediante el procedimiento establecido en la Ley del Catastro y su reglamento.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+
+d) En predios ubicados en los Municipios que hayan sido objeto de catastración fiscal cuyos efectos hayan entrado en vigor a partir de 1978:
+
+1.- Si el valor real catastral es hasta de $700,000.00 la base será el 50%.
+
+2.- Si el valor real catastral es superior a $700,000.00 la base será el 75%.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+
+e) En predios baldíos susceptibles de fraccionamiento, en los términos de la Ley de Urbanismo y Planificación, ubicados en las zonas urbanas del Estado, la base será el 100%.
+
+Para los efectos de este precepto por predio baldío se entiende aquel inmueble que, pudiendo ser beneficiado con servicios públicos, por contar con líneas de electricidad o tuberías de agua y drenaje incorporadas o adyacentes al mismo, no haya sido objeto de fraccionamiento por sus propietarios.
+
 ###### ARTICULO 13.
 
 El impuesto predial se determinará, liquidará y pagará de acuerdo con la siguiente:
@@ -173,9 +187,9 @@ c) Los predios que perteneciendo a particulares, estén destinado (sic) a un ser
 
 d) Los predios ejidales;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DICIEMBRE DE 1977)</small>
 
-e) Los predios cuyo valor real no exceda de $160,000.00 y que pertenezcan a:
+e) Los predios cuyo valor real determinado por la Oficina Técnica Catastral no excedan de $300,000.00 y que pertenezcan
 
 1.- Huérfanos menores de 16 años;
 
@@ -184,6 +198,10 @@ e) Los predios cuyo valor real no exceda de $160,000.00 y que pertenezcan a:
 3.- Veteranos de la Revolución, en los términos del Decreto No. 71 expedido por el H. Congreso, con fecha 19 de diciembre de 1950;
 
 4.- Personas incapacitadas físicamente para trabajar.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+
+5).- Jubilados, y pensionados con ingresos propios, cuyo monto diario no exceda de dos veces y media el salario mínimo general que rija en la zona económica en que se encuentre ubicado el inmueble.
 
 Gozarán de esta exención únicamente las personas citadas que no posean otro bien raíz en el Estado y que habiten el inmueble en cuestión.
 
@@ -1359,6 +1377,24 @@ d).- Instituciones educativas;
 
 e).- Clubes de Servicio.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+
+###### ARTICULO 160 Bis.
+
+La Tesorería General podrá estimar las erogaciones de los sujetos de este impuesto en los siguientes casos:
+
+I.- Cuando no presenten sus declaraciones, no lleven los libros o registros que legalmente están obligados.
+
+II.- Cuando por los informes que se obtengan se ponga de manifiesto que se han efectuado erogaciones gravadas que exceden del 3% de las declaradas por el causante.
+
+Para practicar las estimaciones a que se refiere este Artículo, se tendrán en cuenta:
+
+a) Las erogaciones realizadas, declaradas en los últimos doce meses.
+
+b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, Sobre Productos del Trabajo en los últimos doce meses.
+
+c) Las actividades realizadas por el causante, y otros datos que puedan utilizarse, a través de prácticas de visitas domiciliarias.
+
 ###### ARTICULO 161.
 
 Es objeto de este impuesto, la percepción de ingresos derivados del libre ejercicio de una profesión, de actividad técnica, cultural, artística, deportiva o de cualquiera otra naturaleza, cuando se ejerza sin estar subordinados a un patrón.
@@ -1385,9 +1421,13 @@ Quienes hagan pagos a causantes eventuales de este impuesto, deberán retenerlo 
 
 La misma obligación tendrán quienes en forma habitual efectúen pagos a deportistas, profesionistas, artísticas, técnicos extranjeros, causante habituales o accidentes de este impuesto.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 166.
 
 El pago de este impuesto se hará semestralmente, dentro de los primeros quince días de los meses de enero y julio, mediante declaración en las formas aprobadas por la Tesorería General del Estado.
+
+La obligación de presentar declaración subsistirá aún cuando no se hayan obtenido ingresos gravables.
 
 ###### ARTICULO 167.
 
@@ -1429,7 +1469,9 @@ La Tesorería General podrá estimar los ingresos de los sujetos de este impuest
 
 I.- Cuando no presenten sus declaraciones, no lleven los libros o registros, o no expidan la documentación comprobatoria a que están obligados, y;
 
-II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio de ingresos superior cuando menos en un diez por ciento, al declarado por el causante.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
+
+II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio semestral de ingresos superior en un tres por ciento al declarado por el causante.
 
 Para practicar las estimaciones a que se refiere este artículo, se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
 
@@ -1915,7 +1957,9 @@ SUJETOS: Son sujetos de este impuesto las personas físicas, las morales o las u
 
 TASA: El impuesto se pagará conforme a las siguientes tasas:
 
-I.- Ganado vacuno en pie: $70.00 por cabeza.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
+
+I.- Ganado vacuno en pie: $140.00 por cabeza.
 
 II.- Ganado porcino con peso menor de 80 kilogramos, en pie: $40.00 por cabeza.
 
@@ -1930,6 +1974,10 @@ VI.- Ganado mayor no especificado, $60.00 por cabeza.
 VII.- Aves, $0.80 cada una.
 
 VIII.- Guajolotes, $2.00 cada uno.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 1977)</small>
+
+IX.- Pollo de engorda: $1.50 cada uno.
 
 Los encargados de los rastros no permitirán la matanza de ganado o aves, si no se les demuestra previamente el pago del impuesto.
 
@@ -2229,7 +2277,7 @@ c) Pasaportes en grupo, no familiar, por persona ............ $150.00
 
 ###### ARTICULO 276.
 
-Por los servicios prestados por la Tesorería General del Estado a sus Dependencias, se causarán los siguientes Derechos:
+Por los servicios prestados por la Tesorería General del Estado o sus dependencias, se causarán los siguientes Derechos:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
@@ -2237,7 +2285,11 @@ I.- Por empadronamiento y refrendo anual:
 
 a).- Expendios de bebidas alcohólicas $1,000.00
 
-b).- Expendios de bebidas alcohólicas con servicio de variedad artística o musical $10,000.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+
+b) Expendio de bebidas alcohólicas, restaurantes con servicio de variedad artística o musical $10,000.00
+
+Si en dichos establecimientos se presenta al público habitualmente la actuación personal de filarmónicos $5,000.00
 
 c).- Hoteles de paso, cabarets, prostíbulos, casa de asignación o lugares semejantes $18,000.00
 
@@ -2306,6 +2358,8 @@ XVIII.- Por revalidación o refrendo anual de fierros de herrar o marcas de sang
 ### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Oficialía Mayor
 
 ### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Tesorería General
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 277.
 
@@ -2552,3 +2606,13 @@ P.O. 29 DE DICIEMBRE DE 1976.
 ###### ARTICULO SEGUNDO
 
 - Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
+
+P.O. 30 DE DICIEMBRE DE 1977.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor el día 1o. de Enero de 1978.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
