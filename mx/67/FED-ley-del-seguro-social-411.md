@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1984-12-28"
+last_updated: "1986-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MAYO DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -676,7 +676,7 @@ Las prestaciones del Seguro de Riesgos de Trabajo, inclusive los capitales const
 
 Las cuotas que por el seguro de Riesgos de Trabajo deban pagar los patrones, se determinarán en relación con la cuantía de la cuota obreropatronal que la propia empresa entere por el mismo período, en el ramo de Invalidez, vejez, cesantía en edad avanzada y muerte, y con los riesgos inherentes a la actividad de la negociación de que se trate, en los términos que establezca el reglamento relativo.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 79.
 
@@ -690,269 +690,269 @@ Grado frecuencia y grave
 
 de dad por un Inferiores Grado Superiores
 
-Riesgo millón al medio medio al medio
+riesgo millón al medio medio al medio
 
 CLASE I
 
-1 454 1.67
+1 454 1.538
 
-2 770 3.33
+2 770 3.067
 
-3 1 086 5.00
+3 1 086 4.605
 
-4 1 368 6.67
+4 1 368 6.143
 
-5 757 8.33
+5 1 757 7.672
 
 CLASE II
 
-4 1 368 6.67
+4 1 368 6.143
 
-5 1 757 8.33
+5 1 757 7.672
 
-6 2 146 10.00
+6 2 146 9.210
 
-7 2 535 11.67
+7 2 535 10.748
 
-8 2 924 13.33
+8 2 924 12.277
 
-9 3 302 15.00
+9 3 302 13.815
 
-10 3 667 16.67
+10 3 667 15.353
 
-11 4 032 18.33
+11 4 032 16.882
 
-12 4 397 20.00
+12 4 397 18.420
 
-13 4 762 21.67
+13 4 762 19.958
 
-14 5 127 23.33
+14 5 127 21.487
 
 CLASE III
 
-11 4 032 18.33
+11 4 032 16.882
 
-12 4 397 20.00
+12 4 397 18.420
 
-13 4 762 21.67
+13 4 762 19.958
 
-14 5 127 23.33
+14 5 127 21.487
 
-15 5 676 25.00
+15 5 676 23.025
 
-16 6 073 26.67
+16 6 073 24.563
 
-17 6 470 28.33
+17 6 470 26.092
 
-18 6 867 30.00
+18 6 867 27.630
 
-19 7 264 31.67
+19 7 264 29.168
 
-20 7 661 33.33
+20 7 661 30. 697
 
-21 8 058 35.00
+21 8 058 32. 235
 
-22 8 455 36.67
+22 8 455 33.773
 
-23 8 852 38.33
+23 8 852 35.302
 
-24 9 226 40.00
+24 9 226 36.840
 
-25 9 583 41.67
+25 9 583 38.378
 
-26 9 940 43.33
+26 9 940 39.907
 
-27 10 297 45.00
+27 10 297 41.445
 
-28 10 654 46.67
+28 10 654 42.983
 
-29 11 011 48.33
+29 11 011 44.512
 
-30 11 368 50.00
+30 11 368 46.050
 
-31 11 725 51.67
+31 11 725 47.588
 
-32 12 082 53.33
+32 12 082 49.117
 
-33 12 439 55.00
+33 12 439 50.655
 
-34 12 796 56.67
+34 12 796 52.193
 
-35 13 153 58.33
+35 13 153 53.722
 
-36 13 510 60.00
+36 13 510 55.260
 
-37 13 867 61.67
+37 13 867 56.798
 
 CLASE IV
 
-30 11 368 50.00
+30 11 368 46.050
 
-31 11 725 51.67
+31 11 725 47.588
 
-32 12 082 53.33
+32 12 082 49.117
 
-33 12 439 55.00
+33 12 439 50. 655
 
-34 12 796 56.67
+34 12 796 52.193
 
-35 13 153 58.33
+35 13 153 53.722
 
-36 13 510 60.00
+36 13 510 55.260
 
-37 13 867 61.67
+37 13 867 56.978
 
-38 14 204 63.33
+38 14 204 58 327
 
-39 14 540 65.00
+39 14 540 59 865
 
-40 14 876 66.67
+40 14 876 61 403
 
-41 15 212 68.33
+41 15 212 62.932
 
-42 15 548 70.00
+42 15 548 64.470
 
-43 15 884 71.67
+43 15 884 66.008
 
-44 16 220 73.33
+44 16 220 67.537
 
-45 16 552 75.00
+45 16 552 69.075
 
-46 16 940 76.67
+46 16 940 70.613
 
-47 17 328 78.33
+47 17 328 72.142
 
-48 17 716 80.00
+48 17 716 73.680
 
-49 18 104 81.67
+49 18 104 75.218
 
-50 18 207 83.33
+50 18 207 76.747
 
-51 18 565 85.00
+51 18 565 78.285
 
-52 18 923 86.67
+52 18 923 79.823
 
-53 19 281 88.33
+53 19 281 81.352
 
-54 19 639 90.00
+54 19 639 82.890
 
-55 19 997 91.67
+55 19 997 84.428
 
-56 20 355 93.33
+56 20 355 85.957
 
-57 20 713 95.00
+57 20 713 87.495
 
-58 21 071 96.67
+58 21 071 89.033
 
-59 21 429 98.33
+59 21 429 90.562
 
-60 21 787 100.00
+60 21 787 92.100
 
 CLASE V
 
-50 18 207 83.33
+50 18 207 76.747
 
-51 18 565 85.00
+51 18 565 78.285
 
-52 18 923 86.67
+52 18 923 79.823
 
-53 19 281 88.33
+53 19 281 81.352
 
-54 19 639 90.00
+54 19 639 82.890
 
-55 19 997 91.67
+55 19 997 84.428
 
-56 20 355 93.33
+56 20 355 85.957
 
-57 20 713 95.00
+57 20 713 87.495
 
-58 21 071 96.67
+58 21 071 89.033
 
-59 21 429 98.33
+59 21 429 90.562
 
-60 21 787 100.00
+60 21 787 92.100
 
-61 22 145 101.67
+61 22 145 93.638
 
-62 22 503 103.33
+62 22 503 95.167
 
-63 22 861 105.00
+63 22 861 96.705
 
-64 23 219 106.67
+64 23 219 98.243
 
-65 23 577 108.33
+65 23 577 99.772
 
-66 23 935 110.00
+66 23 935 101.310
 
-67 24 293 111.67
+67 24 293 102.848
 
-68 24 651 113.33
+68 24 651 104.377
 
-69 25 009 115.00
+69 25 009 105.915
 
-70 25 367 116.67
+70 25 367 107.453
 
-71 25 725 118.33
+71 25 725 108.982
 
-72 26 083 120.00
+72 26 083 110.520
 
-73 26 441 121.67
+73 26 441 112.058
 
-74 26 799 123.33
+74 26 799 113.587
 
-75 26 810 125.00
+75 26 810 115.25
 
-76 26 870 126.67
+76 26 870 116.663
 
-77 27 278 128.33
+77 27 278 118.192
 
-78 27 686 130.00
+78 27 686 119.730
 
-79 28 094 131.67
+79 28 094 121.268
 
-80 28 502 133.33
+80 28 502 122.797
 
-81 28 910 135.00
+81 28 910 124.335
 
-82 29 318 136.67
+82 29 318 125.873
 
-83 29 726 138.33
+83 29 726 127.402
 
-84 30 134 140.00
+84 30 134 128.940
 
-85 30 542 141.67
+85 30 542 130.478
 
-86 30 950 143.33
+86 30 950 132.007
 
-87 31 358 145.00
+87 31 358 133.545
 
-88 31 766 146.67
+88 31 766 135.083
 
-89 32 174 148.33
+89 32 174 136.612
 
-90 32 582 150.00
+90 32 582 138.150
 
-91 32 990 151.67
+91 32 990 139.688
 
-92 33 398 153.33
+92 33 398 141.217
 
-93 33 806 155.00
+93 33 806 142.755
 
-94 34 214 156.67
+94 34 214 144.293
 
-95 34 622 158.33
+95 34 622 145.822
 
-96 35 030 160.00
+96 35 030 147.360
 
-97 35 438 161.67
+97 35 438 148.898
 
-98 35 846 163.33
+98 35 846 150.427
 
-99 36 254 165.00
+99 36 254 151.965
 
-100 36 662 166.67
+100 36 662 153.503
 
-Al inscribirse por primera vez en el Instituto o al cambiar de clase por modificación en sus actividades, las empresas invariablemente serán colocadas en el grado medio de la clase que les corresponda y con apego a dicho grado pagarán la prima del seguro de riesgos de trabajo.
+Al inscribirse por primera vez en el instituto o al cambiar de clase por modificación en sus actividades, las empresas invariablemente serán colocadas en el grado medio de la clase que les corresponda y con apego a dicho grado pagarán la prima del seguro de riesgos de trabajo.
 
 ###### ARTICULO 80.
 
@@ -1272,49 +1272,21 @@ Cuando fallezca un pensionado o un asegurado que tenga reconocidas cuando menos 
 
 Los recursos necesarios para cubrir las prestaciones y los gastos administrativos del seguro de Enfermedades y maternidad, se obtendrán de las cuotas que estén obligados a cubrir los patrones y los trabajadores o demás sujetos y de la contribución que corresponda al Estado.
 
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 114.
 
-A los patrones y a los trabajadores les corresponde cubrir para el seguro de Enfermedades y maternidad, las cuotas que señala la siguiente tabla:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-Cuotas Semanales
-
-Salario Diario del del
-
-Grupo Más de Promedio Hasta Patrón Trabajador
-
-M -.- $45.00 $50.00 17.73 $7.09
-
-N 50.00 60.00 70.00 23.63 9.45
-
-O 70.00 75.00 80.00 29.53 11.81
-
-P 80.00 90.00 100.00 35.45 14.18
-
-R 100.00 115.00 130.00 45.28 18.11
-
-S 130.00 150.00 170.00 59.06 23.63
-
-T 170.00 195.00 220.00 76.78 30.71
-
-U 220.00 250.00 280.00 98.44 39.38
-
-W 280.00 -.- -.- 5.625% 2.250%
-
-Sobre el salario
-
-de cotización.
-
-Los patrones y trabajadores incorporados al sistema de porcentaje sobre salario conforme al artículo 47 de esta Ley, cubrirán las cuotas del 5.625 por ciento y el 2.25 por ciento sobre el salario base de cotización, respectivamente.
+A los patrones y a los trabajadores les corresponde cubrir para el seguro de enfermedades y maternidad, las cuotas del 6.30% y 2.25% sobre el salario base de cotización, respectivamente.
 
 Los ingresos por concepto de pensiones quedan exentos del pago de cuotas.
 
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 115.
 
-En todos los casos en que no esté expresamente prevista por ley o decreto la cuantía de la contribución del Estado para el seguro de Enfermedades y maternidad, será igual al veinte por ciento del total de las cuotas patronales.
+En todos los casos en que no esté expresamente prevista por Ley o decreto la cuantía de la contribución del Estado para el seguro de enfermedades y maternidad, será igual al 7.143 por ciento del total de las cuotas patronales.
 
-La aportación del Estado será cubierta en pagos bimestrales iguales, equivalentes a la sexta parte de la estimación que presente el Instituto para el año siguiente a la Secretaría de Hacienda y Crédito Público, en el mes de julio de cada ejercicio, formulándose el ajuste definitivo en el mes de enero del año siguiente.
+La aportación del Estado será cubierta en pagos bimestrales iguales, equivalentes a la sexta parte de la estimación que presente el Instituto para el año siguiente a la Secretaría de Programación y Presupuesto, en el mes de julio de cada ejercicio, formulándose el ajuste definitivo en el mes de enero del año siguiente.
 
 ###### ARTICULO 116.
 
@@ -1882,45 +1854,17 @@ Del Régimen Financiero
 
 Los recursos necesario para cubrir las prestaciones y los gastos administrativos del seguro de invalidez, de vejez de cesantía en edad avanzada y por muerte, así como para la constitución de las reservas técnicas, se obtendrán de las cuotas que están obligados a cubrir las (sic) patrones, los trabajadores y demás sujetos y de la contribución que corresponda al Estado.
 
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 177.
 
-A los patrones y a los trabajadores les corresponde cubrir, para los seguros a que se refiere este capítulo, las cuotas que señala la tabla siguiente:
+A los patrones y a los trabajadores les corresponde cubrir, para los seguros a que se refiere este capítulo, las cuotas del 4.20% y 1.50% sobre el salario base de cotización, respectivamente.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-Salario Cuotas Semanales
-
-diario del del
-
-Grupo Más de Promedio Hasta patrón trabajador
-
-M 45.00 50.00 11.83 4.73
-
-N 50.00 60.00 70.00 15.75 6.30
-
-O 70.00 75.00 80.00 19.70 7.88
-
-P 80.00 90.00 100.00 23.63 9.45
-
-R 100.00 115.00 130.00 30.19 12.08
-
-S 130.00 150.00 170.00 39.38 15.75
-
-T 170.00 195.00 220.00 51.19 20.48
-
-U 220.00 250.00 280.00 65.63 26.25
-
-W 280.00 -.- -.- 3.75% 1.50%
-
-Sobre el salario de
-
-cotización.
-
-Los patrones y trabajadores incorporados al sistema de porcentaje sobre salario conforme al artículo 47 de esta Ley, cubrirán las cuotas del 3.75% y 1.50% sobre el salario, respectivamente.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 178.
 
-En todos los casos en que no esté expresamente prevista por ley o decreto la cuantía de la contribución del Estado para los seguros de ínvalidez, vejez, cesantía en edad avanzada y muerte, será igual al veinte por ciento del total de las cuotas patronales y se cubrirá en los términos del artículo 115.
+En todos los casos en que no esté expresamente prevista por Ley o decreto la cuantía de la contribución del Estado para los seguros de invalidez, vejez, cesantía en edad avanzada y muerte, será igual al 7.143 por ciento del total de las cuotas patronales y se cubrirá en los términos del artículo 115.
 
 ###### ARTICULO 179.
 
@@ -3047,3 +2991,9 @@ Para efectuar el primer entero provisional a que se refiere el artículo 45, los
 ###### ARTICULO TERCERO.
 
 Continuarán vigentes todas las disposiciones reglamentarias que no se opongan a lo dispuesto en el presente Decreto, en tanto se expiden los nuevos reglamentos.
+
+D.O.F. 2 DE MAYO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día veintinueve de junio de mil novecientos ochenta y seis.
