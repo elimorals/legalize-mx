@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1918-02-17"
+last_updated: "1919-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 1919.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -153,7 +153,7 @@ Son derechos del ciudadano Nayarita:
 
 I. Votar y poder ser votado en las elecciones populares del Estado y en las de los poderes generales de la Federación, siempre que esté en el ejercicio de sus derechos cívicos y no sea ministro de algún culto religioso.
 
-Para poder votar y ser votado en las elecciones locales, es indispensable saber leer y escribir.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE MARZO DE 1919)</small>
 
 II. Asociarse para tratar los asuntos políticos del Estado; y las demás prerrogativas consignadas en el artículo 35 de la Constitución Federal.
 
@@ -167,7 +167,11 @@ I. Las mismas que en esta Constitución se determinan a los vecinos nayaritas.
 
 II. Alistarse en la Guardia Nacional.
 
-III. Votar en las elecciones populares en el distrito electoral que le corresponda, con la condición establecida en la fracción I del artículo anterior, por lo que respecta a las elecciones locales.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 2 DEL DECRETO NÚMERO 23, P.O. 30 DE MARZO DE 1919, SE SUPRIME UN PORCIÓN NORMATIVA A LA FRACCIÓN III DEL ARTÍCULO 18 QUE DICE: “CON LA CONDICIÓN ESTABLECIDA EN LA FRACCIÓN I DEL ARTÍCULO ANTERIOR, POR LO QUE RESPECTA A LAS ELECCIONES LOCALES”.</small>
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
+
+III. Votar en las elecciones populares en el Distrito Electoral que le corresponda.
 
 IV. Desempeñar los cargos de elección popular de la Federación y del Estado.
 
@@ -379,7 +383,9 @@ V. Crear y suprimir empleos en el Estado, y señalar, aumentar o disminuir las r
 
 VI. Fijar anualmente, a propuesta del Gobernador del Estado, los gastos de la Administración Pública, y designar las contribuciones que deban imponerse para cubrirlos.
 
-VII. Dar la resolución correspondiente, aprobando, reformando, o reprobando las leyes de ingresos de los Municipios y sus planes de arbitrios para cubrirlos.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
+
+VII. Dar la resolución correspondiente, aprobando, reformando, o reprobando las leyes de EGRESOS de los Municipios y sus planes de arbitrios para cubrirlos.
 
 VIII. Convocar a elecciones. Hacer el escrutino de los votos emitidos para Gobernador y Diputados; calificar dichas eleciones (sic) y declarar electos a los que hayan obtenido mayoría de sufragios.
 
@@ -417,7 +423,9 @@ XXIV. Autorizar al Ejecutivo para que contraiga deudas a nombre del Estado, desi
 
 XXV. Decretar la expropiación por causa de utilidad pública en la forma que determinen las leyes.
 
-XXVI. Examinar y aprobar las cuentas de todos los caudales del Estado.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MARZO DE 1919)</small>
+
+XXVI. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los Presupuestos, sino que se extenderá al examen de la actitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar.
 
 XXVII. Cambiar provisionalmente, por circunstancias especiales, la residencia de los Poderes del Estado, previo acuerdo de las tres cuartas partes del número de los Diputados presentes.
 
@@ -427,11 +435,21 @@ XXIX. Formar los Códigos y demás leyes de su régimen interior.
 
 XXX. Dar reglas sobre colonización y enajenación de terrenos baldíos en el Estado.
 
-XXXI. Condonar contribuciones cuando lo considere justo y equitativo.
+(RERFORMADA, P.O. 30 DE MARZO DE 1919)
+
+XXXI. Condonar contribuciones cuando lo considere justo y equitativo y absolver de responsabilidades a los empleados en Rentas cuando así lo estimare de justicia.
 
 XXXII. Expedir todas las leyes que sean necesarias o propias para hacer efectivas las facultades que anteceden.
 
 XXXIII. Ejercer las facultades que le correspondan conforme a la Constitución General de la República y a la presente.
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1919)</small>
+
+XXXIV.- Fijar el revalúo de cualquiera finca urbana o rústica cuando sea de equidad y justicia.
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1919)</small>
+
+XXXV.- Designar, en funciones de Colegio Electoral, el candidato que para integrar la Suprema Corte de Justicia de la Nación, debe proponer la Legislatura de cada Estado de la Federación según el artículo 96 de la Constitución General. En la elección de este Candidato, el Congreso se sujetará a lo ordenado para la elección de los Magistrados del Supremo Tribunal de Justicia en el Estado.
 
 ###### Art. 48.
 
@@ -537,7 +555,9 @@ Se confiere el Poder Ejecutivo a un ciudadano que se denominará Gobernador Cons
 
 Para ser Gobernador se requiere:
 
-I. Ser nativo del Estado Nayarit, hijo de padres mexicanos, con domicilio legal en él, cuando menos cinco años inmediatamente anteriores al día de la elección y en uso perfecto de sus derechos.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
+
+I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del Estado, o con vecindad legal en él no menor de cinco años inmediatamente anteriores al día de la elección.
 
 II. Tener treinta y cinco años de edad cumplidos el día de la elección y no más de sesenta y cinco.
 
@@ -573,9 +593,11 @@ Si al comenzar el período constitucional no se presentare el Gobernador electo,
 
 El cargo de Gobernador del Estado solo es renunciable por causa grave que calificará el Congreso, ante el cual se presentará la renuncia.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1919)</small>
+
 ###### Art. 68.
 
-El Gobernador no podrá separarse del Territorio del Estado ni del ejercicio de sus funciones, sino con permiso de la Cámara o de la Diputación Permanente en su caso, por un término que exceda de setenta y dos horas; pues si no excede de dicho término no necesitará permiso ni se le considerará separado del ejercicio de sus funciones.
+El Gobernador no podrá salir del Territorio del Estado, ni separarse del ejercicio de sus funciones sin permiso de la Cámara o de la Diputación Permanente, en su caso.
 
 ### CAPITULO VII. De las facultades y obligaciones del Gobernador
 
@@ -599,7 +621,9 @@ V.- (A). Cuidar de la legal recaudación e inversión de todos los caudales púb
 
 VI.- Fomentar por todos los medios posibles, la educación popular y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras morales y materiales que interesen a la colectividad.
 
-VII.- Visitar dentro del periodo de su Gobierno, todos los pueblos del Estado, para conocer sus necesidades, remediar sus males y promover sus mejoras, dando cuenta al Congreso del resultado de cada visita.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
+
+VII.- Visitar, previo aviso a la Legislatura y dentro del periodo de su Gobierno, todos los pueblos del Estado, para conocer sus necesidades, remediar sus males y promover sus mejoras dando cuenta al Congreso del resultado de cada visita.
 
 VIII.- Convocar, por conducto de la Diputación Permanente, a la Legislatura a sesiones extraordinarias.
 
@@ -609,17 +633,23 @@ X.- Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos e
 
 XI.- Impartir a los Tribunales el auxilio que demanden para el desempeño de sus funciones.
 
-XII.- Nombrar y remover libremente al Secretario General de Gobierno, al Director General de Rentas y a los demás empleados cuyo nombramiento no esté encomendado a otras autoridades.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
+
+XII.- Nombrar y remover libremente al Secretario General de Gobierno y a los demás empleados cuyo nombramiento no esté encomendado a otras autoridades.
 
 XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
 
 XIV.- Otorgar las habilitaciones y dispensas matrimoniales para cuya concesión lo faculte la ley, pudiendo delegar esta facultad a los Presidentes Municipales.
 
-XV.- Castigar correccionalmente a los que le falten al respeto, o desobedezcan sus disposiciones como Gobernador, en los términos que establece el artículo 21 de la Constitución General de la República.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MARZO DE 1919)</small>
+
+XV.- Castigar correccionalmente a los que le falten al respeto, o desobedezcan sus disposiciones como Gobernador, en los términos que establece el artículo 21 de la Constitución General de la República no pudiendo legalmente en ningún caso exceder la multa de cincuenta pesos, y si se trata de jornaleros u obreros, aquella no podrá pasar del equivalente del jornal de una semana.
 
 XVI.- Hacer que las elecciones sean libres e impedir que alguno ejerza presión en ellas.
 
-XVII.- Suspender a los Presidentes Municipales que abusaren de sus facultades, dando inmediatamente parte justificado a la Legislatura y en su receso a la Diputación Permanente, para determinar lo que fuere oportuno.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
+
+XVII.- Suspender hasta por quince días, a los Presidentes Municipales que abusaren de sus facultades, dando inmediatamente parte justificado a la Legislatura o en su receso a la Diputación Permanente, para que determine una u otra, lo que fuere oportuno.
 
 XVIII.- Formar el Catastro del Estado, proponiéndolo a la Legislatura para su aprobación.
 
@@ -716,6 +746,12 @@ El mismo funcionario reglamentará la Secretaría de su cargo, de acuerdo con el
 ###### Art. 80.
 
 Sustituir al Gobernador en las faltas no previstas en los artículos 63 y 64 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 1919)</small>
+
+###### Art. 80 Bis.
+
+El Secretario General de Gobierno, en unión del Procurador General de Justicia, del Presidente del Supremo Tribunal, del Director General de Rentas, Jueces de Primera Instancia y Presidente del Ayuntamiento de la Capital del Estado, constituyen el Consejo de Gobierno, cuya Presidencia será asumida por el primero. El Consejo dará dictamen al Gobernador, siempre que éste lo pida, procurando fundarlo en la Ley.
 
 ## TITULO QUINTO
 
@@ -857,9 +893,11 @@ Los miembros de las Corporaciones Municipales serán electos popularmente, y su 
 
 De los miembros del Ayuntamientos habrá uno que se denominará Presidente Municipal, otro Síndico y los demás Regidores. El primero será política y administrativamente el representante de la Corporación, y no podrá ser reelecto.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1919)</small>
+
 ###### Art. 109.
 
-Los Municipios administrarán libremente su hacienda, la cual se formará de contribuciones que ellos mismos señalen, con aprobación de la Legislatura.
+Los Ayuntamientos administrarán libremente su Hacienda, sometiendo a la aprobación de la Legislatura del Estado, por conducto del Ejecutivo, sus Presupuestos de Ingresos y Egresos Municipales.
 
 ###### Art. 110.
 
@@ -885,15 +923,25 @@ VI (sic). No tener impedimento legal alguno.
 
 Los miembros del Ayuntamiento serán responsables personal y colectivamente conforme a las leyes civiles y penales, de los actos que ejecuten en el ejercicio de sus funciones, y dichas responsabilidades podrán ser exigidas ante las autoridades que correspondan, ya sea directamente por los particulares cuando se ofendan sus derechos o por el Procurador General de Justicia en el Estado cuando se ofendan los de la sociedad.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1919)</small>
+
 ###### Art. 114.
 
-Los Ayuntamientos se renovarán cada año y la Ley Electoral determinará el tiempo y forma en que deba hacerse la elección.
+Los Ayuntamientos se renovarán cada dos años en su totalidad y la Ley Orgánica Electoral, determinará el tiempo y forma en que deba hacerse la elección. Esta reforma comenzará a surtir sus efectos desde el día 1º. de enero de 1919.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1919)</small>
 
 ###### Art. 115.
 
-Las facultades y obligaciones de los Ayuntamientos serán las que la Ley Municipal les determine.
+El Congreso del Estado determinará por Ley especial que llevará el nombre de "LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE NAYARIT", los estatutos económicos y administrativos a que deben sujetarse los Municipios en su régimen interior, y los cuales podrá la Legislatura alterar o modificar cuando el bien de la Administración Pública general o de los mismos Municipios lo hiciere necesario. Tanto en la Ley Orgánica Municipal, como en sus alteraciones o modificaciones en su caso, se atenderá siempre a mantener la unidad del Gobierno que necesariamente exige la Administración Pública General del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución General de la República. En consecuencia, los Municipios, sin infringir las Leyes Federales o del Estado y sin excederse de sus Presupuestos respectivos, tienen derecho a atender libremente, de la manera que juzguen más eficaz, todos los Ramos de la Administración Pública interior de los mismos Municipios.
 
-## TITULO SÉPTIMO
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 1919)</small>
+
+###### Art. 115 Bis.
+
+La Hacienda de los Municipios de formará de las contribuciones que ellos mismos señalen con aprobación de la Legislatura del Estado, siendo en todo caso suficientes para atender sus necesidades.
+
+## TITULO SEPTIMO
 
 ### CAPITULO UNICO. De la Inviolabilidad y Reformas de esta Constitución
 
@@ -913,9 +961,11 @@ V. Las multas que conforme a las leyes deban ingresar al Erario.
 
 VI. Las donaciones, legados, herencias y reintegros que se hagan o dejen al Tesoro Público.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1919)</small>
+
 ###### Art. 117.
 
-Para la guarda y distribución de los caudales públicos, habrá una Oficina Principal que se denominará Dirección General de Rentas, a cargo de un Director nombrado por el Ejecutivo, la cual estará auxiliada a su vez por Oficinas Recaudadoras foráneas.
+Para la guarda y distribución de los caudales públicos, habrá una Oficina Principal que se denominará Dirección General de Rentas, a cargo de un Director, la cual estará auxiliada a su vez por Oficinas Recaudadoras foráneas.
 
 ###### Art. 118.
 
@@ -934,6 +984,12 @@ Todo empleado de Hacienda que tuviere manejo de caudales públicos, lo caucionar
 ###### Art. 121.
 
 El año fiscal queda comprendido del primero de enero al treinta y uno de diciembre inclusive.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 1919)</small>
+
+###### Art. 121 Bis.
+
+Para el arreglo y Administración de los caudales del Estado, el Ejecutivo, con aprobación de la Legislatura, nombrará un individuo que se denominará "Director General de Rentas"; quien desempeñará su cargo bajo la inmediata inspección del Poder Ejecutivo. A este funcionario, sólo se le podrá separar de su cargo, por ineptitud en el desempeño de sus labores, declarada por el Ejecutivo, de acuerdo con la Legislatura o por delitos en los que se pronuncie sentencia condenatoria ejecutoriada.
 
 ## TITULO OCTAVO
 
@@ -977,9 +1033,11 @@ En demanda del orden civil no habrá fuero, ni inmunidad para ningún funcionari
 
 Esta Constitución no perderá su fuerza y vigor aún cuando por trastornos se hubiere interrumpido su observancia. Si por cualquier caso se estableciere un Gobierno contrario a los principios que ella sanciona, una vez restablecido el orden constitucional volverá a ser acatada, exigiéndose la responsabilidad a todos los que la hubieren infringido.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1919)</small>
+
 ###### Art. 131.
 
-Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto deberán estar suscritas por cinco Diputados o ser iniciadas por el Ejecutivo del Estado.
+Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto deberán estar suscritas por cinco Diputados o ser iniciadas por el Ejecutivo del Estado; necesitando para la aprobación de las proposiciones de adiciones o reformas, la aprobación de las dos terceras partes del número total de Diputados.
 
 ###### Art. 132.
 
@@ -1034,6 +1092,12 @@ JOSÉ S. GODÍNEZ.
 EL OF. MAYOR ENCARGADO DE LA SRÍA. DE GOBNO.
 
 J.N. Muñoz Ruiz.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 30 DE MARZO DE 1919
+
+Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 
 ###### Art. 1o.
 
