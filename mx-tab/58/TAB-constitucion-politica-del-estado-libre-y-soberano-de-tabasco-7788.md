@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1997-04-26"
+last_updated: "1998-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1998.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -307,8 +307,6 @@ VII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 1996)(F. DE E., P.O. 8 DE MARZO DE 1997
 
 ### CAPITULO IV. INICIATIVA Y FORMACION DE LAS LEYES
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ###### ARTICULO 15.
 
 Para ser Diputado se requiere:
@@ -385,13 +383,11 @@ Los fallos del Pleno serán definitivos. La ley establecerá los presupuestos, r
 
 Calificadas las elecciones de la mayoría de los Diputados integrantes de la Cámara y habiendo quórum, otorgarán protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen; rindiéndola por sí, el Presidente de la Junta Preparatoria, quien la tomará después a los otros Diputados. Acto seguido, se designará la Mesa Directiva del Congreso y se hará la declaración solemne de quedar instalada la Legislatura respectiva y abierto su período de sesiones ordinarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 23.
 
-El Congreso del Estado tendrá dos períodos de sesiones al año, el inicial, del dos de enero al treinta de abril y al final, del primero de septiembre al treinta y uno de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45 primer párrafo de esta Constitución.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+El Congreso del Estado tendrá dos períodos ordinarios de sesiones al año, el primero del dos de enero al treinta y uno de mayo y el segundo del uno de agosto al treinta y uno de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45, primer párrafo de esta Constitución.
 
 Durante el receso funcionará una Comisión Permanente.
 
@@ -401,19 +397,21 @@ Durante el receso funcionará una Comisión Permanente.
 
 El Congreso funcionará con la asistencia de la mitad más uno del total de sus componentes. A falta de quórum para iniciar algún período de sesiones, se procederá de acuerdo con el artículo veintiuno convocando a elecciones la Comisión Permanente.
 
-(REFORMADO, P.O. 1 DE ENERO DE 1994) (F. DE E., P.O. 5 DE ENERO DE 1994)
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 25.
 
-Durante el primer período de sesiones, el Congreso se ocupará preferentemente de expedir, reformar y derogar leyes y Decretos para la mejor administración del Estado; así como de revisar y calificar la cuenta pública del año anterior.
+En los períodos ordinarios de sesiones el Congreso se ocupará preferentemente de expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado, así como revisar y calificar la cuenta pública.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 26.
 
-El Congreso declarará al examinar y calificar la cuenta pública del año anterior, si las cantidades percibidas y gastadas están de acuerdo con las partidas presupuestales respectivas, si los gastos están justificados o ha lugar a exigir responsabilidades.
+El Congreso declarará al examinar y calificar la cuenta pública, si las cantidades percibidas y gastadas están de acuerdo con las partidas presupuestales respectivas, si los gastos están justificados o ha lugar a exigir responsabilidades.
 
-Para tales efectos, el Congreso tiene facultades para practicar las investigaciones que considere convenientes.
+Para tales efectos, el Congreso tiene facultades para practicar las investigaciones que considere procedentes.
+
+La resolución que emita el Congreso al calificar la cuenta pública, es inatacable.
 
 (REFORMADO, P.O. 1 DE ENERO DE 1994) (F. DE E., P.O. 5 DE ENERO DE 1994)
 
@@ -421,37 +419,25 @@ Para tales efectos, el Congreso tiene facultades para practicar las investigacio
 
 Durante el segundo período el Congreso se ocupará preferentemente, de estudiar, discutir y votar las leyes de Ingresos de los Municipios; del Estado y del Presupuesto de Egresos de este último que será presentado por el Ejecutivo.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ###### ARTICULO 28.
 
 Toda resolución del Congreso tendrá el carácter de LEY o DECRETO. Unas y otros se remitirán al Ejecutivo firmados por el Presidente y el Secretario para su promulgación.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 29.
 
 El Congreso se reunirá en sesiones extraordinarias cada vez que lo convoque para este objeto la Comisión Permanente por sí, o a solicitud del Ejecutivo y sólo se ocupará del asunto o asuntos que la propia Comisión someta a su conocimiento, expresados en la convocatoria respectiva. En la apertura de las sesiones extraordinarias a que fuera convocado el Congreso, el Presidente de la Comisión Permanente informará acerca de los motivos o razones que originaron la convocatoria.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ###### ARTICULO 30.
 
 Si las sesiones extraordinarias se prolongan hasta que deban comenzar las ordinarias, cesarán aquellas y durante éstas se despacharán los asuntos objeto de la convocatoria que hayan quedado pendientes.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 31.
 
 La Legislatura del Estado celebrará sus sesiones en la ciudad de Villahermosa y no podrá trasladarse a otro sitio sin el acuerdo de las dos terceras partes de sus miembros.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ###### ARTICULO 32.
 
 Las sesiones serán públicas, excepto cuando el Reglamento o la índole del asunto de que se trate exija el secreto.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO VI. COMISION PERMANENTE Y SUS ATRIBUCIONES
 
@@ -469,13 +455,9 @@ III.- Al Tribunal Superior de Justicia, en asuntos de su ramo; y
 
 IV.- A los Ayuntamientos en asuntos del ramo municipal.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ###### ARTICULO 34.
 
 Ningún proyecto de ley o decreto que fuere desechado en el Congreso podrá ser presentado de nuevo en el mismo período de sesiones.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 35.
 
@@ -484,8 +466,6 @@ Las leyes o decretos aprobados por el Congreso se enviarán al Ejecutivo, quien 
 El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso, quien deberá discutirlo de nuevo y de aprobarlo, lo enviará para su promulgación.
 
 Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras partes de los Diputados presentes, el proyecto tendrá el carácter de ley o decreto y será devuelto al Ejecutivo para su inmediata promulgación.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO VII. CONTADURIA MAYOR DE HACIENDA
 
@@ -625,7 +605,17 @@ XXXIX.- Expedir las Leyes necesarias para hacer efectivas todas las anteriores f
 
 XL.- Legislar en materia de Justicia Administrativa, determinando la organización, competencia, funcionamiento y procedimientos para la defensa de los derechos de los Gobernados frente a los actos de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados;
 
-XLI.- Aquellas que la presente Constitución y las Leyes le señalen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 1998)</small>
+
+XLI.- Revisar y calificar las cuentas públicas de los tres Poderes del Estado y de los Municipios, por períodos trimestrales, a más tardar dentro del tercer mes siguiente al trimestre que corresponda, con base en los informes técnicos y financieros que presente la Contaduría Mayor de Hacienda del Congreso.
+
+Cuando el Congreso se encuentre en receso, la calificación podrá realizarse dentro de un período extraordinario, o bien, dentro de los primeros treinta días del siguiente período ordinario de sesiones.
+
+Siempre que las condiciones administrativas lo permitan, la cuenta pública podrá revisarse y calificarse por períodos inferiores a los establecidos en este artículo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE AGOSTO DE 1998)</small>
+
+XLII.- Aquellas que la presente Constitución y las leyes le señalen.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -677,11 +667,11 @@ VIII.- Las demás que le imponga esta Constitución.
 
 La Contaduría Mayor de Hacienda dependerá directamente del Congreso, en ella se glosarán, sin excepción, las cuentas del erario estatal y de los municipios.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 41.
 
-Toda cuenta del erario estatal, y de los municipios deberá quedar concluída y glosada, anualmente, cuarenta y cinco días antes de concluir el primer período de sesiones del Congreso. El incumplimiento de este precepto, imputable a los servidores públicos de la Contaduría, es causa de responsabilidad en los términos de las leyes aplicables.
+Las cuentas públicas de los tres Poderes del Estado y de los Municipios, deberán quedar concluidas y glosadas por períodos trimestrales, a más tardar dentro del segundo mes siguiente al trimestre que corresponda. El incumplimiento de este precepto imputable a los servidores públicos de la Contaduría Mayor de Hacienda, es causa de responsabilidad en los términos de las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -797,9 +787,9 @@ V.- Solicitar a la Comisión Permanente que convoque a sesiones extraordinarias;
 
 VI.- Facilitar al Poder Judicial los auxilios que necesite, para hacer expedito el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
 
-VII.- Publicar mensualmente los cortes de caja de las oficinas recaudadoras del Estado, así como enviar anualmente dentro de los primeros quince días del mes de abril, la cuenta pública del año anterior al Congreso del Estado, para su examen y calificación;
+VII.- Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras del Estado y remitir a la Contaduría Mayor de Hacienda, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, enviar trimestralmente a dicha Contaduría, dentro de los treinta días siguientes del trimestre que corresponda, la cuenta pública para su examen y calificación trimestral;
 
 VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
 
@@ -1123,7 +1113,17 @@ Los presupuestos de Egresos serán aprobados por los Ayuntamientos sobre la base
 
 Para la aprobación de la Ley de Ingresos de los Ayuntamientos, éstos enviarán sus proyectos a la Legislatura local por conducto del Ejecutivo.
 
-Para la revisión de las cuentas públicas de los Ayuntamientos, éstos presentarán estas cuentas anualmente a la Legislatura, acompañadas del Presupuesto de Egresos aprobado, con la documentación que acredite las erogaciones y con el avance de las metas propuestas en el Plan Municipal y en los Programas Operativos anuales. Los Ayuntamientos no podrán contraer empréstitos ni celebrar contratos cuya duración exceda de un año, ni enajenar bienes sin autorización del Poder Legislativo, ni cobrar contribuciones que correspondan al año siguiente de su período.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+Los Ayuntamientos o Concejos Municipales, enviaran mensualmente a la Contaduría Mayor de Hacienda, dentro de los quince días del mes siguiente que corresponda, los informes que acrediten las erogaciones y el avance de las metas propuestas en el Plan Municipal y en el Programa Operativo Anual. Asimismo, remitirán trimestralmente a la mencionada Contaduría, dentro de los quince días siguientes del trimestre respectivo, la cuenta pública para su revisión y calificación trimestral.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+Al presentar el informe del primer mes del ejercicio, deberá adjuntarse el presupuesto de egresos aprobados para dicho ejercicio fiscal. Los ajustes presupuestales autorizados deberán presentarse en el informe mensual correspondiente.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+Los Ayuntamientos no podrán contraer empréstitos ni celebrar contratos cuya duración exceda de un año, ni enajenar bienes sin autorización del Poder Legislativo, ni cobrar contribuciones que correspondan al año siguiente de su período.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JUNIO DE 1983)</small>
 
@@ -1850,3 +1850,13 @@ P.O. 26 DE ABRIL DE 1997.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrarán en vigor a partir de su aprobación.
+
+P.O. 5 DE AGOSTO DE 1998.
+
+PRIMERO.- El presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Por única vez, las cuentas públicas del Estado y de los Municipios, correspondientes a los meses de enero a junio de mil novecientos noventa y ocho, serán calificadas, por ese período semestral, por el Congreso del Estado, a más tardar el treinta de septiembre del presente año; para lo cual la Contaduría Mayor de Hacienda, deberá concluir y glosar dichas cuentas en un término perentorio que vencerá el treinta y uno de agosto del citado año.
+
+TERCERO.- Por lo que hace a las cuentas públicas del tercero y cuarto trimestre del año en curso, se estará a lo dispuesto en el presente Decreto.
+
+CUARTO.- El receso en el que actualmente se encuentra el H. Congreso del Estado, concluye el día treinta y uno de agosto del presente año.
