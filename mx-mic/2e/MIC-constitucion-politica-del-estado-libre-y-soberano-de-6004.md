@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1981-01-26"
+last_updated: "1982-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -857,7 +857,7 @@ El Secretario General de Gobierno, será el órgano por el cual el Ejecutivo com
 
 El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de las dependencias básicas del Poder Ejecutivo, a rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 65.
 
@@ -1291,23 +1291,21 @@ Cada Municipio será representado y administrado por un Ayuntamiento de elecció
 
 El Ayuntamiento tendrá personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1982)</small>
 
 ###### Artículo 114.
 
-Los Ayuntamientos se compondrán de un Presidente y de tantos regidores como determine la ley, pero éstos no podrán ser menos de cinco. Habrá también un Síndico que será electo por el Ayuntamiento de entre los individuos que lo forman.
+Los Ayuntamientos del Estado se integrarán con un presidente, un síndico y los regidores que determine la Ley Orgánica Municipal, los que no podrán ser menos de cinco. El síndico será electo por el Ayuntamiento de entre los individuos que lo formen.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+La elección de los Ayuntamientos del Estado, se efectuará bajo el principio de representación proporcional, de conformidad con las bases siguientes:
 
-En la elección del Ayuntamiento de la capital del Estado y de los municipios cuya población sea de trescientos mil o más habitantes, se establecerá en la Ley el principio de representación proporcional, de conformidad con las bases siguientes:
+I. Los partidos políticos para tener derecho a participar en la asignación de presidentes y regidores, por le principio de representación proporcional, deberán postular candidatos en un mínimo de 38 municipios y obtener por lo menos el 1.5% de la votación total en el Estado.
 
-I. Al partido político cuya planilla hubiera obtenido el mayor número de votos tendrá derecho a que se le acrediten a quienes encabecen como Presidente Municipal y síndico del Ayuntamiento, respectivamente.
+II. El partido político cuya plantilla hubiere obtenido el mayor número de votos, tendrá derecho a que se le acredite el presidente municipal;
 
-II. Las regidurías que integren el cabildo, se dividirán entre la votación total emitida para todas las planillas presentadas por lo partidos políticos contendientes, a fin de obtener un cociente electoral.
+III. Para la asignación de regidurías, la votación total emitida para todas las plantillas, se dividirá entre el número de regidores que deban integrar el Ayuntamiento, a fin de obtener un cociente electoral, debiéndose establecer en la Ley Electoral íntegro el procedimiento a seguir.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
-
-La Ley determinará los demás procedimientos que regirán el principio de representación proporcional.
+Sólo en las elecciones de los Ayuntamientos donde participen por lo menos dos partidos políticos, de conformidad con los requisitos señalados en l fracción I de este artículo, podrá aplicarse al principio de representación proporcional; en caso contrario, se observará lo que al efecto señale la Ley Electoral para las elecciones que se celebren conforme al principio de mayoría relativa.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1924,3 +1922,11 @@ UNICO. Este Decreto entrará en vigor a los 5 cinco días de su publicación en 
 P.O. 26 DE ENERO DE 1981.
 
 UNICO. El Decreto respectivo entrará en vigor a los 5 días siguientes a su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MARZO DE 1982.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Reserve la Secretaría del H. Congreso del Estado el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura, para los efectos del artículo 164, fracciones III y IV de la Constitución Particular del Estado de Michoacán.
