@@ -4,7 +4,7 @@ identifier: "FED-ley-forestal-111"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-22"
-last_updated: "1997-05-20"
+last_updated: "2001-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-12-17"
 
 LEY FORESTAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación el martes 22 de diciembre de 1992.
 
@@ -235,25 +235,27 @@ El Consejo fungirá como órgano de consulta de la Secretaría en las materias q
 
 ### CAPITULO III. De la coordinación y concertación en materia forestal
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 7o.
 
-Los acuerdos y convenios que en materia forestal celebre la Secretaría con los gobiernos de los estados y del Distrito Federal podrán versar sobre los siguientes asuntos:
+La Federación a través de la Secretaría y con la intervención que corresponda a sus entidades sectorizadas, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos del Distrito Federal o de los estados, con la participación, en su caso, de sus municipios, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
 
-I. La formulación, articulación e instrumentación de programas forestales, especialmente de forestación y reforestación para el rescate de zonas erosionadas, así como de agroforestería y manejo y uso múltiple del ecosistema forestal;
+I. Recibir los avisos de aprovechamiento de recursos forestales no maderables y los de forestación;
 
-II. El fomento a la educación, cultura, capacitación e investigación forestales;
+II. Celebrar, conforme a lo previsto en la presente ley, acuerdos y convenios en materia forestal con otras instituciones públicas y personas físicas o morales de los sectores social y privado;
 
-III. Las medidas de fomento para la conservación, protección y restauración de los recursos forestales, para las plantaciones comerciales y de otra naturaleza, y para los aprovechamientos forestales que se realicen conforme a los términos de esta ley;
+III. Dotar a los propietarios o legítimos poseedores de los predios con toda la información previa disponible sobre futuros acuerdos o convenios, especialmente en los casos de cambios en el uso de suelo;
 
-IV. La inspección y vigilancia forestales;
+IV. Formular, articular e instrumentar programas forestales, especialmente de forestación y reforestación para el rescate de las zonas erosionadas, así como de agroforestería y manejo y uso múltiple del ecosistema forestal;
 
-V. La asunción, por parte de los gobiernos de los estados y del Distrito Federal, del ejercicio de las funciones operativas que en esta ley se preven en favor de la Secretaría.
+V. Fomentar la educación, cultura, capacitación e investigaciones forestales, enfatizando lo referente a la conservación y reintroducción de especies nativas o adaptadas a condiciones ambientales específicas;
 
-Los instrumentos a que se refiere la última fracción de este artículo, deberán ser publicados en el Diario Oficial de la Federación y en el periódico oficial o gaceta del estado de que se trate o del Departamento del Distrito Federal.
+VI. Aplicar las medidas de fomento para la conservación, protección y restauración de los recursos forestales, para las plantaciones comerciales y de otra naturaleza, y para los aprovechamientos forestales que se realicen conforme a los términos de esta ley, o
 
-Asimismo, los estados podrán celebrar convenios y acuerdos con sus municipios, para que éstos asuman las atribuciones y responsabilidades a que se refiere este artículo.
+VII. Las previstas en el artículo 5o., fracciones IV, VI, VIII, X, XII, XIII, XV, XVI y XVII de esta ley.
 
-La Secretaría dará seguimiento y evaluará los resultados que se obtengan por la ejecución de los acuerdos y convenios a que se refiere este artículo.
+La celebración de dichos convenios o acuerdos de coordinación se sujetará a las bases previstas en el artículo 12 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ###### Artículo 8o.
 
@@ -1100,3 +1102,9 @@ CUARTO.- En los procedimientos que se encuentren en trámite ante la Secretaría
 QUINTO.- Hasta en tanto se establezcan las características de la documentación y de los sistemas de control para acreditar la legal procedencia de las materias primas forestales en su transporte, almacenamiento y transformación, de conformidad con el reglamento de esta ley y las normas oficiales mexicanas que al efecto se expidan, continuarán vigentes los sistemas de control que originalmente se establecían en el artículo 20.
 
 SEXTO.- Los procedimientos relativos a la imposición de sanciones motivadas por infracciones a la legislación forestal, que se encuentren en trámite ante la Secretaría, así como la calificación de las infracciones cometidas, se resolverán de conformidad con las disposiciones vigentes al momento del inicio del procedimiento de que se trate o de la comisión de la infracción respectiva.
+
+D.O.F. 31 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En un plazo no mayor de 90 días hábiles, a partir de la publicación de este decreto que reforma el artículo 7 de la Ley Forestal, la Secretaría efectuará una publicación oficial de la lista completa de los recursos forestales no maderables que hasta esa fecha, hayan sido identificados por dicha Secretaría.
