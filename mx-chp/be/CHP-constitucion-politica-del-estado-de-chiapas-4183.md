@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1984-05-23"
+last_updated: "1987-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 1987.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -263,7 +263,7 @@ No podrán reunirse dos o más de estos Poderes en una sola persona o corporaci�
 
 El Poder Legislativo se deposita en una Asamblea de Representantes del pueblo que se denominara Congreso del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1987)</small>
 
 ## TITULO TERCERO. DE LOS PODERES PUBLICOS
 
@@ -275,23 +275,19 @@ El Poder Legislativo se deposita en una Asamblea de Representantes del pueblo qu
 
 ###### ARTICULO 16.
 
-El Congreso del Estado se integrara con Diputados electos en su totalidad cada tres años, por cada Diputado Propietario se elegirá un Suplente.
+El Congreso del Estado se integra con Diputados electos en su totalidad cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-La elección será libre, directa, sujeta a los principios de mayoría relativa y de Representación Proporcional en los términos de esta Constitución y de la Ley Reglamentaria que se expida. Los Diputados Propietarios no podrán ser reelectos para el periodo inmediato, ni aun como Suplentes. Los Diputados Suplentes podrán ser reelectos para el periodo inmediato con el carácter de Propietarios, si no hubieren estado en ejercicio.
+La elección será libre, directa y sujeta a los Principios de Mayoría Relativa y de Representación Proporcional, en los términos de esta Constitución y del Código Electoral.
 
-El Congreso del Estado estará integrado con quince Diputados electos según el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta por seis Diputados electos según el principio de Representación Proporcional, mediante el sistema listas votadas en una circunscripción plurinominal, conforme lo determine la Ley reglamentaria.
+Los Diputados Propietarios no podrán ser reelectos para el período inmediato, ni aún como Suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietarios, si no hubieren ejercido el cargo.
 
-La demarcación territorial de los Distritos Electorales uninominales será la que resulte de dividir la población total del Estado entre el numero de Distritos.
+El Congreso del Estado, se integra con quince diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y hasta por once diputados electos según el Principio de Representación Proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal, conforme lo determine el Código Electoral.
 
-La elección de los Diputados según el principio de representación proporcional y el sistema de listas, se sujetara a las bases siguientes:
+El Partido que obtenga mas del cincuenta por ciento de la votación emitida, tendrá derecho a tres Diputados de Representación Proporcional y los ocho restantes se adjudicarán a aquellos Partidos que, habiendo alcanzado el uno y medio por ciento de la votación total del Estado, obtengan una mayor proporción de votos.
 
-I.- Para obtener el registro de sus listas, el Partido Político que solicite, deberá acreditar que participa con los candidatos a Diputados en por lo menos diez de los Distritos Electorales uninominales de la Entidad.
+El Código Electoral del Estado determinará las reglas y el procedimiento a que se sujetará la asignación de Diputados de Representación Proporcional.
 
-II.- Todo Partido Político tendrá derecho a participar en la asignación de Diputados según el principio de Representación Proporcional, siempre que no haba obtenido dos o mas constancias de mayoría y alcance por lo menos el 1.5 por ciento del total de la votación emitida para las listas en la circunscripción plurinominal.
-
-III.- Al Partido que cumpla con los requisitos a que aluden las fracciones anteriores le será asignado en numero de Diputados de su lista que corresponda al porcentaje de votos obtenidos, en los términos que establezca la Ley de la materia. La Ley determinara los procedimientos que se observaran para las asignaciones que, en todo caso atenderán al orden que tuviesen los Candidatos en las listas; y
-
-IV.- No podrán figurar como Candidatos en las listas de Representación Proporcional, quienes participan con tal carácter en la elección, según el principio de mayoría relativa en los Distritos Electorales Uninominales.
+Ningún Partido tendrá derecho a que le sean reconocidos mas de dieciocho diputados, que representan el 70% del total de los miembros que integran el Congreso, aún cuando hubiere obtenido un porcentaje de votos superior.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -331,11 +327,13 @@ D) Los funcionarios federales; y
 
 E) Los militares en servicio activo y quienes tengan mando de la Policía en el Distrito donde se efectúe la elección.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 19.
 
-El Congreso del Estado calificara las elecciones de sus miembros a través de un Colegio Electoral, integrado por siete presuntos diputados electos por el sistema de mayoría relativa que hayan alcanzado mayor numero de votos y, en su caso, por tres presuntos Diputados electos por el sistema de Representación Proporcional de las listas que hubiesen logrado la mas alta votación. Las resoluciones del Colegio Electoral serán defintivas e inapelables. Los organismos electorales correspondientes expedirán las constancias de mayoría y las relativas a las listas que hubiesen logrado mas altas votaciones.
+El Congreso del Estado calificará la elección de sus miembros a través de un Colegio Electoral, integrado con todos los presuntos diputados que hubieren obtenido constancia de mayoría expedida por la Comisión Electoral del Estado, tanto con los electos por el Principio de Mayoría Relativa como con los del Principio de Representación Proporcional.
+
+Corresponde al Estado la preparación, desarrollo y vigilancia de los Procesos Electorales. El Código Electoral determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los Partidos Políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen, e instituirá un Tribunal que tendrá la competencia que determine el propio Código Electoral, y estará integrado por tres Magistrados Numerarios y dos Supernumerarios nombrados por el Congreso del Estado y, en su receso, por la Comisión Permanente; las resoluciones del Tribunal seran obligatorias y sólo podrán ser modificadas por el Congreso, que será la última instancia en la calificación de elecciones, cuyos fallos serán definitivos e inapelables.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -515,7 +513,9 @@ XL.- Conocer, como Jurado de acusación, de los procedimientos que por delitos o
 
 XLI.- Erigirse en jurado para declarar si ha o no lugar para proceder contra alguno de los funcionarios públicos que gocen de fuero constitucional, cuando sean acusados por delitos del orden común;
 
-XLII.- Conocer y resolver conforme las leyes relativas, de los casos de nulidad de elección popular, así como de cualquier otro conflicto que se suscite con motivo de las elecciones municipales;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 1987)</small>
+
+XLII.- Conocer y resolver, en los términos del Artículo 19 de esta Constitución y del Código Electoral de los casos de nulidad de elecciones, así como de cualquier otro conflicto que se suscite con motivo de éstas;
 
 XLIII.- Decretar a iniciativa del Tribunal Superior de Justicia o del Ejecutivo, la creación de nuevos Juzgados;
 
@@ -524,6 +524,10 @@ XLIV.- Citar a los Presidentes Municipales para que informen sobre el estado que
 XLV.- Sancionar las licencias mayores de quince días que soliciten los integrantes de los Ayuntamientos; y
 
 XLVI.- Expedir todas las leyes que sean necesarias con objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los otros Poderes del Estado.
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 1987)</small>
+
+XLVII.- Instituir el Tribunal Electoral del Estado, en los términos de lo dispuesto por esta Constitución y el Código Electoral.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -575,11 +579,11 @@ XII.- Las demás que le asigna la presente Constitución.
 
 Se deposita el Poder Ejecutivo en un ciudadano que se denominará "GOBERNADOR DEL ESTADO DE CHIAPAS".
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 34.
 
-La elección de Gobernador será directa y en los términos que disponga la Ley Electoral.
+La elección de Gobernador será directa y en los términos que disponga el Código Electoral.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -775,7 +779,7 @@ Las faltas del Procurador que no excedan de cinco días, serán suplidas por el 
 
 El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, en los Juzgados de Primera Instancia, en los Juzgados de lo Familiar, en los Juzgados Municipales y en los Juzgados Rurales.
 
-La Ley Orgánica del Poder Judicial establecerá los Distritos Judiciales en que se divide el Estado.
+La Ley Orgánica del Poder Judicial establecerá los distritos Judiciales en que se divide el Estado.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1431,7 +1435,7 @@ DECRETO No. 67, QUE REFORMA VARIOS ARTICULOS DE LA CONSTITUCION POLITICA DEL EST
 
 El Territorio del Estado de Chiapas es el que posee desde que forma parte de la República Mexicana.
 
-Para su organización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
+Para su oganización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
 
 Acacoyagua, Acala, Acapetahua, Altamirano, Amatán, Amatenango del Valle, Amatenango de la Frontera, Angel Albino Corzo, Arriaga, Bella Vista, Bejucal de Ocampo, Bochil, Berriozábal, Cacahoatán, Catazajá, Cintalapa, Comitán de Domínguez, Coapilla, Copainalá, Chamula, Chanal, Chenalhó, Chiapilla, Chiapa de Corzo, Chalchihuitán, Chilón, Chapultenango, Chicomuselo, Chicoasén, El Bosque, El Porvenir, Escuintla, Francisco León, Frontera Hidalgo, Frontera Comalapa, Huehuetán, Huitiupan, Huixtan, Huixtla, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, La Concordia, La Grandeza, La Independencia, La Libertad, Las Margaritas, Las Rosas, La Trinitaria, Larrainzar, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Mitontic, Motozintla, Nicolás Ruíz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pijijiapan, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, San Cristobal de Las Casas, San Lucas, San Fernando, Salto de Agua, Siltepec, Socoltenango, Simojovel, Solosuchiapa, Suchiapa, Suchiate, Sunuapa, Sitalá, Soyaló, Tapachula, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Tonalá, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tuxtla Chico, Tuzantán, Tzimol, Unión Juárez, Venustiano Carranza, Villaflores, Villa Corzo, Villacomaltitlán, Yajalón y Zinacantán.
 
@@ -1822,3 +1826,7 @@ Se derogan todas las disposiciones legales que se opongan a lo previsto en el pr
 ###### ARTICULO SEGUNDO.
 
 Las presentes adiciones y reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 1987.
+
+UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
