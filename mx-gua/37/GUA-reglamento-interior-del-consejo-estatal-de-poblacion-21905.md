@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-consejo-estatal-de-poblacion-21905"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2003-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE POBLACION
 
-REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE POBLACION
+REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE POBLACIÓN DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO GUBERNATIVO NÚMERO 174, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -422,3 +424,13 @@ GERARDO LUIS RODRÍGUEZ OROZCO.
 EL SECRETARIO DE DESARROLLO SOCIAL Y HUMANO
 
 ARTURO NÚÑEZ SERRANO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+> <small>N. DE E. DEBIDO A LA IMPORTANCIA DEL DECRETO GUBERNATIVO NÚMERO 174, SE TRANSCRIBE EL ARTÍCULO CUARTO DE DICHO DECRETO.</small>
+
+"Artículo Cuarto.- Se abroga el Decreto Gubernativo Número 72, publicado en el Periódico Oficial del Gobierno del Estado Número 52-B, Cuarta Parte, de fecha 30 junio del 2001, mediante el cual se expidió el Reglamento Interior del Consejo Estatal de Población."
+
+P.O. 25 DE NOVIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto Gubernativo entrará en vigor el 1o primero de enero del año 2004 dos mil cuatro, previa su publicación en el Periódico Oficial del Gobierno del Estado.
