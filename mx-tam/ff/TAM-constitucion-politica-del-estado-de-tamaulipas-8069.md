@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1961-10-21"
+last_updated: "1962-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1962.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -531,7 +531,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -743,11 +743,11 @@ Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o
 
 ### CAPITULO I. Del Ejecutivo
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1943)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1962)</small>
 
 ###### Art. 77.
 
-El Poder Ejecutivo se deposita en un funcionario que se denominará "Gobernador Constitucional del Estado de Tamaulipas", siendo su elección directa cada seis años, el primer domingo de noviembre en los términos que señale la Ley Electoral.
+El Poder Ejecutivo se deposita en un funcionario que se denominará "Gobernador Constitucional del Estado Libe y Soberano de Tamaulipas", siendo su elección directa cada seis años, el primer domingo de Diciembre en los términos que señale la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
 
@@ -817,9 +817,9 @@ VI.- Los que estén sujetos a un proceso criminal por delito que merezca pena co
 
 El día cinco de febrero inmediato a la elección entrará el C. Gobernador a ejercer sus funciones por seis años y nunca podrá volver a desempeñar ese cargo ni por nueva elección ni con el carácter de provisional o interino.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1962)</small>
 
-Art 81.- El Congreso, dentro del mes de noviembre correspondiente a la elcción (sic), procederá erigido en Colegio Electoral, a hacer, conforme a la Ley respectiva, el escrutinio de los votos emitidos en la elección y hará la declaración del ciudadano que resulte electo para Gobernador, por medio de un Decreto.
+Art 81.- El Congreso, dentro del mes de Diciembre correspondiente a la elección, procederá erigido en Colegio Electoral, a hacer, conforme a la Ley respectiva, el escrutinio de los votos emitidos en la elección y hará la declaración del ciudadano que resulte electo para Gobernador, por medio de un Decreto.
 
 ###### Art. 81.
 
@@ -1146,6 +1146,8 @@ Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o 
 ###### Art. 114.
 
 Son atribuciones del Supremo Tribunal de Justicia.
+
+I. Conocer en primera instancia de las controversias que se susciten sobre cumplimientos de contratos celebrados por particulares con los Ayuntamientos o con el Estado.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -1810,3 +1812,7 @@ UNICO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su 
 P.O. 21 DE OCTUBRE DE 1961.
 
 TRANSITORIO UNICO.- Este Decreto comenzará a surtir sus efectos el mismo día en que entre en vigor el nuevo Código de Procedimientos Civiles del Estado, aprobado por Decreto Número 381, de fecha 21 de noviembre de 1960 y publicado en el Periódico Oficial No. 79, de fecha 4 del presente mes.
+
+P.O. 23 DE MAYO DE 1962.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
