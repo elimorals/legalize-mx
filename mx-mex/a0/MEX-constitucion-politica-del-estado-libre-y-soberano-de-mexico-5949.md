@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1992-09-11"
+last_updated: "1993-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ENERO DE 1993.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -341,13 +341,17 @@ El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se
 
 El ejercicio del Poder Legislativo, se deposita en una Asamblea que se denominará Legislatura del Estado, integrada por Diputados electos en su totalidad por Sufragio Popular directo. Por cada Diputado Propietario se eligirá un Suplente.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1993)</small>
 
-###### Art. 38.
+###### Artículo 38.
 
-La Legislatura del Estado se compondrá con 34 Diputados electos en Distritos Electorales según el principio de votación mayoritaria relativa y con 23 Diputados de representación proporcional.
+La Legislatura del Estado se compondrá con 40 Diputados electos en distritos electorales según el principio de votación mayoritaria relativa y con 26 Diputados de representación proporcional.
 
-La base para realizar la demarcación territorial de los 34 Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último censo general de población, entre el número de los Distritos señalados, teniendo también en cuenta para su distribución los factores geográfico y socioeconómico.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1993)</small>
+
+La base para realizar la demarcación territorial de los 40 distritos electorales, será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de los distritos señalados, teniendo también en cuenta para su distribución los factores geográfico y socioeconómico.
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1990)</small>
 
 I.- La asignación de Diputaciones por el principio de representación proporcional se efectuará conforme a las siguientes reglas:
 
@@ -361,49 +365,29 @@ A). A los que hayan alcanzado el más alto porcentaje de votación en los Distri
 
 B). A los que aparezcan en la lista complementaria que cada partido debe registrar en el Estado, cuando de la aplicación de la fórmula que este artículo establece, un partido requiera candidatos adicionales a los señalados en el punto anterior.
 
-II.- Si ningún partido político obtiene 29 constancias de mayoría relativa, al que obtenga el mayor número de éstas, le serán asignadas constancias de Diputados de representación proporcional, hasta que el total de sus curules por ambos principios sea igual a 29.
+> <small>(REFORMADO PRIMER PARRAFO , P.O. 29 DE ENERO DE 1993)</small>
+
+II.- Si ningún partido político obtiene 34 constancias de mayoría relativa, al que obtenga el mayor número de éstas, le serán asignadas constancias de diputados de representación proporcional hasta que el total de sus curules por ambos principios sea igual a 34.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
 
 En caso de empate en el número de constancias de mayoría relativa, la asignación de Diputados de representación a que se refiere el párrafo anterior, se otorgará al partido que haya logrado la mayor votación válida emitida en el Estado en la elección de Diputados por mayoría relativa.
 
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1990)</small>
+
 III.- Si un partido obtiene el 51 por ciento o más de la votación válida emitida en el Estado y el número de sus constancias de mayoría relativa es inferior a dicho porcentaje, tendrá derecho a que se le asignen Diputados de representación proporcional, hasta que la suma de sus Diputados electos, por ambos principios, constituya un porcentaje del total de integrantes de la Cámara, equivalente a su porcentaje de la votación válida emitida en el Estado.
 
-En ningún caso los Diputados de un mismo partido podrán ser más de 38.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1993)</small>
+
+En ningún caso los Diputados de un mismo partido podrán ser más de 43.
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1990)</small>
 
 IV. Efectuadas las asignaciones de Diputaciones de representación proporcional previstas en las fracciones anteriores, las restantes se distribuirán a los candidatos de los partidos políticos mediante el cociente natural, que resultará de dividir la votación efectiva minoritaria restante de los partidos políticos entre el número de dichas Diputaciones aún no asignadas; y si todavía quedaran curules por repartir, éstas se distribuirán por resto mayor, siguiendo el orden decreciente de los restos de votos no utilizados por cada uno de los partidos políticos.
 
 Los Diputados de mayoría y los de representación proporcional tendrán iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
-
-###### Artículo 38.
-
-Se elegirán un Diputado Propietario y un Suplente por cada setenta y cinco mil habitantes o más, no pudiendo el Congreso del Estado, en ningún caso, quedar integrado por menos de trece Diputados.
-
-(REFORMADO, P.O. 2 DE FEBRERO DE 1974)(F. DE E., P.O. 22 DE ENERO DE 1976)
-
-La elección de Diputados será directa, con sujeción a lo dispuesto en el párrafo anterior y se complementará, además con Diputados de Partido, apegándose en ambos casos a lo que disponga la Ley Electoral del Estado, y , en el segundo, a las reglas siguientes:
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
-
-Todo Partido Político Nacional, legalmente registrado en el Estado, que obtenga cuando menos el uno y medio por ciento de la votación total en la Entidad en la elección respectiva, tendrá derecho a que se acrediten a un Diputado de sus candidatos y a uno más si ha obtenido el tres por ciento o más de la votación total.
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
-
-Si logra la mayoría en dos o más Distritos Electorales no tendrá derecho a que sean reconocidos Diputados de Partido, pero si triunfa en menor número, siempre que logre el uno y medio por ciento mencionado en el párrafo anterior, tendrá derecho a que sean acreditados hasta dos Diputados sumando el electo directamente y el que obtuvo el triunfo por razón de porcentaje.
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
-
-Estos serán acreditados de acuerdo con el porcentaje de sufragios que hayan obtenido en relación a los demás candidatos del mismo Partido, en sus respectivos distritos.
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
-
-Sólo podrán acreditar Diputados en los términos de este artículo, los Partidos Políticos legalmente registrados conforme a la Ley Electoral del Estado, por lo menos con un año de anterioridad al día de la elección.
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1974)</small>
-
-Los Diputados de mayoría y los de Partido tendrán la misma categoría e iguales derechos y obligaciones.
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1972)</small>
 
 ###### Art. 39.
 
@@ -461,7 +445,25 @@ El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o em
 
 ###### Artículo 45.
 
-Los diputados electos presentarán sus credenciales a la Secretaría de la Legislatura, a fin de darse cuenta con ellas en la primera Junta Preparatoria, que deberá tener verificativo ocho días antes de la apertura del primer Período Ordinario de Sesiones, eligiéndose en la propia Junta la Mesa Directiva conforme al Reglamento Interior.
+La Legislatura calificará a través de un Colegio Electoral, la elegibilidad de sus miembros y la conformidad con la Ley de sus Constancias de mayoría y de asignación proporcional, a fin de declarar, cuando proceda, la validez y la legalidad de su elección.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1993)</small>
+
+El Colegio Electoral de la Legislatura se integrará con 23 presuntos Diputados propietarios. Los partidos políticos tendrán derecho a designar a los integrantes del Colegio Electoral, en número y proporción equivalentes al total de los presuntos Diputados que les hayan sido acreditados con las constancias de mayoría y de asignación proporcional.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
+
+Si del cálculo anterior resultara un número fraccionario, se considerará el número entero más cercano; en caso de que la fracción resultante fuese exactamente la mitad, se tomará el entero superior.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
+
+La acreditación de los integrantes del Colegio Electoral se hará en orden decreciente comenzando por los partidos que hayan obtenido el mayor número de presuntos Diputados, hasta agotar el número de los que integrarán este órgano.
+
+> <small>(REFORMADO [ADICIONADO], P.O. 29 DE ENERO DE 1993)</small>
+
+Los Diputados electos presentarán sus constancias registradas a la Secretaría de la Legislatura, a fin de que se dé cuenta con ellas en la primera junta preparatoria, que deberá tener verificativo 15 días antes de la apertura de las sesiones, eligiéndose en la propia junta la mesa directiva, conforme a la Ley Orgánica del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
 ###### Art. 46.
 
@@ -547,19 +549,7 @@ El primer Período anual de sesiones ordinarias, dará principio el día 5 de se
 
 La Legislatura se renovará en su totalidad cada tres años, sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros pueda prorrogarse más allá de este período de tiempo.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1990)</small>
-
-###### Art. 45.
-
-La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral, que se integrará con doce presuntos Diputados con constancia de mayoría y ocho presuntos Diputados de representación proporcional.
-
-Los partidos políticos tendrán derecho a designar a los integrantes del Colegio Electoral en número y proporción equivalentes a los que les hayan sido acreditados con las constancias respectivas por la Comisión Estatal Electoral.
-
-Si del cálculo anterior resultara un número fraccionario, se considerará el número entero más cercano; en caso de que la fracción resultante fuese exactamente la mitad, se tomará el entero superior.
-
-La acreditación de los integrantes del Colegio Electoral se hará en orden decreciente comenzando por los partidos que hayan obtenido el mayor número de presuntos Diputados, hasta agotar el número de los que integrarán este órgano.
-
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1993)</small>
 
 #### SECCION TERCERA. DE LA INICIATIVA Y FORMACION DE LEYES Y DECRETOS
 
@@ -698,6 +688,10 @@ IX.- Convocar a elección de Gobernador, Diputados y Miembros de los Ayuntamient
 Para el caso de elecciones de Gobernador, la convocatoria deberá expedirse por lo menos cien días antes de la fecha de la elección y para la de Diputados y Miembros de los Ayuntamientos ochenta días antes.
 
 X. Hacer la computación de votos en la elección de Gobernador y declarar electo al ciudadano que hubiere obtenido la mayoría;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1993)</small>
+
+X-Bis.- Calificar en forma definitiva e inatacable en sesiones de Colegio Electoral las elecciones de Ayuntamientos;
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1945)</small>
 
@@ -2660,3 +2654,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 11 DE SEPTIEMBRE DE 1992
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+P.O. 29 DE ENERO DE 1993
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos previstos por el Artículo 38 que se reforma, de la Constitución Política del Estado, el plazo a que se refiere el artículo 63, fracción VII de la Ley de Organizaciones Políticas y Procesos Electorales del Estado de México, se extenderá por esta única vez hasta treinta días naturales posteriores al inicio de la vigencia de este Decreto.
