@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2000-03-15"
+last_updated: "2000-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2000.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1245,7 +1245,7 @@ El Procurador y sus agentes se someterán estrictamente a las disposiciones de l
 
 ###### Artículo 90.
 
-El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en Juzgados de primera instancia y municipales y en el Jurado Popular.
+El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en Juzgados de primera instancia y municipales.
 
 Corresponde a los tribunales del Estado la facultad de aplicar las leyes en asuntos del orden común, así como en materia federal cuando las leyes los faculten.
 
@@ -1271,23 +1271,35 @@ Los Magistrados y Jueces no podrán en ningún caso aceptar y desempeñar empleo
 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2000)</small>
+
 ###### Artículo 95.
 
-El Tribunal Superior de Justicia se compondrá de 13 Magistrados que serán designados cada seis años, durarán en el ejercicio de su cargo el mismo periodo del Gobernador que los nombró, pudiendo ser ratificados. Funcionará en Pleno o en Salas, excepto al dictar acuerdos de mero trámite.
+El Tribunal Superior de Justicia se compondrá de 13 Magistrados y funcionará en Pleno o en Salas.
+
+Los Magistrados del Tribunal Superior de Justicia, durarán en su encargo catorce años. Sólo podrán ser removidos del mismo en los términos del Título VII de esta Constitución, y al vencimiento de su periodo tendrán derecho a un haber por retiro.
+
+Ninguna persona que haya sido Magistrado podrá ser nombrada para un nuevo periodo, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2000)</small>
 
 ###### Artículo 96.
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia serán hechos por el Gobernador y sometidos a la aprobación de la Legislatura del Estado, la que otorgará o denegará esta aprobación dentro del improrrogable término de diez días. Sin la aprobación de la Legislatura no podrán tomar posesión los Magistrados nombrados por el Gobernador; pero si la Legislatura no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos.
+Para nombrar a los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado someterá una terna a consideración de la Legislatura, la cual, previa comparecencia de las personas propuestas, designará al Magistrado que deba cubrir la vacante. La designación se hará por el voto de las dos terceras partes de los miembros de la Legislatura presentes, dentro del improrrogable plazo de treinta días. Si la Legislatura no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
 
-En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional y será sometido a la aprobación de la Legislatura en el siguiente periodo ordinario de sesiones. En este periodo, dentro de los primeros diez días, la Legislatura deberá aprobar o desechar el nombramiento, y si lo aprueba o nada resuelve el Magistrado nombrado provisionalmente continuará en funciones. Si la Legislatura desecha el nombramiento cesará desde luego en sus funciones el Magistrado Provisional y el Gobernador someterá nuevo nombramiento a la aprobación de la Legislatura.
+En caso de que la Legislatura rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva, en los términos del párrafo anterior. Si ésta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de dicha terna, designe el Gobernador del Estado.
 
-En los casos de faltas temporales de los Magistrados por más de tres meses, serán sustituidos mediante nombramientos que el Gobernador someterá a la aprobación de la Legislatura, observándose en su caso lo dispuesto en los párrafos anteriores.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+
+En los casos de faltas temporales de los Magistrados por más de tres meses, serán sustituidos mediante propuesta de terna que el Gobernador someterá a la aprobación de la Legislatura, observándose en su caso lo dispuesto en los párrafos anteriores.
 
 Si la falta temporal no excede de tres meses, la Ley Orgánica del Poder Judicial determinará la manera de hacer la sustitución.
 
-Si faltare un Magistrado por defunción, renuncia o incapacidad, el Gobernador someterá nuevo nombramiento a la consideración de la Legislatura.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+
+Si faltare un Magistrado por defunción, renuncia o incapacidad, el Gobernador someterá nueva terna a la consideración de la Legislatura.
 
 Los nombramientos de los Magistrados y Jueces serán hechos de preferencia entre aquellas personas que hayan prestado sus servicios con eficacia y probidad en la Administración de Justicia o que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
@@ -1309,27 +1321,35 @@ V. No tener parentesco de consanguinidad hasta el tercer grado con los demás Ma
 
 VI. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+
 ###### Artículo 98.
 
-El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno el primer día hábil de la segunda quincena del mes de septiembre de cada año, y podrá ser reelecto.
+El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno el primer día hábil del mes de febrero de cada tres años, y podrá ser reelecto, una sola vez.
 
-La Presidencia del Tribunal Superior es el órgano de representación y administración del Poder Judicial.
+La Presidencia del Tribunal Superior es el órgano de representación y administración del Poder Judicial. Las ausencias temporales del titular, serán suplidas por el Magistrado Presidente de Sala de mayor antigüedad. En caso de ausencia definitiva, el Pleno hará nueva designación.
 
 ###### Artículo 99.
 
 (DEROGADO, P.O. 26 DE MAYO DE 1999)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2000)</small>
+
 ###### Artículo 100.
 
-Son facultades y obligaciones del pleno del Tribunal Superior de Justicia:
+Son facultades y obligaciones del Pleno del Tribunal Superior de Justicia:
 
-I. Elaborar los reglamentos del Tribunal Superior y de los Juzgados de primera instancia y municipales;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2000)</small>
+
+I. Emitir acuerdos generales; crear o suprimir unidades jurisdiccionales o administrativas; expedir los reglamentos del Tribunal Superior y de los Juzgados de primera instancia y municipales;
 
 II. Iniciar ante la Legislatura las leyes y decretos que tengan por objeto mejorar la Administración de Justicia;
 
 III. Conocer como Jurado de Sentencia en los casos previstos por el Título VII de esta Constitución;
 
-IV. Conocer de las controversias que se susciten entre dos o más Municipios y entre éstos y el Estado en los casos en que ejerciten derechos no políticos;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2000)</small>
+
+IV. Conocer de las controversias que se susciten entre dos o más Municipios, con excepción de las que se refieran a la materia electoral;
 
 V. Nombrar a los demás trabajadores al servicio del Poder Judicial, así como adscribir a Jueces y trabajadores de un Juzgado a otro o a distrito distinto; admitirles sus renuncias; concederles, sin goce de sueldo, las licencias que soliciten para separarse del despacho; destituirlos o suspenderlos hasta por tres meses, previa audiencia del interesado, por causa grave justificada que no dé lugar a que se le enjuicie, e imponerles las sanciones económicas que determinen las leyes;
 
@@ -1349,7 +1369,15 @@ X. Emitir opinión acerca de la legalidad de una ley antes de que sea publicada,
 
 XI. Establecer la distritación judicial de conformidad con las reglas que contemple la ley;
 
-XII. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2000)</small>
+
+XII. Establecer la jurisprudencia del Tribunal Superior de Justicia y resolver las contradicciones, en base a las ejecutorias de las Salas, en términos de ley;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2000)</small>
+
+XIII. Ejercer, en forma independiente al presupuesto de egresos, el Fondo Auxiliar para la Administración de Justicia;
+
+XIV. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
 
 ###### Artículo 101.
 
@@ -1369,7 +1397,7 @@ VI. De los demás asuntos que las leyes sometan a su jurisdicción.
 
 #### SECCIÓN SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
 
 ###### Artículo 102.
 
@@ -1433,7 +1461,9 @@ V. Aprobar el examen de oposición respectivo.
 
 En cada cabecera municipal del Estado funcionará un Juez municipal.
 
-Los Jueces municipales serán designados por el Tribunal Superior de Justicia de una terna propuesta por los Ayuntamientos; durarán en su cargo el mismo periodo que los Ayuntamientos que los propusieron.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+
+Los Jueces municipales serán designados por el Tribunal Superior de Justicia.
 
 La remuneración de los Jueces municipales y los gastos que se requieran para el funcionamiento de los Juzgados de esta categoría, serán cubiertos por el erario respectivo.
 
@@ -1441,15 +1471,17 @@ La remuneración de los Jueces municipales y los gastos que se requieran para el
 
 Los Jueces municipales tendrán las facultades y obligaciones que les atribuya la Ley Orgánica del Poder Judicial.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE MAYO DE 2000)</small>
+
 #### SECCIÓN CUARTA. DE LOS JUECES DE PRIMERA INSTANCIA Y MUNICIPALES
 
 ###### Artículo 110.
 
-Las leyes en materia de procedimientos penales organizarán el Jurado Popular y determinarán su competencia, así como los procedimientos a que estará sujeto el ejercicio de sus funciones y los efectos legales de los veredictos que emita.
+(DEROGADO, P.O. 10 DE MAYO DE 2000)
 
 ###### Artículo 111.
 
-Es deber de los ciudadanos que sepan leer y escribir formar parte del Jurado Popular cuando se les asigne esa función de conformidad con las disposiciones legales, las cuales fijarán la remuneración a que tendrán derecho por el tiempo que destinen a esa actividad de servicio civil obligatorio.
+(DEROGADO, P.O. 10 DE MAYO DE 2000)
 
 ### CAPÍTULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
 
@@ -2232,3 +2264,47 @@ TERCERO.- En tanto la Entidad de Fiscalización Superior del Estado no empiece a
 Una vez creada la Entidad de Fiscalización Superior del Estado, todos los recursos humanos, materiales y patrimoniales en general de la Contaduría Mayor de Hacienda al quedar extinta, pasarán a formar parte de la Entidad de Fiscalización Superior.
 
 CUARTO.- El encargado del despacho de la Contaduría Mayor de Hacienda, continuará desempeñando tal cargo, hasta el día 31 de marzo del año 2000.
+
+P.O. 10 DE MAYO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado, con las salvedades a que se refieren los siguientes artículos transitorios.
+
+SEGUNDO.- En un plazo que no excederá de seis meses, deberá expedirse la nueva Ley Orgánica del Poder Judicial.
+
+TERCERO.- Para garantizar la renovación escalonada y la no interrupción de las actividades del Tribunal Superior de Justicia; por única vez, los actuales Magistrados concluirán su cargo y pasarán a situación de retiro, asignándoles a cada uno su pensión correspondiente.
+
+Las fechas de retiro a que se refiere el párrafo anterior, será:
+
+Día Mes Año Magistrado
+
+31 Enero 2001 Lic. José de Jesús Gutiérrez Vázquez
+
+31 Enero 2002 Lic. Leopoldo Enrique Santos Pérez
+
+31 Enero 2002 Lic. José María Soto Solís
+
+31 Enero 2004 Lic. Felipe Borrego Estrada
+
+31 Enero 2004 Lic. Roberto Durán Donlucas
+
+31 Enero 2006 Lic. Antonio Pinedo del Real
+
+31 Enero 2006 Lic. Armando Ambriz Medina
+
+31 Enero 2008 Lic. Manuel Ortega Martínez
+
+31 Enero 2008 Lic. Yrene Ramos Dávila
+
+31 Enero 2010 Lic. José Guadalupe García Balandrán
+
+31 Enero 2010 Lic. María del Carmen Arellano Cardona
+
+31 Enero 2012 Lic. José Antonio Rincón González
+
+31 Enero 2012 Lic. Abelardo Esparza Frausto
+
+CUARTO.- Los nombramientos que de Magistrado del Tribunal Superior de Justicia llegaren a expedirse a partir del inicio de vigencia de este Decreto y hasta antes del 12 de septiembre del año 2004, tendrán la duración señalada en el anterior artículo transitorio, de tal forma que los nuevos Magistrados únicamente completen el periodo que corresponde al Magistrado que van a sustituir, de conformidad con el calendario de renovación escalonada previsto en este Decreto.
+
+QUINTO.- La reforma al párrafo primero del artículo 98 del presente decreto, entrará en vigor el día 31 de enero del año 2001.
+
+SEXTO.- Las reformas al artículo 108 a que se refiere este Decreto, entrarán en vigor el 15 de noviembre del año 2001. En un plazo que no excederá de seis meses, contados a partir de tal fecha, deberá reformarse la Ley Orgánica del Municipio Libre del Estado de Zacatecas, en lo que concierne a juzgados municipales.
