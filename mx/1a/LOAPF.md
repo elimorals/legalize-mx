@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1986-05-14"
+last_updated: "1986-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MAYO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -768,7 +768,9 @@ A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los 
 
 I.- Formular y conducir las políticas y programas para el desarrollo del transporte y las comunicaciones de acuerdo a las necesidades del país;
 
-II.- Organizar y administrar los servicios de correos y telégrafos en todos sus aspectos y conducir la administración de los servicios federales de comunicaciones eléctricas y electrónicas y su enlace con los servicios similares públicos concesionados, con los servicios privados de teléfonos, telégrafos e inalámbricos y con los estatales y extranjeros; así como la del servicio público de procesamiento remoto de datos;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
+II.- Regular, inspeccionar y vigilar los servicios públicos de correos y telégrafos y sus servicios diversos; conducir la administración de los servicios federales de comunicaciones eléctricas y electrónicas y su enlace con los servicios similares públicos concesionados con los servicios privados de teléfonos, telégrafos e inalámbricos y con los estatales y extranjeros; así como del servicio público de procesamiento remoto de datos;
 
 III.- Otorgar concesiones y permisos previa opinión de la Secretaría de Gobernación, para establecer y explotar sistemas y servicios telegráficos, telefónicos, sistemas y servicios de comunicación inalámbrica por telecomunicaciones y satélites, de servicio público de procesamiento remoto de datos, estaciones radio experimentales, culturales y de aficionados y estaciones de radiodifusión comerciales y culturales; así como vigilar el aspecto técnico del funcionamiento de tales sistemas, servicios y estaciones;
 
@@ -976,7 +978,7 @@ A la Secretaría de Salud, corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
-I.- Establecer y conducir la política nacional en materia de asistencia social, servicios médicos y salubridad general, con excepción de lo relativo al saneamiento del ambiente; y coordinar los programas de servicios a la salud de la Administración Pública Federal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen.
+I.- Establecer y conducir la política nacional en materia de asistencia social, servicios médicos y salubridad general, con excepción de lo relativo al saneamiento del ambiente; y coordinar los programas de servicios a la salud de la Administración Pública Federal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -1391,3 +1393,7 @@ D.O.F. 14 DE MAYO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1986.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
