@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1996-12-27"
+last_updated: "1997-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -181,7 +181,7 @@ ANUALES: A PAGAR:
 
 9.- " $1'100,000.01 " "1'300,000.00 $660.00
 
-10.- " $1'300,000.01 " "1 '600,000.00 $690.00
+10.- " $1'300,000.01 " "1'600,000.00 $690.00
 
 11.- " $1'600,000.01 " "2'000,000.00 $745.00
 
@@ -1295,11 +1295,11 @@ El costo a que se refiere el Artículo anterior disminuirá para los efectos de 
 
 Cuando un predio afectado por expropiación lo sea también por este impuesto, el monto de este último se abonará al costo de la primera en la medida de su respectiva compensación.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 41 Bis 15.
 
-El impuesto deberá ser pagado en la época que señale el Decreto Legislativo que lo declare aplicable a un caso concreto de urbanización.
+El impuesto se causará al día siguiente de la publicación del decreto legislativo que lo declare aplicable y deberá ser pagado dentro de los cinco días siguientes de notificada la liquidación correspondiente, en la forma y términos que se establezcan en el propio decreto.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1319,7 +1319,9 @@ Determinada dicha área de imposición se calculará el impuesto correspondiente
 
 a) Costo de la obra por derramar.
 
-b) El plano de conjunto del área de imposición, señalándose para cada predio su ubicación, su área, la distancia de su centro de gravedad al eje de la mejora, y sus características propias como son: su importancia actual y futura probable dentro de la zona en que esté ubicado, así como la proporcionalidad que existe actualmente y que vaya a existir probablemente en el futuro, respecto a la importancia entre él y los demás predios de su manzana, entre él y las demás manzanas de su zona y entre él y las demás zonas incluídas en el área de imposición en su caso.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1997)</small>
+
+b) El plano de conjunto del área de imposición, señalándose para cada predio su ubicación, su área, la distancia de su centro de gravedad al eje de la mejora y sus características propias como son: su importancia actual y futura dentro de la zona en que esté ubicado, así como la proporcionalidad que existe actualmente y que vaya a existir en el futuro, respecto a la importancia entre él y los demás predios de su manzana, entre él y las demás manzanas de su zona y entre él y las demás zonas incluidas en el área de imposición en su caso. A fin de determinar la importancia y proporcionalidad de cada predio, se tomará en cuenta las características topográficas de cada predio en particular y los coeficientes de utilización del suelo y sus diferentes usos autorizados conforme a la Ley de Desarrollo Urbano del Estado y demás instrumentos contenidos en esa Ley, aplicables para cada zona, sector o municipio de conformidad a los factores que se establezcan en el Decreto Legislativo que apruebe la aplicación del impuesto.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1397,11 +1399,9 @@ V.- Rendidas las pruebas y recibidos, en su caso, los informes, se dictará reso
 
 En lo no previsto por esta Ley, la aplicación y recaudación del impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad, se hará con apego a las disposiciones del Código Fiscal vigente en el Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
-
 ###### ARTICULO 41 Bis 24.
 
-El impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad será exigible desde el día siguiente al en que se publique en el Periódico Oficial del Gobierno del Estado el Decreto mediante el cual se ordene la ejecución de la obra.
+(DEROGADO, P.O. 12 DE FEBRERO DE 1997)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -3076,3 +3076,7 @@ SEGUNDO.- De acuerdo con lo dispuesto en el artículo 28 bis-8, los fraccionador
 TERCERO.- Durante 1997, el Presidente Municipal podrá establecer una tasa menor en el Impuesto Sobre Diversiones y Espectáculos Públicos, hasta del 50% de la tasa establecida en el artículo 31 de esta Ley.
 
 CUARTO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1997.
+
+P.O. 12 DE FEBRERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
