@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-evaluacion-y-acreditacion-de-la-universidad-23699
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2002-02-16"
+last_updated: "2003-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE EVALUACION Y ACREDITACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2003.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -37,9 +37,21 @@ REGLAMENTO DE EVALUACIÓN Y ACREDITACIÓN
 
 Este reglamento es aplicable a todos los alumnos inscritos de la Universidad Tecnológica de Nayarit.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+
 ###### ARTÍCULO 2o.
 
-La evaluación de los alumnos comprenderá la medición en lo individual de los conocimientos, habilidades, destrezas, actitudes, valores y en general, el logro de los propósitos establecidos en los planes y programas de estudio.
+La evaluación de los alumnos comprenderá la medición en lo individual de los conocimientos, habilidades, destrezas, actitudes, valores y en general, el logro de los propósitos establecidos en los planes y programas de estudio, conforme lo señalado en el modelo de Universidades Tecnológicas:
+
+I. Sistemática.- Debe tomar en cuenta el desarrollo armónico de las facultades del estudiante, la información necesaria para el ejercicio eficaz, las habilidades de operación y, en general, la formación en los contenidos que integran los grandes ejes del plan de estudios;
+
+II. Continua.- Que considere los diferentes momentos del hecho educativo y su integración en el proceso que conduce al cumplimiento de los objetivos de un curso y los del perfil profesional en general;
+
+III. Flexible.- Los procedimientos de evaluación, ha de adaptarse a las diferentes formas de cursos, según se enseñe a través del aula, las prácticas en el laboratorio o taller, las prácticas en la empresa, conferencias, seminarios, etc.;
+
+IV. Integral.- Que contemple los ejercicios relacionados con la teoría y la técnica científicas, con la práctica profesional, y con problemas reales que presente el campo productivo;
+
+V. Regresiva y prospectiva.- Debe verificar la calidad y el nivel de lo aprendido en el proceso de enseñanza-aprendizaje, así como detectar el nivel de propuesta e iniciativa que, sobre todo en problemas reales, manifieste el estudiante.
 
 ###### ARTÍCULO 3o.
 
@@ -83,19 +95,25 @@ Para que el alumno acredite una asignatura, es indispensable aprobar el 100% de 
 
 Cuando el alumno no se presente a la evaluación a que tiene derecho, se reportará calificación reprobatoria "NA" en el concentrado de calificaciones.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+
 ###### ARTÍCULO 9o.
 
-La calificación de cada asignatura se expresará en cuatro resultados parciales; la calificación final será el promedio de los cuatro anteriores, mismos que entregarán los profesores de cada asignatura a los Directores de Carrera y a Servicios Escolares, según tiempos que establezca el calendario escolar de la Institución.
+La calificación de cada asignatura se expresará en tres resultados parciales; la calificación final será el promedio de los tres anteriores, mismos que entregarán los profesores de cada asignatura a los Directores de Carrera y éste a Servicios Escolares, según tiempos que establezca el calendario escolar de la Institución.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 10.
 
-Las evaluaciones Ordinaria y Remedial se realizarán en las fechas que establezcan los Directores de Carrera.
+Las evaluaciones Ordinaria y Remedial se realizarán en las fechas que establezcan los Directores de Carrera, quienes establecerán los mecanismos de asesoría y tutoría como apoyo personal durante las evaluaciones.
 
 ###### ARTÍCULO 11.
 
 Las evaluaciones extraordinarias y de última asignatura solamente se realizarán en las fechas y horarios que establezca la Dirección de la Carrera respectiva de acuerdo al calendario escolar.
 
-Dichas evaluaciones deberán permanecer en la Dirección de la Carrera respectiva por un período mínimo de un año después de la aplicación.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+
+Dichas evaluaciones deberán llevar un proceso didáctico pedagógico, considerando prácticas, resolución de problemas, exámenes teóricos y prácticos y permanecer en la Dirección de la Carrera respectiva por un período mínimo de un año después de la aplicación.
 
 ###### ARTÍCULO 12.
 
@@ -193,9 +211,11 @@ I.- Cuando el alumno no acreditó una o más unidades de aprendizaje comprendida
 
 II.- No haber presentado la Evaluación Ordinaria teniendo derecho a ella, previa justificación por escrito del Director de Carrera y del Tutor de Grupo.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+
 ###### ARTÍCULO 30.
 
-El alumno tendrá derecho a presentar una Evaluación Remedial por cada Evaluación Ordinaria practicada en cada asignatura.
+El alumno tendrá derecho a presentar hasta cuatro Evaluaciones Remediales de cada Evaluación Ordinaria, practicada en cada periodo de evaluación.
 
 ###### ARTÍCULO 31.
 
@@ -211,9 +231,11 @@ Cuando un alumno no presente una Evaluación Remedial se asentará en el concent
 
 ### CAPÍTULO CUARTO. EVALUACIÓN EXTRAORDINARIA
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+
 ###### ARTÍCULO 34.
 
-La Evaluación Extraordinaria es aquella que se lleva a cabo cuando el alumno no acreditó la asignatura en la Evaluación Remedial.
+La Evaluación Extraordinaria, es aquella que se lleva a cabo conforme al artículo 2°; cuando el alumno no acreditó la asignatura en la Evaluación Remedial.
 
 ###### ARTÍCULO 35.
 
@@ -255,21 +277,17 @@ La calificación máxima en una Evaluación Extraordinaria será de nueve.
 
 ### CAPÍTULO QUINTO. EVALUACIÓN DE ÚLTIMA ASIGNATURA
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+
 ###### ARTÍCULO 42.
 
-La evaluación de Última Asignatura es aquella que se concede al alumno al final del cuatrimestre en una sola asignatura y por única ocasión durante su carrera, siendo ésta la última oportunidad para acreditarla. Esta evaluación podrá solicitarse del primero al quinto cuatrimestre.
+La evaluación de Última Asignatura, es aquella que se concede al alumno al final del cuatrimestre en una sola asignatura conforme al artículo 2°, y por única ocasión durante su carrera, siendo ésta la última oportunidad para acreditarla. Esta evaluación podrá solicitarse del primero al quinto cuatrimestre.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 43.
 
-Para que un alumno tenga derecho a presentar evaluación de Última Asignatura, el alumno deberá cumplir con los siguientes requisitos:
-
-I.- Que del resultado de esta evaluación dependa la permanencia del alumno en la Institución;
-
-II.- Presentar escrito al Departamento de Servicios Escolares solicitando la aplicación de la evaluación de Última Asignatura, dentro de los tres días hábiles contados a partir del día hábil siguiente de la publicación de las listas de calificaciones de exámenes extraordinarios;
-
-III.- Cubrir el importe de los derechos del examen de Última Asignatura en el período establecido por el Departamento de Servicios Escolares;
-
-IV. Cumplir con los demás requisitos a que se refieren las fracciones I, III, IV y V del artículo 39 de este Reglamento.
+Cumplir con los demás requisitos a que se refieren las fracciones I, III, IV y V del artículo 38 de este Reglamento.
 
 ###### ARTÍCULO 44.
 
@@ -428,3 +446,9 @@ Lic. David Guerrero Castellón
 Secretario
 
 Lic. Laura O. Bañuelos Quintero
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE JULIO DE 2003.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
