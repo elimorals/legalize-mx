@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-servicio-de-transporte-publico-de-taxi-14747
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-23"
-last_updated: "2000-10-05"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14747&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-08-18"
 
 REGLAMENTO PARA EL SERVICIO DE TRANSPORTE PUBLICO DEL TAXI EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE OCTUBRE DE 2000.
+> <small>N. DE E. ESTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPORTE DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EL DIA 30 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 23 de agosto de 1999.
 
@@ -1041,3 +1043,21 @@ G.O. 5 DE OCTUBRE DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del distrito federal.
 
 SEGUNDO.- Se derogan las disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2003.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Se abrogan los siguientes Reglamentos:
+
+I. Reglamento para el Servicio de Transporte de Pasajeros en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 23 de agosto de 1999;
+
+II. Reglamento para el Servicio de Transporte de Carga en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 23 de agosto de 1999;
+
+III. Reglamento para el Servicio de Transporte Público de Taxi en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 23 de agosto de 1999;
+
+IV. Las disposiciones jurídicas y administrativas que se opongan al presente Reglamento.
+
+Tercero.- La Secretaría instrumentará lo necesario para que los Manuales, Instructivos y demás instrumentos de apoyo administrativo se adecuen a las disposiciones del presente reglamento.
+
+Cuarto.- Las cesiones de derechos efectuadas al amparo de la Ley de Transporte del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 21 de diciembre de 1995, se formalizarán conforme al procedimiento que para el efecto establezca la Secretaría.
