@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-29013"
 country: "mx"
 rank: "constitucion"
 publication_date: "1824-11-18"
-last_updated: "1830-10-11"
+last_updated: "1832-10-06"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO (1824)
 
-ULTIMA REFORMA PUBLICADA: 30 DE SEPTIEMBRE DE 1830
+ULTIMA REFORMA PUBLICADA: 27 DE SEPTIEMBRE DE 1833
 
 Constitución publicada el día 18 del mes de noviembre de 1824.
 
@@ -655,17 +655,17 @@ Sexta. Consultar al gefe de policía en los asuntos en que pida dictámen.
 
 223. Respecto de los militares y eclesiásticos, se observará lo dispuesto en el art. 154 de la Constitucion federal de los Estados - Unidos mejicanos.
 
-224. En las causas criminales que se formen en estos tribunales, por delitos que merezcan pena corporal, habrá jueces de hecho distintos de los que componen el tribunal.
+224. (DEROGADO, 27 DE SEPTIEMBRE DE 1833)
 
-225. Los jueces de hecho lo serán los jurados que se nombrarán en la cabecera de cada ayuntamiento, en el tiempo y forma que determine la ley.
+225. (DEROGADO, 27 DE SEPTIEMBRE DE 1833)
 
-226. La misma ley determinará todas las formalidades que deben observarse para la celebracion del juri.
+226. (DEROGADO, 27 DE SEPTIEMBRE DE 1833)
 
-227. Este se celebrará á los ocho dias, cuando mas tarde, despues de haberse comenzado la causa.
+227. (DEROGADO, 27 DE SEPTIEMBRE DE 1833)
 
-228. El juicio de los jurados se limitará precisamente á declarar si el preso es ó no autor del hecho.
+228. (DEROGADO, 27 DE SEPTIEMBRE DE 1833)
 
-229. En el segundo caso luego será puesto en libertad el preso, y en el primero se seguirá la causa por el tribunal de primera instancia.
+229. (DEROGADO, 27 DE SEPTIEMBRE DE 1833)
 
 230. Cuando el Congreso lo estime conveniente, se establecerá en el Estado el juicio por jurados, con toda la extension que corresponde.
 
@@ -697,9 +697,9 @@ Quinto. Oir las dudas de ley que se ofrezcan á cualquiera de las dos primeras s
 
 239. En los recursos de nulidad que se ofrezcan, en las causas de que hablan los dos artículos anteriores, conocerán tres jueces que se nombrarán por el Congreso.
 
-240. Cada cuatro años nombrará el Congreso tres letrados para formar un tribunal temporal que se denominará tribunal de visita de todos los juzgados del Estado, y se disolverá luego que concluya su comisión.
+240. (DEROGADO, 27 DE SEPTIEMBRE DE 1833)
 
-241. Sus funciones se contraerán á hacer una visita de todos los negocios despachados, y que se hallaren pendientes en los tribunales del Estado, dando cuenta con el resultado al Congreso.
+241. (DEROGADO, 27 DE SEPTIEMBRE DE 1833)
 
 242. Los individuos del Supremo tribunal de Justicia deben ser ciudadanos en el ejercicio de sus derechos, mayores de treinta años, y vecinos del Estado, con residencia en él los cinco años anteriores al de su eleccion.
 
@@ -785,10 +785,14 @@ Tomado de: Colección de los Decretos, Circulares y Ordenes de los Poderes Legis
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
-PUBLICADO 17 DE MAYO DE 1830
+PUBLICADO, 17 DE MAYO DE 1830
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
 
 PUBLICADO 30 DE SEPTIEMBRE DE 1830
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
+
+PUBLICADO, 27 DE SEPTIEMBRE DE 1833
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
