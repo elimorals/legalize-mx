@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2003-04-10"
+last_updated: "2003-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -600,9 +600,11 @@ IV.- Elaborar los programas regionales y especiales que le señale el Ejecutivo 
 
 V.- Evaluar la aplicación de las transferencias de fondos en favor de estados y municipios, y de los sectores social y privado que se deriven de las acciones e inversiones convenidas, en los términos de las fracciones anteriores;
 
-VI.- Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los grupos indígenas y de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2003)</small>
 
-VII.- Estudiar las circunstancias socioeconómicas de los pueblos indígenas y dictar las medidas para lograr que la acción coordinada del poder público redunde en provecho de los mexicanos que conserven y preserven sus culturas, lenguas, usos y costumbres originales, así como promover y gestionar ante las autoridades federales, estatales y municipales, todas aquellas medidas que conciernan al interés general de los pueblos indígenas;
+VI.- Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales y, con la participación de los sectores social y privado;
+
+VII.- (DEROGADA, D.O.F. 21 DE MAYO DE 2003)
 
 VIII.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2000)
 
@@ -618,7 +620,7 @@ XII.- Promover y concertar programas de vivienda y de desarrollo urbano, y apoya
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
-XIII.- Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con las Secretarías del Trabajo y Previsión Social y de Economía.
+XIII.- Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con las Secretarías del Trabajo y Previsión Social y de Economía;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -874,7 +876,7 @@ III.- Establecer la Política de industrialización, distribución y consumo de 
 
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 1995)</small>
 
-IV.- Fomentar, en coordinación con la Secretaría de Relaciones Exteriores, el comercio exterior del país.
+IV.- Fomentar, en coordinación con la Secretaría de Relaciones Exteriores, el comercio exterior del país;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -1076,7 +1078,7 @@ XXI.- Fomentar la actividad pesquera a través de una entidad pública que tendr
 
 a) Realizar directamente y autorizar conforme a la ley, lo referente a acuacultura; así como establecer viveros, criaderos y reservas de especies acuáticas;
 
-b) Promover, fomentar y asesorar técnicamente la producción, industrialización y comercialización de los productos pesqueros en todos sus aspectos, en coordinación con las dependencias competentes:
+b) Promover, fomentar y asesorar técnicamente la producción, industrialización y comercialización de los productos pesqueros en todos sus aspectos, en coordinación con las dependencias competentes;
 
 c) Estudiar, proyectar, construir y conservar las obras de infraestructura pesquera y de acuacultura que requiere el desarrollo del sector pesquero, con la participación de las autoridades estatales, municipales o de particulares;
 
@@ -1876,7 +1878,7 @@ TERCERO.- A partir de la entrada en vigor del presente Decreto, se suprime la re
 
 CUARTO.- A partir de la entrada en vigor del presente Decreto, el Consejo Directivo del Instituto Nacional Indigenista, será presidido por el Secretario de Desarrollo Social.
 
-QUINTO.- El personal, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la Secretaría de Desarrollo Urbano y Ecología utiliza para la atención de los asuntos a su cargo, pasarán a la Secretaría de Desarrollo Social, con excepción de aquellos destinados a las funciones que por este Decreto se transfieren a las Secretarías de Agricultura y Recursos Hidráulicos y de Pesca, mismos que pasarán a estas dependencias. Asimismo, pasarán a la Secretaría de Desarrollo Social el personal y recursos financieros y materiales asignados a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que tienen asignadas las funciones a que se refieren las fracciones II a VI y VIII del artículo 32 modificado. También pasarán a la Secretaría de Desarrollo Social, el personal y recursos financieros y materiales asignados a las unidades administrativas de la Secretaría de Educación Pública que tienen asignadas las funciones a que se refiere la fracción VII del artículo 32 modificado.
+QUINTO.- El personal, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la Secretaría de Desarrollo Urbano y Ecología utiliza para la atención de los asuntos a su cargo, pasarán a la Secretaría de Desarrollo Social, con excepción de aquellos destinados a las funciones que por este Decreto se transfieren a las Secretarías de Agricultura y Recursos Hidráulicos y de Pesca, mismos que pasarán a estas dependencias. Asimismo, pasarán a la Secretaría de Desarrollo Social el personal y recursos financieros y materiales asignados a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que tienen asignadas las funciones a que se refieren las fracciones II a VI y VIII del artículo 32 modificado.También pasarán a la Secretaría de Desarrollo Social, el personal y recursos financieros y materiales asignados a las unidades administrativas de la Secretaría de Educación Pública que tienen asignadas las funciones a que se refiere la fracción VII del artículo 32 modificado.
 
 SEXTO.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pase de una dependencia a otra, se respetarán conforme a la ley.
 
@@ -2059,3 +2061,7 @@ Artículo Primero.- La Secretaría de Hacienda y Crédito Público realizará lo
 Artículo Segundo.- Aquellas disposiciones que hagan mención a la Secretaría de la Contraloría y Desarrollo Administrativo se entenderán referidas a la Secretaría de la Función Pública.
 
 Artículo Tercero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE MAYO DE 2003.
+
+Unico.- Los artículos segundo y tercero de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
