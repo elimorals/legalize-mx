@@ -4,7 +4,7 @@ identifier: "COA-ley-general-de-bienes-del-estado-de-coahuila-4011"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-09-04"
-last_updated: "1977-04-08"
+last_updated: "2001-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY GENERAL DE BIENES DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el miércoles 4 de septiembre de 1974.
 
@@ -81,9 +81,13 @@ III.- Los bienes que hayan formado parte de una corporación pública creada por
 
 IV.- Los demás inmuebles y muebles que por cualquier título traslativo de dominio, adquiera el Estado, y que no estén comprendidos en el artículo 2o. de esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 4o.
 
-Los bienes a que se refiere el artículo anterior, pasarán a formar parte del dominio público cuando sean destinadas al uso común, a un servicio público o a alguna de las actividades que se equiparan a los servicios públicos, o de hecho se utilicen en esos fines.
+Los bienes a que se refiere el artículo anterior, así como los que formen parte de los bienes del dominio privado de los municipios, pasarán a formar parte del dominio público cuando sean destinados al uso común, a un servicio público o a alguna de las actividades que se equiparán a los servicios públicos o de hecho que se utilicen para esos fines.
+
+Corresponderá a los ayuntamientos de la entidad, previo acuerdo de las dos terceras partes de sus miembros, incorporar al dominio público, mediante acuerdo expreso, un bien que forme parte del dominio privado del municipio, siempre que su posesión corresponda al respectivo municipio.
 
 ###### ARTICULO 5o.
 
@@ -177,6 +181,10 @@ Si el afectado no estuviese conforme con el monto de la indemnización, ésta se
 
 Los bienes inmuebles del dominio público sólo podrán ser enajenados conforme a la ley previo decreto de desincorporación dictado por el Congreso del Estado, cuando por algún motivo dejen de servir para el fin a que hayan sido destinados.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Tratándose de la desincorporación de inmuebles propiedad de los municipios, deberán acreditarse ante el Congreso del Estado, en los términos de las disposiciones aplicables, las causas que la motivan.
+
 ###### ARTICULO 17.
 
 Son bienes de uso común:
@@ -237,6 +245,10 @@ Los bienes a que se refiere la fracción VII del artículo 20 de esta Ley, siemp
 
 Otorgada la autorización a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Tratándose de los bienes inmuebles que constituyan el patrimonio de entidades paramunicipales, siempre que no se trate de bienes del dominio público, podrán gravarse por acuerdo de las dos terceras partes de los miembros del ayuntamiento, conforme a lo previsto en este artículo y demás disposiciones aplicables.
+
 ###### ARTICULO 23.
 
 Si una dependencia del Poder Ejecutivo estimare conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a la Secretaría General de Gobierno la que, previo acuerdo del C. Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos, llegando al otorgamiento, registro y archivo de los documentos respectivos.
@@ -256,6 +268,10 @@ Los inmuebles a que se refiere el artículo 23 de esta Ley, cuando no hayan sido
 ###### ARTICULO 26.
 
 Para destinar un inmueble del dominio privado del Estado a determinado servicio público, será necesario acuerdo expreso del Gobernador del Estado. El cambio de destino de un inmueble afecto al servicio público, así como la declaración de que el mismo ya no es propio para tal aprovechamiento deberán hacerse mediante decreto que expedirá el Congreso del Estado, oyendo previamente los argumentos de hecho y de derecho que expongan el Poder Ejecutivo o el Poder Judicial en su caso.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Para destinar un inmueble del dominio privado de los municipios a determinado servicio público, así como cambiar el destino de un inmueble afecto al servicio público, se requerirá del acuerdo de las dos terceras partes de los miembros del ayuntamiento.
 
 ###### ARTICULO 27.
 
@@ -305,6 +321,10 @@ III.- Cuando se haga para disponer del importe de su venta a fin de adquirir o c
 
 IV.- Cuando sea indispensable para satisfacer exigencias de habitación popular u otras necesidades sociales, a juicio del C. Gobernador del Estado.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los inmuebles propiedad de los municipios que no formen parte del dominio público podrán enajenarse cuando exista acuerdo expreso de las dos terceras partes de los miembros del ayuntamiento, siempre que se justifique, en los términos de las disposiciones aplicables, la enajenación correspondiente.
+
 ###### ARTICULO 34.
 
 El Ejecutivo del Estado gestionará que el Gobierno Federal ceda o transfiera a título gratuito los bienes propios federales que se localicen dentro del Estado y que no estén destinados a algún servicio público o social, en los términos del artículo 38 de la Ley General de Bienes Nacionales.
@@ -316,6 +336,10 @@ Los particulares podrán adquirir por prescripción los inmuebles de dominio pri
 ###### ARTICULO 36.
 
 La enajenación de los bienes inmuebles del dominio privado del Estado sólo podrá hacerse en los casos y bajo las condiciones que fije esta ley, y previa autorización del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+La enajenación de los bienes que constituyan el patrimonio inmobiliario de los municipios, sólo podrá realizarse previo acuerdo de las dos terceras partes de los miembros del ayuntamiento, en los términos previstos en esta ley y demás disposiciones aplicables.
 
 ###### ARTICULO 37.
 
@@ -354,6 +378,10 @@ La violación de cualquiera de los preceptos anteriores, será causa de nulidad 
 ###### ARTICULO 44.
 
 Los bienes inmuebles de dominio privado pueden ser objeto de todos los contratos que regula el derecho común, con la condición de que el Congreso del Estado los autorice cuando se trate de actos de dominio.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+En el caso de que los inmuebles sean propiedad municipal se requerirá, cuando el plazo de vigencia del contrato sea superior al período del ayuntamiento, del acuerdo de las dos terceras partes de los miembros del mismo.
 
 ###### ARTICULO 45.
 
@@ -409,11 +437,11 @@ DEL REGISTRO DE LA PROPIEDAD ESTATAL.
 
 Los bienes de dominio del poder público del Estado se inscribirán en el Registro Público de la Propiedad.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1977)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 54.
 
-La Ley Reglamentaria del Registro Público de la Propiedad del Estado de Coahuila de Zaragoza determinará la forma de llevar el Registro de la Propiedad Estatal y la obligación de los encargados de llevarlo de permitir a las personas que lo soliciten, que se enteren de las inscripciones que existen en los libros respectivos y de los documentos relacionados con las inscripciones que estén archivadas en sus apéndices.
+Los bienes de dominio del poder público del Estado se inscribirán en el Registro Público.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 1977)</small>
 
@@ -550,3 +578,23 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 ...
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE MARZO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en coordinación con todos los Ayuntamientos de la entidad, antes del inicio del ejercicio fiscal del año 2002, establecerán los criterios necesarios para que los valores unitarios de suelo y de construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las reformas o adiciones legales correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Para tal efecto, el Congreso del Estado a través de la Comisión de Finanzas coordinará, a partir de la entrada en vigor de este decreto, un programa con los municipios para definir los criterios proporcionales y equitativos que se deben establecer para fijar la base de las contribuciones sobre la propiedad inmobiliaria, de conformidad con las disposiciones aplicables.
+
+En este programa deberá participar el Instituto Coahuilense del Catastro y la Información Territorial como órgano de apoyo y asesoría necesaria.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario.
